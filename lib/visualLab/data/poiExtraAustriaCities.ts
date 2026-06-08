@@ -1296,6 +1296,114 @@ export const austriaCities: POI[] = [
                         13.21637,
                         47.419935
                   ]
+            },
+            {
+                  "name": "Burgruine Bachsfall",
+                  "text": "Die Burgruine Bachsfall bei Bischofshofen ist der Überrest einer mittelalterlichen Höhenburg. Die Anlage bietet einen historischen Einblick in die Verteidigungsarchitektur der Region.",
+                  "category": "castle",
+                  "coords": [
+                        13.206134,
+                        47.410587
+                  ]
+            },
+            {
+                  "name": "Sinnhubschlössl",
+                  "text": "Das Sinnhubschlössl in Bischofshofen ist eine archäologische Fundstätte einer befestigten Siedlung. Grabungen brachten hier bedeutende Artefakte aus verschiedenen Epochen ans Licht.",
+                  "category": "historical",
+                  "coords": [
+                        13.209206,
+                        47.437551
+                  ]
+            },
+            {
+                  "name": "Götschenberg",
+                  "text": "Die Götschenberg ist eine archaeological site in Bischofshofen. Sie ist ein interessanter Ort für Besucher dieser Region.",
+                  "category": "historical",
+                  "coords": [
+                        13.211035,
+                        47.402738
+                  ]
+            },
+            {
+                  "name": "Jagerköpfl",
+                  "text": "Die Jagerköpfl ist eine peak in Bischofshofen. Sie ist ein interessanter Ort für Besucher dieser Region.",
+                  "category": "natural",
+                  "coords": [
+                        13.18829,
+                        47.426852
+                  ]
+            },
+            {
+                  "name": "Auköpfl",
+                  "text": "Die Auköpfl ist eine peak in Bischofshofen. Sie ist ein interessanter Ort für Besucher dieser Region.",
+                  "category": "natural",
+                  "coords": [
+                        13.193619,
+                        47.436062
+                  ]
+            },
+            {
+                  "name": "Buchberg",
+                  "text": "Die Buchberg ist eine peak in Bischofshofen. Sie ist ein interessanter Ort für Besucher dieser Region.",
+                  "category": "natural",
+                  "coords": [
+                        13.244261,
+                        47.408264
+                  ]
+            },
+            {
+                  "name": "Kultursaal",
+                  "text": "Die Kultursaal ist eine arts centre in Bischofshofen. Sie ist ein interessanter Ort für Besucher dieser Region.",
+                  "category": "cultural",
+                  "coords": [
+                        13.216491,
+                        47.417514
+                  ]
+            },
+            {
+                  "name": "Wetterkreuz",
+                  "text": "Die Wetterkreuz ist eine viewpoint in Bischofshofen. Sie ist ein interessanter Ort für Besucher dieser Region.",
+                  "category": "natural",
+                  "coords": [
+                        13.195676,
+                        47.423512
+                  ]
+            },
+            {
+                  "name": "Kunstquadrat-Werkstatt",
+                  "text": "Die Kunstquadrat-Werkstatt ist eine gallery in Bischofshofen. Sie ist ein interessanter Ort für Besucher dieser Region.",
+                  "category": "museum",
+                  "coords": [
+                        13.217277,
+                        47.414266
+                  ]
+            },
+            {
+                  "name": "Kreuzbergkirche",
+                  "text": "Die Kreuzbergkirche in Bischofshofen ist eine römisch-katholische Filialkirche auf dem Kreuzberg. Sie ist bekannt für ihre barocke Ausstattung und den schönen Ausblick über den Ort.",
+                  "category": "religious",
+                  "coords": [
+                        13.222409,
+                        47.433775
+                  ]
+            },
+            {
+                  "name": "Georgikirchlein",
+                  "text": "Das Georgikirchlein in Bischofshofen ist ein kleiner romanischer Sakralbau. Die Kapelle ist dem heiligen Georg geweiht und stellt ein wertvolles historisches Denkmal dar.",
+                  "category": "religious",
+                  "coords": [
+                        13.216154,
+                        47.415051
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Maximillian",
+                  "text": "Die Pfarrkirche St. Maximilian in Bischofshofen ist eines der bedeutendsten Sakralbauwerke im Pongau. Sie beherbergt wertvolle Kunstschätze wie das berühmte Rupertikreuz.",
+                  "category": "religious",
+                  "coords": [
+                        13.218555,
+                        47.414512
+                  ]
             }
       ],
       "hu": [
@@ -1315,6 +1423,114 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.21637,
                         47.419935
+                  ]
+            },
+            {
+                  "name": "Burgruine Bachsfall",
+                  "text": "A Bischofshofen közelében található Bachsfall várrom egy középkori hegyi vár maradványa. A helyszín betekintést enged a régió történelmi védelmi építészetébe.",
+                  "category": "castle",
+                  "coords": [
+                        13.206134,
+                        47.410587
+                  ]
+            },
+            {
+                  "name": "Sinnhubschlössl",
+                  "text": "A Bischofshofenben található Sinnhubschlössl egy megerősített település régészeti lelőhelye. Az ásatások során különböző korszakokból származó jelentős leletek kerültek elő.",
+                  "category": "historical",
+                  "coords": [
+                        13.209206,
+                        47.437551
+                  ]
+            },
+            {
+                  "name": "Götschenberg",
+                  "text": "A Götschenberg egy archaeological site Bischofshofen településen. Fontos helyszín a környéket felfedező látogatók számára.",
+                  "category": "historical",
+                  "coords": [
+                        13.211035,
+                        47.402738
+                  ]
+            },
+            {
+                  "name": "Jagerköpfl",
+                  "text": "A Jagerköpfl egy peak Bischofshofen településen. Fontos helyszín a környéket felfedező látogatók számára.",
+                  "category": "natural",
+                  "coords": [
+                        13.18829,
+                        47.426852
+                  ]
+            },
+            {
+                  "name": "Auköpfl",
+                  "text": "A Auköpfl egy peak Bischofshofen településen. Fontos helyszín a környéket felfedező látogatók számára.",
+                  "category": "natural",
+                  "coords": [
+                        13.193619,
+                        47.436062
+                  ]
+            },
+            {
+                  "name": "Buchberg",
+                  "text": "A Buchberg egy peak Bischofshofen településen. Fontos helyszín a környéket felfedező látogatók számára.",
+                  "category": "natural",
+                  "coords": [
+                        13.244261,
+                        47.408264
+                  ]
+            },
+            {
+                  "name": "Kultursaal",
+                  "text": "A Kultursaal egy arts centre Bischofshofen településen. Fontos helyszín a környéket felfedező látogatók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        13.216491,
+                        47.417514
+                  ]
+            },
+            {
+                  "name": "Wetterkreuz",
+                  "text": "A Wetterkreuz egy viewpoint Bischofshofen településen. Fontos helyszín a környéket felfedező látogatók számára.",
+                  "category": "natural",
+                  "coords": [
+                        13.195676,
+                        47.423512
+                  ]
+            },
+            {
+                  "name": "Kunstquadrat-Werkstatt",
+                  "text": "A Kunstquadrat-Werkstatt egy gallery Bischofshofen településen. Fontos helyszín a környéket felfedező látogatók számára.",
+                  "category": "museum",
+                  "coords": [
+                        13.217277,
+                        47.414266
+                  ]
+            },
+            {
+                  "name": "Kreuzbergkirche",
+                  "text": "A bischofshofeni Kreuzbergkirche egy római katolikus leányegyház a Kreuzbergen. A templom barokk berendezéséről és a városra nyíló szép kilátásról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        13.222409,
+                        47.433775
+                  ]
+            },
+            {
+                  "name": "Georgikirchlein",
+                  "text": "A bischofshofeni Georgikirchlein egy kis román stílusú templomépület. A Szent Györgynek szentelt kápolna értékes történelmi műemléket képvisel.",
+                  "category": "religious",
+                  "coords": [
+                        13.216154,
+                        47.415051
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Maximillian",
+                  "text": "A bischofshofeni Szent Miksa plébániatemplom a Pongau régió egyik legjelentősebb egyházi épülete. Olyan értékes műkincseket őriz, mint a híres Rupert-kereszt.",
+                  "category": "religious",
+                  "coords": [
+                        13.218555,
+                        47.414512
                   ]
             }
       ],
@@ -1336,6 +1552,114 @@ export const austriaCities: POI[] = [
                         13.21637,
                         47.419935
                   ]
+            },
+            {
+                  "name": "Burgruine Bachsfall",
+                  "text": "Ruinele castelului Bachsfall de lângă Bischofshofen sunt rămășițe ale unei fortificații medievale montane. Situl oferă o perspectivă istorică asupra arhitecturii de apărare a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        13.206134,
+                        47.410587
+                  ]
+            },
+            {
+                  "name": "Sinnhubschlössl",
+                  "text": "Sinnhubschlössl din Bischofshofen este un sit arheologic ce marchează o așezare fortificată. Săpăturile au scos la iveală artefacte importante din diverse epoci istorice.",
+                  "category": "historical",
+                  "coords": [
+                        13.209206,
+                        47.437551
+                  ]
+            },
+            {
+                  "name": "Götschenberg",
+                  "text": "Götschenberg este o archaeological site în Bischofshofen. Este un loc important de vizitat în această regiune.",
+                  "category": "historical",
+                  "coords": [
+                        13.211035,
+                        47.402738
+                  ]
+            },
+            {
+                  "name": "Jagerköpfl",
+                  "text": "Jagerköpfl este o peak în Bischofshofen. Este un loc important de vizitat în această regiune.",
+                  "category": "natural",
+                  "coords": [
+                        13.18829,
+                        47.426852
+                  ]
+            },
+            {
+                  "name": "Auköpfl",
+                  "text": "Auköpfl este o peak în Bischofshofen. Este un loc important de vizitat în această regiune.",
+                  "category": "natural",
+                  "coords": [
+                        13.193619,
+                        47.436062
+                  ]
+            },
+            {
+                  "name": "Buchberg",
+                  "text": "Buchberg este o peak în Bischofshofen. Este un loc important de vizitat în această regiune.",
+                  "category": "natural",
+                  "coords": [
+                        13.244261,
+                        47.408264
+                  ]
+            },
+            {
+                  "name": "Kultursaal",
+                  "text": "Kultursaal este o arts centre în Bischofshofen. Este un loc important de vizitat în această regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        13.216491,
+                        47.417514
+                  ]
+            },
+            {
+                  "name": "Wetterkreuz",
+                  "text": "Wetterkreuz este o viewpoint în Bischofshofen. Este un loc important de vizitat în această regiune.",
+                  "category": "natural",
+                  "coords": [
+                        13.195676,
+                        47.423512
+                  ]
+            },
+            {
+                  "name": "Kunstquadrat-Werkstatt",
+                  "text": "Kunstquadrat-Werkstatt este o gallery în Bischofshofen. Este un loc important de vizitat în această regiune.",
+                  "category": "museum",
+                  "coords": [
+                        13.217277,
+                        47.414266
+                  ]
+            },
+            {
+                  "name": "Kreuzbergkirche",
+                  "text": "Kreuzbergkirche din Bischofshofen este o biserică romano-catolică situată pe dealul Kreuzberg. Este cunoscută pentru interiorul său baroc și pentru vederea frumoasă asupra localității.",
+                  "category": "religious",
+                  "coords": [
+                        13.222409,
+                        47.433775
+                  ]
+            },
+            {
+                  "name": "Georgikirchlein",
+                  "text": "Georgikirchlein din Bischofshofen este o mică construcție sacră în stil romanic. Capela este dedicată Sfântului Gheorghe și reprezintă un monument istoric valoros.",
+                  "category": "religious",
+                  "coords": [
+                        13.216154,
+                        47.415051
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Maximillian",
+                  "text": "Biserica parohială Sfântul Maximilian din Bischofshofen este unul dintre cele mai importante lăcașuri de cult din regiunea Pongau. Adăpostește comori artistice valoroase, precum faimoasa Cruce a lui Rupert.",
+                  "category": "religious",
+                  "coords": [
+                        13.218555,
+                        47.414512
+                  ]
             }
       ],
       "en": [
@@ -1355,6 +1679,114 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.21637,
                         47.419935
+                  ]
+            },
+            {
+                  "name": "Burgruine Bachsfall",
+                  "text": "The Burgruine Bachsfall near Bischofshofen is the remnant of a medieval hilltop castle. The site provides a historical glimpse into the defensive architecture of the region.",
+                  "category": "castle",
+                  "coords": [
+                        13.206134,
+                        47.410587
+                  ]
+            },
+            {
+                  "name": "Sinnhubschlössl",
+                  "text": "The Sinnhubschlössl in Bischofshofen is an archaeological site featuring a fortified settlement. Excavations here have unearthed significant artifacts from various historical periods.",
+                  "category": "historical",
+                  "coords": [
+                        13.209206,
+                        47.437551
+                  ]
+            },
+            {
+                  "name": "Götschenberg",
+                  "text": "The Götschenberg is a archaeological site located in Bischofshofen. It is a notable site for visitors exploring the local area.",
+                  "category": "historical",
+                  "coords": [
+                        13.211035,
+                        47.402738
+                  ]
+            },
+            {
+                  "name": "Jagerköpfl",
+                  "text": "The Jagerköpfl is a peak located in Bischofshofen. It is a notable site for visitors exploring the local area.",
+                  "category": "natural",
+                  "coords": [
+                        13.18829,
+                        47.426852
+                  ]
+            },
+            {
+                  "name": "Auköpfl",
+                  "text": "The Auköpfl is a peak located in Bischofshofen. It is a notable site for visitors exploring the local area.",
+                  "category": "natural",
+                  "coords": [
+                        13.193619,
+                        47.436062
+                  ]
+            },
+            {
+                  "name": "Buchberg",
+                  "text": "The Buchberg is a peak located in Bischofshofen. It is a notable site for visitors exploring the local area.",
+                  "category": "natural",
+                  "coords": [
+                        13.244261,
+                        47.408264
+                  ]
+            },
+            {
+                  "name": "Kultursaal",
+                  "text": "The Kultursaal is a arts centre located in Bischofshofen. It is a notable site for visitors exploring the local area.",
+                  "category": "cultural",
+                  "coords": [
+                        13.216491,
+                        47.417514
+                  ]
+            },
+            {
+                  "name": "Wetterkreuz",
+                  "text": "The Wetterkreuz is a viewpoint located in Bischofshofen. It is a notable site for visitors exploring the local area.",
+                  "category": "natural",
+                  "coords": [
+                        13.195676,
+                        47.423512
+                  ]
+            },
+            {
+                  "name": "Kunstquadrat-Werkstatt",
+                  "text": "The Kunstquadrat-Werkstatt is a gallery located in Bischofshofen. It is a notable site for visitors exploring the local area.",
+                  "category": "museum",
+                  "coords": [
+                        13.217277,
+                        47.414266
+                  ]
+            },
+            {
+                  "name": "Kreuzbergkirche",
+                  "text": "The Kreuzbergkirche in Bischofshofen is a Roman Catholic church located on the Kreuzberg hill. It is known for its Baroque furnishings and the wonderful view it offers over the town.",
+                  "category": "religious",
+                  "coords": [
+                        13.222409,
+                        47.433775
+                  ]
+            },
+            {
+                  "name": "Georgikirchlein",
+                  "text": "The Georgikirchlein in Bischofshofen is a small Romanesque religious building. Dedicated to Saint George, the chapel is a valuable historical monument.",
+                  "category": "religious",
+                  "coords": [
+                        13.216154,
+                        47.415051
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Maximillian",
+                  "text": "The Parish Church of St. Maximilian in Bischofshofen is one of the most important religious buildings in the Pongau region. It houses valuable art treasures, including the famous Rupert Cross.",
+                  "category": "religious",
+                  "coords": [
+                        13.218555,
+                        47.414512
                   ]
             }
       ]
@@ -4900,6 +5332,114 @@ export const austriaCities: POI[] = [
                         12.089344,
                         47.508971
                   ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Ein Museum zur Geschichte und Kultur der Stadt Wörgl.",
+                  "category": "museum",
+                  "coords": [
+                        12.065853,
+                        47.485822
+                  ]
+            },
+            {
+                  "name": "Filz",
+                  "text": "Ein geschütztes Naturgebiet in der Umgebung von Wörgl.",
+                  "category": "natural",
+                  "coords": [
+                        12.045409,
+                        47.475252
+                  ]
+            },
+            {
+                  "name": "Schöne Aussicht",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das Inntal bei Wörgl.",
+                  "category": "natural",
+                  "coords": [
+                        12.038502,
+                        47.467295
+                  ]
+            },
+            {
+                  "name": "Galerie am Polylog",
+                  "text": "Eine Galerie für zeitgenössische Kunst und kulturelle Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        12.064445,
+                        47.487555
+                  ]
+            },
+            {
+                  "name": "Schulhauskapelle",
+                  "text": "Eine kleine Kapelle für Gebet und Besinnung in Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.039662,
+                        47.506281
+                  ]
+            },
+            {
+                  "name": "Friedenskapelle",
+                  "text": "Eine dem Frieden gewidmete Kapelle in der Stadt Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.032639,
+                        47.502622
+                  ]
+            },
+            {
+                  "name": "Baumgarten-Kapelle",
+                  "text": "Eine religiöse Stätte in der Nähe von Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.0486,
+                        47.509601
+                  ]
+            },
+            {
+                  "name": "Brachkapelle",
+                  "text": "Eine Kapelle in ländlicher Umgebung bei Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.084854,
+                        47.472803
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche HeiligerGeist",
+                  "text": "Die moderne Pfarrkirche Heiliger Geist in der Gemeinde Angath.",
+                  "category": "religious",
+                  "coords": [
+                        12.064953,
+                        47.506686
+                  ]
+            },
+            {
+                  "name": "Schlöglhofkapelle",
+                  "text": "Eine kleine Hofkapelle in der Region Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.065963,
+                        47.500395
+                  ]
+            },
+            {
+                  "name": "Wörgler Innbrücke",
+                  "text": "Eine Brücke über den Inn, die Wörgl mit den Nachbargemeinden verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.058418,
+                        47.499263
+                  ]
+            },
+            {
+                  "name": "Dorfer Kapelle",
+                  "text": "Eine lokale Kapelle in einem Ortsteil von Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.025218,
+                        47.502169
+                  ]
             }
       ],
       "hu": [
@@ -5018,6 +5558,114 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.089344,
                         47.508971
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Wörgl városának történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.065853,
+                        47.485822
+                  ]
+            },
+            {
+                  "name": "Filz",
+                  "text": "Védett természeti terület Wörgl környékén.",
+                  "category": "natural",
+                  "coords": [
+                        12.045409,
+                        47.475252
+                  ]
+            },
+            {
+                  "name": "Schöne Aussicht",
+                  "text": "Kilátóhely, ahonnan messzire ellátni az Inn völgyére Wörgl közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.038502,
+                        47.467295
+                  ]
+            },
+            {
+                  "name": "Galerie am Polylog",
+                  "text": "Kortárs művészeti galéria és kulturális kiállítóhely.",
+                  "category": "museum",
+                  "coords": [
+                        12.064445,
+                        47.487555
+                  ]
+            },
+            {
+                  "name": "Schulhauskapelle",
+                  "text": "Kisméretű kápolna imádkozáshoz és elcsendesedéshez Wörglben.",
+                  "category": "religious",
+                  "coords": [
+                        12.039662,
+                        47.506281
+                  ]
+            },
+            {
+                  "name": "Friedenskapelle",
+                  "text": "A békének szentelt kápolna Wörgl városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.032639,
+                        47.502622
+                  ]
+            },
+            {
+                  "name": "Baumgarten-Kapelle",
+                  "text": "Vallási helyszín Wörgl közelében.",
+                  "category": "religious",
+                  "coords": [
+                        12.0486,
+                        47.509601
+                  ]
+            },
+            {
+                  "name": "Brachkapelle",
+                  "text": "Kápolna falusi környezetben Wörgl közelében.",
+                  "category": "religious",
+                  "coords": [
+                        12.084854,
+                        47.472803
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche HeiligerGeist",
+                  "text": "A Szentlélek modern plébániatemploma Angath községben.",
+                  "category": "religious",
+                  "coords": [
+                        12.064953,
+                        47.506686
+                  ]
+            },
+            {
+                  "name": "Schlöglhofkapelle",
+                  "text": "Kisméretű udvari kápolna Wörgl régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        12.065963,
+                        47.500395
+                  ]
+            },
+            {
+                  "name": "Wörgler Innbrücke",
+                  "text": "Az Inn felett átívelő híd, amely Wörgl-t köti össze a szomszédos településekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.058418,
+                        47.499263
+                  ]
+            },
+            {
+                  "name": "Dorfer Kapelle",
+                  "text": "Helyi kápolna Wörgl egyik városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        12.025218,
+                        47.502169
                   ]
             }
       ],
@@ -5138,6 +5786,114 @@ export const austriaCities: POI[] = [
                         12.089344,
                         47.508971
                   ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Un muzeu despre istoria și cultura orașului Wörgl.",
+                  "category": "museum",
+                  "coords": [
+                        12.065853,
+                        47.485822
+                  ]
+            },
+            {
+                  "name": "Filz",
+                  "text": "O zonă naturală protejată în împrejurimile orașului Wörgl.",
+                  "category": "natural",
+                  "coords": [
+                        12.045409,
+                        47.475252
+                  ]
+            },
+            {
+                  "name": "Schöne Aussicht",
+                  "text": "Un punct de belvedere cu o vedere largă asupra văii Innului, lângă Wörgl.",
+                  "category": "natural",
+                  "coords": [
+                        12.038502,
+                        47.467295
+                  ]
+            },
+            {
+                  "name": "Galerie am Polylog",
+                  "text": "O galerie pentru artă contemporană și expoziții culturale.",
+                  "category": "museum",
+                  "coords": [
+                        12.064445,
+                        47.487555
+                  ]
+            },
+            {
+                  "name": "Schulhauskapelle",
+                  "text": "O mică capelă pentru rugăciune și reflecție în Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.039662,
+                        47.506281
+                  ]
+            },
+            {
+                  "name": "Friedenskapelle",
+                  "text": "O capelă dedicată păcii în orașul Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.032639,
+                        47.502622
+                  ]
+            },
+            {
+                  "name": "Baumgarten-Kapelle",
+                  "text": "Un lăcaș de cult situat în apropiere de Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.0486,
+                        47.509601
+                  ]
+            },
+            {
+                  "name": "Brachkapelle",
+                  "text": "O capelă într-un cadru rural lângă Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.084854,
+                        47.472803
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche HeiligerGeist",
+                  "text": "Biserica parohială modernă Sfântul Duh din comuna Angath.",
+                  "category": "religious",
+                  "coords": [
+                        12.064953,
+                        47.506686
+                  ]
+            },
+            {
+                  "name": "Schlöglhofkapelle",
+                  "text": "O mică capelă de curte în regiunea Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.065963,
+                        47.500395
+                  ]
+            },
+            {
+                  "name": "Wörgler Innbrücke",
+                  "text": "Un pod peste râul Inn, care leagă Wörgl de comunele învecinate.",
+                  "category": "landmark",
+                  "coords": [
+                        12.058418,
+                        47.499263
+                  ]
+            },
+            {
+                  "name": "Dorfer Kapelle",
+                  "text": "O capelă locală într-un cartier din Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.025218,
+                        47.502169
+                  ]
             }
       ],
       "en": [
@@ -5256,6 +6012,114 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.089344,
                         47.508971
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A museum dedicated to the history and culture of the city of Wörgl.",
+                  "category": "museum",
+                  "coords": [
+                        12.065853,
+                        47.485822
+                  ]
+            },
+            {
+                  "name": "Filz",
+                  "text": "A protected natural area in the surroundings of Wörgl.",
+                  "category": "natural",
+                  "coords": [
+                        12.045409,
+                        47.475252
+                  ]
+            },
+            {
+                  "name": "Schöne Aussicht",
+                  "text": "A viewpoint with a wide view over the Inn Valley near Wörgl.",
+                  "category": "natural",
+                  "coords": [
+                        12.038502,
+                        47.467295
+                  ]
+            },
+            {
+                  "name": "Galerie am Polylog",
+                  "text": "A gallery for contemporary art and cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        12.064445,
+                        47.487555
+                  ]
+            },
+            {
+                  "name": "Schulhauskapelle",
+                  "text": "A small chapel for prayer and reflection in Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.039662,
+                        47.506281
+                  ]
+            },
+            {
+                  "name": "Friedenskapelle",
+                  "text": "A chapel dedicated to peace in the city of Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.032639,
+                        47.502622
+                  ]
+            },
+            {
+                  "name": "Baumgarten-Kapelle",
+                  "text": "A religious site located near Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.0486,
+                        47.509601
+                  ]
+            },
+            {
+                  "name": "Brachkapelle",
+                  "text": "A chapel in a rural setting near Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.084854,
+                        47.472803
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche HeiligerGeist",
+                  "text": "The modern Holy Spirit parish church in the municipality of Angath.",
+                  "category": "religious",
+                  "coords": [
+                        12.064953,
+                        47.506686
+                  ]
+            },
+            {
+                  "name": "Schlöglhofkapelle",
+                  "text": "A small courtyard chapel in the Wörgl region.",
+                  "category": "religious",
+                  "coords": [
+                        12.065963,
+                        47.500395
+                  ]
+            },
+            {
+                  "name": "Wörgler Innbrücke",
+                  "text": "A bridge over the Inn River connecting Wörgl with neighboring communities.",
+                  "category": "landmark",
+                  "coords": [
+                        12.058418,
+                        47.499263
+                  ]
+            },
+            {
+                  "name": "Dorfer Kapelle",
+                  "text": "A local chapel in a district of Wörgl.",
+                  "category": "religious",
+                  "coords": [
+                        12.025218,
+                        47.502169
                   ]
             }
       ]

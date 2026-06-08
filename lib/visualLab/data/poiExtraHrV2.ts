@@ -747,7 +747,1849 @@ export const poiExtraHrV2: POI[] = [
 }},
   {"id": "mljet-pomena", "type": "city", "parent": "HR-19", "coords": [17.3819, 42.7869], "population": 1100, "tier": 1, "name": {"de": "Mljet (Pomena)", "hu": "Mljet (Pomena)", "ro": "Mljet (Pomena)", "en": "Mljet (Pomena)"}, "description": {"de": "Pomena ist ein malerischer Hafenort an der Westküste der Insel Mljet und dient als wichtigstes Tor zum berühmten Nationalpark mit seinen Salzseen.", "hu": "Pomena egy apró kikötőfalu Mljet-sziget nyugati végén, amely a nemzeti park elsődleges bejárataként és a hajósok kedvelt horgonyzóhelyeként ismert.", "ro": "Pomena este un sat pitoresc de pescari situat pe coasta de vest a insulei Mljet, servind ca poartă principală de intrare în Parcul Național.", "en": "Pomena is a scenic port village on the western tip of Mljet Island, serving as the primary gateway to the island's renowned National Park and salt lakes."}, "facts": {"de": ["Haupteingang zum Nationalpark Mljet", "Geschützte Bucht für Segelyachten", "Nur 15 Gehminuten zum Malo Jezero See", "Antike römische Ruinen in der Nähe", "Regelmäßige Fährverbindung nach Dubrovnik", "Umgeben von dichten Pinienwäldern", "Bekannt für frische Meeresfrüchte-Küche", "Beliebter Ausgangspunkt für Wanderungen"], "hu": ["A Mljet Nemzeti Park fő bejárata", "Védett öböl vitorlások számára", "15 perc séta a Kis-tótól (Malo Jezero)", "Római kori palotaromok a szomszédságban", "Rendszeres kompjárat Dubrovnikba", "Sűrű fenyőerdők veszik körül", "Híres a friss tengeri ételeiről", "Ideális kiindulópont szigeti túrákhoz"], "ro": ["Poarta principală către Parcul Național Mljet", "Golf protejat pentru iahturi și bărci", "La 15 minute de mers pe jos de Lacul Mic", "Ruinele unui palat roman în apropiere", "Conexiune regulată cu feribotul spre Dubrovnik", "Înconjurat de păduri dese de pini", "Renumit pentru gastronomia cu fructe de mare", "Punct de plecare pentru trasee de drumeție"], "en": ["Main entrance to the Mljet National Park", "Sheltered bay popular with sailing yachts", "15-minute walk from the Small Lake", "Ancient Roman palace ruins nearby", "Regular ferry links to Dubrovnik city", "Surrounded by dense Aleppo pine forests", "Famous for fresh seafood gastronomy", "Ideal starting point for island hiking"]}, "image": "/poi-images/mljet-pomena.webp", "imageHint": "Aerial view of Pomena harbor and the lush green forests of Mljet", "descriptionAdvanced": {"de": "Pomena, ein kleines Dorf an der Westspitze der Insel Mljet, ist das Tor zum berühmten Nationalpark Mljet. Diese ruhige Bucht, die von Pinienwäldern umgeben ist, hat sich aufgrund ihrer strategischen Lage zu einem wichtigen touristischen Zentrum für Besucher des Parks entwickelt. Das Dorf selbst ist klein und besteht hauptsächlich aus einem Hotel, privaten Unterkünften, Restaurants und Souvenirläden, die sich entlang des Hafens erstrecken. Von hier aus ist es nur ein kurzer Spaziergang oder eine Fahrradtour zu den beiden Salzwasserseen, Veliko und Malo Jezero, die die Hauptattraktion des Nationalparks sind. Besucher können in den kristallklaren Seen schwimmen, Kajak fahren oder um sie herum wandern und radeln. Auf der Insel St. Maria im Großen See (Veliko Jezero) befindet sich ein ehemaliges Benediktinerkloster aus dem 12. Jahrhundert, das heute ein Restaurant beherbergt und mit kleinen Booten erreichbar ist. Pomena bietet die perfekte Basis für Naturliebhaber, die die unberührte Schönheit von Mljet erkunden möchten, und bewahrt trotz seiner touristischen Funktion eine entspannte, friedliche Atmosphäre.", "hu": "Pomena, egy kis falu Mljet szigetének nyugati csücskében, a híres Mljet Nemzeti Park kapuja. Ez a fenyőerdőkkel körülvett csendes öböl stratégiai fekvésének köszönhetően a park látogatóinak fontos turisztikai központjává vált. Maga a falu kicsi, főként egy szállodából, magánszállásokból, éttermekből és ajándékboltokból áll, amelyek a kikötő mentén sorakoznak. Innen csak egy rövid séta vagy kerékpártúra a két sósvizű tó, a Veliko és a Malo Jezero, amelyek a nemzeti park fő attrakciói. A látogatók úszhatnak a kristálytiszta tavakban, kajakozhatnak, vagy túrázhatnak és kerékpározhatnak körülöttük. A Nagy-tó (Veliko Jezero) Szent Mária-szigetén egy 12. századi egykori bencés kolostor található, amely ma étteremnek ad otthont, és kis hajókkal érhető el. Pomena tökéletes kiindulópontot kínál a természetkedvelőknek, akik Mljet érintetlen szépségét szeretnék felfedezni, és turisztikai funkciója ellenére megőrzi nyugodt, békés légkörét.", "ro": "Pomena, un mic sat în extremitatea vestică a insulei Mljet, este poarta de intrare către faimosul Parc Național Mljet. Acest golf liniștit, înconjurat de păduri de pini, a devenit un centru turistic important pentru vizitatorii parcului datorită locației sale strategice. Satul în sine este mic, constând în principal dintr-un hotel, cazare privată, restaurante și magazine de suveniruri care se întind de-a lungul portului. De aici, este doar o scurtă plimbare pe jos sau cu bicicleta până la cele două lacuri cu apă sărată, Veliko și Malo Jezero, care sunt atracția principală a parcului național. Vizitatorii pot înota în lacurile cristaline, pot face caiac-canoe sau pot face drumeții și ciclism în jurul lor. Pe insula Sfânta Maria din Lacul Mare (Veliko Jezero) se află o fostă mănăstire benedictină din secolul al XII-lea, care astăzi găzduiește un restaurant și este accesibilă cu bărci mici. Pomena oferă baza perfectă pentru iubitorii de natură care doresc să exploreze frumusețea neatinsă a insulei Mljet, păstrând o atmosferă relaxată și pașnică în ciuda funcției sale turistice.", "en": "Pomena, a small village at the western tip of Mljet island, serves as the gateway to the famous Mljet National Park. This quiet bay, surrounded by pine forests, has developed into a key tourist hub for visitors to the park due to its strategic location. The village itself is small, consisting mainly of a hotel, private accommodation, restaurants, and souvenir shops stretching along the harbour. From here, it's just a short walk or bike ride to the two saltwater lakes, Veliko and Malo Jezero, which are the main attractions of the national park. Visitors can swim in the crystal-clear lakes, go kayaking, or hike and cycle around them. On St. Mary's Island in the Great Lake (Veliko Jezero), there is a former 12th-century Benedictine monastery, which now houses a restaurant and is accessible by small boats. Pomena provides the perfect base for nature lovers looking to explore the pristine beauty of Mljet, while maintaining a relaxed, peaceful atmosphere despite its tourist function."}, "factsAdvanced": {"de": ["Gegründet als Fischereihafen für Goveđari", "Entfernung zum Großen See: ca. 1,2 km", "Beherbergt das einzige Hotel der Insel", "Römischer Palast ist der drittgrößte Kroatiens", "Teil des ersten Meeresschutzgebiets im Mittelmeer", "Bevölkerung stieg durch Tourismus seit 1980"], "hu": ["Goveđari falu kikötőjeként jött létre", "A Nagy-tó távolsága kb. 1,2 kilométer", "Itt található a sziget egyetlen szállodája", "A közeli római palota Horvátország 3. legnagyobbja", "A Földközi-tenger első védett tengeri területének része", "A lakosság száma az 1980-as évektől nőtt meg"], "ro": ["Fondat ca port pescăresc pentru satul Goveđari", "Distanța până la Lacul Mare: aprox. 1,2 km", "Găzduiește singurul hotel de pe insulă", "Palatul roman din apropiere este al treilea ca mărime din Croația", "Parte a primei arii marine protejate din Mediterană", "Populația a crescut semnificativ după anul 1980"], "en": ["Founded as a fishing port for Goveđari village", "Distance to the Great Lake: approx. 1.2 km", "Home to the only hotel on the entire island", "Nearby Roman palace is the 3rd largest in Croatia", "Part of the first marine protected area in the Mediterranean", "Population growth accelerated after the 1980s tourism boom"]}, "sights": {"de": [{"name": "Veliko jezero", "text": "Dieser große Salzsee im Nationalpark ist durch einen schmalen Kanal mit dem offenen Meer verbunden.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-veliko-jezero.webp", "coords": [17.356583, 42.775089]}, {"name": "Malo jezero", "text": "Ein flacherer Salzsee, der aufgrund seiner geschützten Lage meist wärmeres Wasser als das Meer bietet.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-malo-jezero.webp", "coords": [17.347758, 42.780512]}, {"name": "Mali Most", "text": "Diese kleine Steinbrücke verbindet die Ufer des schmalen Kanals zwischen den beiden Salzseen.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-mali-most.webp", "coords": [17.351719, 42.782699]}, {"name": "Nacionalni park Mljet", "text": "Einer der ältesten Nationalparks an der Adria, bekannt für seine zwei Salzwasserseen und dichte Wälder.", "category": "natural", "coords": [17.382468, 42.776795]}, {"name": "Paljevina", "text": "Ein lokaler Strand in der Nähe von Pomena auf der Insel Mljet, ideal zum Schwimmen im klaren Wasser.", "category": "recreational", "coords": [17.376613, 42.787016]}, {"name": "Samostan svete Marije", "text": "Ein Benediktinerkloster aus dem 12. Jahrhundert auf einer kleinen Insel im Großen See des Nationalparks Mljet.", "category": "religious", "coords": [17.359783, 42.768985]}, {"name": "Natutist / FKK Beach", "text": "In der abgeschiedenen Umgebung von Pomena auf der Insel Mljet liegt dieser ausgewiesene FKK-Strand. Umgeben von Natur bietet das klare Wasser wunderbare Bedingungen zum nahtlosen Sonnen und Schwimmen. Die friedliche Atmosphäre fernab der Inseldörfer sorgt für ungestörte Erholung. Ein respektvolles Miteinander prägt das Badeerlebnis an diesem naturnahen Ort.", "category": "recreational", "coords": [17.352263, 42.777174]}, {"name": "Luka Polače", "text": "Eine geschützte Naturbucht und Hafen auf der Insel Mljet, bekannt für ihr ruhiges Wasser.", "category": "natural", "coords": [17.378443, 42.787307]}, {"name": "Zle stijene", "text": "Ein markanter Berggipfel mit zerklüftetem Gelände auf der Insel Mljet.", "category": "natural", "coords": [17.396658, 42.770614]}, {"name": "Vratosolina", "text": "Ein malerischer Aussichtspunkt auf Mljet mit Blick auf die üppige Landschaft der Insel.", "category": "natural", "coords": [17.387284, 42.767194]}, {"name": "Montokuc", "text": "Einer der bekanntesten Aussichtspunkte auf Mljet mit Panoramablick auf den Großen und Kleinen See.", "category": "natural", "coords": [17.383156, 42.772779]}, {"name": "Western Basilica", "text": "Die Überreste einer frühchristlichen Basilika, die Teil der römischen Ruinen in Polače sind.", "category": "historical", "coords": [17.375016, 42.786164]}, {"name": "Eastern Basilica", "text": "Historische Ruinen einer frühchristlichen Basilika auf dem archäologischen Areal von Polače.", "category": "historical", "coords": [17.378422, 42.785385]}, {"name": "Guvno (Threshing floor)", "text": "Ein traditioneller Dreschplatz aus Stein, der die ländliche Landwirtschaftsgeschichte von Mljet widerspiegelt.", "category": "historical", "coords": [17.377702, 42.784158]}], "hu": [{"name": "Veliko jezero", "text": "A nemzeti park nagy sós tava, amelyet egy keskeny csatorna köt össze a nyílt Adriai-tengerrel.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-veliko-jezero.webp", "coords": [17.356583, 42.775089]}, {"name": "Malo jezero", "text": "Kisebb sós tó, amelynek vize a sekélyebb meder miatt gyorsabban felmelegszik a fürdőzéshez.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-malo-jezero.webp", "coords": [17.347758, 42.780512]}, {"name": "Mali Most", "text": "Kisméretű kőhíd, amely a két sós tavat összekötő keskeny vízi utat íveli át.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-mali-most.webp", "coords": [17.351719, 42.782699]}, {"name": "Nacionalni park Mljet", "text": "Az Adria egyik legrégebbi nemzeti parkja, amely két sóstóváról és sűrű erdőiről ismert.", "category": "natural", "coords": [17.382468, 42.776795]}, {"name": "Paljevina", "text": "Helyi strand Mljet szigetén, Pomena közelében, amely ideális a tiszta vízben való úszáshoz.", "category": "recreational", "coords": [17.376613, 42.787016]}, {"name": "Samostan svete Marije", "text": "12. századi bencés kolostor a Mljet Nemzeti Park Nagy-tavában található kis szigeten.", "category": "religious", "coords": [17.359783, 42.768985]}, {"name": "Natutist / FKK Beach", "text": "Mljet szigetén, Pomena eldugott környezetében található ez a kijelölt FKK strand. A természettel körülvett tiszta víz csodálatos feltételeket biztosít a naturista napozáshoz és úszáshoz. A szigeti falvaktól távol eső békés hangulat zavartalan pihenést nyújt. A tiszteletteljes együttlét alapozza meg a fürdőzés élményét ezen a természetközeli helyen.", "category": "recreational", "coords": [17.352263, 42.777174]}, {"name": "Luka Polače", "text": "Védett természetes öböl és kikötő Mljet szigetén, amely nyugodt vizéről ismert.", "category": "natural", "coords": [17.378443, 42.787307]}, {"name": "Zle stijene", "text": "Jellegzetes hegycsúcs Mljet szigetén, sziklás tereppel.", "category": "natural", "coords": [17.396658, 42.770614]}, {"name": "Vratosolina", "text": "Festői kilátópont Mljet szigetén, ahonnan rálátás nyílik a dús tájra.", "category": "natural", "coords": [17.387284, 42.767194]}, {"name": "Montokuc", "text": "Mljet egyik leghíresebb kilátópontja, ahonnan panorámás kilátás nyílik a Nagy- és Kis-tóra.", "category": "natural", "coords": [17.383156, 42.772779]}, {"name": "Western Basilica", "text": "Egy kora keresztény bazilika maradványai, amelyek a polačei római romok részét képezik.", "category": "historical", "coords": [17.375016, 42.786164]}, {"name": "Eastern Basilica", "text": "Egy kora keresztény bazilika történelmi romjai a polačei régészeti lelőhelyen.", "category": "historical", "coords": [17.378422, 42.785385]}, {"name": "Guvno (Threshing floor)", "text": "Hagyományos kőből készült cséplőhely, amely Mljet vidéki mezőgazdasági múltját idézi.", "category": "historical", "coords": [17.377702, 42.784158]}], "ro": [{"name": "Veliko jezero", "text": "Lacul Sărat Mare din parcul național, conectat la marea deschisă printr-un canal natural îngust.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-veliko-jezero.webp", "coords": [17.356583, 42.775089]}, {"name": "Malo jezero", "text": "Lacul Sărat Mic, mai puțin adânc, apreciat de vizitatori pentru temperatura ridicată a apei.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-malo-jezero.webp", "coords": [17.347758, 42.780512]}, {"name": "Mali Most", "text": "Un pod de piatră care traversează canalul ce face legătura între cele două lacuri sărate.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-mali-most.webp", "coords": [17.351719, 42.782699]}, {"name": "Nacionalni park Mljet", "text": "Unul dintre cele mai vechi parcuri naționale din Adriatica, cunoscut pentru cele două lacuri sărate și pădurile dese.", "category": "natural", "coords": [17.382468, 42.776795]}, {"name": "Paljevina", "text": "O plajă locală lângă Pomena pe insula Mljet, ideală pentru înot în apele clare.", "category": "recreational", "coords": [17.376613, 42.787016]}, {"name": "Samostan svete Marije", "text": "O mănăstire benedictină din secolul al XII-lea situată pe o insulă mică din Lacul Mare al Parcului Național Mljet.", "category": "religious", "coords": [17.359783, 42.768985]}, {"name": "Natutist / FKK Beach", "text": "În împrejurimile retrase din Pomena, pe insula Mljet, se află această plajă dedicată nudiștilor. Înconjurată de natură, apa limpede oferă condiții minunate pentru plajă și înot fără inhibiții. Atmosfera pașnică, departe de satele insulei, asigură o relaxare netulburată. O conduită plină de respect conturează experiența bălăcelii în acest loc natural.", "category": "recreational", "coords": [17.352263, 42.777174]}, {"name": "Luka Polače", "text": "Un golf natural protejat și port pe insula Mljet, cunoscut pentru apele sale liniștite.", "category": "natural", "coords": [17.378443, 42.787307]}, {"name": "Zle stijene", "text": "Un vârf montan proeminent cu teren accidentat pe insula Mljet.", "category": "natural", "coords": [17.396658, 42.770614]}, {"name": "Vratosolina", "text": "Un punct de belvedere pitoresc pe Mljet, oferind priveliști asupra peisajului luxuriant al insulei.", "category": "natural", "coords": [17.387284, 42.767194]}, {"name": "Montokuc", "text": "Unul dintre cele mai renumite puncte de belvedere de pe Mljet, oferind o vedere panoramică asupra Lacului Mare și Lacului Mic.", "category": "natural", "coords": [17.383156, 42.772779]}, {"name": "Western Basilica", "text": "Rămășițele unei basilici creștine timpurii, care fac parte din ruinele romane din Polače.", "category": "historical", "coords": [17.375016, 42.786164]}, {"name": "Eastern Basilica", "text": "Ruinele istorice ale unei basilici creștine timpurii situate în situl arheologic Polače.", "category": "historical", "coords": [17.378422, 42.785385]}, {"name": "Guvno (Threshing floor)", "text": "O arie de treierat tradițională din piatră, care reflectă istoria agricolă rurală a insulei Mljet.", "category": "historical", "coords": [17.377702, 42.784158]}], "en": [{"name": "Veliko jezero", "text": "The Large Salt Lake within the national park, connected to the open sea by a narrow channel.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-veliko-jezero.webp", "coords": [17.356583, 42.775089]}, {"name": "Malo jezero", "text": "The Small Salt Lake, shallower and warmer than the sea, making it a popular natural swimming pool.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-malo-jezero.webp", "coords": [17.347758, 42.780512]}, {"name": "Mali Most", "text": "A small stone bridge spanning the narrow waterway that connects the two inland salt lakes.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/mljet-pomena-mali-most.webp", "coords": [17.351719, 42.782699]}, {"name": "Nacionalni park Mljet", "text": "One of the oldest national parks in the Adriatic, known for its two saltwater lakes and dense forests.", "category": "natural", "coords": [17.382468, 42.776795]}, {"name": "Paljevina", "text": "A local beach near Pomena on the island of Mljet, ideal for swimming in clear waters.", "category": "recreational", "coords": [17.376613, 42.787016]}, {"name": "Samostan svete Marije", "text": "A 12th-century Benedictine monastery located on a small island within the Great Lake of Mljet National Park.", "category": "religious", "coords": [17.359783, 42.768985]}, {"name": "Natutist / FKK Beach", "text": "In the secluded surroundings of Pomena on the island of Mljet lies this designated nudist beach. Surrounded by nature, the clear water provides wonderful conditions for all-over tanning and swimming. The peaceful atmosphere away from the island villages ensures undisturbed relaxation. A respectful community vibe characterizes the bathing experience at this close-to-nature spot.", "category": "recreational", "coords": [17.352263, 42.777174]}, {"name": "Luka Polače", "text": "A sheltered natural bay and harbor on the island of Mljet, known for its calm waters.", "category": "natural", "coords": [17.378443, 42.787307]}, {"name": "Zle stijene", "text": "A prominent mountain peak offering rugged terrain on the island of Mljet.", "category": "natural", "coords": [17.396658, 42.770614]}, {"name": "Vratosolina", "text": "A scenic viewpoint on Mljet offering views of the island's lush landscape.", "category": "natural", "coords": [17.387284, 42.767194]}, {"name": "Montokuc", "text": "One of the most famous viewpoints on Mljet, offering a panoramic view of the Great and Small Lakes.", "category": "natural", "coords": [17.383156, 42.772779]}, {"name": "Western Basilica", "text": "The remains of an early Christian basilica forming part of the Roman ruins in Polače.", "category": "historical", "coords": [17.375016, 42.786164]}, {"name": "Eastern Basilica", "text": "Historic ruins of an early Christian basilica located within the Polače archaeological site.", "category": "historical", "coords": [17.378422, 42.785385]}, {"name": "Guvno (Threshing floor)", "text": "A traditional stone threshing floor, reflecting the rural agricultural history of Mljet.", "category": "historical", "coords": [17.377702, 42.784158]}], "hr": [{"name": "Nacionalni park Mljet", "text": "Jedan od najstarijih nacionalnih parkova na Jadranu, poznat po dva slana jezera i gustim šumama.", "category": "natural", "coords": [17.382468, 42.776795]}, {"name": "Paljevina", "text": "Lokalna plaža u blizini Pomene na otoku Mljetu, idealna za kupanje u čistom moru.", "category": "recreational", "coords": [17.376613, 42.787016]}, {"name": "Samostan svete Marije", "text": "Benediktinski samostan iz 12. stoljeća smješten na otočiću u Velikom jezeru Nacionalnog parka Mljet.", "category": "religious", "coords": [17.359783, 42.768985]}, {"name": "Natutist / FKK Beach", "text": "Označena nudistička plaža smještena u mirnom okruženju Pomene na otoku Mljetu.", "category": "recreational", "coords": [17.352263, 42.777174]}, {"name": "Luka Polače", "text": "Zaštićena prirodna uvala i luka na otoku Mljetu, poznata po mirnom moru.", "category": "natural", "coords": [17.378443, 42.787307]}, {"name": "Zle stijene", "text": "Istaknuti planinski vrh na otoku Mljetu sa stjenovitim terenom.", "category": "natural", "coords": [17.396658, 42.770614]}, {"name": "Vratosolina", "text": "Slikoviti vidikovac na Mljetu s kojeg se pruža pogled na bujni krajolik otoka.", "category": "natural", "coords": [17.387284, 42.767194]}, {"name": "Montokuc", "text": "Jedan od najpoznatijih vidikovaca na Mljetu s pogledom na Veliko i Malo jezero.", "category": "natural", "coords": [17.383156, 42.772779]}, {"name": "Western Basilica", "text": "Ostaci starokršćanske bazilike koji čine dio rimskih ruševina u Polačama.", "category": "historical", "coords": [17.375016, 42.786164]}, {"name": "Eastern Basilica", "text": "Povijesne ruševine starokršćanske bazilike smještene unutar arheološkog nalazišta Polače.", "category": "historical", "coords": [17.378422, 42.785385]}, {"name": "Guvno (Threshing floor)", "text": "Tradicionalno kameno guvno koje odražava ruralnu poljoprivrednu povijest otoka Mljeta.", "category": "historical", "coords": [17.377702, 42.784158]}]}},
   {"id": "pag-grad", "type": "city", "parent": "HR-09", "coords": [15.0567, 44.4439], "population": 2849, "tier": 1, "name": {"de": "Pag (Stadt)", "hu": "Pag (város)", "ro": "Pag (oraș)", "en": "Pag (city)"}, "description": {"de": "Pag ist das kulturelle Zentrum der gleichnamigen Insel, bekannt für seine Salzpfannen, die berühmte Pager Spitze und die im 15. Jahrhundert planmäßig angelegte Altstadt.", "hu": "Pag szigetének névadó központja egy 15. században tervezett reneszánsz város, amely híres csipkéjéről, különleges juhsajtjáról és évszázados sólepárlóiról.", "ro": "Centrul cultural al insulei Pag, acest oraș este renumit pentru producția tradițională de sare, dantela inclusă în patrimoniul UNESCO și arhitectura sa renascentistă planificată.", "en": "The cultural center of Pag island, this city is famous for its traditional salt production, UNESCO-listed lace making, and a planned 15th-century Renaissance layout."}, "facts": {"de": ["Berühmt für handgefertigte Spitze", "Zentrum der kroatischen Salzindustrie", "Geplant von Juraj Dalmatinac", "Besitzt ein historisches Salzmuseum", "Hauptort der Insel Pag", "Heimat des berühmten Pager Käses", "Karnevalstradition seit Generationen", "Sonniges Mittelmeerklima"], "hu": ["A csipkeverés UNESCO világörökség", "Horvátország sótermelő központja", "Juraj Dalmatinac tervezte 1443-ban", "Híres a Paški sir juhsajtról", "Számos reneszánsz palota díszíti", "Élő karneváli népszokások", "Középkori sóraktárak láthatóak", "Kikötője védett az adriai szél ellen"], "ro": ["Dantela de Pag este protejată UNESCO", "Cea mai mare exploatare de sare din țară", "Oraș planificat în secolul al XV-lea", "Renumit pentru brânza de oaie maturată", "Biserica Adormirii Maicii Domnului", "Tradiție bogată de carnaval de vară", "Străzi perpendiculare renascentiste", "Muzeul Sării în vechile depozite"], "en": ["Famous for UNESCO-listed Pag lace", "Largest salt production in Croatia", "Planned city founded in 1443", "Home of the premium Paški sir cheese", "Designed by architect Juraj Dalmatinac", "Historic salt storehouses preserved", "Vibrant summer carnival traditions", "Located in a deep, protected bay"]}, "image": "/poi-images/pag-grad.webp", "imageHint": "Stone houses and central square of Pag city with the bridge", "descriptionAdvanced": {"de": "Die heutige Stadt Pag wurde ab 1443 nach Plänen des berühmten Baumeisters Juraj Dalmatinac errichtet, da der alte Standort aufgrund von Kriegen und Seuchen aufgegeben werden musste. Die Stadt besticht durch ihren streng geometrischen Grundriss mit zwei Hauptachsen, die sich am zentralen Marktplatz kreuzen. Hier befindet sich auch die imposante Marienkirche mit ihrer reliefverzierten Fassade. Pag ist weltweit bekannt für die Kunst der Pager Spitze (Paška čipka), die ohne Vorlage nur mit Nadel und Faden genäht wird. Neben dem Handwerk spielt die Salzgewinnung eine existenzielle Rolle: Die riesigen Verdunstungsbecken südlich der Stadt produzieren das 'weiße Gold' der Adria. Für Feinschmecker ist Pag der Ausgangspunkt, um den würzigen Paški sir zu probieren, einen Hartkäse aus der Milch der kleinen Pager Schafe, die sich von salzhaltigen Kräutern ernähren. Die Kombination aus karger Mondlandschaft der Insel und der architektonischen Eleganz der Stadt macht Pag zu einem einzigartigen Ziel in Dalmatien.", "hu": "Pag városa a dalmát tengerpart egyik legkülönlegesebb települése, mivel a mai helyén 1443-ban kezdték el építeni egy szigorú reneszánsz tervrajz alapján. Az építkezést a kor neves építésze, Juraj Dalmatinac irányította, akinek köszönhetően a városközpont merőleges utcáival és központi terével máig egységes képet mutat. A főtéren álló Mária Mennybevétele bazilika homlokzatát jellegzetes rozetta díszíti. A helyi kultúra két legfontosabb pillére a só és a csipke. A város melletti sekély öbölben hatalmas sólepárló medencék húzódnak, ahol évszázadok óta hagyományos módszerekkel nyerik ki a tengeri sót. A pagi csipke annyira egyedi, hogy az UNESCO a szellemi világörökség részévé nyilvánította; az asszonyok előrajzolt minta nélkül, tűvel készítik a bonyolult motívumokat. A gasztronómia kedvelői számára a város a kapu a híres Paški sir juhsajthoz, amelynek különleges zamatát a tengeri sótól sós növényzetet legelő juhok teje adja.", "ro": "Actualul oraș Pag a fost întemeiat în anul 1443, fiind unul dintre puținele orașe dalmate construite conform unui plan urbanistic riguros. Proiectat sub supravegherea arhitectului Juraj Dalmatinac, orașul prezintă o structură simetrică cu două străzi principale care se intersectează în piața centrală, unde se află Bazilica Adormirii Maicii Domnului. Orașul este celebru la nivel mondial pentru dantela de Pag (Paška čipka), realizată manual cu acul fără un model desenat, o tradiție transmisă din generație în generație și protejată de UNESCO. Sarea a fost întotdeauna motorul economic al zonei, depozitele vechi de sare fiind astăzi transformate în muzee ce atestă importanța acestui 'aur alb'. În împrejurimi, peisajul arid, aproape lunar, este locul unde pasc oile locale, a căror lapte stă la baza celebrului Paški sir, o brânză maturată cu un gust inconfundabil datorat ierburilor aromatice impregnate cu sarea adusă de vântul Bura. Pag îmbină armonios rigoarea arhitecturală cu tradițiile artizanale și gastronomice profunde.", "en": "The modern city of Pag was founded in 1443, making it one of the rare Dalmatian towns built according to a strict Renaissance urban plan. Designed under the guidance of the famous architect Juraj Dalmatinac, the town features a symmetrical layout with two main axes crossing at the central square, home to the impressive Basilica of the Assumption. Pag is globally renowned for its intricate Pag lace (Paška čipka), handmade with a needle without any drawn patterns—a tradition so unique it is protected by UNESCO. Salt production has been the city's economic backbone for centuries; the vast shallow evaporation pans south of the town produce the Adriatic's 'white gold,' and old salt warehouses now serve as historical museums. For food enthusiasts, Pag is the birthplace of Paški sir, a premium sheep milk cheese. Its distinct flavor comes from the salt-dusted aromatic herbs grazed by local sheep on the island's rocky, moon-like slopes. The town offers a perfect blend of architectural elegance, artisanal heritage, and authentic Mediterranean flavors."}, "factsAdvanced": ["Grundsteinlegung der neuen Stadt am 18. Mai 1443", "Die Salzpfannen erstrecken sich über 3 Millionen m²", "Pager Spitze wurde 2009 in die UNESCO-Liste aufgenommen", "Die Marienkirche besitzt ein spätgotisches Kruzifix aus dem 15. Jahrhundert", "Der Fürstenpalais war Sitz der venezianischen Verwaltung", "Pag liegt nur 50 Kilometer nördlich von Zadar"], "factsAdvanced_hu": ["Az új város alapkövét 1443. május 18-án tették le", "A sólepárlók területe meghaladja a 3 millió négyzetmétert", "A pagi csipke 2009 óta UNESCO szellemi világörökség", "A bazilika homlokzatán látható kőrozetta a 15. századból származik", "A város 20 km-re fekszik a híres Zrće strandtól", "A téli karnevált több mint 80 éve rendezik meg folyamatosan"], "factsAdvanced_ro": ["Piatra de temelie a noului oraș a fost pusă la 18 mai 1443", "Salinele din Pag se întind pe o suprafață de peste 300 de hectare", "Dantela de Pag a fost inclusă în patrimoniul UNESCO în 2009", "Orașul a fost abandonat și mutat din locația veche din cauza malariei", "Podul care leagă insula de continent a fost construit în 1968", "Biserica parohială are o fațadă cu o rozetă gotică autentică"], "factsAdvanced_en": ["The first stone of the new city was laid on May 18, 1443", "Salt pans cover an area of over 3 million square meters", "Pag lace was inscribed on the UNESCO list in 2009", "The city was relocated from 'Old Pag' due to strategic and health reasons", "Juraj Dalmatinac personally supervised the construction of the main square", "The Rector's Palace dates back to the 15th-century Venetian era"], "sights": {"de": [{"name": "Skrivanat-Turm", "text": "Der einzige erhaltene von einst neun Wehrtürmen der Stadtmauer, erbaut im 15. Jahrhundert zur Verteidigung gegen Angriffe.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/pag-grad-skrivanat-turm.webp", "coords": [15.05392, 44.445153]}, {"name": "Altstadt von Pag", "text": "Die im 15. Jahrhundert planmäßig angelegte Renaissancestadt beeindruckt durch ihr rechtwinkliges Straßenraster und harmonische Steinhäuser.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/pag-grad-altstadt-von-pag.webp", "coords": [15.055863, 44.442405]}, {"name": "Salz - Ausstellung", "text": "Ein Museum, das der jahrhundertealten Tradition der Salzgewinnung auf der Insel Pag gewidmet ist.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "Ein ruhiger Strand auf der Insel Pag, ideal für alle, die eine stille natürliche Umgebung suchen.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "Ein lokaler Strand in Pag, bekannt für sein klares Wasser und die Nähe zur Stadt.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "Der Hauptstrand von Pag zieht mit seinem flachen Wasser und der guten Infrastruktur vor allem Familien in seinen Bann. Entlang der Bucht können Besucher herrliche Schwimmrunden drehen und die nahegelegenen Annehmlichkeiten nutzen. Das lebendige Treiben sorgt für kurzweilige Stunden an der Adriaküste. Für einen unkomplizierten Familienausflug ans Meer ist diese Anlage ideal.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "Ein ruhiger Kieselstrand in Pag, ideal zum Schwimmen und Entspannen.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Plaža Gomilica", "text": "Ein Stück unverfälschte Natur in der Nähe von Pag bietet die Plaža Gomilica. Besucher loben hier vor allem die saubere Umgebung, die das Schwimmen im tiefblauen Meer besonders reizvoll macht. Weitab vom Trubel der Stadt lässt sich der Tag mit entspanntem Sonnenbaden verbringen. Ein paar kleine Snacks für zwischendurch sollte man sicherheitshalber mitbringen.", "category": "recreational", "coords": [15.060793, 44.470033]}, {"name": "Izložba paške čipke", "text": "Diese Galerie präsentiert die berühmte Pager Spitze, die zum UNESCO-Weltkulturerbe gehört.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "Ein historisches Gebäude in Pag, das die lokale Architektur der Altstadt repräsentiert.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "Ein Aussichtspunkt in Pag, der einen weiten Blick über die Bucht und die Stadt bietet.", "category": "landmark", "coords": [15.063215, 44.463768]}, {"name": "Mlakarova plaža", "text": "Unweit der Stadt Pag lädt die Mlakarova plaža zu ruhigen Strandstunden auf der gleichnamigen Insel ein. Die gemütliche Atmosphäre am Ufer ist ideal für ein entspanntes Picknick nach dem Schwimmen in der Adria. Hier begegnen sich einheimisches Flair und sanfter Badetourismus auf angenehme Weise. Wer dem größten Andrang entgehen möchte, plant den Besuch am besten vormittags ein.", "category": "recreational", "coords": [15.022128, 44.46253]}, {"name": "Beach Malin", "text": "Der Beach Malin ist ein geschätzter lokaler Küstenabschnitt vor den Toren der historischen Stadt Pag. Er bietet eine wunderbare Kulisse für das alltägliche Schwimmen im Salzwasser der Bucht. Durch die Nähe zur Stadt lässt sich ein Strandbesuch perfekt mit einem Spaziergang durch die Gassen verbinden. An warmen Sommerabenden herrscht hier eine besonders gemütliche Stimmung.", "category": "recreational", "coords": [15.057287, 44.484917]}], "hu": [{"name": "Skrivanat-torony", "text": "Pag egyetlen épségben maradt bástyája a 15. századból, amely egykor a várost védő kiterjedt erődrendszer része volt.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/pag-grad-skrivanat-turm.webp", "coords": [15.05392, 44.445153]}, {"name": "Pag óvárosa", "text": "A 15. században Juraj Dalmatinac tervei alapján épült reneszánsz városmag szabályos utcaszerkezetéről és fehér kőházairól ismert.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/pag-grad-altstadt-von-pag.webp", "coords": [15.055863, 44.442405]}, {"name": "Permanent exhibition of Salt", "text": "A pagi sólepárlás több évszázados hagyományát bemutató múzeum.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "Nyugodt tengerpart Pag szigetén, ideális a csendes természeti környezetet kedvelőknek.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "Helyi strand Pag városában, amely tiszta vizéről és a központ közelségéről ismert.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "Pag fő strandja sekély vizével és jó infrastruktúrájával elsősorban a családokat varázsolja el. Az öböl mentén a látogatók remekül úszhatnak, miközben a közeli kényelmi szolgáltatásokat is élvezhetik. A nyüzsgő élet gondoskodik a szórakoztató órákról az Adria partján. Egy könnyed, tengerparti családi kiránduláshoz ez a partszakasz egyszerűen tökéletes.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "Nyugodt kavicsos strand Pag városában, amely ideális úszáshoz és pihenéshez.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Plaža Gomilica", "text": "A Plaža Gomilica a hamisítatlan természet egy darabkáját kínálja Pag közelében. A látogatók különösen a tiszta környezetet dicsérik, ami még vonzóbbá teszi a mélykék tengerben való úszást. A város zajától távol a napot kényelmes napozással tölthetjük. Érdemes némi frissítőt és harapnivalót magunkkal hozni a biztonság kedvéért.", "category": "recreational", "coords": [15.060793, 44.470033]}, {"name": "Izložba paške čipke", "text": "Ez a galéria a híres, UNESCO világörökség részét képező paški csipkét mutatja be.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "Történelmi épület Pag városában, amely a helyi építészetet képviseli.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "Kilátópont Pag városában, ahonnan panorámás kilátás nyílik az öbölre és a városra.", "category": "landmark", "coords": [15.063215, 44.463768]}, {"name": "Mlakarova plaža", "text": "Pag városa mellett a Mlakarova plaža csendes tengerparti órákra invitál az azonos nevű szigeten. A hangulatos partvidék ideális egy laza piknikhez, miután megmártóztunk az Adriában. A helyi báj és a szelíd fürdőturizmus itt kellemesen találkozik. Aki el szeretné kerülni a legnagyobb tömeget, annak érdemes a délelőtti órákra időzítenie a látogatást.", "category": "recreational", "coords": [15.022128, 44.46253]}, {"name": "Beach Malin", "text": "A Beach Malin egy közkedvelt helyi partszakasz Pag történelmi városának kapujában. Csodálatos hátteret biztosít a mindennapi úszáshoz az öböl sós vizében. A város közelsége miatt a strandolás tökéletesen összeköthető egy sétával a régi utcácskákon. A meleg nyári estéken különösen barátságos hangulat uralkodik errefelé.", "category": "recreational", "coords": [15.057287, 44.484917]}], "ro": [{"name": "Turnul Skrivanat", "text": "Singurul turn de apărare păstrat din vechile fortificații ale orașului, construit în secolul al XV-lea pentru supravegherea coastei.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/pag-grad-skrivanat-turm.webp", "coords": [15.05392, 44.445153]}, {"name": "Orașul Vechi Pag", "text": "Proiectat în secolul al XV-lea după planuri urbanistice riguroase, centrul istoric impresionează prin străzile drepte și arhitectura unitară din piatră.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/pag-grad-altstadt-von-pag.webp", "coords": [15.055863, 44.442405]}, {"name": "Permanent exhibition of Salt", "text": "Un muzeu dedicat tradiției de secole a producției de sare pe insula Pag.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "O plajă liniștită pe insula Pag, ideală pentru cei care caută un cadru natural retras.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "O plajă locală din Pag, cunoscută pentru apele sale limpezi și apropierea de oraș.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "Plaja principală din Pag atrage în primul rând familiile, datorită apei puțin adânci și infrastructurii bune. De-a lungul golfului, vizitatorii se pot bucura de runde minunate de înot și de facilitățile din apropiere. Atmosfera plină de viață asigură ore de divertisment pe coasta Mării Adriatice. Este locația ideală pentru o excursie în familie, fără griji, la malul mării.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "O plajă liniștită cu pietriș în Pag, ideală pentru înot și relaxare.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Plaža Gomilica", "text": "Plaža Gomilica oferă un colț de natură pură în apropiere de Pag. Vizitatorii apreciază în special mediul curat, care face ca înotul în marea de un albastru intens să fie și mai atrăgător. Departe de agitația orașului, ziua poate fi petrecută făcând plajă într-un mod relaxat. Este recomandat să aduceți cu voi câteva gustări și apă pentru orice eventualitate.", "category": "recreational", "coords": [15.060793, 44.470033]}, {"name": "Izložba paške čipke", "text": "Această galerie prezintă celebra dantelă de Pag, inclusă în patrimoniul mondial UNESCO.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "O clădire istorică din Pag, care reflectă arhitectura locală a orașului vechi.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "Un punct de observare în Pag, oferind o vedere panoramică asupra golfului și a orașului.", "category": "landmark", "coords": [15.063215, 44.463768]}, {"name": "Mlakarova plaža", "text": "Nu departe de orașul Pag, Mlakarova plaža te invită la ore liniștite de plajă pe insula cu același nume. Atmosfera confortabilă de pe țărm este ideală pentru un picnic relaxant după înotul în Marea Adriatică. Aici, farmecul local și turismul blând se întâlnesc într-un mod foarte plăcut. Dacă vrei să eviți cele mai aglomerate momente, planifică-ți vizita dimineața.", "category": "recreational", "coords": [15.022128, 44.46253]}, {"name": "Beach Malin", "text": "Beach Malin este o porțiune de coastă locală apreciată, situată la porțile orașului istoric Pag. Oferă un decor minunat pentru înotul de zi cu zi în apa sărată a golfului. Datorită proximității față de oraș, o vizită la plajă poate fi combinată perfect cu o plimbare pe străduțele înguste. În serile calde de vară, aici domnește o atmosferă deosebit de primitoare.", "category": "recreational", "coords": [15.057287, 44.484917]}], "en": [{"name": "Skrivanat Tower", "text": "The only remaining of nine defensive towers that once protected the town, offering a glimpse into Pag's medieval fortifications.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/pag-grad-skrivanat-turm.webp", "coords": [15.05392, 44.445153]}, {"name": "Pag Old Town", "text": "Planned in the 15th century by Juraj Dalmatinac, the town center is famous for its regular grid layout and stone houses.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/pag-grad-altstadt-von-pag.webp", "coords": [15.055863, 44.442405]}, {"name": "Permanent exhibition of Salt", "text": "A museum dedicated to the centuries-old tradition of salt production on the island of Pag.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "A peaceful beach on the island of Pag, ideal for those seeking a quiet natural setting.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "A local beach in Pag known for its clear waters and proximity to the town.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "The main beach in Pag City captivates families in particular with its shallow waters and good infrastructure. Along the bay, visitors can enjoy excellent swims while taking advantage of nearby amenities. The lively bustle guarantees an entertaining few hours on the Adriatic coast. It is an ideal setup for a straightforward, fun-filled family trip to the sea.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "A quiet pebble beach in Pag, ideal for swimming and relaxing.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Plaža Gomilica", "text": "Plaža Gomilica offers a slice of unadulterated nature near the city of Pag. Visitors especially praise the clean environment here, which makes swimming in the deep blue sea particularly appealing. Far from the hustle and bustle of the town, the day can be spent enjoying relaxed sunbathing. It is always a good idea to bring some snacks and drinks along just in case.", "category": "recreational", "coords": [15.060793, 44.470033]}, {"name": "Izložba paške čipke", "text": "This gallery showcases the famous Pag lace, which is part of the UNESCO World Heritage.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "A historical building in Pag representing the local architecture of the old town.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "An observation point in Pag offering panoramic views of the bay and the city.", "category": "landmark", "coords": [15.063215, 44.463768]}, {"name": "Mlakarova plaža", "text": "Not far from the city of Pag, Mlakarova plaža invites you to spend quiet hours on the beach of the eponymous island. The cozy atmosphere on the shore is ideal for a relaxing picnic after swimming in the Adriatic. Local flair and gentle beach tourism meet here in a very pleasant way. Those wishing to avoid the biggest crowds should plan their visit for the morning.", "category": "recreational", "coords": [15.022128, 44.46253]}, {"name": "Beach Malin", "text": "Beach Malin is a valued local stretch of coastline just outside the historic city of Pag. It provides a wonderful backdrop for daily swimming in the bay's saltwater. Thanks to its proximity to the city, a visit to the beach can be perfectly combined with a stroll through the narrow streets. On warm summer evenings, a particularly cozy atmosphere prevails here.", "category": "recreational", "coords": [15.057287, 44.484917]}], "hr": [{"name": "Permanent exhibition of Salt", "text": "Muzej smješten u starim magazinima, posvećen dugoj tradiciji proizvodnje soli na Pagu.", "category": "museum", "coords": [15.052267, 44.442709]}, {"name": "Tri glave", "text": "Mirna plaža na otoku Pagu, idealna za posjetitelje koji traže tišinu i prirodu.", "category": "recreational", "coords": [15.038965, 44.447354]}, {"name": "Janjeće vode", "text": "Lokalna plaža u Pagu, prepoznatljiva po čistom moru i blizini gradske jezgre.", "category": "recreational", "coords": [15.029046, 44.457999]}, {"name": "Gradska plaža", "text": "Glavna gradska plaža u Pagu nudi plitko more i dobre sadržaje za obitelji.", "category": "recreational", "coords": [15.048116, 44.441758]}, {"name": "Mađarica", "text": "Mirna šljunčana plaža u Pagu, idealna za kupanje i opuštanje.", "category": "recreational", "coords": [15.043852, 44.442213]}, {"name": "Plaža Gomilica", "text": "Prirodna plaža u blizini Paga, poznata po čistom okolišu.", "category": "recreational", "coords": [15.060793, 44.470033]}, {"name": "Izložba paške čipke", "text": "Ova galerija prikazuje poznatu pašku čipku koja je dio UNESCO-ve svjetske baštine.", "category": "museum", "coords": [15.054551, 44.443583]}, {"name": "Sveti Jure", "text": "Povijesna građevina u Pagu koja predstavlja lokalnu arhitekturu stare jezgre.", "category": "landmark", "coords": [15.06162, 44.456273]}, {"name": "Osmatračnica", "text": "Vidikovac u Pagu koji nudi panoramski pogled na uvalu i grad.", "category": "landmark", "coords": [15.063215, 44.463768]}, {"name": "Mlakarova plaža", "text": "Mirna plaža smještena u blizini grada Paga na istoimenom otoku Pagu.", "category": "recreational", "coords": [15.022128, 44.46253]}, {"name": "Beach Malin", "text": "Lokalna jadranska plaža smještena u blizini povijesnog grada Paga na otoku Pagu.", "category": "recreational", "coords": [15.057287, 44.484917]}]}},
-  {"id": "premantura", "type": "city", "parent": "HR-18", "coords": [13.9094, 44.7967], "population": 936, "tier": 1, "name": {"de": "Premantura", "hu": "Premantura", "ro": "Premantura", "en": "Premantura"}, "description": {"de": "Das südlichste Dorf Istriens liegt auf einer Halbinsel direkt am Eingang zum geschützten Naturpark Kap Kamenjak und ist ein Paradies für Surfer und Naturliebhaber.", "hu": "Isztria legdélebbi települése a Kamenjak-fok természetvédelmi terület kapujában fekszik, és kristálytiszta öbleiről, valamint a szörfösök kedvelt szélviszonyairól ismert.", "ro": "Cel mai sudic sat din Istria, situat la intrarea în parcul natural Cap Kamenjak, este o destinație populară pentru windsurfing și explorarea golfurilor virgine.", "en": "The southernmost village in Istria, located at the gateway to the Cape Kamenjak nature reserve, famous for its crystal-clear bays and excellent windsurfing conditions."}, "facts": {"de": ["Südlichster Punkt der Halbinsel Istrien", "Eingang zum Naturpark Kap Kamenjak", "Zentrum für Windsurfen und Kitesurfen", "Berühmt für die Premantura-Spinne", "Kirche des Heiligen Laurentius im Zentrum", "Über 30 Kilometer Küstenlinie am Kap", "Beliebtes Ziel für Mountainbiker", "Kristallklares, türkisfarbenes Wasser"], "hu": ["Isztria legdélebbi csücske", "A Kamenjak-fok Nemzeti Park bejárata", "Nemzetközi szörf- és búvárközpont", "Szent Lőrinc tiszteletére szentelt templom", "30 km hosszan tagolt partvonal", "Híres a Premanturai pókról (helyi rák)", "Számos rejtett sziklás öböl várja", "Kerékpáros útvonalak hálózata"], "ro": ["Cel mai sudic punct al peninsulei Istria", "Poarta de acces către Rezervația Kamenjak", "Destinație de top pentru windsurfing", "Biserica Sfântul Laurențiu din secolul XVII", "Linie de coastă stâncoasă de 30 km", "Renumit pentru crabii locali gustoși", "Numeroase peșteri marine în apropiere", "Apa mării are o claritate excepțională"], "en": ["Southernmost settlement in Istria", "Entrance to Cape Kamenjak Nature Park", "Renowned center for windsurfing", "17th-century Church of St. Lawrence", "30 kilometers of rugged coastline", "Famous for the local Premantura crab", "Hotspot for cliff jumping and diving", "Abundant Mediterranean flora and fauna"]}, "image": "/poi-images/premantura.webp", "imageHint": "Coastline of Premantura and the entrance to Cape Kamenjak", "descriptionAdvanced": {"de": "Premantura ist weit mehr als nur ein ruhiges Fischerdorf am Ende Istriens; es ist das Tor zu einer der unberührtesten Naturlandschaften Kroatiens. Das Dorf liegt erhöht auf einem Hügel und bietet weite Ausblicke über die Adria. Direkt vor der Haustür beginnt das geschützte Kap Kamenjak, eine zehn Kilometer lange Halbinsel mit über 30 versteckten Buchten, Höhlen und flachen Felsstränden. Für Abenteurer ist Premantura ein Mekka: Die starken Winde machen den Ort zu einem der besten Surfspots der nördlichen Adria, während Klippenspringer an der Südspitze des Kaps ihren Mut beweisen. Die lokale Gastronomie ist geprägt von frischem Fisch und der besonderen Premantura-Spinne (ein lokaler Seespinne-Krebs), der in den örtlichen Konobas als Delikatesse gilt. Wer Ruhe sucht, findet sie auf den zahlreichen Wander- und Radwegen, die durch duftende Pinienwälder und vorbei an seltenen Orchideenarten führen. Der 1833 errichtete Leuchtturm Porer, der auf einer kleinen Insel vor der Küste thront, ist ein markantes Wahrzeichen, das Seefahrer seit fast zwei Jahrhunderten leitet.", "hu": "Premantura Isztria legdélebbi csücskén fekszik, egy olyan keskeny félszigeten, amely az Adria egyik legvadabb és legszebb természeti területébe, a Kamenjak-fokba torkollik. A falu központját a 17. századi Szent Lőrinc-templom és annak különálló harangtornya uralja, de az igazi vonzerőt a környék érintetlen természete jelenti. A Kamenjak-fok több mint 30 kilométernyi tagolt partvonala kristálytiszta vizű öblöket, tengeri barlangokat és látványos sziklaformációkat kínál. A terület híres gazdag flórájáról, több mint 500 növényfaj, köztük számos ritka orchidea él itt. Premantura a szörfösök és búvárok paradicsoma is, mivel a tengeri áramlatok és szelek itt a legkedvezőbbek az egész félszigeten. A gasztronómia kedvelői számára kötelező kipróbálni a helyi tengeri pók rákot, amely a környék különlegessége. A parttól nem messze emelkedik a Porer-világítótorony egy apró sziklán, amely 1833 óta mutatja az utat a hajósoknak a gyakran viharos vizeken. Premantura az aktív pihenés és a természetközeli kikapcsolódás tökéletes ötvözete.", "ro": "Situat la extremitatea sudică a peninsulei Istria, satul Premantura este renumit ca fiind poarta de acces către Capul Kamenjak, o rezervație naturală de o frumusețe sălbatică. Satul în sine păstrează farmecul mediteranean autentic, cu străduțe înguste și Biserica Sfântul Laurențiu situată în piața centrală. Principala atracție este însă peninsula Kamenjak, care se întinde pe 10 kilometri și oferă peste 30 de golfuri cu apă azurie, plaje cu pietriș și stânci spectaculoase ideale pentru sărituri în apă. Datorită poziției sale geografice expuse vânturilor, Premantura este considerată una dintre cele mai bune locații din Croația pentru windsurfing și kitesurfing. Iubitorii de natură pot explora trasee de bicicletă ce șerpuiesc printre pin și specii rare de orhidee sălbatice care înfloresc primăvara. Gastronomia locală este centrată pe fructe de mare proaspete, crabul de Premantura fiind o delicatesă rară căutată de cunoscători. În largul coastei, Farul Porer, construit în 1833 pe o stâncă izolată, completează acest peisaj maritim dramatic și pitoresc.", "en": "Premantura is the southernmost village of Istria, perched on a narrow peninsula that leads directly to the wild beauty of Cape Kamenjak. The village center is dominated by the 17th-century Church of St. Lawrence, but the real draw is the surrounding nature reserve. Cape Kamenjak boasts over 30 kilometers of rugged coastline, featuring crystal-clear bays, mysterious sea caves, and flat rock beaches perfect for sunbathing or cliff jumping. The area is a botanical treasure, home to over 500 plant species, including rare wild orchids. Premantura is a renowned hotspot for windsurfing and kitesurfing due to the favorable maritime winds that sweep across the tip of the peninsula. Adventurous visitors can enjoy world-class diving or mountain biking along scenic trails through pine forests. The local culinary scene is famous for the 'Premantura crab,' a seasonal delicacy served in traditional taverns. Just offshore, the Porer lighthouse, built in 1833 on a tiny rock, stands as a silent sentinel over the often turbulent waters of the southern Istrian coast."}, "factsAdvanced": ["Premantura liegt etwa 10 km südlich von Pula", "Der Naturpark Kap Kamenjak umfasst 30 verschiedene Buchten", "Der Leuchtturm Porer ist 35 Meter hoch und wurde 1833 erbaut", "Auf dem Kap wurden versteinerte Dinosaurier-Fußabdrücke gefunden", "In der Gegend blühen über 30 verschiedene Orchideenarten", "Die Kirche des Hl. Laurentius wurde 1632 errichtet"], "factsAdvanced_hu": ["Premantura körülbelül 10 km-re délre fekszik Pulától", "A Kamenjak-fok területén 30 kilométernyi tagolt partvonal található", "A közeli Porer-világítótorony 35 méter magas, 1833-ban épült", "A félszigeten valódi dinoszaurusz lábnyomok láthatóak a sziklákban", "Több mint 30 vadon élő orchideafaj honos a területen", "Szent Lőrinc ünnepét minden év augusztus 10-én tartják"], "factsAdvanced_ro": ["Premantura se află la aproximativ 10 km sud de orașul Pula", "Rezervația Kamenjak are o lungime de 9,5 km și 1,5 km lățime", "Farul Porer, situat la 2,5 km de coastă, a fost ridicat în 1833", "Au fost descoperite urme de dinozauri pe insula Fenoliga din apropiere", "În rezervație trăiesc peste 500 de specii de plante mediteraneene", "Biserica Sfântul Laurențiu a fost construită în anul 1632"], "factsAdvanced_en": ["Premantura is located roughly 10 km south of Pula", "Cape Kamenjak features 30 distinct bays and several sea caves", "The Porer lighthouse stands 35 meters tall and was built in 1833", "Authentic dinosaur footprints are visible on the nearby Fenoliga island", "The nature park hosts over 30 species of wild orchids", "The village was settled in the 16th century by refugees from Dalmatia"], "sights": {"de": [{"name": "Kap Kamenjak", "text": "Ein geschütztes Naturparadies an der Südspitze Istriens mit über 30 km Küstenlinie, versteckten Buchten und einer reichen Flora.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-kap-kamenjak.webp", "coords": [13.91, 44.783333]}, {"name": "Safari Bar", "text": "Eine originelle Bar inmitten von Schilf und Bambus am Ende des Kaps, bekannt für ihre rustikale Einrichtung und Schaukeln.", "category": "cultural centres", "confidence": "high", "image": "/poi-images/sights/premantura-safari-bar.webp", "coords": [13.91025, 44.769523]}, {"name": "Leuchtturm Porer", "text": "Der markante Leuchtturm steht auf einer winzigen Insel vor dem Kap und bietet ein ikonisches Fotomotiv bei Sonnenuntergang.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/premantura-leuchtturm-porer.webp", "coords": [13.89075, 44.758056]}, {"name": "Dinosaurierpfad", "text": "Ein Lehrpfad an der Küste von Grakalovac, wo echte versteinerte Fußabdrücke von Dinosauriern aus der Kreidezeit zu sehen sind.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-dinosaurierpfad.webp", "coords": [13.908917, 44.793081]}, {"name": "Insel Fenoliga", "text": "Eine kleine unbewohnte Insel nahe dem Kap, berühmt für die hohe Dichte an Dinosaurier-Fußspuren auf ihren Kalksteinfelsen.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-insel-fenoliga.webp", "coords": [13.90103, 44.767687]}, {"name": "Bijeca", "text": "Der bekannteste Sandstrand in Medulin bei Premantura, ideal für Familien mit kleinen Kindern.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Strand Pomer", "text": "Im Dorf Pomer nahe Premantura erstreckt sich ein ruhiger Strand, der an den Naturpark Kamenjak grenzt. Das stille Wasser und die von Pinien geprägte Umgebung machen das Schwimmen hier zu einer sehr erholsamen Erfahrung. Spaziergänger und Badegäste finden hier gleichermaßen einen Ort der Ruhe. Ein idealer Startpunkt, um im Anschluss die umliegenden Naturschönheiten zu erkunden.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "Ein malerischer Strand in der Nähe von Premantura mit kristallklarem Wasser.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "Ein kleiner Strand an der Küste von Premantura, ideal für Naturliebhaber.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Školjić", "text": "Ein Kiesstrand in Premantura, der besonders bei Windsurfern und Aktivurlaubern beliebt ist.", "category": "recreational", "coords": [13.916423, 44.78553]}, {"name": "Runke", "text": "Ein ruhiger Strand in der Nähe von Premantura, ideal zum Entspannen.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Pinižule", "text": "Ein beliebter Kiesstrand auf der Halbinsel Kamenjak mit kristallklarem Wasser.", "category": "recreational", "coords": [13.903574, 44.789532]}, {"name": "Polje", "text": "Ein natürlicher Strand auf der Halbinsel Kamenjak, umgeben von mediterraner Vegetation.", "category": "recreational", "coords": [13.906852, 44.786316]}, {"name": "Plovanije", "text": "Ein felsiger Küstenabschnitt am Kap Kamenjak, bekannt für sein sauberes Meer.", "category": "recreational", "coords": [13.904881, 44.781462]}, {"name": "Njive", "text": "Ein malerischer Strand im Naturschutzgebiet Kamenjak mit Blick auf die Adria.", "category": "recreational", "coords": [13.906325, 44.776947]}, {"name": "Family park", "text": "Ein kleiner Vergnügungspark in Premantura mit verschiedenen Attraktionen für Kinder.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "Ein Informationszentrum über die Artenvielfalt und das Ökosystem des Kaps Kamenjak.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "Ganz in der Nähe des Campingplatzes Medulin finden Badegäste einen weitläufigen, flachen Sand- und Kiesstrand. Die geringe Wassertiefe und der unkomplizierte Zugang machen den Ort zu einem Favoriten für unbeschwerte Sommertage. Wer gerne lange Spaziergänge im knöcheltiefen Wasser unternimmt, kommt hier voll auf seine Kosten. Für Familien mit Kindern ist die Anlage ein sehr praktisches Ausflugsziel.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "FKK / Naturist Beach Crvene Stjene", "text": "Auf der Halbinsel Kamenjak hebt sich der FKK-Strand Crvene Stjene durch seine markanten roten Felsen ab. Naturisten genießen an diesem Küstenabschnitt die Symbiose aus ungestörter Freiheit und kristallklarem Wasser. Das sonnige Plateau lädt zum Entspannen ein, während das Meer eine herrliche Erfrischung bietet. Vorsicht ist beim Einstieg über die Steine geboten, jedoch lohnt sich der Sprung ins blaue Nass.", "category": "recreational", "coords": [13.878221, 44.805911]}, {"name": "Radovica", "text": "Ein ruhiger Küstenplatz auf der Halbinsel Kamenjak, ideal zum Schwimmen und Schnorcheln.", "category": "recreational", "coords": [13.907815, 44.772259]}, {"name": "Ščuza", "text": "Ein flacher Strand in der Nähe der Brücke nach Pomer, beliebt bei Familien.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "Eine bedeutende archäologische Stätte mit den Überresten einer kaiserlichen römischen Villa.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Podlokva", "text": "Ein ruhiger Strand im geschützten Gebiet des Naturparks Kamenjak.", "category": "recreational", "coords": [13.91423, 44.791887]}, {"name": "Tašalera", "text": "Ein Strand in der Nähe von Premantura, direkt beim Campingplatz Tašalera gelegen.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "Mali Portić", "text": "Eine kleine Bucht mit Sand und Kies auf der Halbinsel Kamenjak.", "category": "recreational", "coords": [13.916733, 44.778918]}, {"name": "plaža Munte", "text": "Die betonierte plaža Munte in Premantura wurde gezielt so gestaltet, dass auch Menschen mit Sehbehinderungen einen barrierefreien Zugang zum Meer haben. An diesem Abschnitt der Küste können alle Badegäste unbeschwert schwimmen und die Meeresbrise spüren. Das flache und gut gesicherte Ufer vermittelt ein hohes Maß an Sicherheit. Die Inklusion steht hier im Mittelpunkt, was den Ort für entspannte Ausflüge besonders wertvoll macht.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Toreta", "text": "Ein felsiger Küstenabschnitt im südlichen Teil des Naturparks Kamenjak.", "category": "recreational", "coords": [13.906489, 44.773198]}, {"name": "Debeljak", "text": "Einer der bekanntesten Sand- und Kiesstrände am Kap Kamenjak.", "category": "recreational", "coords": [13.917173, 44.772082]}, {"name": "Škara", "text": "Ein abgelegener Felsstrand inmitten unberührter Natur auf Kamenjak.", "category": "recreational", "coords": [13.921265, 44.77488]}, {"name": "Veliki Portić", "text": "Eine beliebte, weite Bucht auf Kamenjak, die oft von Seglern besucht wird.", "category": "recreational", "coords": [13.912834, 44.77504]}, {"name": "Dražice", "text": "Ein familienfreundlicher Kiesstrand in der Nähe des Zentrums von Premantura.", "category": "recreational", "coords": [13.914256, 44.789179]}, {"name": "Aquapark Wibit Šćuza", "text": "Ein aufblasbarer Wasserpark im Meer, der Spielspaß für Kinder bietet.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Otisci Dinosaura", "text": "Echte Fußabdrücke von Dinosauriern aus der Kreidezeit, die auf den Felsen von Kamenjak erhalten sind.", "category": "landmark", "coords": [13.90189, 44.790333]}, {"name": "Rudist", "text": "Versteinerte Überreste prähistorischer Muscheln, die an der Küste von Kamenjak sichtbar sind.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "photo frame", "text": "Ein dekorativer Fotorahmen in Premantura, der einen perfekten Hintergrund für Urlaubsfotos vor der Küste bietet.", "category": "landmark", "coords": [13.910601, 44.77463]}, {"name": "Kršine", "text": "Ein felsiger Strandabschnitt im Naturpark Kamenjak mit kristallklarem Wasser.", "category": "recreational", "coords": [13.908112, 44.768535]}, {"name": "Mala Kolombarica", "text": "Ein beliebter Ort zum Klippenspringen und Schnorcheln an der Südspitze Istriens.", "category": "recreational", "coords": [13.911923, 44.768801]}, {"name": "Velika Kolombarica", "text": "Ein spektakulärer Küstenabschnitt mit einer Meereshöhle im Naturpark Kamenjak.", "category": "recreational", "coords": [13.915067, 44.767996]}, {"name": "Sv. Mikule Dražica", "text": "Ein ruhiger Kieselstrand an der Ostseite der Halbinsel Kamenjak.", "category": "recreational", "coords": [13.921514, 44.767862]}, {"name": "Franina", "text": "Ein naturbelassener Strand im Naturpark Kamenjak, umgeben von unberührter Natur.", "category": "recreational", "coords": [13.924428, 44.769461]}], "hu": [{"name": "Kamenjak-fok", "text": "Isztria legdélebbi pontja, egy védett természeti terület több mint 30 kilométernyi sziklás parttal és kristálytiszta öblökkel.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-kap-kamenjak.webp", "coords": [13.91, 44.783333]}, {"name": "Safari Bar", "text": "Egyedülálló, nádasba rejtett „dzsungel-bár” a fok végén, amely rusztikus játékaival és különleges hangulatával vált híressé.", "category": "cultural centres", "confidence": "high", "image": "/poi-images/sights/premantura-safari-bar.webp", "coords": [13.91025, 44.769523]}, {"name": "Porer-világítótorony", "text": "A Kamenjak melletti apró sziklaszigeten álló 35 méter magas torony az Adria egyik legszebb naplementés fotótémája.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/premantura-leuchtturm-porer.webp", "coords": [13.89075, 44.758056]}, {"name": "Dinoszaurusz-ösvény", "text": "Oktatóút a tengerpart mentén, ahol a látogatók valódi, megkövesedett dinoszaurusz lábnyomokat láthatnak a sziklákban.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-dinosaurierpfad.webp", "coords": [13.908917, 44.793081]}, {"name": "Fenoliga-sziget", "text": "Lakatlan sziget a Kamenjak közelében, ahol több mint 100 dinoszaurusz lábnyom maradt fenn a mészkő felszínén.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-insel-fenoliga.webp", "coords": [13.90103, 44.767687]}, {"name": "Bijeca", "text": "Medulin legismertebb homokos strandja Premantura közelében, ideális kisgyermekes családoknak.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Pomer", "text": "A Premantura melletti Pomer faluban terül el egy csendes strand, amely a Kamenjak Natúrparkkal határos. A csendes víz és a fenyőfákkal tarkított környezet nagyon pihentető élménnyé teszi az itteni úszást. A sétálók és a fürdőzők egyaránt megtalálják itt a béke szigetét. Ideális kiindulópont, ha a fürdés után a környező természeti szépségeket is felfedeznénk.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "Festői strand Premantura környékén, kristálytiszta vízzel.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "Kis strand Premantura partján, amely ideális a természet kedvelőinek.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Školjić", "text": "Kavicsos strand Premanturában, amely különösen népszerű a szörfösök körében.", "category": "recreational", "coords": [13.916423, 44.78553]}, {"name": "Runke", "text": "Nyugodt tengerpart Premantura közelében, ideális pihenésre.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Pinižule", "text": "Népszerű kavicsos strand a Kamenjak-félszigeten, kristálytiszta vízzel.", "category": "recreational", "coords": [13.903574, 44.789532]}, {"name": "Polje", "text": "Természetes strand a Kamenjak-félszigeten, mediterrán növényzettel körülvéve.", "category": "recreational", "coords": [13.906852, 44.786316]}, {"name": "Plovanije", "text": "Sziklás tengerparti szakasz a Kamenjak-fokon, tiszta vizéről ismert.", "category": "recreational", "coords": [13.904881, 44.781462]}, {"name": "Njive", "text": "Festői strand a Kamenjak természetvédelmi területen, kilátással az Adriára.", "category": "recreational", "coords": [13.906325, 44.776947]}, {"name": "Family park", "text": "Kisméretű vidámpark Premanturában, különféle játékokkal gyerekeknek.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "Információs központ a Kamenjak-fok biológiai sokféleségéről és ökoszisztémájáról.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "A medulini kemping közvetlen közelében a fürdőzőket egy tágas, sekély, homokos és kavicsos strand várja. A víz kis mélysége és az egyszerű megközelíthetőség miatt ez a hely a felhőtlen nyári napok kedvence. Aki szeret a bokáig érő vízben hosszan sétálni, az itt biztosan jól fogja érezni magát. A gyermekes családok számára különösen praktikus úti cél ez a szakasz.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "FKK / Naturist Beach Crvene Stjene", "text": "A Kamenjak-félszigeten a Crvene Stjene naturista strand jellegzetes vörös szikláival tűnik ki. A naturizmus hívei ezen a partszakaszon a zavartalan szabadság és a kristálytiszta víz tökéletes harmóniáját élvezhetik. A napos fennsík lazításra hív, miközben a tenger csodálatos felfrissülést kínál. A köveken való bejutásnál érdemes óvatosnak lenni, de a kék vízbe ugrás mindenképpen megéri a fáradtságot.", "category": "recreational", "coords": [13.878221, 44.805911]}, {"name": "Radovica", "text": "Nyugodt tengerparti hely a Kamenjak-félszigeten, ideális úszáshoz és búvárkodáshoz.", "category": "recreational", "coords": [13.907815, 44.772259]}, {"name": "Ščuza", "text": "Sekély strand a pomeri híd közelében, népszerű a családok körében.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "Jelentős régészeti lelőhely egy császári római villa maradványaival.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Podlokva", "text": "Csendes tengerparti szakasz a Kamenjak-félsziget természetvédelmi területén.", "category": "recreational", "coords": [13.91423, 44.791887]}, {"name": "Tašalera", "text": "Premantura melletti tengerparti rész a Tašalera kemping közvetlen közelében.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "Mali Portić", "text": "Apró homokos és kavicsos öböl a Kamenjak-félsziget keleti oldalán.", "category": "recreational", "coords": [13.916733, 44.778918]}, {"name": "plaža Munte", "text": "A premanturai betonozott plaža Munte partszakaszt kifejezetten úgy alakították ki, hogy a látássérültek számára is akadálymentes lejárást biztosítson a tengerhez. Ezen a tengerparti szakaszon minden fürdőző gondtalanul úszhat és érezheti a sós tengeri szellőt. A sík és jól biztosított partvidék magas fokú biztonságérzetet nyújt. Az inklúzió itt központi szerepet kap, ami ezt a helyet különösen értékessé teszi egy pihentető kiránduláshoz.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Toreta", "text": "Sziklás tengerparti szakasz a Kamenjak-félsziget déli részén.", "category": "recreational", "coords": [13.906489, 44.773198]}, {"name": "Debeljak", "text": "A Kamenjak-fok egyik legismertebb homokos és kavicsos strandja.", "category": "recreational", "coords": [13.917173, 44.772082]}, {"name": "Škara", "text": "Eldugott sziklás strand a természet lágyán, a Kamenjak-félsziget területén.", "category": "recreational", "coords": [13.921265, 44.77488]}, {"name": "Veliki Portić", "text": "Népszerű, tágas öböl a Kamenjak-félszigeten, amely a hajósok kedvelt kikötőhelye.", "category": "recreational", "coords": [13.912834, 44.77504]}, {"name": "Dražice", "text": "Családbarát kavicsos strand Premantura központjának közelében.", "category": "recreational", "coords": [13.914256, 44.789179]}, {"name": "Aquapark Wibit Šćuza", "text": "Felfújható vízi vidámpark a tengeren, amely szórakozást nyújt a gyerekeknek.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Otisci Dinosaura", "text": "Valódi kréta kori dinoszaurusz-lábnyomok, amelyek a Kamenjak-félsziget szikláin láthatók.", "category": "landmark", "coords": [13.90189, 44.790333]}, {"name": "Rudist", "text": "Őskori kagylók megkövült maradványai, amelyek a Kamenjak-félsziget part menti szikláiban láthatók.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "photo frame", "text": "Egy dekoratív fotókeret Premanturában, amely festői hátteret biztosít a tengerparti emlékfotókhoz.", "category": "landmark", "coords": [13.910601, 44.77463]}, {"name": "Kršine", "text": "Sziklás szakasz a Kamenjak natúrparkban, kristálytiszta vízzel.", "category": "recreational", "coords": [13.908112, 44.768535]}, {"name": "Mala Kolombarica", "text": "Népszerű sziklaugró és búvárhely Isztria legdélebbi csücskén.", "category": "recreational", "coords": [13.911923, 44.768801]}, {"name": "Velika Kolombarica", "text": "Látványos tengerparti szakasz egy tengeri barlanggal a Kamenjak natúrparkban.", "category": "recreational", "coords": [13.915067, 44.767996]}, {"name": "Sv. Mikule Dražica", "text": "Nyugodt kavicsos strand a Kamenjak-félsziget keleti oldalán.", "category": "recreational", "coords": [13.921514, 44.767862]}, {"name": "Franina", "text": "Természetes strand a Kamenjak natúrparkban, érintetlen környezetben.", "category": "recreational", "coords": [13.924428, 44.769461]}], "ro": [{"name": "Capul Kamenjak", "text": "O rezervație naturală protejată în extremitatea sudică a Istriei, cu peste 30 km de coastă stâncoasă și golfuri sălbatice.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-kap-kamenjak.webp", "coords": [13.91, 44.783333]}, {"name": "Safari Bar", "text": "Un local legendar ascuns în stuf și bambus, renumit pentru designul său eco-friendly și atmosfera relaxată de la marginea capului.", "category": "cultural centres", "confidence": "high", "image": "/poi-images/sights/premantura-safari-bar.webp", "coords": [13.91025, 44.769523]}, {"name": "Farul Porer", "text": "Situat pe o insulă minusculă în largul coastei, acest far istoric oferă o imagine emblematică, fiind vizibil din multe puncte de pe țărm.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/premantura-leuchtturm-porer.webp", "coords": [13.89075, 44.758056]}, {"name": "Traseul Dinozaurilor", "text": "Un traseu educativ pe coasta Grakalovac, unde se pot observa urme fosilizate reale ale dinozaurilor din perioada cretacică.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-dinosaurierpfad.webp", "coords": [13.908917, 44.793081]}, {"name": "Insula Fenoliga", "text": "Mică insulă nelocuită situată lângă cap, celebră pentru numărul mare de urme de dinozauri imprimate în rocile de calcar.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-insel-fenoliga.webp", "coords": [13.90103, 44.767687]}, {"name": "Bijeca", "text": "Cea mai cunoscută plajă cu nisip din Medulin, lângă Premantura, ideală pentru familii cu copii.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Pomer", "text": "În satul Pomer, lângă Premantura, se întinde o plajă liniștită, la granița cu Parcul Natural Kamenjak. Apa calmă și mediul înconjurat de pini fac ca înotul aici să fie o experiență foarte relaxantă. Plimbăreții și înotătorii găsesc deopotrivă un refugiu de pace în această locație. Este un punct de plecare ideal pentru a explora frumusețile naturale din jur după o baie.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "O plajă pitorească lângă Premantura, cu ape de cristal.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "O mică plajă pe coasta localității Premantura, ideală pentru iubitorii de natură.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Školjić", "text": "O plajă cu pietriș în Premantura, populară în special printre windsurferi.", "category": "recreational", "coords": [13.916423, 44.78553]}, {"name": "Runke", "text": "O plajă liniștită lângă Premantura, ideală pentru relaxare.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Pinižule", "text": "O plajă populară cu pietriș pe peninsula Kamenjak, cu apă cristalină.", "category": "recreational", "coords": [13.903574, 44.789532]}, {"name": "Polje", "text": "O plajă naturală pe peninsula Kamenjak, înconjurată de vegetație mediteraneană.", "category": "recreational", "coords": [13.906852, 44.786316]}, {"name": "Plovanije", "text": "O secțiune de coastă stâncoasă la Capul Kamenjak, cunoscută pentru marea sa curată.", "category": "recreational", "coords": [13.904881, 44.781462]}, {"name": "Njive", "text": "O plajă pitorească în rezervația naturală Kamenjak, cu vedere la Marea Adriatică.", "category": "recreational", "coords": [13.906325, 44.776947]}, {"name": "Family park", "text": "Un mic parc de distracții în Premantura, cu diverse atracții pentru copii.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "Un centru de informare despre biodiversitatea și ecosistemul Capului Kamenjak.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "Foarte aproape de campingul Medulin, înotătorii vor găsi o plajă largă, cu intrare lină, formată din nisip și pietriș. Adâncimea mică a apei și accesul necomplicat fac din acest loc un favorit pentru zilele de vară fără griji. Cei cărora le place să facă plimbări lungi prin apa până la glezne se vor bucura din plin de acest mediu. Pentru familiile cu copii, zona este o destinație foarte practică.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "FKK / Naturist Beach Crvene Stjene", "text": "Pe peninsula Kamenjak, plaja pentru nudiști Crvene Stjene iese în evidență prin stâncile sale roșii izbitoare. Naturiștii se bucură pe această coastă de simbioza dintre libertatea netulburată și apa cristalină. Platoul însorit te invită să te relaxezi, în timp ce marea îți oferă o revigorare minunată. Este nevoie de puțină prudență la intrarea în apă peste pietre, dar săritura în albastrul mării merită din plin.", "category": "recreational", "coords": [13.878221, 44.805911]}, {"name": "Radovica", "text": "Un loc liniștit de coastă pe peninsula Kamenjak, ideal pentru înot și snorkeling.", "category": "recreational", "coords": [13.907815, 44.772259]}, {"name": "Ščuza", "text": "O plajă puțin adâncă situată lângă podul spre Pomer, populară pentru familii.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "Un sit arheologic important care conține vestigiile unei vile romane imperiale.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Podlokva", "text": "O plajă liniștită situată în zona protejată a Parcului Natural Kamenjak.", "category": "recreational", "coords": [13.91423, 44.791887]}, {"name": "Tašalera", "text": "O plajă situată lângă Premantura, aflată chiar lângă campingul Tašalera.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "Mali Portić", "text": "Un mic golf cu nisip și pietriș pe peninsula Kamenjak.", "category": "recreational", "coords": [13.916733, 44.778918]}, {"name": "plaža Munte", "text": "Plaja betonată Plaža Munte din Premantura a fost proiectată special pentru a oferi acces facil la mare persoanelor cu deficiențe de vedere. Pe această secțiune a coastei, toți înotătorii se pot bucura de apă fără griji, simțind briza mării. Țărmul plat și bine asigurat transmite un nivel ridicat de siguranță. Aici incluziunea este pusă pe primul loc, făcând locul deosebit de valoros pentru excursii relaxante.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Toreta", "text": "O porțiune de coastă stâncoasă în partea de sud a Parcului Natural Kamenjak.", "category": "recreational", "coords": [13.906489, 44.773198]}, {"name": "Debeljak", "text": "Una dintre cele mai renumite plaje cu nisip și pietriș de pe Capul Kamenjak.", "category": "recreational", "coords": [13.917173, 44.772082]}, {"name": "Škara", "text": "O plajă stâncoasă retrasă, înconjurată de natură, pe peninsula Kamenjak.", "category": "recreational", "coords": [13.921265, 44.77488]}, {"name": "Veliki Portić", "text": "Un golf popular și larg pe peninsula Kamenjak, frecventat de ambarcațiuni.", "category": "recreational", "coords": [13.912834, 44.77504]}, {"name": "Dražice", "text": "O plajă cu pietriș potrivită pentru familii, situată aproape de centrul localității Premantura.", "category": "recreational", "coords": [13.914256, 44.789179]}, {"name": "Aquapark Wibit Šćuza", "text": "Un parc acvatic gonflabil pe mare, care oferă distracție pentru copii.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Otisci Dinosaura", "text": "Amprente reale de dinozaur din perioada cretacică, conservate pe stâncile peninsulei Kamenjak.", "category": "landmark", "coords": [13.90189, 44.790333]}, {"name": "Rudist", "text": "Resturi fosilizate de scoici preistorice, vizibile pe coasta peninsulei Kamenjak.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "photo frame", "text": "Un cadru foto decorativ în Premantura, care oferă un fundal perfect pentru fotografii de vacanță la malul mării.", "category": "landmark", "coords": [13.910601, 44.77463]}, {"name": "Kršine", "text": "O porțiune de coastă stâncoasă în Parcul Natural Kamenjak, cu apă cristalină.", "category": "recreational", "coords": [13.908112, 44.768535]}, {"name": "Mala Kolombarica", "text": "Un loc popular pentru sărituri de pe stânci și snorkeling în vârful sudic al Istriei.", "category": "recreational", "coords": [13.911923, 44.768801]}, {"name": "Velika Kolombarica", "text": "O secțiune de coastă spectaculoasă cu o peșteră marină în Parcul Natural Kamenjak.", "category": "recreational", "coords": [13.915067, 44.767996]}, {"name": "Sv. Mikule Dražica", "text": "O plajă liniștită cu pietriș pe partea de est a peninsulei Kamenjak.", "category": "recreational", "coords": [13.921514, 44.767862]}, {"name": "Franina", "text": "O plajă naturală în Parcul Natural Kamenjak, înconjurată de natură virgină.", "category": "recreational", "coords": [13.924428, 44.769461]}], "en": [{"name": "Cape Kamenjak", "text": "A protected nature reserve at Istria's southernmost tip, featuring over 30 km of rugged coastline and hidden sapphire coves.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-kap-kamenjak.webp", "coords": [13.91, 44.783333]}, {"name": "Safari Bar", "text": "A unique jungle-like bar hidden among reeds and bamboo, famous for its rustic wooden structures and swings.", "category": "cultural centres", "confidence": "high", "image": "/poi-images/sights/premantura-safari-bar.webp", "coords": [13.91025, 44.769523]}, {"name": "Porer Lighthouse", "text": "Standing on a tiny rock island off the coast, this lighthouse is a landmark icon of the area, especially during sunset.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/premantura-leuchtturm-porer.webp", "coords": [13.89075, 44.758056]}, {"name": "Dinosaur Path", "text": "An educational trail on the Grakalovac peninsula where visitors can see actual fossilized dinosaur footprints in the stone.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-dinosaurierpfad.webp", "coords": [13.908917, 44.793081]}, {"name": "Fenoliga Island", "text": "A small uninhabited island near the cape, famous for containing over 100 dinosaur footprints from the Cretaceous period.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/premantura-insel-fenoliga.webp", "coords": [13.90103, 44.767687]}, {"name": "Bijeca", "text": "The most famous sandy beach in Medulin near Premantura, ideal for families with children.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Pomer", "text": "In the village of Pomer near Premantura stretches a quiet beach that borders the Kamenjak Nature Park. The calm water and pine-fringed surroundings make swimming here a highly restorative experience. Walkers and bathers alike will find a sanctuary of peace at this spot. It serves as an ideal starting point to explore the surrounding natural wonders afterward.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "A scenic beach near Premantura featuring crystal clear waters.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "A small beach on the coast of Premantura, ideal for nature lovers.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Školjić", "text": "A pebble beach in Premantura, especially popular among windsurfers.", "category": "recreational", "coords": [13.916423, 44.78553]}, {"name": "Runke", "text": "A quiet beach near Premantura, ideal for relaxation.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Pinižule", "text": "A popular pebble beach on the Kamenjak peninsula with crystal clear water.", "category": "recreational", "coords": [13.903574, 44.789532]}, {"name": "Polje", "text": "A natural beach on the Kamenjak peninsula, surrounded by Mediterranean vegetation.", "category": "recreational", "coords": [13.906852, 44.786316]}, {"name": "Plovanije", "text": "A rocky coastal section at Cape Kamenjak, known for its clean sea.", "category": "recreational", "coords": [13.904881, 44.781462]}, {"name": "Njive", "text": "A picturesque beach in the Kamenjak nature reserve with views of the Adriatic.", "category": "recreational", "coords": [13.906325, 44.776947]}, {"name": "Family park", "text": "A small amusement park in Premantura with various attractions for children.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "An information center about the biodiversity and ecosystem of Cape Kamenjak.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "Very close to the Medulin campsite, bathers will find an expansive, shallow sand and pebble beach. The low water depth and uncomplicated access make this spot a favorite for carefree summer days. Those who enjoy taking long walks in ankle-deep water will get their money's worth here. For families with children, the area is a highly practical and fun destination.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "FKK / Naturist Beach Crvene Stjene", "text": "On the Kamenjak peninsula, the Crvene Stjene nudist beach stands out with its striking red rocks. Naturists enjoy the perfect symbiosis of undisturbed freedom and crystal-clear water along this coast. The sunny plateau invites visitors to relax, while the sea provides a wonderful refreshment. A bit of caution is needed when entering over the rocks, but the plunge into the blue water is well worth it.", "category": "recreational", "coords": [13.878221, 44.805911]}, {"name": "Radovica", "text": "A quiet coastal spot on the Kamenjak peninsula, ideal for swimming and snorkeling.", "category": "recreational", "coords": [13.907815, 44.772259]}, {"name": "Ščuza", "text": "A shallow beach located near the bridge to Pomer, popular with families.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "An important archaeological site featuring the remains of an imperial Roman villa.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Podlokva", "text": "A quiet beach located within the protected area of the Kamenjak Nature Park.", "category": "recreational", "coords": [13.91423, 44.791887]}, {"name": "beach Tašalera", "text": "A beach near Premantura, located right next to the Tašalera campsite.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "Mali Portić", "text": "A small sandy and pebbly bay on the Kamenjak peninsula.", "category": "recreational", "coords": [13.916733, 44.778918]}, {"name": "Munte Beach", "text": "The concreted Plaža Munte in Premantura has been specially designed to provide accessible entry to the sea for people with visual impairments. On this stretch of coast, all bathers can swim carefree and feel the gentle sea breeze. The flat and well-secured shore conveys a high degree of safety for everyone. Inclusion takes center stage here, making the spot particularly valuable for relaxed outings.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Toreta", "text": "A rocky coastal section in the southern part of the Kamenjak Nature Park.", "category": "recreational", "coords": [13.906489, 44.773198]}, {"name": "Debeljak", "text": "One of the most famous sandy and pebbly beaches on Cape Kamenjak.", "category": "recreational", "coords": [13.917173, 44.772082]}, {"name": "Škara", "text": "A secluded rocky beach surrounded by nature on the Kamenjak peninsula.", "category": "recreational", "coords": [13.921265, 44.77488]}, {"name": "Veliki Portić", "text": "A popular and wide bay on the Kamenjak peninsula, frequented by boaters.", "category": "recreational", "coords": [13.912834, 44.77504]}, {"name": "Dražice", "text": "A family-friendly pebble beach located near the center of Premantura.", "category": "recreational", "coords": [13.914256, 44.789179]}, {"name": "Aquapark Wibit Šćuza", "text": "An inflatable water park on the sea, providing entertainment for children.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Dinosaur Footprints", "text": "Authentic Cretaceous dinosaur footprints preserved on the rocks of the Kamenjak peninsula.", "category": "landmark", "coords": [13.90189, 44.790333]}, {"name": "Rudist", "text": "Fossilized remains of prehistoric bivalves visible on the coast of the Kamenjak peninsula.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "photo frame", "text": "A decorative photo frame in Premantura that provides a scenic backdrop for vacation photos by the coast.", "category": "landmark", "coords": [13.910601, 44.77463]}, {"name": "Kršine", "text": "A rocky beach section in the Kamenjak Nature Park with crystal clear water.", "category": "recreational", "coords": [13.908112, 44.768535]}, {"name": "Mala Kolombarica", "text": "A popular spot for cliff jumping and snorkeling at the southern tip of Istria.", "category": "recreational", "coords": [13.911923, 44.768801]}, {"name": "Velika Kolombarica", "text": "A spectacular coastal section featuring a sea cave in the Kamenjak Nature Park.", "category": "recreational", "coords": [13.915067, 44.767996]}, {"name": "Sv. Mikule Dražica", "text": "A peaceful pebble beach on the eastern side of the Kamenjak peninsula.", "category": "recreational", "coords": [13.921514, 44.767862]}, {"name": "Franina", "text": "A natural beach in the Kamenjak Nature Park, surrounded by untouched nature.", "category": "recreational", "coords": [13.924428, 44.769461]}], "hr": [{"name": "Bijeca", "text": "Najpoznatija pješčana plaža u Medulinu kod Premanture, idealna za obitelji s djecom.", "category": "recreational", "coords": [13.934696, 44.813274]}, {"name": "Pomer", "text": "Mirna plaža u mjestu Pomer, smještena u blizini parka prirode Kamenjak.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Bijela", "text": "Slikovita plaža u blizini Premanture s kristalno čistim morem.", "category": "recreational", "coords": [13.924162, 44.802665]}, {"name": "Mugli", "text": "Mala plaža na obali Premanture, idealna za ljubitelje prirode.", "category": "recreational", "coords": [13.918155, 44.81181]}, {"name": "Školjić", "text": "Šljunčana plaža u Premanturi, posebno popularna među jedriličarima na dasci.", "category": "recreational", "coords": [13.916423, 44.78553]}, {"name": "Runke", "text": "Mirna plaža u blizini Premanture, idealna za opuštanje.", "category": "recreational", "coords": [13.916065, 44.809384]}, {"name": "Pinižule", "text": "Popularna šljunčana plaža na poluotoku Kamenjak s kristalno čistim morem.", "category": "recreational", "coords": [13.903574, 44.789532]}, {"name": "Polje", "text": "Prirodna plaža na poluotoku Kamenjak, okružena mediteranskom vegetacijom.", "category": "recreational", "coords": [13.906852, 44.786316]}, {"name": "Plovanije", "text": "Stjenoviti dio obale na rtu Kamenjak, poznat po čistom moru.", "category": "recreational", "coords": [13.904881, 44.781462]}, {"name": "Njive", "text": "Slikovita plaža u parku prirode Kamenjak s pogledom na Jadran.", "category": "recreational", "coords": [13.906325, 44.776947]}, {"name": "Family park", "text": "Mali zabavni park u Premanturi s raznim atrakcijama za djecu.", "category": "recreational", "coords": [13.931168, 44.814344]}, {"name": "Kuca Prirode", "text": "Informativni centar o bioraznolikosti i ekosustavu rta Kamenjak.", "category": "museum", "coords": [13.9094, 44.801256]}, {"name": "Camping Medulin Beach", "text": "Plitka pješčana i šljunčana plaža smještena u blizini kampa u Medulinu.", "category": "recreational", "coords": [13.931187, 44.81266]}, {"name": "FKK / Naturist Beach Crvene Stjene", "text": "Poznata nudistička plaža na Kamenjaku, nazvana po prepoznatljivim crvenim stijenama.", "category": "recreational", "coords": [13.878221, 44.805911]}, {"name": "Radovica", "text": "Mirno obalno mjesto na poluotoku Kamenjak, idealno za kupanje i ronjenje.", "category": "recreational", "coords": [13.907815, 44.772259]}, {"name": "Ščuza", "text": "Plitka plaža smještena u blizini mosta za Pomer, popularna među obiteljima.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Vižula", "text": "Značajno arheološko nalazište s ostacima carske rimske vile.", "category": "historical", "coords": [13.92543, 44.818631]}, {"name": "Podlokva", "text": "Mirna plaža smještena unutar zaštićenog područja Parka prirode Kamenjak.", "category": "recreational", "coords": [13.91423, 44.791887]}, {"name": "beach Tašalera", "text": "Plaža u blizini Premanture, smještena odmah uz kamp Tašalera.", "category": "recreational", "coords": [13.914312, 44.812925]}, {"name": "Mali Portić", "text": "Mala pješčana i šljunčana uvala na poluotoku Kamenjak.", "category": "recreational", "coords": [13.916733, 44.778918]}, {"name": "Munte Beach", "text": "Betonirana plaža u Premanturi, posebno prilagođena osobama s oštećenjem vida.", "category": "recreational", "coords": [13.920502, 44.805113]}, {"name": "Toreta", "text": "Stjenoviti dio obale u južnom dijelu Parka prirode Kamenjak.", "category": "recreational", "coords": [13.906489, 44.773198]}, {"name": "Debeljak", "text": "Jedna od najpoznatijih pješčanih i šljunčanih plaža na rtu Kamenjak.", "category": "recreational", "coords": [13.917173, 44.772082]}, {"name": "Škara", "text": "Osamljena stjenovita plaža okružena prirodom na poluotoku Kamenjak.", "category": "recreational", "coords": [13.921265, 44.77488]}, {"name": "Veliki Portić", "text": "Popularna i prostrana uvala na poluotoku Kamenjak, omiljena među nautičarima.", "category": "recreational", "coords": [13.912834, 44.77504]}, {"name": "Dražice", "text": "Šljunčana plaža pogodna za obitelji, smještena u blizini centra Premanture.", "category": "recreational", "coords": [13.914256, 44.789179]}, {"name": "Aquapark Wibit Šćuza", "text": "Vodeni park na napuhavanje u moru, koji nudi zabavu za djecu.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Dinosaur Footprints", "text": "Autentični otisci stopala dinosaura iz razdoblja krede, očuvani na stijenama poluotoka Kamenjak.", "category": "landmark", "coords": [13.90189, 44.790333]}, {"name": "Rudist", "text": "Fosilizirani ostaci pretpovijesnih školjkaša vidljivi na obali poluotoka Kamenjak.", "category": "landmark", "coords": [13.897638, 44.812033]}, {"name": "photo frame", "text": "Ukrasni foto okvir u Premanturi koji pruža slikovitu pozadinu za uspomene s ljetovanja na obali.", "category": "landmark", "coords": [13.910601, 44.77463]}, {"name": "Kršine", "text": "Stjenoviti dio obale u Parku prirode Kamenjak s kristalno čistim morem.", "category": "recreational", "coords": [13.908112, 44.768535]}, {"name": "Mala Kolombarica", "text": "Popularno mjesto za skokove u more i ronjenje na najjužnijem rtu Istre.", "category": "recreational", "coords": [13.911923, 44.768801]}, {"name": "Velika Kolombarica", "text": "Spektakularan dio obale s morskom špiljom u Parku prirode Kamenjak.", "category": "recreational", "coords": [13.915067, 44.767996]}, {"name": "Sv. Mikule Dražica", "text": "Mirna šljunčana plaža na istočnoj strani poluotoka Kamenjak.", "category": "recreational", "coords": [13.921514, 44.767862]}, {"name": "Franina", "text": "Prirodna plaža u Parku prirode Kamenjak, okružena netaknutom prirodom.", "category": "recreational", "coords": [13.924428, 44.769461]}]}},
+  {"id": "premantura", "type": "city", "parent": "HR-18", "coords": [13.9094, 44.7967], "population": 936, "tier": 1, "name": {"de": "Premantura", "hu": "Premantura", "ro": "Premantura", "en": "Premantura"}, "description": {"de": "Das südlichste Dorf Istriens liegt auf einer Halbinsel direkt am Eingang zum geschützten Naturpark Kap Kamenjak und ist ein Paradies für Surfer und Naturliebhaber.", "hu": "Isztria legdélebbi települése a Kamenjak-fok természetvédelmi terület kapujában fekszik, és kristálytiszta öbleiről, valamint a szörfösök kedvelt szélviszonyairól ismert.", "ro": "Cel mai sudic sat din Istria, situat la intrarea în parcul natural Cap Kamenjak, este o destinație populară pentru windsurfing și explorarea golfurilor virgine.", "en": "The southernmost village in Istria, located at the gateway to the Cape Kamenjak nature reserve, famous for its crystal-clear bays and excellent windsurfing conditions."}, "facts": {"de": ["Südlichster Punkt der Halbinsel Istrien", "Eingang zum Naturpark Kap Kamenjak", "Zentrum für Windsurfen und Kitesurfen", "Berühmt für die Premantura-Spinne", "Kirche des Heiligen Laurentius im Zentrum", "Über 30 Kilometer Küstenlinie am Kap", "Beliebtes Ziel für Mountainbiker", "Kristallklares, türkisfarbenes Wasser"], "hu": ["Isztria legdélebbi csücske", "A Kamenjak-fok Nemzeti Park bejárata", "Nemzetközi szörf- és búvárközpont", "Szent Lőrinc tiszteletére szentelt templom", "30 km hosszan tagolt partvonal", "Híres a Premanturai pókról (helyi rák)", "Számos rejtett sziklás öböl várja", "Kerékpáros útvonalak hálózata"], "ro": ["Cel mai sudic punct al peninsulei Istria", "Poarta de acces către Rezervația Kamenjak", "Destinație de top pentru windsurfing", "Biserica Sfântul Laurențiu din secolul XVII", "Linie de coastă stâncoasă de 30 km", "Renumit pentru crabii locali gustoși", "Numeroase peșteri marine în apropiere", "Apa mării are o claritate excepțională"], "en": ["Southernmost settlement in Istria", "Entrance to Cape Kamenjak Nature Park", "Renowned center for windsurfing", "17th-century Church of St. Lawrence", "30 kilometers of rugged coastline", "Famous for the local Premantura crab", "Hotspot for cliff jumping and diving", "Abundant Mediterranean flora and fauna"]}, "image": "/poi-images/premantura.webp", "imageHint": "Coastline of Premantura and the entrance to Cape Kamenjak", "descriptionAdvanced": {"de": "Premantura ist weit mehr als nur ein ruhiges Fischerdorf am Ende Istriens; es ist das Tor zu einer der unberührtesten Naturlandschaften Kroatiens. Das Dorf liegt erhöht auf einem Hügel und bietet weite Ausblicke über die Adria. Direkt vor der Haustür beginnt das geschützte Kap Kamenjak, eine zehn Kilometer lange Halbinsel mit über 30 versteckten Buchten, Höhlen und flachen Felsstränden. Für Abenteurer ist Premantura ein Mekka: Die starken Winde machen den Ort zu einem der besten Surfspots der nördlichen Adria, während Klippenspringer an der Südspitze des Kaps ihren Mut beweisen. Die lokale Gastronomie ist geprägt von frischem Fisch und der besonderen Premantura-Spinne (ein lokaler Seespinne-Krebs), der in den örtlichen Konobas als Delikatesse gilt. Wer Ruhe sucht, findet sie auf den zahlreichen Wander- und Radwegen, die durch duftende Pinienwälder und vorbei an seltenen Orchideenarten führen. Der 1833 errichtete Leuchtturm Porer, der auf einer kleinen Insel vor der Küste thront, ist ein markantes Wahrzeichen, das Seefahrer seit fast zwei Jahrhunderten leitet.", "hu": "Premantura Isztria legdélebbi csücskén fekszik, egy olyan keskeny félszigeten, amely az Adria egyik legvadabb és legszebb természeti területébe, a Kamenjak-fokba torkollik. A falu központját a 17. századi Szent Lőrinc-templom és annak különálló harangtornya uralja, de az igazi vonzerőt a környék érintetlen természete jelenti. A Kamenjak-fok több mint 30 kilométernyi tagolt partvonala kristálytiszta vizű öblöket, tengeri barlangokat és látványos sziklaformációkat kínál. A terület híres gazdag flórájáról, több mint 500 növényfaj, köztük számos ritka orchidea él itt. Premantura a szörfösök és búvárok paradicsoma is, mivel a tengeri áramlatok és szelek itt a legkedvezőbbek az egész félszigeten. A gasztronómia kedvelői számára kötelező kipróbálni a helyi tengeri pók rákot, amely a környék különlegessége. A parttól nem messze emelkedik a Porer-világítótorony egy apró sziklán, amely 1833 óta mutatja az utat a hajósoknak a gyakran viharos vizeken. Premantura az aktív pihenés és a természetközeli kikapcsolódás tökéletes ötvözete.", "ro": "Situat la extremitatea sudică a peninsulei Istria, satul Premantura este renumit ca fiind poarta de acces către Capul Kamenjak, o rezervație naturală de o frumusețe sălbatică. Satul în sine păstrează farmecul mediteranean autentic, cu străduțe înguste și Biserica Sfântul Laurențiu situată în piața centrală. Principala atracție este însă peninsula Kamenjak, care se întinde pe 10 kilometri și oferă peste 30 de golfuri cu apă azurie, plaje cu pietriș și stânci spectaculoase ideale pentru sărituri în apă. Datorită poziției sale geografice expuse vânturilor, Premantura este considerată una dintre cele mai bune locații din Croația pentru windsurfing și kitesurfing. Iubitorii de natură pot explora trasee de bicicletă ce șerpuiesc printre pin și specii rare de orhidee sălbatice care înfloresc primăvara. Gastronomia locală este centrată pe fructe de mare proaspete, crabul de Premantura fiind o delicatesă rară căutată de cunoscători. În largul coastei, Farul Porer, construit în 1833 pe o stâncă izolată, completează acest peisaj maritim dramatic și pitoresc.", "en": "Premantura is the southernmost village of Istria, perched on a narrow peninsula that leads directly to the wild beauty of Cape Kamenjak. The village center is dominated by the 17th-century Church of St. Lawrence, but the real draw is the surrounding nature reserve. Cape Kamenjak boasts over 30 kilometers of rugged coastline, featuring crystal-clear bays, mysterious sea caves, and flat rock beaches perfect for sunbathing or cliff jumping. The area is a botanical treasure, home to over 500 plant species, including rare wild orchids. Premantura is a renowned hotspot for windsurfing and kitesurfing due to the favorable maritime winds that sweep across the tip of the peninsula. Adventurous visitors can enjoy world-class diving or mountain biking along scenic trails through pine forests. The local culinary scene is famous for the 'Premantura crab,' a seasonal delicacy served in traditional taverns. Just offshore, the Porer lighthouse, built in 1833 on a tiny rock, stands as a silent sentinel over the often turbulent waters of the southern Istrian coast."}, "factsAdvanced": ["Premantura liegt etwa 10 km südlich von Pula", "Der Naturpark Kap Kamenjak umfasst 30 verschiedene Buchten", "Der Leuchtturm Porer ist 35 Meter hoch und wurde 1833 erbaut", "Auf dem Kap wurden versteinerte Dinosaurier-Fußabdrücke gefunden", "In der Gegend blühen über 30 verschiedene Orchideenarten", "Die Kirche des Hl. Laurentius wurde 1632 errichtet"], "factsAdvanced_hu": ["Premantura körülbelül 10 km-re délre fekszik Pulától", "A Kamenjak-fok területén 30 kilométernyi tagolt partvonal található", "A közeli Porer-világítótorony 35 méter magas, 1833-ban épült", "A félszigeten valódi dinoszaurusz lábnyomok láthatóak a sziklákban", "Több mint 30 vadon élő orchideafaj honos a területen", "Szent Lőrinc ünnepét minden év augusztus 10-én tartják"], "factsAdvanced_ro": ["Premantura se află la aproximativ 10 km sud de orașul Pula", "Rezervația Kamenjak are o lungime de 9,5 km și 1,5 km lățime", "Farul Porer, situat la 2,5 km de coastă, a fost ridicat în 1833", "Au fost descoperite urme de dinozauri pe insula Fenoliga din apropiere", "În rezervație trăiesc peste 500 de specii de plante mediteraneene", "Biserica Sfântul Laurențiu a fost construită în anul 1632"], "factsAdvanced_en": ["Premantura is located roughly 10 km south of Pula", "Cape Kamenjak features 30 distinct bays and several sea caves", "The Porer lighthouse stands 35 meters tall and was built in 1833", "Authentic dinosaur footprints are visible on the nearby Fenoliga island", "The nature park hosts over 30 species of wild orchids", "The village was settled in the 16th century by refugees from Dalmatia"], "sights": {
+      "de": [
+            {
+                  "name": "Kap Kamenjak",
+                  "text": "Ein geschütztes Naturparadies an der Südspitze Istriens mit über 30 km Küstenlinie, versteckten Buchten und einer reichen Flora.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-kap-kamenjak.webp",
+                  "coords": [
+                        13.91,
+                        44.783333
+                  ]
+            },
+            {
+                  "name": "Safari Bar",
+                  "text": "Eine originelle Bar inmitten von Schilf und Bambus am Ende des Kaps, bekannt für ihre rustikale Einrichtung und Schaukeln.",
+                  "category": "cultural centres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-safari-bar.webp",
+                  "coords": [
+                        13.91025,
+                        44.769523
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Porer",
+                  "text": "Der markante Leuchtturm steht auf einer winzigen Insel vor dem Kap und bietet ein ikonisches Fotomotiv bei Sonnenuntergang.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-leuchtturm-porer.webp",
+                  "coords": [
+                        13.89075,
+                        44.758056
+                  ]
+            },
+            {
+                  "name": "Dinosaurierpfad",
+                  "text": "Ein Lehrpfad an der Küste von Grakalovac, wo echte versteinerte Fußabdrücke von Dinosauriern aus der Kreidezeit zu sehen sind.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-dinosaurierpfad.webp",
+                  "coords": [
+                        13.908917,
+                        44.793081
+                  ]
+            },
+            {
+                  "name": "Insel Fenoliga",
+                  "text": "Eine kleine unbewohnte Insel nahe dem Kap, berühmt für die hohe Dichte an Dinosaurier-Fußspuren auf ihren Kalksteinfelsen.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-insel-fenoliga.webp",
+                  "coords": [
+                        13.90103,
+                        44.767687
+                  ]
+            },
+            {
+                  "name": "Bijeca",
+                  "text": "Der bekannteste Sandstrand in Medulin bei Premantura, ideal für Familien mit kleinen Kindern.",
+                  "category": "recreational",
+                  "coords": [
+                        13.934696,
+                        44.813274
+                  ]
+            },
+            {
+                  "name": "Strand Pomer",
+                  "text": "Im Dorf Pomer nahe Premantura erstreckt sich ein ruhiger Strand, der an den Naturpark Kamenjak grenzt. Das stille Wasser und die von Pinien geprägte Umgebung machen das Schwimmen hier zu einer sehr erholsamen Erfahrung. Spaziergänger und Badegäste finden hier gleichermaßen einen Ort der Ruhe. Ein idealer Startpunkt, um im Anschluss die umliegenden Naturschönheiten zu erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Bijela",
+                  "text": "Ein malerischer Strand in der Nähe von Premantura mit kristallklarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924162,
+                        44.802665
+                  ]
+            },
+            {
+                  "name": "Mugli",
+                  "text": "Ein kleiner Strand an der Küste von Premantura, ideal für Naturliebhaber.",
+                  "category": "recreational",
+                  "coords": [
+                        13.918155,
+                        44.81181
+                  ]
+            },
+            {
+                  "name": "Školjić",
+                  "text": "Ein Kiesstrand in Premantura, der besonders bei Windsurfern und Aktivurlaubern beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916423,
+                        44.78553
+                  ]
+            },
+            {
+                  "name": "Runke",
+                  "text": "Ein ruhiger Strand in der Nähe von Premantura, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916065,
+                        44.809384
+                  ]
+            },
+            {
+                  "name": "Pinižule",
+                  "text": "Ein beliebter Kiesstrand auf der Halbinsel Kamenjak mit kristallklarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        13.903574,
+                        44.789532
+                  ]
+            },
+            {
+                  "name": "Polje",
+                  "text": "Ein natürlicher Strand auf der Halbinsel Kamenjak, umgeben von mediterraner Vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906852,
+                        44.786316
+                  ]
+            },
+            {
+                  "name": "Plovanije",
+                  "text": "Ein felsiger Küstenabschnitt am Kap Kamenjak, bekannt für sein sauberes Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        13.904881,
+                        44.781462
+                  ]
+            },
+            {
+                  "name": "Njive",
+                  "text": "Ein malerischer Strand im Naturschutzgebiet Kamenjak mit Blick auf die Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906325,
+                        44.776947
+                  ]
+            },
+            {
+                  "name": "Family park",
+                  "text": "Ein kleiner Vergnügungspark in Premantura mit verschiedenen Attraktionen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931168,
+                        44.814344
+                  ]
+            },
+            {
+                  "name": "Kuca Prirode",
+                  "text": "Ein Informationszentrum über die Artenvielfalt und das Ökosystem des Kaps Kamenjak.",
+                  "category": "museum",
+                  "coords": [
+                        13.9094,
+                        44.801256
+                  ]
+            },
+            {
+                  "name": "Camping Medulin Beach",
+                  "text": "Ganz in der Nähe des Campingplatzes Medulin finden Badegäste einen weitläufigen, flachen Sand- und Kiesstrand. Die geringe Wassertiefe und der unkomplizierte Zugang machen den Ort zu einem Favoriten für unbeschwerte Sommertage. Wer gerne lange Spaziergänge im knöcheltiefen Wasser unternimmt, kommt hier voll auf seine Kosten. Für Familien mit Kindern ist die Anlage ein sehr praktisches Ausflugsziel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931187,
+                        44.81266
+                  ]
+            },
+            {
+                  "name": "FKK / Naturist Beach Crvene Stjene",
+                  "text": "Auf der Halbinsel Kamenjak hebt sich der FKK-Strand Crvene Stjene durch seine markanten roten Felsen ab. Naturisten genießen an diesem Küstenabschnitt die Symbiose aus ungestörter Freiheit und kristallklarem Wasser. Das sonnige Plateau lädt zum Entspannen ein, während das Meer eine herrliche Erfrischung bietet. Vorsicht ist beim Einstieg über die Steine geboten, jedoch lohnt sich der Sprung ins blaue Nass.",
+                  "category": "recreational",
+                  "coords": [
+                        13.878221,
+                        44.805911
+                  ]
+            },
+            {
+                  "name": "Radovica",
+                  "text": "Ein ruhiger Küstenplatz auf der Halbinsel Kamenjak, ideal zum Schwimmen und Schnorcheln.",
+                  "category": "recreational",
+                  "coords": [
+                        13.907815,
+                        44.772259
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "Ein flacher Strand in der Nähe der Brücke nach Pomer, beliebt bei Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Vižula",
+                  "text": "Eine bedeutende archäologische Stätte mit den Überresten einer kaiserlichen römischen Villa.",
+                  "category": "historical",
+                  "coords": [
+                        13.92543,
+                        44.818631
+                  ]
+            },
+            {
+                  "name": "Podlokva",
+                  "text": "Ein ruhiger Strand im geschützten Gebiet des Naturparks Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.91423,
+                        44.791887
+                  ]
+            },
+            {
+                  "name": "Tašalera",
+                  "text": "Ein Strand in der Nähe von Premantura, direkt beim Campingplatz Tašalera gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914312,
+                        44.812925
+                  ]
+            },
+            {
+                  "name": "Mali Portić",
+                  "text": "Eine kleine Bucht mit Sand und Kies auf der Halbinsel Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916733,
+                        44.778918
+                  ]
+            },
+            {
+                  "name": "plaža Munte",
+                  "text": "Die betonierte plaža Munte in Premantura wurde gezielt so gestaltet, dass auch Menschen mit Sehbehinderungen einen barrierefreien Zugang zum Meer haben. An diesem Abschnitt der Küste können alle Badegäste unbeschwert schwimmen und die Meeresbrise spüren. Das flache und gut gesicherte Ufer vermittelt ein hohes Maß an Sicherheit. Die Inklusion steht hier im Mittelpunkt, was den Ort für entspannte Ausflüge besonders wertvoll macht.",
+                  "category": "recreational",
+                  "coords": [
+                        13.920502,
+                        44.805113
+                  ]
+            },
+            {
+                  "name": "Toreta",
+                  "text": "Ein felsiger Küstenabschnitt im südlichen Teil des Naturparks Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906489,
+                        44.773198
+                  ]
+            },
+            {
+                  "name": "Debeljak",
+                  "text": "Einer der bekanntesten Sand- und Kiesstrände am Kap Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.917173,
+                        44.772082
+                  ]
+            },
+            {
+                  "name": "Škara",
+                  "text": "Ein abgelegener Felsstrand inmitten unberührter Natur auf Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921265,
+                        44.77488
+                  ]
+            },
+            {
+                  "name": "Veliki Portić",
+                  "text": "Eine beliebte, weite Bucht auf Kamenjak, die oft von Seglern besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        13.912834,
+                        44.77504
+                  ]
+            },
+            {
+                  "name": "Dražice",
+                  "text": "Ein familienfreundlicher Kiesstrand in der Nähe des Zentrums von Premantura.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914256,
+                        44.789179
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "Ein aufblasbarer Wasserpark im Meer, der Spielspaß für Kinder bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Otisci Dinosaura",
+                  "text": "Echte Fußabdrücke von Dinosauriern aus der Kreidezeit, die auf den Felsen von Kamenjak erhalten sind.",
+                  "category": "landmark",
+                  "coords": [
+                        13.90189,
+                        44.790333
+                  ]
+            },
+            {
+                  "name": "Rudist",
+                  "text": "Versteinerte Überreste prähistorischer Muscheln, die an der Küste von Kamenjak sichtbar sind.",
+                  "category": "landmark",
+                  "coords": [
+                        13.897638,
+                        44.812033
+                  ]
+            },
+            {
+                  "name": "photo frame",
+                  "text": "Ein dekorativer Fotorahmen in Premantura, der einen perfekten Hintergrund für Urlaubsfotos vor der Küste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.910601,
+                        44.77463
+                  ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "Ein felsiger Strandabschnitt im Naturpark Kamenjak mit kristallklarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "Ein beliebter Ort zum Klippenspringen und Schnorcheln an der Südspitze Istriens.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "Ein spektakulärer Küstenabschnitt mit einer Meereshöhle im Naturpark Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "Ein ruhiger Kieselstrand an der Ostseite der Halbinsel Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "Ein naturbelassener Strand im Naturpark Kamenjak, umgeben von unberührter Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
+                  ]
+            },
+            {
+                  "name": "Jangalooz Adventure Park",
+                  "text": "Jangalooz Adventure Park in Premantura ist ein schönes Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        13.882274,
+                        44.823984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kamenjak-fok",
+                  "text": "Isztria legdélebbi pontja, egy védett természeti terület több mint 30 kilométernyi sziklás parttal és kristálytiszta öblökkel.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-kap-kamenjak.webp",
+                  "coords": [
+                        13.91,
+                        44.783333
+                  ]
+            },
+            {
+                  "name": "Safari Bar",
+                  "text": "Egyedülálló, nádasba rejtett „dzsungel-bár” a fok végén, amely rusztikus játékaival és különleges hangulatával vált híressé.",
+                  "category": "cultural centres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-safari-bar.webp",
+                  "coords": [
+                        13.91025,
+                        44.769523
+                  ]
+            },
+            {
+                  "name": "Porer-világítótorony",
+                  "text": "A Kamenjak melletti apró sziklaszigeten álló 35 méter magas torony az Adria egyik legszebb naplementés fotótémája.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-leuchtturm-porer.webp",
+                  "coords": [
+                        13.89075,
+                        44.758056
+                  ]
+            },
+            {
+                  "name": "Dinoszaurusz-ösvény",
+                  "text": "Oktatóút a tengerpart mentén, ahol a látogatók valódi, megkövesedett dinoszaurusz lábnyomokat láthatnak a sziklákban.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-dinosaurierpfad.webp",
+                  "coords": [
+                        13.908917,
+                        44.793081
+                  ]
+            },
+            {
+                  "name": "Fenoliga-sziget",
+                  "text": "Lakatlan sziget a Kamenjak közelében, ahol több mint 100 dinoszaurusz lábnyom maradt fenn a mészkő felszínén.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-insel-fenoliga.webp",
+                  "coords": [
+                        13.90103,
+                        44.767687
+                  ]
+            },
+            {
+                  "name": "Bijeca",
+                  "text": "Medulin legismertebb homokos strandja Premantura közelében, ideális kisgyermekes családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.934696,
+                        44.813274
+                  ]
+            },
+            {
+                  "name": "Pomer",
+                  "text": "A Premantura melletti Pomer faluban terül el egy csendes strand, amely a Kamenjak Natúrparkkal határos. A csendes víz és a fenyőfákkal tarkított környezet nagyon pihentető élménnyé teszi az itteni úszást. A sétálók és a fürdőzők egyaránt megtalálják itt a béke szigetét. Ideális kiindulópont, ha a fürdés után a környező természeti szépségeket is felfedeznénk.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Bijela",
+                  "text": "Festői strand Premantura környékén, kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924162,
+                        44.802665
+                  ]
+            },
+            {
+                  "name": "Mugli",
+                  "text": "Kis strand Premantura partján, amely ideális a természet kedvelőinek.",
+                  "category": "recreational",
+                  "coords": [
+                        13.918155,
+                        44.81181
+                  ]
+            },
+            {
+                  "name": "Školjić",
+                  "text": "Kavicsos strand Premanturában, amely különösen népszerű a szörfösök körében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916423,
+                        44.78553
+                  ]
+            },
+            {
+                  "name": "Runke",
+                  "text": "Nyugodt tengerpart Premantura közelében, ideális pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916065,
+                        44.809384
+                  ]
+            },
+            {
+                  "name": "Pinižule",
+                  "text": "Népszerű kavicsos strand a Kamenjak-félszigeten, kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.903574,
+                        44.789532
+                  ]
+            },
+            {
+                  "name": "Polje",
+                  "text": "Természetes strand a Kamenjak-félszigeten, mediterrán növényzettel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906852,
+                        44.786316
+                  ]
+            },
+            {
+                  "name": "Plovanije",
+                  "text": "Sziklás tengerparti szakasz a Kamenjak-fokon, tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.904881,
+                        44.781462
+                  ]
+            },
+            {
+                  "name": "Njive",
+                  "text": "Festői strand a Kamenjak természetvédelmi területen, kilátással az Adriára.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906325,
+                        44.776947
+                  ]
+            },
+            {
+                  "name": "Family park",
+                  "text": "Kisméretű vidámpark Premanturában, különféle játékokkal gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931168,
+                        44.814344
+                  ]
+            },
+            {
+                  "name": "Kuca Prirode",
+                  "text": "Információs központ a Kamenjak-fok biológiai sokféleségéről és ökoszisztémájáról.",
+                  "category": "museum",
+                  "coords": [
+                        13.9094,
+                        44.801256
+                  ]
+            },
+            {
+                  "name": "Camping Medulin Beach",
+                  "text": "A medulini kemping közvetlen közelében a fürdőzőket egy tágas, sekély, homokos és kavicsos strand várja. A víz kis mélysége és az egyszerű megközelíthetőség miatt ez a hely a felhőtlen nyári napok kedvence. Aki szeret a bokáig érő vízben hosszan sétálni, az itt biztosan jól fogja érezni magát. A gyermekes családok számára különösen praktikus úti cél ez a szakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931187,
+                        44.81266
+                  ]
+            },
+            {
+                  "name": "FKK / Naturist Beach Crvene Stjene",
+                  "text": "A Kamenjak-félszigeten a Crvene Stjene naturista strand jellegzetes vörös szikláival tűnik ki. A naturizmus hívei ezen a partszakaszon a zavartalan szabadság és a kristálytiszta víz tökéletes harmóniáját élvezhetik. A napos fennsík lazításra hív, miközben a tenger csodálatos felfrissülést kínál. A köveken való bejutásnál érdemes óvatosnak lenni, de a kék vízbe ugrás mindenképpen megéri a fáradtságot.",
+                  "category": "recreational",
+                  "coords": [
+                        13.878221,
+                        44.805911
+                  ]
+            },
+            {
+                  "name": "Radovica",
+                  "text": "Nyugodt tengerparti hely a Kamenjak-félszigeten, ideális úszáshoz és búvárkodáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.907815,
+                        44.772259
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "Sekély strand a pomeri híd közelében, népszerű a családok körében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Vižula",
+                  "text": "Jelentős régészeti lelőhely egy császári római villa maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        13.92543,
+                        44.818631
+                  ]
+            },
+            {
+                  "name": "Podlokva",
+                  "text": "Csendes tengerparti szakasz a Kamenjak-félsziget természetvédelmi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.91423,
+                        44.791887
+                  ]
+            },
+            {
+                  "name": "Tašalera",
+                  "text": "Premantura melletti tengerparti rész a Tašalera kemping közvetlen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914312,
+                        44.812925
+                  ]
+            },
+            {
+                  "name": "Mali Portić",
+                  "text": "Apró homokos és kavicsos öböl a Kamenjak-félsziget keleti oldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916733,
+                        44.778918
+                  ]
+            },
+            {
+                  "name": "plaža Munte",
+                  "text": "A premanturai betonozott plaža Munte partszakaszt kifejezetten úgy alakították ki, hogy a látássérültek számára is akadálymentes lejárást biztosítson a tengerhez. Ezen a tengerparti szakaszon minden fürdőző gondtalanul úszhat és érezheti a sós tengeri szellőt. A sík és jól biztosított partvidék magas fokú biztonságérzetet nyújt. Az inklúzió itt központi szerepet kap, ami ezt a helyet különösen értékessé teszi egy pihentető kiránduláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.920502,
+                        44.805113
+                  ]
+            },
+            {
+                  "name": "Toreta",
+                  "text": "Sziklás tengerparti szakasz a Kamenjak-félsziget déli részén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906489,
+                        44.773198
+                  ]
+            },
+            {
+                  "name": "Debeljak",
+                  "text": "A Kamenjak-fok egyik legismertebb homokos és kavicsos strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        13.917173,
+                        44.772082
+                  ]
+            },
+            {
+                  "name": "Škara",
+                  "text": "Eldugott sziklás strand a természet lágyán, a Kamenjak-félsziget területén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921265,
+                        44.77488
+                  ]
+            },
+            {
+                  "name": "Veliki Portić",
+                  "text": "Népszerű, tágas öböl a Kamenjak-félszigeten, amely a hajósok kedvelt kikötőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        13.912834,
+                        44.77504
+                  ]
+            },
+            {
+                  "name": "Dražice",
+                  "text": "Családbarát kavicsos strand Premantura központjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914256,
+                        44.789179
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "Felfújható vízi vidámpark a tengeren, amely szórakozást nyújt a gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Otisci Dinosaura",
+                  "text": "Valódi kréta kori dinoszaurusz-lábnyomok, amelyek a Kamenjak-félsziget szikláin láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        13.90189,
+                        44.790333
+                  ]
+            },
+            {
+                  "name": "Rudist",
+                  "text": "Őskori kagylók megkövült maradványai, amelyek a Kamenjak-félsziget part menti szikláiban láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        13.897638,
+                        44.812033
+                  ]
+            },
+            {
+                  "name": "photo frame",
+                  "text": "Egy dekoratív fotókeret Premanturában, amely festői hátteret biztosít a tengerparti emlékfotókhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        13.910601,
+                        44.77463
+                  ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "Sziklás szakasz a Kamenjak natúrparkban, kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "Népszerű sziklaugró és búvárhely Isztria legdélebbi csücskén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "Látványos tengerparti szakasz egy tengeri barlanggal a Kamenjak natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "Nyugodt kavicsos strand a Kamenjak-félsziget keleti oldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "Természetes strand a Kamenjak natúrparkban, érintetlen környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
+                  ]
+            },
+            {
+                  "name": "Jangalooz Adventure Park",
+                  "text": "A Premantura városában lévő Jangalooz Adventure Park vidám helyszín egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.882274,
+                        44.823984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capul Kamenjak",
+                  "text": "O rezervație naturală protejată în extremitatea sudică a Istriei, cu peste 30 km de coastă stâncoasă și golfuri sălbatice.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-kap-kamenjak.webp",
+                  "coords": [
+                        13.91,
+                        44.783333
+                  ]
+            },
+            {
+                  "name": "Safari Bar",
+                  "text": "Un local legendar ascuns în stuf și bambus, renumit pentru designul său eco-friendly și atmosfera relaxată de la marginea capului.",
+                  "category": "cultural centres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-safari-bar.webp",
+                  "coords": [
+                        13.91025,
+                        44.769523
+                  ]
+            },
+            {
+                  "name": "Farul Porer",
+                  "text": "Situat pe o insulă minusculă în largul coastei, acest far istoric oferă o imagine emblematică, fiind vizibil din multe puncte de pe țărm.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-leuchtturm-porer.webp",
+                  "coords": [
+                        13.89075,
+                        44.758056
+                  ]
+            },
+            {
+                  "name": "Traseul Dinozaurilor",
+                  "text": "Un traseu educativ pe coasta Grakalovac, unde se pot observa urme fosilizate reale ale dinozaurilor din perioada cretacică.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-dinosaurierpfad.webp",
+                  "coords": [
+                        13.908917,
+                        44.793081
+                  ]
+            },
+            {
+                  "name": "Insula Fenoliga",
+                  "text": "Mică insulă nelocuită situată lângă cap, celebră pentru numărul mare de urme de dinozauri imprimate în rocile de calcar.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-insel-fenoliga.webp",
+                  "coords": [
+                        13.90103,
+                        44.767687
+                  ]
+            },
+            {
+                  "name": "Bijeca",
+                  "text": "Cea mai cunoscută plajă cu nisip din Medulin, lângă Premantura, ideală pentru familii cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.934696,
+                        44.813274
+                  ]
+            },
+            {
+                  "name": "Pomer",
+                  "text": "În satul Pomer, lângă Premantura, se întinde o plajă liniștită, la granița cu Parcul Natural Kamenjak. Apa calmă și mediul înconjurat de pini fac ca înotul aici să fie o experiență foarte relaxantă. Plimbăreții și înotătorii găsesc deopotrivă un refugiu de pace în această locație. Este un punct de plecare ideal pentru a explora frumusețile naturale din jur după o baie.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Bijela",
+                  "text": "O plajă pitorească lângă Premantura, cu ape de cristal.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924162,
+                        44.802665
+                  ]
+            },
+            {
+                  "name": "Mugli",
+                  "text": "O mică plajă pe coasta localității Premantura, ideală pentru iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        13.918155,
+                        44.81181
+                  ]
+            },
+            {
+                  "name": "Školjić",
+                  "text": "O plajă cu pietriș în Premantura, populară în special printre windsurferi.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916423,
+                        44.78553
+                  ]
+            },
+            {
+                  "name": "Runke",
+                  "text": "O plajă liniștită lângă Premantura, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916065,
+                        44.809384
+                  ]
+            },
+            {
+                  "name": "Pinižule",
+                  "text": "O plajă populară cu pietriș pe peninsula Kamenjak, cu apă cristalină.",
+                  "category": "recreational",
+                  "coords": [
+                        13.903574,
+                        44.789532
+                  ]
+            },
+            {
+                  "name": "Polje",
+                  "text": "O plajă naturală pe peninsula Kamenjak, înconjurată de vegetație mediteraneană.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906852,
+                        44.786316
+                  ]
+            },
+            {
+                  "name": "Plovanije",
+                  "text": "O secțiune de coastă stâncoasă la Capul Kamenjak, cunoscută pentru marea sa curată.",
+                  "category": "recreational",
+                  "coords": [
+                        13.904881,
+                        44.781462
+                  ]
+            },
+            {
+                  "name": "Njive",
+                  "text": "O plajă pitorească în rezervația naturală Kamenjak, cu vedere la Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906325,
+                        44.776947
+                  ]
+            },
+            {
+                  "name": "Family park",
+                  "text": "Un mic parc de distracții în Premantura, cu diverse atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931168,
+                        44.814344
+                  ]
+            },
+            {
+                  "name": "Kuca Prirode",
+                  "text": "Un centru de informare despre biodiversitatea și ecosistemul Capului Kamenjak.",
+                  "category": "museum",
+                  "coords": [
+                        13.9094,
+                        44.801256
+                  ]
+            },
+            {
+                  "name": "Camping Medulin Beach",
+                  "text": "Foarte aproape de campingul Medulin, înotătorii vor găsi o plajă largă, cu intrare lină, formată din nisip și pietriș. Adâncimea mică a apei și accesul necomplicat fac din acest loc un favorit pentru zilele de vară fără griji. Cei cărora le place să facă plimbări lungi prin apa până la glezne se vor bucura din plin de acest mediu. Pentru familiile cu copii, zona este o destinație foarte practică.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931187,
+                        44.81266
+                  ]
+            },
+            {
+                  "name": "FKK / Naturist Beach Crvene Stjene",
+                  "text": "Pe peninsula Kamenjak, plaja pentru nudiști Crvene Stjene iese în evidență prin stâncile sale roșii izbitoare. Naturiștii se bucură pe această coastă de simbioza dintre libertatea netulburată și apa cristalină. Platoul însorit te invită să te relaxezi, în timp ce marea îți oferă o revigorare minunată. Este nevoie de puțină prudență la intrarea în apă peste pietre, dar săritura în albastrul mării merită din plin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.878221,
+                        44.805911
+                  ]
+            },
+            {
+                  "name": "Radovica",
+                  "text": "Un loc liniștit de coastă pe peninsula Kamenjak, ideal pentru înot și snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        13.907815,
+                        44.772259
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "O plajă puțin adâncă situată lângă podul spre Pomer, populară pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Vižula",
+                  "text": "Un sit arheologic important care conține vestigiile unei vile romane imperiale.",
+                  "category": "historical",
+                  "coords": [
+                        13.92543,
+                        44.818631
+                  ]
+            },
+            {
+                  "name": "Podlokva",
+                  "text": "O plajă liniștită situată în zona protejată a Parcului Natural Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.91423,
+                        44.791887
+                  ]
+            },
+            {
+                  "name": "Tašalera",
+                  "text": "O plajă situată lângă Premantura, aflată chiar lângă campingul Tašalera.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914312,
+                        44.812925
+                  ]
+            },
+            {
+                  "name": "Mali Portić",
+                  "text": "Un mic golf cu nisip și pietriș pe peninsula Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916733,
+                        44.778918
+                  ]
+            },
+            {
+                  "name": "plaža Munte",
+                  "text": "Plaja betonată Plaža Munte din Premantura a fost proiectată special pentru a oferi acces facil la mare persoanelor cu deficiențe de vedere. Pe această secțiune a coastei, toți înotătorii se pot bucura de apă fără griji, simțind briza mării. Țărmul plat și bine asigurat transmite un nivel ridicat de siguranță. Aici incluziunea este pusă pe primul loc, făcând locul deosebit de valoros pentru excursii relaxante.",
+                  "category": "recreational",
+                  "coords": [
+                        13.920502,
+                        44.805113
+                  ]
+            },
+            {
+                  "name": "Toreta",
+                  "text": "O porțiune de coastă stâncoasă în partea de sud a Parcului Natural Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906489,
+                        44.773198
+                  ]
+            },
+            {
+                  "name": "Debeljak",
+                  "text": "Una dintre cele mai renumite plaje cu nisip și pietriș de pe Capul Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.917173,
+                        44.772082
+                  ]
+            },
+            {
+                  "name": "Škara",
+                  "text": "O plajă stâncoasă retrasă, înconjurată de natură, pe peninsula Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921265,
+                        44.77488
+                  ]
+            },
+            {
+                  "name": "Veliki Portić",
+                  "text": "Un golf popular și larg pe peninsula Kamenjak, frecventat de ambarcațiuni.",
+                  "category": "recreational",
+                  "coords": [
+                        13.912834,
+                        44.77504
+                  ]
+            },
+            {
+                  "name": "Dražice",
+                  "text": "O plajă cu pietriș potrivită pentru familii, situată aproape de centrul localității Premantura.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914256,
+                        44.789179
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "Un parc acvatic gonflabil pe mare, care oferă distracție pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Otisci Dinosaura",
+                  "text": "Amprente reale de dinozaur din perioada cretacică, conservate pe stâncile peninsulei Kamenjak.",
+                  "category": "landmark",
+                  "coords": [
+                        13.90189,
+                        44.790333
+                  ]
+            },
+            {
+                  "name": "Rudist",
+                  "text": "Resturi fosilizate de scoici preistorice, vizibile pe coasta peninsulei Kamenjak.",
+                  "category": "landmark",
+                  "coords": [
+                        13.897638,
+                        44.812033
+                  ]
+            },
+            {
+                  "name": "photo frame",
+                  "text": "Un cadru foto decorativ în Premantura, care oferă un fundal perfect pentru fotografii de vacanță la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        13.910601,
+                        44.77463
+                  ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "O porțiune de coastă stâncoasă în Parcul Natural Kamenjak, cu apă cristalină.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "Un loc popular pentru sărituri de pe stânci și snorkeling în vârful sudic al Istriei.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "O secțiune de coastă spectaculoasă cu o peșteră marină în Parcul Natural Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "O plajă liniștită cu pietriș pe partea de est a peninsulei Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "O plajă naturală în Parcul Natural Kamenjak, înconjurată de natură virgină.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
+                  ]
+            },
+            {
+                  "name": "Jangalooz Adventure Park",
+                  "text": "Jangalooz Adventure Park din Premantura este o destinație distractivă pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        13.882274,
+                        44.823984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cape Kamenjak",
+                  "text": "A protected nature reserve at Istria's southernmost tip, featuring over 30 km of rugged coastline and hidden sapphire coves.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-kap-kamenjak.webp",
+                  "coords": [
+                        13.91,
+                        44.783333
+                  ]
+            },
+            {
+                  "name": "Safari Bar",
+                  "text": "A unique jungle-like bar hidden among reeds and bamboo, famous for its rustic wooden structures and swings.",
+                  "category": "cultural centres",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-safari-bar.webp",
+                  "coords": [
+                        13.91025,
+                        44.769523
+                  ]
+            },
+            {
+                  "name": "Porer Lighthouse",
+                  "text": "Standing on a tiny rock island off the coast, this lighthouse is a landmark icon of the area, especially during sunset.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-leuchtturm-porer.webp",
+                  "coords": [
+                        13.89075,
+                        44.758056
+                  ]
+            },
+            {
+                  "name": "Dinosaur Path",
+                  "text": "An educational trail on the Grakalovac peninsula where visitors can see actual fossilized dinosaur footprints in the stone.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-dinosaurierpfad.webp",
+                  "coords": [
+                        13.908917,
+                        44.793081
+                  ]
+            },
+            {
+                  "name": "Fenoliga Island",
+                  "text": "A small uninhabited island near the cape, famous for containing over 100 dinosaur footprints from the Cretaceous period.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/premantura-insel-fenoliga.webp",
+                  "coords": [
+                        13.90103,
+                        44.767687
+                  ]
+            },
+            {
+                  "name": "Bijeca",
+                  "text": "The most famous sandy beach in Medulin near Premantura, ideal for families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        13.934696,
+                        44.813274
+                  ]
+            },
+            {
+                  "name": "Pomer",
+                  "text": "In the village of Pomer near Premantura stretches a quiet beach that borders the Kamenjak Nature Park. The calm water and pine-fringed surroundings make swimming here a highly restorative experience. Walkers and bathers alike will find a sanctuary of peace at this spot. It serves as an ideal starting point to explore the surrounding natural wonders afterward.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Bijela",
+                  "text": "A scenic beach near Premantura featuring crystal clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924162,
+                        44.802665
+                  ]
+            },
+            {
+                  "name": "Mugli",
+                  "text": "A small beach on the coast of Premantura, ideal for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        13.918155,
+                        44.81181
+                  ]
+            },
+            {
+                  "name": "Školjić",
+                  "text": "A pebble beach in Premantura, especially popular among windsurfers.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916423,
+                        44.78553
+                  ]
+            },
+            {
+                  "name": "Runke",
+                  "text": "A quiet beach near Premantura, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916065,
+                        44.809384
+                  ]
+            },
+            {
+                  "name": "Pinižule",
+                  "text": "A popular pebble beach on the Kamenjak peninsula with crystal clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        13.903574,
+                        44.789532
+                  ]
+            },
+            {
+                  "name": "Polje",
+                  "text": "A natural beach on the Kamenjak peninsula, surrounded by Mediterranean vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906852,
+                        44.786316
+                  ]
+            },
+            {
+                  "name": "Plovanije",
+                  "text": "A rocky coastal section at Cape Kamenjak, known for its clean sea.",
+                  "category": "recreational",
+                  "coords": [
+                        13.904881,
+                        44.781462
+                  ]
+            },
+            {
+                  "name": "Njive",
+                  "text": "A picturesque beach in the Kamenjak nature reserve with views of the Adriatic.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906325,
+                        44.776947
+                  ]
+            },
+            {
+                  "name": "Family park",
+                  "text": "A small amusement park in Premantura with various attractions for children.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931168,
+                        44.814344
+                  ]
+            },
+            {
+                  "name": "Kuca Prirode",
+                  "text": "An information center about the biodiversity and ecosystem of Cape Kamenjak.",
+                  "category": "museum",
+                  "coords": [
+                        13.9094,
+                        44.801256
+                  ]
+            },
+            {
+                  "name": "Camping Medulin Beach",
+                  "text": "Very close to the Medulin campsite, bathers will find an expansive, shallow sand and pebble beach. The low water depth and uncomplicated access make this spot a favorite for carefree summer days. Those who enjoy taking long walks in ankle-deep water will get their money's worth here. For families with children, the area is a highly practical and fun destination.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931187,
+                        44.81266
+                  ]
+            },
+            {
+                  "name": "FKK / Naturist Beach Crvene Stjene",
+                  "text": "On the Kamenjak peninsula, the Crvene Stjene nudist beach stands out with its striking red rocks. Naturists enjoy the perfect symbiosis of undisturbed freedom and crystal-clear water along this coast. The sunny plateau invites visitors to relax, while the sea provides a wonderful refreshment. A bit of caution is needed when entering over the rocks, but the plunge into the blue water is well worth it.",
+                  "category": "recreational",
+                  "coords": [
+                        13.878221,
+                        44.805911
+                  ]
+            },
+            {
+                  "name": "Radovica",
+                  "text": "A quiet coastal spot on the Kamenjak peninsula, ideal for swimming and snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        13.907815,
+                        44.772259
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "A shallow beach located near the bridge to Pomer, popular with families.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Vižula",
+                  "text": "An important archaeological site featuring the remains of an imperial Roman villa.",
+                  "category": "historical",
+                  "coords": [
+                        13.92543,
+                        44.818631
+                  ]
+            },
+            {
+                  "name": "Podlokva",
+                  "text": "A quiet beach located within the protected area of the Kamenjak Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        13.91423,
+                        44.791887
+                  ]
+            },
+            {
+                  "name": "beach Tašalera",
+                  "text": "A beach near Premantura, located right next to the Tašalera campsite.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914312,
+                        44.812925
+                  ]
+            },
+            {
+                  "name": "Mali Portić",
+                  "text": "A small sandy and pebbly bay on the Kamenjak peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916733,
+                        44.778918
+                  ]
+            },
+            {
+                  "name": "Munte Beach",
+                  "text": "The concreted Plaža Munte in Premantura has been specially designed to provide accessible entry to the sea for people with visual impairments. On this stretch of coast, all bathers can swim carefree and feel the gentle sea breeze. The flat and well-secured shore conveys a high degree of safety for everyone. Inclusion takes center stage here, making the spot particularly valuable for relaxed outings.",
+                  "category": "recreational",
+                  "coords": [
+                        13.920502,
+                        44.805113
+                  ]
+            },
+            {
+                  "name": "Toreta",
+                  "text": "A rocky coastal section in the southern part of the Kamenjak Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906489,
+                        44.773198
+                  ]
+            },
+            {
+                  "name": "Debeljak",
+                  "text": "One of the most famous sandy and pebbly beaches on Cape Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.917173,
+                        44.772082
+                  ]
+            },
+            {
+                  "name": "Škara",
+                  "text": "A secluded rocky beach surrounded by nature on the Kamenjak peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921265,
+                        44.77488
+                  ]
+            },
+            {
+                  "name": "Veliki Portić",
+                  "text": "A popular and wide bay on the Kamenjak peninsula, frequented by boaters.",
+                  "category": "recreational",
+                  "coords": [
+                        13.912834,
+                        44.77504
+                  ]
+            },
+            {
+                  "name": "Dražice",
+                  "text": "A family-friendly pebble beach located near the center of Premantura.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914256,
+                        44.789179
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "An inflatable water park on the sea, providing entertainment for children.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Authentic Cretaceous dinosaur footprints preserved on the rocks of the Kamenjak peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        13.90189,
+                        44.790333
+                  ]
+            },
+            {
+                  "name": "Rudist",
+                  "text": "Fossilized remains of prehistoric bivalves visible on the coast of the Kamenjak peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        13.897638,
+                        44.812033
+                  ]
+            },
+            {
+                  "name": "photo frame",
+                  "text": "A decorative photo frame in Premantura that provides a scenic backdrop for vacation photos by the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        13.910601,
+                        44.77463
+                  ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "A rocky beach section in the Kamenjak Nature Park with crystal clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "A popular spot for cliff jumping and snorkeling at the southern tip of Istria.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "A spectacular coastal section featuring a sea cave in the Kamenjak Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "A peaceful pebble beach on the eastern side of the Kamenjak peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "A natural beach in the Kamenjak Nature Park, surrounded by untouched nature.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
+                  ]
+            },
+            {
+                  "name": "Jangalooz Adventure Park",
+                  "text": "Jangalooz Adventure Park in Premantura is a fun destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        13.882274,
+                        44.823984
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Bijeca",
+                  "text": "Najpoznatija pješčana plaža u Medulinu kod Premanture, idealna za obitelji s djecom.",
+                  "category": "recreational",
+                  "coords": [
+                        13.934696,
+                        44.813274
+                  ]
+            },
+            {
+                  "name": "Pomer",
+                  "text": "Mirna plaža u mjestu Pomer, smještena u blizini parka prirode Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Bijela",
+                  "text": "Slikovita plaža u blizini Premanture s kristalno čistim morem.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924162,
+                        44.802665
+                  ]
+            },
+            {
+                  "name": "Mugli",
+                  "text": "Mala plaža na obali Premanture, idealna za ljubitelje prirode.",
+                  "category": "recreational",
+                  "coords": [
+                        13.918155,
+                        44.81181
+                  ]
+            },
+            {
+                  "name": "Školjić",
+                  "text": "Šljunčana plaža u Premanturi, posebno popularna među jedriličarima na dasci.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916423,
+                        44.78553
+                  ]
+            },
+            {
+                  "name": "Runke",
+                  "text": "Mirna plaža u blizini Premanture, idealna za opuštanje.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916065,
+                        44.809384
+                  ]
+            },
+            {
+                  "name": "Pinižule",
+                  "text": "Popularna šljunčana plaža na poluotoku Kamenjak s kristalno čistim morem.",
+                  "category": "recreational",
+                  "coords": [
+                        13.903574,
+                        44.789532
+                  ]
+            },
+            {
+                  "name": "Polje",
+                  "text": "Prirodna plaža na poluotoku Kamenjak, okružena mediteranskom vegetacijom.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906852,
+                        44.786316
+                  ]
+            },
+            {
+                  "name": "Plovanije",
+                  "text": "Stjenoviti dio obale na rtu Kamenjak, poznat po čistom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        13.904881,
+                        44.781462
+                  ]
+            },
+            {
+                  "name": "Njive",
+                  "text": "Slikovita plaža u parku prirode Kamenjak s pogledom na Jadran.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906325,
+                        44.776947
+                  ]
+            },
+            {
+                  "name": "Family park",
+                  "text": "Mali zabavni park u Premanturi s raznim atrakcijama za djecu.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931168,
+                        44.814344
+                  ]
+            },
+            {
+                  "name": "Kuca Prirode",
+                  "text": "Informativni centar o bioraznolikosti i ekosustavu rta Kamenjak.",
+                  "category": "museum",
+                  "coords": [
+                        13.9094,
+                        44.801256
+                  ]
+            },
+            {
+                  "name": "Camping Medulin Beach",
+                  "text": "Plitka pješčana i šljunčana plaža smještena u blizini kampa u Medulinu.",
+                  "category": "recreational",
+                  "coords": [
+                        13.931187,
+                        44.81266
+                  ]
+            },
+            {
+                  "name": "FKK / Naturist Beach Crvene Stjene",
+                  "text": "Poznata nudistička plaža na Kamenjaku, nazvana po prepoznatljivim crvenim stijenama.",
+                  "category": "recreational",
+                  "coords": [
+                        13.878221,
+                        44.805911
+                  ]
+            },
+            {
+                  "name": "Radovica",
+                  "text": "Mirno obalno mjesto na poluotoku Kamenjak, idealno za kupanje i ronjenje.",
+                  "category": "recreational",
+                  "coords": [
+                        13.907815,
+                        44.772259
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "Plitka plaža smještena u blizini mosta za Pomer, popularna među obiteljima.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Vižula",
+                  "text": "Značajno arheološko nalazište s ostacima carske rimske vile.",
+                  "category": "historical",
+                  "coords": [
+                        13.92543,
+                        44.818631
+                  ]
+            },
+            {
+                  "name": "Podlokva",
+                  "text": "Mirna plaža smještena unutar zaštićenog područja Parka prirode Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.91423,
+                        44.791887
+                  ]
+            },
+            {
+                  "name": "beach Tašalera",
+                  "text": "Plaža u blizini Premanture, smještena odmah uz kamp Tašalera.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914312,
+                        44.812925
+                  ]
+            },
+            {
+                  "name": "Mali Portić",
+                  "text": "Mala pješčana i šljunčana uvala na poluotoku Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.916733,
+                        44.778918
+                  ]
+            },
+            {
+                  "name": "Munte Beach",
+                  "text": "Betonirana plaža u Premanturi, posebno prilagođena osobama s oštećenjem vida.",
+                  "category": "recreational",
+                  "coords": [
+                        13.920502,
+                        44.805113
+                  ]
+            },
+            {
+                  "name": "Toreta",
+                  "text": "Stjenoviti dio obale u južnom dijelu Parka prirode Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.906489,
+                        44.773198
+                  ]
+            },
+            {
+                  "name": "Debeljak",
+                  "text": "Jedna od najpoznatijih pješčanih i šljunčanih plaža na rtu Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.917173,
+                        44.772082
+                  ]
+            },
+            {
+                  "name": "Škara",
+                  "text": "Osamljena stjenovita plaža okružena prirodom na poluotoku Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921265,
+                        44.77488
+                  ]
+            },
+            {
+                  "name": "Veliki Portić",
+                  "text": "Popularna i prostrana uvala na poluotoku Kamenjak, omiljena među nautičarima.",
+                  "category": "recreational",
+                  "coords": [
+                        13.912834,
+                        44.77504
+                  ]
+            },
+            {
+                  "name": "Dražice",
+                  "text": "Šljunčana plaža pogodna za obitelji, smještena u blizini centra Premanture.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914256,
+                        44.789179
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "Vodeni park na napuhavanje u moru, koji nudi zabavu za djecu.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Autentični otisci stopala dinosaura iz razdoblja krede, očuvani na stijenama poluotoka Kamenjak.",
+                  "category": "landmark",
+                  "coords": [
+                        13.90189,
+                        44.790333
+                  ]
+            },
+            {
+                  "name": "Rudist",
+                  "text": "Fosilizirani ostaci pretpovijesnih školjkaša vidljivi na obali poluotoka Kamenjak.",
+                  "category": "landmark",
+                  "coords": [
+                        13.897638,
+                        44.812033
+                  ]
+            },
+            {
+                  "name": "photo frame",
+                  "text": "Ukrasni foto okvir u Premanturi koji pruža slikovitu pozadinu za uspomene s ljetovanja na obali.",
+                  "category": "landmark",
+                  "coords": [
+                        13.910601,
+                        44.77463
+                  ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "Stjenoviti dio obale u Parku prirode Kamenjak s kristalno čistim morem.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "Popularno mjesto za skokove u more i ronjenje na najjužnijem rtu Istre.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "Spektakularan dio obale s morskom špiljom u Parku prirode Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "Mirna šljunčana plaža na istočnoj strani poluotoka Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "Prirodna plaža u Parku prirode Kamenjak, okružena netaknutom prirodom.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
+                  ]
+            }
+      ]
+}},
   {"id": "trakoscan", "type": "city", "parent": "HR-02", "coords": [15.9417, 46.2667], "population": 270, "tier": 1, "name": {"de": "Trakošćan", "hu": "Trakošćan", "ro": "Trakošćan", "en": "Trakošćan"}, "description": {"de": "Trakošćan ist das romantischste Schloss Kroatiens, majestätisch auf einem Hügel gelegen und umgeben von einem künstlichen See und einem englischen Park.", "hu": "Trakošćan Horvátország legromantikusabb vára, amely egy dombtetőn áll, lábánál egy mesterséges tóval és egy hatalmas angolparkkal.", "ro": "Trakošćan este cel mai romantic castel din Croația, situat maiestuos pe o colină și înconjurat de un lac artificial și un parc englezesc.", "en": "Trakošćan is Croatia's most romantic castle, majestically perched on a hill and surrounded by an artificial lake and a lush English-style park."}, "facts": {"de": ["Ursprung im 13. Jahrhundert als Festung", "Langjähriger Besitz der Familie Drašković", "Neugotischer Umbau Mitte des 19. Jahrhunderts", "Beherbergt ein wertvolles Museum für Geschichte", "Umgeben von einem 5 km langen Rundweg", "Künstlicher See zum Bootfahren und Angeln", "Bedeutende Sammlung historischer Waffen", "Beliebtestes Schlossmuseum des Landes"], "hu": ["13. századi erődítményként alapították", "A Drašković család hosszú ideig tartó birtoka", "Neogótikus átépítés a 19. század közepén", "Értékes történelmi múzeumnak ad otthont", "5 kilométeres sétaút veszi körül a tavat", "Mesterséges tó csónakázási lehetőséggel", "Jelentős történelmi fegyvergyűjtemény", "Az ország leglátogatottabb vármúzeuma"], "ro": ["Origini în secolul al XIII-lea ca fortăreață", "Proprietate de lungă durată a familiei Drašković", "Renovare neogotică la mijlocul secolului XIX", "Găzduiește un muzeu istoric valoros", "Înconjurat de un traseu de promenadă de 5 km", "Lac artificial pentru plimbări cu barca", "Colecție importantă de arme istorice", "Cel mai vizitat castel-muzeu din țară"], "en": ["Originated as a 13th-century fortress", "Long-term property of the Drašković family", "Neo-Gothic renovation in the mid-19th century", "Houses a valuable historical museum", "Surrounded by a 5 km circular walking path", "Artificial lake used for boating and fishing", "Significant collection of historical weapons", "Most visited castle museum in the country"]}, "image": "/poi-images/trakoscan.webp", "imageHint": "Fairy-tale white castle of Trakošćan reflected in the lake", "descriptionAdvanced": {"de": "Das Schloss Trakošćan ist zweifellos eines der romantischsten und besterhaltenen Schlösser Kroatiens. Auf einem Hügel thronend und umgeben von einem malerischen künstlichen See und einem englischen Landschaftspark, wirkt es wie aus einem Märchen entsprungen. Ursprünglich eine kleine Festung aus dem 13. Jahrhundert, wurde es im 19. Jahrhundert von der Adelsfamilie Drašković im neugotischen Stil umgebaut und in eine prachtvolle Residenz verwandelt. Heute ist das Schloss ein Museum, das seine Besucher auf eine Reise durch die Jahrhunderte mitnimmt. Die Innenräume sind reich mit originalen Möbeln, Porträts, Waffen und Kunstwerken aus verschiedenen Epochen ausgestattet und vermitteln ein lebendiges Bild vom Leben des Adels. Ein Spaziergang um den See auf dem angelegten Wanderweg bietet atemberaubende Ausblicke auf das Schloss aus verschiedenen Perspektiven. Der umliegende Waldpark lädt zu ausgedehnten Erkundungen ein. Trakošćan ist nicht nur ein historisches Denkmal, sondern ein Ort der Ruhe und Schönheit, der Fotografen, Naturliebhaber und Geschichtsinteressierte gleichermaßen begeistert.", "hu": "A Trakošćan-kastély kétségtelenül Horvátország egyik legromantikusabb és legjobb állapotban fennmaradt kastélya. Egy dombon trónol, festői mesterséges tóval és angol tájképi parkkal körülvéve, mintha egy meséből lépett volna elő. Eredetileg egy 13. századi kis erőd volt, majd a 19. században a Drašković nemesi család neogótikus stílusban átépítette és pompás rezidenciává alakította. Ma a kastély múzeumként működik, amely időutazásra viszi látogatóit. A belső terek gazdagon berendezettek eredeti bútorokkal, portrékkal, fegyverekkel és különböző korokból származó műalkotásokkal, élő képet festve a nemesi életről. A tó körüli séta a kiépített turistaúton lélegzetelállító kilátást nyújt a kastélyra különböző szögekből. A környező erdőpark hosszabb felfedezőutakra csábít. Trakošćan nemcsak történelmi emlékhely, hanem a béke és a szépség helye is, amely egyaránt lenyűgözi a fotósokat, a természetbarátokat és a történelem iránt érdeklődőket.", "ro": "Castelul Trakošćan este, fără îndoială, unul dintre cele mai romantice și mai bine conservate castele din Croația. Așezat pe un deal și înconjurat de un lac artificial pitoresc și un parc peisagistic englezesc, pare desprins dintr-un basm. Inițial o mică fortăreață din secolul al XIII-lea, a fost transformat în stil neogotic în secolul al XIX-lea de către familia nobiliară Drašković, devenind o reședință somptuoasă. Astăzi, castelul este un muzeu care își poartă vizitatorii într-o călătorie prin secole. Interioarele sunt bogat decorate cu mobilier original, portrete, arme și opere de artă din diferite epoci, oferind o imagine vie a vieții nobilimii. O plimbare în jurul lacului pe poteca amenajată oferă priveliști uluitoare ale castelului din diferite perspective. Parcul forestier înconjurător invită la explorări extinse. Trakošćan nu este doar un monument istoric, ci un loc de liniște și frumusețe care încântă deopotrivă fotografii, iubitorii de natură și pasionații de istorie.", "en": "Trakošćan Castle is undoubtedly one of the most romantic and best-preserved castles in Croatia. Enthroned on a hill and surrounded by a picturesque artificial lake and an English landscape park, it seems to have sprung from a fairy tale. Originally a small fortress from the 13th century, it was rebuilt in the neo-Gothic style in the 19th century by the noble Drašković family and transformed into a magnificent residence. Today, the castle is a museum that takes its visitors on a journey through the centuries. The interiors are richly furnished with original furniture, portraits, weapons and works of art from different eras, conveying a vivid picture of the life of the nobility. A walk around the lake on the landscaped trail offers breathtaking views of the castle from different perspectives. The surrounding forest park invites you to extensive explorations. Trakošćan is not just a historical monument, but a place of peace and beauty that delights photographers, nature lovers and history buffs alike."}, "factsAdvanced": {"de": ["Besitz der Drašković von 1568 bis 1944", "Burg wurde nach den Rittern Drachenstein benannt", "Museum wurde im Jahr 1953 eröffnet", "Waffensammlung umfasst Stücke vom 15. bis 19. Jhd.", "See friert im Winter oft komplett zu", "Höhe über dem Meeresspiegel: ca. 250 m"], "hu": ["A Drašković családé volt 1568 és 1944 között", "A vár a Drachenstein lovagokról kapta a nevét", "A múzeumot 1953-ban nyitották meg a közönség előtt", "Fegyvertára 15-19. századi darabokat őriz", "A tó télen gyakran teljesen befagy", "Tengerszint feletti magasság: kb. 250 m"], "ro": ["Proprietatea familiei Drašković între 1568 și 1944", "Castelul a fost numit după cavalerii Drachenstein", "Muzeul a fost deschis publicului în anul 1953", "Colecția de arme conține piese din sec. XV-XIX", "Lacul îngheață adesea complet pe timp de iarnă", "Altitudine deasupra mării: aprox. 250 m"], "en": ["Owned by the Drašković family from 1568 to 1944", "The castle was named after the knights Drachenstein", "The museum was officially established in 1953", "Armory features pieces from the 15th to 19th centuries", "The lake often freezes over completely in winter", "Elevation above sea level: approx. 250 m"]}, "sights": {
       "de": [
             {
@@ -1155,6 +2997,15 @@ export const poiExtraHrV2: POI[] = [
                         16.415607,
                         46.314963
                   ]
+            },
+            {
+                  "name": "Vanjski bazen",
+                  "text": "Vanjski bazen in Varazdin bietet Platz zum Schwimmen und für Wasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        16.343559,
+                        46.295987
+                  ]
             }
       ],
       "hu": [
@@ -1373,6 +3224,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         16.415607,
                         46.314963
+                  ]
+            },
+            {
+                  "name": "Vanjski bazen",
+                  "text": "A(z) Vanjski bazen Varazdin településen úszási és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        16.343559,
+                        46.295987
                   ]
             }
       ],
@@ -1593,6 +3453,15 @@ export const poiExtraHrV2: POI[] = [
                         16.415607,
                         46.314963
                   ]
+            },
+            {
+                  "name": "Vanjski bazen",
+                  "text": "Vanjski bazen din Varazdin oferă un loc pentru înot și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        16.343559,
+                        46.295987
+                  ]
             }
       ],
       "en": [
@@ -1812,6 +3681,15 @@ export const poiExtraHrV2: POI[] = [
                         16.415607,
                         46.314963
                   ]
+            },
+            {
+                  "name": "Vanjski bazen",
+                  "text": "Vanjski bazen in Varazdin offers a place for swimming and water activities.",
+                  "category": "family",
+                  "coords": [
+                        16.343559,
+                        46.295987
+                  ]
             }
       ],
       "hr": [
@@ -1970,7 +3848,698 @@ export const poiExtraHrV2: POI[] = [
             }
       ]
 }},
-  {"id": "funtana", "type": "city", "parent": "HR-18", "coords": [13.6022, 45.1789], "population": 879, "tier": 2, "name": {"de": "Funtana", "hu": "Funtana", "ro": "Funtana", "en": "Funtana"}, "description": {"de": "Ein gemütliches Fischerdorf, das für seine natürlichen Wasserquellen und exzellente Gastronomie bekannt ist.", "hu": "Barátságos halászfalu az Adria partján, amely természetes forrásairól és kiváló gasztronómiájáról ismert.", "ro": "Un sat de pescari primitor, cunoscut pentru izvoarele sale naturale de apă și gastronomia excelentă.", "en": "A cozy fishing village on the Adriatic coast, renowned for its natural freshwater springs and excellent gastronomy."}, "facts": {"de": ["Name bedeutet 'Quellen'", "Früher wichtigster Wasserlieferant", "879 Einwohner", "Befindet sich zwischen Poreč und Vrsar", "Bernardo Borisi baute hier ein Schloss", "Berühmte Fischrestaurants", "Beliebte Yachthafen (Marina)", "Skulpturenpark in der Nähe"], "hu": ["Neve 'forrásokat' jelent", "Régen a környék vízellátója volt", "879 lakos", "Poreč és Vrsar között fekszik", "Bernardo Borisi építtetett itt várat", "Híres haléttermei vannak", "Népszerű jachtkikötő (Marina)", "Szoborpark a közelben"], "ro": ["Numele înseamnă 'izvoare'", "Fost furnizor major de apă", "879 de locuitori", "Situat între Poreč și Vrsar", "Bernardo Borisi a construit un castel aici", "Restaurante cu specific pescăresc", "Port de iahturi popular (Marina)", "Parc de sculptură în apropiere"], "en": ["Name means 'springs'", "Historic local water source", "Population of 879", "Located between Poreč and Vrsar", "Bernardo Borisi built a castle here", "Famous for seafood restaurants", "Popular yacht marina", "Nearby sculpture park"]}, "image": "/poi-images/funtana.webp", "imageHint": "Coastline of Funtana with boats in the marina and stone houses", "descriptionAdvanced": {"de": "Funtana, ein kleiner Fischer- und Touristenort an der Westküste Istriens, liegt zwischen den größeren Zentren Poreč und Vrsar. Sein Name, der 'Quelle' bedeutet, verweist auf die Süßwasserquellen, die einst die gesamte Region mit Wasser versorgten. Die Besonderheit von Funtana ist seine stark gegliederte Küste mit zahlreichen kleinen Buchten, Halbinseln und vorgelagerten Inselchen, die unzählige idyllische Badeplätze bieten. Entlang der Küste erstrecken sich gut ausgestattete Campingplätze und Marinas, die Funtana zu einem beliebten Ziel für Nautiker und Camper machen. Das Zentrum des Ortes hat seinen traditionellen Charme bewahrt, mit Steinhäusern und der Kirche des Heiligen Bernhard. In den letzten Jahren hat sich Funtana auch als Familienziel einen Namen gemacht, nicht zuletzt durch den Dinosaurierpark, eine einzigartige Attraktion mit lebensgroßen, beweglichen Dinosauriermodellen. Die Promenade am Meer lädt zu entspannten Spaziergängen ein und bietet eine Auswahl an Restaurants, die frischen Fisch und istrische Spezialitäten servieren. Funtana ist ideal für alle, die einen ruhigen Urlaub am Meer verbringen und gleichzeitig die Nähe zu den lebhaften Städten der Umgebung schätzen.", "hu": "Funtana, egy kis halász- és turistafalu Isztria nyugati partján, a nagyobb központok, Poreč és Vrsar között helyezkedik el. Neve, amely 'forrást' jelent, azokra az édesvízi forrásokra utal, amelyek egykor az egész régiót ellátták vízzel. Funtana különlegessége a rendkívül tagolt partvonala, amely számos kis öböllel, félszigettel és közeli szigetecskével rendelkezik, számtalan idilli fürdőhelyet kínálva. A part mentén jól felszerelt kempingek és kikötők sorakoznak, amelyek Funtanát a hajósok és kempingezők kedvelt célpontjává teszik. A település központja megőrizte hagyományos varázsát kőházaival és a Szent Bernát-templommal. Az utóbbi években Funtana családi úti célként is hírnevet szerzett, nem utolsósorban a dinoszauruszparknak köszönhetően, amely egy egyedülálló látványosság életnagyságú, mozgó dinoszaurusz-modellekkel. A tengerparti sétány kellemes sétákra csábít, és számos éttermet kínál, ahol friss halat és isztriai specialitásokat szolgálnak fel. Funtana ideális mindazok számára, akik csendes tengerparti nyaralásra vágynak, miközben értékelik a közeli nyüzsgő városok közelségét.", "ro": "Funtana, un mic sat pescăresc și turistic pe coasta de vest a Istriei, este situat între centrele mai mari Poreč și Vrsar. Numele său, care înseamnă 'izvor', face referire la izvoarele de apă dulce care odinioară aprovizionau întreaga regiune. Caracteristica specială a Funtanei este coasta sa foarte accidentată, cu numeroase golfuri mici, peninsule și insulițe, care oferă nenumărate locuri idilice pentru scăldat. De-a lungul coastei se găsesc campinguri și porturi de agrement bine echipate, făcând din Funtana o destinație populară pentru navigatori și rulotiști. Centrul localității și-a păstrat farmecul tradițional, cu case de piatră și biserica Sfântului Bernard. În ultimii ani, Funtana s-a afirmat și ca o destinație de familie, nu în ultimul rând datorită Parcului Dinozaurilor, o atracție unică cu modele de dinozauri în mărime naturală, care se mișcă. Promenada de la malul mării invită la plimbări relaxante și oferă o selecție de restaurante care servesc pește proaspăt și specialități istriene. Funtana este ideală pentru cei care doresc o vacanță liniștită la mare, apreciind în același timp proximitatea orașelor animate din jur.", "en": "Funtana, a small fishing and tourist village on the west coast of Istria, is located between the larger centres of Poreč and Vrsar. Its name, meaning 'spring,' refers to the freshwater springs that once supplied the entire region with water. Funtana's special feature is its highly indented coastline, with numerous small coves, peninsulas, and offshore islets, offering countless idyllic bathing spots. Well-equipped campsites and marinas line the coast, making Funtana a popular destination for sailors and campers. The village centre has preserved its traditional charm, with stone houses and the Church of St. Bernard. In recent years, Funtana has also made a name for itself as a family destination, not least because of its Dinosaur Park, a unique attraction with life-sized, moving dinosaur models. The seaside promenade invites relaxing walks and offers a selection of restaurants serving fresh fish and Istrian specialities. Funtana is ideal for those who want a quiet seaside holiday while also appreciating the proximity to the lively nearby towns."}, "factsAdvanced": {"de": ["Einwohnerzahl: 879", "Kastell Borisi stammt von 1610", "Wichtigste Quelle: Šterna", "3 km südlich von Poreč", "Verfügt über moderne 4-Sterne-Marina", "Bedeutender Campingtourismus"], "hu": ["Lakossága 879 fő", "A Borisi-vár 1610-ben épült", "Legfontosabb forrása a Šterna", "Porečtől 3 km-re délre", "Modern, 4 csillagos jachtkikötő", "Jelentős kempingturizmus"], "ro": ["Populație: 879 locuitori", "Castelul Borisi datează din 1610", "Izvorul principal: Šterna", "Situat la 3 km sud de Poreč", "Dispune de o marină modernă de 4 stele", "Turism de camping dezvoltat"], "en": ["Current population: 879", "Borisi Castle dates back to 1610", "Primary spring known as Šterna", "Located 3 km south of Poreč", "Features a modern 4-star marina", "Major center for high-end camping"]}, "sights": {"de": [{"name": "Kastell Funtana", "text": "Dieser befestigte Adelssitz aus dem 17. Jahrhundert ist das bedeutendste historische Gebäude im Zentrum der Ortschaft.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/funtana-kastell-funtana.webp", "coords": [13.60418, 45.174993]}, {"name": "Dinopark Funtana", "text": "Ein großer Themenpark mit lebensgroßen Dinosaurier-Modellen, der besonders bei Familien als Ausflugsziel beliebt ist.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/funtana-dinopark-funtana.webp", "coords": [13.607635, 45.169496]}, {"name": "Marina Funtana", "text": "Der moderne Jachthafen bietet erstklassige Anlegemöglichkeiten und eine Promenade mit Blick auf die Adria.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/funtana-marina-funtana.webp", "coords": [13.598693, 45.1766]}, {"name": "Skulpturenpark Funtana", "text": "Eine Freiluftgalerie, die Werke lokaler Künstler zeigt und einen kulturellen Kontrast zur maritimen Umgebung bildet.", "category": "parks/promenades/beaches", "confidence": "medium", "image": "/poi-images/sights/funtana-skulpturenpark-funtana.webp", "coords": [13.610631, 45.159836]}, {"name": "Aquacolors", "text": "Einer der größten Wasserparks in Kroatien bietet zahlreiche Rutschen und ein Wellenbad.", "category": "recreational", "coords": [13.605185, 45.197968]}, {"name": "Gradska plaža", "text": "Die Gradska plaža ist ein befestigter und mit Kies aufgeschütteter Strand direkt im Zentrum des Ferienortes Funtana. Hier erwartet Besucher eine lebhafte, aber entspannte Atmosphäre, die ideal zum Schwimmen und Sonnenbaden ist. Der zentrale Zugang macht diesen Ort besonders praktisch für einen spontanen Sprung ins kühle Nass. An warmen Sommertagen empfiehlt es sich, frühzeitig einen schönen Platz am Wasser zu sichern.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Polidor Beach", "text": "Polidor Beach liegt nördlich des Hafens von Funtana und präsentiert sich als modern ausgestatteter Kiesstrand. Die angeschlossene Lounge-Bar verleiht dem Ort eine lebhafte, stilvolle Atmosphäre. Badegäste können hier komfortabel entspannen, das Meer genießen und sich bei kühlen Getränken erfrischen. Ein Besuch lohnt sich besonders am späten Nachmittag, um die entspannte Stimmung am Wasser auszukosten.", "category": "recreational", "coords": [13.598356, 45.183638]}, {"name": "Fuente Beach", "text": "Fuente Beach ist ein beliebter Küstenabschnitt in Funtana, der von herrlichen Pinienbäumen gesäumt wird. Die natürliche Umgebung schafft eine wunderbar entspannte Atmosphäre, in der sich Einheimische und Urlauber gleichermaßen wohlfühlen. Der natürliche Schatten lädt dazu ein, den ganzen Tag mit Schwimmen und Ausruhen am Meer zu verbringen. Wer die friedlichen Morgenstunden schätzt, sollte diesen Ort gleich zu Beginn des Tages besuchen.", "category": "recreational", "coords": [13.602968, 45.180749]}, {"name": "Luka Funtana", "text": "Der lokale Hafen von Funtana dient heute als Anlegestelle für Fischer- und Freizeitboote.", "category": "natural", "coords": [13.593901, 45.181104]}, {"name": "Uvala Jazbinka", "text": "Eine ruhige Bucht in der Nähe von Funtana in Istrien.", "category": "natural", "coords": [13.58877, 45.189136]}, {"name": "Sv. Martin", "text": "Überreste einer alten romaniqschen Kirche in der Nähe von Funtana.", "category": "historical", "coords": [13.612907, 45.192069]}, {"name": "Spomenik, Edo Murtic", "text": "Ein Denkmal des berühmten kroatischen Künstlers Edo Murtić in Funtana.", "category": "historical", "coords": [13.588814, 45.202593]}, {"name": "Maro Kids Club", "text": "Der Maro Kids Club in Funtana bietet ein abwechslungsreiches Spielangebot, das Familienherzen höherschlagen lässt.", "category": "family", "coords": [13.597258, 45.174484]}, {"name": "Pirate Golf", "text": "Beim Pirate Golf in Funtana können Familien eine aufregende Partie Minigolf in besonderem Ambiente spielen.", "category": "family", "coords": [13.593592, 45.186615]}], "hu": [{"name": "Funtanai vár", "text": "A 17. századi erődített nemesi palota a városka legfontosabb világi emléke, mely a központban található.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/funtana-kastell-funtana.webp", "coords": [13.60418, 45.174993]}, {"name": "Dinopark Funtana", "text": "Látványos vidámpark életnagyságú dinoszauruszokkal, amely felejthetetlen élményt nyújt a gyerekeknek és családoknak.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/funtana-dinopark-funtana.webp", "coords": [13.607635, 45.169496]}, {"name": "Funtana Marina", "text": "A korszerű jachtkikötő a hajós turizmus központja, ahol a modern luxus találkozik a tengerparti vendégszeretettel.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/funtana-marina-funtana.webp", "coords": [13.598693, 45.1766]}, {"name": "Helyi Szoborpark", "text": "Szabadtéri művészeti kiállítás, ahol a látogatók kortárs szobrokat láthatnak a település zöldövezetében elhelyezve.", "category": "parks/promenades/beaches", "confidence": "medium", "image": "/poi-images/sights/funtana-skulpturenpark-funtana.webp", "coords": [13.610631, 45.159836]}, {"name": "Aquacolors", "text": "Horvátország egyik legnagyobb aquaparkja számos csúszdával és hullámmedencével várja a látogatókat.", "category": "recreational", "coords": [13.605185, 45.197968]}, {"name": "Gradska plaža", "text": "A Gradska plaža egy kiépített, kavicsos strand Funtana üdülőhely központjában. Itt a látogatókat élénk, mégis nyugodt légkör várja, amely ideális az úszáshoz és a napozáshoz. A központi fekvés miatt ez a hely különösen praktikus egy spontán csobbanáshoz. A meleg nyári napokon érdemes korán érkezni, hogy jó helyet találjunk a vízparton.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Polidor Beach", "text": "A Funtana kikötőjétől északra fekvő Polidor Beach egy modern felszereltségű kavicsos strand. A helyszínen található lounge bár élénk és stílusos hangulatot kölcsönöz a partszakasznak. A fürdőzők kényelmesen pihenhetnek, élvezhetik a tengert és felfrissülhetnek egy hideg ital mellett. Késő délután különösen érdemes ellátogatni ide, hogy kiélvezzük a vízparti laza atmoszférát.", "category": "recreational", "coords": [13.598356, 45.183638]}, {"name": "Fuente Beach", "text": "A Fuente Beach egy kedvelt partszakasz Funtanában, melyet gyönyörű fenyőfák szegélyeznek. A természetes környezet csodálatosan pihentető légkört teremt, ahol a helyiek és a nyaralók egyaránt jól érzik magukat. A természetes árnyék hívogató, így akár egy egész napot is eltölthetünk a tengerparti úszással és pihenéssel. Aki értékeli a békés reggeli órákat, annak érdemes rögtön a nap kezdetén ide látogatnia.", "category": "recreational", "coords": [13.602968, 45.180749]}, {"name": "Luka Funtana", "text": "Funtana helyi kikötője ma halászhajók és szabadidős vitorlások horgonyzóhelye.", "category": "natural", "coords": [13.593901, 45.181104]}, {"name": "Uvala Jazbinka", "text": "Egy csendes öböl Funtana közelében, az Isztriai-félszigeten.", "category": "natural", "coords": [13.58877, 45.189136]}, {"name": "Sv. Martin", "text": "Egy régi román stílusú templom romjai Funtana közelében.", "category": "historical", "coords": [13.612907, 45.192069]}, {"name": "Spomenik, Edo Murtic", "text": "Edo Murtić híres horvát művész alkotása Funtanában.", "category": "historical", "coords": [13.588814, 45.202593]}, {"name": "Maro Kids Club", "text": "A Funtana-ban található Maro Kids Club változatos játéklehetőségeket kínál, amelyek megdobogtatják a családok szívét.", "category": "family", "coords": [13.597258, 45.174484]}, {"name": "Pirate Golf", "text": "A Funtana-i Pirate Golf pályáján a családok izgalmas minigolfot játszhatnak különleges környezetben.", "category": "family", "coords": [13.593592, 45.186615]}], "ro": [{"name": "Castelul Funtana", "text": "O reședință nobiliară fortificată din secolul al XVII-lea, reprezentând inima istorică și arhitecturală a localității.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/funtana-kastell-funtana.webp", "coords": [13.60418, 45.174993]}, {"name": "Dinopark Funtana", "text": "Un parc tematic de mari dimensiuni, cu modele de dinozauri în mărime naturală, fiind o atracție majoră pentru familii.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/funtana-dinopark-funtana.webp", "coords": [13.607635, 45.169496]}, {"name": "Marina Funtana", "text": "Portul de agrement modern care găzduiește numeroase ambarcațiuni și oferă o promenadă relaxantă de-a lungul coastei.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/funtana-marina-funtana.webp", "coords": [13.598693, 45.1766]}, {"name": "Parcul de Sculpturi", "text": "O zonă verde decorată cu opere de artă modernă, oferind vizitatorilor o experiență culturală în aer liber.", "category": "parks/promenades/beaches", "confidence": "medium", "image": "/poi-images/sights/funtana-skulpturenpark-funtana.webp", "coords": [13.610631, 45.159836]}, {"name": "Aquacolors", "text": "Unul dintre cele mai mari parcuri acvatice din Croația oferă numeroase tobogane și o piscină cu valuri.", "category": "recreational", "coords": [13.605185, 45.197968]}, {"name": "Gradska plaža", "text": "Gradska plaža este o plajă amenajată cu pietriș, situată chiar în centrul stațiunii Funtana. Aici, vizitatorii sunt întâmpinați de o atmosferă plină de viață, dar relaxantă, ideală pentru înot și plajă. Accesul central face din acest loc o opțiune foarte practică pentru o baie spontană. În zilele călduroase de vară, este recomandat să sosiți devreme pentru a prinde un loc bun lângă apă.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Polidor Beach", "text": "Situată la nord de portul din Funtana, Polidor Beach este o plajă cu pietriș, cu dotări moderne. Un bar de tip lounge oferă locului o atmosferă plină de viață și elegantă. Oaspeții se pot relaxa confortabil aici, bucurându-se de mare și de băuturi răcoritoare. O vizită este deosebit de plăcută la sfârșitul după-amiezii, pentru a savura starea de relaxare la malul apei.", "category": "recreational", "coords": [13.598356, 45.183638]}, {"name": "Fuente Beach", "text": "Fuente Beach este un loc de scăldat popular din Funtana, mărginit de pini frumoși. Cadrul natural creează o atmosferă minunat de relaxantă, unde localnicii și turiștii deopotrivă se simt în largul lor. Umbra naturală vă invită să petreceți întreaga zi înotând și odihnindu-vă la malul mării. Cei care apreciază orele liniștite ale dimineții ar trebui să viziteze acest loc chiar la începutul zilei.", "category": "recreational", "coords": [13.602968, 45.180749]}, {"name": "Luka Funtana", "text": "Portul local din Funtana servește astăzi ca loc de acostare pentru bărci de pescuit și de agrement.", "category": "natural", "coords": [13.593901, 45.181104]}, {"name": "Uvala Jazbinka", "text": "Un golf liniștit situat în apropiere de Funtana în Istria.", "category": "natural", "coords": [13.58877, 45.189136]}, {"name": "Sv. Martin", "text": "Ruinele unei vechi biserici romanice situate lângă Funtana.", "category": "historical", "coords": [13.612907, 45.192069]}, {"name": "Spomenik, Edo Murtic", "text": "Un monument realizat de renumitul artist croat Edo Murtić în Funtana.", "category": "historical", "coords": [13.588814, 45.202593]}, {"name": "Maro Kids Club", "text": "Maro Kids Club din Funtana oferă o gamă variată de jocuri care vor face inimile familiilor să bată mai repede.", "category": "family", "coords": [13.597258, 45.174484]}, {"name": "Pirate Golf", "text": "La Pirate Golf din Funtana, familiile se pot bucura de o partidă de minigolf captivantă într-o atmosferă specială.", "category": "family", "coords": [13.593592, 45.186615]}], "en": [{"name": "Funtana Castle", "text": "A 17th-century fortified palace that stands as the most prominent secular historic building in the town center.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/funtana-kastell-funtana.webp", "coords": [13.60418, 45.174993]}, {"name": "Dinopark Funtana", "text": "A popular theme park featuring life-size dinosaur models and various interactive attractions for families and children.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/funtana-dinopark-funtana.webp", "coords": [13.607635, 45.169496]}, {"name": "Funtana Marina", "text": "A modern and well-equipped marina providing excellent facilities for boaters and a scenic walking area by the sea.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/funtana-marina-funtana.webp", "coords": [13.598693, 45.1766]}, {"name": "Funtana Sculpture Park", "text": "An outdoor gallery featuring contemporary sculptures by local artists, integrated into the town's park areas.", "category": "parks/promenades/beaches", "confidence": "medium", "image": "/poi-images/sights/funtana-skulpturenpark-funtana.webp", "coords": [13.610631, 45.159836]}, {"name": "Aquacolors", "text": "One of the largest water parks in Croatia offers numerous slides and a wave pool.", "category": "recreational", "coords": [13.605185, 45.197968]}, {"name": "Gradska plaža", "text": "Gradska plaža is a paved and gravel beach located right in the center of the resort town of Funtana. Visitors can expect a lively yet relaxing atmosphere that is ideal for swimming and sunbathing. Its central location makes this spot particularly convenient for a spontaneous dip. On warm summer days, it is advisable to arrive early to secure a good spot by the water.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Polidor Beach", "text": "Located north of the Funtana harbor, Polidor Beach is a modern gravel beach. The presence of a lounge bar gives the location a lively and stylish atmosphere. Bathers can relax comfortably, enjoy the sea, and refresh themselves with cool drinks. A visit is highly recommended in the late afternoon to fully soak in the laid-back waterside vibe.", "category": "recreational", "coords": [13.598356, 45.183638]}, {"name": "Fuente Beach", "text": "Fuente Beach is a popular coastal spot in Funtana, bordered by lovely pine trees. The natural surroundings create a wonderfully relaxing atmosphere where locals and holidaymakers alike feel at ease. The natural shade invites visitors to spend the whole day swimming and resting by the sea. For those who appreciate the peaceful morning hours, this is a perfect place to visit right at the start of the day.", "category": "recreational", "coords": [13.602968, 45.180749]}, {"name": "Luka Funtana", "text": "The local harbor of Funtana serves today as a mooring spot for fishing and leisure boats.", "category": "natural", "coords": [13.593901, 45.181104]}, {"name": "Uvala Jazbinka", "text": "A quiet bay located near the town of Funtana in Istria.", "category": "natural", "coords": [13.58877, 45.189136]}, {"name": "Sv. Martin", "text": "Ruins of an old Romanesque church located near Funtana.", "category": "historical", "coords": [13.612907, 45.192069]}, {"name": "Monument by Edo Murtic", "text": "A monument by the famous Croatian artist Edo Murtić in Funtana.", "category": "historical", "coords": [13.588814, 45.202593]}, {"name": "Maro Kids Club", "text": "The Maro Kids Club in Funtana offers a varied range of games that will make families' hearts beat faster.", "category": "family", "coords": [13.597258, 45.174484]}, {"name": "Pirate Golf", "text": "At Pirate Golf in Funtana, families can play an exciting game of miniature golf in a special setting.", "category": "family", "coords": [13.593592, 45.186615]}], "hr": [{"name": "Aquacolors", "text": "Jedan od najvećih vodenih parkova u Hrvatskoj nudi brojne tobogane i bazen s valovima.", "category": "recreational", "coords": [13.605185, 45.197968]}, {"name": "Gradska plaža", "text": "Uređena i šljunčana plaža smještena u samom središtu turističkog mjesta Funtane.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Polidor Beach", "text": "Moderna šljunčana plaža s lounge barom, smještena sjeverno od luke.", "category": "recreational", "coords": [13.598356, 45.183638]}, {"name": "Fuente Beach", "text": "Popularno kupalište u Funtani s prirodnom hladovinom ispod borova.", "category": "recreational", "coords": [13.602968, 45.180749]}, {"name": "Luka Funtana", "text": "Lokalna luka u Funtani danas služi kao privezište za ribarske i rekreacijske brodice.", "category": "natural", "coords": [13.593901, 45.181104]}, {"name": "Uvala Jazbinka", "text": "Mirna uvala smještena u blizini Funtane u Istri.", "category": "natural", "coords": [13.58877, 45.189136]}, {"name": "Sv. Martin", "text": "Ostatci stare romaničke crkve sv. Martina u Funtani.", "category": "historical", "coords": [13.612907, 45.192069]}, {"name": "Monument by Edo Murtic", "text": "Spomenik poznatog hrvatskog umjetnika Eduarda Murtića u Funtani.", "category": "historical", "coords": [13.588814, 45.202593]}]}},
+  {"id": "funtana", "type": "city", "parent": "HR-18", "coords": [13.6022, 45.1789], "population": 879, "tier": 2, "name": {"de": "Funtana", "hu": "Funtana", "ro": "Funtana", "en": "Funtana"}, "description": {"de": "Ein gemütliches Fischerdorf, das für seine natürlichen Wasserquellen und exzellente Gastronomie bekannt ist.", "hu": "Barátságos halászfalu az Adria partján, amely természetes forrásairól és kiváló gasztronómiájáról ismert.", "ro": "Un sat de pescari primitor, cunoscut pentru izvoarele sale naturale de apă și gastronomia excelentă.", "en": "A cozy fishing village on the Adriatic coast, renowned for its natural freshwater springs and excellent gastronomy."}, "facts": {"de": ["Name bedeutet 'Quellen'", "Früher wichtigster Wasserlieferant", "879 Einwohner", "Befindet sich zwischen Poreč und Vrsar", "Bernardo Borisi baute hier ein Schloss", "Berühmte Fischrestaurants", "Beliebte Yachthafen (Marina)", "Skulpturenpark in der Nähe"], "hu": ["Neve 'forrásokat' jelent", "Régen a környék vízellátója volt", "879 lakos", "Poreč és Vrsar között fekszik", "Bernardo Borisi építtetett itt várat", "Híres haléttermei vannak", "Népszerű jachtkikötő (Marina)", "Szoborpark a közelben"], "ro": ["Numele înseamnă 'izvoare'", "Fost furnizor major de apă", "879 de locuitori", "Situat între Poreč și Vrsar", "Bernardo Borisi a construit un castel aici", "Restaurante cu specific pescăresc", "Port de iahturi popular (Marina)", "Parc de sculptură în apropiere"], "en": ["Name means 'springs'", "Historic local water source", "Population of 879", "Located between Poreč and Vrsar", "Bernardo Borisi built a castle here", "Famous for seafood restaurants", "Popular yacht marina", "Nearby sculpture park"]}, "image": "/poi-images/funtana.webp", "imageHint": "Coastline of Funtana with boats in the marina and stone houses", "descriptionAdvanced": {"de": "Funtana, ein kleiner Fischer- und Touristenort an der Westküste Istriens, liegt zwischen den größeren Zentren Poreč und Vrsar. Sein Name, der 'Quelle' bedeutet, verweist auf die Süßwasserquellen, die einst die gesamte Region mit Wasser versorgten. Die Besonderheit von Funtana ist seine stark gegliederte Küste mit zahlreichen kleinen Buchten, Halbinseln und vorgelagerten Inselchen, die unzählige idyllische Badeplätze bieten. Entlang der Küste erstrecken sich gut ausgestattete Campingplätze und Marinas, die Funtana zu einem beliebten Ziel für Nautiker und Camper machen. Das Zentrum des Ortes hat seinen traditionellen Charme bewahrt, mit Steinhäusern und der Kirche des Heiligen Bernhard. In den letzten Jahren hat sich Funtana auch als Familienziel einen Namen gemacht, nicht zuletzt durch den Dinosaurierpark, eine einzigartige Attraktion mit lebensgroßen, beweglichen Dinosauriermodellen. Die Promenade am Meer lädt zu entspannten Spaziergängen ein und bietet eine Auswahl an Restaurants, die frischen Fisch und istrische Spezialitäten servieren. Funtana ist ideal für alle, die einen ruhigen Urlaub am Meer verbringen und gleichzeitig die Nähe zu den lebhaften Städten der Umgebung schätzen.", "hu": "Funtana, egy kis halász- és turistafalu Isztria nyugati partján, a nagyobb központok, Poreč és Vrsar között helyezkedik el. Neve, amely 'forrást' jelent, azokra az édesvízi forrásokra utal, amelyek egykor az egész régiót ellátták vízzel. Funtana különlegessége a rendkívül tagolt partvonala, amely számos kis öböllel, félszigettel és közeli szigetecskével rendelkezik, számtalan idilli fürdőhelyet kínálva. A part mentén jól felszerelt kempingek és kikötők sorakoznak, amelyek Funtanát a hajósok és kempingezők kedvelt célpontjává teszik. A település központja megőrizte hagyományos varázsát kőházaival és a Szent Bernát-templommal. Az utóbbi években Funtana családi úti célként is hírnevet szerzett, nem utolsósorban a dinoszauruszparknak köszönhetően, amely egy egyedülálló látványosság életnagyságú, mozgó dinoszaurusz-modellekkel. A tengerparti sétány kellemes sétákra csábít, és számos éttermet kínál, ahol friss halat és isztriai specialitásokat szolgálnak fel. Funtana ideális mindazok számára, akik csendes tengerparti nyaralásra vágynak, miközben értékelik a közeli nyüzsgő városok közelségét.", "ro": "Funtana, un mic sat pescăresc și turistic pe coasta de vest a Istriei, este situat între centrele mai mari Poreč și Vrsar. Numele său, care înseamnă 'izvor', face referire la izvoarele de apă dulce care odinioară aprovizionau întreaga regiune. Caracteristica specială a Funtanei este coasta sa foarte accidentată, cu numeroase golfuri mici, peninsule și insulițe, care oferă nenumărate locuri idilice pentru scăldat. De-a lungul coastei se găsesc campinguri și porturi de agrement bine echipate, făcând din Funtana o destinație populară pentru navigatori și rulotiști. Centrul localității și-a păstrat farmecul tradițional, cu case de piatră și biserica Sfântului Bernard. În ultimii ani, Funtana s-a afirmat și ca o destinație de familie, nu în ultimul rând datorită Parcului Dinozaurilor, o atracție unică cu modele de dinozauri în mărime naturală, care se mișcă. Promenada de la malul mării invită la plimbări relaxante și oferă o selecție de restaurante care servesc pește proaspăt și specialități istriene. Funtana este ideală pentru cei care doresc o vacanță liniștită la mare, apreciind în același timp proximitatea orașelor animate din jur.", "en": "Funtana, a small fishing and tourist village on the west coast of Istria, is located between the larger centres of Poreč and Vrsar. Its name, meaning 'spring,' refers to the freshwater springs that once supplied the entire region with water. Funtana's special feature is its highly indented coastline, with numerous small coves, peninsulas, and offshore islets, offering countless idyllic bathing spots. Well-equipped campsites and marinas line the coast, making Funtana a popular destination for sailors and campers. The village centre has preserved its traditional charm, with stone houses and the Church of St. Bernard. In recent years, Funtana has also made a name for itself as a family destination, not least because of its Dinosaur Park, a unique attraction with life-sized, moving dinosaur models. The seaside promenade invites relaxing walks and offers a selection of restaurants serving fresh fish and Istrian specialities. Funtana is ideal for those who want a quiet seaside holiday while also appreciating the proximity to the lively nearby towns."}, "factsAdvanced": {"de": ["Einwohnerzahl: 879", "Kastell Borisi stammt von 1610", "Wichtigste Quelle: Šterna", "3 km südlich von Poreč", "Verfügt über moderne 4-Sterne-Marina", "Bedeutender Campingtourismus"], "hu": ["Lakossága 879 fő", "A Borisi-vár 1610-ben épült", "Legfontosabb forrása a Šterna", "Porečtől 3 km-re délre", "Modern, 4 csillagos jachtkikötő", "Jelentős kempingturizmus"], "ro": ["Populație: 879 locuitori", "Castelul Borisi datează din 1610", "Izvorul principal: Šterna", "Situat la 3 km sud de Poreč", "Dispune de o marină modernă de 4 stele", "Turism de camping dezvoltat"], "en": ["Current population: 879", "Borisi Castle dates back to 1610", "Primary spring known as Šterna", "Located 3 km south of Poreč", "Features a modern 4-star marina", "Major center for high-end camping"]}, "sights": {
+      "de": [
+            {
+                  "name": "Kastell Funtana",
+                  "text": "Dieser befestigte Adelssitz aus dem 17. Jahrhundert ist das bedeutendste historische Gebäude im Zentrum der Ortschaft.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-kastell-funtana.webp",
+                  "coords": [
+                        13.60418,
+                        45.174993
+                  ]
+            },
+            {
+                  "name": "Dinopark Funtana",
+                  "text": "Ein großer Themenpark mit lebensgroßen Dinosaurier-Modellen, der besonders bei Familien als Ausflugsziel beliebt ist.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-dinopark-funtana.webp",
+                  "coords": [
+                        13.607635,
+                        45.169496
+                  ]
+            },
+            {
+                  "name": "Marina Funtana",
+                  "text": "Der moderne Jachthafen bietet erstklassige Anlegemöglichkeiten und eine Promenade mit Blick auf die Adria.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-marina-funtana.webp",
+                  "coords": [
+                        13.598693,
+                        45.1766
+                  ]
+            },
+            {
+                  "name": "Skulpturenpark Funtana",
+                  "text": "Eine Freiluftgalerie, die Werke lokaler Künstler zeigt und einen kulturellen Kontrast zur maritimen Umgebung bildet.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/funtana-skulpturenpark-funtana.webp",
+                  "coords": [
+                        13.610631,
+                        45.159836
+                  ]
+            },
+            {
+                  "name": "Aquacolors",
+                  "text": "Einer der größten Wasserparks in Kroatien bietet zahlreiche Rutschen und ein Wellenbad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.605185,
+                        45.197968
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Die Gradska plaža ist ein befestigter und mit Kies aufgeschütteter Strand direkt im Zentrum des Ferienortes Funtana. Hier erwartet Besucher eine lebhafte, aber entspannte Atmosphäre, die ideal zum Schwimmen und Sonnenbaden ist. Der zentrale Zugang macht diesen Ort besonders praktisch für einen spontanen Sprung ins kühle Nass. An warmen Sommertagen empfiehlt es sich, frühzeitig einen schönen Platz am Wasser zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604295,
+                        45.153261
+                  ]
+            },
+            {
+                  "name": "Polidor Beach",
+                  "text": "Polidor Beach liegt nördlich des Hafens von Funtana und präsentiert sich als modern ausgestatteter Kiesstrand. Die angeschlossene Lounge-Bar verleiht dem Ort eine lebhafte, stilvolle Atmosphäre. Badegäste können hier komfortabel entspannen, das Meer genießen und sich bei kühlen Getränken erfrischen. Ein Besuch lohnt sich besonders am späten Nachmittag, um die entspannte Stimmung am Wasser auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598356,
+                        45.183638
+                  ]
+            },
+            {
+                  "name": "Fuente Beach",
+                  "text": "Fuente Beach ist ein beliebter Küstenabschnitt in Funtana, der von herrlichen Pinienbäumen gesäumt wird. Die natürliche Umgebung schafft eine wunderbar entspannte Atmosphäre, in der sich Einheimische und Urlauber gleichermaßen wohlfühlen. Der natürliche Schatten lädt dazu ein, den ganzen Tag mit Schwimmen und Ausruhen am Meer zu verbringen. Wer die friedlichen Morgenstunden schätzt, sollte diesen Ort gleich zu Beginn des Tages besuchen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.602968,
+                        45.180749
+                  ]
+            },
+            {
+                  "name": "Luka Funtana",
+                  "text": "Der lokale Hafen von Funtana dient heute als Anlegestelle für Fischer- und Freizeitboote.",
+                  "category": "natural",
+                  "coords": [
+                        13.593901,
+                        45.181104
+                  ]
+            },
+            {
+                  "name": "Uvala Jazbinka",
+                  "text": "Eine ruhige Bucht in der Nähe von Funtana in Istrien.",
+                  "category": "natural",
+                  "coords": [
+                        13.58877,
+                        45.189136
+                  ]
+            },
+            {
+                  "name": "Sv. Martin",
+                  "text": "Überreste einer alten romaniqschen Kirche in der Nähe von Funtana.",
+                  "category": "historical",
+                  "coords": [
+                        13.612907,
+                        45.192069
+                  ]
+            },
+            {
+                  "name": "Spomenik, Edo Murtic",
+                  "text": "Ein Denkmal des berühmten kroatischen Künstlers Edo Murtić in Funtana.",
+                  "category": "historical",
+                  "coords": [
+                        13.588814,
+                        45.202593
+                  ]
+            },
+            {
+                  "name": "Maro Kids Club",
+                  "text": "Der Maro Kids Club in Funtana bietet ein abwechslungsreiches Spielangebot, das Familienherzen höherschlagen lässt.",
+                  "category": "family",
+                  "coords": [
+                        13.597258,
+                        45.174484
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "Beim Pirate Golf in Funtana können Familien eine aufregende Partie Minigolf in besonderem Ambiente spielen.",
+                  "category": "family",
+                  "coords": [
+                        13.593592,
+                        45.186615
+                  ]
+            },
+            {
+                  "name": "Kids Water Play Area",
+                  "text": "Kids Water Play Area in Funtana bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        13.586941,
+                        45.194379
+                  ]
+            },
+            {
+                  "name": "Plaža-Beach Brulo",
+                  "text": "Plaža-Beach Brulo in Funtana bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        13.593517,
+                        45.216732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Funtanai vár",
+                  "text": "A 17. századi erődített nemesi palota a városka legfontosabb világi emléke, mely a központban található.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-kastell-funtana.webp",
+                  "coords": [
+                        13.60418,
+                        45.174993
+                  ]
+            },
+            {
+                  "name": "Dinopark Funtana",
+                  "text": "Látványos vidámpark életnagyságú dinoszauruszokkal, amely felejthetetlen élményt nyújt a gyerekeknek és családoknak.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-dinopark-funtana.webp",
+                  "coords": [
+                        13.607635,
+                        45.169496
+                  ]
+            },
+            {
+                  "name": "Funtana Marina",
+                  "text": "A korszerű jachtkikötő a hajós turizmus központja, ahol a modern luxus találkozik a tengerparti vendégszeretettel.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-marina-funtana.webp",
+                  "coords": [
+                        13.598693,
+                        45.1766
+                  ]
+            },
+            {
+                  "name": "Helyi Szoborpark",
+                  "text": "Szabadtéri művészeti kiállítás, ahol a látogatók kortárs szobrokat láthatnak a település zöldövezetében elhelyezve.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/funtana-skulpturenpark-funtana.webp",
+                  "coords": [
+                        13.610631,
+                        45.159836
+                  ]
+            },
+            {
+                  "name": "Aquacolors",
+                  "text": "Horvátország egyik legnagyobb aquaparkja számos csúszdával és hullámmedencével várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        13.605185,
+                        45.197968
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "A Gradska plaža egy kiépített, kavicsos strand Funtana üdülőhely központjában. Itt a látogatókat élénk, mégis nyugodt légkör várja, amely ideális az úszáshoz és a napozáshoz. A központi fekvés miatt ez a hely különösen praktikus egy spontán csobbanáshoz. A meleg nyári napokon érdemes korán érkezni, hogy jó helyet találjunk a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604295,
+                        45.153261
+                  ]
+            },
+            {
+                  "name": "Polidor Beach",
+                  "text": "A Funtana kikötőjétől északra fekvő Polidor Beach egy modern felszereltségű kavicsos strand. A helyszínen található lounge bár élénk és stílusos hangulatot kölcsönöz a partszakasznak. A fürdőzők kényelmesen pihenhetnek, élvezhetik a tengert és felfrissülhetnek egy hideg ital mellett. Késő délután különösen érdemes ellátogatni ide, hogy kiélvezzük a vízparti laza atmoszférát.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598356,
+                        45.183638
+                  ]
+            },
+            {
+                  "name": "Fuente Beach",
+                  "text": "A Fuente Beach egy kedvelt partszakasz Funtanában, melyet gyönyörű fenyőfák szegélyeznek. A természetes környezet csodálatosan pihentető légkört teremt, ahol a helyiek és a nyaralók egyaránt jól érzik magukat. A természetes árnyék hívogató, így akár egy egész napot is eltölthetünk a tengerparti úszással és pihenéssel. Aki értékeli a békés reggeli órákat, annak érdemes rögtön a nap kezdetén ide látogatnia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.602968,
+                        45.180749
+                  ]
+            },
+            {
+                  "name": "Luka Funtana",
+                  "text": "Funtana helyi kikötője ma halászhajók és szabadidős vitorlások horgonyzóhelye.",
+                  "category": "natural",
+                  "coords": [
+                        13.593901,
+                        45.181104
+                  ]
+            },
+            {
+                  "name": "Uvala Jazbinka",
+                  "text": "Egy csendes öböl Funtana közelében, az Isztriai-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        13.58877,
+                        45.189136
+                  ]
+            },
+            {
+                  "name": "Sv. Martin",
+                  "text": "Egy régi román stílusú templom romjai Funtana közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.612907,
+                        45.192069
+                  ]
+            },
+            {
+                  "name": "Spomenik, Edo Murtic",
+                  "text": "Edo Murtić híres horvát művész alkotása Funtanában.",
+                  "category": "historical",
+                  "coords": [
+                        13.588814,
+                        45.202593
+                  ]
+            },
+            {
+                  "name": "Maro Kids Club",
+                  "text": "A Funtana-ban található Maro Kids Club változatos játéklehetőségeket kínál, amelyek megdobogtatják a családok szívét.",
+                  "category": "family",
+                  "coords": [
+                        13.597258,
+                        45.174484
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "A Funtana-i Pirate Golf pályáján a családok izgalmas minigolfot játszhatnak különleges környezetben.",
+                  "category": "family",
+                  "coords": [
+                        13.593592,
+                        45.186615
+                  ]
+            },
+            {
+                  "name": "Kids Water Play Area",
+                  "text": "A Funtana településen található Kids Water Play Area frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        13.586941,
+                        45.194379
+                  ]
+            },
+            {
+                  "name": "Plaža-Beach Brulo",
+                  "text": "A Funtana településen található Plaža-Beach Brulo frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        13.593517,
+                        45.216732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Funtana",
+                  "text": "O reședință nobiliară fortificată din secolul al XVII-lea, reprezentând inima istorică și arhitecturală a localității.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-kastell-funtana.webp",
+                  "coords": [
+                        13.60418,
+                        45.174993
+                  ]
+            },
+            {
+                  "name": "Dinopark Funtana",
+                  "text": "Un parc tematic de mari dimensiuni, cu modele de dinozauri în mărime naturală, fiind o atracție majoră pentru familii.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-dinopark-funtana.webp",
+                  "coords": [
+                        13.607635,
+                        45.169496
+                  ]
+            },
+            {
+                  "name": "Marina Funtana",
+                  "text": "Portul de agrement modern care găzduiește numeroase ambarcațiuni și oferă o promenadă relaxantă de-a lungul coastei.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-marina-funtana.webp",
+                  "coords": [
+                        13.598693,
+                        45.1766
+                  ]
+            },
+            {
+                  "name": "Parcul de Sculpturi",
+                  "text": "O zonă verde decorată cu opere de artă modernă, oferind vizitatorilor o experiență culturală în aer liber.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/funtana-skulpturenpark-funtana.webp",
+                  "coords": [
+                        13.610631,
+                        45.159836
+                  ]
+            },
+            {
+                  "name": "Aquacolors",
+                  "text": "Unul dintre cele mai mari parcuri acvatice din Croația oferă numeroase tobogane și o piscină cu valuri.",
+                  "category": "recreational",
+                  "coords": [
+                        13.605185,
+                        45.197968
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Gradska plaža este o plajă amenajată cu pietriș, situată chiar în centrul stațiunii Funtana. Aici, vizitatorii sunt întâmpinați de o atmosferă plină de viață, dar relaxantă, ideală pentru înot și plajă. Accesul central face din acest loc o opțiune foarte practică pentru o baie spontană. În zilele călduroase de vară, este recomandat să sosiți devreme pentru a prinde un loc bun lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604295,
+                        45.153261
+                  ]
+            },
+            {
+                  "name": "Polidor Beach",
+                  "text": "Situată la nord de portul din Funtana, Polidor Beach este o plajă cu pietriș, cu dotări moderne. Un bar de tip lounge oferă locului o atmosferă plină de viață și elegantă. Oaspeții se pot relaxa confortabil aici, bucurându-se de mare și de băuturi răcoritoare. O vizită este deosebit de plăcută la sfârșitul după-amiezii, pentru a savura starea de relaxare la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598356,
+                        45.183638
+                  ]
+            },
+            {
+                  "name": "Fuente Beach",
+                  "text": "Fuente Beach este un loc de scăldat popular din Funtana, mărginit de pini frumoși. Cadrul natural creează o atmosferă minunat de relaxantă, unde localnicii și turiștii deopotrivă se simt în largul lor. Umbra naturală vă invită să petreceți întreaga zi înotând și odihnindu-vă la malul mării. Cei care apreciază orele liniștite ale dimineții ar trebui să viziteze acest loc chiar la începutul zilei.",
+                  "category": "recreational",
+                  "coords": [
+                        13.602968,
+                        45.180749
+                  ]
+            },
+            {
+                  "name": "Luka Funtana",
+                  "text": "Portul local din Funtana servește astăzi ca loc de acostare pentru bărci de pescuit și de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        13.593901,
+                        45.181104
+                  ]
+            },
+            {
+                  "name": "Uvala Jazbinka",
+                  "text": "Un golf liniștit situat în apropiere de Funtana în Istria.",
+                  "category": "natural",
+                  "coords": [
+                        13.58877,
+                        45.189136
+                  ]
+            },
+            {
+                  "name": "Sv. Martin",
+                  "text": "Ruinele unei vechi biserici romanice situate lângă Funtana.",
+                  "category": "historical",
+                  "coords": [
+                        13.612907,
+                        45.192069
+                  ]
+            },
+            {
+                  "name": "Spomenik, Edo Murtic",
+                  "text": "Un monument realizat de renumitul artist croat Edo Murtić în Funtana.",
+                  "category": "historical",
+                  "coords": [
+                        13.588814,
+                        45.202593
+                  ]
+            },
+            {
+                  "name": "Maro Kids Club",
+                  "text": "Maro Kids Club din Funtana oferă o gamă variată de jocuri care vor face inimile familiilor să bată mai repede.",
+                  "category": "family",
+                  "coords": [
+                        13.597258,
+                        45.174484
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "La Pirate Golf din Funtana, familiile se pot bucura de o partidă de minigolf captivantă într-o atmosferă specială.",
+                  "category": "family",
+                  "coords": [
+                        13.593592,
+                        45.186615
+                  ]
+            },
+            {
+                  "name": "Kids Water Play Area",
+                  "text": "Kids Water Play Area din Funtana oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        13.586941,
+                        45.194379
+                  ]
+            },
+            {
+                  "name": "Plaža-Beach Brulo",
+                  "text": "Plaža-Beach Brulo din Funtana oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        13.593517,
+                        45.216732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Funtana Castle",
+                  "text": "A 17th-century fortified palace that stands as the most prominent secular historic building in the town center.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-kastell-funtana.webp",
+                  "coords": [
+                        13.60418,
+                        45.174993
+                  ]
+            },
+            {
+                  "name": "Dinopark Funtana",
+                  "text": "A popular theme park featuring life-size dinosaur models and various interactive attractions for families and children.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-dinopark-funtana.webp",
+                  "coords": [
+                        13.607635,
+                        45.169496
+                  ]
+            },
+            {
+                  "name": "Funtana Marina",
+                  "text": "A modern and well-equipped marina providing excellent facilities for boaters and a scenic walking area by the sea.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/funtana-marina-funtana.webp",
+                  "coords": [
+                        13.598693,
+                        45.1766
+                  ]
+            },
+            {
+                  "name": "Funtana Sculpture Park",
+                  "text": "An outdoor gallery featuring contemporary sculptures by local artists, integrated into the town's park areas.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/funtana-skulpturenpark-funtana.webp",
+                  "coords": [
+                        13.610631,
+                        45.159836
+                  ]
+            },
+            {
+                  "name": "Aquacolors",
+                  "text": "One of the largest water parks in Croatia offers numerous slides and a wave pool.",
+                  "category": "recreational",
+                  "coords": [
+                        13.605185,
+                        45.197968
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Gradska plaža is a paved and gravel beach located right in the center of the resort town of Funtana. Visitors can expect a lively yet relaxing atmosphere that is ideal for swimming and sunbathing. Its central location makes this spot particularly convenient for a spontaneous dip. On warm summer days, it is advisable to arrive early to secure a good spot by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604295,
+                        45.153261
+                  ]
+            },
+            {
+                  "name": "Polidor Beach",
+                  "text": "Located north of the Funtana harbor, Polidor Beach is a modern gravel beach. The presence of a lounge bar gives the location a lively and stylish atmosphere. Bathers can relax comfortably, enjoy the sea, and refresh themselves with cool drinks. A visit is highly recommended in the late afternoon to fully soak in the laid-back waterside vibe.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598356,
+                        45.183638
+                  ]
+            },
+            {
+                  "name": "Fuente Beach",
+                  "text": "Fuente Beach is a popular coastal spot in Funtana, bordered by lovely pine trees. The natural surroundings create a wonderfully relaxing atmosphere where locals and holidaymakers alike feel at ease. The natural shade invites visitors to spend the whole day swimming and resting by the sea. For those who appreciate the peaceful morning hours, this is a perfect place to visit right at the start of the day.",
+                  "category": "recreational",
+                  "coords": [
+                        13.602968,
+                        45.180749
+                  ]
+            },
+            {
+                  "name": "Luka Funtana",
+                  "text": "The local harbor of Funtana serves today as a mooring spot for fishing and leisure boats.",
+                  "category": "natural",
+                  "coords": [
+                        13.593901,
+                        45.181104
+                  ]
+            },
+            {
+                  "name": "Uvala Jazbinka",
+                  "text": "A quiet bay located near the town of Funtana in Istria.",
+                  "category": "natural",
+                  "coords": [
+                        13.58877,
+                        45.189136
+                  ]
+            },
+            {
+                  "name": "Sv. Martin",
+                  "text": "Ruins of an old Romanesque church located near Funtana.",
+                  "category": "historical",
+                  "coords": [
+                        13.612907,
+                        45.192069
+                  ]
+            },
+            {
+                  "name": "Monument by Edo Murtic",
+                  "text": "A monument by the famous Croatian artist Edo Murtić in Funtana.",
+                  "category": "historical",
+                  "coords": [
+                        13.588814,
+                        45.202593
+                  ]
+            },
+            {
+                  "name": "Maro Kids Club",
+                  "text": "The Maro Kids Club in Funtana offers a varied range of games that will make families' hearts beat faster.",
+                  "category": "family",
+                  "coords": [
+                        13.597258,
+                        45.174484
+                  ]
+            },
+            {
+                  "name": "Pirate Golf",
+                  "text": "At Pirate Golf in Funtana, families can play an exciting game of miniature golf in a special setting.",
+                  "category": "family",
+                  "coords": [
+                        13.593592,
+                        45.186615
+                  ]
+            },
+            {
+                  "name": "Kids Water Play Area",
+                  "text": "Kids Water Play Area in Funtana offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        13.586941,
+                        45.194379
+                  ]
+            },
+            {
+                  "name": "Plaža-Beach Brulo",
+                  "text": "Plaža-Beach Brulo in Funtana offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        13.593517,
+                        45.216732
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Aquacolors",
+                  "text": "Jedan od najvećih vodenih parkova u Hrvatskoj nudi brojne tobogane i bazen s valovima.",
+                  "category": "recreational",
+                  "coords": [
+                        13.605185,
+                        45.197968
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Uređena i šljunčana plaža smještena u samom središtu turističkog mjesta Funtane.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604295,
+                        45.153261
+                  ]
+            },
+            {
+                  "name": "Polidor Beach",
+                  "text": "Moderna šljunčana plaža s lounge barom, smještena sjeverno od luke.",
+                  "category": "recreational",
+                  "coords": [
+                        13.598356,
+                        45.183638
+                  ]
+            },
+            {
+                  "name": "Fuente Beach",
+                  "text": "Popularno kupalište u Funtani s prirodnom hladovinom ispod borova.",
+                  "category": "recreational",
+                  "coords": [
+                        13.602968,
+                        45.180749
+                  ]
+            },
+            {
+                  "name": "Luka Funtana",
+                  "text": "Lokalna luka u Funtani danas služi kao privezište za ribarske i rekreacijske brodice.",
+                  "category": "natural",
+                  "coords": [
+                        13.593901,
+                        45.181104
+                  ]
+            },
+            {
+                  "name": "Uvala Jazbinka",
+                  "text": "Mirna uvala smještena u blizini Funtane u Istri.",
+                  "category": "natural",
+                  "coords": [
+                        13.58877,
+                        45.189136
+                  ]
+            },
+            {
+                  "name": "Sv. Martin",
+                  "text": "Ostatci stare romaničke crkve sv. Martina u Funtani.",
+                  "category": "historical",
+                  "coords": [
+                        13.612907,
+                        45.192069
+                  ]
+            },
+            {
+                  "name": "Monument by Edo Murtic",
+                  "text": "Spomenik poznatog hrvatskog umjetnika Eduarda Murtića u Funtani.",
+                  "category": "historical",
+                  "coords": [
+                        13.588814,
+                        45.202593
+                  ]
+            }
+      ]
+}},
   {"id": "hum", "type": "city", "parent": "HR-18", "coords": [14.05, 45.3506], "population": 30, "tier": 2, "name": {"de": "Hum", "hu": "Hum", "ro": "Hum", "en": "Hum"}, "description": {"de": "Hum gilt offiziell als die kleinste Stadt der Welt und liegt auf einem Hügel im Herzen von Istrien.", "hu": "Hum hivatalosan a világ legkisebb városaként ismert, Isztria szívében, egy dombtetőn fekszik.", "ro": "Hum este oficial considerat cel mai mic oraș din lume, situat pe un deal în inima Istriei.", "en": "Hum is officially known as the smallest town in the world, perched on a hilltop in the heart of Istria."}, "facts": {"de": ["Kleinste Stadt der Welt", "Nur 30 Einwohner", "Mittelalterliche Stadtmauer", "Zentrum der glagolitischen Schrift", "Besteht aus nur zwei Gassen", "Berühmter Mistelschnaps 'Humska Biska'", "Liegt 349 Meter über dem Meer", "Teil der Glagolitischen Allee"], "hu": ["A világ legkisebb városa", "Csupán 30 állandó lakos", "Középkori városfalak védik", "A glagolita írásmód központja", "Mindössze két utcából áll", "Híres fagyöngypálinka: Humska Biska", "349 méterrel a tengerszint felett", "A Glagolita út végállomása"], "ro": ["Cel mai mic oraș din lume", "Doar 30 de locuitori permanenți", "Ziduri de apărare medievale", "Centru al scrierii glagolitice", "Format din doar două străzi", "Celebru rachiul de vâsc 'Humska Biska'", "Situat la 349 metri altitudine", "Parte din Aleea Glagolitică"], "en": ["Smallest town in the world", "Only 30 permanent residents", "Medieval defensive walls", "Center of Glagolitic script", "Consists of just two streets", "Famous mistletoe brandy 'Biska'", "349 meters above sea level", "Final stop of Glagolitic Alley"]}, "image": "/geo-images/croatia/hum.webp", "imageHint": "Small stone town of Hum on a green Istrian hill", "descriptionAdvanced": {"de": "Hum ist ein faszinierendes Phänomen im istrischen Hinterland. Trotz seines Titels als 'kleinste Stadt der Welt' bewahrt Hum alle Merkmale einer mittelalterlichen Stadtstruktur, einschließlich Stadtmauern, eines Stadttors, einer Kirche und eines Friedhofs. Die Legende besagt, dass Riesen die Städte im Mirna-Tal bauten und Hum aus den letzten übrig gebliebenen Steinen errichteten. Heute ist Hum ein wichtiges kulturelles Zentrum für die glagolitische Schrift, die älteste slawische Schrift. Die 'Glagolitische Allee' führt von Roč direkt hierher. Neben der Geschichte ist Hum berühmt für die 'Humska Biska', einen traditionellen Mistelschnaps, dessen Rezept angeblich 2000 Jahre alt ist und von einem örtlichen Pfarrer bewahrt wurde. Ein Spaziergang durch die zwei Steingassen bietet eine Zeitreise in eine längst vergangene Epoche.", "hu": "Hum egy lenyűgöző jelenség az isztriai hátországban. Bár elnyerte a „világ legkisebb városa” címet, minden olyan jegyet magán visel, ami egy középkori várost jellemez: városfalak, kapu, templom és temető is található itt. A legenda szerint az Isztria folyóvölgyében óriások építették a városokat, és Hum az utolsó megmaradt kövekből készült el. Ma a város a glagolita írásmód – a legrégebbi szláv ábécé – egyik legfontosabb kulturális központja. A Roč városából induló „Glagolita út” utolsó állomása éppen Hum. A történelem mellett a város híres a „Humska Biska” fagyöngypálinkáról, melynek 2000 éves receptjét állítólag egy helyi plébános őrizte meg. A mindössze két utcából álló településen tett séta valódi időutazás a középkorba.", "ro": "Hum este un fenomen fascinant în interiorul Istriei. În ciuda titlului său de 'cel mai mic oraș din lume', Hum păstrează toate caracteristicile unei structuri urbane medievale, inclusiv ziduri cetății, o poartă a orașului, o biserică și un cimitir. Legenda spune că uriașii au construit orașele din valea râului Mirna și au ridicat Hum din ultimele pietre rămase. Astăzi, Hum este un centru cultural important pentru scrierea glagolitică, cea mai veche scriere slavă. 'Aleea Glagolitică' duce de la Roč direct aici. Pe lângă istorie, Hum este faimos pentru 'Humska Biska', un rachiul tradițional de vâsc, a cărui rețetă are se pare o vechime de 2000 de ani și a fost păstrată de un preot local. O plimbare pe cele două străzi de piatră oferă o călătorie în timp într-o epocă demult apusă.", "en": "Hum is a fascinating phenomenon in the Istrian hinterland. Despite its title as the 'smallest town in the world,' Hum preserves all the hallmarks of a medieval urban structure, including city walls, a gate, a church, and a cemetery. Legend tells that giants built the towns in the Mirna valley and erected Hum from the very last remaining stones. Today, Hum is a vital cultural center for the Glagolitic script, the oldest known Slavic alphabet. The 'Glagolitic Alley' leads from the town of Roč directly here. Beyond history, Hum is famous for 'Humska Biska,' a traditional mistletoe brandy whose 2,000-year-old recipe was allegedly preserved by a local priest. A walk through its two stone streets offers a genuine journey back to the Middle Ages."}, "factsAdvanced": {"de": ["Offiziell 30 Einwohner (2021)", "Stadtrecht seit dem Mittelalter", "Glagolitische Allee ist 7 km lang", "Höhe: 349 Meter über Meeresspiegel", "Liegt 14 km südöstlich von Buzet", "Gehört zur Gemeinde Buzet"], "hu": ["Hivatalosan 30 lakos (2021)", "Középkor óta városi jogállású", "A Glagolita út 7 km hosszú", "Tengerszint feletti magasság: 349 m", "Buzettől 14 km-re délkeletre fekszik", "Buzet község önkormányzatához tartozik"], "ro": ["Oficial 30 de locuitori (2021)", "Statut de oraș din Evul Mediu", "Aleea Glagolitică are 7 km lungime", "Altitudine: 349 metri deasupra mării", "Situat la 14 km sud-est de Buzet", "Aparține de municipalitatea Buzet"], "en": ["Officially 30 residents (2021)", "Town status since the Middle Ages", "Glagolitic Alley spans 7 km", "Elevation: 349 meters above sea level", "Located 14 km southeast of Buzet", "Part of the Buzet municipality"]}, "sights": {
       "de": [
             {
@@ -5399,7 +7968,717 @@ export const poiExtraHrV2: POI[] = [
 }},
   {"id": "vrbnik", "type": "city", "parent": "HR-08", "coords": [14.6736, 45.0758], "population": 1240, "tier": 2, "name": {"de": "Vrbnik", "hu": "Vrbnik", "ro": "Vrbnik", "en": "Vrbnik"}, "description": {"de": "Malerisches Weinstädtchen auf einem 50 Meter hohen Felsen über der Adria auf der Insel Krk, berühmt für die goldene Žlahtina-Traube.", "hu": "Festői bortermelő kisváros Krk szigetén, amely egy 49 méter magas sziklafalra épült. A település a híres fehérboráról, a Žlahtináról ismert.", "ro": "Oraș pitoresc pe insula Krk, situat pe o stâncă de 49 de metri. Este renumit pentru vinul alb Žlahtina și pentru centrul său medieval.", "en": "A picturesque medieval town on Krk Island, perched on a 49-meter limestone cliff. Famous for its golden Žlahtina wine and Glagolitic heritage."}, "facts": {"de": ["Auf der Insel Krk gelegen", "49 Meter hoher Kalkfels", "Heimat des Žlahtina-Weins", "1240 Einwohner in der Gemeinde", "Zentrum der glagolitischen Schrift", "Mittelalterlicher Stadtkern", "Engste Gasse namens Klančić", "Panoramablick auf das Meer"], "hu": ["Krk szigetén található", "49 méter magas mészkőszikla", "A Žlahtina fehérbor hazája", "1240 fős állandó lakosság", "Glagolita írásbeliség központja", "Középkori óvárosi hangulat", "Klančić, a világ egyik legszűkebb utcája", "Panorámás kilátás az Adriára"], "ro": ["Situat pe insula Krk", "Stâncă de calcar de 49 de metri", "Patria vinului alb Žlahtina", "1240 de locuitori permanenți", "Centru al scrierii glagolitice", "Centru istoric medieval intact", "Strada îngustă numită Klančić", "Vederi panoramice spre mare"], "en": ["Located on the island of Krk", "Built on a 49-meter limestone cliff", "Home of the Žlahtina white wine", "Population of approximately 1240", "Major center of Glagolitic script", "Well-preserved medieval old town", "World's narrowest street Klančić", "Stunning Adriatic coastal views"]}, "image": "/poi-images/vrbnik.webp", "imageHint": "medieval town Vrbnik on a steep cliff Krk island Croatia", "descriptionAdvanced": {"de": "Vrbnik ist eines der charmantesten und historisch bedeutendsten Städtchen an der kroatischen Adriaküste. Es thront imposant auf einem steilen Kalkfelsen, fast 50 Meter über dem glitzernden Meer. Die Ortschaft ist untrennbar mit dem Weinbau verbunden; in dem fruchtbaren Tal unterhalb der Stadt reift die autochthone Rebsorte Žlahtina, aus der ein edler, strohgelber Weißwein gekeltert wird. Vrbnik blickt auf eine fast tausendjährige Geschichte zurück und war einst ein wichtiges Zentrum der glagolitischen Schriftkultur. In den verwinkelten Gassen der Altstadt scheint die Zeit stehen geblieben zu sein. Besonders abends, wenn die Lichter der Restaurants angehen und der Duft von Meeresfrüchten und Wein durch die Luft zieht, entfaltet der Ort seine ganze Magie. Ein Besuch in den zahlreichen Weinkellern gehört ebenso zum Pflichtprogramm wie ein Spaziergang durch die engste Gasse der Welt, die zeigt, wie kompakt das Leben im Mittelalter war.", "hu": "Vrbnik az Adria egyik legkülönlegesebb települése, amely drámai módon magasodik a tenger fölé egy meredek mészkősziklán. A városka neve összeforrott a Žlahtina borral, amely csak ezen a vidéken terem, és a völgyben elterülő szőlőültetvények adják a helyi gazdaság alapját. Történelme a 12. századig nyúlik vissza, és a horvát írásbeliség, a glagolita kultúra egyik legfontosabb bástyája volt. A falak között sétálva igazi időutazásban lehet részünk: kanyargós utcák, boltíves átjárók és apró terek várják a látogatókat. Itt található a világ egyik legszűkebb utcája is, a Klančić, ahol egy felnőtt ember is alig fér át. Az óváros gasztronómiai kínálata is kiemelkedő, a helyi borozókban megkóstolhatjuk a tenger gyümölcseit és a sziget jellegzetes tésztaételét, a šurlicét, miközben a kilátásban gyönyörködünk.", "ro": "Vrbnik este o bijuterie ascunsă a Croației, cocoțată pe o stâncă abruptă de calcar, oferind panorame spectaculoase asupra Golfului Kvarner. Orașul emană o atmosferă medievală autentică, cu străduțe pietruite atât de înguste încât par să se prăbușească sub greutatea istoriei. Este inima regiunii viticole a insulei Krk, unde solul fertil și clima blândă permit cultivarea strugurilor Žlahtina. Dincolo de faima vinului, Vrbnik este un centru cultural de o importanță majoră pentru identitatea croată, fiind un bastion al scrierii glagolitice timp de secole. Vizitatorii sunt atrași de farmecul său rustic, de tavernele tradiționale și de curiozitatea de a trece prin strada Klančić, considerată una dintre cele mai înguste din lume. O plimbare la apus pe marginile stâncii este o experiență de neuitat, îmbinând liniștea mării cu asprimea pietrei.", "en": "Vrbnik is one of the most iconic destinations on the Croatian coast, dramatically situated on a vertical cliff overlooking the Adriatic Sea. This ancient town is inextricably linked with its fertile valley, where the indigenous Žlahtina grape thrives, producing a dry white wine known for its light and refreshing character. With a history stretching back nearly a millennium, Vrbnik served as a vital cultural center for the Glagolitic script, preserving Croatian literacy through the Middle Ages. The town's labyrinthine streets invite exploration, leading visitors through narrow passages and past centuries-old stone houses. Its most famous curiosity is Klančić street, so narrow that it challenges even the slenderest pedestrians. Beyond its architectural charm, Vrbnik offers a rich gastronomic experience, where local seafood is perfectly paired with the region's signature wine in cozy cellar restaurants."}, "factsAdvanced": {"de": ["Erste urkundliche Erwähnung im Jahr 1100 in einem Dokument des Fürsten Dragoslav.", "Die Gasse Klančić gilt mit nur 40 Zentimetern Breite als eine der engsten der Welt.", "Der Kalkfelsen, auf dem der Ort ruht, ragt 49 Meter steil aus der Adria empor.", "In der Stadt wurden hunderte mittelalterliche Manuskripte in glagolitischer Schrift entdeckt.", "Die landwirtschaftliche Genossenschaft bewirtschaftet über 100 Hektar Žlahtina-Weinberge.", "Der markante Glockenturm neben der Pfarrkirche wurde im Jahr 1527 fertiggestellt."], "hu": ["A várost először 1100-ban említik írásos források Dragoslav herceg adománylevelében.", "A Klančić utca legszűkebb pontján mindössze 40 centiméter széles, igazi látványosság.", "A település egy 49 méter magas tengerparti sziklán fekszik, stratégiai pontként.", "A Vitezić-könyvtárban számos 14-15. századi glagolita kódexet és ősnyomtatványt őriznek.", "A Žlahtina szőlőfajtát körülbelül 100 hektáron termesztik a város melletti termékeny völgyben.", "A Szűz Mária Mennybevétele templom különálló harangtornya 1527-ből származik."], "ro": ["Menționat documentar pentru prima dată în anul 1100 în hrisovul prințului Dragoslav.", "Strada Klančić are o lățime de numai 40 de centimetri în cel mai îngust punct al său.", "Orașul este situat pe un platou stâncos la o înălțime de 49 de metri deasupra mării.", "Vrbnik deține manuscrise medievale scrise în alfabetul glagolitic, esențiale pentru istoria croată.", "Podgoriile de Žlahtina acoperă o suprafață de aproximativ 100 de hectare în valea adiacentă.", "Turnul clopotniță al bisericii parohiale a fost construit în anul 1527 ca simbol al orașului."], "en": ["First mentioned in historical documents in 1100 in the deed of gift of Prince Dragoslav.", "The Klančić street is one of the narrowest in the world, measuring just 40 centimeters wide.", "The town is built on a 49-meter high limestone cliff that offered natural protection.", "Vrbnik is a cradle of Glagolitic literacy, home to hundreds of ancient manuscripts.", "The fertile Vrbnik field below the town covers 100 hectares dedicated to Žlahtina grapes.", "The landmark bell tower of the Parish Church was constructed in 1527 in Renaissance style."]}, "sights": {"de": [{"name": "Altstadt von Vrbnik", "text": "Die mittelalterliche Stadt liegt auf einem 50 Meter hohen Felsen und ist bekannt für ihr Labyrinth aus engen Gassen.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/vrbnik-altstadt-von-vrbnik.webp", "coords": [14.672344, 45.076081]}, {"name": "Strand Potovošće", "text": "Der Strand Potovošće bei Vrbnik zählt zu den malerischsten Kieselbuchten der Insel Krk. Das türkisfarbene, kristallklare Wasser sorgt für ein fast unberührtes, magisches Flair, das Naturfreunde und Ruhesuchende anlockt. Besucher tauchen hier in herrliche Fluten ein oder bewundern einfach die leuchtenden Farben des Meeres. Um die volle Pracht dieses Ortes zu erleben, empfiehlt sich ein Besuch in den frühen Vormittagsstunden.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrbnik-strand-potovo-e.webp", "coords": [14.701834, 45.064975]}, {"name": "Etno Haus Vribnik", "text": "Ein ethnografisches Privatmuseum in Vrbnik, das Werkzeuge und Kleidung des traditionellen Insellebens auf Krk zeigt.", "category": "museum", "coords": [14.675, 45.077341]}, {"name": "Plaža Javna", "text": "Die Plaža Javna ist ein einladender, öffentlicher Kiesstrand ganz in der Nähe von Vrbnik. Die Stimmung ist hier meist authentisch und von den Einheimischen geprägt, die den direkten Meerzugang schätzen. Es ist ein unkomplizierter Ort zum Schwimmen und Sonnen, an dem man das Inselflair hautnah spürt. Ein eigenes Handtuch und etwas Proviant runden das entspannte Strand-Erlebnis ab.", "category": "recreational", "coords": [14.662509, 45.095597]}, {"name": "Silent Beach", "text": "Silent Beach macht seinem Namen alle Ehre und liegt abgeschieden in einer winzigen Bucht in der Nähe von Vrbnik. Die Atmosphäre ist geprägt von absoluter Stille, die diesen Ort zu einem wahren Rückzugsort für Einsamkeitssuchende macht. Gäste können hier im friedlichen Wasser ungestört schwimmen oder einfach dem Rauschen der Wellen lauschen. Da es sich um eine abgelegene Stelle handelt, sollte man ausreichend Getränke und Snacks selbst mitbringen.", "category": "recreational", "coords": [14.683808, 45.07228]}, {"name": "Strand Melska", "text": "Der Strand Melska schmiegt sich an die malerische Nordostküste der Insel Krk. Diese felsige Kiesbucht verströmt eine raue, naturbelassene Stimmung, die Abenteurer und Individualisten gleichermaßen anspricht. Das klare Wasser ist ideal, um ein erfrischendes Bad fernab der stark frequentierten Touristenpfade zu nehmen. Für ein unbeschwertes Erlebnis an diesem schönen Küstenstrich sind Badeschuhe sehr zu empfehlen.", "category": "recreational", "coords": [14.661325, 45.100552]}, {"name": "Pod Kovač / Secret Beach", "text": "Der als Secret Beach bekannte Küstenstreifen Pod Kovač ist ein geheimnisvolles Versteck an der Küste von Vrbnik. Der abenteuerliche Weg durch einen schmalen Felsdurchgang verspricht ein exklusives, abgeschiedenes Ambiente. Wer diesen Ort entdeckt, wird mit einem ungestörten Badeerlebnis inmitten spektakulärer Felsformationen belohnt. Da der Platz begrenzt ist, bietet sich ein Ausflug am besten am frühen Morgen an.", "category": "recreational", "coords": [14.674089, 45.0783]}, {"name": "Plaža Mala Javna", "text": "Die Plaža Mala Javna ist ein beschaulicher, kleinerer Kiesstrand, der sich in einer ruhigen Gegend nahe Vrbnik verbirgt. Fernab vom Massentourismus findet man hier eine intime und entspannte Stimmung vor. Die sanften Wellen und der feine Kies laden zu erholsamen Stunden am und im Meer ein. Dieser Strand ist perfekt für all jene, die eine kleine Auszeit vom Alltag suchen.", "category": "recreational", "coords": [14.662128, 45.094145]}, {"name": "Čelo", "text": "Ein Aussichtspunkt auf einem Hügel mit Blick auf Vrbnik und das Meer.", "category": "natural", "coords": [14.649507, 45.089954]}, {"name": "Hlam", "text": "Der höchste Gipfel in der Region Vrbnik mit weitem Panoramablick.", "category": "natural", "coords": [14.679418, 45.054247]}, {"name": "Zgribnica", "text": "Der zentrale Stadtstrand von Vrbnik mit betonierter Liegefläche und klarem Wasser.", "category": "recreational", "coords": [14.678702, 45.076006]}, {"name": "Vajavina", "text": "Küstenabschnitt bei Vrbnik, der für seine natürliche Felslandschaft bekannt ist.", "category": "recreational", "coords": [14.680216, 45.07604]}, {"name": "Uvala Sršćica", "text": "Eine versteckte Kieselbucht unter den Klippen in der Nähe von Vrbnik auf der Insel Krk.", "category": "recreational", "coords": [14.726791, 45.063279]}, {"name": "Moby's beach", "text": "Moby's Beach ist ein charmantes Fleckchen Natur unweit von Vrbnik auf der Insel Krk. Das kleine Kieselgestade bietet ein ruhiges, ungezwungenes Ambiente, ideal für alle, die das authentische Inselflair abseits der Massen lieben. Das kristallklare Meerwasser eignet sich hervorragend für ein paar ausgiebige Schwimmzüge. Eine gemütliche Unterlage macht das Sonnenbaden auf den Kieselsteinen besonders angenehm.", "category": "recreational", "coords": [14.70934, 45.06526]}, {"name": "Ponikve", "text": "Ponikve ist ein See in Vrbnik, perfekt um die lokale Naturkulisse zu genießen.", "category": "natural", "coords": [14.563596, 45.076044]}], "hu": [{"name": "Vrbnik óvárosa", "text": "A tenger feletti 50 méter magas sziklán elterülő labirintusszerű település az Adria egyik legszebb középkori városa.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/vrbnik-altstadt-von-vrbnik.webp", "coords": [14.672344, 45.076081]}, {"name": "Potovošće strand", "text": "A Vrbnik melletti Potovošće strand a Krk-sziget egyik legfestőibb kavicsos öble. A türkizkék, kristálytiszta víz szinte érintetlen, varázslatos hangulatot áraszt, amely mágnesként vonzza a természetbarátokat és a nyugalomra vágyókat. A látogatók elmerülhetnek a pompás hullámokban, vagy egyszerűen csak megcsodálhatják a tenger ragyogó színeit. A hely teljes szépségének megéléséhez érdemes a kora délelőtti órákban érkezni.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrbnik-strand-potovo-e.webp", "coords": [14.701834, 45.064975]}, {"name": "Etno Kuca Vribnik", "text": "Vrbniki magán néprajzi múzeum, amely a krki hagyományos életmód eszközeit és viseleteit mutatja be.", "category": "museum", "coords": [14.675, 45.077341]}, {"name": "Plaža Javna", "text": "A Plaža Javna egy hívogató, nyilvános kavicsos strand Vrbnik közvetlen közelében. A hangulat itt többnyire autentikus, amit a helyiek jelenléte határoz meg, akik nagyra értékelik a tenger közvetlen közelségét. Ez egy egyszerű, sallangmentes hely az úszáshoz és a napozáshoz, ahol testközelből érezhetjük a szigeti miliőt. Egy saját törölköző és némi harapnivaló teljessé teszi a pihentető strandélményt.", "category": "recreational", "coords": [14.662509, 45.095597]}, {"name": "Silent Beach", "text": "A Silent Beach nevéhez hűen egy apró, eldugott öbölben található Vrbnik közelében. A légkört az abszolút csend jellemzi, ami a helyet a magányt keresők igazi menedékévé teszi. A vendégek zavartalanul úszhatnak a békés vízben, vagy egyszerűen csak hallgathatják a hullámok zúgását. Mivel ez egy félreeső partszakasz, fontos, hogy elegendő italt és harapnivalót vigyünk magunkkal.", "category": "recreational", "coords": [14.683808, 45.07228]}, {"name": "Melska Uvala", "text": "A Melska strand festőien simul a Krk-sziget északkeleti partvonalához. Ez a sziklás-kavicsos öböl nyers, érintetlen hangulatot áraszt, amely a kalandorokat és az egyéni utazókat egyaránt vonzza. A tiszta víz ideális egy frissítő fürdőzéshez, távol a forgalmas turistaútvonalaktól. A gondtalan strandélmény érdekében ezen a gyönyörű partszakaszon a fürdőcipő használata erősen ajánlott.", "category": "recreational", "coords": [14.661325, 45.100552]}, {"name": "Pod Kovač / Secret Beach", "text": "A Secret Beach néven is ismert Pod Kovač egy titokzatos búvóhely Vrbnik partjainál. A szűk sziklahasadékon át vezető kalandos út exkluzív, elzárt hangulatot ígér. Aki felfedezi ezt a helyet, zavartalan fürdőzési élménnyel gazdagodik a látványos sziklaalakzatok ölelésében. Mivel a hely szűkös, a legjobb, ha már kora reggel meglátogatjuk.", "category": "recreational", "coords": [14.674089, 45.0783]}, {"name": "Plaža Mala Javna", "text": "A Plaža Mala Javna egy békés, kisebb kavicsos strand, amely Vrbnik közelében, egy csendes környezetben rejtőzik. A tömegturizmustól távol itt meghitt és nyugodt légkör fogadja a látogatókat. A lágy hullámok és a finom kavicsok pihentető órákra csábítanak a tengerparton. Ez a strand tökéletes azok számára, akik egy kis kikapcsolódásra vágynak a mindennapokból.", "category": "recreational", "coords": [14.662128, 45.094145]}, {"name": "Čelo", "text": "Kilátópont egy dombon, ahonnan rálátni Vrbnikre és a tengerre.", "category": "natural", "coords": [14.649507, 45.089954]}, {"name": "Hlam", "text": "Vrbnik környékének legmagasabb pontja, széles panorámás kilátással.", "category": "natural", "coords": [14.679418, 45.054247]}, {"name": "Zgribnica", "text": "Vrbnik központi városi strandja kiépített napozókkal és tiszta vízzel.", "category": "recreational", "coords": [14.678702, 45.076006]}, {"name": "Vajavina", "text": "Vrbnik melletti tengerparti szakasz, amely természetes sziklás környezetéről ismert.", "category": "recreational", "coords": [14.680216, 45.07604]}, {"name": "Uvala Sršćica", "text": "Rejtett kavicsos öböl a sziklák alatt Vrbnik közelében, Krk szigetén.", "category": "recreational", "coords": [14.726791, 45.063279]}, {"name": "Moby's beach", "text": "A Moby's Beach a természet egy bájos darabkája a Krk-szigeti Vrbnik közelében. A kis kavicsos part nyugodt, kötetlen hangulatot kínál, ami ideális azok számára, akik a tömegektől távol keresik az autentikus szigeti életérzést. A kristálytiszta tengervíz kiválóan alkalmas egy kiadós úszásra. Egy kényelmes polifoam vagy vastag törölköző különösen élvezetessé teszi a kavicsokon való napozást.", "category": "recreational", "coords": [14.70934, 45.06526]}, {"name": "Ponikve", "text": "A Ponikve egy tó Vrbnikben, amely tökéletes a helyi természeti táj élvezetére.", "category": "natural", "coords": [14.563596, 45.076044]}], "ro": [{"name": "Orașul Vechi Vrbnik", "text": "Situat pe o stâncă abruptă la 50 de metri deasupra mării, centrul vechi este un labirint fascinant de străduțe de piatră.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/vrbnik-altstadt-von-vrbnik.webp", "coords": [14.672344, 45.076081]}, {"name": "Plaja Potovošće", "text": "Plaja Potovošće de lângă Vrbnik este una dintre cele mai pitorești coaste cu pietriș de pe insula Krk. Apa cristalină de un turcoaz strălucitor creează un farmec magic, aproape neatins, care atrage iubitorii de natură și pe cei care caută liniștea. Vizitatorii se pot scufunda în valurile minunate sau pot admira pur și simplu culorile vibrante ale mării. Pentru a experimenta întreaga splendoare a acestui loc, se recomandă o vizită în primele ore ale dimineții.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrbnik-strand-potovo-e.webp", "coords": [14.701834, 45.064975]}, {"name": "Etno Kuca Vribnik", "text": "Un muzeu etnografic privat din Vrbnik, care expune unelte și haine din viața tradițională de pe insula Krk.", "category": "museum", "coords": [14.675, 45.077341]}, {"name": "Plaža Javna", "text": "Plaža Javna este o plajă publică cu pietriș primitoare, situată foarte aproape de Vrbnik. Atmosfera de aici este în mare parte autentică și marcată de prezența localnicilor, care apreciază accesul direct la mare. Este un loc simplu pentru înot și plajă, unde poți simți spiritul insulei de aproape. Un prosop personal și câteva gustări vor completa perfect experiența relaxantă de la plajă.", "category": "recreational", "coords": [14.662509, 45.095597]}, {"name": "Silent Beach", "text": "Silent Beach își respectă numele, fiind situată într-un mic golf retras de lângă Vrbnik. Atmosfera este caracterizată de o liniște absolută, ceea ce face din acest loc un adevărat refugiu pentru cei care caută solitudine. Oaspeții pot înota netulburați în apele pașnice sau pot asculta pur și simplu sunetul valurilor. Deoarece este o zonă izolată, asigurați-vă că aduceți suficiente băuturi și gustări cu voi.", "category": "recreational", "coords": [14.683808, 45.07228]}, {"name": "Melska Uvala", "text": "Plaja Melska se aliniază pitoresc de-a lungul coastei de nord-est a insulei Krk. Acest golf cu stânci și pietriș emană o atmosferă brută, naturală, atrăgătoare deopotrivă pentru aventurieri și călătorii independenți. Apa limpede este ideală pentru o baie răcoritoare, departe de traseele turistice foarte aglomerate. Pentru o experiență fără griji pe această porțiune frumoasă de coastă, se recomandă purtarea încălțămintei de apă.", "category": "recreational", "coords": [14.661325, 45.100552]}, {"name": "Pod Kovač / Secret Beach", "text": "Cunoscută sub numele de Secret Beach, Pod Kovač este o ascunzătoare misterioasă pe coasta din Vrbnik. Traseul aventuros printr-un pasaj îngust din stâncă promite o ambianță exclusivistă și izolată. Cei care descoperă acest loc sunt răsplătiți cu o experiență de baie netulburată în mijlocul unor formațiuni stâncoase spectaculoase. Deoarece spațiul este limitat, o excursie aici este cel mai bine planificată la primele ore ale dimineții.", "category": "recreational", "coords": [14.674089, 45.0783]}, {"name": "Plaža Mala Javna", "text": "Plaža Mala Javna este o mică plajă cu pietriș, liniștită, ascunsă într-o zonă pașnică de lângă Vrbnik. Departe de turismul de masă, vei găsi aici o atmosferă intimă și extrem de relaxată. Valurile blânde și pietrișul fin te invită la ore de odihnă lângă și în mare. Această plajă este perfectă pentru toți cei care caută o mică pauză de la viața de zi cu zi.", "category": "recreational", "coords": [14.662128, 45.094145]}, {"name": "Čelo", "text": "Punct de belvedere pe un deal cu vedere spre Vrbnik și mare.", "category": "natural", "coords": [14.649507, 45.089954]}, {"name": "Hlam", "text": "Cel mai înalt vârf din regiunea Vrbnik, oferind o panoramă vastă.", "category": "natural", "coords": [14.679418, 45.054247]}, {"name": "Zgribnica", "text": "Plaja centrală a orașului Vrbnik, cu zone betonate și apă limpede.", "category": "recreational", "coords": [14.678702, 45.076006]}, {"name": "Vajavina", "text": "Secțiune de coastă lângă Vrbnik, cunoscută pentru peisajul său stâncos natural.", "category": "recreational", "coords": [14.680216, 45.07604]}, {"name": "Uvala Sršćica", "text": "Un golf cu pietriș ascuns sub stânci, lângă Vrbnik pe insula Krk.", "category": "recreational", "coords": [14.726791, 45.063279]}, {"name": "Moby's beach", "text": "Moby's Beach este o bucată fermecătoare de natură aflată nu departe de Vrbnik, pe insula Krk. Mica plajă cu pietriș oferă o ambianță liniștită, informală, ideală pentru cei care iubesc atmosfera autentică a insulei, departe de aglomerație. Apa limpede a mării este excelentă pentru câteva reprize lungi de înot. O saltea confortabilă va face ca plaja pe pietriș să fie deosebit de plăcută.", "category": "recreational", "coords": [14.70934, 45.06526]}, {"name": "Ponikve", "text": "Ponikve este un lac situat în Vrbnik, perfect pentru a admira peisajul natural local.", "category": "natural", "coords": [14.563596, 45.076044]}], "en": [{"name": "Vrbnik Old Town", "text": "A medieval town perched on a 50-meter-high cliff above the sea, famous for its maze-like stone alleyways.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/vrbnik-altstadt-von-vrbnik.webp", "coords": [14.672344, 45.076081]}, {"name": "Potovošće Beach", "text": "Potovošće Beach near Vrbnik ranks among the most picturesque gravel bays on the island of Krk. The turquoise, crystal-clear water creates an almost untouched, magical flair that attracts nature lovers and tranquility seekers. Visitors can dive into the marvelous waves or simply admire the vibrant colors of the sea. To experience the full splendor of this location, a visit in the early morning hours is highly recommended.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrbnik-strand-potovo-e.webp", "coords": [14.701834, 45.064975]}, {"name": "Etno Kuca Vribnik", "text": "A private ethnographic museum in Vrbnik showcasing tools and clothing from traditional island life on Krk.", "category": "museum", "coords": [14.675, 45.077341]}, {"name": "Plaža Javna", "text": "Plaža Javna is an inviting public gravel beach located very close to Vrbnik. The atmosphere here is largely authentic and defined by locals who appreciate the straightforward sea access. It is a hassle-free spot for swimming and sunbathing where one can feel the true island vibe. Bringing your own towel and some snacks will perfectly round off this relaxed beach experience.", "category": "recreational", "coords": [14.662509, 45.095597]}, {"name": "Silent Beach", "text": "True to its name, Silent Beach is secluded within a tiny bay near Vrbnik. The atmosphere is characterized by absolute quiet, making this spot a true retreat for those seeking solitude. Guests can swim undisturbed in the peaceful water or simply listen to the gentle sound of the waves. Since it is a remote location, it is highly advisable to bring plenty of drinks and snacks.", "category": "recreational", "coords": [14.683808, 45.07228]}, {"name": "Melska Uvala", "text": "Melska Beach nestles beautifully along the northeastern coast of the island of Krk. This rocky gravel bay exudes a raw, unspoiled vibe that appeals to adventurers and independent travelers alike. The clear water is ideal for taking a refreshing dip away from the heavily frequented tourist trails. To ensure a carefree experience on this lovely stretch of shoreline, water shoes are highly recommended.", "category": "recreational", "coords": [14.661325, 45.100552]}, {"name": "Pod Kovač / Secret Beach", "text": "Known as Secret Beach, Pod Kovač is a mysterious hideaway along the coast of Vrbnik. The adventurous path through a narrow passage in the rock promises an exclusive, secluded ambiance. Those who discover this spot are rewarded with an undisturbed swimming experience amidst spectacular rock formations. Because space is limited, planning a trip here early in the morning is your best bet.", "category": "recreational", "coords": [14.674089, 45.0783]}, {"name": "Plaža Mala Javna", "text": "Plaža Mala Javna is a tranquil, smaller gravel beach hidden in a quiet area near Vrbnik. Far removed from mass tourism, visitors will find an intimate and highly relaxed atmosphere here. The gentle waves and the fine gravel invite guests to spend restful hours by and in the sea. This beach is absolutely perfect for anyone looking to take a short break from everyday life.", "category": "recreational", "coords": [14.662128, 45.094145]}, {"name": "Čelo", "text": "A viewpoint on a hill overlooking Vrbnik and the sea.", "category": "natural", "coords": [14.649507, 45.089954]}, {"name": "Hlam", "text": "The highest peak in the Vrbnik region, offering a wide panoramic view.", "category": "natural", "coords": [14.679418, 45.054247]}, {"name": "Zgribnica", "text": "The central town beach of Vrbnik with paved areas and clear water.", "category": "recreational", "coords": [14.678702, 45.076006]}, {"name": "Vajavina", "text": "Coastal section near Vrbnik known for its natural rocky landscape.", "category": "recreational", "coords": [14.680216, 45.07604]}, {"name": "Uvala Sršćica", "text": "A hidden pebble bay under the cliffs near Vrbnik on Krk island.", "category": "recreational", "coords": [14.726791, 45.063279]}, {"name": "Moby's beach", "text": "Moby's Beach is a charming slice of nature not far from Vrbnik on the island of Krk. The small gravel shore provides a quiet, informal ambiance, ideal for those who love an authentic island vibe away from the crowds. The clear seawater is excellent for taking some long, refreshing swims. Bringing a comfortable mat makes sunbathing on the pebbles especially pleasant.", "category": "recreational", "coords": [14.70934, 45.06526]}, {"name": "Ponikve", "text": "Ponikve is a lake located in Vrbnik, perfect for enjoying the local natural scenery.", "category": "natural", "coords": [14.563596, 45.076044]}], "hr": [{"name": "Etno Kuca Vribnik", "text": "Privatni etnografski muzej u Vrbniku koji prikazuje alate i odjeću iz tradicionalnog otočkog života na Krku.", "category": "museum", "coords": [14.675, 45.077341]}, {"name": "Plaža Javna", "text": "Javna šljunčana plaža smještena u blizini Vrbnika na otoku Krku.", "category": "recreational", "coords": [14.662509, 45.095597]}, {"name": "Silent Beach", "text": "Mirna i skrovita plaža smještena u maloj uvali kod Vrbnika.", "category": "recreational", "coords": [14.683808, 45.07228]}, {"name": "Melska Uvala", "text": "Uvala sa šljunčanom plažom na sjeveroistočnoj obali otoka Krka.", "category": "recreational", "coords": [14.661325, 45.100552]}, {"name": "Pod Kovač / Secret Beach", "text": "Skrivena plaža dostupna kroz uski prolaz usječen u stijeni.", "category": "recreational", "coords": [14.674089, 45.0783]}, {"name": "Plaža Mala Javna", "text": "Manja javna šljunčana plaža smještena u mirnom okruženju blizu Vrbnika.", "category": "recreational", "coords": [14.662128, 45.094145]}, {"name": "Čelo", "text": "Vidikovac na brdu s pogledom na Vrbnik i more.", "category": "natural", "coords": [14.649507, 45.089954]}, {"name": "Hlam", "text": "Najviši vrh u okolici Vrbnika s kojeg se pruža širok panoramski pogled.", "category": "natural", "coords": [14.679418, 45.054247]}, {"name": "Zgribnica", "text": "Glavna gradska plaža u Vrbniku s uređenim sunčalištima i čistim morem.", "category": "recreational", "coords": [14.678702, 45.076006]}, {"name": "Vajavina", "text": "Obalni dio kod Vrbnika poznat po svom prirodnom stjenovitom krajoliku.", "category": "recreational", "coords": [14.680216, 45.07604]}, {"name": "Uvala Sršćica", "text": "Skrivena šljunčana uvala podno litica u blizini Vrbnika na otoku Krku.", "category": "recreational", "coords": [14.726791, 45.063279]}, {"name": "Moby's beach", "text": "Mala šljunčana plaža smještena u blizini Vrbnika na otoku Krku.", "category": "recreational", "coords": [14.70934, 45.06526]}]}},
   {"id": "vrsar", "type": "city", "parent": "HR-18", "coords": [13.6017, 45.1497], "population": 1850, "tier": 2, "name": {"de": "Vrsar", "hu": "Vrsar", "ro": "Vrsar", "en": "Vrsar"}, "description": {"de": "Ein malerisches Fischerdorf an der Westküste Istriens, bekannt für seinen Archipel aus 18 Inseln und die Besuche Casanovas.", "hu": "Gleccser vájta limi-csatorna bejáratánál fekvő halászváros, Isztria nyugati partján, híres 18 szigetből álló szigetvilágáról.", "ro": "Un sat pitoresc de pescari pe coasta de vest a Istriei, cunoscut pentru arhipelagul său de 18 insule și vizitele lui Casanova.", "en": "A picturesque fishing town on Istria's west coast, famous for its archipelago of 18 islands and the visits of Giacomo Casanova."}, "facts": {"de": ["Archipel mit 18 kleinen Inseln", "Einst Residenz der Bischöfe von Poreč", "Giacomo Casanova besuchte Vrsar", "Bedeutender Skulpturenpark (Dušan Džamonja)", "Mittelalterliches Stadttor", "Berühmte Steinbrüche (Quarry)", "1850 Einwohner", "Liegt am Eingang zum Lim-Fjord"], "hu": ["18 apró szigetből álló szigetvilág", "Poreči püspökök egykori rezidenciája", "Casanova kétszer is járt itt", "Dušan Džamonja szoborparkja", "Érintetlen középkori városkapu", "Híres kőbányák a környéken", "1850 lakos", "A Lim-csatorna északi bejáratánál"], "ro": ["Arhipelag cu 18 insule mici", "Fosta reședință a episcopilor din Poreč", "Giacomo Casanova a vizitat Vrsar", "Parc de sculptură Dušan Džamonja", "Poartă medievală a orașului", "Cariere de piatră faimoase", "1850 de locuitori", "Situat la intrarea în fiordul Lim"], "en": ["Archipelago of 18 small islands", "Former residence of Poreč bishops", "Giacomo Casanova stayed here twice", "Dušan Džamonja sculpture park", "Preserved medieval city gates", "Famous historic stone quarries", "Population of 1,850", "Located near the Lim Fjord entry"]}, "image": "/poi-images/vrsar.webp", "imageHint": "Harbor view of Vrsar with its hilltop church bell tower", "descriptionAdvanced": {"de": "Vrsar, ein malerisches Fischerdorf an der Westküste Istriens zwischen Poreč und Rovinj, bezaubert mit seiner auf einem Hügel gelegenen Altstadt und dem romantischen Hafen. Die Stadt, die einst dem Bischof von Poreč gehörte, strahlt eine ruhige, künstlerische Atmosphäre aus. Die engen, gewundenen Gassen führen hinauf zur Pfarrkirche St. Martin aus dem 19. Jahrhundert, von deren Standort aus man einen weiten Blick über den Archipel mit seinen 18 unbewohnten Inseln genießt. Vrsar ist auch als die Stadt bekannt, in der Giacomo Casanova in den Jahren 1743 und 1744 verweilte, eine Tatsache, die heute durch Veranstaltungen wie das „Casanova-Fest“ gefeiert wird. Am Fuße des Hügels befindet sich eine moderne Marina, die ein beliebter Anlaufpunkt für Segler ist. Eine Besonderheit ist der Skulpturenpark des berühmten Künstlers Dušan Džamonja, der etwas außerhalb der Stadt liegt. Für Naturisten ist der nahegelegene Campingplatz Koversada von Bedeutung, einer der ältesten und größten seiner Art in Europa. Vrsar ist ein idealer Ort für diejenigen, die dem Trubel entfliehen und die authentische istrische Lebensart erleben möchten.", "hu": "Vrsar, egy festői halászfalu Isztria nyugati partján, Poreč és Rovinj között, a dombtetőn elhelyezkedő óvárosával és romantikus kikötőjével varázsolja el a látogatót. A valaha a poreči püspök birtokában lévő város csendes, művészi légkört áraszt. A szűk, kanyargós sikátorok a 19. századi Szent Márton-plébániatemplomhoz vezetnek fel, ahonnan pazar kilátás nyílik a 18 lakatlan szigetből álló szigetvilágra. Vrsar arról is ismert, hogy Giacomo Casanova 1743-ban és 1744-ben itt tartózkodott; ezt a tényt ma olyan eseményekkel ünneplik, mint a „Casanova Fesztivál”. A domb lábánál egy modern marina található, amely a vitorlázók kedvelt célpontja. Különlegesség a híres művész, Dušan Džamonja szoborparkja, amely a városon kívül található. A naturisták számára fontos a közeli Koversada kemping, Európa egyik legrégebbi és legnagyobb naturista komplexuma. Vrsar ideális hely azok számára, akik el akarnak menekülni a nyüzsgés elől, és megtapasztalni az autentikus isztriai életérzést.", "ro": "Vrsar, un sat pescăresc pitoresc pe coasta de vest a Istriei, între Poreč și Rovinj, încântă prin centrul său vechi așezat pe un deal și portul său romantic. Orașul, care a aparținut cândva episcopului de Poreč, emană o atmosferă liniștită și artistică. Străzile înguste și șerpuitoare duc spre biserica parohială Sfântul Martin din secolul al XIX-lea, de unde se deschide o priveliște amplă asupra arhipelagului cu cele 18 insule nelocuite. Vrsar este, de asemenea, cunoscut ca orașul în care a locuit Giacomo Casanova în 1743 și 1744, un fapt celebrat astăzi prin evenimente precum „Festivalul Casanova”. La poalele dealului se află o marină modernă, un punct de atracție popular pentru navigatori. O atracție specială este parcul de sculpturi al renumitului artist Dušan Džamonja, situat chiar în afara orașului. Pentru naturiști, campingul Koversada din apropiere este important, fiind unul dintre cele mai vechi și mai mari de acest gen din Europa. Vrsar este un loc ideal pentru cei care doresc să scape de agitație și să experimenteze stilul de viață autentic istrian.", "en": "Vrsar, a picturesque fishing town on the west coast of Istria between Poreč and Rovinj, charms with its hilltop old town and romantic harbour. The town, once owned by the Bishop of Poreč, exudes a quiet, artistic atmosphere. Its narrow, winding streets lead up to the 19th-century parish church of St. Martin, from where you can enjoy a wide view over the archipelago of 18 uninhabited islets. Vrsar is also known as the town where Giacomo Casanova stayed in 1743 and 1744, a fact celebrated today with events like the 'Casanova Fest'. At the foot of the hill lies a modern marina, a popular stop for sailors. A unique attraction is the sculpture park of the famous artist Dušan Džamonja, located just outside the town. For naturists, the nearby Koversada campsite is significant, being one of the oldest and largest of its kind in Europe. Vrsar is an ideal place for those looking to escape the hustle and bustle and experience the authentic Istrian way of life."}, "factsAdvanced": {"de": ["1850 Einwohner in der Gemeinde", "Casanova besuchte den Ort 1743", "Lim-Fjord ist nur 3 km entfernt", "Steinbruch 'Montraker' ist heute Kunstort", "Glockenturm ist 40 Meter hoch", "Gegründet auf antiken römischen Fundamenten"], "hu": ["1850 lakos a községben", "Casanova 1743-ban járt itt először", "A Lim-csatorna mindössze 3 km", "A Montraker kőbánya ma szobrászműhely", "A harangtorony 40 méter magas", "Római kori alapokra épült"], "ro": ["1850 de locuitori în municipalitate", "Casanova a vizitat locul în 1743", "Fiordul Lim este la doar 3 km distanță", "Cariera 'Montraker' este acum sit de artă", "Clopotnița are 40 de metri înălțime", "Fondat pe fundații romane antice"], "en": ["Population of 1,850 in the district", "Casanova first visited in 1743", "Lim Fjord is just 3 km away", "Montraker quarry is now an arts site", "Bell tower stands 40 meters tall", "Built upon ancient Roman foundations"]}, "sights": {"de": [{"name": "Skulpturenpark Dušan Džamonja", "text": "Ein weitläufiges Gelände, auf dem die monumentalen Werke des berühmten Bildhauers in Harmonie mit der Natur ausgestellt sind.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrsar-skulpturenpark-du-an-d-amonja.webp", "coords": [13.610631, 45.159836]}, {"name": "Casanova-Aussichtspunkt", "text": "Benannt nach dem berühmten Liebhaber, der Vrsar besuchte, bietet dieser Ort einen romantischen Blick auf den Hafen und die Inseln.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/vrsar-casanova-aussichtspunkt.webp", "coords": [13.605206, 45.150576]}, {"name": "Uferpromenade Riva", "text": "Die lebendige Flaniermeile am Hafen lädt zum Spazierengehen ein und bietet zahlreiche Restaurants mit Blick auf die Fischerboote.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrsar-uferpromenade-riva.webp", "coords": [13.603662, 45.149198]}, {"name": "AeroPark", "text": "Ein Freilicht-Luftfahrtmuseum am Sportflughafen Vrsar, das historische Flugzeuge und Ausrüstung zeigt.", "category": "museum", "coords": [13.627616, 45.142667]}, {"name": "Dinopark Funtana", "text": "Ein beliebter Familien-Themenpark in der Nähe von Vrsar mit lebensgroßen Saurier-Modellen und Shows.", "category": "recreational", "coords": [13.607909, 45.169216]}, {"name": "Gradska plaža", "text": "Die Gradska plaža bildet das pulsierende Herz der Küste von Vrsar und begeistert als zentraler Hauptstrand. Mit klarem Wasser und verschiedenen Freizeitmöglichkeiten herrscht hier eine energiegeladene, sehr familienfreundliche Atmosphäre. Sowohl aktive Schwimmer als auch Erholungssuchende finden hier genau das richtige Plätzchen unter der kroatischen Sonne. Aufgrund der guten Erreichbarkeit ist dieser Strand der ideale Ausgangspunkt für einen vielseitigen Tag am Meer.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Zvonik sv. Martin", "text": "Dieser Glockenturm aus dem 19. Jahrhundert bietet einen Panoramablick auf das Archipel von Vrsar.", "category": "natural", "coords": [13.606234, 45.150992]}, {"name": "Photo Gallery", "text": "Eine Fotogalerie in Vrsar, die das ganze Jahr über verschiedene Ausstellungen zeigt.", "category": "museum", "coords": [13.606663, 45.148609]}, {"name": "FKK Punta Križa", "text": "Ein bekannter FKK-Strand in der Nähe von Vrsar in Istrien.", "category": "recreational", "coords": [13.607716, 45.114884]}], "hu": [{"name": "Dušan Džamonja Szoborpark", "text": "A világhírű művész lenyűgöző alkotásai egy gyönyörű parkban kaptak helyet, ahol a modern művészet találkozik a természettel.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrsar-skulpturenpark-du-an-d-amonja.webp", "coords": [13.610631, 45.159836]}, {"name": "Casanova-kilátó", "text": "Giacomo Casanova emlékére nevezték el, aki kétszer is járt itt; a hely romantikus panorámát kínál a naplementéhez.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/vrsar-casanova-aussichtspunkt.webp", "coords": [13.605206, 45.150576]}, {"name": "Vrsari Riva", "text": "A tengerparti sétány a város lüktető szíve, ahol a jachtok és halászhajók látványa mellett élvezhetjük a helyi gasztronómiát.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrsar-uferpromenade-riva.webp", "coords": [13.603662, 45.149198]}, {"name": "AeroPark", "text": "Szabadtéri repüléstörténeti múzeum a vrsari sportrepülőtéren, ahol régi repülőgépek és eszközök tekinthetők meg.", "category": "museum", "coords": [13.627616, 45.142667]}, {"name": "Dinopark Funtana", "text": "Népszerű családi tematikus park Vrsar közelében, élethű dinoszaurusz-modellekkel és előadásokkal.", "category": "recreational", "coords": [13.607909, 45.169216]}, {"name": "Gradska plaža", "text": "A Gradska plaža Vrsar partvidékének lüktető szíveként várja a látogatókat a város fő strandjaként. A tiszta víznek és a különféle szabadidős lehetőségeknek köszönhetően itt energikus, rendkívül családbarát légkör uralkodik. Az aktív úszók és a pihenni vágyók egyaránt megtalálják a tökéletes helyet a horvát nap alatt. A könnyű megközelíthetőség miatt ez a strand ideális kiindulópont egy változatos tengerparti naphoz.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Zvonik sv. Martin", "text": "A templom melletti 19. századi harangtoronyból panorámás kilátás nyílik a vrsari szigetvilágra.", "category": "natural", "coords": [13.606234, 45.150992]}, {"name": "Photo Gallery", "text": "Fotóművészeti galéria Vrsarban, amely egész évben különféle kiállításoknak ad otthont.", "category": "museum", "coords": [13.606663, 45.148609]}, {"name": "FKK Punta Križa", "text": "Ismert naturista strand Vrsar közelében, Isztrián.", "category": "recreational", "coords": [13.607716, 45.114884]}], "ro": [{"name": "Parcul de Sculpturi Dušan Džamonja", "text": "O expoziție în aer liber a operelor monumentale aparținând celebrului sculptor, integrate perfect în peisajul mediteranean local.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrsar-skulpturenpark-du-an-d-amonja.webp", "coords": [13.610631, 45.159836]}, {"name": "Belvedere Casanova", "text": "Un punct de observație numit după celebrul seducător, care a vizitat orașul, oferind cele mai frumoase imagini ale portului la amurg.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/vrsar-casanova-aussichtspunkt.webp", "coords": [13.605206, 45.150576]}, {"name": "Faleza Riva", "text": "Promenada vibrantă de-a lungul mării, locul ideal pentru plimbări relaxante printre ambarcațiuni și terase primitoare.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrsar-uferpromenade-riva.webp", "coords": [13.603662, 45.149198]}, {"name": "AeroPark", "text": "Un muzeu al aviației în aer liber situat la aerodromul sportiv din Vrsar, care expune avioane și echipamente vechi.", "category": "museum", "coords": [13.627616, 45.142667]}, {"name": "Dinopark Funtana", "text": "Un parc tematic popular pentru familii lângă Vrsar, cu modele de dinozauri în mărime naturală și spectacole.", "category": "recreational", "coords": [13.607909, 45.169216]}, {"name": "Gradska plaža", "text": "Gradska plaža reprezintă inima pulsantă a coastei din Vrsar, fiind principala plajă a orașului. Datorită apei limpezi și a diverselor facilități de agrement, aici domnește o atmosferă plină de energie, foarte potrivită pentru familii. Atât înotătorii activi, cât și cei care caută relaxare vor găsi locul perfect sub soarele croat. Datorită accesibilității excelente, această plajă este punctul de plecare ideal pentru o zi plină de varietate la malul mării.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Zvonik sv. Martin", "text": "Acest turn cu clopot din secolul al XIX-lea oferă o vedere panoramică asupra arhipelagului Vrsar.", "category": "natural", "coords": [13.606234, 45.150992]}, {"name": "Photo Gallery", "text": "O galerie din Vrsar dedicată fotografiei, care găzduiește diverse expoziții pe tot parcursul anului.", "category": "museum", "coords": [13.606663, 45.148609]}, {"name": "FKK Punta Križa", "text": "O plajă de naturiști cunoscută, situată lângă Vrsar în Istria.", "category": "recreational", "coords": [13.607716, 45.114884]}], "en": [{"name": "Dušan Džamonja Sculpture Park", "text": "A vast outdoor gallery featuring the monumental abstract works of the world-famous sculptor in a scenic coastal setting.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrsar-skulpturenpark-du-an-d-amonja.webp", "coords": [13.610631, 45.159836]}, {"name": "Casanova Viewpoint", "text": "Named after the legendary lover Giacomo Casanova who visited Vrsar, this spot offers a romantic view of the harbor and islands.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/vrsar-casanova-aussichtspunkt.webp", "coords": [13.605206, 45.150576]}, {"name": "Vrsar Riva", "text": "The town's lively seaside promenade, perfect for walking along the marina and enjoying traditional Mediterranean cuisine.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vrsar-uferpromenade-riva.webp", "coords": [13.603662, 45.149198]}, {"name": "AeroPark", "text": "An open-air aviation museum located at the Vrsar sports airport, showcasing old planes and equipment.", "category": "museum", "coords": [13.627616, 45.142667]}, {"name": "Dinopark Funtana", "text": "A popular family theme park near Vrsar featuring life-size dinosaur models and various shows.", "category": "recreational", "coords": [13.607909, 45.169216]}, {"name": "Gradska plaža", "text": "Gradska plaža serves as the beating heart of the Vrsar coastline and is beloved as the town's main beach. Featuring clear water and various recreational facilities, the atmosphere here is energetic and highly family-friendly. Both active swimmers and those looking to simply relax will find the perfect spot beneath the Croatian sun. Because of its easy accessibility, this beach is the ideal starting point for a versatile day by the sea.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Bell Tower St. Martin", "text": "This 19th-century bell tower offers a panoramic view of the Vrsar archipelago.", "category": "natural", "coords": [13.606234, 45.150992]}, {"name": "Photo Gallery", "text": "A gallery in Vrsar dedicated to photography, hosting various exhibitions throughout the year.", "category": "museum", "coords": [13.606663, 45.148609]}, {"name": "FKK Punta Križa", "text": "A well-known naturist beach located near Vrsar in Istria.", "category": "recreational", "coords": [13.607716, 45.114884]}], "hr": [{"name": "AeroPark", "text": "Muzej zrakoplovstva na otvorenom smješten na sportskom aerodromu u Vrsaru, koji prikazuje stare zrakoplove i opremu.", "category": "museum", "coords": [13.627616, 45.142667]}, {"name": "Dinopark Funtana", "text": "Popularni obiteljski tematski park u blizini Vrsara s maketama dinosaura u prirodnoj veličini i raznim predstavama.", "category": "recreational", "coords": [13.607909, 45.169216]}, {"name": "Gradska plaža", "text": "Glavna gradska plaža u Vrsaru koja nudi čisto more i razne rekreacijske sadržaje.", "category": "recreational", "coords": [13.604295, 45.153261]}, {"name": "Bell Tower St. Martin", "text": "Ovaj zvonik iz 19. stoljeća nudi panoramski pogled na vrsarski arhipelag.", "category": "natural", "coords": [13.606234, 45.150992]}, {"name": "Photo Gallery", "text": "Galerija u Vrsaru posvećena fotografiji koja tijekom cijele godine ugošćuje razne izložbe.", "category": "museum", "coords": [13.606663, 45.148609]}, {"name": "FKK Punta Križa", "text": "Poznata nudistička plaža smještena u blizini Vrsara u Istri.", "category": "recreational", "coords": [13.607716, 45.114884]}]}},
-  {"id": "banjole", "type": "city", "parent": "HR-18", "coords": [13.8717, 44.8333], "population": 3258, "tier": 3, "name": {"de": "Banjole", "hu": "Banjole", "ro": "Banjole", "en": "Banjole"}, "description": {"de": "Ein idyllisches Fischerdorf im Süden Istriens, bekannt für seine geschützten Buchten und erstklassigen Fischrestaurants.", "hu": "Idilli halászfalu Isztria déli részén, amely védett öbleiről és kiváló haléttermeiről ismert.", "ro": "Un sat de pescari idilic în sudul Istriei, cunoscut pentru golfurile sale protejate și restaurantele de pește de primă clasă.", "en": "An idyllic fishing village in southern Istria, known for its sheltered bays and top-quality seafood restaurants."}, "facts": {"de": ["Gehört zur Gemeinde Medulin", "Traditionelles Fischerdorf", "Mehrere geschützte Buchten", "Nahe der antiken Stadt Pula", "Zentrum für Sportfischerei", "Felsige Küste mit Pinien", "Überreste römischer Villen", "Beliebte Tauchreviere in der Nähe"], "hu": ["Medulin községhez tartozik", "Hagyományos halászfalu", "Számos védett öböl", "Közel az ókori Póla városhoz", "Sporthorgászati központ", "Sziklás partvidék fenyőkkel", "Római villák maradványai", "Népszerű búvárhelyek a közelben"], "ro": ["Aparține de municipalitatea Medulin", "Sat tradițional de pescari", "Mai multe golfuri protejate", "Aproape de orașul antic Pula", "Centru pentru pescuit sportiv", "Coastă stâncoasă cu pini", "Rămășițe ale vilelor romane", "Locuri populare pentru scufundări în apropiere"], "en": ["Belongs to Medulin municipality", "Traditional fishing village", "Multiple sheltered bays", "Near the ancient city of Pula", "Center for sport fishing", "Rocky coastline with pines", "Remains of Roman villas", "Popular diving spots nearby"]}, "image": "/poi-images/banjole.webp", "imageHint": "Boats in the small harbor and coastline of Banjole", "descriptionAdvanced": {"de": "Banjole liegt auf einer kleinen Halbinsel im Süden Istriens und hat sich trotz des Tourismus den Charme eines alten Fischerdorfes bewahrt. Die zerklüftete Küste bietet zahlreiche kleine Buchten und Halbinseln, die ideal zum Schwimmen, Segeln und Tauchen sind. Besonders bekannt ist der Ort für seine gastronomische Vielfalt; die lokalen Fischer beliefern die Restaurants täglich mit frischem Fang, was Banjole zu einem Geheimtipp für Feinschmecker macht. Historisch gesehen war die Gegend bereits in der Römerzeit besiedelt, wovon Ruinen in der Paltana-Bucht zeugen. Die umliegende Natur mit ihren Pinienwäldern bietet reichlich Schatten und lädt zu Spaziergängen oder Radtouren entlang der Küste ein. Die Nähe zu Pula und dem Naturpark Kap Kamenjak macht es zu einem idealen Ausgangspunkt für Entdeckungen.", "hu": "Banjole Isztria déli részén, egy kis félszigeten fekszik, és a turizmus ellenére is megőrizte egy régi halászfalu báját. A tagolt tengerpart számos kis öblöt és félszigetet kínál, amelyek ideálisak úszáshoz, vitorlázáshoz és búvárkodáshoz. A település különösen híres gasztronómiai kínálatáról; a helyi halászok naponta friss fogással látják el az éttermeket, így Banjole az ínyencek titkos tippje. Történelmileg a terület már a római korban is lakott volt, amiről a Paltana-öbölben található romok tanúskodnak. A környező természet fenyőerdőivel bőséges árnyékot ad, és parti sétákra vagy kerékpártúrákra csábít. Pula és a Kamenjak-fok Natúrpark közelsége ideális kiindulóponttá teszi a felfedezésekhez.", "ro": "Banjole este situat pe o mică peninsulă în sudul Istriei și, în ciuda turismului, și-a păstrat farmecul unui vechi sat de pescari. Coasta dantelată oferă numeroase golfulețe și peninsule care sunt ideale pentru înot, navigație și scufundări. Localitatea este renumită în special pentru varietatea sa gastronomică; pescarii locali aprovizionează zilnic restaurantele cu captură proaspătă, făcând din Banjole un pont secret pentru gurmanzi. Din punct de vedere istoric, zona a fost locuită încă din epoca romană, dovadă fiind ruinele din golful Paltana. Natura înconjurătoare, cu pădurile sale de pini, oferă umbră din abundență și invită la plimbări sau excursii cu bicicleta de-a lungul coastei. Proximitatea față de Pula și parcul natural Kap Kamenjak o face un punct de plecare ideal pentru explorări.", "en": "Banjole is located on a small peninsula in southern Istria and has retained the charm of an old fishing village despite tourism. The jagged coastline offers numerous small bays and peninsulas ideal for swimming, sailing, and diving. The town is particularly famous for its gastronomic variety; local fishermen supply restaurants with fresh catches daily, making Banjole a hidden gem for foodies. Historically, the area was settled as early as Roman times, evidenced by ruins in the Paltana bay. The surrounding nature with its pine forests provides plenty of shade and invites walks or bike rides along the coast. Proximity to Pula and the Cape Kamenjak Nature Park makes it an ideal starting point for exploration."}, "factsAdvanced": {"de": ["In der Paltana-Bucht wurden Überreste römischer Thermen gefunden.", "Der Name stammt vom lateinischen 'balneolum' (kleines Bad).", "Das Dorf liegt nur 6 Kilometer vom Stadtzentrum Pulas entfernt.", "Der Ort ist bekannt für seine hervorragenden privaten Unterkünfte.", "Die Bucht Soline ist fast vollständig vom offenen Meer abgeschlossen.", "Der nahegelegene Berg Centener bietet einen Panoramablick."], "hu": ["A Paltana-öbölben római kori termálfürdők maradványait találták meg.", "A név a latin 'balneolum' (kis fürdő) szóból származik.", "A falu mindössze 6 kilométerre fekszik Pula városközpontjától.", "A település kiváló magánszállásairól ismert.", "A Soline-öböl szinte teljesen el van zárva a nyílt tengertől.", "A közeli Centener-hegy panorámás kilátást nyújt."], "ro": ["În golful Paltana au fost găsite rămășițe ale unor băi termale romane.", "Numele provine din latinescul 'balneolum' (baie mică).", "Satul se află la doar 6 kilometri de centrul orașului Pula.", "Localitatea este cunoscută pentru unitățile sale de cazare private excelente.", "Golful Soline este aproape complet închis față de marea deschisă.", "Muntele Centener din apropiere oferă o vedere panoramică."], "en": ["Remains of Roman thermal baths were found in Paltana bay.", "The name originates from the Latin 'balneolum' (small bath).", "The village is located just 6 kilometers from Pula city center.", "The town is known for its excellent private accommodations.", "Soline bay is almost completely enclosed from the open sea.", "The nearby Centener hill offers a panoramic view."]}, "sights": {"de": [{"name": "Strand Centinera", "text": "Der Strand Centinera in Banjole ist eine wunderschöne Kieselbucht, die von imposanten, jahrhundertealten Pinien eingerahmt wird. Als beliebtester Strand der Gegend ist die Atmosphäre fröhlich, familienfreundlich und einladend. Die Kinder können im flachen Wasser spielen, während die Erwachsenen den tiefen Schatten der Bäume genießen. Für einen langen, entspannten Familientag in der Natur ist dieser Ort schlichtweg perfekt.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/banjole-strand-centinera.webp", "coords": [13.856731, 44.820816]}, {"name": "Bucht Soline", "text": "Ein flaches Meeresgebiet, das für seine reiche Flora und Fauna sowie für entspannte Spaziergänge bekannt ist.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/banjole-bucht-soline.webp", "coords": [13.862619, 44.829354]}, {"name": "Yachthafen Volme", "text": "Ein kleiner, moderner Hafen in der benachbarten Siedlung Volme, ideal für einen Abendspaziergang.", "category": "port", "confidence": "medium", "image": "/poi-images/sights/banjole-yachthafen-volme.webp", "coords": [13.871112, 44.819122]}, {"name": "Fort Casoni Vecchi", "text": "Eine österreichisch-ungarische Küstenfestung aus dem 19. Jahrhundert auf dem Monte Cippo bei Banjole.", "category": "fortress", "coords": [13.84592, 44.852757]}, {"name": "Svjetionik Rt Verudica", "text": "Ein im Jahr 1881 erbauter Leuchtturm auf dem Kap Verudica nahe der Hafeneinfahrt von Pula.", "category": "landmark", "coords": [13.83367, 44.83321]}, {"name": "Strand Pomer", "text": "Der Strand Pomer bei Banjole bietet eine reizvolle Mischung aus Kies- und Felsabschnitten in der Bucht von Medulin. Die beruhigende Atmosphäre und das auffallend ruhige Wasser machen den Strand zu einer echten Oase der Entspannung. Schwimmer können hier ungestört ihre Bahnen ziehen und Sonnenanbeter finden Platz auf den warmen Steinen. Es ist der ideale Ort für einen ruhigen Rückzug am Nachmittag.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Kayak Centar Pula", "text": "Ein Küstenabschnitt bei Banjole, wo Besucher Kajak fahren und Meereshöhlen erkunden können.", "category": "recreational", "coords": [13.835556, 44.834881]}, {"name": "Jangalooz Adventure Park", "text": "Ein Abenteuerpark in Banjole mit verschiedenen Kletterparcours für die ganze Familie.", "category": "recreational", "coords": [13.882274, 44.823984]}, {"name": "Ščuza", "text": "Ein ruhiger Kieselstrand in Banjole, ideal zum Entspannen am klaren Meer.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Velika Kava", "text": "Ein natürlicher Strand in der Nähe von Banjole, bekannt für seine felsige Küste.", "category": "recreational", "coords": [13.855559, 44.832683]}, {"name": "Lijom", "text": "Ein kleiner, abgelegener Strand in Banjole, der Ruhe und klares Wasser bietet.", "category": "recreational", "coords": [13.869183, 44.821796]}, {"name": "Aquapark Wibit Šćuza", "text": "Ein schwimmender Hindernisparcours am Strand Šćuza in Banjole.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Parasailing Banjole", "text": "Ein Anbieter für Parasailing in Banjole, der Flüge über die Küste Istriens anbietet.", "category": "landmark", "coords": [13.865718, 44.821143]}, {"name": "Avion-vjetrokaz", "text": "Ein markanter Wetterhahn in Form eines Flugzeugs in der Nähe von Banjole.", "category": "landmark", "coords": [13.903299, 44.845141]}, {"name": "Bakranjuša", "text": "Der See Bakranjuša in Banjole ist ein ruhiges Plätzchen in der Natur, ideal für kleine Wanderungen.", "category": "natural", "coords": [13.93063, 44.872056]}], "hu": [{"name": "Centinera-strand", "text": "A banjolei Centinera strand egy gyönyörű kavicsos öböl, amelyet lenyűgöző, évszázados fenyők vesznek körül. A környék legnépszerűbb strandjaként a hangulat vidám, családbarát és rendkívül hívogató. A gyerekek a sekély vízben játszhatnak, míg a felnőttek a fák mély árnyékát élvezhetik. Egy hosszú, pihentető, természetben eltöltött családi naphoz ez a hely egyszerűen tökéletes.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/banjole-strand-centinera.webp", "coords": [13.856731, 44.820816]}, {"name": "Soline-öböl", "text": "Sekély tengeri terület, amely gazdag élővilágáról és a nyugodt tengerparti sétákról ismert.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/banjole-bucht-soline.webp", "coords": [13.862619, 44.829354]}, {"name": "Volme kikötő", "text": "A szomszédos Volme település modern kishajó-kikötője, ideális egy esti sétához a móló mentén.", "category": "port", "confidence": "medium", "image": "/poi-images/sights/banjole-yachthafen-volme.webp", "coords": [13.871112, 44.819122]}, {"name": "Fort Casoni Vecchi", "text": "19. századi osztrák–magyar parti erőd a Monte Cippo dombon, Banjole közelében.", "category": "fortress", "coords": [13.84592, 44.852757]}, {"name": "Svjetionik Rt Verudica", "text": "1881-ben épült világítótorony a Verudica-fokon, a pulai kikötő bejáratának közelében.", "category": "landmark", "coords": [13.83367, 44.83321]}, {"name": "Pomer", "text": "A Banjole melletti Pomer strand a kavicsos és sziklás részek bájos keverékét kínálja a medulini öbölben. A nyugtató légkör és a feltűnően csendes víz igazi pihentető oázissá varázsolja ezt a helyet. Az úszók zavartalanul szelhetik a habokat, a napozni vágyók pedig kényelmes helyet találhatnak a meleg köveken. Ideális választás egy csendes délutáni elvonuláshoz.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Kayak Centar Pula", "text": "Tengerparti szakasz Banjole közelében, ahol a látogatók kajakozhatnak és barlangokat fedezhetnek fel.", "category": "recreational", "coords": [13.835556, 44.834881]}, {"name": "Jangalooz Adventure Park", "text": "Kalandpark Banjole településén, ahol különféle kötélpályák várják a családokat.", "category": "recreational", "coords": [13.882274, 44.823984]}, {"name": "Ščuza", "text": "Nyugodt kavicsos strand Banjole közelében, ideális pihenésre a tiszta tengerparton.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Velika Kava", "text": "Természetes strand Banjole környékén, amely sziklás partjáról ismert.", "category": "recreational", "coords": [13.855559, 44.832683]}, {"name": "Lijom", "text": "Kicsi, eldugott strand Banjolében, amely nyugalmat és tiszta vizet kínál.", "category": "recreational", "coords": [13.869183, 44.821796]}, {"name": "Aquapark Wibit Šćuza", "text": "Úszó akadálypálya a Banjole melletti Šćuza strandon.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Parasailing Banjole", "text": "Parasailing szolgáltató Banjolében, amely repüléseket kínál az isztriai partok felett.", "category": "landmark", "coords": [13.865718, 44.821143]}, {"name": "Avion-vjetrokaz", "text": "Repülőgép alakú szélkakas, amely jellegzetes látványosság Banjole közelében.", "category": "landmark", "coords": [13.903299, 44.845141]}, {"name": "Bakranjuša", "text": "A Banjole-ben található Bakranjuša tó egy csendes természeti sarok, ideális kisebb túrákhoz.", "category": "natural", "coords": [13.93063, 44.872056]}], "ro": [{"name": "Plaja Centinera", "text": "Plaja Centinera din Banjole este un golf minunat cu pietriș, încadrat de pini seculari impunători. Fiind cea mai populară plajă din zonă, atmosfera este veselă, prietenoasă cu familiile și foarte primitoare. Copiii se pot juca în apa puțin adâncă, în timp ce adulții se pot bucura de umbra densă a copacilor. Pentru o zi lungă și relaxantă în familie, în mijlocul naturii, acest loc este pur și simplu perfect.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/banjole-strand-centinera.webp", "coords": [13.856731, 44.820816]}, {"name": "Golful Soline", "text": "O zonă cu apă puțin adâncă, cunoscută pentru biodiversitatea sa și pentru plimbările relaxante pe mal.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/banjole-bucht-soline.webp", "coords": [13.862619, 44.829354]}, {"name": "Marina Volme", "text": "Un port mic și modern situat în așezarea vecină Volme, perfect pentru o plimbare de seară.", "category": "port", "confidence": "medium", "image": "/poi-images/sights/banjole-yachthafen-volme.webp", "coords": [13.871112, 44.819122]}, {"name": "Fort Casoni Vecchi", "text": "O fortăreață de coastă austro-ungară din secolul al XIX-lea, situată pe muntele Cippo lângă Banjole.", "category": "fortress", "coords": [13.84592, 44.852757]}, {"name": "Svjetionik Rt Verudica", "text": "Un far construit în 1881, situat pe capul Verudica, lângă intrarea în portul Pula.", "category": "landmark", "coords": [13.83367, 44.83321]}, {"name": "Pomer", "text": "Plaja Pomer de lângă Banjole oferă un amestec fermecător de zone cu pietriș și stânci, situat în golful Medulin. Atmosfera liniștitoare și apa remarcabil de calmă fac din această plajă o adevărată oază de relaxare. Înotătorii își pot face turele netulburați, iar iubitorii de soare pot găsi un loc plăcut pe pietrele calde. Este refugiul ideal pentru o după-amiază pașnică.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Kayak Centar Pula", "text": "O zonă de coastă lângă Banjole unde vizitatorii se pot bucura de caiac și pot explora peșterile marine.", "category": "recreational", "coords": [13.835556, 44.834881]}, {"name": "Jangalooz Adventure Park", "text": "Un parc de aventură în Banjole, oferind diverse trasee de cățărare pentru toate vârstele.", "category": "recreational", "coords": [13.882274, 44.823984]}, {"name": "Ščuza", "text": "O plajă liniștită cu pietriș în Banjole, ideală pentru relaxare la malul mării.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Velika Kava", "text": "O plajă naturală lângă Banjole, cunoscută pentru coasta sa stâncoasă.", "category": "recreational", "coords": [13.855559, 44.832683]}, {"name": "Lijom", "text": "O plajă mică și retrasă în Banjole, care oferă liniște și apă curată.", "category": "recreational", "coords": [13.869183, 44.821796]}, {"name": "Aquapark Wibit Šćuza", "text": "Un traseu cu obstacole plutitoare situat pe plaja Šćuza din Banjole.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Parasailing Banjole", "text": "Un serviciu de parasailing în Banjole, care oferă zboruri deasupra coastei Istriene.", "category": "landmark", "coords": [13.865718, 44.821143]}, {"name": "Avion-vjetrokaz", "text": "O giruetă distinctivă în formă de avion, situată în apropiere de Banjole.", "category": "landmark", "coords": [13.903299, 44.845141]}, {"name": "Bakranjuša", "text": "Lacul Bakranjuša din Banjole este un loc liniștit în natură, ideal pentru drumeții scurte.", "category": "natural", "coords": [13.93063, 44.872056]}], "en": [{"name": "Centinera Beach", "text": "Centinera Beach in Banjole is a beautiful gravel bay framed by imposing, centuries-old pine trees. As the most popular beach in the area, the atmosphere is cheerful, family-friendly, and very welcoming. Children can play in the shallows while adults enjoy the deep shade provided by the trees. For a long, relaxed family day surrounded by nature, this location is simply perfect.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/banjole-strand-centinera.webp", "coords": [13.856731, 44.820816]}, {"name": "Soline Bay", "text": "A shallow maritime area known for its rich biodiversity and peaceful coastal environment for walking.", "category": "natural features", "confidence": "medium", "image": "/poi-images/sights/banjole-bucht-soline.webp", "coords": [13.862619, 44.829354]}, {"name": "Volme Marina", "text": "A small, modern marina in the adjacent settlement of Volme, perfect for a relaxing evening stroll.", "category": "port", "confidence": "medium", "image": "/poi-images/sights/banjole-yachthafen-volme.webp", "coords": [13.871112, 44.819122]}, {"name": "Fort Casoni Vecchi", "text": "A 19th-century Austro-Hungarian coastal fort located on Monte Cippo near Banjole.", "category": "fortress", "coords": [13.84592, 44.852757]}, {"name": "Svjetionik Rt Verudica", "text": "A lighthouse built in 1881, situated on the Verudica cape near the entrance to Pula harbor.", "category": "landmark", "coords": [13.83367, 44.83321]}, {"name": "Pomer", "text": "Pomer Beach near Banjole features a charming mix of gravel and rocky sections within the bay of Medulin. The soothing atmosphere and the remarkably calm water make the beach a true oasis of relaxation. Swimmers can do their laps undisturbed, and sun worshippers will find a nice spot on the warm stones. It is the perfect location for a quiet afternoon retreat.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Kayak Centar Pula", "text": "A coastal area near Banjole where visitors can enjoy kayaking and explore sea caves.", "category": "recreational", "coords": [13.835556, 44.834881]}, {"name": "Jangalooz Adventure Park", "text": "An adventure park in Banjole featuring various climbing courses for families.", "category": "recreational", "coords": [13.882274, 44.823984]}, {"name": "Ščuza", "text": "A quiet pebble beach in Banjole, ideal for relaxing by the clear sea.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Velika Kava", "text": "A natural beach near Banjole, known for its rocky coastline.", "category": "recreational", "coords": [13.855559, 44.832683]}, {"name": "Lijom", "text": "A small, secluded beach in Banjole offering tranquility and clear water.", "category": "recreational", "coords": [13.869183, 44.821796]}, {"name": "Aquapark Wibit Šćuza", "text": "A floating obstacle course located at Šćuza beach in Banjole.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Parasailing Banjole", "text": "A parasailing provider in Banjole offering flights over the Istrian coast.", "category": "landmark", "coords": [13.865718, 44.821143]}, {"name": "Avion-vjetrokaz", "text": "A distinctive weather vane in the shape of an airplane near Banjole.", "category": "landmark", "coords": [13.903299, 44.845141]}, {"name": "Bakranjuša", "text": "The Bakranjuša lake in Banjole is a quiet spot in nature, ideal for short hikes.", "category": "natural", "coords": [13.93063, 44.872056]}], "hr": [{"name": "Fort Casoni Vecchi", "text": "Austrougarska obalna utvrda iz 19. stoljeća smještena na brdu Monte Cippo kod Banjola.", "category": "fortress", "coords": [13.84592, 44.852757]}, {"name": "Svjetionik Rt Verudica", "text": "Svjetionik izgrađen 1881. godine, smješten na rtu Verudica u blizini ulaza u pulsku luku.", "category": "landmark", "coords": [13.83367, 44.83321]}, {"name": "Pomer", "text": "Šljunčana i stjenovita plaža u zaljevu Medulin, popularna zbog mirnog mora.", "category": "recreational", "coords": [13.899064, 44.817931]}, {"name": "Kayak Centar Pula", "text": "Obalno područje kod Banjola gdje posjetitelji mogu uživati u vožnji kajakom i istraživanju špilja.", "category": "recreational", "coords": [13.835556, 44.834881]}, {"name": "Jangalooz Adventure Park", "text": "Adrenalinski park u Banjolama s raznim stazama za penjanje prilagođenim svim uzrastima.", "category": "recreational", "coords": [13.882274, 44.823984]}, {"name": "Ščuza", "text": "Mirna šljunčana plaža u Banjolama, idealna za opuštanje uz čisto more.", "category": "recreational", "coords": [13.898883, 44.816214]}, {"name": "Velika Kava", "text": "Prirodna plaža u blizini Banjola, poznata po svojoj stjenovitoj obali.", "category": "recreational", "coords": [13.855559, 44.832683]}, {"name": "Lijom", "text": "Mala, osamljena plaža u Banjolama koja nudi mir i čisto more.", "category": "recreational", "coords": [13.869183, 44.821796]}, {"name": "Aquapark Wibit Šćuza", "text": "Plutajući poligon s preprekama na plaži Šćuza u Banjolama.", "category": "recreational", "coords": [13.900402, 44.815964]}, {"name": "Parasailing Banjole", "text": "Pružatelj usluga parasailinga u Banjolama koji nudi letove iznad istarske obale.", "category": "landmark", "coords": [13.865718, 44.821143]}, {"name": "Avion-vjetrokaz", "text": "Prepoznatljiv vjetrokaz u obliku zrakoplova koji se nalazi u blizini Banjola.", "category": "landmark", "coords": [13.903299, 44.845141]}]}},
+  {"id": "banjole", "type": "city", "parent": "HR-18", "coords": [13.8717, 44.8333], "population": 3258, "tier": 3, "name": {"de": "Banjole", "hu": "Banjole", "ro": "Banjole", "en": "Banjole"}, "description": {"de": "Ein idyllisches Fischerdorf im Süden Istriens, bekannt für seine geschützten Buchten und erstklassigen Fischrestaurants.", "hu": "Idilli halászfalu Isztria déli részén, amely védett öbleiről és kiváló haléttermeiről ismert.", "ro": "Un sat de pescari idilic în sudul Istriei, cunoscut pentru golfurile sale protejate și restaurantele de pește de primă clasă.", "en": "An idyllic fishing village in southern Istria, known for its sheltered bays and top-quality seafood restaurants."}, "facts": {"de": ["Gehört zur Gemeinde Medulin", "Traditionelles Fischerdorf", "Mehrere geschützte Buchten", "Nahe der antiken Stadt Pula", "Zentrum für Sportfischerei", "Felsige Küste mit Pinien", "Überreste römischer Villen", "Beliebte Tauchreviere in der Nähe"], "hu": ["Medulin községhez tartozik", "Hagyományos halászfalu", "Számos védett öböl", "Közel az ókori Póla városhoz", "Sporthorgászati központ", "Sziklás partvidék fenyőkkel", "Római villák maradványai", "Népszerű búvárhelyek a közelben"], "ro": ["Aparține de municipalitatea Medulin", "Sat tradițional de pescari", "Mai multe golfuri protejate", "Aproape de orașul antic Pula", "Centru pentru pescuit sportiv", "Coastă stâncoasă cu pini", "Rămășițe ale vilelor romane", "Locuri populare pentru scufundări în apropiere"], "en": ["Belongs to Medulin municipality", "Traditional fishing village", "Multiple sheltered bays", "Near the ancient city of Pula", "Center for sport fishing", "Rocky coastline with pines", "Remains of Roman villas", "Popular diving spots nearby"]}, "image": "/poi-images/banjole.webp", "imageHint": "Boats in the small harbor and coastline of Banjole", "descriptionAdvanced": {"de": "Banjole liegt auf einer kleinen Halbinsel im Süden Istriens und hat sich trotz des Tourismus den Charme eines alten Fischerdorfes bewahrt. Die zerklüftete Küste bietet zahlreiche kleine Buchten und Halbinseln, die ideal zum Schwimmen, Segeln und Tauchen sind. Besonders bekannt ist der Ort für seine gastronomische Vielfalt; die lokalen Fischer beliefern die Restaurants täglich mit frischem Fang, was Banjole zu einem Geheimtipp für Feinschmecker macht. Historisch gesehen war die Gegend bereits in der Römerzeit besiedelt, wovon Ruinen in der Paltana-Bucht zeugen. Die umliegende Natur mit ihren Pinienwäldern bietet reichlich Schatten und lädt zu Spaziergängen oder Radtouren entlang der Küste ein. Die Nähe zu Pula und dem Naturpark Kap Kamenjak macht es zu einem idealen Ausgangspunkt für Entdeckungen.", "hu": "Banjole Isztria déli részén, egy kis félszigeten fekszik, és a turizmus ellenére is megőrizte egy régi halászfalu báját. A tagolt tengerpart számos kis öblöt és félszigetet kínál, amelyek ideálisak úszáshoz, vitorlázáshoz és búvárkodáshoz. A település különösen híres gasztronómiai kínálatáról; a helyi halászok naponta friss fogással látják el az éttermeket, így Banjole az ínyencek titkos tippje. Történelmileg a terület már a római korban is lakott volt, amiről a Paltana-öbölben található romok tanúskodnak. A környező természet fenyőerdőivel bőséges árnyékot ad, és parti sétákra vagy kerékpártúrákra csábít. Pula és a Kamenjak-fok Natúrpark közelsége ideális kiindulóponttá teszi a felfedezésekhez.", "ro": "Banjole este situat pe o mică peninsulă în sudul Istriei și, în ciuda turismului, și-a păstrat farmecul unui vechi sat de pescari. Coasta dantelată oferă numeroase golfulețe și peninsule care sunt ideale pentru înot, navigație și scufundări. Localitatea este renumită în special pentru varietatea sa gastronomică; pescarii locali aprovizionează zilnic restaurantele cu captură proaspătă, făcând din Banjole un pont secret pentru gurmanzi. Din punct de vedere istoric, zona a fost locuită încă din epoca romană, dovadă fiind ruinele din golful Paltana. Natura înconjurătoare, cu pădurile sale de pini, oferă umbră din abundență și invită la plimbări sau excursii cu bicicleta de-a lungul coastei. Proximitatea față de Pula și parcul natural Kap Kamenjak o face un punct de plecare ideal pentru explorări.", "en": "Banjole is located on a small peninsula in southern Istria and has retained the charm of an old fishing village despite tourism. The jagged coastline offers numerous small bays and peninsulas ideal for swimming, sailing, and diving. The town is particularly famous for its gastronomic variety; local fishermen supply restaurants with fresh catches daily, making Banjole a hidden gem for foodies. Historically, the area was settled as early as Roman times, evidenced by ruins in the Paltana bay. The surrounding nature with its pine forests provides plenty of shade and invites walks or bike rides along the coast. Proximity to Pula and the Cape Kamenjak Nature Park makes it an ideal starting point for exploration."}, "factsAdvanced": {"de": ["In der Paltana-Bucht wurden Überreste römischer Thermen gefunden.", "Der Name stammt vom lateinischen 'balneolum' (kleines Bad).", "Das Dorf liegt nur 6 Kilometer vom Stadtzentrum Pulas entfernt.", "Der Ort ist bekannt für seine hervorragenden privaten Unterkünfte.", "Die Bucht Soline ist fast vollständig vom offenen Meer abgeschlossen.", "Der nahegelegene Berg Centener bietet einen Panoramablick."], "hu": ["A Paltana-öbölben római kori termálfürdők maradványait találták meg.", "A név a latin 'balneolum' (kis fürdő) szóból származik.", "A falu mindössze 6 kilométerre fekszik Pula városközpontjától.", "A település kiváló magánszállásairól ismert.", "A Soline-öböl szinte teljesen el van zárva a nyílt tengertől.", "A közeli Centener-hegy panorámás kilátást nyújt."], "ro": ["În golful Paltana au fost găsite rămășițe ale unor băi termale romane.", "Numele provine din latinescul 'balneolum' (baie mică).", "Satul se află la doar 6 kilometri de centrul orașului Pula.", "Localitatea este cunoscută pentru unitățile sale de cazare private excelente.", "Golful Soline este aproape complet închis față de marea deschisă.", "Muntele Centener din apropiere oferă o vedere panoramică."], "en": ["Remains of Roman thermal baths were found in Paltana bay.", "The name originates from the Latin 'balneolum' (small bath).", "The village is located just 6 kilometers from Pula city center.", "The town is known for its excellent private accommodations.", "Soline bay is almost completely enclosed from the open sea.", "The nearby Centener hill offers a panoramic view."]}, "sights": {
+      "de": [
+            {
+                  "name": "Strand Centinera",
+                  "text": "Der Strand Centinera in Banjole ist eine wunderschöne Kieselbucht, die von imposanten, jahrhundertealten Pinien eingerahmt wird. Als beliebtester Strand der Gegend ist die Atmosphäre fröhlich, familienfreundlich und einladend. Die Kinder können im flachen Wasser spielen, während die Erwachsenen den tiefen Schatten der Bäume genießen. Für einen langen, entspannten Familientag in der Natur ist dieser Ort schlichtweg perfekt.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/banjole-strand-centinera.webp",
+                  "coords": [
+                        13.856731,
+                        44.820816
+                  ]
+            },
+            {
+                  "name": "Bucht Soline",
+                  "text": "Ein flaches Meeresgebiet, das für seine reiche Flora und Fauna sowie für entspannte Spaziergänge bekannt ist.",
+                  "category": "natural features",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/banjole-bucht-soline.webp",
+                  "coords": [
+                        13.862619,
+                        44.829354
+                  ]
+            },
+            {
+                  "name": "Yachthafen Volme",
+                  "text": "Ein kleiner, moderner Hafen in der benachbarten Siedlung Volme, ideal für einen Abendspaziergang.",
+                  "category": "port",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/banjole-yachthafen-volme.webp",
+                  "coords": [
+                        13.871112,
+                        44.819122
+                  ]
+            },
+            {
+                  "name": "Fort Casoni Vecchi",
+                  "text": "Eine österreichisch-ungarische Küstenfestung aus dem 19. Jahrhundert auf dem Monte Cippo bei Banjole.",
+                  "category": "fortress",
+                  "coords": [
+                        13.84592,
+                        44.852757
+                  ]
+            },
+            {
+                  "name": "Svjetionik Rt Verudica",
+                  "text": "Ein im Jahr 1881 erbauter Leuchtturm auf dem Kap Verudica nahe der Hafeneinfahrt von Pula.",
+                  "category": "landmark",
+                  "coords": [
+                        13.83367,
+                        44.83321
+                  ]
+            },
+            {
+                  "name": "Strand Pomer",
+                  "text": "Der Strand Pomer bei Banjole bietet eine reizvolle Mischung aus Kies- und Felsabschnitten in der Bucht von Medulin. Die beruhigende Atmosphäre und das auffallend ruhige Wasser machen den Strand zu einer echten Oase der Entspannung. Schwimmer können hier ungestört ihre Bahnen ziehen und Sonnenanbeter finden Platz auf den warmen Steinen. Es ist der ideale Ort für einen ruhigen Rückzug am Nachmittag.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Kayak Centar Pula",
+                  "text": "Ein Küstenabschnitt bei Banjole, wo Besucher Kajak fahren und Meereshöhlen erkunden können.",
+                  "category": "recreational",
+                  "coords": [
+                        13.835556,
+                        44.834881
+                  ]
+            },
+            {
+                  "name": "Jangalooz Adventure Park",
+                  "text": "Ein Abenteuerpark in Banjole mit verschiedenen Kletterparcours für die ganze Familie.",
+                  "category": "recreational",
+                  "coords": [
+                        13.882274,
+                        44.823984
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "Ein ruhiger Kieselstrand in Banjole, ideal zum Entspannen am klaren Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Velika Kava",
+                  "text": "Ein natürlicher Strand in der Nähe von Banjole, bekannt für seine felsige Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.855559,
+                        44.832683
+                  ]
+            },
+            {
+                  "name": "Lijom",
+                  "text": "Ein kleiner, abgelegener Strand in Banjole, der Ruhe und klares Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        13.869183,
+                        44.821796
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "Ein schwimmender Hindernisparcours am Strand Šćuza in Banjole.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Parasailing Banjole",
+                  "text": "Ein Anbieter für Parasailing in Banjole, der Flüge über die Küste Istriens anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.865718,
+                        44.821143
+                  ]
+            },
+            {
+                  "name": "Avion-vjetrokaz",
+                  "text": "Ein markanter Wetterhahn in Form eines Flugzeugs in der Nähe von Banjole.",
+                  "category": "landmark",
+                  "coords": [
+                        13.903299,
+                        44.845141
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Der See Bakranjuša in Banjole ist ein ruhiges Plätzchen in der Natur, ideal für kleine Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
+            },
+            {
+                  "name": "Aquarium Pula",
+                  "text": "Aquarium Pula in Banjole ist ein schönes Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        13.832864,
+                        44.835144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centinera-strand",
+                  "text": "A banjolei Centinera strand egy gyönyörű kavicsos öböl, amelyet lenyűgöző, évszázados fenyők vesznek körül. A környék legnépszerűbb strandjaként a hangulat vidám, családbarát és rendkívül hívogató. A gyerekek a sekély vízben játszhatnak, míg a felnőttek a fák mély árnyékát élvezhetik. Egy hosszú, pihentető, természetben eltöltött családi naphoz ez a hely egyszerűen tökéletes.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/banjole-strand-centinera.webp",
+                  "coords": [
+                        13.856731,
+                        44.820816
+                  ]
+            },
+            {
+                  "name": "Soline-öböl",
+                  "text": "Sekély tengeri terület, amely gazdag élővilágáról és a nyugodt tengerparti sétákról ismert.",
+                  "category": "natural features",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/banjole-bucht-soline.webp",
+                  "coords": [
+                        13.862619,
+                        44.829354
+                  ]
+            },
+            {
+                  "name": "Volme kikötő",
+                  "text": "A szomszédos Volme település modern kishajó-kikötője, ideális egy esti sétához a móló mentén.",
+                  "category": "port",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/banjole-yachthafen-volme.webp",
+                  "coords": [
+                        13.871112,
+                        44.819122
+                  ]
+            },
+            {
+                  "name": "Fort Casoni Vecchi",
+                  "text": "19. századi osztrák–magyar parti erőd a Monte Cippo dombon, Banjole közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        13.84592,
+                        44.852757
+                  ]
+            },
+            {
+                  "name": "Svjetionik Rt Verudica",
+                  "text": "1881-ben épült világítótorony a Verudica-fokon, a pulai kikötő bejáratának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.83367,
+                        44.83321
+                  ]
+            },
+            {
+                  "name": "Pomer",
+                  "text": "A Banjole melletti Pomer strand a kavicsos és sziklás részek bájos keverékét kínálja a medulini öbölben. A nyugtató légkör és a feltűnően csendes víz igazi pihentető oázissá varázsolja ezt a helyet. Az úszók zavartalanul szelhetik a habokat, a napozni vágyók pedig kényelmes helyet találhatnak a meleg köveken. Ideális választás egy csendes délutáni elvonuláshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Kayak Centar Pula",
+                  "text": "Tengerparti szakasz Banjole közelében, ahol a látogatók kajakozhatnak és barlangokat fedezhetnek fel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.835556,
+                        44.834881
+                  ]
+            },
+            {
+                  "name": "Jangalooz Adventure Park",
+                  "text": "Kalandpark Banjole településén, ahol különféle kötélpályák várják a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        13.882274,
+                        44.823984
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "Nyugodt kavicsos strand Banjole közelében, ideális pihenésre a tiszta tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Velika Kava",
+                  "text": "Természetes strand Banjole környékén, amely sziklás partjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.855559,
+                        44.832683
+                  ]
+            },
+            {
+                  "name": "Lijom",
+                  "text": "Kicsi, eldugott strand Banjolében, amely nyugalmat és tiszta vizet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.869183,
+                        44.821796
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "Úszó akadálypálya a Banjole melletti Šćuza strandon.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Parasailing Banjole",
+                  "text": "Parasailing szolgáltató Banjolében, amely repüléseket kínál az isztriai partok felett.",
+                  "category": "landmark",
+                  "coords": [
+                        13.865718,
+                        44.821143
+                  ]
+            },
+            {
+                  "name": "Avion-vjetrokaz",
+                  "text": "Repülőgép alakú szélkakas, amely jellegzetes látványosság Banjole közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.903299,
+                        44.845141
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "A Banjole-ben található Bakranjuša tó egy csendes természeti sarok, ideális kisebb túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
+            },
+            {
+                  "name": "Aquarium Pula",
+                  "text": "A Banjole városában lévő Aquarium Pula vidám helyszín egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.832864,
+                        44.835144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Centinera",
+                  "text": "Plaja Centinera din Banjole este un golf minunat cu pietriș, încadrat de pini seculari impunători. Fiind cea mai populară plajă din zonă, atmosfera este veselă, prietenoasă cu familiile și foarte primitoare. Copiii se pot juca în apa puțin adâncă, în timp ce adulții se pot bucura de umbra densă a copacilor. Pentru o zi lungă și relaxantă în familie, în mijlocul naturii, acest loc este pur și simplu perfect.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/banjole-strand-centinera.webp",
+                  "coords": [
+                        13.856731,
+                        44.820816
+                  ]
+            },
+            {
+                  "name": "Golful Soline",
+                  "text": "O zonă cu apă puțin adâncă, cunoscută pentru biodiversitatea sa și pentru plimbările relaxante pe mal.",
+                  "category": "natural features",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/banjole-bucht-soline.webp",
+                  "coords": [
+                        13.862619,
+                        44.829354
+                  ]
+            },
+            {
+                  "name": "Marina Volme",
+                  "text": "Un port mic și modern situat în așezarea vecină Volme, perfect pentru o plimbare de seară.",
+                  "category": "port",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/banjole-yachthafen-volme.webp",
+                  "coords": [
+                        13.871112,
+                        44.819122
+                  ]
+            },
+            {
+                  "name": "Fort Casoni Vecchi",
+                  "text": "O fortăreață de coastă austro-ungară din secolul al XIX-lea, situată pe muntele Cippo lângă Banjole.",
+                  "category": "fortress",
+                  "coords": [
+                        13.84592,
+                        44.852757
+                  ]
+            },
+            {
+                  "name": "Svjetionik Rt Verudica",
+                  "text": "Un far construit în 1881, situat pe capul Verudica, lângă intrarea în portul Pula.",
+                  "category": "landmark",
+                  "coords": [
+                        13.83367,
+                        44.83321
+                  ]
+            },
+            {
+                  "name": "Pomer",
+                  "text": "Plaja Pomer de lângă Banjole oferă un amestec fermecător de zone cu pietriș și stânci, situat în golful Medulin. Atmosfera liniștitoare și apa remarcabil de calmă fac din această plajă o adevărată oază de relaxare. Înotătorii își pot face turele netulburați, iar iubitorii de soare pot găsi un loc plăcut pe pietrele calde. Este refugiul ideal pentru o după-amiază pașnică.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Kayak Centar Pula",
+                  "text": "O zonă de coastă lângă Banjole unde vizitatorii se pot bucura de caiac și pot explora peșterile marine.",
+                  "category": "recreational",
+                  "coords": [
+                        13.835556,
+                        44.834881
+                  ]
+            },
+            {
+                  "name": "Jangalooz Adventure Park",
+                  "text": "Un parc de aventură în Banjole, oferind diverse trasee de cățărare pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        13.882274,
+                        44.823984
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "O plajă liniștită cu pietriș în Banjole, ideală pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Velika Kava",
+                  "text": "O plajă naturală lângă Banjole, cunoscută pentru coasta sa stâncoasă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.855559,
+                        44.832683
+                  ]
+            },
+            {
+                  "name": "Lijom",
+                  "text": "O plajă mică și retrasă în Banjole, care oferă liniște și apă curată.",
+                  "category": "recreational",
+                  "coords": [
+                        13.869183,
+                        44.821796
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "Un traseu cu obstacole plutitoare situat pe plaja Šćuza din Banjole.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Parasailing Banjole",
+                  "text": "Un serviciu de parasailing în Banjole, care oferă zboruri deasupra coastei Istriene.",
+                  "category": "landmark",
+                  "coords": [
+                        13.865718,
+                        44.821143
+                  ]
+            },
+            {
+                  "name": "Avion-vjetrokaz",
+                  "text": "O giruetă distinctivă în formă de avion, situată în apropiere de Banjole.",
+                  "category": "landmark",
+                  "coords": [
+                        13.903299,
+                        44.845141
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "Lacul Bakranjuša din Banjole este un loc liniștit în natură, ideal pentru drumeții scurte.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
+            },
+            {
+                  "name": "Aquarium Pula",
+                  "text": "Aquarium Pula din Banjole este o destinație distractivă pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        13.832864,
+                        44.835144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centinera Beach",
+                  "text": "Centinera Beach in Banjole is a beautiful gravel bay framed by imposing, centuries-old pine trees. As the most popular beach in the area, the atmosphere is cheerful, family-friendly, and very welcoming. Children can play in the shallows while adults enjoy the deep shade provided by the trees. For a long, relaxed family day surrounded by nature, this location is simply perfect.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/banjole-strand-centinera.webp",
+                  "coords": [
+                        13.856731,
+                        44.820816
+                  ]
+            },
+            {
+                  "name": "Soline Bay",
+                  "text": "A shallow maritime area known for its rich biodiversity and peaceful coastal environment for walking.",
+                  "category": "natural features",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/banjole-bucht-soline.webp",
+                  "coords": [
+                        13.862619,
+                        44.829354
+                  ]
+            },
+            {
+                  "name": "Volme Marina",
+                  "text": "A small, modern marina in the adjacent settlement of Volme, perfect for a relaxing evening stroll.",
+                  "category": "port",
+                  "confidence": "medium",
+                  "image": "/poi-images/sights/banjole-yachthafen-volme.webp",
+                  "coords": [
+                        13.871112,
+                        44.819122
+                  ]
+            },
+            {
+                  "name": "Fort Casoni Vecchi",
+                  "text": "A 19th-century Austro-Hungarian coastal fort located on Monte Cippo near Banjole.",
+                  "category": "fortress",
+                  "coords": [
+                        13.84592,
+                        44.852757
+                  ]
+            },
+            {
+                  "name": "Svjetionik Rt Verudica",
+                  "text": "A lighthouse built in 1881, situated on the Verudica cape near the entrance to Pula harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        13.83367,
+                        44.83321
+                  ]
+            },
+            {
+                  "name": "Pomer",
+                  "text": "Pomer Beach near Banjole features a charming mix of gravel and rocky sections within the bay of Medulin. The soothing atmosphere and the remarkably calm water make the beach a true oasis of relaxation. Swimmers can do their laps undisturbed, and sun worshippers will find a nice spot on the warm stones. It is the perfect location for a quiet afternoon retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Kayak Centar Pula",
+                  "text": "A coastal area near Banjole where visitors can enjoy kayaking and explore sea caves.",
+                  "category": "recreational",
+                  "coords": [
+                        13.835556,
+                        44.834881
+                  ]
+            },
+            {
+                  "name": "Jangalooz Adventure Park",
+                  "text": "An adventure park in Banjole featuring various climbing courses for families.",
+                  "category": "recreational",
+                  "coords": [
+                        13.882274,
+                        44.823984
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "A quiet pebble beach in Banjole, ideal for relaxing by the clear sea.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Velika Kava",
+                  "text": "A natural beach near Banjole, known for its rocky coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        13.855559,
+                        44.832683
+                  ]
+            },
+            {
+                  "name": "Lijom",
+                  "text": "A small, secluded beach in Banjole offering tranquility and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        13.869183,
+                        44.821796
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "A floating obstacle course located at Šćuza beach in Banjole.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Parasailing Banjole",
+                  "text": "A parasailing provider in Banjole offering flights over the Istrian coast.",
+                  "category": "landmark",
+                  "coords": [
+                        13.865718,
+                        44.821143
+                  ]
+            },
+            {
+                  "name": "Avion-vjetrokaz",
+                  "text": "A distinctive weather vane in the shape of an airplane near Banjole.",
+                  "category": "landmark",
+                  "coords": [
+                        13.903299,
+                        44.845141
+                  ]
+            },
+            {
+                  "name": "Bakranjuša",
+                  "text": "The Bakranjuša lake in Banjole is a quiet spot in nature, ideal for short hikes.",
+                  "category": "natural",
+                  "coords": [
+                        13.93063,
+                        44.872056
+                  ]
+            },
+            {
+                  "name": "Aquarium Pula",
+                  "text": "Aquarium Pula in Banjole is a fun destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        13.832864,
+                        44.835144
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Fort Casoni Vecchi",
+                  "text": "Austrougarska obalna utvrda iz 19. stoljeća smještena na brdu Monte Cippo kod Banjola.",
+                  "category": "fortress",
+                  "coords": [
+                        13.84592,
+                        44.852757
+                  ]
+            },
+            {
+                  "name": "Svjetionik Rt Verudica",
+                  "text": "Svjetionik izgrađen 1881. godine, smješten na rtu Verudica u blizini ulaza u pulsku luku.",
+                  "category": "landmark",
+                  "coords": [
+                        13.83367,
+                        44.83321
+                  ]
+            },
+            {
+                  "name": "Pomer",
+                  "text": "Šljunčana i stjenovita plaža u zaljevu Medulin, popularna zbog mirnog mora.",
+                  "category": "recreational",
+                  "coords": [
+                        13.899064,
+                        44.817931
+                  ]
+            },
+            {
+                  "name": "Kayak Centar Pula",
+                  "text": "Obalno područje kod Banjola gdje posjetitelji mogu uživati u vožnji kajakom i istraživanju špilja.",
+                  "category": "recreational",
+                  "coords": [
+                        13.835556,
+                        44.834881
+                  ]
+            },
+            {
+                  "name": "Jangalooz Adventure Park",
+                  "text": "Adrenalinski park u Banjolama s raznim stazama za penjanje prilagođenim svim uzrastima.",
+                  "category": "recreational",
+                  "coords": [
+                        13.882274,
+                        44.823984
+                  ]
+            },
+            {
+                  "name": "Ščuza",
+                  "text": "Mirna šljunčana plaža u Banjolama, idealna za opuštanje uz čisto more.",
+                  "category": "recreational",
+                  "coords": [
+                        13.898883,
+                        44.816214
+                  ]
+            },
+            {
+                  "name": "Velika Kava",
+                  "text": "Prirodna plaža u blizini Banjola, poznata po svojoj stjenovitoj obali.",
+                  "category": "recreational",
+                  "coords": [
+                        13.855559,
+                        44.832683
+                  ]
+            },
+            {
+                  "name": "Lijom",
+                  "text": "Mala, osamljena plaža u Banjolama koja nudi mir i čisto more.",
+                  "category": "recreational",
+                  "coords": [
+                        13.869183,
+                        44.821796
+                  ]
+            },
+            {
+                  "name": "Aquapark Wibit Šćuza",
+                  "text": "Plutajući poligon s preprekama na plaži Šćuza u Banjolama.",
+                  "category": "recreational",
+                  "coords": [
+                        13.900402,
+                        44.815964
+                  ]
+            },
+            {
+                  "name": "Parasailing Banjole",
+                  "text": "Pružatelj usluga parasailinga u Banjolama koji nudi letove iznad istarske obale.",
+                  "category": "landmark",
+                  "coords": [
+                        13.865718,
+                        44.821143
+                  ]
+            },
+            {
+                  "name": "Avion-vjetrokaz",
+                  "text": "Prepoznatljiv vjetrokaz u obliku zrakoplova koji se nalazi u blizini Banjola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.903299,
+                        44.845141
+                  ]
+            }
+      ]
+}},
   {"id": "buje", "type": "city", "parent": "HR-18", "coords": [13.6594, 45.4106], "population": 5127, "tier": 3, "name": {"de": "Buje", "hu": "Buje", "ro": "Buje", "en": "Buje"}, "description": {"de": "Eine charmante Hügelstadt im Norden Istriens, bekannt als 'Wächter Istriens' mit Blick auf Weinberge und Olivenhaine.", "hu": "Bájos dombtetői város Észak-Isztrián, amelyet az 'Isztria őrzőjeként' ismernek, kilátással a szőlőültetvényekre.", "ro": "Un oraș fermecător pe deal în nordul Istriei, cunoscut ca 'străjerul Istriei' cu vedere spre podgorii.", "en": "A charming hilltop town in northern Istria, known as the 'sentinel of Istria' overlooking vineyards and olive groves."}, "facts": {"de": ["Sitz der regionalen Verwaltung", "Geprägt von venezianischer Architektur", "Zentrum für Wein und Olivenöl", "Mittelalterlicher Stadtkern", "Zwei imposante Glockentürme", "Nahe der slowenischen Grenze", "Starke italienische Minderheit", "Einst eine römische Festung"], "hu": ["Regionális igazgatási központ", "Velencei építészet jellemzi", "Bor- és olívaolaj-központ", "Középkori városmag", "Két impozáns harangtorony", "Közel a szlovén határhoz", "Jelentős olasz kisebbség", "Egykor római erőd volt"], "ro": ["Sediu al administrației regionale", "Marcat de arhitectura venețiană", "Centru pentru vin și ulei de măsline", "Nucleu urban medieval", "Două clopotnițe impunătoare", "Aproape de granița cu Slovenia", "Minoritate italiană puternică", "Odinioară o cetate romană"], "en": ["Regional administrative seat", "Characterized by Venetian architecture", "Center for wine and olive oil", "Medieval town center", "Two imposing bell towers", "Near the Slovenian border", "Strong Italian minority", "Once a Roman fortress"]}, "image": "/poi-images/buje.webp", "imageHint": "Old town of Buje on a hilltop with stone houses and towers", "descriptionAdvanced": {"de": "Buje thront majestätisch auf einem Hügel im Nordwesten Istriens und wird aufgrund seiner strategischen Lage oft als die Wacht über Istrien bezeichnet. Die Altstadt ist ein Labyrinth aus gepflasterten Gassen, die zu zwei markanten Glockentürmen führen: dem der Kirche des Hl. Servulus aus dem 16. Jahrhundert und dem Turm der Kirche der Hl. Maria. Von den Stadtmauern aus bietet sich ein atemberaubender Panoramablick über die terrassierten Weinberge und Olivenhaine bis hin zur Adria. Die Region um Buje gilt als eines der besten Weinbaugebiete Istriens, berühmt für die Rebsorte Malvazija. Jedes Jahr im September feiert die Stadt das Weinfest, das Besucher aus der ganzen Region anzieht. Die kulturelle Identität ist stark italienisch geprägt, was sich in der zweisprachigen Beschilderung und der lokalen Lebensart widerspiegelt.", "hu": "Buje fenségesen trónol egy dombon Isztria északnyugati részén, és stratégiai elhelyezkedése miatt gyakran emlegetik az Isztria feletti őrségként. Az óváros kövezett sikátorok labirintusa, amelyek két jellegzetes harangtoronyhoz vezetnek: a 16. századi Szent Szervulusz-templomhoz és a Szent Mária-templom tornyához. A városfalakról lélegzetelállító panoráma nyílik a teraszos szőlőültetvényekre és olajfaligetekre, egészen az Adriáig. A Buje környéki régió Isztria egyik legjobb bortermelő vidékének számít, híres a Malvazija szőlőfajtáról. Minden év szeptemberében a város megrendezi a szüreti fesztivált, amely az egész régióból vonzza a látogatókat. A kulturális identitást erősen meghatározza az olasz hatás, ami a kétnyelvű feliratokban és a helyi életmódban is visszaköszön.", "ro": "Buje tronează maiestuos pe un deal în nord-vestul Istriei și, datorită locației sale strategice, este adesea numit gardianul Istriei. Orașul vechi este un labirint de străduțe pietruite care duc la două clopotnițe distinctive: cea a bisericii Sf. Servulus din secolul al XVI-lea și turnul bisericii Sf. Maria. De pe zidurile orașului se deschide o panoramă spectaculoasă peste podgoriile terasate și livezile de măslini, până la Marea Adriatică. Regiunea din jurul orașului Buje este considerată una dintre cele mai bune zone viticole din Istria, faimoasă pentru soiul de struguri Malvazija. În fiecare an, în septembrie, orașul sărbătorește festivalul vinului, care atrage vizitatori din întreaga regiune. Identitatea culturală este puternic influențată de elementele italiene, ceea ce se reflectă în semnalizarea bilingvă și în stilul de viață local.", "en": "Buje perches majestically on a hill in northwestern Istria and is often called the sentinel of Istria due to its strategic location. The old town is a labyrinth of cobbled alleys leading to two distinctive bell towers: that of St. Servulus Church from the 16th century and the tower of St. Mary Church. From the town walls, there is a breathtaking panoramic view over terraced vineyards and olive groves stretching to the Adriatic Sea. The region around Buje is considered one of Istria's finest wine-growing areas, famous for the Malvazija grape variety. Every September, the town hosts a wine festival that attracts visitors from across the region. Its cultural identity is strongly Italian-influenced, reflected in bilingual signs and the local way of life."}, "factsAdvanced": {"de": ["Die Kirche des Hl. Servulus hat einen der höchsten Glockentürme Istriens (50 m).", "In der Nähe befindet sich die älteste Brauerei Istriens, San Servolo.", "Der Ort war im Mittelalter Teil der Republik Venedig.", "Buje liegt an der ehemaligen Trasse der Schmalspurbahn Parenzana.", "Das ethnografische Museum zeigt Werkzeuge des traditionellen Handwerks.", "Die Stadtmauer stammt teilweise noch aus der Zeit der Venezianer."], "hu": ["A Szent Szervulusz-templom tornya Isztria egyik legmagasabbja (50 m).", "A közelben található Isztria legrégebbi sörfőzdéje, a San Servolo.", "A település a középkorban a Velencei Köztársaság része volt.", "Buje az egykori Parenzana keskenynyomközű vasútvonal mentén fekszik.", "A néprajzi múzeum a hagyományos mesterségek eszközeit mutatja be.", "A városfalak egy része még a velencei korszakból származik."], "ro": ["Biserica Sf. Servulus are una dintre cele mai înalte clopotnițe din Istria (50 m).", "În apropiere se află cea mai veche berărie din Istria, San Servolo.", "Localitatea a făcut parte din Republica Veneția în Evul Mediu.", "Buje este situat pe fostul traseu al căii ferate înguste Parenzana.", "Muzeul etnografic expune unelte ale meșteșugurilor tradiționale.", "Zidul orașului datează parțial încă din perioada venețiană."], "en": ["St. Servulus Church has one of Istria's highest bell towers (50 m).", "The oldest brewery in Istria, San Servolo, is located nearby.", "The town was part of the Republic of Venice during the Middle Ages.", "Buje is situated on the former route of the Parenzana narrow-gauge railway.", "The ethnographic museum displays tools of traditional crafts.", "The town walls partly date back to the Venetian period."]}, "sights": {
       "de": [
             {
@@ -6348,7 +9627,305 @@ export const poiExtraHrV2: POI[] = [
             }
       ]
 }},
-  {"id": "mlini", "type": "city", "parent": "HR-19", "coords": [18.1731, 42.6306], "population": 1018, "tier": 3, "name": {"de": "Mlini", "hu": "Mlini", "ro": "Mlini", "en": "Mlini"}, "description": {"de": "Ein idyllischer Ort in der Župa Dubrovačka, bekannt für seine zahlreichen Süßwasserquellen, alten Mühlen und üppigen Gärten.", "hu": "Idilli település a Župa Dubrovačka területén, amely számos édesvízi forrásáról, régi malmairól és dús kertjeiről ismert.", "ro": "O localitate idilică în Župa Dubrovačka, cunoscută pentru numeroasele izvoare de apă dulce, morile vechi și grădinile luxuriante.", "en": "An idyllic settlement in Župa Dubrovačka, known for its numerous freshwater springs, old mills, and lush gardens."}, "facts": {"de": ["Name bedeutet 'Mühlen'", "Zahlreiche Süßwasserquellen", "Fluss Zavrelja mündet hier", "Sand- und Kiesstrände", "Nähe zu Dubrovnik (10 km)", "Kirche St. Hilarius (15. Jh.)", "Üppige mediterrane Gärten", "Regelmäßige Bootslinien"], "hu": ["A neve malmokat jelent", "Számos édesvízi forrás", "Zavrelja-patak torkolata", "Homokos és kavicsos strandok", "Dubrovnik közelsége (10 km)", "Szent Hiláriusz-templom (15. sz.)", "Dús mediterrán kertek", "Rendszeres hajójáratok"], "ro": ["Numele înseamnă 'mori'", "Izvoare bogate de apă dulce", "Vărsarea râului Zavrelja", "Plaje cu nisip și pietriș", "Aproape de Dubrovnik (10 km)", "Biserica Sf. Ilarie (sec. XV)", "Grădini mediteraneene bogate", "Linii de ambarcațiuni regulate"], "en": ["Name means 'mills'", "Abundant freshwater springs", "Zavrelja river mouth", "Sandy and pebble beaches", "Close to Dubrovnik (10 km)", "St. Hilarius Church (15th century)", "Lush Mediterranean gardens", "Regular boat lines to Dubrovnik"]}, "image": "/poi-images/mlini.webp", "imageHint": "Mlini waterfront with colorful gardens, turquoise sea and small harbor", "descriptionAdvanced": {"de": "Mlini ist einer der am besten entwickelten Ferienorte in der Gespanschaft Dubrovnik-Neretva, gelegen in der fruchtbaren Region Župa Dubrovačka. Der Name des Ortes leitet sich von den vielen Wassermühlen ab, die einst durch die starken Süßwasserquellen der Gegend angetrieben wurden. Diese Quellen fließen auch heute noch durch den Ort und münden als kleine Bäche im Meer, was das Wasser in den Buchten besonders erfrischend und sauber macht. Die Architektur von Mlini ist geprägt von charmanten Villen und Gärten voller Oleander, Palmen und Zypressen. Die kilometerlangen Spazierwege entlang der Küste verbinden den Ort mit den benachbarten Siedlungen Srebreno und Kupari. Das historische Zentrum beherbergt die Kirche des Heiligen Hilarius (Sveti Ilar) aus dem 15. Jahrhundert, die nach einem Erdbeben im 17. Jahrhundert wiederaufgebaut wurde. Dank der regelmäßigen Fährverbindungen nach Dubrovnik ist Mlini ein idealer Ort für Urlauber, die die Ruhe suchen, aber die Nähe zur Weltkulturerbestadt schätzen.", "hu": "Mlini a Župa Dubrovačka régió egyik legszebb és legnépszerűbb települése, alig 10 kilométerre Dubrovniktól. A falu a nevét a korábban itt működő számos vízimalomról kapta, amelyeket a helyi források bőséges vize hajtott. Ezek a források ma is keresztülszelik a falut, és kis patakokként torkollnak az Adriába, ami a tenger vizét itt különlegesen tisztává és kissé hűvösebbé teszi. Mlini partjai változatosak: a finomkavicsos öblök mellett homokos szakaszok is találhatók, amelyeket sűrű fenyvesek és mediterrán parkok szegélyeznek. A falu központjában áll a 15. századi Szent Hiláriusz-templom, amely a környék vallási és kulturális központja. A települést tengerparti sétány köti össze a közeli Srebreno és Kupari falvakkal, ideális útvonalat kínálva az esti sétákhoz. A kikötőből rendszeres kishajó-járatok indulnak Dubrovnik óvárosába és a közeli Cavtatba, így Mlini kiváló bázis a régió felfedezéséhez.", "ro": "Mlini este o destinație turistică rafinată situată în regiunea Župa Dubrovačka, la doar 10 kilometri sud de Dubrovnik. Numele său provine de la morile de apă care funcționau în trecut pe numeroasele izvoare de apă dulce ce coboară din munți spre mare. Această caracteristică hidrogeografică unică face ca apa mării din jurul localității să fie extrem de limpede și revigorantă. Satul este renumit pentru grădinile sale luxuriante, pline de flori și plante mediteraneene, care creează o atmosferă de liniște și prospețime. Plajele din Mlini sunt variate, oferind atât porțiuni cu pietriș fin, cât și zone cu nisip, protejate de umbra pinilor. Biserica Sfântul Ilarie, atestată încă din secolul al XV-lea, este un reper istoric important. O promenadă pitorească pe malul mării leagă Mlini de stațiunile învecinate Srebreno și Kupari, în timp ce ambarcațiunile locale oferă conexiuni rapide și scenice către centrul vechi al Dubrovnikului sau către Cavtat.", "en": "Mlini is one of the most charming resorts in the Župa Dubrovačka region, situated just 10 kilometers south of Dubrovnik. The village derives its name from the numerous watermills that were once powered by the abundant local freshwater springs. These springs still flow through the settlement today, discharging into the sea as small streams and keeping the coastal waters exceptionally clean and slightly cooler. Mlini is characterized by its lush Mediterranean vegetation, with gardens filled with vibrant flowers and aromatic pine forests lining its varied beaches, which range from fine pebble to sandy stretches. The historic Church of St. Hilarius, originally built in the 15th century and restored after a 17th-century earthquake, remains a key cultural landmark. A scenic seaside path connects Mlini to the neighboring villages of Srebreno and Kupari, providing a perfect route for evening walks. Regular boat services run from the local pier to Dubrovnik’s Old Town and Cavtat, making it an ideal tranquil base for exploring the wider region."}, "factsAdvanced": {"de": ["Süßwasserquellen Zavrelja", "Bootslinie nach Dubrovnik/Cavtat", "Kirche St. Hilarius (1449)", "Alte Steinmühlen im Ort", "10 km südlich von Dubrovnik", "Verbindungsweg nach Srebreno"], "hu": ["Zavrelja édesvízi források", "Hajójárat Dubrovnikba és Cavtatba", "Szent Hiláriusz-templom (1449)", "Régi kőmalmok maradványai", "10 km-re Dubrovniktól délre", "Parti sétány Srebreno felé"], "ro": ["Izvoarele de apă dulce Zavrelja", "Linii navale spre Dubrovnik/Cavtat", "Biserica Sf. Ilarie (1449)", "Mori de piatră conservate", "10 km sud de Dubrovnik", "Promenadă spre Srebreno"], "en": ["Zavrelja freshwater springs", "Boat lines to Dubrovnik and Cavtat", "St. Hilarius Church built 1449", "Ancient stone mills ruins", "10 km south of Dubrovnik city", "Seaside walk path to Srebreno"]}, "sights": {"de": [{"name": "Mlini Strand", "text": "Sanft fällt der beliebte Kieselstrand in das klare, kroatische Meer bei Mlini ab. Familien schätzen den flachen Einstieg, der entspanntes Baden für alle Altersgruppen ermöglicht. Für einen perfekten Strandtag lohnt es sich, Badeschuhe für den kiesigen Untergrund einzupacken.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mlini-mlini-strand.webp", "coords": [18.202322, 42.622842]}, {"name": "Plaža Kupari", "text": "Vor der markanten Kulisse eines verlassenen Hotelkomplexes erstreckt sich dieser besondere Kieselstrand in Mlini. Das tiefblaue, klare Wasser der Bucht bildet einen faszinierenden Kontrast zu den umliegenden Ruinen. Ein Besuch im Spätsommer verspricht hier eine besonders ruhige und eindrückliche Atmosphäre.", "category": "recreational", "coords": [18.192545, 42.619769]}, {"name": "Plaža Srebreno", "text": "Geschützt liegt diese malerische Kiesbucht in der Küstensiedlung Srebreno bei Mlini. Aufgrund ihrer ruhigen Lage und des klaren Wassers zieht die Anlage vor allem Familien an. Wer einen entspannten Tag am Mittelmeer verbringen möchte, findet hier an sonnigen Tagen ausreichend Platz.", "category": "recreational", "coords": [18.19845, 42.623067]}, {"name": "Plaža Astarea", "text": "Direkt vor den Türen des Hotels Astarea in Mlini öffnet sich dieser gepflegte Küstenabschnitt. Badegäste erfreuen sich an der ordentlichen Umgebung und dem einfachen Zugang zum kroatischen Meer. Ein gemütlicher Spaziergang entlang der Uferpromenade rundet den Badeausflug perfekt ab.", "category": "recreational", "coords": [18.208031, 42.621404]}, {"name": "The big water reservoir", "text": "Das The big water reservoir in Mlini bietet eine interessante Kulisse für einen erholsamen Spaziergang.", "category": "natural", "coords": [18.11954, 42.627546]}, {"name": "Mrtvo more", "text": "Das kleine Gewässer, bekannt als The Dead Sea in Mlini, ist ein ruhiger Ort, um die malerische Küstenlandschaft zu genießen.", "category": "natural", "coords": [18.12032, 42.622536]}], "hu": [{"name": "Mlini strand", "text": "A népszerű kavicsos strand lassan mélyül a tiszta horvát tengerbe Mlini közelében. A családok nagyra értékelik a sekély bejáratot, amely minden korosztály számára nyugodt fürdőzést biztosít. A tökéletes strandoláshoz érdemes fürdőcipőt csomagolni a kavicsos talaj miatt.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mlini-mlini-strand.webp", "coords": [18.202322, 42.622842]}, {"name": "Plaža Kupari", "text": "Egy elhagyatott szállodakomplexum lenyűgöző háttere előtt terül el ez a különleges kavicsos strand Mlini területén. Az öböl mélykék, tiszta vize lenyűgöző kontrasztot alkot a környező romokkal. Egy nyár végi látogatás különösen csendes és emlékezetes hangulatot ígér ezen a helyen.", "category": "recreational", "coords": [18.192545, 42.619769]}, {"name": "Plaža Srebreno", "text": "Védett fekvésű ez a festői kavicsos öböl Srebreno tengerparti településén, Mlini közelében. Csendes elhelyezkedése és tiszta vize miatt a partszakasz elsősorban családokat vonz. Aki egy nyugodt napot szeretne eltölteni a Földközi-tenger partján, napsütéses napokon is bőségesen talál itt helyet.", "category": "recreational", "coords": [18.19845, 42.623067]}, {"name": "Plaža Astarea", "text": "Közvetlenül a mlini Hotel Astarea kapui előtt tárul elénk ez a gondozott partszakasz. A fürdőzők élvezhetik a rendezett környezetet és a horvát tengerhez való könnyű hozzáférést. A part menti sétányon tett kényelmes séta tökéletesen megkoronázza a strandolást.", "category": "recreational", "coords": [18.208031, 42.621404]}, {"name": "The big water reservoir", "text": "A Mlini-ben található The big water reservoir érdekes hátteret biztosít egy pihentető sétához.", "category": "natural", "coords": [18.11954, 42.627546]}, {"name": "Mrtvo more", "text": "A Mlini-ben The Dead Sea néven ismert kis vízterület egy csendes hely a festői tengerparti táj élvezetére.", "category": "natural", "coords": [18.12032, 42.622536]}], "ro": [{"name": "Plaja Mlini", "text": "Plaja populară cu pietriș coboară lin în marea croată limpede de lângă Mlini. Familiile apreciază intrarea puțin adâncă, care permite o baie relaxantă pentru toate grupele de vârstă. Pentru o zi perfectă la plajă, merită să luați încălțăminte de apă pentru solul pietros.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mlini-mlini-strand.webp", "coords": [18.202322, 42.622842]}, {"name": "Plaža Kupari", "text": "Pe fundalul impresionant al unui complex hotelier abandonat se întinde această plajă unică cu pietriș din Mlini. Apa limpede și albastru închis a golfului formează un contrast fascinant cu ruinele din jur. O vizită la sfârșitul verii promite aici o atmosferă deosebit de liniștită și impresionantă.", "category": "recreational", "coords": [18.192545, 42.619769]}, {"name": "Plaža Srebreno", "text": "Protejat în așezarea de coastă Srebreno, lângă Mlini, se află acest golf pitoresc cu pietriș. Datorită locației sale liniștite și a apei limpezi, zona atrage în principal familii. Cei care doresc să petreacă o zi relaxantă la Marea Mediterană vor găsi aici suficient spațiu în zilele însorite.", "category": "recreational", "coords": [18.19845, 42.623067]}, {"name": "Plaža Astarea", "text": "Chiar la porțile Hotelului Astarea din Mlini se deschide această porțiune de coastă bine îngrijită. Cei care se scaldă se bucură de împrejurimile ordonate și de accesul ușor la marea croată. O plimbare pe îndelete de-a lungul promenadei completează perfect o zi de plajă.", "category": "recreational", "coords": [18.208031, 42.621404]}, {"name": "The big water reservoir", "text": "The big water reservoir din Mlini oferă un peisaj interesant pentru o plimbare relaxantă.", "category": "natural", "coords": [18.11954, 42.627546]}, {"name": "Mrtvo more", "text": "Micuța apă cunoscută sub numele de The Dead Sea din Mlini este un loc liniștit pentru a vă bucura de peisajul de coastă pitoresc.", "category": "natural", "coords": [18.12032, 42.622536]}], "en": [{"name": "Mlini Beach", "text": "The popular pebble beach gently slopes into the clear Croatian sea near Mlini. Families appreciate the shallow entry, which allows for relaxed bathing for all age groups. For a perfect beach day, it is worth packing water shoes for the pebbly ground.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/mlini-mlini-strand.webp", "coords": [18.202322, 42.622842]}, {"name": "Plaža Kupari", "text": "Against the striking backdrop of an abandoned hotel complex stretches this unique pebble beach in Mlini. The deep blue, clear water of the bay forms a fascinating contrast to the surrounding ruins. A visit in late summer promises a particularly quiet and impressive atmosphere here.", "category": "recreational", "coords": [18.192545, 42.619769]}, {"name": "Plaža Srebreno", "text": "Protected within the coastal settlement of Srebreno near Mlini lies this picturesque pebble bay. Due to its quiet location and clear water, the area mainly attracts families. Those looking to spend a relaxed day by the Mediterranean will find plenty of space here on sunny days.", "category": "recreational", "coords": [18.19845, 42.623067]}, {"name": "Plaža Astarea", "text": "Right outside the doors of Hotel Astarea in Mlini, this well-kept stretch of coast opens up. Bathers enjoy the tidy surroundings and easy access to the Croatian sea. A leisurely stroll along the promenade rounds off the beach trip perfectly.", "category": "recreational", "coords": [18.208031, 42.621404]}, {"name": "The big water reservoir", "text": "The big water reservoir in Mlini provides an interesting backdrop for a relaxing walk.", "category": "natural", "coords": [18.11954, 42.627546]}, {"name": "The Dead Sea", "text": "The small body of water known as The Dead Sea in Mlini is a quiet spot to enjoy the picturesque coastal landscape.", "category": "natural", "coords": [18.12032, 42.622536]}], "hr": [{"name": "Plaža Kupari", "text": "Šljunčana plaža u blizini napuštenog hotelskog kompleksa u Kuparima, poznata po čistom moru.", "category": "recreational", "coords": [18.192545, 42.619769]}, {"name": "Plaža Srebreno", "text": "Popularna šljunčana plaža u zaštićenoj uvali u Srebrenom, idealna za obitelji.", "category": "recreational", "coords": [18.19845, 42.623067]}, {"name": "Plaža Astarea", "text": "Uređena plaža u Mlinima, smještena neposredno ispred hotela Astarea.", "category": "recreational", "coords": [18.208031, 42.621404]}]}},
+  {"id": "mlini", "type": "city", "parent": "HR-19", "coords": [18.1731, 42.6306], "population": 1018, "tier": 3, "name": {"de": "Mlini", "hu": "Mlini", "ro": "Mlini", "en": "Mlini"}, "description": {"de": "Ein idyllischer Ort in der Župa Dubrovačka, bekannt für seine zahlreichen Süßwasserquellen, alten Mühlen und üppigen Gärten.", "hu": "Idilli település a Župa Dubrovačka területén, amely számos édesvízi forrásáról, régi malmairól és dús kertjeiről ismert.", "ro": "O localitate idilică în Župa Dubrovačka, cunoscută pentru numeroasele izvoare de apă dulce, morile vechi și grădinile luxuriante.", "en": "An idyllic settlement in Župa Dubrovačka, known for its numerous freshwater springs, old mills, and lush gardens."}, "facts": {"de": ["Name bedeutet 'Mühlen'", "Zahlreiche Süßwasserquellen", "Fluss Zavrelja mündet hier", "Sand- und Kiesstrände", "Nähe zu Dubrovnik (10 km)", "Kirche St. Hilarius (15. Jh.)", "Üppige mediterrane Gärten", "Regelmäßige Bootslinien"], "hu": ["A neve malmokat jelent", "Számos édesvízi forrás", "Zavrelja-patak torkolata", "Homokos és kavicsos strandok", "Dubrovnik közelsége (10 km)", "Szent Hiláriusz-templom (15. sz.)", "Dús mediterrán kertek", "Rendszeres hajójáratok"], "ro": ["Numele înseamnă 'mori'", "Izvoare bogate de apă dulce", "Vărsarea râului Zavrelja", "Plaje cu nisip și pietriș", "Aproape de Dubrovnik (10 km)", "Biserica Sf. Ilarie (sec. XV)", "Grădini mediteraneene bogate", "Linii de ambarcațiuni regulate"], "en": ["Name means 'mills'", "Abundant freshwater springs", "Zavrelja river mouth", "Sandy and pebble beaches", "Close to Dubrovnik (10 km)", "St. Hilarius Church (15th century)", "Lush Mediterranean gardens", "Regular boat lines to Dubrovnik"]}, "image": "/poi-images/mlini.webp", "imageHint": "Mlini waterfront with colorful gardens, turquoise sea and small harbor", "descriptionAdvanced": {"de": "Mlini ist einer der am besten entwickelten Ferienorte in der Gespanschaft Dubrovnik-Neretva, gelegen in der fruchtbaren Region Župa Dubrovačka. Der Name des Ortes leitet sich von den vielen Wassermühlen ab, die einst durch die starken Süßwasserquellen der Gegend angetrieben wurden. Diese Quellen fließen auch heute noch durch den Ort und münden als kleine Bäche im Meer, was das Wasser in den Buchten besonders erfrischend und sauber macht. Die Architektur von Mlini ist geprägt von charmanten Villen und Gärten voller Oleander, Palmen und Zypressen. Die kilometerlangen Spazierwege entlang der Küste verbinden den Ort mit den benachbarten Siedlungen Srebreno und Kupari. Das historische Zentrum beherbergt die Kirche des Heiligen Hilarius (Sveti Ilar) aus dem 15. Jahrhundert, die nach einem Erdbeben im 17. Jahrhundert wiederaufgebaut wurde. Dank der regelmäßigen Fährverbindungen nach Dubrovnik ist Mlini ein idealer Ort für Urlauber, die die Ruhe suchen, aber die Nähe zur Weltkulturerbestadt schätzen.", "hu": "Mlini a Župa Dubrovačka régió egyik legszebb és legnépszerűbb települése, alig 10 kilométerre Dubrovniktól. A falu a nevét a korábban itt működő számos vízimalomról kapta, amelyeket a helyi források bőséges vize hajtott. Ezek a források ma is keresztülszelik a falut, és kis patakokként torkollnak az Adriába, ami a tenger vizét itt különlegesen tisztává és kissé hűvösebbé teszi. Mlini partjai változatosak: a finomkavicsos öblök mellett homokos szakaszok is találhatók, amelyeket sűrű fenyvesek és mediterrán parkok szegélyeznek. A falu központjában áll a 15. századi Szent Hiláriusz-templom, amely a környék vallási és kulturális központja. A települést tengerparti sétány köti össze a közeli Srebreno és Kupari falvakkal, ideális útvonalat kínálva az esti sétákhoz. A kikötőből rendszeres kishajó-járatok indulnak Dubrovnik óvárosába és a közeli Cavtatba, így Mlini kiváló bázis a régió felfedezéséhez.", "ro": "Mlini este o destinație turistică rafinată situată în regiunea Župa Dubrovačka, la doar 10 kilometri sud de Dubrovnik. Numele său provine de la morile de apă care funcționau în trecut pe numeroasele izvoare de apă dulce ce coboară din munți spre mare. Această caracteristică hidrogeografică unică face ca apa mării din jurul localității să fie extrem de limpede și revigorantă. Satul este renumit pentru grădinile sale luxuriante, pline de flori și plante mediteraneene, care creează o atmosferă de liniște și prospețime. Plajele din Mlini sunt variate, oferind atât porțiuni cu pietriș fin, cât și zone cu nisip, protejate de umbra pinilor. Biserica Sfântul Ilarie, atestată încă din secolul al XV-lea, este un reper istoric important. O promenadă pitorească pe malul mării leagă Mlini de stațiunile învecinate Srebreno și Kupari, în timp ce ambarcațiunile locale oferă conexiuni rapide și scenice către centrul vechi al Dubrovnikului sau către Cavtat.", "en": "Mlini is one of the most charming resorts in the Župa Dubrovačka region, situated just 10 kilometers south of Dubrovnik. The village derives its name from the numerous watermills that were once powered by the abundant local freshwater springs. These springs still flow through the settlement today, discharging into the sea as small streams and keeping the coastal waters exceptionally clean and slightly cooler. Mlini is characterized by its lush Mediterranean vegetation, with gardens filled with vibrant flowers and aromatic pine forests lining its varied beaches, which range from fine pebble to sandy stretches. The historic Church of St. Hilarius, originally built in the 15th century and restored after a 17th-century earthquake, remains a key cultural landmark. A scenic seaside path connects Mlini to the neighboring villages of Srebreno and Kupari, providing a perfect route for evening walks. Regular boat services run from the local pier to Dubrovnik’s Old Town and Cavtat, making it an ideal tranquil base for exploring the wider region."}, "factsAdvanced": {"de": ["Süßwasserquellen Zavrelja", "Bootslinie nach Dubrovnik/Cavtat", "Kirche St. Hilarius (1449)", "Alte Steinmühlen im Ort", "10 km südlich von Dubrovnik", "Verbindungsweg nach Srebreno"], "hu": ["Zavrelja édesvízi források", "Hajójárat Dubrovnikba és Cavtatba", "Szent Hiláriusz-templom (1449)", "Régi kőmalmok maradványai", "10 km-re Dubrovniktól délre", "Parti sétány Srebreno felé"], "ro": ["Izvoarele de apă dulce Zavrelja", "Linii navale spre Dubrovnik/Cavtat", "Biserica Sf. Ilarie (1449)", "Mori de piatră conservate", "10 km sud de Dubrovnik", "Promenadă spre Srebreno"], "en": ["Zavrelja freshwater springs", "Boat lines to Dubrovnik and Cavtat", "St. Hilarius Church built 1449", "Ancient stone mills ruins", "10 km south of Dubrovnik city", "Seaside walk path to Srebreno"]}, "sights": {
+      "de": [
+            {
+                  "name": "Mlini Strand",
+                  "text": "Sanft fällt der beliebte Kieselstrand in das klare, kroatische Meer bei Mlini ab. Familien schätzen den flachen Einstieg, der entspanntes Baden für alle Altersgruppen ermöglicht. Für einen perfekten Strandtag lohnt es sich, Badeschuhe für den kiesigen Untergrund einzupacken.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/mlini-mlini-strand.webp",
+                  "coords": [
+                        18.202322,
+                        42.622842
+                  ]
+            },
+            {
+                  "name": "Plaža Kupari",
+                  "text": "Vor der markanten Kulisse eines verlassenen Hotelkomplexes erstreckt sich dieser besondere Kieselstrand in Mlini. Das tiefblaue, klare Wasser der Bucht bildet einen faszinierenden Kontrast zu den umliegenden Ruinen. Ein Besuch im Spätsommer verspricht hier eine besonders ruhige und eindrückliche Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.192545,
+                        42.619769
+                  ]
+            },
+            {
+                  "name": "Plaža Srebreno",
+                  "text": "Geschützt liegt diese malerische Kiesbucht in der Küstensiedlung Srebreno bei Mlini. Aufgrund ihrer ruhigen Lage und des klaren Wassers zieht die Anlage vor allem Familien an. Wer einen entspannten Tag am Mittelmeer verbringen möchte, findet hier an sonnigen Tagen ausreichend Platz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.19845,
+                        42.623067
+                  ]
+            },
+            {
+                  "name": "Plaža Astarea",
+                  "text": "Direkt vor den Türen des Hotels Astarea in Mlini öffnet sich dieser gepflegte Küstenabschnitt. Badegäste erfreuen sich an der ordentlichen Umgebung und dem einfachen Zugang zum kroatischen Meer. Ein gemütlicher Spaziergang entlang der Uferpromenade rundet den Badeausflug perfekt ab.",
+                  "category": "recreational",
+                  "coords": [
+                        18.208031,
+                        42.621404
+                  ]
+            },
+            {
+                  "name": "The big water reservoir",
+                  "text": "Das The big water reservoir in Mlini bietet eine interessante Kulisse für einen erholsamen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        18.11954,
+                        42.627546
+                  ]
+            },
+            {
+                  "name": "Mrtvo more",
+                  "text": "Das kleine Gewässer, bekannt als The Dead Sea in Mlini, ist ein ruhiger Ort, um die malerische Küstenlandschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        18.12032,
+                        42.622536
+                  ]
+            },
+            {
+                  "name": "Nudistička plaža",
+                  "text": "Nudist beach in Mlini bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        18.126269,
+                        42.622133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mlini strand",
+                  "text": "A népszerű kavicsos strand lassan mélyül a tiszta horvát tengerbe Mlini közelében. A családok nagyra értékelik a sekély bejáratot, amely minden korosztály számára nyugodt fürdőzést biztosít. A tökéletes strandoláshoz érdemes fürdőcipőt csomagolni a kavicsos talaj miatt.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/mlini-mlini-strand.webp",
+                  "coords": [
+                        18.202322,
+                        42.622842
+                  ]
+            },
+            {
+                  "name": "Plaža Kupari",
+                  "text": "Egy elhagyatott szállodakomplexum lenyűgöző háttere előtt terül el ez a különleges kavicsos strand Mlini területén. Az öböl mélykék, tiszta vize lenyűgöző kontrasztot alkot a környező romokkal. Egy nyár végi látogatás különösen csendes és emlékezetes hangulatot ígér ezen a helyen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.192545,
+                        42.619769
+                  ]
+            },
+            {
+                  "name": "Plaža Srebreno",
+                  "text": "Védett fekvésű ez a festői kavicsos öböl Srebreno tengerparti településén, Mlini közelében. Csendes elhelyezkedése és tiszta vize miatt a partszakasz elsősorban családokat vonz. Aki egy nyugodt napot szeretne eltölteni a Földközi-tenger partján, napsütéses napokon is bőségesen talál itt helyet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.19845,
+                        42.623067
+                  ]
+            },
+            {
+                  "name": "Plaža Astarea",
+                  "text": "Közvetlenül a mlini Hotel Astarea kapui előtt tárul elénk ez a gondozott partszakasz. A fürdőzők élvezhetik a rendezett környezetet és a horvát tengerhez való könnyű hozzáférést. A part menti sétányon tett kényelmes séta tökéletesen megkoronázza a strandolást.",
+                  "category": "recreational",
+                  "coords": [
+                        18.208031,
+                        42.621404
+                  ]
+            },
+            {
+                  "name": "The big water reservoir",
+                  "text": "A Mlini-ben található The big water reservoir érdekes hátteret biztosít egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.11954,
+                        42.627546
+                  ]
+            },
+            {
+                  "name": "Mrtvo more",
+                  "text": "A Mlini-ben The Dead Sea néven ismert kis vízterület egy csendes hely a festői tengerparti táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        18.12032,
+                        42.622536
+                  ]
+            },
+            {
+                  "name": "Nudistička plaža",
+                  "text": "A Mlini településen található Nudist beach frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        18.126269,
+                        42.622133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Mlini",
+                  "text": "Plaja populară cu pietriș coboară lin în marea croată limpede de lângă Mlini. Familiile apreciază intrarea puțin adâncă, care permite o baie relaxantă pentru toate grupele de vârstă. Pentru o zi perfectă la plajă, merită să luați încălțăminte de apă pentru solul pietros.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/mlini-mlini-strand.webp",
+                  "coords": [
+                        18.202322,
+                        42.622842
+                  ]
+            },
+            {
+                  "name": "Plaža Kupari",
+                  "text": "Pe fundalul impresionant al unui complex hotelier abandonat se întinde această plajă unică cu pietriș din Mlini. Apa limpede și albastru închis a golfului formează un contrast fascinant cu ruinele din jur. O vizită la sfârșitul verii promite aici o atmosferă deosebit de liniștită și impresionantă.",
+                  "category": "recreational",
+                  "coords": [
+                        18.192545,
+                        42.619769
+                  ]
+            },
+            {
+                  "name": "Plaža Srebreno",
+                  "text": "Protejat în așezarea de coastă Srebreno, lângă Mlini, se află acest golf pitoresc cu pietriș. Datorită locației sale liniștite și a apei limpezi, zona atrage în principal familii. Cei care doresc să petreacă o zi relaxantă la Marea Mediterană vor găsi aici suficient spațiu în zilele însorite.",
+                  "category": "recreational",
+                  "coords": [
+                        18.19845,
+                        42.623067
+                  ]
+            },
+            {
+                  "name": "Plaža Astarea",
+                  "text": "Chiar la porțile Hotelului Astarea din Mlini se deschide această porțiune de coastă bine îngrijită. Cei care se scaldă se bucură de împrejurimile ordonate și de accesul ușor la marea croată. O plimbare pe îndelete de-a lungul promenadei completează perfect o zi de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        18.208031,
+                        42.621404
+                  ]
+            },
+            {
+                  "name": "The big water reservoir",
+                  "text": "The big water reservoir din Mlini oferă un peisaj interesant pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        18.11954,
+                        42.627546
+                  ]
+            },
+            {
+                  "name": "Mrtvo more",
+                  "text": "Micuța apă cunoscută sub numele de The Dead Sea din Mlini este un loc liniștit pentru a vă bucura de peisajul de coastă pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        18.12032,
+                        42.622536
+                  ]
+            },
+            {
+                  "name": "Nudistička plaža",
+                  "text": "Nudist beach din Mlini oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        18.126269,
+                        42.622133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mlini Beach",
+                  "text": "The popular pebble beach gently slopes into the clear Croatian sea near Mlini. Families appreciate the shallow entry, which allows for relaxed bathing for all age groups. For a perfect beach day, it is worth packing water shoes for the pebbly ground.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/mlini-mlini-strand.webp",
+                  "coords": [
+                        18.202322,
+                        42.622842
+                  ]
+            },
+            {
+                  "name": "Plaža Kupari",
+                  "text": "Against the striking backdrop of an abandoned hotel complex stretches this unique pebble beach in Mlini. The deep blue, clear water of the bay forms a fascinating contrast to the surrounding ruins. A visit in late summer promises a particularly quiet and impressive atmosphere here.",
+                  "category": "recreational",
+                  "coords": [
+                        18.192545,
+                        42.619769
+                  ]
+            },
+            {
+                  "name": "Plaža Srebreno",
+                  "text": "Protected within the coastal settlement of Srebreno near Mlini lies this picturesque pebble bay. Due to its quiet location and clear water, the area mainly attracts families. Those looking to spend a relaxed day by the Mediterranean will find plenty of space here on sunny days.",
+                  "category": "recreational",
+                  "coords": [
+                        18.19845,
+                        42.623067
+                  ]
+            },
+            {
+                  "name": "Plaža Astarea",
+                  "text": "Right outside the doors of Hotel Astarea in Mlini, this well-kept stretch of coast opens up. Bathers enjoy the tidy surroundings and easy access to the Croatian sea. A leisurely stroll along the promenade rounds off the beach trip perfectly.",
+                  "category": "recreational",
+                  "coords": [
+                        18.208031,
+                        42.621404
+                  ]
+            },
+            {
+                  "name": "The big water reservoir",
+                  "text": "The big water reservoir in Mlini provides an interesting backdrop for a relaxing walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.11954,
+                        42.627546
+                  ]
+            },
+            {
+                  "name": "The Dead Sea",
+                  "text": "The small body of water known as The Dead Sea in Mlini is a quiet spot to enjoy the picturesque coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.12032,
+                        42.622536
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Nudist beach in Mlini offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        18.126269,
+                        42.622133
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Plaža Kupari",
+                  "text": "Šljunčana plaža u blizini napuštenog hotelskog kompleksa u Kuparima, poznata po čistom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        18.192545,
+                        42.619769
+                  ]
+            },
+            {
+                  "name": "Plaža Srebreno",
+                  "text": "Popularna šljunčana plaža u zaštićenoj uvali u Srebrenom, idealna za obitelji.",
+                  "category": "recreational",
+                  "coords": [
+                        18.19845,
+                        42.623067
+                  ]
+            },
+            {
+                  "name": "Plaža Astarea",
+                  "text": "Uređena plaža u Mlinima, smještena neposredno ispred hotela Astarea.",
+                  "category": "recreational",
+                  "coords": [
+                        18.208031,
+                        42.621404
+                  ]
+            }
+      ]
+}},
   {"id": "novi-vinodolski", "type": "city", "parent": "HR-08", "coords": [14.7869, 45.1281], "population": 5113, "tier": 3, "name": {"de": "Novi Vinodolski", "hu": "Novi Vinodolski", "ro": "Novi Vinodolski", "en": "Novi Vinodolski"}, "description": {"de": "Novi Vinodolski ist eine historische Stadt an der Adriaküste, berühmt für das Gesetzbuch von Vinodol aus dem Jahr 1288 und die mittelalterliche Festung der Frankopanen.", "hu": "Novi Vinodolski történelmi város az Adria partján, amely az 1288-as Vinodoli törvénykönyvről és a Frangepánok középkori váráról nevezetes.", "ro": "Novi Vinodolski este un oraș istoric pe coasta Adriaticii, celebru pentru Codul din Vinodol din 1288 și fortăreața medievală a familiei Frankopan.", "en": "Novi Vinodolski is a historic Adriatic town famous for the 1288 Vinodol Code and the medieval Frankopan castle."}, "facts": {"de": ["Vinodol-Gesetzbuch (1288)", "Frankopanen-Burg", "Vinodol-Tal", "Glagolitische Schrift", "Panoramablick auf Krk", "Sommerkarneval", "5113 Einwohner", "Kvarner Riviera"], "hu": ["Vinodoli törvénykönyv (1288)", "Frangepán-vár", "Vinodol-völgy", "Glagolita írásbeliség", "Panoráma Krk szigetére", "Nyári karnevál", "5113 lakos", "Kvarner-riviéra"], "ro": ["Codul din Vinodol (1288)", "Castelul Frankopan", "Valea Vinodol", "Alfabetul glagolitic", "Panoramă spre insula Krk", "Carnaval de vară", "5113 locuitori", "Riviera Kvarner"], "en": ["Vinodol Code (1288)", "Frankopan castle", "Vinodol Valley", "Glagolitic heritage", "View of Krk island", "Summer carnival", "5113 inhabitants", "Kvarner Riviera"]}, "image": "/poi-images/novi-vinodolski.webp", "imageHint": "The historic town center of Novi Vinodolski on a hill with the church tower", "descriptionAdvanced": {"de": "Novi Vinodolski, an der Riviera von Crikvenica gelegen, ist eine Stadt, die eine reiche Geschichte mit modernem Tourismus verbindet. Ihr Name bedeutet „Neues Weintal“, ein Hinweis auf die lange Weinbautradition der Region. Die Altstadt thront auf einem Hügel und wird vom viereckigen Frankopan-Kastell aus dem 13. Jahrhundert dominiert. Hier wurde 1288 das Vinodol-Gesetzbuch verfasst, eines der ältesten Rechtsdokumente Europas. Ein Spaziergang durch die engen, gepflasterten Gassen führt vorbei an Steinhäusern und kleinen Plätzen, die einen authentischen mediterranen Charme ausstrahlen. Unterhalb der Altstadt erstreckt sich die moderne Uferpromenade mit zahlreichen Cafés, Restaurants und Kieselstränden, die zum Entspannen einladen. Die Umgebung ist ideal für Aktivurlauber: Wander- und Radwege führen durch das grüne Hinterland, während die Küste Möglichkeiten zum Segeln und Tauchen bietet. Die Stadt ist auch bekannt für ihre Sommerveranstaltungen, wie die „Rose von Vinodol“, bei der historische Traditionen wieder aufleben.", "hu": "Novi Vinodolski, a Crikvenicai Riviéra egyik ékköve, tökéletes ötvözete a gazdag múltnak és a nyüzsgő jelennek. Neve „új borvölgyet” jelent, utalva a környék bortermelő hagyományaira. Az óváros egy dombon terül el, fölötte a 13. századi Frangepán-kastély őrködik, amely történelmi jelentőségű helyszín: itt született 1288-ban a Vinodoli törvénykönyv, Európa egyik legrégebbi jogi dokumentuma. A macskaköves, szűk sikátorokban sétálva az ember visszarepül az időben. A történelmi városmag alatt húzódik a modern tengerparti sétány, ahol éttermek, kávézók és a jellegzetes kavicsos strandok várják a pihenni vágyókat. A környék a kirándulók paradicsoma is, a zöldellő hátországban számos túra- és kerékpárút kanyarog. A tiszta tenger kiváló lehetőséget nyújt vízi sportokra. Nyáron a város megtelik élettel, a helyi fesztiválok, mint a „Vinodol Rózsája”, felejthetetlen élményt kínálnak a látogatóknak, bemutatva a helyi kultúrát és hagyományokat.", "ro": "Novi Vinodolski, situat pe Riviera Crikvenica, este un oraș care îmbină o istorie bogată cu turismul modern. Numele său înseamnă „Valea Nouă a Vinului”, o aluzie la tradiția viticolă a regiunii. Centrul vechi este cocoțat pe un deal, dominat de castelul Frankopan din secolul al XIII-lea. Aici a fost scris în 1288 Codul de la Vinodol, unul dintre cele mai vechi documente juridice din Europa. O plimbare pe străduțele înguste și pietruite dezvăluie case de piatră și piețe mici care emană un farmec mediteranean autentic. Sub orașul vechi se întinde promenada modernă de pe malul mării, cu numeroase cafenele, restaurante și plaje cu pietriș. Zona înconjurătoare este ideală pentru turiștii activi: trasee de drumeții și ciclism duc prin hinterlandul verde, în timp ce coasta oferă oportunități pentru navigație și scufundări. Orașul este cunoscut și pentru evenimentele sale de vară, cum ar fi „Trandafirul din Vinodol”, unde tradițiile istorice sunt readuse la viață.", "en": "Novi Vinodolski, located on the Crikvenica Riviera, is a town that masterfully blends a rich history with the vibrancy of modern tourism. Its name translates to \"New Wine Valley,\" a tribute to the region's long-standing viticultural traditions. The old town is perched on a hill, dominated by the 13th-century Frankopan castle. This fortress is historically significant as the place where the Law Code of Vinodol was written in 1288, one of Europe's oldest legal texts. A stroll through its narrow, cobbled streets reveals stone houses and charming squares, exuding an authentic Mediterranean atmosphere. Below the historic core, a modern waterfront promenade stretches out, lined with cafes, restaurants, and pebble beaches perfect for relaxation. The surrounding area is a haven for active holidaymakers, with hiking and cycling trails winding through the green hinterland, and the crystal-clear sea offering excellent conditions for sailing and diving. In summer, the town comes alive with events celebrating its heritage."}, "factsAdvanced": {"de": ["Unterzeichnung des Vinodol-Gesetzbuches: 6. Januar 1288", "Höhe des Glockenturms der Kirche St. Philipp und Jakob: 36 Meter", "Entfernung nach Rijeka: 45 Kilometer", "Anzahl der Marinas: 2 (Marina Novi und Marina Muroskva)", "Höchster Punkt im Hinterland: Berg Viševica (1428 m)", "Berühmte Persönlichkeit: Ivan Mažuranić (Schriftsteller und Ban)"], "hu": ["A Vinodoli törvénykönyv aláírása: 1288. január 6.", "A Szent Fülöp és Jakab templom tornyának magassága: 36 méter", "Távolság Fiumétól (Rijeka): 45 kilométer", "Jachtkikötők száma: 2 (Marina Novi és Marina Muroskva)", "A hátország legmagasabb pontja: Viševica-hegy (1428 m)", "Híres szülöttje: Ivan Mažuranić író és horvát bán"], "ro": ["Semnarea Codului din Vinodol: 6 ianuarie 1288", "Înălțimea turnului bisericii Sf. Filip și Iacob: 36 metri", "Distanța față de Rijeka: 45 kilometri", "Numărul de marine: 2 (Marina Novi și Marina Muroskva)", "Cel mai înalt punct din hinterland: Muntele Viševica (1428 m)", "Personalitate celebră: Ivan Mažuranić (scriitor și ban al Croației)"], "en": ["Signing of the Vinodol Code: January 6, 1288", "Height of St. Philip and James church tower: 36 meters", "Distance to Rijeka: 45 kilometers", "Number of marinas: 2 (Marina Novi and Marina Muroskva)", "Highest peak in the hinterland: Viševica Mountain (1428 m)", "Famous native: Ivan Mažuranić (writer and Croatian Ban)"]}, "sights": {"de": [{"name": "Kastell Frankopan", "text": "Eine imposante mittelalterliche Festung, in der das Gesetzbuch von Vinodol im Jahr 1288 verfasst wurde.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/novi-vinodolski-kastell-frankopan.webp", "coords": [14.759714, 45.162172]}, {"name": "Heimatmuseum Novi Vinodolski", "text": "Das Museum befindet sich im Frankopan-Kastell und zeigt archäologische und ethnologische Funde.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/novi-vinodolski-heimatmuseum-novi-vinodolski.webp", "coords": [14.788708, 45.128482]}, {"name": "Bribirska beach", "text": "Nicht weit vom Zentrum in Novi Vinodolski entfernt, verführt dieser Fels- und Kieselstrand zum Eintauchen ins saubere Meerwasser. Die raue Struktur der Küste zieht Naturliebhaber und Schwimmer gleichermaßen an. Besucher sollten auf festes Schuhwerk achten, um die felsigen Abschnitte sicher zu überqueren.", "category": "recreational", "coords": [14.779468, 45.128291]}, {"name": "Beach Rivica Novi Vinodolski", "text": "Lebhaftes Treiben prägt diesen angenehmen Strandabschnitt in Novi Vinodolski. Dank verschiedener Einrichtungen für Badegäste mangelt es hier weder an Komfort noch an Unterhaltungsmöglichkeiten am Wasser. Um sich die besten Plätze in der Sonne zu sichern, empfiehlt sich eine zeitige Anreise am Vormittag.", "category": "recreational", "coords": [14.797403, 45.12321]}, {"name": "Rimska utvrda Lopar", "text": "Die archäologischen Überreste einer römischen Festung, die einst zur Überwachung der Seewege diente.", "category": "historical", "coords": [14.802054, 45.121953]}, {"name": "Zvonik", "text": "Der hohe Glockenturm der Kirche der Heiligen Philipp und Jakob, ein Wahrzeichen der Altstadt.", "category": "landmark", "coords": [14.787708, 45.128696]}, {"name": "Tunera Punta Magdalena", "text": "Ein historischer Thunfisch-Beobachtungsturm (Tunera) an der Küste von Novi Vinodolski.", "category": "landmark", "coords": [14.815397, 45.114594]}, {"name": "Plaža Bribirska obala", "text": "Entlang der malerischen Küste von Novi Vinodolski erstreckt sich dieser beliebte Kiesstrand. Seine weiten Kieselsteinflächen laden zum ausgiebigen Sonnenbaden und Erholen ein. An sommerlichen Nachmittagen trifft sich hier eine bunte Mischung aus Einheimischen und Urlaubern.", "category": "recreational", "coords": [14.77451, 45.129247]}, {"name": "Glavna gradska plaža", "text": "Im Herzen von Novi Vinodolski fungiert der zentrale Stadtstrand als pulsierender Treffpunkt für Wasserratten. Die vielen Freizeiteinrichtungen sorgen dafür, dass abseits des Schwimmens keine Langeweile aufkommt. Wer das volle Urlaubsleben sucht, ist an dieser belebten Küste bestens aufgehoben.", "category": "recreational", "coords": [14.794591, 45.123726]}, {"name": "Plaža Prva Dražica", "text": "Familienfreundlichkeit steht an diesem überaus gepflegten Strandabschnitt in Novi Vinodolski im Vordergrund. Die ruhige Atmosphäre am Wasser verspricht entspannte Bademomente für Groß und Klein. In der Hochsaison füllt sich das Ufer schnell, weshalb ein früher Spaziergang ans Meer ratsam ist.", "category": "recreational", "coords": [14.788667, 45.124377]}, {"name": "Plaža Grabrova", "text": "Eine herrliche Aussicht auf die kroatische Adria begleitet jeden Besuch an diesem ruhigen Strand in Novi Vinodolski. Das klare Wasser der Küste ist ein Segen für Schwimmer, die ungestört ihre Bahnen ziehen wollen. Ein idealer Rückzugsort für alle, die das Meer ohne großen Trubel genießen möchten.", "category": "recreational", "coords": [14.811856, 45.118531]}, {"name": "Plaža Povile", "text": "Im kleinen Dorf Povile bei Novi Vinodolski besticht diese Badestelle durch ihre allgegenwärtige Ruhe. Das charmante, ursprüngliche Ambiente der Küste lässt den Alltag im Nu verfliegen. Besonders am Abend ist es ein wundervoller Ort, um die sanften Wellen auf sich wirken zu lassen.", "category": "recreational", "coords": [14.817982, 45.115501]}], "hu": [{"name": "Frangepán-kastély", "text": "Középkori erődítmény, ahol 1288-ban aláírták a híres Vinodoli Törvénykönyvet.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/novi-vinodolski-kastell-frankopan.webp", "coords": [14.759714, 45.162172]}, {"name": "Népi Múzeum", "text": "A Frangepán-kastélyban működő múzeum régészeti és néprajzi gyűjteményeket mutat be.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/novi-vinodolski-heimatmuseum-novi-vinodolski.webp", "coords": [14.788708, 45.128482]}, {"name": "Bribirska beach", "text": "Novi Vinodolski központjától nem messze ez a sziklás és kavicsos strand a tiszta tengervízben való megmártózásra csábít. A partvonal zord szerkezete a természet kedvelőit és az úszókat egyaránt vonzza. A látogatóknak érdemes stabil lábbeliről gondoskodniuk a sziklás részek biztonságos átkeléséhez.", "category": "recreational", "coords": [14.779468, 45.128291]}, {"name": "Beach Rivica Novi Vinodolski", "text": "Élénk nyüzsgés jellemzi ezt a kellemes partszakaszt Novi Vinodolskiban. A fürdőzők számára kialakított különféle létesítményeknek köszönhetően a vízparton sem kényelemből, sem szórakozási lehetőségekből nincs hiány. A legjobb napos helyek biztosítása érdekében érdemes már a délelőtt folyamán korán érkezni.", "category": "recreational", "coords": [14.797403, 45.12321]}, {"name": "Rimska utvrda Lopar", "text": "Egy római erőd régészeti maradványai, amely egykor a tengeri útvonalak ellenőrzésére szolgált.", "category": "historical", "coords": [14.802054, 45.121953]}, {"name": "Zvonik", "text": "A Szent Fülöp és Jakab-templom magas harangtornya, amely a város képét meghatározó jelkép.", "category": "landmark", "coords": [14.787708, 45.128696]}, {"name": "Tunera Punta Magdalena", "text": "Hagyományos halászfigyelő torony, úgynevezett tunera Novi Vinodolski partján.", "category": "landmark", "coords": [14.815397, 45.114594]}, {"name": "Plaža Bribirska obala", "text": "Novi Vinodolski festői tengerpartja mentén húzódik ez a népszerű kavicsos strand. Széles kavicsos felületei kiadós napozásra és pihenésre hívogatnak. A nyári délutánokon a helyiek és a nyaralók színes forgataga találkozik ezen a ponton.", "category": "recreational", "coords": [14.77451, 45.129247]}, {"name": "Glavna gradska plaža", "text": "Novi Vinodolski szívében a központi városi strand a vízimádók vibráló találkozóhelyeként szolgál. A számos szabadidős létesítmény gondoskodik arról, hogy az úszás mellett se unatkozzon senki. Aki a pezsgő nyaralási élményt keresi, az ezen a forgalmas partszakaszon a legjobb helyen jár.", "category": "recreational", "coords": [14.794591, 45.123726]}, {"name": "Plaža Prva Dražica", "text": "A családbarát jelleg áll a középpontban ezen a rendkívül gondozott partszakaszon Novi Vinodolskiban. A vízparti csendes légkör nyugodt fürdőzést ígér kicsiknek és nagyoknak egyaránt. Főszezonban a part gyorsan megtelik, ezért ajánlott már korán lemenni a tengerhez.", "category": "recreational", "coords": [14.788667, 45.124377]}, {"name": "Plaža Grabrova", "text": "A horvát Adriára nyíló csodálatos kilátás kísér minden látogatást ezen a csendes strandon, Novi Vinodolskiban. A partvidék tiszta vize áldás az úszóknak, akik zavartalanul szeretnék róni a köröket. Ideális menedék mindazoknak, akik nagyobb nyüzsgés nélkül szeretnék élvezni a tengert.", "category": "recreational", "coords": [14.811856, 45.118531]}, {"name": "Plaža Povile", "text": "A Novi Vinodolski melletti kis faluban, Povilében ez a fürdőhely mindent átható nyugalmával varázsolja el a látogatókat. A partvonal bájos, eredeti hangulata egy szempillantás alatt feledteti a hétköznapokat. Különösen esténként csodálatos hely arra, hogy átadjuk magunkat a lágy hullámok varázsának.", "category": "recreational", "coords": [14.817982, 45.115501]}], "ro": [{"name": "Castelul Frankopan", "text": "O cetate medievală impunătoare unde a fost redactat Codul din Vinodol în anul 1288.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/novi-vinodolski-kastell-frankopan.webp", "coords": [14.759714, 45.162172]}, {"name": "Muzeul Național Novi Vinodolski", "text": "Situat în incinta castelului, muzeul prezintă istoria bogată și tradițiile regiunii.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/novi-vinodolski-heimatmuseum-novi-vinodolski.webp", "coords": [14.788708, 45.128482]}, {"name": "Bribirska beach", "text": "Nu departe de centrul orașului Novi Vinodolski, această plajă cu stânci și pietriș îi ispitește pe vizitatori să se scufunde în apa curată a mării. Structura aspră a coastei atrage deopotrivă iubitorii de natură și înotătorii. Vizitatorii ar trebui să ia în considerare încălțăminte robustă pentru a traversa în siguranță porțiunile stâncoase.", "category": "recreational", "coords": [14.779468, 45.128291]}, {"name": "Beach Rivica Novi Vinodolski", "text": "Activitatea plină de viață caracterizează această porțiune plăcută de plajă din Novi Vinodolski. Datorită diverselor facilități pentru scăldat, nu lipsește confortul sau divertismentul la malul apei. Pentru a prinde cele mai bune locuri la soare, se recomandă o sosire devreme dimineața.", "category": "recreational", "coords": [14.797403, 45.12321]}, {"name": "Rimska utvrda Lopar", "text": "Vestigiile arheologice ale unei fortărețe romane care servea odinioară ca punct de observație maritimă.", "category": "historical", "coords": [14.802054, 45.121953]}, {"name": "Zvonik", "text": "Turnul înalt al bisericii Sfinții Filip și Iacob, un punct de reper al centrului vechi.", "category": "landmark", "coords": [14.787708, 45.128696]}, {"name": "Tunera Punta Magdalena", "text": "Un turn istoric de observație pentru pescuitul de ton, numit tunera, în Novi Vinodolski.", "category": "landmark", "coords": [14.815397, 45.114594]}, {"name": "Plaža Bribirska obala", "text": "De-a lungul coastei pitorești din Novi Vinodolski se întinde această plajă populară cu pietriș. Suprafețele sale largi de pietriș invită la băi lungi de soare și relaxare. În după-amiezile de vară, aici se adună un amestec colorat de localnici și turiști.", "category": "recreational", "coords": [14.77451, 45.129247]}, {"name": "Glavna gradska plaža", "text": "În inima orașului Novi Vinodolski, plaja centrală a orașului servește drept punct de întâlnire vibrant pentru pasionații de apă. Numeroasele facilități de agrement asigură faptul că nu există momente de plictiseală dincolo de înot. Cei care caută experiența completă de vacanță se vor simți excelent pe această coastă animată.", "category": "recreational", "coords": [14.794591, 45.123726]}, {"name": "Plaža Prva Dražica", "text": "Caracterul prietenos pentru familii ocupă centrul atenției pe această porțiune de plajă foarte bine îngrijită din Novi Vinodolski. Atmosfera calmă de la malul apei promite momente de baie relaxante pentru cei tineri și vârstnici deopotrivă. În timpul sezonului de vârf, țărmul se umple rapid, motiv pentru care se recomandă o plimbare matinală la mare.", "category": "recreational", "coords": [14.788667, 45.124377]}, {"name": "Plaža Grabrova", "text": "O priveliște magnifică asupra Mării Adriatice din Croația însoțește fiecare vizită la această plajă liniștită din Novi Vinodolski. Apele limpezi ale coastei sunt o binecuvântare pentru înotătorii care doresc să își facă turele netulburați. Un refugiu ideal pentru oricine dorește să se bucure de mare fără prea multă agitație.", "category": "recreational", "coords": [14.811856, 45.118531]}, {"name": "Plaža Povile", "text": "În micul sat Povile de lângă Novi Vinodolski, acest loc de înot captivează prin liniștea sa omniprezentă. Ambianța fermecătoare și originală a coastei face ca viața de zi cu zi să se evapore într-o clipă. Mai ales seara, este un loc minunat pentru a lăsa valurile blânde să te liniștească.", "category": "recreational", "coords": [14.817982, 45.115501]}], "en": [{"name": "Frankopan Castle", "text": "A medieval fortress where the famous Vinodol Statute was signed in 1288, marking legal history.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/novi-vinodolski-kastell-frankopan.webp", "coords": [14.759714, 45.162172]}, {"name": "Novi Vinodolski City Museum", "text": "Located within the Frankopan Castle, it showcases archaeological and ethnographic local history.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/novi-vinodolski-heimatmuseum-novi-vinodolski.webp", "coords": [14.788708, 45.128482]}, {"name": "Bribirska beach", "text": "Not far from the center of Novi Vinodolski, this rocky and pebbly beach tempts visitors to dive into the clean seawater. The rugged structure of the coast attracts nature lovers and swimmers alike. Visitors should consider sturdy footwear to safely cross the rocky sections.", "category": "recreational", "coords": [14.779468, 45.128291]}, {"name": "Beach Rivica Novi Vinodolski", "text": "Lively activity characterizes this pleasant stretch of beach in Novi Vinodolski. Thanks to various facilities for bathers, there is no shortage of comfort or entertainment by the water. To secure the best spots in the sun, an early arrival in the morning is highly recommended.", "category": "recreational", "coords": [14.797403, 45.12321]}, {"name": "Rimska utvrda Lopar", "text": "The archaeological remains of a Roman fortress that once served as a maritime observation post.", "category": "historical", "coords": [14.802054, 45.121953]}, {"name": "Zvonik", "text": "The tall bell tower of the Church of St. Philip and James, a dominant landmark of the old town.", "category": "landmark", "coords": [14.787708, 45.128696]}, {"name": "Tunera Punta Magdalena", "text": "A historic wooden observation tower for tuna fishing, known as a tunera, in Novi Vinodolski.", "category": "landmark", "coords": [14.815397, 45.114594]}, {"name": "Beach Bribir coast", "text": "Along the picturesque coast of Novi Vinodolski stretches this popular pebble beach. Its wide pebble surfaces invite extensive sunbathing and relaxation. On summer afternoons, a colorful mix of locals and holidaymakers gathers here.", "category": "recreational", "coords": [14.77451, 45.129247]}, {"name": "Glavna gradska plaža", "text": "In the heart of Novi Vinodolski, the central city beach serves as a vibrant meeting point for water enthusiasts. The numerous leisure facilities ensure that there is never a dull moment away from swimming. Those looking for the full holiday experience are in excellent hands on this bustling coast.", "category": "recreational", "coords": [14.794591, 45.123726]}, {"name": "Plaža Prva Dražica", "text": "Family-friendliness takes center stage at this very well-kept beach section in Novi Vinodolski. The calm atmosphere by the water promises relaxed bathing moments for young and old alike. During peak season, the shore fills up quickly, which is why an early walk to the sea is advisable.", "category": "recreational", "coords": [14.788667, 45.124377]}, {"name": "Plaža Grabrova", "text": "A magnificent view of the Croatian Adriatic accompanies every visit to this quiet beach in Novi Vinodolski. The clear waters of the coast are a blessing for swimmers looking to do their laps undisturbed. An ideal retreat for anyone wanting to enjoy the sea without much hustle and bustle.", "category": "recreational", "coords": [14.811856, 45.118531]}, {"name": "Plaža Povile", "text": "In the small village of Povile near Novi Vinodolski, this swimming spot captivates with its ubiquitous tranquility. The charming, original ambiance of the coast makes everyday life fade away in an instant. Especially in the evening, it is a wonderful place to let the gentle waves wash over you.", "category": "recreational", "coords": [14.817982, 45.115501]}], "hr": [{"name": "Bribirska beach", "text": "Stjenovita i šljunčana plaža smještena blizu centra grada, popularna zbog čistog mora.", "category": "recreational", "coords": [14.779468, 45.128291]}, {"name": "Beach Rivica Novi Vinodolski", "text": "Ugodna plaža u Novom Vinodolskom koja nudi razne sadržaje za kupače.", "category": "recreational", "coords": [14.797403, 45.12321]}, {"name": "Rimska utvrda Lopar", "text": "Arheološki ostaci rimske utvrde koja je nekoć služila za nadzor morskih puteva.", "category": "historical", "coords": [14.802054, 45.121953]}, {"name": "Zvonik", "text": "Visoki zvonik crkve svetog Filipa i Jakova, prepoznatljivi simbol starogradske jezgre.", "category": "landmark", "coords": [14.787708, 45.128696]}, {"name": "Tunera Punta Magdalena", "text": "Povijesna tunera, drveni promatrački toranj za ribolov, smješten u Novom Vinodolskom.", "category": "landmark", "coords": [14.815397, 45.114594]}, {"name": "Beach Bribir coast", "text": "Popularna šljunčana plaža smještena uz obalu u Novom Vinodolskom.", "category": "recreational", "coords": [14.77451, 45.129247]}, {"name": "Glavna gradska plaža", "text": "Središnja gradska plaža u Novom Vinodolskom s brojnim turističkim sadržajima.", "category": "recreational", "coords": [14.794591, 45.123726]}, {"name": "Plaža Prva Dražica", "text": "Uređena obalna šetnica i plaža u Novom Vinodolskom, idealna za obitelji.", "category": "recreational", "coords": [14.788667, 45.124377]}, {"name": "Plaža Grabrova", "text": "Mirna plaža s čistim morem i prekrasnim pogledom, smještena u Novom Vinodolskom.", "category": "recreational", "coords": [14.811856, 45.118531]}, {"name": "Plaža Povile", "text": "Lijepa plaža u naselju Povile kod Novog Vinodolskog, poznata po mirnom okruženju.", "category": "recreational", "coords": [14.817982, 45.115501]}]}},
   {"id": "pakleni-palmizana", "type": "city", "parent": "HR-17", "coords": [16.3897, 43.1639], "population": 50, "tier": 3, "name": {"de": "Pakleni-Inseln (Palmižana)", "hu": "Pakleni-szigetek (Palmižana)", "ro": "Insulele Pakleni (Palmižana)", "en": "Pakleni Islands (Palmižana)"}, "description": {"de": "Eine exklusive Bucht auf der Insel Sveti Klement, bekannt für ihren botanischen Garten und kristallklares Wasser.", "hu": "Exkluzív öböl Sveti Klement szigetén, amely botanikus kertjéről és kristálytiszta vizéről híres.", "ro": "Un golf exclusivist pe insula Sveti Klement, cunoscut pentru grădina sa botanică și apele cristaline.", "en": "An exclusive bay on Sveti Klement island, famous for its botanical garden and crystal-clear waters."}, "facts": {"de": ["Ort: Insel Sveti Klement", "Teil der Pakleni-Inselgruppe", "Botanischer Garten seit 1906", "Kein Autoverkehr möglich", "Beliebter Yachthafen (ACI Marina)", "Gegründet von Familie Meneghello", "Mehrere gehobene Restaurants", "Sandstrand in der Vinogradišće-Bucht"], "hu": ["Helyszín: Sveti Klement-sziget", "A Pakleni-szigetcsoport része", "Botanikus kert 1906 óta", "Nincs autóforgalom", "Népszerű jachtkikötő (ACI Marina)", "A Meneghello család alapította", "Számos nívós étterem", "Homokos strand a Vinogradišće-öbölben"], "ro": ["Locație: Insula Sveti Klement", "Parte a grupului de insule Pakleni", "Grădină botanică din 1906", "Fără trafic auto", "Port de iahturi popular (ACI Marina)", "Fondat de familia Meneghello", "Mai multe restaurante de lux", "Plajă cu nisip în golful Vinogradišće"], "en": ["Location: Sveti Klement island", "Part of the Pakleni archipelago", "Botanical garden since 1906", "No car traffic", "Popular yacht marina (ACI Marina)", "Founded by the Meneghello family", "Several high-end restaurants", "Sandy beach in Vinogradišće bay"]}, "image": "/poi-images/pakleni-palmizana.webp", "imageHint": "Lush vegetation and turquoise bay of Palmižana resort", "descriptionAdvanced": {"de": "Palmižana ist das älteste und bekannteste Resort auf den Pakleni-Inseln direkt vor der Stadt Hvar. Das Herzstück ist das Anwesen der Familie Meneghello, die hier 1906 begann, einen beeindruckenden botanischen Garten mit exotischen Pflanzen aus aller Welt anzulegen. Heute ist Palmižana ein Synonym für gehobenen Naturtourismus, Kunstgalerien und erstklassige Gastronomie in einer wildromantischen Umgebung. Die Besucher erreichen den Ort meist mit dem Taxiboot von Hvar aus oder legen mit eigenen Yachten in der ACI Marina Palmižana an. Die Südbucht Vinogradišće bietet einen seltenen Sandstrand und azurblaues Wasser, umgeben von dichten Pinienwäldern. Trotz der Beliebtheit hat sich Palmižana einen Hauch von Robinson-Crusoe-Abenteuer bewahrt, kombiniert mit modernem Komfort und ästhetischem Anspruch.", "hu": "Palmižana a legrégebbi és legismertebb üdülőhely a Pakleni-szigeteken, közvetlenül Hvar városa előtt. A szívét a Meneghello család birtoka adja, akik 1906-ban kezdték el kialakítani az egzotikus növényekkel teli, lenyűgöző botanikus kertet. Ma Palmižana a nívós természetközeli turizmus, a művészeti galériák és az első osztályú gasztronómia szinonimája vadregényes környezetben. A látogatók többnyire taxicsónakkal érkeznek Hvarból, vagy saját jachttal kötnek ki az ACI Marina Palmižanában. A déli Vinogradišće-öböl ritka homokos strandot és azúrkék vizet kínál, sűrű fenyőerdőkkel körülvéve. Népszerűsége ellenére Palmižana megőrizte Robinson Crusoe-szerű kalandos jellegét, modern kényelemmel és esztétikai igénnyel ötvözve.", "ro": "Palmižana este cea mai veche și mai cunoscută stațiune din insulele Pakleni, chiar în fața orașului Hvar. Piesa centrală este proprietatea familiei Meneghello, care a început aici în 1906 amenajarea unei grădini botanice impresionante cu plante exotice din întreaga lume. Astăzi, Palmižana este sinonimă cu turismul de natură de lux, galerii de artă și gastronomie de primă clasă într-un cadru sălbatic și romantic. Vizitatorii ajung de obicei cu taxi-boat-ul din Hvar sau ancorează cu propriile iahturi în ACI Marina Palmižana. Golful sudic Vinogradišće oferă o plajă rară cu nisip și ape azurii, înconjurate de păduri dese de pini. În ciuda popularității sale, Palmižana și-a păstrat o notă de aventură stil Robinson Crusoe, combinată cu confortul modern și rafinamentul estetic.", "en": "Palmižana is the oldest and most famous resort on the Pakleni Islands, located right in front of Hvar town. Its heart is the estate of the Meneghello family, who began creating an impressive botanical garden with exotic plants from all over the world in 1906. Today, Palmižana is synonymous with high-end nature tourism, art galleries, and first-class gastronomy in a wild, romantic setting. Visitors mostly arrive by water taxi from Hvar or moor their own yachts at ACI Marina Palmižana. The southern bay of Vinogradišće offers a rare sandy beach and azure waters, surrounded by dense pine forests. Despite its popularity, Palmižana has retained a touch of Robinson Crusoe adventure, combined with modern comfort and aesthetic appeal."}, "factsAdvanced": {"de": ["Eugen Meneghello kaufte das Land im Jahr 1906.", "Der Name Pakleni stammt von 'paklina', einem Harz für den Schiffbau.", "Die Insel Sveti Klement ist die größte des Archipels.", "In der Vinogradišće-Bucht befinden sich fünf renommierte Restaurants.", "Die ACI Marina bietet 211 Liegeplätze und ist nur saisonal geöffnet.", "Es gibt keinen ständigen Stromanschluss vom Festland."], "hu": ["Eugen Meneghello 1906-ban vásárolta meg a területet.", "A Pakleni név a 'paklina' szóból ered, ami hajóépítéshez használt gyantát jelent.", "Sveti Klement-sziget a szigetcsoport legnagyobb tagja.", "A Vinogradišće-öbölben öt neves étterem található.", "Az ACI Marina 211 kikötőhelyet kínál és csak szezonálisan üzemel.", "Nincs állandó áramcsatlakozás a szárazföldről."], "ro": ["Eugen Meneghello a cumpărat terenul în anul 1906.", "Numele Pakleni provine de la 'paklina', o rășină folosită în construcția navelor.", "Insula Sveti Klement este cea mai mare din arhipelag.", "În golful Vinogradišće se află cinci restaurante de renume.", "Marina ACI oferă 211 dane și este deschisă doar sezonier.", "Nu există o conexiune permanentă de energie electrică de pe continent."], "en": ["Eugen Meneghello purchased the land in 1906.", "The name Pakleni comes from 'paklina', a resin used for shipbuilding.", "Sveti Klement island is the largest in the archipelago.", "Five renowned restaurants are located in Vinogradišće bay.", "The ACI Marina offers 211 berths and is open only seasonally.", "There is no permanent power connection from the mainland."]}, "sights": {
       "de": [
@@ -7234,7 +10811,430 @@ export const poiExtraHrV2: POI[] = [
             }
       ]
 }},
-  {"id": "selce", "type": "city", "parent": "HR-08", "coords": [14.7194, 45.15], "population": 1670, "tier": 3, "name": {"de": "Selce", "hu": "Selce", "ro": "Selce", "en": "Selce"}, "description": {"de": "Selce ist ein malerischer Küstenort an der Riviera von Crikvenica, bekannt für seine saubere Luft und eine über 100-jährige Tradition im Gesundheitstourismus.", "hu": "Selce egy festői tengerparti település a Crikvenicai Riviérán, amely tiszta levegőjéről és több mint 100 éves egészségturisztikai hagyományairól ismert.", "ro": "Selce este o localitate de coastă pitorească pe Riviera Crikvenica, cunoscută pentru aerul curat și tradiția de peste 100 de ani în turismul balnear.", "en": "Selce is a picturesque coastal town on the Crikvenica Riviera, famous for its clean air and over 100 years of tradition in health tourism."}, "facts": {"de": ["Kvarner Bucht", "Riviera von Crikvenica", "Erstes Strandbad 1894", "Gesundheitstourismus", "Uferpromenade Lungomare", "Blaue Flagge Strände", "1670 Einwohner", "Mildes Mikroklima"], "hu": ["Kvarner-öböl", "Crikvenicai Riviéra", "Első strandfürdő 1894", "Gyógyturizmus", "Lungomare sétány", "Kék zászlós strandok", "1670 lakos", "Enyhe mikroklíma"], "ro": ["Golful Kvarner", "Riviera Crikvenica", "Prima plajă amenajată în 1894", "Turism medical", "Promenada Lungomare", "Plaje cu Steag Albastru", "1670 locuitori", "Microclimat blând"], "en": ["Kvarner Bay", "Crikvenica Riviera", "First public bath 1894", "Health tourism hub", "Lungomare promenade", "Blue Flag beaches", "1670 inhabitants", "Mild microclimate"]}, "image": "/poi-images/selce.webp", "imageHint": "Sunlit waterfront of Selce with traditional Mediterranean houses and small boats", "descriptionAdvanced": {"de": "Selce ist ein charmanter Küstenort an der Riviera von Crikvenica, der sich die authentische Atmosphäre eines ehemaligen Fischerdorfes bewahrt hat. Heute ist es ein beliebter Ferienort, der für seine gepflegten Strände, sein sauberes Meer und sein mildes Klima bekannt ist. Die Uferpromenade, die Selce mit dem benachbarten Crikvenica verbindet, ist ideal für lange Spaziergänge oder Radtouren mit herrlichem Blick auf die Insel Krk. Im Zentrum des Ortes befindet sich der kleine Hafen mit Fischerbooten und Ausflugsschiffen. Die Strände sind vielfältig: Der bekannteste ist Poli Mora, ein Kiesstrand mit sandigen Abschnitten im Wasser, der besonders bei Familien beliebt ist. Es gibt aber auch viele kleinere, felsige Buchten, die mehr Privatsphäre bieten. Selce hat auch eine lange Tradition im Gesundheitstourismus, und die jodhaltige Meeresluft wirkt sich positiv auf die Atemwege aus. Für Aktivurlauber gibt es ein Tauchzentrum und zahlreiche Möglichkeiten für Wassersport. Am Abend erwacht die Promenade mit ihren Restaurants und Cafés zum Leben, in denen man frischen Fisch und lokale Spezialitäten genießen kann.", "hu": "Selce egy bájos tengerparti település a Crikvenicai Riviérán, amely megőrizte egykori halászfalu autentikus hangulatát. Mára népszerű üdülőhellyé vált, amely gondozott strandjairól, tiszta tengeréről és enyhe éghajlatáról ismert. A Selcét a szomszédos Crikvenicával összekötő tengerparti sétány ideális hosszú sétákhoz vagy kerékpártúrákhoz, miközben gyönyörű kilátás nyílik a Krk-szigetre. A központban található a kis kikötő, ahol halászhajók és kirándulóhajók ringatóznak. A strandok változatosak: a leghíresebb a Poli Mora, egy kavicsos strand homokos részekkel a vízben, amely különösen a családok körében népszerű. De számos kisebb, sziklás öböl is található, amelyek több magányt kínálnak. Selce emellett hosszú múltra tekint vissza az egészségturizmus terén; a jódban gazdag tengeri levegő jótékony hatással van a légzőszervekre. Az aktív nyaralók számára búvárközpont és számos vízi sportolási lehetőség áll rendelkezésre. Este a sétány életre kel, az éttermekben és kávézókban friss halat és helyi specialitásokat kóstolhatunk.", "ro": "Selce este o stațiune de coastă fermecătoare pe Riviera Crikvenica, care a păstrat atmosfera autentică a unui vechi sat pescăresc. Astăzi, este o destinație turistică populară, cunoscută pentru plajele sale bine întreținute, marea curată și clima blândă. Promenada de pe faleză, care leagă Selce de orașul vecin Crikvenica, este ideală pentru plimbări lungi sau tururi cu bicicleta, oferind vederi magnifice asupra insulei Krk. În centrul orașului se află micul port, cu bărci de pescuit și de excursii. Plajele sunt diverse: cea mai faimoasă este Poli Mora, o plajă cu pietriș și zone nisipoase în apă, deosebit de populară printre familii. Există, de asemenea, numeroase golfuri stâncoase mai mici, care oferă mai multă intimitate. Selce are o lungă tradiție în turismul balnear, iar aerul marin bogat în iod are un efect benefic asupra sistemului respirator. Pentru turiștii activi, există un centru de scufundări și numeroase oportunități pentru sporturi nautice. Seara, promenada prinde viață cu restaurantele și cafenelele sale, unde se pot savura pește proaspăt și specialități locale.", "en": "Selce is a charming coastal town on the Crikvenica Riviera that has successfully preserved the authentic atmosphere of a former fishing village. Today, it is a popular holiday resort known for its well-maintained beaches, crystal-clear sea, and mild climate. The seaside promenade, which connects Selce with the neighboring town of Crikvenica, is perfect for long walks or bike rides, offering beautiful views of Krk island. The heart of the town is its small harbor, bustling with fishing boats and tourist excursion vessels. The beaches here are diverse: the most famous is Poli Mora, a pebble beach with sandy patches in the water, making it a favorite among families. There are also many smaller, rocky coves that offer more privacy. Selce has a long history of health tourism, and its iodine-rich sea air is considered beneficial for respiratory health. For active visitors, there is a well-regarded diving center and numerous water sports opportunities. In the evenings, the promenade comes alive with restaurants and cafes serving fresh fish and local delicacies."}, "factsAdvanced": {"de": ["Eröffnung des ersten Kurhotels: 1911 (Hotel Esperanto)", "Sonnenstunden pro Jahr: ca. 2500", "Länge der Promenade nach Crikvenica: 3 Kilometer", "Wassertemperatur im Sommer: bis zu 26 Grad Celsius", "Entfernung zum Flughafen Rijeka: 25 Kilometer", "Wichtigste Kirche: St. Katharina (1888 erbaut)"], "hu": ["Az első gyógyszálló megnyitása: 1911 (Hotel Esperanto)", "Napsütéses órák száma évente: kb. 2500", "A Crikvenicába vezető sétány hossza: 3 kilométer", "Nyári vízhőmérséklet: akár 26 Celsius-fok", "Távolság a fiumei repülőtértől: 25 kilométer", "Főtemplom: Szent Katalin-templom (épült 1888-ban)"], "ro": ["Deschiderea primului hotel balnear: 1911 (Hotel Esperanto)", "Ore de soare pe an: aprox. 2500", "Lungimea promenadei spre Crikvenica: 3 kilometri", "Temperatura apei vara: până la 26 grade Celsius", "Distanța față de aeroportul Rijeka: 25 kilometri", "Biserica principală: Sfânta Ecaterina (construită în 1888)"], "en": ["Opening of the first health hotel: 1911 (Hotel Esperanto)", "Sunshine hours per year: approx. 2500", "Length of the promenade to Crikvenica: 3 kilometers", "Sea temperature in summer: up to 26 degrees Celsius", "Distance to Rijeka Airport: 25 kilometers", "Main church: St. Catherine's (built in 1888)"]}, "sights": {"de": [{"name": "Uvala Slana", "text": "Eine wunderschöne Bucht mit kristallklarem Wasser, beliebt bei Tauchern und Naturliebhabern.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/selce-uvala-slana.webp", "coords": [14.720784, 45.151579]}, {"name": "Tunera", "text": "Ein alter hölzerner Aussichtsturm für den Thunfischfang, ein Symbol der Fischereitradition des Ortes.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/selce-tunera.webp", "coords": [14.717715, 45.155694]}, {"name": "Nudistička plaža FKK", "text": "Freikörperkultur hat an diesem offiziellen FKK-Strand unweit von Selce ihr festes Zuhause gefunden. Die abgeschirmte Lage an der kroatischen Adria bietet Naturisten eine entspannte und tolerante Atmosphäre. Für ein ungestörtes Badeerlebnis unter Gleichgesinnten ist dieser Ort die beste Wahl.", "category": "recreational", "coords": [14.727925, 45.148563]}, {"name": "Pekna plaz", "text": "Ein schöner Küstenabschnitt in Selce, der zum Baden und Entspannen einlädt.", "category": "recreational", "coords": [14.739514, 45.139146]}, {"name": "Uvala Selce", "text": "Eine malerische Bucht in Selce, die den Kern des touristischen Lebens im Ort bildet.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Podvorska", "text": "Ein beliebter Hundestrand in Selce mit speziellen Einrichtungen für Haustiere.", "category": "landmark", "coords": [14.695675, 45.169474]}], "hu": [{"name": "Slana-öböl", "text": "Kristálytiszta vizű öböl, amely népszerű a búvárok és a természetjárók körében.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/selce-uvala-slana.webp", "coords": [14.720784, 45.151579]}, {"name": "Tunera", "text": "Régi fa kilátótorony a tonhalhalászathoz, Selce halászati hagyományainak jelképe.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/selce-tunera.webp", "coords": [14.717715, 45.155694]}, {"name": "Nudistička plaža FKK", "text": "A naturizmus állandó otthonra lelt ezen a hivatalos FKK-strandon, Selce közelében. A horát Adria ezen védett szakasza nyugodt és toleráns légkört kínál a természetjáróknak. Hasonló gondolkodású emberek társaságában történő, zavartalan fürdőzéshez ez a hely a legjobb választás.", "category": "recreational", "coords": [14.727925, 45.148563]}, {"name": "Pekna plaz", "text": "Szép tengerparti szakasz Selcében, amely kellemes pihenést és fürdőzést kínál.", "category": "recreational", "coords": [14.739514, 45.139146]}, {"name": "Uvala Selce", "text": "Festői öböl Selcében, amely a település turisztikai életének központja.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Podvorska", "text": "Népszerű kutyás strand Selce településen, speciális felszereltséggel a kisállatok számára.", "category": "landmark", "coords": [14.695675, 45.169474]}], "ro": [{"name": "Golful Slana", "text": "Un golf cu ape cristaline, ideal pentru scufundări și pentru cei care caută liniște în natură.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/selce-uvala-slana.webp", "coords": [14.720784, 45.151579]}, {"name": "Tunera", "text": "Turn de observație din lemn pentru pescuitul de ton, simbol al tradiției pescărești locale.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/selce-tunera.webp", "coords": [14.717715, 45.155694]}, {"name": "Nudistička plaža FKK", "text": "Naturismul și-a găsit o casă permanentă pe această plajă oficială de nudiști, nu departe de Selce. Locația retrasă de la Marea Adriatică din Croația oferă nudiștilor o atmosferă relaxată și tolerantă. Pentru o experiență de baie netulburată printre oameni cu aceleași preferințe, acest loc este cea mai bună alegere.", "category": "recreational", "coords": [14.727925, 45.148563]}, {"name": "Pekna plaz", "text": "O porțiune frumoasă de coastă în Selce, ideală pentru înot și relaxare.", "category": "recreational", "coords": [14.739514, 45.139146]}, {"name": "Uvala Selce", "text": "Un golf pitoresc în Selce, care reprezintă centrul vieții turistice din localitate.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Podvorska", "text": "O plajă populară pentru câini în Selce, oferind facilități speciale pentru animalele de companie.", "category": "landmark", "coords": [14.695675, 45.169474]}], "en": [{"name": "Slana Cove", "text": "A beautiful natural bay with crystal clear water, popular for diving and peaceful swimming.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/selce-uvala-slana.webp", "coords": [14.720784, 45.151579]}, {"name": "Tunera", "text": "An old wooden observation tower used for tuna fishing, a symbol of Selce's maritime heritage.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/selce-tunera.webp", "coords": [14.717715, 45.155694]}, {"name": "Nudist beach FKK", "text": "Nudism has found a permanent home at this official naturist beach not far from Selce. The secluded location on the Croatian Adriatic offers naturists a relaxed and tolerant atmosphere. For an undisturbed bathing experience among like-minded people, this spot is the best choice.", "category": "recreational", "coords": [14.727925, 45.148563]}, {"name": "Pekna plaz", "text": "A beautiful stretch of coastline in Selce, perfect for swimming and relaxation.", "category": "recreational", "coords": [14.739514, 45.139146]}, {"name": "Uvala Selce", "text": "A picturesque bay in Selce which serves as the center of the town's tourist life.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Podvorska", "text": "A popular dog beach in Selce, offering specialized amenities for pets.", "category": "landmark", "coords": [14.695675, 45.169474]}], "hr": [{"name": "Nudist beach FKK", "text": "Službena FKK plaža u blizini Selca, idealna za naturiste.", "category": "recreational", "coords": [14.727925, 45.148563]}, {"name": "Pekna plaz", "text": "Lijep dio obale u Selcu, idealan za kupanje i opuštanje.", "category": "recreational", "coords": [14.739514, 45.139146]}, {"name": "Uvala Selce", "text": "Slikovita uvala u Selcu koja predstavlja središte turističkog života mjesta.", "category": "natural", "coords": [14.717313, 45.156728]}, {"name": "Podvorska", "text": "Popularna plaža za pse u Selcu s posebnim sadržajima za kućne ljubimce.", "category": "landmark", "coords": [14.695675, 45.169474]}]}},
+  {"id": "selce", "type": "city", "parent": "HR-08", "coords": [14.7194, 45.15], "population": 1670, "tier": 3, "name": {"de": "Selce", "hu": "Selce", "ro": "Selce", "en": "Selce"}, "description": {"de": "Selce ist ein malerischer Küstenort an der Riviera von Crikvenica, bekannt für seine saubere Luft und eine über 100-jährige Tradition im Gesundheitstourismus.", "hu": "Selce egy festői tengerparti település a Crikvenicai Riviérán, amely tiszta levegőjéről és több mint 100 éves egészségturisztikai hagyományairól ismert.", "ro": "Selce este o localitate de coastă pitorească pe Riviera Crikvenica, cunoscută pentru aerul curat și tradiția de peste 100 de ani în turismul balnear.", "en": "Selce is a picturesque coastal town on the Crikvenica Riviera, famous for its clean air and over 100 years of tradition in health tourism."}, "facts": {"de": ["Kvarner Bucht", "Riviera von Crikvenica", "Erstes Strandbad 1894", "Gesundheitstourismus", "Uferpromenade Lungomare", "Blaue Flagge Strände", "1670 Einwohner", "Mildes Mikroklima"], "hu": ["Kvarner-öböl", "Crikvenicai Riviéra", "Első strandfürdő 1894", "Gyógyturizmus", "Lungomare sétány", "Kék zászlós strandok", "1670 lakos", "Enyhe mikroklíma"], "ro": ["Golful Kvarner", "Riviera Crikvenica", "Prima plajă amenajată în 1894", "Turism medical", "Promenada Lungomare", "Plaje cu Steag Albastru", "1670 locuitori", "Microclimat blând"], "en": ["Kvarner Bay", "Crikvenica Riviera", "First public bath 1894", "Health tourism hub", "Lungomare promenade", "Blue Flag beaches", "1670 inhabitants", "Mild microclimate"]}, "image": "/poi-images/selce.webp", "imageHint": "Sunlit waterfront of Selce with traditional Mediterranean houses and small boats", "descriptionAdvanced": {"de": "Selce ist ein charmanter Küstenort an der Riviera von Crikvenica, der sich die authentische Atmosphäre eines ehemaligen Fischerdorfes bewahrt hat. Heute ist es ein beliebter Ferienort, der für seine gepflegten Strände, sein sauberes Meer und sein mildes Klima bekannt ist. Die Uferpromenade, die Selce mit dem benachbarten Crikvenica verbindet, ist ideal für lange Spaziergänge oder Radtouren mit herrlichem Blick auf die Insel Krk. Im Zentrum des Ortes befindet sich der kleine Hafen mit Fischerbooten und Ausflugsschiffen. Die Strände sind vielfältig: Der bekannteste ist Poli Mora, ein Kiesstrand mit sandigen Abschnitten im Wasser, der besonders bei Familien beliebt ist. Es gibt aber auch viele kleinere, felsige Buchten, die mehr Privatsphäre bieten. Selce hat auch eine lange Tradition im Gesundheitstourismus, und die jodhaltige Meeresluft wirkt sich positiv auf die Atemwege aus. Für Aktivurlauber gibt es ein Tauchzentrum und zahlreiche Möglichkeiten für Wassersport. Am Abend erwacht die Promenade mit ihren Restaurants und Cafés zum Leben, in denen man frischen Fisch und lokale Spezialitäten genießen kann.", "hu": "Selce egy bájos tengerparti település a Crikvenicai Riviérán, amely megőrizte egykori halászfalu autentikus hangulatát. Mára népszerű üdülőhellyé vált, amely gondozott strandjairól, tiszta tengeréről és enyhe éghajlatáról ismert. A Selcét a szomszédos Crikvenicával összekötő tengerparti sétány ideális hosszú sétákhoz vagy kerékpártúrákhoz, miközben gyönyörű kilátás nyílik a Krk-szigetre. A központban található a kis kikötő, ahol halászhajók és kirándulóhajók ringatóznak. A strandok változatosak: a leghíresebb a Poli Mora, egy kavicsos strand homokos részekkel a vízben, amely különösen a családok körében népszerű. De számos kisebb, sziklás öböl is található, amelyek több magányt kínálnak. Selce emellett hosszú múltra tekint vissza az egészségturizmus terén; a jódban gazdag tengeri levegő jótékony hatással van a légzőszervekre. Az aktív nyaralók számára búvárközpont és számos vízi sportolási lehetőség áll rendelkezésre. Este a sétány életre kel, az éttermekben és kávézókban friss halat és helyi specialitásokat kóstolhatunk.", "ro": "Selce este o stațiune de coastă fermecătoare pe Riviera Crikvenica, care a păstrat atmosfera autentică a unui vechi sat pescăresc. Astăzi, este o destinație turistică populară, cunoscută pentru plajele sale bine întreținute, marea curată și clima blândă. Promenada de pe faleză, care leagă Selce de orașul vecin Crikvenica, este ideală pentru plimbări lungi sau tururi cu bicicleta, oferind vederi magnifice asupra insulei Krk. În centrul orașului se află micul port, cu bărci de pescuit și de excursii. Plajele sunt diverse: cea mai faimoasă este Poli Mora, o plajă cu pietriș și zone nisipoase în apă, deosebit de populară printre familii. Există, de asemenea, numeroase golfuri stâncoase mai mici, care oferă mai multă intimitate. Selce are o lungă tradiție în turismul balnear, iar aerul marin bogat în iod are un efect benefic asupra sistemului respirator. Pentru turiștii activi, există un centru de scufundări și numeroase oportunități pentru sporturi nautice. Seara, promenada prinde viață cu restaurantele și cafenelele sale, unde se pot savura pește proaspăt și specialități locale.", "en": "Selce is a charming coastal town on the Crikvenica Riviera that has successfully preserved the authentic atmosphere of a former fishing village. Today, it is a popular holiday resort known for its well-maintained beaches, crystal-clear sea, and mild climate. The seaside promenade, which connects Selce with the neighboring town of Crikvenica, is perfect for long walks or bike rides, offering beautiful views of Krk island. The heart of the town is its small harbor, bustling with fishing boats and tourist excursion vessels. The beaches here are diverse: the most famous is Poli Mora, a pebble beach with sandy patches in the water, making it a favorite among families. There are also many smaller, rocky coves that offer more privacy. Selce has a long history of health tourism, and its iodine-rich sea air is considered beneficial for respiratory health. For active visitors, there is a well-regarded diving center and numerous water sports opportunities. In the evenings, the promenade comes alive with restaurants and cafes serving fresh fish and local delicacies."}, "factsAdvanced": {"de": ["Eröffnung des ersten Kurhotels: 1911 (Hotel Esperanto)", "Sonnenstunden pro Jahr: ca. 2500", "Länge der Promenade nach Crikvenica: 3 Kilometer", "Wassertemperatur im Sommer: bis zu 26 Grad Celsius", "Entfernung zum Flughafen Rijeka: 25 Kilometer", "Wichtigste Kirche: St. Katharina (1888 erbaut)"], "hu": ["Az első gyógyszálló megnyitása: 1911 (Hotel Esperanto)", "Napsütéses órák száma évente: kb. 2500", "A Crikvenicába vezető sétány hossza: 3 kilométer", "Nyári vízhőmérséklet: akár 26 Celsius-fok", "Távolság a fiumei repülőtértől: 25 kilométer", "Főtemplom: Szent Katalin-templom (épült 1888-ban)"], "ro": ["Deschiderea primului hotel balnear: 1911 (Hotel Esperanto)", "Ore de soare pe an: aprox. 2500", "Lungimea promenadei spre Crikvenica: 3 kilometri", "Temperatura apei vara: până la 26 grade Celsius", "Distanța față de aeroportul Rijeka: 25 kilometri", "Biserica principală: Sfânta Ecaterina (construită în 1888)"], "en": ["Opening of the first health hotel: 1911 (Hotel Esperanto)", "Sunshine hours per year: approx. 2500", "Length of the promenade to Crikvenica: 3 kilometers", "Sea temperature in summer: up to 26 degrees Celsius", "Distance to Rijeka Airport: 25 kilometers", "Main church: St. Catherine's (built in 1888)"]}, "sights": {
+      "de": [
+            {
+                  "name": "Uvala Slana",
+                  "text": "Eine wunderschöne Bucht mit kristallklarem Wasser, beliebt bei Tauchern und Naturliebhabern.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/selce-uvala-slana.webp",
+                  "coords": [
+                        14.720784,
+                        45.151579
+                  ]
+            },
+            {
+                  "name": "Tunera",
+                  "text": "Ein alter hölzerner Aussichtsturm für den Thunfischfang, ein Symbol der Fischereitradition des Ortes.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/selce-tunera.webp",
+                  "coords": [
+                        14.717715,
+                        45.155694
+                  ]
+            },
+            {
+                  "name": "Nudistička plaža FKK",
+                  "text": "Freikörperkultur hat an diesem offiziellen FKK-Strand unweit von Selce ihr festes Zuhause gefunden. Die abgeschirmte Lage an der kroatischen Adria bietet Naturisten eine entspannte und tolerante Atmosphäre. Für ein ungestörtes Badeerlebnis unter Gleichgesinnten ist dieser Ort die beste Wahl.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727925,
+                        45.148563
+                  ]
+            },
+            {
+                  "name": "Pekna plaz",
+                  "text": "Ein schöner Küstenabschnitt in Selce, der zum Baden und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.739514,
+                        45.139146
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "Eine malerische Bucht in Selce, die den Kern des touristischen Lebens im Ort bildet.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "Ein beliebter Hundestrand in Selce mit speziellen Einrichtungen für Haustiere.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            },
+            {
+                  "name": "Akvarij Crikvenica",
+                  "text": "Crikvenica Aquarium in Selce ist ein schönes Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        14.692127,
+                        45.173684
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište",
+                  "text": "Gradsko kupalište in Selce bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        14.682415,
+                        45.178933
+                  ]
+            },
+            {
+                  "name": "Gradsko plivalište",
+                  "text": "Gradsko plivalište in Selce bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        14.688453,
+                        45.173193
+                  ]
+            },
+            {
+                  "name": "Plaža Kaštel",
+                  "text": "Kaštel beach in Selce ist ein Strandresort, das eine angenehme Umgebung für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.694313,
+                        45.171223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slana-öböl",
+                  "text": "Kristálytiszta vizű öböl, amely népszerű a búvárok és a természetjárók körében.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/selce-uvala-slana.webp",
+                  "coords": [
+                        14.720784,
+                        45.151579
+                  ]
+            },
+            {
+                  "name": "Tunera",
+                  "text": "Régi fa kilátótorony a tonhalhalászathoz, Selce halászati hagyományainak jelképe.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/selce-tunera.webp",
+                  "coords": [
+                        14.717715,
+                        45.155694
+                  ]
+            },
+            {
+                  "name": "Nudistička plaža FKK",
+                  "text": "A naturizmus állandó otthonra lelt ezen a hivatalos FKK-strandon, Selce közelében. A horát Adria ezen védett szakasza nyugodt és toleráns légkört kínál a természetjáróknak. Hasonló gondolkodású emberek társaságában történő, zavartalan fürdőzéshez ez a hely a legjobb választás.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727925,
+                        45.148563
+                  ]
+            },
+            {
+                  "name": "Pekna plaz",
+                  "text": "Szép tengerparti szakasz Selcében, amely kellemes pihenést és fürdőzést kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.739514,
+                        45.139146
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "Festői öböl Selcében, amely a település turisztikai életének központja.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "Népszerű kutyás strand Selce településen, speciális felszereltséggel a kisállatok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            },
+            {
+                  "name": "Akvarij Crikvenica",
+                  "text": "A Selce városában lévő Crikvenica Aquarium vidám helyszín egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.692127,
+                        45.173684
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište",
+                  "text": "A Selce településen található Gradsko kupalište frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        14.682415,
+                        45.178933
+                  ]
+            },
+            {
+                  "name": "Gradsko plivalište",
+                  "text": "A Selce településen található Gradsko plivalište frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        14.688453,
+                        45.173193
+                  ]
+            },
+            {
+                  "name": "Plaža Kaštel",
+                  "text": "A Selce városában található Kaštel beach egy tengerparti üdülőhely, amely kellemes környezetet kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        14.694313,
+                        45.171223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golful Slana",
+                  "text": "Un golf cu ape cristaline, ideal pentru scufundări și pentru cei care caută liniște în natură.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/selce-uvala-slana.webp",
+                  "coords": [
+                        14.720784,
+                        45.151579
+                  ]
+            },
+            {
+                  "name": "Tunera",
+                  "text": "Turn de observație din lemn pentru pescuitul de ton, simbol al tradiției pescărești locale.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/selce-tunera.webp",
+                  "coords": [
+                        14.717715,
+                        45.155694
+                  ]
+            },
+            {
+                  "name": "Nudistička plaža FKK",
+                  "text": "Naturismul și-a găsit o casă permanentă pe această plajă oficială de nudiști, nu departe de Selce. Locația retrasă de la Marea Adriatică din Croația oferă nudiștilor o atmosferă relaxată și tolerantă. Pentru o experiență de baie netulburată printre oameni cu aceleași preferințe, acest loc este cea mai bună alegere.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727925,
+                        45.148563
+                  ]
+            },
+            {
+                  "name": "Pekna plaz",
+                  "text": "O porțiune frumoasă de coastă în Selce, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.739514,
+                        45.139146
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "Un golf pitoresc în Selce, care reprezintă centrul vieții turistice din localitate.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "O plajă populară pentru câini în Selce, oferind facilități speciale pentru animalele de companie.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            },
+            {
+                  "name": "Akvarij Crikvenica",
+                  "text": "Crikvenica Aquarium din Selce este o destinație distractivă pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        14.692127,
+                        45.173684
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište",
+                  "text": "Gradsko kupalište din Selce oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        14.682415,
+                        45.178933
+                  ]
+            },
+            {
+                  "name": "Gradsko plivalište",
+                  "text": "Gradsko plivalište din Selce oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        14.688453,
+                        45.173193
+                  ]
+            },
+            {
+                  "name": "Plaža Kaštel",
+                  "text": "Kaštel beach din Selce este o stațiune de plajă care oferă un mediu plăcut pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        14.694313,
+                        45.171223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slana Cove",
+                  "text": "A beautiful natural bay with crystal clear water, popular for diving and peaceful swimming.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/selce-uvala-slana.webp",
+                  "coords": [
+                        14.720784,
+                        45.151579
+                  ]
+            },
+            {
+                  "name": "Tunera",
+                  "text": "An old wooden observation tower used for tuna fishing, a symbol of Selce's maritime heritage.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/selce-tunera.webp",
+                  "coords": [
+                        14.717715,
+                        45.155694
+                  ]
+            },
+            {
+                  "name": "Nudist beach FKK",
+                  "text": "Nudism has found a permanent home at this official naturist beach not far from Selce. The secluded location on the Croatian Adriatic offers naturists a relaxed and tolerant atmosphere. For an undisturbed bathing experience among like-minded people, this spot is the best choice.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727925,
+                        45.148563
+                  ]
+            },
+            {
+                  "name": "Pekna plaz",
+                  "text": "A beautiful stretch of coastline in Selce, perfect for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.739514,
+                        45.139146
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "A picturesque bay in Selce which serves as the center of the town's tourist life.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "A popular dog beach in Selce, offering specialized amenities for pets.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            },
+            {
+                  "name": "Crikvenica Aquarium",
+                  "text": "Crikvenica Aquarium in Selce is a fun destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        14.692127,
+                        45.173684
+                  ]
+            },
+            {
+                  "name": "Gradsko kupalište",
+                  "text": "Gradsko kupalište in Selce offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        14.682415,
+                        45.178933
+                  ]
+            },
+            {
+                  "name": "Gradsko plivalište",
+                  "text": "Gradsko plivalište in Selce offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        14.688453,
+                        45.173193
+                  ]
+            },
+            {
+                  "name": "Kaštel beach",
+                  "text": "Kaštel beach in Selce is a beach resort offering a pleasant environment for families.",
+                  "category": "family",
+                  "coords": [
+                        14.694313,
+                        45.171223
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Nudist beach FKK",
+                  "text": "Službena FKK plaža u blizini Selca, idealna za naturiste.",
+                  "category": "recreational",
+                  "coords": [
+                        14.727925,
+                        45.148563
+                  ]
+            },
+            {
+                  "name": "Pekna plaz",
+                  "text": "Lijep dio obale u Selcu, idealan za kupanje i opuštanje.",
+                  "category": "recreational",
+                  "coords": [
+                        14.739514,
+                        45.139146
+                  ]
+            },
+            {
+                  "name": "Uvala Selce",
+                  "text": "Slikovita uvala u Selcu koja predstavlja središte turističkog života mjesta.",
+                  "category": "natural",
+                  "coords": [
+                        14.717313,
+                        45.156728
+                  ]
+            },
+            {
+                  "name": "Podvorska",
+                  "text": "Popularna plaža za pse u Selcu s posebnim sadržajima za kućne ljubimce.",
+                  "category": "landmark",
+                  "coords": [
+                        14.695675,
+                        45.169474
+                  ]
+            }
+      ]
+}},
   {"id": "slano", "type": "city", "parent": "HR-19", "coords": [17.8911, 42.7872], "population": 577, "tier": 3, "name": {"de": "Slano", "hu": "Slano", "ro": "Slano", "en": "Slano"}, "description": {"de": "Ein malerischer Küstenort in einer tiefen, windgeschützten Bucht nördlich von Dubrovnik, bekannt für seine friedliche Atmosphäre und weite Olivenhaine.", "hu": "Festői adriai település egy mély, szélvédett öbölben Dubrovnik közelében. Az egykori nemesi nyaralóhely ma a nyugalom és az olajfák oázisa.", "ro": "O localitate de coastă pitorească situată într-un golf adânc și protejat, la nord de Dubrovnik, renumită pentru atmosfera liniștită și livezile de măslini.", "en": "A picturesque coastal village in a deep, sheltered bay north of Dubrovnik, famous for its peaceful atmosphere and extensive olive groves."}, "facts": {"de": ["Liegt in einer der am besten geschützten Buchten der Adria.", "War ab 1399 ein wichtiger Teil der Republik Ragusa.", "Beherbergt einen prächtigen Renaissance-Palast aus dem 16. Jahrhundert.", "Berühmt für die Produktion von hochwertigem, nativem Olivenöl.", "Das Franziskanerkloster im Ort stammt aus dem Jahr 1420.", "Ein Paradies für Segler dank der ruhigen Gewässer der Bucht.", "Römische Sarkophage im Dorf belegen eine antike Besiedlung.", "Dient als ruhige Alternative zum geschäftigen Dubrovnik."], "hu": ["Az Adria egyik legvédettebb természetes öblében fekszik.", "1399-től a Ragusai Köztársaság stratégiai fontosságú része volt.", "Itt található a Skočibuha-család 16. századi reneszánsz palotája.", "A környék híres a kiváló minőségű, kézműves olívaolajáról.", "Szent Jeromos tiszteletére szentelt ferences kolostora 1420-as.", "Mély vize és szélvédettsége miatt a vitorlázók kedvelt célpontja.", "Római kori szarkofágok bizonyítják ókori lakottságát.", "Dubrovnik közelsége ellenére megőrizte csendes, falusias báját."], "ro": ["Situat într-unul dintre cele mai protejate golfuri naturale ale Adriaticii.", "A devenit parte a Republicii Ragusa în anul 1399.", "Găzduiește un palat renascentist impresionant din secolul al XVI-lea.", "Este renumit pentru producția tradițională de ulei de măsline.", "Mănăstirea franciscană din sat a fost întemeiată în 1420.", "O destinație de top pentru iahturi datorită golfului liniștit.", "Sarcofagele romane din zonă atestă o locuire încă din antichitate.", "Oferă o alternativă relaxantă și intimă la agitația din Dubrovnik."], "en": ["Nestled in one of the most protected natural bays on the Adriatic.", "Became a strategic part of the Republic of Ragusa in 1399.", "Features a magnificent 16th-century Renaissance palace.", "Renowned for its production of high-quality, artisanal olive oil.", "The local Franciscan monastery was established back in 1420.", "A favorite destination for sailors due to the calm bay waters.", "Ancient Roman sarcophagi found here prove its long history.", "Preserves a quiet, authentic charm despite being near Dubrovnik."]}, "image": "/poi-images/slano.webp", "imageHint": "Panoramic view of Slano bay with turquoise water and olive groves at sunset", "descriptionAdvanced": {"de": "Slano ist ein verborgenes Juwel an der Adriaküste, wo Geschichte und Natur in perfekter Harmonie aufeinander treffen. Das Dorf liegt am Ufer einer tiefen, kristallklaren Bucht, die Seefahrern seit Jahrhunderten sicheren Schutz vor den stürmischen Winden der Adria bietet. Die Landschaft ist geprägt von endlosen Olivenhainen, Weinbergen und duftenden mediterranen Gärten, die auch die Basis der lokalen Gastronomie bilden. Die goldene Ära von Slano begann Ende des 14. Jahrhunderts, als es Teil der Republik Ragusa wurde; damals entwickelte es sich zur bevorzugten Sommerresidenz des Dubrovniker Adels, deren Spuren noch heute in den Ruinen und restaurierten Gebäuden der Renaissance-Paläste erhalten sind. Besucher erwarten ruhige Strände, malerische Promenaden und der spirituelle Frieden des Franziskanerklosters, während der moderne Jachthafen und erstklassige Hotels allen Komfort für Erholungssuchende bieten.", "hu": "Slano egy rejtett ékszerdobjoz hasonlít az Adria partján, ahol a történelem és a természet tökéletes harmóniában találkozik. A település egy mélyen benyúló, kristálytiszta vizű öböl partján fekszik, amely évszázadok óta biztonságos kikötőt nyújt a hajósoknak a viharos adriai szelek elől. A vidék arculatát a végtelen olajfaligetek, szőlőültetvények és illatos mediterrán kertek határozzák meg, amelyek a helyi gasztronómia alapjait is adják. Slano aranykora a 14. század végén kezdődött, amikor a Ragusai Köztársaság része lett; ekkor vált a dubrovniki nemesség kedvelt nyári rezidenciájává, aminek nyomait a mai napig őrizik a reneszánsz paloták romjai és felújított épületei. A látogatókat csendes strandok, festői sétányok és a ferences kolostor spirituális békéje várja, miközben a modern kikötő és a színvonalas hotelek minden kényelmet biztosítanak a pihenni vágyóknak.", "ro": "Slano este o bijuterie ascunsă pe coasta Adriaticii, unde istoria și natura se întâlnesc într-o armonie perfectă. Satul se află pe malul unui golf adânc, cu ape cristaline, care oferă de secole un adăpost sigur marinarilor împotriva vânturilor puternice ale Adriaticii. Peisajul este caracterizat de plantații nesfârșite de măslini, podgorii și grădini mediteraneene parfumate, care stau la baza gastronomiei locale. Epoca de aur a localității Slano a început la sfârșitul secolului al XIV-lea, când a devenit parte a Republicii Ragusa; atunci a devenit o reședință de vară preferată pentru noblețea din Dubrovnik, ale cărei urme se păstrează și astăzi în ruinele și clădirile restaurate ale palatelor renascentiste. Vizitatorii sunt întâmpinați de plaje liniștite, promenade pitorești și liniștea spirituală a mănăstirii franciscane, în timp ce portul modern și hotelurile de înaltă calitate oferă tot confortul pentru cei care doresc să se relaxeze.", "en": "Slano is a hidden gem on the Adriatic coast, where history and nature meet in perfect harmony. The village lies on the shores of a deep, crystal-clear bay that has provided a safe haven for sailors from stormy Adriatic winds for centuries. The landscape is characterized by endless olive groves, vineyards, and fragrant Mediterranean gardens, which also form the basis of the local gastronomy. Slano's golden age began at the end of the 14th century when it became part of the Republic of Ragusa; it then became a favorite summer residence for the Dubrovnik nobility, traces of which are still preserved today in the ruins and restored buildings of Renaissance palaces. Visitors are greeted by quiet beaches, picturesque promenades, and the spiritual peace of the Franciscan monastery, while the modern marina and high-quality hotels provide all the comfort for those looking to relax."}, "factsAdvanced": {"de": ["Slano wurde offiziell im Jahr 1399 in die Republik Ragusa eingegliedert.", "Die Bucht von Slano erstreckt sich über eine Länge von etwa 2 Kilometern.", "Das Franziskanerkloster des Hl. Hieronymus wurde bereits 1420 gegründet.", "Der Renaissance-Palast der Familie Skočibuha stammt aus dem Jahr 1563.", "Die Bevölkerungszahl liegt laut der letzten Zählung bei genau 577 Einwohnern.", "Dubrovnik ist über die Küstenstraße nur 37 Kilometer von Slano entfernt."], "hu": ["A település hivatalosan 1399-ben vált a Ragusai Köztársaság részévé.", "A Slano-öböl hossza eléri a 2 kilométert, természetes védelmet nyújtva.", "A Szent Jeromos ferences kolostort 1420-ban alapították a szerzetesek.", "A Skočibuha-család híres reneszánsz palotája 1563-ban készült el.", "A legutóbbi népszámlálási adatok szerint állandó lakossága 577 fő.", "Slano mindössze 37 kilométerre fekszik Dubrovnik történelmi központjától."], "ro": ["Localitatea a fost anexată oficial Republicii Ragusa în anul 1399.", "Golful Slano are o lungime de aproximativ 2 kilometri lungime.", "Mănăstirea franciscană Sfântul Ieronim a fost fondată în anul 1420.", "Palatul renascentist al familiei Skočibuha a fost finalizat în anul 1563.", "Populația satului numără exact 577 de locuitori conform recensământului.", "Distanța rutieră până la orașul Dubrovnik este de aproximativ 37 de kilometri."], "en": ["The settlement was officially incorporated into the Republic of Ragusa in 1399.", "The bay of Slano extends for approximately 2 kilometers in length.", "The Franciscan monastery of St. Jerome was established in the year 1420.", "The famous Skočibuha Renaissance palace was completed in 1563.", "The village has a permanent population of exactly 577 residents.", "Slano is located just 37 kilometers away from the historic center of Dubrovnik."]}, "sights": {
       "de": [
             {

@@ -228,7 +228,160 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-smolyan-cities-v2.webp",
   },
   {
-    id: "bulgaria-targovishte-cities-v2", "sights": {"de": [{"name": "yaz. Polyanitsa", "text": "Ein See bei Targowischte, der zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [26.547505, 43.213742]}, {"name": "Water Magic", "text": "Ein Wasserpark in Targowischte mit Schwimmbecken und Rutschen für Familienspaß.", "category": "family", "coords": [26.570722, 43.236004]}], "hu": [{"name": "yaz. Polyanitsa", "text": "Egy tó Targoviste környékén, amely a természetben való tartózkodásra hív.", "category": "natural", "coords": [26.547505, 43.213742]}, {"name": "Water Magic", "text": "Vízipark Targoviste-ben úszómedencékkel és csúszdákkal a családi szórakozáshoz.", "category": "family", "coords": [26.570722, 43.236004]}], "ro": [{"name": "yaz. Polyanitsa", "text": "Un lac în apropiere de Târgoviște, care invită la relaxare în natură.", "category": "natural", "coords": [26.547505, 43.213742]}, {"name": "Water Magic", "text": "Un parc acvatic în Târgoviște cu piscine și tobogane pentru distracția familiei.", "category": "family", "coords": [26.570722, 43.236004]}], "en": [{"name": "yaz. Polyanitsa", "text": "A lake near Targovishte, inviting relaxation in nature.", "category": "natural", "coords": [26.547505, 43.213742]}, {"name": "Water Magic", "text": "A water park in Targovishte featuring swimming pools and slides for family fun.", "category": "family", "coords": [26.570722, 43.236004]}]},
+    id: "bulgaria-targovishte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "yaz. Polyanitsa",
+                  "text": "Ein See bei Targowischte, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        26.547505,
+                        43.213742
+                  ]
+            },
+            {
+                  "name": "Water Magic",
+                  "text": "Ein Wasserpark in Targowischte mit Schwimmbecken und Rutschen für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        26.570722,
+                        43.236004
+                  ]
+            },
+            {
+                  "name": "Драматичен театър Търговище",
+                  "text": "Das Dramatische Theater Targowischte ist eine bedeutende kulturelle Institution in der Stadt. Es bietet ein anspruchsvolles Repertoire an klassischen und zeitgenössischen Theaterstücken.",
+                  "category": "cultural",
+                  "coords": [
+                        26.573455,
+                        43.244625
+                  ]
+            },
+            {
+                  "name": "Свети Иван Рилски",
+                  "text": "Die Kirche Saint John of Rila in Targowischte ist ein wichtiges orthodoxes Gotteshaus. Die Architektur und die Ikonen im Inneren zeugen von der tiefen religiösen Tradition Bulgariens.",
+                  "category": "religious",
+                  "coords": [
+                        26.572293,
+                        43.250669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yaz. Polyanitsa",
+                  "text": "Egy tó Targoviste környékén, amely a természetben való tartózkodásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        26.547505,
+                        43.213742
+                  ]
+            },
+            {
+                  "name": "Water Magic",
+                  "text": "Vízipark Targoviste-ben úszómedencékkel és csúszdákkal a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.570722,
+                        43.236004
+                  ]
+            },
+            {
+                  "name": "Драматичен театър Търговище",
+                  "text": "A Targovistei Drámai Színház a város jelentős kulturális intézménye. Klasszikus és kortárs színdarabok igényes repertoárját kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        26.573455,
+                        43.244625
+                  ]
+            },
+            {
+                  "name": "Свети Иван Рилски",
+                  "text": "A targovistei Rilai Szent János-templom egy fontos ortodox istenháza. Az építészet és a belső ikonok Bulgária mély vallási hagyományairól tanúskodnak.",
+                  "category": "religious",
+                  "coords": [
+                        26.572293,
+                        43.250669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yaz. Polyanitsa",
+                  "text": "Un lac în apropiere de Târgoviște, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        26.547505,
+                        43.213742
+                  ]
+            },
+            {
+                  "name": "Water Magic",
+                  "text": "Un parc acvatic în Târgoviște cu piscine și tobogane pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        26.570722,
+                        43.236004
+                  ]
+            },
+            {
+                  "name": "Драматичен театър Търговище",
+                  "text": "Teatrul Dramatic din Târgoviște este o instituție culturală importantă din oraș. Acesta oferă un repertoriu ambițios de piese de teatru clasice și contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        26.573455,
+                        43.244625
+                  ]
+            },
+            {
+                  "name": "Свети Иван Рилски",
+                  "text": "Biserica Sfântul Ioan de Rila din Târgoviște este un lăcaș de cult ortodox important. Arhitectura și icoanele din interior stau mărturie pentru tradiția religioasă profundă a Bulgariei.",
+                  "category": "religious",
+                  "coords": [
+                        26.572293,
+                        43.250669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yaz. Polyanitsa",
+                  "text": "A lake near Targovishte, inviting relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.547505,
+                        43.213742
+                  ]
+            },
+            {
+                  "name": "Water Magic",
+                  "text": "A water park in Targovishte featuring swimming pools and slides for family fun.",
+                  "category": "family",
+                  "coords": [
+                        26.570722,
+                        43.236004
+                  ]
+            },
+            {
+                  "name": "Драматичен театър Търговище",
+                  "text": "The Targovishte Drama Theatre is a significant cultural institution in the city. It offers a sophisticated repertoire of classic and contemporary plays.",
+                  "category": "cultural",
+                  "coords": [
+                        26.573455,
+                        43.244625
+                  ]
+            },
+            {
+                  "name": "Saint John of Rila",
+                  "text": "The Saint John of Rila church in Targovishte is an important Orthodox place of worship. The architecture and icons inside testify to Bulgaria's deep religious tradition.",
+                  "category": "religious",
+                  "coords": [
+                        26.572293,
+                        43.250669
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Targowischte", hu: "Targoviste", ro: "Tărgoviște", en: "Targovishte" },
@@ -633,7 +786,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-dupnitsa-cities-v2.webp",
   },
   {
-    id: "bulgaria-petrich-cities-v2",
+    id: "bulgaria-petrich-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Natura 2000 Λίμνη Κερκίνη - Κρούσια - Κορυφές Όρους Μπέλλες, Άγκιστρο - Χαροπό",
+                  "text": "Dieses Natura 2000 Schutzgebiet umfasst den Kerkini-See und die umliegenden Berge bei Petrich. Es ist ein Paradies für Vogelbeobachter und Naturliebhaber, die die reiche Artenvielfalt erleben möchten.",
+                  "category": "natural",
+                  "coords": [
+                        23.152338,
+                        41.260354
+                  ]
+            },
+            {
+                  "name": "Къща-музей \"Баба Ванга\"",
+                  "text": "Das Haus-Museum 'Baba Vanga' in Petrich ist der berühmten bulgarischen Seherin gewidmet. Besucher können die persönlichen Gegenstände und die Wohnräume besichtigen, in denen sie einst lebte.",
+                  "category": "museum",
+                  "coords": [
+                        23.207179,
+                        41.393438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Natura 2000 Λίμνη Κερκίνη - Κρούσια - Κορυφές Όρους Μπέλλες, Άγκιστρο - Χαροπό",
+                  "text": "Ez a Natura 2000 természetvédelmi terület magában foglalja a Kerkini-tavat és a környező hegyeket Petricsnél. Madármegfigyelők és természetkedvelők paradicsoma, akik a gazdag biológiai sokféleséget szeretnék megtapasztalni.",
+                  "category": "natural",
+                  "coords": [
+                        23.152338,
+                        41.260354
+                  ]
+            },
+            {
+                  "name": "Къща-музей \"Баба Ванга\"",
+                  "text": "A petrics-i 'Baba Vanga' házmúzeum a híres bolgár látnoknak van szentelve. A látogatók megtekinthetik a személyes tárgyakat és azokat a szobákat, ahol egykor élt.",
+                  "category": "museum",
+                  "coords": [
+                        23.207179,
+                        41.393438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Natura 2000 Λίμνη Κερκίνη - Κρούσια - Κορυφές Όρους Μπέλλες, Άγκιστρο - Χαροπό",
+                  "text": "Această rezervație naturală Natura 2000 cuprinde Lacul Kerkini și munții din jur, lângă Petrich. Este un paradis pentru observatorii de păsări și iubitorii de natură care doresc să experimenteze bogata biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        23.152338,
+                        41.260354
+                  ]
+            },
+            {
+                  "name": "Къща-музей \"Баба Ванга\"",
+                  "text": "Casa-muzeu „Baba Vanga” din Petrich este dedicată celebrei clarvăzătoare bulgare. Vizitatorii pot vedea obiectele personale și camerele în care a locuit odinioară.",
+                  "category": "museum",
+                  "coords": [
+                        23.207179,
+                        41.393438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Natura 2000 Λίμνη Κερκίνη - Κρούσια - Κορυφές Όρους Μπέλλες, Άγκιστρο - Χαροπό",
+                  "text": "This Natura 2000 nature reserve encompasses Lake Kerkini and the surrounding mountains near Petrich. It is a paradise for birdwatchers and nature lovers wishing to experience the rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        23.152338,
+                        41.260354
+                  ]
+            },
+            {
+                  "name": "Къща-музей \"Баба Ванга\"",
+                  "text": "The house-museum 'Baba Vanga' in Petrich is dedicated to the famous Bulgarian clairvoyant. Visitors can view the personal belongings and the rooms where she once lived.",
+                  "category": "museum",
+                  "coords": [
+                        23.207179,
+                        41.393438
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Petritsch", hu: "Petrics", ro: "Petrici", en: "Petrich" },
@@ -948,7 +1182,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-chiprovtsi-cities-v2.webp",
   },
   {
-    id: "bulgaria-devnya-cities-v2", "sights": {"de": [{"name": "yaz. Manastir", "text": "Der яз. Манастир in Devnya ist ein See, der sich gut für einen Spaziergang in der Natur eignet.", "category": "natural", "coords": [27.535616, 43.170812]}, {"name": "Beloslavsko ezero", "text": "Der Белославско езеро in Devnya ist ein See, der sich gut für einen Spaziergang in der Natur eignet.", "category": "natural", "coords": [27.691412, 43.190651]}], "hu": [{"name": "yaz. Manastir", "text": "A яз. Манастир egy tó Devnya területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [27.535616, 43.170812]}, {"name": "Beloslavsko ezero", "text": "A Белославско езеро egy tó Devnya területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [27.691412, 43.190651]}], "ro": [{"name": "yaz. Manastir", "text": "яз. Манастир din Devnya este un lac ce oferă un cadru natural frumos pentru relaxare.", "category": "natural", "coords": [27.535616, 43.170812]}, {"name": "Beloslavsko ezero", "text": "Белославско езеро din Devnya este un lac ce oferă un cadru natural frumos pentru relaxare.", "category": "natural", "coords": [27.691412, 43.190651]}], "en": [{"name": "yaz. Manastir", "text": "The яз. Манастир in Devnya is a lake providing a pleasant natural setting for relaxation.", "category": "natural", "coords": [27.535616, 43.170812]}, {"name": "Beloslavsko ezero", "text": "The Белославско езеро in Devnya is a lake providing a pleasant natural setting for relaxation.", "category": "natural", "coords": [27.691412, 43.190651]}]},
+    id: "bulgaria-devnya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "yaz. Manastir",
+                  "text": "Der яз. Манастир in Devnya ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.535616,
+                        43.170812
+                  ]
+            },
+            {
+                  "name": "Beloslavsko ezero",
+                  "text": "Der Белославско езеро in Devnya ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.691412,
+                        43.190651
+                  ]
+            },
+            {
+                  "name": "Музей на мозайките, БТС10",
+                  "text": "Das Mosaikmuseum in Dewnja wurde auf den Ruinen eines spätrömischen Wohnhauses errichtet. Es stellt exquisite Bodenmosaike aus der antiken Stadt Marcianopolis aus.",
+                  "category": "museum",
+                  "coords": [
+                        27.584883,
+                        43.225396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yaz. Manastir",
+                  "text": "A яз. Манастир egy tó Devnya területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.535616,
+                        43.170812
+                  ]
+            },
+            {
+                  "name": "Beloslavsko ezero",
+                  "text": "A Белославско езеро egy tó Devnya területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.691412,
+                        43.190651
+                  ]
+            },
+            {
+                  "name": "Музей на мозайките, БТС10",
+                  "text": "A devnyai Mozaikmúzeum egy késő római lakóház romjaira épült. Marcianopolis antik városából származó kiváló padlómozaikokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        27.584883,
+                        43.225396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yaz. Manastir",
+                  "text": "яз. Манастир din Devnya este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.535616,
+                        43.170812
+                  ]
+            },
+            {
+                  "name": "Beloslavsko ezero",
+                  "text": "Белославско езеро din Devnya este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.691412,
+                        43.190651
+                  ]
+            },
+            {
+                  "name": "Музей на мозайките, БТС10",
+                  "text": "Muzeul Mozaicurilor din Devnya a fost construit pe ruinele unei case romane târzii. Acesta expune mozaicuri de paviment rafinate din orașul antic Marcianopolis.",
+                  "category": "museum",
+                  "coords": [
+                        27.584883,
+                        43.225396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yaz. Manastir",
+                  "text": "The яз. Манастир in Devnya is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.535616,
+                        43.170812
+                  ]
+            },
+            {
+                  "name": "Beloslavsko ezero",
+                  "text": "The Белославско езеро in Devnya is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.691412,
+                        43.190651
+                  ]
+            },
+            {
+                  "name": "Museum of Mosaics",
+                  "text": "The Museum of Mosaics in Devnya was built upon the ruins of a late Roman residential house. It displays exquisite floor mosaics from the ancient city of Marcianopolis.",
+                  "category": "museum",
+                  "coords": [
+                        27.584883,
+                        43.225396
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Dewnja", hu: "Devnya", ro: "Devnea", en: "Devnya" },
@@ -1083,7 +1434,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-balchik-cities-v2.webp",
   },
   {
-    id: "bulgaria-etropole-cities-v2",
+    id: "bulgaria-etropole-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Исторически музей Етрополе",
+                  "text": "Das Historische Museum von Etropole präsentiert die reiche Geschichte und Kultur der Region. Die Ausstellungen umfassen archäologische Funde und ethnografische Gegenstände aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        23.994093,
+                        42.830503
+                  ]
+            },
+            {
+                  "name": "Войнишки паметник",
+                  "text": "Das Soldatendenkmal in Etropole ehrt die Tapferkeit der gefallenen Krieger der Stadt. Es ist ein zentrales Monument, an dem jährlich Gedenkzeremonien zur Erinnerung an die nationale Geschichte stattfinden.",
+                  "category": "historical",
+                  "coords": [
+                        23.995579,
+                        42.832779
+                  ]
+            },
+            {
+                  "name": "Часовниковата кула Етрополе",
+                  "text": "Der Uhrturm von Etropole ist ein Wahrzeichen der Stadt und stammt aus dem 18. Jahrhundert. Mit seiner markanten Architektur und der historischen Uhr ist er eine der bekanntesten Sehenswürdigkeiten der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        23.992793,
+                        42.829803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Исторически музей Етрополе",
+                  "text": "Az Etropole-i Történeti Múzeum a régió gazdag történelmét és kultúráját mutatja be. A kiállítások régészeti leleteket és néprajzi tárgyakat tartalmaznak különböző korszakokból.",
+                  "category": "museum",
+                  "coords": [
+                        23.994093,
+                        42.830503
+                  ]
+            },
+            {
+                  "name": "Войнишки паметник",
+                  "text": "Az etropole-i katonai emlékmű a város elesett harcosainak bátorsága előtt tiszteleg. Ez egy központi emlékmű, ahol évente tartanak megemlékezéseket a nemzeti történelem tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        23.995579,
+                        42.832779
+                  ]
+            },
+            {
+                  "name": "Часовниковата кула Етрополе",
+                  "text": "Az etropole-i óratorony a város jelképe, és a 18. századból származik. Jellegzetes építészetével és történelmi órájával a régió egyik legismertebb látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        23.992793,
+                        42.829803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Исторически музей Етрополе",
+                  "text": "Muzeul de Istorie din Etropole prezintă istoria și cultura bogată a regiunii. Expozițiile includ descoperiri arheologice și obiecte etnografice din diverse epoci.",
+                  "category": "museum",
+                  "coords": [
+                        23.994093,
+                        42.830503
+                  ]
+            },
+            {
+                  "name": "Войнишки паметник",
+                  "text": "Monumentul Soldatului din Etropole onorează vitejia luptătorilor căzuți ai orașului. Este un monument central unde au loc anual ceremonii de comemorare în cinstea istoriei naționale.",
+                  "category": "historical",
+                  "coords": [
+                        23.995579,
+                        42.832779
+                  ]
+            },
+            {
+                  "name": "Часовниковата кула Етрополе",
+                  "text": "Turnul cu Ceas din Etropole este un simbol al orașului și datează din secolul al XVIII-lea. Cu arhitectura sa distinctivă și ceasul istoric, este una dintre cele mai cunoscute atracții din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        23.992793,
+                        42.829803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Исторически музей Етрополе",
+                  "text": "The Historical Museum of Etropole presents the rich history and culture of the region. The exhibits include archaeological finds and ethnographic items from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        23.994093,
+                        42.830503
+                  ]
+            },
+            {
+                  "name": "Soldier Monument",
+                  "text": "The Soldier Monument in Etropole honors the bravery of the city's fallen warriors. It is a central monument where annual commemorative ceremonies are held to remember national history.",
+                  "category": "historical",
+                  "coords": [
+                        23.995579,
+                        42.832779
+                  ]
+            },
+            {
+                  "name": "Clock Tower Etropole",
+                  "text": "The Clock Tower of Etropole is a landmark of the city and dates back to the 18th century. With its distinctive architecture and historical clock, it is one of the region's best-known attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        23.992793,
+                        42.829803
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Etropole", hu: "Etropole", ro: "Etropole", en: "Etropole" },
@@ -1632,7 +2100,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-straldzha-cities-v2.webp",
   },
   {
-    id: "bulgaria-popovo-cities-v2", "sights": {"de": [{"name": "yaz. Posabina", "text": "Ein See bei Popovo, der eine schöne Kulisse für Naturbeobachtungen bietet.", "category": "natural", "coords": [26.142403, 43.345222]}, {"name": "yaz. Kavatsite", "text": "Ein See bei Popovo, ideal für Liebhaber natürlicher Landschaften.", "category": "natural", "coords": [26.246386, 43.331497]}], "hu": [{"name": "yaz. Posabina", "text": "Egy tó Popovo környékén, amely szép hátteret biztosít a természet megfigyeléséhez.", "category": "natural", "coords": [26.142403, 43.345222]}, {"name": "yaz. Kavatsite", "text": "Egy tó Popovo környékén, amely ideális a természetes tájak kedvelőinek.", "category": "natural", "coords": [26.246386, 43.331497]}], "ro": [{"name": "yaz. Posabina", "text": "Un lac în apropiere de Popovo, care oferă un cadru frumos pentru observarea naturii.", "category": "natural", "coords": [26.142403, 43.345222]}, {"name": "yaz. Kavatsite", "text": "Un lac în apropiere de Popovo, ideal pentru iubitorii de peisaje naturale.", "category": "natural", "coords": [26.246386, 43.331497]}], "en": [{"name": "yaz. Posabina", "text": "A lake near Popovo offering a beautiful backdrop for nature observation.", "category": "natural", "coords": [26.142403, 43.345222]}, {"name": "yaz. Kavatsite", "text": "A lake near Popovo, ideal for lovers of natural landscapes.", "category": "natural", "coords": [26.246386, 43.331497]}]},
+    id: "bulgaria-popovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "yaz. Posabina",
+                  "text": "Ein See bei Popovo, der eine schöne Kulisse für Naturbeobachtungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.142403,
+                        43.345222
+                  ]
+            },
+            {
+                  "name": "yaz. Kavatsite",
+                  "text": "Ein See bei Popovo, ideal für Liebhaber natürlicher Landschaften.",
+                  "category": "natural",
+                  "coords": [
+                        26.246386,
+                        43.331497
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Popovo",
+                  "text": "Das Historische Museum von Popowo bewahrt das kulturelle Erbe und die Artefakte der Region auf. Ausstellungen führen die Besucher durch die Geschichte der Stadt von der Antike bis zur Gegenwart.",
+                  "category": "museum",
+                  "coords": [
+                        26.224981,
+                        43.349496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yaz. Posabina",
+                  "text": "Egy tó Popovo környékén, amely szép hátteret biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        26.142403,
+                        43.345222
+                  ]
+            },
+            {
+                  "name": "yaz. Kavatsite",
+                  "text": "Egy tó Popovo környékén, amely ideális a természetes tájak kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        26.246386,
+                        43.331497
+                  ]
+            },
+            {
+                  "name": "Исторически музей гр.Попово",
+                  "text": "A Popovo Történeti Múzeum a régió kulturális örökségét és műtárgyait őrzi. A kiállítások végigvezetik a látogatókat a város történelmén az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        26.224981,
+                        43.349496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yaz. Posabina",
+                  "text": "Un lac în apropiere de Popovo, care oferă un cadru frumos pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        26.142403,
+                        43.345222
+                  ]
+            },
+            {
+                  "name": "yaz. Kavatsite",
+                  "text": "Un lac în apropiere de Popovo, ideal pentru iubitorii de peisaje naturale.",
+                  "category": "natural",
+                  "coords": [
+                        26.246386,
+                        43.331497
+                  ]
+            },
+            {
+                  "name": "Исторически музей гр.Попово",
+                  "text": "Muzeul de Istorie din Popovo păstrează moștenirea culturală și artefactele regiunii. Expozițiile îi poartă pe vizitatori prin istoria orașului, din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        26.224981,
+                        43.349496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yaz. Posabina",
+                  "text": "A lake near Popovo offering a beautiful backdrop for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        26.142403,
+                        43.345222
+                  ]
+            },
+            {
+                  "name": "yaz. Kavatsite",
+                  "text": "A lake near Popovo, ideal for lovers of natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        26.246386,
+                        43.331497
+                  ]
+            },
+            {
+                  "name": "Исторически музей гр.Попово",
+                  "text": "The Historical Museum of Popovo preserves the cultural heritage and artifacts of the region. Exhibitions lead visitors through the city's history from antiquity to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        26.224981,
+                        43.349496
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Popowo", hu: "Popovo", ro: "Popovo", en: "Popovo" },
@@ -2416,6 +3001,24 @@ export const bulgariaCitiesV2: POI[] = [
                         27.637371,
                         42.449151
                   ]
+            },
+            {
+                  "name": "Къмпинг градина",
+                  "text": "Camping Gradina bei Chernomorets ist einer der bekanntesten Campingplätze an der bulgarischen Schwarzmeerküste. Er verfügt über einen breiten Sandstrand und ist besonders bei Naturliebhabern beliebt.",
+                  "category": "recreational",
+                  "coords": [
+                        27.656824,
+                        42.420054
+                  ]
+            },
+            {
+                  "name": "Обърнатата къща",
+                  "text": "The Upside Down House in Chernomorets ist eine originelle Attraktion, bei der buchstäblich alles auf dem Kopf steht. Es bietet Besuchern die Möglichkeit für lustige Fotos und ein ungewöhnliches Raumerlebnis.",
+                  "category": "landmark",
+                  "coords": [
+                        27.638145,
+                        42.434151
+                  ]
             }
       ],
       "hu": [
@@ -2435,6 +3038,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.637371,
                         42.449151
+                  ]
+            },
+            {
+                  "name": "Къмпинг градина",
+                  "text": "A csernomoreci Camping Gradina a bolgár fekete-tengeri partvidék egyik legismertebb kempingje. Széles homokos stranddal rendelkezik, és különösen népszerű a természetkedvelők körében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.656824,
+                        42.420054
+                  ]
+            },
+            {
+                  "name": "Обърнатата къща",
+                  "text": "A csernomoreci Upside Down House egy eredeti látványosság, ahol szó szerint minden fejtetőn áll. Lehetőséget kínál a látogatóknak vicces fotók készítésére és egy szokatlan térélményre.",
+                  "category": "landmark",
+                  "coords": [
+                        27.638145,
+                        42.434151
                   ]
             }
       ],
@@ -2456,6 +3077,24 @@ export const bulgariaCitiesV2: POI[] = [
                         27.637371,
                         42.449151
                   ]
+            },
+            {
+                  "name": "Къмпинг градина",
+                  "text": "Camping Gradina de lângă Chernomorets este unul dintre cele mai cunoscute locuri de camping de pe coasta bulgară a Mării Negre. Dispune de o plajă largă cu nisip și este popular în special printre iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        27.656824,
+                        42.420054
+                  ]
+            },
+            {
+                  "name": "Обърнатата къща",
+                  "text": "The Upside Down House din Chernomorets este o atracție originală în care literalmente totul este cu susul în jos. Oferă vizitatorilor posibilitatea de a face fotografii amuzante și o experiență spațială neobișnuită.",
+                  "category": "landmark",
+                  "coords": [
+                        27.638145,
+                        42.434151
+                  ]
             }
       ],
       "en": [
@@ -2475,6 +3114,24 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         27.637371,
                         42.449151
+                  ]
+            },
+            {
+                  "name": "Camping Gradina",
+                  "text": "Camping Gradina near Chernomorets is one of the most famous campsites on the Bulgarian Black Sea coast. It features a wide sandy beach and is particularly popular among nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        27.656824,
+                        42.420054
+                  ]
+            },
+            {
+                  "name": "The Upside Down House",
+                  "text": "The Upside Down House in Chernomorets is an original attraction where literally everything is upside down. It offers visitors the chance for funny photos and an unusual spatial experience.",
+                  "category": "landmark",
+                  "coords": [
+                        27.638145,
+                        42.434151
                   ]
             }
       ]
@@ -2838,7 +3495,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-breshnik-cities-v2.webp",
   },
   {
-    id: "bulgaria-bratsigovo-cities-v2",
+    id: "bulgaria-bratsigovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Исторически музей",
+                  "text": "Das Geschichtsmuseum von Bratsigowo beleuchtet die Rolle der Stadt während des Aprilaufstands von 1876. Es beherbergt eine bedeutende Sammlung von Dokumenten und historischen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        24.374515,
+                        42.02289
+                  ]
+            },
+            {
+                  "name": "Тамръшко кале - северна крепост",
+                  "text": "Tamrashko Kale ist eine antike Ruine einer nördlichen Festung bei Bratsigowo. Wanderer können die Überreste der Mauern erkunden und die Aussicht auf die umliegende Berglandschaft genießen.",
+                  "category": "historical",
+                  "coords": [
+                        24.336667,
+                        42.017222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Исторически музей",
+                  "text": "Bratcigovo Történeti Múzeuma rávilágít a város szerepére az 1876-os áprilisi felkelés idején. Dokumentumok és történelmi kiállítási tárgyak jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        24.374515,
+                        42.02289
+                  ]
+            },
+            {
+                  "name": "Тамръшко кале - северна крепост",
+                  "text": "Tamrashko Kale egy északi erőd ősi romja Bratcigovo közelében. A túrázók felfedezhetik a falak maradványait, és élvezhetik a környező hegyi tájra nyíló kilátást.",
+                  "category": "historical",
+                  "coords": [
+                        24.336667,
+                        42.017222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Исторически музей",
+                  "text": "Muzeul de Istorie din Bratsigovo evidențiază rolul orașului în timpul Răscoalei din Aprilie 1876. Acesta găzduiește o colecție importantă de documente și exponate istorice.",
+                  "category": "museum",
+                  "coords": [
+                        24.374515,
+                        42.02289
+                  ]
+            },
+            {
+                  "name": "Тамръшко кале - северна крепост",
+                  "text": "Tamrashko Kale este o ruină antică a unei cetăți nordice de lângă Bratsigovo. Drumeții pot explora rămășițele zidurilor și se pot bucura de privelistea asupra peisajului montan înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        24.336667,
+                        42.017222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Town Museum of History",
+                  "text": "The Town Museum of History in Bratsigovo highlights the city's role during the April Uprising of 1876. It houses a significant collection of documents and historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        24.374515,
+                        42.02289
+                  ]
+            },
+            {
+                  "name": "Тамръшко кале - северна крепост",
+                  "text": "Tamrashko Kale is an ancient ruin of a northern fortress near Bratsigovo. Hikers can explore the remains of the walls and enjoy views of the surrounding mountain landscape.",
+                  "category": "historical",
+                  "coords": [
+                        24.336667,
+                        42.017222
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Bratsigowo", hu: "Bracigovo", ro: "Brațigovo", en: "Bratsigovo" },
@@ -3198,7 +3936,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-banya-nebeska-cities-v2.webp",
   },
   {
-    id: "bulgaria-topolovgrad-cities-v2",
+    id: "bulgaria-topolovgrad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Общински исторически музей",
+                  "text": "Das Städtische Historische Museum in Topolowgrad präsentiert die ethnografische und archäologische Vielfalt der Sakar-Region. Besucher finden dort Exponate aus verschiedenen historischen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        26.332456,
+                        42.086404
+                  ]
+            },
+            {
+                  "name": "Палеокастро - древно тракийско светилище",
+                  "text": "Paleocastro ist ein antiker religiöser Komplex und eine thrakische Festung bei Topolowgrad. Die Stätte ist bekannt für ihre in Fels gehauenen Sonnensymbole und bietet tiefe Einblicke in die thrakische Kultur.",
+                  "category": "historical",
+                  "coords": [
+                        26.303995,
+                        42.078932
+                  ]
+            },
+            {
+                  "name": "Община Тополовград",
+                  "text": "Das Verwaltungsgebäude der Gemeinde Topolowgrad befindet sich im Zentrum der Stadt. Es ist ein wichtiger Orientierungspunkt und Ausgangspunkt für Erkundungen der lokalen Sehenswürdigkeiten.",
+                  "category": "historical",
+                  "coords": [
+                        26.336273,
+                        42.084754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Общински исторически музей",
+                  "text": "A Topolovgrad községi Történeti Múzeum bemutatja a Szakar-vidék néprajzi és régészeti sokszínűségét. A látogatók különböző történelmi korszakokból származó kiállítási tárgyakat találhatnak ott.",
+                  "category": "museum",
+                  "coords": [
+                        26.332456,
+                        42.086404
+                  ]
+            },
+            {
+                  "name": "Палеокастро - древно тракийско светилище",
+                  "text": "Paleocastro egy ősi vallási komplexum és thrák erőd Topolovgrad közelében. A helyszín a sziklába vájt napszimbólumairól ismert, és mély betekintést nyújt a thrák kultúrába.",
+                  "category": "historical",
+                  "coords": [
+                        26.303995,
+                        42.078932
+                  ]
+            },
+            {
+                  "name": "Община Тополовград",
+                  "text": "Topolovgrad község közigazgatási épülete a város központjában található. Fontos tájékozódási pont és kiindulópont a helyi látnivalók felfedezéséhez.",
+                  "category": "historical",
+                  "coords": [
+                        26.336273,
+                        42.084754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Общински исторически музей",
+                  "text": "Muzeul Municipal de Istorie din Topolovgrad prezintă diversitatea etnografică și arheologică a regiunii Sakar. Vizitatorii pot găsi acolo exponate din diferite epoci istorice.",
+                  "category": "museum",
+                  "coords": [
+                        26.332456,
+                        42.086404
+                  ]
+            },
+            {
+                  "name": "Палеокастро - древно тракийско светилище",
+                  "text": "Paleocastro este un complex religios antic și o cetate tracică lângă Topolovgrad. Situl este cunoscut pentru simbolurile solare sculptate în stâncă și oferă perspective profunde asupra culturii tracice.",
+                  "category": "historical",
+                  "coords": [
+                        26.303995,
+                        42.078932
+                  ]
+            },
+            {
+                  "name": "Община Тополовград",
+                  "text": "Clădirea administrației municipale Topolovgrad este situată în centrul orașului. Este un punct important de reper și de plecare pentru explorarea atracțiilor locale.",
+                  "category": "historical",
+                  "coords": [
+                        26.336273,
+                        42.084754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Общински исторически музей",
+                  "text": "The Municipal Historical Museum in Topolovgrad presents the ethnographic and archaeological diversity of the Sakar region. Visitors can find exhibits from various historical periods there.",
+                  "category": "museum",
+                  "coords": [
+                        26.332456,
+                        42.086404
+                  ]
+            },
+            {
+                  "name": "Paleocastro - Thracian fortress and ancient religious complex",
+                  "text": "Paleocastro is an ancient religious complex and Thracian fortress near Topolovgrad. The site is known for its sun symbols carved into the rock and offers deep insights into Thracian culture.",
+                  "category": "historical",
+                  "coords": [
+                        26.303995,
+                        42.078932
+                  ]
+            },
+            {
+                  "name": "Topolovgrad Municipality",
+                  "text": "The Topolovgrad Municipality building is located in the center of the town. It is an important landmark and starting point for exploring the local attractions.",
+                  "category": "historical",
+                  "coords": [
+                        26.336273,
+                        42.084754
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Topolowgrad", hu: "Topolovgrad", ro: "Topolovgrad", en: "Topolovgrad" },
@@ -3288,7 +4143,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-banya-varna-cities-v2.webp",
   },
   {
-    id: "bulgaria-sarnitsa-cities-v2",
+    id: "bulgaria-sarnitsa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "могила",
+                  "text": "Die Mogila in Sarnitsa ist eine bedeutende archäologische Ausgrabungsstätte, die auf antike Bestattungsriten hinweist. Besucher können hier die Überreste historischer Strukturen in einer ruhigen natürlichen Umgebung erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        24.024418,
+                        41.734091
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "могила",
+                  "text": "A szarnicai Mogila egy jelentős régészeti lelőhely, amely ősi temetkezési rítusokra utal. A látogatók itt felfedezhetik a történelmi struktúrák maradványait nyugodt természeti környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        24.024418,
+                        41.734091
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "могила",
+                  "text": "Mogila din Sarnitsa este un sit arheologic important care indică rituri funerare antice. Vizitatorii pot explora aici rămășițele structurilor istorice într-un cadru natural liniștit.",
+                  "category": "historical",
+                  "coords": [
+                        24.024418,
+                        41.734091
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "могила",
+                  "text": "The Mogila in Sarnitsa is a significant archaeological site pointing to ancient burial rites. Visitors can explore the remains of historical structures here in a peaceful natural environment.",
+                  "category": "historical",
+                  "coords": [
+                        24.024418,
+                        41.734091
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Sarniza", hu: "Szarnica", ro: "Sărnița", en: "Sarnitsa" },

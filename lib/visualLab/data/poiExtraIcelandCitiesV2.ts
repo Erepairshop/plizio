@@ -2413,6 +2413,33 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                         -21.910931,
                         64.106555
                   ]
+            },
+            {
+                  "name": "Ölduselslaug",
+                  "text": "Ein Schwimmbad in Kopavogur für lokale Erholung und Schwimmtraining.",
+                  "category": "family",
+                  "coords": [
+                        -21.848121,
+                        64.099633
+                  ]
+            },
+            {
+                  "name": "Ásgarðslaug",
+                  "text": "Ein öffentliches Schwimmbad in Kopavogur, das Platz zum Schwimmen und zur Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -21.929288,
+                        64.088177
+                  ]
+            },
+            {
+                  "name": "Breiðholtsskólalaug",
+                  "text": "Ein öffentliches Schwimmbad in Kopavogur, das Platz zum Schwimmen und zur Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -21.836501,
+                        64.107299
+                  ]
             }
       ],
       "hu": [
@@ -2819,6 +2846,33 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.910931,
                         64.106555
+                  ]
+            },
+            {
+                  "name": "Ölduselslaug",
+                  "text": "Úszómedence Kópavogurban helyi kikapcsolódáshoz és edzéshez.",
+                  "category": "family",
+                  "coords": [
+                        -21.848121,
+                        64.099633
+                  ]
+            },
+            {
+                  "name": "Ásgarðslaug",
+                  "text": "Nyilvános úszómedence Kopavogur területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        -21.929288,
+                        64.088177
+                  ]
+            },
+            {
+                  "name": "Breiðholtsskólalaug",
+                  "text": "Nyilvános úszómedence Kopavogur területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        -21.836501,
+                        64.107299
                   ]
             }
       ],
@@ -3227,6 +3281,33 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                         -21.910931,
                         64.106555
                   ]
+            },
+            {
+                  "name": "Ölduselslaug",
+                  "text": "O piscină în Kopavogur pentru relaxare locală și antrenament de înot.",
+                  "category": "family",
+                  "coords": [
+                        -21.848121,
+                        64.099633
+                  ]
+            },
+            {
+                  "name": "Ásgarðslaug",
+                  "text": "O piscină publică în Kopavogur care oferă spațiu pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        -21.929288,
+                        64.088177
+                  ]
+            },
+            {
+                  "name": "Breiðholtsskólalaug",
+                  "text": "O piscină publică în Kopavogur care oferă spațiu pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        -21.836501,
+                        64.107299
+                  ]
             }
       ],
       "en": [
@@ -3634,6 +3715,33 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                         -21.910931,
                         64.106555
                   ]
+            },
+            {
+                  "name": "Ölduselslaug",
+                  "text": "A swimming pool in Kopavogur for local recreation and swimming training.",
+                  "category": "family",
+                  "coords": [
+                        -21.848121,
+                        64.099633
+                  ]
+            },
+            {
+                  "name": "Ásgarðslaug",
+                  "text": "A public swimming pool in Kopavogur offering space for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        -21.929288,
+                        64.088177
+                  ]
+            },
+            {
+                  "name": "Breiðholtsskólalaug",
+                  "text": "A public swimming pool in Kopavogur offering space for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        -21.836501,
+                        64.107299
+                  ]
             }
       ]
 },
@@ -3682,7 +3790,88 @@ imageHint: "Kopavogur city view with modern church",
     },
     image: "/poi-images/iceland-kopavogur-cities-v2.webp",
 },  {
-    id: "iceland-hafnarfjordur-cities-v2",
+    id: "iceland-hafnarfjordur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Suðurbæjarlaug",
+                  "text": "Suðurbæjarlaug in Hafnarfjoer Ur bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -21.961956,
+                        64.060087
+                  ]
+            },
+            {
+                  "name": "Ásgarðslaug",
+                  "text": "Ásgarðslaug in Hafnarfjoer Ur bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -21.929288,
+                        64.088177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Suðurbæjarlaug",
+                  "text": "A Suðurbæjarlaug Hafnarfjoer Ur városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -21.961956,
+                        64.060087
+                  ]
+            },
+            {
+                  "name": "Ásgarðslaug",
+                  "text": "A Ásgarðslaug Hafnarfjoer Ur városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -21.929288,
+                        64.088177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Suðurbæjarlaug",
+                  "text": "Suðurbæjarlaug din Hafnarfjoer Ur oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -21.961956,
+                        64.060087
+                  ]
+            },
+            {
+                  "name": "Ásgarðslaug",
+                  "text": "Ásgarðslaug din Hafnarfjoer Ur oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -21.929288,
+                        64.088177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Suðurbæjarlaug",
+                  "text": "Suðurbæjarlaug in Hafnarfjoer Ur offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -21.961956,
+                        64.060087
+                  ]
+            },
+            {
+                  "name": "Ásgarðslaug",
+                  "text": "Ásgarðslaug in Hafnarfjoer Ur offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -21.929288,
+                        64.088177
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "city",
     name: { de: "Hafnarfjörður", hu: "Hafnarfjörður", ro: "Hafnarfjörður", en: "Hafnarfjörður"},
@@ -3891,6 +4080,24 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
                         -18.133204,
                         65.692584
                   ]
+            },
+            {
+                  "name": "Glerárlaug",
+                  "text": "Glerárlaug in Akureyri. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -18.11805,
+                        65.689351
+                  ]
+            },
+            {
+                  "name": "Skógarböðin",
+                  "text": "Forest Lagoon in Akureyri. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -18.041799,
+                        65.669918
+                  ]
             }
       ],
       "hu": [
@@ -4054,6 +4261,24 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
                   "coords": [
                         -18.133204,
                         65.692584
+                  ]
+            },
+            {
+                  "name": "Glerárlaug",
+                  "text": "Glerárlaug Akureyri területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        -18.11805,
+                        65.689351
+                  ]
+            },
+            {
+                  "name": "Skógarböðin",
+                  "text": "Forest Lagoon Akureyri területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        -18.041799,
+                        65.669918
                   ]
             }
       ],
@@ -4219,6 +4444,24 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
                         -18.133204,
                         65.692584
                   ]
+            },
+            {
+                  "name": "Glerárlaug",
+                  "text": "Glerárlaug din Akureyri. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -18.11805,
+                        65.689351
+                  ]
+            },
+            {
+                  "name": "Skógarböðin",
+                  "text": "Forest Lagoon din Akureyri. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -18.041799,
+                        65.669918
+                  ]
             }
       ],
       "en": [
@@ -4382,6 +4625,24 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
                   "coords": [
                         -18.133204,
                         65.692584
+                  ]
+            },
+            {
+                  "name": "Glerárlaug",
+                  "text": "Glerárlaug in Akureyri. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -18.11805,
+                        65.689351
+                  ]
+            },
+            {
+                  "name": "Forest Lagoon",
+                  "text": "Forest Lagoon in Akureyri. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -18.041799,
+                        65.669918
                   ]
             }
       ]

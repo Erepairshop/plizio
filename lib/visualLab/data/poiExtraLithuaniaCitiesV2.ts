@@ -4770,6 +4770,15 @@ imageHint: "Mazeikiai industrial skyline and refinery",
                         24.290812,
                         55.069512
                   ]
+            },
+            {
+                  "name": "Lokės pėda",
+                  "text": "Lokės pėda in Jonava ist ein Freizeitpark, der Abenteuer und aktive Erholung in den Wäldern Litauens bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.331083,
+                        55.100321
+                  ]
             }
       ],
       "hu": [
@@ -4978,6 +4987,15 @@ imageHint: "Mazeikiai industrial skyline and refinery",
                   "coords": [
                         24.290812,
                         55.069512
+                  ]
+            },
+            {
+                  "name": "Lokės pėda",
+                  "text": "A jonavai Lokės pėda vidámpark, amely kalandot és aktív kikapcsolódást kínál Litvánia erdeiben.",
+                  "category": "family",
+                  "coords": [
+                        24.331083,
+                        55.100321
                   ]
             }
       ],
@@ -5188,6 +5206,15 @@ imageHint: "Mazeikiai industrial skyline and refinery",
                         24.290812,
                         55.069512
                   ]
+            },
+            {
+                  "name": "Lokės pėda",
+                  "text": "Lokės pėda din Jonava este un parc tematic care oferă aventură și recreere activă în pădurile Lituaniei.",
+                  "category": "family",
+                  "coords": [
+                        24.331083,
+                        55.100321
+                  ]
             }
       ],
       "en": [
@@ -5397,6 +5424,15 @@ imageHint: "Mazeikiai industrial skyline and refinery",
                         24.290812,
                         55.069512
                   ]
+            },
+            {
+                  "name": "Lokės pėda",
+                  "text": "Lokės pėda in Jonava is a theme park offering adventure and active recreation in the forests of Lithuania.",
+                  "category": "family",
+                  "coords": [
+                        24.331083,
+                        55.100321
+                  ]
             }
       ]
 },
@@ -5582,6 +5618,15 @@ imageHint: "Utena brewery and city park",
                         23.97187,
                         55.279896
                   ]
+            },
+            {
+                  "name": "Lietuvos Sporto Universiteto Kėdainių \"Aušros\" progimnazijos plaukimo baseinas",
+                  "text": "Dieses Schwimmbad in Kedainiai ist ein großartiger Ort für Familienerholung und Sport.",
+                  "category": "family",
+                  "coords": [
+                        23.954738,
+                        55.285079
+                  ]
             }
       ],
       "hu": [
@@ -5673,6 +5718,15 @@ imageHint: "Utena brewery and city park",
                   "coords": [
                         23.97187,
                         55.279896
+                  ]
+            },
+            {
+                  "name": "Lietuvos Sporto Universiteto Kėdainių \"Aušros\" progimnazijos plaukimo baseinas",
+                  "text": "Ez a Kedainiai városában található úszómedence remek hely a családi kikapcsolódásra és sportolásra.",
+                  "category": "family",
+                  "coords": [
+                        23.954738,
+                        55.285079
                   ]
             }
       ],
@@ -5766,6 +5820,15 @@ imageHint: "Utena brewery and city park",
                         23.97187,
                         55.279896
                   ]
+            },
+            {
+                  "name": "Lietuvos Sporto Universiteto Kėdainių \"Aušros\" progimnazijos plaukimo baseinas",
+                  "text": "Această piscină din Kedainiai este un loc minunat pentru recreere în familie și exercițiis fizice.",
+                  "category": "family",
+                  "coords": [
+                        23.954738,
+                        55.285079
+                  ]
             }
       ],
       "en": [
@@ -5857,6 +5920,15 @@ imageHint: "Utena brewery and city park",
                   "coords": [
                         23.97187,
                         55.279896
+                  ]
+            },
+            {
+                  "name": "Lietuvos Sporto Universiteto Kėdainių \"Aušros\" progimnazijos plaukimo baseinas",
+                  "text": "This swimming pool in Kedainiai is a great place for family recreation and exercise.",
+                  "category": "family",
+                  "coords": [
+                        23.954738,
+                        55.285079
                   ]
             }
       ]
@@ -7874,6 +7946,24 @@ imageHint: "Plunge Oginski palace and park",
                         21.243221,
                         55.888415
                   ]
+            },
+            {
+                  "name": "Vinetu kaimas",
+                  "text": "Dieser Freizeitpark in Kretinga bietet verschiedene Aktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        21.220264,
+                        55.852029
+                  ]
+            },
+            {
+                  "name": "Mini zoologijos sodas",
+                  "text": "Dieser Zoo in Kretinga ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        21.252115,
+                        55.910411
+                  ]
             }
       ],
       "hu": [
@@ -7929,6 +8019,24 @@ imageHint: "Plunge Oginski palace and park",
                   "coords": [
                         21.243221,
                         55.888415
+                  ]
+            },
+            {
+                  "name": "Vinetu kaimas",
+                  "text": "Ez a Kretinga városában található vidámpark különféle tevékenységeket kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        21.220264,
+                        55.852029
+                  ]
+            },
+            {
+                  "name": "Mini zoologijos sodas",
+                  "text": "Ez a Kretinga városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        21.252115,
+                        55.910411
                   ]
             }
       ],
@@ -7986,6 +8094,24 @@ imageHint: "Plunge Oginski palace and park",
                         21.243221,
                         55.888415
                   ]
+            },
+            {
+                  "name": "Vinetu kaimas",
+                  "text": "Acest parc tematic din Kretinga oferă diverse activități pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        21.220264,
+                        55.852029
+                  ]
+            },
+            {
+                  "name": "Mini zoologijos sodas",
+                  "text": "Această grădină zoologică din Kretinga permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        21.252115,
+                        55.910411
+                  ]
             }
       ],
       "en": [
@@ -8041,6 +8167,24 @@ imageHint: "Plunge Oginski palace and park",
                   "coords": [
                         21.243221,
                         55.888415
+                  ]
+            },
+            {
+                  "name": "Vinetu kaimas",
+                  "text": "This theme park in Kretinga provides various activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        21.220264,
+                        55.852029
+                  ]
+            },
+            {
+                  "name": "Mini zoologijos sodas",
+                  "text": "This zoo in Kretinga allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        21.252115,
+                        55.910411
                   ]
             }
       ]
@@ -9281,6 +9425,15 @@ imageHint: "Radviliskis railway station and locomotive",
                         21.054265,
                         55.918808
                   ]
+            },
+            {
+                  "name": "Moterų pliažas (Nudistų)",
+                  "text": "Dieses Strandbad in Palanga bietet einen entspannten Ort am Meer.",
+                  "category": "family",
+                  "coords": [
+                        21.056939,
+                        55.931357
+                  ]
             }
       ],
       "hu": [
@@ -9570,6 +9723,15 @@ imageHint: "Radviliskis railway station and locomotive",
                   "coords": [
                         21.054265,
                         55.918808
+                  ]
+            },
+            {
+                  "name": "Moterų pliažas (Nudistų)",
+                  "text": "Ez a Palanga városában található strandfürdő pihentető kikapcsolódást kínál a tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        21.056939,
+                        55.931357
                   ]
             }
       ],
@@ -9861,6 +10023,15 @@ imageHint: "Radviliskis railway station and locomotive",
                         21.054265,
                         55.918808
                   ]
+            },
+            {
+                  "name": "Moterų pliažas (Nudistų)",
+                  "text": "Această stațiune de plajă din Palanga oferă un loc relaxant la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        21.056939,
+                        55.931357
+                  ]
             }
       ],
       "en": [
@@ -10151,6 +10322,15 @@ imageHint: "Radviliskis railway station and locomotive",
                         21.054265,
                         55.918808
                   ]
+            },
+            {
+                  "name": "Moterų pliažas (Nudistų)",
+                  "text": "This beach resort in Palanga offers a relaxing spot by the sea.",
+                  "category": "family",
+                  "coords": [
+                        21.056939,
+                        55.931357
+                  ]
             }
       ]
 },
@@ -10299,6 +10479,15 @@ imageHint: "Palanga beach and sea pier at sunset",
                         21.379175,
                         55.717293
                   ]
+            },
+            {
+                  "name": "Infinity Wake parkas",
+                  "text": "Der Infinity Wake parkas in Gargzdai ist ein Wasserpark, der spannende Aktivitäten für Wassersportfans bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.364975,
+                        55.690345
+                  ]
             }
       ],
       "hu": [
@@ -10399,6 +10588,15 @@ imageHint: "Palanga beach and sea pier at sunset",
                   "coords": [
                         21.379175,
                         55.717293
+                  ]
+            },
+            {
+                  "name": "Infinity Wake parkas",
+                  "text": "A gargzdai Infinity Wake parkas egy vízi park, amely izgalmas tevékenységeket kínál a vízi sportok kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        21.364975,
+                        55.690345
                   ]
             }
       ],
@@ -10501,6 +10699,15 @@ imageHint: "Palanga beach and sea pier at sunset",
                         21.379175,
                         55.717293
                   ]
+            },
+            {
+                  "name": "Infinity Wake parkas",
+                  "text": "Infinity Wake parkas din Gargzdai este un parc acvatic ce oferă activități palpitante pentru fanii sporturilor nautice.",
+                  "category": "family",
+                  "coords": [
+                        21.364975,
+                        55.690345
+                  ]
             }
       ],
       "en": [
@@ -10601,6 +10808,15 @@ imageHint: "Palanga beach and sea pier at sunset",
                   "coords": [
                         21.379175,
                         55.717293
+                  ]
+            },
+            {
+                  "name": "Infinity Wake parkas",
+                  "text": "Infinity Wake parkas in Gargzdai is a water park offering exciting activities for water sports fans.",
+                  "category": "family",
+                  "coords": [
+                        21.364975,
+                        55.690345
                   ]
             }
       ]
@@ -12743,6 +12959,15 @@ imageHint: "Elektrenai power plant and church",
                         22.962087,
                         55.993649
                   ]
+            },
+            {
+                  "name": "Daugėlių Pirtis",
+                  "text": "Dieses öffentliche Bad in Kursenai bietet eine entspannte Umgebung für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        22.954174,
+                        55.985382
+                  ]
             }
       ],
       "hu": [
@@ -12969,6 +13194,15 @@ imageHint: "Elektrenai power plant and church",
                   "coords": [
                         22.962087,
                         55.993649
+                  ]
+            },
+            {
+                  "name": "Daugėlių Pirtis",
+                  "text": "Ez a Kursenai városában található közfürdő pihentető környezetet kínál a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        22.954174,
+                        55.985382
                   ]
             }
       ],
@@ -13197,6 +13431,15 @@ imageHint: "Elektrenai power plant and church",
                         22.962087,
                         55.993649
                   ]
+            },
+            {
+                  "name": "Daugėlių Pirtis",
+                  "text": "Această baie publică din Kursenai oferă un mediu relaxant pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        22.954174,
+                        55.985382
+                  ]
             }
       ],
       "en": [
@@ -13423,6 +13666,15 @@ imageHint: "Elektrenai power plant and church",
                   "coords": [
                         22.962087,
                         55.993649
+                  ]
+            },
+            {
+                  "name": "Daugėlių Pirtis",
+                  "text": "This public bath in Kursenai offers a relaxing environment for visitors.",
+                  "category": "family",
+                  "coords": [
+                        22.954174,
+                        55.985382
                   ]
             }
       ]
@@ -14998,6 +15250,15 @@ imageHint: "Raseiniai monument and church",
                         25.035364,
                         55.545525
                   ]
+            },
+            {
+                  "name": "„SPA Vilnius“ Anykščiai",
+                  "text": "Dieses Hotel in Anyksciai bietet Freizeit- und Erholungsmöglichkeiten für Gäste.",
+                  "category": "family",
+                  "coords": [
+                        25.084618,
+                        55.510505
+                  ]
             }
       ],
       "hu": [
@@ -15296,6 +15557,15 @@ imageHint: "Raseiniai monument and church",
                   "coords": [
                         25.035364,
                         55.545525
+                  ]
+            },
+            {
+                  "name": "„SPA Vilnius“ Anykščiai",
+                  "text": "Ez a Anyksciai városában található szálloda kikapcsolódási és pihenési lehetőségeket kínál a vendégeknek.",
+                  "category": "family",
+                  "coords": [
+                        25.084618,
+                        55.510505
                   ]
             }
       ],
@@ -15596,6 +15866,15 @@ imageHint: "Raseiniai monument and church",
                         25.035364,
                         55.545525
                   ]
+            },
+            {
+                  "name": "„SPA Vilnius“ Anykščiai",
+                  "text": "Acest hotel din Anyksciai oferă oportunități de agrement și relaxare pentru oaspeți.",
+                  "category": "family",
+                  "coords": [
+                        25.084618,
+                        55.510505
+                  ]
             }
       ],
       "en": [
@@ -15894,6 +16173,15 @@ imageHint: "Raseiniai monument and church",
                   "coords": [
                         25.035364,
                         55.545525
+                  ]
+            },
+            {
+                  "name": "„SPA Vilnius“ Anykščiai",
+                  "text": "This hotel in Anyksciai provides leisure and relaxation opportunities for guests.",
+                  "category": "family",
+                  "coords": [
+                        25.084618,
+                        55.510505
                   ]
             }
       ]

@@ -2476,6 +2476,69 @@ imageHint: "Bratislava Castle and Danube river at sunset",
                         21.260031,
                         48.713992
                   ]
+            },
+            {
+                  "name": "Golden Royal Spa",
+                  "text": "Ein Hotel in Kosice, das möglicherweise Wellness- oder Spa-Einrichtungen für seine Gäste anbietet.",
+                  "category": "family",
+                  "coords": [
+                        21.259614,
+                        48.724814
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "Ein lokaler Zoo in Kosice, in dem Besucher verschiedene Tierarten in einer familienfreundlichen Umgebung sehen können.",
+                  "category": "family",
+                  "coords": [
+                        21.237467,
+                        48.736102
+                  ]
+            },
+            {
+                  "name": "Bazén ZŠ",
+                  "text": "Ein lokales Schwimmbad in Kosice, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        21.23136,
+                        48.705086
+                  ]
+            },
+            {
+                  "name": "Areál Anička",
+                  "text": "Ein lokaler Zoo in Kosice, in dem Besucher verschiedene Tierarten in einer familienfreundlichen Umgebung sehen können.",
+                  "category": "family",
+                  "coords": [
+                        21.254639,
+                        48.746498
+                  ]
+            },
+            {
+                  "name": "Bezbariérový bazén",
+                  "text": "Ein lokales Schwimmbad in Kosice, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        21.258052,
+                        48.734992
+                  ]
+            },
+            {
+                  "name": "ZOO DOM",
+                  "text": "Ein lokaler Zoo in Kosice, in dem Besucher verschiedene Tierarten in einer familienfreundlichen Umgebung sehen können.",
+                  "category": "family",
+                  "coords": [
+                        21.257228,
+                        48.717708
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Ein lokales Schwimmbad in Kosice, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        21.261258,
+                        48.724376
+                  ]
             }
       ],
       "hu": [
@@ -2657,6 +2720,69 @@ imageHint: "Bratislava Castle and Danube river at sunset",
                   "coords": [
                         21.260031,
                         48.713992
+                  ]
+            },
+            {
+                  "name": "Golden Royal Spa",
+                  "text": "Egy szálloda Kosice városában, amely wellness- vagy spa-szolgáltatokat is kínálhat vendégeinek.",
+                  "category": "family",
+                  "coords": [
+                        21.259614,
+                        48.724814
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "Kosice helyi állatkertje, ahol a látogatók különféle állatfajokat tekinthetnek meg családbarát környezetben.",
+                  "category": "family",
+                  "coords": [
+                        21.237467,
+                        48.736102
+                  ]
+            },
+            {
+                  "name": "Bazén ZŠ",
+                  "text": "Kosice helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        21.23136,
+                        48.705086
+                  ]
+            },
+            {
+                  "name": "Areál Anička",
+                  "text": "Kosice helyi állatkertje, ahol a látogatók különféle állatfajokat tekinthetnek meg családbarát környezetben.",
+                  "category": "family",
+                  "coords": [
+                        21.254639,
+                        48.746498
+                  ]
+            },
+            {
+                  "name": "Bezbariérový bazén",
+                  "text": "Kosice helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        21.258052,
+                        48.734992
+                  ]
+            },
+            {
+                  "name": "ZOO DOM",
+                  "text": "Kosice helyi állatkertje, ahol a látogatók különféle állatfajokat tekinthetnek meg családbarát környezetben.",
+                  "category": "family",
+                  "coords": [
+                        21.257228,
+                        48.717708
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Kosice helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        21.261258,
+                        48.724376
                   ]
             }
       ],
@@ -2840,6 +2966,69 @@ imageHint: "Bratislava Castle and Danube river at sunset",
                         21.260031,
                         48.713992
                   ]
+            },
+            {
+                  "name": "Golden Royal Spa",
+                  "text": "Un hotel din Kosice care poate oferi facilități de wellness sau spa pentru oaspeții săi.",
+                  "category": "family",
+                  "coords": [
+                        21.259614,
+                        48.724814
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "O grădină zoologică locală în Kosice, unde vizitatorii pot vedea diverse specii de animale într-un mediu prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.237467,
+                        48.736102
+                  ]
+            },
+            {
+                  "name": "Bazén ZŠ",
+                  "text": "O piscină locală în Kosice, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        21.23136,
+                        48.705086
+                  ]
+            },
+            {
+                  "name": "Areál Anička",
+                  "text": "O grădină zoologică locală în Kosice, unde vizitatorii pot vedea diverse specii de animale într-un mediu prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.254639,
+                        48.746498
+                  ]
+            },
+            {
+                  "name": "Bezbariérový bazén",
+                  "text": "O piscină locală în Kosice, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        21.258052,
+                        48.734992
+                  ]
+            },
+            {
+                  "name": "ZOO DOM",
+                  "text": "O grădină zoologică locală în Kosice, unde vizitatorii pot vedea diverse specii de animale într-un mediu prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.257228,
+                        48.717708
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "O piscină locală în Kosice, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        21.261258,
+                        48.724376
+                  ]
             }
       ],
       "en": [
@@ -3021,6 +3210,69 @@ imageHint: "Bratislava Castle and Danube river at sunset",
                   "coords": [
                         21.260031,
                         48.713992
+                  ]
+            },
+            {
+                  "name": "Golden Royal Spa",
+                  "text": "A hotel in Kosice that may offer wellness or spa facilities for its guests.",
+                  "category": "family",
+                  "coords": [
+                        21.259614,
+                        48.724814
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "A local zoo in Kosice where visitors can see various animal species in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        21.237467,
+                        48.736102
+                  ]
+            },
+            {
+                  "name": "Bazén ZŠ",
+                  "text": "A local swimming pool in Kosice suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        21.23136,
+                        48.705086
+                  ]
+            },
+            {
+                  "name": "Areál Anička",
+                  "text": "A local zoo in Kosice where visitors can see various animal species in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        21.254639,
+                        48.746498
+                  ]
+            },
+            {
+                  "name": "Bezbariérový bazén",
+                  "text": "A local swimming pool in Kosice suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        21.258052,
+                        48.734992
+                  ]
+            },
+            {
+                  "name": "ZOO DOM",
+                  "text": "A local zoo in Kosice where visitors can see various animal species in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        21.257228,
+                        48.717708
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "A local swimming pool in Kosice suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        21.261258,
+                        48.724376
                   ]
             }
       ]
@@ -3557,6 +3809,96 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
                         21.223676,
                         48.99751
                   ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "Ein tolles Ziel für Familienspaß und Unterhaltung in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.268662,
+                        48.998753
+                  ]
+            },
+            {
+                  "name": "Aquaterárium",
+                  "text": "Erkunden Sie das Meeresleben und genießen Sie einen lehrreichen Familienbesuch in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.224777,
+                        48.989841
+                  ]
+            },
+            {
+                  "name": "Skákací svet Teniska",
+                  "text": "Ein tolles Ziel für Familienspaß und Unterhaltung in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.230639,
+                        48.997703
+                  ]
+            },
+            {
+                  "name": "Top Fun",
+                  "text": "Ein tolles Ziel für Familienspaß und Unterhaltung in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.242719,
+                        48.992831
+                  ]
+            },
+            {
+                  "name": "Vodný relax Nautilus",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.24419,
+                        48.987854
+                  ]
+            },
+            {
+                  "name": "Laser aréna Pulzar",
+                  "text": "Ein tolles Ziel für Familienspaß und Unterhaltung in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.220571,
+                        49.015262
+                  ]
+            },
+            {
+                  "name": "Hrošík Baby Spa",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.271231,
+                        48.998395
+                  ]
+            },
+            {
+                  "name": "Krytý bazén nemocnice Oáza",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.220043,
+                        48.998786
+                  ]
+            },
+            {
+                  "name": "Sun Park Sídlisko III Prešov",
+                  "text": "Ein tolles Ziel für Familienspaß und Unterhaltung in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.228981,
+                        49.015406
+                  ]
+            },
+            {
+                  "name": "Plaza Beach Resort",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.27188,
+                        48.982496
+                  ]
             }
       ],
       "hu": [
@@ -4044,6 +4386,96 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
                   "coords": [
                         21.223676,
                         48.99751
+                  ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "Nagyszerű úti cél a családi szórakozáshoz és kikapcsolódáshoz Presov területén.",
+                  "category": "family",
+                  "coords": [
+                        21.268662,
+                        48.998753
+                  ]
+            },
+            {
+                  "name": "Aquaterárium",
+                  "text": "Fedezze fel a vízi világot, és élvezze az oktató jellegű családi látogatást Presov városában.",
+                  "category": "family",
+                  "coords": [
+                        21.224777,
+                        48.989841
+                  ]
+            },
+            {
+                  "name": "Skákací svet Teniska",
+                  "text": "Nagyszerű úti cél a családi szórakozáshoz és kikapcsolódáshoz Presov területén.",
+                  "category": "family",
+                  "coords": [
+                        21.230639,
+                        48.997703
+                  ]
+            },
+            {
+                  "name": "Top Fun",
+                  "text": "Nagyszerű úti cél a családi szórakozáshoz és kikapcsolódáshoz Presov területén.",
+                  "category": "family",
+                  "coords": [
+                        21.242719,
+                        48.992831
+                  ]
+            },
+            {
+                  "name": "Vodný relax Nautilus",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Presov városában.",
+                  "category": "family",
+                  "coords": [
+                        21.24419,
+                        48.987854
+                  ]
+            },
+            {
+                  "name": "Laser aréna Pulzar",
+                  "text": "Nagyszerű úti cél a családi szórakozáshoz és kikapcsolódáshoz Presov területén.",
+                  "category": "family",
+                  "coords": [
+                        21.220571,
+                        49.015262
+                  ]
+            },
+            {
+                  "name": "Hrošík Baby Spa",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Presov városában.",
+                  "category": "family",
+                  "coords": [
+                        21.271231,
+                        48.998395
+                  ]
+            },
+            {
+                  "name": "Krytý bazén nemocnice Oáza",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Presov városában.",
+                  "category": "family",
+                  "coords": [
+                        21.220043,
+                        48.998786
+                  ]
+            },
+            {
+                  "name": "Sun Park Sídlisko III Prešov",
+                  "text": "Nagyszerű úti cél a családi szórakozáshoz és kikapcsolódáshoz Presov területén.",
+                  "category": "family",
+                  "coords": [
+                        21.228981,
+                        49.015406
+                  ]
+            },
+            {
+                  "name": "Plaza Beach Resort",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Presov városában.",
+                  "category": "family",
+                  "coords": [
+                        21.27188,
+                        48.982496
                   ]
             }
       ],
@@ -4533,6 +4965,96 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
                         21.223676,
                         48.99751
                   ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "O destinație excelentă pentru distracție în familie și divertisment în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.268662,
+                        48.998753
+                  ]
+            },
+            {
+                  "name": "Aquaterárium",
+                  "text": "Explorați viața acvatică și bucurați-vă de o vizită educativă în familie în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.224777,
+                        48.989841
+                  ]
+            },
+            {
+                  "name": "Skákací svet Teniska",
+                  "text": "O destinație excelentă pentru distracție în familie și divertisment în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.230639,
+                        48.997703
+                  ]
+            },
+            {
+                  "name": "Top Fun",
+                  "text": "O destinație excelentă pentru distracție în familie și divertisment în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.242719,
+                        48.992831
+                  ]
+            },
+            {
+                  "name": "Vodný relax Nautilus",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.24419,
+                        48.987854
+                  ]
+            },
+            {
+                  "name": "Laser aréna Pulzar",
+                  "text": "O destinație excelentă pentru distracție în familie și divertisment în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.220571,
+                        49.015262
+                  ]
+            },
+            {
+                  "name": "Hrošík Baby Spa",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.271231,
+                        48.998395
+                  ]
+            },
+            {
+                  "name": "Krytý bazén nemocnice Oáza",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.220043,
+                        48.998786
+                  ]
+            },
+            {
+                  "name": "Sun Park Sídlisko III Prešov",
+                  "text": "O destinație excelentă pentru distracție în familie și divertisment în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.228981,
+                        49.015406
+                  ]
+            },
+            {
+                  "name": "Plaza Beach Resort",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.27188,
+                        48.982496
+                  ]
             }
       ],
       "en": [
@@ -5021,6 +5543,96 @@ imageHint: "St. Elisabeth Cathedral in Košice city center",
                         21.223676,
                         48.99751
                   ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "A great destination for family fun and entertainment in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.268662,
+                        48.998753
+                  ]
+            },
+            {
+                  "name": "Aquaterárium",
+                  "text": "Explore aquatic life and enjoy an educational family visit in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.224777,
+                        48.989841
+                  ]
+            },
+            {
+                  "name": "Skákací svet Teniska",
+                  "text": "A great destination for family fun and entertainment in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.230639,
+                        48.997703
+                  ]
+            },
+            {
+                  "name": "Top Fun",
+                  "text": "A great destination for family fun and entertainment in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.242719,
+                        48.992831
+                  ]
+            },
+            {
+                  "name": "Vodný relax Nautilus",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.24419,
+                        48.987854
+                  ]
+            },
+            {
+                  "name": "Laser aréna Pulzar",
+                  "text": "A great destination for family fun and entertainment in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.220571,
+                        49.015262
+                  ]
+            },
+            {
+                  "name": "Hrošík Baby Spa",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.271231,
+                        48.998395
+                  ]
+            },
+            {
+                  "name": "Krytý bazén nemocnice Oáza",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.220043,
+                        48.998786
+                  ]
+            },
+            {
+                  "name": "Sun Park Sídlisko III Prešov",
+                  "text": "A great destination for family fun and entertainment in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.228981,
+                        49.015406
+                  ]
+            },
+            {
+                  "name": "Plaza Beach Resort",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Presov.",
+                  "category": "family",
+                  "coords": [
+                        21.27188,
+                        48.982496
+                  ]
             }
       ]
 },
@@ -5069,7 +5681,196 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
     },
     image: "/poi-images/slovakia-presov-cities-v2.webp",
 },  {
-    id: "slovakia-nitra-cities-v2",
+    id: "slovakia-nitra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mestský kúpeľ",
+                  "text": "Ein öffentlicher Wasserpark und Bad in Nitra mit Schwimmbecken und Wellnessbereichen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.089526,
+                        48.312447
+                  ]
+            },
+            {
+                  "name": "Univerzitné vivárium",
+                  "text": "Ein Universitätsvivarium in Nitra, das verschiedene Tierarten beherbergt.",
+                  "category": "family",
+                  "coords": [
+                        18.092523,
+                        48.305535
+                  ]
+            },
+            {
+                  "name": "Terra Klub",
+                  "text": "Ein Schwimmbad in Nitra für Sport und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        18.112008,
+                        48.328103
+                  ]
+            },
+            {
+                  "name": "Letné kúpalisko",
+                  "text": "Ein Wasserpark in Nitra mit verschiedenen Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.082529,
+                        48.318714
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "Ein kleiner Zoo in Nitra, ideal für einen Familienausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        18.097518,
+                        48.304209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mestský kúpeľ",
+                  "text": "Nyitrai nyilvános élményfürdő és strand úszómedencékkel és wellness-részlegekkel a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.089526,
+                        48.312447
+                  ]
+            },
+            {
+                  "name": "Univerzitné vivárium",
+                  "text": "Egyetemi vivárium Nyitrán, amely különféle állatfajoknak ad otthont.",
+                  "category": "family",
+                  "coords": [
+                        18.092523,
+                        48.305535
+                  ]
+            },
+            {
+                  "name": "Terra Klub",
+                  "text": "Úszómedence Nyitrán sportoláshoz és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.112008,
+                        48.328103
+                  ]
+            },
+            {
+                  "name": "Letné kúpalisko",
+                  "text": "Vízipark Nyitrán, különféle attrakciókkal a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        18.082529,
+                        48.318714
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "Kis állatkert Nyitrán, ideális családi kiránduláshoz gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        18.097518,
+                        48.304209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mestský kúpeľ",
+                  "text": "Un parc acvatic public și baie în Nitra, care oferă piscine și zone de wellness pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.089526,
+                        48.312447
+                  ]
+            },
+            {
+                  "name": "Univerzitné vivárium",
+                  "text": "Un vivariu universitar în Nitra, care găzduiește diverse specii de animale.",
+                  "category": "family",
+                  "coords": [
+                        18.092523,
+                        48.305535
+                  ]
+            },
+            {
+                  "name": "Terra Klub",
+                  "text": "O piscină în Nitra pentru sport și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.112008,
+                        48.328103
+                  ]
+            },
+            {
+                  "name": "Letné kúpalisko",
+                  "text": "Un parc acvatic în Nitra cu diverse atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.082529,
+                        48.318714
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "O grădină zoologică mică în Nitra, ideală pentru o ieșire în familie cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        18.097518,
+                        48.304209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mestský kúpeľ",
+                  "text": "A public water park and bath in Nitra providing swimming pools and wellness areas for families.",
+                  "category": "family",
+                  "coords": [
+                        18.089526,
+                        48.312447
+                  ]
+            },
+            {
+                  "name": "Univerzitné vivárium",
+                  "text": "A university vivarium in Nitra, home to various animal species.",
+                  "category": "family",
+                  "coords": [
+                        18.092523,
+                        48.305535
+                  ]
+            },
+            {
+                  "name": "Terra Klub",
+                  "text": "A swimming pool in Nitra for sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        18.112008,
+                        48.328103
+                  ]
+            },
+            {
+                  "name": "Letné kúpalisko",
+                  "text": "A water park in Nitra with various attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        18.082529,
+                        48.318714
+                  ]
+            },
+            {
+                  "name": "Mini ZOO",
+                  "text": "A small zoo in Nitra, ideal for a family outing with children.",
+                  "category": "family",
+                  "coords": [
+                        18.097518,
+                        48.304209
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Nitra", hu: "Nyitra", ro: "Nitra", en: "Nitra"},
@@ -5269,6 +6070,33 @@ imageHint: "Nitra Castle on the hill overlooking the city",
                         17.588593,
                         48.376463
                   ]
+            },
+            {
+                  "name": "Mestská krytá plaváreň Zátvor",
+                  "text": "Ein lokales Schwimmbad in Trnava, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.598291,
+                        48.390823
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Kamenný mlyn",
+                  "text": "Dieser Wasserpark in Trnava bietet verschiedene Becken und Freizeitaktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        17.548052,
+                        48.365599
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Castiglione",
+                  "text": "Ein lokales Schwimmbad in Trnava, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.603788,
+                        48.376991
+                  ]
             }
       ],
       "hu": [
@@ -5423,6 +6251,33 @@ imageHint: "Nitra Castle on the hill overlooking the city",
                   "coords": [
                         17.588593,
                         48.376463
+                  ]
+            },
+            {
+                  "name": "Mestská krytá plaváreň Zátvor",
+                  "text": "Trnava helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.598291,
+                        48.390823
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Kamenný mlyn",
+                  "text": "Ez a Trnava városában található vízipark különféle medencékkel és szórakoztató programokkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        17.548052,
+                        48.365599
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Castiglione",
+                  "text": "Trnava helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.603788,
+                        48.376991
                   ]
             }
       ],
@@ -5579,6 +6434,33 @@ imageHint: "Nitra Castle on the hill overlooking the city",
                         17.588593,
                         48.376463
                   ]
+            },
+            {
+                  "name": "Mestská krytá plaváreň Zátvor",
+                  "text": "O piscină locală în Trnava, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.598291,
+                        48.390823
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Kamenný mlyn",
+                  "text": "Acest parc acvatic din Trnava oferă diverse piscine și activități distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.548052,
+                        48.365599
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Castiglione",
+                  "text": "O piscină locală în Trnava, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.603788,
+                        48.376991
+                  ]
             }
       ],
       "en": [
@@ -5733,6 +6615,33 @@ imageHint: "Nitra Castle on the hill overlooking the city",
                   "coords": [
                         17.588593,
                         48.376463
+                  ]
+            },
+            {
+                  "name": "Mestská krytá plaváreň Zátvor",
+                  "text": "A local swimming pool in Trnava suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.598291,
+                        48.390823
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Kamenný mlyn",
+                  "text": "This water park in Trnava offers various pools and fun activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.548052,
+                        48.365599
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Castiglione",
+                  "text": "A local swimming pool in Trnava suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.603788,
+                        48.376991
                   ]
             }
       ]
@@ -5954,6 +6863,15 @@ imageHint: "Trnava main square with the City Tower and churches",
                         18.921126,
                         49.061852
                   ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Martin.",
+                  "category": "family",
+                  "coords": [
+                        18.930632,
+                        49.071209
+                  ]
             }
       ],
       "hu": [
@@ -6126,6 +7044,15 @@ imageHint: "Trnava main square with the City Tower and churches",
                   "coords": [
                         18.921126,
                         49.061852
+                  ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Martin városában.",
+                  "category": "family",
+                  "coords": [
+                        18.930632,
+                        49.071209
                   ]
             }
       ],
@@ -6300,6 +7227,15 @@ imageHint: "Trnava main square with the City Tower and churches",
                         18.921126,
                         49.061852
                   ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Martin.",
+                  "category": "family",
+                  "coords": [
+                        18.930632,
+                        49.071209
+                  ]
             }
       ],
       "en": [
@@ -6472,6 +7408,15 @@ imageHint: "Trnava main square with the City Tower and churches",
                   "coords": [
                         18.921126,
                         49.061852
+                  ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Martin.",
+                  "category": "family",
+                  "coords": [
+                        18.930632,
+                        49.071209
                   ]
             }
       ]
@@ -8062,6 +9007,60 @@ imageHint: "Trenčín Castle illuminated on the rock above the city",
                         18.63549,
                         48.771349
                   ]
+            },
+            {
+                  "name": "Detská kontaktná zoo",
+                  "text": "Ein lokaler Zoo in Prievidza, in dem Besucher verschiedene Tierarten in einer familienfreundlichen Umgebung sehen können.",
+                  "category": "family",
+                  "coords": [
+                        18.573822,
+                        48.782173
+                  ]
+            },
+            {
+                  "name": "Baby plávanie",
+                  "text": "Ein lokales Schwimmbad in Prievidza, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.623151,
+                        48.782805
+                  ]
+            },
+            {
+                  "name": "Národná zoologická záhrada Bojnice",
+                  "text": "Ein lokaler Zoo in Prievidza, in dem Besucher verschiedene Tierarten in einer familienfreundlichen Umgebung sehen können.",
+                  "category": "family",
+                  "coords": [
+                        18.575057,
+                        48.783739
+                  ]
+            },
+            {
+                  "name": "Jánov kúpeľ",
+                  "text": "Ein lokales Schwimmbad in Prievidza, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.572665,
+                        48.773863
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Čajka",
+                  "text": "Dieser Wasserpark in Prievidza bietet verschiedene Becken und Freizeitaktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.575116,
+                        48.779001
+                  ]
+            },
+            {
+                  "name": "Planinka",
+                  "text": "Ein Freizeitpark in Prievidza mit verschiedenen Attraktionen und Unterhaltungsangeboten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.576549,
+                        48.780892
+                  ]
             }
       ],
       "hu": [
@@ -8144,6 +9143,60 @@ imageHint: "Trenčín Castle illuminated on the rock above the city",
                   "coords": [
                         18.63549,
                         48.771349
+                  ]
+            },
+            {
+                  "name": "Detská kontaktná zoo",
+                  "text": "Prievidza helyi állatkertje, ahol a látogatók különféle állatfajokat tekinthetnek meg családbarát környezetben.",
+                  "category": "family",
+                  "coords": [
+                        18.573822,
+                        48.782173
+                  ]
+            },
+            {
+                  "name": "Baby plávanie",
+                  "text": "Prievidza helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        18.623151,
+                        48.782805
+                  ]
+            },
+            {
+                  "name": "Národná zoologická záhrada Bojnice",
+                  "text": "Prievidza helyi állatkertje, ahol a látogatók különféle állatfajokat tekinthetnek meg családbarát környezetben.",
+                  "category": "family",
+                  "coords": [
+                        18.575057,
+                        48.783739
+                  ]
+            },
+            {
+                  "name": "Jánov kúpeľ",
+                  "text": "Prievidza helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        18.572665,
+                        48.773863
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Čajka",
+                  "text": "Ez a Prievidza városában található vízipark különféle medencékkel és szórakoztató programokkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        18.575116,
+                        48.779001
+                  ]
+            },
+            {
+                  "name": "Planinka",
+                  "text": "Egy vidámpark Prievidza városában, amely különféle látnivalókat és szórakozási lehetőségeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.576549,
+                        48.780892
                   ]
             }
       ],
@@ -8228,6 +9281,60 @@ imageHint: "Trenčín Castle illuminated on the rock above the city",
                         18.63549,
                         48.771349
                   ]
+            },
+            {
+                  "name": "Detská kontaktná zoo",
+                  "text": "O grădină zoologică locală în Prievidza, unde vizitatorii pot vedea diverse specii de animale într-un mediu prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.573822,
+                        48.782173
+                  ]
+            },
+            {
+                  "name": "Baby plávanie",
+                  "text": "O piscină locală în Prievidza, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.623151,
+                        48.782805
+                  ]
+            },
+            {
+                  "name": "Národná zoologická záhrada Bojnice",
+                  "text": "O grădină zoologică locală în Prievidza, unde vizitatorii pot vedea diverse specii de animale într-un mediu prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.575057,
+                        48.783739
+                  ]
+            },
+            {
+                  "name": "Jánov kúpeľ",
+                  "text": "O piscină locală în Prievidza, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.572665,
+                        48.773863
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Čajka",
+                  "text": "Acest parc acvatic din Prievidza oferă diverse piscine și activități distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.575116,
+                        48.779001
+                  ]
+            },
+            {
+                  "name": "Planinka",
+                  "text": "Un parc de distracții în Prievidza, care oferă diverse atracții și divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.576549,
+                        48.780892
+                  ]
             }
       ],
       "en": [
@@ -8311,6 +9418,60 @@ imageHint: "Trenčín Castle illuminated on the rock above the city",
                         18.63549,
                         48.771349
                   ]
+            },
+            {
+                  "name": "Children contact zoo",
+                  "text": "A local zoo in Prievidza where visitors can see various animal species in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        18.573822,
+                        48.782173
+                  ]
+            },
+            {
+                  "name": "Baby plávanie",
+                  "text": "A local swimming pool in Prievidza suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        18.623151,
+                        48.782805
+                  ]
+            },
+            {
+                  "name": "Národná zoologická záhrada Bojnice",
+                  "text": "A local zoo in Prievidza where visitors can see various animal species in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        18.575057,
+                        48.783739
+                  ]
+            },
+            {
+                  "name": "Jánov kúpeľ",
+                  "text": "A local swimming pool in Prievidza suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        18.572665,
+                        48.773863
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Čajka",
+                  "text": "This water park in Prievidza offers various pools and fun activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.575116,
+                        48.779001
+                  ]
+            },
+            {
+                  "name": "Planinka",
+                  "text": "A theme park in Prievidza featuring various attractions and entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        18.576549,
+                        48.780892
+                  ]
             }
       ]
 },
@@ -8378,6 +9539,15 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
                         19.107056,
                         48.585174
                   ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Zvolen.",
+                  "category": "family",
+                  "coords": [
+                        19.098312,
+                        48.60622
+                  ]
             }
       ],
       "hu": [
@@ -8397,6 +9567,15 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
                   "coords": [
                         19.107056,
                         48.585174
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Zvolen városában.",
+                  "category": "family",
+                  "coords": [
+                        19.098312,
+                        48.60622
                   ]
             }
       ],
@@ -8418,6 +9597,15 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
                         19.107056,
                         48.585174
                   ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Zvolen.",
+                  "category": "family",
+                  "coords": [
+                        19.098312,
+                        48.60622
+                  ]
             }
       ],
       "en": [
@@ -8437,6 +9625,15 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
                   "coords": [
                         19.107056,
                         48.585174
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Zvolen.",
+                  "category": "family",
+                  "coords": [
+                        19.098312,
+                        48.60622
                   ]
             }
       ]
@@ -8523,6 +9720,15 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
                         18.432423,
                         49.121605
                   ]
+            },
+            {
+                  "name": "Mestské kúpalisko",
+                  "text": "Das städtische Freibad in Považská Bystrica bietet Badespaß für Groß und Klein.",
+                  "category": "family",
+                  "coords": [
+                        18.451092,
+                        49.112209
+                  ]
             }
       ],
       "hu": [
@@ -8560,6 +9766,15 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
                   "coords": [
                         18.432423,
                         49.121605
+                  ]
+            },
+            {
+                  "name": "Mestské kúpalisko",
+                  "text": "Városi strandfürdő Vágbesztercén, amely fürdőzési élményt nyújt kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.451092,
+                        49.112209
                   ]
             }
       ],
@@ -8599,6 +9814,15 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
                         18.432423,
                         49.121605
                   ]
+            },
+            {
+                  "name": "Mestské kúpalisko",
+                  "text": "Ștrandul municipal din Považská Bystrica oferă distracție la scăldat pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        18.451092,
+                        49.112209
+                  ]
             }
       ],
       "en": [
@@ -8636,6 +9860,15 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
                   "coords": [
                         18.432423,
                         49.121605
+                  ]
+            },
+            {
+                  "name": "Mestské kúpalisko",
+                  "text": "The municipal swimming pool in Považská Bystrica offers swimming fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        18.451092,
+                        49.112209
                   ]
             }
       ]
@@ -8767,6 +10000,15 @@ imageHint: "Highway bridge over Považská Bystrica with hills in background",
                         21.923977,
                         48.756587
                   ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "Ein lokales Schwimmbad in Michalovce, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        21.910314,
+                        48.751445
+                  ]
             }
       ],
       "hu": [
@@ -8849,6 +10091,15 @@ imageHint: "Highway bridge over Považská Bystrica with hills in background",
                   "coords": [
                         21.923977,
                         48.756587
+                  ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "Michalovce helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        21.910314,
+                        48.751445
                   ]
             }
       ],
@@ -8933,6 +10184,15 @@ imageHint: "Highway bridge over Považská Bystrica with hills in background",
                         21.923977,
                         48.756587
                   ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "O piscină locală în Michalovce, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        21.910314,
+                        48.751445
+                  ]
             }
       ],
       "en": [
@@ -9015,6 +10275,15 @@ imageHint: "Highway bridge over Považská Bystrica with hills in background",
                   "coords": [
                         21.923977,
                         48.756587
+                  ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "A local swimming pool in Michalovce suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        21.910314,
+                        48.751445
                   ]
             }
       ]
@@ -9587,7 +10856,52 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
     },
     image: "/poi-images/slovakia-nove-zamky-cities-v2.webp",
 },  {
-    id: "slovakia-spisska-nova-ves-cities-v2",
+    id: "slovakia-spisska-nova-ves-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Ein Hallenbad in Spišská Nová Ves für ganzjähriges Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        20.565592,
+                        48.938447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Fedett uszoda Iglón az egész éves úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        20.565592,
+                        48.938447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "O piscină acoperită în Spišská Nová Ves pentru înot pe tot parcursul anului.",
+                  "category": "family",
+                  "coords": [
+                        20.565592,
+                        48.938447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "An indoor swimming pool in Spišská Nová Ves for year-round swimming.",
+                  "category": "family",
+                  "coords": [
+                        20.565592,
+                        48.938447
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Spišská Nová Ves", hu: "Igló", ro: "Spišská Nová Ves", en: "Spišská Nová Ves"},
@@ -9670,6 +10984,33 @@ imageHint: "Tall church tower of Spišská Nová Ves on the long square",
                         18.114619,
                         47.785594
                   ]
+            },
+            {
+                  "name": "Rekreačný neplavecký bazén",
+                  "text": "Ein lokales Schwimmbad in Komarno, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.135696,
+                        47.756851
+                  ]
+            },
+            {
+                  "name": "Thermal",
+                  "text": "Ein lokales Schwimmbad in Komarno, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.129415,
+                        47.743924
+                  ]
+            },
+            {
+                  "name": "Bazén s termálnou vodou",
+                  "text": "Ein lokales Schwimmbad in Komarno, das sich für Sport- and Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.134058,
+                        47.756851
+                  ]
             }
       ],
       "hu": [
@@ -9707,6 +11048,33 @@ imageHint: "Tall church tower of Spišská Nová Ves on the long square",
                   "coords": [
                         18.114619,
                         47.785594
+                  ]
+            },
+            {
+                  "name": "Szabadidő medence",
+                  "text": "Komarno helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        18.135696,
+                        47.756851
+                  ]
+            },
+            {
+                  "name": "Thermal",
+                  "text": "Komarno helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        18.129415,
+                        47.743924
+                  ]
+            },
+            {
+                  "name": "Termálvizes medence",
+                  "text": "Komarno helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        18.134058,
+                        47.756851
                   ]
             }
       ],
@@ -9746,6 +11114,33 @@ imageHint: "Tall church tower of Spišská Nová Ves on the long square",
                         18.114619,
                         47.785594
                   ]
+            },
+            {
+                  "name": "Rekreačný neplavecký bazén",
+                  "text": "O piscină locală în Komarno, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.135696,
+                        47.756851
+                  ]
+            },
+            {
+                  "name": "Thermal",
+                  "text": "O piscină locală în Komarno, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.129415,
+                        47.743924
+                  ]
+            },
+            {
+                  "name": "Bazén s termálnou vodou",
+                  "text": "O piscină locală în Komarno, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.134058,
+                        47.756851
+                  ]
             }
       ],
       "en": [
@@ -9783,6 +11178,33 @@ imageHint: "Tall church tower of Spišská Nová Ves on the long square",
                   "coords": [
                         18.114619,
                         47.785594
+                  ]
+            },
+            {
+                  "name": "Rekreačný neplavecký bazén",
+                  "text": "A local swimming pool in Komarno suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        18.135696,
+                        47.756851
+                  ]
+            },
+            {
+                  "name": "Thermal",
+                  "text": "A local swimming pool in Komarno suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        18.129415,
+                        47.743924
+                  ]
+            },
+            {
+                  "name": "Bazén s termálnou vodou",
+                  "text": "A local swimming pool in Komarno suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        18.134058,
+                        47.756851
                   ]
             }
       ]
@@ -9832,7 +11254,52 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
     },
     image: "/poi-images/slovakia-komarno-cities-v2.webp",
 },  {
-    id: "slovakia-humenne-cities-v2",
+    id: "slovakia-humenne-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biokúpalisko",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Humenne.",
+                  "category": "family",
+                  "coords": [
+                        21.947865,
+                        48.939038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biokúpalisko",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Humenne városában.",
+                  "category": "family",
+                  "coords": [
+                        21.947865,
+                        48.939038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biokúpalisko",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Humenne.",
+                  "category": "family",
+                  "coords": [
+                        21.947865,
+                        48.939038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biokúpalisko",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Humenne.",
+                  "category": "family",
+                  "coords": [
+                        21.947865,
+                        48.939038
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Humenné", hu: "Homonna", ro: "Humenné", en: "Humenné"},
@@ -11248,7 +12715,592 @@ imageHint: "Bardejov UNESCO town square with the historic town hall",
     },
     image: "/poi-images/slovakia-bardejov-cities-v2.webp",
 },  {
-    id: "slovakia-liptovsky-mikulas-cities-v2", "sights": {"de": [{"name": "Múzeum Janka Kráľa", "text": "Ein Literatur- und Geschichtsmuseum in Liptovský Mikuláš, das nach dem Dichter Janko Kráľ benannt ist.", "category": "museum", "coords": [19.612084, 49.083656]}, {"name": "Luminaverse", "text": "Ein moderner Themenpark in Liptovský Mikuláš mit interaktiven Lichtinstallationen.", "category": "family", "coords": [19.593714, 49.090569]}, {"name": "Slovenské múzeum ochrany prírody a jaskyniarstva", "text": "Ein spezialisiertes Museum in Liptovský Mikuláš für Naturschutz und Höhlenkunde.", "category": "museum", "coords": [19.617049, 49.082362]}, {"name": "Mestská pláž pri Liptovskej Mare", "text": "Ein öffentlicher Strandbereich am Stausee Liptovská Mara nahe der Stadt.", "category": "recreational", "coords": [19.57752, 49.086656]}, {"name": "Kúria Pongrácovcov", "text": "Ein historisches Herrenhaus in Liptovský Mikuláš, das ehemals dem Adelsgeschlecht Pongrác gehörte.", "category": "historical", "coords": [19.591707, 49.097557]}, {"name": "Kaštieľ Okoličné", "text": "Ein barockes Herrenhaus im Stadtteil Okoličné von Liptovský Mikuláš.", "category": "historical", "coords": [19.650453, 49.074467]}, {"name": "Galerijná záhrada", "text": "Ein kleiner Park bei der Galerie in Liptovský Mikuláš, der Kunst im Freien präsentiert.", "category": "park", "coords": [19.615064, 49.08356]}, {"name": "Rohonciho záhrada", "text": "Eine Grünanlage in Liptovský Mikuláš, die zur Erholung im Freien einlädt.", "category": "park", "coords": [19.612598, 49.08638]}, {"name": "Vodný vlek", "text": "Eine Sportattraktion am Wasser in Liptovský Mikuláš für Wakeboarding und Wasserski.", "category": "landmark", "coords": [19.622694, 49.072611]}, {"name": "Galéria ILUSIA", "text": "Eine moderne Galerie in Liptovský Mikuláš, die sich auf optische Täuschungen spezialisiert hat.", "category": "museum", "coords": [19.625118, 49.086132]}, {"name": "Na Liptovský Mikuláš", "text": "Als landschaftlich reizvoller natürlicher Aussichtspunkt bietet Na Liptovský Mikuláš einen weiten Blick über die Stadt Liptovsky Mikulas in der Slowakei. Gäste genießen hier eine umfassende Perspektive auf das Stadtgebiet, das in die umliegende Landschaft eingebettet ist.", "category": "natural", "coords": [19.63981, 49.091525]}, {"name": "Kaštieľ Vranovo", "text": "Ein historisches Herrenhaus in Liptovský Mikuláš, das als Ort der Gefangenschaft von Juraj Jánošík bekannt ist.", "category": "historical", "coords": [19.593159, 49.084175]}, {"name": "Kaštieľ Bocian", "text": "Ein denkmalgeschütztes Herrenhaus, das zur historischen Architektur von Liptovský Mikuláš gehört.", "category": "historical", "coords": [19.592163, 49.084253]}, {"name": "Kúria", "text": "Ein historisches Kuriengebäude, das ein Beispiel für die lokale adelige Architektur in Liptovský Mikuláš darstellt.", "category": "historical", "coords": [19.588473, 49.096898]}, {"name": "Kostol sv. Perta z Alkantary", "text": "Eine römisch-katholische Kirche im Stadtteil Okoličné, die ein bedeutendes gotisches Denkmal darstellt.", "category": "religious", "coords": [19.650686, 49.072633]}], "hu": [{"name": "Múzeum Janka Kráľa", "text": "Liptószentmiklósi irodalmi és helytörténeti múzeum, amely Janko Kráľ költő nevét viseli.", "category": "museum", "coords": [19.612084, 49.083656]}, {"name": "Luminaverse", "text": "Modern vidámpark Liptószentmiklóson interaktív fényinstallációkkal.", "category": "family", "coords": [19.593714, 49.090569]}, {"name": "Slovenské múzeum ochrany prírody a jaskyniarstva", "text": "Speciális múzeum Liptószentmiklóson, amely a természetvédelemmel és a barlangkutatással foglalkozik.", "category": "museum", "coords": [19.617049, 49.082362]}, {"name": "Mestská pláž pri Liptovskej Mare", "text": "Nyilvános strand a Szentmáriai-víztározó partján, a város közelében.", "category": "recreational", "coords": [19.57752, 49.086656]}, {"name": "Kúria Pongrácovcov", "text": "Történelmi kúria Liptószentmiklóson, amely egykor a Pongrácz család tulajdona volt.", "category": "historical", "coords": [19.591707, 49.097557]}, {"name": "Kaštieľ Okoličné", "text": "Barokk stílusú nemesi kúria Liptószentmiklós Okolicsány (Okoličné) városrészében.", "category": "historical", "coords": [19.650453, 49.074467]}, {"name": "Galerijná záhrada", "text": "Kisméretű park a liptószentmiklósi galéria mellett, szabadtéri művészeti alkotásokkal.", "category": "park", "coords": [19.615064, 49.08356]}, {"name": "Rohonciho záhrada", "text": "Pihenésre alkalmas zöldterület Liptószentmiklóson.", "category": "park", "coords": [19.612598, 49.08638]}, {"name": "Vodný vlek", "text": "Vízi sportattrakció Liptószentmiklóson wakeboardozáshoz és vízisíeléshez.", "category": "landmark", "coords": [19.622694, 49.072611]}, {"name": "Galéria ILUSIA", "text": "Modern galéria Liptószentmiklóson, amely optikai csalódásokra és illúziókra szakosodott.", "category": "museum", "coords": [19.625118, 49.086132]}, {"name": "Na Liptovský Mikuláš", "text": "A festői természeti kilátóként funkcionáló Na Liptovský Mikuláš kiterjedt kilátást nyújt a szlovákiai Liptovsky Mikulas városára. A vendégek széles perspektívából élvezhetik a környező tájba ágyazott városszerkezetet.", "category": "natural", "coords": [19.63981, 49.091525]}, {"name": "Kaštieľ Vranovo", "text": "Történelmi kastély Liptószentmiklóson, amely Juraj Jánošík fogságának helyszíneként ismert.", "category": "historical", "coords": [19.593159, 49.084175]}, {"name": "Kaštieľ Bocian", "text": "Műemléki védettségű kastély, amely Liptószentmiklós történelmi építészetének része.", "category": "historical", "coords": [19.592163, 49.084253]}, {"name": "Kúria", "text": "Történelmi kúriaépület, amely a helyi nemesi építészet példája Liptószentmiklóson.", "category": "historical", "coords": [19.588473, 49.096898]}, {"name": "Kostol sv. Perta z Alkantary", "text": "Római katolikus templom Okolicsnó városrészben, amely jelentős gótikus műemlék.", "category": "religious", "coords": [19.650686, 49.072633]}], "ro": [{"name": "Múzeum Janka Kráľa", "text": "Un muzeu de literatură și istorie în Liptovský Mikuláš, numit după poetul Janko Kráľ.", "category": "museum", "coords": [19.612084, 49.083656]}, {"name": "Luminaverse", "text": "Un parc tematic modern în Liptovský Mikuláš cu instalații de lumină interactive.", "category": "family", "coords": [19.593714, 49.090569]}, {"name": "Slovenské múzeum ochrany prírody a jaskyniarstva", "text": "Un muzeu specializat în Liptovský Mikuláš pentru protecția naturii și speologie.", "category": "museum", "coords": [19.617049, 49.082362]}, {"name": "Mestská pláž pri Liptovskej Mare", "text": "O zonă de plajă publică pe malul lacului de acumulare Liptovská Mara, lângă oraș.", "category": "recreational", "coords": [19.57752, 49.086656]}, {"name": "Kúria Pongrácovcov", "text": "Un conac istoric în Liptovský Mikuláš, care a aparținut familiei nobiliare Pongrác.", "category": "historical", "coords": [19.591707, 49.097557]}, {"name": "Kaštieľ Okoličné", "text": "Un conac în stil baroc situat în cartierul Okoličné din Liptovský Mikuláš.", "category": "historical", "coords": [19.650453, 49.074467]}, {"name": "Galerijná záhrada", "text": "Un mic parc lângă galeria din Liptovský Mikuláš, prezentând artă în aer liber.", "category": "park", "coords": [19.615064, 49.08356]}, {"name": "Rohonciho záhrada", "text": "O zonă verde în Liptovský Mikuláš, potrivită pentru recreere în aer liber.", "category": "park", "coords": [19.612598, 49.08638]}, {"name": "Vodný vlek", "text": "O atracție sportivă pe apă în Liptovský Mikuláš pentru wakeboarding și schi nautic.", "category": "landmark", "coords": [19.622694, 49.072611]}, {"name": "Galéria ILUSIA", "text": "O galerie modernă în Liptovský Mikuláš specializată în iluzii optice.", "category": "museum", "coords": [19.625118, 49.086132]}, {"name": "Na Liptovský Mikuláš", "text": "Funcționând ca un punct de belvedere natural pitoresc, Na Liptovský Mikuláš oferă priveliști extinse asupra orașului Liptovsky Mikulas din Slovacia. Oaspeții se pot bucura de o perspectivă largă asupra aspectului urban, cuibărit în peisajul înconjurător.", "category": "natural", "coords": [19.63981, 49.091525]}, {"name": "Kaštieľ Vranovo", "text": "Un conac istoric din Liptovský Mikuláš, cunoscut ca locul de detenție al lui Juraj Jánošík.", "category": "historical", "coords": [19.593159, 49.084175]}, {"name": "Kaštieľ Bocian", "text": "Un conac inclus în patrimoniu, care face parte din arhitectura istorică a orașului Liptovský Mikuláš.", "category": "historical", "coords": [19.592163, 49.084253]}, {"name": "Kúria", "text": "O curie istorică ce reprezintă un exemplu de arhitectură nobiliară locală în Liptovský Mikuláš.", "category": "historical", "coords": [19.588473, 49.096898]}, {"name": "Kostol sv. Perta z Alkantary", "text": "O biserică romano-catolică din cartierul Okoličné, care reprezintă un monument gotic important.", "category": "religious", "coords": [19.650686, 49.072633]}], "en": [{"name": "Múzeum Janka Kráľa", "text": "A literary and historical museum in Liptovský Mikuláš named after the poet Janko Kráľ.", "category": "museum", "coords": [19.612084, 49.083656]}, {"name": "Luminaverse", "text": "A modern theme park in Liptovský Mikuláš featuring interactive light installations.", "category": "family", "coords": [19.593714, 49.090569]}, {"name": "The Slovak Museum of Nature Protection and Speleology", "text": "A specialized museum in Liptovský Mikuláš for nature protection and speleology.", "category": "museum", "coords": [19.617049, 49.082362]}, {"name": "Mestská pláž pri Liptovskej Mare", "text": "A public beach area on the Liptovská Mara reservoir near the city.", "category": "recreational", "coords": [19.57752, 49.086656]}, {"name": "Kúria Pongrácovcov", "text": "A historical manor house in Liptovský Mikuláš formerly belonging to the Pongrác noble family.", "category": "historical", "coords": [19.591707, 49.097557]}, {"name": "Kaštieľ Okoličné", "text": "A Baroque manor house located in the Okoličné district of Liptovský Mikuláš.", "category": "historical", "coords": [19.650453, 49.074467]}, {"name": "Galerijná záhrada", "text": "A small park near the gallery in Liptovský Mikuláš showcasing outdoor art.", "category": "park", "coords": [19.615064, 49.08356]}, {"name": "Rohonciho záhrada", "text": "A green space in Liptovský Mikuláš suitable for outdoor recreation.", "category": "park", "coords": [19.612598, 49.08638]}, {"name": "Vodný vlek", "text": "A water sports attraction in Liptovský Mikuláš for wakeboarding and water skiing.", "category": "landmark", "coords": [19.622694, 49.072611]}, {"name": "Galéria ILUSIA", "text": "A modern gallery in Liptovský Mikuláš specializing in optical illusions.", "category": "museum", "coords": [19.625118, 49.086132]}, {"name": "Na Liptovský Mikuláš", "text": "Functioning as a scenic natural overlook, Na Liptovský Mikuláš provides expansive views over the city of Liptovsky Mikulas in Slovakia. Guests can enjoy a wide perspective of the urban layout nestled amidst the surrounding landscape.", "category": "natural", "coords": [19.63981, 49.091525]}, {"name": "Kaštieľ Vranovo", "text": "A historic manor house in Liptovský Mikuláš, known as the place where Juraj Jánošík was imprisoned.", "category": "historical", "coords": [19.593159, 49.084175]}, {"name": "Kaštieľ Bocian", "text": "A heritage-protected manor house that is part of the historical architecture of Liptovský Mikuláš.", "category": "historical", "coords": [19.592163, 49.084253]}, {"name": "Kúria", "text": "A historic curia building representing an example of local noble architecture in Liptovský Mikuláš.", "category": "historical", "coords": [19.588473, 49.096898]}, {"name": "Kostol sv. Perta z Alkantary", "text": "A Roman Catholic church in the Okoličné district, representing a significant Gothic monument.", "category": "religious", "coords": [19.650686, 49.072633]}]},
+    id: "slovakia-liptovsky-mikulas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Múzeum Janka Kráľa",
+                  "text": "Ein Literatur- und Geschichtsmuseum in Liptovský Mikuláš, das nach dem Dichter Janko Kráľ benannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.612084,
+                        49.083656
+                  ]
+            },
+            {
+                  "name": "Luminaverse",
+                  "text": "Ein moderner Themenpark in Liptovský Mikuláš mit interaktiven Lichtinstallationen.",
+                  "category": "family",
+                  "coords": [
+                        19.593714,
+                        49.090569
+                  ]
+            },
+            {
+                  "name": "Slovenské múzeum ochrany prírody a jaskyniarstva",
+                  "text": "Ein spezialisiertes Museum in Liptovský Mikuláš für Naturschutz und Höhlenkunde.",
+                  "category": "museum",
+                  "coords": [
+                        19.617049,
+                        49.082362
+                  ]
+            },
+            {
+                  "name": "Mestská pláž pri Liptovskej Mare",
+                  "text": "Ein öffentlicher Strandbereich am Stausee Liptovská Mara nahe der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.57752,
+                        49.086656
+                  ]
+            },
+            {
+                  "name": "Kúria Pongrácovcov",
+                  "text": "Ein historisches Herrenhaus in Liptovský Mikuláš, das ehemals dem Adelsgeschlecht Pongrác gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        19.591707,
+                        49.097557
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Okoličné",
+                  "text": "Ein barockes Herrenhaus im Stadtteil Okoličné von Liptovský Mikuláš.",
+                  "category": "historical",
+                  "coords": [
+                        19.650453,
+                        49.074467
+                  ]
+            },
+            {
+                  "name": "Galerijná záhrada",
+                  "text": "Ein kleiner Park bei der Galerie in Liptovský Mikuláš, der Kunst im Freien präsentiert.",
+                  "category": "park",
+                  "coords": [
+                        19.615064,
+                        49.08356
+                  ]
+            },
+            {
+                  "name": "Rohonciho záhrada",
+                  "text": "Eine Grünanlage in Liptovský Mikuláš, die zur Erholung im Freien einlädt.",
+                  "category": "park",
+                  "coords": [
+                        19.612598,
+                        49.08638
+                  ]
+            },
+            {
+                  "name": "Vodný vlek",
+                  "text": "Eine Sportattraktion am Wasser in Liptovský Mikuláš für Wakeboarding und Wasserski.",
+                  "category": "landmark",
+                  "coords": [
+                        19.622694,
+                        49.072611
+                  ]
+            },
+            {
+                  "name": "Galéria ILUSIA",
+                  "text": "Eine moderne Galerie in Liptovský Mikuláš, die sich auf optische Täuschungen spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        19.625118,
+                        49.086132
+                  ]
+            },
+            {
+                  "name": "Na Liptovský Mikuláš",
+                  "text": "Als landschaftlich reizvoller natürlicher Aussichtspunkt bietet Na Liptovský Mikuláš einen weiten Blick über die Stadt Liptovsky Mikulas in der Slowakei. Gäste genießen hier eine umfassende Perspektive auf das Stadtgebiet, das in die umliegende Landschaft eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.63981,
+                        49.091525
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Vranovo",
+                  "text": "Ein historisches Herrenhaus in Liptovský Mikuláš, das als Ort der Gefangenschaft von Juraj Jánošík bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        19.593159,
+                        49.084175
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bocian",
+                  "text": "Ein denkmalgeschütztes Herrenhaus, das zur historischen Architektur von Liptovský Mikuláš gehört.",
+                  "category": "historical",
+                  "coords": [
+                        19.592163,
+                        49.084253
+                  ]
+            },
+            {
+                  "name": "Kúria",
+                  "text": "Ein historisches Kuriengebäude, das ein Beispiel für die lokale adelige Architektur in Liptovský Mikuláš darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        19.588473,
+                        49.096898
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Perta z Alkantary",
+                  "text": "Eine römisch-katholische Kirche im Stadtteil Okoličné, die ein bedeutendes gotisches Denkmal darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        19.650686,
+                        49.072633
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Liptovsky Mikulas.",
+                  "category": "family",
+                  "coords": [
+                        19.609293,
+                        49.081627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Múzeum Janka Kráľa",
+                  "text": "Liptószentmiklósi irodalmi és helytörténeti múzeum, amely Janko Kráľ költő nevét viseli.",
+                  "category": "museum",
+                  "coords": [
+                        19.612084,
+                        49.083656
+                  ]
+            },
+            {
+                  "name": "Luminaverse",
+                  "text": "Modern vidámpark Liptószentmiklóson interaktív fényinstallációkkal.",
+                  "category": "family",
+                  "coords": [
+                        19.593714,
+                        49.090569
+                  ]
+            },
+            {
+                  "name": "Slovenské múzeum ochrany prírody a jaskyniarstva",
+                  "text": "Speciális múzeum Liptószentmiklóson, amely a természetvédelemmel és a barlangkutatással foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        19.617049,
+                        49.082362
+                  ]
+            },
+            {
+                  "name": "Mestská pláž pri Liptovskej Mare",
+                  "text": "Nyilvános strand a Szentmáriai-víztározó partján, a város közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.57752,
+                        49.086656
+                  ]
+            },
+            {
+                  "name": "Kúria Pongrácovcov",
+                  "text": "Történelmi kúria Liptószentmiklóson, amely egykor a Pongrácz család tulajdona volt.",
+                  "category": "historical",
+                  "coords": [
+                        19.591707,
+                        49.097557
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Okoličné",
+                  "text": "Barokk stílusú nemesi kúria Liptószentmiklós Okolicsány (Okoličné) városrészében.",
+                  "category": "historical",
+                  "coords": [
+                        19.650453,
+                        49.074467
+                  ]
+            },
+            {
+                  "name": "Galerijná záhrada",
+                  "text": "Kisméretű park a liptószentmiklósi galéria mellett, szabadtéri művészeti alkotásokkal.",
+                  "category": "park",
+                  "coords": [
+                        19.615064,
+                        49.08356
+                  ]
+            },
+            {
+                  "name": "Rohonciho záhrada",
+                  "text": "Pihenésre alkalmas zöldterület Liptószentmiklóson.",
+                  "category": "park",
+                  "coords": [
+                        19.612598,
+                        49.08638
+                  ]
+            },
+            {
+                  "name": "Vodný vlek",
+                  "text": "Vízi sportattrakció Liptószentmiklóson wakeboardozáshoz és vízisíeléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        19.622694,
+                        49.072611
+                  ]
+            },
+            {
+                  "name": "Galéria ILUSIA",
+                  "text": "Modern galéria Liptószentmiklóson, amely optikai csalódásokra és illúziókra szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        19.625118,
+                        49.086132
+                  ]
+            },
+            {
+                  "name": "Na Liptovský Mikuláš",
+                  "text": "A festői természeti kilátóként funkcionáló Na Liptovský Mikuláš kiterjedt kilátást nyújt a szlovákiai Liptovsky Mikulas városára. A vendégek széles perspektívából élvezhetik a környező tájba ágyazott városszerkezetet.",
+                  "category": "natural",
+                  "coords": [
+                        19.63981,
+                        49.091525
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Vranovo",
+                  "text": "Történelmi kastély Liptószentmiklóson, amely Juraj Jánošík fogságának helyszíneként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        19.593159,
+                        49.084175
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bocian",
+                  "text": "Műemléki védettségű kastély, amely Liptószentmiklós történelmi építészetének része.",
+                  "category": "historical",
+                  "coords": [
+                        19.592163,
+                        49.084253
+                  ]
+            },
+            {
+                  "name": "Kúria",
+                  "text": "Történelmi kúriaépület, amely a helyi nemesi építészet példája Liptószentmiklóson.",
+                  "category": "historical",
+                  "coords": [
+                        19.588473,
+                        49.096898
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Perta z Alkantary",
+                  "text": "Római katolikus templom Okolicsnó városrészben, amely jelentős gótikus műemlék.",
+                  "category": "religious",
+                  "coords": [
+                        19.650686,
+                        49.072633
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Liptovsky Mikulas városában.",
+                  "category": "family",
+                  "coords": [
+                        19.609293,
+                        49.081627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Múzeum Janka Kráľa",
+                  "text": "Un muzeu de literatură și istorie în Liptovský Mikuláš, numit după poetul Janko Kráľ.",
+                  "category": "museum",
+                  "coords": [
+                        19.612084,
+                        49.083656
+                  ]
+            },
+            {
+                  "name": "Luminaverse",
+                  "text": "Un parc tematic modern în Liptovský Mikuláš cu instalații de lumină interactive.",
+                  "category": "family",
+                  "coords": [
+                        19.593714,
+                        49.090569
+                  ]
+            },
+            {
+                  "name": "Slovenské múzeum ochrany prírody a jaskyniarstva",
+                  "text": "Un muzeu specializat în Liptovský Mikuláš pentru protecția naturii și speologie.",
+                  "category": "museum",
+                  "coords": [
+                        19.617049,
+                        49.082362
+                  ]
+            },
+            {
+                  "name": "Mestská pláž pri Liptovskej Mare",
+                  "text": "O zonă de plajă publică pe malul lacului de acumulare Liptovská Mara, lângă oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        19.57752,
+                        49.086656
+                  ]
+            },
+            {
+                  "name": "Kúria Pongrácovcov",
+                  "text": "Un conac istoric în Liptovský Mikuláš, care a aparținut familiei nobiliare Pongrác.",
+                  "category": "historical",
+                  "coords": [
+                        19.591707,
+                        49.097557
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Okoličné",
+                  "text": "Un conac în stil baroc situat în cartierul Okoličné din Liptovský Mikuláš.",
+                  "category": "historical",
+                  "coords": [
+                        19.650453,
+                        49.074467
+                  ]
+            },
+            {
+                  "name": "Galerijná záhrada",
+                  "text": "Un mic parc lângă galeria din Liptovský Mikuláš, prezentând artă în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        19.615064,
+                        49.08356
+                  ]
+            },
+            {
+                  "name": "Rohonciho záhrada",
+                  "text": "O zonă verde în Liptovský Mikuláš, potrivită pentru recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        19.612598,
+                        49.08638
+                  ]
+            },
+            {
+                  "name": "Vodný vlek",
+                  "text": "O atracție sportivă pe apă în Liptovský Mikuláš pentru wakeboarding și schi nautic.",
+                  "category": "landmark",
+                  "coords": [
+                        19.622694,
+                        49.072611
+                  ]
+            },
+            {
+                  "name": "Galéria ILUSIA",
+                  "text": "O galerie modernă în Liptovský Mikuláš specializată în iluzii optice.",
+                  "category": "museum",
+                  "coords": [
+                        19.625118,
+                        49.086132
+                  ]
+            },
+            {
+                  "name": "Na Liptovský Mikuláš",
+                  "text": "Funcționând ca un punct de belvedere natural pitoresc, Na Liptovský Mikuláš oferă priveliști extinse asupra orașului Liptovsky Mikulas din Slovacia. Oaspeții se pot bucura de o perspectivă largă asupra aspectului urban, cuibărit în peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        19.63981,
+                        49.091525
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Vranovo",
+                  "text": "Un conac istoric din Liptovský Mikuláš, cunoscut ca locul de detenție al lui Juraj Jánošík.",
+                  "category": "historical",
+                  "coords": [
+                        19.593159,
+                        49.084175
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bocian",
+                  "text": "Un conac inclus în patrimoniu, care face parte din arhitectura istorică a orașului Liptovský Mikuláš.",
+                  "category": "historical",
+                  "coords": [
+                        19.592163,
+                        49.084253
+                  ]
+            },
+            {
+                  "name": "Kúria",
+                  "text": "O curie istorică ce reprezintă un exemplu de arhitectură nobiliară locală în Liptovský Mikuláš.",
+                  "category": "historical",
+                  "coords": [
+                        19.588473,
+                        49.096898
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Perta z Alkantary",
+                  "text": "O biserică romano-catolică din cartierul Okoličné, care reprezintă un monument gotic important.",
+                  "category": "religious",
+                  "coords": [
+                        19.650686,
+                        49.072633
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Liptovsky Mikulas.",
+                  "category": "family",
+                  "coords": [
+                        19.609293,
+                        49.081627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Múzeum Janka Kráľa",
+                  "text": "A literary and historical museum in Liptovský Mikuláš named after the poet Janko Kráľ.",
+                  "category": "museum",
+                  "coords": [
+                        19.612084,
+                        49.083656
+                  ]
+            },
+            {
+                  "name": "Luminaverse",
+                  "text": "A modern theme park in Liptovský Mikuláš featuring interactive light installations.",
+                  "category": "family",
+                  "coords": [
+                        19.593714,
+                        49.090569
+                  ]
+            },
+            {
+                  "name": "The Slovak Museum of Nature Protection and Speleology",
+                  "text": "A specialized museum in Liptovský Mikuláš for nature protection and speleology.",
+                  "category": "museum",
+                  "coords": [
+                        19.617049,
+                        49.082362
+                  ]
+            },
+            {
+                  "name": "Mestská pláž pri Liptovskej Mare",
+                  "text": "A public beach area on the Liptovská Mara reservoir near the city.",
+                  "category": "recreational",
+                  "coords": [
+                        19.57752,
+                        49.086656
+                  ]
+            },
+            {
+                  "name": "Kúria Pongrácovcov",
+                  "text": "A historical manor house in Liptovský Mikuláš formerly belonging to the Pongrác noble family.",
+                  "category": "historical",
+                  "coords": [
+                        19.591707,
+                        49.097557
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Okoličné",
+                  "text": "A Baroque manor house located in the Okoličné district of Liptovský Mikuláš.",
+                  "category": "historical",
+                  "coords": [
+                        19.650453,
+                        49.074467
+                  ]
+            },
+            {
+                  "name": "Galerijná záhrada",
+                  "text": "A small park near the gallery in Liptovský Mikuláš showcasing outdoor art.",
+                  "category": "park",
+                  "coords": [
+                        19.615064,
+                        49.08356
+                  ]
+            },
+            {
+                  "name": "Rohonciho záhrada",
+                  "text": "A green space in Liptovský Mikuláš suitable for outdoor recreation.",
+                  "category": "park",
+                  "coords": [
+                        19.612598,
+                        49.08638
+                  ]
+            },
+            {
+                  "name": "Vodný vlek",
+                  "text": "A water sports attraction in Liptovský Mikuláš for wakeboarding and water skiing.",
+                  "category": "landmark",
+                  "coords": [
+                        19.622694,
+                        49.072611
+                  ]
+            },
+            {
+                  "name": "Galéria ILUSIA",
+                  "text": "A modern gallery in Liptovský Mikuláš specializing in optical illusions.",
+                  "category": "museum",
+                  "coords": [
+                        19.625118,
+                        49.086132
+                  ]
+            },
+            {
+                  "name": "Na Liptovský Mikuláš",
+                  "text": "Functioning as a scenic natural overlook, Na Liptovský Mikuláš provides expansive views over the city of Liptovsky Mikulas in Slovakia. Guests can enjoy a wide perspective of the urban layout nestled amidst the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.63981,
+                        49.091525
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Vranovo",
+                  "text": "A historic manor house in Liptovský Mikuláš, known as the place where Juraj Jánošík was imprisoned.",
+                  "category": "historical",
+                  "coords": [
+                        19.593159,
+                        49.084175
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bocian",
+                  "text": "A heritage-protected manor house that is part of the historical architecture of Liptovský Mikuláš.",
+                  "category": "historical",
+                  "coords": [
+                        19.592163,
+                        49.084253
+                  ]
+            },
+            {
+                  "name": "Kúria",
+                  "text": "A historic curia building representing an example of local noble architecture in Liptovský Mikuláš.",
+                  "category": "historical",
+                  "coords": [
+                        19.588473,
+                        49.096898
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Perta z Alkantary",
+                  "text": "A Roman Catholic church in the Okoličné district, representing a significant Gothic monument.",
+                  "category": "religious",
+                  "coords": [
+                        19.650686,
+                        49.072633
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Liptovsky Mikulas.",
+                  "category": "family",
+                  "coords": [
+                        19.609293,
+                        49.081627
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Liptovský Mikuláš", hu: "Liptószentmiklós", ro: "Liptovský Mikuláš", en: "Liptovský Mikuláš"},
@@ -12043,6 +14095,42 @@ imageHint: "Large reconstructed synagogue building in Lučenec",
                         17.846171,
                         48.586734
                   ]
+            },
+            {
+                  "name": "Welialand Wellness",
+                  "text": "Eine Wellness-Einrichtung in Piestany mit Sauna und Ruhebereichen.",
+                  "category": "family",
+                  "coords": [
+                        17.82972,
+                        48.568753
+                  ]
+            },
+            {
+                  "name": "Vlnka",
+                  "text": "Ein lokales Schwimmbad in Piestany, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.830835,
+                        48.570721
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Ein lokales Schwimmbad in Piestany, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.843746,
+                        48.590058
+                  ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "Ein lokales Schwimmbad in Piestany, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.820446,
+                        48.575757
+                  ]
             }
       ],
       "hu": [
@@ -12269,6 +14357,42 @@ imageHint: "Large reconstructed synagogue building in Lučenec",
                   "coords": [
                         17.846171,
                         48.586734
+                  ]
+            },
+            {
+                  "name": "Welialand Wellness",
+                  "text": "Wellness létesítmény Piestany területén szaunával és pihenőhelyekkel.",
+                  "category": "family",
+                  "coords": [
+                        17.82972,
+                        48.568753
+                  ]
+            },
+            {
+                  "name": "Vlnka",
+                  "text": "Piestany helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.830835,
+                        48.570721
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Piestany helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.843746,
+                        48.590058
+                  ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "Piestany helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.820446,
+                        48.575757
                   ]
             }
       ],
@@ -12497,6 +14621,42 @@ imageHint: "Large reconstructed synagogue building in Lučenec",
                         17.846171,
                         48.586734
                   ]
+            },
+            {
+                  "name": "Welialand Wellness",
+                  "text": "O facilitate de wellness în Piestany, cu saună și zone de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.82972,
+                        48.568753
+                  ]
+            },
+            {
+                  "name": "Vlnka",
+                  "text": "O piscină locală în Piestany, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.830835,
+                        48.570721
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "O piscină locală în Piestany, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.843746,
+                        48.590058
+                  ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "O piscină locală în Piestany, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.820446,
+                        48.575757
+                  ]
             }
       ],
       "en": [
@@ -12723,6 +14883,42 @@ imageHint: "Large reconstructed synagogue building in Lučenec",
                   "coords": [
                         17.846171,
                         48.586734
+                  ]
+            },
+            {
+                  "name": "Welialand Wellness",
+                  "text": "A wellness facility in Piestany featuring sauna and relaxation areas.",
+                  "category": "family",
+                  "coords": [
+                        17.82972,
+                        48.568753
+                  ]
+            },
+            {
+                  "name": "Vlnka",
+                  "text": "A local swimming pool in Piestany suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.830835,
+                        48.570721
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "A local swimming pool in Piestany suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.843746,
+                        48.590058
+                  ]
+            },
+            {
+                  "name": "Plaváreň",
+                  "text": "A local swimming pool in Piestany suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.820446,
+                        48.575757
                   ]
             }
       ]
@@ -13043,6 +15239,24 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
                         19.30888,
                         49.082586
                   ]
+            },
+            {
+                  "name": "Mestká plaváreň",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Ruzomberok.",
+                  "category": "family",
+                  "coords": [
+                        19.315823,
+                        49.07671
+                  ]
+            },
+            {
+                  "name": "Obrovo",
+                  "text": "Obrovo ist ein Freizeitpark in Ruzomberok mit Aktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        19.255516,
+                        49.080813
+                  ]
             }
       ],
       "hu": [
@@ -13314,6 +15528,24 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
                   "coords": [
                         19.30888,
                         49.082586
+                  ]
+            },
+            {
+                  "name": "Mestká plaváreň",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Ruzomberok városában.",
+                  "category": "family",
+                  "coords": [
+                        19.315823,
+                        49.07671
+                  ]
+            },
+            {
+                  "name": "Obrovo",
+                  "text": "Az Obrovo egy vidámpark Rózsahegyen, amely családi programokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        19.255516,
+                        49.080813
                   ]
             }
       ],
@@ -13587,6 +15819,24 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
                         19.30888,
                         49.082586
                   ]
+            },
+            {
+                  "name": "Mestká plaváreň",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Ruzomberok.",
+                  "category": "family",
+                  "coords": [
+                        19.315823,
+                        49.07671
+                  ]
+            },
+            {
+                  "name": "Obrovo",
+                  "text": "Obrovo este un parc de distracții din Ruzomberok care oferă activități pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        19.255516,
+                        49.080813
+                  ]
             }
       ],
       "en": [
@@ -13859,6 +16109,24 @@ imageHint: "Statue of the Crutch-breaker in Piešťany spa",
                         19.30888,
                         49.082586
                   ]
+            },
+            {
+                  "name": "Mestká plaváreň",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Ruzomberok.",
+                  "category": "family",
+                  "coords": [
+                        19.315823,
+                        49.07671
+                  ]
+            },
+            {
+                  "name": "Obrovo",
+                  "text": "Obrovo is a theme park in Ruzomberok offering activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        19.255516,
+                        49.080813
+                  ]
             }
       ]
 },
@@ -13953,6 +16221,15 @@ imageHint: "Ružomberok town hall and historic center buildings",
                         18.1706,
                         48.562049
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň Topoľčany",
+                  "text": "Ein Hallenbad in Topoľčany für sportliche Aktivitäten und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        18.168431,
+                        48.559025
+                  ]
             }
       ],
       "hu": [
@@ -13999,6 +16276,15 @@ imageHint: "Ružomberok town hall and historic center buildings",
                   "coords": [
                         18.1706,
                         48.562049
+                  ]
+            },
+            {
+                  "name": "Krytá plaváreň Topoľčany",
+                  "text": "Fedett uszoda Nagytapolcsányban sportoláshoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        18.168431,
+                        48.559025
                   ]
             }
       ],
@@ -14047,6 +16333,15 @@ imageHint: "Ružomberok town hall and historic center buildings",
                         18.1706,
                         48.562049
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň Topoľčany",
+                  "text": "O piscină acoperită în Topoľčany pentru activități sportive și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.168431,
+                        48.559025
+                  ]
             }
       ],
       "en": [
@@ -14093,6 +16388,15 @@ imageHint: "Ružomberok town hall and historic center buildings",
                   "coords": [
                         18.1706,
                         48.562049
+                  ]
+            },
+            {
+                  "name": "Krytá plaváreň Topoľčany",
+                  "text": "An indoor swimming pool in Topoľčany for sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        18.168431,
+                        48.559025
                   ]
             }
       ]
@@ -14206,6 +16510,15 @@ imageHint: "Topoľčany town hall on the main square",
                         21.72073,
                         48.623165
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Ein lokales Schwimmbad in Trebisov, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        21.723412,
+                        48.625501
+                  ]
             }
       ],
       "hu": [
@@ -14270,6 +16583,15 @@ imageHint: "Topoľčany town hall on the main square",
                   "coords": [
                         21.72073,
                         48.623165
+                  ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Trebisov helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        21.723412,
+                        48.625501
                   ]
             }
       ],
@@ -14336,6 +16658,15 @@ imageHint: "Topoľčany town hall on the main square",
                         21.72073,
                         48.623165
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "O piscină locală în Trebisov, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        21.723412,
+                        48.625501
+                  ]
             }
       ],
       "en": [
@@ -14400,6 +16731,15 @@ imageHint: "Topoľčany town hall on the main square",
                   "coords": [
                         21.72073,
                         48.623165
+                  ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "A local swimming pool in Trebisov suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        21.723412,
+                        48.625501
                   ]
             }
       ]
@@ -14495,7 +16835,124 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
     },
     image: "/poi-images/slovakia-cadca-cities-v2.webp",
 },  {
-    id: "slovakia-rimavska-sobota-cities-v2",
+    id: "slovakia-rimavska-sobota-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodná nádrž Kurinec",
+                  "text": "Ein Stausee in Rimavská Sobota, der zum Schwimmen und für Spaziergänge einlädt.",
+                  "category": "family",
+                  "coords": [
+                        20.017646,
+                        48.343807
+                  ]
+            },
+            {
+                  "name": "Termálny bazén",
+                  "text": "Ein Thermalbecken in Rimavská Sobota für entspanntes Baden.",
+                  "category": "family",
+                  "coords": [
+                        20.019756,
+                        48.346156
+                  ]
+            },
+            {
+                  "name": "Kurinec - Zelená voda",
+                  "text": "Ein Strandresort in Rimavská Sobota mit Möglichkeiten zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        20.018272,
+                        48.346488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodná nádrž Kurinec",
+                  "text": "Víztározó Rimaszombatban, amely úszásra és sétákra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        20.017646,
+                        48.343807
+                  ]
+            },
+            {
+                  "name": "Termálny bazén",
+                  "text": "Termálvizes medence Rimaszombatban a relaxáló fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        20.019756,
+                        48.346156
+                  ]
+            },
+            {
+                  "name": "Kurinec - Zelená voda",
+                  "text": "Strandüdülőhely Rimaszombatban úszási és pihenési lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        20.018272,
+                        48.346488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodná nádrž Kurinec",
+                  "text": "Un rezervor de apă în Rimavská Sobota, ideal pentru înot și plimbări.",
+                  "category": "family",
+                  "coords": [
+                        20.017646,
+                        48.343807
+                  ]
+            },
+            {
+                  "name": "Termálny bazén",
+                  "text": "O piscină termală în Rimavská Sobota pentru scăldat relaxant.",
+                  "category": "family",
+                  "coords": [
+                        20.019756,
+                        48.346156
+                  ]
+            },
+            {
+                  "name": "Kurinec - Zelená voda",
+                  "text": "O stațiune de plajă în Rimavská Sobota cu facilități pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        20.018272,
+                        48.346488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodná nádrž Kurinec",
+                  "text": "A reservoir in Rimavská Sobota, inviting for swimming and walks.",
+                  "category": "family",
+                  "coords": [
+                        20.017646,
+                        48.343807
+                  ]
+            },
+            {
+                  "name": "Termálny bazén",
+                  "text": "A thermal pool in Rimavská Sobota for relaxing bathing.",
+                  "category": "family",
+                  "coords": [
+                        20.019756,
+                        48.346156
+                  ]
+            },
+            {
+                  "name": "Kurinec - Zelená voda",
+                  "text": "A beach resort in Rimavská Sobota with facilities for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        20.018272,
+                        48.346488
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Rimavská Sobota", hu: "Rimaszombat", ro: "Rimavská Sobota", en: "Rimavská Sobota"},
@@ -15409,6 +17866,15 @@ imageHint: "Brezno main square with the historic tower and park",
                         17.791131,
                         48.432851
                   ]
+            },
+            {
+                  "name": "Letné kúpalisko Hlohovec",
+                  "text": "Ein lokales Schwimmbad in Hlohovec, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.784759,
+                        48.420807
+                  ]
             }
       ],
       "hu": [
@@ -15509,6 +17975,15 @@ imageHint: "Brezno main square with the historic tower and park",
                   "coords": [
                         17.791131,
                         48.432851
+                  ]
+            },
+            {
+                  "name": "Letné kúpalisko Hlohovec",
+                  "text": "Hlohovec helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.784759,
+                        48.420807
                   ]
             }
       ],
@@ -15611,6 +18086,15 @@ imageHint: "Brezno main square with the historic tower and park",
                         17.791131,
                         48.432851
                   ]
+            },
+            {
+                  "name": "Letné kúpalisko Hlohovec",
+                  "text": "O piscină locală în Hlohovec, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.784759,
+                        48.420807
+                  ]
             }
       ],
       "en": [
@@ -15712,6 +18196,15 @@ imageHint: "Brezno main square with the historic tower and park",
                         17.791131,
                         48.432851
                   ]
+            },
+            {
+                  "name": "Letné kúpalisko Hlohovec",
+                  "text": "A local swimming pool in Hlohovec suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.784759,
+                        48.420807
+                  ]
             }
       ]
 },
@@ -15779,6 +18272,33 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
                         22.135606,
                         48.989745
                   ]
+            },
+            {
+                  "name": "Biokúpalisko Sninské Rybníky",
+                  "text": "Das Biokúpalisko Sninské Rybníky ist ein öffentliches Bad in Snina für Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        22.190194,
+                        48.974198
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Das Mestská plaváreň in Snina bietet Schwimmbecken für Familien.",
+                  "category": "family",
+                  "coords": [
+                        22.14843,
+                        48.990511
+                  ]
+            },
+            {
+                  "name": "Mini Zoo Juško",
+                  "text": "Der Mini Zoo Juško in Snina ist ein Ausflugsziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        22.157604,
+                        48.997288
+                  ]
             }
       ],
       "hu": [
@@ -15798,6 +18318,33 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
                   "coords": [
                         22.135606,
                         48.989745
+                  ]
+            },
+            {
+                  "name": "Biokúpalisko Sninské Rybníky",
+                  "text": "A Biokúpalisko Sninské Rybníky egy nyilvános fürdő Szinna városában, amely vizes kikapcsolódást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        22.190194,
+                        48.974198
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "A Mestská plaváreň Szinnán úszómedencéket kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        22.14843,
+                        48.990511
+                  ]
+            },
+            {
+                  "name": "Mini Zoo Juško",
+                  "text": "A szinnai Mini Zoo Juško egy kedvelt úti cél kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        22.157604,
+                        48.997288
                   ]
             }
       ],
@@ -15819,6 +18366,33 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
                         22.135606,
                         48.989745
                   ]
+            },
+            {
+                  "name": "Biokúpalisko Sninské Rybníky",
+                  "text": "Biokúpalisko Sninské Rybníky este o baie publică din Snina pentru recreere în apă.",
+                  "category": "family",
+                  "coords": [
+                        22.190194,
+                        48.974198
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Mestská plaváreň din Snina oferă bazine de înot pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        22.14843,
+                        48.990511
+                  ]
+            },
+            {
+                  "name": "Mini Zoo Juško",
+                  "text": "Mini Zoo Juško din Snina este o destinație pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        22.157604,
+                        48.997288
+                  ]
             }
       ],
       "en": [
@@ -15838,6 +18412,33 @@ imageHint: "Hlohovec Castle and the Empire Theater building",
                   "coords": [
                         22.135606,
                         48.989745
+                  ]
+            },
+            {
+                  "name": "Biokúpalisko Sninské Rybníky",
+                  "text": "Biokúpalisko Sninské Rybníky is a public bath in Snina for water recreation.",
+                  "category": "family",
+                  "coords": [
+                        22.190194,
+                        48.974198
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Mestská plaváreň in Snina offers swimming pools for families.",
+                  "category": "family",
+                  "coords": [
+                        22.14843,
+                        48.990511
+                  ]
+            },
+            {
+                  "name": "Mini Zoo Juško",
+                  "text": "Mini Zoo Juško in Snina is a destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        22.157604,
+                        48.997288
                   ]
             }
       ]
@@ -15951,6 +18552,15 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
                         17.358443,
                         48.678777
                   ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Ein spezielles Kinderbecken in Senica für sicheren Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        17.376726,
+                        48.68271
+                  ]
             }
       ],
       "hu": [
@@ -16015,6 +18625,15 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
                   "coords": [
                         17.358443,
                         48.678777
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Speciális gyermekmedence Szenicén a biztonságos vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        17.376726,
+                        48.68271
                   ]
             }
       ],
@@ -16081,6 +18700,15 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
                         17.358443,
                         48.678777
                   ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "O piscină specială pentru copii în Senica pentru distracție sigură în apă.",
+                  "category": "family",
+                  "coords": [
+                        17.376726,
+                        48.68271
+                  ]
             }
       ],
       "en": [
@@ -16145,6 +18773,15 @@ imageHint: "Snina palace and the statue of Hercules in the garden",
                   "coords": [
                         17.358443,
                         48.678777
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "A dedicated children's pool in Senica for safe water fun.",
+                  "category": "family",
+                  "coords": [
+                        17.376726,
+                        48.68271
                   ]
             }
       ]
@@ -16366,6 +19003,24 @@ imageHint: "Senica city center and the Záhorie Gallery building",
                         17.251366,
                         48.27467
                   ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Ein lokales Schwimmbad in Pezinok, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.256004,
+                        48.284059
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "Ein lokales Schwimmbad in Pezinok, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.276765,
+                        48.303186
+                  ]
             }
       ],
       "hu": [
@@ -16538,6 +19193,24 @@ imageHint: "Senica city center and the Záhorie Gallery building",
                   "coords": [
                         17.251366,
                         48.27467
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Pezinok helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.256004,
+                        48.284059
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "Pezinok helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.276765,
+                        48.303186
                   ]
             }
       ],
@@ -16712,6 +19385,24 @@ imageHint: "Senica city center and the Záhorie Gallery building",
                         17.251366,
                         48.27467
                   ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "O piscină locală în Pezinok, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.256004,
+                        48.284059
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "O piscină locală în Pezinok, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.276765,
+                        48.303186
+                  ]
             }
       ],
       "en": [
@@ -16885,6 +19576,24 @@ imageHint: "Senica city center and the Záhorie Gallery building",
                         17.251366,
                         48.27467
                   ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "A local swimming pool in Pezinok suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.256004,
+                        48.284059
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "A local swimming pool in Pezinok suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.276765,
+                        48.303186
+                  ]
             }
       ]
 },
@@ -17051,6 +19760,24 @@ imageHint: "Pezinok Castle and surrounding park",
                         18.254312,
                         48.730696
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Die Krytá plaváreň in Banovce Nad Bebravou bietet wetterunabhängiges Schwimmen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.25745,
+                        48.716434
+                  ]
+            },
+            {
+                  "name": "Termálne kúpalisko Pažiť",
+                  "text": "Das Termálne kúpalisko Pažiť ist ein öffentliches Bad in Banovce Nad Bebravou für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.263745,
+                        48.729172
+                  ]
             }
       ],
       "hu": [
@@ -17169,6 +19896,24 @@ imageHint: "Pezinok Castle and surrounding park",
                   "coords": [
                         18.254312,
                         48.730696
+                  ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "A Banovce Nad Bebravou-i Krytá plaváreň fedett úszási lehetőséget biztosít családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.25745,
+                        48.716434
+                  ]
+            },
+            {
+                  "name": "Termálne kúpalisko Pažiť",
+                  "text": "A Termálne kúpalisko Pažiť egy nyilvános fürdő Banovce Nad Bebravou-ban, amely várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        18.263745,
+                        48.729172
                   ]
             }
       ],
@@ -17289,6 +20034,24 @@ imageHint: "Pezinok Castle and surrounding park",
                         18.254312,
                         48.730696
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Krytá plaváreň din Banovce Nad Bebravou oferă înot acoperit pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.25745,
+                        48.716434
+                  ]
+            },
+            {
+                  "name": "Termálne kúpalisko Pažiť",
+                  "text": "Termálne kúpalisko Pažiť este o baie publică din Banovce Nad Bebravou pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.263745,
+                        48.729172
+                  ]
             }
       ],
       "en": [
@@ -17408,6 +20171,24 @@ imageHint: "Pezinok Castle and surrounding park",
                         18.254312,
                         48.730696
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Krytá plaváreň in Banovce Nad Bebravou offers indoor swimming for families.",
+                  "category": "family",
+                  "coords": [
+                        18.25745,
+                        48.716434
+                  ]
+            },
+            {
+                  "name": "Termálne kúpalisko Pažiť",
+                  "text": "Termálne kúpalisko Pažiť is a public bath in Banovce Nad Bebravou for families.",
+                  "category": "family",
+                  "coords": [
+                        18.263745,
+                        48.729172
+                  ]
             }
       ]
 },
@@ -17456,7 +20237,52 @@ imageHint: "Church of St. Nicholas in Bánovce nad Bebravou",
     },
     image: "/poi-images/slovakia-banovce-nad-bebravou-cities-v2.webp",
 },  {
-    id: "slovakia-dolny-kubin-cities-v2",
+    id: "slovakia-dolny-kubin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "AquaRelax",
+                  "text": "Ein moderner Wasserpark in Dolný Kubín mit vielen Attraktionen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        19.283775,
+                        49.208816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AquaRelax",
+                  "text": "Modern vízipark Alsókubinban, számos attrakcióval az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        19.283775,
+                        49.208816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AquaRelax",
+                  "text": "Un parc acvatic modern în Dolný Kubín cu multe atracții pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        19.283775,
+                        49.208816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AquaRelax",
+                  "text": "A modern water park in Dolný Kubín with many attractions for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        19.283775,
+                        49.208816
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Dolný Kubín", hu: "Alsókubin", ro: "Dolný Kubín", en: "Dolný Kubín"},
@@ -17539,6 +20365,15 @@ imageHint: "Wooden colonnade bridge in Dolný Kubín over Orava river",
                         18.844002,
                         48.591533
                   ]
+            },
+            {
+                  "name": "Minizoo Žiar nad Hronom",
+                  "text": "Ein lokaler Zoo in Ziar Nad Hronom, in dem Besucher verschiedene Tierarten in einer familienfreundlichen Umgebung sehen können.",
+                  "category": "family",
+                  "coords": [
+                        18.867486,
+                        48.584969
+                  ]
             }
       ],
       "hu": [
@@ -17576,6 +20411,15 @@ imageHint: "Wooden colonnade bridge in Dolný Kubín over Orava river",
                   "coords": [
                         18.844002,
                         48.591533
+                  ]
+            },
+            {
+                  "name": "Minizoo Žiar nad Hronom",
+                  "text": "Ziar Nad Hronom helyi állatkertje, ahol a látogatók különféle állatfajokat tekinthetnek meg családbarát környezetben.",
+                  "category": "family",
+                  "coords": [
+                        18.867486,
+                        48.584969
                   ]
             }
       ],
@@ -17615,6 +20459,15 @@ imageHint: "Wooden colonnade bridge in Dolný Kubín over Orava river",
                         18.844002,
                         48.591533
                   ]
+            },
+            {
+                  "name": "Minizoo Žiar nad Hronom",
+                  "text": "O grădină zoologică locală în Ziar Nad Hronom, unde vizitatorii pot vedea diverse specii de animale într-un mediu prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.867486,
+                        48.584969
+                  ]
             }
       ],
       "en": [
@@ -17652,6 +20505,15 @@ imageHint: "Wooden colonnade bridge in Dolný Kubín over Orava river",
                   "coords": [
                         18.844002,
                         48.591533
+                  ]
+            },
+            {
+                  "name": "Minizoo Žiar nad Hronom",
+                  "text": "A local zoo in Ziar Nad Hronom where visitors can see various animal species in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        18.867486,
+                        48.584969
                   ]
             }
       ]
@@ -17846,6 +20708,15 @@ imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
                         20.537222,
                         48.652396
                   ]
+            },
+            {
+                  "name": "Konský dvor",
+                  "text": "Der Konský dvor in Roznava verfügt über ein Schwimmbad für Familien.",
+                  "category": "family",
+                  "coords": [
+                        20.496111,
+                        48.634646
+                  ]
             }
       ],
       "hu": [
@@ -17991,6 +20862,15 @@ imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
                   "coords": [
                         20.537222,
                         48.652396
+                  ]
+            },
+            {
+                  "name": "Konský dvor",
+                  "text": "A rozsnyói Konský dvor egy úszómedencével várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        20.496111,
+                        48.634646
                   ]
             }
       ],
@@ -18138,6 +21018,15 @@ imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
                         20.537222,
                         48.652396
                   ]
+            },
+            {
+                  "name": "Konský dvor",
+                  "text": "Konský dvor din Roznava dispune de o piscină pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        20.496111,
+                        48.634646
+                  ]
             }
       ],
       "en": [
@@ -18283,6 +21172,15 @@ imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
                   "coords": [
                         20.537222,
                         48.652396
+                  ]
+            },
+            {
+                  "name": "Konský dvor",
+                  "text": "Konský dvor in Roznava features a swimming pool for families.",
+                  "category": "family",
+                  "coords": [
+                        20.496111,
+                        48.634646
                   ]
             }
       ]
@@ -19162,6 +22060,15 @@ imageHint: "Púchov town square with modern administrative buildings",
                         18.746668,
                         48.689643
                   ]
+            },
+            {
+                  "name": "Plaváreň mesta Handlová",
+                  "text": "Ein lokales Schwimmbad in Handlova, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.766095,
+                        48.731678
+                  ]
             }
       ],
       "hu": [
@@ -19217,6 +22124,15 @@ imageHint: "Púchov town square with modern administrative buildings",
                   "coords": [
                         18.746668,
                         48.689643
+                  ]
+            },
+            {
+                  "name": "Plaváreň mesta Handlová",
+                  "text": "Handlova helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        18.766095,
+                        48.731678
                   ]
             }
       ],
@@ -19274,6 +22190,15 @@ imageHint: "Púchov town square with modern administrative buildings",
                         18.746668,
                         48.689643
                   ]
+            },
+            {
+                  "name": "Plaváreň mesta Handlová",
+                  "text": "O piscină locală în Handlova, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.766095,
+                        48.731678
+                  ]
             }
       ],
       "en": [
@@ -19329,6 +22254,15 @@ imageHint: "Púchov town square with modern administrative buildings",
                   "coords": [
                         18.746668,
                         48.689643
+                  ]
+            },
+            {
+                  "name": "Plaváreň mesta Handlová",
+                  "text": "A local swimming pool in Handlova suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        18.766095,
+                        48.731678
                   ]
             }
       ]
@@ -19469,6 +22403,15 @@ imageHint: "Handlová town center with the Church of St. Catherine",
                         17.0304,
                         48.435119
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Die Krytá plaváreň in Malacky bietet Schwimmbecken für Familienbesuche.",
+                  "category": "family",
+                  "coords": [
+                        17.020972,
+                        48.438628
+                  ]
             }
       ],
       "hu": [
@@ -19560,6 +22503,15 @@ imageHint: "Handlová town center with the Church of St. Catherine",
                   "coords": [
                         17.0304,
                         48.435119
+                  ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "A malackai Krytá plaváreň úszómedencéket kínál családi látogatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        17.020972,
+                        48.438628
                   ]
             }
       ],
@@ -19653,6 +22605,15 @@ imageHint: "Handlová town center with the Church of St. Catherine",
                         17.0304,
                         48.435119
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Krytá plaváreň din Malacky oferă bazine de înot pentru vizite în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.020972,
+                        48.438628
+                  ]
             }
       ],
       "en": [
@@ -19744,6 +22705,15 @@ imageHint: "Handlová town center with the Church of St. Catherine",
                   "coords": [
                         17.0304,
                         48.435119
+                  ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Krytá plaváreň in Malacky offers swimming pools for family visits.",
+                  "category": "family",
+                  "coords": [
+                        17.020972,
+                        48.438628
                   ]
             }
       ]
@@ -19893,6 +22863,15 @@ imageHint: "Pálffy Mansion and park in Malacky",
                         17.734942,
                         48.286057
                   ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Ein städtisches Schwimmbad in Sereď für Sport und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        17.733289,
+                        48.282443
+                  ]
             }
       ],
       "hu": [
@@ -19993,6 +22972,15 @@ imageHint: "Pálffy Mansion and park in Malacky",
                   "coords": [
                         17.734942,
                         48.286057
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Városi úszómedence Szereden sportoláshoz és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        17.733289,
+                        48.282443
                   ]
             }
       ],
@@ -20095,6 +23083,15 @@ imageHint: "Pálffy Mansion and park in Malacky",
                         17.734942,
                         48.286057
                   ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "O piscină municipală în Sereď pentru sport și timp liber.",
+                  "category": "family",
+                  "coords": [
+                        17.733289,
+                        48.282443
+                  ]
             }
       ],
       "en": [
@@ -20196,6 +23193,15 @@ imageHint: "Pálffy Mansion and park in Malacky",
                         17.734942,
                         48.286057
                   ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "A municipal swimming pool in Sereď for sports and leisure.",
+                  "category": "family",
+                  "coords": [
+                        17.733289,
+                        48.282443
+                  ]
             }
       ]
 },
@@ -20290,7 +23296,52 @@ imageHint: "Wooden UNESCO church in Kežmarok",
     },
     image: "/poi-images/slovakia-kezmarok-cities-v2.webp",
 },  {
-    id: "slovakia-stara-lubovna-cities-v2",
+    id: "slovakia-stara-lubovna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaváreň",
+                  "text": "Die Plaváreň in Stara Lubovna bietet Möglichkeiten zum Schwimmen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        20.680338,
+                        49.300514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaváreň",
+                  "text": "Az ólublói Plaváreň úszási lehetőséget kínál családok számára.",
+                  "category": "family",
+                  "coords": [
+                        20.680338,
+                        49.300514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaváreň",
+                  "text": "Plaváreň din Stara Lubovna oferă facilități de înot pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        20.680338,
+                        49.300514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaváreň",
+                  "text": "Plaváreň in Stara Lubovna offers swimming facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        20.680338,
+                        49.300514
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Stará Ľubovňa", hu: "Ólubló", ro: "Stará Ľubovňa", en: "Stará Ľubovňa"},
@@ -20995,6 +24046,42 @@ imageHint: "Neo-Gothic Esterházy palace in Galanta",
                         17.399683,
                         48.222093
                   ]
+            },
+            {
+                  "name": "Sai Wellness",
+                  "text": "Ein öffentliches Bad in Senec mit Einrichtungen zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        17.414882,
+                        48.220903
+                  ]
+            },
+            {
+                  "name": "Aquapark Senec",
+                  "text": "Dieser Wasserpark in Senec bietet verschiedene Becken und Freizeitaktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        17.414994,
+                        48.22181
+                  ]
+            },
+            {
+                  "name": "Slnečné jazerá - Južná zóna",
+                  "text": "Ein Strandbad in Senec, das Möglichkeiten zum Schwimmen und Sonnenbaden bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.412,
+                        48.214933
+                  ]
+            },
+            {
+                  "name": "Opustené kúpalisko",
+                  "text": "Ein lokales Schwimmbad in Senec, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.434879,
+                        48.199398
+                  ]
             }
       ],
       "hu": [
@@ -21059,6 +24146,42 @@ imageHint: "Neo-Gothic Esterházy palace in Galanta",
                   "coords": [
                         17.399683,
                         48.222093
+                  ]
+            },
+            {
+                  "name": "Sai Wellness",
+                  "text": "Senec közfürdője, amely úszási és relaxációs lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        17.414882,
+                        48.220903
+                  ]
+            },
+            {
+                  "name": "Aquapark Senec",
+                  "text": "Ez a Senec városában található vízipark különféle medencékkel és szórakoztató programokkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        17.414994,
+                        48.22181
+                  ]
+            },
+            {
+                  "name": "Slnečné jazerá - Južná zóna",
+                  "text": "Egy strand Senec területén, amely úszási és napozási lehetőséget biztosít.",
+                  "category": "family",
+                  "coords": [
+                        17.412,
+                        48.214933
+                  ]
+            },
+            {
+                  "name": "Opustené kúpalisko",
+                  "text": "Senec helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.434879,
+                        48.199398
                   ]
             }
       ],
@@ -21125,6 +24248,42 @@ imageHint: "Neo-Gothic Esterházy palace in Galanta",
                         17.399683,
                         48.222093
                   ]
+            },
+            {
+                  "name": "Sai Wellness",
+                  "text": "O baie publică în Senec care oferă facilități pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.414882,
+                        48.220903
+                  ]
+            },
+            {
+                  "name": "Aquapark Senec",
+                  "text": "Acest parc acvatic din Senec oferă diverse piscine și activități distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.414994,
+                        48.22181
+                  ]
+            },
+            {
+                  "name": "Slnečné jazerá - Južná zóna",
+                  "text": "O stațiune de plajă în Senec care oferă oportunități pentru înot și plajă.",
+                  "category": "family",
+                  "coords": [
+                        17.412,
+                        48.214933
+                  ]
+            },
+            {
+                  "name": "Opustené kúpalisko",
+                  "text": "O piscină locală în Senec, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.434879,
+                        48.199398
+                  ]
             }
       ],
       "en": [
@@ -21189,6 +24348,42 @@ imageHint: "Neo-Gothic Esterházy palace in Galanta",
                   "coords": [
                         17.399683,
                         48.222093
+                  ]
+            },
+            {
+                  "name": "Sai Wellness",
+                  "text": "A public bath in Senec providing facilities for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        17.414882,
+                        48.220903
+                  ]
+            },
+            {
+                  "name": "Aquapark Senec",
+                  "text": "This water park in Senec offers various pools and fun activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.414994,
+                        48.22181
+                  ]
+            },
+            {
+                  "name": "Slnečné jazerá - Južná zóna",
+                  "text": "A beach resort in Senec offering opportunities for swimming and sunbathing.",
+                  "category": "family",
+                  "coords": [
+                        17.412,
+                        48.214933
+                  ]
+            },
+            {
+                  "name": "Opustené kúpalisko",
+                  "text": "A local swimming pool in Senec suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.434879,
+                        48.199398
                   ]
             }
       ]
@@ -21284,6 +24479,15 @@ imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
                         19.418099,
                         48.559912
                   ]
+            },
+            {
+                  "name": "Amfiteáter Pod vŕbou",
+                  "text": "Der Amfiteáter Pod vŕbou in Detva bietet Raum für Freizeitaktivitäten und Veranstaltungen.",
+                  "category": "family",
+                  "coords": [
+                        19.468363,
+                        48.547792
+                  ]
             }
       ],
       "hu": [
@@ -21330,6 +24534,15 @@ imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
                   "coords": [
                         19.418099,
                         48.559912
+                  ]
+            },
+            {
+                  "name": "Amfiteáter Pod vŕbou",
+                  "text": "A gyetvai Amfiteáter Pod vŕbou szabadidős tevékenységeknek és rendezvényeknek ad helyet.",
+                  "category": "family",
+                  "coords": [
+                        19.468363,
+                        48.547792
                   ]
             }
       ],
@@ -21378,6 +24591,15 @@ imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
                         19.418099,
                         48.559912
                   ]
+            },
+            {
+                  "name": "Amfiteáter Pod vŕbou",
+                  "text": "Amfiteáter Pod vŕbou din Detva oferă spațiu pentru activități de recreere și evenimente.",
+                  "category": "family",
+                  "coords": [
+                        19.468363,
+                        48.547792
+                  ]
             }
       ],
       "en": [
@@ -21424,6 +24646,15 @@ imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
                   "coords": [
                         19.418099,
                         48.559912
+                  ]
+            },
+            {
+                  "name": "Amfiteáter Pod vŕbou",
+                  "text": "Amfiteáter Pod vŕbou in Detva offers space for leisure activities and events.",
+                  "category": "family",
+                  "coords": [
+                        19.468363,
+                        48.547792
                   ]
             }
       ]
@@ -22981,6 +26212,15 @@ imageHint: "Veľký Krtíš town center and surroundings",
                         17.494819,
                         48.733292
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Ein lokales Schwimmbad in Myjava, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        17.566856,
+                        48.761125
+                  ]
             }
       ],
       "hu": [
@@ -23045,6 +26285,15 @@ imageHint: "Veľký Krtíš town center and surroundings",
                   "coords": [
                         17.494819,
                         48.733292
+                  ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Myjava helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        17.566856,
+                        48.761125
                   ]
             }
       ],
@@ -23111,6 +26360,15 @@ imageHint: "Veľký Krtíš town center and surroundings",
                         17.494819,
                         48.733292
                   ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "O piscină locală în Myjava, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.566856,
+                        48.761125
+                  ]
             }
       ],
       "en": [
@@ -23175,6 +26433,15 @@ imageHint: "Veľký Krtíš town center and surroundings",
                   "coords": [
                         17.494819,
                         48.733292
+                  ]
+            },
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "A local swimming pool in Myjava suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        17.566856,
+                        48.761125
                   ]
             }
       ]
@@ -23829,6 +27096,15 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
                         17.307133,
                         48.025738
                   ]
+            },
+            {
+                  "name": "Modrá Žabka - kurzy plávania",
+                  "text": "Ein Schwimmbad in Šamorín, das Schwimmkurse für verschiedene Altersgruppen anbietet.",
+                  "category": "family",
+                  "coords": [
+                        17.313796,
+                        48.027327
+                  ]
             }
       ],
       "hu": [
@@ -24019,6 +27295,15 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
                   "coords": [
                         17.307133,
                         48.025738
+                  ]
+            },
+            {
+                  "name": "Modrá Žabka - kurzy plávania",
+                  "text": "Úszómedence Somorján, amely úszótanfolyamokat kínál különféle korosztályoknak.",
+                  "category": "family",
+                  "coords": [
+                        17.313796,
+                        48.027327
                   ]
             }
       ],
@@ -24211,6 +27496,15 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
                         17.307133,
                         48.025738
                   ]
+            },
+            {
+                  "name": "Modrá Žabka - kurzy plávania",
+                  "text": "O piscină în Šamorín care oferă cursuri de înot pentru diverse grupe de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        17.313796,
+                        48.027327
+                  ]
             }
       ],
       "en": [
@@ -24401,6 +27695,15 @@ imageHint: "Building of the first Slovak gymnasium in Revúca",
                   "coords": [
                         17.307133,
                         48.025738
+                  ]
+            },
+            {
+                  "name": "Modrá Žabka - kurzy plávania",
+                  "text": "A swimming pool in Šamorín offering swimming lessons for various age groups.",
+                  "category": "family",
+                  "coords": [
+                        17.313796,
+                        48.027327
                   ]
             }
       ]
@@ -25689,6 +28992,24 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
                         18.729986,
                         47.795216
                   ]
+            },
+            {
+                  "name": "Perličkový bazén",
+                  "text": "Ein Sprudelbecken in Štúrovo für wohltuende Entspannung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        18.716885,
+                        47.80202
+                  ]
+            },
+            {
+                  "name": "Úszómedence",
+                  "text": "Ein klassisches Schwimmbecken in Štúrovo für sportliche Schwimmer.",
+                  "category": "family",
+                  "coords": [
+                        18.736784,
+                        47.795223
+                  ]
             }
       ],
       "hu": [
@@ -25906,6 +29227,24 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
                   "coords": [
                         18.729986,
                         47.795216
+                  ]
+            },
+            {
+                  "name": "Pezsgőmedence",
+                  "text": "Pezsgőfürdő medence Párkányban a jótékony vízi ellazuláshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.716885,
+                        47.80202
+                  ]
+            },
+            {
+                  "name": "Úszómedence",
+                  "text": "Klasszikus úszómedence Párkányban a sportos úszók számára.",
+                  "category": "family",
+                  "coords": [
+                        18.736784,
+                        47.795223
                   ]
             }
       ],
@@ -26125,6 +29464,24 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
                         18.729986,
                         47.795216
                   ]
+            },
+            {
+                  "name": "Perličkový bazén",
+                  "text": "O piscină cu bule în Štúrovo pentru relaxare binefăcătoare în apă.",
+                  "category": "family",
+                  "coords": [
+                        18.716885,
+                        47.80202
+                  ]
+            },
+            {
+                  "name": "Úszómedence",
+                  "text": "O piscină clasică în Štúrovo pentru înotători sportivi.",
+                  "category": "family",
+                  "coords": [
+                        18.736784,
+                        47.795223
+                  ]
             }
       ],
       "en": [
@@ -26342,6 +29699,24 @@ imageHint: "Imperial Baroque Palace of Holíč with its bastions",
                   "coords": [
                         18.729986,
                         47.795216
+                  ]
+            },
+            {
+                  "name": "Perličkový bazén",
+                  "text": "A bubble pool in Štúrovo for beneficial relaxation in the water.",
+                  "category": "family",
+                  "coords": [
+                        18.716885,
+                        47.80202
+                  ]
+            },
+            {
+                  "name": "Úszómedence",
+                  "text": "A classic swimming pool in Štúrovo for sport swimmers.",
+                  "category": "family",
+                  "coords": [
+                        18.736784,
+                        47.795223
                   ]
             }
       ]
@@ -26852,7 +30227,556 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
     },
     image: "/poi-images/slovakia-sastin-straze-cities-v2.webp",
 },  {
-    id: "slovakia-liptovsky-hradok-cities-v2", "sights": {"de": [{"name": "Národopisné múzeum", "text": "Ein Museum in Liptovský Hrádok, das die Volkskultur der Region Liptov zeigt.", "category": "museum", "coords": [19.71861, 49.034467]}, {"name": "Hradisko Kameničná", "text": "Eine archäologische Stätte bei Liptovský Hrádok mit Überresten einer alten Siedlung.", "category": "historical", "coords": [19.685783, 49.03804]}, {"name": "Anfiteáter", "text": "Ein Freilichttheater in Liptovský Hrádok für sommerliche Kulturveranstaltungen.", "category": "cultural", "coords": [19.718414, 49.020835]}, {"name": "Selnice", "text": "Selnice erhebt sich als beeindruckender natürlicher Berggipfel in der Nähe von Liptovsky Hradok in der Slowakei. Trekking-Fans, die seine Hänge erklimmen, werden mit einem weiten Blick auf die umliegende Region belohnt.", "category": "natural", "coords": [19.746882, 49.012972]}, {"name": "Smrekovica", "text": "Ein Gipfel in der Umgebung von Liptovský Hrádok, beliebt bei Wanderern.", "category": "natural", "coords": [19.696076, 49.014181]}, {"name": "Hrádocké arborétum", "text": "Das älteste Arboretum in der Slowakei, das eine Sammlung seltener Bäume beherbergt.", "category": "park", "coords": [19.724606, 49.041528]}, {"name": "Skalka", "text": "Ein Aussichtspunkt, der einen Panoramablick auf die Landschaft von Liptov bietet.", "category": "natural", "coords": [19.732382, 49.044419]}, {"name": "Dalova galéria", "text": "Eine Kunstgalerie in Liptovský Hrádok, die Werke lokaler Künstler zeigt.", "category": "museum", "coords": [19.71917, 49.036784]}, {"name": "Hradisko Vislavice", "text": "Ein erhöhter Aussichtspunkt mit weitem Blick über die Vislavice-Region.", "category": "natural", "coords": [19.702205, 49.031799]}, {"name": "Sútok Váhu a Belej", "text": "Der malerische Zusammenfluss der Flüsse Váh und Belá.", "category": "landmark", "coords": [19.70937, 49.034832]}, {"name": "Navštívenia Panny Márie", "text": "Die römisch-katholische Pfarrkirche Mariä Heimsuchung in Liptovský Hrádok.", "category": "religious", "coords": [19.723656, 49.034727]}], "hu": [{"name": "Národopisné múzeum", "text": "Liptóújvári múzeum, amely a Liptó régió népi kultúráját mutatja be.", "category": "museum", "coords": [19.71861, 49.034467]}, {"name": "Hradisko Kameničná", "text": "Régészeti lelőhely Liptóújvár közelében egy ősi település maradványaival.", "category": "historical", "coords": [19.685783, 49.03804]}, {"name": "Anfiteáter", "text": "Liptóújvári szabadtéri színpad nyári kulturális rendezvényekhez.", "category": "cultural", "coords": [19.718414, 49.020835]}, {"name": "Selnice", "text": "A Selnice lenyűgöző természeti hegycsúcsként magasodik a szlovákiai Liptovsky Hradok közelében. A lejtőit megmászó túrázókat a környező régióra nyíló pazar kilátás jutalmazza.", "category": "natural", "coords": [19.746882, 49.012972]}, {"name": "Smrekovica", "text": "Hegycsúcs Liptóújvár környékén, amely kedvelt a túrázók körében.", "category": "natural", "coords": [19.696076, 49.014181]}, {"name": "Hrádocké arborétum", "text": "Szlovákia legrégebbi arborétuma, amely ritka fák gyűjteményének ad otthont.", "category": "park", "coords": [19.724606, 49.041528]}, {"name": "Skalka", "text": "Kilátópont, ahonnan panorámás kilátás nyílik a Liptói-tájra.", "category": "natural", "coords": [19.732382, 49.044419]}, {"name": "Dalova galéria", "text": "Művészeti galéria Liptóújváron, amely helyi művészek alkotásait mutatja be.", "category": "museum", "coords": [19.71917, 49.036784]}, {"name": "Hradisko Vislavice", "text": "Magaslati kilátóhely, ahonnan széles kilátás nyílik a Vislavice-régióra.", "category": "natural", "coords": [19.702205, 49.031799]}, {"name": "Sútok Váhu a Belej", "text": "A Vág és a Béla folyók festői összefolyása.", "category": "landmark", "coords": [19.70937, 49.034832]}, {"name": "Navštívenia Panny Márie", "text": "Sarlós Boldogasszony római katolikus plébániatemplom Liptóújváron.", "category": "religious", "coords": [19.723656, 49.034727]}], "ro": [{"name": "Národopisné múzeum", "text": "Un muzeu din Liptovský Hrádok care prezintă cultura populară a regiunii Liptov.", "category": "museum", "coords": [19.71861, 49.034467]}, {"name": "Hradisko Kameničná", "text": "Un sit arheologic lângă Liptovský Hrádok, cu rămășițele unei așezări antice.", "category": "historical", "coords": [19.685783, 49.03804]}, {"name": "Anfiteáter", "text": "Un amfiteatru în aer liber în Liptovský Hrádok pentru evenimente culturale de vară.", "category": "cultural", "coords": [19.718414, 49.020835]}, {"name": "Selnice", "text": "Selnice se înalță ca un impresionant vârf de munte natural lângă Liptovsky Hradok din Slovacia. Drumeții care îi urcă pantele vor fi răsplătiți cu o priveliște cuprinzătoare asupra regiunii înconjurătoare.", "category": "natural", "coords": [19.746882, 49.012972]}, {"name": "Smrekovica", "text": "Un vârf în împrejurimile orașului Liptovský Hrádok, popular printre drumeți.", "category": "natural", "coords": [19.696076, 49.014181]}, {"name": "Hrádocké arborétum", "text": "Cel mai vechi arboretum din Slovacia, care găzduiește o colecție de arbori rari.", "category": "park", "coords": [19.724606, 49.041528]}, {"name": "Skalka", "text": "Un punct de belvedere care oferă o vedere panoramică asupra peisajului Liptov.", "category": "natural", "coords": [19.732382, 49.044419]}, {"name": "Dalova galéria", "text": "O galerie de artă în Liptovský Hrádok, care expune lucrări ale artiștilor locali.", "category": "museum", "coords": [19.71917, 49.036784]}, {"name": "Hradisko Vislavice", "text": "Un punct de observație ridicat, cu vederi largi asupra regiunii Vislavice.", "category": "natural", "coords": [19.702205, 49.031799]}, {"name": "Sútok Váhu a Belej", "text": "Confluența pitorească a râurilor Váh și Belá.", "category": "landmark", "coords": [19.70937, 49.034832]}, {"name": "Navštívenia Panny Márie", "text": "Biserica parohială romano-catolică Vizita Maria din Liptovský Hrádok.", "category": "religious", "coords": [19.723656, 49.034727]}], "en": [{"name": "Národopisné múzeum", "text": "A museum in Liptovský Hrádok showcasing the folk culture of the Liptov region.", "category": "museum", "coords": [19.71861, 49.034467]}, {"name": "Hradisko Kameničná", "text": "An archaeological site near Liptovský Hrádok featuring remains of an ancient settlement.", "category": "historical", "coords": [19.685783, 49.03804]}, {"name": "Anfiteáter", "text": "An open-air amphitheater in Liptovský Hrádok used for summer cultural events.", "category": "cultural", "coords": [19.718414, 49.020835]}, {"name": "Selnice", "text": "Selnice stands as an impressive natural mountain peak near Liptovsky Hradok in Slovakia. Trekkers ascending its slopes will be rewarded with a sweeping view of the surrounding region.", "category": "natural", "coords": [19.746882, 49.012972]}, {"name": "Smrekovica", "text": "A peak in the surroundings of Liptovský Hrádok, popular with hikers.", "category": "natural", "coords": [19.696076, 49.014181]}, {"name": "Hrádocké arborétum", "text": "The oldest arboretum in Slovakia, home to a collection of rare trees.", "category": "park", "coords": [19.724606, 49.041528]}, {"name": "Skalka", "text": "A viewpoint offering a panoramic vista of the Liptov landscape.", "category": "natural", "coords": [19.732382, 49.044419]}, {"name": "Dalova galéria", "text": "An art gallery in Liptovský Hrádok showcasing works by local artists.", "category": "museum", "coords": [19.71917, 49.036784]}, {"name": "Hradisko Vislavice", "text": "An elevated viewpoint with broad views over the Vislavice region.", "category": "natural", "coords": [19.702205, 49.031799]}, {"name": "Sútok Váhu a Belej", "text": "The scenic confluence of the Váh and Belá rivers.", "category": "landmark", "coords": [19.70937, 49.034832]}, {"name": "Navštívenia Panny Márie", "text": "The Roman Catholic parish church of the Visitation in Liptovský Hrádok.", "category": "religious", "coords": [19.723656, 49.034727]}]},
+    id: "slovakia-liptovsky-hradok-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Národopisné múzeum",
+                  "text": "Ein Museum in Liptovský Hrádok, das die Volkskultur der Region Liptov zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.71861,
+                        49.034467
+                  ]
+            },
+            {
+                  "name": "Hradisko Kameničná",
+                  "text": "Eine archäologische Stätte bei Liptovský Hrádok mit Überresten einer alten Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        19.685783,
+                        49.03804
+                  ]
+            },
+            {
+                  "name": "Anfiteáter",
+                  "text": "Ein Freilichttheater in Liptovský Hrádok für sommerliche Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.718414,
+                        49.020835
+                  ]
+            },
+            {
+                  "name": "Selnice",
+                  "text": "Selnice erhebt sich als beeindruckender natürlicher Berggipfel in der Nähe von Liptovsky Hradok in der Slowakei. Trekking-Fans, die seine Hänge erklimmen, werden mit einem weiten Blick auf die umliegende Region belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        19.746882,
+                        49.012972
+                  ]
+            },
+            {
+                  "name": "Smrekovica",
+                  "text": "Ein Gipfel in der Umgebung von Liptovský Hrádok, beliebt bei Wanderern.",
+                  "category": "natural",
+                  "coords": [
+                        19.696076,
+                        49.014181
+                  ]
+            },
+            {
+                  "name": "Hrádocké arborétum",
+                  "text": "Das älteste Arboretum in der Slowakei, das eine Sammlung seltener Bäume beherbergt.",
+                  "category": "park",
+                  "coords": [
+                        19.724606,
+                        49.041528
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick auf die Landschaft von Liptov bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.732382,
+                        49.044419
+                  ]
+            },
+            {
+                  "name": "Dalova galéria",
+                  "text": "Eine Kunstgalerie in Liptovský Hrádok, die Werke lokaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.71917,
+                        49.036784
+                  ]
+            },
+            {
+                  "name": "Hradisko Vislavice",
+                  "text": "Ein erhöhter Aussichtspunkt mit weitem Blick über die Vislavice-Region.",
+                  "category": "natural",
+                  "coords": [
+                        19.702205,
+                        49.031799
+                  ]
+            },
+            {
+                  "name": "Sútok Váhu a Belej",
+                  "text": "Der malerische Zusammenfluss der Flüsse Váh und Belá.",
+                  "category": "landmark",
+                  "coords": [
+                        19.70937,
+                        49.034832
+                  ]
+            },
+            {
+                  "name": "Navštívenia Panny Márie",
+                  "text": "Die römisch-katholische Pfarrkirche Mariä Heimsuchung in Liptovský Hrádok.",
+                  "category": "religious",
+                  "coords": [
+                        19.723656,
+                        49.034727
+                  ]
+            },
+            {
+                  "name": "SOREA Máj",
+                  "text": "Ein Schwimmbad in Liptovský Hrádok zur aktiven Erholung.",
+                  "category": "family",
+                  "coords": [
+                        19.67136,
+                        49.037122
+                  ]
+            },
+            {
+                  "name": "Avena",
+                  "text": "Ein Schwimmbecken in Liptovský Hrádok für Sport und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        19.676966,
+                        49.034018
+                  ]
+            },
+            {
+                  "name": "Alexandra Wellness Hotel",
+                  "text": "Ein Wellnesshotel in Liptovský Hrádok mit Erholungsangeboten.",
+                  "category": "family",
+                  "coords": [
+                        19.671713,
+                        49.023771
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "Ein Schwimmbecken in Liptovský Hrádok für Training und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        19.67354,
+                        49.038682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Národopisné múzeum",
+                  "text": "Liptóújvári múzeum, amely a Liptó régió népi kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.71861,
+                        49.034467
+                  ]
+            },
+            {
+                  "name": "Hradisko Kameničná",
+                  "text": "Régészeti lelőhely Liptóújvár közelében egy ősi település maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        19.685783,
+                        49.03804
+                  ]
+            },
+            {
+                  "name": "Anfiteáter",
+                  "text": "Liptóújvári szabadtéri színpad nyári kulturális rendezvényekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        19.718414,
+                        49.020835
+                  ]
+            },
+            {
+                  "name": "Selnice",
+                  "text": "A Selnice lenyűgöző természeti hegycsúcsként magasodik a szlovákiai Liptovsky Hradok közelében. A lejtőit megmászó túrázókat a környező régióra nyíló pazar kilátás jutalmazza.",
+                  "category": "natural",
+                  "coords": [
+                        19.746882,
+                        49.012972
+                  ]
+            },
+            {
+                  "name": "Smrekovica",
+                  "text": "Hegycsúcs Liptóújvár környékén, amely kedvelt a túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        19.696076,
+                        49.014181
+                  ]
+            },
+            {
+                  "name": "Hrádocké arborétum",
+                  "text": "Szlovákia legrégebbi arborétuma, amely ritka fák gyűjteményének ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        19.724606,
+                        49.041528
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik a Liptói-tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.732382,
+                        49.044419
+                  ]
+            },
+            {
+                  "name": "Dalova galéria",
+                  "text": "Művészeti galéria Liptóújváron, amely helyi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.71917,
+                        49.036784
+                  ]
+            },
+            {
+                  "name": "Hradisko Vislavice",
+                  "text": "Magaslati kilátóhely, ahonnan széles kilátás nyílik a Vislavice-régióra.",
+                  "category": "natural",
+                  "coords": [
+                        19.702205,
+                        49.031799
+                  ]
+            },
+            {
+                  "name": "Sútok Váhu a Belej",
+                  "text": "A Vág és a Béla folyók festői összefolyása.",
+                  "category": "landmark",
+                  "coords": [
+                        19.70937,
+                        49.034832
+                  ]
+            },
+            {
+                  "name": "Navštívenia Panny Márie",
+                  "text": "Sarlós Boldogasszony római katolikus plébániatemplom Liptóújváron.",
+                  "category": "religious",
+                  "coords": [
+                        19.723656,
+                        49.034727
+                  ]
+            },
+            {
+                  "name": "SOREA Máj",
+                  "text": "Úszómedence Liptóújváron az aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.67136,
+                        49.037122
+                  ]
+            },
+            {
+                  "name": "Avena",
+                  "text": "Úszómedence Liptóújváron sportoláshoz és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        19.676966,
+                        49.034018
+                  ]
+            },
+            {
+                  "name": "Alexandra Wellness Hotel",
+                  "text": "Wellness hotel Liptóújváron pihenési ajánlatokkal.",
+                  "category": "family",
+                  "coords": [
+                        19.671713,
+                        49.023771
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "Úszómedence Liptóújváron edzéshez és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        19.67354,
+                        49.038682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Národopisné múzeum",
+                  "text": "Un muzeu din Liptovský Hrádok care prezintă cultura populară a regiunii Liptov.",
+                  "category": "museum",
+                  "coords": [
+                        19.71861,
+                        49.034467
+                  ]
+            },
+            {
+                  "name": "Hradisko Kameničná",
+                  "text": "Un sit arheologic lângă Liptovský Hrádok, cu rămășițele unei așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        19.685783,
+                        49.03804
+                  ]
+            },
+            {
+                  "name": "Anfiteáter",
+                  "text": "Un amfiteatru în aer liber în Liptovský Hrádok pentru evenimente culturale de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        19.718414,
+                        49.020835
+                  ]
+            },
+            {
+                  "name": "Selnice",
+                  "text": "Selnice se înalță ca un impresionant vârf de munte natural lângă Liptovsky Hradok din Slovacia. Drumeții care îi urcă pantele vor fi răsplătiți cu o priveliște cuprinzătoare asupra regiunii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        19.746882,
+                        49.012972
+                  ]
+            },
+            {
+                  "name": "Smrekovica",
+                  "text": "Un vârf în împrejurimile orașului Liptovský Hrádok, popular printre drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        19.696076,
+                        49.014181
+                  ]
+            },
+            {
+                  "name": "Hrádocké arborétum",
+                  "text": "Cel mai vechi arboretum din Slovacia, care găzduiește o colecție de arbori rari.",
+                  "category": "park",
+                  "coords": [
+                        19.724606,
+                        49.041528
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra peisajului Liptov.",
+                  "category": "natural",
+                  "coords": [
+                        19.732382,
+                        49.044419
+                  ]
+            },
+            {
+                  "name": "Dalova galéria",
+                  "text": "O galerie de artă în Liptovský Hrádok, care expune lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        19.71917,
+                        49.036784
+                  ]
+            },
+            {
+                  "name": "Hradisko Vislavice",
+                  "text": "Un punct de observație ridicat, cu vederi largi asupra regiunii Vislavice.",
+                  "category": "natural",
+                  "coords": [
+                        19.702205,
+                        49.031799
+                  ]
+            },
+            {
+                  "name": "Sútok Váhu a Belej",
+                  "text": "Confluența pitorească a râurilor Váh și Belá.",
+                  "category": "landmark",
+                  "coords": [
+                        19.70937,
+                        49.034832
+                  ]
+            },
+            {
+                  "name": "Navštívenia Panny Márie",
+                  "text": "Biserica parohială romano-catolică Vizita Maria din Liptovský Hrádok.",
+                  "category": "religious",
+                  "coords": [
+                        19.723656,
+                        49.034727
+                  ]
+            },
+            {
+                  "name": "SOREA Máj",
+                  "text": "O piscină în Liptovský Hrádok pentru recreere activă.",
+                  "category": "family",
+                  "coords": [
+                        19.67136,
+                        49.037122
+                  ]
+            },
+            {
+                  "name": "Avena",
+                  "text": "O piscină în Liptovský Hrádok pentru sport și timp liber.",
+                  "category": "family",
+                  "coords": [
+                        19.676966,
+                        49.034018
+                  ]
+            },
+            {
+                  "name": "Alexandra Wellness Hotel",
+                  "text": "Un hotel wellness în Liptovský Hrádok cu oferte de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        19.671713,
+                        49.023771
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "O piscină în Liptovský Hrádok pentru antrenament și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        19.67354,
+                        49.038682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Národopisné múzeum",
+                  "text": "A museum in Liptovský Hrádok showcasing the folk culture of the Liptov region.",
+                  "category": "museum",
+                  "coords": [
+                        19.71861,
+                        49.034467
+                  ]
+            },
+            {
+                  "name": "Hradisko Kameničná",
+                  "text": "An archaeological site near Liptovský Hrádok featuring remains of an ancient settlement.",
+                  "category": "historical",
+                  "coords": [
+                        19.685783,
+                        49.03804
+                  ]
+            },
+            {
+                  "name": "Anfiteáter",
+                  "text": "An open-air amphitheater in Liptovský Hrádok used for summer cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        19.718414,
+                        49.020835
+                  ]
+            },
+            {
+                  "name": "Selnice",
+                  "text": "Selnice stands as an impressive natural mountain peak near Liptovsky Hradok in Slovakia. Trekkers ascending its slopes will be rewarded with a sweeping view of the surrounding region.",
+                  "category": "natural",
+                  "coords": [
+                        19.746882,
+                        49.012972
+                  ]
+            },
+            {
+                  "name": "Smrekovica",
+                  "text": "A peak in the surroundings of Liptovský Hrádok, popular with hikers.",
+                  "category": "natural",
+                  "coords": [
+                        19.696076,
+                        49.014181
+                  ]
+            },
+            {
+                  "name": "Hrádocké arborétum",
+                  "text": "The oldest arboretum in Slovakia, home to a collection of rare trees.",
+                  "category": "park",
+                  "coords": [
+                        19.724606,
+                        49.041528
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "A viewpoint offering a panoramic vista of the Liptov landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.732382,
+                        49.044419
+                  ]
+            },
+            {
+                  "name": "Dalova galéria",
+                  "text": "An art gallery in Liptovský Hrádok showcasing works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        19.71917,
+                        49.036784
+                  ]
+            },
+            {
+                  "name": "Hradisko Vislavice",
+                  "text": "An elevated viewpoint with broad views over the Vislavice region.",
+                  "category": "natural",
+                  "coords": [
+                        19.702205,
+                        49.031799
+                  ]
+            },
+            {
+                  "name": "Sútok Váhu a Belej",
+                  "text": "The scenic confluence of the Váh and Belá rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        19.70937,
+                        49.034832
+                  ]
+            },
+            {
+                  "name": "Navštívenia Panny Márie",
+                  "text": "The Roman Catholic parish church of the Visitation in Liptovský Hrádok.",
+                  "category": "religious",
+                  "coords": [
+                        19.723656,
+                        49.034727
+                  ]
+            },
+            {
+                  "name": "SOREA Máj",
+                  "text": "A swimming pool in Liptovský Hrádok for active recreation.",
+                  "category": "family",
+                  "coords": [
+                        19.67136,
+                        49.037122
+                  ]
+            },
+            {
+                  "name": "Avena",
+                  "text": "A swimming pool in Liptovský Hrádok for sports and leisure.",
+                  "category": "family",
+                  "coords": [
+                        19.676966,
+                        49.034018
+                  ]
+            },
+            {
+                  "name": "Alexandra Wellness Hotel",
+                  "text": "A wellness hotel in Liptovský Hrádok with relaxation offers.",
+                  "category": "family",
+                  "coords": [
+                        19.671713,
+                        49.023771
+                  ]
+            },
+            {
+                  "name": "Plavecký bazén",
+                  "text": "A swimming pool in Liptovský Hrádok for training and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        19.67354,
+                        49.038682
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Liptovský Hrádok", hu: "Liptóújvár", ro: "Liptovský Hrádok", en: "Liptovský Hrádok"},
@@ -27323,6 +31247,33 @@ imageHint: "Krompachy city center with mountains in background",
                         17.30725,
                         48.329408
                   ]
+            },
+            {
+                  "name": "Kúpalisko Modra",
+                  "text": "Das Kúpalisko Modra bietet Schwimmbecken für die Erholung von Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.301159,
+                        48.335744
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "Das Bazén in Modra ist ein Schwimmbad für die Freizeitgestaltung von Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.276765,
+                        48.303186
+                  ]
+            },
+            {
+                  "name": "Letné kúpalisko Pezinok",
+                  "text": "Das Letné kúpalisko Pezinok in Modra ist ein Wasserpark für den Familienspaß im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        17.269161,
+                        48.300938
+                  ]
             }
       ],
       "hu": [
@@ -27513,6 +31464,33 @@ imageHint: "Krompachy city center with mountains in background",
                   "coords": [
                         17.30725,
                         48.329408
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Modra",
+                  "text": "A Kúpalisko Modra úszómedencéket kínál a családok kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        17.301159,
+                        48.335744
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "A modori Bazén egy úszómedence családok szabadidős tevékenységéhez.",
+                  "category": "family",
+                  "coords": [
+                        17.276765,
+                        48.303186
+                  ]
+            },
+            {
+                  "name": "Letné kúpalisko Pezinok",
+                  "text": "A modori Letné kúpalisko Pezinok egy vízipark a nyári családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        17.269161,
+                        48.300938
                   ]
             }
       ],
@@ -27705,6 +31683,33 @@ imageHint: "Krompachy city center with mountains in background",
                         17.30725,
                         48.329408
                   ]
+            },
+            {
+                  "name": "Kúpalisko Modra",
+                  "text": "Kúpalisko Modra oferă bazine de înot pentru recreerea familiilor.",
+                  "category": "family",
+                  "coords": [
+                        17.301159,
+                        48.335744
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "Bazén din Modra este o piscină pentru petrecerea timpului liber în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.276765,
+                        48.303186
+                  ]
+            },
+            {
+                  "name": "Letné kúpalisko Pezinok",
+                  "text": "Letné kúpalisko Pezinok din Modra este un parc acvatic pentru distracția de vară în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.269161,
+                        48.300938
+                  ]
             }
       ],
       "en": [
@@ -27895,6 +31900,33 @@ imageHint: "Krompachy city center with mountains in background",
                   "coords": [
                         17.30725,
                         48.329408
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Modra",
+                  "text": "Kúpalisko Modra offers swimming pools for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        17.301159,
+                        48.335744
+                  ]
+            },
+            {
+                  "name": "Bazén",
+                  "text": "Bazén in Modra is a swimming pool for family leisure.",
+                  "category": "family",
+                  "coords": [
+                        17.276765,
+                        48.303186
+                  ]
+            },
+            {
+                  "name": "Letné kúpalisko Pezinok",
+                  "text": "Letné kúpalisko Pezinok in Modra is a water park for summer family fun.",
+                  "category": "family",
+                  "coords": [
+                        17.269161,
+                        48.300938
                   ]
             }
       ]
@@ -28135,6 +32167,15 @@ imageHint: "Esterházy palace and Schubert memorial in Želiezovce",
                         18.864021,
                         48.884541
                   ]
+            },
+            {
+                  "name": "Kúpalisko Vieska",
+                  "text": "Ein lokales Schwimmbad in Turcianske Teplice, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.857814,
+                        48.864419
+                  ]
             }
       ],
       "hu": [
@@ -28235,6 +32276,15 @@ imageHint: "Esterházy palace and Schubert memorial in Želiezovce",
                   "coords": [
                         18.864021,
                         48.884541
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Vieska",
+                  "text": "Turcianske Teplice helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        18.857814,
+                        48.864419
                   ]
             }
       ],
@@ -28337,6 +32387,15 @@ imageHint: "Esterházy palace and Schubert memorial in Želiezovce",
                         18.864021,
                         48.884541
                   ]
+            },
+            {
+                  "name": "Kúpalisko Vieska",
+                  "text": "O piscină locală în Turcianske Teplice, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.857814,
+                        48.864419
+                  ]
             }
       ],
       "en": [
@@ -28437,6 +32496,15 @@ imageHint: "Esterházy palace and Schubert memorial in Želiezovce",
                   "coords": [
                         18.864021,
                         48.884541
+                  ]
+            },
+            {
+                  "name": "Kúpalisko Vieska",
+                  "text": "A local swimming pool in Turcianske Teplice suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        18.857814,
+                        48.864419
                   ]
             }
       ]
@@ -33996,6 +38064,24 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
                         20.161803,
                         49.177274
                   ]
+            },
+            {
+                  "name": "Bazén a saunový svet",
+                  "text": "Ein Pool- und Saunabereich in Vysoké Tatry für alpine Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        20.229594,
+                        49.139195
+                  ]
+            },
+            {
+                  "name": "Dinopark Tatry",
+                  "text": "Ein Themenpark in Vysoké Tatry mit Dinosaurier-Modellen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        20.247832,
+                        49.122982
+                  ]
             }
       ],
       "hu": [
@@ -34222,6 +38308,24 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
                   "coords": [
                         20.161803,
                         49.177274
+                  ]
+            },
+            {
+                  "name": "Bazén a saunový svet",
+                  "text": "Medence és szaunavilág Magas-Tátrában az alpesi pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        20.229594,
+                        49.139195
+                  ]
+            },
+            {
+                  "name": "Dinopark Tatry",
+                  "text": "Dinoszaurusz-modelleket bemutató élménypark a Magas-Tátrában az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        20.247832,
+                        49.122982
                   ]
             }
       ],
@@ -34450,6 +38554,24 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
                         20.161803,
                         49.177274
                   ]
+            },
+            {
+                  "name": "Bazén a saunový svet",
+                  "text": "O zonă de piscină și saună în Vysoké Tatry pentru relaxare alpină.",
+                  "category": "family",
+                  "coords": [
+                        20.229594,
+                        49.139195
+                  ]
+            },
+            {
+                  "name": "Dinopark Tatry",
+                  "text": "Un parc tematic în Vysoké Tatry cu modele de dinozauri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        20.247832,
+                        49.122982
+                  ]
             }
       ],
       "en": [
@@ -34676,6 +38798,24 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
                   "coords": [
                         20.161803,
                         49.177274
+                  ]
+            },
+            {
+                  "name": "Bazén a saunový svet",
+                  "text": "A pool and sauna area in Vysoké Tatry for alpine relaxation.",
+                  "category": "family",
+                  "coords": [
+                        20.229594,
+                        49.139195
+                  ]
+            },
+            {
+                  "name": "Dinopark Tatry",
+                  "text": "A theme park in Vysoké Tatry featuring dinosaur models for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        20.247832,
+                        49.122982
                   ]
             }
       ]
@@ -35856,6 +39996,24 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         17.760985,
                         47.847081
                   ]
+            },
+            {
+                  "name": "Krytý plavecký bazén",
+                  "text": "Ein Hallenbad in Veľký Meder für wetterunabhängiges Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        17.760218,
+                        47.845632
+                  ]
+            },
+            {
+                  "name": "Taliansky bazén",
+                  "text": "Ein Schwimmbecken in Veľký Meder für sommerliche Erfrischung.",
+                  "category": "family",
+                  "coords": [
+                        17.759364,
+                        47.847342
+                  ]
             }
       ],
       "hu": [
@@ -35875,6 +40033,24 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         17.760985,
                         47.847081
+                  ]
+            },
+            {
+                  "name": "Fedett medence",
+                  "text": "Fedett uszoda Nagymegyeren az időjárástól független úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        17.760218,
+                        47.845632
+                  ]
+            },
+            {
+                  "name": "Taliansky bazén",
+                  "text": "Úszómedence Nagymegyeren a nyári felfrissüléshez.",
+                  "category": "family",
+                  "coords": [
+                        17.759364,
+                        47.847342
                   ]
             }
       ],
@@ -35896,6 +40072,24 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         17.760985,
                         47.847081
                   ]
+            },
+            {
+                  "name": "Krytý plavecký bazén",
+                  "text": "O piscină acoperită în Veľký Meder pentru înot indiferent de vreme.",
+                  "category": "family",
+                  "coords": [
+                        17.760218,
+                        47.845632
+                  ]
+            },
+            {
+                  "name": "Taliansky bazén",
+                  "text": "O piscină în Veľký Meder pentru răcorire estivală.",
+                  "category": "family",
+                  "coords": [
+                        17.759364,
+                        47.847342
+                  ]
             }
       ],
       "en": [
@@ -35915,6 +40109,24 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         17.760985,
                         47.847081
+                  ]
+            },
+            {
+                  "name": "Krytý plavecký bazén",
+                  "text": "An indoor swimming pool in Veľký Meder for swimming regardless of the weather.",
+                  "category": "family",
+                  "coords": [
+                        17.760218,
+                        47.845632
+                  ]
+            },
+            {
+                  "name": "Taliansky bazén",
+                  "text": "A swimming pool in Veľký Meder for summer refreshment.",
+                  "category": "family",
+                  "coords": [
+                        17.759364,
+                        47.847342
                   ]
             }
       ]
@@ -35963,7 +40175,88 @@ imageHint: "Neo-Gothic church in Vráble town center",
     image: "/poi-images/slovakia-velky-meder-cities-v2.webp",
   },
   {
-    id: "slovakia-stropkov-cities-v2",
+    id: "slovakia-stropkov-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Ein lokales Schwimmbad in Stropkov, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        21.654484,
+                        49.203747
+                  ]
+            },
+            {
+                  "name": "ZOO park Stropkov",
+                  "text": "Ein lokaler Zoo in Stropkov, in dem Besucher verschiedene Tierarten in einer familienfreundlichen Umgebung sehen können.",
+                  "category": "family",
+                  "coords": [
+                        21.651515,
+                        49.204677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "Stropkov helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        21.654484,
+                        49.203747
+                  ]
+            },
+            {
+                  "name": "ZOO park Stropkov",
+                  "text": "Stropkov helyi állatkertje, ahol a látogatók különféle állatfajokat tekinthetnek meg családbarát környezetben.",
+                  "category": "family",
+                  "coords": [
+                        21.651515,
+                        49.204677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "O piscină locală în Stropkov, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        21.654484,
+                        49.203747
+                  ]
+            },
+            {
+                  "name": "ZOO park Stropkov",
+                  "text": "O grădină zoologică locală în Stropkov, unde vizitatorii pot vedea diverse specii de animale într-un mediu prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.651515,
+                        49.204677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krytá plaváreň",
+                  "text": "A local swimming pool in Stropkov suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        21.654484,
+                        49.203747
+                  ]
+            },
+            {
+                  "name": "ZOO park Stropkov",
+                  "text": "A local zoo in Stropkov where visitors can see various animal species in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        21.651515,
+                        49.204677
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SK",
     name: { de: "Stropkov", hu: "Sztropkó", ro: "Stropkov", en: "Stropkov" },
@@ -36126,6 +40419,33 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         19.096912,
                         48.611194
                   ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Ein Kinderbecken in Kováčová für die kleinsten Badegäste.",
+                  "category": "family",
+                  "coords": [
+                        19.098312,
+                        48.60622
+                  ]
+            },
+            {
+                  "name": "Croc Terrarium Studio & Tropical world",
+                  "text": "Ein spezialisierter Zoo in Kováčová, der Reptilien und tropische Tiere zeigt.",
+                  "category": "family",
+                  "coords": [
+                        19.105308,
+                        48.634043
+                  ]
+            },
+            {
+                  "name": "Termálne kúpalisko Sliač",
+                  "text": "Ein öffentliches Thermalbad in Kováčová zur Erholung im warmen Wasser.",
+                  "category": "family",
+                  "coords": [
+                        19.164026,
+                        48.611148
+                  ]
             }
       ],
       "hu": [
@@ -36154,6 +40474,33 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         19.096912,
                         48.611194
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Gyermekmedence Kovácsfalván a legkisebb fürdőzők számára.",
+                  "category": "family",
+                  "coords": [
+                        19.098312,
+                        48.60622
+                  ]
+            },
+            {
+                  "name": "Croc Terrarium Studio & Tropical world",
+                  "text": "Speciális állatkert Kovácsfalván, amely hüllőket és trópusi állatokat mutat be.",
+                  "category": "family",
+                  "coords": [
+                        19.105308,
+                        48.634043
+                  ]
+            },
+            {
+                  "name": "Termálne kúpalisko Sliač",
+                  "text": "Nyilvános termálfürdő Kovácsfalván a meleg vizes kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.164026,
+                        48.611148
                   ]
             }
       ],
@@ -36184,6 +40531,33 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         19.096912,
                         48.611194
                   ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "O piscină pentru copii în Kováčová pentru cei mai mici oaspeți.",
+                  "category": "family",
+                  "coords": [
+                        19.098312,
+                        48.60622
+                  ]
+            },
+            {
+                  "name": "Croc Terrarium Studio & Tropical world",
+                  "text": "O grădină zoologică specializată în Kováčová, care prezintă reptile și animale tropicale.",
+                  "category": "family",
+                  "coords": [
+                        19.105308,
+                        48.634043
+                  ]
+            },
+            {
+                  "name": "Termálne kúpalisko Sliač",
+                  "text": "Baie termală publică în Kováčová pentru relaxare în apă caldă.",
+                  "category": "family",
+                  "coords": [
+                        19.164026,
+                        48.611148
+                  ]
             }
       ],
       "en": [
@@ -36212,6 +40586,33 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         19.096912,
                         48.611194
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "A children's pool in Kováčová for the youngest bathers.",
+                  "category": "family",
+                  "coords": [
+                        19.098312,
+                        48.60622
+                  ]
+            },
+            {
+                  "name": "Croc Terrarium Studio & Tropical world",
+                  "text": "A specialized zoo in Kováčová showcasing reptiles and tropical animals.",
+                  "category": "family",
+                  "coords": [
+                        19.105308,
+                        48.634043
+                  ]
+            },
+            {
+                  "name": "Termálne kúpalisko Sliač",
+                  "text": "A public thermal bath in Kováčová for relaxation in warm water.",
+                  "category": "family",
+                  "coords": [
+                        19.164026,
+                        48.611148
                   ]
             }
       ]

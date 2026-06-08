@@ -184,6 +184,24 @@ export const norwayCitiesV2: POI[] = [
                         7.169824,
                         62.753577
                   ]
+            },
+            {
+                  "name": "Kulpene",
+                  "text": "Genießen Sie ein erfrischendes Bad im Kulpene in Molde.",
+                  "category": "family",
+                  "coords": [
+                        7.168511,
+                        62.751408
+                  ]
+            },
+            {
+                  "name": "Molde sjøbad",
+                  "text": "Genießen Sie ein erfrischendes Bad im Molde sjøbad in Molde.",
+                  "category": "family",
+                  "coords": [
+                        7.163413,
+                        62.736448
+                  ]
             }
       ],
       "hu": [
@@ -365,6 +383,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.169824,
                         62.753577
+                  ]
+            },
+            {
+                  "name": "Kulpene",
+                  "text": "Élvezze a frissítő úszást a Kulpene helyszínén Molde városában.",
+                  "category": "family",
+                  "coords": [
+                        7.168511,
+                        62.751408
+                  ]
+            },
+            {
+                  "name": "Molde sjøbad",
+                  "text": "Élvezze a frissítő úszást a Molde sjøbad helyszínén Molde városában.",
+                  "category": "family",
+                  "coords": [
+                        7.163413,
+                        62.736448
                   ]
             }
       ],
@@ -548,6 +584,24 @@ export const norwayCitiesV2: POI[] = [
                         7.169824,
                         62.753577
                   ]
+            },
+            {
+                  "name": "Kulpene",
+                  "text": "Bucurați-vă de o baie răcoritoare la Kulpene în Molde.",
+                  "category": "family",
+                  "coords": [
+                        7.168511,
+                        62.751408
+                  ]
+            },
+            {
+                  "name": "Molde sjøbad",
+                  "text": "Bucurați-vă de o baie răcoritoare la Molde sjøbad în Molde.",
+                  "category": "family",
+                  "coords": [
+                        7.163413,
+                        62.736448
+                  ]
             }
       ],
       "en": [
@@ -729,6 +783,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.169824,
                         62.753577
+                  ]
+            },
+            {
+                  "name": "Kulpene",
+                  "text": "Enjoy a refreshing swim at Kulpene in Molde.",
+                  "category": "family",
+                  "coords": [
+                        7.168511,
+                        62.751408
+                  ]
+            },
+            {
+                  "name": "Molde sjøbad",
+                  "text": "Enjoy a refreshing swim at Molde sjøbad in Molde.",
+                  "category": "family",
+                  "coords": [
+                        7.163413,
+                        62.736448
                   ]
             }
       ]
@@ -3541,6 +3613,15 @@ export const norwayCitiesV2: POI[] = [
                         10.676832,
                         59.45892
                   ]
+            },
+            {
+                  "name": "Høienhald bad",
+                  "text": "Dieser Badebereich in Moss bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        10.663949,
+                        59.432263
+                  ]
             }
       ],
       "hu": [
@@ -3569,6 +3650,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.676832,
                         59.45892
+                  ]
+            },
+            {
+                  "name": "Høienhald bad",
+                  "text": "Ez a Moss területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.663949,
+                        59.432263
                   ]
             }
       ],
@@ -3599,6 +3689,15 @@ export const norwayCitiesV2: POI[] = [
                         10.676832,
                         59.45892
                   ]
+            },
+            {
+                  "name": "Høienhald bad",
+                  "text": "Această zonă de înot din Moss oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        10.663949,
+                        59.432263
+                  ]
             }
       ],
       "en": [
@@ -3627,6 +3726,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.676832,
                         59.45892
+                  ]
+            },
+            {
+                  "name": "Høienhald bad",
+                  "text": "This swimming area in Moss provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        10.663949,
+                        59.432263
                   ]
             }
       ]
@@ -3694,6 +3802,15 @@ export const norwayCitiesV2: POI[] = [
                         10.148129,
                         59.176162
                   ]
+            },
+            {
+                  "name": "Strømbadet",
+                  "text": "Genießen Sie ein erfrischendes Bad im Strømbadet in Sandefjord.",
+                  "category": "family",
+                  "coords": [
+                        10.224327,
+                        59.125127
+                  ]
             }
       ],
       "hu": [
@@ -3713,6 +3830,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.148129,
                         59.176162
+                  ]
+            },
+            {
+                  "name": "Strømbadet",
+                  "text": "Élvezze a frissítő úszást a Strømbadet helyszínén Sandefjord városában.",
+                  "category": "family",
+                  "coords": [
+                        10.224327,
+                        59.125127
                   ]
             }
       ],
@@ -3734,6 +3860,15 @@ export const norwayCitiesV2: POI[] = [
                         10.148129,
                         59.176162
                   ]
+            },
+            {
+                  "name": "Strømbadet",
+                  "text": "Bucurați-vă de o baie răcoritoare la Strømbadet în Sandefjord.",
+                  "category": "family",
+                  "coords": [
+                        10.224327,
+                        59.125127
+                  ]
             }
       ],
       "en": [
@@ -3753,6 +3888,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.148129,
                         59.176162
+                  ]
+            },
+            {
+                  "name": "Strømbadet",
+                  "text": "Enjoy a refreshing swim at Strømbadet in Sandefjord.",
+                  "category": "family",
+                  "coords": [
+                        10.224327,
+                        59.125127
                   ]
             }
       ]
@@ -3829,6 +3973,15 @@ export const norwayCitiesV2: POI[] = [
                         8.770032,
                         58.453564
                   ]
+            },
+            {
+                  "name": "Arendal gjestehavn svømmebasseng",
+                  "text": "Das Arendal gjestehavn svømmebasseng bietet Schwimmgelegenheit direkt am Hafen von Arendal. Eine attraktive Möglichkeit für Familien, am Wasser aktiv zu sein.",
+                  "category": "family",
+                  "coords": [
+                        8.76282,
+                        58.456773
+                  ]
             }
       ],
       "hu": [
@@ -3857,6 +4010,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         8.770032,
                         58.453564
+                  ]
+            },
+            {
+                  "name": "Arendal gjestehavn svømmebasseng",
+                  "text": "Az Arendal gjestehavn svømmebasseng úszási lehetőséget kínál közvetlenül arendali kikötőnél. Vonzó lehetőség a családoknak a vízparti kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.76282,
+                        58.456773
                   ]
             }
       ],
@@ -3887,6 +4049,15 @@ export const norwayCitiesV2: POI[] = [
                         8.770032,
                         58.453564
                   ]
+            },
+            {
+                  "name": "Arendal gjestehavn svømmebasseng",
+                  "text": "Piscina Arendal gjestehavn oferă posibilitatea de a înota chiar în portul din Arendal. O opțiune atractivă pentru familii de a fi active lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        8.76282,
+                        58.456773
+                  ]
             }
       ],
       "en": [
@@ -3915,6 +4086,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         8.770032,
                         58.453564
+                  ]
+            },
+            {
+                  "name": "Arendal gjestehavn svømmebasseng",
+                  "text": "Arendal gjestehavn svømmebasseng offers swimming facilities right by the Arendal harbor. An attractive option for families to be active by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.76282,
+                        58.456773
                   ]
             }
       ]
@@ -6259,6 +6439,15 @@ export const norwayCitiesV2: POI[] = [
                         10.485174,
                         59.424976
                   ]
+            },
+            {
+                  "name": "Horten Svømmehall",
+                  "text": "Dieser Badebereich in Horten bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        10.478141,
+                        59.414184
+                  ]
             }
       ],
       "hu": [
@@ -6413,6 +6602,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.485174,
                         59.424976
+                  ]
+            },
+            {
+                  "name": "Horten Svømmehall",
+                  "text": "Ez a Horten területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.478141,
+                        59.414184
                   ]
             }
       ],
@@ -6569,6 +6767,15 @@ export const norwayCitiesV2: POI[] = [
                         10.485174,
                         59.424976
                   ]
+            },
+            {
+                  "name": "Horten Svømmehall",
+                  "text": "Această zonă de înot din Horten oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        10.478141,
+                        59.414184
+                  ]
             }
       ],
       "en": [
@@ -6723,6 +6930,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.485174,
                         59.424976
+                  ]
+            },
+            {
+                  "name": "Horten Svømmehall",
+                  "text": "This swimming area in Horten provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        10.478141,
+                        59.414184
                   ]
             }
       ]
@@ -7419,7 +7635,772 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-lillestrom-cities-v2.webp",
   },
   {
-    id: "norway-gjøvik-cities-v2", "sights": {"de": [{"name": "Eiktunet", "text": "Ein Freilichtmuseum in Gjøvik, das regionale Geschichte zeigt.", "category": "museum", "coords": [10.64557, 60.805482]}, {"name": "Kauffeldtgården", "text": "Ein historisches Gebäude und Museum im Zentrum von Gjøvik.", "category": "museum", "coords": [10.691935, 60.795277]}, {"name": "Mustad Bedriftsmuseum", "text": "Ein Industriemuseum in Gjøvik, das der Geschichte der Firma Mustad gewidmet ist.", "category": "museum", "coords": [10.673649, 60.789605]}, {"name": "Gjøvik gård", "text": "Ein historisches Herrenhaus und Museum in Gjøvik.", "category": "museum", "coords": [10.691703, 60.793187]}, {"name": "Vitensenteret Innlandet", "text": "Ein interaktives Wissenschaftszentrum für Besucher in Gjøvik.", "category": "museum", "coords": [10.688956, 60.792838]}, {"name": "Hovdetoppen", "text": "Ein bewaldeter Gipfel nahe Gjøvik mit Wanderwegen.", "category": "natural", "coords": [10.676675, 60.794061]}, {"name": "Bergstoppen", "text": "Hoch über der Stadt bietet Bergstoppen in Gj Vik ein beeindruckendes Naturerlebnis. Von diesem Aussichtspunkt in Norwegen aus kann man weit über die Region blicken. Reisende sollten ihre Kamera bereithalten, um die weite Landschaft festzuhalten.", "category": "natural", "coords": [10.64451, 60.810593]}, {"name": "Gjøvik kirke", "text": "Die Hauptkirche der Stadt Gjøvik.", "category": "religious", "coords": [10.687758, 60.798041]}, {"name": "Kallerud bru", "text": "Eine Brücke in Gjøvik.", "category": "landmark", "coords": [10.668261, 60.787373]}, {"name": "Engbrua", "text": "Eine lokale Brückenkonstruktion in Gjøvik.", "category": "landmark", "coords": [10.666681, 60.788589]}, {"name": "Hunn kirke", "text": "Eine moderne Kirche im Stadtteil Hunn in Gjøvik.", "category": "religious", "coords": [10.65681, 60.793895]}, {"name": "Engehaugen kirke", "text": "Eine im 20. Jahrhundert erbaut Kirche in Gjøvik.", "category": "religious", "coords": [10.669387, 60.773812]}, {"name": "Rambekkvika", "text": "Ein Badeplatz am Ufer des Mjøsa-Sees in Gjøvik.", "category": "landmark", "coords": [10.703102, 60.781829]}], "hu": [{"name": "Eiktunet", "text": "Szabadtéri múzeum Gjøvikben, amely a regionális történelmet mutatja be.", "category": "museum", "coords": [10.64557, 60.805482]}, {"name": "Kauffeldtgården", "text": "Történelmi épület és múzeum Gjøvik központjában.", "category": "museum", "coords": [10.691935, 60.795277]}, {"name": "Mustad Bedriftsmuseum", "text": "Ipari múzeum Gjøvikben, amely a Mustad cég történetét mutatja be.", "category": "museum", "coords": [10.673649, 60.789605]}, {"name": "Gjøvik gård", "text": "Történelmi udvarház és múzeum Gjøvikben.", "category": "museum", "coords": [10.691703, 60.793187]}, {"name": "Vitensenteret Innlandet", "text": "Interaktív tudományos központ látogatók számára Gjøvikben.", "category": "museum", "coords": [10.688956, 60.792838]}, {"name": "Hovdetoppen", "text": "Erdős hegycsúcs Gjøvik közelében túraútvonalakkal.", "category": "natural", "coords": [10.676675, 60.794061]}, {"name": "Bergstoppen", "text": "A város felett magasodó Bergstoppen lenyűgöző természeti élményt nyújt Gj Vik területén. Ebből a norvégiai kilátóból széles panoráma nyílik a régióra. Az utazóknak érdemes előkészíteniük fényképezőgépeiket a tágas táj megörökítéséhez.", "category": "natural", "coords": [10.64451, 60.810593]}, {"name": "Gjøvik kirke", "text": "Gjøvik városának főtemploma.", "category": "religious", "coords": [10.687758, 60.798041]}, {"name": "Kallerud bru", "text": "Egy híd Gjøvikben.", "category": "landmark", "coords": [10.668261, 60.787373]}, {"name": "Engbrua", "text": "Helyi híd Gjøvikben.", "category": "landmark", "coords": [10.666681, 60.788589]}, {"name": "Hunn kirke", "text": "Modern templom Gjøvik Hunn negyedében.", "category": "religious", "coords": [10.65681, 60.793895]}, {"name": "Engehaugen kirke", "text": "A 20. században épült templom Gjøvikben.", "category": "religious", "coords": [10.669387, 60.773812]}, {"name": "Rambekkvika", "text": "Fürdőhely a Mjøsa-tó partján Gjøvikben.", "category": "landmark", "coords": [10.703102, 60.781829]}], "ro": [{"name": "Eiktunet", "text": "Un muzeu în aer liber din Gjøvik, care prezintă istoria regională.", "category": "museum", "coords": [10.64557, 60.805482]}, {"name": "Kauffeldtgården", "text": "O clădire istorică și muzeu în centrul orașului Gjøvik.", "category": "museum", "coords": [10.691935, 60.795277]}, {"name": "Mustad Bedriftsmuseum", "text": "Un muzeu industrial din Gjøvik, dedicat istoriei companiei Mustad.", "category": "museum", "coords": [10.673649, 60.789605]}, {"name": "Gjøvik gård", "text": "Un conac istoric și muzeu în Gjøvik.", "category": "museum", "coords": [10.691703, 60.793187]}, {"name": "Vitensenteret Innlandet", "text": "Un centru științific interactiv pentru vizitatori în Gjøvik.", "category": "museum", "coords": [10.688956, 60.792838]}, {"name": "Hovdetoppen", "text": "Un vârf împădurit lângă Gjøvik, cu trasee de drumeție.", "category": "natural", "coords": [10.676675, 60.794061]}, {"name": "Bergstoppen", "text": "Situat deasupra orașului, Bergstoppen din Gj Vik oferă o experiență naturală impresionantă. De la acest punct de belvedere din Norvegia, privirea se poate extinde peste întreaga regiune. Călătorii ar trebui să aibă aparatele foto pregătite pentru a surprinde peisajul vast.", "category": "natural", "coords": [10.64451, 60.810593]}, {"name": "Gjøvik kirke", "text": "Biserica principală a orașului Gjøvik.", "category": "religious", "coords": [10.687758, 60.798041]}, {"name": "Kallerud bru", "text": "Un pod în Gjøvik.", "category": "landmark", "coords": [10.668261, 60.787373]}, {"name": "Engbrua", "text": "O construcție locală de pod în Gjøvik.", "category": "landmark", "coords": [10.666681, 60.788589]}, {"name": "Hunn kirke", "text": "O biserică modernă în cartierul Hunn din Gjøvik.", "category": "religious", "coords": [10.65681, 60.793895]}, {"name": "Engehaugen kirke", "text": "O biserică construită în secolul al XX-lea în Gjøvik.", "category": "religious", "coords": [10.669387, 60.773812]}, {"name": "Rambekkvika", "text": "Un loc de scăldat pe malul lacului Mjøsa în Gjøvik.", "category": "landmark", "coords": [10.703102, 60.781829]}], "en": [{"name": "Eiktunet", "text": "An open-air museum in Gjøvik showcasing regional history.", "category": "museum", "coords": [10.64557, 60.805482]}, {"name": "Kauffeldtgården", "text": "A historic building and museum in the center of Gjøvik.", "category": "museum", "coords": [10.691935, 60.795277]}, {"name": "Mustad Bedriftsmuseum", "text": "An industrial museum in Gjøvik dedicated to the history of the Mustad company.", "category": "museum", "coords": [10.673649, 60.789605]}, {"name": "Gjøvik gård", "text": "A historic manor house and museum in Gjøvik.", "category": "museum", "coords": [10.691703, 60.793187]}, {"name": "Vitensenteret Innlandet", "text": "An interactive science center for visitors in Gjøvik.", "category": "museum", "coords": [10.688956, 60.792838]}, {"name": "Hovdetoppen", "text": "A forested peak near Gjøvik with hiking trails.", "category": "natural", "coords": [10.676675, 60.794061]}, {"name": "Bergstoppen", "text": "Set high above the town, Bergstoppen in Gj Vik offers an impressive natural experience. From this viewpoint in Norway, one can gaze far across the region. Travelers should have their cameras ready to capture the expansive landscape.", "category": "natural", "coords": [10.64451, 60.810593]}, {"name": "Gjøvik kirke", "text": "The main church of the city of Gjøvik.", "category": "religious", "coords": [10.687758, 60.798041]}, {"name": "Kallerud bru", "text": "A bridge located in Gjøvik.", "category": "landmark", "coords": [10.668261, 60.787373]}, {"name": "Engbrua", "text": "A local bridge structure in Gjøvik.", "category": "landmark", "coords": [10.666681, 60.788589]}, {"name": "Hunn kirke", "text": "A modern church in the Hunn district of Gjøvik.", "category": "religious", "coords": [10.65681, 60.793895]}, {"name": "Engehaugen kirke", "text": "A church built in the 20th century in Gjøvik.", "category": "religious", "coords": [10.669387, 60.773812]}, {"name": "Rambekkvika", "text": "A bathing area on the shores of Lake Mjøsa in Gjøvik.", "category": "landmark", "coords": [10.703102, 60.781829]}]},
+    id: "norway-gjøvik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eiktunet",
+                  "text": "Ein Freilichtmuseum in Gjøvik, das regionale Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.64557,
+                        60.805482
+                  ]
+            },
+            {
+                  "name": "Kauffeldtgården",
+                  "text": "Ein historisches Gebäude und Museum im Zentrum von Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691935,
+                        60.795277
+                  ]
+            },
+            {
+                  "name": "Mustad Bedriftsmuseum",
+                  "text": "Ein Industriemuseum in Gjøvik, das der Geschichte der Firma Mustad gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.673649,
+                        60.789605
+                  ]
+            },
+            {
+                  "name": "Gjøvik gård",
+                  "text": "Ein historisches Herrenhaus und Museum in Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691703,
+                        60.793187
+                  ]
+            },
+            {
+                  "name": "Vitensenteret Innlandet",
+                  "text": "Ein interaktives Wissenschaftszentrum für Besucher in Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.688956,
+                        60.792838
+                  ]
+            },
+            {
+                  "name": "Hovdetoppen",
+                  "text": "Ein bewaldeter Gipfel nahe Gjøvik mit Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        10.676675,
+                        60.794061
+                  ]
+            },
+            {
+                  "name": "Bergstoppen",
+                  "text": "Hoch über der Stadt bietet Bergstoppen in Gj Vik ein beeindruckendes Naturerlebnis. Von diesem Aussichtspunkt in Norwegen aus kann man weit über die Region blicken. Reisende sollten ihre Kamera bereithalten, um die weite Landschaft festzuhalten.",
+                  "category": "natural",
+                  "coords": [
+                        10.64451,
+                        60.810593
+                  ]
+            },
+            {
+                  "name": "Gjøvik kirke",
+                  "text": "Die Hauptkirche der Stadt Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.687758,
+                        60.798041
+                  ]
+            },
+            {
+                  "name": "Kallerud bru",
+                  "text": "Eine Brücke in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.668261,
+                        60.787373
+                  ]
+            },
+            {
+                  "name": "Engbrua",
+                  "text": "Eine lokale Brückenkonstruktion in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.666681,
+                        60.788589
+                  ]
+            },
+            {
+                  "name": "Hunn kirke",
+                  "text": "Eine moderne Kirche im Stadtteil Hunn in Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.65681,
+                        60.793895
+                  ]
+            },
+            {
+                  "name": "Engehaugen kirke",
+                  "text": "Eine im 20. Jahrhundert erbaut Kirche in Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.669387,
+                        60.773812
+                  ]
+            },
+            {
+                  "name": "Rambekkvika",
+                  "text": "Ein Badeplatz am Ufer des Mjøsa-Sees in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.703102,
+                        60.781829
+                  ]
+            },
+            {
+                  "name": "Otium Spa",
+                  "text": "Ein Spa in Gj Vik, das Entspannung für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.694769,
+                        60.794394
+                  ]
+            },
+            {
+                  "name": "Hovdetjernet",
+                  "text": "Ein Schwimmbad in Gj Vik, ideal für Familienspaß und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        10.675023,
+                        60.797965
+                  ]
+            },
+            {
+                  "name": "Smedstua Badeplass",
+                  "text": "Ein Badeplatz in Gj Vik, perfekt um das Wasser und die Landschaft zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        10.746157,
+                        60.79469
+                  ]
+            },
+            {
+                  "name": "Tangnesodden Badeplass",
+                  "text": "Ein Badeplatz in Gj Vik, der zum Schwimmen und Verweilen in der Natur einlädt.",
+                  "category": "family",
+                  "coords": [
+                        10.720398,
+                        60.817974
+                  ]
+            },
+            {
+                  "name": "Bråstad Badeplass",
+                  "text": "Ein Badeplatz in Gj Vik, ideal für einen Ausflug ans Wasser.",
+                  "category": "family",
+                  "coords": [
+                        10.678805,
+                        60.820974
+                  ]
+            },
+            {
+                  "name": "Fredvika Badeplass",
+                  "text": "Ein Badeplatz in Gj Vik, der Möglichkeiten zum Schwimmen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.702037,
+                        60.789254
+                  ]
+            },
+            {
+                  "name": "Vindingstad Badeplass",
+                  "text": "Ein Badeplatz in Gj Vik, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        10.714197,
+                        60.773159
+                  ]
+            },
+            {
+                  "name": "Fristranda Badeplass",
+                  "text": "Ein Badeplatz in Gj Vik, der zum Baden und Genießen der Aussicht einlädt.",
+                  "category": "family",
+                  "coords": [
+                        10.679279,
+                        60.822582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eiktunet",
+                  "text": "Szabadtéri múzeum Gjøvikben, amely a regionális történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.64557,
+                        60.805482
+                  ]
+            },
+            {
+                  "name": "Kauffeldtgården",
+                  "text": "Történelmi épület és múzeum Gjøvik központjában.",
+                  "category": "museum",
+                  "coords": [
+                        10.691935,
+                        60.795277
+                  ]
+            },
+            {
+                  "name": "Mustad Bedriftsmuseum",
+                  "text": "Ipari múzeum Gjøvikben, amely a Mustad cég történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.673649,
+                        60.789605
+                  ]
+            },
+            {
+                  "name": "Gjøvik gård",
+                  "text": "Történelmi udvarház és múzeum Gjøvikben.",
+                  "category": "museum",
+                  "coords": [
+                        10.691703,
+                        60.793187
+                  ]
+            },
+            {
+                  "name": "Vitensenteret Innlandet",
+                  "text": "Interaktív tudományos központ látogatók számára Gjøvikben.",
+                  "category": "museum",
+                  "coords": [
+                        10.688956,
+                        60.792838
+                  ]
+            },
+            {
+                  "name": "Hovdetoppen",
+                  "text": "Erdős hegycsúcs Gjøvik közelében túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        10.676675,
+                        60.794061
+                  ]
+            },
+            {
+                  "name": "Bergstoppen",
+                  "text": "A város felett magasodó Bergstoppen lenyűgöző természeti élményt nyújt Gj Vik területén. Ebből a norvégiai kilátóból széles panoráma nyílik a régióra. Az utazóknak érdemes előkészíteniük fényképezőgépeiket a tágas táj megörökítéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        10.64451,
+                        60.810593
+                  ]
+            },
+            {
+                  "name": "Gjøvik kirke",
+                  "text": "Gjøvik városának főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        10.687758,
+                        60.798041
+                  ]
+            },
+            {
+                  "name": "Kallerud bru",
+                  "text": "Egy híd Gjøvikben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.668261,
+                        60.787373
+                  ]
+            },
+            {
+                  "name": "Engbrua",
+                  "text": "Helyi híd Gjøvikben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.666681,
+                        60.788589
+                  ]
+            },
+            {
+                  "name": "Hunn kirke",
+                  "text": "Modern templom Gjøvik Hunn negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.65681,
+                        60.793895
+                  ]
+            },
+            {
+                  "name": "Engehaugen kirke",
+                  "text": "A 20. században épült templom Gjøvikben.",
+                  "category": "religious",
+                  "coords": [
+                        10.669387,
+                        60.773812
+                  ]
+            },
+            {
+                  "name": "Rambekkvika",
+                  "text": "Fürdőhely a Mjøsa-tó partján Gjøvikben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.703102,
+                        60.781829
+                  ]
+            },
+            {
+                  "name": "Otium Spa",
+                  "text": "Egy spa Gj Vik városában, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        10.694769,
+                        60.794394
+                  ]
+            },
+            {
+                  "name": "Hovdetjernet",
+                  "text": "Egy úszómedence Gj Vik városában, amely ideális családi szórakozáshoz és sporthoz.",
+                  "category": "family",
+                  "coords": [
+                        10.675023,
+                        60.797965
+                  ]
+            },
+            {
+                  "name": "Smedstua Badeplass",
+                  "text": "Egy fürdőhely Gj Vik városában, amely tökéletes a víz és a táj élvezetéhez.",
+                  "category": "family",
+                  "coords": [
+                        10.746157,
+                        60.79469
+                  ]
+            },
+            {
+                  "name": "Tangnesodden Badeplass",
+                  "text": "Egy fürdőhely Gj Vik városában, amely úszásra és a természetben való tartózkodásra invitál.",
+                  "category": "family",
+                  "coords": [
+                        10.720398,
+                        60.817974
+                  ]
+            },
+            {
+                  "name": "Bråstad Badeplass",
+                  "text": "Egy fürdőhely Gj Vik városában, amely ideális egy vízparti kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.678805,
+                        60.820974
+                  ]
+            },
+            {
+                  "name": "Fredvika Badeplass",
+                  "text": "Egy fürdőhely Gj Vik városában, amely úszási és pihenési lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        10.702037,
+                        60.789254
+                  ]
+            },
+            {
+                  "name": "Vindingstad Badeplass",
+                  "text": "Egy fürdőhely Gj Vik városában, tökéletes egy pihentető naphoz a víznél.",
+                  "category": "family",
+                  "coords": [
+                        10.714197,
+                        60.773159
+                  ]
+            },
+            {
+                  "name": "Fristranda Badeplass",
+                  "text": "Egy fürdőhely Gj Vik városában, amely fürdésre és a kilátás élvezetére invitál.",
+                  "category": "family",
+                  "coords": [
+                        10.679279,
+                        60.822582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eiktunet",
+                  "text": "Un muzeu în aer liber din Gjøvik, care prezintă istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        10.64557,
+                        60.805482
+                  ]
+            },
+            {
+                  "name": "Kauffeldtgården",
+                  "text": "O clădire istorică și muzeu în centrul orașului Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691935,
+                        60.795277
+                  ]
+            },
+            {
+                  "name": "Mustad Bedriftsmuseum",
+                  "text": "Un muzeu industrial din Gjøvik, dedicat istoriei companiei Mustad.",
+                  "category": "museum",
+                  "coords": [
+                        10.673649,
+                        60.789605
+                  ]
+            },
+            {
+                  "name": "Gjøvik gård",
+                  "text": "Un conac istoric și muzeu în Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691703,
+                        60.793187
+                  ]
+            },
+            {
+                  "name": "Vitensenteret Innlandet",
+                  "text": "Un centru științific interactiv pentru vizitatori în Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.688956,
+                        60.792838
+                  ]
+            },
+            {
+                  "name": "Hovdetoppen",
+                  "text": "Un vârf împădurit lângă Gjøvik, cu trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        10.676675,
+                        60.794061
+                  ]
+            },
+            {
+                  "name": "Bergstoppen",
+                  "text": "Situat deasupra orașului, Bergstoppen din Gj Vik oferă o experiență naturală impresionantă. De la acest punct de belvedere din Norvegia, privirea se poate extinde peste întreaga regiune. Călătorii ar trebui să aibă aparatele foto pregătite pentru a surprinde peisajul vast.",
+                  "category": "natural",
+                  "coords": [
+                        10.64451,
+                        60.810593
+                  ]
+            },
+            {
+                  "name": "Gjøvik kirke",
+                  "text": "Biserica principală a orașului Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.687758,
+                        60.798041
+                  ]
+            },
+            {
+                  "name": "Kallerud bru",
+                  "text": "Un pod în Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.668261,
+                        60.787373
+                  ]
+            },
+            {
+                  "name": "Engbrua",
+                  "text": "O construcție locală de pod în Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.666681,
+                        60.788589
+                  ]
+            },
+            {
+                  "name": "Hunn kirke",
+                  "text": "O biserică modernă în cartierul Hunn din Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.65681,
+                        60.793895
+                  ]
+            },
+            {
+                  "name": "Engehaugen kirke",
+                  "text": "O biserică construită în secolul al XX-lea în Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.669387,
+                        60.773812
+                  ]
+            },
+            {
+                  "name": "Rambekkvika",
+                  "text": "Un loc de scăldat pe malul lacului Mjøsa în Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.703102,
+                        60.781829
+                  ]
+            },
+            {
+                  "name": "Otium Spa",
+                  "text": "Un centru spa în Gj Vik care oferă relaxare pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        10.694769,
+                        60.794394
+                  ]
+            },
+            {
+                  "name": "Hovdetjernet",
+                  "text": "O piscină în Gj Vik ideală pentru distracție în familie și sport.",
+                  "category": "family",
+                  "coords": [
+                        10.675023,
+                        60.797965
+                  ]
+            },
+            {
+                  "name": "Smedstua Badeplass",
+                  "text": "O zonă de scăldat în Gj Vik, perfectă pentru a vă bucura de apă și peisaj.",
+                  "category": "family",
+                  "coords": [
+                        10.746157,
+                        60.79469
+                  ]
+            },
+            {
+                  "name": "Tangnesodden Badeplass",
+                  "text": "O zonă de scăldat în Gj Vik care vă invită la înot și relaxare în natură.",
+                  "category": "family",
+                  "coords": [
+                        10.720398,
+                        60.817974
+                  ]
+            },
+            {
+                  "name": "Bråstad Badeplass",
+                  "text": "O zonă de scăldat în Gj Vik, ideală pentru o excursie la apă.",
+                  "category": "family",
+                  "coords": [
+                        10.678805,
+                        60.820974
+                  ]
+            },
+            {
+                  "name": "Fredvika Badeplass",
+                  "text": "O zonă de scăldat în Gj Vik care oferă posibilități de înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        10.702037,
+                        60.789254
+                  ]
+            },
+            {
+                  "name": "Vindingstad Badeplass",
+                  "text": "O zonă de scăldat în Gj Vik, perfectă pentru o zi relaxantă la apă.",
+                  "category": "family",
+                  "coords": [
+                        10.714197,
+                        60.773159
+                  ]
+            },
+            {
+                  "name": "Fristranda Badeplass",
+                  "text": "O zonă de scăldat în Gj Vik care vă invită la scăldat și la admirarea priveliștii.",
+                  "category": "family",
+                  "coords": [
+                        10.679279,
+                        60.822582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eiktunet",
+                  "text": "An open-air museum in Gjøvik showcasing regional history.",
+                  "category": "museum",
+                  "coords": [
+                        10.64557,
+                        60.805482
+                  ]
+            },
+            {
+                  "name": "Kauffeldtgården",
+                  "text": "A historic building and museum in the center of Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691935,
+                        60.795277
+                  ]
+            },
+            {
+                  "name": "Mustad Bedriftsmuseum",
+                  "text": "An industrial museum in Gjøvik dedicated to the history of the Mustad company.",
+                  "category": "museum",
+                  "coords": [
+                        10.673649,
+                        60.789605
+                  ]
+            },
+            {
+                  "name": "Gjøvik gård",
+                  "text": "A historic manor house and museum in Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691703,
+                        60.793187
+                  ]
+            },
+            {
+                  "name": "Vitensenteret Innlandet",
+                  "text": "An interactive science center for visitors in Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.688956,
+                        60.792838
+                  ]
+            },
+            {
+                  "name": "Hovdetoppen",
+                  "text": "A forested peak near Gjøvik with hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        10.676675,
+                        60.794061
+                  ]
+            },
+            {
+                  "name": "Bergstoppen",
+                  "text": "Set high above the town, Bergstoppen in Gj Vik offers an impressive natural experience. From this viewpoint in Norway, one can gaze far across the region. Travelers should have their cameras ready to capture the expansive landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.64451,
+                        60.810593
+                  ]
+            },
+            {
+                  "name": "Gjøvik kirke",
+                  "text": "The main church of the city of Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.687758,
+                        60.798041
+                  ]
+            },
+            {
+                  "name": "Kallerud bru",
+                  "text": "A bridge located in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.668261,
+                        60.787373
+                  ]
+            },
+            {
+                  "name": "Engbrua",
+                  "text": "A local bridge structure in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.666681,
+                        60.788589
+                  ]
+            },
+            {
+                  "name": "Hunn kirke",
+                  "text": "A modern church in the Hunn district of Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.65681,
+                        60.793895
+                  ]
+            },
+            {
+                  "name": "Engehaugen kirke",
+                  "text": "A church built in the 20th century in Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.669387,
+                        60.773812
+                  ]
+            },
+            {
+                  "name": "Rambekkvika",
+                  "text": "A bathing area on the shores of Lake Mjøsa in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.703102,
+                        60.781829
+                  ]
+            },
+            {
+                  "name": "Otium Spa",
+                  "text": "A spa in Gj Vik offering relaxation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        10.694769,
+                        60.794394
+                  ]
+            },
+            {
+                  "name": "Hovdetjernet",
+                  "text": "A swimming pool in Gj Vik ideal for family fun and exercise.",
+                  "category": "family",
+                  "coords": [
+                        10.675023,
+                        60.797965
+                  ]
+            },
+            {
+                  "name": "Smedstua Badeplass",
+                  "text": "A swimming area in Gj Vik perfect for enjoying the water and scenery.",
+                  "category": "family",
+                  "coords": [
+                        10.746157,
+                        60.79469
+                  ]
+            },
+            {
+                  "name": "Tangnesodden Badeplass",
+                  "text": "A swimming area in Gj Vik inviting for swimming and spending time in nature.",
+                  "category": "family",
+                  "coords": [
+                        10.720398,
+                        60.817974
+                  ]
+            },
+            {
+                  "name": "Bråstad Badeplass",
+                  "text": "A swimming area in Gj Vik ideal for a trip to the water.",
+                  "category": "family",
+                  "coords": [
+                        10.678805,
+                        60.820974
+                  ]
+            },
+            {
+                  "name": "Fredvika Badeplass",
+                  "text": "A swimming area in Gj Vik offering opportunities for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        10.702037,
+                        60.789254
+                  ]
+            },
+            {
+                  "name": "Vindingstad Badeplass",
+                  "text": "A swimming area in Gj Vik perfect for a relaxing day by the water.",
+                  "category": "family",
+                  "coords": [
+                        10.714197,
+                        60.773159
+                  ]
+            },
+            {
+                  "name": "Fristranda Badeplass",
+                  "text": "A swimming area in Gj Vik inviting for bathing and enjoying the view.",
+                  "category": "family",
+                  "coords": [
+                        10.679279,
+                        60.822582
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Gjøvik", hu: "Gjøvik", ro: "Gjøvik", en: "Gjøvik" },
@@ -7464,7 +8445,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-gjøvik-cities-v2.webp",
   },
   {
-    id: "norway-kongsberg-cities-v2",
+    id: "norway-kongsberg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Svømmehallen",
+                  "text": "Genießen Sie ein erfrischendes Bad im Svømmehallen in Kongsberg.",
+                  "category": "family",
+                  "coords": [
+                        9.642184,
+                        59.671551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Svømmehallen",
+                  "text": "Élvezze a frissítő úszást a Svømmehallen helyszínén Kongsberg városában.",
+                  "category": "family",
+                  "coords": [
+                        9.642184,
+                        59.671551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Svømmehallen",
+                  "text": "Bucurați-vă de o baie răcoritoare la Svømmehallen în Kongsberg.",
+                  "category": "family",
+                  "coords": [
+                        9.642184,
+                        59.671551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svømmehallen",
+                  "text": "Enjoy a refreshing swim at Svømmehallen in Kongsberg.",
+                  "category": "family",
+                  "coords": [
+                        9.642184,
+                        59.671551
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Kongsberg", hu: "Kongsberg", ro: "Kongsberg", en: "Kongsberg" },
@@ -10777,6 +11803,15 @@ export const norwayCitiesV2: POI[] = [
                         6.547904,
                         60.070183
                   ]
+            },
+            {
+                  "name": "Odda folkebad",
+                  "text": "Ein Schwimmbad in Odda, das Spaß für Familien und Schwimmer bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.546111,
+                        60.065729
+                  ]
             }
       ],
       "hu": [
@@ -10832,6 +11867,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.547904,
                         60.070183
+                  ]
+            },
+            {
+                  "name": "Odda folkebad",
+                  "text": "Egy úszómedence Odda városában, amely szórakozást nyújt családoknak és úszóknak.",
+                  "category": "family",
+                  "coords": [
+                        6.546111,
+                        60.065729
                   ]
             }
       ],
@@ -10889,6 +11933,15 @@ export const norwayCitiesV2: POI[] = [
                         6.547904,
                         60.070183
                   ]
+            },
+            {
+                  "name": "Odda folkebad",
+                  "text": "O piscină în Odda care oferă distracție pentru familii și înotători.",
+                  "category": "family",
+                  "coords": [
+                        6.546111,
+                        60.065729
+                  ]
             }
       ],
       "en": [
@@ -10944,6 +11997,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.547904,
                         60.070183
+                  ]
+            },
+            {
+                  "name": "Odda folkebad",
+                  "text": "A swimming pool in Odda offering fun for families and swimmers.",
+                  "category": "family",
+                  "coords": [
+                        6.546111,
+                        60.065729
                   ]
             }
       ]
@@ -11587,6 +12649,15 @@ export const norwayCitiesV2: POI[] = [
                         12.614303,
                         65.963099
                   ]
+            },
+            {
+                  "name": "Sandnessjøen havsbad",
+                  "text": "Ein malerischer Ort zum Schwimmen und Entspannen im Sandnessjøen havsbad in Sandnessj En.",
+                  "category": "family",
+                  "coords": [
+                        12.626134,
+                        65.989091
+                  ]
             }
       ],
       "hu": [
@@ -11624,6 +12695,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         12.614303,
                         65.963099
+                  ]
+            },
+            {
+                  "name": "Sandnessjøen havsbad",
+                  "text": "Festői hely úszáshoz és kikapcsolódáshoz a Sandnessjøen havsbad területén Sandnessj En városában.",
+                  "category": "family",
+                  "coords": [
+                        12.626134,
+                        65.989091
                   ]
             }
       ],
@@ -11663,6 +12743,15 @@ export const norwayCitiesV2: POI[] = [
                         12.614303,
                         65.963099
                   ]
+            },
+            {
+                  "name": "Sandnessjøen havsbad",
+                  "text": "Un loc pitoresc pentru înot și relaxare la Sandnessjøen havsbad în Sandnessj En.",
+                  "category": "family",
+                  "coords": [
+                        12.626134,
+                        65.989091
+                  ]
             }
       ],
       "en": [
@@ -11700,6 +12789,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         12.614303,
                         65.963099
+                  ]
+            },
+            {
+                  "name": "Sandnessjøen havsbad",
+                  "text": "A scenic spot for swimming and relaxation at Sandnessjøen havsbad in Sandnessj En.",
+                  "category": "family",
+                  "coords": [
+                        12.626134,
+                        65.989091
                   ]
             }
       ]
@@ -11748,7 +12846,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-sandnessjoen-cities-v2.webp",
   },
   {
-    id: "norway-vadsø-cities-v2",
+    id: "norway-vadsø-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vadsø svømnmehall",
+                  "text": "Vadsø svømmehall bietet Möglichkeiten für Schwimmen und Wasserspaß in Vadsø. Ein guter Ort für Familien, um drinnen aktiv zu bleiben.",
+                  "category": "family",
+                  "coords": [
+                        29.738778,
+                        70.078092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vadsø svømnmehall",
+                  "text": "A Vadsø svømmehall úszási és vízi szórakozási lehetőséget kínál Vadsø városában. Jó hely a családoknak a benti sportoláshoz.",
+                  "category": "family",
+                  "coords": [
+                        29.738778,
+                        70.078092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vadsø svømnmehall",
+                  "text": "Vadsø svømmehall oferă posibilități pentru înot și distracție în apă în Vadsø. Un loc bun pentru familii de a rămâne active în interior.",
+                  "category": "family",
+                  "coords": [
+                        29.738778,
+                        70.078092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vadsø svømnmehall",
+                  "text": "Vadsø svømmehall provides facilities for swimming and water fun in Vadsø. A good spot for families to stay active indoors.",
+                  "category": "family",
+                  "coords": [
+                        29.738778,
+                        70.078092
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Vadsø", hu: "Vadsø", ro: "Vadsø", en: "Vadsø" },
@@ -11839,6 +12982,15 @@ export const norwayCitiesV2: POI[] = [
                         23.788852,
                         70.659585
                   ]
+            },
+            {
+                  "name": "Breidablikk svømmesbasseng",
+                  "text": "Ein Schwimmbad in Hammerfest, ideal für sportliche Aktivitäten mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        23.685593,
+                        70.634901
+                  ]
             }
       ],
       "hu": [
@@ -11885,6 +13037,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         23.788852,
                         70.659585
+                  ]
+            },
+            {
+                  "name": "Breidablikk svømmesbasseng",
+                  "text": "Egy úszómedence Hammerfest városában, amely ideális családi sporttevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        23.685593,
+                        70.634901
                   ]
             }
       ],
@@ -11933,6 +13094,15 @@ export const norwayCitiesV2: POI[] = [
                         23.788852,
                         70.659585
                   ]
+            },
+            {
+                  "name": "Breidablikk svømmesbasseng",
+                  "text": "O piscină în Hammerfest, ideală pentru activități sportive cu familia.",
+                  "category": "family",
+                  "coords": [
+                        23.685593,
+                        70.634901
+                  ]
             }
       ],
       "en": [
@@ -11979,6 +13149,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         23.788852,
                         70.659585
+                  ]
+            },
+            {
+                  "name": "Breidablikk svømmesbasseng",
+                  "text": "A swimming pool in Hammerfest ideal for sporting activities with the family.",
+                  "category": "family",
+                  "coords": [
+                        23.685593,
+                        70.634901
                   ]
             }
       ]
@@ -12091,6 +13270,15 @@ export const norwayCitiesV2: POI[] = [
                         18.510459,
                         69.045169
                   ]
+            },
+            {
+                  "name": "Polarbadet",
+                  "text": "Polarbadet in Bardufoss ist ein Hallenbad mit verschiedenen Wasserattraktionen für alle Altersgruppen. Ein großartiges Ziel für einen Familientag im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        18.486251,
+                        69.054302
+                  ]
             }
       ],
       "hu": [
@@ -12110,6 +13298,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         18.510459,
                         69.045169
+                  ]
+            },
+            {
+                  "name": "Polarbadet",
+                  "text": "A bardufossi Polarbadet egy fedett uszoda különféle vízi élményekkel minden korosztálynak. Remek úti cél egy családi naphoz a vízben.",
+                  "category": "family",
+                  "coords": [
+                        18.486251,
+                        69.054302
                   ]
             }
       ],
@@ -12131,6 +13328,15 @@ export const norwayCitiesV2: POI[] = [
                         18.510459,
                         69.045169
                   ]
+            },
+            {
+                  "name": "Polarbadet",
+                  "text": "Polarbadet din Bardufoss este o piscină acoperită cu diverse atracții acvatice pentru toate vârstele. O destinație minunată pentru o zi în familie la apă.",
+                  "category": "family",
+                  "coords": [
+                        18.486251,
+                        69.054302
+                  ]
             }
       ],
       "en": [
@@ -12150,6 +13356,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         18.510459,
                         69.045169
+                  ]
+            },
+            {
+                  "name": "Polarbadet",
+                  "text": "Polarbadet in Bardufoss is an indoor swimming pool with various water attractions for all ages. A great destination for a family day in the water.",
+                  "category": "family",
+                  "coords": [
+                        18.486251,
+                        69.054302
                   ]
             }
       ]
@@ -12360,7 +13575,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-finnsnes-cities-v2.webp",
   },
   {
-    id: "norway-harstad-cities-v2",
+    id: "norway-harstad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grottebadet",
+                  "text": "Genießen Sie ein erfrischendes Bad im Grottebadet in Harstad.",
+                  "category": "family",
+                  "coords": [
+                        16.540143,
+                        68.800648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grottebadet",
+                  "text": "Élvezze a frissítő úszást a Grottebadet helyszínén Harstad városában.",
+                  "category": "family",
+                  "coords": [
+                        16.540143,
+                        68.800648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grottebadet",
+                  "text": "Bucurați-vă de o baie răcoritoare la Grottebadet în Harstad.",
+                  "category": "family",
+                  "coords": [
+                        16.540143,
+                        68.800648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grottebadet",
+                  "text": "Enjoy a refreshing swim at Grottebadet in Harstad.",
+                  "category": "family",
+                  "coords": [
+                        16.540143,
+                        68.800648
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Harstad", hu: "Harstad", ro: "Harstad", en: "Harstad" },
@@ -15529,6 +16789,15 @@ export const norwayCitiesV2: POI[] = [
                         9.23335,
                         58.719379
                   ]
+            },
+            {
+                  "name": "Mindalen",
+                  "text": "Ein Badeplatz in Ris R, der zum Schwimmen in einer ruhigen Umgebung einlädt.",
+                  "category": "family",
+                  "coords": [
+                        9.198739,
+                        58.722613
+                  ]
             }
       ],
       "hu": [
@@ -15746,6 +17015,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.23335,
                         58.719379
+                  ]
+            },
+            {
+                  "name": "Mindalen",
+                  "text": "Egy fürdőhely Ris R városában, amely úszásra hív a nyugodt környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.198739,
+                        58.722613
                   ]
             }
       ],
@@ -15965,6 +17243,15 @@ export const norwayCitiesV2: POI[] = [
                         9.23335,
                         58.719379
                   ]
+            },
+            {
+                  "name": "Mindalen",
+                  "text": "O zonă de scăldat în Ris R care invită la înot într-un cadru liniștit.",
+                  "category": "family",
+                  "coords": [
+                        9.198739,
+                        58.722613
+                  ]
             }
       ],
       "en": [
@@ -16182,6 +17469,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.23335,
                         58.719379
+                  ]
+            },
+            {
+                  "name": "Mindalen",
+                  "text": "A swimming area in Ris R inviting for swimming in a peaceful setting.",
+                  "category": "family",
+                  "coords": [
+                        9.198739,
+                        58.722613
                   ]
             }
       ]
@@ -18445,6 +19741,15 @@ export const norwayCitiesV2: POI[] = [
                         7.068605,
                         58.135932
                   ]
+            },
+            {
+                  "name": "Oppfinnerparken",
+                  "text": "Ein Freizeitpark in Lyngdal mit verschiedenen Attraktionen für Kinder und Erwachsene.",
+                  "category": "family",
+                  "coords": [
+                        7.05939,
+                        58.12401
+                  ]
             }
       ],
       "hu": [
@@ -18482,6 +19787,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.068605,
                         58.135932
+                  ]
+            },
+            {
+                  "name": "Oppfinnerparken",
+                  "text": "Egy vidámpark Lyngdal városában különféle látnivalókkal gyerekeknek és felnőtteknek.",
+                  "category": "family",
+                  "coords": [
+                        7.05939,
+                        58.12401
                   ]
             }
       ],
@@ -18521,6 +19835,15 @@ export const norwayCitiesV2: POI[] = [
                         7.068605,
                         58.135932
                   ]
+            },
+            {
+                  "name": "Oppfinnerparken",
+                  "text": "Un parc tematic în Lyngdal cu diverse atracții pentru copii și adulți.",
+                  "category": "family",
+                  "coords": [
+                        7.05939,
+                        58.12401
+                  ]
             }
       ],
       "en": [
@@ -18558,6 +19881,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         7.068605,
                         58.135932
+                  ]
+            },
+            {
+                  "name": "Oppfinnerparken",
+                  "text": "A theme park in Lyngdal with various attractions for children and adults.",
+                  "category": "family",
+                  "coords": [
+                        7.05939,
+                        58.12401
                   ]
             }
       ]
@@ -19093,6 +20425,15 @@ export const norwayCitiesV2: POI[] = [
                         6.988845,
                         60.627978
                   ]
+            },
+            {
+                  "name": "Brakanes skule symjeanlegg",
+                  "text": "Ein Schwimmbad in Ulvik, das Badevergnügen für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.910585,
+                        60.568129
+                  ]
             }
       ],
       "hu": [
@@ -19121,6 +20462,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.988845,
                         60.627978
+                  ]
+            },
+            {
+                  "name": "Brakanes skule symjeanlegg",
+                  "text": "Egy úszómedence Ulvik városában, amely fürdőzési élményt nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        6.910585,
+                        60.568129
                   ]
             }
       ],
@@ -19151,6 +20501,15 @@ export const norwayCitiesV2: POI[] = [
                         6.988845,
                         60.627978
                   ]
+            },
+            {
+                  "name": "Brakanes skule symjeanlegg",
+                  "text": "O piscină în Ulvik care oferă plăcerea scăldatului pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.910585,
+                        60.568129
+                  ]
             }
       ],
       "en": [
@@ -19179,6 +20538,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.988845,
                         60.627978
+                  ]
+            },
+            {
+                  "name": "Brakanes skule symjeanlegg",
+                  "text": "A swimming pool in Ulvik offering bathing fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.910585,
+                        60.568129
                   ]
             }
       ]
@@ -19309,6 +20677,15 @@ export const norwayCitiesV2: POI[] = [
                         6.423747,
                         60.628152
                   ]
+            },
+            {
+                  "name": "Hagahaugen svømmebasseng",
+                  "text": "Genießen Sie ein erfrischendes Bad im Hagahaugen svømmebasseng in Voss.",
+                  "category": "family",
+                  "coords": [
+                        6.422841,
+                        60.638715
+                  ]
             }
       ],
       "hu": [
@@ -19391,6 +20768,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.423747,
                         60.628152
+                  ]
+            },
+            {
+                  "name": "Hagahaugen svømmebasseng",
+                  "text": "Élvezze a frissítő úszást a Hagahaugen svømmebasseng helyszínén Voss városában.",
+                  "category": "family",
+                  "coords": [
+                        6.422841,
+                        60.638715
                   ]
             }
       ],
@@ -19475,6 +20861,15 @@ export const norwayCitiesV2: POI[] = [
                         6.423747,
                         60.628152
                   ]
+            },
+            {
+                  "name": "Hagahaugen svømmebasseng",
+                  "text": "Bucurați-vă de o baie răcoritoare la Hagahaugen svømmebasseng în Voss.",
+                  "category": "family",
+                  "coords": [
+                        6.422841,
+                        60.638715
+                  ]
             }
       ],
       "en": [
@@ -19557,6 +20952,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.423747,
                         60.628152
+                  ]
+            },
+            {
+                  "name": "Hagahaugen svømmebasseng",
+                  "text": "Enjoy a refreshing swim at Hagahaugen svømmebasseng in Voss.",
+                  "category": "family",
+                  "coords": [
+                        6.422841,
+                        60.638715
                   ]
             }
       ]
@@ -20073,7 +21477,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-kopervik-cities-v2.webp",
   },
   {
-    id: "norway-skudeneshavn-cities-v2",
+    id: "norway-skudeneshavn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bade-Oleanas bybad",
+                  "text": "Genießen Sie ein erfrischendes Bad im Bade-Oleanas bybad in Skudeneshavn.",
+                  "category": "family",
+                  "coords": [
+                        5.258299,
+                        59.149101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bade-Oleanas bybad",
+                  "text": "Élvezze a frissítő úszást a Bade-Oleanas bybad helyszínén Skudeneshavn városában.",
+                  "category": "family",
+                  "coords": [
+                        5.258299,
+                        59.149101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bade-Oleanas bybad",
+                  "text": "Bucurați-vă de o baie răcoritoare la Bade-Oleanas bybad în Skudeneshavn.",
+                  "category": "family",
+                  "coords": [
+                        5.258299,
+                        59.149101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bade-Oleanas bybad",
+                  "text": "Enjoy a refreshing swim at Bade-Oleanas bybad in Skudeneshavn.",
+                  "category": "family",
+                  "coords": [
+                        5.258299,
+                        59.149101
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Skudeneshavn", hu: "Skudeneshavn", ro: "Skudeneshavn", en: "Skudeneshavn" },
@@ -24214,6 +25663,15 @@ export const norwayCitiesV2: POI[] = [
                         5.480933,
                         59.583201
                   ]
+            },
+            {
+                  "name": "Sveio skule, symjebasseng",
+                  "text": "Ein Schwimmbad in Sveio, ideal für Familienausflüge und zum Schwimmenlernen.",
+                  "category": "family",
+                  "coords": [
+                        5.358372,
+                        59.544294
+                  ]
             }
       ],
       "hu": [
@@ -24242,6 +25700,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.480933,
                         59.583201
+                  ]
+            },
+            {
+                  "name": "Sveio skule, symjebasseng",
+                  "text": "Egy úszómedence Sveio városában, ideális családi kirándulásokhoz és úszástanuláshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.358372,
+                        59.544294
                   ]
             }
       ],
@@ -24272,6 +25739,15 @@ export const norwayCitiesV2: POI[] = [
                         5.480933,
                         59.583201
                   ]
+            },
+            {
+                  "name": "Sveio skule, symjebasseng",
+                  "text": "O piscină în Sveio, ideală pentru excursii în familie și pentru învățarea înotului.",
+                  "category": "family",
+                  "coords": [
+                        5.358372,
+                        59.544294
+                  ]
             }
       ],
       "en": [
@@ -24300,6 +25776,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.480933,
                         59.583201
+                  ]
+            },
+            {
+                  "name": "Sveio skule, symjebasseng",
+                  "text": "A swimming pool in Sveio ideal for family outings and learning to swim.",
+                  "category": "family",
+                  "coords": [
+                        5.358372,
+                        59.544294
                   ]
             }
       ]
@@ -24394,6 +25879,15 @@ export const norwayCitiesV2: POI[] = [
                         6.084646,
                         59.702551
                   ]
+            },
+            {
+                  "name": "Enge skule svømmebasseng",
+                  "text": "Genießen Sie ein erfrischendes Bad im Enge skule svømmebasseng in Etne.",
+                  "category": "family",
+                  "coords": [
+                        5.941657,
+                        59.666824
+                  ]
             }
       ],
       "hu": [
@@ -24440,6 +25934,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.084646,
                         59.702551
+                  ]
+            },
+            {
+                  "name": "Enge skule svømmebasseng",
+                  "text": "Élvezze a frissítő úszást a Enge skule svømmebasseng helyszínén Etne városában.",
+                  "category": "family",
+                  "coords": [
+                        5.941657,
+                        59.666824
                   ]
             }
       ],
@@ -24488,6 +25991,15 @@ export const norwayCitiesV2: POI[] = [
                         6.084646,
                         59.702551
                   ]
+            },
+            {
+                  "name": "Enge skule svømmebasseng",
+                  "text": "Bucurați-vă de o baie răcoritoare la Enge skule svømmebasseng în Etne.",
+                  "category": "family",
+                  "coords": [
+                        5.941657,
+                        59.666824
+                  ]
             }
       ],
       "en": [
@@ -24534,6 +26046,15 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.084646,
                         59.702551
+                  ]
+            },
+            {
+                  "name": "Enge skule svømmebasseng",
+                  "text": "Enjoy a refreshing swim at Enge skule svømmebasseng in Etne.",
+                  "category": "family",
+                  "coords": [
+                        5.941657,
+                        59.666824
                   ]
             }
       ]
@@ -24862,6 +26383,24 @@ export const norwayCitiesV2: POI[] = [
                         6.081642,
                         60.033561
                   ]
+            },
+            {
+                  "name": "Rosendal ungdomsskule - Rosendal symjehall",
+                  "text": "Ein Schwimmbad in Rosendal für sportliche Betätigung und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        6.009698,
+                        59.983641
+                  ]
+            },
+            {
+                  "name": "Røyneholm",
+                  "text": "Ein Badeplatz in Rosendal, perfekt für eine Abkühlung an warmen Tagen.",
+                  "category": "family",
+                  "coords": [
+                        5.984981,
+                        60.003683
+                  ]
             }
       ],
       "hu": [
@@ -24908,6 +26447,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.081642,
                         60.033561
+                  ]
+            },
+            {
+                  "name": "Rosendal ungdomsskule - Rosendal symjehall",
+                  "text": "Egy úszómedence Rosendal városában sportoláshoz és családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.009698,
+                        59.983641
+                  ]
+            },
+            {
+                  "name": "Røyneholm",
+                  "text": "Egy fürdőhely Rosendal városában, tökéletes a felfrissüléshez a meleg napokon.",
+                  "category": "family",
+                  "coords": [
+                        5.984981,
+                        60.003683
                   ]
             }
       ],
@@ -24956,6 +26513,24 @@ export const norwayCitiesV2: POI[] = [
                         6.081642,
                         60.033561
                   ]
+            },
+            {
+                  "name": "Rosendal ungdomsskule - Rosendal symjehall",
+                  "text": "O piscină în Rosendal pentru activități sportive și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.009698,
+                        59.983641
+                  ]
+            },
+            {
+                  "name": "Røyneholm",
+                  "text": "O zonă de scăldat în Rosendal, perfectă pentru răcorire în zilele calde.",
+                  "category": "family",
+                  "coords": [
+                        5.984981,
+                        60.003683
+                  ]
             }
       ],
       "en": [
@@ -25002,6 +26577,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.081642,
                         60.033561
+                  ]
+            },
+            {
+                  "name": "Rosendal ungdomsskule - Rosendal symjehall",
+                  "text": "A swimming pool in Rosendal for sporting activities and family fun.",
+                  "category": "family",
+                  "coords": [
+                        6.009698,
+                        59.983641
+                  ]
+            },
+            {
+                  "name": "Røyneholm",
+                  "text": "A swimming area in Rosendal perfect for cooling off on warm days.",
+                  "category": "family",
+                  "coords": [
+                        5.984981,
+                        60.003683
                   ]
             }
       ]
@@ -25087,6 +26680,24 @@ export const norwayCitiesV2: POI[] = [
                         5.774037,
                         59.832723
                   ]
+            },
+            {
+                  "name": "Undarheim skule, Husnes symjebasseng",
+                  "text": "Genießen Sie ein erfrischendes Bad im Undarheim skule, Husnes symjebasseng in Husnes.",
+                  "category": "family",
+                  "coords": [
+                        5.744665,
+                        59.852508
+                  ]
+            },
+            {
+                  "name": "Husnestunet bu- og rehabiliteringssenter, varmtvassbasseng",
+                  "text": "Genießen Sie ein erfrischendes Bad im Husnestunet bu- og rehabiliteringssenter, varmtvassbasseng in Husnes.",
+                  "category": "family",
+                  "coords": [
+                        5.744341,
+                        59.854709
+                  ]
             }
       ],
       "hu": [
@@ -25124,6 +26735,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.774037,
                         59.832723
+                  ]
+            },
+            {
+                  "name": "Undarheim skule, Husnes symjebasseng",
+                  "text": "Élvezze a frissítő úszást a Undarheim skule, Husnes symjebasseng helyszínén Husnes városában.",
+                  "category": "family",
+                  "coords": [
+                        5.744665,
+                        59.852508
+                  ]
+            },
+            {
+                  "name": "Husnestunet bu- og rehabiliteringssenter, varmtvassbasseng",
+                  "text": "Élvezze a frissítő úszást a Husnestunet bu- og rehabiliteringssenter, varmtvassbasseng helyszínén Husnes városában.",
+                  "category": "family",
+                  "coords": [
+                        5.744341,
+                        59.854709
                   ]
             }
       ],
@@ -25163,6 +26792,24 @@ export const norwayCitiesV2: POI[] = [
                         5.774037,
                         59.832723
                   ]
+            },
+            {
+                  "name": "Undarheim skule, Husnes symjebasseng",
+                  "text": "Bucurați-vă de o baie răcoritoare la Undarheim skule, Husnes symjebasseng în Husnes.",
+                  "category": "family",
+                  "coords": [
+                        5.744665,
+                        59.852508
+                  ]
+            },
+            {
+                  "name": "Husnestunet bu- og rehabiliteringssenter, varmtvassbasseng",
+                  "text": "Bucurați-vă de o baie răcoritoare la Husnestunet bu- og rehabiliteringssenter, varmtvassbasseng în Husnes.",
+                  "category": "family",
+                  "coords": [
+                        5.744341,
+                        59.854709
+                  ]
             }
       ],
       "en": [
@@ -25200,6 +26847,24 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.774037,
                         59.832723
+                  ]
+            },
+            {
+                  "name": "Undarheim skule, Husnes symjebasseng",
+                  "text": "Enjoy a refreshing swim at Undarheim skule, Husnes symjebasseng in Husnes.",
+                  "category": "family",
+                  "coords": [
+                        5.744665,
+                        59.852508
+                  ]
+            },
+            {
+                  "name": "Husnestunet bu- og rehabiliteringssenter, varmtvassbasseng",
+                  "text": "Enjoy a refreshing swim at Husnestunet bu- og rehabiliteringssenter, varmtvassbasseng in Husnes.",
+                  "category": "family",
+                  "coords": [
+                        5.744341,
+                        59.854709
                   ]
             }
       ]

@@ -652,6 +652,78 @@ export const poiExtraPortugalCities: POI[] = [
                         -9.156688,
                         38.722197
                   ]
+            },
+            {
+                  "name": "Fábrica 22",
+                  "text": "Ein Freizeitpark in Lissabon mit modernen Unterhaltungsangeboten.",
+                  "category": "family",
+                  "coords": [
+                        -9.14233,
+                        38.756778
+                  ]
+            },
+            {
+                  "name": "piscina publica da freguesia",
+                  "text": "Ein öffentliches Schwimmbad in Lissabon für die Bewohner des Stadtteils.",
+                  "category": "family",
+                  "coords": [
+                        -9.130589,
+                        38.730257
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten von Lissabon",
+                  "text": "Der Zoo von Lissabon beherbergt eine große Vielfalt an Tieren.",
+                  "category": "family",
+                  "coords": [
+                        -9.171481,
+                        38.745358
+                  ]
+            },
+            {
+                  "name": "Baía dos Golfinhos",
+                  "text": "Ein Schwimmbad in Lissabon, das zur Erfrischung einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -9.170955,
+                        38.742587
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal do Casal Vistoso",
+                  "text": "Ein städtisches Schwimmbad in Lissabon für sportliches Training.",
+                  "category": "family",
+                  "coords": [
+                        -9.129056,
+                        38.742709
+                  ]
+            },
+            {
+                  "name": "Piscina de Campo de Ourique",
+                  "text": "Ein lokales Schwimmbad im Viertel Campo de Ourique in Lissabon.",
+                  "category": "family",
+                  "coords": [
+                        -9.170933,
+                        38.718013
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal do Rego",
+                  "text": "Ein öffentliches Schwimmbad in Lissabon für die Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        -9.160342,
+                        38.742116
+                  ]
+            },
+            {
+                  "name": "Piscinas CNN",
+                  "text": "Schwimmbäder in Lissabon, die Möglichkeiten zum Baden bieten.",
+                  "category": "family",
+                  "coords": [
+                        -9.156047,
+                        38.716072
+                  ]
             }
       ],
       "hu": [
@@ -1301,6 +1373,78 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -9.156688,
                         38.722197
+                  ]
+            },
+            {
+                  "name": "Fábrica 22",
+                  "text": "Vidámpark Lisszabonban modern szórakozási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        -9.14233,
+                        38.756778
+                  ]
+            },
+            {
+                  "name": "piscina publica da freguesia",
+                  "text": "Nyilvános úszómedence Lisszabonban a környék lakói számára.",
+                  "category": "family",
+                  "coords": [
+                        -9.130589,
+                        38.730257
+                  ]
+            },
+            {
+                  "name": "Jardim Zoológico de Lisboa",
+                  "text": "A lisszaboni állatkert az állatok széles választékának ad otthont.",
+                  "category": "family",
+                  "coords": [
+                        -9.171481,
+                        38.745358
+                  ]
+            },
+            {
+                  "name": "Baía dos Golfinhos",
+                  "text": "Úszómedence Lisszabonban, amely felfrissülésre csábít.",
+                  "category": "family",
+                  "coords": [
+                        -9.170955,
+                        38.742587
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal do Casal Vistoso",
+                  "text": "Városi úszómedence Lisszabonban sportolási célokra.",
+                  "category": "family",
+                  "coords": [
+                        -9.129056,
+                        38.742709
+                  ]
+            },
+            {
+                  "name": "Piscina de Campo de Ourique",
+                  "text": "Helyi úszómedence Lisszabon Campo de Ourique negyedében.",
+                  "category": "family",
+                  "coords": [
+                        -9.170933,
+                        38.718013
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal do Rego",
+                  "text": "Nyilvános úszómedence Lisszabonban a szabadidő eltöltéséhez.",
+                  "category": "family",
+                  "coords": [
+                        -9.160342,
+                        38.742116
+                  ]
+            },
+            {
+                  "name": "Piscinas CNN",
+                  "text": "Úszómedencék Lisszabonban, amelyek fürdőzési lehetőséget kínálnak.",
+                  "category": "family",
+                  "coords": [
+                        -9.156047,
+                        38.716072
                   ]
             }
       ],
@@ -1952,6 +2096,78 @@ export const poiExtraPortugalCities: POI[] = [
                         -9.156688,
                         38.722197
                   ]
+            },
+            {
+                  "name": "Fábrica 22",
+                  "text": "Un parc de distracții în Lisabona cu opțiuni moderne de divertisment.",
+                  "category": "family",
+                  "coords": [
+                        -9.14233,
+                        38.756778
+                  ]
+            },
+            {
+                  "name": "piscina publica da freguesia",
+                  "text": "O piscină publică în Lisabona pentru locuitorii cartierului.",
+                  "category": "family",
+                  "coords": [
+                        -9.130589,
+                        38.730257
+                  ]
+            },
+            {
+                  "name": "Jardim Zoológico de Lisboa",
+                  "text": "Grădina zoologică din Lisabona găzduiește o mare varietate de animale.",
+                  "category": "family",
+                  "coords": [
+                        -9.171481,
+                        38.745358
+                  ]
+            },
+            {
+                  "name": "Baía dos Golfinhos",
+                  "text": "O piscină în Lisabona care invită la răcorire.",
+                  "category": "family",
+                  "coords": [
+                        -9.170955,
+                        38.742587
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal do Casal Vistoso",
+                  "text": "O piscină municipală în Lisabona pentru antrenamente sportive.",
+                  "category": "family",
+                  "coords": [
+                        -9.129056,
+                        38.742709
+                  ]
+            },
+            {
+                  "name": "Piscina de Campo de Ourique",
+                  "text": "O piscină locală în cartierul Campo de Ourique din Lisabona.",
+                  "category": "family",
+                  "coords": [
+                        -9.170933,
+                        38.718013
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal do Rego",
+                  "text": "O piscină publică în Lisabona pentru petrecerea timpului liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.160342,
+                        38.742116
+                  ]
+            },
+            {
+                  "name": "Piscinas CNN",
+                  "text": "Piscine în Lisabona care oferă opțiuni pentru scăldat.",
+                  "category": "family",
+                  "coords": [
+                        -9.156047,
+                        38.716072
+                  ]
             }
       ],
       "en": [
@@ -2601,6 +2817,78 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -9.156688,
                         38.722197
+                  ]
+            },
+            {
+                  "name": "Fábrica 22",
+                  "text": "A theme park in Lisbon with modern entertainment options.",
+                  "category": "family",
+                  "coords": [
+                        -9.14233,
+                        38.756778
+                  ]
+            },
+            {
+                  "name": "piscina publica da freguesia",
+                  "text": "A public swimming pool in Lisbon for district residents.",
+                  "category": "family",
+                  "coords": [
+                        -9.130589,
+                        38.730257
+                  ]
+            },
+            {
+                  "name": "Jardim Zoológico de Lisboa",
+                  "text": "The Lisbon Zoo is home to a wide variety of animals.",
+                  "category": "family",
+                  "coords": [
+                        -9.171481,
+                        38.745358
+                  ]
+            },
+            {
+                  "name": "Dolphin's Bay",
+                  "text": "A swimming pool in Lisbon inviting refreshment.",
+                  "category": "family",
+                  "coords": [
+                        -9.170955,
+                        38.742587
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal do Casal Vistoso",
+                  "text": "A municipal swimming pool in Lisbon for sports training.",
+                  "category": "family",
+                  "coords": [
+                        -9.129056,
+                        38.742709
+                  ]
+            },
+            {
+                  "name": "Piscina de Campo de Ourique",
+                  "text": "A local swimming pool in the Campo de Ourique district of Lisbon.",
+                  "category": "family",
+                  "coords": [
+                        -9.170933,
+                        38.718013
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal do Rego",
+                  "text": "A public swimming pool in Lisbon for leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        -9.160342,
+                        38.742116
+                  ]
+            },
+            {
+                  "name": "Piscinas CNN",
+                  "text": "Swimming pools in Lisbon providing options for bathing.",
+                  "category": "family",
+                  "coords": [
+                        -9.156047,
+                        38.716072
                   ]
             }
       ]

@@ -1007,6 +1007,33 @@ export const kosovoPois: POI[] = [
                         20.722661,
                         42.216583
                   ]
+            },
+            {
+                  "name": "Pishina AQUA",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Prizren.",
+                  "category": "family",
+                  "coords": [
+                        20.714402,
+                        42.225592
+                  ]
+            },
+            {
+                  "name": "Kopshti Zoologjik \"Shqiponja\"",
+                  "text": "Ein Ziel, um Tiere zu beobachten und die Natur in Prizren zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        20.700197,
+                        42.202664
+                  ]
+            },
+            {
+                  "name": "Pishina Gold Pool Club",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Prizren.",
+                  "category": "family",
+                  "coords": [
+                        20.726485,
+                        42.233786
+                  ]
             }
       ],
       "hu": [
@@ -1161,6 +1188,33 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.722661,
                         42.216583
+                  ]
+            },
+            {
+                  "name": "Pishina AQUA",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Prizren településen.",
+                  "category": "family",
+                  "coords": [
+                        20.714402,
+                        42.225592
+                  ]
+            },
+            {
+                  "name": "Kopshti Zoologjik \"Shqiponja\"",
+                  "text": "Állatok megfigyelésére és a természet élvezetére alkalmas hely Prizren településen.",
+                  "category": "family",
+                  "coords": [
+                        20.700197,
+                        42.202664
+                  ]
+            },
+            {
+                  "name": "Pishina Gold Pool Club",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Prizren településen.",
+                  "category": "family",
+                  "coords": [
+                        20.726485,
+                        42.233786
                   ]
             }
       ],
@@ -1317,6 +1371,33 @@ export const kosovoPois: POI[] = [
                         20.722661,
                         42.216583
                   ]
+            },
+            {
+                  "name": "Pishina AQUA",
+                  "text": "Un loc pentru înot și recreere acvatică în Prizren.",
+                  "category": "family",
+                  "coords": [
+                        20.714402,
+                        42.225592
+                  ]
+            },
+            {
+                  "name": "Kopshti Zoologjik \"Shqiponja\"",
+                  "text": "O destinație pentru a observa animalele și a te bucura de natură în Prizren.",
+                  "category": "family",
+                  "coords": [
+                        20.700197,
+                        42.202664
+                  ]
+            },
+            {
+                  "name": "Pishina Gold Pool Club",
+                  "text": "Un loc pentru înot și recreere acvatică în Prizren.",
+                  "category": "family",
+                  "coords": [
+                        20.726485,
+                        42.233786
+                  ]
             }
       ],
       "en": [
@@ -1471,6 +1552,33 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.722661,
                         42.216583
+                  ]
+            },
+            {
+                  "name": "Pishina AQUA",
+                  "text": "A place for swimming and water recreation in Prizren.",
+                  "category": "family",
+                  "coords": [
+                        20.714402,
+                        42.225592
+                  ]
+            },
+            {
+                  "name": "Kopshti Zoologjik \"Shqiponja\"",
+                  "text": "A destination to observe animals and enjoy nature in Prizren.",
+                  "category": "family",
+                  "coords": [
+                        20.700197,
+                        42.202664
+                  ]
+            },
+            {
+                  "name": "Pishina Gold Pool Club",
+                  "text": "A place for swimming and water recreation in Prizren.",
+                  "category": "family",
+                  "coords": [
+                        20.726485,
+                        42.233786
                   ]
             }
       ]

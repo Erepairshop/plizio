@@ -163,7 +163,1888 @@ export const poiExtraBulgariaCities: POI[] = [
     image: "/geo-images/bulgaria/city-plovdiv.webp"
   },
   {
-    id: "city-varna", "sights": {"de": [{"name": "Minonosets Drazki", "text": "Das Museumsschiff „Drazki“ in Varna ist ein berühmtes Torpedoboot der bulgarischen Marine.", "category": "museum", "coords": [27.921838, 43.200116]}, {"name": "Etnografski muzei", "text": "Das Ethnografische Museum in Varna zeigt traditionelle Kleidung und Handwerk der Region.", "category": "museum", "coords": [27.913436, 43.201005]}, {"name": "Muzei na Vazrazhdaneto", "text": "Das Museum der Nationalen Wiedergeburt in Varna widmet sich der bulgarischen Geschichte des 18. und 19. Jahrhunderts.", "category": "museum", "coords": [27.912446, 43.201168]}, {"name": "Rimski termi", "text": "Die römischen Thermen von Varna sind die Überreste eines der größten antiken Badekomplexe auf dem Balkan.", "category": "historical", "coords": [27.918196, 43.200176]}, {"name": "Sveto Uspenie Bogorodichno", "text": "Die Kathedrale Mariä Himmelfahrt ist das imposante Wahrzeichen von Varna und Sitz der Diözese.", "category": "landmark", "coords": [27.909971, 43.205253]}, {"name": "Asparuhov most", "text": "Die Asparuhov-Brücke ist ein bedeutendes Verkehrsbauwerk, das den Varna-See mit dem Schwarzen Meer verbindet.", "category": "landmark", "coords": [27.888028, 43.193554]}, {"name": "Ploshtad \"Ekzarh Iosif\"", "text": "Der Exarch-Joseph-Platz ist ein zentraler Treffpunkt und eine kleine Grünanlage in Varna.", "category": "park", "coords": [27.919222, 43.20341]}, {"name": "Meeresgarten", "text": "Der Meeresgarten in Varna ist ein weitläufiger Park am Ufer des Schwarzen Meeres.", "category": "park", "coords": [27.940485, 43.207378]}, {"name": "Muzei za istoriya na meditsinata", "text": "Das Museum für Medizingeschichte in Varna dokumentiert die Entwicklung der Heilkunst von der Antike bis heute.", "category": "museum", "coords": [27.920677, 43.199831]}, {"name": "Hudozhestvena galeriya \"Boris Georgiev\"", "text": "Die Kunstgalerie Boris Georgiev beherbergt eine bedeutende Sammlung bulgarischer Kunstwerke in Varna.", "category": "museum", "coords": [27.919304, 43.206976]}, {"name": "Museum der Naturgeschichte", "text": "Das Naturkundemuseum in Varna präsentiert die Flora und Fauna der Schwarzmeerregion.", "category": "museum", "coords": [27.931995, 43.206673]}, {"name": "Malki Rimski termi", "text": "Die kleinen römischen Thermen sind eine antike Ausgrabungsstätte im Stadtzentrum von Varna.", "category": "historical", "coords": [27.917807, 43.198283]}, {"name": "Pametnik na balgaro-savetskata druzhba", "text": "Ein großes Betondenkmal auf einem Hügel in Warna, das an die Geschichte der bulgarisch-sowjetischen Beziehungen erinnert.", "category": "historical", "coords": [27.949019, 43.218963]}, {"name": "Balgaran", "text": "Ein bekanntes privates Theater in Warna, das verschiedene zeitgenössische Stücke aufführt.", "category": "cultural", "coords": [27.911159, 43.205609]}, {"name": "Leten teatar", "text": "Eine Freilichtbühne im Meeresgarten von Warna, die für Konzerte und Festivals genutzt wird.", "category": "cultural", "coords": [27.926853, 43.206743]}, {"name": "Sv. Petka", "text": "Eine orthodoxe Kirche in Warna, die der Heiligen Petka gewidmet ist.", "category": "religious", "coords": [27.9155, 43.210169]}, {"name": "Azizie dzhamiya", "text": "Eine historische muslimische Gebetsstätte in Warna mit klassischer Architektur.", "category": "religious", "coords": [27.907747, 43.209503]}, {"name": "Armenska tsarkva", "text": "Das religiöse Zentrum der armenischen Gemeinde in Warna, bekannt für seine Architektur.", "category": "religious", "coords": [27.917948, 43.20255]}, {"name": "Sv. Nikolai", "text": "Eine dem Heiligen Nikolaus gewidmete Kirche, die sich in Meeresnähe in Warna befindet.", "category": "religious", "coords": [27.917827, 43.204475]}, {"name": "Hairie dzhamiya", "text": "Eine funktionierende Moschee im zentralen Teil von Warna.", "category": "religious", "coords": [27.911526, 43.199904]}, {"name": "Gradskiyat chasovnik na Varna", "text": "Ein historischer Uhrturm im Stadtzentrum von Warna, ein Wahrzeichen der Stadt.", "category": "landmark", "coords": [27.910421, 43.204282]}, {"name": "Pl. Makedoniya", "text": "Ein öffentlicher Platz und Parkbereich in Warna, benannt nach der Region Mazedonien.", "category": "park", "coords": [27.907492, 43.205088]}, {"name": "Aquarium", "text": "Ein öffentliches Aquarium in Warna, das die Meeresfauna des Schwarzen Meeres zeigt.", "category": "family", "coords": [27.922332, 43.201308]}, {"name": "chastna galeriya Obelisk", "text": "Ein privater Ausstellungsraum in Warna, der sich auf zeitgenössische Kunst spezialisiert hat.", "category": "museum", "coords": [27.948728, 43.220223]}, {"name": "Retro muzei", "text": "Ein Museum in Warna, das Alltagsgegenstände und Autos aus der Zeit des Sozialismus ausstellt.", "category": "museum", "coords": [27.899403, 43.217503]}, {"name": "Arhis Gallery", "text": "Ein moderner Kunstbereich in Warna für temporäre Ausstellungen und Projekte.", "category": "museum", "coords": [27.922188, 43.207783]}, {"name": "Nikola Vaptsarov", "text": "Das historische Denkmal für Nikola Wapzarow befindet sich in Varna, Bulgarien. Es ehrt das Andenken an den bedeutenden bulgarischen Dichter und sein literarisches Schaffen. Besucher haben hier die Möglichkeit, einem wichtigen Teil der nationalen Literaturgeschichte Respekt zu zollen.", "category": "historical", "coords": [27.915006, 43.202269]}, {"name": "Nikolai Kopernik", "text": "Ein Denkmal für den Astronomen Nikolaus Kopernikus vor dem Planetarium in Warna.", "category": "historical", "coords": [27.922932, 43.202689]}, {"name": "Petar Dimkov", "text": "Ein Denkmal für Petar Dimkow, einen bekannten bulgarischen Naturheilkundler.", "category": "historical", "coords": [27.925629, 43.213509]}, {"name": "Pametnik na zaginalite v Krimskata voina ot 1853 angliiski voinitsi i ofitseri", "text": "Ein Gedenkstein für die britischen Soldaten, die während des Krimkrieges in Warna fielen.", "category": "historical", "coords": [27.929284, 43.209922]}, {"name": "kapitan Petko Voivoda", "text": "Ein Denkmal für Petko Wojwoda, einen Helden des bulgarischen Befreiungskampfes.", "category": "historical", "coords": [27.907036, 43.211257]}, {"name": "100 godini ot Ilindensko-Preobrazhenskoto vastanie", "text": "Ein Denkmal in Warna zur Erinnerung an das 100. Jubiläum des Ilinden-Aufstands.", "category": "historical", "coords": [27.919205, 43.216208]}, {"name": "Konstantin Doganov", "text": "Ein Denkmal zu Ehren von Konstantin Doganow, einer lokalen Persönlichkeit in Warna.", "category": "historical", "coords": [27.900758, 43.206244]}, {"name": "Sharl Aznavur", "text": "Ein Denkmal für den berühmten Sänger Charles Aznavour auf einem Platz in Warna.", "category": "historical", "coords": [27.921933, 43.210405]}, {"name": "gen. Ivan Kolev", "text": "Ein Denkmal für General Iwan Kolew, einen bulgarischen Kavalleriekommandanten.", "category": "historical", "coords": [27.917214, 43.212153]}, {"name": "Spasyavane na varnenskite evrei ot Holokosta", "text": "Ein Denkmal zum Gedenken an die Rettung der jüdischen Gemeinde von Warna während des Zweiten Weltkriegs.", "category": "historical", "coords": [27.915688, 43.206922]}, {"name": "Kuklen teatar", "text": "Ein Puppentheater in Warna, das Vorstellungen für Kinder und Familien anbietet.", "category": "cultural", "coords": [27.913956, 43.203655]}, {"name": "Teatar „Lanzherona“", "text": "Ein kleines Theater in Warna, das für seine intimen und künstlerischen Produktionen bekannt ist.", "category": "cultural", "coords": [27.9187, 43.210219]}, {"name": "Darzhavna opera - Varna", "text": "Das Opernhaus von Warna bietet ein breites Programm an Opern, Balletten und Konzerten.", "category": "cultural", "coords": [27.912229, 43.203505]}, {"name": "Sinyata galeriya", "text": "Ein Kunstzentrum in Warna, das Ausstellungen und kreative Veranstaltungen beherbergt.", "category": "cultural", "coords": [27.915427, 43.204255]}, {"name": "Art salon", "text": "Ein kultureller Raum in Warna für Kunstausstellungen und literarische Treffen.", "category": "cultural", "coords": [27.923184, 43.204368]}, {"name": "Vhoden far Varna - zelen", "text": "Ein grüner Leuchtturm am Hafeneingang von Warna zur Navigation der Schiffe.", "category": "landmark", "coords": [27.920458, 43.191299]}, {"name": "Vhoden far Varna - cherven", "text": "Ein roter Leuchtturm am Hafeneingang von Warna zur Markierung der Fahrrinne.", "category": "landmark", "coords": [27.917945, 43.191226]}, {"name": "Vyatarna melnitsa", "text": "Eine traditionelle Windmühle in Warna, ein Beispiel für lokale historische Architektur.", "category": "landmark", "coords": [27.908295, 43.225683]}, {"name": "Krivoto darvo", "text": "Eine botanische Kuriosität im Park von Warna, bekannt für seine ungewöhnliche Wuchsform.", "category": "landmark", "coords": [27.929134, 43.206949]}, {"name": "Traban'chitu", "text": "Eine kleine lokale Attraktion in Warna, die mit dem Trabant-Auto verbunden ist.", "category": "landmark", "coords": [27.901778, 43.207724]}, {"name": "Byal shtarkel", "text": "Ein Beobachtungspunkt oder eine Attraktion in Warna, die dem Weißstorch gewidmet ist.", "category": "landmark", "coords": [27.935784, 43.210775]}, {"name": "Varnaer See", "text": "Der Lake Varna in Varna ist ein See, der sich gut für einen Spaziergang in der Natur eignet.", "category": "natural", "coords": [27.814291, 43.195569]}, {"name": "Chasten zoopark Izgrev", "text": "Ein privater Zoo in Varna mit einer Vielzahl von Tieren, die Familien beobachten können.", "category": "family", "coords": [27.921375, 43.242247]}, {"name": "Yulian Rusev", "text": "Eine öffentliche Schwimmbadanlage in der Stadt Varna.", "category": "family", "coords": [27.920631, 43.197985]}, {"name": "Delfinarium", "text": "Dieses Aquarium in Varna ist bekannt für seine Delfinshows und Meeresexponate.", "category": "family", "coords": [27.943431, 43.212625]}], "hu": [{"name": "Minonosets Drazki", "text": "A várnai „Drazki” múzeumhajó a bolgár haditengerészet egy híres torpedónaszádja.", "category": "museum", "coords": [27.921838, 43.200116]}, {"name": "Etnografski muzei", "text": "A várnai Néprajzi Múzeum a régió hagyományos viseleteit és mesterségeit mutatja be.", "category": "museum", "coords": [27.913436, 43.201005]}, {"name": "Muzei na Vazrazhdaneto", "text": "A várnai Nemzeti Újjászületés Múzeuma a 18. és 19. századi bolgár történelemnek szentelt kiállítás.", "category": "museum", "coords": [27.912446, 43.201168]}, {"name": "Rimski termi", "text": "A várnai római termák a Balkán egyik legnagyobb ókori fürdőkomplexumának maradványai.", "category": "historical", "coords": [27.918196, 43.200176]}, {"name": "Sveto Uspenie Bogorodichno", "text": "Az Istenanya elszenderedése székesegyház Várna impozáns jelképe és a helyi egyházmegye székhelye.", "category": "landmark", "coords": [27.909971, 43.205253]}, {"name": "Asparuhov most", "text": "Az Aszparuhov-híd egy jelentős közlekedési építmény, amely összeköti a Várnai-tavat a Fekete-tengerrel.", "category": "landmark", "coords": [27.888028, 43.193554]}, {"name": "Ploshtad \"Ekzarh Iosif\"", "text": "Az Exarch Joseph tér egy központi találkozóhely és egy kis zöld terület Várnában.", "category": "park", "coords": [27.919222, 43.20341]}, {"name": "Morska gradina", "text": "A várnai Tengeri Kert egy kiterjedt park a Fekete-tenger partján.", "category": "park", "coords": [27.940485, 43.207378]}, {"name": "Muzei za istoriya na meditsinata", "text": "A várnai Orvostörténeti Múzeum a gyógyítás fejlődését dokumentálja az ókortól napjainkig.", "category": "museum", "coords": [27.920677, 43.199831]}, {"name": "Hudozhestvena galeriya \"Boris Georgiev\"", "text": "A Boris Georgiev Művészeti Galéria bolgár műalkotások jelentős gyűjteményének ad otthont Várnában.", "category": "museum", "coords": [27.919304, 43.206976]}, {"name": "Prirodonauchen muzei", "text": "A várnai Természettudományi Múzeum a fekete-tengeri régió növény- és állatvilágát mutatja be.", "category": "museum", "coords": [27.931995, 43.206673]}, {"name": "Malki Rimski termi", "text": "A kis római termák egy ókori régészeti lelőhely Várna városközpontjában.", "category": "historical", "coords": [27.917807, 43.198283]}, {"name": "Pametnik na balgaro-savetskata druzhba", "text": "Hatalmas betonemlékmű egy dombtetőn, amely a bolgár-szovjet kapcsolatoknak állít emléket.", "category": "historical", "coords": [27.949019, 43.218963]}, {"name": "Balgaran", "text": "Népszerű magánszínház Várnában, amely kortárs darabokat mutat be.", "category": "cultural", "coords": [27.911159, 43.205609]}, {"name": "Leten teatar", "text": "Szabadtéri színpad Várna tengerparti parkjában, koncertek és fesztiválok helyszíne.", "category": "cultural", "coords": [27.926853, 43.206743]}, {"name": "Sv. Petka", "text": "Szent Petka tiszteletére szentelt ortodox templom Várnában.", "category": "religious", "coords": [27.9155, 43.210169]}, {"name": "Azizie dzhamiya", "text": "Várna egyik történelmi muszlim imaháza klasszikus építészeti stílusban.", "category": "religious", "coords": [27.907747, 43.209503]}, {"name": "Armenska tsarkva", "text": "A várnai örmény közösség vallási központja, amely jellegzetes építészetéről ismert.", "category": "religious", "coords": [27.917948, 43.20255]}, {"name": "Sv. Nikolai", "text": "Szent Miklósnak szentelt templom Várna tengerparti részén.", "category": "religious", "coords": [27.917827, 43.204475]}, {"name": "Hairie dzhamiya", "text": "Működő mecset Várna központi részén.", "category": "religious", "coords": [27.911526, 43.199904]}, {"name": "Gradskiyat chasovnik na Varna", "text": "Várna városközpontjában álló történelmi óratorony, a város egyik jelképe.", "category": "landmark", "coords": [27.910421, 43.204282]}, {"name": "Pl. Makedoniya", "text": "Központi tér és park Várnában, amely Macedónia régióról kapta a nevét.", "category": "park", "coords": [27.907492, 43.205088]}, {"name": "Akvarium", "text": "Várnai akvárium, amely a Fekete-tenger élővilágát mutatja be.", "category": "family", "coords": [27.922332, 43.201308]}, {"name": "chastna galeriya Obelisk", "text": "Magángaléria Várnában, amely kortárs művészeti alkotásokat mutat be.", "category": "museum", "coords": [27.948728, 43.220223]}, {"name": "Retro muzei", "text": "Várnai múzeum, amely a szocialista korszak mindennapi tárgyait és autóit mutatja be.", "category": "museum", "coords": [27.899403, 43.217503]}, {"name": "Arhis Gallery", "text": "Modern művészeti tér Várnában időszaki kiállítások és projektek számára.", "category": "museum", "coords": [27.922188, 43.207783]}, {"name": "Nikola Vaptsarov", "text": "Nikola Vapcarov történelmi emlékműve a bulgáriai Várnában található. A jeles bolgár költő és irodalmi munkássága emléke előtt tiszteleg. A látogatóknak itt lehetőségük nyílik arra, hogy kifejezzék tiszteletüket a nemzeti irodalomtörténet egy fontos része iránt.", "category": "historical", "coords": [27.915006, 43.202269]}, {"name": "Nikolai Kopernik", "text": "Nikolausz Kopernikusz csillagász emlékműve a várnai planetárium előtt.", "category": "historical", "coords": [27.922932, 43.202689]}, {"name": "Petar Dimkov", "text": "Petar Dimkov ismert bolgár természetgyógyász emlékműve.", "category": "historical", "coords": [27.925629, 43.213509]}, {"name": "Pametnik na zaginalite v Krimskata voina ot 1853 angliiski voinitsi i ofitseri", "text": "Emlékmű a krími háború alatt Várnában elhunyt brit katonák tiszteletére.", "category": "historical", "coords": [27.929284, 43.209922]}, {"name": "kapitan Petko Voivoda", "text": "Emlékmű Petko Vajvoda, a bolgár felszabadítási harc hősének tiszteletére.", "category": "historical", "coords": [27.907036, 43.211257]}, {"name": "100 godini ot Ilindensko-Preobrazhenskoto vastanie", "text": "Emlékmű Várnában az ilindeni felkelés 100. évfordulójára.", "category": "historical", "coords": [27.919205, 43.216208]}, {"name": "Konstantin Doganov", "text": "Emlékmű Konsztantin Doganov, egy várnai helyi személyiség tiszteletére.", "category": "historical", "coords": [27.900758, 43.206244]}, {"name": "Sharl Aznavur", "text": "Charles Aznavour híres énekes emlékműve egy várnai téren.", "category": "historical", "coords": [27.921933, 43.210405]}, {"name": "gen. Ivan Kolev", "text": "Ivan Kolev tábornok, a bolgár lovasság parancsnokának emlékműve.", "category": "historical", "coords": [27.917214, 43.212153]}, {"name": "Spasyavane na varnenskite evrei ot Holokosta", "text": "Emlékmű a várnai zsidó közösség második világháború alatti megmentésének emlékére.", "category": "historical", "coords": [27.915688, 43.206922]}, {"name": "Kuklen teatar", "text": "Bábszínház Várnában, amely gyerekeknek és családoknak kínál előadásokat.", "category": "cultural", "coords": [27.913956, 43.203655]}, {"name": "Teatar „Lanzherona“", "text": "Kisméretű színház Várnában, amely művészi produkcióiról ismert.", "category": "cultural", "coords": [27.9187, 43.210219]}, {"name": "Darzhavna opera - Varna", "text": "A Várnai Operaház opera-, balett- és koncertelőadások széles választékát kínálja.", "category": "cultural", "coords": [27.912229, 43.203505]}, {"name": "Sinyata galeriya", "text": "Művészeti központ Várnában, amely kiállításoknak és kreatív eseményeknek ad otthont.", "category": "cultural", "coords": [27.915427, 43.204255]}, {"name": "Art salon", "text": "Kulturális tér Várnában művészeti kiállítások és irodalmi találkozók számára.", "category": "cultural", "coords": [27.923184, 43.204368]}, {"name": "Vhoden far Varna - zelen", "text": "Zöld fényű világítótorony Várna kikötőjének bejáratánál a hajók tájékozódásához.", "category": "landmark", "coords": [27.920458, 43.191299]}, {"name": "Vhoden far Varna - cherven", "text": "Vörös fényű világítótorony Várna kikötőjének bejáratánál a hajózási útvonal jelzésére.", "category": "landmark", "coords": [27.917945, 43.191226]}, {"name": "Vyatarna melnitsa", "text": "Hagyományos szélmalom Várnában, a helyi történelmi építészet példája.", "category": "landmark", "coords": [27.908295, 43.225683]}, {"name": "Krivoto darvo", "text": "Botanikai különlegesség Várna parkjában, amely szokatlan formájáról ismert.", "category": "landmark", "coords": [27.929134, 43.206949]}, {"name": "Traban'chitu", "text": "Várnai helyi látványosság, amely a Trabant autóhoz kapcsolódik.", "category": "landmark", "coords": [27.901778, 43.207724]}, {"name": "Byal shtarkel", "text": "A fehér gólyának szentelt megfigyelőpont vagy látványosság Várnában.", "category": "landmark", "coords": [27.935784, 43.210775]}, {"name": "Varnensko ezero", "text": "A Lake Varna egy tó Varna területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [27.814291, 43.195569]}, {"name": "Chasten zoopark Izgrev", "text": "Magánállatkert Várnában, ahol a családok különféle állatokat láthatnak.", "category": "family", "coords": [27.921375, 43.242247]}, {"name": "Yulian Rusev", "text": "Várna városában található nyilvános úszómedence.", "category": "family", "coords": [27.920631, 43.197985]}, {"name": "Delfinarium", "text": "Ez a várnai akvárium delfinshow-iról és tengeri kiállításairól ismert.", "category": "family", "coords": [27.943431, 43.212625]}], "ro": [{"name": "Minonosets Drazki", "text": "Nava-muzeu „Drazki” din Varna este un faimos torpilor al marinei bulgare.", "category": "museum", "coords": [27.921838, 43.200116]}, {"name": "Etnografski muzei", "text": "Muzeul Etnografic din Varna expune costume tradiționale și obiecte de meșteșugărit din regiune.", "category": "museum", "coords": [27.913436, 43.201005]}, {"name": "Muzei na Vazrazhdaneto", "text": "Muzeul Renașterii Naționale din Varna este dedicat istoriei bulgare din secolele XVIII și XIX.", "category": "museum", "coords": [27.912446, 43.201168]}, {"name": "Rimski termi", "text": "Termele romane din Varna sunt vestigiile unuia dintre cele mai mari complexe de băi antice din Balcani.", "category": "historical", "coords": [27.918196, 43.200176]}, {"name": "Sveto Uspenie Bogorodichno", "text": "Catedrala Adormirea Maicii Domnului este simbolul impunător al orașului Varna și sediul eparhiei.", "category": "landmark", "coords": [27.909971, 43.205253]}, {"name": "Asparuhov most", "text": "Podul Asparuhov este o structură de transport importantă care face legătura între lacul Varna și Marea Neagră.", "category": "landmark", "coords": [27.888028, 43.193554]}, {"name": "Ploshtad \"Ekzarh Iosif\"", "text": "Piața Exarhul Iosif este un punct central de întâlnire și o mică zonă verde în Varna.", "category": "park", "coords": [27.919222, 43.20341]}, {"name": "Morska gradina", "text": "Grădina Mării din Varna este un parc vast situat pe țărmul Mării Negre.", "category": "park", "coords": [27.940485, 43.207378]}, {"name": "Muzei za istoriya na meditsinata", "text": "Muzeul de Istorie a Medicinei din Varna documentează evoluția artei vindecării din antichitate până în prezent.", "category": "museum", "coords": [27.920677, 43.199831]}, {"name": "Hudozhestvena galeriya \"Boris Georgiev\"", "text": "Galeria de Artă Boris Georgiev găzduiește o colecție importantă de opere de artă bulgare în Varna.", "category": "museum", "coords": [27.919304, 43.206976]}, {"name": "Prirodonauchen muzei", "text": "Muzeul de Istorie Naturală din Varna prezintă flora și fauna regiunii Mării Negre.", "category": "museum", "coords": [27.931995, 43.206673]}, {"name": "Malki Rimski termi", "text": "Micile terme romane sunt un sit arheologic antic situat în centrul orașului Varna.", "category": "historical", "coords": [27.917807, 43.198283]}, {"name": "Pametnik na balgaro-savetskata druzhba", "text": "Un monument masiv de beton pe un deal din Varna, dedicat prieteniei bulgaro-sovietice.", "category": "historical", "coords": [27.949019, 43.218963]}, {"name": "Balgaran", "text": "Un teatru privat cunoscut în Varna, care prezintă diverse piese contemporane.", "category": "cultural", "coords": [27.911159, 43.205609]}, {"name": "Leten teatar", "text": "O scenă în aer liber situată în Grădina Mării din Varna, utilizată pentru concerte și festivaluri.", "category": "cultural", "coords": [27.926853, 43.206743]}, {"name": "Sv. Petka", "text": "O biserică ortodoxă din Varna, dedicată Sfintei Parascheva (Petka).", "category": "religious", "coords": [27.9155, 43.210169]}, {"name": "Azizie dzhamiya", "text": "O moschee istorică din Varna, reprezentând un lăcaș de cult pentru comunitatea locală.", "category": "religious", "coords": [27.907747, 43.209503]}, {"name": "Armenska tsarkva", "text": "Centrul religios al comunității armene din Varna, cunoscut pentru arhitectura sa specifică.", "category": "religious", "coords": [27.917948, 43.20255]}, {"name": "Sv. Nikolai", "text": "O biserică dedicată Sfântului Nicolae, situată în apropierea mării în Varna.", "category": "religious", "coords": [27.917827, 43.204475]}, {"name": "Hairie dzhamiya", "text": "O moschee funcțională situată în partea centrală a orașului Varna.", "category": "religious", "coords": [27.911526, 43.199904]}, {"name": "Gradskiyat chasovnik na Varna", "text": "Un turn cu ceas istoric în centrul orașului Varna, un punct de reper local.", "category": "landmark", "coords": [27.910421, 43.204282]}, {"name": "Pl. Makedoniya", "text": "O piață publică și zonă de parc în Varna, numită după regiunea Macedonia.", "category": "park", "coords": [27.907492, 43.205088]}, {"name": "Akvarium", "text": "Un acvariu public din Varna care prezintă fauna marină a Mării Negre.", "category": "family", "coords": [27.922332, 43.201308]}, {"name": "chastna galeriya Obelisk", "text": "Un spațiu expozițional privat din Varna, specializat în artă contemporană.", "category": "museum", "coords": [27.948728, 43.220223]}, {"name": "Retro muzei", "text": "Un muzeu din Varna care expune obiecte cotidiene și mașini din epoca socialistă.", "category": "museum", "coords": [27.899403, 43.217503]}, {"name": "Arhis Gallery", "text": "Un spațiu de artă modernă în Varna pentru expoziții temporare și proiecte.", "category": "museum", "coords": [27.922188, 43.207783]}, {"name": "Nikola Vaptsarov", "text": "Monumentul istoric dedicat lui Nikola Vapțarov se află în Varna, Bulgaria. Acesta onorează memoria eminentului poet bulgar și a creației sale literare. Vizitatorii au aici ocazia de a aduce un omagiu unei părți importante din istoria literaturii naționale.", "category": "historical", "coords": [27.915006, 43.202269]}, {"name": "Nikolai Kopernik", "text": "Un monument dedicat astronomului Nicolaus Copernic, situat în fața planetariului din Varna.", "category": "historical", "coords": [27.922932, 43.202689]}, {"name": "Petar Dimkov", "text": "Un monument pentru Petar Dimkov, un cunoscut practicant de medicină naturistă din Bulgaria.", "category": "historical", "coords": [27.925629, 43.213509]}, {"name": "Pametnik na zaginalite v Krimskata voina ot 1853 angliiski voinitsi i ofitseri", "text": "Un monument dedicat soldaților britanici care au murit în Varna în timpul Războiului Crimeii.", "category": "historical", "coords": [27.929284, 43.209922]}, {"name": "kapitan Petko Voivoda", "text": "Un monument pentru Petko Voivoda, un erou al luptei de eliberare a Bulgariei.", "category": "historical", "coords": [27.907036, 43.211257]}, {"name": "100 godini ot Ilindensko-Preobrazhenskoto vastanie", "text": "Un monument din Varna care comemorează 100 de ani de la Răscoala Ilinden-Preobrajenie.", "category": "historical", "coords": [27.919205, 43.216208]}, {"name": "Konstantin Doganov", "text": "Un monument ridicat în onoarea lui Konstantin Doganov, o personalitate locală din Varna.", "category": "historical", "coords": [27.900758, 43.206244]}, {"name": "Sharl Aznavur", "text": "Un monument dedicat celebrului cântăreț Charles Aznavour, situat într-o piață din Varna.", "category": "historical", "coords": [27.921933, 43.210405]}, {"name": "gen. Ivan Kolev", "text": "Un monument pentru generalul Ivan Kolev, un comandant de cavalerie bulgar.", "category": "historical", "coords": [27.917214, 43.212153]}, {"name": "Spasyavane na varnenskite evrei ot Holokosta", "text": "Un monument care comemorează salvarea comunității evreiești din Varna în timpul celui de-al Doilea Război Mondial.", "category": "historical", "coords": [27.915688, 43.206922]}, {"name": "Kuklen teatar", "text": "Un teatru de păpuși din Varna care oferü spectacole pentru copii și familii.", "category": "cultural", "coords": [27.913956, 43.203655]}, {"name": "Teatar „Lanzherona“", "text": "Un mic teatru din Varna, cunoscut pentru producțiile sale artistice intime.", "category": "cultural", "coords": [27.9187, 43.210219]}, {"name": "Darzhavna opera - Varna", "text": "Opera de Stat din Varna oferă un program variat de spectacole de operă, balet și concerte.", "category": "cultural", "coords": [27.912229, 43.203505]}, {"name": "Sinyata galeriya", "text": "Un centru de artă din Varna care găzduiește expoziții și evenimente creative.", "category": "cultural", "coords": [27.915427, 43.204255]}, {"name": "Art salon", "text": "Un spațiu cultural în Varna pentru expoziții de artă și întâlniri literare.", "category": "cultural", "coords": [27.923184, 43.204368]}, {"name": "Vhoden far Varna - zelen", "text": "Un far verde la intrarea în portul Varna pentru navigația navelor.", "category": "landmark", "coords": [27.920458, 43.191299]}, {"name": "Vhoden far Varna - cherven", "text": "Un far roșu la intrarea în portul Varna pentru marcarea canalului navigabil.", "category": "landmark", "coords": [27.917945, 43.191226]}, {"name": "Vyatarna melnitsa", "text": "O moară de vânt tradițională în Varna, un exemplu de arhitectură istorică locală.", "category": "landmark", "coords": [27.908295, 43.225683]}, {"name": "Krivoto darvo", "text": "O curiozitate botanică în parcul din Varna, cunoscută pentru forma sa neobișnuită de creștere.", "category": "landmark", "coords": [27.929134, 43.206949]}, {"name": "Traban'chitu", "text": "O mică atracție locală în Varna, legată de mașina Trabant.", "category": "landmark", "coords": [27.901778, 43.207724]}, {"name": "Byal shtarkel", "text": "Un punct de observație sau o atracție din Varna dedicată berzei albe.", "category": "landmark", "coords": [27.935784, 43.210775]}, {"name": "Varnensko ezero", "text": "Lake Varna din Varna este un lac ce oferă un cadru natural frumos pentru relaxare.", "category": "natural", "coords": [27.814291, 43.195569]}, {"name": "Chasten zoopark Izgrev", "text": "O grădină zoologică privată din Varna, care găzduiește o varietate de animale pe care familiile le pot observa.", "category": "family", "coords": [27.921375, 43.242247]}, {"name": "Yulian Rusev", "text": "O piscină publică situată în orașul Varna.", "category": "family", "coords": [27.920631, 43.197985]}, {"name": "Delfinarium", "text": "Acest acvariu din Varna este cunoscut pentru spectacolele cu delfini și exponatele marine.", "category": "family", "coords": [27.943431, 43.212625]}], "en": [{"name": "Minonosets Drazki", "text": "The \"Drazki\" museum ship in Varna is a famous torpedo boat of the Bulgarian Navy.", "category": "museum", "coords": [27.921838, 43.200116]}, {"name": "Etnographic museum", "text": "The Ethnographic Museum in Varna displays traditional clothing and crafts from the region.", "category": "museum", "coords": [27.913436, 43.201005]}, {"name": "Revival museum", "text": "The Museum of the National Revival in Varna is dedicated to Bulgarian history of the 18th and 19th centuries.", "category": "museum", "coords": [27.912446, 43.201168]}, {"name": "Roman Thermal Bath", "text": "The Roman Thermae of Varna are the remains of one of the largest ancient bath complexes in the Balkans.", "category": "historical", "coords": [27.918196, 43.200176]}, {"name": "Dormition of the Mother of God Cathedral", "text": "The Dormition of the Mother of God Cathedral is an imposing landmark of Varna and the seat of the diocese.", "category": "landmark", "coords": [27.909971, 43.205253]}, {"name": "Asparuhov bridge", "text": "The Asparuhov Bridge is a major transport structure connecting Lake Varna with the Black Sea.", "category": "landmark", "coords": [27.888028, 43.193554]}, {"name": "Ploshtad \"Ekzarh Iosif\"", "text": "Exarch Joseph Square is a central meeting point and a small green space in Varna.", "category": "park", "coords": [27.919222, 43.20341]}, {"name": "Sea Garden", "text": "The Sea Garden in Varna is a sprawling park located along the Black Sea coast.", "category": "park", "coords": [27.940485, 43.207378]}, {"name": "Museum of Medicine History", "text": "The Museum of Medicine History in Varna documents the development of healing arts from antiquity to the present.", "category": "museum", "coords": [27.920677, 43.199831]}, {"name": "Art Gallery Boris Georgiev", "text": "The Boris Georgiev Art Gallery houses a significant collection of Bulgarian artworks in Varna.", "category": "museum", "coords": [27.919304, 43.206976]}, {"name": "Museum of Natural History", "text": "The Museum of Natural History in Varna presents the flora and fauna of the Black Sea region.", "category": "museum", "coords": [27.931995, 43.206673]}, {"name": "Small Roman thermae", "text": "The small Roman thermae are an ancient archaeological site located in the city center of Varna.", "category": "historical", "coords": [27.917807, 43.198283]}, {"name": "Monument of the Bulgarian-Soviet Friendship", "text": "A massive concrete monument on a hill in Varna, commemorating Bulgarian-Soviet friendship.", "category": "historical", "coords": [27.949019, 43.218963]}, {"name": "Balgaran", "text": "A well-known private theatre in Varna featuring various contemporary performances.", "category": "cultural", "coords": [27.911159, 43.205609]}, {"name": "Leten teatar", "text": "An open-air stage in the Sea Garden of Varna, used for concerts and festivals.", "category": "cultural", "coords": [27.926853, 43.206743]}, {"name": "St. Petka", "text": "An Orthodox church in Varna dedicated to Saint Petka.", "category": "religious", "coords": [27.9155, 43.210169]}, {"name": "Azizie dzhamiya", "text": "A historic Muslim place of worship in Varna featuring classical architecture.", "category": "religious", "coords": [27.907747, 43.209503]}, {"name": "Armenska tsarkva", "text": "The religious center for the Armenian community in Varna, known for its distinct architecture.", "category": "religious", "coords": [27.917948, 43.20255]}, {"name": "St. Nikola", "text": "A church dedicated to Saint Nicholas, located near the sea in Varna.", "category": "religious", "coords": [27.917827, 43.204475]}, {"name": "Hayrie Mosque", "text": "A functioning mosque located in the central part of Varna.", "category": "religious", "coords": [27.911526, 43.199904]}, {"name": "Clock Tower of Varna", "text": "A historic clock tower in the city center of Varna, serving as a local landmark.", "category": "landmark", "coords": [27.910421, 43.204282]}, {"name": "Pl. Makedoniya", "text": "A public square and park area in Varna named after the Macedonia region.", "category": "park", "coords": [27.907492, 43.205088]}, {"name": "Akvarium", "text": "A public aquarium in Varna showcasing the marine life of the Black Sea.", "category": "family", "coords": [27.922332, 43.201308]}, {"name": "chastna galeriya Obelisk", "text": "A private exhibition space in Varna specializing in contemporary art.", "category": "museum", "coords": [27.948728, 43.220223]}, {"name": "Retro Museum", "text": "A museum in Varna exhibiting everyday objects and cars from the socialist era.", "category": "museum", "coords": [27.899403, 43.217503]}, {"name": "Arhis Gallery", "text": "A modern art space in Varna for temporary exhibitions and projects.", "category": "museum", "coords": [27.922188, 43.207783]}, {"name": "Nikola Vaptsarov", "text": "The historical monument dedicated to Nikola Vaptsarov is located in Varna, Bulgaria. It honors the memory of the eminent Bulgarian poet and his literary work. Visitors have the opportunity here to pay their respects to an important piece of national literary history.", "category": "historical", "coords": [27.915006, 43.202269]}, {"name": "Nicolaus Copernicus", "text": "A monument to the astronomer Nicolaus Copernicus, located in front of the Varna planetarium.", "category": "historical", "coords": [27.922932, 43.202689]}, {"name": "Petar Dimkov", "text": "A monument to Petar Dimkov, a well-known Bulgarian natural healer.", "category": "historical", "coords": [27.925629, 43.213509]}, {"name": "Pametnik na zaginalite v Krimskata voina ot 1853 angliiski voinitsi i ofitseri", "text": "A monument dedicated to the British soldiers who died in Varna during the Crimean War.", "category": "historical", "coords": [27.929284, 43.209922]}, {"name": "kapitan Petko Voivoda", "text": "A monument to Petko Voyvoda, a hero of the Bulgarian liberation struggle.", "category": "historical", "coords": [27.907036, 43.211257]}, {"name": "100 godini ot Ilindensko-Preobrazhenskoto vastanie", "text": "A monument in Varna commemorating the 100th anniversary of the Ilinden Uprising.", "category": "historical", "coords": [27.919205, 43.216208]}, {"name": "Konstantin Doganov", "text": "A monument honoring Konstantin Doganov, a local figure in Varna.", "category": "historical", "coords": [27.900758, 43.206244]}, {"name": "Sharl Aznavur", "text": "A monument to the famous singer Charles Aznavour, located in a square in Varna.", "category": "historical", "coords": [27.921933, 43.210405]}, {"name": "gen. Ivan Kolev", "text": "A monument to General Ivan Kolev, a Bulgarian cavalry commander.", "category": "historical", "coords": [27.917214, 43.212153]}, {"name": "Spasyavane na varnenskite evrei ot Holokosta", "text": "A monument commemorating the rescue of the Varna Jewish community during World War II.", "category": "historical", "coords": [27.915688, 43.206922]}, {"name": "Kuklen teatar", "text": "A puppet theatre in Varna offering performances for children and families.", "category": "cultural", "coords": [27.913956, 43.203655]}, {"name": "Teatar „Lanzherona“", "text": "A small theatre in Varna known for its intimate and artistic productions.", "category": "cultural", "coords": [27.9187, 43.210219]}, {"name": "State opera Varna", "text": "The Varna State Opera offers a wide range of opera, ballet, and concert performances.", "category": "cultural", "coords": [27.912229, 43.203505]}, {"name": "Blue Gallery", "text": "An arts centre in Varna hosting exhibitions and creative events.", "category": "cultural", "coords": [27.915427, 43.204255]}, {"name": "Art salon", "text": "A cultural space in Varna for art exhibitions and literary meetings.", "category": "cultural", "coords": [27.923184, 43.204368]}, {"name": "Vhoden far Varna - zelen", "text": "A green lighthouse at the entrance of the Varna port for ship navigation.", "category": "landmark", "coords": [27.920458, 43.191299]}, {"name": "Vhoden far Varna - cherven", "text": "A red lighthouse at the entrance of the Varna port for marking the waterway.", "category": "landmark", "coords": [27.917945, 43.191226]}, {"name": "Vyatarna melnitsa", "text": "A traditional windmill in Varna, an example of local historical architecture.", "category": "landmark", "coords": [27.908295, 43.225683]}, {"name": "Krivoto darvo", "text": "A botanical curiosity in the Varna park, known for its unusual growth shape.", "category": "landmark", "coords": [27.929134, 43.206949]}, {"name": "Traban'chitu", "text": "A small local attraction in Varna related to the Trabant car.", "category": "landmark", "coords": [27.901778, 43.207724]}, {"name": "Byal shtarkel", "text": "An observation point or attraction in Varna dedicated to the white stork.", "category": "landmark", "coords": [27.935784, 43.210775]}, {"name": "Lake Varna", "text": "The Lake Varna in Varna is a lake providing a pleasant natural setting for relaxation.", "category": "natural", "coords": [27.814291, 43.195569]}, {"name": "Chasten zoopark Izgrev", "text": "A private zoo in Varna featuring a variety of animals for families to observe.", "category": "family", "coords": [27.921375, 43.242247]}, {"name": "Yulian Rusev", "text": "A public swimming pool facility located in the city of Varna.", "category": "family", "coords": [27.920631, 43.197985]}, {"name": "Delfinarium", "text": "This aquarium in Varna is known for its dolphin shows and marine exhibits.", "category": "family", "coords": [27.943431, 43.212625]}]},
+    id: "city-varna", "sights": {
+      "de": [
+            {
+                  "name": "Minonosets Drazki",
+                  "text": "Das Museumsschiff „Drazki“ in Varna ist ein berühmtes Torpedoboot der bulgarischen Marine.",
+                  "category": "museum",
+                  "coords": [
+                        27.921838,
+                        43.200116
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Das Ethnografische Museum in Varna zeigt traditionelle Kleidung und Handwerk der Region.",
+                  "category": "museum",
+                  "coords": [
+                        27.913436,
+                        43.201005
+                  ]
+            },
+            {
+                  "name": "Muzei na Vazrazhdaneto",
+                  "text": "Das Museum der Nationalen Wiedergeburt in Varna widmet sich der bulgarischen Geschichte des 18. und 19. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        27.912446,
+                        43.201168
+                  ]
+            },
+            {
+                  "name": "Rimski termi",
+                  "text": "Die römischen Thermen von Varna sind die Überreste eines der größten antiken Badekomplexe auf dem Balkan.",
+                  "category": "historical",
+                  "coords": [
+                        27.918196,
+                        43.200176
+                  ]
+            },
+            {
+                  "name": "Sveto Uspenie Bogorodichno",
+                  "text": "Die Kathedrale Mariä Himmelfahrt ist das imposante Wahrzeichen von Varna und Sitz der Diözese.",
+                  "category": "landmark",
+                  "coords": [
+                        27.909971,
+                        43.205253
+                  ]
+            },
+            {
+                  "name": "Asparuhov most",
+                  "text": "Die Asparuhov-Brücke ist ein bedeutendes Verkehrsbauwerk, das den Varna-See mit dem Schwarzen Meer verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888028,
+                        43.193554
+                  ]
+            },
+            {
+                  "name": "Ploshtad \"Ekzarh Iosif\"",
+                  "text": "Der Exarch-Joseph-Platz ist ein zentraler Treffpunkt und eine kleine Grünanlage in Varna.",
+                  "category": "park",
+                  "coords": [
+                        27.919222,
+                        43.20341
+                  ]
+            },
+            {
+                  "name": "Meeresgarten",
+                  "text": "Der Meeresgarten in Varna ist ein weitläufiger Park am Ufer des Schwarzen Meeres.",
+                  "category": "park",
+                  "coords": [
+                        27.940485,
+                        43.207378
+                  ]
+            },
+            {
+                  "name": "Muzei za istoriya na meditsinata",
+                  "text": "Das Museum für Medizingeschichte in Varna dokumentiert die Entwicklung der Heilkunst von der Antike bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        27.920677,
+                        43.199831
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya \"Boris Georgiev\"",
+                  "text": "Die Kunstgalerie Boris Georgiev beherbergt eine bedeutende Sammlung bulgarischer Kunstwerke in Varna.",
+                  "category": "museum",
+                  "coords": [
+                        27.919304,
+                        43.206976
+                  ]
+            },
+            {
+                  "name": "Museum der Naturgeschichte",
+                  "text": "Das Naturkundemuseum in Varna präsentiert die Flora und Fauna der Schwarzmeerregion.",
+                  "category": "museum",
+                  "coords": [
+                        27.931995,
+                        43.206673
+                  ]
+            },
+            {
+                  "name": "Malki Rimski termi",
+                  "text": "Die kleinen römischen Thermen sind eine antike Ausgrabungsstätte im Stadtzentrum von Varna.",
+                  "category": "historical",
+                  "coords": [
+                        27.917807,
+                        43.198283
+                  ]
+            },
+            {
+                  "name": "Pametnik na balgaro-savetskata druzhba",
+                  "text": "Ein großes Betondenkmal auf einem Hügel in Warna, das an die Geschichte der bulgarisch-sowjetischen Beziehungen erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        27.949019,
+                        43.218963
+                  ]
+            },
+            {
+                  "name": "Balgaran",
+                  "text": "Ein bekanntes privates Theater in Warna, das verschiedene zeitgenössische Stücke aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.911159,
+                        43.205609
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Eine Freilichtbühne im Meeresgarten von Warna, die für Konzerte und Festivals genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        27.926853,
+                        43.206743
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "Eine orthodoxe Kirche in Warna, die der Heiligen Petka gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.9155,
+                        43.210169
+                  ]
+            },
+            {
+                  "name": "Azizie dzhamiya",
+                  "text": "Eine historische muslimische Gebetsstätte in Warna mit klassischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        27.907747,
+                        43.209503
+                  ]
+            },
+            {
+                  "name": "Armenska tsarkva",
+                  "text": "Das religiöse Zentrum der armenischen Gemeinde in Warna, bekannt für seine Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        27.917948,
+                        43.20255
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai",
+                  "text": "Eine dem Heiligen Nikolaus gewidmete Kirche, die sich in Meeresnähe in Warna befindet.",
+                  "category": "religious",
+                  "coords": [
+                        27.917827,
+                        43.204475
+                  ]
+            },
+            {
+                  "name": "Hairie dzhamiya",
+                  "text": "Eine funktionierende Moschee im zentralen Teil von Warna.",
+                  "category": "religious",
+                  "coords": [
+                        27.911526,
+                        43.199904
+                  ]
+            },
+            {
+                  "name": "Gradskiyat chasovnik na Varna",
+                  "text": "Ein historischer Uhrturm im Stadtzentrum von Warna, ein Wahrzeichen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.910421,
+                        43.204282
+                  ]
+            },
+            {
+                  "name": "Pl. Makedoniya",
+                  "text": "Ein öffentlicher Platz und Parkbereich in Warna, benannt nach der Region Mazedonien.",
+                  "category": "park",
+                  "coords": [
+                        27.907492,
+                        43.205088
+                  ]
+            },
+            {
+                  "name": "Aquarium",
+                  "text": "Ein öffentliches Aquarium in Warna, das die Meeresfauna des Schwarzen Meeres zeigt.",
+                  "category": "family",
+                  "coords": [
+                        27.922332,
+                        43.201308
+                  ]
+            },
+            {
+                  "name": "chastna galeriya Obelisk",
+                  "text": "Ein privater Ausstellungsraum in Warna, der sich auf zeitgenössische Kunst spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        27.948728,
+                        43.220223
+                  ]
+            },
+            {
+                  "name": "Retro muzei",
+                  "text": "Ein Museum in Warna, das Alltagsgegenstände und Autos aus der Zeit des Sozialismus ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        27.899403,
+                        43.217503
+                  ]
+            },
+            {
+                  "name": "Arhis Gallery",
+                  "text": "Ein moderner Kunstbereich in Warna für temporäre Ausstellungen und Projekte.",
+                  "category": "museum",
+                  "coords": [
+                        27.922188,
+                        43.207783
+                  ]
+            },
+            {
+                  "name": "Nikola Vaptsarov",
+                  "text": "Das historische Denkmal für Nikola Wapzarow befindet sich in Varna, Bulgarien. Es ehrt das Andenken an den bedeutenden bulgarischen Dichter und sein literarisches Schaffen. Besucher haben hier die Möglichkeit, einem wichtigen Teil der nationalen Literaturgeschichte Respekt zu zollen.",
+                  "category": "historical",
+                  "coords": [
+                        27.915006,
+                        43.202269
+                  ]
+            },
+            {
+                  "name": "Nikolai Kopernik",
+                  "text": "Ein Denkmal für den Astronomen Nikolaus Kopernikus vor dem Planetarium in Warna.",
+                  "category": "historical",
+                  "coords": [
+                        27.922932,
+                        43.202689
+                  ]
+            },
+            {
+                  "name": "Petar Dimkov",
+                  "text": "Ein Denkmal für Petar Dimkow, einen bekannten bulgarischen Naturheilkundler.",
+                  "category": "historical",
+                  "coords": [
+                        27.925629,
+                        43.213509
+                  ]
+            },
+            {
+                  "name": "Pametnik na zaginalite v Krimskata voina ot 1853 angliiski voinitsi i ofitseri",
+                  "text": "Ein Gedenkstein für die britischen Soldaten, die während des Krimkrieges in Warna fielen.",
+                  "category": "historical",
+                  "coords": [
+                        27.929284,
+                        43.209922
+                  ]
+            },
+            {
+                  "name": "kapitan Petko Voivoda",
+                  "text": "Ein Denkmal für Petko Wojwoda, einen Helden des bulgarischen Befreiungskampfes.",
+                  "category": "historical",
+                  "coords": [
+                        27.907036,
+                        43.211257
+                  ]
+            },
+            {
+                  "name": "100 godini ot Ilindensko-Preobrazhenskoto vastanie",
+                  "text": "Ein Denkmal in Warna zur Erinnerung an das 100. Jubiläum des Ilinden-Aufstands.",
+                  "category": "historical",
+                  "coords": [
+                        27.919205,
+                        43.216208
+                  ]
+            },
+            {
+                  "name": "Konstantin Doganov",
+                  "text": "Ein Denkmal zu Ehren von Konstantin Doganow, einer lokalen Persönlichkeit in Warna.",
+                  "category": "historical",
+                  "coords": [
+                        27.900758,
+                        43.206244
+                  ]
+            },
+            {
+                  "name": "Sharl Aznavur",
+                  "text": "Ein Denkmal für den berühmten Sänger Charles Aznavour auf einem Platz in Warna.",
+                  "category": "historical",
+                  "coords": [
+                        27.921933,
+                        43.210405
+                  ]
+            },
+            {
+                  "name": "gen. Ivan Kolev",
+                  "text": "Ein Denkmal für General Iwan Kolew, einen bulgarischen Kavalleriekommandanten.",
+                  "category": "historical",
+                  "coords": [
+                        27.917214,
+                        43.212153
+                  ]
+            },
+            {
+                  "name": "Spasyavane na varnenskite evrei ot Holokosta",
+                  "text": "Ein Denkmal zum Gedenken an die Rettung der jüdischen Gemeinde von Warna während des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        27.915688,
+                        43.206922
+                  ]
+            },
+            {
+                  "name": "Kuklen teatar",
+                  "text": "Ein Puppentheater in Warna, das Vorstellungen für Kinder und Familien anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        27.913956,
+                        43.203655
+                  ]
+            },
+            {
+                  "name": "Teatar „Lanzherona“",
+                  "text": "Ein kleines Theater in Warna, das für seine intimen und künstlerischen Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        27.9187,
+                        43.210219
+                  ]
+            },
+            {
+                  "name": "Darzhavna opera - Varna",
+                  "text": "Das Opernhaus von Warna bietet ein breites Programm an Opern, Balletten und Konzerten.",
+                  "category": "cultural",
+                  "coords": [
+                        27.912229,
+                        43.203505
+                  ]
+            },
+            {
+                  "name": "Sinyata galeriya",
+                  "text": "Ein Kunstzentrum in Warna, das Ausstellungen und kreative Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.915427,
+                        43.204255
+                  ]
+            },
+            {
+                  "name": "Art salon",
+                  "text": "Ein kultureller Raum in Warna für Kunstausstellungen und literarische Treffen.",
+                  "category": "cultural",
+                  "coords": [
+                        27.923184,
+                        43.204368
+                  ]
+            },
+            {
+                  "name": "Vhoden far Varna - zelen",
+                  "text": "Ein grüner Leuchtturm am Hafeneingang von Warna zur Navigation der Schiffe.",
+                  "category": "landmark",
+                  "coords": [
+                        27.920458,
+                        43.191299
+                  ]
+            },
+            {
+                  "name": "Vhoden far Varna - cherven",
+                  "text": "Ein roter Leuchtturm am Hafeneingang von Warna zur Markierung der Fahrrinne.",
+                  "category": "landmark",
+                  "coords": [
+                        27.917945,
+                        43.191226
+                  ]
+            },
+            {
+                  "name": "Vyatarna melnitsa",
+                  "text": "Eine traditionelle Windmühle in Warna, ein Beispiel für lokale historische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        27.908295,
+                        43.225683
+                  ]
+            },
+            {
+                  "name": "Krivoto darvo",
+                  "text": "Eine botanische Kuriosität im Park von Warna, bekannt für seine ungewöhnliche Wuchsform.",
+                  "category": "landmark",
+                  "coords": [
+                        27.929134,
+                        43.206949
+                  ]
+            },
+            {
+                  "name": "Traban'chitu",
+                  "text": "Eine kleine lokale Attraktion in Warna, die mit dem Trabant-Auto verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.901778,
+                        43.207724
+                  ]
+            },
+            {
+                  "name": "Byal shtarkel",
+                  "text": "Ein Beobachtungspunkt oder eine Attraktion in Warna, die dem Weißstorch gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.935784,
+                        43.210775
+                  ]
+            },
+            {
+                  "name": "Varnaer See",
+                  "text": "Der Lake Varna in Varna ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.814291,
+                        43.195569
+                  ]
+            },
+            {
+                  "name": "Chasten zoopark Izgrev",
+                  "text": "Ein privater Zoo in Varna mit einer Vielzahl von Tieren, die Familien beobachten können.",
+                  "category": "family",
+                  "coords": [
+                        27.921375,
+                        43.242247
+                  ]
+            },
+            {
+                  "name": "Yulian Rusev",
+                  "text": "Eine öffentliche Schwimmbadanlage in der Stadt Varna.",
+                  "category": "family",
+                  "coords": [
+                        27.920631,
+                        43.197985
+                  ]
+            },
+            {
+                  "name": "Delfinarium",
+                  "text": "Dieses Aquarium in Varna ist bekannt für seine Delfinshows und Meeresexponate.",
+                  "category": "family",
+                  "coords": [
+                        27.943431,
+                        43.212625
+                  ]
+            },
+            {
+                  "name": "Antiker Nordmauer",
+                  "text": "Die nördliche antike Stadtmauer ist ein historisches Relikt, das Zeugnis von der Verteidigungsgeschichte Warnas ablegt. Besucher können die Überreste der Befestigungsanlagen besichtigen und mehr über die antike Stadt erfahren.",
+                  "category": "landmark",
+                  "coords": [
+                        27.916007,
+                        43.203256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Minonosets Drazki",
+                  "text": "A várnai „Drazki” múzeumhajó a bolgár haditengerészet egy híres torpedónaszádja.",
+                  "category": "museum",
+                  "coords": [
+                        27.921838,
+                        43.200116
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "A várnai Néprajzi Múzeum a régió hagyományos viseleteit és mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.913436,
+                        43.201005
+                  ]
+            },
+            {
+                  "name": "Muzei na Vazrazhdaneto",
+                  "text": "A várnai Nemzeti Újjászületés Múzeuma a 18. és 19. századi bolgár történelemnek szentelt kiállítás.",
+                  "category": "museum",
+                  "coords": [
+                        27.912446,
+                        43.201168
+                  ]
+            },
+            {
+                  "name": "Rimski termi",
+                  "text": "A várnai római termák a Balkán egyik legnagyobb ókori fürdőkomplexumának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        27.918196,
+                        43.200176
+                  ]
+            },
+            {
+                  "name": "Sveto Uspenie Bogorodichno",
+                  "text": "Az Istenanya elszenderedése székesegyház Várna impozáns jelképe és a helyi egyházmegye székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.909971,
+                        43.205253
+                  ]
+            },
+            {
+                  "name": "Asparuhov most",
+                  "text": "Az Aszparuhov-híd egy jelentős közlekedési építmény, amely összeköti a Várnai-tavat a Fekete-tengerrel.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888028,
+                        43.193554
+                  ]
+            },
+            {
+                  "name": "Ploshtad \"Ekzarh Iosif\"",
+                  "text": "Az Exarch Joseph tér egy központi találkozóhely és egy kis zöld terület Várnában.",
+                  "category": "park",
+                  "coords": [
+                        27.919222,
+                        43.20341
+                  ]
+            },
+            {
+                  "name": "Morska gradina",
+                  "text": "A várnai Tengeri Kert egy kiterjedt park a Fekete-tenger partján.",
+                  "category": "park",
+                  "coords": [
+                        27.940485,
+                        43.207378
+                  ]
+            },
+            {
+                  "name": "Muzei za istoriya na meditsinata",
+                  "text": "A várnai Orvostörténeti Múzeum a gyógyítás fejlődését dokumentálja az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        27.920677,
+                        43.199831
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya \"Boris Georgiev\"",
+                  "text": "A Boris Georgiev Művészeti Galéria bolgár műalkotások jelentős gyűjteményének ad otthont Várnában.",
+                  "category": "museum",
+                  "coords": [
+                        27.919304,
+                        43.206976
+                  ]
+            },
+            {
+                  "name": "Prirodonauchen muzei",
+                  "text": "A várnai Természettudományi Múzeum a fekete-tengeri régió növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.931995,
+                        43.206673
+                  ]
+            },
+            {
+                  "name": "Malki Rimski termi",
+                  "text": "A kis római termák egy ókori régészeti lelőhely Várna városközpontjában.",
+                  "category": "historical",
+                  "coords": [
+                        27.917807,
+                        43.198283
+                  ]
+            },
+            {
+                  "name": "Pametnik na balgaro-savetskata druzhba",
+                  "text": "Hatalmas betonemlékmű egy dombtetőn, amely a bolgár-szovjet kapcsolatoknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        27.949019,
+                        43.218963
+                  ]
+            },
+            {
+                  "name": "Balgaran",
+                  "text": "Népszerű magánszínház Várnában, amely kortárs darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        27.911159,
+                        43.205609
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "Szabadtéri színpad Várna tengerparti parkjában, koncertek és fesztiválok helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        27.926853,
+                        43.206743
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "Szent Petka tiszteletére szentelt ortodox templom Várnában.",
+                  "category": "religious",
+                  "coords": [
+                        27.9155,
+                        43.210169
+                  ]
+            },
+            {
+                  "name": "Azizie dzhamiya",
+                  "text": "Várna egyik történelmi muszlim imaháza klasszikus építészeti stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        27.907747,
+                        43.209503
+                  ]
+            },
+            {
+                  "name": "Armenska tsarkva",
+                  "text": "A várnai örmény közösség vallási központja, amely jellegzetes építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        27.917948,
+                        43.20255
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai",
+                  "text": "Szent Miklósnak szentelt templom Várna tengerparti részén.",
+                  "category": "religious",
+                  "coords": [
+                        27.917827,
+                        43.204475
+                  ]
+            },
+            {
+                  "name": "Hairie dzhamiya",
+                  "text": "Működő mecset Várna központi részén.",
+                  "category": "religious",
+                  "coords": [
+                        27.911526,
+                        43.199904
+                  ]
+            },
+            {
+                  "name": "Gradskiyat chasovnik na Varna",
+                  "text": "Várna városközpontjában álló történelmi óratorony, a város egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        27.910421,
+                        43.204282
+                  ]
+            },
+            {
+                  "name": "Pl. Makedoniya",
+                  "text": "Központi tér és park Várnában, amely Macedónia régióról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        27.907492,
+                        43.205088
+                  ]
+            },
+            {
+                  "name": "Akvarium",
+                  "text": "Várnai akvárium, amely a Fekete-tenger élővilágát mutatja be.",
+                  "category": "family",
+                  "coords": [
+                        27.922332,
+                        43.201308
+                  ]
+            },
+            {
+                  "name": "chastna galeriya Obelisk",
+                  "text": "Magángaléria Várnában, amely kortárs művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        27.948728,
+                        43.220223
+                  ]
+            },
+            {
+                  "name": "Retro muzei",
+                  "text": "Várnai múzeum, amely a szocialista korszak mindennapi tárgyait és autóit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.899403,
+                        43.217503
+                  ]
+            },
+            {
+                  "name": "Arhis Gallery",
+                  "text": "Modern művészeti tér Várnában időszaki kiállítások és projektek számára.",
+                  "category": "museum",
+                  "coords": [
+                        27.922188,
+                        43.207783
+                  ]
+            },
+            {
+                  "name": "Nikola Vaptsarov",
+                  "text": "Nikola Vapcarov történelmi emlékműve a bulgáriai Várnában található. A jeles bolgár költő és irodalmi munkássága emléke előtt tiszteleg. A látogatóknak itt lehetőségük nyílik arra, hogy kifejezzék tiszteletüket a nemzeti irodalomtörténet egy fontos része iránt.",
+                  "category": "historical",
+                  "coords": [
+                        27.915006,
+                        43.202269
+                  ]
+            },
+            {
+                  "name": "Nikolai Kopernik",
+                  "text": "Nikolausz Kopernikusz csillagász emlékműve a várnai planetárium előtt.",
+                  "category": "historical",
+                  "coords": [
+                        27.922932,
+                        43.202689
+                  ]
+            },
+            {
+                  "name": "Petar Dimkov",
+                  "text": "Petar Dimkov ismert bolgár természetgyógyász emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        27.925629,
+                        43.213509
+                  ]
+            },
+            {
+                  "name": "Pametnik na zaginalite v Krimskata voina ot 1853 angliiski voinitsi i ofitseri",
+                  "text": "Emlékmű a krími háború alatt Várnában elhunyt brit katonák tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        27.929284,
+                        43.209922
+                  ]
+            },
+            {
+                  "name": "kapitan Petko Voivoda",
+                  "text": "Emlékmű Petko Vajvoda, a bolgár felszabadítási harc hősének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        27.907036,
+                        43.211257
+                  ]
+            },
+            {
+                  "name": "100 godini ot Ilindensko-Preobrazhenskoto vastanie",
+                  "text": "Emlékmű Várnában az ilindeni felkelés 100. évfordulójára.",
+                  "category": "historical",
+                  "coords": [
+                        27.919205,
+                        43.216208
+                  ]
+            },
+            {
+                  "name": "Konstantin Doganov",
+                  "text": "Emlékmű Konsztantin Doganov, egy várnai helyi személyiség tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        27.900758,
+                        43.206244
+                  ]
+            },
+            {
+                  "name": "Sharl Aznavur",
+                  "text": "Charles Aznavour híres énekes emlékműve egy várnai téren.",
+                  "category": "historical",
+                  "coords": [
+                        27.921933,
+                        43.210405
+                  ]
+            },
+            {
+                  "name": "gen. Ivan Kolev",
+                  "text": "Ivan Kolev tábornok, a bolgár lovasság parancsnokának emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        27.917214,
+                        43.212153
+                  ]
+            },
+            {
+                  "name": "Spasyavane na varnenskite evrei ot Holokosta",
+                  "text": "Emlékmű a várnai zsidó közösség második világháború alatti megmentésének emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        27.915688,
+                        43.206922
+                  ]
+            },
+            {
+                  "name": "Kuklen teatar",
+                  "text": "Bábszínház Várnában, amely gyerekeknek és családoknak kínál előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        27.913956,
+                        43.203655
+                  ]
+            },
+            {
+                  "name": "Teatar „Lanzherona“",
+                  "text": "Kisméretű színház Várnában, amely művészi produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        27.9187,
+                        43.210219
+                  ]
+            },
+            {
+                  "name": "Darzhavna opera - Varna",
+                  "text": "A Várnai Operaház opera-, balett- és koncertelőadások széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        27.912229,
+                        43.203505
+                  ]
+            },
+            {
+                  "name": "Sinyata galeriya",
+                  "text": "Művészeti központ Várnában, amely kiállításoknak és kreatív eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        27.915427,
+                        43.204255
+                  ]
+            },
+            {
+                  "name": "Art salon",
+                  "text": "Kulturális tér Várnában művészeti kiállítások és irodalmi találkozók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        27.923184,
+                        43.204368
+                  ]
+            },
+            {
+                  "name": "Vhoden far Varna - zelen",
+                  "text": "Zöld fényű világítótorony Várna kikötőjének bejáratánál a hajók tájékozódásához.",
+                  "category": "landmark",
+                  "coords": [
+                        27.920458,
+                        43.191299
+                  ]
+            },
+            {
+                  "name": "Vhoden far Varna - cherven",
+                  "text": "Vörös fényű világítótorony Várna kikötőjének bejáratánál a hajózási útvonal jelzésére.",
+                  "category": "landmark",
+                  "coords": [
+                        27.917945,
+                        43.191226
+                  ]
+            },
+            {
+                  "name": "Vyatarna melnitsa",
+                  "text": "Hagyományos szélmalom Várnában, a helyi történelmi építészet példája.",
+                  "category": "landmark",
+                  "coords": [
+                        27.908295,
+                        43.225683
+                  ]
+            },
+            {
+                  "name": "Krivoto darvo",
+                  "text": "Botanikai különlegesség Várna parkjában, amely szokatlan formájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.929134,
+                        43.206949
+                  ]
+            },
+            {
+                  "name": "Traban'chitu",
+                  "text": "Várnai helyi látványosság, amely a Trabant autóhoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        27.901778,
+                        43.207724
+                  ]
+            },
+            {
+                  "name": "Byal shtarkel",
+                  "text": "A fehér gólyának szentelt megfigyelőpont vagy látványosság Várnában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.935784,
+                        43.210775
+                  ]
+            },
+            {
+                  "name": "Varnensko ezero",
+                  "text": "A Lake Varna egy tó Varna területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.814291,
+                        43.195569
+                  ]
+            },
+            {
+                  "name": "Chasten zoopark Izgrev",
+                  "text": "Magánállatkert Várnában, ahol a családok különféle állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        27.921375,
+                        43.242247
+                  ]
+            },
+            {
+                  "name": "Yulian Rusev",
+                  "text": "Várna városában található nyilvános úszómedence.",
+                  "category": "family",
+                  "coords": [
+                        27.920631,
+                        43.197985
+                  ]
+            },
+            {
+                  "name": "Delfinarium",
+                  "text": "Ez a várnai akvárium delfinshow-iról és tengeri kiállításairól ismert.",
+                  "category": "family",
+                  "coords": [
+                        27.943431,
+                        43.212625
+                  ]
+            },
+            {
+                  "name": "Северна антична градска крепостна стена",
+                  "text": "Az északi antik városfal egy történelmi ereklye, amely Varna védelmi múltjáról tanúskodik. A látogatók megtekinthetik az erődítmények maradványait, és többet megtudhatnak az ókori városról.",
+                  "category": "landmark",
+                  "coords": [
+                        27.916007,
+                        43.203256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Minonosets Drazki",
+                  "text": "Nava-muzeu „Drazki” din Varna este un faimos torpilor al marinei bulgare.",
+                  "category": "museum",
+                  "coords": [
+                        27.921838,
+                        43.200116
+                  ]
+            },
+            {
+                  "name": "Etnografski muzei",
+                  "text": "Muzeul Etnografic din Varna expune costume tradiționale și obiecte de meșteșugărit din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        27.913436,
+                        43.201005
+                  ]
+            },
+            {
+                  "name": "Muzei na Vazrazhdaneto",
+                  "text": "Muzeul Renașterii Naționale din Varna este dedicat istoriei bulgare din secolele XVIII și XIX.",
+                  "category": "museum",
+                  "coords": [
+                        27.912446,
+                        43.201168
+                  ]
+            },
+            {
+                  "name": "Rimski termi",
+                  "text": "Termele romane din Varna sunt vestigiile unuia dintre cele mai mari complexe de băi antice din Balcani.",
+                  "category": "historical",
+                  "coords": [
+                        27.918196,
+                        43.200176
+                  ]
+            },
+            {
+                  "name": "Sveto Uspenie Bogorodichno",
+                  "text": "Catedrala Adormirea Maicii Domnului este simbolul impunător al orașului Varna și sediul eparhiei.",
+                  "category": "landmark",
+                  "coords": [
+                        27.909971,
+                        43.205253
+                  ]
+            },
+            {
+                  "name": "Asparuhov most",
+                  "text": "Podul Asparuhov este o structură de transport importantă care face legătura între lacul Varna și Marea Neagră.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888028,
+                        43.193554
+                  ]
+            },
+            {
+                  "name": "Ploshtad \"Ekzarh Iosif\"",
+                  "text": "Piața Exarhul Iosif este un punct central de întâlnire și o mică zonă verde în Varna.",
+                  "category": "park",
+                  "coords": [
+                        27.919222,
+                        43.20341
+                  ]
+            },
+            {
+                  "name": "Morska gradina",
+                  "text": "Grădina Mării din Varna este un parc vast situat pe țărmul Mării Negre.",
+                  "category": "park",
+                  "coords": [
+                        27.940485,
+                        43.207378
+                  ]
+            },
+            {
+                  "name": "Muzei za istoriya na meditsinata",
+                  "text": "Muzeul de Istorie a Medicinei din Varna documentează evoluția artei vindecării din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        27.920677,
+                        43.199831
+                  ]
+            },
+            {
+                  "name": "Hudozhestvena galeriya \"Boris Georgiev\"",
+                  "text": "Galeria de Artă Boris Georgiev găzduiește o colecție importantă de opere de artă bulgare în Varna.",
+                  "category": "museum",
+                  "coords": [
+                        27.919304,
+                        43.206976
+                  ]
+            },
+            {
+                  "name": "Prirodonauchen muzei",
+                  "text": "Muzeul de Istorie Naturală din Varna prezintă flora și fauna regiunii Mării Negre.",
+                  "category": "museum",
+                  "coords": [
+                        27.931995,
+                        43.206673
+                  ]
+            },
+            {
+                  "name": "Malki Rimski termi",
+                  "text": "Micile terme romane sunt un sit arheologic antic situat în centrul orașului Varna.",
+                  "category": "historical",
+                  "coords": [
+                        27.917807,
+                        43.198283
+                  ]
+            },
+            {
+                  "name": "Pametnik na balgaro-savetskata druzhba",
+                  "text": "Un monument masiv de beton pe un deal din Varna, dedicat prieteniei bulgaro-sovietice.",
+                  "category": "historical",
+                  "coords": [
+                        27.949019,
+                        43.218963
+                  ]
+            },
+            {
+                  "name": "Balgaran",
+                  "text": "Un teatru privat cunoscut în Varna, care prezintă diverse piese contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        27.911159,
+                        43.205609
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "O scenă în aer liber situată în Grădina Mării din Varna, utilizată pentru concerte și festivaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        27.926853,
+                        43.206743
+                  ]
+            },
+            {
+                  "name": "Sv. Petka",
+                  "text": "O biserică ortodoxă din Varna, dedicată Sfintei Parascheva (Petka).",
+                  "category": "religious",
+                  "coords": [
+                        27.9155,
+                        43.210169
+                  ]
+            },
+            {
+                  "name": "Azizie dzhamiya",
+                  "text": "O moschee istorică din Varna, reprezentând un lăcaș de cult pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        27.907747,
+                        43.209503
+                  ]
+            },
+            {
+                  "name": "Armenska tsarkva",
+                  "text": "Centrul religios al comunității armene din Varna, cunoscut pentru arhitectura sa specifică.",
+                  "category": "religious",
+                  "coords": [
+                        27.917948,
+                        43.20255
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolai",
+                  "text": "O biserică dedicată Sfântului Nicolae, situată în apropierea mării în Varna.",
+                  "category": "religious",
+                  "coords": [
+                        27.917827,
+                        43.204475
+                  ]
+            },
+            {
+                  "name": "Hairie dzhamiya",
+                  "text": "O moschee funcțională situată în partea centrală a orașului Varna.",
+                  "category": "religious",
+                  "coords": [
+                        27.911526,
+                        43.199904
+                  ]
+            },
+            {
+                  "name": "Gradskiyat chasovnik na Varna",
+                  "text": "Un turn cu ceas istoric în centrul orașului Varna, un punct de reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        27.910421,
+                        43.204282
+                  ]
+            },
+            {
+                  "name": "Pl. Makedoniya",
+                  "text": "O piață publică și zonă de parc în Varna, numită după regiunea Macedonia.",
+                  "category": "park",
+                  "coords": [
+                        27.907492,
+                        43.205088
+                  ]
+            },
+            {
+                  "name": "Akvarium",
+                  "text": "Un acvariu public din Varna care prezintă fauna marină a Mării Negre.",
+                  "category": "family",
+                  "coords": [
+                        27.922332,
+                        43.201308
+                  ]
+            },
+            {
+                  "name": "chastna galeriya Obelisk",
+                  "text": "Un spațiu expozițional privat din Varna, specializat în artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        27.948728,
+                        43.220223
+                  ]
+            },
+            {
+                  "name": "Retro muzei",
+                  "text": "Un muzeu din Varna care expune obiecte cotidiene și mașini din epoca socialistă.",
+                  "category": "museum",
+                  "coords": [
+                        27.899403,
+                        43.217503
+                  ]
+            },
+            {
+                  "name": "Arhis Gallery",
+                  "text": "Un spațiu de artă modernă în Varna pentru expoziții temporare și proiecte.",
+                  "category": "museum",
+                  "coords": [
+                        27.922188,
+                        43.207783
+                  ]
+            },
+            {
+                  "name": "Nikola Vaptsarov",
+                  "text": "Monumentul istoric dedicat lui Nikola Vapțarov se află în Varna, Bulgaria. Acesta onorează memoria eminentului poet bulgar și a creației sale literare. Vizitatorii au aici ocazia de a aduce un omagiu unei părți importante din istoria literaturii naționale.",
+                  "category": "historical",
+                  "coords": [
+                        27.915006,
+                        43.202269
+                  ]
+            },
+            {
+                  "name": "Nikolai Kopernik",
+                  "text": "Un monument dedicat astronomului Nicolaus Copernic, situat în fața planetariului din Varna.",
+                  "category": "historical",
+                  "coords": [
+                        27.922932,
+                        43.202689
+                  ]
+            },
+            {
+                  "name": "Petar Dimkov",
+                  "text": "Un monument pentru Petar Dimkov, un cunoscut practicant de medicină naturistă din Bulgaria.",
+                  "category": "historical",
+                  "coords": [
+                        27.925629,
+                        43.213509
+                  ]
+            },
+            {
+                  "name": "Pametnik na zaginalite v Krimskata voina ot 1853 angliiski voinitsi i ofitseri",
+                  "text": "Un monument dedicat soldaților britanici care au murit în Varna în timpul Războiului Crimeii.",
+                  "category": "historical",
+                  "coords": [
+                        27.929284,
+                        43.209922
+                  ]
+            },
+            {
+                  "name": "kapitan Petko Voivoda",
+                  "text": "Un monument pentru Petko Voivoda, un erou al luptei de eliberare a Bulgariei.",
+                  "category": "historical",
+                  "coords": [
+                        27.907036,
+                        43.211257
+                  ]
+            },
+            {
+                  "name": "100 godini ot Ilindensko-Preobrazhenskoto vastanie",
+                  "text": "Un monument din Varna care comemorează 100 de ani de la Răscoala Ilinden-Preobrajenie.",
+                  "category": "historical",
+                  "coords": [
+                        27.919205,
+                        43.216208
+                  ]
+            },
+            {
+                  "name": "Konstantin Doganov",
+                  "text": "Un monument ridicat în onoarea lui Konstantin Doganov, o personalitate locală din Varna.",
+                  "category": "historical",
+                  "coords": [
+                        27.900758,
+                        43.206244
+                  ]
+            },
+            {
+                  "name": "Sharl Aznavur",
+                  "text": "Un monument dedicat celebrului cântăreț Charles Aznavour, situat într-o piață din Varna.",
+                  "category": "historical",
+                  "coords": [
+                        27.921933,
+                        43.210405
+                  ]
+            },
+            {
+                  "name": "gen. Ivan Kolev",
+                  "text": "Un monument pentru generalul Ivan Kolev, un comandant de cavalerie bulgar.",
+                  "category": "historical",
+                  "coords": [
+                        27.917214,
+                        43.212153
+                  ]
+            },
+            {
+                  "name": "Spasyavane na varnenskite evrei ot Holokosta",
+                  "text": "Un monument care comemorează salvarea comunității evreiești din Varna în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        27.915688,
+                        43.206922
+                  ]
+            },
+            {
+                  "name": "Kuklen teatar",
+                  "text": "Un teatru de păpuși din Varna care oferü spectacole pentru copii și familii.",
+                  "category": "cultural",
+                  "coords": [
+                        27.913956,
+                        43.203655
+                  ]
+            },
+            {
+                  "name": "Teatar „Lanzherona“",
+                  "text": "Un mic teatru din Varna, cunoscut pentru producțiile sale artistice intime.",
+                  "category": "cultural",
+                  "coords": [
+                        27.9187,
+                        43.210219
+                  ]
+            },
+            {
+                  "name": "Darzhavna opera - Varna",
+                  "text": "Opera de Stat din Varna oferă un program variat de spectacole de operă, balet și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        27.912229,
+                        43.203505
+                  ]
+            },
+            {
+                  "name": "Sinyata galeriya",
+                  "text": "Un centru de artă din Varna care găzduiește expoziții și evenimente creative.",
+                  "category": "cultural",
+                  "coords": [
+                        27.915427,
+                        43.204255
+                  ]
+            },
+            {
+                  "name": "Art salon",
+                  "text": "Un spațiu cultural în Varna pentru expoziții de artă și întâlniri literare.",
+                  "category": "cultural",
+                  "coords": [
+                        27.923184,
+                        43.204368
+                  ]
+            },
+            {
+                  "name": "Vhoden far Varna - zelen",
+                  "text": "Un far verde la intrarea în portul Varna pentru navigația navelor.",
+                  "category": "landmark",
+                  "coords": [
+                        27.920458,
+                        43.191299
+                  ]
+            },
+            {
+                  "name": "Vhoden far Varna - cherven",
+                  "text": "Un far roșu la intrarea în portul Varna pentru marcarea canalului navigabil.",
+                  "category": "landmark",
+                  "coords": [
+                        27.917945,
+                        43.191226
+                  ]
+            },
+            {
+                  "name": "Vyatarna melnitsa",
+                  "text": "O moară de vânt tradițională în Varna, un exemplu de arhitectură istorică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        27.908295,
+                        43.225683
+                  ]
+            },
+            {
+                  "name": "Krivoto darvo",
+                  "text": "O curiozitate botanică în parcul din Varna, cunoscută pentru forma sa neobișnuită de creștere.",
+                  "category": "landmark",
+                  "coords": [
+                        27.929134,
+                        43.206949
+                  ]
+            },
+            {
+                  "name": "Traban'chitu",
+                  "text": "O mică atracție locală în Varna, legată de mașina Trabant.",
+                  "category": "landmark",
+                  "coords": [
+                        27.901778,
+                        43.207724
+                  ]
+            },
+            {
+                  "name": "Byal shtarkel",
+                  "text": "Un punct de observație sau o atracție din Varna dedicată berzei albe.",
+                  "category": "landmark",
+                  "coords": [
+                        27.935784,
+                        43.210775
+                  ]
+            },
+            {
+                  "name": "Varnensko ezero",
+                  "text": "Lake Varna din Varna este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.814291,
+                        43.195569
+                  ]
+            },
+            {
+                  "name": "Chasten zoopark Izgrev",
+                  "text": "O grădină zoologică privată din Varna, care găzduiește o varietate de animale pe care familiile le pot observa.",
+                  "category": "family",
+                  "coords": [
+                        27.921375,
+                        43.242247
+                  ]
+            },
+            {
+                  "name": "Yulian Rusev",
+                  "text": "O piscină publică situată în orașul Varna.",
+                  "category": "family",
+                  "coords": [
+                        27.920631,
+                        43.197985
+                  ]
+            },
+            {
+                  "name": "Delfinarium",
+                  "text": "Acest acvariu din Varna este cunoscut pentru spectacolele cu delfini și exponatele marine.",
+                  "category": "family",
+                  "coords": [
+                        27.943431,
+                        43.212625
+                  ]
+            },
+            {
+                  "name": "Северна антична градска крепостна стена",
+                  "text": "Zidul nordic al orașului antic este o relicvă istorică ce depune mărturie despre istoria defensivă a Varnei. Vizitatorii pot vedea resturile fortificațiilor și pot afla mai multe despre orașul antic.",
+                  "category": "landmark",
+                  "coords": [
+                        27.916007,
+                        43.203256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Minonosets Drazki",
+                  "text": "The \"Drazki\" museum ship in Varna is a famous torpedo boat of the Bulgarian Navy.",
+                  "category": "museum",
+                  "coords": [
+                        27.921838,
+                        43.200116
+                  ]
+            },
+            {
+                  "name": "Etnographic museum",
+                  "text": "The Ethnographic Museum in Varna displays traditional clothing and crafts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        27.913436,
+                        43.201005
+                  ]
+            },
+            {
+                  "name": "Revival museum",
+                  "text": "The Museum of the National Revival in Varna is dedicated to Bulgarian history of the 18th and 19th centuries.",
+                  "category": "museum",
+                  "coords": [
+                        27.912446,
+                        43.201168
+                  ]
+            },
+            {
+                  "name": "Roman Thermal Bath",
+                  "text": "The Roman Thermae of Varna are the remains of one of the largest ancient bath complexes in the Balkans.",
+                  "category": "historical",
+                  "coords": [
+                        27.918196,
+                        43.200176
+                  ]
+            },
+            {
+                  "name": "Dormition of the Mother of God Cathedral",
+                  "text": "The Dormition of the Mother of God Cathedral is an imposing landmark of Varna and the seat of the diocese.",
+                  "category": "landmark",
+                  "coords": [
+                        27.909971,
+                        43.205253
+                  ]
+            },
+            {
+                  "name": "Asparuhov bridge",
+                  "text": "The Asparuhov Bridge is a major transport structure connecting Lake Varna with the Black Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        27.888028,
+                        43.193554
+                  ]
+            },
+            {
+                  "name": "Ploshtad \"Ekzarh Iosif\"",
+                  "text": "Exarch Joseph Square is a central meeting point and a small green space in Varna.",
+                  "category": "park",
+                  "coords": [
+                        27.919222,
+                        43.20341
+                  ]
+            },
+            {
+                  "name": "Sea Garden",
+                  "text": "The Sea Garden in Varna is a sprawling park located along the Black Sea coast.",
+                  "category": "park",
+                  "coords": [
+                        27.940485,
+                        43.207378
+                  ]
+            },
+            {
+                  "name": "Museum of Medicine History",
+                  "text": "The Museum of Medicine History in Varna documents the development of healing arts from antiquity to the present.",
+                  "category": "museum",
+                  "coords": [
+                        27.920677,
+                        43.199831
+                  ]
+            },
+            {
+                  "name": "Art Gallery Boris Georgiev",
+                  "text": "The Boris Georgiev Art Gallery houses a significant collection of Bulgarian artworks in Varna.",
+                  "category": "museum",
+                  "coords": [
+                        27.919304,
+                        43.206976
+                  ]
+            },
+            {
+                  "name": "Museum of Natural History",
+                  "text": "The Museum of Natural History in Varna presents the flora and fauna of the Black Sea region.",
+                  "category": "museum",
+                  "coords": [
+                        27.931995,
+                        43.206673
+                  ]
+            },
+            {
+                  "name": "Small Roman thermae",
+                  "text": "The small Roman thermae are an ancient archaeological site located in the city center of Varna.",
+                  "category": "historical",
+                  "coords": [
+                        27.917807,
+                        43.198283
+                  ]
+            },
+            {
+                  "name": "Monument of the Bulgarian-Soviet Friendship",
+                  "text": "A massive concrete monument on a hill in Varna, commemorating Bulgarian-Soviet friendship.",
+                  "category": "historical",
+                  "coords": [
+                        27.949019,
+                        43.218963
+                  ]
+            },
+            {
+                  "name": "Balgaran",
+                  "text": "A well-known private theatre in Varna featuring various contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        27.911159,
+                        43.205609
+                  ]
+            },
+            {
+                  "name": "Leten teatar",
+                  "text": "An open-air stage in the Sea Garden of Varna, used for concerts and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        27.926853,
+                        43.206743
+                  ]
+            },
+            {
+                  "name": "St. Petka",
+                  "text": "An Orthodox church in Varna dedicated to Saint Petka.",
+                  "category": "religious",
+                  "coords": [
+                        27.9155,
+                        43.210169
+                  ]
+            },
+            {
+                  "name": "Azizie dzhamiya",
+                  "text": "A historic Muslim place of worship in Varna featuring classical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        27.907747,
+                        43.209503
+                  ]
+            },
+            {
+                  "name": "Armenska tsarkva",
+                  "text": "The religious center for the Armenian community in Varna, known for its distinct architecture.",
+                  "category": "religious",
+                  "coords": [
+                        27.917948,
+                        43.20255
+                  ]
+            },
+            {
+                  "name": "St. Nikola",
+                  "text": "A church dedicated to Saint Nicholas, located near the sea in Varna.",
+                  "category": "religious",
+                  "coords": [
+                        27.917827,
+                        43.204475
+                  ]
+            },
+            {
+                  "name": "Hayrie Mosque",
+                  "text": "A functioning mosque located in the central part of Varna.",
+                  "category": "religious",
+                  "coords": [
+                        27.911526,
+                        43.199904
+                  ]
+            },
+            {
+                  "name": "Clock Tower of Varna",
+                  "text": "A historic clock tower in the city center of Varna, serving as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        27.910421,
+                        43.204282
+                  ]
+            },
+            {
+                  "name": "Pl. Makedoniya",
+                  "text": "A public square and park area in Varna named after the Macedonia region.",
+                  "category": "park",
+                  "coords": [
+                        27.907492,
+                        43.205088
+                  ]
+            },
+            {
+                  "name": "Akvarium",
+                  "text": "A public aquarium in Varna showcasing the marine life of the Black Sea.",
+                  "category": "family",
+                  "coords": [
+                        27.922332,
+                        43.201308
+                  ]
+            },
+            {
+                  "name": "chastna galeriya Obelisk",
+                  "text": "A private exhibition space in Varna specializing in contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        27.948728,
+                        43.220223
+                  ]
+            },
+            {
+                  "name": "Retro Museum",
+                  "text": "A museum in Varna exhibiting everyday objects and cars from the socialist era.",
+                  "category": "museum",
+                  "coords": [
+                        27.899403,
+                        43.217503
+                  ]
+            },
+            {
+                  "name": "Arhis Gallery",
+                  "text": "A modern art space in Varna for temporary exhibitions and projects.",
+                  "category": "museum",
+                  "coords": [
+                        27.922188,
+                        43.207783
+                  ]
+            },
+            {
+                  "name": "Nikola Vaptsarov",
+                  "text": "The historical monument dedicated to Nikola Vaptsarov is located in Varna, Bulgaria. It honors the memory of the eminent Bulgarian poet and his literary work. Visitors have the opportunity here to pay their respects to an important piece of national literary history.",
+                  "category": "historical",
+                  "coords": [
+                        27.915006,
+                        43.202269
+                  ]
+            },
+            {
+                  "name": "Nicolaus Copernicus",
+                  "text": "A monument to the astronomer Nicolaus Copernicus, located in front of the Varna planetarium.",
+                  "category": "historical",
+                  "coords": [
+                        27.922932,
+                        43.202689
+                  ]
+            },
+            {
+                  "name": "Petar Dimkov",
+                  "text": "A monument to Petar Dimkov, a well-known Bulgarian natural healer.",
+                  "category": "historical",
+                  "coords": [
+                        27.925629,
+                        43.213509
+                  ]
+            },
+            {
+                  "name": "Pametnik na zaginalite v Krimskata voina ot 1853 angliiski voinitsi i ofitseri",
+                  "text": "A monument dedicated to the British soldiers who died in Varna during the Crimean War.",
+                  "category": "historical",
+                  "coords": [
+                        27.929284,
+                        43.209922
+                  ]
+            },
+            {
+                  "name": "kapitan Petko Voivoda",
+                  "text": "A monument to Petko Voyvoda, a hero of the Bulgarian liberation struggle.",
+                  "category": "historical",
+                  "coords": [
+                        27.907036,
+                        43.211257
+                  ]
+            },
+            {
+                  "name": "100 godini ot Ilindensko-Preobrazhenskoto vastanie",
+                  "text": "A monument in Varna commemorating the 100th anniversary of the Ilinden Uprising.",
+                  "category": "historical",
+                  "coords": [
+                        27.919205,
+                        43.216208
+                  ]
+            },
+            {
+                  "name": "Konstantin Doganov",
+                  "text": "A monument honoring Konstantin Doganov, a local figure in Varna.",
+                  "category": "historical",
+                  "coords": [
+                        27.900758,
+                        43.206244
+                  ]
+            },
+            {
+                  "name": "Sharl Aznavur",
+                  "text": "A monument to the famous singer Charles Aznavour, located in a square in Varna.",
+                  "category": "historical",
+                  "coords": [
+                        27.921933,
+                        43.210405
+                  ]
+            },
+            {
+                  "name": "gen. Ivan Kolev",
+                  "text": "A monument to General Ivan Kolev, a Bulgarian cavalry commander.",
+                  "category": "historical",
+                  "coords": [
+                        27.917214,
+                        43.212153
+                  ]
+            },
+            {
+                  "name": "Spasyavane na varnenskite evrei ot Holokosta",
+                  "text": "A monument commemorating the rescue of the Varna Jewish community during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        27.915688,
+                        43.206922
+                  ]
+            },
+            {
+                  "name": "Kuklen teatar",
+                  "text": "A puppet theatre in Varna offering performances for children and families.",
+                  "category": "cultural",
+                  "coords": [
+                        27.913956,
+                        43.203655
+                  ]
+            },
+            {
+                  "name": "Teatar „Lanzherona“",
+                  "text": "A small theatre in Varna known for its intimate and artistic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        27.9187,
+                        43.210219
+                  ]
+            },
+            {
+                  "name": "State opera Varna",
+                  "text": "The Varna State Opera offers a wide range of opera, ballet, and concert performances.",
+                  "category": "cultural",
+                  "coords": [
+                        27.912229,
+                        43.203505
+                  ]
+            },
+            {
+                  "name": "Blue Gallery",
+                  "text": "An arts centre in Varna hosting exhibitions and creative events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.915427,
+                        43.204255
+                  ]
+            },
+            {
+                  "name": "Art salon",
+                  "text": "A cultural space in Varna for art exhibitions and literary meetings.",
+                  "category": "cultural",
+                  "coords": [
+                        27.923184,
+                        43.204368
+                  ]
+            },
+            {
+                  "name": "Vhoden far Varna - zelen",
+                  "text": "A green lighthouse at the entrance of the Varna port for ship navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        27.920458,
+                        43.191299
+                  ]
+            },
+            {
+                  "name": "Vhoden far Varna - cherven",
+                  "text": "A red lighthouse at the entrance of the Varna port for marking the waterway.",
+                  "category": "landmark",
+                  "coords": [
+                        27.917945,
+                        43.191226
+                  ]
+            },
+            {
+                  "name": "Vyatarna melnitsa",
+                  "text": "A traditional windmill in Varna, an example of local historical architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        27.908295,
+                        43.225683
+                  ]
+            },
+            {
+                  "name": "Krivoto darvo",
+                  "text": "A botanical curiosity in the Varna park, known for its unusual growth shape.",
+                  "category": "landmark",
+                  "coords": [
+                        27.929134,
+                        43.206949
+                  ]
+            },
+            {
+                  "name": "Traban'chitu",
+                  "text": "A small local attraction in Varna related to the Trabant car.",
+                  "category": "landmark",
+                  "coords": [
+                        27.901778,
+                        43.207724
+                  ]
+            },
+            {
+                  "name": "Byal shtarkel",
+                  "text": "An observation point or attraction in Varna dedicated to the white stork.",
+                  "category": "landmark",
+                  "coords": [
+                        27.935784,
+                        43.210775
+                  ]
+            },
+            {
+                  "name": "Lake Varna",
+                  "text": "The Lake Varna in Varna is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.814291,
+                        43.195569
+                  ]
+            },
+            {
+                  "name": "Chasten zoopark Izgrev",
+                  "text": "A private zoo in Varna featuring a variety of animals for families to observe.",
+                  "category": "family",
+                  "coords": [
+                        27.921375,
+                        43.242247
+                  ]
+            },
+            {
+                  "name": "Yulian Rusev",
+                  "text": "A public swimming pool facility located in the city of Varna.",
+                  "category": "family",
+                  "coords": [
+                        27.920631,
+                        43.197985
+                  ]
+            },
+            {
+                  "name": "Delfinarium",
+                  "text": "This aquarium in Varna is known for its dolphin shows and marine exhibits.",
+                  "category": "family",
+                  "coords": [
+                        27.943431,
+                        43.212625
+                  ]
+            },
+            {
+                  "name": "Northern antique city wall",
+                  "text": "The Northern antique city wall is a historical relic testifying to the defensive history of Varna. Visitors can view the remains of the fortifications and learn more about the ancient city.",
+                  "category": "landmark",
+                  "coords": [
+                        27.916007,
+                        43.203256
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [27.9147, 43.2141],
@@ -848,7 +2729,1060 @@ export const poiExtraBulgariaCities: POI[] = [
     image: "/geo-images/bulgaria/city-sliven.webp"
   },
   {
-    id: "city-stara-zagora", "sights": {"de": [{"name": "Muzei \"Literaturna Stara Zagora\"", "text": "Das Museum „Literarische Stara Zagora“ widmet sich dem reichen literarischen Erbe von Stara Sagora.", "category": "museum", "coords": [25.628036, 42.427362]}, {"name": "Darzhavna Opera Stara Zagora", "text": "Die Staatsoper Stara Sagora ist ein wichtiger Veranstaltungsort für Opernaufführungen in der Stadt.", "category": "cultural", "coords": [25.626073, 42.427654]}, {"name": "Dramatichen teatar Geo Milev", "text": "Das Geo-Milew-Dramatheater ist eine bedeutende Theatereinrichtung in Stara Sagora.", "category": "cultural", "coords": [25.62632, 42.426143]}, {"name": "Park \"Bedechka\"", "text": "Der Bedechka-Park ist ein beliebtes Erholungsgebiet in Stara Sagora.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Park „Balgarsko opalchenie“", "text": "Der Park der bulgarischen Miliz verfügt über ein großes Denkmal, das den Verteidigern von Stara Sagora gewidmet ist.", "category": "park", "coords": [25.654073, 42.433243]}, {"name": "Park „Podpolkovnik Kalitin“", "text": "Der Park Podpolkownik Kalitin ist ein öffentlicher Park und Gedenkbereich in Stara Sagora.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Zoopark Stara Zagora", "text": "Der Zoo von Stara Sagora ist ein Tierpark, der sich im Ayazmoto-Park der Stadt befindet.", "category": "family", "coords": [25.609873, 42.438752]}, {"name": "Neolitni zhilishta", "text": "Das Museum der neolithischen Wohnstätten bewahrt alte Wohnstrukturen in Stara Sagora.", "category": "museum", "coords": [25.610676, 42.424565]}, {"name": "Muzei na religiite", "text": "Das Museum der Religionen ist ein einzigartiges Kulturmuseum in Stara Sagora.", "category": "museum", "coords": [25.629113, 42.425038]}, {"name": "Kashta muzei \"Geo Milev\"", "text": "Das Geo-Milew-Hausmuseum ist dem Leben des berühmten expressionistischen Dichters in Stara Sagora gewidmet.", "category": "museum", "coords": [25.634152, 42.423353]}, {"name": "Tsarkva \"Sv. Deva Mariya pomoshtnitsa na hristiyanite\"", "text": "Die Kirche St. Maria Hilfe der Christen ist ein lokales Gotteshaus in Stara Sagora.", "category": "religious", "coords": [25.609261, 42.433764]}, {"name": "Mavzolei kostnitsa", "text": "Das Mausoleum-Beinhaus ist ein historisches Museum und eine Gedenkstätte in Stara Sagora.", "category": "museum", "coords": [25.617074, 42.429829]}, {"name": "Kashta-muzei \"Gradski bit 19 vek\"", "text": "Das Museum für städtisches Leben im 19. Jahrhundert zeigt den traditionellen urbanen Lebensstil von Stara Sagora.", "category": "museum", "coords": [25.628657, 42.426154]}, {"name": "Hilendarski metoh", "text": "Der Hilendar-Metochion ist eine historische Museumsausstellung in Stara Sagora.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Art Gallery \"Lubor Bayer\"", "text": "Die Kunstgalerie „Lubor Bayer“ stellt verschiedene Kunstwerke in Stara Sagora aus.", "category": "museum", "coords": [25.625381, 42.426088]}, {"name": "Antichni termi", "text": "Die antiken Bäder stellen eine wichtige archäologische Stätte in der Stadt Stara Sagora dar.", "category": "historical", "coords": [25.624748, 42.427352]}, {"name": "Trakiiska grobnitsa", "text": "Das thrakische Grab ist eine antike archäologische Stätte in Stara Sagora.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "pam. Vasil Levski", "text": "Das Wassil-Lewski-Denkmal ehrt den bulgarischen Nationalhelden in Stara Sagora.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Pametnik na Hadzhi Dimitar", "text": "Das Denkmal für Hadschi Dimitar ist eine prominente Gedenkstätte in Stara Sagora.", "category": "historical", "coords": [25.62134, 42.432582]}, {"name": "Revolyutsionerski pametnik", "text": "Das Revolutionsdenkmal ist eine historische Gedenkstätte in Stara Sagora.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Darzhaven kuklen teatar - Stara Zagora", "text": "Das Staatliche Puppentheater in Stara Sagora ist ein lokaler Veranstaltungsort für darstellende Künste.", "category": "cultural", "coords": [25.624121, 42.422194]}, {"name": "Zodiak", "text": "Das Kunstzentrum Zodiac ist ein kreativer Knotenpunkt in der Stadt Stara Sagora.", "category": "cultural", "coords": [25.623459, 42.428149]}, {"name": "Blagoroden elen", "text": "Благороден елен ist eine Touristenattraktion in der Stadt Stara Sagora.", "category": "landmark", "coords": [25.607829, 42.438284]}, {"name": "Byalka", "text": "Бялка ist eine Touristenattraktion in der Stadt Stara Sagora.", "category": "landmark", "coords": [25.610633, 42.439797]}, {"name": "Vidri", "text": "Видри ist eine Touristenattraktion in der Stadt Stara Sagora.", "category": "landmark", "coords": [25.61104, 42.438453]}, {"name": "Ezero \"Zagorka\"", "text": "Ein See in Stara Sagora, der zum Entspannen und Verweilen einlädt.", "category": "natural", "coords": [25.637197, 42.444764]}, {"name": "Detska ploshtadka", "text": "Ein Spielplatz in Stara Sagora, der Kindern Raum zum Spielen bietet.", "category": "family", "coords": [25.602381, 42.421914]}, {"name": "Kompleks \"Art\"", "text": "Der Komplex Art in Stara Zagora bietet Unterkünfte und Dienstleistungen für Gäste.", "category": "family", "coords": [25.612246, 42.433791]}], "hu": [{"name": "Muzei \"Literaturna Stara Zagora\"", "text": "Az Irodalmi Sztara Zagora Múzeum Sztara Zagora gazdag irodalmi örökségét mutatja be.", "category": "museum", "coords": [25.628036, 42.427362]}, {"name": "Darzhavna Opera Stara Zagora", "text": "A Sztara Zagorai Állami Opera a város fontos kulturális helyszíne, ahol operaelőadásokat tartanak.", "category": "cultural", "coords": [25.626073, 42.427654]}, {"name": "Dramatichen teatar Geo Milev", "text": "A Geo Milev Drámaszínház egy kiemelkedő színházi intézmény Sztara Zagorában.", "category": "cultural", "coords": [25.62632, 42.426143]}, {"name": "Park \"Bedechka\"", "text": "A Bedecska Park egy népszerű rekreációs park Sztara Zagorában.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Park „Balgarsko opalchenie“", "text": "A Bolgár milícia parkjában egy hatalmas emlékmű áll Sztara Zagora védőinek tiszteletére.", "category": "park", "coords": [25.654073, 42.433243]}, {"name": "Park „Podpolkovnik Kalitin“", "text": "A Podpolkovnyik Kalitin Park egy nyilvános park és emlékhely Sztara Zagorában.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Zoopark Stara Zagora", "text": "A Sztara Zagorai Állatkert egy vadaspark, amely a város Ajazmoto parkjában található.", "category": "family", "coords": [25.609873, 42.438752]}, {"name": "Neolitni zhilishta", "text": "A Neolitikus Lakóhelyek Múzeuma ősi lakóépületeket őriz Sztara Zagorában.", "category": "museum", "coords": [25.610676, 42.424565]}, {"name": "Muzei na religiite", "text": "A Vallások Múzeuma egy egyedülálló kulturális múzeum Sztara Zagorában.", "category": "museum", "coords": [25.629113, 42.425038]}, {"name": "Kashta muzei \"Geo Milev\"", "text": "A Geo Milev Házmúzeum a híres expresszionista költő életét mutatja be Sztara Zagorában.", "category": "museum", "coords": [25.634152, 42.423353]}, {"name": "Tsarkva \"Sv. Deva Mariya pomoshtnitsa na hristiyanite\"", "text": "A Keresztények Segítsége Szűz Mária-templom egy helyi istentiszteleti hely Sztara Zagorában.", "category": "religious", "coords": [25.609261, 42.433764]}, {"name": "Mavzolei kostnitsa", "text": "A Mauzóleum-csontváry egy történelmi múzeum és emlékhely Sztara Zagorában.", "category": "museum", "coords": [25.617074, 42.429829]}, {"name": "Kashta-muzei \"Gradski bit 19 vek\"", "text": "A 19. századi városi élet múzeuma Sztara Zagora hagyományos városi életmódját mutatja be.", "category": "museum", "coords": [25.628657, 42.426154]}, {"name": "Hilendarski metoh", "text": "A Hilandari metohion egy történelmi múzeumi kiállítás Sztara Zagorában.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Art Gallery \"Lubor Bayer\"", "text": "A Lubor Bayer Művészeti Galéria különféle művészeti alkotásokat állít ki Sztara Zagorában.", "category": "museum", "coords": [25.625381, 42.426088]}, {"name": "Antichni termi", "text": "Az ókori fürdők fontos régészeti lelőhelyet képviselnek Sztara Zagora városában.", "category": "historical", "coords": [25.624748, 42.427352]}, {"name": "Trakiiska grobnitsa", "text": "A trák sír egy ősi régészeti lelőhely Sztara Zagorában.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "pam. Vasil Levski", "text": "A Vaszil Levszki-emlékmű a bolgár nemzeti hős előtt tiszteleg Sztara Zagorában.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Pametnik na Hadzhi Dimitar", "text": "A Hadzsi Dimitar-emlékmű egy kiemelkedő emlékhely Sztara Zagorában.", "category": "historical", "coords": [25.62134, 42.432582]}, {"name": "Revolyutsionerski pametnik", "text": "A Forradalmi emlékmű egy történelmi emlékhely Sztara Zagorában.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Darzhaven kuklen teatar - Stara Zagora", "text": "A Sztara Zagorai Állami Bábszínház egy helyi előadó-művészeti helyszín.", "category": "cultural", "coords": [25.624121, 42.422194]}, {"name": "Zodiak", "text": "A Zodiac művészeti központ egy kreatív csomópont Sztara Zagora városában.", "category": "cultural", "coords": [25.623459, 42.428149]}, {"name": "Blagoroden elen", "text": "A Благороден елен egy turisztikai látványosság Stara Sagora városában.", "category": "landmark", "coords": [25.607829, 42.438284]}, {"name": "Byalka", "text": "A Бялка egy turisztikai látványosság Stara Sagora városában.", "category": "landmark", "coords": [25.610633, 42.439797]}, {"name": "Vidri", "text": "A Видри egy turisztikai látványosság Stara Sagora városában.", "category": "landmark", "coords": [25.61104, 42.438453]}, {"name": "Ezero \"Zagorka\"", "text": "Egy tó Sztara Zagorában, amely pihenésre és kikapcsolódásra hív.", "category": "natural", "coords": [25.637197, 42.444764]}, {"name": "Detska ploshtadka", "text": "Egy játszótér Sztara Zagorában, amely helyet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [25.602381, 42.421914]}, {"name": "Kompleks \"Art\"", "text": "A stara zagorai Art komplexum szállást és szolgáltatásokat kínál a vendégeknek.", "category": "family", "coords": [25.612246, 42.433791]}], "ro": [{"name": "Muzei \"Literaturna Stara Zagora\"", "text": "Muzeul „Stara Zagora Literară” este dedicat bogatului patrimoniu literar din Stara Zagora.", "category": "museum", "coords": [25.628036, 42.427362]}, {"name": "Darzhavna Opera Stara Zagora", "text": "Opera de Stat Stara Zagora este un important loc cultural pentru spectacole de operă din oraș.", "category": "cultural", "coords": [25.626073, 42.427654]}, {"name": "Dramatichen teatar Geo Milev", "text": "Teatrul Dramatic Geo Milev este o instituție teatrală proeminentă din Stara Zagora.", "category": "cultural", "coords": [25.62632, 42.426143]}, {"name": "Park \"Bedechka\"", "text": "Parcul Bedecika este o zonă de parc recreativ populară din Stara Zagora.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Park „Balgarsko opalchenie“", "text": "Parcul miliției bulgare are un monument grandios dedicat apărătorilor orașului Stara Zagora.", "category": "park", "coords": [25.654073, 42.433243]}, {"name": "Park „Podpolkovnik Kalitin“", "text": "Parcul Podpolkovnik Kalitin este un parc public și o zonă memorială din Stara Zagora.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Zoopark Stara Zagora", "text": "Grădina Zoologică din Stara Zagora este un parc de animale situat în parcul Ayazmoto al orașului.", "category": "family", "coords": [25.609873, 42.438752]}, {"name": "Neolitni zhilishta", "text": "Muzeul Locuințelor Neolitice păstrează structuri de locuințe antice din Stara Zagora.", "category": "museum", "coords": [25.610676, 42.424565]}, {"name": "Muzei na religiite", "text": "Muzeul Religiilor este un muzeu cultural unic situat în Stara Zagora.", "category": "museum", "coords": [25.629113, 42.425038]}, {"name": "Kashta muzei \"Geo Milev\"", "text": "Casa-muzeu Geo Milev este dedicată vieții faimosului poet expresionist din Stara Zagora.", "category": "museum", "coords": [25.634152, 42.423353]}, {"name": "Tsarkva \"Sv. Deva Mariya pomoshtnitsa na hristiyanite\"", "text": "Biserica Sfânta Maria Ajutorul Creștinilor este un lăcaș de cult local din Stara Zagora.", "category": "religious", "coords": [25.609261, 42.433764]}, {"name": "Mavzolei kostnitsa", "text": "Mausoleul osuar este un muzeu istoric și un loc memorial din Stara Zagora.", "category": "museum", "coords": [25.617074, 42.429829]}, {"name": "Kashta-muzei \"Gradski bit 19 vek\"", "text": "Muzeul Vieții Urbane din Secolul al XIX-lea prezintă stilul de viață urban tradițional din Stara Zagora.", "category": "museum", "coords": [25.628657, 42.426154]}, {"name": "Hilendarski metoh", "text": "Metocul Hilandar este o expoziție muzeală istorică situată în Stara Zagora.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Art Gallery \"Lubor Bayer\"", "text": "Galeria de Artă „Lubor Bayer” expune diverse lucrări artistice în Stara Zagora.", "category": "museum", "coords": [25.625381, 42.426088]}, {"name": "Antichni termi", "text": "Băile antice reprezintă un important sit arheologic din orașul Stara Zagora.", "category": "historical", "coords": [25.624748, 42.427352]}, {"name": "Trakiiska grobnitsa", "text": "Mormântul tracic este un sit arheologic antic găsit în Stara Zagora.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "pam. Vasil Levski", "text": "Monumentul Vasil Levski îl onorează pe eroul național bulgar în Stara Zagora.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Pametnik na Hadzhi Dimitar", "text": "Monumentul lui Hadji Dimitar este un memorial proeminent situat în Stara Zagora.", "category": "historical", "coords": [25.62134, 42.432582]}, {"name": "Revolyutsionerski pametnik", "text": "Monumentul Revoluționar este un sit comemorativ istoric din Stara Zagora.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "Darzhaven kuklen teatar - Stara Zagora", "text": "Teatrul de Stat de Păpuși din Stara Zagora este un loc local de arte spectacolului.", "category": "cultural", "coords": [25.624121, 42.422194]}, {"name": "Zodiak", "text": "Centrul de arte Zodiac este un hub creativ situat în orașul Stara Zagora.", "category": "cultural", "coords": [25.623459, 42.428149]}, {"name": "Blagoroden elen", "text": "Благороден елен este o atracție turistică situată în orașul Stara Sagora.", "category": "landmark", "coords": [25.607829, 42.438284]}, {"name": "Byalka", "text": "Бялка este o atracție turistică situată în orașul Stara Sagora.", "category": "landmark", "coords": [25.610633, 42.439797]}, {"name": "Vidri", "text": "Видри este o atracție turistică situată în orașul Stara Sagora.", "category": "landmark", "coords": [25.61104, 42.438453]}, {"name": "Ezero \"Zagorka\"", "text": "Un lac în Stara Zagora, care invită la relaxare și petrecerea timpului liber.", "category": "natural", "coords": [25.637197, 42.444764]}, {"name": "Detska ploshtadka", "text": "Un loc de joacă în Stara Zagora, care oferă spațiu pentru joacă copiilor.", "category": "family", "coords": [25.602381, 42.421914]}, {"name": "Kompleks \"Art\"", "text": "Complexul Art din Stara Zagora oferă cazare și servicii pentru oaspeți.", "category": "family", "coords": [25.612246, 42.433791]}], "en": [{"name": "Muzei \"Literaturna Stara Zagora\"", "text": "The \"Literary Stara Zagora\" Museum is dedicated to the rich literary heritage of Stara Sagora.", "category": "museum", "coords": [25.628036, 42.427362]}, {"name": "Darzhavna Opera Stara Zagora", "text": "The State Opera Stara Zagora is a major cultural venue for operatic performances in the city.", "category": "cultural", "coords": [25.626073, 42.427654]}, {"name": "Dramatichen teatar Geo Milev", "text": "The Geo Milev Drama Theatre is a prominent theatrical institution in Stara Sagora.", "category": "cultural", "coords": [25.62632, 42.426143]}, {"name": "Bedechka Park", "text": "Bedechka Park is a popular recreational park area located in Stara Sagora.", "category": "park", "coords": [25.639224, 42.439566]}, {"name": "Bulgarian militia park", "text": "The Bulgarian militia park features a grand monument dedicated to the defenders of Stara Sagora.", "category": "park", "coords": [25.654073, 42.433243]}, {"name": "Podpolkovnik Kalitin Park", "text": "The Podpolkovnik Kalitin Park is a public park and memorial area in Stara Sagora.", "category": "park", "coords": [25.644582, 42.425044]}, {"name": "Stara Zagora Zoo", "text": "The Stara Zagora Zoo is an animal park located in the Ayazmoto park area of the city.", "category": "family", "coords": [25.609873, 42.438752]}, {"name": "Neolithic Dwellings Museum", "text": "The Neolithic Dwellings Museum preserves ancient housing structures in Stara Sagora.", "category": "museum", "coords": [25.610676, 42.424565]}, {"name": "Muzei na religiite", "text": "The Museum of Religions is a unique cultural museum located in Stara Sagora.", "category": "museum", "coords": [25.629113, 42.425038]}, {"name": "Kashta muzei \"Geo Milev\"", "text": "The Geo Milev House Museum is dedicated to the life of the famous expressionist poet in Stara Sagora.", "category": "museum", "coords": [25.634152, 42.423353]}, {"name": "Tsarkva \"Sv. Deva Mariya pomoshtnitsa na hristiyanite\"", "text": "The Church of St. Mary Help of Christians is a local place of worship in Stara Sagora.", "category": "religious", "coords": [25.609261, 42.433764]}, {"name": "Mavzolei kostnitsa", "text": "The Mausoleum ossuary is a historical museum and memorial site in Stara Sagora.", "category": "museum", "coords": [25.617074, 42.429829]}, {"name": "Kashta-muzei \"Gradski bit 19 vek\"", "text": "The 19th Century City Life Museum showcases the traditional urban lifestyle of Stara Sagora.", "category": "museum", "coords": [25.628657, 42.426154]}, {"name": "Hilendarski metoh", "text": "The Hilendar metochion is a historical museum exhibit located in Stara Sagora.", "category": "museum", "coords": [25.629339, 42.430881]}, {"name": "Art Gallery \"Lubor Bayer\"", "text": "The Art Gallery \"Lubor Bayer\" exhibits various artistic works in Stara Sagora.", "category": "museum", "coords": [25.625381, 42.426088]}, {"name": "Ancient baths", "text": "The Ancient baths represent an important archaeological site in the city of Stara Sagora.", "category": "historical", "coords": [25.624748, 42.427352]}, {"name": "Trakiiska grobnitsa", "text": "The Thracian tomb is an ancient archaeological site found in Stara Sagora.", "category": "historical", "coords": [25.638817, 42.431693]}, {"name": "pam. Vasil Levski", "text": "The Vasil Levski monument honors the Bulgarian national hero in Stara Sagora.", "category": "historical", "coords": [25.628409, 42.430189]}, {"name": "Pametnik na Hadzhi Dimitar", "text": "The Monument to Hadzhi Dimitar is a prominent memorial situated in Stara Sagora.", "category": "historical", "coords": [25.62134, 42.432582]}, {"name": "Revolyutsionerski pametnik", "text": "The Revolutionary monument is a historical commemorative site in Stara Sagora.", "category": "historical", "coords": [25.638062, 42.426003]}, {"name": "State Puppet Theatre - Stara Zagora", "text": "The State Puppet Theatre in Stara Zagora is a local performing arts venue.", "category": "cultural", "coords": [25.624121, 42.422194]}, {"name": "Zodiak", "text": "The Zodiac arts centre is a creative hub located in the city of Stara Sagora.", "category": "cultural", "coords": [25.623459, 42.428149]}, {"name": "Blagoroden elen", "text": "Благороден елен is a tourist attraction located in the city of Stara Sagora.", "category": "landmark", "coords": [25.607829, 42.438284]}, {"name": "Byalka", "text": "Бялка is a tourist attraction located in the city of Stara Sagora.", "category": "landmark", "coords": [25.610633, 42.439797]}, {"name": "Vidri", "text": "Видри is a tourist attraction located in the city of Stara Sagora.", "category": "landmark", "coords": [25.61104, 42.438453]}, {"name": "Ezero \"Zagorka\"", "text": "A lake in Stara Zagora, inviting relaxation and leisure.", "category": "natural", "coords": [25.637197, 42.444764]}, {"name": "Detska ploshtadka", "text": "A playground in Stara Zagora offering space for children to play.", "category": "family", "coords": [25.602381, 42.421914]}, {"name": "Kompleks \"Art\"", "text": "The Art Complex in Stara Zagora offers accommodation and services for guests.", "category": "family", "coords": [25.612246, 42.433791]}]},
+    id: "city-stara-zagora", "sights": {
+      "de": [
+            {
+                  "name": "Muzei \"Literaturna Stara Zagora\"",
+                  "text": "Das Museum „Literarische Stara Zagora“ widmet sich dem reichen literarischen Erbe von Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.628036,
+                        42.427362
+                  ]
+            },
+            {
+                  "name": "Darzhavna Opera Stara Zagora",
+                  "text": "Die Staatsoper Stara Sagora ist ein wichtiger Veranstaltungsort für Opernaufführungen in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        25.626073,
+                        42.427654
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Geo Milev",
+                  "text": "Das Geo-Milew-Dramatheater ist eine bedeutende Theatereinrichtung in Stara Sagora.",
+                  "category": "cultural",
+                  "coords": [
+                        25.62632,
+                        42.426143
+                  ]
+            },
+            {
+                  "name": "Park \"Bedechka\"",
+                  "text": "Der Bedechka-Park ist ein beliebtes Erholungsgebiet in Stara Sagora.",
+                  "category": "park",
+                  "coords": [
+                        25.639224,
+                        42.439566
+                  ]
+            },
+            {
+                  "name": "Park „Balgarsko opalchenie“",
+                  "text": "Der Park der bulgarischen Miliz verfügt über ein großes Denkmal, das den Verteidigern von Stara Sagora gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        25.654073,
+                        42.433243
+                  ]
+            },
+            {
+                  "name": "Park „Podpolkovnik Kalitin“",
+                  "text": "Der Park Podpolkownik Kalitin ist ein öffentlicher Park und Gedenkbereich in Stara Sagora.",
+                  "category": "park",
+                  "coords": [
+                        25.644582,
+                        42.425044
+                  ]
+            },
+            {
+                  "name": "Zoopark Stara Zagora",
+                  "text": "Der Zoo von Stara Sagora ist ein Tierpark, der sich im Ayazmoto-Park der Stadt befindet.",
+                  "category": "family",
+                  "coords": [
+                        25.609873,
+                        42.438752
+                  ]
+            },
+            {
+                  "name": "Neolitni zhilishta",
+                  "text": "Das Museum der neolithischen Wohnstätten bewahrt alte Wohnstrukturen in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.610676,
+                        42.424565
+                  ]
+            },
+            {
+                  "name": "Muzei na religiite",
+                  "text": "Das Museum der Religionen ist ein einzigartiges Kulturmuseum in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.629113,
+                        42.425038
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"Geo Milev\"",
+                  "text": "Das Geo-Milew-Hausmuseum ist dem Leben des berühmten expressionistischen Dichters in Stara Sagora gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        25.634152,
+                        42.423353
+                  ]
+            },
+            {
+                  "name": "Tsarkva \"Sv. Deva Mariya pomoshtnitsa na hristiyanite\"",
+                  "text": "Die Kirche St. Maria Hilfe der Christen ist ein lokales Gotteshaus in Stara Sagora.",
+                  "category": "religious",
+                  "coords": [
+                        25.609261,
+                        42.433764
+                  ]
+            },
+            {
+                  "name": "Mavzolei kostnitsa",
+                  "text": "Das Mausoleum-Beinhaus ist ein historisches Museum und eine Gedenkstätte in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.617074,
+                        42.429829
+                  ]
+            },
+            {
+                  "name": "Kashta-muzei \"Gradski bit 19 vek\"",
+                  "text": "Das Museum für städtisches Leben im 19. Jahrhundert zeigt den traditionellen urbanen Lebensstil von Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.628657,
+                        42.426154
+                  ]
+            },
+            {
+                  "name": "Hilendarski metoh",
+                  "text": "Der Hilendar-Metochion ist eine historische Museumsausstellung in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.629339,
+                        42.430881
+                  ]
+            },
+            {
+                  "name": "Art Gallery \"Lubor Bayer\"",
+                  "text": "Die Kunstgalerie „Lubor Bayer“ stellt verschiedene Kunstwerke in Stara Sagora aus.",
+                  "category": "museum",
+                  "coords": [
+                        25.625381,
+                        42.426088
+                  ]
+            },
+            {
+                  "name": "Antichni termi",
+                  "text": "Die antiken Bäder stellen eine wichtige archäologische Stätte in der Stadt Stara Sagora dar.",
+                  "category": "historical",
+                  "coords": [
+                        25.624748,
+                        42.427352
+                  ]
+            },
+            {
+                  "name": "Trakiiska grobnitsa",
+                  "text": "Das thrakische Grab ist eine antike archäologische Stätte in Stara Sagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.638817,
+                        42.431693
+                  ]
+            },
+            {
+                  "name": "pam. Vasil Levski",
+                  "text": "Das Wassil-Lewski-Denkmal ehrt den bulgarischen Nationalhelden in Stara Sagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.628409,
+                        42.430189
+                  ]
+            },
+            {
+                  "name": "Pametnik na Hadzhi Dimitar",
+                  "text": "Das Denkmal für Hadschi Dimitar ist eine prominente Gedenkstätte in Stara Sagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.62134,
+                        42.432582
+                  ]
+            },
+            {
+                  "name": "Revolyutsionerski pametnik",
+                  "text": "Das Revolutionsdenkmal ist eine historische Gedenkstätte in Stara Sagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.638062,
+                        42.426003
+                  ]
+            },
+            {
+                  "name": "Darzhaven kuklen teatar - Stara Zagora",
+                  "text": "Das Staatliche Puppentheater in Stara Sagora ist ein lokaler Veranstaltungsort für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        25.624121,
+                        42.422194
+                  ]
+            },
+            {
+                  "name": "Zodiak",
+                  "text": "Das Kunstzentrum Zodiac ist ein kreativer Knotenpunkt in der Stadt Stara Sagora.",
+                  "category": "cultural",
+                  "coords": [
+                        25.623459,
+                        42.428149
+                  ]
+            },
+            {
+                  "name": "Blagoroden elen",
+                  "text": "Благороден елен ist eine Touristenattraktion in der Stadt Stara Sagora.",
+                  "category": "landmark",
+                  "coords": [
+                        25.607829,
+                        42.438284
+                  ]
+            },
+            {
+                  "name": "Byalka",
+                  "text": "Бялка ist eine Touristenattraktion in der Stadt Stara Sagora.",
+                  "category": "landmark",
+                  "coords": [
+                        25.610633,
+                        42.439797
+                  ]
+            },
+            {
+                  "name": "Vidri",
+                  "text": "Видри ist eine Touristenattraktion in der Stadt Stara Sagora.",
+                  "category": "landmark",
+                  "coords": [
+                        25.61104,
+                        42.438453
+                  ]
+            },
+            {
+                  "name": "Ezero \"Zagorka\"",
+                  "text": "Ein See in Stara Sagora, der zum Entspannen und Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        25.637197,
+                        42.444764
+                  ]
+            },
+            {
+                  "name": "Detska ploshtadka",
+                  "text": "Ein Spielplatz in Stara Sagora, der Kindern Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.602381,
+                        42.421914
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Art\"",
+                  "text": "Der Komplex Art in Stara Zagora bietet Unterkünfte und Dienstleistungen für Gäste.",
+                  "category": "family",
+                  "coords": [
+                        25.612246,
+                        42.433791
+                  ]
+            },
+            {
+                  "name": "България 1300",
+                  "text": "Das Denkmal 'Bulgarien 1300' in Stara Zagora erinnert an die lange Geschichte und das Erbe des bulgarischen Staates. Es ist ein imposantes Monument, das oft von Geschichtsinteressierten besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        25.614094,
+                        42.417416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei \"Literaturna Stara Zagora\"",
+                  "text": "Az Irodalmi Sztara Zagora Múzeum Sztara Zagora gazdag irodalmi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.628036,
+                        42.427362
+                  ]
+            },
+            {
+                  "name": "Darzhavna Opera Stara Zagora",
+                  "text": "A Sztara Zagorai Állami Opera a város fontos kulturális helyszíne, ahol operaelőadásokat tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        25.626073,
+                        42.427654
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Geo Milev",
+                  "text": "A Geo Milev Drámaszínház egy kiemelkedő színházi intézmény Sztara Zagorában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.62632,
+                        42.426143
+                  ]
+            },
+            {
+                  "name": "Park \"Bedechka\"",
+                  "text": "A Bedecska Park egy népszerű rekreációs park Sztara Zagorában.",
+                  "category": "park",
+                  "coords": [
+                        25.639224,
+                        42.439566
+                  ]
+            },
+            {
+                  "name": "Park „Balgarsko opalchenie“",
+                  "text": "A Bolgár milícia parkjában egy hatalmas emlékmű áll Sztara Zagora védőinek tiszteletére.",
+                  "category": "park",
+                  "coords": [
+                        25.654073,
+                        42.433243
+                  ]
+            },
+            {
+                  "name": "Park „Podpolkovnik Kalitin“",
+                  "text": "A Podpolkovnyik Kalitin Park egy nyilvános park és emlékhely Sztara Zagorában.",
+                  "category": "park",
+                  "coords": [
+                        25.644582,
+                        42.425044
+                  ]
+            },
+            {
+                  "name": "Zoopark Stara Zagora",
+                  "text": "A Sztara Zagorai Állatkert egy vadaspark, amely a város Ajazmoto parkjában található.",
+                  "category": "family",
+                  "coords": [
+                        25.609873,
+                        42.438752
+                  ]
+            },
+            {
+                  "name": "Neolitni zhilishta",
+                  "text": "A Neolitikus Lakóhelyek Múzeuma ősi lakóépületeket őriz Sztara Zagorában.",
+                  "category": "museum",
+                  "coords": [
+                        25.610676,
+                        42.424565
+                  ]
+            },
+            {
+                  "name": "Muzei na religiite",
+                  "text": "A Vallások Múzeuma egy egyedülálló kulturális múzeum Sztara Zagorában.",
+                  "category": "museum",
+                  "coords": [
+                        25.629113,
+                        42.425038
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"Geo Milev\"",
+                  "text": "A Geo Milev Házmúzeum a híres expresszionista költő életét mutatja be Sztara Zagorában.",
+                  "category": "museum",
+                  "coords": [
+                        25.634152,
+                        42.423353
+                  ]
+            },
+            {
+                  "name": "Tsarkva \"Sv. Deva Mariya pomoshtnitsa na hristiyanite\"",
+                  "text": "A Keresztények Segítsége Szűz Mária-templom egy helyi istentiszteleti hely Sztara Zagorában.",
+                  "category": "religious",
+                  "coords": [
+                        25.609261,
+                        42.433764
+                  ]
+            },
+            {
+                  "name": "Mavzolei kostnitsa",
+                  "text": "A Mauzóleum-csontváry egy történelmi múzeum és emlékhely Sztara Zagorában.",
+                  "category": "museum",
+                  "coords": [
+                        25.617074,
+                        42.429829
+                  ]
+            },
+            {
+                  "name": "Kashta-muzei \"Gradski bit 19 vek\"",
+                  "text": "A 19. századi városi élet múzeuma Sztara Zagora hagyományos városi életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.628657,
+                        42.426154
+                  ]
+            },
+            {
+                  "name": "Hilendarski metoh",
+                  "text": "A Hilandari metohion egy történelmi múzeumi kiállítás Sztara Zagorában.",
+                  "category": "museum",
+                  "coords": [
+                        25.629339,
+                        42.430881
+                  ]
+            },
+            {
+                  "name": "Art Gallery \"Lubor Bayer\"",
+                  "text": "A Lubor Bayer Művészeti Galéria különféle művészeti alkotásokat állít ki Sztara Zagorában.",
+                  "category": "museum",
+                  "coords": [
+                        25.625381,
+                        42.426088
+                  ]
+            },
+            {
+                  "name": "Antichni termi",
+                  "text": "Az ókori fürdők fontos régészeti lelőhelyet képviselnek Sztara Zagora városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.624748,
+                        42.427352
+                  ]
+            },
+            {
+                  "name": "Trakiiska grobnitsa",
+                  "text": "A trák sír egy ősi régészeti lelőhely Sztara Zagorában.",
+                  "category": "historical",
+                  "coords": [
+                        25.638817,
+                        42.431693
+                  ]
+            },
+            {
+                  "name": "pam. Vasil Levski",
+                  "text": "A Vaszil Levszki-emlékmű a bolgár nemzeti hős előtt tiszteleg Sztara Zagorában.",
+                  "category": "historical",
+                  "coords": [
+                        25.628409,
+                        42.430189
+                  ]
+            },
+            {
+                  "name": "Pametnik na Hadzhi Dimitar",
+                  "text": "A Hadzsi Dimitar-emlékmű egy kiemelkedő emlékhely Sztara Zagorában.",
+                  "category": "historical",
+                  "coords": [
+                        25.62134,
+                        42.432582
+                  ]
+            },
+            {
+                  "name": "Revolyutsionerski pametnik",
+                  "text": "A Forradalmi emlékmű egy történelmi emlékhely Sztara Zagorában.",
+                  "category": "historical",
+                  "coords": [
+                        25.638062,
+                        42.426003
+                  ]
+            },
+            {
+                  "name": "Darzhaven kuklen teatar - Stara Zagora",
+                  "text": "A Sztara Zagorai Állami Bábszínház egy helyi előadó-művészeti helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        25.624121,
+                        42.422194
+                  ]
+            },
+            {
+                  "name": "Zodiak",
+                  "text": "A Zodiac művészeti központ egy kreatív csomópont Sztara Zagora városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.623459,
+                        42.428149
+                  ]
+            },
+            {
+                  "name": "Blagoroden elen",
+                  "text": "A Благороден елен egy turisztikai látványosság Stara Sagora városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.607829,
+                        42.438284
+                  ]
+            },
+            {
+                  "name": "Byalka",
+                  "text": "A Бялка egy turisztikai látványosság Stara Sagora városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.610633,
+                        42.439797
+                  ]
+            },
+            {
+                  "name": "Vidri",
+                  "text": "A Видри egy turisztikai látványosság Stara Sagora városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.61104,
+                        42.438453
+                  ]
+            },
+            {
+                  "name": "Ezero \"Zagorka\"",
+                  "text": "Egy tó Sztara Zagorában, amely pihenésre és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        25.637197,
+                        42.444764
+                  ]
+            },
+            {
+                  "name": "Detska ploshtadka",
+                  "text": "Egy játszótér Sztara Zagorában, amely helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        25.602381,
+                        42.421914
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Art\"",
+                  "text": "A stara zagorai Art komplexum szállást és szolgáltatásokat kínál a vendégeknek.",
+                  "category": "family",
+                  "coords": [
+                        25.612246,
+                        42.433791
+                  ]
+            },
+            {
+                  "name": "България 1300",
+                  "text": "A 'Bulgária 1300' emlékmű Sztara Zagorában a bolgár állam hosszú történelmére és örökségére emlékeztet. Impozáns emlékmű, amelyet gyakran keresnek fel a történelem iránt érdeklődők.",
+                  "category": "landmark",
+                  "coords": [
+                        25.614094,
+                        42.417416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei \"Literaturna Stara Zagora\"",
+                  "text": "Muzeul „Stara Zagora Literară” este dedicat bogatului patrimoniu literar din Stara Zagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.628036,
+                        42.427362
+                  ]
+            },
+            {
+                  "name": "Darzhavna Opera Stara Zagora",
+                  "text": "Opera de Stat Stara Zagora este un important loc cultural pentru spectacole de operă din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        25.626073,
+                        42.427654
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Geo Milev",
+                  "text": "Teatrul Dramatic Geo Milev este o instituție teatrală proeminentă din Stara Zagora.",
+                  "category": "cultural",
+                  "coords": [
+                        25.62632,
+                        42.426143
+                  ]
+            },
+            {
+                  "name": "Park \"Bedechka\"",
+                  "text": "Parcul Bedecika este o zonă de parc recreativ populară din Stara Zagora.",
+                  "category": "park",
+                  "coords": [
+                        25.639224,
+                        42.439566
+                  ]
+            },
+            {
+                  "name": "Park „Balgarsko opalchenie“",
+                  "text": "Parcul miliției bulgare are un monument grandios dedicat apărătorilor orașului Stara Zagora.",
+                  "category": "park",
+                  "coords": [
+                        25.654073,
+                        42.433243
+                  ]
+            },
+            {
+                  "name": "Park „Podpolkovnik Kalitin“",
+                  "text": "Parcul Podpolkovnik Kalitin este un parc public și o zonă memorială din Stara Zagora.",
+                  "category": "park",
+                  "coords": [
+                        25.644582,
+                        42.425044
+                  ]
+            },
+            {
+                  "name": "Zoopark Stara Zagora",
+                  "text": "Grădina Zoologică din Stara Zagora este un parc de animale situat în parcul Ayazmoto al orașului.",
+                  "category": "family",
+                  "coords": [
+                        25.609873,
+                        42.438752
+                  ]
+            },
+            {
+                  "name": "Neolitni zhilishta",
+                  "text": "Muzeul Locuințelor Neolitice păstrează structuri de locuințe antice din Stara Zagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.610676,
+                        42.424565
+                  ]
+            },
+            {
+                  "name": "Muzei na religiite",
+                  "text": "Muzeul Religiilor este un muzeu cultural unic situat în Stara Zagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.629113,
+                        42.425038
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"Geo Milev\"",
+                  "text": "Casa-muzeu Geo Milev este dedicată vieții faimosului poet expresionist din Stara Zagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.634152,
+                        42.423353
+                  ]
+            },
+            {
+                  "name": "Tsarkva \"Sv. Deva Mariya pomoshtnitsa na hristiyanite\"",
+                  "text": "Biserica Sfânta Maria Ajutorul Creștinilor este un lăcaș de cult local din Stara Zagora.",
+                  "category": "religious",
+                  "coords": [
+                        25.609261,
+                        42.433764
+                  ]
+            },
+            {
+                  "name": "Mavzolei kostnitsa",
+                  "text": "Mausoleul osuar este un muzeu istoric și un loc memorial din Stara Zagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.617074,
+                        42.429829
+                  ]
+            },
+            {
+                  "name": "Kashta-muzei \"Gradski bit 19 vek\"",
+                  "text": "Muzeul Vieții Urbane din Secolul al XIX-lea prezintă stilul de viață urban tradițional din Stara Zagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.628657,
+                        42.426154
+                  ]
+            },
+            {
+                  "name": "Hilendarski metoh",
+                  "text": "Metocul Hilandar este o expoziție muzeală istorică situată în Stara Zagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.629339,
+                        42.430881
+                  ]
+            },
+            {
+                  "name": "Art Gallery \"Lubor Bayer\"",
+                  "text": "Galeria de Artă „Lubor Bayer” expune diverse lucrări artistice în Stara Zagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.625381,
+                        42.426088
+                  ]
+            },
+            {
+                  "name": "Antichni termi",
+                  "text": "Băile antice reprezintă un important sit arheologic din orașul Stara Zagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.624748,
+                        42.427352
+                  ]
+            },
+            {
+                  "name": "Trakiiska grobnitsa",
+                  "text": "Mormântul tracic este un sit arheologic antic găsit în Stara Zagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.638817,
+                        42.431693
+                  ]
+            },
+            {
+                  "name": "pam. Vasil Levski",
+                  "text": "Monumentul Vasil Levski îl onorează pe eroul național bulgar în Stara Zagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.628409,
+                        42.430189
+                  ]
+            },
+            {
+                  "name": "Pametnik na Hadzhi Dimitar",
+                  "text": "Monumentul lui Hadji Dimitar este un memorial proeminent situat în Stara Zagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.62134,
+                        42.432582
+                  ]
+            },
+            {
+                  "name": "Revolyutsionerski pametnik",
+                  "text": "Monumentul Revoluționar este un sit comemorativ istoric din Stara Zagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.638062,
+                        42.426003
+                  ]
+            },
+            {
+                  "name": "Darzhaven kuklen teatar - Stara Zagora",
+                  "text": "Teatrul de Stat de Păpuși din Stara Zagora este un loc local de arte spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        25.624121,
+                        42.422194
+                  ]
+            },
+            {
+                  "name": "Zodiak",
+                  "text": "Centrul de arte Zodiac este un hub creativ situat în orașul Stara Zagora.",
+                  "category": "cultural",
+                  "coords": [
+                        25.623459,
+                        42.428149
+                  ]
+            },
+            {
+                  "name": "Blagoroden elen",
+                  "text": "Благороден елен este o atracție turistică situată în orașul Stara Sagora.",
+                  "category": "landmark",
+                  "coords": [
+                        25.607829,
+                        42.438284
+                  ]
+            },
+            {
+                  "name": "Byalka",
+                  "text": "Бялка este o atracție turistică situată în orașul Stara Sagora.",
+                  "category": "landmark",
+                  "coords": [
+                        25.610633,
+                        42.439797
+                  ]
+            },
+            {
+                  "name": "Vidri",
+                  "text": "Видри este o atracție turistică situată în orașul Stara Sagora.",
+                  "category": "landmark",
+                  "coords": [
+                        25.61104,
+                        42.438453
+                  ]
+            },
+            {
+                  "name": "Ezero \"Zagorka\"",
+                  "text": "Un lac în Stara Zagora, care invită la relaxare și petrecerea timpului liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.637197,
+                        42.444764
+                  ]
+            },
+            {
+                  "name": "Detska ploshtadka",
+                  "text": "Un loc de joacă în Stara Zagora, care oferă spațiu pentru joacă copiilor.",
+                  "category": "family",
+                  "coords": [
+                        25.602381,
+                        42.421914
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Art\"",
+                  "text": "Complexul Art din Stara Zagora oferă cazare și servicii pentru oaspeți.",
+                  "category": "family",
+                  "coords": [
+                        25.612246,
+                        42.433791
+                  ]
+            },
+            {
+                  "name": "България 1300",
+                  "text": "Monumentul „Bulgaria 1300” din Stara Zagora comemorează istoria lungă și moștenirea statului bulgar. Este un monument impunător, vizitat adesea de cei interesați de istorie.",
+                  "category": "landmark",
+                  "coords": [
+                        25.614094,
+                        42.417416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei \"Literaturna Stara Zagora\"",
+                  "text": "The \"Literary Stara Zagora\" Museum is dedicated to the rich literary heritage of Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.628036,
+                        42.427362
+                  ]
+            },
+            {
+                  "name": "Darzhavna Opera Stara Zagora",
+                  "text": "The State Opera Stara Zagora is a major cultural venue for operatic performances in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        25.626073,
+                        42.427654
+                  ]
+            },
+            {
+                  "name": "Dramatichen teatar Geo Milev",
+                  "text": "The Geo Milev Drama Theatre is a prominent theatrical institution in Stara Sagora.",
+                  "category": "cultural",
+                  "coords": [
+                        25.62632,
+                        42.426143
+                  ]
+            },
+            {
+                  "name": "Bedechka Park",
+                  "text": "Bedechka Park is a popular recreational park area located in Stara Sagora.",
+                  "category": "park",
+                  "coords": [
+                        25.639224,
+                        42.439566
+                  ]
+            },
+            {
+                  "name": "Bulgarian militia park",
+                  "text": "The Bulgarian militia park features a grand monument dedicated to the defenders of Stara Sagora.",
+                  "category": "park",
+                  "coords": [
+                        25.654073,
+                        42.433243
+                  ]
+            },
+            {
+                  "name": "Podpolkovnik Kalitin Park",
+                  "text": "The Podpolkovnik Kalitin Park is a public park and memorial area in Stara Sagora.",
+                  "category": "park",
+                  "coords": [
+                        25.644582,
+                        42.425044
+                  ]
+            },
+            {
+                  "name": "Stara Zagora Zoo",
+                  "text": "The Stara Zagora Zoo is an animal park located in the Ayazmoto park area of the city.",
+                  "category": "family",
+                  "coords": [
+                        25.609873,
+                        42.438752
+                  ]
+            },
+            {
+                  "name": "Neolithic Dwellings Museum",
+                  "text": "The Neolithic Dwellings Museum preserves ancient housing structures in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.610676,
+                        42.424565
+                  ]
+            },
+            {
+                  "name": "Muzei na religiite",
+                  "text": "The Museum of Religions is a unique cultural museum located in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.629113,
+                        42.425038
+                  ]
+            },
+            {
+                  "name": "Kashta muzei \"Geo Milev\"",
+                  "text": "The Geo Milev House Museum is dedicated to the life of the famous expressionist poet in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.634152,
+                        42.423353
+                  ]
+            },
+            {
+                  "name": "Tsarkva \"Sv. Deva Mariya pomoshtnitsa na hristiyanite\"",
+                  "text": "The Church of St. Mary Help of Christians is a local place of worship in Stara Sagora.",
+                  "category": "religious",
+                  "coords": [
+                        25.609261,
+                        42.433764
+                  ]
+            },
+            {
+                  "name": "Mavzolei kostnitsa",
+                  "text": "The Mausoleum ossuary is a historical museum and memorial site in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.617074,
+                        42.429829
+                  ]
+            },
+            {
+                  "name": "Kashta-muzei \"Gradski bit 19 vek\"",
+                  "text": "The 19th Century City Life Museum showcases the traditional urban lifestyle of Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.628657,
+                        42.426154
+                  ]
+            },
+            {
+                  "name": "Hilendarski metoh",
+                  "text": "The Hilendar metochion is a historical museum exhibit located in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.629339,
+                        42.430881
+                  ]
+            },
+            {
+                  "name": "Art Gallery \"Lubor Bayer\"",
+                  "text": "The Art Gallery \"Lubor Bayer\" exhibits various artistic works in Stara Sagora.",
+                  "category": "museum",
+                  "coords": [
+                        25.625381,
+                        42.426088
+                  ]
+            },
+            {
+                  "name": "Ancient baths",
+                  "text": "The Ancient baths represent an important archaeological site in the city of Stara Sagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.624748,
+                        42.427352
+                  ]
+            },
+            {
+                  "name": "Trakiiska grobnitsa",
+                  "text": "The Thracian tomb is an ancient archaeological site found in Stara Sagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.638817,
+                        42.431693
+                  ]
+            },
+            {
+                  "name": "pam. Vasil Levski",
+                  "text": "The Vasil Levski monument honors the Bulgarian national hero in Stara Sagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.628409,
+                        42.430189
+                  ]
+            },
+            {
+                  "name": "Pametnik na Hadzhi Dimitar",
+                  "text": "The Monument to Hadzhi Dimitar is a prominent memorial situated in Stara Sagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.62134,
+                        42.432582
+                  ]
+            },
+            {
+                  "name": "Revolyutsionerski pametnik",
+                  "text": "The Revolutionary monument is a historical commemorative site in Stara Sagora.",
+                  "category": "historical",
+                  "coords": [
+                        25.638062,
+                        42.426003
+                  ]
+            },
+            {
+                  "name": "State Puppet Theatre - Stara Zagora",
+                  "text": "The State Puppet Theatre in Stara Zagora is a local performing arts venue.",
+                  "category": "cultural",
+                  "coords": [
+                        25.624121,
+                        42.422194
+                  ]
+            },
+            {
+                  "name": "Zodiak",
+                  "text": "The Zodiac arts centre is a creative hub located in the city of Stara Sagora.",
+                  "category": "cultural",
+                  "coords": [
+                        25.623459,
+                        42.428149
+                  ]
+            },
+            {
+                  "name": "Blagoroden elen",
+                  "text": "Благороден елен is a tourist attraction located in the city of Stara Sagora.",
+                  "category": "landmark",
+                  "coords": [
+                        25.607829,
+                        42.438284
+                  ]
+            },
+            {
+                  "name": "Byalka",
+                  "text": "Бялка is a tourist attraction located in the city of Stara Sagora.",
+                  "category": "landmark",
+                  "coords": [
+                        25.610633,
+                        42.439797
+                  ]
+            },
+            {
+                  "name": "Vidri",
+                  "text": "Видри is a tourist attraction located in the city of Stara Sagora.",
+                  "category": "landmark",
+                  "coords": [
+                        25.61104,
+                        42.438453
+                  ]
+            },
+            {
+                  "name": "Ezero \"Zagorka\"",
+                  "text": "A lake in Stara Zagora, inviting relaxation and leisure.",
+                  "category": "natural",
+                  "coords": [
+                        25.637197,
+                        42.444764
+                  ]
+            },
+            {
+                  "name": "Detska ploshtadka",
+                  "text": "A playground in Stara Zagora offering space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        25.602381,
+                        42.421914
+                  ]
+            },
+            {
+                  "name": "Kompleks \"Art\"",
+                  "text": "The Art Complex in Stara Zagora offers accommodation and services for guests.",
+                  "category": "family",
+                  "coords": [
+                        25.612246,
+                        42.433791
+                  ]
+            },
+            {
+                  "name": "България 1300",
+                  "text": "The 'Bulgaria 1300' monument in Stara Zagora commemorates the long history and heritage of the Bulgarian state. It is an impressive structure often visited by those interested in history.",
+                  "category": "landmark",
+                  "coords": [
+                        25.614094,
+                        42.417416
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [25.6257, 42.4258],

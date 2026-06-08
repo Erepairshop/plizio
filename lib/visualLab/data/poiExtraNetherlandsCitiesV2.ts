@@ -337,6 +337,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.212967,
                         52.350456
                   ]
+            },
+            {
+                  "name": "Kinderboerderij De Beestenbende",
+                  "text": "Dieser Streichelzoo in Almere bietet Besuchern die Möglichkeit, etwas über Bauernhoftiere zu erfahren.",
+                  "category": "family",
+                  "coords": [
+                        5.260502,
+                        52.393392
+                  ]
             }
       ],
       "hu": [
@@ -671,6 +680,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.212967,
                         52.350456
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Beestenbende",
+                  "text": "Ez az Almere területén található állatsimogató lehetőséget nyújt a látogatóknak a háztáji állatok megismerésére.",
+                  "category": "family",
+                  "coords": [
+                        5.260502,
+                        52.393392
                   ]
             }
       ],
@@ -1007,6 +1025,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.212967,
                         52.350456
                   ]
+            },
+            {
+                  "name": "Kinderboerderij De Beestenbende",
+                  "text": "Această fermă de animale din Almere oferă vizitatorilor ocazia de a învăța despre animalele de fermă.",
+                  "category": "family",
+                  "coords": [
+                        5.260502,
+                        52.393392
+                  ]
             }
       ],
       "en": [
@@ -1342,6 +1369,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.212967,
                         52.350456
                   ]
+            },
+            {
+                  "name": "Kinderboerderij De Beestenbende",
+                  "text": "This petting farm in Almere provides an opportunity for visitors to learn about farm animals.",
+                  "category": "family",
+                  "coords": [
+                        5.260502,
+                        52.393392
+                  ]
             }
       ]
 },
@@ -1434,7 +1470,124 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-apeldoorn-cities-v2.webp",
   },
   {
-    id: "netherlands-amersfoort-cities-v2",
+    id: "netherlands-amersfoort-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dierenpark Amersfoort",
+                  "text": "Ein großer Zoo, der ideal für einen Familienausflug in Amersfoort ist.",
+                  "category": "family",
+                  "coords": [
+                        5.345876,
+                        52.14963
+                  ]
+            },
+            {
+                  "name": "Zwembad Rozendaal",
+                  "text": "Ein Schwimmbad für Freizeitaktivitäten in Amersfoort.",
+                  "category": "family",
+                  "coords": [
+                        5.433643,
+                        52.134163
+                  ]
+            },
+            {
+                  "name": "De Vosheuvel",
+                  "text": "Ein Tierpark für Kinder in Amersfoort.",
+                  "category": "family",
+                  "coords": [
+                        5.405702,
+                        52.14352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dierenpark Amersfoort",
+                  "text": "Nagy állatkert, amely ideális családi kiránduláshoz Amersfoortban.",
+                  "category": "family",
+                  "coords": [
+                        5.345876,
+                        52.14963
+                  ]
+            },
+            {
+                  "name": "Zwembad Rozendaal",
+                  "text": "Úszómedence szabadidős tevékenységekhez Amersfoortban.",
+                  "category": "family",
+                  "coords": [
+                        5.433643,
+                        52.134163
+                  ]
+            },
+            {
+                  "name": "De Vosheuvel",
+                  "text": "Állatpark gyerekeknek Amersfoortban.",
+                  "category": "family",
+                  "coords": [
+                        5.405702,
+                        52.14352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dierenpark Amersfoort",
+                  "text": "O grădină zoologică mare, ideală pentru o excursie în familie în Amersfoort.",
+                  "category": "family",
+                  "coords": [
+                        5.345876,
+                        52.14963
+                  ]
+            },
+            {
+                  "name": "Zwembad Rozendaal",
+                  "text": "O piscină pentru activități de agrement în Amersfoort.",
+                  "category": "family",
+                  "coords": [
+                        5.433643,
+                        52.134163
+                  ]
+            },
+            {
+                  "name": "De Vosheuvel",
+                  "text": "Un parc de animale pentru copii în Amersfoort.",
+                  "category": "family",
+                  "coords": [
+                        5.405702,
+                        52.14352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dierenpark Amersfoort",
+                  "text": "A large zoo ideal for a family outing in Amersfoort.",
+                  "category": "family",
+                  "coords": [
+                        5.345876,
+                        52.14963
+                  ]
+            },
+            {
+                  "name": "Zwembad Rozendaal",
+                  "text": "A swimming pool for leisure activities in Amersfoort.",
+                  "category": "family",
+                  "coords": [
+                        5.433643,
+                        52.134163
+                  ]
+            },
+            {
+                  "name": "De Vosheuvel",
+                  "text": "An animal park for children in Amersfoort.",
+                  "category": "family",
+                  "coords": [
+                        5.405702,
+                        52.14352
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Amersfoort", hu: "Amersfoort", ro: "Amersfoort", en: "Amersfoort" },
@@ -1876,6 +2029,33 @@ export const netherlandsCitiesV2: POI[] = [
                         4.494046,
                         52.060441
                   ]
+            },
+            {
+                  "name": "De Watergeus",
+                  "text": "Dieses Schwimmbad in Zoetermeer ist eine Einrichtung für Schwimmen und Wassergymnastik.",
+                  "category": "family",
+                  "coords": [
+                        4.521799,
+                        52.051049
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij De Weidemolen",
+                  "text": "Dieser Stadtbauernhof in Zoetermeer ist ein toller Ort für Familien, um Bauernhoftiere zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        4.55248,
+                        52.059457
+                  ]
+            },
+            {
+                  "name": "'t Geertje",
+                  "text": "Dieser Bauernhof in Zoetermeer ist ein beliebtes Ziel für Familien, um die Natur und Tiere zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        4.504311,
+                        52.094923
+                  ]
             }
       ],
       "hu": [
@@ -2273,6 +2453,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.494046,
                         52.060441
+                  ]
+            },
+            {
+                  "name": "De Watergeus",
+                  "text": "Ez a Zoetermeer városában található uszoda az úszás és a vízi edzés helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        4.521799,
+                        52.051049
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij De Weidemolen",
+                  "text": "Ez a Zoetermeer területén található városi tanya remek hely a családoknak a háztáji állatok megtekintésére.",
+                  "category": "family",
+                  "coords": [
+                        4.55248,
+                        52.059457
+                  ]
+            },
+            {
+                  "name": "'t Geertje",
+                  "text": "Ez a Zoetermeer területén található tanya népszerű úti cél a családoknak a természet és az állatok élvezetére.",
+                  "category": "family",
+                  "coords": [
+                        4.504311,
+                        52.094923
                   ]
             }
       ],
@@ -2672,6 +2879,33 @@ export const netherlandsCitiesV2: POI[] = [
                         4.494046,
                         52.060441
                   ]
+            },
+            {
+                  "name": "De Watergeus",
+                  "text": "Această piscină din Zoetermeer este o unitate pentru înot și exerciții acvatice.",
+                  "category": "family",
+                  "coords": [
+                        4.521799,
+                        52.051049
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij De Weidemolen",
+                  "text": "Această fermă urbană din Zoetermeer este un loc minunat pentru familii pentru a vedea animalele de fermă.",
+                  "category": "family",
+                  "coords": [
+                        4.55248,
+                        52.059457
+                  ]
+            },
+            {
+                  "name": "'t Geertje",
+                  "text": "Această fermă din Zoetermeer este o destinație populară pentru familii pentru a se bucura de aer liber și de animale.",
+                  "category": "family",
+                  "coords": [
+                        4.504311,
+                        52.094923
+                  ]
             }
       ],
       "en": [
@@ -3069,6 +3303,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.494046,
                         52.060441
+                  ]
+            },
+            {
+                  "name": "De Watergeus",
+                  "text": "This swimming pool in Zoetermeer is a facility for swimming and aquatic exercise.",
+                  "category": "family",
+                  "coords": [
+                        4.521799,
+                        52.051049
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij De Weidemolen",
+                  "text": "This urban farm in Zoetermeer is a great spot for families to see farm animals.",
+                  "category": "family",
+                  "coords": [
+                        4.55248,
+                        52.059457
+                  ]
+            },
+            {
+                  "name": "'t Geertje",
+                  "text": "This farm in Zoetermeer is a popular destination for families to enjoy the outdoors and animals.",
+                  "category": "family",
+                  "coords": [
+                        4.504311,
+                        52.094923
                   ]
             }
       ]
@@ -8307,6 +8568,33 @@ export const netherlandsCitiesV2: POI[] = [
                         4.69109,
                         52.14259
                   ]
+            },
+            {
+                  "name": "Avifauna",
+                  "text": "Ein örtlicher Tierpark in Alphen Aan Den Rijn, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.649018,
+                        52.139305
+                  ]
+            },
+            {
+                  "name": "Zwembad Aquarijn",
+                  "text": "Eine öffentliche Schwimmeinrichtung in Alphen Aan Den Rijn, die für Sport- und Freizeitaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        4.679118,
+                        52.147915
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Bospark",
+                  "text": "Ein örtlicher Tierpark in Alphen Aan Den Rijn, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.655805,
+                        52.132047
+                  ]
             }
       ],
       "hu": [
@@ -8461,6 +8749,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.69109,
                         52.14259
+                  ]
+            },
+            {
+                  "name": "Avifauna",
+                  "text": "Helyi állatpark Alphen Aan Den Rijn településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        4.649018,
+                        52.139305
+                  ]
+            },
+            {
+                  "name": "Zwembad Aquarijn",
+                  "text": "Alphen Aan Den Rijn településen található nyilvános uszoda, amely alkalmas sportolásra és szabadidős tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        4.679118,
+                        52.147915
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Bospark",
+                  "text": "Helyi állatpark Alphen Aan Den Rijn településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        4.655805,
+                        52.132047
                   ]
             }
       ],
@@ -8617,6 +8932,33 @@ export const netherlandsCitiesV2: POI[] = [
                         4.69109,
                         52.14259
                   ]
+            },
+            {
+                  "name": "Avifauna",
+                  "text": "Un parc de animale local din Alphen Aan Den Rijn, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        4.649018,
+                        52.139305
+                  ]
+            },
+            {
+                  "name": "Zwembad Aquarijn",
+                  "text": "O facilitate publică de înot în Alphen Aan Den Rijn, potrivită pentru sport și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        4.679118,
+                        52.147915
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Bospark",
+                  "text": "Un parc de animale local din Alphen Aan Den Rijn, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        4.655805,
+                        52.132047
+                  ]
             }
       ],
       "en": [
@@ -8771,6 +9113,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.69109,
                         52.14259
+                  ]
+            },
+            {
+                  "name": "Avifauna",
+                  "text": "A local animal park in Alphen Aan Den Rijn offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        4.649018,
+                        52.139305
+                  ]
+            },
+            {
+                  "name": "Zwembad Aquarijn",
+                  "text": "A public swimming facility in Alphen Aan Den Rijn suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        4.679118,
+                        52.147915
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Bospark",
+                  "text": "A local animal park in Alphen Aan Den Rijn offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        4.655805,
+                        52.132047
                   ]
             }
       ]
@@ -9207,6 +9576,42 @@ export const netherlandsCitiesV2: POI[] = [
                         5.215626,
                         52.214745
                   ]
+            },
+            {
+                  "name": "Zwemschool Walderveenbad Loosdrecht",
+                  "text": "Diese Schwimmschule in Hilversum bietet Beckeneinrichtungen für Unterricht und Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        5.1414,
+                        52.198544
+                  ]
+            },
+            {
+                  "name": "Dierenweide Zonnehoeve",
+                  "text": "Diese Tierwiese in Hilversum ist ein charmanter Ort für Familien, um kleine Tiere zu besuchen.",
+                  "category": "family",
+                  "coords": [
+                        5.149067,
+                        52.201965
+                  ]
+            },
+            {
+                  "name": "Boerderij De Huydecoper",
+                  "text": "Dieser Bauernhof in Hilversum bietet Familien einen Ort, um Tiere zu sehen und etwas über sie zu erfahren.",
+                  "category": "family",
+                  "coords": [
+                        5.227408,
+                        52.215452
+                  ]
+            },
+            {
+                  "name": "De Lieberg",
+                  "text": "Dieses Schwimmbad in Hilversum bietet Einrichtungen zum Schwimmen und für Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        5.192532,
+                        52.226906
+                  ]
             }
       ],
       "hu": [
@@ -9550,6 +9955,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.215626,
                         52.214745
+                  ]
+            },
+            {
+                  "name": "Zwemschool Walderveenbad Loosdrecht",
+                  "text": "Ez a Hilversum városában található úszóiskola medencét biztosít az oktatáshoz és az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.1414,
+                        52.198544
+                  ]
+            },
+            {
+                  "name": "Dierenweide Zonnehoeve",
+                  "text": "Ez a Hilversum területén található állatkifutó bájos hely a családoknak a kisállatok látogatására.",
+                  "category": "family",
+                  "coords": [
+                        5.149067,
+                        52.201965
+                  ]
+            },
+            {
+                  "name": "Boerderij De Huydecoper",
+                  "text": "Ez a Hilversum városában található tanya helyet biztosít a családoknak az állatok megtekintésére és megismerésére.",
+                  "category": "family",
+                  "coords": [
+                        5.227408,
+                        52.215452
+                  ]
+            },
+            {
+                  "name": "De Lieberg",
+                  "text": "Ez a Hilversum városában található uszoda úszási lehetőséget és vízi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        5.192532,
+                        52.226906
                   ]
             }
       ],
@@ -9895,6 +10336,42 @@ export const netherlandsCitiesV2: POI[] = [
                         5.215626,
                         52.214745
                   ]
+            },
+            {
+                  "name": "Zwemschool Walderveenbad Loosdrecht",
+                  "text": "Această școală de înot din Hilversum oferă facilități de piscină pentru lecții și înot.",
+                  "category": "family",
+                  "coords": [
+                        5.1414,
+                        52.198544
+                  ]
+            },
+            {
+                  "name": "Dierenweide Zonnehoeve",
+                  "text": "Această pajiște cu animale din Hilversum este un loc fermecător pentru familii pentru a vizita animale mici.",
+                  "category": "family",
+                  "coords": [
+                        5.149067,
+                        52.201965
+                  ]
+            },
+            {
+                  "name": "Boerderij De Huydecoper",
+                  "text": "Această fermă din Hilversum oferă un spațiu pentru familii pentru a vedea și a învăța despre animale.",
+                  "category": "family",
+                  "coords": [
+                        5.227408,
+                        52.215452
+                  ]
+            },
+            {
+                  "name": "De Lieberg",
+                  "text": "Această piscină din Hilversum oferă facilități pentru înot și distracție acvatică.",
+                  "category": "family",
+                  "coords": [
+                        5.192532,
+                        52.226906
+                  ]
             }
       ],
       "en": [
@@ -10238,6 +10715,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.215626,
                         52.214745
+                  ]
+            },
+            {
+                  "name": "Zwemschool Walderveenbad Loosdrecht",
+                  "text": "This swimming school in Hilversum offers pool facilities for lessons and swimming.",
+                  "category": "family",
+                  "coords": [
+                        5.1414,
+                        52.198544
+                  ]
+            },
+            {
+                  "name": "Dierenweide Zonnehoeve",
+                  "text": "This animal meadow in Hilversum is a charming place for families to visit small animals.",
+                  "category": "family",
+                  "coords": [
+                        5.149067,
+                        52.201965
+                  ]
+            },
+            {
+                  "name": "Boerderij De Huydecoper",
+                  "text": "This farm in Hilversum provides a space for families to see and learn about animals.",
+                  "category": "family",
+                  "coords": [
+                        5.227408,
+                        52.215452
+                  ]
+            },
+            {
+                  "name": "De Lieberg",
+                  "text": "This swimming pool in Hilversum offers facilities for swimming and aquatic fun.",
+                  "category": "family",
+                  "coords": [
+                        5.192532,
+                        52.226906
                   ]
             }
       ]
@@ -11510,7 +12023,52 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-purmerend-cities-v2.webp",
   },
   {
-    id: "netherlands-roosendaal-cities-v2",
+    id: "netherlands-roosendaal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kinderboerderij Minnebeek",
+                  "text": "Dieser Streichelzoo in Roosendaal ist ein toller Ort für für Kinder, um etwas über Tiere zu erfahren.",
+                  "category": "family",
+                  "coords": [
+                        4.453308,
+                        51.513469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kinderboerderij Minnebeek",
+                  "text": "Ez a Roosendaal területén található állatsimogató remek hely a gyerekeknek az állatok megismerésére.",
+                  "category": "family",
+                  "coords": [
+                        4.453308,
+                        51.513469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kinderboerderij Minnebeek",
+                  "text": "Această fermă de animale din Roosendaal este un loc minunat pentru copii pentru a învăța despre animale.",
+                  "category": "family",
+                  "coords": [
+                        4.453308,
+                        51.513469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kinderboerderij Minnebeek",
+                  "text": "This petting farm in Roosendaal is a great spot for children to learn about animals.",
+                  "category": "family",
+                  "coords": [
+                        4.453308,
+                        51.513469
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Roosendaal", hu: "Roosendaal", ro: "Roosendaal", en: "Roosendaal" },
@@ -14937,6 +15495,42 @@ export const netherlandsCitiesV2: POI[] = [
                         4.335696,
                         51.851206
                   ]
+            },
+            {
+                  "name": "'t Kommetje",
+                  "text": "Dieses Schwimmbad in Spijkenisse bietet einen Ort zum Schwimmen und für Training.",
+                  "category": "family",
+                  "coords": [
+                        4.323142,
+                        51.854269
+                  ]
+            },
+            {
+                  "name": "Zwembad Hoogvliet",
+                  "text": "Dieses Schwimmbad in Spijkenisse bietet verschiedene Schwimmmöglichkeiten für die Öffentlichkeit.",
+                  "category": "family",
+                  "coords": [
+                        4.35784,
+                        51.863271
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Oedenstee",
+                  "text": "Dieser Bauernhof in Spijkenisse bietet Kindern die Möglichkeit, Bauernhoftiere zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        4.35749,
+                        51.867772
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Nieuw-Beijerland",
+                  "text": "Dieser Streichelzoo in Spijkenisse ist ein schönes Ziel für Familien, um Tiere zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        4.342623,
+                        51.813107
+                  ]
             }
       ],
       "hu": [
@@ -15136,6 +15730,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.335696,
                         51.851206
+                  ]
+            },
+            {
+                  "name": "'t Kommetje",
+                  "text": "Ez a Spijkenisse városában található uszoda helyet biztosít az úszáshoz és a testmozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.323142,
+                        51.854269
+                  ]
+            },
+            {
+                  "name": "Zwembad Hoogvliet",
+                  "text": "Ez a Spijkenisse területén található uszoda különféle úszási lehetőségeket kínál a nagyközönségnek.",
+                  "category": "family",
+                  "coords": [
+                        4.35784,
+                        51.863271
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Oedenstee",
+                  "text": "Ez a Spijkenisse területén található állatfarm lehetőséget nyújt a gyerekeknek a háztáji állatok megtekintésére.",
+                  "category": "family",
+                  "coords": [
+                        4.35749,
+                        51.867772
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Nieuw-Beijerland",
+                  "text": "Ez a Spijkenisse városában található állatsimogató szép úti cél a családoknak az állatok megtekintésére.",
+                  "category": "family",
+                  "coords": [
+                        4.342623,
+                        51.813107
                   ]
             }
       ],
@@ -15337,6 +15967,42 @@ export const netherlandsCitiesV2: POI[] = [
                         4.335696,
                         51.851206
                   ]
+            },
+            {
+                  "name": "'t Kommetje",
+                  "text": "Această piscină din Spijkenisse oferă un loc pentru înot și exerciții fizice.",
+                  "category": "family",
+                  "coords": [
+                        4.323142,
+                        51.854269
+                  ]
+            },
+            {
+                  "name": "Zwembad Hoogvliet",
+                  "text": "Această piscină din Spijkenisse oferă diverse oportunități de înot pentru public.",
+                  "category": "family",
+                  "coords": [
+                        4.35784,
+                        51.863271
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Oedenstee",
+                  "text": "Această fermă de animale din Spijkenisse oferă copiilor șansa de a vedea animalele de fermă.",
+                  "category": "family",
+                  "coords": [
+                        4.35749,
+                        51.867772
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Nieuw-Beijerland",
+                  "text": "Această fermă de animale din Spijkenisse este o destinație plăcută pentru familii pentru a se bucura de animale.",
+                  "category": "family",
+                  "coords": [
+                        4.342623,
+                        51.813107
+                  ]
             }
       ],
       "en": [
@@ -15536,6 +16202,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.335696,
                         51.851206
+                  ]
+            },
+            {
+                  "name": "'t Kommetje",
+                  "text": "This swimming pool in Spijkenisse provides a place for swimming and exercise.",
+                  "category": "family",
+                  "coords": [
+                        4.323142,
+                        51.854269
+                  ]
+            },
+            {
+                  "name": "Zwembad Hoogvliet",
+                  "text": "This swimming pool in Spijkenisse offers various swimming opportunities for the public.",
+                  "category": "family",
+                  "coords": [
+                        4.35784,
+                        51.863271
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Oedenstee",
+                  "text": "This animal farm in Spijkenisse offers a chance for children to see farm animals.",
+                  "category": "family",
+                  "coords": [
+                        4.35749,
+                        51.867772
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Nieuw-Beijerland",
+                  "text": "This petting farm in Spijkenisse is a nice destination for families to enjoy animals.",
+                  "category": "family",
+                  "coords": [
+                        4.342623,
+                        51.813107
                   ]
             }
       ]
@@ -16142,7 +16844,196 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-almelo-cities-v2.webp",
   },
   {
-    id: "netherlands-vlaardingen-cities-v2",
+    id: "netherlands-vlaardingen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zwembad Groenoord",
+                  "text": "Ein Schwimmbad für die Öffentlichkeit in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.377788,
+                        51.928152
+                  ]
+            },
+            {
+                  "name": "Zwembad Zuid",
+                  "text": "Ein lokales Schwimmbad in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.395532,
+                        51.905963
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Hoefblad",
+                  "text": "Ein Kinderbauernhof mit Tieren in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.386988,
+                        51.930563
+                  ]
+            },
+            {
+                  "name": "Dierenweide Het Hof",
+                  "text": "Ein Tierpark für einen Familienbesuch in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.346837,
+                        51.911033
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij Holywood",
+                  "text": "Ein Bauernhof in der Stadt für Kinder in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.350951,
+                        51.93734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zwembad Groenoord",
+                  "text": "Nyilvános úszómedence Vlaardingen városában.",
+                  "category": "family",
+                  "coords": [
+                        4.377788,
+                        51.928152
+                  ]
+            },
+            {
+                  "name": "Zwembad Zuid",
+                  "text": "Helyi úszómedence Vlaardingen városában.",
+                  "category": "family",
+                  "coords": [
+                        4.395532,
+                        51.905963
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Hoefblad",
+                  "text": "Gyerekfarm állatokkal Vlaardingen városában.",
+                  "category": "family",
+                  "coords": [
+                        4.386988,
+                        51.930563
+                  ]
+            },
+            {
+                  "name": "Dierenweide Het Hof",
+                  "text": "Állatpark családi látogatáshoz Vlaardingen városában.",
+                  "category": "family",
+                  "coords": [
+                        4.346837,
+                        51.911033
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij Holywood",
+                  "text": "Városi farm gyerekeknek Vlaardingen városában.",
+                  "category": "family",
+                  "coords": [
+                        4.350951,
+                        51.93734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zwembad Groenoord",
+                  "text": "O piscină publică în Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.377788,
+                        51.928152
+                  ]
+            },
+            {
+                  "name": "Zwembad Zuid",
+                  "text": "O piscină locală în Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.395532,
+                        51.905963
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Hoefblad",
+                  "text": "O fermă pentru copii cu animale în Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.386988,
+                        51.930563
+                  ]
+            },
+            {
+                  "name": "Dierenweide Het Hof",
+                  "text": "Un parc de animale pentru o vizită în familie în Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.346837,
+                        51.911033
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij Holywood",
+                  "text": "O fermă urbană pentru copii în Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.350951,
+                        51.93734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zwembad Groenoord",
+                  "text": "A public swimming pool in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.377788,
+                        51.928152
+                  ]
+            },
+            {
+                  "name": "Zwembad Zuid",
+                  "text": "A local swimming pool in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.395532,
+                        51.905963
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Hoefblad",
+                  "text": "A children's farm with animals in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.386988,
+                        51.930563
+                  ]
+            },
+            {
+                  "name": "Dierenweide Het Hof",
+                  "text": "An animal park for a family visit in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.346837,
+                        51.911033
+                  ]
+            },
+            {
+                  "name": "Stadsboerderij Holywood",
+                  "text": "An urban farm for children in Vlaardingen.",
+                  "category": "family",
+                  "coords": [
+                        4.350951,
+                        51.93734
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Vlaardingen", hu: "Vlaardingen", ro: "Vlaardingen", en: "Vlaardingen" },
@@ -18769,6 +19660,24 @@ export const netherlandsCitiesV2: POI[] = [
                         4.567319,
                         51.935955
                   ]
+            },
+            {
+                  "name": "Polderbad Buitenbad",
+                  "text": "Ein Außenbad zum Schwimmen in Capelle Aan Den Ijssel.",
+                  "category": "family",
+                  "coords": [
+                        4.601485,
+                        51.962265
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Ein kleiner Tierpark in Capelle Aan Den Ijssel.",
+                  "category": "family",
+                  "coords": [
+                        4.56706,
+                        51.914741
+                  ]
             }
       ],
       "hu": [
@@ -18896,6 +19805,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.567319,
                         51.935955
+                  ]
+            },
+            {
+                  "name": "Polderbad Buitenbad",
+                  "text": "Kültéri medence úszáshoz Capelle Aan Den Ijssel városában.",
+                  "category": "family",
+                  "coords": [
+                        4.601485,
+                        51.962265
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Kis állatpark Capelle Aan Den Ijssel városában.",
+                  "category": "family",
+                  "coords": [
+                        4.56706,
+                        51.914741
                   ]
             }
       ],
@@ -19025,6 +19952,24 @@ export const netherlandsCitiesV2: POI[] = [
                         4.567319,
                         51.935955
                   ]
+            },
+            {
+                  "name": "Polderbad Buitenbad",
+                  "text": "O piscină exterioară pentru înot în Capelle Aan Den Ijssel.",
+                  "category": "family",
+                  "coords": [
+                        4.601485,
+                        51.962265
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Un mic parc de animale în Capelle Aan Den Ijssel.",
+                  "category": "family",
+                  "coords": [
+                        4.56706,
+                        51.914741
+                  ]
             }
       ],
       "en": [
@@ -19152,6 +20097,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.567319,
                         51.935955
+                  ]
+            },
+            {
+                  "name": "Polderbad Buitenbad",
+                  "text": "An outdoor pool for swimming in Capelle Aan Den Ijssel.",
+                  "category": "family",
+                  "coords": [
+                        4.601485,
+                        51.962265
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "A small animal park in Capelle Aan Den Ijssel.",
+                  "category": "family",
+                  "coords": [
+                        4.56706,
+                        51.914741
                   ]
             }
       ]
@@ -20560,6 +21523,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.446377,
                         52.196183
                   ]
+            },
+            {
+                  "name": "ESCAPE swimming pool",
+                  "text": "Eine öffentliche Schwimmeinrichtung in Katwijk, die für Sport- und Freizeitaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        4.41796,
+                        52.21577
+                  ]
             }
       ],
       "hu": [
@@ -20858,6 +21830,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.446377,
                         52.196183
+                  ]
+            },
+            {
+                  "name": "ESCAPE swimming pool",
+                  "text": "Katwijk településen található nyilvános uszoda, amely alkalmas sportolásra és szabadidős tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        4.41796,
+                        52.21577
                   ]
             }
       ],
@@ -21158,6 +22139,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.446377,
                         52.196183
                   ]
+            },
+            {
+                  "name": "ESCAPE swimming pool",
+                  "text": "O facilitate publică de înot în Katwijk, potrivită pentru sport și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        4.41796,
+                        52.21577
+                  ]
             }
       ],
       "en": [
@@ -21457,6 +22447,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.446377,
                         52.196183
                   ]
+            },
+            {
+                  "name": "ESCAPE swimming pool",
+                  "text": "A public swimming facility in Katwijk suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        4.41796,
+                        52.21577
+                  ]
             }
       ]
 },
@@ -21504,7 +22503,52 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-katwijk-cities-v2.webp",
   },
   {
-    id: "netherlands-zeist-cities-v2",
+    id: "netherlands-zeist-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hertenkamp",
+                  "text": "Ein Gehege mit Hirschen in Zeist.",
+                  "category": "family",
+                  "coords": [
+                        5.254756,
+                        52.084522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hertenkamp",
+                  "text": "Szarvaskert Zeist városában.",
+                  "category": "family",
+                  "coords": [
+                        5.254756,
+                        52.084522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hertenkamp",
+                  "text": "Un parc cu căprioare în Zeist.",
+                  "category": "family",
+                  "coords": [
+                        5.254756,
+                        52.084522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hertenkamp",
+                  "text": "A deer park in Zeist.",
+                  "category": "family",
+                  "coords": [
+                        5.254756,
+                        52.084522
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Zeist", hu: "Zeist", ro: "Zeist", en: "Zeist" },
@@ -21757,6 +22801,24 @@ export const netherlandsCitiesV2: POI[] = [
                         5.092604,
                         52.005245
                   ]
+            },
+            {
+                  "name": "Kinderboerderij 't Eiterse hofje",
+                  "text": "Dieser Streichelzoo in Nieuwegein bietet eine freundliche Umgebung für Kinder, um Tiere zu besuchen.",
+                  "category": "family",
+                  "coords": [
+                        5.03158,
+                        52.025926
+                  ]
+            },
+            {
+                  "name": "Strand Down Under",
+                  "text": "Dieser Strandbereich in Nieuwegein ist ein beliebter Ort zum Schwimmen und Entspannen am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        5.1261,
+                        52.048444
+                  ]
             }
       ],
       "hu": [
@@ -21965,6 +23027,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.092604,
                         52.005245
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Eiterse hofje",
+                  "text": "Ez a Nieuwegein területén található állatsimogató barátságos környezetet kínál a gyerekeknek az állatok látogatásához.",
+                  "category": "family",
+                  "coords": [
+                        5.03158,
+                        52.025926
+                  ]
+            },
+            {
+                  "name": "Strand Down Under",
+                  "text": "Ez a Nieuwegein területén található strandterület népszerű hely az úszáshoz és a vízparti pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        5.1261,
+                        52.048444
                   ]
             }
       ],
@@ -22175,6 +23255,24 @@ export const netherlandsCitiesV2: POI[] = [
                         5.092604,
                         52.005245
                   ]
+            },
+            {
+                  "name": "Kinderboerderij 't Eiterse hofje",
+                  "text": "Această fermă de animale din Nieuwegein oferă un mediu prietenos pentru copii pentru a vizita animalele.",
+                  "category": "family",
+                  "coords": [
+                        5.03158,
+                        52.025926
+                  ]
+            },
+            {
+                  "name": "Strand Down Under",
+                  "text": "Această zonă de plajă din Nieuwegein este un loc popular pentru înot și relaxare lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        5.1261,
+                        52.048444
+                  ]
             }
       ],
       "en": [
@@ -22383,6 +23481,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.092604,
                         52.005245
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Eiterse hofje",
+                  "text": "This petting farm in Nieuwegein offers a friendly environment for children to visit animals.",
+                  "category": "family",
+                  "coords": [
+                        5.03158,
+                        52.025926
+                  ]
+            },
+            {
+                  "name": "Strand Down Under",
+                  "text": "This beach area in Nieuwegein is a popular spot for swimming and relaxing by the water.",
+                  "category": "family",
+                  "coords": [
+                        5.1261,
+                        52.048444
                   ]
             }
       ]
@@ -23116,6 +24232,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.769992,
                         52.961079
                   ]
+            },
+            {
+                  "name": "De Helderse Vallei",
+                  "text": "Ein Naturzentrum und Tierpark in Den Helder.",
+                  "category": "family",
+                  "coords": [
+                        4.732045,
+                        52.933775
+                  ]
             }
       ],
       "hu": [
@@ -23387,6 +24512,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.769992,
                         52.961079
+                  ]
+            },
+            {
+                  "name": "De Helderse Vallei",
+                  "text": "Természetvédelmi központ és állatpark Den Helder városában.",
+                  "category": "family",
+                  "coords": [
+                        4.732045,
+                        52.933775
                   ]
             }
       ],
@@ -23660,6 +24794,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.769992,
                         52.961079
                   ]
+            },
+            {
+                  "name": "De Helderse Vallei",
+                  "text": "Un centru de natură și parc de animale în Den Helder.",
+                  "category": "family",
+                  "coords": [
+                        4.732045,
+                        52.933775
+                  ]
             }
       ],
       "en": [
@@ -23932,6 +25075,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.769992,
                         52.961079
                   ]
+            },
+            {
+                  "name": "De Helderse Vallei",
+                  "text": "A nature center and animal park in Den Helder.",
+                  "category": "family",
+                  "coords": [
+                        4.732045,
+                        52.933775
+                  ]
             }
       ]
 },
@@ -23979,7 +25131,160 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-den-helder-cities-v2.webp",
   },
   {
-    id: "netherlands-zutphen-cities-v2",
+    id: "netherlands-zutphen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kinderboerderij de Reuvershoeve",
+                  "text": "Dieser Streichelzoo in Zutphen ist ein großartiger Ort für Familien, um Tiere zu sehen und etwas über sie zu erfahren.",
+                  "category": "family",
+                  "coords": [
+                        6.172415,
+                        52.124386
+                  ]
+            },
+            {
+                  "name": "Dierenweide 't Spiker",
+                  "text": "Diese Tierwiese in Zutphen bietet einen friedlichen Rahmen für Familien, um Tiere zu besuchen.",
+                  "category": "family",
+                  "coords": [
+                        6.227517,
+                        52.136105
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Diese Tierwiese in Zutphen bietet Besuchern einen Raum, um verschiedene Tiere zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        6.201314,
+                        52.144108
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij de Schouw Zutphen",
+                  "text": "Dieser Streichelzoo in Zutphen ist ein freundliches Ziel für Kinder, um mit Tieren zu interagieren.",
+                  "category": "family",
+                  "coords": [
+                        6.198995,
+                        52.129007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kinderboerderij de Reuvershoeve",
+                  "text": "Ez a Zutphen területén található állatsimogató remek hely a családoknak az állatok megtekintésére és megismerésére.",
+                  "category": "family",
+                  "coords": [
+                        6.172415,
+                        52.124386
+                  ]
+            },
+            {
+                  "name": "Dierenweide 't Spiker",
+                  "text": "Ez a Zutphen városában található állatkifutó nyugodt környezetet biztosít a családoknak az állatok látogatásához.",
+                  "category": "family",
+                  "coords": [
+                        6.227517,
+                        52.136105
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Ez a Zutphen területén található állatkifutó helyet biztosít a látogatóknak a különféle állatok megtekintésére.",
+                  "category": "family",
+                  "coords": [
+                        6.201314,
+                        52.144108
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij de Schouw Zutphen",
+                  "text": "Ez a Zutphen városában található állatsimogató barátságos úti cél a gyerekeknek az állatokkal való ismerkedéshez.",
+                  "category": "family",
+                  "coords": [
+                        6.198995,
+                        52.129007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kinderboerderij de Reuvershoeve",
+                  "text": "Această fermă de animale din Zutphen este un loc minunat pentru familii pentru a vedea și a învăța despre animale.",
+                  "category": "family",
+                  "coords": [
+                        6.172415,
+                        52.124386
+                  ]
+            },
+            {
+                  "name": "Dierenweide 't Spiker",
+                  "text": "Această pajiște cu animale din Zutphen oferă un cadru liniștit pentru familii pentru a vizita animalele.",
+                  "category": "family",
+                  "coords": [
+                        6.227517,
+                        52.136105
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Această pajiște cu animale din Zutphen oferă un spațiu pentru vizitatori pentru a vedea diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        6.201314,
+                        52.144108
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij de Schouw Zutphen",
+                  "text": "Această fermă de animale din Zutphen este o destinație prietenoasă pentru copii pentru a interacționa cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        6.198995,
+                        52.129007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kinderboerderij de Reuvershoeve",
+                  "text": "This petting farm in Zutphen is a great place for families to see and learn about animals.",
+                  "category": "family",
+                  "coords": [
+                        6.172415,
+                        52.124386
+                  ]
+            },
+            {
+                  "name": "Dierenweide 't Spiker",
+                  "text": "This animal meadow in Zutphen offers a peaceful setting for families to visit animals.",
+                  "category": "family",
+                  "coords": [
+                        6.227517,
+                        52.136105
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "This animal meadow in Zutphen provides a space for visitors to see various animals.",
+                  "category": "family",
+                  "coords": [
+                        6.201314,
+                        52.144108
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij de Schouw Zutphen",
+                  "text": "This petting farm in Zutphen is a friendly destination for children to interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        6.198995,
+                        52.129007
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Zutphen", hu: "Zutphen", ro: "Zutphen", en: "Zutphen" },
@@ -24304,6 +25609,42 @@ export const netherlandsCitiesV2: POI[] = [
                         5.616562,
                         52.349022
                   ]
+            },
+            {
+                  "name": "De Sypel",
+                  "text": "Eine öffentliche Schwimmeinrichtung in Harderwijk, die für Sport- und Freizeitaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        5.627257,
+                        52.342779
+                  ]
+            },
+            {
+                  "name": "Buitenbad",
+                  "text": "Eine öffentliche Schwimmeinrichtung in Harderwijk, die für Sport- und Freizeitaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        5.629035,
+                        52.384129
+                  ]
+            },
+            {
+                  "name": "Klinkboerderij",
+                  "text": "Ein örtlicher Tierpark in Harderwijk, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.603903,
+                        52.315741
+                  ]
+            },
+            {
+                  "name": "t Suyderseebad",
+                  "text": "Eine öffentliche Schwimmeinrichtung in Harderwijk, die für Sport- und Freizeitaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        5.674364,
+                        52.354971
+                  ]
             }
       ],
       "hu": [
@@ -24584,6 +25925,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.616562,
                         52.349022
+                  ]
+            },
+            {
+                  "name": "De Sypel",
+                  "text": "Harderwijk településen található nyilvános uszoda, amely alkalmas sportolásra és szabadidős tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        5.627257,
+                        52.342779
+                  ]
+            },
+            {
+                  "name": "Buitenbad",
+                  "text": "Harderwijk településen található nyilvános uszoda, amely alkalmas sportolásra és szabadidős tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        5.629035,
+                        52.384129
+                  ]
+            },
+            {
+                  "name": "Klinkboerderij",
+                  "text": "Helyi állatpark Harderwijk településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        5.603903,
+                        52.315741
+                  ]
+            },
+            {
+                  "name": "t Suyderseebad",
+                  "text": "Harderwijk településen található nyilvános uszoda, amely alkalmas sportolásra és szabadidős tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        5.674364,
+                        52.354971
                   ]
             }
       ],
@@ -24866,6 +26243,42 @@ export const netherlandsCitiesV2: POI[] = [
                         5.616562,
                         52.349022
                   ]
+            },
+            {
+                  "name": "De Sypel",
+                  "text": "O facilitate publică de înot în Harderwijk, potrivită pentru sport și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        5.627257,
+                        52.342779
+                  ]
+            },
+            {
+                  "name": "Buitenbad",
+                  "text": "O facilitate publică de înot în Harderwijk, potrivită pentru sport și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        5.629035,
+                        52.384129
+                  ]
+            },
+            {
+                  "name": "Klinkboerderij",
+                  "text": "Un parc de animale local din Harderwijk, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        5.603903,
+                        52.315741
+                  ]
+            },
+            {
+                  "name": "t Suyderseebad",
+                  "text": "O facilitate publică de înot în Harderwijk, potrivită pentru sport și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        5.674364,
+                        52.354971
+                  ]
             }
       ],
       "en": [
@@ -25146,6 +26559,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.616562,
                         52.349022
+                  ]
+            },
+            {
+                  "name": "De Sypel",
+                  "text": "A public swimming facility in Harderwijk suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        5.627257,
+                        52.342779
+                  ]
+            },
+            {
+                  "name": "Buitenbad",
+                  "text": "A public swimming facility in Harderwijk suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        5.629035,
+                        52.384129
+                  ]
+            },
+            {
+                  "name": "Klinkboerderij",
+                  "text": "A local animal park in Harderwijk offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        5.603903,
+                        52.315741
+                  ]
+            },
+            {
+                  "name": "t Suyderseebad",
+                  "text": "A public swimming facility in Harderwijk suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        5.674364,
+                        52.354971
                   ]
             }
       ]
@@ -26266,6 +27715,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.685781,
                         53.013083
                   ]
+            },
+            {
+                  "name": "It Rak",
+                  "text": "Dieses Schwimmbad in Sneek bietet Einrichtungen zum Schwimmen und für Wasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        5.673566,
+                        53.034905
+                  ]
             }
       ],
       "hu": [
@@ -26420,6 +27878,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.685781,
                         53.013083
+                  ]
+            },
+            {
+                  "name": "It Rak",
+                  "text": "Ez a Sneek területén található uszoda úszási és vízi tevékenységekhez kínál lehetőségeket.",
+                  "category": "family",
+                  "coords": [
+                        5.673566,
+                        53.034905
                   ]
             }
       ],
@@ -26576,6 +28043,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.685781,
                         53.013083
                   ]
+            },
+            {
+                  "name": "It Rak",
+                  "text": "Această piscină din Sneek oferă facilități pentru înot și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        5.673566,
+                        53.034905
+                  ]
             }
       ],
       "en": [
@@ -26730,6 +28206,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.685781,
                         53.013083
+                  ]
+            },
+            {
+                  "name": "It Rak",
+                  "text": "This swimming pool in Sneek offers facilities for swimming and aquatic activities.",
+                  "category": "family",
+                  "coords": [
+                        5.673566,
+                        53.034905
                   ]
             }
       ]
@@ -26914,6 +28399,24 @@ export const netherlandsCitiesV2: POI[] = [
                         6.288218,
                         51.967426
                   ]
+            },
+            {
+                  "name": "Kinderboerderij Kokiezier",
+                  "text": "Ein örtlicher Tierpark in Doetinchem, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.245343,
+                        51.966302
+                  ]
+            },
+            {
+                  "name": "Het Land van Jan Klaassen",
+                  "text": "Ein Freizeitpark in Doetinchem, der eine Vielzahl von Fahrgeschäften und Unterhaltung für Besucher jeden Alters bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.262135,
+                        51.931626
+                  ]
             }
       ],
       "hu": [
@@ -27050,6 +28553,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.288218,
                         51.967426
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Kokiezier",
+                  "text": "Helyi állatpark Doetinchem településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        6.245343,
+                        51.966302
+                  ]
+            },
+            {
+                  "name": "Het Land van Jan Klaassen",
+                  "text": "Vidámpark Doetinchem településen, amely különféle játékokat és szórakozást kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        6.262135,
+                        51.931626
                   ]
             }
       ],
@@ -27188,6 +28709,24 @@ export const netherlandsCitiesV2: POI[] = [
                         6.288218,
                         51.967426
                   ]
+            },
+            {
+                  "name": "Kinderboerderij Kokiezier",
+                  "text": "Un parc de animale local din Doetinchem, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        6.245343,
+                        51.966302
+                  ]
+            },
+            {
+                  "name": "Het Land van Jan Klaassen",
+                  "text": "Un parc de distracții în Doetinchem, care oferă o varietate de atracții și divertisment pentru vizitatorii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        6.262135,
+                        51.931626
+                  ]
             }
       ],
       "en": [
@@ -27324,6 +28863,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.288218,
                         51.967426
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Kokiezier",
+                  "text": "A local animal park in Doetinchem offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        6.245343,
+                        51.966302
+                  ]
+            },
+            {
+                  "name": "Het Land van Jan Klaassen",
+                  "text": "An amusement park in Doetinchem offering a variety of rides and entertainment for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        6.262135,
+                        51.931626
                   ]
             }
       ]
@@ -28075,7 +29632,700 @@ export const netherlandsCitiesV2: POI[] = [
   }
 ,
   {
-    id: "netherlands-drachten-cities-v2", "sights": {"de": [{"name": "Smalle Ee Strand", "text": "In der Nähe der Stadt Drachten gelegen, ist der Smalle Ee Strand ein gemütliches Ausflugsziel am Wasser. Seine reizvolle Lage fördert eine ruhige und friedliche Umgebung, die ideal für stille Erholung ist. Besucher verbringen ihre Zeit gerne mit Faulenzen, dem Genießen der Natur und vielleicht einem kurzen Fußbad im Wasser. Ein Besuch in den wärmeren Sommermonaten sorgt für das angenehmste Erlebnis.", "category": "recreational", "coords": [6.021349, 53.106664]}, {"name": "Museum Drachten", "text": "Ein Museum für moderne Kunst in Drachten.", "category": "museum", "coords": [6.097541, 53.10434]}, {"name": "De Lawei", "text": "Ein bekanntes Theater- und Kulturzentrum in Drachten.", "category": "cultural", "coords": [6.097494, 53.102835]}, {"name": "De Peinder Mieden", "text": "Ein Naturschutzgebiet in der Nähe von Drachten.", "category": "natural", "coords": [6.062761, 53.124887]}, {"name": "Stichting Dierenparkje de Wiken", "text": "Ein kleiner Tierpark für Besucher in Drachten.", "category": "family", "coords": [6.117187, 53.11508]}, {"name": "Thalenpark", "text": "Ein öffentlicher Park im Zentrum von Drachten.", "category": "park", "coords": [6.092635, 53.108596]}, {"name": "Carillon", "text": "Ein Glockenspiel als markante Sehenswürdigkeit in Drachten.", "category": "landmark", "coords": [6.098185, 53.106719]}, {"name": "De Naturij", "text": "Ein Freizeitzentrum und Park in Drachten.", "category": "landmark", "coords": [6.072778, 53.094538]}, {"name": "Blotevoetenpad", "text": "Ein Barfußpfad für Naturerlebnisse in Drachten.", "category": "landmark", "coords": [6.089969, 53.132624]}, {"name": "De Goddelijke Verlosser", "text": "Ein modernes Kirchengebäude in Drachten.", "category": "religious", "coords": [6.095729, 53.104135]}, {"name": "Zuiderkerk", "text": "Eine charakteristische Kirche in der Stadt Drachten.", "category": "religious", "coords": [6.099767, 53.100319]}, {"name": "Doopsgezinde Kerk", "text": "Ein mennonitisches Kirchengebäude in Drachten.", "category": "religious", "coords": [6.097844, 53.105609]}, {"name": "Grote Kerk", "text": "Die Hauptkirche von Drachten, ein historisches Bauwerk.", "category": "religious", "coords": [6.10086, 53.106249]}, {"name": "De Leien", "text": "De Leien ist ein malerischer See bei Drachten, der sich ideal für entspannte Spaziergänge in der Natur eignet.", "category": "natural", "coords": [6.064633, 53.156696]}, {"name": "Speeltuin de Peppel", "text": "Speeltuin de Peppel in Drachten ist ein schöner Spielplatz, der Kindern sicheren Raum zum Austoben bietet.", "category": "family", "coords": [6.085228, 53.104646]}, {"name": "Spijkerdorp", "text": "Spijkerdorp in Drachten ist ein beliebter Abenteuerspielplatz für Familien mit Kindern.", "category": "family", "coords": [6.128167, 53.107737]}, {"name": "Verkeerstuin", "text": "Der Verkeerstuin in Drachten bietet Kindern eine spielerische Umgebung, um sich im Freien zu bewegen.", "category": "family", "coords": [6.074408, 53.093557]}, {"name": "Speeltuin Vrijburgh", "text": "Speeltuin Vrijburgh in Drachten ist ein lokaler Spielplatz, der zum Verweilen und Spielen einlädt.", "category": "family", "coords": [6.090911, 53.13006]}], "hu": [{"name": "Smalle Ee Strand", "text": "A Drachten városa közelében található Smalle Ee Strand egy hangulatos vízparti úti cél. Elbűvölő elhelyezkedése természetes módon csendes és békés környezetet teremt, amely ideális a nyugodt szemlélődéshez. A látogatók szívesen töltik az idejüket pihenéssel, a természet élvezetével, és talán a lábukat is megmártják a vízben. A melegebb nyári hónapokban tett látogatás nyújtja a legkellemesebb élményt.", "category": "recreational", "coords": [6.021349, 53.106664]}, {"name": "Museum Drachten", "text": "Modern művészeti múzeum Drachtenben.", "category": "museum", "coords": [6.097541, 53.10434]}, {"name": "De Lawei", "text": "Ismert színház és kulturális központ Drachtenben.", "category": "cultural", "coords": [6.097494, 53.102835]}, {"name": "De Peinder Mieden", "text": "Természetvédelmi terület Drachten közelében.", "category": "natural", "coords": [6.062761, 53.124887]}, {"name": "Stichting Dierenparkje de Wiken", "text": "Egy kis állatpark látogatók számára Drachtenben.", "category": "family", "coords": [6.117187, 53.11508]}, {"name": "Thalenpark", "text": "Nyilvános park Drachten központjában.", "category": "park", "coords": [6.092635, 53.108596]}, {"name": "Carillon", "text": "Egy harangjáték, amely jellegzetes látnivaló Drachtenben.", "category": "landmark", "coords": [6.098185, 53.106719]}, {"name": "De Naturij", "text": "Szabadidős központ és park Drachtenben.", "category": "landmark", "coords": [6.072778, 53.094538]}, {"name": "Blotevoetenpad", "text": "Mezítlábas ösvény a természet megtapasztalásához Drachtenben.", "category": "landmark", "coords": [6.089969, 53.132624]}, {"name": "De Goddelijke Verlosser", "text": "Modern templomépület Drachtenben.", "category": "religious", "coords": [6.095729, 53.104135]}, {"name": "Zuiderkerk", "text": "Egy jellegzetes templom Drachten városában.", "category": "religious", "coords": [6.099767, 53.100319]}, {"name": "Doopsgezinde Kerk", "text": "Mennonita templomépület Drachtenben.", "category": "religious", "coords": [6.097844, 53.105609]}, {"name": "Grote Kerk", "text": "Drachten főtemploma, egy történelmi épület.", "category": "religious", "coords": [6.10086, 53.106249]}, {"name": "De Leien", "text": "A De Leien egy festői tó Drachten közelében, amely ideális választás a természetben való kikapcsolódáshoz.", "category": "natural", "coords": [6.064633, 53.156696]}, {"name": "Speeltuin de Peppel", "text": "A drachteni Speeltuin de Peppel egy kedves játszótér, amely biztonságos kikapcsolódást nyújt a gyerekeknek.", "category": "family", "coords": [6.085228, 53.104646]}, {"name": "Spijkerdorp", "text": "A drachteni Spijkerdorp egy népszerű kalandjátszótér a gyermekes családok számára.", "category": "family", "coords": [6.128167, 53.107737]}, {"name": "Verkeerstuin", "text": "A drachteni Verkeerstuin játékos környezetet biztosít a gyerekeknek a szabadtéri mozgáshoz.", "category": "family", "coords": [6.074408, 53.093557]}, {"name": "Speeltuin Vrijburgh", "text": "A drachteni Speeltuin Vrijburgh egy helyi játszótér, amely játékra és kikapcsolódásra hívogat.", "category": "family", "coords": [6.090911, 53.13006]}], "ro": [{"name": "Smalle Ee Strand", "text": "Aflată lângă orașul Drachten, Smalle Ee Strand este o destinație confortabilă la malul apei. Cadrul său fermecător încurajează în mod natural un mediu liniștit și pașnic, ideal pentru contemplare. Vizitatorii adoră să-și petreacă timpul relaxându-se, bucurându-se de natură și, poate, testând apa cu picioarele. O vizită în lunile mai calde de vară oferă cea mai plăcută experiență.", "category": "recreational", "coords": [6.021349, 53.106664]}, {"name": "Museum Drachten", "text": "Un muzeu de artă modernă în Drachten.", "category": "museum", "coords": [6.097541, 53.10434]}, {"name": "De Lawei", "text": "Un cunoscut teatru și centru cultural din Drachten.", "category": "cultural", "coords": [6.097494, 53.102835]}, {"name": "De Peinder Mieden", "text": "O rezervație naturală în apropiere de Drachten.", "category": "natural", "coords": [6.062761, 53.124887]}, {"name": "Stichting Dierenparkje de Wiken", "text": "Un mic parc zoologic pentru vizitatori în Drachten.", "category": "family", "coords": [6.117187, 53.11508]}, {"name": "Thalenpark", "text": "Un parc public în centrul orașului Drachten.", "category": "park", "coords": [6.092635, 53.108596]}, {"name": "Carillon", "text": "Un carillon ca obiectiv turistic distinctiv în Drachten.", "category": "landmark", "coords": [6.098185, 53.106719]}, {"name": "De Naturij", "text": "Un centru de recreere și parc în Drachten.", "category": "landmark", "coords": [6.072778, 53.094538]}, {"name": "Blotevoetenpad", "text": "O potecă desculță pentru experiențe în natură în Drachten.", "category": "landmark", "coords": [6.089969, 53.132624]}, {"name": "De Goddelijke Verlosser", "text": "O clădire modernă de biserică în Drachten.", "category": "religious", "coords": [6.095729, 53.104135]}, {"name": "Zuiderkerk", "text": "O biserică caracteristică în orașul Drachten.", "category": "religious", "coords": [6.099767, 53.100319]}, {"name": "Doopsgezinde Kerk", "text": "O clădire de biserică menonită în Drachten.", "category": "religious", "coords": [6.097844, 53.105609]}, {"name": "Grote Kerk", "text": "Biserica principală din Drachten, o clădire istorică.", "category": "religious", "coords": [6.10086, 53.106249]}, {"name": "De Leien", "text": "De Leien este un lac pitoresc de lângă Drachten, ideal pentru plimbări relaxante în natură.", "category": "natural", "coords": [6.064633, 53.156696]}, {"name": "Speeltuin de Peppel", "text": "Speeltuin de Peppel din Drachten este un loc de joacă frumos, care oferă copiilor un spațiu sigur de distracție.", "category": "family", "coords": [6.085228, 53.104646]}, {"name": "Spijkerdorp", "text": "Spijkerdorp din Drachten este un teren de joacă de aventură popular pentru familiile cu copii.", "category": "family", "coords": [6.128167, 53.107737]}, {"name": "Verkeerstuin", "text": "Verkeerstuin din Drachten oferă copiilor un mediu jucăuș pentru activități în aer liber.", "category": "family", "coords": [6.074408, 53.093557]}, {"name": "Speeltuin Vrijburgh", "text": "Speeltuin Vrijburgh din Drachten este un loc de joacă local care invită copiii la joacă.", "category": "family", "coords": [6.090911, 53.13006]}], "en": [{"name": "Smalle Ee Strand", "text": "Found near the town of Drachten, Smalle Ee Strand is a cozy waterside destination. Its charming setting naturally fosters a quiet and peaceful environment, ideal for quiet contemplation. Visitors love to spend their time lounging, enjoying nature, and perhaps dipping their toes in the water. Visiting during the warmer summer months provides the most pleasant experience.", "category": "recreational", "coords": [6.021349, 53.106664]}, {"name": "Museum Drachten", "text": "A museum for modern art located in Drachten.", "category": "museum", "coords": [6.097541, 53.10434]}, {"name": "De Lawei", "text": "A well-known theatre and cultural centre in Drachten.", "category": "cultural", "coords": [6.097494, 53.102835]}, {"name": "De Peinder Mieden", "text": "A nature reserve located near Drachten.", "category": "natural", "coords": [6.062761, 53.124887]}, {"name": "Stichting Dierenparkje de Wiken", "text": "A small zoo for visitors in Drachten.", "category": "family", "coords": [6.117187, 53.11508]}, {"name": "Thalenpark", "text": "A public park in the center of Drachten.", "category": "park", "coords": [6.092635, 53.108596]}, {"name": "Carillon", "text": "A carillon serving as a notable attraction in Drachten.", "category": "landmark", "coords": [6.098185, 53.106719]}, {"name": "De Naturij", "text": "A recreation centre and park in Drachten.", "category": "landmark", "coords": [6.072778, 53.094538]}, {"name": "Blotevoetenpad", "text": "A barefoot path for nature experiences in Drachten.", "category": "landmark", "coords": [6.089969, 53.132624]}, {"name": "De Goddelijke Verlosser", "text": "A modern church building in Drachten.", "category": "religious", "coords": [6.095729, 53.104135]}, {"name": "Zuiderkerk", "text": "A characteristic church in the city of Drachten.", "category": "religious", "coords": [6.099767, 53.100319]}, {"name": "Doopsgezinde Kerk", "text": "A Mennonite church building in Drachten.", "category": "religious", "coords": [6.097844, 53.105609]}, {"name": "Grote Kerk", "text": "The main church of Drachten, a historical building.", "category": "religious", "coords": [6.10086, 53.106249]}, {"name": "De Leien", "text": "De Leien is a scenic lake near Drachten, ideal for relaxing walks in nature.", "category": "natural", "coords": [6.064633, 53.156696]}, {"name": "Speeltuin de Peppel", "text": "Speeltuin de Peppel in Drachten is a lovely playground offering children a safe space to play.", "category": "family", "coords": [6.085228, 53.104646]}, {"name": "Spijkerdorp", "text": "Spijkerdorp in Drachten is a popular adventure playground for families with children.", "category": "family", "coords": [6.128167, 53.107737]}, {"name": "Verkeerstuin", "text": "Verkeerstuin in Drachten provides a playful environment for children to enjoy outdoor activities.", "category": "family", "coords": [6.074408, 53.093557]}, {"name": "Speeltuin Vrijburgh", "text": "Speeltuin Vrijburgh in Drachten is a local playground that invites children to play.", "category": "family", "coords": [6.090911, 53.13006]}]},
+    id: "netherlands-drachten-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Smalle Ee Strand",
+                  "text": "In der Nähe der Stadt Drachten gelegen, ist der Smalle Ee Strand ein gemütliches Ausflugsziel am Wasser. Seine reizvolle Lage fördert eine ruhige und friedliche Umgebung, die ideal für stille Erholung ist. Besucher verbringen ihre Zeit gerne mit Faulenzen, dem Genießen der Natur und vielleicht einem kurzen Fußbad im Wasser. Ein Besuch in den wärmeren Sommermonaten sorgt für das angenehmste Erlebnis.",
+                  "category": "recreational",
+                  "coords": [
+                        6.021349,
+                        53.106664
+                  ]
+            },
+            {
+                  "name": "Museum Drachten",
+                  "text": "Ein Museum für moderne Kunst in Drachten.",
+                  "category": "museum",
+                  "coords": [
+                        6.097541,
+                        53.10434
+                  ]
+            },
+            {
+                  "name": "De Lawei",
+                  "text": "Ein bekanntes Theater- und Kulturzentrum in Drachten.",
+                  "category": "cultural",
+                  "coords": [
+                        6.097494,
+                        53.102835
+                  ]
+            },
+            {
+                  "name": "De Peinder Mieden",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Drachten.",
+                  "category": "natural",
+                  "coords": [
+                        6.062761,
+                        53.124887
+                  ]
+            },
+            {
+                  "name": "Stichting Dierenparkje de Wiken",
+                  "text": "Ein kleiner Tierpark für Besucher in Drachten.",
+                  "category": "family",
+                  "coords": [
+                        6.117187,
+                        53.11508
+                  ]
+            },
+            {
+                  "name": "Thalenpark",
+                  "text": "Ein öffentlicher Park im Zentrum von Drachten.",
+                  "category": "park",
+                  "coords": [
+                        6.092635,
+                        53.108596
+                  ]
+            },
+            {
+                  "name": "Carillon",
+                  "text": "Ein Glockenspiel als markante Sehenswürdigkeit in Drachten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.098185,
+                        53.106719
+                  ]
+            },
+            {
+                  "name": "De Naturij",
+                  "text": "Ein Freizeitzentrum und Park in Drachten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.072778,
+                        53.094538
+                  ]
+            },
+            {
+                  "name": "Blotevoetenpad",
+                  "text": "Ein Barfußpfad für Naturerlebnisse in Drachten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.089969,
+                        53.132624
+                  ]
+            },
+            {
+                  "name": "De Goddelijke Verlosser",
+                  "text": "Ein modernes Kirchengebäude in Drachten.",
+                  "category": "religious",
+                  "coords": [
+                        6.095729,
+                        53.104135
+                  ]
+            },
+            {
+                  "name": "Zuiderkerk",
+                  "text": "Eine charakteristische Kirche in der Stadt Drachten.",
+                  "category": "religious",
+                  "coords": [
+                        6.099767,
+                        53.100319
+                  ]
+            },
+            {
+                  "name": "Doopsgezinde Kerk",
+                  "text": "Ein mennonitisches Kirchengebäude in Drachten.",
+                  "category": "religious",
+                  "coords": [
+                        6.097844,
+                        53.105609
+                  ]
+            },
+            {
+                  "name": "Grote Kerk",
+                  "text": "Die Hauptkirche von Drachten, ein historisches Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        6.10086,
+                        53.106249
+                  ]
+            },
+            {
+                  "name": "De Leien",
+                  "text": "De Leien ist ein malerischer See bei Drachten, der sich ideal für entspannte Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        6.064633,
+                        53.156696
+                  ]
+            },
+            {
+                  "name": "Speeltuin de Peppel",
+                  "text": "Speeltuin de Peppel in Drachten ist ein schöner Spielplatz, der Kindern sicheren Raum zum Austoben bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.085228,
+                        53.104646
+                  ]
+            },
+            {
+                  "name": "Spijkerdorp",
+                  "text": "Spijkerdorp in Drachten ist ein beliebter Abenteuerspielplatz für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        6.128167,
+                        53.107737
+                  ]
+            },
+            {
+                  "name": "Verkeerstuin",
+                  "text": "Der Verkeerstuin in Drachten bietet Kindern eine spielerische Umgebung, um sich im Freien zu bewegen.",
+                  "category": "family",
+                  "coords": [
+                        6.074408,
+                        53.093557
+                  ]
+            },
+            {
+                  "name": "Speeltuin Vrijburgh",
+                  "text": "Speeltuin Vrijburgh in Drachten ist ein lokaler Spielplatz, der zum Verweilen und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        6.090911,
+                        53.13006
+                  ]
+            },
+            {
+                  "name": "De Welle",
+                  "text": "De Welle ist ein Schwimmbad in Drachten. Es bietet Möglichkeiten zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        6.093163,
+                        53.100068
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Smalle Ee Strand",
+                  "text": "A Drachten városa közelében található Smalle Ee Strand egy hangulatos vízparti úti cél. Elbűvölő elhelyezkedése természetes módon csendes és békés környezetet teremt, amely ideális a nyugodt szemlélődéshez. A látogatók szívesen töltik az idejüket pihenéssel, a természet élvezetével, és talán a lábukat is megmártják a vízben. A melegebb nyári hónapokban tett látogatás nyújtja a legkellemesebb élményt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.021349,
+                        53.106664
+                  ]
+            },
+            {
+                  "name": "Museum Drachten",
+                  "text": "Modern művészeti múzeum Drachtenben.",
+                  "category": "museum",
+                  "coords": [
+                        6.097541,
+                        53.10434
+                  ]
+            },
+            {
+                  "name": "De Lawei",
+                  "text": "Ismert színház és kulturális központ Drachtenben.",
+                  "category": "cultural",
+                  "coords": [
+                        6.097494,
+                        53.102835
+                  ]
+            },
+            {
+                  "name": "De Peinder Mieden",
+                  "text": "Természetvédelmi terület Drachten közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.062761,
+                        53.124887
+                  ]
+            },
+            {
+                  "name": "Stichting Dierenparkje de Wiken",
+                  "text": "Egy kis állatpark látogatók számára Drachtenben.",
+                  "category": "family",
+                  "coords": [
+                        6.117187,
+                        53.11508
+                  ]
+            },
+            {
+                  "name": "Thalenpark",
+                  "text": "Nyilvános park Drachten központjában.",
+                  "category": "park",
+                  "coords": [
+                        6.092635,
+                        53.108596
+                  ]
+            },
+            {
+                  "name": "Carillon",
+                  "text": "Egy harangjáték, amely jellegzetes látnivaló Drachtenben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.098185,
+                        53.106719
+                  ]
+            },
+            {
+                  "name": "De Naturij",
+                  "text": "Szabadidős központ és park Drachtenben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.072778,
+                        53.094538
+                  ]
+            },
+            {
+                  "name": "Blotevoetenpad",
+                  "text": "Mezítlábas ösvény a természet megtapasztalásához Drachtenben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.089969,
+                        53.132624
+                  ]
+            },
+            {
+                  "name": "De Goddelijke Verlosser",
+                  "text": "Modern templomépület Drachtenben.",
+                  "category": "religious",
+                  "coords": [
+                        6.095729,
+                        53.104135
+                  ]
+            },
+            {
+                  "name": "Zuiderkerk",
+                  "text": "Egy jellegzetes templom Drachten városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.099767,
+                        53.100319
+                  ]
+            },
+            {
+                  "name": "Doopsgezinde Kerk",
+                  "text": "Mennonita templomépület Drachtenben.",
+                  "category": "religious",
+                  "coords": [
+                        6.097844,
+                        53.105609
+                  ]
+            },
+            {
+                  "name": "Grote Kerk",
+                  "text": "Drachten főtemploma, egy történelmi épület.",
+                  "category": "religious",
+                  "coords": [
+                        6.10086,
+                        53.106249
+                  ]
+            },
+            {
+                  "name": "De Leien",
+                  "text": "A De Leien egy festői tó Drachten közelében, amely ideális választás a természetben való kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.064633,
+                        53.156696
+                  ]
+            },
+            {
+                  "name": "Speeltuin de Peppel",
+                  "text": "A drachteni Speeltuin de Peppel egy kedves játszótér, amely biztonságos kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.085228,
+                        53.104646
+                  ]
+            },
+            {
+                  "name": "Spijkerdorp",
+                  "text": "A drachteni Spijkerdorp egy népszerű kalandjátszótér a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        6.128167,
+                        53.107737
+                  ]
+            },
+            {
+                  "name": "Verkeerstuin",
+                  "text": "A drachteni Verkeerstuin játékos környezetet biztosít a gyerekeknek a szabadtéri mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.074408,
+                        53.093557
+                  ]
+            },
+            {
+                  "name": "Speeltuin Vrijburgh",
+                  "text": "A drachteni Speeltuin Vrijburgh egy helyi játszótér, amely játékra és kikapcsolódásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        6.090911,
+                        53.13006
+                  ]
+            },
+            {
+                  "name": "De Welle",
+                  "text": "A De Welle egy úszómedence Drachten városában. Úszási és kikapcsolódási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        6.093163,
+                        53.100068
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Smalle Ee Strand",
+                  "text": "Aflată lângă orașul Drachten, Smalle Ee Strand este o destinație confortabilă la malul apei. Cadrul său fermecător încurajează în mod natural un mediu liniștit și pașnic, ideal pentru contemplare. Vizitatorii adoră să-și petreacă timpul relaxându-se, bucurându-se de natură și, poate, testând apa cu picioarele. O vizită în lunile mai calde de vară oferă cea mai plăcută experiență.",
+                  "category": "recreational",
+                  "coords": [
+                        6.021349,
+                        53.106664
+                  ]
+            },
+            {
+                  "name": "Museum Drachten",
+                  "text": "Un muzeu de artă modernă în Drachten.",
+                  "category": "museum",
+                  "coords": [
+                        6.097541,
+                        53.10434
+                  ]
+            },
+            {
+                  "name": "De Lawei",
+                  "text": "Un cunoscut teatru și centru cultural din Drachten.",
+                  "category": "cultural",
+                  "coords": [
+                        6.097494,
+                        53.102835
+                  ]
+            },
+            {
+                  "name": "De Peinder Mieden",
+                  "text": "O rezervație naturală în apropiere de Drachten.",
+                  "category": "natural",
+                  "coords": [
+                        6.062761,
+                        53.124887
+                  ]
+            },
+            {
+                  "name": "Stichting Dierenparkje de Wiken",
+                  "text": "Un mic parc zoologic pentru vizitatori în Drachten.",
+                  "category": "family",
+                  "coords": [
+                        6.117187,
+                        53.11508
+                  ]
+            },
+            {
+                  "name": "Thalenpark",
+                  "text": "Un parc public în centrul orașului Drachten.",
+                  "category": "park",
+                  "coords": [
+                        6.092635,
+                        53.108596
+                  ]
+            },
+            {
+                  "name": "Carillon",
+                  "text": "Un carillon ca obiectiv turistic distinctiv în Drachten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.098185,
+                        53.106719
+                  ]
+            },
+            {
+                  "name": "De Naturij",
+                  "text": "Un centru de recreere și parc în Drachten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.072778,
+                        53.094538
+                  ]
+            },
+            {
+                  "name": "Blotevoetenpad",
+                  "text": "O potecă desculță pentru experiențe în natură în Drachten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.089969,
+                        53.132624
+                  ]
+            },
+            {
+                  "name": "De Goddelijke Verlosser",
+                  "text": "O clădire modernă de biserică în Drachten.",
+                  "category": "religious",
+                  "coords": [
+                        6.095729,
+                        53.104135
+                  ]
+            },
+            {
+                  "name": "Zuiderkerk",
+                  "text": "O biserică caracteristică în orașul Drachten.",
+                  "category": "religious",
+                  "coords": [
+                        6.099767,
+                        53.100319
+                  ]
+            },
+            {
+                  "name": "Doopsgezinde Kerk",
+                  "text": "O clădire de biserică menonită în Drachten.",
+                  "category": "religious",
+                  "coords": [
+                        6.097844,
+                        53.105609
+                  ]
+            },
+            {
+                  "name": "Grote Kerk",
+                  "text": "Biserica principală din Drachten, o clădire istorică.",
+                  "category": "religious",
+                  "coords": [
+                        6.10086,
+                        53.106249
+                  ]
+            },
+            {
+                  "name": "De Leien",
+                  "text": "De Leien este un lac pitoresc de lângă Drachten, ideal pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.064633,
+                        53.156696
+                  ]
+            },
+            {
+                  "name": "Speeltuin de Peppel",
+                  "text": "Speeltuin de Peppel din Drachten este un loc de joacă frumos, care oferă copiilor un spațiu sigur de distracție.",
+                  "category": "family",
+                  "coords": [
+                        6.085228,
+                        53.104646
+                  ]
+            },
+            {
+                  "name": "Spijkerdorp",
+                  "text": "Spijkerdorp din Drachten este un teren de joacă de aventură popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        6.128167,
+                        53.107737
+                  ]
+            },
+            {
+                  "name": "Verkeerstuin",
+                  "text": "Verkeerstuin din Drachten oferă copiilor un mediu jucăuș pentru activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.074408,
+                        53.093557
+                  ]
+            },
+            {
+                  "name": "Speeltuin Vrijburgh",
+                  "text": "Speeltuin Vrijburgh din Drachten este un loc de joacă local care invită copiii la joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.090911,
+                        53.13006
+                  ]
+            },
+            {
+                  "name": "De Welle",
+                  "text": "De Welle este o piscină în Drachten. Aceasta oferă facilități pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        6.093163,
+                        53.100068
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Smalle Ee Strand",
+                  "text": "Found near the town of Drachten, Smalle Ee Strand is a cozy waterside destination. Its charming setting naturally fosters a quiet and peaceful environment, ideal for quiet contemplation. Visitors love to spend their time lounging, enjoying nature, and perhaps dipping their toes in the water. Visiting during the warmer summer months provides the most pleasant experience.",
+                  "category": "recreational",
+                  "coords": [
+                        6.021349,
+                        53.106664
+                  ]
+            },
+            {
+                  "name": "Museum Drachten",
+                  "text": "A museum for modern art located in Drachten.",
+                  "category": "museum",
+                  "coords": [
+                        6.097541,
+                        53.10434
+                  ]
+            },
+            {
+                  "name": "De Lawei",
+                  "text": "A well-known theatre and cultural centre in Drachten.",
+                  "category": "cultural",
+                  "coords": [
+                        6.097494,
+                        53.102835
+                  ]
+            },
+            {
+                  "name": "De Peinder Mieden",
+                  "text": "A nature reserve located near Drachten.",
+                  "category": "natural",
+                  "coords": [
+                        6.062761,
+                        53.124887
+                  ]
+            },
+            {
+                  "name": "Stichting Dierenparkje de Wiken",
+                  "text": "A small zoo for visitors in Drachten.",
+                  "category": "family",
+                  "coords": [
+                        6.117187,
+                        53.11508
+                  ]
+            },
+            {
+                  "name": "Thalenpark",
+                  "text": "A public park in the center of Drachten.",
+                  "category": "park",
+                  "coords": [
+                        6.092635,
+                        53.108596
+                  ]
+            },
+            {
+                  "name": "Carillon",
+                  "text": "A carillon serving as a notable attraction in Drachten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.098185,
+                        53.106719
+                  ]
+            },
+            {
+                  "name": "De Naturij",
+                  "text": "A recreation centre and park in Drachten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.072778,
+                        53.094538
+                  ]
+            },
+            {
+                  "name": "Blotevoetenpad",
+                  "text": "A barefoot path for nature experiences in Drachten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.089969,
+                        53.132624
+                  ]
+            },
+            {
+                  "name": "De Goddelijke Verlosser",
+                  "text": "A modern church building in Drachten.",
+                  "category": "religious",
+                  "coords": [
+                        6.095729,
+                        53.104135
+                  ]
+            },
+            {
+                  "name": "Zuiderkerk",
+                  "text": "A characteristic church in the city of Drachten.",
+                  "category": "religious",
+                  "coords": [
+                        6.099767,
+                        53.100319
+                  ]
+            },
+            {
+                  "name": "Doopsgezinde Kerk",
+                  "text": "A Mennonite church building in Drachten.",
+                  "category": "religious",
+                  "coords": [
+                        6.097844,
+                        53.105609
+                  ]
+            },
+            {
+                  "name": "Grote Kerk",
+                  "text": "The main church of Drachten, a historical building.",
+                  "category": "religious",
+                  "coords": [
+                        6.10086,
+                        53.106249
+                  ]
+            },
+            {
+                  "name": "De Leien",
+                  "text": "De Leien is a scenic lake near Drachten, ideal for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.064633,
+                        53.156696
+                  ]
+            },
+            {
+                  "name": "Speeltuin de Peppel",
+                  "text": "Speeltuin de Peppel in Drachten is a lovely playground offering children a safe space to play.",
+                  "category": "family",
+                  "coords": [
+                        6.085228,
+                        53.104646
+                  ]
+            },
+            {
+                  "name": "Spijkerdorp",
+                  "text": "Spijkerdorp in Drachten is a popular adventure playground for families with children.",
+                  "category": "family",
+                  "coords": [
+                        6.128167,
+                        53.107737
+                  ]
+            },
+            {
+                  "name": "Verkeerstuin",
+                  "text": "Verkeerstuin in Drachten provides a playful environment for children to enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        6.074408,
+                        53.093557
+                  ]
+            },
+            {
+                  "name": "Speeltuin Vrijburgh",
+                  "text": "Speeltuin Vrijburgh in Drachten is a local playground that invites children to play.",
+                  "category": "family",
+                  "coords": [
+                        6.090911,
+                        53.13006
+                  ]
+            },
+            {
+                  "name": "De Welle",
+                  "text": "De Welle is a swimming pool in Drachten. It offers facilities for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        6.093163,
+                        53.100068
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Drachten", hu: "Drachten", ro: "Drachten", en: "Drachten" },
@@ -28895,6 +31145,69 @@ export const netherlandsCitiesV2: POI[] = [
                         6.487385,
                         52.725438
                   ]
+            },
+            {
+                  "name": "Nijstad",
+                  "text": "Ein Bereich zum Schwimmen in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.424779,
+                        52.707474
+                  ]
+            },
+            {
+                  "name": "Dolfijnenbad",
+                  "text": "Ein Schwimmbad für die ganze Familie in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.491054,
+                        52.715214
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Ein Hirschpark für einen Spaziergang in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.494922,
+                        52.714984
+                  ]
+            },
+            {
+                  "name": "de Beestenbult",
+                  "text": "Ein Streichelzoo für Kinder in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.444216,
+                        52.717491
+                  ]
+            },
+            {
+                  "name": "Spartelvijvers",
+                  "text": "Ein Schwimmbereich für Kinder in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.456893,
+                        52.721931
+                  ]
+            },
+            {
+                  "name": "Hertenkamp Spaarbankhoeve",
+                  "text": "Ein kleiner Wildpark in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.465172,
+                        52.745221
+                  ]
+            },
+            {
+                  "name": "Dierenweide Weidesteyn",
+                  "text": "Dieser Streichelzoo in Hoogeveen ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        6.463266,
+                        52.727035
+                  ]
             }
       ],
       "hu": [
@@ -28932,6 +31245,69 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.487385,
                         52.725438
+                  ]
+            },
+            {
+                  "name": "Nijstad",
+                  "text": "Úszásra alkalmas terület Hoogeveen városában.",
+                  "category": "family",
+                  "coords": [
+                        6.424779,
+                        52.707474
+                  ]
+            },
+            {
+                  "name": "Dolfijnenbad",
+                  "text": "Úszómedence az egész családnak Hoogeveen városában.",
+                  "category": "family",
+                  "coords": [
+                        6.491054,
+                        52.715214
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Szarvaskert egy sétához Hoogeveen városában.",
+                  "category": "family",
+                  "coords": [
+                        6.494922,
+                        52.714984
+                  ]
+            },
+            {
+                  "name": "de Beestenbult",
+                  "text": "Állatsimogató gyerekeknek Hoogeveen városában.",
+                  "category": "family",
+                  "coords": [
+                        6.444216,
+                        52.717491
+                  ]
+            },
+            {
+                  "name": "Spartelvijvers",
+                  "text": "Pancsolóhely gyerekeknek Hoogeveen városában.",
+                  "category": "family",
+                  "coords": [
+                        6.456893,
+                        52.721931
+                  ]
+            },
+            {
+                  "name": "Hertenkamp Spaarbankhoeve",
+                  "text": "Kis vadaspark Hoogeveen városában.",
+                  "category": "family",
+                  "coords": [
+                        6.465172,
+                        52.745221
+                  ]
+            },
+            {
+                  "name": "Dierenweide Weidesteyn",
+                  "text": "Ez a Hoogeveen városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.463266,
+                        52.727035
                   ]
             }
       ],
@@ -28971,6 +31347,69 @@ export const netherlandsCitiesV2: POI[] = [
                         6.487385,
                         52.725438
                   ]
+            },
+            {
+                  "name": "Nijstad",
+                  "text": "O zonă pentru înot în Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.424779,
+                        52.707474
+                  ]
+            },
+            {
+                  "name": "Dolfijnenbad",
+                  "text": "O piscină pentru întreaga familie în Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.491054,
+                        52.715214
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Un parc cu căprioare pentru o plimbare în Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.494922,
+                        52.714984
+                  ]
+            },
+            {
+                  "name": "de Beestenbult",
+                  "text": "O fermă de animale pentru copii în Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.444216,
+                        52.717491
+                  ]
+            },
+            {
+                  "name": "Spartelvijvers",
+                  "text": "O zonă de înot pentru copii în Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.456893,
+                        52.721931
+                  ]
+            },
+            {
+                  "name": "Hertenkamp Spaarbankhoeve",
+                  "text": "Un mic parc de animale în Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.465172,
+                        52.745221
+                  ]
+            },
+            {
+                  "name": "Dierenweide Weidesteyn",
+                  "text": "Această fermă de animale din Hoogeveen este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        6.463266,
+                        52.727035
+                  ]
             }
       ],
       "en": [
@@ -29008,6 +31447,69 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.487385,
                         52.725438
+                  ]
+            },
+            {
+                  "name": "Nijstad",
+                  "text": "An area for swimming in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.424779,
+                        52.707474
+                  ]
+            },
+            {
+                  "name": "Dolfijnenbad",
+                  "text": "A swimming pool for the whole family in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.491054,
+                        52.715214
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "A deer park for a walk in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.494922,
+                        52.714984
+                  ]
+            },
+            {
+                  "name": "de Beestenbult",
+                  "text": "A petting farm for children in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.444216,
+                        52.717491
+                  ]
+            },
+            {
+                  "name": "Spartelvijvers",
+                  "text": "A swimming area for children in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.456893,
+                        52.721931
+                  ]
+            },
+            {
+                  "name": "Hertenkamp Spaarbankhoeve",
+                  "text": "A small wildlife park in Hoogeveen.",
+                  "category": "family",
+                  "coords": [
+                        6.465172,
+                        52.745221
+                  ]
+            },
+            {
+                  "name": "Dierenweide Weidesteyn",
+                  "text": "This petting zoo in Hoogeveen is a lovely destination for families to meet and interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        6.463266,
+                        52.727035
                   ]
             }
       ]
@@ -29372,6 +31874,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.418117,
                         51.880781
                   ]
+            },
+            {
+                  "name": "Groenendaal Plus",
+                  "text": "Eine öffentliche Schwimmeinrichtung in Tiel, die für Sport- und Freizeitaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        5.41752,
+                        51.895579
+                  ]
             }
       ],
       "hu": [
@@ -29490,6 +32001,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.418117,
                         51.880781
+                  ]
+            },
+            {
+                  "name": "Groenendaal Plus",
+                  "text": "Tiel településen található nyilvános uszoda, amely alkalmas sportolásra és szabadidős tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        5.41752,
+                        51.895579
                   ]
             }
       ],
@@ -29610,6 +32130,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.418117,
                         51.880781
                   ]
+            },
+            {
+                  "name": "Groenendaal Plus",
+                  "text": "O facilitate publică de înot în Tiel, potrivită pentru sport și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        5.41752,
+                        51.895579
+                  ]
             }
       ],
       "en": [
@@ -29729,6 +32258,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.418117,
                         51.880781
                   ]
+            },
+            {
+                  "name": "Groenendaal Plus",
+                  "text": "A public swimming facility in Tiel suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        5.41752,
+                        51.895579
+                  ]
             }
       ]
 },
@@ -29776,7 +32314,88 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-tiel-cities-v2.webp",
   },
   {
-    id: "netherlands-winterswijk-cities-v2",
+    id: "netherlands-winterswijk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strandbad Winterswijk",
+                  "text": "Dieser Badebereich in Winterswijk bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        6.725475,
+                        51.956436
+                  ]
+            },
+            {
+                  "name": "'t Hilgelo",
+                  "text": "Dieser Badebereich in Winterswijk bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        6.722519,
+                        51.994032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandbad Winterswijk",
+                  "text": "Ez a Winterswijk területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.725475,
+                        51.956436
+                  ]
+            },
+            {
+                  "name": "'t Hilgelo",
+                  "text": "Ez a Winterswijk területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.722519,
+                        51.994032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandbad Winterswijk",
+                  "text": "Această zonă de înot din Winterswijk oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        6.725475,
+                        51.956436
+                  ]
+            },
+            {
+                  "name": "'t Hilgelo",
+                  "text": "Această zonă de înot din Winterswijk oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        6.722519,
+                        51.994032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandbad Winterswijk",
+                  "text": "This swimming area in Winterswijk provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        6.725475,
+                        51.956436
+                  ]
+            },
+            {
+                  "name": "'t Hilgelo",
+                  "text": "This swimming area in Winterswijk provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        6.722519,
+                        51.994032
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Winterswijk", hu: "Winterswijk", ro: "Winterswijk", en: "Winterswijk" },
@@ -30380,6 +32999,24 @@ export const netherlandsCitiesV2: POI[] = [
                         5.037825,
                         52.01282
                   ]
+            },
+            {
+                  "name": "Dierenweide Geindijk",
+                  "text": "Dierenweide Geindijk ist ein Zoo in Ijsselstein. Er bietet Familien die Möglichkeit, Tiere aus der Nähe zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        5.074855,
+                        52.007433
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Eiterse hofje",
+                  "text": "Kinderboerderij 't Eiterse hofje ist ein Zoo in Ijsselstein. Dieser Streichelzoo ist ideal für Kindern und Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.03158,
+                        52.025926
+                  ]
             }
       ],
       "hu": [
@@ -30426,6 +33063,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.037825,
                         52.01282
+                  ]
+            },
+            {
+                  "name": "Dierenweide Geindijk",
+                  "text": "A Dierenweide Geindijk egy állatkert Ijsselsteinben. Lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        5.074855,
+                        52.007433
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Eiterse hofje",
+                  "text": "A Kinderboerderij 't Eiterse hofje egy állatkert Ijsselsteinben. Ez az állatsimogató ideális gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.03158,
+                        52.025926
                   ]
             }
       ],
@@ -30474,6 +33129,24 @@ export const netherlandsCitiesV2: POI[] = [
                         5.037825,
                         52.01282
                   ]
+            },
+            {
+                  "name": "Dierenweide Geindijk",
+                  "text": "Dierenweide Geindijk este o grădină zoologică din Ijsselstein. Oferă familiilor șansa de a vedea animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        5.074855,
+                        52.007433
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Eiterse hofje",
+                  "text": "Kinderboerderij 't Eiterse hofje este o grădină zoologică din Ijsselstein. Această fermă de animale este ideală pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        5.03158,
+                        52.025926
+                  ]
             }
       ],
       "en": [
@@ -30520,6 +33193,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.037825,
                         52.01282
+                  ]
+            },
+            {
+                  "name": "Dierenweide Geindijk",
+                  "text": "Dierenweide Geindijk is a zoo in Ijsselstein. It offers families a chance to see animals up close.",
+                  "category": "family",
+                  "coords": [
+                        5.074855,
+                        52.007433
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij 't Eiterse hofje",
+                  "text": "Kinderboerderij 't Eiterse hofje is a zoo in Ijsselstein. This petting zoo is ideal for children and families.",
+                  "category": "family",
+                  "coords": [
+                        5.03158,
+                        52.025926
                   ]
             }
       ]
@@ -30613,7 +33304,124 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-boxmeer-cities-v2.webp",
   },
   {
-    id: "netherlands-ommen-cities-v2",
+    id: "netherlands-ommen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Erve Vechtdal - Koesafari",
+                  "text": "Dieser Zoo in Ommen ist ein interessantes Ziel für einen Familienausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        6.375027,
+                        52.514648
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Ommen",
+                  "text": "Dieser Streichelzoo in Ommen ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        6.416257,
+                        52.514734
+                  ]
+            },
+            {
+                  "name": "de Koeksebelt",
+                  "text": "Dieser Badebereich in Ommen bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        6.413056,
+                        52.516955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erve Vechtdal - Koesafari",
+                  "text": "Ez a Ommen városában található állatkert érdekes úti cél egy gyermekes családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        6.375027,
+                        52.514648
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Ommen",
+                  "text": "Ez a Ommen városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.416257,
+                        52.514734
+                  ]
+            },
+            {
+                  "name": "de Koeksebelt",
+                  "text": "Ez a Ommen területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.413056,
+                        52.516955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Erve Vechtdal - Koesafari",
+                  "text": "Această grădină zoologică din Ommen este o destinație interesantă pentru o zi în familie cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        6.375027,
+                        52.514648
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Ommen",
+                  "text": "Această fermă de animale din Ommen este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        6.416257,
+                        52.514734
+                  ]
+            },
+            {
+                  "name": "de Koeksebelt",
+                  "text": "Această zonă de înot din Ommen oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        6.413056,
+                        52.516955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erve Vechtdal - Koesafari",
+                  "text": "This zoo in Ommen is an interesting destination for a family day out with children.",
+                  "category": "family",
+                  "coords": [
+                        6.375027,
+                        52.514648
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Ommen",
+                  "text": "This petting zoo in Ommen is a lovely destination for families to meet and interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        6.416257,
+                        52.514734
+                  ]
+            },
+            {
+                  "name": "de Koeksebelt",
+                  "text": "This swimming area in Ommen provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        6.413056,
+                        52.516955
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Ommen", hu: "Ommen", ro: "Ommen", en: "Ommen" },
@@ -30703,7 +33511,88 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-heerenveen-cities-v2.webp",
   },
   {
-    id: "netherlands-bodegraven-cities-v2",
+    id: "netherlands-bodegraven-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Oude Zustertuin",
+                  "text": "Ein örtlicher Tierpark in Bodegraven, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.742257,
+                        52.084588
+                  ]
+            },
+            {
+                  "name": "kinderboerderij de Stal",
+                  "text": "Ein örtlicher Tierpark in Bodegraven, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.711311,
+                        52.107787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Oude Zustertuin",
+                  "text": "Helyi állatpark Bodegraven településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        4.742257,
+                        52.084588
+                  ]
+            },
+            {
+                  "name": "kinderboerderij de Stal",
+                  "text": "Helyi állatpark Bodegraven településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        4.711311,
+                        52.107787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Oude Zustertuin",
+                  "text": "Un parc de animale local din Bodegraven, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        4.742257,
+                        52.084588
+                  ]
+            },
+            {
+                  "name": "kinderboerderij de Stal",
+                  "text": "Un parc de animale local din Bodegraven, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        4.711311,
+                        52.107787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Oude Zustertuin",
+                  "text": "A local animal park in Bodegraven offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        4.742257,
+                        52.084588
+                  ]
+            },
+            {
+                  "name": "kinderboerderij de Stal",
+                  "text": "A local animal park in Bodegraven offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        4.711311,
+                        52.107787
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Bodegraven", hu: "Bodegraven", ro: "Bodegraven", en: "Bodegraven" },
@@ -31316,6 +34205,33 @@ export const netherlandsCitiesV2: POI[] = [
                         4.59615,
                         51.861864
                   ]
+            },
+            {
+                  "name": "Kinderboerderij De Plantage",
+                  "text": "Ein örtlicher Tierpark in Ridderkerk, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.663776,
+                        51.864717
+                  ]
+            },
+            {
+                  "name": "Zwemplas Woude",
+                  "text": "Ein malerischer Badebereich in Ridderkerk, der einen natürlichen Ort für Erholung am Wasser bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.614247,
+                        51.881055
+                  ]
+            },
+            {
+                  "name": "Waal-en Weidebad",
+                  "text": "Eine öffentliche Schwimmeinrichtung in Ridderkerk, die für Sport- und Freizeitaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        4.569235,
+                        51.842239
+                  ]
             }
       ],
       "hu": [
@@ -31497,6 +34413,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.59615,
                         51.861864
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Plantage",
+                  "text": "Helyi állatpark Ridderkerk településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        4.663776,
+                        51.864717
+                  ]
+            },
+            {
+                  "name": "Zwemplas Woude",
+                  "text": "Festői fürdőhely Ridderkerk településen, amely természetes helyszínt biztosít a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.614247,
+                        51.881055
+                  ]
+            },
+            {
+                  "name": "Waal-en Weidebad",
+                  "text": "Ridderkerk településen található nyilvános uszoda, amely alkalmas sportolásra és szabadidős tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        4.569235,
+                        51.842239
                   ]
             }
       ],
@@ -31680,6 +34623,33 @@ export const netherlandsCitiesV2: POI[] = [
                         4.59615,
                         51.861864
                   ]
+            },
+            {
+                  "name": "Kinderboerderij De Plantage",
+                  "text": "Un parc de animale local din Ridderkerk, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        4.663776,
+                        51.864717
+                  ]
+            },
+            {
+                  "name": "Zwemplas Woude",
+                  "text": "O zonă de înot pitorească din Ridderkerk, care oferă un loc natural pentru recreere pe apă.",
+                  "category": "family",
+                  "coords": [
+                        4.614247,
+                        51.881055
+                  ]
+            },
+            {
+                  "name": "Waal-en Weidebad",
+                  "text": "O facilitate publică de înot în Ridderkerk, potrivită pentru sport și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        4.569235,
+                        51.842239
+                  ]
             }
       ],
       "en": [
@@ -31862,6 +34832,33 @@ export const netherlandsCitiesV2: POI[] = [
                         4.59615,
                         51.861864
                   ]
+            },
+            {
+                  "name": "Kinderboerderij De Plantage",
+                  "text": "A local animal park in Ridderkerk offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        4.663776,
+                        51.864717
+                  ]
+            },
+            {
+                  "name": "Zwemplas Woude",
+                  "text": "A scenic swimming area in Ridderkerk providing a natural spot for water-based recreation.",
+                  "category": "family",
+                  "coords": [
+                        4.614247,
+                        51.881055
+                  ]
+            },
+            {
+                  "name": "Waal-en Weidebad",
+                  "text": "A public swimming facility in Ridderkerk suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        4.569235,
+                        51.842239
+                  ]
             }
       ]
 },
@@ -31909,7 +34906,124 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-ridderkerk-cities-v2.webp",
   },
   {
-    id: "netherlands-coevorden-cities-v2",
+    id: "netherlands-coevorden-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Dieser Badebereich in Coevorden bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        6.774279,
+                        52.673606
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Dieser Streichelzoo in Coevorden ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        6.772431,
+                        52.674757
+                  ]
+            },
+            {
+                  "name": "Plopsa Indoor Coevorden",
+                  "text": "Dieser Freizeitpark in Coevorden bietet verschiedene Attraktionen und Spaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.773787,
+                        52.678733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Ez a Coevorden területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.774279,
+                        52.673606
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Ez a Coevorden városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.772431,
+                        52.674757
+                  ]
+            },
+            {
+                  "name": "Plopsa Indoor Coevorden",
+                  "text": "Ez a Coevorden városában található vidámpark különféle látnivalókat és szórakozást kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        6.773787,
+                        52.678733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aqua Mundo",
+                  "text": "Această zonă de înot din Coevorden oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        6.774279,
+                        52.673606
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Această fermă de animale din Coevorden este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        6.772431,
+                        52.674757
+                  ]
+            },
+            {
+                  "name": "Plopsa Indoor Coevorden",
+                  "text": "Acest parc tematic din Coevorden oferă diverse atracții și distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.773787,
+                        52.678733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqua Mundo",
+                  "text": "This swimming area in Coevorden provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        6.774279,
+                        52.673606
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "This petting zoo in Coevorden is a lovely destination for families to meet and interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        6.772431,
+                        52.674757
+                  ]
+            },
+            {
+                  "name": "Plopsa Indoor Coevorden",
+                  "text": "This theme park in Coevorden offers various attractions and fun for the entire family.",
+                  "category": "family",
+                  "coords": [
+                        6.773787,
+                        52.678733
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Coevorden", hu: "Coevorden", ro: "Coevorden", en: "Coevorden" },
@@ -33142,7 +36256,556 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-oosterhout-cities-v2.webp",
   },
   {
-    id: "netherlands-valkenswaard-cities-v2", "sights": {"de": [{"name": "Center Parcs Beach", "text": "Eingebettet in das Center Parcs-Gelände in Valkenswaard, bietet dieser Strand einen bequemen Ort zur Erholung. Es erwartet Sie eine lebhafte, familienfreundliche Atmosphäre, die tagsüber voller Energie steckt. Er ist ein hervorragender Ort zum Schwimmen, Sandburgenbauen und Entspannen in der Nähe der anderen Parkeinrichtungen. Es empfiehlt sich, den lokalen Wetterbericht zu prüfen, bevor man den Nachmittag im Freien plant.", "category": "recreational", "coords": [5.426207, 51.32826]}, {"name": "Malpie", "text": "Ein weitläufiges Heide- und Naturgebiet bei Valkenswaard.", "category": "natural", "coords": [5.436881, 51.317285]}, {"name": "Leenderbos", "text": "Ein großes Waldgebiet mit vielen Wegen für Naturliebhaber.", "category": "natural", "coords": [5.509171, 51.322909]}, {"name": "Valkenhorst", "text": "Ein Naturschutzgebiet mit Seen und reicher Vogelwelt in Valkenswaard.", "category": "natural", "coords": [5.511747, 51.364202]}, {"name": "Kinderboerderij", "text": "Ein Ort, an dem Kinder und Erwachsene Tiere aus nächster Nähe erleben können.", "category": "family", "coords": [5.428478, 51.360411]}, {"name": "Valkerij En Sigaarmakerij Museum", "text": "Dieses Museum zeigt die Geschichte der Falknerei und Zigarrenherstellung.", "category": "museum", "coords": [5.459259, 51.354293]}, {"name": "Rijtuigenmuseum Valkenswaard", "text": "Ein Museum mit einer beeindruckenden Sammlung historischer Kutschen.", "category": "museum", "coords": [5.44762, 51.339701]}, {"name": "ROFRA", "text": "Ein Zentrum für Outdoor-Aktivitäten und Erholung in Valkenswaard.", "category": "family", "coords": [5.448993, 51.338726]}, {"name": "Jeroen Mettesplantsoen", "text": "Eine kleine Grünanlage in Valkenswaard zur Erholung.", "category": "park", "coords": [5.471065, 51.35606]}, {"name": "Egelven", "text": "Ein ruhiger Aussichtspunkt in der Natur von Valkenswaard.", "category": "natural", "coords": [5.489164, 51.357869]}, {"name": "Sint-Martinuskerk", "text": "Die historische Pfarrkirche des Ortsteils Dommelen.", "category": "religious", "coords": [5.435784, 51.349264]}, {"name": "Ontmoetingskerk", "text": "Eine protestantische Kirche in Valkenswaard mit modernem Charakter.", "category": "religious", "coords": [5.461014, 51.34812]}, {"name": "Sint-Nicolaaskerk", "text": "Die markante katholische Hauptkirche im Zentrum von Valkenswaard.", "category": "religious", "coords": [5.458077, 51.349134]}, {"name": "Venbergse Watermolen", "text": "Eine malerische historische Wassermühle am Fluss Dommel.", "category": "landmark", "coords": [5.445435, 51.336909]}], "hu": [{"name": "Center Parcs Beach", "text": "A valkenswaardi Center Parcs üdülőközpont területén fekvő strand kényelmes kikapcsolódási lehetőséget kínál. Élénk, család-orientált légkörre és egész napos nyüzsgésre lehet számítani. Kiváló hely az úszáshoz, homokvár-építéshez és a park egyéb szolgáltatásaihoz közeli pihenéshez. Kifejezetten ajánlott ellenőrizni a helyi időjárás-előrejelzést, mielőtt szabadtéri délutánt terveznénk.", "category": "recreational", "coords": [5.426207, 51.32826]}, {"name": "Malpie", "text": "Kiterjedt pusztaság és természetvédelmi terület Valkenswaard mellett.", "category": "natural", "coords": [5.436881, 51.317285]}, {"name": "Leenderbos", "text": "Hatalmas erdőterület sok ösvénnyel a természet kedvelőinek.", "category": "natural", "coords": [5.509171, 51.322909]}, {"name": "Valkenhorst", "text": "Természetvédelmi terület tavakkal és gazdag madárvilággal Valkenswaardban.", "category": "natural", "coords": [5.511747, 51.364202]}, {"name": "Kinderboerderij", "text": "Hely, ahol gyerekek és felnőttek testközelből ismerkedhetnek meg az állatokkal.", "category": "family", "coords": [5.428478, 51.360411]}, {"name": "Valkerij En Sigaarmakerij Museum", "text": "Ez a múzeum a solymászat és a szivargyártás történetét mutatja be.", "category": "museum", "coords": [5.459259, 51.354293]}, {"name": "Rijtuigenmuseum Valkenswaard", "text": "Múzeum történelmi kocsik lenyűgöző gyűjteményével.", "category": "museum", "coords": [5.44762, 51.339701]}, {"name": "ROFRA", "text": "Szabadtéri tevékenységek és kikapcsolódás központja Valkenswaardban.", "category": "family", "coords": [5.448993, 51.338726]}, {"name": "Jeroen Mettesplantsoen", "text": "Kis zöldterület Valkenswaardban a pihenésre.", "category": "park", "coords": [5.471065, 51.35606]}, {"name": "Egelven", "text": "Csendes kilátópont Valkenswaard természetközeli részén.", "category": "natural", "coords": [5.489164, 51.357869]}, {"name": "Sint-Martinuskerk", "text": "Dommelen városrész történelmi plébániatemploma.", "category": "religious", "coords": [5.435784, 51.349264]}, {"name": "Ontmoetingskerk", "text": "Modern jellegű protestáns templom Valkenswaardban.", "category": "religious", "coords": [5.461014, 51.34812]}, {"name": "Sint-Nicolaaskerk", "text": "Valkenswaard központjának meghatározó katolikus főtemploma.", "category": "religious", "coords": [5.458077, 51.349134]}, {"name": "Venbergse Watermolen", "text": "Glegyűletes történelmi vízimalom a Dommel folyónál.", "category": "landmark", "coords": [5.445435, 51.336909]}], "ro": [{"name": "Center Parcs Beach", "text": "Amplasată în cadrul stațiunii Center Parcs din Valkenswaard, această plajă oferă un loc de recreere la îndemână. Așteptați-vă la o atmosferă vibrantă, orientată spre familii, cu multă energie pe parcursul zilei. Este un loc excelent pentru înot, construirea de castele de nisip și relaxare în apropierea celorlalte facilități ale parcului. Verificarea prognozei meteo locale înainte de a planifica o după-amiază în aer liber este foarte recomandată.", "category": "recreational", "coords": [5.426207, 51.32826]}, {"name": "Malpie", "text": "O zonă întinsă de pajiște și natură lângă Valkenswaard.", "category": "natural", "coords": [5.436881, 51.317285]}, {"name": "Leenderbos", "text": "O zonă forestieră mare, cu multe trasee pentru iubitorii de natură.", "category": "natural", "coords": [5.509171, 51.322909]}, {"name": "Valkenhorst", "text": "O rezervație naturală cu lacuri și o faună aviară bogată în Valkenswaard.", "category": "natural", "coords": [5.511747, 51.364202]}, {"name": "Kinderboerderij", "text": "Un loc unde copiii și adulții pot vedea animalele de aproape.", "category": "family", "coords": [5.428478, 51.360411]}, {"name": "Valkerij En Sigaarmakerij Museum", "text": "Acest muzeu prezintă istoria șoimăritului și a fabricării trabucurilor.", "category": "museum", "coords": [5.459259, 51.354293]}, {"name": "Rijtuigenmuseum Valkenswaard", "text": "Un muzeu cu o colecție impresionantă de trăsuri istorice.", "category": "museum", "coords": [5.44762, 51.339701]}, {"name": "ROFRA", "text": "Un centru pentru activități în aer liber și recreere în Valkenswaard.", "category": "family", "coords": [5.448993, 51.338726]}, {"name": "Jeroen Mettesplantsoen", "text": "Un mic spațiu verde în Valkenswaard pentru relaxare.", "category": "park", "coords": [5.471065, 51.35606]}, {"name": "Egelven", "text": "Un punct de observație liniștit în natura din Valkenswaard.", "category": "natural", "coords": [5.489164, 51.357869]}, {"name": "Sint-Martinuskerk", "text": "Biserica parohială istorică a cartierului Dommelen.", "category": "religious", "coords": [5.435784, 51.349264]}, {"name": "Ontmoetingskerk", "text": "O biserică protestantă din Valkenswaard cu un caracter modern.", "category": "religious", "coords": [5.461014, 51.34812]}, {"name": "Sint-Nicolaaskerk", "text": "Principala biserică catolică impunătoare din centrul orașului Valkenswaard.", "category": "religious", "coords": [5.458077, 51.349134]}, {"name": "Venbergse Watermolen", "text": "O moară de apă istorică pitorească pe râul Dommel.", "category": "landmark", "coords": [5.445435, 51.336909]}], "en": [{"name": "Center Parcs Beach", "text": "Nestled within the Center Parcs resort area in Valkenswaard, this beach provides a convenient recreational spot. Expect a vibrant, family-oriented atmosphere with plenty of energy during the day. It is an excellent place for swimming, building sandcastles, and relaxing close to other park amenities. Checking the local weather forecast before planning your outdoor afternoon is highly recommended.", "category": "recreational", "coords": [5.426207, 51.32826]}, {"name": "Malpie", "text": "An extensive heath and nature area near Valkenswaard.", "category": "natural", "coords": [5.436881, 51.317285]}, {"name": "Leenderbos", "text": "A large forest area with many paths for nature lovers.", "category": "natural", "coords": [5.509171, 51.322909]}, {"name": "Valkenhorst", "text": "A nature reserve with lakes and rich birdlife in Valkenswaard.", "category": "natural", "coords": [5.511747, 51.364202]}, {"name": "Kinderboerderij", "text": "A place where children and adults can experience animals up close.", "category": "family", "coords": [5.428478, 51.360411]}, {"name": "Valkerij En Sigaarmakerij Museum", "text": "This museum showcases the history of falconry and cigar making.", "category": "museum", "coords": [5.459259, 51.354293]}, {"name": "Rijtuigenmuseum Valkenswaard", "text": "A museum with an impressive collection of historic carriages.", "category": "museum", "coords": [5.44762, 51.339701]}, {"name": "ROFRA", "text": "A center for outdoor activities and recreation in Valkenswaard.", "category": "family", "coords": [5.448993, 51.338726]}, {"name": "Jeroen Mettesplantsoen", "text": "A small green area in Valkenswaard for relaxation.", "category": "park", "coords": [5.471065, 51.35606]}, {"name": "Egelven", "text": "A quiet viewpoint in the nature of Valkenswaard.", "category": "natural", "coords": [5.489164, 51.357869]}, {"name": "Sint-Martinuskerk", "text": "The historic parish church of the Dommelen district.", "category": "religious", "coords": [5.435784, 51.349264]}, {"name": "Ontmoetingskerk", "text": "A Protestant church in Valkenswaard with a modern character.", "category": "religious", "coords": [5.461014, 51.34812]}, {"name": "Sint-Nicolaaskerk", "text": "The prominent main Catholic church in the center of Valkenswaard.", "category": "religious", "coords": [5.458077, 51.349134]}, {"name": "Venbergse Watermolen", "text": "A picturesque historic watermill on the Dommel river.", "category": "landmark", "coords": [5.445435, 51.336909]}]},
+    id: "netherlands-valkenswaard-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Center Parcs Beach",
+                  "text": "Eingebettet in das Center Parcs-Gelände in Valkenswaard, bietet dieser Strand einen bequemen Ort zur Erholung. Es erwartet Sie eine lebhafte, familienfreundliche Atmosphäre, die tagsüber voller Energie steckt. Er ist ein hervorragender Ort zum Schwimmen, Sandburgenbauen und Entspannen in der Nähe der anderen Parkeinrichtungen. Es empfiehlt sich, den lokalen Wetterbericht zu prüfen, bevor man den Nachmittag im Freien plant.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426207,
+                        51.32826
+                  ]
+            },
+            {
+                  "name": "Malpie",
+                  "text": "Ein weitläufiges Heide- und Naturgebiet bei Valkenswaard.",
+                  "category": "natural",
+                  "coords": [
+                        5.436881,
+                        51.317285
+                  ]
+            },
+            {
+                  "name": "Leenderbos",
+                  "text": "Ein großes Waldgebiet mit vielen Wegen für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        5.509171,
+                        51.322909
+                  ]
+            },
+            {
+                  "name": "Valkenhorst",
+                  "text": "Ein Naturschutzgebiet mit Seen und reicher Vogelwelt in Valkenswaard.",
+                  "category": "natural",
+                  "coords": [
+                        5.511747,
+                        51.364202
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Ein Ort, an dem Kinder und Erwachsene Tiere aus nächster Nähe erleben können.",
+                  "category": "family",
+                  "coords": [
+                        5.428478,
+                        51.360411
+                  ]
+            },
+            {
+                  "name": "Valkerij En Sigaarmakerij Museum",
+                  "text": "Dieses Museum zeigt die Geschichte der Falknerei und Zigarrenherstellung.",
+                  "category": "museum",
+                  "coords": [
+                        5.459259,
+                        51.354293
+                  ]
+            },
+            {
+                  "name": "Rijtuigenmuseum Valkenswaard",
+                  "text": "Ein Museum mit einer beeindruckenden Sammlung historischer Kutschen.",
+                  "category": "museum",
+                  "coords": [
+                        5.44762,
+                        51.339701
+                  ]
+            },
+            {
+                  "name": "ROFRA",
+                  "text": "Ein Zentrum für Outdoor-Aktivitäten und Erholung in Valkenswaard.",
+                  "category": "family",
+                  "coords": [
+                        5.448993,
+                        51.338726
+                  ]
+            },
+            {
+                  "name": "Jeroen Mettesplantsoen",
+                  "text": "Eine kleine Grünanlage in Valkenswaard zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        5.471065,
+                        51.35606
+                  ]
+            },
+            {
+                  "name": "Egelven",
+                  "text": "Ein ruhiger Aussichtspunkt in der Natur von Valkenswaard.",
+                  "category": "natural",
+                  "coords": [
+                        5.489164,
+                        51.357869
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "Die historische Pfarrkirche des Ortsteils Dommelen.",
+                  "category": "religious",
+                  "coords": [
+                        5.435784,
+                        51.349264
+                  ]
+            },
+            {
+                  "name": "Ontmoetingskerk",
+                  "text": "Eine protestantische Kirche in Valkenswaard mit modernem Charakter.",
+                  "category": "religious",
+                  "coords": [
+                        5.461014,
+                        51.34812
+                  ]
+            },
+            {
+                  "name": "Sint-Nicolaaskerk",
+                  "text": "Die markante katholische Hauptkirche im Zentrum von Valkenswaard.",
+                  "category": "religious",
+                  "coords": [
+                        5.458077,
+                        51.349134
+                  ]
+            },
+            {
+                  "name": "Venbergse Watermolen",
+                  "text": "Eine malerische historische Wassermühle am Fluss Dommel.",
+                  "category": "landmark",
+                  "coords": [
+                        5.445435,
+                        51.336909
+                  ]
+            },
+            {
+                  "name": "De Wedert",
+                  "text": "Dieser Badebereich in Valkenswaard bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        5.453433,
+                        51.36641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Center Parcs Beach",
+                  "text": "A valkenswaardi Center Parcs üdülőközpont területén fekvő strand kényelmes kikapcsolódási lehetőséget kínál. Élénk, család-orientált légkörre és egész napos nyüzsgésre lehet számítani. Kiváló hely az úszáshoz, homokvár-építéshez és a park egyéb szolgáltatásaihoz közeli pihenéshez. Kifejezetten ajánlott ellenőrizni a helyi időjárás-előrejelzést, mielőtt szabadtéri délutánt terveznénk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426207,
+                        51.32826
+                  ]
+            },
+            {
+                  "name": "Malpie",
+                  "text": "Kiterjedt pusztaság és természetvédelmi terület Valkenswaard mellett.",
+                  "category": "natural",
+                  "coords": [
+                        5.436881,
+                        51.317285
+                  ]
+            },
+            {
+                  "name": "Leenderbos",
+                  "text": "Hatalmas erdőterület sok ösvénnyel a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        5.509171,
+                        51.322909
+                  ]
+            },
+            {
+                  "name": "Valkenhorst",
+                  "text": "Természetvédelmi terület tavakkal és gazdag madárvilággal Valkenswaardban.",
+                  "category": "natural",
+                  "coords": [
+                        5.511747,
+                        51.364202
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Hely, ahol gyerekek és felnőttek testközelből ismerkedhetnek meg az állatokkal.",
+                  "category": "family",
+                  "coords": [
+                        5.428478,
+                        51.360411
+                  ]
+            },
+            {
+                  "name": "Valkerij En Sigaarmakerij Museum",
+                  "text": "Ez a múzeum a solymászat és a szivargyártás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.459259,
+                        51.354293
+                  ]
+            },
+            {
+                  "name": "Rijtuigenmuseum Valkenswaard",
+                  "text": "Múzeum történelmi kocsik lenyűgöző gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        5.44762,
+                        51.339701
+                  ]
+            },
+            {
+                  "name": "ROFRA",
+                  "text": "Szabadtéri tevékenységek és kikapcsolódás központja Valkenswaardban.",
+                  "category": "family",
+                  "coords": [
+                        5.448993,
+                        51.338726
+                  ]
+            },
+            {
+                  "name": "Jeroen Mettesplantsoen",
+                  "text": "Kis zöldterület Valkenswaardban a pihenésre.",
+                  "category": "park",
+                  "coords": [
+                        5.471065,
+                        51.35606
+                  ]
+            },
+            {
+                  "name": "Egelven",
+                  "text": "Csendes kilátópont Valkenswaard természetközeli részén.",
+                  "category": "natural",
+                  "coords": [
+                        5.489164,
+                        51.357869
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "Dommelen városrész történelmi plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        5.435784,
+                        51.349264
+                  ]
+            },
+            {
+                  "name": "Ontmoetingskerk",
+                  "text": "Modern jellegű protestáns templom Valkenswaardban.",
+                  "category": "religious",
+                  "coords": [
+                        5.461014,
+                        51.34812
+                  ]
+            },
+            {
+                  "name": "Sint-Nicolaaskerk",
+                  "text": "Valkenswaard központjának meghatározó katolikus főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        5.458077,
+                        51.349134
+                  ]
+            },
+            {
+                  "name": "Venbergse Watermolen",
+                  "text": "Glegyűletes történelmi vízimalom a Dommel folyónál.",
+                  "category": "landmark",
+                  "coords": [
+                        5.445435,
+                        51.336909
+                  ]
+            },
+            {
+                  "name": "De Wedert",
+                  "text": "Ez a Valkenswaard területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.453433,
+                        51.36641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Center Parcs Beach",
+                  "text": "Amplasată în cadrul stațiunii Center Parcs din Valkenswaard, această plajă oferă un loc de recreere la îndemână. Așteptați-vă la o atmosferă vibrantă, orientată spre familii, cu multă energie pe parcursul zilei. Este un loc excelent pentru înot, construirea de castele de nisip și relaxare în apropierea celorlalte facilități ale parcului. Verificarea prognozei meteo locale înainte de a planifica o după-amiază în aer liber este foarte recomandată.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426207,
+                        51.32826
+                  ]
+            },
+            {
+                  "name": "Malpie",
+                  "text": "O zonă întinsă de pajiște și natură lângă Valkenswaard.",
+                  "category": "natural",
+                  "coords": [
+                        5.436881,
+                        51.317285
+                  ]
+            },
+            {
+                  "name": "Leenderbos",
+                  "text": "O zonă forestieră mare, cu multe trasee pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.509171,
+                        51.322909
+                  ]
+            },
+            {
+                  "name": "Valkenhorst",
+                  "text": "O rezervație naturală cu lacuri și o faună aviară bogată în Valkenswaard.",
+                  "category": "natural",
+                  "coords": [
+                        5.511747,
+                        51.364202
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Un loc unde copiii și adulții pot vedea animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        5.428478,
+                        51.360411
+                  ]
+            },
+            {
+                  "name": "Valkerij En Sigaarmakerij Museum",
+                  "text": "Acest muzeu prezintă istoria șoimăritului și a fabricării trabucurilor.",
+                  "category": "museum",
+                  "coords": [
+                        5.459259,
+                        51.354293
+                  ]
+            },
+            {
+                  "name": "Rijtuigenmuseum Valkenswaard",
+                  "text": "Un muzeu cu o colecție impresionantă de trăsuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        5.44762,
+                        51.339701
+                  ]
+            },
+            {
+                  "name": "ROFRA",
+                  "text": "Un centru pentru activități în aer liber și recreere în Valkenswaard.",
+                  "category": "family",
+                  "coords": [
+                        5.448993,
+                        51.338726
+                  ]
+            },
+            {
+                  "name": "Jeroen Mettesplantsoen",
+                  "text": "Un mic spațiu verde în Valkenswaard pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        5.471065,
+                        51.35606
+                  ]
+            },
+            {
+                  "name": "Egelven",
+                  "text": "Un punct de observație liniștit în natura din Valkenswaard.",
+                  "category": "natural",
+                  "coords": [
+                        5.489164,
+                        51.357869
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "Biserica parohială istorică a cartierului Dommelen.",
+                  "category": "religious",
+                  "coords": [
+                        5.435784,
+                        51.349264
+                  ]
+            },
+            {
+                  "name": "Ontmoetingskerk",
+                  "text": "O biserică protestantă din Valkenswaard cu un caracter modern.",
+                  "category": "religious",
+                  "coords": [
+                        5.461014,
+                        51.34812
+                  ]
+            },
+            {
+                  "name": "Sint-Nicolaaskerk",
+                  "text": "Principala biserică catolică impunătoare din centrul orașului Valkenswaard.",
+                  "category": "religious",
+                  "coords": [
+                        5.458077,
+                        51.349134
+                  ]
+            },
+            {
+                  "name": "Venbergse Watermolen",
+                  "text": "O moară de apă istorică pitorească pe râul Dommel.",
+                  "category": "landmark",
+                  "coords": [
+                        5.445435,
+                        51.336909
+                  ]
+            },
+            {
+                  "name": "De Wedert",
+                  "text": "Această zonă de înot din Valkenswaard oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        5.453433,
+                        51.36641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Center Parcs Beach",
+                  "text": "Nestled within the Center Parcs resort area in Valkenswaard, this beach provides a convenient recreational spot. Expect a vibrant, family-oriented atmosphere with plenty of energy during the day. It is an excellent place for swimming, building sandcastles, and relaxing close to other park amenities. Checking the local weather forecast before planning your outdoor afternoon is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426207,
+                        51.32826
+                  ]
+            },
+            {
+                  "name": "Malpie",
+                  "text": "An extensive heath and nature area near Valkenswaard.",
+                  "category": "natural",
+                  "coords": [
+                        5.436881,
+                        51.317285
+                  ]
+            },
+            {
+                  "name": "Leenderbos",
+                  "text": "A large forest area with many paths for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        5.509171,
+                        51.322909
+                  ]
+            },
+            {
+                  "name": "Valkenhorst",
+                  "text": "A nature reserve with lakes and rich birdlife in Valkenswaard.",
+                  "category": "natural",
+                  "coords": [
+                        5.511747,
+                        51.364202
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "A place where children and adults can experience animals up close.",
+                  "category": "family",
+                  "coords": [
+                        5.428478,
+                        51.360411
+                  ]
+            },
+            {
+                  "name": "Valkerij En Sigaarmakerij Museum",
+                  "text": "This museum showcases the history of falconry and cigar making.",
+                  "category": "museum",
+                  "coords": [
+                        5.459259,
+                        51.354293
+                  ]
+            },
+            {
+                  "name": "Rijtuigenmuseum Valkenswaard",
+                  "text": "A museum with an impressive collection of historic carriages.",
+                  "category": "museum",
+                  "coords": [
+                        5.44762,
+                        51.339701
+                  ]
+            },
+            {
+                  "name": "ROFRA",
+                  "text": "A center for outdoor activities and recreation in Valkenswaard.",
+                  "category": "family",
+                  "coords": [
+                        5.448993,
+                        51.338726
+                  ]
+            },
+            {
+                  "name": "Jeroen Mettesplantsoen",
+                  "text": "A small green area in Valkenswaard for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        5.471065,
+                        51.35606
+                  ]
+            },
+            {
+                  "name": "Egelven",
+                  "text": "A quiet viewpoint in the nature of Valkenswaard.",
+                  "category": "natural",
+                  "coords": [
+                        5.489164,
+                        51.357869
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "The historic parish church of the Dommelen district.",
+                  "category": "religious",
+                  "coords": [
+                        5.435784,
+                        51.349264
+                  ]
+            },
+            {
+                  "name": "Ontmoetingskerk",
+                  "text": "A Protestant church in Valkenswaard with a modern character.",
+                  "category": "religious",
+                  "coords": [
+                        5.461014,
+                        51.34812
+                  ]
+            },
+            {
+                  "name": "Sint-Nicolaaskerk",
+                  "text": "The prominent main Catholic church in the center of Valkenswaard.",
+                  "category": "religious",
+                  "coords": [
+                        5.458077,
+                        51.349134
+                  ]
+            },
+            {
+                  "name": "Venbergse Watermolen",
+                  "text": "A picturesque historic watermill on the Dommel river.",
+                  "category": "landmark",
+                  "coords": [
+                        5.445435,
+                        51.336909
+                  ]
+            },
+            {
+                  "name": "De Wedert",
+                  "text": "This swimming area in Valkenswaard provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        5.453433,
+                        51.36641
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Valkenswaard", hu: "Valkenswaard", ro: "Valkenswaard", en: "Valkenswaard" },
@@ -33206,6 +36869,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.201907,
                         52.649678
                   ]
+            },
+            {
+                  "name": "Zwembad De Broene 'eugte",
+                  "text": "Zwembad De Broene 'eugte ist ein Schwimmbad in Staphorst. Es bietet Badespaß und Erholung für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        6.226076,
+                        52.627274
+                  ]
             }
       ],
       "hu": [
@@ -33225,6 +36897,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.201907,
                         52.649678
+                  ]
+            },
+            {
+                  "name": "Zwembad De Broene 'eugte",
+                  "text": "A Zwembad De Broene 'eugte egy úszómedence Staphorstban. Fürdőzési és kikapcsolódási lehetőséget biztosít.",
+                  "category": "family",
+                  "coords": [
+                        6.226076,
+                        52.627274
                   ]
             }
       ],
@@ -33246,6 +36927,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.201907,
                         52.649678
                   ]
+            },
+            {
+                  "name": "Zwembad De Broene 'eugte",
+                  "text": "Zwembad De Broene 'eugte este o piscină în Staphorst. Oferă distracție la scăldat și relaxare pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        6.226076,
+                        52.627274
+                  ]
             }
       ],
       "en": [
@@ -33265,6 +36955,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.201907,
                         52.649678
+                  ]
+            },
+            {
+                  "name": "Zwembad De Broene 'eugte",
+                  "text": "Zwembad De Broene 'eugte is a swimming pool in Staphorst. It provides swimming fun and relaxation for visitors.",
+                  "category": "family",
+                  "coords": [
+                        6.226076,
+                        52.627274
                   ]
             }
       ]
@@ -33313,7 +37012,160 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-staphorst-cities-v2.webp",
   },
   {
-    id: "netherlands-krimpen-aan-den-ijssel-cities-v2",
+    id: "netherlands-krimpen-aan-den-ijssel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Baby Spa",
+                  "text": "Eine öffentliche Schwimmeinrichtung in Krimpen Aan Den Ijssel, die für Sport- und Freizeitaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        4.5591,
+                        51.886821
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Klaverweide",
+                  "text": "Ein örtlicher Tierpark in Krimpen Aan Den Ijssel, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.593504,
+                        51.940839
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Ein örtlicher Tierpark in Krimpen Aan Den Ijssel, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.56706,
+                        51.914741
+                  ]
+            },
+            {
+                  "name": "Zwemplas Woude",
+                  "text": "Ein malerischer Badebereich in Krimpen Aan Den Ijssel, der einen natürlichen Ort für Erholung am Wasser bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.614247,
+                        51.881055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Baby Spa",
+                  "text": "Krimpen Aan Den Ijssel településen található nyilvános uszoda, amely alkalmas sportolásra és szabadidős tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        4.5591,
+                        51.886821
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Klaverweide",
+                  "text": "Helyi állatpark Krimpen Aan Den Ijssel településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        4.593504,
+                        51.940839
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Helyi állatpark Krimpen Aan Den Ijssel településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        4.56706,
+                        51.914741
+                  ]
+            },
+            {
+                  "name": "Zwemplas Woude",
+                  "text": "Festői fürdőhely Krimpen Aan Den Ijssel településen, amely természetes helyszínt biztosít a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.614247,
+                        51.881055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Baby Spa",
+                  "text": "O facilitate publică de înot în Krimpen Aan Den Ijssel, potrivită pentru sport și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        4.5591,
+                        51.886821
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Klaverweide",
+                  "text": "Un parc de animale local din Krimpen Aan Den Ijssel, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        4.593504,
+                        51.940839
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Un parc de animale local din Krimpen Aan Den Ijssel, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        4.56706,
+                        51.914741
+                  ]
+            },
+            {
+                  "name": "Zwemplas Woude",
+                  "text": "O zonă de înot pitorească din Krimpen Aan Den Ijssel, care oferă un loc natural pentru recreere pe apă.",
+                  "category": "family",
+                  "coords": [
+                        4.614247,
+                        51.881055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Baby Spa",
+                  "text": "A public swimming facility in Krimpen Aan Den Ijssel suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        4.5591,
+                        51.886821
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Klaverweide",
+                  "text": "A local animal park in Krimpen Aan Den Ijssel offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        4.593504,
+                        51.940839
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "A local animal park in Krimpen Aan Den Ijssel offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        4.56706,
+                        51.914741
+                  ]
+            },
+            {
+                  "name": "Zwemplas Woude",
+                  "text": "A scenic swimming area in Krimpen Aan Den Ijssel providing a natural spot for water-based recreation.",
+                  "category": "family",
+                  "coords": [
+                        4.614247,
+                        51.881055
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Krimpen aan den IJssel", hu: "Krimpen aan den IJssel", ro: "Krimpen aan den IJssel", en: "Krimpen aan den IJssel" },
@@ -33710,6 +37562,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.652523,
                         52.484508
                   ]
+            },
+            {
+                  "name": "Hertenkamp Uitgeest",
+                  "text": "Dieser Hirschpark in Heemskerk bietet eine ruhige Umgebung für einen Familienspaziergang und Tierbeobachtungen.",
+                  "category": "family",
+                  "coords": [
+                        4.704186,
+                        52.522949
+                  ]
             }
       ],
       "hu": [
@@ -34062,6 +37923,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.652523,
                         52.484508
+                  ]
+            },
+            {
+                  "name": "Hertenkamp Uitgeest",
+                  "text": "Ez a Heemskerk területén található szarvaspark nyugodt környezetet kínál a családi sétákhoz és állatmegfigyeléshez.",
+                  "category": "family",
+                  "coords": [
+                        4.704186,
+                        52.522949
                   ]
             }
       ],
@@ -34416,6 +38286,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.652523,
                         52.484508
                   ]
+            },
+            {
+                  "name": "Hertenkamp Uitgeest",
+                  "text": "Acest parc cu cerbi din Heemskerk oferă un mediu liniștit pentru o plimbare în familie și observarea animalelor.",
+                  "category": "family",
+                  "coords": [
+                        4.704186,
+                        52.522949
+                  ]
             }
       ],
       "en": [
@@ -34769,6 +38648,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.652523,
                         52.484508
                   ]
+            },
+            {
+                  "name": "Hertenkamp Uitgeest",
+                  "text": "This deer park in Heemskerk offers a quiet environment for a family walk and animal observation.",
+                  "category": "family",
+                  "coords": [
+                        4.704186,
+                        52.522949
+                  ]
             }
       ]
 },
@@ -34906,7 +38794,160 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-wieringermeer-cities-v2.webp",
   },
   {
-    id: "netherlands-berkel-en-rodenrijs-cities-v2",
+    id: "netherlands-berkel-en-rodenrijs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zwarte Plasje",
+                  "text": "Eine öffentliche Schwimmeinrichtung in Berkel En Rodenrijs, die für Sport- und Freizeitaktivitäten geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        4.491585,
+                        51.959197
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Ein örtlicher Tierpark in Berkel En Rodenrijs, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.497812,
+                        51.987996
+                  ]
+            },
+            {
+                  "name": "Plaswijckpark",
+                  "text": "Ein Freizeitpark in Berkel En Rodenrijs, der eine Vielzahl von Fahrgeschäften und Unterhaltung für Besucher jeden Alters bietet.",
+                  "category": "family",
+                  "coords": [
+                        4.483165,
+                        51.956294
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Wilgenhof",
+                  "text": "Dieser Kinderbauernhof in Berkel En Rodenrijs bietet eine freundliche Umgebung, um verschiedene Tiere zu sehen. Er ist ein beliebtes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        4.478501,
+                        51.953263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zwarte Plasje",
+                  "text": "Berkel En Rodenrijs településen található nyilvános uszoda, amely alkalmas sportolásra és szabadidős tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        4.491585,
+                        51.959197
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Helyi állatpark Berkel En Rodenrijs településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
+                  "category": "family",
+                  "coords": [
+                        4.497812,
+                        51.987996
+                  ]
+            },
+            {
+                  "name": "Plaswijckpark",
+                  "text": "Vidámpark Berkel En Rodenrijs településen, amely különféle játékokat és szórakozást kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        4.483165,
+                        51.956294
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Wilgenhof",
+                  "text": "Ez a Berkel En Rodenrijs-i állatsimogató barátságos környezetet kínál a háztáji állatok megtekintéséhez. Népszerű úti cél kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.478501,
+                        51.953263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zwarte Plasje",
+                  "text": "O facilitate publică de înot în Berkel En Rodenrijs, potrivită pentru sport și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        4.491585,
+                        51.959197
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "Un parc de animale local din Berkel En Rodenrijs, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        4.497812,
+                        51.987996
+                  ]
+            },
+            {
+                  "name": "Plaswijckpark",
+                  "text": "Un parc de distracții în Berkel En Rodenrijs, care oferă o varietate de atracții și divertisment pentru vizitatorii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        4.483165,
+                        51.956294
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Wilgenhof",
+                  "text": "Această fermă pentru copii din Berkel En Rodenrijs oferă un mediu prietenos pentru a vedea diverse animale. Este o destinație populară pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        4.478501,
+                        51.953263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zwarte Plasje",
+                  "text": "A public swimming facility in Berkel En Rodenrijs suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        4.491585,
+                        51.959197
+                  ]
+            },
+            {
+                  "name": "Dierenweide",
+                  "text": "A local animal park in Berkel En Rodenrijs offering a family-friendly environment to observe various species.",
+                  "category": "family",
+                  "coords": [
+                        4.497812,
+                        51.987996
+                  ]
+            },
+            {
+                  "name": "Plaswijckpark",
+                  "text": "An amusement park in Berkel En Rodenrijs offering a variety of rides and entertainment for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        4.483165,
+                        51.956294
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Wilgenhof",
+                  "text": "This children's farm in Berkel En Rodenrijs offers a friendly environment to see various animals. It is a popular destination for families with kids.",
+                  "category": "family",
+                  "coords": [
+                        4.478501,
+                        51.953263
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Berkel en Rodenrijs", hu: "Berkel en Rodenrijs", ro: "Berkel en Rodenrijs", en: "Berkel en Rodenrijs" },
@@ -35087,6 +39128,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.483282,
                         52.221468
                   ]
+            },
+            {
+                  "name": "Kinderboerderij De Kloosterhof",
+                  "text": "Dieser Streichelzoo in Sassenheim ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        4.496188,
+                        52.199093
+                  ]
             }
       ],
       "hu": [
@@ -35223,6 +39273,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.483282,
                         52.221468
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Kloosterhof",
+                  "text": "Ez a Sassenheim városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.496188,
+                        52.199093
                   ]
             }
       ],
@@ -35361,6 +39420,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.483282,
                         52.221468
                   ]
+            },
+            {
+                  "name": "Kinderboerderij De Kloosterhof",
+                  "text": "Această fermă de animale din Sassenheim este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        4.496188,
+                        52.199093
+                  ]
             }
       ],
       "en": [
@@ -35498,6 +39566,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.483282,
                         52.221468
                   ]
+            },
+            {
+                  "name": "Kinderboerderij De Kloosterhof",
+                  "text": "This petting zoo in Sassenheim is a lovely destination for families to meet and interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        4.496188,
+                        52.199093
+                  ]
             }
       ]
 },
@@ -35545,7 +39622,196 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-sassenheim-cities-v2.webp",
   },
   {
-    id: "netherlands-leerdam-cities-v2",
+    id: "netherlands-leerdam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aqua Zoo Leerdam",
+                  "text": "Aqua Zoo Leerdam ist ein Aquarium in Leerdam. Es bietet faszinierende Einblicke in die Unterwasserwelt.",
+                  "category": "family",
+                  "coords": [
+                        5.10787,
+                        51.89109
+                  ]
+            },
+            {
+                  "name": "Galgenwiel",
+                  "text": "Galgenwiel ist ein Badebereich in Leerdam. Er bietet eine natürliche Umgebung zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        5.103556,
+                        51.886188
+                  ]
+            },
+            {
+                  "name": "Hertenkamp Schoonrewoerd",
+                  "text": "Hertenkamp Schoonrewoerd ist ein Zoo in Leerdam. Familien können hier Tiere in einer ruhigen Umgebung beobachten.",
+                  "category": "family",
+                  "coords": [
+                        5.116815,
+                        51.921574
+                  ]
+            },
+            {
+                  "name": "Spetterbad Leerbroek",
+                  "text": "Spetterbad Leerbroek ist ein Schwimmbad in Leerdam. Es ist ein geeigneter Ort für Wassersport und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        5.044904,
+                        51.909063
+                  ]
+            },
+            {
+                  "name": "Hestia's Hof",
+                  "text": "Hestia's Hof ist ein Zoo in Leerdam. Er bietet ein schönes Erlebnis für Tierfreunde und Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.088491,
+                        51.889737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aqua Zoo Leerdam",
+                  "text": "Az Aqua Zoo Leerdam egy akvárium Leerdamban. Lenyűgöző bepillantást nyújt a vízi világba.",
+                  "category": "family",
+                  "coords": [
+                        5.10787,
+                        51.89109
+                  ]
+            },
+            {
+                  "name": "Galgenwiel",
+                  "text": "A Galgenwiel egy fürdőhely Leerdamban. Természetes környezetet biztosít az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        5.103556,
+                        51.886188
+                  ]
+            },
+            {
+                  "name": "Hertenkamp Schoonrewoerd",
+                  "text": "A Hertenkamp Schoonrewoerd egy állatkert Leerdamban. A családok nyugodt környezetben figyelhetik meg itt az állatokat.",
+                  "category": "family",
+                  "coords": [
+                        5.116815,
+                        51.921574
+                  ]
+            },
+            {
+                  "name": "Spetterbad Leerbroek",
+                  "text": "A Spetterbad Leerbroek egy úszómedence Leerdamban. Megfelelő hely a vízi sportokhoz és a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.044904,
+                        51.909063
+                  ]
+            },
+            {
+                  "name": "Hestia's Hof",
+                  "text": "A Hestia's Hof egy állatkert Leerdamban. Szép élményt nyújt az állatbarátoknak és a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        5.088491,
+                        51.889737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aqua Zoo Leerdam",
+                  "text": "Aqua Zoo Leerdam este un acvariu în Leerdam. Oferă o privire fascinantă în lumea subacvatică.",
+                  "category": "family",
+                  "coords": [
+                        5.10787,
+                        51.89109
+                  ]
+            },
+            {
+                  "name": "Galgenwiel",
+                  "text": "Galgenwiel este o zonă de înot în Leerdam. Oferă un cadru natural pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        5.103556,
+                        51.886188
+                  ]
+            },
+            {
+                  "name": "Hertenkamp Schoonrewoerd",
+                  "text": "Hertenkamp Schoonrewoerd este o grădină zoologică din Leerdam. Familiile pot observa aici animalele într-un mediu liniștit.",
+                  "category": "family",
+                  "coords": [
+                        5.116815,
+                        51.921574
+                  ]
+            },
+            {
+                  "name": "Spetterbad Leerbroek",
+                  "text": "Spetterbad Leerbroek este o piscină în Leerdam. Este un loc potrivit pentru sporturi nautice și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        5.044904,
+                        51.909063
+                  ]
+            },
+            {
+                  "name": "Hestia's Hof",
+                  "text": "Hestia's Hof este o grădină zoologică din Leerdam. Oferă o experiență plăcută pentru iubitorii de animale și familii.",
+                  "category": "family",
+                  "coords": [
+                        5.088491,
+                        51.889737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqua Zoo Leerdam",
+                  "text": "Aqua Zoo Leerdam is an aquarium in Leerdam. It offers fascinating insights into the underwater world.",
+                  "category": "family",
+                  "coords": [
+                        5.10787,
+                        51.89109
+                  ]
+            },
+            {
+                  "name": "Galgenwiel",
+                  "text": "Galgenwiel is a swimming area in Leerdam. It offers a natural setting for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        5.103556,
+                        51.886188
+                  ]
+            },
+            {
+                  "name": "Hertenkamp Schoonrewoerd",
+                  "text": "Hertenkamp Schoonrewoerd is a zoo in Leerdam. Families can observe animals here in a peaceful setting.",
+                  "category": "family",
+                  "coords": [
+                        5.116815,
+                        51.921574
+                  ]
+            },
+            {
+                  "name": "Spetterbad Leerbroek",
+                  "text": "Spetterbad Leerbroek is a swimming pool in Leerdam. It is a suitable place for water sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        5.044904,
+                        51.909063
+                  ]
+            },
+            {
+                  "name": "Hestia's Hof",
+                  "text": "Hestia's Hof is a zoo in Leerdam. It offers a nice experience for animal lovers and families.",
+                  "category": "family",
+                  "coords": [
+                        5.088491,
+                        51.889737
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Leerdam", hu: "Leerdam", ro: "Leerdam", en: "Leerdam" },
@@ -36076,7 +40342,52 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-epe-cities-v2.webp",
   },
   {
-    id: "netherlands-drunen-cities-v2",
+    id: "netherlands-drunen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zwembad Olympia",
+                  "text": "Dieser Badebereich in Drunen bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        5.095052,
+                        51.683366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zwembad Olympia",
+                  "text": "Ez a Drunen területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.095052,
+                        51.683366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zwembad Olympia",
+                  "text": "Această zonă de înot din Drunen oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        5.095052,
+                        51.683366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zwembad Olympia",
+                  "text": "This swimming area in Drunen provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        5.095052,
+                        51.683366
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Drunen", hu: "Drunen", ro: "Drunen", en: "Drunen" },
@@ -37643,6 +41954,24 @@ export const netherlandsCitiesV2: POI[] = [
                         6.003713,
                         52.598217
                   ]
+            },
+            {
+                  "name": "Zwembad Bestevaer",
+                  "text": "Zwembad Bestevaer ist ein Schwimmbad in Genemuiden. Es ist ein guter Ort für regelmäßiges Schwimmtraining und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        6.040851,
+                        52.6163
+                  ]
+            },
+            {
+                  "name": "Ariën Prins van Wijngaarden Bad",
+                  "text": "Ariën Prins van Wijngaarden Bad ist ein Schwimmbad in Genemuiden. Es bietet Schwimmgelegenheiten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        6.086814,
+                        52.588503
+                  ]
             }
       ],
       "hu": [
@@ -37707,6 +42036,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.003713,
                         52.598217
+                  ]
+            },
+            {
+                  "name": "Zwembad Bestevaer",
+                  "text": "A Zwembad Bestevaer egy úszómedence Genemuidenben. Jó hely a rendszeres úszáshoz és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        6.040851,
+                        52.6163
+                  ]
+            },
+            {
+                  "name": "Ariën Prins van Wijngaarden Bad",
+                  "text": "Az Ariën Prins van Wijngaarden Bad egy úszómedence Genemuidenben. Úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        6.086814,
+                        52.588503
                   ]
             }
       ],
@@ -37773,6 +42120,24 @@ export const netherlandsCitiesV2: POI[] = [
                         6.003713,
                         52.598217
                   ]
+            },
+            {
+                  "name": "Zwembad Bestevaer",
+                  "text": "Zwembad Bestevaer este o piscină în Genemuiden. Este un loc bun pentru înot regulat și petrecerea timpului liber.",
+                  "category": "family",
+                  "coords": [
+                        6.040851,
+                        52.6163
+                  ]
+            },
+            {
+                  "name": "Ariën Prins van Wijngaarden Bad",
+                  "text": "Ariën Prins van Wijngaarden Bad este o piscină în Genemuiden. Oferă facilități de înot pentru toate categoriile de vârstă.",
+                  "category": "family",
+                  "coords": [
+                        6.086814,
+                        52.588503
+                  ]
             }
       ],
       "en": [
@@ -37837,6 +42202,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.003713,
                         52.598217
+                  ]
+            },
+            {
+                  "name": "Zwembad Bestevaer",
+                  "text": "Zwembad Bestevaer is a swimming pool in Genemuiden. It is a good place for regular swimming and leisure.",
+                  "category": "family",
+                  "coords": [
+                        6.040851,
+                        52.6163
+                  ]
+            },
+            {
+                  "name": "Ariën Prins van Wijngaarden Bad",
+                  "text": "Ariën Prins van Wijngaarden Bad is a swimming pool in Genemuiden. It offers swimming opportunities for all age groups.",
+                  "category": "family",
+                  "coords": [
+                        6.086814,
+                        52.588503
                   ]
             }
       ]
@@ -39794,6 +44177,42 @@ export const netherlandsCitiesV2: POI[] = [
                         4.647789,
                         52.035034
                   ]
+            },
+            {
+                  "name": "Gouwebad de Sniep",
+                  "text": "Das Gouwebad de Sniep in Waddinxveen ist ein örtliches Schwimmbad für Erholung und Sport. Es bietet Einrichtungen für Familien, die gerne gemeinsam schwimmen gehen.",
+                  "category": "family",
+                  "coords": [
+                        4.643116,
+                        52.041833
+                  ]
+            },
+            {
+                  "name": "Groenhovenbad",
+                  "text": "Das Groenhovenbad in Waddinxveen ist ein Wasserpark mit verschiedenen Becken für Wasserspaß. Familien können hier einen aktiven Tag im Wasser genießen.",
+                  "category": "family",
+                  "coords": [
+                        4.689282,
+                        52.023897
+                  ]
+            },
+            {
+                  "name": "Luilakterrein",
+                  "text": "Das Luilakterrein in Waddinxveen ist ein Freizeitpark, der Unterhaltung für verschiedene Altersgruppen bietet. Es ist ein schöner Ort für einen Familienausflug im Freien.",
+                  "category": "family",
+                  "coords": [
+                        4.630096,
+                        52.07611
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Goudse Hofsteden",
+                  "text": "Die Kinderboerderij De Goudse Hofsteden in Waddinxveen bietet eine naturnahe Umgebung mit Bauernhoftieren. Ein toller Ort für Familien, um Zeit im Freien zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        4.696649,
+                        52.032513
+                  ]
             }
       ],
       "hu": [
@@ -40137,6 +44556,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.647789,
                         52.035034
+                  ]
+            },
+            {
+                  "name": "Gouwebad de Sniep",
+                  "text": "A waddinxveeni Gouwebad de Sniep egy helyi úszómedence kikapcsolódásra és sportolásra. Családok számára is kínál közös úszási lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        4.643116,
+                        52.041833
+                  ]
+            },
+            {
+                  "name": "Groenhovenbad",
+                  "text": "A waddinxveeni Groenhovenbad egy vízipark, amely különféle medencékkel várja a kikapcsolódni vágyókat. A családok aktív napot tölthetnek itt a vízben.",
+                  "category": "family",
+                  "coords": [
+                        4.689282,
+                        52.023897
+                  ]
+            },
+            {
+                  "name": "Luilakterrein",
+                  "text": "A waddinxveeni Luilakterrein egy vidámpark, amely szórakozást kínál a különböző korosztályok számára. Kellemes helyszín egy szabadtéri családi programhoz.",
+                  "category": "family",
+                  "coords": [
+                        4.630096,
+                        52.07611
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Goudse Hofsteden",
+                  "text": "A waddinxveeni Kinderboerderij De Goudse Hofsteden természetközeli környezetet kínál háztáji állatokkal. Remek hely a családoknak a szabadban töltött időhöz.",
+                  "category": "family",
+                  "coords": [
+                        4.696649,
+                        52.032513
                   ]
             }
       ],
@@ -40482,6 +44937,42 @@ export const netherlandsCitiesV2: POI[] = [
                         4.647789,
                         52.035034
                   ]
+            },
+            {
+                  "name": "Gouwebad de Sniep",
+                  "text": "Gouwebad de Sniep din Waddinxveen este o piscină locală pentru recreere și sport. Oferă facilități pentru familiile care doresc să înoate împreună.",
+                  "category": "family",
+                  "coords": [
+                        4.643116,
+                        52.041833
+                  ]
+            },
+            {
+                  "name": "Groenhovenbad",
+                  "text": "Groenhovenbad din Waddinxveen este un parc acvatic cu diverse bazine pentru distracție. Familiile se pot bucura aici de o zi activă în apă.",
+                  "category": "family",
+                  "coords": [
+                        4.689282,
+                        52.023897
+                  ]
+            },
+            {
+                  "name": "Luilakterrein",
+                  "text": "Luilakterrein din Waddinxveen este un parc tematic ce oferă divertisment pentru diverse grupe de vârstă. Este un loc plăcut pentru o ieșire în familie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.630096,
+                        52.07611
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Goudse Hofsteden",
+                  "text": "Kinderboerderij De Goudse Hofsteden din Waddinxveen oferă un mediu natural cu animale de fermă. Un loc minunat pentru familii de a petrece timpul în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.696649,
+                        52.032513
+                  ]
             }
       ],
       "en": [
@@ -40825,6 +45316,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.647789,
                         52.035034
+                  ]
+            },
+            {
+                  "name": "Gouwebad de Sniep",
+                  "text": "Gouwebad de Sniep in Waddinxveen is a local swimming pool for recreation and exercise. It offers facilities for families to enjoy swimming together.",
+                  "category": "family",
+                  "coords": [
+                        4.643116,
+                        52.041833
+                  ]
+            },
+            {
+                  "name": "Groenhovenbad",
+                  "text": "Groenhovenbad in Waddinxveen is a water park featuring various pools for aquatic fun. Families can enjoy an active day in the water here.",
+                  "category": "family",
+                  "coords": [
+                        4.689282,
+                        52.023897
+                  ]
+            },
+            {
+                  "name": "Luilakterrein",
+                  "text": "Luilakterrein in Waddinxveen is a theme park offering entertainment for various age groups. It is a nice spot for an outdoor family excursion.",
+                  "category": "family",
+                  "coords": [
+                        4.630096,
+                        52.07611
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Goudse Hofsteden",
+                  "text": "Kinderboerderij De Goudse Hofsteden in Waddinxveen provides a natural setting with farm animals. A great place for families to spend time outdoors.",
+                  "category": "family",
+                  "coords": [
+                        4.696649,
+                        52.032513
                   ]
             }
       ]
@@ -41477,6 +46004,78 @@ export const netherlandsCitiesV2: POI[] = [
                         4.508166,
                         52.201009
                   ]
+            },
+            {
+                  "name": "Zwembad De Zijl",
+                  "text": "Dieser Badebereich in Oegstgeest bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        4.514635,
+                        52.166834
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Coebel",
+                  "text": "Dieser Streichelzoo in Oegstgeest ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        4.471071,
+                        52.151056
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Kloosterhof",
+                  "text": "Dieser Streichelzoo in Oegstgeest ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        4.496188,
+                        52.199093
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Dieser Streichelzoo in Oegstgeest ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        4.50835,
+                        52.178356
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Westerweide",
+                  "text": "Dieser Streichelzoo in Oegstgeest ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        4.434863,
+                        52.191213
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Dieser Hirschpark in Oegstgeest bietet eine ruhige Umgebung für einen Familienspaziergang und Tierbeobachtungen.",
+                  "category": "family",
+                  "coords": [
+                        4.48182,
+                        52.174949
+                  ]
+            },
+            {
+                  "name": "Kagerplassen 't Joppe Westoever",
+                  "text": "Dieser Badebereich in Oegstgeest bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        4.50839,
+                        52.194326
+                  ]
+            },
+            {
+                  "name": "Zoeterwoudsesingel",
+                  "text": "Dieser Badebereich in Oegstgeest bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        4.500618,
+                        52.153712
+                  ]
             }
       ],
       "hu": [
@@ -42081,6 +46680,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.508166,
                         52.201009
+                  ]
+            },
+            {
+                  "name": "Zwembad De Zijl",
+                  "text": "Ez a Oegstgeest területén található fürdőhely kellemes környezetet biztosít az úszáshoz und a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.514635,
+                        52.166834
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Coebel",
+                  "text": "Ez a Oegstgeest városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.471071,
+                        52.151056
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Kloosterhof",
+                  "text": "Ez a Oegstgeest városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.496188,
+                        52.199093
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Ez a Oegstgeest városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.50835,
+                        52.178356
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Westerweide",
+                  "text": "Ez a Oegstgeest városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.434863,
+                        52.191213
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Ez a Oegstgeest területén található szarvaspark nyugodt környezetet kínál a családi sétákhoz és állatmegfigyeléshez.",
+                  "category": "family",
+                  "coords": [
+                        4.48182,
+                        52.174949
+                  ]
+            },
+            {
+                  "name": "Kagerplassen 't Joppe Westoever",
+                  "text": "Ez a Oegstgeest területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.50839,
+                        52.194326
+                  ]
+            },
+            {
+                  "name": "Zoeterwoudsesingel",
+                  "text": "Ez a Oegstgeest területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        4.500618,
+                        52.153712
                   ]
             }
       ],
@@ -42687,6 +47358,78 @@ export const netherlandsCitiesV2: POI[] = [
                         4.508166,
                         52.201009
                   ]
+            },
+            {
+                  "name": "Zwembad De Zijl",
+                  "text": "Această zonă de înot din Oegstgeest oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        4.514635,
+                        52.166834
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Coebel",
+                  "text": "Această fermă de animale din Oegstgeest este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        4.471071,
+                        52.151056
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Kloosterhof",
+                  "text": "Această fermă de animale din Oegstgeest este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        4.496188,
+                        52.199093
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "Această fermă de animale din Oegstgeest este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        4.50835,
+                        52.178356
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Westerweide",
+                  "text": "Această fermă de animale din Oegstgeest este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        4.434863,
+                        52.191213
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "Acest parc cu cerbi din Oegstgeest oferă un mediu liniștit pentru o plimbare în familie și observarea animalelor.",
+                  "category": "family",
+                  "coords": [
+                        4.48182,
+                        52.174949
+                  ]
+            },
+            {
+                  "name": "Kagerplassen 't Joppe Westoever",
+                  "text": "Această zonă de înot din Oegstgeest oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        4.50839,
+                        52.194326
+                  ]
+            },
+            {
+                  "name": "Zoeterwoudsesingel",
+                  "text": "Această zonă de înot din Oegstgeest oferă un mediu plăcut pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        4.500618,
+                        52.153712
+                  ]
             }
       ],
       "en": [
@@ -43292,6 +48035,78 @@ export const netherlandsCitiesV2: POI[] = [
                         4.508166,
                         52.201009
                   ]
+            },
+            {
+                  "name": "Zwembad De Zijl",
+                  "text": "This swimming area in Oegstgeest provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        4.514635,
+                        52.166834
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Coebel",
+                  "text": "This petting zoo in Oegstgeest is a lovely destination for families to meet and interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        4.471071,
+                        52.151056
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Kloosterhof",
+                  "text": "This petting zoo in Oegstgeest is a lovely destination for families to meet and interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        4.496188,
+                        52.199093
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij",
+                  "text": "This petting zoo in Oegstgeest is a lovely destination for families to meet and interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        4.50835,
+                        52.178356
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Westerweide",
+                  "text": "This petting zoo in Oegstgeest is a lovely destination for families to meet and interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        4.434863,
+                        52.191213
+                  ]
+            },
+            {
+                  "name": "Hertenkamp",
+                  "text": "This deer park in Oegstgeest offers a quiet environment for a family walk and animal observation.",
+                  "category": "family",
+                  "coords": [
+                        4.48182,
+                        52.174949
+                  ]
+            },
+            {
+                  "name": "Kagerplassen 't Joppe Westoever",
+                  "text": "This swimming area in Oegstgeest provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        4.50839,
+                        52.194326
+                  ]
+            },
+            {
+                  "name": "Zoeterwoudsesingel",
+                  "text": "This swimming area in Oegstgeest provides a pleasant environment for swimming and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        4.500618,
+                        52.153712
+                  ]
             }
       ]
 },
@@ -43609,7 +48424,88 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-druten-cities-v2.webp",
   },
   {
-    id: "netherlands-renkum-cities-v2",
+    id: "netherlands-renkum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Voliere",
+                  "text": "Diese Voliere in Renkum ist ein kleiner Zoo, in dem Besucher verschiedene Vogelarten beobachten können. Ein ruhiges Ziel für Vogelliebhaber und Familien.",
+                  "category": "family",
+                  "coords": [
+                        5.753349,
+                        51.957904
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Heidestein",
+                  "text": "Die Kinderboerderij Heidestein in Renkum bietet Kindern die Möglichkeit, Tiere in einer natürlichen Umgebung zu treffen. Ein beliebter Ort für Familienbesuche.",
+                  "category": "family",
+                  "coords": [
+                        5.750033,
+                        51.979621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Voliere",
+                  "text": "Ez a renkumi madárház egy kis állatkert, ahol a látogatók különféle madárfajokat figyelhetnek meg. Nyugodt úti cél a madárbarátok és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.753349,
+                        51.957904
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Heidestein",
+                  "text": "A renkumi Kinderboerderij Heidestein lehetőséget ad a gyerekeknek az állatokkal való találkozásra természetes környezetben. Népszerű hely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.750033,
+                        51.979621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Voliere",
+                  "text": "Această volieră din Renkum este o mică grădină zoologică unde vizitatorii pot observa diverse specii de păsări. O destinație liniștită pentru iubitorii de păsări și familii.",
+                  "category": "family",
+                  "coords": [
+                        5.753349,
+                        51.957904
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Heidestein",
+                  "text": "Kinderboerderij Heidestein din Renkum oferă copiilor șansa de a întâlni animale într-un cadru natural. Un loc popular pentru vizitele în familie.",
+                  "category": "family",
+                  "coords": [
+                        5.750033,
+                        51.979621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Voliere",
+                  "text": "This aviary in Renkum is a small zoo where visitors can observe various bird species. A quiet destination for bird lovers and families.",
+                  "category": "family",
+                  "coords": [
+                        5.753349,
+                        51.957904
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Heidestein",
+                  "text": "Kinderboerderij Heidestein in Renkum offers children the chance to meet animals in a natural setting. A popular spot for family visits.",
+                  "category": "family",
+                  "coords": [
+                        5.750033,
+                        51.979621
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Renkum", hu: "Renkum", ro: "Renkum", en: "Renkum" },
@@ -43970,6 +48866,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.895603,
                         53.341669
                   ]
+            },
+            {
+                  "name": "Dubbelslag",
+                  "text": "Dubbelslag ist ein Schwimmbad in Delfzijl. Es bietet sportliche Betätigung und Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        6.887098,
+                        53.321398
+                  ]
             }
       ],
       "hu": [
@@ -44052,6 +48957,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.895603,
                         53.341669
+                  ]
+            },
+            {
+                  "name": "Dubbelslag",
+                  "text": "A Dubbelslag egy úszómedence Delfzijlben. Sportolási és kikapcsolódási lehetőséget kínál a vízben.",
+                  "category": "family",
+                  "coords": [
+                        6.887098,
+                        53.321398
                   ]
             }
       ],
@@ -44136,6 +49050,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.895603,
                         53.341669
                   ]
+            },
+            {
+                  "name": "Dubbelslag",
+                  "text": "Dubbelslag este o piscină în Delfzijl. Oferă activitate sportivă și relaxare în apă.",
+                  "category": "family",
+                  "coords": [
+                        6.887098,
+                        53.321398
+                  ]
             }
       ],
       "en": [
@@ -44218,6 +49141,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.895603,
                         53.341669
+                  ]
+            },
+            {
+                  "name": "Dubbelslag",
+                  "text": "Dubbelslag is a swimming pool in Delfzijl. It offers sporting activity and relaxation in the water.",
+                  "category": "family",
+                  "coords": [
+                        6.887098,
+                        53.321398
                   ]
             }
       ]
@@ -44348,6 +49280,42 @@ export const netherlandsCitiesV2: POI[] = [
                         4.731421,
                         52.625502
                   ]
+            },
+            {
+                  "name": "Het Baafje",
+                  "text": "Het Baafje in Heiloo ist ein Freibad, das an warmen Tagen zur Abkühlung und Erholung einlädt. Es bietet Badespaß für Kinder und Erwachsene.",
+                  "category": "family",
+                  "coords": [
+                        4.687666,
+                        52.60886
+                  ]
+            },
+            {
+                  "name": "Oefenbad Loos (overdekt)",
+                  "text": "Das Oefenbad Loos in Heiloo ist ein Hallenbad, das sich ideal für Schwimmübungen eignet. Es bietet eine sichere Umgebung für Familien mit jungen Schwimmern.",
+                  "category": "family",
+                  "coords": [
+                        4.688588,
+                        52.608668
+                  ]
+            },
+            {
+                  "name": "Zwemles op Maat",
+                  "text": "Zwemles op Maat in Heiloo ist eine Schwimmeinrichtung, die auf den Unterricht spezialisiert ist. Familien finden hier Möglichkeiten zur Wassergewöhnung und zum Lernen.",
+                  "category": "family",
+                  "coords": [
+                        4.749927,
+                        52.62881
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Beestenboetje",
+                  "text": "Die Kinderboerderij Beestenboetje in Heiloo ist ein Ort, an dem Kinder Tiere füttern und streicheln können. Ein freundliches Ausflugsziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        4.709051,
+                        52.602164
+                  ]
             }
       ],
       "hu": [
@@ -44430,6 +49398,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.731421,
                         52.625502
+                  ]
+            },
+            {
+                  "name": "Het Baafje",
+                  "text": "A heilooi Het Baafje egy szabadtéri úszómedence, amely hűsölésre és kikapcsolódásra hív a meleg napokon. Úszási élményt nyújt gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        4.687666,
+                        52.60886
+                  ]
+            },
+            {
+                  "name": "Oefenbad Loos (overdekt)",
+                  "text": "A heilooi Oefenbad Loos egy fedett úszómedence, amely ideális úszógyakorlatokhoz. Biztonságos környezetet nyújt a fiatal úszókkal érkező családoknak.",
+                  "category": "family",
+                  "coords": [
+                        4.688588,
+                        52.608668
+                  ]
+            },
+            {
+                  "name": "Zwemles op Maat",
+                  "text": "A heilooi Zwemles op Maat egy úszásoktatásra szakosodott létesítmény. A családok itt lehetőséget találnak a vízhez szoktatásra és a tanulásra.",
+                  "category": "family",
+                  "coords": [
+                        4.749927,
+                        52.62881
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Beestenboetje",
+                  "text": "A heilooi Kinderboerderij Beestenboetje egy olyan hely, ahol a gyerekek állatokat etethetnek és simogathatnak. Barátságos úti cél családok számára.",
+                  "category": "family",
+                  "coords": [
+                        4.709051,
+                        52.602164
                   ]
             }
       ],
@@ -44514,6 +49518,42 @@ export const netherlandsCitiesV2: POI[] = [
                         4.731421,
                         52.625502
                   ]
+            },
+            {
+                  "name": "Het Baafje",
+                  "text": "Het Baafje din Heiloo este o piscină în aer liber care invită la răcorire și recreere în zilele calde. Oferă distracție la înot pentru copii și adulți.",
+                  "category": "family",
+                  "coords": [
+                        4.687666,
+                        52.60886
+                  ]
+            },
+            {
+                  "name": "Oefenbad Loos (overdekt)",
+                  "text": "Oefenbad Loos din Heiloo este o piscină acoperită, ideală pentru exerciții de înot. Oferă un mediu sigur pentru familiile cu tineri înotători.",
+                  "category": "family",
+                  "coords": [
+                        4.688588,
+                        52.608668
+                  ]
+            },
+            {
+                  "name": "Zwemles op Maat",
+                  "text": "Zwemles op Maat din Heiloo este o facilitate de înot specializată în lecții. Familiile găsesc aici oportunități pentru acomodarea cu apa și învățare.",
+                  "category": "family",
+                  "coords": [
+                        4.749927,
+                        52.62881
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Beestenboetje",
+                  "text": "Kinderboerderij Beestenboetje din Heiloo este un loc unde copiii pot hrăni și mângâia animalele. O destinație prietenoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        4.709051,
+                        52.602164
+                  ]
             }
       ],
       "en": [
@@ -44596,6 +49636,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.731421,
                         52.625502
+                  ]
+            },
+            {
+                  "name": "Het Baafje",
+                  "text": "Het Baafje in Heiloo is an outdoor swimming pool inviting for cooling off and recreation on warm days. It offers swimming fun for both kids and adults.",
+                  "category": "family",
+                  "coords": [
+                        4.687666,
+                        52.60886
+                  ]
+            },
+            {
+                  "name": "Oefenbad Loos (overdekt)",
+                  "text": "Oefenbad Loos in Heiloo is an indoor swimming pool ideal for swimming practice. It provides a safe environment for families with young swimmers.",
+                  "category": "family",
+                  "coords": [
+                        4.688588,
+                        52.608668
+                  ]
+            },
+            {
+                  "name": "Zwemles op Maat",
+                  "text": "Zwemles op Maat in Heiloo is a swimming facility specializing in lessons. Families find opportunities here for water familiarization and learning.",
+                  "category": "family",
+                  "coords": [
+                        4.749927,
+                        52.62881
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Beestenboetje",
+                  "text": "Kinderboerderij Beestenboetje in Heiloo is a place where children can feed and pet animals. A friendly destination for families.",
+                  "category": "family",
+                  "coords": [
+                        4.709051,
+                        52.602164
                   ]
             }
       ]

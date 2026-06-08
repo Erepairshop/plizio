@@ -2345,7 +2345,1080 @@ imageHint: "Varazdin Stari Grad castle white",
     },
     image: "/poi-images/croatia-varazdin-cities-v2.webp",
 },  {
-    id: "croatia-sibenik-cities-v2", "sights": {"de": [{"name": "Muzej Grada Šibenika", "text": "Stadtmuseum im historischen Fürstenpalast, das die Geschichte von Šibenik dokumentiert.", "category": "museum", "coords": [15.889126, 43.735374]}, {"name": "Festung St. Michael", "text": "Mittelalterliche Festung über Šibenik, bekannt für ihre Freilichtbühne im Sommer.", "category": "castle", "coords": [15.889587, 43.737621]}, {"name": "Hrvatsko narodno kazalište u Šibeniku", "text": "Das Kroatische Nationaltheater in Šibenik, ein Zentrum für Kultur und darstellende Kunst.", "category": "cultural", "coords": [15.892972, 43.734926]}, {"name": "Festung Baron", "text": "Die Festung Barone wurde 1646 zur Verteidigung Šibeniks gegen die Osmanen errichtet.", "category": "castle", "coords": [15.89647, 43.737273]}, {"name": "Festung St. Johannes", "text": "Die Festung des Heiligen Johannes thront über der Stadt und diente dem Schutz im 17. Jahrhundert.", "category": "castle", "coords": [15.893881, 43.740441]}, {"name": "Banj", "text": "Der Stadtstrand Banj bietet einen der schönsten Ausblicke auf die Altstadt von Šibenik.", "category": "recreational", "coords": [15.88408, 43.741443]}, {"name": "Spomen soba Dražen Petrović", "text": "Gedenkraum für die Basketball-Legende Dražen Petrović in seinem Geburtsort Šibenik.", "category": "museum", "coords": [15.902338, 43.730401]}, {"name": "Civitas Sacra", "text": "Das Interpretationszentrum der Kathedrale des Heiligen Jakobus befindet sich im Galbiani-Palast.", "category": "museum", "coords": [15.89127, 43.735027]}, {"name": "Oštra glava", "text": "Ein Hügel in der Nähe von Šibenik mit Blick auf die umliegende Karstlandschaft.", "category": "natural", "coords": [15.874339, 43.730935]}, {"name": "Tusta", "text": "Ein Gipfel im Hinterland von Šibenik, ideal für Wanderungen und Naturbeobachtungen.", "category": "natural", "coords": [15.863169, 43.742684]}, {"name": "Lobor", "text": "Dieser Berggipfel nahe Šibenik erhebt sich über die umliegende dalmatinische Landschaft. Besucher des Lobor erwartet ein weiter Rundumblick in der unberührten Natur.", "category": "natural", "coords": [15.877719, 43.725668]}, {"name": "Spomen-park Šubićevac", "text": "Ein Gedenkpark in Šibenik, der den während des Zweiten Weltkriegs hingerichteten Widerstandskämpfern gewidmet ist.", "category": "park", "coords": [15.897141, 43.742452]}, {"name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija", "text": "Ein kultureller Veranstaltungsort auf der Halbinsel Martinska, der im Sommer für Musik- und Kunstevents bekannt ist.", "category": "landmark", "coords": [15.875901, 43.738298]}, {"name": "kuća umjetnosti Arsen", "text": "Ein nach dem Musiker Arsen Dedić benanntes Kulturzentrum in Šibenik, das als Ort für Konzerte und Filme dient.", "category": "cultural", "coords": [15.891951, 43.732744]}, {"name": "Welcome to Sibenik Sign", "text": "Ein Willkommensschild am Stadteingang von Šibenik, das ein beliebtes Fotomotiv für Besucher darstellt.", "category": "landmark", "coords": [15.870808, 43.726846]}, {"name": "Morski tunel", "text": "Ein ehemaliger Militärtunnel im St.-Antonius-Kanal, der früher zum Schutz von Marineschiffen diente.", "category": "historical", "coords": [15.874264, 43.727182]}, {"name": "Mittelalterlicher Klostergarten Hl. Laurentius", "text": "Ein sorgfältig restaurierter mittelalterlicher Klostergarten mit einer Sammlung von Heilpflanzen und Gewürzen.", "category": "landmark", "coords": [15.889486, 43.736467]}, {"name": "Crkva sv. Dominika", "text": "Eine elegante gotische Kirche aus dem 14. Jahrhundert, die sich im historischen Zentrum von Šibenik am Meer befindet.", "category": "religious", "coords": [15.888489, 43.736506]}, {"name": "Prokljansko jezero", "text": "Der Prokljan-See in Sibenik ist ein großer See, der mit dem Meer verbunden ist, was ihn zu einem großartigen Ort macht, um die Landschaft zu genießen.", "category": "natural", "coords": [15.866879, 43.812935]}, {"name": "Mala Solina", "text": "Mala Solina ist ein See bei Sibenik, der eine beruhigende Umgebung für Spaziergänge in der Küstennatur bietet.", "category": "natural", "coords": [15.866655, 43.712038]}, {"name": "Vela Solina", "text": "Vela Solina ist ein malerischer See in Sibenik, der sich perfekt dazu anbietet, das Wasser und die umliegende Flora zu bewundern.", "category": "natural", "coords": [15.882342, 43.710055]}, {"name": "En Ten Tini", "text": "En Ten Tini ist ein schöner Kinderspielplatz in Sibenik, auf dem sich Familien ausruhen können, während die Kinder die Spielgeräte nutzen.", "category": "family", "coords": [15.897985, 43.731523]}, {"name": "LVLup", "text": "LVLup ist eine Spielhalle in Sibenik mit Videospielen und lustigen Aktivitäten für Jugendliche und Familien.", "category": "family", "coords": [15.912319, 43.71345]}], "hu": [{"name": "Muzej Grada Šibenika", "text": "A történelmi Rektori palotában található városi múzeum, amely Šibenik múltját mutatja be.", "category": "museum", "coords": [15.889126, 43.735374]}, {"name": "Tvrđava svetog Mihovila", "text": "Šibenik fölé magasodó középkori erőd, amely ma népszerű szabadtéri koncerthelyszín.", "category": "castle", "coords": [15.889587, 43.737621]}, {"name": "Hrvatsko narodno kazalište u Šibeniku", "text": "Šibeniki Horvát Nemzeti Színház, a város kulturális és művészeti életének központja.", "category": "cultural", "coords": [15.892972, 43.734926]}, {"name": "Tvrđava Barone", "text": "A Barone-erőd 1646-ban épült Šibenik védelmére az oszmán támadások ellen.", "category": "castle", "coords": [15.89647, 43.737273]}, {"name": "Tvrđava svetog Ivana", "text": "A Szent János-erőd a város feletti dombon áll, és fontos védelmi szerepet játszott a 17. században.", "category": "castle", "coords": [15.893881, 43.740441]}, {"name": "Banj", "text": "A Banj városi strandról nyílik a legszebb kilátás Šibenik óvárosára.", "category": "recreational", "coords": [15.88408, 43.741443]}, {"name": "Spomen soba Dražen Petrović", "text": "Dražen Petrović kosárlabda-legenda emlékhelye szülővárosában, Šibenikben.", "category": "museum", "coords": [15.902338, 43.730401]}, {"name": "Civitas Sacra", "text": "A Szent Jakab-székesegyház történetét bemutató látogatóközpont a Galbiani-palotában.", "category": "museum", "coords": [15.89127, 43.735027]}, {"name": "Oštra glava", "text": "Šibenik melletti magaslat, ahonnan kilátás nyílik a környező karsztvidékre.", "category": "natural", "coords": [15.874339, 43.730935]}, {"name": "Tusta", "text": "Domb Šibenik hátországában, amely ideális túrázásra és természetjárásra.", "category": "natural", "coords": [15.863169, 43.742684]}, {"name": "Lobor", "text": "Ez a Šibenik közelében található hegycsúcs a környező dalmát táj fölé magasodik. A Lobor látogatói széles panorámára számíthatnak az érintetlen természetben.", "category": "natural", "coords": [15.877719, 43.725668]}, {"name": "Spomen-park Šubićevac", "text": "Emlékpark Šibenikben, amelyet a második világháború alatt kivégzett ellenállók emlékére hoztak létre.", "category": "park", "coords": [15.897141, 43.742452]}, {"name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija", "text": "Kulturális rendezvényhelyszín a Martinska-félszigeten, amely nyári zenei és művészeti eseményeiről ismert.", "category": "landmark", "coords": [15.875901, 43.738298]}, {"name": "kuća umjetnosti Arsen", "text": "Arsen Dedić zenészről elnevezett kulturális központ Šibenikben, amely koncertek és filmvetítések helyszíne.", "category": "cultural", "coords": [15.891951, 43.732744]}, {"name": "Welcome to Sibenik Sign", "text": "Üdvözlő felirat Šibenik bejáratánál, amely népszerű fotótéma a látogatók számára.", "category": "landmark", "coords": [15.870808, 43.726846]}, {"name": "Morski tunel", "text": "Egykori katonai alagút a Szent Antal-csatornában, amely korábban hadihajók védelmére szolgált.", "category": "historical", "coords": [15.874264, 43.727182]}, {"name": "Samostanski vrt sv. Lovre", "text": "Gondosan restaurált középkori kolostorkert, amely gyógynövények és fűszerek gyűjteményének ad otthont.", "category": "landmark", "coords": [15.889486, 43.736467]}, {"name": "Crkva sv. Dominika", "text": "Elegáns 14. századi gótikus templom Šibenik történelmi belvárosában, közvetlenül a tengerpartnál.", "category": "religious", "coords": [15.888489, 43.736506]}, {"name": "Prukljan-tó", "text": "A šibeniki Prokljansko jezero egy tengerhez csatlakozó nagy tó, amely kiváló hely a táj megcsodálására.", "category": "natural", "coords": [15.866879, 43.812935]}, {"name": "Mala Solina", "text": "A Mala Solina egy Šibenikhez közeli tó, amely nyugtató környezetet biztosít a tengerparti természetjárásokhoz.", "category": "natural", "coords": [15.866655, 43.712038]}, {"name": "Vela Solina", "text": "A Vela Solina egy Šibenikben található festői tó, amely tökéletes a víz és a környező növényvilág megcsodálására.", "category": "natural", "coords": [15.882342, 43.710055]}, {"name": "En Ten Tini", "text": "Az En Ten Tini egy kedves játszótér Šibenikben, ahol a családok megpihenhetnek, miközben a gyerekek élvezik a játékeszközöket.", "category": "family", "coords": [15.897985, 43.731523]}, {"name": "LVLup", "text": "Az LVLup egy šibeniki játékterem, amely videojátékokkal és szórakoztató tevékenységekkel várja a tinédzsereket és a családokat.", "category": "family", "coords": [15.912319, 43.71345]}], "ro": [{"name": "Muzej Grada Šibenika", "text": "Muzeul orașului situat în fostul Palat al Ducelui, prezentând istoria orașului Šibenik.", "category": "museum", "coords": [15.889126, 43.735374]}, {"name": "Tvrđava svetog Mihovila", "text": "Cetate medievală care domină orașul Šibenik, renumită pentru scena sa în aer liber.", "category": "castle", "coords": [15.889587, 43.737621]}, {"name": "Hrvatsko narodno kazalište u Šibeniku", "text": "Teatrul Național Croat din Šibenik, un centru pentru cultură și artele spectacolului.", "category": "cultural", "coords": [15.892972, 43.734926]}, {"name": "Tvrđava Barone", "text": "Cetatea Barone a fost construită în 1646 pentru a apăra orașul Šibenik de atacurile otomane.", "category": "castle", "coords": [15.89647, 43.737273]}, {"name": "Tvrđava svetog Ivana", "text": "Cetatea Sfântul Ioan domină orașul de pe un deal, oferind protecție în secolul al XVII-lea.", "category": "castle", "coords": [15.893881, 43.740441]}, {"name": "Banj", "text": "Plaja urbană Banj oferă o vedere spectaculoasă asupra centrului istoric al orașului Šibenik.", "category": "recreational", "coords": [15.88408, 43.741443]}, {"name": "Spomen soba Dražen Petrović", "text": "Cameră memorială dedicată legendarului baschetbalist Dražen Petrović în orașul său natal.", "category": "museum", "coords": [15.902338, 43.730401]}, {"name": "Civitas Sacra", "text": "Centru de interpretare al Catedralei Sfântul Iacob, situat în Palatul Galbiani.", "category": "museum", "coords": [15.89127, 43.735027]}, {"name": "Oštra glava", "text": "Un deal în apropiere de Šibenik ce oferă panorame asupra peisajului carstic din jur.", "category": "natural", "coords": [15.874339, 43.730935]}, {"name": "Tusta", "text": "Un vârf în hinterlandul orașului Šibenik, ideal pentru drumeții și explorarea naturii.", "category": "natural", "coords": [15.863169, 43.742684]}, {"name": "Lobor", "text": "Acest vârf de munte de lângă Šibenik se înalță deasupra peisajului dalmat înconjurător. Vizitatorii care urcă pe Lobor se pot bucura de o priveliște vastă în mijlocul naturii neatinse.", "category": "natural", "coords": [15.877719, 43.725668]}, {"name": "Spomen-park Šubićevac", "text": "Un parc memorial din Šibenik, dedicat luptătorilor de rezistență executați în timpul celui de-al Doilea Război Mondial.", "category": "park", "coords": [15.897141, 43.742452]}, {"name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija", "text": "Un spațiu cultural pe peninsula Martinska, cunoscut pentru evenimentele de muzică și artă din timpul verii.", "category": "landmark", "coords": [15.875901, 43.738298]}, {"name": "kuća umjetnosti Arsen", "text": "Un centru cultural din Šibenik numit după muzicianul Arsen Dedić, care găzduiește concerte și proiecții de filme.", "category": "cultural", "coords": [15.891951, 43.732744]}, {"name": "Welcome to Sibenik Sign", "text": "Un semn de bun venit la intrarea în Šibenik, reprezentând un punct popular pentru fotografii.", "category": "landmark", "coords": [15.870808, 43.726846]}, {"name": "Morski tunel", "text": "Un fost tunel militar în canalul Sfântul Ante, folosit în trecut pentru protecția navelor marinei.", "category": "historical", "coords": [15.874264, 43.727182]}, {"name": "Samostanski vrt sv. Lovre", "text": "O grădină mănăstirească medievală restaurată cu grijă, care găzduiește o colecție de plante medicinale și condimente.", "category": "landmark", "coords": [15.889486, 43.736467]}, {"name": "Crkva sv. Dominika", "text": "O biserică gotică elegantă din secolul al XIV-lea, situată în centrul istoric al orașului Šibenik, lângă mare.", "category": "religious", "coords": [15.888489, 43.736506]}, {"name": "Prokljansko jezero", "text": "Prokljansko jezero din Sibenik este un lac mare care se leagă de mare, făcându-l un loc minunat pentru a aprecia peisajul.", "category": "natural", "coords": [15.866879, 43.812935]}, {"name": "Mala Solina", "text": "Mala Solina este un lac din apropiere de Sibenik, care oferă un mediu liniștitor pentru plimbări prin natura de coastă.", "category": "natural", "coords": [15.866655, 43.712038]}, {"name": "Vela Solina", "text": "Vela Solina este un lac pitoresc situat în Sibenik, perfect pentru a admira apa și flora înconjurătoare.", "category": "natural", "coords": [15.882342, 43.710055]}, {"name": "En Ten Tini", "text": "En Ten Tini este un loc de joacă minunat pentru copii din Sibenik, unde familiile se pot odihni în timp ce copiii se bucură de echipamentele de joacă.", "category": "family", "coords": [15.897985, 43.731523]}, {"name": "LVLup", "text": "LVLup este o sală de jocuri din Sibenik, care oferă jocuri video și activități distractive pentru adolescenți și familii.", "category": "family", "coords": [15.912319, 43.71345]}], "en": [{"name": "Šibenik Museum", "text": "City museum located in the historic Duke's Palace, detailing the history of Šibenik.", "category": "museum", "coords": [15.889126, 43.735374]}, {"name": "Saint Michael's Fortress", "text": "Medieval fortress overlooking Šibenik, known for its open-air summer stage.", "category": "castle", "coords": [15.889587, 43.737621]}, {"name": "Hrvatsko narodno kazalište u Šibeniku", "text": "The Croatian National Theater in Šibenik, a center for culture and performing arts.", "category": "cultural", "coords": [15.892972, 43.734926]}, {"name": "Barone Fortress", "text": "Barone Fortress was built in 1646 to defend Šibenik against the Ottoman threat.", "category": "castle", "coords": [15.89647, 43.737273]}, {"name": "St. John's Fortress", "text": "St. John's Fortress sits on a hill above the city and provided key defense in the 17th century.", "category": "castle", "coords": [15.893881, 43.740441]}, {"name": "Banj", "text": "Banj city beach offers a panoramic view of Šibenik's historic old town.", "category": "recreational", "coords": [15.88408, 43.741443]}, {"name": "Spomen soba Dražen Petrović", "text": "Memorial room dedicated to the basketball legend Dražen Petrović in his hometown.", "category": "museum", "coords": [15.902338, 43.730401]}, {"name": "Civitas Sacra", "text": "Interpretation center of St. James Cathedral located in the Galbiani Palace.", "category": "museum", "coords": [15.89127, 43.735027]}, {"name": "Oštra glava", "text": "A hill near Šibenik offering views of the surrounding karst landscape.", "category": "natural", "coords": [15.874339, 43.730935]}, {"name": "Tusta", "text": "A peak in the Šibenik hinterland, ideal for hiking and nature exploration.", "category": "natural", "coords": [15.863169, 43.742684]}, {"name": "Lobor", "text": "This mountain peak near Šibenik rises above the surrounding Dalmatian landscape. Visitors to Lobor can expect a sweeping view amidst untouched nature.", "category": "natural", "coords": [15.877719, 43.725668]}, {"name": "Spomen-park Šubićevac", "text": "A memorial park in Šibenik dedicated to the resistance fighters executed during World War II.", "category": "park", "coords": [15.897141, 43.742452]}, {"name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija", "text": "A cultural venue on the Martinska peninsula, known for its summer music and arts events.", "category": "landmark", "coords": [15.875901, 43.738298]}, {"name": "kuća umjetnosti Arsen", "text": "A cultural center in Šibenik named after musician Arsen Dedić, serving as a venue for concerts and films.", "category": "cultural", "coords": [15.891951, 43.732744]}, {"name": "Welcome to Sibenik Sign", "text": "A welcome sign at the entrance to Šibenik, serving as a popular photo spot for visitors.", "category": "landmark", "coords": [15.870808, 43.726846]}, {"name": "Undersea tunnel", "text": "A former military tunnel in the St. Anthony Channel, previously used for protecting navy ships.", "category": "historical", "coords": [15.874264, 43.727182]}, {"name": "Garden of St. Lawrence Monastery", "text": "A carefully restored medieval monastery garden housing a collection of medicinal plants and spices.", "category": "landmark", "coords": [15.889486, 43.736467]}, {"name": "Crkva sv. Dominika", "text": "An elegant 14th-century Gothic church located in the historical center of Šibenik by the sea.", "category": "religious", "coords": [15.888489, 43.736506]}, {"name": "Prokljansko jezero", "text": "Prokljansko jezero in Sibenik is a large lake connecting to the sea, making it a great place to appreciate the scenery.", "category": "natural", "coords": [15.866879, 43.812935]}, {"name": "Mala Solina", "text": "Mala Solina is a lake near Sibenik offering a calming environment for coastal nature walks.", "category": "natural", "coords": [15.866655, 43.712038]}, {"name": "Vela Solina", "text": "Vela Solina is a scenic lake situated in Sibenik, perfect for admiring the water and surrounding flora.", "category": "natural", "coords": [15.882342, 43.710055]}, {"name": "En Ten Tini", "text": "En Ten Tini is a lovely children's playground in Sibenik where families can rest while kids enjoy the play equipment.", "category": "family", "coords": [15.897985, 43.731523]}, {"name": "LVLup", "text": "LVLup is an amusement arcade in Sibenik featuring video games and fun activities for teenagers and families.", "category": "family", "coords": [15.912319, 43.71345]}], "hr": [{"name": "Šibenik Museum", "text": "Muzej grada Šibenika smješten u Kneževoj palači, čuva bogatu povijest grada.", "category": "museum", "coords": [15.889126, 43.735374]}, {"name": "Saint Michael's Fortress", "text": "Tvrđava sv. Mihovila je najstarija šibenska utvrda, danas poznata kao ljetna pozornica.", "category": "castle", "coords": [15.889587, 43.737621]}, {"name": "Hrvatsko narodno kazalište u Šibeniku", "text": "Hrvatsko narodno kazalište u Šibeniku središte je kulturnog i umjetničkog života grada.", "category": "cultural", "coords": [15.892972, 43.734926]}, {"name": "Barone Fortress", "text": "Tvrđava Barone izgrađena je 1646. godine radi obrane Šibenika od Osmanlija.", "category": "castle", "coords": [15.89647, 43.737273]}, {"name": "St. John's Fortress", "text": "Tvrđava sv. Ivana nalazi se na brdu iznad Šibenika i pružala je ključnu obranu u 17. stoljeću.", "category": "castle", "coords": [15.893881, 43.740441]}, {"name": "Banj", "text": "Gradska plaža Banj nudi jedinstven pogled na staru gradsku jezgru Šibenika.", "category": "recreational", "coords": [15.88408, 43.741443]}, {"name": "Spomen soba Dražen Petrović", "text": "Spomen soba posvećena je košarkaškom velikanu Draženu Petroviću u njegovu rodnom gradu.", "category": "museum", "coords": [15.902338, 43.730401]}, {"name": "Civitas Sacra", "text": "Interpretacijski centar katedrale sv. Jakova smješten u palači Galbiani.", "category": "museum", "coords": [15.89127, 43.735027]}, {"name": "Oštra glava", "text": "Uzvisina u okolici Šibenika s koje se pruža pogled na okolni krški krajolik.", "category": "natural", "coords": [15.874339, 43.730935]}, {"name": "Tusta", "text": "Brdo u šibenskom zaleđu idealno za pješačenje i ljubitelje prirode.", "category": "natural", "coords": [15.863169, 43.742684]}, {"name": "Lobor", "text": "Ovaj planinski vrh u blizini Šibenika uzdiže se iznad okolnog dalmatinskog krajolika. Posjetitelje Lobora očekuje širok pogled u netaknutoj prirodi.", "category": "natural", "coords": [15.877719, 43.725668]}, {"name": "Spomen-park Šubićevac", "text": "Spomen-park u Šibeniku posvećen borcima pokreta otpora strijeljanima tijekom Drugog svjetskog rata.", "category": "park", "coords": [15.897141, 43.742452]}, {"name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija", "text": "Kulturno odredište na Martinskoj, poznato po ljetnim glazbenim i umjetničkim događanjima.", "category": "landmark", "coords": [15.875901, 43.738298]}, {"name": "kuća umjetnosti Arsen", "text": "Kulturni centar u Šibeniku nazvan po glazbeniku Arsenu Dediću, mjesto za koncerte i filmske projekcije.", "category": "cultural", "coords": [15.891951, 43.732744]}, {"name": "Welcome to Sibenik Sign", "text": "Natpis dobrodošlice na ulazu u Šibenik, popularno mjesto za fotografiranje posjetitelja.", "category": "landmark", "coords": [15.870808, 43.726846]}, {"name": "Undersea tunnel", "text": "Bivši vojni tunel u kanalu sv. Ante, nekada korišten za zaklon ratnih brodova.", "category": "historical", "coords": [15.874264, 43.727182]}, {"name": "Garden of St. Lawrence Monastery", "text": "Pomno obnovljeni srednjovjekovni samostanski vrt u kojem se uzgaja ljekovito bilje i začini.", "category": "landmark", "coords": [15.889486, 43.736467]}, {"name": "Crkva sv. Dominika", "text": "Elegantna gotička crkva iz 14. stoljeća smještena u povijesnoj jezgri Šibenika uz more.", "category": "religious", "coords": [15.888489, 43.736506]}]},
+    id: "croatia-sibenik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej Grada Šibenika",
+                  "text": "Stadtmuseum im historischen Fürstenpalast, das die Geschichte von Šibenik dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Festung St. Michael",
+                  "text": "Mittelalterliche Festung über Šibenik, bekannt für ihre Freilichtbühne im Sommer.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "Das Kroatische Nationaltheater in Šibenik, ein Zentrum für Kultur und darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Festung Baron",
+                  "text": "Die Festung Barone wurde 1646 zur Verteidigung Šibeniks gegen die Osmanen errichtet.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "Festung St. Johannes",
+                  "text": "Die Festung des Heiligen Johannes thront über der Stadt und diente dem Schutz im 17. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Der Stadtstrand Banj bietet einen der schönsten Ausblicke auf die Altstadt von Šibenik.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Gedenkraum für die Basketball-Legende Dražen Petrović in seinem Geburtsort Šibenik.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "Das Interpretationszentrum der Kathedrale des Heiligen Jakobus befindet sich im Galbiani-Palast.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "Ein Hügel in der Nähe von Šibenik mit Blick auf die umliegende Karstlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "Ein Gipfel im Hinterland von Šibenik, ideal für Wanderungen und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "Dieser Berggipfel nahe Šibenik erhebt sich über die umliegende dalmatinische Landschaft. Besucher des Lobor erwartet ein weiter Rundumblick in der unberührten Natur.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "Ein Gedenkpark in Šibenik, der den während des Zweiten Weltkriegs hingerichteten Widerstandskämpfern gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "Ein kultureller Veranstaltungsort auf der Halbinsel Martinska, der im Sommer für Musik- und Kunstevents bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "Ein nach dem Musiker Arsen Dedić benanntes Kulturzentrum in Šibenik, das als Ort für Konzerte und Filme dient.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "Ein Willkommensschild am Stadteingang von Šibenik, das ein beliebtes Fotomotiv für Besucher darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Morski tunel",
+                  "text": "Ein ehemaliger Militärtunnel im St.-Antonius-Kanal, der früher zum Schutz von Marineschiffen diente.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Mittelalterlicher Klostergarten Hl. Laurentius",
+                  "text": "Ein sorgfältig restaurierter mittelalterlicher Klostergarten mit einer Sammlung von Heilpflanzen und Gewürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "Eine elegante gotische Kirche aus dem 14. Jahrhundert, die sich im historischen Zentrum von Šibenik am Meer befindet.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            },
+            {
+                  "name": "Prokljansko jezero",
+                  "text": "Der Prokljan-See in Sibenik ist ein großer See, der mit dem Meer verbunden ist, was ihn zu einem großartigen Ort macht, um die Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
+            },
+            {
+                  "name": "Mala Solina",
+                  "text": "Mala Solina ist ein See bei Sibenik, der eine beruhigende Umgebung für Spaziergänge in der Küstennatur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.866655,
+                        43.712038
+                  ]
+            },
+            {
+                  "name": "Vela Solina",
+                  "text": "Vela Solina ist ein malerischer See in Sibenik, der sich perfekt dazu anbietet, das Wasser und die umliegende Flora zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        15.882342,
+                        43.710055
+                  ]
+            },
+            {
+                  "name": "En Ten Tini",
+                  "text": "En Ten Tini ist ein schöner Kinderspielplatz in Sibenik, auf dem sich Familien ausruhen können, während die Kinder die Spielgeräte nutzen.",
+                  "category": "family",
+                  "coords": [
+                        15.897985,
+                        43.731523
+                  ]
+            },
+            {
+                  "name": "LVLup",
+                  "text": "LVLup ist eine Spielhalle in Sibenik mit Videospielen und lustigen Aktivitäten für Jugendliche und Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.912319,
+                        43.71345
+                  ]
+            },
+            {
+                  "name": "Solaris Aqua Park",
+                  "text": "Ein großer Wasserpark in Sibenik mit thematischen Rutschen und Erlebnisbecken für Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.889581,
+                        43.699545
+                  ]
+            },
+            {
+                  "name": "Aqua Rain Fortress",
+                  "text": "Ein Schwimmbad in Sibenik mit spielerischen Elementen für Kinder in einer Festungsoptik.",
+                  "category": "family",
+                  "coords": [
+                        15.888561,
+                        43.699856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej Grada Šibenika",
+                  "text": "A történelmi Rektori palotában található városi múzeum, amely Šibenik múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Tvrđava svetog Mihovila",
+                  "text": "Šibenik fölé magasodó középkori erőd, amely ma népszerű szabadtéri koncerthelyszín.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "Šibeniki Horvát Nemzeti Színház, a város kulturális és művészeti életének központja.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Tvrđava Barone",
+                  "text": "A Barone-erőd 1646-ban épült Šibenik védelmére az oszmán támadások ellen.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "Tvrđava svetog Ivana",
+                  "text": "A Szent János-erőd a város feletti dombon áll, és fontos védelmi szerepet játszott a 17. században.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "A Banj városi strandról nyílik a legszebb kilátás Šibenik óvárosára.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Dražen Petrović kosárlabda-legenda emlékhelye szülővárosában, Šibenikben.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "A Szent Jakab-székesegyház történetét bemutató látogatóközpont a Galbiani-palotában.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "Šibenik melletti magaslat, ahonnan kilátás nyílik a környező karsztvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "Domb Šibenik hátországában, amely ideális túrázásra és természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "Ez a Šibenik közelében található hegycsúcs a környező dalmát táj fölé magasodik. A Lobor látogatói széles panorámára számíthatnak az érintetlen természetben.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "Emlékpark Šibenikben, amelyet a második világháború alatt kivégzett ellenállók emlékére hoztak létre.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "Kulturális rendezvényhelyszín a Martinska-félszigeten, amely nyári zenei és művészeti eseményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "Arsen Dedić zenészről elnevezett kulturális központ Šibenikben, amely koncertek és filmvetítések helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "Üdvözlő felirat Šibenik bejáratánál, amely népszerű fotótéma a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Morski tunel",
+                  "text": "Egykori katonai alagút a Szent Antal-csatornában, amely korábban hadihajók védelmére szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Samostanski vrt sv. Lovre",
+                  "text": "Gondosan restaurált középkori kolostorkert, amely gyógynövények és fűszerek gyűjteményének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "Elegáns 14. századi gótikus templom Šibenik történelmi belvárosában, közvetlenül a tengerpartnál.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            },
+            {
+                  "name": "Prukljan-tó",
+                  "text": "A šibeniki Prokljansko jezero egy tengerhez csatlakozó nagy tó, amely kiváló hely a táj megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
+            },
+            {
+                  "name": "Mala Solina",
+                  "text": "A Mala Solina egy Šibenikhez közeli tó, amely nyugtató környezetet biztosít a tengerparti természetjárásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.866655,
+                        43.712038
+                  ]
+            },
+            {
+                  "name": "Vela Solina",
+                  "text": "A Vela Solina egy Šibenikben található festői tó, amely tökéletes a víz és a környező növényvilág megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        15.882342,
+                        43.710055
+                  ]
+            },
+            {
+                  "name": "En Ten Tini",
+                  "text": "Az En Ten Tini egy kedves játszótér Šibenikben, ahol a családok megpihenhetnek, miközben a gyerekek élvezik a játékeszközöket.",
+                  "category": "family",
+                  "coords": [
+                        15.897985,
+                        43.731523
+                  ]
+            },
+            {
+                  "name": "LVLup",
+                  "text": "Az LVLup egy šibeniki játékterem, amely videojátékokkal és szórakoztató tevékenységekkel várja a tinédzsereket és a családokat.",
+                  "category": "family",
+                  "coords": [
+                        15.912319,
+                        43.71345
+                  ]
+            },
+            {
+                  "name": "Solaris Aqua Park",
+                  "text": "Nagy vízipark Sibenikben, tematikus csúszdákkal és élménymedencékkel családoknak.",
+                  "category": "family",
+                  "coords": [
+                        15.889581,
+                        43.699545
+                  ]
+            },
+            {
+                  "name": "Aqua Rain Fortress",
+                  "text": "Vár alakú úszómedence Sibenikben játékos elemekkel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        15.888561,
+                        43.699856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej Grada Šibenika",
+                  "text": "Muzeul orașului situat în fostul Palat al Ducelui, prezentând istoria orașului Šibenik.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Tvrđava svetog Mihovila",
+                  "text": "Cetate medievală care domină orașul Šibenik, renumită pentru scena sa în aer liber.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "Teatrul Național Croat din Šibenik, un centru pentru cultură și artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Tvrđava Barone",
+                  "text": "Cetatea Barone a fost construită în 1646 pentru a apăra orașul Šibenik de atacurile otomane.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "Tvrđava svetog Ivana",
+                  "text": "Cetatea Sfântul Ioan domină orașul de pe un deal, oferind protecție în secolul al XVII-lea.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Plaja urbană Banj oferă o vedere spectaculoasă asupra centrului istoric al orașului Šibenik.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Cameră memorială dedicată legendarului baschetbalist Dražen Petrović în orașul său natal.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "Centru de interpretare al Catedralei Sfântul Iacob, situat în Palatul Galbiani.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "Un deal în apropiere de Šibenik ce oferă panorame asupra peisajului carstic din jur.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "Un vârf în hinterlandul orașului Šibenik, ideal pentru drumeții și explorarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "Acest vârf de munte de lângă Šibenik se înalță deasupra peisajului dalmat înconjurător. Vizitatorii care urcă pe Lobor se pot bucura de o priveliște vastă în mijlocul naturii neatinse.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "Un parc memorial din Šibenik, dedicat luptătorilor de rezistență executați în timpul celui de-al Doilea Război Mondial.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "Un spațiu cultural pe peninsula Martinska, cunoscut pentru evenimentele de muzică și artă din timpul verii.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "Un centru cultural din Šibenik numit după muzicianul Arsen Dedić, care găzduiește concerte și proiecții de filme.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "Un semn de bun venit la intrarea în Šibenik, reprezentând un punct popular pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Morski tunel",
+                  "text": "Un fost tunel militar în canalul Sfântul Ante, folosit în trecut pentru protecția navelor marinei.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Samostanski vrt sv. Lovre",
+                  "text": "O grădină mănăstirească medievală restaurată cu grijă, care găzduiește o colecție de plante medicinale și condimente.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "O biserică gotică elegantă din secolul al XIV-lea, situată în centrul istoric al orașului Šibenik, lângă mare.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            },
+            {
+                  "name": "Prokljansko jezero",
+                  "text": "Prokljansko jezero din Sibenik este un lac mare care se leagă de mare, făcându-l un loc minunat pentru a aprecia peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
+            },
+            {
+                  "name": "Mala Solina",
+                  "text": "Mala Solina este un lac din apropiere de Sibenik, care oferă un mediu liniștitor pentru plimbări prin natura de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        15.866655,
+                        43.712038
+                  ]
+            },
+            {
+                  "name": "Vela Solina",
+                  "text": "Vela Solina este un lac pitoresc situat în Sibenik, perfect pentru a admira apa și flora înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        15.882342,
+                        43.710055
+                  ]
+            },
+            {
+                  "name": "En Ten Tini",
+                  "text": "En Ten Tini este un loc de joacă minunat pentru copii din Sibenik, unde familiile se pot odihni în timp ce copiii se bucură de echipamentele de joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.897985,
+                        43.731523
+                  ]
+            },
+            {
+                  "name": "LVLup",
+                  "text": "LVLup este o sală de jocuri din Sibenik, care oferă jocuri video și activități distractive pentru adolescenți și familii.",
+                  "category": "family",
+                  "coords": [
+                        15.912319,
+                        43.71345
+                  ]
+            },
+            {
+                  "name": "Solaris Aqua Park",
+                  "text": "Un parc acvatic mare în Sibenik, cu tobogane tematice și piscine cu experiențe pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        15.889581,
+                        43.699545
+                  ]
+            },
+            {
+                  "name": "Aqua Rain Fortress",
+                  "text": "O piscină în Sibenik cu elemente ludice pentru copii, integrată într-un decor de fortăreață.",
+                  "category": "family",
+                  "coords": [
+                        15.888561,
+                        43.699856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šibenik Museum",
+                  "text": "City museum located in the historic Duke's Palace, detailing the history of Šibenik.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Fortress",
+                  "text": "Medieval fortress overlooking Šibenik, known for its open-air summer stage.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "The Croatian National Theater in Šibenik, a center for culture and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Barone Fortress",
+                  "text": "Barone Fortress was built in 1646 to defend Šibenik against the Ottoman threat.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "St. John's Fortress",
+                  "text": "St. John's Fortress sits on a hill above the city and provided key defense in the 17th century.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Banj city beach offers a panoramic view of Šibenik's historic old town.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Memorial room dedicated to the basketball legend Dražen Petrović in his hometown.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "Interpretation center of St. James Cathedral located in the Galbiani Palace.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "A hill near Šibenik offering views of the surrounding karst landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "A peak in the Šibenik hinterland, ideal for hiking and nature exploration.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "This mountain peak near Šibenik rises above the surrounding Dalmatian landscape. Visitors to Lobor can expect a sweeping view amidst untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "A memorial park in Šibenik dedicated to the resistance fighters executed during World War II.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "A cultural venue on the Martinska peninsula, known for its summer music and arts events.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "A cultural center in Šibenik named after musician Arsen Dedić, serving as a venue for concerts and films.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "A welcome sign at the entrance to Šibenik, serving as a popular photo spot for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Undersea tunnel",
+                  "text": "A former military tunnel in the St. Anthony Channel, previously used for protecting navy ships.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Garden of St. Lawrence Monastery",
+                  "text": "A carefully restored medieval monastery garden housing a collection of medicinal plants and spices.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "An elegant 14th-century Gothic church located in the historical center of Šibenik by the sea.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            },
+            {
+                  "name": "Prokljansko jezero",
+                  "text": "Prokljansko jezero in Sibenik is a large lake connecting to the sea, making it a great place to appreciate the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.866879,
+                        43.812935
+                  ]
+            },
+            {
+                  "name": "Mala Solina",
+                  "text": "Mala Solina is a lake near Sibenik offering a calming environment for coastal nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        15.866655,
+                        43.712038
+                  ]
+            },
+            {
+                  "name": "Vela Solina",
+                  "text": "Vela Solina is a scenic lake situated in Sibenik, perfect for admiring the water and surrounding flora.",
+                  "category": "natural",
+                  "coords": [
+                        15.882342,
+                        43.710055
+                  ]
+            },
+            {
+                  "name": "En Ten Tini",
+                  "text": "En Ten Tini is a lovely children's playground in Sibenik where families can rest while kids enjoy the play equipment.",
+                  "category": "family",
+                  "coords": [
+                        15.897985,
+                        43.731523
+                  ]
+            },
+            {
+                  "name": "LVLup",
+                  "text": "LVLup is an amusement arcade in Sibenik featuring video games and fun activities for teenagers and families.",
+                  "category": "family",
+                  "coords": [
+                        15.912319,
+                        43.71345
+                  ]
+            },
+            {
+                  "name": "Solaris Aqua Park",
+                  "text": "A large water park in Sibenik featuring themed slides and experience pools for families.",
+                  "category": "family",
+                  "coords": [
+                        15.889581,
+                        43.699545
+                  ]
+            },
+            {
+                  "name": "Aqua Rain Fortress",
+                  "text": "A swimming pool in Sibenik with playful elements for children set in a fortress-themed area.",
+                  "category": "family",
+                  "coords": [
+                        15.888561,
+                        43.699856
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Šibenik Museum",
+                  "text": "Muzej grada Šibenika smješten u Kneževoj palači, čuva bogatu povijest grada.",
+                  "category": "museum",
+                  "coords": [
+                        15.889126,
+                        43.735374
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Fortress",
+                  "text": "Tvrđava sv. Mihovila je najstarija šibenska utvrda, danas poznata kao ljetna pozornica.",
+                  "category": "castle",
+                  "coords": [
+                        15.889587,
+                        43.737621
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište u Šibeniku",
+                  "text": "Hrvatsko narodno kazalište u Šibeniku središte je kulturnog i umjetničkog života grada.",
+                  "category": "cultural",
+                  "coords": [
+                        15.892972,
+                        43.734926
+                  ]
+            },
+            {
+                  "name": "Barone Fortress",
+                  "text": "Tvrđava Barone izgrađena je 1646. godine radi obrane Šibenika od Osmanlija.",
+                  "category": "castle",
+                  "coords": [
+                        15.89647,
+                        43.737273
+                  ]
+            },
+            {
+                  "name": "St. John's Fortress",
+                  "text": "Tvrđava sv. Ivana nalazi se na brdu iznad Šibenika i pružala je ključnu obranu u 17. stoljeću.",
+                  "category": "castle",
+                  "coords": [
+                        15.893881,
+                        43.740441
+                  ]
+            },
+            {
+                  "name": "Banj",
+                  "text": "Gradska plaža Banj nudi jedinstven pogled na staru gradsku jezgru Šibenika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.88408,
+                        43.741443
+                  ]
+            },
+            {
+                  "name": "Spomen soba Dražen Petrović",
+                  "text": "Spomen soba posvećena je košarkaškom velikanu Draženu Petroviću u njegovu rodnom gradu.",
+                  "category": "museum",
+                  "coords": [
+                        15.902338,
+                        43.730401
+                  ]
+            },
+            {
+                  "name": "Civitas Sacra",
+                  "text": "Interpretacijski centar katedrale sv. Jakova smješten u palači Galbiani.",
+                  "category": "museum",
+                  "coords": [
+                        15.89127,
+                        43.735027
+                  ]
+            },
+            {
+                  "name": "Oštra glava",
+                  "text": "Uzvisina u okolici Šibenika s koje se pruža pogled na okolni krški krajolik.",
+                  "category": "natural",
+                  "coords": [
+                        15.874339,
+                        43.730935
+                  ]
+            },
+            {
+                  "name": "Tusta",
+                  "text": "Brdo u šibenskom zaleđu idealno za pješačenje i ljubitelje prirode.",
+                  "category": "natural",
+                  "coords": [
+                        15.863169,
+                        43.742684
+                  ]
+            },
+            {
+                  "name": "Lobor",
+                  "text": "Ovaj planinski vrh u blizini Šibenika uzdiže se iznad okolnog dalmatinskog krajolika. Posjetitelje Lobora očekuje širok pogled u netaknutoj prirodi.",
+                  "category": "natural",
+                  "coords": [
+                        15.877719,
+                        43.725668
+                  ]
+            },
+            {
+                  "name": "Spomen-park Šubićevac",
+                  "text": "Spomen-park u Šibeniku posvećen borcima pokreta otpora strijeljanima tijekom Drugog svjetskog rata.",
+                  "category": "park",
+                  "coords": [
+                        15.897141,
+                        43.742452
+                  ]
+            },
+            {
+                  "name": "LjeTUj na Martinskoj - Udruga Disco Gimnazija",
+                  "text": "Kulturno odredište na Martinskoj, poznato po ljetnim glazbenim i umjetničkim događanjima.",
+                  "category": "landmark",
+                  "coords": [
+                        15.875901,
+                        43.738298
+                  ]
+            },
+            {
+                  "name": "kuća umjetnosti Arsen",
+                  "text": "Kulturni centar u Šibeniku nazvan po glazbeniku Arsenu Dediću, mjesto za koncerte i filmske projekcije.",
+                  "category": "cultural",
+                  "coords": [
+                        15.891951,
+                        43.732744
+                  ]
+            },
+            {
+                  "name": "Welcome to Sibenik Sign",
+                  "text": "Natpis dobrodošlice na ulazu u Šibenik, popularno mjesto za fotografiranje posjetitelja.",
+                  "category": "landmark",
+                  "coords": [
+                        15.870808,
+                        43.726846
+                  ]
+            },
+            {
+                  "name": "Undersea tunnel",
+                  "text": "Bivši vojni tunel u kanalu sv. Ante, nekada korišten za zaklon ratnih brodova.",
+                  "category": "historical",
+                  "coords": [
+                        15.874264,
+                        43.727182
+                  ]
+            },
+            {
+                  "name": "Garden of St. Lawrence Monastery",
+                  "text": "Pomno obnovljeni srednjovjekovni samostanski vrt u kojem se uzgaja ljekovito bilje i začini.",
+                  "category": "landmark",
+                  "coords": [
+                        15.889486,
+                        43.736467
+                  ]
+            },
+            {
+                  "name": "Crkva sv. Dominika",
+                  "text": "Elegantna gotička crkva iz 14. stoljeća smještena u povijesnoj jezgri Šibenika uz more.",
+                  "category": "religious",
+                  "coords": [
+                        15.888489,
+                        43.736506
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Šibenik", hu: "Sibenik", ro: "Šibenik", en: "Šibenik"},
@@ -7737,6 +8810,15 @@ imageHint: "Vinkovci central square and church",
                         16.777517,
                         45.480063
                   ]
+            },
+            {
+                  "name": "bazen Kutina",
+                  "text": "Ein Schwimmbad in Kutina, das der lokalen Bevölkerung für Training und Erholung dient.",
+                  "category": "family",
+                  "coords": [
+                        16.786744,
+                        45.489678
+                  ]
             }
       ],
       "hu": [
@@ -7765,6 +8847,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.777517,
                         45.480063
+                  ]
+            },
+            {
+                  "name": "bazen Kutina",
+                  "text": "Úszómedence Kutinában, amely a helyi lakosság edzését és kikapcsolódását szolgálja.",
+                  "category": "family",
+                  "coords": [
+                        16.786744,
+                        45.489678
                   ]
             }
       ],
@@ -7795,6 +8886,15 @@ imageHint: "Vinkovci central square and church",
                         16.777517,
                         45.480063
                   ]
+            },
+            {
+                  "name": "bazen Kutina",
+                  "text": "O piscină în Kutina care deservește populația locală pentru antrenament și recreere.",
+                  "category": "family",
+                  "coords": [
+                        16.786744,
+                        45.489678
+                  ]
             }
       ],
       "en": [
@@ -7823,6 +8923,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.777517,
                         45.480063
+                  ]
+            },
+            {
+                  "name": "bazen Kutina",
+                  "text": "A swimming pool in Kutina serving the local community for exercise and recreation.",
+                  "category": "family",
+                  "coords": [
+                        16.786744,
+                        45.489678
                   ]
             }
       ],
@@ -8348,6 +9457,24 @@ imageHint: "Vinkovci central square and church",
                         16.49451,
                         43.539857
                   ]
+            },
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "Mistral Beach Club in Solin bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Bel Etage Private Pool",
+                  "text": "Bel Etage Private Pool in Solin bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        16.496188,
+                        43.503623
+                  ]
             }
       ],
       "hu": [
@@ -8574,6 +9701,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49451,
                         43.539857
+                  ]
+            },
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "A Solin településen található Mistral Beach Club frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Bel Etage Private Pool",
+                  "text": "A Solin településen található Bel Etage Private Pool frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        16.496188,
+                        43.503623
                   ]
             }
       ],
@@ -8802,6 +9947,24 @@ imageHint: "Vinkovci central square and church",
                         16.49451,
                         43.539857
                   ]
+            },
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "Mistral Beach Club din Solin oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Bel Etage Private Pool",
+                  "text": "Bel Etage Private Pool din Solin oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        16.496188,
+                        43.503623
+                  ]
             }
       ],
       "en": [
@@ -9028,6 +10191,24 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49451,
                         43.539857
+                  ]
+            },
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "Mistral Beach Club in Solin offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Bel Etage Private Pool",
+                  "text": "Bel Etage Private Pool in Solin offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        16.496188,
+                        43.503623
                   ]
             }
       ],
@@ -14705,7 +15886,360 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-kastav-cities-v2", "sights": {"de": [{"name": "Pomorski i povijesni musej hrvatskog primorja Rijeka", "text": "Ein Museum in der Nähe von Kastav, das sich dem maritimen Erbe und der Geschichte des kroatischen Küstenlandes widmet.", "category": "museum", "coords": [14.348734, 45.373056]}, {"name": "Zavoj S", "text": "Ein Kieselstrand an der Adriaküste bei Kastav, ideal zum Entspannen am Meer.", "category": "recreational", "coords": [14.337057, 45.351787]}, {"name": "Kuća halubajskega zvočara", "text": "Ein Museum in Kastav, das der Tradition der Halubajski-Glockenschläger (Zvončari) gewidmet ist.", "category": "museum", "coords": [14.377802, 45.382818]}, {"name": "Ljetna pozornica Matulji", "text": "Eine Freilichtbühne in Matulji bei Kastav, die für verschiedene kulturelle Veranstaltungen genutzt wird.", "category": "cultural", "coords": [14.324765, 45.362512]}, {"name": "Plaža za invalide", "text": "In Kastav befindet sich dieser barrierefrei gestaltete Küstenabschnitt, der speziell für Menschen mit Behinderungen eingerichtet wurde. Ein entspannter Aufenthalt am Meer wird hier durch den erleichterten Zugang zum Wasser ermöglicht. Für einen unbeschwerten Badetag empfiehlt sich ein Besuch bei sonnigem Sommerwetter.", "category": "recreational", "coords": [14.341608, 45.350035]}, {"name": "Kupalište hotela Hilton", "text": "Der Strandbereich des Hilton-Resorts bei Kastav, der modernen Komfort und kristallklares Wasser bietet.", "category": "recreational", "coords": [14.349924, 45.346207]}], "hu": [{"name": "Pomorski i povijesni musej hrvatskog primorja Rijeka", "text": "Kastav közelében található múzeum, amely a horvát partvidék tengerészeti örökségét és történelmét mutatja be.", "category": "museum", "coords": [14.348734, 45.373056]}, {"name": "Zavoj S", "text": "Kavicsos strand az Adria partján Kastav közelében, ideális pihenésre a tengerparton.", "category": "recreational", "coords": [14.337057, 45.351787]}, {"name": "Kuća halubajskega zvočara", "text": "Kastavi múzeum, amely a halubajski kolomposok (zvončari) népi hagyományát mutatja be.", "category": "museum", "coords": [14.377802, 45.382818]}, {"name": "Ljetna pozornica Matulji", "text": "Matuljiban, Kastav közelében található szabadtéri színpad, amely különféle kulturális eseményeknek ad otthont.", "category": "cultural", "coords": [14.324765, 45.362512]}, {"name": "Plaža za invalide", "text": "Kastav városában található ez a speciálisan kialakított partszakasz, amely akadálymentes hozzáférést biztosít a tengerhez. A mozgásukban korlátozott látogatók itt biztonságosan és kényelmesen élvezhetik a fürdőzést. Egy meleg nyári napon ideális választás a gondtalan pihenéshez.", "category": "recreational", "coords": [14.341608, 45.350035]}, {"name": "Kupalište hotela Hilton", "text": "A Hilton üdülőhely strandja Kastav közelében, amely modern kényelmet és kristálytiszta vizet kínál.", "category": "recreational", "coords": [14.349924, 45.346207]}], "ro": [{"name": "Pomorski i povijesni musej hrvatskog primorja Rijeka", "text": "Un muzeu situat lângă Kastav, dedicat patrimoniului maritim și istoriei litoralului croat.", "category": "museum", "coords": [14.348734, 45.373056]}, {"name": "Zavoj S", "text": "O plajă cu pietriš pe coasta Adriaticii, lângă Kastav, ideală pentru relaxare la malul mării.", "category": "recreational", "coords": [14.337057, 45.351787]}, {"name": "Kuća halubajskega zvočara", "text": "Un muzeu din Kastav dedicat tradiției clopotarilor din Halubaj (zvončari).", "category": "museum", "coords": [14.377802, 45.382818]}, {"name": "Ljetna pozornica Matulji", "text": "O scenă în aer liber din Matulji, lângă Kastav, utilizată pentru diverse evenimente culturale.", "category": "cultural", "coords": [14.324765, 45.362512]}, {"name": "Plaža za invalide", "text": "Această porțiune de coastă din Kastav este amenajată special pentru a oferi accesibilitate persoanelor cu dizabilități. Vizitatorii se pot bucura de o experiență sigură și relaxantă în apropierea apei. O vizită în timpul verii este perfectă pentru a profita din plin de o zi liniștită la mare.", "category": "recreational", "coords": [14.341608, 45.350035]}, {"name": "Kupalište hotela Hilton", "text": "Zona de plajă a complexului Hilton de lângă Kastav, oferind confort modern și apă cristalină.", "category": "recreational", "coords": [14.349924, 45.346207]}], "en": [{"name": "Pomorski i povijesni musej hrvatskog primorja Rijeka", "text": "A museum located near Kastav dedicated to the maritime heritage and history of the Croatian Littoral.", "category": "museum", "coords": [14.348734, 45.373056]}, {"name": "Zavoj S", "text": "A pebble beach on the Adriatic coast near Kastav, ideal for relaxing by the sea.", "category": "recreational", "coords": [14.337057, 45.351787]}, {"name": "Kuća halubajskega zvočara", "text": "A museum in Kastav dedicated to the tradition of the Halubajski bell ringers (zvončari).", "category": "museum", "coords": [14.377802, 45.382818]}, {"name": "Ljetna pozornica Matulji", "text": "An open-air stage in Matulji near Kastav, used for various cultural events and concerts.", "category": "cultural", "coords": [14.324765, 45.362512]}, {"name": "Beach for the disabled", "text": "Located in Kastav, this specially equipped coastal section is designed to offer full accessibility for people with disabilities. Visitors can enjoy a safe and comfortable environment for swimming and relaxing by the sea. Arriving on a warm summer day guarantees a carefree coastal experience.", "category": "recreational", "coords": [14.341608, 45.350035]}, {"name": "Kupalište hotela Hilton", "text": "The beach area of the Hilton resort near Kastav, offering modern amenities and crystal clear water.", "category": "recreational", "coords": [14.349924, 45.346207]}], "hr": [{"name": "Pomorski i povijesni musej hrvatskog primorja Rijeka", "text": "Muzej u blizini Kastva posvećen pomorskoj baštini i povijesti Hrvatskog primorja.", "category": "museum", "coords": [14.348734, 45.373056]}, {"name": "Zavoj S", "text": "Šljunčana plaža na obali Jadrana kod Kastva, idealna za opuštanje uz more.", "category": "recreational", "coords": [14.337057, 45.351787]}, {"name": "Kuća halubajskega zvočara", "text": "Muzej u Kastvu posvećen tradiciji halubajskih zvončara.", "category": "museum", "coords": [14.377802, 45.382818]}, {"name": "Ljetna pozornica Matulji", "text": "Ljetna pozornica u Matuljima kod Kastva koja se koristi za razna kulturna događanja.", "category": "cultural", "coords": [14.324765, 45.362512]}, {"name": "Beach for the disabled", "text": "Ovaj posebno opremljen dio obale u Kastvu osmišljen je kako bi pružio pristupačnost osobama s invaliditetom. Posjetitelji ovdje mogu uživati u sigurnom i opuštenom okruženju za kupanje i boravak uz more. Topli ljetni dani savršeni su za bezbrižan odmor na ovoj plaži.", "category": "recreational", "coords": [14.341608, 45.350035]}, {"name": "Kupalište hotela Hilton", "text": "Plaža resorta Hilton kod Kastva koja nudi moderan komfor i kristalno čisto more.", "category": "recreational", "coords": [14.349924, 45.346207]}]},
+    id: "croatia-kastav-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "Ein Museum in der Nähe von Kastav, das sich dem maritimen Erbe und der Geschichte des kroatischen Küstenlandes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "Ein Kieselstrand an der Adriaküste bei Kastav, ideal zum Entspannen am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "Ein Museum in Kastav, das der Tradition der Halubajski-Glockenschläger (Zvončari) gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "Eine Freilichtbühne in Matulji bei Kastav, die für verschiedene kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Plaža za invalide",
+                  "text": "In Kastav befindet sich dieser barrierefrei gestaltete Küstenabschnitt, der speziell für Menschen mit Behinderungen eingerichtet wurde. Ein entspannter Aufenthalt am Meer wird hier durch den erleichterten Zugang zum Wasser ermöglicht. Für einen unbeschwerten Badetag empfiehlt sich ein Besuch bei sonnigem Sommerwetter.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "Der Strandbereich des Hilton-Resorts bei Kastav, der modernen Komfort und kristallklares Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            },
+            {
+                  "name": "Plaža Ploče",
+                  "text": "Ein Strandresort in Kastav, das Besuchern Zugang zum Meer und verschiedenen Annehmlichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.371371,
+                        45.340805
+                  ]
+            },
+            {
+                  "name": "Plaža Črnikovica",
+                  "text": "Ein beliebter Strandabschnitt in Kastav für ein erfrischendes Bad an der Küste.",
+                  "category": "family",
+                  "coords": [
+                        14.321409,
+                        45.350961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "Kastav közelében található múzeum, amely a horvát partvidék tengerészeti örökségét és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "Kavicsos strand az Adria partján Kastav közelében, ideális pihenésre a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "Kastavi múzeum, amely a halubajski kolomposok (zvončari) népi hagyományát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "Matuljiban, Kastav közelében található szabadtéri színpad, amely különféle kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Plaža za invalide",
+                  "text": "Kastav városában található ez a speciálisan kialakított partszakasz, amely akadálymentes hozzáférést biztosít a tengerhez. A mozgásukban korlátozott látogatók itt biztonságosan és kényelmesen élvezhetik a fürdőzést. Egy meleg nyári napon ideális választás a gondtalan pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "A Hilton üdülőhely strandja Kastav közelében, amely modern kényelmet és kristálytiszta vizet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            },
+            {
+                  "name": "Plaža Ploče",
+                  "text": "Tengerparti üdülőhely Kastavban, amely hozzáférést biztosít a tengerhez és különféle kényelmi szolgáltatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        14.371371,
+                        45.340805
+                  ]
+            },
+            {
+                  "name": "Plaža Črnikovica",
+                  "text": "Népszerű tengerparti szakasz Kastavban egy frissítő fürdőzéshez a parton.",
+                  "category": "family",
+                  "coords": [
+                        14.321409,
+                        45.350961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "Un muzeu situat lângă Kastav, dedicat patrimoniului maritim și istoriei litoralului croat.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "O plajă cu pietriš pe coasta Adriaticii, lângă Kastav, ideală pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "Un muzeu din Kastav dedicat tradiției clopotarilor din Halubaj (zvončari).",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "O scenă în aer liber din Matulji, lângă Kastav, utilizată pentru diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Plaža za invalide",
+                  "text": "Această porțiune de coastă din Kastav este amenajată special pentru a oferi accesibilitate persoanelor cu dizabilități. Vizitatorii se pot bucura de o experiență sigură și relaxantă în apropierea apei. O vizită în timpul verii este perfectă pentru a profita din plin de o zi liniștită la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "Zona de plajă a complexului Hilton de lângă Kastav, oferind confort modern și apă cristalină.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            },
+            {
+                  "name": "Plaža Ploče",
+                  "text": "O stațiune de plajă în Kastav, care oferă vizitatorilor acces la mare și diverse facilități.",
+                  "category": "family",
+                  "coords": [
+                        14.371371,
+                        45.340805
+                  ]
+            },
+            {
+                  "name": "Plaža Črnikovica",
+                  "text": "O porțiune de plajă populară în Kastav pentru o baie răcoritoare la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.321409,
+                        45.350961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "A museum located near Kastav dedicated to the maritime heritage and history of the Croatian Littoral.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "A pebble beach on the Adriatic coast near Kastav, ideal for relaxing by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "A museum in Kastav dedicated to the tradition of the Halubajski bell ringers (zvončari).",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "An open-air stage in Matulji near Kastav, used for various cultural events and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Beach for the disabled",
+                  "text": "Located in Kastav, this specially equipped coastal section is designed to offer full accessibility for people with disabilities. Visitors can enjoy a safe and comfortable environment for swimming and relaxing by the sea. Arriving on a warm summer day guarantees a carefree coastal experience.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "The beach area of the Hilton resort near Kastav, offering modern amenities and crystal clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            },
+            {
+                  "name": "Beach Ploče",
+                  "text": "A beach resort in Kastav offering visitors access to the sea and various amenities.",
+                  "category": "family",
+                  "coords": [
+                        14.371371,
+                        45.340805
+                  ]
+            },
+            {
+                  "name": "Plaža Črnikovica",
+                  "text": "A popular beach section in Kastav for a refreshing swim on the coast.",
+                  "category": "family",
+                  "coords": [
+                        14.321409,
+                        45.350961
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Pomorski i povijesni musej hrvatskog primorja Rijeka",
+                  "text": "Muzej u blizini Kastva posvećen pomorskoj baštini i povijesti Hrvatskog primorja.",
+                  "category": "museum",
+                  "coords": [
+                        14.348734,
+                        45.373056
+                  ]
+            },
+            {
+                  "name": "Zavoj S",
+                  "text": "Šljunčana plaža na obali Jadrana kod Kastva, idealna za opuštanje uz more.",
+                  "category": "recreational",
+                  "coords": [
+                        14.337057,
+                        45.351787
+                  ]
+            },
+            {
+                  "name": "Kuća halubajskega zvočara",
+                  "text": "Muzej u Kastvu posvećen tradiciji halubajskih zvončara.",
+                  "category": "museum",
+                  "coords": [
+                        14.377802,
+                        45.382818
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica Matulji",
+                  "text": "Ljetna pozornica u Matuljima kod Kastva koja se koristi za razna kulturna događanja.",
+                  "category": "cultural",
+                  "coords": [
+                        14.324765,
+                        45.362512
+                  ]
+            },
+            {
+                  "name": "Beach for the disabled",
+                  "text": "Ovaj posebno opremljen dio obale u Kastvu osmišljen je kako bi pružio pristupačnost osobama s invaliditetom. Posjetitelji ovdje mogu uživati u sigurnom i opuštenom okruženju za kupanje i boravak uz more. Topli ljetni dani savršeni su za bezbrižan odmor na ovoj plaži.",
+                  "category": "recreational",
+                  "coords": [
+                        14.341608,
+                        45.350035
+                  ]
+            },
+            {
+                  "name": "Kupalište hotela Hilton",
+                  "text": "Plaža resorta Hilton kod Kastva koja nudi moderan komfor i kristalno čisto more.",
+                  "category": "recreational",
+                  "coords": [
+                        14.349924,
+                        45.346207
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Kastav", hu: "Kasztav", ro: "Kastav", en: "Kastav"},
@@ -16269,7 +17803,52 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-novi-marof-cities-v2",
+    id: "croatia-novi-marof-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Izletište Topličica",
+                  "text": "Izletište Topličica in Novi Marof bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        16.290609,
+                        46.161377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Izletište Topličica",
+                  "text": "A Novi Marof településen található Izletište Topličica frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        16.290609,
+                        46.161377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Izletište Topličica",
+                  "text": "Izletište Topličica din Novi Marof oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        16.290609,
+                        46.161377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Izletište Topličica",
+                  "text": "Izletište Topličica in Novi Marof offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        16.290609,
+                        46.161377
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Novi Marof", hu: "Novi Marof", ro: "Novi Marof", en: "Novi Marof"},

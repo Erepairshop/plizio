@@ -157,6 +157,231 @@ export const austriaCitiesV2: POI[] = [
                         13.827252,
                         46.587966
                   ]
+            },
+            {
+                  "name": "Dinzlschloss",
+                  "text": "Ein historisches Renaissanceschloss in Villach, auch als Schloss Mörtenegg bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        13.831349,
+                        46.616141
+                  ]
+            },
+            {
+                  "name": "Museum der Stadt Villach",
+                  "text": "Das Museum präsentiert die Geschichte und Kultur der Stadt Villach.",
+                  "category": "museum",
+                  "coords": [
+                        13.844112,
+                        46.613149
+                  ]
+            },
+            {
+                  "name": "Schloss Werthenau",
+                  "text": "Ein historisches Schlossgebäude im Villacher Stadtteil Lind.",
+                  "category": "castle",
+                  "coords": [
+                        13.826929,
+                        46.60552
+                  ]
+            },
+            {
+                  "name": "Kremlhoftheater Villach",
+                  "text": "Das Theater gilt als eines der kleinsten regelmäßig bespielten Theater der Welt.",
+                  "category": "cultural",
+                  "coords": [
+                        13.852894,
+                        46.607805
+                  ]
+            },
+            {
+                  "name": "Kirche im Stadtpark",
+                  "text": "Eine evangelische Kirche im zentralen Stadtpark von Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.844872,
+                        46.608193
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Magdalen",
+                  "text": "Eine katholische Filialkirche, die markant auf einem Hügel in Villach liegt.",
+                  "category": "religious",
+                  "coords": [
+                        13.889252,
+                        46.612207
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "Eine moderne römisch-katholische Pfarrkirche im Stadtteil Villach-Auen.",
+                  "category": "religious",
+                  "coords": [
+                        13.843873,
+                        46.596754
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Martin",
+                  "text": "Eine bedeutende barocke Pfarrkirche im Nordwesten von Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.833882,
+                        46.618122
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Nikolai",
+                  "text": "Eine neugotische Kirche, die für ihr markantes Erscheinungsbild bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.84959,
+                        46.616073
+                  ]
+            },
+            {
+                  "name": "Heiligenkreuzkirche",
+                  "text": "Eine barocke Wallfahrtskirche am südlichen Stadtrand von Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.851902,
+                        46.609015
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "Eine traditionelle römisch-katholische Pfarrkirche im Stadtteil Sankt Leonhard.",
+                  "category": "religious",
+                  "coords": [
+                        13.859779,
+                        46.625366
+                  ]
+            },
+            {
+                  "name": "Sankt Johanner Kirche",
+                  "text": "Eine kleine historische Filialkirche im Stadtteil Sankt Johann.",
+                  "category": "religious",
+                  "coords": [
+                        13.825788,
+                        46.608748
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "Die römisch-katholische Pfarrkirche des Stadtteils Völkendorf.",
+                  "category": "religious",
+                  "coords": [
+                        13.829767,
+                        46.606412
+                  ]
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Eine moderne evangelische Kirche im Villacher Stadtteil Lind.",
+                  "category": "religious",
+                  "coords": [
+                        13.836184,
+                        46.626409
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Maria Gail",
+                  "text": "Eine bedeutende Wallfahrtskirche mit reicher Innenausstattung in Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.876337,
+                        46.59936
+                  ]
+            },
+            {
+                  "name": "Anstaltskapelle des Landeskrankenhauses",
+                  "text": "Die Kapelle dient der geistlichen Betreuung im Landeskrankenhaus Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.857999,
+                        46.615365
+                  ]
+            },
+            {
+                  "name": "Filialkirche Heilige Margaretha",
+                  "text": "Eine kleine, charmante Filialkirche in der Umgebung von Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.846936,
+                        46.631827
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Villach",
+                  "text": "Das moderne Kirchengebäude der Neuapostolischen Gemeinde in Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.839211,
+                        46.622216
+                  ]
+            },
+            {
+                  "name": "Schauraum Villacher Burg",
+                  "text": "Ein Ausstellungsraum in der historischen Villacher Burg, der Stadtgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.84328,
+                        46.615898
+                  ]
+            },
+            {
+                  "name": "Automuseum TAF-TIMER",
+                  "text": "Ein privates Automuseum, das sich auf Oldtimer und klassische Fahrzeuge spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        13.867921,
+                        46.623308
+                  ]
+            },
+            {
+                  "name": "Relief von Kärnten",
+                  "text": "Ein großflächiges plastisches Landschaftsmodell des Bundeslandes Kärnten.",
+                  "category": "museum",
+                  "coords": [
+                        13.846882,
+                        46.609995
+                  ]
+            },
+            {
+                  "name": "Galerie MA Villach",
+                  "text": "Eine Galerie für zeitgenössische Kunst im Zentrum von Villach.",
+                  "category": "museum",
+                  "coords": [
+                        13.842137,
+                        46.61231
+                  ]
+            },
+            {
+                  "name": "Paracelsushof",
+                  "text": "Ein historischer Renaissancehof, der mit dem Arzt Paracelsus verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        13.846325,
+                        46.614267
+                  ]
+            },
+            {
+                  "name": "Maria-Immaculata-Säule",
+                  "text": "Eine barocke Gedenksäule zu Ehren der Maria Immaculata im Stadtzentrum.",
+                  "category": "historical",
+                  "coords": [
+                        13.844228,
+                        46.614507
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte",
+                  "text": "Ein Ort des Gedenkens an historische Ereignisse oder Persönlichkeiten in Villach.",
+                  "category": "historical",
+                  "coords": [
+                        13.845204,
+                        46.613289
+                  ]
             }
       ],
       "hu": [
@@ -311,6 +536,231 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.827252,
                         46.587966
+                  ]
+            },
+            {
+                  "name": "Dinzlschloss",
+                  "text": "Történelmi reneszánsz kastély Villachban, más néven Schloss Mörtenegg.",
+                  "category": "castle",
+                  "coords": [
+                        13.831349,
+                        46.616141
+                  ]
+            },
+            {
+                  "name": "Museum der Stadt Villach",
+                  "text": "A múzeum Villach városának történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.844112,
+                        46.613149
+                  ]
+            },
+            {
+                  "name": "Schloss Werthenau",
+                  "text": "Történelmi kastélyépület Villach Lind városrészében.",
+                  "category": "castle",
+                  "coords": [
+                        13.826929,
+                        46.60552
+                  ]
+            },
+            {
+                  "name": "Kremlhoftheater Villach",
+                  "text": "A színházat a világ egyik legkisebb, rendszeresen működő színházaként tartják számon.",
+                  "category": "cultural",
+                  "coords": [
+                        13.852894,
+                        46.607805
+                  ]
+            },
+            {
+                  "name": "Kirche im Stadtpark",
+                  "text": "Evangélikus templom Villach központi városi parkjában.",
+                  "category": "religious",
+                  "coords": [
+                        13.844872,
+                        46.608193
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Magdalen",
+                  "text": "Katolikus templom, amely jellegzetes módon egy dombon fekszik Villachban.",
+                  "category": "religious",
+                  "coords": [
+                        13.889252,
+                        46.612207
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "Modern római katolikus plébániatemplom Villach-Auen városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        13.843873,
+                        46.596754
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Martin",
+                  "text": "Jelentős barokk plébániatemplom Villach északnyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        13.833882,
+                        46.618122
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Nikolai",
+                  "text": "Neogótikus templom, amely jellegzetes megjelenéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        13.84959,
+                        46.616073
+                  ]
+            },
+            {
+                  "name": "Heiligenkreuzkirche",
+                  "text": "Barokk zarándoktemplom Villach déli peremén.",
+                  "category": "religious",
+                  "coords": [
+                        13.851902,
+                        46.609015
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "Hagyományos római katolikus plébániatemplom Sankt Leonhard városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        13.859779,
+                        46.625366
+                  ]
+            },
+            {
+                  "name": "Sankt Johanner Kirche",
+                  "text": "Kisméretű történelmi templom Sankt Johann városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        13.825788,
+                        46.608748
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "Völkendorf városrész római katolikus plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        13.829767,
+                        46.606412
+                  ]
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Modern evangélikus templom Villach Lind városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        13.836184,
+                        46.626409
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Maria Gail",
+                  "text": "Jelentős zarándoktemplom gazdag belső díszítéssel Villachban.",
+                  "category": "religious",
+                  "coords": [
+                        13.876337,
+                        46.59936
+                  ]
+            },
+            {
+                  "name": "Anstaltskapelle des Landeskrankenhauses",
+                  "text": "A kápolna a villachi tartományi kórház lelki gondozását szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        13.857999,
+                        46.615365
+                  ]
+            },
+            {
+                  "name": "Filialkirche Heilige Margaretha",
+                  "text": "Kicsi, bájos templom Villach környékén.",
+                  "category": "religious",
+                  "coords": [
+                        13.846936,
+                        46.631827
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Villach",
+                  "text": "Az Újaposztoli Egyház modern templomépülete Villachban.",
+                  "category": "religious",
+                  "coords": [
+                        13.839211,
+                        46.622216
+                  ]
+            },
+            {
+                  "name": "Schauraum Villacher Burg",
+                  "text": "A történelmi villachi várban található kiállítóhely, amely a város történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.84328,
+                        46.615898
+                  ]
+            },
+            {
+                  "name": "Automuseum TAF-TIMER",
+                  "text": "Magán autómúzeum, amely veterán és klasszikus járművekre specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        13.867921,
+                        46.623308
+                  ]
+            },
+            {
+                  "name": "Relief von Kärnten",
+                  "text": "Karintia tartomány nagyméretű, plasztikus domborzati modellje.",
+                  "category": "museum",
+                  "coords": [
+                        13.846882,
+                        46.609995
+                  ]
+            },
+            {
+                  "name": "Galerie MA Villach",
+                  "text": "Kortárs művészeti galéria Villach központjában.",
+                  "category": "museum",
+                  "coords": [
+                        13.842137,
+                        46.61231
+                  ]
+            },
+            {
+                  "name": "Paracelsushof",
+                  "text": "Történelmi reneszánsz udvar, amely Paracelsus orvossal áll kapcsolatban.",
+                  "category": "historical",
+                  "coords": [
+                        13.846325,
+                        46.614267
+                  ]
+            },
+            {
+                  "name": "Maria-Immaculata-Säule",
+                  "text": "Barokk emlékoszlop a Maria Immaculata tiszteletére a városközpontban.",
+                  "category": "historical",
+                  "coords": [
+                        13.844228,
+                        46.614507
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte",
+                  "text": "Történelmi eseményekre vagy személyiségekre emlékeztető hely Villachban.",
+                  "category": "historical",
+                  "coords": [
+                        13.845204,
+                        46.613289
                   ]
             }
       ],
@@ -467,6 +917,231 @@ export const austriaCitiesV2: POI[] = [
                         13.827252,
                         46.587966
                   ]
+            },
+            {
+                  "name": "Dinzlschloss",
+                  "text": "Un castel istoric în stil renascentist din Villach, cunoscut și sub numele de Schloss Mörtenegg.",
+                  "category": "castle",
+                  "coords": [
+                        13.831349,
+                        46.616141
+                  ]
+            },
+            {
+                  "name": "Museum der Stadt Villach",
+                  "text": "Muzeul prezintă istoria și cultura orașului Villach.",
+                  "category": "museum",
+                  "coords": [
+                        13.844112,
+                        46.613149
+                  ]
+            },
+            {
+                  "name": "Schloss Werthenau",
+                  "text": "O clădire istorică de castel în districtul Lind din Villach.",
+                  "category": "castle",
+                  "coords": [
+                        13.826929,
+                        46.60552
+                  ]
+            },
+            {
+                  "name": "Kremlhoftheater Villach",
+                  "text": "Teatrul este considerat unul dintre cele mai mici teatre cu activitate regulată din lume.",
+                  "category": "cultural",
+                  "coords": [
+                        13.852894,
+                        46.607805
+                  ]
+            },
+            {
+                  "name": "Kirche im Stadtpark",
+                  "text": "O biserică evanghelică situată în parcul central al orașului Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.844872,
+                        46.608193
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Magdalen",
+                  "text": "O biserică filială catolică, situată pe un deal în Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.889252,
+                        46.612207
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "O biserică parohială romano-catolică modernă în districtul Villach-Auen.",
+                  "category": "religious",
+                  "coords": [
+                        13.843873,
+                        46.596754
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Martin",
+                  "text": "O importantă biserică parohială barocă în nord-vestul orașului Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.833882,
+                        46.618122
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Nikolai",
+                  "text": "O biserică neogotică cunoscută pentru aspectul său distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        13.84959,
+                        46.616073
+                  ]
+            },
+            {
+                  "name": "Heiligenkreuzkirche",
+                  "text": "O biserică barocă de pelerinaj la marginea de sud a orașului Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.851902,
+                        46.609015
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "O biserică parohială romano-catolică tradițională în districtul Sankt Leonhard.",
+                  "category": "religious",
+                  "coords": [
+                        13.859779,
+                        46.625366
+                  ]
+            },
+            {
+                  "name": "Sankt Johanner Kirche",
+                  "text": "O mică biserică filială istorică în districtul Sankt Johann.",
+                  "category": "religious",
+                  "coords": [
+                        13.825788,
+                        46.608748
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "Biserica parohială romano-catolică din districtul Völkendorf.",
+                  "category": "religious",
+                  "coords": [
+                        13.829767,
+                        46.606412
+                  ]
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "O biserică evanghelică modernă în districtul Lind din Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.836184,
+                        46.626409
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Maria Gail",
+                  "text": "O importantă biserică de pelerinaj cu un interior bogat decorat în Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.876337,
+                        46.59936
+                  ]
+            },
+            {
+                  "name": "Anstaltskapelle des Landeskrankenhauses",
+                  "text": "Capela servește asistenței spirituale în spitalul de stat din Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.857999,
+                        46.615365
+                  ]
+            },
+            {
+                  "name": "Filialkirche Heilige Margaretha",
+                  "text": "O mică și fermecătoare biserică filială în împrejurimile orașului Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.846936,
+                        46.631827
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Villach",
+                  "text": "Clădirea modernă a bisericii comunității Nouapostolice din Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.839211,
+                        46.622216
+                  ]
+            },
+            {
+                  "name": "Schauraum Villacher Burg",
+                  "text": "Un spațiu expozițional în castelul istoric din Villach, care prezintă istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        13.84328,
+                        46.615898
+                  ]
+            },
+            {
+                  "name": "Automuseum TAF-TIMER",
+                  "text": "Un muzeu auto privat specializat în mașini de epocă și vehicule clasice.",
+                  "category": "museum",
+                  "coords": [
+                        13.867921,
+                        46.623308
+                  ]
+            },
+            {
+                  "name": "Relief von Kärnten",
+                  "text": "Un model în relief de mari dimensiuni al landului Carintia.",
+                  "category": "museum",
+                  "coords": [
+                        13.846882,
+                        46.609995
+                  ]
+            },
+            {
+                  "name": "Galerie MA Villach",
+                  "text": "O galerie de artă contemporană în centrul orașului Villach.",
+                  "category": "museum",
+                  "coords": [
+                        13.842137,
+                        46.61231
+                  ]
+            },
+            {
+                  "name": "Paracelsushof",
+                  "text": "O curte istorică renascentistă legată de medicul Paracelsus.",
+                  "category": "historical",
+                  "coords": [
+                        13.846325,
+                        46.614267
+                  ]
+            },
+            {
+                  "name": "Maria-Immaculata-Säule",
+                  "text": "O coloană barocă ridicată în cinstea Mariei Immaculata în centrul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        13.844228,
+                        46.614507
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte",
+                  "text": "Un loc de comemorare a evenimentelor sau personalităților istorice din Villach.",
+                  "category": "historical",
+                  "coords": [
+                        13.845204,
+                        46.613289
+                  ]
             }
       ],
       "en": [
@@ -621,6 +1296,231 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.827252,
                         46.587966
+                  ]
+            },
+            {
+                  "name": "Dinzlschloss",
+                  "text": "A historic Renaissance castle in Villach, also known as Mörtenegg Castle.",
+                  "category": "castle",
+                  "coords": [
+                        13.831349,
+                        46.616141
+                  ]
+            },
+            {
+                  "name": "Museum der Stadt Villach",
+                  "text": "The museum presents the history and culture of the city of Villach.",
+                  "category": "museum",
+                  "coords": [
+                        13.844112,
+                        46.613149
+                  ]
+            },
+            {
+                  "name": "Schloss Werthenau",
+                  "text": "A historic castle building in the Lind district of Villach.",
+                  "category": "castle",
+                  "coords": [
+                        13.826929,
+                        46.60552
+                  ]
+            },
+            {
+                  "name": "Kremlhoftheater Villach",
+                  "text": "The theatre is considered one of the smallest regularly operating theatres in the world.",
+                  "category": "cultural",
+                  "coords": [
+                        13.852894,
+                        46.607805
+                  ]
+            },
+            {
+                  "name": "Kirche im Stadtpark",
+                  "text": "A Protestant church located in the central city park of Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.844872,
+                        46.608193
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Magdalen",
+                  "text": "A Catholic subsidiary church prominently situated on a hill in Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.889252,
+                        46.612207
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "A modern Roman Catholic parish church in the Villach-Auen district.",
+                  "category": "religious",
+                  "coords": [
+                        13.843873,
+                        46.596754
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Martin",
+                  "text": "A significant Baroque parish church in the northwest of Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.833882,
+                        46.618122
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Nikolai",
+                  "text": "A Neo-Gothic church known for its distinctive appearance.",
+                  "category": "religious",
+                  "coords": [
+                        13.84959,
+                        46.616073
+                  ]
+            },
+            {
+                  "name": "Heiligenkreuzkirche",
+                  "text": "A Baroque pilgrimage church on the southern outskirts of Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.851902,
+                        46.609015
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "A traditional Roman Catholic parish church in the Sankt Leonhard district.",
+                  "category": "religious",
+                  "coords": [
+                        13.859779,
+                        46.625366
+                  ]
+            },
+            {
+                  "name": "Sankt Johanner Kirche",
+                  "text": "A small historic subsidiary church in the Sankt Johann district.",
+                  "category": "religious",
+                  "coords": [
+                        13.825788,
+                        46.608748
+                  ]
+            },
+            {
+                  "name": "Hl. Dreifaltigkeit",
+                  "text": "The Roman Catholic parish church of the Völkendorf district.",
+                  "category": "religious",
+                  "coords": [
+                        13.829767,
+                        46.606412
+                  ]
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "A modern Protestant church in the Lind district of Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.836184,
+                        46.626409
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche Maria Gail",
+                  "text": "A significant pilgrimage church with a rich interior in Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.876337,
+                        46.59936
+                  ]
+            },
+            {
+                  "name": "Anstaltskapelle des Landeskrankenhauses",
+                  "text": "The chapel serves for spiritual care at the Villach State Hospital.",
+                  "category": "religious",
+                  "coords": [
+                        13.857999,
+                        46.615365
+                  ]
+            },
+            {
+                  "name": "Filialkirche Heilige Margaretha",
+                  "text": "A small, charming subsidiary church in the vicinity of Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.846936,
+                        46.631827
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Villach",
+                  "text": "The modern church building of the New Apostolic congregation in Villach.",
+                  "category": "religious",
+                  "coords": [
+                        13.839211,
+                        46.622216
+                  ]
+            },
+            {
+                  "name": "Schauraum Villacher Burg",
+                  "text": "An exhibition space in the historic Villach Castle showing city history.",
+                  "category": "museum",
+                  "coords": [
+                        13.84328,
+                        46.615898
+                  ]
+            },
+            {
+                  "name": "Automuseum TAF-TIMER",
+                  "text": "A private car museum specializing in vintage and classic vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        13.867921,
+                        46.623308
+                  ]
+            },
+            {
+                  "name": "Relief von Kärnten",
+                  "text": "A large-scale plastic landscape model of the state of Carinthia.",
+                  "category": "museum",
+                  "coords": [
+                        13.846882,
+                        46.609995
+                  ]
+            },
+            {
+                  "name": "Galerie MA Villach",
+                  "text": "A gallery for contemporary art in the center of Villach.",
+                  "category": "museum",
+                  "coords": [
+                        13.842137,
+                        46.61231
+                  ]
+            },
+            {
+                  "name": "Paracelsushof",
+                  "text": "A historic Renaissance courtyard associated with the physician Paracelsus.",
+                  "category": "historical",
+                  "coords": [
+                        13.846325,
+                        46.614267
+                  ]
+            },
+            {
+                  "name": "Maria-Immaculata-Säule",
+                  "text": "A Baroque column in honor of Maria Immaculata in the city center.",
+                  "category": "historical",
+                  "coords": [
+                        13.844228,
+                        46.614507
+                  ]
+            },
+            {
+                  "name": "Gedenkstätte",
+                  "text": "A site of remembrance for historical events or personalities in Villach.",
+                  "category": "historical",
+                  "coords": [
+                        13.845204,
+                        46.613289
                   ]
             }
       ]
@@ -13891,6 +14791,222 @@ export const austriaCitiesV2: POI[] = [
                         15.572844,
                         48.394946
                   ]
+            },
+            {
+                  "name": "Karikaturmuseum",
+                  "text": "Das Karikaturmuseum Krems ist das einzige Museum für Karikatur, Bildsatire und Cartoon in Österreich. Es zeigt wechselnde Ausstellungen nationaler und internationaler Künstler in einem markanten modernen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        15.588152,
+                        48.404649
+                  ]
+            },
+            {
+                  "name": "Burgruine Rehberg",
+                  "text": "Die Burgruine Rehberg thront auf einem Felsen über dem Kremstal und bietet einen weiten Ausblick auf die Umgebung. Die Überreste der mittelalterlichen Anlage sind ein beliebtes Ziel für Wanderer und Geschichtsinteressierte.",
+                  "category": "castle",
+                  "coords": [
+                        15.58459,
+                        48.431707
+                  ]
+            },
+            {
+                  "name": "Gozzoburg",
+                  "text": "Die Gozzoburg ist ein einzigartiger städtischer Palastbau aus dem 13. Jahrhundert im Zentrum von Krems. Besucher können bei Führungen die beeindruckenden Fresken und die spätgotische Kapelle besichtigen.",
+                  "category": "castle",
+                  "coords": [
+                        15.601899,
+                        48.411778
+                  ]
+            },
+            {
+                  "name": "Steiner Tor",
+                  "text": "Das Steiner Tor ist das Wahrzeichen von Krems und das einzige erhaltene der ehemals vier Stadttore. Der spätgotische Turm bildet den festlichen Eingang zur historischen Altstadt.",
+                  "category": "fortress",
+                  "coords": [
+                        15.596464,
+                        48.409834
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Veit",
+                  "text": "Die Pfarrkirche St. Veit, auch als „Dom der Wachau“ bekannt, ist eine der ältesten Barockkirchen Österreichs. Ihr prachtvoller Innenraum beherbergt wertvolle Gemälde und beeindruckende Deckenfresken.",
+                  "category": "religious",
+                  "coords": [
+                        15.599879,
+                        48.411776
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Paul",
+                  "text": "Die Pfarrkirche St. Paul im Stadtteil Lerchenfeld ist ein moderner Sakralbau aus der Mitte des 20. Jahrhunderts. Sie zeichnet sich durch ihre klare Architektur und die zeitgenössische Gestaltung des Innenraums aus.",
+                  "category": "religious",
+                  "coords": [
+                        15.616319,
+                        48.409043
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrkirche",
+                  "text": "Die Heilandskirche ist das geistliche Zentrum der evangelischen Gemeinde in Krems. Das im frühen 20. Jahrhundert errichtete Gebäude beeindruckt durch seine schlichte Eleganz und die gute Akustik.",
+                  "category": "religious",
+                  "coords": [
+                        15.596032,
+                        48.405983
+                  ]
+            },
+            {
+                  "name": "Willibrord-Kapelle",
+                  "text": "Die Willibrord-Kapelle ist eine kleine, geschichtsträchtige Kapelle in der Nähe der Donau in Krems. Sie dient heute als orthodoxes Gotteshaus und ist für ihre intime, spirituelle Atmosphäre bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        15.595496,
+                        48.410655
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Der Pulverturm in Krems ist ein mächtiger Rundturm der ehemaligen Stadtbefestigung aus dem 15. Jahrhundert. Er ist gut erhalten und zeugt von der wehrhaften Vergangenheit der Stadt an der Donau.",
+                  "category": "tower",
+                  "coords": [
+                        15.602678,
+                        48.413831
+                  ]
+            },
+            {
+                  "name": "Mauterner Brücke",
+                  "text": "Die Mauterner Brücke verbindet Krems mit der gegenüberliegenden Stadt Mautern über die Donau. Die markante Stahlkonstruktion bietet einen wunderbaren Blick auf das Stift Göttweig und die Weinberge der Wachau.",
+                  "category": "landmark",
+                  "coords": [
+                        15.574965,
+                        48.397876
+                  ]
+            },
+            {
+                  "name": "Donauwarte",
+                  "text": "Die Donauwarte ist ein Aussichtsturm auf dem Braunsdorfer Berg, der ein weites Panorama über das Donautal bietet. Sie ist ein beliebtes Ziel für Wanderungen und bietet einen der besten Fotopunkte der Region.",
+                  "category": "natural",
+                  "coords": [
+                        15.568362,
+                        48.409917
+                  ]
+            },
+            {
+                  "name": "Motorrad-Museum",
+                  "text": "Das Motorrad-Museum in Krems präsentiert eine umfangreiche Sammlung historischer Zweiräder verschiedener Epochen. Technikfans können hier seltene Exponate und Klassiker der Motorradgeschichte aus nächster Nähe bewundern.",
+                  "category": "museum",
+                  "coords": [
+                        15.561095,
+                        48.418931
+                  ]
+            },
+            {
+                  "name": "museumkrems",
+                  "text": "Das museumkrems ist im ehemaligen Dominikanerkloster untergebracht und zeigt die Stadtgeschichte sowie wertvolle Kunstsammlungen. Ein Highlight ist der begehbare Kreuzgang und die Ausstellungen zur Weinkultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        15.59729,
+                        48.411166
+                  ]
+            },
+            {
+                  "name": "Forum Frohner",
+                  "text": "Das Forum Frohner ist ein zeitgenössisches Museum, das dem Werk des österreichischen Künstlers Adolf Frohner gewidmet ist. Es befindet sich auf dem Gelände der Kunstmeile Krems und präsentiert regelmäßig wechselnde Ausstellungen moderner Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        15.584701,
+                        48.403744
+                  ]
+            },
+            {
+                  "name": "Römermuseum Mautern",
+                  "text": "Das Römermuseum Mautern zeigt archäologische Funde aus dem antiken Lager Favianis und der umliegenden Region. Besucher erhalten einen tiefen Einblick in das Alltagsleben der Römer an der Donaugrenze.",
+                  "category": "museum",
+                  "coords": [
+                        15.574956,
+                        48.394529
+                  ]
+            },
+            {
+                  "name": "Janerhof",
+                  "text": "Der Janerhof ist ein historisches Schlossgebäude in Krems, das durch seine traditionelle Bauweise beeindruckt. Es wird heute für verschiedene Zwecke genutzt und ist ein Zeugnis der adeligen Wohnkultur in Niederösterreich.",
+                  "category": "castle",
+                  "coords": [
+                        15.579353,
+                        48.392629
+                  ]
+            },
+            {
+                  "name": "Margaretenkapelle",
+                  "text": "Die Margaretenkapelle in Krems dient heute als kleinerer Ausstellungsraum und kultureller Ort innerhalb der Stadt. Das historische Gebäude bietet eine stimmungsvolle Kulisse für sakrale Kunst und lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        15.578065,
+                        48.392881
+                  ]
+            },
+            {
+                  "name": "Markttor",
+                  "text": "Das Markttor ist ein bedeutendes historisches Stadttor, das ehemals den Zugang zum Handelszentrum von Krems markierte. Es ist ein wichtiges Baudenkmal, das von der mittelalterlichen Bedeutung des Marktplatzes zeugt.",
+                  "category": "fortress",
+                  "coords": [
+                        15.586452,
+                        48.430811
+                  ]
+            },
+            {
+                  "name": "Linzertor",
+                  "text": "Das Linzertor war Teil der Befestigungsanlagen von Krems und sicherte den Weg in Richtung Westen. Heute ist es ein charakteristisches historisches Element im Stadtbild und erinnert an die alte Stadtmauer.",
+                  "category": "fortress",
+                  "coords": [
+                        15.576365,
+                        48.400254
+                  ]
+            },
+            {
+                  "name": "Antonikirche",
+                  "text": "Die Antonikirche ist eine beschauliche Kirche in Krems, die als Ort des stillen Gebets geschätzt wird. Die Architektur und die künstlerische Gestaltung des Innenraums laden Besucher zum Verweilen und zur Besinnung ein.",
+                  "category": "religious",
+                  "coords": [
+                        15.613887,
+                        48.414471
+                  ]
+            },
+            {
+                  "name": "Ehem. Andreaskapelle",
+                  "text": "Die ehemalige Andreaskapelle ist ein historisches Sakralgebäude in Krems, das heute für kulturelle Zwecke genutzt wird. Die alte Bausubstanz vermittelt einen authentischen Eindruck der spätmittelalterlichen Architektur in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        15.598984,
+                        48.409069
+                  ]
+            },
+            {
+                  "name": "Maria Hilf",
+                  "text": "Maria Hilf ist eine traditionsreiche Kapelle oder Kirche in Krems, die als wichtiges religiöses Ziel für Gläubige gilt. Sie zeichnet sich durch ihre ruhige Lage und die oft prachtvolle barocke Ausstattung aus.",
+                  "category": "religious",
+                  "coords": [
+                        15.60079,
+                        48.418327
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle",
+                  "text": "Die Friedhofskapelle in Krems an der Donau dient als ruhiger Ort für Gebete und Abschiednahmen. Das schlichte Gebäude befindet sich zentral auf dem Friedhofsgelände der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        15.61732,
+                        48.416357
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Egelsee",
+                  "text": "Die Pfarrkirche Egelsee ist ein sakraler Mittelpunkt im gleichnamigen Stadtteil von Krems an der Donau. Das Kirchengebäude prägt mit seiner Architektur das Ortsbild der kleinen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        15.56216,
+                        48.417921
+                  ]
             }
       ],
       "hu": [
@@ -13937,6 +15053,222 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.572844,
                         48.394946
+                  ]
+            },
+            {
+                  "name": "Karikaturmuseum",
+                  "text": "A Karikaturmuseum Krems Ausztria egyetlen karikatúra-, szatíra- és képregénymúzeuma. A jellegzetes modern épületben hazai és nemzetközi művészek időszaki kiállításai láthatók.",
+                  "category": "museum",
+                  "coords": [
+                        15.588152,
+                        48.404649
+                  ]
+            },
+            {
+                  "name": "Burgruine Rehberg",
+                  "text": "A Burgruine Rehberg egy sziklán trónol a Kremstal felett, széles kilátást nyújtva a környékre. A középkori vár maradványai a túrázók és a történelem iránt érdeklődők kedvelt célpontjai.",
+                  "category": "castle",
+                  "coords": [
+                        15.58459,
+                        48.431707
+                  ]
+            },
+            {
+                  "name": "Gozzoburg",
+                  "text": "A Gozzoburg egyedülálló, 13. századi városi palotaépület Krems központjában. A látogatók vezetés keretében tekinthetik meg a lenyűgöző freskókat és a késő gótikus kápolnát.",
+                  "category": "castle",
+                  "coords": [
+                        15.601899,
+                        48.411778
+                  ]
+            },
+            {
+                  "name": "Steiner Tor",
+                  "text": "A Steiner Tor Krems jelképe, és az egykori négy városkapu közül az egyetlen fennmaradt. A késő gótikus torony ünnepélyes bejáratot alkot a történelmi óvárosba.",
+                  "category": "fortress",
+                  "coords": [
+                        15.596464,
+                        48.409834
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Veit",
+                  "text": "A Pfarrkirche St. Veit, amelyet a „Wachau dómjaként” is ismernek, Ausztria egyik legrégebbi barokk temploma. Pompás belső tere értékes festményeknek és lenyűgöző mennyezeti freskóknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        15.599879,
+                        48.411776
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Paul",
+                  "text": "A Lerchenfeld negyedben található Pfarrkirche St. Paul egy modern, 20. század közepi szakrális épület. Letisztult építészete és a belső tér kortárs kialakítása jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        15.616319,
+                        48.409043
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrkirche",
+                  "text": "A Heilandskirche a kremsi evangélikus közösség szellemi központja. A 20. század elején emelt épület egyszerű eleganciájával és kiváló akusztikájával nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        15.596032,
+                        48.405983
+                  ]
+            },
+            {
+                  "name": "Willibrord-Kapelle",
+                  "text": "A Willibrord-Kapelle egy kicsi, történelmi jelentőségű kápolna a Duna közelében, Kremsben. Ma ortodox templomként szolgál, és meghitt, spirituális hangulatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        15.595496,
+                        48.410655
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "A kremsi Pulverturm az egykori városi erődítmény hatalmas, 15. századi körtornya. Jó állapotban maradt fenn, és a Dunaparti város védelmi múltjáról tanúskodik.",
+                  "category": "tower",
+                  "coords": [
+                        15.602678,
+                        48.413831
+                  ]
+            },
+            {
+                  "name": "Mauterner Brücke",
+                  "text": "A Mauterner Brücke összeköti Kremst a túloldali Mautern városával a Duna felett. A jellegzetes acélszerkezetről csodálatos kilátás nyílik a Göttweig-apátságra és a wachaui szőlőültetvényekre.",
+                  "category": "landmark",
+                  "coords": [
+                        15.574965,
+                        48.397876
+                  ]
+            },
+            {
+                  "name": "Donauwarte",
+                  "text": "A Donauwarte egy kilátótorony a Braunsdorfer Bergen, amely széles panorámát nyújt a Duna völgyére. Kedvelt túracélpont, és a régió egyik legjobb fotóhelyszíne.",
+                  "category": "natural",
+                  "coords": [
+                        15.568362,
+                        48.409917
+                  ]
+            },
+            {
+                  "name": "Motorrad-Museum",
+                  "text": "A kremsi Motorrad-Museum különféle korszakok történelmi kétkerekűinek átfogó gyűjteményét mutatja be. A technika rajongói ritka exponátumokat és a motorkerékpár-történelem klasszikusait csodálhatják meg.",
+                  "category": "museum",
+                  "coords": [
+                        15.561095,
+                        48.418931
+                  ]
+            },
+            {
+                  "name": "museumkrems",
+                  "text": "A museumkrems az egykori dominikánus kolostorban kapott helyet, bemutatva a város történelmét és értékes művészeti gyűjteményeit. Kiemelkedő látnivaló a bejárható kolostorfolyosó és a régió borkultúráját bemutató kiállítások.",
+                  "category": "museum",
+                  "coords": [
+                        15.59729,
+                        48.411166
+                  ]
+            },
+            {
+                  "name": "Forum Frohner",
+                  "text": "A Forum Frohner egy kortárs múzeum, amelyet Adolf Frohner osztrák művész munkásságának szenteltek. A kremsi Kunstmeile területén található, és rendszeresen kínál időszaki modern művészeti kiállításokat.",
+                  "category": "museum",
+                  "coords": [
+                        15.584701,
+                        48.403744
+                  ]
+            },
+            {
+                  "name": "Römermuseum Mautern",
+                  "text": "A Römermuseum Mautern az ókori Favianis táborból és a környező régióból származó régészeti leleteket mutatja be. A látogatók mély betekintést nyerhetnek a rómaiak Duna-menti határvidéki életébe.",
+                  "category": "museum",
+                  "coords": [
+                        15.574956,
+                        48.394529
+                  ]
+            },
+            {
+                  "name": "Janerhof",
+                  "text": "A Janerhof egy történelmi kastélyépület Kremsben, amely hagyományos építésmódjával nyűgözi le a látogatókat. Ma különféle célokra használják, és az alsó-ausztriai nemesi lakáskultúra tanúja.",
+                  "category": "castle",
+                  "coords": [
+                        15.579353,
+                        48.392629
+                  ]
+            },
+            {
+                  "name": "Margaretenkapelle",
+                  "text": "A kremsi Margaretenkapelle ma kisebb kiállítótérként és kulturális helyszínként szolgál a városon belül. A történelmi épület hangulatos hátteret biztosít a szakrális művészet és a helyi történelem számára.",
+                  "category": "museum",
+                  "coords": [
+                        15.578065,
+                        48.392881
+                  ]
+            },
+            {
+                  "name": "Markttor",
+                  "text": "A Markttor egy jelentős történelmi városkapu, amely egykor Krems kereskedelmi központjába biztosított bejutást. Fontos műemlék, amely a piactér középkori jelentőségéről tanúskodik.",
+                  "category": "fortress",
+                  "coords": [
+                        15.586452,
+                        48.430811
+                  ]
+            },
+            {
+                  "name": "Linzertor",
+                  "text": "A Linzertor Krems erődítményrendszerének része volt, amely a nyugat felé vezető utat biztosította. Ma a városkép jellegzetes történelmi eleme, amely a régi városfalra emlékeztet.",
+                  "category": "fortress",
+                  "coords": [
+                        15.576365,
+                        48.400254
+                  ]
+            },
+            {
+                  "name": "Antonikirche",
+                  "text": "Az Antonikirche egy meghitt templom Kremsben, amelyet a csendes ima helyszíneként becsülnek. Az építészet és a belső tér művészi kialakítása hívja a látogatókat elcsendesedésre és elidőzésre.",
+                  "category": "religious",
+                  "coords": [
+                        15.613887,
+                        48.414471
+                  ]
+            },
+            {
+                  "name": "Ehem. Andreaskapelle",
+                  "text": "Az egykori Andreaskapelle egy történelmi szakrális épület Kremsben, amelyet ma kulturális célokra használnak. A régi épületszerkezet hiteles képet ad a város késő középkori építészetéről.",
+                  "category": "religious",
+                  "coords": [
+                        15.598984,
+                        48.409069
+                  ]
+            },
+            {
+                  "name": "Maria Hilf",
+                  "text": "A Maria Hilf egy nagy múltú kápolna vagy templom Kremsben, amely a hívők fontos vallási célpontja. Jellemzője a nyugodt elhelyezkedés és a gyakran pompás barokk berendezés.",
+                  "category": "religious",
+                  "coords": [
+                        15.60079,
+                        48.418327
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle",
+                  "text": "A Krems an der Donau-i temetőkápolna csendes helyszínként szolgál az imádságokhoz és a búcsúztatáshoz. Az egyszerű épület a városi temető területének központi részén található.",
+                  "category": "religious",
+                  "coords": [
+                        15.61732,
+                        48.416357
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Egelsee",
+                  "text": "Az egelseéi plébániatemplom Krems an der Donau azonos nevű városrészének szakrális központja. A templomépület építészetével meghatározza a kis település arculatát.",
+                  "category": "religious",
+                  "coords": [
+                        15.56216,
+                        48.417921
                   ]
             }
       ],
@@ -13985,6 +15317,222 @@ export const austriaCitiesV2: POI[] = [
                         15.572844,
                         48.394946
                   ]
+            },
+            {
+                  "name": "Karikaturmuseum",
+                  "text": "Karikaturmuseum Krems este singurul muzeu de caricatură, satiră vizuală și desen animat din Austria. Acesta prezintă expoziții temporare ale artiștilor naționali și internaționali într-o clădire modernă distinctivă.",
+                  "category": "museum",
+                  "coords": [
+                        15.588152,
+                        48.404649
+                  ]
+            },
+            {
+                  "name": "Burgruine Rehberg",
+                  "text": "Ruinele castelului Rehberg tronează pe o stâncă deasupra văii Krems, oferind o vedere panoramică asupra împrejurimilor. Resturile complexului medieval sunt o destinație populară pentru drumeți și pasionații de istorie.",
+                  "category": "castle",
+                  "coords": [
+                        15.58459,
+                        48.431707
+                  ]
+            },
+            {
+                  "name": "Gozzoburg",
+                  "text": "Gozzoburg este un palat urban unic din secolul al XIII-lea, situat în centrul orașului Krems. Vizitatorii pot admira frescele impresionante și capela gotică târzie în cadrul tururilor ghidate.",
+                  "category": "castle",
+                  "coords": [
+                        15.601899,
+                        48.411778
+                  ]
+            },
+            {
+                  "name": "Steiner Tor",
+                  "text": "Steiner Tor este simbolul orașului Krems și singura dintre cele patru porți medievale ale orașului care s-a păstrat. Turnul gotic târziu formează intrarea festivă în centrul istoric.",
+                  "category": "fortress",
+                  "coords": [
+                        15.596464,
+                        48.409834
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Veit",
+                  "text": "Biserica Parohială St. Veit, cunoscută și sub numele de „Catedrala din Wachau”, este una dintre cele mai vechi biserici baroce din Austria. Interiorul său magnific adăpostește picturi valoroase și fresce impresionante pe tavan.",
+                  "category": "religious",
+                  "coords": [
+                        15.599879,
+                        48.411776
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Paul",
+                  "text": "Biserica Parohială St. Paul din cartierul Lerchenfeld este un edificiu sacru modern de la mijlocul secolului al XX-lea. Se remarcă prin arhitectura sa clară și designul contemporan al interiorului.",
+                  "category": "religious",
+                  "coords": [
+                        15.616319,
+                        48.409043
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrkirche",
+                  "text": "Heilandskirche este centrul spiritual al comunității evanghelice din Krems. Clădirea, construită la începutul secolului al XX-lea, impresionează prin eleganța sa simplă și acustica bună.",
+                  "category": "religious",
+                  "coords": [
+                        15.596032,
+                        48.405983
+                  ]
+            },
+            {
+                  "name": "Willibrord-Kapelle",
+                  "text": "Capela Willibrord este o capelă mică, plină de istorie, situată lângă Dunăre în Krems. Astăzi servește ca lăcaș de cult ortodox și este cunoscută pentru atmosfera sa intimă și spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        15.595496,
+                        48.410655
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Pulverturm din Krems este un turn rotund masiv al fostei fortificații a orașului, datând din secolul al XV-lea. Este bine conservat și atestă trecutul defensiv al orașului de pe Dunăre.",
+                  "category": "tower",
+                  "coords": [
+                        15.602678,
+                        48.413831
+                  ]
+            },
+            {
+                  "name": "Mauterner Brücke",
+                  "text": "Podul Mauterner leagă Krems de orașul Mautern, situat pe malul opus al Dunării. Construcția metalică distinctivă oferă o vedere minunată asupra Abației Göttweig și a podgoriilor din Wachau.",
+                  "category": "landmark",
+                  "coords": [
+                        15.574965,
+                        48.397876
+                  ]
+            },
+            {
+                  "name": "Donauwarte",
+                  "text": "Donauwarte este un turn de observație pe muntele Braunsdorfer, oferind o panoramă largă asupra văii Dunării. Este o destinație populară pentru drumeții și oferă unul dintre cele mai bune puncte de fotografiere din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        15.568362,
+                        48.409917
+                  ]
+            },
+            {
+                  "name": "Motorrad-Museum",
+                  "text": "Muzeul Motocicletelor din Krems prezintă o colecție extinsă de vehicule istorice pe două roți din diverse epoche. Pasionații de tehnică pot admira aici exponate rare și clasice ale istoriei motocicletelor.",
+                  "category": "museum",
+                  "coords": [
+                        15.561095,
+                        48.418931
+                  ]
+            },
+            {
+                  "name": "museumkrems",
+                  "text": "museumkrems este găzduit într-o fostă mănăstire dominicană și prezintă istoria orașului, precum și colecții de artă valoroase. Un punct forte îl reprezintă clopotnița vizitabilă și expozițiile despre cultura vinului din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        15.59729,
+                        48.411166
+                  ]
+            },
+            {
+                  "name": "Forum Frohner",
+                  "text": "Forum Frohner este un muzeu contemporan dedicat operei artistului austriac Adolf Frohner. Situat în perimetrul Kunstmeile Krems, acesta prezintă regulat expoziții temporare de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        15.584701,
+                        48.403744
+                  ]
+            },
+            {
+                  "name": "Römermuseum Mautern",
+                  "text": "Muzeul Roman Mautern expune descoperiri arheologice din fostul castru antic Favianis și din regiunea înconjurătoare. Vizitatorii primesc o perspectivă profundă asupra vieții cotidiene a romanilor la granița de pe Dunăre.",
+                  "category": "museum",
+                  "coords": [
+                        15.574956,
+                        48.394529
+                  ]
+            },
+            {
+                  "name": "Janerhof",
+                  "text": "Janerhof este o clădire istorică de castel din Krems, care impresionează prin modul său tradițional de construcție. Astăzi este folosit în diverse scopuri și reprezintă o mărturie a culturii locuirii nobiliare din Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.579353,
+                        48.392629
+                  ]
+            },
+            {
+                  "name": "Margaretenkapelle",
+                  "text": "Capela Margareten din Krems servește astăzi ca spațiu expozițional restrâns și loc cultural în interiorul orașului. Clădirea istorică oferă un cadru atmosferic pentru arta sacră și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.578065,
+                        48.392881
+                  ]
+            },
+            {
+                  "name": "Markttor",
+                  "text": "Markttor este o poartă istorică importantă a orașului, care marca în trecut accesul către centrul comercial din Krems. Este un monument arhitectural semnificativ care atestă importanța medievală a pieței.",
+                  "category": "fortress",
+                  "coords": [
+                        15.586452,
+                        48.430811
+                  ]
+            },
+            {
+                  "name": "Linzertor",
+                  "text": "Poarta Linzertor făcea parte din fortificațiile orașului Krems și asigura drumul spre vest. Astăzi este un element istoric caracteristic în peisajul urban, amintind de vechiul zid al orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        15.576365,
+                        48.400254
+                  ]
+            },
+            {
+                  "name": "Antonikirche",
+                  "text": "Biserica Antonikirche este o biserică liniștită din Krems, apreciată ca loc de rugăciune tăcută. Arhitectura și designul artistic al interiorului invită vizitatorii la popas și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        15.613887,
+                        48.414471
+                  ]
+            },
+            {
+                  "name": "Ehem. Andreaskapelle",
+                  "text": "Fosta capelă Andreaskapelle este o clădire sacră istorică din Krems, folosită astăzi în scopuri culturale. Vechea structură oferă o impresie autentică a arhitecturii medievale târzii din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        15.598984,
+                        48.409069
+                  ]
+            },
+            {
+                  "name": "Maria Hilf",
+                  "text": "Maria Hilf este o capelă sau biserică tradițională din Krems, considerată o destinație religioasă importantă pentru credincioși. Se remarcă prin locația sa liniștită și, adesea, prin decorul baroc magnific.",
+                  "category": "religious",
+                  "coords": [
+                        15.60079,
+                        48.418327
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle",
+                  "text": "Capela cimitirului din Krems an der Donau servește ca un loc liniștit pentru rugăciune și rămas bun. Clădirea simplă este situată central în incinta cimitirului orașului.",
+                  "category": "religious",
+                  "coords": [
+                        15.61732,
+                        48.416357
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Egelsee",
+                  "text": "Biserica parohială Egelsee este un centru sacru în cartierul cu același nume din Krems an der Donau. Clădirea bisericii marchează aspectul localității prin arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        15.56216,
+                        48.417921
+                  ]
             }
       ],
       "en": [
@@ -14031,6 +15579,222 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.572844,
                         48.394946
+                  ]
+            },
+            {
+                  "name": "Karikaturmuseum",
+                  "text": "The Karikaturmuseum Krems is Austria's only museum for caricature, pictorial satire, and cartoons. It hosts changing exhibitions of national and international artists in a striking modern building.",
+                  "category": "museum",
+                  "coords": [
+                        15.588152,
+                        48.404649
+                  ]
+            },
+            {
+                  "name": "Burgruine Rehberg",
+                  "text": "The Burgruine Rehberg sits atop a rock above the Krems Valley, offering wide views of the surroundings. The remains of the medieval complex are a popular destination for hikers and history buffs.",
+                  "category": "castle",
+                  "coords": [
+                        15.58459,
+                        48.431707
+                  ]
+            },
+            {
+                  "name": "Gozzoburg",
+                  "text": "Gozzoburg is a unique 13th-century urban palace located in the center of Krems. Visitors can see impressive frescoes and the late Gothic chapel during guided tours.",
+                  "category": "castle",
+                  "coords": [
+                        15.601899,
+                        48.411778
+                  ]
+            },
+            {
+                  "name": "Steiner Tor",
+                  "text": "The Steiner Tor is the landmark of Krems and the only one of the former four city gates still standing. The late Gothic tower forms a grand entrance to the historic old town.",
+                  "category": "fortress",
+                  "coords": [
+                        15.596464,
+                        48.409834
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Veit",
+                  "text": "The Parish Church of St. Veit, also known as the 'Cathedral of the Wachau', is one of Austria's oldest Baroque churches. Its magnificent interior houses valuable paintings and impressive ceiling frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        15.599879,
+                        48.411776
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Paul",
+                  "text": "The Parish Church of St. Paul in the Lerchenfeld district is a modern religious building from the mid-20th century. It is characterized by its clear architecture and contemporary interior design.",
+                  "category": "religious",
+                  "coords": [
+                        15.616319,
+                        48.409043
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrkirche",
+                  "text": "The Heilandskirche is the spiritual center of the Protestant community in Krems. Built in the early 20th century, the building impresses with its simple elegance and good acoustics.",
+                  "category": "religious",
+                  "coords": [
+                        15.596032,
+                        48.405983
+                  ]
+            },
+            {
+                  "name": "Willibrord-Kapelle",
+                  "text": "The Willibrord-Kapelle is a small, historic chapel located near the Danube in Krems. It now serves as an Orthodox place of worship and is known for its intimate, spiritual atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        15.595496,
+                        48.410655
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "The Pulverturm in Krems is a massive circular tower of the former city fortifications from the 15th century. It is well-preserved and testifies to the defensive past of the city on the Danube.",
+                  "category": "tower",
+                  "coords": [
+                        15.602678,
+                        48.413831
+                  ]
+            },
+            {
+                  "name": "Mauterner Brücke",
+                  "text": "The Mauterner Brücke connects Krems with the town of Mautern across the Danube. The striking steel structure offers a wonderful view of Göttweig Abbey and the vineyards of the Wachau.",
+                  "category": "landmark",
+                  "coords": [
+                        15.574965,
+                        48.397876
+                  ]
+            },
+            {
+                  "name": "Donauwarte",
+                  "text": "The Donauwarte is an observation tower on the Braunsdorfer Berg offering a wide panorama over the Danube Valley. It is a popular hiking destination and provides one of the best photo spots in the region.",
+                  "category": "natural",
+                  "coords": [
+                        15.568362,
+                        48.409917
+                  ]
+            },
+            {
+                  "name": "Motorrad-Museum",
+                  "text": "The Motorrad-Museum in Krems presents an extensive collection of historic motorcycles from various eras. Technology fans can admire rare exhibits and classics of motorcycle history from up close.",
+                  "category": "museum",
+                  "coords": [
+                        15.561095,
+                        48.418931
+                  ]
+            },
+            {
+                  "name": "museumkrems",
+                  "text": "The museumkrems is housed in a former Dominican monastery and showcases city history along with valuable art collections. Highlights include the accessible cloister and exhibitions on the region's wine culture.",
+                  "category": "museum",
+                  "coords": [
+                        15.59729,
+                        48.411166
+                  ]
+            },
+            {
+                  "name": "Forum Frohner",
+                  "text": "Forum Frohner is a contemporary museum dedicated to the work of Austrian artist Adolf Frohner. Located within the Kunstmeile Krems, it hosts regularly changing exhibitions of modern art.",
+                  "category": "museum",
+                  "coords": [
+                        15.584701,
+                        48.403744
+                  ]
+            },
+            {
+                  "name": "Römermuseum Mautern",
+                  "text": "The Römermuseum Mautern displays archaeological finds from the ancient fort Favianis and the surrounding region. Visitors gain a deep insight into the daily life of Romans on the Danube frontier.",
+                  "category": "museum",
+                  "coords": [
+                        15.574956,
+                        48.394529
+                  ]
+            },
+            {
+                  "name": "Janerhof",
+                  "text": "Janerhof is a historic castle building in Krems that impresses with its traditional architecture. Today, it is used for various purposes and serves as a witness to manorial lifestyle in Lower Austria.",
+                  "category": "castle",
+                  "coords": [
+                        15.579353,
+                        48.392629
+                  ]
+            },
+            {
+                  "name": "Margaretenkapelle",
+                  "text": "The Margaretenkapelle in Krems now serves as a small exhibition space and cultural venue within the city. The historic building provides an atmospheric setting for sacred art and local history.",
+                  "category": "museum",
+                  "coords": [
+                        15.578065,
+                        48.392881
+                  ]
+            },
+            {
+                  "name": "Markttor",
+                  "text": "The Markttor is a significant historic city gate that formerly marked the entrance to the trading center of Krems. It is an important architectural monument witnessing the medieval importance of the marketplace.",
+                  "category": "fortress",
+                  "coords": [
+                        15.586452,
+                        48.430811
+                  ]
+            },
+            {
+                  "name": "Linzertor",
+                  "text": "The Linzertor was part of the fortifications of Krems and secured the route towards the west. Today, it is a characteristic historical element of the townscape, recalling the old city walls.",
+                  "category": "fortress",
+                  "coords": [
+                        15.576365,
+                        48.400254
+                  ]
+            },
+            {
+                  "name": "Antonikirche",
+                  "text": "The Antonikirche is a peaceful church in Krems, valued as a place for quiet prayer. The architecture and artistic interior design invite visitors to linger and reflect.",
+                  "category": "religious",
+                  "coords": [
+                        15.613887,
+                        48.414471
+                  ]
+            },
+            {
+                  "name": "Ehem. Andreaskapelle",
+                  "text": "The former Andreaskapelle is a historic religious building in Krems now used for cultural purposes. The old structure provides an authentic impression of late medieval architecture in the city.",
+                  "category": "religious",
+                  "coords": [
+                        15.598984,
+                        48.409069
+                  ]
+            },
+            {
+                  "name": "Maria Hilf",
+                  "text": "Maria Hilf is a traditional chapel or church in Krems, regarded as an important religious destination for the faithful. It is noted for its quiet location and often features magnificent Baroque furnishings.",
+                  "category": "religious",
+                  "coords": [
+                        15.60079,
+                        48.418327
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle",
+                  "text": "The cemetery chapel in Krems an der Donau serves as a quiet place for prayer and farewells. The simple building is located centrally within the city's cemetery grounds.",
+                  "category": "religious",
+                  "coords": [
+                        15.61732,
+                        48.416357
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Egelsee",
+                  "text": "The Egelsee parish church is a sacred center in the district of the same name in Krems an der Donau. The church building shapes the appearance of the small community with its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        15.56216,
+                        48.417921
                   ]
             }
       ]
@@ -19642,6 +21406,141 @@ export const austriaCitiesV2: POI[] = [
                         12.856239,
                         47.428553
                   ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Das Heimatmuseum in Saalfelden zeigt Exponate zur regionalen Geschichte und Volkskultur. Es ist im Schloss Ritzen untergebracht und bietet Einblicke in vergangene Zeiten.",
+                  "category": "museum",
+                  "coords": [
+                        12.846425,
+                        47.421084
+                  ]
+            },
+            {
+                  "name": "Schloss Lichtenberg",
+                  "text": "Schloss Lichtenberg ist eine historische Burganlage über der Stadt Saalfelden. Das markante Bauwerk ist in Privatbesitz und prägt die Landschaft am Fuße des Steinernen Meeres.",
+                  "category": "castle",
+                  "coords": [
+                        12.859611,
+                        47.440861
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Nexus",
+                  "text": "Das Kunsthaus Nexus ist ein kulturelles Zentrum für zeitgenössische Kunst und Theater in Saalfelden. Es bietet ein Programm mit Konzerten, Aufführungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.844119,
+                        47.429357
+                  ]
+            },
+            {
+                  "name": "Schloss Dorfheim",
+                  "text": "Schloss Dorfheim ist ein ehemaliger Herrensitz in Saalfelden. Das historische Gebäude ist ein Beispiel für die ritterliche Architektur in der Region Salzburg.",
+                  "category": "castle",
+                  "coords": [
+                        12.835322,
+                        47.43134
+                  ]
+            },
+            {
+                  "name": "Bürgerberg",
+                  "text": "Der Bürgerberg ist ein Gipfel in der Nähe von Saalfelden mit Blick auf das Tal. Er ist ein Ziel für Wanderungen und bietet Wanderern Panoramaaussichten.",
+                  "category": "natural",
+                  "coords": [
+                        12.880904,
+                        47.437472
+                  ]
+            },
+            {
+                  "name": "Palfenkapelle hl. Georg",
+                  "text": "Die Palfenkapelle hl. Georg ist eine Kapelle, die markant an einer Felswand bei Saalfelden liegt. Sie ist ein traditionelles Ziel für Pilger und Wanderer in der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        12.860194,
+                        47.443595
+                  ]
+            },
+            {
+                  "name": "Stadtgalerie",
+                  "text": "Die Stadtgalerie Saalfelden präsentiert wechselnde Kunstausstellungen im städtischen Bereich. Sie fördert das regionale Kulturschaffen durch die Präsentation lokaler Werke.",
+                  "category": "cultural",
+                  "coords": [
+                        12.84679,
+                        47.426557
+                  ]
+            },
+            {
+                  "name": "Bergpanorama",
+                  "text": "Das Bergpanorama ist ein Aussichtspunkt bei Saalfelden, der einen weiten Blick auf die Alpen gewährt. Besucher können hier die beeindruckende Bergwelt der Umgebung betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        12.847642,
+                        47.416756
+                  ]
+            },
+            {
+                  "name": "Biberg (Winterrodelbahn)",
+                  "text": "Die Winterrodelbahn am Biberg bietet Schlittenvergnügen während der kalten Jahreszeit in Saalfelden. Die Strecke führt durch die winterliche Landschaft der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.807918,
+                        47.424339
+                  ]
+            },
+            {
+                  "name": "Biberg (Sommerrodelbahn)",
+                  "text": "Die Sommerrodelbahn am Biberg ermöglicht rasante Abfahrten in den Sommermonaten bei Saalfelden. Sie ist ein beliebtes Ausflugsziel für aktive Urlauber und Familien.",
+                  "category": "landmark",
+                  "coords": [
+                        12.808304,
+                        47.425389
+                  ]
+            },
+            {
+                  "name": "Poststall-Mauerrest",
+                  "text": "Der Poststall-Mauerrest ist ein historisches Ruinenfragment in Saalfelden. Das Überbleibsel erinnert an die ehemalige Nutzung als Pferdestall für die Poststation.",
+                  "category": "historical",
+                  "coords": [
+                        12.848595,
+                        47.426221
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Die Evangelische Kirche in Saalfelden ist ein Ort des Gebets für die protestantische Gemeinde. Das schlichte Gebäude dient der Feier von Gottesdiensten und Gemeindetreffen.",
+                  "category": "religious",
+                  "coords": [
+                        12.851435,
+                        47.432823
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Saalfelden",
+                  "text": "Die Stadtpfarrkirche Saalfelden ist ein zentrales Gotteshaus mit langer Baugeschichte. Die Kirche prägt das Stadtzentrum und ist dem heiligen Johannes dem Täufer geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        12.848761,
+                        47.427167
+                  ]
+            },
+            {
+                  "name": "Almdorfkapelle - Ortskapelle hl. Anna",
+                  "text": "Die Almdorfkapelle ist eine kleine Ortskapelle in der Nähe von Saalfelden, die der heiligen Anna gewidmet ist. Sie dient den Anwohnern als lokaler Ort für Andacht und Stille.",
+                  "category": "religious",
+                  "coords": [
+                        12.873906,
+                        47.408598
+                  ]
+            },
+            {
+                  "name": "Feichtenkapelle",
+                  "text": "Die Feichtenkapelle ist ein religiöses Bauwerk in der Umgebung von Saalfelden. Das kleine Gotteshaus ist ein Beispiel für die sakrale Volksarchitektur in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        12.869007,
+                        47.424107
+                  ]
             }
       ],
       "hu": [
@@ -19661,6 +21560,141 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         12.856239,
                         47.428553
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A Saalfeldeni Helytörténeti Múzeum a régió történelmét és népi kultúráját mutatja be. Az intézmény a Ritzen-kastélyban található, és betekintést nyújt a múltba.",
+                  "category": "museum",
+                  "coords": [
+                        12.846425,
+                        47.421084
+                  ]
+            },
+            {
+                  "name": "Schloss Lichtenberg",
+                  "text": "A Lichtenberg-kastély egy történelmi várkastély Saalfelden városa felett. A jellegzetes építmény magántulajdonban van, és meghatározza a tájat a Steinerne Meer lábánál.",
+                  "category": "castle",
+                  "coords": [
+                        12.859611,
+                        47.440861
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Nexus",
+                  "text": "A Kunsthaus Nexus a kortárs művészet és a színház kulturális központja Saalfeldenben. Az intézmény koncerteket, előadásokat és kiállításokat tartalmazó műsort kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        12.844119,
+                        47.429357
+                  ]
+            },
+            {
+                  "name": "Schloss Dorfheim",
+                  "text": "A Dorfheim-kastély egy egykori nemesi kúria Saalfeldenben. A történelmi épület a salzburgi régió lovagi építészetének egyik példája.",
+                  "category": "castle",
+                  "coords": [
+                        12.835322,
+                        47.43134
+                  ]
+            },
+            {
+                  "name": "Bürgerberg",
+                  "text": "A Bürgerberg egy csúcs Saalfelden közelében, ahonnan kilátás nyílik a völgyre. Kedvelt túracélpont, amely panorámás kilátást nyújt a kirándulóknak.",
+                  "category": "natural",
+                  "coords": [
+                        12.880904,
+                        47.437472
+                  ]
+            },
+            {
+                  "name": "Palfenkapelle hl. Georg",
+                  "text": "A Szent György-sziklakápolna jellegzetes helyen, egy sziklafalnál található Saalfelden közelében. Hagyományos célpontja a természetben járó zarándokoknak és túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        12.860194,
+                        47.443595
+                  ]
+            },
+            {
+                  "name": "Stadtgalerie",
+                  "text": "A Saalfeldeni Városi Galéria változó művészeti kiállításokat mutat be a város területén. Az intézmény a helyi alkotások bemutatásával támogatja a regionális kultúrát.",
+                  "category": "cultural",
+                  "coords": [
+                        12.84679,
+                        47.426557
+                  ]
+            },
+            {
+                  "name": "Bergpanorama",
+                  "text": "A Bergpanorama egy kilátóhely Saalfeldennél, amely tágas kilátást nyújt az Alpokra. A látogatók innen megcsodálhatják a környező hegyvidék lenyűgöző látványát.",
+                  "category": "natural",
+                  "coords": [
+                        12.847642,
+                        47.416756
+                  ]
+            },
+            {
+                  "name": "Biberg (Winterrodelbahn)",
+                  "text": "A Bibergen található téli szánkópálya csúszási élményt kínál a hideg évszakban Saalfeldenben. A pálya a régió téli tájain keresztül vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.807918,
+                        47.424339
+                  ]
+            },
+            {
+                  "name": "Biberg (Sommerrodelbahn)",
+                  "text": "A Bibergen található nyári szánkópálya gyors lecsúszást tesz lehetővé a nyári hónapokban Saalfeldennél. A helyszín az aktív nyaralók és családok kedvelt kirándulóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        12.808304,
+                        47.425389
+                  ]
+            },
+            {
+                  "name": "Poststall-Mauerrest",
+                  "text": "A Poststall-falmaradvány egy történelmi romtöredék Saalfeldenben. A maradvány az épület egykori, postakocsi-állomás lóistállójaként való használatára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        12.848595,
+                        47.426221
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "A saalfeldeni evangélikus templom a protestáns gyülekezet imádságos helye. Az egyszerű épület istentiszteletek és közösségi találkozók helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        12.851435,
+                        47.432823
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Saalfelden",
+                  "text": "A Saalfeldeni Városi Plébániatemplom egy központi istenháza, hosszú építéstörténettel. A templom meghatározza a városközpontot, és Keresztelő Szent János tiszteletére szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        12.848761,
+                        47.427167
+                  ]
+            },
+            {
+                  "name": "Almdorfkapelle - Ortskapelle hl. Anna",
+                  "text": "Az Almdorf-kápolna egy kis települési kápolna Saalfelden közelében, amelyet Szent Annának szenteltek. A helyi lakosoknak szolgál az áhítat és a csend helyszíneként.",
+                  "category": "religious",
+                  "coords": [
+                        12.873906,
+                        47.408598
+                  ]
+            },
+            {
+                  "name": "Feichtenkapelle",
+                  "text": "A Feichten-kápolna egy vallási építmény Saalfelden környékén. A kis istenháza a régió szakrális népi építészetének egyik példája.",
+                  "category": "religious",
+                  "coords": [
+                        12.869007,
+                        47.424107
                   ]
             }
       ],
@@ -19682,6 +21716,141 @@ export const austriaCitiesV2: POI[] = [
                         12.856239,
                         47.428553
                   ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Muzeul de istorie locală din Saalfelden expune obiecte legate de istoria regională și cultura populară. Acesta este găzduit în castelul Ritzen și oferă perspective asupra timpurilor trecute.",
+                  "category": "museum",
+                  "coords": [
+                        12.846425,
+                        47.421084
+                  ]
+            },
+            {
+                  "name": "Schloss Lichtenberg",
+                  "text": "Castelul Lichtenberg este o fortăreață istorică situată deasupra orașului Saalfelden. Edificiul distinctiv este proprietate privată și domină peisajul de la poalele muntelui Steinerne Meer.",
+                  "category": "castle",
+                  "coords": [
+                        12.859611,
+                        47.440861
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Nexus",
+                  "text": "Kunsthaus Nexus este un centru cultural pentru artă contemporană și teatru din Saalfelden. Acesta oferă un program care include concerte, spectacole și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        12.844119,
+                        47.429357
+                  ]
+            },
+            {
+                  "name": "Schloss Dorfheim",
+                  "text": "Castelul Dorfheim este un fost conac boieresc situat în Saalfelden. Clădirea istorică este un exemplu de arhitectură nobiliară din regiunea Salzburg.",
+                  "category": "castle",
+                  "coords": [
+                        12.835322,
+                        47.43134
+                  ]
+            },
+            {
+                  "name": "Bürgerberg",
+                  "text": "Bürgerberg este un vârf muntos situat lângă Saalfelden, cu vedere spre vale. Este o destinație pentru drumeții și oferă vizitatorilor vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        12.880904,
+                        47.437472
+                  ]
+            },
+            {
+                  "name": "Palfenkapelle hl. Georg",
+                  "text": "Capela Palfen Sfântul Gheorghe este o capelă situată într-un mod distinctiv pe un perete stâncos lângă Saalfelden. Este o destinație tradițională pentru pelerini și drumeți în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        12.860194,
+                        47.443595
+                  ]
+            },
+            {
+                  "name": "Stadtgalerie",
+                  "text": "Galeria orașului Saalfelden prezintă expoziții de artă temporare în zona urbană. Aceasta promovează creația culturală regională prin prezentarea lucrărilor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        12.84679,
+                        47.426557
+                  ]
+            },
+            {
+                  "name": "Bergpanorama",
+                  "text": "Bergpanorama este un punct de observație lângă Saalfelden care oferă o vedere largă asupra Alpilor. Vizitatorii pot admira aici peisajul montan impresionant din împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        12.847642,
+                        47.416756
+                  ]
+            },
+            {
+                  "name": "Biberg (Winterrodelbahn)",
+                  "text": "Pista de săniuș de iarnă de pe Biberg oferă distracție cu sania în timpul sezonului rece în Saalfelden. Traseul trece prin peisajul de iarnă al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        12.807918,
+                        47.424339
+                  ]
+            },
+            {
+                  "name": "Biberg (Sommerrodelbahn)",
+                  "text": "Pista de săniuș de vară de pe Biberg permite coborâri rapide în lunile de vară lângă Saalfelden. Este o destinație de excursie populară pentru turiștii activi și familii.",
+                  "category": "landmark",
+                  "coords": [
+                        12.808304,
+                        47.425389
+                  ]
+            },
+            {
+                  "name": "Poststall-Mauerrest",
+                  "text": "Fragmentul de zid al vechiului grajd poștal este o ruină istorică din Saalfelden. Vestigiul amintește de fosta utilizare ca grajd pentru cai al stației poștale.",
+                  "category": "historical",
+                  "coords": [
+                        12.848595,
+                        47.426221
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Biserica Evanghelică din Saalfelden este un loc de rugăciune pentru comunitatea protestantă. Clădirea simplă servește la celebrarea slujbelor și la întâlnirile comunității.",
+                  "category": "religious",
+                  "coords": [
+                        12.851435,
+                        47.432823
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Saalfelden",
+                  "text": "Biserica parohială din Saalfelden este un lăcaș de cult central cu o lungă istorie de construcție. Biserica domină centrul orașului și este dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        12.848761,
+                        47.427167
+                  ]
+            },
+            {
+                  "name": "Almdorfkapelle - Ortskapelle hl. Anna",
+                  "text": "Capela Almdorf este o mică capelă locală de lângă Saalfelden, dedicată Sfintei Ana. Aceasta servește rezidenților ca loc local pentru rugăciune și liniște.",
+                  "category": "religious",
+                  "coords": [
+                        12.873906,
+                        47.408598
+                  ]
+            },
+            {
+                  "name": "Feichtenkapelle",
+                  "text": "Capela Feichten este un edificiu religios situat în împrejurimile orașului Saalfelden. Mic lăcaș de cult este un exemplu de arhitectură sacră populară din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        12.869007,
+                        47.424107
+                  ]
             }
       ],
       "en": [
@@ -19701,6 +21870,141 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         12.856239,
                         47.428553
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "The Heimatmuseum in Saalfelden displays exhibits on regional history and folk culture. It is housed in Schloss Ritzen and offers insights into past times.",
+                  "category": "museum",
+                  "coords": [
+                        12.846425,
+                        47.421084
+                  ]
+            },
+            {
+                  "name": "Schloss Lichtenberg",
+                  "text": "Schloss Lichtenberg is a historic castle complex overlooking the town of Saalfelden. The striking building is privately owned and characterizes the landscape at the foot of the Steinerne Meer.",
+                  "category": "castle",
+                  "coords": [
+                        12.859611,
+                        47.440861
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Nexus",
+                  "text": "Kunsthaus Nexus is a cultural center for contemporary art and theater in Saalfelden. It offers a program featuring concerts, performances, and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        12.844119,
+                        47.429357
+                  ]
+            },
+            {
+                  "name": "Schloss Dorfheim",
+                  "text": "Schloss Dorfheim is a former manor house in Saalfelden. The historic building is an example of chivalric architecture in the Salzburg region.",
+                  "category": "castle",
+                  "coords": [
+                        12.835322,
+                        47.43134
+                  ]
+            },
+            {
+                  "name": "Bürgerberg",
+                  "text": "Bürgerberg is a peak near Saalfelden with views over the valley. It is a destination for hikes and offers hikers panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        12.880904,
+                        47.437472
+                  ]
+            },
+            {
+                  "name": "Palfenkapelle hl. Georg",
+                  "text": "The Palfenkapelle St. George is a chapel strikingly situated on a rock face near Saalfelden. It is a traditional destination for pilgrims and hikers in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        12.860194,
+                        47.443595
+                  ]
+            },
+            {
+                  "name": "Stadtgalerie",
+                  "text": "The Stadtgalerie Saalfelden presents rotating art exhibitions in the urban area. It promotes regional cultural work by showcasing local pieces.",
+                  "category": "cultural",
+                  "coords": [
+                        12.84679,
+                        47.426557
+                  ]
+            },
+            {
+                  "name": "Bergpanorama",
+                  "text": "Bergpanorama is a viewpoint near Saalfelden that grants an expansive view of the Alps. Visitors can observe the impressive mountain world of the surrounding area here.",
+                  "category": "natural",
+                  "coords": [
+                        12.847642,
+                        47.416756
+                  ]
+            },
+            {
+                  "name": "Biberg (Winterrodelbahn)",
+                  "text": "The winter toboggan run at Biberg offers sledding fun during the cold season in Saalfelden. The track leads through the region's wintry landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        12.807918,
+                        47.424339
+                  ]
+            },
+            {
+                  "name": "Biberg (Sommerrodelbahn)",
+                  "text": "The summer toboggan run at Biberg allows for fast descents during the summer months near Saalfelden. It is a popular excursion destination for active vacationers and families.",
+                  "category": "landmark",
+                  "coords": [
+                        12.808304,
+                        47.425389
+                  ]
+            },
+            {
+                  "name": "Poststall-Mauerrest",
+                  "text": "The Poststall-Mauerrest is a historic ruin fragment in Saalfelden. The remnant commemorates the former use as horse stables for the postal station.",
+                  "category": "historical",
+                  "coords": [
+                        12.848595,
+                        47.426221
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "The Protestant Church in Saalfelden is a place of prayer for the local congregation. The simple building serves for worship services and community meetings.",
+                  "category": "religious",
+                  "coords": [
+                        12.851435,
+                        47.432823
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Saalfelden",
+                  "text": "The Saalfelden Parish Church is a central house of worship with a long construction history. The church characterizes the town center and is dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        12.848761,
+                        47.427167
+                  ]
+            },
+            {
+                  "name": "Almdorfkapelle - Ortskapelle hl. Anna",
+                  "text": "The Almdorf Chapel is a small local chapel near Saalfelden dedicated to Saint Anne. It serves residents as a local place for worship and quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        12.873906,
+                        47.408598
+                  ]
+            },
+            {
+                  "name": "Feichtenkapelle",
+                  "text": "The Feichten Chapel is a religious building in the vicinity of Saalfelden. The small house of worship is an example of sacred folk architecture in the region.",
+                  "category": "religious",
+                  "coords": [
+                        12.869007,
+                        47.424107
                   ]
             }
       ]
@@ -19768,6 +22072,78 @@ export const austriaCitiesV2: POI[] = [
                         16.257626,
                         48.371676
                   ]
+            },
+            {
+                  "name": "Lenautheater",
+                  "text": "Ein lokales Theater in Stockerau, benannt nach dem Dichter Nikolaus Lenau.",
+                  "category": "cultural",
+                  "coords": [
+                        16.214458,
+                        48.385441
+                  ]
+            },
+            {
+                  "name": "Bezirksmuseum Stockerau",
+                  "text": "Das Museum dokumentiert die Regionalgeschichte des Bezirks Korneuburg.",
+                  "category": "museum",
+                  "coords": [
+                        16.209545,
+                        48.387699
+                  ]
+            },
+            {
+                  "name": "Schlössl (ehemaliges Passauer Kastenamt)",
+                  "text": "Ein historisches Verwaltungsgebäude in Stockerau, das früher als Kastenamt diente.",
+                  "category": "landmark",
+                  "coords": [
+                        16.209032,
+                        48.383171
+                  ]
+            },
+            {
+                  "name": "Pestsäule Stockerau",
+                  "text": "Ein barockes Denkmal in Stockerau zum Gedenken an die Opfer der Pest.",
+                  "category": "historical",
+                  "coords": [
+                        16.207459,
+                        48.38466
+                  ]
+            },
+            {
+                  "name": "Johanneskapelle",
+                  "text": "Eine kleine Kapelle in Stockerau, die dem heiligen Johannes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.227031,
+                        48.389068
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Stephan",
+                  "text": "Die Hauptpfarrkirche von Stockerau mit einem markanten, hohen Kirchturm.",
+                  "category": "religious",
+                  "coords": [
+                        16.211142,
+                        48.385747
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Die evangelische Kirche der Gemeinde in Stockerau.",
+                  "category": "religious",
+                  "coords": [
+                        16.209591,
+                        48.389584
+                  ]
+            },
+            {
+                  "name": "Dorfkapelle Hl. Karl Borromäus",
+                  "text": "Eine kleine Dorfkapelle zu Ehren des heiligen Karl Borromäus.",
+                  "category": "religious",
+                  "coords": [
+                        16.175874,
+                        48.381155
+                  ]
             }
       ],
       "hu": [
@@ -19787,6 +22163,78 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.257626,
                         48.371676
+                  ]
+            },
+            {
+                  "name": "Lenautheater",
+                  "text": "Helyi színház Stockerauban, Nikolaus Lenau költőről elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        16.214458,
+                        48.385441
+                  ]
+            },
+            {
+                  "name": "Bezirksmuseum Stockerau",
+                  "text": "A múzeum a Korneuburgi járás regionális történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        16.209545,
+                        48.387699
+                  ]
+            },
+            {
+                  "name": "Schlössl (ehemaliges Passauer Kastenamt)",
+                  "text": "Történelmi igazgatási épület Stockerauban, amely korábban raktárhivatalként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        16.209032,
+                        48.383171
+                  ]
+            },
+            {
+                  "name": "Pestsäule Stockerau",
+                  "text": "Barokk emlékmű Stockerauban a pestis áldozatainak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        16.207459,
+                        48.38466
+                  ]
+            },
+            {
+                  "name": "Johanneskapelle",
+                  "text": "Szent Jánosnak szentelt kis kápolna Stockerauban.",
+                  "category": "religious",
+                  "coords": [
+                        16.227031,
+                        48.389068
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Stephan",
+                  "text": "Stockerau fő plébániatemploma jellegzetes, magas toronnyal.",
+                  "category": "religious",
+                  "coords": [
+                        16.211142,
+                        48.385747
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "A stockeraui közösség evangélikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        16.209591,
+                        48.389584
+                  ]
+            },
+            {
+                  "name": "Dorfkapelle Hl. Karl Borromäus",
+                  "text": "Szent Borromeo Károly tiszteletére szentelt kis falusi kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        16.175874,
+                        48.381155
                   ]
             }
       ],
@@ -19808,6 +22256,78 @@ export const austriaCitiesV2: POI[] = [
                         16.257626,
                         48.371676
                   ]
+            },
+            {
+                  "name": "Lenautheater",
+                  "text": "Un teatru local din Stockerau, numit după poetul Nikolaus Lenau.",
+                  "category": "cultural",
+                  "coords": [
+                        16.214458,
+                        48.385441
+                  ]
+            },
+            {
+                  "name": "Bezirksmuseum Stockerau",
+                  "text": "Muzeul documentează istoria regională a districtului Korneuburg.",
+                  "category": "museum",
+                  "coords": [
+                        16.209545,
+                        48.387699
+                  ]
+            },
+            {
+                  "name": "Schlössl (ehemaliges Passauer Kastenamt)",
+                  "text": "O clădire administrativă istorică din Stockerau, care a servit anterior ca birou de depozitare.",
+                  "category": "landmark",
+                  "coords": [
+                        16.209032,
+                        48.383171
+                  ]
+            },
+            {
+                  "name": "Pestsäule Stockerau",
+                  "text": "Un monument baroc în Stockerau dedicat memoriei victimelor ciumei.",
+                  "category": "historical",
+                  "coords": [
+                        16.207459,
+                        48.38466
+                  ]
+            },
+            {
+                  "name": "Johanneskapelle",
+                  "text": "O mică capelă în Stockerau, dedicată Sfântului Ioan.",
+                  "category": "religious",
+                  "coords": [
+                        16.227031,
+                        48.389068
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Stephan",
+                  "text": "Biserica parohială principală din Stockerau, cu un turn foarte înalt.",
+                  "category": "religious",
+                  "coords": [
+                        16.211142,
+                        48.385747
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Biserica evanghelică a comunității din Stockerau.",
+                  "category": "religious",
+                  "coords": [
+                        16.209591,
+                        48.389584
+                  ]
+            },
+            {
+                  "name": "Dorfkapelle Hl. Karl Borromäus",
+                  "text": "O mică capelă rurală în cinstea Sfântului Carol Borromeo.",
+                  "category": "religious",
+                  "coords": [
+                        16.175874,
+                        48.381155
+                  ]
             }
       ],
       "en": [
@@ -19827,6 +22347,78 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.257626,
                         48.371676
+                  ]
+            },
+            {
+                  "name": "Lenautheater",
+                  "text": "A local theatre in Stockerau, named after the poet Nikolaus Lenau.",
+                  "category": "cultural",
+                  "coords": [
+                        16.214458,
+                        48.385441
+                  ]
+            },
+            {
+                  "name": "Bezirksmuseum Stockerau",
+                  "text": "The museum documents the regional history of the Korneuburg district.",
+                  "category": "museum",
+                  "coords": [
+                        16.209545,
+                        48.387699
+                  ]
+            },
+            {
+                  "name": "Schlössl (ehemaliges Passauer Kastenamt)",
+                  "text": "A historic administrative building in Stockerau that formerly served as a granary office.",
+                  "category": "landmark",
+                  "coords": [
+                        16.209032,
+                        48.383171
+                  ]
+            },
+            {
+                  "name": "Pestsäule Stockerau",
+                  "text": "A Baroque monument in Stockerau commemorating the victims of the plague.",
+                  "category": "historical",
+                  "coords": [
+                        16.207459,
+                        48.38466
+                  ]
+            },
+            {
+                  "name": "Johanneskapelle",
+                  "text": "A small chapel in Stockerau dedicated to Saint John.",
+                  "category": "religious",
+                  "coords": [
+                        16.227031,
+                        48.389068
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Stephan",
+                  "text": "The main parish church of Stockerau featuring a prominent high steeple.",
+                  "category": "religious",
+                  "coords": [
+                        16.211142,
+                        48.385747
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "The Protestant church of the congregation in Stockerau.",
+                  "category": "religious",
+                  "coords": [
+                        16.209591,
+                        48.389584
+                  ]
+            },
+            {
+                  "name": "Dorfkapelle Hl. Karl Borromäus",
+                  "text": "A small village chapel in honor of Saint Charles Borromeo.",
+                  "category": "religious",
+                  "coords": [
+                        16.175874,
+                        48.381155
                   ]
             }
       ]
@@ -26464,6 +29056,231 @@ export const austriaCitiesV2: POI[] = [
                         11.495214,
                         47.284956
                   ]
+            },
+            {
+                  "name": "Schneeburg",
+                  "text": "Die Schneeburg ist ein historischer Ansitz in Hall in Tirol, der heute als Wohngebäude genutzt wird. Das denkmalgeschützte Bauwerk zeugt von der herrschaftlichen Wohnkultur vergangener Jahrhunderte.",
+                  "category": "castle",
+                  "coords": [
+                        11.529354,
+                        47.288673
+                  ]
+            },
+            {
+                  "name": "Schloss Melans",
+                  "text": "Schloss Melans ist eine spätmittelalterliche Burganlage in Absam bei Hall in Tirol. Das Schloss ist von einer Mauer umgeben und ein markantes Beispiel für die regionale Baukunst.",
+                  "category": "castle",
+                  "coords": [
+                        11.508962,
+                        47.29841
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Nikolaus",
+                  "text": "Die Pfarrkirche St. Nikolaus in Hall in Tirol ist ein bedeutendes gotisches Gotteshaus im historischen Zentrum. Sie beherbergt wertvolle Kunstschätze und ist ein zentraler Ort des kirchlichen Lebens.",
+                  "category": "religious",
+                  "coords": [
+                        11.506758,
+                        47.281581
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Basilika",
+                  "text": "Die Herz-Jesu-Basilika ist ein monumentales neuromanisches Kirchenbauwerk in Hall in Tirol. Sie ist Teil des ehemaligen Damenstifts und beeindruckt durch ihre sakrale Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        11.509439,
+                        47.281027
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Mils",
+                  "text": "Die Pfarrkirche Mils ist ein religiöses Zentrum in der Gemeinde Mils bei Hall in Tirol. Die Kirche ist dem heiligen Sebastian geweiht und dient der lokalen Bevölkerung für Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        11.532965,
+                        47.288427
+                  ]
+            },
+            {
+                  "name": "Franziskuskirche",
+                  "text": "Die Franziskuskirche ist ein moderner Sakralbau im Ortsteil Schönegg von Hall in Tirol. Sie dient der Gemeinde als Gottesdienststätte und Ort der Begegnung.",
+                  "category": "religious",
+                  "coords": [
+                        11.523328,
+                        47.285738
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Eichat",
+                  "text": "Die Pfarrkirche Eichat ist eine Kirche im Ortsteil Eichat von Absam bei Hall in Tirol. Sie ist ein Beispiel für die moderne Kirchenarchitektur der Region und wird für Gottesdienste genutzt.",
+                  "category": "religious",
+                  "coords": [
+                        11.516247,
+                        47.29895
+                  ]
+            },
+            {
+                  "name": "Lorettokapelle",
+                  "text": "Die Lorettokapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.479926,
+                        47.276545
+                  ]
+            },
+            {
+                  "name": "Kolbenturm",
+                  "text": "Der Kolbenturm ist ein markantes Bauwerk in Hall In Tirol. Er prägt das Stadtbild und erinnert an die historische Architektur des Ortes.",
+                  "category": "tower",
+                  "coords": [
+                        11.542378,
+                        47.276046
+                  ]
+            },
+            {
+                  "name": "Bergbaumuseum",
+                  "text": "Das Bergbaumuseum in Hall In Tirol bietet interessante Einblicke in die lokale Geschichte und Kultur. Es ist ein empfehlenswertes Ziel für geschichtlich interessierte Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        11.507819,
+                        47.281099
+                  ]
+            },
+            {
+                  "name": "Tiroler Landesmuseen Sammlungs- und Forschungszentrum",
+                  "text": "Das Tiroler Landesmuseen Sammlungs- und Forschungszentrum in Hall In Tirol bietet interessante Einblicke in die lokale Geschichte und Kultur. Es ist ein empfehlenswertes Ziel für geschichtlich interessierte Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        11.515895,
+                        47.287048
+                  ]
+            },
+            {
+                  "name": "Gemeindemuseum Absam",
+                  "text": "Das Gemeindemuseum Absam in Hall In Tirol bietet interessante Einblicke in die lokale Geschichte und Kultur. Es ist ein empfehlenswertes Ziel für geschichtlich interessierte Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        11.500882,
+                        47.295319
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Hall",
+                  "text": "Das Stadtmuseum Hall in Hall In Tirol bietet interessante Einblicke in die lokale Geschichte und Kultur. Es ist ein empfehlenswertes Ziel für geschichtlich interessierte Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        11.50701,
+                        47.279324
+                  ]
+            },
+            {
+                  "name": "Ansitz Granz",
+                  "text": "Der Ansitz Granz ist ein historischer Herrensitz in Hall In Tirol. Das Gebäude ist ein bedeutendes Zeugnis der lokalen Baugeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        11.472514,
+                        47.29211
+                  ]
+            },
+            {
+                  "name": "Stromboli",
+                  "text": "Das Stromboli ist ein lebendiger Treffpunkt für Kunst und Kultur in Hall In Tirol. Es bietet ein vielfältiges Programm für kreative Besucher.",
+                  "category": "cultural",
+                  "coords": [
+                        11.50577,
+                        47.282736
+                  ]
+            },
+            {
+                  "name": "Nepomukkapelle",
+                  "text": "Die Nepomukkapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.520901,
+                        47.306471
+                  ]
+            },
+            {
+                  "name": "Josefskapelle",
+                  "text": "Die Josefskapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.510577,
+                        47.281056
+                  ]
+            },
+            {
+                  "name": "Borgiaskapelle",
+                  "text": "Die Borgiaskapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.532576,
+                        47.273964
+                  ]
+            },
+            {
+                  "name": "Mariä Heimsuchung",
+                  "text": "Die Mariä Heimsuchung ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.50576,
+                        47.260365
+                  ]
+            },
+            {
+                  "name": "Salvatorkirche",
+                  "text": "Die Salvatorkirche ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.505006,
+                        47.281216
+                  ]
+            },
+            {
+                  "name": "Heilig-Kreuz Kirche",
+                  "text": "Die Heilig-Kreuz Kirche ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.493993,
+                        47.286815
+                  ]
+            },
+            {
+                  "name": "Kaiser Franz Josef-Gedächtniskapelle",
+                  "text": "Die Kaiser Franz Josef-Gedächtniskapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.508863,
+                        47.286715
+                  ]
+            },
+            {
+                  "name": "Kapelle Maria Schnee",
+                  "text": "Die Kapelle Maria Schnee ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.511623,
+                        47.28118
+                  ]
+            },
+            {
+                  "name": "Sonnenkapelle",
+                  "text": "Die Sonnenkapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.51345,
+                        47.274862
+                  ]
+            },
+            {
+                  "name": "Lehnerkapelle",
+                  "text": "Die Lehnerkapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        11.510545,
+                        47.294184
+                  ]
             }
       ],
       "hu": [
@@ -26474,6 +29291,231 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         11.495214,
                         47.284956
+                  ]
+            },
+            {
+                  "name": "Schneeburg",
+                  "text": "A Schneeburg egy történelmi udvarház Hall in Tirolban, amelyet ma lakóépületként használnak. A műemléki védettségű építmény a múlt századok úri lakókultúrájáról tanúskodik.",
+                  "category": "castle",
+                  "coords": [
+                        11.529354,
+                        47.288673
+                  ]
+            },
+            {
+                  "name": "Schloss Melans",
+                  "text": "A Melans-kastély egy késő középkori vár Absamban, Hall in Tirol közelében. A falakkal körülvett kastély a régió építészetének jellegzetes példája.",
+                  "category": "castle",
+                  "coords": [
+                        11.508962,
+                        47.29841
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Nikolaus",
+                  "text": "A hall in tiroli Szent Miklós-plébániatemplom egy jelentős gótikus istenháza a történelmi központban. Értékes műkincseknek ad otthont, és a hitélet központi helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        11.506758,
+                        47.281581
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Basilika",
+                  "text": "A Jézus Szíve-bazilika egy monumentális neoromán templomépület Hall in Tirolban. Az egykori női kolostor része, és lenyűgöző szakrális építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        11.509439,
+                        47.281027
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Mils",
+                  "text": "A milsi plébániatemplom a Hall in Tirol melletti Mils község vallási központja. A templomot Szent Sebestyén tiszteletére szentelték, és a helyi lakosság istentiszteleteit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        11.532965,
+                        47.288427
+                  ]
+            },
+            {
+                  "name": "Franziskuskirche",
+                  "text": "A Ferenc-templom egy modern szakrális épület Hall in Tirol Schönegg városrészében. A gyülekezet számára istentiszteleti helyként és találkozóhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        11.523328,
+                        47.285738
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Eichat",
+                  "text": "Az eichati plébániatemplom az Absamhoz tartozó Eichat településrészen található, Hall in Tirol közelében. A régió modern templomépítészetének egyik példája, amelyet istentiszteletekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        11.516247,
+                        47.29895
+                  ]
+            },
+            {
+                  "name": "Lorettokapelle",
+                  "text": "A Lorettokapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.479926,
+                        47.276545
+                  ]
+            },
+            {
+                  "name": "Kolbenturm",
+                  "text": "A(z) Kolbenturm egy jellegzetes építmény Hall In Tirol városában. Meghatározza a városképet és a település történelmi építészetére emlékeztet.",
+                  "category": "tower",
+                  "coords": [
+                        11.542378,
+                        47.276046
+                  ]
+            },
+            {
+                  "name": "Bergbaumuseum",
+                  "text": "A(z) Hall In Tirol városában található Bergbaumuseum érdekes betekintést nyújt a helyi történelembe és kultúrába. Történelem iránt érdeklődő látogatóknak ajánlott úticél.",
+                  "category": "museum",
+                  "coords": [
+                        11.507819,
+                        47.281099
+                  ]
+            },
+            {
+                  "name": "Tiroler Landesmuseen Sammlungs- und Forschungszentrum",
+                  "text": "A(z) Hall In Tirol városában található Tiroler Landesmuseen Sammlungs- und Forschungszentrum érdekes betekintést nyújt a helyi történelembe és kultúrába. Történelem iránt érdeklődő látogatóknak ajánlott úticél.",
+                  "category": "museum",
+                  "coords": [
+                        11.515895,
+                        47.287048
+                  ]
+            },
+            {
+                  "name": "Gemeindemuseum Absam",
+                  "text": "A(z) Hall In Tirol városában található Gemeindemuseum Absam érdekes betekintést nyújt a helyi történelembe és kultúrába. Történelem iránt érdeklődő látogatóknak ajánlott úticél.",
+                  "category": "museum",
+                  "coords": [
+                        11.500882,
+                        47.295319
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Hall",
+                  "text": "A(z) Hall In Tirol városában található Stadtmuseum Hall érdekes betekintést nyújt a helyi történelembe és kultúrába. Történelem iránt érdeklődő látogatóknak ajánlott úticél.",
+                  "category": "museum",
+                  "coords": [
+                        11.50701,
+                        47.279324
+                  ]
+            },
+            {
+                  "name": "Ansitz Granz",
+                  "text": "A(z) Ansitz Granz egy történelmi nemesi kúria Hall In Tirol területén. Az épület a helyi építészettörténet jelentős emléke.",
+                  "category": "historical",
+                  "coords": [
+                        11.472514,
+                        47.29211
+                  ]
+            },
+            {
+                  "name": "Stromboli",
+                  "text": "A(z) Stromboli a művészet és a kultúra élénk találkozóhelye Hall In Tirol városában. Változatos programokat kínál a kreatív látogatók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        11.50577,
+                        47.282736
+                  ]
+            },
+            {
+                  "name": "Nepomukkapelle",
+                  "text": "A Nepomukkapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.520901,
+                        47.306471
+                  ]
+            },
+            {
+                  "name": "Josefskapelle",
+                  "text": "A Josefskapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.510577,
+                        47.281056
+                  ]
+            },
+            {
+                  "name": "Borgiaskapelle",
+                  "text": "A Borgiaskapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.532576,
+                        47.273964
+                  ]
+            },
+            {
+                  "name": "Mariä Heimsuchung",
+                  "text": "A Mariä Heimsuchung egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.50576,
+                        47.260365
+                  ]
+            },
+            {
+                  "name": "Salvatorkirche",
+                  "text": "A Salvatorkirche egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.505006,
+                        47.281216
+                  ]
+            },
+            {
+                  "name": "Heilig-Kreuz Kirche",
+                  "text": "A Heilig-Kreuz Kirche egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.493993,
+                        47.286815
+                  ]
+            },
+            {
+                  "name": "Kaiser Franz Josef-Gedächtniskapelle",
+                  "text": "A Kaiser Franz Josef-Gedächtniskapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.508863,
+                        47.286715
+                  ]
+            },
+            {
+                  "name": "Kapelle Maria Schnee",
+                  "text": "A Kapelle Maria Schnee egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.511623,
+                        47.28118
+                  ]
+            },
+            {
+                  "name": "Sonnenkapelle",
+                  "text": "A Sonnenkapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.51345,
+                        47.274862
+                  ]
+            },
+            {
+                  "name": "Lehnerkapelle",
+                  "text": "A Lehnerkapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        11.510545,
+                        47.294184
                   ]
             }
       ],
@@ -26486,6 +29528,231 @@ export const austriaCitiesV2: POI[] = [
                         11.495214,
                         47.284956
                   ]
+            },
+            {
+                  "name": "Schneeburg",
+                  "text": "Schneeburg este o reședință istorică din Hall in Tirol, utilizată astăzi ca clădire de locuințe. Edificiul monument istoric atestă cultura locuirii nobiliare din secolele trecute.",
+                  "category": "castle",
+                  "coords": [
+                        11.529354,
+                        47.288673
+                  ]
+            },
+            {
+                  "name": "Schloss Melans",
+                  "text": "Castelul Melans este o fortăreață medievală târzie din Absam, lângă Hall in Tirol. Castelul este înconjurat de un zid și este un exemplu proeminent al arhitecturii regionale.",
+                  "category": "castle",
+                  "coords": [
+                        11.508962,
+                        47.29841
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Nikolaus",
+                  "text": "Biserica parohială Sfântul Nicolae din Hall in Tirol este un lăcaș de cult gotic important din centrul istoric. Aceasta adăpostește comori de artă valoroase și este un loc central al vieții religioase.",
+                  "category": "religious",
+                  "coords": [
+                        11.506758,
+                        47.281581
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Basilika",
+                  "text": "Bazilica Inima lui Iisus este un edificiu religios neoromanic monumental din Hall in Tirol. Face parte din fostul așezământ al doamnelor și impresionează prin arhitectura sa sacră.",
+                  "category": "religious",
+                  "coords": [
+                        11.509439,
+                        47.281027
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Mils",
+                  "text": "Biserica parohială din Mils este un centru religios din comuna Mils, lângă Hall in Tirol. Biserica este dedicată Sfântului Sebastian și servește populației locale pentru slujbe.",
+                  "category": "religious",
+                  "coords": [
+                        11.532965,
+                        47.288427
+                  ]
+            },
+            {
+                  "name": "Franziskuskirche",
+                  "text": "Biserica Sfântul Francisc este un edificiu religios modern din cartierul Schönegg al orașului Hall in Tirol. Servește comunității ca loc de slujbă și spațiu de întâlnire.",
+                  "category": "religious",
+                  "coords": [
+                        11.523328,
+                        47.285738
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Eichat",
+                  "text": "Biserica parohială din Eichat este o biserică din cartierul Eichat al comunei Absam, lângă Hall in Tirol. Este un exemplu de arhitectură religioasă modernă din regiune și este utilizată pentru slujbe.",
+                  "category": "religious",
+                  "coords": [
+                        11.516247,
+                        47.29895
+                  ]
+            },
+            {
+                  "name": "Lorettokapelle",
+                  "text": "Lorettokapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.479926,
+                        47.276545
+                  ]
+            },
+            {
+                  "name": "Kolbenturm",
+                  "text": "Kolbenturm este o structură distinctivă în Hall In Tirol. Aceasta definește peisajul urban și amintește de arhitectura istorică a locului.",
+                  "category": "tower",
+                  "coords": [
+                        11.542378,
+                        47.276046
+                  ]
+            },
+            {
+                  "name": "Bergbaumuseum",
+                  "text": "Bergbaumuseum din Hall In Tirol oferă perspective interesante asupra istoriei și culturii locale. Este o destinație recomandată pentru vizitatorii interesați de istorie.",
+                  "category": "museum",
+                  "coords": [
+                        11.507819,
+                        47.281099
+                  ]
+            },
+            {
+                  "name": "Tiroler Landesmuseen Sammlungs- und Forschungszentrum",
+                  "text": "Tiroler Landesmuseen Sammlungs- und Forschungszentrum din Hall In Tirol oferă perspective interesante asupra istoriei și culturii locale. Este o destinație recomandată pentru vizitatorii interesați de istorie.",
+                  "category": "museum",
+                  "coords": [
+                        11.515895,
+                        47.287048
+                  ]
+            },
+            {
+                  "name": "Gemeindemuseum Absam",
+                  "text": "Gemeindemuseum Absam din Hall In Tirol oferă perspective interesante asupra istoriei și culturii locale. Este o destinație recomandată pentru vizitatorii interesați de istorie.",
+                  "category": "museum",
+                  "coords": [
+                        11.500882,
+                        47.295319
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Hall",
+                  "text": "Stadtmuseum Hall din Hall In Tirol oferă perspective interesante asupra istoriei și culturii locale. Este o destinație recomandată pentru vizitatorii interesați de istorie.",
+                  "category": "museum",
+                  "coords": [
+                        11.50701,
+                        47.279324
+                  ]
+            },
+            {
+                  "name": "Ansitz Granz",
+                  "text": "Ansitz Granz este un conac istoric situat în Hall In Tirol. Clădirea este o mărturie importantă a istoriei arhitecturale locale.",
+                  "category": "historical",
+                  "coords": [
+                        11.472514,
+                        47.29211
+                  ]
+            },
+            {
+                  "name": "Stromboli",
+                  "text": "Stromboli este un punct de întâlnire vibrant pentru artă și cultură în Hall In Tirol. Acesta oferă un program diversificat pentru vizitatorii creativi.",
+                  "category": "cultural",
+                  "coords": [
+                        11.50577,
+                        47.282736
+                  ]
+            },
+            {
+                  "name": "Nepomukkapelle",
+                  "text": "Nepomukkapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.520901,
+                        47.306471
+                  ]
+            },
+            {
+                  "name": "Josefskapelle",
+                  "text": "Josefskapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.510577,
+                        47.281056
+                  ]
+            },
+            {
+                  "name": "Borgiaskapelle",
+                  "text": "Borgiaskapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.532576,
+                        47.273964
+                  ]
+            },
+            {
+                  "name": "Mariä Heimsuchung",
+                  "text": "Mariä Heimsuchung este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.50576,
+                        47.260365
+                  ]
+            },
+            {
+                  "name": "Salvatorkirche",
+                  "text": "Salvatorkirche este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.505006,
+                        47.281216
+                  ]
+            },
+            {
+                  "name": "Heilig-Kreuz Kirche",
+                  "text": "Heilig-Kreuz Kirche este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.493993,
+                        47.286815
+                  ]
+            },
+            {
+                  "name": "Kaiser Franz Josef-Gedächtniskapelle",
+                  "text": "Kaiser Franz Josef-Gedächtniskapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.508863,
+                        47.286715
+                  ]
+            },
+            {
+                  "name": "Kapelle Maria Schnee",
+                  "text": "Kapelle Maria Schnee este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.511623,
+                        47.28118
+                  ]
+            },
+            {
+                  "name": "Sonnenkapelle",
+                  "text": "Sonnenkapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.51345,
+                        47.274862
+                  ]
+            },
+            {
+                  "name": "Lehnerkapelle",
+                  "text": "Lehnerkapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        11.510545,
+                        47.294184
+                  ]
             }
       ],
       "en": [
@@ -26496,6 +29763,231 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         11.495214,
                         47.284956
+                  ]
+            },
+            {
+                  "name": "Schneeburg",
+                  "text": "Schneeburg is a historic manor in Hall in Tirol, now used as a residential building. The listed structure bears witness to the aristocratic living culture of past centuries.",
+                  "category": "castle",
+                  "coords": [
+                        11.529354,
+                        47.288673
+                  ]
+            },
+            {
+                  "name": "Schloss Melans",
+                  "text": "Schloss Melans is a late medieval castle complex in Absam near Hall in Tirol. The castle is surrounded by a wall and is a prominent example of regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        11.508962,
+                        47.29841
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Nikolaus",
+                  "text": "The Parish Church of St. Nicholas in Hall in Tirol is a significant Gothic house of worship in the historic center. It houses valuable art treasures and is a central place of religious life.",
+                  "category": "religious",
+                  "coords": [
+                        11.506758,
+                        47.281581
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Basilika",
+                  "text": "The Sacred Heart Basilica is a monumental Neo-Romanesque church building in Hall in Tirol. It is part of the former ladies' convent and impresses with its sacred architecture.",
+                  "category": "religious",
+                  "coords": [
+                        11.509439,
+                        47.281027
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Mils",
+                  "text": "The Mils Parish Church is a religious center in the municipality of Mils near Hall in Tirol. The church is dedicated to Saint Sebastian and serves the local population for worship.",
+                  "category": "religious",
+                  "coords": [
+                        11.532965,
+                        47.288427
+                  ]
+            },
+            {
+                  "name": "Franziskuskirche",
+                  "text": "The Franziskuskirche is a modern sacred building in the Schönegg district of Hall in Tirol. It serves the congregation as a place of worship and meeting.",
+                  "category": "religious",
+                  "coords": [
+                        11.523328,
+                        47.285738
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Eichat",
+                  "text": "The Eichat Parish Church is a church in the Eichat district of Absam near Hall in Tirol. It is an example of modern church architecture in the region and is used for services.",
+                  "category": "religious",
+                  "coords": [
+                        11.516247,
+                        47.29895
+                  ]
+            },
+            {
+                  "name": "Lorettokapelle",
+                  "text": "The Lorettokapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.479926,
+                        47.276545
+                  ]
+            },
+            {
+                  "name": "Kolbenturm",
+                  "text": "The Kolbenturm is a distinctive structure in Hall In Tirol. It shapes the cityscape and serves as a reminder of the area's historic architecture.",
+                  "category": "tower",
+                  "coords": [
+                        11.542378,
+                        47.276046
+                  ]
+            },
+            {
+                  "name": "Bergbaumuseum",
+                  "text": "The Bergbaumuseum in Hall In Tirol offers interesting insights into local history and culture. It is a recommended destination for history buffs.",
+                  "category": "museum",
+                  "coords": [
+                        11.507819,
+                        47.281099
+                  ]
+            },
+            {
+                  "name": "Tiroler Landesmuseen Sammlungs- und Forschungszentrum",
+                  "text": "The Tiroler Landesmuseen Sammlungs- und Forschungszentrum in Hall In Tirol offers interesting insights into local history and culture. It is a recommended destination for history buffs.",
+                  "category": "museum",
+                  "coords": [
+                        11.515895,
+                        47.287048
+                  ]
+            },
+            {
+                  "name": "Gemeindemuseum Absam",
+                  "text": "The Gemeindemuseum Absam in Hall In Tirol offers interesting insights into local history and culture. It is a recommended destination for history buffs.",
+                  "category": "museum",
+                  "coords": [
+                        11.500882,
+                        47.295319
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Hall",
+                  "text": "The Stadtmuseum Hall in Hall In Tirol offers interesting insights into local history and culture. It is a recommended destination for history buffs.",
+                  "category": "museum",
+                  "coords": [
+                        11.50701,
+                        47.279324
+                  ]
+            },
+            {
+                  "name": "Ansitz Granz",
+                  "text": "The Ansitz Granz is a historic manor house in Hall In Tirol. The building is an important testament to local architectural history.",
+                  "category": "historical",
+                  "coords": [
+                        11.472514,
+                        47.29211
+                  ]
+            },
+            {
+                  "name": "Stromboli",
+                  "text": "The Stromboli is a vibrant meeting place for art and culture in Hall In Tirol. It offers a diverse program for creative visitors.",
+                  "category": "cultural",
+                  "coords": [
+                        11.50577,
+                        47.282736
+                  ]
+            },
+            {
+                  "name": "Nepomukkapelle",
+                  "text": "The Nepomukkapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.520901,
+                        47.306471
+                  ]
+            },
+            {
+                  "name": "Josefskapelle",
+                  "text": "The Josefskapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.510577,
+                        47.281056
+                  ]
+            },
+            {
+                  "name": "Borgiaskapelle",
+                  "text": "The Borgiaskapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.532576,
+                        47.273964
+                  ]
+            },
+            {
+                  "name": "Mariä Heimsuchung",
+                  "text": "The Mariä Heimsuchung is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.50576,
+                        47.260365
+                  ]
+            },
+            {
+                  "name": "Salvatorkirche",
+                  "text": "The Salvatorkirche is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.505006,
+                        47.281216
+                  ]
+            },
+            {
+                  "name": "Heilig-Kreuz Kirche",
+                  "text": "The Heilig-Kreuz Kirche is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.493993,
+                        47.286815
+                  ]
+            },
+            {
+                  "name": "Kaiser Franz Josef-Gedächtniskapelle",
+                  "text": "The Kaiser Franz Josef-Gedächtniskapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.508863,
+                        47.286715
+                  ]
+            },
+            {
+                  "name": "Kapelle Maria Schnee",
+                  "text": "The Kapelle Maria Schnee is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.511623,
+                        47.28118
+                  ]
+            },
+            {
+                  "name": "Sonnenkapelle",
+                  "text": "The Sonnenkapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.51345,
+                        47.274862
+                  ]
+            },
+            {
+                  "name": "Lehnerkapelle",
+                  "text": "The Lehnerkapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        11.510545,
+                        47.294184
                   ]
             }
       ]
@@ -29912,6 +33404,123 @@ export const austriaCitiesV2: POI[] = [
                         14.49755,
                         48.506207
                   ]
+            },
+            {
+                  "name": "Freilichmuseum Thuryhammer",
+                  "text": "Ein Freilichtmuseum, das eine historische Hammerschmiede am Thuryhof präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.513721,
+                        48.524521
+                  ]
+            },
+            {
+                  "name": "Salzhof",
+                  "text": "Ein ehemaliger Salzspeicher, der heute als Kultur- und Veranstaltungszentrum dient.",
+                  "category": "cultural",
+                  "coords": [
+                        14.503013,
+                        48.512184
+                  ]
+            },
+            {
+                  "name": "Denkmal Widerstandsgruppe \"Neues freies Österreich\"",
+                  "text": "Ein Denkmal für die Widerstandskämpfer gegen den Nationalsozialismus in Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.503087,
+                        48.509738
+                  ]
+            },
+            {
+                  "name": "Teufelsfelsen",
+                  "text": "Eine markante Felsformation in der Nähe von Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.508338,
+                        48.52936
+                  ]
+            },
+            {
+                  "name": "GIG Galerie in der Gerberei",
+                  "text": "Eine Kunstgalerie, die in den Räumen einer alten Gerberei untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.507872,
+                        48.512703
+                  ]
+            },
+            {
+                  "name": "Altstadt-Atelier",
+                  "text": "Ein Atelier und Ausstellungsraum für Kunst in der Altstadt von Freistadt.",
+                  "category": "museum",
+                  "coords": [
+                        14.504247,
+                        48.512627
+                  ]
+            },
+            {
+                  "name": "Bürgerkorpsturm",
+                  "text": "Ein historischer Wehrturm als Teil der Freistädter Stadtbefestigung.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502045,
+                        48.510129
+                  ]
+            },
+            {
+                  "name": "Dechanthofturm",
+                  "text": "Ein markanter Turm der mittelalterlichen Stadtmauer in Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.504045,
+                        48.510025
+                  ]
+            },
+            {
+                  "name": "Kreindlkapelle",
+                  "text": "Eine kleine Kapelle in der Umgebung der Stadt Freistadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.503834,
+                        48.508635
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "Eine historische kleine Kirche im Stadtgebiet von Freistadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.502343,
+                        48.502539
+                  ]
+            },
+            {
+                  "name": "Allerheiligenkapelle",
+                  "text": "Eine kleine Kapelle, die Teil des religiösen Erbes der Region ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.48014,
+                        48.516598
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Eine gotische Hallenkirche in Freistadt, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        14.50627,
+                        48.513251
+                  ]
+            },
+            {
+                  "name": "Hubertuskapelle",
+                  "text": "Eine dem heiligen Hubertus gewidmete Kapelle, oft in Waldnähe gelegen.",
+                  "category": "religious",
+                  "coords": [
+                        14.493467,
+                        48.522663
+                  ]
             }
       ],
       "hu": [
@@ -29967,6 +33576,123 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.49755,
                         48.506207
+                  ]
+            },
+            {
+                  "name": "Freilichmuseum Thuryhammer",
+                  "text": "Szabadtéri múzeum, amely egy történelmi hámort mutat be a Thuryhofnál.",
+                  "category": "museum",
+                  "coords": [
+                        14.513721,
+                        48.524521
+                  ]
+            },
+            {
+                  "name": "Salzhof",
+                  "text": "Egykori sóraktár, amely ma kulturális és rendezvényközpontként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.503013,
+                        48.512184
+                  ]
+            },
+            {
+                  "name": "Denkmal Widerstandsgruppe \"Neues freies Österreich\"",
+                  "text": "A nemzetiszocializmus elleni ellenállók emlékműve Freistadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.503087,
+                        48.509738
+                  ]
+            },
+            {
+                  "name": "Teufelsfelsen",
+                  "text": "Jellegzetes sziklaképződmény Freistadt közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.508338,
+                        48.52936
+                  ]
+            },
+            {
+                  "name": "GIG Galerie in der Gerberei",
+                  "text": "Egy régi cserzőműhely helyiségeiben kialakított művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        14.507872,
+                        48.512703
+                  ]
+            },
+            {
+                  "name": "Altstadt-Atelier",
+                  "text": "Művészeti műhely és kiállítótér Freistadt óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        14.504247,
+                        48.512627
+                  ]
+            },
+            {
+                  "name": "Bürgerkorpsturm",
+                  "text": "Történelmi őrtorony, a freistadti városi erődrendszer része.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502045,
+                        48.510129
+                  ]
+            },
+            {
+                  "name": "Dechanthofturm",
+                  "text": "A középkori városfal egyik jellegzetes tornya Freistadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.504045,
+                        48.510025
+                  ]
+            },
+            {
+                  "name": "Kreindlkapelle",
+                  "text": "Kisméretű kápolna Freistadt városának környékén.",
+                  "category": "religious",
+                  "coords": [
+                        14.503834,
+                        48.508635
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "Történelmi kis templom Freistadt területén.",
+                  "category": "religious",
+                  "coords": [
+                        14.502343,
+                        48.502539
+                  ]
+            },
+            {
+                  "name": "Allerheiligenkapelle",
+                  "text": "Kis kápolna, amely a régió vallási örökségének része.",
+                  "category": "religious",
+                  "coords": [
+                        14.48014,
+                        48.516598
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Gótikus csarnoktemplom Freistadtban, építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        14.50627,
+                        48.513251
+                  ]
+            },
+            {
+                  "name": "Hubertuskapelle",
+                  "text": "Szent Hubertusnak szentelt kápolna, gyakran erdő közelében.",
+                  "category": "religious",
+                  "coords": [
+                        14.493467,
+                        48.522663
                   ]
             }
       ],
@@ -30024,6 +33750,123 @@ export const austriaCitiesV2: POI[] = [
                         14.49755,
                         48.506207
                   ]
+            },
+            {
+                  "name": "Freilichmuseum Thuryhammer",
+                  "text": "Un muzeu în aer liber care prezintă o forjă istorică la Thuryhof.",
+                  "category": "museum",
+                  "coords": [
+                        14.513721,
+                        48.524521
+                  ]
+            },
+            {
+                  "name": "Salzhof",
+                  "text": "Un fost depozit de sare, care astăzi servește drept centru cultural și de evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        14.503013,
+                        48.512184
+                  ]
+            },
+            {
+                  "name": "Denkmal Widerstandsgruppe \"Neues freies Österreich\"",
+                  "text": "Un monument dedicat luptătorilor din rezistență împotriva național-socialismului din Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.503087,
+                        48.509738
+                  ]
+            },
+            {
+                  "name": "Teufelsfelsen",
+                  "text": "O formațiune stâncoasă distinctivă în apropiere de Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.508338,
+                        48.52936
+                  ]
+            },
+            {
+                  "name": "GIG Galerie in der Gerberei",
+                  "text": "O galerie de artă găzduită în spațiile unei vechi tăbăcării.",
+                  "category": "museum",
+                  "coords": [
+                        14.507872,
+                        48.512703
+                  ]
+            },
+            {
+                  "name": "Altstadt-Atelier",
+                  "text": "Un atelier și spațiu de expoziție pentru artă în orașul vechi din Freistadt.",
+                  "category": "museum",
+                  "coords": [
+                        14.504247,
+                        48.512627
+                  ]
+            },
+            {
+                  "name": "Bürgerkorpsturm",
+                  "text": "Un turn de apărare istoric, parte a fortificațiilor orașului Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502045,
+                        48.510129
+                  ]
+            },
+            {
+                  "name": "Dechanthofturm",
+                  "text": "Un turn distinctiv al zidului medieval al orașului Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.504045,
+                        48.510025
+                  ]
+            },
+            {
+                  "name": "Kreindlkapelle",
+                  "text": "O mică capelă în împrejurimile orașului Freistadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.503834,
+                        48.508635
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "O mică biserică istorică în zona orașului Freistadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.502343,
+                        48.502539
+                  ]
+            },
+            {
+                  "name": "Allerheiligenkapelle",
+                  "text": "O mică capelă care face parte din moștenirea religioasă a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        14.48014,
+                        48.516598
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "O biserică gotică tip hală în Freistadt, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        14.50627,
+                        48.513251
+                  ]
+            },
+            {
+                  "name": "Hubertuskapelle",
+                  "text": "O capelă dedicată Sfântului Hubert, situată adesea lângă pădure.",
+                  "category": "religious",
+                  "coords": [
+                        14.493467,
+                        48.522663
+                  ]
             }
       ],
       "en": [
@@ -30079,6 +33922,123 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.49755,
                         48.506207
+                  ]
+            },
+            {
+                  "name": "Freilichmuseum Thuryhammer",
+                  "text": "An open-air museum showcasing a historic hammer mill at the Thuryhof.",
+                  "category": "museum",
+                  "coords": [
+                        14.513721,
+                        48.524521
+                  ]
+            },
+            {
+                  "name": "Salzhof",
+                  "text": "A former salt warehouse that now serves as a cultural and event center.",
+                  "category": "cultural",
+                  "coords": [
+                        14.503013,
+                        48.512184
+                  ]
+            },
+            {
+                  "name": "Denkmal Widerstandsgruppe \"Neues freies Österreich\"",
+                  "text": "A memorial for the resistance fighters against National Socialism in Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.503087,
+                        48.509738
+                  ]
+            },
+            {
+                  "name": "Teufelsfelsen",
+                  "text": "A prominent rock formation located near Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.508338,
+                        48.52936
+                  ]
+            },
+            {
+                  "name": "GIG Galerie in der Gerberei",
+                  "text": "An art gallery housed in the premises of an old tannery.",
+                  "category": "museum",
+                  "coords": [
+                        14.507872,
+                        48.512703
+                  ]
+            },
+            {
+                  "name": "Altstadt-Atelier",
+                  "text": "An art studio and exhibition space in the old town of Freistadt.",
+                  "category": "museum",
+                  "coords": [
+                        14.504247,
+                        48.512627
+                  ]
+            },
+            {
+                  "name": "Bürgerkorpsturm",
+                  "text": "A historic defensive tower as part of the Freistadt town fortifications.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502045,
+                        48.510129
+                  ]
+            },
+            {
+                  "name": "Dechanthofturm",
+                  "text": "A prominent tower of the medieval town wall in Freistadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.504045,
+                        48.510025
+                  ]
+            },
+            {
+                  "name": "Kreindlkapelle",
+                  "text": "A small chapel in the surroundings of the town of Freistadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.503834,
+                        48.508635
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "A small historic church within the town area of Freistadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.502343,
+                        48.502539
+                  ]
+            },
+            {
+                  "name": "Allerheiligenkapelle",
+                  "text": "A small chapel that is part of the religious heritage of the region.",
+                  "category": "religious",
+                  "coords": [
+                        14.48014,
+                        48.516598
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "A Gothic hall church in Freistadt, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        14.50627,
+                        48.513251
+                  ]
+            },
+            {
+                  "name": "Hubertuskapelle",
+                  "text": "A chapel dedicated to Saint Hubertus, often located near a forest.",
+                  "category": "religious",
+                  "coords": [
+                        14.493467,
+                        48.522663
                   ]
             }
       ]
@@ -34394,6 +38354,222 @@ export const austriaCitiesV2: POI[] = [
                         10.747003,
                         47.240341
                   ]
+            },
+            {
+                  "name": "Museum im Ballhaus",
+                  "text": "Das Museum im Ballhaus in Imst zeigt umfangreiche Sammlungen zur Stadtgeschichte und regionalen Kunst. Es ist in einem historischen Gebäude untergebracht, das einst als Ballhaus diente.",
+                  "category": "museum",
+                  "coords": [
+                        10.741734,
+                        47.238324
+                  ]
+            },
+            {
+                  "name": "Fasnachtsmuseum",
+                  "text": "Das Fasnachtsmuseum in Imst widmet sich der Tradition des lokalen Karnevals und dem berühmten Schemenlaufen. Besucher können hier kunstvolle Masken und historische Kostüme der Region bewundern.",
+                  "category": "museum",
+                  "coords": [
+                        10.739626,
+                        47.245591
+                  ]
+            },
+            {
+                  "name": "Blaue Grotte",
+                  "text": "Die Blue Cave bei Imst ist eine bedeutende archäologische Fundstelle in der natürlichen Felslandschaft. Sie bietet Einblicke in die frühe Besiedlungsgeschichte dieser alpinen Region.",
+                  "category": "historical",
+                  "coords": [
+                        10.722818,
+                        47.239394
+                  ]
+            },
+            {
+                  "name": "Stadtbühne Imst",
+                  "text": "Die Stadtbühne Imst ist ein zentraler Veranstaltungsort für Theateraufführungen und kulturelle Darbietungen in der Stadt. Das Haus bietet ein abwechslungsreiches Programm für Einwohner und Gäste.",
+                  "category": "cultural",
+                  "coords": [
+                        10.736631,
+                        47.232484
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Der Pulverturm in Imst ist eine historische Ruine, die einst Teil der alten Stadtbefestigung war. Er steht als steinernes Zeugnis der vergangenen Verteidigungsanlagen in der Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        10.736442,
+                        47.241635
+                  ]
+            },
+            {
+                  "name": "Langegg",
+                  "text": "Langegg ist ein bekannter Aussichtspunkt bei Imst, der einen weiten Blick über das Inntal ermöglicht. Wanderwege führen Besucher zu diesem exponierten Ort inmitten der Tiroler Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        10.710404,
+                        47.239652
+                  ]
+            },
+            {
+                  "name": "Wetterkreuz",
+                  "text": "Das Wetterkreuz dient als markanter Aussichtspunkt auf einer Anhöhe nahe der Stadt Imst. Von hier aus lässt sich das Panorama der umliegenden Gipfel und Täler genießen.",
+                  "category": "natural",
+                  "coords": [
+                        10.73137,
+                        47.245328
+                  ]
+            },
+            {
+                  "name": "Wellingtontanne",
+                  "text": "Die Wellingtontanne ist ein monumentaler Baum in Imst, der aufgrund seiner Größe und Geschichte als Naturdenkmal gilt. Er befindet sich in einem zugänglichen Bereich und ist ein Ziel für Naturfreunde.",
+                  "category": "historical",
+                  "coords": [
+                        10.739787,
+                        47.242043
+                  ]
+            },
+            {
+                  "name": "Aussichtsterrasse",
+                  "text": "Die Aussichtsterrasse in Imst bietet Besuchern einen hervorragenden Überblick über das Stadtzentrum und die umliegende Gebirgslandschaft. Sie ist ein idealer Ort für Fotografen und Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        10.763576,
+                        47.239144
+                  ]
+            },
+            {
+                  "name": "Kurzegg",
+                  "text": "Kurzegg ist ein Aussichtspunkt in der Nähe von Imst, der für seine beeindruckende Fernsicht bekannt ist. Ein Ausflug dorthin verbindet eine kurze Wanderung mit einem Panoramablick auf Tirol.",
+                  "category": "natural",
+                  "coords": [
+                        10.708807,
+                        47.236691
+                  ]
+            },
+            {
+                  "name": "Hinter Hochegg",
+                  "text": "Hinter Hochegg ist ein exponierter Aussichtspunkt, der über Wanderwege von Imst aus erreicht werden kann. Die Lage bietet weite Ausblicke über die alpine Landschaft der Region.",
+                  "category": "natural",
+                  "coords": [
+                        10.717174,
+                        47.245769
+                  ]
+            },
+            {
+                  "name": "Alpine Coaster Imst",
+                  "text": "Der Alpine Coaster in Imst ist eine der längsten Sommerrodelbahnen der Welt und bietet eine rasante Fahrt durch die Natur. Die Strecke ist ein beliebtes Ziel für Abenteuerlustige und Familien.",
+                  "category": "landmark",
+                  "coords": [
+                        10.721377,
+                        47.241859
+                  ]
+            },
+            {
+                  "name": "Rosengartenschlucht",
+                  "text": "Die Rosengartenschlucht in Imst ist ein beeindruckendes Naturdenkmal mit Wasserfällen und steilen Felswänden. Ein gut ausgebauter Steig führt Besucher sicher durch dieses spektakuläre geologische Highlight.",
+                  "category": "landmark",
+                  "coords": [
+                        10.731941,
+                        47.241196
+                  ]
+            },
+            {
+                  "name": "Königskapelle",
+                  "text": "Die Königskapelle in Imst ist ein historisches Denkmal, das zum Gedenken an den sächsischen König Friedrich August II. errichtet wurde. Sie liegt an der Straße und ist für ihre neugotische Architektur bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        10.757312,
+                        47.220632
+                  ]
+            },
+            {
+                  "name": "Kapelle Unser Herr im Elend",
+                  "text": "Die Kapelle Unser Herr im Elend ist ein sakrales Bauwerk in Imst, das der religiösen Andacht dient. Das Gebäude ist ein Beispiel für die barocke Kapellenarchitektur in der Tiroler Region.",
+                  "category": "religious",
+                  "coords": [
+                        10.750741,
+                        47.224088
+                  ]
+            },
+            {
+                  "name": "Expositurkirche hll. Magdalena und Nikolaus",
+                  "text": "Die Expositurkirche hll. Magdalena und Nikolaus ist ein wichtiges religiöses Zentrum im Stadtgebiet von Imst. Das Kirchengebäude beherbergt sehenswerte Altäre und Kunstwerke.",
+                  "category": "religious",
+                  "coords": [
+                        10.768058,
+                        47.225361
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Die Kapuzinerkirche in Imst ist Teil des örtlichen Klosters und ein Ort der Stille und Liturgie. Das Gebäude zeichnet sich durch seine schlichte Architektur aus, die typisch für den Kapuzinerorden ist.",
+                  "category": "religious",
+                  "coords": [
+                        10.739112,
+                        47.238537
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Die Johanneskirche in Imst ist ein sakrales Bauwerk, das der christlichen Gemeinde als Gotteshaus dient. Die Kirche fügt sich harmonisch in das historische Stadtbild von Imst ein.",
+                  "category": "religious",
+                  "coords": [
+                        10.73846,
+                        47.242123
+                  ]
+            },
+            {
+                  "name": "Laurentiuskirche",
+                  "text": "Die Laurentiuskirche ist eine bedeutende religiöse Stätte in Imst, die dem heiligen Laurentius geweiht ist. Sie ist für ihre kunstvolle Innenausstattung und historische Bedeutung im Ort bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        10.737469,
+                        47.242867
+                  ]
+            },
+            {
+                  "name": "Brennbichler Kirche",
+                  "text": "Die Kirche zu den hl. Engeln in Imst ist ein Gotteshaus, das der spirituellen Gemeinschaft gewidmet ist. Das Gebäude besticht durch seine klare Gestaltung und lädt zur inneren Einkehr ein.",
+                  "category": "religious",
+                  "coords": [
+                        10.749452,
+                        47.224288
+                  ]
+            },
+            {
+                  "name": "Pestkapelle",
+                  "text": "Die Pestkapelle in Imst wurde zur Erinnerung an vergangene Seuchenzeiten als religiöses Mahnmal errichtet. Sie steht als historisches Bauwerk an einem markanten Punkt im Stadtgebiet.",
+                  "category": "religious",
+                  "coords": [
+                        10.736157,
+                        47.245013
+                  ]
+            },
+            {
+                  "name": "Kapuzinereremitage",
+                  "text": "Die Kapuzinereremitage in Imst ist ein Ort der Zurückgezogenheit, der eng mit dem Kapuzinerkloster verbunden ist. Sie dient als Raum für stille Gebete und das einfache klösterliche Leben.",
+                  "category": "religious",
+                  "coords": [
+                        10.738995,
+                        47.237405
+                  ]
+            },
+            {
+                  "name": "Pitztalbrücke",
+                  "text": "Die Pitztalbrücke bei Imst ist ein beeindruckendes Bauwerk, das das Inntal überspannt und die Verbindung zum Pitztal ermöglicht. Sie gilt als bedeutendes Beispiel moderner Ingenieurskunst in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.756695,
+                        47.218777
+                  ]
+            },
+            {
+                  "name": "Katharinenkapelle",
+                  "text": "Die Katharinenkapelle in Imst ist ein kleines sakrales Gebäude, das der heiligen Katharina gewidmet ist. Sie zeichnet sich durch ihre intime Atmosphäre und historische Bauweise aus.",
+                  "category": "religious",
+                  "coords": [
+                        10.738526,
+                        47.259557
+                  ]
             }
       ],
       "hu": [
@@ -34521,6 +38697,222 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         10.747003,
                         47.240341
+                  ]
+            },
+            {
+                  "name": "Museum im Ballhaus",
+                  "text": "Az imsti Museum im Ballhaus kiterjedt gyűjteményeket mutat be a város történelméről és a regionális művészetről. Az intézmény egy történelmi épületben kapott helyet, amely egykor bálházként szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        10.741734,
+                        47.238324
+                  ]
+            },
+            {
+                  "name": "Fasnachtsmuseum",
+                  "text": "Az imsti Fasnachtsmuseum a helyi karnevál és a híres Schemenlaufen hagyományainak szentelt intézmény. A látogatók itt megcsodálhatják a régió művészi maszkjait és történelmi jelmezeit.",
+                  "category": "museum",
+                  "coords": [
+                        10.739626,
+                        47.245591
+                  ]
+            },
+            {
+                  "name": "Blaue Grotte",
+                  "text": "Az Imst melletti Blue Cave egy jelentős régészeti lelőhely a természetes sziklakörnyezetben. Betekintést nyújt ezen alpesi régió korai betelepülési történetébe.",
+                  "category": "historical",
+                  "coords": [
+                        10.722818,
+                        47.239394
+                  ]
+            },
+            {
+                  "name": "Stadtbühne Imst",
+                  "text": "A Stadtbühne Imst a város központi helyszíne a színházi előadások és kulturális produkciók számára. Az intézmény változatos programot kínál a lakosok és a vendégek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        10.736631,
+                        47.232484
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Az imsti Pulverturm egy történelmi rom, amely egykor a régi városi erődítmény része volt. A védművek múltbeli jelentőségének kőből épült tanújaként áll a tájban.",
+                  "category": "historical",
+                  "coords": [
+                        10.736442,
+                        47.241635
+                  ]
+            },
+            {
+                  "name": "Langegg",
+                  "text": "A Langegg egy ismert kilátópont Imst közelében, amely széles kilátást nyújt az Inn völgyére. Túraútvonalak vezetik a látogatókat ehhez a tiroli hegyvilágban található kiemelt ponthoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.710404,
+                        47.239652
+                  ]
+            },
+            {
+                  "name": "Wetterkreuz",
+                  "text": "A Wetterkreuz jellegzetes kilátópontként szolgál egy dombtetőn, Imst városa közelében. Innen élvezhető a környező csúcsok és völgyek panorámája.",
+                  "category": "natural",
+                  "coords": [
+                        10.73137,
+                        47.245328
+                  ]
+            },
+            {
+                  "name": "Wellingtontanne",
+                  "text": "A Wellingtontanne egy monumentális fa Imstben, amely mérete és története miatt természeti emlékként ismert. Egy könnyen megközelíthető területen található, és kedvelt célpont a természetbarátok számára.",
+                  "category": "historical",
+                  "coords": [
+                        10.739787,
+                        47.242043
+                  ]
+            },
+            {
+                  "name": "Aussichtsterrasse",
+                  "text": "Az imsti kilátóterasz kiváló rálátást biztosít a városközpontra és a környező hegyi tájra. Ideális helyszín a fotósok és a pihenni vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        10.763576,
+                        47.239144
+                  ]
+            },
+            {
+                  "name": "Kurzegg",
+                  "text": "A Kurzegg egy kilátópont Imst közelében, amely lenyűgöző messzire nyúló kilátásáról ismert. Az oda vezető kirándulás rövid túrát és tiroli panorámát kínál.",
+                  "category": "natural",
+                  "coords": [
+                        10.708807,
+                        47.236691
+                  ]
+            },
+            {
+                  "name": "Hinter Hochegg",
+                  "text": "A Hinter Hochegg egy kiemelt kilátópont, amely Imst felől túraútvonalakon érhető el. A helyszín tágas kilátást nyújt a régió alpesi tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        10.717174,
+                        47.245769
+                  ]
+            },
+            {
+                  "name": "Alpine Coaster Imst",
+                  "text": "Az imsti Alpine Coaster a világ egyik leghosszabb nyári bobpályája, amely tempós száguldást kínál a természetben. A pálya kedvelt célpont a kalandvágyók és a családok körében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.721377,
+                        47.241859
+                  ]
+            },
+            {
+                  "name": "Rosengartenschlucht",
+                  "text": "Az imsti Rosengartenschlucht egy lenyűgöző természeti emlék vízesésekkel és meredek sziklafalakkal. Egy jól kiépített ösvény vezeti át biztonságosan a látogatókat ezen a látványos geológiai helyszínen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.731941,
+                        47.241196
+                  ]
+            },
+            {
+                  "name": "Königskapelle",
+                  "text": "Az imsti Königskapelle egy történelmi emlékhely, amelyet II. Frigyes Ágost szász király emlékére emeltek. Az út mellett található, és neogótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        10.757312,
+                        47.220632
+                  ]
+            },
+            {
+                  "name": "Kapelle Unser Herr im Elend",
+                  "text": "Az Unser Herr im Elend kápolna egy vallási áhítatra szolgáló épület Imstben. Az építmény a tiroli régió barokk kápolnaépítészetének egyik példája.",
+                  "category": "religious",
+                  "coords": [
+                        10.750741,
+                        47.224088
+                  ]
+            },
+            {
+                  "name": "Expositurkirche hll. Magdalena und Nikolaus",
+                  "text": "A Szent Magdolna és Szent Miklós templom Imst városának egyik fontos vallási központja. A templomépület figyelemre méltó oltároknak és műalkotásoknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        10.768058,
+                        47.225361
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Az imsti Kapucinus templom a helyi kolostor része, a csend és a liturgia helyszíne. Az épületet a kapucinus rendre jellemző egyszerű építészet határozza meg.",
+                  "category": "religious",
+                  "coords": [
+                        10.739112,
+                        47.238537
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Az imsti János-templom egy szakrális építmény, amely a keresztény közösség istentiszteleti helyeként szolgál. A templom harmonikusan illeszkedik Imst történelmi városképébe.",
+                  "category": "religious",
+                  "coords": [
+                        10.73846,
+                        47.242123
+                  ]
+            },
+            {
+                  "name": "Laurentiuskirche",
+                  "text": "A Lőrinc-templom Imst egyik jelentős vallási helyszíne, amelyet Szent Lőrincnek szenteltek. Művészi belső berendezéséről és a településen betöltött történelmi jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        10.737469,
+                        47.242867
+                  ]
+            },
+            {
+                  "name": "Kirche zu den hl. Engeln",
+                  "text": "Az imsti Szent Angyalok temploma a hívő közösségnek szentelt istentiszteleti hely. Az épület tiszta vonalvezetésével nyűgöz le, és belső elcsendesedésre hív.",
+                  "category": "religious",
+                  "coords": [
+                        10.749452,
+                        47.224288
+                  ]
+            },
+            {
+                  "name": "Pestkapelle",
+                  "text": "Az imsti Pestkapelle a múltbeli járványok emlékére épült vallási mementóként. Történelmi építményként áll a város egyik jellegzetes pontján.",
+                  "category": "religious",
+                  "coords": [
+                        10.736157,
+                        47.245013
+                  ]
+            },
+            {
+                  "name": "Kapuzinereremitage",
+                  "text": "Az imsti Kapuzinereremitage a visszavonultság helyszíne, amely szorosan kapcsolódik a kapucinus kolostorhoz. Csendes imádságok és az egyszerű szerzetesi élet helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        10.738995,
+                        47.237405
+                  ]
+            },
+            {
+                  "name": "Pitztalbrücke",
+                  "text": "Az Imst közeli Pitztalbrücke egy lenyűgöző építmény, amely átível az Inn völgyén, és kapcsolatot biztosít a Pitztal felé. A modern mérnöki tudomány jelentős példájaként tartják számon a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.756695,
+                        47.218777
+                  ]
+            },
+            {
+                  "name": "Katharinenkapelle",
+                  "text": "Az imsti Katalin-kápolna egy kis szakrális épület, amelyet Szent Katalinnak szenteltek. Meghitt hangulata és történelmi építésmódja jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        10.738526,
+                        47.259557
                   ]
             }
       ],
@@ -34650,6 +39042,222 @@ export const austriaCitiesV2: POI[] = [
                         10.747003,
                         47.240341
                   ]
+            },
+            {
+                  "name": "Museum im Ballhaus",
+                  "text": "Museum im Ballhaus din Imst prezintă colecții extinse despre istoria orașului și arta regională. Este găzduit într-o clădire istorică ce a servit odinioară drept casă de bal.",
+                  "category": "museum",
+                  "coords": [
+                        10.741734,
+                        47.238324
+                  ]
+            },
+            {
+                  "name": "Fasnachtsmuseum",
+                  "text": "Muzeul Fasnacht din Imst este dedicat tradiției carnavalului local și celebrului festival Schemenlaufen. Vizitatorii pot admira aici măști artistice și costume istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        10.739626,
+                        47.245591
+                  ]
+            },
+            {
+                  "name": "Blaue Grotte",
+                  "text": "Blue Cave de lângă Imst este un sit arheologic semnificativ situat într-un peisaj stâncos natural. Aceasta oferă perspective asupra istoriei timpurii a așezărilor din această regiune alpină.",
+                  "category": "historical",
+                  "coords": [
+                        10.722818,
+                        47.239394
+                  ]
+            },
+            {
+                  "name": "Stadtbühne Imst",
+                  "text": "Stadtbühne Imst este un loc central pentru spectacole de teatru și reprezentații culturale în oraș. Casa oferă un program variat pentru locuitori și oaspeți.",
+                  "category": "cultural",
+                  "coords": [
+                        10.736631,
+                        47.232484
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Pulverturm din Imst este o ruină istorică ce a făcut parte odinioară din vechile fortificații ale orașului. Acesta rămâne o mărturie de piatră a fostelor sisteme de apărare din peisaj.",
+                  "category": "historical",
+                  "coords": [
+                        10.736442,
+                        47.241635
+                  ]
+            },
+            {
+                  "name": "Langegg",
+                  "text": "Langegg este un punct de belvedere cunoscut lângă Imst, care permite o vedere panoramică asupra văii Inn. Traseele de drumeție conduc vizitatorii către acest loc expus din mijlocul munților tirolezi.",
+                  "category": "natural",
+                  "coords": [
+                        10.710404,
+                        47.239652
+                  ]
+            },
+            {
+                  "name": "Wetterkreuz",
+                  "text": "Wetterkreuz servește ca un punct de belvedere proeminent pe o înălțime de lângă orașul Imst. De aici se poate admira panorama vârfurilor și văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        10.73137,
+                        47.245328
+                  ]
+            },
+            {
+                  "name": "Wellingtontanne",
+                  "text": "Wellingtontanne este un arbore monumental din Imst, considerat monument al naturii datorită dimensiunii și istoriei sale. Acesta se află într-o zonă accesibilă și este o destinație pentru iubitorii de natură.",
+                  "category": "historical",
+                  "coords": [
+                        10.739787,
+                        47.242043
+                  ]
+            },
+            {
+                  "name": "Aussichtsterrasse",
+                  "text": "Terasa de belvedere din Imst oferă vizitatorilor o vedere excelentă asupra centrului orașului și a peisajului montan înconjurător. Este un loc ideal pentru fotografi și pentru cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        10.763576,
+                        47.239144
+                  ]
+            },
+            {
+                  "name": "Kurzegg",
+                  "text": "Kurzegg este un punct de belvedere în apropiere de Imst, cunoscut pentru vederea sa impresionantă la distanță. O excursie acolo combină o scurtă drumeție cu o vedere panoramică asupra Tirolului.",
+                  "category": "natural",
+                  "coords": [
+                        10.708807,
+                        47.236691
+                  ]
+            },
+            {
+                  "name": "Hinter Hochegg",
+                  "text": "Hinter Hochegg este un punct de belvedere expus care poate fi accesat prin trasee de drumeție din Imst. Locația oferă vederi largi asupra peisajului alpin al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        10.717174,
+                        47.245769
+                  ]
+            },
+            {
+                  "name": "Alpine Coaster Imst",
+                  "text": "Alpine Coaster din Imst este unul dintre cele mai lungi tobogane de vară din lume și oferă o cursă rapidă prin natură. Traseul este o destinație populară pentru amatorii de aventură și familii.",
+                  "category": "landmark",
+                  "coords": [
+                        10.721377,
+                        47.241859
+                  ]
+            },
+            {
+                  "name": "Rosengartenschlucht",
+                  "text": "Rosengartenschlucht din Imst este un monument al naturii impresionant, cu cascade și pereți stâncoși abrupți. O potecă bine amenajată conduce vizitatorii în siguranță prin acest punct de atracție geologic spectaculos.",
+                  "category": "landmark",
+                  "coords": [
+                        10.731941,
+                        47.241196
+                  ]
+            },
+            {
+                  "name": "Königskapelle",
+                  "text": "Königskapelle din Imst este un monument istoric ridicat în memoria regelui saxon Friedrich August al II-lea. Este situată la drum și este cunoscută pentru arhitectura sa neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        10.757312,
+                        47.220632
+                  ]
+            },
+            {
+                  "name": "Kapelle Unser Herr im Elend",
+                  "text": "Capela Unser Herr im Elend este un edificiu sacru din Imst dedicat devoțiunii religioase. Clădirea este un exemplu de arhitectură barocă a capelelor din regiunea tiroleză.",
+                  "category": "religious",
+                  "coords": [
+                        10.750741,
+                        47.224088
+                  ]
+            },
+            {
+                  "name": "Expositurkirche hll. Magdalena und Nikolaus",
+                  "text": "Biserica filială Sf. Magdalena și Nicolae este un centru religios important din zona orașului Imst. Clădirea bisericii adăpostește altare și opere de artă care merită vizitate.",
+                  "category": "religious",
+                  "coords": [
+                        10.768058,
+                        47.225361
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Biserica Capucinilor din Imst face parte din mănăstirea locală și este un loc de liniște și liturghie. Clădirea se caracterizează prin arhitectura sa simplă, tipică ordinului capucinilor.",
+                  "category": "religious",
+                  "coords": [
+                        10.739112,
+                        47.238537
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Biserica Sfântului Ioan din Imst este un edificiu sacru care servește comunității creștine ca lăcaș de cult. Biserica se integrează armonios în imaginea istorică a orașului Imst.",
+                  "category": "religious",
+                  "coords": [
+                        10.73846,
+                        47.242123
+                  ]
+            },
+            {
+                  "name": "Laurentiuskirche",
+                  "text": "Biserica Sfântului Laurențiu este un lăcaș religios semnificativ din Imst, dedicat Sfântului Laurențiu. Este cunoscută pentru interiorul său artistic și importanța sa istorică în localitate.",
+                  "category": "religious",
+                  "coords": [
+                        10.737469,
+                        47.242867
+                  ]
+            },
+            {
+                  "name": "Kirche zu den hl. Engeln",
+                  "text": "Biserica Sfântului Îngeri din Imst este un lăcaș de cult dedicat comunității spirituale. Clădirea impresionează prin designul său clar și invită la meditație interioară.",
+                  "category": "religious",
+                  "coords": [
+                        10.749452,
+                        47.224288
+                  ]
+            },
+            {
+                  "name": "Pestkapelle",
+                  "text": "Capela Ciumei din Imst a fost ridicată ca un monument religios în amintirea perioadelor de epidemie din trecut. Aceasta este o clădire istorică situată într-un punct proeminent al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        10.736157,
+                        47.245013
+                  ]
+            },
+            {
+                  "name": "Kapuzinereremitage",
+                  "text": "Schitul Capucinilor din Imst este un loc de retragere strâns legat de mănăstirea capucinilor. Acesta servește ca spațiu pentru rugăciune în liniște și pentru viața monahală simplă.",
+                  "category": "religious",
+                  "coords": [
+                        10.738995,
+                        47.237405
+                  ]
+            },
+            {
+                  "name": "Pitztalbrücke",
+                  "text": "Podul Pitztal de lângă Imst este o construcție impresionantă care traversează valea Inn și permite legătura către Pitztal. Este considerat un exemplu semnificativ de inginerie modernă în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        10.756695,
+                        47.218777
+                  ]
+            },
+            {
+                  "name": "Katharinenkapelle",
+                  "text": "Capela Sfânta Ecaterina din Imst este o mică clădire sacră dedicată Sfintei Ecaterina. Se remarcă prin atmosfera sa intimă și stilul arhitectural istoric.",
+                  "category": "religious",
+                  "coords": [
+                        10.738526,
+                        47.259557
+                  ]
             }
       ],
       "en": [
@@ -34777,6 +39385,222 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         10.747003,
                         47.240341
+                  ]
+            },
+            {
+                  "name": "Museum im Ballhaus",
+                  "text": "The Museum im Ballhaus in Imst displays extensive collections on city history and regional art. It is housed in a historic building that once served as a ballroom.",
+                  "category": "museum",
+                  "coords": [
+                        10.741734,
+                        47.238324
+                  ]
+            },
+            {
+                  "name": "Fasnachtsmuseum",
+                  "text": "The Fasnachtsmuseum in Imst is dedicated to the tradition of the local carnival and the famous Schemenlaufen parade. Visitors can admire artistic masks and historic costumes of the region here.",
+                  "category": "museum",
+                  "coords": [
+                        10.739626,
+                        47.245591
+                  ]
+            },
+            {
+                  "name": "Blue Cave",
+                  "text": "The Blue Cave near Imst is a significant archaeological site located in the natural rock landscape. It offers insights into the early settlement history of this alpine region.",
+                  "category": "historical",
+                  "coords": [
+                        10.722818,
+                        47.239394
+                  ]
+            },
+            {
+                  "name": "Stadtbühne Imst",
+                  "text": "The Stadtbühne Imst is a central venue for theater performances and cultural presentations in the city. The venue offers a diverse program for residents and guests.",
+                  "category": "cultural",
+                  "coords": [
+                        10.736631,
+                        47.232484
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "The Pulverturm in Imst is a historic ruin that was once part of the old city fortifications. It stands as a stone witness to past defense systems in the landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.736442,
+                        47.241635
+                  ]
+            },
+            {
+                  "name": "Langegg",
+                  "text": "Langegg is a well-known viewpoint near Imst that offers a wide view over the Inn Valley. Hiking trails lead visitors to this exposed spot in the midst of the Tyrolean mountains.",
+                  "category": "natural",
+                  "coords": [
+                        10.710404,
+                        47.239652
+                  ]
+            },
+            {
+                  "name": "Wetterkreuz",
+                  "text": "The Wetterkreuz serves as a prominent viewpoint on a hill near the town of Imst. From here, you can enjoy the panorama of the surrounding peaks and valleys.",
+                  "category": "natural",
+                  "coords": [
+                        10.73137,
+                        47.245328
+                  ]
+            },
+            {
+                  "name": "Wellingtontanne",
+                  "text": "The Wellingtontanne is a monumental tree in Imst, regarded as a natural monument due to its size and history. It is located in an accessible area and is a destination for nature enthusiasts.",
+                  "category": "historical",
+                  "coords": [
+                        10.739787,
+                        47.242043
+                  ]
+            },
+            {
+                  "name": "Aussichtsterrasse",
+                  "text": "The viewing terrace in Imst offers visitors an excellent overview of the city center and the surrounding mountain landscape. It is an ideal spot for photographers and those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        10.763576,
+                        47.239144
+                  ]
+            },
+            {
+                  "name": "Kurzegg",
+                  "text": "Kurzegg is a viewpoint near Imst known for its impressive long-distance views. A trip there combines a short hike with a panoramic view of Tyrol.",
+                  "category": "natural",
+                  "coords": [
+                        10.708807,
+                        47.236691
+                  ]
+            },
+            {
+                  "name": "Hinter Hochegg",
+                  "text": "Hinter Hochegg is an exposed viewpoint that can be reached via hiking trails from Imst. The location offers expansive views across the region's alpine landscape.",
+                  "category": "natural",
+                  "coords": [
+                        10.717174,
+                        47.245769
+                  ]
+            },
+            {
+                  "name": "Alpine Coaster Imst",
+                  "text": "The Alpine Coaster in Imst is one of the world's longest summer toboggan runs, offering a fast ride through nature. The track is a popular destination for thrill-seekers and families.",
+                  "category": "landmark",
+                  "coords": [
+                        10.721377,
+                        47.241859
+                  ]
+            },
+            {
+                  "name": "Rosengartenschlucht",
+                  "text": "The Rosengartenschlucht in Imst is an impressive natural monument with waterfalls and steep rock walls. A well-maintained path leads visitors safely through this spectacular geological highlight.",
+                  "category": "landmark",
+                  "coords": [
+                        10.731941,
+                        47.241196
+                  ]
+            },
+            {
+                  "name": "Königskapelle",
+                  "text": "The Königskapelle in Imst is a historical monument erected in memory of the Saxon King Friedrich August II. It is located by the road and is known for its neo-Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        10.757312,
+                        47.220632
+                  ]
+            },
+            {
+                  "name": "Kapelle Unser Herr im Elend",
+                  "text": "The chapel Unser Herr im Elend is a sacred building in Imst used for religious devotion. The building is an example of Baroque chapel architecture in the Tyrolean region.",
+                  "category": "religious",
+                  "coords": [
+                        10.750741,
+                        47.224088
+                  ]
+            },
+            {
+                  "name": "Expositurkirche hll. Magdalena und Nikolaus",
+                  "text": "The Expositurkirche hll. Magdalena und Nikolaus is an important religious center within the city area of Imst. The church building houses noteworthy altars and artworks.",
+                  "category": "religious",
+                  "coords": [
+                        10.768058,
+                        47.225361
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "The Capuchin Church in Imst is part of the local monastery and a place of silence and liturgy. The building is characterized by its simple architecture, typical of the Capuchin order.",
+                  "category": "religious",
+                  "coords": [
+                        10.739112,
+                        47.238537
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "The Johanneskirche in Imst is a sacred building that serves the Christian community as a house of worship. The church blends harmoniously into the historic cityscape of Imst.",
+                  "category": "religious",
+                  "coords": [
+                        10.73846,
+                        47.242123
+                  ]
+            },
+            {
+                  "name": "Laurentiuskirche",
+                  "text": "The Laurentiuskirche is a significant religious site in Imst dedicated to Saint Lawrence. It is known for its artistic interior decoration and historical importance in the town.",
+                  "category": "religious",
+                  "coords": [
+                        10.737469,
+                        47.242867
+                  ]
+            },
+            {
+                  "name": "Kirche zu den hl. Engeln",
+                  "text": "The Church of the Holy Angels in Imst is a place of worship dedicated to the spiritual community. The building impresses with its clear design and invites visitors to inner contemplation.",
+                  "category": "religious",
+                  "coords": [
+                        10.749452,
+                        47.224288
+                  ]
+            },
+            {
+                  "name": "Pestkapelle",
+                  "text": "The Pestkapelle in Imst was built as a religious memorial in remembrance of past plague times. It stands as a historic building at a prominent point within the city area.",
+                  "category": "religious",
+                  "coords": [
+                        10.736157,
+                        47.245013
+                  ]
+            },
+            {
+                  "name": "Kapuzinereremitage",
+                  "text": "The Capuchin Hermitage in Imst is a place of seclusion closely connected to the Capuchin monastery. It serves as a space for quiet prayer and simple monastic life.",
+                  "category": "religious",
+                  "coords": [
+                        10.738995,
+                        47.237405
+                  ]
+            },
+            {
+                  "name": "Pitztalbrücke",
+                  "text": "The Pitztalbrücke near Imst is an impressive structure spanning the Inn Valley and providing access to the Pitztal. It is considered a significant example of modern engineering in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.756695,
+                        47.218777
+                  ]
+            },
+            {
+                  "name": "Katharinenkapelle",
+                  "text": "The Katharinenkapelle in Imst is a small sacred building dedicated to Saint Catherine. It is characterized by its intimate atmosphere and historic construction.",
+                  "category": "religious",
+                  "coords": [
+                        10.738526,
+                        47.259557
                   ]
             }
       ]
@@ -36257,6 +41081,231 @@ export const austriaCitiesV2: POI[] = [
                         16.318821,
                         48.071808
                   ]
+            },
+            {
+                  "name": "Schloss Liechtenstein",
+                  "text": "Ein romantisches Schloss aus dem 19. Jahrhundert am Rande des Wienerwaldes.",
+                  "category": "castle",
+                  "coords": [
+                        16.271984,
+                        48.092011
+                  ]
+            },
+            {
+                  "name": "Burg zu Perchtoldsdorf",
+                  "text": "Eine mächtige mittelalterliche Burganlage im Zentrum von Perchtoldsdorf.",
+                  "category": "castle",
+                  "coords": [
+                        16.26424,
+                        48.119757
+                  ]
+            },
+            {
+                  "name": "Schloss Hunyadi",
+                  "text": "Ein barockes Landschloss in Maria Enzersdorf, heute ein Veranstaltungsort.",
+                  "category": "castle",
+                  "coords": [
+                        16.282378,
+                        48.098647
+                  ]
+            },
+            {
+                  "name": "Burgruine Mödling",
+                  "text": "Die Ruine einer einst bedeutenden mittelalterlichen Hochburg über Mödling.",
+                  "category": "castle",
+                  "coords": [
+                        16.267361,
+                        48.079348
+                  ]
+            },
+            {
+                  "name": "Schaubergwerk Seegrotte Hinterbrühl",
+                  "text": "Ein ehemaliges Gipsbergwerk mit dem größten unterirdischen See Europas.",
+                  "category": "landmark",
+                  "coords": [
+                        16.257343,
+                        48.086125
+                  ]
+            },
+            {
+                  "name": "Jennyberg",
+                  "text": "Ein markanter Berg im Wienerwald bei Mödling mit Aussichtspunkten.",
+                  "category": "natural",
+                  "coords": [
+                        16.27822,
+                        48.075615
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum Mödling",
+                  "text": "Das Museum zeigt Exponate zur regionalen Volkskunde und Handwerk.",
+                  "category": "museum",
+                  "coords": [
+                        16.28584,
+                        48.086337
+                  ]
+            },
+            {
+                  "name": "Mödlinger Stadtverkehrsmuseum",
+                  "text": "Ein Museum, das sich der Geschichte des öffentlichen Verkehrs in der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.296025,
+                        48.084149
+                  ]
+            },
+            {
+                  "name": "Schönberg Haus",
+                  "text": "Das ehemalige Wohnhaus des Komponisten Arnold Schönberg, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        16.2845,
+                        48.079275
+                  ]
+            },
+            {
+                  "name": "Schlösschen an der Weide",
+                  "text": "Ein kleineres historisches Schlossgebäude in der Nähe von Brunn am Gebirge.",
+                  "category": "castle",
+                  "coords": [
+                        16.283419,
+                        48.097039
+                  ]
+            },
+            {
+                  "name": "St. Gabriel",
+                  "text": "Ein monumentales Missionshaus und eine bedeutende Kirche in Maria Enzersdorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.297242,
+                        48.094738
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche der heiligen Kunigunde",
+                  "text": "Historische Pfarrkirche in Brunn am Gebirge, die als Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        16.285801,
+                        48.107099
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "Eine traditionelle Spitalskirche in Brunn am Gebirge für religiöse Zwecke.",
+                  "category": "religious",
+                  "coords": [
+                        16.267674,
+                        48.121721
+                  ]
+            },
+            {
+                  "name": "Südstadtkirche",
+                  "text": "Moderne Kirche in Brunn am Gebirge, die der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        16.305562,
+                        48.095186
+                  ]
+            },
+            {
+                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
+                  "text": "Bedeutende Wallfahrtskirche in Brunn am Gebirge mit franziskanischer Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        16.284802,
+                        48.101008
+                  ]
+            },
+            {
+                  "name": "Prenningerkapelle",
+                  "text": "Kleine Kapelle in Brunn am Gebirge, die als Ort der Stille dient.",
+                  "category": "religious",
+                  "coords": [
+                        16.318386,
+                        48.08248
+                  ]
+            },
+            {
+                  "name": "Kirche Hochleiten",
+                  "text": "Kirche in Brunn am Gebirge, die für Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        16.255133,
+                        48.10049
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Sakralbau in Brunn am Gebirge, der dem Herzen Jesu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.301864,
+                        48.088702
+                  ]
+            },
+            {
+                  "name": "Efeugrat",
+                  "text": "Markante Felsformation bei Brunn am Gebirge für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        16.270639,
+                        48.080646
+                  ]
+            },
+            {
+                  "name": "Hugo-Wolf-Museum",
+                  "text": "Gedenkstätte und Museum für den Komponisten Hugo Wolf in Brunn am Gebirge.",
+                  "category": "museum",
+                  "coords": [
+                        16.268047,
+                        48.116553
+                  ]
+            },
+            {
+                  "name": "Miniaturwelt Henricoland",
+                  "text": "Miniaturwelt-Museum in Brunn am Gebirge mit detaillierten Modelllandschaften.",
+                  "category": "museum",
+                  "coords": [
+                        16.284414,
+                        48.083797
+                  ]
+            },
+            {
+                  "name": "Museum Mödling",
+                  "text": "Museum in Brunn am Gebirge, das sich der lokalen Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.287934,
+                        48.086571
+                  ]
+            },
+            {
+                  "name": "Rudolf-Steiner-Museum",
+                  "text": "Museum über das Leben und Werk von Rudolf Steiner in Brunn am Gebirge.",
+                  "category": "museum",
+                  "coords": [
+                        16.283358,
+                        48.107755
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Museum in Brunn am Gebirge mit Fundstücken aus der regionalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        16.265151,
+                        48.119807
+                  ]
+            },
+            {
+                  "name": "Kunst im Raum",
+                  "text": "Kunstgalerie in Brunn am Gebirge mit wechselnden Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        16.286101,
+                        48.084158
+                  ]
             }
       ],
       "hu": [
@@ -36465,6 +41514,231 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.318821,
                         48.071808
+                  ]
+            },
+            {
+                  "name": "Schloss Liechtenstein",
+                  "text": "19. századi romantikus kastély a Bécsi-erdő szélén.",
+                  "category": "castle",
+                  "coords": [
+                        16.271984,
+                        48.092011
+                  ]
+            },
+            {
+                  "name": "Burg zu Perchtoldsdorf",
+                  "text": "Hatalmas középkori vár Perchtoldsdorf központjában.",
+                  "category": "castle",
+                  "coords": [
+                        16.26424,
+                        48.119757
+                  ]
+            },
+            {
+                  "name": "Schloss Hunyadi",
+                  "text": "Barokk vidéki kastély Maria Enzersdorfban, ma rendezvényhelyszín.",
+                  "category": "castle",
+                  "coords": [
+                        16.282378,
+                        48.098647
+                  ]
+            },
+            {
+                  "name": "Burgruine Mödling",
+                  "text": "Egy egykor jelentős középkori vár romja Mödling felett.",
+                  "category": "castle",
+                  "coords": [
+                        16.267361,
+                        48.079348
+                  ]
+            },
+            {
+                  "name": "Schaubergwerk Seegrotte Hinterbrühl",
+                  "text": "Egykori gipszbánya Európa legnagyobb földalatti tavával.",
+                  "category": "landmark",
+                  "coords": [
+                        16.257343,
+                        48.086125
+                  ]
+            },
+            {
+                  "name": "Jennyberg",
+                  "text": "Jellegzetes hegy a Bécsi-erdőben Mödlingnél, kilátópontokkal.",
+                  "category": "natural",
+                  "coords": [
+                        16.27822,
+                        48.075615
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum Mödling",
+                  "text": "A múzeum a regionális néprajz és kézművesség emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.28584,
+                        48.086337
+                  ]
+            },
+            {
+                  "name": "Mödlinger Stadtverkehrsmuseum",
+                  "text": "A régió tömegközlekedésének történetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.296025,
+                        48.084149
+                  ]
+            },
+            {
+                  "name": "Schönberg Haus",
+                  "text": "Arnold Schönberg zeneszerző egykori lakóháza, ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.2845,
+                        48.079275
+                  ]
+            },
+            {
+                  "name": "Schlösschen an der Weide",
+                  "text": "Kisebb történelmi kastélyépület Brunn am Gebirge közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.283419,
+                        48.097039
+                  ]
+            },
+            {
+                  "name": "St. Gabriel",
+                  "text": "Monumentális missziós ház és jelentős templom Maria Enzersdorfban.",
+                  "category": "religious",
+                  "coords": [
+                        16.297242,
+                        48.094738
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche der heiligen Kunigunde",
+                  "text": "Történelmi plébániatemplom Brunn am Gebirgében, amely istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        16.285801,
+                        48.107099
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "Hagyományos kórházi templom Brunn am Gebirgében vallási célokra.",
+                  "category": "religious",
+                  "coords": [
+                        16.267674,
+                        48.121721
+                  ]
+            },
+            {
+                  "name": "Südstadtkirche",
+                  "text": "Modern templom Brunn am Gebirgében, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        16.305562,
+                        48.095186
+                  ]
+            },
+            {
+                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
+                  "text": "Jelentős zarándoktemplom Brunn am Gebirgében ferences hagyományokkal.",
+                  "category": "religious",
+                  "coords": [
+                        16.284802,
+                        48.101008
+                  ]
+            },
+            {
+                  "name": "Prenningerkapelle",
+                  "text": "Kisméretű kápolna Brunn am Gebirgében, a nyugalom helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        16.318386,
+                        48.08248
+                  ]
+            },
+            {
+                  "name": "Kirche Hochleiten",
+                  "text": "Brunn am Gebirge temploma, amelyet istentiszteletekhez használnak.",
+                  "category": "religious",
+                  "coords": [
+                        16.255133,
+                        48.10049
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Jézus Szíve tiszteletére szentelt szakrális épület Brunn am Gebirgében.",
+                  "category": "religious",
+                  "coords": [
+                        16.301864,
+                        48.088702
+                  ]
+            },
+            {
+                  "name": "Efeugrat",
+                  "text": "Jellegzetes sziklaalakzat Brunn am Gebirge közelében a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        16.270639,
+                        48.080646
+                  ]
+            },
+            {
+                  "name": "Hugo-Wolf-Museum",
+                  "text": "Emlékhely és múzeum Hugo Wolf zeneszerző tiszteletére Brunn am Gebirgében.",
+                  "category": "museum",
+                  "coords": [
+                        16.268047,
+                        48.116553
+                  ]
+            },
+            {
+                  "name": "Miniaturwelt Henricoland",
+                  "text": "Miniatűr világ múzeum Brunn am Gebirgében részletes modell tájakkal.",
+                  "category": "museum",
+                  "coords": [
+                        16.284414,
+                        48.083797
+                  ]
+            },
+            {
+                  "name": "Museum Mödling",
+                  "text": "Brunn am Gebirge múzeuma, amely a helyi történelemnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        16.287934,
+                        48.086571
+                  ]
+            },
+            {
+                  "name": "Rudolf-Steiner-Museum",
+                  "text": "Rudolf Steiner életét és munkásságát bemutató múzeum Brunn am Gebirgében.",
+                  "category": "museum",
+                  "coords": [
+                        16.283358,
+                        48.107755
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Múzeum Brunn am Gebirgében a régió történelmi leleteivel.",
+                  "category": "museum",
+                  "coords": [
+                        16.265151,
+                        48.119807
+                  ]
+            },
+            {
+                  "name": "Kunst im Raum",
+                  "text": "Művészeti galéria Brunn am Gebirgében változó kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        16.286101,
+                        48.084158
                   ]
             }
       ],
@@ -36675,6 +41949,231 @@ export const austriaCitiesV2: POI[] = [
                         16.318821,
                         48.071808
                   ]
+            },
+            {
+                  "name": "Schloss Liechtenstein",
+                  "text": "Un castel romantic din secolul al XIX-lea la marginea pădurii vieneze.",
+                  "category": "castle",
+                  "coords": [
+                        16.271984,
+                        48.092011
+                  ]
+            },
+            {
+                  "name": "Burg zu Perchtoldsdorf",
+                  "text": "O puternică fortăreață medievală în centrul localității Perchtoldsdorf.",
+                  "category": "castle",
+                  "coords": [
+                        16.26424,
+                        48.119757
+                  ]
+            },
+            {
+                  "name": "Schloss Hunyadi",
+                  "text": "Un castel baroc în Maria Enzersdorf, astăzi loc de desfășurare a evenimentelor.",
+                  "category": "castle",
+                  "coords": [
+                        16.282378,
+                        48.098647
+                  ]
+            },
+            {
+                  "name": "Burgruine Mödling",
+                  "text": "Ruinele unei fortărețe medievale cândva importante deasupra orașului Mödling.",
+                  "category": "castle",
+                  "coords": [
+                        16.267361,
+                        48.079348
+                  ]
+            },
+            {
+                  "name": "Schaubergwerk Seegrotte Hinterbrühl",
+                  "text": "O fostă mină de gips care adăpostește cel mai mare lac subteran din Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        16.257343,
+                        48.086125
+                  ]
+            },
+            {
+                  "name": "Jennyberg",
+                  "text": "Un munte distinctiv în pădurea vieneză de lângă Mödling, cu puncte de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        16.27822,
+                        48.075615
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum Mödling",
+                  "text": "Muzeul prezintă exponate despre folclorul regional și meșteșuguri.",
+                  "category": "museum",
+                  "coords": [
+                        16.28584,
+                        48.086337
+                  ]
+            },
+            {
+                  "name": "Mödlinger Stadtverkehrsmuseum",
+                  "text": "Un muzeu dedicat istoriei transportului public din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        16.296025,
+                        48.084149
+                  ]
+            },
+            {
+                  "name": "Schönberg Haus",
+                  "text": "Fosta casă a compozitorului Arnold Schönberg, astăzi muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        16.2845,
+                        48.079275
+                  ]
+            },
+            {
+                  "name": "Schlösschen an der Weide",
+                  "text": "O clădire de castel istoric mai mică în apropiere de Brunn am Gebirge.",
+                  "category": "castle",
+                  "coords": [
+                        16.283419,
+                        48.097039
+                  ]
+            },
+            {
+                  "name": "St. Gabriel",
+                  "text": "O casă de misiune monumentală și o biserică importantă în Maria Enzersdorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.297242,
+                        48.094738
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche der heiligen Kunigunde",
+                  "text": "Biserică parohială istorică din Brunn am Gebirge, utilizată ca loc de cult.",
+                  "category": "religious",
+                  "coords": [
+                        16.285801,
+                        48.107099
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "O biserică tradițională de spital în Brunn am Gebirge pentru scopuri religioase.",
+                  "category": "religious",
+                  "coords": [
+                        16.267674,
+                        48.121721
+                  ]
+            },
+            {
+                  "name": "Südstadtkirche",
+                  "text": "Biserică modernă din Brunn am Gebirge, care servește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        16.305562,
+                        48.095186
+                  ]
+            },
+            {
+                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
+                  "text": "Biserică importantă de pelerinaj din Brunn am Gebirge, cu tradiție franciscană.",
+                  "category": "religious",
+                  "coords": [
+                        16.284802,
+                        48.101008
+                  ]
+            },
+            {
+                  "name": "Prenningerkapelle",
+                  "text": "O mică capelă în Brunn am Gebirge, servind ca loc de liniște.",
+                  "category": "religious",
+                  "coords": [
+                        16.318386,
+                        48.08248
+                  ]
+            },
+            {
+                  "name": "Kirche Hochleiten",
+                  "text": "Biserică din Brunn am Gebirge, utilizată pentru slujbe religioase.",
+                  "category": "religious",
+                  "coords": [
+                        16.255133,
+                        48.10049
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Edificiu religios din Brunn am Gebirge, dedicat Inimii lui Isus.",
+                  "category": "religious",
+                  "coords": [
+                        16.301864,
+                        48.088702
+                  ]
+            },
+            {
+                  "name": "Efeugrat",
+                  "text": "Formațiune stâncoasă distinctivă lângă Brunn am Gebirge pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.270639,
+                        48.080646
+                  ]
+            },
+            {
+                  "name": "Hugo-Wolf-Museum",
+                  "text": "Casă memorială și muzeu dedicat compozitorului Hugo Wolf în Brunn am Gebirge.",
+                  "category": "museum",
+                  "coords": [
+                        16.268047,
+                        48.116553
+                  ]
+            },
+            {
+                  "name": "Miniaturwelt Henricoland",
+                  "text": "Muzeu de miniaturi în Brunn am Gebirge, cu peisaje modelate detaliat.",
+                  "category": "museum",
+                  "coords": [
+                        16.284414,
+                        48.083797
+                  ]
+            },
+            {
+                  "name": "Museum Mödling",
+                  "text": "Muzeu din Brunn am Gebirge dedicat istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        16.287934,
+                        48.086571
+                  ]
+            },
+            {
+                  "name": "Rudolf-Steiner-Museum",
+                  "text": "Muzeu despre viața și opera lui Rudolf Steiner în Brunn am Gebirge.",
+                  "category": "museum",
+                  "coords": [
+                        16.283358,
+                        48.107755
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Muzeu din Brunn am Gebirge cu descoperiri din istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        16.265151,
+                        48.119807
+                  ]
+            },
+            {
+                  "name": "Kunst im Raum",
+                  "text": "Galerie de artă din Brunn am Gebirge cu expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        16.286101,
+                        48.084158
+                  ]
             }
       ],
       "en": [
@@ -36883,6 +42382,231 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.318821,
                         48.071808
+                  ]
+            },
+            {
+                  "name": "Schloss Liechtenstein",
+                  "text": "A romantic 19th-century castle on the edge of the Vienna Woods.",
+                  "category": "castle",
+                  "coords": [
+                        16.271984,
+                        48.092011
+                  ]
+            },
+            {
+                  "name": "Burg zu Perchtoldsdorf",
+                  "text": "A mighty medieval castle complex in the center of Perchtoldsdorf.",
+                  "category": "castle",
+                  "coords": [
+                        16.26424,
+                        48.119757
+                  ]
+            },
+            {
+                  "name": "Schloss Hunyadi",
+                  "text": "A Baroque country castle in Maria Enzersdorf, now an event venue.",
+                  "category": "castle",
+                  "coords": [
+                        16.282378,
+                        48.098647
+                  ]
+            },
+            {
+                  "name": "Burgruine Mödling",
+                  "text": "The ruins of a once important medieval stronghold overlooking Mödling.",
+                  "category": "castle",
+                  "coords": [
+                        16.267361,
+                        48.079348
+                  ]
+            },
+            {
+                  "name": "Schaubergwerk Seegrotte Hinterbrühl",
+                  "text": "A former gypsum mine containing the largest underground lake in Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        16.257343,
+                        48.086125
+                  ]
+            },
+            {
+                  "name": "Jennyberg",
+                  "text": "A prominent hill in the Vienna Woods near Mödling with viewpoints.",
+                  "category": "natural",
+                  "coords": [
+                        16.27822,
+                        48.075615
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum Mödling",
+                  "text": "The museum displays exhibits on regional folklore and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        16.28584,
+                        48.086337
+                  ]
+            },
+            {
+                  "name": "Mödlinger Stadtverkehrsmuseum",
+                  "text": "A museum dedicated to the history of public transport in the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.296025,
+                        48.084149
+                  ]
+            },
+            {
+                  "name": "Schönberg Haus",
+                  "text": "The former residence of composer Arnold Schönberg, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        16.2845,
+                        48.079275
+                  ]
+            },
+            {
+                  "name": "Schlösschen an der Weide",
+                  "text": "A smaller historic castle building near Brunn am Gebirge.",
+                  "category": "castle",
+                  "coords": [
+                        16.283419,
+                        48.097039
+                  ]
+            },
+            {
+                  "name": "St. Gabriel",
+                  "text": "A monumental mission house and a significant church in Maria Enzersdorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.297242,
+                        48.094738
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche der heiligen Kunigunde",
+                  "text": "Historic parish church in Brunn am Gebirge, serving as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        16.285801,
+                        48.107099
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "A traditional hospital church in Brunn am Gebirge used for religious purposes.",
+                  "category": "religious",
+                  "coords": [
+                        16.267674,
+                        48.121721
+                  ]
+            },
+            {
+                  "name": "Südstadtkirche",
+                  "text": "Modern church in Brunn am Gebirge serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        16.305562,
+                        48.095186
+                  ]
+            },
+            {
+                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
+                  "text": "Significant pilgrimage church in Brunn am Gebirge with Franciscan traditions.",
+                  "category": "religious",
+                  "coords": [
+                        16.284802,
+                        48.101008
+                  ]
+            },
+            {
+                  "name": "Prenningerkapelle",
+                  "text": "Small chapel in Brunn am Gebirge, serving as a place of quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        16.318386,
+                        48.08248
+                  ]
+            },
+            {
+                  "name": "Kirche Hochleiten",
+                  "text": "Church in Brunn am Gebirge used for religious services.",
+                  "category": "religious",
+                  "coords": [
+                        16.255133,
+                        48.10049
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Sacred building in Brunn am Gebirge dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        16.301864,
+                        48.088702
+                  ]
+            },
+            {
+                  "name": "Efeugrat",
+                  "text": "Distinctive cliff formation near Brunn am Gebirge for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        16.270639,
+                        48.080646
+                  ]
+            },
+            {
+                  "name": "Hugo-Wolf-Museum",
+                  "text": "Memorial and museum dedicated to the composer Hugo Wolf in Brunn am Gebirge.",
+                  "category": "museum",
+                  "coords": [
+                        16.268047,
+                        48.116553
+                  ]
+            },
+            {
+                  "name": "Miniaturwelt Henricoland",
+                  "text": "Miniature world museum in Brunn am Gebirge featuring detailed model landscapes.",
+                  "category": "museum",
+                  "coords": [
+                        16.284414,
+                        48.083797
+                  ]
+            },
+            {
+                  "name": "Museum Mödling",
+                  "text": "Museum in Brunn am Gebirge dedicated to local history.",
+                  "category": "museum",
+                  "coords": [
+                        16.287934,
+                        48.086571
+                  ]
+            },
+            {
+                  "name": "Rudolf-Steiner-Museum",
+                  "text": "Museum about the life and work of Rudolf Steiner in Brunn am Gebirge.",
+                  "category": "museum",
+                  "coords": [
+                        16.283358,
+                        48.107755
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Museum in Brunn am Gebirge displaying findings from regional history.",
+                  "category": "museum",
+                  "coords": [
+                        16.265151,
+                        48.119807
+                  ]
+            },
+            {
+                  "name": "Kunst im Raum",
+                  "text": "Art gallery in Brunn am Gebirge featuring rotating exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        16.286101,
+                        48.084158
                   ]
             }
       ]
@@ -39875,6 +45599,51 @@ export const austriaCitiesV2: POI[] = [
                         15.711484,
                         47.112158
                   ]
+            },
+            {
+                  "name": "Museum im Rathaus",
+                  "text": "Das Museum im Rathaus in Gleisdorf bietet interessante Einblicke in die lokale Geschichte und Kultur. Es ist ein empfehlenswertes Ziel für geschichtlich interessierte Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        15.711706,
+                        47.104641
+                  ]
+            },
+            {
+                  "name": "Kulturkeller",
+                  "text": "Das Kulturkeller ist ein lebendiger Treffpunkt für Kunst und Kultur in Gleisdorf. Es bietet ein vielfältiges Programm für kreative Besucher.",
+                  "category": "cultural",
+                  "coords": [
+                        15.70648,
+                        47.109039
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche hl. Laurentius",
+                  "text": "Die Stadtpfarrkirche hl. Laurentius ist ein sakrales Gebäude in Gleisdorf. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        15.710419,
+                        47.10573
+                  ]
+            },
+            {
+                  "name": "Ortskapelle Urscha",
+                  "text": "Die Ortskapelle Urscha ist ein sakrales Gebäude in Gleisdorf. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        15.711449,
+                        47.088433
+                  ]
+            },
+            {
+                  "name": "Filialkirche Mariä Reinigung",
+                  "text": "Die Filialkirche Mariä Reinigung ist ein sakrales Gebäude in Gleisdorf. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        15.704485,
+                        47.103926
+                  ]
             }
       ],
       "hu": [
@@ -39930,6 +45699,51 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.711484,
                         47.112158
+                  ]
+            },
+            {
+                  "name": "Museum im Rathaus",
+                  "text": "A(z) Gleisdorf városában található Museum im Rathaus érdekes betekintést nyújt a helyi történelembe és kultúrába. Történelem iránt érdeklődő látogatóknak ajánlott úticél.",
+                  "category": "museum",
+                  "coords": [
+                        15.711706,
+                        47.104641
+                  ]
+            },
+            {
+                  "name": "Kulturkeller",
+                  "text": "A(z) Kulturkeller a művészet és a kultúra élénk találkozóhelye Gleisdorf városában. Változatos programokat kínál a kreatív látogatók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        15.70648,
+                        47.109039
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche hl. Laurentius",
+                  "text": "A Stadtpfarrkirche hl. Laurentius egy szakrális épület Gleisdorf városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        15.710419,
+                        47.10573
+                  ]
+            },
+            {
+                  "name": "Ortskapelle Urscha",
+                  "text": "A Ortskapelle Urscha egy szakrális épület Gleisdorf városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        15.711449,
+                        47.088433
+                  ]
+            },
+            {
+                  "name": "Filialkirche Mariä Reinigung",
+                  "text": "A Filialkirche Mariä Reinigung egy szakrális épület Gleisdorf városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
+                  "category": "religious",
+                  "coords": [
+                        15.704485,
+                        47.103926
                   ]
             }
       ],
@@ -39987,6 +45801,51 @@ export const austriaCitiesV2: POI[] = [
                         15.711484,
                         47.112158
                   ]
+            },
+            {
+                  "name": "Museum im Rathaus",
+                  "text": "Museum im Rathaus din Gleisdorf oferă perspective interesante asupra istoriei și culturii locale. Este o destinație recomandată pentru vizitatorii interesați de istorie.",
+                  "category": "museum",
+                  "coords": [
+                        15.711706,
+                        47.104641
+                  ]
+            },
+            {
+                  "name": "Kulturkeller",
+                  "text": "Kulturkeller este un punct de întâlnire vibrant pentru artă și cultură în Gleisdorf. Acesta oferă un program diversificat pentru vizitatorii creativi.",
+                  "category": "cultural",
+                  "coords": [
+                        15.70648,
+                        47.109039
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche hl. Laurentius",
+                  "text": "Stadtpfarrkirche hl. Laurentius este un edificiu religios în Gleisdorf. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        15.710419,
+                        47.10573
+                  ]
+            },
+            {
+                  "name": "Ortskapelle Urscha",
+                  "text": "Ortskapelle Urscha este un edificiu religios în Gleisdorf. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        15.711449,
+                        47.088433
+                  ]
+            },
+            {
+                  "name": "Filialkirche Mariä Reinigung",
+                  "text": "Filialkirche Mariä Reinigung este un edificiu religios în Gleisdorf. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        15.704485,
+                        47.103926
+                  ]
             }
       ],
       "en": [
@@ -40042,6 +45901,51 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.711484,
                         47.112158
+                  ]
+            },
+            {
+                  "name": "Museum im Rathaus",
+                  "text": "The Museum im Rathaus in Gleisdorf offers interesting insights into local history and culture. It is a recommended destination for history buffs.",
+                  "category": "museum",
+                  "coords": [
+                        15.711706,
+                        47.104641
+                  ]
+            },
+            {
+                  "name": "Kulturkeller",
+                  "text": "The Kulturkeller is a vibrant meeting place for art and culture in Gleisdorf. It offers a diverse program for creative visitors.",
+                  "category": "cultural",
+                  "coords": [
+                        15.70648,
+                        47.109039
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche hl. Laurentius",
+                  "text": "The Stadtpfarrkirche hl. Laurentius is a religious building in Gleisdorf. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        15.710419,
+                        47.10573
+                  ]
+            },
+            {
+                  "name": "Ortskapelle Urscha",
+                  "text": "The Ortskapelle Urscha is a religious building in Gleisdorf. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        15.711449,
+                        47.088433
+                  ]
+            },
+            {
+                  "name": "Filialkirche Mariä Reinigung",
+                  "text": "The Filialkirche Mariä Reinigung is a religious building in Gleisdorf. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        15.704485,
+                        47.103926
                   ]
             }
       ]

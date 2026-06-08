@@ -1379,6 +1379,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.669009,
                         42.536597
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Das Sport Wellness Mountain Spa in Incles bietet Wellness in einer alpinen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "hu": [
@@ -1623,6 +1632,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.669009,
                         42.536597
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Az inclesi Sport Wellness Mountain Spa wellness-szolgáltatásokat kínál alpesi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ],
@@ -1869,6 +1887,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.669009,
                         42.536597
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Sport Wellness Mountain Spa din Incles oferă wellness într-un cadru alpin.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "en": [
@@ -2113,6 +2140,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.669009,
                         42.536597
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Sport Wellness Mountain Spa in Incles offers wellness in an alpine setting.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ]
@@ -4853,6 +4889,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.579123,
                         42.609685
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Das Sport Wellness Mountain Spa in Ransol ist ein Ziel für Entspannung in den Bergen.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "hu": [
@@ -5106,6 +5151,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.579123,
                         42.609685
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "A ransoli Sport Wellness Mountain Spa a hegyekben való kikapcsolódás egyik helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ],
@@ -5361,6 +5415,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.579123,
                         42.609685
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Sport Wellness Mountain Spa din Ransol este o destinație pentru relaxare în munți.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "en": [
@@ -5614,6 +5677,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.579123,
                         42.609685
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Sport Wellness Mountain Spa in Ransol is a destination for relaxation in the mountains.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ]
@@ -7484,6 +7556,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.669009,
                         42.536597
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Eine Wellness-Einrichtung zur Entspannung in Laldosa Canillo.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "hu": [
@@ -7710,6 +7791,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.669009,
                         42.536597
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Wellness létesítmény a kikapcsolódáshoz Laldosa Canillo településen.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ],
@@ -7938,6 +8028,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.669009,
                         42.536597
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "O facilitate de wellness pentru relaxare în Laldosa Canillo.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "en": [
@@ -8165,6 +8264,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.669009,
                         42.536597
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "A wellness facility offering relaxation in Laldosa Canillo.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ]
 },
@@ -8317,6 +8425,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.667596,
                         42.576844
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Das Sport Wellness Mountain Spa in Armiana bietet Wellness-Einrichtungen zur Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "hu": [
@@ -8381,6 +8498,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.667596,
                         42.576844
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Az armianai Sport Wellness Mountain Spa wellness létesítményeket kínál a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ],
@@ -8447,6 +8573,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.667596,
                         42.576844
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Sport Wellness Mountain Spa din Armiana oferă facilități de wellness pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "en": [
@@ -8511,6 +8646,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.667596,
                         42.576844
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Sport Wellness Mountain Spa in Armiana offers wellness facilities for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ]
@@ -8791,6 +8935,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.681457,
                         42.522722
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Eine Wellness-Einrichtung zur Entspannung in Bordes D Envalira.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "hu": [
@@ -9026,6 +9179,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.681457,
                         42.522722
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Wellness létesítmény a kikapcsolódáshoz Bordes D Envalira településen.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ],
@@ -9263,6 +9425,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.681457,
                         42.522722
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "O facilitate de wellness pentru relaxare în Bordes D Envalira.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "en": [
@@ -9498,6 +9669,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.681457,
                         42.522722
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "A wellness facility offering relaxation in Bordes D Envalira.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ]
@@ -11509,6 +11689,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.687637,
                         42.524791
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Eine Wellness-Einrichtung zur Entspannung in Cascada De Les Moles.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "hu": [
@@ -11834,6 +12023,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.687637,
                         42.524791
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "Wellness létesítmény a kikapcsolódáshoz Cascada De Les Moles településen.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ],
@@ -12161,6 +12359,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.687637,
                         42.524791
                   ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "O facilitate de wellness pentru relaxare în Cascada De Les Moles.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
+                  ]
             }
       ],
       "en": [
@@ -12486,6 +12693,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.687637,
                         42.524791
+                  ]
+            },
+            {
+                  "name": "Sport Wellness Mountain Spa",
+                  "text": "A wellness facility offering relaxation in Cascada De Les Moles.",
+                  "category": "family",
+                  "coords": [
+                        1.670068,
+                        42.575708
                   ]
             }
       ]
@@ -26103,6 +26319,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Der Außenpool des Hotels Rutllan in Pal bietet Erfrischung unter freiem Himmel.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -26365,6 +26590,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A pali Hotel Rutllan szabadtéri medencéje felfrissülést kínál a szabad ég alatt.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -26629,6 +26863,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Piscina exterioară a Hotelului Rutllan din Pal oferă răcorire sub cerul liber.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -26891,6 +27134,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "The outdoor pool at Hotel Rutllan in Pal offers refreshment under the open sky.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -27245,6 +27497,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Der Außenpool des Hotels Rutllan in Erts bietet Bademöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -27552,6 +27813,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Az Erts-i Hotel Rutllan szabadtéri medencéje fürdőzési lehetőséget kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -27861,6 +28131,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Piscina exterioară a Hotelului Rutllan din Erts oferă facilități de înot pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -28169,6 +28448,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "The outdoor pool at Hotel Rutllan in Erts offers swimming facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ]
 },
@@ -28213,7 +28501,1132 @@ export const poiExtraAndorraCities: POI[] = [
       fr: ["Erts se situe à une altitude stratégique de 1340 mètres.", "L'église Sant Romà d'Erts a été achevée en 1774.", "La localité est le point de bifurcation des routes vers Pal et Arinsal.", "Il y avait autrefois ici d'importantes forges (fargues).", "Erts est réputé pour ses excellents restaurants de viande dans d'anciennes bordas.", "La rivière Valira del Nord traverse directement le centre du village."],
     }, image: "/poi-images/city-erets-extra.webp"},
   {
-    id: "city-sispony-extra", "sights": {"de": [{"name": "Museu Casa Rull", "text": "Ein Museum in Sispony, das das traditionelle ländliche Leben in Andorra zeigt.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Casa de la Vall", "text": "Ein historisches befestigtes Haus, ursprünglich Sitz des Generalrates von Andorra.", "category": "castle", "coords": [1.520508, 42.506608]}, {"name": "Les Fontetes", "text": "Ein lokales Theater in Sispony.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "Ein Museum in Sispony, das der Geschichte der Eisenproduktion in der Region gewidmet ist.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Centre de Congressos d’Andorra la Vella", "text": "Eine moderne Einrichtung für kulturelle Veranstaltungen und Konferenzen.", "category": "cultural", "coords": [1.52251, 42.506918]}, {"name": "Museu Obert de Geologia. Roques al Carrer", "text": "Ein geologisches Freilichtmuseum mit Gesteinen aus dem ganzen Land.", "category": "museum", "coords": [1.525262, 42.506144]}, {"name": "Museu del Perfum", "text": "Im andorranischen Sispony widmet sich das Museu del Perfum voll und ganz der Welt der Düfte. Diese Einrichtung beleuchtet die faszinierende Geschichte sowie die hohe Kunst der Parfümherstellung. Besucher können auf einem informativen Rundgang tief in die Geheimnisse der Duftkreation eintauchen.", "category": "museum", "coords": [1.53483, 42.508386]}, {"name": "Pic Carroi", "text": "Ein Berggipfel bei Sispony mit Panoramablick.", "category": "natural", "coords": [1.494336, 42.514314]}, {"name": "Pic de Padern", "text": "Ein markanter Gipfel in der Region Sispony, der bei Wanderern beliebt ist.", "category": "natural", "coords": [1.546048, 42.523797]}, {"name": "Pont de Paris", "text": "Eine bemerkenswerte Brückenkonstruktion in der Gegend von Sispony.", "category": "landmark", "coords": [1.53065, 42.509241]}, {"name": "Pic de les Angleves", "text": "Ein hoher Berggipfel mit Blick auf das Sispony-Tal.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Roc dels Corbs", "text": "Ein felsiger Gipfel in der Nähe von Sispony.", "category": "natural", "coords": [1.513862, 42.507687]}, {"name": "Mirador del Roc dels Senders", "text": "Der Aussichtspunkt Mirador del Roc dels Senders bietet Naturbegeisterten in Sispony eine beeindruckende Perspektive. Wer diesen Ort in Andorra aufsucht, wird mit einem fantastischen Blick auf die umliegenden Bergketten belohnt. Eine wunderbare Gelegenheit, die weite alpine Landschaft in Ruhe zu betrachten.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Macarulla", "text": "Eine lokale Attraktion und Sehenswürdigkeit in Sispony.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Torre de Caldea", "text": "Ein markanter moderner Turm und Teil des Caldea-Thermalbadkomplexes.", "category": "landmark", "coords": [1.537256, 42.51166]}, {"name": "Font de Ferrús", "text": "Eine natürliche Wasserquelle in der Region Sispony.", "category": "landmark", "coords": [1.510141, 42.507438]}, {"name": "Sant Andreu", "text": "Ein historisches Kirchengebäude für die örtliche Gemeinde.", "category": "religious", "coords": [1.530763, 42.510322]}, {"name": "Esglèsia de Sant Romà dels Vilars", "text": "Eine alte romanische Kirche in der Gegend von Sispony.", "category": "religious", "coords": [1.534799, 42.514822]}, {"name": "Sant Cristofol d'Anyos", "text": "Eine traditionelle Bergkirche mit historischer Bedeutung in Sispony.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Iscle i Santa Victòria", "text": "Eine historische Kultstätte in der Gegend von Sispony.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Sant Antoni de la Grella", "text": "Eine kleine Kapelle, die an den Felsen gebaut wurde, in der Nähe von Sispony.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Joan de Sispony", "text": "Die Ortskirche von Sispony, ein schönes Beispiel für traditionelle Architektur.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Sant Ermengol de l'Aldosa", "text": "Eine charmante Kirche in der Region Sispony, die dem Dorf l'Aldosa dient.", "category": "religious", "coords": [1.522531, 42.543536]}, {"name": "Sant Jaume d'Engordany", "text": "Ein dem heiligen Jakobus gewidmeter Sakralbau in der Gegend von Sispony.", "category": "religious", "coords": [1.539947, 42.513037]}, {"name": "Llac d'Engolasters", "text": "Llac d'Engolasters ist ein beliebter See in Sispony, ideal für Ausflüge in die Natur.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de la Nou", "text": "Estany de la Nou ist ein friedlicher See in Sispony, perfekt für Naturliebhaber.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges sind malerische Bergseen in Sispony, ideal für Wanderungen.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estany de les Truites", "text": "Estany de les Truites ist ein schöner Bergsee in Sispony, umgeben von Natur.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Bassa de les Granotes", "text": "Bassa de les Granotes ist ein kleiner See in Sispony, perfekt für einen ruhigen Moment.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "El dipòsit de Grau Roig", "text": "El dipòsit de Grau Roig ist ein ruhiges Gewässer in Sispony, ideal für einen Spaziergang.", "category": "natural", "coords": [1.472832, 42.581276]}], "hu": [{"name": "Museu Casa Rull", "text": "Sispony-i múzeum, amely a hagyományos andorrai vidéki életet mutatja be.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Casa de la Vall", "text": "Történelmi erődített ház, eredetileg az Andorrai Általános Tanács székhelye.", "category": "castle", "coords": [1.520508, 42.506608]}, {"name": "Les Fontetes", "text": "Helyi színház Sispony-ban.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "A régió vastermelésének történetét bemutató múzeum Sispony-ban.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Centre de Congressos d’Andorra la Vella", "text": "Modern létesítmény kulturális események és konferenciák számára.", "category": "cultural", "coords": [1.52251, 42.506918]}, {"name": "Museu Obert de Geologia. Roques al Carrer", "text": "Szabadtéri geológiai múzeum az ország minden részéről származó kőzetekkel.", "category": "museum", "coords": [1.525262, 42.506144]}, {"name": "Museu del Perfum", "text": "Az andorrai Sispony városában található Museu del Perfum egy illatokkal teli kiállítótér. Ez a különleges múzeum a parfümkészítés történelmét és finom művészetét hivatott bemutatni a nagyközönségnek. A vendégek itt megismerhetik a különböző aromák megalkotásának hagyományait és titkait.", "category": "museum", "coords": [1.53483, 42.508386]}, {"name": "Pic Carroi", "text": "Hegyi csúcs Sispony közelében, panorámás kilátással.", "category": "natural", "coords": [1.494336, 42.514314]}, {"name": "Pic de Padern", "text": "Sispony régiójának kiemelkedő csúcsa, a túrázók körében népszerű.", "category": "natural", "coords": [1.546048, 42.523797]}, {"name": "Pont de Paris", "text": "Figyelemre méltó híd Sispony környékén.", "category": "landmark", "coords": [1.53065, 42.509241]}, {"name": "Pic de les Angleves", "text": "Magas hegycsúcs, amely a Sispony-völgyre néz.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Roc dels Corbs", "text": "Sziklás csúcs Sispony közelében.", "category": "natural", "coords": [1.513862, 42.507687]}, {"name": "Mirador del Roc dels Senders", "text": "A Sispony területén elhelyezkedő Mirador del Roc dels Senders egy természetes kilátóhely Andorrában. Erről a pontról a látogatók zavartalanul tekinthetik meg a régiót övező hatalmas hegyeket. Remek célpont egy rövid pihenőre, miközben az ember a fenséges alpesi tájban gyönyörködik.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Macarulla", "text": "Helyi látnivaló és érdekesség Sispony-ban.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Torre de Caldea", "text": "Feltűnő modern torony, a Caldea fürdőkomplexum része.", "category": "landmark", "coords": [1.537256, 42.51166]}, {"name": "Font de Ferrús", "text": "Természetes forrás Sispony régiójában.", "category": "landmark", "coords": [1.510141, 42.507438]}, {"name": "Sant Andreu", "text": "Történelmi templomépület a helyi közösség számára.", "category": "religious", "coords": [1.530763, 42.510322]}, {"name": "Esglèsia de Sant Romà dels Vilars", "text": "Ősi román stílusú templom Sispony környékén.", "category": "religious", "coords": [1.534799, 42.514822]}, {"name": "Sant Cristofol d'Anyos", "text": "Hagyományos hegyi templom, amely történelmi jelentőséggel bír Sispony-ban.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Iscle i Santa Victòria", "text": "Történelmi istentiszteleti hely Sispony környékén.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Sant Antoni de la Grella", "text": "A sziklához épített kis kápolna Sispony közelében.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Joan de Sispony", "text": "Sispony helyi temploma, a hagyományos építészet szép példája.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Sant Ermengol de l'Aldosa", "text": "Bájos templom Sispony régiójában, amely l'Aldosa falut szolgálja.", "category": "religious", "coords": [1.522531, 42.543536]}, {"name": "Sant Jaume d'Engordany", "text": "Szent Jakabnak szentelt templom Sispony környékén.", "category": "religious", "coords": [1.539947, 42.513037]}, {"name": "Llac d'Engolasters", "text": "A Llac d'Engolasters egy népszerű tó Sispony területén, ideális a természeti kirándulásokhoz.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de la Nou", "text": "Az Estany de la Nou egy békés tó Sispony területén, tökéletes a természet kedvelőinek.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "A Basses Roges festői hegyi tavak Sispony területén, ideálisak a túrázáshoz.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estany de les Truites", "text": "Az Estany de les Truites egy szép hegyi tó Sispony területén, természettel körülvéve.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Bassa de les Granotes", "text": "A Bassa de les Granotes egy kis tó Sispony területén, tökéletes egy nyugodt pillanathoz.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "El dipòsit de Grau Roig", "text": "Az El dipòsit de Grau Roig egy csendes állóvíz Sispony területén, ideális egy sétához.", "category": "natural", "coords": [1.472832, 42.581276]}], "ro": [{"name": "Museu Casa Rull", "text": "Un muzeu în Sispony care prezintă viața rurală tradițională din Andorra.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Casa de la Vall", "text": "O casă fortificată istorică, inițial sediul Consiliului General din Andorra.", "category": "castle", "coords": [1.520508, 42.506608]}, {"name": "Les Fontetes", "text": "Un teatru local în Sispony.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "Un muzeu în Sispony dedicat istoriei producției de fier în regiune.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Centre de Congressos d’Andorra la Vella", "text": "O facilitate modernă pentru evenimente culturale și conferințe.", "category": "cultural", "coords": [1.52251, 42.506918]}, {"name": "Museu Obert de Geologia. Roques al Carrer", "text": "Un muzeu de geologie în aer liber cu roci din întreaga țară.", "category": "museum", "coords": [1.525262, 42.506144]}, {"name": "Museu del Perfum", "text": "Museu del Perfum, amplasat în Sispony, Andorra, este o instituție culturală dedicată în întregime aromelor și parfumurilor. Aici, oaspeții sunt invitați să exploreze istoria și măiestria din spatele artei fabricării parfumurilor. Vizita oferă o perspectivă detaliată asupra procesului de creare a esențelor olfactive.", "category": "museum", "coords": [1.53483, 42.508386]}, {"name": "Pic Carroi", "text": "Un vârf montan lângă Sispony care oferă vederi panoramice.", "category": "natural", "coords": [1.494336, 42.514314]}, {"name": "Pic de Padern", "text": "Un vârf proeminent în regiunea Sispony, popular pentru drumeții.", "category": "natural", "coords": [1.546048, 42.523797]}, {"name": "Pont de Paris", "text": "O structură de pod notabilă în zona Sispony.", "category": "landmark", "coords": [1.53065, 42.509241]}, {"name": "Pic de les Angleves", "text": "Un vârf de munte înalt cu vedere la valea Sispony.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Roc dels Corbs", "text": "Un vârf stâncos în apropiere de Sispony.", "category": "natural", "coords": [1.513862, 42.507687]}, {"name": "Mirador del Roc dels Senders", "text": "Mirador del Roc dels Senders este un punct de observare pitoresc aflat în Sispony, Andorra. Locația naturală îi întâmpină pe turiști cu o panoramă superbă asupra lanțurilor muntoase înconjurătoare. Este locul perfect pentru a vă opri și a savura spectacolul vizual al culmilor andorrane.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Macarulla", "text": "O atracție locală și punct de interes în Sispony.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Torre de Caldea", "text": "Un turn modern frapant și parte a complexului termal Caldea.", "category": "landmark", "coords": [1.537256, 42.51166]}, {"name": "Font de Ferrús", "text": "Un izvor de apă natural situat în regiunea Sispony.", "category": "landmark", "coords": [1.510141, 42.507438]}, {"name": "Sant Andreu", "text": "O clădire istorică de biserică ce deservește comunitatea locală.", "category": "religious", "coords": [1.530763, 42.510322]}, {"name": "Esglèsia de Sant Romà dels Vilars", "text": "O biserică veche în stil romanic situată în zona Sispony.", "category": "religious", "coords": [1.534799, 42.514822]}, {"name": "Sant Cristofol d'Anyos", "text": "O biserică montană tradițională cu semnificație istorică în Sispony.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Iscle i Santa Victòria", "text": "Un loc de cult istoric situat în zona Sispony.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Sant Antoni de la Grella", "text": "O mică chapelă construită pe stâncă lângă Sispony.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Joan de Sispony", "text": "Biserica locală din Sispony, un exemplu fin de arhitectură tradițională.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Sant Ermengol de l'Aldosa", "text": "O biserică fermecătoare în regiunea Sispony care deservește satul l'Aldosa.", "category": "religious", "coords": [1.522531, 42.543536]}, {"name": "Sant Jaume d'Engordany", "text": "Un lăcaș de cult situat în zona Sispony dedicat Sfântului Iacob.", "category": "religious", "coords": [1.539947, 42.513037]}, {"name": "Llac d'Engolasters", "text": "Llac d'Engolasters este un lac popular în Sispony, ideal pentru excursii în natură.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de la Nou", "text": "Estany de la Nou este un lac pașnic în Sispony, perfect pentru iubitorii de natură.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges sunt lacuri de munte pitorești în Sispony, ideale pentru drumeții.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estany de les Truites", "text": "Estany de les Truites este un lac de munte frumos în Sispony, înconjurat de natură.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Bassa de les Granotes", "text": "Bassa de les Granotes este un lac mic în Sispony, perfect pentru un moment de liniște.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "El dipòsit de Grau Roig", "text": "El dipòsit de Grau Roig este un luciu de apă liniștit în Sispony, ideal pentru o plimbare.", "category": "natural", "coords": [1.472832, 42.581276]}], "en": [{"name": "Museu Casa Rull", "text": "A museum in Sispony showcasing traditional Andorran rural life.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Casa de la Vall", "text": "A historic fortified house, originally the seat of the General Council of Andorra.", "category": "castle", "coords": [1.520508, 42.506608]}, {"name": "Les Fontetes", "text": "A local theatre venue in Sispony.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "A museum in Sispony dedicated to the history of iron production in the region.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Congress centre of Andorra la Vella", "text": "A modern facility for cultural events and conferences.", "category": "cultural", "coords": [1.52251, 42.506918]}, {"name": "Museu Obert de Geologia. Roques al Carrer", "text": "An open-air geological museum featuring rocks from across the country.", "category": "museum", "coords": [1.525262, 42.506144]}, {"name": "Museu del Perfum", "text": "Situated in Sispony, Andorra, the Museu del Perfum is a unique museum entirely focused on the world of fragrances. Inside, visitors can learn about the detailed history and the intricate art behind modern and historical perfume making. It offers a fascinating, aromatic journey into how these scents are carefully crafted.", "category": "museum", "coords": [1.53483, 42.508386]}, {"name": "Pic Carroi", "text": "A mountain peak near Sispony offering panoramic views.", "category": "natural", "coords": [1.494336, 42.514314]}, {"name": "Pic de Padern", "text": "A prominent peak in the Sispony region popular for hiking.", "category": "natural", "coords": [1.546048, 42.523797]}, {"name": "Pont de Paris", "text": "A notable bridge structure in the Sispony area.", "category": "landmark", "coords": [1.53065, 42.509241]}, {"name": "Pic de les Angleves", "text": "A high mountain peak overlooking the Sispony valley.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Roc dels Corbs", "text": "A rocky peak in the vicinity of Sispony.", "category": "natural", "coords": [1.513862, 42.507687]}, {"name": "Mirador del Roc dels Senders", "text": "The Mirador del Roc dels Senders is a charming natural viewpoint situated within Sispony, Andorra. Guests arriving at this overlook will enjoy unhindered views of the rugged surrounding mountains. It provides a peaceful and scenic spot to pause and appreciate the country's striking alpine environment.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Macarulla", "text": "A local attraction and point of interest in Sispony.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Torre de Caldea", "text": "A striking modern tower and part of the Caldea spa complex.", "category": "landmark", "coords": [1.537256, 42.51166]}, {"name": "Font de Ferrús", "text": "A natural water spring located in the Sispony region.", "category": "landmark", "coords": [1.510141, 42.507438]}, {"name": "Sant Andreu", "text": "A historic church building serving the local community.", "category": "religious", "coords": [1.530763, 42.510322]}, {"name": "Esglèsia de Sant Romà dels Vilars", "text": "An ancient Romanesque church situated in the Sispony area.", "category": "religious", "coords": [1.534799, 42.514822]}, {"name": "Sant Cristofol d'Anyos", "text": "A traditional mountain church with historic significance in Sispony.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Iscle i Santa Victòria", "text": "A historic place of worship located in the Sispony area.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Sant Antoni de la Grella", "text": "A small chapel built against the rock near Sispony.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Joan de Sispony", "text": "The local church of Sispony, a fine example of traditional architecture.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Sant Ermengol de l'Aldosa", "text": "A charming church in the Sispony region serving the village of l'Aldosa.", "category": "religious", "coords": [1.522531, 42.543536]}, {"name": "Sant Jaume d'Engordany", "text": "A place of worship located in the Sispony area dedicated to Saint James.", "category": "religious", "coords": [1.539947, 42.513037]}, {"name": "Llac d'Engolasters", "text": "Llac d'Engolasters is a popular lake in Sispony, ideal for nature excursions.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de la Nou", "text": "Estany de la Nou is a peaceful lake in Sispony, perfect for nature lovers.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges are scenic mountain lakes in Sispony, ideal for hiking.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estany de les Truites", "text": "Estany de les Truites is a beautiful mountain lake in Sispony, surrounded by nature.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Bassa de les Granotes", "text": "Bassa de les Granotes is a small lake in Sispony, perfect for a quiet moment.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "El dipòsit de Grau Roig", "text": "El dipòsit de Grau Roig is a quiet body of water in Sispony, ideal for a walk.", "category": "natural", "coords": [1.472832, 42.581276]}]},
+    id: "city-sispony-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Ein Museum in Sispony, das das traditionelle ländliche Leben in Andorra zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Ein historisches befestigtes Haus, ursprünglich Sitz des Generalrates von Andorra.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Ein lokales Theater in Sispony.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Ein Museum in Sispony, das der Geschichte der Eisenproduktion in der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Eine moderne Einrichtung für kulturelle Veranstaltungen und Konferenzen.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Ein geologisches Freilichtmuseum mit Gesteinen aus dem ganzen Land.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "Im andorranischen Sispony widmet sich das Museu del Perfum voll und ganz der Welt der Düfte. Diese Einrichtung beleuchtet die faszinierende Geschichte sowie die hohe Kunst der Parfümherstellung. Besucher können auf einem informativen Rundgang tief in die Geheimnisse der Duftkreation eintauchen.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "Ein Berggipfel bei Sispony mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Ein markanter Gipfel in der Region Sispony, der bei Wanderern beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Eine bemerkenswerte Brückenkonstruktion in der Gegend von Sispony.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "Ein hoher Berggipfel mit Blick auf das Sispony-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Ein felsiger Gipfel in der Nähe von Sispony.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Der Aussichtspunkt Mirador del Roc dels Senders bietet Naturbegeisterten in Sispony eine beeindruckende Perspektive. Wer diesen Ort in Andorra aufsucht, wird mit einem fantastischen Blick auf die umliegenden Bergketten belohnt. Eine wunderbare Gelegenheit, die weite alpine Landschaft in Ruhe zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "Eine lokale Attraktion und Sehenswürdigkeit in Sispony.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "Ein markanter moderner Turm und Teil des Caldea-Thermalbadkomplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Eine natürliche Wasserquelle in der Region Sispony.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Ein historisches Kirchengebäude für die örtliche Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Eine alte romanische Kirche in der Gegend von Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "Eine traditionelle Bergkirche mit historischer Bedeutung in Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "Eine historische Kultstätte in der Gegend von Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Eine kleine Kapelle, die an den Felsen gebaut wurde, in der Nähe von Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "Die Ortskirche von Sispony, ein schönes Beispiel für traditionelle Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "Eine charmante Kirche in der Region Sispony, die dem Dorf l'Aldosa dient.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Ein dem heiligen Jakobus gewidmeter Sakralbau in der Gegend von Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters ist ein beliebter See in Sispony, ideal für Ausflüge in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou ist ein friedlicher See in Sispony, perfekt für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges sind malerische Bergseen in Sispony, ideal für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites ist ein schöner Bergsee in Sispony, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes ist ein kleiner See in Sispony, perfekt für einen ruhigen Moment.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig ist ein ruhiges Gewässer in Sispony, ideal für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Sispony.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Sispony-i múzeum, amely a hagyományos andorrai vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Történelmi erődített ház, eredetileg az Andorrai Általános Tanács székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Helyi színház Sispony-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "A régió vastermelésének történetét bemutató múzeum Sispony-ban.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Modern létesítmény kulturális események és konferenciák számára.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Szabadtéri geológiai múzeum az ország minden részéről származó kőzetekkel.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "Az andorrai Sispony városában található Museu del Perfum egy illatokkal teli kiállítótér. Ez a különleges múzeum a parfümkészítés történelmét és finom művészetét hivatott bemutatni a nagyközönségnek. A vendégek itt megismerhetik a különböző aromák megalkotásának hagyományait és titkait.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "Hegyi csúcs Sispony közelében, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Sispony régiójának kiemelkedő csúcsa, a túrázók körében népszerű.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Figyelemre méltó híd Sispony környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "Magas hegycsúcs, amely a Sispony-völgyre néz.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Sziklás csúcs Sispony közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "A Sispony területén elhelyezkedő Mirador del Roc dels Senders egy természetes kilátóhely Andorrában. Erről a pontról a látogatók zavartalanul tekinthetik meg a régiót övező hatalmas hegyeket. Remek célpont egy rövid pihenőre, miközben az ember a fenséges alpesi tájban gyönyörködik.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "Helyi látnivaló és érdekesség Sispony-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "Feltűnő modern torony, a Caldea fürdőkomplexum része.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Természetes forrás Sispony régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Történelmi templomépület a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Ősi román stílusú templom Sispony környékén.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "Hagyományos hegyi templom, amely történelmi jelentőséggel bír Sispony-ban.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "Történelmi istentiszteleti hely Sispony környékén.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "A sziklához épített kis kápolna Sispony közelében.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "Sispony helyi temploma, a hagyományos építészet szép példája.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "Bájos templom Sispony régiójában, amely l'Aldosa falut szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Szent Jakabnak szentelt templom Sispony környékén.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "A Llac d'Engolasters egy népszerű tó Sispony területén, ideális a természeti kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Az Estany de la Nou egy békés tó Sispony területén, tökéletes a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "A Basses Roges festői hegyi tavak Sispony területén, ideálisak a túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Az Estany de les Truites egy szép hegyi tó Sispony területén, természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "A Bassa de les Granotes egy kis tó Sispony területén, tökéletes egy nyugodt pillanathoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "Az El dipòsit de Grau Roig egy csendes állóvíz Sispony területén, ideális egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Sispony településen.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Un muzeu în Sispony care prezintă viața rurală tradițională din Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "O casă fortificată istorică, inițial sediul Consiliului General din Andorra.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Un teatru local în Sispony.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Un muzeu în Sispony dedicat istoriei producției de fier în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "O facilitate modernă pentru evenimente culturale și conferințe.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Un muzeu de geologie în aer liber cu roci din întreaga țară.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "Museu del Perfum, amplasat în Sispony, Andorra, este o instituție culturală dedicată în întregime aromelor și parfumurilor. Aici, oaspeții sunt invitați să exploreze istoria și măiestria din spatele artei fabricării parfumurilor. Vizita oferă o perspectivă detaliată asupra procesului de creare a esențelor olfactive.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "Un vârf montan lângă Sispony care oferă vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Un vârf proeminent în regiunea Sispony, popular pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "O structură de pod notabilă în zona Sispony.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "Un vârf de munte înalt cu vedere la valea Sispony.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Un vârf stâncos în apropiere de Sispony.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Mirador del Roc dels Senders este un punct de observare pitoresc aflat în Sispony, Andorra. Locația naturală îi întâmpină pe turiști cu o panoramă superbă asupra lanțurilor muntoase înconjurătoare. Este locul perfect pentru a vă opri și a savura spectacolul vizual al culmilor andorrane.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "O atracție locală și punct de interes în Sispony.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "Un turn modern frapant și parte a complexului termal Caldea.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Un izvor de apă natural situat în regiunea Sispony.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "O clădire istorică de biserică ce deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "O biserică veche în stil romanic situată în zona Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "O biserică montană tradițională cu semnificație istorică în Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "Un loc de cult istoric situat în zona Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "O mică chapelă construită pe stâncă lângă Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "Biserica locală din Sispony, un exemplu fin de arhitectură tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "O biserică fermecătoare în regiunea Sispony care deservește satul l'Aldosa.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Un lăcaș de cult situat în zona Sispony dedicat Sfântului Iacob.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters este un lac popular în Sispony, ideal pentru excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou este un lac pașnic în Sispony, perfect pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges sunt lacuri de munte pitorești în Sispony, ideale pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites este un lac de munte frumos în Sispony, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes este un lac mic în Sispony, perfect pentru un moment de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig este un luciu de apă liniștit în Sispony, ideal pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Un loc pentru înot și recreere acvatică în Sispony.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "A museum in Sispony showcasing traditional Andorran rural life.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "A historic fortified house, originally the seat of the General Council of Andorra.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "A local theatre venue in Sispony.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "A museum in Sispony dedicated to the history of iron production in the region.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Congress centre of Andorra la Vella",
+                  "text": "A modern facility for cultural events and conferences.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "An open-air geological museum featuring rocks from across the country.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "Situated in Sispony, Andorra, the Museu del Perfum is a unique museum entirely focused on the world of fragrances. Inside, visitors can learn about the detailed history and the intricate art behind modern and historical perfume making. It offers a fascinating, aromatic journey into how these scents are carefully crafted.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "A mountain peak near Sispony offering panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "A prominent peak in the Sispony region popular for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "A notable bridge structure in the Sispony area.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "A high mountain peak overlooking the Sispony valley.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "A rocky peak in the vicinity of Sispony.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "The Mirador del Roc dels Senders is a charming natural viewpoint situated within Sispony, Andorra. Guests arriving at this overlook will enjoy unhindered views of the rugged surrounding mountains. It provides a peaceful and scenic spot to pause and appreciate the country's striking alpine environment.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "A local attraction and point of interest in Sispony.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "A striking modern tower and part of the Caldea spa complex.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "A natural water spring located in the Sispony region.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "A historic church building serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "An ancient Romanesque church situated in the Sispony area.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "A traditional mountain church with historic significance in Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "A historic place of worship located in the Sispony area.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "A small chapel built against the rock near Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "The local church of Sispony, a fine example of traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "A charming church in the Sispony region serving the village of l'Aldosa.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "A place of worship located in the Sispony area dedicated to Saint James.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters is a popular lake in Sispony, ideal for nature excursions.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou is a peaceful lake in Sispony, perfect for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges are scenic mountain lakes in Sispony, ideal for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites is a beautiful mountain lake in Sispony, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes is a small lake in Sispony, perfect for a quiet moment.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig is a quiet body of water in Sispony, ideal for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A place for swimming and water recreation in Sispony.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-04",
     coords: [1.51, 42.526],
@@ -29530,7 +30943,664 @@ export const poiExtraAndorraCities: POI[] = [
       fr: ["Anyós est situé à une altitude de 1 307 mètres au-dessus du niveau de la mer.", "L'église Sant Cristòfol d'Anyós date à l'origine du XIIe siècle.", "Chaque année, le 10 juillet, a lieu la bénédiction des véhicules pour la Saint-Christophe.", "L'église possède une abside semi-circulaire, typique de l'art roman.", "Le village abrite l'un des centres sportifs les plus exclusifs du pays.", "Depuis Anyós, on domine le confluent des deux rivières Valira."],
     }, image: "/poi-images/city-anyos-extra.webp"},
     {
-    id: "city-laldosa-massana-extra", "sights": {"de": [{"name": "Museu Casa Rull", "text": "Ein Museum in einem traditionellen Haus aus dem 19. Jahrhundert, das das ländliche Leben zeigt.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Museu Postal", "text": "Ein Museum in L'Aldosa, das der Postgeschichte Andorras gewidmet ist.", "category": "museum", "coords": [1.534145, 42.556544]}, {"name": "Les Fontetes", "text": "Ein lokales Theater und Kulturzentrum in L'Aldosa de La Massana.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "Ein Museum, das sich mit der Geschichte der Eisenindustrie in Andorra befasst.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Pic de Padern", "text": "In der Nähe von L Aldosa De La Massana erhebt sich der Pic de Padern als markantes andorranisches Naturziel. Von diesem Berggipfel aus eröffnet sich Wanderern ein weiter und ungestörter Ausblick auf die umgebende Landschaft. Der Aufstieg bietet ein echtes alpines Abenteuer mit grandiosen Perspektiven.", "category": "natural", "coords": [1.546048, 42.523797]}, {"name": "Roc de la Cauba", "text": "Ein markanter Gipfel in der Region La Massana.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Pic de les Angleves", "text": "Ein Berggipfel in der Umgebung von L'Aldosa de La Massana.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Rock", "text": "Ein Aussichtspunkt mit Panoramablick über die umliegenden Täler.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador d'Ordino", "text": "Ein beliebter Aussichtspunkt in der Nähe von Ordino mit Blick auf die Berge.", "category": "natural", "coords": [1.540947, 42.549475]}, {"name": "Rocòdrom d'Ordino", "text": "Eine Kletteranlage in Ordino für Sportbegeisterte.", "category": "landmark", "coords": [1.532551, 42.555988]}, {"name": "Sant Roc de Sornàs", "text": "Eine Andachtsstätte im Dorf Sornàs bei La Massana.", "category": "religious", "coords": [1.5278, 42.565059]}, {"name": "Sant Cristofol d'Anyos", "text": "Eine bedeutende romanische Kirche aus dem 12. Jahrhundert in Anyós.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Iscle i Santa Victòria", "text": "Die romanische Pfarrkirche von La Massana, gewidmet den Heiligen Iscle und Victòria.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Santa Bàrbara d'Ordino", "text": "Eine kleine Kapelle und Andachtsstätte in Ordino.", "category": "religious", "coords": [1.529308, 42.555533]}, {"name": "Sant Antoni de la Grella", "text": "Eine kleine romanische Kapelle an der alten Straße nach La Massana.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Joan de Sispony", "text": "Eine historische Kirche im Dorf Sispony.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Sant Ermengol de l'Aldosa", "text": "Die Dorfkirche von L'Aldosa, die dem Heiligen Ermengol gewidmet ist.", "category": "religious", "coords": [1.522531, 42.543536]}], "hu": [{"name": "Museu Casa Rull", "text": "Egy 19. századi hagyományos házban kialakított múzeum, amely a vidéki életet mutatja be.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Museu Postal", "text": "Egy múzeum L'Aldosában, amely Andorra postatörténetének van szentelve.", "category": "museum", "coords": [1.534145, 42.556544]}, {"name": "Les Fontetes", "text": "Egy helyi színház és kulturális központ L'Aldosa de La Massanában.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "Andorra vasiparának történetével foglalkozó múzeum.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Pic de Padern", "text": "L Aldosa De La Massana közelében tornyosul a Pic de Padern andorrai hegycsúcsa. Ezen a természetes magaslaton a túrázókat egy igazán tágas és lélegzetelállító kilátás fogadja. A hegymászás fáradalmait a környező vidék széles panorámája feledteti.", "category": "natural", "coords": [1.546048, 42.523797]}, {"name": "Roc de la Cauba", "text": "Egy jellegzetes hegycsúcs La Massana régiójában.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Pic de les Angleves", "text": "Egy hegycsúcs L'Aldosa de La Massana környékén.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Rock", "text": "Egy kilátópont, ahonnan panorámás kilátás nyílik a környező völgyekre.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador d'Ordino", "text": "Népszerű kilátópont Ordino közelében, kilátással a hegyekre.", "category": "natural", "coords": [1.540947, 42.549475]}, {"name": "Rocòdrom d'Ordino", "text": "Egy mászófal Ordinóban a sportkedvelők számára.", "category": "landmark", "coords": [1.532551, 42.555988]}, {"name": "Sant Roc de Sornàs", "text": "Egy istentiszteleti hely Sornàs faluban, La Massana közelében.", "category": "religious", "coords": [1.5278, 42.565059]}, {"name": "Sant Cristofol d'Anyos", "text": "Egy jelentős 12. századi román stílusú templom Anyósban.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Iscle i Santa Victòria", "text": "La Massana román stílusú plébániatemploma, Szent Iscle-nek és Szent Victóriának szentelve.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Santa Bàrbara d'Ordino", "text": "Egy kis kápolna és istentiszteleti hely Ordinóban.", "category": "religious", "coords": [1.529308, 42.555533]}, {"name": "Sant Antoni de la Grella", "text": "Egy kis román stílusú kápolna a La Massanába vezető régi út mentén.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Joan de Sispony", "text": "Egy történelmi templom Sispony faluban.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Sant Ermengol de l'Aldosa", "text": "L'Aldosa falusi temploma, amelyet Szent Ermengolnak szenteltek.", "category": "religious", "coords": [1.522531, 42.543536]}], "ro": [{"name": "Museu Casa Rull", "text": "Un muzeu într-o casă tradițională din secolul al XIX-lea care prezintă viața rurală.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Museu Postal", "text": "Un muzeu din L'Aldosa dedicat istoriei poștale a Andorrei.", "category": "museum", "coords": [1.534145, 42.556544]}, {"name": "Les Fontetes", "text": "Un teatru local și centru cultural în L'Aldosa de La Massana.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "Un muzeu care se ocupă de istoria industriei fierului din Andorra.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Pic de Padern", "text": "Situat nu departe de L Aldosa De La Massana, Pic de Padern este un vârf muntos proeminent din Andorra. Alpiniștii și iubitorii de drumeții care ajung aici sunt recompensați cu o vedere panoramică foarte largă asupra întregii regiuni. Destinația garantează o experiență naturală memorabilă la mare altitudine.", "category": "natural", "coords": [1.546048, 42.523797]}, {"name": "Roc de la Cauba", "text": "Un vârf proeminent în regiunea La Massana.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Pic de les Angleves", "text": "Un vârf montan în împrejurimile localității L'Aldosa de La Massana.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Rock", "text": "Un punct de observație cu vedere panoramică asupra văilor din jur.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador d'Ordino", "text": "Un punct de observație popular lângă Ordino cu vedere spre munți.", "category": "natural", "coords": [1.540947, 42.549475]}, {"name": "Rocòdrom d'Ordino", "text": "O instalație de escaladă în Ordino pentru entuziaștii sportului.", "category": "landmark", "coords": [1.532551, 42.555988]}, {"name": "Sant Roc de Sornàs", "text": "Un loc de cult în satul Sornàs, lângă La Massana.", "category": "religious", "coords": [1.5278, 42.565059]}, {"name": "Sant Cristofol d'Anyos", "text": "O importantă biserică romanică din secolul al XII-lea în Anyós.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Iscle i Santa Victòria", "text": "Biserica parohială romanică din La Massana, dedicată sfinților Iscle și Victòria.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Santa Bàrbara d'Ordino", "text": "O mică capelă și loc de cult în Ordino.", "category": "religious", "coords": [1.529308, 42.555533]}, {"name": "Sant Antoni de la Grella", "text": "O mică capelă romanică pe drumul vechi spre La Massana.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Joan de Sispony", "text": "O biserică istorică în satul Sispony.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Sant Ermengol de l'Aldosa", "text": "Biserica satului L'Aldosa, dedicată Sfântului Ermengol.", "category": "religious", "coords": [1.522531, 42.543536]}], "en": [{"name": "Museu Casa Rull", "text": "A museum in a traditional 19th-century house showcasing rural life.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Museu Postal", "text": "A museum in L'Aldosa dedicated to the postal history of Andorra.", "category": "museum", "coords": [1.534145, 42.556544]}, {"name": "Les Fontetes", "text": "A local theatre and cultural centre in L'Aldosa de La Massana.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "A museum focusing on the history of the iron industry in Andorra.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Pic de Padern", "text": "Rising near L Aldosa De La Massana, the Pic de Padern is a notable mountain peak in Andorra. Hikers making their way to this natural summit will be treated to sweeping, wide-ranging views of the surrounding area. It promises an excellent vantage point for appreciating the vastness of the local alpine scenery.", "category": "natural", "coords": [1.546048, 42.523797]}, {"name": "Roc de la Cauba", "text": "A prominent peak in the La Massana region.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Pic de les Angleves", "text": "A mountain peak in the surroundings of L'Aldosa de La Massana.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Rock", "text": "A viewpoint offering panoramic vistas of the surrounding valleys.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador d'Ordino", "text": "A popular viewpoint near Ordino with views of the mountains.", "category": "natural", "coords": [1.540947, 42.549475]}, {"name": "Rocòdrom d'Ordino", "text": "A climbing facility in Ordino for sports enthusiasts.", "category": "landmark", "coords": [1.532551, 42.555988]}, {"name": "Sant Roc de Sornàs", "text": "A place of worship in the village of Sornàs near La Massana.", "category": "religious", "coords": [1.5278, 42.565059]}, {"name": "Sant Cristofol d'Anyos", "text": "A significant 12th-century Romanesque church located in Anyós.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Iscle i Santa Victòria", "text": "The Romanesque parish church of La Massana, dedicated to Saints Iscle and Victòria.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Santa Bàrbara d'Ordino", "text": "A small chapel and place of worship located in Ordino.", "category": "religious", "coords": [1.529308, 42.555533]}, {"name": "Sant Antoni de la Grella", "text": "A small Romanesque chapel on the old road to La Massana.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Joan de Sispony", "text": "A historical church located in the village of Sispony.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Sant Ermengol de l'Aldosa", "text": "The village church of L'Aldosa, dedicated to Saint Ermengol.", "category": "religious", "coords": [1.522531, 42.543536]}]},
+    id: "city-laldosa-massana-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Ein Museum in einem traditionellen Haus aus dem 19. Jahrhundert, das das ländliche Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "Ein Museum in L'Aldosa, das der Postgeschichte Andorras gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.534145,
+                        42.556544
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Ein lokales Theater und Kulturzentrum in L'Aldosa de La Massana.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Ein Museum, das sich mit der Geschichte der Eisenindustrie in Andorra befasst.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "In der Nähe von L Aldosa De La Massana erhebt sich der Pic de Padern als markantes andorranisches Naturziel. Von diesem Berggipfel aus eröffnet sich Wanderern ein weiter und ungestörter Ausblick auf die umgebende Landschaft. Der Aufstieg bietet ein echtes alpines Abenteuer mit grandiosen Perspektiven.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Ein markanter Gipfel in der Region La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "Ein Berggipfel in der Umgebung von L'Aldosa de La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über die umliegenden Täler.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador d'Ordino",
+                  "text": "Ein beliebter Aussichtspunkt in der Nähe von Ordino mit Blick auf die Berge.",
+                  "category": "natural",
+                  "coords": [
+                        1.540947,
+                        42.549475
+                  ]
+            },
+            {
+                  "name": "Rocòdrom d'Ordino",
+                  "text": "Eine Kletteranlage in Ordino für Sportbegeisterte.",
+                  "category": "landmark",
+                  "coords": [
+                        1.532551,
+                        42.555988
+                  ]
+            },
+            {
+                  "name": "Sant Roc de Sornàs",
+                  "text": "Eine Andachtsstätte im Dorf Sornàs bei La Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.5278,
+                        42.565059
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "Eine bedeutende romanische Kirche aus dem 12. Jahrhundert in Anyós.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "Die romanische Pfarrkirche von La Massana, gewidmet den Heiligen Iscle und Victòria.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Santa Bàrbara d'Ordino",
+                  "text": "Eine kleine Kapelle und Andachtsstätte in Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.529308,
+                        42.555533
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Eine kleine romanische Kapelle an der alten Straße nach La Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "Eine historische Kirche im Dorf Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "Die Dorfkirche von L'Aldosa, die dem Heiligen Ermengol gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Der Außenpool des Hotels Rutllan in L Aldosa De La Massana ist für Familien geeignet.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Egy 19. századi hagyományos házban kialakított múzeum, amely a vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "Egy múzeum L'Aldosában, amely Andorra postatörténetének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        1.534145,
+                        42.556544
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Egy helyi színház és kulturális központ L'Aldosa de La Massanában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Andorra vasiparának történetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "L Aldosa De La Massana közelében tornyosul a Pic de Padern andorrai hegycsúcsa. Ezen a természetes magaslaton a túrázókat egy igazán tágas és lélegzetelállító kilátás fogadja. A hegymászás fáradalmait a környező vidék széles panorámája feledteti.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Egy jellegzetes hegycsúcs La Massana régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "Egy hegycsúcs L'Aldosa de La Massana környékén.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "Egy kilátópont, ahonnan panorámás kilátás nyílik a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador d'Ordino",
+                  "text": "Népszerű kilátópont Ordino közelében, kilátással a hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        1.540947,
+                        42.549475
+                  ]
+            },
+            {
+                  "name": "Rocòdrom d'Ordino",
+                  "text": "Egy mászófal Ordinóban a sportkedvelők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        1.532551,
+                        42.555988
+                  ]
+            },
+            {
+                  "name": "Sant Roc de Sornàs",
+                  "text": "Egy istentiszteleti hely Sornàs faluban, La Massana közelében.",
+                  "category": "religious",
+                  "coords": [
+                        1.5278,
+                        42.565059
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "Egy jelentős 12. századi román stílusú templom Anyósban.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "La Massana román stílusú plébániatemploma, Szent Iscle-nek és Szent Victóriának szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Santa Bàrbara d'Ordino",
+                  "text": "Egy kis kápolna és istentiszteleti hely Ordinóban.",
+                  "category": "religious",
+                  "coords": [
+                        1.529308,
+                        42.555533
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Egy kis román stílusú kápolna a La Massanába vezető régi út mentén.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "Egy történelmi templom Sispony faluban.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "L'Aldosa falusi temploma, amelyet Szent Ermengolnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A Hotel Rutllan szabadtéri medencéje L Aldosa De La Massana településen családok számára alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Un muzeu într-o casă tradițională din secolul al XIX-lea care prezintă viața rurală.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "Un muzeu din L'Aldosa dedicat istoriei poștale a Andorrei.",
+                  "category": "museum",
+                  "coords": [
+                        1.534145,
+                        42.556544
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Un teatru local și centru cultural în L'Aldosa de La Massana.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Un muzeu care se ocupă de istoria industriei fierului din Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Situat nu departe de L Aldosa De La Massana, Pic de Padern este un vârf muntos proeminent din Andorra. Alpiniștii și iubitorii de drumeții care ajung aici sunt recompensați cu o vedere panoramică foarte largă asupra întregii regiuni. Destinația garantează o experiență naturală memorabilă la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Un vârf proeminent în regiunea La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "Un vârf montan în împrejurimile localității L'Aldosa de La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "Un punct de observație cu vedere panoramică asupra văilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador d'Ordino",
+                  "text": "Un punct de observație popular lângă Ordino cu vedere spre munți.",
+                  "category": "natural",
+                  "coords": [
+                        1.540947,
+                        42.549475
+                  ]
+            },
+            {
+                  "name": "Rocòdrom d'Ordino",
+                  "text": "O instalație de escaladă în Ordino pentru entuziaștii sportului.",
+                  "category": "landmark",
+                  "coords": [
+                        1.532551,
+                        42.555988
+                  ]
+            },
+            {
+                  "name": "Sant Roc de Sornàs",
+                  "text": "Un loc de cult în satul Sornàs, lângă La Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.5278,
+                        42.565059
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "O importantă biserică romanică din secolul al XII-lea în Anyós.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "Biserica parohială romanică din La Massana, dedicată sfinților Iscle și Victòria.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Santa Bàrbara d'Ordino",
+                  "text": "O mică capelă și loc de cult în Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.529308,
+                        42.555533
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "O mică capelă romanică pe drumul vechi spre La Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "O biserică istorică în satul Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "Biserica satului L'Aldosa, dedicată Sfântului Ermengol.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Piscina exterioară a Hotelului Rutllan din L Aldosa De La Massana este potrivită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "A museum in a traditional 19th-century house showcasing rural life.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Museu Postal",
+                  "text": "A museum in L'Aldosa dedicated to the postal history of Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.534145,
+                        42.556544
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "A local theatre and cultural centre in L'Aldosa de La Massana.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "A museum focusing on the history of the iron industry in Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Rising near L Aldosa De La Massana, the Pic de Padern is a notable mountain peak in Andorra. Hikers making their way to this natural summit will be treated to sweeping, wide-ranging views of the surrounding area. It promises an excellent vantage point for appreciating the vastness of the local alpine scenery.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "A prominent peak in the La Massana region.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "A mountain peak in the surroundings of L'Aldosa de La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "A viewpoint offering panoramic vistas of the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador d'Ordino",
+                  "text": "A popular viewpoint near Ordino with views of the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        1.540947,
+                        42.549475
+                  ]
+            },
+            {
+                  "name": "Rocòdrom d'Ordino",
+                  "text": "A climbing facility in Ordino for sports enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        1.532551,
+                        42.555988
+                  ]
+            },
+            {
+                  "name": "Sant Roc de Sornàs",
+                  "text": "A place of worship in the village of Sornàs near La Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.5278,
+                        42.565059
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "A significant 12th-century Romanesque church located in Anyós.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "The Romanesque parish church of La Massana, dedicated to Saints Iscle and Victòria.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Santa Bàrbara d'Ordino",
+                  "text": "A small chapel and place of worship located in Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.529308,
+                        42.555533
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "A small Romanesque chapel on the old road to La Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "A historical church located in the village of Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "The village church of L'Aldosa, dedicated to Saint Ermengol.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "The outdoor pool at Hotel Rutllan in L Aldosa De La Massana is suitable for families.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-04",
     coords: [1.525, 42.545],
@@ -29728,6 +31798,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.522531,
                         42.543536
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Escas.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -29882,6 +31961,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.522531,
                         42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Escas településen.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -30038,6 +32126,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.522531,
                         42.543536
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Un loc pentru înot și recreere acvatică în Escas.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -30192,6 +32289,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.522531,
                         42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A place for swimming and water recreation in Escas.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -30580,6 +32686,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Dieser Außenpool in Puiol Del Piu gehört zum Hotel Rutllan und lädt zum Baden ein.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -30923,6 +33038,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Ez a Puiol Del Piu-i szabadtéri medence a Hotel Rutllanhoz tartozik, és fürdőzésre csábít.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -31268,6 +33392,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Această piscină exterioară din Puiol Del Piu aparține Hotelului Rutllan și invită la scăldat.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -31612,6 +33745,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "This outdoor pool in Puiol Del Piu belongs to Hotel Rutllan and invites for a swim.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ]
 },
@@ -31656,7 +33798,1168 @@ export const poiExtraAndorraCities: POI[] = [
       fr: ["Appartient à la paroisse de La Massana, au nord-ouest de l'Andorre.", "Situé à une altitude moyenne d'environ 1300 mètres.", "Se trouve à proximité immédiate de la rivière Valira del Nord.", "Marqué par l'architecture traditionnelle en pierre et schiste.", "Sert de zone résidentielle calme avec des liaisons touristiques.", "Situé à proximité de l'important axe routier CG-4 vers Pal."],
     }, image: "/poi-images/city-puiol-del-piu-extra.webp"},
   {
-    id: "city-xixerella-extra", "sights": {"de": [{"name": "Les Fontetes", "text": "Ein lokales Theater und Veranstaltungsort in Xixerella.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Pic del Solà d'Erts", "text": "Zwischen den andorranischen Gemeinden Erts und Xixerella thront der markante Berggipfel Pic del Solà d'Erts. Dieses natürliche Ausflugsziel lockt Naturfreunde an, die die raue Bergwelt unmittelbar erleben möchten. Besucher dürfen sich auf eine aussichtsreiche Gipfelerfahrung in der Region freuen.", "category": "natural", "coords": [1.505447, 42.569114]}, {"name": "Roc de la Cauba", "text": "Ein Berggipfel mit Panoramablick in der Region Xixerella.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Alt de la Capa", "text": "Ein Gipfel in den Bergen von Andorra in der Nähe von Xixerella.", "category": "natural", "coords": [1.454009, 42.563024]}, {"name": "Pic de Palomer", "text": "Ein Berggipfel in der Gemeinde La Massana.", "category": "natural", "coords": [1.475991, 42.561075]}, {"name": "Roca del Tut", "text": "Ein Berggipfel in der Umgebung von Xixerella.", "category": "natural", "coords": [1.456883, 42.549566]}, {"name": "Roc de la Cacarulla", "text": "Ein Gipfel in der Gebirgslandschaft nahe Xixerella.", "category": "natural", "coords": [1.479809, 42.54753]}, {"name": "Rock", "text": "Mitten in Xixerella befindet sich der natürliche Aussichtspunkt namens Rock. Dieser felsige Ort in Andorra bietet einen exzellenten, weiten Blick auf die vielseitige Landschaft der Umgebung. Er ist der ideale Zwischenstopp, um die Natur in vollen Zügen auf sich wirken zu lassen.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador de la Roca de la Sabina", "text": "Ein Panoramapunkt mit beeindruckender Aussicht auf die Bergwelt.", "category": "natural", "coords": [1.473391, 42.572332]}, {"name": "Coll de la Botella", "text": "Ein bekannter Gebirgspass und Aussichtspunkt in der Nähe von Xixerella.", "category": "natural", "coords": [1.454506, 42.551804]}, {"name": "Via ferrada Coma d'Erts", "text": "Ein gesicherter Klettersteig für Outdoor-Aktivitäten in der Nähe von Erts.", "category": "landmark", "coords": [1.492999, 42.56188]}, {"name": "Macarulla", "text": "Eine lokale Sehenswürdigkeit in der Umgebung von Xixerella.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Sant Climent", "text": "Eine der besterhaltenen romanischen Kirchen Andorras im Dorf Pal.", "category": "religious", "coords": [1.47519, 42.545934]}, {"name": "Sant Andreu d’Arinsal", "text": "Die Dorfkirche von Arinsal, ein Beispiel lokaler religiöser Architektur.", "category": "religious", "coords": [1.484028, 42.572125]}, {"name": "Sant Iscle i Santa Victòria", "text": "Die romanische Pfarrkirche von La Massana, gewidmet den Heiligen Iscle und Victòria.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Llac d'Engolasters", "text": "Llac d'Engolasters ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de Baiau", "text": "Estany de Baiau ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.428156, 42.596343]}, {"name": "Estany Forcat", "text": "Estany Forcat ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.448284, 42.599379]}, {"name": "Estanyet de Baiau", "text": "Estanyet de Baiau ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.428767, 42.599968]}, {"name": "Estany del Port Dret", "text": "Estany del Port Dret ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.460609, 42.603399]}, {"name": "Estanys de Montmantell", "text": "Estanys de Montmantell ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.467201, 42.605578]}, {"name": "Estanys de l'Angonella", "text": "Estanys de l'Angonella ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.484388, 42.608159]}, {"name": "Estanys de l'Angonella (Llac de Mes Avall)", "text": "Estanys de l'Angonella (Llac de Mes Avall) ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.4896, 42.605592]}, {"name": "Estanys de l'Angonella (Llac de Mes Amunt)", "text": "Estanys de l'Angonella (Llac de Mes Amunt) ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.48046, 42.608913]}, {"name": "Estanys de l'Angonella (Llac del Mig)", "text": "Estanys de l'Angonella (Llac del Mig) ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.485916, 42.607674]}, {"name": "Estanys de Comapedrosa", "text": "Estanys de Comapedrosa ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.435586, 42.584885]}, {"name": "Estany de les Truites", "text": "Estany de les Truites ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Estany Negre", "text": "Estany Negre ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.437252, 42.587906]}, {"name": "Bassa de les Granotes", "text": "Bassa de les Granotes ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "Bass del Racó", "text": "Bass del Racó ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.497521, 42.609908]}, {"name": "El dipòsit de Grau Roig", "text": "El dipòsit de Grau Roig ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.", "category": "natural", "coords": [1.472832, 42.581276]}], "hu": [{"name": "Les Fontetes", "text": "Egy helyi színház és rendezvényhelyszín Xixerellában.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Pic del Solà d'Erts", "text": "A Pic del Solà d'Erts egy sziklás hegycsúcs Andorrában, amely Erts és Xixerella településeihez közel helyezkedik el. A túrázás szerelmesei számára ez a természetes magaslat remek kihívást és gyönyörű tájakat tartogat. A feljutás után a környező völgyek látványa páratlan élményt biztosít.", "category": "natural", "coords": [1.505447, 42.569114]}, {"name": "Roc de la Cauba", "text": "Egy hegycsúcs panorámás kilátással Xixerella régiójában.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Alt de la Capa", "text": "Egy csúcs az andorrai hegyekben, Xixerella közelében.", "category": "natural", "coords": [1.454009, 42.563024]}, {"name": "Pic de Palomer", "text": "Egy hegycsúcs La Massana községben.", "category": "natural", "coords": [1.475991, 42.561075]}, {"name": "Roca del Tut", "text": "Egy hegycsúcs Xixerella környékén.", "category": "natural", "coords": [1.456883, 42.549566]}, {"name": "Roc de la Cacarulla", "text": "Egy csúcs a hegyvidéki tájon Xixerella közelében.", "category": "natural", "coords": [1.479809, 42.54753]}, {"name": "Rock", "text": "A Rock néven ismert természetes kilátó Xixerella területén várja az andorrai tájak szerelmeseit. Ebből a sziklás pozícióból kiváló, tágas kilátás nyílik a települést körülölelő hegyvidéki formákra. Kellemes pont arra, hogy az ember megálljon és magába szívja a természet nyugalmát.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador de la Roca de la Sabina", "text": "Panorámapont lenyűgöző kilátással a hegyvidéki világra.", "category": "natural", "coords": [1.473391, 42.572332]}, {"name": "Coll de la Botella", "text": "Ismert hegyi hágó és kilátópont Xixerella közelében.", "category": "natural", "coords": [1.454506, 42.551804]}, {"name": "Via ferrada Coma d'Erts", "text": "Kiépített vasalt út (via ferrata) szabadtéri tevékenységekhez Erts közelében.", "category": "landmark", "coords": [1.492999, 42.56188]}, {"name": "Macarulla", "text": "Egy helyi látnivaló Xixerella környékén.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Sant Climent", "text": "Andorra egyik legjobb állapotban fennmaradt román stílusú temploma Pal faluban.", "category": "religious", "coords": [1.47519, 42.545934]}, {"name": "Sant Andreu d’Arinsal", "text": "Arinsal falusi temploma, a helyi vallási építészet példája.", "category": "religious", "coords": [1.484028, 42.572125]}, {"name": "Sant Iscle i Santa Victòria", "text": "La Massana román stílusú plébániatemploma, Szent Iscle-nek és Szent Victóriának szentelve.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Llac d'Engolasters", "text": "A(z) Llac d'Engolasters egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de Baiau", "text": "A(z) Estany de Baiau egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.428156, 42.596343]}, {"name": "Estany Forcat", "text": "A(z) Estany Forcat egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.448284, 42.599379]}, {"name": "Estanyet de Baiau", "text": "A(z) Estanyet de Baiau egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.428767, 42.599968]}, {"name": "Estany del Port Dret", "text": "A(z) Estany del Port Dret egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.460609, 42.603399]}, {"name": "Estanys de Montmantell", "text": "A(z) Estanys de Montmantell egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.467201, 42.605578]}, {"name": "Estanys de l'Angonella", "text": "A(z) Estanys de l'Angonella egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.484388, 42.608159]}, {"name": "Estanys de l'Angonella (Llac de Mes Avall)", "text": "A(z) Estanys de l'Angonella (Llac de Mes Avall) egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.4896, 42.605592]}, {"name": "Estanys de l'Angonella (Llac de Mes Amunt)", "text": "A(z) Estanys de l'Angonella (Llac de Mes Amunt) egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.48046, 42.608913]}, {"name": "Estanys de l'Angonella (Llac del Mig)", "text": "A(z) Estanys de l'Angonella (Llac del Mig) egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.485916, 42.607674]}, {"name": "Estanys de Comapedrosa", "text": "A(z) Estanys de Comapedrosa egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.435586, 42.584885]}, {"name": "Estany de les Truites", "text": "A(z) Estany de les Truites egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Estany Negre", "text": "A(z) Estany Negre egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.437252, 42.587906]}, {"name": "Bassa de les Granotes", "text": "A(z) Bassa de les Granotes egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "Bass del Racó", "text": "A(z) Bass del Racó egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.497521, 42.609908]}, {"name": "El dipòsit de Grau Roig", "text": "A(z) El dipòsit de Grau Roig egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.", "category": "natural", "coords": [1.472832, 42.581276]}], "ro": [{"name": "Les Fontetes", "text": "Un teatru local și loc de desfășurare a evenimentelor în Xixerella.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Pic del Solà d'Erts", "text": "Pic del Solà d'Erts este un vârf de munte andorran, localizat în proximitatea așezărilor Erts și Xixerella. Cei care aleg să exploreze această formațiune naturală vor descoperi frumusețea pură a Munților Pirinei. Ascensiunea aduce cu sine oportunitatea de a explora peisajele montane sălbatice ale regiunii.", "category": "natural", "coords": [1.505447, 42.569114]}, {"name": "Roc de la Cauba", "text": "Un vârf montan cu vedere panoramică în regiunea Xixerella.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Alt de la Capa", "text": "Un vârf în munții Andorrei, lângă Xixerella.", "category": "natural", "coords": [1.454009, 42.563024]}, {"name": "Pic de Palomer", "text": "Un vârf montan în parohia La Massana.", "category": "natural", "coords": [1.475991, 42.561075]}, {"name": "Roca del Tut", "text": "Un vârf montan în împrejurimile Xixerella.", "category": "natural", "coords": [1.456883, 42.549566]}, {"name": "Roc de la Cacarulla", "text": "Un vârf în peisajul montan de lângă Xixerella.", "category": "natural", "coords": [1.479809, 42.54753]}, {"name": "Rock", "text": "Cunoscut simplu sub numele de Rock, acest punct de belvedere natural se găsește în Xixerella, Andorra. De pe această stâncă, privitorii beneficiază de o perspectivă largă asupra întregului peisaj rural și montan din zonă. Este un loc perfect pentru relaxare și contemplarea naturii andorrane.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador de la Roca de la Sabina", "text": "Un punct panoramic cu vederi impresionante asupra munților.", "category": "natural", "coords": [1.473391, 42.572332]}, {"name": "Coll de la Botella", "text": "O trecătoare montană cunoscută și punct de observație lângă Xixerella.", "category": "natural", "coords": [1.454506, 42.551804]}, {"name": "Via ferrada Coma d'Erts", "text": "O via ferrata securizată pentru activități în aer liber lângă Erts.", "category": "landmark", "coords": [1.492999, 42.56188]}, {"name": "Macarulla", "text": "O atracție locală în împrejurimile Xixerella.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Sant Climent", "text": "Una dintre cele mai bine conservate biserici romanice din Andorra, în satul Pal.", "category": "religious", "coords": [1.47519, 42.545934]}, {"name": "Sant Andreu d’Arinsal", "text": "Biserica satului Arinsal, un exemplu de arhitectură religioasă locală.", "category": "religious", "coords": [1.484028, 42.572125]}, {"name": "Sant Iscle i Santa Victòria", "text": "Biserica parohială romanică din La Massana, dedicată sfinților Iscle și Victòria.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Llac d'Engolasters", "text": "Llac d'Engolasters este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de Baiau", "text": "Estany de Baiau este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.428156, 42.596343]}, {"name": "Estany Forcat", "text": "Estany Forcat este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.448284, 42.599379]}, {"name": "Estanyet de Baiau", "text": "Estanyet de Baiau este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.428767, 42.599968]}, {"name": "Estany del Port Dret", "text": "Estany del Port Dret este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.460609, 42.603399]}, {"name": "Estanys de Montmantell", "text": "Estanys de Montmantell este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.467201, 42.605578]}, {"name": "Estanys de l'Angonella", "text": "Estanys de l'Angonella este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.484388, 42.608159]}, {"name": "Estanys de l'Angonella (Llac de Mes Avall)", "text": "Estanys de l'Angonella (Llac de Mes Avall) este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.4896, 42.605592]}, {"name": "Estanys de l'Angonella (Llac de Mes Amunt)", "text": "Estanys de l'Angonella (Llac de Mes Amunt) este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.48046, 42.608913]}, {"name": "Estanys de l'Angonella (Llac del Mig)", "text": "Estanys de l'Angonella (Llac del Mig) este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.485916, 42.607674]}, {"name": "Estanys de Comapedrosa", "text": "Estanys de Comapedrosa este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.435586, 42.584885]}, {"name": "Estany de les Truites", "text": "Estany de les Truites este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Estany Negre", "text": "Estany Negre este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.437252, 42.587906]}, {"name": "Bassa de les Granotes", "text": "Bassa de les Granotes este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "Bass del Racó", "text": "Bass del Racó este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.497521, 42.609908]}, {"name": "El dipòsit de Grau Roig", "text": "El dipòsit de Grau Roig este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.", "category": "natural", "coords": [1.472832, 42.581276]}], "en": [{"name": "Les Fontetes", "text": "A local theatre and venue in Xixerella.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Pic del Solà d'Erts", "text": "The Pic del Solà d'Erts is a prominent mountain peak nestled near the villages of Erts and Xixerella in Andorra. This natural summit attracts outdoor enthusiasts eager to explore the rugged Pyrenean landscape. Climbers and hikers can expect a rewarding ascent with great perspectives over the local valleys.", "category": "natural", "coords": [1.505447, 42.569114]}, {"name": "Roc de la Cauba", "text": "A mountain peak offering panoramic views in the Xixerella region.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Alt de la Capa", "text": "A peak in the mountains of Andorra near Xixerella.", "category": "natural", "coords": [1.454009, 42.563024]}, {"name": "Pic de Palomer", "text": "A mountain peak located in the parish of La Massana.", "category": "natural", "coords": [1.475991, 42.561075]}, {"name": "Roca del Tut", "text": "A mountain peak in the surroundings of Xixerella.", "category": "natural", "coords": [1.456883, 42.549566]}, {"name": "Roc de la Cacarulla", "text": "A peak in the mountainous landscape near Xixerella.", "category": "natural", "coords": [1.479809, 42.54753]}, {"name": "Rock", "text": "Known simply as Rock, this natural viewpoint is located within the area of Xixerella in Andorra. Stopping at this elevated spot provides visitors with a wide, sweeping view over the beautiful local landscape. It is an ideal rocky outcrop for taking a moment to appreciate the surrounding natural environment.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador de la Roca de la Sabina", "text": "A panoramic spot with impressive views of the mountain scenery.", "category": "natural", "coords": [1.473391, 42.572332]}, {"name": "Coll de la Botella", "text": "A well-known mountain pass and viewpoint near Xixerella.", "category": "natural", "coords": [1.454506, 42.551804]}, {"name": "Via ferrada Coma d'Erts", "text": "A secured climbing route (via ferrata) for outdoor activities near Erts.", "category": "landmark", "coords": [1.492999, 42.56188]}, {"name": "Macarulla", "text": "A local attraction in the surroundings of Xixerella.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Sant Climent", "text": "One of the best-preserved Romanesque churches in Andorra, located in the village of Pal.", "category": "religious", "coords": [1.47519, 42.545934]}, {"name": "Sant Andreu d’Arinsal", "text": "The village church of Arinsal, an example of local religious architecture.", "category": "religious", "coords": [1.484028, 42.572125]}, {"name": "Sant Iscle i Santa Victòria", "text": "The Romanesque parish church of La Massana, dedicated to Saints Iscle and Victòria.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Llac d'Engolasters", "text": "Llac d'Engolasters is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de Baiau", "text": "Estany de Baiau is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.428156, 42.596343]}, {"name": "Estany Forcat", "text": "Estany Forcat is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.448284, 42.599379]}, {"name": "Estanyet de Baiau", "text": "Estanyet de Baiau is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.428767, 42.599968]}, {"name": "Estany del Port Dret", "text": "Estany del Port Dret is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.460609, 42.603399]}, {"name": "Estanys de Montmantell", "text": "Estanys de Montmantell is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.467201, 42.605578]}, {"name": "Estanys de l'Angonella", "text": "Estanys de l'Angonella is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.484388, 42.608159]}, {"name": "Estanys de l'Angonella (Llac de Mes Avall)", "text": "Estanys de l'Angonella (Llac de Mes Avall) is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.4896, 42.605592]}, {"name": "Estanys de l'Angonella (Llac de Mes Amunt)", "text": "Estanys de l'Angonella (Llac de Mes Amunt) is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.48046, 42.608913]}, {"name": "Estanys de l'Angonella (Llac del Mig)", "text": "Estanys de l'Angonella (Llac del Mig) is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.485916, 42.607674]}, {"name": "Estanys de Comapedrosa", "text": "Estanys de Comapedrosa is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.435586, 42.584885]}, {"name": "Estany de les Truites", "text": "Estany de les Truites is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Estany Negre", "text": "Estany Negre is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.437252, 42.587906]}, {"name": "Bassa de les Granotes", "text": "Bassa de les Granotes is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "Bass del Racó", "text": "Bass del Racó is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.497521, 42.609908]}, {"name": "El dipòsit de Grau Roig", "text": "El dipòsit de Grau Roig is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.", "category": "natural", "coords": [1.472832, 42.581276]}]},
+    id: "city-xixerella-extra", "sights": {
+      "de": [
+            {
+                  "name": "Les Fontetes",
+                  "text": "Ein lokales Theater und Veranstaltungsort in Xixerella.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Pic del Solà d'Erts",
+                  "text": "Zwischen den andorranischen Gemeinden Erts und Xixerella thront der markante Berggipfel Pic del Solà d'Erts. Dieses natürliche Ausflugsziel lockt Naturfreunde an, die die raue Bergwelt unmittelbar erleben möchten. Besucher dürfen sich auf eine aussichtsreiche Gipfelerfahrung in der Region freuen.",
+                  "category": "natural",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Ein Berggipfel mit Panoramablick in der Region Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Alt de la Capa",
+                  "text": "Ein Gipfel in den Bergen von Andorra in der Nähe von Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.454009,
+                        42.563024
+                  ]
+            },
+            {
+                  "name": "Pic de Palomer",
+                  "text": "Ein Berggipfel in der Gemeinde La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.475991,
+                        42.561075
+                  ]
+            },
+            {
+                  "name": "Roca del Tut",
+                  "text": "Ein Berggipfel in der Umgebung von Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.456883,
+                        42.549566
+                  ]
+            },
+            {
+                  "name": "Roc de la Cacarulla",
+                  "text": "Ein Gipfel in der Gebirgslandschaft nahe Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.479809,
+                        42.54753
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "Mitten in Xixerella befindet sich der natürliche Aussichtspunkt namens Rock. Dieser felsige Ort in Andorra bietet einen exzellenten, weiten Blick auf die vielseitige Landschaft der Umgebung. Er ist der ideale Zwischenstopp, um die Natur in vollen Zügen auf sich wirken zu lassen.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador de la Roca de la Sabina",
+                  "text": "Ein Panoramapunkt mit beeindruckender Aussicht auf die Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        1.473391,
+                        42.572332
+                  ]
+            },
+            {
+                  "name": "Coll de la Botella",
+                  "text": "Ein bekannter Gebirgspass und Aussichtspunkt in der Nähe von Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.454506,
+                        42.551804
+                  ]
+            },
+            {
+                  "name": "Via ferrada Coma d'Erts",
+                  "text": "Ein gesicherter Klettersteig für Outdoor-Aktivitäten in der Nähe von Erts.",
+                  "category": "landmark",
+                  "coords": [
+                        1.492999,
+                        42.56188
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "Eine lokale Sehenswürdigkeit in der Umgebung von Xixerella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Sant Climent",
+                  "text": "Eine der besterhaltenen romanischen Kirchen Andorras im Dorf Pal.",
+                  "category": "religious",
+                  "coords": [
+                        1.47519,
+                        42.545934
+                  ]
+            },
+            {
+                  "name": "Sant Andreu d’Arinsal",
+                  "text": "Die Dorfkirche von Arinsal, ein Beispiel lokaler religiöser Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        1.484028,
+                        42.572125
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "Die romanische Pfarrkirche von La Massana, gewidmet den Heiligen Iscle und Victòria.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de Baiau",
+                  "text": "Estany de Baiau ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.428156,
+                        42.596343
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Estany Forcat ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.448284,
+                        42.599379
+                  ]
+            },
+            {
+                  "name": "Estanyet de Baiau",
+                  "text": "Estanyet de Baiau ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.428767,
+                        42.599968
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Estany del Port Dret ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Estanys de Montmantell ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Estanys de l'Angonella ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Avall) ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Amunt) ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "Estanys de l'Angonella (Llac del Mig) ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estanys de Comapedrosa",
+                  "text": "Estanys de Comapedrosa ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.435586,
+                        42.584885
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany Negre",
+                  "text": "Estany Negre ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.437252,
+                        42.587906
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "Bass del Racó ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig ist ein malerischer See in Xixerella, ideal zum Wandern und Genießen der Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Der Außenpool des Hotels Rutllan in Xixerella bietet Erfrischung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Les Fontetes",
+                  "text": "Egy helyi színház és rendezvényhelyszín Xixerellában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Pic del Solà d'Erts",
+                  "text": "A Pic del Solà d'Erts egy sziklás hegycsúcs Andorrában, amely Erts és Xixerella településeihez közel helyezkedik el. A túrázás szerelmesei számára ez a természetes magaslat remek kihívást és gyönyörű tájakat tartogat. A feljutás után a környező völgyek látványa páratlan élményt biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Egy hegycsúcs panorámás kilátással Xixerella régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Alt de la Capa",
+                  "text": "Egy csúcs az andorrai hegyekben, Xixerella közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.454009,
+                        42.563024
+                  ]
+            },
+            {
+                  "name": "Pic de Palomer",
+                  "text": "Egy hegycsúcs La Massana községben.",
+                  "category": "natural",
+                  "coords": [
+                        1.475991,
+                        42.561075
+                  ]
+            },
+            {
+                  "name": "Roca del Tut",
+                  "text": "Egy hegycsúcs Xixerella környékén.",
+                  "category": "natural",
+                  "coords": [
+                        1.456883,
+                        42.549566
+                  ]
+            },
+            {
+                  "name": "Roc de la Cacarulla",
+                  "text": "Egy csúcs a hegyvidéki tájon Xixerella közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.479809,
+                        42.54753
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "A Rock néven ismert természetes kilátó Xixerella területén várja az andorrai tájak szerelmeseit. Ebből a sziklás pozícióból kiváló, tágas kilátás nyílik a települést körülölelő hegyvidéki formákra. Kellemes pont arra, hogy az ember megálljon és magába szívja a természet nyugalmát.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador de la Roca de la Sabina",
+                  "text": "Panorámapont lenyűgöző kilátással a hegyvidéki világra.",
+                  "category": "natural",
+                  "coords": [
+                        1.473391,
+                        42.572332
+                  ]
+            },
+            {
+                  "name": "Coll de la Botella",
+                  "text": "Ismert hegyi hágó és kilátópont Xixerella közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.454506,
+                        42.551804
+                  ]
+            },
+            {
+                  "name": "Via ferrada Coma d'Erts",
+                  "text": "Kiépített vasalt út (via ferrata) szabadtéri tevékenységekhez Erts közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.492999,
+                        42.56188
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "Egy helyi látnivaló Xixerella környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Sant Climent",
+                  "text": "Andorra egyik legjobb állapotban fennmaradt román stílusú temploma Pal faluban.",
+                  "category": "religious",
+                  "coords": [
+                        1.47519,
+                        42.545934
+                  ]
+            },
+            {
+                  "name": "Sant Andreu d’Arinsal",
+                  "text": "Arinsal falusi temploma, a helyi vallási építészet példája.",
+                  "category": "religious",
+                  "coords": [
+                        1.484028,
+                        42.572125
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "La Massana román stílusú plébániatemploma, Szent Iscle-nek és Szent Victóriának szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "A(z) Llac d'Engolasters egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de Baiau",
+                  "text": "A(z) Estany de Baiau egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.428156,
+                        42.596343
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "A(z) Estany Forcat egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.448284,
+                        42.599379
+                  ]
+            },
+            {
+                  "name": "Estanyet de Baiau",
+                  "text": "A(z) Estanyet de Baiau egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.428767,
+                        42.599968
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "A(z) Estany del Port Dret egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "A(z) Estanys de Montmantell egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "A(z) Estanys de l'Angonella egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "A(z) Estanys de l'Angonella (Llac de Mes Avall) egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "A(z) Estanys de l'Angonella (Llac de Mes Amunt) egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "A(z) Estanys de l'Angonella (Llac del Mig) egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estanys de Comapedrosa",
+                  "text": "A(z) Estanys de Comapedrosa egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.435586,
+                        42.584885
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "A(z) Estany de les Truites egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany Negre",
+                  "text": "A(z) Estany Negre egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.437252,
+                        42.587906
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "A(z) Bassa de les Granotes egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "A(z) Bass del Racó egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "A(z) El dipòsit de Grau Roig egy festői tó Xixerella területén, amely kiválóan alkalmas kirándulásra és a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A xixerellai Hotel Rutllan szabadtéri medencéje felfrissülést kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Les Fontetes",
+                  "text": "Un teatru local și loc de desfășurare a evenimentelor în Xixerella.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Pic del Solà d'Erts",
+                  "text": "Pic del Solà d'Erts este un vârf de munte andorran, localizat în proximitatea așezărilor Erts și Xixerella. Cei care aleg să exploreze această formațiune naturală vor descoperi frumusețea pură a Munților Pirinei. Ascensiunea aduce cu sine oportunitatea de a explora peisajele montane sălbatice ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Un vârf montan cu vedere panoramică în regiunea Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Alt de la Capa",
+                  "text": "Un vârf în munții Andorrei, lângă Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.454009,
+                        42.563024
+                  ]
+            },
+            {
+                  "name": "Pic de Palomer",
+                  "text": "Un vârf montan în parohia La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.475991,
+                        42.561075
+                  ]
+            },
+            {
+                  "name": "Roca del Tut",
+                  "text": "Un vârf montan în împrejurimile Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.456883,
+                        42.549566
+                  ]
+            },
+            {
+                  "name": "Roc de la Cacarulla",
+                  "text": "Un vârf în peisajul montan de lângă Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.479809,
+                        42.54753
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "Cunoscut simplu sub numele de Rock, acest punct de belvedere natural se găsește în Xixerella, Andorra. De pe această stâncă, privitorii beneficiază de o perspectivă largă asupra întregului peisaj rural și montan din zonă. Este un loc perfect pentru relaxare și contemplarea naturii andorrane.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador de la Roca de la Sabina",
+                  "text": "Un punct panoramic cu vederi impresionante asupra munților.",
+                  "category": "natural",
+                  "coords": [
+                        1.473391,
+                        42.572332
+                  ]
+            },
+            {
+                  "name": "Coll de la Botella",
+                  "text": "O trecătoare montană cunoscută și punct de observație lângă Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.454506,
+                        42.551804
+                  ]
+            },
+            {
+                  "name": "Via ferrada Coma d'Erts",
+                  "text": "O via ferrata securizată pentru activități în aer liber lângă Erts.",
+                  "category": "landmark",
+                  "coords": [
+                        1.492999,
+                        42.56188
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "O atracție locală în împrejurimile Xixerella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Sant Climent",
+                  "text": "Una dintre cele mai bine conservate biserici romanice din Andorra, în satul Pal.",
+                  "category": "religious",
+                  "coords": [
+                        1.47519,
+                        42.545934
+                  ]
+            },
+            {
+                  "name": "Sant Andreu d’Arinsal",
+                  "text": "Biserica satului Arinsal, un exemplu de arhitectură religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        1.484028,
+                        42.572125
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "Biserica parohială romanică din La Massana, dedicată sfinților Iscle și Victòria.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de Baiau",
+                  "text": "Estany de Baiau este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.428156,
+                        42.596343
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Estany Forcat este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.448284,
+                        42.599379
+                  ]
+            },
+            {
+                  "name": "Estanyet de Baiau",
+                  "text": "Estanyet de Baiau este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.428767,
+                        42.599968
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Estany del Port Dret este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Estanys de Montmantell este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Estanys de l'Angonella este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Avall) este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Amunt) este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "Estanys de l'Angonella (Llac del Mig) este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estanys de Comapedrosa",
+                  "text": "Estanys de Comapedrosa este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.435586,
+                        42.584885
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany Negre",
+                  "text": "Estany Negre este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.437252,
+                        42.587906
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "Bass del Racó este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig este un lac pitoresc în Xixerella, ideal pentru plimbări și pentru a te bucura de peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Piscina exterioară a Hotelului Rutllan din Xixerella oferă răcorire pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les Fontetes",
+                  "text": "A local theatre and venue in Xixerella.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Pic del Solà d'Erts",
+                  "text": "The Pic del Solà d'Erts is a prominent mountain peak nestled near the villages of Erts and Xixerella in Andorra. This natural summit attracts outdoor enthusiasts eager to explore the rugged Pyrenean landscape. Climbers and hikers can expect a rewarding ascent with great perspectives over the local valleys.",
+                  "category": "natural",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "A mountain peak offering panoramic views in the Xixerella region.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Alt de la Capa",
+                  "text": "A peak in the mountains of Andorra near Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.454009,
+                        42.563024
+                  ]
+            },
+            {
+                  "name": "Pic de Palomer",
+                  "text": "A mountain peak located in the parish of La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.475991,
+                        42.561075
+                  ]
+            },
+            {
+                  "name": "Roca del Tut",
+                  "text": "A mountain peak in the surroundings of Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.456883,
+                        42.549566
+                  ]
+            },
+            {
+                  "name": "Roc de la Cacarulla",
+                  "text": "A peak in the mountainous landscape near Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.479809,
+                        42.54753
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "Known simply as Rock, this natural viewpoint is located within the area of Xixerella in Andorra. Stopping at this elevated spot provides visitors with a wide, sweeping view over the beautiful local landscape. It is an ideal rocky outcrop for taking a moment to appreciate the surrounding natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador de la Roca de la Sabina",
+                  "text": "A panoramic spot with impressive views of the mountain scenery.",
+                  "category": "natural",
+                  "coords": [
+                        1.473391,
+                        42.572332
+                  ]
+            },
+            {
+                  "name": "Coll de la Botella",
+                  "text": "A well-known mountain pass and viewpoint near Xixerella.",
+                  "category": "natural",
+                  "coords": [
+                        1.454506,
+                        42.551804
+                  ]
+            },
+            {
+                  "name": "Via ferrada Coma d'Erts",
+                  "text": "A secured climbing route (via ferrata) for outdoor activities near Erts.",
+                  "category": "landmark",
+                  "coords": [
+                        1.492999,
+                        42.56188
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "A local attraction in the surroundings of Xixerella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Sant Climent",
+                  "text": "One of the best-preserved Romanesque churches in Andorra, located in the village of Pal.",
+                  "category": "religious",
+                  "coords": [
+                        1.47519,
+                        42.545934
+                  ]
+            },
+            {
+                  "name": "Sant Andreu d’Arinsal",
+                  "text": "The village church of Arinsal, an example of local religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        1.484028,
+                        42.572125
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "The Romanesque parish church of La Massana, dedicated to Saints Iscle and Victòria.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de Baiau",
+                  "text": "Estany de Baiau is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.428156,
+                        42.596343
+                  ]
+            },
+            {
+                  "name": "Estany Forcat",
+                  "text": "Estany Forcat is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.448284,
+                        42.599379
+                  ]
+            },
+            {
+                  "name": "Estanyet de Baiau",
+                  "text": "Estanyet de Baiau is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.428767,
+                        42.599968
+                  ]
+            },
+            {
+                  "name": "Estany del Port Dret",
+                  "text": "Estany del Port Dret is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.460609,
+                        42.603399
+                  ]
+            },
+            {
+                  "name": "Estanys de Montmantell",
+                  "text": "Estanys de Montmantell is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.467201,
+                        42.605578
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella",
+                  "text": "Estanys de l'Angonella is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.484388,
+                        42.608159
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Avall)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Avall) is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.4896,
+                        42.605592
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac de Mes Amunt)",
+                  "text": "Estanys de l'Angonella (Llac de Mes Amunt) is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.48046,
+                        42.608913
+                  ]
+            },
+            {
+                  "name": "Estanys de l'Angonella (Llac del Mig)",
+                  "text": "Estanys de l'Angonella (Llac del Mig) is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.485916,
+                        42.607674
+                  ]
+            },
+            {
+                  "name": "Estanys de Comapedrosa",
+                  "text": "Estanys de Comapedrosa is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.435586,
+                        42.584885
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Estany Negre",
+                  "text": "Estany Negre is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.437252,
+                        42.587906
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "Bass del Racó",
+                  "text": "Bass del Racó is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.497521,
+                        42.609908
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig is a scenic lake in Xixerella, ideal for walking and enjoying the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "The outdoor pool at Hotel Rutllan in Xixerella offers refreshment for families.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-04",
     coords: [1.488, 42.558],
@@ -32544,6 +35847,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Das Hotel Rutllan bietet in city-el-cortalet-extra einen Außenpool für seine Gäste an.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -32689,6 +36001,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A Hotel Rutllan szabadtéri medencét kínál vendégei számára city-el-cortalet-extra területén.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -32836,6 +36157,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Hotelul Rutllan oferă o piscină exterioară pentru oaspeții săi în city-el-cortalet-extra.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -32981,6 +36311,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Hotel Rutllan offers an outdoor pool for its guests in city-el-cortalet-extra.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -33243,6 +36582,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Der Außenpool des Hotels Rutllan in Jan Dels Plans ist ein Ort für Familienspaß im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -33460,6 +36808,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A Hotel Rutllan szabadtéri medencéje Jan Dels Plans-ban a családi vízi szórakozás helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -33679,6 +37036,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Piscina exterioară a Hotelului Rutllan din Jan Dels Plans este un loc pentru distracție acvatică în familie.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -33897,6 +37263,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "The outdoor pool at Hotel Rutllan in Jan Dels Plans is a place for family water fun.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ]
 },
@@ -33943,7 +37318,1060 @@ export const poiExtraAndorraCities: POI[] = [
     image: "/poi-images/city-jan-dels-plans-extra.webp",
   },
     {
-    id: "city-padola-extra", "sights": {"de": [{"name": "Museu Casa Rull", "text": "Ein Museum in einem traditionellen Haus, das das frühere Leben in Sispony zeigt.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Casa de la Vall", "text": "Ein historisches befestigtes Haus in Andorra la Vella, das lange Zeit der Sitz des Parlaments war.", "category": "castle", "coords": [1.520508, 42.506608]}, {"name": "Espai Columba", "text": "Ein Museum, das romanische Wandmalereien und die Geschichte der Kirche Santa Coloma präsentiert.", "category": "museum", "coords": [1.498667, 42.494567]}, {"name": "Centre de Congressos d’Andorra la Vella", "text": "Das moderne Kongresszentrum von Andorra la Vella für kulturelle und geschäftliche Veranstaltungen.", "category": "cultural", "coords": [1.52251, 42.506918]}, {"name": "Museu Obert de Geologia. Roques al Carrer", "text": "Ein Freilichtmuseum in Andorra la Vella, das sich mit der Geologie der Pyrenäen befasst.", "category": "museum", "coords": [1.525262, 42.506144]}, {"name": "Pic d'Enclar", "text": "Ein Berggipfel über Andorra la Vella mit Blick auf das Tal.", "category": "natural", "coords": [1.46839, 42.510001]}, {"name": "Pic Carroi", "text": "Ein markanter Gipfel in der Nähe der Hauptstadt Andorra la Vella.", "category": "natural", "coords": [1.494336, 42.514314]}, {"name": "Pic de Coll Pa", "text": "Ein Gipfel in der Gebirgsregion um Andorra la Vella.", "category": "natural", "coords": [1.476594, 42.512543]}, {"name": "Pont de Paris", "text": "Eine moderne Brücke in Andorra la Vella, die ein Wahrzeichen der Stadt ist.", "category": "landmark", "coords": [1.53065, 42.509241]}, {"name": "Roc dels Corbs", "text": "Ein felsiger Gipfel in der Nähe von Andorra la Vella.", "category": "natural", "coords": [1.513862, 42.507687]}, {"name": "Via ferrada de Sant Vicenç d'Enclar", "text": "Ein Klettersteig in der Nähe der Kirche Sant Vicenç d'Enclar.", "category": "landmark", "coords": [1.495505, 42.495396]}, {"name": "Mirador del Roc dels Senders", "text": "In der Gegend von Padola erfreut der Mirador del Roc dels Senders seine Besucher mit landschaftlicher Schönheit. Dieser Aussichtspunkt in Andorra gewährt einen beeindruckend weiten Blick über die sanften Täler und Hügel. Ein fantastisches Naturerlebnis für alle, die das Panorama der Umgebung genießen wollen.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Serradora", "text": "Ein historisches Denkmal, das an eine alte Sägemühle erinnert.", "category": "historical", "coords": [1.503853, 42.495672]}, {"name": "Macarulla", "text": "Ein thematischer Pfad und eine Attraktion für Familien in Padola.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Font de Ferrús", "text": "Eine natürliche Quelle in der Region von Padola.", "category": "landmark", "coords": [1.510141, 42.507438]}, {"name": "Sant Andreu", "text": "Eine kleine romanische Kirche, die dem heiligen Andreas gewidmet ist.", "category": "religious", "coords": [1.530763, 42.510322]}, {"name": "Esglèsia de Sant Romà dels Vilars", "text": "Eine vorromanische Kirche in der Gegend von Els Vilars.", "category": "religious", "coords": [1.534799, 42.514822]}, {"name": "Església de Santa Coloma", "text": "Eine historische Kirche, bekannt für ihren markanten runden Glockenturm.", "category": "religious", "coords": [1.497548, 42.49415]}, {"name": "Sant Cristofol d'Anyos", "text": "Eine Kirche in Anyós, die einen Panoramablick auf das Tal bietet.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Antoni de la Grella", "text": "Eine kleine Kapelle an der alten Brücke von Sant Antoni.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Vicenç d'Enclar", "text": "Eine alte Kapelle auf einem Hügel mit archäologischer Bedeutung.", "category": "religious", "coords": [1.493759, 42.495739]}, {"name": "Sant Joan de Sispony", "text": "Die charmante Pfarrkirche des Dorfes Sispony.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Llac d'Engolasters", "text": "Llac d'Engolasters ist ein wunderschöner Bergsee bei Padola, der für seine natürliche Umgebung bekannt ist.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de la Nou", "text": "Estany de la Nou ist ein ruhiger See in Padola, der eine friedliche Atmosphäre in der Natur bietet.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges ist ein kleiner, malerischer See in Padola, umgeben von schöner Landschaft.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estany de les Truites", "text": "Estany de les Truites ist ein klarer Gebirgssee in Padola, ideal zum Wandern und Entspannen.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Bassa de les Granotes", "text": "Bassa de les Granotes ist ein kleiner Natursee in Padola, der zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "El dipòsit de Grau Roig", "text": "El dipòsit de Grau Roig ist ein ruhiger See in Padola, eingebettet in eine reizvolle Umgebung.", "category": "natural", "coords": [1.472832, 42.581276]}], "hu": [{"name": "Museu Casa Rull", "text": "Egy hagyományos házban kialakított múzeum, amely a régi életet mutatja be Sisponyban.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Casa de la Vall", "text": "Egy történelmi erődített ház Andorra la Vellában, amely sokáig a parlament székhelye volt.", "category": "castle", "coords": [1.520508, 42.506608]}, {"name": "Espai Columba", "text": "Múzeum, amely román stílusú falfestményeket és a Santa Coloma-templom történetét mutatja be.", "category": "museum", "coords": [1.498667, 42.494567]}, {"name": "Centre de Congressos d’Andorra la Vella", "text": "Andorra la Vella modern kongresszusi központja kulturális és üzleti eseményekhez.", "category": "cultural", "coords": [1.52251, 42.506918]}, {"name": "Museu Obert de Geologia. Roques al Carrer", "text": "Egy szabadtéri múzeum Andorra la Vellában, amely a Pireneusok geológiájával foglalkozik.", "category": "museum", "coords": [1.525262, 42.506144]}, {"name": "Pic d'Enclar", "text": "Andorra la Vella fölé magasodó hegycsúcs, kilátással a völgyre.", "category": "natural", "coords": [1.46839, 42.510001]}, {"name": "Pic Carroi", "text": "Egy jellegzetes csúcs a főváros, Andorra la Vella közelében.", "category": "natural", "coords": [1.494336, 42.514314]}, {"name": "Pic de Coll Pa", "text": "Egy csúcs az Andorra la Vella körüli hegyvidéken.", "category": "natural", "coords": [1.476594, 42.512543]}, {"name": "Pont de Paris", "text": "Egy modern híd Andorra la Vellában, amely a város egyik jelképe.", "category": "landmark", "coords": [1.53065, 42.509241]}, {"name": "Roc dels Corbs", "text": "Egy sziklás hegycsúcs Andorra la Vella közelében.", "category": "natural", "coords": [1.513862, 42.507687]}, {"name": "Via ferrada de Sant Vicenç d'Enclar", "text": "Via ferrata útvonal Sant Vicenç d'Enclar közelében.", "category": "landmark", "coords": [1.495505, 42.495396]}, {"name": "Mirador del Roc dels Senders", "text": "A Padola térségében található Mirador del Roc dels Senders egy csodás andorrai kilátó. Erről a természetes helyszínről hihetetlenül széles panoráma nyílik az elterülő tájra. A természetjárók itt nyugodt környezetben csodálhatják meg a környező hegyeket és völgyeket.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Serradora", "text": "Egy régi fűrésztelepre emlékeztető történelmi emlékmű.", "category": "historical", "coords": [1.503853, 42.495672]}, {"name": "Macarulla", "text": "Tematikus ösvény és családi látványosság Padola területén.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Font de Ferrús", "text": "Természetes forrás Padola régiójában.", "category": "landmark", "coords": [1.510141, 42.507438]}, {"name": "Sant Andreu", "text": "Szent Andrásnak szentelt kis román stílusú templom.", "category": "religious", "coords": [1.530763, 42.510322]}, {"name": "Esglèsia de Sant Romà dels Vilars", "text": "Pre-román stílusú templom Els Vilars környékén.", "category": "religious", "coords": [1.534799, 42.514822]}, {"name": "Església de Santa Coloma", "text": "Történelmi templom, amely jellegzetes kerek harangtornyáról ismert.", "category": "religious", "coords": [1.497548, 42.49415]}, {"name": "Sant Cristofol d'Anyos", "text": "Templom Anyósban, amely panorámás kilátást nyújt a völgyre.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Antoni de la Grella", "text": "Kis kápolna a régi Sant Antoni hídnál.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Vicenç d'Enclar", "text": "Régi kápolna egy dombtetőn, amely régészeti jelentőséggel bír.", "category": "religious", "coords": [1.493759, 42.495739]}, {"name": "Sant Joan de Sispony", "text": "Sispony falu bájos plébániatemploma.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Llac d'Engolasters", "text": "A Padola közelében fekvő Llac d'Engolasters egy gyönyörű hegyi tó, amely természeti környezetéről ismert.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de la Nou", "text": "A Padola területén található Estany de la Nou egy csendes tó, amely nyugodt légkört kínál a természetben.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "A Padola területén található Basses Roges egy kicsi, festői tó, amelyet szép táj vesz körül.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estany de les Truites", "text": "Az Estany de les Truites egy tiszta hegyi tó Padola területén, amely ideális túrázáshoz és pihenéshez.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Bassa de les Granotes", "text": "A Padola területén található Bassa de les Granotes egy kis természetes tó, amely hívogat a természetben való időtöltésre.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "El dipòsit de Grau Roig", "text": "A Padola területén található El dipòsit de Grau Roig egy csendes tó, amely bájos környezetben fekszik.", "category": "natural", "coords": [1.472832, 42.581276]}], "ro": [{"name": "Museu Casa Rull", "text": "Un muzeu într-o casă tradițională care prezintă viața de altădată din Sispony.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Casa de la Vall", "text": "O casă fortificată istorică din Andorra la Vella, care a fost mult timp sediul parlamentului.", "category": "castle", "coords": [1.520508, 42.506608]}, {"name": "Espai Columba", "text": "Un muzeu care prezintă picturi murale romanice și istoria bisericii Santa Coloma.", "category": "museum", "coords": [1.498667, 42.494567]}, {"name": "Centre de Congressos d’Andorra la Vella", "text": "Centrul modern de congrese din Andorra la Vella pentru evenimente culturale și de afaceri.", "category": "cultural", "coords": [1.52251, 42.506918]}, {"name": "Museu Obert de Geologia. Roques al Carrer", "text": "Un muzeu în aer liber din Andorra la Vella care se ocupă de geologia Pirineilor.", "category": "museum", "coords": [1.525262, 42.506144]}, {"name": "Pic d'Enclar", "text": "Un vârf montan deasupra Andorra la Vella cu vedere spre vale.", "category": "natural", "coords": [1.46839, 42.510001]}, {"name": "Pic Carroi", "text": "Un vârf proeminent lângă capitala Andorra la Vella.", "category": "natural", "coords": [1.494336, 42.514314]}, {"name": "Pic de Coll Pa", "text": "Un vârf în regiunea montană din jurul Andorra la Vella.", "category": "natural", "coords": [1.476594, 42.512543]}, {"name": "Pont de Paris", "text": "Un pod modern în Andorra la Vella, care este un simbol al orașului.", "category": "landmark", "coords": [1.53065, 42.509241]}, {"name": "Roc dels Corbs", "text": "Un vârf stâncos în apropiere de Andorra la Vella.", "category": "natural", "coords": [1.513862, 42.507687]}, {"name": "Via ferrada de Sant Vicenç d'Enclar", "text": "Un traseu de via ferrata lângă biserica Sant Vicenç d'Enclar.", "category": "landmark", "coords": [1.495505, 42.495396]}, {"name": "Mirador del Roc dels Senders", "text": "Mirador del Roc dels Senders este un punct natural de observare amenajat în regiunea Padola din Andorra. Aici, oaspeții se pot bucura de o vedere panoramică foarte generoasă asupra reliefului din împrejurimi. O vizită la acest belvedere promite o scufundare totală în frumusețea peisajului local.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Serradora", "text": "Un monument istoric ce amintește de un vechi gater.", "category": "historical", "coords": [1.503853, 42.495672]}, {"name": "Macarulla", "text": "O potecă tematică și o atracție pentru familii în Padola.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Font de Ferrús", "text": "Un izvor natural în regiunea Padola.", "category": "landmark", "coords": [1.510141, 42.507438]}, {"name": "Sant Andreu", "text": "O mică biserică romanică dedicată Sfântului Andrei.", "category": "religious", "coords": [1.530763, 42.510322]}, {"name": "Esglèsia de Sant Romà dels Vilars", "text": "O biserică preromanică situată în zona Els Vilars.", "category": "religious", "coords": [1.534799, 42.514822]}, {"name": "Església de Santa Coloma", "text": "O biserică istorică, cunoscută pentru clopotnița sa circulară distinctivă.", "category": "religious", "coords": [1.497548, 42.49415]}, {"name": "Sant Cristofol d'Anyos", "text": "O biserică în Anyós care oferă o vedere panoramică asupra văii.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Antoni de la Grella", "text": "O mică capelă situată lângă vechiul pod Sant Antoni.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Vicenç d'Enclar", "text": "O veche capelă pe un deal, cu o importanță arheologică deosebită.", "category": "religious", "coords": [1.493759, 42.495739]}, {"name": "Sant Joan de Sispony", "text": "Biserica parohială fermecătoare a satului Sispony.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Llac d'Engolasters", "text": "Llac d'Engolasters este un lac montan frumos de lângă Padola, cunoscut pentru cadrul său natural.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de la Nou", "text": "Estany de la Nou este un lac liniștit din Padola, oferind o atmosferă pașnică în natură.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges este un mic lac pitoresc din Padola, înconjurat de un peisaj frumos.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estany de les Truites", "text": "Estany de les Truites este un lac montan limpede din Padola, ideal pentru drumeții și relaxare.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Bassa de les Granotes", "text": "Bassa de les Granotes este un mic lac natural din Padola, care invită la petrecerea timpului în natură.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "El dipòsit de Grau Roig", "text": "El dipòsit de Grau Roig este un lac liniștit din Padola, amplasat într-un cadru fermecător.", "category": "natural", "coords": [1.472832, 42.581276]}], "en": [{"name": "Museu Casa Rull", "text": "A museum in a traditional house showcasing former life in Sispony.", "category": "museum", "coords": [1.514213, 42.532358]}, {"name": "Casa de la Vall", "text": "A historic fortified house in Andorra la Vella that served as the seat of parliament for a long time.", "category": "castle", "coords": [1.520508, 42.506608]}, {"name": "Espai Columba", "text": "A museum presenting Romanesque mural paintings and the history of Santa Coloma church.", "category": "museum", "coords": [1.498667, 42.494567]}, {"name": "Congress centre of Andorra la Vella", "text": "The modern congress centre of Andorra la Vella for cultural and business events.", "category": "cultural", "coords": [1.52251, 42.506918]}, {"name": "Museu Obert de Geologia. Roques al Carrer", "text": "An open-air museum in Andorra la Vella focusing on the geology of the Pyrenees.", "category": "museum", "coords": [1.525262, 42.506144]}, {"name": "Pic d'Enclar", "text": "A mountain peak overlooking Andorra la Vella with views of the valley.", "category": "natural", "coords": [1.46839, 42.510001]}, {"name": "Pic Carroi", "text": "A prominent peak located near the capital, Andorra la Vella.", "category": "natural", "coords": [1.494336, 42.514314]}, {"name": "Pic de Coll Pa", "text": "A peak in the mountainous region around Andorra la Vella.", "category": "natural", "coords": [1.476594, 42.512543]}, {"name": "Pont de Paris", "text": "A modern bridge in Andorra la Vella that is a landmark of the city.", "category": "landmark", "coords": [1.53065, 42.509241]}, {"name": "Roc dels Corbs", "text": "A rocky peak located near Andorra la Vella.", "category": "natural", "coords": [1.513862, 42.507687]}, {"name": "Via ferrada de Sant Vicenç d'Enclar", "text": "A via ferrata climbing route near the Sant Vicenç d'Enclar church.", "category": "landmark", "coords": [1.495505, 42.495396]}, {"name": "Mirador del Roc dels Senders", "text": "The Mirador del Roc dels Senders is a picturesque natural viewpoint located in Padola, Andorra. Visitors standing at this overlook are presented with a wonderfully wide and unobstructed view of the surrounding landscape. It serves as a perfect spot for travelers wanting to peacefully absorb the beauty of the region.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Serradora", "text": "A historical monument commemorating an old sawmill.", "category": "historical", "coords": [1.503853, 42.495672]}, {"name": "Macarulla", "text": "A themed trail and family attraction in Padola.", "category": "landmark", "coords": [1.479861, 42.537899]}, {"name": "Font de Ferrús", "text": "A natural spring in the Padola region.", "category": "landmark", "coords": [1.510141, 42.507438]}, {"name": "Sant Andreu", "text": "A small Romanesque church dedicated to Saint Andrew.", "category": "religious", "coords": [1.530763, 42.510322]}, {"name": "Esglèsia de Sant Romà dels Vilars", "text": "A pre-Romanesque church located in the Els Vilars area.", "category": "religious", "coords": [1.534799, 42.514822]}, {"name": "Església de Santa Coloma", "text": "A historical church known for its distinctive circular bell tower.", "category": "religious", "coords": [1.497548, 42.49415]}, {"name": "Sant Cristofol d'Anyos", "text": "A church in Anyós offering panoramic views of the valley.", "category": "religious", "coords": [1.524607, 42.534949]}, {"name": "Sant Antoni de la Grella", "text": "A small chapel located by the old Sant Antoni bridge.", "category": "religious", "coords": [1.520702, 42.527607]}, {"name": "Sant Vicenç d'Enclar", "text": "An old chapel on a hill with archaeological significance.", "category": "religious", "coords": [1.493759, 42.495739]}, {"name": "Sant Joan de Sispony", "text": "The charming parish church of the village of Sispony.", "category": "religious", "coords": [1.516012, 42.533613]}, {"name": "Llac d'Engolasters", "text": "Llac d'Engolasters is a beautiful mountain lake near Padola, known for its natural setting.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany de la Nou", "text": "Estany de la Nou is a calm lake in Padola, offering a peaceful atmosphere in nature.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges is a small, scenic lake in Padola, surrounded by beautiful scenery.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estany de les Truites", "text": "Estany de les Truites is a clear mountain lake in Padola, ideal for hiking and relaxation.", "category": "natural", "coords": [1.44856, 42.577582]}, {"name": "Bassa de les Granotes", "text": "Bassa de les Granotes is a small natural lake in Padola, inviting for spending time in nature.", "category": "natural", "coords": [1.442779, 42.577182]}, {"name": "El dipòsit de Grau Roig", "text": "El dipòsit de Grau Roig is a quiet lake in Padola, set in a charming environment.", "category": "natural", "coords": [1.472832, 42.581276]}]},
+    id: "city-padola-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Ein Museum in einem traditionellen Haus, das das frühere Leben in Sispony zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Ein historisches befestigtes Haus in Andorra la Vella, das lange Zeit der Sitz des Parlaments war.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "Ein Museum, das romanische Wandmalereien und die Geschichte der Kirche Santa Coloma präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Das moderne Kongresszentrum von Andorra la Vella für kulturelle und geschäftliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Ein Freilichtmuseum in Andorra la Vella, das sich mit der Geologie der Pyrenäen befasst.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "Pic d'Enclar",
+                  "text": "Ein Berggipfel über Andorra la Vella mit Blick auf das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        1.46839,
+                        42.510001
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "Ein markanter Gipfel in der Nähe der Hauptstadt Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Coll Pa",
+                  "text": "Ein Gipfel in der Gebirgsregion um Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.476594,
+                        42.512543
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Eine moderne Brücke in Andorra la Vella, die ein Wahrzeichen der Stadt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Ein felsiger Gipfel in der Nähe von Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "Ein Klettersteig in der Nähe der Kirche Sant Vicenç d'Enclar.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "In der Gegend von Padola erfreut der Mirador del Roc dels Senders seine Besucher mit landschaftlicher Schönheit. Dieser Aussichtspunkt in Andorra gewährt einen beeindruckend weiten Blick über die sanften Täler und Hügel. Ein fantastisches Naturerlebnis für alle, die das Panorama der Umgebung genießen wollen.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Ein historisches Denkmal, das an eine alte Sägemühle erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "Ein thematischer Pfad und eine Attraktion für Familien in Padola.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Eine natürliche Quelle in der Region von Padola.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Eine kleine romanische Kirche, die dem heiligen Andreas gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Eine vorromanische Kirche in der Gegend von Els Vilars.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "Eine historische Kirche, bekannt für ihren markanten runden Glockenturm.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "Eine Kirche in Anyós, die einen Panoramablick auf das Tal bietet.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Eine kleine Kapelle an der alten Brücke von Sant Antoni.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "Eine alte Kapelle auf einem Hügel mit archäologischer Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "Die charmante Pfarrkirche des Dorfes Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters ist ein wunderschöner Bergsee bei Padola, der für seine natürliche Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou ist ein ruhiger See in Padola, der eine friedliche Atmosphäre in der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges ist ein kleiner, malerischer See in Padola, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites ist ein klarer Gebirgssee in Padola, ideal zum Wandern und Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes ist ein kleiner Natursee in Padola, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig ist ein ruhiger See in Padola, eingebettet in eine reizvolle Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Padola.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Egy hagyományos házban kialakított múzeum, amely a régi életet mutatja be Sisponyban.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Egy történelmi erődített ház Andorra la Vellában, amely sokáig a parlament székhelye volt.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "Múzeum, amely román stílusú falfestményeket és a Santa Coloma-templom történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Andorra la Vella modern kongresszusi központja kulturális és üzleti eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Egy szabadtéri múzeum Andorra la Vellában, amely a Pireneusok geológiájával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "Pic d'Enclar",
+                  "text": "Andorra la Vella fölé magasodó hegycsúcs, kilátással a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        1.46839,
+                        42.510001
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "Egy jellegzetes csúcs a főváros, Andorra la Vella közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Coll Pa",
+                  "text": "Egy csúcs az Andorra la Vella körüli hegyvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        1.476594,
+                        42.512543
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Egy modern híd Andorra la Vellában, amely a város egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Egy sziklás hegycsúcs Andorra la Vella közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "Via ferrata útvonal Sant Vicenç d'Enclar közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "A Padola térségében található Mirador del Roc dels Senders egy csodás andorrai kilátó. Erről a természetes helyszínről hihetetlenül széles panoráma nyílik az elterülő tájra. A természetjárók itt nyugodt környezetben csodálhatják meg a környező hegyeket és völgyeket.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Egy régi fűrésztelepre emlékeztető történelmi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "Tematikus ösvény és családi látványosság Padola területén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Természetes forrás Padola régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Szent Andrásnak szentelt kis román stílusú templom.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Pre-román stílusú templom Els Vilars környékén.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "Történelmi templom, amely jellegzetes kerek harangtornyáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "Templom Anyósban, amely panorámás kilátást nyújt a völgyre.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Kis kápolna a régi Sant Antoni hídnál.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "Régi kápolna egy dombtetőn, amely régészeti jelentőséggel bír.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "Sispony falu bájos plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "A Padola közelében fekvő Llac d'Engolasters egy gyönyörű hegyi tó, amely természeti környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "A Padola területén található Estany de la Nou egy csendes tó, amely nyugodt légkört kínál a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "A Padola területén található Basses Roges egy kicsi, festői tó, amelyet szép táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Az Estany de les Truites egy tiszta hegyi tó Padola területén, amely ideális túrázáshoz és pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "A Padola területén található Bassa de les Granotes egy kis természetes tó, amely hívogat a természetben való időtöltésre.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "A Padola területén található El dipòsit de Grau Roig egy csendes tó, amely bájos környezetben fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Padola településen.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Un muzeu într-o casă tradițională care prezintă viața de altădată din Sispony.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "O casă fortificată istorică din Andorra la Vella, care a fost mult timp sediul parlamentului.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "Un muzeu care prezintă picturi murale romanice și istoria bisericii Santa Coloma.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Centrul modern de congrese din Andorra la Vella pentru evenimente culturale și de afaceri.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Un muzeu în aer liber din Andorra la Vella care se ocupă de geologia Pirineilor.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "Pic d'Enclar",
+                  "text": "Un vârf montan deasupra Andorra la Vella cu vedere spre vale.",
+                  "category": "natural",
+                  "coords": [
+                        1.46839,
+                        42.510001
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "Un vârf proeminent lângă capitala Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Coll Pa",
+                  "text": "Un vârf în regiunea montană din jurul Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.476594,
+                        42.512543
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Un pod modern în Andorra la Vella, care este un simbol al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Un vârf stâncos în apropiere de Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "Un traseu de via ferrata lângă biserica Sant Vicenç d'Enclar.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Mirador del Roc dels Senders este un punct natural de observare amenajat în regiunea Padola din Andorra. Aici, oaspeții se pot bucura de o vedere panoramică foarte generoasă asupra reliefului din împrejurimi. O vizită la acest belvedere promite o scufundare totală în frumusețea peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Un monument istoric ce amintește de un vechi gater.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "O potecă tematică și o atracție pentru familii în Padola.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Un izvor natural în regiunea Padola.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "O mică biserică romanică dedicată Sfântului Andrei.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "O biserică preromanică situată în zona Els Vilars.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "O biserică istorică, cunoscută pentru clopotnița sa circulară distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "O biserică în Anyós care oferă o vedere panoramică asupra văii.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "O mică capelă situată lângă vechiul pod Sant Antoni.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "O veche capelă pe un deal, cu o importanță arheologică deosebită.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "Biserica parohială fermecătoare a satului Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters este un lac montan frumos de lângă Padola, cunoscut pentru cadrul său natural.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou este un lac liniștit din Padola, oferind o atmosferă pașnică în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges este un mic lac pitoresc din Padola, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites este un lac montan limpede din Padola, ideal pentru drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes este un mic lac natural din Padola, care invită la petrecerea timpului în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig este un lac liniștit din Padola, amplasat într-un cadru fermecător.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Un loc pentru înot și recreere acvatică în Padola.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "A museum in a traditional house showcasing former life in Sispony.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "A historic fortified house in Andorra la Vella that served as the seat of parliament for a long time.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "A museum presenting Romanesque mural paintings and the history of Santa Coloma church.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "Congress centre of Andorra la Vella",
+                  "text": "The modern congress centre of Andorra la Vella for cultural and business events.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "An open-air museum in Andorra la Vella focusing on the geology of the Pyrenees.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "Pic d'Enclar",
+                  "text": "A mountain peak overlooking Andorra la Vella with views of the valley.",
+                  "category": "natural",
+                  "coords": [
+                        1.46839,
+                        42.510001
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "A prominent peak located near the capital, Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Coll Pa",
+                  "text": "A peak in the mountainous region around Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.476594,
+                        42.512543
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "A modern bridge in Andorra la Vella that is a landmark of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "A rocky peak located near Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "A via ferrata climbing route near the Sant Vicenç d'Enclar church.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "The Mirador del Roc dels Senders is a picturesque natural viewpoint located in Padola, Andorra. Visitors standing at this overlook are presented with a wonderfully wide and unobstructed view of the surrounding landscape. It serves as a perfect spot for travelers wanting to peacefully absorb the beauty of the region.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "A historical monument commemorating an old sawmill.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Macarulla",
+                  "text": "A themed trail and family attraction in Padola.",
+                  "category": "landmark",
+                  "coords": [
+                        1.479861,
+                        42.537899
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "A natural spring in the Padola region.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "A small Romanesque church dedicated to Saint Andrew.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "A pre-Romanesque church located in the Els Vilars area.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "A historical church known for its distinctive circular bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Cristofol d'Anyos",
+                  "text": "A church in Anyós offering panoramic views of the valley.",
+                  "category": "religious",
+                  "coords": [
+                        1.524607,
+                        42.534949
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "A small chapel located by the old Sant Antoni bridge.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "An old chapel on a hill with archaeological significance.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Sispony",
+                  "text": "The charming parish church of the village of Sispony.",
+                  "category": "religious",
+                  "coords": [
+                        1.516012,
+                        42.533613
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Llac d'Engolasters is a beautiful mountain lake near Padola, known for its natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou is a calm lake in Padola, offering a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges is a small, scenic lake in Padola, surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estany de les Truites",
+                  "text": "Estany de les Truites is a clear mountain lake in Padola, ideal for hiking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        1.44856,
+                        42.577582
+                  ]
+            },
+            {
+                  "name": "Bassa de les Granotes",
+                  "text": "Bassa de les Granotes is a small natural lake in Padola, inviting for spending time in nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.442779,
+                        42.577182
+                  ]
+            },
+            {
+                  "name": "El dipòsit de Grau Roig",
+                  "text": "El dipòsit de Grau Roig is a quiet lake in Padola, set in a charming environment.",
+                  "category": "natural",
+                  "coords": [
+                        1.472832,
+                        42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A place for swimming and water recreation in Padola.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-04",
     coords: [1.5, 42.52],
@@ -36457,6 +40885,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Der Außenpool des Hotels Rutllan in city-la-cortinada-extra bietet Bademöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -36683,6 +41120,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.472832,
                         42.581276
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A Hotel Rutllan szabadtéri medencéje city-la-cortinada-extra területén fürdőzési lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -36911,6 +41357,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Piscina exterioară a Hotelului Rutllan din city-la-cortinada-extra oferă facilități de înot.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -37138,6 +41593,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.472832,
                         42.581276
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "The outdoor pool at Hotel Rutllan in city-la-cortinada-extra offers swimming facilities.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ]
 },
@@ -37336,6 +41800,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.522531,
                         42.543536
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Segudet.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -37490,6 +41963,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.522531,
                         42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Segudet településen.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -37646,6 +42128,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.522531,
                         42.543536
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Un loc pentru înot și recreere acvatică în Segudet.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -37800,6 +42291,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.522531,
                         42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A place for swimming and water recreation in Segudet.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -39355,6 +43855,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.593506,
                         42.600835
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Der Außenpool des Hotels Rutllan in Ancodina ist ideal für die Freizeitgestaltung von Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -39554,6 +44063,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.593506,
                         42.600835
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Az ancodinai Hotel Rutllan szabadtéri medencéje ideális a családok szabadidejéhez.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -39755,6 +44273,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.593506,
                         42.600835
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Piscina exterioară a Hotelului Rutllan din Ancodina este ideală pentru petrecerea timpului liber în familie.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -39954,6 +44481,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.593506,
                         42.600835
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "The outdoor pool at Hotel Rutllan in Ancodina is ideal for family leisure time.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -41096,7 +45632,592 @@ export const poiExtraAndorraCities: POI[] = [
       fr: ["Arans est situé à une altitude de 1 385 mètres.", "La localité appartient à la paroisse (Parròquia) d'Ordino.", "Le village se trouve sur les rives de la rivière Valira del Nord.", "La population est d'environ 220 personnes.", "Arans fait partie de la traditionnelle « Route du Fer ».", "L'architecture traditionnelle utilise l'ardoise grise locale et le granit."],
     }, image: "/poi-images/city-arans-extra.webp"},
   {
-    id: "city-casa-molines-extra", "sights": {"de": [{"name": "Museu Postal", "text": "Ein Museum, das die Geschichte des Postwesens in Andorra dokumentiert.", "category": "museum", "coords": [1.534145, 42.556544]}, {"name": "Les Fontetes", "text": "Ein lokales Theater und Kulturzentrum in La Massana.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "Ein Museum, das sich mit der Geschichte der Eisenindustrie befasst.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Pic del Solà d'Erts", "text": "Ein Berggipfel in den andorranischen Pyrenäen.", "category": "natural", "coords": [1.505447, 42.569114]}, {"name": "Roc de la Cauba", "text": "Ein markanter Felsen und Aussichtspunkt in der Nähe von Casa Molines.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Pic de les Angleves", "text": "Ein Berggipfel, der Aussichten auf die umliegenden Täler bietet.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Rock", "text": "Der schlicht Rock genannte Aussichtspunkt bei Casa Molines ist ein lohnendes andorranisches Naturziel. Von diesem strategisch günstigen Ort aus blickt man weit über das gesamte, tief eingeschnittene Tal. Reisende können sich auf ein ruhiges, weitreichendes Naturpanorama freuen, das zum Verweilen einlädt.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador d'Ordino", "text": "Ein bekannter Aussichtspunkt in der Gemeinde Ordino.", "category": "natural", "coords": [1.540947, 42.549475]}, {"name": "Rocòdrom d'Ordino", "text": "Ein Ort für Klettersport in der Region von Ordino.", "category": "landmark", "coords": [1.532551, 42.555988]}, {"name": "Font de la Navina", "text": "Eine natürliche Quelle in der Nähe von Casa Molines.", "category": "landmark", "coords": [1.5623, 42.555779]}, {"name": "Sant Roc de Sornàs", "text": "Eine kleine Kirche im traditionellen andorranischen Dorf Sornàs.", "category": "religious", "coords": [1.5278, 42.565059]}, {"name": "Sant Iscle i Santa Victòria", "text": "Die Hauptkirche von La Massana, den Schutzheiligen Iscle und Victòria gewidmet.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Santa Bàrbara d'Ordino", "text": "Eine kleine Kapelle, die der heiligen Barbara in Ordino gewidmet ist.", "category": "religious", "coords": [1.529308, 42.555533]}, {"name": "Església de Sant Martí de la Cortinada", "text": "Eine der bedeutendsten romanischen Kirchen Andorras.", "category": "religious", "coords": [1.51775, 42.576632]}, {"name": "Sant Ermengol de l'Aldosa", "text": "Eine kleine Kirche im Dorf L'Aldosa de la Massana.", "category": "religious", "coords": [1.522531, 42.543536]}], "hu": [{"name": "Museu Postal", "text": "Andorra postatörténetét dokumentáló múzeum.", "category": "museum", "coords": [1.534145, 42.556544]}, {"name": "Les Fontetes", "text": "Helyi színház és kulturális központ La Massanában.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "A vasipar történetével foglalkozó múzeum.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Pic del Solà d'Erts", "text": "Hegycsúcs az andorrai Pireneusokban.", "category": "natural", "coords": [1.505447, 42.569114]}, {"name": "Roc de la Cauba", "text": "Jellegzetes szikla és kilátóhely Casa Molines közelében.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Pic de les Angleves", "text": "Hegycsúcs, ahonnan kilátás nyílik a környező völgyekre.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Rock", "text": "A Casa Molines közelében fekvő Rock egy egyszerű, de nagyszerű természetes kilátópont Andorrában. Ezen a magaslaton állva a látogatók előtt széles és hosszan elnyúló völgyi panoráma tárul fel. Ez a helyszín tökéletes alkalmat ad arra, hogy hosszan gyönyörködjünk a hegyvidéki tájban.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador d'Ordino", "text": "Ismert kilátópont Ordino községben.", "category": "natural", "coords": [1.540947, 42.549475]}, {"name": "Rocòdrom d'Ordino", "text": "Helyszín a falmászás kedvelőinek Ordino régiójában.", "category": "landmark", "coords": [1.532551, 42.555988]}, {"name": "Font de la Navina", "text": "Természetes forrás Casa Molines közelében.", "category": "landmark", "coords": [1.5623, 42.555779]}, {"name": "Sant Roc de Sornàs", "text": "Kis templom Sornàs hagyományos andorrai falujában.", "category": "religious", "coords": [1.5278, 42.565059]}, {"name": "Sant Iscle i Santa Victòria", "text": "La Massana főtemploma, Szent Iscle és Victòria tiszteletére.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Santa Bàrbara d'Ordino", "text": "Szent Borbálának szentelt kis kápolna Ordinóban.", "category": "religious", "coords": [1.529308, 42.555533]}, {"name": "Església de Sant Martí de la Cortinada", "text": "Andorra egyik legjelentősebb román stílusú temploma.", "category": "religious", "coords": [1.51775, 42.576632]}, {"name": "Sant Ermengol de l'Aldosa", "text": "Kis templom L'Aldosa de la Massana faluban.", "category": "religious", "coords": [1.522531, 42.543536]}], "ro": [{"name": "Museu Postal", "text": "Un muzeu care documentează istoria serviciilor poștale din Andorra.", "category": "museum", "coords": [1.534145, 42.556544]}, {"name": "Les Fontetes", "text": "Un teatru local și centru cultural în La Massana.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "Un muzeu dedicat istoriei industriei fierului.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Pic del Solà d'Erts", "text": "Un vârf montan în Pirineii andorrani.", "category": "natural", "coords": [1.505447, 42.569114]}, {"name": "Roc de la Cauba", "text": "O stâncă proeminentă și un punct de belvedere lângă Casa Molines.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Pic de les Angleves", "text": "Un vârf montan care oferă vederi asupra văilor înconjurătoare.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Rock", "text": "Numit simplu Rock, acest punct de observație natural se află în zona Casa Molines din Andorra. Odată ajunși aici, turiștii pot privi direct către o priveliște amplă ce se deschide deasupra văii adânci. Este un loc minunat pentru a fotografia și a admira grandoarea peisajului montan.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador d'Ordino", "text": "Un punct de belvedere cunoscut în comuna Ordino.", "category": "natural", "coords": [1.540947, 42.549475]}, {"name": "Rocòdrom d'Ordino", "text": "Un loc pentru sporturi de escaladă în regiunea Ordino.", "category": "landmark", "coords": [1.532551, 42.555988]}, {"name": "Font de la Navina", "text": "Un izvor natural situat lângă Casa Molines.", "category": "landmark", "coords": [1.5623, 42.555779]}, {"name": "Sant Roc de Sornàs", "text": "O mică biserică în satul tradițional andorran Sornàs.", "category": "religious", "coords": [1.5278, 42.565059]}, {"name": "Sant Iscle i Santa Victòria", "text": "Biserica principală din La Massana, dedicată sfinților patroni Iscle și Victòria.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Santa Bàrbara d'Ordino", "text": "O mică capelă dedicată Sfintei Barbara în Ordino.", "category": "religious", "coords": [1.529308, 42.555533]}, {"name": "Església de Sant Martí de la Cortinada", "text": "Una dintre cele mai importante biserici romanice din Andorra.", "category": "religious", "coords": [1.51775, 42.576632]}, {"name": "Sant Ermengol de l'Aldosa", "text": "O mică biserică în satul L'Aldosa de la Massana.", "category": "religious", "coords": [1.522531, 42.543536]}], "en": [{"name": "Museu Postal", "text": "A museum documenting the history of postal services in Andorra.", "category": "museum", "coords": [1.534145, 42.556544]}, {"name": "Les Fontetes", "text": "A local theatre and cultural center in La Massana.", "category": "cultural", "coords": [1.514507, 42.546663]}, {"name": "Iron Museum", "text": "A museum focusing on the history of the iron industry.", "category": "museum", "coords": [1.521033, 42.545986]}, {"name": "Pic del Solà d'Erts", "text": "A mountain peak in the Andorran Pyrenees.", "category": "natural", "coords": [1.505447, 42.569114]}, {"name": "Roc de la Cauba", "text": "A prominent rock and viewpoint near Casa Molines.", "category": "natural", "coords": [1.514566, 42.560509]}, {"name": "Pic de les Angleves", "text": "A mountain peak offering views of the surrounding valleys.", "category": "natural", "coords": [1.532571, 42.543926]}, {"name": "Rock", "text": "Situated near Casa Molines in Andorra, the natural viewpoint known as Rock offers an impressive outlook. From this specific vantage point, guests are treated to a remarkably wide view that stretches far over the valley below. It presents a wonderful opportunity to relax and take in the sheer scale of the landscape.", "category": "natural", "coords": [1.518605, 42.559122]}, {"name": "Mirador d'Ordino", "text": "A well-known viewpoint in the Ordino municipality.", "category": "natural", "coords": [1.540947, 42.549475]}, {"name": "Rocòdrom d'Ordino", "text": "A venue for climbing sports in the Ordino region.", "category": "landmark", "coords": [1.532551, 42.555988]}, {"name": "Font de la Navina", "text": "A natural spring located near Casa Molines.", "category": "landmark", "coords": [1.5623, 42.555779]}, {"name": "Sant Roc de Sornàs", "text": "A small church in the traditional Andorran village of Sornàs.", "category": "religious", "coords": [1.5278, 42.565059]}, {"name": "Sant Iscle i Santa Victòria", "text": "The main church of La Massana, dedicated to the patron saints Iscle and Victòria.", "category": "religious", "coords": [1.514128, 42.545034]}, {"name": "Santa Bàrbara d'Ordino", "text": "A small chapel dedicated to Saint Barbara in Ordino.", "category": "religious", "coords": [1.529308, 42.555533]}, {"name": "Església de Sant Martí de la Cortinada", "text": "One of the most important Romanesque churches in Andorra.", "category": "religious", "coords": [1.51775, 42.576632]}, {"name": "Sant Ermengol de l'Aldosa", "text": "A small church in the village of L'Aldosa de la Massana.", "category": "religious", "coords": [1.522531, 42.543536]}]},
+    id: "city-casa-molines-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museu Postal",
+                  "text": "Ein Museum, das die Geschichte des Postwesens in Andorra dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        1.534145,
+                        42.556544
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Ein lokales Theater und Kulturzentrum in La Massana.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Ein Museum, das sich mit der Geschichte der Eisenindustrie befasst.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic del Solà d'Erts",
+                  "text": "Ein Berggipfel in den andorranischen Pyrenäen.",
+                  "category": "natural",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Ein markanter Felsen und Aussichtspunkt in der Nähe von Casa Molines.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "Ein Berggipfel, der Aussichten auf die umliegenden Täler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "Der schlicht Rock genannte Aussichtspunkt bei Casa Molines ist ein lohnendes andorranisches Naturziel. Von diesem strategisch günstigen Ort aus blickt man weit über das gesamte, tief eingeschnittene Tal. Reisende können sich auf ein ruhiges, weitreichendes Naturpanorama freuen, das zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador d'Ordino",
+                  "text": "Ein bekannter Aussichtspunkt in der Gemeinde Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.540947,
+                        42.549475
+                  ]
+            },
+            {
+                  "name": "Rocòdrom d'Ordino",
+                  "text": "Ein Ort für Klettersport in der Region von Ordino.",
+                  "category": "landmark",
+                  "coords": [
+                        1.532551,
+                        42.555988
+                  ]
+            },
+            {
+                  "name": "Font de la Navina",
+                  "text": "Eine natürliche Quelle in der Nähe von Casa Molines.",
+                  "category": "landmark",
+                  "coords": [
+                        1.5623,
+                        42.555779
+                  ]
+            },
+            {
+                  "name": "Sant Roc de Sornàs",
+                  "text": "Eine kleine Kirche im traditionellen andorranischen Dorf Sornàs.",
+                  "category": "religious",
+                  "coords": [
+                        1.5278,
+                        42.565059
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "Die Hauptkirche von La Massana, den Schutzheiligen Iscle und Victòria gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Santa Bàrbara d'Ordino",
+                  "text": "Eine kleine Kapelle, die der heiligen Barbara in Ordino gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        1.529308,
+                        42.555533
+                  ]
+            },
+            {
+                  "name": "Església de Sant Martí de la Cortinada",
+                  "text": "Eine der bedeutendsten romanischen Kirchen Andorras.",
+                  "category": "religious",
+                  "coords": [
+                        1.51775,
+                        42.576632
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "Eine kleine Kirche im Dorf L'Aldosa de la Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Gäste in Casa Molines können den Außenpool des Hotels Rutllan zur Erholung nutzen.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Postal",
+                  "text": "Andorra postatörténetét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        1.534145,
+                        42.556544
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Helyi színház és kulturális központ La Massanában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "A vasipar történetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic del Solà d'Erts",
+                  "text": "Hegycsúcs az andorrai Pireneusokban.",
+                  "category": "natural",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "Jellegzetes szikla és kilátóhely Casa Molines közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "Hegycsúcs, ahonnan kilátás nyílik a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "A Casa Molines közelében fekvő Rock egy egyszerű, de nagyszerű természetes kilátópont Andorrában. Ezen a magaslaton állva a látogatók előtt széles és hosszan elnyúló völgyi panoráma tárul fel. Ez a helyszín tökéletes alkalmat ad arra, hogy hosszan gyönyörködjünk a hegyvidéki tájban.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador d'Ordino",
+                  "text": "Ismert kilátópont Ordino községben.",
+                  "category": "natural",
+                  "coords": [
+                        1.540947,
+                        42.549475
+                  ]
+            },
+            {
+                  "name": "Rocòdrom d'Ordino",
+                  "text": "Helyszín a falmászás kedvelőinek Ordino régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.532551,
+                        42.555988
+                  ]
+            },
+            {
+                  "name": "Font de la Navina",
+                  "text": "Természetes forrás Casa Molines közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.5623,
+                        42.555779
+                  ]
+            },
+            {
+                  "name": "Sant Roc de Sornàs",
+                  "text": "Kis templom Sornàs hagyományos andorrai falujában.",
+                  "category": "religious",
+                  "coords": [
+                        1.5278,
+                        42.565059
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "La Massana főtemploma, Szent Iscle és Victòria tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Santa Bàrbara d'Ordino",
+                  "text": "Szent Borbálának szentelt kis kápolna Ordinóban.",
+                  "category": "religious",
+                  "coords": [
+                        1.529308,
+                        42.555533
+                  ]
+            },
+            {
+                  "name": "Església de Sant Martí de la Cortinada",
+                  "text": "Andorra egyik legjelentősebb román stílusú temploma.",
+                  "category": "religious",
+                  "coords": [
+                        1.51775,
+                        42.576632
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "Kis templom L'Aldosa de la Massana faluban.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A Casa Molines területén tartózkodó vendégek igénybe vehetik a Hotel Rutllan szabadtéri medencéjét.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Postal",
+                  "text": "Un muzeu care documentează istoria serviciilor poștale din Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.534145,
+                        42.556544
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "Un teatru local și centru cultural în La Massana.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "Un muzeu dedicat istoriei industriei fierului.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic del Solà d'Erts",
+                  "text": "Un vârf montan în Pirineii andorrani.",
+                  "category": "natural",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "O stâncă proeminentă și un punct de belvedere lângă Casa Molines.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "Un vârf montan care oferă vederi asupra văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "Numit simplu Rock, acest punct de observație natural se află în zona Casa Molines din Andorra. Odată ajunși aici, turiștii pot privi direct către o priveliște amplă ce se deschide deasupra văii adânci. Este un loc minunat pentru a fotografia și a admira grandoarea peisajului montan.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador d'Ordino",
+                  "text": "Un punct de belvedere cunoscut în comuna Ordino.",
+                  "category": "natural",
+                  "coords": [
+                        1.540947,
+                        42.549475
+                  ]
+            },
+            {
+                  "name": "Rocòdrom d'Ordino",
+                  "text": "Un loc pentru sporturi de escaladă în regiunea Ordino.",
+                  "category": "landmark",
+                  "coords": [
+                        1.532551,
+                        42.555988
+                  ]
+            },
+            {
+                  "name": "Font de la Navina",
+                  "text": "Un izvor natural situat lângă Casa Molines.",
+                  "category": "landmark",
+                  "coords": [
+                        1.5623,
+                        42.555779
+                  ]
+            },
+            {
+                  "name": "Sant Roc de Sornàs",
+                  "text": "O mică biserică în satul tradițional andorran Sornàs.",
+                  "category": "religious",
+                  "coords": [
+                        1.5278,
+                        42.565059
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "Biserica principală din La Massana, dedicată sfinților patroni Iscle și Victòria.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Santa Bàrbara d'Ordino",
+                  "text": "O mică capelă dedicată Sfintei Barbara în Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.529308,
+                        42.555533
+                  ]
+            },
+            {
+                  "name": "Església de Sant Martí de la Cortinada",
+                  "text": "Una dintre cele mai importante biserici romanice din Andorra.",
+                  "category": "religious",
+                  "coords": [
+                        1.51775,
+                        42.576632
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "O mică biserică în satul L'Aldosa de la Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Oaspeții din Casa Molines pot folosi piscina exterioară a Hotelului Rutllan pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Postal",
+                  "text": "A museum documenting the history of postal services in Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.534145,
+                        42.556544
+                  ]
+            },
+            {
+                  "name": "Les Fontetes",
+                  "text": "A local theatre and cultural center in La Massana.",
+                  "category": "cultural",
+                  "coords": [
+                        1.514507,
+                        42.546663
+                  ]
+            },
+            {
+                  "name": "Iron Museum",
+                  "text": "A museum focusing on the history of the iron industry.",
+                  "category": "museum",
+                  "coords": [
+                        1.521033,
+                        42.545986
+                  ]
+            },
+            {
+                  "name": "Pic del Solà d'Erts",
+                  "text": "A mountain peak in the Andorran Pyrenees.",
+                  "category": "natural",
+                  "coords": [
+                        1.505447,
+                        42.569114
+                  ]
+            },
+            {
+                  "name": "Roc de la Cauba",
+                  "text": "A prominent rock and viewpoint near Casa Molines.",
+                  "category": "natural",
+                  "coords": [
+                        1.514566,
+                        42.560509
+                  ]
+            },
+            {
+                  "name": "Pic de les Angleves",
+                  "text": "A mountain peak offering views of the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        1.532571,
+                        42.543926
+                  ]
+            },
+            {
+                  "name": "Rock",
+                  "text": "Situated near Casa Molines in Andorra, the natural viewpoint known as Rock offers an impressive outlook. From this specific vantage point, guests are treated to a remarkably wide view that stretches far over the valley below. It presents a wonderful opportunity to relax and take in the sheer scale of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        1.518605,
+                        42.559122
+                  ]
+            },
+            {
+                  "name": "Mirador d'Ordino",
+                  "text": "A well-known viewpoint in the Ordino municipality.",
+                  "category": "natural",
+                  "coords": [
+                        1.540947,
+                        42.549475
+                  ]
+            },
+            {
+                  "name": "Rocòdrom d'Ordino",
+                  "text": "A venue for climbing sports in the Ordino region.",
+                  "category": "landmark",
+                  "coords": [
+                        1.532551,
+                        42.555988
+                  ]
+            },
+            {
+                  "name": "Font de la Navina",
+                  "text": "A natural spring located near Casa Molines.",
+                  "category": "landmark",
+                  "coords": [
+                        1.5623,
+                        42.555779
+                  ]
+            },
+            {
+                  "name": "Sant Roc de Sornàs",
+                  "text": "A small church in the traditional Andorran village of Sornàs.",
+                  "category": "religious",
+                  "coords": [
+                        1.5278,
+                        42.565059
+                  ]
+            },
+            {
+                  "name": "Sant Iscle i Santa Victòria",
+                  "text": "The main church of La Massana, dedicated to the patron saints Iscle and Victòria.",
+                  "category": "religious",
+                  "coords": [
+                        1.514128,
+                        42.545034
+                  ]
+            },
+            {
+                  "name": "Santa Bàrbara d'Ordino",
+                  "text": "A small chapel dedicated to Saint Barbara in Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.529308,
+                        42.555533
+                  ]
+            },
+            {
+                  "name": "Església de Sant Martí de la Cortinada",
+                  "text": "One of the most important Romanesque churches in Andorra.",
+                  "category": "religious",
+                  "coords": [
+                        1.51775,
+                        42.576632
+                  ]
+            },
+            {
+                  "name": "Sant Ermengol de l'Aldosa",
+                  "text": "A small church in the village of L'Aldosa de la Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.522531,
+                        42.543536
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Guests in Casa Molines can use the outdoor pool of Hotel Rutllan for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-05",
     coords: [1.53, 42.565],
@@ -46598,6 +51719,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.593506,
                         42.600835
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "In Pla D Ordino bietet der Außenpool des Hotels Rutllan eine Möglichkeit zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -46905,6 +52035,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.593506,
                         42.600835
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Pla D Ordino területén a Hotel Rutllan szabadtéri medencéje nyújt úszási lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -47214,6 +52353,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.593506,
                         42.600835
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "În Pla D Ordino, piscina exterioară a Hotelului Rutllan oferă o posibilitate pentru înot.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -47521,6 +52669,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.593506,
                         42.600835
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "In Pla D Ordino, the outdoor pool of Hotel Rutllan provides an opportunity for swimming.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -48349,6 +53506,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.587476,
                         42.465855
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Aixirivall.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "hu": [
@@ -48575,6 +53741,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.587476,
                         42.465855
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Aixirivall településen.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ],
@@ -48803,6 +53978,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.587476,
                         42.465855
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "O destinație plină de distracție pentru familii și copii în Aixirivall.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "en": [
@@ -49030,6 +54214,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.587476,
                         42.465855
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "A fun-filled destination for families and children in Aixirivall.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ]
 },
@@ -49203,6 +54396,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Bixessarri ist ein Abenteuerpark, der verschiedene Aktivitäten in der Natur bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "hu": [
@@ -49330,6 +54532,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "A bixessarri Naturlandia egy kalandpark, amely különféle természetközeli tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ],
@@ -49459,6 +54670,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia din Bixessarri este un parc de aventură care oferă diverse activități în natură.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "en": [
@@ -49586,6 +54806,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Bixessarri is an adventure park offering various activities in nature.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ]
@@ -49740,6 +54969,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.469578,
                         42.432184
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Fontaneda bietet Unterhaltung und Freizeitaktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "hu": [
@@ -49849,6 +55087,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.469578,
                         42.432184
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "A fontanedai Naturlandia szórakozást és szabadidős tevékenységeket kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ],
@@ -49960,6 +55207,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.469578,
                         42.432184
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia din Fontaneda oferă divertisment și activități de recreere pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "en": [
@@ -50069,6 +55325,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.469578,
                         42.432184
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Fontaneda offers entertainment and leisure activities for families.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ]
@@ -50832,6 +56097,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Dieser Bereich von Naturlandia in city-juberri-extra bietet Freizeitspaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "hu": [
@@ -50851,6 +56125,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "A Naturlandia ezen része city-juberri-extra területén szabadidős szórakozást kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ],
@@ -50872,6 +56155,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Această zonă a Naturlandia din city-juberri-extra oferă distracție recreativă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "en": [
@@ -50891,6 +56183,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "This area of Naturlandia in city-juberri-extra offers recreational fun for families.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ]
@@ -50936,7 +56237,1024 @@ export const poiExtraAndorraCities: POI[] = [
       fr: ["Appartient à la paroisse de Sant Julià de Lòria.", "Connu pour ses jardins de sculptures contemporaines.", "Abrite l'église Sant Esteve de Juberri.", "Situé à une altitude de 1 250 mètres.", "Se trouve à proximité immédiate de Naturlandia.", "Offre des vues panoramiques sur la vallée de la Valira."],
     }, image: "/poi-images/city-juberri-extra.webp"},
   {
-    id: "city-nagol-extra", "sights": {"de": [{"name": "Museu del Tabac", "text": "Ein Museum in Nagol, das die Geschichte der Tabakindustrie in Andorra beleuchtet.", "category": "museum", "coords": [1.491525, 42.464503]}, {"name": "Espai Columba", "text": "Ein Museum, das sich der Erhaltung und Ausstellung andorranischer romanischer Kunst widmet.", "category": "museum", "coords": [1.498667, 42.494567]}, {"name": "La Portella", "text": "Ein Berggipfel in der Nähe der Ortschaft Nagol.", "category": "natural", "coords": [1.504266, 42.457002]}, {"name": "Via ferrada Tossal Gran d'Aixovall", "text": "Ein Klettersteig am Tossal Gran in der Gegend von Nagol.", "category": "landmark", "coords": [1.488635, 42.478981]}, {"name": "Collada de la Caülla", "text": "Ein Gebirgspass und Wanderziel in der Nähe von Nagol.", "category": "landmark", "coords": [1.531904, 42.480756]}, {"name": "Mirador del Roc de Palomera", "text": "Ein Aussichtspunkt auf dem Roc de Palomera mit Blick auf Nagol.", "category": "natural", "coords": [1.515744, 42.488977]}, {"name": "Via ferrada de Sant Vicenç d'Enclar", "text": "Ein anspruchsvoller Klettersteig, der zur Kirche Sant Vicenç d'Enclar führt.", "category": "landmark", "coords": [1.495505, 42.495396]}, {"name": "Pont de la Margineda", "text": "Eine historische mittelalterliche Brücke in der Nähe von Nagol.", "category": "landmark", "coords": [1.491911, 42.484286]}, {"name": "Mirador del Roc dels Senders", "text": "Ein Aussichtspunkt nahe Nagol mit weitem Blick über das Tal.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Mirador del Bosc Negre", "text": "Ein Aussichtspunkt im Waldgebiet Bosc Negre bei Nagol.", "category": "natural", "coords": [1.52546, 42.492294]}, {"name": "Furgoneta VW T1", "text": "Eine lokale Kuriosität oder Attraktion in der Nähe von Nagol.", "category": "landmark", "coords": [1.543758, 42.471896]}, {"name": "Pica Romana 1727 m", "text": "Ein Aussichtspunkt auf einer Anhöhe bei Nagol.", "category": "natural", "coords": [1.51006, 42.48429]}, {"name": "Mirador del Roc de Solobre", "text": "Ein Aussichtspunkt am Roc de Solobre nahe Nagol.", "category": "natural", "coords": [1.510515, 42.49335]}, {"name": "Serradora", "text": "Ein Denkmal oder historisches Sägewerk in der Gegend von Nagol.", "category": "historical", "coords": [1.503853, 42.495672]}, {"name": "Mirador Solanes de la Peguera", "text": "In der andorranischen Gemeinde Nagol befindet sich der Aussichtspunkt Mirador Solanes de la Peguera. Dieses Naturjuwel ermöglicht einen direkten Blick auf die weiten Hänge der Peguera. Besucher erwartet hier eine malerische Perspektive auf die steilen, alpinen Berghänge der Umgebung.", "category": "natural", "coords": [1.516094, 42.458521]}, {"name": "Font de l'Àrtic", "text": "Eine Quelle mit frischem Gebirgswasser bei Nagol.", "category": "landmark", "coords": [1.490187, 42.47849]}, {"name": "Sant Cerni de Nagol", "text": "Eine kleine, charmante romanische Kirche, die für ihre Lage und Schlichtheit in Nagol bekannt ist.", "category": "religious", "coords": [1.50089, 42.469507]}, {"name": "Sant Pere d'Aixirivall", "text": "Ein historisches Gotteshaus in Nagol, das die traditionelle Architektur der Pyrenäen widerspiegelt.", "category": "religious", "coords": [1.502098, 42.463001]}, {"name": "Sant Romà d'Auvinyà", "text": "Eine kleine Kapelle in Nagol, die als lokales religiöses und kulturelles Erbe dient.", "category": "religious", "coords": [1.496435, 42.453319]}, {"name": "Església de Santa Coloma", "text": "Eine berühmte vorromanische Kirche in Nagol, die für ihren einzigartigen runden Glockenturm bekannt ist.", "category": "religious", "coords": [1.497548, 42.49415]}, {"name": "Sant Vicenç d'Enclar", "text": "Eine auf einem Hügel gelegene romanische Kirche in Nagol mit weitem Blick über das Tal.", "category": "religious", "coords": [1.493759, 42.495739]}, {"name": "Llac d'Engolasters", "text": "Ein bekannter See bei Nagol, beliebt für Spaziergänge und die Aussicht.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany Gran de la Pera", "text": "Ein großer, klarer Bergsee bei Nagol in einer malerischen Umgebung.", "category": "natural", "coords": [1.593714, 42.456939]}, {"name": "Estany Petit de la Pera", "text": "Der Estany Petit de la Pera in Nagol ist ein ruhiger See, der sich ideal für Spaziergänge in der Natur eignet.", "category": "natural", "coords": [1.59706, 42.455208]}, {"name": "Estany de la Nou", "text": "Der Estany de la Nou in Nagol ist ein malerischer See, der zum Entspannen in der Natur einlädt.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges in Nagol ist ein ruhiges Gewässer, das von einer schönen Landschaft umgeben ist.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estanys de Perafita", "text": "Die Estanys de Perafita in Nagol sind friedliche Bergseen, ideal für Naturliebhaber.", "category": "natural", "coords": [1.587476, 42.465855]}], "hu": [{"name": "Museu del Tabac", "text": "Nagolban található múzeum, amely az andorrai dohányipar történetét mutatja be.", "category": "museum", "coords": [1.491525, 42.464503]}, {"name": "Espai Columba", "text": "Andorrai román stílusú művészet megőrzésének és bemutatásának szentelt múzeum.", "category": "museum", "coords": [1.498667, 42.494567]}, {"name": "La Portella", "text": "Hegycsúcs Nagol település közelében.", "category": "natural", "coords": [1.504266, 42.457002]}, {"name": "Via ferrada Tossal Gran d'Aixovall", "text": "Klettersteig a Tossal Gran sziklán Nagol környékén.", "category": "landmark", "coords": [1.488635, 42.478981]}, {"name": "Collada de la Caülla", "text": "Hegyi hágó és túracélpont Nagol közelében.", "category": "landmark", "coords": [1.531904, 42.480756]}, {"name": "Mirador del Roc de Palomera", "text": "Kilátóhely a Roc de Palomera sziklán, kilátással Nagolra.", "category": "natural", "coords": [1.515744, 42.488977]}, {"name": "Via ferrada de Sant Vicenç d'Enclar", "text": "Kihívást jelentő mászóút, amely a Sant Vicenç d'Enclar templomhoz vezet.", "category": "landmark", "coords": [1.495505, 42.495396]}, {"name": "Pont de la Margineda", "text": "Történelmi középkori híd Nagol közelében.", "category": "landmark", "coords": [1.491911, 42.484286]}, {"name": "Mirador del Roc dels Senders", "text": "Nagol közeli kilátóhely széles kilátással a völgyre.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Mirador del Bosc Negre", "text": "Kilátóhely a Nagol melletti Bosc Negre erdős területen.", "category": "natural", "coords": [1.52546, 42.492294]}, {"name": "Furgoneta VW T1", "text": "Helyi érdekesség vagy látnivaló Nagol közelében.", "category": "landmark", "coords": [1.543758, 42.471896]}, {"name": "Pica Romana 1727 m", "text": "Kilátóhely egy magaslaton Nagol közelében.", "category": "natural", "coords": [1.51006, 42.48429]}, {"name": "Mirador del Roc de Solobre", "text": "Kilátóhely a Roc de Solobre sziklánál Nagol közelében.", "category": "natural", "coords": [1.510515, 42.49335]}, {"name": "Serradora", "text": "Emlékmű vagy történelmi fűrésztelep Nagol környékén.", "category": "historical", "coords": [1.503853, 42.495672]}, {"name": "Mirador Solanes de la Peguera", "text": "A Nagol mellett elterülő Mirador Solanes de la Peguera egy varázslatos andorrai kilátó. A helyszínről tisztán rálátni a Peguera meredek hegyoldalaira és zöldellő lankáira. Az idelátogató természetjárók közvetlenül élvezhetik a hegyvidéki domborzat szépségét.", "category": "natural", "coords": [1.516094, 42.458521]}, {"name": "Font de l'Àrtic", "text": "Friss hegyi vizet adó forrás Nagol közelében.", "category": "landmark", "coords": [1.490187, 42.47849]}, {"name": "Sant Cerni de Nagol", "text": "Egy kicsi, bájos román stílusú templom, amely elhelyezkedéséről és egyszerűségéről ismert Nagolban.", "category": "religious", "coords": [1.50089, 42.469507]}, {"name": "Sant Pere d'Aixirivall", "text": "Történelmi templom Nagolban, amely a Pireneusok hagyományos építészetét tükrözi.", "category": "religious", "coords": [1.502098, 42.463001]}, {"name": "Sant Romà d'Auvinyà", "text": "Egy kis kápolna Nagolban, amely helyi vallási és kulturális örökségként szolgál.", "category": "religious", "coords": [1.496435, 42.453319]}, {"name": "Església de Santa Coloma", "text": "Híres preromán templom Nagolban, amely egyedülálló kerek harangtornyáról ismert.", "category": "religious", "coords": [1.497548, 42.49415]}, {"name": "Sant Vicenç d'Enclar", "text": "Domboldalon fekvő román stílusú templom Nagolban, széles kilátással a völgyre.", "category": "religious", "coords": [1.493759, 42.495739]}, {"name": "Llac d'Engolasters", "text": "Ismert tó Nagol közelében, kedvelt a séták és a kilátás miatt.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany Gran de la Pera", "text": "Nagy, tiszta hegyi tó Nagol közelében, festői környezetben.", "category": "natural", "coords": [1.593714, 42.456939]}, {"name": "Estany Petit de la Pera", "text": "A Nagol közelében található Estany Petit de la Pera egy csendes tó, amely ideális választás a természetbeni sétákhoz.", "category": "natural", "coords": [1.59706, 42.455208]}, {"name": "Estany de la Nou", "text": "A Nagol területén fekvő Estany de la Nou egy festői tó, amely kikapcsolódást nyújt a természetben.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "A Nagol városában található Basses Roges egy csendes állóvíz, amelyet szép táj vesz körül.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estanys de Perafita", "text": "A Nagol közelében lévő Estanys de Perafita békés hegyi tavak, amelyek ideálisak a természet kedvelőinek.", "category": "natural", "coords": [1.587476, 42.465855]}], "ro": [{"name": "Museu del Tabac", "text": "Un muzeu în Nagol care prezintă istoria industriei tutunului din Andorra.", "category": "museum", "coords": [1.491525, 42.464503]}, {"name": "Espai Columba", "text": "Un muzeu dedicat conservării și expunerii artei romanice andorrane.", "category": "museum", "coords": [1.498667, 42.494567]}, {"name": "La Portella", "text": "Un vârf montan situat în apropierea localității Nagol.", "category": "natural", "coords": [1.504266, 42.457002]}, {"name": "Via ferrada Tossal Gran d'Aixovall", "text": "O via ferrata pe Tossal Gran în zona Nagol.", "category": "landmark", "coords": [1.488635, 42.478981]}, {"name": "Collada de la Caülla", "text": "O trecătoare montană și destinație de drumeție lângă Nagol.", "category": "landmark", "coords": [1.531904, 42.480756]}, {"name": "Mirador del Roc de Palomera", "text": "Un punct de belvedere pe Roc de Palomera cu vedere spre Nagol.", "category": "natural", "coords": [1.515744, 42.488977]}, {"name": "Via ferrada de Sant Vicenç d'Enclar", "text": "O via ferrata provocatoare care duce la biserica Sant Vicenç d'Enclar.", "category": "landmark", "coords": [1.495505, 42.495396]}, {"name": "Pont de la Margineda", "text": "Un pod medieval istoric situat lângă Nagol.", "category": "landmark", "coords": [1.491911, 42.484286]}, {"name": "Mirador del Roc dels Senders", "text": "Un punct de belvedere lângă Nagol cu o vedere largă asupra văii.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Mirador del Bosc Negre", "text": "Un punct de belvedere în zona forestieră Bosc Negre de lângă Nagol.", "category": "natural", "coords": [1.52546, 42.492294]}, {"name": "Furgoneta VW T1", "text": "O curiozitate locală sau atracție în apropiere de Nagol.", "category": "landmark", "coords": [1.543758, 42.471896]}, {"name": "Pica Romana 1727 m", "text": "Un punct de belvedere pe o înălțime lângă Nagol.", "category": "natural", "coords": [1.51006, 42.48429]}, {"name": "Mirador del Roc de Solobre", "text": "Un punct de belvedere la Roc de Solobre lângă Nagol.", "category": "natural", "coords": [1.510515, 42.49335]}, {"name": "Serradora", "text": "Un monument sau gater istoric în zona Nagol.", "category": "historical", "coords": [1.503853, 42.495672]}, {"name": "Mirador Solanes de la Peguera", "text": "Mirador Solanes de la Peguera este un punct de belvedere amenajat în mijlocul naturii, lângă Nagol, Andorra. Locația oferă vizitatorilor o vedere clară asupra versanților abrupți ai muntelui Peguera. O oprire aici dezvăluie detalii spectaculoase ale reliefului înclinat din această zonă montană.", "category": "natural", "coords": [1.516094, 42.458521]}, {"name": "Font de l'Àrtic", "text": "Un izvor cu apă proaspătă de munte lângă Nagol.", "category": "landmark", "coords": [1.490187, 42.47849]}, {"name": "Sant Cerni de Nagol", "text": "O mică și fermecătoare biserică romanică, cunoscută pentru locația și simplitatea sa din Nagol.", "category": "religious", "coords": [1.50089, 42.469507]}, {"name": "Sant Pere d'Aixirivall", "text": "Un lăcaș de cult istoric din Nagol, care reflectă arhitectura tradițională a Pirineilor.", "category": "religious", "coords": [1.502098, 42.463001]}, {"name": "Sant Romà d'Auvinyà", "text": "O mică capelă din Nagol, care servește drept moștenire religioasă și culturală locală.", "category": "religious", "coords": [1.496435, 42.453319]}, {"name": "Església de Santa Coloma", "text": "O faimoasă biserică preromanică din Nagol, cunoscută pentru clopotnița sa rotundă unică.", "category": "religious", "coords": [1.497548, 42.49415]}, {"name": "Sant Vicenç d'Enclar", "text": "O biserică romanică situată pe un deal în Nagol, cu o vedere largă asupra văii.", "category": "religious", "coords": [1.493759, 42.495739]}, {"name": "Llac d'Engolasters", "text": "Un lac cunoscut lângă Nagol, popular pentru plimbări și priveliște.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany Gran de la Pera", "text": "Un lac montan mare și clar lângă Nagol, într-un cadru pitoresc.", "category": "natural", "coords": [1.593714, 42.456939]}, {"name": "Estany Petit de la Pera", "text": "Estany Petit de la Pera din Nagol este un lac liniștit, ideal pentru plimbări în natură.", "category": "natural", "coords": [1.59706, 42.455208]}, {"name": "Estany de la Nou", "text": "Estany de la Nou din Nagol este un lac pitoresc, ce oferă un cadru relaxant în mijlocul naturii.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges din Nagol este o zonă cu apă liniștită, înconjurată de un peisaj frumos.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estanys de Perafita", "text": "Estanys de Perafita din Nagol sunt lacuri montane liniștite, ideale pentru iubitorii de natură.", "category": "natural", "coords": [1.587476, 42.465855]}], "en": [{"name": "Museu del Tabac", "text": "A museum in Nagol showcasing the history of the tobacco industry in Andorra.", "category": "museum", "coords": [1.491525, 42.464503]}, {"name": "Espai Columba", "text": "A museum dedicated to the preservation and exhibition of Andorran Romanesque art.", "category": "museum", "coords": [1.498667, 42.494567]}, {"name": "La Portella", "text": "A mountain peak located near the settlement of Nagol.", "category": "natural", "coords": [1.504266, 42.457002]}, {"name": "Via ferrada Tossal Gran d'Aixovall", "text": "A via ferrata route on the Tossal Gran in the Nagol area.", "category": "landmark", "coords": [1.488635, 42.478981]}, {"name": "Collada de la Caülla", "text": "A mountain pass and hiking destination near Nagol.", "category": "landmark", "coords": [1.531904, 42.480756]}, {"name": "Mirador del Roc de Palomera", "text": "A viewpoint on the Roc de Palomera offering views over Nagol.", "category": "natural", "coords": [1.515744, 42.488977]}, {"name": "Via ferrada de Sant Vicenç d'Enclar", "text": "A challenging via ferrata route leading to the Sant Vicenç d'Enclar church.", "category": "landmark", "coords": [1.495505, 42.495396]}, {"name": "Pont de la Margineda", "text": "A historic medieval bridge located near Nagol.", "category": "landmark", "coords": [1.491911, 42.484286]}, {"name": "Mirador del Roc dels Senders", "text": "A viewpoint near Nagol offering broad vistas over the valley.", "category": "natural", "coords": [1.523478, 42.502328]}, {"name": "Mirador del Bosc Negre", "text": "A viewpoint in the Bosc Negre forested area near Nagol.", "category": "natural", "coords": [1.52546, 42.492294]}, {"name": "Furgoneta VW T1", "text": "A local curiosity or attraction located near Nagol.", "category": "landmark", "coords": [1.543758, 42.471896]}, {"name": "Pica Romana 1727 m", "text": "A viewpoint on a high point near Nagol.", "category": "natural", "coords": [1.51006, 42.48429]}, {"name": "Mirador del Roc de Solobre", "text": "A viewpoint at the Roc de Solobre near Nagol.", "category": "natural", "coords": [1.510515, 42.49335]}, {"name": "Serradora", "text": "A monument or historic sawmill in the Nagol area.", "category": "historical", "coords": [1.503853, 42.495672]}, {"name": "Mirador Solanes de la Peguera", "text": "The Mirador Solanes de la Peguera is a scenic natural viewpoint located near Nagol in Andorra. From this overlook, visitors are provided with a dedicated view of the dramatic slopes of the Peguera mountain area. It is a fantastic place to observe the steep alpine terrain and its rugged beauty.", "category": "natural", "coords": [1.516094, 42.458521]}, {"name": "Font de l'Àrtic", "text": "A spring providing fresh mountain water near Nagol.", "category": "landmark", "coords": [1.490187, 42.47849]}, {"name": "Sant Cerni de Nagol", "text": "A small, charming Romanesque church known for its location and simplicity in Nagol.", "category": "religious", "coords": [1.50089, 42.469507]}, {"name": "Sant Pere d'Aixirivall", "text": "A historic place of worship in Nagol, reflecting the traditional architecture of the Pyrenees.", "category": "religious", "coords": [1.502098, 42.463001]}, {"name": "Sant Romà d'Auvinyà", "text": "A small chapel in Nagol that serves as a local religious and cultural heritage site.", "category": "religious", "coords": [1.496435, 42.453319]}, {"name": "Església de Santa Coloma", "text": "A famous pre-Romanesque church in Nagol, known for its unique round bell tower.", "category": "religious", "coords": [1.497548, 42.49415]}, {"name": "Sant Vicenç d'Enclar", "text": "A Romanesque church situated on a hill in Nagol, offering wide views over the valley.", "category": "religious", "coords": [1.493759, 42.495739]}, {"name": "Llac d'Engolasters", "text": "A well-known lake near Nagol, popular for walks and the views.", "category": "natural", "coords": [1.56835, 42.519816]}, {"name": "Estany Gran de la Pera", "text": "A large, clear mountain lake near Nagol in a scenic setting.", "category": "natural", "coords": [1.593714, 42.456939]}, {"name": "Estany Petit de la Pera", "text": "Estany Petit de la Pera in Nagol is a quiet lake, ideal for nature walks.", "category": "natural", "coords": [1.59706, 42.455208]}, {"name": "Estany de la Nou", "text": "Estany de la Nou in Nagol is a scenic lake offering a relaxing setting in nature.", "category": "natural", "coords": [1.575517, 42.475431]}, {"name": "Basses Roges", "text": "Basses Roges in Nagol is a quiet body of water surrounded by beautiful scenery.", "category": "natural", "coords": [1.557611, 42.47097]}, {"name": "Estanys de Perafita", "text": "Estanys de Perafita in Nagol are peaceful mountain lakes, ideal for nature lovers.", "category": "natural", "coords": [1.587476, 42.465855]}]},
+    id: "city-nagol-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Ein Museum in Nagol, das die Geschichte der Tabakindustrie in Andorra beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464503
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "Ein Museum, das sich der Erhaltung und Ausstellung andorranischer romanischer Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Ein Berggipfel in der Nähe der Ortschaft Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Via ferrada Tossal Gran d'Aixovall",
+                  "text": "Ein Klettersteig am Tossal Gran in der Gegend von Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.488635,
+                        42.478981
+                  ]
+            },
+            {
+                  "name": "Collada de la Caülla",
+                  "text": "Ein Gebirgspass und Wanderziel in der Nähe von Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.531904,
+                        42.480756
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Palomera",
+                  "text": "Ein Aussichtspunkt auf dem Roc de Palomera mit Blick auf Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.515744,
+                        42.488977
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "Ein anspruchsvoller Klettersteig, der zur Kirche Sant Vicenç d'Enclar führt.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Pont de la Margineda",
+                  "text": "Eine historische mittelalterliche Brücke in der Nähe von Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.491911,
+                        42.484286
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Ein Aussichtspunkt nahe Nagol mit weitem Blick über das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "Ein Aussichtspunkt im Waldgebiet Bosc Negre bei Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Furgoneta VW T1",
+                  "text": "Eine lokale Kuriosität oder Attraktion in der Nähe von Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.543758,
+                        42.471896
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Ein Aussichtspunkt auf einer Anhöhe bei Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Solobre",
+                  "text": "Ein Aussichtspunkt am Roc de Solobre nahe Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.510515,
+                        42.49335
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Ein Denkmal oder historisches Sägewerk in der Gegend von Nagol.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "In der andorranischen Gemeinde Nagol befindet sich der Aussichtspunkt Mirador Solanes de la Peguera. Dieses Naturjuwel ermöglicht einen direkten Blick auf die weiten Hänge der Peguera. Besucher erwartet hier eine malerische Perspektive auf die steilen, alpinen Berghänge der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "Font de l'Àrtic",
+                  "text": "Eine Quelle mit frischem Gebirgswasser bei Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.490187,
+                        42.47849
+                  ]
+            },
+            {
+                  "name": "Sant Cerni de Nagol",
+                  "text": "Eine kleine, charmante romanische Kirche, die für ihre Lage und Schlichtheit in Nagol bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        1.50089,
+                        42.469507
+                  ]
+            },
+            {
+                  "name": "Sant Pere d'Aixirivall",
+                  "text": "Ein historisches Gotteshaus in Nagol, das die traditionelle Architektur der Pyrenäen widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        1.502098,
+                        42.463001
+                  ]
+            },
+            {
+                  "name": "Sant Romà d'Auvinyà",
+                  "text": "Eine kleine Kapelle in Nagol, die als lokales religiöses und kulturelles Erbe dient.",
+                  "category": "religious",
+                  "coords": [
+                        1.496435,
+                        42.453319
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "Eine berühmte vorromanische Kirche in Nagol, die für ihren einzigartigen runden Glockenturm bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "Eine auf einem Hügel gelegene romanische Kirche in Nagol mit weitem Blick über das Tal.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Ein bekannter See bei Nagol, beliebt für Spaziergänge und die Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Pera",
+                  "text": "Ein großer, klarer Bergsee bei Nagol in einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        1.593714,
+                        42.456939
+                  ]
+            },
+            {
+                  "name": "Estany Petit de la Pera",
+                  "text": "Der Estany Petit de la Pera in Nagol ist ein ruhiger See, der sich ideal für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        1.59706,
+                        42.455208
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Der Estany de la Nou in Nagol ist ein malerischer See, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges in Nagol ist ein ruhiges Gewässer, das von einer schönen Landschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Die Estanys de Perafita in Nagol sind friedliche Bergseen, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Nagol ist ein Freizeitpark mit verschiedenen Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Nagolban található múzeum, amely az andorrai dohányipar történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464503
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "Andorrai román stílusú művészet megőrzésének és bemutatásának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Hegycsúcs Nagol település közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Via ferrada Tossal Gran d'Aixovall",
+                  "text": "Klettersteig a Tossal Gran sziklán Nagol környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.488635,
+                        42.478981
+                  ]
+            },
+            {
+                  "name": "Collada de la Caülla",
+                  "text": "Hegyi hágó és túracélpont Nagol közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.531904,
+                        42.480756
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Palomera",
+                  "text": "Kilátóhely a Roc de Palomera sziklán, kilátással Nagolra.",
+                  "category": "natural",
+                  "coords": [
+                        1.515744,
+                        42.488977
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "Kihívást jelentő mászóút, amely a Sant Vicenç d'Enclar templomhoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Pont de la Margineda",
+                  "text": "Történelmi középkori híd Nagol közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.491911,
+                        42.484286
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Nagol közeli kilátóhely széles kilátással a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "Kilátóhely a Nagol melletti Bosc Negre erdős területen.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Furgoneta VW T1",
+                  "text": "Helyi érdekesség vagy látnivaló Nagol közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.543758,
+                        42.471896
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Kilátóhely egy magaslaton Nagol közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Solobre",
+                  "text": "Kilátóhely a Roc de Solobre sziklánál Nagol közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.510515,
+                        42.49335
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Emlékmű vagy történelmi fűrésztelep Nagol környékén.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "A Nagol mellett elterülő Mirador Solanes de la Peguera egy varázslatos andorrai kilátó. A helyszínről tisztán rálátni a Peguera meredek hegyoldalaira és zöldellő lankáira. Az idelátogató természetjárók közvetlenül élvezhetik a hegyvidéki domborzat szépségét.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "Font de l'Àrtic",
+                  "text": "Friss hegyi vizet adó forrás Nagol közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.490187,
+                        42.47849
+                  ]
+            },
+            {
+                  "name": "Sant Cerni de Nagol",
+                  "text": "Egy kicsi, bájos román stílusú templom, amely elhelyezkedéséről és egyszerűségéről ismert Nagolban.",
+                  "category": "religious",
+                  "coords": [
+                        1.50089,
+                        42.469507
+                  ]
+            },
+            {
+                  "name": "Sant Pere d'Aixirivall",
+                  "text": "Történelmi templom Nagolban, amely a Pireneusok hagyományos építészetét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        1.502098,
+                        42.463001
+                  ]
+            },
+            {
+                  "name": "Sant Romà d'Auvinyà",
+                  "text": "Egy kis kápolna Nagolban, amely helyi vallási és kulturális örökségként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        1.496435,
+                        42.453319
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "Híres preromán templom Nagolban, amely egyedülálló kerek harangtornyáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "Domboldalon fekvő román stílusú templom Nagolban, széles kilátással a völgyre.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Ismert tó Nagol közelében, kedvelt a séták és a kilátás miatt.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Pera",
+                  "text": "Nagy, tiszta hegyi tó Nagol közelében, festői környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        1.593714,
+                        42.456939
+                  ]
+            },
+            {
+                  "name": "Estany Petit de la Pera",
+                  "text": "A Nagol közelében található Estany Petit de la Pera egy csendes tó, amely ideális választás a természetbeni sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.59706,
+                        42.455208
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "A Nagol területén fekvő Estany de la Nou egy festői tó, amely kikapcsolódást nyújt a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "A Nagol városában található Basses Roges egy csendes állóvíz, amelyet szép táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "A Nagol közelében lévő Estanys de Perafita békés hegyi tavak, amelyek ideálisak a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "A nagoli Naturlandia egy vidámpark különféle látnivalókkal családok számára.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu del Tabac",
+                  "text": "Un muzeu în Nagol care prezintă istoria industriei tutunului din Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464503
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "Un muzeu dedicat conservării și expunerii artei romanice andorrane.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "Un vârf montan situat în apropierea localității Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Via ferrada Tossal Gran d'Aixovall",
+                  "text": "O via ferrata pe Tossal Gran în zona Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.488635,
+                        42.478981
+                  ]
+            },
+            {
+                  "name": "Collada de la Caülla",
+                  "text": "O trecătoare montană și destinație de drumeție lângă Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.531904,
+                        42.480756
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Palomera",
+                  "text": "Un punct de belvedere pe Roc de Palomera cu vedere spre Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.515744,
+                        42.488977
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "O via ferrata provocatoare care duce la biserica Sant Vicenç d'Enclar.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Pont de la Margineda",
+                  "text": "Un pod medieval istoric situat lângă Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.491911,
+                        42.484286
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Un punct de belvedere lângă Nagol cu o vedere largă asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "Un punct de belvedere în zona forestieră Bosc Negre de lângă Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Furgoneta VW T1",
+                  "text": "O curiozitate locală sau atracție în apropiere de Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.543758,
+                        42.471896
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Un punct de belvedere pe o înălțime lângă Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Solobre",
+                  "text": "Un punct de belvedere la Roc de Solobre lângă Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.510515,
+                        42.49335
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Un monument sau gater istoric în zona Nagol.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "Mirador Solanes de la Peguera este un punct de belvedere amenajat în mijlocul naturii, lângă Nagol, Andorra. Locația oferă vizitatorilor o vedere clară asupra versanților abrupți ai muntelui Peguera. O oprire aici dezvăluie detalii spectaculoase ale reliefului înclinat din această zonă montană.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "Font de l'Àrtic",
+                  "text": "Un izvor cu apă proaspătă de munte lângă Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.490187,
+                        42.47849
+                  ]
+            },
+            {
+                  "name": "Sant Cerni de Nagol",
+                  "text": "O mică și fermecătoare biserică romanică, cunoscută pentru locația și simplitatea sa din Nagol.",
+                  "category": "religious",
+                  "coords": [
+                        1.50089,
+                        42.469507
+                  ]
+            },
+            {
+                  "name": "Sant Pere d'Aixirivall",
+                  "text": "Un lăcaș de cult istoric din Nagol, care reflectă arhitectura tradițională a Pirineilor.",
+                  "category": "religious",
+                  "coords": [
+                        1.502098,
+                        42.463001
+                  ]
+            },
+            {
+                  "name": "Sant Romà d'Auvinyà",
+                  "text": "O mică capelă din Nagol, care servește drept moștenire religioasă și culturală locală.",
+                  "category": "religious",
+                  "coords": [
+                        1.496435,
+                        42.453319
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "O faimoasă biserică preromanică din Nagol, cunoscută pentru clopotnița sa rotundă unică.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "O biserică romanică situată pe un deal în Nagol, cu o vedere largă asupra văii.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "Un lac cunoscut lângă Nagol, popular pentru plimbări și priveliște.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Pera",
+                  "text": "Un lac montan mare și clar lângă Nagol, într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        1.593714,
+                        42.456939
+                  ]
+            },
+            {
+                  "name": "Estany Petit de la Pera",
+                  "text": "Estany Petit de la Pera din Nagol este un lac liniștit, ideal pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.59706,
+                        42.455208
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou din Nagol este un lac pitoresc, ce oferă un cadru relaxant în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges din Nagol este o zonă cu apă liniștită, înconjurată de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Estanys de Perafita din Nagol sunt lacuri montane liniștite, ideale pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia din Nagol este un parc de distracții cu diverse atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu del Tabac",
+                  "text": "A museum in Nagol showcasing the history of the tobacco industry in Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.491525,
+                        42.464503
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "A museum dedicated to the preservation and exhibition of Andorran Romanesque art.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "La Portella",
+                  "text": "A mountain peak located near the settlement of Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.504266,
+                        42.457002
+                  ]
+            },
+            {
+                  "name": "Via ferrada Tossal Gran d'Aixovall",
+                  "text": "A via ferrata route on the Tossal Gran in the Nagol area.",
+                  "category": "landmark",
+                  "coords": [
+                        1.488635,
+                        42.478981
+                  ]
+            },
+            {
+                  "name": "Collada de la Caülla",
+                  "text": "A mountain pass and hiking destination near Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.531904,
+                        42.480756
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Palomera",
+                  "text": "A viewpoint on the Roc de Palomera offering views over Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.515744,
+                        42.488977
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "A challenging via ferrata route leading to the Sant Vicenç d'Enclar church.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Pont de la Margineda",
+                  "text": "A historic medieval bridge located near Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.491911,
+                        42.484286
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "A viewpoint near Nagol offering broad vistas over the valley.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "A viewpoint in the Bosc Negre forested area near Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Furgoneta VW T1",
+                  "text": "A local curiosity or attraction located near Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.543758,
+                        42.471896
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "A viewpoint on a high point near Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Solobre",
+                  "text": "A viewpoint at the Roc de Solobre near Nagol.",
+                  "category": "natural",
+                  "coords": [
+                        1.510515,
+                        42.49335
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "A monument or historic sawmill in the Nagol area.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Mirador Solanes de la Peguera",
+                  "text": "The Mirador Solanes de la Peguera is a scenic natural viewpoint located near Nagol in Andorra. From this overlook, visitors are provided with a dedicated view of the dramatic slopes of the Peguera mountain area. It is a fantastic place to observe the steep alpine terrain and its rugged beauty.",
+                  "category": "natural",
+                  "coords": [
+                        1.516094,
+                        42.458521
+                  ]
+            },
+            {
+                  "name": "Font de l'Àrtic",
+                  "text": "A spring providing fresh mountain water near Nagol.",
+                  "category": "landmark",
+                  "coords": [
+                        1.490187,
+                        42.47849
+                  ]
+            },
+            {
+                  "name": "Sant Cerni de Nagol",
+                  "text": "A small, charming Romanesque church known for its location and simplicity in Nagol.",
+                  "category": "religious",
+                  "coords": [
+                        1.50089,
+                        42.469507
+                  ]
+            },
+            {
+                  "name": "Sant Pere d'Aixirivall",
+                  "text": "A historic place of worship in Nagol, reflecting the traditional architecture of the Pyrenees.",
+                  "category": "religious",
+                  "coords": [
+                        1.502098,
+                        42.463001
+                  ]
+            },
+            {
+                  "name": "Sant Romà d'Auvinyà",
+                  "text": "A small chapel in Nagol that serves as a local religious and cultural heritage site.",
+                  "category": "religious",
+                  "coords": [
+                        1.496435,
+                        42.453319
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "A famous pre-Romanesque church in Nagol, known for its unique round bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "A Romanesque church situated on a hill in Nagol, offering wide views over the valley.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Llac d'Engolasters",
+                  "text": "A well-known lake near Nagol, popular for walks and the views.",
+                  "category": "natural",
+                  "coords": [
+                        1.56835,
+                        42.519816
+                  ]
+            },
+            {
+                  "name": "Estany Gran de la Pera",
+                  "text": "A large, clear mountain lake near Nagol in a scenic setting.",
+                  "category": "natural",
+                  "coords": [
+                        1.593714,
+                        42.456939
+                  ]
+            },
+            {
+                  "name": "Estany Petit de la Pera",
+                  "text": "Estany Petit de la Pera in Nagol is a quiet lake, ideal for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        1.59706,
+                        42.455208
+                  ]
+            },
+            {
+                  "name": "Estany de la Nou",
+                  "text": "Estany de la Nou in Nagol is a scenic lake offering a relaxing setting in nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.575517,
+                        42.475431
+                  ]
+            },
+            {
+                  "name": "Basses Roges",
+                  "text": "Basses Roges in Nagol is a quiet body of water surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        1.557611,
+                        42.47097
+                  ]
+            },
+            {
+                  "name": "Estanys de Perafita",
+                  "text": "Estanys de Perafita in Nagol are peaceful mountain lakes, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        1.587476,
+                        42.465855
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Nagol is a theme park with various attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AD-06",
     coords: [1.51, 42.478],
@@ -51858,6 +58176,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Llumeneres ist ein Ziel für Ausflüge und Unterhaltung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "hu": [
@@ -51967,6 +58294,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "A llumeneresi Naturlandia szabadtéri kirándulások és szórakozás helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ],
@@ -52078,6 +58414,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia din Llumeneres este o destinație pentru excursii și divertisment în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "en": [
@@ -52187,6 +58532,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Llumeneres is a destination for outdoor excursions and entertainment.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ]
@@ -53121,6 +59475,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Canolich.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "hu": [
@@ -53131,6 +59494,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Canolich településen.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ],
@@ -53143,6 +59515,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.557611,
                         42.47097
                   ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "O destinație plină de distracție pentru familii și copii în Canolich.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
             }
       ],
       "en": [
@@ -53153,6 +59534,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.557611,
                         42.47097
+                  ]
+            },
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "A fun-filled destination for families and children in Canolich.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
                   ]
             }
       ]

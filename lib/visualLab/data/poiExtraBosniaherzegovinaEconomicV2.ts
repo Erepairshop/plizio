@@ -1891,6 +1891,33 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                         18.406787,
                         43.865029
                   ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Ein öffentliches Bad in Sarajevo für traditionelle Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "Ein Schwimmbad in Sarajevo für Freizeit und Sport.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Ein Freizeitpark in Sarajevo mit Unterhaltungsangeboten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
+                  ]
             }
       ],
       "hu": [
@@ -2342,6 +2369,33 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                   "coords": [
                         18.406787,
                         43.865029
+                  ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Nyilvános fürdő Szarajevóban a hagyományos pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "Úszómedence Szarajevóban szabadidőhöz és sporthoz.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Élménypark Szarajevóban szórakozási ajánlatokkal családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
                   ]
             }
       ],
@@ -2795,6 +2849,33 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                         18.406787,
                         43.865029
                   ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Baie publică în Sarajevo pentru relaxare tradițională.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "O piscină în Sarajevo pentru timp liber și sport.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Un parc de distracții în Sarajevo cu oferte de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
+                  ]
             }
       ],
       "en": [
@@ -3246,6 +3327,33 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
                   "coords": [
                         18.406787,
                         43.865029
+                  ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "A public bath in Sarajevo for traditional relaxation.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "A swimming pool in Sarajevo for leisure and sports.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "A theme park in Sarajevo with entertainment offers for families.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
                   ]
             }
       ]

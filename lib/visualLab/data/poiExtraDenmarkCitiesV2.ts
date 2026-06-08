@@ -1174,6 +1174,141 @@ export const denmarkCitiesV2: POI[] = [
                         11.361237,
                         55.402114
                   ]
+            },
+            {
+                  "name": "Slagelse Teater",
+                  "text": "Das Slagelse Teater ist ein kultureller Treffpunkt in der Stadt. Es bietet ein abwechslungsreiches Programm für Einwohner und Besucher gleichermaßen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.348253,
+                        55.403602
+                  ]
+            },
+            {
+                  "name": "Krabasken",
+                  "text": "Krabasken ist ein bekanntes Theater in Slagelse. Es ist ein zentraler Ort für lokales Schauspiel und künstlerische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.350778,
+                        55.401406
+                  ]
+            },
+            {
+                  "name": "Legejunglen Slagelse",
+                  "text": "Legejunglen Slagelse ist ein beliebter Themenpark für Familien. Hier können Kinder in einer sicheren Umgebung spielen und neue Abenteuer erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        11.359137,
+                        55.387616
+                  ]
+            },
+            {
+                  "name": "Dansk Forsorgshistorisk Museum",
+                  "text": "Das Dansk Forsorgshistorisk Museum in Slagelse beleuchtet soziale Aspekte der Vergangenheit. Es ist ein lehrreicher Ort für kulturhistorisch interessierte Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        11.364632,
+                        55.421309
+                  ]
+            },
+            {
+                  "name": "Slagelse Musikhus",
+                  "text": "Das Slagelse Musikhus ist ein zentraler Veranstaltungsort für Konzerte. Gäste genießen hier eine vielfältige Auswahl an musikalischen Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.352633,
+                        55.406405
+                  ]
+            },
+            {
+                  "name": "Antvorskov Kloster",
+                  "text": "Antvorskov Kloster ist eine bedeutende Ruinenstätte bei Slagelse. Besucher können hier die historischen Überreste dieser einst wichtigen Anlage erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        11.362391,
+                        55.390926
+                  ]
+            },
+            {
+                  "name": "Korsbjerg",
+                  "text": "Korsbjerg bietet einen fantastischen Panoramablick über die Umgebung von Slagelse. Es ist ein beliebter Aussichtspunkt für Naturfreunde und Fotografen.",
+                  "category": "natural",
+                  "coords": [
+                        11.371448,
+                        55.387446
+                  ]
+            },
+            {
+                  "name": "Idagaard",
+                  "text": "Idagaard ist ein historisches Herrenhaus in der Nähe von Slagelse. Es beeindruckt durch seine Architektur und seine landschaftlich reizvolle Lage.",
+                  "category": "historical",
+                  "coords": [
+                        11.353544,
+                        55.386847
+                  ]
+            },
+            {
+                  "name": "Strandvejsmøllen",
+                  "text": "Strandvejsmøllen ist eine historische Windmühle in der Region Slagelse. Sie dient als schönes Fotomotiv und Zeugnis lokaler Bautradition.",
+                  "category": "landmark",
+                  "coords": [
+                        11.335626,
+                        55.399311
+                  ]
+            },
+            {
+                  "name": "Antvorskov Kirke",
+                  "text": "Die Antvorskov Kirke ist ein geschichtsträchtiges Gotteshaus in Slagelse. Sie lädt Besucher ein, die religiöse Bedeutung und die lokale Geschichte zu erfahren.",
+                  "category": "religious",
+                  "coords": [
+                        11.347464,
+                        55.387914
+                  ]
+            },
+            {
+                  "name": "Sankt Peders Kirke",
+                  "text": "Die Sankt Peders Kirke in Slagelse ist eine beeindruckende Kirche mit langer Geschichte. Besucher schätzen ihre architektonische Gestaltung bei einem Stadtrundgang.",
+                  "category": "religious",
+                  "coords": [
+                        11.349518,
+                        55.401939
+                  ]
+            },
+            {
+                  "name": "Sankt Mikkels Kirke",
+                  "text": "Die Sankt Mikkels Kirke ist ein bedeutendes religiöses Wahrzeichen von Slagelse. Sie ist einen Besuch wert, um ihre historische Architektur zu bewundern.",
+                  "category": "religious",
+                  "coords": [
+                        11.354527,
+                        55.403509
+                  ]
+            },
+            {
+                  "name": "Nørrevangskirken",
+                  "text": "Die Nørrevangskirken in Slagelse ist ein modernes und einladendes Gotteshaus. Sie bietet einen ruhigen Ort für Besuche und religiöse Einkehr.",
+                  "category": "religious",
+                  "coords": [
+                        11.364387,
+                        55.417814
+                  ]
+            },
+            {
+                  "name": "Helligåndskirken",
+                  "text": "Die Helligåndskirken in Slagelse ist eine bedeutende Kirche mit historischem Charme. Besucher können hier die religiöse Tradition der Stadt entdecken.",
+                  "category": "religious",
+                  "coords": [
+                        11.352634,
+                        55.401696
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Die Vor Frue Kirke ist ein schönes, historisches Gotteshaus in Slagelse. Sie ist ein wichtiger Teil des kulturellen Erbes der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        11.351773,
+                        55.404685
+                  ]
             }
       ],
       "hu": [
@@ -1184,6 +1319,141 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         11.361237,
                         55.402114
+                  ]
+            },
+            {
+                  "name": "Slagelse Teater",
+                  "text": "A Slagelse Teater a város kulturális találkozóhelye. Változatos programokat kínál a lakosok és a látogatók számára egyaránt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.348253,
+                        55.403602
+                  ]
+            },
+            {
+                  "name": "Krabasken",
+                  "text": "A Krabasken egy népszerű színház Slagelse-ben. A helyi színjátszás és művészi előadások központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        11.350778,
+                        55.401406
+                  ]
+            },
+            {
+                  "name": "Legejunglen Slagelse",
+                  "text": "A Legejunglen Slagelse egy népszerű vidámpark családok számára. A gyerekek biztonságos környezetben játszhatnak és élhetnek át új kalandokat.",
+                  "category": "recreational",
+                  "coords": [
+                        11.359137,
+                        55.387616
+                  ]
+            },
+            {
+                  "name": "Dansk Forsorgshistorisk Museum",
+                  "text": "A Slagelse-i Dansk Forsorgshistorisk Museum a múlt társadalmi aspektusait világítja meg. Tanulságos hely a kultúrtörténet iránt érdeklődő látogatók számára.",
+                  "category": "museum",
+                  "coords": [
+                        11.364632,
+                        55.421309
+                  ]
+            },
+            {
+                  "name": "Slagelse Musikhus",
+                  "text": "A Slagelse Musikhus koncertek központi helyszíne. A vendégek itt változatos zenei előadások választékát élvezhetik.",
+                  "category": "cultural",
+                  "coords": [
+                        11.352633,
+                        55.406405
+                  ]
+            },
+            {
+                  "name": "Antvorskov Kloster",
+                  "text": "Az Antvorskov Kloster egy jelentős romterület Slagelse közelében. A látogatók felfedezhetik az egykor fontos létesítmény történelmi maradványait.",
+                  "category": "historical",
+                  "coords": [
+                        11.362391,
+                        55.390926
+                  ]
+            },
+            {
+                  "name": "Korsbjerg",
+                  "text": "A Korsbjerg fantasztikus panorámát nyújt Slagelse környékére. Kedvelt kilátó a természetbarátok és fotósok számára.",
+                  "category": "natural",
+                  "coords": [
+                        11.371448,
+                        55.387446
+                  ]
+            },
+            {
+                  "name": "Idagaard",
+                  "text": "Az Idagaard egy történelmi kúria Slagelse közelében. Építészetével és festői elhelyezkedésével nyűgöz le.",
+                  "category": "historical",
+                  "coords": [
+                        11.353544,
+                        55.386847
+                  ]
+            },
+            {
+                  "name": "Strandvejsmøllen",
+                  "text": "A Strandvejsmøllen egy történelmi szélmalom Slagelse régiójában. Szép fotótéma és a helyi építészeti hagyományok tanúja.",
+                  "category": "landmark",
+                  "coords": [
+                        11.335626,
+                        55.399311
+                  ]
+            },
+            {
+                  "name": "Antvorskov Kirke",
+                  "text": "Az Antvorskov Kirke egy történelmi jelentőségű imaház Slagelse-ben. Meghívja a látogatókat, hogy megismerjék vallási jelentőségét és helyi történelmét.",
+                  "category": "religious",
+                  "coords": [
+                        11.347464,
+                        55.387914
+                  ]
+            },
+            {
+                  "name": "Sankt Peders Kirke",
+                  "text": "A Slagelse-i Sankt Peders Kirke egy lenyűgöző, hosszú történelemmel rendelkező templom. A látogatók városnézés közben értékelik építészeti kialakítását.",
+                  "category": "religious",
+                  "coords": [
+                        11.349518,
+                        55.401939
+                  ]
+            },
+            {
+                  "name": "Sankt Mikkels Kirke",
+                  "text": "A Sankt Mikkels Kirke Slagelse fontos vallási jelképe. Érdemes meglátogatni, hogy megcsodálhassuk történelmi építészetét.",
+                  "category": "religious",
+                  "coords": [
+                        11.354527,
+                        55.403509
+                  ]
+            },
+            {
+                  "name": "Nørrevangskirken",
+                  "text": "A Slagelse-i Nørrevangskirken egy modern és hívogató imaház. Nyugodt helyet kínál látogatásokra és vallási elmélyülésre.",
+                  "category": "religious",
+                  "coords": [
+                        11.364387,
+                        55.417814
+                  ]
+            },
+            {
+                  "name": "Helligåndskirken",
+                  "text": "A Slagelse-i Helligåndskirken egy jelentős, történelmi bájjal rendelkező templom. A látogatók felfedezhetik itt a város vallási hagyományait.",
+                  "category": "religious",
+                  "coords": [
+                        11.352634,
+                        55.401696
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "A Vor Frue Kirke egy gyönyörű, történelmi imaház Slagelse-ben. A város kulturális örökségének fontos része.",
+                  "category": "religious",
+                  "coords": [
+                        11.351773,
+                        55.404685
                   ]
             }
       ],
@@ -1196,6 +1466,141 @@ export const denmarkCitiesV2: POI[] = [
                         11.361237,
                         55.402114
                   ]
+            },
+            {
+                  "name": "Slagelse Teater",
+                  "text": "Slagelse Teater este un punct de întâlnire cultural în oraș. Oferă un program diversificat atât pentru locuitori, cât și pentru vizitatori.",
+                  "category": "cultural",
+                  "coords": [
+                        11.348253,
+                        55.403602
+                  ]
+            },
+            {
+                  "name": "Krabasken",
+                  "text": "Krabasken este un teatru cunoscut în Slagelse. Este un loc central pentru actoria locală și spectacole artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        11.350778,
+                        55.401406
+                  ]
+            },
+            {
+                  "name": "Legejunglen Slagelse",
+                  "text": "Legejunglen Slagelse este un parc tematic popular pentru familii. Aici, copiii se pot juca într-un mediu sigur și pot trăi noi aventuri.",
+                  "category": "recreational",
+                  "coords": [
+                        11.359137,
+                        55.387616
+                  ]
+            },
+            {
+                  "name": "Dansk Forsorgshistorisk Museum",
+                  "text": "Muzeul Dansk Forsorgshistorisk din Slagelse evidențiază aspectele sociale ale trecutului. Este un loc educativ pentru vizitatorii interesați de istoria culturală.",
+                  "category": "museum",
+                  "coords": [
+                        11.364632,
+                        55.421309
+                  ]
+            },
+            {
+                  "name": "Slagelse Musikhus",
+                  "text": "Slagelse Musikhus este un loc central pentru concerte. Oaspeții se bucură aici de o gamă variată de spectacole muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        11.352633,
+                        55.406405
+                  ]
+            },
+            {
+                  "name": "Antvorskov Kloster",
+                  "text": "Antvorskov Kloster este un sit de ruine semnificativ lângă Slagelse. Vizitatorii pot explora aici vestigiile istorice ale acestui complex cândva important.",
+                  "category": "historical",
+                  "coords": [
+                        11.362391,
+                        55.390926
+                  ]
+            },
+            {
+                  "name": "Korsbjerg",
+                  "text": "Korsbjerg oferă o vedere panoramică fantastică asupra împrejurimilor orașului Slagelse. Este un punct de belvedere popular pentru iubitorii de natură și fotografi.",
+                  "category": "natural",
+                  "coords": [
+                        11.371448,
+                        55.387446
+                  ]
+            },
+            {
+                  "name": "Idagaard",
+                  "text": "Idagaard este un conac istoric în apropiere de Slagelse. Acesta impresionează prin arhitectura sa și prin locația pitorească.",
+                  "category": "historical",
+                  "coords": [
+                        11.353544,
+                        55.386847
+                  ]
+            },
+            {
+                  "name": "Strandvejsmøllen",
+                  "text": "Strandvejsmøllen este o moară de vânt istorică în regiunea Slagelse. Servește drept un frumos subiect fotografic și mărturie a tradiției locale de construcție.",
+                  "category": "landmark",
+                  "coords": [
+                        11.335626,
+                        55.399311
+                  ]
+            },
+            {
+                  "name": "Antvorskov Kirke",
+                  "text": "Antvorskov Kirke este un lăcaș de cult istoric în Slagelse. Aceasta invită vizitatorii să descopere semnificația religioasă și istoria locală.",
+                  "category": "religious",
+                  "coords": [
+                        11.347464,
+                        55.387914
+                  ]
+            },
+            {
+                  "name": "Sankt Peders Kirke",
+                  "text": "Sankt Peders Kirke din Slagelse este o biserică impresionantă cu o istorie îndelungată. Vizitatorii îi apreciază designul arhitectural în timpul unui tur al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        11.349518,
+                        55.401939
+                  ]
+            },
+            {
+                  "name": "Sankt Mikkels Kirke",
+                  "text": "Sankt Mikkels Kirke este un punct de reper religios important în Slagelse. Merită vizitată pentru a-i admira arhitectura istorică.",
+                  "category": "religious",
+                  "coords": [
+                        11.354527,
+                        55.403509
+                  ]
+            },
+            {
+                  "name": "Nørrevangskirken",
+                  "text": "Nørrevangskirken din Slagelse este un lăcaș de cult modern și primitor. Oferă un loc liniștit pentru vizite și reculegere religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        11.364387,
+                        55.417814
+                  ]
+            },
+            {
+                  "name": "Helligåndskirken",
+                  "text": "Helligåndskirken din Slagelse este o biserică semnificativă cu farmec istoric. Vizitatorii pot descoperi aici tradiția religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        11.352634,
+                        55.401696
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Vor Frue Kirke este un lăcaș de cult istoric frumos în Slagelse. Este o parte importantă a patrimoniului cultural al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        11.351773,
+                        55.404685
+                  ]
             }
       ],
       "en": [
@@ -1206,6 +1611,141 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         11.361237,
                         55.402114
+                  ]
+            },
+            {
+                  "name": "Slagelse Teater",
+                  "text": "The Slagelse Teater is a cultural meeting point in the city. It offers a varied program for both residents and visitors.",
+                  "category": "cultural",
+                  "coords": [
+                        11.348253,
+                        55.403602
+                  ]
+            },
+            {
+                  "name": "Krabasken",
+                  "text": "Krabasken is a well-known theater in Slagelse. It is a central hub for local acting and artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.350778,
+                        55.401406
+                  ]
+            },
+            {
+                  "name": "Legejunglen Slagelse",
+                  "text": "Legejunglen Slagelse is a popular theme park for families. Here, children can play in a safe environment and experience new adventures.",
+                  "category": "recreational",
+                  "coords": [
+                        11.359137,
+                        55.387616
+                  ]
+            },
+            {
+                  "name": "Dansk Forsorgshistorisk Museum",
+                  "text": "The Dansk Forsorgshistorisk Museum in Slagelse highlights social aspects of the past. It is an educational place for visitors interested in cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        11.364632,
+                        55.421309
+                  ]
+            },
+            {
+                  "name": "Slagelse Musikhus",
+                  "text": "The Slagelse Musikhus is a central venue for concerts. Guests enjoy a wide selection of musical performances here.",
+                  "category": "cultural",
+                  "coords": [
+                        11.352633,
+                        55.406405
+                  ]
+            },
+            {
+                  "name": "Antvorskov Kloster",
+                  "text": "Antvorskov Kloster is a significant ruin site near Slagelse. Visitors can explore the historical remains of this once-important complex here.",
+                  "category": "historical",
+                  "coords": [
+                        11.362391,
+                        55.390926
+                  ]
+            },
+            {
+                  "name": "Korsbjerg",
+                  "text": "Korsbjerg offers a fantastic panoramic view over the surroundings of Slagelse. It is a popular viewpoint for nature lovers and photographers.",
+                  "category": "natural",
+                  "coords": [
+                        11.371448,
+                        55.387446
+                  ]
+            },
+            {
+                  "name": "Idagaard",
+                  "text": "Idagaard is a historical manor near Slagelse. It impresses with its architecture and its scenic location.",
+                  "category": "historical",
+                  "coords": [
+                        11.353544,
+                        55.386847
+                  ]
+            },
+            {
+                  "name": "Strandvejsmøllen",
+                  "text": "Strandvejsmøllen is a historical windmill in the Slagelse region. It serves as a beautiful photo opportunity and a testament to local building tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        11.335626,
+                        55.399311
+                  ]
+            },
+            {
+                  "name": "Antvorskov Kirke",
+                  "text": "Antvorskov Kirke is a historically rich place of worship in Slagelse. It invites visitors to learn about its religious significance and local history.",
+                  "category": "religious",
+                  "coords": [
+                        11.347464,
+                        55.387914
+                  ]
+            },
+            {
+                  "name": "Sankt Peders Kirke",
+                  "text": "The Sankt Peders Kirke in Slagelse is an impressive church with a long history. Visitors appreciate its architectural design during a city walk.",
+                  "category": "religious",
+                  "coords": [
+                        11.349518,
+                        55.401939
+                  ]
+            },
+            {
+                  "name": "Sankt Mikkels Kirke",
+                  "text": "The Sankt Mikkels Kirke is a significant religious landmark of Slagelse. It is worth a visit to admire its historical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        11.354527,
+                        55.403509
+                  ]
+            },
+            {
+                  "name": "Nørrevangskirken",
+                  "text": "The Nørrevangskirken in Slagelse is a modern and welcoming place of worship. It provides a quiet place for visits and religious reflection.",
+                  "category": "religious",
+                  "coords": [
+                        11.364387,
+                        55.417814
+                  ]
+            },
+            {
+                  "name": "Helligåndskirken",
+                  "text": "The Helligåndskirken in Slagelse is a significant church with historical charm. Visitors can discover the religious tradition of the city here.",
+                  "category": "religious",
+                  "coords": [
+                        11.352634,
+                        55.401696
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "The Vor Frue Kirke is a beautiful, historical place of worship in Slagelse. It is an important part of the city's cultural heritage.",
+                  "category": "religious",
+                  "coords": [
+                        11.351773,
+                        55.404685
                   ]
             }
       ]
@@ -8266,6 +8806,87 @@ export const denmarkCitiesV2: POI[] = [
                         10.121979,
                         55.976607
                   ]
+            },
+            {
+                  "name": "Aue'høj",
+                  "text": "Aue'høj ist eine bedeutende archäologische Stätte bei Odder. Sie bietet Einblicke in die frühe Geschichte der Region für interessierte Besucher.",
+                  "category": "historical",
+                  "coords": [
+                        10.158442,
+                        55.993452
+                  ]
+            },
+            {
+                  "name": "Odder Museum",
+                  "text": "Das Odder Museum zeigt die reiche Lokalgeschichte der Gegend. Es ist ein idealer Ort, um mehr über die Kultur und das Leben in Odder zu erfahren.",
+                  "category": "museum",
+                  "coords": [
+                        10.138785,
+                        55.970415
+                  ]
+            },
+            {
+                  "name": "Troldhøj",
+                  "text": "Troldhøj ist eine faszinierende archäologische Stätte in der Nähe von Odder. Sie ist ein spannendes Ziel für alle, die sich für Geschichte interessieren.",
+                  "category": "historical",
+                  "coords": [
+                        10.103622,
+                        55.972007
+                  ]
+            },
+            {
+                  "name": "Rodsteenseje",
+                  "text": "Rodsteenseje ist ein beeindruckendes Herrenhaus bei Odder. Es zeichnet sich durch seine Architektur und seine Bedeutung in der lokalen Geschichte aus.",
+                  "category": "historical",
+                  "coords": [
+                        10.16256,
+                        55.959769
+                  ]
+            },
+            {
+                  "name": "Bjørnegrotten",
+                  "text": "Bjørnegrotten ist eine faszinierende Ruinenstätte in der Nähe von Odder. Sie lädt Entdecker ein, die verborgenen Spuren der Vergangenheit zu erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        10.122122,
+                        55.965805
+                  ]
+            },
+            {
+                  "name": "Skægs Mølle",
+                  "text": "Skægs Mølle sind die Ruinen einer historischen Mühle bei Odder. Sie bieten ein interessantes Ziel für einen historischen Ausflug in die Natur.",
+                  "category": "historical",
+                  "coords": [
+                        10.129634,
+                        55.966684
+                  ]
+            },
+            {
+                  "name": "Plant et træ - Undervisningsskove",
+                  "text": "Plant et træ - Undervisningsskove bei Odder bietet ein lehrreiches Naturerlebnis. Besucher können hier die Bedeutung von Wäldern entdecken und genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.174572,
+                        55.977413
+                  ]
+            },
+            {
+                  "name": "Odder Kirke",
+                  "text": "Die Odder Kirke ist ein schönes und geschichtsträchtiges Gotteshaus. Sie ist ein fester Bestandteil der Gemeinde und einen Besuch wert.",
+                  "category": "religious",
+                  "coords": [
+                        10.15247,
+                        55.973003
+                  ]
+            },
+            {
+                  "name": "Odder Valgmenighedskirke",
+                  "text": "Die Odder Valgmenighedskirke ist ein einladendes religiöses Zentrum in Odder. Sie ist ein Ort der Gemeinschaft und der spirituellen Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        10.159155,
+                        55.974108
+                  ]
             }
       ],
       "hu": [
@@ -8285,6 +8906,87 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         10.121979,
                         55.976607
+                  ]
+            },
+            {
+                  "name": "Aue'høj",
+                  "text": "Az Aue'høj egy jelentős régészeti lelőhely Odder közelében. Érdekes betekintést nyújt a régió korai történelmébe az érdeklődő látogatók számára.",
+                  "category": "historical",
+                  "coords": [
+                        10.158442,
+                        55.993452
+                  ]
+            },
+            {
+                  "name": "Odder Museum",
+                  "text": "Az Odder Múzeum bemutatja a környék gazdag helytörténetét. Ideális hely arra, hogy többet tudjunk meg Odder kultúrájáról és életéről.",
+                  "category": "museum",
+                  "coords": [
+                        10.138785,
+                        55.970415
+                  ]
+            },
+            {
+                  "name": "Troldhøj",
+                  "text": "A Troldhøj egy lenyűgöző régészeti lelőhely Odder közelében. Izgalmas célpont mindazok számára, akiket érdekel a történelem.",
+                  "category": "historical",
+                  "coords": [
+                        10.103622,
+                        55.972007
+                  ]
+            },
+            {
+                  "name": "Rodsteenseje",
+                  "text": "A Rodsteenseje egy lenyűgöző kúria Odder közelében. Építészete és a helytörténetben betöltött szerepe révén tűnik ki.",
+                  "category": "historical",
+                  "coords": [
+                        10.16256,
+                        55.959769
+                  ]
+            },
+            {
+                  "name": "Bjørnegrotten",
+                  "text": "A Bjørnegrotten egy lenyűgöző romterület Odder közelében. Felfedezésre hívja azokat, akik szeretnék megismerni a múlt rejtett nyomait.",
+                  "category": "historical",
+                  "coords": [
+                        10.122122,
+                        55.965805
+                  ]
+            },
+            {
+                  "name": "Skægs Mølle",
+                  "text": "A Skægs Mølle egy történelmi malom romjai Odder közelében. Érdekes célpont egy történelmi természetjáráshoz.",
+                  "category": "historical",
+                  "coords": [
+                        10.129634,
+                        55.966684
+                  ]
+            },
+            {
+                  "name": "Plant et træ - Undervisningsskove",
+                  "text": "A Plant et træ - Undervisningsskove Odder közelében tanulságos természeti élményt kínál. A látogatók felfedezhetik és élvezhetik az erdők jelentőségét.",
+                  "category": "landmark",
+                  "coords": [
+                        10.174572,
+                        55.977413
+                  ]
+            },
+            {
+                  "name": "Odder Kirke",
+                  "text": "Az Odder Kirke egy gyönyörű és történelmi jelentőségű imaház. A közösség szerves része, érdemes meglátogatni.",
+                  "category": "religious",
+                  "coords": [
+                        10.15247,
+                        55.973003
+                  ]
+            },
+            {
+                  "name": "Odder Valgmenighedskirke",
+                  "text": "Az Odder Valgmenighedskirke egy hívogató vallási központ Odderben. A közösség és a lelki elmélyülés helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        10.159155,
+                        55.974108
                   ]
             }
       ],
@@ -8306,6 +9008,87 @@ export const denmarkCitiesV2: POI[] = [
                         10.121979,
                         55.976607
                   ]
+            },
+            {
+                  "name": "Aue'høj",
+                  "text": "Aue'høj este un sit arheologic semnificativ lângă Odder. Acesta oferă vizitatorilor interesați o privire asupra istoriei timpurii a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        10.158442,
+                        55.993452
+                  ]
+            },
+            {
+                  "name": "Odder Museum",
+                  "text": "Muzeul Odder prezintă istoria locală bogată a zonei. Este un loc ideal pentru a afla mai multe despre cultura și viața din Odder.",
+                  "category": "museum",
+                  "coords": [
+                        10.138785,
+                        55.970415
+                  ]
+            },
+            {
+                  "name": "Troldhøj",
+                  "text": "Troldhøj este un sit arheologic fascinant în apropiere de Odder. Este o destinație interesantă pentru toți cei pasionați de istorie.",
+                  "category": "historical",
+                  "coords": [
+                        10.103622,
+                        55.972007
+                  ]
+            },
+            {
+                  "name": "Rodsteenseje",
+                  "text": "Rodsteenseje este un conac impresionant lângă Odder. Se remarcă prin arhitectura sa și prin semnificația sa în istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        10.16256,
+                        55.959769
+                  ]
+            },
+            {
+                  "name": "Bjørnegrotten",
+                  "text": "Bjørnegrotten este un sit de ruine fascinant în apropiere de Odder. Acesta invită exploratorii să descopere urmele ascunse ale trecutului.",
+                  "category": "historical",
+                  "coords": [
+                        10.122122,
+                        55.965805
+                  ]
+            },
+            {
+                  "name": "Skægs Mølle",
+                  "text": "Skægs Mølle sunt ruinele unei mori istorice lângă Odder. Oferă o destinație interesantă pentru o excursie istorică în natură.",
+                  "category": "historical",
+                  "coords": [
+                        10.129634,
+                        55.966684
+                  ]
+            },
+            {
+                  "name": "Plant et træ - Undervisningsskove",
+                  "text": "Plant et træ - Undervisningsskove de lângă Odder oferă o experiență naturală educativă. Vizitatorii pot descoperi și se pot bucura de importanța pădurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        10.174572,
+                        55.977413
+                  ]
+            },
+            {
+                  "name": "Odder Kirke",
+                  "text": "Odder Kirke este un lăcaș de cult frumos și plin de istorie. Este o parte integrantă a comunității și merită vizitată.",
+                  "category": "religious",
+                  "coords": [
+                        10.15247,
+                        55.973003
+                  ]
+            },
+            {
+                  "name": "Odder Valgmenighedskirke",
+                  "text": "Odder Valgmenighedskirke este un centru religios primitor în Odder. Este un loc de comunitate și reculegere spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        10.159155,
+                        55.974108
+                  ]
             }
       ],
       "en": [
@@ -8325,6 +9108,87 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         10.121979,
                         55.976607
+                  ]
+            },
+            {
+                  "name": "Aue'høj",
+                  "text": "Aue'høj is a significant archaeological site near Odder. It offers insights into the early history of the region for interested visitors.",
+                  "category": "historical",
+                  "coords": [
+                        10.158442,
+                        55.993452
+                  ]
+            },
+            {
+                  "name": "Odder Museum",
+                  "text": "The Odder Museum showcases the rich local history of the area. It is an ideal place to learn more about the culture and life in Odder.",
+                  "category": "museum",
+                  "coords": [
+                        10.138785,
+                        55.970415
+                  ]
+            },
+            {
+                  "name": "Troldhøj",
+                  "text": "Troldhøj is a fascinating archaeological site near Odder. It is an exciting destination for everyone interested in history.",
+                  "category": "historical",
+                  "coords": [
+                        10.103622,
+                        55.972007
+                  ]
+            },
+            {
+                  "name": "Rodsteenseje",
+                  "text": "Rodsteenseje is an impressive manor near Odder. It is distinguished by its architecture and its significance in local history.",
+                  "category": "historical",
+                  "coords": [
+                        10.16256,
+                        55.959769
+                  ]
+            },
+            {
+                  "name": "Bjørnegrotten",
+                  "text": "Bjørnegrotten is a fascinating ruin site near Odder. It invites explorers to discover the hidden traces of the past.",
+                  "category": "historical",
+                  "coords": [
+                        10.122122,
+                        55.965805
+                  ]
+            },
+            {
+                  "name": "Skægs Mølle",
+                  "text": "Skægs Mølle are the ruins of a historical mill near Odder. They offer an interesting destination for a historical excursion into nature.",
+                  "category": "historical",
+                  "coords": [
+                        10.129634,
+                        55.966684
+                  ]
+            },
+            {
+                  "name": "Plant et træ - Undervisningsskove",
+                  "text": "Plant et træ - Undervisningsskove near Odder offers an educational nature experience. Visitors can discover and enjoy the importance of forests here.",
+                  "category": "landmark",
+                  "coords": [
+                        10.174572,
+                        55.977413
+                  ]
+            },
+            {
+                  "name": "Odder Kirke",
+                  "text": "The Odder Kirke is a beautiful and historically rich place of worship. It is an integral part of the community and worth a visit.",
+                  "category": "religious",
+                  "coords": [
+                        10.15247,
+                        55.973003
+                  ]
+            },
+            {
+                  "name": "Odder Valgmenighedskirke",
+                  "text": "The Odder Valgmenighedskirke is a welcoming religious center in Odder. It is a place of community and spiritual reflection.",
+                  "category": "religious",
+                  "coords": [
+                        10.159155,
+                        55.974108
                   ]
             }
       ]
@@ -9003,7 +9867,628 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-greve-cities-v2.webp",
   },
   {
-    id: "denmark-ishøj-cities-v2", "sights": {"de": [{"name": "Hundige Strand - Ishøj Strand", "text": "Der Hundige Strand - Ishøj Strand erstreckt sich über einen großzügigen Küstenabschnitt bei Ishøj in Dänemark. Die weiten Sandflächen sorgen für eine offene, dynamische Atmosphäre, die im Sommer sehr geschätzt wird. Besucher können hier ausgiebig schwimmen, Sandburgen bauen oder zu einer langen Wanderung an der Küste aufbrechen. Wer unter der Woche anreist, erlebt oft eine privatere und ruhigere Zeit als an den stark besuchten Wochenenden.", "category": "recreational", "coords": [12.384864, 55.602346]}, {"name": "Hundige Hundestrand", "text": "Hundige Hundestrand ist ein Strandabschnitt bei Ishøj.", "category": "recreational", "coords": [12.357027, 55.592145]}, {"name": "Svanesøen", "text": "Der Svanesøen ist ein See in Ishoj, der eine ruhige Umgebung für Spaziergänge bietet.", "category": "natural", "coords": [12.335947, 55.673809]}, {"name": "Mosede Sø", "text": "Der Mosede Sø ist ein See in Ishoj, der zu Ausflügen in die Natur einlädt.", "category": "natural", "coords": [12.273615, 55.577001]}, {"name": "Mudilles Sø", "text": "Der Mudilles Sø ist ein See in Ishoj, der eine schöne Kulisse für Erholung im Freien bietet.", "category": "natural", "coords": [12.399396, 55.656852]}, {"name": "Selsmose Sø", "text": "Der Selsmose Sø ist ein See in Ishoj, der sich für entspannte Stunden am Wasser eignet.", "category": "natural", "coords": [12.298466, 55.654179]}, {"name": "grønnegården legeplads", "text": "Die grønnegården legeplads ist ein Spielplatz in Ishoj, der Kindern viel Platz zum Spielen bietet.", "category": "family", "coords": [12.341995, 55.599159]}, {"name": "legeplads i grønnegården", "text": "Die legeplads i grønnegården ist ein Spielplatz in Ishoj, der ein tolles Ausflugsziel für Familien ist.", "category": "family", "coords": [12.340092, 55.598248]}, {"name": "Dinos Legeland", "text": "Dinos Legeland in Ishoj ist ein Paradies für Kinder mit vielen Spielmöglichkeiten.", "category": "family", "coords": [12.335118, 55.618083]}, {"name": "Airtrix Ishøj", "text": "Airtrix Ishøj bietet actionreichen Spielspaß und Bewegung für Kinder in Ishoj.", "category": "family", "coords": [12.337774, 55.619917]}, {"name": "Valhal Havnebad", "text": "Das Valhal Havnebad in Ishoj lädt zu einer Erfrischung im kühlen Nass ein.", "category": "family", "coords": [12.399955, 55.610296]}], "hu": [{"name": "Hundige Strand - Ishøj Strand", "text": "A Hundige Strand - Ishøj Strand egy tágas tengerparti szakaszt ölel fel a dániai Ishoj közelében. A széles homokos területek nyitott, dinamikus légkört teremtenek, amely nagyon népszerű a nyár folyamán. A látogatók aktívan úszhatnak, homokvárat építhetnek, vagy egy hosszú sétát tehetnek a part mentén. A hétköznapokon történő látogatás gyakran privátabb élményt nyújt a forgalmas hétvégékhez képest.", "category": "recreational", "coords": [12.384864, 55.602346]}, {"name": "Hundige Hundestrand", "text": "Hundige Hundestrand egy strandszakasz Ishøj közelében.", "category": "recreational", "coords": [12.357027, 55.592145]}, {"name": "Svanesøen", "text": "A Svanesøen egy tó Ishoj városában, amely nyugodt környezetet biztosít a sétákhoz.", "category": "natural", "coords": [12.335947, 55.673809]}, {"name": "Mosede Sø", "text": "A Mosede Sø egy tó Ishoj városában, amely természeti kirándulásokra hív.", "category": "natural", "coords": [12.273615, 55.577001]}, {"name": "Mudilles Sø", "text": "A Mudilles Sø egy tó Ishoj városában, amely szép környezetet biztosít a szabadtéri pihenéshez.", "category": "natural", "coords": [12.399396, 55.656852]}, {"name": "Selsmose Sø", "text": "A Selsmose Sø egy tó Ishoj városában, amely alkalmas a vízparti kikapcsolódásra.", "category": "natural", "coords": [12.298466, 55.654179]}, {"name": "grønnegården legeplads", "text": "A grønnegården legeplads egy játszótér Ishoj városában, amely tágas teret biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [12.341995, 55.599159]}, {"name": "legeplads i grønnegården", "text": "A legeplads i grønnegården egy játszótér Ishoj városában, amely remek úti cél a családok számára.", "category": "family", "coords": [12.340092, 55.598248]}, {"name": "Dinos Legeland", "text": "Az Ishoj városában található Dinos Legeland a gyerekek paradicsoma számos játéklehetőséggel.", "category": "family", "coords": [12.335118, 55.618083]}, {"name": "Airtrix Ishøj", "text": "Az Airtrix Ishøj mozgalmas szórakozást és játéklehetőséget kínál a gyerekeknek Ishoj városában.", "category": "family", "coords": [12.337774, 55.619917]}, {"name": "Valhal Havnebad", "text": "Az Ishoj városában található Valhal Havnebad hűsítő csobbanásra hívja a látogatókat.", "category": "family", "coords": [12.399955, 55.610296]}], "ro": [{"name": "Hundige Strand - Ishøj Strand", "text": "Hundige Strand - Ishøj Strand cuprinde o secțiune de coastă generoasă lângă Ishoj, în Danemarca. Întinderile largi de nisip creează o atmosferă deschisă și dinamică, care este foarte populară în timpul verii. Vizitatorii se pot bucura de un înot activ, pot construi castele de nisip sau pot face o drumeție lungă de-a lungul coastei. O vizită în timpul săptămânii oferă adesea o experiență mai intimă în comparație cu weekendurile aglomerate.", "category": "recreational", "coords": [12.384864, 55.602346]}, {"name": "Hundige Hundestrand", "text": "Hundige Hundestrand este o secțiune de plajă lângă Ishøj.", "category": "recreational", "coords": [12.357027, 55.592145]}, {"name": "Svanesøen", "text": "Svanesøen este un lac în Ishoj, oferind un mediu liniștit pentru plimbări.", "category": "natural", "coords": [12.335947, 55.673809]}, {"name": "Mosede Sø", "text": "Mosede Sø este un lac în Ishoj, invitând la excursii în natură.", "category": "natural", "coords": [12.273615, 55.577001]}, {"name": "Mudilles Sø", "text": "Mudilles Sø este un lac în Ishoj, oferind un cadru frumos pentru relaxare în aer liber.", "category": "natural", "coords": [12.399396, 55.656852]}, {"name": "Selsmose Sø", "text": "Selsmose Sø este un lac în Ishoj, potrivit pentru ore de relaxare pe malul apei.", "category": "natural", "coords": [12.298466, 55.654179]}, {"name": "grønnegården legeplads", "text": "grønnegården legeplads este un teren de joacă în Ishoj, oferind copiilor mult spațiu pentru joacă.", "category": "family", "coords": [12.341995, 55.599159]}, {"name": "legeplads i grønnegården", "text": "legeplads i grønnegården este un teren de joacă în Ishoj, fiind o destinație excelentă pentru familii.", "category": "family", "coords": [12.340092, 55.598248]}, {"name": "Dinos Legeland", "text": "Dinos Legeland din Ishoj este un paradis pentru copii, cu numeroase posibilități de joacă.", "category": "family", "coords": [12.335118, 55.618083]}, {"name": "Airtrix Ishøj", "text": "Airtrix Ishøj oferă distracție plină de acțiune și mișcare pentru copii în Ishoj.", "category": "family", "coords": [12.337774, 55.619917]}, {"name": "Valhal Havnebad", "text": "Baia publică Valhal Havnebad din Ishoj invită la o reîmprospătare în apa răcoroasă.", "category": "family", "coords": [12.399955, 55.610296]}], "en": [{"name": "Hundige Strand - Ishøj Strand", "text": "Hundige Strand - Ishøj Strand spans a generous coastal section near Ishoj in Denmark. The wide sandy expanses create an open, dynamic atmosphere that is very popular during the summer. Visitors can engage in active swimming, build sandcastles, or take a long hike along the coastline. Visiting during the weekdays often provides a more private experience compared to the busy weekends.", "category": "recreational", "coords": [12.384864, 55.602346]}, {"name": "Hundige Hundestrand", "text": "Hundige Hundestrand is a beach section near Ishøj.", "category": "recreational", "coords": [12.357027, 55.592145]}, {"name": "Svanesøen", "text": "Svanesøen is a lake in Ishoj, offering a peaceful environment for walks.", "category": "natural", "coords": [12.335947, 55.673809]}, {"name": "Mosede Sø", "text": "Mosede Sø is a lake in Ishoj, inviting for nature outings.", "category": "natural", "coords": [12.273615, 55.577001]}, {"name": "Mudilles Sø", "text": "Mudilles Sø is a lake in Ishoj, providing a nice setting for outdoor recreation.", "category": "natural", "coords": [12.399396, 55.656852]}, {"name": "Selsmose Sø", "text": "Selsmose Sø is a lake in Ishoj, suitable for relaxing hours by the water.", "category": "natural", "coords": [12.298466, 55.654179]}, {"name": "grønnegården legeplads", "text": "grønnegården legeplads is a playground in Ishoj, offering children plenty of space to play.", "category": "family", "coords": [12.341995, 55.599159]}, {"name": "legeplads i grønnegården", "text": "legeplads i grønnegården is a playground in Ishoj, making it a great destination for families.", "category": "family", "coords": [12.340092, 55.598248]}, {"name": "Dinos Legeland", "text": "Dinos Legeland in Ishoj is a paradise for children with many play opportunities.", "category": "family", "coords": [12.335118, 55.618083]}, {"name": "Airtrix Ishøj", "text": "Airtrix Ishøj offers action-packed fun and movement for children in Ishoj.", "category": "family", "coords": [12.337774, 55.619917]}, {"name": "Valhal Havnebad", "text": "Valhal Havnebad in Ishoj invites visitors for a refreshing dip in the water.", "category": "family", "coords": [12.399955, 55.610296]}]},
+    id: "denmark-ishøj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hundige Strand - Ishøj Strand",
+                  "text": "Der Hundige Strand - Ishøj Strand erstreckt sich über einen großzügigen Küstenabschnitt bei Ishøj in Dänemark. Die weiten Sandflächen sorgen für eine offene, dynamische Atmosphäre, die im Sommer sehr geschätzt wird. Besucher können hier ausgiebig schwimmen, Sandburgen bauen oder zu einer langen Wanderung an der Küste aufbrechen. Wer unter der Woche anreist, erlebt oft eine privatere und ruhigere Zeit als an den stark besuchten Wochenenden.",
+                  "category": "recreational",
+                  "coords": [
+                        12.384864,
+                        55.602346
+                  ]
+            },
+            {
+                  "name": "Hundige Hundestrand",
+                  "text": "Hundige Hundestrand ist ein Strandabschnitt bei Ishøj.",
+                  "category": "recreational",
+                  "coords": [
+                        12.357027,
+                        55.592145
+                  ]
+            },
+            {
+                  "name": "Svanesøen",
+                  "text": "Der Svanesøen ist ein See in Ishoj, der eine ruhige Umgebung für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.335947,
+                        55.673809
+                  ]
+            },
+            {
+                  "name": "Mosede Sø",
+                  "text": "Der Mosede Sø ist ein See in Ishoj, der zu Ausflügen in die Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.273615,
+                        55.577001
+                  ]
+            },
+            {
+                  "name": "Mudilles Sø",
+                  "text": "Der Mudilles Sø ist ein See in Ishoj, der eine schöne Kulisse für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.399396,
+                        55.656852
+                  ]
+            },
+            {
+                  "name": "Selsmose Sø",
+                  "text": "Der Selsmose Sø ist ein See in Ishoj, der sich für entspannte Stunden am Wasser eignet.",
+                  "category": "natural",
+                  "coords": [
+                        12.298466,
+                        55.654179
+                  ]
+            },
+            {
+                  "name": "grønnegården legeplads",
+                  "text": "Die grønnegården legeplads ist ein Spielplatz in Ishoj, der Kindern viel Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.341995,
+                        55.599159
+                  ]
+            },
+            {
+                  "name": "legeplads i grønnegården",
+                  "text": "Die legeplads i grønnegården ist ein Spielplatz in Ishoj, der ein tolles Ausflugsziel für Familien ist.",
+                  "category": "family",
+                  "coords": [
+                        12.340092,
+                        55.598248
+                  ]
+            },
+            {
+                  "name": "Dinos Legeland",
+                  "text": "Dinos Legeland in Ishoj ist ein Paradies für Kinder mit vielen Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        12.335118,
+                        55.618083
+                  ]
+            },
+            {
+                  "name": "Airtrix Ishøj",
+                  "text": "Airtrix Ishøj bietet actionreichen Spielspaß und Bewegung für Kinder in Ishoj.",
+                  "category": "family",
+                  "coords": [
+                        12.337774,
+                        55.619917
+                  ]
+            },
+            {
+                  "name": "Valhal Havnebad",
+                  "text": "Das Valhal Havnebad in Ishoj lädt zu einer Erfrischung im kühlen Nass ein.",
+                  "category": "family",
+                  "coords": [
+                        12.399955,
+                        55.610296
+                  ]
+            },
+            {
+                  "name": "Arken",
+                  "text": "Das Arken Museum für Moderne Kunst in Ishoj ist bekannt für seine zeitgenössischen Ausstellungen. Die markante Architektur des Gebäudes erinnert an ein gestrandetes Schiff.",
+                  "category": "museum",
+                  "coords": [
+                        12.387507,
+                        55.606223
+                  ]
+            },
+            {
+                  "name": "Olsbæk Strand",
+                  "text": "Der Olsbæk Strand in Ishoj ist ein idealer Ort für Erholung und Wassersport an der dänischen Küste. Er lädt zum Entspannen im Sand und zu langen Spaziergängen am Meer ein.",
+                  "category": "recreational",
+                  "coords": [
+                        12.332776,
+                        55.585906
+                  ]
+            },
+            {
+                  "name": "Portalen, Greve Teater- & Musikhus",
+                  "text": "Das Portalen, Greve Teater- & Musikhus in Ishoj ist ein wichtiges kulturelles Zentrum für darstellende Künste. Es bietet ein abwechslungsreiches Programm an Theateraufführungen und Musikveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.332363,
+                        55.598246
+                  ]
+            },
+            {
+                  "name": "DIAS Kunsthal",
+                  "text": "Das DIAS Kunsthal in Ishoj bietet faszinierende Einblicke in Kunst und Kultur. Besucher können hier vielfältige Exponate in einer inspirierenden Umgebung entdecken.",
+                  "category": "museum",
+                  "coords": [
+                        12.386875,
+                        55.624106
+                  ]
+            },
+            {
+                  "name": "Hundige Kirke",
+                  "text": "Die Hundige Kirke ist ein markantes religiöses Bauwerk in Ishoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.318186,
+                        55.594476
+                  ]
+            },
+            {
+                  "name": "Vejleå Kirke",
+                  "text": "Die Vejleå Kirke ist ein markantes religiöses Bauwerk in Ishoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.352018,
+                        55.615414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hundige Strand - Ishøj Strand",
+                  "text": "A Hundige Strand - Ishøj Strand egy tágas tengerparti szakaszt ölel fel a dániai Ishoj közelében. A széles homokos területek nyitott, dinamikus légkört teremtenek, amely nagyon népszerű a nyár folyamán. A látogatók aktívan úszhatnak, homokvárat építhetnek, vagy egy hosszú sétát tehetnek a part mentén. A hétköznapokon történő látogatás gyakran privátabb élményt nyújt a forgalmas hétvégékhez képest.",
+                  "category": "recreational",
+                  "coords": [
+                        12.384864,
+                        55.602346
+                  ]
+            },
+            {
+                  "name": "Hundige Hundestrand",
+                  "text": "Hundige Hundestrand egy strandszakasz Ishøj közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.357027,
+                        55.592145
+                  ]
+            },
+            {
+                  "name": "Svanesøen",
+                  "text": "A Svanesøen egy tó Ishoj városában, amely nyugodt környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        12.335947,
+                        55.673809
+                  ]
+            },
+            {
+                  "name": "Mosede Sø",
+                  "text": "A Mosede Sø egy tó Ishoj városában, amely természeti kirándulásokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        12.273615,
+                        55.577001
+                  ]
+            },
+            {
+                  "name": "Mudilles Sø",
+                  "text": "A Mudilles Sø egy tó Ishoj városában, amely szép környezetet biztosít a szabadtéri pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        12.399396,
+                        55.656852
+                  ]
+            },
+            {
+                  "name": "Selsmose Sø",
+                  "text": "A Selsmose Sø egy tó Ishoj városában, amely alkalmas a vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        12.298466,
+                        55.654179
+                  ]
+            },
+            {
+                  "name": "grønnegården legeplads",
+                  "text": "A grønnegården legeplads egy játszótér Ishoj városában, amely tágas teret biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        12.341995,
+                        55.599159
+                  ]
+            },
+            {
+                  "name": "legeplads i grønnegården",
+                  "text": "A legeplads i grønnegården egy játszótér Ishoj városában, amely remek úti cél a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        12.340092,
+                        55.598248
+                  ]
+            },
+            {
+                  "name": "Dinos Legeland",
+                  "text": "Az Ishoj városában található Dinos Legeland a gyerekek paradicsoma számos játéklehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        12.335118,
+                        55.618083
+                  ]
+            },
+            {
+                  "name": "Airtrix Ishøj",
+                  "text": "Az Airtrix Ishøj mozgalmas szórakozást és játéklehetőséget kínál a gyerekeknek Ishoj városában.",
+                  "category": "family",
+                  "coords": [
+                        12.337774,
+                        55.619917
+                  ]
+            },
+            {
+                  "name": "Valhal Havnebad",
+                  "text": "Az Ishoj városában található Valhal Havnebad hűsítő csobbanásra hívja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        12.399955,
+                        55.610296
+                  ]
+            },
+            {
+                  "name": "Arken",
+                  "text": "A Ishoj városában található Arken Modern Művészeti Múzeum kortárs kiállításairól ismert. Az épület különleges építészete egy zátonyra futott hajóra emlékeztet.",
+                  "category": "museum",
+                  "coords": [
+                        12.387507,
+                        55.606223
+                  ]
+            },
+            {
+                  "name": "Olsbæk Strand",
+                  "text": "A(z) Olsbæk Strand Ishoj városában ideális hely a kikapcsolódásra és a vízi sportokra a dán tengerparton. Homokos partja pihenésre, a tengerpart pedig hosszú sétákra hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        12.332776,
+                        55.585906
+                  ]
+            },
+            {
+                  "name": "Portalen, Greve Teater- & Musikhus",
+                  "text": "A Ishoj városában található Portalen, Greve Teater- & Musikhus az előadó-művészetek fontos kulturális központja. Változatos színházi előadásokat és zenei rendezvényeket kínál a közönségnek.",
+                  "category": "cultural",
+                  "coords": [
+                        12.332363,
+                        55.598246
+                  ]
+            },
+            {
+                  "name": "DIAS Kunsthal",
+                  "text": "A Ishoj városában található DIAS Kunsthal lenyűgöző betekintést nyújt a művészetbe és a kultúrába. A látogatók változatos kiállítási tárgyakat fedezhetnek fel inspiráló környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        12.386875,
+                        55.624106
+                  ]
+            },
+            {
+                  "name": "Hundige Kirke",
+                  "text": "A(z) Hundige Kirke egy jellegzetes vallási épület Ishoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.318186,
+                        55.594476
+                  ]
+            },
+            {
+                  "name": "Vejleå Kirke",
+                  "text": "A(z) Vejleå Kirke egy jellegzetes vallási épület Ishoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.352018,
+                        55.615414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hundige Strand - Ishøj Strand",
+                  "text": "Hundige Strand - Ishøj Strand cuprinde o secțiune de coastă generoasă lângă Ishoj, în Danemarca. Întinderile largi de nisip creează o atmosferă deschisă și dinamică, care este foarte populară în timpul verii. Vizitatorii se pot bucura de un înot activ, pot construi castele de nisip sau pot face o drumeție lungă de-a lungul coastei. O vizită în timpul săptămânii oferă adesea o experiență mai intimă în comparație cu weekendurile aglomerate.",
+                  "category": "recreational",
+                  "coords": [
+                        12.384864,
+                        55.602346
+                  ]
+            },
+            {
+                  "name": "Hundige Hundestrand",
+                  "text": "Hundige Hundestrand este o secțiune de plajă lângă Ishøj.",
+                  "category": "recreational",
+                  "coords": [
+                        12.357027,
+                        55.592145
+                  ]
+            },
+            {
+                  "name": "Svanesøen",
+                  "text": "Svanesøen este un lac în Ishoj, oferind un mediu liniștit pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        12.335947,
+                        55.673809
+                  ]
+            },
+            {
+                  "name": "Mosede Sø",
+                  "text": "Mosede Sø este un lac în Ishoj, invitând la excursii în natură.",
+                  "category": "natural",
+                  "coords": [
+                        12.273615,
+                        55.577001
+                  ]
+            },
+            {
+                  "name": "Mudilles Sø",
+                  "text": "Mudilles Sø este un lac în Ishoj, oferind un cadru frumos pentru relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        12.399396,
+                        55.656852
+                  ]
+            },
+            {
+                  "name": "Selsmose Sø",
+                  "text": "Selsmose Sø este un lac în Ishoj, potrivit pentru ore de relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        12.298466,
+                        55.654179
+                  ]
+            },
+            {
+                  "name": "grønnegården legeplads",
+                  "text": "grønnegården legeplads este un teren de joacă în Ishoj, oferind copiilor mult spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        12.341995,
+                        55.599159
+                  ]
+            },
+            {
+                  "name": "legeplads i grønnegården",
+                  "text": "legeplads i grønnegården este un teren de joacă în Ishoj, fiind o destinație excelentă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.340092,
+                        55.598248
+                  ]
+            },
+            {
+                  "name": "Dinos Legeland",
+                  "text": "Dinos Legeland din Ishoj este un paradis pentru copii, cu numeroase posibilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        12.335118,
+                        55.618083
+                  ]
+            },
+            {
+                  "name": "Airtrix Ishøj",
+                  "text": "Airtrix Ishøj oferă distracție plină de acțiune și mișcare pentru copii în Ishoj.",
+                  "category": "family",
+                  "coords": [
+                        12.337774,
+                        55.619917
+                  ]
+            },
+            {
+                  "name": "Valhal Havnebad",
+                  "text": "Baia publică Valhal Havnebad din Ishoj invită la o reîmprospătare în apa răcoroasă.",
+                  "category": "family",
+                  "coords": [
+                        12.399955,
+                        55.610296
+                  ]
+            },
+            {
+                  "name": "Arken",
+                  "text": "Muzeul de Artă Modernă Arken din Ishoj este cunoscut pentru expozițiile sale contemporane. Arhitectura distinctivă a clădirii amintește de o navă eșuată.",
+                  "category": "museum",
+                  "coords": [
+                        12.387507,
+                        55.606223
+                  ]
+            },
+            {
+                  "name": "Olsbæk Strand",
+                  "text": "Plaja Olsbæk Strand din Ishoj este un loc ideal pentru relaxare și sporturi nautice pe coasta daneză. Aceasta invită la relaxare pe nisip și la plimbări lungi pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.332776,
+                        55.585906
+                  ]
+            },
+            {
+                  "name": "Portalen, Greve Teater- & Musikhus",
+                  "text": "Portalen, Greve Teater- & Musikhus din Ishoj este un important centru cultural pentru artele spectacolului. Acesta oferă un program variat de spectacole de teatru și evenimente muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        12.332363,
+                        55.598246
+                  ]
+            },
+            {
+                  "name": "DIAS Kunsthal",
+                  "text": "DIAS Kunsthal din Ishoj oferă perspective fascinante asupra artei și culturii. Vizitatorii pot descoperi aici exponate diverse într-un mediu plin de inspirație.",
+                  "category": "museum",
+                  "coords": [
+                        12.386875,
+                        55.624106
+                  ]
+            },
+            {
+                  "name": "Hundige Kirke",
+                  "text": "Hundige Kirke este un edificiu religios distinctiv în Ishoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.318186,
+                        55.594476
+                  ]
+            },
+            {
+                  "name": "Vejleå Kirke",
+                  "text": "Vejleå Kirke este un edificiu religios distinctiv în Ishoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.352018,
+                        55.615414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hundige Strand - Ishøj Strand",
+                  "text": "Hundige Strand - Ishøj Strand spans a generous coastal section near Ishoj in Denmark. The wide sandy expanses create an open, dynamic atmosphere that is very popular during the summer. Visitors can engage in active swimming, build sandcastles, or take a long hike along the coastline. Visiting during the weekdays often provides a more private experience compared to the busy weekends.",
+                  "category": "recreational",
+                  "coords": [
+                        12.384864,
+                        55.602346
+                  ]
+            },
+            {
+                  "name": "Hundige Hundestrand",
+                  "text": "Hundige Hundestrand is a beach section near Ishøj.",
+                  "category": "recreational",
+                  "coords": [
+                        12.357027,
+                        55.592145
+                  ]
+            },
+            {
+                  "name": "Svanesøen",
+                  "text": "Svanesøen is a lake in Ishoj, offering a peaceful environment for walks.",
+                  "category": "natural",
+                  "coords": [
+                        12.335947,
+                        55.673809
+                  ]
+            },
+            {
+                  "name": "Mosede Sø",
+                  "text": "Mosede Sø is a lake in Ishoj, inviting for nature outings.",
+                  "category": "natural",
+                  "coords": [
+                        12.273615,
+                        55.577001
+                  ]
+            },
+            {
+                  "name": "Mudilles Sø",
+                  "text": "Mudilles Sø is a lake in Ishoj, providing a nice setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        12.399396,
+                        55.656852
+                  ]
+            },
+            {
+                  "name": "Selsmose Sø",
+                  "text": "Selsmose Sø is a lake in Ishoj, suitable for relaxing hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        12.298466,
+                        55.654179
+                  ]
+            },
+            {
+                  "name": "grønnegården legeplads",
+                  "text": "grønnegården legeplads is a playground in Ishoj, offering children plenty of space to play.",
+                  "category": "family",
+                  "coords": [
+                        12.341995,
+                        55.599159
+                  ]
+            },
+            {
+                  "name": "legeplads i grønnegården",
+                  "text": "legeplads i grønnegården is a playground in Ishoj, making it a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        12.340092,
+                        55.598248
+                  ]
+            },
+            {
+                  "name": "Dinos Legeland",
+                  "text": "Dinos Legeland in Ishoj is a paradise for children with many play opportunities.",
+                  "category": "family",
+                  "coords": [
+                        12.335118,
+                        55.618083
+                  ]
+            },
+            {
+                  "name": "Airtrix Ishøj",
+                  "text": "Airtrix Ishøj offers action-packed fun and movement for children in Ishoj.",
+                  "category": "family",
+                  "coords": [
+                        12.337774,
+                        55.619917
+                  ]
+            },
+            {
+                  "name": "Valhal Havnebad",
+                  "text": "Valhal Havnebad in Ishoj invites visitors for a refreshing dip in the water.",
+                  "category": "family",
+                  "coords": [
+                        12.399955,
+                        55.610296
+                  ]
+            },
+            {
+                  "name": "Arken",
+                  "text": "The Arken Museum of Modern Art in Ishoj is renowned for its contemporary exhibitions. The building's striking architecture is designed to resemble a stranded ship.",
+                  "category": "museum",
+                  "coords": [
+                        12.387507,
+                        55.606223
+                  ]
+            },
+            {
+                  "name": "Olsbæk Strand",
+                  "text": "The Olsbæk Strand in Ishoj is an ideal spot for relaxation and water sports on the Danish coast. It invites visitors to relax on the sand and enjoy long walks by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.332776,
+                        55.585906
+                  ]
+            },
+            {
+                  "name": "Portalen, Greve Teater- & Musikhus",
+                  "text": "The Portalen, Greve Teater- & Musikhus in Ishoj is an important cultural centre for the performing arts. It offers a diverse programme of theatrical performances and musical events.",
+                  "category": "cultural",
+                  "coords": [
+                        12.332363,
+                        55.598246
+                  ]
+            },
+            {
+                  "name": "DIAS Kunsthal",
+                  "text": "The DIAS Kunsthal in Ishoj offers fascinating insights into art and culture. Visitors can discover diverse exhibits in an inspiring environment.",
+                  "category": "museum",
+                  "coords": [
+                        12.386875,
+                        55.624106
+                  ]
+            },
+            {
+                  "name": "Hundige Kirke",
+                  "text": "The Hundige Kirke is a distinctive religious building in Ishoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.318186,
+                        55.594476
+                  ]
+            },
+            {
+                  "name": "Vejleå Kirke",
+                  "text": "The Vejleå Kirke is a distinctive religious building in Ishoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.352018,
+                        55.615414
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Ishøj", hu: "Ishøj", ro: "Ishøj", en: "Ishoj" },
@@ -31972,6 +33457,87 @@ export const denmarkCitiesV2: POI[] = [
                         12.656115,
                         55.638129
                   ]
+            },
+            {
+                  "name": "Kastrup Fort",
+                  "text": "Das Kastrup Fort ist eine historische Festungsanlage, die heute besichtigt werden kann. Sie bietet spannende Einblicke in die militärische Verteidigungsgeschichte.",
+                  "category": "fortress",
+                  "coords": [
+                        12.639636,
+                        55.648497
+                  ]
+            },
+            {
+                  "name": "Tårnby Teater",
+                  "text": "Das Tårnby Teater in Kastrup ist ein Ort für kulturelle Aufführungen. Es bereichert das lokale Leben mit einer Vielzahl an Theaterstücken.",
+                  "category": "cultural",
+                  "coords": [
+                        12.601048,
+                        55.632265
+                  ]
+            },
+            {
+                  "name": "Strandstation 4",
+                  "text": "Strandstation 4 in Kastrup dient als schöner Aussichtspunkt. Besucher genießen von hier einen weiten Blick über die Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.646631,
+                        55.651122
+                  ]
+            },
+            {
+                  "name": "Strandstation 3",
+                  "text": "Strandstation 3 in Kastrup ist ein idealer Ort für Ausblicke. Es ist perfekt, um die Ruhe der Küste in Kastrup zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        12.649141,
+                        55.654569
+                  ]
+            },
+            {
+                  "name": "Strandstation 5",
+                  "text": "Strandstation 5 in Kastrup bietet einen herrlichen Blick auf das Meer. Besucher kommen hierher, um die maritime Atmosphäre zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        12.647153,
+                        55.648508
+                  ]
+            },
+            {
+                  "name": "Kastrup Kirke",
+                  "text": "Die Kastrup Kirke ist eine historische Kirche in Kastrup. Sie ist ein wichtiger Ort für die Gemeinde und ein architektonisches Highlight.",
+                  "category": "religious",
+                  "coords": [
+                        12.641807,
+                        55.637889
+                  ]
+            },
+            {
+                  "name": "Tårnby Kirke",
+                  "text": "Die Tårnby Kirke in Kastrup beeindruckt durch ihre lange Geschichte. Sie ist ein bedeutendes religiöses Gebäude und ein kulturelles Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        12.602757,
+                        55.627959
+                  ]
+            },
+            {
+                  "name": "Højdevangskirken",
+                  "text": "Die Højdevangskirken in Kastrup ist eine bemerkenswerte Kirche. Besucher schätzen ihre Gestaltung und die friedliche Umgebung für einen Besuch.",
+                  "category": "religious",
+                  "coords": [
+                        12.6051,
+                        55.647754
+                  ]
+            },
+            {
+                  "name": "Simon Peters Kirke",
+                  "text": "Die Simon Peters Kirke in Kastrup ist ein schönes religiöses Gebäude. Sie bietet einen Ort der Stille für Besucher und Anwohner.",
+                  "category": "religious",
+                  "coords": [
+                        12.62411,
+                        55.647107
+                  ]
             }
       ],
       "hu": [
@@ -32108,6 +33674,87 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.656115,
                         55.638129
+                  ]
+            },
+            {
+                  "name": "Kastrup Fort",
+                  "text": "A Kastrup Fort egy történelmi erődítmény, amely ma már látogatható. Izgalmas betekintést nyújt a katonai védelmi történelembe.",
+                  "category": "fortress",
+                  "coords": [
+                        12.639636,
+                        55.648497
+                  ]
+            },
+            {
+                  "name": "Tårnby Teater",
+                  "text": "A Kastrup-i Tårnby Teater a kulturális előadások színhelye. Számos színházi darabbal gazdagítja a helyi életet.",
+                  "category": "cultural",
+                  "coords": [
+                        12.601048,
+                        55.632265
+                  ]
+            },
+            {
+                  "name": "Strandstation 4",
+                  "text": "A Kastrup-i Strandstation 4 szép kilátópontként szolgál. A látogatók innen széles kilátást élvezhetnek a part menti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        12.646631,
+                        55.651122
+                  ]
+            },
+            {
+                  "name": "Strandstation 3",
+                  "text": "A Kastrup-i Strandstation 3 ideális hely a kilátáshoz. Tökéletes arra, hogy élvezzük a kastrupi part nyugalmát.",
+                  "category": "natural",
+                  "coords": [
+                        12.649141,
+                        55.654569
+                  ]
+            },
+            {
+                  "name": "Strandstation 5",
+                  "text": "A Kastrup-i Strandstation 5 csodálatos kilátást nyújt a tengerre. A látogatók azért jönnek ide, hogy átéljék a tengeri hangulatot.",
+                  "category": "natural",
+                  "coords": [
+                        12.647153,
+                        55.648508
+                  ]
+            },
+            {
+                  "name": "Kastrup Kirke",
+                  "text": "A Kastrup Kirke egy történelmi templom Kastrupban. Fontos hely a közösség számára és építészeti látványosság.",
+                  "category": "religious",
+                  "coords": [
+                        12.641807,
+                        55.637889
+                  ]
+            },
+            {
+                  "name": "Tårnby Kirke",
+                  "text": "A Kastrup-i Tårnby Kirke hosszú történelmével nyűgöz le. Jelentős vallási épület és kulturális központ.",
+                  "category": "religious",
+                  "coords": [
+                        12.602757,
+                        55.627959
+                  ]
+            },
+            {
+                  "name": "Højdevangskirken",
+                  "text": "A Kastrup-i Højdevangskirken egy figyelemre méltó templom. A látogatók nagyra értékelik kialakítását és békés környezetét.",
+                  "category": "religious",
+                  "coords": [
+                        12.6051,
+                        55.647754
+                  ]
+            },
+            {
+                  "name": "Simon Peters Kirke",
+                  "text": "A Kastrup-i Simon Peters Kirke egy gyönyörű vallási épület. A csend helyét kínálja látogatók és lakók számára.",
+                  "category": "religious",
+                  "coords": [
+                        12.62411,
+                        55.647107
                   ]
             }
       ],
@@ -32246,6 +33893,87 @@ export const denmarkCitiesV2: POI[] = [
                         12.656115,
                         55.638129
                   ]
+            },
+            {
+                  "name": "Kastrup Fort",
+                  "text": "Kastrup Fort este o fortăreață istorică ce poate fi vizitată astăzi. Oferă perspective interesante asupra istoriei apărării militare.",
+                  "category": "fortress",
+                  "coords": [
+                        12.639636,
+                        55.648497
+                  ]
+            },
+            {
+                  "name": "Tårnby Teater",
+                  "text": "Tårnby Teater din Kastrup este un loc pentru spectacole culturale. Îmbogățește viața locală cu o varietate de piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        12.601048,
+                        55.632265
+                  ]
+            },
+            {
+                  "name": "Strandstation 4",
+                  "text": "Strandstation 4 din Kastrup servește drept un frumos punct de belvedere. De aici, vizitatorii se bucură de o vedere panoramică asupra peisajului de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        12.646631,
+                        55.651122
+                  ]
+            },
+            {
+                  "name": "Strandstation 3",
+                  "text": "Strandstation 3 din Kastrup este un loc ideal pentru priveliști. Este perfect pentru a te bucura de liniștea coastei din Kastrup.",
+                  "category": "natural",
+                  "coords": [
+                        12.649141,
+                        55.654569
+                  ]
+            },
+            {
+                  "name": "Strandstation 5",
+                  "text": "Strandstation 5 din Kastrup oferă o vedere splendidă asupra mării. Vizitatorii vin aici pentru a experimenta atmosfera maritimă.",
+                  "category": "natural",
+                  "coords": [
+                        12.647153,
+                        55.648508
+                  ]
+            },
+            {
+                  "name": "Kastrup Kirke",
+                  "text": "Kastrup Kirke este o biserică istorică din Kastrup. Este un loc important pentru comunitate și un punct de atracție arhitectural.",
+                  "category": "religious",
+                  "coords": [
+                        12.641807,
+                        55.637889
+                  ]
+            },
+            {
+                  "name": "Tårnby Kirke",
+                  "text": "Tårnby Kirke din Kastrup impresionează prin istoria sa îndelungată. Este o clădire religioasă semnificativă și un centru cultural.",
+                  "category": "religious",
+                  "coords": [
+                        12.602757,
+                        55.627959
+                  ]
+            },
+            {
+                  "name": "Højdevangskirken",
+                  "text": "Højdevangskirken din Kastrup este o biserică remarcabilă. Vizitatorii îi apreciază designul și mediul pașnic pentru o vizită.",
+                  "category": "religious",
+                  "coords": [
+                        12.6051,
+                        55.647754
+                  ]
+            },
+            {
+                  "name": "Simon Peters Kirke",
+                  "text": "Simon Peters Kirke din Kastrup este o clădire religioasă frumoasă. Oferă un loc de liniște pentru vizitatori și locuitori.",
+                  "category": "religious",
+                  "coords": [
+                        12.62411,
+                        55.647107
+                  ]
             }
       ],
       "en": [
@@ -32382,6 +34110,87 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.656115,
                         55.638129
+                  ]
+            },
+            {
+                  "name": "Kastrup Fort",
+                  "text": "The Kastrup Fort is a historical fortification that can be visited today. It offers exciting insights into military defense history.",
+                  "category": "fortress",
+                  "coords": [
+                        12.639636,
+                        55.648497
+                  ]
+            },
+            {
+                  "name": "Tårnby Teater",
+                  "text": "The Tårnby Teater in Kastrup is a place for cultural performances. It enriches local life with a variety of plays.",
+                  "category": "cultural",
+                  "coords": [
+                        12.601048,
+                        55.632265
+                  ]
+            },
+            {
+                  "name": "Strandstation 4",
+                  "text": "Strandstation 4 in Kastrup serves as a beautiful viewpoint. Visitors enjoy a wide view over the coastal landscape from here.",
+                  "category": "natural",
+                  "coords": [
+                        12.646631,
+                        55.651122
+                  ]
+            },
+            {
+                  "name": "Strandstation 3",
+                  "text": "Strandstation 3 in Kastrup is an ideal place for views. It is perfect to enjoy the tranquility of the coast in Kastrup.",
+                  "category": "natural",
+                  "coords": [
+                        12.649141,
+                        55.654569
+                  ]
+            },
+            {
+                  "name": "Strandstation 5",
+                  "text": "Strandstation 5 in Kastrup offers a splendid view of the sea. Visitors come here to experience the maritime atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        12.647153,
+                        55.648508
+                  ]
+            },
+            {
+                  "name": "Kastrup Kirke",
+                  "text": "The Kastrup Kirke is a historical church in Kastrup. It is an important place for the community and an architectural highlight.",
+                  "category": "religious",
+                  "coords": [
+                        12.641807,
+                        55.637889
+                  ]
+            },
+            {
+                  "name": "Tårnby Kirke",
+                  "text": "The Tårnby Kirke in Kastrup impresses with its long history. It is a significant religious building and a cultural center.",
+                  "category": "religious",
+                  "coords": [
+                        12.602757,
+                        55.627959
+                  ]
+            },
+            {
+                  "name": "Højdevangskirken",
+                  "text": "The Højdevangskirken in Kastrup is a remarkable church. Visitors appreciate its design and the peaceful surroundings for a visit.",
+                  "category": "religious",
+                  "coords": [
+                        12.6051,
+                        55.647754
+                  ]
+            },
+            {
+                  "name": "Simon Peters Kirke",
+                  "text": "The Simon Peters Kirke in Kastrup is a beautiful religious building. It offers a place of silence for visitors and residents.",
+                  "category": "religious",
+                  "coords": [
+                        12.62411,
+                        55.647107
                   ]
             }
       ]
@@ -35077,6 +36886,231 @@ export const denmarkCitiesV2: POI[] = [
                         12.518653,
                         55.670653
                   ]
+            },
+            {
+                  "name": "Møstings Hus",
+                  "text": "Das Møstings Hus in Bronshoj ist ein elegantes Kulturzentrum, das regelmäßig Kunstausstellungen beherbergt. Das historische Gebäude bietet einen charmanten Rahmen für zeitgenössische Werke.",
+                  "category": "museum",
+                  "coords": [
+                        12.52776,
+                        55.678374
+                  ]
+            },
+            {
+                  "name": "Henry Heerup Museum",
+                  "text": "Das Henry Heerup Museum in Bronshoj widmet sich dem Leben und Werk des dänischen Künstlers. Es präsentiert eine vielfältige Sammlung seiner Gemälde, Grafiken und Steinskulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        12.466934,
+                        55.682909
+                  ]
+            },
+            {
+                  "name": "Bellahøj Kirke",
+                  "text": "Die Bellahøj Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.509623,
+                        55.705429
+                  ]
+            },
+            {
+                  "name": "Brønshøj Kirke",
+                  "text": "Die Brønshøj Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.498717,
+                        55.705837
+                  ]
+            },
+            {
+                  "name": "Grøndalskirken",
+                  "text": "Die Grøndalskirken ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.512472,
+                        55.69584
+                  ]
+            },
+            {
+                  "name": "Stefanskirken",
+                  "text": "Die Stefanskirken ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.544537,
+                        55.696629
+                  ]
+            },
+            {
+                  "name": "Flintholm Kirke",
+                  "text": "Die Flintholm Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.498971,
+                        55.679041
+                  ]
+            },
+            {
+                  "name": "Anna Kirke",
+                  "text": "Die Anna Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.544242,
+                        55.692983
+                  ]
+            },
+            {
+                  "name": "Rødovre Kirke",
+                  "text": "Die Rødovre Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.465605,
+                        55.682076
+                  ]
+            },
+            {
+                  "name": "Mariendal Kirke",
+                  "text": "Die Mariendal Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.534422,
+                        55.691951
+                  ]
+            },
+            {
+                  "name": "Adventskirken",
+                  "text": "Die Adventskirken ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.49538,
+                        55.693911
+                  ]
+            },
+            {
+                  "name": "Vanløse Kirke",
+                  "text": "Die Vanløse Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.481817,
+                        55.690475
+                  ]
+            },
+            {
+                  "name": "Solbjerg Kirke",
+                  "text": "Die Solbjerg Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.528856,
+                        55.679928
+                  ]
+            },
+            {
+                  "name": "Lindevang Kirke",
+                  "text": "Die Lindevang Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.50705,
+                        55.678317
+                  ]
+            },
+            {
+                  "name": "Kingos Kirke",
+                  "text": "Die Kingos Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.54529,
+                        55.700926
+                  ]
+            },
+            {
+                  "name": "Godthaabskirken",
+                  "text": "Die Godthaabskirken ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.525993,
+                        55.68375
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "Die Sankt Lukas Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.536412,
+                        55.682283
+                  ]
+            },
+            {
+                  "name": "Ansgar Kirke",
+                  "text": "Die Ansgar Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.525221,
+                        55.7003
+                  ]
+            },
+            {
+                  "name": "Kapernaumskirken",
+                  "text": "Die Kapernaumskirken ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.530565,
+                        55.702684
+                  ]
+            },
+            {
+                  "name": "Tagensbo Kirke",
+                  "text": "Die Tagensbo Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.534249,
+                        55.708344
+                  ]
+            },
+            {
+                  "name": "Nordvestkirken",
+                  "text": "Die Nordvestkirken ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.515933,
+                        55.709352
+                  ]
+            },
+            {
+                  "name": "Emdrup Kirke",
+                  "text": "Die Emdrup Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.528504,
+                        55.721297
+                  ]
+            },
+            {
+                  "name": "Søborgmagle Kirke",
+                  "text": "Die Søborgmagle Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.509728,
+                        55.723053
+                  ]
+            },
+            {
+                  "name": "Tingbjerg Kirke",
+                  "text": "Die Tingbjerg Kirke ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.479139,
+                        55.719243
+                  ]
+            },
+            {
+                  "name": "Emmauskirken",
+                  "text": "Die Emmauskirken ist ein markantes religiöses Bauwerk in Bronshoj. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.519003,
+                        55.678699
+                  ]
             }
       ],
       "hu": [
@@ -35321,6 +37355,231 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.518653,
                         55.670653
+                  ]
+            },
+            {
+                  "name": "Møstings Hus",
+                  "text": "A Bronshoj városában található Møstings Hus egy elegáns kulturális központ, amely rendszeresen ad otthont művészeti kiállításoknak. A történelmi épület bájos környezetet biztosít a kortárs műveknek.",
+                  "category": "museum",
+                  "coords": [
+                        12.52776,
+                        55.678374
+                  ]
+            },
+            {
+                  "name": "Henry Heerup Museum",
+                  "text": "A Bronshoj városában található Henry Heerup Múzeum a dán művész életének és munkásságának van szentelve. Festményeinek, grafikáinak és kőszobrainak változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.466934,
+                        55.682909
+                  ]
+            },
+            {
+                  "name": "Bellahøj Kirke",
+                  "text": "A(z) Bellahøj Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.509623,
+                        55.705429
+                  ]
+            },
+            {
+                  "name": "Brønshøj Kirke",
+                  "text": "A(z) Brønshøj Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.498717,
+                        55.705837
+                  ]
+            },
+            {
+                  "name": "Grøndalskirken",
+                  "text": "A(z) Grøndalskirken egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.512472,
+                        55.69584
+                  ]
+            },
+            {
+                  "name": "Stefanskirken",
+                  "text": "A(z) Stefanskirken egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.544537,
+                        55.696629
+                  ]
+            },
+            {
+                  "name": "Flintholm Kirke",
+                  "text": "A(z) Flintholm Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.498971,
+                        55.679041
+                  ]
+            },
+            {
+                  "name": "Anna Kirke",
+                  "text": "A(z) Anna Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.544242,
+                        55.692983
+                  ]
+            },
+            {
+                  "name": "Rødovre Kirke",
+                  "text": "A(z) Rødovre Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.465605,
+                        55.682076
+                  ]
+            },
+            {
+                  "name": "Mariendal Kirke",
+                  "text": "A(z) Mariendal Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.534422,
+                        55.691951
+                  ]
+            },
+            {
+                  "name": "Adventskirken",
+                  "text": "A(z) Adventskirken egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.49538,
+                        55.693911
+                  ]
+            },
+            {
+                  "name": "Vanløse Kirke",
+                  "text": "A(z) Vanløse Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.481817,
+                        55.690475
+                  ]
+            },
+            {
+                  "name": "Solbjerg Kirke",
+                  "text": "A(z) Solbjerg Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.528856,
+                        55.679928
+                  ]
+            },
+            {
+                  "name": "Lindevang Kirke",
+                  "text": "A(z) Lindevang Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.50705,
+                        55.678317
+                  ]
+            },
+            {
+                  "name": "Kingos Kirke",
+                  "text": "A(z) Kingos Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.54529,
+                        55.700926
+                  ]
+            },
+            {
+                  "name": "Godthaabskirken",
+                  "text": "A(z) Godthaabskirken egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.525993,
+                        55.68375
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "A(z) Sankt Lukas Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.536412,
+                        55.682283
+                  ]
+            },
+            {
+                  "name": "Ansgar Kirke",
+                  "text": "A(z) Ansgar Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.525221,
+                        55.7003
+                  ]
+            },
+            {
+                  "name": "Kapernaumskirken",
+                  "text": "A(z) Kapernaumskirken egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.530565,
+                        55.702684
+                  ]
+            },
+            {
+                  "name": "Tagensbo Kirke",
+                  "text": "A(z) Tagensbo Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.534249,
+                        55.708344
+                  ]
+            },
+            {
+                  "name": "Nordvestkirken",
+                  "text": "A(z) Nordvestkirken egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.515933,
+                        55.709352
+                  ]
+            },
+            {
+                  "name": "Emdrup Kirke",
+                  "text": "A(z) Emdrup Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.528504,
+                        55.721297
+                  ]
+            },
+            {
+                  "name": "Søborgmagle Kirke",
+                  "text": "A(z) Søborgmagle Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.509728,
+                        55.723053
+                  ]
+            },
+            {
+                  "name": "Tingbjerg Kirke",
+                  "text": "A(z) Tingbjerg Kirke egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.479139,
+                        55.719243
+                  ]
+            },
+            {
+                  "name": "Emmauskirken",
+                  "text": "A(z) Emmauskirken egy jellegzetes vallási épület Bronshoj városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.519003,
+                        55.678699
                   ]
             }
       ],
@@ -35567,6 +37826,231 @@ export const denmarkCitiesV2: POI[] = [
                         12.518653,
                         55.670653
                   ]
+            },
+            {
+                  "name": "Møstings Hus",
+                  "text": "Møstings Hus din Bronshoj este un centru cultural elegant care găzduiește în mod regulat expoziții de artă. Clădirea istorică oferă un cadru fermecător pentru lucrările contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        12.52776,
+                        55.678374
+                  ]
+            },
+            {
+                  "name": "Henry Heerup Museum",
+                  "text": "Muzeul Henry Heerup din Bronshoj este dedicat vieții și operei artistului danez. Acesta prezintă o colecție diversă de picturi, grafică și sculpturi în piatră ale sale.",
+                  "category": "museum",
+                  "coords": [
+                        12.466934,
+                        55.682909
+                  ]
+            },
+            {
+                  "name": "Bellahøj Kirke",
+                  "text": "Bellahøj Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.509623,
+                        55.705429
+                  ]
+            },
+            {
+                  "name": "Brønshøj Kirke",
+                  "text": "Brønshøj Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.498717,
+                        55.705837
+                  ]
+            },
+            {
+                  "name": "Grøndalskirken",
+                  "text": "Grøndalskirken este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.512472,
+                        55.69584
+                  ]
+            },
+            {
+                  "name": "Stefanskirken",
+                  "text": "Stefanskirken este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.544537,
+                        55.696629
+                  ]
+            },
+            {
+                  "name": "Flintholm Kirke",
+                  "text": "Flintholm Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.498971,
+                        55.679041
+                  ]
+            },
+            {
+                  "name": "Anna Kirke",
+                  "text": "Anna Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.544242,
+                        55.692983
+                  ]
+            },
+            {
+                  "name": "Rødovre Kirke",
+                  "text": "Rødovre Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.465605,
+                        55.682076
+                  ]
+            },
+            {
+                  "name": "Mariendal Kirke",
+                  "text": "Mariendal Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.534422,
+                        55.691951
+                  ]
+            },
+            {
+                  "name": "Adventskirken",
+                  "text": "Adventskirken este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.49538,
+                        55.693911
+                  ]
+            },
+            {
+                  "name": "Vanløse Kirke",
+                  "text": "Vanløse Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.481817,
+                        55.690475
+                  ]
+            },
+            {
+                  "name": "Solbjerg Kirke",
+                  "text": "Solbjerg Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.528856,
+                        55.679928
+                  ]
+            },
+            {
+                  "name": "Lindevang Kirke",
+                  "text": "Lindevang Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.50705,
+                        55.678317
+                  ]
+            },
+            {
+                  "name": "Kingos Kirke",
+                  "text": "Kingos Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.54529,
+                        55.700926
+                  ]
+            },
+            {
+                  "name": "Godthaabskirken",
+                  "text": "Godthaabskirken este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.525993,
+                        55.68375
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "Sankt Lukas Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.536412,
+                        55.682283
+                  ]
+            },
+            {
+                  "name": "Ansgar Kirke",
+                  "text": "Ansgar Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.525221,
+                        55.7003
+                  ]
+            },
+            {
+                  "name": "Kapernaumskirken",
+                  "text": "Kapernaumskirken este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.530565,
+                        55.702684
+                  ]
+            },
+            {
+                  "name": "Tagensbo Kirke",
+                  "text": "Tagensbo Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.534249,
+                        55.708344
+                  ]
+            },
+            {
+                  "name": "Nordvestkirken",
+                  "text": "Nordvestkirken este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.515933,
+                        55.709352
+                  ]
+            },
+            {
+                  "name": "Emdrup Kirke",
+                  "text": "Emdrup Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.528504,
+                        55.721297
+                  ]
+            },
+            {
+                  "name": "Søborgmagle Kirke",
+                  "text": "Søborgmagle Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.509728,
+                        55.723053
+                  ]
+            },
+            {
+                  "name": "Tingbjerg Kirke",
+                  "text": "Tingbjerg Kirke este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.479139,
+                        55.719243
+                  ]
+            },
+            {
+                  "name": "Emmauskirken",
+                  "text": "Emmauskirken este un edificiu religios distinctiv în Bronshoj. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.519003,
+                        55.678699
+                  ]
             }
       ],
       "en": [
@@ -35811,6 +38295,231 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.518653,
                         55.670653
+                  ]
+            },
+            {
+                  "name": "Møstings Hus",
+                  "text": "Møstings Hus in Bronshoj is an elegant cultural centre that regularly hosts art exhibitions. The historic building provides a charming setting for contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        12.52776,
+                        55.678374
+                  ]
+            },
+            {
+                  "name": "Henry Heerup Museum",
+                  "text": "The Henry Heerup Museum in Bronshoj is dedicated to the life and work of the Danish artist. It showcases a diverse collection of his paintings, prints, and stone sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        12.466934,
+                        55.682909
+                  ]
+            },
+            {
+                  "name": "Bellahøj Kirke",
+                  "text": "The Bellahøj Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.509623,
+                        55.705429
+                  ]
+            },
+            {
+                  "name": "Brønshøj Kirke",
+                  "text": "The Brønshøj Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.498717,
+                        55.705837
+                  ]
+            },
+            {
+                  "name": "Grøndalskirken",
+                  "text": "The Grøndalskirken is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.512472,
+                        55.69584
+                  ]
+            },
+            {
+                  "name": "Stefanskirken",
+                  "text": "The Stefanskirken is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.544537,
+                        55.696629
+                  ]
+            },
+            {
+                  "name": "Flintholm Kirke",
+                  "text": "The Flintholm Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.498971,
+                        55.679041
+                  ]
+            },
+            {
+                  "name": "Anna Kirke",
+                  "text": "The Anna Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.544242,
+                        55.692983
+                  ]
+            },
+            {
+                  "name": "Rødovre Kirke",
+                  "text": "The Rødovre Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.465605,
+                        55.682076
+                  ]
+            },
+            {
+                  "name": "Mariendal Kirke",
+                  "text": "The Mariendal Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.534422,
+                        55.691951
+                  ]
+            },
+            {
+                  "name": "Adventskirken",
+                  "text": "The Adventskirken is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.49538,
+                        55.693911
+                  ]
+            },
+            {
+                  "name": "Vanløse Kirke",
+                  "text": "The Vanløse Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.481817,
+                        55.690475
+                  ]
+            },
+            {
+                  "name": "Solbjerg Kirke",
+                  "text": "The Solbjerg Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.528856,
+                        55.679928
+                  ]
+            },
+            {
+                  "name": "Lindevang Kirke",
+                  "text": "The Lindevang Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.50705,
+                        55.678317
+                  ]
+            },
+            {
+                  "name": "Kingos Kirke",
+                  "text": "The Kingos Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.54529,
+                        55.700926
+                  ]
+            },
+            {
+                  "name": "Godthaabskirken",
+                  "text": "The Godthaabskirken is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.525993,
+                        55.68375
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "The Sankt Lukas Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.536412,
+                        55.682283
+                  ]
+            },
+            {
+                  "name": "Ansgar Kirke",
+                  "text": "The Ansgar Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.525221,
+                        55.7003
+                  ]
+            },
+            {
+                  "name": "Kapernaumskirken",
+                  "text": "The Kapernaumskirken is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.530565,
+                        55.702684
+                  ]
+            },
+            {
+                  "name": "Tagensbo Kirke",
+                  "text": "The Tagensbo Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.534249,
+                        55.708344
+                  ]
+            },
+            {
+                  "name": "Nordvestkirken",
+                  "text": "The Nordvestkirken is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.515933,
+                        55.709352
+                  ]
+            },
+            {
+                  "name": "Emdrup Kirke",
+                  "text": "The Emdrup Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.528504,
+                        55.721297
+                  ]
+            },
+            {
+                  "name": "Søborgmagle Kirke",
+                  "text": "The Søborgmagle Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.509728,
+                        55.723053
+                  ]
+            },
+            {
+                  "name": "Tingbjerg Kirke",
+                  "text": "The Tingbjerg Kirke is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.479139,
+                        55.719243
+                  ]
+            },
+            {
+                  "name": "Emmauskirken",
+                  "text": "The Emmauskirken is a distinctive religious building in Bronshoj. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.519003,
+                        55.678699
                   ]
             }
       ]
@@ -39757,6 +42466,213 @@ export const denmarkCitiesV2: POI[] = [
                         12.610545,
                         55.68942
                   ]
+            },
+            {
+                  "name": "Dänisches Jüdisches Museum",
+                  "text": "Das Dänische Jüdische Museum auf Islands Brygge dokumentiert die jüdische Geschichte. Es bietet wertvolle Einblicke durch Ausstellungen und historische Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        12.582303,
+                        55.674365
+                  ]
+            },
+            {
+                  "name": "Medicinsk Museion",
+                  "text": "Das Medical Museion auf Islands Brygge zeigt die Entwicklung der Medizin. Besucher können hier faszinierende Exponate zur Gesundheitsgeschichte entdecken.",
+                  "category": "museum",
+                  "coords": [
+                        12.591896,
+                        55.685958
+                  ]
+            },
+            {
+                  "name": "Davids Samling",
+                  "text": "Die Davids Samling auf Islands Brygge beherbergt eine bedeutende Kunstsammlung. Sie bietet einen einzigartigen Einblick in historische Kunsthandwerke und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        12.582385,
+                        55.68428
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Amalienborg",
+                  "text": "Kongernes Samling Amalienborg auf Islands Brygge zeigt königliche Geschichte. Besucher können hier historische Artefakte der dänischen Monarchie besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        12.592452,
+                        55.684455
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Rosenborg",
+                  "text": "Kongernes Samling Rosenborg auf Islands Brygge beherbergt königliche Schätze. Es ist ein Muss für jeden, der sich für dänische Geschichte interessiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.577322,
+                        55.685756
+                  ]
+            },
+            {
+                  "name": "Kongernes Lapidarium",
+                  "text": "Das Kongernes Lapidarium auf Islands Brygge zeigt historische Steinmetzarbeiten. Es ist eine faszinierende Sammlung für kulturhistorisch interessierte Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        12.57974,
+                        55.673127
+                  ]
+            },
+            {
+                  "name": "Magasin du Nord Museum",
+                  "text": "Das Magasin du Nord Museum auf Islands Brygge beleuchtet die Handelsgeschichte. Es ist eine interessante Station für kulturgeschichtlich orientierte Entdecker.",
+                  "category": "museum",
+                  "coords": [
+                        12.58401,
+                        55.678754
+                  ]
+            },
+            {
+                  "name": "Dansk Arkitektur Center",
+                  "text": "Das Dansk Arkitektur Center auf Islands Brygge widmet sich modernem Design. Besucher finden hier inspirierende Ausstellungen über architektonische Innovationen.",
+                  "category": "museum",
+                  "coords": [
+                        12.579059,
+                        55.671989
+                  ]
+            },
+            {
+                  "name": "Zeughausmuseum",
+                  "text": "Das Kriegsmuseum auf Islands Brygge thematisiert dänische Militärgeschichte. Es bietet eine lehrreiche Reise durch militärische Ereignisse und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        12.580305,
+                        55.674262
+                  ]
+            },
+            {
+                  "name": "Arbejdermuseet",
+                  "text": "Das Arbeitermuseum auf Islands Brygge zeigt das Leben vergangener Generationen. Es ist ein wichtiger Ort, um dänische Sozialgeschichte zu verstehen.",
+                  "category": "museum",
+                  "coords": [
+                        12.570324,
+                        55.684807
+                  ]
+            },
+            {
+                  "name": "Orlogsmuseet",
+                  "text": "Das Orlogsmuseet auf Islands Brygge dokumentiert die dänische Marinegeschichte. Besucher entdecken hier spannende Exponate über die Seefahrt.",
+                  "category": "museum",
+                  "coords": [
+                        12.594949,
+                        55.674122
+                  ]
+            },
+            {
+                  "name": "Lille Mølle",
+                  "text": "Lille Mølle auf Islands Brygge ist ein charmantes historisches Museum. Es bietet einen intimen Einblick in die Lebensweise vergangener Zeiten.",
+                  "category": "museum",
+                  "coords": [
+                        12.596285,
+                        55.671499
+                  ]
+            },
+            {
+                  "name": "Københavns Museum",
+                  "text": "Das Kopenhagener Museum auf Islands Brygge zeigt die Stadtentwicklung. Besucher finden hier eine informative Sammlung zur Historie von Kopenhagen.",
+                  "category": "museum",
+                  "coords": [
+                        12.572485,
+                        55.674382
+                  ]
+            },
+            {
+                  "name": "DieselHouse",
+                  "text": "Das DieselHouse auf Islands Brygge beleuchtet Industriegeschichte und Technik. Es ist ein faszinierendes Ziel für Technikbegeisterte und Geschichtsfans.",
+                  "category": "museum",
+                  "coords": [
+                        12.555132,
+                        55.656595
+                  ]
+            },
+            {
+                  "name": "Galerie Birch",
+                  "text": "Die Galerie Birch in Islands Brygge ist eine renommierte Galerie für moderne Kunst. Besucher können hier eine vielfältige Auswahl an zeitgenössischen Werken in zentraler Lage entdecken.",
+                  "category": "museum",
+                  "coords": [
+                        12.588069,
+                        55.681392
+                  ]
+            },
+            {
+                  "name": "Edition Copenhagen",
+                  "text": "Edition Copenhagen ist eine bekannte Galerie in Islands Brygge, die sich auf hochwertige Druckgrafik spezialisiert hat. Ein Besuch bietet Einblicke in die Zusammenarbeit zwischen Künstlern und professionellen Druckern.",
+                  "category": "museum",
+                  "coords": [
+                        12.594148,
+                        55.676224
+                  ]
+            },
+            {
+                  "name": "Faste Batteri",
+                  "text": "Faste Batteri in Islands Brygge ist eine historische archäologische Stätte. Sie zeugt von der militärischen Vergangenheit der Umgebung und ist heute ein interessantes Ziel für Geschichtsinteressierte.",
+                  "category": "historical",
+                  "coords": [
+                        12.586442,
+                        55.664788
+                  ]
+            },
+            {
+                  "name": "Jarmers Tårn",
+                  "text": "Jarmers Tårn in Islands Brygge sind die Überreste eines mittelalterlichen Verteidigungsturms. Die Ruinen bieten einen kleinen, aber markanten Einblick in die frühere Befestigung der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        12.56568,
+                        55.678815
+                  ]
+            },
+            {
+                  "name": "Frihedsstøtten",
+                  "text": "Frihedsstøtten ist ein markantes Denkmal in Islands Brygge. Es erinnert an historische Ereignisse und ist ein wichtiges kulturelles Wahrzeichen der Region.",
+                  "category": "historical",
+                  "coords": [
+                        12.563294,
+                        55.674203
+                  ]
+            },
+            {
+                  "name": "Bremen Teater",
+                  "text": "Das Bremen Teater in Islands Brygge ist ein bekanntes Zentrum für Live-Unterhaltung und Vorstellungen. Gäste können hier vielfältige kulturelle Veranstaltungen in einem stimmungsvollen Rahmen erleben.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561025,
+                        55.676546
+                  ]
+            },
+            {
+                  "name": "Folketeatret",
+                  "text": "Das Folketeatret in Islands Brygge ist eines der ältesten und traditionsreichsten Theater der Stadt. Es bietet ein abwechslungsreiches Programm an klassischen und modernen Bühnenwerken.",
+                  "category": "cultural",
+                  "coords": [
+                        12.570939,
+                        55.681465
+                  ]
+            },
+            {
+                  "name": "Cirkusbygningen",
+                  "text": "Das Cirkusbygningen in Islands Brygge ist ein einzigartiges Theatergebäude, das für seine spektakulären Shows bekannt ist. Seine Architektur und Geschichte machen es zu einem bedeutenden kulturellen Anziehungspunkt.",
+                  "category": "cultural",
+                  "coords": [
+                        12.565129,
+                        55.676088
+                  ]
+            },
+            {
+                  "name": "Pantomimeteatret",
+                  "text": "Das Pantomimeteatret in Islands Brygge ist für seine traditionellen pantomimischen Darbietungen berühmt. Es bietet ein einzigartiges kulturelles Erlebnis im Herzen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        12.566564,
+                        55.674506
+                  ]
             }
       ],
       "hu": [
@@ -40100,6 +43016,213 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.610545,
                         55.68942
+                  ]
+            },
+            {
+                  "name": "Dansk Jødisk Museum",
+                  "text": "Az Islands Brygge-i Dán Zsidó Múzeum a zsidó történelmet dokumentálja. Értékes betekintést nyújt kiállítások és történelmi gyűjtemények révén.",
+                  "category": "museum",
+                  "coords": [
+                        12.582303,
+                        55.674365
+                  ]
+            },
+            {
+                  "name": "Medicinsk Museion",
+                  "text": "Az Islands Brygge-i Orvostudományi Múzeum az orvostudomány fejlődését mutatja be. A látogatók itt az egészségügy történetével kapcsolatos lenyűgöző kiállításokat fedezhetnek fel.",
+                  "category": "museum",
+                  "coords": [
+                        12.591896,
+                        55.685958
+                  ]
+            },
+            {
+                  "name": "Davids Samling",
+                  "text": "Az Islands Brygge-i Davids Samling jelentős művészeti gyűjteménynek ad otthont. Egyedülálló betekintést nyújt történelmi kézműves alkotásokba és tárgyakba.",
+                  "category": "museum",
+                  "coords": [
+                        12.582385,
+                        55.68428
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Amalienborg",
+                  "text": "Az Islands Brygge-i Amalienborg Királyi Gyűjtemény a királyi történelmet mutatja be. A látogatók itt megtekinthetik a dán monarchia történelmi tárgyait.",
+                  "category": "museum",
+                  "coords": [
+                        12.592452,
+                        55.684455
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Rosenborg",
+                  "text": "Az Islands Brygge-i Rosenborg Királyi Gyűjtemény királyi kincseket őriz. Kötelező látnivaló mindazok számára, akiket érdekel a dán történelem.",
+                  "category": "museum",
+                  "coords": [
+                        12.577322,
+                        55.685756
+                  ]
+            },
+            {
+                  "name": "Kongernes Lapidarium",
+                  "text": "Az Islands Brygge-i Királyi Lapidárium történelmi kőfaragványokat mutat be. Lenyűgöző gyűjtemény a kultúrtörténet iránt érdeklődő látogatók számára.",
+                  "category": "museum",
+                  "coords": [
+                        12.57974,
+                        55.673127
+                  ]
+            },
+            {
+                  "name": "Magasin du Nord Museum",
+                  "text": "Az Islands Brygge-i Magasin du Nord Múzeum a kereskedelem történetét világítja meg. Érdekes állomás a kultúrtörténeti érdeklődésű felfedezők számára.",
+                  "category": "museum",
+                  "coords": [
+                        12.58401,
+                        55.678754
+                  ]
+            },
+            {
+                  "name": "Dansk Arkitektur Center",
+                  "text": "Az Islands Brygge-i Dán Építészeti Központ a modern dizájnnak szenteli magát. A látogatók inspiráló kiállításokat találnak az építészeti újításokról.",
+                  "category": "museum",
+                  "coords": [
+                        12.579059,
+                        55.671989
+                  ]
+            },
+            {
+                  "name": "Krigsmuseet",
+                  "text": "Az Islands Brygge-i Háborús Múzeum a dán hadtörténetet járja körül. Tanulságos utazást kínál a katonai eseményeken és tárgyakon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        12.580305,
+                        55.674262
+                  ]
+            },
+            {
+                  "name": "Arbejdermuseet",
+                  "text": "Az Islands Brygge-i Munkásmúzeum a múlt generációinak életét mutatja be. Fontos hely a dán társadalomtörténet megértéséhez.",
+                  "category": "museum",
+                  "coords": [
+                        12.570324,
+                        55.684807
+                  ]
+            },
+            {
+                  "name": "Orlogsmuseet",
+                  "text": "Az Islands Brygge-i Orlogsmuseet a dán haditengerészeti történelmet dokumentálja. A látogatók izgalmas hajózási kiállításokat fedeznek fel itt.",
+                  "category": "museum",
+                  "coords": [
+                        12.594949,
+                        55.674122
+                  ]
+            },
+            {
+                  "name": "Lille Mølle",
+                  "text": "A Lille Mølle az Islands Brygge-n egy bájos történelmi múzeum. Meghitt betekintést nyújt a múlt korok életmódjába.",
+                  "category": "museum",
+                  "coords": [
+                        12.596285,
+                        55.671499
+                  ]
+            },
+            {
+                  "name": "Københavns Museum",
+                  "text": "A Koppenhágai Múzeum az Islands Brygge-n a városfejlődést mutatja be. A látogatók informatív gyűjteményt találnak Koppenhága történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        12.572485,
+                        55.674382
+                  ]
+            },
+            {
+                  "name": "DieselHouse",
+                  "text": "Az Islands Brygge-i DieselHouse az ipartörténetet és a technikát világítja meg. Lenyűgöző célpont a technika és a történelem szerelmeseinek.",
+                  "category": "museum",
+                  "coords": [
+                        12.555132,
+                        55.656595
+                  ]
+            },
+            {
+                  "name": "Galerie Birch",
+                  "text": "A Galerie Birch egy elismert modern művészeti galéria Islands Brygge-ben. A látogatók változatos kortárs alkotásokat fedezhetnek fel a központi elhelyezkedésű intézményben.",
+                  "category": "museum",
+                  "coords": [
+                        12.588069,
+                        55.681392
+                  ]
+            },
+            {
+                  "name": "Edition Copenhagen",
+                  "text": "Az Edition Copenhagen egy ismert galéria Islands Brygge-ben, amely kiváló minőségű nyomatokra specializálódott. A látogatás betekintést nyújt a művészek és a professzionális nyomdászok együttműködésébe.",
+                  "category": "museum",
+                  "coords": [
+                        12.594148,
+                        55.676224
+                  ]
+            },
+            {
+                  "name": "Faste Batteri",
+                  "text": "A Faste Batteri egy történelmi régészeti lelőhely Islands Brygge-ben. A terület katonai múltjáról tanúskodik, és ma érdekes célpont a történelem iránt érdeklődők számára.",
+                  "category": "historical",
+                  "coords": [
+                        12.586442,
+                        55.664788
+                  ]
+            },
+            {
+                  "name": "Jarmers Tårn",
+                  "text": "A Jarmers Tårn Islands Brygge-ben egy középkori védőtorony maradványa. A romok kicsi, de figyelemre méltó betekintést nyújtanak a város egykori erődítményeibe.",
+                  "category": "historical",
+                  "coords": [
+                        12.56568,
+                        55.678815
+                  ]
+            },
+            {
+                  "name": "Frihedsstøtten",
+                  "text": "A Frihedsstøtten egy figyelemre méltó emlékmű Islands Brygge-ben. Történelmi eseményekre emlékeztet, és a régió fontos kulturális mérföldköve.",
+                  "category": "historical",
+                  "coords": [
+                        12.563294,
+                        55.674203
+                  ]
+            },
+            {
+                  "name": "Bremen Teater",
+                  "text": "A Bremen Teater Islands Brygge-ben az élő szórakoztatás és előadások népszerű központja. A vendégek változatos kulturális eseményeket élvezhetnek hangulatos környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561025,
+                        55.676546
+                  ]
+            },
+            {
+                  "name": "Folketeatret",
+                  "text": "A Folketeatret Islands Brygge-ben a város egyik legrégebbi és leghagyományosabb színháza. Klasszikus és modern színpadi művek változatos programját kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        12.570939,
+                        55.681465
+                  ]
+            },
+            {
+                  "name": "Cirkusbygningen",
+                  "text": "A Cirkusbygningen Islands Brygge-ben egy egyedülálló színházépület, amely látványos műsorairól ismert. Építészete és történelme jelentős kulturális vonzerővé teszi.",
+                  "category": "cultural",
+                  "coords": [
+                        12.565129,
+                        55.676088
+                  ]
+            },
+            {
+                  "name": "Pantomimeteatret",
+                  "text": "A Pantomimeteatret Islands Brygge-ben a hagyományos pantomim előadásairól híres. Egyedülálló kulturális élményt nyújt a város szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        12.566564,
+                        55.674506
                   ]
             }
       ],
@@ -40445,6 +43568,213 @@ export const denmarkCitiesV2: POI[] = [
                         12.610545,
                         55.68942
                   ]
+            },
+            {
+                  "name": "Dansk Jødisk Museum",
+                  "text": "Muzeul Evreiesc Danez de pe Islands Brygge documentează istoria evreiască. Oferă perspective valoroase prin expoziții și colecții istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.582303,
+                        55.674365
+                  ]
+            },
+            {
+                  "name": "Medicinsk Museion",
+                  "text": "Muzeul Medical de pe Islands Brygge prezintă evoluția medicinei. Vizitatorii pot descoperi aici exponate fascinante despre istoria sănătății.",
+                  "category": "museum",
+                  "coords": [
+                        12.591896,
+                        55.685958
+                  ]
+            },
+            {
+                  "name": "Davids Samling",
+                  "text": "Davids Samling de pe Islands Brygge găzduiește o colecție de artă semnificativă. Oferă o privire unică asupra artizanatului și artefactelor istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.582385,
+                        55.68428
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Amalienborg",
+                  "text": "Kongernes Samling Amalienborg de pe Islands Brygge prezintă istoria regală. Vizitatorii pot vedea aici artefacte istorice ale monarhiei daneze.",
+                  "category": "museum",
+                  "coords": [
+                        12.592452,
+                        55.684455
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Rosenborg",
+                  "text": "Kongernes Samling Rosenborg de pe Islands Brygge găzduiește comori regale. Este un obiectiv obligatoriu pentru toți cei interesați de istoria daneză.",
+                  "category": "museum",
+                  "coords": [
+                        12.577322,
+                        55.685756
+                  ]
+            },
+            {
+                  "name": "Kongernes Lapidarium",
+                  "text": "Kongernes Lapidarium de pe Islands Brygge prezintă sculpturi în piatră istorice. Este o colecție fascinantă pentru vizitatorii interesați de istoria culturală.",
+                  "category": "museum",
+                  "coords": [
+                        12.57974,
+                        55.673127
+                  ]
+            },
+            {
+                  "name": "Magasin du Nord Museum",
+                  "text": "Muzeul Magasin du Nord de pe Islands Brygge evidențiază istoria comerțului. Este o oprire interesantă pentru exploratorii orientați spre istoria culturală.",
+                  "category": "museum",
+                  "coords": [
+                        12.58401,
+                        55.678754
+                  ]
+            },
+            {
+                  "name": "Dansk Arkitektur Center",
+                  "text": "Centrul Danez de Arhitectură de pe Islands Brygge este dedicat designului modern. Vizitatorii pot găsi aici expoziții inspiraționale despre inovațiile arhitecturale.",
+                  "category": "museum",
+                  "coords": [
+                        12.579059,
+                        55.671989
+                  ]
+            },
+            {
+                  "name": "Krigsmuseet",
+                  "text": "Muzeul de Război de pe Islands Brygge abordează istoria militară daneză. Oferă o călătorie educativă prin evenimente și artefacte militare.",
+                  "category": "museum",
+                  "coords": [
+                        12.580305,
+                        55.674262
+                  ]
+            },
+            {
+                  "name": "Arbejdermuseet",
+                  "text": "Muzeul Muncitorilor de pe Islands Brygge arată viața generațiilor trecute. Este un loc important pentru a înțelege istoria socială daneză.",
+                  "category": "museum",
+                  "coords": [
+                        12.570324,
+                        55.684807
+                  ]
+            },
+            {
+                  "name": "Orlogsmuseet",
+                  "text": "Orlogsmuseet de pe Islands Brygge documentează istoria navală daneză. Vizitatorii descoperă aici exponate fascinante despre navigație.",
+                  "category": "museum",
+                  "coords": [
+                        12.594949,
+                        55.674122
+                  ]
+            },
+            {
+                  "name": "Lille Mølle",
+                  "text": "Lille Mølle de pe Islands Brygge este un muzeu istoric fermecător. Oferă o privire intimă asupra stilului de viață din vremurile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        12.596285,
+                        55.671499
+                  ]
+            },
+            {
+                  "name": "Københavns Museum",
+                  "text": "Muzeul din Copenhaga de pe Islands Brygge arată dezvoltarea orașului. Vizitatorii pot găsi aici o colecție informativă despre istoria orașului Copenhaga.",
+                  "category": "museum",
+                  "coords": [
+                        12.572485,
+                        55.674382
+                  ]
+            },
+            {
+                  "name": "DieselHouse",
+                  "text": "DieselHouse de pe Islands Brygge evidențiază istoria industrială și tehnologia. Este o destinație fascinantă pentru pasionații de tehnică și istorie.",
+                  "category": "museum",
+                  "coords": [
+                        12.555132,
+                        55.656595
+                  ]
+            },
+            {
+                  "name": "Galerie Birch",
+                  "text": "Galerie Birch din Islands Brygge este o galerie renumită de artă modernă. Vizitatorii pot descoperi aici o selecție diversificată de lucrări contemporane într-o locație centrală.",
+                  "category": "museum",
+                  "coords": [
+                        12.588069,
+                        55.681392
+                  ]
+            },
+            {
+                  "name": "Edition Copenhagen",
+                  "text": "Edition Copenhagen este o galerie cunoscută din Islands Brygge, specializată în tipărituri de înaltă calitate. O vizită oferă perspective asupra colaborării dintre artiști și tipografii profesioniști.",
+                  "category": "museum",
+                  "coords": [
+                        12.594148,
+                        55.676224
+                  ]
+            },
+            {
+                  "name": "Faste Batteri",
+                  "text": "Faste Batteri din Islands Brygge este un sit arheologic istoric. Acesta mărturisește trecutul militar al zonei și este astăzi o destinație interesantă pentru pasionații de istorie.",
+                  "category": "historical",
+                  "coords": [
+                        12.586442,
+                        55.664788
+                  ]
+            },
+            {
+                  "name": "Jarmers Tårn",
+                  "text": "Jarmers Tårn din Islands Brygge reprezintă ruinele unui turn de apărare medieval. Acestea oferă o privire mică, dar distinctă, asupra fostelor fortificații ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        12.56568,
+                        55.678815
+                  ]
+            },
+            {
+                  "name": "Frihedsstøtten",
+                  "text": "Frihedsstøtten este un monument proeminent în Islands Brygge. Acesta comemorează evenimente istorice și reprezintă un reper cultural important al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        12.563294,
+                        55.674203
+                  ]
+            },
+            {
+                  "name": "Bremen Teater",
+                  "text": "Bremen Teater din Islands Brygge este un centru popular pentru divertisment live și spectacole. Oaspeții pot experimenta aici diverse evenimente culturale într-un cadru atmosferic.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561025,
+                        55.676546
+                  ]
+            },
+            {
+                  "name": "Folketeatret",
+                  "text": "Folketeatret din Islands Brygge este unul dintre cele mai vechi și tradiționale teatre din oraș. Acesta oferă un program variat de opere clasice și moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        12.570939,
+                        55.681465
+                  ]
+            },
+            {
+                  "name": "Cirkusbygningen",
+                  "text": "Cirkusbygningen din Islands Brygge este o clădire de teatru unică, cunoscută pentru spectacolele sale impresionante. Arhitectura și istoria sa o fac un punct de atracție culturală semnificativ.",
+                  "category": "cultural",
+                  "coords": [
+                        12.565129,
+                        55.676088
+                  ]
+            },
+            {
+                  "name": "Pantomimeteatret",
+                  "text": "Pantomimeteatret din Islands Brygge este faimos pentru reprezentațiile sale tradiționale de pantomimă. Oferă o experiență culturală unică în inima orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        12.566564,
+                        55.674506
+                  ]
             }
       ],
       "en": [
@@ -40788,6 +44118,213 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.610545,
                         55.68942
+                  ]
+            },
+            {
+                  "name": "Danish Jewish Museum",
+                  "text": "The Danish Jewish Museum on Islands Brygge documents Jewish history. It provides valuable insights through exhibitions and historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        12.582303,
+                        55.674365
+                  ]
+            },
+            {
+                  "name": "Medical Museion",
+                  "text": "The Medical Museion on Islands Brygge shows the development of medicine. Visitors can discover fascinating exhibits on the history of health here.",
+                  "category": "museum",
+                  "coords": [
+                        12.591896,
+                        55.685958
+                  ]
+            },
+            {
+                  "name": "The David Collection",
+                  "text": "The David Collection on Islands Brygge houses a significant art collection. It offers a unique insight into historical crafts and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        12.582385,
+                        55.68428
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Amalienborg",
+                  "text": "The King's Collection Amalienborg on Islands Brygge showcases royal history. Visitors can see historical artifacts of the Danish monarchy here.",
+                  "category": "museum",
+                  "coords": [
+                        12.592452,
+                        55.684455
+                  ]
+            },
+            {
+                  "name": "Kongernes Samling Rosenborg",
+                  "text": "The King's Collection Rosenborg on Islands Brygge houses royal treasures. It is a must-see for anyone interested in Danish history.",
+                  "category": "museum",
+                  "coords": [
+                        12.577322,
+                        55.685756
+                  ]
+            },
+            {
+                  "name": "The Lapidarium of Kings",
+                  "text": "The Lapidarium of Kings on Islands Brygge showcases historical stonework. It is a fascinating collection for visitors interested in cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        12.57974,
+                        55.673127
+                  ]
+            },
+            {
+                  "name": "Magasin du Nord Museum",
+                  "text": "The Magasin du Nord Museum on Islands Brygge highlights the history of trade. It is an interesting stop for explorers interested in cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        12.58401,
+                        55.678754
+                  ]
+            },
+            {
+                  "name": "Dansk Arkitektur Center",
+                  "text": "The Danish Architecture Center on Islands Brygge is dedicated to modern design. Visitors will find inspiring exhibitions on architectural innovations here.",
+                  "category": "museum",
+                  "coords": [
+                        12.579059,
+                        55.671989
+                  ]
+            },
+            {
+                  "name": "Danish War Museum",
+                  "text": "The War Museum on Islands Brygge addresses Danish military history. It offers an educational journey through military events and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        12.580305,
+                        55.674262
+                  ]
+            },
+            {
+                  "name": "Worker's Museum",
+                  "text": "The Worker's Museum on Islands Brygge shows the life of past generations. It is an important place to understand Danish social history.",
+                  "category": "museum",
+                  "coords": [
+                        12.570324,
+                        55.684807
+                  ]
+            },
+            {
+                  "name": "Orlogsmuseet",
+                  "text": "The Orlogsmuseet on Islands Brygge documents Danish naval history. Visitors discover exciting exhibits about seafaring here.",
+                  "category": "museum",
+                  "coords": [
+                        12.594949,
+                        55.674122
+                  ]
+            },
+            {
+                  "name": "Lille Mølle",
+                  "text": "Lille Mølle on Islands Brygge is a charming historical museum. It offers an intimate glimpse into the lifestyle of past times.",
+                  "category": "museum",
+                  "coords": [
+                        12.596285,
+                        55.671499
+                  ]
+            },
+            {
+                  "name": "Museum of Copenhagen",
+                  "text": "The Museum of Copenhagen on Islands Brygge shows urban development. Visitors find an informative collection on the history of Copenhagen here.",
+                  "category": "museum",
+                  "coords": [
+                        12.572485,
+                        55.674382
+                  ]
+            },
+            {
+                  "name": "DieselHouse",
+                  "text": "The DieselHouse on Islands Brygge highlights industrial history and technology. It is a fascinating destination for technology and history enthusiasts.",
+                  "category": "museum",
+                  "coords": [
+                        12.555132,
+                        55.656595
+                  ]
+            },
+            {
+                  "name": "Galerie Birch",
+                  "text": "Galerie Birch in Islands Brygge is a renowned gallery for modern art. Visitors can discover a diverse selection of contemporary works in this centrally located institution.",
+                  "category": "museum",
+                  "coords": [
+                        12.588069,
+                        55.681392
+                  ]
+            },
+            {
+                  "name": "Edition Copenhagen",
+                  "text": "Edition Copenhagen is a well-known gallery in Islands Brygge, specializing in high-quality prints. A visit offers insights into the collaboration between artists and professional printers.",
+                  "category": "museum",
+                  "coords": [
+                        12.594148,
+                        55.676224
+                  ]
+            },
+            {
+                  "name": "Faste Batteri",
+                  "text": "Faste Batteri in Islands Brygge is a historic archaeological site. It bears witness to the area's military past and is an interesting destination for history enthusiasts today.",
+                  "category": "historical",
+                  "coords": [
+                        12.586442,
+                        55.664788
+                  ]
+            },
+            {
+                  "name": "Jarmers Tårn",
+                  "text": "Jarmers Tårn in Islands Brygge are the remains of a medieval defensive tower. The ruins offer a small but distinctive glimpse into the city's former fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        12.56568,
+                        55.678815
+                  ]
+            },
+            {
+                  "name": "Frihedsstøtten",
+                  "text": "Frihedsstøtten is a prominent monument in Islands Brygge. It commemorates historical events and serves as an important cultural landmark in the region.",
+                  "category": "historical",
+                  "coords": [
+                        12.563294,
+                        55.674203
+                  ]
+            },
+            {
+                  "name": "Bremen Teater",
+                  "text": "Bremen Teater in Islands Brygge is a popular hub for live entertainment and performances. Guests can experience a variety of cultural events in an atmospheric setting.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561025,
+                        55.676546
+                  ]
+            },
+            {
+                  "name": "Folketeatret",
+                  "text": "Folketeatret in Islands Brygge is one of the city's oldest and most traditional theaters. It offers a varied program of classic and modern stage works.",
+                  "category": "cultural",
+                  "coords": [
+                        12.570939,
+                        55.681465
+                  ]
+            },
+            {
+                  "name": "Cirkusbygningen",
+                  "text": "Cirkusbygningen in Islands Brygge is a unique theater building known for its spectacular shows. Its architecture and history make it a significant cultural attraction.",
+                  "category": "cultural",
+                  "coords": [
+                        12.565129,
+                        55.676088
+                  ]
+            },
+            {
+                  "name": "Pantomimeteatret",
+                  "text": "The Pantomimeteatret in Islands Brygge is famous for its traditional pantomime performances. It offers a unique cultural experience in the heart of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        12.566564,
+                        55.674506
                   ]
             }
       ]
@@ -44005,6 +47542,231 @@ export const denmarkCitiesV2: POI[] = [
                         12.571657,
                         55.77588
                   ]
+            },
+            {
+                  "name": "Buddinge Batteri",
+                  "text": "Das Buddinge Batteri in Dyssegard ist eine historische Verteidigungsanlage mit großer lokaler Bedeutung. Besucher können die alten Befestigungen erkunden und mehr über die Militärgeschichte erfahren.",
+                  "category": "castle",
+                  "coords": [
+                        12.500453,
+                        55.739047
+                  ]
+            },
+            {
+                  "name": "Tinghøj Batteri",
+                  "text": "Das Tinghøj Batteri in Dyssegard ist eine historische Verteidigungsanlage mit großer lokaler Bedeutung. Besucher können die alten Befestigungen erkunden und mehr über die Militärgeschichte erfahren.",
+                  "category": "fortress",
+                  "coords": [
+                        12.491487,
+                        55.735213
+                  ]
+            },
+            {
+                  "name": "Vangede Batteri",
+                  "text": "Das Vangede Batteri in Dyssegard ist eine historische Verteidigungsanlage mit großer lokaler Bedeutung. Besucher können die alten Befestigungen erkunden und mehr über die Militärgeschichte erfahren.",
+                  "category": "fortress",
+                  "coords": [
+                        12.514861,
+                        55.7509
+                  ]
+            },
+            {
+                  "name": "Bellahøj Kirke",
+                  "text": "Die Bellahøj Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.509623,
+                        55.705429
+                  ]
+            },
+            {
+                  "name": "Brønshøj Kirke",
+                  "text": "Die Brønshøj Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.498717,
+                        55.705837
+                  ]
+            },
+            {
+                  "name": "Gentofte Kirke",
+                  "text": "Die Gentofte Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.541772,
+                        55.750019
+                  ]
+            },
+            {
+                  "name": "Vangede Kirke",
+                  "text": "Die Vangede Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.521658,
+                        55.747124
+                  ]
+            },
+            {
+                  "name": "Hamad Bin Khalifa Civilisation Center",
+                  "text": "Das Hamad Bin Khalifa Civilisation Center in Dyssegard dient als bedeutendes religiöses und kulturelles Zentrum. Es ist ein wichtiger Treffpunkt für die Gemeinschaft und bietet Raum für Gebet und Austausch.",
+                  "category": "religious",
+                  "coords": [
+                        12.548839,
+                        55.708347
+                  ]
+            },
+            {
+                  "name": "Tagensbo Kirke",
+                  "text": "Die Tagensbo Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.534249,
+                        55.708344
+                  ]
+            },
+            {
+                  "name": "Lundehus Kirke",
+                  "text": "Die Lundehus Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.555779,
+                        55.717541
+                  ]
+            },
+            {
+                  "name": "Haraldskirken",
+                  "text": "Die Haraldskirken ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.498311,
+                        55.729059
+                  ]
+            },
+            {
+                  "name": "Nordvestkirken",
+                  "text": "Die Nordvestkirken ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.515933,
+                        55.709352
+                  ]
+            },
+            {
+                  "name": "Buddinge Kirke",
+                  "text": "Die Buddinge Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.494906,
+                        55.744214
+                  ]
+            },
+            {
+                  "name": "Dyssegårdskirken",
+                  "text": "Die Dyssegårdskirken ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.540717,
+                        55.731938
+                  ]
+            },
+            {
+                  "name": "Helleruplund Kirke",
+                  "text": "Die Helleruplund Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.555277,
+                        55.736287
+                  ]
+            },
+            {
+                  "name": "Søborg Kirke",
+                  "text": "Die Søborg Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.511845,
+                        55.735147
+                  ]
+            },
+            {
+                  "name": "Emdrup Kirke",
+                  "text": "Die Emdrup Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.528504,
+                        55.721297
+                  ]
+            },
+            {
+                  "name": "Søborgmagle Kirke",
+                  "text": "Die Søborgmagle Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.509728,
+                        55.723053
+                  ]
+            },
+            {
+                  "name": "Tingbjerg Kirke",
+                  "text": "Die Tingbjerg Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.479139,
+                        55.719243
+                  ]
+            },
+            {
+                  "name": "Sankt Therese Kirke",
+                  "text": "Die Sankt Therese Kirke ist ein markantes religiöses Bauwerk in Dyssegard. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        12.555979,
+                        55.730852
+                  ]
+            },
+            {
+                  "name": "Tauba Moskeen",
+                  "text": "Die Tauba Moskeen ist eine Moschee in Dyssegard, die als Ort des Gebets und der Gemeinschaft dient. Besucher können die schlichte Architektur dieses religiösen Zentrums im Norden von Kopenhagen besichtigen.",
+                  "category": "religious",
+                  "coords": [
+                        12.525374,
+                        55.708299
+                  ]
+            },
+            {
+                  "name": "Grundtvigs Kirke",
+                  "text": "Die Grundtvigs Kirke in Dyssegard ist ein berühmtes Beispiel expressionistischer Kirchenarchitektur mit einer beeindruckenden Fassade. Das markante Bauwerk ist für seine einzigartige Gestaltung und die weite Innenhalle bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.533894,
+                        55.716584
+                  ]
+            },
+            {
+                  "name": "Gammelmose",
+                  "text": "Gammelmose ist ein Naturschutzgebiet in Dyssegard, das für seine Moorlandschaft und die lokale Flora bekannt ist. Wanderwege führen Besucher durch dieses geschützte Ökosystem in Stadtnähe.",
+                  "category": "natural",
+                  "coords": [
+                        12.504027,
+                        55.754325
+                  ]
+            },
+            {
+                  "name": "Mindelunden",
+                  "text": "Mindelunden in Dyssegard ist ein Gedenkpark, der den dänischen Widerstandskämpfern des Zweiten Weltkriegs gewidmet ist. Die Anlage bietet einen ruhigen Ort für Besinnung und historische Erinnerung inmitten von Grünanlagen.",
+                  "category": "park",
+                  "coords": [
+                        12.565933,
+                        55.72589
+                  ]
+            },
+            {
+                  "name": "Ryvangens Naturpark",
+                  "text": "Der Ryvangens Naturpark ist eine öffentliche Grünanlage in Dyssegard, die Raum für Erholung und Spaziergänge im Freien bietet. Die Parklandschaft zeichnet sich durch ihre abwechslungsreiche Vegetation und ruhige Atmosphäre aus.",
+                  "category": "park",
+                  "coords": [
+                        12.565375,
+                        55.723676
+                  ]
             }
       ],
       "hu": [
@@ -44231,6 +47993,231 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.571657,
                         55.77588
+                  ]
+            },
+            {
+                  "name": "Buddinge Batteri",
+                  "text": "A Dyssegard városában található Buddinge Batteri nagy helyi jelentőségű történelmi védelmi létesítmény. A látogatók felfedezhetik a régi erődítményeket, és többet tudhatnak meg a hadtörténetről.",
+                  "category": "castle",
+                  "coords": [
+                        12.500453,
+                        55.739047
+                  ]
+            },
+            {
+                  "name": "Tinghøj Batteri",
+                  "text": "A Dyssegard városában található Tinghøj Batteri nagy helyi jelentőségű történelmi védelmi létesítmény. A látogatók felfedezhetik a régi erődítményeket, és többet tudhatnak meg a hadtörténetről.",
+                  "category": "fortress",
+                  "coords": [
+                        12.491487,
+                        55.735213
+                  ]
+            },
+            {
+                  "name": "Vangede Batteri",
+                  "text": "A Dyssegard városában található Vangede Batteri nagy helyi jelentőségű történelmi védelmi létesítmény. A látogatók felfedezhetik a régi erődítményeket, és többet tudhatnak meg a hadtörténetről.",
+                  "category": "fortress",
+                  "coords": [
+                        12.514861,
+                        55.7509
+                  ]
+            },
+            {
+                  "name": "Bellahøj Kirke",
+                  "text": "A(z) Bellahøj Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.509623,
+                        55.705429
+                  ]
+            },
+            {
+                  "name": "Brønshøj Kirke",
+                  "text": "A(z) Brønshøj Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.498717,
+                        55.705837
+                  ]
+            },
+            {
+                  "name": "Gentofte Kirke",
+                  "text": "A(z) Gentofte Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.541772,
+                        55.750019
+                  ]
+            },
+            {
+                  "name": "Vangede Kirke",
+                  "text": "A(z) Vangede Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.521658,
+                        55.747124
+                  ]
+            },
+            {
+                  "name": "Hamad Bin Khalifa Civilisation Center",
+                  "text": "A Dyssegard városában található Hamad Bin Khalifa Civilisation Center fontos vallási és kulturális központként szolgál. A közösség jelentős találkozóhelye, amely teret biztosít az imádságnak és a párbeszédnek.",
+                  "category": "religious",
+                  "coords": [
+                        12.548839,
+                        55.708347
+                  ]
+            },
+            {
+                  "name": "Tagensbo Kirke",
+                  "text": "A(z) Tagensbo Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.534249,
+                        55.708344
+                  ]
+            },
+            {
+                  "name": "Lundehus Kirke",
+                  "text": "A(z) Lundehus Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.555779,
+                        55.717541
+                  ]
+            },
+            {
+                  "name": "Haraldskirken",
+                  "text": "A(z) Haraldskirken egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.498311,
+                        55.729059
+                  ]
+            },
+            {
+                  "name": "Nordvestkirken",
+                  "text": "A(z) Nordvestkirken egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.515933,
+                        55.709352
+                  ]
+            },
+            {
+                  "name": "Buddinge Kirke",
+                  "text": "A(z) Buddinge Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.494906,
+                        55.744214
+                  ]
+            },
+            {
+                  "name": "Dyssegårdskirken",
+                  "text": "A(z) Dyssegårdskirken egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.540717,
+                        55.731938
+                  ]
+            },
+            {
+                  "name": "Helleruplund Kirke",
+                  "text": "A(z) Helleruplund Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.555277,
+                        55.736287
+                  ]
+            },
+            {
+                  "name": "Søborg Kirke",
+                  "text": "A(z) Søborg Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.511845,
+                        55.735147
+                  ]
+            },
+            {
+                  "name": "Emdrup Kirke",
+                  "text": "A(z) Emdrup Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.528504,
+                        55.721297
+                  ]
+            },
+            {
+                  "name": "Søborgmagle Kirke",
+                  "text": "A(z) Søborgmagle Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.509728,
+                        55.723053
+                  ]
+            },
+            {
+                  "name": "Tingbjerg Kirke",
+                  "text": "A(z) Tingbjerg Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.479139,
+                        55.719243
+                  ]
+            },
+            {
+                  "name": "Sankt Therese Kirke",
+                  "text": "A(z) Sankt Therese Kirke egy jellegzetes vallási épület Dyssegard városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        12.555979,
+                        55.730852
+                  ]
+            },
+            {
+                  "name": "Tauba Moskeen",
+                  "text": "A Tauba Moskeen egy mecset Dyssegardban, amely imádság és közösségi események helyszíneként szolgál. A látogatók megtekinthetik a vallási központ épületét Koppenhága északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        12.525374,
+                        55.708299
+                  ]
+            },
+            {
+                  "name": "Grundtvigs Kirke",
+                  "text": "A Grundtvigs Kirke Dyssegardban az expresszionista templomépítészet híres példája, lenyűgöző homlokzattal. A jellegzetes épület egyedi kialakításáról és tágas belső teréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.533894,
+                        55.716584
+                  ]
+            },
+            {
+                  "name": "Gammelmose",
+                  "text": "A Gammelmose egy természetvédelmi terület Dyssegardban, amely lápvidékéről és helyi növényvilágáról ismert. A túraútvonalak a város közeli védett ökoszisztémán vezetik keresztül a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        12.504027,
+                        55.754325
+                  ]
+            },
+            {
+                  "name": "Mindelunden",
+                  "text": "A Mindelunden Dyssegardban egy emlékpark, amelyet a második világháborús dán ellenállási harcosoknak szenteltek. A helyszín csendes környezetet biztosít az emlékezésre és a történelmi tisztelgésre a zöldövezetben.",
+                  "category": "park",
+                  "coords": [
+                        12.565933,
+                        55.72589
+                  ]
+            },
+            {
+                  "name": "Ryvangens Naturpark",
+                  "text": "A Ryvangens Naturpark egy nyilvános zöldterület Dyssegardban, amely pihenésre és szabadtéri sétákra kínál lehetőséget. A parkos tájat változatos növényzet és nyugodt légkör jellemzi.",
+                  "category": "park",
+                  "coords": [
+                        12.565375,
+                        55.723676
                   ]
             }
       ],
@@ -44459,6 +48446,231 @@ export const denmarkCitiesV2: POI[] = [
                         12.571657,
                         55.77588
                   ]
+            },
+            {
+                  "name": "Buddinge Batteri",
+                  "text": "Buddinge Batteri din Dyssegard este o fortificație istorică cu o mare importanță locală. Vizitatorii pot explora vechile fortificații și pot afla mai multe despre istoria militară.",
+                  "category": "castle",
+                  "coords": [
+                        12.500453,
+                        55.739047
+                  ]
+            },
+            {
+                  "name": "Tinghøj Batteri",
+                  "text": "Tinghøj Batteri din Dyssegard este o fortificație istorică cu o mare importanță locală. Vizitatorii pot explora vechile fortificații și pot afla mai multe despre istoria militară.",
+                  "category": "fortress",
+                  "coords": [
+                        12.491487,
+                        55.735213
+                  ]
+            },
+            {
+                  "name": "Vangede Batteri",
+                  "text": "Vangede Batteri din Dyssegard este o fortificație istorică cu o mare importanță locală. Vizitatorii pot explora vechile fortificații și pot afla mai multe despre istoria militară.",
+                  "category": "fortress",
+                  "coords": [
+                        12.514861,
+                        55.7509
+                  ]
+            },
+            {
+                  "name": "Bellahøj Kirke",
+                  "text": "Bellahøj Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.509623,
+                        55.705429
+                  ]
+            },
+            {
+                  "name": "Brønshøj Kirke",
+                  "text": "Brønshøj Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.498717,
+                        55.705837
+                  ]
+            },
+            {
+                  "name": "Gentofte Kirke",
+                  "text": "Gentofte Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clăarea sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.541772,
+                        55.750019
+                  ]
+            },
+            {
+                  "name": "Vangede Kirke",
+                  "text": "Vangede Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.521658,
+                        55.747124
+                  ]
+            },
+            {
+                  "name": "Hamad Bin Khalifa Civilisation Center",
+                  "text": "Hamad Bin Khalifa Civilisation Center din Dyssegard servește ca un important centru religios și cultural. Este un loc de întâlnire semnificativ pentru comunitate, oferind spațiu pentru rugăciune și schimburi culturale.",
+                  "category": "religious",
+                  "coords": [
+                        12.548839,
+                        55.708347
+                  ]
+            },
+            {
+                  "name": "Tagensbo Kirke",
+                  "text": "Tagensbo Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.534249,
+                        55.708344
+                  ]
+            },
+            {
+                  "name": "Lundehus Kirke",
+                  "text": "Lundehus Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.555779,
+                        55.717541
+                  ]
+            },
+            {
+                  "name": "Haraldskirken",
+                  "text": "Haraldskirken este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.498311,
+                        55.729059
+                  ]
+            },
+            {
+                  "name": "Nordvestkirken",
+                  "text": "Nordvestkirken este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.515933,
+                        55.709352
+                  ]
+            },
+            {
+                  "name": "Buddinge Kirke",
+                  "text": "Buddinge Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.494906,
+                        55.744214
+                  ]
+            },
+            {
+                  "name": "Dyssegårdskirken",
+                  "text": "Dyssegårdskirken este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.540717,
+                        55.731938
+                  ]
+            },
+            {
+                  "name": "Helleruplund Kirke",
+                  "text": "Helleruplund Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.555277,
+                        55.736287
+                  ]
+            },
+            {
+                  "name": "Søborg Kirke",
+                  "text": "Søborg Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.511845,
+                        55.735147
+                  ]
+            },
+            {
+                  "name": "Emdrup Kirke",
+                  "text": "Emdrup Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.528504,
+                        55.721297
+                  ]
+            },
+            {
+                  "name": "Søborgmagle Kirke",
+                  "text": "Søborgmagle Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.509728,
+                        55.723053
+                  ]
+            },
+            {
+                  "name": "Tingbjerg Kirke",
+                  "text": "Tingbjerg Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.479139,
+                        55.719243
+                  ]
+            },
+            {
+                  "name": "Sankt Therese Kirke",
+                  "text": "Sankt Therese Kirke este un edificiu religios distinctiv în Dyssegard. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        12.555979,
+                        55.730852
+                  ]
+            },
+            {
+                  "name": "Tauba Moskeen",
+                  "text": "Tauba Moskeen este o moschee din Dyssegard, servind ca loc de rugăciune și comunitate. Vizitatorii pot vedea arhitectura acestui centru religios situat în nordul Copenhagăi.",
+                  "category": "religious",
+                  "coords": [
+                        12.525374,
+                        55.708299
+                  ]
+            },
+            {
+                  "name": "Grundtvigs Kirke",
+                  "text": "Grundtvigs Kirke din Dyssegard este un exemplu celebru de arhitectură bisericească expresionistă, având o fațadă impresionantă. Edificiul distinctiv este cunoscut pentru designul său unic și interiorul spațios.",
+                  "category": "landmark",
+                  "coords": [
+                        12.533894,
+                        55.716584
+                  ]
+            },
+            {
+                  "name": "Gammelmose",
+                  "text": "Gammelmose este o rezervație naturală din Dyssegard, cunoscută pentru peisajul său de mlaștină și flora locală. Traseele de drumeție ghidează vizitatorii prin acest ecosistem protejat din apropierea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        12.504027,
+                        55.754325
+                  ]
+            },
+            {
+                  "name": "Mindelunden",
+                  "text": "Mindelunden din Dyssegard este un parc memorial dedicat luptătorilor din rezistența daneză din al Doilea Război Mondial. Locația oferă un spațiu liniștit pentru reflecție și comemorare istorică în mijlocul spațiilor verzi.",
+                  "category": "park",
+                  "coords": [
+                        12.565933,
+                        55.72589
+                  ]
+            },
+            {
+                  "name": "Ryvangens Naturpark",
+                  "text": "Ryvangens Naturpark este un spațiu verde public din Dyssegard, oferind locuri pentru recreere și plimbări în aer liber. Peisajul parcului se remarcă prin vegetația sa variată și atmosfera liniștită.",
+                  "category": "park",
+                  "coords": [
+                        12.565375,
+                        55.723676
+                  ]
             }
       ],
       "en": [
@@ -44685,6 +48897,231 @@ export const denmarkCitiesV2: POI[] = [
                   "coords": [
                         12.571657,
                         55.77588
+                  ]
+            },
+            {
+                  "name": "Buddinge Batteri",
+                  "text": "The Buddinge Batteri in Dyssegard is a historical defensive site with great local significance. Visitors can explore the old fortifications and learn more about the military history.",
+                  "category": "castle",
+                  "coords": [
+                        12.500453,
+                        55.739047
+                  ]
+            },
+            {
+                  "name": "Tinghøj Batteri",
+                  "text": "The Tinghøj Batteri in Dyssegard is a historical defensive site with great local significance. Visitors can explore the old fortifications and learn more about the military history.",
+                  "category": "fortress",
+                  "coords": [
+                        12.491487,
+                        55.735213
+                  ]
+            },
+            {
+                  "name": "Vangede Batteri",
+                  "text": "The Vangede Batteri in Dyssegard is a historical defensive site with great local significance. Visitors can explore the old fortifications and learn more about the military history.",
+                  "category": "fortress",
+                  "coords": [
+                        12.514861,
+                        55.7509
+                  ]
+            },
+            {
+                  "name": "Bellahøj Kirke",
+                  "text": "The Bellahøj Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.509623,
+                        55.705429
+                  ]
+            },
+            {
+                  "name": "Brønshøj Kirke",
+                  "text": "The Brønshøj Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.498717,
+                        55.705837
+                  ]
+            },
+            {
+                  "name": "Gentofte Kirke",
+                  "text": "The Gentofte Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.541772,
+                        55.750019
+                  ]
+            },
+            {
+                  "name": "Vangede Kirke",
+                  "text": "The Vangede Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.521658,
+                        55.747124
+                  ]
+            },
+            {
+                  "name": "Hamad Bin Khalifa Civilisation Center",
+                  "text": "The Hamad Bin Khalifa Civilisation Center in Dyssegard serves as a significant religious and cultural centre. It is an important meeting place for the community, providing space for prayer and exchange.",
+                  "category": "religious",
+                  "coords": [
+                        12.548839,
+                        55.708347
+                  ]
+            },
+            {
+                  "name": "Tagensbo Kirke",
+                  "text": "The Tagensbo Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.534249,
+                        55.708344
+                  ]
+            },
+            {
+                  "name": "Lundehus Kirke",
+                  "text": "The Lundehus Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.555779,
+                        55.717541
+                  ]
+            },
+            {
+                  "name": "Haraldskirken",
+                  "text": "The Haraldskirken is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.498311,
+                        55.729059
+                  ]
+            },
+            {
+                  "name": "Nordvestkirken",
+                  "text": "The Nordvestkirken is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.515933,
+                        55.709352
+                  ]
+            },
+            {
+                  "name": "Buddinge Kirke",
+                  "text": "The Buddinge Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.494906,
+                        55.744214
+                  ]
+            },
+            {
+                  "name": "Dyssegårdskirken",
+                  "text": "The Dyssegårdskirken is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.540717,
+                        55.731938
+                  ]
+            },
+            {
+                  "name": "Helleruplund Kirke",
+                  "text": "The Helleruplund Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.555277,
+                        55.736287
+                  ]
+            },
+            {
+                  "name": "Søborg Kirke",
+                  "text": "The Søborg Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.511845,
+                        55.735147
+                  ]
+            },
+            {
+                  "name": "Emdrup Kirke",
+                  "text": "The Emdrup Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.528504,
+                        55.721297
+                  ]
+            },
+            {
+                  "name": "Søborgmagle Kirke",
+                  "text": "The Søborgmagle Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.509728,
+                        55.723053
+                  ]
+            },
+            {
+                  "name": "Tingbjerg Kirke",
+                  "text": "The Tingbjerg Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.479139,
+                        55.719243
+                  ]
+            },
+            {
+                  "name": "Sankt Therese Kirke",
+                  "text": "The Sankt Therese Kirke is a distinctive religious building in Dyssegard. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        12.555979,
+                        55.730852
+                  ]
+            },
+            {
+                  "name": "Tauba Moskeen",
+                  "text": "Tauba Moskeen is a mosque in Dyssegard that serves as a place of worship and community gathering. Visitors can observe the architecture of this religious center located in the northern part of the capital region.",
+                  "category": "religious",
+                  "coords": [
+                        12.525374,
+                        55.708299
+                  ]
+            },
+            {
+                  "name": "Grundtvigs Kirke",
+                  "text": "Grundtvigs Kirke in Dyssegard is a famous example of expressionist church architecture featuring an impressive facade. The landmark building is known for its unique design and vast interior hall.",
+                  "category": "landmark",
+                  "coords": [
+                        12.533894,
+                        55.716584
+                  ]
+            },
+            {
+                  "name": "Gammelmose",
+                  "text": "Gammelmose is a nature reserve in Dyssegard known for its bog landscape and local flora. Hiking trails lead visitors through this protected ecosystem located close to the urban area.",
+                  "category": "natural",
+                  "coords": [
+                        12.504027,
+                        55.754325
+                  ]
+            },
+            {
+                  "name": "Mindelunden",
+                  "text": "Mindelunden in Dyssegard is a memorial park dedicated to the Danish resistance fighters of World War II. The site offers a peaceful environment for reflection and historical remembrance set within green surroundings.",
+                  "category": "park",
+                  "coords": [
+                        12.565933,
+                        55.72589
+                  ]
+            },
+            {
+                  "name": "Ryvangens Naturpark",
+                  "text": "Ryvangens Naturpark is a public green space in Dyssegard that provides areas for recreation and outdoor walks. The parkland is characterized by its diverse vegetation and calm atmosphere.",
+                  "category": "park",
+                  "coords": [
+                        12.565375,
+                        55.723676
                   ]
             }
       ]
@@ -45093,7 +49530,412 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-karlslunde-cities-v2.webp",
   },
   {
-    id: "denmark-solrød-cities-v2", "sights": {"de": [{"name": "Ølsemagle Revle", "text": "Ølsemagle Revle ist ein Strand bei Solrød.", "category": "recreational", "coords": [12.20914, 55.495441]}, {"name": "Jersie Strand", "text": "Der Jersie Strand präsentiert ein ruhiges Stück der dänischen Küste und liegt friedlich bei der Stadt Solrød. Die lokale Umgebung kultiviert eine heitere und etwas abgeschiedene Atmosphäre, ideal für nachdenkliche Tage am Wasser. Man darf feine Gelegenheiten erwarten, in der sanften Brandung zu planschen oder entlang der Wasserlinie nach einzigartigen Muscheln zu suchen. Ein Besuch am späten Nachmittag belohnt Gäste oft mit einem atemberaubenden, weichen Licht am Meer.", "category": "recreational", "coords": [12.222947, 55.520727]}, {"name": "Mosede Sø", "text": "Mosede Sø ist ein See in Solrod, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [12.273615, 55.577001]}, {"name": "Fruens Mose", "text": "Fruens Mose ist ein See in Solrod, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [12.164623, 55.463196]}], "hu": [{"name": "Ølsemagle Revle", "text": "Az Ølsemagle Revle egy strand Solrød mellett.", "category": "recreational", "coords": [12.20914, 55.495441]}, {"name": "Jersie Strand", "text": "A dán tengerpart egy csendes szeletét bemutató Jersie Strand békésen fekszik Solrød városánál. A helyi környezet nyugodt és némileg elszigetelt légkört teremt, amely ideális az elmélyült, vízparti napokhoz. Finom lehetőségekre számíthat a lágy szörfözésre, vagy egyedi kagylók keresésére a vízpart mentén. A késő délutáni látogatás gyakran lenyűgöző, lágy tengerparti fénnyel jutalmazza a vendégeket.", "category": "recreational", "coords": [12.222947, 55.520727]}, {"name": "Mosede Sø", "text": "A Mosede Sø egy tó Solrod területén, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [12.273615, 55.577001]}, {"name": "Fruens Mose", "text": "A Fruens Mose egy tó Solrod területén, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [12.164623, 55.463196]}], "ro": [{"name": "Ølsemagle Revle", "text": "Ølsemagle Revle este o plajă lângă Solrød.", "category": "recreational", "coords": [12.20914, 55.495441]}, {"name": "Jersie Strand", "text": "Prezentând o felie liniștită a coastei daneze, Jersie Strand este așezată pașnic lângă orașul Solrød. Cadrul local cultivă o atmosferă senină și oarecum retrasă, ideală pentru zilele introspective lângă apă. Vă puteți aștepta la oportunități excelente de a vă bălăci în valurile blânde sau de a căuta scoici unice de-a lungul liniei apei. O vizită târziu după-amiaza răsplătește adesea oaspeții cu o lumină moale și uimitoare pe malul mării.", "category": "recreational", "coords": [12.222947, 55.520727]}, {"name": "Mosede Sø", "text": "Mosede Sø este un lac din Solrod, ideal pentru plimbări și pentru a te bucura de peisaj.", "category": "natural", "coords": [12.273615, 55.577001]}, {"name": "Fruens Mose", "text": "Fruens Mose este un lac din Solrod, ideal pentru plimbări și pentru a te bucura de peisaj.", "category": "natural", "coords": [12.164623, 55.463196]}], "en": [{"name": "Ølsemagle Revle", "text": "Ølsemagle Revle is a beach near Solrød.", "category": "recreational", "coords": [12.20914, 55.495441]}, {"name": "Jersie Strand", "text": "Presenting a quiet slice of the Danish coastline, Jersie Strand sits peacefully by the town of Solrød. The local setting cultivates a serene and somewhat secluded atmosphere, ideal for introspective days by the water. You can expect fine opportunities to paddle in the gentle surf or hunt for unique shells along the waterline. A late afternoon visit often rewards guests with a stunning, soft seaside light.", "category": "recreational", "coords": [12.222947, 55.520727]}, {"name": "Mosede Sø", "text": "Mosede Sø is a lake in Solrod, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [12.273615, 55.577001]}, {"name": "Fruens Mose", "text": "Fruens Mose is a lake in Solrod, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [12.164623, 55.463196]}]},
+    id: "denmark-solrød-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ølsemagle Revle",
+                  "text": "Ølsemagle Revle ist ein Strand bei Solrød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.20914,
+                        55.495441
+                  ]
+            },
+            {
+                  "name": "Jersie Strand",
+                  "text": "Der Jersie Strand präsentiert ein ruhiges Stück der dänischen Küste und liegt friedlich bei der Stadt Solrød. Die lokale Umgebung kultiviert eine heitere und etwas abgeschiedene Atmosphäre, ideal für nachdenkliche Tage am Wasser. Man darf feine Gelegenheiten erwarten, in der sanften Brandung zu planschen oder entlang der Wasserlinie nach einzigartigen Muscheln zu suchen. Ein Besuch am späten Nachmittag belohnt Gäste oft mit einem atemberaubenden, weichen Licht am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        12.222947,
+                        55.520727
+                  ]
+            },
+            {
+                  "name": "Mosede Sø",
+                  "text": "Mosede Sø ist ein See in Solrod, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.273615,
+                        55.577001
+                  ]
+            },
+            {
+                  "name": "Fruens Mose",
+                  "text": "Fruens Mose ist ein See in Solrod, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.164623,
+                        55.463196
+                  ]
+            },
+            {
+                  "name": "Skjelhøj",
+                  "text": "Skjelhøj in Solrod ist eine bedeutende archäologische Stätte. Sie bietet faszinierende Einblicke in die frühen menschlichen Siedlungen der Region.",
+                  "category": "historical",
+                  "coords": [
+                        12.192024,
+                        55.539502
+                  ]
+            },
+            {
+                  "name": "Kassemose Høj",
+                  "text": "Kassemose Høj ist eine archäologische Stätte in Solrod, die historische Überreste bewahrt. Ein Besuch ist ideal für alle, die an der Frühgeschichte der Gegend interessiert sind.",
+                  "category": "historical",
+                  "coords": [
+                        12.191279,
+                        55.536864
+                  ]
+            },
+            {
+                  "name": "Ølsemagle Revle-Staunings Ø Vildtreservat",
+                  "text": "Das Naturschutzgebiet Ølsemagle Revle-Staunings Ø in Solrod ist ein Paradies für Vogelbeobachter. Die unberührte Natur bietet einen wichtigen Lebensraum für zahlreiche Tierarten.",
+                  "category": "natural",
+                  "coords": [
+                        12.210474,
+                        55.501559
+                  ]
+            },
+            {
+                  "name": "Havdrup Kirke",
+                  "text": "Die Havdrup Kirke in Solrod ist eine geschichtsträchtige Kirche mit schöner Architektur. Sie ist ein spiritueller Ort und ein interessantes Beispiel lokaler Baukunst.",
+                  "category": "religious",
+                  "coords": [
+                        12.156897,
+                        55.551506
+                  ]
+            },
+            {
+                  "name": "Jersie Kirke",
+                  "text": "Die Jersie Kirke in Solrod ist eine sehenswerte Kirche mit einer langen Geschichte. Ihre friedliche Atmosphäre macht sie zu einem geschätzten Ort für Einheimische und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        12.162443,
+                        55.527214
+                  ]
+            },
+            {
+                  "name": "Solrød Kirke",
+                  "text": "Die Solrød Kirke ist ein traditionelles Gotteshaus in Solrod mit einer charmanten Ausstrahlung. Sie fügt sich harmonisch in die Umgebung ein und ist ein wichtiger Teil der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        12.181184,
+                        55.5363
+                  ]
+            },
+            {
+                  "name": "Solrød Strandkirke",
+                  "text": "Die Solrød Strandkirke ist ein modernes Gotteshaus direkt an der Küste. Sie bietet einen inspirierenden Raum für Gottesdienste und Besinnung mit direktem Meerblick.",
+                  "category": "religious",
+                  "coords": [
+                        12.22112,
+                        55.532114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ølsemagle Revle",
+                  "text": "Az Ølsemagle Revle egy strand Solrød mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        12.20914,
+                        55.495441
+                  ]
+            },
+            {
+                  "name": "Jersie Strand",
+                  "text": "A dán tengerpart egy csendes szeletét bemutató Jersie Strand békésen fekszik Solrød városánál. A helyi környezet nyugodt és némileg elszigetelt légkört teremt, amely ideális az elmélyült, vízparti napokhoz. Finom lehetőségekre számíthat a lágy szörfözésre, vagy egyedi kagylók keresésére a vízpart mentén. A késő délutáni látogatás gyakran lenyűgöző, lágy tengerparti fénnyel jutalmazza a vendégeket.",
+                  "category": "recreational",
+                  "coords": [
+                        12.222947,
+                        55.520727
+                  ]
+            },
+            {
+                  "name": "Mosede Sø",
+                  "text": "A Mosede Sø egy tó Solrod területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.273615,
+                        55.577001
+                  ]
+            },
+            {
+                  "name": "Fruens Mose",
+                  "text": "A Fruens Mose egy tó Solrod területén, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        12.164623,
+                        55.463196
+                  ]
+            },
+            {
+                  "name": "Skjelhøj",
+                  "text": "A Skjelhøj Solrod-ban egy jelentős régészeti lelőhely. Lenyűgöző betekintést nyújt a régió korai emberi településeibe.",
+                  "category": "historical",
+                  "coords": [
+                        12.192024,
+                        55.539502
+                  ]
+            },
+            {
+                  "name": "Kassemose Høj",
+                  "text": "A Kassemose Høj egy régészeti lelőhely Solrod-ban, amely történelmi maradványokat őriz. A látogatás ideális azoknak, akiket érdekel a környék korai történelme.",
+                  "category": "historical",
+                  "coords": [
+                        12.191279,
+                        55.536864
+                  ]
+            },
+            {
+                  "name": "Ølsemagle Revle-Staunings Ø Vildtreservat",
+                  "text": "Az Ølsemagle Revle-Staunings Ø természetvédelmi terület Solrod-ban a madármegfigyelők paradicsoma. Az érintetlen természet számos állatfaj számára nyújt fontos élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        12.210474,
+                        55.501559
+                  ]
+            },
+            {
+                  "name": "Havdrup Kirke",
+                  "text": "A Havdrup Kirke Solrod-ban egy történelmi jelentőségű templom szép építészettel. Spirituális hely és a helyi építészet érdekes példája.",
+                  "category": "religious",
+                  "coords": [
+                        12.156897,
+                        55.551506
+                  ]
+            },
+            {
+                  "name": "Jersie Kirke",
+                  "text": "A Jersie Kirke Solrod-ban egy látnivaló templom hosszú történelemmel. Békés légköre miatt a helyiek és a látogatók körében egyaránt becsült hely.",
+                  "category": "religious",
+                  "coords": [
+                        12.162443,
+                        55.527214
+                  ]
+            },
+            {
+                  "name": "Solrød Kirke",
+                  "text": "A Solrød Kirke egy hagyományos templom Solrod-ban, elbűvölő kisugárzással. Harmóniában illeszkedik a környezetébe, és a közösség fontos része.",
+                  "category": "religious",
+                  "coords": [
+                        12.181184,
+                        55.5363
+                  ]
+            },
+            {
+                  "name": "Solrød Strandkirke",
+                  "text": "A Solrød Strandkirke egy modern templom közvetlenül a tengerparton. Inspiráló teret kínál az istentiszteletekhez és az elmélkedéshez, közvetlen kilátással a tengerre.",
+                  "category": "religious",
+                  "coords": [
+                        12.22112,
+                        55.532114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ølsemagle Revle",
+                  "text": "Ølsemagle Revle este o plajă lângă Solrød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.20914,
+                        55.495441
+                  ]
+            },
+            {
+                  "name": "Jersie Strand",
+                  "text": "Prezentând o felie liniștită a coastei daneze, Jersie Strand este așezată pașnic lângă orașul Solrød. Cadrul local cultivă o atmosferă senină și oarecum retrasă, ideală pentru zilele introspective lângă apă. Vă puteți aștepta la oportunități excelente de a vă bălăci în valurile blânde sau de a căuta scoici unice de-a lungul liniei apei. O vizită târziu după-amiaza răsplătește adesea oaspeții cu o lumină moale și uimitoare pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        12.222947,
+                        55.520727
+                  ]
+            },
+            {
+                  "name": "Mosede Sø",
+                  "text": "Mosede Sø este un lac din Solrod, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.273615,
+                        55.577001
+                  ]
+            },
+            {
+                  "name": "Fruens Mose",
+                  "text": "Fruens Mose este un lac din Solrod, ideal pentru plimbări și pentru a te bucura de peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        12.164623,
+                        55.463196
+                  ]
+            },
+            {
+                  "name": "Skjelhøj",
+                  "text": "Skjelhøj din Solrod este un sit arheologic important. Acesta oferă perspective fascinante asupra așezărilor umane timpurii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        12.192024,
+                        55.539502
+                  ]
+            },
+            {
+                  "name": "Kassemose Høj",
+                  "text": "Kassemose Høj este un sit arheologic din Solrod care păstrează vestigii istorice. O vizită este ideală pentru cei interesați de istoria timpurie a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        12.191279,
+                        55.536864
+                  ]
+            },
+            {
+                  "name": "Ølsemagle Revle-Staunings Ø Vildtreservat",
+                  "text": "Rezervația naturală Ølsemagle Revle-Staunings Ø din Solrod este un paradis pentru observatorii de păsări. Natura intactă oferă un habitat important pentru numeroase specii de animale.",
+                  "category": "natural",
+                  "coords": [
+                        12.210474,
+                        55.501559
+                  ]
+            },
+            {
+                  "name": "Havdrup Kirke",
+                  "text": "Havdrup Kirke din Solrod este o biserică plină de istorie, cu o arhitectură frumoasă. Este un loc spiritual și un exemplu interesant de arhitectură locală.",
+                  "category": "religious",
+                  "coords": [
+                        12.156897,
+                        55.551506
+                  ]
+            },
+            {
+                  "name": "Jersie Kirke",
+                  "text": "Jersie Kirke din Solrod este o biserică demnă de vizitat, cu o istorie lungă. Atmosfera sa pașnică o face un loc apreciat de localnici și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        12.162443,
+                        55.527214
+                  ]
+            },
+            {
+                  "name": "Solrød Kirke",
+                  "text": "Solrød Kirke este un lăcaș de cult tradițional din Solrod, cu un farmec deosebit. Se integrează armonios în împrejurimi și este o parte importantă a comunității.",
+                  "category": "religious",
+                  "coords": [
+                        12.181184,
+                        55.5363
+                  ]
+            },
+            {
+                  "name": "Solrød Strandkirke",
+                  "text": "Solrød Strandkirke este un lăcaș de cult modern, situat chiar pe coastă. Oferă un spațiu inspirațional pentru slujbe și reflecție, cu vedere directă la mare.",
+                  "category": "religious",
+                  "coords": [
+                        12.22112,
+                        55.532114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ølsemagle Revle",
+                  "text": "Ølsemagle Revle is a beach near Solrød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.20914,
+                        55.495441
+                  ]
+            },
+            {
+                  "name": "Jersie Strand",
+                  "text": "Presenting a quiet slice of the Danish coastline, Jersie Strand sits peacefully by the town of Solrød. The local setting cultivates a serene and somewhat secluded atmosphere, ideal for introspective days by the water. You can expect fine opportunities to paddle in the gentle surf or hunt for unique shells along the waterline. A late afternoon visit often rewards guests with a stunning, soft seaside light.",
+                  "category": "recreational",
+                  "coords": [
+                        12.222947,
+                        55.520727
+                  ]
+            },
+            {
+                  "name": "Mosede Sø",
+                  "text": "Mosede Sø is a lake in Solrod, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.273615,
+                        55.577001
+                  ]
+            },
+            {
+                  "name": "Fruens Mose",
+                  "text": "Fruens Mose is a lake in Solrod, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        12.164623,
+                        55.463196
+                  ]
+            },
+            {
+                  "name": "Skjelhøj",
+                  "text": "Skjelhøj in Solrod is a significant archaeological site. It provides fascinating insights into the early human settlements of the region.",
+                  "category": "historical",
+                  "coords": [
+                        12.192024,
+                        55.539502
+                  ]
+            },
+            {
+                  "name": "Kassemose Høj",
+                  "text": "Kassemose Høj is an archaeological site in Solrod that preserves historical remains. A visit is ideal for those interested in the early history of the area.",
+                  "category": "historical",
+                  "coords": [
+                        12.191279,
+                        55.536864
+                  ]
+            },
+            {
+                  "name": "Ølsemagle Revle-Staunings Ø Vildtreservat",
+                  "text": "The Ølsemagle Revle-Staunings Ø nature reserve in Solrod is a paradise for birdwatchers. The untouched nature provides an important habitat for numerous animal species.",
+                  "category": "natural",
+                  "coords": [
+                        12.210474,
+                        55.501559
+                  ]
+            },
+            {
+                  "name": "Havdrup Kirke",
+                  "text": "Havdrup Kirke in Solrod is a historic church with beautiful architecture. It is a spiritual place and an interesting example of local architecture.",
+                  "category": "religious",
+                  "coords": [
+                        12.156897,
+                        55.551506
+                  ]
+            },
+            {
+                  "name": "Jersie Kirke",
+                  "text": "Jersie Kirke in Solrod is a church worth visiting with a long history. Its peaceful atmosphere makes it a valued place for both locals and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        12.162443,
+                        55.527214
+                  ]
+            },
+            {
+                  "name": "Solrød Kirke",
+                  "text": "Solrød Kirke is a traditional place of worship in Solrod with a charming appeal. It blends harmoniously into its surroundings and is an important part of the community.",
+                  "category": "religious",
+                  "coords": [
+                        12.181184,
+                        55.5363
+                  ]
+            },
+            {
+                  "name": "Solrød Strandkirke",
+                  "text": "Solrød Strandkirke is a modern place of worship located right on the coast. It provides an inspiring space for services and reflection with direct sea views.",
+                  "category": "religious",
+                  "coords": [
+                        12.22112,
+                        55.532114
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Solrød", hu: "Solrød", ro: "Solrød", en: "Solrod" },

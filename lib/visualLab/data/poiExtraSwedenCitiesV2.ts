@@ -437,6 +437,24 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
                         16.164559,
                         58.60467
                   ]
+            },
+            {
+                  "name": "plaskdamm",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Norrkoeping.",
+                  "category": "family",
+                  "coords": [
+                        16.19496,
+                        58.583702
+                  ]
+            },
+            {
+                  "name": "Himmelstalundsbadet",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Norrkoeping.",
+                  "category": "family",
+                  "coords": [
+                        16.151143,
+                        58.589371
+                  ]
             }
       ],
       "hu": [
@@ -825,6 +843,24 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
                   "coords": [
                         16.164559,
                         58.60467
+                  ]
+            },
+            {
+                  "name": "plaskdamm",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Norrkoeping városában.",
+                  "category": "family",
+                  "coords": [
+                        16.19496,
+                        58.583702
+                  ]
+            },
+            {
+                  "name": "Himmelstalundsbadet",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Norrkoeping városában.",
+                  "category": "family",
+                  "coords": [
+                        16.151143,
+                        58.589371
                   ]
             }
       ],
@@ -1215,6 +1251,24 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
                         16.164559,
                         58.60467
                   ]
+            },
+            {
+                  "name": "plaskdamm",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Norrkoeping.",
+                  "category": "family",
+                  "coords": [
+                        16.19496,
+                        58.583702
+                  ]
+            },
+            {
+                  "name": "Himmelstalundsbadet",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Norrkoeping.",
+                  "category": "family",
+                  "coords": [
+                        16.151143,
+                        58.589371
+                  ]
             }
       ],
       "en": [
@@ -1603,6 +1657,24 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
                   "coords": [
                         16.164559,
                         58.60467
+                  ]
+            },
+            {
+                  "name": "plaskdamm",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Norrkoeping.",
+                  "category": "family",
+                  "coords": [
+                        16.19496,
+                        58.583702
+                  ]
+            },
+            {
+                  "name": "Himmelstalundsbadet",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Norrkoeping.",
+                  "category": "family",
+                  "coords": [
+                        16.151143,
+                        58.589371
                   ]
             }
       ]
@@ -2022,6 +2094,24 @@ imageHint: "Industrial landscape of Norrköping along the river",
                         12.969562,
                         57.722244
                   ]
+            },
+            {
+                  "name": "Stadsparksbadet",
+                  "text": "Eine öffentliche Schwimm- und Badeeinrichtung in Borås, die für Familien und Freizeitschwimmen geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        12.939462,
+                        57.718002
+                  ]
+            },
+            {
+                  "name": "Alidebergsbadet",
+                  "text": "Ein Freibad in Borås, das einen erfrischenden Ort für sommerliche Aktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.942587,
+                        57.739751
+                  ]
             }
       ],
       "hu": [
@@ -2392,6 +2482,24 @@ imageHint: "Industrial landscape of Norrköping along the river",
                   "coords": [
                         12.969562,
                         57.722244
+                  ]
+            },
+            {
+                  "name": "Stadsparksbadet",
+                  "text": "Boråsi nyilvános úszó- és fürdőlétesítmény, amely alkalmas családoknak és szabadidős úszásra.",
+                  "category": "family",
+                  "coords": [
+                        12.939462,
+                        57.718002
+                  ]
+            },
+            {
+                  "name": "Alidebergsbadet",
+                  "text": "Boråsi szabadtéri úszómedence, amely frissítő helyszínt biztosít a nyári tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        12.942587,
+                        57.739751
                   ]
             }
       ],
@@ -2764,6 +2872,24 @@ imageHint: "Industrial landscape of Norrköping along the river",
                         12.969562,
                         57.722244
                   ]
+            },
+            {
+                  "name": "Stadsparksbadet",
+                  "text": "O facilitate publică de înot și baie în Borås, potrivită pentru familii și înot recreativ.",
+                  "category": "family",
+                  "coords": [
+                        12.939462,
+                        57.718002
+                  ]
+            },
+            {
+                  "name": "Alidebergsbadet",
+                  "text": "O piscină în aer liber în Borås, care oferă un loc răcoritor pentru activități de vară.",
+                  "category": "family",
+                  "coords": [
+                        12.942587,
+                        57.739751
+                  ]
             }
       ],
       "en": [
@@ -3135,6 +3261,24 @@ imageHint: "Industrial landscape of Norrköping along the river",
                         12.969562,
                         57.722244
                   ]
+            },
+            {
+                  "name": "Stadsparksbadet",
+                  "text": "A public swimming and bathing facility in Borås suitable for families and recreational swimming.",
+                  "category": "family",
+                  "coords": [
+                        12.939462,
+                        57.718002
+                  ]
+            },
+            {
+                  "name": "Alidebergsbadet",
+                  "text": "An outdoor swimming pool in Borås providing a refreshing spot for summer activities.",
+                  "category": "family",
+                  "coords": [
+                        12.942587,
+                        57.739751
+                  ]
             }
       ]
 },
@@ -3183,7 +3327,1312 @@ imageHint: "Modern street art and sculptures in Borås city center",
     },
     image: "/poi-images/sweden-boras-cities-v2.webp",
 },  {
-    id: "sweden-eskilstuna-cities-v2", "sights": {"de": [{"name": "Skjulstabadet", "text": "Strand in der Nähe von Eskilstuna.", "category": "recreational", "coords": [16.491149, 59.339663]}, {"name": "Vilsta Badplats", "text": "Vilsta Badplats ist eine Badestelle in der Nähe von Eskilstuna.", "category": "recreational", "coords": [16.505075, 59.350429]}, {"name": "Stadsparkens Strand", "text": "Eingebettet in die grüne Umgebung des Stadtparks von Eskilstuna, bietet dieser Badeplatz eine perfekte Mischung aus Natur und Naherholung. Das ruhige Gewässer ist ideal für ein erfrischendes Bad an warmen schwedischen Sommertagen. Familien und Freunde treffen sich hier gerne, um auf den Wiesen rund um das Wasser die Seele baumeln zu lassen. Wer Ruhe sucht, genießt die friedliche Stimmung am besten in den frühen Morgenstunden.", "category": "recreational", "coords": [16.518494, 59.372406]}, {"name": "Eskilstuna stadsmuseum", "text": "Stadtmuseum zur Geschichte und industriellen Entwicklung von Eskilstuna.", "category": "museum", "coords": [16.509852, 59.375144]}, {"name": "Eskilstuna konstmuseum", "text": "Kunstmuseum mit schwedischer und internationaler Kunst.", "category": "museum", "coords": [16.510649, 59.37766]}, {"name": "Munktellmuseet", "text": "Ein Industriemuseum, das die Geschichte der Munktell-Maschinen zeigt.", "category": "museum", "coords": [16.510108, 59.376493]}, {"name": "Kronskogen-Stenby äng", "text": "Ein großes Naturschutzgebiet mit Wanderwegen und Wiesen.", "category": "natural", "coords": [16.476689, 59.364258]}, {"name": "Årby", "text": "Ein Naturgebiet in der Nähe von Eskilstuna mit vielfältiger Flora.", "category": "natural", "coords": [16.519065, 59.392546]}, {"name": "Rademachersmedjorna", "text": "Historische Schmieden aus dem 17. Jahrhundert, heute ein lebendiges Museum.", "category": "museum", "coords": [16.507853, 59.374049]}, {"name": "Eskilstuna Teater", "text": "Ein historisches Theatergebäude für Aufführungen in Eskilstuna.", "category": "cultural", "coords": [16.51275, 59.372979]}, {"name": "Sörmlandsgården", "text": "Ein Freilichtmuseum, das das ländliche Leben in Sörmland zeigt.", "category": "museum", "coords": [16.536119, 59.367324]}, {"name": "Tropikrally", "text": "Eine Attraktion im Parken Zoo in Eskilstuna.", "category": "landmark", "coords": [16.482838, 59.372431]}, {"name": "Kamel", "text": "Kamele im Zoo von Eskilstuna.", "category": "landmark", "coords": [16.47638, 59.369534]}, {"name": "Karusell", "text": "Ein klassisches Karussell für Besucher.", "category": "landmark", "coords": [16.484508, 59.37244]}, {"name": "Leopard", "text": "Leopardengehege im Parken Zoo.", "category": "landmark", "coords": [16.478782, 59.369902]}, {"name": "Tiger", "text": "Tigergehege im Parken Zoo.", "category": "landmark", "coords": [16.48014, 59.37043]}, {"name": "Lejon", "text": "Löwengehege im Parken Zoo.", "category": "landmark", "coords": [16.481525, 59.370121]}, {"name": "S:t Eskilskyrkan", "text": "Eine moderne Kirche in Eskilstuna.", "category": "religious", "coords": [16.510105, 59.365662]}, {"name": "Fors kyrka", "text": "Die älteste Kirche von Eskilstuna, die bis ins 11. Jahrhundert zurückreicht.", "category": "religious", "coords": [16.516103, 59.367335]}, {"name": "Klosters kyrka", "text": "Eine markante Kirche mit zwei Türmen in Eskilstuna.", "category": "religious", "coords": [16.518392, 59.374956]}, {"name": "Elimkyrkan", "text": "Ein freikirchliches Gebäude in Eskilstuna.", "category": "religious", "coords": [16.509338, 59.370518]}, {"name": "Sankt Petri kyrka", "text": "Eine evangelische Kirche in Eskilstuna.", "category": "religious", "coords": [16.491106, 59.392342]}, {"name": "Sankt Pauli kyrka", "text": "Eine christliche Gebetsstätte in Eskilstuna.", "category": "religious", "coords": [16.542953, 59.393329]}, {"name": "Nybron", "text": "Eine historische Brücke über den Fluss Eskilstunaån.", "category": "landmark", "coords": [16.515794, 59.373441]}, {"name": "Tomaskyrkan", "text": "Eine moderne Gemeindekirche in Eskilstuna.", "category": "religious", "coords": [16.477799, 59.356788]}, {"name": "Sankt Andreas kyrka", "text": "Eine lokale Kirche in der Stadt Eskilstuna.", "category": "religious", "coords": [16.516811, 59.359023]}, {"name": "Ansgarskyrkan", "text": "Ein modernes Kirchengebäude in Eskilstuna.", "category": "religious", "coords": [16.499485, 59.357425]}, {"name": "Tacktorpsjön", "text": "Tacktorpsjön ist ein See in Eskilstuna, der ein friedliches Plätzchen zum Genießen der Natur bietet.", "category": "natural", "coords": [16.433933, 59.350518]}, {"name": "Skiren", "text": "Skiren ist ein See in Eskilstuna, ideal für einen ruhigen Spaziergang oder zum Entspannen am Wasser.", "category": "natural", "coords": [16.389752, 59.354178]}, {"name": "Kvicken", "text": "Kvicken ist ein See in Eskilstuna, der eine malerische Aussicht und eine ruhige Umgebung bietet.", "category": "natural", "coords": [16.397659, 59.352325]}, {"name": "Hjälmaren", "text": "Hjälmaren ist ein großer See in Eskilstuna, ideal um die Landschaft am Wasser und Spaziergänge zu genießen.", "category": "natural", "coords": [15.84234, 59.230899]}, {"name": "Mälarsee", "text": "Mälaren ist ein bedeutender See in Eskilstuna, der eine schöne Landschaft für die Erholung im Freien bietet.", "category": "natural", "coords": [17.039325, 59.494738]}, {"name": "Bergssjön", "text": "Bergssjön ist ein See in Eskilstuna, ideal für einen friedlichen Spaziergang inmitten der Natur.", "category": "natural", "coords": [16.387017, 59.38263]}, {"name": "Måsta lekpark", "text": "Måsta lekpark ist ein Spielplatz in Eskilstuna, auf dem Kinder im Freien spielen können.", "category": "family", "coords": [16.49525, 59.394391]}, {"name": "Tornlekplatsen", "text": "Tornlekplatsen ist ein Spielplatz in Eskilstuna mit Outdoor-Geräten zur Unterhaltung von Kindern.", "category": "family", "coords": [16.515367, 59.375128]}], "hu": [{"name": "Skjulstabadet", "text": "Part Eskilstuna közelében.", "category": "recreational", "coords": [16.491149, 59.339663]}, {"name": "Vilsta Badplats", "text": "Vilsta Badplats egy strandfürdő Eskilstuna közelében.", "category": "recreational", "coords": [16.505075, 59.350429]}, {"name": "Stadsparkens Strand", "text": "Az Eskilstuna városi park zöld környezetében fekvő fürdőhely a természet és a helyi kikapcsolódás tökéletes keverékét kínálja. A csendes víz ideális egy frissítő fürdőzéshez a meleg svéd nyári napokon. Családok és barátok találkoznak itt szívesen, hogy a víz körüli réteken lazítsanak és feltöltődjenek. Aki csendre vágyik, az a kora reggeli órákban élvezheti a leginkább a békés hangulatot.", "category": "recreational", "coords": [16.518494, 59.372406]}, {"name": "Eskilstuna stadsmuseum", "text": "Eskilstuna történelmét és ipari fejlődését bemutató városi múzeum.", "category": "museum", "coords": [16.509852, 59.375144]}, {"name": "Eskilstuna konstmuseum", "text": "Művészeti múzeum svéd és nemzetközi alkotásokkal.", "category": "museum", "coords": [16.510649, 59.37766]}, {"name": "Munktellmuseet", "text": "A Munktell gépek történetét bemutató ipari múzeum.", "category": "museum", "coords": [16.510108, 59.376493]}, {"name": "Kronskogen-Stenby äng", "text": "Nagy természetvédelmi terület túraútvonalakkal és rétekkel.", "category": "natural", "coords": [16.476689, 59.364258]}, {"name": "Årby", "text": "Természeti terület Eskilstuna közelében, változatos flórával.", "category": "natural", "coords": [16.519065, 59.392546]}, {"name": "Rademachersmedjorna", "text": "17. századi történelmi kovácsműhelyek, ma élő múzeum.", "category": "museum", "coords": [16.507853, 59.374049]}, {"name": "Eskilstuna Teater", "text": "Történelmi színházépület Eskilstunában.", "category": "cultural", "coords": [16.51275, 59.372979]}, {"name": "Sörmlandsgården", "text": "A sörmlandi vidéki életet bemutató szabadtéri múzeum.", "category": "museum", "coords": [16.536119, 59.367324]}, {"name": "Tropikrally", "text": "Attrakció az eskilstunai Parken Zooban.", "category": "landmark", "coords": [16.482838, 59.372431]}, {"name": "Kamel", "text": "Teve az eskilstunai állatkertben.", "category": "landmark", "coords": [16.47638, 59.369534]}, {"name": "Karusell", "text": "Klasszikus körhinta a látogatók számára.", "category": "landmark", "coords": [16.484508, 59.37244]}, {"name": "Leopard", "text": "Leopárdkifutó a Parken Zooban.", "category": "landmark", "coords": [16.478782, 59.369902]}, {"name": "Tiger", "text": "Tigriskifutó a Parken Zooban.", "category": "landmark", "coords": [16.48014, 59.37043]}, {"name": "Lejon", "text": "Oroszlánkifutó a Parken Zooban.", "category": "landmark", "coords": [16.481525, 59.370121]}, {"name": "S:t Eskilskyrkan", "text": "Modern templom Eskilstunában.", "category": "religious", "coords": [16.510105, 59.365662]}, {"name": "Fors kyrka", "text": "Eskilstuna legrégebbi temploma, amely a 11. századból származik.", "category": "religious", "coords": [16.516103, 59.367335]}, {"name": "Klosters kyrka", "text": "Jellegzetes kétmilliós templom Eskilstunában.", "category": "religious", "coords": [16.518392, 59.374956]}, {"name": "Elimkyrkan", "text": "Szabadegyházi épület Eskilstunában.", "category": "religious", "coords": [16.509338, 59.370518]}, {"name": "Sankt Petri kyrka", "text": "Evangélikus templom Eskilstunában.", "category": "religious", "coords": [16.491106, 59.392342]}, {"name": "Sankt Pauli kyrka", "text": "Keresztény imaház Eskilstunában.", "category": "religious", "coords": [16.542953, 59.393329]}, {"name": "Nybron", "text": "Történelmi híd az Eskilstunaån folyón.", "category": "landmark", "coords": [16.515794, 59.373441]}, {"name": "Tomaskyrkan", "text": "Modern egyházközségi templom Eskilstunában.", "category": "religious", "coords": [16.477799, 59.356788]}, {"name": "Sankt Andreas kyrka", "text": "Helyi templom Eskilstuna városában.", "category": "religious", "coords": [16.516811, 59.359023]}, {"name": "Ansgarskyrkan", "text": "Modern templomépület Eskilstunában.", "category": "religious", "coords": [16.499485, 59.357425]}, {"name": "Tacktorpsjön", "text": "A Tacktorpsjön egy tó Eskilstuna városában, amely nyugodt helyet kínál a természet élvezetéhez.", "category": "natural", "coords": [16.433933, 59.350518]}, {"name": "Skiren", "text": "A Skiren egy tó Eskilstuna városában, amely alkalmas egy csendes sétára vagy vízparti kikapcsolódásra.", "category": "natural", "coords": [16.389752, 59.354178]}, {"name": "Kvicken", "text": "A Kvicken egy tó Eskilstuna városában, amely festői kilátást és nyugodt környezetet kínál.", "category": "natural", "coords": [16.397659, 59.352325]}, {"name": "Hjälmaren", "text": "A Hjälmaren egy nagy tó Eskilstuna városában, amely tökéletes a vízparti táj és a séták élvezetéhez.", "category": "natural", "coords": [15.84234, 59.230899]}, {"name": "Mälaren", "text": "A Mälaren egy jelentős tó Eskilstuna városában, amely gyönyörű tájat kínál a szabadtéri kikapcsolódáshoz.", "category": "natural", "coords": [17.039325, 59.494738]}, {"name": "Bergssjön", "text": "A Bergssjön egy tó Eskilstuna városában, amely ideális egy békés sétához a természet lágy ölén.", "category": "natural", "coords": [16.387017, 59.38263]}, {"name": "Måsta lekpark", "text": "A Måsta lekpark egy játszótér Eskilstuna városában, ahol a gyerekek a szabadban játszhatnak.", "category": "family", "coords": [16.49525, 59.394391]}, {"name": "Tornlekplatsen", "text": "A Tornlekplatsen egy játszótér Eskilstuna városában, ahol szabadtéri eszközök várják a gyerekeket.", "category": "family", "coords": [16.515367, 59.375128]}], "ro": [{"name": "Skjulstabadet", "text": "Plajă în apropiere de Eskilstuna.", "category": "recreational", "coords": [16.491149, 59.339663]}, {"name": "Vilsta Badplats", "text": "Vilsta Badplats este o zonă de scăldat lângă Eskilstuna.", "category": "recreational", "coords": [16.505075, 59.350429]}, {"name": "Stadsparkens Strand", "text": "Amplasat în împrejurimile verzi ale parcului orașului Eskilstuna, acest loc de scăldat oferă un amestec perfect de natură și recreere locală. Apele calme sunt ideale pentru o baie răcoritoare în zilele calde de vară suedeze. Familiilor și prietenilor le place să se întâlnească aici pentru a se relaxa pe pajiștile din jurul apei. Cei care caută liniștea se pot bucura cel mai bine de atmosfera pașnică la primele ore ale dimineții.", "category": "recreational", "coords": [16.518494, 59.372406]}, {"name": "Eskilstuna stadsmuseum", "text": "Muzeul orașului despre istoria și dezvoltarea industrială a orașului Eskilstuna.", "category": "museum", "coords": [16.509852, 59.375144]}, {"name": "Eskilstuna konstmuseum", "text": "Muzeu de artă care expune lucrări suedeze și internaționale.", "category": "museum", "coords": [16.510649, 59.37766]}, {"name": "Munktellmuseet", "text": "Un muzeu industrial care prezintă istoria utilajelor Munktell.", "category": "museum", "coords": [16.510108, 59.376493]}, {"name": "Kronskogen-Stenby äng", "text": "O rezervație naturală mare cu trasee de drumeție și pajiști.", "category": "natural", "coords": [16.476689, 59.364258]}, {"name": "Årby", "text": "O zonă naturală lângă Eskilstuna cu o floră diversă.", "category": "natural", "coords": [16.519065, 59.392546]}, {"name": "Rademachersmedjorna", "text": "Forje istorice din secolul al XVII-lea, astăzi un muzeu viu.", "category": "museum", "coords": [16.507853, 59.374049]}, {"name": "Eskilstuna Teater", "text": "O clădire istorică de teatru pentru spectacole în Eskilstuna.", "category": "cultural", "coords": [16.51275, 59.372979]}, {"name": "Sörmlandsgården", "text": "Un muzeu în aer liber care prezintă viața rurală din Sörmland.", "category": "museum", "coords": [16.536119, 59.367324]}, {"name": "Tropikrally", "text": "O atracție în Parken Zoo din Eskilstuna.", "category": "landmark", "coords": [16.482838, 59.372431]}, {"name": "Kamel", "text": "Cămile la grădina zoologică din Eskilstuna.", "category": "landmark", "coords": [16.47638, 59.369534]}, {"name": "Karusell", "text": "Un carusel clasic pentru vizitatori.", "category": "landmark", "coords": [16.484508, 59.37244]}, {"name": "Leopard", "text": "Țarcul leopardului în Parken Zoo.", "category": "landmark", "coords": [16.478782, 59.369902]}, {"name": "Tiger", "text": "Țarcul tigrului în Parken Zoo.", "category": "landmark", "coords": [16.48014, 59.37043]}, {"name": "Lejon", "text": "Țarcul leului în Parken Zoo.", "category": "landmark", "coords": [16.481525, 59.370121]}, {"name": "S:t Eskilskyrkan", "text": "O biserică modernă în Eskilstuna.", "category": "religious", "coords": [16.510105, 59.365662]}, {"name": "Fors kyrka", "text": "Cea mai veche biserică din Eskilstuna, datând din secolul al XI-lea.", "category": "religious", "coords": [16.516103, 59.367335]}, {"name": "Klosters kyrka", "text": "O biserică proeminentă cu două turnuri în Eskilstuna.", "category": "religious", "coords": [16.518392, 59.374956]}, {"name": "Elimkyrkan", "text": "O clădire a bisericii libere în Eskilstuna.", "category": "religious", "coords": [16.509338, 59.370518]}, {"name": "Sankt Petri kyrka", "text": "O biserică evanghelică în Eskilstuna.", "category": "religious", "coords": [16.491106, 59.392342]}, {"name": "Sankt Pauli kyrka", "text": "Un lăcaș de cult creștin în Eskilstuna.", "category": "religious", "coords": [16.542953, 59.393329]}, {"name": "Nybron", "text": "Un pod istoric peste râul Eskilstunaån.", "category": "landmark", "coords": [16.515794, 59.373441]}, {"name": "Tomaskyrkan", "text": "O biserică parohială modernă în Eskilstuna.", "category": "religious", "coords": [16.477799, 59.356788]}, {"name": "Sankt Andreas kyrka", "text": "O biserică locală în orașul Eskilstuna.", "category": "religious", "coords": [16.516811, 59.359023]}, {"name": "Ansgarskyrkan", "text": "O clădire modernă de biserică în Eskilstuna.", "category": "religious", "coords": [16.499485, 59.357425]}, {"name": "Tacktorpsjön", "text": "Tacktorpsjön este un lac în Eskilstuna, oferind un loc liniștit pentru a te bucura de natură.", "category": "natural", "coords": [16.433933, 59.350518]}, {"name": "Skiren", "text": "Skiren este un lac în Eskilstuna, potrivit pentru o plimbare liniștită sau relaxare pe malul apei.", "category": "natural", "coords": [16.389752, 59.354178]}, {"name": "Kvicken", "text": "Kvicken este un lac în Eskilstuna, oferind vedere pitorească și un mediu liniștit.", "category": "natural", "coords": [16.397659, 59.352325]}, {"name": "Hjälmaren", "text": "Hjälmaren este un lac mare în Eskilstuna, perfect pentru a te bucura de peisajul de pe malul apei și de plimbări.", "category": "natural", "coords": [15.84234, 59.230899]}, {"name": "Mälaren", "text": "Mälaren este un lac proeminent în Eskilstuna, oferind un peisaj frumos pentru recreere în aer liber.", "category": "natural", "coords": [17.039325, 59.494738]}, {"name": "Bergssjön", "text": "Bergssjön este un lac în Eskilstuna, ideal pentru o plimbare liniștită în mijlocul naturii.", "category": "natural", "coords": [16.387017, 59.38263]}, {"name": "Måsta lekpark", "text": "Måsta lekpark este un teren de joacă în Eskilstuna, unde copiii se pot juca în aer liber.", "category": "family", "coords": [16.49525, 59.394391]}, {"name": "Tornlekplatsen", "text": "Tornlekplatsen este un teren de joacă în Eskilstuna, dotat cu echipamente în aer liber pentru divertismentul copiilor.", "category": "family", "coords": [16.515367, 59.375128]}], "en": [{"name": "Skjulstabadet", "text": "Beach near Eskilstuna.", "category": "recreational", "coords": [16.491149, 59.339663]}, {"name": "Vilsta Badplats", "text": "Vilsta Badplats is a swimming area near Eskilstuna.", "category": "recreational", "coords": [16.505075, 59.350429]}, {"name": "Stadsparkens Strand", "text": "Nestled in the lush green surroundings of the Eskilstuna city park, this bathing spot offers a perfect blend of nature and local recreation. The calm waters are absolutely ideal for a refreshing dip on warm Swedish summer days. Families and friends love to meet here to relax on the inviting meadows surrounding the water. Those seeking tranquility will best enjoy the peaceful atmosphere during the early morning hours.", "category": "recreational", "coords": [16.518494, 59.372406]}, {"name": "Eskilstuna stadsmuseum", "text": "City museum detailing the history and industrial development of Eskilstuna.", "category": "museum", "coords": [16.509852, 59.375144]}, {"name": "Eskilstuna konstmuseum", "text": "Art museum featuring Swedish and international works.", "category": "museum", "coords": [16.510649, 59.37766]}, {"name": "Munktellmuseet", "text": "An industrial museum focusing on the history of Munktell machinery.", "category": "museum", "coords": [16.510108, 59.376493]}, {"name": "Kronskogen-Stenby äng", "text": "A large nature reserve with hiking trails and meadows.", "category": "natural", "coords": [16.476689, 59.364258]}, {"name": "Årby", "text": "A nature area near Eskilstuna with diverse flora.", "category": "natural", "coords": [16.519065, 59.392546]}, {"name": "Rademachersmedjorna", "text": "Historic 17th-century smithies, now a living museum.", "category": "museum", "coords": [16.507853, 59.374049]}, {"name": "Eskilstuna Teater", "text": "A historical theatre building for performances in Eskilstuna.", "category": "cultural", "coords": [16.51275, 59.372979]}, {"name": "Sörmlandsgården", "text": "An open-air museum showing rural life in Sörmland.", "category": "museum", "coords": [16.536119, 59.367324]}, {"name": "Tropikrally", "text": "An attraction at Parken Zoo in Eskilstuna.", "category": "landmark", "coords": [16.482838, 59.372431]}, {"name": "Kamel", "text": "Camels at the zoo in Eskilstuna.", "category": "landmark", "coords": [16.47638, 59.369534]}, {"name": "Karusell", "text": "A classic carousel for visitors.", "category": "landmark", "coords": [16.484508, 59.37244]}, {"name": "Leopard", "text": "Leopard enclosure at Parken Zoo.", "category": "landmark", "coords": [16.478782, 59.369902]}, {"name": "Tiger", "text": "Tiger enclosure at Parken Zoo.", "category": "landmark", "coords": [16.48014, 59.37043]}, {"name": "Lejon", "text": "Lion enclosure at Parken Zoo.", "category": "landmark", "coords": [16.481525, 59.370121]}, {"name": "S:t Eskilskyrkan", "text": "A modern church in Eskilstuna.", "category": "religious", "coords": [16.510105, 59.365662]}, {"name": "Fors kyrka", "text": "Eskilstuna's oldest church, dating back to the 11th century.", "category": "religious", "coords": [16.516103, 59.367335]}, {"name": "Klosters kyrka", "text": "A prominent church with twin towers in Eskilstuna.", "category": "religious", "coords": [16.518392, 59.374956]}, {"name": "Elimkyrkan", "text": "A free church building in Eskilstuna.", "category": "religious", "coords": [16.509338, 59.370518]}, {"name": "Sankt Petri kyrka", "text": "An evangelical church in Eskilstuna.", "category": "religious", "coords": [16.491106, 59.392342]}, {"name": "Sankt Pauli kyrka", "text": "A Christian place of worship in Eskilstuna.", "category": "religious", "coords": [16.542953, 59.393329]}, {"name": "Nybron", "text": "A historic bridge over the Eskilstunaån river.", "category": "landmark", "coords": [16.515794, 59.373441]}, {"name": "Tomaskyrkan", "text": "A modern parish church in Eskilstuna.", "category": "religious", "coords": [16.477799, 59.356788]}, {"name": "Sankt Andreas kyrka", "text": "A local church in the city of Eskilstuna.", "category": "religious", "coords": [16.516811, 59.359023]}, {"name": "Ansgarskyrkan", "text": "A modern church building in Eskilstuna.", "category": "religious", "coords": [16.499485, 59.357425]}, {"name": "Tacktorpsjön", "text": "Tacktorpsjön is a lake in Eskilstuna, providing a peaceful spot for enjoying nature.", "category": "natural", "coords": [16.433933, 59.350518]}, {"name": "Skiren", "text": "Skiren is a lake in Eskilstuna, suitable for a quiet walk or relaxation by the water.", "category": "natural", "coords": [16.389752, 59.354178]}, {"name": "Kvicken", "text": "Kvicken is a lake in Eskilstuna offering scenic views and a calm environment.", "category": "natural", "coords": [16.397659, 59.352325]}, {"name": "Hjälmaren", "text": "Hjälmaren is a large lake in Eskilstuna, perfect for enjoying waterfront scenery and walks.", "category": "natural", "coords": [15.84234, 59.230899]}, {"name": "Mälaren", "text": "Mälaren is a prominent lake in Eskilstuna, offering beautiful scenery for outdoor recreation.", "category": "natural", "coords": [17.039325, 59.494738]}, {"name": "Bergssjön", "text": "Bergssjön is a lake in Eskilstuna, ideal for a peaceful walk surrounded by nature.", "category": "natural", "coords": [16.387017, 59.38263]}, {"name": "Måsta lekpark", "text": "Måsta lekpark is a playground in Eskilstuna where children can play outdoors.", "category": "family", "coords": [16.49525, 59.394391]}, {"name": "Tornlekplatsen", "text": "Tornlekplatsen is a playground in Eskilstuna featuring outdoor equipment for children's entertainment.", "category": "family", "coords": [16.515367, 59.375128]}]},
+    id: "sweden-eskilstuna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skjulstabadet",
+                  "text": "Strand in der Nähe von Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.491149,
+                        59.339663
+                  ]
+            },
+            {
+                  "name": "Vilsta Badplats",
+                  "text": "Vilsta Badplats ist eine Badestelle in der Nähe von Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.505075,
+                        59.350429
+                  ]
+            },
+            {
+                  "name": "Stadsparkens Strand",
+                  "text": "Eingebettet in die grüne Umgebung des Stadtparks von Eskilstuna, bietet dieser Badeplatz eine perfekte Mischung aus Natur und Naherholung. Das ruhige Gewässer ist ideal für ein erfrischendes Bad an warmen schwedischen Sommertagen. Familien und Freunde treffen sich hier gerne, um auf den Wiesen rund um das Wasser die Seele baumeln zu lassen. Wer Ruhe sucht, genießt die friedliche Stimmung am besten in den frühen Morgenstunden.",
+                  "category": "recreational",
+                  "coords": [
+                        16.518494,
+                        59.372406
+                  ]
+            },
+            {
+                  "name": "Eskilstuna stadsmuseum",
+                  "text": "Stadtmuseum zur Geschichte und industriellen Entwicklung von Eskilstuna.",
+                  "category": "museum",
+                  "coords": [
+                        16.509852,
+                        59.375144
+                  ]
+            },
+            {
+                  "name": "Eskilstuna konstmuseum",
+                  "text": "Kunstmuseum mit schwedischer und internationaler Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        16.510649,
+                        59.37766
+                  ]
+            },
+            {
+                  "name": "Munktellmuseet",
+                  "text": "Ein Industriemuseum, das die Geschichte der Munktell-Maschinen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.510108,
+                        59.376493
+                  ]
+            },
+            {
+                  "name": "Kronskogen-Stenby äng",
+                  "text": "Ein großes Naturschutzgebiet mit Wanderwegen und Wiesen.",
+                  "category": "natural",
+                  "coords": [
+                        16.476689,
+                        59.364258
+                  ]
+            },
+            {
+                  "name": "Årby",
+                  "text": "Ein Naturgebiet in der Nähe von Eskilstuna mit vielfältiger Flora.",
+                  "category": "natural",
+                  "coords": [
+                        16.519065,
+                        59.392546
+                  ]
+            },
+            {
+                  "name": "Rademachersmedjorna",
+                  "text": "Historische Schmieden aus dem 17. Jahrhundert, heute ein lebendiges Museum.",
+                  "category": "museum",
+                  "coords": [
+                        16.507853,
+                        59.374049
+                  ]
+            },
+            {
+                  "name": "Eskilstuna Teater",
+                  "text": "Ein historisches Theatergebäude für Aufführungen in Eskilstuna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.51275,
+                        59.372979
+                  ]
+            },
+            {
+                  "name": "Sörmlandsgården",
+                  "text": "Ein Freilichtmuseum, das das ländliche Leben in Sörmland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.536119,
+                        59.367324
+                  ]
+            },
+            {
+                  "name": "Tropikrally",
+                  "text": "Eine Attraktion im Parken Zoo in Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.482838,
+                        59.372431
+                  ]
+            },
+            {
+                  "name": "Kamel",
+                  "text": "Kamele im Zoo von Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47638,
+                        59.369534
+                  ]
+            },
+            {
+                  "name": "Karusell",
+                  "text": "Ein klassisches Karussell für Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        16.484508,
+                        59.37244
+                  ]
+            },
+            {
+                  "name": "Leopard",
+                  "text": "Leopardengehege im Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.478782,
+                        59.369902
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Tigergehege im Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.48014,
+                        59.37043
+                  ]
+            },
+            {
+                  "name": "Lejon",
+                  "text": "Löwengehege im Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.481525,
+                        59.370121
+                  ]
+            },
+            {
+                  "name": "S:t Eskilskyrkan",
+                  "text": "Eine moderne Kirche in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.510105,
+                        59.365662
+                  ]
+            },
+            {
+                  "name": "Fors kyrka",
+                  "text": "Die älteste Kirche von Eskilstuna, die bis ins 11. Jahrhundert zurückreicht.",
+                  "category": "religious",
+                  "coords": [
+                        16.516103,
+                        59.367335
+                  ]
+            },
+            {
+                  "name": "Klosters kyrka",
+                  "text": "Eine markante Kirche mit zwei Türmen in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.518392,
+                        59.374956
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "Ein freikirchliches Gebäude in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.509338,
+                        59.370518
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Eine evangelische Kirche in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.491106,
+                        59.392342
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Eine christliche Gebetsstätte in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.542953,
+                        59.393329
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "Eine historische Brücke über den Fluss Eskilstunaån.",
+                  "category": "landmark",
+                  "coords": [
+                        16.515794,
+                        59.373441
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "Eine moderne Gemeindekirche in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.477799,
+                        59.356788
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "Eine lokale Kirche in der Stadt Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.516811,
+                        59.359023
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Ein modernes Kirchengebäude in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.499485,
+                        59.357425
+                  ]
+            },
+            {
+                  "name": "Tacktorpsjön",
+                  "text": "Tacktorpsjön ist ein See in Eskilstuna, der ein friedliches Plätzchen zum Genießen der Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.433933,
+                        59.350518
+                  ]
+            },
+            {
+                  "name": "Skiren",
+                  "text": "Skiren ist ein See in Eskilstuna, ideal für einen ruhigen Spaziergang oder zum Entspannen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        16.389752,
+                        59.354178
+                  ]
+            },
+            {
+                  "name": "Kvicken",
+                  "text": "Kvicken ist ein See in Eskilstuna, der eine malerische Aussicht und eine ruhige Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.397659,
+                        59.352325
+                  ]
+            },
+            {
+                  "name": "Hjälmaren",
+                  "text": "Hjälmaren ist ein großer See in Eskilstuna, ideal um die Landschaft am Wasser und Spaziergänge zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        15.84234,
+                        59.230899
+                  ]
+            },
+            {
+                  "name": "Mälarsee",
+                  "text": "Mälaren ist ein bedeutender See in Eskilstuna, der eine schöne Landschaft für die Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Bergssjön",
+                  "text": "Bergssjön ist ein See in Eskilstuna, ideal für einen friedlichen Spaziergang inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.387017,
+                        59.38263
+                  ]
+            },
+            {
+                  "name": "Måsta lekpark",
+                  "text": "Måsta lekpark ist ein Spielplatz in Eskilstuna, auf dem Kinder im Freien spielen können.",
+                  "category": "family",
+                  "coords": [
+                        16.49525,
+                        59.394391
+                  ]
+            },
+            {
+                  "name": "Tornlekplatsen",
+                  "text": "Tornlekplatsen ist ein Spielplatz in Eskilstuna mit Outdoor-Geräten zur Unterhaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        16.515367,
+                        59.375128
+                  ]
+            },
+            {
+                  "name": "Parkenbadet",
+                  "text": "Diese Schwimmeinrichtung in Eskilstuna bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        16.478649,
+                        59.371492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skjulstabadet",
+                  "text": "Part Eskilstuna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.491149,
+                        59.339663
+                  ]
+            },
+            {
+                  "name": "Vilsta Badplats",
+                  "text": "Vilsta Badplats egy strandfürdő Eskilstuna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.505075,
+                        59.350429
+                  ]
+            },
+            {
+                  "name": "Stadsparkens Strand",
+                  "text": "Az Eskilstuna városi park zöld környezetében fekvő fürdőhely a természet és a helyi kikapcsolódás tökéletes keverékét kínálja. A csendes víz ideális egy frissítő fürdőzéshez a meleg svéd nyári napokon. Családok és barátok találkoznak itt szívesen, hogy a víz körüli réteken lazítsanak és feltöltődjenek. Aki csendre vágyik, az a kora reggeli órákban élvezheti a leginkább a békés hangulatot.",
+                  "category": "recreational",
+                  "coords": [
+                        16.518494,
+                        59.372406
+                  ]
+            },
+            {
+                  "name": "Eskilstuna stadsmuseum",
+                  "text": "Eskilstuna történelmét és ipari fejlődését bemutató városi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.509852,
+                        59.375144
+                  ]
+            },
+            {
+                  "name": "Eskilstuna konstmuseum",
+                  "text": "Művészeti múzeum svéd és nemzetközi alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        16.510649,
+                        59.37766
+                  ]
+            },
+            {
+                  "name": "Munktellmuseet",
+                  "text": "A Munktell gépek történetét bemutató ipari múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.510108,
+                        59.376493
+                  ]
+            },
+            {
+                  "name": "Kronskogen-Stenby äng",
+                  "text": "Nagy természetvédelmi terület túraútvonalakkal és rétekkel.",
+                  "category": "natural",
+                  "coords": [
+                        16.476689,
+                        59.364258
+                  ]
+            },
+            {
+                  "name": "Årby",
+                  "text": "Természeti terület Eskilstuna közelében, változatos flórával.",
+                  "category": "natural",
+                  "coords": [
+                        16.519065,
+                        59.392546
+                  ]
+            },
+            {
+                  "name": "Rademachersmedjorna",
+                  "text": "17. századi történelmi kovácsműhelyek, ma élő múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.507853,
+                        59.374049
+                  ]
+            },
+            {
+                  "name": "Eskilstuna Teater",
+                  "text": "Történelmi színházépület Eskilstunában.",
+                  "category": "cultural",
+                  "coords": [
+                        16.51275,
+                        59.372979
+                  ]
+            },
+            {
+                  "name": "Sörmlandsgården",
+                  "text": "A sörmlandi vidéki életet bemutató szabadtéri múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.536119,
+                        59.367324
+                  ]
+            },
+            {
+                  "name": "Tropikrally",
+                  "text": "Attrakció az eskilstunai Parken Zooban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.482838,
+                        59.372431
+                  ]
+            },
+            {
+                  "name": "Kamel",
+                  "text": "Teve az eskilstunai állatkertben.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47638,
+                        59.369534
+                  ]
+            },
+            {
+                  "name": "Karusell",
+                  "text": "Klasszikus körhinta a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        16.484508,
+                        59.37244
+                  ]
+            },
+            {
+                  "name": "Leopard",
+                  "text": "Leopárdkifutó a Parken Zooban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.478782,
+                        59.369902
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Tigriskifutó a Parken Zooban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.48014,
+                        59.37043
+                  ]
+            },
+            {
+                  "name": "Lejon",
+                  "text": "Oroszlánkifutó a Parken Zooban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.481525,
+                        59.370121
+                  ]
+            },
+            {
+                  "name": "S:t Eskilskyrkan",
+                  "text": "Modern templom Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.510105,
+                        59.365662
+                  ]
+            },
+            {
+                  "name": "Fors kyrka",
+                  "text": "Eskilstuna legrégebbi temploma, amely a 11. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        16.516103,
+                        59.367335
+                  ]
+            },
+            {
+                  "name": "Klosters kyrka",
+                  "text": "Jellegzetes kétmilliós templom Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.518392,
+                        59.374956
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "Szabadegyházi épület Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.509338,
+                        59.370518
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Evangélikus templom Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.491106,
+                        59.392342
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Keresztény imaház Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.542953,
+                        59.393329
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "Történelmi híd az Eskilstunaån folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        16.515794,
+                        59.373441
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "Modern egyházközségi templom Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.477799,
+                        59.356788
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "Helyi templom Eskilstuna városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.516811,
+                        59.359023
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Modern templomépület Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.499485,
+                        59.357425
+                  ]
+            },
+            {
+                  "name": "Tacktorpsjön",
+                  "text": "A Tacktorpsjön egy tó Eskilstuna városában, amely nyugodt helyet kínál a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        16.433933,
+                        59.350518
+                  ]
+            },
+            {
+                  "name": "Skiren",
+                  "text": "A Skiren egy tó Eskilstuna városában, amely alkalmas egy csendes sétára vagy vízparti kikapcsolódásra.",
+                  "category": "natural",
+                  "coords": [
+                        16.389752,
+                        59.354178
+                  ]
+            },
+            {
+                  "name": "Kvicken",
+                  "text": "A Kvicken egy tó Eskilstuna városában, amely festői kilátást és nyugodt környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.397659,
+                        59.352325
+                  ]
+            },
+            {
+                  "name": "Hjälmaren",
+                  "text": "A Hjälmaren egy nagy tó Eskilstuna városában, amely tökéletes a vízparti táj és a séták élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.84234,
+                        59.230899
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "A Mälaren egy jelentős tó Eskilstuna városában, amely gyönyörű tájat kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Bergssjön",
+                  "text": "A Bergssjön egy tó Eskilstuna városában, amely ideális egy békés sétához a természet lágy ölén.",
+                  "category": "natural",
+                  "coords": [
+                        16.387017,
+                        59.38263
+                  ]
+            },
+            {
+                  "name": "Måsta lekpark",
+                  "text": "A Måsta lekpark egy játszótér Eskilstuna városában, ahol a gyerekek a szabadban játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        16.49525,
+                        59.394391
+                  ]
+            },
+            {
+                  "name": "Tornlekplatsen",
+                  "text": "A Tornlekplatsen egy játszótér Eskilstuna városában, ahol szabadtéri eszközök várják a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        16.515367,
+                        59.375128
+                  ]
+            },
+            {
+                  "name": "Parkenbadet",
+                  "text": "Ez a Eskilstuna városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        16.478649,
+                        59.371492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skjulstabadet",
+                  "text": "Plajă în apropiere de Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.491149,
+                        59.339663
+                  ]
+            },
+            {
+                  "name": "Vilsta Badplats",
+                  "text": "Vilsta Badplats este o zonă de scăldat lângă Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.505075,
+                        59.350429
+                  ]
+            },
+            {
+                  "name": "Stadsparkens Strand",
+                  "text": "Amplasat în împrejurimile verzi ale parcului orașului Eskilstuna, acest loc de scăldat oferă un amestec perfect de natură și recreere locală. Apele calme sunt ideale pentru o baie răcoritoare în zilele calde de vară suedeze. Familiilor și prietenilor le place să se întâlnească aici pentru a se relaxa pe pajiștile din jurul apei. Cei care caută liniștea se pot bucura cel mai bine de atmosfera pașnică la primele ore ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        16.518494,
+                        59.372406
+                  ]
+            },
+            {
+                  "name": "Eskilstuna stadsmuseum",
+                  "text": "Muzeul orașului despre istoria și dezvoltarea industrială a orașului Eskilstuna.",
+                  "category": "museum",
+                  "coords": [
+                        16.509852,
+                        59.375144
+                  ]
+            },
+            {
+                  "name": "Eskilstuna konstmuseum",
+                  "text": "Muzeu de artă care expune lucrări suedeze și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        16.510649,
+                        59.37766
+                  ]
+            },
+            {
+                  "name": "Munktellmuseet",
+                  "text": "Un muzeu industrial care prezintă istoria utilajelor Munktell.",
+                  "category": "museum",
+                  "coords": [
+                        16.510108,
+                        59.376493
+                  ]
+            },
+            {
+                  "name": "Kronskogen-Stenby äng",
+                  "text": "O rezervație naturală mare cu trasee de drumeție și pajiști.",
+                  "category": "natural",
+                  "coords": [
+                        16.476689,
+                        59.364258
+                  ]
+            },
+            {
+                  "name": "Årby",
+                  "text": "O zonă naturală lângă Eskilstuna cu o floră diversă.",
+                  "category": "natural",
+                  "coords": [
+                        16.519065,
+                        59.392546
+                  ]
+            },
+            {
+                  "name": "Rademachersmedjorna",
+                  "text": "Forje istorice din secolul al XVII-lea, astăzi un muzeu viu.",
+                  "category": "museum",
+                  "coords": [
+                        16.507853,
+                        59.374049
+                  ]
+            },
+            {
+                  "name": "Eskilstuna Teater",
+                  "text": "O clădire istorică de teatru pentru spectacole în Eskilstuna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.51275,
+                        59.372979
+                  ]
+            },
+            {
+                  "name": "Sörmlandsgården",
+                  "text": "Un muzeu în aer liber care prezintă viața rurală din Sörmland.",
+                  "category": "museum",
+                  "coords": [
+                        16.536119,
+                        59.367324
+                  ]
+            },
+            {
+                  "name": "Tropikrally",
+                  "text": "O atracție în Parken Zoo din Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.482838,
+                        59.372431
+                  ]
+            },
+            {
+                  "name": "Kamel",
+                  "text": "Cămile la grădina zoologică din Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47638,
+                        59.369534
+                  ]
+            },
+            {
+                  "name": "Karusell",
+                  "text": "Un carusel clasic pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        16.484508,
+                        59.37244
+                  ]
+            },
+            {
+                  "name": "Leopard",
+                  "text": "Țarcul leopardului în Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.478782,
+                        59.369902
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Țarcul tigrului în Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.48014,
+                        59.37043
+                  ]
+            },
+            {
+                  "name": "Lejon",
+                  "text": "Țarcul leului în Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.481525,
+                        59.370121
+                  ]
+            },
+            {
+                  "name": "S:t Eskilskyrkan",
+                  "text": "O biserică modernă în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.510105,
+                        59.365662
+                  ]
+            },
+            {
+                  "name": "Fors kyrka",
+                  "text": "Cea mai veche biserică din Eskilstuna, datând din secolul al XI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        16.516103,
+                        59.367335
+                  ]
+            },
+            {
+                  "name": "Klosters kyrka",
+                  "text": "O biserică proeminentă cu două turnuri în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.518392,
+                        59.374956
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "O clădire a bisericii libere în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.509338,
+                        59.370518
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "O biserică evanghelică în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.491106,
+                        59.392342
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Un lăcaș de cult creștin în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.542953,
+                        59.393329
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "Un pod istoric peste râul Eskilstunaån.",
+                  "category": "landmark",
+                  "coords": [
+                        16.515794,
+                        59.373441
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "O biserică parohială modernă în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.477799,
+                        59.356788
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "O biserică locală în orașul Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.516811,
+                        59.359023
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "O clădire modernă de biserică în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.499485,
+                        59.357425
+                  ]
+            },
+            {
+                  "name": "Tacktorpsjön",
+                  "text": "Tacktorpsjön este un lac în Eskilstuna, oferind un loc liniștit pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.433933,
+                        59.350518
+                  ]
+            },
+            {
+                  "name": "Skiren",
+                  "text": "Skiren este un lac în Eskilstuna, potrivit pentru o plimbare liniștită sau relaxare pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        16.389752,
+                        59.354178
+                  ]
+            },
+            {
+                  "name": "Kvicken",
+                  "text": "Kvicken este un lac în Eskilstuna, oferind vedere pitorească și un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        16.397659,
+                        59.352325
+                  ]
+            },
+            {
+                  "name": "Hjälmaren",
+                  "text": "Hjälmaren este un lac mare în Eskilstuna, perfect pentru a te bucura de peisajul de pe malul apei și de plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        15.84234,
+                        59.230899
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren este un lac proeminent în Eskilstuna, oferind un peisaj frumos pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Bergssjön",
+                  "text": "Bergssjön este un lac în Eskilstuna, ideal pentru o plimbare liniștită în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        16.387017,
+                        59.38263
+                  ]
+            },
+            {
+                  "name": "Måsta lekpark",
+                  "text": "Måsta lekpark este un teren de joacă în Eskilstuna, unde copiii se pot juca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        16.49525,
+                        59.394391
+                  ]
+            },
+            {
+                  "name": "Tornlekplatsen",
+                  "text": "Tornlekplatsen este un teren de joacă în Eskilstuna, dotat cu echipamente în aer liber pentru divertismentul copiilor.",
+                  "category": "family",
+                  "coords": [
+                        16.515367,
+                        59.375128
+                  ]
+            },
+            {
+                  "name": "Parkenbadet",
+                  "text": "Această unitate de înot din Eskilstuna oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        16.478649,
+                        59.371492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skjulstabadet",
+                  "text": "Beach near Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.491149,
+                        59.339663
+                  ]
+            },
+            {
+                  "name": "Vilsta Badplats",
+                  "text": "Vilsta Badplats is a swimming area near Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.505075,
+                        59.350429
+                  ]
+            },
+            {
+                  "name": "Stadsparkens Strand",
+                  "text": "Nestled in the lush green surroundings of the Eskilstuna city park, this bathing spot offers a perfect blend of nature and local recreation. The calm waters are absolutely ideal for a refreshing dip on warm Swedish summer days. Families and friends love to meet here to relax on the inviting meadows surrounding the water. Those seeking tranquility will best enjoy the peaceful atmosphere during the early morning hours.",
+                  "category": "recreational",
+                  "coords": [
+                        16.518494,
+                        59.372406
+                  ]
+            },
+            {
+                  "name": "Eskilstuna stadsmuseum",
+                  "text": "City museum detailing the history and industrial development of Eskilstuna.",
+                  "category": "museum",
+                  "coords": [
+                        16.509852,
+                        59.375144
+                  ]
+            },
+            {
+                  "name": "Eskilstuna konstmuseum",
+                  "text": "Art museum featuring Swedish and international works.",
+                  "category": "museum",
+                  "coords": [
+                        16.510649,
+                        59.37766
+                  ]
+            },
+            {
+                  "name": "Munktellmuseet",
+                  "text": "An industrial museum focusing on the history of Munktell machinery.",
+                  "category": "museum",
+                  "coords": [
+                        16.510108,
+                        59.376493
+                  ]
+            },
+            {
+                  "name": "Kronskogen-Stenby äng",
+                  "text": "A large nature reserve with hiking trails and meadows.",
+                  "category": "natural",
+                  "coords": [
+                        16.476689,
+                        59.364258
+                  ]
+            },
+            {
+                  "name": "Årby",
+                  "text": "A nature area near Eskilstuna with diverse flora.",
+                  "category": "natural",
+                  "coords": [
+                        16.519065,
+                        59.392546
+                  ]
+            },
+            {
+                  "name": "Rademachersmedjorna",
+                  "text": "Historic 17th-century smithies, now a living museum.",
+                  "category": "museum",
+                  "coords": [
+                        16.507853,
+                        59.374049
+                  ]
+            },
+            {
+                  "name": "Eskilstuna Teater",
+                  "text": "A historical theatre building for performances in Eskilstuna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.51275,
+                        59.372979
+                  ]
+            },
+            {
+                  "name": "Sörmlandsgården",
+                  "text": "An open-air museum showing rural life in Sörmland.",
+                  "category": "museum",
+                  "coords": [
+                        16.536119,
+                        59.367324
+                  ]
+            },
+            {
+                  "name": "Tropikrally",
+                  "text": "An attraction at Parken Zoo in Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.482838,
+                        59.372431
+                  ]
+            },
+            {
+                  "name": "Kamel",
+                  "text": "Camels at the zoo in Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47638,
+                        59.369534
+                  ]
+            },
+            {
+                  "name": "Karusell",
+                  "text": "A classic carousel for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        16.484508,
+                        59.37244
+                  ]
+            },
+            {
+                  "name": "Leopard",
+                  "text": "Leopard enclosure at Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.478782,
+                        59.369902
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Tiger enclosure at Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.48014,
+                        59.37043
+                  ]
+            },
+            {
+                  "name": "Lejon",
+                  "text": "Lion enclosure at Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.481525,
+                        59.370121
+                  ]
+            },
+            {
+                  "name": "S:t Eskilskyrkan",
+                  "text": "A modern church in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.510105,
+                        59.365662
+                  ]
+            },
+            {
+                  "name": "Fors kyrka",
+                  "text": "Eskilstuna's oldest church, dating back to the 11th century.",
+                  "category": "religious",
+                  "coords": [
+                        16.516103,
+                        59.367335
+                  ]
+            },
+            {
+                  "name": "Klosters kyrka",
+                  "text": "A prominent church with twin towers in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.518392,
+                        59.374956
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "A free church building in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.509338,
+                        59.370518
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "An evangelical church in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.491106,
+                        59.392342
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "A Christian place of worship in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.542953,
+                        59.393329
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "A historic bridge over the Eskilstunaån river.",
+                  "category": "landmark",
+                  "coords": [
+                        16.515794,
+                        59.373441
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "A modern parish church in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.477799,
+                        59.356788
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "A local church in the city of Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.516811,
+                        59.359023
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "A modern church building in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.499485,
+                        59.357425
+                  ]
+            },
+            {
+                  "name": "Tacktorpsjön",
+                  "text": "Tacktorpsjön is a lake in Eskilstuna, providing a peaceful spot for enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.433933,
+                        59.350518
+                  ]
+            },
+            {
+                  "name": "Skiren",
+                  "text": "Skiren is a lake in Eskilstuna, suitable for a quiet walk or relaxation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        16.389752,
+                        59.354178
+                  ]
+            },
+            {
+                  "name": "Kvicken",
+                  "text": "Kvicken is a lake in Eskilstuna offering scenic views and a calm environment.",
+                  "category": "natural",
+                  "coords": [
+                        16.397659,
+                        59.352325
+                  ]
+            },
+            {
+                  "name": "Hjälmaren",
+                  "text": "Hjälmaren is a large lake in Eskilstuna, perfect for enjoying waterfront scenery and walks.",
+                  "category": "natural",
+                  "coords": [
+                        15.84234,
+                        59.230899
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren is a prominent lake in Eskilstuna, offering beautiful scenery for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Bergssjön",
+                  "text": "Bergssjön is a lake in Eskilstuna, ideal for a peaceful walk surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.387017,
+                        59.38263
+                  ]
+            },
+            {
+                  "name": "Måsta lekpark",
+                  "text": "Måsta lekpark is a playground in Eskilstuna where children can play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        16.49525,
+                        59.394391
+                  ]
+            },
+            {
+                  "name": "Tornlekplatsen",
+                  "text": "Tornlekplatsen is a playground in Eskilstuna featuring outdoor equipment for children's entertainment.",
+                  "category": "family",
+                  "coords": [
+                        16.515367,
+                        59.375128
+                  ]
+            },
+            {
+                  "name": "Parkenbadet",
+                  "text": "This swimming facility in Eskilstuna offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        16.478649,
+                        59.371492
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Eskilstuna", hu: "Eskilstuna", ro: "Eskilstuna", en: "Eskilstuna"},
@@ -3770,6 +5219,15 @@ imageHint: "Eskilstuna city center river view",
                         17.146751,
                         60.652261
                   ]
+            },
+            {
+                  "name": "Strömsbrobadet",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Gaevle.",
+                  "category": "family",
+                  "coords": [
+                        17.155445,
+                        60.705193
+                  ]
             }
       ],
       "hu": [
@@ -4311,6 +5769,15 @@ imageHint: "Eskilstuna city center river view",
                   "coords": [
                         17.146751,
                         60.652261
+                  ]
+            },
+            {
+                  "name": "Strömsbrobadet",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Gaevle városában.",
+                  "category": "family",
+                  "coords": [
+                        17.155445,
+                        60.705193
                   ]
             }
       ],
@@ -4854,6 +6321,15 @@ imageHint: "Eskilstuna city center river view",
                         17.146751,
                         60.652261
                   ]
+            },
+            {
+                  "name": "Strömsbrobadet",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Gaevle.",
+                  "category": "family",
+                  "coords": [
+                        17.155445,
+                        60.705193
+                  ]
             }
       ],
       "en": [
@@ -5395,6 +6871,15 @@ imageHint: "Eskilstuna city center river view",
                   "coords": [
                         17.146751,
                         60.652261
+                  ]
+            },
+            {
+                  "name": "Strömsbrobadet",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Gaevle.",
+                  "category": "family",
+                  "coords": [
+                        17.155445,
+                        60.705193
                   ]
             }
       ]
@@ -6851,6 +8336,15 @@ imageHint: "Aerial view of the Södertälje Canal and industrial area",
                         12.274627,
                         58.275879
                   ]
+            },
+            {
+                  "name": "Vårviks Gård",
+                  "text": "Ein familienfreundlicher Zoo in Trollhaettan, in dem Besucher verschiedene Tierarten sehen können.",
+                  "category": "family",
+                  "coords": [
+                        12.286848,
+                        58.29919
+                  ]
             }
       ],
       "hu": [
@@ -6996,6 +8490,15 @@ imageHint: "Aerial view of the Södertälje Canal and industrial area",
                   "coords": [
                         12.274627,
                         58.275879
+                  ]
+            },
+            {
+                  "name": "Vårviks Gård",
+                  "text": "Családbarát állatkert Trollhaettan városában, ahol a látogatók különféle állatfajokat tekinthetnek meg.",
+                  "category": "family",
+                  "coords": [
+                        12.286848,
+                        58.29919
                   ]
             }
       ],
@@ -7143,6 +8646,15 @@ imageHint: "Aerial view of the Södertälje Canal and industrial area",
                         12.274627,
                         58.275879
                   ]
+            },
+            {
+                  "name": "Vårviks Gård",
+                  "text": "O grădină zoologică pentru familii în Trollhaettan, unde vizitatorii pot vedea diverse specii de animale.",
+                  "category": "family",
+                  "coords": [
+                        12.286848,
+                        58.29919
+                  ]
             }
       ],
       "en": [
@@ -7288,6 +8800,15 @@ imageHint: "Aerial view of the Södertälje Canal and industrial area",
                   "coords": [
                         12.274627,
                         58.275879
+                  ]
+            },
+            {
+                  "name": "Vårviks Gård",
+                  "text": "A family-friendly zoo in Trollhaettan where visitors can see various animal species.",
+                  "category": "family",
+                  "coords": [
+                        12.286848,
+                        58.29919
                   ]
             }
       ]
@@ -7806,6 +9327,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.681628,
                         60.531981
                   ]
+            },
+            {
+                  "name": "Södra Vällan",
+                  "text": "Ein öffentlicher Badeplatz in Falun, der eine natürliche Umgebung zum Schwimmen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.589267,
+                        60.580452
+                  ]
+            },
+            {
+                  "name": "Slättabadet",
+                  "text": "Ein öffentlicher Badeplatz in Falun, der Einrichtungen für Wassererholung in einer malerischen Umgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.595152,
+                        60.621476
+                  ]
             }
       ],
       "hu": [
@@ -8275,6 +9814,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.681628,
                         60.531981
+                  ]
+            },
+            {
+                  "name": "Södra Vällan",
+                  "text": "Faluni nyilvános fürdőhely, amely természetes környezetet kínál az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        15.589267,
+                        60.580452
+                  ]
+            },
+            {
+                  "name": "Slättabadet",
+                  "text": "Faluni nyilvános fürdőhely, amely vízi kikapcsolódási lehetőségeket kínál festői környezetben.",
+                  "category": "family",
+                  "coords": [
+                        15.595152,
+                        60.621476
                   ]
             }
       ],
@@ -8746,6 +10303,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.681628,
                         60.531981
                   ]
+            },
+            {
+                  "name": "Södra Vällan",
+                  "text": "O zonă publică de scăldat în Falun, care oferă un cadru natural pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        15.589267,
+                        60.580452
+                  ]
+            },
+            {
+                  "name": "Slättabadet",
+                  "text": "Un loc public de scăldat în Falun, care oferă facilități pentru recreere acvatică într-un mediu pitoresc.",
+                  "category": "family",
+                  "coords": [
+                        15.595152,
+                        60.621476
+                  ]
             }
       ],
       "en": [
@@ -9215,6 +10790,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.681628,
                         60.531981
+                  ]
+            },
+            {
+                  "name": "Södra Vällan",
+                  "text": "A public bathing area in Falun offering a natural setting for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        15.589267,
+                        60.580452
+                  ]
+            },
+            {
+                  "name": "Slättabadet",
+                  "text": "A public bathing spot in Falun providing facilities for water recreation in a scenic environment.",
+                  "category": "family",
+                  "coords": [
+                        15.595152,
+                        60.621476
                   ]
             }
       ]
@@ -9889,6 +11482,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.822427,
                         58.404153
                   ]
+            },
+            {
+                  "name": "Stellas Lekland",
+                  "text": "Ein tolles Ziel für Familienspaß und Unterhaltung in Skoevde.",
+                  "category": "family",
+                  "coords": [
+                        13.880626,
+                        58.415682
+                  ]
             }
       ],
       "hu": [
@@ -10025,6 +11627,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.822427,
                         58.404153
+                  ]
+            },
+            {
+                  "name": "Stellas Lekland",
+                  "text": "Nagyszerű úti cél a családi szórakozáshoz és kikapcsolódáshoz Skoevde területén.",
+                  "category": "family",
+                  "coords": [
+                        13.880626,
+                        58.415682
                   ]
             }
       ],
@@ -10163,6 +11774,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.822427,
                         58.404153
                   ]
+            },
+            {
+                  "name": "Stellas Lekland",
+                  "text": "O destinație excelentă pentru distracție în familie și divertisment în Skoevde.",
+                  "category": "family",
+                  "coords": [
+                        13.880626,
+                        58.415682
+                  ]
             }
       ],
       "en": [
@@ -10299,6 +11919,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.822427,
                         58.404153
+                  ]
+            },
+            {
+                  "name": "Stellas Lekland",
+                  "text": "A great destination for family fun and entertainment in Skoevde.",
+                  "category": "family",
+                  "coords": [
+                        13.880626,
+                        58.415682
                   ]
             }
       ]
@@ -10530,6 +12159,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.168196,
                         56.050135
                   ]
+            },
+            {
+                  "name": "Tivolibadet",
+                  "text": "Eine Schwimmeinrichtung in Kristianstad, die Innenbecken für Sport und Familienspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.150402,
+                        56.029884
+                  ]
             }
       ],
       "hu": [
@@ -10711,6 +12349,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.168196,
                         56.050135
+                  ]
+            },
+            {
+                  "name": "Tivolibadet",
+                  "text": "Kristianstadi úszólétesítmény, amely fedett medencéket kínál edzéshez és családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.150402,
+                        56.029884
                   ]
             }
       ],
@@ -10894,6 +12541,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.168196,
                         56.050135
                   ]
+            },
+            {
+                  "name": "Tivolibadet",
+                  "text": "O facilitate de înot în Kristianstad, care oferă piscine interioare pentru exerciții fizice și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        14.150402,
+                        56.029884
+                  ]
             }
       ],
       "en": [
@@ -11075,6 +12731,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.168196,
                         56.050135
+                  ]
+            },
+            {
+                  "name": "Tivolibadet",
+                  "text": "A swimming facility in Kristianstad providing indoor pools for exercise and family fun.",
+                  "category": "family",
+                  "coords": [
+                        14.150402,
+                        56.029884
                   ]
             }
       ]
@@ -12183,6 +13848,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.567882,
                         56.173237
                   ]
+            },
+            {
+                  "name": "Karlskrona simhall och varmbadhus",
+                  "text": "Eine Schwimmhalle in Karlskrona mit Becken und Warmbädern für Entspannung und Sport.",
+                  "category": "family",
+                  "coords": [
+                        15.587573,
+                        56.165853
+                  ]
             }
       ],
       "hu": [
@@ -12274,6 +13948,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.567882,
                         56.173237
+                  ]
+            },
+            {
+                  "name": "Karlskrona simhall och varmbadhus",
+                  "text": "Karlskronai uszoda medencékkel és melegvizes fürdőkkel a pihenéshez és edzéshez.",
+                  "category": "family",
+                  "coords": [
+                        15.587573,
+                        56.165853
                   ]
             }
       ],
@@ -12367,6 +14050,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.567882,
                         56.173237
                   ]
+            },
+            {
+                  "name": "Karlskrona simhall och varmbadhus",
+                  "text": "O sală de înot în Karlskrona, cu piscine și băi calde pentru relaxare și exerciții fizice.",
+                  "category": "family",
+                  "coords": [
+                        15.587573,
+                        56.165853
+                  ]
             }
       ],
       "en": [
@@ -12458,6 +14150,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.567882,
                         56.173237
+                  ]
+            },
+            {
+                  "name": "Karlskrona simhall och varmbadhus",
+                  "text": "A swimming hall in Karlskrona featuring pools and warm baths for relaxation and exercise.",
+                  "category": "family",
+                  "coords": [
+                        15.587573,
+                        56.165853
                   ]
             }
       ]
@@ -12734,6 +14435,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         11.876575,
                         58.393176
                   ]
+            },
+            {
+                  "name": "Stellas Lekland",
+                  "text": "Diese familienfreundliche Attraktion in Uddevalla bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        11.969919,
+                        58.35578
+                  ]
+            },
+            {
+                  "name": "Emaus lantgård",
+                  "text": "Diese familienfreundliche Attraktion in Uddevalla bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        11.927711,
+                        58.331504
+                  ]
+            },
+            {
+                  "name": "Rimnersbadet",
+                  "text": "Diese Schwimmeinrichtung in Uddevalla bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        11.95109,
+                        58.35655
+                  ]
             }
       ],
       "hu": [
@@ -12960,6 +14688,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         11.876575,
                         58.393176
+                  ]
+            },
+            {
+                  "name": "Stellas Lekland",
+                  "text": "Ez a családbarát látványosság Uddevalla városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        11.969919,
+                        58.35578
+                  ]
+            },
+            {
+                  "name": "Emaus lantgård",
+                  "text": "Ez a családbarát látványosság Uddevalla városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        11.927711,
+                        58.331504
+                  ]
+            },
+            {
+                  "name": "Rimnersbadet",
+                  "text": "Ez a Uddevalla városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        11.95109,
+                        58.35655
                   ]
             }
       ],
@@ -13188,6 +14943,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         11.876575,
                         58.393176
                   ]
+            },
+            {
+                  "name": "Stellas Lekland",
+                  "text": "Această atracție de familie din Uddevalla oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        11.969919,
+                        58.35578
+                  ]
+            },
+            {
+                  "name": "Emaus lantgård",
+                  "text": "Această atracție de familie din Uddevalla oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        11.927711,
+                        58.331504
+                  ]
+            },
+            {
+                  "name": "Rimnersbadet",
+                  "text": "Această unitate de înot din Uddevalla oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        11.95109,
+                        58.35655
+                  ]
             }
       ],
       "en": [
@@ -13414,6 +15196,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         11.876575,
                         58.393176
+                  ]
+            },
+            {
+                  "name": "Stellas Lekland",
+                  "text": "This family-friendly attraction in Uddevalla offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        11.969919,
+                        58.35578
+                  ]
+            },
+            {
+                  "name": "Emaus lantgård",
+                  "text": "This family-friendly attraction in Uddevalla offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        11.927711,
+                        58.331504
+                  ]
+            },
+            {
+                  "name": "Rimnersbadet",
+                  "text": "This swimming facility in Uddevalla offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        11.95109,
+                        58.35655
                   ]
             }
       ]
@@ -13690,6 +15499,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.253307,
                         57.126812
                   ]
+            },
+            {
+                  "name": "Håstens Simhall",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Varberg.",
+                  "category": "family",
+                  "coords": [
+                        12.279503,
+                        57.118457
+                  ]
             }
       ],
       "hu": [
@@ -13916,6 +15734,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.253307,
                         57.126812
+                  ]
+            },
+            {
+                  "name": "Håstens Simhall",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Varberg városában.",
+                  "category": "family",
+                  "coords": [
+                        12.279503,
+                        57.118457
                   ]
             }
       ],
@@ -14144,6 +15971,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.253307,
                         57.126812
                   ]
+            },
+            {
+                  "name": "Håstens Simhall",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Varberg.",
+                  "category": "family",
+                  "coords": [
+                        12.279503,
+                        57.118457
+                  ]
             }
       ],
       "en": [
@@ -14370,6 +16206,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.253307,
                         57.126812
+                  ]
+            },
+            {
+                  "name": "Håstens Simhall",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Varberg.",
+                  "category": "family",
+                  "coords": [
+                        12.279503,
+                        57.118457
                   ]
             }
       ]
@@ -15696,6 +17541,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.028515,
                         58.762835
                   ]
+            },
+            {
+                  "name": "Hjortensbergsbadet",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Nykoeping.",
+                  "category": "family",
+                  "coords": [
+                        17.025032,
+                        58.763704
+                  ]
             }
       ],
       "hu": [
@@ -15796,6 +17650,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.028515,
                         58.762835
+                  ]
+            },
+            {
+                  "name": "Hjortensbergsbadet",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Nykoeping városában.",
+                  "category": "family",
+                  "coords": [
+                        17.025032,
+                        58.763704
                   ]
             }
       ],
@@ -15898,6 +17761,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.028515,
                         58.762835
                   ]
+            },
+            {
+                  "name": "Hjortensbergsbadet",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Nykoeping.",
+                  "category": "family",
+                  "coords": [
+                        17.025032,
+                        58.763704
+                  ]
             }
       ],
       "en": [
@@ -15998,6 +17870,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.028515,
                         58.762835
+                  ]
+            },
+            {
+                  "name": "Hjortensbergsbadet",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Nykoeping.",
+                  "category": "family",
+                  "coords": [
+                        17.025032,
+                        58.763704
                   ]
             }
       ]
@@ -19371,6 +21252,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.862177,
                         56.171428
                   ]
+            },
+            {
+                  "name": "Karlshamns Kallbadhus",
+                  "text": "Ein traditionelles öffentliches Bad in Karlshamn, das ein einzigartiges Schwimmerlebnis am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.877491,
+                        56.160869
+                  ]
             }
       ],
       "hu": [
@@ -19462,6 +21352,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.862177,
                         56.171428
+                  ]
+            },
+            {
+                  "name": "Karlshamns Kallbadhus",
+                  "text": "Karlshamni hagyományos nyilvános fürdő, amely különleges úszási élményt nyújt a tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        14.877491,
+                        56.160869
                   ]
             }
       ],
@@ -19555,6 +21454,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.862177,
                         56.171428
                   ]
+            },
+            {
+                  "name": "Karlshamns Kallbadhus",
+                  "text": "O baie publică tradițională în Karlshamn, care oferă o experiență unică de înot la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.877491,
+                        56.160869
+                  ]
             }
       ],
       "en": [
@@ -19646,6 +21554,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.862177,
                         56.171428
+                  ]
+            },
+            {
+                  "name": "Karlshamns Kallbadhus",
+                  "text": "A traditional public bath in Karlshamn offering a unique swimming experience by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.877491,
+                        56.160869
                   ]
             }
       ]
@@ -21145,6 +23062,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.943111,
                         62.635882
                   ]
+            },
+            {
+                  "name": "Badplats vid Gådeåparken",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Haernoesand.",
+                  "category": "family",
+                  "coords": [
+                        17.937241,
+                        62.626267
+                  ]
             }
       ],
       "hu": [
@@ -21515,6 +23441,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.943111,
                         62.635882
+                  ]
+            },
+            {
+                  "name": "Badplats vid Gådeåparken",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Haernoesand városában.",
+                  "category": "family",
+                  "coords": [
+                        17.937241,
+                        62.626267
                   ]
             }
       ],
@@ -21887,6 +23822,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.943111,
                         62.635882
                   ]
+            },
+            {
+                  "name": "Badplats vid Gådeåparken",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Haernoesand.",
+                  "category": "family",
+                  "coords": [
+                        17.937241,
+                        62.626267
+                  ]
             }
       ],
       "en": [
@@ -22257,6 +24201,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.943111,
                         62.635882
+                  ]
+            },
+            {
+                  "name": "Badplats vid Gådeåparken",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Haernoesand.",
+                  "category": "family",
+                  "coords": [
+                        17.937241,
+                        62.626267
                   ]
             }
       ]
@@ -24195,6 +26148,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         16.438706,
                         57.269582
                   ]
+            },
+            {
+                  "name": "Badplats Havslätt",
+                  "text": "Diese Schwimmeinrichtung in Oskarshamn bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        16.475756,
+                        57.27884
+                  ]
             }
       ],
       "hu": [
@@ -24376,6 +26338,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         16.438706,
                         57.269582
+                  ]
+            },
+            {
+                  "name": "Badplats Havslätt",
+                  "text": "Ez a Oskarshamn városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        16.475756,
+                        57.27884
                   ]
             }
       ],
@@ -24559,6 +26530,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         16.438706,
                         57.269582
                   ]
+            },
+            {
+                  "name": "Badplats Havslätt",
+                  "text": "Această unitate de înot din Oskarshamn oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        16.475756,
+                        57.27884
+                  ]
             }
       ],
       "en": [
@@ -24740,6 +26720,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         16.438706,
                         57.269582
+                  ]
+            },
+            {
+                  "name": "Badplats Havslätt",
+                  "text": "This swimming facility in Oskarshamn offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        16.475756,
+                        57.27884
                   ]
             }
       ]
@@ -30698,6 +32687,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.280065,
                         56.171729
                   ]
+            },
+            {
+                  "name": "Brunnsbadet",
+                  "text": "Diese familienfreundliche Attraktion in Ronneby bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        15.288747,
+                        56.194773
+                  ]
+            },
+            {
+                  "name": "GoKarthallen",
+                  "text": "Diese familienfreundliche Attraktion in Ronneby bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        15.269698,
+                        56.241659
+                  ]
+            },
+            {
+                  "name": "Laserdome Blekinge",
+                  "text": "Diese familienfreundliche Attraktion in Ronneby bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        15.282462,
+                        56.242416
+                  ]
             }
       ],
       "hu": [
@@ -30708,6 +32724,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.280065,
                         56.171729
+                  ]
+            },
+            {
+                  "name": "Brunnsbadet",
+                  "text": "Ez a családbarát látványosság Ronneby városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        15.288747,
+                        56.194773
+                  ]
+            },
+            {
+                  "name": "GoKarthallen",
+                  "text": "Ez a családbarát látványosság Ronneby városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        15.269698,
+                        56.241659
+                  ]
+            },
+            {
+                  "name": "Laserdome Blekinge",
+                  "text": "Ez a családbarát látványosság Ronneby városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        15.282462,
+                        56.242416
                   ]
             }
       ],
@@ -30720,6 +32763,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.280065,
                         56.171729
                   ]
+            },
+            {
+                  "name": "Brunnsbadet",
+                  "text": "Această atracție de familie din Ronneby oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        15.288747,
+                        56.194773
+                  ]
+            },
+            {
+                  "name": "GoKarthallen",
+                  "text": "Această atracție de familie din Ronneby oferă diverse activități für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        15.269698,
+                        56.241659
+                  ]
+            },
+            {
+                  "name": "Laserdome Blekinge",
+                  "text": "Această atracție de familie din Ronneby oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        15.282462,
+                        56.242416
+                  ]
             }
       ],
       "en": [
@@ -30730,6 +32800,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.280065,
                         56.171729
+                  ]
+            },
+            {
+                  "name": "Ronneby Water Park",
+                  "text": "This family-friendly attraction in Ronneby offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        15.288747,
+                        56.194773
+                  ]
+            },
+            {
+                  "name": "Go-Kart Hall",
+                  "text": "This family-friendly attraction in Ronneby offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        15.269698,
+                        56.241659
+                  ]
+            },
+            {
+                  "name": "Laserdome Blekinge",
+                  "text": "This family-friendly attraction in Ronneby offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        15.282462,
+                        56.242416
                   ]
             }
       ]
@@ -30869,6 +32966,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.902479,
                         58.881376
                   ]
+            },
+            {
+                  "name": "Hagabadet",
+                  "text": "Eine öffentliche Badeeinrichtung in Askersund, die einen Ort zum Schwimmen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.919758,
+                        58.878808
+                  ]
             }
       ],
       "hu": [
@@ -30915,6 +33021,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.902479,
                         58.881376
+                  ]
+            },
+            {
+                  "name": "Hagabadet",
+                  "text": "Askersundi nyilvános fürdőlétesítmény, amely helyet biztosít az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        14.919758,
+                        58.878808
                   ]
             }
       ],
@@ -30963,6 +33078,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.902479,
                         58.881376
                   ]
+            },
+            {
+                  "name": "Hagabadet",
+                  "text": "O facilitate publică de baie în Askersund, care oferă un loc pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        14.919758,
+                        58.878808
+                  ]
             }
       ],
       "en": [
@@ -31009,6 +33133,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.902479,
                         58.881376
+                  ]
+            },
+            {
+                  "name": "Hagabadet",
+                  "text": "A public bathing facility in Askersund providing a place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        14.919758,
+                        58.878808
                   ]
             }
       ]
@@ -33092,6 +35225,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.568165,
                         58.322726
                   ]
+            },
+            {
+                  "name": "Guldkroksbadet",
+                  "text": "Diese Schwimmeinrichtung in Hjo bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        14.29381,
+                        58.303453
+                  ]
             }
       ],
       "hu": [
@@ -33237,6 +35379,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.568165,
                         58.322726
+                  ]
+            },
+            {
+                  "name": "Guldkroksbadet",
+                  "text": "Ez a Hjo városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        14.29381,
+                        58.303453
                   ]
             }
       ],
@@ -33384,6 +35535,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.568165,
                         58.322726
                   ]
+            },
+            {
+                  "name": "Guldkroksbadet",
+                  "text": "Această unitate de înot din Hjo oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        14.29381,
+                        58.303453
+                  ]
             }
       ],
       "en": [
@@ -33529,6 +35689,15 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.568165,
                         58.322726
+                  ]
+            },
+            {
+                  "name": "Guldkroksbadet",
+                  "text": "This swimming facility in Hjo offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.29381,
+                        58.303453
                   ]
             }
       ]
@@ -34361,6 +36530,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.035005,
                         59.365615
                   ]
+            },
+            {
+                  "name": "Björklunds hage",
+                  "text": "Ein kleiner Tierpark in Sundbyberg, der eine familienfreundliche Umgebung bietet, um lokale Wildtiere zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        17.901614,
+                        59.348701
+                  ]
+            },
+            {
+                  "name": "Olovslundsparkens plaskdamm",
+                  "text": "Ein flaches Planschbecken in Sundbyberg, das für das Wasserspiel von Kindern im Park konzipiert ist.",
+                  "category": "family",
+                  "coords": [
+                        17.939837,
+                        59.329645
+                  ]
+            },
+            {
+                  "name": "Plaskdamm \"Plaskis\"",
+                  "text": "Ein beliebtes Planschbecken für Kinder in Sundbyberg, das einen lustigen Ort für die Sommererholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.999288,
+                        59.378419
+                  ]
             }
       ],
       "hu": [
@@ -34875,6 +37071,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.035005,
                         59.365615
+                  ]
+            },
+            {
+                  "name": "Björklunds hage",
+                  "text": "Sundbybergi kis állatpark, amely családbarát környezetet kínál a helyi vadvilág megtekintéséhez.",
+                  "category": "family",
+                  "coords": [
+                        17.901614,
+                        59.348701
+                  ]
+            },
+            {
+                  "name": "Olovslundsparkens plaskdamm",
+                  "text": "Sundbybergi sekély pancsolómedence, amelyet gyermekek vízi játékára terveztek a parkban.",
+                  "category": "family",
+                  "coords": [
+                        17.939837,
+                        59.329645
+                  ]
+            },
+            {
+                  "name": "Plaskdamm \"Plaskis\"",
+                  "text": "Népszerű sundbybergi pancsolómedence gyerekeknek, amely szórakoztató helyszínt biztosít a nyári kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        17.999288,
+                        59.378419
                   ]
             }
       ],
@@ -35391,6 +37614,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.035005,
                         59.365615
                   ]
+            },
+            {
+                  "name": "Björklunds hage",
+                  "text": "Un mic parc cu animale în Sundbyberg, care oferă un mediu prietenos pentru familii pentru a vedea fauna locală.",
+                  "category": "family",
+                  "coords": [
+                        17.901614,
+                        59.348701
+                  ]
+            },
+            {
+                  "name": "Olovslundsparkens plaskdamm",
+                  "text": "O piscină mică pentru copii în Sundbyberg, concepută pentru joaca în apă în parc.",
+                  "category": "family",
+                  "coords": [
+                        17.939837,
+                        59.329645
+                  ]
+            },
+            {
+                  "name": "Plaskdamm \"Plaskis\"",
+                  "text": "O piscină pentru copii populară în Sundbyberg, oferind un loc distractiv pentru recreere pe timp de vară.",
+                  "category": "family",
+                  "coords": [
+                        17.999288,
+                        59.378419
+                  ]
             }
       ],
       "en": [
@@ -35905,6 +38155,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.035005,
                         59.365615
+                  ]
+            },
+            {
+                  "name": "Björklunds hage",
+                  "text": "A small animal park in Sundbyberg offering a family-friendly environment to see local wildlife.",
+                  "category": "family",
+                  "coords": [
+                        17.901614,
+                        59.348701
+                  ]
+            },
+            {
+                  "name": "Olovslundsparkens plaskdamm",
+                  "text": "A shallow paddling pool in Sundbyberg designed for children's water play in the park.",
+                  "category": "family",
+                  "coords": [
+                        17.939837,
+                        59.329645
+                  ]
+            },
+            {
+                  "name": "Plaskdamm \"Plaskis\"",
+                  "text": "A popular paddling pool for kids in Sundbyberg providing a fun spot for summer recreation.",
+                  "category": "family",
+                  "coords": [
+                        17.999288,
+                        59.378419
                   ]
             }
       ]
@@ -36710,6 +38987,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.023153,
                         59.315771
                   ]
+            },
+            {
+                  "name": "Vattenhuset",
+                  "text": "Diese Schwimmeinrichtung in Solna bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        18.045804,
+                        59.349843
+                  ]
+            },
+            {
+                  "name": "Plaskdamm \"Plaskis\"",
+                  "text": "Diese Schwimmeinrichtung in Solna bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        17.999288,
+                        59.378419
+                  ]
             }
       ],
       "hu": [
@@ -37467,6 +39762,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.023153,
                         59.315771
+                  ]
+            },
+            {
+                  "name": "Vattenhuset",
+                  "text": "Ez a Solna városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        18.045804,
+                        59.349843
+                  ]
+            },
+            {
+                  "name": "Plaskdamm \"Plaskis\"",
+                  "text": "Ez a Solna városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        17.999288,
+                        59.378419
                   ]
             }
       ],
@@ -38226,6 +40539,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.023153,
                         59.315771
                   ]
+            },
+            {
+                  "name": "Vattenhuset",
+                  "text": "Această unitate de înot din Solna oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        18.045804,
+                        59.349843
+                  ]
+            },
+            {
+                  "name": "Plaskdamm \"Plaskis\"",
+                  "text": "Această unitate de înot din Solna oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        17.999288,
+                        59.378419
+                  ]
             }
       ],
       "en": [
@@ -38984,6 +41315,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.023153,
                         59.315771
                   ]
+            },
+            {
+                  "name": "Vattenhuset",
+                  "text": "This swimming facility in Solna offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        18.045804,
+                        59.349843
+                  ]
+            },
+            {
+                  "name": "Plaskdamm \"Plaskis\"",
+                  "text": "This swimming facility in Solna offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        17.999288,
+                        59.378419
+                  ]
             }
       ]
 },
@@ -39031,7 +41380,1708 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-solna-cities-v2.webp",
   },
   {
-    id: "sweden-lidingo-cities-v2", "sights": {"de": [{"name": "Fågelöuddebadet", "text": "Fågelöuddebadet ist ein Strand bei Lidingö.", "category": "recreational", "coords": [18.23074, 59.376287]}, {"name": "Lilla viken", "text": "Lilla viken ist ein Strandabschnitt bei Lidingö.", "category": "recreational", "coords": [18.214256, 59.363266]}, {"name": "Lidingö museum", "text": "Das Museum präsentiert das kulturelle Erbe und die Geschichte der Insel Lidingö.", "category": "museum", "coords": [18.136017, 59.366705]}, {"name": "Kappsta", "text": "Ein Naturschutzgebiet auf Lidingö mit reicher Flora und historischen Parkanlagen.", "category": "natural", "coords": [18.167534, 59.340533]}, {"name": "Gravröse från bronsåldern", "text": "Eine antike Begräbnisstätte auf Lidingö aus der nordischen Bronzezeit.", "category": "historical", "coords": [18.097281, 59.362498]}, {"name": "Millesgården", "text": "Das ehemalige Wohnhaus und Atelier des Bildhauers Carl Milles ist heute ein Kunstmuseum.", "category": "landmark", "coords": [18.121449, 59.358959]}, {"name": "Finlandsparken", "text": "Ein Park auf Lidingö, der den Verbindungen zwischen Schweden und Finnland gewidmet ist.", "category": "park", "coords": [18.10592, 59.348227]}, {"name": "Lidingöloppet", "text": "Das historische Denkmal Lidingöloppet in Lidingö feiert eine tief verwurzelte sportliche Tradition Schwedens. Es wurde speziell zu Ehren des berühmten, alljährlich stattfindenden Geländelaufs errichtet.", "category": "historical", "coords": [18.156221, 59.378653]}, {"name": "Raul Wallenbergs gärning-", "text": "Ein Denkmal für die humanitären Taten von Raoul Wallenberg, der auf Lidingö geboren wurde.", "category": "historical", "coords": [18.134455, 59.365323]}, {"name": "Lidingöloppet startplats", "text": "Eine Gedenktafel am Startpunkt des weltweit größten Geländelaufs.", "category": "historical", "coords": [18.176615, 59.360199]}, {"name": "Näsets kvarn", "text": "Eine historische Windmühle auf der Insel Lidingö.", "category": "landmark", "coords": [18.151936, 59.367685]}, {"name": "Grönstaviken", "text": "Ein Aussichtspunkt an der Bucht Grönstaviken mit Blick auf das Wasser.", "category": "natural", "coords": [18.165533, 59.37834]}, {"name": "Ögat--", "text": "Eine öffentliche Skulptur auf Lidingö, die als lokales Denkmal dient.", "category": "historical", "coords": [18.132814, 59.364436]}, {"name": "Lidingö kyrka", "text": "Die evangelisch-lutherische Hauptkirche der Gemeinde Lidingö.", "category": "religious", "coords": [18.157313, 59.366769]}, {"name": "Hjorthagens kyrka", "text": "Eine im Jugendstil errichtete Backsteinkirche im Stockholmer Stadtteil Hjorthagen.", "category": "religious", "coords": [18.10333, 59.354947]}, {"name": "Ansgarskyrkan", "text": "Ein modernes Kirchengebäude der Unierten Kirche Schwedens auf Lidingö.", "category": "religious", "coords": [18.132435, 59.365657]}, {"name": "Lidingöbron", "text": "Diese Brücke verbindet die Insel Lidingö mit dem Stockholmer Festland.", "category": "landmark", "coords": [18.110489, 59.360308]}, {"name": "Lilla Lidingöbron", "text": "Eine neue kombinierte Brücke für Fußgänger, Radfahrer und die Lidingö-Bahn.", "category": "landmark", "coords": [18.110119, 59.361271]}, {"name": "Laduviken", "text": "Der Laduviken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.075848, 59.3608]}, {"name": "Ösbysjön", "text": "Der Ösbysjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.06346, 59.402278]}, {"name": "Ekebysjön", "text": "Der Ekebysjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.054019, 59.407232]}, {"name": "Svandammen", "text": "Der Swan Pond-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.104536, 59.326962]}, {"name": "Träsksjön", "text": "Der Träsksjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.201166, 59.403027]}, {"name": "Långsjön", "text": "Der Långsjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.188934, 59.306921]}, {"name": "Glasbrukssjön", "text": "Der Glasbrukssjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.229677, 59.325957]}, {"name": "Sågsjön", "text": "Der Sågsjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.286565, 59.340742]}, {"name": "Breviksdammen", "text": "Der Breviksdammen-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.209107, 59.343613]}, {"name": "Kocktorpssjön", "text": "Der Kocktorpssjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.250638, 59.314128]}, {"name": "Tollareträsk", "text": "Der Tollareträsk-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.244958, 59.306552]}, {"name": "Sarvträsk", "text": "Der Sarvträsk-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.261991, 59.329585]}, {"name": "Övre Glasbrukssjön", "text": "Der Övre Glasbrukssjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.22734, 59.329831]}, {"name": "Svartpotten", "text": "Der Svartpotten-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.236676, 59.32906]}, {"name": "Jordbrodammen", "text": "Der Jordbrodammen-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.265899, 59.395732]}, {"name": "Näckdjupet", "text": "Der Näckdjupet-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.273444, 59.348082]}, {"name": "Karbosjön", "text": "Der Karbosjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.283377, 59.351754]}, {"name": "Krokträsken", "text": "Der Krokträsken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.239433, 59.336326]}, {"name": "Bastusjön", "text": "Der Bastusjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.209083, 59.317061]}, {"name": "Husarviken", "text": "Der Husarviken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.091428, 59.359442]}, {"name": "Ekholmsnässjön", "text": "Der Ekholmsnässjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.199703, 59.361356]}, {"name": "Gråviken", "text": "Der Gråviken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.19292, 59.367066]}, {"name": "Rudträsk", "text": "Der Rudträsk-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.272267, 59.354022]}, {"name": "Kolbottensjön", "text": "Der Kolbottensjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.193798, 59.300366]}, {"name": "Hejesjön", "text": "Der Hejesjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [18.220018, 59.417704]}], "hu": [{"name": "Fågelöuddebadet", "text": "Fågelöuddebadet egy strand Lidingö közelében.", "category": "recreational", "coords": [18.23074, 59.376287]}, {"name": "Lilla viken", "text": "Lilla viken egy partszakasz Lidingö közelében.", "category": "recreational", "coords": [18.214256, 59.363266]}, {"name": "Lidingö museum", "text": "A múzeum Lidingö szigetének kulturális örökségét és történelmét mutatja be.", "category": "museum", "coords": [18.136017, 59.366705]}, {"name": "Kappsta", "text": "Természetvédelmi terület Lidingőn gazdag flórával és történelmi parkokkal.", "category": "natural", "coords": [18.167534, 59.340533]}, {"name": "Gravröse från bronsåldern", "text": "Ősi temetkezési hely Lidingőn az északi bronzkorból.", "category": "historical", "coords": [18.097281, 59.362498]}, {"name": "Millesgården", "text": "Carl Milles szobrászművész egykori otthona és műterme ma művészeti múzeum.", "category": "landmark", "coords": [18.121449, 59.358959]}, {"name": "Finlandsparken", "text": "Lidingö egyik parkja, amelyet a Svédország és Finnország közötti kapcsolatoknak szenteltek.", "category": "park", "coords": [18.10592, 59.348227]}, {"name": "Lidingöloppet", "text": "A Lidingöben található Lidingöloppet történelmi emlékmű egy mélyen gyökerező svéd sportteljesítményt ünnepel. Kifejezetten a híres, évente megrendezésre kerülő terepfutó verseny tiszteletére állították.", "category": "historical", "coords": [18.156221, 59.378653]}, {"name": "Raul Wallenbergs gärning-", "text": "Emlékmű a Lidingőn született Raoul Wallenberg humanitárius tetteinek tiszteletére.", "category": "historical", "coords": [18.134455, 59.365323]}, {"name": "Lidingöloppet startplats", "text": "Emlékkő a világ legnagyobb mezei futóversenyének rajtjánál.", "category": "historical", "coords": [18.176615, 59.360199]}, {"name": "Näsets kvarn", "text": "Történelmi szélmalom Lidingö szigetén.", "category": "landmark", "coords": [18.151936, 59.367685]}, {"name": "Grönstaviken", "text": "Kilátóhely a Grönstaviken-öbölnél, kilátással a vízre.", "category": "natural", "coords": [18.165533, 59.37834]}, {"name": "Ögat--", "text": "Köztéri szobor Lidingőn, amely helyi emlékműként szolgál.", "category": "historical", "coords": [18.132814, 59.364436]}, {"name": "Lidingö kyrka", "text": "Lidingö egyházközség fő evangélikus temploma.", "category": "religious", "coords": [18.157313, 59.366769]}, {"name": "Hjorthagens kyrka", "text": "Szecessziós stílusú téglatemplom Stockholm Hjorthagen negyedében.", "category": "religious", "coords": [18.10333, 59.354947]}, {"name": "Ansgarskyrkan", "text": "A Svédországi Egyesült Egyház modern templomépülete Lidingőn.", "category": "religious", "coords": [18.132435, 59.365657]}, {"name": "Lidingöbron", "text": "Ez a híd köti össze Lidingö szigetét Stockholm szárazföldi részével.", "category": "landmark", "coords": [18.110489, 59.360308]}, {"name": "Lilla Lidingöbron", "text": "Új kombinált híd gyalogosok, kerékpárosok és a Lidingö-vasút számára.", "category": "landmark", "coords": [18.110119, 59.361271]}, {"name": "Laduviken", "text": "A Lidingoe területén található Laduviken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.075848, 59.3608]}, {"name": "Ösbysjön", "text": "A Lidingoe területén található Ösbysjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.06346, 59.402278]}, {"name": "Ekebysjön", "text": "A Lidingoe területén található Ekebysjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.054019, 59.407232]}, {"name": "Svandammen", "text": "A Lidingoe területén található Swan Pond-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.104536, 59.326962]}, {"name": "Träsksjön", "text": "A Lidingoe területén található Träsksjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.201166, 59.403027]}, {"name": "Långsjön", "text": "A Lidingoe területén található Långsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.188934, 59.306921]}, {"name": "Glasbrukssjön", "text": "A Lidingoe területén található Glasbrukssjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.229677, 59.325957]}, {"name": "Sågsjön", "text": "A Lidingoe területén található Sågsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.286565, 59.340742]}, {"name": "Breviksdammen", "text": "A Lidingoe területén található Breviksdammen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.209107, 59.343613]}, {"name": "Kocktorpssjön", "text": "A Lidingoe területén található Kocktorpssjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.250638, 59.314128]}, {"name": "Tollareträsk", "text": "A Lidingoe területén található Tollareträsk-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.244958, 59.306552]}, {"name": "Sarvträsk", "text": "A Lidingoe területén található Sarvträsk-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.261991, 59.329585]}, {"name": "Övre Glasbrukssjön", "text": "A Lidingoe területén található Övre Glasbrukssjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.22734, 59.329831]}, {"name": "Svartpotten", "text": "A Lidingoe területén található Svartpotten-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.236676, 59.32906]}, {"name": "Jordbrodammen", "text": "A Lidingoe területén található Jordbrodammen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.265899, 59.395732]}, {"name": "Näckdjupet", "text": "A Lidingoe területén található Näckdjupet-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.273444, 59.348082]}, {"name": "Karbosjön", "text": "A Lidingoe területén található Karbosjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.283377, 59.351754]}, {"name": "Krokträsken", "text": "A Lidingoe területén található Krokträsken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.239433, 59.336326]}, {"name": "Bastusjön", "text": "A Lidingoe területén található Bastusjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.209083, 59.317061]}, {"name": "Husarviken", "text": "A Lidingoe területén található Husarviken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.091428, 59.359442]}, {"name": "Ekholmsnässjön", "text": "A Lidingoe területén található Ekholmsnässjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.199703, 59.361356]}, {"name": "Gråviken", "text": "A Lidingoe területén található Gråviken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.19292, 59.367066]}, {"name": "Rudträsk", "text": "A Lidingoe területén található Rudträsk-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.272267, 59.354022]}, {"name": "Kolbottensjön", "text": "A Lidingoe területén található Kolbottensjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.193798, 59.300366]}, {"name": "Hejesjön", "text": "A Lidingoe területén található Hejesjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [18.220018, 59.417704]}], "ro": [{"name": "Fågelöuddebadet", "text": "Fågelöuddebadet este o plajă lângă Lidingö.", "category": "recreational", "coords": [18.23074, 59.376287]}, {"name": "Lilla viken", "text": "Lilla viken este o zonă de plajă lângă Lidingö.", "category": "recreational", "coords": [18.214256, 59.363266]}, {"name": "Lidingö museum", "text": "Muzeul prezintă moștenirea culturală și istoria insulei Lidingö.", "category": "museum", "coords": [18.136017, 59.366705]}, {"name": "Kappsta", "text": "O rezervație naturală pe Lidingö, cu floră bogată și parcuri istorice.", "category": "natural", "coords": [18.167534, 59.340533]}, {"name": "Gravröse från bronsåldern", "text": "Un sit funerar antic pe Lidingö datând din epoca bronzului.", "category": "historical", "coords": [18.097281, 59.362498]}, {"name": "Millesgården", "text": "Fosta casă și atelier al sculptorului Carl Milles este astăzi un muzeu de artă.", "category": "landmark", "coords": [18.121449, 59.358959]}, {"name": "Finlandsparken", "text": "Un parc pe Lidingö dedicat legăturilor dintre Suedia și Finlanda.", "category": "park", "coords": [18.10592, 59.348227]}, {"name": "Lidingöloppet", "text": "Monumentul istoric Lidingöloppet din Lidingö celebrează o tradiție sportivă suedeză profund înrădăcinată. Acesta a fost ridicat special în onoarea faimoasei curse anuale de fond.", "category": "historical", "coords": [18.156221, 59.378653]}, {"name": "Raul Wallenbergs gärning-", "text": "Un monument dedicat faptelor umanitare ale lui Raoul Wallenberg, care s-a născut pe Lidingö.", "category": "historical", "coords": [18.134455, 59.365323]}, {"name": "Lidingöloppet startplats", "text": "O piatră memorială la punctul de start al celei mai mari curse de cros din lume.", "category": "historical", "coords": [18.176615, 59.360199]}, {"name": "Näsets kvarn", "text": "O moară de vânt istorică pe insula Lidingö.", "category": "landmark", "coords": [18.151936, 59.367685]}, {"name": "Grönstaviken", "text": "Un punct de belvedere la golful Grönstaviken, cu vedere spre apă.", "category": "natural", "coords": [18.165533, 59.37834]}, {"name": "Ögat--", "text": "O sculptură publică pe Lidingö care servește ca monument local.", "category": "historical", "coords": [18.132814, 59.364436]}, {"name": "Lidingö kyrka", "text": "Biserica evanghelică-luterană principală a parohiei Lidingö.", "category": "religious", "coords": [18.157313, 59.366769]}, {"name": "Hjorthagens kyrka", "text": "O biserică de cărămidă în stil Art Nouveau în districtul Hjorthagen din Stockholm.", "category": "religious", "coords": [18.10333, 59.354947]}, {"name": "Ansgarskyrkan", "text": "O clădire modernă a bisericii aparținând Bisericii Unite din Suedia, pe Lidingö.", "category": "religious", "coords": [18.132435, 59.365657]}, {"name": "Lidingöbron", "text": "Acest pod face legătura între insula Lidingö și partea continentală a Stockholmului.", "category": "landmark", "coords": [18.110489, 59.360308]}, {"name": "Lilla Lidingöbron", "text": "Un pod nou combinat pentru pietoni, bicicliști și trenul ușor Lidingö.", "category": "landmark", "coords": [18.110119, 59.361271]}, {"name": "Laduviken", "text": "Lacul Laduviken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.075848, 59.3608]}, {"name": "Ösbysjön", "text": "Lacul Ösbysjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.06346, 59.402278]}, {"name": "Ekebysjön", "text": "Lacul Ekebysjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.054019, 59.407232]}, {"name": "Svandammen", "text": "Lacul Swan Pond din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.104536, 59.326962]}, {"name": "Träsksjön", "text": "Lacul Träsksjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.201166, 59.403027]}, {"name": "Långsjön", "text": "Lacul Långsjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.188934, 59.306921]}, {"name": "Glasbrukssjön", "text": "Lacul Glasbrukssjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.229677, 59.325957]}, {"name": "Sågsjön", "text": "Lacul Sågsjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.286565, 59.340742]}, {"name": "Breviksdammen", "text": "Lacul Breviksdammen din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.209107, 59.343613]}, {"name": "Kocktorpssjön", "text": "Lacul Kocktorpssjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.250638, 59.314128]}, {"name": "Tollareträsk", "text": "Lacul Tollareträsk din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.244958, 59.306552]}, {"name": "Sarvträsk", "text": "Lacul Sarvträsk din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.261991, 59.329585]}, {"name": "Övre Glasbrukssjön", "text": "Lacul Övre Glasbrukssjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.22734, 59.329831]}, {"name": "Svartpotten", "text": "Lacul Svartpotten din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.236676, 59.32906]}, {"name": "Jordbrodammen", "text": "Lacul Jordbrodammen din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.265899, 59.395732]}, {"name": "Näckdjupet", "text": "Lacul Näckdjupet din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.273444, 59.348082]}, {"name": "Karbosjön", "text": "Lacul Karbosjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.283377, 59.351754]}, {"name": "Krokträsken", "text": "Lacul Krokträsken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.239433, 59.336326]}, {"name": "Bastusjön", "text": "Lacul Bastusjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.209083, 59.317061]}, {"name": "Husarviken", "text": "Lacul Husarviken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.091428, 59.359442]}, {"name": "Ekholmsnässjön", "text": "Lacul Ekholmsnässjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.199703, 59.361356]}, {"name": "Gråviken", "text": "Lacul Gråviken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.19292, 59.367066]}, {"name": "Rudträsk", "text": "Lacul Rudträsk din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.272267, 59.354022]}, {"name": "Kolbottensjön", "text": "Lacul Kolbottensjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.193798, 59.300366]}, {"name": "Hejesjön", "text": "Lacul Hejesjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [18.220018, 59.417704]}], "en": [{"name": "Fågelöuddebadet", "text": "Fågelöuddebadet is a beach near Lidingö.", "category": "recreational", "coords": [18.23074, 59.376287]}, {"name": "Lilla viken", "text": "Lilla viken is a beach area near Lidingö.", "category": "recreational", "coords": [18.214256, 59.363266]}, {"name": "Lidingö museum", "text": "The museum presents the cultural heritage and history of Lidingö island.", "category": "museum", "coords": [18.136017, 59.366705]}, {"name": "Kappsta", "text": "A nature reserve on Lidingö with rich flora and historical parklands.", "category": "natural", "coords": [18.167534, 59.340533]}, {"name": "Gravröse från bronsåldern", "text": "An ancient burial site on Lidingö dating from the Nordic Bronze Age.", "category": "historical", "coords": [18.097281, 59.362498]}, {"name": "Millesgården", "text": "The former home and studio of sculptor Carl Milles is now an art museum.", "category": "landmark", "coords": [18.121449, 59.358959]}, {"name": "Finlandsparken", "text": "A park on Lidingö dedicated to the connections between Sweden and Finland.", "category": "park", "coords": [18.10592, 59.348227]}, {"name": "Lidingöloppet", "text": "The historical Lidingöloppet monument in Lidingö celebrates a deeply rooted Swedish sporting tradition. It was specifically erected in honor of the famous annual cross-country race.", "category": "historical", "coords": [18.156221, 59.378653]}, {"name": "Raul Wallenbergs gärning-", "text": "A monument dedicated to the humanitarian deeds of Raoul Wallenberg, who was born on Lidingö.", "category": "historical", "coords": [18.134455, 59.365323]}, {"name": "Lidingöloppet start stone", "text": "A commemorative stone at the starting point of the world's largest cross-country race.", "category": "historical", "coords": [18.176615, 59.360199]}, {"name": "Näsets kvarn", "text": "A historical windmill located on the island of Lidingö.", "category": "landmark", "coords": [18.151936, 59.367685]}, {"name": "Grönstaviken", "text": "A viewpoint by the Grönstaviken bay with views over the water.", "category": "natural", "coords": [18.165533, 59.37834]}, {"name": "Ögat--", "text": "A public sculpture on Lidingö serving as a local monument.", "category": "historical", "coords": [18.132814, 59.364436]}, {"name": "Lidingö kyrka", "text": "The main Evangelical Lutheran church of the Lidingö parish.", "category": "religious", "coords": [18.157313, 59.366769]}, {"name": "Hjorthagens kyrka", "text": "An Art Nouveau brick church located in the Hjorthagen district of Stockholm.", "category": "religious", "coords": [18.10333, 59.354947]}, {"name": "Ansgarskyrkan", "text": "A modern church building belonging to the Uniting Church in Sweden on Lidingö.", "category": "religious", "coords": [18.132435, 59.365657]}, {"name": "Lidingöbron", "text": "This bridge connects the island of Lidingö with the Stockholm mainland.", "category": "landmark", "coords": [18.110489, 59.360308]}, {"name": "Lilla Lidingöbron", "text": "A new combined bridge for pedestrians, cyclists, and the Lidingö light rail.", "category": "landmark", "coords": [18.110119, 59.361271]}, {"name": "Laduviken", "text": "Laduviken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.075848, 59.3608]}, {"name": "Ösbysjön", "text": "Ösbysjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.06346, 59.402278]}, {"name": "Ekebysjön", "text": "Ekebysjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.054019, 59.407232]}, {"name": "Swan Pond", "text": "Swan Pond lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.104536, 59.326962]}, {"name": "Träsksjön", "text": "Träsksjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.201166, 59.403027]}, {"name": "Långsjön", "text": "Långsjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.188934, 59.306921]}, {"name": "Glasbrukssjön", "text": "Glasbrukssjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.229677, 59.325957]}, {"name": "Sågsjön", "text": "Sågsjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.286565, 59.340742]}, {"name": "Breviksdammen", "text": "Breviksdammen lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.209107, 59.343613]}, {"name": "Kocktorpssjön", "text": "Kocktorpssjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.250638, 59.314128]}, {"name": "Tollareträsk", "text": "Tollareträsk lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.244958, 59.306552]}, {"name": "Sarvträsk", "text": "Sarvträsk lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.261991, 59.329585]}, {"name": "Övre Glasbrukssjön", "text": "Övre Glasbrukssjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.22734, 59.329831]}, {"name": "Svartpotten", "text": "Svartpotten lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.236676, 59.32906]}, {"name": "Jordbrodammen", "text": "Jordbrodammen lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.265899, 59.395732]}, {"name": "Näckdjupet", "text": "Näckdjupet lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.273444, 59.348082]}, {"name": "Karbosjön", "text": "Karbosjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.283377, 59.351754]}, {"name": "Krokträsken", "text": "Krokträsken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.239433, 59.336326]}, {"name": "Bastusjön", "text": "Bastusjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.209083, 59.317061]}, {"name": "Husarviken", "text": "Husarviken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.091428, 59.359442]}, {"name": "Ekholmsnässjön", "text": "Ekholmsnässjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.199703, 59.361356]}, {"name": "Gråviken", "text": "Gråviken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.19292, 59.367066]}, {"name": "Rudträsk", "text": "Rudträsk lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.272267, 59.354022]}, {"name": "Kolbottensjön", "text": "Kolbottensjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.193798, 59.300366]}, {"name": "Hejesjön", "text": "Hejesjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [18.220018, 59.417704]}]},
+    id: "sweden-lidingo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fågelöuddebadet",
+                  "text": "Fågelöuddebadet ist ein Strand bei Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.23074,
+                        59.376287
+                  ]
+            },
+            {
+                  "name": "Lilla viken",
+                  "text": "Lilla viken ist ein Strandabschnitt bei Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.214256,
+                        59.363266
+                  ]
+            },
+            {
+                  "name": "Lidingö museum",
+                  "text": "Das Museum präsentiert das kulturelle Erbe und die Geschichte der Insel Lidingö.",
+                  "category": "museum",
+                  "coords": [
+                        18.136017,
+                        59.366705
+                  ]
+            },
+            {
+                  "name": "Kappsta",
+                  "text": "Ein Naturschutzgebiet auf Lidingö mit reicher Flora und historischen Parkanlagen.",
+                  "category": "natural",
+                  "coords": [
+                        18.167534,
+                        59.340533
+                  ]
+            },
+            {
+                  "name": "Gravröse från bronsåldern",
+                  "text": "Eine antike Begräbnisstätte auf Lidingö aus der nordischen Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        18.097281,
+                        59.362498
+                  ]
+            },
+            {
+                  "name": "Millesgården",
+                  "text": "Das ehemalige Wohnhaus und Atelier des Bildhauers Carl Milles ist heute ein Kunstmuseum.",
+                  "category": "landmark",
+                  "coords": [
+                        18.121449,
+                        59.358959
+                  ]
+            },
+            {
+                  "name": "Finlandsparken",
+                  "text": "Ein Park auf Lidingö, der den Verbindungen zwischen Schweden und Finnland gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        18.10592,
+                        59.348227
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet",
+                  "text": "Das historische Denkmal Lidingöloppet in Lidingö feiert eine tief verwurzelte sportliche Tradition Schwedens. Es wurde speziell zu Ehren des berühmten, alljährlich stattfindenden Geländelaufs errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        18.156221,
+                        59.378653
+                  ]
+            },
+            {
+                  "name": "Raul Wallenbergs gärning-",
+                  "text": "Ein Denkmal für die humanitären Taten von Raoul Wallenberg, der auf Lidingö geboren wurde.",
+                  "category": "historical",
+                  "coords": [
+                        18.134455,
+                        59.365323
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet startplats",
+                  "text": "Eine Gedenktafel am Startpunkt des weltweit größten Geländelaufs.",
+                  "category": "historical",
+                  "coords": [
+                        18.176615,
+                        59.360199
+                  ]
+            },
+            {
+                  "name": "Näsets kvarn",
+                  "text": "Eine historische Windmühle auf der Insel Lidingö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151936,
+                        59.367685
+                  ]
+            },
+            {
+                  "name": "Grönstaviken",
+                  "text": "Ein Aussichtspunkt an der Bucht Grönstaviken mit Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.165533,
+                        59.37834
+                  ]
+            },
+            {
+                  "name": "Ögat--",
+                  "text": "Eine öffentliche Skulptur auf Lidingö, die als lokales Denkmal dient.",
+                  "category": "historical",
+                  "coords": [
+                        18.132814,
+                        59.364436
+                  ]
+            },
+            {
+                  "name": "Lidingö kyrka",
+                  "text": "Die evangelisch-lutherische Hauptkirche der Gemeinde Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.157313,
+                        59.366769
+                  ]
+            },
+            {
+                  "name": "Hjorthagens kyrka",
+                  "text": "Eine im Jugendstil errichtete Backsteinkirche im Stockholmer Stadtteil Hjorthagen.",
+                  "category": "religious",
+                  "coords": [
+                        18.10333,
+                        59.354947
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Ein modernes Kirchengebäude der Unierten Kirche Schwedens auf Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.132435,
+                        59.365657
+                  ]
+            },
+            {
+                  "name": "Lidingöbron",
+                  "text": "Diese Brücke verbindet die Insel Lidingö mit dem Stockholmer Festland.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110489,
+                        59.360308
+                  ]
+            },
+            {
+                  "name": "Lilla Lidingöbron",
+                  "text": "Eine neue kombinierte Brücke für Fußgänger, Radfahrer und die Lidingö-Bahn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110119,
+                        59.361271
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Der Laduviken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Der Ösbysjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Der Ekebysjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Der Swan Pond-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Träsksjön",
+                  "text": "Der Träsksjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.201166,
+                        59.403027
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Der Långsjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Der Glasbrukssjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Der Sågsjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Der Breviksdammen-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Der Kocktorpssjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Der Tollareträsk-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Der Sarvträsk-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Der Övre Glasbrukssjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Der Svartpotten-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Jordbrodammen",
+                  "text": "Der Jordbrodammen-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.265899,
+                        59.395732
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Der Näckdjupet-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Karbosjön",
+                  "text": "Der Karbosjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.283377,
+                        59.351754
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Der Krokträsken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Der Bastusjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Der Husarviken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Der Ekholmsnässjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "Der Gråviken-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Rudträsk",
+                  "text": "Der Rudträsk-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.272267,
+                        59.354022
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Der Kolbottensjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Hejesjön",
+                  "text": "Der Hejesjön-See in Lidingoe ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.220018,
+                        59.417704
+                  ]
+            },
+            {
+                  "name": "Badberget",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Lidingoe.",
+                  "category": "family",
+                  "coords": [
+                        18.183079,
+                        59.346468
+                  ]
+            },
+            {
+                  "name": "Kottlasjön",
+                  "text": "Kottlasjön ist ein malerischer See in Lidingoe, ideal zum Spazierengehen und Naturgenießen.",
+                  "category": "family",
+                  "coords": [
+                        18.175615,
+                        59.34847
+                  ]
+            },
+            {
+                  "name": "Motalaparkens plaskdamm",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Lidingoe.",
+                  "category": "family",
+                  "coords": [
+                        18.093555,
+                        59.353385
+                  ]
+            },
+            {
+                  "name": "Tessinparkens plaskdamm",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Lidingoe.",
+                  "category": "family",
+                  "coords": [
+                        18.095925,
+                        59.343755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fågelöuddebadet",
+                  "text": "Fågelöuddebadet egy strand Lidingö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.23074,
+                        59.376287
+                  ]
+            },
+            {
+                  "name": "Lilla viken",
+                  "text": "Lilla viken egy partszakasz Lidingö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.214256,
+                        59.363266
+                  ]
+            },
+            {
+                  "name": "Lidingö museum",
+                  "text": "A múzeum Lidingö szigetének kulturális örökségét és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.136017,
+                        59.366705
+                  ]
+            },
+            {
+                  "name": "Kappsta",
+                  "text": "Természetvédelmi terület Lidingőn gazdag flórával és történelmi parkokkal.",
+                  "category": "natural",
+                  "coords": [
+                        18.167534,
+                        59.340533
+                  ]
+            },
+            {
+                  "name": "Gravröse från bronsåldern",
+                  "text": "Ősi temetkezési hely Lidingőn az északi bronzkorból.",
+                  "category": "historical",
+                  "coords": [
+                        18.097281,
+                        59.362498
+                  ]
+            },
+            {
+                  "name": "Millesgården",
+                  "text": "Carl Milles szobrászművész egykori otthona és műterme ma művészeti múzeum.",
+                  "category": "landmark",
+                  "coords": [
+                        18.121449,
+                        59.358959
+                  ]
+            },
+            {
+                  "name": "Finlandsparken",
+                  "text": "Lidingö egyik parkja, amelyet a Svédország és Finnország közötti kapcsolatoknak szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        18.10592,
+                        59.348227
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet",
+                  "text": "A Lidingöben található Lidingöloppet történelmi emlékmű egy mélyen gyökerező svéd sportteljesítményt ünnepel. Kifejezetten a híres, évente megrendezésre kerülő terepfutó verseny tiszteletére állították.",
+                  "category": "historical",
+                  "coords": [
+                        18.156221,
+                        59.378653
+                  ]
+            },
+            {
+                  "name": "Raul Wallenbergs gärning-",
+                  "text": "Emlékmű a Lidingőn született Raoul Wallenberg humanitárius tetteinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        18.134455,
+                        59.365323
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet startplats",
+                  "text": "Emlékkő a világ legnagyobb mezei futóversenyének rajtjánál.",
+                  "category": "historical",
+                  "coords": [
+                        18.176615,
+                        59.360199
+                  ]
+            },
+            {
+                  "name": "Näsets kvarn",
+                  "text": "Történelmi szélmalom Lidingö szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151936,
+                        59.367685
+                  ]
+            },
+            {
+                  "name": "Grönstaviken",
+                  "text": "Kilátóhely a Grönstaviken-öbölnél, kilátással a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        18.165533,
+                        59.37834
+                  ]
+            },
+            {
+                  "name": "Ögat--",
+                  "text": "Köztéri szobor Lidingőn, amely helyi emlékműként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        18.132814,
+                        59.364436
+                  ]
+            },
+            {
+                  "name": "Lidingö kyrka",
+                  "text": "Lidingö egyházközség fő evangélikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        18.157313,
+                        59.366769
+                  ]
+            },
+            {
+                  "name": "Hjorthagens kyrka",
+                  "text": "Szecessziós stílusú téglatemplom Stockholm Hjorthagen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        18.10333,
+                        59.354947
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "A Svédországi Egyesült Egyház modern templomépülete Lidingőn.",
+                  "category": "religious",
+                  "coords": [
+                        18.132435,
+                        59.365657
+                  ]
+            },
+            {
+                  "name": "Lidingöbron",
+                  "text": "Ez a híd köti össze Lidingö szigetét Stockholm szárazföldi részével.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110489,
+                        59.360308
+                  ]
+            },
+            {
+                  "name": "Lilla Lidingöbron",
+                  "text": "Új kombinált híd gyalogosok, kerékpárosok és a Lidingö-vasút számára.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110119,
+                        59.361271
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "A Lidingoe területén található Laduviken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "A Lidingoe területén található Ösbysjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "A Lidingoe területén található Ekebysjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "A Lidingoe területén található Swan Pond-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Träsksjön",
+                  "text": "A Lidingoe területén található Träsksjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.201166,
+                        59.403027
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "A Lidingoe területén található Långsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "A Lidingoe területén található Glasbrukssjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "A Lidingoe területén található Sågsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "A Lidingoe területén található Breviksdammen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "A Lidingoe területén található Kocktorpssjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "A Lidingoe területén található Tollareträsk-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "A Lidingoe területén található Sarvträsk-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "A Lidingoe területén található Övre Glasbrukssjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "A Lidingoe területén található Svartpotten-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Jordbrodammen",
+                  "text": "A Lidingoe területén található Jordbrodammen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.265899,
+                        59.395732
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "A Lidingoe területén található Näckdjupet-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Karbosjön",
+                  "text": "A Lidingoe területén található Karbosjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.283377,
+                        59.351754
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "A Lidingoe területén található Krokträsken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "A Lidingoe területén található Bastusjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "A Lidingoe területén található Husarviken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "A Lidingoe területén található Ekholmsnässjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "A Lidingoe területén található Gråviken-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Rudträsk",
+                  "text": "A Lidingoe területén található Rudträsk-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.272267,
+                        59.354022
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "A Lidingoe területén található Kolbottensjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Hejesjön",
+                  "text": "A Lidingoe területén található Hejesjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.220018,
+                        59.417704
+                  ]
+            },
+            {
+                  "name": "Badberget",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Lidingoe városában.",
+                  "category": "family",
+                  "coords": [
+                        18.183079,
+                        59.346468
+                  ]
+            },
+            {
+                  "name": "Kottlasjön",
+                  "text": "Kottlasjön egy festői tó Lidingoe területén, amely ideális sétákhoz és a természet élvezetéhez.",
+                  "category": "family",
+                  "coords": [
+                        18.175615,
+                        59.34847
+                  ]
+            },
+            {
+                  "name": "Motalaparkens plaskdamm",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Lidingoe városában.",
+                  "category": "family",
+                  "coords": [
+                        18.093555,
+                        59.353385
+                  ]
+            },
+            {
+                  "name": "Tessinparkens plaskdamm",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Lidingoe városában.",
+                  "category": "family",
+                  "coords": [
+                        18.095925,
+                        59.343755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fågelöuddebadet",
+                  "text": "Fågelöuddebadet este o plajă lângă Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.23074,
+                        59.376287
+                  ]
+            },
+            {
+                  "name": "Lilla viken",
+                  "text": "Lilla viken este o zonă de plajă lângă Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.214256,
+                        59.363266
+                  ]
+            },
+            {
+                  "name": "Lidingö museum",
+                  "text": "Muzeul prezintă moștenirea culturală și istoria insulei Lidingö.",
+                  "category": "museum",
+                  "coords": [
+                        18.136017,
+                        59.366705
+                  ]
+            },
+            {
+                  "name": "Kappsta",
+                  "text": "O rezervație naturală pe Lidingö, cu floră bogată și parcuri istorice.",
+                  "category": "natural",
+                  "coords": [
+                        18.167534,
+                        59.340533
+                  ]
+            },
+            {
+                  "name": "Gravröse från bronsåldern",
+                  "text": "Un sit funerar antic pe Lidingö datând din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        18.097281,
+                        59.362498
+                  ]
+            },
+            {
+                  "name": "Millesgården",
+                  "text": "Fosta casă și atelier al sculptorului Carl Milles este astăzi un muzeu de artă.",
+                  "category": "landmark",
+                  "coords": [
+                        18.121449,
+                        59.358959
+                  ]
+            },
+            {
+                  "name": "Finlandsparken",
+                  "text": "Un parc pe Lidingö dedicat legăturilor dintre Suedia și Finlanda.",
+                  "category": "park",
+                  "coords": [
+                        18.10592,
+                        59.348227
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet",
+                  "text": "Monumentul istoric Lidingöloppet din Lidingö celebrează o tradiție sportivă suedeză profund înrădăcinată. Acesta a fost ridicat special în onoarea faimoasei curse anuale de fond.",
+                  "category": "historical",
+                  "coords": [
+                        18.156221,
+                        59.378653
+                  ]
+            },
+            {
+                  "name": "Raul Wallenbergs gärning-",
+                  "text": "Un monument dedicat faptelor umanitare ale lui Raoul Wallenberg, care s-a născut pe Lidingö.",
+                  "category": "historical",
+                  "coords": [
+                        18.134455,
+                        59.365323
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet startplats",
+                  "text": "O piatră memorială la punctul de start al celei mai mari curse de cros din lume.",
+                  "category": "historical",
+                  "coords": [
+                        18.176615,
+                        59.360199
+                  ]
+            },
+            {
+                  "name": "Näsets kvarn",
+                  "text": "O moară de vânt istorică pe insula Lidingö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151936,
+                        59.367685
+                  ]
+            },
+            {
+                  "name": "Grönstaviken",
+                  "text": "Un punct de belvedere la golful Grönstaviken, cu vedere spre apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.165533,
+                        59.37834
+                  ]
+            },
+            {
+                  "name": "Ögat--",
+                  "text": "O sculptură publică pe Lidingö care servește ca monument local.",
+                  "category": "historical",
+                  "coords": [
+                        18.132814,
+                        59.364436
+                  ]
+            },
+            {
+                  "name": "Lidingö kyrka",
+                  "text": "Biserica evanghelică-luterană principală a parohiei Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.157313,
+                        59.366769
+                  ]
+            },
+            {
+                  "name": "Hjorthagens kyrka",
+                  "text": "O biserică de cărămidă în stil Art Nouveau în districtul Hjorthagen din Stockholm.",
+                  "category": "religious",
+                  "coords": [
+                        18.10333,
+                        59.354947
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "O clădire modernă a bisericii aparținând Bisericii Unite din Suedia, pe Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.132435,
+                        59.365657
+                  ]
+            },
+            {
+                  "name": "Lidingöbron",
+                  "text": "Acest pod face legătura între insula Lidingö și partea continentală a Stockholmului.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110489,
+                        59.360308
+                  ]
+            },
+            {
+                  "name": "Lilla Lidingöbron",
+                  "text": "Un pod nou combinat pentru pietoni, bicicliști și trenul ușor Lidingö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110119,
+                        59.361271
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Lacul Laduviken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Lacul Ösbysjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Lacul Ekebysjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Lacul Swan Pond din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Träsksjön",
+                  "text": "Lacul Träsksjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.201166,
+                        59.403027
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Lacul Långsjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Lacul Glasbrukssjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Lacul Sågsjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Lacul Breviksdammen din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Lacul Kocktorpssjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Lacul Tollareträsk din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Lacul Sarvträsk din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Lacul Övre Glasbrukssjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Lacul Svartpotten din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Jordbrodammen",
+                  "text": "Lacul Jordbrodammen din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.265899,
+                        59.395732
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Lacul Näckdjupet din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Karbosjön",
+                  "text": "Lacul Karbosjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.283377,
+                        59.351754
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Lacul Krokträsken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Lacul Bastusjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Lacul Husarviken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Lacul Ekholmsnässjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "Lacul Gråviken din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Rudträsk",
+                  "text": "Lacul Rudträsk din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.272267,
+                        59.354022
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Lacul Kolbottensjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Hejesjön",
+                  "text": "Lacul Hejesjön din Lidingoe este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.220018,
+                        59.417704
+                  ]
+            },
+            {
+                  "name": "Badberget",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Lidingoe.",
+                  "category": "family",
+                  "coords": [
+                        18.183079,
+                        59.346468
+                  ]
+            },
+            {
+                  "name": "Kottlasjön",
+                  "text": "Kottlasjön este un lac pitoresc în Lidingoe, ideal pentru plimbări și relaxare în natură.",
+                  "category": "family",
+                  "coords": [
+                        18.175615,
+                        59.34847
+                  ]
+            },
+            {
+                  "name": "Motalaparkens plaskdamm",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Lidingoe.",
+                  "category": "family",
+                  "coords": [
+                        18.093555,
+                        59.353385
+                  ]
+            },
+            {
+                  "name": "Tessinparkens plaskdamm",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Lidingoe.",
+                  "category": "family",
+                  "coords": [
+                        18.095925,
+                        59.343755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fågelöuddebadet",
+                  "text": "Fågelöuddebadet is a beach near Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.23074,
+                        59.376287
+                  ]
+            },
+            {
+                  "name": "Lilla viken",
+                  "text": "Lilla viken is a beach area near Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.214256,
+                        59.363266
+                  ]
+            },
+            {
+                  "name": "Lidingö museum",
+                  "text": "The museum presents the cultural heritage and history of Lidingö island.",
+                  "category": "museum",
+                  "coords": [
+                        18.136017,
+                        59.366705
+                  ]
+            },
+            {
+                  "name": "Kappsta",
+                  "text": "A nature reserve on Lidingö with rich flora and historical parklands.",
+                  "category": "natural",
+                  "coords": [
+                        18.167534,
+                        59.340533
+                  ]
+            },
+            {
+                  "name": "Gravröse från bronsåldern",
+                  "text": "An ancient burial site on Lidingö dating from the Nordic Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        18.097281,
+                        59.362498
+                  ]
+            },
+            {
+                  "name": "Millesgården",
+                  "text": "The former home and studio of sculptor Carl Milles is now an art museum.",
+                  "category": "landmark",
+                  "coords": [
+                        18.121449,
+                        59.358959
+                  ]
+            },
+            {
+                  "name": "Finlandsparken",
+                  "text": "A park on Lidingö dedicated to the connections between Sweden and Finland.",
+                  "category": "park",
+                  "coords": [
+                        18.10592,
+                        59.348227
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet",
+                  "text": "The historical Lidingöloppet monument in Lidingö celebrates a deeply rooted Swedish sporting tradition. It was specifically erected in honor of the famous annual cross-country race.",
+                  "category": "historical",
+                  "coords": [
+                        18.156221,
+                        59.378653
+                  ]
+            },
+            {
+                  "name": "Raul Wallenbergs gärning-",
+                  "text": "A monument dedicated to the humanitarian deeds of Raoul Wallenberg, who was born on Lidingö.",
+                  "category": "historical",
+                  "coords": [
+                        18.134455,
+                        59.365323
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet start stone",
+                  "text": "A commemorative stone at the starting point of the world's largest cross-country race.",
+                  "category": "historical",
+                  "coords": [
+                        18.176615,
+                        59.360199
+                  ]
+            },
+            {
+                  "name": "Näsets kvarn",
+                  "text": "A historical windmill located on the island of Lidingö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151936,
+                        59.367685
+                  ]
+            },
+            {
+                  "name": "Grönstaviken",
+                  "text": "A viewpoint by the Grönstaviken bay with views over the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.165533,
+                        59.37834
+                  ]
+            },
+            {
+                  "name": "Ögat--",
+                  "text": "A public sculpture on Lidingö serving as a local monument.",
+                  "category": "historical",
+                  "coords": [
+                        18.132814,
+                        59.364436
+                  ]
+            },
+            {
+                  "name": "Lidingö kyrka",
+                  "text": "The main Evangelical Lutheran church of the Lidingö parish.",
+                  "category": "religious",
+                  "coords": [
+                        18.157313,
+                        59.366769
+                  ]
+            },
+            {
+                  "name": "Hjorthagens kyrka",
+                  "text": "An Art Nouveau brick church located in the Hjorthagen district of Stockholm.",
+                  "category": "religious",
+                  "coords": [
+                        18.10333,
+                        59.354947
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "A modern church building belonging to the Uniting Church in Sweden on Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.132435,
+                        59.365657
+                  ]
+            },
+            {
+                  "name": "Lidingöbron",
+                  "text": "This bridge connects the island of Lidingö with the Stockholm mainland.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110489,
+                        59.360308
+                  ]
+            },
+            {
+                  "name": "Lilla Lidingöbron",
+                  "text": "A new combined bridge for pedestrians, cyclists, and the Lidingö light rail.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110119,
+                        59.361271
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Ösbysjön",
+                  "text": "Ösbysjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.06346,
+                        59.402278
+                  ]
+            },
+            {
+                  "name": "Ekebysjön",
+                  "text": "Ekebysjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.054019,
+                        59.407232
+                  ]
+            },
+            {
+                  "name": "Swan Pond",
+                  "text": "Swan Pond lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Träsksjön",
+                  "text": "Träsksjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.201166,
+                        59.403027
+                  ]
+            },
+            {
+                  "name": "Långsjön",
+                  "text": "Långsjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.188934,
+                        59.306921
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Glasbrukssjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Sågsjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Breviksdammen lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Kocktorpssjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Tollareträsk lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Sarvträsk lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Övre Glasbrukssjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Svartpotten lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Jordbrodammen",
+                  "text": "Jordbrodammen lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.265899,
+                        59.395732
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Näckdjupet lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Karbosjön",
+                  "text": "Karbosjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.283377,
+                        59.351754
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Krokträsken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "Gråviken",
+                  "text": "Gråviken lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.19292,
+                        59.367066
+                  ]
+            },
+            {
+                  "name": "Rudträsk",
+                  "text": "Rudträsk lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.272267,
+                        59.354022
+                  ]
+            },
+            {
+                  "name": "Kolbottensjön",
+                  "text": "Kolbottensjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.193798,
+                        59.300366
+                  ]
+            },
+            {
+                  "name": "Hejesjön",
+                  "text": "Hejesjön lake in Lidingoe is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.220018,
+                        59.417704
+                  ]
+            },
+            {
+                  "name": "Badberget",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Lidingoe.",
+                  "category": "family",
+                  "coords": [
+                        18.183079,
+                        59.346468
+                  ]
+            },
+            {
+                  "name": "Kottlasjön",
+                  "text": "Kottlasjön is a scenic lake in Lidingoe, ideal for walking and enjoying nature.",
+                  "category": "family",
+                  "coords": [
+                        18.175615,
+                        59.34847
+                  ]
+            },
+            {
+                  "name": "Motalaparkens plaskdamm",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Lidingoe.",
+                  "category": "family",
+                  "coords": [
+                        18.093555,
+                        59.353385
+                  ]
+            },
+            {
+                  "name": "Tessinparkens plaskdamm",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Lidingoe.",
+                  "category": "family",
+                  "coords": [
+                        18.095925,
+                        59.343755
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Lidingö", hu: "Lidingö", ro: "Lidingö", en: "Lidingö" },
@@ -39076,7 +43126,1744 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-lidingo-cities-v2.webp",
   },
   {
-    id: "sweden-nacka-cities-v2", "sights": {"de": [{"name": "Sickla strand", "text": "Kurz vor den Toren Stockholms bietet dieser beschauliche Strand in Nacka eine herrliche Möglichkeit zur Abkühlung im klaren Wasser. Umgeben von typisch schwedischer Naturkulisse, finden Badegäste hier einen ruhigen Ausgleich zum städtischen Leben. Das Ufer lädt dazu ein, es sich mit einem Picknick gemütlich zu machen und die Spiegelungen auf der Wasseroberfläche zu betrachten. Im Sommer ist das Gewässer oft erstaunlich schnell angenehm temperiert.", "category": "recreational", "coords": [18.12469, 59.301911]}, {"name": "Bastusjöbadet", "text": "Badestelle am Bastusjön in Nacka.", "category": "recreational", "coords": [18.20695, 59.317307]}, {"name": "Långsjöbadet", "text": "Badestelle am Långsjön in Nacka.", "category": "recreational", "coords": [18.188795, 59.307733]}, {"name": "Blockhusudden", "text": "Ein markanter Leuchtturm an der Küste von Nacka.", "category": "landmark", "coords": [18.154908, 59.320767]}, {"name": "Libertus", "text": "Ein kleiner Leuchtturm im Schärengarten von Nacka.", "category": "landmark", "coords": [18.176414, 59.332282]}, {"name": "Prins Eugens Waldemarsudde", "text": "Ein renommiertes Kunstmuseum in Nacka, das ehemalige Wohnhaus von Prinz Eugen.", "category": "museum", "coords": [18.114554, 59.320222]}, {"name": "Thielska galleriet", "text": "Eine Kunstgalerie in Nacka, bekannt für ihre Sammlung nordischer Kunst der Jahrhundertwende.", "category": "museum", "coords": [18.148629, 59.322297]}, {"name": "Svindersvik", "text": "Ein gut erhaltenes Rokoko-Sommerhaus und Schlösschen in Nacka.", "category": "castle", "coords": [18.130502, 59.310216]}, {"name": "Ryssbergens naturreservat", "text": "Ein Naturschutzgebiet in Nacka mit Wanderwegen durch unberührte Wälder.", "category": "natural", "coords": [18.14686, 59.313152]}, {"name": "Dieselverkstaden", "text": "Ein Kulturzentrum in Nacka, das Theateraufführungen und Veranstaltungen anbietet.", "category": "cultural", "coords": [18.120744, 59.305493]}, {"name": "AGA-fyren", "text": "Ein Leuchtturm in der Gemeinde Nacka.", "category": "landmark", "coords": [18.151491, 59.303455]}, {"name": "Allmogebåtarna", "text": "Ein Museum für traditionelle Boote in Nacka.", "category": "museum", "coords": [18.176523, 59.328755]}, {"name": "Saltsjön", "text": "Eine Bucht der Ostsee im Gebiet von Nacka und Stockholm.", "category": "landmark", "coords": [18.128893, 59.319794]}, {"name": "Frihetens Port", "text": "Ein Denkmal in Nacka, das estnischen Flüchtlingen gewidmet ist.", "category": "historical", "coords": [18.133498, 59.322052]}, {"name": "Finnberget", "text": "Ein Hügel und Wohngebiet in der Gemeinde Nacka.", "category": "natural", "coords": [18.126899, 59.31404]}, {"name": "Waldemarsuddes oljekvarn", "text": "Eine historische Ölmühle und Windmühle bei Waldemarsudde.", "category": "landmark", "coords": [18.116126, 59.320103]}, {"name": "Värn", "text": "Historische Ruinen in der Gemeinde Nacka.", "category": "historical", "coords": [18.182399, 59.302906]}, {"name": "Björkhagendammen", "text": "Ein lokaler Teich und eine Sehenswürdigkeit in Nacka.", "category": "landmark", "coords": [18.123417, 59.293197]}, {"name": "Ground", "text": "Eine Kunstgalerie in der Gemeinde Nacka.", "category": "museum", "coords": [18.108946, 59.306018]}, {"name": "Nacka kyrka", "text": "Die Hauptkirche der Kirchengemeinde Nacka.", "category": "religious", "coords": [18.142914, 59.307266]}, {"name": "Laduviken", "text": "Laduviken ist ein friedlicher See in Nacka, ideal für Beobachtungen in der Natur.", "category": "natural", "coords": [18.075848, 59.3608]}, {"name": "Svandammen", "text": "Swan Pond ist ein charmanter See in Nacka, der eine ruhige Atmosphäre für Besucher bietet.", "category": "natural", "coords": [18.104536, 59.326962]}, {"name": "Abborrträsk", "text": "Abborrträsk ist ein ruhiger See in Nacka, perfekt für eine kurze Auszeit im Grünen.", "category": "natural", "coords": [18.288187, 59.331176]}, {"name": "Ulvsjön", "text": "Ulvsjön ist ein friedlicher See in Nacka, der zu gemütlichen Wanderungen in der Natur einlädt.", "category": "natural", "coords": [18.163939, 59.277158]}, {"name": "Glasbrukssjön", "text": "Glasbrukssjön ist ein klarer See in Nacka, ideal für Erholung und Freizeitaktivitäten im Freien.", "category": "natural", "coords": [18.229677, 59.325957]}, {"name": "Trekanten", "text": "Trekanten ist ein beliebter See in Nacka, der eine angenehme Umgebung für Erholung bietet.", "category": "natural", "coords": [18.015128, 59.311935]}, {"name": "Sågsjön", "text": "Sågsjön ist ein malerischer See in Nacka, perfekt für Naturliebhaber und Ruhesuchende.", "category": "natural", "coords": [18.286565, 59.340742]}, {"name": "Bagarsjön", "text": "Bagarsjön ist ein ruhiger See in Nacka, ideal für einen entspannten Tag in der Natur.", "category": "natural", "coords": [18.262995, 59.308837]}, {"name": "Breviksdammen", "text": "Breviksdammen ist ein kleiner, friedlicher See in Nacka, der zum Verweilen einlädt.", "category": "natural", "coords": [18.209107, 59.343613]}, {"name": "Kocktorpssjön", "text": "Kocktorpssjön ist ein schöner See in Nacka, umgeben von einer ruhigen Waldlandschaft.", "category": "natural", "coords": [18.250638, 59.314128]}, {"name": "Tollareträsk", "text": "Tollareträsk ist ein naturbelassener See in Nacka, ideal für ruhige Erkundungen.", "category": "natural", "coords": [18.244958, 59.306552]}, {"name": "Sarvträsk", "text": "Sarvträsk ist ein malerischer See in Nacka, der sich perfekt für einen Spaziergang im Freien eignet.", "category": "natural", "coords": [18.261991, 59.329585]}, {"name": "Övre Glasbrukssjön", "text": "Övre Glasbrukssjön ist ein ruhiger See in Nacka, ideal für Erholungssuchende in der Natur.", "category": "natural", "coords": [18.22734, 59.329831]}, {"name": "Svartpotten", "text": "Svartpotten ist ein kleiner, idyllischer See in Nacka, perfekt für einen Moment der Ruhe.", "category": "natural", "coords": [18.236676, 59.32906]}, {"name": "Knipträsket", "text": "Knipträsket ist ein friedlicher See in Nacka, ideal für Naturliebhaber.", "category": "natural", "coords": [18.228023, 59.279144]}, {"name": "Skinnmossen", "text": "Skinnmossen ist ein ruhiger See in Nacka, umgeben von einer entspannten Umgebung.", "category": "natural", "coords": [18.245444, 59.282227]}, {"name": "Näckdjupet", "text": "Näckdjupet ist ein malerischer See in Nacka, der Ruhe und Erholung bietet.", "category": "natural", "coords": [18.273444, 59.348082]}, {"name": "Krokträsken", "text": "Krokträsken ist ein friedlicher See in Nacka, ideal für ruhige Momente in der Natur.", "category": "natural", "coords": [18.239433, 59.336326]}, {"name": "Sandasjön", "text": "Sandasjön ist ein attraktiver See in Nacka, perfekt für Freizeitaktivitäten am Wasser.", "category": "natural", "coords": [18.19195, 59.27599]}, {"name": "Bastusjön", "text": "Bastusjön ist ein ruhiger See in Nacka, der sich gut für entspannte Spaziergänge eignet.", "category": "natural", "coords": [18.209083, 59.317061]}, {"name": "Strålsjön", "text": "Strålsjön ist ein klarer See in Nacka, ideal für eine Pause in einer friedlichen Landschaft.", "category": "natural", "coords": [18.197077, 59.26705]}, {"name": "Söderbysjön", "text": "Söderbysjön ist ein schöner See in Nacka, perfekt für Naturerlebnisse mit der Familie.", "category": "natural", "coords": [18.149375, 59.282706]}, {"name": "Husarviken", "text": "Husarviken ist ein ruhiger See in Nacka, der zu entspannten Stunden am Wasser einlädt.", "category": "natural", "coords": [18.091428, 59.359442]}, {"name": "Ekholmsnässjön", "text": "Ekholmsnässjön ist ein malerischer See in Nacka, ideal für einen Ausflug ins Grüne.", "category": "natural", "coords": [18.199703, 59.361356]}], "hu": [{"name": "Sickla strand", "text": "Röviddel Stockholm kapui előtt ez a nyugodt nackai strand csodálatos lehetőséget kínál a hűsölésre a kristálytiszta vízben. A jellegzetes svéd természeti környezettel körülvett fürdőzők itt nyugodt kikapcsolódást találhatnak a városi élet elől. A part piknikezésre hívogat, miközben a víz felszínén tükröződő fényjátékokat csodálhatja. Nyáron a víz gyakran meglepően gyorsan felmelegszik és kellemes hőmérsékletű lesz.", "category": "recreational", "coords": [18.12469, 59.301911]}, {"name": "Bastusjöbadet", "text": "Fürdőhely a Bastusjön tónál, Nackában.", "category": "recreational", "coords": [18.20695, 59.317307]}, {"name": "Långsjöbadet", "text": "Fürdőhely a Långsjön tónál, Nackában.", "category": "recreational", "coords": [18.188795, 59.307733]}, {"name": "Blockhusudden", "text": "Jellegzetes világítótorony Nacka partjainál.", "category": "landmark", "coords": [18.154908, 59.320767]}, {"name": "Libertus", "text": "Kisméretű világítótorony Nacka szigetvilágában.", "category": "landmark", "coords": [18.176414, 59.332282]}, {"name": "Prins Eugens Waldemarsudde", "text": "Híres művészeti múzeum Nackában, Jenő herceg egykori otthona.", "category": "museum", "coords": [18.114554, 59.320222]}, {"name": "Thielska galleriet", "text": "Művészeti galéria Nackában, amely századfordulós északi művészeti gyűjteményéről ismert.", "category": "museum", "coords": [18.148629, 59.322297]}, {"name": "Svindersvik", "text": "Jó állapotban fennmaradt rokokó nyári lak és kastély Nackában.", "category": "castle", "coords": [18.130502, 59.310216]}, {"name": "Ryssbergens naturreservat", "text": "Természetvédelmi terület Nackában, érintetlen erdőkön átvezető túraútvonalakkal.", "category": "natural", "coords": [18.14686, 59.313152]}, {"name": "Dieselverkstaden", "text": "Kulturális központ Nackában, amely színházi előadásoknak és rendezvényeknek ad otthont.", "category": "cultural", "coords": [18.120744, 59.305493]}, {"name": "AGA-fyren", "text": "Egy világítótorony Nacka községben.", "category": "landmark", "coords": [18.151491, 59.303455]}, {"name": "Allmogebåtarna", "text": "Hagyományos hajókat bemutató múzeum Nackában.", "category": "museum", "coords": [18.176523, 59.328755]}, {"name": "Saltsjön", "text": "A Balti-tenger egyik öble Nacka és Stockholm térségében.", "category": "landmark", "coords": [18.128893, 59.319794]}, {"name": "Frihetens Port", "text": "Észt menekülteknek szentelt emlékmű Nackában.", "category": "historical", "coords": [18.133498, 59.322052]}, {"name": "Finnberget", "text": "Domb és lakónegyed Nacka községben.", "category": "natural", "coords": [18.126899, 59.31404]}, {"name": "Waldemarsuddes oljekvarn", "text": "Történelmi olajmalom és szélmalom Waldemarsuddénál.", "category": "landmark", "coords": [18.116126, 59.320103]}, {"name": "Värn", "text": "Történelmi romok Nacka községben.", "category": "historical", "coords": [18.182399, 59.302906]}, {"name": "Björkhagendammen", "text": "Helyi tó és látnivaló Nackában.", "category": "landmark", "coords": [18.123417, 59.293197]}, {"name": "Ground", "text": "Művészeti galéria Nacka községben.", "category": "museum", "coords": [18.108946, 59.306018]}, {"name": "Nacka kyrka", "text": "Nacka egyházközségének főtemploma.", "category": "religious", "coords": [18.142914, 59.307266]}, {"name": "Laduviken", "text": "A Laduviken egy békés tó Nacka területén, amely ideális a természet megfigyelésére.", "category": "natural", "coords": [18.075848, 59.3608]}, {"name": "Svandammen", "text": "A Swan Pond egy bájos tó Nacka területén, amely nyugodt légkört biztosít a látogatóknak.", "category": "natural", "coords": [18.104536, 59.326962]}, {"name": "Abborrträsk", "text": "Az Abborrträsk egy csendes tó Nacka területén, amely tökéletes egy rövid pihenőhöz a zöldben.", "category": "natural", "coords": [18.288187, 59.331176]}, {"name": "Ulvsjön", "text": "Az Ulvsjön egy békés tó Nacka területén, amely kellemes túrákra hív a természetben.", "category": "natural", "coords": [18.163939, 59.277158]}, {"name": "Glasbrukssjön", "text": "A Glasbrukssjön egy tiszta tó Nacka területén, amely ideális kikapcsolódáshoz és szabadtéri tevékenységekhez.", "category": "natural", "coords": [18.229677, 59.325957]}, {"name": "Trekanten", "text": "A Trekanten egy népszerű tó Nacka területén, amely kellemes környezetet biztosít a pihenéshez.", "category": "natural", "coords": [18.015128, 59.311935]}, {"name": "Sågsjön", "text": "A Sågsjön egy festői tó Nacka területén, amely tökéletes a természet kedvelőinek és a nyugalomra vágyóknak.", "category": "natural", "coords": [18.286565, 59.340742]}, {"name": "Bagarsjön", "text": "A Bagarsjön egy csendes tó Nacka területén, amely ideális egy pihentető naphoz a természetben.", "category": "natural", "coords": [18.262995, 59.308837]}, {"name": "Breviksdammen", "text": "A Breviksdammen egy kis, békés tó Nacka területén, amely pihenésre hív.", "category": "natural", "coords": [18.209107, 59.343613]}, {"name": "Kocktorpssjön", "text": "A Kocktorpssjön egy szép tó Nacka területén, amelyet csendes erdei táj vesz körül.", "category": "natural", "coords": [18.250638, 59.314128]}, {"name": "Tollareträsk", "text": "A Tollareträsk egy természetközeli tó Nacka területén, amely ideális a csendes felfedezéshez.", "category": "natural", "coords": [18.244958, 59.306552]}, {"name": "Sarvträsk", "text": "A Sarvträsk egy festői tó Nacka területén, amely tökéletes egy szabadtéri sétához.", "category": "natural", "coords": [18.261991, 59.329585]}, {"name": "Övre Glasbrukssjön", "text": "Az Övre Glasbrukssjön egy csendes tó Nacka területén, amely ideális a természetben pihenni vágyóknak.", "category": "natural", "coords": [18.22734, 59.329831]}, {"name": "Svartpotten", "text": "A Svartpotten egy kis, idilli tó Nacka területén, amely tökéletes egy pillanatnyi nyugalomhoz.", "category": "natural", "coords": [18.236676, 59.32906]}, {"name": "Knipträsket", "text": "A Knipträsket egy békés tó Nacka területén, amely ideális a természet kedvelőinek.", "category": "natural", "coords": [18.228023, 59.279144]}, {"name": "Skinnmossen", "text": "A Skinnmossen egy csendes tó Nacka területén, nyugodt környezettel körülvéve.", "category": "natural", "coords": [18.245444, 59.282227]}, {"name": "Näckdjupet", "text": "A Näckdjupet egy festői tó Nacka területén, amely békét és kikapcsolódást nyújt.", "category": "natural", "coords": [18.273444, 59.348082]}, {"name": "Krokträsken", "text": "A Krokträsken egy békés tó Nacka területén, amely ideális a természetben töltött csendes pillanatokhoz.", "category": "natural", "coords": [18.239433, 59.336326]}, {"name": "Sandasjön", "text": "A Sandasjön egy vonzó tó Nacka területén, amely tökéletes a vízparti szabadidős tevékenységekhez.", "category": "natural", "coords": [18.19195, 59.27599]}, {"name": "Bastusjön", "text": "A Bastusjön egy csendes tó Nacka területén, amely alkalmas pihentető sétákra.", "category": "natural", "coords": [18.209083, 59.317061]}, {"name": "Strålsjön", "text": "A Strålsjön egy tiszta tó Nacka területén, amely ideális egy pihenőhöz egy békés tájon.", "category": "natural", "coords": [18.197077, 59.26705]}, {"name": "Söderbysjön", "text": "A Söderbysjön egy szép tó Nacka területén, amely tökéletes családi természetjáráshoz.", "category": "natural", "coords": [18.149375, 59.282706]}, {"name": "Husarviken", "text": "A Husarviken egy csendes tó Nacka területén, amely pihentető órákra hív a víznél.", "category": "natural", "coords": [18.091428, 59.359442]}, {"name": "Ekholmsnässjön", "text": "Az Ekholmsnässjön egy festői tó Nacka területén, amely ideális egy kiránduláshoz a zöldbe.", "category": "natural", "coords": [18.199703, 59.361356]}], "ro": [{"name": "Sickla strand", "text": "Chiar la porțile orașului Stockholm, această plajă liniștită din Nacka oferă o oportunitate minunată de a vă răcori în apa limpede. Înconjurați de un fundal natural tipic suedez, înotătorii găsesc aici o alternativă pașnică la viața urbană. Malul te invită să te așezi confortabil cu un picnic și să privești reflexiile de pe suprafața apei. Vara, apa capătă adesea o temperatură plăcută surprinzător de repede.", "category": "recreational", "coords": [18.12469, 59.301911]}, {"name": "Bastusjöbadet", "text": "Loc de îmbăiere la lacul Bastusjön în Nacka.", "category": "recreational", "coords": [18.20695, 59.317307]}, {"name": "Långsjöbadet", "text": "Loc de îmbăiere la lacul Långsjön în Nacka.", "category": "recreational", "coords": [18.188795, 59.307733]}, {"name": "Blockhusudden", "text": "Un far distinctiv pe coasta localității Nacka.", "category": "landmark", "coords": [18.154908, 59.320767]}, {"name": "Libertus", "text": "Un mic far în arhipelagul localității Nacka.", "category": "landmark", "coords": [18.176414, 59.332282]}, {"name": "Prins Eugens Waldemarsudde", "text": "Un renumit muzeu de artă în Nacka, fosta reședință a Prințului Eugen.", "category": "museum", "coords": [18.114554, 59.320222]}, {"name": "Thielska galleriet", "text": "O galerie de artă în Nacka, cunoscută pentru colecția sa de artă nordică de la începutul secolului.", "category": "museum", "coords": [18.148629, 59.322297]}, {"name": "Svindersvik", "text": "O casă de vară în stil rococo și un mic castel bine conservat în Nacka.", "category": "castle", "coords": [18.130502, 59.310216]}, {"name": "Ryssbergens naturreservat", "text": "O rezervație naturală în Nacka, cu trasee de drumeție prin păduri virgine.", "category": "natural", "coords": [18.14686, 59.313152]}, {"name": "Dieselverkstaden", "text": "Un centru cultural în Nacka, care găzduiește spectacole de teatru și evenimente.", "category": "cultural", "coords": [18.120744, 59.305493]}, {"name": "AGA-fyren", "text": "Un far în comuna Nacka.", "category": "landmark", "coords": [18.151491, 59.303455]}, {"name": "Allmogebåtarna", "text": "Un muzeu dedicat ambarcațiunilor tradiționale în Nacka.", "category": "museum", "coords": [18.176523, 59.328755]}, {"name": "Saltsjön", "text": "Un golf la Marea Baltică în zona Nacka și Stockholm.", "category": "landmark", "coords": [18.128893, 59.319794]}, {"name": "Frihetens Port", "text": "Un monument în Nacka dedicat refugiaților estonieni.", "category": "historical", "coords": [18.133498, 59.322052]}, {"name": "Finnberget", "text": "Un deal și zonă rezidențială în comuna Nacka.", "category": "natural", "coords": [18.126899, 59.31404]}, {"name": "Waldemarsuddes oljekvarn", "text": "O moară de ulei și moară de vânt istorică la Waldemarsudde.", "category": "landmark", "coords": [18.116126, 59.320103]}, {"name": "Värn", "text": "Ruine istorice în comuna Nacka.", "category": "historical", "coords": [18.182399, 59.302906]}, {"name": "Björkhagendammen", "text": "Un iaz local și punct de atracție în Nacka.", "category": "landmark", "coords": [18.123417, 59.293197]}, {"name": "Ground", "text": "O galerie de artă în comuna Nacka.", "category": "museum", "coords": [18.108946, 59.306018]}, {"name": "Nacka kyrka", "text": "Biserica principală a parohiei Nacka.", "category": "religious", "coords": [18.142914, 59.307266]}, {"name": "Laduviken", "text": "Laduviken este un lac pașnic din Nacka, ideal pentru observații în natură.", "category": "natural", "coords": [18.075848, 59.3608]}, {"name": "Svandammen", "text": "Swan Pond este un lac fermecător din Nacka, oferind o atmosferă liniștită pentru vizitatori.", "category": "natural", "coords": [18.104536, 59.326962]}, {"name": "Abborrträsk", "text": "Abborrträsk este un lac liniștit din Nacka, perfect pentru o scurtă pauză în natură.", "category": "natural", "coords": [18.288187, 59.331176]}, {"name": "Ulvsjön", "text": "Ulvsjön este un lac pașnic din Nacka, care invită la drumeții plăcute în natură.", "category": "natural", "coords": [18.163939, 59.277158]}, {"name": "Glasbrukssjön", "text": "Glasbrukssjön este un lac limpede din Nacka, ideal pentru relaxare și activități în aer liber.", "category": "natural", "coords": [18.229677, 59.325957]}, {"name": "Trekanten", "text": "Trekanten este un lac popular din Nacka, oferind un mediu plăcut pentru recreere.", "category": "natural", "coords": [18.015128, 59.311935]}, {"name": "Sågsjön", "text": "Sågsjön este un lac pitoresc din Nacka, perfect pentru iubitorii de natură și cei care caută liniște.", "category": "natural", "coords": [18.286565, 59.340742]}, {"name": "Bagarsjön", "text": "Bagarsjön este un lac liniștit din Nacka, ideal pentru o zi relaxantă în natură.", "category": "natural", "coords": [18.262995, 59.308837]}, {"name": "Breviksdammen", "text": "Breviksdammen este un lac mic și pașnic din Nacka, care invită la relaxare.", "category": "natural", "coords": [18.209107, 59.343613]}, {"name": "Kocktorpssjön", "text": "Kocktorpssjön este un lac frumos din Nacka, înconjurat de un peisaj forestier liniștit.", "category": "natural", "coords": [18.250638, 59.314128]}, {"name": "Tollareträsk", "text": "Tollareträsk este un lac natural din Nacka, ideal pentru explorări liniștite.", "category": "natural", "coords": [18.244958, 59.306552]}, {"name": "Sarvträsk", "text": "Sarvträsk este un lac pitoresc din Nacka, perfect pentru o plimbare în aer liber.", "category": "natural", "coords": [18.261991, 59.329585]}, {"name": "Övre Glasbrukssjön", "text": "Övre Glasbrukssjön este un lac liniștit din Nacka, ideal pentru cei care caută relaxare în natură.", "category": "natural", "coords": [18.22734, 59.329831]}, {"name": "Svartpotten", "text": "Svartpotten este un lac mic și idilic din Nacka, perfect pentru un moment de liniște.", "category": "natural", "coords": [18.236676, 59.32906]}, {"name": "Knipträsket", "text": "Knipträsket este un lac pașnic din Nacka, ideal pentru iubitorii de natură.", "category": "natural", "coords": [18.228023, 59.279144]}, {"name": "Skinnmossen", "text": "Skinnmossen este un lac liniștit din Nacka, înconjurat de un mediu relaxant.", "category": "natural", "coords": [18.245444, 59.282227]}, {"name": "Näckdjupet", "text": "Näckdjupet este un lac pitoresc din Nacka, oferind liniște și relaxare.", "category": "natural", "coords": [18.273444, 59.348082]}, {"name": "Krokträsken", "text": "Krokträsken este un lac pașnic din Nacka, ideal pentru momente liniștite în natură.", "category": "natural", "coords": [18.239433, 59.336326]}, {"name": "Sandasjön", "text": "Sandasjön este un lac atractiv din Nacka, perfect pentru activități de agrement pe malul apei.", "category": "natural", "coords": [18.19195, 59.27599]}, {"name": "Bastusjön", "text": "Bastusjön este un lac liniștit din Nacka, potrivit pentru plimbări relaxante.", "category": "natural", "coords": [18.209083, 59.317061]}, {"name": "Strålsjön", "text": "Strålsjön este un lac limpede din Nacka, ideal pentru o pauză într-un peisaj pașnic.", "category": "natural", "coords": [18.197077, 59.26705]}, {"name": "Söderbysjön", "text": "Söderbysjön este un lac frumos din Nacka, perfect pentru experiențe în natură cu familia.", "category": "natural", "coords": [18.149375, 59.282706]}, {"name": "Husarviken", "text": "Husarviken este un lac liniștit din Nacka, invitând la ore relaxante lângă apă.", "category": "natural", "coords": [18.091428, 59.359442]}, {"name": "Ekholmsnässjön", "text": "Ekholmsnässjön este un lac pitoresc din Nacka, ideal pentru o excursie în natură.", "category": "natural", "coords": [18.199703, 59.361356]}], "en": [{"name": "Sickla strand", "text": "Just outside the gates of Stockholm, this tranquil beach in Nacka offers a wonderful opportunity to cool off in the clear water. Surrounded by a typically Swedish natural backdrop, bathers easily find a peaceful counterpoint to busy urban life here. The shore strongly invites you to get comfortable with a picnic and watch the shifting reflections on the water's surface. During the summer, the water often reaches a remarkably pleasant temperature quite quickly.", "category": "recreational", "coords": [18.12469, 59.301911]}, {"name": "Bastusjöbadet", "text": "Bathing spot at Lake Bastusjön in Nacka.", "category": "recreational", "coords": [18.20695, 59.317307]}, {"name": "Långsjöbadet", "text": "Bathing spot at Lake Långsjön in Nacka.", "category": "recreational", "coords": [18.188795, 59.307733]}, {"name": "Blockhusudden", "text": "A prominent lighthouse on the coast of Nacka.", "category": "landmark", "coords": [18.154908, 59.320767]}, {"name": "Libertus", "text": "A small lighthouse in the Nacka archipelago.", "category": "landmark", "coords": [18.176414, 59.332282]}, {"name": "Prins Eugens Waldemarsudde", "text": "A renowned art museum in Nacka, the former home of Prince Eugen.", "category": "museum", "coords": [18.114554, 59.320222]}, {"name": "Thielska galleriet", "text": "An art gallery in Nacka, known for its collection of Nordic art from the turn of the century.", "category": "museum", "coords": [18.148629, 59.322297]}, {"name": "Svindersvik", "text": "A well-preserved rococo summer house and small castle in Nacka.", "category": "castle", "coords": [18.130502, 59.310216]}, {"name": "Ryssbergens naturreservat", "text": "A nature reserve in Nacka with hiking trails through untouched forests.", "category": "natural", "coords": [18.14686, 59.313152]}, {"name": "Dieselverkstaden", "text": "A cultural centre in Nacka hosting theatre performances and events.", "category": "cultural", "coords": [18.120744, 59.305493]}, {"name": "AGA-fyren", "text": "A lighthouse located in the Nacka municipality.", "category": "landmark", "coords": [18.151491, 59.303455]}, {"name": "Allmogebåtarna", "text": "A museum dedicated to traditional boats in Nacka.", "category": "museum", "coords": [18.176523, 59.328755]}, {"name": "Saltsjön", "text": "A bay of the Baltic Sea in the Nacka and Stockholm area.", "category": "landmark", "coords": [18.128893, 59.319794]}, {"name": "The Freedom Gate", "text": "A monument in Nacka dedicated to Estonian refugees.", "category": "historical", "coords": [18.133498, 59.322052]}, {"name": "Finnberget", "text": "A hill and residential area in the Nacka municipality.", "category": "natural", "coords": [18.126899, 59.31404]}, {"name": "Waldemarsuddes oljekvarn", "text": "A historic oil mill and windmill at Waldemarsudde.", "category": "landmark", "coords": [18.116126, 59.320103]}, {"name": "Värn", "text": "Historic ruins located in the Nacka municipality.", "category": "historical", "coords": [18.182399, 59.302906]}, {"name": "Björkhagendammen", "text": "A local pond and attraction in Nacka.", "category": "landmark", "coords": [18.123417, 59.293197]}, {"name": "Ground", "text": "An art gallery in the Nacka municipality.", "category": "museum", "coords": [18.108946, 59.306018]}, {"name": "Nacka kyrka", "text": "The main church of the Nacka parish.", "category": "religious", "coords": [18.142914, 59.307266]}, {"name": "Laduviken", "text": "Laduviken is a peaceful lake in Nacka, ideal for nature observations.", "category": "natural", "coords": [18.075848, 59.3608]}, {"name": "Swan Pond", "text": "Swan Pond is a charming lake in Nacka, providing a calm atmosphere for visitors.", "category": "natural", "coords": [18.104536, 59.326962]}, {"name": "Abborrträsk", "text": "Abborrträsk is a quiet lake in Nacka, perfect for a short break in the greenery.", "category": "natural", "coords": [18.288187, 59.331176]}, {"name": "Ulvsjön", "text": "Ulvsjön is a peaceful lake in Nacka, inviting pleasant hikes in nature.", "category": "natural", "coords": [18.163939, 59.277158]}, {"name": "Glasbrukssjön", "text": "Glasbrukssjön is a clear lake in Nacka, ideal for relaxation and outdoor leisure activities.", "category": "natural", "coords": [18.229677, 59.325957]}, {"name": "Trekanten", "text": "Trekanten is a popular lake in Nacka, providing a pleasant environment for recreation.", "category": "natural", "coords": [18.015128, 59.311935]}, {"name": "Sågsjön", "text": "Sågsjön is a scenic lake in Nacka, perfect for nature lovers and those seeking peace.", "category": "natural", "coords": [18.286565, 59.340742]}, {"name": "Bagarsjön", "text": "Bagarsjön is a quiet lake in Nacka, ideal for a relaxed day in nature.", "category": "natural", "coords": [18.262995, 59.308837]}, {"name": "Breviksdammen", "text": "Breviksdammen is a small, peaceful lake in Nacka, inviting visitors to linger.", "category": "natural", "coords": [18.209107, 59.343613]}, {"name": "Kocktorpssjön", "text": "Kocktorpssjön is a beautiful lake in Nacka, surrounded by a quiet forest landscape.", "category": "natural", "coords": [18.250638, 59.314128]}, {"name": "Tollareträsk", "text": "Tollareträsk is a natural lake in Nacka, ideal for quiet exploration.", "category": "natural", "coords": [18.244958, 59.306552]}, {"name": "Sarvträsk", "text": "Sarvträsk is a scenic lake in Nacka, perfect for an outdoor stroll.", "category": "natural", "coords": [18.261991, 59.329585]}, {"name": "Övre Glasbrukssjön", "text": "Övre Glasbrukssjön is a quiet lake in Nacka, ideal for those seeking relaxation in nature.", "category": "natural", "coords": [18.22734, 59.329831]}, {"name": "Svartpotten", "text": "Svartpotten is a small, idyllic lake in Nacka, perfect for a moment of quiet.", "category": "natural", "coords": [18.236676, 59.32906]}, {"name": "Knipträsket", "text": "Knipträsket is a peaceful lake in Nacka, ideal for nature lovers.", "category": "natural", "coords": [18.228023, 59.279144]}, {"name": "Skinnmossen", "text": "Skinnmossen is a quiet lake in Nacka, surrounded by a relaxed environment.", "category": "natural", "coords": [18.245444, 59.282227]}, {"name": "Näckdjupet", "text": "Näckdjupet is a scenic lake in Nacka, providing peace and relaxation.", "category": "natural", "coords": [18.273444, 59.348082]}, {"name": "Krokträsken", "text": "Krokträsken is a peaceful lake in Nacka, ideal for quiet moments in nature.", "category": "natural", "coords": [18.239433, 59.336326]}, {"name": "Sandasjön", "text": "Sandasjön is an attractive lake in Nacka, perfect for leisure activities by the water.", "category": "natural", "coords": [18.19195, 59.27599]}, {"name": "Bastusjön", "text": "Bastusjön is a quiet lake in Nacka, well-suited for relaxed walks.", "category": "natural", "coords": [18.209083, 59.317061]}, {"name": "Strålsjön", "text": "Strålsjön is a clear lake in Nacka, ideal for a break in a peaceful landscape.", "category": "natural", "coords": [18.197077, 59.26705]}, {"name": "Söderbysjön", "text": "Söderbysjön is a beautiful lake in Nacka, perfect for nature experiences with the family.", "category": "natural", "coords": [18.149375, 59.282706]}, {"name": "Husarviken", "text": "Husarviken is a quiet lake in Nacka, inviting relaxed hours by the water.", "category": "natural", "coords": [18.091428, 59.359442]}, {"name": "Ekholmsnässjön", "text": "Ekholmsnässjön is a scenic lake in Nacka, ideal for a trip into nature.", "category": "natural", "coords": [18.199703, 59.361356]}]},
+    id: "sweden-nacka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sickla strand",
+                  "text": "Kurz vor den Toren Stockholms bietet dieser beschauliche Strand in Nacka eine herrliche Möglichkeit zur Abkühlung im klaren Wasser. Umgeben von typisch schwedischer Naturkulisse, finden Badegäste hier einen ruhigen Ausgleich zum städtischen Leben. Das Ufer lädt dazu ein, es sich mit einem Picknick gemütlich zu machen und die Spiegelungen auf der Wasseroberfläche zu betrachten. Im Sommer ist das Gewässer oft erstaunlich schnell angenehm temperiert.",
+                  "category": "recreational",
+                  "coords": [
+                        18.12469,
+                        59.301911
+                  ]
+            },
+            {
+                  "name": "Bastusjöbadet",
+                  "text": "Badestelle am Bastusjön in Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.20695,
+                        59.317307
+                  ]
+            },
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Badestelle am Långsjön in Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.188795,
+                        59.307733
+                  ]
+            },
+            {
+                  "name": "Blockhusudden",
+                  "text": "Ein markanter Leuchtturm an der Küste von Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.154908,
+                        59.320767
+                  ]
+            },
+            {
+                  "name": "Libertus",
+                  "text": "Ein kleiner Leuchtturm im Schärengarten von Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.176414,
+                        59.332282
+                  ]
+            },
+            {
+                  "name": "Prins Eugens Waldemarsudde",
+                  "text": "Ein renommiertes Kunstmuseum in Nacka, das ehemalige Wohnhaus von Prinz Eugen.",
+                  "category": "museum",
+                  "coords": [
+                        18.114554,
+                        59.320222
+                  ]
+            },
+            {
+                  "name": "Thielska galleriet",
+                  "text": "Eine Kunstgalerie in Nacka, bekannt für ihre Sammlung nordischer Kunst der Jahrhundertwende.",
+                  "category": "museum",
+                  "coords": [
+                        18.148629,
+                        59.322297
+                  ]
+            },
+            {
+                  "name": "Svindersvik",
+                  "text": "Ein gut erhaltenes Rokoko-Sommerhaus und Schlösschen in Nacka.",
+                  "category": "castle",
+                  "coords": [
+                        18.130502,
+                        59.310216
+                  ]
+            },
+            {
+                  "name": "Ryssbergens naturreservat",
+                  "text": "Ein Naturschutzgebiet in Nacka mit Wanderwegen durch unberührte Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        18.14686,
+                        59.313152
+                  ]
+            },
+            {
+                  "name": "Dieselverkstaden",
+                  "text": "Ein Kulturzentrum in Nacka, das Theateraufführungen und Veranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.120744,
+                        59.305493
+                  ]
+            },
+            {
+                  "name": "AGA-fyren",
+                  "text": "Ein Leuchtturm in der Gemeinde Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151491,
+                        59.303455
+                  ]
+            },
+            {
+                  "name": "Allmogebåtarna",
+                  "text": "Ein Museum für traditionelle Boote in Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.176523,
+                        59.328755
+                  ]
+            },
+            {
+                  "name": "Saltsjön",
+                  "text": "Eine Bucht der Ostsee im Gebiet von Nacka und Stockholm.",
+                  "category": "landmark",
+                  "coords": [
+                        18.128893,
+                        59.319794
+                  ]
+            },
+            {
+                  "name": "Frihetens Port",
+                  "text": "Ein Denkmal in Nacka, das estnischen Flüchtlingen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        18.133498,
+                        59.322052
+                  ]
+            },
+            {
+                  "name": "Finnberget",
+                  "text": "Ein Hügel und Wohngebiet in der Gemeinde Nacka.",
+                  "category": "natural",
+                  "coords": [
+                        18.126899,
+                        59.31404
+                  ]
+            },
+            {
+                  "name": "Waldemarsuddes oljekvarn",
+                  "text": "Eine historische Ölmühle und Windmühle bei Waldemarsudde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.116126,
+                        59.320103
+                  ]
+            },
+            {
+                  "name": "Värn",
+                  "text": "Historische Ruinen in der Gemeinde Nacka.",
+                  "category": "historical",
+                  "coords": [
+                        18.182399,
+                        59.302906
+                  ]
+            },
+            {
+                  "name": "Björkhagendammen",
+                  "text": "Ein lokaler Teich und eine Sehenswürdigkeit in Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.123417,
+                        59.293197
+                  ]
+            },
+            {
+                  "name": "Ground",
+                  "text": "Eine Kunstgalerie in der Gemeinde Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.108946,
+                        59.306018
+                  ]
+            },
+            {
+                  "name": "Nacka kyrka",
+                  "text": "Die Hauptkirche der Kirchengemeinde Nacka.",
+                  "category": "religious",
+                  "coords": [
+                        18.142914,
+                        59.307266
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken ist ein friedlicher See in Nacka, ideal für Beobachtungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Swan Pond ist ein charmanter See in Nacka, der eine ruhige Atmosphäre für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Abborrträsk",
+                  "text": "Abborrträsk ist ein ruhiger See in Nacka, perfekt für eine kurze Auszeit im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        18.288187,
+                        59.331176
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön ist ein friedlicher See in Nacka, der zu gemütlichen Wanderungen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Glasbrukssjön ist ein klarer See in Nacka, ideal für Erholung und Freizeitaktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten ist ein beliebter See in Nacka, der eine angenehme Umgebung für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Sågsjön ist ein malerischer See in Nacka, perfekt für Naturliebhaber und Ruhesuchende.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Bagarsjön",
+                  "text": "Bagarsjön ist ein ruhiger See in Nacka, ideal für einen entspannten Tag in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.262995,
+                        59.308837
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Breviksdammen ist ein kleiner, friedlicher See in Nacka, der zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Kocktorpssjön ist ein schöner See in Nacka, umgeben von einer ruhigen Waldlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Tollareträsk ist ein naturbelassener See in Nacka, ideal für ruhige Erkundungen.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Sarvträsk ist ein malerischer See in Nacka, der sich perfekt für einen Spaziergang im Freien eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Övre Glasbrukssjön ist ein ruhiger See in Nacka, ideal für Erholungssuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Svartpotten ist ein kleiner, idyllischer See in Nacka, perfekt für einen Moment der Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "Knipträsket ist ein friedlicher See in Nacka, ideal für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "Skinnmossen ist ein ruhiger See in Nacka, umgeben von einer entspannten Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Näckdjupet ist ein malerischer See in Nacka, der Ruhe und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Krokträsken ist ein friedlicher See in Nacka, ideal für ruhige Momente in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "Sandasjön ist ein attraktiver See in Nacka, perfekt für Freizeitaktivitäten am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön ist ein ruhiger See in Nacka, der sich gut für entspannte Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "Strålsjön ist ein klarer See in Nacka, ideal für eine Pause in einer friedlichen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön ist ein schöner See in Nacka, perfekt für Naturerlebnisse mit der Familie.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken ist ein ruhiger See in Nacka, der zu entspannten Stunden am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön ist ein malerischer See in Nacka, ideal für einen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "L&L Natural wellness",
+                  "text": "Ein Wellnesscenter in Nacka, das verschiedene Spa-Behandlungen zur Entspannung und Gesundheit anbietet.",
+                  "category": "family",
+                  "coords": [
+                        18.090859,
+                        59.303595
+                  ]
+            },
+            {
+                  "name": "Tidaholmsparkens plaskdamm",
+                  "text": "Ein kinderfreundliches Planschbecken in Nacka, das sich für Sommerspaß im Tidaholmsparken befindet.",
+                  "category": "family",
+                  "coords": [
+                        18.100131,
+                        59.294383
+                  ]
+            },
+            {
+                  "name": "Gröna Lund",
+                  "text": "Ein weltberühmter Vergnügungspark im Raum Stockholm mit Fahrgeschäften und Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        18.096407,
+                        59.323308
+                  ]
+            },
+            {
+                  "name": "Plaskdamm",
+                  "text": "Ein einfaches Planschbecken in Nacka, das Kindern einen sicheren Ort zum Abkühlen bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.116931,
+                        59.285652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sickla strand",
+                  "text": "Röviddel Stockholm kapui előtt ez a nyugodt nackai strand csodálatos lehetőséget kínál a hűsölésre a kristálytiszta vízben. A jellegzetes svéd természeti környezettel körülvett fürdőzők itt nyugodt kikapcsolódást találhatnak a városi élet elől. A part piknikezésre hívogat, miközben a víz felszínén tükröződő fényjátékokat csodálhatja. Nyáron a víz gyakran meglepően gyorsan felmelegszik és kellemes hőmérsékletű lesz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.12469,
+                        59.301911
+                  ]
+            },
+            {
+                  "name": "Bastusjöbadet",
+                  "text": "Fürdőhely a Bastusjön tónál, Nackában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.20695,
+                        59.317307
+                  ]
+            },
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Fürdőhely a Långsjön tónál, Nackában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.188795,
+                        59.307733
+                  ]
+            },
+            {
+                  "name": "Blockhusudden",
+                  "text": "Jellegzetes világítótorony Nacka partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.154908,
+                        59.320767
+                  ]
+            },
+            {
+                  "name": "Libertus",
+                  "text": "Kisméretű világítótorony Nacka szigetvilágában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.176414,
+                        59.332282
+                  ]
+            },
+            {
+                  "name": "Prins Eugens Waldemarsudde",
+                  "text": "Híres művészeti múzeum Nackában, Jenő herceg egykori otthona.",
+                  "category": "museum",
+                  "coords": [
+                        18.114554,
+                        59.320222
+                  ]
+            },
+            {
+                  "name": "Thielska galleriet",
+                  "text": "Művészeti galéria Nackában, amely századfordulós északi művészeti gyűjteményéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        18.148629,
+                        59.322297
+                  ]
+            },
+            {
+                  "name": "Svindersvik",
+                  "text": "Jó állapotban fennmaradt rokokó nyári lak és kastély Nackában.",
+                  "category": "castle",
+                  "coords": [
+                        18.130502,
+                        59.310216
+                  ]
+            },
+            {
+                  "name": "Ryssbergens naturreservat",
+                  "text": "Természetvédelmi terület Nackában, érintetlen erdőkön átvezető túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        18.14686,
+                        59.313152
+                  ]
+            },
+            {
+                  "name": "Dieselverkstaden",
+                  "text": "Kulturális központ Nackában, amely színházi előadásoknak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.120744,
+                        59.305493
+                  ]
+            },
+            {
+                  "name": "AGA-fyren",
+                  "text": "Egy világítótorony Nacka községben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151491,
+                        59.303455
+                  ]
+            },
+            {
+                  "name": "Allmogebåtarna",
+                  "text": "Hagyományos hajókat bemutató múzeum Nackában.",
+                  "category": "museum",
+                  "coords": [
+                        18.176523,
+                        59.328755
+                  ]
+            },
+            {
+                  "name": "Saltsjön",
+                  "text": "A Balti-tenger egyik öble Nacka és Stockholm térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.128893,
+                        59.319794
+                  ]
+            },
+            {
+                  "name": "Frihetens Port",
+                  "text": "Észt menekülteknek szentelt emlékmű Nackában.",
+                  "category": "historical",
+                  "coords": [
+                        18.133498,
+                        59.322052
+                  ]
+            },
+            {
+                  "name": "Finnberget",
+                  "text": "Domb és lakónegyed Nacka községben.",
+                  "category": "natural",
+                  "coords": [
+                        18.126899,
+                        59.31404
+                  ]
+            },
+            {
+                  "name": "Waldemarsuddes oljekvarn",
+                  "text": "Történelmi olajmalom és szélmalom Waldemarsuddénál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.116126,
+                        59.320103
+                  ]
+            },
+            {
+                  "name": "Värn",
+                  "text": "Történelmi romok Nacka községben.",
+                  "category": "historical",
+                  "coords": [
+                        18.182399,
+                        59.302906
+                  ]
+            },
+            {
+                  "name": "Björkhagendammen",
+                  "text": "Helyi tó és látnivaló Nackában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.123417,
+                        59.293197
+                  ]
+            },
+            {
+                  "name": "Ground",
+                  "text": "Művészeti galéria Nacka községben.",
+                  "category": "museum",
+                  "coords": [
+                        18.108946,
+                        59.306018
+                  ]
+            },
+            {
+                  "name": "Nacka kyrka",
+                  "text": "Nacka egyházközségének főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        18.142914,
+                        59.307266
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "A Laduviken egy békés tó Nacka területén, amely ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "A Swan Pond egy bájos tó Nacka területén, amely nyugodt légkört biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Abborrträsk",
+                  "text": "Az Abborrträsk egy csendes tó Nacka területén, amely tökéletes egy rövid pihenőhöz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        18.288187,
+                        59.331176
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Az Ulvsjön egy békés tó Nacka területén, amely kellemes túrákra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "A Glasbrukssjön egy tiszta tó Nacka területén, amely ideális kikapcsolódáshoz és szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "A Trekanten egy népszerű tó Nacka területén, amely kellemes környezetet biztosít a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "A Sågsjön egy festői tó Nacka területén, amely tökéletes a természet kedvelőinek és a nyugalomra vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Bagarsjön",
+                  "text": "A Bagarsjön egy csendes tó Nacka területén, amely ideális egy pihentető naphoz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.262995,
+                        59.308837
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "A Breviksdammen egy kis, békés tó Nacka területén, amely pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "A Kocktorpssjön egy szép tó Nacka területén, amelyet csendes erdei táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "A Tollareträsk egy természetközeli tó Nacka területén, amely ideális a csendes felfedezéshez.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "A Sarvträsk egy festői tó Nacka területén, amely tökéletes egy szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Az Övre Glasbrukssjön egy csendes tó Nacka területén, amely ideális a természetben pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "A Svartpotten egy kis, idilli tó Nacka területén, amely tökéletes egy pillanatnyi nyugalomhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "A Knipträsket egy békés tó Nacka területén, amely ideális a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "A Skinnmossen egy csendes tó Nacka területén, nyugodt környezettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "A Näckdjupet egy festői tó Nacka területén, amely békét és kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "A Krokträsken egy békés tó Nacka területén, amely ideális a természetben töltött csendes pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "A Sandasjön egy vonzó tó Nacka területén, amely tökéletes a vízparti szabadidős tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "A Bastusjön egy csendes tó Nacka területén, amely alkalmas pihentető sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "A Strålsjön egy tiszta tó Nacka területén, amely ideális egy pihenőhöz egy békés tájon.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "A Söderbysjön egy szép tó Nacka területén, amely tökéletes családi természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "A Husarviken egy csendes tó Nacka területén, amely pihentető órákra hív a víznél.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Az Ekholmsnässjön egy festői tó Nacka területén, amely ideális egy kiránduláshoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "L&L Natural wellness",
+                  "text": "Nackai wellnessközpont, amely különféle gyógykezeléseket kínál a pihenéshez és az egészségmegőrzéshez.",
+                  "category": "family",
+                  "coords": [
+                        18.090859,
+                        59.303595
+                  ]
+            },
+            {
+                  "name": "Tidaholmsparkens plaskdamm",
+                  "text": "Gyermekbarát nackai pancsolómedence a Tidaholmsparken területén a nyári szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.100131,
+                        59.294383
+                  ]
+            },
+            {
+                  "name": "Gröna Lund",
+                  "text": "Világhírű vidámpark Stockholm környékén, amely játékokat és szórakozást kínál minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        18.096407,
+                        59.323308
+                  ]
+            },
+            {
+                  "name": "Plaskdamm",
+                  "text": "Egyszerű nackai pancsolómedence, amely biztonságos helyet nyújt a gyermekeknek a hűsölésre.",
+                  "category": "family",
+                  "coords": [
+                        18.116931,
+                        59.285652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sickla strand",
+                  "text": "Chiar la porțile orașului Stockholm, această plajă liniștită din Nacka oferă o oportunitate minunată de a vă răcori în apa limpede. Înconjurați de un fundal natural tipic suedez, înotătorii găsesc aici o alternativă pașnică la viața urbană. Malul te invită să te așezi confortabil cu un picnic și să privești reflexiile de pe suprafața apei. Vara, apa capătă adesea o temperatură plăcută surprinzător de repede.",
+                  "category": "recreational",
+                  "coords": [
+                        18.12469,
+                        59.301911
+                  ]
+            },
+            {
+                  "name": "Bastusjöbadet",
+                  "text": "Loc de îmbăiere la lacul Bastusjön în Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.20695,
+                        59.317307
+                  ]
+            },
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Loc de îmbăiere la lacul Långsjön în Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.188795,
+                        59.307733
+                  ]
+            },
+            {
+                  "name": "Blockhusudden",
+                  "text": "Un far distinctiv pe coasta localității Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.154908,
+                        59.320767
+                  ]
+            },
+            {
+                  "name": "Libertus",
+                  "text": "Un mic far în arhipelagul localității Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.176414,
+                        59.332282
+                  ]
+            },
+            {
+                  "name": "Prins Eugens Waldemarsudde",
+                  "text": "Un renumit muzeu de artă în Nacka, fosta reședință a Prințului Eugen.",
+                  "category": "museum",
+                  "coords": [
+                        18.114554,
+                        59.320222
+                  ]
+            },
+            {
+                  "name": "Thielska galleriet",
+                  "text": "O galerie de artă în Nacka, cunoscută pentru colecția sa de artă nordică de la începutul secolului.",
+                  "category": "museum",
+                  "coords": [
+                        18.148629,
+                        59.322297
+                  ]
+            },
+            {
+                  "name": "Svindersvik",
+                  "text": "O casă de vară în stil rococo și un mic castel bine conservat în Nacka.",
+                  "category": "castle",
+                  "coords": [
+                        18.130502,
+                        59.310216
+                  ]
+            },
+            {
+                  "name": "Ryssbergens naturreservat",
+                  "text": "O rezervație naturală în Nacka, cu trasee de drumeție prin păduri virgine.",
+                  "category": "natural",
+                  "coords": [
+                        18.14686,
+                        59.313152
+                  ]
+            },
+            {
+                  "name": "Dieselverkstaden",
+                  "text": "Un centru cultural în Nacka, care găzduiește spectacole de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        18.120744,
+                        59.305493
+                  ]
+            },
+            {
+                  "name": "AGA-fyren",
+                  "text": "Un far în comuna Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151491,
+                        59.303455
+                  ]
+            },
+            {
+                  "name": "Allmogebåtarna",
+                  "text": "Un muzeu dedicat ambarcațiunilor tradiționale în Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.176523,
+                        59.328755
+                  ]
+            },
+            {
+                  "name": "Saltsjön",
+                  "text": "Un golf la Marea Baltică în zona Nacka și Stockholm.",
+                  "category": "landmark",
+                  "coords": [
+                        18.128893,
+                        59.319794
+                  ]
+            },
+            {
+                  "name": "Frihetens Port",
+                  "text": "Un monument în Nacka dedicat refugiaților estonieni.",
+                  "category": "historical",
+                  "coords": [
+                        18.133498,
+                        59.322052
+                  ]
+            },
+            {
+                  "name": "Finnberget",
+                  "text": "Un deal și zonă rezidențială în comuna Nacka.",
+                  "category": "natural",
+                  "coords": [
+                        18.126899,
+                        59.31404
+                  ]
+            },
+            {
+                  "name": "Waldemarsuddes oljekvarn",
+                  "text": "O moară de ulei și moară de vânt istorică la Waldemarsudde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.116126,
+                        59.320103
+                  ]
+            },
+            {
+                  "name": "Värn",
+                  "text": "Ruine istorice în comuna Nacka.",
+                  "category": "historical",
+                  "coords": [
+                        18.182399,
+                        59.302906
+                  ]
+            },
+            {
+                  "name": "Björkhagendammen",
+                  "text": "Un iaz local și punct de atracție în Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.123417,
+                        59.293197
+                  ]
+            },
+            {
+                  "name": "Ground",
+                  "text": "O galerie de artă în comuna Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.108946,
+                        59.306018
+                  ]
+            },
+            {
+                  "name": "Nacka kyrka",
+                  "text": "Biserica principală a parohiei Nacka.",
+                  "category": "religious",
+                  "coords": [
+                        18.142914,
+                        59.307266
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken este un lac pașnic din Nacka, ideal pentru observații în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Svandammen",
+                  "text": "Swan Pond este un lac fermecător din Nacka, oferind o atmosferă liniștită pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Abborrträsk",
+                  "text": "Abborrträsk este un lac liniștit din Nacka, perfect pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.288187,
+                        59.331176
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön este un lac pașnic din Nacka, care invită la drumeții plăcute în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Glasbrukssjön este un lac limpede din Nacka, ideal pentru relaxare și activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten este un lac popular din Nacka, oferind un mediu plăcut pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Sågsjön este un lac pitoresc din Nacka, perfect pentru iubitorii de natură și cei care caută liniște.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Bagarsjön",
+                  "text": "Bagarsjön este un lac liniștit din Nacka, ideal pentru o zi relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.262995,
+                        59.308837
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Breviksdammen este un lac mic și pașnic din Nacka, care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Kocktorpssjön este un lac frumos din Nacka, înconjurat de un peisaj forestier liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Tollareträsk este un lac natural din Nacka, ideal pentru explorări liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Sarvträsk este un lac pitoresc din Nacka, perfect pentru o plimbare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Övre Glasbrukssjön este un lac liniștit din Nacka, ideal pentru cei care caută relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Svartpotten este un lac mic și idilic din Nacka, perfect pentru un moment de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "Knipträsket este un lac pașnic din Nacka, ideal pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "Skinnmossen este un lac liniștit din Nacka, înconjurat de un mediu relaxant.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Näckdjupet este un lac pitoresc din Nacka, oferind liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Krokträsken este un lac pașnic din Nacka, ideal pentru momente liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "Sandasjön este un lac atractiv din Nacka, perfect pentru activități de agrement pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön este un lac liniștit din Nacka, potrivit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "Strålsjön este un lac limpede din Nacka, ideal pentru o pauză într-un peisaj pașnic.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön este un lac frumos din Nacka, perfect pentru experiențe în natură cu familia.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken este un lac liniștit din Nacka, invitând la ore relaxante lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön este un lac pitoresc din Nacka, ideal pentru o excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "L&L Natural wellness",
+                  "text": "Un centru de wellness în Nacka, care oferă diverse tratamente spa pentru relaxare și sănătate.",
+                  "category": "family",
+                  "coords": [
+                        18.090859,
+                        59.303595
+                  ]
+            },
+            {
+                  "name": "Tidaholmsparkens plaskdamm",
+                  "text": "O piscină pentru copii în Nacka, situată în Tidaholmsparken pentru distracție pe timp de vară.",
+                  "category": "family",
+                  "coords": [
+                        18.100131,
+                        59.294383
+                  ]
+            },
+            {
+                  "name": "Gröna Lund",
+                  "text": "Un parc de distracții renumit în zona Stockholm, care oferă atracții și divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        18.096407,
+                        59.323308
+                  ]
+            },
+            {
+                  "name": "Plaskdamm",
+                  "text": "O piscină simplă pentru copii în Nacka, care oferă un loc sigur pentru ca aceștia să se răcorească.",
+                  "category": "family",
+                  "coords": [
+                        18.116931,
+                        59.285652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sickla strand",
+                  "text": "Just outside the gates of Stockholm, this tranquil beach in Nacka offers a wonderful opportunity to cool off in the clear water. Surrounded by a typically Swedish natural backdrop, bathers easily find a peaceful counterpoint to busy urban life here. The shore strongly invites you to get comfortable with a picnic and watch the shifting reflections on the water's surface. During the summer, the water often reaches a remarkably pleasant temperature quite quickly.",
+                  "category": "recreational",
+                  "coords": [
+                        18.12469,
+                        59.301911
+                  ]
+            },
+            {
+                  "name": "Bastusjöbadet",
+                  "text": "Bathing spot at Lake Bastusjön in Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.20695,
+                        59.317307
+                  ]
+            },
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Bathing spot at Lake Långsjön in Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.188795,
+                        59.307733
+                  ]
+            },
+            {
+                  "name": "Blockhusudden",
+                  "text": "A prominent lighthouse on the coast of Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.154908,
+                        59.320767
+                  ]
+            },
+            {
+                  "name": "Libertus",
+                  "text": "A small lighthouse in the Nacka archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        18.176414,
+                        59.332282
+                  ]
+            },
+            {
+                  "name": "Prins Eugens Waldemarsudde",
+                  "text": "A renowned art museum in Nacka, the former home of Prince Eugen.",
+                  "category": "museum",
+                  "coords": [
+                        18.114554,
+                        59.320222
+                  ]
+            },
+            {
+                  "name": "Thielska galleriet",
+                  "text": "An art gallery in Nacka, known for its collection of Nordic art from the turn of the century.",
+                  "category": "museum",
+                  "coords": [
+                        18.148629,
+                        59.322297
+                  ]
+            },
+            {
+                  "name": "Svindersvik",
+                  "text": "A well-preserved rococo summer house and small castle in Nacka.",
+                  "category": "castle",
+                  "coords": [
+                        18.130502,
+                        59.310216
+                  ]
+            },
+            {
+                  "name": "Ryssbergens naturreservat",
+                  "text": "A nature reserve in Nacka with hiking trails through untouched forests.",
+                  "category": "natural",
+                  "coords": [
+                        18.14686,
+                        59.313152
+                  ]
+            },
+            {
+                  "name": "Dieselverkstaden",
+                  "text": "A cultural centre in Nacka hosting theatre performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        18.120744,
+                        59.305493
+                  ]
+            },
+            {
+                  "name": "AGA-fyren",
+                  "text": "A lighthouse located in the Nacka municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151491,
+                        59.303455
+                  ]
+            },
+            {
+                  "name": "Allmogebåtarna",
+                  "text": "A museum dedicated to traditional boats in Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.176523,
+                        59.328755
+                  ]
+            },
+            {
+                  "name": "Saltsjön",
+                  "text": "A bay of the Baltic Sea in the Nacka and Stockholm area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.128893,
+                        59.319794
+                  ]
+            },
+            {
+                  "name": "The Freedom Gate",
+                  "text": "A monument in Nacka dedicated to Estonian refugees.",
+                  "category": "historical",
+                  "coords": [
+                        18.133498,
+                        59.322052
+                  ]
+            },
+            {
+                  "name": "Finnberget",
+                  "text": "A hill and residential area in the Nacka municipality.",
+                  "category": "natural",
+                  "coords": [
+                        18.126899,
+                        59.31404
+                  ]
+            },
+            {
+                  "name": "Waldemarsuddes oljekvarn",
+                  "text": "A historic oil mill and windmill at Waldemarsudde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.116126,
+                        59.320103
+                  ]
+            },
+            {
+                  "name": "Värn",
+                  "text": "Historic ruins located in the Nacka municipality.",
+                  "category": "historical",
+                  "coords": [
+                        18.182399,
+                        59.302906
+                  ]
+            },
+            {
+                  "name": "Björkhagendammen",
+                  "text": "A local pond and attraction in Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.123417,
+                        59.293197
+                  ]
+            },
+            {
+                  "name": "Ground",
+                  "text": "An art gallery in the Nacka municipality.",
+                  "category": "museum",
+                  "coords": [
+                        18.108946,
+                        59.306018
+                  ]
+            },
+            {
+                  "name": "Nacka kyrka",
+                  "text": "The main church of the Nacka parish.",
+                  "category": "religious",
+                  "coords": [
+                        18.142914,
+                        59.307266
+                  ]
+            },
+            {
+                  "name": "Laduviken",
+                  "text": "Laduviken is a peaceful lake in Nacka, ideal for nature observations.",
+                  "category": "natural",
+                  "coords": [
+                        18.075848,
+                        59.3608
+                  ]
+            },
+            {
+                  "name": "Swan Pond",
+                  "text": "Swan Pond is a charming lake in Nacka, providing a calm atmosphere for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.104536,
+                        59.326962
+                  ]
+            },
+            {
+                  "name": "Abborrträsk",
+                  "text": "Abborrträsk is a quiet lake in Nacka, perfect for a short break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.288187,
+                        59.331176
+                  ]
+            },
+            {
+                  "name": "Ulvsjön",
+                  "text": "Ulvsjön is a peaceful lake in Nacka, inviting pleasant hikes in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.163939,
+                        59.277158
+                  ]
+            },
+            {
+                  "name": "Glasbrukssjön",
+                  "text": "Glasbrukssjön is a clear lake in Nacka, ideal for relaxation and outdoor leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        18.229677,
+                        59.325957
+                  ]
+            },
+            {
+                  "name": "Trekanten",
+                  "text": "Trekanten is a popular lake in Nacka, providing a pleasant environment for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.015128,
+                        59.311935
+                  ]
+            },
+            {
+                  "name": "Sågsjön",
+                  "text": "Sågsjön is a scenic lake in Nacka, perfect for nature lovers and those seeking peace.",
+                  "category": "natural",
+                  "coords": [
+                        18.286565,
+                        59.340742
+                  ]
+            },
+            {
+                  "name": "Bagarsjön",
+                  "text": "Bagarsjön is a quiet lake in Nacka, ideal for a relaxed day in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.262995,
+                        59.308837
+                  ]
+            },
+            {
+                  "name": "Breviksdammen",
+                  "text": "Breviksdammen is a small, peaceful lake in Nacka, inviting visitors to linger.",
+                  "category": "natural",
+                  "coords": [
+                        18.209107,
+                        59.343613
+                  ]
+            },
+            {
+                  "name": "Kocktorpssjön",
+                  "text": "Kocktorpssjön is a beautiful lake in Nacka, surrounded by a quiet forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.250638,
+                        59.314128
+                  ]
+            },
+            {
+                  "name": "Tollareträsk",
+                  "text": "Tollareträsk is a natural lake in Nacka, ideal for quiet exploration.",
+                  "category": "natural",
+                  "coords": [
+                        18.244958,
+                        59.306552
+                  ]
+            },
+            {
+                  "name": "Sarvträsk",
+                  "text": "Sarvträsk is a scenic lake in Nacka, perfect for an outdoor stroll.",
+                  "category": "natural",
+                  "coords": [
+                        18.261991,
+                        59.329585
+                  ]
+            },
+            {
+                  "name": "Övre Glasbrukssjön",
+                  "text": "Övre Glasbrukssjön is a quiet lake in Nacka, ideal for those seeking relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.22734,
+                        59.329831
+                  ]
+            },
+            {
+                  "name": "Svartpotten",
+                  "text": "Svartpotten is a small, idyllic lake in Nacka, perfect for a moment of quiet.",
+                  "category": "natural",
+                  "coords": [
+                        18.236676,
+                        59.32906
+                  ]
+            },
+            {
+                  "name": "Knipträsket",
+                  "text": "Knipträsket is a peaceful lake in Nacka, ideal for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        18.228023,
+                        59.279144
+                  ]
+            },
+            {
+                  "name": "Skinnmossen",
+                  "text": "Skinnmossen is a quiet lake in Nacka, surrounded by a relaxed environment.",
+                  "category": "natural",
+                  "coords": [
+                        18.245444,
+                        59.282227
+                  ]
+            },
+            {
+                  "name": "Näckdjupet",
+                  "text": "Näckdjupet is a scenic lake in Nacka, providing peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.273444,
+                        59.348082
+                  ]
+            },
+            {
+                  "name": "Krokträsken",
+                  "text": "Krokträsken is a peaceful lake in Nacka, ideal for quiet moments in nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.239433,
+                        59.336326
+                  ]
+            },
+            {
+                  "name": "Sandasjön",
+                  "text": "Sandasjön is an attractive lake in Nacka, perfect for leisure activities by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.19195,
+                        59.27599
+                  ]
+            },
+            {
+                  "name": "Bastusjön",
+                  "text": "Bastusjön is a quiet lake in Nacka, well-suited for relaxed walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.209083,
+                        59.317061
+                  ]
+            },
+            {
+                  "name": "Strålsjön",
+                  "text": "Strålsjön is a clear lake in Nacka, ideal for a break in a peaceful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.197077,
+                        59.26705
+                  ]
+            },
+            {
+                  "name": "Söderbysjön",
+                  "text": "Söderbysjön is a beautiful lake in Nacka, perfect for nature experiences with the family.",
+                  "category": "natural",
+                  "coords": [
+                        18.149375,
+                        59.282706
+                  ]
+            },
+            {
+                  "name": "Husarviken",
+                  "text": "Husarviken is a quiet lake in Nacka, inviting relaxed hours by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.091428,
+                        59.359442
+                  ]
+            },
+            {
+                  "name": "Ekholmsnässjön",
+                  "text": "Ekholmsnässjön is a scenic lake in Nacka, ideal for a trip into nature.",
+                  "category": "natural",
+                  "coords": [
+                        18.199703,
+                        59.361356
+                  ]
+            },
+            {
+                  "name": "L&L Natural wellness",
+                  "text": "A wellness center in Nacka offering various spa treatments for relaxation and health.",
+                  "category": "family",
+                  "coords": [
+                        18.090859,
+                        59.303595
+                  ]
+            },
+            {
+                  "name": "Tidaholmsparkens plaskdamm",
+                  "text": "A child-friendly paddling pool in Nacka located within Tidaholmsparken for summer fun.",
+                  "category": "family",
+                  "coords": [
+                        18.100131,
+                        59.294383
+                  ]
+            },
+            {
+                  "name": "Gröna Lund",
+                  "text": "A world-famous amusement park in the Stockholm area offering rides and entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        18.096407,
+                        59.323308
+                  ]
+            },
+            {
+                  "name": "Plaskdamm",
+                  "text": "A simple paddling pool in Nacka providing a safe place for children to cool off.",
+                  "category": "family",
+                  "coords": [
+                        18.116931,
+                        59.285652
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Nacka", hu: "Nacka", ro: "Nacka", en: "Nacka" },
@@ -40291,7 +46078,1132 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-vallentuna-cities-v2.webp",
   },
   {
-    id: "sweden-upplands-vasby-cities-v2", "sights": {"de": [{"name": "Trollholmen", "text": "Strand in der Nähe von Upplands Väsby.", "category": "recreational", "coords": [17.928465, 59.479985]}, {"name": "Bollstanäs strand", "text": "In der ruhigen Umgebung von Upplands Väsby lockt dieser beschauliche Badestrand an warmen Tagen Besucher ans Wasser. Der gepflegte Bereich bietet sowohl Platz für entspanntes Sonnenbaden als auch für den Sprung ins erfrischende Nass. Es ist ein beliebter Treffpunkt für Familien und Naturfreunde aus der Region. Wer dem nachmittäglichen Trubel entgehen möchte, sollte seinen Besuch für die frühen Vormittagsstunden planen.", "category": "recreational", "coords": [17.96334, 59.499654]}, {"name": "Vikingagården Gunnes gård", "text": "Ein rekonstruierter Wikingerbauernhof, der das Leben in der Eisenzeit veranschaulicht.", "category": "museum", "coords": [17.906797, 59.508401]}, {"name": "Stora Väsby slott", "text": "Ein barockes Herrenhaus in Upplands Väsby, bekannt für seine Gartenarchitektur.", "category": "castle", "coords": [17.905555, 59.532364]}, {"name": "Edsby slott", "text": "Ein Schlossgebäude in Upplands Väsby mit historischer Bedeutung.", "category": "castle", "coords": [17.868444, 59.511208]}, {"name": "Vikingagrav", "text": "Eine antike Grabstätte der Wikingerzeit in der Region Upplands Väsby.", "category": "historical", "coords": [17.906219, 59.507312]}, {"name": "Zamores kulle", "text": "Ein archäologischer Fundplatz in Upplands Väsby mit antiken Überresten.", "category": "historical", "coords": [17.893897, 59.517331]}, {"name": "Gravfält", "text": "Ein historisches Gräberfeld mit Überresten aus vergangenen Epochen.", "category": "historical", "coords": [17.941928, 59.528917]}, {"name": "Vilunda ättehage", "text": "Eine archäologische Stätte in Upplands Väsby mit historischen Grabhügeln.", "category": "historical", "coords": [17.905336, 59.51398]}, {"name": "Graves", "text": "Eine Ansammlung historischer Gräber in der Nähe von Upplands Väsby.", "category": "historical", "coords": [17.932412, 59.50813]}, {"name": "Kulturhuset Messingen", "text": "Ein Kulturzentrum in Upplands Väsby, das Theater und Konzerte veranstaltet.", "category": "cultural", "coords": [17.901865, 59.521121]}, {"name": "Väsby konsthall", "text": "Eine Kunstgalerie, die zeitgenössische Werke in Upplands Väsby ausstellt.", "category": "museum", "coords": [17.914707, 59.525746]}, {"name": "Eds kyrka", "text": "Eine mittelalterliche Steinkirche in Upplands Väsby mit historischen Wandmalereien.", "category": "religious", "coords": [17.868357, 59.507878]}, {"name": "Hammarby kyrka", "text": "Diese historische Kirche in Upplands Väsby stammt ursprünglich aus dem 12. Jahrhundert.", "category": "religious", "coords": [17.923425, 59.537437]}, {"name": "Vilunda kyrka", "text": "Ein modernes Kirchengebäude im Stadtteil Vilunda von Upplands Väsby.", "category": "religious", "coords": [17.91195, 59.519571]}, {"name": "Väsjön", "text": "Der Väsjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [17.973108, 59.456973]}, {"name": "Fjäturen", "text": "Der Fjäturen-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [17.992769, 59.461415]}, {"name": "Lillsjön", "text": "Der Lillsjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [17.79193, 59.52286]}, {"name": "Snuggan", "text": "Der Snuggan-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [17.96327, 59.461892]}, {"name": "Kvarnsjön", "text": "Der Kvarnsjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [17.983749, 59.485736]}, {"name": "Oxundasjön", "text": "Der Oxundasjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [17.864307, 59.549138]}, {"name": "Översjön", "text": "Der Översjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [17.844999, 59.455853]}, {"name": "Fysingen", "text": "Der Fysingen-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.", "category": "natural", "coords": [17.925341, 59.561155]}, {"name": "Vallentunasjön", "text": "Der Vallentunasjön ist ein See in Upplands Väsby, der sich gut für Spaziergänge in der Natur eignet.", "category": "natural", "coords": [18.0424, 59.505976]}, {"name": "Mälarsee", "text": "Mälaren ist ein bedeutender See bei Upplands Väsby, der vielfältige Möglichkeiten zur Erholung am Wasser bietet.", "category": "natural", "coords": [17.039325, 59.494738]}, {"name": "Ravalen", "text": "Der See Ravalen in Upplands Väsby bietet eine ruhige Umgebung für entspannte Spaziergänge.", "category": "natural", "coords": [17.908302, 59.45009]}, {"name": "Norrviken", "text": "Norrviken ist ein See in Upplands Väsby, der für seine schöne Landschaft und Freizeitmöglichkeiten bekannt ist.", "category": "natural", "coords": [17.945221, 59.474799]}, {"name": "Edssjön", "text": "Der Edssjön in Upplands Väsby ist ein lokaler See, der zu Aktivitäten im Freien einlädt.", "category": "natural", "coords": [17.876828, 59.500683]}, {"name": "Barnens Wäsby Verkstäder", "text": "Barnens Wäsby Verkstäder ist ein familienfreundlicher Spielplatz in Upplands Väsby mit kreativen Spielbereichen.", "category": "family", "coords": [17.919698, 59.518371]}], "hu": [{"name": "Trollholmen", "text": "Part Upplands Väsby közelében.", "category": "recreational", "coords": [17.928465, 59.479985]}, {"name": "Bollstanäs strand", "text": "Upplands Väsby csendes környezetében ez a békés strand a meleg napokon a vízhez vonzza a látogatókat. A gondozott terület egyaránt kínál teret a nyugodt napozáshoz és a frissítő vízbe ugráshoz. A környékbeli családok és a természetbarátok kedvelt találkozóhelye. Aki szeretné elkerülni a délutáni nyüzsgést, annak érdemes a látogatást a kora délelőtti órákra időzítenie.", "category": "recreational", "coords": [17.96334, 59.499654]}, {"name": "Vikingagården Gunnes gård", "text": "Rekonstruált viking gazdaság, amely a vaskori életmódot mutatja be.", "category": "museum", "coords": [17.906797, 59.508401]}, {"name": "Stora Väsby slott", "text": "Barokk kastély Upplands Väsbyben, amely kertépítészetéről ismert.", "category": "castle", "coords": [17.905555, 59.532364]}, {"name": "Edsby slott", "text": "Kastélyépület Upplands Väsbyben, történelmi jelentőséggel.", "category": "castle", "coords": [17.868444, 59.511208]}, {"name": "Vikingagrav", "text": "Ősi viking kori sírhely Upplands Väsby régiójában.", "category": "historical", "coords": [17.906219, 59.507312]}, {"name": "Zamores kulle", "text": "Régészeti lelőhely Upplands Väsbyben, ókori maradványokkal.", "category": "historical", "coords": [17.893897, 59.517331]}, {"name": "Gravfält", "text": "Történelmi sírmező múltbéli korszakok maradványaival.", "category": "historical", "coords": [17.941928, 59.528917]}, {"name": "Vilunda ättehage", "text": "Régészeti lelőhely Upplands Väsbyben történelmi sírhalmokkal.", "category": "historical", "coords": [17.905336, 59.51398]}, {"name": "Graves", "text": "Történelmi sírok csoportja Upplands Väsby közelében.", "category": "historical", "coords": [17.932412, 59.50813]}, {"name": "Kulturhuset Messingen", "text": "Kulturális központ Upplands Väsbyben, amely színházi előadásoknak és koncerteknek ad otthont.", "category": "cultural", "coords": [17.901865, 59.521121]}, {"name": "Väsby konsthall", "text": "Kortárs műveket bemutató művészeti galéria Upplands Väsbyben.", "category": "museum", "coords": [17.914707, 59.525746]}, {"name": "Eds kyrka", "text": "Középkori kőtemplom Upplands Väsbyben, történelmi falfestményekkel.", "category": "religious", "coords": [17.868357, 59.507878]}, {"name": "Hammarby kyrka", "text": "Ez a történelmi templom Upplands Väsbyben eredetileg a 12. századból származik.", "category": "religious", "coords": [17.923425, 59.537437]}, {"name": "Vilunda kyrka", "text": "Modern templomépület Upplands Väsby Vilunda negyedében.", "category": "religious", "coords": [17.91195, 59.519571]}, {"name": "Väsjön", "text": "A Upplands Vaesby területén található Väsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [17.973108, 59.456973]}, {"name": "Fjäturen", "text": "A Upplands Vaesby területén található Fjäturen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [17.992769, 59.461415]}, {"name": "Lillsjön", "text": "A Upplands Vaesby területén található Lillsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [17.79193, 59.52286]}, {"name": "Snuggan", "text": "A Upplands Vaesby területén található Snuggan-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [17.96327, 59.461892]}, {"name": "Kvarnsjön", "text": "A Upplands Vaesby területén található Kvarnsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [17.983749, 59.485736]}, {"name": "Oxundasjön", "text": "A Upplands Vaesby területén található Oxundasjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [17.864307, 59.549138]}, {"name": "Översjön", "text": "A Upplands Vaesby területén található Översjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [17.844999, 59.455853]}, {"name": "Fysingen", "text": "A Upplands Vaesby területén található Fysingen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [17.925341, 59.561155]}, {"name": "Vallentunasjön", "text": "A Vallentunasjön egy tó Upplands Väsby területén, amely kiváló helyszín a természetjáráshoz.", "category": "natural", "coords": [18.0424, 59.505976]}, {"name": "Mälaren", "text": "A Mälaren egy jelentős tó Upplands Väsby közelében, amely változatos kikapcsolódási lehetőségeket kínál.", "category": "natural", "coords": [17.039325, 59.494738]}, {"name": "Ravalen", "text": "A Ravalen tó Upplands Väsby területén nyugodt környezetet biztosít a pihentető sétákhoz.", "category": "natural", "coords": [17.908302, 59.45009]}, {"name": "Norrviken", "text": "Norrviken egy tó Upplands Väsby területén, amely szép tájáról és szabadidős lehetőségeiről ismert.", "category": "natural", "coords": [17.945221, 59.474799]}, {"name": "Edssjön", "text": "Az Edssjön egy helyi tó Upplands Väsby területén, amely szabadtéri tevékenységekre invitál.", "category": "natural", "coords": [17.876828, 59.500683]}, {"name": "Barnens Wäsby Verkstäder", "text": "A Barnens Wäsby Verkstäder egy családbarát játszótér Upplands Väsby területén, kreatív játéklehetőségekkel.", "category": "family", "coords": [17.919698, 59.518371]}], "ro": [{"name": "Trollholmen", "text": "Plajă în apropiere de Upplands Väsby.", "category": "recreational", "coords": [17.928465, 59.479985]}, {"name": "Bollstanäs strand", "text": "În împrejurimile liniștite din Upplands Väsby, această plajă liniștită de scăldat atrage vizitatorii la apă în zilele calde. Zona bine întreținută oferă spațiu atât pentru plajă relaxantă, cât și pentru un salt în apa răcoritoare. Este un punct de întâlnire foarte popular pentru familiile și iubitorii de natură din regiune. Cei care doresc să evite agitația de după-amiază ar trebui să-și planifice vizita la primele ore ale dimineții.", "category": "recreational", "coords": [17.96334, 59.499654]}, {"name": "Vikingagården Gunnes gård", "text": "O fermă vikingă reconstruită care ilustrează viața în epoca fierului.", "category": "museum", "coords": [17.906797, 59.508401]}, {"name": "Stora Väsby slott", "text": "Un conac baroc în Upplands Väsby, cunoscut pentru arhitectura grădinilor sale.", "category": "castle", "coords": [17.905555, 59.532364]}, {"name": "Edsby slott", "text": "O clădire de castel în Upplands Väsby cu semnificație istorică.", "category": "castle", "coords": [17.868444, 59.511208]}, {"name": "Vikingagrav", "text": "Un mormânt antic din epoca vikingă în regiunea Upplands Väsby.", "category": "historical", "coords": [17.906219, 59.507312]}, {"name": "Zamores kulle", "text": "Un sit arheologic în Upplands Väsby cu vestigii antice.", "category": "historical", "coords": [17.893897, 59.517331]}, {"name": "Gravfält", "text": "Un câmp funerar istoric cu vestigii din epoci trecute.", "category": "historical", "coords": [17.941928, 59.528917]}, {"name": "Vilunda ättehage", "text": "Un sit arheologic în Upplands Väsby cu tumuli istorici.", "category": "historical", "coords": [17.905336, 59.51398]}, {"name": "Graves", "text": "Un grup de morminte istorice în apropiere de Upplands Väsby.", "category": "historical", "coords": [17.932412, 59.50813]}, {"name": "Kulturhuset Messingen", "text": "Un centru cultural în Upplands Väsby care găzduiește spectacole de teatru și concerte.", "category": "cultural", "coords": [17.901865, 59.521121]}, {"name": "Väsby konsthall", "text": "O galerie de artă care expune lucrări contemporane în Upplands Väsby.", "category": "museum", "coords": [17.914707, 59.525746]}, {"name": "Eds kyrka", "text": "O biserică medievală de piatră în Upplands Väsby, cu picturi murale istorice.", "category": "religious", "coords": [17.868357, 59.507878]}, {"name": "Hammarby kyrka", "text": "Această biserică istorică din Upplands Väsby datează inițial din secolul al XII-lea.", "category": "religious", "coords": [17.923425, 59.537437]}, {"name": "Vilunda kyrka", "text": "O clădire modernă de biserică în districtul Vilunda din Upplands Väsby.", "category": "religious", "coords": [17.91195, 59.519571]}, {"name": "Väsjön", "text": "Lacul Väsjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [17.973108, 59.456973]}, {"name": "Fjäturen", "text": "Lacul Fjäturen din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [17.992769, 59.461415]}, {"name": "Lillsjön", "text": "Lacul Lillsjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [17.79193, 59.52286]}, {"name": "Snuggan", "text": "Lacul Snuggan din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [17.96327, 59.461892]}, {"name": "Kvarnsjön", "text": "Lacul Kvarnsjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [17.983749, 59.485736]}, {"name": "Oxundasjön", "text": "Lacul Oxundasjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [17.864307, 59.549138]}, {"name": "Översjön", "text": "Lacul Översjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [17.844999, 59.455853]}, {"name": "Fysingen", "text": "Lacul Fysingen din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.", "category": "natural", "coords": [17.925341, 59.561155]}, {"name": "Vallentunasjön", "text": "Vallentunasjön este un lac în Upplands Väsby, ideal pentru plimbări în mijlocul naturii.", "category": "natural", "coords": [18.0424, 59.505976]}, {"name": "Mälaren", "text": "Mälaren este un lac important lângă Upplands Väsby, oferind numeroase oportunități de recreere.", "category": "natural", "coords": [17.039325, 59.494738]}, {"name": "Ravalen", "text": "Lacul Ravalen din Upplands Väsby oferă un cadru liniștit pentru plimbări relaxante.", "category": "natural", "coords": [17.908302, 59.45009]}, {"name": "Norrviken", "text": "Norrviken este un lac în Upplands Väsby, cunoscut pentru peisajele sale frumoase și posibilitățile de agrement.", "category": "natural", "coords": [17.945221, 59.474799]}, {"name": "Edssjön", "text": "Edssjön din Upplands Väsby este un lac local care invită la activități în aer liber.", "category": "natural", "coords": [17.876828, 59.500683]}, {"name": "Barnens Wäsby Verkstäder", "text": "Barnens Wäsby Verkstäder este un loc de joacă prietenos pentru familii în Upplands Väsby, cu zone de joacă creative.", "category": "family", "coords": [17.919698, 59.518371]}], "en": [{"name": "Trollholmen", "text": "Beach near Upplands Väsby.", "category": "recreational", "coords": [17.928465, 59.479985]}, {"name": "Bollstanäs strand", "text": "Set in the quiet surroundings of Upplands Väsby, this tranquil swimming beach attracts visitors to the water on warm days. The well-maintained area comfortably provides space for both relaxed sunbathing and a quick jump into the refreshing water. It is a highly popular meeting place for local families and nature lovers from the region. Anyone looking to avoid the afternoon bustle should probably plan their visit for the early morning hours.", "category": "recreational", "coords": [17.96334, 59.499654]}, {"name": "Vikingagården Gunnes gård", "text": "A reconstructed Viking farm that illustrates life during the Iron Age.", "category": "museum", "coords": [17.906797, 59.508401]}, {"name": "Stora Väsby slott", "text": "A Baroque manor house in Upplands Väsby, known for its garden architecture.", "category": "castle", "coords": [17.905555, 59.532364]}, {"name": "Edsby slott", "text": "A castle building in Upplands Väsby with historical significance.", "category": "castle", "coords": [17.868444, 59.511208]}, {"name": "Vikingagrav", "text": "An ancient Viking Age burial site in the Upplands Väsby region.", "category": "historical", "coords": [17.906219, 59.507312]}, {"name": "Zamores kulle", "text": "An archaeological site in Upplands Väsby featuring ancient remains.", "category": "historical", "coords": [17.893897, 59.517331]}, {"name": "Gravfält", "text": "A historical burial field containing remains from past eras.", "category": "historical", "coords": [17.941928, 59.528917]}, {"name": "Vilunda ättehage", "text": "An archaeological site in Upplands Väsby featuring historical burial mounds.", "category": "historical", "coords": [17.905336, 59.51398]}, {"name": "Graves", "text": "A collection of historical graves near Upplands Väsby.", "category": "historical", "coords": [17.932412, 59.50813]}, {"name": "Kulturhuset Messingen", "text": "A cultural center in Upplands Väsby hosting theater performances and concerts.", "category": "cultural", "coords": [17.901865, 59.521121]}, {"name": "Väsby konsthall", "text": "An art gallery exhibiting contemporary works in Upplands Väsby.", "category": "museum", "coords": [17.914707, 59.525746]}, {"name": "Eds kyrka", "text": "A medieval stone church in Upplands Väsby featuring historical murals.", "category": "religious", "coords": [17.868357, 59.507878]}, {"name": "Hammarby kyrka", "text": "This historical church in Upplands Väsby dates back to the 12th century.", "category": "religious", "coords": [17.923425, 59.537437]}, {"name": "Vilunda kyrka", "text": "A modern church building in the Vilunda district of Upplands Väsby.", "category": "religious", "coords": [17.91195, 59.519571]}, {"name": "Väsjön", "text": "Väsjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [17.973108, 59.456973]}, {"name": "Fjäturen", "text": "Fjäturen lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [17.992769, 59.461415]}, {"name": "Lillsjön", "text": "Lillsjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [17.79193, 59.52286]}, {"name": "Snuggan", "text": "Snuggan lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [17.96327, 59.461892]}, {"name": "Kvarnsjön", "text": "Kvarnsjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [17.983749, 59.485736]}, {"name": "Oxundasjön", "text": "Oxundasjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [17.864307, 59.549138]}, {"name": "Översjön", "text": "Översjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [17.844999, 59.455853]}, {"name": "Fysingen", "text": "Fysingen lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [17.925341, 59.561155]}, {"name": "Vallentunasjön", "text": "Vallentunasjön is a lake in Upplands Väsby, ideal for nature walks and enjoying the scenery.", "category": "natural", "coords": [18.0424, 59.505976]}, {"name": "Mälaren", "text": "Mälaren is a major lake near Upplands Väsby, offering various opportunities for recreation by the water.", "category": "natural", "coords": [17.039325, 59.494738]}, {"name": "Ravalen", "text": "The lake Ravalen in Upplands Väsby offers a quiet environment for relaxing walks.", "category": "natural", "coords": [17.908302, 59.45009]}, {"name": "Norrviken", "text": "Norrviken is a lake in Upplands Väsby, known for its beautiful landscape and recreational activities.", "category": "natural", "coords": [17.945221, 59.474799]}, {"name": "Edssjön", "text": "Edssjön in Upplands Väsby is a local lake that invites outdoor activities and relaxation.", "category": "natural", "coords": [17.876828, 59.500683]}, {"name": "Barnens Wäsby Verkstäder", "text": "Barnens Wäsby Verkstäder is a family-friendly playground in Upplands Väsby with creative play areas.", "category": "family", "coords": [17.919698, 59.518371]}]},
+    id: "sweden-upplands-vasby-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trollholmen",
+                  "text": "Strand in der Nähe von Upplands Väsby.",
+                  "category": "recreational",
+                  "coords": [
+                        17.928465,
+                        59.479985
+                  ]
+            },
+            {
+                  "name": "Bollstanäs strand",
+                  "text": "In der ruhigen Umgebung von Upplands Väsby lockt dieser beschauliche Badestrand an warmen Tagen Besucher ans Wasser. Der gepflegte Bereich bietet sowohl Platz für entspanntes Sonnenbaden als auch für den Sprung ins erfrischende Nass. Es ist ein beliebter Treffpunkt für Familien und Naturfreunde aus der Region. Wer dem nachmittäglichen Trubel entgehen möchte, sollte seinen Besuch für die frühen Vormittagsstunden planen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.96334,
+                        59.499654
+                  ]
+            },
+            {
+                  "name": "Vikingagården Gunnes gård",
+                  "text": "Ein rekonstruierter Wikingerbauernhof, der das Leben in der Eisenzeit veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        17.906797,
+                        59.508401
+                  ]
+            },
+            {
+                  "name": "Stora Väsby slott",
+                  "text": "Ein barockes Herrenhaus in Upplands Väsby, bekannt für seine Gartenarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        17.905555,
+                        59.532364
+                  ]
+            },
+            {
+                  "name": "Edsby slott",
+                  "text": "Ein Schlossgebäude in Upplands Väsby mit historischer Bedeutung.",
+                  "category": "castle",
+                  "coords": [
+                        17.868444,
+                        59.511208
+                  ]
+            },
+            {
+                  "name": "Vikingagrav",
+                  "text": "Eine antike Grabstätte der Wikingerzeit in der Region Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.906219,
+                        59.507312
+                  ]
+            },
+            {
+                  "name": "Zamores kulle",
+                  "text": "Ein archäologischer Fundplatz in Upplands Väsby mit antiken Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        17.893897,
+                        59.517331
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "Ein historisches Gräberfeld mit Überresten aus vergangenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        17.941928,
+                        59.528917
+                  ]
+            },
+            {
+                  "name": "Vilunda ättehage",
+                  "text": "Eine archäologische Stätte in Upplands Väsby mit historischen Grabhügeln.",
+                  "category": "historical",
+                  "coords": [
+                        17.905336,
+                        59.51398
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Eine Ansammlung historischer Gräber in der Nähe von Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.932412,
+                        59.50813
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Messingen",
+                  "text": "Ein Kulturzentrum in Upplands Väsby, das Theater und Konzerte veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        17.901865,
+                        59.521121
+                  ]
+            },
+            {
+                  "name": "Väsby konsthall",
+                  "text": "Eine Kunstgalerie, die zeitgenössische Werke in Upplands Väsby ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        17.914707,
+                        59.525746
+                  ]
+            },
+            {
+                  "name": "Eds kyrka",
+                  "text": "Eine mittelalterliche Steinkirche in Upplands Väsby mit historischen Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        17.868357,
+                        59.507878
+                  ]
+            },
+            {
+                  "name": "Hammarby kyrka",
+                  "text": "Diese historische Kirche in Upplands Väsby stammt ursprünglich aus dem 12. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        17.923425,
+                        59.537437
+                  ]
+            },
+            {
+                  "name": "Vilunda kyrka",
+                  "text": "Ein modernes Kirchengebäude im Stadtteil Vilunda von Upplands Väsby.",
+                  "category": "religious",
+                  "coords": [
+                        17.91195,
+                        59.519571
+                  ]
+            },
+            {
+                  "name": "Väsjön",
+                  "text": "Der Väsjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.973108,
+                        59.456973
+                  ]
+            },
+            {
+                  "name": "Fjäturen",
+                  "text": "Der Fjäturen-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.992769,
+                        59.461415
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Der Lillsjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.79193,
+                        59.52286
+                  ]
+            },
+            {
+                  "name": "Snuggan",
+                  "text": "Der Snuggan-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.96327,
+                        59.461892
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Der Kvarnsjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Oxundasjön",
+                  "text": "Der Oxundasjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.864307,
+                        59.549138
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Der Översjön-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Fysingen",
+                  "text": "Der Fysingen-See in Upplands Vaesby ist ein ruhiges Gewässer, das sich ideal für Spaziergänge und Naturbeobachtungen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.925341,
+                        59.561155
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "Der Vallentunasjön ist ein See in Upplands Väsby, der sich gut für Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Mälarsee",
+                  "text": "Mälaren ist ein bedeutender See bei Upplands Väsby, der vielfältige Möglichkeiten zur Erholung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "Der See Ravalen in Upplands Väsby bietet eine ruhige Umgebung für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken ist ein See in Upplands Väsby, der für seine schöne Landschaft und Freizeitmöglichkeiten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Edssjön",
+                  "text": "Der Edssjön in Upplands Väsby ist ein lokaler See, der zu Aktivitäten im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.876828,
+                        59.500683
+                  ]
+            },
+            {
+                  "name": "Barnens Wäsby Verkstäder",
+                  "text": "Barnens Wäsby Verkstäder ist ein familienfreundlicher Spielplatz in Upplands Väsby mit kreativen Spielbereichen.",
+                  "category": "family",
+                  "coords": [
+                        17.919698,
+                        59.518371
+                  ]
+            },
+            {
+                  "name": "Sättrabadet",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Upplands Vaesby.",
+                  "category": "family",
+                  "coords": [
+                        17.831928,
+                        59.529821
+                  ]
+            },
+            {
+                  "name": "Fysingenbadet",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Upplands Vaesby.",
+                  "category": "family",
+                  "coords": [
+                        17.918164,
+                        59.546337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trollholmen",
+                  "text": "Part Upplands Väsby közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.928465,
+                        59.479985
+                  ]
+            },
+            {
+                  "name": "Bollstanäs strand",
+                  "text": "Upplands Väsby csendes környezetében ez a békés strand a meleg napokon a vízhez vonzza a látogatókat. A gondozott terület egyaránt kínál teret a nyugodt napozáshoz és a frissítő vízbe ugráshoz. A környékbeli családok és a természetbarátok kedvelt találkozóhelye. Aki szeretné elkerülni a délutáni nyüzsgést, annak érdemes a látogatást a kora délelőtti órákra időzítenie.",
+                  "category": "recreational",
+                  "coords": [
+                        17.96334,
+                        59.499654
+                  ]
+            },
+            {
+                  "name": "Vikingagården Gunnes gård",
+                  "text": "Rekonstruált viking gazdaság, amely a vaskori életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.906797,
+                        59.508401
+                  ]
+            },
+            {
+                  "name": "Stora Väsby slott",
+                  "text": "Barokk kastély Upplands Väsbyben, amely kertépítészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        17.905555,
+                        59.532364
+                  ]
+            },
+            {
+                  "name": "Edsby slott",
+                  "text": "Kastélyépület Upplands Väsbyben, történelmi jelentőséggel.",
+                  "category": "castle",
+                  "coords": [
+                        17.868444,
+                        59.511208
+                  ]
+            },
+            {
+                  "name": "Vikingagrav",
+                  "text": "Ősi viking kori sírhely Upplands Väsby régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        17.906219,
+                        59.507312
+                  ]
+            },
+            {
+                  "name": "Zamores kulle",
+                  "text": "Régészeti lelőhely Upplands Väsbyben, ókori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        17.893897,
+                        59.517331
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "Történelmi sírmező múltbéli korszakok maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        17.941928,
+                        59.528917
+                  ]
+            },
+            {
+                  "name": "Vilunda ättehage",
+                  "text": "Régészeti lelőhely Upplands Väsbyben történelmi sírhalmokkal.",
+                  "category": "historical",
+                  "coords": [
+                        17.905336,
+                        59.51398
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Történelmi sírok csoportja Upplands Väsby közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.932412,
+                        59.50813
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Messingen",
+                  "text": "Kulturális központ Upplands Väsbyben, amely színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.901865,
+                        59.521121
+                  ]
+            },
+            {
+                  "name": "Väsby konsthall",
+                  "text": "Kortárs műveket bemutató művészeti galéria Upplands Väsbyben.",
+                  "category": "museum",
+                  "coords": [
+                        17.914707,
+                        59.525746
+                  ]
+            },
+            {
+                  "name": "Eds kyrka",
+                  "text": "Középkori kőtemplom Upplands Väsbyben, történelmi falfestményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        17.868357,
+                        59.507878
+                  ]
+            },
+            {
+                  "name": "Hammarby kyrka",
+                  "text": "Ez a történelmi templom Upplands Väsbyben eredetileg a 12. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        17.923425,
+                        59.537437
+                  ]
+            },
+            {
+                  "name": "Vilunda kyrka",
+                  "text": "Modern templomépület Upplands Väsby Vilunda negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.91195,
+                        59.519571
+                  ]
+            },
+            {
+                  "name": "Väsjön",
+                  "text": "A Upplands Vaesby területén található Väsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.973108,
+                        59.456973
+                  ]
+            },
+            {
+                  "name": "Fjäturen",
+                  "text": "A Upplands Vaesby területén található Fjäturen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.992769,
+                        59.461415
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "A Upplands Vaesby területén található Lillsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.79193,
+                        59.52286
+                  ]
+            },
+            {
+                  "name": "Snuggan",
+                  "text": "A Upplands Vaesby területén található Snuggan-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.96327,
+                        59.461892
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "A Upplands Vaesby területén található Kvarnsjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Oxundasjön",
+                  "text": "A Upplands Vaesby területén található Oxundasjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.864307,
+                        59.549138
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "A Upplands Vaesby területén található Översjön-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Fysingen",
+                  "text": "A Upplands Vaesby területén található Fysingen-tó nyugodt környezetet biztosít a sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.925341,
+                        59.561155
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "A Vallentunasjön egy tó Upplands Väsby területén, amely kiváló helyszín a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "A Mälaren egy jelentős tó Upplands Väsby közelében, amely változatos kikapcsolódási lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "A Ravalen tó Upplands Väsby területén nyugodt környezetet biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken egy tó Upplands Väsby területén, amely szép tájáról és szabadidős lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Edssjön",
+                  "text": "Az Edssjön egy helyi tó Upplands Väsby területén, amely szabadtéri tevékenységekre invitál.",
+                  "category": "natural",
+                  "coords": [
+                        17.876828,
+                        59.500683
+                  ]
+            },
+            {
+                  "name": "Barnens Wäsby Verkstäder",
+                  "text": "A Barnens Wäsby Verkstäder egy családbarát játszótér Upplands Väsby területén, kreatív játéklehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        17.919698,
+                        59.518371
+                  ]
+            },
+            {
+                  "name": "Sättrabadet",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Upplands Vaesby városában.",
+                  "category": "family",
+                  "coords": [
+                        17.831928,
+                        59.529821
+                  ]
+            },
+            {
+                  "name": "Fysingenbadet",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Upplands Vaesby városában.",
+                  "category": "family",
+                  "coords": [
+                        17.918164,
+                        59.546337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trollholmen",
+                  "text": "Plajă în apropiere de Upplands Väsby.",
+                  "category": "recreational",
+                  "coords": [
+                        17.928465,
+                        59.479985
+                  ]
+            },
+            {
+                  "name": "Bollstanäs strand",
+                  "text": "În împrejurimile liniștite din Upplands Väsby, această plajă liniștită de scăldat atrage vizitatorii la apă în zilele calde. Zona bine întreținută oferă spațiu atât pentru plajă relaxantă, cât și pentru un salt în apa răcoritoare. Este un punct de întâlnire foarte popular pentru familiile și iubitorii de natură din regiune. Cei care doresc să evite agitația de după-amiază ar trebui să-și planifice vizita la primele ore ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        17.96334,
+                        59.499654
+                  ]
+            },
+            {
+                  "name": "Vikingagården Gunnes gård",
+                  "text": "O fermă vikingă reconstruită care ilustrează viața în epoca fierului.",
+                  "category": "museum",
+                  "coords": [
+                        17.906797,
+                        59.508401
+                  ]
+            },
+            {
+                  "name": "Stora Väsby slott",
+                  "text": "Un conac baroc în Upplands Väsby, cunoscut pentru arhitectura grădinilor sale.",
+                  "category": "castle",
+                  "coords": [
+                        17.905555,
+                        59.532364
+                  ]
+            },
+            {
+                  "name": "Edsby slott",
+                  "text": "O clădire de castel în Upplands Väsby cu semnificație istorică.",
+                  "category": "castle",
+                  "coords": [
+                        17.868444,
+                        59.511208
+                  ]
+            },
+            {
+                  "name": "Vikingagrav",
+                  "text": "Un mormânt antic din epoca vikingă în regiunea Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.906219,
+                        59.507312
+                  ]
+            },
+            {
+                  "name": "Zamores kulle",
+                  "text": "Un sit arheologic în Upplands Väsby cu vestigii antice.",
+                  "category": "historical",
+                  "coords": [
+                        17.893897,
+                        59.517331
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "Un câmp funerar istoric cu vestigii din epoci trecute.",
+                  "category": "historical",
+                  "coords": [
+                        17.941928,
+                        59.528917
+                  ]
+            },
+            {
+                  "name": "Vilunda ättehage",
+                  "text": "Un sit arheologic în Upplands Väsby cu tumuli istorici.",
+                  "category": "historical",
+                  "coords": [
+                        17.905336,
+                        59.51398
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Un grup de morminte istorice în apropiere de Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.932412,
+                        59.50813
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Messingen",
+                  "text": "Un centru cultural în Upplands Väsby care găzduiește spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        17.901865,
+                        59.521121
+                  ]
+            },
+            {
+                  "name": "Väsby konsthall",
+                  "text": "O galerie de artă care expune lucrări contemporane în Upplands Väsby.",
+                  "category": "museum",
+                  "coords": [
+                        17.914707,
+                        59.525746
+                  ]
+            },
+            {
+                  "name": "Eds kyrka",
+                  "text": "O biserică medievală de piatră în Upplands Väsby, cu picturi murale istorice.",
+                  "category": "religious",
+                  "coords": [
+                        17.868357,
+                        59.507878
+                  ]
+            },
+            {
+                  "name": "Hammarby kyrka",
+                  "text": "Această biserică istorică din Upplands Väsby datează inițial din secolul al XII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        17.923425,
+                        59.537437
+                  ]
+            },
+            {
+                  "name": "Vilunda kyrka",
+                  "text": "O clădire modernă de biserică în districtul Vilunda din Upplands Väsby.",
+                  "category": "religious",
+                  "coords": [
+                        17.91195,
+                        59.519571
+                  ]
+            },
+            {
+                  "name": "Väsjön",
+                  "text": "Lacul Väsjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.973108,
+                        59.456973
+                  ]
+            },
+            {
+                  "name": "Fjäturen",
+                  "text": "Lacul Fjäturen din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.992769,
+                        59.461415
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lacul Lillsjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.79193,
+                        59.52286
+                  ]
+            },
+            {
+                  "name": "Snuggan",
+                  "text": "Lacul Snuggan din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.96327,
+                        59.461892
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Lacul Kvarnsjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Oxundasjön",
+                  "text": "Lacul Oxundasjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.864307,
+                        59.549138
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Lacul Översjön din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Fysingen",
+                  "text": "Lacul Fysingen din Upplands Vaesby este un corp de apă liniștit, ideal pentru plimbări și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.925341,
+                        59.561155
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "Vallentunasjön este un lac în Upplands Väsby, ideal pentru plimbări în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren este un lac important lângă Upplands Väsby, oferind numeroase oportunități de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "Lacul Ravalen din Upplands Väsby oferă un cadru liniștit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken este un lac în Upplands Väsby, cunoscut pentru peisajele sale frumoase și posibilitățile de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Edssjön",
+                  "text": "Edssjön din Upplands Väsby este un lac local care invită la activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.876828,
+                        59.500683
+                  ]
+            },
+            {
+                  "name": "Barnens Wäsby Verkstäder",
+                  "text": "Barnens Wäsby Verkstäder este un loc de joacă prietenos pentru familii în Upplands Väsby, cu zone de joacă creative.",
+                  "category": "family",
+                  "coords": [
+                        17.919698,
+                        59.518371
+                  ]
+            },
+            {
+                  "name": "Sättrabadet",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Upplands Vaesby.",
+                  "category": "family",
+                  "coords": [
+                        17.831928,
+                        59.529821
+                  ]
+            },
+            {
+                  "name": "Fysingenbadet",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Upplands Vaesby.",
+                  "category": "family",
+                  "coords": [
+                        17.918164,
+                        59.546337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trollholmen",
+                  "text": "Beach near Upplands Väsby.",
+                  "category": "recreational",
+                  "coords": [
+                        17.928465,
+                        59.479985
+                  ]
+            },
+            {
+                  "name": "Bollstanäs strand",
+                  "text": "Set in the quiet surroundings of Upplands Väsby, this tranquil swimming beach attracts visitors to the water on warm days. The well-maintained area comfortably provides space for both relaxed sunbathing and a quick jump into the refreshing water. It is a highly popular meeting place for local families and nature lovers from the region. Anyone looking to avoid the afternoon bustle should probably plan their visit for the early morning hours.",
+                  "category": "recreational",
+                  "coords": [
+                        17.96334,
+                        59.499654
+                  ]
+            },
+            {
+                  "name": "Vikingagården Gunnes gård",
+                  "text": "A reconstructed Viking farm that illustrates life during the Iron Age.",
+                  "category": "museum",
+                  "coords": [
+                        17.906797,
+                        59.508401
+                  ]
+            },
+            {
+                  "name": "Stora Väsby slott",
+                  "text": "A Baroque manor house in Upplands Väsby, known for its garden architecture.",
+                  "category": "castle",
+                  "coords": [
+                        17.905555,
+                        59.532364
+                  ]
+            },
+            {
+                  "name": "Edsby slott",
+                  "text": "A castle building in Upplands Väsby with historical significance.",
+                  "category": "castle",
+                  "coords": [
+                        17.868444,
+                        59.511208
+                  ]
+            },
+            {
+                  "name": "Vikingagrav",
+                  "text": "An ancient Viking Age burial site in the Upplands Väsby region.",
+                  "category": "historical",
+                  "coords": [
+                        17.906219,
+                        59.507312
+                  ]
+            },
+            {
+                  "name": "Zamores kulle",
+                  "text": "An archaeological site in Upplands Väsby featuring ancient remains.",
+                  "category": "historical",
+                  "coords": [
+                        17.893897,
+                        59.517331
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "A historical burial field containing remains from past eras.",
+                  "category": "historical",
+                  "coords": [
+                        17.941928,
+                        59.528917
+                  ]
+            },
+            {
+                  "name": "Vilunda ättehage",
+                  "text": "An archaeological site in Upplands Väsby featuring historical burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        17.905336,
+                        59.51398
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "A collection of historical graves near Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.932412,
+                        59.50813
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Messingen",
+                  "text": "A cultural center in Upplands Väsby hosting theater performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        17.901865,
+                        59.521121
+                  ]
+            },
+            {
+                  "name": "Väsby konsthall",
+                  "text": "An art gallery exhibiting contemporary works in Upplands Väsby.",
+                  "category": "museum",
+                  "coords": [
+                        17.914707,
+                        59.525746
+                  ]
+            },
+            {
+                  "name": "Eds kyrka",
+                  "text": "A medieval stone church in Upplands Väsby featuring historical murals.",
+                  "category": "religious",
+                  "coords": [
+                        17.868357,
+                        59.507878
+                  ]
+            },
+            {
+                  "name": "Hammarby kyrka",
+                  "text": "This historical church in Upplands Väsby dates back to the 12th century.",
+                  "category": "religious",
+                  "coords": [
+                        17.923425,
+                        59.537437
+                  ]
+            },
+            {
+                  "name": "Vilunda kyrka",
+                  "text": "A modern church building in the Vilunda district of Upplands Väsby.",
+                  "category": "religious",
+                  "coords": [
+                        17.91195,
+                        59.519571
+                  ]
+            },
+            {
+                  "name": "Väsjön",
+                  "text": "Väsjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.973108,
+                        59.456973
+                  ]
+            },
+            {
+                  "name": "Fjäturen",
+                  "text": "Fjäturen lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.992769,
+                        59.461415
+                  ]
+            },
+            {
+                  "name": "Lillsjön",
+                  "text": "Lillsjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.79193,
+                        59.52286
+                  ]
+            },
+            {
+                  "name": "Snuggan",
+                  "text": "Snuggan lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.96327,
+                        59.461892
+                  ]
+            },
+            {
+                  "name": "Kvarnsjön",
+                  "text": "Kvarnsjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.983749,
+                        59.485736
+                  ]
+            },
+            {
+                  "name": "Oxundasjön",
+                  "text": "Oxundasjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.864307,
+                        59.549138
+                  ]
+            },
+            {
+                  "name": "Översjön",
+                  "text": "Översjön lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.844999,
+                        59.455853
+                  ]
+            },
+            {
+                  "name": "Fysingen",
+                  "text": "Fysingen lake in Upplands Vaesby is a calm body of water, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.925341,
+                        59.561155
+                  ]
+            },
+            {
+                  "name": "Vallentunasjön",
+                  "text": "Vallentunasjön is a lake in Upplands Väsby, ideal for nature walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.0424,
+                        59.505976
+                  ]
+            },
+            {
+                  "name": "Mälaren",
+                  "text": "Mälaren is a major lake near Upplands Väsby, offering various opportunities for recreation by the water.",
+                  "category": "natural",
+                  "coords": [
+                        17.039325,
+                        59.494738
+                  ]
+            },
+            {
+                  "name": "Ravalen",
+                  "text": "The lake Ravalen in Upplands Väsby offers a quiet environment for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        17.908302,
+                        59.45009
+                  ]
+            },
+            {
+                  "name": "Norrviken",
+                  "text": "Norrviken is a lake in Upplands Väsby, known for its beautiful landscape and recreational activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.945221,
+                        59.474799
+                  ]
+            },
+            {
+                  "name": "Edssjön",
+                  "text": "Edssjön in Upplands Väsby is a local lake that invites outdoor activities and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.876828,
+                        59.500683
+                  ]
+            },
+            {
+                  "name": "Barnens Wäsby Verkstäder",
+                  "text": "Barnens Wäsby Verkstäder is a family-friendly playground in Upplands Väsby with creative play areas.",
+                  "category": "family",
+                  "coords": [
+                        17.919698,
+                        59.518371
+                  ]
+            },
+            {
+                  "name": "Sättrabadet",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Upplands Vaesby.",
+                  "category": "family",
+                  "coords": [
+                        17.831928,
+                        59.529821
+                  ]
+            },
+            {
+                  "name": "Fysingenbadet",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Upplands Vaesby.",
+                  "category": "family",
+                  "coords": [
+                        17.918164,
+                        59.546337
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Upplands Väsby", hu: "Upplands Väsby", ro: "Upplands Väsby", en: "Upplands Väsby" },
@@ -40670,6 +47582,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.089156,
                         59.234972
                   ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Ein öffentlicher Badeplatz in Tyresö, der Zugang zum Wasser zum Schwimmen und für die Freizeit bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.168993,
+                        59.242126
+                  ]
+            },
+            {
+                  "name": "Krusbodabadet",
+                  "text": "Eine Schwimmeinrichtung in Tyresö mit Becken für den Freizeitgebrauch und Familienbesuche.",
+                  "category": "family",
+                  "coords": [
+                        18.251983,
+                        59.229819
+                  ]
             }
       ],
       "hu": [
@@ -41004,6 +47934,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.089156,
                         59.234972
+                  ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Tyresöi nyilvános fürdőhely, amely vízi hozzáférést biztosít az úszáshoz és a szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        18.168993,
+                        59.242126
+                  ]
+            },
+            {
+                  "name": "Krusbodabadet",
+                  "text": "Tyresöi úszólétesítmény medencékkel szabadidős használatra és családi látogatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.251983,
+                        59.229819
                   ]
             }
       ],
@@ -41340,6 +48288,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.089156,
                         59.234972
                   ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Un loc public de scăldat în Tyresö, care oferă acces la apă pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.168993,
+                        59.242126
+                  ]
+            },
+            {
+                  "name": "Krusbodabadet",
+                  "text": "O facilitate de înot în Tyresö, cu piscine pentru uz recreativ și vizite în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.251983,
+                        59.229819
+                  ]
             }
       ],
       "en": [
@@ -41674,6 +48640,24 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.089156,
                         59.234972
+                  ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "A public bathing spot in Tyresö providing access to the water for swimming and leisure.",
+                  "category": "family",
+                  "coords": [
+                        18.168993,
+                        59.242126
+                  ]
+            },
+            {
+                  "name": "Krusbodabadet",
+                  "text": "A swimming facility in Tyresö featuring pools for recreational use and family visits.",
+                  "category": "family",
+                  "coords": [
+                        18.251983,
+                        59.229819
                   ]
             }
       ]

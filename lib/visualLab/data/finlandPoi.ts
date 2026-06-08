@@ -17932,6 +17932,213 @@ export const finlandCities: POI[] = [
                         29.773885,
                         62.630579
                   ]
+            },
+            {
+                  "name": "Carelia-sali",
+                  "text": "Die Carelia-Halle in Joensuu ist ein bekannter Veranstaltungsort für Konzerte und akademische Feiern. Sie befindet sich auf dem Campus der Universität von Ostfinnland.",
+                  "category": "cultural",
+                  "coords": [
+                        29.744878,
+                        62.603695
+                  ]
+            },
+            {
+                  "name": "Kaupunginteatteri",
+                  "text": "Das Stadttheater von Joensuu ist im beeindruckenden historischen Rathaus untergebracht. Es bietet ein vielfältiges Programm an dramatischen Aufführungen und kulturellen Events.",
+                  "category": "cultural",
+                  "coords": [
+                        29.765195,
+                        62.600035
+                  ]
+            },
+            {
+                  "name": "Laululava",
+                  "text": "Die Laululava in Joensuu ist eine große Freilichtbühne, die für das Ilosaarirock-Festival bekannt ist. Sie dient als Austragungsort für zahlreiche Sommerkonzerte und Großveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        29.736452,
+                        62.596212
+                  ]
+            },
+            {
+                  "name": "Joensuun taidemuseo",
+                  "text": "Das Kunstmuseum von Joensuu präsentiert wechselnde Ausstellungen in einem ehemaligen Schulgebäude. Die Sammlung umfasst sowohl finnische Werke als auch antike Kunstschätze.",
+                  "category": "museum",
+                  "coords": [
+                        29.758439,
+                        62.60134
+                  ]
+            },
+            {
+                  "name": "Vehkalahden uimaranta",
+                  "text": "Der Strand Vehkalahti in Joensuu ist ein beliebter Ort zum Schwimmen und für sommerliche Freizeitaktivitäten. Er bietet gute Einrichtungen für Familien und Erholungssuchende am See.",
+                  "category": "recreational",
+                  "coords": [
+                        29.765411,
+                        62.579988
+                  ]
+            },
+            {
+                  "name": "Näyttämö",
+                  "text": "Näyttämö ist ein kultureller Veranstaltungsort in Joensuu, der sich auf darstellende Künste konzentriert. Hier finden regelmäßig Theateraufführungen und kreative Projekte statt.",
+                  "category": "cultural",
+                  "coords": [
+                        29.755557,
+                        62.601634
+                  ]
+            },
+            {
+                  "name": "Pohjois-Karjalan kansanteatteri Pokka",
+                  "text": "Das Volkstheater Pokka in Nordkarelien bietet lokale Theaterproduktionen in Joensuu an. Es ist ein wichtiger Teil der regionalen Kulturszene und fördert das Gemeinschaftstheater.",
+                  "category": "cultural",
+                  "coords": [
+                        29.764744,
+                        62.605635
+                  ]
+            },
+            {
+                  "name": "Linnunlahden uimaranta",
+                  "text": "Der Strand Linnunlahti befindet sich in der Nähe des Campingplatzes von Joensuu am Seeufer. Er ist ein geschätzter Ort für Outdoor-Aktivitäten und entspanntes Baden im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        29.738602,
+                        62.594715
+                  ]
+            },
+            {
+                  "name": "Ilosaaren uimaranta",
+                  "text": "Der Strand Ilosaari liegt auf einer kleinen Insel im Stadtzentrum von Joensuu. Er ist leicht erreichbar und bietet eine schöne Umgebung für eine schnelle Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        29.770286,
+                        62.598907
+                  ]
+            },
+            {
+                  "name": "Vapaudenpuisto",
+                  "text": "Der Vapaudenpuisto (Freiheitspark) ist eine zentrale Grünanlage in Joensuu. Er dient als Ort der Ruhe und beherbergt verschiedene Denkmäler im Herzen der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        29.763867,
+                        62.600252
+                  ]
+            },
+            {
+                  "name": "Pakkahuone",
+                  "text": "Das Pakkahuone in Joensuu ist ein Kulturzentrum in einem historischen Zollgebäude. Es ist bekannt für Handwerksausstellungen und vielfältige kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        29.762097,
+                        62.596608
+                  ]
+            },
+            {
+                  "name": "Tiedepuisto",
+                  "text": "Der Tiedepuisto in Joensuu ist ein Innovationszentrum und Wissenschaftspark. Er beherbergt zahlreiche Technologieunternehmen und fördert die wissenschaftliche Zusammenarbeit.",
+                  "category": "landmark",
+                  "coords": [
+                        29.743348,
+                        62.598076
+                  ]
+            },
+            {
+                  "name": "Punaisten hautamuistomerkki",
+                  "text": "Dieses Denkmal in Joensuu erinnert an die Gefallenen der Roten Garde. Es befindet sich an einer historischen Grabstätte und dient dem ehrenden Gedenken.",
+                  "category": "historical",
+                  "coords": [
+                        29.727935,
+                        62.612784
+                  ]
+            },
+            {
+                  "name": "Cosmic",
+                  "text": "Cosmic ist ein beliebtes Freizeitzentrum in Joensuu, das Bowling und andere Aktivitäten bietet. Es ist ein idealer ort für Unterhaltung und gesellige Stunden in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        29.765156,
+                        62.603747
+                  ]
+            },
+            {
+                  "name": "Taito galleria",
+                  "text": "Die Taito Galleria in Joensuu präsentiert hochwertiges finnisches Kunsthandwerk. Besucher können hier wechselnde Ausstellungen sehen und lokale Handwerksprodukte erwerben.",
+                  "category": "museum",
+                  "coords": [
+                        29.763036,
+                        62.59931
+                  ]
+            },
+            {
+                  "name": "Kankaanrinnan huvila",
+                  "text": "Die Ruinen der Kankaanrinta-Villa in Joensuu sind Überreste eines historischen Gebäudes. Der Ort bietet einen interessanten Einblick in die lokale Architekturgeschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        29.720134,
+                        62.599502
+                  ]
+            },
+            {
+                  "name": "Puolesta Heimon ja Isänmaan 1939-1945",
+                  "text": "Dieses Denkmal in Joensuu ist den Opfern der Jahre 1939-1945 gewidmet. Es ehrt den Einsatz für Stamm und Vaterland und ist ein bedeutender Ort des Gedenkens.",
+                  "category": "historical",
+                  "coords": [
+                        29.76902,
+                        62.607626
+                  ]
+            },
+            {
+                  "name": "Joensuun Vapaaseurakunta",
+                  "text": "Die Freikirche von Joensuu ist ein Ort des Gebets und der Gemeinschaft im Stadtzentrum. Sie bietet regelmäßige Gottesdienste und verschiedene soziale Aktivitäten an.",
+                  "category": "religious",
+                  "coords": [
+                        29.761156,
+                        62.611338
+                  ]
+            },
+            {
+                  "name": "Joensuun ev.-lut. kirkko",
+                  "text": "Die evangelisch-lutherische Kirche von Joensuu ist ein markantes Backsteingebäude im Stadtbild. Sie ist das Hauptgotteshaus der Gemeinde und ein wichtiges architektonisches Denkmal.",
+                  "category": "religious",
+                  "coords": [
+                        29.753064,
+                        62.594767
+                  ]
+            },
+            {
+                  "name": "Pyhän Nikolaoksen kirkko",
+                  "text": "Die St.-Nikolaus-Kirche in Joensuu ist ein schönes Beispiel für orthodoxe Sakralarchitektur. Sie ist bekannt für ihre traditionelle Bauweise und ihre wertvollen Ikonen.",
+                  "category": "religious",
+                  "coords": [
+                        29.763375,
+                        62.60614
+                  ]
+            },
+            {
+                  "name": "Pielisensuun kirkko",
+                  "text": "Die Pielisensuu-Kirche in Joensuu ist ein modernes lutherisches Gotteshaus mit markanter Architektur. Sie dient der Gemeinde im Stadtteil Pielisensuu als religiöses Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        29.78171,
+                        62.593247
+                  ]
+            },
+            {
+                  "name": "Joensuun helluntaiseurakunta",
+                  "text": "Die Pfingstkirche von Joensuu bietet Raum für Gottesdienste und christliche Gemeindearbeit. Das Gebäude ist ein wichtiger Treffpunkt für die lokale Pfingstbewegung.",
+                  "category": "religious",
+                  "coords": [
+                        29.784486,
+                        62.593015
+                  ]
+            },
+            {
+                  "name": "Kauppatori",
+                  "text": "Der Marktplatz von Joensuu ist das lebendige Herz der Stadt, auf dem regionale Produkte angeboten werden. Besucher können hier die lokale Atmosphäre genießen und typische Spezialitäten probieren.",
+                  "category": "cultural",
+                  "coords": [
+                        29.761955,
+                        62.600694
+                  ]
             }
       ],
       "hu": [
@@ -18077,6 +18284,213 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.773885,
                         62.630579
+                  ]
+            },
+            {
+                  "name": "Carelia-sali",
+                  "text": "A joensuui Carelia-sali koncertjeiről és akadémiai ünnepségeiről ismert rendezvényhelyszín. A Kelet-finnországi Egyetem kampuszán található.",
+                  "category": "cultural",
+                  "coords": [
+                        29.744878,
+                        62.603695
+                  ]
+            },
+            {
+                  "name": "Kaupunginteatteri",
+                  "text": "Joensuu városi színháza a lenyűgöző történelmi városháza épületében kapott helyet. Változatos programokat kínál drámai előadásokból és kulturális eseményekből.",
+                  "category": "cultural",
+                  "coords": [
+                        29.765195,
+                        62.600035
+                  ]
+            },
+            {
+                  "name": "Laululava",
+                  "text": "A joensuui Laululava egy nagy szabadtéri színpad, amely az Ilosaarirock fesztiválról ismert. Számos nyári koncert és nagyrendezvény helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        29.736452,
+                        62.596212
+                  ]
+            },
+            {
+                  "name": "Joensuun taidemuseo",
+                  "text": "A joensuui művészeti múzeum egy korábbi iskolaépületben mutat be időszaki kiállításokat. A gyűjtemény finn alkotásokat és antik műkincseket egyaránt tartalmaz.",
+                  "category": "museum",
+                  "coords": [
+                        29.758439,
+                        62.60134
+                  ]
+            },
+            {
+                  "name": "Vehkalahden uimaranta",
+                  "text": "A joensuui Vehkalahti strand népszerű hely az úszáshoz és a nyári szabadidős tevékenységekhez. Jó felszereltséggel várja a családokat és a tóparti pihenésre vágyókat.",
+                  "category": "recreational",
+                  "coords": [
+                        29.765411,
+                        62.579988
+                  ]
+            },
+            {
+                  "name": "Näyttämö",
+                  "text": "A Näyttämö egy joensuui kulturális helyszín, amely az előadóművészetekre összpontosít. Rendszeresen ad otthont színházi előadásoknak és kreatív projekteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        29.755557,
+                        62.601634
+                  ]
+            },
+            {
+                  "name": "Pohjois-Karjalan kansanteatteri Pokka",
+                  "text": "Az észak-karjalai Pokka népszínház helyi színházi produkciókat kínál Joensuuban. A regionális kulturális élet fontos része, amely népszerűsíti a közösségi színjátszást.",
+                  "category": "cultural",
+                  "coords": [
+                        29.764744,
+                        62.605635
+                  ]
+            },
+            {
+                  "name": "Linnunlahden uimaranta",
+                  "text": "A Linnunlahti strand a joensuui kemping közelében, a tóparton található. Kedvelt hely a szabadtéri tevékenységekhez és a pihentető nyári fürdőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        29.738602,
+                        62.594715
+                  ]
+            },
+            {
+                  "name": "Ilosaaren uimaranta",
+                  "text": "Az Ilosaari strand egy kis szigeten található Joensuu városközpontjában. Könnyen megközelíthető, és szép környezetet biztosít egy gyors felfrissüléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        29.770286,
+                        62.598907
+                  ]
+            },
+            {
+                  "name": "Vapaudenpuisto",
+                  "text": "A Vapaudenpuisto (Szabadság park) egy központi zöldterület Joensuu szívében. A nyugalom helyszíneként szolgál, és több emlékműnek is otthont ad a város központjában.",
+                  "category": "park",
+                  "coords": [
+                        29.763867,
+                        62.600252
+                  ]
+            },
+            {
+                  "name": "Pakkahuone",
+                  "text": "A joensuui Pakkahuone egy történelmi vámépületben működő kulturális központ. Kézműves kiállításairól és változatos kulturális eseményeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        29.762097,
+                        62.596608
+                  ]
+            },
+            {
+                  "name": "Tiedepuisto",
+                  "text": "A joensuui Tiedepuisto egy innovációs központ és tudományos park. Számos technológiai vállalatnak ad otthont, és elősegíti a tudományos együttműködést.",
+                  "category": "landmark",
+                  "coords": [
+                        29.743348,
+                        62.598076
+                  ]
+            },
+            {
+                  "name": "Punaisten hautamuistomerkki",
+                  "text": "Ez a joensuui emlékmű a Vörös Gárda elesett tagjainak állít emléket. Egy történelmi sírhelynél található, és a kegyeletteljes emlékezést szolgálja.",
+                  "category": "historical",
+                  "coords": [
+                        29.727935,
+                        62.612784
+                  ]
+            },
+            {
+                  "name": "Cosmic",
+                  "text": "A Cosmic egy népszerű szabadidőközpont Joensuuban, amely tekézést és egyéb tevékenységeket kínál. Ideális hely a szórakozáshoz és a társasági élethez a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.765156,
+                        62.603747
+                  ]
+            },
+            {
+                  "name": "Taito galleria",
+                  "text": "A joensuui Taito Galleria kiváló minőségű finn kézműves alkotásokat mutat be. A látogatók időszaki kiállításokat tekinthetnek meg és helyi kézműves termékeket vásárolhatnak.",
+                  "category": "museum",
+                  "coords": [
+                        29.763036,
+                        62.59931
+                  ]
+            },
+            {
+                  "name": "Kankaanrinnan huvila",
+                  "text": "A joensuui Kankaanrinta-villa romjai egy történelmi épület maradványai. A helyszín érdekes betekintést nyújt a régió helyi építészettörténetébe.",
+                  "category": "historical",
+                  "coords": [
+                        29.720134,
+                        62.599502
+                  ]
+            },
+            {
+                  "name": "Puolesta Heimon ja Isänmaan 1939-1945",
+                  "text": "Ez a joensuui emlékmű az 1939-1945 közötti évek áldozatainak lett szentelve. A nemzetért és a hazáért tett erőfeszítések előtt tiszteleg, és jelentős emlékhely.",
+                  "category": "historical",
+                  "coords": [
+                        29.76902,
+                        62.607626
+                  ]
+            },
+            {
+                  "name": "Joensuun Vapaaseurakunta",
+                  "text": "Joensuu szabadegyháza az imádság és a közösség helyszíne a városközpontban. Rendszeres istentiszteleteket és különféle közösségi tevékenységeket kínál.",
+                  "category": "religious",
+                  "coords": [
+                        29.761156,
+                        62.611338
+                  ]
+            },
+            {
+                  "name": "Joensuun ev.-lut. kirkko",
+                  "text": "Joensuu evangélikus temploma a városkép meghatározó téglaépülete. A gyülekezet főtemploma és fontos építészeti emlék.",
+                  "category": "religious",
+                  "coords": [
+                        29.753064,
+                        62.594767
+                  ]
+            },
+            {
+                  "name": "Pyhän Nikolaoksen kirkko",
+                  "text": "A joensuui Szent Miklós-templom az ortodox egyházi építészet szép példája. Hagyományos építési módjáról és értékes ikonjairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        29.763375,
+                        62.60614
+                  ]
+            },
+            {
+                  "name": "Pielisensuun kirkko",
+                  "text": "A joensuui Pielisensuu templom egy modern evangélikus imaház jellegzetes építészettel. Vallási központként szolgál a Pielisensuu városrész közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        29.78171,
+                        62.593247
+                  ]
+            },
+            {
+                  "name": "Joensuun helluntaiseurakunta",
+                  "text": "Joensuu pünkösdi temploma helyet biztosít az istentiszteleteknek és a keresztény közösségi munkának. Az épület a helyi pünkösdi mozgalom fontos találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        29.784486,
+                        62.593015
+                  ]
+            },
+            {
+                  "name": "Kauppatori",
+                  "text": "Joensuu piactere a város pezsgő szíve, ahol regionális termékeket kínálnak. A látogatók itt élvezhetik a helyi hangulatot és megkóstolhatják a tipikus specialitásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        29.761955,
+                        62.600694
                   ]
             }
       ],
@@ -18224,6 +18638,213 @@ export const finlandCities: POI[] = [
                         29.773885,
                         62.630579
                   ]
+            },
+            {
+                  "name": "Carelia-sali",
+                  "text": "Sala Carelia din Joensuu este o locație cunoscută pentru concerte și ceremonii academice. Aceasta se află în campusul Universității din Finlanda de Est.",
+                  "category": "cultural",
+                  "coords": [
+                        29.744878,
+                        62.603695
+                  ]
+            },
+            {
+                  "name": "Kaupunginteatteri",
+                  "text": "Teatrul Municipal din Joensuu este găzduit în impresionanta clădire istorică a primăriei. Acesta oferă un program divers de spectacole dramatice și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        29.765195,
+                        62.600035
+                  ]
+            },
+            {
+                  "name": "Laululava",
+                  "text": "Laululava din Joensuu este o scenă mare în aer liber, cunoscută pentru festivalul Ilosaarirock. Aceasta servește drept locație pentru numeroase concerte de vară și evenimente de amploare.",
+                  "category": "cultural",
+                  "coords": [
+                        29.736452,
+                        62.596212
+                  ]
+            },
+            {
+                  "name": "Joensuun taidemuseo",
+                  "text": "Muzeul de Artă din Joensuu prezintă expoziții temporare într-o fostă clădire de școală. Colecția include atât opere finlandeze, cât și comori de artă antică.",
+                  "category": "museum",
+                  "coords": [
+                        29.758439,
+                        62.60134
+                  ]
+            },
+            {
+                  "name": "Vehkalahden uimaranta",
+                  "text": "Plaja Vehkalahti din Joensuu este un loc popular pentru înot și activități recreative de vară. Aceasta oferă facilități bune pentru familii și pentru cei care caută relaxare la lac.",
+                  "category": "recreational",
+                  "coords": [
+                        29.765411,
+                        62.579988
+                  ]
+            },
+            {
+                  "name": "Näyttämö",
+                  "text": "Näyttämö este o locație culturală din Joensuu, care se concentrează pe artele spectacolului. Aici au loc în mod regulat spectacole de teatru și proiecte creative.",
+                  "category": "cultural",
+                  "coords": [
+                        29.755557,
+                        62.601634
+                  ]
+            },
+            {
+                  "name": "Pohjois-Karjalan kansanteatteri Pokka",
+                  "text": "Teatrul Popular Pokka din Karelia de Nord oferă producții teatrale locale în Joensuu. Este o parte importantă a scenei culturale regionale și promovează teatrul comunitar.",
+                  "category": "cultural",
+                  "coords": [
+                        29.764744,
+                        62.605635
+                  ]
+            },
+            {
+                  "name": "Linnunlahden uimaranta",
+                  "text": "Plaja Linnunlahti se află în apropierea campingului din Joensuu, pe malul lacului. Este un loc apreciat pentru activități în aer liber și pentru scăldatul relaxant de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        29.738602,
+                        62.594715
+                  ]
+            },
+            {
+                  "name": "Ilosaaren uimaranta",
+                  "text": "Plaja Ilosaari este situată pe o mică insulă în centrul orașului Joensuu. Este ușor accesibilă și oferă un cadru plăcut pentru o răcorire rapidă.",
+                  "category": "recreational",
+                  "coords": [
+                        29.770286,
+                        62.598907
+                  ]
+            },
+            {
+                  "name": "Vapaudenpuisto",
+                  "text": "Vapaudenpuisto (Parcul Libertății) este un spațiu verde central în Joensuu. Acesta servește ca loc de liniște și găzduiește diverse monumente în inima orașului.",
+                  "category": "park",
+                  "coords": [
+                        29.763867,
+                        62.600252
+                  ]
+            },
+            {
+                  "name": "Pakkahuone",
+                  "text": "Pakkahuone din Joensuu este un centru cultural situat într-o clădire istorică a vămilor. Este cunoscut pentru expozițiile de artizanat și diversele evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        29.762097,
+                        62.596608
+                  ]
+            },
+            {
+                  "name": "Tiedepuisto",
+                  "text": "Tiedepuisto din Joensuu este un centru de inovare și parc științific. Acesta găzduiește numeroase companii tehnologice și promovează colaborarea științifică.",
+                  "category": "landmark",
+                  "coords": [
+                        29.743348,
+                        62.598076
+                  ]
+            },
+            {
+                  "name": "Punaisten hautamuistomerkki",
+                  "text": "Acest monument din Joensuu este dedicat membrilor Gărzii Roșii căzuți în luptă. Se află la un loc de mormânt istoric și servește pentru comemorare.",
+                  "category": "historical",
+                  "coords": [
+                        29.727935,
+                        62.612784
+                  ]
+            },
+            {
+                  "name": "Cosmic",
+                  "text": "Cosmic este un centru de agrement popular din Joensuu, care oferă bowling și alte activități. Este un loc ideal pentru divertisment și momente de socializare în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        29.765156,
+                        62.603747
+                  ]
+            },
+            {
+                  "name": "Taito galleria",
+                  "text": "Galeria Taito din Joensuu prezintă artizanat finlandez de înaltă calitate. Vizitatorii pot vedea aici expoziții temporare și pot achiziționa produse meșteșugărești locale.",
+                  "category": "museum",
+                  "coords": [
+                        29.763036,
+                        62.59931
+                  ]
+            },
+            {
+                  "name": "Kankaanrinnan huvila",
+                  "text": "Ruinele vilei Kankaanrinta din Joensuu sunt vestigiile unei clădiri istorice. Locul oferă o perspectivă interesantă asupra istoriei arhitecturale locale a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        29.720134,
+                        62.599502
+                  ]
+            },
+            {
+                  "name": "Puolesta Heimon ja Isänmaan 1939-1945",
+                  "text": "Acest monument din Joensuu este dedicat victimelor din anii 1939-1945. Acesta onorează eforturile pentru neam și patrie și este un loc important de comemorare.",
+                  "category": "historical",
+                  "coords": [
+                        29.76902,
+                        62.607626
+                  ]
+            },
+            {
+                  "name": "Joensuun Vapaaseurakunta",
+                  "text": "Biserica Liberă din Joensuu este un loc de rugăciune și comunitate în centrul orașului. Aceasta oferă servicii religioase regulate și diverse activități sociale.",
+                  "category": "religious",
+                  "coords": [
+                        29.761156,
+                        62.611338
+                  ]
+            },
+            {
+                  "name": "Joensuun ev.-lut. kirkko",
+                  "text": "Biserica evanghelică-luterană din Joensuu este o clădire de cărămidă proeminentă în peisajul urban. Este lăcașul principal de cult al parohiei și un monument arhitectural important.",
+                  "category": "religious",
+                  "coords": [
+                        29.753064,
+                        62.594767
+                  ]
+            },
+            {
+                  "name": "Pyhän Nikolaoksen kirkko",
+                  "text": "Biserica Sfântul Nicolae din Joensuu este un exemplu frumos de arhitectură sacră ortodoxă. Este cunoscută pentru construcția sa tradițională și icoanele sale valoroase.",
+                  "category": "religious",
+                  "coords": [
+                        29.763375,
+                        62.60614
+                  ]
+            },
+            {
+                  "name": "Pielisensuun kirkko",
+                  "text": "Biserica Pielisensuu din Joensuu este un lăcaș de cult luteran modern, cu o arhitectură distinctivă. Aceasta servește drept centru religios pentru comunitatea din districtul Pielisensuu.",
+                  "category": "religious",
+                  "coords": [
+                        29.78171,
+                        62.593247
+                  ]
+            },
+            {
+                  "name": "Joensuun helluntaiseurakunta",
+                  "text": "Biserica Penticostală din Joensuu oferă spațiu pentru slujbe și activități comunitare creștine. Clădirea este un punct de întâlnire important pentru mișcarea penticostală locală.",
+                  "category": "religious",
+                  "coords": [
+                        29.784486,
+                        62.593015
+                  ]
+            },
+            {
+                  "name": "Kauppatori",
+                  "text": "Piața Centrală din Joensuu este inima vibrantă a orașului, unde sunt oferite produse regionale. Vizitatorii se pot bucura aici de atmosfera locală și pot gusta specialități tipice.",
+                  "category": "cultural",
+                  "coords": [
+                        29.761955,
+                        62.600694
+                  ]
             }
       ],
       "en": [
@@ -18369,6 +18990,213 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.773885,
                         62.630579
+                  ]
+            },
+            {
+                  "name": "Carelia-sali",
+                  "text": "The Carelia Hall in Joensuu is a well-known venue for concerts and academic ceremonies. It is located on the campus of the University of Eastern Finland.",
+                  "category": "cultural",
+                  "coords": [
+                        29.744878,
+                        62.603695
+                  ]
+            },
+            {
+                  "name": "Kaupunginteatteri",
+                  "text": "The Joensuu City Theatre is housed in the impressive historic City Hall building. It offers a diverse program of dramatic performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        29.765195,
+                        62.600035
+                  ]
+            },
+            {
+                  "name": "Laululava",
+                  "text": "The Laululava in Joensuu is a large outdoor stage famous for hosting the Ilosaarirock festival. It serves as a venue for numerous summer concerts and major public events.",
+                  "category": "cultural",
+                  "coords": [
+                        29.736452,
+                        62.596212
+                  ]
+            },
+            {
+                  "name": "Joensuun taidemuseo",
+                  "text": "The Joensuu Art Museum presents changing exhibitions in a former school building. The collection includes both Finnish works and ancient art treasures.",
+                  "category": "museum",
+                  "coords": [
+                        29.758439,
+                        62.60134
+                  ]
+            },
+            {
+                  "name": "Vehkalahden uimaranta",
+                  "text": "Vehkalahti beach in Joensuu is a popular spot for swimming and summer leisure activities. It offers good facilities for families and those seeking relaxation by the lake.",
+                  "category": "recreational",
+                  "coords": [
+                        29.765411,
+                        62.579988
+                  ]
+            },
+            {
+                  "name": "Näyttämö",
+                  "text": "Näyttämö is a cultural venue in Joensuu that focuses on performing arts. It regularly hosts theatrical performances and various creative projects.",
+                  "category": "cultural",
+                  "coords": [
+                        29.755557,
+                        62.601634
+                  ]
+            },
+            {
+                  "name": "Pohjois-Karjalan kansanteatteri Pokka",
+                  "text": "The Pokka Folk Theatre of North Karelia offers local theatrical productions in Joensuu. It is an important part of the regional cultural scene and promotes community theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        29.764744,
+                        62.605635
+                  ]
+            },
+            {
+                  "name": "Linnunlahden uimaranta",
+                  "text": "Linnunlahti beach is located near the Joensuu camping site on the lakeshore. It is a valued spot for outdoor activities and relaxed summer swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        29.738602,
+                        62.594715
+                  ]
+            },
+            {
+                  "name": "Ilosaaren uimaranta",
+                  "text": "Ilosaari beach is situated on a small island in the city center of Joensuu. It is easily accessible and provides a nice environment for a quick cool-down.",
+                  "category": "recreational",
+                  "coords": [
+                        29.770286,
+                        62.598907
+                  ]
+            },
+            {
+                  "name": "Vapaudenpuisto",
+                  "text": "Vapaudenpuisto (Freedom Park) is a central green space in Joensuu. It serves as a place of tranquility and houses several monuments in the heart of the city.",
+                  "category": "park",
+                  "coords": [
+                        29.763867,
+                        62.600252
+                  ]
+            },
+            {
+                  "name": "Pakkahuone",
+                  "text": "Pakkahuone in Joensuu is a cultural center located in a historic customs building. It is known for handicraft exhibitions and various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        29.762097,
+                        62.596608
+                  ]
+            },
+            {
+                  "name": "Tiedepuisto",
+                  "text": "Tiedepuisto in Joensuu is an innovation center and science park. It houses numerous technology companies and promotes scientific collaboration.",
+                  "category": "landmark",
+                  "coords": [
+                        29.743348,
+                        62.598076
+                  ]
+            },
+            {
+                  "name": "Punaisten hautamuistomerkki",
+                  "text": "This monument in Joensuu commemorates the fallen members of the Red Guard. It is located at a historical burial site and serves for respectful remembrance.",
+                  "category": "historical",
+                  "coords": [
+                        29.727935,
+                        62.612784
+                  ]
+            },
+            {
+                  "name": "Cosmic",
+                  "text": "Cosmic is a popular leisure center in Joensuu offering bowling and other activities. It is an ideal spot for entertainment and social gatherings in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        29.765156,
+                        62.603747
+                  ]
+            },
+            {
+                  "name": "Taito galleria",
+                  "text": "Taito Galleria in Joensuu presents high-quality Finnish handicrafts. Visitors can see changing exhibitions and purchase local craft products here.",
+                  "category": "museum",
+                  "coords": [
+                        29.763036,
+                        62.59931
+                  ]
+            },
+            {
+                  "name": "Kankaanrinnan huvila",
+                  "text": "The ruins of Kankaanrinta villa in Joensuu are the remains of a historic building. The site offers an interesting insight into the local architectural history of the region.",
+                  "category": "historical",
+                  "coords": [
+                        29.720134,
+                        62.599502
+                  ]
+            },
+            {
+                  "name": "Puolesta Heimon ja Isänmaan 1939-1945",
+                  "text": "This monument in Joensuu is dedicated to the victims of the years 1939-1945. It honors the efforts for kin and fatherland and is a significant place of remembrance.",
+                  "category": "historical",
+                  "coords": [
+                        29.76902,
+                        62.607626
+                  ]
+            },
+            {
+                  "name": "Joensuun Vapaaseurakunta",
+                  "text": "The Joensuu Free Church is a place of prayer and community in the city center. It offers regular religious services and various social activities.",
+                  "category": "religious",
+                  "coords": [
+                        29.761156,
+                        62.611338
+                  ]
+            },
+            {
+                  "name": "Joensuun ev.-lut. kirkko",
+                  "text": "The Joensuu Evangelical Lutheran Church is a prominent brick building in the cityscape. It is the main place of worship for the parish and an important architectural landmark.",
+                  "category": "religious",
+                  "coords": [
+                        29.753064,
+                        62.594767
+                  ]
+            },
+            {
+                  "name": "Pyhän Nikolaoksen kirkko",
+                  "text": "St. Nicholas Church in Joensuu is a beautiful example of Orthodox sacred architecture. It is known for its traditional construction and valuable icons.",
+                  "category": "religious",
+                  "coords": [
+                        29.763375,
+                        62.60614
+                  ]
+            },
+            {
+                  "name": "Pielisensuun kirkko",
+                  "text": "Pielisensuu Church in Joensuu is a modern Lutheran place of worship with distinctive architecture. It serves as a religious center for the community in the Pielisensuu district.",
+                  "category": "religious",
+                  "coords": [
+                        29.78171,
+                        62.593247
+                  ]
+            },
+            {
+                  "name": "Joensuun helluntaiseurakunta",
+                  "text": "The Joensuu Pentecostal Church provides space for worship and Christian community work. The building is an important meeting point for the local Pentecostal movement.",
+                  "category": "religious",
+                  "coords": [
+                        29.784486,
+                        62.593015
+                  ]
+            },
+            {
+                  "name": "Market Square",
+                  "text": "The Market Square in Joensuu is the vibrant heart of the city, where regional products are offered. Visitors can enjoy the local atmosphere and taste typical specialties here.",
+                  "category": "cultural",
+                  "coords": [
+                        29.761955,
+                        62.600694
                   ]
             }
       ]
@@ -28304,7 +29132,916 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-rauma",
+    id: "city-rauma", "sights": {
+      "de": [
+            {
+                  "name": "Marela",
+                  "text": "Marela ist ein prachtvolles Hausmuseum in der Altstadt von Rauma, das das Leben einer Reedersfamilie zeigt. Die prunkvolle Innenausstattung spiegelt den Reichtum der Seefahrtsgeschichte wider.",
+                  "category": "museum",
+                  "coords": [
+                        21.515085,
+                        61.128016
+                  ]
+            },
+            {
+                  "name": "Kirsti",
+                  "text": "Das Kirsti-Museum in Rauma veranschaulicht das Leben von Handwerkern und Seeleuten in vergangenen Jahrhunderten. Es besteht aus einem Ensemble historischer Holzgebäude in der Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        21.515688,
+                        61.129186
+                  ]
+            },
+            {
+                  "name": "Lönnströmin Kotimuseo",
+                  "text": "Das Lönnström-Heimmuseum in Rauma präsentiert die Kunstsammlung und das elegante Zuhause einer Industriellenfamilie. Besucher können hier feines Interieur und wertvolle Gemälde bewundern.",
+                  "category": "museum",
+                  "coords": [
+                        21.486475,
+                        61.141111
+                  ]
+            },
+            {
+                  "name": "Bergströmin uimaranta",
+                  "text": "Der Strand Bergström ist ein lokaler Badeort in der Küstenstadt Rauma. Er bietet eine schöne Gelegenheit für eine Erfrischung in der Ostsee während der Sommermonate.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530572,
+                        61.11417
+                  ]
+            },
+            {
+                  "name": "Rauman teatteri",
+                  "text": "Das Stadttheater von Rauma ist ein wichtiges Kulturzentrum, das ein breites Spektrum an Aufführungen bietet. Es bereichert das kulturelle Leben der UNESCO-Welterbestadt mit modernem Drama.",
+                  "category": "cultural",
+                  "coords": [
+                        21.503616,
+                        61.126757
+                  ]
+            },
+            {
+                  "name": "Savenvalajan verstas",
+                  "text": "Die Töpferwerkstatt in Rauma ist ein Museum, das das traditionelle Handwerk der Region bewahrt. Besucher können die historische Arbeitsumgebung und alte Keramikwaren besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        21.51764,
+                        61.124087
+                  ]
+            },
+            {
+                  "name": "Rathaus Rauma",
+                  "text": "Das alte Rathaus von Rauma beherbergt heute ein Museum zur Stadtgeschichte und Spitzenklöppelei. Das barocke Gebäude ist ein zentrales Wahrzeichen in der historischen Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        21.511234,
+                        61.12793
+                  ]
+            },
+            {
+                  "name": "Rauman lainamakasiini",
+                  "text": "Das Leihmagazin von Rauma dient heute als Museumsgebäude für verschiedene Ausstellungen. Es zeugt von der früheren Bedeutung der Vorratshaltung in der alten Hafenstadt.",
+                  "category": "museum",
+                  "coords": [
+                        21.552198,
+                        61.130662
+                  ]
+            },
+            {
+                  "name": "Saharanta",
+                  "text": "Saharanta ist ein Strandbereich in Rauma, der zur Erholung am Meer einlädt. Er ist ein beliebter Treffpunkt für Naturfreunde und Badegäste an warmen Sommertagen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.472123,
+                        61.142874
+                  ]
+            },
+            {
+                  "name": "Rauman merimuseo",
+                  "text": "Das Schifffahrtsmuseum von Rauma befindet sich in einer ehemaligen Seefahrtsschule. Es präsentiert umfangreiche Sammlungen zur maritimen Tradition und Geschichte der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        21.494564,
+                        61.128679
+                  ]
+            },
+            {
+                  "name": "Vapaudenpatsas",
+                  "text": "Die Freiheitsstatue von Rauma ist ein Denkmal im öffentlichen Raum der Stadt. Sie dient als Ort des Gedenkens und ist ein historisches Symbol im Stadtbild.",
+                  "category": "historical",
+                  "coords": [
+                        21.501859,
+                        61.130624
+                  ]
+            },
+            {
+                  "name": "Rauman vesitorni",
+                  "text": "Der Wasserturm von Rauma dient als Aussichtspunkt über die Stadt. Besucher können von oben den Blick auf das historische Zentrum genießen.",
+                  "category": "natural",
+                  "coords": [
+                        21.518318,
+                        61.122002
+                  ]
+            },
+            {
+                  "name": "Hauenguanon kaivo",
+                  "text": "Der Hauenguano-Brunnen ist eine historische Sehenswürdigkeit in Rauma. Er erinnert an die Wasserversorgung der Bewohner in früheren Zeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        21.517249,
+                        61.128325
+                  ]
+            },
+            {
+                  "name": "Museonosturit",
+                  "text": "Die Museonosturit sind historische Museumskräne im Hafenbereich von Rauma. Sie veranschaulichen die maritime Industriegeschichte der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.470502,
+                        61.12533
+                  ]
+            },
+            {
+                  "name": "Hiidenkirnu",
+                  "text": "Dieser Hiidenkirnu ist ein geologisches Naturdenkmal in der Nähe von Rauma. Die Gletschermühle entstand während der letzten Eiszeit durch Schmelzwasser.",
+                  "category": "landmark",
+                  "coords": [
+                        21.511574,
+                        61.111804
+                  ]
+            },
+            {
+                  "name": "Susivuori",
+                  "text": "Der Susivuori ist ein Aussichtspunkt in Rauma, der Wanderern weite Ausblicke bietet. Der Hügel ist ein beliebtes Ziel für Naturfreunde in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        21.540627,
+                        61.141057
+                  ]
+            },
+            {
+                  "name": "Rauman partiotalo",
+                  "text": "Das Rauman partiotalo ist ein lokales Gebäude, das für die Pfadfinderarbeit genutzt wird. Es dient als Treffpunkt für verschiedene Freizeitaktivitäten in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.507759,
+                        61.124718
+                  ]
+            },
+            {
+                  "name": "Rauma Flikk",
+                  "text": "Rauma Flikk ist eine bekannte Statue, die ein Mädchen in der Stadt Rauma darstellt. Das Denkmal ist ein beliebtes Fotomotiv für Besucher des Zentrums.",
+                  "category": "landmark",
+                  "coords": [
+                        21.508777,
+                        61.128907
+                  ]
+            },
+            {
+                  "name": "Rauman kuvataidekoulu",
+                  "text": "Die Rauman kuvataidekoulu ist eine Kunstschule für visuelle Gestaltung in Rauma. Hier werden Kurse und Ausstellungen für kunstinteressierte Bürger angeboten.",
+                  "category": "cultural",
+                  "coords": [
+                        21.502295,
+                        61.129192
+                  ]
+            },
+            {
+                  "name": "Vanha Kansalaisopisto",
+                  "text": "Das Vanha Kansalaisopisto ist ein historisches Gebäude der Volkshochschule in Rauma. Es ist ein zentraler Ort für Bildung und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.512061,
+                        61.129141
+                  ]
+            },
+            {
+                  "name": "Pyhän Kolminaisuuden kirkon rauniot",
+                  "text": "Die Ruinen der Dreifaltigkeitskirche zeugen von einem mittelalterlichen Gotteshaus in Rauma. Die Überreste können im historischen Stadtgebiet besichtigt werden.",
+                  "category": "historical",
+                  "coords": [
+                        21.51621,
+                        61.126906
+                  ]
+            },
+            {
+                  "name": "Seminaarinmäen tuulimylly",
+                  "text": "Die Seminaarinmäen tuulimylly ist eine traditionelle Windmühle auf dem Seminarhügel in Rauma. Sie ist ein markantes Denkmal der ländlichen Architektur der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.497388,
+                        61.131255
+                  ]
+            },
+            {
+                  "name": "Rauman Avainseurakunta",
+                  "text": "Die Rauman Avainseurakunta ist eine christliche Gemeinde mit eigenem Versammlungsort in Rauma. Die Kirche bietet regelmäßige Gottesdienste und religiöse Treffen an.",
+                  "category": "religious",
+                  "coords": [
+                        21.518424,
+                        61.123087
+                  ]
+            },
+            {
+                  "name": "Rauman Vapaaseurakunta",
+                  "text": "Die Rauman Vapaaseurakunta ist eine Freikirche, die im Zentrum von Rauma ansässig ist. Das Gebäude dient der Gemeinde als Raum für Gebet und Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        21.500677,
+                        61.132641
+                  ]
+            },
+            {
+                  "name": "Museoveturi",
+                  "text": "Diese alte Dampflokomotive ist ein technisches Denkmal im Stadtgebiet von Rauma. Sie erinnert an die bedeutende Eisenbahngeschichte der finnischen Region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.497043,
+                        61.132794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marela",
+                  "text": "A Marela egy pompás házmúzeum Rauma óvárosában, amely egy hajótulajdonos család életét mutatja be. A fényűző belső berendezés a tengerészeti múlt gazdagságát tükrözi.",
+                  "category": "museum",
+                  "coords": [
+                        21.515085,
+                        61.128016
+                  ]
+            },
+            {
+                  "name": "Kirsti",
+                  "text": "A raumai Kirsti múzeum a kézművesek és tengerészek életét szemlélteti az elmúlt évszázadokban. Történelmi faépületek együtteséből áll az óvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        21.515688,
+                        61.129186
+                  ]
+            },
+            {
+                  "name": "Lönnströmin Kotimuseo",
+                  "text": "A raumai Lönnström-lakásmúzeum egy iparoscsalád művészeti gyűjteményét és elegáns otthonát mutatja be. A látogatók finom belső tereket és értékes festményeket csodálhatnak meg itt.",
+                  "category": "museum",
+                  "coords": [
+                        21.486475,
+                        61.141111
+                  ]
+            },
+            {
+                  "name": "Bergströmin uimaranta",
+                  "text": "A Bergström strand egy helyi fürdőzőhely Rauma tengerparti városában. Szép lehetőséget nyújt egy frissítő csobbanásra a Balti-tengerben a nyári hónapok alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530572,
+                        61.11417
+                  ]
+            },
+            {
+                  "name": "Rauman teatteri",
+                  "text": "Rauma városi színháza fontos kulturális központ, amely előadások széles skáláját kínálja. Modern drámákkal gazdagítja az UNESCO világörökségi város kulturális életét.",
+                  "category": "cultural",
+                  "coords": [
+                        21.503616,
+                        61.126757
+                  ]
+            },
+            {
+                  "name": "Savenvalajan verstas",
+                  "text": "A raumai fazekasműhely egy olyan múzeum, amely a régió hagyományos mesterségét őrzi. A látogatók megtekinthetik a történelmi munkakörnyezetet és a régi kerámiákat.",
+                  "category": "museum",
+                  "coords": [
+                        21.51764,
+                        61.124087
+                  ]
+            },
+            {
+                  "name": "Rauman raatihuone",
+                  "text": "Rauma régi városháza ma várostörténeti és csipkeverő múzeumnak ad otthont. A barokk épület a történelmi óváros központi jelképe.",
+                  "category": "museum",
+                  "coords": [
+                        21.511234,
+                        61.12793
+                  ]
+            },
+            {
+                  "name": "Rauman lainamakasiini",
+                  "text": "A raumai magtár ma múzeumi épületként szolgál különféle kiállítások számára. A régi kikötőváros korábbi élelmiszer-tartalékolási jelentőségéről tanúskodik.",
+                  "category": "museum",
+                  "coords": [
+                        21.552198,
+                        61.130662
+                  ]
+            },
+            {
+                  "name": "Saharanta",
+                  "text": "Saharanta egy tengerparti rész Raumában, amely pihenésre hív a tenger mellett. Népszerű találkozóhely a természetbarátok és a fürdőzők számára a meleg nyári napokon.",
+                  "category": "recreational",
+                  "coords": [
+                        21.472123,
+                        61.142874
+                  ]
+            },
+            {
+                  "name": "Rauman merimuseo",
+                  "text": "A raumai tengerészeti múzeum egy egykori hajózási iskola épületében található. Gazdag gyűjteményt mutat be a város tengerészeti hagyományairól és történelméről.",
+                  "category": "museum",
+                  "coords": [
+                        21.494564,
+                        61.128679
+                  ]
+            },
+            {
+                  "name": "Vapaudenpatsas",
+                  "text": "A raumai szabadságszobor a város közterületén álló emlékmű. Emlékhelyként szolgál, és a városkép egyik történelmi szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        21.501859,
+                        61.130624
+                  ]
+            },
+            {
+                  "name": "Rauman vesitorni",
+                  "text": "A raumai víztorony kilátóként is üzemel, ahonnan belátni az egész várost. A látogatók a magasból megcsodálhatják a történelmi központot.",
+                  "category": "natural",
+                  "coords": [
+                        21.518318,
+                        61.122002
+                  ]
+            },
+            {
+                  "name": "Hauenguanon kaivo",
+                  "text": "A Hauenguano-kút egy történelmi nevezetesség Rauma városában. Az építmény a lakók korábbi vízellátásának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        21.517249,
+                        61.128325
+                  ]
+            },
+            {
+                  "name": "Museonosturit",
+                  "text": "A Museonosturit régi múzeumi daruk Rauma kikötői negyedében. A szerkezetek a régió tengeri ipartörténetét mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        21.470502,
+                        61.12533
+                  ]
+            },
+            {
+                  "name": "Hiidenkirnu",
+                  "text": "Ez a Hiidenkirnu egy geológiai természeti emlék Rauma közelében. Az óriásüstöt az utolsó jégkorszak olvadékvize hozta létre.",
+                  "category": "landmark",
+                  "coords": [
+                        21.511574,
+                        61.111804
+                  ]
+            },
+            {
+                  "name": "Susivuori",
+                  "text": "A Susivuori egy kilátóhely Raumában, amely tágas panorámát kínál a túrázóknak. A domb a környékbeli természetjárók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        21.540627,
+                        61.141057
+                  ]
+            },
+            {
+                  "name": "Rauman partiotalo",
+                  "text": "A Rauman partiotalo egy helyi épület, amelyet a cserkésztevékenységekhez használnak. Az ingatlan különböző szabadidős programok találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        21.507759,
+                        61.124718
+                  ]
+            },
+            {
+                  "name": "Rauma Flikk",
+                  "text": "A Rauma Flikk egy ismert szobor, amely egy lányt ábrázol Rauma városában. Az emlékmű a városközpontba látogatók kedvelt fotótémája.",
+                  "category": "landmark",
+                  "coords": [
+                        21.508777,
+                        61.128907
+                  ]
+            },
+            {
+                  "name": "Rauman kuvataidekoulu",
+                  "text": "A Rauman kuvataidekoulu egy vizuális művészeti iskola Rauma városában. Az intézmény kurzusokat és kiállításokat kínál a művészetkedvelő polgároknak.",
+                  "category": "cultural",
+                  "coords": [
+                        21.502295,
+                        61.129192
+                  ]
+            },
+            {
+                  "name": "Vanha Kansalaisopisto",
+                  "text": "A Vanha Kansalaisopisto a népfőiskola történelmi épülete Rauma városában. Az építmény az oktatás és a kulturális események központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        21.512061,
+                        61.129141
+                  ]
+            },
+            {
+                  "name": "Pyhän Kolminaisuuden kirkon rauniot",
+                  "text": "A Szentháromság-templom romjai egy középkori istenháza emlékét őrzik Raumában. A maradványok a város történelmi területén tekinthetők meg.",
+                  "category": "historical",
+                  "coords": [
+                        21.51621,
+                        61.126906
+                  ]
+            },
+            {
+                  "name": "Seminaarinmäen tuulimylly",
+                  "text": "A Seminaarinmäen tuulimylly egy hagyományos szélmalom a raumai Szeminárium-dombon. Az építmény a régió vidéki építészetének jellegzetes emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        21.497388,
+                        61.131255
+                  ]
+            },
+            {
+                  "name": "Rauman Avainseurakunta",
+                  "text": "A Rauman Avainseurakunta egy keresztény gyülekezet saját találkozóhellyel Rauma városában. A templom rendszeres istentiszteleteket és vallási alkalmakat tart.",
+                  "category": "religious",
+                  "coords": [
+                        21.518424,
+                        61.123087
+                  ]
+            },
+            {
+                  "name": "Rauman Vapaaseurakunta",
+                  "text": "A Rauman Vapaaseurakunta egy szabadegyház, amely Rauma központjában működik. Az épület a gyülekezet imádságainak és közösségi életének ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        21.500677,
+                        61.132641
+                  ]
+            },
+            {
+                  "name": "Museoveturi",
+                  "text": "Ez a régi gőzmozdony egy műszaki emlék Rauma városterületén. A gép a finn régió jelentős vasúttörténetére emlékezteti a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        21.497043,
+                        61.132794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marela",
+                  "text": "Marela este o casă-muzeu splendidă din orașul vechi Rauma, care prezintă viața unei familii de armatori. Interioarele somptuoase reflectă bogăția istoriei maritime.",
+                  "category": "museum",
+                  "coords": [
+                        21.515085,
+                        61.128016
+                  ]
+            },
+            {
+                  "name": "Kirsti",
+                  "text": "Muzeul Kirsti din Rauma ilustrează viața meșteșugarilor și a marinarilor din secolele trecute. Acesta constă într-un ansamblu de clădiri istorice de lemn din orașul vechi.",
+                  "category": "museum",
+                  "coords": [
+                        21.515688,
+                        61.129186
+                  ]
+            },
+            {
+                  "name": "Lönnströmin Kotimuseo",
+                  "text": "Muzeul Casei Lönnström din Rauma prezintă colecția de artă și locuința elegantă a unei familii de industriasi. Vizitatorii pot admira aici interioare fine și picturi valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        21.486475,
+                        61.141111
+                  ]
+            },
+            {
+                  "name": "Bergströmin uimaranta",
+                  "text": "Plaja Bergström este un loc local de scăldat în orașul de coastă Rauma. Aceasta oferă o ocazie frumoasă pentru o răcorire în Marea Baltică în timpul lunilor de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530572,
+                        61.11417
+                  ]
+            },
+            {
+                  "name": "Rauman teatteri",
+                  "text": "Teatrul Municipal din Rauma este un centru cultural important care oferă o gamă largă de spectacole. Acesta îmbogățește viața culturală a orașului aflat în patrimoniul UNESCO.",
+                  "category": "cultural",
+                  "coords": [
+                        21.503616,
+                        61.126757
+                  ]
+            },
+            {
+                  "name": "Savenvalajan verstas",
+                  "text": "Atelierul olarului din Rauma este un muzeu care păstrează meșteșugul tradițional al regiunii. Vizitatorii pot vedea mediul de lucru istoric și obiecte vechi din ceramică.",
+                  "category": "museum",
+                  "coords": [
+                        21.51764,
+                        61.124087
+                  ]
+            },
+            {
+                  "name": "Rauman raatihuone",
+                  "text": "Vechea Primărie din Rauma găzduiește astăzi un muzeu de istorie a orașului și de dantelărie. Clădirea barocă este un simbol central în orașul vechi istoric.",
+                  "category": "museum",
+                  "coords": [
+                        21.511234,
+                        61.12793
+                  ]
+            },
+            {
+                  "name": "Rauman lainamakasiini",
+                  "text": "Magazia din Rauma servește astăzi ca clădire muzeală pentru diverse expoziții. Aceasta atestă importanța de odinioară a stocării de cereale în vechiul oraș portuar.",
+                  "category": "museum",
+                  "coords": [
+                        21.552198,
+                        61.130662
+                  ]
+            },
+            {
+                  "name": "Saharanta",
+                  "text": "Saharanta este o zonă de plajă din Rauma care invită la relaxare lângă mare. Este un loc popular de întâlnire pentru iubitorii de natură și înotători în zilele calde de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        21.472123,
+                        61.142874
+                  ]
+            },
+            {
+                  "name": "Rauman merimuseo",
+                  "text": "Muzeul Maritim din Rauma se află în clădirea unei foste școli de navigație. Aceasta prezintă colecții extinse despre tradiția și istoria maritimă a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        21.494564,
+                        61.128679
+                  ]
+            },
+            {
+                  "name": "Vapaudenpatsas",
+                  "text": "Statuia Libertății din Rauma este un monument situat într-un spațiu public din oraș. Aceasta servește ca loc de comemorare și este un simbol istoric în peisajul urban.",
+                  "category": "historical",
+                  "coords": [
+                        21.501859,
+                        61.130624
+                  ]
+            },
+            {
+                  "name": "Rauman vesitorni",
+                  "text": "Turnul de apă din Rauma funcționează ca punct de observație asupra orașului. Vizitatorii se pot bucura de o vedere panoramică asupra centrului istoric.",
+                  "category": "natural",
+                  "coords": [
+                        21.518318,
+                        61.122002
+                  ]
+            },
+            {
+                  "name": "Hauenguanon kaivo",
+                  "text": "Fântâna Hauenguano este un obiectiv istoric situat în orașul Rauma. Aceasta amintește de modul de alimentare cu apă al locuitorilor în trecut.",
+                  "category": "landmark",
+                  "coords": [
+                        21.517249,
+                        61.128325
+                  ]
+            },
+            {
+                  "name": "Museonosturit",
+                  "text": "Museonosturit sunt macarale istorice de muzeu situate în zona portuară din Rauma. Acestea ilustrează istoria industrială maritimă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        21.470502,
+                        61.12533
+                  ]
+            },
+            {
+                  "name": "Hiidenkirnu",
+                  "text": "Acest Hiidenkirnu este un monument natural geologic situat lângă Rauma. Marmita glaciară a fost formată de apele de topire în timpul ultimei ere glaciare.",
+                  "category": "landmark",
+                  "coords": [
+                        21.511574,
+                        61.111804
+                  ]
+            },
+            {
+                  "name": "Susivuori",
+                  "text": "Susivuori este un punct de observație din Rauma care oferă drumeților vederi largi. Dealul este o destinație populară pentru iubitorii de natură din zonă.",
+                  "category": "natural",
+                  "coords": [
+                        21.540627,
+                        61.141057
+                  ]
+            },
+            {
+                  "name": "Rauman partiotalo",
+                  "text": "Rauman partiotalo este o clădire locală utilizată pentru activitățile cercetașilor. Servește ca punct de întâlnire pentru diverse activități recreative din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        21.507759,
+                        61.124718
+                  ]
+            },
+            {
+                  "name": "Rauma Flikk",
+                  "text": "Rauma Flikk este o statuie cunoscută care reprezintă o fată în orașul Rauma. Monumentul este un loc popular pentru fotografii în rândul vizitatorilor centrului.",
+                  "category": "landmark",
+                  "coords": [
+                        21.508777,
+                        61.128907
+                  ]
+            },
+            {
+                  "name": "Rauman kuvataidekoulu",
+                  "text": "Rauman kuvataidekoulu este o școală de arte vizuale situată în Rauma. Aici sunt oferite cursuri și expoziții pentru cetățenii interesați de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        21.502295,
+                        61.129192
+                  ]
+            },
+            {
+                  "name": "Vanha Kansalaisopisto",
+                  "text": "Vanha Kansalaisopisto este o clădire istorică a universității populare din Rauma. Este un loc central pentru educație și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        21.512061,
+                        61.129141
+                  ]
+            },
+            {
+                  "name": "Pyhän Kolminaisuuden kirkon rauniot",
+                  "text": "Ruinele Bisericii Sfânta Treime atestă existența unui lăcaș de cult medieval în Rauma. Vestigiile pot fi vizitate în zona istorică a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        21.51621,
+                        61.126906
+                  ]
+            },
+            {
+                  "name": "Seminaarinmäen tuulimylly",
+                  "text": "Seminaarinmäen tuulimylly este o moară de vânt tradițională situată pe dealul Seminarului din Rauma. Este un monument distinctiv al arhitecturii rurale din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        21.497388,
+                        61.131255
+                  ]
+            },
+            {
+                  "name": "Rauman Avainseurakunta",
+                  "text": "Rauman Avainseurakunta este o comunitate creștină cu propriul loc de adunare în Rauma. Biserica oferă servicii religioase regulate și întâlniri spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        21.518424,
+                        61.123087
+                  ]
+            },
+            {
+                  "name": "Rauman Vapaaseurakunta",
+                  "text": "Rauman Vapaaseurakunta este o biserică liberă stabilită în centrul orașului Rauma. Clădirea servește comunității ca spațiu pentru rugăciune și comuniune.",
+                  "category": "religious",
+                  "coords": [
+                        21.500677,
+                        61.132641
+                  ]
+            },
+            {
+                  "name": "Museoveturi",
+                  "text": "Această veche locomotivă cu abur este un monument tehnic aflat în zona urbană din Rauma. Aceasta amintește de istoria feroviară importantă a regiunii finlandeze.",
+                  "category": "landmark",
+                  "coords": [
+                        21.497043,
+                        61.132794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marela",
+                  "text": "Marela is a magnificent house museum in Old Rauma showing the life of a shipowner family. The opulent interior decoration reflects the wealth of maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        21.515085,
+                        61.128016
+                  ]
+            },
+            {
+                  "name": "Kirsti",
+                  "text": "Kirsti museum in Rauma illustrates the life of craftsmen and sailors in past centuries. It consists of an ensemble of historic wooden buildings in the Old Town area.",
+                  "category": "museum",
+                  "coords": [
+                        21.515688,
+                        61.129186
+                  ]
+            },
+            {
+                  "name": "Lönnströmin Kotimuseo",
+                  "text": "Lönnström Home Museum in Rauma presents the art collection and elegant home of an industrialist family. Visitors can admire fine interiors and valuable paintings here.",
+                  "category": "museum",
+                  "coords": [
+                        21.486475,
+                        61.141111
+                  ]
+            },
+            {
+                  "name": "Bergströmin uimaranta",
+                  "text": "Bergström beach is a local swimming spot in the coastal city of Rauma. It offers a nice opportunity for a refreshing dip in the Baltic Sea during the summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530572,
+                        61.11417
+                  ]
+            },
+            {
+                  "name": "Rauma City Theatre",
+                  "text": "Rauma City Theatre is an important cultural center offering a wide range of performances. It enriches the cultural life of the UNESCO World Heritage city with modern drama.",
+                  "category": "cultural",
+                  "coords": [
+                        21.503616,
+                        61.126757
+                  ]
+            },
+            {
+                  "name": "Savenvalajan verstas",
+                  "text": "The potter's workshop in Rauma is a museum that preserves the traditional craft of the region. Visitors can see the historical working environment and old ceramic wares.",
+                  "category": "museum",
+                  "coords": [
+                        21.51764,
+                        61.124087
+                  ]
+            },
+            {
+                  "name": "Rauma Old Town Hall",
+                  "text": "Rauma Old Town Hall now houses a museum of city history and lace-making. The Baroque building is a central landmark in the historic Old Town area.",
+                  "category": "museum",
+                  "coords": [
+                        21.511234,
+                        61.12793
+                  ]
+            },
+            {
+                  "name": "Rauman lainamakasiini",
+                  "text": "The Rauma granary now serves as a museum building for various exhibitions. It testifies to the former importance of grain storage in the old port city.",
+                  "category": "museum",
+                  "coords": [
+                        21.552198,
+                        61.130662
+                  ]
+            },
+            {
+                  "name": "Saharanta",
+                  "text": "Saharanta is a beach area in Rauma that invites relaxation by the sea. It is a popular meeting spot for nature lovers and swimmers on warm summer days.",
+                  "category": "recreational",
+                  "coords": [
+                        21.472123,
+                        61.142874
+                  ]
+            },
+            {
+                  "name": "Rauma Maritime Museum",
+                  "text": "Rauma Maritime Museum is located in a former nautical school building. It presents extensive collections on the city's maritime tradition and history.",
+                  "category": "museum",
+                  "coords": [
+                        21.494564,
+                        61.128679
+                  ]
+            },
+            {
+                  "name": "Rauma Statue of Liberty",
+                  "text": "The Rauma Statue of Liberty is a monument located in a public space in the city. It serves as a place of remembrance and is a historical symbol in the cityscape.",
+                  "category": "historical",
+                  "coords": [
+                        21.501859,
+                        61.130624
+                  ]
+            },
+            {
+                  "name": "Rauman vesitorni",
+                  "text": "The Rauma water tower serves as a viewpoint offering vistas over the city. Visitors can enjoy a bird's-eye view of the historic center from the top.",
+                  "category": "natural",
+                  "coords": [
+                        21.518318,
+                        61.122002
+                  ]
+            },
+            {
+                  "name": "Hauenguano Well",
+                  "text": "Hauenguano Well is a historical landmark located in the city of Rauma. It stands as a reminder of how residents were supplied with water in the past.",
+                  "category": "landmark",
+                  "coords": [
+                        21.517249,
+                        61.128325
+                  ]
+            },
+            {
+                  "name": "Museonosturit",
+                  "text": "The Museonosturit are historical museum cranes located in the port area of Rauma. they illustrate the maritime industrial history of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.470502,
+                        61.12533
+                  ]
+            },
+            {
+                  "name": "Hiidenkirnu",
+                  "text": "This Hiidenkirnu is a geological natural monument located near Rauma. The giant's kettle was formed by meltwater during the last ice age.",
+                  "category": "landmark",
+                  "coords": [
+                        21.511574,
+                        61.111804
+                  ]
+            },
+            {
+                  "name": "Susivuori",
+                  "text": "Susivuori is a viewpoint in Rauma that offers hikers expansive views. The hill is a popular destination for nature enthusiasts in the area.",
+                  "category": "natural",
+                  "coords": [
+                        21.540627,
+                        61.141057
+                  ]
+            },
+            {
+                  "name": "Rauman partiotalo",
+                  "text": "Rauman partiotalo is a local building used for scouting activities. It serves as a meeting point for various recreational activities in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        21.507759,
+                        61.124718
+                  ]
+            },
+            {
+                  "name": "Rauma Flikk",
+                  "text": "Rauma Flikk is a well-known statue depicting a girl in the city of Rauma. The monument is a popular photo spot for visitors to the center.",
+                  "category": "landmark",
+                  "coords": [
+                        21.508777,
+                        61.128907
+                  ]
+            },
+            {
+                  "name": "Rauman kuvataidekoulu",
+                  "text": "Rauman kuvataidekoulu is a visual arts school in Rauma. It offers courses and exhibitions for citizens interested in art.",
+                  "category": "cultural",
+                  "coords": [
+                        21.502295,
+                        61.129192
+                  ]
+            },
+            {
+                  "name": "Vanha Kansalaisopisto",
+                  "text": "Vanha Kansalaisopisto is a historic community college building in Rauma. It is a central location for education and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        21.512061,
+                        61.129141
+                  ]
+            },
+            {
+                  "name": "The Ruins of the Church of the Holy Trinity",
+                  "text": "The ruins of the Church of the Holy Trinity are the remains of a medieval house of worship in Rauma. The site can be visited in the historic town area.",
+                  "category": "historical",
+                  "coords": [
+                        21.51621,
+                        61.126906
+                  ]
+            },
+            {
+                  "name": "Seminaarinmäen tuulimylly",
+                  "text": "Seminaarinmäen tuulimylly is a traditional windmill on Seminary Hill in Rauma. It is a prominent monument of the region's rural architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        21.497388,
+                        61.131255
+                  ]
+            },
+            {
+                  "name": "Rauman Avainseurakunta",
+                  "text": "Rauman Avainseurakunta is a Christian congregation with its own meeting place in Rauma. The church offers regular services and religious meetings.",
+                  "category": "religious",
+                  "coords": [
+                        21.518424,
+                        61.123087
+                  ]
+            },
+            {
+                  "name": "Rauman Vapaaseurakunta",
+                  "text": "Rauman Vapaaseurakunta is a free church located in the center of Rauma. The building serves the congregation as a space for prayer and fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        21.500677,
+                        61.132641
+                  ]
+            },
+            {
+                  "name": "Old steam locomotive",
+                  "text": "This old steam locomotive is a technical monument located in the Rauma urban area. It commemorates the significant railway history of the Finnish region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.497043,
+                        61.132794
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-satakunta-fi",
     coords: [21.5130, 61.1270],

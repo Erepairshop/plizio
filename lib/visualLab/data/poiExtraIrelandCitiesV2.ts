@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const irelandCitiesV2: POI[] = [
 
   {
-    id: "ireland-arklow-cities-v2", "sights": {"de": [{"name": "South Beach", "text": "An den Küstenrändern von Arklow gelegen, präsentiert sich der South Beach als ein rauer und wunderschöner Abschnitt der irischen Küste. Die Stimmung hier ist zumeist friedlich und bescheiden, was den Strand zu einem hervorragenden Ort für einsame Spaziergänge oder das Muschelsammeln macht. Festes Schuhwerk ist von Vorteil, um das abwechslungsreiche Terrain am Ufer bequem zu erkunden.", "category": "recreational", "coords": [-6.142026, 52.787325]}, {"name": "The Cove", "text": "The Cove ist ein Strand bei Arklow.", "category": "recreational", "coords": [-6.145167, 52.780436]}, {"name": "Clogga Strand", "text": "Etwas außerhalb von Arklow gelegen, ist der Clogga Strand eine bezaubernde kleine Bucht, welche die natürliche Schönheit der Umgebung einfängt. Besucher erleben hier meist eine ruhige, entspannende Atmosphäre, die sich ideal für sanfte Erkundungen und das Genießen des Meerblicks eignet. Eine leichte Jacke im Gepäck ist klug, um bei der wechselhaften Küstenbrise stets angenehm warm zu bleiben.", "category": "recreational", "coords": [-6.14655, 52.765747]}, {"name": "Seaview Av Playground", "text": "Seaview Av Playground ist ein Spielplatz in Arklow, der Kindern einen tollen Ort bietet, um Outdoor-Aktivitäten mit ihren Familien zu genießen.", "category": "family", "coords": [-6.144851, 52.800848]}, {"name": "South Green Playground", "text": "South Green Playground in Arklow ist ein angenehmes Erholungsgebiet für Kinder zum Spielen und für Familien zum Entspannen.", "category": "family", "coords": [-6.150231, 52.795923]}, {"name": "Fun Fair", "text": "Fun Fair ist eine Spielhalle in Arklow, die spannende Spiele und Unterhaltung für Familien und Kinder bietet.", "category": "family", "coords": [-6.156087, 52.79821]}], "hu": [{"name": "South Beach", "text": "Az Arklow partvidéke mentén elterülő South Beach az ír tengerpart egyik zord, mégis gyönyörű szakasza. A hangulat itt általában békés és szerény, így kiváló úti cél a magányos sétákhoz vagy a kagylógyűjtéshez. A masszív cipő viselete segít abban, hogy kényelmesen bejárhassa a partvonal változatos terepét.", "category": "recreational", "coords": [-6.142026, 52.787325]}, {"name": "The Cove", "text": "A The Cove egy strand Arklow közelében.", "category": "recreational", "coords": [-6.145167, 52.780436]}, {"name": "Clogga Strand", "text": "Közvetlenül Arklow mellett található a Clogga Strand, egy kedves öböl, amely magában foglalja a környező táj természeti szépségét. A látogatók általában csendes, pihentető környezetet tapasztalhatnak, amely ideális a könnyed felfedezéshez és a tengeri kilátás élvezetéhez. Egy könnyű kabát becsomagolása okos döntés, hogy a folyton változó tengerparti szélben is kényelmesen érezzük magunkat.", "category": "recreational", "coords": [-6.14655, 52.765747]}, {"name": "Seaview Av Playground", "text": "A Seaview Av Playground egy játszótér Arklow-ban, amely kiváló teret kínál a gyerekeknek a szabadtéri tevékenységek élvezetére családjukkal.", "category": "family", "coords": [-6.144851, 52.800848]}, {"name": "South Green Playground", "text": "Az arklow-i South Green Playground egy kellemes rekreációs terület, ahol a gyerekek játszhatnak, a családok pedig pihenhetnek.", "category": "family", "coords": [-6.150231, 52.795923]}, {"name": "Fun Fair", "text": "A Fun Fair egy szórakoztató árkád Arklow-ban, amely izgalmas játékokat és kikapcsolódást nyújt a családok és gyerekek számára.", "category": "family", "coords": [-6.156087, 52.79821]}], "ro": [{"name": "South Beach", "text": "Desfășurându-se de-a lungul marginii de coastă a orașului Arklow, South Beach oferă o întindere accidentată și frumoasă a litoralului irlandez. Atmosfera de aici este în general pașnică și modestă, făcând-o o destinație excelentă pentru plimbări solitare sau pentru a culege scoici. Purtarea unor pantofi rezistenți vă va ajuta să navigați confortabil pe terenul variat al țărmului.", "category": "recreational", "coords": [-6.142026, 52.787325]}, {"name": "The Cove", "text": "The Cove este o plajă lângă Arklow.", "category": "recreational", "coords": [-6.145167, 52.780436]}, {"name": "Clogga Strand", "text": "Situată chiar la ieșirea din Arklow, Clogga Strand este un golf minunat care îmbrățișează frumusețea naturală a peisajului înconjurător. Vizitatorii experimentează de obicei un mediu liniștit și relaxant, ideal pentru o explorare blândă și aprecierea vederilor la mare. Împachetarea unei jachete ușoare este o alegere inteligentă pentru a rămâne confortabil în briza de coastă mereu schimbătoare.", "category": "recreational", "coords": [-6.14655, 52.765747]}, {"name": "Seaview Av Playground", "text": "Seaview Av Playground este un loc de joacă în Arklow, oferind copiilor un spațiu minunat pentru a se bucura de activități în aer liber alături de familiile lor.", "category": "family", "coords": [-6.144851, 52.800848]}, {"name": "South Green Playground", "text": "South Green Playground din Arklow este o zonă de recreere plăcută, unde copiii se pot juca și familiile se pot relaxa.", "category": "family", "coords": [-6.150231, 52.795923]}, {"name": "Fun Fair", "text": "Fun Fair este o sală de jocuri de noroc și divertisment în Arklow, oferind jocuri captivante și distracție pentru familii și copii.", "category": "family", "coords": [-6.156087, 52.79821]}], "en": [{"name": "South Beach", "text": "Unfolding along the coastal edge of Arklow, South Beach provides a rugged and beautiful stretch of the Irish seaside. The vibe here is generally peaceful and unassuming, making it an excellent destination for solitary walks or collecting shells. Wearing sturdy shoes will help you navigate the varying terrain of the shoreline comfortably.", "category": "recreational", "coords": [-6.142026, 52.787325]}, {"name": "The Cove", "text": "The Cove is a beach near Arklow.", "category": "recreational", "coords": [-6.145167, 52.780436]}, {"name": "Clogga Strand", "text": "Situated just outside Arklow, Clogga Strand is a lovely cove that embraces the natural beauty of the surrounding landscape. Visitors typically experience a quiet, relaxing environment ideal for gentle exploration and appreciating the sea views. Packing a light jacket is a smart choice to stay comfortable in the ever-changing coastal breeze.", "category": "recreational", "coords": [-6.14655, 52.765747]}, {"name": "Seaview Av Playground", "text": "Seaview Av Playground is a playground in Arklow, offering kids a great space to enjoy outdoor activities with their families.", "category": "family", "coords": [-6.144851, 52.800848]}, {"name": "South Green Playground", "text": "South Green Playground in Arklow is a pleasant recreational area for children to play and families to relax.", "category": "family", "coords": [-6.150231, 52.795923]}, {"name": "Fun Fair", "text": "Fun Fair is an amusement arcade in Arklow, providing engaging games and entertainment for families and children.", "category": "family", "coords": [-6.156087, 52.79821]}]},
+    id: "ireland-arklow-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "South Beach",
+                  "text": "An den Küstenrändern von Arklow gelegen, präsentiert sich der South Beach als ein rauer und wunderschöner Abschnitt der irischen Küste. Die Stimmung hier ist zumeist friedlich und bescheiden, was den Strand zu einem hervorragenden Ort für einsame Spaziergänge oder das Muschelsammeln macht. Festes Schuhwerk ist von Vorteil, um das abwechslungsreiche Terrain am Ufer bequem zu erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142026,
+                        52.787325
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "The Cove ist ein Strand bei Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.145167,
+                        52.780436
+                  ]
+            },
+            {
+                  "name": "Clogga Strand",
+                  "text": "Etwas außerhalb von Arklow gelegen, ist der Clogga Strand eine bezaubernde kleine Bucht, welche die natürliche Schönheit der Umgebung einfängt. Besucher erleben hier meist eine ruhige, entspannende Atmosphäre, die sich ideal für sanfte Erkundungen und das Genießen des Meerblicks eignet. Eine leichte Jacke im Gepäck ist klug, um bei der wechselhaften Küstenbrise stets angenehm warm zu bleiben.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14655,
+                        52.765747
+                  ]
+            },
+            {
+                  "name": "Seaview Av Playground",
+                  "text": "Seaview Av Playground ist ein Spielplatz in Arklow, der Kindern einen tollen Ort bietet, um Outdoor-Aktivitäten mit ihren Familien zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        -6.144851,
+                        52.800848
+                  ]
+            },
+            {
+                  "name": "South Green Playground",
+                  "text": "South Green Playground in Arklow ist ein angenehmes Erholungsgebiet für Kinder zum Spielen und für Familien zum Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -6.150231,
+                        52.795923
+                  ]
+            },
+            {
+                  "name": "Fun Fair",
+                  "text": "Fun Fair ist eine Spielhalle in Arklow, die spannende Spiele und Unterhaltung für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -6.156087,
+                        52.79821
+                  ]
+            },
+            {
+                  "name": "The Bay Leisure Centre",
+                  "text": "Ein Freizeitzentrum in Arklow mit einem Schwimmbecken zur öffentlichen Nutzung und für Fitness.",
+                  "category": "family",
+                  "coords": [
+                        -6.143446,
+                        52.802419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "South Beach",
+                  "text": "Az Arklow partvidéke mentén elterülő South Beach az ír tengerpart egyik zord, mégis gyönyörű szakasza. A hangulat itt általában békés és szerény, így kiváló úti cél a magányos sétákhoz vagy a kagylógyűjtéshez. A masszív cipő viselete segít abban, hogy kényelmesen bejárhassa a partvonal változatos terepét.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142026,
+                        52.787325
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "A The Cove egy strand Arklow közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.145167,
+                        52.780436
+                  ]
+            },
+            {
+                  "name": "Clogga Strand",
+                  "text": "Közvetlenül Arklow mellett található a Clogga Strand, egy kedves öböl, amely magában foglalja a környező táj természeti szépségét. A látogatók általában csendes, pihentető környezetet tapasztalhatnak, amely ideális a könnyed felfedezéshez és a tengeri kilátás élvezetéhez. Egy könnyű kabát becsomagolása okos döntés, hogy a folyton változó tengerparti szélben is kényelmesen érezzük magunkat.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14655,
+                        52.765747
+                  ]
+            },
+            {
+                  "name": "Seaview Av Playground",
+                  "text": "A Seaview Av Playground egy játszótér Arklow-ban, amely kiváló teret kínál a gyerekeknek a szabadtéri tevékenységek élvezetére családjukkal.",
+                  "category": "family",
+                  "coords": [
+                        -6.144851,
+                        52.800848
+                  ]
+            },
+            {
+                  "name": "South Green Playground",
+                  "text": "Az arklow-i South Green Playground egy kellemes rekreációs terület, ahol a gyerekek játszhatnak, a családok pedig pihenhetnek.",
+                  "category": "family",
+                  "coords": [
+                        -6.150231,
+                        52.795923
+                  ]
+            },
+            {
+                  "name": "Fun Fair",
+                  "text": "A Fun Fair egy szórakoztató árkád Arklow-ban, amely izgalmas játékokat és kikapcsolódást nyújt a családok és gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -6.156087,
+                        52.79821
+                  ]
+            },
+            {
+                  "name": "The Bay Leisure Centre",
+                  "text": "Szabadidőközpont Arklow-ban, amely úszómedencével várja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        -6.143446,
+                        52.802419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "South Beach",
+                  "text": "Desfășurându-se de-a lungul marginii de coastă a orașului Arklow, South Beach oferă o întindere accidentată și frumoasă a litoralului irlandez. Atmosfera de aici este în general pașnică și modestă, făcând-o o destinație excelentă pentru plimbări solitare sau pentru a culege scoici. Purtarea unor pantofi rezistenți vă va ajuta să navigați confortabil pe terenul variat al țărmului.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142026,
+                        52.787325
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "The Cove este o plajă lângă Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.145167,
+                        52.780436
+                  ]
+            },
+            {
+                  "name": "Clogga Strand",
+                  "text": "Situată chiar la ieșirea din Arklow, Clogga Strand este un golf minunat care îmbrățișează frumusețea naturală a peisajului înconjurător. Vizitatorii experimentează de obicei un mediu liniștit și relaxant, ideal pentru o explorare blândă și aprecierea vederilor la mare. Împachetarea unei jachete ușoare este o alegere inteligentă pentru a rămâne confortabil în briza de coastă mereu schimbătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14655,
+                        52.765747
+                  ]
+            },
+            {
+                  "name": "Seaview Av Playground",
+                  "text": "Seaview Av Playground este un loc de joacă în Arklow, oferind copiilor un spațiu minunat pentru a se bucura de activități în aer liber alături de familiile lor.",
+                  "category": "family",
+                  "coords": [
+                        -6.144851,
+                        52.800848
+                  ]
+            },
+            {
+                  "name": "South Green Playground",
+                  "text": "South Green Playground din Arklow este o zonă de recreere plăcută, unde copiii se pot juca și familiile se pot relaxa.",
+                  "category": "family",
+                  "coords": [
+                        -6.150231,
+                        52.795923
+                  ]
+            },
+            {
+                  "name": "Fun Fair",
+                  "text": "Fun Fair este o sală de jocuri de noroc și divertisment în Arklow, oferind jocuri captivante și distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        -6.156087,
+                        52.79821
+                  ]
+            },
+            {
+                  "name": "The Bay Leisure Centre",
+                  "text": "Un centru de agrement din Arklow, care are o piscină pentru uz public și fitness.",
+                  "category": "family",
+                  "coords": [
+                        -6.143446,
+                        52.802419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "South Beach",
+                  "text": "Unfolding along the coastal edge of Arklow, South Beach provides a rugged and beautiful stretch of the Irish seaside. The vibe here is generally peaceful and unassuming, making it an excellent destination for solitary walks or collecting shells. Wearing sturdy shoes will help you navigate the varying terrain of the shoreline comfortably.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142026,
+                        52.787325
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "The Cove is a beach near Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.145167,
+                        52.780436
+                  ]
+            },
+            {
+                  "name": "Clogga Strand",
+                  "text": "Situated just outside Arklow, Clogga Strand is a lovely cove that embraces the natural beauty of the surrounding landscape. Visitors typically experience a quiet, relaxing environment ideal for gentle exploration and appreciating the sea views. Packing a light jacket is a smart choice to stay comfortable in the ever-changing coastal breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14655,
+                        52.765747
+                  ]
+            },
+            {
+                  "name": "Seaview Av Playground",
+                  "text": "Seaview Av Playground is a playground in Arklow, offering kids a great space to enjoy outdoor activities with their families.",
+                  "category": "family",
+                  "coords": [
+                        -6.144851,
+                        52.800848
+                  ]
+            },
+            {
+                  "name": "South Green Playground",
+                  "text": "South Green Playground in Arklow is a pleasant recreational area for children to play and families to relax.",
+                  "category": "family",
+                  "coords": [
+                        -6.150231,
+                        52.795923
+                  ]
+            },
+            {
+                  "name": "Fun Fair",
+                  "text": "Fun Fair is an amusement arcade in Arklow, providing engaging games and entertainment for families and children.",
+                  "category": "family",
+                  "coords": [
+                        -6.156087,
+                        52.79821
+                  ]
+            },
+            {
+                  "name": "The Bay Leisure Centre",
+                  "text": "A leisure center in Arklow featuring a swimming pool for public use and fitness.",
+                  "category": "family",
+                  "coords": [
+                        -6.143446,
+                        52.802419
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Arklow", hu: "Arklow", ro: "Arklow", en: "Arklow" },
@@ -2641,6 +2902,15 @@ export const irelandCitiesV2: POI[] = [
                         -9.400354,
                         53.884668
                   ]
+            },
+            {
+                  "name": "Leisure Club & Spa",
+                  "text": "Ein Freizeitclub in Castlebar mit einem Schwimmbad und Spa-Einrichtungen zur Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        -9.23795,
+                        53.843356
+                  ]
             }
       ],
       "hu": [
@@ -2921,6 +3191,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -9.400354,
                         53.884668
+                  ]
+            },
+            {
+                  "name": "Leisure Club & Spa",
+                  "text": "Szabadidőklub Castlebarban úszómedencével és wellness szolgáltatásokkal a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.23795,
+                        53.843356
                   ]
             }
       ],
@@ -3203,6 +3482,15 @@ export const irelandCitiesV2: POI[] = [
                         -9.400354,
                         53.884668
                   ]
+            },
+            {
+                  "name": "Leisure Club & Spa",
+                  "text": "Un club de agrement din Castlebar cu o piscină și facilități spa pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -9.23795,
+                        53.843356
+                  ]
             }
       ],
       "en": [
@@ -3484,6 +3772,15 @@ export const irelandCitiesV2: POI[] = [
                         -9.400354,
                         53.884668
                   ]
+            },
+            {
+                  "name": "Leisure Club & Spa",
+                  "text": "A leisure club in Castlebar with a swimming pool and spa facilities for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -9.23795,
+                        53.843356
+                  ]
             }
       ]
 },
@@ -3531,7 +3828,196 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-castlebar-cities-v2.webp",
   },
   {
-    id: "ireland-cobh-cities-v2", "sights": {"de": [{"name": "Glenmore Strand", "text": "Der Glenmore Strand bietet einen ruhigen Rückzugsort an der Küste, nur eine kurze Fahrt von der historischen Stadt Cobh entfernt. Besucher können hier die erfrischende irische Meeresbrise genießen, was den Ort ideal für friedliche Spaziergänge am Ufer und stille Erholung macht. Es ist ein wunderbarer Platz, um abseits des städtischen Trubels mit der Natur in Kontakt zu kommen. Ein Besuch bei Ebbe eignet sich am besten, um den Spülsaum in Ruhe zu erkunden.", "category": "recreational", "coords": [-8.237087, 51.858025]}, {"name": "Ballybrassil Beach", "text": "Eingebettet in die Nähe der lebhaften Hafenstadt Cobh, präsentiert sich der Ballybrassil Beach als ein charmanter Abschnitt der irischen Küste. Die Atmosphäre ist hier meist ruhig und lokal geprägt, was den Strand perfekt für entspanntes Sonnenbaden oder sanfte Spaziergänge am Meer macht. Das Genießen der maritimen Umgebung ist für Naturliebhaber eine wahre Freude. Eine Windjacke einzupacken ist empfehlenswert, da das Küstenwetter schnell umschlagen kann.", "category": "recreational", "coords": [-8.229714, 51.858343]}, {"name": "Cuskinny", "text": "Ein Küstenabschnitt bei Cobh.", "category": "recreational", "coords": [-8.264234, 51.858777]}, {"name": "Castlelake Lake", "text": "Der Castlelake See in Cobh ist ein malerisches Gewässer.", "category": "natural", "coords": [-8.26904, 51.91167]}], "hu": [{"name": "Glenmore Strand", "text": "A Glenmore Strand békés tengerparti menedéket kínál, mindössze egy rövid távolságra Cobh történelmi városától. A látogatók élvezhetik a frissítő ír tengeri szellőt, amely ideális helyszínné teszi a csendes parti sétákhoz és a nyugodt pihenéshez. Csodálatos környezet, ahol a város zajától távol kapcsolódhatunk a természethez. Érdemes apály idején érkezni, hogy kényelmesen felfedezhessük a vízpartot.", "category": "recreational", "coords": [-8.237087, 51.858025]}, {"name": "Ballybrassil Beach", "text": "A nyüzsgő Cobh kikötővárosának közelében megbúvó Ballybrassil Beach az ír tengerpart egy bájos szakaszát nyújtja. A hangulat többnyire csendes és helyi jellegű, hívogatva azokat, akik egy pihentető napot keresnek napozással vagy tengerparti sétákkal. A környező tengeri táj látványa igazi öröm a természet kedvelőinek. Érdemes széldzsekit csomagolni, mivel a parti időjárás gyorsan változhat.", "category": "recreational", "coords": [-8.229714, 51.858343]}, {"name": "Cuskinny", "text": "Partszakasz Cobh mellett.", "category": "recreational", "coords": [-8.264234, 51.858777]}, {"name": "Castlelake Lake", "text": "A cobhi Castlelake tó egy festői állóvíz.", "category": "natural", "coords": [-8.26904, 51.91167]}], "ro": [{"name": "Glenmore Strand", "text": "Glenmore Strand oferă o evadare de coastă senină, situată la o scurtă distanță de orașul istoric Cobh. Vizitatorii se pot bucura de briza răcoroasă a mării irlandeze, fiind un loc ideal pentru plimbări liniștite pe țărm și relaxare profundă. Este un cadru minunat pentru a vă conecta cu natura, departe de agitația urbană. Vizitarea în timpul refluxului este recomandată pentru a explora pe îndelete marginea apei.", "category": "recreational", "coords": [-8.237087, 51.858025]}, {"name": "Ballybrassil Beach", "text": "Amplasată în apropierea vibrantului oraș portuar Cobh, Ballybrassil Beach prezintă o porțiune fermecătoare a coastei irlandeze. Atmosfera este în general liniștită și locală, primindu-i cu brațele deschise pe cei care caută o zi relaxantă de stat la soare sau de plimbări ușoare pe malul mării. Admirarea peisajului maritim înconjurător este o adevărată bucurie pentru iubitorii de natură. Aducerea unei jachete de vânt este o idee bună, deoarece vremea pe coastă se poate schimba rapid.", "category": "recreational", "coords": [-8.229714, 51.858343]}, {"name": "Cuskinny", "text": "O zonă de coastă lângă Cobh.", "category": "recreational", "coords": [-8.264234, 51.858777]}, {"name": "Castlelake Lake", "text": "Lacul Castlelake din Cobh este o apă pitorească.", "category": "natural", "coords": [-8.26904, 51.91167]}], "en": [{"name": "Glenmore Strand", "text": "Glenmore Strand offers a serene coastal escape located just a short distance from the historic town of Cobh. Visitors can enjoy the refreshing Irish sea breeze, making it an ideal spot for peaceful shoreline walks and quiet relaxation. It is a wonderful setting to connect with nature away from the city crowds. Arriving during low tide provides the best experience for exploring the water's edge.", "category": "recreational", "coords": [-8.237087, 51.858025]}, {"name": "Ballybrassil Beach", "text": "Nestled near the vibrant port town of Cobh, Ballybrassil Beach presents a charming stretch of the Irish coastline. The atmosphere is generally quiet and local, welcoming those who seek a relaxing day of sunbathing or gentle strolls by the sea. Taking in the surrounding maritime landscape is a true delight for nature lovers. Packing a windbreaker is a smart idea, as the coastal weather can shift quickly.", "category": "recreational", "coords": [-8.229714, 51.858343]}, {"name": "Cuskinny", "text": "A coastal area near Cobh.", "category": "recreational", "coords": [-8.264234, 51.858777]}, {"name": "Castlelake Lake", "text": "Castlelake lake in Cobh is a picturesque body of water.", "category": "natural", "coords": [-8.26904, 51.91167]}]},
+    id: "ireland-cobh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glenmore Strand",
+                  "text": "Der Glenmore Strand bietet einen ruhigen Rückzugsort an der Küste, nur eine kurze Fahrt von der historischen Stadt Cobh entfernt. Besucher können hier die erfrischende irische Meeresbrise genießen, was den Ort ideal für friedliche Spaziergänge am Ufer und stille Erholung macht. Es ist ein wunderbarer Platz, um abseits des städtischen Trubels mit der Natur in Kontakt zu kommen. Ein Besuch bei Ebbe eignet sich am besten, um den Spülsaum in Ruhe zu erkunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237087,
+                        51.858025
+                  ]
+            },
+            {
+                  "name": "Ballybrassil Beach",
+                  "text": "Eingebettet in die Nähe der lebhaften Hafenstadt Cobh, präsentiert sich der Ballybrassil Beach als ein charmanter Abschnitt der irischen Küste. Die Atmosphäre ist hier meist ruhig und lokal geprägt, was den Strand perfekt für entspanntes Sonnenbaden oder sanfte Spaziergänge am Meer macht. Das Genießen der maritimen Umgebung ist für Naturliebhaber eine wahre Freude. Eine Windjacke einzupacken ist empfehlenswert, da das Küstenwetter schnell umschlagen kann.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.229714,
+                        51.858343
+                  ]
+            },
+            {
+                  "name": "Cuskinny",
+                  "text": "Ein Küstenabschnitt bei Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264234,
+                        51.858777
+                  ]
+            },
+            {
+                  "name": "Castlelake Lake",
+                  "text": "Der Castlelake See in Cobh ist ein malerisches Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -8.26904,
+                        51.91167
+                  ]
+            },
+            {
+                  "name": "Coral Leisure",
+                  "text": "Coral Leisure in Cobh. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -8.288195,
+                        51.854712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glenmore Strand",
+                  "text": "A Glenmore Strand békés tengerparti menedéket kínál, mindössze egy rövid távolságra Cobh történelmi városától. A látogatók élvezhetik a frissítő ír tengeri szellőt, amely ideális helyszínné teszi a csendes parti sétákhoz és a nyugodt pihenéshez. Csodálatos környezet, ahol a város zajától távol kapcsolódhatunk a természethez. Érdemes apály idején érkezni, hogy kényelmesen felfedezhessük a vízpartot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237087,
+                        51.858025
+                  ]
+            },
+            {
+                  "name": "Ballybrassil Beach",
+                  "text": "A nyüzsgő Cobh kikötővárosának közelében megbúvó Ballybrassil Beach az ír tengerpart egy bájos szakaszát nyújtja. A hangulat többnyire csendes és helyi jellegű, hívogatva azokat, akik egy pihentető napot keresnek napozással vagy tengerparti sétákkal. A környező tengeri táj látványa igazi öröm a természet kedvelőinek. Érdemes széldzsekit csomagolni, mivel a parti időjárás gyorsan változhat.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.229714,
+                        51.858343
+                  ]
+            },
+            {
+                  "name": "Cuskinny",
+                  "text": "Partszakasz Cobh mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264234,
+                        51.858777
+                  ]
+            },
+            {
+                  "name": "Castlelake Lake",
+                  "text": "A cobhi Castlelake tó egy festői állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        -8.26904,
+                        51.91167
+                  ]
+            },
+            {
+                  "name": "Coral Leisure",
+                  "text": "Coral Leisure Cobh területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        -8.288195,
+                        51.854712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glenmore Strand",
+                  "text": "Glenmore Strand oferă o evadare de coastă senină, situată la o scurtă distanță de orașul istoric Cobh. Vizitatorii se pot bucura de briza răcoroasă a mării irlandeze, fiind un loc ideal pentru plimbări liniștite pe țărm și relaxare profundă. Este un cadru minunat pentru a vă conecta cu natura, departe de agitația urbană. Vizitarea în timpul refluxului este recomandată pentru a explora pe îndelete marginea apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237087,
+                        51.858025
+                  ]
+            },
+            {
+                  "name": "Ballybrassil Beach",
+                  "text": "Amplasată în apropierea vibrantului oraș portuar Cobh, Ballybrassil Beach prezintă o porțiune fermecătoare a coastei irlandeze. Atmosfera este în general liniștită și locală, primindu-i cu brațele deschise pe cei care caută o zi relaxantă de stat la soare sau de plimbări ușoare pe malul mării. Admirarea peisajului maritim înconjurător este o adevărată bucurie pentru iubitorii de natură. Aducerea unei jachete de vânt este o idee bună, deoarece vremea pe coastă se poate schimba rapid.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.229714,
+                        51.858343
+                  ]
+            },
+            {
+                  "name": "Cuskinny",
+                  "text": "O zonă de coastă lângă Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264234,
+                        51.858777
+                  ]
+            },
+            {
+                  "name": "Castlelake Lake",
+                  "text": "Lacul Castlelake din Cobh este o apă pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        -8.26904,
+                        51.91167
+                  ]
+            },
+            {
+                  "name": "Coral Leisure",
+                  "text": "Coral Leisure din Cobh. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -8.288195,
+                        51.854712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glenmore Strand",
+                  "text": "Glenmore Strand offers a serene coastal escape located just a short distance from the historic town of Cobh. Visitors can enjoy the refreshing Irish sea breeze, making it an ideal spot for peaceful shoreline walks and quiet relaxation. It is a wonderful setting to connect with nature away from the city crowds. Arriving during low tide provides the best experience for exploring the water's edge.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237087,
+                        51.858025
+                  ]
+            },
+            {
+                  "name": "Ballybrassil Beach",
+                  "text": "Nestled near the vibrant port town of Cobh, Ballybrassil Beach presents a charming stretch of the Irish coastline. The atmosphere is generally quiet and local, welcoming those who seek a relaxing day of sunbathing or gentle strolls by the sea. Taking in the surrounding maritime landscape is a true delight for nature lovers. Packing a windbreaker is a smart idea, as the coastal weather can shift quickly.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.229714,
+                        51.858343
+                  ]
+            },
+            {
+                  "name": "Cuskinny",
+                  "text": "A coastal area near Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264234,
+                        51.858777
+                  ]
+            },
+            {
+                  "name": "Castlelake Lake",
+                  "text": "Castlelake lake in Cobh is a picturesque body of water.",
+                  "category": "natural",
+                  "coords": [
+                        -8.26904,
+                        51.91167
+                  ]
+            },
+            {
+                  "name": "Coral Leisure",
+                  "text": "Coral Leisure in Cobh. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -8.288195,
+                        51.854712
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Cobh", hu: "Cobh", ro: "Cobh", en: "Cobh" },
@@ -15376,6 +15862,15 @@ export const irelandCitiesV2: POI[] = [
                         -8.8241,
                         52.77011
                   ]
+            },
+            {
+                  "name": "Shannon Leisure Centre",
+                  "text": "Shannon Leisure Centre in Shannon. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -8.878142,
+                        52.705118
+                  ]
             }
       ],
       "hu": [
@@ -15440,6 +15935,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.8241,
                         52.77011
+                  ]
+            },
+            {
+                  "name": "Shannon Leisure Centre",
+                  "text": "Shannon Leisure Centre Shannon területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        -8.878142,
+                        52.705118
                   ]
             }
       ],
@@ -15506,6 +16010,15 @@ export const irelandCitiesV2: POI[] = [
                         -8.8241,
                         52.77011
                   ]
+            },
+            {
+                  "name": "Shannon Leisure Centre",
+                  "text": "Shannon Leisure Centre din Shannon. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -8.878142,
+                        52.705118
+                  ]
             }
       ],
       "en": [
@@ -15570,6 +16083,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.8241,
                         52.77011
+                  ]
+            },
+            {
+                  "name": "Shannon Leisure Centre",
+                  "text": "Shannon Leisure Centre in Shannon. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -8.878142,
+                        52.705118
                   ]
             }
       ]

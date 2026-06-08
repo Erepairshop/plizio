@@ -3,7 +3,196 @@ import { POI } from './poi';
 export const bosniaherzegovinaCitiesV2: POI[] = [
 
   {
-    id: "bosniaherzegovina-sanskimost-cities-v2", "sights": {"de": [{"name": "Vodeni park Sanski Most", "text": "Ein Wasserpark in Sanski Most mit verschiedenen Pools und Freizeitaktivitäten.", "category": "family", "coords": [16.682313, 44.744567]}, {"name": "Plaža Šehiti", "text": "Die Plaža Šehiti ist ein einladender Flussstrand in Sanski Most, der sich großer Beliebtheit erfreut. An warmen Tagen zieht es Einheimische wie Reisende hierher, um im Fluss zu schwimmen und sommerliche Entspannung zu finden. Das beruhigende Fließen des Wassers schafft eine friedliche Kulisse für ein Picknick oder ein ausgedehntes Sonnenbad. Im Hochsommer ist es ratsam, etwas früher zu kommen, um einen guten Platz am Ufer zu ergattern.", "category": "recreational", "coords": [16.673537, 44.778318]}, {"name": "Spomenik žrtvama fašizma", "text": "Eine Gedenkstätte für die im Zweiten Weltkrieg in Sanski Most Gefallenen.", "category": "historical", "coords": [16.683931, 44.762284]}, {"name": "Hamza-begova džamija", "text": "Die Hauptmoschee in Sanski Most, die sich durch ihre vier Minarette auszeichnet.", "category": "religious", "coords": [16.664862, 44.763825]}], "hu": [{"name": "Vodeni park Sanski Most", "text": "Sanski Most-i vízi park, amely különféle medencékkel és szabadidős tevékenységekkel várja a látogatókat.", "category": "family", "coords": [16.682313, 44.744567]}, {"name": "Plaža Šehiti", "text": "A Plaža Šehiti egy hívogató, nagy népszerűségnek örvendő folyóparti strand Sanski Mostban. A meleg napokon a helyiek és az utazók egyaránt ide sereglenek, hogy a folyóban ússzanak és nyári kikapcsolódásra találjanak. A víz megnyugtató folyása békés hátteret teremt egy piknikhez vagy egy kiadós napozáshoz. A nyár közepén érdemes egy kicsit korábban érkezni, hogy jó helyet biztosítsunk magunknak a parton.", "category": "recreational", "coords": [16.673537, 44.778318]}, {"name": "Spomenik žrtvama fašizma", "text": "A második világháború alatt Sanski Mostban elesetteknek szentelt emlékhely.", "category": "historical", "coords": [16.683931, 44.762284]}, {"name": "Hamza-begova džamija", "text": "Sanski Most fő mecsetje, amelyet négy minaretje jellemez.", "category": "religious", "coords": [16.664862, 44.763825]}], "ro": [{"name": "Vodeni park Sanski Most", "text": "Un parc acvatic din Sanski Most care oferă diverse piscine și activități recreative.", "category": "family", "coords": [16.682313, 44.744567]}, {"name": "Plaža Šehiti", "text": "Plaža Šehiti este o plajă fluvială primitoare în Sanski Most, care se bucură de o mare popularitate. În zilele calde, atât localnicii, cât și călătorii sunt atrași aici pentru a înota în râu și a găsi relaxare estivală. Curgerea liniștitoare a apei creează un fundal pașnic pentru un picnic sau pentru o baie de soare prelungită. În plină vară, este indicat să ajungeți puțin mai devreme pentru a prinde un loc bun pe mal.", "category": "recreational", "coords": [16.673537, 44.778318]}, {"name": "Spomenik žrtvama fašizma", "text": "Un memorial dedicat celor care au căzut în timpul celui de-al Doilea Război Mondial în Sanski Most.", "category": "historical", "coords": [16.683931, 44.762284]}, {"name": "Hamza-begova džamija", "text": "Moscheea principală din Sanski Most, caracterizată prin cele patru minarete ale sale.", "category": "religious", "coords": [16.664862, 44.763825]}], "en": [{"name": "Vodeni park Sanski Most", "text": "A water park in Sanski Most offering various pools and recreational activities.", "category": "family", "coords": [16.682313, 44.744567]}, {"name": "Plaža Šehiti", "text": "Plaža Šehiti is an inviting and highly popular river beach located in Sanski Most. On warm days, locals and travelers alike are drawn here to swim in the river and find summer relaxation. The soothing flow of the water creates a peaceful backdrop for a picnic or extended sunbathing. During the peak of summer, arriving a bit early to secure a good spot on the bank is advisable.", "category": "recreational", "coords": [16.673537, 44.778318]}, {"name": "Monument to the Victims of Fascism and the Fighters of the National Liberation War", "text": "A memorial dedicated to those who fell during World War II in Sanski Most.", "category": "historical", "coords": [16.683931, 44.762284]}, {"name": "Hamza-begova džamija", "text": "The main mosque in Sanski Most, characterized by its four minarets.", "category": "religious", "coords": [16.664862, 44.763825]}]},
+    id: "bosniaherzegovina-sanskimost-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodeni park Sanski Most",
+                  "text": "Ein Wasserpark in Sanski Most mit verschiedenen Pools und Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        16.682313,
+                        44.744567
+                  ]
+            },
+            {
+                  "name": "Plaža Šehiti",
+                  "text": "Die Plaža Šehiti ist ein einladender Flussstrand in Sanski Most, der sich großer Beliebtheit erfreut. An warmen Tagen zieht es Einheimische wie Reisende hierher, um im Fluss zu schwimmen und sommerliche Entspannung zu finden. Das beruhigende Fließen des Wassers schafft eine friedliche Kulisse für ein Picknick oder ein ausgedehntes Sonnenbad. Im Hochsommer ist es ratsam, etwas früher zu kommen, um einen guten Platz am Ufer zu ergattern.",
+                  "category": "recreational",
+                  "coords": [
+                        16.673537,
+                        44.778318
+                  ]
+            },
+            {
+                  "name": "Spomenik žrtvama fašizma",
+                  "text": "Eine Gedenkstätte für die im Zweiten Weltkrieg in Sanski Most Gefallenen.",
+                  "category": "historical",
+                  "coords": [
+                        16.683931,
+                        44.762284
+                  ]
+            },
+            {
+                  "name": "Hamza-begova džamija",
+                  "text": "Die Hauptmoschee in Sanski Most, die sich durch ihre vier Minarette auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        16.664862,
+                        44.763825
+                  ]
+            },
+            {
+                  "name": "Bazeni Olimpija",
+                  "text": "Die Bazeni Olimpija in Sanski Most sind ein Wasserpark für den Familienurlaub.",
+                  "category": "family",
+                  "coords": [
+                        16.627025,
+                        44.771087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodeni park Sanski Most",
+                  "text": "Sanski Most-i vízi park, amely különféle medencékkel és szabadidős tevékenységekkel várja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        16.682313,
+                        44.744567
+                  ]
+            },
+            {
+                  "name": "Plaža Šehiti",
+                  "text": "A Plaža Šehiti egy hívogató, nagy népszerűségnek örvendő folyóparti strand Sanski Mostban. A meleg napokon a helyiek és az utazók egyaránt ide sereglenek, hogy a folyóban ússzanak és nyári kikapcsolódásra találjanak. A víz megnyugtató folyása békés hátteret teremt egy piknikhez vagy egy kiadós napozáshoz. A nyár közepén érdemes egy kicsit korábban érkezni, hogy jó helyet biztosítsunk magunknak a parton.",
+                  "category": "recreational",
+                  "coords": [
+                        16.673537,
+                        44.778318
+                  ]
+            },
+            {
+                  "name": "Spomenik žrtvama fašizma",
+                  "text": "A második világháború alatt Sanski Mostban elesetteknek szentelt emlékhely.",
+                  "category": "historical",
+                  "coords": [
+                        16.683931,
+                        44.762284
+                  ]
+            },
+            {
+                  "name": "Hamza-begova džamija",
+                  "text": "Sanski Most fő mecsetje, amelyet négy minaretje jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        16.664862,
+                        44.763825
+                  ]
+            },
+            {
+                  "name": "Bazeni Olimpija",
+                  "text": "A sanski mosti Bazeni Olimpija egy vízipark a családi pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        16.627025,
+                        44.771087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodeni park Sanski Most",
+                  "text": "Un parc acvatic din Sanski Most care oferă diverse piscine și activități recreative.",
+                  "category": "family",
+                  "coords": [
+                        16.682313,
+                        44.744567
+                  ]
+            },
+            {
+                  "name": "Plaža Šehiti",
+                  "text": "Plaža Šehiti este o plajă fluvială primitoare în Sanski Most, care se bucură de o mare popularitate. În zilele calde, atât localnicii, cât și călătorii sunt atrași aici pentru a înota în râu și a găsi relaxare estivală. Curgerea liniștitoare a apei creează un fundal pașnic pentru un picnic sau pentru o baie de soare prelungită. În plină vară, este indicat să ajungeți puțin mai devreme pentru a prinde un loc bun pe mal.",
+                  "category": "recreational",
+                  "coords": [
+                        16.673537,
+                        44.778318
+                  ]
+            },
+            {
+                  "name": "Spomenik žrtvama fašizma",
+                  "text": "Un memorial dedicat celor care au căzut în timpul celui de-al Doilea Război Mondial în Sanski Most.",
+                  "category": "historical",
+                  "coords": [
+                        16.683931,
+                        44.762284
+                  ]
+            },
+            {
+                  "name": "Hamza-begova džamija",
+                  "text": "Moscheea principală din Sanski Most, caracterizată prin cele patru minarete ale sale.",
+                  "category": "religious",
+                  "coords": [
+                        16.664862,
+                        44.763825
+                  ]
+            },
+            {
+                  "name": "Bazeni Olimpija",
+                  "text": "Bazeni Olimpija din Sanski Most este un parc acvatic pentru vacanțele în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.627025,
+                        44.771087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodeni park Sanski Most",
+                  "text": "A water park in Sanski Most offering various pools and recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        16.682313,
+                        44.744567
+                  ]
+            },
+            {
+                  "name": "Plaža Šehiti",
+                  "text": "Plaža Šehiti is an inviting and highly popular river beach located in Sanski Most. On warm days, locals and travelers alike are drawn here to swim in the river and find summer relaxation. The soothing flow of the water creates a peaceful backdrop for a picnic or extended sunbathing. During the peak of summer, arriving a bit early to secure a good spot on the bank is advisable.",
+                  "category": "recreational",
+                  "coords": [
+                        16.673537,
+                        44.778318
+                  ]
+            },
+            {
+                  "name": "Monument to the Victims of Fascism and the Fighters of the National Liberation War",
+                  "text": "A memorial dedicated to those who fell during World War II in Sanski Most.",
+                  "category": "historical",
+                  "coords": [
+                        16.683931,
+                        44.762284
+                  ]
+            },
+            {
+                  "name": "Hamza-begova džamija",
+                  "text": "The main mosque in Sanski Most, characterized by its four minarets.",
+                  "category": "religious",
+                  "coords": [
+                        16.664862,
+                        44.763825
+                  ]
+            },
+            {
+                  "name": "Bazeni Olimpija",
+                  "text": "Bazeni Olimpija in Sanski Most is a water park for family holidays.",
+                  "category": "family",
+                  "coords": [
+                        16.627025,
+                        44.771087
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Sanski Most", hu: "Sanski Most", ro: "Sanski Most", en: "Sanski Most"},
@@ -50,7 +239,52 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     },
   },
   {
-    id: "bosniaherzegovina-zivinice-cities-v2",
+    id: "bosniaherzegovina-zivinice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazeni Orlando",
+                  "text": "Ein Schwimmbad in Živinice für Freizeitaktivitäten im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        18.655955,
+                        44.436621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazeni Orlando",
+                  "text": "Úszómedence Živinicében vízi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        18.655955,
+                        44.436621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazeni Orlando",
+                  "text": "O piscină în Živinice pentru activități de agrement în apă.",
+                  "category": "family",
+                  "coords": [
+                        18.655955,
+                        44.436621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazeni Orlando",
+                  "text": "A swimming pool in Živinice for water leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        18.655955,
+                        44.436621
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Živinice", hu: "Živinice", ro: "Živinice", en: "Živinice"},
@@ -708,7 +942,52 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-gracanica-cities-v2",
+    id: "bosniaherzegovina-gracanica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terme Ozren",
+                  "text": "Terme Ozren in Gracanica ist ein Wasserpark mit Schwimmbecken für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.318953,
+                        44.670343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terme Ozren",
+                  "text": "A gracanicai Terme Ozren egy vízipark úszómedencékkel a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        18.318953,
+                        44.670343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terme Ozren",
+                  "text": "Terme Ozren din Gracanica este un parc acvatic cu bazine pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.318953,
+                        44.670343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terme Ozren",
+                  "text": "Terme Ozren in Gracanica is a water park with pools for families.",
+                  "category": "family",
+                  "coords": [
+                        18.318953,
+                        44.670343
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Gračanica", hu: "Gračanica", ro: "Gračanica", en: "Gračanica"},
@@ -839,6 +1118,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.415514,
                         44.878296
                   ]
+            },
+            {
+                  "name": "Banja",
+                  "text": "Ein lokales Schwimmbad in Gradacac, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        18.417149,
+                        44.881804
+                  ]
             }
       ],
       "hu": [
@@ -876,6 +1164,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.415514,
                         44.878296
+                  ]
+            },
+            {
+                  "name": "Banja",
+                  "text": "Gradacac helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        18.417149,
+                        44.881804
                   ]
             }
       ],
@@ -915,6 +1212,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.415514,
                         44.878296
                   ]
+            },
+            {
+                  "name": "Banja",
+                  "text": "O piscină locală în Gradacac, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.417149,
+                        44.881804
+                  ]
             }
       ],
       "en": [
@@ -952,6 +1258,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.415514,
                         44.878296
+                  ]
+            },
+            {
+                  "name": "Banja",
+                  "text": "A local swimming pool in Gradacac suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        18.417149,
+                        44.881804
                   ]
             }
       ]
@@ -1572,6 +1887,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.812297,
                         43.702526
                   ]
+            },
+            {
+                  "name": "Aqua Park Konjic",
+                  "text": "Ein Wasserpark in Konjic mit Attraktionen für Wassersportfans.",
+                  "category": "family",
+                  "coords": [
+                        17.950935,
+                        43.657938
+                  ]
             }
       ],
       "hu": [
@@ -1582,6 +1906,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.812297,
                         43.702526
+                  ]
+            },
+            {
+                  "name": "Aqua Park Konjic",
+                  "text": "Vízipark Konjicban attrakciókkal a vízi sportok kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        17.950935,
+                        43.657938
                   ]
             }
       ],
@@ -1594,6 +1927,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.812297,
                         43.702526
                   ]
+            },
+            {
+                  "name": "Aqua Park Konjic",
+                  "text": "Un parc acvatic în Konjic cu atracții pentru fanii sporturilor nautice.",
+                  "category": "family",
+                  "coords": [
+                        17.950935,
+                        43.657938
+                  ]
             }
       ],
       "en": [
@@ -1604,6 +1946,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.812297,
                         43.702526
+                  ]
+            },
+            {
+                  "name": "Aqua Park Konjic",
+                  "text": "A water park in Konjic with attractions for water sports fans.",
+                  "category": "family",
+                  "coords": [
+                        17.950935,
+                        43.657938
                   ]
             }
       ]
@@ -2118,6 +2469,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.348105,
                         43.898863
                   ]
+            },
+            {
+                  "name": "WOG Pool",
+                  "text": "Ein Schwimmbecken in Vogošća für lokales Badevergnügen.",
+                  "category": "family",
+                  "coords": [
+                        18.343386,
+                        43.899544
+                  ]
             }
       ],
       "hu": [
@@ -2182,6 +2542,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.348105,
                         43.898863
+                  ]
+            },
+            {
+                  "name": "WOG Pool",
+                  "text": "Úszómedence Vogošćában a helyi fürdőzés élményéért.",
+                  "category": "family",
+                  "coords": [
+                        18.343386,
+                        43.899544
                   ]
             }
       ],
@@ -2248,6 +2617,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.348105,
                         43.898863
                   ]
+            },
+            {
+                  "name": "WOG Pool",
+                  "text": "O piscină în Vogošća pentru bucuria locală a scăldatului.",
+                  "category": "family",
+                  "coords": [
+                        18.343386,
+                        43.899544
+                  ]
             }
       ],
       "en": [
@@ -2312,6 +2690,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.348105,
                         43.898863
+                  ]
+            },
+            {
+                  "name": "WOG Pool",
+                  "text": "A swimming pool in Vogošća for local bathing enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        18.343386,
+                        43.899544
                   ]
             }
       ]
@@ -3379,6 +3766,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.675824,
                         44.176584
                   ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Das Gradski bazen in Novi Travnik bietet Möglichkeiten zum Schwimmen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.662035,
+                        44.171026
+                  ]
             }
       ],
       "hu": [
@@ -3389,6 +3785,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.675824,
                         44.176584
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Az újtravelniki Gradski bazen úszási lehetőséget kínál családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.662035,
+                        44.171026
                   ]
             }
       ],
@@ -3401,6 +3806,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.675824,
                         44.176584
                   ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Gradski bazen din Novi Travnik oferă facilități de înot pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.662035,
+                        44.171026
+                  ]
             }
       ],
       "en": [
@@ -3411,6 +3825,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.675824,
                         44.176584
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Gradski bazen in Novi Travnik offers swimming facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        17.662035,
+                        44.171026
                   ]
             }
       ]
@@ -4072,7 +4495,88 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-teslic-cities-v2", "sights": {"de": [{"name": "Gomjeničko jezero", "text": "Гомјеничко језеро ist ein See in Teslic, der zur Entspannung im Freien einlädt.", "category": "natural", "coords": [17.862041, 44.575024]}], "hu": [{"name": "Gomjeničko jezero", "text": "Гомјеничко језеро egy tó Teslic területén, amely szabadtéri kikapcsolódásra hív.", "category": "natural", "coords": [17.862041, 44.575024]}], "ro": [{"name": "Gomjeničko jezero", "text": "Гомјеничко језеро este un lac din Teslic care invită la relaxare în aer liber.", "category": "natural", "coords": [17.862041, 44.575024]}], "en": [{"name": "Gomjeničko jezero", "text": "Гомјеничко језеро is a lake in Teslic inviting outdoor relaxation.", "category": "natural", "coords": [17.862041, 44.575024]}]},
+    id: "bosniaherzegovina-teslic-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gomjeničko jezero",
+                  "text": "Гомјеничко језеро ist ein See in Teslic, der zur Entspannung im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.862041,
+                        44.575024
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Ein Strandbad in Teslic, das Möglichkeiten zum Schwimmen und Sonnenbaden bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.864428,
+                        44.602608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gomjeničko jezero",
+                  "text": "Гомјеничко језеро egy tó Teslic területén, amely szabadtéri kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        17.862041,
+                        44.575024
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Egy strand Teslic területén, amely úszási és napozási lehetőséget biztosít.",
+                  "category": "family",
+                  "coords": [
+                        17.864428,
+                        44.602608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gomjeničko jezero",
+                  "text": "Гомјеничко језеро este un lac din Teslic care invită la relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.862041,
+                        44.575024
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "O stațiune de plajă în Teslic care oferă oportunități pentru înot și plajă.",
+                  "category": "family",
+                  "coords": [
+                        17.864428,
+                        44.602608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gomjeničko jezero",
+                  "text": "Гомјеничко језеро is a lake in Teslic inviting outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        17.862041,
+                        44.575024
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "A beach resort in Teslic offering opportunities for swimming and sunbathing.",
+                  "category": "family",
+                  "coords": [
+                        17.864428,
+                        44.602608
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Teslić", hu: "Teslić", ro: "Teslić", en: "Teslić"},
@@ -4119,7 +4623,52 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-vitez-cities-v2",
+    id: "bosniaherzegovina-vitez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vodeni park \"Ribica\"",
+                  "text": "Der Vodeni park \"Ribica\" in Vitez ist ein Ziel für den Wasserspaß von Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.778318,
+                        44.164849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vodeni park \"Ribica\"",
+                  "text": "A vitézi Vodeni park \"Ribica\" a családok vízi szórakozásának helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        17.778318,
+                        44.164849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vodeni park \"Ribica\"",
+                  "text": "Vodeni park \"Ribica\" din Vitez este o destinație pentru distracția acvatică a familiilor.",
+                  "category": "family",
+                  "coords": [
+                        17.778318,
+                        44.164849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vodeni park \"Ribica\"",
+                  "text": "Vodeni park \"Ribica\" in Vitez is a destination for family water fun.",
+                  "category": "family",
+                  "coords": [
+                        17.778318,
+                        44.164849
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Vitez", hu: "Vitez", ro: "Vitez", en: "Vitez"},
@@ -5667,6 +6216,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.50039,
                         44.770043
                   ]
+            },
+            {
+                  "name": "Inter bazeni",
+                  "text": "Ein Schwimmbad in Srebrenik für Sport und Abkühlung.",
+                  "category": "family",
+                  "coords": [
+                        18.485757,
+                        44.705248
+                  ]
             }
       ],
       "hu": [
@@ -5686,6 +6244,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.50039,
                         44.770043
+                  ]
+            },
+            {
+                  "name": "Inter bazeni",
+                  "text": "Úszómedence Srebrenikben sportoláshoz és hűsöléshez.",
+                  "category": "family",
+                  "coords": [
+                        18.485757,
+                        44.705248
                   ]
             }
       ],
@@ -5707,6 +6274,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.50039,
                         44.770043
                   ]
+            },
+            {
+                  "name": "Inter bazeni",
+                  "text": "O piscină în Srebrenik pentru sport și răcorire.",
+                  "category": "family",
+                  "coords": [
+                        18.485757,
+                        44.705248
+                  ]
             }
       ],
       "en": [
@@ -5726,6 +6302,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.50039,
                         44.770043
+                  ]
+            },
+            {
+                  "name": "Inter bazeni",
+                  "text": "A swimming pool in Srebrenik for sports and cooling off.",
+                  "category": "family",
+                  "coords": [
+                        18.485757,
+                        44.705248
                   ]
             }
       ]
@@ -5976,6 +6561,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.72239,
                         43.107472
                   ]
+            },
+            {
+                  "name": "Šišman Ibrahim-pašin Hamam",
+                  "text": "Das Sisman Ibrahim Pasha Hammam in Capljina ist ein historisches öffentliches Bad.",
+                  "category": "family",
+                  "coords": [
+                        17.730781,
+                        43.134823
+                  ]
             }
       ],
       "hu": [
@@ -6049,6 +6643,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.72239,
                         43.107472
+                  ]
+            },
+            {
+                  "name": "Šišman Ibrahim-pašin Hamam",
+                  "text": "A capljinai Sisman Ibrahim Pasha Hammam egy történelmi nyilvános fürdő.",
+                  "category": "family",
+                  "coords": [
+                        17.730781,
+                        43.134823
                   ]
             }
       ],
@@ -6124,6 +6727,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.72239,
                         43.107472
                   ]
+            },
+            {
+                  "name": "Šišman Ibrahim-pašin Hamam",
+                  "text": "Sisman Ibrahim Pasha Hammam din Capljina este o baie publică istorică.",
+                  "category": "family",
+                  "coords": [
+                        17.730781,
+                        43.134823
+                  ]
             }
       ],
       "en": [
@@ -6197,6 +6809,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.72239,
                         43.107472
+                  ]
+            },
+            {
+                  "name": "Sisman Ibrahim Pasha Hammam",
+                  "text": "Sisman Ibrahim Pasha Hammam in Capljina is a historic public bath.",
+                  "category": "family",
+                  "coords": [
+                        17.730781,
+                        43.134823
                   ]
             }
       ]
@@ -7116,7 +7737,52 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-srebrenica-cities-v2",
+    id: "bosniaherzegovina-srebrenica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banja Crni Guber",
+                  "text": "Dieser Wasserpark in Srebrenica bietet verschiedene Becken und Freizeitaktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        19.319352,
+                        44.101613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banja Crni Guber",
+                  "text": "Ez a Srebrenica városában található vízipark különféle medencékkel és szórakoztató programokkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        19.319352,
+                        44.101613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banja Crni Guber",
+                  "text": "Acest parc acvatic din Srebrenica oferă diverse piscine și activități distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        19.319352,
+                        44.101613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banja Crni Guber",
+                  "text": "This water park in Srebrenica offers various pools and fun activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        19.319352,
+                        44.101613
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Srebrenica", hu: "Srebrenica", ro: "Srebrenica", en: "Srebrenica"},
@@ -7945,6 +8611,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         16.835425,
                         44.067055
                   ]
+            },
+            {
+                  "name": "Bazen Busija",
+                  "text": "Das Bazen Busija in Glamoc bietet eine Möglichkeit zum Schwimmen und für die Freizeitgestaltung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        16.851206,
+                        44.037168
+                  ]
             }
       ],
       "hu": [
@@ -8036,6 +8711,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         16.835425,
                         44.067055
+                  ]
+            },
+            {
+                  "name": "Bazen Busija",
+                  "text": "A glamoci Bazen Busija úszási és vízi kikapcsolódási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        16.851206,
+                        44.037168
                   ]
             }
       ],
@@ -8129,6 +8813,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         16.835425,
                         44.067055
                   ]
+            },
+            {
+                  "name": "Bazen Busija",
+                  "text": "Bazen Busija din Glamoc oferă o oportunitate pentru înot și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        16.851206,
+                        44.037168
+                  ]
             }
       ],
       "en": [
@@ -8220,6 +8913,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         16.835425,
                         44.067055
+                  ]
+            },
+            {
+                  "name": "Bazen Busija",
+                  "text": "Bazen Busija in Glamoc offers an opportunity for swimming and water-based recreation.",
+                  "category": "family",
+                  "coords": [
+                        16.851206,
+                        44.037168
                   ]
             }
       ]
@@ -8922,6 +9624,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.367438,
                         43.848205
                   ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Sunnyland in East Sarajevo ist ein Freizeitpark mit Aktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
+                  ]
             }
       ],
       "hu": [
@@ -9121,6 +9832,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.367438,
                         43.848205
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "A kelet-szarajevói Sunnyland egy vidámpark családi programokkal.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
                   ]
             }
       ],
@@ -9322,6 +10042,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.367438,
                         43.848205
                   ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Sunnyland din Sarajevo de Est este un parc de distracții cu activități pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
+                  ]
             }
       ],
       "en": [
@@ -9521,6 +10250,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.367438,
                         43.848205
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Sunnyland in East Sarajevo is a theme park with activities for families.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
                   ]
             }
       ]
@@ -10289,7 +11027,52 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-banovici-cities-v2.webp",
   },
   {
-    id: "bosniaherzegovina-brijesce-cities-v2",
+    id: "bosniaherzegovina-brijesce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terme Ilidža",
+                  "text": "Die Terme Ilidža in Brijesce ist ein Wasserpark mit verschiedenen Becken für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        18.311426,
+                        43.82773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terme Ilidža",
+                  "text": "A brijescei Terme Ilidža egy vízi park, amely különféle medencékkel várja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        18.311426,
+                        43.82773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terme Ilidža",
+                  "text": "Terme Ilidža din Brijesce este un parc acvatic cu diverse bazine pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        18.311426,
+                        43.82773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terme Ilidža",
+                  "text": "Terme Ilidža in Brijesce is a water park featuring various pools for visitors.",
+                  "category": "family",
+                  "coords": [
+                        18.311426,
+                        43.82773
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BA",
     name: { de: "Briješće", hu: "Briješće", ro: "Briješće", en: "Briješće" },
@@ -10992,6 +11775,51 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.379302,
                         43.816414
                   ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Amman Spa & Hammam in Istocni Stari Grad ist ein öffentliches Bad zur Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Pionirska dolina",
+                  "text": "Der Zoološki vrt Pionirska dolina in Istocni Stari Grad ist ein beliebtes Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.412204,
+                        43.879453
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "Bentbaša in Istocni Stari Grad bietet ein Schwimmbad für die Freizeit von Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt domaćih životinja",
+                  "text": "Der Zoološki vrt domaćih životinja in Istocni Stari Grad zeigt verschiedene Nutztierarten.",
+                  "category": "family",
+                  "coords": [
+                        18.47035,
+                        43.833324
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Sunnyland in Istocni Stari Grad bietet Unterhaltung und Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
+                  ]
             }
       ],
       "hu": [
@@ -11002,6 +11830,51 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.379302,
                         43.816414
+                  ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Az Istocni Stari Grad-i Amman Spa & Hammam egy nyilvános fürdő a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Pionirska dolina",
+                  "text": "Az Istocni Stari Grad-i Zoološki vrt Pionirska dolina a családok kedvelt úti célja.",
+                  "category": "family",
+                  "coords": [
+                        18.412204,
+                        43.879453
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "Az Istocni Stari Grad-i Bentbaša egy úszómedence a családok szabadidejéhez.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt domaćih životinja",
+                  "text": "Az Istocni Stari Grad-i Zoološki vrt domaćih životinja különféle háziasított állatfajokat mutat be.",
+                  "category": "family",
+                  "coords": [
+                        18.47035,
+                        43.833324
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Az Istocni Stari Grad-i Sunnyland szórakozást és látnivalókat kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
                   ]
             }
       ],
@@ -11014,6 +11887,51 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.379302,
                         43.816414
                   ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Amman Spa & Hammam din Istocni Stari Grad este o baie publică pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Pionirska dolina",
+                  "text": "Zoološki vrt Pionirska dolina din Istocni Stari Grad este o destinație populară pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.412204,
+                        43.879453
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "Bentbaša din Istocni Stari Grad oferă o piscină pentru timpul liber al familiilor.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt domaćih životinja",
+                  "text": "Zoološki vrt domaćih životinja din Istocni Stari Grad prezintă diverse specii de animale domestice.",
+                  "category": "family",
+                  "coords": [
+                        18.47035,
+                        43.833324
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Sunnyland din Istocni Stari Grad oferă divertisment și atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
+                  ]
             }
       ],
       "en": [
@@ -11024,6 +11942,51 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.379302,
                         43.816414
+                  ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Amman Spa & Hammam in Istocni Stari Grad is a public bath for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Pionirska dolina",
+                  "text": "Zoološki vrt Pionirska dolina in Istocni Stari Grad is a popular family destination.",
+                  "category": "family",
+                  "coords": [
+                        18.412204,
+                        43.879453
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "Bentbaša in Istocni Stari Grad offers a swimming pool for family leisure.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt domaćih životinja",
+                  "text": "Zoološki vrt domaćih životinja in Istocni Stari Grad features various domestic animal species.",
+                  "category": "family",
+                  "coords": [
+                        18.47035,
+                        43.833324
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Sunnyland in Istocni Stari Grad offers entertainment and attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
                   ]
             }
       ]
@@ -12882,6 +13845,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.628601,
                         44.408678
                   ]
+            },
+            {
+                  "name": "Toplice",
+                  "text": "Ein Schwimmbad in Petrovići für Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        18.729859,
+                        44.41628
+                  ]
             }
       ],
       "hu": [
@@ -12928,6 +13900,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.628601,
                         44.408678
+                  ]
+            },
+            {
+                  "name": "Toplice",
+                  "text": "Úszómedence Petrovići településen vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.729859,
+                        44.41628
                   ]
             }
       ],
@@ -12976,6 +13957,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.628601,
                         44.408678
                   ]
+            },
+            {
+                  "name": "Toplice",
+                  "text": "O piscină în Petrovići pentru relaxare în apă.",
+                  "category": "family",
+                  "coords": [
+                        18.729859,
+                        44.41628
+                  ]
             }
       ],
       "en": [
@@ -13022,6 +14012,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.628601,
                         44.408678
+                  ]
+            },
+            {
+                  "name": "Toplice",
+                  "text": "A swimming pool in Petrovići for water recreation.",
+                  "category": "family",
+                  "coords": [
+                        18.729859,
+                        44.41628
                   ]
             }
       ]
@@ -13160,7 +14159,52 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-roca-cities-v2.webp",
   },
   {
-    id: "bosniaherzegovina-sipovo-centar-cities-v2",
+    id: "bosniaherzegovina-sipovo-centar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazen 9. Januar",
+                  "text": "Der Bazen 9. Januar in Sipovo Center ist ein Wasserpark für den Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        17.087425,
+                        44.284516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazen 9. Januar",
+                  "text": "A Sipovo Centerben található Bazen 9. Januar egy vízipark családi látogatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        17.087425,
+                        44.284516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazen 9. Januar",
+                  "text": "Bazen 9. Januar din Sipovo Center este un parc acvatic pentru vizite în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.087425,
+                        44.284516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazen 9. Januar",
+                  "text": "Bazen 9. Januar in Sipovo Center is a water park for family visits.",
+                  "category": "family",
+                  "coords": [
+                        17.087425,
+                        44.284516
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BA",
     name: { de: "Šipovo-Zentrum", hu: "Šipovo-Központ", ro: "Šipovo-Centru", en: "Šipovo-Center" },

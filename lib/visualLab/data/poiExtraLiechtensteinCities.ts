@@ -328,6 +328,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Dieser Zoo in Muehleholz ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -653,6 +662,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Ez a Muehleholz városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -980,6 +998,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Această grădină zoologică din Muehleholz permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -1305,6 +1332,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "This zoo in Muehleholz allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ]
@@ -1684,6 +1720,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Der Greifvogelpark Buchs in Ebenholz ermöglicht faszinierende Einblicke in die Welt der Greifvögel für Besucher aller Altersklassen.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -2018,6 +2063,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Az ebenholzi Greifvogelpark Buchs lenyűgöző betekintést nyújt a ragadozó madarak világába minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -2354,6 +2408,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs din Ebenholz oferă perspective fascinante asupra lumii păsărilor de pradă pentru vizitatorii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -2688,6 +2751,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs in Ebenholz provides fascinating insights into the world of birds of prey for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ]
@@ -4353,6 +4425,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Dieser Zoo in Mitteldorf ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -4696,6 +4777,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Ez a Mitteldorf városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -5041,6 +5131,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Această grădină zoologică din Mitteldorf permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -5384,6 +5483,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "This zoo in Mitteldorf allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ]
@@ -5764,6 +5872,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Im Greifvogelpark Buchs in Haberfeld können Familien verschiedene Vogelarten in einer naturnahen Umgebung beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -6098,6 +6215,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "A haberfeldi Greifvogelpark Buchs területén a családok különféle madárfajokat figyelhetnek meg természetközeli környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -6434,6 +6560,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "La Greifvogelpark Buchs din Haberfeld, familiile pot observa diverse specii de păsări într-un mediu natural.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -6768,6 +6903,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "At Greifvogelpark Buchs in Haberfeld, families can observe various bird species in a natural environment.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ]
@@ -7140,6 +7284,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs ist ein Zoo in Letten.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -7465,6 +7618,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "A Greifvogelpark Buchs egy állatkert Letten városában.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -7792,6 +7954,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs este o grădină zoologică în Letten.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -8118,6 +8289,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs is a zoo in Letten.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ]
 },
@@ -8434,6 +8614,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Dieser Wasserpark in Quadratscha bietet Pools und Rutschen für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Dieser Zoo in Quadratscha ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -8705,6 +8903,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Ez a Quadratscha városában található vízi park medencékkel és csúszdákkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Ez a Quadratscha városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -8978,6 +9194,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Acest parc acvatic din Quadratscha oferă piscine și tobogane pentru distracția în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Această grădină zoologică din Quadratscha permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -9249,6 +9483,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "This water park in Quadratscha features pools and slides for family fun.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "This zoo in Quadratscha allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ]
@@ -9575,6 +9827,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Das Hallenbad Resch im Spoerry Areal ist ein Wasserpark, der ideal für einen aktiven Ausflug mit Kindern geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Der Greifvogelpark Buchs im Spoerry Areal bietet spannende Erlebnisse rund um die heimische Vogelwelt für Jung und Alt.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -9855,6 +10125,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "A Spoerry Areal területén található Hallenbad Resch vízi park, amely ideális egy aktív kiránduláshoz gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "A Spoerry Areal területén lévő Greifvogelpark Buchs izgalmas élményeket kínál a hazai madárvilággal kapcsolatban fiataloknak és időseknek.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -10137,6 +10425,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch din Spoerry Areal este un parc acvatic ideal pentru o excursie activă cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs din Spoerry Areal oferă experiențe captivante despre fauna aviară locală pentru tineri și vârstnici.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -10417,6 +10723,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch in Spoerry Areal is a water park ideal for an active outing with children.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs in Spoerry Areal offers exciting experiences regarding local bird life for young and old alike.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ]
@@ -10716,6 +11040,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch ist ein Wasserpark in Au.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs ist ein Zoo in Au.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -10969,6 +11311,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "A Hallenbad Resch egy vízi park Au városában.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "A Greifvogelpark Buchs egy állatkert Au városában.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -11224,6 +11584,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch este un parc acvatic în Au.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs este o grădină zoologică în Au.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -11477,6 +11855,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch is a water park in Au.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Greifvogelpark Buchs is a zoo in Au.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ]
@@ -11831,6 +12227,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Dieser Zoo in Dux ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -12138,6 +12543,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Ez a Dux városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -12447,6 +12861,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Această grădină zoologică din Dux permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -12754,6 +13177,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "This zoo in Dux allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ]
@@ -17947,7 +18379,1096 @@ export const poiExtraLiechtensteinCities: POI[] = [
     },
   },
   {
-    id: "city-birkahof-extra", "sights": {"de": [{"name": "TAK Theater Liechtenstein", "text": "Das Theater am Kirchplatz in Schaan ist ein Zentrum für Kultur.", "category": "cultural", "coords": [9.51167, 47.167359]}, {"name": "Landweibelhäuser", "text": "Historische Bauten in Schaan, die heute kulturell genutzt werden.", "category": "museum", "coords": [9.508745, 47.162847]}, {"name": "Ruine Schalun", "text": "Die Ruine einer mittelalterlichen Burg oberhalb von Vaduz.", "category": "castle", "coords": [9.533562, 47.150905]}, {"name": "domus - Galerie und Museum", "text": "Ein kultureller Ausstellungsort für Kunst und Geschichte in Schaan.", "category": "museum", "coords": [9.509482, 47.166228]}, {"name": "Römerstrasse", "text": "Ein historischer Ort mit Resten einer römischen Strasse.", "category": "historical", "coords": [9.511822, 47.168347]}, {"name": "Hallenbad Resch", "text": "Ein Hallenbad für Schwimmsport und Erholung in Schaan.", "category": "family", "coords": [9.51508, 47.166187]}, {"name": "Naturschutzgebiet Schwabbrünnen/Äscher", "text": "Ein geschütztes Naturareal im Rheintal bei Schaan.", "category": "natural", "coords": [9.532217, 47.188158]}, {"name": "Wood Bridge platform", "text": "Die Wood Bridge platform in Birkahof bietet als natürlicher Aussichtspunkt eine wunderbare Perspektive. Wer diesen Ort in Liechtenstein aufsucht, genießt einen ungestörten Blick auf die direkte Umgebung. Die Plattform ist ein idealer Stopp für Naturfreunde, die die lokale Landschaft auf sich wirken lassen möchten.", "category": "natural", "coords": [9.525856, 47.146873]}, {"name": "Summstein", "text": "Eine lokale Sehenswürdigkeit in Birkahof.", "category": "landmark", "coords": [9.522846, 47.153102]}, {"name": "Hofkellerei", "text": "Die fürstliche Hofkellerei bietet Einblicke in die Weinbau-Tradition der Region.", "category": "landmark", "coords": [9.516641, 47.145021]}, {"name": "Bienenlehrpfad Vaduz", "text": "Ein Lehrpfad, der Wissenswertes über Bienen und die Natur vermittelt.", "category": "landmark", "coords": [9.522155, 47.151042]}, {"name": "Friedhofskapelle St. Johannes", "text": "Eine spätgotische Kapelle auf dem Friedhof von Schaan.", "category": "religious", "coords": [9.513265, 47.168297]}, {"name": "St. Laurentiuskirche", "text": "Die markante neugotische Pfarrkirche von Schaan.", "category": "religious", "coords": [9.511904, 47.166457]}, {"name": "Sankt Josef", "text": "Eine kleine Kapelle in der Gemeinde Planken.", "category": "religious", "coords": [9.544334, 47.184719]}, {"name": "Evangelische Kirche", "text": "Die evangelische Kirche für das Fürstentum Liechtenstein in Ebenholz.", "category": "religious", "coords": [9.51318, 47.15158]}, {"name": "Ev.-Luth. Johanneskirche", "text": "Die lutherische Kirche in Vaduz.", "category": "religious", "coords": [9.509571, 47.148569]}, {"name": "Lokomotive Tigerli", "text": "Eine historische Dampflokomotive als Denkmal.", "category": "landmark", "coords": [9.478948, 47.167318]}, {"name": "Mühleweiher", "text": "Der Mühleweiher in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Badesee", "text": "Der Badesee in Birkahof lädt an warmen Tagen zu einer Erfrischung im Wasser ein.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Kaiserilochsee", "text": "Der Kaiserilochsee in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "Der Spörry Weiher in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Der Sägaweiher in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Werdenberger See", "text": "Der Werdenberger See in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Spielplatz Saxgass", "text": "Der Spielplatz Saxgass in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.", "category": "family", "coords": [9.51131, 47.160261]}, {"name": "Minigolfclub", "text": "Der Minigolfclub in Birkahof bietet Freizeitspaß and Unterhaltung für die ganze Familie.", "category": "family", "coords": [9.505458, 47.152124]}, {"name": "Abenteuerspielplatz Dräggspatz", "text": "Der Abenteuerspielplatz Dräggspatz in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.", "category": "family", "coords": [9.494881, 47.166152]}, {"name": "Spielplatz Kappeli", "text": "Der Spielplatz Kappeli in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.", "category": "family", "coords": [9.476192, 47.163916]}, {"name": "Freizeitanlage Dux", "text": "Der Freizeitanlage Dux in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.", "category": "family", "coords": [9.526979, 47.166942]}, {"name": "Familienpark Waldhotel", "text": "Der Familienpark Waldhotel in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.", "category": "family", "coords": [9.521198, 47.150464]}], "hu": [{"name": "TAK Theater Liechtenstein", "text": "A schaani Theater am Kirchplatz egy kulturális központ.", "category": "cultural", "coords": [9.51167, 47.167359]}, {"name": "Landweibelhäuser", "text": "Történelmi épületek Schaanban, amelyeket ma kulturális célokra használnak.", "category": "museum", "coords": [9.508745, 47.162847]}, {"name": "Ruine Schalun", "text": "Egy középkori vár romja Vaduz felett.", "category": "castle", "coords": [9.533562, 47.150905]}, {"name": "domus - Galerie und Museum", "text": "Művészeti és történelmi kiállítóhely Schaanban.", "category": "museum", "coords": [9.509482, 47.166228]}, {"name": "Römerstrasse", "text": "Történelmi helyszín egy római út maradványaival.", "category": "historical", "coords": [9.511822, 47.168347]}, {"name": "Hallenbad Resch", "text": "Fedett uszoda úszáshoz és pihenéshez Schaanban.", "category": "family", "coords": [9.51508, 47.166187]}, {"name": "Naturschutzgebiet Schwabbrünnen/Äscher", "text": "Védett természeti terület a Rajna-völgyében, Schaan közelében.", "category": "natural", "coords": [9.532217, 47.188158]}, {"name": "Wood Bridge platform", "text": "A birkahofi Wood Bridge platform természetes kilátóként csodálatos perspektívát nyújt. Aki felkeresi ezt a liechtensteini helyet, zavartalan kilátásban gyönyörködhet a közvetlen környékre. A platform ideális megállóhely azoknak a természetbarátoknak, akik szeretnék megcsodálni a helyi tájat.", "category": "natural", "coords": [9.525856, 47.146873]}, {"name": "Summstein", "text": "Helyi látványosság Birkahof településen.", "category": "landmark", "coords": [9.522846, 47.153102]}, {"name": "Hofkellerei", "text": "A hercegi borpince betekintést nyújt a régió borászati hagyományaiba.", "category": "landmark", "coords": [9.516641, 47.145021]}, {"name": "Bienenlehrpfad Vaduz", "text": "Tanösvény, amely érdekességeket mutat be a méhekről és a természetről.", "category": "landmark", "coords": [9.522155, 47.151042]}, {"name": "Friedhofskapelle St. Johannes", "text": "Késő gótikus kápolna a schaani temetőben.", "category": "religious", "coords": [9.513265, 47.168297]}, {"name": "St. Laurentiuskirche", "text": "Schaan jellegzetes neogótikus plébániatemploma.", "category": "religious", "coords": [9.511904, 47.166457]}, {"name": "Sankt Josef", "text": "Egy kis kápolna Planken községben.", "category": "religious", "coords": [9.544334, 47.184719]}, {"name": "Evangelische Kirche", "text": "A Liechtensteini Hercegség evangélikus temploma Ebenholzban.", "category": "religious", "coords": [9.51318, 47.15158]}, {"name": "Ev.-Luth. Johanneskirche", "text": "Az evangélikus-lutheránus templom Vaduzban.", "category": "religious", "coords": [9.509571, 47.148569]}, {"name": "Lokomotive Tigerli", "text": "Emlékműként kiállított történelmi gőzmozdony.", "category": "landmark", "coords": [9.478948, 47.167318]}, {"name": "Mühleweiher", "text": "A Birkahof területén fekvő Mühleweiher festői környezetet biztosít a pihentető természetjáráshoz.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Badesee", "text": "A Birkahof településen található Badesee frissítő kikapcsolódást kínál a vízparton a meleg napokon.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Kaiserilochsee", "text": "A Birkahof területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "A Birkahof területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "A Birkahof területén fekvő Sägaweiher festői környezetet biztosít a pihentető természetjáráshoz.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Werdenberger See", "text": "A Birkahof területén fekvő Werdenberger See festői környezetet biztosít a pihentető természetjáráshoz.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Spielplatz Saxgass", "text": "A Birkahof városában található Spielplatz Saxgass nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.", "category": "family", "coords": [9.51131, 47.160261]}, {"name": "Minigolfclub", "text": "A Birkahof településen lévő Minigolfclub szabadidős szórakozást és kikapcsolódást nyújt az egész családnak.", "category": "family", "coords": [9.505458, 47.152124]}, {"name": "Abenteuerspielplatz Dräggspatz", "text": "A Birkahof városában található Abenteuerspielplatz Dräggspatz nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.", "category": "family", "coords": [9.494881, 47.166152]}, {"name": "Spielplatz Kappeli", "text": "A Birkahof városában található Spielplatz Kappeli nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.", "category": "family", "coords": [9.476192, 47.163916]}, {"name": "Freizeitanlage Dux", "text": "A Birkahof városában található Freizeitanlage Dux nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.", "category": "family", "coords": [9.526979, 47.166942]}, {"name": "Familienpark Waldhotel", "text": "A Birkahof városában található Familienpark Waldhotel nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.", "category": "family", "coords": [9.521198, 47.150464]}], "ro": [{"name": "TAK Theater Liechtenstein", "text": "Theater am Kirchplatz din Schaan este un centru de cultură.", "category": "cultural", "coords": [9.51167, 47.167359]}, {"name": "Landweibelhäuser", "text": "Clădiri istorice din Schaan, folosite astăzi în scopuri culturale.", "category": "museum", "coords": [9.508745, 47.162847]}, {"name": "Ruine Schalun", "text": "Ruina unei cetăți medievale situată deasupra orașului Vaduz.", "category": "castle", "coords": [9.533562, 47.150905]}, {"name": "domus - Galerie und Museum", "text": "Un loc de expoziție culturală pentru artă și istorie în Schaan.", "category": "museum", "coords": [9.509482, 47.166228]}, {"name": "Römerstrasse", "text": "Un loc istoric cu vestigii ale unui drum roman.", "category": "historical", "coords": [9.511822, 47.168347]}, {"name": "Hallenbad Resch", "text": "O piscină acoperită pentru înot și relaxare în Schaan.", "category": "family", "coords": [9.51508, 47.166187]}, {"name": "Naturschutzgebiet Schwabbrünnen/Äscher", "text": "O arie naturală protejată în valea Rinului, lângă Schaan.", "category": "natural", "coords": [9.532217, 47.188158]}, {"name": "Wood Bridge platform", "text": "Wood Bridge platform din Birkahof oferă o perspectivă minunată ca punct de belvedere natural. Cei care vizitează acest loc din Liechtenstein se vor bucura de o vedere neîntreruptă asupra împrejurimilor imediate. Platforma este o oprire ideală pentru iubitorii de natură care doresc să admire peisajul local.", "category": "natural", "coords": [9.525856, 47.146873]}, {"name": "Summstein", "text": "O atracție locală situată în Birkahof.", "category": "landmark", "coords": [9.522846, 47.153102]}, {"name": "Hofkellerei", "text": "Cramele princiare oferă o privire asupra tradiției viticole din regiune.", "category": "landmark", "coords": [9.516641, 47.145021]}, {"name": "Bienenlehrpfad Vaduz", "text": "Un traseu educațional care oferă informații despre albine și natură.", "category": "landmark", "coords": [9.522155, 47.151042]}, {"name": "Friedhofskapelle St. Johannes", "text": "O chapelă gotică târzie situată în cimitirul din Schaan.", "category": "religious", "coords": [9.513265, 47.168297]}, {"name": "St. Laurentiuskirche", "text": "Biserica parohială neogotică distinctivă din Schaan.", "category": "religious", "coords": [9.511904, 47.166457]}, {"name": "Sankt Josef", "text": "O mică chapelă situată în comuna Planken.", "category": "religious", "coords": [9.544334, 47.184719]}, {"name": "Evangelische Kirche", "text": "Biserica evanghelică pentru Principatul Liechtenstein din Ebenholz.", "category": "religious", "coords": [9.51318, 47.15158]}, {"name": "Ev.-Luth. Johanneskirche", "text": "Biserica evanghelică luterană din Vaduz.", "category": "religious", "coords": [9.509571, 47.148569]}, {"name": "Lokomotive Tigerli", "text": "O locomotivă cu aburi istorică expusă ca monument.", "category": "landmark", "coords": [9.478948, 47.167318]}, {"name": "Mühleweiher", "text": "Mühleweiher din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Badesee", "text": "Badesee din Birkahof invită la o răcorire în apă în zilele calde.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Kaiserilochsee", "text": "Kaiserilochsee din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "Spörry Weiher din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Sägaweiher din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Werdenberger See", "text": "Werdenberger See din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Spielplatz Saxgass", "text": "Spielplatz Saxgass din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.", "category": "family", "coords": [9.51131, 47.160261]}, {"name": "Minigolfclub", "text": "Minigolfclub din Birkahof oferă distracție și divertisment pentru întreaga familie.", "category": "family", "coords": [9.505458, 47.152124]}, {"name": "Abenteuerspielplatz Dräggspatz", "text": "Abenteuerspielplatz Dräggspatz din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.", "category": "family", "coords": [9.494881, 47.166152]}, {"name": "Spielplatz Kappeli", "text": "Spielplatz Kappeli din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.", "category": "family", "coords": [9.476192, 47.163916]}, {"name": "Freizeitanlage Dux", "text": "Freizeitanlage Dux din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.", "category": "family", "coords": [9.526979, 47.166942]}, {"name": "Familienpark Waldhotel", "text": "Familienpark Waldhotel din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.", "category": "family", "coords": [9.521198, 47.150464]}], "en": [{"name": "TAK Theater Liechtenstein", "text": "The Theater am Kirchplatz in Schaan is a cultural hub.", "category": "cultural", "coords": [9.51167, 47.167359]}, {"name": "Landweibelhäuser", "text": "Historical buildings in Schaan currently used for cultural events.", "category": "museum", "coords": [9.508745, 47.162847]}, {"name": "Ruine Schalun", "text": "The ruins of a medieval castle overlooking Vaduz.", "category": "castle", "coords": [9.533562, 47.150905]}, {"name": "domus - Gallery and Museum", "text": "A cultural venue for art and history exhibitions in Schaan.", "category": "museum", "coords": [9.509482, 47.166228]}, {"name": "Römerstrasse", "text": "A historical site featuring remains of a Roman road.", "category": "historical", "coords": [9.511822, 47.168347]}, {"name": "Hallenbad Resch", "text": "An indoor pool for swimming and recreation in Schaan.", "category": "family", "coords": [9.51508, 47.166187]}, {"name": "Naturschutzgebiet Schwabbrünnen/Äscher", "text": "A protected natural area in the Rhine Valley near Schaan.", "category": "natural", "coords": [9.532217, 47.188158]}, {"name": "Wood Bridge platform", "text": "The Wood Bridge platform in Birkahof offers a wonderful perspective as a natural viewpoint. Those who visit this spot in Liechtenstein will enjoy an uninterrupted view of the immediate surroundings. The platform is an ideal stop for nature lovers who want to take in the local landscape.", "category": "natural", "coords": [9.525856, 47.146873]}, {"name": "Summstein", "text": "A local attraction located in Birkahof.", "category": "landmark", "coords": [9.522846, 47.153102]}, {"name": "Hofkellerei", "text": "The Princely Wine Cellars offer insight into the region's viticultural traditions.", "category": "landmark", "coords": [9.516641, 47.145021]}, {"name": "Bienenlehrpfad Vaduz", "text": "An educational trail providing information about bees and nature.", "category": "landmark", "coords": [9.522155, 47.151042]}, {"name": "Friedhofskapelle St. Johannes", "text": "A late Gothic chapel located in the Schaan cemetery.", "category": "religious", "coords": [9.513265, 47.168297]}, {"name": "St. Laurentiuskirche", "text": "The prominent Neo-Gothic parish church of Schaan.", "category": "religious", "coords": [9.511904, 47.166457]}, {"name": "Sankt Josef", "text": "A small chapel located in the municipality of Planken.", "category": "religious", "coords": [9.544334, 47.184719]}, {"name": "Evangelische Kirche", "text": "The Evangelical church for the Principality of Liechtenstein in Ebenholz.", "category": "religious", "coords": [9.51318, 47.15158]}, {"name": "Ev.-Luth. Johanneskirche", "text": "The Evangelical Lutheran church in Vaduz.", "category": "religious", "coords": [9.509571, 47.148569]}, {"name": "Lokomotive Tigerli", "text": "A historic steam locomotive preserved as a monument.", "category": "landmark", "coords": [9.478948, 47.167318]}, {"name": "Mühleweiher", "text": "Mühleweiher in Birkahof offers a picturesque setting for relaxing walks in nature.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Badesee", "text": "Badesee in Birkahof is a great spot for a refreshing dip in the water on warm days.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Kaiserilochsee", "text": "Kaiserilochsee in Birkahof offers a picturesque setting for relaxing walks in nature.", "category": "natural", "coords": [9.462766, 47.11405]}, {"name": "Spörry Weiher", "text": "Spörry Weiher in Birkahof offers a picturesque setting for relaxing walks in nature.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Sägaweiher in Birkahof offers a picturesque setting for relaxing walks in nature.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Werdenberger See", "text": "Werdenberger See in Birkahof offers a picturesque setting for relaxing walks in nature.", "category": "natural", "coords": [9.464004, 47.167121]}, {"name": "Spielplatz Saxgass", "text": "Spielplatz Saxgass in Birkahof is a lovely destination for families and offers space for children to play.", "category": "family", "coords": [9.51131, 47.160261]}, {"name": "Minigolfclub", "text": "Minigolfclub in Birkahof offers leisure fun and entertainment for the whole family.", "category": "family", "coords": [9.505458, 47.152124]}, {"name": "Abenteuerspielplatz Dräggspatz", "text": "Abenteuerspielplatz Dräggspatz in Birkahof is a lovely destination for families and offers space for children to play.", "category": "family", "coords": [9.494881, 47.166152]}, {"name": "Spielplatz Kappeli", "text": "Spielplatz Kappeli in Birkahof is a lovely destination for families and offers space for children to play.", "category": "family", "coords": [9.476192, 47.163916]}, {"name": "Freizeitanlage Dux", "text": "Freizeitanlage Dux in Birkahof is a lovely destination for families and offers space for children to play.", "category": "family", "coords": [9.526979, 47.166942]}, {"name": "Familienpark Waldhotel", "text": "Familienpark Waldhotel in Birkahof is a lovely destination for families and offers space for children to play.", "category": "family", "coords": [9.521198, 47.150464]}]},
+    id: "city-birkahof-extra", "sights": {
+      "de": [
+            {
+                  "name": "TAK Theater Liechtenstein",
+                  "text": "Das Theater am Kirchplatz in Schaan ist ein Zentrum für Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        9.51167,
+                        47.167359
+                  ]
+            },
+            {
+                  "name": "Landweibelhäuser",
+                  "text": "Historische Bauten in Schaan, die heute kulturell genutzt werden.",
+                  "category": "museum",
+                  "coords": [
+                        9.508745,
+                        47.162847
+                  ]
+            },
+            {
+                  "name": "Ruine Schalun",
+                  "text": "Die Ruine einer mittelalterlichen Burg oberhalb von Vaduz.",
+                  "category": "castle",
+                  "coords": [
+                        9.533562,
+                        47.150905
+                  ]
+            },
+            {
+                  "name": "domus - Galerie und Museum",
+                  "text": "Ein kultureller Ausstellungsort für Kunst und Geschichte in Schaan.",
+                  "category": "museum",
+                  "coords": [
+                        9.509482,
+                        47.166228
+                  ]
+            },
+            {
+                  "name": "Römerstrasse",
+                  "text": "Ein historischer Ort mit Resten einer römischen Strasse.",
+                  "category": "historical",
+                  "coords": [
+                        9.511822,
+                        47.168347
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Ein Hallenbad für Schwimmsport und Erholung in Schaan.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schwabbrünnen/Äscher",
+                  "text": "Ein geschütztes Naturareal im Rheintal bei Schaan.",
+                  "category": "natural",
+                  "coords": [
+                        9.532217,
+                        47.188158
+                  ]
+            },
+            {
+                  "name": "Wood Bridge platform",
+                  "text": "Die Wood Bridge platform in Birkahof bietet als natürlicher Aussichtspunkt eine wunderbare Perspektive. Wer diesen Ort in Liechtenstein aufsucht, genießt einen ungestörten Blick auf die direkte Umgebung. Die Plattform ist ein idealer Stopp für Naturfreunde, die die lokale Landschaft auf sich wirken lassen möchten.",
+                  "category": "natural",
+                  "coords": [
+                        9.525856,
+                        47.146873
+                  ]
+            },
+            {
+                  "name": "Summstein",
+                  "text": "Eine lokale Sehenswürdigkeit in Birkahof.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522846,
+                        47.153102
+                  ]
+            },
+            {
+                  "name": "Hofkellerei",
+                  "text": "Die fürstliche Hofkellerei bietet Einblicke in die Weinbau-Tradition der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.516641,
+                        47.145021
+                  ]
+            },
+            {
+                  "name": "Bienenlehrpfad Vaduz",
+                  "text": "Ein Lehrpfad, der Wissenswertes über Bienen und die Natur vermittelt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522155,
+                        47.151042
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle St. Johannes",
+                  "text": "Eine spätgotische Kapelle auf dem Friedhof von Schaan.",
+                  "category": "religious",
+                  "coords": [
+                        9.513265,
+                        47.168297
+                  ]
+            },
+            {
+                  "name": "St. Laurentiuskirche",
+                  "text": "Die markante neugotische Pfarrkirche von Schaan.",
+                  "category": "religious",
+                  "coords": [
+                        9.511904,
+                        47.166457
+                  ]
+            },
+            {
+                  "name": "Sankt Josef",
+                  "text": "Eine kleine Kapelle in der Gemeinde Planken.",
+                  "category": "religious",
+                  "coords": [
+                        9.544334,
+                        47.184719
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Die evangelische Kirche für das Fürstentum Liechtenstein in Ebenholz.",
+                  "category": "religious",
+                  "coords": [
+                        9.51318,
+                        47.15158
+                  ]
+            },
+            {
+                  "name": "Ev.-Luth. Johanneskirche",
+                  "text": "Die lutherische Kirche in Vaduz.",
+                  "category": "religious",
+                  "coords": [
+                        9.509571,
+                        47.148569
+                  ]
+            },
+            {
+                  "name": "Lokomotive Tigerli",
+                  "text": "Eine historische Dampflokomotive als Denkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        9.478948,
+                        47.167318
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Birkahof lädt an warmen Tagen zu einer Erfrischung im Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Der Kaiserilochsee in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Birkahof bietet eine malerische Kulisse für erholsame Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Der Spielplatz Saxgass in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Der Minigolfclub in Birkahof bietet Freizeitspaß and Unterhaltung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Der Abenteuerspielplatz Dräggspatz in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Der Spielplatz Kappeli in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Der Freizeitanlage Dux in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Der Familienpark Waldhotel in Birkahof ist ein schönes Ziel für Familien und bietet Kindern Raum zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Dieser Zoo in Birkahof ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "TAK Theater Liechtenstein",
+                  "text": "A schaani Theater am Kirchplatz egy kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        9.51167,
+                        47.167359
+                  ]
+            },
+            {
+                  "name": "Landweibelhäuser",
+                  "text": "Történelmi épületek Schaanban, amelyeket ma kulturális célokra használnak.",
+                  "category": "museum",
+                  "coords": [
+                        9.508745,
+                        47.162847
+                  ]
+            },
+            {
+                  "name": "Ruine Schalun",
+                  "text": "Egy középkori vár romja Vaduz felett.",
+                  "category": "castle",
+                  "coords": [
+                        9.533562,
+                        47.150905
+                  ]
+            },
+            {
+                  "name": "domus - Galerie und Museum",
+                  "text": "Művészeti és történelmi kiállítóhely Schaanban.",
+                  "category": "museum",
+                  "coords": [
+                        9.509482,
+                        47.166228
+                  ]
+            },
+            {
+                  "name": "Römerstrasse",
+                  "text": "Történelmi helyszín egy római út maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        9.511822,
+                        47.168347
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Fedett uszoda úszáshoz és pihenéshez Schaanban.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schwabbrünnen/Äscher",
+                  "text": "Védett természeti terület a Rajna-völgyében, Schaan közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.532217,
+                        47.188158
+                  ]
+            },
+            {
+                  "name": "Wood Bridge platform",
+                  "text": "A birkahofi Wood Bridge platform természetes kilátóként csodálatos perspektívát nyújt. Aki felkeresi ezt a liechtensteini helyet, zavartalan kilátásban gyönyörködhet a közvetlen környékre. A platform ideális megállóhely azoknak a természetbarátoknak, akik szeretnék megcsodálni a helyi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        9.525856,
+                        47.146873
+                  ]
+            },
+            {
+                  "name": "Summstein",
+                  "text": "Helyi látványosság Birkahof településen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522846,
+                        47.153102
+                  ]
+            },
+            {
+                  "name": "Hofkellerei",
+                  "text": "A hercegi borpince betekintést nyújt a régió borászati hagyományaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.516641,
+                        47.145021
+                  ]
+            },
+            {
+                  "name": "Bienenlehrpfad Vaduz",
+                  "text": "Tanösvény, amely érdekességeket mutat be a méhekről és a természetről.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522155,
+                        47.151042
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle St. Johannes",
+                  "text": "Késő gótikus kápolna a schaani temetőben.",
+                  "category": "religious",
+                  "coords": [
+                        9.513265,
+                        47.168297
+                  ]
+            },
+            {
+                  "name": "St. Laurentiuskirche",
+                  "text": "Schaan jellegzetes neogótikus plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        9.511904,
+                        47.166457
+                  ]
+            },
+            {
+                  "name": "Sankt Josef",
+                  "text": "Egy kis kápolna Planken községben.",
+                  "category": "religious",
+                  "coords": [
+                        9.544334,
+                        47.184719
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "A Liechtensteini Hercegség evangélikus temploma Ebenholzban.",
+                  "category": "religious",
+                  "coords": [
+                        9.51318,
+                        47.15158
+                  ]
+            },
+            {
+                  "name": "Ev.-Luth. Johanneskirche",
+                  "text": "Az evangélikus-lutheránus templom Vaduzban.",
+                  "category": "religious",
+                  "coords": [
+                        9.509571,
+                        47.148569
+                  ]
+            },
+            {
+                  "name": "Lokomotive Tigerli",
+                  "text": "Emlékműként kiállított történelmi gőzmozdony.",
+                  "category": "landmark",
+                  "coords": [
+                        9.478948,
+                        47.167318
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Birkahof területén fekvő Mühleweiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Birkahof településen található Badesee frissítő kikapcsolódást kínál a vízparton a meleg napokon.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "A Birkahof területén fekvő Kaiserilochsee festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Birkahof területén fekvő Spörry Weiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Birkahof területén fekvő Sägaweiher festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Birkahof területén fekvő Werdenberger See festői környezetet biztosít a pihentető természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "A Birkahof városában található Spielplatz Saxgass nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "A Birkahof településen lévő Minigolfclub szabadidős szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "A Birkahof városában található Abenteuerspielplatz Dräggspatz nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "A Birkahof városában található Spielplatz Kappeli nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "A Birkahof városában található Freizeitanlage Dux nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "A Birkahof városában található Familienpark Waldhotel nagyszerű úti cél családoknak, és játékteret biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Ez a Birkahof városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "TAK Theater Liechtenstein",
+                  "text": "Theater am Kirchplatz din Schaan este un centru de cultură.",
+                  "category": "cultural",
+                  "coords": [
+                        9.51167,
+                        47.167359
+                  ]
+            },
+            {
+                  "name": "Landweibelhäuser",
+                  "text": "Clădiri istorice din Schaan, folosite astăzi în scopuri culturale.",
+                  "category": "museum",
+                  "coords": [
+                        9.508745,
+                        47.162847
+                  ]
+            },
+            {
+                  "name": "Ruine Schalun",
+                  "text": "Ruina unei cetăți medievale situată deasupra orașului Vaduz.",
+                  "category": "castle",
+                  "coords": [
+                        9.533562,
+                        47.150905
+                  ]
+            },
+            {
+                  "name": "domus - Galerie und Museum",
+                  "text": "Un loc de expoziție culturală pentru artă și istorie în Schaan.",
+                  "category": "museum",
+                  "coords": [
+                        9.509482,
+                        47.166228
+                  ]
+            },
+            {
+                  "name": "Römerstrasse",
+                  "text": "Un loc istoric cu vestigii ale unui drum roman.",
+                  "category": "historical",
+                  "coords": [
+                        9.511822,
+                        47.168347
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "O piscină acoperită pentru înot și relaxare în Schaan.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schwabbrünnen/Äscher",
+                  "text": "O arie naturală protejată în valea Rinului, lângă Schaan.",
+                  "category": "natural",
+                  "coords": [
+                        9.532217,
+                        47.188158
+                  ]
+            },
+            {
+                  "name": "Wood Bridge platform",
+                  "text": "Wood Bridge platform din Birkahof oferă o perspectivă minunată ca punct de belvedere natural. Cei care vizitează acest loc din Liechtenstein se vor bucura de o vedere neîntreruptă asupra împrejurimilor imediate. Platforma este o oprire ideală pentru iubitorii de natură care doresc să admire peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        9.525856,
+                        47.146873
+                  ]
+            },
+            {
+                  "name": "Summstein",
+                  "text": "O atracție locală situată în Birkahof.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522846,
+                        47.153102
+                  ]
+            },
+            {
+                  "name": "Hofkellerei",
+                  "text": "Cramele princiare oferă o privire asupra tradiției viticole din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        9.516641,
+                        47.145021
+                  ]
+            },
+            {
+                  "name": "Bienenlehrpfad Vaduz",
+                  "text": "Un traseu educațional care oferă informații despre albine și natură.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522155,
+                        47.151042
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle St. Johannes",
+                  "text": "O chapelă gotică târzie situată în cimitirul din Schaan.",
+                  "category": "religious",
+                  "coords": [
+                        9.513265,
+                        47.168297
+                  ]
+            },
+            {
+                  "name": "St. Laurentiuskirche",
+                  "text": "Biserica parohială neogotică distinctivă din Schaan.",
+                  "category": "religious",
+                  "coords": [
+                        9.511904,
+                        47.166457
+                  ]
+            },
+            {
+                  "name": "Sankt Josef",
+                  "text": "O mică chapelă situată în comuna Planken.",
+                  "category": "religious",
+                  "coords": [
+                        9.544334,
+                        47.184719
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Biserica evanghelică pentru Principatul Liechtenstein din Ebenholz.",
+                  "category": "religious",
+                  "coords": [
+                        9.51318,
+                        47.15158
+                  ]
+            },
+            {
+                  "name": "Ev.-Luth. Johanneskirche",
+                  "text": "Biserica evanghelică luterană din Vaduz.",
+                  "category": "religious",
+                  "coords": [
+                        9.509571,
+                        47.148569
+                  ]
+            },
+            {
+                  "name": "Lokomotive Tigerli",
+                  "text": "O locomotivă cu aburi istorică expusă ca monument.",
+                  "category": "landmark",
+                  "coords": [
+                        9.478948,
+                        47.167318
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Birkahof invită la o răcorire în apă în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Birkahof oferă un cadru pitoresc pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub din Birkahof oferă distracție și divertisment pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel din Birkahof este o destinație frumoasă pentru familii și oferă copiilor spațiu de joacă.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Această grădină zoologică din Birkahof permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "TAK Theater Liechtenstein",
+                  "text": "The Theater am Kirchplatz in Schaan is a cultural hub.",
+                  "category": "cultural",
+                  "coords": [
+                        9.51167,
+                        47.167359
+                  ]
+            },
+            {
+                  "name": "Landweibelhäuser",
+                  "text": "Historical buildings in Schaan currently used for cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        9.508745,
+                        47.162847
+                  ]
+            },
+            {
+                  "name": "Ruine Schalun",
+                  "text": "The ruins of a medieval castle overlooking Vaduz.",
+                  "category": "castle",
+                  "coords": [
+                        9.533562,
+                        47.150905
+                  ]
+            },
+            {
+                  "name": "domus - Gallery and Museum",
+                  "text": "A cultural venue for art and history exhibitions in Schaan.",
+                  "category": "museum",
+                  "coords": [
+                        9.509482,
+                        47.166228
+                  ]
+            },
+            {
+                  "name": "Römerstrasse",
+                  "text": "A historical site featuring remains of a Roman road.",
+                  "category": "historical",
+                  "coords": [
+                        9.511822,
+                        47.168347
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "An indoor pool for swimming and recreation in Schaan.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schwabbrünnen/Äscher",
+                  "text": "A protected natural area in the Rhine Valley near Schaan.",
+                  "category": "natural",
+                  "coords": [
+                        9.532217,
+                        47.188158
+                  ]
+            },
+            {
+                  "name": "Wood Bridge platform",
+                  "text": "The Wood Bridge platform in Birkahof offers a wonderful perspective as a natural viewpoint. Those who visit this spot in Liechtenstein will enjoy an uninterrupted view of the immediate surroundings. The platform is an ideal stop for nature lovers who want to take in the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.525856,
+                        47.146873
+                  ]
+            },
+            {
+                  "name": "Summstein",
+                  "text": "A local attraction located in Birkahof.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522846,
+                        47.153102
+                  ]
+            },
+            {
+                  "name": "Hofkellerei",
+                  "text": "The Princely Wine Cellars offer insight into the region's viticultural traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        9.516641,
+                        47.145021
+                  ]
+            },
+            {
+                  "name": "Bienenlehrpfad Vaduz",
+                  "text": "An educational trail providing information about bees and nature.",
+                  "category": "landmark",
+                  "coords": [
+                        9.522155,
+                        47.151042
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle St. Johannes",
+                  "text": "A late Gothic chapel located in the Schaan cemetery.",
+                  "category": "religious",
+                  "coords": [
+                        9.513265,
+                        47.168297
+                  ]
+            },
+            {
+                  "name": "St. Laurentiuskirche",
+                  "text": "The prominent Neo-Gothic parish church of Schaan.",
+                  "category": "religious",
+                  "coords": [
+                        9.511904,
+                        47.166457
+                  ]
+            },
+            {
+                  "name": "Sankt Josef",
+                  "text": "A small chapel located in the municipality of Planken.",
+                  "category": "religious",
+                  "coords": [
+                        9.544334,
+                        47.184719
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "The Evangelical church for the Principality of Liechtenstein in Ebenholz.",
+                  "category": "religious",
+                  "coords": [
+                        9.51318,
+                        47.15158
+                  ]
+            },
+            {
+                  "name": "Ev.-Luth. Johanneskirche",
+                  "text": "The Evangelical Lutheran church in Vaduz.",
+                  "category": "religious",
+                  "coords": [
+                        9.509571,
+                        47.148569
+                  ]
+            },
+            {
+                  "name": "Lokomotive Tigerli",
+                  "text": "A historic steam locomotive preserved as a monument.",
+                  "category": "landmark",
+                  "coords": [
+                        9.478948,
+                        47.167318
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Birkahof is a great spot for a refreshing dip in the water on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Kaiserilochsee",
+                  "text": "Kaiserilochsee in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.462766,
+                        47.11405
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Birkahof offers a picturesque setting for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Spielplatz Saxgass",
+                  "text": "Spielplatz Saxgass in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.51131,
+                        47.160261
+                  ]
+            },
+            {
+                  "name": "Minigolfclub",
+                  "text": "Minigolfclub in Birkahof offers leisure fun and entertainment for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.505458,
+                        47.152124
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Dräggspatz",
+                  "text": "Abenteuerspielplatz Dräggspatz in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.494881,
+                        47.166152
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kappeli",
+                  "text": "Spielplatz Kappeli in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.476192,
+                        47.163916
+                  ]
+            },
+            {
+                  "name": "Freizeitanlage Dux",
+                  "text": "Freizeitanlage Dux in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.526979,
+                        47.166942
+                  ]
+            },
+            {
+                  "name": "Familienpark Waldhotel",
+                  "text": "Familienpark Waldhotel in Birkahof is a lovely destination for families and offers space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.521198,
+                        47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "This zoo in Birkahof allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-002",
     coords: [9.5140, 47.1720],
@@ -18334,6 +19855,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "Im Greifvogelpark Buchs in Bardella können Naturfreunde die Welt der Greifvögel in einer ansprechenden Anlage entdecken.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "hu": [
@@ -18677,6 +20207,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "A bardellai Greifvogelpark Buchs területén a természetbarátok vonzó környezetben fedezhetik fel a ragadozó madarak világát.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ],
@@ -19022,6 +20561,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.521198,
                         47.150464
                   ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "La Greifvogelpark Buchs din Bardella, iubitorii de natură pot descoperi lumea păsărilor de pradă într-o amenajare atractivă.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
+                  ]
             }
       ],
       "en": [
@@ -19365,6 +20913,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.521198,
                         47.150464
+                  ]
+            },
+            {
+                  "name": "Greifvogelpark Buchs",
+                  "text": "At Greifvogelpark Buchs in Bardella, nature lovers can discover the world of birds of prey in an appealing facility.",
+                  "category": "family",
+                  "coords": [
+                        9.474548,
+                        47.154117
                   ]
             }
       ]
@@ -22819,6 +24376,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Im Seilpark im Forst in Maels können Familien gemeinsam ihre Grenzen beim Klettern austesten.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -23009,6 +24575,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "A maelsi Seilpark im Forst területén a családok közösen tehetik próbára határaikat a mászás során.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -23201,6 +24776,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "La Seilpark im Forst din Maels, familiile își pot testa împreună limitele la cățărat.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -23391,6 +24975,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "At Seilpark im Forst in Maels, families can test their limits together while climbing.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ]
@@ -23663,6 +25256,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst ist ein Freizeitpark im Gutenberg Quartier.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -23889,6 +25491,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "A Seilpark im Forst egy vidámpark Gutenberg Quartier városában.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -24117,6 +25728,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst este un parc de distracții în Gutenberg Quartier.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -24343,6 +25963,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst is a theme park in Gutenberg Quartier.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ]
@@ -24588,6 +26217,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Dieser Freizeitpark in St Peter bietet verschiedene Aktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -24787,6 +26425,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Ez a St Peter városában található vidámpark különféle tevékenységeket kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -24988,6 +26635,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Acest parc tematic din St Peter oferă diverse activități pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -25187,6 +26843,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "This theme park in St Peter provides various activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ]
@@ -25459,6 +27124,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Der Seilpark im Forst in Palduz ist ein ideales Ziel für einen abenteuerlichen Familienausflug in den Wald.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -25685,6 +27359,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "A palduzi Seilpark im Forst ideális célpont egy kalandos erdei családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -25913,6 +27596,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst din Palduz este o destinație ideală pentru o excursie de familie plină de aventură în pădure.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -26139,6 +27831,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst in Palduz is an ideal destination for an adventurous family outing in the forest.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ]
@@ -26412,6 +28113,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst ist ein Freizeitpark in Junkerau.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -26638,6 +28348,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "A Seilpark im Forst egy vidámpark Junkerau városában.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -26866,6 +28585,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst este un parc de distracții în Junkerau.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -27092,6 +28820,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst is a theme park in Junkerau.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ]
@@ -28246,6 +29983,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Der Seilpark im Forst in Unterm Schloss bietet abwechslungsreiche Parcours für Kletterfreunde jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -28472,6 +30218,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Az Unterm Schloss területén lévő Seilpark im Forst változatos pályákat kínál a mászás kedvelőinek minden korosztályban.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -28700,6 +30455,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.489,
                         47.060761
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst din Unterm Schloss oferă trasee variate pentru pasionații de cățărat de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -28926,6 +30690,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.489,
                         47.060761
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst in Unterm Schloss offers varied courses for climbing enthusiasts of all ages.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ]
@@ -33465,6 +35238,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Im Seilpark im Forst in Rotenboden können Besucher verschiedene Schwierigkeitsstufen beim Klettern erleben.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -33718,6 +35500,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "A rotenbodeni Seilpark im Forst látogatói különféle nehézségi szinteket próbálhatnak ki a mászás során.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -33973,6 +35764,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "La Seilpark im Forst din Rotenboden, vizitatorii pot experimenta diverse niveluri de dificultate la cățărat.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -34226,6 +36026,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "At Seilpark im Forst in Rotenboden, visitors can experience various difficulty levels while climbing.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ]
@@ -35342,6 +37151,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Dieser Freizeitpark in Steinort bietet verschiedene Aktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -35568,6 +37386,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Ez a Steinort városában található vidámpark különféle tevékenységeket kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -35796,6 +37623,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Acest parc tematic din Steinort oferă diverse activități pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -36022,6 +37858,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "This theme park in Steinort provides various activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ]
@@ -37588,6 +39433,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Dieser Freizeitpark in Guflina bietet verschiedene Aktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -37814,6 +39668,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Ez a Guflina városában található vidámpark különféle tevékenységeket kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -38042,6 +39905,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Acest parc tematic din Guflina oferă diverse activități pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -38269,6 +40141,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "This theme park in Guflina provides various activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ]
 },
@@ -38459,6 +40340,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Der Seilpark im Forst in Lavadina lädt dazu ein, die Natur aus einer neuen Perspektive beim Klettern zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "hu": [
@@ -38604,6 +40494,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "A lavadinai Seilpark im Forst arra hív, hogy a természetet új perspektívából fedezze fel mászás közben.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ],
@@ -38751,6 +40650,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551928,
                         47.111453
                   ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst din Lavadina invită la descoperirea naturii dintr-o perspectivă nouă prin cățărat.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
+                  ]
             }
       ],
       "en": [
@@ -38896,6 +40804,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551928,
                         47.111453
+                  ]
+            },
+            {
+                  "name": "Seilpark im Forst",
+                  "text": "Seilpark im Forst in Lavadina invites you to discover nature from a new perspective while climbing.",
+                  "category": "family",
+                  "coords": [
+                        9.527212,
+                        47.093328
                   ]
             }
       ]
@@ -39069,6 +40986,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch ist ein Wasserpark in Nendeln.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
             }
       ],
       "hu": [
@@ -39196,6 +41122,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.464004,
                         47.167121
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "A Hallenbad Resch egy vízi park Nendeln városában.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
                   ]
             }
       ],
@@ -39325,6 +41260,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch este un parc acvatic în Nendeln.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
             }
       ],
       "en": [
@@ -39452,6 +41396,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.464004,
                         47.167121
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch is a water park in Nendeln.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
                   ]
             }
       ]
@@ -43888,6 +45841,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Schwimmbad Felsenau",
+                  "text": "Das Schwimmbad Felsenau in Schaanwald ist ein Freibad, das an heißen Tagen für Abkühlung und Familienspaß sorgt.",
+                  "category": "family",
+                  "coords": [
+                        9.602168,
+                        47.227032
+                  ]
             }
       ],
       "hu": [
@@ -44132,6 +46094,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Felsenau",
+                  "text": "A schaanwaldi Schwimmbad Felsenau egy szabadtéri úszómedence, amely hűsölést és családi szórakozást nyújt a forró napokon.",
+                  "category": "family",
+                  "coords": [
+                        9.602168,
+                        47.227032
                   ]
             }
       ],
@@ -44378,6 +46349,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Schwimmbad Felsenau",
+                  "text": "Schwimmbad Felsenau din Schaanwald este o piscină în aer liber care oferă răcorire și distracție în familie în zilele toride.",
+                  "category": "family",
+                  "coords": [
+                        9.602168,
+                        47.227032
+                  ]
             }
       ],
       "en": [
@@ -44622,6 +46602,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Felsenau",
+                  "text": "Schwimmbad Felsenau in Schaanwald is an outdoor pool providing cooling and family fun on hot days.",
+                  "category": "family",
+                  "coords": [
+                        9.602168,
+                        47.227032
                   ]
             }
       ]
@@ -53660,6 +55649,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Dieser Zoo in city-saroja-extra ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Dieser Wasserpark in city-saroja-extra bietet Pools und Rutschen für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
             }
       ],
       "hu": [
@@ -53706,6 +55713,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ez a city-saroja-extra városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Ez a city-saroja-extra városában található vízi park medencékkel és csúszdákkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
                   ]
             }
       ],
@@ -53754,6 +55779,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Această grădină zoologică din city-saroja-extra permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Acest parc acvatic din city-saroja-extra oferă piscine și tobogane pentru distracția în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
             }
       ],
       "en": [
@@ -53800,6 +55843,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "This zoo in city-saroja-extra allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "This water park in city-saroja-extra features pools and slides for family fun.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
                   ]
             }
       ]
@@ -54009,6 +56070,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Das Vogelparadies Birka in Gafadura ist ein Zoo, der die Vielfalt der Vogelwelt in einer ruhigen Umgebung präsentiert.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Das Hallenbad Resch in Gafadura bietet als Wasserpark vielfältige Möglichkeiten für Spiel und Sport im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
             }
       ],
       "hu": [
@@ -54172,6 +56251,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A gafadurai Vogelparadies Birka egy állatkert, amely nyugodt környezetben mutatja be a madárvilág sokszínűségét.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "A gafadurai Hallenbad Resch vízi parkként változatos lehetőségeket kínál a vizes játékhoz és sporthoz.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
                   ]
             }
       ],
@@ -54337,6 +56434,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka din Gafadura este o grădină zoologică ce prezintă diversitatea lumii păsărilor într-un mediu liniștit.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch din Gafadura oferă, ca parc acvatic, diverse opțiuni pentru joacă și sport în apă.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
             }
       ],
       "en": [
@@ -54500,6 +56615,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka in Gafadura is a zoo presenting the diversity of the bird world in a peaceful environment.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch in Gafadura, as a water park, offers various opportunities for play and sports in the water.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
                   ]
             }
       ]
@@ -54727,6 +56860,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka ist ein Zoo in Ruetti.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -54908,6 +57050,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A Vogelparadies Birka egy állatkert Ruetti városában.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -55091,6 +57242,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka este o grădină zoologică în Ruetti.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -55272,6 +57432,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka is a zoo in Ruetti.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ]
@@ -55518,6 +57687,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Dieser Zoo in Wes ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -55717,6 +57895,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ez a Wes városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -55918,6 +58105,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Această grădină zoologică din Wes permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -56117,6 +58313,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "This zoo in Wes allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ]
@@ -56380,6 +58585,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Im Vogelparadies Birka in Schuetz können Familien zahlreiche Vogelarten in einer gepflegten Anlage beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -56597,6 +58811,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A schuetzi Vogelparadies Birka területén a családok számos madárfajt figyelhetnek meg egy gondozott parkban.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -56816,6 +59039,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "La Vogelparadies Birka din Schuetz, familiile pot observa numeroase specii de păsări într-o amenajare îngrijită.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -57034,6 +59266,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "At Vogelparadies Birka in Schuetz, families can observe numerous bird species in a well-maintained facility.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ]
 },
@@ -57224,6 +59465,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka ist ein Zoo in Holz.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch ist ein Wasserpark in Holz.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
             }
       ],
       "hu": [
@@ -57369,6 +59628,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A Vogelparadies Birka egy állatkert Holz városában.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "A Hallenbad Resch egy vízi park Holz városában.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
                   ]
             }
       ],
@@ -57516,6 +59793,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka este o grădină zoologică în Holz.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch este un parc acvatic în Holz.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
+                  ]
             }
       ],
       "en": [
@@ -57661,6 +59956,24 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka is a zoo in Holz.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            },
+            {
+                  "name": "Hallenbad Resch",
+                  "text": "Hallenbad Resch is a water park in Holz.",
+                  "category": "family",
+                  "coords": [
+                        9.51508,
+                        47.166187
                   ]
             }
       ]
@@ -57861,6 +60174,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Dieser Zoo in Nuella ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -58015,6 +60337,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ez a Nuella városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -58171,6 +60502,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Această grădină zoologică din Nuella permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -58325,6 +60665,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "This zoo in Nuella allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ]
@@ -59398,6 +61747,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka ist ein Zoo in Ruettistein.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -59579,6 +61937,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A Vogelparadies Birka egy állatkert Ruettistein városában.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -59762,6 +62129,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.526979,
                         47.166942
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka este o grădină zoologică în Ruettistein.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -59943,6 +62319,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.526979,
                         47.166942
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka is a zoo in Ruettistein.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ]
@@ -60270,6 +62655,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Wildpark Feldkirch",
+                  "text": "Dieser Zoo in Hinterschellenberg ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.599797,
+                        47.246983
+                  ]
             }
       ],
       "hu": [
@@ -60550,6 +62944,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Wildpark Feldkirch",
+                  "text": "Ez a Hinterschellenberg városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.599797,
+                        47.246983
                   ]
             }
       ],
@@ -60832,6 +63235,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Wildpark Feldkirch",
+                  "text": "Această grădină zoologică din Hinterschellenberg permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.599797,
+                        47.246983
+                  ]
             }
       ],
       "en": [
@@ -61112,6 +63524,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Wildpark Feldkirch",
+                  "text": "This zoo in Hinterschellenberg allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.599797,
+                        47.246983
                   ]
             }
       ]
@@ -65734,6 +68155,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Wildpark Feldkirch",
+                  "text": "Wildpark Feldkirch ist ein Zoo in Gantenstein.",
+                  "category": "family",
+                  "coords": [
+                        9.599797,
+                        47.246983
+                  ]
             }
       ],
       "hu": [
@@ -66032,6 +68462,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Wildpark Feldkirch",
+                  "text": "A Wildpark Feldkirch egy állatkert Gantenstein városában.",
+                  "category": "family",
+                  "coords": [
+                        9.599797,
+                        47.246983
                   ]
             }
       ],
@@ -66332,6 +68771,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Wildpark Feldkirch",
+                  "text": "Wildpark Feldkirch este o grădină zoologică în Gantenstein.",
+                  "category": "family",
+                  "coords": [
+                        9.599797,
+                        47.246983
+                  ]
             }
       ],
       "en": [
@@ -66630,6 +69078,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Wildpark Feldkirch",
+                  "text": "Wildpark Feldkirch is a zoo in Gantenstein.",
+                  "category": "family",
+                  "coords": [
+                        9.599797,
+                        47.246983
                   ]
             }
       ]
@@ -68984,7 +71441,952 @@ export const poiExtraLiechtensteinCities: POI[] = [
     },
   },
   {
-    id: "city-limsenegg-extra", "sights": {"de": [{"name": "Ruine Neu-Schellenberg", "text": "Mittelalterliche Burgruine auf dem Eschnerberg.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "In Limsenegg zeugt die Ruine Alt-Schellenberg von mittelalterlicher Baukunst in Schellenberg. Diese historische Befestigungsanlage ist ein bedeutendes Zeugnis der Vergangenheit Liechtensteins. Ein Besuch dieser Überreste bietet spannende Einblicke in die damalige Verteidigungsarchitektur.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Die gut erhaltene Burganlage Burg Forstegg bereichert die Umgebung von Limsenegg. Ursprünglich zur Gemeinde Sennwald gehörend, strahlt dieses historische Bauwerk viel Geschichte aus. Gäste können hier eine imposante Festung erkunden, die von vergangenen liechtensteinischen und regionalen Zeiten erzählt.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "Ein denkmalgeschütztes Bauernhaus, das als Museum dient.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "An einer ehemaligen Richtstätte in Limsenegg befindet sich der historische Galgen Galgenmad. Dieser archäologische Fundplatz bietet einen tiefen Einblick in die dunklere Historie Liechtensteins. Interessierte Besucher können hier einen Ort besichtigen, an dem früher Gerichtsbarkeit auf drastische Weise vollzogen wurde.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Die Alte Wagenspur in Limsenegg zeigt deutlich die Spuren historischer Verkehrswege. Diese Relikte in Liechtenstein erinnern an die Transportmethoden einer längst vergangenen Zeit. Es ist ein faszinierendes Erlebnis für Geschichtsinteressierte, den eingegrabenen Rillen alter Fuhrwerke zu folgen.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Ein geschützter Lebensraum für Flora und Fauna erwartet Sie im Naturschutzgebiet Gampriner Seelein bei Limsenegg. Im Zentrum dieses liechtensteinischen Areals liegt ein idyllischer See, der zur ruhigen Naturbeobachtung einlädt. Besucher finden hier einen friedvollen Rückzugsort mit einer großen Artenvielfalt.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "Ein naturbelassenes Schutzgebiet zur Erhaltung der lokalen Biodiversität.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Naturschutzgebiet Au", "text": "Ein wertvolles Feuchtbiotop und geschützter Naturraum.", "category": "natural", "coords": [9.533845, 47.260958]}, {"name": "Dreiländereck", "text": "Ein geografischer Punkt, an dem drei Grenzen aufeinandertreffen.", "category": "landmark", "coords": [9.531355, 47.270085]}, {"name": "Kapelle Heilige Sebastian und Fridolin", "text": "Ein historisches Denkmal religiöser Architektur in Limsenegg.", "category": "landmark", "coords": [9.545094, 47.265598]}, {"name": "Kirche Salez", "text": "Ein sakrales Gebäude für Gottesdienste in Limsenegg.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Reformierte Kirche", "text": "Evangelische Kirche für den Gottesdienst in der Region.", "category": "religious", "coords": [9.507921, 47.265487]}, {"name": "St. Fridolin", "text": "Auch von Limsenegg aus ist die katholische Pfarrkirche St. Fridolin ein präsentes Bauwerk der Gemeinde Ruggell. Die Kirche dient als wichtiger spiritueller Raum in Liechtenstein. Ein Besuch lohnt sich für alle, die die religiöse Architektur und die ruhige Atmosphäre dieses Gotteshauses schätzen.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Der Mühleweiher in Limsenegg lädt zu ruhigen Momenten am Ufer ein.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Das Baggerloch Nägele in Limsenegg bietet eine friedliche Atmosphäre in der Natur.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Das Baggerloch Wilhelm & Mayer in Limsenegg ist ein lokaler See für kurze Pausen im Grünen.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Das Baggerloch Hilti & Jehle in Limsenegg bietet einen ruhigen Rückzugsort am Wasser.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Der Baggersee Klostergatter in Limsenegg lädt an warmen Tagen zum Verweilen ein.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Der Sämtisersee bei Limsenegg ist bekannt für seine malerische Lage.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "Der Güfelsee in Limsenegg bietet eine idyllische Kulisse für Naturliebhaber.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "Die Alte Rüttenen in Limsenegg ist ein ruhiger See für entspannte Spaziergänge.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Der Badesee in Limsenegg ist ein beliebtes Ziel für eine Abkühlung im Sommer.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Der Sägaweiher in Limsenegg bietet eine friedliche Atmosphäre am Wasser.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "Der Spielplatz Schellenberg in Limsenegg bietet Kindern Raum für Bewegung an der frischen Luft.", "category": "family", "coords": [9.545982, 47.231859]}], "hu": [{"name": "Ruine Neu-Schellenberg", "text": "Középkori várrom az Eschnerberg dombon.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "Limseneggben a Ruine Alt-Schellenberg a schellenbergi középkori építészetről tanúskodik. Ez a történelmi erődítmény jelentős bizonyítéka Liechtenstein múltjának. Ezen romok megtekintése izgalmas betekintést nyújt az akkori idők védelmi építészetébe.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "A jól megőrzött Burg Forstegg kastélykomplexum Limsenegg környékét gazdagítja. Az eredetileg Sennwald községhez tartozó történelmi épület sok történelmet sugároz magából. A vendégek egy impozáns erődöt fedezhetnek fel itt, amely elmúlt liechtensteini és regionális időkről mesél.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "Műemléki védelem alatt álló parasztház, amely múzeumként működik.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "A történelmi Galgen Galgenmad egy egykori kivégzőhelyen található Limseneggben. Ez a régészeti lelőhely mély betekintést nyújt Liechtenstein sötétebb történelmébe. Az érdeklődő látogatók egy olyan helyet tekinthetnek meg itt, ahol egykor drasztikus módon szolgáltattak igazságot.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "A limseneggi Alte Wagenspur egyértelműen mutatja a történelmi közlekedési útvonalak nyomait. Ezek a liechtensteini relikviák egy letűnt kor közlekedési módszereire emlékeztetnek. A történelem szerelmeseinek lenyűgöző élmény nyomon követni a régi szekerek által kivájt barázdákat.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Védett élőhely várja a növény- és állatvilágot a Limsenegg melletti Naturschutzgebiet Gampriner Seelein természetvédelmi területen. E liechtensteini terület központjában egy idilli tó található, amely békés természetmegfigyelésre csábít. A látogatók békés menedéket találnak itt, a fajok nagy változatosságával.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "Természetvédelmi terület a helyi biológiai sokféleség megőrzésére.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Naturschutzgebiet Au", "text": "Értékes vizes élőhely és védett természeti terület.", "category": "natural", "coords": [9.533845, 47.260958]}, {"name": "Dreiländereck", "text": "Földrajzi pont, ahol három állam határa találkozik.", "category": "landmark", "coords": [9.531355, 47.270085]}, {"name": "Kapelle Heilige Sebastian und Fridolin", "text": "A vallási építészet történelmi emléke Limseneggben.", "category": "landmark", "coords": [9.545094, 47.265598]}, {"name": "Kirche Salez", "text": "Szakrális épület istentiszteletek számára Limseneggben.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Reformierte Kirche", "text": "Református templom a régió hívő közössége számára.", "category": "religious", "coords": [9.507921, 47.265487]}, {"name": "St. Fridolin", "text": "Szintén Limseneggből látható a St. Fridolin katolikus plébániatemplom, Ruggell község kiemelkedő építménye. A templom fontos spirituális térként szolgál Liechtensteinben. Érdemes ellátogatni ide mindazoknak, akik értékelik az istentiszteleti hely vallási építészetét és csendes légkörét.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "A Limseneggben található Mühleweiher nyugodt vízparti pillanatokra hív.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "A Limseneggben fekvő Baggerloch Nägele békés természeti környezetet kínál.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "A Limseneggben található Baggerloch Wilhelm & Mayer egy helyi tó a rövid erdei pihenőkhöz.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "A Limseneggben lévő Baggerloch Hilti & Jehle csendes vízparti pihenőhelyet nyújt.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "A Limseneggben található Baggersee Klostergatter a meleg napokon pihenésre csábít.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "A Limsenegg közelében fekvő Sämtisersee festői elhelyezkedéséről ismert.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "A Limseneggben található Güfelsee idilli környezetet biztosít a természetbarátoknak.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "A Limseneggben fekvő Alte Rüttenen egy csendes tó a pihentető sétákhoz.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "A Limseneggben található Badesee népszerű helyszín a nyári felfrissüléshez.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "A Limseneggben lévő Sägaweiher békés vízparti légkört biztosít.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "A Limseneggben található schellenbergi játszótér teret ad a gyerekeknek a friss levegőn való játékhoz.", "category": "family", "coords": [9.545982, 47.231859]}], "ro": [{"name": "Ruine Neu-Schellenberg", "text": "Ruinele unui castel medieval situat pe dealul Eschnerberg.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "În Limsenegg, Ruine Alt-Schellenberg stă mărturie arhitecturii medievale din Schellenberg. Această fortificație istorică este un testament semnificativ al trecutului Liechtensteinului. O vizită la aceste rămășițe oferă perspective captivante asupra arhitecturii defensive de la acea vreme.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Complexul de castel bine conservat Burg Forstegg îmbogățește împrejurimile orașului Limsenegg. Aparținând inițial de municipalitatea Sennwald, această clădire istorică emană multă istorie. Oaspeții pot explora aici o fortăreață impunătoare, care vorbește despre vremurile trecute ale Liechtensteinului și ale regiunii.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "O casă țărănească istorică ce servește drept muzeu.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "Istoricul Galgen Galgenmad este situat într-un fost loc de execuție din Limsenegg. Acest sit arheologic oferă o perspectivă profundă asupra istoriei mai întunecate a Liechtensteinului. Vizitatorii interesați pot vedea aici un loc unde justiția a fost odată înfăptuită într-un mod drastic.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Alte Wagenspur din Limsenegg arată clar urmele rutelor de trafic istorice. Aceste relicve din Liechtenstein reamintesc de metodele de transport dintr-o epocă de mult apusă. Este o experiență fascinantă pentru pasionații de istorie să urmărească șanțurile sculptate ale vechilor căruțe.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Un habitat protejat pentru floră și faună vă așteaptă în Naturschutzgebiet Gampriner Seelein lângă Limsenegg. În centrul acestei zone din Liechtenstein se află un lac idilic care invită la observarea pașnică a naturii. Vizitatorii vor găsi aici o retragere pașnică, cu o mare varietate de specii.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "O arie naturală protejată pentru conservarea biodiversității locale.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Naturschutzgebiet Au", "text": "Un biotop umed valoros și o arie naturală protejată.", "category": "natural", "coords": [9.533845, 47.260958]}, {"name": "Dreiländereck", "text": "Un punct geografic unde se întâlnesc trei frontiere.", "category": "landmark", "coords": [9.531355, 47.270085]}, {"name": "Kapelle Heilige Sebastian und Fridolin", "text": "Un monument istoric de arhitectură religioasă în Limsenegg.", "category": "landmark", "coords": [9.545094, 47.265598]}, {"name": "Kirche Salez", "text": "Un edificiu sacru pentru slujbe religioase în Limsenegg.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Reformierte Kirche", "text": "O biserică reformată pentru serviciul religios din regiune.", "category": "religious", "coords": [9.507921, 47.265487]}, {"name": "St. Fridolin", "text": "Vizibilă și din Limsenegg, biserica parohială catolică St. Fridolin este o structură proeminentă a municipalității Ruggell. Biserica servește ca un spațiu spiritual important în Liechtenstein. O vizită merită pentru oricine apreciază arhitectura religioasă și atmosfera liniștită a acestui lăcaș de cult.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Mühleweiher din Limsenegg invită la momente de liniște pe mal.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Baggerloch Nägele din Limsenegg oferă o atmosferă pașnică în natură.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Baggerloch Wilhelm & Mayer din Limsenegg este un lac local pentru scurte pauze în natură.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Baggerloch Hilti & Jehle din Limsenegg oferă un refugiu liniștit pe malul apei.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Baggersee Klostergatter din Limsenegg invită la relaxare în zilele calde.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Lacul Sämtisersee de lângă Limsenegg este cunoscut pentru locația sa pitorească.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "Güfelsee din Limsenegg oferă un cadru idilic pentru iubitorii de natură.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "Alte Rüttenen din Limsenegg este un lac liniștit pentru plimbări relaxante.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Lacul pentru scăldat din Limsenegg este o destinație populară pentru răcorire în timpul verii.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Sägaweiher din Limsenegg oferă o atmosferă pașnică pe malul apei.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "Locul de joacă Schellenberg din Limsenegg oferă copiilor spațiu pentru mișcare în aer liber.", "category": "family", "coords": [9.545982, 47.231859]}], "en": [{"name": "Ruine Neu-Schellenberg", "text": "Medieval castle ruins located on the Eschnerberg hill.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "In Limsenegg, the Ruine Alt-Schellenberg bears witness to medieval architecture in Schellenberg. This historic fortification is a significant testament to Liechtenstein's past. A visit to these remains offers exciting insights into the defensive architecture of that time.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "The well-preserved Burg Forstegg castle complex enriches the surroundings of Limsenegg. Originally belonging to the Sennwald municipality, this historical building exudes a lot of history. Guests can explore an imposing fortress here that tells of past Liechtenstein and regional times.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "A heritage-protected farmhouse that serves as a museum.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "The historical Galgen Galgenmad is located at a former place of execution in Limsenegg. This archaeological site offers a deep insight into the darker history of Liechtenstein. Interested visitors can tour a place here where justice was once carried out in a drastic manner.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "The Alte Wagenspur in Limsenegg clearly shows the traces of historical traffic routes. These relics in Liechtenstein are a reminder of the transport methods of a bygone era. It is a fascinating experience for history buffs to follow the carved grooves of old wagons.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "A protected habitat for flora and fauna awaits you in the Naturschutzgebiet Gampriner Seelein near Limsenegg. At the center of this area in Liechtenstein is an idyllic lake that invites peaceful nature observation. Visitors will find a peaceful retreat with a great variety of species here.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "A natural protected area for the conservation of local biodiversity.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Naturschutzgebiet Au", "text": "A valuable wetland habitat and protected natural area.", "category": "natural", "coords": [9.533845, 47.260958]}, {"name": "Dreiländereck", "text": "An archaeological and geographical point where three borders meet.", "category": "landmark", "coords": [9.531355, 47.270085]}, {"name": "Kapelle Heilige Sebastian und Fridolin", "text": "A historical monument of religious architecture in Limsenegg.", "category": "landmark", "coords": [9.545094, 47.265598]}, {"name": "Kirche Salez", "text": "A sacred building for religious services in Limsenegg.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Reformierte Kirche", "text": "A reformed church for worship services in the region.", "category": "religious", "coords": [9.507921, 47.265487]}, {"name": "St. Fridolin", "text": "Also visible from Limsenegg, the Catholic parish church of St. Fridolin is a prominent structure of the Ruggell municipality. The church serves as an important spiritual space in Liechtenstein. A visit is worthwhile for anyone who appreciates the religious architecture and the quiet atmosphere of this place of worship.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "The Mühleweiher in Limsenegg invites visitors to enjoy quiet moments by the shore.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "The Baggerloch Nägele in Limsenegg offers a peaceful atmosphere in nature.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "The Baggerloch Wilhelm & Mayer in Limsenegg is a local lake for short breaks in the countryside.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "The Baggerloch Hilti & Jehle in Limsenegg offers a quiet retreat by the water.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "The Baggersee Klostergatter in Limsenegg invites visitors to linger on warm days.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "The Sämtisersee near Limsenegg is known for its picturesque location.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "The Güfelsee in Limsenegg offers an idyllic setting for nature lovers.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "The Alte Rüttenen in Limsenegg is a quiet lake for relaxing walks.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "The bathing lake in Limsenegg is a popular destination for a summer dip.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "The Sägaweiher in Limsenegg offers a peaceful atmosphere by the water.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "The Schellenberg playground in Limsenegg offers children space for outdoor activity.", "category": "family", "coords": [9.545982, 47.231859]}]},
+    id: "city-limsenegg-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Mittelalterliche Burgruine auf dem Eschnerberg.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "In Limsenegg zeugt die Ruine Alt-Schellenberg von mittelalterlicher Baukunst in Schellenberg. Diese historische Befestigungsanlage ist ein bedeutendes Zeugnis der Vergangenheit Liechtensteins. Ein Besuch dieser Überreste bietet spannende Einblicke in die damalige Verteidigungsarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Die gut erhaltene Burganlage Burg Forstegg bereichert die Umgebung von Limsenegg. Ursprünglich zur Gemeinde Sennwald gehörend, strahlt dieses historische Bauwerk viel Geschichte aus. Gäste können hier eine imposante Festung erkunden, die von vergangenen liechtensteinischen und regionalen Zeiten erzählt.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "Ein denkmalgeschütztes Bauernhaus, das als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "An einer ehemaligen Richtstätte in Limsenegg befindet sich der historische Galgen Galgenmad. Dieser archäologische Fundplatz bietet einen tiefen Einblick in die dunklere Historie Liechtensteins. Interessierte Besucher können hier einen Ort besichtigen, an dem früher Gerichtsbarkeit auf drastische Weise vollzogen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Die Alte Wagenspur in Limsenegg zeigt deutlich die Spuren historischer Verkehrswege. Diese Relikte in Liechtenstein erinnern an die Transportmethoden einer längst vergangenen Zeit. Es ist ein faszinierendes Erlebnis für Geschichtsinteressierte, den eingegrabenen Rillen alter Fuhrwerke zu folgen.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Ein geschützter Lebensraum für Flora und Fauna erwartet Sie im Naturschutzgebiet Gampriner Seelein bei Limsenegg. Im Zentrum dieses liechtensteinischen Areals liegt ein idyllischer See, der zur ruhigen Naturbeobachtung einlädt. Besucher finden hier einen friedvollen Rückzugsort mit einer großen Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "Ein naturbelassenes Schutzgebiet zur Erhaltung der lokalen Biodiversität.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Au",
+                  "text": "Ein wertvolles Feuchtbiotop und geschützter Naturraum.",
+                  "category": "natural",
+                  "coords": [
+                        9.533845,
+                        47.260958
+                  ]
+            },
+            {
+                  "name": "Dreiländereck",
+                  "text": "Ein geografischer Punkt, an dem drei Grenzen aufeinandertreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.531355,
+                        47.270085
+                  ]
+            },
+            {
+                  "name": "Kapelle Heilige Sebastian und Fridolin",
+                  "text": "Ein historisches Denkmal religiöser Architektur in Limsenegg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.545094,
+                        47.265598
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Ein sakrales Gebäude für Gottesdienste in Limsenegg.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Evangelische Kirche für den Gottesdienst in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        9.507921,
+                        47.265487
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Auch von Limsenegg aus ist die katholische Pfarrkirche St. Fridolin ein präsentes Bauwerk der Gemeinde Ruggell. Die Kirche dient als wichtiger spiritueller Raum in Liechtenstein. Ein Besuch lohnt sich für alle, die die religiöse Architektur und die ruhige Atmosphäre dieses Gotteshauses schätzen.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Limsenegg lädt zu ruhigen Momenten am Ufer ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Limsenegg bietet eine friedliche Atmosphäre in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Limsenegg ist ein lokaler See für kurze Pausen im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Limsenegg bietet einen ruhigen Rückzugsort am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Limsenegg lädt an warmen Tagen zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Limsenegg ist bekannt für seine malerische Lage.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Limsenegg bietet eine idyllische Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Limsenegg ist ein ruhiger See für entspannte Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Limsenegg ist ein beliebtes Ziel für eine Abkühlung im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Limsenegg bietet eine friedliche Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Limsenegg bietet Kindern Raum für Bewegung an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Dieser Zoo in Limsenegg ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Középkori várrom az Eschnerberg dombon.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Limseneggben a Ruine Alt-Schellenberg a schellenbergi középkori építészetről tanúskodik. Ez a történelmi erődítmény jelentős bizonyítéka Liechtenstein múltjának. Ezen romok megtekintése izgalmas betekintést nyújt az akkori idők védelmi építészetébe.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "A jól megőrzött Burg Forstegg kastélykomplexum Limsenegg környékét gazdagítja. Az eredetileg Sennwald községhez tartozó történelmi épület sok történelmet sugároz magából. A vendégek egy impozáns erődöt fedezhetnek fel itt, amely elmúlt liechtensteini és regionális időkről mesél.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "Műemléki védelem alatt álló parasztház, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "A történelmi Galgen Galgenmad egy egykori kivégzőhelyen található Limseneggben. Ez a régészeti lelőhely mély betekintést nyújt Liechtenstein sötétebb történelmébe. Az érdeklődő látogatók egy olyan helyet tekinthetnek meg itt, ahol egykor drasztikus módon szolgáltattak igazságot.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "A limseneggi Alte Wagenspur egyértelműen mutatja a történelmi közlekedési útvonalak nyomait. Ezek a liechtensteini relikviák egy letűnt kor közlekedési módszereire emlékeztetnek. A történelem szerelmeseinek lenyűgöző élmény nyomon követni a régi szekerek által kivájt barázdákat.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Védett élőhely várja a növény- és állatvilágot a Limsenegg melletti Naturschutzgebiet Gampriner Seelein természetvédelmi területen. E liechtensteini terület központjában egy idilli tó található, amely békés természetmegfigyelésre csábít. A látogatók békés menedéket találnak itt, a fajok nagy változatosságával.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "Természetvédelmi terület a helyi biológiai sokféleség megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Au",
+                  "text": "Értékes vizes élőhely és védett természeti terület.",
+                  "category": "natural",
+                  "coords": [
+                        9.533845,
+                        47.260958
+                  ]
+            },
+            {
+                  "name": "Dreiländereck",
+                  "text": "Földrajzi pont, ahol három állam határa találkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        9.531355,
+                        47.270085
+                  ]
+            },
+            {
+                  "name": "Kapelle Heilige Sebastian und Fridolin",
+                  "text": "A vallási építészet történelmi emléke Limseneggben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.545094,
+                        47.265598
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Szakrális épület istentiszteletek számára Limseneggben.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Református templom a régió hívő közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        9.507921,
+                        47.265487
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Szintén Limseneggből látható a St. Fridolin katolikus plébániatemplom, Ruggell község kiemelkedő építménye. A templom fontos spirituális térként szolgál Liechtensteinben. Érdemes ellátogatni ide mindazoknak, akik értékelik az istentiszteleti hely vallási építészetét és csendes légkörét.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Limseneggben található Mühleweiher nyugodt vízparti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Limseneggben fekvő Baggerloch Nägele békés természeti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Limseneggben található Baggerloch Wilhelm & Mayer egy helyi tó a rövid erdei pihenőkhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Limseneggben lévő Baggerloch Hilti & Jehle csendes vízparti pihenőhelyet nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Limseneggben található Baggersee Klostergatter a meleg napokon pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Limsenegg közelében fekvő Sämtisersee festői elhelyezkedéséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "A Limseneggben található Güfelsee idilli környezetet biztosít a természetbarátoknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Limseneggben fekvő Alte Rüttenen egy csendes tó a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Limseneggben található Badesee népszerű helyszín a nyári felfrissüléshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Limseneggben lévő Sägaweiher békés vízparti légkört biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Limseneggben található schellenbergi játszótér teret ad a gyerekeknek a friss levegőn való játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ez a Limsenegg városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Ruinele unui castel medieval situat pe dealul Eschnerberg.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "În Limsenegg, Ruine Alt-Schellenberg stă mărturie arhitecturii medievale din Schellenberg. Această fortificație istorică este un testament semnificativ al trecutului Liechtensteinului. O vizită la aceste rămășițe oferă perspective captivante asupra arhitecturii defensive de la acea vreme.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Complexul de castel bine conservat Burg Forstegg îmbogățește împrejurimile orașului Limsenegg. Aparținând inițial de municipalitatea Sennwald, această clădire istorică emană multă istorie. Oaspeții pot explora aici o fortăreață impunătoare, care vorbește despre vremurile trecute ale Liechtensteinului și ale regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "O casă țărănească istorică ce servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "Istoricul Galgen Galgenmad este situat într-un fost loc de execuție din Limsenegg. Acest sit arheologic oferă o perspectivă profundă asupra istoriei mai întunecate a Liechtensteinului. Vizitatorii interesați pot vedea aici un loc unde justiția a fost odată înfăptuită într-un mod drastic.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Alte Wagenspur din Limsenegg arată clar urmele rutelor de trafic istorice. Aceste relicve din Liechtenstein reamintesc de metodele de transport dintr-o epocă de mult apusă. Este o experiență fascinantă pentru pasionații de istorie să urmărească șanțurile sculptate ale vechilor căruțe.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Un habitat protejat pentru floră și faună vă așteaptă în Naturschutzgebiet Gampriner Seelein lângă Limsenegg. În centrul acestei zone din Liechtenstein se află un lac idilic care invită la observarea pașnică a naturii. Vizitatorii vor găsi aici o retragere pașnică, cu o mare varietate de specii.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "O arie naturală protejată pentru conservarea biodiversității locale.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Au",
+                  "text": "Un biotop umed valoros și o arie naturală protejată.",
+                  "category": "natural",
+                  "coords": [
+                        9.533845,
+                        47.260958
+                  ]
+            },
+            {
+                  "name": "Dreiländereck",
+                  "text": "Un punct geografic unde se întâlnesc trei frontiere.",
+                  "category": "landmark",
+                  "coords": [
+                        9.531355,
+                        47.270085
+                  ]
+            },
+            {
+                  "name": "Kapelle Heilige Sebastian und Fridolin",
+                  "text": "Un monument istoric de arhitectură religioasă în Limsenegg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.545094,
+                        47.265598
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Un edificiu sacru pentru slujbe religioase în Limsenegg.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "O biserică reformată pentru serviciul religios din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        9.507921,
+                        47.265487
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Vizibilă și din Limsenegg, biserica parohială catolică St. Fridolin este o structură proeminentă a municipalității Ruggell. Biserica servește ca un spațiu spiritual important în Liechtenstein. O vizită merită pentru oricine apreciază arhitectura religioasă și atmosfera liniștită a acestui lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Limsenegg invită la momente de liniște pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Limsenegg oferă o atmosferă pașnică în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Limsenegg este un lac local pentru scurte pauze în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Limsenegg oferă un refugiu liniștit pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Limsenegg invită la relaxare în zilele calde.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Lacul Sämtisersee de lângă Limsenegg este cunoscut pentru locația sa pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Limsenegg oferă un cadru idilic pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Limsenegg este un lac liniștit pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul pentru scăldat din Limsenegg este o destinație populară pentru răcorire în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Limsenegg oferă o atmosferă pașnică pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Schellenberg din Limsenegg oferă copiilor spațiu pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Această grădină zoologică din Limsenegg permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Medieval castle ruins located on the Eschnerberg hill.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "In Limsenegg, the Ruine Alt-Schellenberg bears witness to medieval architecture in Schellenberg. This historic fortification is a significant testament to Liechtenstein's past. A visit to these remains offers exciting insights into the defensive architecture of that time.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "The well-preserved Burg Forstegg castle complex enriches the surroundings of Limsenegg. Originally belonging to the Sennwald municipality, this historical building exudes a lot of history. Guests can explore an imposing fortress here that tells of past Liechtenstein and regional times.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "A heritage-protected farmhouse that serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "The historical Galgen Galgenmad is located at a former place of execution in Limsenegg. This archaeological site offers a deep insight into the darker history of Liechtenstein. Interested visitors can tour a place here where justice was once carried out in a drastic manner.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "The Alte Wagenspur in Limsenegg clearly shows the traces of historical traffic routes. These relics in Liechtenstein are a reminder of the transport methods of a bygone era. It is a fascinating experience for history buffs to follow the carved grooves of old wagons.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "A protected habitat for flora and fauna awaits you in the Naturschutzgebiet Gampriner Seelein near Limsenegg. At the center of this area in Liechtenstein is an idyllic lake that invites peaceful nature observation. Visitors will find a peaceful retreat with a great variety of species here.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "A natural protected area for the conservation of local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Au",
+                  "text": "A valuable wetland habitat and protected natural area.",
+                  "category": "natural",
+                  "coords": [
+                        9.533845,
+                        47.260958
+                  ]
+            },
+            {
+                  "name": "Dreiländereck",
+                  "text": "An archaeological and geographical point where three borders meet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.531355,
+                        47.270085
+                  ]
+            },
+            {
+                  "name": "Kapelle Heilige Sebastian und Fridolin",
+                  "text": "A historical monument of religious architecture in Limsenegg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.545094,
+                        47.265598
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "A sacred building for religious services in Limsenegg.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "A reformed church for worship services in the region.",
+                  "category": "religious",
+                  "coords": [
+                        9.507921,
+                        47.265487
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Also visible from Limsenegg, the Catholic parish church of St. Fridolin is a prominent structure of the Ruggell municipality. The church serves as an important spiritual space in Liechtenstein. A visit is worthwhile for anyone who appreciates the religious architecture and the quiet atmosphere of this place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Limsenegg invites visitors to enjoy quiet moments by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "The Baggerloch Nägele in Limsenegg offers a peaceful atmosphere in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "The Baggerloch Wilhelm & Mayer in Limsenegg is a local lake for short breaks in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "The Baggerloch Hilti & Jehle in Limsenegg offers a quiet retreat by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in Limsenegg invites visitors to linger on warm days.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "The Sämtisersee near Limsenegg is known for its picturesque location.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "The Güfelsee in Limsenegg offers an idyllic setting for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "The Alte Rüttenen in Limsenegg is a quiet lake for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The bathing lake in Limsenegg is a popular destination for a summer dip.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Limsenegg offers a peaceful atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Schellenberg playground in Limsenegg offers children space for outdoor activity.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "This zoo in Limsenegg allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-009",
     coords: [9.5250, 47.2450],
@@ -69236,6 +72638,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Das Vogelparadies Birka in Fofel ermöglicht es Besuchern, heimische und exotische Vogelarten kennenzulernen.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -69444,6 +72855,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A fofeli Vogelparadies Birka lehetővé teszi a látogatóknak, hogy hazai és egzotikus madárfajokat ismerjenek meg.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -69654,6 +73074,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka din Fofel permite vizitatorilor să cunoască specii de păsări locale și exotice.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -69862,6 +73291,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka in Fofel allows visitors to get to know local and exotic bird species.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ]
@@ -70134,6 +73572,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka ist ein Zoo in Oberweyer.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -70360,6 +73807,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A Vogelparadies Birka egy állatkert Oberweyer városában.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -70588,6 +74044,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka este o grădină zoologică în Oberweyer.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -70815,6 +74280,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka is a zoo in Oberweyer.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ]
 },
@@ -70860,7 +74334,1024 @@ export const poiExtraLiechtensteinCities: POI[] = [
     },
   },
   {
-    id: "city-unterweyer-extra", "sights": {"de": [{"name": "Ruine Neu-Schellenberg", "text": "Mittelalterliche Burgruine auf dem Eschnerberg.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "Nahe Unterweyer erinnert die Ruine Alt-Schellenberg an die Befestigungsanlagen aus dem Mittelalter. Die Überbleibsel dieses Bauwerks in Schellenberg sind ein faszinierendes Stück liechtensteinischer Geschichte. Wer durch diese alten Mauern wandert, spürt den Hauch einer längst vergangenen Epoche.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Von Unterweyer lässt sich die gut erhaltene Burganlage Burg Forstegg gut erreichen. Obwohl sie zur Gemeinde Sennwald gerechnet wird, prägt sie auch diese liechtensteinische Region maßgeblich. Besucher erwartet eine beeindruckende Zeitreise durch die steinernen Zeugnisse regionaler Befestigungskunst.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "Ein denkmalgeschütztes Bauernhaus, das als Museum dient.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "In der Nähe von Unterweyer liegt der archäologische Fundplatz Galgen Galgenmad. Die ehemalige Richtstätte ist ein stummer Zeuge der historischen Gerichtsbarkeit in Liechtenstein. Der Ort bietet einen ungewöhnlichen und nachdenklich stimmenden Einblick in die Rechtsprechung vergangener Jahrhunderte.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Bei Unterweyer verlaufen die Reste der historischen Wege namens Alte Wagenspur. Diese gut erkennbaren Relikte alter Verkehrswege dokumentieren die Mobilität einer früheren Zeit in Liechtenstein. Vor Ort können Gäste hautnah sehen, wie Fuhrwerke im Laufe der Zeit den Fels formten.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Nahe der Ortschaft Unterweyer bietet das Naturschutzgebiet Gampriner Seelein einen geschützten Raum für die Natur. Im Mittelpunkt steht ein idyllischer See, der in Liechtenstein ein Paradies für zahlreiche Tier- und Pflanzenarten bildet. Naturliebhaber erwartet hier ein harmonisches Landschaftsbild voller Ruhe.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "Ein naturbelassenes Schutzgebiet zur Erhaltung der lokalen Biodiversität.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Naturschutzgebiet Au", "text": "Ein wertvolles Feuchtbiotop und geschützter Naturraum.", "category": "natural", "coords": [9.533845, 47.260958]}, {"name": "Eschnerberg", "text": "Ein markanter Hügelzug im Fürstentum Liechtenstein.", "category": "natural", "coords": [9.566231, 47.240398]}, {"name": "Dreiländereck", "text": "Ein geografischer Punkt, an dem drei Grenzen aufeinandertreffen.", "category": "landmark", "coords": [9.531355, 47.270085]}, {"name": "Kapelle Heilige Sebastian und Fridolin", "text": "Ein historisches Denkmal religiöser Architektur.", "category": "landmark", "coords": [9.545094, 47.265598]}, {"name": "Kirche Salez", "text": "Ein sakrales Gebäude für Gottesdienste in Unterweyer.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Kapelle zu den Heiligen Martin und Magnus", "text": "Ein religiöses Bauwerk zur Verehrung der Heiligen Martin und Magnus.", "category": "religious", "coords": [9.565259, 47.24764]}, {"name": "Reformierte Kirche", "text": "Evangelische Kirche für den Gottesdienst in der Region.", "category": "religious", "coords": [9.507921, 47.265487]}, {"name": "St. Fridolin", "text": "Von Unterweyer aus schaut man ebenfalls auf die bedeutende katholische Pfarrkirche St. Fridolin in Ruggell. Das sakrale Gebäude lädt Einheimische und Besucher in Liechtenstein gleichermaßen zur Andacht ein. Wer den Ort besucht, kann die friedvolle Ausstrahlung dieser spirituellen Einrichtung genießen.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Der Mühleweiher in Unterweyer ist ein ruhiges Gewässer in naturnaher Umgebung.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Das Baggerloch Nägele in Unterweyer bietet eine entspannte Kulisse für eine kurze Pause.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Das Baggerloch Wilhelm & Mayer in Unterweyer ist ein friedlicher See für Erholungssuchende.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Das Baggerloch Hilti & Jehle in Unterweyer lädt zu ruhigen Momenten am Wasser ein.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Der Baggersee Klostergatter in Unterweyer bietet eine naturnahe Atmosphäre am Seeufer.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Der Sämtisersee bei Unterweyer ist ein schönes Ziel für Spaziergänge in der Natur.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "Der Güfelsee in Unterweyer bietet eine idyllische Umgebung für eine kurze Auszeit.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "Die Alte Rüttenen in Unterweyer ist ein kleiner See, ideal für ruhige Beobachtungen.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Der Badesee in Unterweyer lädt im Sommer zum Schwimmen und Entspannen ein.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Der Sägaweiher in Unterweyer bietet eine friedliche Kulisse für einen Aufenthalt im Freien.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "Der Spielplatz Schellenberg in Unterweyer bietet abwechslungsreiche Spielgeräte für Kinder und Familien.", "category": "family", "coords": [9.545982, 47.231859]}], "hu": [{"name": "Ruine Neu-Schellenberg", "text": "Középkori várrom az Eschnerberg dombon.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "Unterweyer közelében a Ruine Alt-Schellenberg a középkori erődítményekre emlékeztet. Ennek a schellenbergi építménynek a maradványai a liechtensteini történelem egy lenyűgöző darabját alkotják. Aki ezeken a régi falakon keresztül sétál, megérintheti egy régmúlt korszak szelét.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "A jól megőrzött Burg Forstegg kastélykomplexum Unterweyer felől könnyen megközelíthető. Bár Sennwald községhez tartozik, jelentősen formálja ezt a liechtensteini régiót is. A látogatókat egy lenyűgöző időutazás várja a regionális erődítményépítészet kőből készült bizonyítékain keresztül.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "Műemléki védelem alatt álló parasztház, amely múzeumként működik.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "Unterweyer közelében található a Galgen Galgenmad nevű régészeti lelőhely. Az egykori kivégzőhely néma tanúja Liechtenstein történelmi igazságszolgáltatásának. A helyszín szokatlan és elgondolkodtató betekintést nyújt az elmúlt évszázadok jogrendszerébe.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Az Alte Wagenspur néven ismert történelmi útvonalak maradványai Unterweyer közelében futnak. A régi közlekedési útvonalak e jól felismerhető relikviái dokumentálják a korábbi idők mobilitását Liechtensteinben. A helyszínen a vendégek testközelből láthatják, hogyan formálták a szekerek a sziklát az idő múlásával.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Unterweyer falu közelében a Naturschutzgebiet Gampriner Seelein védett teret kínál a természet számára. A fókuszpontban egy idilli tó áll, amely Liechtensteinben számos állat- és növényfaj számára jelent paradicsomot. A természetkedvelőket itt egy harmonikus, nyugalommal teli tájkép várja.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "Természetvédelmi terület a helyi biológiai sokféleség megőrzésére.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Naturschutzgebiet Au", "text": "Értékes vizes élőhely és védett természeti terület.", "category": "natural", "coords": [9.533845, 47.260958]}, {"name": "Eschnerberg", "text": "Jelentős dombság Liechtenstein területén.", "category": "natural", "coords": [9.566231, 47.240398]}, {"name": "Dreiländereck", "text": "Földrajzi pont, ahol három állam határa találkozik.", "category": "landmark", "coords": [9.531355, 47.270085]}, {"name": "Kapelle Heilige Sebastian und Fridolin", "text": "A vallási építészet történelmi emléke.", "category": "landmark", "coords": [9.545094, 47.265598]}, {"name": "Kirche Salez", "text": "Szakrális épület istentiszteletek számára Unterweyerben.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Kapelle zu den Heiligen Martin und Magnus", "text": "Szent Márton és Magnus tiszteletére emelt vallási épület.", "category": "religious", "coords": [9.565259, 47.24764]}, {"name": "Reformierte Kirche", "text": "Református templom a régió hívő közössége számára.", "category": "religious", "coords": [9.507921, 47.265487]}, {"name": "St. Fridolin", "text": "Unterweyerből is rá lehet tekinteni Ruggell fontos katolikus plébániatemplomára, a St. Fridolin épületére. A szakrális épület a helyieket és a Liechtensteinbe látogatókat egyaránt áhítatra hívja. Aki felkeresi a helyszínt, élvezheti ennek a spirituális intézménynek a békés kisugárzását.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Az Unterweyerben található Mühleweiher egy csendes tó természetközeli környezetben.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Az Unterweyerben fekvő Baggerloch Nägele pihentető környezetet nyújt egy rövid pihenőhöz.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Az Unterweyerben található Baggerloch Wilhelm & Mayer békés tó a pihenni vágyóknak.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Az Unterweyerben lévő Baggerloch Hilti & Jehle csendes vízparti pillanatokra hív.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Az Unterweyerben fekvő Baggersee Klostergatter természetközeli élményt nyújt a tóparton.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Az Unterweyer közelében található Sämtisersee remek célpont a természetbeli sétákhoz.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "Az Unterweyerben található Güfelsee idilli környezetet biztosít egy rövid kikapcsolódáshoz.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "Az Unterweyerben fekvő Alte Rüttenen egy apró tó, ideális csendes megfigyelésekre.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Az Unterweyerben található Badesee nyáron úszásra és pihenésre csábít.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Az Unterweyerben lévő Sägaweiher békés hátteret biztosít a szabadban való időtöltéshez.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "Az Unterweyer településen lévő Spielplatz Schellenberg játszótér változatos játékokat kínál a gyermekek és családok számára.", "category": "family", "coords": [9.545982, 47.231859]}], "ro": [{"name": "Ruine Neu-Schellenberg", "text": "Ruinele unui castel medieval situat pe dealul Eschnerberg.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "Lângă Unterweyer, Ruine Alt-Schellenberg servește ca o reamintire a fortificațiilor din Evul Mediu. Rămășițele acestei structuri din Schellenberg sunt o bucată fascinantă a istoriei Liechtensteinului. Cei care se plimbă prin aceste ziduri vechi vor simți suflul unei epoci demult apuse.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Complexul de castel bine conservat Burg Forstegg este ușor accesibil din Unterweyer. Deși este considerat parte a municipalității Sennwald, modelează semnificativ și această regiune a Liechtensteinului. Oaspeții se pot aștepta la o călătorie impresionantă în timp, explorând dovezile din piatră ale artei regionale de fortificare.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "O casă țărănească istorică ce servește drept muzeu.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "Situl arheologic Galgen Galgenmad este situat lângă Unterweyer. Fostul loc de execuție este un martor tăcut al jurisdicției istorice din Liechtenstein. Situl oferă o perspectivă neobișnuită și care provoacă la gândire asupra sistemului juridic din secolele trecute.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Rămășițele rutelor istorice cunoscute sub numele de Alte Wagenspur trec pe lângă Unterweyer. Aceste relicve clar recognoscibile ale vechilor rute de trafic documentează mobilitatea dintr-o epocă anterioară în Liechtenstein. La fața locului, oaspeții pot vedea de aproape cum căruțele au modelat stânca de-a lungul timpului.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Lângă satul Unterweyer, Naturschutzgebiet Gampriner Seelein oferă un spațiu protejat pentru natură. Punctul focal este un lac idilic, care formează un paradis pentru numeroase specii de animale și plante din Liechtenstein. Iubitorii de natură se pot aștepta aici la un peisaj armonios, plin de liniște.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "O arie naturală protejată pentru conservarea biodiversității locale.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Naturschutzgebiet Au", "text": "Un biotop umed valoros și o arie naturală protejată.", "category": "natural", "coords": [9.533845, 47.260958]}, {"name": "Eschnerberg", "text": "Un deal proeminent situat în Principatul Liechtenstein.", "category": "natural", "coords": [9.566231, 47.240398]}, {"name": "Dreiländereck", "text": "Un punct geografic unde se întâlnesc trei frontiere.", "category": "landmark", "coords": [9.531355, 47.270085]}, {"name": "Kapelle Heilige Sebastian und Fridolin", "text": "Un monument istoric de arhitectură religioasă.", "category": "landmark", "coords": [9.545094, 47.265598]}, {"name": "Kirche Salez", "text": "Un edificiu sacru pentru slujbe religioase în Unterweyer.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Kapelle zu den Heiligen Martin und Magnus", "text": "Un edificiu religios dedicat sfinților Martin și Magnus.", "category": "religious", "coords": [9.565259, 47.24764]}, {"name": "Reformierte Kirche", "text": "O biserică reformată pentru serviciul religios din regiune.", "category": "religious", "coords": [9.507921, 47.265487]}, {"name": "St. Fridolin", "text": "Din Unterweyer se poate privi și spre importanta biserică parohială catolică St. Fridolin din Ruggell. Clădirea sacră îi invită deopotrivă pe localnici și pe vizitatorii din Liechtenstein la rugăciune. Oricine vizitează situl se poate bucura de aura pașnică a acestei instituții spirituale.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Mühleweiher din Unterweyer este un luciu de apă liniștit într-un cadru natural.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Baggerloch Nägele din Unterweyer oferă un cadru relaxant pentru o scurtă pauză.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Baggerloch Wilhelm & Mayer din Unterweyer este un lac liniștit pentru cei care caută recreere.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Baggerloch Hilti & Jehle din Unterweyer invită la momente de liniște pe malul apei.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Baggersee Klostergatter din Unterweyer oferă o atmosferă naturală pe malul lacului.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Lacul Sämtisersee de lângă Unterweyer este o destinație frumoasă pentru plimbări în natură.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "Güfelsee din Unterweyer oferă un cadru idilic pentru o scurtă evadare.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "Alte Rüttenen din Unterweyer este un lac mic, ideal pentru observații liniștite.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Lacul pentru scăldat din Unterweyer invită la înot și relaxare în timpul verii.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Sägaweiher din Unterweyer oferă un cadru liniștit pentru petrecerea timpului în aer liber.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "Locul de joacă Spielplatz Schellenberg din Unterweyer oferă echipamente de joacă variate pentru copii și familii.", "category": "family", "coords": [9.545982, 47.231859]}], "en": [{"name": "Ruine Neu-Schellenberg", "text": "Medieval castle ruins located on the Eschnerberg hill.", "category": "castle", "coords": [9.554133, 47.232788]}, {"name": "Ruine Alt-Schellenberg", "text": "Near Unterweyer, the Ruine Alt-Schellenberg serves as a reminder of fortifications from the Middle Ages. The remains of this structure in Schellenberg are a fascinating piece of Liechtenstein's history. Those who wander through these old walls will feel the breath of a bygone era.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "The well-preserved Burg Forstegg castle complex is easily accessible from Unterweyer. Although it is considered part of the Sennwald municipality, it also significantly shapes this region of Liechtenstein. Visitors can expect an impressive journey through time exploring the stone evidence of regional fortification art.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "A heritage-protected farmhouse that serves as a museum.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "The archaeological site Galgen Galgenmad is located near Unterweyer. The former place of execution is a silent witness to historical jurisdiction in Liechtenstein. The site offers an unusual and thought-provoking insight into the legal system of past centuries.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "The remains of the historical routes known as Alte Wagenspur run near Unterweyer. These clearly recognizable relics of old traffic routes document the mobility of an earlier time in Liechtenstein. On site, guests can see up close how wagons shaped the rock over time.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Near the village of Unterweyer, the Naturschutzgebiet Gampriner Seelein offers a protected space for nature. The focal point is an idyllic lake, which forms a paradise for numerous animal and plant species in Liechtenstein. Nature lovers can expect a harmonious landscape full of tranquility here.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "A natural protected area for the conservation of local biodiversity.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Naturschutzgebiet Au", "text": "A valuable wetland habitat and protected natural area.", "category": "natural", "coords": [9.533845, 47.260958]}, {"name": "Eschnerberg", "text": "A prominent hill range in the Principality of Liechtenstein.", "category": "natural", "coords": [9.566231, 47.240398]}, {"name": "Dreiländereck", "text": "A geographical point where three borders meet.", "category": "landmark", "coords": [9.531355, 47.270085]}, {"name": "Kapelle Heilige Sebastian und Fridolin", "text": "A historical monument of religious architecture.", "category": "landmark", "coords": [9.545094, 47.265598]}, {"name": "Kirche Salez", "text": "A sacred building for religious services in Unterweyer.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Kapelle zu den Heiligen Martin und Magnus", "text": "A religious building dedicated to Saints Martin and Magnus.", "category": "religious", "coords": [9.565259, 47.24764]}, {"name": "Reformierte Kirche", "text": "A reformed church for worship services in the region.", "category": "religious", "coords": [9.507921, 47.265487]}, {"name": "St. Fridolin", "text": "From Unterweyer, one can also look at the important Catholic parish church of St. Fridolin in Ruggell. The sacred building invites locals and visitors in Liechtenstein alike to devotion. Anyone visiting the site can enjoy the peaceful aura of this spiritual institution.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "The Mühleweiher in Unterweyer is a quiet body of water in a natural setting.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "The Baggerloch Nägele in Unterweyer provides a relaxing backdrop for a short break.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "The Baggerloch Wilhelm & Mayer in Unterweyer is a peaceful lake for those seeking relaxation.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "The Baggerloch Hilti & Jehle in Unterweyer invites visitors to enjoy quiet moments by the water.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "The Baggersee Klostergatter in Unterweyer offers a natural atmosphere on the lakeshore.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "The Sämtisersee near Unterweyer is a beautiful destination for walks in nature.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Güfelsee", "text": "The Güfelsee in Unterweyer offers an idyllic setting for a short break.", "category": "natural", "coords": [9.581103, 47.290048]}, {"name": "Alte Rüttenen", "text": "The Alte Rüttenen in Unterweyer is a small lake, ideal for quiet observation.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "The bathing lake in Unterweyer invites visitors to swim and relax in summer.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "The Sägaweiher in Unterweyer offers a peaceful backdrop for spending time outdoors.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "The Spielplatz Schellenberg playground in Unterweyer offers varied play equipment for children and families.", "category": "family", "coords": [9.545982, 47.231859]}]},
+    id: "city-unterweyer-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Mittelalterliche Burgruine auf dem Eschnerberg.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Nahe Unterweyer erinnert die Ruine Alt-Schellenberg an die Befestigungsanlagen aus dem Mittelalter. Die Überbleibsel dieses Bauwerks in Schellenberg sind ein faszinierendes Stück liechtensteinischer Geschichte. Wer durch diese alten Mauern wandert, spürt den Hauch einer längst vergangenen Epoche.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Von Unterweyer lässt sich die gut erhaltene Burganlage Burg Forstegg gut erreichen. Obwohl sie zur Gemeinde Sennwald gerechnet wird, prägt sie auch diese liechtensteinische Region maßgeblich. Besucher erwartet eine beeindruckende Zeitreise durch die steinernen Zeugnisse regionaler Befestigungskunst.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "Ein denkmalgeschütztes Bauernhaus, das als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "In der Nähe von Unterweyer liegt der archäologische Fundplatz Galgen Galgenmad. Die ehemalige Richtstätte ist ein stummer Zeuge der historischen Gerichtsbarkeit in Liechtenstein. Der Ort bietet einen ungewöhnlichen und nachdenklich stimmenden Einblick in die Rechtsprechung vergangener Jahrhunderte.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Bei Unterweyer verlaufen die Reste der historischen Wege namens Alte Wagenspur. Diese gut erkennbaren Relikte alter Verkehrswege dokumentieren die Mobilität einer früheren Zeit in Liechtenstein. Vor Ort können Gäste hautnah sehen, wie Fuhrwerke im Laufe der Zeit den Fels formten.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Nahe der Ortschaft Unterweyer bietet das Naturschutzgebiet Gampriner Seelein einen geschützten Raum für die Natur. Im Mittelpunkt steht ein idyllischer See, der in Liechtenstein ein Paradies für zahlreiche Tier- und Pflanzenarten bildet. Naturliebhaber erwartet hier ein harmonisches Landschaftsbild voller Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "Ein naturbelassenes Schutzgebiet zur Erhaltung der lokalen Biodiversität.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Au",
+                  "text": "Ein wertvolles Feuchtbiotop und geschützter Naturraum.",
+                  "category": "natural",
+                  "coords": [
+                        9.533845,
+                        47.260958
+                  ]
+            },
+            {
+                  "name": "Eschnerberg",
+                  "text": "Ein markanter Hügelzug im Fürstentum Liechtenstein.",
+                  "category": "natural",
+                  "coords": [
+                        9.566231,
+                        47.240398
+                  ]
+            },
+            {
+                  "name": "Dreiländereck",
+                  "text": "Ein geografischer Punkt, an dem drei Grenzen aufeinandertreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.531355,
+                        47.270085
+                  ]
+            },
+            {
+                  "name": "Kapelle Heilige Sebastian und Fridolin",
+                  "text": "Ein historisches Denkmal religiöser Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        9.545094,
+                        47.265598
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Ein sakrales Gebäude für Gottesdienste in Unterweyer.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Kapelle zu den Heiligen Martin und Magnus",
+                  "text": "Ein religiöses Bauwerk zur Verehrung der Heiligen Martin und Magnus.",
+                  "category": "religious",
+                  "coords": [
+                        9.565259,
+                        47.24764
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Evangelische Kirche für den Gottesdienst in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        9.507921,
+                        47.265487
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Von Unterweyer aus schaut man ebenfalls auf die bedeutende katholische Pfarrkirche St. Fridolin in Ruggell. Das sakrale Gebäude lädt Einheimische und Besucher in Liechtenstein gleichermaßen zur Andacht ein. Wer den Ort besucht, kann die friedvolle Ausstrahlung dieser spirituellen Einrichtung genießen.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Unterweyer ist ein ruhiges Gewässer in naturnaher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Unterweyer bietet eine entspannte Kulisse für eine kurze Pause.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Unterweyer ist ein friedlicher See für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Unterweyer lädt zu ruhigen Momenten am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Unterweyer bietet eine naturnahe Atmosphäre am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Unterweyer ist ein schönes Ziel für Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Der Güfelsee in Unterweyer bietet eine idyllische Umgebung für eine kurze Auszeit.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Die Alte Rüttenen in Unterweyer ist ein kleiner See, ideal für ruhige Beobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Unterweyer lädt im Sommer zum Schwimmen und Entspannen ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Unterweyer bietet eine friedliche Kulisse für einen Aufenthalt im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Unterweyer bietet abwechslungsreiche Spielgeräte für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Dieser Zoo in Unterweyer ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Középkori várrom az Eschnerberg dombon.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Unterweyer közelében a Ruine Alt-Schellenberg a középkori erődítményekre emlékeztet. Ennek a schellenbergi építménynek a maradványai a liechtensteini történelem egy lenyűgöző darabját alkotják. Aki ezeken a régi falakon keresztül sétál, megérintheti egy régmúlt korszak szelét.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "A jól megőrzött Burg Forstegg kastélykomplexum Unterweyer felől könnyen megközelíthető. Bár Sennwald községhez tartozik, jelentősen formálja ezt a liechtensteini régiót is. A látogatókat egy lenyűgöző időutazás várja a regionális erődítményépítészet kőből készült bizonyítékain keresztül.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "Műemléki védelem alatt álló parasztház, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "Unterweyer közelében található a Galgen Galgenmad nevű régészeti lelőhely. Az egykori kivégzőhely néma tanúja Liechtenstein történelmi igazságszolgáltatásának. A helyszín szokatlan és elgondolkodtató betekintést nyújt az elmúlt évszázadok jogrendszerébe.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Az Alte Wagenspur néven ismert történelmi útvonalak maradványai Unterweyer közelében futnak. A régi közlekedési útvonalak e jól felismerhető relikviái dokumentálják a korábbi idők mobilitását Liechtensteinben. A helyszínen a vendégek testközelből láthatják, hogyan formálták a szekerek a sziklát az idő múlásával.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Unterweyer falu közelében a Naturschutzgebiet Gampriner Seelein védett teret kínál a természet számára. A fókuszpontban egy idilli tó áll, amely Liechtensteinben számos állat- és növényfaj számára jelent paradicsomot. A természetkedvelőket itt egy harmonikus, nyugalommal teli tájkép várja.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "Természetvédelmi terület a helyi biológiai sokféleség megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Au",
+                  "text": "Értékes vizes élőhely és védett természeti terület.",
+                  "category": "natural",
+                  "coords": [
+                        9.533845,
+                        47.260958
+                  ]
+            },
+            {
+                  "name": "Eschnerberg",
+                  "text": "Jelentős dombság Liechtenstein területén.",
+                  "category": "natural",
+                  "coords": [
+                        9.566231,
+                        47.240398
+                  ]
+            },
+            {
+                  "name": "Dreiländereck",
+                  "text": "Földrajzi pont, ahol három állam határa találkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        9.531355,
+                        47.270085
+                  ]
+            },
+            {
+                  "name": "Kapelle Heilige Sebastian und Fridolin",
+                  "text": "A vallási építészet történelmi emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        9.545094,
+                        47.265598
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Szakrális épület istentiszteletek számára Unterweyerben.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Kapelle zu den Heiligen Martin und Magnus",
+                  "text": "Szent Márton és Magnus tiszteletére emelt vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        9.565259,
+                        47.24764
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Református templom a régió hívő közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        9.507921,
+                        47.265487
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Unterweyerből is rá lehet tekinteni Ruggell fontos katolikus plébániatemplomára, a St. Fridolin épületére. A szakrális épület a helyieket és a Liechtensteinbe látogatókat egyaránt áhítatra hívja. Aki felkeresi a helyszínt, élvezheti ennek a spirituális intézménynek a békés kisugárzását.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Az Unterweyerben található Mühleweiher egy csendes tó természetközeli környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Az Unterweyerben fekvő Baggerloch Nägele pihentető környezetet nyújt egy rövid pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Az Unterweyerben található Baggerloch Wilhelm & Mayer békés tó a pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Az Unterweyerben lévő Baggerloch Hilti & Jehle csendes vízparti pillanatokra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Az Unterweyerben fekvő Baggersee Klostergatter természetközeli élményt nyújt a tóparton.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Az Unterweyer közelében található Sämtisersee remek célpont a természetbeli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Az Unterweyerben található Güfelsee idilli környezetet biztosít egy rövid kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Az Unterweyerben fekvő Alte Rüttenen egy apró tó, ideális csendes megfigyelésekre.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Az Unterweyerben található Badesee nyáron úszásra és pihenésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Az Unterweyerben lévő Sägaweiher békés hátteret biztosít a szabadban való időtöltéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Az Unterweyer településen lévő Spielplatz Schellenberg játszótér változatos játékokat kínál a gyermekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ez a Unterweyer városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Ruinele unui castel medieval situat pe dealul Eschnerberg.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Lângă Unterweyer, Ruine Alt-Schellenberg servește ca o reamintire a fortificațiilor din Evul Mediu. Rămășițele acestei structuri din Schellenberg sunt o bucată fascinantă a istoriei Liechtensteinului. Cei care se plimbă prin aceste ziduri vechi vor simți suflul unei epoci demult apuse.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Complexul de castel bine conservat Burg Forstegg este ușor accesibil din Unterweyer. Deși este considerat parte a municipalității Sennwald, modelează semnificativ și această regiune a Liechtensteinului. Oaspeții se pot aștepta la o călătorie impresionantă în timp, explorând dovezile din piatră ale artei regionale de fortificare.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "O casă țărănească istorică ce servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "Situl arheologic Galgen Galgenmad este situat lângă Unterweyer. Fostul loc de execuție este un martor tăcut al jurisdicției istorice din Liechtenstein. Situl oferă o perspectivă neobișnuită și care provoacă la gândire asupra sistemului juridic din secolele trecute.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Rămășițele rutelor istorice cunoscute sub numele de Alte Wagenspur trec pe lângă Unterweyer. Aceste relicve clar recognoscibile ale vechilor rute de trafic documentează mobilitatea dintr-o epocă anterioară în Liechtenstein. La fața locului, oaspeții pot vedea de aproape cum căruțele au modelat stânca de-a lungul timpului.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Lângă satul Unterweyer, Naturschutzgebiet Gampriner Seelein oferă un spațiu protejat pentru natură. Punctul focal este un lac idilic, care formează un paradis pentru numeroase specii de animale și plante din Liechtenstein. Iubitorii de natură se pot aștepta aici la un peisaj armonios, plin de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "O arie naturală protejată pentru conservarea biodiversității locale.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Au",
+                  "text": "Un biotop umed valoros și o arie naturală protejată.",
+                  "category": "natural",
+                  "coords": [
+                        9.533845,
+                        47.260958
+                  ]
+            },
+            {
+                  "name": "Eschnerberg",
+                  "text": "Un deal proeminent situat în Principatul Liechtenstein.",
+                  "category": "natural",
+                  "coords": [
+                        9.566231,
+                        47.240398
+                  ]
+            },
+            {
+                  "name": "Dreiländereck",
+                  "text": "Un punct geografic unde se întâlnesc trei frontiere.",
+                  "category": "landmark",
+                  "coords": [
+                        9.531355,
+                        47.270085
+                  ]
+            },
+            {
+                  "name": "Kapelle Heilige Sebastian und Fridolin",
+                  "text": "Un monument istoric de arhitectură religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        9.545094,
+                        47.265598
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Un edificiu sacru pentru slujbe religioase în Unterweyer.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Kapelle zu den Heiligen Martin und Magnus",
+                  "text": "Un edificiu religios dedicat sfinților Martin și Magnus.",
+                  "category": "religious",
+                  "coords": [
+                        9.565259,
+                        47.24764
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "O biserică reformată pentru serviciul religios din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        9.507921,
+                        47.265487
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Din Unterweyer se poate privi și spre importanta biserică parohială catolică St. Fridolin din Ruggell. Clădirea sacră îi invită deopotrivă pe localnici și pe vizitatorii din Liechtenstein la rugăciune. Oricine vizitează situl se poate bucura de aura pașnică a acestei instituții spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Unterweyer este un luciu de apă liniștit într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Unterweyer oferă un cadru relaxant pentru o scurtă pauză.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Unterweyer este un lac liniștit pentru cei care caută recreere.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Unterweyer invită la momente de liniște pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Unterweyer oferă o atmosferă naturală pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Lacul Sämtisersee de lângă Unterweyer este o destinație frumoasă pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "Güfelsee din Unterweyer oferă un cadru idilic pentru o scurtă evadare.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Unterweyer este un lac mic, ideal pentru observații liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Lacul pentru scăldat din Unterweyer invită la înot și relaxare în timpul verii.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Unterweyer oferă un cadru liniștit pentru petrecerea timpului în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Spielplatz Schellenberg din Unterweyer oferă echipamente de joacă variate pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Această grădină zoologică din Unterweyer permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Neu-Schellenberg",
+                  "text": "Medieval castle ruins located on the Eschnerberg hill.",
+                  "category": "castle",
+                  "coords": [
+                        9.554133,
+                        47.232788
+                  ]
+            },
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Near Unterweyer, the Ruine Alt-Schellenberg serves as a reminder of fortifications from the Middle Ages. The remains of this structure in Schellenberg are a fascinating piece of Liechtenstein's history. Those who wander through these old walls will feel the breath of a bygone era.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "The well-preserved Burg Forstegg castle complex is easily accessible from Unterweyer. Although it is considered part of the Sennwald municipality, it also significantly shapes this region of Liechtenstein. Visitors can expect an impressive journey through time exploring the stone evidence of regional fortification art.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "A heritage-protected farmhouse that serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "The archaeological site Galgen Galgenmad is located near Unterweyer. The former place of execution is a silent witness to historical jurisdiction in Liechtenstein. The site offers an unusual and thought-provoking insight into the legal system of past centuries.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "The remains of the historical routes known as Alte Wagenspur run near Unterweyer. These clearly recognizable relics of old traffic routes document the mobility of an earlier time in Liechtenstein. On site, guests can see up close how wagons shaped the rock over time.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Near the village of Unterweyer, the Naturschutzgebiet Gampriner Seelein offers a protected space for nature. The focal point is an idyllic lake, which forms a paradise for numerous animal and plant species in Liechtenstein. Nature lovers can expect a harmonious landscape full of tranquility here.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "A natural protected area for the conservation of local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Au",
+                  "text": "A valuable wetland habitat and protected natural area.",
+                  "category": "natural",
+                  "coords": [
+                        9.533845,
+                        47.260958
+                  ]
+            },
+            {
+                  "name": "Eschnerberg",
+                  "text": "A prominent hill range in the Principality of Liechtenstein.",
+                  "category": "natural",
+                  "coords": [
+                        9.566231,
+                        47.240398
+                  ]
+            },
+            {
+                  "name": "Dreiländereck",
+                  "text": "A geographical point where three borders meet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.531355,
+                        47.270085
+                  ]
+            },
+            {
+                  "name": "Kapelle Heilige Sebastian und Fridolin",
+                  "text": "A historical monument of religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        9.545094,
+                        47.265598
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "A sacred building for religious services in Unterweyer.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Kapelle zu den Heiligen Martin und Magnus",
+                  "text": "A religious building dedicated to Saints Martin and Magnus.",
+                  "category": "religious",
+                  "coords": [
+                        9.565259,
+                        47.24764
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "A reformed church for worship services in the region.",
+                  "category": "religious",
+                  "coords": [
+                        9.507921,
+                        47.265487
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "From Unterweyer, one can also look at the important Catholic parish church of St. Fridolin in Ruggell. The sacred building invites locals and visitors in Liechtenstein alike to devotion. Anyone visiting the site can enjoy the peaceful aura of this spiritual institution.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "The Mühleweiher in Unterweyer is a quiet body of water in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "The Baggerloch Nägele in Unterweyer provides a relaxing backdrop for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "The Baggerloch Wilhelm & Mayer in Unterweyer is a peaceful lake for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "The Baggerloch Hilti & Jehle in Unterweyer invites visitors to enjoy quiet moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "The Baggersee Klostergatter in Unterweyer offers a natural atmosphere on the lakeshore.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "The Sämtisersee near Unterweyer is a beautiful destination for walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Güfelsee",
+                  "text": "The Güfelsee in Unterweyer offers an idyllic setting for a short break.",
+                  "category": "natural",
+                  "coords": [
+                        9.581103,
+                        47.290048
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "The Alte Rüttenen in Unterweyer is a small lake, ideal for quiet observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "The bathing lake in Unterweyer invites visitors to swim and relax in summer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "The Sägaweiher in Unterweyer offers a peaceful backdrop for spending time outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Spielplatz Schellenberg playground in Unterweyer offers varied play equipment for children and families.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "This zoo in Unterweyer allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-009",
     coords: [9.5280, 47.2440],
@@ -71156,6 +75647,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Im Vogelparadies Birka bei Nofels Grenze können Familien die faszinierende Welt der Vögel in der Natur entdecken.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -71409,6 +75909,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A Nofels Grenze melletti Vogelparadies Birka területén a családok felfedezhetik a madarak lenyűgöző világát a természetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -71664,6 +76173,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "La Vogelparadies Birka de lângă Nofels Grenze, familiile pot descoperi lumea fascinantă a păsărilor în natură.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -71917,6 +76435,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "At Vogelparadies Birka near Nofels Grenze, families can discover the fascinating world of birds in nature.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ]
@@ -72808,7 +77335,736 @@ export const poiExtraLiechtensteinCities: POI[] = [
     image: "/poi-images/city-bangserfeld-extra.webp",
   },
   {
-    id: "city-rheinau-ruggell-extra", "sights": {"de": [{"name": "Ruine Alt-Schellenberg", "text": "In der Gegend von Rheinau stoßen Geschichtsinteressierte auf die Ruine Alt-Schellenberg. Diese mittelalterliche Befestigungsanlage in Schellenberg repräsentiert einen spannenden Teil der Vergangenheit Liechtensteins. Die massiven Steingemäuer versetzen Besucher direkt in die Welt von Rittern und Burgenburgen.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Auch von Rheinau aus lockt die gut erhaltene Burg Forstegg zu einem spannenden Ausflug. Als Bauwerk, das der Gemeinde Sennwald zugehörig ist, prägt es das historische Bild dieser liechtensteinischen Grenzregion. Eine Besichtigung der Burganlage offenbart eindrucksvolle Details historischer Verteidigungstechnik.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "Ein denkmalgeschütztes Bauernhaus, das als Museum dient.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "In Rheinau befindet sich die historische Stätte Galgen Galgenmad. Besucher können an diesem archäologischen Fundplatz die Überreste einer ehemaligen Richtstätte besichtigen.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Die Alte Wagenspur in Rheinau zeugt von der Verkehrsgeschichte Liechtensteins. An diesem historischen Ort lassen sich Relikte alter Verkehrswege aus vergangenen Zeiten entdecken.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Naturfreunde schätzen das Naturschutzgebiet Gampriner Seelein nahe Rheinau. Dieser idyllische kleine See bildet einen geschützten Lebensraum für vielfältige Flora und Fauna.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "Ein naturbelassenes Schutzgebiet zur Erhaltung der lokalen Biodiversität.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Kirche Salez", "text": "Ein sakrales Gebäude für Gottesdienste in Rheinau.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "Bei einem Aufenthalt in Rheinau lohnt sich ein Blick auf die Kirche St. Fridolin. Das religiöse Bauwerk dient als katholische Pfarrkirche der nahegelegenen Gemeinde Ruggell.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Der Mühleweiher in Rheinau ist ein schönes Ausflugsziel für Spaziergänge und Erholung in der Natur.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Das Baggerloch Nägele in Rheinau bietet Möglichkeiten für Freizeitaktivitäten am Wasser und Erholung.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Das Baggerloch Wilhelm & Mayer in Rheinau ist ein lokales Gewässer, das zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Das Baggerloch Hilti & Jehle in Rheinau bietet eine ruhige Umgebung für Spaziergänge am Ufer.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Der Baggersee Klostergatter in Rheinau lädt zum Baden und zur Erholung im Freien ein.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Der Sämtisersee bei Rheinau ist ein idyllisches Ziel für Naturfreunde und Wanderer.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Alte Rüttenen", "text": "Alte Rüttenen in Rheinau bietet eine malerische Kulisse für erholsame Stunden in der Natur.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Der Badesee in Rheinau bietet Möglichkeiten zum Schwimmen und für sommerliche Freizeitaktivitäten.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Der Sägaweiher in Rheinau ist ein ruhiges Gewässer, das sich ideal für kurze Spaziergänge eignet.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "Der Spielplatz Schellenberg in Rheinau ist ein beliebter Treffpunkt für Familien mit Kindern.", "category": "family", "coords": [9.545982, 47.231859]}], "hu": [{"name": "Ruine Alt-Schellenberg", "text": "Rheinau környékén a történelem szerelmesei a Ruine Alt-Schellenberg romjaira bukkanhatnak. Ez a schellenbergi középkori erődítmény a liechtensteini múlt egy izgalmas részét képviseli. A hatalmas kőfalak egyenesen a lovagok és kastélyok világába repítik a látogatókat.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Szintén Rheinau felől a jól megőrzött Burg Forstegg csábít egy izgalmas kirándulásra. A Sennwald községhez tartozó építményként meghatározza e liechtensteini határvidék történelmi arculatát. A várkastély megtekintése során lenyűgöző részletek tárulnak fel a történelmi védelmi technológiából.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "Műemléki védelem alatt álló parasztház, amely múzeumként működik.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "Rheinau városában található a Galgen Galgenmad elnevezésű történelmi emlékhely. A látogatók egy egykori kivégzőhely régészeti leleteit tekinthetik meg itt.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "A Rheinau területén húzódó Alte Wagenspur Liechtenstein közlekedéstörténetének emléke. Ezen a történelmi helyszínen régi idők közlekedési útvonalainak maradványait fedezhetjük fel.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "A természetkedvelők szívesen látogatják a Rheinau közelében található Naturschutzgebiet Gampriner Seelein természetvédelmi területet. Ez az idilli kis tó védett élőhelyet biztosít a változatos növény- és állatvilág számára.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "Természetvédelmi terület a helyi biológiai sokféleség megőrzésére.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Kirche Salez", "text": "Szakrális épület istentiszteletek számára Rheinau településen.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "A Rheinau környékén járva érdemes megtekinteni a St. Fridolin templomot. Ez a vallási épület a közeli Ruggell község katolikus plébániatemplomaként szolgál.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "A Rheinau területén található Mühleweiher kedvelt kirándulóhely a természetben való sétához és kikapcsolódáshoz.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "A Rheinau városában található Baggerloch Nägele vízparti szabadidős lehetőségeket és kikapcsolódást kínál.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "A Rheinau melletti Baggerloch Wilhelm & Mayer egy helyi állóvíz, amely természetközeli kikapcsolódásra hív.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "A Rheinau területén fekvő Baggerloch Hilti & Jehle nyugodt környezetet biztosít a vízparti sétákhoz.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "A Rheinau városában található Baggersee Klostergatter fürdőzésre és szabadtéri kikapcsolódásra hívogat.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "A Rheinau közeli Sämtisersee idilli célpont a természetbarátok és túrázók számára.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Alte Rüttenen", "text": "A Rheinau településen található Alte Rüttenen festői környezetet kínál a természetben való pihenéshez.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "A Rheinau területén lévő Badesee úszási és nyári szabadidős lehetőségeket kínál.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "A Rheinau városában található Sägaweiher egy nyugodt vízfelület, amely ideális rövid sétákhoz.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "A Rheinau településen található Spielplatz Schellenberg játszótér kedvelt találkozóhely a gyermekes családok számára.", "category": "family", "coords": [9.545982, 47.231859]}], "ro": [{"name": "Ruine Alt-Schellenberg", "text": "În zona Rheinau, pasionații de istorie vor da peste Ruine Alt-Schellenberg. Această fortificație medievală din Schellenberg reprezintă o parte captivantă a trecutului Liechtensteinului. Zidurile masive de piatră îi transportă pe vizitatori direct în lumea cavalerilor și a castelelor.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Tot din Rheinau, bine conservatul Burg Forstegg te îmbie la o excursie incitantă. Ca structură aparținând municipalității Sennwald, ea modelează imaginea istorică a acestei regiuni de graniță a Liechtensteinului. Un tur al complexului castelului dezvăluie detalii impresionante ale tehnologiei istorice de apărare.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "O casă țărănească istorică ce servește drept muzeu.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "În orașul Rheinau se găsește situl istoric Galgen Galgenmad. Vizitatorii pot observa aici vestigiile arheologice ale unui fost loc de execuție.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Situl istoric Alte Wagenspur din Rheinau depune mărturie despre istoria transporturilor din Liechtenstein. În acest loc pot fi descoperite relicve ale vechilor rute de circulație din vremuri trecute.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Iubitorii de natură apreciază rezervația naturală Naturschutzgebiet Gampriner Seelein, situată în apropiere de Rheinau. Acest mic lac idilic oferă un habitat protejat pentru o floră și faună diversă.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "O arie naturală protejată pentru conservarea biodiversității locale.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Kirche Salez", "text": "Un edificiu sacru pentru slujbe religioase în Rheinau.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "În timpul unei vizite în zona Rheinau, merită să vedeți biserica St. Fridolin. Acest edificiu religios servește drept biserică parohială catolică pentru comunitatea din apropiere, Ruggell.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Mühleweiher din Rheinau este o destinație frumoasă pentru plimbări și relaxare în natură.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Baggerloch Nägele din Rheinau oferă oportunități pentru activități de agrement pe malul apei și relaxare.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Baggerloch Wilhelm & Mayer din Rheinau este un luciu de apă local care invită la relaxare în natură.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Baggerloch Hilti & Jehle din Rheinau oferă un mediu liniștit pentru plimbări pe malul apei.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Baggersee Klostergatter din Rheinau invită la scăldat și relaxare în aer liber.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Sämtisersee de lângă Rheinau este o destinație idilică pentru iubitorii de natură și drumeții.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Alte Rüttenen", "text": "Alte Rüttenen din Rheinau oferă un cadru pitoresc pentru ore relaxante în natură.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Badesee din Rheinau oferă oportunități pentru înot și activități de agrement estivale.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Sägaweiher din Rheinau este un ochi de apă liniștit, ideal pentru plimbări scurte.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "Locul de joacă Spielplatz Schellenberg din Rheinau este un punct de întâlnire popular pentru familiile cu copii.", "category": "family", "coords": [9.545982, 47.231859]}], "en": [{"name": "Ruine Alt-Schellenberg", "text": "In the Rheinau area, history buffs will come across the Ruine Alt-Schellenberg. This medieval fortification in Schellenberg represents an exciting part of Liechtenstein's past. The massive stone walls transport visitors straight into the world of knights and castles.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Also from Rheinau, the well-preserved Burg Forstegg beckons for an exciting excursion. As a structure belonging to the Sennwald municipality, it shapes the historical image of this Liechtenstein border region. A tour of the castle complex reveals impressive details of historical defense technology.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Biedermannhaus", "text": "A heritage-protected farmhouse that serves as a museum.", "category": "museum", "coords": [9.547828, 47.232749]}, {"name": "Galgen Galgenmad", "text": "The historical site of Galgen Galgenmad is located in Rheinau. Visitors can explore the archaeological remains of a former execution site at this location.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "The Alte Wagenspur in Rheinau serves as a testament to the transportation history of Liechtenstein. Historical relics of old traffic routes from bygone eras can be discovered at this site.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Nature enthusiasts appreciate the Naturschutzgebiet Gampriner Seelein nature reserve near Rheinau. This idyllic small lake provides a protected habitat for diverse flora and fauna.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Naturschutzgebiet Schneckenäule", "text": "A natural protected area for the conservation of local biodiversity.", "category": "natural", "coords": [9.532959, 47.254924]}, {"name": "Kirche Salez", "text": "A sacred building for religious services in Rheinau.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "While visiting the Rheinau area, it is worth seeing the St. Fridolin church. This religious building serves as the Catholic parish church for the nearby municipality of Ruggell.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Mühleweiher in Rheinau is a beautiful destination for walks and relaxation in nature.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggerloch Nägele", "text": "Baggerloch Nägele in Rheinau offers opportunities for waterfront leisure activities and relaxation.", "category": "natural", "coords": [9.586771, 47.281344]}, {"name": "Baggerloch Wilhelm & Mayer", "text": "Baggerloch Wilhelm & Mayer in Rheinau is a local body of water that invites visitors to relax in nature.", "category": "natural", "coords": [9.582282, 47.282395]}, {"name": "Baggerloch Hilti & Jehle", "text": "Baggerloch Hilti & Jehle in Rheinau offers a peaceful environment for walks along the shore.", "category": "natural", "coords": [9.587596, 47.27803]}, {"name": "Baggersee Klostergatter", "text": "Baggersee Klostergatter in Rheinau invites visitors for swimming and outdoor relaxation.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Sämtisersee near Rheinau is an idyllic destination for nature lovers and hikers.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Alte Rüttenen", "text": "Alte Rüttenen in Rheinau offers a picturesque setting for relaxing hours in nature.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Badesee in Rheinau offers opportunities for swimming and summer leisure activities.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Sägaweiher", "text": "Sägaweiher in Rheinau is a quiet body of water, ideal for short walks.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Spielplatz Schellenberg", "text": "The Spielplatz Schellenberg playground in Rheinau is a popular meeting point for families with children.", "category": "family", "coords": [9.545982, 47.231859]}]},
+    id: "city-rheinau-ruggell-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "In der Gegend von Rheinau stoßen Geschichtsinteressierte auf die Ruine Alt-Schellenberg. Diese mittelalterliche Befestigungsanlage in Schellenberg repräsentiert einen spannenden Teil der Vergangenheit Liechtensteins. Die massiven Steingemäuer versetzen Besucher direkt in die Welt von Rittern und Burgenburgen.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Auch von Rheinau aus lockt die gut erhaltene Burg Forstegg zu einem spannenden Ausflug. Als Bauwerk, das der Gemeinde Sennwald zugehörig ist, prägt es das historische Bild dieser liechtensteinischen Grenzregion. Eine Besichtigung der Burganlage offenbart eindrucksvolle Details historischer Verteidigungstechnik.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "Ein denkmalgeschütztes Bauernhaus, das als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "In Rheinau befindet sich die historische Stätte Galgen Galgenmad. Besucher können an diesem archäologischen Fundplatz die Überreste einer ehemaligen Richtstätte besichtigen.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Die Alte Wagenspur in Rheinau zeugt von der Verkehrsgeschichte Liechtensteins. An diesem historischen Ort lassen sich Relikte alter Verkehrswege aus vergangenen Zeiten entdecken.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Naturfreunde schätzen das Naturschutzgebiet Gampriner Seelein nahe Rheinau. Dieser idyllische kleine See bildet einen geschützten Lebensraum für vielfältige Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "Ein naturbelassenes Schutzgebiet zur Erhaltung der lokalen Biodiversität.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Ein sakrales Gebäude für Gottesdienste in Rheinau.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Bei einem Aufenthalt in Rheinau lohnt sich ein Blick auf die Kirche St. Fridolin. Das religiöse Bauwerk dient als katholische Pfarrkirche der nahegelegenen Gemeinde Ruggell.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Rheinau ist ein schönes Ausflugsziel für Spaziergänge und Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Das Baggerloch Nägele in Rheinau bietet Möglichkeiten für Freizeitaktivitäten am Wasser und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Das Baggerloch Wilhelm & Mayer in Rheinau ist ein lokales Gewässer, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Das Baggerloch Hilti & Jehle in Rheinau bietet eine ruhige Umgebung für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Rheinau lädt zum Baden und zur Erholung im Freien ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Rheinau ist ein idyllisches Ziel für Naturfreunde und Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Rheinau bietet eine malerische Kulisse für erholsame Stunden in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Rheinau bietet Möglichkeiten zum Schwimmen und für sommerliche Freizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Rheinau ist ein ruhiges Gewässer, das sich ideal für kurze Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Der Spielplatz Schellenberg in Rheinau ist ein beliebter Treffpunkt für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Dieser Zoo in Rheinau ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Rheinau környékén a történelem szerelmesei a Ruine Alt-Schellenberg romjaira bukkanhatnak. Ez a schellenbergi középkori erődítmény a liechtensteini múlt egy izgalmas részét képviseli. A hatalmas kőfalak egyenesen a lovagok és kastélyok világába repítik a látogatókat.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Szintén Rheinau felől a jól megőrzött Burg Forstegg csábít egy izgalmas kirándulásra. A Sennwald községhez tartozó építményként meghatározza e liechtensteini határvidék történelmi arculatát. A várkastély megtekintése során lenyűgöző részletek tárulnak fel a történelmi védelmi technológiából.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "Műemléki védelem alatt álló parasztház, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "Rheinau városában található a Galgen Galgenmad elnevezésű történelmi emlékhely. A látogatók egy egykori kivégzőhely régészeti leleteit tekinthetik meg itt.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "A Rheinau területén húzódó Alte Wagenspur Liechtenstein közlekedéstörténetének emléke. Ezen a történelmi helyszínen régi idők közlekedési útvonalainak maradványait fedezhetjük fel.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "A természetkedvelők szívesen látogatják a Rheinau közelében található Naturschutzgebiet Gampriner Seelein természetvédelmi területet. Ez az idilli kis tó védett élőhelyet biztosít a változatos növény- és állatvilág számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "Természetvédelmi terület a helyi biológiai sokféleség megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Szakrális épület istentiszteletek számára Rheinau településen.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "A Rheinau környékén járva érdemes megtekinteni a St. Fridolin templomot. Ez a vallási épület a közeli Ruggell község katolikus plébániatemplomaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Rheinau területén található Mühleweiher kedvelt kirándulóhely a természetben való sétához és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "A Rheinau városában található Baggerloch Nägele vízparti szabadidős lehetőségeket és kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "A Rheinau melletti Baggerloch Wilhelm & Mayer egy helyi állóvíz, amely természetközeli kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "A Rheinau területén fekvő Baggerloch Hilti & Jehle nyugodt környezetet biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Rheinau városában található Baggersee Klostergatter fürdőzésre és szabadtéri kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Rheinau közeli Sämtisersee idilli célpont a természetbarátok és túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Rheinau településen található Alte Rüttenen festői környezetet kínál a természetben való pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Rheinau területén lévő Badesee úszási és nyári szabadidős lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Rheinau városában található Sägaweiher egy nyugodt vízfelület, amely ideális rövid sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "A Rheinau településen található Spielplatz Schellenberg játszótér kedvelt találkozóhely a gyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ez a Rheinau városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "În zona Rheinau, pasionații de istorie vor da peste Ruine Alt-Schellenberg. Această fortificație medievală din Schellenberg reprezintă o parte captivantă a trecutului Liechtensteinului. Zidurile masive de piatră îi transportă pe vizitatori direct în lumea cavalerilor și a castelelor.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Tot din Rheinau, bine conservatul Burg Forstegg te îmbie la o excursie incitantă. Ca structură aparținând municipalității Sennwald, ea modelează imaginea istorică a acestei regiuni de graniță a Liechtensteinului. Un tur al complexului castelului dezvăluie detalii impresionante ale tehnologiei istorice de apărare.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "O casă țărănească istorică ce servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "În orașul Rheinau se găsește situl istoric Galgen Galgenmad. Vizitatorii pot observa aici vestigiile arheologice ale unui fost loc de execuție.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Situl istoric Alte Wagenspur din Rheinau depune mărturie despre istoria transporturilor din Liechtenstein. În acest loc pot fi descoperite relicve ale vechilor rute de circulație din vremuri trecute.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Iubitorii de natură apreciază rezervația naturală Naturschutzgebiet Gampriner Seelein, situată în apropiere de Rheinau. Acest mic lac idilic oferă un habitat protejat pentru o floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "O arie naturală protejată pentru conservarea biodiversității locale.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Un edificiu sacru pentru slujbe religioase în Rheinau.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "În timpul unei vizite în zona Rheinau, merită să vedeți biserica St. Fridolin. Acest edificiu religios servește drept biserică parohială catolică pentru comunitatea din apropiere, Ruggell.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Rheinau este o destinație frumoasă pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele din Rheinau oferă oportunități pentru activități de agrement pe malul apei și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer din Rheinau este un luciu de apă local care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle din Rheinau oferă un mediu liniștit pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Rheinau invită la scăldat și relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Rheinau este o destinație idilică pentru iubitorii de natură și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Rheinau oferă un cadru pitoresc pentru ore relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Rheinau oferă oportunități pentru înot și activități de agrement estivale.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Rheinau este un ochi de apă liniștit, ideal pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "Locul de joacă Spielplatz Schellenberg din Rheinau este un punct de întâlnire popular pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Această grădină zoologică din Rheinau permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "In the Rheinau area, history buffs will come across the Ruine Alt-Schellenberg. This medieval fortification in Schellenberg represents an exciting part of Liechtenstein's past. The massive stone walls transport visitors straight into the world of knights and castles.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Also from Rheinau, the well-preserved Burg Forstegg beckons for an exciting excursion. As a structure belonging to the Sennwald municipality, it shapes the historical image of this Liechtenstein border region. A tour of the castle complex reveals impressive details of historical defense technology.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Biedermannhaus",
+                  "text": "A heritage-protected farmhouse that serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        9.547828,
+                        47.232749
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "The historical site of Galgen Galgenmad is located in Rheinau. Visitors can explore the archaeological remains of a former execution site at this location.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "The Alte Wagenspur in Rheinau serves as a testament to the transportation history of Liechtenstein. Historical relics of old traffic routes from bygone eras can be discovered at this site.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Nature enthusiasts appreciate the Naturschutzgebiet Gampriner Seelein nature reserve near Rheinau. This idyllic small lake provides a protected habitat for diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Schneckenäule",
+                  "text": "A natural protected area for the conservation of local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        9.532959,
+                        47.254924
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "A sacred building for religious services in Rheinau.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "While visiting the Rheinau area, it is worth seeing the St. Fridolin church. This religious building serves as the Catholic parish church for the nearby municipality of Ruggell.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Rheinau is a beautiful destination for walks and relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggerloch Nägele",
+                  "text": "Baggerloch Nägele in Rheinau offers opportunities for waterfront leisure activities and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.586771,
+                        47.281344
+                  ]
+            },
+            {
+                  "name": "Baggerloch Wilhelm & Mayer",
+                  "text": "Baggerloch Wilhelm & Mayer in Rheinau is a local body of water that invites visitors to relax in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.582282,
+                        47.282395
+                  ]
+            },
+            {
+                  "name": "Baggerloch Hilti & Jehle",
+                  "text": "Baggerloch Hilti & Jehle in Rheinau offers a peaceful environment for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        9.587596,
+                        47.27803
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Rheinau invites visitors for swimming and outdoor relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Rheinau is an idyllic destination for nature lovers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Rheinau offers a picturesque setting for relaxing hours in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Rheinau offers opportunities for swimming and summer leisure activities.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Rheinau is a quiet body of water, ideal for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Spielplatz Schellenberg",
+                  "text": "The Spielplatz Schellenberg playground in Rheinau is a popular meeting point for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.545982,
+                        47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "This zoo in Rheinau allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-009",
     coords: [9.5100, 47.2350],
@@ -73948,6 +79204,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka ist ein Zoo in Bendern.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -74021,6 +79286,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.464004,
                         47.167121
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A Vogelparadies Birka egy állatkert Bendern városában.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -74096,6 +79370,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka este o grădină zoologică în Bendern.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -74170,6 +79453,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka is a zoo in Bendern.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ]
 },
@@ -74215,7 +79507,376 @@ export const poiExtraLiechtensteinCities: POI[] = [
     },
   },
   {
-    id: "city-grossabuent-extra", "sights": {"de": [{"name": "Alte Wagenspur", "text": "In Grossabuent kann man die historische Alte Wagenspur besichtigen. Interessierte Besucher finden hier erhaltene Relikte alter Verkehrswege aus vergangenen Zeiten.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Von Grossabuent aus lässt sich das Naturschutzgebiet Gampriner Seelein wunderbar erreichen. Der friedliche See ist ein wichtiges Schutzgebiet für die lokale Pflanzen- und Tierwelt.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "Die Musikschule in Grossabuent bereichert das lokale Kulturangebot in Liechtenstein. In dieser Einrichtung finden sowohl musikalische Bildung als auch verschiedene kulturelle Veranstaltungen statt.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "Ein sakrales Gebäude für Gottesdienste in Grossabünt.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Mühleweiher", "text": "Der Mühleweiher in Grossabuent bietet eine entspannte Atmosphäre für Erholungsuchende in der Natur.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Sämtisersee", "text": "Der Sämtisersee bei Grossabuent ist ein malerisches Gewässer, das zum Wandern und Entspannen einlädt.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Badesee", "text": "Der Badesee in Grossabuent ist ein idealer Ort für Erfrischung und Wasserspaß im Freien.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "Der Spörry Weiher in Grossabuent bietet eine ruhige Kulisse für Naturbeobachtungen und Spaziergänge.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Der Sägaweiher in Grossabuent ist ein friedliches Ausflugsziel für kurze Aufenthalte in der Natur.", "category": "natural", "coords": [9.551793, 47.192909]}], "hu": [{"name": "Alte Wagenspur", "text": "Grossabuent településén tekinthető meg a történelmi Alte Wagenspur. Az érdeklődők letűnt korok régi közlekedési útvonalainak fennmaradt emlékeit láthatják itt.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Grossabuent felől kiválóan megközelíthető a Naturschutzgebiet Gampriner Seelein természetvédelmi terület. A békés tó a helyi növény- és állatvilág fontos menedéke.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "A Grossabuent városában működő Musikschule gazdagítja Liechtenstein helyi kulturális életét. Ebben az intézményben zenei oktatás és különböző kulturális rendezvények is helyet kapnak.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "Szakrális épület istentiszteletek számára Grossabüntben.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Mühleweiher", "text": "A Grossabuent területén fekvő Mühleweiher pihentető légkört biztosít a természetben kikapcsolódni vágyóknak.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Sämtisersee", "text": "A Grossabuent közeli Sämtisersee egy festői állóvíz, amely túrázásra és pihenésre hív.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Badesee", "text": "A Grossabuent városában található Badesee ideális hely a frissülésre és a szabadtéri vízi szórakozásra.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "A Grossabuent területén lévő Spörry Weiher nyugodt környezetet kínál a természet megfigyeléséhez és sétákhoz.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "A Grossabuent melletti Sägaweiher békés kirándulóhely a természetben való rövid tartózkodáshoz.", "category": "natural", "coords": [9.551793, 47.192909]}], "ro": [{"name": "Alte Wagenspur", "text": "În Grossabuent poate fi vizitat situl istoric Alte Wagenspur. Vizitatorii interesați vor găsi aici relicve păstrate ale vechilor rute de transport din timpuri trecute.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Rezervația naturală Naturschutzgebiet Gampriner Seelein este ușor accesibilă din Grossabuent. Lacul liniștit reprezintă o zonă protejată importantă pentru flora și fauna locală.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "Instituția Musikschule din Grossabuent îmbogățește oferta culturală locală din Liechtenstein. În această clădire au loc atât cursuri de educație muzicală, cât și diverse evenimente culturale.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "Un edificiu sacru pentru slujbe religioase în Grossabünt.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Mühleweiher", "text": "Mühleweiher din Grossabuent oferă o atmosferă relaxantă pentru cei care caută odihnă în natură.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Sämtisersee", "text": "Sämtisersee de lângă Grossabuent este un luciu de apă pitoresc care invită la drumeții și relaxare.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Badesee", "text": "Badesee din Grossabuent este un loc ideal pentru răcorire și distracție acvatică în aer liber.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "Spörry Weiher din Grossabuent oferă un cadru liniștit pentru observarea naturii și plimbări.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Sägaweiher din Grossabuent este o destinație de excursie pașnică pentru scurte șederi în natură.", "category": "natural", "coords": [9.551793, 47.192909]}], "en": [{"name": "Alte Wagenspur", "text": "The historical Alte Wagenspur can be visited in Grossabuent. Interested visitors will find preserved relics of old traffic routes from past times here.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "The Naturschutzgebiet Gampriner Seelein nature reserve is easily accessible from Grossabuent. The peaceful lake serves as an important protected area for local plant and animal life.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "The Musikschule in Grossabuent enriches the local cultural offerings in Liechtenstein. This institution hosts both musical education and various cultural events.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "A sacred building for religious services in Grossabünt.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "Mühleweiher", "text": "Mühleweiher in Grossabuent offers a relaxing atmosphere for those seeking recreation in nature.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Sämtisersee", "text": "Sämtisersee near Grossabuent is a picturesque body of water inviting visitors to hike and relax.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Badesee", "text": "Badesee in Grossabuent is an ideal place for refreshment and outdoor water fun.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "Spörry Weiher in Grossabuent offers a quiet backdrop for nature observation and walks.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Sägaweiher in Grossabuent is a peaceful excursion destination for short stays in nature.", "category": "natural", "coords": [9.551793, 47.192909]}]},
+    id: "city-grossabuent-extra", "sights": {
+      "de": [
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "In Grossabuent kann man die historische Alte Wagenspur besichtigen. Interessierte Besucher finden hier erhaltene Relikte alter Verkehrswege aus vergangenen Zeiten.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Von Grossabuent aus lässt sich das Naturschutzgebiet Gampriner Seelein wunderbar erreichen. Der friedliche See ist ein wichtiges Schutzgebiet für die lokale Pflanzen- und Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Die Musikschule in Grossabuent bereichert das lokale Kulturangebot in Liechtenstein. In dieser Einrichtung finden sowohl musikalische Bildung als auch verschiedene kulturelle Veranstaltungen statt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Ein sakrales Gebäude für Gottesdienste in Grossabünt.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Grossabuent bietet eine entspannte Atmosphäre für Erholungsuchende in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Grossabuent ist ein malerisches Gewässer, das zum Wandern und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Grossabuent ist ein idealer Ort für Erfrischung und Wasserspaß im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Grossabuent bietet eine ruhige Kulisse für Naturbeobachtungen und Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Grossabuent ist ein friedliches Ausflugsziel für kurze Aufenthalte in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Dieser Zoo in Grossabuent ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Grossabuent településén tekinthető meg a történelmi Alte Wagenspur. Az érdeklődők letűnt korok régi közlekedési útvonalainak fennmaradt emlékeit láthatják itt.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Grossabuent felől kiválóan megközelíthető a Naturschutzgebiet Gampriner Seelein természetvédelmi terület. A békés tó a helyi növény- és állatvilág fontos menedéke.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "A Grossabuent városában működő Musikschule gazdagítja Liechtenstein helyi kulturális életét. Ebben az intézményben zenei oktatás és különböző kulturális rendezvények is helyet kapnak.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Szakrális épület istentiszteletek számára Grossabüntben.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Grossabuent területén fekvő Mühleweiher pihentető légkört biztosít a természetben kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Grossabuent közeli Sämtisersee egy festői állóvíz, amely túrázásra és pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Grossabuent városában található Badesee ideális hely a frissülésre és a szabadtéri vízi szórakozásra.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Grossabuent területén lévő Spörry Weiher nyugodt környezetet kínál a természet megfigyeléséhez és sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Grossabuent melletti Sägaweiher békés kirándulóhely a természetben való rövid tartózkodáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ez a Grossabuent városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "În Grossabuent poate fi vizitat situl istoric Alte Wagenspur. Vizitatorii interesați vor găsi aici relicve păstrate ale vechilor rute de transport din timpuri trecute.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Rezervația naturală Naturschutzgebiet Gampriner Seelein este ușor accesibilă din Grossabuent. Lacul liniștit reprezintă o zonă protejată importantă pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Instituția Musikschule din Grossabuent îmbogățește oferta culturală locală din Liechtenstein. În această clădire au loc atât cursuri de educație muzicală, cât și diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Un edificiu sacru pentru slujbe religioase în Grossabünt.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Grossabuent oferă o atmosferă relaxantă pentru cei care caută odihnă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Grossabuent este un luciu de apă pitoresc care invită la drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Grossabuent este un loc ideal pentru răcorire și distracție acvatică în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Grossabuent oferă un cadru liniștit pentru observarea naturii și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Grossabuent este o destinație de excursie pașnică pentru scurte șederi în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Această grădină zoologică din Grossabuent permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "The historical Alte Wagenspur can be visited in Grossabuent. Interested visitors will find preserved relics of old traffic routes from past times here.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "The Naturschutzgebiet Gampriner Seelein nature reserve is easily accessible from Grossabuent. The peaceful lake serves as an important protected area for local plant and animal life.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "The Musikschule in Grossabuent enriches the local cultural offerings in Liechtenstein. This institution hosts both musical education and various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "A sacred building for religious services in Grossabünt.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Grossabuent offers a relaxing atmosphere for those seeking recreation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Grossabuent is a picturesque body of water inviting visitors to hike and relax.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Grossabuent is an ideal place for refreshment and outdoor water fun.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Grossabuent offers a quiet backdrop for nature observation and walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Grossabuent is a peaceful excursion destination for short stays in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "This zoo in Grossabuent allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-011",
     coords: [9.5100, 47.2150],
@@ -75096,6 +80757,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka ist ein Zoo in Under Au.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -75196,6 +80866,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.464004,
                         47.167121
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A Vogelparadies Birka egy állatkert Under Au városában.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -75298,6 +80977,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka este o grădină zoologică în Under Au.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -75399,6 +81087,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka is a zoo in Under Au.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ]
 },
@@ -75444,7 +81141,592 @@ export const poiExtraLiechtensteinCities: POI[] = [
     },
   },
   {
-    id: "city-halden-gamprin-extra", "sights": {"de": [{"name": "Ruine Alt-Schellenberg", "text": "Wer sich für Burgen interessiert, sollte die Ruine Alt-Schellenberg bei Halden erkunden. Die Überreste dieser mittelalterlichen Befestigungsanlage zeugen von der Geschichte Schellenbergs.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Unweit von Halden erhebt sich die imposante Burg Forstegg. Gäste erwartet hier eine gut erhaltene historische Burganlage, die der Gemeinde Sennwald zuzuordnen ist.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Galgen Galgenmad", "text": "Ein Zeugnis der dunklen Vergangenheit ist der historische Ort Galgen Galgenmad in Halden. Dieser archäologische Fundpunkt markiert den Standort einer ehemaligen Richtstätte.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Geschichtsliebhaber können in Halden die Alte Wagenspur aufspüren. Die Relikte der alten Verkehrswege vermitteln einen Eindruck vom Reisen in längst vergangenen Zeiten.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Auch von Halden aus ist das malerische Naturschutzgebiet Gampriner Seelein erreichbar. Die Naturlandschaft rund um den See bietet Flora und Fauna einen sicheren und geschützten Lebensraum.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "Das kulturelle Leben in Halden wird durch die örtliche Musikschule geprägt. Dieser Treffpunkt widmet sich der musikalischen Bildung und der Ausrichtung von Kulturveranstaltungen.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "Ein sakrales Gebäude für Gottesdienste in Halden.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "Die Pfarrei Ruggell wird durch die katholische Kirche St. Fridolin repräsentiert, welche sich im Umfeld von Halden befindet. Besucher können hier ein bedeutendes religiöses Bauwerk der Region besichtigen.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Der Mühleweiher in Halden bietet eine angenehme Umgebung für erholsame Spaziergänge.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggersee Klostergatter", "text": "Der Baggersee Klostergatter in Halden lädt zum Verweilen am Wasser und zur Erholung ein.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Der Sämtisersee bei Halden ist ein Naturschauspiel, das sich gut für Wanderungen in der Region eignet.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Alte Rüttenen", "text": "Alte Rüttenen in Halden ist ein ruhiges Plätzchen in der Natur für Entspannung und Ruhe.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Der Badesee in Halden bietet Erfrischung und Freizeitvergnügen für Badegäste im Sommer.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "Der Spörry Weiher in Halden ist ein idyllisches Gewässer, das zum Entspannen im Freien einlädt.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Der Sägaweiher in Halden bietet eine naturnahe Umgebung für eine kurze Auszeit im Alltag.", "category": "natural", "coords": [9.551793, 47.192909]}], "hu": [{"name": "Ruine Alt-Schellenberg", "text": "A várak iránt érdeklődőknek érdemes felfedezniük a Halden melletti Ruine Alt-Schellenberg romjait. Ennek a középkori erődítménynek a maradványai Schellenberg történelméről tanúskodnak.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Halden közelében magasodik az impozáns Burg Forstegg. A látogatókat egy jó állapotban fennmaradt történelmi várkastély várja, amely Sennwald községhez tartozik.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Galgen Galgenmad", "text": "A sötét múlt mementója a Halden városában található Galgen Galgenmad történelmi helyszín. Ez a régészeti lelőhely egy egykori kivégzőhely pontos helyét jelöli.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "A történelem szerelmesei Halden területén rábukkanhatnak az Alte Wagenspur nyomaira. A régi közlekedési útvonalak maradványai bepillantást engednek az egykori utazások világába.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "A festői Naturschutzgebiet Gampriner Seelein természetvédelmi terület Halden felől is megközelíthető. A tó körüli természeti táj biztonságos és védett élőhelyet nyújt a növények és állatok számára.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "Halden kulturális életét meghatározza a helyi Musikschule. Ez a találkozóhely a zenei nevelésnek és a kulturális rendezvények lebonyolításának szenteli magát.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "Szakrális épület istentiszteletek számára Haldenben.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "A ruggelli plébániát a Halden közelében található St. Fridolin katolikus templom képviseli. A látogatók a régió egyik jelentős vallási épületét tekinthetik meg itt.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "A Halden településen található Mühleweiher kellemes környezetet biztosít a pihentető sétákhoz.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggersee Klostergatter", "text": "A Halden városában fekvő Baggersee Klostergatter vízparti kikapcsolódásra és pihenésre hív.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "A Halden közeli Sämtisersee egy természeti látványosság, amely kiválóan alkalmas regionális túrákra.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Alte Rüttenen", "text": "A Halden melletti Alte Rüttenen egy csendes természeti zug a pihenéshez és nyugalomhoz.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "A Halden területén található Badesee frissülést és szabadidős élvezeteket kínál a nyári fürdőzőknek.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "A Halden városában lévő Spörry Weiher egy idilli állóvíz, amely szabadtéri pihenésre hívogat.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "A Halden településen található Sägaweiher természetközeli környezetet kínál egy rövid hétköznapi pihenőhöz.", "category": "natural", "coords": [9.551793, 47.192909]}], "ro": [{"name": "Ruine Alt-Schellenberg", "text": "Cei pasionați de castele ar trebui să exploreze Ruine Alt-Schellenberg de lângă Halden. Rămășițele acestei fortificații medievale mărturisesc istoria zonei Schellenberg.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Nu departe de Halden se înalță impunătorul castel Burg Forstegg. Oaspeții sunt așteptați aici de un complex istoric bine conservat, asociat cu comunitatea Sennwald.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Galgen Galgenmad", "text": "O mărturie a trecutului întunecat este locul istoric Galgen Galgenmad din Halden. Acest punct arheologic marchează locația unui fost loc de execuție.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "Iubitorii de istorie pot descoperi în Halden situl Alte Wagenspur. Relicvele vechilor rute de circulație oferă o impresie despre călătoriile din vremuri de mult apuse.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Pitoreasca rezervație naturală Naturschutzgebiet Gampriner Seelein este accesibilă și din Halden. Peisajul natural din jurul lacului oferă un habitat sigur și protejat pentru floră și faună.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "Viața culturală din Halden este marcată de școala locală Musikschule. Acest loc de întâlnire este dedicat educației muzicale și organizării de evenimente culturale.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "Un edificiu sacru pentru slujbe religioase în Halden.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "Parohia Ruggell este reprezentată de biserica catolică St. Fridolin, situată în vecinătatea orașului Halden. Vizitatorii pot admira aici o importantă clădire religioasă a regiunii.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Mühleweiher din Halden oferă un mediu plăcut pentru plimbări relaxante.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggersee Klostergatter", "text": "Baggersee Klostergatter din Halden invită la relaxare pe malul apei și odihnă.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Sämtisersee de lângă Halden este un spectacol al naturii, potrivit pentru drumeții în regiune.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Alte Rüttenen", "text": "Alte Rüttenen din Halden este un loc liniștit în natură pentru relaxare și liniște.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Badesee din Halden oferă răcorire și distracție pentru amatorii de scăldat pe timp de vară.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "Spörry Weiher din Halden este un luciu de apă idilic care invită la relaxare în aer liber.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Sägaweiher din Halden oferă un mediu natural pentru o scurtă pauză din cotidian.", "category": "natural", "coords": [9.551793, 47.192909]}], "en": [{"name": "Ruine Alt-Schellenberg", "text": "Those interested in castles should explore the Ruine Alt-Schellenberg near Halden. The remains of this medieval fortification bear witness to the history of Schellenberg.", "category": "castle", "coords": [9.54247, 47.233209]}, {"name": "Burg Forstegg", "text": "Not far from Halden stands the imposing Burg Forstegg. Guests can expect a well-preserved historical castle complex here, associated with the municipality of Sennwald.", "category": "castle", "coords": [9.495949, 47.245785]}, {"name": "Galgen Galgenmad", "text": "A testament to a dark past is the historical site Galgen Galgenmad in Halden. This archaeological spot marks the location of a former execution ground.", "category": "historical", "coords": [9.497177, 47.240957]}, {"name": "Alte Wagenspur", "text": "History lovers can track down the Alte Wagenspur in Halden. The relics of these old traffic routes provide an impression of traveling in times long past.", "category": "historical", "coords": [9.498759, 47.240604]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "The picturesque Naturschutzgebiet Gampriner Seelein nature reserve is also accessible from Halden. The natural landscape around the lake offers a safe and protected habitat for flora and fauna.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "Cultural life in Halden is shaped by the local Musikschule. This meeting place is dedicated to musical education and the hosting of cultural events.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Kirche Salez", "text": "A sacred building for religious services in Halden.", "category": "religious", "coords": [9.502375, 47.237453]}, {"name": "St. Fridolin", "text": "The parish of Ruggell is represented by the Catholic church St. Fridolin, located in the vicinity of Halden. Visitors can admire an important religious building of the region here.", "category": "religious", "coords": [9.528753, 47.241017]}, {"name": "Mühleweiher", "text": "Mühleweiher in Halden offers a pleasant environment for relaxing walks.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Baggersee Klostergatter", "text": "Baggersee Klostergatter in Halden invites visitors to stay by the water and relax.", "category": "natural", "coords": [9.582897, 47.273546]}, {"name": "Sämtisersee", "text": "Sämtisersee near Halden is a natural sight well-suited for hikes in the region.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Alte Rüttenen", "text": "Alte Rüttenen in Halden is a quiet spot in nature for relaxation and peace.", "category": "natural", "coords": [9.579717, 47.274649]}, {"name": "Badesee", "text": "Badesee in Halden offers refreshment and leisure fun for bathers in summer.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "Spörry Weiher in Halden is an idyllic body of water inviting visitors to relax outdoors.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Sägaweiher in Halden offers a natural environment for a short break from everyday life.", "category": "natural", "coords": [9.551793, 47.192909]}]},
+    id: "city-halden-gamprin-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Wer sich für Burgen interessiert, sollte die Ruine Alt-Schellenberg bei Halden erkunden. Die Überreste dieser mittelalterlichen Befestigungsanlage zeugen von der Geschichte Schellenbergs.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Unweit von Halden erhebt sich die imposante Burg Forstegg. Gäste erwartet hier eine gut erhaltene historische Burganlage, die der Gemeinde Sennwald zuzuordnen ist.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "Ein Zeugnis der dunklen Vergangenheit ist der historische Ort Galgen Galgenmad in Halden. Dieser archäologische Fundpunkt markiert den Standort einer ehemaligen Richtstätte.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Geschichtsliebhaber können in Halden die Alte Wagenspur aufspüren. Die Relikte der alten Verkehrswege vermitteln einen Eindruck vom Reisen in längst vergangenen Zeiten.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Auch von Halden aus ist das malerische Naturschutzgebiet Gampriner Seelein erreichbar. Die Naturlandschaft rund um den See bietet Flora und Fauna einen sicheren und geschützten Lebensraum.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Das kulturelle Leben in Halden wird durch die örtliche Musikschule geprägt. Dieser Treffpunkt widmet sich der musikalischen Bildung und der Ausrichtung von Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Ein sakrales Gebäude für Gottesdienste in Halden.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Die Pfarrei Ruggell wird durch die katholische Kirche St. Fridolin repräsentiert, welche sich im Umfeld von Halden befindet. Besucher können hier ein bedeutendes religiöses Bauwerk der Region besichtigen.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Halden bietet eine angenehme Umgebung für erholsame Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Der Baggersee Klostergatter in Halden lädt zum Verweilen am Wasser und zur Erholung ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Halden ist ein Naturschauspiel, das sich gut für Wanderungen in der Region eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Halden ist ein ruhiges Plätzchen in der Natur für Entspannung und Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Halden bietet Erfrischung und Freizeitvergnügen für Badegäste im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Halden ist ein idyllisches Gewässer, das zum Entspannen im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Halden bietet eine naturnahe Umgebung für eine kurze Auszeit im Alltag.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Dieser Zoo in Halden ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "A várak iránt érdeklődőknek érdemes felfedezniük a Halden melletti Ruine Alt-Schellenberg romjait. Ennek a középkori erődítménynek a maradványai Schellenberg történelméről tanúskodnak.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Halden közelében magasodik az impozáns Burg Forstegg. A látogatókat egy jó állapotban fennmaradt történelmi várkastély várja, amely Sennwald községhez tartozik.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "A sötét múlt mementója a Halden városában található Galgen Galgenmad történelmi helyszín. Ez a régészeti lelőhely egy egykori kivégzőhely pontos helyét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "A történelem szerelmesei Halden területén rábukkanhatnak az Alte Wagenspur nyomaira. A régi közlekedési útvonalak maradványai bepillantást engednek az egykori utazások világába.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "A festői Naturschutzgebiet Gampriner Seelein természetvédelmi terület Halden felől is megközelíthető. A tó körüli természeti táj biztonságos és védett élőhelyet nyújt a növények és állatok számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Halden kulturális életét meghatározza a helyi Musikschule. Ez a találkozóhely a zenei nevelésnek és a kulturális rendezvények lebonyolításának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Szakrális épület istentiszteletek számára Haldenben.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "A ruggelli plébániát a Halden közelében található St. Fridolin katolikus templom képviseli. A látogatók a régió egyik jelentős vallási épületét tekinthetik meg itt.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Halden településen található Mühleweiher kellemes környezetet biztosít a pihentető sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "A Halden városában fekvő Baggersee Klostergatter vízparti kikapcsolódásra és pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Halden közeli Sämtisersee egy természeti látványosság, amely kiválóan alkalmas regionális túrákra.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "A Halden melletti Alte Rüttenen egy csendes természeti zug a pihenéshez és nyugalomhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Halden területén található Badesee frissülést és szabadidős élvezeteket kínál a nyári fürdőzőknek.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Halden városában lévő Spörry Weiher egy idilli állóvíz, amely szabadtéri pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Halden településen található Sägaweiher természetközeli környezetet kínál egy rövid hétköznapi pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ez a Halden városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Cei pasionați de castele ar trebui să exploreze Ruine Alt-Schellenberg de lângă Halden. Rămășițele acestei fortificații medievale mărturisesc istoria zonei Schellenberg.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Nu departe de Halden se înalță impunătorul castel Burg Forstegg. Oaspeții sunt așteptați aici de un complex istoric bine conservat, asociat cu comunitatea Sennwald.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "O mărturie a trecutului întunecat este locul istoric Galgen Galgenmad din Halden. Acest punct arheologic marchează locația unui fost loc de execuție.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "Iubitorii de istorie pot descoperi în Halden situl Alte Wagenspur. Relicvele vechilor rute de circulație oferă o impresie despre călătoriile din vremuri de mult apuse.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Pitoreasca rezervație naturală Naturschutzgebiet Gampriner Seelein este accesibilă și din Halden. Peisajul natural din jurul lacului oferă un habitat sigur și protejat pentru floră și faună.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Viața culturală din Halden este marcată de școala locală Musikschule. Acest loc de întâlnire este dedicat educației muzicale și organizării de evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "Un edificiu sacru pentru slujbe religioase în Halden.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "Parohia Ruggell este reprezentată de biserica catolică St. Fridolin, situată în vecinătatea orașului Halden. Vizitatorii pot admira aici o importantă clădire religioasă a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Halden oferă un mediu plăcut pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter din Halden invită la relaxare pe malul apei și odihnă.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Halden este un spectacol al naturii, potrivit pentru drumeții în regiune.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen din Halden este un loc liniștit în natură pentru relaxare și liniște.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Halden oferă răcorire și distracție pentru amatorii de scăldat pe timp de vară.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Halden este un luciu de apă idilic care invită la relaxare în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Halden oferă un mediu natural pentru o scurtă pauză din cotidian.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Această grădină zoologică din Halden permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Alt-Schellenberg",
+                  "text": "Those interested in castles should explore the Ruine Alt-Schellenberg near Halden. The remains of this medieval fortification bear witness to the history of Schellenberg.",
+                  "category": "castle",
+                  "coords": [
+                        9.54247,
+                        47.233209
+                  ]
+            },
+            {
+                  "name": "Burg Forstegg",
+                  "text": "Not far from Halden stands the imposing Burg Forstegg. Guests can expect a well-preserved historical castle complex here, associated with the municipality of Sennwald.",
+                  "category": "castle",
+                  "coords": [
+                        9.495949,
+                        47.245785
+                  ]
+            },
+            {
+                  "name": "Galgen Galgenmad",
+                  "text": "A testament to a dark past is the historical site Galgen Galgenmad in Halden. This archaeological spot marks the location of a former execution ground.",
+                  "category": "historical",
+                  "coords": [
+                        9.497177,
+                        47.240957
+                  ]
+            },
+            {
+                  "name": "Alte Wagenspur",
+                  "text": "History lovers can track down the Alte Wagenspur in Halden. The relics of these old traffic routes provide an impression of traveling in times long past.",
+                  "category": "historical",
+                  "coords": [
+                        9.498759,
+                        47.240604
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "The picturesque Naturschutzgebiet Gampriner Seelein nature reserve is also accessible from Halden. The natural landscape around the lake offers a safe and protected habitat for flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Cultural life in Halden is shaped by the local Musikschule. This meeting place is dedicated to musical education and the hosting of cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Kirche Salez",
+                  "text": "A sacred building for religious services in Halden.",
+                  "category": "religious",
+                  "coords": [
+                        9.502375,
+                        47.237453
+                  ]
+            },
+            {
+                  "name": "St. Fridolin",
+                  "text": "The parish of Ruggell is represented by the Catholic church St. Fridolin, located in the vicinity of Halden. Visitors can admire an important religious building of the region here.",
+                  "category": "religious",
+                  "coords": [
+                        9.528753,
+                        47.241017
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Halden offers a pleasant environment for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Baggersee Klostergatter",
+                  "text": "Baggersee Klostergatter in Halden invites visitors to stay by the water and relax.",
+                  "category": "natural",
+                  "coords": [
+                        9.582897,
+                        47.273546
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Halden is a natural sight well-suited for hikes in the region.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Alte Rüttenen",
+                  "text": "Alte Rüttenen in Halden is a quiet spot in nature for relaxation and peace.",
+                  "category": "natural",
+                  "coords": [
+                        9.579717,
+                        47.274649
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Halden offers refreshment and leisure fun for bathers in summer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Halden is an idyllic body of water inviting visitors to relax outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Halden offers a natural environment for a short break from everyday life.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "This zoo in Halden allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-011",
     coords: [9.5080, 47.2220],
@@ -76134,6 +82416,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka ist ein Zoo in Hasenacker.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -76225,6 +82516,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.464004,
                         47.167121
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A Vogelparadies Birka egy állatkert Hasenacker városában.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -76318,6 +82618,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka este o grădină zoologică în Hasenacker.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -76410,6 +82719,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.464004,
                         47.167121
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka is a zoo in Hasenacker.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ]
 },
@@ -76455,7 +82773,376 @@ export const poiExtraLiechtensteinCities: POI[] = [
     },
   },
   {
-    id: "city-lutzfeld-extra", "sights": {"de": [{"name": "Naturschutzgebiet Schwabbrünnen/Äscher", "text": "Ein geschütztes Naturareal mit seltener Pflanzenwelt.", "category": "natural", "coords": [9.532217, 47.188158]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "In der Nähe von Lutzfeld erstreckt sich das Naturschutzgebiet Gampriner Seelein. Der idyllische kleine See ist ein wertvoller Rückzugsort für geschützte Pflanzen- und Tierarten.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "Eine wichtige kulturelle Institution in Lutzfeld ist die Musikschule. In den Räumlichkeiten dieser Einrichtung wird musikalische Bildung gefördert und Raum für kulturelle Anlässe geschaffen.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Mühleweiher", "text": "Der Mühleweiher in Lutzfeld ist ein ruhiger Ort für Spaziergänge und Naturerlebnisse.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Sämtisersee", "text": "Der Sämtisersee bei Lutzfeld bietet eine beeindruckende Landschaft für Outdoor-Aktivitäten.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Badesee", "text": "Der Badesee in Lutzfeld ist ein beliebtes Ziel für Wassersport und Erholung im Sommer.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "Der Spörry Weiher in Lutzfeld lädt zu ruhigen Momenten am Wasser in der Natur ein.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Der Sägaweiher in Lutzfeld ist ein beschauliches Gewässer, ideal für eine Pause im Grünen.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Werdenberger See", "text": "Der Werdenberger See in Lutzfeld bietet eine malerische Kulisse für Spaziergänge rund um den See.", "category": "natural", "coords": [9.464004, 47.167121]}], "hu": [{"name": "Naturschutzgebiet Schwabbrünnen/Äscher", "text": "Védett természeti terület ritka növényvilággal.", "category": "natural", "coords": [9.532217, 47.188158]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "Lutzfeld közelében terül el a Naturschutzgebiet Gampriner Seelein természetvédelmi terület. Az idilli kis tó értékes menedékhelyet jelent a védett növény- és állatfajok számára.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "Lutzfeld egyik fontos kulturális intézménye a Musikschule. Ennek a létesítménynek a falai között zajlik a zenei oktatás, valamint teret adnak a különböző kulturális eseményeknek.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Mühleweiher", "text": "A Lutzfeld területén található Mühleweiher csendes hely a sétákhoz és a természetélményhez.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Sämtisersee", "text": "A Lutzfeld közeli Sämtisersee lenyűgöző tájat kínál a szabadtéri tevékenységekhez.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Badesee", "text": "A Lutzfeld városában lévő Badesee kedvelt úti cél a vízi sportokhoz és a nyári kikapcsolódáshoz.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "A Lutzfeld melletti Spörry Weiher vízparti nyugodt pillanatokra hív a természetben.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "A Lutzfeld településen található Sägaweiher egy békés állóvíz, ideális egy zöldövezeti pihenőhöz.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Werdenberger See", "text": "A Lutzfeld területén fekvő Werdenberger See festői környezetet biztosít a tó körüli sétákhoz.", "category": "natural", "coords": [9.464004, 47.167121]}], "ro": [{"name": "Naturschutzgebiet Schwabbrünnen/Äscher", "text": "O zonă naturală protejată cu o floră rară.", "category": "natural", "coords": [9.532217, 47.188158]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "În apropiere de Lutzfeld se întinde rezervația naturală Naturschutzgebiet Gampriner Seelein. Micul lac idilic este un refugiu valoros pentru specii protejate de plante și animale.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "O instituție culturală importantă din Lutzfeld este Musikschule. În incinta acestei clădiri se promovează educația muzicală și se creează spațiu pentru evenimente culturale.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Mühleweiher", "text": "Mühleweiher din Lutzfeld este un loc liniștit pentru plimbări și experiențe în natură.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Sämtisersee", "text": "Sämtisersee de lângă Lutzfeld oferă un peisaj impresionant pentru activități în aer liber.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Badesee", "text": "Badesee din Lutzfeld este o destinație populară pentru sporturi nautice și relaxare vara.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "Spörry Weiher din Lutzfeld invită la momente liniștite pe malul apei în mijlocul naturii.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Sägaweiher din Lutzfeld este un luciu de apă liniștit, ideal pentru o pauză în aer liber.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Werdenberger See", "text": "Werdenberger See din Lutzfeld oferă un cadru pitoresc pentru plimbări în jurul lacului.", "category": "natural", "coords": [9.464004, 47.167121]}], "en": [{"name": "Naturschutzgebiet Schwabbrünnen/Äscher", "text": "A protected natural area featuring rare plant life.", "category": "natural", "coords": [9.532217, 47.188158]}, {"name": "Naturschutzgebiet Gampriner Seelein", "text": "The Naturschutzgebiet Gampriner Seelein nature reserve extends near Lutzfeld. The idyllic small lake is a valuable retreat for protected plant and animal species.", "category": "natural", "coords": [9.509192, 47.225261]}, {"name": "Musikschule", "text": "An important cultural institution in Lutzfeld is the Musikschule. The premises of this facility promote musical education and provide space for cultural occasions.", "category": "cultural", "coords": [9.52799, 47.207235]}, {"name": "Mühleweiher", "text": "Mühleweiher in Lutzfeld is a quiet place for walks and nature experiences.", "category": "natural", "coords": [9.57856, 47.226505]}, {"name": "Sämtisersee", "text": "Sämtisersee near Lutzfeld offers an impressive landscape for outdoor activities.", "category": "natural", "coords": [9.458709, 47.271193]}, {"name": "Badesee", "text": "Badesee in Lutzfeld is a popular destination for water sports and summer recreation.", "category": "natural", "coords": [9.505363, 47.218086]}, {"name": "Spörry Weiher", "text": "Spörry Weiher in Lutzfeld invites visitors to quiet moments by the water in nature.", "category": "natural", "coords": [9.533023, 47.152007]}, {"name": "Sägaweiher", "text": "Sägaweiher in Lutzfeld is a tranquil body of water, ideal for a break in the greenery.", "category": "natural", "coords": [9.551793, 47.192909]}, {"name": "Werdenberger See", "text": "Werdenberger See in Lutzfeld offers a picturesque setting for walks around the lake.", "category": "natural", "coords": [9.464004, 47.167121]}]},
+    id: "city-lutzfeld-extra", "sights": {
+      "de": [
+            {
+                  "name": "Naturschutzgebiet Schwabbrünnen/Äscher",
+                  "text": "Ein geschütztes Naturareal mit seltener Pflanzenwelt.",
+                  "category": "natural",
+                  "coords": [
+                        9.532217,
+                        47.188158
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "In der Nähe von Lutzfeld erstreckt sich das Naturschutzgebiet Gampriner Seelein. Der idyllische kleine See ist ein wertvoller Rückzugsort für geschützte Pflanzen- und Tierarten.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Eine wichtige kulturelle Institution in Lutzfeld ist die Musikschule. In den Räumlichkeiten dieser Einrichtung wird musikalische Bildung gefördert und Raum für kulturelle Anlässe geschaffen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Der Mühleweiher in Lutzfeld ist ein ruhiger Ort für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Der Sämtisersee bei Lutzfeld bietet eine beeindruckende Landschaft für Outdoor-Aktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Der Badesee in Lutzfeld ist ein beliebtes Ziel für Wassersport und Erholung im Sommer.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Der Spörry Weiher in Lutzfeld lädt zu ruhigen Momenten am Wasser in der Natur ein.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Der Sägaweiher in Lutzfeld ist ein beschauliches Gewässer, ideal für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Der Werdenberger See in Lutzfeld bietet eine malerische Kulisse für Spaziergänge rund um den See.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Dieser Zoo in Lutzfeld ermöglicht es Familien, verschiedene Tiere in einer natürlichen Umgebung zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturschutzgebiet Schwabbrünnen/Äscher",
+                  "text": "Védett természeti terület ritka növényvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        9.532217,
+                        47.188158
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "Lutzfeld közelében terül el a Naturschutzgebiet Gampriner Seelein természetvédelmi terület. Az idilli kis tó értékes menedékhelyet jelent a védett növény- és állatfajok számára.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "Lutzfeld egyik fontos kulturális intézménye a Musikschule. Ennek a létesítménynek a falai között zajlik a zenei oktatás, valamint teret adnak a különböző kulturális eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "A Lutzfeld területén található Mühleweiher csendes hely a sétákhoz és a természetélményhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "A Lutzfeld közeli Sämtisersee lenyűgöző tájat kínál a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "A Lutzfeld városában lévő Badesee kedvelt úti cél a vízi sportokhoz és a nyári kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "A Lutzfeld melletti Spörry Weiher vízparti nyugodt pillanatokra hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "A Lutzfeld településen található Sägaweiher egy békés állóvíz, ideális egy zöldövezeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "A Lutzfeld területén fekvő Werdenberger See festői környezetet biztosít a tó körüli sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Ez a Lutzfeld városában található állatkert lehetővé teszi a családok számára a különféle állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturschutzgebiet Schwabbrünnen/Äscher",
+                  "text": "O zonă naturală protejată cu o floră rară.",
+                  "category": "natural",
+                  "coords": [
+                        9.532217,
+                        47.188158
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "În apropiere de Lutzfeld se întinde rezervația naturală Naturschutzgebiet Gampriner Seelein. Micul lac idilic este un refugiu valoros pentru specii protejate de plante și animale.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "O instituție culturală importantă din Lutzfeld este Musikschule. În incinta acestei clădiri se promovează educația muzicală și se creează spațiu pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher din Lutzfeld este un loc liniștit pentru plimbări și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee de lângă Lutzfeld oferă un peisaj impresionant pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee din Lutzfeld este o destinație populară pentru sporturi nautice și relaxare vara.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher din Lutzfeld invită la momente liniștite pe malul apei în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher din Lutzfeld este un luciu de apă liniștit, ideal pentru o pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See din Lutzfeld oferă un cadru pitoresc pentru plimbări în jurul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Această grădină zoologică din Lutzfeld permite familiilor să observe diverse animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturschutzgebiet Schwabbrünnen/Äscher",
+                  "text": "A protected natural area featuring rare plant life.",
+                  "category": "natural",
+                  "coords": [
+                        9.532217,
+                        47.188158
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Gampriner Seelein",
+                  "text": "The Naturschutzgebiet Gampriner Seelein nature reserve extends near Lutzfeld. The idyllic small lake is a valuable retreat for protected plant and animal species.",
+                  "category": "natural",
+                  "coords": [
+                        9.509192,
+                        47.225261
+                  ]
+            },
+            {
+                  "name": "Musikschule",
+                  "text": "An important cultural institution in Lutzfeld is the Musikschule. The premises of this facility promote musical education and provide space for cultural occasions.",
+                  "category": "cultural",
+                  "coords": [
+                        9.52799,
+                        47.207235
+                  ]
+            },
+            {
+                  "name": "Mühleweiher",
+                  "text": "Mühleweiher in Lutzfeld is a quiet place for walks and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        9.57856,
+                        47.226505
+                  ]
+            },
+            {
+                  "name": "Sämtisersee",
+                  "text": "Sämtisersee near Lutzfeld offers an impressive landscape for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        9.458709,
+                        47.271193
+                  ]
+            },
+            {
+                  "name": "Badesee",
+                  "text": "Badesee in Lutzfeld is a popular destination for water sports and summer recreation.",
+                  "category": "natural",
+                  "coords": [
+                        9.505363,
+                        47.218086
+                  ]
+            },
+            {
+                  "name": "Spörry Weiher",
+                  "text": "Spörry Weiher in Lutzfeld invites visitors to quiet moments by the water in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.533023,
+                        47.152007
+                  ]
+            },
+            {
+                  "name": "Sägaweiher",
+                  "text": "Sägaweiher in Lutzfeld is a tranquil body of water, ideal for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        9.551793,
+                        47.192909
+                  ]
+            },
+            {
+                  "name": "Werdenberger See",
+                  "text": "Werdenberger See in Lutzfeld offers a picturesque setting for walks around the lake.",
+                  "category": "natural",
+                  "coords": [
+                        9.464004,
+                        47.167121
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "This zoo in Lutzfeld allows families to observe various animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LI-011",
     coords: [9.5050, 47.2080],
@@ -76599,6 +83286,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551793,
                         47.192909
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Das Vogelparadies Birka in Oberau bietet eine schöne Umgebung für einen lehrreichen Ausflug rund um die Vogelkunde.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -76699,6 +83395,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551793,
                         47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Az oberaui Vogelparadies Birka szép környezetet biztosít egy tanulságos ornitológiai kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -76801,6 +83506,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551793,
                         47.192909
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka din Oberau oferă un cadru frumos pentru o excursie educativă despre ornitologie.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -76901,6 +83615,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551793,
                         47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka in Oberau offers a beautiful setting for an educational outing about ornithology.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ]
@@ -77101,6 +83824,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka ist ein Zoo in Badael.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -77255,6 +83987,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A Vogelparadies Birka egy állatkert Badael városában.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -77411,6 +84152,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.545982,
                         47.231859
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka este o grădină zoologică în Badael.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -77565,6 +84315,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.545982,
                         47.231859
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka is a zoo in Badael.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ]
@@ -77736,6 +84495,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551793,
                         47.192909
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Das Vogelparadies Birka in Neufeld ist ein idealer Ort für Naturbeobachtungen und einen entspannten Tag mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "hu": [
@@ -77818,6 +84586,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551793,
                         47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "A neufeldi Vogelparadies Birka ideális hely természetmegfigyelésre és egy pihentető családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ],
@@ -77902,6 +84679,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.551793,
                         47.192909
                   ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka din Neufeld este un loc ideal pentru observarea naturii și o zi relaxantă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
+                  ]
             }
       ],
       "en": [
@@ -77984,6 +84770,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.551793,
                         47.192909
+                  ]
+            },
+            {
+                  "name": "Vogelparadies Birka",
+                  "text": "Vogelparadies Birka in Neufeld is an ideal place for nature observation and a relaxed day with the family.",
+                  "category": "family",
+                  "coords": [
+                        9.550738,
+                        47.215569
                   ]
             }
       ]

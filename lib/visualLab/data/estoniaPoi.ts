@@ -7045,7 +7045,772 @@ export const estoniaCities: POI[] = [
     },
   },
   {
-    id: "city-kuressaare",
+    id: "city-kuressaare", "sights": {
+      "de": [
+            {
+                  "name": "Kuressaare sihi ülemine tulepaak",
+                  "text": "Das Kuressaare sihi ülemine Leuchtfeuer ist ein technisches Denkmal an der Küste. Es sicherte einst die Schifffahrt vor Kuressaare.",
+                  "category": "landmark",
+                  "coords": [
+                        22.470583,
+                        58.24665
+                  ]
+            },
+            {
+                  "name": "Kuressaare sadama põhjamuuli tulepaak",
+                  "text": "Das Leuchtfeuer an der Nordmole des Hafens von Kuressaare ist ein markantes Seezeichen. Es dient der Sicherheit der Schiffe bei der Einfahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.470517,
+                        58.2441
+                  ]
+            },
+            {
+                  "name": "Saaremaa Muuseum",
+                  "text": "Das Saaremaa Museum in Kuressaare befindet sich in der beeindruckenden Burg Kuressaare. Es zeigt die reiche Geschichte der Insel.",
+                  "category": "museum",
+                  "coords": [
+                        22.479412,
+                        58.247053
+                  ]
+            },
+            {
+                  "name": "Aavikute majamuuseum",
+                  "text": "Das Aavik Familienmuseum in Kuressaare ist dem Erbe der Familie Aavik gewidmet. Besucher erfahren hier Persönliches über die Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        22.484302,
+                        58.257681
+                  ]
+            },
+            {
+                  "name": "Haamerite Näitusemaja",
+                  "text": "Das Haamerite Näitusemaja in Kuressaare ist eine wichtige Ausstellungseinrichtung. Sie zeigt regelmäßig interessante Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        22.484624,
+                        58.258726
+                  ]
+            },
+            {
+                  "name": "Thule Koja alternatiivajaloomuuseum",
+                  "text": "Das Thule Koja Museum in Kuressaare bietet eine alternative Perspektive auf die Geschichte. Ein besonderes Erlebnis für neugierige Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        22.486894,
+                        58.252012
+                  ]
+            },
+            {
+                  "name": "Saare Kek",
+                  "text": "Das Saare Kek Museum in Kuressaare präsentiert lokale Industriegeschichte. Es ist ein interessanter Ort für geschichtsinteressierte Gäste.",
+                  "category": "museum",
+                  "coords": [
+                        22.492907,
+                        58.267307
+                  ]
+            },
+            {
+                  "name": "Kuressaare rand",
+                  "text": "Der Strand von Kuressaare ist ein beliebter Ort für Erholung. Im Sommer lädt er zum Sonnenbaden und Schwimmen ein.",
+                  "category": "recreational",
+                  "coords": [
+                        22.476702,
+                        58.244308
+                  ]
+            },
+            {
+                  "name": "Kuressaare Teater",
+                  "text": "Das Theater Kuressaare ist das kulturelle Zentrum der Stadt. Es bietet ein abwechslungsreiches Programm an Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.489827,
+                        58.254208
+                  ]
+            },
+            {
+                  "name": "Saaremaa Windmühle",
+                  "text": "Die Saaremaa Windmühle in Kuressaare ist ein Wahrzeichen der Insel. Sie ist ein beliebtes Fotomotiv für Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        22.489451,
+                        58.252175
+                  ]
+            },
+            {
+                  "name": "Vaatetorn",
+                  "text": "Der Vaatetorn in Kuressaare bietet einen herrlichen Ausblick auf die Umgebung. Er ist der ideale Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        22.469711,
+                        58.258498
+                  ]
+            },
+            {
+                  "name": "Kuressaare kindluse pukktuulik",
+                  "text": "Die Windmühle an der Burg Kuressaare ist ein historisches Exponat. Sie vermittelt einen Eindruck vom ländlichen Leben früherer Zeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        22.477394,
+                        58.246689
+                  ]
+            },
+            {
+                  "name": "Roomassaare vaatlustorn",
+                  "text": "Der Beobachtungsturm Roomassaare bei Kuressaare bietet tolle Einblicke in die Küstennatur. Er ist perfekt für Vogelbeobachter.",
+                  "category": "natural",
+                  "coords": [
+                        22.497944,
+                        58.230285
+                  ]
+            },
+            {
+                  "name": "Loodenina vaatetorn",
+                  "text": "Der Loodenina Beobachtungsturm bei Kuressaare ist ein Geheimtipp für Naturfreunde. Er bietet Ruhe und Ausblicke auf die unberührte Natur.",
+                  "category": "natural",
+                  "coords": [
+                        22.45072,
+                        58.234876
+                  ]
+            },
+            {
+                  "name": "Kuressaare raekoda",
+                  "text": "Das Rathaus von Kuressaare ist ein architektonisch bedeutendes Gebäude. Es prägt das historische Stadtbild von Kuressaare.",
+                  "category": "historical",
+                  "coords": [
+                        22.485522,
+                        58.252814
+                  ]
+            },
+            {
+                  "name": "Kuressaare Nelikaare kirik",
+                  "text": "Die Nelikaare Kirche in Kuressaare ist ein friedvoller Ort der Andacht. Sie ist ein wichtiger Teil des religiösen Lebens der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        22.503202,
+                        58.252309
+                  ]
+            },
+            {
+                  "name": "Kuressaare Püha Nikolai kirik",
+                  "text": "Die St.-Nikolai-Kirche ist ein bedeutendes religiöses Gebäude in Kuressaare. Besucher schätzen die ruhige Atmosphäre dieses historischen Gotteshauses.",
+                  "category": "religious",
+                  "coords": [
+                        22.483098,
+                        58.251094
+                  ]
+            },
+            {
+                  "name": "Kuressaare Laurentiuse kirik",
+                  "text": "Die St.-Laurentius-Kirche prägt das Stadtbild von Kuressaare als markantes Gotteshaus. Sie ist ein beliebter Anlaufpunkt für architekturinteressierte Touristen.",
+                  "category": "religious",
+                  "coords": [
+                        22.48683,
+                        58.25392
+                  ]
+            },
+            {
+                  "name": "Kuressaare Siioni kirik",
+                  "text": "Die Siioni-Kirche ist ein bekanntes religiöses Zentrum in Kuressaare. Sie bietet einen interessanten Einblick in das lokale kirchliche Leben.",
+                  "category": "religious",
+                  "coords": [
+                        22.497297,
+                        58.257981
+                  ]
+            },
+            {
+                  "name": "Kuressaare metodisti kirik",
+                  "text": "Die Methodistenkirche in Kuressaare ist ein zentraler Treffpunkt für die lokale Gemeinde. Architekturbegeisterte finden hier einen besinnlichen Ort.",
+                  "category": "religious",
+                  "coords": [
+                        22.492162,
+                        58.254645
+                  ]
+            },
+            {
+                  "name": "Kuressaare adventkirik",
+                  "text": "Die Adventkirche in Kuressaare dient als wichtiger Ort des Glaubens. Reisende können hier die lokale religiöse Kultur erleben.",
+                  "category": "religious",
+                  "coords": [
+                        22.491551,
+                        58.253614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuressaare sihi ülemine tulepaak",
+                  "text": "A kuressaare-i sihi ülemine jelzőfény egy technikai műemlék a tengerparton. Egykor biztosította a hajózást Kuressaare előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.470583,
+                        58.24665
+                  ]
+            },
+            {
+                  "name": "Kuressaare sadama põhjamuuli tulepaak",
+                  "text": "A kuressaare-i kikötő északi mólójánál található jelzőfény egy jellegzetes tengeri jelzés. A hajók biztonságos bejutását szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        22.470517,
+                        58.2441
+                  ]
+            },
+            {
+                  "name": "Saaremaa Muuseum",
+                  "text": "A kuressaare-i Saaremaa Múzeum a lenyűgöző kuressaare-i várban található. Bemutatja a sziget gazdag történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        22.479412,
+                        58.247053
+                  ]
+            },
+            {
+                  "name": "Aavikute majamuuseum",
+                  "text": "A kuressaare-i Aavik Családi Múzeum az Aavik család örökségének van szentelve. A látogatók személyes dolgokat tudhatnak meg a történelemről.",
+                  "category": "museum",
+                  "coords": [
+                        22.484302,
+                        58.257681
+                  ]
+            },
+            {
+                  "name": "Haamerite Näitusemaja",
+                  "text": "A kuressaare-i Haamerite Näitusemaja egy fontos kiállítóhely. Rendszeresen mutat be érdekes műalkotásokat.",
+                  "category": "museum",
+                  "coords": [
+                        22.484624,
+                        58.258726
+                  ]
+            },
+            {
+                  "name": "Thule Koja alternatiivajaloomuuseum",
+                  "text": "A kuressaare-i Thule Koja Múzeum alternatív nézőpontot kínál a történelemre. Különleges élmény a kíváncsi látogatók számára.",
+                  "category": "museum",
+                  "coords": [
+                        22.486894,
+                        58.252012
+                  ]
+            },
+            {
+                  "name": "Saare Kek",
+                  "text": "A kuressaare-i Saare Kek Múzeum a helyi ipartörténetet mutatja be. Érdekes hely a történelem iránt érdeklődő vendégek számára.",
+                  "category": "museum",
+                  "coords": [
+                        22.492907,
+                        58.267307
+                  ]
+            },
+            {
+                  "name": "Kuressaare rand",
+                  "text": "A Kuressaare strand népszerű kikapcsolódási hely. Nyáron napozásra és úszásra csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        22.476702,
+                        58.244308
+                  ]
+            },
+            {
+                  "name": "Kuressaare Teater",
+                  "text": "A kuressaare-i Színház a város kulturális központja. Változatos előadási programot kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        22.489827,
+                        58.254208
+                  ]
+            },
+            {
+                  "name": "Saaremaa Veski",
+                  "text": "A kuressaare-i Saaremaa szélmalom a sziget egyik jelképe. Népszerű fotótéma a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        22.489451,
+                        58.252175
+                  ]
+            },
+            {
+                  "name": "Vaatetorn",
+                  "text": "A kuressaare-i Vaatetorn csodálatos kilátást nyújt a környezetre. Ideális hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        22.469711,
+                        58.258498
+                  ]
+            },
+            {
+                  "name": "Kuressaare kindluse pukktuulik",
+                  "text": "A kuressaare-i vár szélmalma egy történelmi kiállítási tárgy. Benyomást kelt a korábbi idők vidéki életéről.",
+                  "category": "landmark",
+                  "coords": [
+                        22.477394,
+                        58.246689
+                  ]
+            },
+            {
+                  "name": "Roomassaare vaatlustorn",
+                  "text": "A Kuressaare melletti Roomassaare kilátótorony nagyszerű betekintést nyújt a tengerparti természetbe. Tökéletes madármegfigyelők számára.",
+                  "category": "natural",
+                  "coords": [
+                        22.497944,
+                        58.230285
+                  ]
+            },
+            {
+                  "name": "Loodenina vaatetorn",
+                  "text": "A Kuressaare melletti Loodenina kilátótorony titkos tipp a természetbarátoknak. Csendet és kilátást kínál az érintetlen természetre.",
+                  "category": "natural",
+                  "coords": [
+                        22.45072,
+                        58.234876
+                  ]
+            },
+            {
+                  "name": "Kuressaare raekoda",
+                  "text": "Kuressaare városházája egy építészetileg jelentős épület. Meghatározza Kuressaare történelmi városképét.",
+                  "category": "historical",
+                  "coords": [
+                        22.485522,
+                        58.252814
+                  ]
+            },
+            {
+                  "name": "Kuressaare Nelikaare kirik",
+                  "text": "A kuressaare-i Nelikaare templom egy békés istentiszteleti hely. A város vallási életének fontos része.",
+                  "category": "religious",
+                  "coords": [
+                        22.503202,
+                        58.252309
+                  ]
+            },
+            {
+                  "name": "Kuressaare Püha Nikolai kirik",
+                  "text": "A Szent Miklós-templom egy jelentős vallási épület Kuressaare városában. A látogatók értékelik e történelmi templom nyugodt légkörét.",
+                  "category": "religious",
+                  "coords": [
+                        22.483098,
+                        58.251094
+                  ]
+            },
+            {
+                  "name": "Kuressaare Laurentiuse kirik",
+                  "text": "A Szent Lőrinc-templom meghatározó vallási épület Kuressaare városképében. Népszerű célpont az építészet iránt érdeklődő turisták számára.",
+                  "category": "religious",
+                  "coords": [
+                        22.48683,
+                        58.25392
+                  ]
+            },
+            {
+                  "name": "Kuressaare Siioni kirik",
+                  "text": "A Siioni-templom egy ismert vallási központ Kuressaare városában. Érdekes betekintést nyújt a helyi egyházi életbe.",
+                  "category": "religious",
+                  "coords": [
+                        22.497297,
+                        58.257981
+                  ]
+            },
+            {
+                  "name": "Kuressaare metodisti kirik",
+                  "text": "A kuressaare-i metodista templom központi találkozóhely a helyi gyülekezet számára. Az építészet iránt érdeklődők itt egy elmélyülésre alkalmas helyet találnak.",
+                  "category": "religious",
+                  "coords": [
+                        22.492162,
+                        58.254645
+                  ]
+            },
+            {
+                  "name": "Kuressaare adventkirik",
+                  "text": "A kuressaare-i adventista templom a hit fontos helyszíne. Az utazók itt megtapasztalhatják a helyi vallási kultúrát.",
+                  "category": "religious",
+                  "coords": [
+                        22.491551,
+                        58.253614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuressaare sihi ülemine tulepaak",
+                  "text": "Semnalul Kuressaare sihi ülemine este un monument tehnic pe coastă. Acesta asigura cândva navigația în fața orașului Kuressaare.",
+                  "category": "landmark",
+                  "coords": [
+                        22.470583,
+                        58.24665
+                  ]
+            },
+            {
+                  "name": "Kuressaare sadama põhjamuuli tulepaak",
+                  "text": "Semnalul de la digul de nord al portului Kuressaare este un reper maritim distinctiv. Acesta servește la siguranța navelor la intrare.",
+                  "category": "landmark",
+                  "coords": [
+                        22.470517,
+                        58.2441
+                  ]
+            },
+            {
+                  "name": "Saaremaa Muuseum",
+                  "text": "Muzeul Saaremaa din Kuressaare este situat în impresionantul castel Kuressaare. Acesta prezintă istoria bogată a insulei.",
+                  "category": "museum",
+                  "coords": [
+                        22.479412,
+                        58.247053
+                  ]
+            },
+            {
+                  "name": "Aavikute majamuuseum",
+                  "text": "Muzeul Familiei Aavik din Kuressaare este dedicat moștenirii familiei Aavik. Vizitatorii află lucruri personale despre istorie aici.",
+                  "category": "museum",
+                  "coords": [
+                        22.484302,
+                        58.257681
+                  ]
+            },
+            {
+                  "name": "Haamerite Näitusemaja",
+                  "text": "Haamerite Näitusemaja din Kuressaare este o instituție expozițională importantă. Aceasta prezintă regulat opere de artă interesante.",
+                  "category": "museum",
+                  "coords": [
+                        22.484624,
+                        58.258726
+                  ]
+            },
+            {
+                  "name": "Thule Koja alternatiivajaloomuuseum",
+                  "text": "Muzeul Thule Koja din Kuressaare oferă o perspectivă alternativă asupra istoriei. O experiență specială pentru vizitatorii curioși.",
+                  "category": "museum",
+                  "coords": [
+                        22.486894,
+                        58.252012
+                  ]
+            },
+            {
+                  "name": "Saare Kek",
+                  "text": "Muzeul Saare Kek din Kuressaare prezintă istoria industrială locală. Este un loc interesant pentru oaspeții interesați de istorie.",
+                  "category": "museum",
+                  "coords": [
+                        22.492907,
+                        58.267307
+                  ]
+            },
+            {
+                  "name": "Kuressaare rand",
+                  "text": "Plaja din Kuressaare este un loc popular pentru recreere. Vara, invită la plajă și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        22.476702,
+                        58.244308
+                  ]
+            },
+            {
+                  "name": "Kuressaare Teater",
+                  "text": "Teatrul din Kuressaare este centrul cultural al orașului. Acesta oferă un program variat de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        22.489827,
+                        58.254208
+                  ]
+            },
+            {
+                  "name": "Saaremaa Veski",
+                  "text": "Moara de vânt Saaremaa din Kuressaare este un simbol al insulei. Este un subiect popular de fotografii pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        22.489451,
+                        58.252175
+                  ]
+            },
+            {
+                  "name": "Vaatetorn",
+                  "text": "Vaatetorn din Kuressaare oferă o priveliște minunată asupra împrejurimilor. Este locul ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        22.469711,
+                        58.258498
+                  ]
+            },
+            {
+                  "name": "Kuressaare kindluse pukktuulik",
+                  "text": "Moara de vânt de la castelul Kuressaare este un exponat istoric. Aceasta oferă o impresie despre viața rurală din vremurile trecute.",
+                  "category": "landmark",
+                  "coords": [
+                        22.477394,
+                        58.246689
+                  ]
+            },
+            {
+                  "name": "Roomassaare vaatlustorn",
+                  "text": "Turnul de observație Roomassaare de lângă Kuressaare oferă perspective grozave asupra naturii costiere. Este perfect pentru observatorii de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        22.497944,
+                        58.230285
+                  ]
+            },
+            {
+                  "name": "Loodenina vaatetorn",
+                  "text": "Turnul de observație Loodenina de lângă Kuressaare este un pont secret pentru iubitorii de natură. Acesta oferă liniște și priveliști asupra naturii neatinse.",
+                  "category": "natural",
+                  "coords": [
+                        22.45072,
+                        58.234876
+                  ]
+            },
+            {
+                  "name": "Kuressaare raekoda",
+                  "text": "Primăria din Kuressaare este o clădire semnificativă din punct de vedere arhitectural. Aceasta definește peisajul urban istoric al orașului Kuressaare.",
+                  "category": "historical",
+                  "coords": [
+                        22.485522,
+                        58.252814
+                  ]
+            },
+            {
+                  "name": "Kuressaare Nelikaare kirik",
+                  "text": "Biserica Nelikaare din Kuressaare este un loc liniștit de rugăciune. Aceasta este o parte importantă a vieții religioase a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        22.503202,
+                        58.252309
+                  ]
+            },
+            {
+                  "name": "Kuressaare Püha Nikolai kirik",
+                  "text": "Biserica Sfântul Nicolae este o clădire religioasă importantă din Kuressaare. Vizitatorii apreciază atmosfera liniștită a acestui lăcaș de cult istoric.",
+                  "category": "religious",
+                  "coords": [
+                        22.483098,
+                        58.251094
+                  ]
+            },
+            {
+                  "name": "Kuressaare Laurentiuse kirik",
+                  "text": "Biserica Sfântul Laurențiu definește peisajul urban din Kuressaare ca un lăcaș de cult distinctiv. Este o destinație populară pentru turiștii interesați de arhitectură.",
+                  "category": "religious",
+                  "coords": [
+                        22.48683,
+                        58.25392
+                  ]
+            },
+            {
+                  "name": "Kuressaare Siioni kirik",
+                  "text": "Biserica Siioni este un centru religios cunoscut în Kuressaare. Aceasta oferă o perspectivă interesantă asupra vieții bisericești locale.",
+                  "category": "religious",
+                  "coords": [
+                        22.497297,
+                        58.257981
+                  ]
+            },
+            {
+                  "name": "Kuressaare metodisti kirik",
+                  "text": "Biserica Metodistă din Kuressaare este un punct de întâlnire central pentru comunitatea locală. Pasionații de arhitectură vor găsi aici un loc pentru reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        22.492162,
+                        58.254645
+                  ]
+            },
+            {
+                  "name": "Kuressaare adventkirik",
+                  "text": "Biserica Adventistă din Kuressaare servește ca un important loc de credință. Călătorii pot experimenta aici cultura religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        22.491551,
+                        58.253614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuressaare sihi ülemine tulepaak",
+                  "text": "The Kuressaare sihi ülemine beacon is a technical monument on the coast. It once secured navigation off Kuressaare.",
+                  "category": "landmark",
+                  "coords": [
+                        22.470583,
+                        58.24665
+                  ]
+            },
+            {
+                  "name": "Kuressaare sadama põhjamuuli tulepaak",
+                  "text": "The beacon at the north mole of the port of Kuressaare is a distinctive sea mark. It serves to secure the safety of ships upon entry.",
+                  "category": "landmark",
+                  "coords": [
+                        22.470517,
+                        58.2441
+                  ]
+            },
+            {
+                  "name": "Saaremaa Museum",
+                  "text": "The Saaremaa Museum in Kuressaare is located in the impressive Kuressaare Castle. It showcases the rich history of the island.",
+                  "category": "museum",
+                  "coords": [
+                        22.479412,
+                        58.247053
+                  ]
+            },
+            {
+                  "name": "The Aavik Family House Museum",
+                  "text": "The Aavik Family Museum in Kuressaare is dedicated to the heritage of the Aavik family. Visitors learn personal details about history here.",
+                  "category": "museum",
+                  "coords": [
+                        22.484302,
+                        58.257681
+                  ]
+            },
+            {
+                  "name": "Haamerite Näitusemaja",
+                  "text": "Haamerite Näitusemaja in Kuressaare is an important exhibition facility. It regularly presents interesting works of art.",
+                  "category": "museum",
+                  "coords": [
+                        22.484624,
+                        58.258726
+                  ]
+            },
+            {
+                  "name": "Thule Koja alternatiivajaloomuuseum",
+                  "text": "The Thule Koja Museum in Kuressaare offers an alternative perspective on history. A special experience for curious visitors.",
+                  "category": "museum",
+                  "coords": [
+                        22.486894,
+                        58.252012
+                  ]
+            },
+            {
+                  "name": "Saare Kek",
+                  "text": "The Saare Kek Museum in Kuressaare presents local industrial history. It is an interesting place for history-minded guests.",
+                  "category": "museum",
+                  "coords": [
+                        22.492907,
+                        58.267307
+                  ]
+            },
+            {
+                  "name": "Kuressaare rand",
+                  "text": "Kuressaare beach is a popular spot for recreation. In summer, it invites you to sunbathe and swim.",
+                  "category": "recreational",
+                  "coords": [
+                        22.476702,
+                        58.244308
+                  ]
+            },
+            {
+                  "name": "Kuressaare Teater",
+                  "text": "The Kuressaare Theatre is the cultural center of the town. It offers a varied program of performances.",
+                  "category": "cultural",
+                  "coords": [
+                        22.489827,
+                        58.254208
+                  ]
+            },
+            {
+                  "name": "Saaremaa Windmill",
+                  "text": "The Saaremaa Windmill in Kuressaare is a landmark of the island. It is a popular photo opportunity for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        22.489451,
+                        58.252175
+                  ]
+            },
+            {
+                  "name": "Vaatetorn",
+                  "text": "The Vaatetorn in Kuressaare offers a wonderful view of the surroundings. It is the ideal place for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        22.469711,
+                        58.258498
+                  ]
+            },
+            {
+                  "name": "Kuressaare kindluse pukktuulik",
+                  "text": "The windmill at Kuressaare Castle is a historic exhibit. It gives an impression of rural life in earlier times.",
+                  "category": "landmark",
+                  "coords": [
+                        22.477394,
+                        58.246689
+                  ]
+            },
+            {
+                  "name": "Roomassaare observation tower",
+                  "text": "The Roomassaare observation tower near Kuressaare offers great insights into coastal nature. It is perfect for bird watchers.",
+                  "category": "natural",
+                  "coords": [
+                        22.497944,
+                        58.230285
+                  ]
+            },
+            {
+                  "name": "Loodenina observation tower",
+                  "text": "The Loodenina observation tower near Kuressaare is an insider tip for nature lovers. It offers peace and views of untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        22.45072,
+                        58.234876
+                  ]
+            },
+            {
+                  "name": "Kuressaare raekoda",
+                  "text": "The town hall of Kuressaare is an architecturally significant building. It defines the historic cityscape of Kuressaare.",
+                  "category": "historical",
+                  "coords": [
+                        22.485522,
+                        58.252814
+                  ]
+            },
+            {
+                  "name": "Kuressaare Nelikaare kirik",
+                  "text": "The Nelikaare Church in Kuressaare is a peaceful place of worship. It is an important part of the town's religious life.",
+                  "category": "religious",
+                  "coords": [
+                        22.503202,
+                        58.252309
+                  ]
+            },
+            {
+                  "name": "Kuressaare Püha Nikolai kirik",
+                  "text": "St. Nicholas Church is a significant religious building in Kuressaare. Visitors appreciate the peaceful atmosphere of this historic place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        22.483098,
+                        58.251094
+                  ]
+            },
+            {
+                  "name": "Kuressaare Laurentiuse kirik",
+                  "text": "St. Lawrence Church defines the cityscape of Kuressaare as a distinctive place of worship. It is a popular destination for tourists interested in architecture.",
+                  "category": "religious",
+                  "coords": [
+                        22.48683,
+                        58.25392
+                  ]
+            },
+            {
+                  "name": "Kuressaare Siioni kirik",
+                  "text": "Siioni Church is a well-known religious center in Kuressaare. It offers an interesting insight into the local church life.",
+                  "category": "religious",
+                  "coords": [
+                        22.497297,
+                        58.257981
+                  ]
+            },
+            {
+                  "name": "Kuressaare metodisti kirik",
+                  "text": "The Methodist Church in Kuressaare is a central meeting point for the local community. Architecture enthusiasts will find a place for contemplation here.",
+                  "category": "religious",
+                  "coords": [
+                        22.492162,
+                        58.254645
+                  ]
+            },
+            {
+                  "name": "Kuressaare adventkirik",
+                  "text": "The Adventist Church in Kuressaare serves as an important place of faith. Travelers can experience the local religious culture here.",
+                  "category": "religious",
+                  "coords": [
+                        22.491551,
+                        58.253614
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [22.4897, 58.2522],

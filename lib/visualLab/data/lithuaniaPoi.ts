@@ -608,6 +608,15 @@ export const lithuaniaAllPoi = [
                         23.93185,
                         54.901146
                   ]
+            },
+            {
+                  "name": "Saulėja",
+                  "text": "Dieses Spa in Kaunas bietet eine entspannte Umgebung und wellness-dienstleistungen.",
+                  "category": "family",
+                  "coords": [
+                        23.890281,
+                        54.930643
+                  ]
             }
       ],
       "hu": [
@@ -1068,6 +1077,15 @@ export const lithuaniaAllPoi = [
                   "coords": [
                         23.93185,
                         54.901146
+                  ]
+            },
+            {
+                  "name": "Saulėja",
+                  "text": "Ez a Kaunas városában található gyógyfürdő pihentető környezetet és wellness-szolgáltatásokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        23.890281,
+                        54.930643
                   ]
             }
       ],
@@ -1530,6 +1548,15 @@ export const lithuaniaAllPoi = [
                         23.93185,
                         54.901146
                   ]
+            },
+            {
+                  "name": "Saulėja",
+                  "text": "Acest spa din Kaunas oferă un mediu relaxant și servicii de wellness.",
+                  "category": "family",
+                  "coords": [
+                        23.890281,
+                        54.930643
+                  ]
             }
       ],
       "en": [
@@ -1990,6 +2017,15 @@ export const lithuaniaAllPoi = [
                   "coords": [
                         23.93185,
                         54.901146
+                  ]
+            },
+            {
+                  "name": "Saulėja",
+                  "text": "This spa in Kaunas offers a relaxing environment and wellness services.",
+                  "category": "family",
+                  "coords": [
+                        23.890281,
+                        54.930643
                   ]
             }
       ]
@@ -2475,6 +2511,15 @@ export const lithuaniaAllPoi = [
                         21.12803,
                         55.716029
                   ]
+            },
+            {
+                  "name": "Delfinarium",
+                  "text": "Dieses Aquarium in Klaipeda bietet Familien einen faszinierenden Einblick in die Meereswelt.",
+                  "category": "family",
+                  "coords": [
+                        21.100787,
+                        55.718226
+                  ]
             }
       ],
       "hu": [
@@ -2908,6 +2953,15 @@ export const lithuaniaAllPoi = [
                   "coords": [
                         21.12803,
                         55.716029
+                  ]
+            },
+            {
+                  "name": "Delfinariumas",
+                  "text": "Ez a Klaipeda városában található akvárium lenyűgöző betekintést nyújt a tengeri élővilágba a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        21.100787,
+                        55.718226
                   ]
             }
       ],
@@ -3343,6 +3397,15 @@ export const lithuaniaAllPoi = [
                         21.12803,
                         55.716029
                   ]
+            },
+            {
+                  "name": "Delfinariumas",
+                  "text": "Acest acvariu din Klaipeda oferă familiilor o privire fascinantă asupra vieții marine.",
+                  "category": "family",
+                  "coords": [
+                        21.100787,
+                        55.718226
+                  ]
             }
       ],
       "en": [
@@ -3776,6 +3839,15 @@ export const lithuaniaAllPoi = [
                   "coords": [
                         21.12803,
                         55.716029
+                  ]
+            },
+            {
+                  "name": "Dolphinarium",
+                  "text": "This aquarium in Klaipeda offers a fascinating look at marine life for families.",
+                  "category": "family",
+                  "coords": [
+                        21.100787,
+                        55.718226
                   ]
             }
       ]

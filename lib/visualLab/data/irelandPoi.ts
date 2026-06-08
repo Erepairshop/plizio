@@ -74,7 +74,1996 @@ export const irelandCountry: POI = {
 
 export const irelandRegions: POI[] = [
   {
-    id: "city-dublin", "sights": {"de": [{"name": "Old Jameson Distillery", "text": "Die Old Jameson Distillery ist ein Museum in Dublin, das die Geschichte des berühmten irischen Whiskeys zeigt.", "category": "museum", "coords": [-6.277076, 53.348117]}, {"name": "Irish Jewish Museum", "text": "Das Irish Jewish Museum in Dublin widmet sich der Geschichte der jüdischen Gemeinde Irlands.", "category": "museum", "coords": [-6.269372, 53.330728]}, {"name": "The Little Museum of Dublin", "text": "The Little Museum of Dublin ist ein Museum, das die Geschichte der irischen Hauptstadt im 20. Jahrhundert dokumentiert.", "category": "museum", "coords": [-6.258395, 53.339539]}, {"name": "Garda Museum", "text": "Das Garda Museum ist ein Museum in Dublin zur Geschichte der irischen Polizei.", "category": "museum", "coords": [-6.266252, 53.343664]}, {"name": "Dublinia", "text": "Dublinia ist ein Museum in Dublin, das sich auf die Geschichte der Wikinger und des Mittelalters konzentriert.", "category": "museum", "coords": [-6.272016, 53.343238]}, {"name": "EPIC The Irish Emigration Museum", "text": "EPIC The Irish Emigration Museum befindet sich in Dublin und verfolgt die Geschichte der irischen Diaspora.", "category": "museum", "coords": [-6.247979, 53.348265]}, {"name": "Museum of Literature Ireland", "text": "Das Museum of Literature Ireland in Dublin feiert das reiche literarische Erbe des Landes.", "category": "museum", "coords": [-6.260422, 53.33679]}, {"name": "Chester Beatty Library", "text": "Die Chester Beatty Library ist ein Museum in Dublin mit einer berühmten Sammlung seltener Manuskripte und Artefakte.", "category": "museum", "coords": [-6.267451, 53.342202]}, {"name": "National Museum of Ireland (Decorative Arts & History)", "text": "Das National Museum of Ireland (Decorative Arts & History) befindet sich in den historischen Collins Barracks in Dublin.", "category": "museum", "coords": [-6.285731, 53.348817]}, {"name": "National Print Museum", "text": "Das National Print Museum in Dublin bewahrt und zeigt die Geschichte des Druckhandwerks in Irland.", "category": "museum", "coords": [-6.235402, 53.335189]}, {"name": "National Museum of Ireland, Natural History", "text": "Das National Museum of Ireland, Natural History, oft 'Dead Zoo' genannt, befindet sich in Dublin.", "category": "museum", "coords": [-6.253341, 53.339891]}, {"name": "Irish Architectural Archive", "text": "Das Irish Architectural Archive ist ein Museum in Dublin, das dem Sammeln und Bewahren des architektonischen Erbes Irlands gewidmet ist.", "category": "museum", "coords": [-6.246829, 53.338697]}, {"name": "The James Joyce Centre", "text": "Das James Joyce Centre ist ein Museum in Dublin, das dem Leben und Werk des berühmten irischen Schriftstellers gewidmet ist.", "category": "museum", "coords": [-6.259969, 53.35419]}, {"name": "Douglas Hyde Gallery", "text": "Die Douglas Hyde Gallery ist eine Galerie für zeitgenössische Kunst am Trinity College in Dublin.", "category": "museum", "coords": [-6.257707, 53.343163]}, {"name": "Royal Hibernian Academy", "text": "Die Royal Hibernian Academy ist eine bedeutende Kunstgalerie und Institution in Dublin.", "category": "museum", "coords": [-6.254924, 53.337079]}, {"name": "Daniel O'Connell", "text": "Das Daniel O'Connell-Denkmal in Dublin ehrt den berühmten irischen Nationalistenführer des 19. Jahrhunderts.", "category": "historical", "coords": [-6.259343, 53.34771]}, {"name": "Wellington Monument", "text": "Das Wellington Monument ist ein hoher Obelisk im Phoenix Park in Dublin zum Gedenken an den Duke of Wellington.", "category": "historical", "coords": [-6.30312, 53.349044]}, {"name": "Spire of Dublin", "text": "The Spire of Dublin ist ein markantes, nadelförmiges Edelstahl-Denkmal auf der O'Connell Street.", "category": "historical", "coords": [-6.260254, 53.349801]}, {"name": "Saint Audoen's Gate", "text": "Ein historisches Stadttor in Dublin.", "category": "fortress", "coords": [-6.274023, 53.343954]}, {"name": "The New Theatre", "text": "Ein Theater in der Stadt Dublin.", "category": "cultural", "coords": [-6.266528, 53.344923]}, {"name": "3Arena", "text": "Eine große Indoor-Amphitheater- und Veranstaltungshalle in Dublin.", "category": "cultural", "coords": [-6.228422, 53.347485]}, {"name": "National Concert Hall", "text": "Ein wichtiger nationaler Veranstaltungsort für klassische Musik in Dublin.", "category": "cultural", "coords": [-6.259217, 53.334726]}, {"name": "Bord Gáis Energy Theatre", "text": "Ein Veranstaltungsort für darstellende Künste in Dublin.", "category": "cultural", "coords": [-6.239938, 53.344134]}, {"name": "Vicar Street", "text": "Ein Veranstaltungsort für Live-Unterhaltung in Dublin.", "category": "cultural", "coords": [-6.277865, 53.342435]}, {"name": "Smock Alley Theatre", "text": "Ein historisches Theater in Dublin.", "category": "cultural", "coords": [-6.269095, 53.344842]}, {"name": "Gaiety Theatre", "text": "Ein Theater in Dublin, das für seine vielfältigen Produktionen bekannt ist.", "category": "cultural", "coords": [-6.261569, 53.340465]}, {"name": "Abbey Theatre", "text": "Das irische Nationaltheater in Dublin.", "category": "cultural", "coords": [-6.257121, 53.348542]}, {"name": "Gate Theatre and Assembly Rooms", "text": "Ein bemerkenswertes Theatergebäude in Dublin.", "category": "cultural", "coords": [-6.262186, 53.353146]}, {"name": "Kerlin Gallery", "text": "Mitten in der irischen Hauptstadt befindet sich die Kerlin Gallery als bedeutender Ort für Kultur. Sie legt ihren Schwerpunkt auf die Präsentation zeitgenössischer Kunstwerke. Besucher erleben hier das kreative Schaffen moderner Künstler im urbanen Dubliner Umfeld.", "category": "cultural", "coords": [-6.259625, 53.340601]}, {"name": "Church of Mary Immaculate, Refuge of Sinners", "text": "Ein Gotteshaus in Dublin.", "category": "religious", "coords": [-6.263871, 53.327973]}, {"name": "St Joseph's Church", "text": "Ein Gotteshaus in der Stadt Dublin.", "category": "religious", "coords": [-6.236697, 53.354406]}, {"name": "St Peter's", "text": "Eine Kirche in Dublin.", "category": "religious", "coords": [-6.276459, 53.360564]}, {"name": "St Michan's Church", "text": "Eine historische Kirche in Dublin, die für ihre Grabgewölbe bekannt ist.", "category": "religious", "coords": [-6.275461, 53.347473]}, {"name": "Saint Mary's Cathedral", "text": "Eine markante Prokathedrale in Dublin.", "category": "religious", "coords": [-6.259025, 53.350853]}, {"name": "St Stephen's Church", "text": "Ein Kirchengebäude in Dublin.", "category": "religious", "coords": [-6.243692, 53.336787]}, {"name": "Church of the Immaculate Conception (Adam & Eve)", "text": "Eine Franziskanerkirche in Dublin.", "category": "religious", "coords": [-6.27294, 53.344565]}, {"name": "St Mark's", "text": "Eine Kirche in der Stadt Dublin.", "category": "religious", "coords": [-6.251016, 53.344817]}, {"name": "St. Joseph's Carmelite Church", "text": "Eine Karmeliterkirche in Dublin.", "category": "religious", "coords": [-6.268523, 53.358159]}, {"name": "All Saint's Parish Church, Grangegorman", "text": "Eine Pfarrkirche in Dublin.", "category": "religious", "coords": [-6.273824, 53.358221]}, {"name": "St Catherine's Church", "text": "Ein Gotteshaus in Dublin.", "category": "religious", "coords": [-6.281186, 53.342937]}, {"name": "Saint John the Baptist", "text": "Eine Kirche in Dublin.", "category": "religious", "coords": [-6.250226, 53.371324]}, {"name": "Dublin Mosque", "text": "Eine bekannte Moschee in Dublin.", "category": "religious", "coords": [-6.281861, 53.330873]}, {"name": "St. Nicholas of Myra", "text": "Ein Gotteshaus in Dublin.", "category": "religious", "coords": [-6.273632, 53.341133]}, {"name": "St Andrew's", "text": "Eine Kirche in Dublin.", "category": "religious", "coords": [-6.249113, 53.343077]}, {"name": "St Werburgh's", "text": "Eine historische Kirche in Dublin.", "category": "religious", "coords": [-6.269428, 53.342934]}, {"name": "St Ann's Church", "text": "Eine Kirche in der Stadt Dublin.", "category": "religious", "coords": [-6.257875, 53.340944]}, {"name": "Church of St Francis Xavier", "text": "Eine Jesuitenkirche in Dublin.", "category": "religious", "coords": [-6.259562, 53.358014]}, {"name": "Book of Kells", "text": "Eine berühmte illuminierte Handschrift, die als Attraktion in Dublin ausgestellt ist.", "category": "landmark", "coords": [-6.256487, 53.343903]}, {"name": "Temple Bar", "text": "Ein belebtes Kultur- und Unterhaltungsviertel in Dublin.", "category": "landmark", "coords": [-6.263114, 53.345496]}, {"name": "Hungry Tree", "text": "Ein berühmter Baum in Dublin, der für das teilweise Umschließen einer gusseisernen Bank bekannt ist.", "category": "landmark", "coords": [-6.27305, 53.352131]}, {"name": "National Leprechaun Museum", "text": "Ein Museum in Dublin, das der irischen Folklore und Mythologie gewidmet ist.", "category": "landmark", "coords": [-6.26886, 53.347316]}, {"name": "The Brazen Head", "text": "Ein berühmter historischer Pub, der als Attraktion in Dublin dient.", "category": "landmark", "coords": [-6.276311, 53.344937]}, {"name": "National Botanic Gardens", "text": "Ein renommierter botanischer Garten in Dublin.", "category": "landmark", "coords": [-6.273235, 53.372193]}, {"name": "Dublin City Hall", "text": "Ein historisches städtisches Gebäude in Dublin.", "category": "landmark", "coords": [-6.267157, 53.343865]}], "hu": [{"name": "Old Jameson Distillery", "text": "Az Old Jameson Distillery egy múzeum Dublinban, amely a híres ír whiskey történetét mutatja be.", "category": "museum", "coords": [-6.277076, 53.348117]}, {"name": "Irish Jewish Museum", "text": "Az Irish Jewish Museum egy dublini múzeum, amely az írországi zsidó közösség történetét mutatja be.", "category": "museum", "coords": [-6.269372, 53.330728]}, {"name": "The Little Museum of Dublin", "text": "A The Little Museum of Dublin a város 20. századi történetét bemutató múzeum Dublinban.", "category": "museum", "coords": [-6.258395, 53.339539]}, {"name": "Garda Museum", "text": "A Garda Museum egy múzeum Dublinban, amely az ír rendőrség történetét mutatja be.", "category": "museum", "coords": [-6.266252, 53.343664]}, {"name": "Dublinia", "text": "A Dublinia egy múzeum Dublinban, amely a város viking és középkori történelmére összpontosít.", "category": "museum", "coords": [-6.272016, 53.343238]}, {"name": "EPIC The Irish Emigration Museum", "text": "Az EPIC The Irish Emigration Museum egy dublini múzeum, amely az ír diaszpóra történetét követi nyomon.", "category": "museum", "coords": [-6.247979, 53.348265]}, {"name": "Museum of Literature Ireland", "text": "A Museum of Literature Ireland egy dublini múzeum, amely az ország irodalmi örökségét ünnepli.", "category": "museum", "coords": [-6.260422, 53.33679]}, {"name": "Chester Beatty Library", "text": "A Chester Beatty Library egy dublini múzeum, amely ritka kéziratok és műtárgyak híres gyűjteményének ad otthont.", "category": "museum", "coords": [-6.267451, 53.342202]}, {"name": "National Museum of Ireland (Decorative Arts & History)", "text": "A National Museum of Ireland (Decorative Arts & History) Dublinban, a történelmi Collins Barracks épületében található.", "category": "museum", "coords": [-6.285731, 53.348817]}, {"name": "National Print Museum", "text": "A dublini National Print Museum az írországi nyomdamesterség történetét őrzi és mutatja be.", "category": "museum", "coords": [-6.235402, 53.335189]}, {"name": "National Museum of Ireland, Natural History", "text": "A National Museum of Ireland, Natural History, amelyet gyakran 'Halott Állatkertnek' hívnak, Dublinban található.", "category": "museum", "coords": [-6.253341, 53.339891]}, {"name": "Irish Architectural Archive", "text": "Az Irish Architectural Archive egy dublini múzeum, amely az írországi építészeti örökség gyűjtésének és megőrzésének szenteli magát.", "category": "museum", "coords": [-6.246829, 53.338697]}, {"name": "The James Joyce Centre", "text": "A James Joyce Centre egy múzeum Dublinban, amelyet a híres ír író életének és munkásságának szenteltek.", "category": "museum", "coords": [-6.259969, 53.35419]}, {"name": "Douglas Hyde Gallery", "text": "A Douglas Hyde Gallery egy kortárs művészeti galéria, amely a dublini Trinity College-ban található.", "category": "museum", "coords": [-6.257707, 53.343163]}, {"name": "Royal Hibernian Academy", "text": "A Royal Hibernian Academy egy kiemelkedő művészeti galéria és intézmény Dublinban.", "category": "museum", "coords": [-6.254924, 53.337079]}, {"name": "Daniel O'Connell", "text": "A dublini Daniel O'Connell-emlékmű a híres 19. századi ír nacionalista vezetőnek állít emléket.", "category": "historical", "coords": [-6.259343, 53.34771]}, {"name": "Wellington Monument", "text": "A Wellington Monument egy magas obeliszk Dublin Phoenix Parkjában, amely Wellington hercegének állít emléket.", "category": "historical", "coords": [-6.30312, 53.349044]}, {"name": "Spire of Dublin", "text": "A Spire of Dublin egy kiemelkedő, tű alakú rozsdamentes acél emlékmű az O'Connell Streeten.", "category": "historical", "coords": [-6.260254, 53.349801]}, {"name": "Saint Audoen's Gate", "text": "Egy történelmi városkapu Dublinban.", "category": "fortress", "coords": [-6.274023, 53.343954]}, {"name": "The New Theatre", "text": "Egy színház Dublin városában.", "category": "cultural", "coords": [-6.266528, 53.344923]}, {"name": "3Arena", "text": "Egy nagy fedett amfiteátrum és rendezvényközpont Dublinban.", "category": "cultural", "coords": [-6.228422, 53.347485]}, {"name": "National Concert Hall", "text": "A klasszikus zene legfőbb nemzeti helyszíne Dublinban.", "category": "cultural", "coords": [-6.259217, 53.334726]}, {"name": "Bord Gáis Energy Theatre", "text": "Egy előadó-művészeti helyszín Dublinban.", "category": "cultural", "coords": [-6.239938, 53.344134]}, {"name": "Vicar Street", "text": "Egy élő szórakoztató központ Dublinban.", "category": "cultural", "coords": [-6.277865, 53.342435]}, {"name": "Smock Alley Theatre", "text": "Egy történelmi színház Dublinban.", "category": "cultural", "coords": [-6.269095, 53.344842]}, {"name": "Gaiety Theatre", "text": "Változatos produkcióiról ismert színház Dublinban.", "category": "cultural", "coords": [-6.261569, 53.340465]}, {"name": "Abbey Theatre", "text": "Írország nemzeti színháza Dublinban.", "category": "cultural", "coords": [-6.257121, 53.348542]}, {"name": "Gate Theatre and Assembly Rooms", "text": "Egy jelentős színházépület Dublinban.", "category": "cultural", "coords": [-6.262186, 53.353146]}, {"name": "Kerlin Gallery", "text": "Az ír fővárosban található Kerlin Gallery jelentős kulturális helyszínként várja az érdeklődőket. A galéria a kortárs művészeti alkotások bemutatására fókuszál. A látogatók a modern művészek kreatív munkásságát ismerhetik meg Dublin urbánus környezetében.", "category": "cultural", "coords": [-6.259625, 53.340601]}, {"name": "Church of Mary Immaculate, Refuge of Sinners", "text": "Egy istentiszteleti hely Dublinban.", "category": "religious", "coords": [-6.263871, 53.327973]}, {"name": "St Joseph's Church", "text": "Egy istentiszteleti hely Dublin városában.", "category": "religious", "coords": [-6.236697, 53.354406]}, {"name": "St Peter's", "text": "Egy templom Dublinban.", "category": "religious", "coords": [-6.276459, 53.360564]}, {"name": "St Michan's Church", "text": "Sírboltjairól ismert történelmi templom Dublinban.", "category": "religious", "coords": [-6.275461, 53.347473]}, {"name": "Saint Mary's Cathedral", "text": "Egy kiemelkedő pro-katedrális Dublinban.", "category": "religious", "coords": [-6.259025, 53.350853]}, {"name": "St Stephen's Church", "text": "Egy templomépület Dublinban.", "category": "religious", "coords": [-6.243692, 53.336787]}, {"name": "Church of the Immaculate Conception (Adam & Eve)", "text": "Ferences templom Dublinban.", "category": "religious", "coords": [-6.27294, 53.344565]}, {"name": "St Mark's", "text": "Egy templom Dublin városában.", "category": "religious", "coords": [-6.251016, 53.344817]}, {"name": "St. Joseph's Carmelite Church", "text": "Egy kármelita templom Dublinban.", "category": "religious", "coords": [-6.268523, 53.358159]}, {"name": "All Saint's Parish Church, Grangegorman", "text": "Egy plébániatemplom Dublinban.", "category": "religious", "coords": [-6.273824, 53.358221]}, {"name": "St Catherine's Church", "text": "Egy istentiszteleti hely Dublinban.", "category": "religious", "coords": [-6.281186, 53.342937]}, {"name": "Saint John the Baptist", "text": "Egy templom Dublinban.", "category": "religious", "coords": [-6.250226, 53.371324]}, {"name": "Dublin Mosque", "text": "Egy kiemelkedő mecset Dublinban.", "category": "religious", "coords": [-6.281861, 53.330873]}, {"name": "St. Nicholas of Myra", "text": "Egy istentiszteleti hely Dublinban.", "category": "religious", "coords": [-6.273632, 53.341133]}, {"name": "St Andrew's", "text": "Egy templom Dublinban.", "category": "religious", "coords": [-6.249113, 53.343077]}, {"name": "St Werburgh's", "text": "Egy történelmi templom Dublinban.", "category": "religious", "coords": [-6.269428, 53.342934]}, {"name": "St Ann's Church", "text": "Egy templom Dublin városában.", "category": "religious", "coords": [-6.257875, 53.340944]}, {"name": "Church of St Francis Xavier", "text": "Egy jezsuita templom Dublinban.", "category": "religious", "coords": [-6.259562, 53.358014]}, {"name": "Book of Kells", "text": "Egy híres kódex, amelyet látványosságként állítanak ki Dublinban.", "category": "landmark", "coords": [-6.256487, 53.343903]}, {"name": "Temple Bar", "text": "Egy nyüzsgő kulturális és szórakozónegyed Dublinban.", "category": "landmark", "coords": [-6.263114, 53.345496]}, {"name": "Hungry Tree", "text": "Egy híres fa Dublinban, amely arról ismert, hogy részben körbenőtt egy öntöttvas padot.", "category": "landmark", "coords": [-6.27305, 53.352131]}, {"name": "National Leprechaun Museum", "text": "Az ír folklórnak és mitológiának szentelt múzeum Dublinban.", "category": "landmark", "coords": [-6.26886, 53.347316]}, {"name": "The Brazen Head", "text": "Egy híres történelmi kocsma, amely látványosságként működik Dublinban.", "category": "landmark", "coords": [-6.276311, 53.344937]}, {"name": "National Botanic Gardens", "text": "Egy híres botanikus kert Dublinban.", "category": "landmark", "coords": [-6.273235, 53.372193]}, {"name": "Dublin City Hall", "text": "Egy történelmi polgári épület Dublinban.", "category": "landmark", "coords": [-6.267157, 53.343865]}], "ro": [{"name": "Old Jameson Distillery", "text": "Old Jameson Distillery este un muzeu din Dublin dedicat istoriei celebrului whiskey irlandez.", "category": "museum", "coords": [-6.277076, 53.348117]}, {"name": "Irish Jewish Museum", "text": "Irish Jewish Museum este un muzeu din Dublin dedicat istoriei comunității evreiești din Irlanda.", "category": "museum", "coords": [-6.269372, 53.330728]}, {"name": "The Little Museum of Dublin", "text": "The Little Museum of Dublin este un muzeu care prezintă istoria capitalei irlandeze în secolul al XX-lea.", "category": "museum", "coords": [-6.258395, 53.339539]}, {"name": "Garda Museum", "text": "Garda Museum este un muzeu din Dublin care explorează istoria poliției irlandeze.", "category": "museum", "coords": [-6.266252, 53.343664]}, {"name": "Dublinia", "text": "Dublinia este un muzeu din Dublin axat pe istoria vikingă și medievală a orașului.", "category": "museum", "coords": [-6.272016, 53.343238]}, {"name": "EPIC The Irish Emigration Museum", "text": "EPIC The Irish Emigration Museum este situat în Dublin și urmărește istoria diasporei irlandeze.", "category": "museum", "coords": [-6.247979, 53.348265]}, {"name": "Museum of Literature Ireland", "text": "Museum of Literature Ireland din Dublin celebrează renumitul patrimoniu literar al țării.", "category": "museum", "coords": [-6.260422, 53.33679]}, {"name": "Chester Beatty Library", "text": "Chester Beatty Library este un muzeu din Dublin care adăpostește o colecție renumită de manuscrise rare și artefacte.", "category": "museum", "coords": [-6.267451, 53.342202]}, {"name": "National Museum of Ireland (Decorative Arts & History)", "text": "National Museum of Ireland (Decorative Arts & History) este situat în istorica Collins Barracks din Dublin.", "category": "museum", "coords": [-6.285731, 53.348817]}, {"name": "National Print Museum", "text": "National Print Museum din Dublin păstrează și expune istoria meșteșugului tipografic din Irlanda.", "category": "museum", "coords": [-6.235402, 53.335189]}, {"name": "National Museum of Ireland, Natural History", "text": "National Museum of Ireland, Natural History, denumit adesea 'Dead Zoo', este situat în Dublin.", "category": "museum", "coords": [-6.253341, 53.339891]}, {"name": "Irish Architectural Archive", "text": "Irish Architectural Archive este un muzeu din Dublin dedicat colectării și conservării patrimoniului arhitectural al Irlandei.", "category": "museum", "coords": [-6.246829, 53.338697]}, {"name": "The James Joyce Centre", "text": "James Joyce Centre este un muzeu din Dublin dedicat vieții și operelor celebrului scriitor irlandez.", "category": "museum", "coords": [-6.259969, 53.35419]}, {"name": "Douglas Hyde Gallery", "text": "Douglas Hyde Gallery este o galerie de artă contemporană situată la Trinity College din Dublin.", "category": "museum", "coords": [-6.257707, 53.343163]}, {"name": "Royal Hibernian Academy", "text": "Royal Hibernian Academy este o galerie de artă și instituție importantă situată în Dublin.", "category": "museum", "coords": [-6.254924, 53.337079]}, {"name": "Daniel O'Connell", "text": "Monumentul Daniel O'Connell din Dublin îl onorează pe celebrul lider naționalist irlandez din secolul al XIX-lea.", "category": "historical", "coords": [-6.259343, 53.34771]}, {"name": "Wellington Monument", "text": "Wellington Monument este un obelisc înalt din Phoenix Park din Dublin, care îl comemorează pe Ducele de Wellington.", "category": "historical", "coords": [-6.30312, 53.349044]}, {"name": "Spire of Dublin", "text": "Spire of Dublin este un monument proeminent din oțel inoxidabil, în formă de ac, situat pe O'Connell Street.", "category": "historical", "coords": [-6.260254, 53.349801]}, {"name": "Saint Audoen's Gate", "text": "O poartă istorică a orașului situată în Dublin.", "category": "fortress", "coords": [-6.274023, 53.343954]}, {"name": "The New Theatre", "text": "Un teatru situat în orașul Dublin.", "category": "cultural", "coords": [-6.266528, 53.344923]}, {"name": "3Arena", "text": "Un amfiteatru interior mare și o locație de evenimente în Dublin.", "category": "cultural", "coords": [-6.228422, 53.347485]}, {"name": "National Concert Hall", "text": "Un important loc național pentru muzica clasică din Dublin.", "category": "cultural", "coords": [-6.259217, 53.334726]}, {"name": "Bord Gáis Energy Theatre", "text": "O locație pentru artele spectacolului situată în Dublin.", "category": "cultural", "coords": [-6.239938, 53.344134]}, {"name": "Vicar Street", "text": "Un loc pentru divertisment live în Dublin.", "category": "cultural", "coords": [-6.277865, 53.342435]}, {"name": "Smock Alley Theatre", "text": "Un teatru istoric situat în Dublin.", "category": "cultural", "coords": [-6.269095, 53.344842]}, {"name": "Gaiety Theatre", "text": "Un teatru din Dublin cunoscut pentru producțiile sale diverse.", "category": "cultural", "coords": [-6.261569, 53.340465]}, {"name": "Abbey Theatre", "text": "Teatrul național al Irlandei situat în Dublin.", "category": "cultural", "coords": [-6.257121, 53.348542]}, {"name": "Gate Theatre and Assembly Rooms", "text": "O clădire notabilă a teatrului din Dublin.", "category": "cultural", "coords": [-6.262186, 53.353146]}, {"name": "Kerlin Gallery", "text": "Situată în capitala irlandeză, Kerlin Gallery se remarcă drept un spațiu cultural semnificativ. Aceasta se concentrează pe prezentarea operelor de artă contemporană. Vizitatorii experimentează aici creațiile artiștilor moderni în mediul urban din Dublin.", "category": "cultural", "coords": [-6.259625, 53.340601]}, {"name": "Church of Mary Immaculate, Refuge of Sinners", "text": "Un lăcaș de cult situat în Dublin.", "category": "religious", "coords": [-6.263871, 53.327973]}, {"name": "St Joseph's Church", "text": "Un lăcaș de cult situat în orașul Dublin.", "category": "religious", "coords": [-6.236697, 53.354406]}, {"name": "St Peter's", "text": "O biserică situată în Dublin.", "category": "religious", "coords": [-6.276459, 53.360564]}, {"name": "St Michan's Church", "text": "O biserică istorică din Dublin, cunoscută pentru criptele sale.", "category": "religious", "coords": [-6.275461, 53.347473]}, {"name": "Saint Mary's Cathedral", "text": "O pro-catedrală proeminentă situată în Dublin.", "category": "religious", "coords": [-6.259025, 53.350853]}, {"name": "St Stephen's Church", "text": "O biserică situată în Dublin.", "category": "religious", "coords": [-6.243692, 53.336787]}, {"name": "Church of the Immaculate Conception (Adam & Eve)", "text": "O biserică franciscană situată în Dublin.", "category": "religious", "coords": [-6.27294, 53.344565]}, {"name": "St Mark's", "text": "O biserică situată în orașul Dublin.", "category": "religious", "coords": [-6.251016, 53.344817]}, {"name": "St. Joseph's Carmelite Church", "text": "O biserică carmelită situată în Dublin.", "category": "religious", "coords": [-6.268523, 53.358159]}, {"name": "All Saint's Parish Church, Grangegorman", "text": "O biserică parohială situată în Dublin.", "category": "religious", "coords": [-6.273824, 53.358221]}, {"name": "St Catherine's Church", "text": "Un lăcaș de cult situat în Dublin.", "category": "religious", "coords": [-6.281186, 53.342937]}, {"name": "Saint John the Baptist", "text": "O biserică situată în Dublin.", "category": "religious", "coords": [-6.250226, 53.371324]}, {"name": "Dublin Mosque", "text": "O moschee proeminentă situată în Dublin.", "category": "religious", "coords": [-6.281861, 53.330873]}, {"name": "St. Nicholas of Myra", "text": "Un lăcaș de cult situat în Dublin.", "category": "religious", "coords": [-6.273632, 53.341133]}, {"name": "St Andrew's", "text": "O biserică situată în Dublin.", "category": "religious", "coords": [-6.249113, 53.343077]}, {"name": "St Werburgh's", "text": "O biserică istorică situată în Dublin.", "category": "religious", "coords": [-6.269428, 53.342934]}, {"name": "St Ann's Church", "text": "O biserică situată în orașul Dublin.", "category": "religious", "coords": [-6.257875, 53.340944]}, {"name": "Church of St Francis Xavier", "text": "O biserică iezuită situată în Dublin.", "category": "religious", "coords": [-6.259562, 53.358014]}, {"name": "Book of Kells", "text": "Un manuscris iluminat faimos, expus ca atracție în Dublin.", "category": "landmark", "coords": [-6.256487, 53.343903]}, {"name": "Temple Bar", "text": "Un cartier aglomerat de cultură și divertisment din Dublin.", "category": "landmark", "coords": [-6.263114, 53.345496]}, {"name": "Hungry Tree", "text": "Un copac faimos din Dublin, cunoscut pentru că a înghițit parțial o bancă din fontă.", "category": "landmark", "coords": [-6.27305, 53.352131]}, {"name": "National Leprechaun Museum", "text": "Un muzeu din Dublin dedicat folclorului și mitologiei irlandeze.", "category": "landmark", "coords": [-6.26886, 53.347316]}, {"name": "The Brazen Head", "text": "Un pub istoric celebru care funcționează ca o atracție în Dublin.", "category": "landmark", "coords": [-6.276311, 53.344937]}, {"name": "National Botanic Gardens", "text": "O renumită grădină botanică situată în Dublin.", "category": "landmark", "coords": [-6.273235, 53.372193]}, {"name": "Dublin City Hall", "text": "O clădire civică istorică din Dublin.", "category": "landmark", "coords": [-6.267157, 53.343865]}], "en": [{"name": "Old Jameson Distillery", "text": "The Old Jameson Distillery is a museum in Dublin exploring the history of the famous Irish whiskey.", "category": "museum", "coords": [-6.277076, 53.348117]}, {"name": "Irish Jewish Museum", "text": "The Irish Jewish Museum is a museum in Dublin dedicated to the history of Ireland's Jewish community.", "category": "museum", "coords": [-6.269372, 53.330728]}, {"name": "The Little Museum of Dublin", "text": "The Little Museum of Dublin is a museum chronicling the 20th-century history of the Irish capital.", "category": "museum", "coords": [-6.258395, 53.339539]}, {"name": "Garda Museum", "text": "The Garda Museum is a museum in Dublin exploring the history of Irish policing.", "category": "museum", "coords": [-6.266252, 53.343664]}, {"name": "Dublinia", "text": "Dublinia is a museum in Dublin focusing on the city's Viking and Medieval history.", "category": "museum", "coords": [-6.272016, 53.343238]}, {"name": "EPIC The Irish Emigration Museum", "text": "EPIC The Irish Emigration Museum is located in Dublin and traces the history of the Irish diaspora.", "category": "museum", "coords": [-6.247979, 53.348265]}, {"name": "Museum of Literature Ireland", "text": "The Museum of Literature Ireland in Dublin celebrates the country's renowned literary heritage.", "category": "museum", "coords": [-6.260422, 53.33679]}, {"name": "Chester Beatty Library", "text": "The Chester Beatty Library is a museum in Dublin housing a renowned collection of rare manuscripts and artifacts.", "category": "museum", "coords": [-6.267451, 53.342202]}, {"name": "National Museum of Ireland (Decorative Arts & History)", "text": "The National Museum of Ireland (Decorative Arts & History) is located in Dublin's historic Collins Barracks.", "category": "museum", "coords": [-6.285731, 53.348817]}, {"name": "National Print Museum", "text": "The National Print Museum in Dublin preserves and exhibits the history of the printing craft in Ireland.", "category": "museum", "coords": [-6.235402, 53.335189]}, {"name": "National Museum of Ireland, Natural History", "text": "The National Museum of Ireland, Natural History, often called the 'Dead Zoo', is located in Dublin.", "category": "museum", "coords": [-6.253341, 53.339891]}, {"name": "Irish Architectural Archive", "text": "The Irish Architectural Archive is a museum in Dublin dedicated to collecting and preserving Ireland's architectural heritage.", "category": "museum", "coords": [-6.246829, 53.338697]}, {"name": "The James Joyce Centre", "text": "The James Joyce Centre is a museum in Dublin dedicated to the life and works of the famous Irish writer.", "category": "museum", "coords": [-6.259969, 53.35419]}, {"name": "Douglas Hyde Gallery", "text": "The Douglas Hyde Gallery is a contemporary art gallery located at Trinity College in Dublin.", "category": "museum", "coords": [-6.257707, 53.343163]}, {"name": "Royal Hibernian Academy", "text": "The Royal Hibernian Academy is a prominent art gallery and institution located in Dublin.", "category": "museum", "coords": [-6.254924, 53.337079]}, {"name": "Daniel O'Connell", "text": "The Daniel O'Connell monument in Dublin honors the famous 19th-century Irish nationalist leader.", "category": "historical", "coords": [-6.259343, 53.34771]}, {"name": "Wellington Monument", "text": "The Wellington Monument is a tall obelisk in Dublin's Phoenix Park commemorating the Duke of Wellington.", "category": "historical", "coords": [-6.30312, 53.349044]}, {"name": "Spire of Dublin", "text": "The Spire of Dublin is a prominent stainless steel pin-like monument located on O'Connell Street.", "category": "historical", "coords": [-6.260254, 53.349801]}, {"name": "Saint Audoen's Gate", "text": "A historic city gate located in Dublin.", "category": "fortress", "coords": [-6.274023, 53.343954]}, {"name": "The New Theatre", "text": "A theatre located in the city of Dublin.", "category": "cultural", "coords": [-6.266528, 53.344923]}, {"name": "3Arena", "text": "A large indoor amphitheatre and event venue in Dublin.", "category": "cultural", "coords": [-6.228422, 53.347485]}, {"name": "National Concert Hall", "text": "A principal national venue for classical music in Dublin.", "category": "cultural", "coords": [-6.259217, 53.334726]}, {"name": "Bord Gáis Energy Theatre", "text": "A performing arts venue located in Dublin.", "category": "cultural", "coords": [-6.239938, 53.344134]}, {"name": "Vicar Street", "text": "A live entertainment venue situated in Dublin.", "category": "cultural", "coords": [-6.277865, 53.342435]}, {"name": "Smock Alley Theatre", "text": "A historic theatre located in Dublin.", "category": "cultural", "coords": [-6.269095, 53.344842]}, {"name": "Gaiety Theatre", "text": "A theatre in Dublin known for its diverse productions.", "category": "cultural", "coords": [-6.261569, 53.340465]}, {"name": "Abbey Theatre", "text": "The national theatre of Ireland located in Dublin.", "category": "cultural", "coords": [-6.257121, 53.348542]}, {"name": "Gate Theatre and Assembly Rooms", "text": "A notable theatre building in Dublin.", "category": "cultural", "coords": [-6.262186, 53.353146]}, {"name": "Kerlin Gallery", "text": "Situated in the Irish capital, the Kerlin Gallery stands as a significant cultural venue. It focuses on the presentation of contemporary artworks. Visitors here experience the creative output of modern artists within Dublin's urban environment.", "category": "cultural", "coords": [-6.259625, 53.340601]}, {"name": "Church of Mary Immaculate, Refuge of Sinners", "text": "A place of worship situated in Dublin.", "category": "religious", "coords": [-6.263871, 53.327973]}, {"name": "St Joseph's Church", "text": "A place of worship located in the city of Dublin.", "category": "religious", "coords": [-6.236697, 53.354406]}, {"name": "St Peter's", "text": "A church situated in Dublin.", "category": "religious", "coords": [-6.276459, 53.360564]}, {"name": "St Michan's Church", "text": "A historic church in Dublin known for its burial vaults.", "category": "religious", "coords": [-6.275461, 53.347473]}, {"name": "Saint Mary's Cathedral", "text": "A prominent pro-cathedral situated in Dublin.", "category": "religious", "coords": [-6.259025, 53.350853]}, {"name": "St Stephen's Church", "text": "A church building situated in Dublin.", "category": "religious", "coords": [-6.243692, 53.336787]}, {"name": "Church of the Immaculate Conception (Adam & Eve)", "text": "A Franciscan church located in Dublin.", "category": "religious", "coords": [-6.27294, 53.344565]}, {"name": "St Mark's", "text": "A church located in the city of Dublin.", "category": "religious", "coords": [-6.251016, 53.344817]}, {"name": "St. Joseph's Carmelite Church", "text": "A Carmelite church located in Dublin.", "category": "religious", "coords": [-6.268523, 53.358159]}, {"name": "All Saint's Parish Church, Grangegorman", "text": "A parish church situated in Dublin.", "category": "religious", "coords": [-6.273824, 53.358221]}, {"name": "St Catherine's Church", "text": "A place of worship located in Dublin.", "category": "religious", "coords": [-6.281186, 53.342937]}, {"name": "Saint John the Baptist", "text": "A church situated in Dublin.", "category": "religious", "coords": [-6.250226, 53.371324]}, {"name": "Dublin Mosque", "text": "A prominent mosque located in Dublin.", "category": "religious", "coords": [-6.281861, 53.330873]}, {"name": "St. Nicholas of Myra", "text": "A place of worship situated in Dublin.", "category": "religious", "coords": [-6.273632, 53.341133]}, {"name": "St Andrew's", "text": "A church located in Dublin.", "category": "religious", "coords": [-6.249113, 53.343077]}, {"name": "St Werburgh's", "text": "A historic church located in Dublin.", "category": "religious", "coords": [-6.269428, 53.342934]}, {"name": "St Ann's Church", "text": "A church situated in the city of Dublin.", "category": "religious", "coords": [-6.257875, 53.340944]}, {"name": "Church of St Francis Xavier", "text": "A Jesuit church located in Dublin.", "category": "religious", "coords": [-6.259562, 53.358014]}, {"name": "Book of Kells", "text": "A famous illuminated manuscript exhibited as an attraction in Dublin.", "category": "landmark", "coords": [-6.256487, 53.343903]}, {"name": "Temple Bar", "text": "A busy cultural and entertainment quarter in Dublin.", "category": "landmark", "coords": [-6.263114, 53.345496]}, {"name": "Hungry Tree", "text": "A famous tree in Dublin known for having partially consumed a cast iron bench.", "category": "landmark", "coords": [-6.27305, 53.352131]}, {"name": "National Leprechaun Museum", "text": "A museum in Dublin dedicated to Irish folklore and mythology.", "category": "landmark", "coords": [-6.26886, 53.347316]}, {"name": "The Brazen Head", "text": "A famous historic pub operating as an attraction in Dublin.", "category": "landmark", "coords": [-6.276311, 53.344937]}, {"name": "National Botanic Gardens", "text": "A renowned botanical gardens situated in Dublin.", "category": "landmark", "coords": [-6.273235, 53.372193]}, {"name": "Dublin City Hall", "text": "A historic civic building in Dublin.", "category": "landmark", "coords": [-6.267157, 53.343865]}]},
+    id: "city-dublin", "sights": {
+      "de": [
+            {
+                  "name": "Old Jameson Distillery",
+                  "text": "Die Old Jameson Distillery ist ein Museum in Dublin, das die Geschichte des berühmten irischen Whiskeys zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277076,
+                        53.348117
+                  ]
+            },
+            {
+                  "name": "Irish Jewish Museum",
+                  "text": "Das Irish Jewish Museum in Dublin widmet sich der Geschichte der jüdischen Gemeinde Irlands.",
+                  "category": "museum",
+                  "coords": [
+                        -6.269372,
+                        53.330728
+                  ]
+            },
+            {
+                  "name": "The Little Museum of Dublin",
+                  "text": "The Little Museum of Dublin ist ein Museum, das die Geschichte der irischen Hauptstadt im 20. Jahrhundert dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -6.258395,
+                        53.339539
+                  ]
+            },
+            {
+                  "name": "Garda Museum",
+                  "text": "Das Garda Museum ist ein Museum in Dublin zur Geschichte der irischen Polizei.",
+                  "category": "museum",
+                  "coords": [
+                        -6.266252,
+                        53.343664
+                  ]
+            },
+            {
+                  "name": "Dublinia",
+                  "text": "Dublinia ist ein Museum in Dublin, das sich auf die Geschichte der Wikinger und des Mittelalters konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -6.272016,
+                        53.343238
+                  ]
+            },
+            {
+                  "name": "EPIC The Irish Emigration Museum",
+                  "text": "EPIC The Irish Emigration Museum befindet sich in Dublin und verfolgt die Geschichte der irischen Diaspora.",
+                  "category": "museum",
+                  "coords": [
+                        -6.247979,
+                        53.348265
+                  ]
+            },
+            {
+                  "name": "Museum of Literature Ireland",
+                  "text": "Das Museum of Literature Ireland in Dublin feiert das reiche literarische Erbe des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        -6.260422,
+                        53.33679
+                  ]
+            },
+            {
+                  "name": "Chester Beatty Library",
+                  "text": "Die Chester Beatty Library ist ein Museum in Dublin mit einer berühmten Sammlung seltener Manuskripte und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -6.267451,
+                        53.342202
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland (Decorative Arts & History)",
+                  "text": "Das National Museum of Ireland (Decorative Arts & History) befindet sich in den historischen Collins Barracks in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.285731,
+                        53.348817
+                  ]
+            },
+            {
+                  "name": "National Print Museum",
+                  "text": "Das National Print Museum in Dublin bewahrt und zeigt die Geschichte des Druckhandwerks in Irland.",
+                  "category": "museum",
+                  "coords": [
+                        -6.235402,
+                        53.335189
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland, Natural History",
+                  "text": "Das National Museum of Ireland, Natural History, oft 'Dead Zoo' genannt, befindet sich in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.253341,
+                        53.339891
+                  ]
+            },
+            {
+                  "name": "Irish Architectural Archive",
+                  "text": "Das Irish Architectural Archive ist ein Museum in Dublin, das dem Sammeln und Bewahren des architektonischen Erbes Irlands gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -6.246829,
+                        53.338697
+                  ]
+            },
+            {
+                  "name": "The James Joyce Centre",
+                  "text": "Das James Joyce Centre ist ein Museum in Dublin, das dem Leben und Werk des berühmten irischen Schriftstellers gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -6.259969,
+                        53.35419
+                  ]
+            },
+            {
+                  "name": "Douglas Hyde Gallery",
+                  "text": "Die Douglas Hyde Gallery ist eine Galerie für zeitgenössische Kunst am Trinity College in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.257707,
+                        53.343163
+                  ]
+            },
+            {
+                  "name": "Royal Hibernian Academy",
+                  "text": "Die Royal Hibernian Academy ist eine bedeutende Kunstgalerie und Institution in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254924,
+                        53.337079
+                  ]
+            },
+            {
+                  "name": "Daniel O'Connell",
+                  "text": "Das Daniel O'Connell-Denkmal in Dublin ehrt den berühmten irischen Nationalistenführer des 19. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        -6.259343,
+                        53.34771
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "Das Wellington Monument ist ein hoher Obelisk im Phoenix Park in Dublin zum Gedenken an den Duke of Wellington.",
+                  "category": "historical",
+                  "coords": [
+                        -6.30312,
+                        53.349044
+                  ]
+            },
+            {
+                  "name": "Spire of Dublin",
+                  "text": "The Spire of Dublin ist ein markantes, nadelförmiges Edelstahl-Denkmal auf der O'Connell Street.",
+                  "category": "historical",
+                  "coords": [
+                        -6.260254,
+                        53.349801
+                  ]
+            },
+            {
+                  "name": "Saint Audoen's Gate",
+                  "text": "Ein historisches Stadttor in Dublin.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.274023,
+                        53.343954
+                  ]
+            },
+            {
+                  "name": "The New Theatre",
+                  "text": "Ein Theater in der Stadt Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.266528,
+                        53.344923
+                  ]
+            },
+            {
+                  "name": "3Arena",
+                  "text": "Eine große Indoor-Amphitheater- und Veranstaltungshalle in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.228422,
+                        53.347485
+                  ]
+            },
+            {
+                  "name": "National Concert Hall",
+                  "text": "Ein wichtiger nationaler Veranstaltungsort für klassische Musik in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259217,
+                        53.334726
+                  ]
+            },
+            {
+                  "name": "Bord Gáis Energy Theatre",
+                  "text": "Ein Veranstaltungsort für darstellende Künste in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.239938,
+                        53.344134
+                  ]
+            },
+            {
+                  "name": "Vicar Street",
+                  "text": "Ein Veranstaltungsort für Live-Unterhaltung in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.277865,
+                        53.342435
+                  ]
+            },
+            {
+                  "name": "Smock Alley Theatre",
+                  "text": "Ein historisches Theater in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.269095,
+                        53.344842
+                  ]
+            },
+            {
+                  "name": "Gaiety Theatre",
+                  "text": "Ein Theater in Dublin, das für seine vielfältigen Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.261569,
+                        53.340465
+                  ]
+            },
+            {
+                  "name": "Abbey Theatre",
+                  "text": "Das irische Nationaltheater in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.257121,
+                        53.348542
+                  ]
+            },
+            {
+                  "name": "Gate Theatre and Assembly Rooms",
+                  "text": "Ein bemerkenswertes Theatergebäude in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.262186,
+                        53.353146
+                  ]
+            },
+            {
+                  "name": "Kerlin Gallery",
+                  "text": "Mitten in der irischen Hauptstadt befindet sich die Kerlin Gallery als bedeutender Ort für Kultur. Sie legt ihren Schwerpunkt auf die Präsentation zeitgenössischer Kunstwerke. Besucher erleben hier das kreative Schaffen moderner Künstler im urbanen Dubliner Umfeld.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259625,
+                        53.340601
+                  ]
+            },
+            {
+                  "name": "Church of Mary Immaculate, Refuge of Sinners",
+                  "text": "Ein Gotteshaus in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.263871,
+                        53.327973
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "Ein Gotteshaus in der Stadt Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.236697,
+                        53.354406
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "Eine Kirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.276459,
+                        53.360564
+                  ]
+            },
+            {
+                  "name": "St Michan's Church",
+                  "text": "Eine historische Kirche in Dublin, die für ihre Grabgewölbe bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.275461,
+                        53.347473
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Eine markante Prokathedrale in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259025,
+                        53.350853
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "Ein Kirchengebäude in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.243692,
+                        53.336787
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception (Adam & Eve)",
+                  "text": "Eine Franziskanerkirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.27294,
+                        53.344565
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "Eine Kirche in der Stadt Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.251016,
+                        53.344817
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Carmelite Church",
+                  "text": "Eine Karmeliterkirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.268523,
+                        53.358159
+                  ]
+            },
+            {
+                  "name": "All Saint's Parish Church, Grangegorman",
+                  "text": "Eine Pfarrkirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273824,
+                        53.358221
+                  ]
+            },
+            {
+                  "name": "St Catherine's Church",
+                  "text": "Ein Gotteshaus in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281186,
+                        53.342937
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "Eine Kirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.250226,
+                        53.371324
+                  ]
+            },
+            {
+                  "name": "Dublin Mosque",
+                  "text": "Eine bekannte Moschee in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281861,
+                        53.330873
+                  ]
+            },
+            {
+                  "name": "St. Nicholas of Myra",
+                  "text": "Ein Gotteshaus in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273632,
+                        53.341133
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "Eine Kirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.249113,
+                        53.343077
+                  ]
+            },
+            {
+                  "name": "St Werburgh's",
+                  "text": "Eine historische Kirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.269428,
+                        53.342934
+                  ]
+            },
+            {
+                  "name": "St Ann's Church",
+                  "text": "Eine Kirche in der Stadt Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.257875,
+                        53.340944
+                  ]
+            },
+            {
+                  "name": "Church of St Francis Xavier",
+                  "text": "Eine Jesuitenkirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259562,
+                        53.358014
+                  ]
+            },
+            {
+                  "name": "Book of Kells",
+                  "text": "Eine berühmte illuminierte Handschrift, die als Attraktion in Dublin ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.256487,
+                        53.343903
+                  ]
+            },
+            {
+                  "name": "Temple Bar",
+                  "text": "Ein belebtes Kultur- und Unterhaltungsviertel in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.263114,
+                        53.345496
+                  ]
+            },
+            {
+                  "name": "Hungry Tree",
+                  "text": "Ein berühmter Baum in Dublin, der für das teilweise Umschließen einer gusseisernen Bank bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.27305,
+                        53.352131
+                  ]
+            },
+            {
+                  "name": "National Leprechaun Museum",
+                  "text": "Ein Museum in Dublin, das der irischen Folklore und Mythologie gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.26886,
+                        53.347316
+                  ]
+            },
+            {
+                  "name": "The Brazen Head",
+                  "text": "Ein berühmter historischer Pub, der als Attraktion in Dublin dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.276311,
+                        53.344937
+                  ]
+            },
+            {
+                  "name": "National Botanic Gardens",
+                  "text": "Ein renommierter botanischer Garten in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.273235,
+                        53.372193
+                  ]
+            },
+            {
+                  "name": "Dublin City Hall",
+                  "text": "Ein historisches städtisches Gebäude in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267157,
+                        53.343865
+                  ]
+            },
+            {
+                  "name": "Bonnington Leisure and pool",
+                  "text": "Ein Freizeitbad in Dublin für sportliche Aktivitäten und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        -6.245337,
+                        53.377238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Jameson Distillery",
+                  "text": "Az Old Jameson Distillery egy múzeum Dublinban, amely a híres ír whiskey történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277076,
+                        53.348117
+                  ]
+            },
+            {
+                  "name": "Irish Jewish Museum",
+                  "text": "Az Irish Jewish Museum egy dublini múzeum, amely az írországi zsidó közösség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.269372,
+                        53.330728
+                  ]
+            },
+            {
+                  "name": "The Little Museum of Dublin",
+                  "text": "A The Little Museum of Dublin a város 20. századi történetét bemutató múzeum Dublinban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.258395,
+                        53.339539
+                  ]
+            },
+            {
+                  "name": "Garda Museum",
+                  "text": "A Garda Museum egy múzeum Dublinban, amely az ír rendőrség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.266252,
+                        53.343664
+                  ]
+            },
+            {
+                  "name": "Dublinia",
+                  "text": "A Dublinia egy múzeum Dublinban, amely a város viking és középkori történelmére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -6.272016,
+                        53.343238
+                  ]
+            },
+            {
+                  "name": "EPIC The Irish Emigration Museum",
+                  "text": "Az EPIC The Irish Emigration Museum egy dublini múzeum, amely az ír diaszpóra történetét követi nyomon.",
+                  "category": "museum",
+                  "coords": [
+                        -6.247979,
+                        53.348265
+                  ]
+            },
+            {
+                  "name": "Museum of Literature Ireland",
+                  "text": "A Museum of Literature Ireland egy dublini múzeum, amely az ország irodalmi örökségét ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        -6.260422,
+                        53.33679
+                  ]
+            },
+            {
+                  "name": "Chester Beatty Library",
+                  "text": "A Chester Beatty Library egy dublini múzeum, amely ritka kéziratok és műtárgyak híres gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -6.267451,
+                        53.342202
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland (Decorative Arts & History)",
+                  "text": "A National Museum of Ireland (Decorative Arts & History) Dublinban, a történelmi Collins Barracks épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        -6.285731,
+                        53.348817
+                  ]
+            },
+            {
+                  "name": "National Print Museum",
+                  "text": "A dublini National Print Museum az írországi nyomdamesterség történetét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.235402,
+                        53.335189
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland, Natural History",
+                  "text": "A National Museum of Ireland, Natural History, amelyet gyakran 'Halott Állatkertnek' hívnak, Dublinban található.",
+                  "category": "museum",
+                  "coords": [
+                        -6.253341,
+                        53.339891
+                  ]
+            },
+            {
+                  "name": "Irish Architectural Archive",
+                  "text": "Az Irish Architectural Archive egy dublini múzeum, amely az írországi építészeti örökség gyűjtésének és megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -6.246829,
+                        53.338697
+                  ]
+            },
+            {
+                  "name": "The James Joyce Centre",
+                  "text": "A James Joyce Centre egy múzeum Dublinban, amelyet a híres ír író életének és munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -6.259969,
+                        53.35419
+                  ]
+            },
+            {
+                  "name": "Douglas Hyde Gallery",
+                  "text": "A Douglas Hyde Gallery egy kortárs művészeti galéria, amely a dublini Trinity College-ban található.",
+                  "category": "museum",
+                  "coords": [
+                        -6.257707,
+                        53.343163
+                  ]
+            },
+            {
+                  "name": "Royal Hibernian Academy",
+                  "text": "A Royal Hibernian Academy egy kiemelkedő művészeti galéria és intézmény Dublinban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254924,
+                        53.337079
+                  ]
+            },
+            {
+                  "name": "Daniel O'Connell",
+                  "text": "A dublini Daniel O'Connell-emlékmű a híres 19. századi ír nacionalista vezetőnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -6.259343,
+                        53.34771
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "A Wellington Monument egy magas obeliszk Dublin Phoenix Parkjában, amely Wellington hercegének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -6.30312,
+                        53.349044
+                  ]
+            },
+            {
+                  "name": "Spire of Dublin",
+                  "text": "A Spire of Dublin egy kiemelkedő, tű alakú rozsdamentes acél emlékmű az O'Connell Streeten.",
+                  "category": "historical",
+                  "coords": [
+                        -6.260254,
+                        53.349801
+                  ]
+            },
+            {
+                  "name": "Saint Audoen's Gate",
+                  "text": "Egy történelmi városkapu Dublinban.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.274023,
+                        53.343954
+                  ]
+            },
+            {
+                  "name": "The New Theatre",
+                  "text": "Egy színház Dublin városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.266528,
+                        53.344923
+                  ]
+            },
+            {
+                  "name": "3Arena",
+                  "text": "Egy nagy fedett amfiteátrum és rendezvényközpont Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.228422,
+                        53.347485
+                  ]
+            },
+            {
+                  "name": "National Concert Hall",
+                  "text": "A klasszikus zene legfőbb nemzeti helyszíne Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259217,
+                        53.334726
+                  ]
+            },
+            {
+                  "name": "Bord Gáis Energy Theatre",
+                  "text": "Egy előadó-művészeti helyszín Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.239938,
+                        53.344134
+                  ]
+            },
+            {
+                  "name": "Vicar Street",
+                  "text": "Egy élő szórakoztató központ Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.277865,
+                        53.342435
+                  ]
+            },
+            {
+                  "name": "Smock Alley Theatre",
+                  "text": "Egy történelmi színház Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.269095,
+                        53.344842
+                  ]
+            },
+            {
+                  "name": "Gaiety Theatre",
+                  "text": "Változatos produkcióiról ismert színház Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.261569,
+                        53.340465
+                  ]
+            },
+            {
+                  "name": "Abbey Theatre",
+                  "text": "Írország nemzeti színháza Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.257121,
+                        53.348542
+                  ]
+            },
+            {
+                  "name": "Gate Theatre and Assembly Rooms",
+                  "text": "Egy jelentős színházépület Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.262186,
+                        53.353146
+                  ]
+            },
+            {
+                  "name": "Kerlin Gallery",
+                  "text": "Az ír fővárosban található Kerlin Gallery jelentős kulturális helyszínként várja az érdeklődőket. A galéria a kortárs művészeti alkotások bemutatására fókuszál. A látogatók a modern művészek kreatív munkásságát ismerhetik meg Dublin urbánus környezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259625,
+                        53.340601
+                  ]
+            },
+            {
+                  "name": "Church of Mary Immaculate, Refuge of Sinners",
+                  "text": "Egy istentiszteleti hely Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.263871,
+                        53.327973
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "Egy istentiszteleti hely Dublin városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.236697,
+                        53.354406
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "Egy templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.276459,
+                        53.360564
+                  ]
+            },
+            {
+                  "name": "St Michan's Church",
+                  "text": "Sírboltjairól ismert történelmi templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.275461,
+                        53.347473
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Egy kiemelkedő pro-katedrális Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259025,
+                        53.350853
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "Egy templomépület Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.243692,
+                        53.336787
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception (Adam & Eve)",
+                  "text": "Ferences templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.27294,
+                        53.344565
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "Egy templom Dublin városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.251016,
+                        53.344817
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Carmelite Church",
+                  "text": "Egy kármelita templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.268523,
+                        53.358159
+                  ]
+            },
+            {
+                  "name": "All Saint's Parish Church, Grangegorman",
+                  "text": "Egy plébániatemplom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273824,
+                        53.358221
+                  ]
+            },
+            {
+                  "name": "St Catherine's Church",
+                  "text": "Egy istentiszteleti hely Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281186,
+                        53.342937
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "Egy templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.250226,
+                        53.371324
+                  ]
+            },
+            {
+                  "name": "Dublin Mosque",
+                  "text": "Egy kiemelkedő mecset Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281861,
+                        53.330873
+                  ]
+            },
+            {
+                  "name": "St. Nicholas of Myra",
+                  "text": "Egy istentiszteleti hely Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273632,
+                        53.341133
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "Egy templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.249113,
+                        53.343077
+                  ]
+            },
+            {
+                  "name": "St Werburgh's",
+                  "text": "Egy történelmi templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.269428,
+                        53.342934
+                  ]
+            },
+            {
+                  "name": "St Ann's Church",
+                  "text": "Egy templom Dublin városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.257875,
+                        53.340944
+                  ]
+            },
+            {
+                  "name": "Church of St Francis Xavier",
+                  "text": "Egy jezsuita templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259562,
+                        53.358014
+                  ]
+            },
+            {
+                  "name": "Book of Kells",
+                  "text": "Egy híres kódex, amelyet látványosságként állítanak ki Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.256487,
+                        53.343903
+                  ]
+            },
+            {
+                  "name": "Temple Bar",
+                  "text": "Egy nyüzsgő kulturális és szórakozónegyed Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.263114,
+                        53.345496
+                  ]
+            },
+            {
+                  "name": "Hungry Tree",
+                  "text": "Egy híres fa Dublinban, amely arról ismert, hogy részben körbenőtt egy öntöttvas padot.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.27305,
+                        53.352131
+                  ]
+            },
+            {
+                  "name": "National Leprechaun Museum",
+                  "text": "Az ír folklórnak és mitológiának szentelt múzeum Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.26886,
+                        53.347316
+                  ]
+            },
+            {
+                  "name": "The Brazen Head",
+                  "text": "Egy híres történelmi kocsma, amely látványosságként működik Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.276311,
+                        53.344937
+                  ]
+            },
+            {
+                  "name": "National Botanic Gardens",
+                  "text": "Egy híres botanikus kert Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.273235,
+                        53.372193
+                  ]
+            },
+            {
+                  "name": "Dublin City Hall",
+                  "text": "Egy történelmi polgári épület Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267157,
+                        53.343865
+                  ]
+            },
+            {
+                  "name": "Bonnington Leisure and pool",
+                  "text": "Szabadidőközpont és uszoda Dublinban sportoláshoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        -6.245337,
+                        53.377238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Jameson Distillery",
+                  "text": "Old Jameson Distillery este un muzeu din Dublin dedicat istoriei celebrului whiskey irlandez.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277076,
+                        53.348117
+                  ]
+            },
+            {
+                  "name": "Irish Jewish Museum",
+                  "text": "Irish Jewish Museum este un muzeu din Dublin dedicat istoriei comunității evreiești din Irlanda.",
+                  "category": "museum",
+                  "coords": [
+                        -6.269372,
+                        53.330728
+                  ]
+            },
+            {
+                  "name": "The Little Museum of Dublin",
+                  "text": "The Little Museum of Dublin este un muzeu care prezintă istoria capitalei irlandeze în secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -6.258395,
+                        53.339539
+                  ]
+            },
+            {
+                  "name": "Garda Museum",
+                  "text": "Garda Museum este un muzeu din Dublin care explorează istoria poliției irlandeze.",
+                  "category": "museum",
+                  "coords": [
+                        -6.266252,
+                        53.343664
+                  ]
+            },
+            {
+                  "name": "Dublinia",
+                  "text": "Dublinia este un muzeu din Dublin axat pe istoria vikingă și medievală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -6.272016,
+                        53.343238
+                  ]
+            },
+            {
+                  "name": "EPIC The Irish Emigration Museum",
+                  "text": "EPIC The Irish Emigration Museum este situat în Dublin și urmărește istoria diasporei irlandeze.",
+                  "category": "museum",
+                  "coords": [
+                        -6.247979,
+                        53.348265
+                  ]
+            },
+            {
+                  "name": "Museum of Literature Ireland",
+                  "text": "Museum of Literature Ireland din Dublin celebrează renumitul patrimoniu literar al țării.",
+                  "category": "museum",
+                  "coords": [
+                        -6.260422,
+                        53.33679
+                  ]
+            },
+            {
+                  "name": "Chester Beatty Library",
+                  "text": "Chester Beatty Library este un muzeu din Dublin care adăpostește o colecție renumită de manuscrise rare și artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        -6.267451,
+                        53.342202
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland (Decorative Arts & History)",
+                  "text": "National Museum of Ireland (Decorative Arts & History) este situat în istorica Collins Barracks din Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.285731,
+                        53.348817
+                  ]
+            },
+            {
+                  "name": "National Print Museum",
+                  "text": "National Print Museum din Dublin păstrează și expune istoria meșteșugului tipografic din Irlanda.",
+                  "category": "museum",
+                  "coords": [
+                        -6.235402,
+                        53.335189
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland, Natural History",
+                  "text": "National Museum of Ireland, Natural History, denumit adesea 'Dead Zoo', este situat în Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.253341,
+                        53.339891
+                  ]
+            },
+            {
+                  "name": "Irish Architectural Archive",
+                  "text": "Irish Architectural Archive este un muzeu din Dublin dedicat colectării și conservării patrimoniului arhitectural al Irlandei.",
+                  "category": "museum",
+                  "coords": [
+                        -6.246829,
+                        53.338697
+                  ]
+            },
+            {
+                  "name": "The James Joyce Centre",
+                  "text": "James Joyce Centre este un muzeu din Dublin dedicat vieții și operelor celebrului scriitor irlandez.",
+                  "category": "museum",
+                  "coords": [
+                        -6.259969,
+                        53.35419
+                  ]
+            },
+            {
+                  "name": "Douglas Hyde Gallery",
+                  "text": "Douglas Hyde Gallery este o galerie de artă contemporană situată la Trinity College din Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.257707,
+                        53.343163
+                  ]
+            },
+            {
+                  "name": "Royal Hibernian Academy",
+                  "text": "Royal Hibernian Academy este o galerie de artă și instituție importantă situată în Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254924,
+                        53.337079
+                  ]
+            },
+            {
+                  "name": "Daniel O'Connell",
+                  "text": "Monumentul Daniel O'Connell din Dublin îl onorează pe celebrul lider naționalist irlandez din secolul al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -6.259343,
+                        53.34771
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "Wellington Monument este un obelisc înalt din Phoenix Park din Dublin, care îl comemorează pe Ducele de Wellington.",
+                  "category": "historical",
+                  "coords": [
+                        -6.30312,
+                        53.349044
+                  ]
+            },
+            {
+                  "name": "Spire of Dublin",
+                  "text": "Spire of Dublin este un monument proeminent din oțel inoxidabil, în formă de ac, situat pe O'Connell Street.",
+                  "category": "historical",
+                  "coords": [
+                        -6.260254,
+                        53.349801
+                  ]
+            },
+            {
+                  "name": "Saint Audoen's Gate",
+                  "text": "O poartă istorică a orașului situată în Dublin.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.274023,
+                        53.343954
+                  ]
+            },
+            {
+                  "name": "The New Theatre",
+                  "text": "Un teatru situat în orașul Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.266528,
+                        53.344923
+                  ]
+            },
+            {
+                  "name": "3Arena",
+                  "text": "Un amfiteatru interior mare și o locație de evenimente în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.228422,
+                        53.347485
+                  ]
+            },
+            {
+                  "name": "National Concert Hall",
+                  "text": "Un important loc național pentru muzica clasică din Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259217,
+                        53.334726
+                  ]
+            },
+            {
+                  "name": "Bord Gáis Energy Theatre",
+                  "text": "O locație pentru artele spectacolului situată în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.239938,
+                        53.344134
+                  ]
+            },
+            {
+                  "name": "Vicar Street",
+                  "text": "Un loc pentru divertisment live în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.277865,
+                        53.342435
+                  ]
+            },
+            {
+                  "name": "Smock Alley Theatre",
+                  "text": "Un teatru istoric situat în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.269095,
+                        53.344842
+                  ]
+            },
+            {
+                  "name": "Gaiety Theatre",
+                  "text": "Un teatru din Dublin cunoscut pentru producțiile sale diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.261569,
+                        53.340465
+                  ]
+            },
+            {
+                  "name": "Abbey Theatre",
+                  "text": "Teatrul național al Irlandei situat în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.257121,
+                        53.348542
+                  ]
+            },
+            {
+                  "name": "Gate Theatre and Assembly Rooms",
+                  "text": "O clădire notabilă a teatrului din Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.262186,
+                        53.353146
+                  ]
+            },
+            {
+                  "name": "Kerlin Gallery",
+                  "text": "Situată în capitala irlandeză, Kerlin Gallery se remarcă drept un spațiu cultural semnificativ. Aceasta se concentrează pe prezentarea operelor de artă contemporană. Vizitatorii experimentează aici creațiile artiștilor moderni în mediul urban din Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259625,
+                        53.340601
+                  ]
+            },
+            {
+                  "name": "Church of Mary Immaculate, Refuge of Sinners",
+                  "text": "Un lăcaș de cult situat în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.263871,
+                        53.327973
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "Un lăcaș de cult situat în orașul Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.236697,
+                        53.354406
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "O biserică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.276459,
+                        53.360564
+                  ]
+            },
+            {
+                  "name": "St Michan's Church",
+                  "text": "O biserică istorică din Dublin, cunoscută pentru criptele sale.",
+                  "category": "religious",
+                  "coords": [
+                        -6.275461,
+                        53.347473
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "O pro-catedrală proeminentă situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259025,
+                        53.350853
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "O biserică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.243692,
+                        53.336787
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception (Adam & Eve)",
+                  "text": "O biserică franciscană situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.27294,
+                        53.344565
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "O biserică situată în orașul Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.251016,
+                        53.344817
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Carmelite Church",
+                  "text": "O biserică carmelită situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.268523,
+                        53.358159
+                  ]
+            },
+            {
+                  "name": "All Saint's Parish Church, Grangegorman",
+                  "text": "O biserică parohială situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273824,
+                        53.358221
+                  ]
+            },
+            {
+                  "name": "St Catherine's Church",
+                  "text": "Un lăcaș de cult situat în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281186,
+                        53.342937
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "O biserică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.250226,
+                        53.371324
+                  ]
+            },
+            {
+                  "name": "Dublin Mosque",
+                  "text": "O moschee proeminentă situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281861,
+                        53.330873
+                  ]
+            },
+            {
+                  "name": "St. Nicholas of Myra",
+                  "text": "Un lăcaș de cult situat în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273632,
+                        53.341133
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "O biserică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.249113,
+                        53.343077
+                  ]
+            },
+            {
+                  "name": "St Werburgh's",
+                  "text": "O biserică istorică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.269428,
+                        53.342934
+                  ]
+            },
+            {
+                  "name": "St Ann's Church",
+                  "text": "O biserică situată în orașul Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.257875,
+                        53.340944
+                  ]
+            },
+            {
+                  "name": "Church of St Francis Xavier",
+                  "text": "O biserică iezuită situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259562,
+                        53.358014
+                  ]
+            },
+            {
+                  "name": "Book of Kells",
+                  "text": "Un manuscris iluminat faimos, expus ca atracție în Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.256487,
+                        53.343903
+                  ]
+            },
+            {
+                  "name": "Temple Bar",
+                  "text": "Un cartier aglomerat de cultură și divertisment din Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.263114,
+                        53.345496
+                  ]
+            },
+            {
+                  "name": "Hungry Tree",
+                  "text": "Un copac faimos din Dublin, cunoscut pentru că a înghițit parțial o bancă din fontă.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.27305,
+                        53.352131
+                  ]
+            },
+            {
+                  "name": "National Leprechaun Museum",
+                  "text": "Un muzeu din Dublin dedicat folclorului și mitologiei irlandeze.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.26886,
+                        53.347316
+                  ]
+            },
+            {
+                  "name": "The Brazen Head",
+                  "text": "Un pub istoric celebru care funcționează ca o atracție în Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.276311,
+                        53.344937
+                  ]
+            },
+            {
+                  "name": "National Botanic Gardens",
+                  "text": "O renumită grădină botanică situată în Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.273235,
+                        53.372193
+                  ]
+            },
+            {
+                  "name": "Dublin City Hall",
+                  "text": "O clădire civică istorică din Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267157,
+                        53.343865
+                  ]
+            },
+            {
+                  "name": "Bonnington Leisure and pool",
+                  "text": "O piscină de agrement în Dublin pentru activități sportive și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -6.245337,
+                        53.377238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Jameson Distillery",
+                  "text": "The Old Jameson Distillery is a museum in Dublin exploring the history of the famous Irish whiskey.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277076,
+                        53.348117
+                  ]
+            },
+            {
+                  "name": "Irish Jewish Museum",
+                  "text": "The Irish Jewish Museum is a museum in Dublin dedicated to the history of Ireland's Jewish community.",
+                  "category": "museum",
+                  "coords": [
+                        -6.269372,
+                        53.330728
+                  ]
+            },
+            {
+                  "name": "The Little Museum of Dublin",
+                  "text": "The Little Museum of Dublin is a museum chronicling the 20th-century history of the Irish capital.",
+                  "category": "museum",
+                  "coords": [
+                        -6.258395,
+                        53.339539
+                  ]
+            },
+            {
+                  "name": "Garda Museum",
+                  "text": "The Garda Museum is a museum in Dublin exploring the history of Irish policing.",
+                  "category": "museum",
+                  "coords": [
+                        -6.266252,
+                        53.343664
+                  ]
+            },
+            {
+                  "name": "Dublinia",
+                  "text": "Dublinia is a museum in Dublin focusing on the city's Viking and Medieval history.",
+                  "category": "museum",
+                  "coords": [
+                        -6.272016,
+                        53.343238
+                  ]
+            },
+            {
+                  "name": "EPIC The Irish Emigration Museum",
+                  "text": "EPIC The Irish Emigration Museum is located in Dublin and traces the history of the Irish diaspora.",
+                  "category": "museum",
+                  "coords": [
+                        -6.247979,
+                        53.348265
+                  ]
+            },
+            {
+                  "name": "Museum of Literature Ireland",
+                  "text": "The Museum of Literature Ireland in Dublin celebrates the country's renowned literary heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -6.260422,
+                        53.33679
+                  ]
+            },
+            {
+                  "name": "Chester Beatty Library",
+                  "text": "The Chester Beatty Library is a museum in Dublin housing a renowned collection of rare manuscripts and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -6.267451,
+                        53.342202
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland (Decorative Arts & History)",
+                  "text": "The National Museum of Ireland (Decorative Arts & History) is located in Dublin's historic Collins Barracks.",
+                  "category": "museum",
+                  "coords": [
+                        -6.285731,
+                        53.348817
+                  ]
+            },
+            {
+                  "name": "National Print Museum",
+                  "text": "The National Print Museum in Dublin preserves and exhibits the history of the printing craft in Ireland.",
+                  "category": "museum",
+                  "coords": [
+                        -6.235402,
+                        53.335189
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland, Natural History",
+                  "text": "The National Museum of Ireland, Natural History, often called the 'Dead Zoo', is located in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.253341,
+                        53.339891
+                  ]
+            },
+            {
+                  "name": "Irish Architectural Archive",
+                  "text": "The Irish Architectural Archive is a museum in Dublin dedicated to collecting and preserving Ireland's architectural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -6.246829,
+                        53.338697
+                  ]
+            },
+            {
+                  "name": "The James Joyce Centre",
+                  "text": "The James Joyce Centre is a museum in Dublin dedicated to the life and works of the famous Irish writer.",
+                  "category": "museum",
+                  "coords": [
+                        -6.259969,
+                        53.35419
+                  ]
+            },
+            {
+                  "name": "Douglas Hyde Gallery",
+                  "text": "The Douglas Hyde Gallery is a contemporary art gallery located at Trinity College in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.257707,
+                        53.343163
+                  ]
+            },
+            {
+                  "name": "Royal Hibernian Academy",
+                  "text": "The Royal Hibernian Academy is a prominent art gallery and institution located in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254924,
+                        53.337079
+                  ]
+            },
+            {
+                  "name": "Daniel O'Connell",
+                  "text": "The Daniel O'Connell monument in Dublin honors the famous 19th-century Irish nationalist leader.",
+                  "category": "historical",
+                  "coords": [
+                        -6.259343,
+                        53.34771
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "The Wellington Monument is a tall obelisk in Dublin's Phoenix Park commemorating the Duke of Wellington.",
+                  "category": "historical",
+                  "coords": [
+                        -6.30312,
+                        53.349044
+                  ]
+            },
+            {
+                  "name": "Spire of Dublin",
+                  "text": "The Spire of Dublin is a prominent stainless steel pin-like monument located on O'Connell Street.",
+                  "category": "historical",
+                  "coords": [
+                        -6.260254,
+                        53.349801
+                  ]
+            },
+            {
+                  "name": "Saint Audoen's Gate",
+                  "text": "A historic city gate located in Dublin.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.274023,
+                        53.343954
+                  ]
+            },
+            {
+                  "name": "The New Theatre",
+                  "text": "A theatre located in the city of Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.266528,
+                        53.344923
+                  ]
+            },
+            {
+                  "name": "3Arena",
+                  "text": "A large indoor amphitheatre and event venue in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.228422,
+                        53.347485
+                  ]
+            },
+            {
+                  "name": "National Concert Hall",
+                  "text": "A principal national venue for classical music in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259217,
+                        53.334726
+                  ]
+            },
+            {
+                  "name": "Bord Gáis Energy Theatre",
+                  "text": "A performing arts venue located in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.239938,
+                        53.344134
+                  ]
+            },
+            {
+                  "name": "Vicar Street",
+                  "text": "A live entertainment venue situated in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.277865,
+                        53.342435
+                  ]
+            },
+            {
+                  "name": "Smock Alley Theatre",
+                  "text": "A historic theatre located in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.269095,
+                        53.344842
+                  ]
+            },
+            {
+                  "name": "Gaiety Theatre",
+                  "text": "A theatre in Dublin known for its diverse productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.261569,
+                        53.340465
+                  ]
+            },
+            {
+                  "name": "Abbey Theatre",
+                  "text": "The national theatre of Ireland located in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.257121,
+                        53.348542
+                  ]
+            },
+            {
+                  "name": "Gate Theatre and Assembly Rooms",
+                  "text": "A notable theatre building in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.262186,
+                        53.353146
+                  ]
+            },
+            {
+                  "name": "Kerlin Gallery",
+                  "text": "Situated in the Irish capital, the Kerlin Gallery stands as a significant cultural venue. It focuses on the presentation of contemporary artworks. Visitors here experience the creative output of modern artists within Dublin's urban environment.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259625,
+                        53.340601
+                  ]
+            },
+            {
+                  "name": "Church of Mary Immaculate, Refuge of Sinners",
+                  "text": "A place of worship situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.263871,
+                        53.327973
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "A place of worship located in the city of Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.236697,
+                        53.354406
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "A church situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.276459,
+                        53.360564
+                  ]
+            },
+            {
+                  "name": "St Michan's Church",
+                  "text": "A historic church in Dublin known for its burial vaults.",
+                  "category": "religious",
+                  "coords": [
+                        -6.275461,
+                        53.347473
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "A prominent pro-cathedral situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259025,
+                        53.350853
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "A church building situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.243692,
+                        53.336787
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception (Adam & Eve)",
+                  "text": "A Franciscan church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.27294,
+                        53.344565
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "A church located in the city of Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.251016,
+                        53.344817
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Carmelite Church",
+                  "text": "A Carmelite church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.268523,
+                        53.358159
+                  ]
+            },
+            {
+                  "name": "All Saint's Parish Church, Grangegorman",
+                  "text": "A parish church situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273824,
+                        53.358221
+                  ]
+            },
+            {
+                  "name": "St Catherine's Church",
+                  "text": "A place of worship located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281186,
+                        53.342937
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "A church situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.250226,
+                        53.371324
+                  ]
+            },
+            {
+                  "name": "Dublin Mosque",
+                  "text": "A prominent mosque located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281861,
+                        53.330873
+                  ]
+            },
+            {
+                  "name": "St. Nicholas of Myra",
+                  "text": "A place of worship situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273632,
+                        53.341133
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "A church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.249113,
+                        53.343077
+                  ]
+            },
+            {
+                  "name": "St Werburgh's",
+                  "text": "A historic church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.269428,
+                        53.342934
+                  ]
+            },
+            {
+                  "name": "St Ann's Church",
+                  "text": "A church situated in the city of Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.257875,
+                        53.340944
+                  ]
+            },
+            {
+                  "name": "Church of St Francis Xavier",
+                  "text": "A Jesuit church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259562,
+                        53.358014
+                  ]
+            },
+            {
+                  "name": "Book of Kells",
+                  "text": "A famous illuminated manuscript exhibited as an attraction in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.256487,
+                        53.343903
+                  ]
+            },
+            {
+                  "name": "Temple Bar",
+                  "text": "A busy cultural and entertainment quarter in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.263114,
+                        53.345496
+                  ]
+            },
+            {
+                  "name": "Hungry Tree",
+                  "text": "A famous tree in Dublin known for having partially consumed a cast iron bench.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.27305,
+                        53.352131
+                  ]
+            },
+            {
+                  "name": "National Leprechaun Museum",
+                  "text": "A museum in Dublin dedicated to Irish folklore and mythology.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.26886,
+                        53.347316
+                  ]
+            },
+            {
+                  "name": "The Brazen Head",
+                  "text": "A famous historic pub operating as an attraction in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.276311,
+                        53.344937
+                  ]
+            },
+            {
+                  "name": "National Botanic Gardens",
+                  "text": "A renowned botanical gardens situated in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.273235,
+                        53.372193
+                  ]
+            },
+            {
+                  "name": "Dublin City Hall",
+                  "text": "A historic civic building in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267157,
+                        53.343865
+                  ]
+            },
+            {
+                  "name": "Bonnington Leisure and pool",
+                  "text": "A leisure pool in Dublin for sporting activities and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -6.245337,
+                        53.377238
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-6.2603, 53.3498],
@@ -614,6 +2603,15 @@ export const irelandRegions: POI[] = [
                         -8.471865,
                         51.911362
                   ]
+            },
+            {
+                  "name": "Gus Healy Swimming Pool",
+                  "text": "Ein öffentliches Schwimmbad in Cork, das Unterricht und Schwimmzeiten für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.449091,
+                        51.885533
+                  ]
             }
       ],
       "hu": [
@@ -1110,6 +3108,15 @@ export const irelandRegions: POI[] = [
                   "coords": [
                         -8.471865,
                         51.911362
+                  ]
+            },
+            {
+                  "name": "Gus Healy Swimming Pool",
+                  "text": "Nyilvános úszómedence Corkban, amely oktatást és úszási lehetőséget kínál minden korosztálynak.",
+                  "category": "family",
+                  "coords": [
+                        -8.449091,
+                        51.885533
                   ]
             }
       ],
@@ -1608,6 +3615,15 @@ export const irelandRegions: POI[] = [
                         -8.471865,
                         51.911362
                   ]
+            },
+            {
+                  "name": "Gus Healy Swimming Pool",
+                  "text": "O piscină publică din Cork care oferă lecții și sesiuni pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -8.449091,
+                        51.885533
+                  ]
             }
       ],
       "en": [
@@ -2104,6 +4120,15 @@ export const irelandRegions: POI[] = [
                   "coords": [
                         -8.471865,
                         51.911362
+                  ]
+            },
+            {
+                  "name": "Gus Healy Swimming Pool",
+                  "text": "A public swimming pool in Cork offering lessons and sessions for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -8.449091,
+                        51.885533
                   ]
             }
       ]
@@ -3872,6 +5897,24 @@ export const irelandCities: POI[] = [
                         -5.922433,
                         54.601228
                   ]
+            },
+            {
+                  "name": "Grove Swimming Pool",
+                  "text": "Eine öffentliche Schwimmanlage in Belfast mit Becken für Bewegung und Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        -5.923858,
+                        54.621475
+                  ]
+            },
+            {
+                  "name": "PJ Land",
+                  "text": "PJ Land in Belfast ist ein Themenpark für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        -5.913117,
+                        54.59922
+                  ]
             }
       ],
       "hu": [
@@ -4341,6 +6384,24 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -5.922433,
                         54.601228
+                  ]
+            },
+            {
+                  "name": "Grove Swimming Pool",
+                  "text": "Nyilvános belfasti úszóhelyszín medencékkel a sportoláshoz és a családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -5.923858,
+                        54.621475
+                  ]
+            },
+            {
+                  "name": "PJ Land",
+                  "text": "A PJ Land egy vidámpark Belfast városában, amely családi kikapcsolódást kínál.",
+                  "category": "family",
+                  "coords": [
+                        -5.913117,
+                        54.59922
                   ]
             }
       ],
@@ -4812,6 +6873,24 @@ export const irelandCities: POI[] = [
                         -5.922433,
                         54.601228
                   ]
+            },
+            {
+                  "name": "Grove Swimming Pool",
+                  "text": "O facilitate publică de înot din Belfast care oferă piscine pentru exerciții fizice și înot în familie.",
+                  "category": "family",
+                  "coords": [
+                        -5.923858,
+                        54.621475
+                  ]
+            },
+            {
+                  "name": "PJ Land",
+                  "text": "PJ Land din Belfast este un parc tematic pentru distracția întregii familii.",
+                  "category": "family",
+                  "coords": [
+                        -5.913117,
+                        54.59922
+                  ]
             }
       ],
       "en": [
@@ -5281,6 +7360,24 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -5.922433,
                         54.601228
+                  ]
+            },
+            {
+                  "name": "Grove Swimming Pool",
+                  "text": "A public swimming facility in Belfast providing pools for exercise and family swimming.",
+                  "category": "family",
+                  "coords": [
+                        -5.923858,
+                        54.621475
+                  ]
+            },
+            {
+                  "name": "PJ Land",
+                  "text": "PJ Land in Belfast is a theme park for family fun.",
+                  "category": "family",
+                  "coords": [
+                        -5.913117,
+                        54.59922
                   ]
             }
       ]
@@ -6372,6 +8469,24 @@ export const irelandCities: POI[] = [
                         -7.218699,
                         52.648151
                   ]
+            },
+            {
+                  "name": "The Watershed Swimming Pool",
+                  "text": "The Watershed Swimming Pool in Kilkenny bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -7.235739,
+                        52.638686
+                  ]
+            },
+            {
+                  "name": "Hawkeye School of Falconry",
+                  "text": "Hawkeye School of Falconry in Kilkenny ist ein Ausflugsziel für Familien, um Tiere zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        -7.195758,
+                        52.645609
+                  ]
             }
       ],
       "hu": [
@@ -6706,6 +8821,24 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -7.218699,
                         52.648151
+                  ]
+            },
+            {
+                  "name": "The Watershed Swimming Pool",
+                  "text": "A The Watershed Swimming Pool Kilkenny városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -7.235739,
+                        52.638686
+                  ]
+            },
+            {
+                  "name": "Hawkeye School of Falconry",
+                  "text": "A Hawkeye School of Falconry egy állatkert Kilkenny területén, ahol a családok állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        -7.195758,
+                        52.645609
                   ]
             }
       ],
@@ -7042,6 +9175,24 @@ export const irelandCities: POI[] = [
                         -7.218699,
                         52.648151
                   ]
+            },
+            {
+                  "name": "The Watershed Swimming Pool",
+                  "text": "The Watershed Swimming Pool din Kilkenny oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -7.235739,
+                        52.638686
+                  ]
+            },
+            {
+                  "name": "Hawkeye School of Falconry",
+                  "text": "Hawkeye School of Falconry din Kilkenny este o destinație pentru familii pentru a vedea animale.",
+                  "category": "family",
+                  "coords": [
+                        -7.195758,
+                        52.645609
+                  ]
             }
       ],
       "en": [
@@ -7376,6 +9527,24 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -7.218699,
                         52.648151
+                  ]
+            },
+            {
+                  "name": "The Watershed Swimming Pool",
+                  "text": "The Watershed Swimming Pool in Kilkenny offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -7.235739,
+                        52.638686
+                  ]
+            },
+            {
+                  "name": "Hawkeye School of Falconry",
+                  "text": "Hawkeye School of Falconry in Kilkenny is a destination for families to see animals.",
+                  "category": "family",
+                  "coords": [
+                        -7.195758,
+                        52.645609
                   ]
             }
       ]
@@ -7819,6 +9988,15 @@ export const irelandCities: POI[] = [
                         -9.709537,
                         52.2631
                   ]
+            },
+            {
+                  "name": "Tralee Regional Sports & Leisure Centre",
+                  "text": "Ein Sportzentrum in Tralee mit Becken für Training und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        -9.691774,
+                        52.27226
+                  ]
             }
       ],
       "hu": [
@@ -8018,6 +10196,15 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -9.709537,
                         52.2631
+                  ]
+            },
+            {
+                  "name": "Tralee Regional Sports & Leisure Centre",
+                  "text": "Sportközpont Tralee-ben medencékkel edzéshez és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.691774,
+                        52.27226
                   ]
             }
       ],
@@ -8219,6 +10406,15 @@ export const irelandCities: POI[] = [
                         -9.709537,
                         52.2631
                   ]
+            },
+            {
+                  "name": "Tralee Regional Sports & Leisure Centre",
+                  "text": "Un centru sportiv în Tralee cu piscine pentru antrenament și timp liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.691774,
+                        52.27226
+                  ]
             }
       ],
       "en": [
@@ -8418,6 +10614,15 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -9.709537,
                         52.2631
+                  ]
+            },
+            {
+                  "name": "Tralee Regional Sports & Leisure Centre",
+                  "text": "A sports centre in Tralee with pools for training and leisure.",
+                  "category": "family",
+                  "coords": [
+                        -9.691774,
+                        52.27226
                   ]
             }
       ]
@@ -9410,6 +11615,15 @@ export const irelandCities: POI[] = [
                         -8.955479,
                         52.883227
                   ]
+            },
+            {
+                  "name": "Ennis Leisure Complex",
+                  "text": "Ennis Leisure Complex in Ennis. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -8.98524,
+                        52.85152
+                  ]
             }
       ],
       "hu": [
@@ -9726,6 +11940,15 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -8.955479,
                         52.883227
+                  ]
+            },
+            {
+                  "name": "Ennis Leisure Complex",
+                  "text": "Ennis Leisure Complex Ennis területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        -8.98524,
+                        52.85152
                   ]
             }
       ],
@@ -10044,6 +12267,15 @@ export const irelandCities: POI[] = [
                         -8.955479,
                         52.883227
                   ]
+            },
+            {
+                  "name": "Ennis Leisure Complex",
+                  "text": "Ennis Leisure Complex din Ennis. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -8.98524,
+                        52.85152
+                  ]
             }
       ],
       "en": [
@@ -10360,6 +12592,15 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -8.955479,
                         52.883227
+                  ]
+            },
+            {
+                  "name": "Ennis Leisure Complex",
+                  "text": "Ennis Leisure Complex in Ennis. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -8.98524,
+                        52.85152
                   ]
             }
       ]
@@ -13853,6 +16094,15 @@ export const irelandCulture: POI[] = [
                         -7.288898,
                         53.030324
                   ]
+            },
+            {
+                  "name": "Leisure Centre",
+                  "text": "Leisure Centre in Portlaoise bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        -7.300418,
+                        53.014097
+                  ]
             }
       ],
       "hu": [
@@ -13899,6 +16149,15 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.288898,
                         53.030324
+                  ]
+            },
+            {
+                  "name": "Leisure Centre",
+                  "text": "A Leisure Centre Portlaoise városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -7.300418,
+                        53.014097
                   ]
             }
       ],
@@ -13947,6 +16206,15 @@ export const irelandCulture: POI[] = [
                         -7.288898,
                         53.030324
                   ]
+            },
+            {
+                  "name": "Leisure Centre",
+                  "text": "Leisure Centre din Portlaoise oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -7.300418,
+                        53.014097
+                  ]
             }
       ],
       "en": [
@@ -13993,6 +16261,15 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.288898,
                         53.030324
+                  ]
+            },
+            {
+                  "name": "Leisure Centre",
+                  "text": "Leisure Centre in Portlaoise offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        -7.300418,
+                        53.014097
                   ]
             }
       ]
@@ -14733,6 +17010,15 @@ export const irelandCulture: POI[] = [
                         -7.490507,
                         53.274588
                   ]
+            },
+            {
+                  "name": "Aura Leisure",
+                  "text": "Ein Hallenbad in Tullamore für die tägliche Fitness und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        -7.474729,
+                        53.269394
+                  ]
             }
       ],
       "hu": [
@@ -14797,6 +17083,15 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.490507,
                         53.274588
+                  ]
+            },
+            {
+                  "name": "Aura Leisure",
+                  "text": "Szabadidőközpont Tullamore-ban a mindennapi sportoláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.474729,
+                        53.269394
                   ]
             }
       ],
@@ -14863,6 +17158,15 @@ export const irelandCulture: POI[] = [
                         -7.490507,
                         53.274588
                   ]
+            },
+            {
+                  "name": "Aura Leisure",
+                  "text": "O piscină acoperită în Tullamore pentru fitness zilnic și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -7.474729,
+                        53.269394
+                  ]
             }
       ],
       "en": [
@@ -14927,6 +17231,15 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.490507,
                         53.274588
+                  ]
+            },
+            {
+                  "name": "Aura Leisure",
+                  "text": "An indoor pool in Tullamore for daily fitness and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -7.474729,
+                        53.269394
                   ]
             }
       ]
@@ -18959,6 +21272,24 @@ export const irelandCulture: POI[] = [
                         -7.738904,
                         54.951319
                   ]
+            },
+            {
+                  "name": "Tropical World",
+                  "text": "Tropical World in Letterkenny ist ein Ausflugsziel für Familien, um Tiere zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        -7.693712,
+                        54.966358
+                  ]
+            },
+            {
+                  "name": "The Wellhouse thermotherapy spa and wellness centre",
+                  "text": "The Wellhouse thermotherapy spa and wellness centre in Letterkenny bietet Entspannung und Wellness-Einrichtungen.",
+                  "category": "family",
+                  "coords": [
+                        -7.775474,
+                        54.93325
+                  ]
             }
       ],
       "hu": [
@@ -19041,6 +21372,24 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.738904,
                         54.951319
+                  ]
+            },
+            {
+                  "name": "Tropical World",
+                  "text": "A Tropical World egy állatkert Letterkenny területén, ahol a családok állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        -7.693712,
+                        54.966358
+                  ]
+            },
+            {
+                  "name": "The Wellhouse thermotherapy spa and wellness centre",
+                  "text": "A The Wellhouse thermotherapy spa and wellness centre Letterkenny városában pihenést és wellness szolgáltatásokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        -7.775474,
+                        54.93325
                   ]
             }
       ],
@@ -19125,6 +21474,24 @@ export const irelandCulture: POI[] = [
                         -7.738904,
                         54.951319
                   ]
+            },
+            {
+                  "name": "Tropical World",
+                  "text": "Tropical World din Letterkenny este o destinație pentru familii pentru a vedea animale.",
+                  "category": "family",
+                  "coords": [
+                        -7.693712,
+                        54.966358
+                  ]
+            },
+            {
+                  "name": "The Wellhouse thermotherapy spa and wellness centre",
+                  "text": "The Wellhouse thermotherapy spa and wellness centre din Letterkenny oferă facilități de relaxare și wellness.",
+                  "category": "family",
+                  "coords": [
+                        -7.775474,
+                        54.93325
+                  ]
             }
       ],
       "en": [
@@ -19207,6 +21574,24 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -7.738904,
                         54.951319
+                  ]
+            },
+            {
+                  "name": "Tropical World",
+                  "text": "Tropical World in Letterkenny is a destination for families to see animals.",
+                  "category": "family",
+                  "coords": [
+                        -7.693712,
+                        54.966358
+                  ]
+            },
+            {
+                  "name": "The Wellhouse thermotherapy spa and wellness centre",
+                  "text": "The Wellhouse thermotherapy spa and wellness centre in Letterkenny offers relaxation and wellness facilities.",
+                  "category": "family",
+                  "coords": [
+                        -7.775474,
+                        54.93325
                   ]
             }
       ]
@@ -21697,6 +24082,33 @@ export const irelandCulture: POI[] = [
                         -9.410809,
                         53.822909
                   ]
+            },
+            {
+                  "name": "Sunnyside",
+                  "text": "Sunnyside in Westport. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -9.566852,
+                        53.793015
+                  ]
+            },
+            {
+                  "name": "The Point",
+                  "text": "The Point in Westport. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        -9.560247,
+                        53.802371
+                  ]
+            },
+            {
+                  "name": "Pirates Haven",
+                  "text": "Pirates Haven in Westport. Ein tolles Ausflugsziel für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -9.538315,
+                        53.801513
+                  ]
             }
       ],
       "hu": [
@@ -21923,6 +24335,33 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -9.410809,
                         53.822909
+                  ]
+            },
+            {
+                  "name": "Sunnyside",
+                  "text": "Sunnyside Westport területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        -9.566852,
+                        53.793015
+                  ]
+            },
+            {
+                  "name": "The Point",
+                  "text": "The Point Westport területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        -9.560247,
+                        53.802371
+                  ]
+            },
+            {
+                  "name": "Pirates Haven",
+                  "text": "Pirates Haven Westport városában. Nagyszerű program az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -9.538315,
+                        53.801513
                   ]
             }
       ],
@@ -22151,6 +24590,33 @@ export const irelandCulture: POI[] = [
                         -9.410809,
                         53.822909
                   ]
+            },
+            {
+                  "name": "Sunnyside",
+                  "text": "Sunnyside din Westport. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -9.566852,
+                        53.793015
+                  ]
+            },
+            {
+                  "name": "The Point",
+                  "text": "The Point din Westport. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -9.560247,
+                        53.802371
+                  ]
+            },
+            {
+                  "name": "Pirates Haven",
+                  "text": "Pirates Haven din Westport. O destinație excelentă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -9.538315,
+                        53.801513
+                  ]
             }
       ],
       "en": [
@@ -22377,6 +24843,33 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -9.410809,
                         53.822909
+                  ]
+            },
+            {
+                  "name": "Sunnyside",
+                  "text": "Sunnyside in Westport. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -9.566852,
+                        53.793015
+                  ]
+            },
+            {
+                  "name": "The Point",
+                  "text": "The Point in Westport. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -9.560247,
+                        53.802371
+                  ]
+            },
+            {
+                  "name": "Pirates Haven",
+                  "text": "Pirates Haven in Westport. A great destination for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -9.538315,
+                        53.801513
                   ]
             }
       ]

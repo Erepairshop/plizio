@@ -971,6 +971,60 @@ export const switzerlandRegions: POI[] = [
                         8.541697,
                         47.405836
                   ]
+            },
+            {
+                  "name": "Planschbecken Schlössliareal",
+                  "text": "Ein Planschbecken in Zürich für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        8.5584,
+                        47.382051
+                  ]
+            },
+            {
+                  "name": "Planschbecken Artergut",
+                  "text": "Ein Planschbecken in Zürich, ideal für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        8.554485,
+                        47.365946
+                  ]
+            },
+            {
+                  "name": "Flussbad Oberer Letten",
+                  "text": "Ein öffentliches Flussbad in Zürich, das zum Schwimmen und Entspannen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        8.536456,
+                        47.384451
+                  ]
+            },
+            {
+                  "name": "Offener Stall",
+                  "text": "Ein kleiner Zoo in Zürich mit Tieren für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.520687,
+                        47.392797
+                  ]
+            },
+            {
+                  "name": "Männerbad Schanzengraben",
+                  "text": "Eine öffentliche Badeanlage in Zürich für eine Erfrischung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.532717,
+                        47.371277
+                  ]
+            },
+            {
+                  "name": "Urbansurf Zurich",
+                  "text": "Ein Schwimmbad in Zürich für Sport und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        8.519829,
+                        47.384933
+                  ]
             }
       ],
       "hu": [
@@ -1863,6 +1917,60 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.541697,
                         47.405836
+                  ]
+            },
+            {
+                  "name": "Planschbecken Schlössliareal",
+                  "text": "Pancsolómedence Zürichben kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        8.5584,
+                        47.382051
+                  ]
+            },
+            {
+                  "name": "Planschbecken Artergut",
+                  "text": "Pancsolómedence Zürichben, amely ideális egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.554485,
+                        47.365946
+                  ]
+            },
+            {
+                  "name": "Flussbad Oberer Letten",
+                  "text": "Nyilvános folyami fürdő Zürichben, amely úszásra és pihenésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        8.536456,
+                        47.384451
+                  ]
+            },
+            {
+                  "name": "Offener Stall",
+                  "text": "Egy kis állatkert Zürichben állatokkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        8.520687,
+                        47.392797
+                  ]
+            },
+            {
+                  "name": "Männerbad Schanzengraben",
+                  "text": "Nyilvános fürdőhely Zürichben a vízparti felfrissüléshez.",
+                  "category": "family",
+                  "coords": [
+                        8.532717,
+                        47.371277
+                  ]
+            },
+            {
+                  "name": "Urbansurf Zurich",
+                  "text": "Úszómedence Zürichben sportoláshoz és családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.519829,
+                        47.384933
                   ]
             }
       ],
@@ -2757,6 +2865,60 @@ export const switzerlandRegions: POI[] = [
                         8.541697,
                         47.405836
                   ]
+            },
+            {
+                  "name": "Planschbecken Schlössliareal",
+                  "text": "O piscină pentru copii în Zurich pentru familii cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        8.5584,
+                        47.382051
+                  ]
+            },
+            {
+                  "name": "Planschbecken Artergut",
+                  "text": "O piscină pentru copii în Zurich, ideală pentru o excursie în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.554485,
+                        47.365946
+                  ]
+            },
+            {
+                  "name": "Flussbad Oberer Letten",
+                  "text": "O baie publică pe râu în Zurich, care invită la înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        8.536456,
+                        47.384451
+                  ]
+            },
+            {
+                  "name": "Offener Stall",
+                  "text": "O mică grădină zoologică în Zurich cu animale pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        8.520687,
+                        47.392797
+                  ]
+            },
+            {
+                  "name": "Männerbad Schanzengraben",
+                  "text": "O unitate publică de baie în Zurich pentru o reîmprospătare în apă.",
+                  "category": "family",
+                  "coords": [
+                        8.532717,
+                        47.371277
+                  ]
+            },
+            {
+                  "name": "Urbansurf Zurich",
+                  "text": "O piscină în Zurich pentru sport și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.519829,
+                        47.384933
+                  ]
             }
       ],
       "en": [
@@ -3649,6 +3811,60 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.541697,
                         47.405836
+                  ]
+            },
+            {
+                  "name": "Planschbecken Schlössliareal",
+                  "text": "A paddling pool in Zurich for families with small children.",
+                  "category": "family",
+                  "coords": [
+                        8.5584,
+                        47.382051
+                  ]
+            },
+            {
+                  "name": "Planschbecken Artergut",
+                  "text": "A paddling pool in Zurich, ideal for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        8.554485,
+                        47.365946
+                  ]
+            },
+            {
+                  "name": "Flussbad Oberer Letten",
+                  "text": "A public river bath in Zurich inviting for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        8.536456,
+                        47.384451
+                  ]
+            },
+            {
+                  "name": "Offener Stall",
+                  "text": "A small zoo in Zurich with animals for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        8.520687,
+                        47.392797
+                  ]
+            },
+            {
+                  "name": "Männerbad Schanzengraben",
+                  "text": "A public bathing facility in Zurich for a refreshment in the water.",
+                  "category": "family",
+                  "coords": [
+                        8.532717,
+                        47.371277
+                  ]
+            },
+            {
+                  "name": "Urbansurf Zurich",
+                  "text": "A swimming pool in Zurich for sports and family fun.",
+                  "category": "family",
+                  "coords": [
+                        8.519829,
+                        47.384933
                   ]
             }
       ]

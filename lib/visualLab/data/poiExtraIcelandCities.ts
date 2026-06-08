@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraIcelandCities: POI[] = [
   {
-    id: "city-egilsstadir-extra", "sights": {"de": [{"name": "Safnahús", "text": "Ein Museum in Egilsstaðir, das das kulturelle Erbe Ostislands bewahrt.", "category": "museum", "coords": [-14.396304, 65.262621]}, {"name": "Menningarmiðstöð Fljótsdalshéraðs MMF", "text": "Das Kulturzentrum Menningarmiðstöð Fljótsdalshéraðs MMF bereichert die isländische Stadt Egilsstaðir mit zeitgenössischer Kunst. Gäste erwartet hier ein lebendiger Ort, der vielfältige kulturelle Ausdrucksformen ausstellt und fördert.", "category": "cultural", "coords": [-14.406297, 65.259176]}], "hu": [{"name": "Safnahús", "text": "Egilsstaðir múzeuma, amely Kelet-Izland kulturális örökségét őrzi.", "category": "museum", "coords": [-14.396304, 65.262621]}, {"name": "Menningarmiðstöð Fljótsdalshéraðs MMF", "text": "A Menningarmiðstöð Fljótsdalshéraðs MMF kulturális központ kortárs művészettel gazdagítja az izlandi Egilsstaðir városát. A vendégeket egy élettel teli hely várja, amely változatos kulturális kifejezésmódokat mutat be és támogat.", "category": "cultural", "coords": [-14.406297, 65.259176]}], "ro": [{"name": "Safnahús", "text": "Un muzeu din Egilsstaðir care conservă patrimoniul cultural al Islandei de Est.", "category": "museum", "coords": [-14.396304, 65.262621]}, {"name": "Menningarmiðstöð Fljótsdalshéraðs MMF", "text": "Centrul cultural Menningarmiðstöð Fljótsdalshéraðs MMF îmbogățește orașul islandez Egilsstaðir cu artă contemporană. Oaspeții sunt așteptați de un loc plin de viață care expune și promovează diverse forme de exprimare culturală.", "category": "cultural", "coords": [-14.406297, 65.259176]}], "en": [{"name": "The East Iceland Heritage Museum", "text": "A museum in Egilsstaðir preserving the cultural heritage of East Iceland.", "category": "museum", "coords": [-14.396304, 65.262621]}, {"name": "Center for Art and Culture in Fljótsdalshérað", "text": "The cultural center Menningarmiðstöð Fljótsdalshéraðs MMF enriches the Icelandic town of Egilsstaðir with contemporary art. Guests can expect a vibrant place that exhibits and promotes diverse forms of cultural expression.", "category": "cultural", "coords": [-14.406297, 65.259176]}]},
+    id: "city-egilsstadir-extra", "sights": {
+      "de": [
+            {
+                  "name": "Safnahús",
+                  "text": "Ein Museum in Egilsstaðir, das das kulturelle Erbe Ostislands bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -14.396304,
+                        65.262621
+                  ]
+            },
+            {
+                  "name": "Menningarmiðstöð Fljótsdalshéraðs MMF",
+                  "text": "Das Kulturzentrum Menningarmiðstöð Fljótsdalshéraðs MMF bereichert die isländische Stadt Egilsstaðir mit zeitgenössischer Kunst. Gäste erwartet hier ein lebendiger Ort, der vielfältige kulturelle Ausdrucksformen ausstellt und fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.406297,
+                        65.259176
+                  ]
+            },
+            {
+                  "name": "Reindeer Park",
+                  "text": "Reindeer Park in Egilssta Ir ist ein Ausflugsziel für Familien, um Tiere zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        -14.441577,
+                        65.288419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Safnahús",
+                  "text": "Egilsstaðir múzeuma, amely Kelet-Izland kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -14.396304,
+                        65.262621
+                  ]
+            },
+            {
+                  "name": "Menningarmiðstöð Fljótsdalshéraðs MMF",
+                  "text": "A Menningarmiðstöð Fljótsdalshéraðs MMF kulturális központ kortárs művészettel gazdagítja az izlandi Egilsstaðir városát. A vendégeket egy élettel teli hely várja, amely változatos kulturális kifejezésmódokat mutat be és támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.406297,
+                        65.259176
+                  ]
+            },
+            {
+                  "name": "Reindeer Park",
+                  "text": "A Reindeer Park egy állatkert Egilssta Ir területén, ahol a családok állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        -14.441577,
+                        65.288419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Safnahús",
+                  "text": "Un muzeu din Egilsstaðir care conservă patrimoniul cultural al Islandei de Est.",
+                  "category": "museum",
+                  "coords": [
+                        -14.396304,
+                        65.262621
+                  ]
+            },
+            {
+                  "name": "Menningarmiðstöð Fljótsdalshéraðs MMF",
+                  "text": "Centrul cultural Menningarmiðstöð Fljótsdalshéraðs MMF îmbogățește orașul islandez Egilsstaðir cu artă contemporană. Oaspeții sunt așteptați de un loc plin de viață care expune și promovează diverse forme de exprimare culturală.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.406297,
+                        65.259176
+                  ]
+            },
+            {
+                  "name": "Reindeer Park",
+                  "text": "Reindeer Park din Egilssta Ir este o destinație pentru familii pentru a vedea animale.",
+                  "category": "family",
+                  "coords": [
+                        -14.441577,
+                        65.288419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The East Iceland Heritage Museum",
+                  "text": "A museum in Egilsstaðir preserving the cultural heritage of East Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -14.396304,
+                        65.262621
+                  ]
+            },
+            {
+                  "name": "Center for Art and Culture in Fljótsdalshérað",
+                  "text": "The cultural center Menningarmiðstöð Fljótsdalshéraðs MMF enriches the Icelandic town of Egilsstaðir with contemporary art. Guests can expect a vibrant place that exhibits and promotes diverse forms of cultural expression.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.406297,
+                        65.259176
+                  ]
+            },
+            {
+                  "name": "Reindeer Park",
+                  "text": "Reindeer Park in Egilssta Ir is a destination for families to see animals.",
+                  "category": "family",
+                  "coords": [
+                        -14.441577,
+                        65.288419
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IS-001",
     coords: [-14.3948, 65.2669],

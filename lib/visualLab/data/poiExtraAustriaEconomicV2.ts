@@ -67,6 +67,51 @@ export const austriaEconomicV2: POI[] = [
                         13.499398,
                         48.200423
                   ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Feuerwehrmuseum in Ried im Innkreis mit historischen Löschgeräten.",
+                  "category": "museum",
+                  "coords": [
+                        13.496927,
+                        48.231324
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Peter und Paul",
+                  "text": "Historische Stadtpfarrkirche im Zentrum von Ried im Innkreis.",
+                  "category": "religious",
+                  "coords": [
+                        13.489089,
+                        48.209216
+                  ]
+            },
+            {
+                  "name": "Schweiklbauerkapelle",
+                  "text": "Kleine Kapelle in Ried im Innkreis, die als Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        13.470313,
+                        48.205683
+                  ]
+            },
+            {
+                  "name": "Riedbergkirche",
+                  "text": "Katholische Kirche in Ried im Innkreis, die für Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        13.471635,
+                        48.213329
+                  ]
+            },
+            {
+                  "name": "Evangelische u. Altkatholische Kirche",
+                  "text": "Gemeinsames Gotteshaus der evangelischen und altkatholischen Gemeinde in Ried im Innkreis.",
+                  "category": "religious",
+                  "coords": [
+                        13.488219,
+                        48.206965
+                  ]
             }
       ],
       "hu": [
@@ -86,6 +131,51 @@ export const austriaEconomicV2: POI[] = [
                   "coords": [
                         13.499398,
                         48.200423
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Tűzoltómúzeum Ried im Innkreisben történelmi oltóeszközökkel.",
+                  "category": "museum",
+                  "coords": [
+                        13.496927,
+                        48.231324
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Peter und Paul",
+                  "text": "Történelmi városi plébániatemplom Ried im Innkreis központjában.",
+                  "category": "religious",
+                  "coords": [
+                        13.489089,
+                        48.209216
+                  ]
+            },
+            {
+                  "name": "Schweiklbauerkapelle",
+                  "text": "Kisméretű kápolna Ried im Innkreisben vallási elmélyüléshez.",
+                  "category": "religious",
+                  "coords": [
+                        13.470313,
+                        48.205683
+                  ]
+            },
+            {
+                  "name": "Riedbergkirche",
+                  "text": "Katolikus templom Ried im Innkreisben, istentiszteletek helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        13.471635,
+                        48.213329
+                  ]
+            },
+            {
+                  "name": "Evangelische u. Altkatholische Kirche",
+                  "text": "Az evangélikus és ókatolikus közösség közös temploma Ried im Innkreisben.",
+                  "category": "religious",
+                  "coords": [
+                        13.488219,
+                        48.206965
                   ]
             }
       ],
@@ -107,6 +197,51 @@ export const austriaEconomicV2: POI[] = [
                         13.499398,
                         48.200423
                   ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Muzeul pompierilor din Ried im Innkreis, cu echipamente istorice de stingere.",
+                  "category": "museum",
+                  "coords": [
+                        13.496927,
+                        48.231324
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Peter und Paul",
+                  "text": "Biserică parohială istorică situată în centrul orașului Ried im Innkreis.",
+                  "category": "religious",
+                  "coords": [
+                        13.489089,
+                        48.209216
+                  ]
+            },
+            {
+                  "name": "Schweiklbauerkapelle",
+                  "text": "O mică capelă în Ried im Innkreis, utilizată ca loc de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        13.470313,
+                        48.205683
+                  ]
+            },
+            {
+                  "name": "Riedbergkirche",
+                  "text": "Biserică catolică din Ried im Innkreis utilizată pentru slujbe.",
+                  "category": "religious",
+                  "coords": [
+                        13.471635,
+                        48.213329
+                  ]
+            },
+            {
+                  "name": "Evangelische u. Altkatholische Kirche",
+                  "text": "Lăcaș de cult comun pentru comunitățile evanghelică și vechi-catolică din Ried im Innkreis.",
+                  "category": "religious",
+                  "coords": [
+                        13.488219,
+                        48.206965
+                  ]
             }
       ],
       "en": [
@@ -126,6 +261,51 @@ export const austriaEconomicV2: POI[] = [
                   "coords": [
                         13.499398,
                         48.200423
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Fire brigade museum in Ried im Innkreis with historic equipment.",
+                  "category": "museum",
+                  "coords": [
+                        13.496927,
+                        48.231324
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Peter und Paul",
+                  "text": "Historic city parish church in the center of Ried im Innkreis.",
+                  "category": "religious",
+                  "coords": [
+                        13.489089,
+                        48.209216
+                  ]
+            },
+            {
+                  "name": "Schweiklbauerkapelle",
+                  "text": "Small chapel in Ried im Innkreis serving as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        13.470313,
+                        48.205683
+                  ]
+            },
+            {
+                  "name": "Riedbergkirche",
+                  "text": "Catholic church in Ried im Innkreis used for religious services.",
+                  "category": "religious",
+                  "coords": [
+                        13.471635,
+                        48.213329
+                  ]
+            },
+            {
+                  "name": "Evangelische u. Altkatholische Kirche",
+                  "text": "Shared house of worship for the Protestant and Old Catholic communities in Ried im Innkreis.",
+                  "category": "religious",
+                  "coords": [
+                        13.488219,
+                        48.206965
                   ]
             }
       ]

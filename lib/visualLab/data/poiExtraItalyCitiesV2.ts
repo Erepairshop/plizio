@@ -166,6 +166,15 @@ export const italyCitiesV2: POI[] = [
                         10.208213,
                         45.528135
                   ]
+            },
+            {
+                  "name": "Piscina Lamarmora - Europa sporting Club",
+                  "text": "Piscina Lamarmora - Europa sporting Club in Brescia bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        10.206929,
+                        45.524575
+                  ]
             }
       ],
       "hu": [
@@ -329,6 +338,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.208213,
                         45.528135
+                  ]
+            },
+            {
+                  "name": "Piscina Lamarmora - Europa sporting Club",
+                  "text": "A Piscina Lamarmora - Europa sporting Club Brescia városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        10.206929,
+                        45.524575
                   ]
             }
       ],
@@ -494,6 +512,15 @@ export const italyCitiesV2: POI[] = [
                         10.208213,
                         45.528135
                   ]
+            },
+            {
+                  "name": "Piscina Lamarmora - Europa sporting Club",
+                  "text": "Piscina Lamarmora - Europa sporting Club din Brescia oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.206929,
+                        45.524575
+                  ]
             }
       ],
       "en": [
@@ -657,6 +684,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.208213,
                         45.528135
+                  ]
+            },
+            {
+                  "name": "Piscina Lamarmora - Europa sporting Club",
+                  "text": "Piscina Lamarmora - Europa sporting Club in Brescia offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.206929,
+                        45.524575
                   ]
             }
       ]
@@ -1048,6 +1084,15 @@ export const italyCitiesV2: POI[] = [
                         10.315754,
                         44.783529
                   ]
+            },
+            {
+                  "name": "Piscina Caduti di Brema",
+                  "text": "Piscina Caduti di Brema in Parma. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        10.320981,
+                        44.809962
+                  ]
             }
       ],
       "hu": [
@@ -1391,6 +1436,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.315754,
                         44.783529
+                  ]
+            },
+            {
+                  "name": "Piscina Caduti di Brema",
+                  "text": "Piscina Caduti di Brema Parma területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        10.320981,
+                        44.809962
                   ]
             }
       ],
@@ -1736,6 +1790,15 @@ export const italyCitiesV2: POI[] = [
                         10.315754,
                         44.783529
                   ]
+            },
+            {
+                  "name": "Piscina Caduti di Brema",
+                  "text": "Piscina Caduti di Brema din Parma. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        10.320981,
+                        44.809962
+                  ]
             }
       ],
       "en": [
@@ -2079,6 +2142,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.315754,
                         44.783529
+                  ]
+            },
+            {
+                  "name": "Piscina Caduti di Brema",
+                  "text": "Piscina Caduti di Brema in Parma. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        10.320981,
+                        44.809962
                   ]
             }
       ]
@@ -3154,6 +3226,69 @@ export const italyCitiesV2: POI[] = [
                         10.650866,
                         44.71528
                   ]
+            },
+            {
+                  "name": "Circolo Onde Chiare e Circolo Tennis Tricolore",
+                  "text": "Circolo Onde Chiare e Circolo Tennis Tricolore in Reggio Emilia ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        10.632778,
+                        44.667812
+                  ]
+            },
+            {
+                  "name": "Aquatico",
+                  "text": "Aquatico in Reggio Emilia ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        10.645782,
+                        44.71531
+                  ]
+            },
+            {
+                  "name": "Piscina comunale Ferretti-Ferrari (Melato)",
+                  "text": "Piscina comunale Ferretti-Ferrari (Melato) in Reggio Emilia ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        10.645498,
+                        44.68815
+                  ]
+            },
+            {
+                  "name": "Iman Beauty Hammam",
+                  "text": "Iman Beauty Hammam in Reggio Emilia bietet Entspannung und Wellness-Einrichtungen.",
+                  "category": "family",
+                  "coords": [
+                        10.603222,
+                        44.712129
+                  ]
+            },
+            {
+                  "name": "Camelot Club",
+                  "text": "Camelot Club in Reggio Emilia bietet Entspannung und Wellness-Einrichtungen.",
+                  "category": "family",
+                  "coords": [
+                        10.634536,
+                        44.691228
+                  ]
+            },
+            {
+                  "name": "Asineria Asini di Reggio Emilia",
+                  "text": "Asineria Asini di Reggio Emilia in Reggio Emilia ist ein Ausflugsziel für Familien, um Tiere zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        10.671469,
+                        44.682117
+                  ]
+            },
+            {
+                  "name": "Villa al Poggio",
+                  "text": "Villa al Poggio in Reggio Emilia bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        10.618957,
+                        44.675983
+                  ]
             }
       ],
       "hu": [
@@ -3443,6 +3578,69 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.650866,
                         44.71528
+                  ]
+            },
+            {
+                  "name": "Circolo Onde Chiare e Circolo Tennis Tricolore",
+                  "text": "A Circolo Onde Chiare e Circolo Tennis Tricolore egy strand Reggio Emilia városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        10.632778,
+                        44.667812
+                  ]
+            },
+            {
+                  "name": "Aquatico",
+                  "text": "A Aquatico egy strand Reggio Emilia városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        10.645782,
+                        44.71531
+                  ]
+            },
+            {
+                  "name": "Piscina comunale Ferretti-Ferrari (Melato)",
+                  "text": "A Piscina comunale Ferretti-Ferrari (Melato) egy strand Reggio Emilia városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        10.645498,
+                        44.68815
+                  ]
+            },
+            {
+                  "name": "Iman Beauty Hammam",
+                  "text": "A Iman Beauty Hammam Reggio Emilia városában pihenést és wellness szolgáltatásokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        10.603222,
+                        44.712129
+                  ]
+            },
+            {
+                  "name": "Camelot Club",
+                  "text": "A Camelot Club Reggio Emilia városában pihenést és wellness szolgáltatásokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        10.634536,
+                        44.691228
+                  ]
+            },
+            {
+                  "name": "Asineria Asini di Reggio Emilia",
+                  "text": "A Asineria Asini di Reggio Emilia egy állatkert Reggio Emilia területén, ahol a családok állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        10.671469,
+                        44.682117
+                  ]
+            },
+            {
+                  "name": "Villa al Poggio",
+                  "text": "A Villa al Poggio Reggio Emilia városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        10.618957,
+                        44.675983
                   ]
             }
       ],
@@ -3734,6 +3932,69 @@ export const italyCitiesV2: POI[] = [
                         10.650866,
                         44.71528
                   ]
+            },
+            {
+                  "name": "Circolo Onde Chiare e Circolo Tennis Tricolore",
+                  "text": "Circolo Onde Chiare e Circolo Tennis Tricolore din Reggio Emilia este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        10.632778,
+                        44.667812
+                  ]
+            },
+            {
+                  "name": "Aquatico",
+                  "text": "Aquatico din Reggio Emilia este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        10.645782,
+                        44.71531
+                  ]
+            },
+            {
+                  "name": "Piscina comunale Ferretti-Ferrari (Melato)",
+                  "text": "Piscina comunale Ferretti-Ferrari (Melato) din Reggio Emilia este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        10.645498,
+                        44.68815
+                  ]
+            },
+            {
+                  "name": "Iman Beauty Hammam",
+                  "text": "Iman Beauty Hammam din Reggio Emilia oferă facilități de relaxare și wellness.",
+                  "category": "family",
+                  "coords": [
+                        10.603222,
+                        44.712129
+                  ]
+            },
+            {
+                  "name": "Camelot Club",
+                  "text": "Camelot Club din Reggio Emilia oferă facilități de relaxare și wellness.",
+                  "category": "family",
+                  "coords": [
+                        10.634536,
+                        44.691228
+                  ]
+            },
+            {
+                  "name": "Asineria Asini di Reggio Emilia",
+                  "text": "Asineria Asini di Reggio Emilia din Reggio Emilia este o destinație pentru familii pentru a vedea animale.",
+                  "category": "family",
+                  "coords": [
+                        10.671469,
+                        44.682117
+                  ]
+            },
+            {
+                  "name": "Villa al Poggio",
+                  "text": "Villa al Poggio din Reggio Emilia oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.618957,
+                        44.675983
+                  ]
             }
       ],
       "en": [
@@ -4023,6 +4284,69 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.650866,
                         44.71528
+                  ]
+            },
+            {
+                  "name": "Circolo Onde Chiare e Circolo Tennis Tricolore",
+                  "text": "Circolo Onde Chiare e Circolo Tennis Tricolore in Reggio Emilia is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        10.632778,
+                        44.667812
+                  ]
+            },
+            {
+                  "name": "Aquatico",
+                  "text": "Aquatico in Reggio Emilia is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        10.645782,
+                        44.71531
+                  ]
+            },
+            {
+                  "name": "Piscina comunale Ferretti-Ferrari (Melato)",
+                  "text": "Piscina comunale Ferretti-Ferrari (Melato) in Reggio Emilia is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        10.645498,
+                        44.68815
+                  ]
+            },
+            {
+                  "name": "Iman Beauty Hammam",
+                  "text": "Iman Beauty Hammam in Reggio Emilia offers relaxation and wellness facilities.",
+                  "category": "family",
+                  "coords": [
+                        10.603222,
+                        44.712129
+                  ]
+            },
+            {
+                  "name": "Camelot Club",
+                  "text": "Camelot Club in Reggio Emilia offers relaxation and wellness facilities.",
+                  "category": "family",
+                  "coords": [
+                        10.634536,
+                        44.691228
+                  ]
+            },
+            {
+                  "name": "Asineria Asini di Reggio Emilia",
+                  "text": "Asineria Asini di Reggio Emilia in Reggio Emilia is a destination for families to see animals.",
+                  "category": "family",
+                  "coords": [
+                        10.671469,
+                        44.682117
+                  ]
+            },
+            {
+                  "name": "Villa al Poggio",
+                  "text": "Villa al Poggio in Reggio Emilia offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.618957,
+                        44.675983
                   ]
             }
       ]
@@ -8454,7 +8778,664 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-ferrara-cities-v2.webp",
   },
   {
-    id: "italy-salerno-cities-v2", "sights": {"de": [{"name": "Museo virtuale della scuola medica salernitana", "text": "Ein interaktives Museum, das die Geschichte und die medizinischen Traditionen der berühmten Schule von Salerno präsentiert.", "category": "museum", "coords": [14.760005, 40.679046]}, {"name": "Teatro Giuseppe Verdi", "text": "Ein elegantes Opernhaus in Salerno, das im 19. Jahrhundert nach dem Vorbild des San Carlo in Neapel erbaut wurde.", "category": "cultural", "coords": [14.752354, 40.678798]}, {"name": "Castello di Arechi", "text": "Eine mittelalterliche Burg auf einem Hügel über Salerno, die einen weiten Blick über den Golf bietet.", "category": "castle", "coords": [14.75492, 40.684425]}, {"name": "Museo Diocesano San Matteo", "text": "Das Diözesanmuseum in der Nähe der Kathedrale zeigt religiöse Kunstwerke und mittelalterliche Elfenbeinschnitzereien.", "category": "museum", "coords": [14.760396, 40.68054]}, {"name": "Forte La Carnale", "text": "Eine befestigte Küstenfestung aus dem 16. Jahrhundert, die einst zur Verteidigung gegen Piraten diente.", "category": "castle", "coords": [14.780144, 40.671233]}, {"name": "EBRIS - Istituto Europeo di Ricerche Biomediche di Salerno", "text": "Ein ehemaliges Kloster und eines der ältesten Gebäude Salernos, das heute ein biomedizinisches Forschungszentrum beherbergt.", "category": "religious", "coords": [14.753249, 40.681801]}, {"name": "Museo Archeologico Provinciale", "text": "Das Museum im Komplex San Benedetto zeigt archäologische Funde aus der Region von der Vorgeschichte bis zur Römerzeit.", "category": "museum", "coords": [14.762219, 40.679011]}, {"name": "Complesso Monumentale di Santa Sofia", "text": "Ein ehemaliges Kloster aus dem 10. Jahrhundert, das heute als bedeutendes Kulturzentrum und Ausstellungsraum dient.", "category": "museum", "coords": [14.757483, 40.680778]}, {"name": "Teatro Antonio Ghirelli", "text": "Ein modernes Theater im Parco dell'Irno, das in einem ehemaligen Salzspeicher untergebracht ist.", "category": "cultural", "coords": [14.776348, 40.688367]}, {"name": "Museo Roberto Papi", "text": "Das Museum im Palazzo Galdieri zeigt eine Sammlung historischer medizinischer und chirurgischer Instrumente.", "category": "museum", "coords": [14.756351, 40.681083]}, {"name": "Spiaggia della Crestarella", "text": "Die Spiaggia della Crestarella in Salerno ist ein malerischer Küstenabschnitt, der durch einen markanten Wachturm aus dem 16. Jahrhundert geprägt wird. Besucher erwartet hier eine reizvolle Kulisse zum Sonnenbaden und Schwimmen in historischem Ambiente. Es empfiehlt sich, die friedliche Atmosphäre an einem ruhigen Vormittag auf sich wirken zu lassen.", "category": "recreational", "coords": [14.731534, 40.669265]}, {"name": "Spiaggia Santa Teresa", "text": "Die Spiaggia Santa Teresa ist ein lebhafter Stadtstrand, der sich direkt im Herzen von Salerno an der Promenade befindet. Dieser zentral gelegene Ort eignet sich hervorragend für ein spontanes Bad im Meer oder einen entspannten Spaziergang am Wasser. Besonders am späten Nachmittag versammeln sich hier Einheimische, um den Tag gemütlich ausklingen zu lassen.", "category": "recreational", "coords": [14.75617, 40.677326]}, {"name": "Lido Scaramella beach", "text": "Im östlichen Teil von Salerno lockt der gut ausgestattete Lido Scaramella beach sowohl Einheimische als auch Urlauber an. Die hervorragende Infrastruktur macht diesen Strandabschnitt zu einem komfortablen Ort für unbeschwerte Badefreuden. Ein Besuch bietet sich vor allem an, wenn man einen rundum organisierten Strandtag verbringen möchte.", "category": "recreational", "coords": [14.789316, 40.665138]}, {"name": "Faro della Giustizia", "text": "Ein modernes Denkmal in Salerno, das sich in der Nähe des Justizpalastes befindet.", "category": "historical", "coords": [14.774267, 40.679625]}, {"name": "Parco del Seminario", "text": "Eine weitläufige öffentliche Parkanlage in Salerno, die Entspannung und Stadtansichten bietet.", "category": "park", "coords": [14.7655, 40.685707]}, {"name": "Palazzo Fruscione", "text": "Ein mittelalterlicher Palast, der auf römischen Fundamenten errichtet wurde und gotische Fenster besitzt.", "category": "historical", "coords": [14.757499, 40.679808]}, {"name": "Bastiglia", "text": "Ein zylindrischer Verteidigungsturm, der Teil der äußeren Befestigungsanlagen der Burg Arechi ist.", "category": "tower", "coords": [14.753195, 40.687058]}], "hu": [{"name": "Museo virtuale della scuola medica salernitana", "text": "Interaktív múzeum, amely a híres Salernói Orvosi Iskola történetét és orvosi hagyományait mutatja be.", "category": "museum", "coords": [14.760005, 40.679046]}, {"name": "Teatro Giuseppe Verdi", "text": "Elegáns operaház Salernóban, amely a 19. században épült a nápolyi San Carlo mintájára.", "category": "cultural", "coords": [14.752354, 40.678798]}, {"name": "Castello di Arechi", "text": "Salerno felett magasodó középkori vár, amely kilátást nyújt a Salernói-öbölre.", "category": "castle", "coords": [14.75492, 40.684425]}, {"name": "Museo Diocesano San Matteo", "text": "A székesegyház közelében található egyházmegyei múzeum, amely vallási műtárgyakat és középkori elefántcsont-faragványokat őriz.", "category": "museum", "coords": [14.760396, 40.68054]}, {"name": "Forte La Carnale", "text": "16. századi tengerparti erődítmény, amely egykor a kalózok elleni védekezést szolgálta.", "category": "castle", "coords": [14.780144, 40.671233]}, {"name": "EBRIS - Istituto Europeo di Ricerche Biomediche di Salerno", "text": "Egykori kolostor és Salerno egyik legrégebbi épülete, amely ma egy orvosbiológiai kutatóközpontnak ad otthont.", "category": "religious", "coords": [14.753249, 40.681801]}, {"name": "Museo Archeologico Provinciale", "text": "A San Benedetto-komplexumban található múzeum Salerno környékének régészeti leleteit mutatja be az őskortól a római korig.", "category": "museum", "coords": [14.762219, 40.679011]}, {"name": "Complesso Monumentale di Santa Sofia", "text": "10. századi egykori kolostor, amely ma jelentős kulturális központként és kiállítótérként működik.", "category": "museum", "coords": [14.757483, 40.680778]}, {"name": "Teatro Antonio Ghirelli", "text": "Az Irno-parkban található modern színház, amely egy egykori sószárító épületében kapott helyet.", "category": "cultural", "coords": [14.776348, 40.688367]}, {"name": "Museo Roberto Papi", "text": "A Palazzo Galdieri épületében található múzeum történelmi orvosi és sebészeti eszközök gyűjteményét mutatja be.", "category": "museum", "coords": [14.756351, 40.681083]}, {"name": "Spiaggia della Crestarella", "text": "A salernói Spiaggia della Crestarella egy festői partszakasz, amelyet egy jellegzetes, 16. századi őrtorony tesz különlegessé. A látogatók ezen a történelmi hangulatú helyen élvezhetik a napsütést és a frissítő fürdőzést. Különösen a délelőtti órákban érdemes felkeresni, amikor a tengerpart a legnyugodtabb arcát mutatja.", "category": "recreational", "coords": [14.731534, 40.669265]}, {"name": "Spiaggia Santa Teresa", "text": "A Spiaggia Santa Teresa egy nyüzsgő városi strand, amely közvetlenül Salerno központjában, a sétány mellett kapott helyet. Ez a központi fekvésű tengerpart ideális egy spontán csobbanáshoz vagy egy kellemes tengerparti sétához. A késő délutáni órákban különösen hangulatos, amikor a helyiek is itt gyűlnek össze kikapcsolódni.", "category": "recreational", "coords": [14.75617, 40.677326]}, {"name": "Lido Scaramella beach", "text": "Salerno keleti részén található a kiválóan felszerelt Lido Scaramella strand, amely a helyiek és a turisták körében egyaránt népszerű. A nagyszerű infrastruktúra garantálja a kényelmes és gondtalan fürdőzést az egész család számára. Érdemes ide tervezni egy egész napos kikapcsolódást, ahol minden kényelmi szolgáltatás adott.", "category": "recreational", "coords": [14.789316, 40.665138]}, {"name": "Faro della Giustizia", "text": "Modern emlékmű Salerno városában, az igazságügyi palota közvetlen közelében.", "category": "historical", "coords": [14.774267, 40.679625]}, {"name": "Parco del Seminario", "text": "Kiterjedt nyilvános park Salernóban, amely pihenőhelyeket és városi kilátást kínál.", "category": "park", "coords": [14.7655, 40.685707]}, {"name": "Palazzo Fruscione", "text": "Római alapokra épült középkori palota, amely gótikus ablakaival az óváros dísze.", "category": "historical", "coords": [14.757499, 40.679808]}, {"name": "Bastiglia", "text": "Henger alakú védőtorony, amely az Arechi-vár külső védelmi rendszerének része.", "category": "tower", "coords": [14.753195, 40.687058]}], "ro": [{"name": "Museo virtuale della scuola medica salernitana", "text": "Un muzeu interactiv care prezintă istoria și tradițiile medicale ale celebrei Școli din Salerno.", "category": "museum", "coords": [14.760005, 40.679046]}, {"name": "Teatro Giuseppe Verdi", "text": "O operă elegantă din Salerno, construită în secolul al XIX-lea după modelul teatrului San Carlo din Napoli.", "category": "cultural", "coords": [14.752354, 40.678798]}, {"name": "Castello di Arechi", "text": "Un castel medieval situat pe un deal deasupra orașului Salerno, oferind o panoramă asupra golfului.", "category": "castle", "coords": [14.75492, 40.684425]}, {"name": "Museo Diocesano San Matteo", "text": "Muzeul eparhial de lângă catedrală expune opere de artă religioasă și sculpturi medievale în fildeș.", "category": "museum", "coords": [14.760396, 40.68054]}, {"name": "Forte La Carnale", "text": "O fortăreață de coastă din secolul al XVI-lea, folosită inițial pentru apărarea împotriva piraților.", "category": "castle", "coords": [14.780144, 40.671233]}, {"name": "EBRIS - Istituto Europeo di Ricerche Biomediche di Salerno", "text": "O fostă mănăstire și una dintre cele mai vechi clădiri din Salerno, care găzduiește astăzi un centru de cercetare biomedicală.", "category": "religious", "coords": [14.753249, 40.681801]}, {"name": "Museo Archeologico Provinciale", "text": "Muzeul din complexul San Benedetto expune descoperiri arheologice locale, din preistorie până în epoca romană.", "category": "museum", "coords": [14.762219, 40.679011]}, {"name": "Complesso Monumentale di Santa Sofia", "text": "O fostă mănăstire din secolul al X-lea, care servește astăzi ca centru cultural și spațiu expozițional.", "category": "museum", "coords": [14.757483, 40.680778]}, {"name": "Teatro Antonio Ghirelli", "text": "Un teatru modern situat în Parcul Irno, amenajat într-o fostă magazie de sare.", "category": "cultural", "coords": [14.776348, 40.688367]}, {"name": "Museo Roberto Papi", "text": "Muzeul din Palazzo Galdieri expune o colecție de instrumente medicale și chirurgicale istorice.", "category": "museum", "coords": [14.756351, 40.681083]}, {"name": "Spiaggia della Crestarella", "text": "Spiaggia della Crestarella din Salerno este un segment de coastă pitoresc, recunoscut pentru turnul său de veghe impresionant din secolul al XVI-lea. Vizitatorii se pot bucura aici de o zi de plajă și înot într-un cadru plin de istorie. O vizită în prima parte a zilei este ideală pentru a savura liniștea acestui loc fermecător.", "category": "recreational", "coords": [14.731534, 40.669265]}, {"name": "Spiaggia Santa Teresa", "text": "Spiaggia Santa Teresa este o plajă urbană animată, situată chiar în centrul orașului Salerno, la o aruncătură de băț de faleză. Această locație centrală este perfectă pentru o baie spontană sau o plimbare relaxantă la malul mării. Spre sfârșitul după-amiezii, plaja devine locul preferat al localnicilor pentru a se bucura de briza mării.", "category": "recreational", "coords": [14.75617, 40.677326]}, {"name": "Lido Scaramella beach", "text": "În partea de est a orașului Salerno, bine dotata plajă Lido Scaramella atrage deopotrivă localnici și turiști. Infrastructura excelentă transformă această bucată de coastă într-un loc confortabil pentru o zi fără griji la mare. Este destinația ideală pentru cei care își doresc o experiență de plajă complet organizată și relaxantă.", "category": "recreational", "coords": [14.789316, 40.665138]}, {"name": "Faro della Giustizia", "text": "Un monument modern situat în Salerno, în apropierea palatului de justiție.", "category": "historical", "coords": [14.774267, 40.679625]}, {"name": "Parco del Seminario", "text": "Un parc public spațios din Salerno, oferind zone de recreere și vederi spre oraș.", "category": "park", "coords": [14.7655, 40.685707]}, {"name": "Palazzo Fruscione", "text": "Un palat medieval construit pe fundații romane, remarcabil prin ferestrele sale gotice.", "category": "historical", "coords": [14.757499, 40.679808]}, {"name": "Bastiglia", "text": "Un turn defensiv cilindric ce face parte din fortificațiile exterioare ale castelului Arechi.", "category": "tower", "coords": [14.753195, 40.687058]}], "en": [{"name": "Museo virtuale della scuola medica salernitana", "text": "An interactive museum presenting the history and medical traditions of the famous School of Salerno.", "category": "museum", "coords": [14.760005, 40.679046]}, {"name": "Teatro Giuseppe Verdi", "text": "An elegant opera house in Salerno, built in the 19th century based on the model of San Carlo in Naples.", "category": "cultural", "coords": [14.752354, 40.678798]}, {"name": "Castello di Arechi", "text": "A medieval castle overlooking Salerno, offering views of the Gulf of Salerno.", "category": "castle", "coords": [14.75492, 40.684425]}, {"name": "Museo Diocesano San Matteo", "text": "The diocesan museum near the cathedral exhibits religious artworks and medieval ivory carvings.", "category": "museum", "coords": [14.760396, 40.68054]}, {"name": "Forte La Carnale", "text": "A 16th-century coastal fortress built as a defensive lookout against pirate raids.", "category": "castle", "coords": [14.780144, 40.671233]}, {"name": "EBRIS - Istituto Europeo di Ricerche Biomediche di Salerno", "text": "A former monastery and one of Salerno's oldest buildings, now housing a biomedical research center.", "category": "religious", "coords": [14.753249, 40.681801]}, {"name": "Museo Archeologico Provinciale", "text": "Located in the San Benedetto complex, this museum displays archaeological finds from prehistory to the Roman era.", "category": "museum", "coords": [14.762219, 40.679011]}, {"name": "Complesso Monumentale di Santa Sofia", "text": "A former 10th-century monastery that now serves as a cultural center and exhibition space.", "category": "museum", "coords": [14.757483, 40.680778]}, {"name": "Teatro Antonio Ghirelli", "text": "A modern theatre located in the Parco dell'Irno, housed in a repurposed salt warehouse.", "category": "cultural", "coords": [14.776348, 40.688367]}, {"name": "Museo Roberto Papi", "text": "Located in Palazzo Galdieri, this museum displays a collection of historical medical and surgical instruments.", "category": "museum", "coords": [14.756351, 40.681083]}, {"name": "Spiaggia della Crestarella", "text": "Spiaggia della Crestarella in Salerno is a picturesque stretch of beach, famously distinguished by its striking 16th-century watchtower. Visitors can enjoy sunbathing and swimming set against a captivating historical backdrop. Visiting early in the day is a wonderful way to experience the tranquil charm of this coastline.", "category": "recreational", "coords": [14.731534, 40.669265]}, {"name": "Spiaggia Santa Teresa", "text": "Spiaggia Santa Teresa is a lively urban beach located right in the center of Salerno, just steps away from the promenade. This central spot is wonderfully suited for a spontaneous swim or a relaxing stroll along the waterfront. Late afternoon is a particularly vibrant time to visit, as locals gather to wind down by the sea.", "category": "recreational", "coords": [14.75617, 40.677326]}, {"name": "Lido Scaramella beach", "text": "Located in the eastern part of Salerno, the well-equipped Lido Scaramella beach is a favorite among both locals and visitors. Excellent facilities make this stretch of sand a highly comfortable choice for a carefree day of swimming. It is an ideal destination when looking for a fully organized and relaxing beach experience.", "category": "recreational", "coords": [14.789316, 40.665138]}, {"name": "Faro della Giustizia", "text": "A modern monument in Salerno located in the vicinity of the city courthouse.", "category": "historical", "coords": [14.774267, 40.679625]}, {"name": "Parco del Seminario", "text": "A large public park in Salerno offering recreational spaces and views of the city.", "category": "park", "coords": [14.7655, 40.685707]}, {"name": "Palazzo Fruscione", "text": "A medieval palace built on Roman foundations, notable for its Gothic windows.", "category": "historical", "coords": [14.757499, 40.679808]}, {"name": "Bastiglia", "text": "A cylindrical defensive tower that forms part of the outer fortifications of Arechi Castle.", "category": "tower", "coords": [14.753195, 40.687058]}]},
+    id: "italy-salerno-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo virtuale della scuola medica salernitana",
+                  "text": "Ein interaktives Museum, das die Geschichte und die medizinischen Traditionen der berühmten Schule von Salerno präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.760005,
+                        40.679046
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "Ein elegantes Opernhaus in Salerno, das im 19. Jahrhundert nach dem Vorbild des San Carlo in Neapel erbaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        14.752354,
+                        40.678798
+                  ]
+            },
+            {
+                  "name": "Castello di Arechi",
+                  "text": "Eine mittelalterliche Burg auf einem Hügel über Salerno, die einen weiten Blick über den Golf bietet.",
+                  "category": "castle",
+                  "coords": [
+                        14.75492,
+                        40.684425
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano San Matteo",
+                  "text": "Das Diözesanmuseum in der Nähe der Kathedrale zeigt religiöse Kunstwerke und mittelalterliche Elfenbeinschnitzereien.",
+                  "category": "museum",
+                  "coords": [
+                        14.760396,
+                        40.68054
+                  ]
+            },
+            {
+                  "name": "Forte La Carnale",
+                  "text": "Eine befestigte Küstenfestung aus dem 16. Jahrhundert, die einst zur Verteidigung gegen Piraten diente.",
+                  "category": "castle",
+                  "coords": [
+                        14.780144,
+                        40.671233
+                  ]
+            },
+            {
+                  "name": "EBRIS - Istituto Europeo di Ricerche Biomediche di Salerno",
+                  "text": "Ein ehemaliges Kloster und eines der ältesten Gebäude Salernos, das heute ein biomedizinisches Forschungszentrum beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        14.753249,
+                        40.681801
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Provinciale",
+                  "text": "Das Museum im Komplex San Benedetto zeigt archäologische Funde aus der Region von der Vorgeschichte bis zur Römerzeit.",
+                  "category": "museum",
+                  "coords": [
+                        14.762219,
+                        40.679011
+                  ]
+            },
+            {
+                  "name": "Complesso Monumentale di Santa Sofia",
+                  "text": "Ein ehemaliges Kloster aus dem 10. Jahrhundert, das heute als bedeutendes Kulturzentrum und Ausstellungsraum dient.",
+                  "category": "museum",
+                  "coords": [
+                        14.757483,
+                        40.680778
+                  ]
+            },
+            {
+                  "name": "Teatro Antonio Ghirelli",
+                  "text": "Ein modernes Theater im Parco dell'Irno, das in einem ehemaligen Salzspeicher untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        14.776348,
+                        40.688367
+                  ]
+            },
+            {
+                  "name": "Museo Roberto Papi",
+                  "text": "Das Museum im Palazzo Galdieri zeigt eine Sammlung historischer medizinischer und chirurgischer Instrumente.",
+                  "category": "museum",
+                  "coords": [
+                        14.756351,
+                        40.681083
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Crestarella",
+                  "text": "Die Spiaggia della Crestarella in Salerno ist ein malerischer Küstenabschnitt, der durch einen markanten Wachturm aus dem 16. Jahrhundert geprägt wird. Besucher erwartet hier eine reizvolle Kulisse zum Sonnenbaden und Schwimmen in historischem Ambiente. Es empfiehlt sich, die friedliche Atmosphäre an einem ruhigen Vormittag auf sich wirken zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.731534,
+                        40.669265
+                  ]
+            },
+            {
+                  "name": "Spiaggia Santa Teresa",
+                  "text": "Die Spiaggia Santa Teresa ist ein lebhafter Stadtstrand, der sich direkt im Herzen von Salerno an der Promenade befindet. Dieser zentral gelegene Ort eignet sich hervorragend für ein spontanes Bad im Meer oder einen entspannten Spaziergang am Wasser. Besonders am späten Nachmittag versammeln sich hier Einheimische, um den Tag gemütlich ausklingen zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75617,
+                        40.677326
+                  ]
+            },
+            {
+                  "name": "Lido Scaramella beach",
+                  "text": "Im östlichen Teil von Salerno lockt der gut ausgestattete Lido Scaramella beach sowohl Einheimische als auch Urlauber an. Die hervorragende Infrastruktur macht diesen Strandabschnitt zu einem komfortablen Ort für unbeschwerte Badefreuden. Ein Besuch bietet sich vor allem an, wenn man einen rundum organisierten Strandtag verbringen möchte.",
+                  "category": "recreational",
+                  "coords": [
+                        14.789316,
+                        40.665138
+                  ]
+            },
+            {
+                  "name": "Faro della Giustizia",
+                  "text": "Ein modernes Denkmal in Salerno, das sich in der Nähe des Justizpalastes befindet.",
+                  "category": "historical",
+                  "coords": [
+                        14.774267,
+                        40.679625
+                  ]
+            },
+            {
+                  "name": "Parco del Seminario",
+                  "text": "Eine weitläufige öffentliche Parkanlage in Salerno, die Entspannung und Stadtansichten bietet.",
+                  "category": "park",
+                  "coords": [
+                        14.7655,
+                        40.685707
+                  ]
+            },
+            {
+                  "name": "Palazzo Fruscione",
+                  "text": "Ein mittelalterlicher Palast, der auf römischen Fundamenten errichtet wurde und gotische Fenster besitzt.",
+                  "category": "historical",
+                  "coords": [
+                        14.757499,
+                        40.679808
+                  ]
+            },
+            {
+                  "name": "Bastiglia",
+                  "text": "Ein zylindrischer Verteidigungsturm, der Teil der äußeren Befestigungsanlagen der Burg Arechi ist.",
+                  "category": "tower",
+                  "coords": [
+                        14.753195,
+                        40.687058
+                  ]
+            },
+            {
+                  "name": "Lido La Conchiglia",
+                  "text": "Ein Strandbad in Salerno, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.776175,
+                        40.671667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo virtuale della scuola medica salernitana",
+                  "text": "Interaktív múzeum, amely a híres Salernói Orvosi Iskola történetét és orvosi hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.760005,
+                        40.679046
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "Elegáns operaház Salernóban, amely a 19. században épült a nápolyi San Carlo mintájára.",
+                  "category": "cultural",
+                  "coords": [
+                        14.752354,
+                        40.678798
+                  ]
+            },
+            {
+                  "name": "Castello di Arechi",
+                  "text": "Salerno felett magasodó középkori vár, amely kilátást nyújt a Salernói-öbölre.",
+                  "category": "castle",
+                  "coords": [
+                        14.75492,
+                        40.684425
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano San Matteo",
+                  "text": "A székesegyház közelében található egyházmegyei múzeum, amely vallási műtárgyakat és középkori elefántcsont-faragványokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        14.760396,
+                        40.68054
+                  ]
+            },
+            {
+                  "name": "Forte La Carnale",
+                  "text": "16. századi tengerparti erődítmény, amely egykor a kalózok elleni védekezést szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        14.780144,
+                        40.671233
+                  ]
+            },
+            {
+                  "name": "EBRIS - Istituto Europeo di Ricerche Biomediche di Salerno",
+                  "text": "Egykori kolostor és Salerno egyik legrégebbi épülete, amely ma egy orvosbiológiai kutatóközpontnak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        14.753249,
+                        40.681801
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Provinciale",
+                  "text": "A San Benedetto-komplexumban található múzeum Salerno környékének régészeti leleteit mutatja be az őskortól a római korig.",
+                  "category": "museum",
+                  "coords": [
+                        14.762219,
+                        40.679011
+                  ]
+            },
+            {
+                  "name": "Complesso Monumentale di Santa Sofia",
+                  "text": "10. századi egykori kolostor, amely ma jelentős kulturális központként és kiállítótérként működik.",
+                  "category": "museum",
+                  "coords": [
+                        14.757483,
+                        40.680778
+                  ]
+            },
+            {
+                  "name": "Teatro Antonio Ghirelli",
+                  "text": "Az Irno-parkban található modern színház, amely egy egykori sószárító épületében kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        14.776348,
+                        40.688367
+                  ]
+            },
+            {
+                  "name": "Museo Roberto Papi",
+                  "text": "A Palazzo Galdieri épületében található múzeum történelmi orvosi és sebészeti eszközök gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.756351,
+                        40.681083
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Crestarella",
+                  "text": "A salernói Spiaggia della Crestarella egy festői partszakasz, amelyet egy jellegzetes, 16. századi őrtorony tesz különlegessé. A látogatók ezen a történelmi hangulatú helyen élvezhetik a napsütést és a frissítő fürdőzést. Különösen a délelőtti órákban érdemes felkeresni, amikor a tengerpart a legnyugodtabb arcát mutatja.",
+                  "category": "recreational",
+                  "coords": [
+                        14.731534,
+                        40.669265
+                  ]
+            },
+            {
+                  "name": "Spiaggia Santa Teresa",
+                  "text": "A Spiaggia Santa Teresa egy nyüzsgő városi strand, amely közvetlenül Salerno központjában, a sétány mellett kapott helyet. Ez a központi fekvésű tengerpart ideális egy spontán csobbanáshoz vagy egy kellemes tengerparti sétához. A késő délutáni órákban különösen hangulatos, amikor a helyiek is itt gyűlnek össze kikapcsolódni.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75617,
+                        40.677326
+                  ]
+            },
+            {
+                  "name": "Lido Scaramella beach",
+                  "text": "Salerno keleti részén található a kiválóan felszerelt Lido Scaramella strand, amely a helyiek és a turisták körében egyaránt népszerű. A nagyszerű infrastruktúra garantálja a kényelmes és gondtalan fürdőzést az egész család számára. Érdemes ide tervezni egy egész napos kikapcsolódást, ahol minden kényelmi szolgáltatás adott.",
+                  "category": "recreational",
+                  "coords": [
+                        14.789316,
+                        40.665138
+                  ]
+            },
+            {
+                  "name": "Faro della Giustizia",
+                  "text": "Modern emlékmű Salerno városában, az igazságügyi palota közvetlen közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.774267,
+                        40.679625
+                  ]
+            },
+            {
+                  "name": "Parco del Seminario",
+                  "text": "Kiterjedt nyilvános park Salernóban, amely pihenőhelyeket és városi kilátást kínál.",
+                  "category": "park",
+                  "coords": [
+                        14.7655,
+                        40.685707
+                  ]
+            },
+            {
+                  "name": "Palazzo Fruscione",
+                  "text": "Római alapokra épült középkori palota, amely gótikus ablakaival az óváros dísze.",
+                  "category": "historical",
+                  "coords": [
+                        14.757499,
+                        40.679808
+                  ]
+            },
+            {
+                  "name": "Bastiglia",
+                  "text": "Henger alakú védőtorony, amely az Arechi-vár külső védelmi rendszerének része.",
+                  "category": "tower",
+                  "coords": [
+                        14.753195,
+                        40.687058
+                  ]
+            },
+            {
+                  "name": "Lido La Conchiglia",
+                  "text": "Tengerparti üdülőhely Salerno városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.776175,
+                        40.671667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo virtuale della scuola medica salernitana",
+                  "text": "Un muzeu interactiv care prezintă istoria și tradițiile medicale ale celebrei Școli din Salerno.",
+                  "category": "museum",
+                  "coords": [
+                        14.760005,
+                        40.679046
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "O operă elegantă din Salerno, construită în secolul al XIX-lea după modelul teatrului San Carlo din Napoli.",
+                  "category": "cultural",
+                  "coords": [
+                        14.752354,
+                        40.678798
+                  ]
+            },
+            {
+                  "name": "Castello di Arechi",
+                  "text": "Un castel medieval situat pe un deal deasupra orașului Salerno, oferind o panoramă asupra golfului.",
+                  "category": "castle",
+                  "coords": [
+                        14.75492,
+                        40.684425
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano San Matteo",
+                  "text": "Muzeul eparhial de lângă catedrală expune opere de artă religioasă și sculpturi medievale în fildeș.",
+                  "category": "museum",
+                  "coords": [
+                        14.760396,
+                        40.68054
+                  ]
+            },
+            {
+                  "name": "Forte La Carnale",
+                  "text": "O fortăreață de coastă din secolul al XVI-lea, folosită inițial pentru apărarea împotriva piraților.",
+                  "category": "castle",
+                  "coords": [
+                        14.780144,
+                        40.671233
+                  ]
+            },
+            {
+                  "name": "EBRIS - Istituto Europeo di Ricerche Biomediche di Salerno",
+                  "text": "O fostă mănăstire și una dintre cele mai vechi clădiri din Salerno, care găzduiește astăzi un centru de cercetare biomedicală.",
+                  "category": "religious",
+                  "coords": [
+                        14.753249,
+                        40.681801
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Provinciale",
+                  "text": "Muzeul din complexul San Benedetto expune descoperiri arheologice locale, din preistorie până în epoca romană.",
+                  "category": "museum",
+                  "coords": [
+                        14.762219,
+                        40.679011
+                  ]
+            },
+            {
+                  "name": "Complesso Monumentale di Santa Sofia",
+                  "text": "O fostă mănăstire din secolul al X-lea, care servește astăzi ca centru cultural și spațiu expozițional.",
+                  "category": "museum",
+                  "coords": [
+                        14.757483,
+                        40.680778
+                  ]
+            },
+            {
+                  "name": "Teatro Antonio Ghirelli",
+                  "text": "Un teatru modern situat în Parcul Irno, amenajat într-o fostă magazie de sare.",
+                  "category": "cultural",
+                  "coords": [
+                        14.776348,
+                        40.688367
+                  ]
+            },
+            {
+                  "name": "Museo Roberto Papi",
+                  "text": "Muzeul din Palazzo Galdieri expune o colecție de instrumente medicale și chirurgicale istorice.",
+                  "category": "museum",
+                  "coords": [
+                        14.756351,
+                        40.681083
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Crestarella",
+                  "text": "Spiaggia della Crestarella din Salerno este un segment de coastă pitoresc, recunoscut pentru turnul său de veghe impresionant din secolul al XVI-lea. Vizitatorii se pot bucura aici de o zi de plajă și înot într-un cadru plin de istorie. O vizită în prima parte a zilei este ideală pentru a savura liniștea acestui loc fermecător.",
+                  "category": "recreational",
+                  "coords": [
+                        14.731534,
+                        40.669265
+                  ]
+            },
+            {
+                  "name": "Spiaggia Santa Teresa",
+                  "text": "Spiaggia Santa Teresa este o plajă urbană animată, situată chiar în centrul orașului Salerno, la o aruncătură de băț de faleză. Această locație centrală este perfectă pentru o baie spontană sau o plimbare relaxantă la malul mării. Spre sfârșitul după-amiezii, plaja devine locul preferat al localnicilor pentru a se bucura de briza mării.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75617,
+                        40.677326
+                  ]
+            },
+            {
+                  "name": "Lido Scaramella beach",
+                  "text": "În partea de est a orașului Salerno, bine dotata plajă Lido Scaramella atrage deopotrivă localnici și turiști. Infrastructura excelentă transformă această bucată de coastă într-un loc confortabil pentru o zi fără griji la mare. Este destinația ideală pentru cei care își doresc o experiență de plajă complet organizată și relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.789316,
+                        40.665138
+                  ]
+            },
+            {
+                  "name": "Faro della Giustizia",
+                  "text": "Un monument modern situat în Salerno, în apropierea palatului de justiție.",
+                  "category": "historical",
+                  "coords": [
+                        14.774267,
+                        40.679625
+                  ]
+            },
+            {
+                  "name": "Parco del Seminario",
+                  "text": "Un parc public spațios din Salerno, oferind zone de recreere și vederi spre oraș.",
+                  "category": "park",
+                  "coords": [
+                        14.7655,
+                        40.685707
+                  ]
+            },
+            {
+                  "name": "Palazzo Fruscione",
+                  "text": "Un palat medieval construit pe fundații romane, remarcabil prin ferestrele sale gotice.",
+                  "category": "historical",
+                  "coords": [
+                        14.757499,
+                        40.679808
+                  ]
+            },
+            {
+                  "name": "Bastiglia",
+                  "text": "Un turn defensiv cilindric ce face parte din fortificațiile exterioare ale castelului Arechi.",
+                  "category": "tower",
+                  "coords": [
+                        14.753195,
+                        40.687058
+                  ]
+            },
+            {
+                  "name": "Lido La Conchiglia",
+                  "text": "O stațiune de plajă în Salerno care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.776175,
+                        40.671667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo virtuale della scuola medica salernitana",
+                  "text": "An interactive museum presenting the history and medical traditions of the famous School of Salerno.",
+                  "category": "museum",
+                  "coords": [
+                        14.760005,
+                        40.679046
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "An elegant opera house in Salerno, built in the 19th century based on the model of San Carlo in Naples.",
+                  "category": "cultural",
+                  "coords": [
+                        14.752354,
+                        40.678798
+                  ]
+            },
+            {
+                  "name": "Castello di Arechi",
+                  "text": "A medieval castle overlooking Salerno, offering views of the Gulf of Salerno.",
+                  "category": "castle",
+                  "coords": [
+                        14.75492,
+                        40.684425
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano San Matteo",
+                  "text": "The diocesan museum near the cathedral exhibits religious artworks and medieval ivory carvings.",
+                  "category": "museum",
+                  "coords": [
+                        14.760396,
+                        40.68054
+                  ]
+            },
+            {
+                  "name": "Forte La Carnale",
+                  "text": "A 16th-century coastal fortress built as a defensive lookout against pirate raids.",
+                  "category": "castle",
+                  "coords": [
+                        14.780144,
+                        40.671233
+                  ]
+            },
+            {
+                  "name": "EBRIS - Istituto Europeo di Ricerche Biomediche di Salerno",
+                  "text": "A former monastery and one of Salerno's oldest buildings, now housing a biomedical research center.",
+                  "category": "religious",
+                  "coords": [
+                        14.753249,
+                        40.681801
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Provinciale",
+                  "text": "Located in the San Benedetto complex, this museum displays archaeological finds from prehistory to the Roman era.",
+                  "category": "museum",
+                  "coords": [
+                        14.762219,
+                        40.679011
+                  ]
+            },
+            {
+                  "name": "Complesso Monumentale di Santa Sofia",
+                  "text": "A former 10th-century monastery that now serves as a cultural center and exhibition space.",
+                  "category": "museum",
+                  "coords": [
+                        14.757483,
+                        40.680778
+                  ]
+            },
+            {
+                  "name": "Teatro Antonio Ghirelli",
+                  "text": "A modern theatre located in the Parco dell'Irno, housed in a repurposed salt warehouse.",
+                  "category": "cultural",
+                  "coords": [
+                        14.776348,
+                        40.688367
+                  ]
+            },
+            {
+                  "name": "Museo Roberto Papi",
+                  "text": "Located in Palazzo Galdieri, this museum displays a collection of historical medical and surgical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        14.756351,
+                        40.681083
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Crestarella",
+                  "text": "Spiaggia della Crestarella in Salerno is a picturesque stretch of beach, famously distinguished by its striking 16th-century watchtower. Visitors can enjoy sunbathing and swimming set against a captivating historical backdrop. Visiting early in the day is a wonderful way to experience the tranquil charm of this coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        14.731534,
+                        40.669265
+                  ]
+            },
+            {
+                  "name": "Spiaggia Santa Teresa",
+                  "text": "Spiaggia Santa Teresa is a lively urban beach located right in the center of Salerno, just steps away from the promenade. This central spot is wonderfully suited for a spontaneous swim or a relaxing stroll along the waterfront. Late afternoon is a particularly vibrant time to visit, as locals gather to wind down by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        14.75617,
+                        40.677326
+                  ]
+            },
+            {
+                  "name": "Lido Scaramella beach",
+                  "text": "Located in the eastern part of Salerno, the well-equipped Lido Scaramella beach is a favorite among both locals and visitors. Excellent facilities make this stretch of sand a highly comfortable choice for a carefree day of swimming. It is an ideal destination when looking for a fully organized and relaxing beach experience.",
+                  "category": "recreational",
+                  "coords": [
+                        14.789316,
+                        40.665138
+                  ]
+            },
+            {
+                  "name": "Faro della Giustizia",
+                  "text": "A modern monument in Salerno located in the vicinity of the city courthouse.",
+                  "category": "historical",
+                  "coords": [
+                        14.774267,
+                        40.679625
+                  ]
+            },
+            {
+                  "name": "Parco del Seminario",
+                  "text": "A large public park in Salerno offering recreational spaces and views of the city.",
+                  "category": "park",
+                  "coords": [
+                        14.7655,
+                        40.685707
+                  ]
+            },
+            {
+                  "name": "Palazzo Fruscione",
+                  "text": "A medieval palace built on Roman foundations, notable for its Gothic windows.",
+                  "category": "historical",
+                  "coords": [
+                        14.757499,
+                        40.679808
+                  ]
+            },
+            {
+                  "name": "Bastiglia",
+                  "text": "A cylindrical defensive tower that forms part of the outer fortifications of Arechi Castle.",
+                  "category": "tower",
+                  "coords": [
+                        14.753195,
+                        40.687058
+                  ]
+            },
+            {
+                  "name": "Lido La Conchiglia",
+                  "text": "A beach resort in Salerno providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.776175,
+                        40.671667
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Salerno", hu: "Salerno", ro: "Salerno", en: "Salerno" },
@@ -8644,6 +9625,24 @@ export const italyCitiesV2: POI[] = [
                         8.612422,
                         45.439851
                   ]
+            },
+            {
+                  "name": "Piscina Alcarotti",
+                  "text": "Piscina Alcarotti in Novara bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        8.61167,
+                        45.448609
+                  ]
+            },
+            {
+                  "name": "Quisquash",
+                  "text": "Quisquash in Novara bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        8.63582,
+                        45.431589
+                  ]
             }
       ],
       "hu": [
@@ -8789,6 +9788,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.612422,
                         45.439851
+                  ]
+            },
+            {
+                  "name": "Piscina Alcarotti",
+                  "text": "A Piscina Alcarotti Novara városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        8.61167,
+                        45.448609
+                  ]
+            },
+            {
+                  "name": "Quisquash",
+                  "text": "A Quisquash Novara városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        8.63582,
+                        45.431589
                   ]
             }
       ],
@@ -8936,6 +9953,24 @@ export const italyCitiesV2: POI[] = [
                         8.612422,
                         45.439851
                   ]
+            },
+            {
+                  "name": "Piscina Alcarotti",
+                  "text": "Piscina Alcarotti din Novara oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        8.61167,
+                        45.448609
+                  ]
+            },
+            {
+                  "name": "Quisquash",
+                  "text": "Quisquash din Novara oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        8.63582,
+                        45.431589
+                  ]
             }
       ],
       "en": [
@@ -9081,6 +10116,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.612422,
                         45.439851
+                  ]
+            },
+            {
+                  "name": "Piscina Alcarotti",
+                  "text": "Piscina Alcarotti in Novara offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        8.61167,
+                        45.448609
+                  ]
+            },
+            {
+                  "name": "Quisquash",
+                  "text": "Quisquash in Novara offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        8.63582,
+                        45.431589
                   ]
             }
       ]
@@ -9274,6 +10327,24 @@ export const italyCitiesV2: POI[] = [
                         9.674172,
                         45.038154
                   ]
+            },
+            {
+                  "name": "Farnesiana",
+                  "text": "Farnesiana in Piacenza. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        9.716719,
+                        45.035123
+                  ]
+            },
+            {
+                  "name": "Nino Bixio",
+                  "text": "Nino Bixio in Piacenza. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        9.706301,
+                        45.05821
+                  ]
             }
       ],
       "hu": [
@@ -9419,6 +10490,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.674172,
                         45.038154
+                  ]
+            },
+            {
+                  "name": "Farnesiana",
+                  "text": "Farnesiana Piacenza területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        9.716719,
+                        45.035123
+                  ]
+            },
+            {
+                  "name": "Nino Bixio",
+                  "text": "Nino Bixio Piacenza területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        9.706301,
+                        45.05821
                   ]
             }
       ],
@@ -9566,6 +10655,24 @@ export const italyCitiesV2: POI[] = [
                         9.674172,
                         45.038154
                   ]
+            },
+            {
+                  "name": "Farnesiana",
+                  "text": "Farnesiana din Piacenza. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        9.716719,
+                        45.035123
+                  ]
+            },
+            {
+                  "name": "Nino Bixio",
+                  "text": "Nino Bixio din Piacenza. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        9.706301,
+                        45.05821
+                  ]
             }
       ],
       "en": [
@@ -9711,6 +10818,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.674172,
                         45.038154
+                  ]
+            },
+            {
+                  "name": "Farnesiana",
+                  "text": "Farnesiana in Piacenza. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        9.716719,
+                        45.035123
+                  ]
+            },
+            {
+                  "name": "Nino Bixio",
+                  "text": "Nino Bixio in Piacenza. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        9.706301,
+                        45.05821
                   ]
             }
       ]
@@ -10525,6 +11650,15 @@ export const italyCitiesV2: POI[] = [
                         12.227669,
                         44.132401
                   ]
+            },
+            {
+                  "name": "Piscina Cesena",
+                  "text": "Piscina Cesena in Cesena bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        12.22744,
+                        44.143988
+                  ]
             }
       ],
       "hu": [
@@ -10643,6 +11777,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.227669,
                         44.132401
+                  ]
+            },
+            {
+                  "name": "Piscina Cesena",
+                  "text": "A Piscina Cesena Cesena városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        12.22744,
+                        44.143988
                   ]
             }
       ],
@@ -10763,6 +11906,15 @@ export const italyCitiesV2: POI[] = [
                         12.227669,
                         44.132401
                   ]
+            },
+            {
+                  "name": "Piscina Cesena",
+                  "text": "Piscina Cesena din Cesena oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        12.22744,
+                        44.143988
+                  ]
             }
       ],
       "en": [
@@ -10881,6 +12033,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.227669,
                         44.132401
+                  ]
+            },
+            {
+                  "name": "Piscina Cesena",
+                  "text": "Piscina Cesena in Cesena offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        12.22744,
+                        44.143988
                   ]
             }
       ]
@@ -13665,7 +14826,1240 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-la-spezia-cities-v2.webp",
   },
   {
-    id: "italy-pistoia-cities-v2", "sights": {"de": [{"name": "Museo dello Spedale del Ceppo", "text": "Ein Museum in einem historischen Krankenhaus, das für seinen glasierten Terrakottafries bekannt ist.", "category": "museum", "coords": [10.917808, 43.93508]}, {"name": "Ponte delle Seiarcole", "text": "Eine antike Brücke und archäologische Stätte, die den Bach Bure bei Pistoia überquert.", "category": "historical", "coords": [10.941589, 43.940992]}, {"name": "Museo Diocesano", "text": "Dieses im Bischofspalast untergebrachte Museum zeigt religiöse Kunst und liturgische Gegenstände.", "category": "museum", "coords": [10.918474, 43.933669]}, {"name": "Casa-Studio Fernando Melani", "text": "Das ehemalige Wohnhaus und Atelier des Künstlers Fernando Melani, das als Museum für zeitgenössische Kunst erhalten blieb.", "category": "museum", "coords": [10.912224, 43.934295]}, {"name": "Piccolo Teatro Mauro Bolognini", "text": "Ein intimes Theater, benannt nach dem berühmten italienischen Filmregisseur, der in Pistoia geboren wurde.", "category": "cultural", "coords": [10.916775, 43.934434]}, {"name": "Teatro Manzoni", "text": "Das 1864 eingeweihte historische Haupttheater von Pistoia ist für sein elegantes Interieur bekannt.", "category": "cultural", "coords": [10.911567, 43.933316]}, {"name": "Ex Oratorio di San Desiderio", "text": "Ein ehemaliges Oratorium, das bedeutende Fresken aus dem 16. Jahrhundert beherbergt, darunter Werke von Sebastiano Vini.", "category": "museum", "coords": [10.921521, 43.930978]}, {"name": "Teatrino Gatteschi", "text": "Ein Miniaturtheater aus dem 18. Jahrhundert im Palazzo Gatteschi in Pistoia.", "category": "cultural", "coords": [10.919042, 43.932101]}, {"name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno", "text": "Das Museum beherbergt sakrale Kunst und historische Artefakte aus dem Bischofspalast und der Kathedrale San Zeno.", "category": "museum", "coords": [10.917542, 43.933044]}, {"name": "Pistoia Sotterranea", "text": "Ein archäologischer Rundgang durch unterirdische Tunnel, der die antike Geschichte Pistoias zeigt.", "category": "historical", "coords": [10.920295, 43.935607]}, {"name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni", "text": "Ein Museum für zeitgenössische Kunst im historischen Palazzo Fabroni mit modernen visuellen Werken.", "category": "museum", "coords": [10.914646, 43.935755]}, {"name": "Casa Museo Sigfrido Bartolini", "text": "Ein Hausmuseum in Pistoia, das dem Leben und Werk des Künstlers Sigfrido Bartolini gewidmet ist.", "category": "museum", "coords": [10.925354, 43.940127]}, {"name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo", "text": "Das Museo Storico Documentale dell'Agricoltura e del Vivaismo in Pistoia widmet sich der landwirtschaftlichen Vergangenheit der Region. Besucher des Museums können sich hier ausführlich über die lokale Geschichte des Ackerbaus und der Baumschulkultur informieren. Die Ausstellung bietet interessante Einblicke in die ländlichen Traditionen der italienischen Stadt.", "category": "museum", "coords": [10.948979, 43.922124]}, {"name": "Museo della Musica e delle Percussioni", "text": "Dieses Museum in Pistoia zeigt eine Sammlung von Musikinstrumenten mit Schwerpunkt auf Schlagzeug.", "category": "museum", "coords": [10.912884, 43.930906]}, {"name": "Museo Rotabili Storici di Pistoia", "text": "Ein Museum in Pistoia, das der Erhaltung historischer Eisenbahnwaggons und Lokomotiven gewidmet ist.", "category": "museum", "coords": [10.910723, 43.92673]}, {"name": "Deposito Rotabili Storici di Pistoia", "text": "Ein historisches Eisenbahndepot in Pistoia, in dem Oldtimer-Lokomotiven und Waggons untergebracht sind.", "category": "museum", "coords": [10.907965, 43.92678]}, {"name": "Palazzo de' Rossi", "text": "Ein Adelspalast aus dem 18. Jahrhundert in Pistoia, der heute für kulturelle Veranstaltungen genutzt wird.", "category": "museum", "coords": [10.915694, 43.934958]}, {"name": "Monumento votivo militare brasiliano", "text": "Gedenkstätte in Pistoia für die im Zweiten Weltkrieg in Italien gefallenen brasilianischen Soldaten.", "category": "historical", "coords": [10.943327, 43.945019]}, {"name": "Villone Puccini", "text": "Ein Herrenhaus aus dem 18. Jahrhundert, das von einem großen öffentlichen Park umgeben ist.", "category": "historical", "coords": [10.907547, 43.950611]}, {"name": "Villa La Farnia", "text": "Ein historisches Herrenhaus in der ländlichen Umgebung von Pistoia.", "category": "historical", "coords": [10.884826, 43.943586]}, {"name": "Villa Colonna", "text": "Eine herrschaftliche Villa in den Hügeln von Pistoia, die als historischer Wohnsitz dient.", "category": "historical", "coords": [10.883744, 43.920868]}, {"name": "San Domenico", "text": "Kirche und Kloster aus dem 13. Jahrhundert, die bedeutende Kunstwerke und Renaissance-Fresken beherbergen.", "category": "religious", "coords": [10.916616, 43.930536]}, {"name": "Basilica della Madonna dell'Umiltà", "text": "Diese Basilika ist für ihre monumentale Renaissance-Kuppel bekannt, eine der größten in Italien.", "category": "religious", "coords": [10.914108, 43.932898]}, {"name": "Bacino ex Cava Frosini", "text": "Ein malerischer See bei Pistoia, umgeben von Natur.", "category": "natural", "coords": [11.007921, 43.907624]}, {"name": "Lago Gabbiano", "text": "Der Lago Gabbiano in Pistoia ist ein malerischer See, der sich ideal für einen entspannten Spaziergang in der Natur eignet.", "category": "natural", "coords": [10.876536, 43.900015]}, {"name": "Laghi Primavera", "text": "Die Laghi Primavera in Pistoia sind ruhige Gewässer, die eine schöne Kulisse für Erholung im Freien bieten.", "category": "natural", "coords": [10.887949, 43.938406]}, {"name": "Bacino ex Cava Briganti", "text": "Das Bacino ex Cava Briganti in Pistoia ist ein See, der Besucher zu einem ruhigen Aufenthalt am Wasser einlädt.", "category": "natural", "coords": [11.001975, 43.911451]}, {"name": "Il Bastione Mediceo", "text": "Il Bastione Mediceo in Pistoia ist ein lokaler Spielplatz, der Kindern einen sicheren Ort zum Spielen im Freien bietet.", "category": "family", "coords": [10.907584, 43.93006]}, {"name": "Parco della Madonnina", "text": "Der Parco della Madonnina in Pistoia verfügt über einen Spielbereich, der ideal für Familien mit kleinen Kindern ist.", "category": "family", "coords": [10.932899, 43.909913]}], "hu": [{"name": "Museo dello Spedale del Ceppo", "text": "Egy történelmi kórházban kialakított múzeum, amely mázas terrakotta frízéről híres.", "category": "museum", "coords": [10.917808, 43.93508]}, {"name": "Ponte delle Seiarcole", "text": "Antik híd és régészeti lelőhely, amely a Bure-patakon ível át Pistoia közelében.", "category": "historical", "coords": [10.941589, 43.940992]}, {"name": "Museo Diocesano", "text": "A püspöki palotában található múzeum egyházi művészeti alkotásokat és liturgikus tárgyakat mutat be.", "category": "museum", "coords": [10.918474, 43.933669]}, {"name": "Casa-Studio Fernando Melani", "text": "Fernando Melani művész egykori otthona és műhelye, amely ma kortárs művészeti múzeumként működik.", "category": "museum", "coords": [10.912224, 43.934295]}, {"name": "Piccolo Teatro Mauro Bolognini", "text": "Meghitt hangulatú színház, amelyet a Pistoiában született híres olasz filmrendezőről neveztek el.", "category": "cultural", "coords": [10.916775, 43.934434]}, {"name": "Teatro Manzoni", "text": "Pistoia legfontosabb történelmi színháza, amelyet 1864-ben avattak fel, és elegáns belső teréről ismert.", "category": "cultural", "coords": [10.911567, 43.933316]}, {"name": "Ex Oratorio di San Desiderio", "text": "Egykori oratórium, amely jelentős 16. századi freskóknak ad otthont, köztük Sebastiano Vini alkotásainak.", "category": "museum", "coords": [10.921521, 43.930978]}, {"name": "Teatrino Gatteschi", "text": "Egy 18. századi miniatűr színház a pistoiai Palazzo Gatteschi épületében.", "category": "cultural", "coords": [10.919042, 43.932101]}, {"name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno", "text": "A múzeum a Püspöki Palota és a San Zeno-székesegyház szakrális művészeti és történelmi emlékeit mutatja be.", "category": "museum", "coords": [10.917542, 43.933044]}, {"name": "Pistoia Sotterranea", "text": "Régészeti útvonal a földalatti alagutakban, amely Pistoia ókori történelmét mutatja be.", "category": "historical", "coords": [10.920295, 43.935607]}, {"name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni", "text": "Kortárs művészeti múzeum a történelmi Palazzo Fabroni épületében, modern vizuális alkotásokkal.", "category": "museum", "coords": [10.914646, 43.935755]}, {"name": "Casa Museo Sigfrido Bartolini", "text": "Sigfrido Bartolini művész életének és munkásságának szentelt házmúzeum Pistoiában.", "category": "museum", "coords": [10.925354, 43.940127]}, {"name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo", "text": "A pistoiai Museo Storico Documentale dell'Agricoltura e del Vivaismo a régió mezőgazdasági múltjának állít emléket. A múzeum látogatói részletes képet kaphatnak a helyi földművelés és a faiskolai kultúra történetéről. A kiállítás érdekes bepillantást enged az olasz város vidéki hagyományaiba.", "category": "museum", "coords": [10.948979, 43.922124]}, {"name": "Museo della Musica e delle Percussioni", "text": "Ez a pistoiai múzeum hangszerek gyűjteményét mutatja be, különös tekintettel az ütőhangszerekre.", "category": "museum", "coords": [10.912884, 43.930906]}, {"name": "Museo Rotabili Storici di Pistoia", "text": "Történelmi vasúti járművek megőrzésének szentelt múzeum Pistoiában.", "category": "museum", "coords": [10.910723, 43.92673]}, {"name": "Deposito Rotabili Storici di Pistoia", "text": "Történelmi vasúti depó Pistoiában, ahol veterán mozdonyokat és kocsikat tárolnak és tartanak karban.", "category": "museum", "coords": [10.907965, 43.92678]}, {"name": "Palazzo de' Rossi", "text": "18. századi nemesi palota Pistoia központjában, amely ma kulturális eseményeknek ad otthont.", "category": "museum", "coords": [10.915694, 43.934958]}, {"name": "Monumento votivo militare brasiliano", "text": "Pistoiai emlékhely a második világháború olaszországi harcaiban elesett brazil katonák tiszteletére.", "category": "historical", "coords": [10.943327, 43.945019]}, {"name": "Villone Puccini", "text": "18. századi kúria Pistoiában, amelyet egy kiterjedt nyilvános park vesz körül.", "category": "historical", "coords": [10.907547, 43.950611]}, {"name": "Villa La Farnia", "text": "Történelmi udvarház Pistoia vidéki környezetében.", "category": "historical", "coords": [10.884826, 43.943586]}, {"name": "Villa Colonna", "text": "Nemesi villa Pistoia dombjai között, amely történelmi lakóépületként ismert.", "category": "historical", "coords": [10.883744, 43.920868]}, {"name": "San Domenico", "text": "13. századi templom és kolostor, amely jelentős műalkotásoknak és reneszánsz freskóknak ad otthont.", "category": "religious", "coords": [10.916616, 43.930536]}, {"name": "Basilica della Madonna dell'Umiltà", "text": "A bazilika monumentális reneszánsz kupolájáról nevezetes, amely az egyik legnagyobb Olaszországban.", "category": "religious", "coords": [10.914108, 43.932898]}, {"name": "Bacino ex Cava Frosini", "text": "Festői tó Pistoia közelében, természetes környezetben.", "category": "natural", "coords": [11.007921, 43.907624]}, {"name": "Lago Gabbiano", "text": "A pistoiai Lago Gabbiano egy festői tó, amely ideális egy pihentető természeti sétához.", "category": "natural", "coords": [10.876536, 43.900015]}, {"name": "Laghi Primavera", "text": "A pistoiai Laghi Primavera nyugodt vizei szép környezetet biztosítanak a szabadtéri kikapcsolódáshoz.", "category": "natural", "coords": [10.887949, 43.938406]}, {"name": "Bacino ex Cava Briganti", "text": "A pistoiai Bacino ex Cava Briganti egy tó, amely nyugodt vízparti időtöltésre hívja a látogatókat.", "category": "natural", "coords": [11.001975, 43.911451]}, {"name": "Il Bastione Mediceo", "text": "A pistoiai Il Bastione Mediceo egy helyi játszótér, amely biztonságos helyet kínál a gyerekeknek a szabadtéri játékhoz.", "category": "family", "coords": [10.907584, 43.93006]}, {"name": "Parco della Madonnina", "text": "A pistoiai Parco della Madonnina játszóterével ideális helyszín kisgyermekes családok számára.", "category": "family", "coords": [10.932899, 43.909913]}], "ro": [{"name": "Museo dello Spedale del Ceppo", "text": "Un muzeu într-un spital istoric, renumit pentru friza sa din teracotă smălțuită.", "category": "museum", "coords": [10.917808, 43.93508]}, {"name": "Ponte delle Seiarcole", "text": "Un pod antic și sit arheologic care traversează pârâul Bure lângă Pistoia.", "category": "historical", "coords": [10.941589, 43.940992]}, {"name": "Museo Diocesano", "text": "Situat în Palatul Episcopal, acest muzeu expune artă religioasă și obiecte liturgice.", "category": "museum", "coords": [10.918474, 43.933669]}, {"name": "Casa-Studio Fernando Melani", "text": "Fosta casă și atelier al artistului Fernando Melani, păstrată ca muzeu de artă contemporană.", "category": "museum", "coords": [10.912224, 43.934295]}, {"name": "Piccolo Teatro Mauro Bolognini", "text": "Un teatru intim numit după celebrul regizor de film italian născut în Pistoia.", "category": "cultural", "coords": [10.916775, 43.934434]}, {"name": "Teatro Manzoni", "text": "Principalul teatru istoric din Pistoia, inaugurat în 1864 și cunoscut pentru interiorul său elegant.", "category": "cultural", "coords": [10.911567, 43.933316]}, {"name": "Ex Oratorio di San Desiderio", "text": "Un fost oratoriu care adăpostește fresce semnificative din secolul al XVI-lea, inclusiv lucrări de Sebastiano Vini.", "category": "museum", "coords": [10.921521, 43.930978]}, {"name": "Teatrino Gatteschi", "text": "Un teatru în miniatură din secolul al XVIII-lea situat în Palazzo Gatteschi din Pistoia.", "category": "cultural", "coords": [10.919042, 43.932101]}, {"name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno", "text": "Acest muzeu adăpostește artă sacră și artefacte istorice din Palatul Episcopilor și Catedrala San Zeno.", "category": "museum", "coords": [10.917542, 43.933044]}, {"name": "Pistoia Sotterranea", "text": "Un traseu arheologic prin tuneluri subterane care dezvăluie istoria antică a orașului Pistoia.", "category": "historical", "coords": [10.920295, 43.935607]}, {"name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni", "text": "Un muzeu de artă contemporană situat în istoricul Palazzo Fabroni, prezentând lucrări vizuale moderne.", "category": "museum", "coords": [10.914646, 43.935755]}, {"name": "Casa Museo Sigfrido Bartolini", "text": "O casă memorială dedicată vieții și operei artistului Sigfrido Bartolini din Pistoia.", "category": "museum", "coords": [10.925354, 43.940127]}, {"name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo", "text": "Museo Storico Documentale dell'Agricoltura e del Vivaismo din Pistoia este dedicat trecutului agricol al regiunii. Vizitatorii acestui muzeu se pot informa în detaliu despre istoria agriculturii și a culturii pepinierelor locale. Expoziția oferă o perspectivă interesantă asupra tradițiilor rurale ale acestui oraș italian.", "category": "museum", "coords": [10.948979, 43.922124]}, {"name": "Museo della Musica e delle Percussioni", "text": "Acest muzeu din Pistoia prezintă o colecție de instrumente muzicale, cu accent pe percuție.", "category": "museum", "coords": [10.912884, 43.930906]}, {"name": "Museo Rotabili Storici di Pistoia", "text": "Un muzeu dedicat conservării materialului rulant feroviar istoric din Pistoia.", "category": "museum", "coords": [10.910723, 43.92673]}, {"name": "Deposito Rotabili Storici di Pistoia", "text": "Un depou feroviar istoric din Pistoia care adăpostește și întreține locomotive și vagoane de epocă.", "category": "museum", "coords": [10.907965, 43.92678]}, {"name": "Palazzo de' Rossi", "text": "Un palat nobiliar din secolul al XVIII-lea în Pistoia, utilizat astăzi pentru evenimente culturale.", "category": "museum", "coords": [10.915694, 43.934958]}, {"name": "Monumento votivo militare brasiliano", "text": "Monument în Pistoia dedicat soldaților brazilieni care au căzut în luptele din Italia în timpul celui de-al Doilea Război Mondial.", "category": "historical", "coords": [10.943327, 43.945019]}, {"name": "Villone Puccini", "text": "Un conac din secolul al XVIII-lea situat în Pistoia, înconjurat de un parc public vast.", "category": "historical", "coords": [10.907547, 43.950611]}, {"name": "Villa La Farnia", "text": "Un conac istoric situat în zona rurală din jurul orașului Pistoia.", "category": "historical", "coords": [10.884826, 43.943586]}, {"name": "Villa Colonna", "text": "O vilă nobiliară situată pe dealurile din Pistoia, cunoscută ca reședință istorică.", "category": "historical", "coords": [10.883744, 43.920868]}, {"name": "San Domenico", "text": "Biserică și mănăstire din secolul al XIII-lea, care adăpostește opere de artă și fresce renascentiste.", "category": "religious", "coords": [10.916616, 43.930536]}, {"name": "Basilica della Madonna dell'Umiltà", "text": "Această basilică este celebră pentru cupola sa renascentistă monumentală, una dintre cele mai mari din Italia.", "category": "religious", "coords": [10.914108, 43.932898]}, {"name": "Bacino ex Cava Frosini", "text": "Un lac pitoresc lângă Pistoia, înconjurat de natură.", "category": "natural", "coords": [11.007921, 43.907624]}, {"name": "Lago Gabbiano", "text": "Lago Gabbiano din Pistoia este un lac pitoresc, ideal pentru o plimbare relaxantă în natură.", "category": "natural", "coords": [10.876536, 43.900015]}, {"name": "Laghi Primavera", "text": "Laghi Primavera din Pistoia sunt ape liniștite care oferă un cadru frumos pentru recreere în aer liber.", "category": "natural", "coords": [10.887949, 43.938406]}, {"name": "Bacino ex Cava Briganti", "text": "Bacino ex Cava Briganti din Pistoia este un lac care invită vizitatorii la momente de liniște pe malul apei.", "category": "natural", "coords": [11.001975, 43.911451]}, {"name": "Il Bastione Mediceo", "text": "Il Bastione Mediceo din Pistoia este un teren de joacă local care oferă copiilor un loc sigur pentru joacă în aer liber.", "category": "family", "coords": [10.907584, 43.93006]}, {"name": "Parco della Madonnina", "text": "Parco della Madonnina din Pistoia are o zonă de joacă ideală pentru familiile cu copii mici.", "category": "family", "coords": [10.932899, 43.909913]}], "en": [{"name": "Museo dello Spedale del Ceppo", "text": "A museum in a historic hospital famous for its glazed terracotta frieze.", "category": "museum", "coords": [10.917808, 43.93508]}, {"name": "Ponte delle Seiarcole", "text": "An ancient bridge and archaeological site crossing the Bure stream near Pistoia.", "category": "historical", "coords": [10.941589, 43.940992]}, {"name": "Museo Diocesano", "text": "Located in the Bishop's Palace, this museum displays religious art and liturgical objects.", "category": "museum", "coords": [10.918474, 43.933669]}, {"name": "Casa-Studio Fernando Melani", "text": "The former home and workshop of artist Fernando Melani, preserved as a contemporary art museum.", "category": "museum", "coords": [10.912224, 43.934295]}, {"name": "Piccolo Teatro Mauro Bolognini", "text": "An intimate theatre named after the famous Italian film director born in Pistoia.", "category": "cultural", "coords": [10.916775, 43.934434]}, {"name": "Teatro Manzoni", "text": "The main historical theatre of Pistoia, inaugurated in 1864 and known for its elegant interior.", "category": "cultural", "coords": [10.911567, 43.933316]}, {"name": "Ex Oratorio di San Desiderio", "text": "A former oratory that houses significant 16th-century frescoes, including works by Sebastiano Vini.", "category": "museum", "coords": [10.921521, 43.930978]}, {"name": "Teatrino Gatteschi", "text": "A miniature 18th-century theatre located within Palazzo Gatteschi in Pistoia.", "category": "cultural", "coords": [10.919042, 43.932101]}, {"name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno", "text": "This museum houses sacred art and historical artifacts from the Bishop's Palace and San Zeno Cathedral.", "category": "museum", "coords": [10.917542, 43.933044]}, {"name": "Pistoia Sotterranea", "text": "An archaeological path through underground tunnels revealing Pistoia's ancient history.", "category": "historical", "coords": [10.920295, 43.935607]}, {"name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni", "text": "A contemporary art museum located in the historic Palazzo Fabroni, featuring modern visual works.", "category": "museum", "coords": [10.914646, 43.935755]}, {"name": "Casa Museo Sigfrido Bartolini", "text": "A house museum dedicated to the life and works of the artist Sigfrido Bartolini in Pistoia.", "category": "museum", "coords": [10.925354, 43.940127]}, {"name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo", "text": "The Museo Storico Documentale dell'Agricoltura e del Vivaismo in Pistoia is dedicated to the region's agricultural past. Visitors to the museum can learn in detail about the local history of farming and tree nursery culture. The exhibition offers an interesting insight into the rural traditions of the Italian city.", "category": "museum", "coords": [10.948979, 43.922124]}, {"name": "Museo della Musica e delle Percussioni", "text": "This Pistoia museum showcases a collection of musical instruments with a focus on percussion.", "category": "museum", "coords": [10.912884, 43.930906]}, {"name": "Museo Rotabili Storici di Pistoia", "text": "A museum dedicated to the preservation of historic railway rolling stock in Pistoia.", "category": "museum", "coords": [10.910723, 43.92673]}, {"name": "Deposito Rotabili Storici di Pistoia", "text": "A historic railway depot in Pistoia that houses and maintains vintage locomotives and carriages.", "category": "museum", "coords": [10.907965, 43.92678]}, {"name": "Palazzo de' Rossi", "text": "An 18th-century noble palace in Pistoia, currently used for cultural events and exhibitions.", "category": "museum", "coords": [10.915694, 43.934958]}, {"name": "Monumento votivo militare brasiliano", "text": "A memorial in Pistoia dedicated to the Brazilian soldiers who died in Italy during World War II.", "category": "historical", "coords": [10.943327, 43.945019]}, {"name": "Villone Puccini", "text": "An 18th-century manor house in Pistoia surrounded by a large public park.", "category": "historical", "coords": [10.907547, 43.950611]}, {"name": "Villa La Farnia", "text": "A historic manor house located in the rural surroundings of Pistoia.", "category": "historical", "coords": [10.884826, 43.943586]}, {"name": "Villa Colonna", "text": "A noble villa in the hills of Pistoia, recognized as a historic residence.", "category": "historical", "coords": [10.883744, 43.920868]}, {"name": "San Domenico", "text": "A 13th-century church and convent housing significant artworks and Renaissance frescoes.", "category": "religious", "coords": [10.916616, 43.930536]}, {"name": "Basilica della Madonna dell'Umiltà", "text": "This basilica is famous for its monumental Renaissance dome, one of the largest in Italy.", "category": "religious", "coords": [10.914108, 43.932898]}, {"name": "Bacino ex Cava Frosini", "text": "A scenic lake near Pistoia, surrounded by nature.", "category": "natural", "coords": [11.007921, 43.907624]}, {"name": "Lago Gabbiano", "text": "Lago Gabbiano in Pistoia is a scenic lake ideal for a relaxing walk in nature.", "category": "natural", "coords": [10.876536, 43.900015]}, {"name": "Laghi Primavera", "text": "The Laghi Primavera in Pistoia are calm waters providing a beautiful setting for outdoor recreation.", "category": "natural", "coords": [10.887949, 43.938406]}, {"name": "Bacino ex Cava Briganti", "text": "The Bacino ex Cava Briganti in Pistoia is a lake inviting visitors to a quiet time by the water.", "category": "natural", "coords": [11.001975, 43.911451]}, {"name": "Il Bastione Mediceo", "text": "Il Bastione Mediceo in Pistoia is a local playground offering children a safe place for outdoor play.", "category": "family", "coords": [10.907584, 43.93006]}, {"name": "Parco della Madonnina", "text": "Parco della Madonnina in Pistoia features a play area ideal for families with young children.", "category": "family", "coords": [10.932899, 43.909913]}]},
+    id: "italy-pistoia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo dello Spedale del Ceppo",
+                  "text": "Ein Museum in einem historischen Krankenhaus, das für seinen glasierten Terrakottafries bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.917808,
+                        43.93508
+                  ]
+            },
+            {
+                  "name": "Ponte delle Seiarcole",
+                  "text": "Eine antike Brücke und archäologische Stätte, die den Bach Bure bei Pistoia überquert.",
+                  "category": "historical",
+                  "coords": [
+                        10.941589,
+                        43.940992
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Dieses im Bischofspalast untergebrachte Museum zeigt religiöse Kunst und liturgische Gegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        10.918474,
+                        43.933669
+                  ]
+            },
+            {
+                  "name": "Casa-Studio Fernando Melani",
+                  "text": "Das ehemalige Wohnhaus und Atelier des Künstlers Fernando Melani, das als Museum für zeitgenössische Kunst erhalten blieb.",
+                  "category": "museum",
+                  "coords": [
+                        10.912224,
+                        43.934295
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro Mauro Bolognini",
+                  "text": "Ein intimes Theater, benannt nach dem berühmten italienischen Filmregisseur, der in Pistoia geboren wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        10.916775,
+                        43.934434
+                  ]
+            },
+            {
+                  "name": "Teatro Manzoni",
+                  "text": "Das 1864 eingeweihte historische Haupttheater von Pistoia ist für sein elegantes Interieur bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.911567,
+                        43.933316
+                  ]
+            },
+            {
+                  "name": "Ex Oratorio di San Desiderio",
+                  "text": "Ein ehemaliges Oratorium, das bedeutende Fresken aus dem 16. Jahrhundert beherbergt, darunter Werke von Sebastiano Vini.",
+                  "category": "museum",
+                  "coords": [
+                        10.921521,
+                        43.930978
+                  ]
+            },
+            {
+                  "name": "Teatrino Gatteschi",
+                  "text": "Ein Miniaturtheater aus dem 18. Jahrhundert im Palazzo Gatteschi in Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.919042,
+                        43.932101
+                  ]
+            },
+            {
+                  "name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno",
+                  "text": "Das Museum beherbergt sakrale Kunst und historische Artefakte aus dem Bischofspalast und der Kathedrale San Zeno.",
+                  "category": "museum",
+                  "coords": [
+                        10.917542,
+                        43.933044
+                  ]
+            },
+            {
+                  "name": "Pistoia Sotterranea",
+                  "text": "Ein archäologischer Rundgang durch unterirdische Tunnel, der die antike Geschichte Pistoias zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        10.920295,
+                        43.935607
+                  ]
+            },
+            {
+                  "name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni",
+                  "text": "Ein Museum für zeitgenössische Kunst im historischen Palazzo Fabroni mit modernen visuellen Werken.",
+                  "category": "museum",
+                  "coords": [
+                        10.914646,
+                        43.935755
+                  ]
+            },
+            {
+                  "name": "Casa Museo Sigfrido Bartolini",
+                  "text": "Ein Hausmuseum in Pistoia, das dem Leben und Werk des Künstlers Sigfrido Bartolini gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.925354,
+                        43.940127
+                  ]
+            },
+            {
+                  "name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo",
+                  "text": "Das Museo Storico Documentale dell'Agricoltura e del Vivaismo in Pistoia widmet sich der landwirtschaftlichen Vergangenheit der Region. Besucher des Museums können sich hier ausführlich über die lokale Geschichte des Ackerbaus und der Baumschulkultur informieren. Die Ausstellung bietet interessante Einblicke in die ländlichen Traditionen der italienischen Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        10.948979,
+                        43.922124
+                  ]
+            },
+            {
+                  "name": "Museo della Musica e delle Percussioni",
+                  "text": "Dieses Museum in Pistoia zeigt eine Sammlung von Musikinstrumenten mit Schwerpunkt auf Schlagzeug.",
+                  "category": "museum",
+                  "coords": [
+                        10.912884,
+                        43.930906
+                  ]
+            },
+            {
+                  "name": "Museo Rotabili Storici di Pistoia",
+                  "text": "Ein Museum in Pistoia, das der Erhaltung historischer Eisenbahnwaggons und Lokomotiven gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.910723,
+                        43.92673
+                  ]
+            },
+            {
+                  "name": "Deposito Rotabili Storici di Pistoia",
+                  "text": "Ein historisches Eisenbahndepot in Pistoia, in dem Oldtimer-Lokomotiven und Waggons untergebracht sind.",
+                  "category": "museum",
+                  "coords": [
+                        10.907965,
+                        43.92678
+                  ]
+            },
+            {
+                  "name": "Palazzo de' Rossi",
+                  "text": "Ein Adelspalast aus dem 18. Jahrhundert in Pistoia, der heute für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        10.915694,
+                        43.934958
+                  ]
+            },
+            {
+                  "name": "Monumento votivo militare brasiliano",
+                  "text": "Gedenkstätte in Pistoia für die im Zweiten Weltkrieg in Italien gefallenen brasilianischen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        10.943327,
+                        43.945019
+                  ]
+            },
+            {
+                  "name": "Villone Puccini",
+                  "text": "Ein Herrenhaus aus dem 18. Jahrhundert, das von einem großen öffentlichen Park umgeben ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.907547,
+                        43.950611
+                  ]
+            },
+            {
+                  "name": "Villa La Farnia",
+                  "text": "Ein historisches Herrenhaus in der ländlichen Umgebung von Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.884826,
+                        43.943586
+                  ]
+            },
+            {
+                  "name": "Villa Colonna",
+                  "text": "Eine herrschaftliche Villa in den Hügeln von Pistoia, die als historischer Wohnsitz dient.",
+                  "category": "historical",
+                  "coords": [
+                        10.883744,
+                        43.920868
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "Kirche und Kloster aus dem 13. Jahrhundert, die bedeutende Kunstwerke und Renaissance-Fresken beherbergen.",
+                  "category": "religious",
+                  "coords": [
+                        10.916616,
+                        43.930536
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dell'Umiltà",
+                  "text": "Diese Basilika ist für ihre monumentale Renaissance-Kuppel bekannt, eine der größten in Italien.",
+                  "category": "religious",
+                  "coords": [
+                        10.914108,
+                        43.932898
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Frosini",
+                  "text": "Ein malerischer See bei Pistoia, umgeben von Natur.",
+                  "category": "natural",
+                  "coords": [
+                        11.007921,
+                        43.907624
+                  ]
+            },
+            {
+                  "name": "Lago Gabbiano",
+                  "text": "Der Lago Gabbiano in Pistoia ist ein malerischer See, der sich ideal für einen entspannten Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        10.876536,
+                        43.900015
+                  ]
+            },
+            {
+                  "name": "Laghi Primavera",
+                  "text": "Die Laghi Primavera in Pistoia sind ruhige Gewässer, die eine schöne Kulisse für Erholung im Freien bieten.",
+                  "category": "natural",
+                  "coords": [
+                        10.887949,
+                        43.938406
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Briganti",
+                  "text": "Das Bacino ex Cava Briganti in Pistoia ist ein See, der Besucher zu einem ruhigen Aufenthalt am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        11.001975,
+                        43.911451
+                  ]
+            },
+            {
+                  "name": "Il Bastione Mediceo",
+                  "text": "Il Bastione Mediceo in Pistoia ist ein lokaler Spielplatz, der Kindern einen sicheren Ort zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.907584,
+                        43.93006
+                  ]
+            },
+            {
+                  "name": "Parco della Madonnina",
+                  "text": "Der Parco della Madonnina in Pistoia verfügt über einen Spielbereich, der ideal für Familien mit kleinen Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        10.932899,
+                        43.909913
+                  ]
+            },
+            {
+                  "name": "H2 Sport",
+                  "text": "H2 Sport in Pistoia bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        10.886803,
+                        43.921313
+                  ]
+            },
+            {
+                  "name": "Il Boschetto",
+                  "text": "Il Boschetto in Pistoia bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        10.900815,
+                        43.953629
+                  ]
+            },
+            {
+                  "name": "Silvano Fedi",
+                  "text": "Silvano Fedi in Pistoia bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        10.902472,
+                        43.935445
+                  ]
+            },
+            {
+                  "name": "Acquarama",
+                  "text": "Acquarama in Pistoia bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        10.924131,
+                        43.92618
+                  ]
+            },
+            {
+                  "name": "Giardino Zoologico di Pistoia",
+                  "text": "Giardino Zoologico di Pistoia in Pistoia ist ein Ausflugsziel für Familien, um Tiere zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        10.865782,
+                        43.930142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo dello Spedale del Ceppo",
+                  "text": "Egy történelmi kórházban kialakított múzeum, amely mázas terrakotta frízéről híres.",
+                  "category": "museum",
+                  "coords": [
+                        10.917808,
+                        43.93508
+                  ]
+            },
+            {
+                  "name": "Ponte delle Seiarcole",
+                  "text": "Antik híd és régészeti lelőhely, amely a Bure-patakon ível át Pistoia közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.941589,
+                        43.940992
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "A püspöki palotában található múzeum egyházi művészeti alkotásokat és liturgikus tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.918474,
+                        43.933669
+                  ]
+            },
+            {
+                  "name": "Casa-Studio Fernando Melani",
+                  "text": "Fernando Melani művész egykori otthona és műhelye, amely ma kortárs művészeti múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        10.912224,
+                        43.934295
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro Mauro Bolognini",
+                  "text": "Meghitt hangulatú színház, amelyet a Pistoiában született híres olasz filmrendezőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        10.916775,
+                        43.934434
+                  ]
+            },
+            {
+                  "name": "Teatro Manzoni",
+                  "text": "Pistoia legfontosabb történelmi színháza, amelyet 1864-ben avattak fel, és elegáns belső teréről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.911567,
+                        43.933316
+                  ]
+            },
+            {
+                  "name": "Ex Oratorio di San Desiderio",
+                  "text": "Egykori oratórium, amely jelentős 16. századi freskóknak ad otthont, köztük Sebastiano Vini alkotásainak.",
+                  "category": "museum",
+                  "coords": [
+                        10.921521,
+                        43.930978
+                  ]
+            },
+            {
+                  "name": "Teatrino Gatteschi",
+                  "text": "Egy 18. századi miniatűr színház a pistoiai Palazzo Gatteschi épületében.",
+                  "category": "cultural",
+                  "coords": [
+                        10.919042,
+                        43.932101
+                  ]
+            },
+            {
+                  "name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno",
+                  "text": "A múzeum a Püspöki Palota és a San Zeno-székesegyház szakrális művészeti és történelmi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.917542,
+                        43.933044
+                  ]
+            },
+            {
+                  "name": "Pistoia Sotterranea",
+                  "text": "Régészeti útvonal a földalatti alagutakban, amely Pistoia ókori történelmét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        10.920295,
+                        43.935607
+                  ]
+            },
+            {
+                  "name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni",
+                  "text": "Kortárs művészeti múzeum a történelmi Palazzo Fabroni épületében, modern vizuális alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        10.914646,
+                        43.935755
+                  ]
+            },
+            {
+                  "name": "Casa Museo Sigfrido Bartolini",
+                  "text": "Sigfrido Bartolini művész életének és munkásságának szentelt házmúzeum Pistoiában.",
+                  "category": "museum",
+                  "coords": [
+                        10.925354,
+                        43.940127
+                  ]
+            },
+            {
+                  "name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo",
+                  "text": "A pistoiai Museo Storico Documentale dell'Agricoltura e del Vivaismo a régió mezőgazdasági múltjának állít emléket. A múzeum látogatói részletes képet kaphatnak a helyi földművelés és a faiskolai kultúra történetéről. A kiállítás érdekes bepillantást enged az olasz város vidéki hagyományaiba.",
+                  "category": "museum",
+                  "coords": [
+                        10.948979,
+                        43.922124
+                  ]
+            },
+            {
+                  "name": "Museo della Musica e delle Percussioni",
+                  "text": "Ez a pistoiai múzeum hangszerek gyűjteményét mutatja be, különös tekintettel az ütőhangszerekre.",
+                  "category": "museum",
+                  "coords": [
+                        10.912884,
+                        43.930906
+                  ]
+            },
+            {
+                  "name": "Museo Rotabili Storici di Pistoia",
+                  "text": "Történelmi vasúti járművek megőrzésének szentelt múzeum Pistoiában.",
+                  "category": "museum",
+                  "coords": [
+                        10.910723,
+                        43.92673
+                  ]
+            },
+            {
+                  "name": "Deposito Rotabili Storici di Pistoia",
+                  "text": "Történelmi vasúti depó Pistoiában, ahol veterán mozdonyokat és kocsikat tárolnak és tartanak karban.",
+                  "category": "museum",
+                  "coords": [
+                        10.907965,
+                        43.92678
+                  ]
+            },
+            {
+                  "name": "Palazzo de' Rossi",
+                  "text": "18. századi nemesi palota Pistoia központjában, amely ma kulturális eseményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.915694,
+                        43.934958
+                  ]
+            },
+            {
+                  "name": "Monumento votivo militare brasiliano",
+                  "text": "Pistoiai emlékhely a második világháború olaszországi harcaiban elesett brazil katonák tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        10.943327,
+                        43.945019
+                  ]
+            },
+            {
+                  "name": "Villone Puccini",
+                  "text": "18. századi kúria Pistoiában, amelyet egy kiterjedt nyilvános park vesz körül.",
+                  "category": "historical",
+                  "coords": [
+                        10.907547,
+                        43.950611
+                  ]
+            },
+            {
+                  "name": "Villa La Farnia",
+                  "text": "Történelmi udvarház Pistoia vidéki környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        10.884826,
+                        43.943586
+                  ]
+            },
+            {
+                  "name": "Villa Colonna",
+                  "text": "Nemesi villa Pistoia dombjai között, amely történelmi lakóépületként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        10.883744,
+                        43.920868
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "13. századi templom és kolostor, amely jelentős műalkotásoknak és reneszánsz freskóknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        10.916616,
+                        43.930536
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dell'Umiltà",
+                  "text": "A bazilika monumentális reneszánsz kupolájáról nevezetes, amely az egyik legnagyobb Olaszországban.",
+                  "category": "religious",
+                  "coords": [
+                        10.914108,
+                        43.932898
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Frosini",
+                  "text": "Festői tó Pistoia közelében, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        11.007921,
+                        43.907624
+                  ]
+            },
+            {
+                  "name": "Lago Gabbiano",
+                  "text": "A pistoiai Lago Gabbiano egy festői tó, amely ideális egy pihentető természeti sétához.",
+                  "category": "natural",
+                  "coords": [
+                        10.876536,
+                        43.900015
+                  ]
+            },
+            {
+                  "name": "Laghi Primavera",
+                  "text": "A pistoiai Laghi Primavera nyugodt vizei szép környezetet biztosítanak a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        10.887949,
+                        43.938406
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Briganti",
+                  "text": "A pistoiai Bacino ex Cava Briganti egy tó, amely nyugodt vízparti időtöltésre hívja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        11.001975,
+                        43.911451
+                  ]
+            },
+            {
+                  "name": "Il Bastione Mediceo",
+                  "text": "A pistoiai Il Bastione Mediceo egy helyi játszótér, amely biztonságos helyet kínál a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        10.907584,
+                        43.93006
+                  ]
+            },
+            {
+                  "name": "Parco della Madonnina",
+                  "text": "A pistoiai Parco della Madonnina játszóterével ideális helyszín kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        10.932899,
+                        43.909913
+                  ]
+            },
+            {
+                  "name": "H2 Sport",
+                  "text": "A H2 Sport Pistoia városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        10.886803,
+                        43.921313
+                  ]
+            },
+            {
+                  "name": "Il Boschetto",
+                  "text": "A Il Boschetto Pistoia városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        10.900815,
+                        43.953629
+                  ]
+            },
+            {
+                  "name": "Silvano Fedi",
+                  "text": "A Silvano Fedi Pistoia városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        10.902472,
+                        43.935445
+                  ]
+            },
+            {
+                  "name": "Acquarama",
+                  "text": "A Acquarama Pistoia városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        10.924131,
+                        43.92618
+                  ]
+            },
+            {
+                  "name": "Giardino Zoologico di Pistoia",
+                  "text": "A Giardino Zoologico di Pistoia egy állatkert Pistoia területén, ahol a családok állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        10.865782,
+                        43.930142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo dello Spedale del Ceppo",
+                  "text": "Un muzeu într-un spital istoric, renumit pentru friza sa din teracotă smălțuită.",
+                  "category": "museum",
+                  "coords": [
+                        10.917808,
+                        43.93508
+                  ]
+            },
+            {
+                  "name": "Ponte delle Seiarcole",
+                  "text": "Un pod antic și sit arheologic care traversează pârâul Bure lângă Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.941589,
+                        43.940992
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Situat în Palatul Episcopal, acest muzeu expune artă religioasă și obiecte liturgice.",
+                  "category": "museum",
+                  "coords": [
+                        10.918474,
+                        43.933669
+                  ]
+            },
+            {
+                  "name": "Casa-Studio Fernando Melani",
+                  "text": "Fosta casă și atelier al artistului Fernando Melani, păstrată ca muzeu de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        10.912224,
+                        43.934295
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro Mauro Bolognini",
+                  "text": "Un teatru intim numit după celebrul regizor de film italian născut în Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.916775,
+                        43.934434
+                  ]
+            },
+            {
+                  "name": "Teatro Manzoni",
+                  "text": "Principalul teatru istoric din Pistoia, inaugurat în 1864 și cunoscut pentru interiorul său elegant.",
+                  "category": "cultural",
+                  "coords": [
+                        10.911567,
+                        43.933316
+                  ]
+            },
+            {
+                  "name": "Ex Oratorio di San Desiderio",
+                  "text": "Un fost oratoriu care adăpostește fresce semnificative din secolul al XVI-lea, inclusiv lucrări de Sebastiano Vini.",
+                  "category": "museum",
+                  "coords": [
+                        10.921521,
+                        43.930978
+                  ]
+            },
+            {
+                  "name": "Teatrino Gatteschi",
+                  "text": "Un teatru în miniatură din secolul al XVIII-lea situat în Palazzo Gatteschi din Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.919042,
+                        43.932101
+                  ]
+            },
+            {
+                  "name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno",
+                  "text": "Acest muzeu adăpostește artă sacră și artefacte istorice din Palatul Episcopilor și Catedrala San Zeno.",
+                  "category": "museum",
+                  "coords": [
+                        10.917542,
+                        43.933044
+                  ]
+            },
+            {
+                  "name": "Pistoia Sotterranea",
+                  "text": "Un traseu arheologic prin tuneluri subterane care dezvăluie istoria antică a orașului Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.920295,
+                        43.935607
+                  ]
+            },
+            {
+                  "name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni",
+                  "text": "Un muzeu de artă contemporană situat în istoricul Palazzo Fabroni, prezentând lucrări vizuale moderne.",
+                  "category": "museum",
+                  "coords": [
+                        10.914646,
+                        43.935755
+                  ]
+            },
+            {
+                  "name": "Casa Museo Sigfrido Bartolini",
+                  "text": "O casă memorială dedicată vieții și operei artistului Sigfrido Bartolini din Pistoia.",
+                  "category": "museum",
+                  "coords": [
+                        10.925354,
+                        43.940127
+                  ]
+            },
+            {
+                  "name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo",
+                  "text": "Museo Storico Documentale dell'Agricoltura e del Vivaismo din Pistoia este dedicat trecutului agricol al regiunii. Vizitatorii acestui muzeu se pot informa în detaliu despre istoria agriculturii și a culturii pepinierelor locale. Expoziția oferă o perspectivă interesantă asupra tradițiilor rurale ale acestui oraș italian.",
+                  "category": "museum",
+                  "coords": [
+                        10.948979,
+                        43.922124
+                  ]
+            },
+            {
+                  "name": "Museo della Musica e delle Percussioni",
+                  "text": "Acest muzeu din Pistoia prezintă o colecție de instrumente muzicale, cu accent pe percuție.",
+                  "category": "museum",
+                  "coords": [
+                        10.912884,
+                        43.930906
+                  ]
+            },
+            {
+                  "name": "Museo Rotabili Storici di Pistoia",
+                  "text": "Un muzeu dedicat conservării materialului rulant feroviar istoric din Pistoia.",
+                  "category": "museum",
+                  "coords": [
+                        10.910723,
+                        43.92673
+                  ]
+            },
+            {
+                  "name": "Deposito Rotabili Storici di Pistoia",
+                  "text": "Un depou feroviar istoric din Pistoia care adăpostește și întreține locomotive și vagoane de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        10.907965,
+                        43.92678
+                  ]
+            },
+            {
+                  "name": "Palazzo de' Rossi",
+                  "text": "Un palat nobiliar din secolul al XVIII-lea în Pistoia, utilizat astăzi pentru evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        10.915694,
+                        43.934958
+                  ]
+            },
+            {
+                  "name": "Monumento votivo militare brasiliano",
+                  "text": "Monument în Pistoia dedicat soldaților brazilieni care au căzut în luptele din Italia în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        10.943327,
+                        43.945019
+                  ]
+            },
+            {
+                  "name": "Villone Puccini",
+                  "text": "Un conac din secolul al XVIII-lea situat în Pistoia, înconjurat de un parc public vast.",
+                  "category": "historical",
+                  "coords": [
+                        10.907547,
+                        43.950611
+                  ]
+            },
+            {
+                  "name": "Villa La Farnia",
+                  "text": "Un conac istoric situat în zona rurală din jurul orașului Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.884826,
+                        43.943586
+                  ]
+            },
+            {
+                  "name": "Villa Colonna",
+                  "text": "O vilă nobiliară situată pe dealurile din Pistoia, cunoscută ca reședință istorică.",
+                  "category": "historical",
+                  "coords": [
+                        10.883744,
+                        43.920868
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "Biserică și mănăstire din secolul al XIII-lea, care adăpostește opere de artă și fresce renascentiste.",
+                  "category": "religious",
+                  "coords": [
+                        10.916616,
+                        43.930536
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dell'Umiltà",
+                  "text": "Această basilică este celebră pentru cupola sa renascentistă monumentală, una dintre cele mai mari din Italia.",
+                  "category": "religious",
+                  "coords": [
+                        10.914108,
+                        43.932898
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Frosini",
+                  "text": "Un lac pitoresc lângă Pistoia, înconjurat de natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.007921,
+                        43.907624
+                  ]
+            },
+            {
+                  "name": "Lago Gabbiano",
+                  "text": "Lago Gabbiano din Pistoia este un lac pitoresc, ideal pentru o plimbare relaxantă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        10.876536,
+                        43.900015
+                  ]
+            },
+            {
+                  "name": "Laghi Primavera",
+                  "text": "Laghi Primavera din Pistoia sunt ape liniștite care oferă un cadru frumos pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        10.887949,
+                        43.938406
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Briganti",
+                  "text": "Bacino ex Cava Briganti din Pistoia este un lac care invită vizitatorii la momente de liniște pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        11.001975,
+                        43.911451
+                  ]
+            },
+            {
+                  "name": "Il Bastione Mediceo",
+                  "text": "Il Bastione Mediceo din Pistoia este un teren de joacă local care oferă copiilor un loc sigur pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        10.907584,
+                        43.93006
+                  ]
+            },
+            {
+                  "name": "Parco della Madonnina",
+                  "text": "Parco della Madonnina din Pistoia are o zonă de joacă ideală pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        10.932899,
+                        43.909913
+                  ]
+            },
+            {
+                  "name": "H2 Sport",
+                  "text": "H2 Sport din Pistoia oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.886803,
+                        43.921313
+                  ]
+            },
+            {
+                  "name": "Il Boschetto",
+                  "text": "Il Boschetto din Pistoia oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.900815,
+                        43.953629
+                  ]
+            },
+            {
+                  "name": "Silvano Fedi",
+                  "text": "Silvano Fedi din Pistoia oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.902472,
+                        43.935445
+                  ]
+            },
+            {
+                  "name": "Acquarama",
+                  "text": "Acquarama din Pistoia oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.924131,
+                        43.92618
+                  ]
+            },
+            {
+                  "name": "Giardino Zoologico di Pistoia",
+                  "text": "Giardino Zoologico di Pistoia din Pistoia este o destinație pentru familii pentru a vedea animale.",
+                  "category": "family",
+                  "coords": [
+                        10.865782,
+                        43.930142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo dello Spedale del Ceppo",
+                  "text": "A museum in a historic hospital famous for its glazed terracotta frieze.",
+                  "category": "museum",
+                  "coords": [
+                        10.917808,
+                        43.93508
+                  ]
+            },
+            {
+                  "name": "Ponte delle Seiarcole",
+                  "text": "An ancient bridge and archaeological site crossing the Bure stream near Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.941589,
+                        43.940992
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Located in the Bishop's Palace, this museum displays religious art and liturgical objects.",
+                  "category": "museum",
+                  "coords": [
+                        10.918474,
+                        43.933669
+                  ]
+            },
+            {
+                  "name": "Casa-Studio Fernando Melani",
+                  "text": "The former home and workshop of artist Fernando Melani, preserved as a contemporary art museum.",
+                  "category": "museum",
+                  "coords": [
+                        10.912224,
+                        43.934295
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro Mauro Bolognini",
+                  "text": "An intimate theatre named after the famous Italian film director born in Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.916775,
+                        43.934434
+                  ]
+            },
+            {
+                  "name": "Teatro Manzoni",
+                  "text": "The main historical theatre of Pistoia, inaugurated in 1864 and known for its elegant interior.",
+                  "category": "cultural",
+                  "coords": [
+                        10.911567,
+                        43.933316
+                  ]
+            },
+            {
+                  "name": "Ex Oratorio di San Desiderio",
+                  "text": "A former oratory that houses significant 16th-century frescoes, including works by Sebastiano Vini.",
+                  "category": "museum",
+                  "coords": [
+                        10.921521,
+                        43.930978
+                  ]
+            },
+            {
+                  "name": "Teatrino Gatteschi",
+                  "text": "A miniature 18th-century theatre located within Palazzo Gatteschi in Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.919042,
+                        43.932101
+                  ]
+            },
+            {
+                  "name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno",
+                  "text": "This museum houses sacred art and historical artifacts from the Bishop's Palace and San Zeno Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        10.917542,
+                        43.933044
+                  ]
+            },
+            {
+                  "name": "Pistoia Sotterranea",
+                  "text": "An archaeological path through underground tunnels revealing Pistoia's ancient history.",
+                  "category": "historical",
+                  "coords": [
+                        10.920295,
+                        43.935607
+                  ]
+            },
+            {
+                  "name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni",
+                  "text": "A contemporary art museum located in the historic Palazzo Fabroni, featuring modern visual works.",
+                  "category": "museum",
+                  "coords": [
+                        10.914646,
+                        43.935755
+                  ]
+            },
+            {
+                  "name": "Casa Museo Sigfrido Bartolini",
+                  "text": "A house museum dedicated to the life and works of the artist Sigfrido Bartolini in Pistoia.",
+                  "category": "museum",
+                  "coords": [
+                        10.925354,
+                        43.940127
+                  ]
+            },
+            {
+                  "name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo",
+                  "text": "The Museo Storico Documentale dell'Agricoltura e del Vivaismo in Pistoia is dedicated to the region's agricultural past. Visitors to the museum can learn in detail about the local history of farming and tree nursery culture. The exhibition offers an interesting insight into the rural traditions of the Italian city.",
+                  "category": "museum",
+                  "coords": [
+                        10.948979,
+                        43.922124
+                  ]
+            },
+            {
+                  "name": "Museo della Musica e delle Percussioni",
+                  "text": "This Pistoia museum showcases a collection of musical instruments with a focus on percussion.",
+                  "category": "museum",
+                  "coords": [
+                        10.912884,
+                        43.930906
+                  ]
+            },
+            {
+                  "name": "Museo Rotabili Storici di Pistoia",
+                  "text": "A museum dedicated to the preservation of historic railway rolling stock in Pistoia.",
+                  "category": "museum",
+                  "coords": [
+                        10.910723,
+                        43.92673
+                  ]
+            },
+            {
+                  "name": "Deposito Rotabili Storici di Pistoia",
+                  "text": "A historic railway depot in Pistoia that houses and maintains vintage locomotives and carriages.",
+                  "category": "museum",
+                  "coords": [
+                        10.907965,
+                        43.92678
+                  ]
+            },
+            {
+                  "name": "Palazzo de' Rossi",
+                  "text": "An 18th-century noble palace in Pistoia, currently used for cultural events and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        10.915694,
+                        43.934958
+                  ]
+            },
+            {
+                  "name": "Monumento votivo militare brasiliano",
+                  "text": "A memorial in Pistoia dedicated to the Brazilian soldiers who died in Italy during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        10.943327,
+                        43.945019
+                  ]
+            },
+            {
+                  "name": "Villone Puccini",
+                  "text": "An 18th-century manor house in Pistoia surrounded by a large public park.",
+                  "category": "historical",
+                  "coords": [
+                        10.907547,
+                        43.950611
+                  ]
+            },
+            {
+                  "name": "Villa La Farnia",
+                  "text": "A historic manor house located in the rural surroundings of Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.884826,
+                        43.943586
+                  ]
+            },
+            {
+                  "name": "Villa Colonna",
+                  "text": "A noble villa in the hills of Pistoia, recognized as a historic residence.",
+                  "category": "historical",
+                  "coords": [
+                        10.883744,
+                        43.920868
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "A 13th-century church and convent housing significant artworks and Renaissance frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        10.916616,
+                        43.930536
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dell'Umiltà",
+                  "text": "This basilica is famous for its monumental Renaissance dome, one of the largest in Italy.",
+                  "category": "religious",
+                  "coords": [
+                        10.914108,
+                        43.932898
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Frosini",
+                  "text": "A scenic lake near Pistoia, surrounded by nature.",
+                  "category": "natural",
+                  "coords": [
+                        11.007921,
+                        43.907624
+                  ]
+            },
+            {
+                  "name": "Lago Gabbiano",
+                  "text": "Lago Gabbiano in Pistoia is a scenic lake ideal for a relaxing walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        10.876536,
+                        43.900015
+                  ]
+            },
+            {
+                  "name": "Laghi Primavera",
+                  "text": "The Laghi Primavera in Pistoia are calm waters providing a beautiful setting for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        10.887949,
+                        43.938406
+                  ]
+            },
+            {
+                  "name": "Bacino ex Cava Briganti",
+                  "text": "The Bacino ex Cava Briganti in Pistoia is a lake inviting visitors to a quiet time by the water.",
+                  "category": "natural",
+                  "coords": [
+                        11.001975,
+                        43.911451
+                  ]
+            },
+            {
+                  "name": "Il Bastione Mediceo",
+                  "text": "Il Bastione Mediceo in Pistoia is a local playground offering children a safe place for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        10.907584,
+                        43.93006
+                  ]
+            },
+            {
+                  "name": "Parco della Madonnina",
+                  "text": "Parco della Madonnina in Pistoia features a play area ideal for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        10.932899,
+                        43.909913
+                  ]
+            },
+            {
+                  "name": "H2 Sport",
+                  "text": "H2 Sport in Pistoia offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.886803,
+                        43.921313
+                  ]
+            },
+            {
+                  "name": "Il Boschetto",
+                  "text": "Il Boschetto in Pistoia offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.900815,
+                        43.953629
+                  ]
+            },
+            {
+                  "name": "Silvano Fedi",
+                  "text": "Silvano Fedi in Pistoia offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.902472,
+                        43.935445
+                  ]
+            },
+            {
+                  "name": "Acquarama",
+                  "text": "Acquarama in Pistoia offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.924131,
+                        43.92618
+                  ]
+            },
+            {
+                  "name": "Giardino Zoologico di Pistoia",
+                  "text": "Giardino Zoologico di Pistoia in Pistoia is a destination for families to see animals.",
+                  "category": "family",
+                  "coords": [
+                        10.865782,
+                        43.930142
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pistoia", hu: "Pistoia", ro: "Pistoia", en: "Pistoia" },
@@ -13891,6 +16285,15 @@ export const italyCitiesV2: POI[] = [
                         8.608648,
                         44.897098
                   ]
+            },
+            {
+                  "name": "Canottieri",
+                  "text": "Canottieri in Alessandria. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        8.597397,
+                        44.911345
+                  ]
             }
       ],
       "hu": [
@@ -14072,6 +16475,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.608648,
                         44.897098
+                  ]
+            },
+            {
+                  "name": "Canottieri",
+                  "text": "Canottieri Alessandria területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        8.597397,
+                        44.911345
                   ]
             }
       ],
@@ -14255,6 +16667,15 @@ export const italyCitiesV2: POI[] = [
                         8.608648,
                         44.897098
                   ]
+            },
+            {
+                  "name": "Canottieri",
+                  "text": "Canottieri din Alessandria. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        8.597397,
+                        44.911345
+                  ]
             }
       ],
       "en": [
@@ -14437,6 +16858,15 @@ export const italyCitiesV2: POI[] = [
                         8.608648,
                         44.897098
                   ]
+            },
+            {
+                  "name": "Canottieri",
+                  "text": "Canottieri in Alessandria. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        8.597397,
+                        44.911345
+                  ]
             }
       ]
 },
@@ -14611,6 +17041,24 @@ export const italyCitiesV2: POI[] = [
                         15.543992,
                         41.465531
                   ]
+            },
+            {
+                  "name": "Mirage Village",
+                  "text": "Ein öffentliches Schwimmbad in Foggia, das Platz zum Schwimmen und zur Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.52519,
+                        41.443383
+                  ]
+            },
+            {
+                  "name": "Assori",
+                  "text": "Ein öffentliches Schwimmbad in Foggia, das Platz zum Schwimmen und zur Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.558553,
+                        41.452545
+                  ]
             }
       ],
       "hu": [
@@ -14693,6 +17141,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         15.543992,
                         41.465531
+                  ]
+            },
+            {
+                  "name": "Mirage Village",
+                  "text": "Nyilvános úszómedence Foggia területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        15.52519,
+                        41.443383
+                  ]
+            },
+            {
+                  "name": "Assori",
+                  "text": "Nyilvános úszómedence Foggia területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        15.558553,
+                        41.452545
                   ]
             }
       ],
@@ -14777,6 +17243,24 @@ export const italyCitiesV2: POI[] = [
                         15.543992,
                         41.465531
                   ]
+            },
+            {
+                  "name": "Mirage Village",
+                  "text": "O piscină publică în Foggia care oferă spațiu pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        15.52519,
+                        41.443383
+                  ]
+            },
+            {
+                  "name": "Assori",
+                  "text": "O piscină publică în Foggia care oferă spațiu pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        15.558553,
+                        41.452545
+                  ]
             }
       ],
       "en": [
@@ -14859,6 +17343,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         15.543992,
                         41.465531
+                  ]
+            },
+            {
+                  "name": "Mirage Village",
+                  "text": "A public swimming pool in Foggia offering space for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        15.52519,
+                        41.443383
+                  ]
+            },
+            {
+                  "name": "Assori",
+                  "text": "A public swimming pool in Foggia offering space for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        15.558553,
+                        41.452545
                   ]
             }
       ]
@@ -15007,6 +17509,15 @@ export const italyCitiesV2: POI[] = [
                         15.807818,
                         40.634573
                   ]
+            },
+            {
+                  "name": "Orme Village",
+                  "text": "Orme Village in Potenza bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        15.839464,
+                        40.641846
+                  ]
             }
       ],
       "hu": [
@@ -15107,6 +17618,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         15.807818,
                         40.634573
+                  ]
+            },
+            {
+                  "name": "Orme Village",
+                  "text": "A Orme Village Potenza városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        15.839464,
+                        40.641846
                   ]
             }
       ],
@@ -15209,6 +17729,15 @@ export const italyCitiesV2: POI[] = [
                         15.807818,
                         40.634573
                   ]
+            },
+            {
+                  "name": "Orme Village",
+                  "text": "Orme Village din Potenza oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        15.839464,
+                        40.641846
+                  ]
             }
       ],
       "en": [
@@ -15309,6 +17838,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         15.807818,
                         40.634573
+                  ]
+            },
+            {
+                  "name": "Orme Village",
+                  "text": "Orme Village in Potenza offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        15.839464,
+                        40.641846
                   ]
             }
       ]
@@ -16717,7 +19255,1636 @@ export const italyCitiesV2: POI[] = [
   }
 ,
   {
-    id: "italy-savona-cities-v2", "sights": {"de": [{"name": "Museo d'arte di Palazzo Gavotti", "text": "Das Kunstmuseum im Palazzo Gavotti beherbergt bedeutende Sammlungen von Gemälden und Keramiken aus der Region Ligurien.", "category": "museum", "coords": [8.482513, 44.308688]}, {"name": "Pinacoteca Civica", "text": "Die Pinacoteca Civica von Savona zeigt eine umfangreiche Sammlung sakraler Kunst und Meisterwerke lokaler Maler.", "category": "museum", "coords": [8.484112, 44.309033]}, {"name": "Museo della Ceramica Giuseppe Mazzotti", "text": "Dieses Museum ist der langen Tradition der Keramikherstellung gewidmet und zeigt Werke der berühmten Manufaktur Giuseppe Mazzotti.", "category": "museum", "coords": [8.507999, 44.329039]}, {"name": "Centro Esposizioni del MuDA", "text": "Das Ausstellungszentrum MuDA präsentiert zeitgenössische Kunst und kulturelle Projekte in der Stadt Savona.", "category": "museum", "coords": [8.501925, 44.327811]}, {"name": "Villa Faraggiana", "text": "Die Villa Faraggiana ist ein prächtiges Beispiel barocker Architektur mit einem eleganten Garten und reich verzierten Innenräumen.", "category": "museum", "coords": [8.502569, 44.331328]}, {"name": "All About Apple Museum", "text": "Dieses einzigartige Museum widmet sich der Geschichte der Firma Apple und zeigt eine der weltweit größten Sammlungen ihrer Produkte.", "category": "museum", "coords": [8.487288, 44.309252]}, {"name": "Museo Storico Archeologico di Savona", "text": "Das Museum zeigt bedeutende archäologische Funde aus der Geschichte Savonas, die in der Festung Priamar untergebracht sind.", "category": "museum", "coords": [8.484855, 44.30504]}, {"name": "Sito archeologico del Priamar", "text": "Die archäologische Ausgrabungsstätte auf dem Priamar-Hügel dokumentiert die Besiedlung des Ortes von der Antike bis zum Mittelalter.", "category": "historical", "coords": [8.483286, 44.304933]}, {"name": "Castello Migliardi", "text": "Das Castello Migliardi, auch als Palazzo Imperiale bekannt, ist ein markantes historisches Bauwerk in der Architektur von Savona.", "category": "castle", "coords": [8.465572, 44.321017]}, {"name": "Teatro Comunale Gabriello Chiabrera", "text": "Dieses nach dem Dichter Gabriello Chiabrera benannte Stadttheater ist das wichtigste Opernhaus und Kulturzentrum von Savona.", "category": "cultural", "coords": [8.48148, 44.310525]}, {"name": "Forte della Madonna degli Angeli", "text": "Das Forte della Madonna degli Angeli ist eine historische Festungsanlage, die auf einem Hügel über der Stadt Savona thront.", "category": "castle", "coords": [8.46078, 44.313802]}, {"name": "Casa museo Asger Jorn", "text": "Das ehemalige Wohnhaus und Atelier des dänischen Künstlers Asger Jorn ist heute ein Museum für moderne Kunst.", "category": "museum", "coords": [8.496138, 44.329225]}, {"name": "Museo del Tesoro della Cattedrale", "text": "Das Museum bewahrt den wertvollen Domschatz und bedeutende religiöse Kunstwerke der Kathedrale von Savona auf.", "category": "museum", "coords": [8.482141, 44.307334]}, {"name": "Spiaggia libera \"Garibaldi\"", "text": "Die Spiaggia libera \"Garibaldi\" in Savona gewährt Besuchern einen ungehinderten und kostenfreien Zugang zum wunderschönen Ligurischen Meer. Dieser öffentliche Küstenstreifen ist ein wunderbarer Ort, um ganz unkompliziert die Seele baumeln zu lassen und im Meer zu baden. Für den besten Platz im Sand empfiehlt es sich, früh am Tag einzutreffen.", "category": "recreational", "coords": [8.483835, 44.302885]}, {"name": "Spiaggia libera delle Fornaci", "text": "Die Spiaggia libera delle Fornaci zählt zu den beliebtesten öffentlichen Stränden in Savona, geschätzt für seine gute Infrastruktur und einladende Wasserqualität. Badegäste finden hier optimale Bedingungen für einen entspannten Tag an der ligurischen Küste vor. Die vorhandenen Annehmlichkeiten machen den Strand zu einem idealen Ziel für Familien und Erholungssuchende.", "category": "recreational", "coords": [8.469363, 44.298158]}, {"name": "Spiaggia libera", "text": "Dieser einfache, frei zugängliche Küstenstreifen in Savona lädt dazu ein, einen ruhigen Tag am Meer zu verbringen. Abseits der bewirtschafteten Lidos bietet die Spiaggia libera Platz für ein ungezwungenes Sonnenbad auf dem eigenen Handtuch. Es ist der perfekte Ort, um das sanfte Rauschen der ligurischen Wellen in vollen Zügen zu genießen.", "category": "recreational", "coords": [8.464198, 44.296215]}, {"name": "Lega Navale Italiana - Sezione di Albisola", "text": "Ein Strandbereich bei Albisola, der von der lokalen Sektion des italienischen Marineverbandes betreut wird.", "category": "recreational", "coords": [8.509499, 44.328527]}, {"name": "Associazione Nazionale Alpini", "text": "Eine historische Stätte auf dem Priamar-Hügel, die mit der Tradition der italienischen Gebirgstruppen verbunden ist.", "category": "historical", "coords": [8.468111, 44.318933]}, {"name": "Tempietto Boselli", "text": "Ein kleiner neoklassizistischer Pavillon, der als Zierelement in den öffentlichen Gärten von Savona steht.", "category": "historical", "coords": [8.481535, 44.304393]}, {"name": "Parco giochi del Priamar", "text": "Der Parco giochi del Priamar in Savona bietet Kindern eine unterhaltsame Spielumgebung in historischer Umgebung.", "category": "family", "coords": [8.48399, 44.3039]}, {"name": "Bowling Savona", "text": "Das Bowling Savona bietet Unterhaltung und verschiedene Spiele für einen unterhaltsamen Familienausflug.", "category": "family", "coords": [8.471219, 44.303894]}, {"name": "Giardini principessa Mafalda di Savoia", "text": "Die Giardini principessa Mafalda di Savoia in Savona laden Familien mit ihrem Spielbereich zum Verweilen im Grünen ein.", "category": "family", "coords": [8.4809, 44.302634]}, {"name": "Piazza Maestri dell'artigianato", "text": "Die Piazza Maestri dell'artigianato in Savona verfügt über einen Spielplatz, der ideal für eine Pause mit Kindern ist.", "category": "family", "coords": [8.474895, 44.302667]}, {"name": "Parco Giochi di Villa Faraggiana", "text": "Der Parco Giochi di Villa Faraggiana in Savona ist ein schöner Ort für Kinder zum Spielen in einer gepflegten Anlage.", "category": "family", "coords": [8.503816, 44.33162]}], "hu": [{"name": "Museo d'arte di Palazzo Gavotti", "text": "A Palazzo Gavotti művészeti múzeuma jelentős liguriai festészeti és kerámiagyűjteményeknek ad otthont Savona szívében.", "category": "museum", "coords": [8.482513, 44.308688]}, {"name": "Pinacoteca Civica", "text": "Savona városi képtára helyi festők remekműveit és vallási művészeti alkotások gazdag gyűjteményét mutatja be.", "category": "museum", "coords": [8.484112, 44.309033]}, {"name": "Museo della Ceramica Giuseppe Mazzotti", "text": "Ez a múzeum a kerámiagyártás hosszú hagyományának szentelt, és a híres Giuseppe Mazzotti manufaktúra munkáit mutatja be.", "category": "museum", "coords": [8.507999, 44.329039]}, {"name": "Centro Esposizioni del MuDA", "text": "A MuDA kiállítókönypont kortárs művészeti alkotásokat és kulturális projekteket mutat be Savona városában.", "category": "museum", "coords": [8.501925, 44.327811]}, {"name": "Villa Faraggiana", "text": "A Villa Faraggiana a barokk építészet pompás példája, elegáns kerttel és gazdagon díszített belső terekkel.", "category": "museum", "coords": [8.502569, 44.331328]}, {"name": "All About Apple Museum", "text": "Ez az egyedülálló múzeum az Apple cég történetének szentelt, bemutatva termékeik egyik legnagyobb gyűjteményét a világon.", "category": "museum", "coords": [8.487288, 44.309252]}, {"name": "Museo Storico Archeologico di Savona", "text": "A múzeum Savona történelmének jelentős régészeti leleteit mutatja be, amelyek a Priamar-erődben kaptak helyet.", "category": "museum", "coords": [8.484855, 44.30504]}, {"name": "Sito archeologico del Priamar", "text": "A Priamar-dombon található régészeti lelőhely a település történetét dokumentálja az ókortól a középkorig.", "category": "historical", "coords": [8.483286, 44.304933]}, {"name": "Castello Migliardi", "text": "A Castello Migliardi, más néven Palazzo Imperiale, Savona építészetének egyik jellegzetes történelmi épülete.", "category": "castle", "coords": [8.465572, 44.321017]}, {"name": "Teatro Comunale Gabriello Chiabrera", "text": "Ez a Gabriello Chiabrera költőről elnevezett városi színház Savona legfontosabb operaháza és kulturális központja.", "category": "cultural", "coords": [8.48148, 44.310525]}, {"name": "Forte della Madonna degli Angeli", "text": "A Forte della Madonna degli Angeli egy történelmi erődítmény, amely a Savona városa feletti dombon magasodik.", "category": "castle", "coords": [8.46078, 44.313802]}, {"name": "Casa museo Asger Jorn", "text": "Asger Jorn dán művész egykori háza és műterme ma múzeumként mutatja be az alkotó munkásságát.", "category": "museum", "coords": [8.496138, 44.329225]}, {"name": "Museo del Tesoro della Cattedrale", "text": "A múzeum a savona-i székesegyház értékes kincstárát és jelentős vallási műtárgyait őrzi.", "category": "museum", "coords": [8.482141, 44.307334]}, {"name": "Spiaggia libera \"Garibaldi\"", "text": "A savonai Spiaggia libera \"Garibaldi\" akadálytalan és ingyenes hozzáférést biztosít a gyönyörű Ligur-tengerhez. Ez a nyilvános partszakasz nagyszerű helyszín arra, hogy egyszerűen csak élvezze a napsütést és a hűsítő hullámokat. Ha a legjobb helyet szeretné megszerezni a homokban, érdemes már a kora reggeli órákban kilátogatni.", "category": "recreational", "coords": [8.483835, 44.302885]}, {"name": "Spiaggia libera delle Fornaci", "text": "A Spiaggia libera delle Fornaci Savona egyik legnépszerűbb nyilvános strandja, amelyet jó infrastruktúrája és hívogató vízminősége tesz vonzóvá. A fürdőzők itt tökéletes körülményeket találnak egy nyugodt, liguriai tengerparti nap eltöltéséhez. A rendelkezésre álló kényelmi szolgáltatások miatt a partszakasz családok számára is kiváló választás.", "category": "recreational", "coords": [8.469363, 44.298158]}, {"name": "Spiaggia libera", "text": "Ez az egyszerű, szabadon látogatható savonai partszakasz egy békés tengerparti nap eltöltésére csábít. A kiépített strandoktól távol a Spiaggia libera elegendő teret ad egy kötetlen napozáshoz a saját törülközőjén. Ideális választás azoknak, akik zavartalanul szeretnék hallgatni a ligur-tengeri hullámok lágy morajlását.", "category": "recreational", "coords": [8.464198, 44.296215]}, {"name": "Lega Navale Italiana - Sezione di Albisola", "text": "Albisola melletti partszakasz, amelyet az olasz tengerészeti szövetség helyi részlege üzemeltet.", "category": "recreational", "coords": [8.509499, 44.328527]}, {"name": "Associazione Nazionale Alpini", "text": "A Priamar-dombon található történelmi emlékhely, amely az olasz hegyi vadászok hagyományaival kapcsolatos.", "category": "historical", "coords": [8.468111, 44.318933]}, {"name": "Tempietto Boselli", "text": "Savona nyilvános kertjében álló kis neoklasszicista pavilon, amely a város egyik díszes műemléke.", "category": "historical", "coords": [8.481535, 44.304393]}, {"name": "Parco giochi del Priamar", "text": "A savonai Parco giochi del Priamar szórakoztató játékkörnyezetet kínál a gyerekeknek történelmi környezetben.", "category": "family", "coords": [8.48399, 44.3039]}, {"name": "Bowling Savona", "text": "A Bowling Savona szórakozást és különféle játékokat kínál egy vidám családi kiránduláshoz.", "category": "family", "coords": [8.471219, 44.303894]}, {"name": "Giardini principessa Mafalda di Savoia", "text": "A savonai Giardini principessa Mafalda di Savoia játszóterével hívja a családokat a zöldben való kikapcsolódásra.", "category": "family", "coords": [8.4809, 44.302634]}, {"name": "Piazza Maestri dell'artigianato", "text": "A savonai Piazza Maestri dell'artigianato játszótérrel rendelkezik, amely ideális egy kis szünetre a gyerekekkel.", "category": "family", "coords": [8.474895, 44.302667]}, {"name": "Parco Giochi di Villa Faraggiana", "text": "A savonai Parco Giochi di Villa Faraggiana szép hely a gyermekek számára a játékhoz egy gondozott környezetben.", "category": "family", "coords": [8.503816, 44.33162]}], "ro": [{"name": "Museo d'arte di Palazzo Gavotti", "text": "Muzeul de artă din Palazzo Gavotti adăpostește colecții importante de pictură și ceramică din regiunea Liguria.", "category": "museum", "coords": [8.482513, 44.308688]}, {"name": "Pinacoteca Civica", "text": "Pinacoteca Civica din Savona prezintă o colecție vastă de artă sacră și capodopere ale pictorilor locali.", "category": "museum", "coords": [8.484112, 44.309033]}, {"name": "Museo della Ceramica Giuseppe Mazzotti", "text": "Acest muzeu este dedicat tradiției îndelungate a fabricării ceramicii, expunând lucrări ale celebrei manufacturi Giuseppe Mazzotti.", "category": "museum", "coords": [8.507999, 44.329039]}, {"name": "Centro Esposizioni del MuDA", "text": "Centrul de expoziții MuDA prezintă artă contemporană și proiecte culturale în orașul Savona.", "category": "museum", "coords": [8.501925, 44.327811]}, {"name": "Villa Faraggiana", "text": "Villa Faraggiana este un exemplu splendid de arhitectură barocă, cu o grădină elegantă și interioare bogat decorate.", "category": "museum", "coords": [8.502569, 44.331328]}, {"name": "All About Apple Museum", "text": "Acest muzeu unic este dedicat istoriei companiei Apple, prezentând una dintre cele mai mari colecții de produse ale sale din lume.", "category": "museum", "coords": [8.487288, 44.309252]}, {"name": "Museo Storico Archeologico di Savona", "text": "Muzeul prezintă descoperiri arheologice semnificative din istoria orașului Savona, fiind găzduit în fortăreața Priamar.", "category": "museum", "coords": [8.484855, 44.30504]}, {"name": "Sito archeologico del Priamar", "text": "Situl arheologic de pe dealul Priamar documentează așezarea locului din antichitate până în Evul Mediu.", "category": "historical", "coords": [8.483286, 44.304933]}, {"name": "Castello Migliardi", "text": "Castello Migliardi, cunoscut și sub numele de Palazzo Imperiale, este o structură istorică proeminentă în arhitectura orașului Savona.", "category": "castle", "coords": [8.465572, 44.321017]}, {"name": "Teatro Comunale Gabriello Chiabrera", "text": "Acest teatru comunal, numit după poetul Gabriello Chiabrera, este cea mai importantă operă și centru cultural din Savona.", "category": "cultural", "coords": [8.48148, 44.310525]}, {"name": "Forte della Madonna degli Angeli", "text": "Forte della Madonna degli Angeli este o fortificație istorică situată pe un deal care domină orașul Savona.", "category": "castle", "coords": [8.46078, 44.313802]}, {"name": "Casa museo Asger Jorn", "text": "Fosta casă și atelierul artistului danez Asger Jorn funcționează astăzi ca muzeu de artă modernă.", "category": "museum", "coords": [8.496138, 44.329225]}, {"name": "Museo del Tesoro della Cattedrale", "text": "Muzeul păstrează tezaurul valoros și obiecte importante de artă sacră ale catedralei din Savona.", "category": "museum", "coords": [8.482141, 44.307334]}, {"name": "Spiaggia libera \"Garibaldi\"", "text": "Spiaggia libera \"Garibaldi\" din Savona oferă acces gratuit și direct la minunata Mare Ligurică. Această fâșie publică de plajă este un loc minunat pentru a te relaxa pur și simplu și a te bucura de o baie în mare. Pentru a prinde cel mai bun loc pe nisip, este recomandat să ajungeți la primele ore ale dimineții.", "category": "recreational", "coords": [8.483835, 44.302885]}, {"name": "Spiaggia libera delle Fornaci", "text": "Spiaggia libera delle Fornaci este una dintre cele mai populare plaje publice din Savona, apreciată pentru calitatea apei și infrastructura bună. Vizitatorii găsesc aici condiții optime pentru a petrece o zi relaxantă pe coasta ligurică. Facilitățile excelente fac din această destinație un loc ideal pentru familii și pentru toți cei care caută odihnă.", "category": "recreational", "coords": [8.469363, 44.298158]}, {"name": "Spiaggia libera", "text": "Această fâșie de coastă cu acces liber din Savona vă invită să petreceți o zi liniștită pe malul mării. Departe de zonele comerciale amenajate, Spiaggia libera oferă spațiul perfect pentru a face plajă relaxat pe propriul prosop. Este locul ideal pentru a savura din plin murmurul blând al valurilor ligurice.", "category": "recreational", "coords": [8.464198, 44.296215]}, {"name": "Lega Navale Italiana - Sezione di Albisola", "text": "O zonă de plajă lângă Albisola, gestionată de secția locală a Ligii Navale Italiene.", "category": "recreational", "coords": [8.509499, 44.328527]}, {"name": "Associazione Nazionale Alpini", "text": "Un sit istoric situat pe dealul Priamar, legat de tradiția trupelor montane italiene.", "category": "historical", "coords": [8.468111, 44.318933]}, {"name": "Tempietto Boselli", "text": "Un mic pavilion neoclasic situat în grădinile publice din Savona ca element decorativ istoric.", "category": "historical", "coords": [8.481535, 44.304393]}, {"name": "Parco giochi del Priamar", "text": "Parco giochi del Priamar din Savona oferă copiilor un mediu de joacă distractiv într-un cadru istoric.", "category": "family", "coords": [8.48399, 44.3039]}, {"name": "Bowling Savona", "text": "Bowling Savona oferă divertisment și diverse jocuri pentru o ieșire plăcută în familie.", "category": "family", "coords": [8.471219, 44.303894]}, {"name": "Giardini principessa Mafalda di Savoia", "text": "Giardini principessa Mafalda di Savoia din Savona invită familiile să se relaxeze în aer liber în zona sa de joacă.", "category": "family", "coords": [8.4809, 44.302634]}, {"name": "Piazza Maestri dell'artigianato", "text": "Piazza Maestri dell'artigianato din Savona are un teren de joacă ideal pentru o pauză cu copiii.", "category": "family", "coords": [8.474895, 44.302667]}, {"name": "Parco Giochi di Villa Faraggiana", "text": "Parco Giochi di Villa Faraggiana din Savona este un loc frumos pentru joaca copiilor într-un cadru îngrijit.", "category": "family", "coords": [8.503816, 44.33162]}], "en": [{"name": "Museo d'arte di Palazzo Gavotti", "text": "The art museum in Palazzo Gavotti houses significant collections of paintings and ceramics from the Liguria region.", "category": "museum", "coords": [8.482513, 44.308688]}, {"name": "Pinacoteca Civica", "text": "The Pinacoteca Civica of Savona displays an extensive collection of sacred art and masterpieces by local painters.", "category": "museum", "coords": [8.484112, 44.309033]}, {"name": "Museo della Ceramica Giuseppe Mazzotti", "text": "This museum is dedicated to the long tradition of ceramics manufacturing, showcasing works from the famous Giuseppe Mazzotti factory.", "category": "museum", "coords": [8.507999, 44.329039]}, {"name": "Centro Esposizioni del MuDA", "text": "The MuDA exhibition center presents contemporary art and cultural projects in the city of Savona.", "category": "museum", "coords": [8.501925, 44.327811]}, {"name": "Villa Faraggiana", "text": "Villa Faraggiana is a magnificent example of Baroque architecture with an elegant garden and richly decorated interiors.", "category": "museum", "coords": [8.502569, 44.331328]}, {"name": "All About Apple Museum", "text": "This unique museum is dedicated to the history of the Apple company, showcasing one of the world's largest collections of its products.", "category": "museum", "coords": [8.487288, 44.309252]}, {"name": "Museo Storico Archeologico di Savona", "text": "The museum displays significant archaeological finds from Savona's history, housed within the Priamar fortress.", "category": "museum", "coords": [8.484855, 44.30504]}, {"name": "Sito archeologico del Priamar", "text": "The archaeological site on the Priamar hill documents the settlement of the area from antiquity to the Middle Ages.", "category": "historical", "coords": [8.483286, 44.304933]}, {"name": "Castello Migliardi", "text": "Castello Migliardi, also known as Palazzo Imperiale, is a prominent historical structure in Savona's architecture.", "category": "castle", "coords": [8.465572, 44.321017]}, {"name": "Teatro Comunale Gabriello Chiabrera", "text": "This municipal theater, named after the poet Gabriello Chiabrera, is the most important opera house and cultural center of Savona.", "category": "cultural", "coords": [8.48148, 44.310525]}, {"name": "Forte della Madonna degli Angeli", "text": "Forte della Madonna degli Angeli is a historical fortification perched on a hill overlooking the city of Savona.", "category": "castle", "coords": [8.46078, 44.313802]}, {"name": "Casa museo Asger Jorn", "text": "The former home and studio of Danish artist Asger Jorn is now a museum dedicated to his work.", "category": "museum", "coords": [8.496138, 44.329225]}, {"name": "Museo del Tesoro della Cattedrale", "text": "The museum preserves the valuable treasury and significant religious artworks of the Savona Cathedral.", "category": "museum", "coords": [8.482141, 44.307334]}, {"name": "Spiaggia libera \"Garibaldi\"", "text": "The Spiaggia libera \"Garibaldi\" in Savona provides visitors with completely free and easy access to the beautiful Ligurian Sea. This public stretch of coast is a wonderful spot to simply unwind and enjoy a refreshing swim. Arriving early in the day is recommended to claim the best spot on the sand.", "category": "recreational", "coords": [8.483835, 44.302885]}, {"name": "Spiaggia libera delle Fornaci", "text": "The Spiaggia libera delle Fornaci is one of Savona's most popular public beaches, well-regarded for its good infrastructure and inviting water quality. Swimmers will find optimal conditions here for a relaxing day along the Ligurian coast. The available amenities make this beach a highly suitable choice for families and anyone seeking a comfortable seaside retreat.", "category": "recreational", "coords": [8.469363, 44.298158]}, {"name": "Spiaggia libera", "text": "This simple, freely accessible stretch of coastline in Savona invites you to spend a peaceful day by the sea. Away from the commercialized beach clubs, the Spiaggia libera offers plenty of space for casual sunbathing on your own towel. It is the perfect spot to fully take in the gentle sound of the Ligurian waves.", "category": "recreational", "coords": [8.464198, 44.296215]}, {"name": "Lega Navale Italiana - Sezione di Albisola", "text": "A beach area near Albisola managed by the local section of the Italian Naval League.", "category": "recreational", "coords": [8.509499, 44.328527]}, {"name": "Associazione Nazionale Alpini", "text": "A historical site on the Priamar hill linked to the traditions of the Italian Alpine troops.", "category": "historical", "coords": [8.468111, 44.318933]}, {"name": "Tempietto Boselli", "text": "A small neoclassical pavilion standing as a decorative monument in the public gardens of Savona.", "category": "historical", "coords": [8.481535, 44.304393]}, {"name": "Parco giochi del Priamar", "text": "Parco giochi del Priamar in Savona offers children a fun play environment in a historical setting.", "category": "family", "coords": [8.48399, 44.3039]}, {"name": "Bowling Savona", "text": "Bowling Savona provides entertainment and various games for a fun family outing.", "category": "family", "coords": [8.471219, 44.303894]}, {"name": "Giardini principessa Mafalda di Savoia", "text": "Giardini principessa Mafalda di Savoia in Savona invites families to relax outdoors in its play area.", "category": "family", "coords": [8.4809, 44.302634]}, {"name": "Piazza Maestri dell'artigianato", "text": "Piazza Maestri dell'artigianato in Savona features a playground ideal for a break with children.", "category": "family", "coords": [8.474895, 44.302667]}, {"name": "Parco Giochi di Villa Faraggiana", "text": "Parco Giochi di Villa Faraggiana in Savona is a lovely spot for children to play in well-kept surroundings.", "category": "family", "coords": [8.503816, 44.33162]}]},
+    id: "italy-savona-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo d'arte di Palazzo Gavotti",
+                  "text": "Das Kunstmuseum im Palazzo Gavotti beherbergt bedeutende Sammlungen von Gemälden und Keramiken aus der Region Ligurien.",
+                  "category": "museum",
+                  "coords": [
+                        8.482513,
+                        44.308688
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "Die Pinacoteca Civica von Savona zeigt eine umfangreiche Sammlung sakraler Kunst und Meisterwerke lokaler Maler.",
+                  "category": "museum",
+                  "coords": [
+                        8.484112,
+                        44.309033
+                  ]
+            },
+            {
+                  "name": "Museo della Ceramica Giuseppe Mazzotti",
+                  "text": "Dieses Museum ist der langen Tradition der Keramikherstellung gewidmet und zeigt Werke der berühmten Manufaktur Giuseppe Mazzotti.",
+                  "category": "museum",
+                  "coords": [
+                        8.507999,
+                        44.329039
+                  ]
+            },
+            {
+                  "name": "Centro Esposizioni del MuDA",
+                  "text": "Das Ausstellungszentrum MuDA präsentiert zeitgenössische Kunst und kulturelle Projekte in der Stadt Savona.",
+                  "category": "museum",
+                  "coords": [
+                        8.501925,
+                        44.327811
+                  ]
+            },
+            {
+                  "name": "Villa Faraggiana",
+                  "text": "Die Villa Faraggiana ist ein prächtiges Beispiel barocker Architektur mit einem eleganten Garten und reich verzierten Innenräumen.",
+                  "category": "museum",
+                  "coords": [
+                        8.502569,
+                        44.331328
+                  ]
+            },
+            {
+                  "name": "All About Apple Museum",
+                  "text": "Dieses einzigartige Museum widmet sich der Geschichte der Firma Apple und zeigt eine der weltweit größten Sammlungen ihrer Produkte.",
+                  "category": "museum",
+                  "coords": [
+                        8.487288,
+                        44.309252
+                  ]
+            },
+            {
+                  "name": "Museo Storico Archeologico di Savona",
+                  "text": "Das Museum zeigt bedeutende archäologische Funde aus der Geschichte Savonas, die in der Festung Priamar untergebracht sind.",
+                  "category": "museum",
+                  "coords": [
+                        8.484855,
+                        44.30504
+                  ]
+            },
+            {
+                  "name": "Sito archeologico del Priamar",
+                  "text": "Die archäologische Ausgrabungsstätte auf dem Priamar-Hügel dokumentiert die Besiedlung des Ortes von der Antike bis zum Mittelalter.",
+                  "category": "historical",
+                  "coords": [
+                        8.483286,
+                        44.304933
+                  ]
+            },
+            {
+                  "name": "Castello Migliardi",
+                  "text": "Das Castello Migliardi, auch als Palazzo Imperiale bekannt, ist ein markantes historisches Bauwerk in der Architektur von Savona.",
+                  "category": "castle",
+                  "coords": [
+                        8.465572,
+                        44.321017
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale Gabriello Chiabrera",
+                  "text": "Dieses nach dem Dichter Gabriello Chiabrera benannte Stadttheater ist das wichtigste Opernhaus und Kulturzentrum von Savona.",
+                  "category": "cultural",
+                  "coords": [
+                        8.48148,
+                        44.310525
+                  ]
+            },
+            {
+                  "name": "Forte della Madonna degli Angeli",
+                  "text": "Das Forte della Madonna degli Angeli ist eine historische Festungsanlage, die auf einem Hügel über der Stadt Savona thront.",
+                  "category": "castle",
+                  "coords": [
+                        8.46078,
+                        44.313802
+                  ]
+            },
+            {
+                  "name": "Casa museo Asger Jorn",
+                  "text": "Das ehemalige Wohnhaus und Atelier des dänischen Künstlers Asger Jorn ist heute ein Museum für moderne Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        8.496138,
+                        44.329225
+                  ]
+            },
+            {
+                  "name": "Museo del Tesoro della Cattedrale",
+                  "text": "Das Museum bewahrt den wertvollen Domschatz und bedeutende religiöse Kunstwerke der Kathedrale von Savona auf.",
+                  "category": "museum",
+                  "coords": [
+                        8.482141,
+                        44.307334
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera \"Garibaldi\"",
+                  "text": "Die Spiaggia libera \"Garibaldi\" in Savona gewährt Besuchern einen ungehinderten und kostenfreien Zugang zum wunderschönen Ligurischen Meer. Dieser öffentliche Küstenstreifen ist ein wunderbarer Ort, um ganz unkompliziert die Seele baumeln zu lassen und im Meer zu baden. Für den besten Platz im Sand empfiehlt es sich, früh am Tag einzutreffen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.483835,
+                        44.302885
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera delle Fornaci",
+                  "text": "Die Spiaggia libera delle Fornaci zählt zu den beliebtesten öffentlichen Stränden in Savona, geschätzt für seine gute Infrastruktur und einladende Wasserqualität. Badegäste finden hier optimale Bedingungen für einen entspannten Tag an der ligurischen Küste vor. Die vorhandenen Annehmlichkeiten machen den Strand zu einem idealen Ziel für Familien und Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        8.469363,
+                        44.298158
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Dieser einfache, frei zugängliche Küstenstreifen in Savona lädt dazu ein, einen ruhigen Tag am Meer zu verbringen. Abseits der bewirtschafteten Lidos bietet die Spiaggia libera Platz für ein ungezwungenes Sonnenbad auf dem eigenen Handtuch. Es ist der perfekte Ort, um das sanfte Rauschen der ligurischen Wellen in vollen Zügen zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.464198,
+                        44.296215
+                  ]
+            },
+            {
+                  "name": "Lega Navale Italiana - Sezione di Albisola",
+                  "text": "Ein Strandbereich bei Albisola, der von der lokalen Sektion des italienischen Marineverbandes betreut wird.",
+                  "category": "recreational",
+                  "coords": [
+                        8.509499,
+                        44.328527
+                  ]
+            },
+            {
+                  "name": "Associazione Nazionale Alpini",
+                  "text": "Eine historische Stätte auf dem Priamar-Hügel, die mit der Tradition der italienischen Gebirgstruppen verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.468111,
+                        44.318933
+                  ]
+            },
+            {
+                  "name": "Tempietto Boselli",
+                  "text": "Ein kleiner neoklassizistischer Pavillon, der als Zierelement in den öffentlichen Gärten von Savona steht.",
+                  "category": "historical",
+                  "coords": [
+                        8.481535,
+                        44.304393
+                  ]
+            },
+            {
+                  "name": "Parco giochi del Priamar",
+                  "text": "Der Parco giochi del Priamar in Savona bietet Kindern eine unterhaltsame Spielumgebung in historischer Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.48399,
+                        44.3039
+                  ]
+            },
+            {
+                  "name": "Bowling Savona",
+                  "text": "Das Bowling Savona bietet Unterhaltung und verschiedene Spiele für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        8.471219,
+                        44.303894
+                  ]
+            },
+            {
+                  "name": "Giardini principessa Mafalda di Savoia",
+                  "text": "Die Giardini principessa Mafalda di Savoia in Savona laden Familien mit ihrem Spielbereich zum Verweilen im Grünen ein.",
+                  "category": "family",
+                  "coords": [
+                        8.4809,
+                        44.302634
+                  ]
+            },
+            {
+                  "name": "Piazza Maestri dell'artigianato",
+                  "text": "Die Piazza Maestri dell'artigianato in Savona verfügt über einen Spielplatz, der ideal für eine Pause mit Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        8.474895,
+                        44.302667
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di Villa Faraggiana",
+                  "text": "Der Parco Giochi di Villa Faraggiana in Savona ist ein schöner Ort für Kinder zum Spielen in einer gepflegten Anlage.",
+                  "category": "family",
+                  "coords": [
+                        8.503816,
+                        44.33162
+                  ]
+            },
+            {
+                  "name": "Piscina di Luceto",
+                  "text": "Piscina di Luceto in Savona bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        8.50182,
+                        44.342954
+                  ]
+            },
+            {
+                  "name": "Amatori Nuoto Savona",
+                  "text": "Amatori Nuoto Savona in Savona bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        8.451836,
+                        44.298231
+                  ]
+            },
+            {
+                  "name": "Bagni Sirena",
+                  "text": "Bagni Sirena in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.479155,
+                        44.301194
+                  ]
+            },
+            {
+                  "name": "Bagni Savona",
+                  "text": "Bagni Savona in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.482068,
+                        44.302526
+                  ]
+            },
+            {
+                  "name": "Bagni Nilo",
+                  "text": "Bagni Nilo in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.480219,
+                        44.301671
+                  ]
+            },
+            {
+                  "name": "Bau Bau village",
+                  "text": "Bau Bau village in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.500888,
+                        44.325476
+                  ]
+            },
+            {
+                  "name": "Bagni San Antonio",
+                  "text": "Bagni San Antonio in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.465555,
+                        44.296833
+                  ]
+            },
+            {
+                  "name": "Bagni Lido Azzurro",
+                  "text": "Bagni Lido Azzurro in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.519525,
+                        44.330087
+                  ]
+            },
+            {
+                  "name": "Ultima spiaggia",
+                  "text": "Ultima spiaggia in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.521224,
+                        44.330241
+                  ]
+            },
+            {
+                  "name": "Bagni Pescetto",
+                  "text": "Bagni Pescetto in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.516253,
+                        44.329629
+                  ]
+            },
+            {
+                  "name": "Bagni Moby Dick",
+                  "text": "Bagni Moby Dick in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.515249,
+                        44.329478
+                  ]
+            },
+            {
+                  "name": "Bagni Nettuno",
+                  "text": "Bagni Nettuno in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.504511,
+                        44.32726
+                  ]
+            },
+            {
+                  "name": "Bagni Ulisse",
+                  "text": "Bagni Ulisse in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.517733,
+                        44.329871
+                  ]
+            },
+            {
+                  "name": "Bagni Conchiglia",
+                  "text": "Bagni Conchiglia in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.51249,
+                        44.329133
+                  ]
+            },
+            {
+                  "name": "Bagni Sant'Antonio",
+                  "text": "Bagni Sant'Antonio in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.505896,
+                        44.327731
+                  ]
+            },
+            {
+                  "name": "Bagni Olimpia",
+                  "text": "Bagni Olimpia in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.472186,
+                        44.299126
+                  ]
+            },
+            {
+                  "name": "Bagni Cavour",
+                  "text": "Bagni Cavour in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.470617,
+                        44.298603
+                  ]
+            },
+            {
+                  "name": "Bagni Italia",
+                  "text": "Bagni Italia in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.467741,
+                        44.297668
+                  ]
+            },
+            {
+                  "name": "Bagni Barbadoro",
+                  "text": "Bagni Barbadoro in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.474823,
+                        44.299743
+                  ]
+            },
+            {
+                  "name": "Bagni Torino",
+                  "text": "Bagni Torino in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.473571,
+                        44.299434
+                  ]
+            },
+            {
+                  "name": "Bagni BagnArci",
+                  "text": "Bagni BagnArci in Savona ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.475864,
+                        44.299893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo d'arte di Palazzo Gavotti",
+                  "text": "A Palazzo Gavotti művészeti múzeuma jelentős liguriai festészeti és kerámiagyűjteményeknek ad otthont Savona szívében.",
+                  "category": "museum",
+                  "coords": [
+                        8.482513,
+                        44.308688
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "Savona városi képtára helyi festők remekműveit és vallási művészeti alkotások gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.484112,
+                        44.309033
+                  ]
+            },
+            {
+                  "name": "Museo della Ceramica Giuseppe Mazzotti",
+                  "text": "Ez a múzeum a kerámiagyártás hosszú hagyományának szentelt, és a híres Giuseppe Mazzotti manufaktúra munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.507999,
+                        44.329039
+                  ]
+            },
+            {
+                  "name": "Centro Esposizioni del MuDA",
+                  "text": "A MuDA kiállítókönypont kortárs művészeti alkotásokat és kulturális projekteket mutat be Savona városában.",
+                  "category": "museum",
+                  "coords": [
+                        8.501925,
+                        44.327811
+                  ]
+            },
+            {
+                  "name": "Villa Faraggiana",
+                  "text": "A Villa Faraggiana a barokk építészet pompás példája, elegáns kerttel és gazdagon díszített belső terekkel.",
+                  "category": "museum",
+                  "coords": [
+                        8.502569,
+                        44.331328
+                  ]
+            },
+            {
+                  "name": "All About Apple Museum",
+                  "text": "Ez az egyedülálló múzeum az Apple cég történetének szentelt, bemutatva termékeik egyik legnagyobb gyűjteményét a világon.",
+                  "category": "museum",
+                  "coords": [
+                        8.487288,
+                        44.309252
+                  ]
+            },
+            {
+                  "name": "Museo Storico Archeologico di Savona",
+                  "text": "A múzeum Savona történelmének jelentős régészeti leleteit mutatja be, amelyek a Priamar-erődben kaptak helyet.",
+                  "category": "museum",
+                  "coords": [
+                        8.484855,
+                        44.30504
+                  ]
+            },
+            {
+                  "name": "Sito archeologico del Priamar",
+                  "text": "A Priamar-dombon található régészeti lelőhely a település történetét dokumentálja az ókortól a középkorig.",
+                  "category": "historical",
+                  "coords": [
+                        8.483286,
+                        44.304933
+                  ]
+            },
+            {
+                  "name": "Castello Migliardi",
+                  "text": "A Castello Migliardi, más néven Palazzo Imperiale, Savona építészetének egyik jellegzetes történelmi épülete.",
+                  "category": "castle",
+                  "coords": [
+                        8.465572,
+                        44.321017
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale Gabriello Chiabrera",
+                  "text": "Ez a Gabriello Chiabrera költőről elnevezett városi színház Savona legfontosabb operaháza és kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        8.48148,
+                        44.310525
+                  ]
+            },
+            {
+                  "name": "Forte della Madonna degli Angeli",
+                  "text": "A Forte della Madonna degli Angeli egy történelmi erődítmény, amely a Savona városa feletti dombon magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        8.46078,
+                        44.313802
+                  ]
+            },
+            {
+                  "name": "Casa museo Asger Jorn",
+                  "text": "Asger Jorn dán művész egykori háza és műterme ma múzeumként mutatja be az alkotó munkásságát.",
+                  "category": "museum",
+                  "coords": [
+                        8.496138,
+                        44.329225
+                  ]
+            },
+            {
+                  "name": "Museo del Tesoro della Cattedrale",
+                  "text": "A múzeum a savona-i székesegyház értékes kincstárát és jelentős vallási műtárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        8.482141,
+                        44.307334
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera \"Garibaldi\"",
+                  "text": "A savonai Spiaggia libera \"Garibaldi\" akadálytalan és ingyenes hozzáférést biztosít a gyönyörű Ligur-tengerhez. Ez a nyilvános partszakasz nagyszerű helyszín arra, hogy egyszerűen csak élvezze a napsütést és a hűsítő hullámokat. Ha a legjobb helyet szeretné megszerezni a homokban, érdemes már a kora reggeli órákban kilátogatni.",
+                  "category": "recreational",
+                  "coords": [
+                        8.483835,
+                        44.302885
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera delle Fornaci",
+                  "text": "A Spiaggia libera delle Fornaci Savona egyik legnépszerűbb nyilvános strandja, amelyet jó infrastruktúrája és hívogató vízminősége tesz vonzóvá. A fürdőzők itt tökéletes körülményeket találnak egy nyugodt, liguriai tengerparti nap eltöltéséhez. A rendelkezésre álló kényelmi szolgáltatások miatt a partszakasz családok számára is kiváló választás.",
+                  "category": "recreational",
+                  "coords": [
+                        8.469363,
+                        44.298158
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Ez az egyszerű, szabadon látogatható savonai partszakasz egy békés tengerparti nap eltöltésére csábít. A kiépített strandoktól távol a Spiaggia libera elegendő teret ad egy kötetlen napozáshoz a saját törülközőjén. Ideális választás azoknak, akik zavartalanul szeretnék hallgatni a ligur-tengeri hullámok lágy morajlását.",
+                  "category": "recreational",
+                  "coords": [
+                        8.464198,
+                        44.296215
+                  ]
+            },
+            {
+                  "name": "Lega Navale Italiana - Sezione di Albisola",
+                  "text": "Albisola melletti partszakasz, amelyet az olasz tengerészeti szövetség helyi részlege üzemeltet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.509499,
+                        44.328527
+                  ]
+            },
+            {
+                  "name": "Associazione Nazionale Alpini",
+                  "text": "A Priamar-dombon található történelmi emlékhely, amely az olasz hegyi vadászok hagyományaival kapcsolatos.",
+                  "category": "historical",
+                  "coords": [
+                        8.468111,
+                        44.318933
+                  ]
+            },
+            {
+                  "name": "Tempietto Boselli",
+                  "text": "Savona nyilvános kertjében álló kis neoklasszicista pavilon, amely a város egyik díszes műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        8.481535,
+                        44.304393
+                  ]
+            },
+            {
+                  "name": "Parco giochi del Priamar",
+                  "text": "A savonai Parco giochi del Priamar szórakoztató játékkörnyezetet kínál a gyerekeknek történelmi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.48399,
+                        44.3039
+                  ]
+            },
+            {
+                  "name": "Bowling Savona",
+                  "text": "A Bowling Savona szórakozást és különféle játékokat kínál egy vidám családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.471219,
+                        44.303894
+                  ]
+            },
+            {
+                  "name": "Giardini principessa Mafalda di Savoia",
+                  "text": "A savonai Giardini principessa Mafalda di Savoia játszóterével hívja a családokat a zöldben való kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        8.4809,
+                        44.302634
+                  ]
+            },
+            {
+                  "name": "Piazza Maestri dell'artigianato",
+                  "text": "A savonai Piazza Maestri dell'artigianato játszótérrel rendelkezik, amely ideális egy kis szünetre a gyerekekkel.",
+                  "category": "family",
+                  "coords": [
+                        8.474895,
+                        44.302667
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di Villa Faraggiana",
+                  "text": "A savonai Parco Giochi di Villa Faraggiana szép hely a gyermekek számára a játékhoz egy gondozott környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.503816,
+                        44.33162
+                  ]
+            },
+            {
+                  "name": "Piscina di Luceto",
+                  "text": "A Piscina di Luceto Savona városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        8.50182,
+                        44.342954
+                  ]
+            },
+            {
+                  "name": "Amatori Nuoto Savona",
+                  "text": "A Amatori Nuoto Savona Savona városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        8.451836,
+                        44.298231
+                  ]
+            },
+            {
+                  "name": "Bagni Sirena",
+                  "text": "A Bagni Sirena egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.479155,
+                        44.301194
+                  ]
+            },
+            {
+                  "name": "Bagni Savona",
+                  "text": "A Bagni Savona egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.482068,
+                        44.302526
+                  ]
+            },
+            {
+                  "name": "Bagni Nilo",
+                  "text": "A Bagni Nilo egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.480219,
+                        44.301671
+                  ]
+            },
+            {
+                  "name": "Bau Bau village",
+                  "text": "A Bau Bau village egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.500888,
+                        44.325476
+                  ]
+            },
+            {
+                  "name": "Bagni San Antonio",
+                  "text": "A Bagni San Antonio egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.465555,
+                        44.296833
+                  ]
+            },
+            {
+                  "name": "Bagni Lido Azzurro",
+                  "text": "A Bagni Lido Azzurro egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.519525,
+                        44.330087
+                  ]
+            },
+            {
+                  "name": "Ultima spiaggia",
+                  "text": "A Ultima spiaggia egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.521224,
+                        44.330241
+                  ]
+            },
+            {
+                  "name": "Bagni Pescetto",
+                  "text": "A Bagni Pescetto egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.516253,
+                        44.329629
+                  ]
+            },
+            {
+                  "name": "Bagni Moby Dick",
+                  "text": "A Bagni Moby Dick egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.515249,
+                        44.329478
+                  ]
+            },
+            {
+                  "name": "Bagni Nettuno",
+                  "text": "A Bagni Nettuno egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.504511,
+                        44.32726
+                  ]
+            },
+            {
+                  "name": "Bagni Ulisse",
+                  "text": "A Bagni Ulisse egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.517733,
+                        44.329871
+                  ]
+            },
+            {
+                  "name": "Bagni Conchiglia",
+                  "text": "A Bagni Conchiglia egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.51249,
+                        44.329133
+                  ]
+            },
+            {
+                  "name": "Bagni Sant'Antonio",
+                  "text": "A Bagni Sant'Antonio egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.505896,
+                        44.327731
+                  ]
+            },
+            {
+                  "name": "Bagni Olimpia",
+                  "text": "A Bagni Olimpia egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.472186,
+                        44.299126
+                  ]
+            },
+            {
+                  "name": "Bagni Cavour",
+                  "text": "A Bagni Cavour egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.470617,
+                        44.298603
+                  ]
+            },
+            {
+                  "name": "Bagni Italia",
+                  "text": "A Bagni Italia egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.467741,
+                        44.297668
+                  ]
+            },
+            {
+                  "name": "Bagni Barbadoro",
+                  "text": "A Bagni Barbadoro egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.474823,
+                        44.299743
+                  ]
+            },
+            {
+                  "name": "Bagni Torino",
+                  "text": "A Bagni Torino egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.473571,
+                        44.299434
+                  ]
+            },
+            {
+                  "name": "Bagni BagnArci",
+                  "text": "A Bagni BagnArci egy strand Savona városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        8.475864,
+                        44.299893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo d'arte di Palazzo Gavotti",
+                  "text": "Muzeul de artă din Palazzo Gavotti adăpostește colecții importante de pictură și ceramică din regiunea Liguria.",
+                  "category": "museum",
+                  "coords": [
+                        8.482513,
+                        44.308688
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "Pinacoteca Civica din Savona prezintă o colecție vastă de artă sacră și capodopere ale pictorilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        8.484112,
+                        44.309033
+                  ]
+            },
+            {
+                  "name": "Museo della Ceramica Giuseppe Mazzotti",
+                  "text": "Acest muzeu este dedicat tradiției îndelungate a fabricării ceramicii, expunând lucrări ale celebrei manufacturi Giuseppe Mazzotti.",
+                  "category": "museum",
+                  "coords": [
+                        8.507999,
+                        44.329039
+                  ]
+            },
+            {
+                  "name": "Centro Esposizioni del MuDA",
+                  "text": "Centrul de expoziții MuDA prezintă artă contemporană și proiecte culturale în orașul Savona.",
+                  "category": "museum",
+                  "coords": [
+                        8.501925,
+                        44.327811
+                  ]
+            },
+            {
+                  "name": "Villa Faraggiana",
+                  "text": "Villa Faraggiana este un exemplu splendid de arhitectură barocă, cu o grădină elegantă și interioare bogat decorate.",
+                  "category": "museum",
+                  "coords": [
+                        8.502569,
+                        44.331328
+                  ]
+            },
+            {
+                  "name": "All About Apple Museum",
+                  "text": "Acest muzeu unic este dedicat istoriei companiei Apple, prezentând una dintre cele mai mari colecții de produse ale sale din lume.",
+                  "category": "museum",
+                  "coords": [
+                        8.487288,
+                        44.309252
+                  ]
+            },
+            {
+                  "name": "Museo Storico Archeologico di Savona",
+                  "text": "Muzeul prezintă descoperiri arheologice semnificative din istoria orașului Savona, fiind găzduit în fortăreața Priamar.",
+                  "category": "museum",
+                  "coords": [
+                        8.484855,
+                        44.30504
+                  ]
+            },
+            {
+                  "name": "Sito archeologico del Priamar",
+                  "text": "Situl arheologic de pe dealul Priamar documentează așezarea locului din antichitate până în Evul Mediu.",
+                  "category": "historical",
+                  "coords": [
+                        8.483286,
+                        44.304933
+                  ]
+            },
+            {
+                  "name": "Castello Migliardi",
+                  "text": "Castello Migliardi, cunoscut și sub numele de Palazzo Imperiale, este o structură istorică proeminentă în arhitectura orașului Savona.",
+                  "category": "castle",
+                  "coords": [
+                        8.465572,
+                        44.321017
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale Gabriello Chiabrera",
+                  "text": "Acest teatru comunal, numit după poetul Gabriello Chiabrera, este cea mai importantă operă și centru cultural din Savona.",
+                  "category": "cultural",
+                  "coords": [
+                        8.48148,
+                        44.310525
+                  ]
+            },
+            {
+                  "name": "Forte della Madonna degli Angeli",
+                  "text": "Forte della Madonna degli Angeli este o fortificație istorică situată pe un deal care domină orașul Savona.",
+                  "category": "castle",
+                  "coords": [
+                        8.46078,
+                        44.313802
+                  ]
+            },
+            {
+                  "name": "Casa museo Asger Jorn",
+                  "text": "Fosta casă și atelierul artistului danez Asger Jorn funcționează astăzi ca muzeu de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        8.496138,
+                        44.329225
+                  ]
+            },
+            {
+                  "name": "Museo del Tesoro della Cattedrale",
+                  "text": "Muzeul păstrează tezaurul valoros și obiecte importante de artă sacră ale catedralei din Savona.",
+                  "category": "museum",
+                  "coords": [
+                        8.482141,
+                        44.307334
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera \"Garibaldi\"",
+                  "text": "Spiaggia libera \"Garibaldi\" din Savona oferă acces gratuit și direct la minunata Mare Ligurică. Această fâșie publică de plajă este un loc minunat pentru a te relaxa pur și simplu și a te bucura de o baie în mare. Pentru a prinde cel mai bun loc pe nisip, este recomandat să ajungeți la primele ore ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        8.483835,
+                        44.302885
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera delle Fornaci",
+                  "text": "Spiaggia libera delle Fornaci este una dintre cele mai populare plaje publice din Savona, apreciată pentru calitatea apei și infrastructura bună. Vizitatorii găsesc aici condiții optime pentru a petrece o zi relaxantă pe coasta ligurică. Facilitățile excelente fac din această destinație un loc ideal pentru familii și pentru toți cei care caută odihnă.",
+                  "category": "recreational",
+                  "coords": [
+                        8.469363,
+                        44.298158
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Această fâșie de coastă cu acces liber din Savona vă invită să petreceți o zi liniștită pe malul mării. Departe de zonele comerciale amenajate, Spiaggia libera oferă spațiul perfect pentru a face plajă relaxat pe propriul prosop. Este locul ideal pentru a savura din plin murmurul blând al valurilor ligurice.",
+                  "category": "recreational",
+                  "coords": [
+                        8.464198,
+                        44.296215
+                  ]
+            },
+            {
+                  "name": "Lega Navale Italiana - Sezione di Albisola",
+                  "text": "O zonă de plajă lângă Albisola, gestionată de secția locală a Ligii Navale Italiene.",
+                  "category": "recreational",
+                  "coords": [
+                        8.509499,
+                        44.328527
+                  ]
+            },
+            {
+                  "name": "Associazione Nazionale Alpini",
+                  "text": "Un sit istoric situat pe dealul Priamar, legat de tradiția trupelor montane italiene.",
+                  "category": "historical",
+                  "coords": [
+                        8.468111,
+                        44.318933
+                  ]
+            },
+            {
+                  "name": "Tempietto Boselli",
+                  "text": "Un mic pavilion neoclasic situat în grădinile publice din Savona ca element decorativ istoric.",
+                  "category": "historical",
+                  "coords": [
+                        8.481535,
+                        44.304393
+                  ]
+            },
+            {
+                  "name": "Parco giochi del Priamar",
+                  "text": "Parco giochi del Priamar din Savona oferă copiilor un mediu de joacă distractiv într-un cadru istoric.",
+                  "category": "family",
+                  "coords": [
+                        8.48399,
+                        44.3039
+                  ]
+            },
+            {
+                  "name": "Bowling Savona",
+                  "text": "Bowling Savona oferă divertisment și diverse jocuri pentru o ieșire plăcută în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.471219,
+                        44.303894
+                  ]
+            },
+            {
+                  "name": "Giardini principessa Mafalda di Savoia",
+                  "text": "Giardini principessa Mafalda di Savoia din Savona invită familiile să se relaxeze în aer liber în zona sa de joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.4809,
+                        44.302634
+                  ]
+            },
+            {
+                  "name": "Piazza Maestri dell'artigianato",
+                  "text": "Piazza Maestri dell'artigianato din Savona are un teren de joacă ideal pentru o pauză cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        8.474895,
+                        44.302667
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di Villa Faraggiana",
+                  "text": "Parco Giochi di Villa Faraggiana din Savona este un loc frumos pentru joaca copiilor într-un cadru îngrijit.",
+                  "category": "family",
+                  "coords": [
+                        8.503816,
+                        44.33162
+                  ]
+            },
+            {
+                  "name": "Piscina di Luceto",
+                  "text": "Piscina di Luceto din Savona oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        8.50182,
+                        44.342954
+                  ]
+            },
+            {
+                  "name": "Amatori Nuoto Savona",
+                  "text": "Amatori Nuoto Savona din Savona oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        8.451836,
+                        44.298231
+                  ]
+            },
+            {
+                  "name": "Bagni Sirena",
+                  "text": "Bagni Sirena din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.479155,
+                        44.301194
+                  ]
+            },
+            {
+                  "name": "Bagni Savona",
+                  "text": "Bagni Savona din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.482068,
+                        44.302526
+                  ]
+            },
+            {
+                  "name": "Bagni Nilo",
+                  "text": "Bagni Nilo din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.480219,
+                        44.301671
+                  ]
+            },
+            {
+                  "name": "Bau Bau village",
+                  "text": "Bau Bau village din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.500888,
+                        44.325476
+                  ]
+            },
+            {
+                  "name": "Bagni San Antonio",
+                  "text": "Bagni San Antonio din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.465555,
+                        44.296833
+                  ]
+            },
+            {
+                  "name": "Bagni Lido Azzurro",
+                  "text": "Bagni Lido Azzurro din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.519525,
+                        44.330087
+                  ]
+            },
+            {
+                  "name": "Ultima spiaggia",
+                  "text": "Ultima spiaggia din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.521224,
+                        44.330241
+                  ]
+            },
+            {
+                  "name": "Bagni Pescetto",
+                  "text": "Bagni Pescetto din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.516253,
+                        44.329629
+                  ]
+            },
+            {
+                  "name": "Bagni Moby Dick",
+                  "text": "Bagni Moby Dick din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.515249,
+                        44.329478
+                  ]
+            },
+            {
+                  "name": "Bagni Nettuno",
+                  "text": "Bagni Nettuno din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.504511,
+                        44.32726
+                  ]
+            },
+            {
+                  "name": "Bagni Ulisse",
+                  "text": "Bagni Ulisse din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.517733,
+                        44.329871
+                  ]
+            },
+            {
+                  "name": "Bagni Conchiglia",
+                  "text": "Bagni Conchiglia din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.51249,
+                        44.329133
+                  ]
+            },
+            {
+                  "name": "Bagni Sant'Antonio",
+                  "text": "Bagni Sant'Antonio din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.505896,
+                        44.327731
+                  ]
+            },
+            {
+                  "name": "Bagni Olimpia",
+                  "text": "Bagni Olimpia din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.472186,
+                        44.299126
+                  ]
+            },
+            {
+                  "name": "Bagni Cavour",
+                  "text": "Bagni Cavour din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.470617,
+                        44.298603
+                  ]
+            },
+            {
+                  "name": "Bagni Italia",
+                  "text": "Bagni Italia din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.467741,
+                        44.297668
+                  ]
+            },
+            {
+                  "name": "Bagni Barbadoro",
+                  "text": "Bagni Barbadoro din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.474823,
+                        44.299743
+                  ]
+            },
+            {
+                  "name": "Bagni Torino",
+                  "text": "Bagni Torino din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.473571,
+                        44.299434
+                  ]
+            },
+            {
+                  "name": "Bagni BagnArci",
+                  "text": "Bagni BagnArci din Savona este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        8.475864,
+                        44.299893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo d'arte di Palazzo Gavotti",
+                  "text": "The art museum in Palazzo Gavotti houses significant collections of paintings and ceramics from the Liguria region.",
+                  "category": "museum",
+                  "coords": [
+                        8.482513,
+                        44.308688
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "The Pinacoteca Civica of Savona displays an extensive collection of sacred art and masterpieces by local painters.",
+                  "category": "museum",
+                  "coords": [
+                        8.484112,
+                        44.309033
+                  ]
+            },
+            {
+                  "name": "Museo della Ceramica Giuseppe Mazzotti",
+                  "text": "This museum is dedicated to the long tradition of ceramics manufacturing, showcasing works from the famous Giuseppe Mazzotti factory.",
+                  "category": "museum",
+                  "coords": [
+                        8.507999,
+                        44.329039
+                  ]
+            },
+            {
+                  "name": "Centro Esposizioni del MuDA",
+                  "text": "The MuDA exhibition center presents contemporary art and cultural projects in the city of Savona.",
+                  "category": "museum",
+                  "coords": [
+                        8.501925,
+                        44.327811
+                  ]
+            },
+            {
+                  "name": "Villa Faraggiana",
+                  "text": "Villa Faraggiana is a magnificent example of Baroque architecture with an elegant garden and richly decorated interiors.",
+                  "category": "museum",
+                  "coords": [
+                        8.502569,
+                        44.331328
+                  ]
+            },
+            {
+                  "name": "All About Apple Museum",
+                  "text": "This unique museum is dedicated to the history of the Apple company, showcasing one of the world's largest collections of its products.",
+                  "category": "museum",
+                  "coords": [
+                        8.487288,
+                        44.309252
+                  ]
+            },
+            {
+                  "name": "Museo Storico Archeologico di Savona",
+                  "text": "The museum displays significant archaeological finds from Savona's history, housed within the Priamar fortress.",
+                  "category": "museum",
+                  "coords": [
+                        8.484855,
+                        44.30504
+                  ]
+            },
+            {
+                  "name": "Sito archeologico del Priamar",
+                  "text": "The archaeological site on the Priamar hill documents the settlement of the area from antiquity to the Middle Ages.",
+                  "category": "historical",
+                  "coords": [
+                        8.483286,
+                        44.304933
+                  ]
+            },
+            {
+                  "name": "Castello Migliardi",
+                  "text": "Castello Migliardi, also known as Palazzo Imperiale, is a prominent historical structure in Savona's architecture.",
+                  "category": "castle",
+                  "coords": [
+                        8.465572,
+                        44.321017
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale Gabriello Chiabrera",
+                  "text": "This municipal theater, named after the poet Gabriello Chiabrera, is the most important opera house and cultural center of Savona.",
+                  "category": "cultural",
+                  "coords": [
+                        8.48148,
+                        44.310525
+                  ]
+            },
+            {
+                  "name": "Forte della Madonna degli Angeli",
+                  "text": "Forte della Madonna degli Angeli is a historical fortification perched on a hill overlooking the city of Savona.",
+                  "category": "castle",
+                  "coords": [
+                        8.46078,
+                        44.313802
+                  ]
+            },
+            {
+                  "name": "Casa museo Asger Jorn",
+                  "text": "The former home and studio of Danish artist Asger Jorn is now a museum dedicated to his work.",
+                  "category": "museum",
+                  "coords": [
+                        8.496138,
+                        44.329225
+                  ]
+            },
+            {
+                  "name": "Museo del Tesoro della Cattedrale",
+                  "text": "The museum preserves the valuable treasury and significant religious artworks of the Savona Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        8.482141,
+                        44.307334
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera \"Garibaldi\"",
+                  "text": "The Spiaggia libera \"Garibaldi\" in Savona provides visitors with completely free and easy access to the beautiful Ligurian Sea. This public stretch of coast is a wonderful spot to simply unwind and enjoy a refreshing swim. Arriving early in the day is recommended to claim the best spot on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        8.483835,
+                        44.302885
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera delle Fornaci",
+                  "text": "The Spiaggia libera delle Fornaci is one of Savona's most popular public beaches, well-regarded for its good infrastructure and inviting water quality. Swimmers will find optimal conditions here for a relaxing day along the Ligurian coast. The available amenities make this beach a highly suitable choice for families and anyone seeking a comfortable seaside retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        8.469363,
+                        44.298158
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "This simple, freely accessible stretch of coastline in Savona invites you to spend a peaceful day by the sea. Away from the commercialized beach clubs, the Spiaggia libera offers plenty of space for casual sunbathing on your own towel. It is the perfect spot to fully take in the gentle sound of the Ligurian waves.",
+                  "category": "recreational",
+                  "coords": [
+                        8.464198,
+                        44.296215
+                  ]
+            },
+            {
+                  "name": "Lega Navale Italiana - Sezione di Albisola",
+                  "text": "A beach area near Albisola managed by the local section of the Italian Naval League.",
+                  "category": "recreational",
+                  "coords": [
+                        8.509499,
+                        44.328527
+                  ]
+            },
+            {
+                  "name": "Associazione Nazionale Alpini",
+                  "text": "A historical site on the Priamar hill linked to the traditions of the Italian Alpine troops.",
+                  "category": "historical",
+                  "coords": [
+                        8.468111,
+                        44.318933
+                  ]
+            },
+            {
+                  "name": "Tempietto Boselli",
+                  "text": "A small neoclassical pavilion standing as a decorative monument in the public gardens of Savona.",
+                  "category": "historical",
+                  "coords": [
+                        8.481535,
+                        44.304393
+                  ]
+            },
+            {
+                  "name": "Parco giochi del Priamar",
+                  "text": "Parco giochi del Priamar in Savona offers children a fun play environment in a historical setting.",
+                  "category": "family",
+                  "coords": [
+                        8.48399,
+                        44.3039
+                  ]
+            },
+            {
+                  "name": "Bowling Savona",
+                  "text": "Bowling Savona provides entertainment and various games for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        8.471219,
+                        44.303894
+                  ]
+            },
+            {
+                  "name": "Giardini principessa Mafalda di Savoia",
+                  "text": "Giardini principessa Mafalda di Savoia in Savona invites families to relax outdoors in its play area.",
+                  "category": "family",
+                  "coords": [
+                        8.4809,
+                        44.302634
+                  ]
+            },
+            {
+                  "name": "Piazza Maestri dell'artigianato",
+                  "text": "Piazza Maestri dell'artigianato in Savona features a playground ideal for a break with children.",
+                  "category": "family",
+                  "coords": [
+                        8.474895,
+                        44.302667
+                  ]
+            },
+            {
+                  "name": "Parco Giochi di Villa Faraggiana",
+                  "text": "Parco Giochi di Villa Faraggiana in Savona is a lovely spot for children to play in well-kept surroundings.",
+                  "category": "family",
+                  "coords": [
+                        8.503816,
+                        44.33162
+                  ]
+            },
+            {
+                  "name": "Piscina di Luceto",
+                  "text": "Piscina di Luceto in Savona offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        8.50182,
+                        44.342954
+                  ]
+            },
+            {
+                  "name": "Amatori Nuoto Savona",
+                  "text": "Amatori Nuoto Savona in Savona offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        8.451836,
+                        44.298231
+                  ]
+            },
+            {
+                  "name": "Bagni Sirena",
+                  "text": "Bagni Sirena in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.479155,
+                        44.301194
+                  ]
+            },
+            {
+                  "name": "Bagni Savona",
+                  "text": "Bagni Savona in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.482068,
+                        44.302526
+                  ]
+            },
+            {
+                  "name": "Bagni Nilo",
+                  "text": "Bagni Nilo in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.480219,
+                        44.301671
+                  ]
+            },
+            {
+                  "name": "Bau Bau village",
+                  "text": "Bau Bau village in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.500888,
+                        44.325476
+                  ]
+            },
+            {
+                  "name": "Bagni San Antonio",
+                  "text": "Bagni San Antonio in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.465555,
+                        44.296833
+                  ]
+            },
+            {
+                  "name": "Bagni Lido Azzurro",
+                  "text": "Bagni Lido Azzurro in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.519525,
+                        44.330087
+                  ]
+            },
+            {
+                  "name": "Ultima spiaggia",
+                  "text": "Ultima spiaggia in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.521224,
+                        44.330241
+                  ]
+            },
+            {
+                  "name": "Bagni Pescetto",
+                  "text": "Bagni Pescetto in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.516253,
+                        44.329629
+                  ]
+            },
+            {
+                  "name": "Bagni Moby Dick",
+                  "text": "Bagni Moby Dick in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.515249,
+                        44.329478
+                  ]
+            },
+            {
+                  "name": "Bagni Nettuno",
+                  "text": "Bagni Nettuno in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.504511,
+                        44.32726
+                  ]
+            },
+            {
+                  "name": "Bagni Ulisse",
+                  "text": "Bagni Ulisse in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.517733,
+                        44.329871
+                  ]
+            },
+            {
+                  "name": "Bagni Conchiglia",
+                  "text": "Bagni Conchiglia in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.51249,
+                        44.329133
+                  ]
+            },
+            {
+                  "name": "Bagni Sant'Antonio",
+                  "text": "Bagni Sant'Antonio in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.505896,
+                        44.327731
+                  ]
+            },
+            {
+                  "name": "Bagni Olimpia",
+                  "text": "Bagni Olimpia in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.472186,
+                        44.299126
+                  ]
+            },
+            {
+                  "name": "Bagni Cavour",
+                  "text": "Bagni Cavour in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.470617,
+                        44.298603
+                  ]
+            },
+            {
+                  "name": "Bagni Italia",
+                  "text": "Bagni Italia in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.467741,
+                        44.297668
+                  ]
+            },
+            {
+                  "name": "Bagni Barbadoro",
+                  "text": "Bagni Barbadoro in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.474823,
+                        44.299743
+                  ]
+            },
+            {
+                  "name": "Bagni Torino",
+                  "text": "Bagni Torino in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.473571,
+                        44.299434
+                  ]
+            },
+            {
+                  "name": "Bagni BagnArci",
+                  "text": "Bagni BagnArci in Savona is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        8.475864,
+                        44.299893
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Savona", hu: "Savona", ro: "Savona", en: "Savona" },
@@ -16916,6 +21083,15 @@ export const italyCitiesV2: POI[] = [
                         9.275461,
                         45.580371
                   ]
+            },
+            {
+                  "name": "Monza Triante",
+                  "text": "Monza Triante in Monza. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        9.251551,
+                        45.57537
+                  ]
             }
       ],
       "hu": [
@@ -17070,6 +21246,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.275461,
                         45.580371
+                  ]
+            },
+            {
+                  "name": "Monza Triante",
+                  "text": "Monza Triante Monza területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        9.251551,
+                        45.57537
                   ]
             }
       ],
@@ -17226,6 +21411,15 @@ export const italyCitiesV2: POI[] = [
                         9.275461,
                         45.580371
                   ]
+            },
+            {
+                  "name": "Monza Triante",
+                  "text": "Monza Triante din Monza. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        9.251551,
+                        45.57537
+                  ]
             }
       ],
       "en": [
@@ -17381,6 +21575,15 @@ export const italyCitiesV2: POI[] = [
                         9.275461,
                         45.580371
                   ]
+            },
+            {
+                  "name": "Monza Triante",
+                  "text": "Monza Triante in Monza. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        9.251551,
+                        45.57537
+                  ]
             }
       ]
 },
@@ -17428,7 +21631,1384 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-monza-cities-v2.webp",
   },
   {
-    id: "italy-pescara-cities-v2", "sights": {"de": [{"name": "Museo Paparella Villa Urania", "text": "Das in einer Villa in Pescara untergebrachte Museum zeigt eine wertvolle Sammlung von Castelli-Keramiken aus dem 16. bis 19. Jahrhundert.", "category": "museum", "coords": [14.208275, 42.472578]}, {"name": "Museo casa natale di Gabriele d'Annunzio", "text": "Das Museum im Geburtshaus von Gabriele d'Annunzio in Pescara dokumentiert das Leben und die Werke des berühmten italienischen Dichters.", "category": "museum", "coords": [14.211932, 42.461152]}, {"name": "Museo delle Genti d'Abruzzo", "text": "Dieses ethnografische Museum in Pescara veranschaulicht die Geschichte, Bräuche und Traditionen der Menschen in der Region Abruzzen.", "category": "museum", "coords": [14.213127, 42.462034]}, {"name": "Imago Museum", "text": "Ein modernes Kunstmuseum im Zentrum von Pescara, das sich der Ausstellung zeitgenössischer Malerei und Fotografie widmet.", "category": "museum", "coords": [14.206431, 42.470032]}, {"name": "MediaMuseum", "text": "Ein Museum in Pescara, das sich der Geschichte des Kinos und der Multimedia-Kunst widmet.", "category": "museum", "coords": [14.214123, 42.459807]}, {"name": "Teatro D'Annunzio", "text": "Ein großes Open-Air-Theater in Pescara, das nach dem Dichter Gabriele D'Annunzio benannt ist.", "category": "cultural", "coords": [14.23488, 42.457345]}, {"name": "Museo Civico Basilio Cascella", "text": "Dieses Museum in Pescara zeigt Werke der Künstlerfamilie Cascella.", "category": "museum", "coords": [14.216841, 42.461741]}, {"name": "Museo del Mare", "text": "Ein Meeresmuseum in Pescara, das die lokale maritime Geschichte und Meeresfauna präsentiert.", "category": "museum", "coords": [14.221309, 42.466808]}, {"name": "CLAP Museum", "text": "Ein modernes Museum in Pescara, das sich auf Comics und grafische Kunst spezialisiert hat.", "category": "museum", "coords": [14.211927, 42.470321]}, {"name": "Trabocchi di Pescara", "text": "Traditionelle hölzerne Fischerplattformen an der Küste von Pescara, die heute als Sehenswürdigkeit dienen.", "category": "museum", "coords": [14.227913, 42.468899]}, {"name": "Santa Maria di Gerusalemme", "text": "Eine archäologische Stätte in Pescara mit den Überresten einer historischen religiösen Anlage.", "category": "historical", "coords": [14.212212, 42.460064]}, {"name": "Spiaggia libera", "text": "Die Spiaggia libera in Pescara bietet einen unkomplizierten, öffentlichen Zugang zur lebhaften Adriaküste. Hier kann man das italienische Strandleben in vollen Zügen genießen, sich im Meer erfrischen oder im Sand spazieren gehen. Wer an sonnigen Tagen ein ruhiges Plätzchen sucht, sollte am besten schon in den frühen Morgenstunden anreisen.", "category": "recreational", "coords": [14.211958, 42.474019]}, {"name": "Largo Monsignor Antonio Iannucci", "text": "Eine gepflegte Grünanlage und Platz in Pescara, benannt nach einem lokalen Bischof.", "category": "park", "coords": [14.20903, 42.465516]}, {"name": "Basilica della Madonna dei Sette Dolori", "text": "Eine bedeutende Wallfahrtskirche in Pescara, die der Muttergottes der sieben Schmerzen gewidmet ist.", "category": "religious", "coords": [14.181932, 42.468161]}], "hu": [{"name": "Museo Paparella Villa Urania", "text": "A pescarai villában működő múzeum értékes, 16. és 19. század közötti castelli kerámiagyűjteményt mutat be.", "category": "museum", "coords": [14.208275, 42.472578]}, {"name": "Museo casa natale di Gabriele d'Annunzio", "text": "Gabriele d'Annunzio pescarai szülőháza ma múzeum, amely a híres olasz költő életét és műveit dokumentálja.", "category": "museum", "coords": [14.211932, 42.461152]}, {"name": "Museo delle Genti d'Abruzzo", "text": "Ez a pescarai néprajzi múzeum az Abruzzo régió lakóinak történelmét, szokásait és hagyományait szemlélteti.", "category": "museum", "coords": [14.213127, 42.462034]}, {"name": "Imago Museum", "text": "Modern művészeti múzeum Pescara központjában, amely kortárs festmények és fotók bemutatására szakosodott.", "category": "museum", "coords": [14.206431, 42.470032]}, {"name": "MediaMuseum", "text": "Pescarai múzeum, amely a mozi és a multimédiás művészetek történetét mutatja be.", "category": "museum", "coords": [14.214123, 42.459807]}, {"name": "Teatro D'Annunzio", "text": "Pescarai szabadtéri színház, amelyet Gabriele D'Annunzio költőről neveztek el.", "category": "cultural", "coords": [14.23488, 42.457345]}, {"name": "Museo Civico Basilio Cascella", "text": "Pescarai múzeum, amely a Cascella művészcsalád alkotásait mutatja be.", "category": "museum", "coords": [14.216841, 42.461741]}, {"name": "Museo del Mare", "text": "Pescarai tengerészeti múzeum, amely a helyi tengeri életet és halászatot mutatja be.", "category": "museum", "coords": [14.221309, 42.466808]}, {"name": "CLAP Museum", "text": "Modern pescarai múzeum, amely a képregényekre és a grafikai művészetekre összpontosít.", "category": "museum", "coords": [14.211927, 42.470321]}, {"name": "Trabocchi di Pescara", "text": "Hagyományos halászépítmények Pescara partjainál, amelyek ma látványosságként szolgálnak.", "category": "museum", "coords": [14.227913, 42.468899]}, {"name": "Santa Maria di Gerusalemme", "text": "Pescarai régészeti lelőhely, amely egy történelmi vallási épületegyüttes maradványait őrzi.", "category": "historical", "coords": [14.212212, 42.460064]}, {"name": "Spiaggia libera", "text": "A pescarai Spiaggia libera egyszerű és nyilvános hozzáférést nyújt a nyüzsgő adriai partszakaszhoz. Itt mindenki kedvére élvezheti a hamisítatlan olasz tengerparti életérzést, úszhat egyet a tengerben, vagy sétálhat a homokban. Napsütéses napokon érdemes korán érkezni, hogy biztosan találjon egy kényelmes helyet a letelepedésre.", "category": "recreational", "coords": [14.211958, 42.474019]}, {"name": "Largo Monsignor Antonio Iannucci", "text": "Gondozott park és tér Pescarában, amelyet egy helyi püspökről neveztek el.", "category": "park", "coords": [14.20903, 42.465516]}, {"name": "Basilica della Madonna dei Sette Dolori", "text": "Jelentős pescarai bazilika, amelyet a Hétfájdalmú Szűzanyának szenteltek.", "category": "religious", "coords": [14.181932, 42.468161]}], "ro": [{"name": "Museo Paparella Villa Urania", "text": "Muzeul, găzduit într-o vilă din Pescara, expune o colecție valoroasă de ceramică de Castelli din secolele XVI-XIX.", "category": "museum", "coords": [14.208275, 42.472578]}, {"name": "Museo casa natale di Gabriele d'Annunzio", "text": "Muzeul din casa natală a lui Gabriele d'Annunzio din Pescara documentează viața și operele celebrului poet italian.", "category": "museum", "coords": [14.211932, 42.461152]}, {"name": "Museo delle Genti d'Abruzzo", "text": "Acest muzeu etnografic din Pescara ilustrează istoria, obiceiurile și tradițiile oamenilor din regiunea Abruzzo.", "category": "museum", "coords": [14.213127, 42.462034]}, {"name": "Imago Museum", "text": "Un muzeu de artă modernă din centrul orașului Pescara, dedicat expozițiilor de pictură și fotografie contemporană.", "category": "museum", "coords": [14.206431, 42.470032]}, {"name": "MediaMuseum", "text": "Un muzeu din Pescara dedicat istoriei cinematografiei și artelor multimedia.", "category": "museum", "coords": [14.214123, 42.459807]}, {"name": "Teatro D'Annunzio", "text": "Un mare teatru în aer liber din Pescara, numit după poetul Gabriele D'Annunzio.", "category": "cultural", "coords": [14.23488, 42.457345]}, {"name": "Museo Civico Basilio Cascella", "text": "Acest muzeu din Pescara expune lucrări ale familiei de artiști Cascella.", "category": "museum", "coords": [14.216841, 42.461741]}, {"name": "Museo del Mare", "text": "Un muzeu maritim din Pescara care prezintă istoria locală și fauna marină.", "category": "museum", "coords": [14.221309, 42.466808]}, {"name": "CLAP Museum", "text": "Un muzeu modern din Pescara specializat în benzi desenate și artă grafică.", "category": "museum", "coords": [14.211927, 42.470321]}, {"name": "Trabocchi di Pescara", "text": "Platforme tradiționale de pescuit din lemn pe coasta Pescarei, care servesc astăzi ca obiectiv turistic.", "category": "museum", "coords": [14.227913, 42.468899]}, {"name": "Santa Maria di Gerusalemme", "text": "Un sit arheologic din Pescara care conține resturile unui complex religios istoric.", "category": "historical", "coords": [14.212212, 42.460064]}, {"name": "Spiaggia libera", "text": "Spiaggia libera din Pescara oferă un acces public și necomplicat la vibranta coastă a Mării Adriatice. Aici puteți trăi din plin atmosfera plajelor italiene, fie că alegeți să înotați sau să vă plimbați pe nisip. În zilele însorite, cel mai bine este să sosiți devreme pentru a vă asigura un loc liniștit.", "category": "recreational", "coords": [14.211958, 42.474019]}, {"name": "Largo Monsignor Antonio Iannucci", "text": "O zonă verde îngrijită și piață din Pescara, numită după un episcop local.", "category": "park", "coords": [14.20903, 42.465516]}, {"name": "Basilica della Madonna dei Sette Dolori", "text": "O bazilică importantă din Pescara, dedicată Maicii Domnului a celor Șapte Dureri.", "category": "religious", "coords": [14.181932, 42.468161]}], "en": [{"name": "Museo Paparella Villa Urania", "text": "Housed in a villa in Pescara, the museum displays a valuable collection of Castelli ceramics from the 16th to 19th centuries.", "category": "museum", "coords": [14.208275, 42.472578]}, {"name": "Museo casa natale di Gabriele d'Annunzio", "text": "The museum in Gabriele d'Annunzio's birthplace in Pescara documents the life and works of the famous Italian poet.", "category": "museum", "coords": [14.211932, 42.461152]}, {"name": "Museo delle Genti d'Abruzzo", "text": "This ethnographic museum in Pescara illustrates the history, customs, and traditions of the people in the Abruzzo region.", "category": "museum", "coords": [14.213127, 42.462034]}, {"name": "Imago Museum", "text": "A modern art museum in the center of Pescara dedicated to exhibiting contemporary painting and photography.", "category": "museum", "coords": [14.206431, 42.470032]}, {"name": "MediaMuseum", "text": "A museum in Pescara dedicated to the history of cinema and multimedia arts.", "category": "museum", "coords": [14.214123, 42.459807]}, {"name": "Teatro D'Annunzio", "text": "A large open-air theatre in Pescara named after the poet Gabriele D'Annunzio.", "category": "cultural", "coords": [14.23488, 42.457345]}, {"name": "Museo Civico Basilio Cascella", "text": "This museum in Pescara displays works by the Cascella family of artists.", "category": "museum", "coords": [14.216841, 42.461741]}, {"name": "Museo del Mare", "text": "A maritime museum in Pescara showcasing local seafaring history and marine life.", "category": "museum", "coords": [14.221309, 42.466808]}, {"name": "CLAP Museum", "text": "A modern museum in Pescara specializing in comics and graphic arts.", "category": "museum", "coords": [14.211927, 42.470321]}, {"name": "Trabocchi di Pescara", "text": "Traditional wooden fishing platforms on the Pescara coast, now serving as a cultural sight.", "category": "museum", "coords": [14.227913, 42.468899]}, {"name": "Santa Maria di Gerusalemme", "text": "An archaeological site in Pescara featuring the remains of a historical religious complex.", "category": "historical", "coords": [14.212212, 42.460064]}, {"name": "Spiaggia libera", "text": "The Spiaggia libera in Pescara provides uncomplicated, public access to the lively Adriatic coastline. Here you can fully experience Italian beach culture, take a refreshing swim, or stroll along the sandy shore. On sunny days, it is best to arrive early in the morning to secure a comfortable spot for relaxation.", "category": "recreational", "coords": [14.211958, 42.474019]}, {"name": "Largo Monsignor Antonio Iannucci", "text": "A well-maintained green area and square in Pescara, named after a local bishop.", "category": "park", "coords": [14.20903, 42.465516]}, {"name": "Basilica della Madonna dei Sette Dolori", "text": "An important basilica in Pescara dedicated to Our Lady of Seven Sorrows.", "category": "religious", "coords": [14.181932, 42.468161]}]},
+    id: "italy-pescara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Paparella Villa Urania",
+                  "text": "Das in einer Villa in Pescara untergebrachte Museum zeigt eine wertvolle Sammlung von Castelli-Keramiken aus dem 16. bis 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        14.208275,
+                        42.472578
+                  ]
+            },
+            {
+                  "name": "Museo casa natale di Gabriele d'Annunzio",
+                  "text": "Das Museum im Geburtshaus von Gabriele d'Annunzio in Pescara dokumentiert das Leben und die Werke des berühmten italienischen Dichters.",
+                  "category": "museum",
+                  "coords": [
+                        14.211932,
+                        42.461152
+                  ]
+            },
+            {
+                  "name": "Museo delle Genti d'Abruzzo",
+                  "text": "Dieses ethnografische Museum in Pescara veranschaulicht die Geschichte, Bräuche und Traditionen der Menschen in der Region Abruzzen.",
+                  "category": "museum",
+                  "coords": [
+                        14.213127,
+                        42.462034
+                  ]
+            },
+            {
+                  "name": "Imago Museum",
+                  "text": "Ein modernes Kunstmuseum im Zentrum von Pescara, das sich der Ausstellung zeitgenössischer Malerei und Fotografie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.206431,
+                        42.470032
+                  ]
+            },
+            {
+                  "name": "MediaMuseum",
+                  "text": "Ein Museum in Pescara, das sich der Geschichte des Kinos und der Multimedia-Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.214123,
+                        42.459807
+                  ]
+            },
+            {
+                  "name": "Teatro D'Annunzio",
+                  "text": "Ein großes Open-Air-Theater in Pescara, das nach dem Dichter Gabriele D'Annunzio benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        14.23488,
+                        42.457345
+                  ]
+            },
+            {
+                  "name": "Museo Civico Basilio Cascella",
+                  "text": "Dieses Museum in Pescara zeigt Werke der Künstlerfamilie Cascella.",
+                  "category": "museum",
+                  "coords": [
+                        14.216841,
+                        42.461741
+                  ]
+            },
+            {
+                  "name": "Museo del Mare",
+                  "text": "Ein Meeresmuseum in Pescara, das die lokale maritime Geschichte und Meeresfauna präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.221309,
+                        42.466808
+                  ]
+            },
+            {
+                  "name": "CLAP Museum",
+                  "text": "Ein modernes Museum in Pescara, das sich auf Comics und grafische Kunst spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        14.211927,
+                        42.470321
+                  ]
+            },
+            {
+                  "name": "Trabocchi di Pescara",
+                  "text": "Traditionelle hölzerne Fischerplattformen an der Küste von Pescara, die heute als Sehenswürdigkeit dienen.",
+                  "category": "museum",
+                  "coords": [
+                        14.227913,
+                        42.468899
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Gerusalemme",
+                  "text": "Eine archäologische Stätte in Pescara mit den Überresten einer historischen religiösen Anlage.",
+                  "category": "historical",
+                  "coords": [
+                        14.212212,
+                        42.460064
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Die Spiaggia libera in Pescara bietet einen unkomplizierten, öffentlichen Zugang zur lebhaften Adriaküste. Hier kann man das italienische Strandleben in vollen Zügen genießen, sich im Meer erfrischen oder im Sand spazieren gehen. Wer an sonnigen Tagen ein ruhiges Plätzchen sucht, sollte am besten schon in den frühen Morgenstunden anreisen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.211958,
+                        42.474019
+                  ]
+            },
+            {
+                  "name": "Largo Monsignor Antonio Iannucci",
+                  "text": "Eine gepflegte Grünanlage und Platz in Pescara, benannt nach einem lokalen Bischof.",
+                  "category": "park",
+                  "coords": [
+                        14.20903,
+                        42.465516
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dei Sette Dolori",
+                  "text": "Eine bedeutende Wallfahrtskirche in Pescara, die der Muttergottes der sieben Schmerzen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.181932,
+                        42.468161
+                  ]
+            },
+            {
+                  "name": "Lido delle Sirene",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.239955,
+                        42.455065
+                  ]
+            },
+            {
+                  "name": "La Lampara",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.186102,
+                        42.493039
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.193192,
+                        42.486942
+                  ]
+            },
+            {
+                  "name": "Orsa Maggiore",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.196118,
+                        42.484117
+                  ]
+            },
+            {
+                  "name": "Stella Marina",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.189039,
+                        42.4905
+                  ]
+            },
+            {
+                  "name": "Le Antille",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.190121,
+                        42.489791
+                  ]
+            },
+            {
+                  "name": "Lido Pinalba",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.191405,
+                        42.488802
+                  ]
+            },
+            {
+                  "name": "San Marco",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.194057,
+                        42.485828
+                  ]
+            },
+            {
+                  "name": "Baia Papaya",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.194959,
+                        42.485492
+                  ]
+            },
+            {
+                  "name": "Calypso",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.200369,
+                        42.481255
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.202029,
+                        42.480098
+                  ]
+            },
+            {
+                  "name": "Plinius",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.205377,
+                        42.477788
+                  ]
+            },
+            {
+                  "name": "Nettuno",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.20681,
+                        42.476844
+                  ]
+            },
+            {
+                  "name": "Alcyone",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.20792,
+                        42.47614
+                  ]
+            },
+            {
+                  "name": "Saturno",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.20907,
+                        42.475276
+                  ]
+            },
+            {
+                  "name": "Lido Marechiaro",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.215896,
+                        42.471004
+                  ]
+            },
+            {
+                  "name": "La Capannina",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.221005,
+                        42.46806
+                  ]
+            },
+            {
+                  "name": "Lido Oriente",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.218868,
+                        42.469265
+                  ]
+            },
+            {
+                  "name": "Lido Bora Bora",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.24349,
+                        42.452411
+                  ]
+            },
+            {
+                  "name": "Stabilimento balneare Tartarughino",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.20429,
+                        42.478518
+                  ]
+            },
+            {
+                  "name": "La Prora Estatinfinite",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.21781,
+                        42.470103
+                  ]
+            },
+            {
+                  "name": "La Tramontana",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.214876,
+                        42.471598
+                  ]
+            },
+            {
+                  "name": "Lido L'Adriatica",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.213523,
+                        42.472398
+                  ]
+            },
+            {
+                  "name": "Lido Sabbia D'Oro Bau Miao Beach",
+                  "text": "Ein Strandbad in Pescara, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.253747,
+                        42.44473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Paparella Villa Urania",
+                  "text": "A pescarai villában működő múzeum értékes, 16. és 19. század közötti castelli kerámiagyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.208275,
+                        42.472578
+                  ]
+            },
+            {
+                  "name": "Museo casa natale di Gabriele d'Annunzio",
+                  "text": "Gabriele d'Annunzio pescarai szülőháza ma múzeum, amely a híres olasz költő életét és műveit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        14.211932,
+                        42.461152
+                  ]
+            },
+            {
+                  "name": "Museo delle Genti d'Abruzzo",
+                  "text": "Ez a pescarai néprajzi múzeum az Abruzzo régió lakóinak történelmét, szokásait és hagyományait szemlélteti.",
+                  "category": "museum",
+                  "coords": [
+                        14.213127,
+                        42.462034
+                  ]
+            },
+            {
+                  "name": "Imago Museum",
+                  "text": "Modern művészeti múzeum Pescara központjában, amely kortárs festmények és fotók bemutatására szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        14.206431,
+                        42.470032
+                  ]
+            },
+            {
+                  "name": "MediaMuseum",
+                  "text": "Pescarai múzeum, amely a mozi és a multimédiás művészetek történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.214123,
+                        42.459807
+                  ]
+            },
+            {
+                  "name": "Teatro D'Annunzio",
+                  "text": "Pescarai szabadtéri színház, amelyet Gabriele D'Annunzio költőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        14.23488,
+                        42.457345
+                  ]
+            },
+            {
+                  "name": "Museo Civico Basilio Cascella",
+                  "text": "Pescarai múzeum, amely a Cascella művészcsalád alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.216841,
+                        42.461741
+                  ]
+            },
+            {
+                  "name": "Museo del Mare",
+                  "text": "Pescarai tengerészeti múzeum, amely a helyi tengeri életet és halászatot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.221309,
+                        42.466808
+                  ]
+            },
+            {
+                  "name": "CLAP Museum",
+                  "text": "Modern pescarai múzeum, amely a képregényekre és a grafikai művészetekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        14.211927,
+                        42.470321
+                  ]
+            },
+            {
+                  "name": "Trabocchi di Pescara",
+                  "text": "Hagyományos halászépítmények Pescara partjainál, amelyek ma látványosságként szolgálnak.",
+                  "category": "museum",
+                  "coords": [
+                        14.227913,
+                        42.468899
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Gerusalemme",
+                  "text": "Pescarai régészeti lelőhely, amely egy történelmi vallási épületegyüttes maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        14.212212,
+                        42.460064
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "A pescarai Spiaggia libera egyszerű és nyilvános hozzáférést nyújt a nyüzsgő adriai partszakaszhoz. Itt mindenki kedvére élvezheti a hamisítatlan olasz tengerparti életérzést, úszhat egyet a tengerben, vagy sétálhat a homokban. Napsütéses napokon érdemes korán érkezni, hogy biztosan találjon egy kényelmes helyet a letelepedésre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.211958,
+                        42.474019
+                  ]
+            },
+            {
+                  "name": "Largo Monsignor Antonio Iannucci",
+                  "text": "Gondozott park és tér Pescarában, amelyet egy helyi püspökről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        14.20903,
+                        42.465516
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dei Sette Dolori",
+                  "text": "Jelentős pescarai bazilika, amelyet a Hétfájdalmú Szűzanyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.181932,
+                        42.468161
+                  ]
+            },
+            {
+                  "name": "Lido delle Sirene",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.239955,
+                        42.455065
+                  ]
+            },
+            {
+                  "name": "La Lampara",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.186102,
+                        42.493039
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.193192,
+                        42.486942
+                  ]
+            },
+            {
+                  "name": "Orsa Maggiore",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.196118,
+                        42.484117
+                  ]
+            },
+            {
+                  "name": "Stella Marina",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.189039,
+                        42.4905
+                  ]
+            },
+            {
+                  "name": "Le Antille",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.190121,
+                        42.489791
+                  ]
+            },
+            {
+                  "name": "Lido Pinalba",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.191405,
+                        42.488802
+                  ]
+            },
+            {
+                  "name": "San Marco",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.194057,
+                        42.485828
+                  ]
+            },
+            {
+                  "name": "Baia Papaya",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.194959,
+                        42.485492
+                  ]
+            },
+            {
+                  "name": "Calypso",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.200369,
+                        42.481255
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.202029,
+                        42.480098
+                  ]
+            },
+            {
+                  "name": "Plinius",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.205377,
+                        42.477788
+                  ]
+            },
+            {
+                  "name": "Nettuno",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.20681,
+                        42.476844
+                  ]
+            },
+            {
+                  "name": "Alcyone",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.20792,
+                        42.47614
+                  ]
+            },
+            {
+                  "name": "Saturno",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.20907,
+                        42.475276
+                  ]
+            },
+            {
+                  "name": "Lido Marechiaro",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.215896,
+                        42.471004
+                  ]
+            },
+            {
+                  "name": "La Capannina",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.221005,
+                        42.46806
+                  ]
+            },
+            {
+                  "name": "Lido Oriente",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.218868,
+                        42.469265
+                  ]
+            },
+            {
+                  "name": "Lido Bora Bora",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.24349,
+                        42.452411
+                  ]
+            },
+            {
+                  "name": "Stabilimento balneare Tartarughino",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.20429,
+                        42.478518
+                  ]
+            },
+            {
+                  "name": "La Prora Estatinfinite",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.21781,
+                        42.470103
+                  ]
+            },
+            {
+                  "name": "La Tramontana",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.214876,
+                        42.471598
+                  ]
+            },
+            {
+                  "name": "Lido L'Adriatica",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.213523,
+                        42.472398
+                  ]
+            },
+            {
+                  "name": "Lido Sabbia D'Oro Bau Miao Beach",
+                  "text": "Tengerparti üdülőhely Pescara városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        14.253747,
+                        42.44473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Paparella Villa Urania",
+                  "text": "Muzeul, găzduit într-o vilă din Pescara, expune o colecție valoroasă de ceramică de Castelli din secolele XVI-XIX.",
+                  "category": "museum",
+                  "coords": [
+                        14.208275,
+                        42.472578
+                  ]
+            },
+            {
+                  "name": "Museo casa natale di Gabriele d'Annunzio",
+                  "text": "Muzeul din casa natală a lui Gabriele d'Annunzio din Pescara documentează viața și operele celebrului poet italian.",
+                  "category": "museum",
+                  "coords": [
+                        14.211932,
+                        42.461152
+                  ]
+            },
+            {
+                  "name": "Museo delle Genti d'Abruzzo",
+                  "text": "Acest muzeu etnografic din Pescara ilustrează istoria, obiceiurile și tradițiile oamenilor din regiunea Abruzzo.",
+                  "category": "museum",
+                  "coords": [
+                        14.213127,
+                        42.462034
+                  ]
+            },
+            {
+                  "name": "Imago Museum",
+                  "text": "Un muzeu de artă modernă din centrul orașului Pescara, dedicat expozițiilor de pictură și fotografie contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        14.206431,
+                        42.470032
+                  ]
+            },
+            {
+                  "name": "MediaMuseum",
+                  "text": "Un muzeu din Pescara dedicat istoriei cinematografiei și artelor multimedia.",
+                  "category": "museum",
+                  "coords": [
+                        14.214123,
+                        42.459807
+                  ]
+            },
+            {
+                  "name": "Teatro D'Annunzio",
+                  "text": "Un mare teatru în aer liber din Pescara, numit după poetul Gabriele D'Annunzio.",
+                  "category": "cultural",
+                  "coords": [
+                        14.23488,
+                        42.457345
+                  ]
+            },
+            {
+                  "name": "Museo Civico Basilio Cascella",
+                  "text": "Acest muzeu din Pescara expune lucrări ale familiei de artiști Cascella.",
+                  "category": "museum",
+                  "coords": [
+                        14.216841,
+                        42.461741
+                  ]
+            },
+            {
+                  "name": "Museo del Mare",
+                  "text": "Un muzeu maritim din Pescara care prezintă istoria locală și fauna marină.",
+                  "category": "museum",
+                  "coords": [
+                        14.221309,
+                        42.466808
+                  ]
+            },
+            {
+                  "name": "CLAP Museum",
+                  "text": "Un muzeu modern din Pescara specializat în benzi desenate și artă grafică.",
+                  "category": "museum",
+                  "coords": [
+                        14.211927,
+                        42.470321
+                  ]
+            },
+            {
+                  "name": "Trabocchi di Pescara",
+                  "text": "Platforme tradiționale de pescuit din lemn pe coasta Pescarei, care servesc astăzi ca obiectiv turistic.",
+                  "category": "museum",
+                  "coords": [
+                        14.227913,
+                        42.468899
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Gerusalemme",
+                  "text": "Un sit arheologic din Pescara care conține resturile unui complex religios istoric.",
+                  "category": "historical",
+                  "coords": [
+                        14.212212,
+                        42.460064
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Spiaggia libera din Pescara oferă un acces public și necomplicat la vibranta coastă a Mării Adriatice. Aici puteți trăi din plin atmosfera plajelor italiene, fie că alegeți să înotați sau să vă plimbați pe nisip. În zilele însorite, cel mai bine este să sosiți devreme pentru a vă asigura un loc liniștit.",
+                  "category": "recreational",
+                  "coords": [
+                        14.211958,
+                        42.474019
+                  ]
+            },
+            {
+                  "name": "Largo Monsignor Antonio Iannucci",
+                  "text": "O zonă verde îngrijită și piață din Pescara, numită după un episcop local.",
+                  "category": "park",
+                  "coords": [
+                        14.20903,
+                        42.465516
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dei Sette Dolori",
+                  "text": "O bazilică importantă din Pescara, dedicată Maicii Domnului a celor Șapte Dureri.",
+                  "category": "religious",
+                  "coords": [
+                        14.181932,
+                        42.468161
+                  ]
+            },
+            {
+                  "name": "Lido delle Sirene",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.239955,
+                        42.455065
+                  ]
+            },
+            {
+                  "name": "La Lampara",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.186102,
+                        42.493039
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.193192,
+                        42.486942
+                  ]
+            },
+            {
+                  "name": "Orsa Maggiore",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.196118,
+                        42.484117
+                  ]
+            },
+            {
+                  "name": "Stella Marina",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.189039,
+                        42.4905
+                  ]
+            },
+            {
+                  "name": "Le Antille",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.190121,
+                        42.489791
+                  ]
+            },
+            {
+                  "name": "Lido Pinalba",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.191405,
+                        42.488802
+                  ]
+            },
+            {
+                  "name": "San Marco",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.194057,
+                        42.485828
+                  ]
+            },
+            {
+                  "name": "Baia Papaya",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.194959,
+                        42.485492
+                  ]
+            },
+            {
+                  "name": "Calypso",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.200369,
+                        42.481255
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.202029,
+                        42.480098
+                  ]
+            },
+            {
+                  "name": "Plinius",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.205377,
+                        42.477788
+                  ]
+            },
+            {
+                  "name": "Nettuno",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.20681,
+                        42.476844
+                  ]
+            },
+            {
+                  "name": "Alcyone",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.20792,
+                        42.47614
+                  ]
+            },
+            {
+                  "name": "Saturno",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.20907,
+                        42.475276
+                  ]
+            },
+            {
+                  "name": "Lido Marechiaro",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.215896,
+                        42.471004
+                  ]
+            },
+            {
+                  "name": "La Capannina",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.221005,
+                        42.46806
+                  ]
+            },
+            {
+                  "name": "Lido Oriente",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.218868,
+                        42.469265
+                  ]
+            },
+            {
+                  "name": "Lido Bora Bora",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.24349,
+                        42.452411
+                  ]
+            },
+            {
+                  "name": "Stabilimento balneare Tartarughino",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.20429,
+                        42.478518
+                  ]
+            },
+            {
+                  "name": "La Prora Estatinfinite",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.21781,
+                        42.470103
+                  ]
+            },
+            {
+                  "name": "La Tramontana",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.214876,
+                        42.471598
+                  ]
+            },
+            {
+                  "name": "Lido L'Adriatica",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.213523,
+                        42.472398
+                  ]
+            },
+            {
+                  "name": "Lido Sabbia D'Oro Bau Miao Beach",
+                  "text": "O stațiune de plajă în Pescara care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        14.253747,
+                        42.44473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Paparella Villa Urania",
+                  "text": "Housed in a villa in Pescara, the museum displays a valuable collection of Castelli ceramics from the 16th to 19th centuries.",
+                  "category": "museum",
+                  "coords": [
+                        14.208275,
+                        42.472578
+                  ]
+            },
+            {
+                  "name": "Museo casa natale di Gabriele d'Annunzio",
+                  "text": "The museum in Gabriele d'Annunzio's birthplace in Pescara documents the life and works of the famous Italian poet.",
+                  "category": "museum",
+                  "coords": [
+                        14.211932,
+                        42.461152
+                  ]
+            },
+            {
+                  "name": "Museo delle Genti d'Abruzzo",
+                  "text": "This ethnographic museum in Pescara illustrates the history, customs, and traditions of the people in the Abruzzo region.",
+                  "category": "museum",
+                  "coords": [
+                        14.213127,
+                        42.462034
+                  ]
+            },
+            {
+                  "name": "Imago Museum",
+                  "text": "A modern art museum in the center of Pescara dedicated to exhibiting contemporary painting and photography.",
+                  "category": "museum",
+                  "coords": [
+                        14.206431,
+                        42.470032
+                  ]
+            },
+            {
+                  "name": "MediaMuseum",
+                  "text": "A museum in Pescara dedicated to the history of cinema and multimedia arts.",
+                  "category": "museum",
+                  "coords": [
+                        14.214123,
+                        42.459807
+                  ]
+            },
+            {
+                  "name": "Teatro D'Annunzio",
+                  "text": "A large open-air theatre in Pescara named after the poet Gabriele D'Annunzio.",
+                  "category": "cultural",
+                  "coords": [
+                        14.23488,
+                        42.457345
+                  ]
+            },
+            {
+                  "name": "Museo Civico Basilio Cascella",
+                  "text": "This museum in Pescara displays works by the Cascella family of artists.",
+                  "category": "museum",
+                  "coords": [
+                        14.216841,
+                        42.461741
+                  ]
+            },
+            {
+                  "name": "Museo del Mare",
+                  "text": "A maritime museum in Pescara showcasing local seafaring history and marine life.",
+                  "category": "museum",
+                  "coords": [
+                        14.221309,
+                        42.466808
+                  ]
+            },
+            {
+                  "name": "CLAP Museum",
+                  "text": "A modern museum in Pescara specializing in comics and graphic arts.",
+                  "category": "museum",
+                  "coords": [
+                        14.211927,
+                        42.470321
+                  ]
+            },
+            {
+                  "name": "Trabocchi di Pescara",
+                  "text": "Traditional wooden fishing platforms on the Pescara coast, now serving as a cultural sight.",
+                  "category": "museum",
+                  "coords": [
+                        14.227913,
+                        42.468899
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Gerusalemme",
+                  "text": "An archaeological site in Pescara featuring the remains of a historical religious complex.",
+                  "category": "historical",
+                  "coords": [
+                        14.212212,
+                        42.460064
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "The Spiaggia libera in Pescara provides uncomplicated, public access to the lively Adriatic coastline. Here you can fully experience Italian beach culture, take a refreshing swim, or stroll along the sandy shore. On sunny days, it is best to arrive early in the morning to secure a comfortable spot for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.211958,
+                        42.474019
+                  ]
+            },
+            {
+                  "name": "Largo Monsignor Antonio Iannucci",
+                  "text": "A well-maintained green area and square in Pescara, named after a local bishop.",
+                  "category": "park",
+                  "coords": [
+                        14.20903,
+                        42.465516
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dei Sette Dolori",
+                  "text": "An important basilica in Pescara dedicated to Our Lady of Seven Sorrows.",
+                  "category": "religious",
+                  "coords": [
+                        14.181932,
+                        42.468161
+                  ]
+            },
+            {
+                  "name": "Lido delle Sirene",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.239955,
+                        42.455065
+                  ]
+            },
+            {
+                  "name": "La Lampara",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.186102,
+                        42.493039
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.193192,
+                        42.486942
+                  ]
+            },
+            {
+                  "name": "Orsa Maggiore",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.196118,
+                        42.484117
+                  ]
+            },
+            {
+                  "name": "Stella Marina",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.189039,
+                        42.4905
+                  ]
+            },
+            {
+                  "name": "Le Antille",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.190121,
+                        42.489791
+                  ]
+            },
+            {
+                  "name": "Lido Pinalba",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.191405,
+                        42.488802
+                  ]
+            },
+            {
+                  "name": "San Marco",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.194057,
+                        42.485828
+                  ]
+            },
+            {
+                  "name": "Baia Papaya",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.194959,
+                        42.485492
+                  ]
+            },
+            {
+                  "name": "Calypso",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.200369,
+                        42.481255
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.202029,
+                        42.480098
+                  ]
+            },
+            {
+                  "name": "Plinius",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.205377,
+                        42.477788
+                  ]
+            },
+            {
+                  "name": "Nettuno",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.20681,
+                        42.476844
+                  ]
+            },
+            {
+                  "name": "Alcyone",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.20792,
+                        42.47614
+                  ]
+            },
+            {
+                  "name": "Saturno",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.20907,
+                        42.475276
+                  ]
+            },
+            {
+                  "name": "Lido Marechiaro",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.215896,
+                        42.471004
+                  ]
+            },
+            {
+                  "name": "La Capannina",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.221005,
+                        42.46806
+                  ]
+            },
+            {
+                  "name": "Lido Oriente",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.218868,
+                        42.469265
+                  ]
+            },
+            {
+                  "name": "Lido Bora Bora",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.24349,
+                        42.452411
+                  ]
+            },
+            {
+                  "name": "Stabilimento balneare Tartarughino",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.20429,
+                        42.478518
+                  ]
+            },
+            {
+                  "name": "La Prora Estatinfinite",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.21781,
+                        42.470103
+                  ]
+            },
+            {
+                  "name": "La Tramontana",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.214876,
+                        42.471598
+                  ]
+            },
+            {
+                  "name": "Lido L'Adriatica",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.213523,
+                        42.472398
+                  ]
+            },
+            {
+                  "name": "Lido Sabbia D'Oro Bau Miao Beach",
+                  "text": "A beach resort in Pescara providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        14.253747,
+                        42.44473
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pescara", hu: "Pescara", ro: "Pescara", en: "Pescara" },
@@ -17798,6 +23378,33 @@ export const italyCitiesV2: POI[] = [
                         9.058439,
                         45.800401
                   ]
+            },
+            {
+                  "name": "Piscina Olimpionica Muggiò",
+                  "text": "Piscina Olimpionica Muggiò in Como bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        9.087264,
+                        45.784722
+                  ]
+            },
+            {
+                  "name": "Lido di Villa Olmo",
+                  "text": "Lido di Villa Olmo in Como ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.066713,
+                        45.820205
+                  ]
+            },
+            {
+                  "name": "Piscina Sinigaglia",
+                  "text": "Piscina Sinigaglia in Como bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        9.071847,
+                        45.813202
+                  ]
             }
       ],
       "hu": [
@@ -18123,6 +23730,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.058439,
                         45.800401
+                  ]
+            },
+            {
+                  "name": "Piscina Olimpionica Muggiò",
+                  "text": "A Piscina Olimpionica Muggiò Como városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        9.087264,
+                        45.784722
+                  ]
+            },
+            {
+                  "name": "Lido di Villa Olmo",
+                  "text": "A Lido di Villa Olmo egy strand Como városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        9.066713,
+                        45.820205
+                  ]
+            },
+            {
+                  "name": "Piscina Sinigaglia",
+                  "text": "A Piscina Sinigaglia Como városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        9.071847,
+                        45.813202
                   ]
             }
       ],
@@ -18450,6 +24084,33 @@ export const italyCitiesV2: POI[] = [
                         9.058439,
                         45.800401
                   ]
+            },
+            {
+                  "name": "Piscina Olimpionica Muggiò",
+                  "text": "Piscina Olimpionica Muggiò din Como oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        9.087264,
+                        45.784722
+                  ]
+            },
+            {
+                  "name": "Lido di Villa Olmo",
+                  "text": "Lido di Villa Olmo din Como este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        9.066713,
+                        45.820205
+                  ]
+            },
+            {
+                  "name": "Piscina Sinigaglia",
+                  "text": "Piscina Sinigaglia din Como oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        9.071847,
+                        45.813202
+                  ]
             }
       ],
       "en": [
@@ -18776,6 +24437,33 @@ export const italyCitiesV2: POI[] = [
                         9.058439,
                         45.800401
                   ]
+            },
+            {
+                  "name": "Piscina Olimpionica Muggiò",
+                  "text": "Piscina Olimpionica Muggiò in Como offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        9.087264,
+                        45.784722
+                  ]
+            },
+            {
+                  "name": "Lido di Villa Olmo",
+                  "text": "Lido di Villa Olmo in Como is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        9.066713,
+                        45.820205
+                  ]
+            },
+            {
+                  "name": "Piscina Sinigaglia",
+                  "text": "Piscina Sinigaglia in Como offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        9.071847,
+                        45.813202
+                  ]
             }
       ]
 },
@@ -18923,6 +24611,24 @@ export const italyCitiesV2: POI[] = [
                         13.731166,
                         43.154815
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Piscina Comunale in Fermo. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        13.701944,
+                        43.163739
+                  ]
+            },
+            {
+                  "name": "Piscina privata abusiva, accatastata come deposito acque pluvie per irrigazione",
+                  "text": "Piscina privata abusiva, accatastata come deposito acque pluvie per irrigazione in Fermo. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        13.748108,
+                        43.152276
+                  ]
             }
       ],
       "hu": [
@@ -19023,6 +24729,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.731166,
                         43.154815
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Piscina Comunale Fermo területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        13.701944,
+                        43.163739
+                  ]
+            },
+            {
+                  "name": "Piscina privata abusiva, accatastata come deposito acque pluvie per irrigazione",
+                  "text": "Piscina privata abusiva, accatastata come deposito acque pluvie per irrigazione Fermo területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        13.748108,
+                        43.152276
                   ]
             }
       ],
@@ -19125,6 +24849,24 @@ export const italyCitiesV2: POI[] = [
                         13.731166,
                         43.154815
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Piscina Comunale din Fermo. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        13.701944,
+                        43.163739
+                  ]
+            },
+            {
+                  "name": "Piscina privata abusiva, accatastata come deposito acque pluvie per irrigazione",
+                  "text": "Piscina privata abusiva, accatastata come deposito acque pluvie per irrigazione din Fermo. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        13.748108,
+                        43.152276
+                  ]
             }
       ],
       "en": [
@@ -19225,6 +24967,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.731166,
                         43.154815
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Piscina Comunale in Fermo. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        13.701944,
+                        43.163739
+                  ]
+            },
+            {
+                  "name": "Piscina privata abusiva, accatastata come deposito acque pluvie per irrigazione",
+                  "text": "Piscina privata abusiva, accatastata come deposito acque pluvie per irrigazione in Fermo. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        13.748108,
+                        43.152276
                   ]
             }
       ]
@@ -19769,6 +25529,15 @@ export const italyCitiesV2: POI[] = [
                         13.709409,
                         42.655649
                   ]
+            },
+            {
+                  "name": "Piscina comunale scoperta",
+                  "text": "Piscina comunale scoperta in Teramo bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        13.714312,
+                        42.658048
+                  ]
             }
       ],
       "hu": [
@@ -19923,6 +25692,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.709409,
                         42.655649
+                  ]
+            },
+            {
+                  "name": "Piscina comunale scoperta",
+                  "text": "A Piscina comunale scoperta Teramo városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        13.714312,
+                        42.658048
                   ]
             }
       ],
@@ -20079,6 +25857,15 @@ export const italyCitiesV2: POI[] = [
                         13.709409,
                         42.655649
                   ]
+            },
+            {
+                  "name": "Piscina comunale scoperta",
+                  "text": "Piscina comunale scoperta din Teramo oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        13.714312,
+                        42.658048
+                  ]
             }
       ],
       "en": [
@@ -20233,6 +26020,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.709409,
                         42.655649
+                  ]
+            },
+            {
+                  "name": "Piscina comunale scoperta",
+                  "text": "Piscina comunale scoperta in Teramo offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        13.714312,
+                        42.658048
                   ]
             }
       ]
@@ -20417,6 +26213,15 @@ export const italyCitiesV2: POI[] = [
                         7.679122,
                         44.693657
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Ein öffentliches Schwimmbad in Savigliano, das Platz zum Schwimmen und zur Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.650421,
+                        44.640364
+                  ]
             }
       ],
       "hu": [
@@ -20463,6 +26268,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         7.679122,
                         44.693657
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Nyilvános úszómedence Savigliano területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        7.650421,
+                        44.640364
                   ]
             }
       ],
@@ -20511,6 +26325,15 @@ export const italyCitiesV2: POI[] = [
                         7.679122,
                         44.693657
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "O piscină publică în Savigliano care oferă spațiu pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        7.650421,
+                        44.640364
+                  ]
             }
       ],
       "en": [
@@ -20557,6 +26380,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         7.679122,
                         44.693657
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "A public swimming pool in Savigliano offering space for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        7.650421,
+                        44.640364
                   ]
             }
       ]
@@ -20714,6 +26546,15 @@ export const italyCitiesV2: POI[] = [
                         12.199865,
                         45.68604
                   ]
+            },
+            {
+                  "name": "Piscine Comunali di Selvana",
+                  "text": "Piscine Comunali di Selvana in Treviso bietet Schwimmbecken für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        12.268947,
+                        45.670431
+                  ]
             }
       ],
       "hu": [
@@ -20823,6 +26664,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.199865,
                         45.68604
+                  ]
+            },
+            {
+                  "name": "Piscine Comunali di Selvana",
+                  "text": "A Piscine Comunali di Selvana Treviso városában úszási lehetőséget biztosít minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        12.268947,
+                        45.670431
                   ]
             }
       ],
@@ -20934,6 +26784,15 @@ export const italyCitiesV2: POI[] = [
                         12.199865,
                         45.68604
                   ]
+            },
+            {
+                  "name": "Piscine Comunali di Selvana",
+                  "text": "Piscine Comunali di Selvana din Treviso oferă facilități de înot pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        12.268947,
+                        45.670431
+                  ]
             }
       ],
       "en": [
@@ -21043,6 +26902,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.199865,
                         45.68604
+                  ]
+            },
+            {
+                  "name": "Piscine Comunali di Selvana",
+                  "text": "Piscine Comunali di Selvana in Treviso offers swimming facilities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        12.268947,
+                        45.670431
                   ]
             }
       ]
@@ -22243,7 +28111,1816 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-pavia-cities-v2.webp",
   },
   {
-    id: "italy-pesaro-cities-v2", "sights": {"de": [{"name": "Museo della marineria Washington Patrignani", "text": "Das Schifffahrtsmuseum in Pesaro dokumentiert die maritime Geschichte und Fischereitradition der Region Marken.", "category": "museum", "coords": [12.908936, 43.916237]}, {"name": "Lucus Pisaurensis", "text": "Diese antike Ausgrabungsstätte bei Pesaro war ein heiliger Hain, der verschiedenen römischen Gottheiten gewidmet war.", "category": "historical", "coords": [12.897431, 43.885137]}, {"name": "Auditorium Pedrotti", "text": "Dieses Auditorium in Pesaro ist Teil des Konservatoriums Rossini und dient als Veranstaltungsort für klassische Konzerte.", "category": "cultural", "coords": [12.910303, 43.909256]}, {"name": "Casa Rossini", "text": "Das Geburtshaus des Komponisten Gioachino Rossini in Pesaro zeigt persönliche Erinnerungsstücke und Dokumente seines Lebens.", "category": "museum", "coords": [12.913878, 43.910733]}, {"name": "Associazione 'Morbidelli Museo'", "text": "Dieses Museum in Pesaro präsentiert eine beeindruckende Sammlung historischer Motorräder der Marke Morbidelli.", "category": "museum", "coords": [12.886792, 43.901992]}, {"name": "Teatro Rossini", "text": "Das nach dem Komponisten Gioachino Rossini benannte Opernhaus ist das kulturelle Herz von Pesaro.", "category": "cultural", "coords": [12.908747, 43.907882]}, {"name": "Chiesa della Santissima Annunziata", "text": "Diese ehemalige Kirche dient heute als stimmungsvoller Ort für kulturelle Veranstaltungen und Konzerte in Pesaro.", "category": "cultural", "coords": [12.912539, 43.91152]}, {"name": "Museo Scientifico Luigi Guidi", "text": "Dieses naturwissenschaftliche Museum präsentiert Sammlungen zur Geologie und Paläontologie der Region.", "category": "museum", "coords": [12.904273, 43.911747]}, {"name": "Museo Nazionale della motocicletta", "text": "Dieses Museum widmet sich der Geschichte des Motorradbaus mit einer beeindruckenden Sammlung historischer Maschinen.", "category": "museum", "coords": [12.913815, 43.909636]}, {"name": "Bagni tina 22", "text": "Ein gepflegter Strandabschnitt in Pesaro mit modernen Annehmlichkeiten für einen entspannten Tag an der Adria.", "category": "recreational", "coords": [12.916855, 43.915739]}, {"name": "Bagni Lallo 21", "text": "Dieser Strand in Pesaro bietet Besuchern Serviceeinrichtungen und einen komfortablen Zugang zum Meer.", "category": "recreational", "coords": [12.915938, 43.916146]}, {"name": "bagni enrico 19", "text": "Strandbad in Pesaro mit typisch italienischem Service und Liegestuhlverleih direkt am Wasser.", "category": "recreational", "coords": [12.914983, 43.916736]}, {"name": "ditta bagni gino di guidi gino 15", "text": "Ein gut ausgestatteter Strandabschnitt in Pesaro für entspannte Urlaubstage an der Adria.", "category": "recreational", "coords": [12.91375, 43.917591]}, {"name": "Bagni Ridolfi N.13", "text": "Klassischer italienischer Strand mit Liegestühlen und Service in zentraler Lage von Pesaro.", "category": "recreational", "coords": [12.912755, 43.918301]}, {"name": "Bagni gastone e marta n 11", "text": "Dieser Strand bietet Erholung und modernen Komfort am blauen Wasser von Pesaro.", "category": "recreational", "coords": [12.911806, 43.91898]}, {"name": "Spiaggia di levante", "text": "Die Spiaggia di levante breitet sich als weitläufiger Sandstrand im östlichen Küstengebiet von Pesaro aus. Die Weite des Strandes bietet reichlich Platz für ausgedehnte Spaziergänge am Wasser oder ein entspanntes Sonnenbad an der Adria. Da der Strand sehr beliebt ist, lohnt sich ein morgendlicher Besuch, um die friedliche Atmosphäre voll auszukosten.", "category": "recreational", "coords": [12.926108, 43.90905]}, {"name": "Lido Luciano Pavarotti", "text": "Der Lido Luciano Pavarotti in Pesaro ist eine wunderbare Hommage an den weltberühmten Tenor und lädt zu einem harmonischen Aufenthalt am Meer ein. Dieser besondere Strandabschnitt bietet eine charmante Umgebung, um die Sonne zu genießen und in die Adria einzutauchen. Nehmen Sie sich die Zeit, hier bei einem entspannten Nachmittag den Alltag hinter sich zu lassen.", "category": "recreational", "coords": [12.89652, 43.9227]}, {"name": "Selva di S. Nicola", "text": "Ein geschütztes Naturgebiet bei Pesaro, das zur Wanderung im Grünen einlädt.", "category": "natural", "coords": [12.929285, 43.880502]}, {"name": "Area floristica 106", "text": "Ein botanisch wertvolles Schutzgebiet an der Küste mit typischer lokaler Flora.", "category": "natural", "coords": [12.942706, 43.896366]}, {"name": "Villa Meucci Severi", "text": "Eine historische Villa in Pesaro, die heute als Museum interessante kulturelle Einblicke bietet.", "category": "museum", "coords": [12.924828, 43.903285]}, {"name": "Sabbia libera", "text": "Ein öffentlicher, kostenfrei zugänglicher Strandabschnitt für Besucher der Stadt Pesaro.", "category": "recreational", "coords": [12.939787, 43.898848]}, {"name": "zona 27", "text": "Ein gepflegter Strandabschnitt an der Adriaküste von Pesaro mit touristischer Infrastruktur.", "category": "recreational", "coords": [12.921916, 43.91224]}, {"name": "Luna Parck Pesaro", "text": "Ein lokaler Vergnügungspark in Pesaro, der verschiedene Fahrgeschäfte für Familien bietet.", "category": "family", "coords": [12.909729, 43.919194]}, {"name": "Villa Caprile", "text": "Eine Villa aus dem 17. Jahrhundert, die für ihre terrassierten Gärten und historischen Wasserspiele bekannt ist.", "category": "historical", "coords": [12.881531, 43.912852]}, {"name": "Villino Ruggeri", "text": "Ein herausragendes Beispiel der Liberty-Architektur, das direkt an der Küste von Pesaro liegt.", "category": "historical", "coords": [12.917856, 43.914117]}, {"name": "Parco Miralfiore", "text": "Der größte öffentliche Stadtpark in Pesaro mit weitläufigen Grünflächen und Spazierwegen.", "category": "park", "coords": [12.89997, 43.904262]}, {"name": "Parco Giochi Don Gaudiano", "text": "Der Parco Giochi Don Gaudiano in Pesaro bietet eine sichere und fröhliche Spielumgebung für Familien.", "category": "family", "coords": [12.902778, 43.890154]}, {"name": "Parco giochi via Bragaglia", "text": "Der Parco giochi via Bragaglia in Pesaro ist ein praktischer Spielbereich für Kinder in der Stadt.", "category": "family", "coords": [12.904312, 43.889676]}, {"name": "Gigilandia", "text": "Gigilandia in Pesaro ist ein farbenfroher Spielplatz, der Kindern viel Raum für Fantasie und Bewegung bietet.", "category": "family", "coords": [12.906969, 43.921858]}], "hu": [{"name": "Museo della marineria Washington Patrignani", "text": "A pesarói tengerészeti múzeum Marche régió tengeri történelmét és halászati hagyományait mutatja be.", "category": "museum", "coords": [12.908936, 43.916237]}, {"name": "Lucus Pisaurensis", "text": "Ez a Pesaro melletti ókori régészeti lelőhely egy szent liget volt, amelyet különböző római istenségeknek szenteltek.", "category": "historical", "coords": [12.897431, 43.885137]}, {"name": "Auditorium Pedrotti", "text": "Ez a pesarói auditórium a Rossini Konzervatórium része, és klasszikus zenei koncertek helyszíneként szolgál.", "category": "cultural", "coords": [12.910303, 43.909256]}, {"name": "Casa Rossini", "text": "Gioachino Rossini zeneszerző szülőháza Pesaróban személyes emléktárgyakat és életútját bemutató dokumentumokat őriz.", "category": "museum", "coords": [12.913878, 43.910733]}, {"name": "Associazione 'Morbidelli Museo'", "text": "Ez a pesarói múzeum a Morbidelli márka történelmi motorkerékpárjainak gyűjteményét mutatja be.", "category": "museum", "coords": [12.886792, 43.901992]}, {"name": "Teatro Rossini", "text": "A híres zeneszerzőről elnevezett operaház Pesaro kulturális életének központja és a Rossini-fesztivál helyszíne.", "category": "cultural", "coords": [12.908747, 43.907882]}, {"name": "Chiesa della Santissima Annunziata", "text": "Ez az egykori templom ma különleges helyszínként szolgál koncertek és kulturális események számára.", "category": "cultural", "coords": [12.912539, 43.91152]}, {"name": "Museo Scientifico Luigi Guidi", "text": "A múzeum Pesaro és környékének geológiai és paleontológiai gyűjteményeit mutatja be.", "category": "museum", "coords": [12.904273, 43.911747]}, {"name": "Museo Nazionale della motocicletta", "text": "A múzeum a motorkerékpárok történetének szentelt látványos gyűjteményt mutat be klasszikus modellekből.", "category": "museum", "coords": [12.913815, 43.909636]}, {"name": "Bagni tina 22", "text": "Rendezett strandszakasz Pesaróban, amely modern szolgáltatásokat kínál a tengerparti kikapcsolódáshoz.", "category": "recreational", "coords": [12.916855, 43.915739]}, {"name": "Bagni Lallo 21", "text": "Ez a pesarói strand szolgáltatásokkal és kényelmes hozzáféréssel várja a látogatókat az Adriai-tengerhez.", "category": "recreational", "coords": [12.915938, 43.916146]}, {"name": "bagni enrico 19", "text": "Pesarói strandfürdő tipikus olasz szolgáltatásokkal és napágybérlési lehetőséggel közvetlenül a víznél.", "category": "recreational", "coords": [12.914983, 43.916736]}, {"name": "ditta bagni gino di guidi gino 15", "text": "Jól felszerelt strand Pesaro partjainál, amely ideális a pihentető tengerparti pihenéshez.", "category": "recreational", "coords": [12.91375, 43.917591]}, {"name": "Bagni Ridolfi N.13", "text": "Klasszikus olasz strand nyugágyakkal és szolgáltatásokkal Pesaro központi részén.", "category": "recreational", "coords": [12.912755, 43.918301]}, {"name": "Bagni gastone e marta n 11", "text": "Ez a strand kikapcsolódást és modern kényelmet kínál Pesaro kék vizeinél.", "category": "recreational", "coords": [12.911806, 43.91898]}, {"name": "Spiaggia di levante", "text": "A Spiaggia di levante egy hosszan elnyúló, finom homokos partszakasz Pesaro keleti partvidékén. A strand tágas tere bőséges helyet biztosít a hosszú vízparti sétákhoz és az adriai napozáshoz. Mivel nagyon kedvelt helyszín, érdemes a reggeli órákban érkezni, hogy maximálisan kiélvezhesse a nyugodt atmoszférát.", "category": "recreational", "coords": [12.926108, 43.90905]}, {"name": "Lido Luciano Pavarotti", "text": "A pesarói Lido Luciano Pavarotti a világhírű tenor előtt tiszteleg, és harmonikus tengerparti időtöltésre invitál. Ez a különleges partszakasz varázslatos környezetet kínál a napozáshoz és az adriai hullámokban való megmártózáshoz. Szánjon rá egy nyugodt délutánt, hogy ezen a kellemes helyen felejtse el a hétköznapok gondjait.", "category": "recreational", "coords": [12.89652, 43.9227]}, {"name": "Selva di S. Nicola", "text": "Pesaro melletti védett természeti terület, amely zöld környezetben várja a túrázókat.", "category": "natural", "coords": [12.929285, 43.880502]}, {"name": "Area floristica 106", "text": "Botanikailag értékes védett terület a tengerparton, jellegzetes helyi flórával.", "category": "natural", "coords": [12.942706, 43.896366]}, {"name": "Villa Meucci Severi", "text": "Történelmi villa Pesaróban, amely ma múzeumként érdekes kulturális betekintést nyújt.", "category": "museum", "coords": [12.924828, 43.903285]}, {"name": "Sabbia libera", "text": "Nyilvános, ingyenesen látogatható tengerparti szakasz Pesaro városának látogatói számára.", "category": "recreational", "coords": [12.939787, 43.898848]}, {"name": "zona 27", "text": "Gondozott tengerparti szakasz Pesaro adriai partján, kiépített szolgáltatásokkal.", "category": "recreational", "coords": [12.921916, 43.91224]}, {"name": "Luna Parck Pesaro", "text": "Helyi vidámpark Pesaróban, amely különféle játékkal és attrakcióval várja a családokat.", "category": "family", "coords": [12.909729, 43.919194]}, {"name": "Villa Caprile", "text": "17. századi nemesi villa, amely teraszos kertjeiről és barokk vízi játékairól nevezetes.", "category": "historical", "coords": [12.881531, 43.912852]}, {"name": "Villino Ruggeri", "text": "A szecessziós építészet egyik kiemelkedő példája Pesaro tengerparti sétányán.", "category": "historical", "coords": [12.917856, 43.914117]}, {"name": "Parco Miralfiore", "text": "Pesaro legnagyobb városi parkja tágas zöldterületekkel és sétat utakkal.", "category": "park", "coords": [12.89997, 43.904262]}, {"name": "Parco Giochi Don Gaudiano", "text": "A pesarói Parco Giochi Don Gaudiano biztonságos és vidám játékkörnyezetet kínál a családoknak.", "category": "family", "coords": [12.902778, 43.890154]}, {"name": "Parco giochi via Bragaglia", "text": "A pesarói Parco giochi via Bragaglia egy praktikus játszótér a városi gyermekek számára.", "category": "family", "coords": [12.904312, 43.889676]}, {"name": "Gigilandia", "text": "A pesarói Gigilandia egy színes játszótér, amely sok helyet kínál a gyerekeknek a fantáziához és a mozgáshoz.", "category": "family", "coords": [12.906969, 43.921858]}], "ro": [{"name": "Museo della marineria Washington Patrignani", "text": "Muzeul maritim din Pesaro documentează istoria navală și tradiția pescuitului din regiunea Marche.", "category": "museum", "coords": [12.908936, 43.916237]}, {"name": "Lucus Pisaurensis", "text": "Acest sit arheologic antic de lângă Pesaro a fost un crâng sacru dedicat diverselor divinități romane.", "category": "historical", "coords": [12.897431, 43.885137]}, {"name": "Auditorium Pedrotti", "text": "Acest auditorium din Pesaro face parte din Conservatorul Rossini și servește drept loc de desfășurare a concertelor de muzică clasică.", "category": "cultural", "coords": [12.910303, 43.909256]}, {"name": "Casa Rossini", "text": "Casa natală a compozitorului Gioachino Rossini din Pesaro expune obiecte personale și documente despre viața sa.", "category": "museum", "coords": [12.913878, 43.910733]}, {"name": "Associazione 'Morbidelli Museo'", "text": "Acest muzeu din Pesaro prezintă o colecție impresionantă de motociclete istorice ale mărcii Morbidelli.", "category": "museum", "coords": [12.886792, 43.901992]}, {"name": "Teatro Rossini", "text": "Teatrul de operă numit după compozitorul Gioachino Rossini este centrul cultural al orașului Pesaro.", "category": "cultural", "coords": [12.908747, 43.907882]}, {"name": "Chiesa della Santissima Annunziata", "text": "Această fostă biserică servește astăzi ca loc de desfășurare pentru evenimente culturale și concerte în Pesaro.", "category": "cultural", "coords": [12.912539, 43.91152]}, {"name": "Museo Scientifico Luigi Guidi", "text": "Acest muzeu științific prezintă colecții de geologie și paleontologie din regiune.", "category": "museum", "coords": [12.904273, 43.911747]}, {"name": "Museo Nazionale della motocicletta", "text": "Acest muzeu este dedicat istoriei motocicletelor, având o colecție impresionantă de mașini istorice.", "category": "museum", "coords": [12.913815, 43.909636]}, {"name": "Bagni tina 22", "text": "O secțiune de plajă bine întreținută din Pesaro, cu facilități moderne pentru o zi relaxantă la Adriatica.", "category": "recreational", "coords": [12.916855, 43.915739]}, {"name": "Bagni Lallo 21", "text": "Această plajă din Pesaro oferă vizitatorilor facilități de servicii și un acces confortabil la mare.", "category": "recreational", "coords": [12.915938, 43.916146]}, {"name": "bagni enrico 19", "text": "Stabiliment balnear în Pesaro, cu servicii tipic italiene și închiriere de șezlonguri direct pe malul apei.", "category": "recreational", "coords": [12.914983, 43.916736]}, {"name": "ditta bagni gino di guidi gino 15", "text": "O secțiune de plajă bine echipată în Pesaro pentru zile de vacanță relaxante la Marea Adriatică.", "category": "recreational", "coords": [12.91375, 43.917591]}, {"name": "Bagni Ridolfi N.13", "text": "Plajă italiană clasică cu șezlonguri și servicii, situată central în Pesaro.", "category": "recreational", "coords": [12.912755, 43.918301]}, {"name": "Bagni gastone e marta n 11", "text": "Această plajă oferă relaxare și confort modern la apele albastre din Pesaro.", "category": "recreational", "coords": [12.911806, 43.91898]}, {"name": "Spiaggia di levante", "text": "Spiaggia di levante se întinde ca o vastă plajă de nisip în zona de est a coastei orașului Pesaro. Amploarea plajei oferă suficient spațiu pentru plimbări lungi pe malul apei sau pentru a face plajă în voie la Marea Adriatică. Deoarece este un loc popular, o vizită dimineața devreme vă va permite să savurați atmosfera liniștită a dimineții.", "category": "recreational", "coords": [12.926108, 43.90905]}, {"name": "Lido Luciano Pavarotti", "text": "Lido Luciano Pavarotti din Pesaro aduce un frumos omagiu faimosului tenor, invitându-vă la un sejur armonios la malul mării. Acest sector de plajă oferă un cadru plin de farmec pentru a vă bucura de soare și a înota în Marea Adriatică. Răsfățați-vă cu o după-amiază de relaxare aici, lăsând în urmă grijile cotidiene.", "category": "recreational", "coords": [12.89652, 43.9227]}, {"name": "Selva di S. Nicola", "text": "O arie naturală protejată lângă Pesaro, care invită la drumeții în mijlocul naturii.", "category": "natural", "coords": [12.929285, 43.880502]}, {"name": "Area floristica 106", "text": "O zonă protejată valoroasă din punct de vedere botanic pe coastă, cu floră locală tipică.", "category": "natural", "coords": [12.942706, 43.896366]}, {"name": "Villa Meucci Severi", "text": "O vilă istorică în Pesaro care astăzi oferă perspective culturale interesante ca muzeu.", "category": "museum", "coords": [12.924828, 43.903285]}, {"name": "Sabbia libera", "text": "O secțiune de plajă publică, accesibilă gratuit pentru vizitatorii orașului Pesaro.", "category": "recreational", "coords": [12.939787, 43.898848]}, {"name": "zona 27", "text": "O secțiune de plajă amenajată pe coasta adriatică din Pesaro, cu facilități turistice.", "category": "recreational", "coords": [12.921916, 43.91224]}, {"name": "Luna Parck Pesaro", "text": "Un parc de distracții local în Pesaro, care oferă diverse atracții pentru familii.", "category": "family", "coords": [12.909729, 43.919194]}, {"name": "Villa Caprile", "text": "O vilă din secolul al XVII-lea, renumită pentru grădinile sale terasate și jocurile de apă istorice.", "category": "historical", "coords": [12.881531, 43.912852]}, {"name": "Villino Ruggeri", "text": "Un exemplu remarcabil de arhitectură Liberty situat chiar pe faleza orașului Pesaro.", "category": "historical", "coords": [12.917856, 43.914117]}, {"name": "Parco Miralfiore", "text": "Cel mai mare parc public din Pesaro, oferind spații verzi vaste și alei de promenadă.", "category": "park", "coords": [12.89997, 43.904262]}, {"name": "Parco Giochi Don Gaudiano", "text": "Parco Giochi Don Gaudiano din Pesaro oferă un mediu de joacă sigur și vesel pentru familii.", "category": "family", "coords": [12.902778, 43.890154]}, {"name": "Parco giochi via Bragaglia", "text": "Parco giochi via Bragaglia din Pesaro este o zonă de joacă practică pentru copiii din oraș.", "category": "family", "coords": [12.904312, 43.889676]}, {"name": "Gigilandia", "text": "Gigilandia din Pesaro este un teren de joacă colorat care oferă copiilor mult spațiu pentru fantezie și mișcare.", "category": "family", "coords": [12.906969, 43.921858]}], "en": [{"name": "Museo della marineria Washington Patrignani", "text": "The maritime museum in Pesaro documents the naval history and fishing traditions of the Marche region.", "category": "museum", "coords": [12.908936, 43.916237]}, {"name": "Lucus Pisaurensis", "text": "This ancient archaeological site near Pesaro was a sacred grove dedicated to various Roman deities.", "category": "historical", "coords": [12.897431, 43.885137]}, {"name": "Auditorium Pedrotti", "text": "This auditorium in Pesaro is part of the Rossini Conservatory and serves as a venue for classical music concerts.", "category": "cultural", "coords": [12.910303, 43.909256]}, {"name": "Casa Rossini", "text": "The birthplace of composer Gioachino Rossini in Pesaro displays personal memorabilia and documents from his life.", "category": "museum", "coords": [12.913878, 43.910733]}, {"name": "Associazione 'Morbidelli Museo'", "text": "This museum in Pesaro presents an impressive collection of historical motorcycles of the Morbidelli brand.", "category": "museum", "coords": [12.886792, 43.901992]}, {"name": "Teatro Rossini", "text": "Named after the composer Gioachino Rossini, this opera house is the cultural heart of Pesaro.", "category": "cultural", "coords": [12.908747, 43.907882]}, {"name": "Chiesa della Santissima Annunziata", "text": "This former church now serves as an atmospheric venue for cultural events and concerts in Pesaro.", "category": "cultural", "coords": [12.912539, 43.91152]}, {"name": "Museo Scientifico Luigi Guidi", "text": "This scientific museum presents collections related to the geology and paleontology of the region.", "category": "museum", "coords": [12.904273, 43.911747]}, {"name": "Museo Nazionale della motocicletta", "text": "This museum is dedicated to the history of motorcycle manufacturing with an impressive collection of machines.", "category": "museum", "coords": [12.913815, 43.909636]}, {"name": "Bagni tina 22", "text": "A well-maintained beach section in Pesaro offering modern amenities for a relaxing day by the sea.", "category": "recreational", "coords": [12.916855, 43.915739]}, {"name": "Bagni Lallo 21", "text": "This beach in Pesaro provides visitors with service facilities and comfortable access to the sea.", "category": "recreational", "coords": [12.915938, 43.916146]}, {"name": "bagni enrico 19", "text": "A beach club in Pesaro offering typical Italian services and sunbed rentals right by the water.", "category": "recreational", "coords": [12.914983, 43.916736]}, {"name": "ditta bagni gino di guidi gino 15", "text": "A well-equipped beach section in Pesaro for relaxing holiday days by the Adriatic Sea.", "category": "recreational", "coords": [12.91375, 43.917591]}, {"name": "Bagni Ridolfi N.13", "text": "Classic Italian beach with sun loungers and services in a central location of Pesaro.", "category": "recreational", "coords": [12.912755, 43.918301]}, {"name": "Bagni gastone e marta n 11", "text": "This beach offers relaxation and modern comfort by the blue waters of Pesaro.", "category": "recreational", "coords": [12.911806, 43.91898]}, {"name": "Spiaggia di levante", "text": "The Spiaggia di levante stretches out as a sweeping sandy beach in the eastern coastal area of Pesaro. Its expansive shores provide plenty of room for long walks by the water or a relaxed sunbathing session by the Adriatic. Given its popularity, a morning visit is highly rewarding for those seeking a tranquil beach experience.", "category": "recreational", "coords": [12.926108, 43.90905]}, {"name": "Lido Luciano Pavarotti", "text": "The Lido Luciano Pavarotti in Pesaro serves as a lovely tribute to the world-famous tenor, inviting visitors for a harmonious seaside stay. This special stretch of beach offers a charming environment to soak up the sun and dive into the Adriatic waters. Take the time to enjoy a peaceful afternoon here, leaving the everyday rush far behind.", "category": "recreational", "coords": [12.89652, 43.9227]}, {"name": "Selva di S. Nicola", "text": "A protected natural area near Pesaro that invites hiking in the heart of nature.", "category": "natural", "coords": [12.929285, 43.880502]}, {"name": "Area floristica 106", "text": "A botanically valuable protected area on the coast featuring typical local flora.", "category": "natural", "coords": [12.942706, 43.896366]}, {"name": "Villa Meucci Severi", "text": "A historical villa in Pesaro that today offers interesting cultural insights as a museum.", "category": "museum", "coords": [12.924828, 43.903285]}, {"name": "Sabbia libera", "text": "A public beach section with free access for visitors to the city of Pesaro.", "category": "recreational", "coords": [12.939787, 43.898848]}, {"name": "zona 27", "text": "A well-maintained beach section on the Adriatic coast of Pesaro with tourist facilities.", "category": "recreational", "coords": [12.921916, 43.91224]}, {"name": "Luna Parck Pesaro", "text": "A local amusement park in Pesaro featuring various rides and attractions for families.", "category": "family", "coords": [12.909729, 43.919194]}, {"name": "Villa Caprile", "text": "A 17th-century manor famous for its terraced Italian gardens and historical water features.", "category": "historical", "coords": [12.881531, 43.912852]}, {"name": "Ruggeri House", "text": "A prominent example of Liberty-style architecture located on the seafront of Pesaro.", "category": "historical", "coords": [12.917856, 43.914117]}, {"name": "Parco Miralfiore", "text": "The largest public urban park in Pesaro, featuring extensive green areas and walking paths.", "category": "park", "coords": [12.89997, 43.904262]}, {"name": "Parco Giochi Don Gaudiano", "text": "Parco Giochi Don Gaudiano in Pesaro offers a safe and cheerful play environment for families.", "category": "family", "coords": [12.902778, 43.890154]}, {"name": "Parco giochi via Bragaglia", "text": "Parco giochi via Bragaglia in Pesaro is a convenient play area for children in the city.", "category": "family", "coords": [12.904312, 43.889676]}, {"name": "Gigilandia", "text": "Gigilandia in Pesaro is a colorful playground offering children plenty of space for imagination and movement.", "category": "family", "coords": [12.906969, 43.921858]}]},
+    id: "italy-pesaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo della marineria Washington Patrignani",
+                  "text": "Das Schifffahrtsmuseum in Pesaro dokumentiert die maritime Geschichte und Fischereitradition der Region Marken.",
+                  "category": "museum",
+                  "coords": [
+                        12.908936,
+                        43.916237
+                  ]
+            },
+            {
+                  "name": "Lucus Pisaurensis",
+                  "text": "Diese antike Ausgrabungsstätte bei Pesaro war ein heiliger Hain, der verschiedenen römischen Gottheiten gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        12.897431,
+                        43.885137
+                  ]
+            },
+            {
+                  "name": "Auditorium Pedrotti",
+                  "text": "Dieses Auditorium in Pesaro ist Teil des Konservatoriums Rossini und dient als Veranstaltungsort für klassische Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        12.910303,
+                        43.909256
+                  ]
+            },
+            {
+                  "name": "Casa Rossini",
+                  "text": "Das Geburtshaus des Komponisten Gioachino Rossini in Pesaro zeigt persönliche Erinnerungsstücke und Dokumente seines Lebens.",
+                  "category": "museum",
+                  "coords": [
+                        12.913878,
+                        43.910733
+                  ]
+            },
+            {
+                  "name": "Associazione 'Morbidelli Museo'",
+                  "text": "Dieses Museum in Pesaro präsentiert eine beeindruckende Sammlung historischer Motorräder der Marke Morbidelli.",
+                  "category": "museum",
+                  "coords": [
+                        12.886792,
+                        43.901992
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini",
+                  "text": "Das nach dem Komponisten Gioachino Rossini benannte Opernhaus ist das kulturelle Herz von Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.908747,
+                        43.907882
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Annunziata",
+                  "text": "Diese ehemalige Kirche dient heute als stimmungsvoller Ort für kulturelle Veranstaltungen und Konzerte in Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.912539,
+                        43.91152
+                  ]
+            },
+            {
+                  "name": "Museo Scientifico Luigi Guidi",
+                  "text": "Dieses naturwissenschaftliche Museum präsentiert Sammlungen zur Geologie und Paläontologie der Region.",
+                  "category": "museum",
+                  "coords": [
+                        12.904273,
+                        43.911747
+                  ]
+            },
+            {
+                  "name": "Museo Nazionale della motocicletta",
+                  "text": "Dieses Museum widmet sich der Geschichte des Motorradbaus mit einer beeindruckenden Sammlung historischer Maschinen.",
+                  "category": "museum",
+                  "coords": [
+                        12.913815,
+                        43.909636
+                  ]
+            },
+            {
+                  "name": "Bagni tina 22",
+                  "text": "Ein gepflegter Strandabschnitt in Pesaro mit modernen Annehmlichkeiten für einen entspannten Tag an der Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        12.916855,
+                        43.915739
+                  ]
+            },
+            {
+                  "name": "Bagni Lallo 21",
+                  "text": "Dieser Strand in Pesaro bietet Besuchern Serviceeinrichtungen und einen komfortablen Zugang zum Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        12.915938,
+                        43.916146
+                  ]
+            },
+            {
+                  "name": "bagni enrico 19",
+                  "text": "Strandbad in Pesaro mit typisch italienischem Service und Liegestuhlverleih direkt am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        12.914983,
+                        43.916736
+                  ]
+            },
+            {
+                  "name": "ditta bagni gino di guidi gino 15",
+                  "text": "Ein gut ausgestatteter Strandabschnitt in Pesaro für entspannte Urlaubstage an der Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        12.91375,
+                        43.917591
+                  ]
+            },
+            {
+                  "name": "Bagni Ridolfi N.13",
+                  "text": "Klassischer italienischer Strand mit Liegestühlen und Service in zentraler Lage von Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.912755,
+                        43.918301
+                  ]
+            },
+            {
+                  "name": "Bagni gastone e marta n 11",
+                  "text": "Dieser Strand bietet Erholung und modernen Komfort am blauen Wasser von Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.911806,
+                        43.91898
+                  ]
+            },
+            {
+                  "name": "Spiaggia di levante",
+                  "text": "Die Spiaggia di levante breitet sich als weitläufiger Sandstrand im östlichen Küstengebiet von Pesaro aus. Die Weite des Strandes bietet reichlich Platz für ausgedehnte Spaziergänge am Wasser oder ein entspanntes Sonnenbad an der Adria. Da der Strand sehr beliebt ist, lohnt sich ein morgendlicher Besuch, um die friedliche Atmosphäre voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        12.926108,
+                        43.90905
+                  ]
+            },
+            {
+                  "name": "Lido Luciano Pavarotti",
+                  "text": "Der Lido Luciano Pavarotti in Pesaro ist eine wunderbare Hommage an den weltberühmten Tenor und lädt zu einem harmonischen Aufenthalt am Meer ein. Dieser besondere Strandabschnitt bietet eine charmante Umgebung, um die Sonne zu genießen und in die Adria einzutauchen. Nehmen Sie sich die Zeit, hier bei einem entspannten Nachmittag den Alltag hinter sich zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.89652,
+                        43.9227
+                  ]
+            },
+            {
+                  "name": "Selva di S. Nicola",
+                  "text": "Ein geschütztes Naturgebiet bei Pesaro, das zur Wanderung im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.929285,
+                        43.880502
+                  ]
+            },
+            {
+                  "name": "Area floristica 106",
+                  "text": "Ein botanisch wertvolles Schutzgebiet an der Küste mit typischer lokaler Flora.",
+                  "category": "natural",
+                  "coords": [
+                        12.942706,
+                        43.896366
+                  ]
+            },
+            {
+                  "name": "Villa Meucci Severi",
+                  "text": "Eine historische Villa in Pesaro, die heute als Museum interessante kulturelle Einblicke bietet.",
+                  "category": "museum",
+                  "coords": [
+                        12.924828,
+                        43.903285
+                  ]
+            },
+            {
+                  "name": "Sabbia libera",
+                  "text": "Ein öffentlicher, kostenfrei zugänglicher Strandabschnitt für Besucher der Stadt Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.939787,
+                        43.898848
+                  ]
+            },
+            {
+                  "name": "zona 27",
+                  "text": "Ein gepflegter Strandabschnitt an der Adriaküste von Pesaro mit touristischer Infrastruktur.",
+                  "category": "recreational",
+                  "coords": [
+                        12.921916,
+                        43.91224
+                  ]
+            },
+            {
+                  "name": "Luna Parck Pesaro",
+                  "text": "Ein lokaler Vergnügungspark in Pesaro, der verschiedene Fahrgeschäfte für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.909729,
+                        43.919194
+                  ]
+            },
+            {
+                  "name": "Villa Caprile",
+                  "text": "Eine Villa aus dem 17. Jahrhundert, die für ihre terrassierten Gärten und historischen Wasserspiele bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        12.881531,
+                        43.912852
+                  ]
+            },
+            {
+                  "name": "Villino Ruggeri",
+                  "text": "Ein herausragendes Beispiel der Liberty-Architektur, das direkt an der Küste von Pesaro liegt.",
+                  "category": "historical",
+                  "coords": [
+                        12.917856,
+                        43.914117
+                  ]
+            },
+            {
+                  "name": "Parco Miralfiore",
+                  "text": "Der größte öffentliche Stadtpark in Pesaro mit weitläufigen Grünflächen und Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        12.89997,
+                        43.904262
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Don Gaudiano",
+                  "text": "Der Parco Giochi Don Gaudiano in Pesaro bietet eine sichere und fröhliche Spielumgebung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        12.902778,
+                        43.890154
+                  ]
+            },
+            {
+                  "name": "Parco giochi via Bragaglia",
+                  "text": "Der Parco giochi via Bragaglia in Pesaro ist ein praktischer Spielbereich für Kinder in der Stadt.",
+                  "category": "family",
+                  "coords": [
+                        12.904312,
+                        43.889676
+                  ]
+            },
+            {
+                  "name": "Gigilandia",
+                  "text": "Gigilandia in Pesaro ist ein farbenfroher Spielplatz, der Kindern viel Raum für Fantasie und Bewegung bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.906969,
+                        43.921858
+                  ]
+            },
+            {
+                  "name": "Bagni Joe Amarena",
+                  "text": "Bagni Joe Amarena in Pesaro ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        12.897882,
+                        43.922299
+                  ]
+            },
+            {
+                  "name": "Bagni Helios",
+                  "text": "Bagni Helios in Pesaro ist ein Strandbad für Freizeit und Entspannung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        12.949049,
+                        43.891377
+                  ]
+            },
+            {
+                  "name": "Miramare Beach",
+                  "text": "Miramare Beach ist ein Strandbad in Pesaro, ideal für einen erholsamen Tag am Meer.",
+                  "category": "family",
+                  "coords": [
+                        12.952645,
+                        43.889095
+                  ]
+            },
+            {
+                  "name": "Bagni Agata",
+                  "text": "Bagni Agata ist ein Strandbad in Pesaro, das Entspannung und Badevergnügen am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.948097,
+                        43.892396
+                  ]
+            },
+            {
+                  "name": "Piscina pubblica Baia Flaminia",
+                  "text": "Piscina pubblica Baia Flaminia ist ein Schwimmbad in Pesaro, ideal für Sport und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        12.901877,
+                        43.920465
+                  ]
+            },
+            {
+                  "name": "Piscina olimpionica \"O. Berti\"",
+                  "text": "Die Piscina olimpionica \"O. Berti\" in Pesaro ist ein professionelles Schwimmbad für Training und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        12.894345,
+                        43.912636
+                  ]
+            },
+            {
+                  "name": "Bagni Due Palme",
+                  "text": "Bagni Due Palme ist ein Strandbad in Pesaro, das Einrichtungen für einen angenehmen Tag am Strand bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.93634,
+                        43.901232
+                  ]
+            },
+            {
+                  "name": "Bagni Tiki",
+                  "text": "Bagni Tiki ist ein Strandbad in Pesaro, ideal für Familien und Sonnenanbeter.",
+                  "category": "family",
+                  "coords": [
+                        12.937595,
+                        43.900403
+                  ]
+            },
+            {
+                  "name": "Bagni Riccardo",
+                  "text": "Bagni Riccardo ist ein Strandbad in Pesaro, das einen erholsamen Aufenthalt am Meer ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        12.931056,
+                        43.905096
+                  ]
+            },
+            {
+                  "name": "Bagni Irene",
+                  "text": "Bagni Irene ist ein Strandbad in Pesaro, das Dienstleistungen für Schwimmer und Strandbesucher bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.919898,
+                        43.913837
+                  ]
+            },
+            {
+                  "name": "Bagni Gabri",
+                  "text": "Bagni Gabri ist ein Strandbad in Pesaro, ideal für einen komfortablen Tag am Adriastrand.",
+                  "category": "family",
+                  "coords": [
+                        12.920871,
+                        43.913016
+                  ]
+            },
+            {
+                  "name": "Bagni Excelsior",
+                  "text": "Bagni Excelsior ist ein Strandbad in Pesaro, das eine angenehme Atmosphäre für Meeresliebhaber bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.922916,
+                        43.91141
+                  ]
+            },
+            {
+                  "name": "Bagni Gilberto",
+                  "text": "Bagni Gilberto ist ein Strandbad in Pesaro, ideal für Familienaktivitäten am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        12.924036,
+                        43.910543
+                  ]
+            },
+            {
+                  "name": "Bagni Gino",
+                  "text": "Bagni Gino ist ein Strandbad in Pesaro, das Platz für Entspannung und Spaß am Strand bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.925002,
+                        43.909688
+                  ]
+            },
+            {
+                  "name": "Bagni Marino",
+                  "text": "Bagni Marino ist ein Strandbad in Pesaro, das Annehmlichkeiten für Strandbesucher bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.927313,
+                        43.90804
+                  ]
+            },
+            {
+                  "name": "Bagni Re Sole",
+                  "text": "Bagni Re Sole ist ein Strandbad in Pesaro, ideal für ein Sonnenbad und Erfrischung im Meer.",
+                  "category": "family",
+                  "coords": [
+                        12.928929,
+                        43.906618
+                  ]
+            },
+            {
+                  "name": "Bagni Sole",
+                  "text": "Bagni Sole ist ein Strandbad in Pesaro, das eine ruhige Umgebung für Strandurlauber bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.929906,
+                        43.905913
+                  ]
+            },
+            {
+                  "name": "asd circolo velico ardizio",
+                  "text": "asd circolo velico ardizio ist ein Strandbad in Pesaro, das Aktivitäten am Meer fördert.",
+                  "category": "family",
+                  "coords": [
+                        12.934248,
+                        43.902751
+                  ]
+            },
+            {
+                  "name": "Bagni Margherita",
+                  "text": "Bagni Margherita ist ein Strandbad in Pesaro, ideal für einen Familienausflug an die Küste.",
+                  "category": "family",
+                  "coords": [
+                        12.935284,
+                        43.901964
+                  ]
+            },
+            {
+                  "name": "Bagni Bibi",
+                  "text": "Bagni Bibi ist ein Strandbad in Pesaro, das Entspannung und Service direkt am Strand bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.933299,
+                        43.903456
+                  ]
+            },
+            {
+                  "name": "Bagni Chalet a mare",
+                  "text": "Bagni Chalet a mare ist ein Strandbad in Pesaro, ideal für Erholungssuchende am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        12.946867,
+                        43.893659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo della marineria Washington Patrignani",
+                  "text": "A pesarói tengerészeti múzeum Marche régió tengeri történelmét és halászati hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.908936,
+                        43.916237
+                  ]
+            },
+            {
+                  "name": "Lucus Pisaurensis",
+                  "text": "Ez a Pesaro melletti ókori régészeti lelőhely egy szent liget volt, amelyet különböző római istenségeknek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        12.897431,
+                        43.885137
+                  ]
+            },
+            {
+                  "name": "Auditorium Pedrotti",
+                  "text": "Ez a pesarói auditórium a Rossini Konzervatórium része, és klasszikus zenei koncertek helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        12.910303,
+                        43.909256
+                  ]
+            },
+            {
+                  "name": "Casa Rossini",
+                  "text": "Gioachino Rossini zeneszerző szülőháza Pesaróban személyes emléktárgyakat és életútját bemutató dokumentumokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        12.913878,
+                        43.910733
+                  ]
+            },
+            {
+                  "name": "Associazione 'Morbidelli Museo'",
+                  "text": "Ez a pesarói múzeum a Morbidelli márka történelmi motorkerékpárjainak gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.886792,
+                        43.901992
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini",
+                  "text": "A híres zeneszerzőről elnevezett operaház Pesaro kulturális életének központja és a Rossini-fesztivál helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        12.908747,
+                        43.907882
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Annunziata",
+                  "text": "Ez az egykori templom ma különleges helyszínként szolgál koncertek és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        12.912539,
+                        43.91152
+                  ]
+            },
+            {
+                  "name": "Museo Scientifico Luigi Guidi",
+                  "text": "A múzeum Pesaro és környékének geológiai és paleontológiai gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.904273,
+                        43.911747
+                  ]
+            },
+            {
+                  "name": "Museo Nazionale della motocicletta",
+                  "text": "A múzeum a motorkerékpárok történetének szentelt látványos gyűjteményt mutat be klasszikus modellekből.",
+                  "category": "museum",
+                  "coords": [
+                        12.913815,
+                        43.909636
+                  ]
+            },
+            {
+                  "name": "Bagni tina 22",
+                  "text": "Rendezett strandszakasz Pesaróban, amely modern szolgáltatásokat kínál a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.916855,
+                        43.915739
+                  ]
+            },
+            {
+                  "name": "Bagni Lallo 21",
+                  "text": "Ez a pesarói strand szolgáltatásokkal és kényelmes hozzáféréssel várja a látogatókat az Adriai-tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        12.915938,
+                        43.916146
+                  ]
+            },
+            {
+                  "name": "bagni enrico 19",
+                  "text": "Pesarói strandfürdő tipikus olasz szolgáltatásokkal és napágybérlési lehetőséggel közvetlenül a víznél.",
+                  "category": "recreational",
+                  "coords": [
+                        12.914983,
+                        43.916736
+                  ]
+            },
+            {
+                  "name": "ditta bagni gino di guidi gino 15",
+                  "text": "Jól felszerelt strand Pesaro partjainál, amely ideális a pihentető tengerparti pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        12.91375,
+                        43.917591
+                  ]
+            },
+            {
+                  "name": "Bagni Ridolfi N.13",
+                  "text": "Klasszikus olasz strand nyugágyakkal és szolgáltatásokkal Pesaro központi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.912755,
+                        43.918301
+                  ]
+            },
+            {
+                  "name": "Bagni gastone e marta n 11",
+                  "text": "Ez a strand kikapcsolódást és modern kényelmet kínál Pesaro kék vizeinél.",
+                  "category": "recreational",
+                  "coords": [
+                        12.911806,
+                        43.91898
+                  ]
+            },
+            {
+                  "name": "Spiaggia di levante",
+                  "text": "A Spiaggia di levante egy hosszan elnyúló, finom homokos partszakasz Pesaro keleti partvidékén. A strand tágas tere bőséges helyet biztosít a hosszú vízparti sétákhoz és az adriai napozáshoz. Mivel nagyon kedvelt helyszín, érdemes a reggeli órákban érkezni, hogy maximálisan kiélvezhesse a nyugodt atmoszférát.",
+                  "category": "recreational",
+                  "coords": [
+                        12.926108,
+                        43.90905
+                  ]
+            },
+            {
+                  "name": "Lido Luciano Pavarotti",
+                  "text": "A pesarói Lido Luciano Pavarotti a világhírű tenor előtt tiszteleg, és harmonikus tengerparti időtöltésre invitál. Ez a különleges partszakasz varázslatos környezetet kínál a napozáshoz és az adriai hullámokban való megmártózáshoz. Szánjon rá egy nyugodt délutánt, hogy ezen a kellemes helyen felejtse el a hétköznapok gondjait.",
+                  "category": "recreational",
+                  "coords": [
+                        12.89652,
+                        43.9227
+                  ]
+            },
+            {
+                  "name": "Selva di S. Nicola",
+                  "text": "Pesaro melletti védett természeti terület, amely zöld környezetben várja a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        12.929285,
+                        43.880502
+                  ]
+            },
+            {
+                  "name": "Area floristica 106",
+                  "text": "Botanikailag értékes védett terület a tengerparton, jellegzetes helyi flórával.",
+                  "category": "natural",
+                  "coords": [
+                        12.942706,
+                        43.896366
+                  ]
+            },
+            {
+                  "name": "Villa Meucci Severi",
+                  "text": "Történelmi villa Pesaróban, amely ma múzeumként érdekes kulturális betekintést nyújt.",
+                  "category": "museum",
+                  "coords": [
+                        12.924828,
+                        43.903285
+                  ]
+            },
+            {
+                  "name": "Sabbia libera",
+                  "text": "Nyilvános, ingyenesen látogatható tengerparti szakasz Pesaro városának látogatói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        12.939787,
+                        43.898848
+                  ]
+            },
+            {
+                  "name": "zona 27",
+                  "text": "Gondozott tengerparti szakasz Pesaro adriai partján, kiépített szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.921916,
+                        43.91224
+                  ]
+            },
+            {
+                  "name": "Luna Parck Pesaro",
+                  "text": "Helyi vidámpark Pesaróban, amely különféle játékkal és attrakcióval várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        12.909729,
+                        43.919194
+                  ]
+            },
+            {
+                  "name": "Villa Caprile",
+                  "text": "17. századi nemesi villa, amely teraszos kertjeiről és barokk vízi játékairól nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        12.881531,
+                        43.912852
+                  ]
+            },
+            {
+                  "name": "Villino Ruggeri",
+                  "text": "A szecessziós építészet egyik kiemelkedő példája Pesaro tengerparti sétányán.",
+                  "category": "historical",
+                  "coords": [
+                        12.917856,
+                        43.914117
+                  ]
+            },
+            {
+                  "name": "Parco Miralfiore",
+                  "text": "Pesaro legnagyobb városi parkja tágas zöldterületekkel és sétat utakkal.",
+                  "category": "park",
+                  "coords": [
+                        12.89997,
+                        43.904262
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Don Gaudiano",
+                  "text": "A pesarói Parco Giochi Don Gaudiano biztonságos és vidám játékkörnyezetet kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        12.902778,
+                        43.890154
+                  ]
+            },
+            {
+                  "name": "Parco giochi via Bragaglia",
+                  "text": "A pesarói Parco giochi via Bragaglia egy praktikus játszótér a városi gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        12.904312,
+                        43.889676
+                  ]
+            },
+            {
+                  "name": "Gigilandia",
+                  "text": "A pesarói Gigilandia egy színes játszótér, amely sok helyet kínál a gyerekeknek a fantáziához és a mozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.906969,
+                        43.921858
+                  ]
+            },
+            {
+                  "name": "Bagni Joe Amarena",
+                  "text": "A Bagni Joe Amarena egy strand Pesaro városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        12.897882,
+                        43.922299
+                  ]
+            },
+            {
+                  "name": "Bagni Helios",
+                  "text": "A Bagni Helios egy strand Pesaro városában, amely pihenést és kikapcsolódást kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        12.949049,
+                        43.891377
+                  ]
+            },
+            {
+                  "name": "Miramare Beach",
+                  "text": "A Miramare Beach egy tengerparti üdülőhely Pesaróban, amely ideális egy pihentető tengerparti naphoz.",
+                  "category": "family",
+                  "coords": [
+                        12.952645,
+                        43.889095
+                  ]
+            },
+            {
+                  "name": "Bagni Agata",
+                  "text": "A Bagni Agata egy tengerparti üdülőhely Pesaróban, amely pihenést és fürdőzést kínál a tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        12.948097,
+                        43.892396
+                  ]
+            },
+            {
+                  "name": "Piscina pubblica Baia Flaminia",
+                  "text": "A Piscina pubblica Baia Flaminia egy úszómedence Pesaróban, amely ideális sportoláshoz és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        12.901877,
+                        43.920465
+                  ]
+            },
+            {
+                  "name": "Piscina olimpionica \"O. Berti\"",
+                  "text": "A pesarói Piscina olimpionica \"O. Berti\" egy professzionális úszómedence edzéshez és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        12.894345,
+                        43.912636
+                  ]
+            },
+            {
+                  "name": "Bagni Due Palme",
+                  "text": "A Bagni Due Palme egy tengerparti üdülőhely Pesaróban, amely felszereltséget kínál egy kellemes tengerparti naphoz.",
+                  "category": "family",
+                  "coords": [
+                        12.93634,
+                        43.901232
+                  ]
+            },
+            {
+                  "name": "Bagni Tiki",
+                  "text": "A Bagni Tiki egy tengerparti üdülőhely Pesaróban, amely ideális családok és a napozni vágyók számára.",
+                  "category": "family",
+                  "coords": [
+                        12.937595,
+                        43.900403
+                  ]
+            },
+            {
+                  "name": "Bagni Riccardo",
+                  "text": "A Bagni Riccardo egy tengerparti üdülőhely Pesaróban, amely pihentető kikapcsolódást tesz lehetővé a tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        12.931056,
+                        43.905096
+                  ]
+            },
+            {
+                  "name": "Bagni Irene",
+                  "text": "A Bagni Irene egy tengerparti üdülőhely Pesaróban, amely szolgáltatásokat kínál úszók és strandolók számára.",
+                  "category": "family",
+                  "coords": [
+                        12.919898,
+                        43.913837
+                  ]
+            },
+            {
+                  "name": "Bagni Gabri",
+                  "text": "A Bagni Gabri egy tengerparti üdülőhely Pesaróban, amely ideális egy kényelmes naphoz az adriai tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        12.920871,
+                        43.913016
+                  ]
+            },
+            {
+                  "name": "Bagni Excelsior",
+                  "text": "A Bagni Excelsior egy tengerparti üdülőhely Pesaróban, amely kellemes légkört kínál a tenger szerelmeseinek.",
+                  "category": "family",
+                  "coords": [
+                        12.922916,
+                        43.91141
+                  ]
+            },
+            {
+                  "name": "Bagni Gilberto",
+                  "text": "A Bagni Gilberto egy tengerparti üdülőhely Pesaróban, amely ideális családi tevékenységekhez a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        12.924036,
+                        43.910543
+                  ]
+            },
+            {
+                  "name": "Bagni Gino",
+                  "text": "A Bagni Gino egy tengerparti üdülőhely Pesaróban, amely helyet biztosít a pihenéshez és a szórakozáshoz a strandon.",
+                  "category": "family",
+                  "coords": [
+                        12.925002,
+                        43.909688
+                  ]
+            },
+            {
+                  "name": "Bagni Marino",
+                  "text": "A Bagni Marino egy tengerparti üdülőhely Pesaróban, amely kényelmi szolgáltatásokat kínál a strandolók számára.",
+                  "category": "family",
+                  "coords": [
+                        12.927313,
+                        43.90804
+                  ]
+            },
+            {
+                  "name": "Bagni Re Sole",
+                  "text": "A Bagni Re Sole egy tengerparti üdülőhely Pesaróban, amely ideális napozáshoz és frissítő tengeri fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        12.928929,
+                        43.906618
+                  ]
+            },
+            {
+                  "name": "Bagni Sole",
+                  "text": "A Bagni Sole egy tengerparti üdülőhely Pesaróban, amely nyugodt környezetet biztosít a strandolók számára.",
+                  "category": "family",
+                  "coords": [
+                        12.929906,
+                        43.905913
+                  ]
+            },
+            {
+                  "name": "asd circolo velico ardizio",
+                  "text": "Az asd circolo velico ardizio egy tengerparti üdülőhely Pesaróban, amely tengeri tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.934248,
+                        43.902751
+                  ]
+            },
+            {
+                  "name": "Bagni Margherita",
+                  "text": "A Bagni Margherita egy tengerparti üdülőhely Pesaróban, amely ideális egy családi kiránduláshoz a partra.",
+                  "category": "family",
+                  "coords": [
+                        12.935284,
+                        43.901964
+                  ]
+            },
+            {
+                  "name": "Bagni Bibi",
+                  "text": "A Bagni Bibi egy tengerparti üdülőhely Pesaróban, amely pihenést és szolgáltatást kínál közvetlenül a strandon.",
+                  "category": "family",
+                  "coords": [
+                        12.933299,
+                        43.903456
+                  ]
+            },
+            {
+                  "name": "Bagni Chalet a mare",
+                  "text": "A Bagni Chalet a mare egy tengerparti üdülőhely Pesaróban, amely ideális a vízparti pihenésre vágyóknak.",
+                  "category": "family",
+                  "coords": [
+                        12.946867,
+                        43.893659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo della marineria Washington Patrignani",
+                  "text": "Muzeul maritim din Pesaro documentează istoria navală și tradiția pescuitului din regiunea Marche.",
+                  "category": "museum",
+                  "coords": [
+                        12.908936,
+                        43.916237
+                  ]
+            },
+            {
+                  "name": "Lucus Pisaurensis",
+                  "text": "Acest sit arheologic antic de lângă Pesaro a fost un crâng sacru dedicat diverselor divinități romane.",
+                  "category": "historical",
+                  "coords": [
+                        12.897431,
+                        43.885137
+                  ]
+            },
+            {
+                  "name": "Auditorium Pedrotti",
+                  "text": "Acest auditorium din Pesaro face parte din Conservatorul Rossini și servește drept loc de desfășurare a concertelor de muzică clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        12.910303,
+                        43.909256
+                  ]
+            },
+            {
+                  "name": "Casa Rossini",
+                  "text": "Casa natală a compozitorului Gioachino Rossini din Pesaro expune obiecte personale și documente despre viața sa.",
+                  "category": "museum",
+                  "coords": [
+                        12.913878,
+                        43.910733
+                  ]
+            },
+            {
+                  "name": "Associazione 'Morbidelli Museo'",
+                  "text": "Acest muzeu din Pesaro prezintă o colecție impresionantă de motociclete istorice ale mărcii Morbidelli.",
+                  "category": "museum",
+                  "coords": [
+                        12.886792,
+                        43.901992
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini",
+                  "text": "Teatrul de operă numit după compozitorul Gioachino Rossini este centrul cultural al orașului Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.908747,
+                        43.907882
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Annunziata",
+                  "text": "Această fostă biserică servește astăzi ca loc de desfășurare pentru evenimente culturale și concerte în Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.912539,
+                        43.91152
+                  ]
+            },
+            {
+                  "name": "Museo Scientifico Luigi Guidi",
+                  "text": "Acest muzeu științific prezintă colecții de geologie și paleontologie din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        12.904273,
+                        43.911747
+                  ]
+            },
+            {
+                  "name": "Museo Nazionale della motocicletta",
+                  "text": "Acest muzeu este dedicat istoriei motocicletelor, având o colecție impresionantă de mașini istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.913815,
+                        43.909636
+                  ]
+            },
+            {
+                  "name": "Bagni tina 22",
+                  "text": "O secțiune de plajă bine întreținută din Pesaro, cu facilități moderne pentru o zi relaxantă la Adriatica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.916855,
+                        43.915739
+                  ]
+            },
+            {
+                  "name": "Bagni Lallo 21",
+                  "text": "Această plajă din Pesaro oferă vizitatorilor facilități de servicii și un acces confortabil la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        12.915938,
+                        43.916146
+                  ]
+            },
+            {
+                  "name": "bagni enrico 19",
+                  "text": "Stabiliment balnear în Pesaro, cu servicii tipic italiene și închiriere de șezlonguri direct pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        12.914983,
+                        43.916736
+                  ]
+            },
+            {
+                  "name": "ditta bagni gino di guidi gino 15",
+                  "text": "O secțiune de plajă bine echipată în Pesaro pentru zile de vacanță relaxante la Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        12.91375,
+                        43.917591
+                  ]
+            },
+            {
+                  "name": "Bagni Ridolfi N.13",
+                  "text": "Plajă italiană clasică cu șezlonguri și servicii, situată central în Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.912755,
+                        43.918301
+                  ]
+            },
+            {
+                  "name": "Bagni gastone e marta n 11",
+                  "text": "Această plajă oferă relaxare și confort modern la apele albastre din Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.911806,
+                        43.91898
+                  ]
+            },
+            {
+                  "name": "Spiaggia di levante",
+                  "text": "Spiaggia di levante se întinde ca o vastă plajă de nisip în zona de est a coastei orașului Pesaro. Amploarea plajei oferă suficient spațiu pentru plimbări lungi pe malul apei sau pentru a face plajă în voie la Marea Adriatică. Deoarece este un loc popular, o vizită dimineața devreme vă va permite să savurați atmosfera liniștită a dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        12.926108,
+                        43.90905
+                  ]
+            },
+            {
+                  "name": "Lido Luciano Pavarotti",
+                  "text": "Lido Luciano Pavarotti din Pesaro aduce un frumos omagiu faimosului tenor, invitându-vă la un sejur armonios la malul mării. Acest sector de plajă oferă un cadru plin de farmec pentru a vă bucura de soare și a înota în Marea Adriatică. Răsfățați-vă cu o după-amiază de relaxare aici, lăsând în urmă grijile cotidiene.",
+                  "category": "recreational",
+                  "coords": [
+                        12.89652,
+                        43.9227
+                  ]
+            },
+            {
+                  "name": "Selva di S. Nicola",
+                  "text": "O arie naturală protejată lângă Pesaro, care invită la drumeții în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.929285,
+                        43.880502
+                  ]
+            },
+            {
+                  "name": "Area floristica 106",
+                  "text": "O zonă protejată valoroasă din punct de vedere botanic pe coastă, cu floră locală tipică.",
+                  "category": "natural",
+                  "coords": [
+                        12.942706,
+                        43.896366
+                  ]
+            },
+            {
+                  "name": "Villa Meucci Severi",
+                  "text": "O vilă istorică în Pesaro care astăzi oferă perspective culturale interesante ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        12.924828,
+                        43.903285
+                  ]
+            },
+            {
+                  "name": "Sabbia libera",
+                  "text": "O secțiune de plajă publică, accesibilă gratuit pentru vizitatorii orașului Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.939787,
+                        43.898848
+                  ]
+            },
+            {
+                  "name": "zona 27",
+                  "text": "O secțiune de plajă amenajată pe coasta adriatică din Pesaro, cu facilități turistice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.921916,
+                        43.91224
+                  ]
+            },
+            {
+                  "name": "Luna Parck Pesaro",
+                  "text": "Un parc de distracții local în Pesaro, care oferă diverse atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.909729,
+                        43.919194
+                  ]
+            },
+            {
+                  "name": "Villa Caprile",
+                  "text": "O vilă din secolul al XVII-lea, renumită pentru grădinile sale terasate și jocurile de apă istorice.",
+                  "category": "historical",
+                  "coords": [
+                        12.881531,
+                        43.912852
+                  ]
+            },
+            {
+                  "name": "Villino Ruggeri",
+                  "text": "Un exemplu remarcabil de arhitectură Liberty situat chiar pe faleza orașului Pesaro.",
+                  "category": "historical",
+                  "coords": [
+                        12.917856,
+                        43.914117
+                  ]
+            },
+            {
+                  "name": "Parco Miralfiore",
+                  "text": "Cel mai mare parc public din Pesaro, oferind spații verzi vaste și alei de promenadă.",
+                  "category": "park",
+                  "coords": [
+                        12.89997,
+                        43.904262
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Don Gaudiano",
+                  "text": "Parco Giochi Don Gaudiano din Pesaro oferă un mediu de joacă sigur și vesel pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.902778,
+                        43.890154
+                  ]
+            },
+            {
+                  "name": "Parco giochi via Bragaglia",
+                  "text": "Parco giochi via Bragaglia din Pesaro este o zonă de joacă practică pentru copiii din oraș.",
+                  "category": "family",
+                  "coords": [
+                        12.904312,
+                        43.889676
+                  ]
+            },
+            {
+                  "name": "Gigilandia",
+                  "text": "Gigilandia din Pesaro este un teren de joacă colorat care oferă copiilor mult spațiu pentru fantezie și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        12.906969,
+                        43.921858
+                  ]
+            },
+            {
+                  "name": "Bagni Joe Amarena",
+                  "text": "Bagni Joe Amarena din Pesaro este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        12.897882,
+                        43.922299
+                  ]
+            },
+            {
+                  "name": "Bagni Helios",
+                  "text": "Bagni Helios din Pesaro este o stațiune la plajă care oferă relaxare și agrement pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        12.949049,
+                        43.891377
+                  ]
+            },
+            {
+                  "name": "Miramare Beach",
+                  "text": "Miramare Beach este o stațiune de plajă din Pesaro, ideală pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        12.952645,
+                        43.889095
+                  ]
+            },
+            {
+                  "name": "Bagni Agata",
+                  "text": "Bagni Agata este o stațiune de plajă din Pesaro, care oferă relaxare și scăldat la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        12.948097,
+                        43.892396
+                  ]
+            },
+            {
+                  "name": "Piscina pubblica Baia Flaminia",
+                  "text": "Piscina pubblica Baia Flaminia este o piscină din Pesaro, ideală pentru sport și recreere.",
+                  "category": "family",
+                  "coords": [
+                        12.901877,
+                        43.920465
+                  ]
+            },
+            {
+                  "name": "Piscina olimpionica \"O. Berti\"",
+                  "text": "Piscina olimpionica \"O. Berti\" din Pesaro este o piscină profesională pentru antrenament și timp liber.",
+                  "category": "family",
+                  "coords": [
+                        12.894345,
+                        43.912636
+                  ]
+            },
+            {
+                  "name": "Bagni Due Palme",
+                  "text": "Bagni Due Palme este o stațiune de plajă din Pesaro, care oferă facilități pentru o zi plăcută la plajă.",
+                  "category": "family",
+                  "coords": [
+                        12.93634,
+                        43.901232
+                  ]
+            },
+            {
+                  "name": "Bagni Tiki",
+                  "text": "Bagni Tiki este o stațiune de plajă din Pesaro, ideală pentru familii și iubitorii de soare.",
+                  "category": "family",
+                  "coords": [
+                        12.937595,
+                        43.900403
+                  ]
+            },
+            {
+                  "name": "Bagni Riccardo",
+                  "text": "Bagni Riccardo este o stațiune de plajă din Pesaro, care permite un sejur relaxant la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        12.931056,
+                        43.905096
+                  ]
+            },
+            {
+                  "name": "Bagni Irene",
+                  "text": "Bagni Irene este o stațiune de plajă din Pesaro, care oferă servicii pentru înotători și vizitatori la plajă.",
+                  "category": "family",
+                  "coords": [
+                        12.919898,
+                        43.913837
+                  ]
+            },
+            {
+                  "name": "Bagni Gabri",
+                  "text": "Bagni Gabri este o stațiune de plajă din Pesaro, ideală pentru o zi confortabilă pe plaja Adriaticii.",
+                  "category": "family",
+                  "coords": [
+                        12.920871,
+                        43.913016
+                  ]
+            },
+            {
+                  "name": "Bagni Excelsior",
+                  "text": "Bagni Excelsior este o stațiune de plajă din Pesaro, care oferă o atmosferă plăcută pentru iubitorii de mare.",
+                  "category": "family",
+                  "coords": [
+                        12.922916,
+                        43.91141
+                  ]
+            },
+            {
+                  "name": "Bagni Gilberto",
+                  "text": "Bagni Gilberto este o stațiune de plajă din Pesaro, ideală pentru activități de familie la malul apei.",
+                  "category": "family",
+                  "coords": [
+                        12.924036,
+                        43.910543
+                  ]
+            },
+            {
+                  "name": "Bagni Gino",
+                  "text": "Bagni Gino este o stațiune de plajă din Pesaro, care oferă spațiu pentru relaxare și distracție pe plajă.",
+                  "category": "family",
+                  "coords": [
+                        12.925002,
+                        43.909688
+                  ]
+            },
+            {
+                  "name": "Bagni Marino",
+                  "text": "Bagni Marino este o stațiune de plajă din Pesaro, care oferă facilități pentru vizitatorii plajei.",
+                  "category": "family",
+                  "coords": [
+                        12.927313,
+                        43.90804
+                  ]
+            },
+            {
+                  "name": "Bagni Re Sole",
+                  "text": "Bagni Re Sole este o stațiune de plajă din Pesaro, ideală pentru plajă și împrospătare în mare.",
+                  "category": "family",
+                  "coords": [
+                        12.928929,
+                        43.906618
+                  ]
+            },
+            {
+                  "name": "Bagni Sole",
+                  "text": "Bagni Sole este o stațiune de plajă din Pesaro, care oferă un mediu liniștit pentru turiștii de pe plajă.",
+                  "category": "family",
+                  "coords": [
+                        12.929906,
+                        43.905913
+                  ]
+            },
+            {
+                  "name": "asd circolo velico ardizio",
+                  "text": "asd circolo velico ardizio este o stațiune de plajă din Pesaro, care promovează activitățile la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        12.934248,
+                        43.902751
+                  ]
+            },
+            {
+                  "name": "Bagni Margherita",
+                  "text": "Bagni Margherita este o stațiune de plajă din Pesaro, ideală pentru o excursie în familie la coastă.",
+                  "category": "family",
+                  "coords": [
+                        12.935284,
+                        43.901964
+                  ]
+            },
+            {
+                  "name": "Bagni Bibi",
+                  "text": "Bagni Bibi este o stațiune de plajă din Pesaro, care oferă relaxare și servicii direct pe plajă.",
+                  "category": "family",
+                  "coords": [
+                        12.933299,
+                        43.903456
+                  ]
+            },
+            {
+                  "name": "Bagni Chalet a mare",
+                  "text": "Bagni Chalet a mare este o stațiune de plajă din Pesaro, ideală pentru cei care caută relaxare la apă.",
+                  "category": "family",
+                  "coords": [
+                        12.946867,
+                        43.893659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo della marineria Washington Patrignani",
+                  "text": "The maritime museum in Pesaro documents the naval history and fishing traditions of the Marche region.",
+                  "category": "museum",
+                  "coords": [
+                        12.908936,
+                        43.916237
+                  ]
+            },
+            {
+                  "name": "Lucus Pisaurensis",
+                  "text": "This ancient archaeological site near Pesaro was a sacred grove dedicated to various Roman deities.",
+                  "category": "historical",
+                  "coords": [
+                        12.897431,
+                        43.885137
+                  ]
+            },
+            {
+                  "name": "Auditorium Pedrotti",
+                  "text": "This auditorium in Pesaro is part of the Rossini Conservatory and serves as a venue for classical music concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        12.910303,
+                        43.909256
+                  ]
+            },
+            {
+                  "name": "Casa Rossini",
+                  "text": "The birthplace of composer Gioachino Rossini in Pesaro displays personal memorabilia and documents from his life.",
+                  "category": "museum",
+                  "coords": [
+                        12.913878,
+                        43.910733
+                  ]
+            },
+            {
+                  "name": "Associazione 'Morbidelli Museo'",
+                  "text": "This museum in Pesaro presents an impressive collection of historical motorcycles of the Morbidelli brand.",
+                  "category": "museum",
+                  "coords": [
+                        12.886792,
+                        43.901992
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini",
+                  "text": "Named after the composer Gioachino Rossini, this opera house is the cultural heart of Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.908747,
+                        43.907882
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Annunziata",
+                  "text": "This former church now serves as an atmospheric venue for cultural events and concerts in Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.912539,
+                        43.91152
+                  ]
+            },
+            {
+                  "name": "Museo Scientifico Luigi Guidi",
+                  "text": "This scientific museum presents collections related to the geology and paleontology of the region.",
+                  "category": "museum",
+                  "coords": [
+                        12.904273,
+                        43.911747
+                  ]
+            },
+            {
+                  "name": "Museo Nazionale della motocicletta",
+                  "text": "This museum is dedicated to the history of motorcycle manufacturing with an impressive collection of machines.",
+                  "category": "museum",
+                  "coords": [
+                        12.913815,
+                        43.909636
+                  ]
+            },
+            {
+                  "name": "Bagni tina 22",
+                  "text": "A well-maintained beach section in Pesaro offering modern amenities for a relaxing day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.916855,
+                        43.915739
+                  ]
+            },
+            {
+                  "name": "Bagni Lallo 21",
+                  "text": "This beach in Pesaro provides visitors with service facilities and comfortable access to the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.915938,
+                        43.916146
+                  ]
+            },
+            {
+                  "name": "bagni enrico 19",
+                  "text": "A beach club in Pesaro offering typical Italian services and sunbed rentals right by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        12.914983,
+                        43.916736
+                  ]
+            },
+            {
+                  "name": "ditta bagni gino di guidi gino 15",
+                  "text": "A well-equipped beach section in Pesaro for relaxing holiday days by the Adriatic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.91375,
+                        43.917591
+                  ]
+            },
+            {
+                  "name": "Bagni Ridolfi N.13",
+                  "text": "Classic Italian beach with sun loungers and services in a central location of Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.912755,
+                        43.918301
+                  ]
+            },
+            {
+                  "name": "Bagni gastone e marta n 11",
+                  "text": "This beach offers relaxation and modern comfort by the blue waters of Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.911806,
+                        43.91898
+                  ]
+            },
+            {
+                  "name": "Spiaggia di levante",
+                  "text": "The Spiaggia di levante stretches out as a sweeping sandy beach in the eastern coastal area of Pesaro. Its expansive shores provide plenty of room for long walks by the water or a relaxed sunbathing session by the Adriatic. Given its popularity, a morning visit is highly rewarding for those seeking a tranquil beach experience.",
+                  "category": "recreational",
+                  "coords": [
+                        12.926108,
+                        43.90905
+                  ]
+            },
+            {
+                  "name": "Lido Luciano Pavarotti",
+                  "text": "The Lido Luciano Pavarotti in Pesaro serves as a lovely tribute to the world-famous tenor, inviting visitors for a harmonious seaside stay. This special stretch of beach offers a charming environment to soak up the sun and dive into the Adriatic waters. Take the time to enjoy a peaceful afternoon here, leaving the everyday rush far behind.",
+                  "category": "recreational",
+                  "coords": [
+                        12.89652,
+                        43.9227
+                  ]
+            },
+            {
+                  "name": "Selva di S. Nicola",
+                  "text": "A protected natural area near Pesaro that invites hiking in the heart of nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.929285,
+                        43.880502
+                  ]
+            },
+            {
+                  "name": "Area floristica 106",
+                  "text": "A botanically valuable protected area on the coast featuring typical local flora.",
+                  "category": "natural",
+                  "coords": [
+                        12.942706,
+                        43.896366
+                  ]
+            },
+            {
+                  "name": "Villa Meucci Severi",
+                  "text": "A historical villa in Pesaro that today offers interesting cultural insights as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        12.924828,
+                        43.903285
+                  ]
+            },
+            {
+                  "name": "Sabbia libera",
+                  "text": "A public beach section with free access for visitors to the city of Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.939787,
+                        43.898848
+                  ]
+            },
+            {
+                  "name": "zona 27",
+                  "text": "A well-maintained beach section on the Adriatic coast of Pesaro with tourist facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        12.921916,
+                        43.91224
+                  ]
+            },
+            {
+                  "name": "Luna Parck Pesaro",
+                  "text": "A local amusement park in Pesaro featuring various rides and attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        12.909729,
+                        43.919194
+                  ]
+            },
+            {
+                  "name": "Villa Caprile",
+                  "text": "A 17th-century manor famous for its terraced Italian gardens and historical water features.",
+                  "category": "historical",
+                  "coords": [
+                        12.881531,
+                        43.912852
+                  ]
+            },
+            {
+                  "name": "Ruggeri House",
+                  "text": "A prominent example of Liberty-style architecture located on the seafront of Pesaro.",
+                  "category": "historical",
+                  "coords": [
+                        12.917856,
+                        43.914117
+                  ]
+            },
+            {
+                  "name": "Parco Miralfiore",
+                  "text": "The largest public urban park in Pesaro, featuring extensive green areas and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        12.89997,
+                        43.904262
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Don Gaudiano",
+                  "text": "Parco Giochi Don Gaudiano in Pesaro offers a safe and cheerful play environment for families.",
+                  "category": "family",
+                  "coords": [
+                        12.902778,
+                        43.890154
+                  ]
+            },
+            {
+                  "name": "Parco giochi via Bragaglia",
+                  "text": "Parco giochi via Bragaglia in Pesaro is a convenient play area for children in the city.",
+                  "category": "family",
+                  "coords": [
+                        12.904312,
+                        43.889676
+                  ]
+            },
+            {
+                  "name": "Gigilandia",
+                  "text": "Gigilandia in Pesaro is a colorful playground offering children plenty of space for imagination and movement.",
+                  "category": "family",
+                  "coords": [
+                        12.906969,
+                        43.921858
+                  ]
+            },
+            {
+                  "name": "Bagni Joe Amarena",
+                  "text": "Bagni Joe Amarena in Pesaro is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        12.897882,
+                        43.922299
+                  ]
+            },
+            {
+                  "name": "Bagni Helios",
+                  "text": "Bagni Helios in Pesaro is a beach resort providing leisure and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        12.949049,
+                        43.891377
+                  ]
+            },
+            {
+                  "name": "Miramare Beach",
+                  "text": "Miramare Beach is a beach resort in Pesaro, ideal for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        12.952645,
+                        43.889095
+                  ]
+            },
+            {
+                  "name": "Bagni Agata",
+                  "text": "Bagni Agata is a beach resort in Pesaro, offering relaxation and swimming by the sea.",
+                  "category": "family",
+                  "coords": [
+                        12.948097,
+                        43.892396
+                  ]
+            },
+            {
+                  "name": "Piscina pubblica Baia Flaminia",
+                  "text": "Piscina pubblica Baia Flaminia is a swimming pool in Pesaro, ideal for sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        12.901877,
+                        43.920465
+                  ]
+            },
+            {
+                  "name": "Piscina olimpionica \"O. Berti\"",
+                  "text": "Piscina olimpionica \"O. Berti\" in Pesaro is a professional swimming pool for training and leisure.",
+                  "category": "family",
+                  "coords": [
+                        12.894345,
+                        43.912636
+                  ]
+            },
+            {
+                  "name": "Bagni Due Palme",
+                  "text": "Bagni Due Palme is a beach resort in Pesaro, providing facilities for a pleasant day at the beach.",
+                  "category": "family",
+                  "coords": [
+                        12.93634,
+                        43.901232
+                  ]
+            },
+            {
+                  "name": "Bagni Tiki",
+                  "text": "Bagni Tiki is a beach resort in Pesaro, ideal for families and sun seekers.",
+                  "category": "family",
+                  "coords": [
+                        12.937595,
+                        43.900403
+                  ]
+            },
+            {
+                  "name": "Bagni Riccardo",
+                  "text": "Bagni Riccardo is a beach resort in Pesaro, allowing for a relaxing stay by the sea.",
+                  "category": "family",
+                  "coords": [
+                        12.931056,
+                        43.905096
+                  ]
+            },
+            {
+                  "name": "Bagni Irene",
+                  "text": "Bagni Irene is a beach resort in Pesaro, offering services for swimmers and beachgoers.",
+                  "category": "family",
+                  "coords": [
+                        12.919898,
+                        43.913837
+                  ]
+            },
+            {
+                  "name": "Bagni Gabri",
+                  "text": "Bagni Gabri is a beach resort in Pesaro, ideal for a comfortable day at the Adriatic beach.",
+                  "category": "family",
+                  "coords": [
+                        12.920871,
+                        43.913016
+                  ]
+            },
+            {
+                  "name": "Bagni Excelsior",
+                  "text": "Bagni Excelsior is a beach resort in Pesaro, offering a pleasant atmosphere for sea lovers.",
+                  "category": "family",
+                  "coords": [
+                        12.922916,
+                        43.91141
+                  ]
+            },
+            {
+                  "name": "Bagni Gilberto",
+                  "text": "Bagni Gilberto is a beach resort in Pesaro, ideal for family activities by the water.",
+                  "category": "family",
+                  "coords": [
+                        12.924036,
+                        43.910543
+                  ]
+            },
+            {
+                  "name": "Bagni Gino",
+                  "text": "Bagni Gino is a beach resort in Pesaro, providing space for relaxation and fun at the beach.",
+                  "category": "family",
+                  "coords": [
+                        12.925002,
+                        43.909688
+                  ]
+            },
+            {
+                  "name": "Bagni Marino",
+                  "text": "Bagni Marino is a beach resort in Pesaro, offering amenities for beachgoers.",
+                  "category": "family",
+                  "coords": [
+                        12.927313,
+                        43.90804
+                  ]
+            },
+            {
+                  "name": "Bagni Re Sole",
+                  "text": "Bagni Re Sole is a beach resort in Pesaro, ideal for sunbathing and a refreshing swim in the sea.",
+                  "category": "family",
+                  "coords": [
+                        12.928929,
+                        43.906618
+                  ]
+            },
+            {
+                  "name": "Bagni Sole",
+                  "text": "Bagni Sole is a beach resort in Pesaro, providing a calm environment for beachgoers.",
+                  "category": "family",
+                  "coords": [
+                        12.929906,
+                        43.905913
+                  ]
+            },
+            {
+                  "name": "asd circolo velico ardizio",
+                  "text": "asd circolo velico ardizio is a beach resort in Pesaro, promoting maritime activities.",
+                  "category": "family",
+                  "coords": [
+                        12.934248,
+                        43.902751
+                  ]
+            },
+            {
+                  "name": "Bagni Margherita",
+                  "text": "Bagni Margherita is a beach resort in Pesaro, ideal for a family trip to the coast.",
+                  "category": "family",
+                  "coords": [
+                        12.935284,
+                        43.901964
+                  ]
+            },
+            {
+                  "name": "Bagni Bibi",
+                  "text": "Bagni Bibi is a beach resort in Pesaro, offering relaxation and service right on the beach.",
+                  "category": "family",
+                  "coords": [
+                        12.933299,
+                        43.903456
+                  ]
+            },
+            {
+                  "name": "Bagni Chalet a mare",
+                  "text": "Bagni Chalet a mare is a beach resort in Pesaro, ideal for those seeking relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        12.946867,
+                        43.893659
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pesaro", hu: "Pesaro", ro: "Pesaro", en: "Pesaro" },
@@ -25313,6 +32990,33 @@ export const italyCitiesV2: POI[] = [
                         11.708684,
                         44.341871
                   ]
+            },
+            {
+                  "name": "Sport Area",
+                  "text": "Sport Area in Imola. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        11.691304,
+                        44.359877
+                  ]
+            },
+            {
+                  "name": "Piscina dell'Ortignola",
+                  "text": "Piscina dell'Ortignola in Imola. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        11.708826,
+                        44.364547
+                  ]
+            },
+            {
+                  "name": "Piscina Molino Rosso",
+                  "text": "Piscina Molino Rosso in Imola. Ein schöner Ort zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        11.736495,
+                        44.380992
+                  ]
             }
       ],
       "hu": [
@@ -25422,6 +33126,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.708684,
                         44.341871
+                  ]
+            },
+            {
+                  "name": "Sport Area",
+                  "text": "Sport Area Imola területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        11.691304,
+                        44.359877
+                  ]
+            },
+            {
+                  "name": "Piscina dell'Ortignola",
+                  "text": "Piscina dell'Ortignola Imola területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        11.708826,
+                        44.364547
+                  ]
+            },
+            {
+                  "name": "Piscina Molino Rosso",
+                  "text": "Piscina Molino Rosso Imola területén. Kellemes hely az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        11.736495,
+                        44.380992
                   ]
             }
       ],
@@ -25533,6 +33264,33 @@ export const italyCitiesV2: POI[] = [
                         11.708684,
                         44.341871
                   ]
+            },
+            {
+                  "name": "Sport Area",
+                  "text": "Sport Area din Imola. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        11.691304,
+                        44.359877
+                  ]
+            },
+            {
+                  "name": "Piscina dell'Ortignola",
+                  "text": "Piscina dell'Ortignola din Imola. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        11.708826,
+                        44.364547
+                  ]
+            },
+            {
+                  "name": "Piscina Molino Rosso",
+                  "text": "Piscina Molino Rosso din Imola. Un loc plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        11.736495,
+                        44.380992
+                  ]
             }
       ],
       "en": [
@@ -25642,6 +33400,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.708684,
                         44.341871
+                  ]
+            },
+            {
+                  "name": "Sport Area",
+                  "text": "Sport Area in Imola. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        11.691304,
+                        44.359877
+                  ]
+            },
+            {
+                  "name": "Piscina dell'Ortignola",
+                  "text": "Piscina dell'Ortignola in Imola. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        11.708826,
+                        44.364547
+                  ]
+            },
+            {
+                  "name": "Piscina Molino Rosso",
+                  "text": "Piscina Molino Rosso in Imola. A pleasant place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        11.736495,
+                        44.380992
                   ]
             }
       ]
@@ -26087,6 +33872,33 @@ export const italyCitiesV2: POI[] = [
                         12.516223,
                         38.018303
                   ]
+            },
+            {
+                  "name": "Piscina comunale",
+                  "text": "Piscina comunale ist ein städtisches Schwimmbad in Trapani, ideal für Sport und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        12.545395,
+                        38.015403
+                  ]
+            },
+            {
+                  "name": "Lido Paradiso",
+                  "text": "Lido Paradiso ist ein Strandbad in Trapani, das Entspannung am sizilianischen Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.519439,
+                        38.021955
+                  ]
+            },
+            {
+                  "name": "Piscina provinciale",
+                  "text": "Piscina provinciale ist ein Schwimmbad in Trapani, das Einrichtungen für Wassersportler bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.544997,
+                        38.029273
+                  ]
             }
       ],
       "hu": [
@@ -26214,6 +34026,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.516223,
                         38.018303
+                  ]
+            },
+            {
+                  "name": "Piscina comunale",
+                  "text": "A Piscina comunale egy városi úszómedence Trapaniban, amely ideális sportoláshoz és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        12.545395,
+                        38.015403
+                  ]
+            },
+            {
+                  "name": "Lido Paradiso",
+                  "text": "A Lido Paradiso egy tengerparti üdülőhely Trapaniban, amely pihenést kínál a szicíliai tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        12.519439,
+                        38.021955
+                  ]
+            },
+            {
+                  "name": "Piscina provinciale",
+                  "text": "A Piscina provinciale egy úszómedence Trapaniban, amely létesítményeket kínál a vízisportok kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        12.544997,
+                        38.029273
                   ]
             }
       ],
@@ -26343,6 +34182,33 @@ export const italyCitiesV2: POI[] = [
                         12.516223,
                         38.018303
                   ]
+            },
+            {
+                  "name": "Piscina comunale",
+                  "text": "Piscina comunale este o piscină municipală din Trapani, ideală pentru sport și timp liber.",
+                  "category": "family",
+                  "coords": [
+                        12.545395,
+                        38.015403
+                  ]
+            },
+            {
+                  "name": "Lido Paradiso",
+                  "text": "Lido Paradiso este o stațiune de plajă din Trapani, care oferă relaxare la marea siciliană.",
+                  "category": "family",
+                  "coords": [
+                        12.519439,
+                        38.021955
+                  ]
+            },
+            {
+                  "name": "Piscina provinciale",
+                  "text": "Piscina provinciale este o piscină din Trapani, care oferă facilități pentru pasionații de sporturi acvatice.",
+                  "category": "family",
+                  "coords": [
+                        12.544997,
+                        38.029273
+                  ]
             }
       ],
       "en": [
@@ -26470,6 +34336,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.516223,
                         38.018303
+                  ]
+            },
+            {
+                  "name": "Piscina comunale",
+                  "text": "Piscina comunale is a municipal swimming pool in Trapani, ideal for sports and leisure.",
+                  "category": "family",
+                  "coords": [
+                        12.545395,
+                        38.015403
+                  ]
+            },
+            {
+                  "name": "Lido Paradiso",
+                  "text": "Lido Paradiso is a beach resort in Trapani, offering relaxation by the Sicilian sea.",
+                  "category": "family",
+                  "coords": [
+                        12.519439,
+                        38.021955
+                  ]
+            },
+            {
+                  "name": "Piscina provinciale",
+                  "text": "Piscina provinciale is a swimming pool in Trapani, offering facilities for water sports enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        12.544997,
+                        38.029273
                   ]
             }
       ]
@@ -27032,6 +34925,24 @@ export const italyCitiesV2: POI[] = [
                         14.066553,
                         37.489289
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Ein öffentliches Schwimmbad in Caltanissetta, das Platz zum Schwimmen und zur Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.056266,
+                        37.484605
+                  ]
+            },
+            {
+                  "name": "Acquapark McLube",
+                  "text": "Ein Wasserpark in Caltanissetta mit verschiedenen Becken und Attraktionen für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        14.040909,
+                        37.468054
+                  ]
             }
       ],
       "hu": [
@@ -27096,6 +35007,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.066553,
                         37.489289
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "Nyilvános úszómedence Caltanissetta területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        14.056266,
+                        37.484605
+                  ]
+            },
+            {
+                  "name": "Acquapark McLube",
+                  "text": "Vízi park Caltanissetta területén, amely különféle medencékkel és látnivalókkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        14.040909,
+                        37.468054
                   ]
             }
       ],
@@ -27162,6 +35091,24 @@ export const italyCitiesV2: POI[] = [
                         14.066553,
                         37.489289
                   ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "O piscină publică în Caltanissetta care oferă spațiu pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        14.056266,
+                        37.484605
+                  ]
+            },
+            {
+                  "name": "Acquapark McLube",
+                  "text": "Un parc acvatic în Caltanissetta cu diverse piscine și atracții pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        14.040909,
+                        37.468054
+                  ]
             }
       ],
       "en": [
@@ -27226,6 +35173,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.066553,
                         37.489289
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale",
+                  "text": "A public swimming pool in Caltanissetta offering space for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.056266,
+                        37.484605
+                  ]
+            },
+            {
+                  "name": "Acquapark McLube",
+                  "text": "A water park in Caltanissetta featuring various pools and attractions for family fun.",
+                  "category": "family",
+                  "coords": [
+                        14.040909,
+                        37.468054
                   ]
             }
       ]
@@ -27365,6 +35330,24 @@ export const italyCitiesV2: POI[] = [
                         14.800279,
                         40.922691
                   ]
+            },
+            {
+                  "name": "Le Privè",
+                  "text": "Le Privè ist ein Schwimmbad in Avellino, ideal für eine Erfrischung und sportliche Betätigung.",
+                  "category": "family",
+                  "coords": [
+                        14.746584,
+                        40.903046
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale di Mercogliano",
+                  "text": "Piscina Comunale di Mercogliano ist ein öffentliches Schwimmbad in Avellino für Sport und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        14.742604,
+                        40.921406
+                  ]
             }
       ],
       "hu": [
@@ -27411,6 +35394,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.800279,
                         40.922691
+                  ]
+            },
+            {
+                  "name": "Le Privè",
+                  "text": "A Le Privè egy úszómedence Avellinóban, amely ideális felfrissüléshez és sporthoz.",
+                  "category": "family",
+                  "coords": [
+                        14.746584,
+                        40.903046
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale di Mercogliano",
+                  "text": "A Piscina Comunale di Mercogliano egy nyilvános úszómedence Avellinóban, sportolási és kikapcsolódási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        14.742604,
+                        40.921406
                   ]
             }
       ],
@@ -27459,6 +35460,24 @@ export const italyCitiesV2: POI[] = [
                         14.800279,
                         40.922691
                   ]
+            },
+            {
+                  "name": "Le Privè",
+                  "text": "Le Privè este o piscină din Avellino, ideală pentru răcorire și activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        14.746584,
+                        40.903046
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale di Mercogliano",
+                  "text": "Piscina Comunale di Mercogliano este o piscină publică din Avellino pentru sport și recreere.",
+                  "category": "family",
+                  "coords": [
+                        14.742604,
+                        40.921406
+                  ]
             }
       ],
       "en": [
@@ -27505,6 +35524,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         14.800279,
                         40.922691
+                  ]
+            },
+            {
+                  "name": "Le Privè",
+                  "text": "Le Privè is a swimming pool in Avellino, ideal for refreshment and sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        14.746584,
+                        40.903046
+                  ]
+            },
+            {
+                  "name": "Piscina Comunale di Mercogliano",
+                  "text": "Piscina Comunale di Mercogliano is a public swimming pool in Avellino for sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        14.742604,
+                        40.921406
                   ]
             }
       ]
@@ -28391,6 +36428,24 @@ export const italyCitiesV2: POI[] = [
                         13.333298,
                         41.322744
                   ]
+            },
+            {
+                  "name": "Ulisse Spiaggia",
+                  "text": "Ein Strandbad in Terracina, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.229202,
+                        41.284626
+                  ]
+            },
+            {
+                  "name": "La Lanterna Spiaggia",
+                  "text": "Ein Strandbad in Terracina, das Einrichtungen für einen entspannten Tag am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.231217,
+                        41.284633
+                  ]
             }
       ],
       "hu": [
@@ -28455,6 +36510,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.333298,
                         41.322744
+                  ]
+            },
+            {
+                  "name": "Ulisse Spiaggia",
+                  "text": "Tengerparti üdülőhely Terracina városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        13.229202,
+                        41.284626
+                  ]
+            },
+            {
+                  "name": "La Lanterna Spiaggia",
+                  "text": "Tengerparti üdülőhely Terracina városában, amely kényelmes pihenést biztosít a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        13.231217,
+                        41.284633
                   ]
             }
       ],
@@ -28521,6 +36594,24 @@ export const italyCitiesV2: POI[] = [
                         13.333298,
                         41.322744
                   ]
+            },
+            {
+                  "name": "Ulisse Spiaggia",
+                  "text": "O stațiune de plajă în Terracina care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        13.229202,
+                        41.284626
+                  ]
+            },
+            {
+                  "name": "La Lanterna Spiaggia",
+                  "text": "O stațiune de plajă în Terracina care oferă facilități pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        13.231217,
+                        41.284633
+                  ]
             }
       ],
       "en": [
@@ -28585,6 +36676,24 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.333298,
                         41.322744
+                  ]
+            },
+            {
+                  "name": "Ulisse Spiaggia",
+                  "text": "A beach resort in Terracina providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        13.229202,
+                        41.284626
+                  ]
+            },
+            {
+                  "name": "La Lanterna Spiaggia",
+                  "text": "A beach resort in Terracina providing facilities for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        13.231217,
+                        41.284633
                   ]
             }
       ]
@@ -29903,6 +38012,15 @@ export const italyCitiesV2: POI[] = [
                         12.702776,
                         41.713298
                   ]
+            },
+            {
+                  "name": "Piscina Barracuda",
+                  "text": "Ein öffentliches Schwimmbad in Velletri, das Platz zum Schwimmen und zur Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.787401,
+                        41.682803
+                  ]
             }
       ],
       "hu": [
@@ -29913,6 +38031,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.702776,
                         41.713298
+                  ]
+            },
+            {
+                  "name": "Piscina Barracuda",
+                  "text": "Nyilvános úszómedence Velletri területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        12.787401,
+                        41.682803
                   ]
             }
       ],
@@ -29925,6 +38052,15 @@ export const italyCitiesV2: POI[] = [
                         12.702776,
                         41.713298
                   ]
+            },
+            {
+                  "name": "Piscina Barracuda",
+                  "text": "O piscină publică în Velletri care oferă spațiu pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        12.787401,
+                        41.682803
+                  ]
             }
       ],
       "en": [
@@ -29935,6 +38071,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.702776,
                         41.713298
+                  ]
+            },
+            {
+                  "name": "Piscina Barracuda",
+                  "text": "A public swimming pool in Velletri offering space for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        12.787401,
+                        41.682803
                   ]
             }
       ]
@@ -30182,6 +38327,15 @@ export const italyCitiesV2: POI[] = [
                         13.426554,
                         41.360853
                   ]
+            },
+            {
+                  "name": "Sporting Village Onda Verde",
+                  "text": "Ein öffentliches Schwimmbad in Fondi, das Platz zum Schwimmen und zur Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.452511,
+                        41.339686
+                  ]
             }
       ],
       "hu": [
@@ -30210,6 +38364,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.426554,
                         41.360853
+                  ]
+            },
+            {
+                  "name": "Sporting Village Onda Verde",
+                  "text": "Nyilvános úszómedence Fondi területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        13.452511,
+                        41.339686
                   ]
             }
       ],
@@ -30240,6 +38403,15 @@ export const italyCitiesV2: POI[] = [
                         13.426554,
                         41.360853
                   ]
+            },
+            {
+                  "name": "Sporting Village Onda Verde",
+                  "text": "O piscină publică în Fondi care oferă spațiu pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        13.452511,
+                        41.339686
+                  ]
             }
       ],
       "en": [
@@ -30268,6 +38440,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.426554,
                         41.360853
+                  ]
+            },
+            {
+                  "name": "Sporting Village Onda Verde",
+                  "text": "A public swimming pool in Fondi offering space for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        13.452511,
+                        41.339686
                   ]
             }
       ]

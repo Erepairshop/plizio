@@ -781,7 +781,268 @@ imageHint: "Kamnik town center with Alps in background",
     },
     image: "/poi-images/slovenia-kamnik-cities-v2.webp",
 },  {
-    id: "slovenia-trbovlje-cities-v2", "sights": {"de": [{"name": "4. DRITL", "text": "Ein Bergbaumuseum in Trbovlje.", "category": "museum", "coords": [15.044494, 46.150309]}, {"name": "Zasavski muzej Trbovlje", "text": "Das Regionalmuseum für das Save-Tal in Trbovlje.", "category": "museum", "coords": [15.043255, 46.15048]}, {"name": "Dom Svobode", "text": "Ein Kultur- und Theatergebäude in Trbovlje.", "category": "cultural", "coords": [15.05374, 46.160442]}, {"name": "Martinov jašek", "text": "In der slowenischen Stadt Trbovlje ehrt das Denkmal Martinov jašek die lokale Vergangenheit. Es bewahrt die Erinnerung an die bedeutende Bergbaugeschichte der Region für zukünftige Generationen.", "category": "historical", "coords": [15.085105, 46.147506]}, {"name": "Cerkev svetega Križa", "text": "Eine Kirche in Retje bei Trbovlje.", "category": "religious", "coords": [15.05565, 46.134998]}, {"name": "Otroško igrišče na Logu", "text": "Otroško igrišče na Logu ist ein Spielplatz in Trbovlje zur Familienerholung.", "category": "family", "coords": [15.08279, 46.143847]}], "hu": [{"name": "4. DRITL", "text": "Bányászati múzeum Trbovlje területén.", "category": "museum", "coords": [15.044494, 46.150309]}, {"name": "Zasavski muzej Trbovlje", "text": "A Száva-völgyi régió múzeuma Trbovljében.", "category": "museum", "coords": [15.043255, 46.15048]}, {"name": "Dom Svobode", "text": "Kulturális és színházi épület Trbovljében.", "category": "cultural", "coords": [15.05374, 46.160442]}, {"name": "Martinov jašek", "text": "A szlovéniai Trbovlje városában a Martinov jašek emlékmű a helyi múlt előtt tiszteleg. A régió jelentős bányászati történelmének emlékét őrzi a jövő generációi számára.", "category": "historical", "coords": [15.085105, 46.147506]}, {"name": "Cerkev svetega Križa", "text": "Egy templom Retje településen, Trbovlje közelében.", "category": "religious", "coords": [15.05565, 46.134998]}, {"name": "Otroško igrišče na Logu", "text": "Az Otroško igrišče na Logu egy játszótér Trbovlje városában a családi kikapcsolódáshoz.", "category": "family", "coords": [15.08279, 46.143847]}], "ro": [{"name": "4. DRITL", "text": "Un muzeu minier în Trbovlje.", "category": "museum", "coords": [15.044494, 46.150309]}, {"name": "Zasavski muzej Trbovlje", "text": "Muzeul regional pentru valea Savei din Trbovlje.", "category": "museum", "coords": [15.043255, 46.15048]}, {"name": "Dom Svobode", "text": "O clădire culturală și de teatru în Trbovlje.", "category": "cultural", "coords": [15.05374, 46.160442]}, {"name": "Martinov jašek", "text": "În orașul sloven Trbovlje, monumentul Martinov jašek onorează trecutul local. Acesta păstrează vie amintirea istoriei miniere semnificative a regiunii pentru generațiile viitoare.", "category": "historical", "coords": [15.085105, 46.147506]}, {"name": "Cerkev svetega Križa", "text": "O biserică în Retje, lângă Trbovlje.", "category": "religious", "coords": [15.05565, 46.134998]}, {"name": "Otroško igrišče na Logu", "text": "Otroško igrišče na Logu este un teren de joacă în Trbovlje pentru recreere în familie.", "category": "family", "coords": [15.08279, 46.143847]}], "en": [{"name": "4. DRITL", "text": "A mining museum in Trbovlje.", "category": "museum", "coords": [15.044494, 46.150309]}, {"name": "Zasavski muzej Trbovlje", "text": "The regional museum for the Sava Valley in Trbovlje.", "category": "museum", "coords": [15.043255, 46.15048]}, {"name": "Dom Svobode", "text": "A cultural and theatre building in Trbovlje.", "category": "cultural", "coords": [15.05374, 46.160442]}, {"name": "Martinov jašek", "text": "Located in the Slovenian city of Trbovlje, the Martinov jašek monument honors the local past. It preserves the memory of the region's significant mining history for future generations.", "category": "historical", "coords": [15.085105, 46.147506]}, {"name": "Cerkev svetega Križa", "text": "A church in Retje near Trbovlje.", "category": "religious", "coords": [15.05565, 46.134998]}, {"name": "Otroško igrišče na Logu", "text": "Otroško igrišče na Logu is a playground in Trbovlje for family recreation.", "category": "family", "coords": [15.08279, 46.143847]}]},
+    id: "slovenia-trbovlje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "4. DRITL",
+                  "text": "Ein Bergbaumuseum in Trbovlje.",
+                  "category": "museum",
+                  "coords": [
+                        15.044494,
+                        46.150309
+                  ]
+            },
+            {
+                  "name": "Zasavski muzej Trbovlje",
+                  "text": "Das Regionalmuseum für das Save-Tal in Trbovlje.",
+                  "category": "museum",
+                  "coords": [
+                        15.043255,
+                        46.15048
+                  ]
+            },
+            {
+                  "name": "Dom Svobode",
+                  "text": "Ein Kultur- und Theatergebäude in Trbovlje.",
+                  "category": "cultural",
+                  "coords": [
+                        15.05374,
+                        46.160442
+                  ]
+            },
+            {
+                  "name": "Martinov jašek",
+                  "text": "In der slowenischen Stadt Trbovlje ehrt das Denkmal Martinov jašek die lokale Vergangenheit. Es bewahrt die Erinnerung an die bedeutende Bergbaugeschichte der Region für zukünftige Generationen.",
+                  "category": "historical",
+                  "coords": [
+                        15.085105,
+                        46.147506
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Križa",
+                  "text": "Eine Kirche in Retje bei Trbovlje.",
+                  "category": "religious",
+                  "coords": [
+                        15.05565,
+                        46.134998
+                  ]
+            },
+            {
+                  "name": "Otroško igrišče na Logu",
+                  "text": "Otroško igrišče na Logu ist ein Spielplatz in Trbovlje zur Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        15.08279,
+                        46.143847
+                  ]
+            },
+            {
+                  "name": "Letno kopališče Trbovlje",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Trbovlje.",
+                  "category": "family",
+                  "coords": [
+                        15.055108,
+                        46.155624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "4. DRITL",
+                  "text": "Bányászati múzeum Trbovlje területén.",
+                  "category": "museum",
+                  "coords": [
+                        15.044494,
+                        46.150309
+                  ]
+            },
+            {
+                  "name": "Zasavski muzej Trbovlje",
+                  "text": "A Száva-völgyi régió múzeuma Trbovljében.",
+                  "category": "museum",
+                  "coords": [
+                        15.043255,
+                        46.15048
+                  ]
+            },
+            {
+                  "name": "Dom Svobode",
+                  "text": "Kulturális és színházi épület Trbovljében.",
+                  "category": "cultural",
+                  "coords": [
+                        15.05374,
+                        46.160442
+                  ]
+            },
+            {
+                  "name": "Martinov jašek",
+                  "text": "A szlovéniai Trbovlje városában a Martinov jašek emlékmű a helyi múlt előtt tiszteleg. A régió jelentős bányászati történelmének emlékét őrzi a jövő generációi számára.",
+                  "category": "historical",
+                  "coords": [
+                        15.085105,
+                        46.147506
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Križa",
+                  "text": "Egy templom Retje településen, Trbovlje közelében.",
+                  "category": "religious",
+                  "coords": [
+                        15.05565,
+                        46.134998
+                  ]
+            },
+            {
+                  "name": "Otroško igrišče na Logu",
+                  "text": "Az Otroško igrišče na Logu egy játszótér Trbovlje városában a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.08279,
+                        46.143847
+                  ]
+            },
+            {
+                  "name": "Letno kopališče Trbovlje",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Trbovlje városában.",
+                  "category": "family",
+                  "coords": [
+                        15.055108,
+                        46.155624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "4. DRITL",
+                  "text": "Un muzeu minier în Trbovlje.",
+                  "category": "museum",
+                  "coords": [
+                        15.044494,
+                        46.150309
+                  ]
+            },
+            {
+                  "name": "Zasavski muzej Trbovlje",
+                  "text": "Muzeul regional pentru valea Savei din Trbovlje.",
+                  "category": "museum",
+                  "coords": [
+                        15.043255,
+                        46.15048
+                  ]
+            },
+            {
+                  "name": "Dom Svobode",
+                  "text": "O clădire culturală și de teatru în Trbovlje.",
+                  "category": "cultural",
+                  "coords": [
+                        15.05374,
+                        46.160442
+                  ]
+            },
+            {
+                  "name": "Martinov jašek",
+                  "text": "În orașul sloven Trbovlje, monumentul Martinov jašek onorează trecutul local. Acesta păstrează vie amintirea istoriei miniere semnificative a regiunii pentru generațiile viitoare.",
+                  "category": "historical",
+                  "coords": [
+                        15.085105,
+                        46.147506
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Križa",
+                  "text": "O biserică în Retje, lângă Trbovlje.",
+                  "category": "religious",
+                  "coords": [
+                        15.05565,
+                        46.134998
+                  ]
+            },
+            {
+                  "name": "Otroško igrišče na Logu",
+                  "text": "Otroško igrišče na Logu este un teren de joacă în Trbovlje pentru recreere în familie.",
+                  "category": "family",
+                  "coords": [
+                        15.08279,
+                        46.143847
+                  ]
+            },
+            {
+                  "name": "Letno kopališče Trbovlje",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Trbovlje.",
+                  "category": "family",
+                  "coords": [
+                        15.055108,
+                        46.155624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "4. DRITL",
+                  "text": "A mining museum in Trbovlje.",
+                  "category": "museum",
+                  "coords": [
+                        15.044494,
+                        46.150309
+                  ]
+            },
+            {
+                  "name": "Zasavski muzej Trbovlje",
+                  "text": "The regional museum for the Sava Valley in Trbovlje.",
+                  "category": "museum",
+                  "coords": [
+                        15.043255,
+                        46.15048
+                  ]
+            },
+            {
+                  "name": "Dom Svobode",
+                  "text": "A cultural and theatre building in Trbovlje.",
+                  "category": "cultural",
+                  "coords": [
+                        15.05374,
+                        46.160442
+                  ]
+            },
+            {
+                  "name": "Martinov jašek",
+                  "text": "Located in the Slovenian city of Trbovlje, the Martinov jašek monument honors the local past. It preserves the memory of the region's significant mining history for future generations.",
+                  "category": "historical",
+                  "coords": [
+                        15.085105,
+                        46.147506
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Križa",
+                  "text": "A church in Retje near Trbovlje.",
+                  "category": "religious",
+                  "coords": [
+                        15.05565,
+                        46.134998
+                  ]
+            },
+            {
+                  "name": "Otroško igrišče na Logu",
+                  "text": "Otroško igrišče na Logu is a playground in Trbovlje for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        15.08279,
+                        46.143847
+                  ]
+            },
+            {
+                  "name": "Letno kopališče Trbovlje",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Trbovlje.",
+                  "category": "family",
+                  "coords": [
+                        15.055108,
+                        46.155624
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "city",
     name: { de: "Trbovlje", hu: "Trbovlje", ro: "Trbovlje", en: "Trbovlje"},
@@ -1405,6 +1666,15 @@ imageHint: "Jesenice city view with steel works and mountains",
                         16.143176,
                         46.678188
                   ]
+            },
+            {
+                  "name": "Kopališče Murska Sobota",
+                  "text": "Ein lokales Schwimmbad in Murska Sobota, das sich für Sport- und Freizeitaktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        16.158859,
+                        46.667345
+                  ]
             }
       ],
       "hu": [
@@ -1496,6 +1766,15 @@ imageHint: "Jesenice city view with steel works and mountains",
                   "coords": [
                         16.143176,
                         46.678188
+                  ]
+            },
+            {
+                  "name": "Kopališče Murska Sobota",
+                  "text": "Murska Sobota helyi úszómedencéje, amely sportolásra és kikapcsolódásra egyaránt alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        16.158859,
+                        46.667345
                   ]
             }
       ],
@@ -1589,6 +1868,15 @@ imageHint: "Jesenice city view with steel works and mountains",
                         16.143176,
                         46.678188
                   ]
+            },
+            {
+                  "name": "Kopališče Murska Sobota",
+                  "text": "O piscină locală în Murska Sobota, potrivită pentru activități sportive și de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        16.158859,
+                        46.667345
+                  ]
             }
       ],
       "en": [
@@ -1680,6 +1968,15 @@ imageHint: "Jesenice city view with steel works and mountains",
                   "coords": [
                         16.143176,
                         46.678188
+                  ]
+            },
+            {
+                  "name": "Kopališče Murska Sobota",
+                  "text": "A local swimming pool in Murska Sobota suitable for sports and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        16.158859,
+                        46.667345
                   ]
             }
       ]
@@ -10325,6 +10622,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.729291,
                         46.585433
                   ]
+            },
+            {
+                  "name": "archery",
+                  "text": "Erkunden Sie das Meeresleben und genießen Sie einen lehrreichen Familienbesuch in Spodnji Duplek.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
             }
       ],
       "hu": [
@@ -10380,6 +10686,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.729291,
                         46.585433
+                  ]
+            },
+            {
+                  "name": "archery",
+                  "text": "Fedezze fel a vízi világot, és élvezze az oktató jellegű családi látogatást Spodnji Duplek városában.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
                   ]
             }
       ],
@@ -10437,6 +10752,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.729291,
                         46.585433
                   ]
+            },
+            {
+                  "name": "archery",
+                  "text": "Explorați viața acvatică și bucurați-vă de o vizită educativă în familie în Spodnji Duplek.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
             }
       ],
       "en": [
@@ -10492,6 +10816,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.729291,
                         46.585433
+                  ]
+            },
+            {
+                  "name": "archery",
+                  "text": "Explore aquatic life and enjoy an educational family visit in Spodnji Duplek.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
                   ]
             }
       ]
@@ -11278,7 +11611,52 @@ imageHint: "Crnomelj town center at river confluence",
     image: "/poi-images/slovenia-selnica-ob-dravi-cities-v2.webp",
   },
   {
-    id: "slovenia-miklavz-na-dravskem-polju-cities-v2",
+    id: "slovenia-miklavz-na-dravskem-polju-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "archery",
+                  "text": "Erkunden Sie das Meeresleben und genießen Sie einen lehrreichen Familienbesuch in Miklavz Na Dravskem Polju.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "archery",
+                  "text": "Fedezze fel a vízi világot, és élvezze az oktató jellegű családi látogatást Miklavz Na Dravskem Polju városában.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "archery",
+                  "text": "Explorați viața acvatică și bucurați-vă de o vizită educativă în familie în Miklavz Na Dravskem Polju.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "archery",
+                  "text": "Explore aquatic life and enjoy an educational family visit in Miklavz Na Dravskem Polju.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SI",
     name: { de: "Miklavž na Dravskem polju", hu: "Miklavž na Dravskem polju", ro: "Miklavž na Dravskem polju", en: "Miklavž na Dravskem polju" },

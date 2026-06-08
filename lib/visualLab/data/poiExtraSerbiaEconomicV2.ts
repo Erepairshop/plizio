@@ -408,7 +408,52 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-smederevo-steel-mill-economic-v2.webp",
   },
   {
-    id: "serbia-pozarevac-economic-center-economic-v2",
+    id: "serbia-pozarevac-economic-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Бамбиланд",
+                  "text": "Diese familienfreundliche Attraktion in Pozarevac Economic Center bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        21.1721,
+                        44.619445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Бамбиланд",
+                  "text": "Ez a családbarát látványosság Pozarevac Economic Center városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        21.1721,
+                        44.619445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Бамбиланд",
+                  "text": "Această atracție de familie din Pozarevac Economic Center oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        21.1721,
+                        44.619445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Бамбиланд",
+                  "text": "This family-friendly attraction in Pozarevac Economic Center offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        21.1721,
+                        44.619445
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Wirtschaftsknotenpunkt Požarevac", hu: "Pozsarevác gazdasági központja", ro: "Centrul economic Požarevac", en: "Pozarevac Economic Center" },
@@ -543,7 +588,124 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-valjevo-industrial-hub-economic-v2.webp",
   },
   {
-    id: "serbia-cacak-trade-center-economic-v2", "sights": {"de": [{"name": "Parmenačko jezero", "text": "Ein malerischer See bei Cacak, der eine friedliche Umgebung zum Wandern bietet.", "category": "natural", "coords": [20.282791, 43.897972]}, {"name": "Rekreativno jezero", "text": "Ein Erholungssee in der Gegend von Cacak, perfekt für Aktivitäten im Freien.", "category": "natural", "coords": [20.340529, 43.89915]}], "hu": [{"name": "Parmenačko jezero", "text": "Festői tó Cacak közelében, amely nyugodt környezetet biztosít a sétához és a pihenéshez.", "category": "natural", "coords": [20.282791, 43.897972]}, {"name": "Rekreativno jezero", "text": "Szabadidős tó Cacak környékén, amely tökéletes a szabadtéri tevékenységekhez.", "category": "natural", "coords": [20.340529, 43.89915]}], "ro": [{"name": "Parmenačko jezero", "text": "Un lac pitoresc lângă Čačak, oferind un mediu pașnic pentru plimbări și relaxare.", "category": "natural", "coords": [20.282791, 43.897972]}, {"name": "Rekreativno jezero", "text": "Un lac recreativ în zona Čačak, perfect pentru activități în aer liber și peisaj.", "category": "natural", "coords": [20.340529, 43.89915]}], "en": [{"name": "Parmenačko jezero", "text": "A scenic lake near Cacak, offering a peaceful environment for walking and relaxation.", "category": "natural", "coords": [20.282791, 43.897972]}, {"name": "Rekreativno jezero", "text": "A recreational lake in the Cacak area, perfect for enjoying outdoor activities and scenery.", "category": "natural", "coords": [20.340529, 43.89915]}]},
+    id: "serbia-cacak-trade-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parmenačko jezero",
+                  "text": "Ein malerischer See bei Cacak, der eine friedliche Umgebung zum Wandern bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.282791,
+                        43.897972
+                  ]
+            },
+            {
+                  "name": "Rekreativno jezero",
+                  "text": "Ein Erholungssee in der Gegend von Cacak, perfekt für Aktivitäten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        20.340529,
+                        43.89915
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "Das Stadtbad in Cacak ist eine öffentliche Schwimmeinrichtung.",
+                  "category": "family",
+                  "coords": [
+                        20.346015,
+                        43.899201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parmenačko jezero",
+                  "text": "Festői tó Cacak közelében, amely nyugodt környezetet biztosít a sétához és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        20.282791,
+                        43.897972
+                  ]
+            },
+            {
+                  "name": "Rekreativno jezero",
+                  "text": "Szabadidős tó Cacak környékén, amely tökéletes a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        20.340529,
+                        43.89915
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "A čačaki városi medence egy nyilvános úszólétesítmény.",
+                  "category": "family",
+                  "coords": [
+                        20.346015,
+                        43.899201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parmenačko jezero",
+                  "text": "Un lac pitoresc lângă Čačak, oferind un mediu pașnic pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        20.282791,
+                        43.897972
+                  ]
+            },
+            {
+                  "name": "Rekreativno jezero",
+                  "text": "Un lac recreativ în zona Čačak, perfect pentru activități în aer liber și peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        20.340529,
+                        43.89915
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "Piscina municipală din Cacak este o facilitate publică de înot.",
+                  "category": "family",
+                  "coords": [
+                        20.346015,
+                        43.899201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parmenačko jezero",
+                  "text": "A scenic lake near Cacak, offering a peaceful environment for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        20.282791,
+                        43.897972
+                  ]
+            },
+            {
+                  "name": "Rekreativno jezero",
+                  "text": "A recreational lake in the Cacak area, perfect for enjoying outdoor activities and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        20.340529,
+                        43.89915
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "The City Pool in Cacak is a public swimming facility.",
+                  "category": "family",
+                  "coords": [
+                        20.346015,
+                        43.899201
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Handelszentrum Čačak", hu: "Csacsaki kereskedelmi központ", ro: "Centrul comercial Čačak", en: "Cacak Trade Center" },
@@ -993,7 +1155,484 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-krusevac-manufacturing-hub-economic-v2.webp",
   },
   {
-    id: "serbia-zajecar-industrial-hub-economic-v2", "sights": {"de": [{"name": "Istočna tvrđava", "text": "Eine historische Festungsanlage zum Schutz der Stadt Zaječar.", "category": "fortress", "coords": [22.28581, 43.893945]}, {"name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”", "text": "Das professionelle Theater der Stadt, benannt nach dem berühmten Schauspieler Zoran Radmilović.", "category": "cultural", "coords": [22.274761, 43.901099]}, {"name": "Muzej grada Zaječara", "text": "Das Nationalmuseum in Zaječar präsentiert lokale archäologische und historische Funde.", "category": "museum", "coords": [22.278768, 43.903485]}, {"name": "Radul-begov konak", "text": "Ein historisches Gebäude im balkanischen Stil, das heute als Museum dient.", "category": "museum", "coords": [22.279295, 43.902007]}, {"name": "Istorijski arhiv „Timočka Krajina”", "text": "Ein Archiv, das bedeutende historische Dokumente der Region Timok-Tal bewahrt.", "category": "museum", "coords": [22.270801, 43.902638]}, {"name": "Spomenik Zoranu Radmiloviću", "text": "Das historische Denkmal Споменик Зорану Радмиловићу befindet sich im Zajecar Industrial Hub und ehrt den berühmten serbischen Schauspieler Zoran Radmilović. Besucher dieser Stätte in Serbien können hier über die kulturelle Bedeutung seines Theatererbes nachdenken.", "category": "historical", "coords": [22.276525, 43.901381]}, {"name": "Spomen park-šuma „Kraljevica”", "text": "Ein weitläufiger Waldpark und Gedenkstätte am Rande von Zaječar.", "category": "park", "coords": [22.273296, 43.885183]}, {"name": "Spomenik streljanim žrtvama Timočke bune", "text": "Ein Denkmal zur Erinnerung an den Timoker Aufstand von 1883.", "category": "historical", "coords": [22.278652, 43.89467]}, {"name": "Spomenik Nikoli Pašiću", "text": "Denkmal für den bedeutenden serbischen Staatsmann Nikola Pašić, der in Zaječar geboren wurde.", "category": "historical", "coords": [22.276144, 43.903331]}, {"name": "Hajduk Veljko", "text": "Ein Denkmal für Hajduk Veljko Petrović, einen Helden des Ersten Serbischen Aufstands.", "category": "historical", "coords": [22.286917, 43.90703]}, {"name": "Popova plaža", "text": "Ein beliebtes Sport- und Erholungszentrum am Ufer des Flusses Timok.", "category": "recreational", "coords": [22.276548, 43.909344]}, {"name": "Spomenik Vešala", "text": "Eine Gedenkstätte für die Opfer des Zweiten Weltkriegs in Zaječar.", "category": "historical", "coords": [22.264806, 43.889121]}], "hu": [{"name": "Istočna tvrđava", "text": "Zaječar városának védelmére épült történelmi erődrendszer része.", "category": "fortress", "coords": [22.28581, 43.893945]}, {"name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”", "text": "A város szakmai színháza, amely Zoran Radmilović híres színész nevét viseli.", "category": "cultural", "coords": [22.274761, 43.901099]}, {"name": "Muzej grada Zaječara", "text": "A zaječari nemzeti múzeum helyi régészeti és történelmi leleteket mutat be.", "category": "museum", "coords": [22.278768, 43.903485]}, {"name": "Radul-begov konak", "text": "Egy patinás, balkáni stílusú épület, amely ma múzeumnak ad otthont.", "category": "museum", "coords": [22.279295, 43.902007]}, {"name": "Istorijski arhiv „Timočka Krajina”", "text": "A Timok-völgy régiójának jelentős történelmi dokumentumait őrző archívum.", "category": "museum", "coords": [22.270801, 43.902638]}, {"name": "Spomenik Zoranu Radmiloviću", "text": "A Zajecar Industrial Hub területén található Споменик Зорану Радмиловићу történelmi emlékmű a híres szerb színész, Zoran Radmilović előtt tiszteleg. A Szerbiába látogatók ezen a helyszínen elgondolkodhatnak az ő színházi örökségének kulturális hatásán.", "category": "historical", "coords": [22.276525, 43.901381]}, {"name": "Spomen park-šuma „Kraljevica”", "text": "Egy kiterjedt erdőpark és emlékhely Zaječar szélén.", "category": "park", "coords": [22.273296, 43.885183]}, {"name": "Spomenik streljanim žrtvama Timočke bune", "text": "Az 1883-as timoki lázadás emlékére állított emlékmű.", "category": "historical", "coords": [22.278652, 43.89467]}, {"name": "Spomenik Nikoli Pašiću", "text": "Emlékmű Nikola Pašić neves szerb államférfi tiszteletére, aki Zaječarban született.", "category": "historical", "coords": [22.276144, 43.903331]}, {"name": "Hajduk Veljko", "text": "Emlékmű Hajduk Veljko Petrović, az első szerb felkelés hősének tiszteletére.", "category": "historical", "coords": [22.286917, 43.90703]}, {"name": "Popova plaža", "text": "Népszerű sport- és szabadidőközpont a Timok-folyó partján.", "category": "recreational", "coords": [22.276548, 43.909344]}, {"name": "Spomenik Vešala", "text": "Emlékhely a második világháború zaječari áldozatainak tiszteletére.", "category": "historical", "coords": [22.264806, 43.889121]}], "ro": [{"name": "Istočna tvrđava", "text": "O fortificație istorică ce face parte din sistemul de apărare al orașului Zaječar.", "category": "fortress", "coords": [22.28581, 43.893945]}, {"name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”", "text": "Teatrul profesionist al orașului, numit după celebrul actor Zoran Radmilović.", "category": "cultural", "coords": [22.274761, 43.901099]}, {"name": "Muzej grada Zaječara", "text": "Muzeul Național din Zaječar prezintă descoperiri arheologice și istorice locale.", "category": "museum", "coords": [22.278768, 43.903485]}, {"name": "Radul-begov konak", "text": "O clădire istorică în stil balcanic, care servește astăzi ca muzeu.", "category": "museum", "coords": [22.279295, 43.902007]}, {"name": "Istorijski arhiv „Timočka Krajina”", "text": "Un arhivă care păstrează documente istorice importante ale regiunii Valea Timocului.", "category": "museum", "coords": [22.270801, 43.902638]}, {"name": "Spomenik Zoranu Radmiloviću", "text": "Situat în Zajecar Industrial Hub, Споменик Зорану Радмиловићу este un monument istoric care onorează renumitul actor sârb Zoran Radmilović. Vizitatorii acestui sit din Serbia pot reflecta asupra impactului cultural al moștenirii sale teatrale.", "category": "historical", "coords": [22.276525, 43.901381]}, {"name": "Spomen park-šuma „Kraljevica”", "text": "Un parc forestier extins și loc memorial situat la marginea orașului Zaječar.", "category": "park", "coords": [22.273296, 43.885183]}, {"name": "Spomenik streljanim žrtvama Timočke bune", "text": "Un monument dedicat amintirii revoltei din Timoc din anul 1883.", "category": "historical", "coords": [22.278652, 43.89467]}, {"name": "Spomenik Nikoli Pašiću", "text": "Monument dedicat omului de stat sârb Nikola Pašić, care s-a născut la Zaječar.", "category": "historical", "coords": [22.276144, 43.903331]}, {"name": "Hajduk Veljko", "text": "Un monument închinat lui Hajduk Veljko Petrović, un erou al primei răscoale sârbe.", "category": "historical", "coords": [22.286917, 43.90703]}, {"name": "Popova plaža", "text": "Un popular centru sportiv și de recreere situat pe malul râului Timoc.", "category": "recreational", "coords": [22.276548, 43.909344]}, {"name": "Spomenik Vešala", "text": "Un monument memorial dedicat victimelor celui de-al Doilea Război Mondial din Zaječar.", "category": "historical", "coords": [22.264806, 43.889121]}], "en": [{"name": "Zaječar Eastern Fortress", "text": "A historical fortification part of the defensive system of Zaječar.", "category": "fortress", "coords": [22.28581, 43.893945]}, {"name": "Zoran Radmilović National Theater of Timok Valley", "text": "The city's professional theater, named after the famous actor Zoran Radmilović.", "category": "cultural", "coords": [22.274761, 43.901099]}, {"name": "Muzej grada Zaječara", "text": "The National Museum in Zaječar presents local archaeological and historical findings.", "category": "museum", "coords": [22.278768, 43.903485]}, {"name": "Radul-Bey's Residence", "text": "A historical building in Balkan style that now serves as a museum.", "category": "museum", "coords": [22.279295, 43.902007]}, {"name": "Timok Valley Historical Archive", "text": "An archive preserving important historical documents of the Timok Valley region.", "category": "museum", "coords": [22.270801, 43.902638]}, {"name": "Zoran Radmilović Monument", "text": "Located in the Zajecar Industrial Hub, Споменик Зорану Радмиловићу is a historical monument honoring the renowned Serbian actor Zoran Radmilović. Visitors to this site in Serbia can reflect on the cultural impact of his theatrical legacy.", "category": "historical", "coords": [22.276525, 43.901381]}, {"name": "Kraljevica Memorial Park and Forest", "text": "A spacious forest park and memorial site located on the outskirts of Zaječar.", "category": "park", "coords": [22.273296, 43.885183]}, {"name": "Monument to the Timok Rebellion", "text": "A monument commemorating the Timok Rebellion of 1883.", "category": "historical", "coords": [22.278652, 43.89467]}, {"name": "Monument to Nikola Pašić", "text": "Monument to the prominent Serbian statesman Nikola Pašić, who was born in Zaječar.", "category": "historical", "coords": [22.276144, 43.903331]}, {"name": "Hajduk Veljko", "text": "A monument to Hajduk Veljko Petrović, a hero of the First Serbian Uprising.", "category": "historical", "coords": [22.286917, 43.90703]}, {"name": "Popova plaža", "text": "A popular sports and recreational center on the banks of the Timok River.", "category": "recreational", "coords": [22.276548, 43.909344]}, {"name": "The Gallows Monument", "text": "A memorial site dedicated to the victims of World War II in Zaječar.", "category": "historical", "coords": [22.264806, 43.889121]}]},
+    id: "serbia-zajecar-industrial-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istočna tvrđava",
+                  "text": "Eine historische Festungsanlage zum Schutz der Stadt Zaječar.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”",
+                  "text": "Das professionelle Theater der Stadt, benannt nach dem berühmten Schauspieler Zoran Radmilović.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Muzej grada Zaječara",
+                  "text": "Das Nationalmuseum in Zaječar präsentiert lokale archäologische und historische Funde.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Radul-begov konak",
+                  "text": "Ein historisches Gebäude im balkanischen Stil, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Istorijski arhiv „Timočka Krajina”",
+                  "text": "Ein Archiv, das bedeutende historische Dokumente der Region Timok-Tal bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Spomenik Zoranu Radmiloviću",
+                  "text": "Das historische Denkmal Споменик Зорану Радмиловићу befindet sich im Zajecar Industrial Hub und ehrt den berühmten serbischen Schauspieler Zoran Radmilović. Besucher dieser Stätte in Serbien können hier über die kulturelle Bedeutung seines Theatererbes nachdenken.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Spomen park-šuma „Kraljevica”",
+                  "text": "Ein weitläufiger Waldpark und Gedenkstätte am Rande von Zaječar.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim žrtvama Timočke bune",
+                  "text": "Ein Denkmal zur Erinnerung an den Timoker Aufstand von 1883.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Spomenik Nikoli Pašiću",
+                  "text": "Denkmal für den bedeutenden serbischen Staatsmann Nikola Pašić, der in Zaječar geboren wurde.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "Ein Denkmal für Hajduk Veljko Petrović, einen Helden des Ersten Serbischen Aufstands.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Popova plaža",
+                  "text": "Ein beliebtes Sport- und Erholungszentrum am Ufer des Flusses Timok.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "Spomenik Vešala",
+                  "text": "Eine Gedenkstätte für die Opfer des Zweiten Weltkriegs in Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "Diese Schwimmeinrichtung in Zajecar Industrial Hub bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        22.276393,
+                        43.894327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istočna tvrđava",
+                  "text": "Zaječar városának védelmére épült történelmi erődrendszer része.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”",
+                  "text": "A város szakmai színháza, amely Zoran Radmilović híres színész nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Muzej grada Zaječara",
+                  "text": "A zaječari nemzeti múzeum helyi régészeti és történelmi leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Radul-begov konak",
+                  "text": "Egy patinás, balkáni stílusú épület, amely ma múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Istorijski arhiv „Timočka Krajina”",
+                  "text": "A Timok-völgy régiójának jelentős történelmi dokumentumait őrző archívum.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Spomenik Zoranu Radmiloviću",
+                  "text": "A Zajecar Industrial Hub területén található Споменик Зорану Радмиловићу történelmi emlékmű a híres szerb színész, Zoran Radmilović előtt tiszteleg. A Szerbiába látogatók ezen a helyszínen elgondolkodhatnak az ő színházi örökségének kulturális hatásán.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Spomen park-šuma „Kraljevica”",
+                  "text": "Egy kiterjedt erdőpark és emlékhely Zaječar szélén.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim žrtvama Timočke bune",
+                  "text": "Az 1883-as timoki lázadás emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Spomenik Nikoli Pašiću",
+                  "text": "Emlékmű Nikola Pašić neves szerb államférfi tiszteletére, aki Zaječarban született.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "Emlékmű Hajduk Veljko Petrović, az első szerb felkelés hősének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Popova plaža",
+                  "text": "Népszerű sport- és szabadidőközpont a Timok-folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "Spomenik Vešala",
+                  "text": "Emlékhely a második világháború zaječari áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "Ez a Zajecar Industrial Hub városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        22.276393,
+                        43.894327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istočna tvrđava",
+                  "text": "O fortificație istorică ce face parte din sistemul de apărare al orașului Zaječar.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”",
+                  "text": "Teatrul profesionist al orașului, numit după celebrul actor Zoran Radmilović.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Muzej grada Zaječara",
+                  "text": "Muzeul Național din Zaječar prezintă descoperiri arheologice și istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Radul-begov konak",
+                  "text": "O clădire istorică în stil balcanic, care servește astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Istorijski arhiv „Timočka Krajina”",
+                  "text": "Un arhivă care păstrează documente istorice importante ale regiunii Valea Timocului.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Spomenik Zoranu Radmiloviću",
+                  "text": "Situat în Zajecar Industrial Hub, Споменик Зорану Радмиловићу este un monument istoric care onorează renumitul actor sârb Zoran Radmilović. Vizitatorii acestui sit din Serbia pot reflecta asupra impactului cultural al moștenirii sale teatrale.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Spomen park-šuma „Kraljevica”",
+                  "text": "Un parc forestier extins și loc memorial situat la marginea orașului Zaječar.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim žrtvama Timočke bune",
+                  "text": "Un monument dedicat amintirii revoltei din Timoc din anul 1883.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Spomenik Nikoli Pašiću",
+                  "text": "Monument dedicat omului de stat sârb Nikola Pašić, care s-a născut la Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "Un monument închinat lui Hajduk Veljko Petrović, un erou al primei răscoale sârbe.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Popova plaža",
+                  "text": "Un popular centru sportiv și de recreere situat pe malul râului Timoc.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "Spomenik Vešala",
+                  "text": "Un monument memorial dedicat victimelor celui de-al Doilea Război Mondial din Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "Această unitate de înot din Zajecar Industrial Hub oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        22.276393,
+                        43.894327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zaječar Eastern Fortress",
+                  "text": "A historical fortification part of the defensive system of Zaječar.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Zoran Radmilović National Theater of Timok Valley",
+                  "text": "The city's professional theater, named after the famous actor Zoran Radmilović.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Muzej grada Zaječara",
+                  "text": "The National Museum in Zaječar presents local archaeological and historical findings.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Radul-Bey's Residence",
+                  "text": "A historical building in Balkan style that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Timok Valley Historical Archive",
+                  "text": "An archive preserving important historical documents of the Timok Valley region.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Zoran Radmilović Monument",
+                  "text": "Located in the Zajecar Industrial Hub, Споменик Зорану Радмиловићу is a historical monument honoring the renowned Serbian actor Zoran Radmilović. Visitors to this site in Serbia can reflect on the cultural impact of his theatrical legacy.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Kraljevica Memorial Park and Forest",
+                  "text": "A spacious forest park and memorial site located on the outskirts of Zaječar.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Monument to the Timok Rebellion",
+                  "text": "A monument commemorating the Timok Rebellion of 1883.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Monument to Nikola Pašić",
+                  "text": "Monument to the prominent Serbian statesman Nikola Pašić, who was born in Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "A monument to Hajduk Veljko Petrović, a hero of the First Serbian Uprising.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Popova plaža",
+                  "text": "A popular sports and recreational center on the banks of the Timok River.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "The Gallows Monument",
+                  "text": "A memorial site dedicated to the victims of World War II in Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            },
+            {
+                  "name": "City pool",
+                  "text": "This swimming facility in Zajecar Industrial Hub offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        22.276393,
+                        43.894327
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Industriezentrum Zaječar", hu: "Zaječari ipari központ", ro: "Centrul industrial Zaječar", en: "Zajecar Industrial Hub" },
@@ -1128,7 +1767,232 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-novi-sad-industrial-zone-economic-v2.webp",
   },
   {
-    id: "serbia-prokuplje-industry-economic-v2", "sights": {"de": [{"name": "Rimsko kupatilo", "text": "Archäologische Stätte, die Überreste eines antiken römischen Bades zeigt.", "category": "historical", "coords": [21.583413, 43.230182]}, {"name": "Spomenik Topličanima", "text": "Ein Denkmal für die Gefallenen der Region Toplica in den Kriegen von 1912 bis 1918.", "category": "historical", "coords": [21.587342, 43.234496]}, {"name": "Hamam", "text": "Überreste eines historischen türkischen Bades aus der osmanischen Zeit.", "category": "historical", "coords": [21.588825, 43.232299]}, {"name": "Dr Zoran Đinđić", "text": "Ein Denkmal zu Ehren des ermordeten serbischen Premierministers Zoran Đinđić.", "category": "historical", "coords": [21.60424, 43.237676]}, {"name": "Rastovničko jezero", "text": "Ein ruhiger See bei Prokuplje, ideal für einen stillen Spaziergang in der Natur.", "category": "natural", "coords": [21.604272, 43.210776]}], "hu": [{"name": "Rimsko kupatilo", "text": "Régészeti lelőhely, amely egy ókori római fürdő maradványait mutatja be.", "category": "historical", "coords": [21.583413, 43.230182]}, {"name": "Spomenik Topličanima", "text": "Emlékmű a Toplica régió 1912 és 1918 közötti háborúkban elesett hőseinek.", "category": "historical", "coords": [21.587342, 43.234496]}, {"name": "Hamam", "text": "Egy történelmi török fürdő maradványai az oszmán korból.", "category": "historical", "coords": [21.588825, 43.232299]}, {"name": "Dr Zoran Đinđić", "text": "Emlékmű a meggyilkolt szerb miniszterelnök, Zoran Đinđić tiszteletére.", "category": "historical", "coords": [21.60424, 43.237676]}, {"name": "Rastovničko jezero", "text": "Csendes tó Prokuplje közelében, amely alkalmas egy nyugodt természetbeli sétára.", "category": "natural", "coords": [21.604272, 43.210776]}], "ro": [{"name": "Rimsko kupatilo", "text": "Sit arheologic care prezintă rămășițele unei băi romane antice.", "category": "historical", "coords": [21.583413, 43.230182]}, {"name": "Spomenik Topličanima", "text": "Un monument dedicat celor căzuți din regiunea Toplica în războaiele dintre 1912 și 1918.", "category": "historical", "coords": [21.587342, 43.234496]}, {"name": "Hamam", "text": "Rămășițele unei băi turcești istorice din perioada otomană.", "category": "historical", "coords": [21.588825, 43.232299]}, {"name": "Dr Zoran Đinđić", "text": "Un monument ridicat în onoarea premierului sârb asasinat, Zoran Đinđić.", "category": "historical", "coords": [21.60424, 43.237676]}, {"name": "Rastovničko jezero", "text": "Un lac liniștit situat lângă Prokuplje, potrivit pentru o plimbare calmă în natură.", "category": "natural", "coords": [21.604272, 43.210776]}], "en": [{"name": "Rimsko kupatilo", "text": "Archaeological site showing the remains of an ancient Roman bath.", "category": "historical", "coords": [21.583413, 43.230182]}, {"name": "Spomenik Topličanima", "text": "A monument to the fallen of the Toplica region in the wars from 1912 to 1918.", "category": "historical", "coords": [21.587342, 43.234496]}, {"name": "Hamam", "text": "Remains of a historic Turkish bath from the Ottoman period.", "category": "historical", "coords": [21.588825, 43.232299]}, {"name": "Dr Zoran Đinđić", "text": "A monument in honor of the assassinated Serbian Prime Minister Zoran Đinđić.", "category": "historical", "coords": [21.60424, 43.237676]}, {"name": "Rastovničko jezero", "text": "A quiet lake located near Prokuplje, suitable for a calm walk in nature.", "category": "natural", "coords": [21.604272, 43.210776]}]},
+    id: "serbia-prokuplje-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rimsko kupatilo",
+                  "text": "Archäologische Stätte, die Überreste eines antiken römischen Bades zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Spomenik Topličanima",
+                  "text": "Ein Denkmal für die Gefallenen der Region Toplica in den Kriegen von 1912 bis 1918.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "Überreste eines historischen türkischen Bades aus der osmanischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Dr Zoran Đinđić",
+                  "text": "Ein Denkmal zu Ehren des ermordeten serbischen Premierministers Zoran Đinđić.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            },
+            {
+                  "name": "Rastovničko jezero",
+                  "text": "Ein ruhiger See bei Prokuplje, ideal für einen stillen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
+            },
+            {
+                  "name": "Градски Базен",
+                  "text": "Dieses Schwimmbad in Prokuplje bietet ein Becken zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        21.579336,
+                        43.22999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rimsko kupatilo",
+                  "text": "Régészeti lelőhely, amely egy ókori római fürdő maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Spomenik Topličanima",
+                  "text": "Emlékmű a Toplica régió 1912 és 1918 közötti háborúkban elesett hőseinek.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "Egy történelmi török fürdő maradványai az oszmán korból.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Dr Zoran Đinđić",
+                  "text": "Emlékmű a meggyilkolt szerb miniszterelnök, Zoran Đinđić tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            },
+            {
+                  "name": "Rastovničko jezero",
+                  "text": "Csendes tó Prokuplje közelében, amely alkalmas egy nyugodt természetbeli sétára.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
+            },
+            {
+                  "name": "Градски Базен",
+                  "text": "Ez a prokupljei úszómedence egy medencét kínál az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.579336,
+                        43.22999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rimsko kupatilo",
+                  "text": "Sit arheologic care prezintă rămășițele unei băi romane antice.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Spomenik Topličanima",
+                  "text": "Un monument dedicat celor căzuți din regiunea Toplica în războaiele dintre 1912 și 1918.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "Rămășițele unei băi turcești istorice din perioada otomană.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Dr Zoran Đinđić",
+                  "text": "Un monument ridicat în onoarea premierului sârb asasinat, Zoran Đinđić.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            },
+            {
+                  "name": "Rastovničko jezero",
+                  "text": "Un lac liniștit situat lângă Prokuplje, potrivit pentru o plimbare calmă în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
+            },
+            {
+                  "name": "Градски Базен",
+                  "text": "Această piscină din Prokuplje oferă un bazin pentru înot.",
+                  "category": "family",
+                  "coords": [
+                        21.579336,
+                        43.22999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rimsko kupatilo",
+                  "text": "Archaeological site showing the remains of an ancient Roman bath.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Spomenik Topličanima",
+                  "text": "A monument to the fallen of the Toplica region in the wars from 1912 to 1918.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "Remains of a historic Turkish bath from the Ottoman period.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Dr Zoran Đinđić",
+                  "text": "A monument in honor of the assassinated Serbian Prime Minister Zoran Đinđić.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            },
+            {
+                  "name": "Rastovničko jezero",
+                  "text": "A quiet lake located near Prokuplje, suitable for a calm walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.604272,
+                        43.210776
+                  ]
+            },
+            {
+                  "name": "Градски Базен",
+                  "text": "This swimming pool in Prokuplje offers a pool for swimming.",
+                  "category": "family",
+                  "coords": [
+                        21.579336,
+                        43.22999
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Industriezentrum Prokuplje", hu: "Prokupljei ipari központ", ro: "Centrul industrial Prokuplje", en: "Prokuplje Industrial Center" },

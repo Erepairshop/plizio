@@ -238,6 +238,15 @@ export const slovakiaCities: POI[] = [
                         19.14846,
                         48.734597
                   ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Das Detský bazén in Banska Bystrica ist ein speziell für Kinder gestaltetes Schwimmbecken.",
+                  "category": "family",
+                  "coords": [
+                        19.126938,
+                        48.734614
+                  ]
             }
       ],
       "hu": [
@@ -473,6 +482,15 @@ export const slovakiaCities: POI[] = [
                   "coords": [
                         19.14846,
                         48.734597
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "A besztercebányai Detský bazén egy kifejezetten gyerekeknek kialakított úszómedence.",
+                  "category": "family",
+                  "coords": [
+                        19.126938,
+                        48.734614
                   ]
             }
       ],
@@ -710,6 +728,15 @@ export const slovakiaCities: POI[] = [
                         19.14846,
                         48.734597
                   ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Detský bazén din Banska Bystrica este o piscină special concepută pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.126938,
+                        48.734614
+                  ]
             }
       ],
       "en": [
@@ -945,6 +972,15 @@ export const slovakiaCities: POI[] = [
                   "coords": [
                         19.14846,
                         48.734597
+                  ]
+            },
+            {
+                  "name": "Detský bazén",
+                  "text": "Detský bazén in Banska Bystrica is a swimming pool specifically designed for children.",
+                  "category": "family",
+                  "coords": [
+                        19.126938,
+                        48.734614
                   ]
             }
       ]
@@ -1284,6 +1320,15 @@ export const slovakiaCities: POI[] = [
                         18.745787,
                         49.253648
                   ]
+            },
+            {
+                  "name": "Babyplávanie Čľupko",
+                  "text": "Ein Schwimmbecken in Žilina, das sich auf das Babyschwimmen spezialisiert hat.",
+                  "category": "family",
+                  "coords": [
+                        18.753469,
+                        49.210036
+                  ]
             }
       ],
       "hu": [
@@ -1546,6 +1591,15 @@ export const slovakiaCities: POI[] = [
                   "coords": [
                         18.745787,
                         49.253648
+                  ]
+            },
+            {
+                  "name": "Babyplávanie Čľupko",
+                  "text": "Zsolnai úszómedence, amely babaúszásra specializálódott.",
+                  "category": "family",
+                  "coords": [
+                        18.753469,
+                        49.210036
                   ]
             }
       ],
@@ -1810,6 +1864,15 @@ export const slovakiaCities: POI[] = [
                         18.745787,
                         49.253648
                   ]
+            },
+            {
+                  "name": "Babyplávanie Čľupko",
+                  "text": "O piscină în Žilina specializată în înotul pentru bebeluși.",
+                  "category": "family",
+                  "coords": [
+                        18.753469,
+                        49.210036
+                  ]
             }
       ],
       "en": [
@@ -2073,6 +2136,15 @@ export const slovakiaCities: POI[] = [
                         18.745787,
                         49.253648
                   ]
+            },
+            {
+                  "name": "Babyplávanie Čľupko",
+                  "text": "A swimming pool in Žilina specializing in baby swimming.",
+                  "category": "family",
+                  "coords": [
+                        18.753469,
+                        49.210036
+                  ]
             }
       ]
 },
@@ -2204,6 +2276,15 @@ export const slovakiaCities: POI[] = [
                         20.299608,
                         49.04859
                   ]
+            },
+            {
+                  "name": "AquaCity Poprad",
+                  "text": "Dieser Wasserpark in Poprad bietet verschiedene Becken und Freizeitaktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        20.307132,
+                        49.060088
+                  ]
             }
       ],
       "hu": [
@@ -2259,6 +2340,15 @@ export const slovakiaCities: POI[] = [
                   "coords": [
                         20.299608,
                         49.04859
+                  ]
+            },
+            {
+                  "name": "AquaCity Poprad",
+                  "text": "Ez a Poprad városában található vízipark különféle medencékkel és szórakoztató programokkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        20.307132,
+                        49.060088
                   ]
             }
       ],
@@ -2316,6 +2406,15 @@ export const slovakiaCities: POI[] = [
                         20.299608,
                         49.04859
                   ]
+            },
+            {
+                  "name": "AquaCity Poprad",
+                  "text": "Acest parc acvatic din Poprad oferă diverse piscine și activități distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        20.307132,
+                        49.060088
+                  ]
             }
       ],
       "en": [
@@ -2371,6 +2470,15 @@ export const slovakiaCities: POI[] = [
                   "coords": [
                         20.299608,
                         49.04859
+                  ]
+            },
+            {
+                  "name": "AquaCity Poprad",
+                  "text": "This water park in Poprad offers various pools and fun activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        20.307132,
+                        49.060088
                   ]
             }
       ]

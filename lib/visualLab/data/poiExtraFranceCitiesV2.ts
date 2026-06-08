@@ -18764,6 +18764,222 @@ export const franceCitiesV2: POI[] = [
                         0.328095,
                         46.558689
                   ]
+            },
+            {
+                  "name": "Musée Rupert de Chièvres",
+                  "text": "Das Musée Rupert de Chièvres ist in einem ehemaligen Stadthaus in Poitiers untergebracht. Es beherbergt eine Sammlung von Gemälden und dekorativer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        0.338418,
+                        46.58074
+                  ]
+            },
+            {
+                  "name": "Église Saint-Porchaire",
+                  "text": "Die Église Saint-Porchaire in Poitiers ist für ihren markanten romanischen Glockenturm bekannt. Die Kirche stammt ursprünglich aus dem 11. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        0.340075,
+                        46.581301
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Radégonde",
+                  "text": "Diese Kirche in Poitiers beherbergt das Grabmal der heiligen Radegundis, der Schutzpatronin der Stadt. Das Bauwerk vereint romanische und gotische Stilelemente.",
+                  "category": "religious",
+                  "coords": [
+                        0.351942,
+                        46.579761
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Levée",
+                  "text": "Dieser Megalith ist ein prähistorisches Denkmal am Rande von Poitiers. Der Dolmen zeugt von der frühen Besiedlung der Region in der Jungsteinzeit.",
+                  "category": "historical",
+                  "coords": [
+                        0.362028,
+                        46.574619
+                  ]
+            },
+            {
+                  "name": "Abbaye Sainte-Croix",
+                  "text": "Die Überreste der Abtei Sainte-Croix erinnern an das von der heiligen Radegundis gegründete Kloster. Es war das erste Frauenkloster in Europa.",
+                  "category": "historical",
+                  "coords": [
+                        0.349797,
+                        46.57924
+                  ]
+            },
+            {
+                  "name": "Mairie de Saint-Benoît",
+                  "text": "Das Rathaus von Saint-Benoît ist der Verwaltungssitz dieser Gemeinde bei Poitiers. Das Gebäude liegt im Herzen des Ortes und ist leicht zu erreichen.",
+                  "category": "historical",
+                  "coords": [
+                        0.340138,
+                        46.549548
+                  ]
+            },
+            {
+                  "name": "La Hune",
+                  "text": "La Hune ist ein modernes Kulturzentrum und Theater in Saint-Benoît. Es bietet ein vielfältiges Programm an Aufführungen und Veranstaltungen an.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343498,
+                        46.55855
+                  ]
+            },
+            {
+                  "name": "Église Saint-Savin (ancienne)",
+                  "text": "Diese ehemalige Kirche ist ein historisches sakrales Gebäude im Raum Poitiers. Besucher können hier die architektonischen Spuren vergangener Epochen betrachten.",
+                  "category": "religious",
+                  "coords": [
+                        0.347989,
+                        46.581495
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
+                  "text": "Diese orthodoxe Kirche bietet der lokalen Gemeinschaft einen Ort für Gottesdienste. Das Gebäude bereichert die religiöse Vielfalt in der Umgebung von Poitiers.",
+                  "category": "religious",
+                  "coords": [
+                        0.323458,
+                        46.569599
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Bernadette",
+                  "text": "Die Église Sainte-Bernadette ist eine moderne Kirche im südlichen Teil von Poitiers. Sie dient als Ort der Andacht und Ruhe für Anwohner und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        0.319314,
+                        46.576419
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyprien",
+                  "text": "Die Église Saint-Cyprien ist ein religiöses Bauwerk in Poitiers. Die Kirche ist für ihre schlichte Architektur und ihre ruhige Atmosphäre bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        0.343693,
+                        46.567714
+                  ]
+            },
+            {
+                  "name": "Église abbatiale Saint-André",
+                  "text": "Diese ehemalige Abteikirche ist ein bedeutendes Zeugnis der Kirchengeschichte von Poitiers. Das Bauwerk beeindruckt durch seine historische Bausubstanz.",
+                  "category": "religious",
+                  "coords": [
+                        0.341321,
+                        46.549367
+                  ]
+            },
+            {
+                  "name": "La Providence",
+                  "text": "La Providence ist eine religiöse Einrichtung in Poitiers. Das Gebäude dient als Ort der Besinnung und ist Teil des lokalen religiösen Erbes.",
+                  "category": "religious",
+                  "coords": [
+                        0.341573,
+                        46.584769
+                  ]
+            },
+            {
+                  "name": "Chapelle du Sacré-Coeur",
+                  "text": "Die Chapelle du Sacré-Coeur ist eine kleine Kapelle in der Nähe von Poitiers. Sie bietet einen friedlichen Raum für private Gebete und stille Einkehr.",
+                  "category": "religious",
+                  "coords": [
+                        0.34841,
+                        46.585287
+                  ]
+            },
+            {
+                  "name": "Chapelle de La Grand'Maison",
+                  "text": "Diese Kapelle ist ein sakrales Denkmal in Poitiers Sud. Das Bauwerk ist harmonisch in die umliegende Landschaft der Region Poitou eingebettet.",
+                  "category": "religious",
+                  "coords": [
+                        0.335371,
+                        46.579853
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Diese dem heiligen Martin gewidmete Kirche liegt im Raum Poitiers. Sie ist ein traditioneller Ort der Versammlung und religiösen Verehrung.",
+                  "category": "religious",
+                  "coords": [
+                        0.318207,
+                        46.566529
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Die Église Saint-Paul ist ein weiteres religiöses Zentrum in Poitiers. Die Architektur des Gebäudes spiegelt die christliche Tradition der Stadt wider.",
+                  "category": "religious",
+                  "coords": [
+                        0.360447,
+                        46.572413
+                  ]
+            },
+            {
+                  "name": "Viaduc Léon-Blum",
+                  "text": "Der Viaduc Léon-Blum ist eine markante Brücke, die moderne Stadtteile von Poitiers verbindet. Er bietet Spaziergängern eine gute Aussicht auf die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        0.334996,
+                        46.584731
+                  ]
+            },
+            {
+                  "name": "Espace Baldassare",
+                  "text": "Der Espace Baldassare ist eine Galerie für zeitgenössische Kunst in Poitiers. Hier werden regelmäßig Ausstellungen lokaler und regionaler Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        0.341887,
+                        46.583459
+                  ]
+            },
+            {
+                  "name": "Acqueduc Romain du Cimeau",
+                  "text": "Dieser römische Aquädukt ist ein historisches Denkmal in der Nähe von Poitiers. Die Ruinen zeugt von der hochentwickelten Ingenieurskunst der Antike.",
+                  "category": "historical",
+                  "coords": [
+                        0.3359,
+                        46.554117
+                  ]
+            },
+            {
+                  "name": "Vestiges du rempart romain",
+                  "text": "Diese Überreste der römischen Stadtmauer sind in Poitiers zu besichtigen. Sie verdeutlichen die Ausmaße der einstigen Befestigungsanlagen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        0.342369,
+                        46.582536
+                  ]
+            },
+            {
+                  "name": "Ruines du rempart romain",
+                  "text": "Weitere Abschnitte der römischen Befestigung sind als Ruinen in Poitiers erhalten. Sie sind ein wichtiges archäologisches Erbe aus der Zeit von Limonum.",
+                  "category": "historical",
+                  "coords": [
+                        0.350727,
+                        46.579144
+                  ]
+            },
+            {
+                  "name": "Trace d'une ancienne voie romaine",
+                  "text": "Hier lassen sich Spuren einer alten römischen Straße im Boden erkennen. Dieser Fundort gibt Aufschluss über das antike Verkehrsnetz der Region.",
+                  "category": "historical",
+                  "coords": [
+                        0.340873,
+                        46.579356
+                  ]
+            },
+            {
+                  "name": "Vestige de l'aqueduc Romain",
+                  "text": "Dieses Teilstück gehört zu den römischen Wasserleitungen, die einst Poitiers versorgten. Die Ruine ist ein stilles Zeugnis antiker Infrastruktur.",
+                  "category": "historical",
+                  "coords": [
+                        0.32513,
+                        46.557541
+                  ]
             }
       ],
       "hu": [
@@ -18834,6 +19050,222 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         0.328095,
                         46.558689
+                  ]
+            },
+            {
+                  "name": "Musée Rupert de Chièvres",
+                  "text": "A Musée Rupert de Chièvres egy egykori városi kúriában található Poitiers-ben. A múzeum festménygyűjteménynek és iparművészeti alkotásoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        0.338418,
+                        46.58074
+                  ]
+            },
+            {
+                  "name": "Église Saint-Porchaire",
+                  "text": "A poitiers-i Église Saint-Porchaire jellegzetes román stílusú harangtornyáról ismert. A templom eredetileg a 11. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        0.340075,
+                        46.581301
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Radégonde",
+                  "text": "Ez a poitiers-i templom Szent Radegunda, a város védőszentjének sírhelyét őrzi. Az épület román és gótikus stílusjegyeket ötvöz.",
+                  "category": "religious",
+                  "coords": [
+                        0.351942,
+                        46.579761
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Levée",
+                  "text": "Ez a megalit egy őskori műemlék Poitiers szélén. A dolmen a régió korai, újkőkorszaki betelepüléséről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        0.362028,
+                        46.574619
+                  ]
+            },
+            {
+                  "name": "Abbaye Sainte-Croix",
+                  "text": "A Sainte-Croix apátság maradványai a Szent Radegunda által alapított kolostorra emlékeztetnek. Ez volt az első női kolostor Európában.",
+                  "category": "historical",
+                  "coords": [
+                        0.349797,
+                        46.57924
+                  ]
+            },
+            {
+                  "name": "Mairie de Saint-Benoît",
+                  "text": "Saint-Benoît városháza a Poitiers melletti település közigazgatási központja. Az épület a város szívében található és könnyen megközelíthető.",
+                  "category": "historical",
+                  "coords": [
+                        0.340138,
+                        46.549548
+                  ]
+            },
+            {
+                  "name": "La Hune",
+                  "text": "A La Hune egy modern kulturális központ és színház Saint-Benoît-ban. Különféle előadásoknak és rendezvényeknek ad otthont a helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343498,
+                        46.55855
+                  ]
+            },
+            {
+                  "name": "Église Saint-Savin (ancienne)",
+                  "text": "Ez az egykori templom egy történelmi szakrális épület Poitiers környékén. A látogatók itt megtekinthetik a múlt korszakainak építészeti nyomait.",
+                  "category": "religious",
+                  "coords": [
+                        0.347989,
+                        46.581495
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
+                  "text": "Ez az ortodox templom istentiszteleti helyet biztosít a helyi közösség számára. Az épület gazdagítja Poitiers környékének vallási sokszínűségét.",
+                  "category": "religious",
+                  "coords": [
+                        0.323458,
+                        46.569599
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Bernadette",
+                  "text": "Az Église Sainte-Bernadette egy modern templom Poitiers déli részén. Az áhítat és a nyugalom helyszíneként szolgál a helyiek és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        0.319314,
+                        46.576419
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyprien",
+                  "text": "Az Église Saint-Cyprien egy vallási épület Poitiers-ben. A templom egyszerű építészetéről és nyugodt légköréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        0.343693,
+                        46.567714
+                  ]
+            },
+            {
+                  "name": "Église abbatiale Saint-André",
+                  "text": "Ez az egykori apátsági templom Poitiers egyháztörténetének jelentős tanúja. Az építmény történelmi szerkezetével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        0.341321,
+                        46.549367
+                  ]
+            },
+            {
+                  "name": "La Providence",
+                  "text": "A La Providence egy vallási intézmény Poitiers-ben. Az épület az elmélkedés helyszíneként szolgál és a helyi vallási örökség része.",
+                  "category": "religious",
+                  "coords": [
+                        0.341573,
+                        46.584769
+                  ]
+            },
+            {
+                  "name": "Chapelle du Sacré-Coeur",
+                  "text": "A Chapelle du Sacré-Coeur egy kis kápolna Poitiers közelében. Békés helyszínt biztosít a magánáhítathoz és a csendes elvonuláshoz.",
+                  "category": "religious",
+                  "coords": [
+                        0.34841,
+                        46.585287
+                  ]
+            },
+            {
+                  "name": "Chapelle de La Grand'Maison",
+                  "text": "Ez a kápolna egy szakrális műemlék Poitiers déli részén. Az épület harmonikusan illeszkedik a környező Poitou régió tájába.",
+                  "category": "religious",
+                  "coords": [
+                        0.335371,
+                        46.579853
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Ez a Szent Mártonnak szentelt templom Poitiers környékén található. A közösségi összejövetelek és a vallási tisztelet hagyományos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        0.318207,
+                        46.566529
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Az Église Saint-Paul egy másik vallási központ Poitiers-ben. Az épület építészete a város keresztény hagyományait tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        0.360447,
+                        46.572413
+                  ]
+            },
+            {
+                  "name": "Viaduc Léon-Blum",
+                  "text": "A Viaduc Léon-Blum egy jellegzetes híd, amely Poitiers modern városrészeit köti össze. A gyalogosok számára szép kilátást nyújt a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        0.334996,
+                        46.584731
+                  ]
+            },
+            {
+                  "name": "Espace Baldassare",
+                  "text": "Az Espace Baldassare egy kortárs művészeti galéria Poitiers-ben. Rendszeresen mutatnak be itt helyi és regionális művészeket felvonultató kiállításokat.",
+                  "category": "museum",
+                  "coords": [
+                        0.341887,
+                        46.583459
+                  ]
+            },
+            {
+                  "name": "Acqueduc Romain du Cimeau",
+                  "text": "Ez a római vízvezeték egy történelmi műemlék Poitiers közelében. A romok az ókor fejlett mérnöki tudományáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        0.3359,
+                        46.554117
+                  ]
+            },
+            {
+                  "name": "Vestiges du rempart romain",
+                  "text": "A római városfal ezen maradványai Poitiers-ben tekinthetők meg. Jól szemléltetik a város egykori erődítményeinek kiterjedését.",
+                  "category": "historical",
+                  "coords": [
+                        0.342369,
+                        46.582536
+                  ]
+            },
+            {
+                  "name": "Ruines du rempart romain",
+                  "text": "A római erődítmény további szakaszai maradtak fenn romként Poitiers-ben. Limonum idejéből származó fontos régészeti örökségek ezek.",
+                  "category": "historical",
+                  "coords": [
+                        0.350727,
+                        46.579144
+                  ]
+            },
+            {
+                  "name": "Trace d'une ancienne voie romaine",
+                  "text": "Itt egy régi római út nyomai fedezhetők fel a talajban. Ez a lelőhely a régió ókori közlekedési hálózatáról nyújt információkat.",
+                  "category": "historical",
+                  "coords": [
+                        0.340873,
+                        46.579356
+                  ]
+            },
+            {
+                  "name": "Vestige de l'aqueduc Romain",
+                  "text": "Ez a szakasz a római vízvezetékrendszer része, amely egykor Poitiers-t látta el. A rom az ókori infrastruktúra csendes tanúja.",
+                  "category": "historical",
+                  "coords": [
+                        0.32513,
+                        46.557541
                   ]
             }
       ],
@@ -18906,6 +19338,222 @@ export const franceCitiesV2: POI[] = [
                         0.328095,
                         46.558689
                   ]
+            },
+            {
+                  "name": "Musée Rupert de Chièvres",
+                  "text": "Musée Rupert de Chièvres este găzduit într-o fostă reședință privată din Poitiers. Muzeul adăpostește o colecție de picturi și artă decorativă.",
+                  "category": "museum",
+                  "coords": [
+                        0.338418,
+                        46.58074
+                  ]
+            },
+            {
+                  "name": "Église Saint-Porchaire",
+                  "text": "Biserica Saint-Porchaire din Poitiers este cunoscută pentru clopotnița sa romanică distinctivă. Lăcașul de cult datează inițial din secolul al XI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        0.340075,
+                        46.581301
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Radégonde",
+                  "text": "Această biserică din Poitiers adăpostește mormântul Sfintei Radegunda, patroana orașului. Edificiul îmbină elemente stilistice romanice și gotice.",
+                  "category": "religious",
+                  "coords": [
+                        0.351942,
+                        46.579761
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Levée",
+                  "text": "Acest megalit este un monument preistoric situat la marginea orașului Poitiers. Dolmenul atestă popularea timpurie a regiunii în neolitic.",
+                  "category": "historical",
+                  "coords": [
+                        0.362028,
+                        46.574619
+                  ]
+            },
+            {
+                  "name": "Abbaye Sainte-Croix",
+                  "text": "Vestigiile abației Sainte-Croix amintesc de mănăstirea fondată de Sfânta Radegunda. Aceasta a fost prima mănăstire de femei din Europa.",
+                  "category": "historical",
+                  "coords": [
+                        0.349797,
+                        46.57924
+                  ]
+            },
+            {
+                  "name": "Mairie de Saint-Benoît",
+                  "text": "Primăria din Saint-Benoît este sediul administrativ al acestei comune de lângă Poitiers. Clădirea este situată în inima localității și este ușor de accesat.",
+                  "category": "historical",
+                  "coords": [
+                        0.340138,
+                        46.549548
+                  ]
+            },
+            {
+                  "name": "La Hune",
+                  "text": "La Hune este un centru cultural și teatru modern situat în Saint-Benoît. Acesta oferă un program diversificat de spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343498,
+                        46.55855
+                  ]
+            },
+            {
+                  "name": "Église Saint-Savin (ancienne)",
+                  "text": "Această fostă biserică este un edificiu religios istoric din zona Poitiers. Vizitatorii pot observa aici urmele arhitecturale ale epocilor trecute.",
+                  "category": "religious",
+                  "coords": [
+                        0.347989,
+                        46.581495
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
+                  "text": "Această biserică ortodoxă oferă un loc de cult pentru comunitatea locală. Clădirea îmbogățește diversitatea religioasă din zona orașului Poitiers.",
+                  "category": "religious",
+                  "coords": [
+                        0.323458,
+                        46.569599
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Bernadette",
+                  "text": "Biserica Sainte-Bernadette este o biserică modernă situată în partea de sud a orașului Poitiers. Aceasta servește ca loc de rugăciune și liniște pentru localnici și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        0.319314,
+                        46.576419
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyprien",
+                  "text": "Biserica Saint-Cyprien este un edificiu religios situat în Poitiers. Lăcașul de cult este cunoscut pentru arhitectura sa simplă și atmosfera liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        0.343693,
+                        46.567714
+                  ]
+            },
+            {
+                  "name": "Église abbatiale Saint-André",
+                  "text": "Această fostă biserică abațială este o mărturie importantă a istoriei religioase din Poitiers. Edificiul impresionează prin structura sa istorică.",
+                  "category": "religious",
+                  "coords": [
+                        0.341321,
+                        46.549367
+                  ]
+            },
+            {
+                  "name": "La Providence",
+                  "text": "La Providence este o instituție religioasă situată în Poitiers. Clădirea servește ca loc de reflecție și face parte din patrimoniul religios local.",
+                  "category": "religious",
+                  "coords": [
+                        0.341573,
+                        46.584769
+                  ]
+            },
+            {
+                  "name": "Chapelle du Sacré-Coeur",
+                  "text": "Chapelle du Sacré-Coeur este o capelă mică situată lângă Poitiers. Aceasta oferă un spațiu liniștit pentru rugăciune privată și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        0.34841,
+                        46.585287
+                  ]
+            },
+            {
+                  "name": "Chapelle de La Grand'Maison",
+                  "text": "Această capelă este un monument religios din Poitiers Sud. Edificiul este integrat armonios în peisajul înconjurător al regiunii Poitou.",
+                  "category": "religious",
+                  "coords": [
+                        0.335371,
+                        46.579853
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Această biserică dedicată Sfântului Martin se află în zona Poitiers. Este un loc tradițional de adunare și de venerare religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        0.318207,
+                        46.566529
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Biserica Saint-Paul este un alt centru religios situat în Poitiers. Arhitectura clădirii reflectă tradiția creștină a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        0.360447,
+                        46.572413
+                  ]
+            },
+            {
+                  "name": "Viaduc Léon-Blum",
+                  "text": "Viaduc Léon-Blum este un pod distinctiv care leagă cartierele moderne din Poitiers. Acesta oferă pietonilor o vedere frumoasă asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        0.334996,
+                        46.584731
+                  ]
+            },
+            {
+                  "name": "Espace Baldassare",
+                  "text": "Espace Baldassare este o galerie de artă contemporană din Poitiers. Aici sunt prezentate regulat expoziții ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        0.341887,
+                        46.583459
+                  ]
+            },
+            {
+                  "name": "Acqueduc Romain du Cimeau",
+                  "text": "Acest apeduct roman este un monument istoric situat lângă Poitiers. Ruinele atestă ingineria avansată din perioada antichității.",
+                  "category": "historical",
+                  "coords": [
+                        0.3359,
+                        46.554117
+                  ]
+            },
+            {
+                  "name": "Vestiges du rempart romain",
+                  "text": "Aceste vestigii ale zidului roman pot fi vizitate în Poitiers. Ele ilustrează dimensiunile fostelor fortificații ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        0.342369,
+                        46.582536
+                  ]
+            },
+            {
+                  "name": "Ruines du rempart romain",
+                  "text": "Alte secțiuni ale fortificației romane s-au păstrat sub formă de ruine în Poitiers. Acestea reprezintă o moștenire arheologică importantă din vremea Limonum-ului.",
+                  "category": "historical",
+                  "coords": [
+                        0.350727,
+                        46.579144
+                  ]
+            },
+            {
+                  "name": "Trace d'une ancienne voie romaine",
+                  "text": "Aici se pot observa în sol urme ale unui vechi drum roman. Acest sit oferă informații despre rețeaua antică de transport a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        0.340873,
+                        46.579356
+                  ]
+            },
+            {
+                  "name": "Vestige de l'aqueduc Romain",
+                  "text": "Această secțiune face parte din apeductul roman care alimenta odinioară orașul Poitiers. Ruina este o mărturie tăcută a infrastructurii antice.",
+                  "category": "historical",
+                  "coords": [
+                        0.32513,
+                        46.557541
+                  ]
             }
       ],
       "en": [
@@ -18976,6 +19624,222 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         0.328095,
                         46.558689
+                  ]
+            },
+            {
+                  "name": "Musée Rupert de Chièvres",
+                  "text": "The Musée Rupert de Chièvres is housed in a former private mansion in Poitiers. It contains a collection of paintings and decorative arts.",
+                  "category": "museum",
+                  "coords": [
+                        0.338418,
+                        46.58074
+                  ]
+            },
+            {
+                  "name": "Église Saint-Porchaire",
+                  "text": "The Église Saint-Porchaire in Poitiers is known for its distinctive Romanesque bell tower. The church originally dates back to the 11th century.",
+                  "category": "religious",
+                  "coords": [
+                        0.340075,
+                        46.581301
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Radégonde",
+                  "text": "This church in Poitiers houses the tomb of Saint Radegund, the city's patron saint. The building combines Romanesque and Gothic architectural styles.",
+                  "category": "religious",
+                  "coords": [
+                        0.351942,
+                        46.579761
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pierre Levée",
+                  "text": "This megalith is a prehistoric monument located on the outskirts of Poitiers. The dolmen bears witness to early Neolithic settlement in the region.",
+                  "category": "historical",
+                  "coords": [
+                        0.362028,
+                        46.574619
+                  ]
+            },
+            {
+                  "name": "Abbaye Sainte-Croix",
+                  "text": "The remains of the Sainte-Croix Abbey recall the monastery founded by Saint Radegund. It was the first female monastery established in Europe.",
+                  "category": "historical",
+                  "coords": [
+                        0.349797,
+                        46.57924
+                  ]
+            },
+            {
+                  "name": "Mairie de Saint-Benoît",
+                  "text": "The Saint-Benoît Town Hall is the administrative center of this community near Poitiers. The building is located in the heart of the town and is easily accessible.",
+                  "category": "historical",
+                  "coords": [
+                        0.340138,
+                        46.549548
+                  ]
+            },
+            {
+                  "name": "La Hune",
+                  "text": "La Hune is a modern cultural center and theatre located in Saint-Benoît. It hosts a wide variety of performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343498,
+                        46.55855
+                  ]
+            },
+            {
+                  "name": "Église Saint-Savin (ancienne)",
+                  "text": "This former church is a historic religious building in the Poitiers area. Visitors can observe the architectural traces of past eras at this site.",
+                  "category": "religious",
+                  "coords": [
+                        0.347989,
+                        46.581495
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
+                  "text": "This Orthodox church provides a place of worship for the local community. The building adds to the religious diversity of the Poitiers area.",
+                  "category": "religious",
+                  "coords": [
+                        0.323458,
+                        46.569599
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Bernadette",
+                  "text": "The Église Sainte-Bernadette is a modern church located in the southern part of Poitiers. It serves as a place of prayer and quiet for residents and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        0.319314,
+                        46.576419
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyprien",
+                  "text": "The Église Saint-Cyprien is a religious building located in Poitiers. The church is known for its simple architecture and peaceful atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        0.343693,
+                        46.567714
+                  ]
+            },
+            {
+                  "name": "Église abbatiale Saint-André",
+                  "text": "This former abbey church is a significant witness to the religious history of Poitiers. The building impresses visitors with its historic structure.",
+                  "category": "religious",
+                  "coords": [
+                        0.341321,
+                        46.549367
+                  ]
+            },
+            {
+                  "name": "La Providence",
+                  "text": "La Providence is a religious establishment located in Poitiers. The building serves as a place for reflection and is part of the local religious heritage.",
+                  "category": "religious",
+                  "coords": [
+                        0.341573,
+                        46.584769
+                  ]
+            },
+            {
+                  "name": "Chapelle du Sacré-Coeur",
+                  "text": "The Chapelle du Sacré-Coeur is a small chapel located near Poitiers. It offers a peaceful space for private prayer and quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        0.34841,
+                        46.585287
+                  ]
+            },
+            {
+                  "name": "Chapelle de La Grand'Maison",
+                  "text": "This chapel is a religious monument in Poitiers Sud. The building is harmoniously integrated into the surrounding landscape of the Poitou region.",
+                  "category": "religious",
+                  "coords": [
+                        0.335371,
+                        46.579853
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "This church dedicated to Saint Martin is located in the Poitiers area. It is a traditional place for community gathering and religious worship.",
+                  "category": "religious",
+                  "coords": [
+                        0.318207,
+                        46.566529
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "The Église Saint-Paul is another religious center in Poitiers. The building's architecture reflects the Christian traditions of the city.",
+                  "category": "religious",
+                  "coords": [
+                        0.360447,
+                        46.572413
+                  ]
+            },
+            {
+                  "name": "Viaduc Léon-Blum",
+                  "text": "The Viaduc Léon-Blum is a distinctive bridge connecting modern parts of Poitiers. It offers pedestrians a great view of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        0.334996,
+                        46.584731
+                  ]
+            },
+            {
+                  "name": "Espace Baldassare",
+                  "text": "Espace Baldassare is a contemporary art gallery in Poitiers. It regularly hosts exhibitions featuring works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        0.341887,
+                        46.583459
+                  ]
+            },
+            {
+                  "name": "Acqueduc Romain du Cimeau",
+                  "text": "This Roman aqueduct is a historic monument near Poitiers. The ruins bear witness to the advanced engineering skills of antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        0.3359,
+                        46.554117
+                  ]
+            },
+            {
+                  "name": "Vestiges du rempart romain",
+                  "text": "These remains of the Roman city wall can be visited in Poitiers. They illustrate the extent of the city's former fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        0.342369,
+                        46.582536
+                  ]
+            },
+            {
+                  "name": "Ruines du rempart romain",
+                  "text": "Further sections of the Roman fortification are preserved as ruins in Poitiers. They are an important archaeological heritage from the time of Limonum.",
+                  "category": "historical",
+                  "coords": [
+                        0.350727,
+                        46.579144
+                  ]
+            },
+            {
+                  "name": "Trace d'une ancienne voie romaine",
+                  "text": "Traces of an ancient Roman road can be identified in the ground here. This site provides insight into the region's ancient transport network.",
+                  "category": "historical",
+                  "coords": [
+                        0.340873,
+                        46.579356
+                  ]
+            },
+            {
+                  "name": "Vestige de l'aqueduc Romain",
+                  "text": "This section belongs to the Roman aqueduct that once supplied Poitiers. The ruin is a quiet witness to ancient infrastructure.",
+                  "category": "historical",
+                  "coords": [
+                        0.32513,
+                        46.557541
                   ]
             }
       ],

@@ -913,6 +913,60 @@ export const switzerlandEconomicV2: POI[] = [
                         8.521485,
                         47.410558
                   ]
+            },
+            {
+                  "name": "Planschbecken Schlössliareal",
+                  "text": "Das Planschbecken Schlössliareal in Zürich West bietet kleinen Kindern Spaß im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.5584,
+                        47.382051
+                  ]
+            },
+            {
+                  "name": "Planschbecken Artergut",
+                  "text": "Das Planschbecken Artergut in Zürich West ist ein Ort für Kinder zum Spielen im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        8.554485,
+                        47.365946
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Staudenbühl",
+                  "text": "Die Schulschwimmanlage Staudenbühl in Zürich West dient dem Schwimmunterricht und Sport.",
+                  "category": "family",
+                  "coords": [
+                        8.535288,
+                        47.419216
+                  ]
+            },
+            {
+                  "name": "Flussbad Oberer Letten",
+                  "text": "Das Flussbad Oberer Letten in Zürich West bietet eine Möglichkeit zum Schwimmen im Fluss.",
+                  "category": "family",
+                  "coords": [
+                        8.536456,
+                        47.384451
+                  ]
+            },
+            {
+                  "name": "Offener Stall",
+                  "text": "Der Offene Stall in Zürich West ist ein kleiner Zoo, der Tiere in einer städtischen Umgebung zeigt.",
+                  "category": "family",
+                  "coords": [
+                        8.520687,
+                        47.392797
+                  ]
+            },
+            {
+                  "name": "Männerbad Schanzengraben",
+                  "text": "Das Männerbad Schanzengraben in Zürich West ist eine traditionelle Badeanstalt für Herren.",
+                  "category": "family",
+                  "coords": [
+                        8.532717,
+                        47.371277
+                  ]
             }
       ],
       "hu": [
@@ -1778,6 +1832,60 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.521485,
                         47.410558
+                  ]
+            },
+            {
+                  "name": "Planschbecken Schlössliareal",
+                  "text": "A zürichi Schlössliareal pancsolómedence vízi szórakozást nyújt a kisgyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.5584,
+                        47.382051
+                  ]
+            },
+            {
+                  "name": "Planschbecken Artergut",
+                  "text": "A zürichi Artergut pancsolómedence a gyermekek vízi játékának helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        8.554485,
+                        47.365946
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Staudenbühl",
+                  "text": "A zürichi Staudenbühl iskolai úszólétesítmény úszásoktatást és sportolást szolgál.",
+                  "category": "family",
+                  "coords": [
+                        8.535288,
+                        47.419216
+                  ]
+            },
+            {
+                  "name": "Flussbad Oberer Letten",
+                  "text": "A zürichi Flussbad Oberer Letten folyóvízi úszási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.536456,
+                        47.384451
+                  ]
+            },
+            {
+                  "name": "Offener Stall",
+                  "text": "A zürichi Offener Stall egy kis állatkert, amely városi környezetben mutat be állatokat.",
+                  "category": "family",
+                  "coords": [
+                        8.520687,
+                        47.392797
+                  ]
+            },
+            {
+                  "name": "Männerbad Schanzengraben",
+                  "text": "A zürichi Männerbad Schanzengraben egy hagyományos férfifürdő.",
+                  "category": "family",
+                  "coords": [
+                        8.532717,
+                        47.371277
                   ]
             }
       ],
@@ -2645,6 +2753,60 @@ export const switzerlandEconomicV2: POI[] = [
                         8.521485,
                         47.410558
                   ]
+            },
+            {
+                  "name": "Planschbecken Schlössliareal",
+                  "text": "Piscina pentru copii Schlössliareal din Zurich West oferă distracție în apă pentru cei mici.",
+                  "category": "family",
+                  "coords": [
+                        8.5584,
+                        47.382051
+                  ]
+            },
+            {
+                  "name": "Planschbecken Artergut",
+                  "text": "Piscina pentru copii Artergut din Zurich West este un loc unde copiii se pot juca în apă.",
+                  "category": "family",
+                  "coords": [
+                        8.554485,
+                        47.365946
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Staudenbühl",
+                  "text": "Instalația școlară de înot Staudenbühl din Zurich West servește instruirii în înot și sportului.",
+                  "category": "family",
+                  "coords": [
+                        8.535288,
+                        47.419216
+                  ]
+            },
+            {
+                  "name": "Flussbad Oberer Letten",
+                  "text": "Flussbad Oberer Letten din Zurich West oferă posibilitatea de a înota în râu.",
+                  "category": "family",
+                  "coords": [
+                        8.536456,
+                        47.384451
+                  ]
+            },
+            {
+                  "name": "Offener Stall",
+                  "text": "Offener Stall din Zurich West este o mică grădină zoologică care prezintă animale într-un cadru urban.",
+                  "category": "family",
+                  "coords": [
+                        8.520687,
+                        47.392797
+                  ]
+            },
+            {
+                  "name": "Männerbad Schanzengraben",
+                  "text": "Männerbad Schanzengraben din Zurich West este o unitate de baie tradițională pentru bărbați.",
+                  "category": "family",
+                  "coords": [
+                        8.532717,
+                        47.371277
+                  ]
             }
       ],
       "en": [
@@ -3510,6 +3672,60 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.521485,
                         47.410558
+                  ]
+            },
+            {
+                  "name": "Planschbecken Schlössliareal",
+                  "text": "The Schlössliareal paddling pool in Zurich West offers water fun for small children.",
+                  "category": "family",
+                  "coords": [
+                        8.5584,
+                        47.382051
+                  ]
+            },
+            {
+                  "name": "Planschbecken Artergut",
+                  "text": "The Artergut paddling pool in Zurich West is a place for children to play in the water.",
+                  "category": "family",
+                  "coords": [
+                        8.554485,
+                        47.365946
+                  ]
+            },
+            {
+                  "name": "Schulschwimmanlage Staudenbühl",
+                  "text": "The Staudenbühl school swimming facility in Zurich West serves for swimming lessons and sports.",
+                  "category": "family",
+                  "coords": [
+                        8.535288,
+                        47.419216
+                  ]
+            },
+            {
+                  "name": "Flussbad Oberer Letten",
+                  "text": "The Flussbad Oberer Letten in Zurich West offers an opportunity for river swimming.",
+                  "category": "family",
+                  "coords": [
+                        8.536456,
+                        47.384451
+                  ]
+            },
+            {
+                  "name": "Offener Stall",
+                  "text": "The Offener Stall in Zurich West is a small zoo showing animals in an urban setting.",
+                  "category": "family",
+                  "coords": [
+                        8.520687,
+                        47.392797
+                  ]
+            },
+            {
+                  "name": "Männerbad Schanzengraben",
+                  "text": "The Männerbad Schanzengraben in Zurich West is a traditional bathing facility for men.",
+                  "category": "family",
+                  "coords": [
+                        8.532717,
+                        47.371277
                   ]
             }
       ]

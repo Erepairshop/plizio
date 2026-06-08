@@ -80,7 +80,2284 @@ export const norwayCountry: POI = {
 
 export const norwayRegions: POI[] = [
   {
-    id: "city-oslo", "sights": {"de": [{"name": "Norwegisches Heimatfront-Museum", "text": "Dieses Museum dokumentiert die Geschichte des norwegischen Widerstands während des Zweiten Weltkriegs.", "category": "museum", "coords": [10.735762, 59.907803]}, {"name": "Bymuseet", "text": "Ein Museum, das der Kulturgeschichte und Stadtentwicklung von Oslo gewidmet ist.", "category": "museum", "coords": [10.703014, 59.923918]}, {"name": "Astrup Fearnley Museet", "text": "Ein Museum für zeitgenössische Kunst in einem modernen Gebäude am Hafen.", "category": "museum", "coords": [10.721938, 59.906925]}, {"name": "22. juli-senteret", "text": "Eine Gedenkstätte und ein Lernzentrum zu den Anschlägen in Norwegen 2011.", "category": "museum", "coords": [10.74274, 59.915948]}, {"name": "Interkulturelt museum", "text": "Ein Museum, das sich mit kultureller Vielfalt und der Migrationsgeschichte Norwegens befasst.", "category": "museum", "coords": [10.763251, 59.913048]}, {"name": "Naturhistorisk museum", "text": "Dieses Museum umfasst bedeutende botanische Gärten und naturwissenschaftliche Sammlungen.", "category": "museum", "coords": [10.771714, 59.919783]}, {"name": "Nobel-Friedenszentrum", "text": "Ein Zentrum, das dem Friedensnobelpreis und den Bemühungen für den Weltfrieden gewidmet ist.", "category": "museum", "coords": [10.7304, 59.911612]}, {"name": "Botanisk hage", "text": "Ein großer botanischer Garten der Universität Oslo mit vielfältigen Pflanzenarten.", "category": "museum", "coords": [10.769749, 59.918366]}, {"name": "Verteidigungsmuseum", "text": "Ein Militärmuseum in der Festung Akershus, das die Verteidigungsgeschichte Norwegens zeigt.", "category": "museum", "coords": [10.740888, 59.904511]}, {"name": "Ibsenmuseet", "text": "Ein Museum im ehemaligen Wohnhaus des berühmten Dramatikers Henrik Ibsen.", "category": "museum", "coords": [10.727045, 59.915031]}, {"name": "Ladegården", "text": "Ein historisches Herrenhaus, das auf den Ruinen eines mittelalterlichen Bischofspalastes errichtet wurde.", "category": "museum", "coords": [10.767627, 59.906189]}, {"name": "Kulturhistorisk museum", "text": "Dieses Museum beherbergt bedeutende archäologische und ethnografische Sammlungen.", "category": "museum", "coords": [10.734569, 59.917038]}, {"name": "Jødisk museum", "text": "Ein Museum, das das jüdische Leben und Erbe in Norwegen dokumentiert.", "category": "museum", "coords": [10.75542, 59.916338]}, {"name": "Dronning Sonjas kunststall", "text": "Eine Kunstgalerie in den ehemaligen königlichen Ställen in Oslo.", "category": "museum", "coords": [10.723447, 59.916167]}, {"name": "Kunstnernes hus", "text": "Ein von Künstlern geführtes Ausstellungszentrum für zeitgenössische Kunst.", "category": "museum", "coords": [10.730827, 59.919571]}, {"name": "Henriette Wegner Pavilion", "text": "Ein kleiner historischer Pavillon im Schlosspark von Oslo.", "category": "museum", "coords": [10.705107, 59.923213]}, {"name": "Niels Henrik Abel", "text": "In der norwegischen Hauptstadt Oslo steht das bedeutende Denkmal für Niels Henrik Abel. Es würdigt das Leben und die Errungenschaften dieses berühmten norwegischen Mathematikers. Für geschichts- und wissenschaftsinteressierte Besucher ist dieses Monument ein inspirierender Anlaufpunkt.", "category": "historical", "coords": [10.731216, 59.915564]}, {"name": "Nasjonalmonumentet for krigens ofre 1940-45", "text": "Ein Mahnmal zum Gedenken an die norwegischen Opfer des Zweiten Weltkriegs.", "category": "historical", "coords": [10.738731, 59.906088]}, {"name": "Clemenskirken", "text": "Die archäologischen Überreste einer mittelalterlichen Steinkirche in Oslo.", "category": "historical", "coords": [10.765731, 59.904315]}, {"name": "Korskirken", "text": "Ruinen einer mittelalterlichen Kirche im historischen Stadtkern von Oslo.", "category": "historical", "coords": [10.76952, 59.907028]}, {"name": "Chat Noir", "text": "Ein traditionsreiches Kabarett- und Varieté-Theater im Zentrum von Oslo.", "category": "cultural", "coords": [10.732298, 59.913728]}, {"name": "Det Norske Teatret", "text": "Ein bedeutendes Theater, das Aufführungen hauptsächlich in Nynorsk präsentiert.", "category": "cultural", "coords": [10.738625, 59.915219]}, {"name": "Det Andre Teatret", "text": "Ein unabhängiges Theater, das auf Improvisationskunst spezialisiert ist.", "category": "cultural", "coords": [10.765609, 59.938677]}, {"name": "Folketeatret", "text": "Ein historisches Theatergebäude, das heute für Musicals und Großveranstaltungen genutzt wird.", "category": "cultural", "coords": [10.750421, 59.914281]}, {"name": "Nationaltheater", "text": "Das wichtigste Sprechtheater Norwegens mit einer langen Geschichte.", "category": "cultural", "coords": [10.734254, 59.914366]}, {"name": "Oslo Spektrum", "text": "Eine große Multifunktionsarena für Konzerte und Sportveranstaltungen in Oslo.", "category": "cultural", "coords": [10.75472, 59.912987]}, {"name": "Kulturkirken Jakob", "text": "Eine ehemalige Kirche, die heute als Kulturzentrum und Bühne dient.", "category": "cultural", "coords": [10.754419, 59.91815]}, {"name": "Slottskapellet", "text": "Die Kapelle innerhalb des königlichen Schlosses in Oslo.", "category": "religious", "coords": [10.727681, 59.917489]}, {"name": "Schlosskirche Akershus (Garnisonskirche)", "text": "Eine historische Kirche innerhalb der Festungsanlage Akershus.", "category": "religious", "coords": [10.736426, 59.906422]}, {"name": "Trefoldighetskirken", "text": "Eine große neugotische Kirche in Oslo, bekannt für ihre markante Kuppel.", "category": "religious", "coords": [10.745184, 59.916765]}, {"name": "Gamle Aker kirke", "text": "Die älteste erhaltene Steinkirche in Oslo, erbaut im Mittelalter.", "category": "religious", "coords": [10.747134, 59.923711]}, {"name": "St. Hallvard kirke", "text": "Eine moderne katholische Kirche und ein Kloster in Oslo.", "category": "religious", "coords": [10.769123, 59.912772]}, {"name": "Sofienberg kirke", "text": "Eine evangelische Pfarrkirche im Osloer Stadtteil Sofienberg.", "category": "religious", "coords": [10.766138, 59.92241]}, {"name": "Hasle kirke", "text": "Eine moderne Kirche aus Backstein im Osloer Stadtteil Hasle.", "category": "religious", "coords": [10.784261, 59.921438]}, {"name": "Uranienborg kirke", "text": "Eine markante neugotische Kirche auf einem Hügel im Westen Oslos.", "category": "religious", "coords": [10.719887, 59.92114]}, {"name": "Grønland kirke", "text": "Eine große Backsteinkirche im Osloer Stadtteil Grønland.", "category": "religious", "coords": [10.76772, 59.911119]}, {"name": "Sankt Olav domkirke", "text": "Die katholische Kathedrale von Oslo, gewidmet dem heiligen Olav.", "category": "religious", "coords": [10.744156, 59.918435]}, {"name": "Markus kirke", "text": "Eine Langkirche aus dem frühen 20. Jahrhundert im Osloer Stadtteil St. Hanshaugen.", "category": "religious", "coords": [10.739555, 59.923904]}, {"name": "American Lutheran Church, Oslo", "text": "Eine moderne Kirche, die der englischsprachigen lutherischen Gemeinde in Oslo dient.", "category": "religious", "coords": [10.705575, 59.916832]}, {"name": "Kavringen fyr", "text": "Ein kleiner historischer Leuchtturm im Oslofjord nahe dem Hafen.", "category": "landmark", "coords": [10.722018, 59.899808]}, {"name": "Pipervika", "text": "Eine Bucht im zentralen Hafenbereich von Oslo.", "category": "landmark", "coords": [10.731305, 59.909026]}, {"name": "Oslo rådhus", "text": "Das Rathaus von Oslo ist berühmt für seine Architektur und die Verleihung des Friedensnobelpreises.", "category": "landmark", "coords": [10.733692, 59.912049]}, {"name": "Nybrua", "text": "Eine historische Brücke über den Fluss Akerselva in Oslo.", "category": "landmark", "coords": [10.759164, 59.917787]}, {"name": "Jerusalem bru", "text": "Eine moderne Fußgängerbrücke, die über den Fluss Akerselva führt.", "category": "landmark", "coords": [10.766821, 59.939408]}, {"name": "Ankerbrua", "text": "Eine Brücke über die Akerselva, bekannt für ihre vier Bronzeskulpturen aus norwegischen Märchen.", "category": "landmark", "coords": [10.756307, 59.918259]}, {"name": "Sannerbrua", "text": "Eine Straßenbrücke, die die Osloer Stadtteile Grünerløkka und Sagene verbindet.", "category": "landmark", "coords": [10.755192, 59.928259]}, {"name": "Vaterlands bru", "text": "Eine Brücke im Osloer Stadtteil Vaterland, die über die Akerselva führt.", "category": "landmark", "coords": [10.758107, 59.913455]}, {"name": "Sofienbergparken", "text": "Ein beliebter Stadtpark im lebhaften Viertel Grünerløkka.", "category": "park", "coords": [10.764245, 59.923134]}, {"name": "Olaf Ryes plass", "text": "Ein zentraler Platz und Park im Herzen des Stadtteils Grünerløkka.", "category": "park", "coords": [10.758259, 59.922882]}, {"name": "Gråbeinsletta", "text": "Eine Grünanlage im Osloer Stadtteil Sagene.", "category": "park", "coords": [10.751354, 59.938009]}, {"name": "Kristparken", "text": "Ein kleiner öffentlicher Park in der Nähe des Osloer Stadtzentrums.", "category": "park", "coords": [10.748641, 59.917561]}, {"name": "Frognerpark", "text": "Ein großer Park, der für die Vigeland-Skulpturenanlage bekannt ist.", "category": "park", "coords": [10.701656, 59.926659]}, {"name": "Tøyenparken", "text": "Ein weitläufiger Park in Oslo, der Museen beherbergt und für Veranstaltungen genutzt wird.", "category": "park", "coords": [10.778272, 59.919963]}, {"name": "Klosterenga", "text": "Ein öffentlicher Park in Oslo, der für seine modernen Skulpturen und Grünflächen bekannt ist.", "category": "park", "coords": [10.77627, 59.908272]}, {"name": "Frøyas have", "text": "Eine friedliche Grünanlage und ein öffentlicher Park in der Stadt Oslo.", "category": "park", "coords": [10.696708, 59.915734]}, {"name": "Skarpsnoparken", "text": "Ein schöner Küstenpark in Oslo mit Grünflächen und Ausblick in der Nähe des Fjords.", "category": "park", "coords": [10.700382, 59.914867]}], "hu": [{"name": "Norges hjemmefrontmuseum", "text": "A múzeum Norvégia második világháborús ellenállási mozgalmának történetét mutatja be.", "category": "museum", "coords": [10.735762, 59.907803]}, {"name": "Bymuseet", "text": "Oslo kultúrtörténetének és városfejlődésének szentelt múzeum.", "category": "museum", "coords": [10.703014, 59.923918]}, {"name": "Astrup Fearnley Museet", "text": "Kortárs művészeti múzeum egy modern épületben a kikötőnél.", "category": "museum", "coords": [10.721938, 59.906925]}, {"name": "22. juli-senteret", "text": "Emlékhely és oktatási központ a 2011-es norvégiai terrortámadásokról.", "category": "museum", "coords": [10.74274, 59.915948]}, {"name": "Interkulturelt museum", "text": "Norvégia kulturális sokszínűségével és a migráció történetével foglalkozó múzeum.", "category": "museum", "coords": [10.763251, 59.913048]}, {"name": "Naturhistorisk museum", "text": "A múzeum jelentős botanikus kerteknek és természettudományi gyűjteményeknek ad otthont.", "category": "museum", "coords": [10.771714, 59.919783]}, {"name": "Nobels Fredssenter", "text": "A Nobel-békedíjnak és a világbékéért tett erőfeszítéseknek szentelt központ.", "category": "museum", "coords": [10.7304, 59.911612]}, {"name": "Botanisk hage", "text": "Az Oslói Egyetem nagyméretű botanikus kertje változatos növényfajokkal.", "category": "museum", "coords": [10.769749, 59.918366]}, {"name": "Forsvarsmuseet", "text": "Az Akershus-erődben található hadtörténeti múzeum Norvégia védelmi múltját mutatja be.", "category": "museum", "coords": [10.740888, 59.904511]}, {"name": "Ibsenmuseet", "text": "A híres drámaíró, Henrik Ibsen egykori lakóházában berendezett múzeum.", "category": "museum", "coords": [10.727045, 59.915031]}, {"name": "Ladegården", "text": "Történelmi kúria, amely egy középkori püspöki palota romjaira épült.", "category": "museum", "coords": [10.767627, 59.906189]}, {"name": "Kulturhistorisk museum", "text": "A múzeum jelentős régészeti és néprajzi gyűjteményeknek ad otthont.", "category": "museum", "coords": [10.734569, 59.917038]}, {"name": "Jødisk museum", "text": "A norvégiai zsidó életet és örökséget dokumentáló múzeum.", "category": "museum", "coords": [10.75542, 59.916338]}, {"name": "Dronning Sonjas kunststall", "text": "Művészeti galéria Oslo egykori királyi istállóiban.", "category": "museum", "coords": [10.723447, 59.916167]}, {"name": "Kunstnernes hus", "text": "Művészek által vezetett kiállítóhely a kortárs művészet számára.", "category": "museum", "coords": [10.730827, 59.919571]}, {"name": "Henriette Wegner Pavilion", "text": "Kisméretű történelmi pavilon az oslói királyi palota parkjában.", "category": "museum", "coords": [10.705107, 59.923213]}, {"name": "Niels Henrik Abel", "text": "A norvég fővárosban, Oslóban áll a jelentős Niels Henrik Abel emlékmű. A szobor a híres norvég matematikus élete és eredményei előtt tiszteleg. A történelem és a tudomány iránt érdeklődő látogatók számára ez a műemlék egy inspiráló célpont.", "category": "historical", "coords": [10.731216, 59.915564]}, {"name": "Nasjonalmonumentet for krigens ofre 1940-45", "text": "Emlékmű a második világháború norvég áldozatainak emlékére.", "category": "historical", "coords": [10.738731, 59.906088]}, {"name": "Clemenskirken", "text": "Egy középkori kőtemplom régészeti maradványai Oslóban.", "category": "historical", "coords": [10.765731, 59.904315]}, {"name": "Korskirken", "text": "Egy középkori templom romjai Oslo történelmi központjában.", "category": "historical", "coords": [10.76952, 59.907028]}, {"name": "Chat Noir", "text": "Hagyományőrző kabaré- és varietészínház Oslo központjában.", "category": "cultural", "coords": [10.732298, 59.913728]}, {"name": "Det Norske Teatret", "text": "Jelentős színház, amely elsősorban nynorsk nyelven mutat be darabokat.", "category": "cultural", "coords": [10.738625, 59.915219]}, {"name": "Det Andre Teatret", "text": "Improvizációs színházra szakosodott független színház.", "category": "cultural", "coords": [10.765609, 59.938677]}, {"name": "Folketeatret", "text": "Történelmi színházépület, amelyet ma musicalekre és nagy rendezvényekre használnak.", "category": "cultural", "coords": [10.750421, 59.914281]}, {"name": "Nationaltheatret", "text": "Norvégia legfontosabb drámai színháza, amely hosszú múltra tekint vissza.", "category": "cultural", "coords": [10.734254, 59.914366]}, {"name": "Oslo Spektrum", "text": "Nagyméretű multifunkcionális aréna koncertek és sportesemények számára Oslóban.", "category": "cultural", "coords": [10.75472, 59.912987]}, {"name": "Kulturkirken Jakob", "text": "Egykori templom, amely ma kulturális központként és színházként működik.", "category": "cultural", "coords": [10.754419, 59.91815]}, {"name": "Slottskapellet", "text": "Az oslói királyi palotán belül található kápolna.", "category": "religious", "coords": [10.727681, 59.917489]}, {"name": "Akershus slottskirke", "text": "Történelmi templom az Akershus-erőd területén.", "category": "religious", "coords": [10.736426, 59.906422]}, {"name": "Trefoldighetskirken", "text": "Nagyméretű neogótikus templom Oslóban, jellegzetes kupolájáról ismert.", "category": "religious", "coords": [10.745184, 59.916765]}, {"name": "Gamle Aker kirke", "text": "Oslo legrégebbi fennmaradt kőtemploma, amely a középkorban épült.", "category": "religious", "coords": [10.747134, 59.923711]}, {"name": "St. Hallvard kirke", "text": "Modern katolikus templom és kolostor Oslóban.", "category": "religious", "coords": [10.769123, 59.912772]}, {"name": "Sofienberg kirke", "text": "Evangélikus plébániatemplom Oslo Sofienberg negyedében.", "category": "religious", "coords": [10.766138, 59.92241]}, {"name": "Hasle kirke", "text": "Modern téglaépítésű templom Oslo Hasle negyedében.", "category": "religious", "coords": [10.784261, 59.921438]}, {"name": "Uranienborg kirke", "text": "Jellegzetes neogótikus templom egy dombon Oslo nyugati részén.", "category": "religious", "coords": [10.719887, 59.92114]}, {"name": "Grønland kirke", "text": "Nagyméretű téglaépítésű templom Oslo Grønland negyedében.", "category": "religious", "coords": [10.76772, 59.911119]}, {"name": "Sankt Olav domkirke", "text": "Oslo katolikus székesegyháza, amelyet Szent Olavnak szenteltek.", "category": "religious", "coords": [10.744156, 59.918435]}, {"name": "Markus kirke", "text": "20. század eleji hosszházas templom Oslo St. Hanshaugen negyedében.", "category": "religious", "coords": [10.739555, 59.923904]}, {"name": "American Lutheran Church, Oslo", "text": "Modern templom, amely az oslói angol nyelvű evangélikus közösséget szolgálja.", "category": "religious", "coords": [10.705575, 59.916832]}, {"name": "Kavringen fyr", "text": "Kisméretű történelmi világítótorony az Oslo-fjordban a kikötő közelében.", "category": "landmark", "coords": [10.722018, 59.899808]}, {"name": "Pipervika", "text": "Öböl Oslo központi kikötői területén.", "category": "landmark", "coords": [10.731305, 59.909026]}, {"name": "Oslo rådhus", "text": "Oslo városháza híres építészetéről és a Nobel-békedíj átadási ünnepségéről.", "category": "landmark", "coords": [10.733692, 59.912049]}, {"name": "Nybrua", "text": "Történelmi híd az Akerselva folyón Oslóban.", "category": "landmark", "coords": [10.759164, 59.917787]}, {"name": "Jerusalem bru", "text": "Modern gyalogoshíd az Akerselva folyó felett.", "category": "landmark", "coords": [10.766821, 59.939408]}, {"name": "Ankerbrua", "text": "Az Akerselva feletti híd, amely a norvég mesék alakjait ábrázoló bronzszobrairól ismert.", "category": "landmark", "coords": [10.756307, 59.918259]}, {"name": "Sannerbrua", "text": "Közúti híd, amely Oslo Grünerløkka és Sagene negyedeit köti össze.", "category": "landmark", "coords": [10.755192, 59.928259]}, {"name": "Vaterlands bru", "text": "Híd Oslo Vaterland negyedében az Akerselva folyó felett.", "category": "landmark", "coords": [10.758107, 59.913455]}, {"name": "Sofienbergparken", "text": "Népszerű városi park a hangulatos Grünerløkka negyedben.", "category": "park", "coords": [10.764245, 59.923134]}, {"name": "Olaf Ryes plass", "text": "Központi tér és park Grünerløkka negyed szívében.", "category": "park", "coords": [10.758259, 59.922882]}, {"name": "Gråbeinsletta", "text": "Zöldterület Oslo Sagene negyedében.", "category": "park", "coords": [10.751354, 59.938009]}, {"name": "Kristparken", "text": "Kisméretű nyilvános park Oslo városközpontjának közelében.", "category": "park", "coords": [10.748641, 59.917561]}, {"name": "Frognerparken", "text": "Nagyméretű park, amely a Vigeland-szoborparkról ismert.", "category": "park", "coords": [10.701656, 59.926659]}, {"name": "Tøyenparken", "text": "Kiterjedt park Oslóban, amely múzeumoknak ad otthont és rendezvények helyszíne.", "category": "park", "coords": [10.778272, 59.919963]}, {"name": "Klosterenga", "text": "Oslói közpark, amely modern szobrairól és zöldfelületeiről ismert.", "category": "park", "coords": [10.77627, 59.908272]}, {"name": "Frøyas have", "text": "Békés zöldterület és közpark Oslo városában.", "category": "park", "coords": [10.696708, 59.915734]}, {"name": "Skarpsnoparken", "text": "Kellemes tengerparti park Oslóban, zöldfelületekkel és kilátással a fjord közelében.", "category": "park", "coords": [10.700382, 59.914867]}], "ro": [{"name": "Norges hjemmefrontmuseum", "text": "Acest muzeu documentează istoria rezistenței norvegiene în timpul celui de-al Doilea Război Mondial.", "category": "museum", "coords": [10.735762, 59.907803]}, {"name": "Bymuseet", "text": "Un muzeu dedicat istoriei culturale și dezvoltării urbane a orașului Oslo.", "category": "museum", "coords": [10.703014, 59.923918]}, {"name": "Astrup Fearnley Museet", "text": "Un muzeu de artă contemporană situat într-o clădire modernă din zona portului.", "category": "museum", "coords": [10.721938, 59.906925]}, {"name": "22. juli-senteret", "text": "Un memorial și centru de învățare dedicat atacurilor din Norvegia din 2011.", "category": "museum", "coords": [10.74274, 59.915948]}, {"name": "Interkulturelt museum", "text": "Un muzeu care explorează diversitatea culturală și istoria migrației în Norvegia.", "category": "museum", "coords": [10.763251, 59.913048]}, {"name": "Naturhistorisk museum", "text": "Acest muzeu include grădini botanice importante și colecții de științe naturale.", "category": "museum", "coords": [10.771714, 59.919783]}, {"name": "Nobels Fredssenter", "text": "Un centru dedicat Premiului Nobel pentru Pace și eforturilor pentru pacea mondială.", "category": "museum", "coords": [10.7304, 59.911612]}, {"name": "Botanisk hage", "text": "O grădină botanică vastă a Universității din Oslo, cu diverse specii de plante.", "category": "museum", "coords": [10.769749, 59.918366]}, {"name": "Forsvarsmuseet", "text": "Un muzeu militar situat în fortăreața Akershus, care prezintă istoria apărării Norvegiei.", "category": "museum", "coords": [10.740888, 59.904511]}, {"name": "Ibsenmuseet", "text": "Un muzeu situat în fosta reședință a celebrului dramaturg Henrik Ibsen.", "category": "museum", "coords": [10.727045, 59.915031]}, {"name": "Ladegården", "text": "Un conac istoric construit pe ruinele unui palat episcopal medieval.", "category": "museum", "coords": [10.767627, 59.906189]}, {"name": "Kulturhistorisk museum", "text": "Acest muzeu găzduiește colecții arheologice și etnografice importante.", "category": "museum", "coords": [10.734569, 59.917038]}, {"name": "Jødisk museum", "text": "Un muzeu care documentează viața și moștenirea evreiască în Norvegia.", "category": "museum", "coords": [10.75542, 59.916338]}, {"name": "Dronning Sonjas kunststall", "text": "O galerie de artă situată în fostele grajduri regale din Oslo.", "category": "museum", "coords": [10.723447, 59.916167]}, {"name": "Kunstnernes hus", "text": "Un centru de expoziții de artă contemporană administrat de artiști.", "category": "museum", "coords": [10.730827, 59.919571]}, {"name": "Henriette Wegner Pavilion", "text": "Un mic pavilion istoric situat în parcul palatului regal din Oslo.", "category": "museum", "coords": [10.705107, 59.923213]}, {"name": "Niels Henrik Abel", "text": "În capitala Norvegiei, Oslo, se află importantul monument Niels Henrik Abel. Acesta onorează viața și realizările faimosului matematician norvegian. Pentru vizitatorii interesați de istorie și știință, acest monument este un punct de atracție inspirator.", "category": "historical", "coords": [10.731216, 59.915564]}, {"name": "Nasjonalmonumentet for krigens ofre 1940-45", "text": "Un monument comemorativ dedicat victimelor norvegiene din al doilea Război Mondial.", "category": "historical", "coords": [10.738731, 59.906088]}, {"name": "Clemenskirken", "text": "Rămășițele arheologice ale unei biserici de piatră medievale din Oslo.", "category": "historical", "coords": [10.765731, 59.904315]}, {"name": "Korskirken", "text": "Ruinele unei biserici medievale situate în centrul istoric al orașului Oslo.", "category": "historical", "coords": [10.76952, 59.907028]}, {"name": "Chat Noir", "text": "Un teatru de cabaret și varietăți cu o lungă tradiție în centrul orașului Oslo.", "category": "cultural", "coords": [10.732298, 59.913728]}, {"name": "Det Norske Teatret", "text": "Un teatru important care prezintă spectacole în principal în limba nynorsk.", "category": "cultural", "coords": [10.738625, 59.915219]}, {"name": "Det Andre Teatret", "text": "Un teatru independent specializat în spectacole de improvizație.", "category": "cultural", "coords": [10.765609, 59.938677]}, {"name": "Folketeatret", "text": "O clădire de teatru istorică utilizată astăzi pentru musicaluri și evenimente mari.", "category": "cultural", "coords": [10.750421, 59.914281]}, {"name": "Nationaltheatret", "text": "Cel mai important teatru dramatic din Norvegia, cu o istorie bogată.", "category": "cultural", "coords": [10.734254, 59.914366]}, {"name": "Oslo Spektrum", "text": "O arenă multifuncțională de mari dimensiuni pentru concerte și evenimente sportive în Oslo.", "category": "cultural", "coords": [10.75472, 59.912987]}, {"name": "Kulturkirken Jakob", "text": "O fostă biserică ce servește astăzi drept centru cultural și scenă de teatru.", "category": "cultural", "coords": [10.754419, 59.91815]}, {"name": "Slottskapellet", "text": "Capela situată în interiorul palatului regal din Oslo.", "category": "religious", "coords": [10.727681, 59.917489]}, {"name": "Akershus slottskirke", "text": "O biserică istorică situată în incinta fortăreței Akershus.", "category": "religious", "coords": [10.736426, 59.906422]}, {"name": "Trefoldighetskirken", "text": "O biserică neogotică mare din Oslo, cunoscută pentru cupola sa distinctivă.", "category": "religious", "coords": [10.745184, 59.916765]}, {"name": "Gamle Aker kirke", "text": "Cea mai veche biserică de piatră conservată din Oslo, construită în Evul Mediu.", "category": "religious", "coords": [10.747134, 59.923711]}, {"name": "St. Hallvard kirke", "text": "O biserică catolică modernă și o mănăstire situată în Oslo.", "category": "religious", "coords": [10.769123, 59.912772]}, {"name": "Sofienberg kirke", "text": "O biserică parohială luterană situată în cartierul Sofienberg din Oslo.", "category": "religious", "coords": [10.766138, 59.92241]}, {"name": "Hasle kirke", "text": "O biserică modernă din cărămidă situată în cartierul Hasle din Oslo.", "category": "religious", "coords": [10.784261, 59.921438]}, {"name": "Uranienborg kirke", "text": "O biserică neogotică distinctivă situată pe un deal în partea de vest a orașului Oslo.", "category": "religious", "coords": [10.719887, 59.92114]}, {"name": "Grønland kirke", "text": "O biserică mare din cărămidă situată în cartierul Grønland din Oslo.", "category": "religious", "coords": [10.76772, 59.911119]}, {"name": "Sankt Olav domkirke", "text": "Catedrala catolică din Oslo, dedicată Sfântului Olav.", "category": "religious", "coords": [10.744156, 59.918435]}, {"name": "Markus kirke", "text": "O biserică de tip hală de la începutul secolului XX, situată în cartierul St. Hanshaugen din Oslo.", "category": "religious", "coords": [10.739555, 59.923904]}, {"name": "American Lutheran Church, Oslo", "text": "O biserică modernă care deservește comunitatea luterană de limbă engleză din Oslo.", "category": "religious", "coords": [10.705575, 59.916832]}, {"name": "Kavringen fyr", "text": "Un mic far istoric situat în fiordul Oslo, aproape de port.", "category": "landmark", "coords": [10.722018, 59.899808]}, {"name": "Pipervika", "text": "Un golf situat în zona portuară centrală a orașului Oslo.", "category": "landmark", "coords": [10.731305, 59.909026]}, {"name": "Oslo rådhus", "text": "Primăria din Oslo este celebră pentru arhitectura sa și pentru ceremonia Premiului Nobel pentru Pace.", "category": "landmark", "coords": [10.733692, 59.912049]}, {"name": "Nybrua", "text": "Un pod istoric peste râul Akerselva din Oslo.", "category": "landmark", "coords": [10.759164, 59.917787]}, {"name": "Jerusalem bru", "text": "Un pod pietonal modern care traversează râul Akerselva.", "category": "landmark", "coords": [10.766821, 59.939408]}, {"name": "Ankerbrua", "text": "Un pod peste Akerselva, cunoscut pentru cele patru sculpturi din bronz inspirate din basme norvegiene.", "category": "landmark", "coords": [10.756307, 59.918259]}, {"name": "Sannerbrua", "text": "Un pod rutier care leagă cartierele Grünerløkka și Sagene din Oslo.", "category": "landmark", "coords": [10.755192, 59.928259]}, {"name": "Vaterlands bru", "text": "Un pod situat în cartierul Vaterland din Oslo, care traversează râul Akerselva.", "category": "landmark", "coords": [10.758107, 59.913455]}, {"name": "Sofienbergparken", "text": "Un parc urban popular situat în cartierul plin de viață Grünerløkka.", "category": "park", "coords": [10.764245, 59.923134]}, {"name": "Olaf Ryes plass", "text": "O piață centrală și un parc în inima cartierului Grünerløkka.", "category": "park", "coords": [10.758259, 59.922882]}, {"name": "Gråbeinsletta", "text": "O zonă verde situată în cartierul Sagene din Oslo.", "category": "park", "coords": [10.751354, 59.938009]}, {"name": "Kristparken", "text": "Un mic parc public situat aproape de centrul orașului Oslo.", "category": "park", "coords": [10.748641, 59.917561]}, {"name": "Frognerparken", "text": "Un parc vast, renumit pentru ansamblul de sculpturi Vigeland.", "category": "park", "coords": [10.701656, 59.926659]}, {"name": "Tøyenparken", "text": "Un parc întins din Oslo care găzduiește muzee și este folosit pentru evenimente.", "category": "park", "coords": [10.778272, 59.919963]}, {"name": "Klosterenga", "text": "Un parc public din Oslo, cunoscut pentru sculpturile sale moderne și spațiile verzi.", "category": "park", "coords": [10.77627, 59.908272]}, {"name": "Frøyas have", "text": "Un spațiu verde liniștit și un parc public situat în orașul Oslo.", "category": "park", "coords": [10.696708, 59.915734]}, {"name": "Skarpsnoparken", "text": "Un parc de coastă plăcut din Oslo, care oferă spații verzi și vederi în apropierea fjordului.", "category": "park", "coords": [10.700382, 59.914867]}], "en": [{"name": "Norway's Resistance Museum", "text": "This museum documents the history of the Norwegian resistance during World War II.", "category": "museum", "coords": [10.735762, 59.907803]}, {"name": "Oslo City Museum", "text": "A museum dedicated to the cultural history and urban development of Oslo.", "category": "museum", "coords": [10.703014, 59.923918]}, {"name": "Astrup Fearnley Museum", "text": "A contemporary art museum housed in a modern building by the harbor.", "category": "museum", "coords": [10.721938, 59.906925]}, {"name": "22. juli-senteret", "text": "A memorial and learning center dedicated to the 2011 attacks in Norway.", "category": "museum", "coords": [10.74274, 59.915948]}, {"name": "Interkulturelt museum", "text": "A museum focusing on cultural diversity and the history of migration in Norway.", "category": "museum", "coords": [10.763251, 59.913048]}, {"name": "Natural History Museum at the University of Oslo", "text": "This museum features significant botanical gardens and natural history collections.", "category": "museum", "coords": [10.771714, 59.919783]}, {"name": "Nobel Peace Center", "text": "A center dedicated to the Nobel Peace Prize and efforts for world peace.", "category": "museum", "coords": [10.7304, 59.911612]}, {"name": "University Botanical Garden", "text": "A large botanical garden at the University of Oslo featuring diverse plant species.", "category": "museum", "coords": [10.769749, 59.918366]}, {"name": "Defence Musuem", "text": "A military museum located in Akershus Fortress, showcasing Norway's defense history.", "category": "museum", "coords": [10.740888, 59.904511]}, {"name": "The Ibsen Museum", "text": "A museum located in the former residence of the famous playwright Henrik Ibsen.", "category": "museum", "coords": [10.727045, 59.915031]}, {"name": "Ladegården", "text": "A historic manor house built on the ruins of a medieval bishop's palace.", "category": "museum", "coords": [10.767627, 59.906189]}, {"name": "Museum of Cultural History", "text": "This museum houses significant archaeological and ethnographic collections.", "category": "museum", "coords": [10.734569, 59.917038]}, {"name": "Jødisk museum", "text": "A museum documenting Jewish life and heritage in Norway.", "category": "museum", "coords": [10.75542, 59.916338]}, {"name": "Dronning Sonjas kunststall", "text": "An art gallery located in the former royal stables in Oslo.", "category": "museum", "coords": [10.723447, 59.916167]}, {"name": "Kunstnernes hus", "text": "An artist-run exhibition space for contemporary art.", "category": "museum", "coords": [10.730827, 59.919571]}, {"name": "Henriette Wegner Pavilion", "text": "A small historic pavilion located in the Palace Park in Oslo.", "category": "museum", "coords": [10.705107, 59.923213]}, {"name": "Niels Henrik Abel", "text": "In the Norwegian capital of Oslo stands the significant Niels Henrik Abel monument. It honors the life and achievements of this famous Norwegian mathematician. For visitors interested in history and science, this monument is an inspiring point of interest.", "category": "historical", "coords": [10.731216, 59.915564]}, {"name": "National Monument for War Victims 1940-45", "text": "A memorial dedicated to the Norwegian victims of World War II.", "category": "historical", "coords": [10.738731, 59.906088]}, {"name": "Clemenskirken", "text": "The archaeological remains of a medieval stone church in Oslo.", "category": "historical", "coords": [10.765731, 59.904315]}, {"name": "Korskirken", "text": "Ruins of a medieval church located in the historic center of Oslo.", "category": "historical", "coords": [10.76952, 59.907028]}, {"name": "Chat Noir", "text": "A long-running cabaret and variety theatre in central Oslo.", "category": "cultural", "coords": [10.732298, 59.913728]}, {"name": "Det Norske Teatret", "text": "A prominent theatre that primarily presents performances in Nynorsk.", "category": "cultural", "coords": [10.738625, 59.915219]}, {"name": "Det Andre Teatret", "text": "An independent theatre specializing in improvisational performance.", "category": "cultural", "coords": [10.765609, 59.938677]}, {"name": "Folketeatret", "text": "A historic theatre building now used for musicals and large-scale productions.", "category": "cultural", "coords": [10.750421, 59.914281]}, {"name": "National Theatre", "text": "Norway's most important venue for dramatic arts with a long history.", "category": "cultural", "coords": [10.734254, 59.914366]}, {"name": "Oslo Spektrum", "text": "A large multi-purpose indoor arena for concerts and sports events in Oslo.", "category": "cultural", "coords": [10.75472, 59.912987]}, {"name": "Kulturkirken Jakob", "text": "A former church that now serves as a cultural venue and theatre stage.", "category": "cultural", "coords": [10.754419, 59.91815]}, {"name": "Slottskapellet", "text": "The chapel located within the Royal Palace in Oslo.", "category": "religious", "coords": [10.727681, 59.917489]}, {"name": "Akershus slottskirke", "text": "A historic church located within the Akershus Fortress complex.", "category": "religious", "coords": [10.736426, 59.906422]}, {"name": "Trefoldighetskirken", "text": "A large Neo-Gothic church in Oslo, known for its prominent dome.", "category": "religious", "coords": [10.745184, 59.916765]}, {"name": "Gamle Aker kirke", "text": "The oldest surviving stone church in Oslo, built during the Middle Ages.", "category": "religious", "coords": [10.747134, 59.923711]}, {"name": "St. Hallvard kirke", "text": "A modern Catholic church and monastery located in Oslo.", "category": "religious", "coords": [10.769123, 59.912772]}, {"name": "Sofienberg kirke", "text": "A Lutheran parish church located in the Sofienberg district of Oslo.", "category": "religious", "coords": [10.766138, 59.92241]}, {"name": "Hasle kirke", "text": "A modern brick church located in the Hasle district of Oslo.", "category": "religious", "coords": [10.784261, 59.921438]}, {"name": "Uranienborg kirke", "text": "A prominent Neo-Gothic church situated on a hill in western Oslo.", "category": "religious", "coords": [10.719887, 59.92114]}, {"name": "Grønland kirke", "text": "A large brick church located in the Grønland district of Oslo.", "category": "religious", "coords": [10.76772, 59.911119]}, {"name": "Sankt Olav domkirke", "text": "The Catholic cathedral of Oslo, dedicated to Saint Olav.", "category": "religious", "coords": [10.744156, 59.918435]}, {"name": "Markus kirke", "text": "An early 20th-century long church located in the St. Hanshaugen district of Oslo.", "category": "religious", "coords": [10.739555, 59.923904]}, {"name": "American Lutheran Church, Oslo", "text": "A modern church serving the English-speaking Lutheran community in Oslo.", "category": "religious", "coords": [10.705575, 59.916832]}, {"name": "Kavringen Lighthouse", "text": "A small historic lighthouse in the Oslo Fjord near the harbor.", "category": "landmark", "coords": [10.722018, 59.899808]}, {"name": "Pipervika", "text": "A bay located in the central harbor area of Oslo.", "category": "landmark", "coords": [10.731305, 59.909026]}, {"name": "Oslo rådhus", "text": "Oslo City Hall is famous for its architecture and the Nobel Peace Prize ceremony.", "category": "landmark", "coords": [10.733692, 59.912049]}, {"name": "Nybrua", "text": "A historic bridge crossing the Akerselva river in Oslo.", "category": "landmark", "coords": [10.759164, 59.917787]}, {"name": "Jerusalem bru", "text": "A modern pedestrian bridge crossing the Akerselva river.", "category": "landmark", "coords": [10.766821, 59.939408]}, {"name": "Ankerbrua", "text": "A bridge over the Akerselva known for its four bronze sculptures from Norwegian fairy tales.", "category": "landmark", "coords": [10.756307, 59.918259]}, {"name": "Sannerbrua", "text": "A road bridge connecting the Grünerløkka and Sagene districts of Oslo.", "category": "landmark", "coords": [10.755192, 59.928259]}, {"name": "Vaterlands bru", "text": "A bridge in the Vaterland district of Oslo crossing the Akerselva river.", "category": "landmark", "coords": [10.758107, 59.913455]}, {"name": "Sofienbergparken", "text": "A popular urban park in the lively Grünerløkka neighborhood.", "category": "park", "coords": [10.764245, 59.923134]}, {"name": "Olaf Ryes plass", "text": "A central square and park in the heart of the Grünerløkka district.", "category": "park", "coords": [10.758259, 59.922882]}, {"name": "Gråbeinsletta", "text": "A green park area in the Sagene district of Oslo.", "category": "park", "coords": [10.751354, 59.938009]}, {"name": "Kristparken", "text": "A small public park located near Oslo's city center.", "category": "park", "coords": [10.748641, 59.917561]}, {"name": "Frogner Park", "text": "A large park famous for the Vigeland sculpture installation.", "category": "park", "coords": [10.701656, 59.926659]}, {"name": "Tøyenparken", "text": "A large park in Oslo that houses museums and is used for events.", "category": "park", "coords": [10.778272, 59.919963]}, {"name": "Klosterenga", "text": "A public park in Oslo featuring a variety of modern sculptures and greenery.", "category": "park", "coords": [10.77627, 59.908272]}, {"name": "Frøyas have", "text": "A peaceful green space and public park located in the city of Oslo.", "category": "park", "coords": [10.696708, 59.915734]}, {"name": "Skarpsnoparken", "text": "A pleasant coastal park in Oslo offering green spaces and views near the fjord.", "category": "park", "coords": [10.700382, 59.914867]}]},
+    id: "city-oslo", "sights": {
+      "de": [
+            {
+                  "name": "Norwegisches Heimatfront-Museum",
+                  "text": "Dieses Museum dokumentiert die Geschichte des norwegischen Widerstands während des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        10.735762,
+                        59.907803
+                  ]
+            },
+            {
+                  "name": "Bymuseet",
+                  "text": "Ein Museum, das der Kulturgeschichte und Stadtentwicklung von Oslo gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.703014,
+                        59.923918
+                  ]
+            },
+            {
+                  "name": "Astrup Fearnley Museet",
+                  "text": "Ein Museum für zeitgenössische Kunst in einem modernen Gebäude am Hafen.",
+                  "category": "museum",
+                  "coords": [
+                        10.721938,
+                        59.906925
+                  ]
+            },
+            {
+                  "name": "22. juli-senteret",
+                  "text": "Eine Gedenkstätte und ein Lernzentrum zu den Anschlägen in Norwegen 2011.",
+                  "category": "museum",
+                  "coords": [
+                        10.74274,
+                        59.915948
+                  ]
+            },
+            {
+                  "name": "Interkulturelt museum",
+                  "text": "Ein Museum, das sich mit kultureller Vielfalt und der Migrationsgeschichte Norwegens befasst.",
+                  "category": "museum",
+                  "coords": [
+                        10.763251,
+                        59.913048
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk museum",
+                  "text": "Dieses Museum umfasst bedeutende botanische Gärten und naturwissenschaftliche Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        10.771714,
+                        59.919783
+                  ]
+            },
+            {
+                  "name": "Nobel-Friedenszentrum",
+                  "text": "Ein Zentrum, das dem Friedensnobelpreis und den Bemühungen für den Weltfrieden gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.7304,
+                        59.911612
+                  ]
+            },
+            {
+                  "name": "Botanisk hage",
+                  "text": "Ein großer botanischer Garten der Universität Oslo mit vielfältigen Pflanzenarten.",
+                  "category": "museum",
+                  "coords": [
+                        10.769749,
+                        59.918366
+                  ]
+            },
+            {
+                  "name": "Verteidigungsmuseum",
+                  "text": "Ein Militärmuseum in der Festung Akershus, das die Verteidigungsgeschichte Norwegens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.740888,
+                        59.904511
+                  ]
+            },
+            {
+                  "name": "Ibsenmuseet",
+                  "text": "Ein Museum im ehemaligen Wohnhaus des berühmten Dramatikers Henrik Ibsen.",
+                  "category": "museum",
+                  "coords": [
+                        10.727045,
+                        59.915031
+                  ]
+            },
+            {
+                  "name": "Ladegården",
+                  "text": "Ein historisches Herrenhaus, das auf den Ruinen eines mittelalterlichen Bischofspalastes errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        10.767627,
+                        59.906189
+                  ]
+            },
+            {
+                  "name": "Kulturhistorisk museum",
+                  "text": "Dieses Museum beherbergt bedeutende archäologische und ethnografische Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        10.734569,
+                        59.917038
+                  ]
+            },
+            {
+                  "name": "Jødisk museum",
+                  "text": "Ein Museum, das das jüdische Leben und Erbe in Norwegen dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.75542,
+                        59.916338
+                  ]
+            },
+            {
+                  "name": "Dronning Sonjas kunststall",
+                  "text": "Eine Kunstgalerie in den ehemaligen königlichen Ställen in Oslo.",
+                  "category": "museum",
+                  "coords": [
+                        10.723447,
+                        59.916167
+                  ]
+            },
+            {
+                  "name": "Kunstnernes hus",
+                  "text": "Ein von Künstlern geführtes Ausstellungszentrum für zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        10.730827,
+                        59.919571
+                  ]
+            },
+            {
+                  "name": "Henriette Wegner Pavilion",
+                  "text": "Ein kleiner historischer Pavillon im Schlosspark von Oslo.",
+                  "category": "museum",
+                  "coords": [
+                        10.705107,
+                        59.923213
+                  ]
+            },
+            {
+                  "name": "Niels Henrik Abel",
+                  "text": "In der norwegischen Hauptstadt Oslo steht das bedeutende Denkmal für Niels Henrik Abel. Es würdigt das Leben und die Errungenschaften dieses berühmten norwegischen Mathematikers. Für geschichts- und wissenschaftsinteressierte Besucher ist dieses Monument ein inspirierender Anlaufpunkt.",
+                  "category": "historical",
+                  "coords": [
+                        10.731216,
+                        59.915564
+                  ]
+            },
+            {
+                  "name": "Nasjonalmonumentet for krigens ofre 1940-45",
+                  "text": "Ein Mahnmal zum Gedenken an die norwegischen Opfer des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        10.738731,
+                        59.906088
+                  ]
+            },
+            {
+                  "name": "Clemenskirken",
+                  "text": "Die archäologischen Überreste einer mittelalterlichen Steinkirche in Oslo.",
+                  "category": "historical",
+                  "coords": [
+                        10.765731,
+                        59.904315
+                  ]
+            },
+            {
+                  "name": "Korskirken",
+                  "text": "Ruinen einer mittelalterlichen Kirche im historischen Stadtkern von Oslo.",
+                  "category": "historical",
+                  "coords": [
+                        10.76952,
+                        59.907028
+                  ]
+            },
+            {
+                  "name": "Chat Noir",
+                  "text": "Ein traditionsreiches Kabarett- und Varieté-Theater im Zentrum von Oslo.",
+                  "category": "cultural",
+                  "coords": [
+                        10.732298,
+                        59.913728
+                  ]
+            },
+            {
+                  "name": "Det Norske Teatret",
+                  "text": "Ein bedeutendes Theater, das Aufführungen hauptsächlich in Nynorsk präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.738625,
+                        59.915219
+                  ]
+            },
+            {
+                  "name": "Det Andre Teatret",
+                  "text": "Ein unabhängiges Theater, das auf Improvisationskunst spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        10.765609,
+                        59.938677
+                  ]
+            },
+            {
+                  "name": "Folketeatret",
+                  "text": "Ein historisches Theatergebäude, das heute für Musicals und Großveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        10.750421,
+                        59.914281
+                  ]
+            },
+            {
+                  "name": "Nationaltheater",
+                  "text": "Das wichtigste Sprechtheater Norwegens mit einer langen Geschichte.",
+                  "category": "cultural",
+                  "coords": [
+                        10.734254,
+                        59.914366
+                  ]
+            },
+            {
+                  "name": "Oslo Spektrum",
+                  "text": "Eine große Multifunktionsarena für Konzerte und Sportveranstaltungen in Oslo.",
+                  "category": "cultural",
+                  "coords": [
+                        10.75472,
+                        59.912987
+                  ]
+            },
+            {
+                  "name": "Kulturkirken Jakob",
+                  "text": "Eine ehemalige Kirche, die heute als Kulturzentrum und Bühne dient.",
+                  "category": "cultural",
+                  "coords": [
+                        10.754419,
+                        59.91815
+                  ]
+            },
+            {
+                  "name": "Slottskapellet",
+                  "text": "Die Kapelle innerhalb des königlichen Schlosses in Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.727681,
+                        59.917489
+                  ]
+            },
+            {
+                  "name": "Schlosskirche Akershus (Garnisonskirche)",
+                  "text": "Eine historische Kirche innerhalb der Festungsanlage Akershus.",
+                  "category": "religious",
+                  "coords": [
+                        10.736426,
+                        59.906422
+                  ]
+            },
+            {
+                  "name": "Trefoldighetskirken",
+                  "text": "Eine große neugotische Kirche in Oslo, bekannt für ihre markante Kuppel.",
+                  "category": "religious",
+                  "coords": [
+                        10.745184,
+                        59.916765
+                  ]
+            },
+            {
+                  "name": "Gamle Aker kirke",
+                  "text": "Die älteste erhaltene Steinkirche in Oslo, erbaut im Mittelalter.",
+                  "category": "religious",
+                  "coords": [
+                        10.747134,
+                        59.923711
+                  ]
+            },
+            {
+                  "name": "St. Hallvard kirke",
+                  "text": "Eine moderne katholische Kirche und ein Kloster in Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.769123,
+                        59.912772
+                  ]
+            },
+            {
+                  "name": "Sofienberg kirke",
+                  "text": "Eine evangelische Pfarrkirche im Osloer Stadtteil Sofienberg.",
+                  "category": "religious",
+                  "coords": [
+                        10.766138,
+                        59.92241
+                  ]
+            },
+            {
+                  "name": "Hasle kirke",
+                  "text": "Eine moderne Kirche aus Backstein im Osloer Stadtteil Hasle.",
+                  "category": "religious",
+                  "coords": [
+                        10.784261,
+                        59.921438
+                  ]
+            },
+            {
+                  "name": "Uranienborg kirke",
+                  "text": "Eine markante neugotische Kirche auf einem Hügel im Westen Oslos.",
+                  "category": "religious",
+                  "coords": [
+                        10.719887,
+                        59.92114
+                  ]
+            },
+            {
+                  "name": "Grønland kirke",
+                  "text": "Eine große Backsteinkirche im Osloer Stadtteil Grønland.",
+                  "category": "religious",
+                  "coords": [
+                        10.76772,
+                        59.911119
+                  ]
+            },
+            {
+                  "name": "Sankt Olav domkirke",
+                  "text": "Die katholische Kathedrale von Oslo, gewidmet dem heiligen Olav.",
+                  "category": "religious",
+                  "coords": [
+                        10.744156,
+                        59.918435
+                  ]
+            },
+            {
+                  "name": "Markus kirke",
+                  "text": "Eine Langkirche aus dem frühen 20. Jahrhundert im Osloer Stadtteil St. Hanshaugen.",
+                  "category": "religious",
+                  "coords": [
+                        10.739555,
+                        59.923904
+                  ]
+            },
+            {
+                  "name": "American Lutheran Church, Oslo",
+                  "text": "Eine moderne Kirche, die der englischsprachigen lutherischen Gemeinde in Oslo dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.705575,
+                        59.916832
+                  ]
+            },
+            {
+                  "name": "Kavringen fyr",
+                  "text": "Ein kleiner historischer Leuchtturm im Oslofjord nahe dem Hafen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.722018,
+                        59.899808
+                  ]
+            },
+            {
+                  "name": "Pipervika",
+                  "text": "Eine Bucht im zentralen Hafenbereich von Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.731305,
+                        59.909026
+                  ]
+            },
+            {
+                  "name": "Oslo rådhus",
+                  "text": "Das Rathaus von Oslo ist berühmt für seine Architektur und die Verleihung des Friedensnobelpreises.",
+                  "category": "landmark",
+                  "coords": [
+                        10.733692,
+                        59.912049
+                  ]
+            },
+            {
+                  "name": "Nybrua",
+                  "text": "Eine historische Brücke über den Fluss Akerselva in Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.759164,
+                        59.917787
+                  ]
+            },
+            {
+                  "name": "Jerusalem bru",
+                  "text": "Eine moderne Fußgängerbrücke, die über den Fluss Akerselva führt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.766821,
+                        59.939408
+                  ]
+            },
+            {
+                  "name": "Ankerbrua",
+                  "text": "Eine Brücke über die Akerselva, bekannt für ihre vier Bronzeskulpturen aus norwegischen Märchen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.756307,
+                        59.918259
+                  ]
+            },
+            {
+                  "name": "Sannerbrua",
+                  "text": "Eine Straßenbrücke, die die Osloer Stadtteile Grünerløkka und Sagene verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.755192,
+                        59.928259
+                  ]
+            },
+            {
+                  "name": "Vaterlands bru",
+                  "text": "Eine Brücke im Osloer Stadtteil Vaterland, die über die Akerselva führt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.758107,
+                        59.913455
+                  ]
+            },
+            {
+                  "name": "Sofienbergparken",
+                  "text": "Ein beliebter Stadtpark im lebhaften Viertel Grünerløkka.",
+                  "category": "park",
+                  "coords": [
+                        10.764245,
+                        59.923134
+                  ]
+            },
+            {
+                  "name": "Olaf Ryes plass",
+                  "text": "Ein zentraler Platz und Park im Herzen des Stadtteils Grünerløkka.",
+                  "category": "park",
+                  "coords": [
+                        10.758259,
+                        59.922882
+                  ]
+            },
+            {
+                  "name": "Gråbeinsletta",
+                  "text": "Eine Grünanlage im Osloer Stadtteil Sagene.",
+                  "category": "park",
+                  "coords": [
+                        10.751354,
+                        59.938009
+                  ]
+            },
+            {
+                  "name": "Kristparken",
+                  "text": "Ein kleiner öffentlicher Park in der Nähe des Osloer Stadtzentrums.",
+                  "category": "park",
+                  "coords": [
+                        10.748641,
+                        59.917561
+                  ]
+            },
+            {
+                  "name": "Frognerpark",
+                  "text": "Ein großer Park, der für die Vigeland-Skulpturenanlage bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        10.701656,
+                        59.926659
+                  ]
+            },
+            {
+                  "name": "Tøyenparken",
+                  "text": "Ein weitläufiger Park in Oslo, der Museen beherbergt und für Veranstaltungen genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        10.778272,
+                        59.919963
+                  ]
+            },
+            {
+                  "name": "Klosterenga",
+                  "text": "Ein öffentlicher Park in Oslo, der für seine modernen Skulpturen und Grünflächen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        10.77627,
+                        59.908272
+                  ]
+            },
+            {
+                  "name": "Frøyas have",
+                  "text": "Eine friedliche Grünanlage und ein öffentlicher Park in der Stadt Oslo.",
+                  "category": "park",
+                  "coords": [
+                        10.696708,
+                        59.915734
+                  ]
+            },
+            {
+                  "name": "Skarpsnoparken",
+                  "text": "Ein schöner Küstenpark in Oslo mit Grünflächen und Ausblick in der Nähe des Fjords.",
+                  "category": "park",
+                  "coords": [
+                        10.700382,
+                        59.914867
+                  ]
+            },
+            {
+                  "name": "Domus Athletica svømmehall",
+                  "text": "Ein Schwimmbad in Oslo mit modernen Einrichtungen für Schwimmer jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        10.724035,
+                        59.946092
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen Sjøbad",
+                  "text": "Ein Schwimmbad in Oslo, das Badevergnügen im Herzen der Stadt ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        10.719703,
+                        59.906208
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Ein Schwimmbad in Oslo, ideal für einen aktiven Tag mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        10.720904,
+                        59.906379
+                  ]
+            },
+            {
+                  "name": "Terrasert regnbed med lommevåtmark",
+                  "text": "Ein Wasserpark in Oslo mit spielerischen Elementen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        10.73007,
+                        59.948149
+                  ]
+            },
+            {
+                  "name": "Kampen Økologiske Barnebondegård",
+                  "text": "Ein Zoo in Oslo, der Kindern das Leben auf einem Bauernhof näher bringt.",
+                  "category": "family",
+                  "coords": [
+                        10.784989,
+                        59.913131
+                  ]
+            },
+            {
+                  "name": "Frogner-Bad",
+                  "text": "Ein Wasserpark in Oslo mit Rutschen und Becken für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        10.707059,
+                        59.927316
+                  ]
+            },
+            {
+                  "name": "Operastranda",
+                  "text": "Ein Strandresort in Oslo, das zum Entspannen am Wasser einlädt.",
+                  "category": "family",
+                  "coords": [
+                        10.752835,
+                        59.90636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Norges hjemmefrontmuseum",
+                  "text": "A múzeum Norvégia második világháborús ellenállási mozgalmának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.735762,
+                        59.907803
+                  ]
+            },
+            {
+                  "name": "Bymuseet",
+                  "text": "Oslo kultúrtörténetének és városfejlődésének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.703014,
+                        59.923918
+                  ]
+            },
+            {
+                  "name": "Astrup Fearnley Museet",
+                  "text": "Kortárs művészeti múzeum egy modern épületben a kikötőnél.",
+                  "category": "museum",
+                  "coords": [
+                        10.721938,
+                        59.906925
+                  ]
+            },
+            {
+                  "name": "22. juli-senteret",
+                  "text": "Emlékhely és oktatási központ a 2011-es norvégiai terrortámadásokról.",
+                  "category": "museum",
+                  "coords": [
+                        10.74274,
+                        59.915948
+                  ]
+            },
+            {
+                  "name": "Interkulturelt museum",
+                  "text": "Norvégia kulturális sokszínűségével és a migráció történetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.763251,
+                        59.913048
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk museum",
+                  "text": "A múzeum jelentős botanikus kerteknek és természettudományi gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.771714,
+                        59.919783
+                  ]
+            },
+            {
+                  "name": "Nobels Fredssenter",
+                  "text": "A Nobel-békedíjnak és a világbékéért tett erőfeszítéseknek szentelt központ.",
+                  "category": "museum",
+                  "coords": [
+                        10.7304,
+                        59.911612
+                  ]
+            },
+            {
+                  "name": "Botanisk hage",
+                  "text": "Az Oslói Egyetem nagyméretű botanikus kertje változatos növényfajokkal.",
+                  "category": "museum",
+                  "coords": [
+                        10.769749,
+                        59.918366
+                  ]
+            },
+            {
+                  "name": "Forsvarsmuseet",
+                  "text": "Az Akershus-erődben található hadtörténeti múzeum Norvégia védelmi múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.740888,
+                        59.904511
+                  ]
+            },
+            {
+                  "name": "Ibsenmuseet",
+                  "text": "A híres drámaíró, Henrik Ibsen egykori lakóházában berendezett múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.727045,
+                        59.915031
+                  ]
+            },
+            {
+                  "name": "Ladegården",
+                  "text": "Történelmi kúria, amely egy középkori püspöki palota romjaira épült.",
+                  "category": "museum",
+                  "coords": [
+                        10.767627,
+                        59.906189
+                  ]
+            },
+            {
+                  "name": "Kulturhistorisk museum",
+                  "text": "A múzeum jelentős régészeti és néprajzi gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.734569,
+                        59.917038
+                  ]
+            },
+            {
+                  "name": "Jødisk museum",
+                  "text": "A norvégiai zsidó életet és örökséget dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.75542,
+                        59.916338
+                  ]
+            },
+            {
+                  "name": "Dronning Sonjas kunststall",
+                  "text": "Művészeti galéria Oslo egykori királyi istállóiban.",
+                  "category": "museum",
+                  "coords": [
+                        10.723447,
+                        59.916167
+                  ]
+            },
+            {
+                  "name": "Kunstnernes hus",
+                  "text": "Művészek által vezetett kiállítóhely a kortárs művészet számára.",
+                  "category": "museum",
+                  "coords": [
+                        10.730827,
+                        59.919571
+                  ]
+            },
+            {
+                  "name": "Henriette Wegner Pavilion",
+                  "text": "Kisméretű történelmi pavilon az oslói királyi palota parkjában.",
+                  "category": "museum",
+                  "coords": [
+                        10.705107,
+                        59.923213
+                  ]
+            },
+            {
+                  "name": "Niels Henrik Abel",
+                  "text": "A norvég fővárosban, Oslóban áll a jelentős Niels Henrik Abel emlékmű. A szobor a híres norvég matematikus élete és eredményei előtt tiszteleg. A történelem és a tudomány iránt érdeklődő látogatók számára ez a műemlék egy inspiráló célpont.",
+                  "category": "historical",
+                  "coords": [
+                        10.731216,
+                        59.915564
+                  ]
+            },
+            {
+                  "name": "Nasjonalmonumentet for krigens ofre 1940-45",
+                  "text": "Emlékmű a második világháború norvég áldozatainak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        10.738731,
+                        59.906088
+                  ]
+            },
+            {
+                  "name": "Clemenskirken",
+                  "text": "Egy középkori kőtemplom régészeti maradványai Oslóban.",
+                  "category": "historical",
+                  "coords": [
+                        10.765731,
+                        59.904315
+                  ]
+            },
+            {
+                  "name": "Korskirken",
+                  "text": "Egy középkori templom romjai Oslo történelmi központjában.",
+                  "category": "historical",
+                  "coords": [
+                        10.76952,
+                        59.907028
+                  ]
+            },
+            {
+                  "name": "Chat Noir",
+                  "text": "Hagyományőrző kabaré- és varietészínház Oslo központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.732298,
+                        59.913728
+                  ]
+            },
+            {
+                  "name": "Det Norske Teatret",
+                  "text": "Jelentős színház, amely elsősorban nynorsk nyelven mutat be darabokat.",
+                  "category": "cultural",
+                  "coords": [
+                        10.738625,
+                        59.915219
+                  ]
+            },
+            {
+                  "name": "Det Andre Teatret",
+                  "text": "Improvizációs színházra szakosodott független színház.",
+                  "category": "cultural",
+                  "coords": [
+                        10.765609,
+                        59.938677
+                  ]
+            },
+            {
+                  "name": "Folketeatret",
+                  "text": "Történelmi színházépület, amelyet ma musicalekre és nagy rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        10.750421,
+                        59.914281
+                  ]
+            },
+            {
+                  "name": "Nationaltheatret",
+                  "text": "Norvégia legfontosabb drámai színháza, amely hosszú múltra tekint vissza.",
+                  "category": "cultural",
+                  "coords": [
+                        10.734254,
+                        59.914366
+                  ]
+            },
+            {
+                  "name": "Oslo Spektrum",
+                  "text": "Nagyméretű multifunkcionális aréna koncertek és sportesemények számára Oslóban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.75472,
+                        59.912987
+                  ]
+            },
+            {
+                  "name": "Kulturkirken Jakob",
+                  "text": "Egykori templom, amely ma kulturális központként és színházként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        10.754419,
+                        59.91815
+                  ]
+            },
+            {
+                  "name": "Slottskapellet",
+                  "text": "Az oslói királyi palotán belül található kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        10.727681,
+                        59.917489
+                  ]
+            },
+            {
+                  "name": "Akershus slottskirke",
+                  "text": "Történelmi templom az Akershus-erőd területén.",
+                  "category": "religious",
+                  "coords": [
+                        10.736426,
+                        59.906422
+                  ]
+            },
+            {
+                  "name": "Trefoldighetskirken",
+                  "text": "Nagyméretű neogótikus templom Oslóban, jellegzetes kupolájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        10.745184,
+                        59.916765
+                  ]
+            },
+            {
+                  "name": "Gamle Aker kirke",
+                  "text": "Oslo legrégebbi fennmaradt kőtemploma, amely a középkorban épült.",
+                  "category": "religious",
+                  "coords": [
+                        10.747134,
+                        59.923711
+                  ]
+            },
+            {
+                  "name": "St. Hallvard kirke",
+                  "text": "Modern katolikus templom és kolostor Oslóban.",
+                  "category": "religious",
+                  "coords": [
+                        10.769123,
+                        59.912772
+                  ]
+            },
+            {
+                  "name": "Sofienberg kirke",
+                  "text": "Evangélikus plébániatemplom Oslo Sofienberg negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.766138,
+                        59.92241
+                  ]
+            },
+            {
+                  "name": "Hasle kirke",
+                  "text": "Modern téglaépítésű templom Oslo Hasle negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.784261,
+                        59.921438
+                  ]
+            },
+            {
+                  "name": "Uranienborg kirke",
+                  "text": "Jellegzetes neogótikus templom egy dombon Oslo nyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        10.719887,
+                        59.92114
+                  ]
+            },
+            {
+                  "name": "Grønland kirke",
+                  "text": "Nagyméretű téglaépítésű templom Oslo Grønland negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.76772,
+                        59.911119
+                  ]
+            },
+            {
+                  "name": "Sankt Olav domkirke",
+                  "text": "Oslo katolikus székesegyháza, amelyet Szent Olavnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        10.744156,
+                        59.918435
+                  ]
+            },
+            {
+                  "name": "Markus kirke",
+                  "text": "20. század eleji hosszházas templom Oslo St. Hanshaugen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.739555,
+                        59.923904
+                  ]
+            },
+            {
+                  "name": "American Lutheran Church, Oslo",
+                  "text": "Modern templom, amely az oslói angol nyelvű evangélikus közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        10.705575,
+                        59.916832
+                  ]
+            },
+            {
+                  "name": "Kavringen fyr",
+                  "text": "Kisméretű történelmi világítótorony az Oslo-fjordban a kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.722018,
+                        59.899808
+                  ]
+            },
+            {
+                  "name": "Pipervika",
+                  "text": "Öböl Oslo központi kikötői területén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.731305,
+                        59.909026
+                  ]
+            },
+            {
+                  "name": "Oslo rådhus",
+                  "text": "Oslo városháza híres építészetéről és a Nobel-békedíj átadási ünnepségéről.",
+                  "category": "landmark",
+                  "coords": [
+                        10.733692,
+                        59.912049
+                  ]
+            },
+            {
+                  "name": "Nybrua",
+                  "text": "Történelmi híd az Akerselva folyón Oslóban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.759164,
+                        59.917787
+                  ]
+            },
+            {
+                  "name": "Jerusalem bru",
+                  "text": "Modern gyalogoshíd az Akerselva folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        10.766821,
+                        59.939408
+                  ]
+            },
+            {
+                  "name": "Ankerbrua",
+                  "text": "Az Akerselva feletti híd, amely a norvég mesék alakjait ábrázoló bronzszobrairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.756307,
+                        59.918259
+                  ]
+            },
+            {
+                  "name": "Sannerbrua",
+                  "text": "Közúti híd, amely Oslo Grünerløkka és Sagene negyedeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        10.755192,
+                        59.928259
+                  ]
+            },
+            {
+                  "name": "Vaterlands bru",
+                  "text": "Híd Oslo Vaterland negyedében az Akerselva folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        10.758107,
+                        59.913455
+                  ]
+            },
+            {
+                  "name": "Sofienbergparken",
+                  "text": "Népszerű városi park a hangulatos Grünerløkka negyedben.",
+                  "category": "park",
+                  "coords": [
+                        10.764245,
+                        59.923134
+                  ]
+            },
+            {
+                  "name": "Olaf Ryes plass",
+                  "text": "Központi tér és park Grünerløkka negyed szívében.",
+                  "category": "park",
+                  "coords": [
+                        10.758259,
+                        59.922882
+                  ]
+            },
+            {
+                  "name": "Gråbeinsletta",
+                  "text": "Zöldterület Oslo Sagene negyedében.",
+                  "category": "park",
+                  "coords": [
+                        10.751354,
+                        59.938009
+                  ]
+            },
+            {
+                  "name": "Kristparken",
+                  "text": "Kisméretű nyilvános park Oslo városközpontjának közelében.",
+                  "category": "park",
+                  "coords": [
+                        10.748641,
+                        59.917561
+                  ]
+            },
+            {
+                  "name": "Frognerparken",
+                  "text": "Nagyméretű park, amely a Vigeland-szoborparkról ismert.",
+                  "category": "park",
+                  "coords": [
+                        10.701656,
+                        59.926659
+                  ]
+            },
+            {
+                  "name": "Tøyenparken",
+                  "text": "Kiterjedt park Oslóban, amely múzeumoknak ad otthont és rendezvények helyszíne.",
+                  "category": "park",
+                  "coords": [
+                        10.778272,
+                        59.919963
+                  ]
+            },
+            {
+                  "name": "Klosterenga",
+                  "text": "Oslói közpark, amely modern szobrairól és zöldfelületeiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        10.77627,
+                        59.908272
+                  ]
+            },
+            {
+                  "name": "Frøyas have",
+                  "text": "Békés zöldterület és közpark Oslo városában.",
+                  "category": "park",
+                  "coords": [
+                        10.696708,
+                        59.915734
+                  ]
+            },
+            {
+                  "name": "Skarpsnoparken",
+                  "text": "Kellemes tengerparti park Oslóban, zöldfelületekkel és kilátással a fjord közelében.",
+                  "category": "park",
+                  "coords": [
+                        10.700382,
+                        59.914867
+                  ]
+            },
+            {
+                  "name": "Domus Athletica svømmehall",
+                  "text": "Egy úszómedence Oslo városában modern létesítményekkel minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        10.724035,
+                        59.946092
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen Sjøbad",
+                  "text": "Egy úszómedence Oslo városában, amely fürdőzési lehetőséget biztosít a város szívében.",
+                  "category": "family",
+                  "coords": [
+                        10.719703,
+                        59.906208
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Egy úszómedence Oslo városában, ideális egy aktív naphoz a családdal.",
+                  "category": "family",
+                  "coords": [
+                        10.720904,
+                        59.906379
+                  ]
+            },
+            {
+                  "name": "Terrasert regnbed med lommevåtmark",
+                  "text": "Egy aquapark Oslo városában játékos elemekkel gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        10.73007,
+                        59.948149
+                  ]
+            },
+            {
+                  "name": "Kampen Økologiske Barnebondegård",
+                  "text": "Egy állatkert Oslo városában, amely közelebb hozza a gyerekekhez a tanyasi életet.",
+                  "category": "family",
+                  "coords": [
+                        10.784989,
+                        59.913131
+                  ]
+            },
+            {
+                  "name": "Frognerbadet",
+                  "text": "Egy aquapark Oslo városában csúszdákkal és medencékkel a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.707059,
+                        59.927316
+                  ]
+            },
+            {
+                  "name": "Operastranda",
+                  "text": "Egy tengerparti üdülőhely Oslo városában, amely pihenésre hív a víznél.",
+                  "category": "family",
+                  "coords": [
+                        10.752835,
+                        59.90636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Norges hjemmefrontmuseum",
+                  "text": "Acest muzeu documentează istoria rezistenței norvegiene în timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        10.735762,
+                        59.907803
+                  ]
+            },
+            {
+                  "name": "Bymuseet",
+                  "text": "Un muzeu dedicat istoriei culturale și dezvoltării urbane a orașului Oslo.",
+                  "category": "museum",
+                  "coords": [
+                        10.703014,
+                        59.923918
+                  ]
+            },
+            {
+                  "name": "Astrup Fearnley Museet",
+                  "text": "Un muzeu de artă contemporană situat într-o clădire modernă din zona portului.",
+                  "category": "museum",
+                  "coords": [
+                        10.721938,
+                        59.906925
+                  ]
+            },
+            {
+                  "name": "22. juli-senteret",
+                  "text": "Un memorial și centru de învățare dedicat atacurilor din Norvegia din 2011.",
+                  "category": "museum",
+                  "coords": [
+                        10.74274,
+                        59.915948
+                  ]
+            },
+            {
+                  "name": "Interkulturelt museum",
+                  "text": "Un muzeu care explorează diversitatea culturală și istoria migrației în Norvegia.",
+                  "category": "museum",
+                  "coords": [
+                        10.763251,
+                        59.913048
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk museum",
+                  "text": "Acest muzeu include grădini botanice importante și colecții de științe naturale.",
+                  "category": "museum",
+                  "coords": [
+                        10.771714,
+                        59.919783
+                  ]
+            },
+            {
+                  "name": "Nobels Fredssenter",
+                  "text": "Un centru dedicat Premiului Nobel pentru Pace și eforturilor pentru pacea mondială.",
+                  "category": "museum",
+                  "coords": [
+                        10.7304,
+                        59.911612
+                  ]
+            },
+            {
+                  "name": "Botanisk hage",
+                  "text": "O grădină botanică vastă a Universității din Oslo, cu diverse specii de plante.",
+                  "category": "museum",
+                  "coords": [
+                        10.769749,
+                        59.918366
+                  ]
+            },
+            {
+                  "name": "Forsvarsmuseet",
+                  "text": "Un muzeu militar situat în fortăreața Akershus, care prezintă istoria apărării Norvegiei.",
+                  "category": "museum",
+                  "coords": [
+                        10.740888,
+                        59.904511
+                  ]
+            },
+            {
+                  "name": "Ibsenmuseet",
+                  "text": "Un muzeu situat în fosta reședință a celebrului dramaturg Henrik Ibsen.",
+                  "category": "museum",
+                  "coords": [
+                        10.727045,
+                        59.915031
+                  ]
+            },
+            {
+                  "name": "Ladegården",
+                  "text": "Un conac istoric construit pe ruinele unui palat episcopal medieval.",
+                  "category": "museum",
+                  "coords": [
+                        10.767627,
+                        59.906189
+                  ]
+            },
+            {
+                  "name": "Kulturhistorisk museum",
+                  "text": "Acest muzeu găzduiește colecții arheologice și etnografice importante.",
+                  "category": "museum",
+                  "coords": [
+                        10.734569,
+                        59.917038
+                  ]
+            },
+            {
+                  "name": "Jødisk museum",
+                  "text": "Un muzeu care documentează viața și moștenirea evreiască în Norvegia.",
+                  "category": "museum",
+                  "coords": [
+                        10.75542,
+                        59.916338
+                  ]
+            },
+            {
+                  "name": "Dronning Sonjas kunststall",
+                  "text": "O galerie de artă situată în fostele grajduri regale din Oslo.",
+                  "category": "museum",
+                  "coords": [
+                        10.723447,
+                        59.916167
+                  ]
+            },
+            {
+                  "name": "Kunstnernes hus",
+                  "text": "Un centru de expoziții de artă contemporană administrat de artiști.",
+                  "category": "museum",
+                  "coords": [
+                        10.730827,
+                        59.919571
+                  ]
+            },
+            {
+                  "name": "Henriette Wegner Pavilion",
+                  "text": "Un mic pavilion istoric situat în parcul palatului regal din Oslo.",
+                  "category": "museum",
+                  "coords": [
+                        10.705107,
+                        59.923213
+                  ]
+            },
+            {
+                  "name": "Niels Henrik Abel",
+                  "text": "În capitala Norvegiei, Oslo, se află importantul monument Niels Henrik Abel. Acesta onorează viața și realizările faimosului matematician norvegian. Pentru vizitatorii interesați de istorie și știință, acest monument este un punct de atracție inspirator.",
+                  "category": "historical",
+                  "coords": [
+                        10.731216,
+                        59.915564
+                  ]
+            },
+            {
+                  "name": "Nasjonalmonumentet for krigens ofre 1940-45",
+                  "text": "Un monument comemorativ dedicat victimelor norvegiene din al doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        10.738731,
+                        59.906088
+                  ]
+            },
+            {
+                  "name": "Clemenskirken",
+                  "text": "Rămășițele arheologice ale unei biserici de piatră medievale din Oslo.",
+                  "category": "historical",
+                  "coords": [
+                        10.765731,
+                        59.904315
+                  ]
+            },
+            {
+                  "name": "Korskirken",
+                  "text": "Ruinele unei biserici medievale situate în centrul istoric al orașului Oslo.",
+                  "category": "historical",
+                  "coords": [
+                        10.76952,
+                        59.907028
+                  ]
+            },
+            {
+                  "name": "Chat Noir",
+                  "text": "Un teatru de cabaret și varietăți cu o lungă tradiție în centrul orașului Oslo.",
+                  "category": "cultural",
+                  "coords": [
+                        10.732298,
+                        59.913728
+                  ]
+            },
+            {
+                  "name": "Det Norske Teatret",
+                  "text": "Un teatru important care prezintă spectacole în principal în limba nynorsk.",
+                  "category": "cultural",
+                  "coords": [
+                        10.738625,
+                        59.915219
+                  ]
+            },
+            {
+                  "name": "Det Andre Teatret",
+                  "text": "Un teatru independent specializat în spectacole de improvizație.",
+                  "category": "cultural",
+                  "coords": [
+                        10.765609,
+                        59.938677
+                  ]
+            },
+            {
+                  "name": "Folketeatret",
+                  "text": "O clădire de teatru istorică utilizată astăzi pentru musicaluri și evenimente mari.",
+                  "category": "cultural",
+                  "coords": [
+                        10.750421,
+                        59.914281
+                  ]
+            },
+            {
+                  "name": "Nationaltheatret",
+                  "text": "Cel mai important teatru dramatic din Norvegia, cu o istorie bogată.",
+                  "category": "cultural",
+                  "coords": [
+                        10.734254,
+                        59.914366
+                  ]
+            },
+            {
+                  "name": "Oslo Spektrum",
+                  "text": "O arenă multifuncțională de mari dimensiuni pentru concerte și evenimente sportive în Oslo.",
+                  "category": "cultural",
+                  "coords": [
+                        10.75472,
+                        59.912987
+                  ]
+            },
+            {
+                  "name": "Kulturkirken Jakob",
+                  "text": "O fostă biserică ce servește astăzi drept centru cultural și scenă de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        10.754419,
+                        59.91815
+                  ]
+            },
+            {
+                  "name": "Slottskapellet",
+                  "text": "Capela situată în interiorul palatului regal din Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.727681,
+                        59.917489
+                  ]
+            },
+            {
+                  "name": "Akershus slottskirke",
+                  "text": "O biserică istorică situată în incinta fortăreței Akershus.",
+                  "category": "religious",
+                  "coords": [
+                        10.736426,
+                        59.906422
+                  ]
+            },
+            {
+                  "name": "Trefoldighetskirken",
+                  "text": "O biserică neogotică mare din Oslo, cunoscută pentru cupola sa distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        10.745184,
+                        59.916765
+                  ]
+            },
+            {
+                  "name": "Gamle Aker kirke",
+                  "text": "Cea mai veche biserică de piatră conservată din Oslo, construită în Evul Mediu.",
+                  "category": "religious",
+                  "coords": [
+                        10.747134,
+                        59.923711
+                  ]
+            },
+            {
+                  "name": "St. Hallvard kirke",
+                  "text": "O biserică catolică modernă și o mănăstire situată în Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.769123,
+                        59.912772
+                  ]
+            },
+            {
+                  "name": "Sofienberg kirke",
+                  "text": "O biserică parohială luterană situată în cartierul Sofienberg din Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.766138,
+                        59.92241
+                  ]
+            },
+            {
+                  "name": "Hasle kirke",
+                  "text": "O biserică modernă din cărămidă situată în cartierul Hasle din Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.784261,
+                        59.921438
+                  ]
+            },
+            {
+                  "name": "Uranienborg kirke",
+                  "text": "O biserică neogotică distinctivă situată pe un deal în partea de vest a orașului Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.719887,
+                        59.92114
+                  ]
+            },
+            {
+                  "name": "Grønland kirke",
+                  "text": "O biserică mare din cărămidă situată în cartierul Grønland din Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.76772,
+                        59.911119
+                  ]
+            },
+            {
+                  "name": "Sankt Olav domkirke",
+                  "text": "Catedrala catolică din Oslo, dedicată Sfântului Olav.",
+                  "category": "religious",
+                  "coords": [
+                        10.744156,
+                        59.918435
+                  ]
+            },
+            {
+                  "name": "Markus kirke",
+                  "text": "O biserică de tip hală de la începutul secolului XX, situată în cartierul St. Hanshaugen din Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.739555,
+                        59.923904
+                  ]
+            },
+            {
+                  "name": "American Lutheran Church, Oslo",
+                  "text": "O biserică modernă care deservește comunitatea luterană de limbă engleză din Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.705575,
+                        59.916832
+                  ]
+            },
+            {
+                  "name": "Kavringen fyr",
+                  "text": "Un mic far istoric situat în fiordul Oslo, aproape de port.",
+                  "category": "landmark",
+                  "coords": [
+                        10.722018,
+                        59.899808
+                  ]
+            },
+            {
+                  "name": "Pipervika",
+                  "text": "Un golf situat în zona portuară centrală a orașului Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.731305,
+                        59.909026
+                  ]
+            },
+            {
+                  "name": "Oslo rådhus",
+                  "text": "Primăria din Oslo este celebră pentru arhitectura sa și pentru ceremonia Premiului Nobel pentru Pace.",
+                  "category": "landmark",
+                  "coords": [
+                        10.733692,
+                        59.912049
+                  ]
+            },
+            {
+                  "name": "Nybrua",
+                  "text": "Un pod istoric peste râul Akerselva din Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.759164,
+                        59.917787
+                  ]
+            },
+            {
+                  "name": "Jerusalem bru",
+                  "text": "Un pod pietonal modern care traversează râul Akerselva.",
+                  "category": "landmark",
+                  "coords": [
+                        10.766821,
+                        59.939408
+                  ]
+            },
+            {
+                  "name": "Ankerbrua",
+                  "text": "Un pod peste Akerselva, cunoscut pentru cele patru sculpturi din bronz inspirate din basme norvegiene.",
+                  "category": "landmark",
+                  "coords": [
+                        10.756307,
+                        59.918259
+                  ]
+            },
+            {
+                  "name": "Sannerbrua",
+                  "text": "Un pod rutier care leagă cartierele Grünerløkka și Sagene din Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.755192,
+                        59.928259
+                  ]
+            },
+            {
+                  "name": "Vaterlands bru",
+                  "text": "Un pod situat în cartierul Vaterland din Oslo, care traversează râul Akerselva.",
+                  "category": "landmark",
+                  "coords": [
+                        10.758107,
+                        59.913455
+                  ]
+            },
+            {
+                  "name": "Sofienbergparken",
+                  "text": "Un parc urban popular situat în cartierul plin de viață Grünerløkka.",
+                  "category": "park",
+                  "coords": [
+                        10.764245,
+                        59.923134
+                  ]
+            },
+            {
+                  "name": "Olaf Ryes plass",
+                  "text": "O piață centrală și un parc în inima cartierului Grünerløkka.",
+                  "category": "park",
+                  "coords": [
+                        10.758259,
+                        59.922882
+                  ]
+            },
+            {
+                  "name": "Gråbeinsletta",
+                  "text": "O zonă verde situată în cartierul Sagene din Oslo.",
+                  "category": "park",
+                  "coords": [
+                        10.751354,
+                        59.938009
+                  ]
+            },
+            {
+                  "name": "Kristparken",
+                  "text": "Un mic parc public situat aproape de centrul orașului Oslo.",
+                  "category": "park",
+                  "coords": [
+                        10.748641,
+                        59.917561
+                  ]
+            },
+            {
+                  "name": "Frognerparken",
+                  "text": "Un parc vast, renumit pentru ansamblul de sculpturi Vigeland.",
+                  "category": "park",
+                  "coords": [
+                        10.701656,
+                        59.926659
+                  ]
+            },
+            {
+                  "name": "Tøyenparken",
+                  "text": "Un parc întins din Oslo care găzduiește muzee și este folosit pentru evenimente.",
+                  "category": "park",
+                  "coords": [
+                        10.778272,
+                        59.919963
+                  ]
+            },
+            {
+                  "name": "Klosterenga",
+                  "text": "Un parc public din Oslo, cunoscut pentru sculpturile sale moderne și spațiile verzi.",
+                  "category": "park",
+                  "coords": [
+                        10.77627,
+                        59.908272
+                  ]
+            },
+            {
+                  "name": "Frøyas have",
+                  "text": "Un spațiu verde liniștit și un parc public situat în orașul Oslo.",
+                  "category": "park",
+                  "coords": [
+                        10.696708,
+                        59.915734
+                  ]
+            },
+            {
+                  "name": "Skarpsnoparken",
+                  "text": "Un parc de coastă plăcut din Oslo, care oferă spații verzi și vederi în apropierea fjordului.",
+                  "category": "park",
+                  "coords": [
+                        10.700382,
+                        59.914867
+                  ]
+            },
+            {
+                  "name": "Domus Athletica svømmehall",
+                  "text": "O piscină în Oslo cu facilități moderne pentru înotători de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        10.724035,
+                        59.946092
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen Sjøbad",
+                  "text": "O piscină în Oslo care permite plăcerea scăldatului în inima orașului.",
+                  "category": "family",
+                  "coords": [
+                        10.719703,
+                        59.906208
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "O piscină în Oslo, ideală pentru o zi activă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        10.720904,
+                        59.906379
+                  ]
+            },
+            {
+                  "name": "Terrasert regnbed med lommevåtmark",
+                  "text": "Un parc acvatic în Oslo cu elemente ludice pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        10.73007,
+                        59.948149
+                  ]
+            },
+            {
+                  "name": "Kampen Økologiske Barnebondegård",
+                  "text": "O grădină zoologică în Oslo care îi apropie pe copii de viața la fermă.",
+                  "category": "family",
+                  "coords": [
+                        10.784989,
+                        59.913131
+                  ]
+            },
+            {
+                  "name": "Frognerbadet",
+                  "text": "Un parc acvatic în Oslo cu tobogane și piscine pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        10.707059,
+                        59.927316
+                  ]
+            },
+            {
+                  "name": "Operastranda",
+                  "text": "O stațiune de plajă în Oslo care invită la relaxare la malul apei.",
+                  "category": "family",
+                  "coords": [
+                        10.752835,
+                        59.90636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Norway's Resistance Museum",
+                  "text": "This museum documents the history of the Norwegian resistance during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        10.735762,
+                        59.907803
+                  ]
+            },
+            {
+                  "name": "Oslo City Museum",
+                  "text": "A museum dedicated to the cultural history and urban development of Oslo.",
+                  "category": "museum",
+                  "coords": [
+                        10.703014,
+                        59.923918
+                  ]
+            },
+            {
+                  "name": "Astrup Fearnley Museum",
+                  "text": "A contemporary art museum housed in a modern building by the harbor.",
+                  "category": "museum",
+                  "coords": [
+                        10.721938,
+                        59.906925
+                  ]
+            },
+            {
+                  "name": "22. juli-senteret",
+                  "text": "A memorial and learning center dedicated to the 2011 attacks in Norway.",
+                  "category": "museum",
+                  "coords": [
+                        10.74274,
+                        59.915948
+                  ]
+            },
+            {
+                  "name": "Interkulturelt museum",
+                  "text": "A museum focusing on cultural diversity and the history of migration in Norway.",
+                  "category": "museum",
+                  "coords": [
+                        10.763251,
+                        59.913048
+                  ]
+            },
+            {
+                  "name": "Natural History Museum at the University of Oslo",
+                  "text": "This museum features significant botanical gardens and natural history collections.",
+                  "category": "museum",
+                  "coords": [
+                        10.771714,
+                        59.919783
+                  ]
+            },
+            {
+                  "name": "Nobel Peace Center",
+                  "text": "A center dedicated to the Nobel Peace Prize and efforts for world peace.",
+                  "category": "museum",
+                  "coords": [
+                        10.7304,
+                        59.911612
+                  ]
+            },
+            {
+                  "name": "University Botanical Garden",
+                  "text": "A large botanical garden at the University of Oslo featuring diverse plant species.",
+                  "category": "museum",
+                  "coords": [
+                        10.769749,
+                        59.918366
+                  ]
+            },
+            {
+                  "name": "Defence Musuem",
+                  "text": "A military museum located in Akershus Fortress, showcasing Norway's defense history.",
+                  "category": "museum",
+                  "coords": [
+                        10.740888,
+                        59.904511
+                  ]
+            },
+            {
+                  "name": "The Ibsen Museum",
+                  "text": "A museum located in the former residence of the famous playwright Henrik Ibsen.",
+                  "category": "museum",
+                  "coords": [
+                        10.727045,
+                        59.915031
+                  ]
+            },
+            {
+                  "name": "Ladegården",
+                  "text": "A historic manor house built on the ruins of a medieval bishop's palace.",
+                  "category": "museum",
+                  "coords": [
+                        10.767627,
+                        59.906189
+                  ]
+            },
+            {
+                  "name": "Museum of Cultural History",
+                  "text": "This museum houses significant archaeological and ethnographic collections.",
+                  "category": "museum",
+                  "coords": [
+                        10.734569,
+                        59.917038
+                  ]
+            },
+            {
+                  "name": "Jødisk museum",
+                  "text": "A museum documenting Jewish life and heritage in Norway.",
+                  "category": "museum",
+                  "coords": [
+                        10.75542,
+                        59.916338
+                  ]
+            },
+            {
+                  "name": "Dronning Sonjas kunststall",
+                  "text": "An art gallery located in the former royal stables in Oslo.",
+                  "category": "museum",
+                  "coords": [
+                        10.723447,
+                        59.916167
+                  ]
+            },
+            {
+                  "name": "Kunstnernes hus",
+                  "text": "An artist-run exhibition space for contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        10.730827,
+                        59.919571
+                  ]
+            },
+            {
+                  "name": "Henriette Wegner Pavilion",
+                  "text": "A small historic pavilion located in the Palace Park in Oslo.",
+                  "category": "museum",
+                  "coords": [
+                        10.705107,
+                        59.923213
+                  ]
+            },
+            {
+                  "name": "Niels Henrik Abel",
+                  "text": "In the Norwegian capital of Oslo stands the significant Niels Henrik Abel monument. It honors the life and achievements of this famous Norwegian mathematician. For visitors interested in history and science, this monument is an inspiring point of interest.",
+                  "category": "historical",
+                  "coords": [
+                        10.731216,
+                        59.915564
+                  ]
+            },
+            {
+                  "name": "National Monument for War Victims 1940-45",
+                  "text": "A memorial dedicated to the Norwegian victims of World War II.",
+                  "category": "historical",
+                  "coords": [
+                        10.738731,
+                        59.906088
+                  ]
+            },
+            {
+                  "name": "Clemenskirken",
+                  "text": "The archaeological remains of a medieval stone church in Oslo.",
+                  "category": "historical",
+                  "coords": [
+                        10.765731,
+                        59.904315
+                  ]
+            },
+            {
+                  "name": "Korskirken",
+                  "text": "Ruins of a medieval church located in the historic center of Oslo.",
+                  "category": "historical",
+                  "coords": [
+                        10.76952,
+                        59.907028
+                  ]
+            },
+            {
+                  "name": "Chat Noir",
+                  "text": "A long-running cabaret and variety theatre in central Oslo.",
+                  "category": "cultural",
+                  "coords": [
+                        10.732298,
+                        59.913728
+                  ]
+            },
+            {
+                  "name": "Det Norske Teatret",
+                  "text": "A prominent theatre that primarily presents performances in Nynorsk.",
+                  "category": "cultural",
+                  "coords": [
+                        10.738625,
+                        59.915219
+                  ]
+            },
+            {
+                  "name": "Det Andre Teatret",
+                  "text": "An independent theatre specializing in improvisational performance.",
+                  "category": "cultural",
+                  "coords": [
+                        10.765609,
+                        59.938677
+                  ]
+            },
+            {
+                  "name": "Folketeatret",
+                  "text": "A historic theatre building now used for musicals and large-scale productions.",
+                  "category": "cultural",
+                  "coords": [
+                        10.750421,
+                        59.914281
+                  ]
+            },
+            {
+                  "name": "National Theatre",
+                  "text": "Norway's most important venue for dramatic arts with a long history.",
+                  "category": "cultural",
+                  "coords": [
+                        10.734254,
+                        59.914366
+                  ]
+            },
+            {
+                  "name": "Oslo Spektrum",
+                  "text": "A large multi-purpose indoor arena for concerts and sports events in Oslo.",
+                  "category": "cultural",
+                  "coords": [
+                        10.75472,
+                        59.912987
+                  ]
+            },
+            {
+                  "name": "Kulturkirken Jakob",
+                  "text": "A former church that now serves as a cultural venue and theatre stage.",
+                  "category": "cultural",
+                  "coords": [
+                        10.754419,
+                        59.91815
+                  ]
+            },
+            {
+                  "name": "Slottskapellet",
+                  "text": "The chapel located within the Royal Palace in Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.727681,
+                        59.917489
+                  ]
+            },
+            {
+                  "name": "Akershus slottskirke",
+                  "text": "A historic church located within the Akershus Fortress complex.",
+                  "category": "religious",
+                  "coords": [
+                        10.736426,
+                        59.906422
+                  ]
+            },
+            {
+                  "name": "Trefoldighetskirken",
+                  "text": "A large Neo-Gothic church in Oslo, known for its prominent dome.",
+                  "category": "religious",
+                  "coords": [
+                        10.745184,
+                        59.916765
+                  ]
+            },
+            {
+                  "name": "Gamle Aker kirke",
+                  "text": "The oldest surviving stone church in Oslo, built during the Middle Ages.",
+                  "category": "religious",
+                  "coords": [
+                        10.747134,
+                        59.923711
+                  ]
+            },
+            {
+                  "name": "St. Hallvard kirke",
+                  "text": "A modern Catholic church and monastery located in Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.769123,
+                        59.912772
+                  ]
+            },
+            {
+                  "name": "Sofienberg kirke",
+                  "text": "A Lutheran parish church located in the Sofienberg district of Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.766138,
+                        59.92241
+                  ]
+            },
+            {
+                  "name": "Hasle kirke",
+                  "text": "A modern brick church located in the Hasle district of Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.784261,
+                        59.921438
+                  ]
+            },
+            {
+                  "name": "Uranienborg kirke",
+                  "text": "A prominent Neo-Gothic church situated on a hill in western Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.719887,
+                        59.92114
+                  ]
+            },
+            {
+                  "name": "Grønland kirke",
+                  "text": "A large brick church located in the Grønland district of Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.76772,
+                        59.911119
+                  ]
+            },
+            {
+                  "name": "Sankt Olav domkirke",
+                  "text": "The Catholic cathedral of Oslo, dedicated to Saint Olav.",
+                  "category": "religious",
+                  "coords": [
+                        10.744156,
+                        59.918435
+                  ]
+            },
+            {
+                  "name": "Markus kirke",
+                  "text": "An early 20th-century long church located in the St. Hanshaugen district of Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.739555,
+                        59.923904
+                  ]
+            },
+            {
+                  "name": "American Lutheran Church, Oslo",
+                  "text": "A modern church serving the English-speaking Lutheran community in Oslo.",
+                  "category": "religious",
+                  "coords": [
+                        10.705575,
+                        59.916832
+                  ]
+            },
+            {
+                  "name": "Kavringen Lighthouse",
+                  "text": "A small historic lighthouse in the Oslo Fjord near the harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        10.722018,
+                        59.899808
+                  ]
+            },
+            {
+                  "name": "Pipervika",
+                  "text": "A bay located in the central harbor area of Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.731305,
+                        59.909026
+                  ]
+            },
+            {
+                  "name": "Oslo rådhus",
+                  "text": "Oslo City Hall is famous for its architecture and the Nobel Peace Prize ceremony.",
+                  "category": "landmark",
+                  "coords": [
+                        10.733692,
+                        59.912049
+                  ]
+            },
+            {
+                  "name": "Nybrua",
+                  "text": "A historic bridge crossing the Akerselva river in Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.759164,
+                        59.917787
+                  ]
+            },
+            {
+                  "name": "Jerusalem bru",
+                  "text": "A modern pedestrian bridge crossing the Akerselva river.",
+                  "category": "landmark",
+                  "coords": [
+                        10.766821,
+                        59.939408
+                  ]
+            },
+            {
+                  "name": "Ankerbrua",
+                  "text": "A bridge over the Akerselva known for its four bronze sculptures from Norwegian fairy tales.",
+                  "category": "landmark",
+                  "coords": [
+                        10.756307,
+                        59.918259
+                  ]
+            },
+            {
+                  "name": "Sannerbrua",
+                  "text": "A road bridge connecting the Grünerløkka and Sagene districts of Oslo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.755192,
+                        59.928259
+                  ]
+            },
+            {
+                  "name": "Vaterlands bru",
+                  "text": "A bridge in the Vaterland district of Oslo crossing the Akerselva river.",
+                  "category": "landmark",
+                  "coords": [
+                        10.758107,
+                        59.913455
+                  ]
+            },
+            {
+                  "name": "Sofienbergparken",
+                  "text": "A popular urban park in the lively Grünerløkka neighborhood.",
+                  "category": "park",
+                  "coords": [
+                        10.764245,
+                        59.923134
+                  ]
+            },
+            {
+                  "name": "Olaf Ryes plass",
+                  "text": "A central square and park in the heart of the Grünerløkka district.",
+                  "category": "park",
+                  "coords": [
+                        10.758259,
+                        59.922882
+                  ]
+            },
+            {
+                  "name": "Gråbeinsletta",
+                  "text": "A green park area in the Sagene district of Oslo.",
+                  "category": "park",
+                  "coords": [
+                        10.751354,
+                        59.938009
+                  ]
+            },
+            {
+                  "name": "Kristparken",
+                  "text": "A small public park located near Oslo's city center.",
+                  "category": "park",
+                  "coords": [
+                        10.748641,
+                        59.917561
+                  ]
+            },
+            {
+                  "name": "Frogner Park",
+                  "text": "A large park famous for the Vigeland sculpture installation.",
+                  "category": "park",
+                  "coords": [
+                        10.701656,
+                        59.926659
+                  ]
+            },
+            {
+                  "name": "Tøyenparken",
+                  "text": "A large park in Oslo that houses museums and is used for events.",
+                  "category": "park",
+                  "coords": [
+                        10.778272,
+                        59.919963
+                  ]
+            },
+            {
+                  "name": "Klosterenga",
+                  "text": "A public park in Oslo featuring a variety of modern sculptures and greenery.",
+                  "category": "park",
+                  "coords": [
+                        10.77627,
+                        59.908272
+                  ]
+            },
+            {
+                  "name": "Frøyas have",
+                  "text": "A peaceful green space and public park located in the city of Oslo.",
+                  "category": "park",
+                  "coords": [
+                        10.696708,
+                        59.915734
+                  ]
+            },
+            {
+                  "name": "Skarpsnoparken",
+                  "text": "A pleasant coastal park in Oslo offering green spaces and views near the fjord.",
+                  "category": "park",
+                  "coords": [
+                        10.700382,
+                        59.914867
+                  ]
+            },
+            {
+                  "name": "Domus Athletica swimming pool",
+                  "text": "A swimming pool in Oslo with modern facilities for swimmers of all ages.",
+                  "category": "family",
+                  "coords": [
+                        10.724035,
+                        59.946092
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen Sjøbad",
+                  "text": "A swimming pool in Oslo providing bathing enjoyment in the heart of the city.",
+                  "category": "family",
+                  "coords": [
+                        10.719703,
+                        59.906208
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "A swimming pool in Oslo ideal for an active day with the family.",
+                  "category": "family",
+                  "coords": [
+                        10.720904,
+                        59.906379
+                  ]
+            },
+            {
+                  "name": "Terrasert regnbed med lommevåtmark",
+                  "text": "A water park in Oslo with playful elements for children.",
+                  "category": "family",
+                  "coords": [
+                        10.73007,
+                        59.948149
+                  ]
+            },
+            {
+                  "name": "Kampen Økologiske Barnebondegård",
+                  "text": "A zoo in Oslo that brings farm life closer to children.",
+                  "category": "family",
+                  "coords": [
+                        10.784989,
+                        59.913131
+                  ]
+            },
+            {
+                  "name": "Frognerbadet",
+                  "text": "A water park in Oslo with slides and pools for family fun.",
+                  "category": "family",
+                  "coords": [
+                        10.707059,
+                        59.927316
+                  ]
+            },
+            {
+                  "name": "Operastranda",
+                  "text": "A beach resort in Oslo inviting for relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        10.752835,
+                        59.90636
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "norway",
     coords: [10.7522, 59.9139],
@@ -809,6 +3086,105 @@ export const norwayRegions: POI[] = [
                         5.329953,
                         60.395927
                   ]
+            },
+            {
+                  "name": "Sydnes sjøbad",
+                  "text": "Genießen Sie ein erfrischendes Bad im Sydnes sjøbad in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.314029,
+                        60.392063
+                  ]
+            },
+            {
+                  "name": "Hunstad skole basseng",
+                  "text": "Genießen Sie ein erfrischendes Bad im Hunstad skole basseng in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.347854,
+                        60.376187
+                  ]
+            },
+            {
+                  "name": "ADO arena opplæringsbasseng",
+                  "text": "Genießen Sie ein erfrischendes Bad im ADO arena opplæringsbasseng in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.339198,
+                        60.385099
+                  ]
+            },
+            {
+                  "name": "ADO arena stupebasseng",
+                  "text": "Genießen Sie ein erfrischendes Bad im ADO arena stupebasseng in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.33793,
+                        60.385397
+                  ]
+            },
+            {
+                  "name": "Møllendal badeplass",
+                  "text": "Genießen Sie ein erfrischendes Bad im Møllendal badeplass in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.350731,
+                        60.380207
+                  ]
+            },
+            {
+                  "name": "Gamle Slaktehuskaien",
+                  "text": "Genießen Sie ein erfrischendes Bad im Gamle Slaktehuskaien in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.321841,
+                        60.405723
+                  ]
+            },
+            {
+                  "name": "Marineholmen badeplass",
+                  "text": "Genießen Sie ein erfrischendes Bad im Marineholmen badeplass in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.330086,
+                        60.380334
+                  ]
+            },
+            {
+                  "name": "Verftet badeplass",
+                  "text": "Genießen Sie ein erfrischendes Bad im Verftet badeplass in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.306355,
+                        60.396816
+                  ]
+            },
+            {
+                  "name": "Ny-Krohnborg skole svømmebasseng",
+                  "text": "Genießen Sie ein erfrischendes Bad im Ny-Krohnborg skole svømmebasseng in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.333164,
+                        60.375206
+                  ]
+            },
+            {
+                  "name": "Nordnes Sjøbad",
+                  "text": "Genießen Sie ein erfrischendes Bad im Nordnes Sjøbad in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.302501,
+                        60.398967
+                  ]
+            },
+            {
+                  "name": "Ballastkaien",
+                  "text": "Genießen Sie ein erfrischendes Bad im Ballastkaien in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.302277,
+                        60.400732
+                  ]
             }
       ],
       "hu": [
@@ -1494,6 +3870,105 @@ export const norwayRegions: POI[] = [
                   "coords": [
                         5.329953,
                         60.395927
+                  ]
+            },
+            {
+                  "name": "Sydnes sjøbad",
+                  "text": "Élvezze a frissítő úszást a Sydnes sjøbad helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.314029,
+                        60.392063
+                  ]
+            },
+            {
+                  "name": "Hunstad skole basseng",
+                  "text": "Élvezze a frissítő úszást a Hunstad skole basseng helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.347854,
+                        60.376187
+                  ]
+            },
+            {
+                  "name": "ADO arena opplæringsbasseng",
+                  "text": "Élvezze a frissítő úszást a ADO arena opplæringsbasseng helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.339198,
+                        60.385099
+                  ]
+            },
+            {
+                  "name": "ADO arena stupebasseng",
+                  "text": "Élvezze a frissítő úszást a ADO arena stupebasseng helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.33793,
+                        60.385397
+                  ]
+            },
+            {
+                  "name": "Møllendal badeplass",
+                  "text": "Élvezze a frissítő úszást a Møllendal badeplass helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.350731,
+                        60.380207
+                  ]
+            },
+            {
+                  "name": "Gamle Slaktehuskaien",
+                  "text": "Élvezze a frissítő úszást a Gamle Slaktehuskaien helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.321841,
+                        60.405723
+                  ]
+            },
+            {
+                  "name": "Marineholmen badeplass",
+                  "text": "Élvezze a frissítő úszást a Marineholmen badeplass helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.330086,
+                        60.380334
+                  ]
+            },
+            {
+                  "name": "Verftet badeplass",
+                  "text": "Élvezze a frissítő úszást a Verftet badeplass helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.306355,
+                        60.396816
+                  ]
+            },
+            {
+                  "name": "Ny-Krohnborg skole svømmebasseng",
+                  "text": "Élvezze a frissítő úszást a Ny-Krohnborg skole svømmebasseng helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.333164,
+                        60.375206
+                  ]
+            },
+            {
+                  "name": "Nordnes Sjøbad",
+                  "text": "Élvezze a frissítő úszást a Nordnes Sjøbad helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.302501,
+                        60.398967
+                  ]
+            },
+            {
+                  "name": "Ballastkaien",
+                  "text": "Élvezze a frissítő úszást a Ballastkaien helyszínén Bergen városában.",
+                  "category": "family",
+                  "coords": [
+                        5.302277,
+                        60.400732
                   ]
             }
       ],
@@ -2181,6 +4656,105 @@ export const norwayRegions: POI[] = [
                         5.329953,
                         60.395927
                   ]
+            },
+            {
+                  "name": "Sydnes sjøbad",
+                  "text": "Bucurați-vă de o baie răcoritoare la Sydnes sjøbad în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.314029,
+                        60.392063
+                  ]
+            },
+            {
+                  "name": "Hunstad skole basseng",
+                  "text": "Bucurați-vă de o baie răcoritoare la Hunstad skole basseng în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.347854,
+                        60.376187
+                  ]
+            },
+            {
+                  "name": "ADO arena opplæringsbasseng",
+                  "text": "Bucurați-vă de o baie răcoritoare la ADO arena opplæringsbasseng în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.339198,
+                        60.385099
+                  ]
+            },
+            {
+                  "name": "ADO arena stupebasseng",
+                  "text": "Bucurați-vă de o baie răcoritoare la ADO arena stupebasseng în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.33793,
+                        60.385397
+                  ]
+            },
+            {
+                  "name": "Møllendal badeplass",
+                  "text": "Bucurați-vă de o baie răcoritoare la Møllendal badeplass în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.350731,
+                        60.380207
+                  ]
+            },
+            {
+                  "name": "Gamle Slaktehuskaien",
+                  "text": "Bucurați-vă de o baie răcoritoare la Gamle Slaktehuskaien în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.321841,
+                        60.405723
+                  ]
+            },
+            {
+                  "name": "Marineholmen badeplass",
+                  "text": "Bucurați-vă de o baie răcoritoare la Marineholmen badeplass în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.330086,
+                        60.380334
+                  ]
+            },
+            {
+                  "name": "Verftet badeplass",
+                  "text": "Bucurați-vă de o baie răcoritoare la Verftet badeplass în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.306355,
+                        60.396816
+                  ]
+            },
+            {
+                  "name": "Ny-Krohnborg skole svømmebasseng",
+                  "text": "Bucurați-vă de o baie răcoritoare la Ny-Krohnborg skole svømmebasseng în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.333164,
+                        60.375206
+                  ]
+            },
+            {
+                  "name": "Nordnes Sjøbad",
+                  "text": "Bucurați-vă de o baie răcoritoare la Nordnes Sjøbad în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.302501,
+                        60.398967
+                  ]
+            },
+            {
+                  "name": "Ballastkaien",
+                  "text": "Bucurați-vă de o baie răcoritoare la Ballastkaien în Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.302277,
+                        60.400732
+                  ]
             }
       ],
       "en": [
@@ -2867,6 +5441,105 @@ export const norwayRegions: POI[] = [
                         5.329953,
                         60.395927
                   ]
+            },
+            {
+                  "name": "Sydnes sjøbad",
+                  "text": "Enjoy a refreshing swim at Sydnes sjøbad in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.314029,
+                        60.392063
+                  ]
+            },
+            {
+                  "name": "Hunstad skole basseng",
+                  "text": "Enjoy a refreshing swim at Hunstad skole basseng in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.347854,
+                        60.376187
+                  ]
+            },
+            {
+                  "name": "ADO arena opplæringsbasseng",
+                  "text": "Enjoy a refreshing swim at ADO arena opplæringsbasseng in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.339198,
+                        60.385099
+                  ]
+            },
+            {
+                  "name": "ADO arena stupebasseng",
+                  "text": "Enjoy a refreshing swim at ADO arena stupebasseng in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.33793,
+                        60.385397
+                  ]
+            },
+            {
+                  "name": "Møllendal badeplass",
+                  "text": "Enjoy a refreshing swim at Møllendal badeplass in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.350731,
+                        60.380207
+                  ]
+            },
+            {
+                  "name": "Gamle Slaktehuskaien",
+                  "text": "Enjoy a refreshing swim at Gamle Slaktehuskaien in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.321841,
+                        60.405723
+                  ]
+            },
+            {
+                  "name": "Marineholmen badeplass",
+                  "text": "Enjoy a refreshing swim at Marineholmen badeplass in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.330086,
+                        60.380334
+                  ]
+            },
+            {
+                  "name": "Verftet badeplass",
+                  "text": "Enjoy a refreshing swim at Verftet badeplass in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.306355,
+                        60.396816
+                  ]
+            },
+            {
+                  "name": "Ny-Krohnborg skole svømmebasseng",
+                  "text": "Enjoy a refreshing swim at Ny-Krohnborg skole svømmebasseng in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.333164,
+                        60.375206
+                  ]
+            },
+            {
+                  "name": "Nordnes Sjøbad",
+                  "text": "Enjoy a refreshing swim at Nordnes Sjøbad in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.302501,
+                        60.398967
+                  ]
+            },
+            {
+                  "name": "Ballastkaien",
+                  "text": "Enjoy a refreshing swim at Ballastkaien in Bergen.",
+                  "category": "family",
+                  "coords": [
+                        5.302277,
+                        60.400732
+                  ]
             }
       ]
 },
@@ -3517,6 +6190,24 @@ export const norwayRegions: POI[] = [
                         10.42328,
                         63.435652
                   ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Dieser Badebereich in Trondheim ist ein beliebter Ort für eine Erfrischung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        10.390954,
+                        63.435763
+                  ]
+            },
+            {
+                  "name": "Havstein helse- og velferdssenter",
+                  "text": "Dieses Schwimmbad in Trondheim bietet eine großartige Umgebung zum Schwimmen und Trainieren für Familien.",
+                  "category": "family",
+                  "coords": [
+                        10.363236,
+                        63.403852
+                  ]
             }
       ],
       "hu": [
@@ -4121,6 +6812,24 @@ export const norwayRegions: POI[] = [
                   "coords": [
                         10.42328,
                         63.435652
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Ez a trondheimi fürdőhely népszerű hely egy frissítő csobbanáshoz.",
+                  "category": "family",
+                  "coords": [
+                        10.390954,
+                        63.435763
+                  ]
+            },
+            {
+                  "name": "Havstein helse- og velferdssenter",
+                  "text": "Ez a trondheimi úszómedence remek helyszínt biztosít a családi úszáshoz és edzéshez.",
+                  "category": "family",
+                  "coords": [
+                        10.363236,
+                        63.403852
                   ]
             }
       ],
@@ -4727,6 +7436,24 @@ export const norwayRegions: POI[] = [
                         10.42328,
                         63.435652
                   ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Această zonă de înot din Trondheim este un loc popular pentru o baie răcoritoare.",
+                  "category": "family",
+                  "coords": [
+                        10.390954,
+                        63.435763
+                  ]
+            },
+            {
+                  "name": "Havstein helse- og velferdssenter",
+                  "text": "Această piscină din Trondheim oferă un mediu excelent pentru înot în familie și exerciții fizice.",
+                  "category": "family",
+                  "coords": [
+                        10.363236,
+                        63.403852
+                  ]
             }
       ],
       "en": [
@@ -5332,6 +8059,24 @@ export const norwayRegions: POI[] = [
                         10.42328,
                         63.435652
                   ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "This swimming area in Trondheim is a popular spot for a refreshing dip in the water.",
+                  "category": "family",
+                  "coords": [
+                        10.390954,
+                        63.435763
+                  ]
+            },
+            {
+                  "name": "Havstein helse- og velferdssenter",
+                  "text": "This swimming pool in Trondheim provides a great environment for family swimming and exercise.",
+                  "category": "family",
+                  "coords": [
+                        10.363236,
+                        63.403852
+                  ]
             }
       ]
 },
@@ -5378,7 +8123,2320 @@ export const norwayRegions: POI[] = [
     image: "/geo-images/norway/trondheim.webp",
   },
   {
-    id: "city-stavanger", "sights": {"de": [{"name": "Norsk Oljemuseum", "text": "Ein architektonisches Museum in Stavanger, das die norwegische Öl- und Gasindustrie dokumentiert.", "category": "museum", "coords": [5.734823, 58.973554]}, {"name": "Breidablikk", "text": "Eine gut erhaltene historische Villa in Stavanger, die das bürgerliche Leben des 19. Jahrhunderts zeigt.", "category": "museum", "coords": [5.722194, 58.965618]}, {"name": "Ledaal", "text": "Ein historisches Herrenhaus in Stavanger, das als königliche Residenz und Museum dient.", "category": "museum", "coords": [5.719975, 58.967142]}, {"name": "Rogaland Teater", "text": "Ein bedeutendes regionales Theater in Stavanger mit einem vielfältigen Aufführungsprogramm.", "category": "cultural", "coords": [5.732826, 58.965363]}, {"name": "Stavanger maritime museum", "text": "Ein in historischen Lagerhäusern untergebrachtes Museum, das die lange Seefahrtsgeschichte Stavangers beleuchtet.", "category": "museum", "coords": [5.728709, 58.970542]}, {"name": "Stavanger kunstmuseum", "text": "Ein Museum mit einer bedeutenden Sammlung norwegischer Kunst und internationalen Ausstellungen.", "category": "museum", "coords": [5.703364, 58.954819]}, {"name": "Arkeologisk museum", "text": "Ein Museum, das der Vorgeschichte und dem Wikinger-Erbe der Region Rogaland gewidmet ist.", "category": "museum", "coords": [5.730116, 58.963297]}, {"name": "Litle Marøy naturreservat", "text": "Ein geschütztes Naturreservat auf einer Insel bei Stavanger, bekannt für seine Vogelwelt.", "category": "natural", "coords": [5.786443, 58.965997]}, {"name": "Mosvatnet naturreservat", "text": "Ein Naturreservat am See Mosvatnet, beliebt für Vogelbeobachtungen und malerische Spaziergänge.", "category": "natural", "coords": [5.711786, 58.956747]}, {"name": "Norsk Hermetikkmuseum", "text": "Ein einzigartiges Museum in einer alten Konservenfabrik, das die einstige Konservenindustrie Stavangers zeigt.", "category": "museum", "coords": [5.725168, 58.972401]}, {"name": "Reidar Berge-museet", "text": "Das Reidar Berge-museet in Stavanger widmet sich dem Erbe des gleichnamigen norwegischen Malers und Bildhauers. Besucher können in den Ausstellungsräumen tief in sein beeindruckendes Leben und Werk eintauchen. Das Museum ist eine wertvolle kulturelle Institution für Kunstliebhaber in Norwegen.", "category": "museum", "coords": [5.738453, 58.971181]}, {"name": "Helleristninger i Rudlå", "text": "Eine Stätte in Stavanger mit antiken Felsritzungen, die bis in die Bronzezeit zurückreichen.", "category": "historical", "coords": [5.719983, 58.971574]}, {"name": "Emmaus-stranden", "text": "Ein lokaler Strand in Stavanger mit Badebereichen und Grünflächen zum Entspannen.", "category": "recreational", "coords": [5.76584, 58.958816]}, {"name": "Engøyholmen Kystkultursenter", "text": "Ein Küstenkulturzentrum, das sich auf den Erhalt maritimer Traditionen und alter Holzboote konzentriert.", "category": "museum", "coords": [5.742921, 58.981509]}, {"name": "Misjonsmuseet", "text": "Norwegens ältestes Museum, das sich auf Missionsarbeit und kulturelle Artefakte aus dem Ausland konzentriert.", "category": "museum", "coords": [5.71251, 58.97195]}, {"name": "Besøkssenter våtmark Jæren", "text": "Ein Informationszentrum, das die einzigartige Feuchtbiotop-Ökologie und Vogelwelt der Region Jæren zeigt.", "category": "museum", "coords": [5.70198, 58.956066]}, {"name": "Godalen", "text": "Ein beliebtes Erholungsgebiet in Stavanger mit Sandstrand und Küstenwanderwegen.", "category": "recreational", "coords": [5.75662, 58.953972]}, {"name": "Vestlandske Skolemuseum", "text": "Das Vestlandske Skolemuseum in Stavanger ist eine faszinierende Einrichtung, die sich der Bildungshistorie widmet. Besucher können hier die Entwicklung der Schulen im Westen Norwegens im Detail nachvollziehen. Es bietet einen spannenden Einblick in vergangene Lehrmethoden der Region.", "category": "museum", "coords": [5.745389, 58.943852]}, {"name": "Rosenli-stranden", "text": "Ein ruhiger Kieselstrand in Stavanger, der sich zum Schwimmen und zum Genießen der Fjordausicht eignet.", "category": "recreational", "coords": [5.767806, 58.961461]}, {"name": "Sølvberget (Bibliotek og Kulturhus)", "text": "Ein lebendiges Kulturzentrum in Stavanger mit Bibliothek, Kino und verschiedenen Veranstaltungsräumen.", "category": "cultural", "coords": [5.73335, 58.97143]}, {"name": "Vålandspibå", "text": "Ein markanter Turm auf einem Hügel, der einen Panoramablick auf Stavanger und seine Umgebung bietet.", "category": "natural", "coords": [5.728597, 58.957249]}, {"name": "Asbjørn Kloster", "text": "Eine Statue in Stavanger zum Gedenken an Asbjørn Kloster, den Gründer der norwegischen Abstinenzbewegung.", "category": "historical", "coords": [5.728271, 58.964691]}, {"name": "Valbergtårnet", "text": "Ein Wachturm aus den 1850er Jahren in Stavanger, der einst als Feuerwache diente und heute Stadtansichten bietet.", "category": "natural", "coords": [5.731286, 58.971941]}, {"name": "Reidar Kvammen", "text": "Ein Denkmal in Stavanger, das dem legendären lokalen Fußballer Reidar Kvammen gewidmet ist.", "category": "historical", "coords": [5.712845, 58.965449]}, {"name": "Viseadmiral Thore Horve", "text": "Eine Statue in Stavanger zu Ehren von Vizeadmiral Thore Horve für seine Verdienste in der Marine.", "category": "historical", "coords": [5.725363, 58.973926]}, {"name": "Sigval Bergesen", "text": "Ein Denkmal in Stavanger zum Gedenken an Sigval Bergesen, einen bedeutenden norwegischen Reeder und Politiker.", "category": "historical", "coords": [5.729727, 58.968843]}, {"name": "Rogaland kunstsenter", "text": "Ein regionales Kunstzentrum in Stavanger, das zeitgenössische Kunst durch Ausstellungen und Workshops fördert.", "category": "cultural", "coords": [5.739264, 58.969951]}, {"name": "Admiral Cornelius Cruys", "text": "Ein Denkmal zu Ehren des in Stavanger geborenen Admirals Cornelius Cruys, der in der russischen Marine diente.", "category": "historical", "coords": [5.735628, 58.971912]}, {"name": "Fredsmonumentet", "text": "Ein Friedensdenkmal in Stavanger, das dem Frieden gewidmet ist und an das Ende verschiedener Konflikte erinnert.", "category": "historical", "coords": [5.710651, 58.961161]}, {"name": "Utvanderminnesmerket", "text": "Ein Denkmal in Stavanger zu Ehren der vielen Norweger, die nach Nordamerika auswanderten.", "category": "historical", "coords": [5.719536, 58.977669]}, {"name": "Klampen", "text": "Ein Aussichtspunkt in der Gegend von Stavanger mit Blick auf die umliegende Landschaft und das Meer.", "category": "natural", "coords": [5.750485, 58.990116]}, {"name": "Institut Français", "text": "Eine Kultureinrichtung in Stavanger, die durch verschiedene Veranstaltungen die französische Sprache und Kultur fördert.", "category": "cultural", "coords": [5.725858, 58.969634]}, {"name": "Kunsthall Stavanger", "text": "Ein Raum für zeitgenössische Kunst in Stavanger mit vielfältigen Ausstellungen lokaler und internationaler Künstler.", "category": "cultural", "coords": [5.722285, 58.962837]}, {"name": "Musikkpaviljongen", "text": "Ein historischer Musikpavillon in einem Stavanger Park, der für Freiluftkonzerte und öffentliche Versammlungen genutzt wird.", "category": "landmark", "coords": [5.7343, 58.968945]}, {"name": "Anna af Sand", "text": "Eines der ältesten Segelschiffe Norwegens, das heute als schwimmendes Museumsschiff in Stavanger erhalten ist.", "category": "landmark", "coords": [5.7454, 58.971956]}, {"name": "St. Johannes kirke", "text": "Eine markante Backsteinkirche in Stavanger, die Ende des 19. Jahrhunderts im neugotischen Stil erbaut wurde.", "category": "religious", "coords": [5.74919, 58.96872]}, {"name": "Bekkefaret kirke", "text": "Eine moderne Pfarrkirche in Stavanger, die der lokalen Gemeinde mit Gottesdiensten und Veranstaltungen dient.", "category": "religious", "coords": [5.728539, 58.951011]}, {"name": "Hillevåg kirke", "text": "Ein zeitgenössisches Kirchengebäude im Stadtteil Hillevåg in Stavanger.", "category": "religious", "coords": [5.740728, 58.944147]}, {"name": "Kampen kirke", "text": "Eine lokale Kirche im Stadtteil Kampen in Stavanger, bekannt für ihr aktives Gemeindeleben.", "category": "religious", "coords": [5.712049, 58.970914]}, {"name": "St.-Petri-Kirche", "text": "Eine religiöse Stätte in Stavanger, die spirituelle Dienste und Gemeinschaftsaktivitäten anbietet.", "category": "religious", "coords": [5.736722, 58.970556]}, {"name": "Tjensvoll kirke", "text": "Eine moderne Kirche in Stavanger mit einem markanten architektonischen Design.", "category": "religious", "coords": [5.702318, 58.950593]}, {"name": "Varden kirke", "text": "Eine Pfarrkirche in Stavanger, die als Zentrum des lokalen religiösen Lebens dient.", "category": "religious", "coords": [5.751109, 58.95941]}, {"name": "St. Svithun katolske kirke", "text": "Die katholische Hauptkirche in Stavanger, die dem Schutzpatron der Stadt gewidmet ist.", "category": "religious", "coords": [5.729751, 58.965799]}, {"name": "Frue kirke", "text": "Eine historische Kirche in Stavanger, die einen Ort für Gottesdienst und Besinnung bietet.", "category": "religious", "coords": [5.741133, 58.968164]}, {"name": "Stavanger døvekirke", "text": "Eine spezialisierte Kirche in Stavanger, die der Gehörlosen- und Schwerhörigengemeinschaft dient.", "category": "religious", "coords": [5.738618, 58.965601]}, {"name": "Stokka kirke", "text": "Eine örtliche Kirche im Stadtteil Stokka in Stavanger.", "category": "religious", "coords": [5.690328, 58.964067]}, {"name": "Tasta kirke", "text": "Ein modernes Kirchengebäude im Stadtteil Tasta in Stavanger.", "category": "religious", "coords": [5.693482, 58.981319]}, {"name": "Vassøyferjå", "text": "Diese markante Schrägseilbrücke verbindet das Stadtzentrum von Stavanger mit der Insel Hundvåg.", "category": "landmark", "coords": [5.74723, 58.973992]}, {"name": "Litle Stokkavatn", "text": "Der Litle Stokkavatn ist ein See in Stavanger, ideal für entspannte Spaziergänge und Naturgenuss.", "category": "natural", "coords": [5.690669, 58.970623]}, {"name": "Store Stokkavatn", "text": "Der Store Stokkavatn ist ein beliebter See in Stavanger, der zu vielfältigen Aktivitäten im Freien einlädt.", "category": "natural", "coords": [5.668607, 58.967373]}, {"name": "Hålandsvannet", "text": "Der Hålandsvannet ist ein malerischer See in Stavanger, der eine ruhige Atmosphäre für Erholung bietet.", "category": "natural", "coords": [5.633555, 58.976204]}, {"name": "Breiavatnet", "text": "Der Breiavatnet ist ein markanter See im Zentrum von Stavanger, ideal für eine kurze Pause in der Natur.", "category": "natural", "coords": [5.733103, 58.967972]}, {"name": "Auglend barnehage", "text": "Auglend barnehage verfügt über einen Spielplatz in Stavanger, ideal für die Freizeitgestaltung von Kindern.", "category": "family", "coords": [5.727809, 58.946469]}, {"name": "Rosenliblokkene", "text": "Rosenliblokkene bietet einen Spielplatz in Stavanger, auf dem Kinder sicher im Freien spielen können.", "category": "family", "coords": [5.766186, 58.961466]}, {"name": "Plutokroken", "text": "Plutokroken ist ein Spielplatz in Stavanger, der eine gute Gelegenheit für Bewegung im Freien bietet.", "category": "family", "coords": [5.705613, 58.946376]}, {"name": "Fiskeplassen", "text": "Fiskeplassen ist ein Spielplatz in Stavanger, der Familien und Kindern Spaß im Freien ermöglicht.", "category": "family", "coords": [5.751922, 58.970292]}, {"name": "Den elektriske lekeplassen", "text": "Den elektriske lekeplassen ist ein Spielplatz in Stavanger, der Kindern kreative Spielmöglichkeiten bietet.", "category": "family", "coords": [5.709286, 58.965084]}, {"name": "Rosenli", "text": "Rosenli ist ein Spielplatz in Stavanger, der zu aktiver Freizeitgestaltung im Freien einlädt.", "category": "family", "coords": [5.759577, 58.96228]}, {"name": "Jonas Dahls plass", "text": "Jonas Dahls plass bietet einen Spielplatz in Stavanger, auf dem Kinder ihre Freizeit genießen können.", "category": "family", "coords": [5.736746, 58.955821]}, {"name": "Victoria Terrasse", "text": "Victoria Terrasse verfügt über einen Spielplatz in Stavanger, der Platz für Spiel und Spaß im Freien bietet.", "category": "family", "coords": [5.730122, 58.972768]}, {"name": "Utsikten sandbox", "text": "Utsikten sandbox ist ein Spielplatz in Stavanger, der speziell für das Spielen im Freien gestaltet ist.", "category": "family", "coords": [5.711479, 58.978403]}, {"name": "Kaprifolstubben lekeplass", "text": "Kaprifolstubben lekeplass ist ein Spielplatz in Stavanger, der Kindern eine unterhaltsame Umgebung bietet.", "category": "family", "coords": [5.697874, 58.964806]}, {"name": "Tjuvholmen playground", "text": "Tjuvholmen playground ist ein Spielplatz in Stavanger, ideal für die aktive Erholung von Kindern im Freien.", "category": "family", "coords": [5.715986, 58.981759]}], "hu": [{"name": "Norsk Oljemuseum", "text": "Építészetileg is különleges múzeum Stavangerben, amely Norvégia olaj- és gáziparát mutatja be.", "category": "museum", "coords": [5.734823, 58.973554]}, {"name": "Breidablikk", "text": "Jól megőrzött történelmi villa Stavangerben, amely a 19. századi polgári életet mutatja be.", "category": "museum", "coords": [5.722194, 58.965618]}, {"name": "Ledaal", "text": "Történelmi udvarház Stavangerben, amely királyi rezidenciaként és múzeumként is szolgál.", "category": "museum", "coords": [5.719975, 58.967142]}, {"name": "Rogaland Teater", "text": "Stavanger jelentős regionális színháza, amely változatos előadásokat kínál.", "category": "cultural", "coords": [5.732826, 58.965363]}, {"name": "Stavanger maritime museum", "text": "Történelmi raktárépületekben elhelyezett múzeum, amely Stavanger hosszú tengerészeti múltját mutatja be.", "category": "museum", "coords": [5.728709, 58.970542]}, {"name": "Stavanger kunstmuseum", "text": "Jelentős norvég művészeti gyűjteménnyel és nemzetközi kiállításokkal rendelkező múzeum.", "category": "museum", "coords": [5.703364, 58.954819]}, {"name": "Arkeologisk museum", "text": "A Rogaland régió őstörténetével és viking örökségével foglalkozó múzeum.", "category": "museum", "coords": [5.730116, 58.963297]}, {"name": "Litle Marøy naturreservat", "text": "Természetvédelmi terület egy Stavanger közeli szigeten, amely madárvilágáról ismert.", "category": "natural", "coords": [5.786443, 58.965997]}, {"name": "Mosvatnet naturreservat", "text": "A Mosvatnet-tó körüli természetvédelmi terület, amely népszerű madármegfigyelő hely és sétálóövezet.", "category": "natural", "coords": [5.711786, 58.956747]}, {"name": "Norsk Hermetikkmuseum", "text": "Régi konzervgyárban kialakított egyedülálló múzeum, amely Stavanger egykori konzerviparát mutatja be.", "category": "museum", "coords": [5.725168, 58.972401]}, {"name": "Reidar Berge-museet", "text": "A stavangeri Reidar Berge-museet az azonos nevű norvég festő és szobrász örökségének szenteli magát. A látogatók a kiállítótermekben elmerülhetnek a művész lenyűgöző életében és munkásságában. A múzeum értékes kulturális intézmény a norvégiai művészetkedvelők számára.", "category": "museum", "coords": [5.738453, 58.971181]}, {"name": "Helleristninger i Rudlå", "text": "Stavangeri lelőhely, ahol a bronzkorból származó ősi sziklarajzok láthatók.", "category": "historical", "coords": [5.719983, 58.971574]}, {"name": "Emmaus-stranden", "text": "Helyi strand Stavangerben, amely úszási lehetőséget és zöldfelületeket kínál a kikapcsolódáshoz.", "category": "recreational", "coords": [5.76584, 58.958816]}, {"name": "Engøyholmen Kystkultursenter", "text": "Tengerparti kulturális központ, amely a tengerészeti hagyományok és a régi fahajók megőrzésével foglalkozik.", "category": "museum", "coords": [5.742921, 58.981509]}, {"name": "Misjonsmuseet", "text": "Norvégia legrégebbi múzeuma, amely a missziós munkára és külföldi kulturális tárgyakra összpontosít.", "category": "museum", "coords": [5.71251, 58.97195]}, {"name": "Besøkssenter våtmark Jæren", "text": "Információs központ, amely a Jæren régió egyedülálló mocsaras ökológiáját és madárvilágát mutatja be.", "category": "museum", "coords": [5.70198, 58.956066]}, {"name": "Godalen", "text": "Népszerű pihenőhely Stavangerben homokos stranddal és tengerparti sétányokkal.", "category": "recreational", "coords": [5.75662, 58.953972]}, {"name": "Vestlandske Skolemuseum", "text": "A Stavanger városában található Vestlandske Skolemuseum egy olyan intézmény, amely a nyugat-norvégiai oktatás történetének szenteli magát. A látogatók ezen a helyen felfedezhetik, hogyan fejlődtek az iskolák a régióban az évek során. Érdekes betekintést nyújt a múlt norvég pedagógiai világába.", "category": "museum", "coords": [5.745389, 58.943852]}, {"name": "Rosenli-stranden", "text": "Csendes kavicsos strand Stavangerben, amely alkalmas úszásra és a fjordra nyíló kilátás élvezetére.", "category": "recreational", "coords": [5.767806, 58.961461]}, {"name": "Sølvberget (Bibliotek og Kulturhus)", "text": "Stavanger vibráló kulturális központja, amely könyvtárnak, mozinak és különféle rendezvényhelyszíneknek ad otthont.", "category": "cultural", "coords": [5.73335, 58.97143]}, {"name": "Vålandspibå", "text": "Jellegzetes torony egy dombon, ahonnan panorámás kilátás nyílik Stavangerre és környékére.", "category": "natural", "coords": [5.728597, 58.957249]}, {"name": "Asbjørn Kloster", "text": "Stavangeri szobor, amely Asbjørn Klosternek, a norvég absztinencia mozgalom alapítójának állít emléket.", "category": "historical", "coords": [5.728271, 58.964691]}, {"name": "Valbergtårnet", "text": "Az 1850-es évekből származó őrtorony Stavangerben, amely egykor tűzfigyelő helyként szolgált, ma pedig kilátó.", "category": "natural", "coords": [5.731286, 58.971941]}, {"name": "Reidar Kvammen", "text": "Stavangeri emlékmű, amelyet a legendás helyi labdarúgónak, Reidar Kvammennek szenteltek.", "category": "historical", "coords": [5.712845, 58.965449]}, {"name": "Viseadmiral Thore Horve", "text": "Thore Horve ellentengernagy tiszteletére állított szobor Stavangerben, katonai szolgálatának emlékére.", "category": "historical", "coords": [5.725363, 58.973926]}, {"name": "Sigval Bergesen", "text": "Stavangeri emlékmű, amely Sigval Bergesennek, a neves norvég hajótulajdonosnak és politikusnak állít emléket.", "category": "historical", "coords": [5.729727, 58.968843]}, {"name": "Rogaland kunstsenter", "text": "Regionális művészeti központ Stavangerben, amely kiállításokon és workshopokon keresztül népszerűsíti a kortárs vizuális művészeteket.", "category": "cultural", "coords": [5.739264, 58.969951]}, {"name": "Admiral Cornelius Cruys", "text": "A Stavangerben született Cornelius Cruys tengernagy tiszteletére állított emlékmű, aki az orosz haditengerészetnél szolgált.", "category": "historical", "coords": [5.735628, 58.971912]}, {"name": "Fredsmonumentet", "text": "Stavangeri békemű, amelyet a békének szenteltek és különböző konfliktusok lezárásának emlékére emeltek.", "category": "historical", "coords": [5.710651, 58.961161]}, {"name": "Utvanderminnesmerket", "text": "Stavangeri emlékmű a sok norvég tiszteletére, akik Észak-Amerikába vándoroltak ki.", "category": "historical", "coords": [5.719536, 58.977669]}, {"name": "Klampen", "text": "Kilátópont Stavanger környékén, ahonnan rálátás nyílik a környező tájra és a tengerre.", "category": "natural", "coords": [5.750485, 58.990116]}, {"name": "Institut Français", "text": "Stavangeri kulturális intézmény, amely különféle eseményeken keresztül népszerűsíti a francia nyelvet és kultúrát.", "category": "cultural", "coords": [5.725858, 58.969634]}, {"name": "Kunsthall Stavanger", "text": "Kortárs művészeti tér Stavangerben, amely helyi és nemzetközi művészek változatos kiállításainak ad otthont.", "category": "cultural", "coords": [5.722285, 58.962837]}, {"name": "Musikkpaviljongen", "text": "Történelmi zenepavilon egy stavangeri parkban, amelyet szabadtéri koncertekre és nyilvános összejövetelekre használnak.", "category": "landmark", "coords": [5.7343, 58.968945]}, {"name": "Anna af Sand", "text": "Norvégia egyik legrégebbi vitorlás hajója, amely ma úszó múzeumhajóként látható Stavangerben.", "category": "landmark", "coords": [5.7454, 58.971956]}, {"name": "St. Johannes kirke", "text": "Jellegzetes vörös téglás templom Stavangerben, amely a 19. század végén épült neogótikus stílusban.", "category": "religious", "coords": [5.74919, 58.96872]}, {"name": "Bekkefaret kirke", "text": "Modern plébániatemplom Stavangerben, amely istentiszteletekkel és rendezvényekkel szolgálja a helyi közösséget.", "category": "religious", "coords": [5.728539, 58.951011]}, {"name": "Hillevåg kirke", "text": "Kortárs templomépület Stavanger Hillevåg negyedében.", "category": "religious", "coords": [5.740728, 58.944147]}, {"name": "Kampen kirke", "text": "Helyi templom Stavanger Kampen negyedében, amely aktív hitéletéről ismert.", "category": "religious", "coords": [5.712049, 58.970914]}, {"name": "St. Petri kirke", "text": "Vallási helyszín Stavangerben, amely hitéleti szolgáltatásokat és közösségi tevékenységeket kínál.", "category": "religious", "coords": [5.736722, 58.970556]}, {"name": "Tjensvoll kirke", "text": "Modern templom Stavangerben, jellegzetes építészeti megoldásokkal.", "category": "religious", "coords": [5.702318, 58.950593]}, {"name": "Varden kirke", "text": "Plébániatemplom Stavangerben, amely a helyi hitélet központjaként működik.", "category": "religious", "coords": [5.751109, 58.95941]}, {"name": "St. Svithun katolske kirke", "text": "Stavanger fő katolikus temploma, amelyet a város védőszentjének szenteltek.", "category": "religious", "coords": [5.729751, 58.965799]}, {"name": "Frue kirke", "text": "Történelmi templom Stavangerben, amely helyet biztosít az istentiszteletnek és az elmélyülésnek.", "category": "religious", "coords": [5.741133, 58.968164]}, {"name": "Stavanger døvekirke", "text": "Speciális templom Stavangerben, amely a siketek és nagyothallók közösségét szolgálja.", "category": "religious", "coords": [5.738618, 58.965601]}, {"name": "Stokka kirke", "text": "Helyi templom Stavanger Stokka negyedében.", "category": "religious", "coords": [5.690328, 58.964067]}, {"name": "Tasta kirke", "text": "Modern templomépület Stavanger Tasta negyedében.", "category": "religious", "coords": [5.693482, 58.981319]}, {"name": "Vassøyferjå", "text": "Ez a jellegzetes ferdekábeles híd köti össze Stavanger belvárosát Hundvåg szigetével.", "category": "landmark", "coords": [5.74723, 58.973992]}, {"name": "Litle Stokkavatn", "text": "A Litle Stokkavatn egy tó Stavangerben, amely ideális pihentető sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [5.690669, 58.970623]}, {"name": "Store Stokkavatn", "text": "A Store Stokkavatn egy népszerű tó Stavangerben, amely változatos szabadtéri tevékenységekre hív.", "category": "natural", "coords": [5.668607, 58.967373]}, {"name": "Hålandsvannet", "text": "A Hålandsvannet egy festői tó Stavangerben, amely nyugodt légkört kínál a kikapcsolódáshoz.", "category": "natural", "coords": [5.633555, 58.976204]}, {"name": "Breiavatnet", "text": "A Breiavatnet egy jellegzetes tó Stavanger központjában, amely ideális egy rövid természeti pihenőhöz.", "category": "natural", "coords": [5.733103, 58.967972]}, {"name": "Auglend barnehage", "text": "Az Auglend barnehage egy játszótérrel rendelkezik Stavangerben, amely ideális a gyermekek szabadidős tevékenységeihez.", "category": "family", "coords": [5.727809, 58.946469]}, {"name": "Rosenliblokkene", "text": "A Rosenliblokkene egy játszóteret kínál Stavangerben, ahol a gyerekek biztonságosan játszhatnak a szabadban.", "category": "family", "coords": [5.766186, 58.961466]}, {"name": "Plutokroken", "text": "A Plutokroken egy játszótér Stavangerben, amely kiváló lehetőséget nyújt a szabadtéri mozgásra.", "category": "family", "coords": [5.705613, 58.946376]}, {"name": "Fiskeplassen", "text": "A Fiskeplassen egy játszótér Stavangerben, amely szabadtéri szórakozást biztosít családoknak és gyerekeknek.", "category": "family", "coords": [5.751922, 58.970292]}, {"name": "Den elektriske lekeplassen", "text": "A Den elektriske lekeplassen egy játszótér Stavangerben, amely kreatív játéklehetőségeket kínál a gyerekeknek.", "category": "family", "coords": [5.709286, 58.965084]}, {"name": "Rosenli", "text": "A Rosenli egy játszótér Stavangerben, amely aktív szabadtéri szabadidős tevékenységekre hív.", "category": "family", "coords": [5.759577, 58.96228]}, {"name": "Jonas Dahls plass", "text": "A Jonas Dahls plass egy játszóteret kínál Stavangerben, ahol a gyerekek élvezhetik szabadidejüket.", "category": "family", "coords": [5.736746, 58.955821]}, {"name": "Victoria Terrasse", "text": "A Victoria Terrasse egy játszótérrel rendelkezik Stavangerben, amely helyet biztosít a szabadtéri játékhoz és szórakozáshoz.", "category": "family", "coords": [5.730122, 58.972768]}, {"name": "Utsikten sandbox", "text": "Az Utsikten sandbox egy játszótér Stavangerben, amelyet kifejezetten szabadtéri játékra terveztek.", "category": "family", "coords": [5.711479, 58.978403]}, {"name": "Kaprifolstubben lekeplass", "text": "A Kaprifolstubben lekeplass egy játszótér Stavangerben, amely szórakoztató környezetet biztosít a gyerekeknek.", "category": "family", "coords": [5.697874, 58.964806]}, {"name": "Tjuvholmen playground", "text": "A Tjuvholmen playground egy játszótér Stavangerben, amely ideális a gyerekek aktív szabadtéri kikapcsolódásához.", "category": "family", "coords": [5.715986, 58.981759]}], "ro": [{"name": "Norsk Oljemuseum", "text": "Un muzeu arhitectural din Stavanger care documentează industria petrolului și a gazelor din Norvegia.", "category": "museum", "coords": [5.734823, 58.973554]}, {"name": "Breidablikk", "text": "O vilă istorică bine conservată din Stavanger, care prezintă viața burgheză din secolul al XIX-lea.", "category": "museum", "coords": [5.722194, 58.965618]}, {"name": "Ledaal", "text": "Un conac istoric din Stavanger care servește drept reședință regală și muzeu.", "category": "museum", "coords": [5.719975, 58.967142]}, {"name": "Rogaland Teater", "text": "Un teatru regional proeminent din Stavanger, care oferă un program divers de spectacole.", "category": "cultural", "coords": [5.732826, 58.965363]}, {"name": "Stavanger maritime museum", "text": "Un muzeu situat în depozite istorice care explorează istoria maritimă îndelungată a orașului Stavanger.", "category": "museum", "coords": [5.728709, 58.970542]}, {"name": "Stavanger kunstmuseum", "text": "Un muzeu care cuprinde o colecție semnificativă de artă norvegiană și expoziții internaționale.", "category": "museum", "coords": [5.703364, 58.954819]}, {"name": "Arkeologisk museum", "text": "Un muzeu dedicat preistoriei și moștenirii vikinge a regiunii Rogaland.", "category": "museum", "coords": [5.730116, 58.963297]}, {"name": "Litle Marøy naturreservat", "text": "O rezervație naturală protejată pe o insulă de lângă Stavanger, cunoscută pentru păsările sale.", "category": "natural", "coords": [5.786443, 58.965997]}, {"name": "Mosvatnet naturreservat", "text": "O rezervație naturală în jurul lacului Mosvatnet, populară pentru observarea păsărilor și plimbări pitorești.", "category": "natural", "coords": [5.711786, 58.956747]}, {"name": "Norsk Hermetikkmuseum", "text": "Un muzeu unic situat într-o fostă fabrică de conserve, care detaliază fosta industrie a conservelor din Stavanger.", "category": "museum", "coords": [5.725168, 58.972401]}, {"name": "Reidar Berge-museet", "text": "Reidar Berge-museet din Stavanger este dedicat moștenirii pictorului și sculptorului norvegian cu același nume. Vizitatorii se pot scufunda adânc în viața și opera sa impresionantă în sălile de expoziție. Muzeul este o instituție culturală valoroasă pentru iubitorii de artă din Norvegia.", "category": "museum", "coords": [5.738453, 58.971181]}, {"name": "Helleristninger i Rudlå", "text": "Un sit din Stavanger care prezintă sculpturi antice în stâncă ce datează din Epoca Bronzului.", "category": "historical", "coords": [5.719983, 58.971574]}, {"name": "Emmaus-stranden", "text": "O plajă locală din Stavanger, care oferă zone de înot și spații verzi pentru relaxare.", "category": "recreational", "coords": [5.76584, 58.958816]}, {"name": "Engøyholmen Kystkultursenter", "text": "Un centru cultural de coastă axat pe păstrarea tradițiilor maritime și a vechilor bărci din lemn.", "category": "museum", "coords": [5.742921, 58.981509]}, {"name": "Misjonsmuseet", "text": "Cel mai vechi muzeu din Norvegia, axat pe activitatea misionară și artefacte culturale din străinătate.", "category": "museum", "coords": [5.71251, 58.97195]}, {"name": "Besøkssenter våtmark Jæren", "text": "Un centru de informare care prezintă ecologia unică a zonelor umede și păsările din regiunea Jæren.", "category": "museum", "coords": [5.70198, 58.956066]}, {"name": "Godalen", "text": "O zonă de recreere populară din Stavanger, cu o plajă cu nisip și poteci de coastă.", "category": "recreational", "coords": [5.75662, 58.953972]}, {"name": "Vestlandske Skolemuseum", "text": "Vestlandske Skolemuseum din Stavanger este un muzeu dedicat istoriei educației din regiunea vestică a Norvegiei. Aici, oaspeții pot descoperi modul în care s-au dezvoltat școlile locale de-a lungul timpului. Locația oferă o perspectivă interesantă asupra evoluției metodelor de predare.", "category": "museum", "coords": [5.745389, 58.943852]}, {"name": "Rosenli-stranden", "text": "O plajă liniștită cu pietriș din Stavanger, potrivită pentru înot și pentru a se bucura de vederea la fjord.", "category": "recreational", "coords": [5.767806, 58.961461]}, {"name": "Sølvberget (Bibliotek og Kulturhus)", "text": "Un hub cultural vibrant din Stavanger, care găzduiește o bibliotecă, un cinematograf și diverse spații pentru evenimente.", "category": "cultural", "coords": [5.73335, 58.97143]}, {"name": "Vålandspibå", "text": "Un turn de referință pe un deal, care oferă vederi panoramice asupra orașului Stavanger și a împrejurimilor sale.", "category": "natural", "coords": [5.728597, 58.957249]}, {"name": "Asbjørn Kloster", "text": "O statuie din Stavanger care îl comemorează pe Asbjørn Kloster, fondatorul mișcării norvegiene de temperanță.", "category": "historical", "coords": [5.728271, 58.964691]}, {"name": "Valbergtårnet", "text": "Un turn de veghe din anii 1850 din Stavanger, care a servit cândva drept post de observație pentru incendii și acum oferă vederi asupra orașului.", "category": "natural", "coords": [5.731286, 58.971941]}, {"name": "Reidar Kvammen", "text": "Un monument din Stavanger dedicat legendarului fotbalist local Reidar Kvammen.", "category": "historical", "coords": [5.712845, 58.965449]}, {"name": "Viseadmiral Thore Horve", "text": "O statuie din Stavanger care îl onorează pe viceamiralul Thore Horve pentru serviciul său naval.", "category": "historical", "coords": [5.725363, 58.973926]}, {"name": "Sigval Bergesen", "text": "Un monument din Stavanger care îl comemorează pe Sigval Bergesen, un proeminent proprietar de nave și politician norvegian.", "category": "historical", "coords": [5.729727, 58.968843]}, {"name": "Rogaland kunstsenter", "text": "Un centru regional de artă din Stavanger care promovează artele vizuale contemporane prin expoziții și ateliere.", "category": "cultural", "coords": [5.739264, 58.969951]}, {"name": "Admiral Cornelius Cruys", "text": "Un monument care îl onorează pe amiralul Cornelius Cruys, născut în Stavanger, care a servit în Marina Rusă.", "category": "historical", "coords": [5.735628, 58.971912]}, {"name": "Fredsmonumentet", "text": "Un monument din Stavanger dedicat păcii și comemorării sfârșitului diferitelor conflicte.", "category": "historical", "coords": [5.710651, 58.961161]}, {"name": "Utvanderminnesmerket", "text": "Un monument din Stavanger care îi onorează pe numeroșii norvegieni care au emigrat în America de Nord.", "category": "historical", "coords": [5.719536, 58.977669]}, {"name": "Klampen", "text": "Un punct de belvedere pitoresc din zona Stavanger, care oferă vederi asupra peisajului înconjurător și a mării.", "category": "natural", "coords": [5.750485, 58.990116]}, {"name": "Institut Français", "text": "O instituție culturală din Stavanger care promovează limba și cultura franceză prin diverse evenimente.", "category": "cultural", "coords": [5.725858, 58.969634]}, {"name": "Kunsthall Stavanger", "text": "Un spațiu de artă contemporană din Stavanger care găzduiește diverse expoziții ale artiștilor locali și internaționali.", "category": "cultural", "coords": [5.722285, 58.962837]}, {"name": "Musikkpaviljongen", "text": "Un pavilion de muzică istoric într-un parc din Stavanger, folosit pentru concerte în aer liber și adunări publice.", "category": "landmark", "coords": [5.7343, 58.968945]}, {"name": "Anna af Sand", "text": "Una dintre cele mai vechi nave cu pânze din Norvegia, păstrată acum ca navă-muzeu plutitoare în Stavanger.", "category": "landmark", "coords": [5.7454, 58.971956]}, {"name": "St. Johannes kirke", "text": "O biserică proeminentă din cărămidă roșie din Stavanger, construită în stil neogotic la sfârșitul secolului al XIX-lea.", "category": "religious", "coords": [5.74919, 58.96872]}, {"name": "Bekkefaret kirke", "text": "O biserică parohială modernă din Stavanger care servește comunitatea locală prin slujbe și evenimente.", "category": "religious", "coords": [5.728539, 58.951011]}, {"name": "Hillevåg kirke", "text": "O clădire de biserică contemporană în districtul Hillevåg din Stavanger.", "category": "religious", "coords": [5.740728, 58.944147]}, {"name": "Kampen kirke", "text": "O biserică locală din cartierul Kampen din Stavanger, cunoscută pentru viața sa parohială activă.", "category": "religious", "coords": [5.712049, 58.970914]}, {"name": "St. Petri kirke", "text": "Un sit religios din Stavanger care oferă servicii spirituale și activități comunitare.", "category": "religious", "coords": [5.736722, 58.970556]}, {"name": "Tjensvoll kirke", "text": "O biserică modernă din Stavanger, cu un design arhitectural distinctiv.", "category": "religious", "coords": [5.702318, 58.950593]}, {"name": "Varden kirke", "text": "O biserică parohială din Stavanger care servește ca centru pentru viața religioasă locală.", "category": "religious", "coords": [5.751109, 58.95941]}, {"name": "St. Svithun katolske kirke", "text": "Principala biserică catolică din Stavanger, dedicată sfântului patron al orașului.", "category": "religious", "coords": [5.729751, 58.965799]}, {"name": "Frue kirke", "text": "O biserică istorică din Stavanger care oferă un loc de închinare și reflecție.", "category": "religious", "coords": [5.741133, 58.968164]}, {"name": "Stavanger døvekirke", "text": "O biserică specializată din Stavanger dedicată comunității persoanelor surde și cu deficiențe de auz.", "category": "religious", "coords": [5.738618, 58.965601]}, {"name": "Stokka kirke", "text": "O biserică locală din cartierul Stokka din Stavanger.", "category": "religious", "coords": [5.690328, 58.964067]}, {"name": "Tasta kirke", "text": "O clădire modernă de biserică în cartierul Tasta din Stavanger.", "category": "religious", "coords": [5.693482, 58.981319]}, {"name": "Vassøyferjå", "text": "Acest pod hobanat distinctiv leagă centrul orașului Stavanger de insula Hundvåg.", "category": "landmark", "coords": [5.74723, 58.973992]}, {"name": "Litle Stokkavatn", "text": "Litle Stokkavatn este un lac din Stavanger, ideal pentru plimbări relaxante și bucuria de a fi în natură.", "category": "natural", "coords": [5.690669, 58.970623]}, {"name": "Store Stokkavatn", "text": "Store Stokkavatn este un lac popular din Stavanger, care invită la diverse activități în aer liber.", "category": "natural", "coords": [5.668607, 58.967373]}, {"name": "Hålandsvannet", "text": "Hålandsvannet este un lac pitoresc din Stavanger, oferind o atmosferă liniștită pentru recreere.", "category": "natural", "coords": [5.633555, 58.976204]}, {"name": "Breiavatnet", "text": "Breiavatnet este un lac distinctiv în centrul orașului Stavanger, ideal pentru o scurtă pauză în natură.", "category": "natural", "coords": [5.733103, 58.967972]}, {"name": "Auglend barnehage", "text": "Auglend barnehage dispune de un teren de joacă în Stavanger, ideal pentru activitățile de timp liber ale copiilor.", "category": "family", "coords": [5.727809, 58.946469]}, {"name": "Rosenliblokkene", "text": "Rosenliblokkene oferă un teren de joacă în Stavanger, unde copiii se pot juca în siguranță în aer liber.", "category": "family", "coords": [5.766186, 58.961466]}, {"name": "Plutokroken", "text": "Plutokroken este un teren de joacă din Stavanger care oferă o oportunitate bună pentru mișcare în aer liber.", "category": "family", "coords": [5.705613, 58.946376]}, {"name": "Fiskeplassen", "text": "Fiskeplassen este un teren de joacă din Stavanger care permite familiilor și copiilor să se distreze în aer liber.", "category": "family", "coords": [5.751922, 58.970292]}, {"name": "Den elektriske lekeplassen", "text": "Den elektriske lekeplassen este un teren de joacă din Stavanger care oferă copiilor posibilități creative de joacă.", "category": "family", "coords": [5.709286, 58.965084]}, {"name": "Rosenli", "text": "Rosenli este un teren de joacă din Stavanger care invită la activități de timp liber în aer liber.", "category": "family", "coords": [5.759577, 58.96228]}, {"name": "Jonas Dahls plass", "text": "Jonas Dahls plass oferă un teren de joacă în Stavanger, unde copiii se pot bucura de timpul liber.", "category": "family", "coords": [5.736746, 58.955821]}, {"name": "Victoria Terrasse", "text": "Victoria Terrasse dispune de un teren de joacă în Stavanger, oferind spațiu pentru joacă și distracție în aer liber.", "category": "family", "coords": [5.730122, 58.972768]}, {"name": "Utsikten sandbox", "text": "Utsikten sandbox este un teren de joacă din Stavanger, conceput special pentru joaca în aer liber.", "category": "family", "coords": [5.711479, 58.978403]}, {"name": "Kaprifolstubben lekeplass", "text": "Kaprifolstubben lekeplass este un teren de joacă din Stavanger care oferă copiilor un mediu distractiv.", "category": "family", "coords": [5.697874, 58.964806]}, {"name": "Tjuvholmen playground", "text": "Tjuvholmen playground este un teren de joacă din Stavanger, ideal pentru recreerea activă a copiilor în aer liber.", "category": "family", "coords": [5.715986, 58.981759]}], "en": [{"name": "The Norwegian Petroleum Museum", "text": "An architectural museum in Stavanger documenting Norway's oil and gas industry.", "category": "museum", "coords": [5.734823, 58.973554]}, {"name": "Breidablikk", "text": "A well-preserved historic villa in Stavanger showcasing 19th-century bourgeois life.", "category": "museum", "coords": [5.722194, 58.965618]}, {"name": "Ledaal", "text": "A historic manor house in Stavanger that serves as a royal residence and museum.", "category": "museum", "coords": [5.719975, 58.967142]}, {"name": "Rogaland Teater", "text": "A prominent regional theatre in Stavanger offering a diverse program of performances.", "category": "cultural", "coords": [5.732826, 58.965363]}, {"name": "Stavanger Maritime Museum", "text": "A museum located in historic warehouses exploring Stavanger's long seafaring history.", "category": "museum", "coords": [5.728709, 58.970542]}, {"name": "Stavanger Art Museum", "text": "A museum featuring a significant collection of Norwegian art and international exhibitions.", "category": "museum", "coords": [5.703364, 58.954819]}, {"name": "The Museum of Archaeology", "text": "A museum dedicated to the prehistory and Viking heritage of the Rogaland region.", "category": "museum", "coords": [5.730116, 58.963297]}, {"name": "Litle Marøy naturreservat", "text": "A protected nature reserve on an island near Stavanger, known for its birdlife.", "category": "natural", "coords": [5.786443, 58.965997]}, {"name": "Mosvatnet naturreservat", "text": "A nature reserve around Lake Mosvatnet, popular for birdwatching and scenic walks.", "category": "natural", "coords": [5.711786, 58.956747]}, {"name": "The Norwegian Canning Museum", "text": "A unique museum located in an old cannery, detailing Stavanger's former canning industry.", "category": "museum", "coords": [5.725168, 58.972401]}, {"name": "Reidar Berge-museet", "text": "The Reidar Berge-museet in Stavanger is dedicated to the legacy of the eponymous Norwegian painter and sculptor. Visitors can delve deeply into his impressive life and work within the exhibition halls. The museum is a valuable cultural institution for art lovers in Norway.", "category": "museum", "coords": [5.738453, 58.971181]}, {"name": "Helleristninger i Rudlå", "text": "A site in Stavanger featuring ancient rock carvings dating back to the Bronze Age.", "category": "historical", "coords": [5.719983, 58.971574]}, {"name": "Emmaus-stranden", "text": "A local beach in Stavanger offering swimming areas and green spaces for relaxation.", "category": "recreational", "coords": [5.76584, 58.958816]}, {"name": "Engøyholmen Kystkultursenter", "text": "A coastal cultural center focused on preserving maritime traditions and old wooden boats.", "category": "museum", "coords": [5.742921, 58.981509]}, {"name": "Misjonsmuseet", "text": "Norway's oldest museum focused on missionary work and cultural artifacts from abroad.", "category": "museum", "coords": [5.71251, 58.97195]}, {"name": "Visitor Centre Wetland, Jæren", "text": "An information center showcasing the unique wetland ecology and birdlife of the Jæren region.", "category": "museum", "coords": [5.70198, 58.956066]}, {"name": "Godalen", "text": "A popular recreational area in Stavanger with a sandy beach and coastal walking paths.", "category": "recreational", "coords": [5.75662, 58.953972]}, {"name": "Vestlandske Skolemuseum", "text": "The Vestlandske Skolemuseum in Stavanger is a museum focused entirely on the history of education. Visitors to this Norwegian city can explore how schools and learning have evolved across Western Norway. It offers an engaging look into the region's educational past.", "category": "museum", "coords": [5.745389, 58.943852]}, {"name": "Rosenli-stranden", "text": "A quiet pebble beach in Stavanger suitable for swimming and enjoying fjord views.", "category": "recreational", "coords": [5.767806, 58.961461]}, {"name": "Sølvberget Stavanger Library and Culture Center", "text": "A vibrant cultural hub in Stavanger housing a library, cinema, and various event spaces.", "category": "cultural", "coords": [5.73335, 58.97143]}, {"name": "Vålandspibå", "text": "A landmark tower on a hill offering panoramic views of Stavanger and its surroundings.", "category": "natural", "coords": [5.728597, 58.957249]}, {"name": "Asbjørn Kloster", "text": "A statue in Stavanger commemorating Asbjørn Kloster, the founder of the Norwegian temperance movement.", "category": "historical", "coords": [5.728271, 58.964691]}, {"name": "Valbergtårnet", "text": "An 1850s watchtower in Stavanger that once served as a fire lookout and now offers city views.", "category": "natural", "coords": [5.731286, 58.971941]}, {"name": "Reidar Kvammen", "text": "A monument in Stavanger dedicated to the legendary local footballer Reidar Kvammen.", "category": "historical", "coords": [5.712845, 58.965449]}, {"name": "Viseadmiral Thore Horve", "text": "A statue in Stavanger honoring Vice Admiral Thore Horve for his naval service.", "category": "historical", "coords": [5.725363, 58.973926]}, {"name": "Sigval Bergesen", "text": "A monument in Stavanger commemorating Sigval Bergesen, a prominent Norwegian shipowner and politician.", "category": "historical", "coords": [5.729727, 58.968843]}, {"name": "Rogaland kunstsenter", "text": "A regional art center in Stavanger promoting contemporary visual arts through exhibitions and workshops.", "category": "cultural", "coords": [5.739264, 58.969951]}, {"name": "Admiral Cornelius Cruys", "text": "A monument honoring the Stavanger-born Admiral Cornelius Cruys, who served in the Russian Navy.", "category": "historical", "coords": [5.735628, 58.971912]}, {"name": "Fredsmonumentet", "text": "A monument in Stavanger dedicated to peace and commemorating the end of various conflicts.", "category": "historical", "coords": [5.710651, 58.961161]}, {"name": "Utvanderminnesmerket", "text": "A monument in Stavanger honoring the many Norwegians who emigrated to North America.", "category": "historical", "coords": [5.719536, 58.977669]}, {"name": "Klampen", "text": "A scenic lookout point in the Stavanger area offering views of the surrounding landscape and sea.", "category": "natural", "coords": [5.750485, 58.990116]}, {"name": "Institut Français", "text": "A cultural institution in Stavanger promoting French language and culture through various events.", "category": "cultural", "coords": [5.725858, 58.969634]}, {"name": "Kunsthall Stavanger", "text": "A contemporary art space in Stavanger hosting diverse exhibitions by local and international artists.", "category": "cultural", "coords": [5.722285, 58.962837]}, {"name": "Musikkpaviljongen", "text": "A historic music pavilion in a Stavanger park, used for outdoor concerts and public gatherings.", "category": "landmark", "coords": [5.7343, 58.968945]}, {"name": "Anna af Sand", "text": "One of the oldest sailing vessels in Norway, now preserved as a floating museum ship in Stavanger.", "category": "landmark", "coords": [5.7454, 58.971956]}, {"name": "St. Johannes kirke", "text": "A prominent red-brick church in Stavanger built in the Neo-Gothic style in the late 19th century.", "category": "religious", "coords": [5.74919, 58.96872]}, {"name": "Bekkefaret kirke", "text": "A modern parish church in Stavanger serving the local community with services and events.", "category": "religious", "coords": [5.728539, 58.951011]}, {"name": "Hillevåg kirke", "text": "A contemporary church building in the Hillevåg district of Stavanger.", "category": "religious", "coords": [5.740728, 58.944147]}, {"name": "Kampen kirke", "text": "A local church in the Kampen neighborhood of Stavanger, known for its active parish life.", "category": "religious", "coords": [5.712049, 58.970914]}, {"name": "St. Peter's Church", "text": "A religious site in Stavanger providing spiritual services and community activities.", "category": "religious", "coords": [5.736722, 58.970556]}, {"name": "Tjensvoll kirke", "text": "A modern church in Stavanger with a distinctive architectural design.", "category": "religious", "coords": [5.702318, 58.950593]}, {"name": "Varden kirke", "text": "A parish church in Stavanger that serves as a center for local religious life.", "category": "religious", "coords": [5.751109, 58.95941]}, {"name": "St. Svithun katolske kirke", "text": "The main Catholic church in Stavanger, dedicated to the city's patron saint.", "category": "religious", "coords": [5.729751, 58.965799]}, {"name": "Frue kirke", "text": "A historical church in Stavanger providing a place for worship and reflection.", "category": "religious", "coords": [5.741133, 58.968164]}, {"name": "Stavanger døvekirke", "text": "A specialized church in Stavanger dedicated to serving the deaf and hard-of-hearing community.", "category": "religious", "coords": [5.738618, 58.965601]}, {"name": "Stokka kirke", "text": "A local church located in the Stokka neighborhood of Stavanger.", "category": "religious", "coords": [5.690328, 58.964067]}, {"name": "Tasta kirke", "text": "A modern church building in the Tasta neighborhood of Stavanger.", "category": "religious", "coords": [5.693482, 58.981319]}, {"name": "Vassøyferjå", "text": "This distinctive cable-stayed bridge connects Stavanger city center with the island of Hundvåg.", "category": "landmark", "coords": [5.74723, 58.973992]}, {"name": "Litle Stokkavatn", "text": "Litle Stokkavatn is a lake in Stavanger, ideal for relaxed walks and enjoying nature.", "category": "natural", "coords": [5.690669, 58.970623]}, {"name": "Store Stokkavatn", "text": "Store Stokkavatn is a popular lake in Stavanger, inviting for various outdoor activities.", "category": "natural", "coords": [5.668607, 58.967373]}, {"name": "Hålandsvannet", "text": "Hålandsvannet is a scenic lake in Stavanger, offering a quiet atmosphere for recreation.", "category": "natural", "coords": [5.633555, 58.976204]}, {"name": "Breiavatnet", "text": "Breiavatnet is a distinctive lake in the center of Stavanger, ideal for a short break in nature.", "category": "natural", "coords": [5.733103, 58.967972]}, {"name": "Auglend barnehage", "text": "Auglend barnehage features a playground in Stavanger, ideal for children's leisure activities.", "category": "family", "coords": [5.727809, 58.946469]}, {"name": "Rosenliblokkene", "text": "Rosenliblokkene offers a playground in Stavanger where children can play safely outdoors.", "category": "family", "coords": [5.766186, 58.961466]}, {"name": "Plutokroken", "text": "Plutokroken is a playground in Stavanger offering a good opportunity for outdoor exercise.", "category": "family", "coords": [5.705613, 58.946376]}, {"name": "Fiskeplassen", "text": "Fiskeplassen is a playground in Stavanger allowing families and children to have fun outdoors.", "category": "family", "coords": [5.751922, 58.970292]}, {"name": "Den elektriske lekeplassen", "text": "Den elektriske lekeplassen is a playground in Stavanger offering creative play opportunities for children.", "category": "family", "coords": [5.709286, 58.965084]}, {"name": "Rosenli", "text": "Rosenli is a playground in Stavanger inviting for active outdoor leisure activities.", "category": "family", "coords": [5.759577, 58.96228]}, {"name": "Jonas Dahls plass", "text": "Jonas Dahls plass offers a playground in Stavanger where children can enjoy their leisure time.", "category": "family", "coords": [5.736746, 58.955821]}, {"name": "Victoria Terrasse", "text": "Victoria Terrasse features a playground in Stavanger, providing space for outdoor play and fun.", "category": "family", "coords": [5.730122, 58.972768]}, {"name": "Utsikten sandbox", "text": "Utsikten sandbox is a playground in Stavanger, specifically designed for outdoor play.", "category": "family", "coords": [5.711479, 58.978403]}, {"name": "Kaprifolstubben lekeplass", "text": "Kaprifolstubben lekeplass is a playground in Stavanger offering a fun environment for children.", "category": "family", "coords": [5.697874, 58.964806]}, {"name": "Tjuvholmen playground", "text": "Tjuvholmen playground is a playground in Stavanger, ideal for children's active outdoor recreation.", "category": "family", "coords": [5.715986, 58.981759]}]},
+    id: "city-stavanger", "sights": {
+      "de": [
+            {
+                  "name": "Norsk Oljemuseum",
+                  "text": "Ein architektonisches Museum in Stavanger, das die norwegische Öl- und Gasindustrie dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.734823,
+                        58.973554
+                  ]
+            },
+            {
+                  "name": "Breidablikk",
+                  "text": "Eine gut erhaltene historische Villa in Stavanger, die das bürgerliche Leben des 19. Jahrhunderts zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.722194,
+                        58.965618
+                  ]
+            },
+            {
+                  "name": "Ledaal",
+                  "text": "Ein historisches Herrenhaus in Stavanger, das als königliche Residenz und Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        5.719975,
+                        58.967142
+                  ]
+            },
+            {
+                  "name": "Rogaland Teater",
+                  "text": "Ein bedeutendes regionales Theater in Stavanger mit einem vielfältigen Aufführungsprogramm.",
+                  "category": "cultural",
+                  "coords": [
+                        5.732826,
+                        58.965363
+                  ]
+            },
+            {
+                  "name": "Stavanger maritime museum",
+                  "text": "Ein in historischen Lagerhäusern untergebrachtes Museum, das die lange Seefahrtsgeschichte Stavangers beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        5.728709,
+                        58.970542
+                  ]
+            },
+            {
+                  "name": "Stavanger kunstmuseum",
+                  "text": "Ein Museum mit einer bedeutenden Sammlung norwegischer Kunst und internationalen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        5.703364,
+                        58.954819
+                  ]
+            },
+            {
+                  "name": "Arkeologisk museum",
+                  "text": "Ein Museum, das der Vorgeschichte und dem Wikinger-Erbe der Region Rogaland gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.730116,
+                        58.963297
+                  ]
+            },
+            {
+                  "name": "Litle Marøy naturreservat",
+                  "text": "Ein geschütztes Naturreservat auf einer Insel bei Stavanger, bekannt für seine Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        5.786443,
+                        58.965997
+                  ]
+            },
+            {
+                  "name": "Mosvatnet naturreservat",
+                  "text": "Ein Naturreservat am See Mosvatnet, beliebt für Vogelbeobachtungen und malerische Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        5.711786,
+                        58.956747
+                  ]
+            },
+            {
+                  "name": "Norsk Hermetikkmuseum",
+                  "text": "Ein einzigartiges Museum in einer alten Konservenfabrik, das die einstige Konservenindustrie Stavangers zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.725168,
+                        58.972401
+                  ]
+            },
+            {
+                  "name": "Reidar Berge-museet",
+                  "text": "Das Reidar Berge-museet in Stavanger widmet sich dem Erbe des gleichnamigen norwegischen Malers und Bildhauers. Besucher können in den Ausstellungsräumen tief in sein beeindruckendes Leben und Werk eintauchen. Das Museum ist eine wertvolle kulturelle Institution für Kunstliebhaber in Norwegen.",
+                  "category": "museum",
+                  "coords": [
+                        5.738453,
+                        58.971181
+                  ]
+            },
+            {
+                  "name": "Helleristninger i Rudlå",
+                  "text": "Eine Stätte in Stavanger mit antiken Felsritzungen, die bis in die Bronzezeit zurückreichen.",
+                  "category": "historical",
+                  "coords": [
+                        5.719983,
+                        58.971574
+                  ]
+            },
+            {
+                  "name": "Emmaus-stranden",
+                  "text": "Ein lokaler Strand in Stavanger mit Badebereichen und Grünflächen zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.76584,
+                        58.958816
+                  ]
+            },
+            {
+                  "name": "Engøyholmen Kystkultursenter",
+                  "text": "Ein Küstenkulturzentrum, das sich auf den Erhalt maritimer Traditionen und alter Holzboote konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        5.742921,
+                        58.981509
+                  ]
+            },
+            {
+                  "name": "Misjonsmuseet",
+                  "text": "Norwegens ältestes Museum, das sich auf Missionsarbeit und kulturelle Artefakte aus dem Ausland konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        5.71251,
+                        58.97195
+                  ]
+            },
+            {
+                  "name": "Besøkssenter våtmark Jæren",
+                  "text": "Ein Informationszentrum, das die einzigartige Feuchtbiotop-Ökologie und Vogelwelt der Region Jæren zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.70198,
+                        58.956066
+                  ]
+            },
+            {
+                  "name": "Godalen",
+                  "text": "Ein beliebtes Erholungsgebiet in Stavanger mit Sandstrand und Küstenwanderwegen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.75662,
+                        58.953972
+                  ]
+            },
+            {
+                  "name": "Vestlandske Skolemuseum",
+                  "text": "Das Vestlandske Skolemuseum in Stavanger ist eine faszinierende Einrichtung, die sich der Bildungshistorie widmet. Besucher können hier die Entwicklung der Schulen im Westen Norwegens im Detail nachvollziehen. Es bietet einen spannenden Einblick in vergangene Lehrmethoden der Region.",
+                  "category": "museum",
+                  "coords": [
+                        5.745389,
+                        58.943852
+                  ]
+            },
+            {
+                  "name": "Rosenli-stranden",
+                  "text": "Ein ruhiger Kieselstrand in Stavanger, der sich zum Schwimmen und zum Genießen der Fjordausicht eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        5.767806,
+                        58.961461
+                  ]
+            },
+            {
+                  "name": "Sølvberget (Bibliotek og Kulturhus)",
+                  "text": "Ein lebendiges Kulturzentrum in Stavanger mit Bibliothek, Kino und verschiedenen Veranstaltungsräumen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.73335,
+                        58.97143
+                  ]
+            },
+            {
+                  "name": "Vålandspibå",
+                  "text": "Ein markanter Turm auf einem Hügel, der einen Panoramablick auf Stavanger und seine Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.728597,
+                        58.957249
+                  ]
+            },
+            {
+                  "name": "Asbjørn Kloster",
+                  "text": "Eine Statue in Stavanger zum Gedenken an Asbjørn Kloster, den Gründer der norwegischen Abstinenzbewegung.",
+                  "category": "historical",
+                  "coords": [
+                        5.728271,
+                        58.964691
+                  ]
+            },
+            {
+                  "name": "Valbergtårnet",
+                  "text": "Ein Wachturm aus den 1850er Jahren in Stavanger, der einst als Feuerwache diente und heute Stadtansichten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.731286,
+                        58.971941
+                  ]
+            },
+            {
+                  "name": "Reidar Kvammen",
+                  "text": "Ein Denkmal in Stavanger, das dem legendären lokalen Fußballer Reidar Kvammen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        5.712845,
+                        58.965449
+                  ]
+            },
+            {
+                  "name": "Viseadmiral Thore Horve",
+                  "text": "Eine Statue in Stavanger zu Ehren von Vizeadmiral Thore Horve für seine Verdienste in der Marine.",
+                  "category": "historical",
+                  "coords": [
+                        5.725363,
+                        58.973926
+                  ]
+            },
+            {
+                  "name": "Sigval Bergesen",
+                  "text": "Ein Denkmal in Stavanger zum Gedenken an Sigval Bergesen, einen bedeutenden norwegischen Reeder und Politiker.",
+                  "category": "historical",
+                  "coords": [
+                        5.729727,
+                        58.968843
+                  ]
+            },
+            {
+                  "name": "Rogaland kunstsenter",
+                  "text": "Ein regionales Kunstzentrum in Stavanger, das zeitgenössische Kunst durch Ausstellungen und Workshops fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        5.739264,
+                        58.969951
+                  ]
+            },
+            {
+                  "name": "Admiral Cornelius Cruys",
+                  "text": "Ein Denkmal zu Ehren des in Stavanger geborenen Admirals Cornelius Cruys, der in der russischen Marine diente.",
+                  "category": "historical",
+                  "coords": [
+                        5.735628,
+                        58.971912
+                  ]
+            },
+            {
+                  "name": "Fredsmonumentet",
+                  "text": "Ein Friedensdenkmal in Stavanger, das dem Frieden gewidmet ist und an das Ende verschiedener Konflikte erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        5.710651,
+                        58.961161
+                  ]
+            },
+            {
+                  "name": "Utvanderminnesmerket",
+                  "text": "Ein Denkmal in Stavanger zu Ehren der vielen Norweger, die nach Nordamerika auswanderten.",
+                  "category": "historical",
+                  "coords": [
+                        5.719536,
+                        58.977669
+                  ]
+            },
+            {
+                  "name": "Klampen",
+                  "text": "Ein Aussichtspunkt in der Gegend von Stavanger mit Blick auf die umliegende Landschaft und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        5.750485,
+                        58.990116
+                  ]
+            },
+            {
+                  "name": "Institut Français",
+                  "text": "Eine Kultureinrichtung in Stavanger, die durch verschiedene Veranstaltungen die französische Sprache und Kultur fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        5.725858,
+                        58.969634
+                  ]
+            },
+            {
+                  "name": "Kunsthall Stavanger",
+                  "text": "Ein Raum für zeitgenössische Kunst in Stavanger mit vielfältigen Ausstellungen lokaler und internationaler Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        5.722285,
+                        58.962837
+                  ]
+            },
+            {
+                  "name": "Musikkpaviljongen",
+                  "text": "Ein historischer Musikpavillon in einem Stavanger Park, der für Freiluftkonzerte und öffentliche Versammlungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        5.7343,
+                        58.968945
+                  ]
+            },
+            {
+                  "name": "Anna af Sand",
+                  "text": "Eines der ältesten Segelschiffe Norwegens, das heute als schwimmendes Museumsschiff in Stavanger erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.7454,
+                        58.971956
+                  ]
+            },
+            {
+                  "name": "St. Johannes kirke",
+                  "text": "Eine markante Backsteinkirche in Stavanger, die Ende des 19. Jahrhunderts im neugotischen Stil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        5.74919,
+                        58.96872
+                  ]
+            },
+            {
+                  "name": "Bekkefaret kirke",
+                  "text": "Eine moderne Pfarrkirche in Stavanger, die der lokalen Gemeinde mit Gottesdiensten und Veranstaltungen dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.728539,
+                        58.951011
+                  ]
+            },
+            {
+                  "name": "Hillevåg kirke",
+                  "text": "Ein zeitgenössisches Kirchengebäude im Stadtteil Hillevåg in Stavanger.",
+                  "category": "religious",
+                  "coords": [
+                        5.740728,
+                        58.944147
+                  ]
+            },
+            {
+                  "name": "Kampen kirke",
+                  "text": "Eine lokale Kirche im Stadtteil Kampen in Stavanger, bekannt für ihr aktives Gemeindeleben.",
+                  "category": "religious",
+                  "coords": [
+                        5.712049,
+                        58.970914
+                  ]
+            },
+            {
+                  "name": "St.-Petri-Kirche",
+                  "text": "Eine religiöse Stätte in Stavanger, die spirituelle Dienste und Gemeinschaftsaktivitäten anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        5.736722,
+                        58.970556
+                  ]
+            },
+            {
+                  "name": "Tjensvoll kirke",
+                  "text": "Eine moderne Kirche in Stavanger mit einem markanten architektonischen Design.",
+                  "category": "religious",
+                  "coords": [
+                        5.702318,
+                        58.950593
+                  ]
+            },
+            {
+                  "name": "Varden kirke",
+                  "text": "Eine Pfarrkirche in Stavanger, die als Zentrum des lokalen religiösen Lebens dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.751109,
+                        58.95941
+                  ]
+            },
+            {
+                  "name": "St. Svithun katolske kirke",
+                  "text": "Die katholische Hauptkirche in Stavanger, die dem Schutzpatron der Stadt gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.729751,
+                        58.965799
+                  ]
+            },
+            {
+                  "name": "Frue kirke",
+                  "text": "Eine historische Kirche in Stavanger, die einen Ort für Gottesdienst und Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        5.741133,
+                        58.968164
+                  ]
+            },
+            {
+                  "name": "Stavanger døvekirke",
+                  "text": "Eine spezialisierte Kirche in Stavanger, die der Gehörlosen- und Schwerhörigengemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.738618,
+                        58.965601
+                  ]
+            },
+            {
+                  "name": "Stokka kirke",
+                  "text": "Eine örtliche Kirche im Stadtteil Stokka in Stavanger.",
+                  "category": "religious",
+                  "coords": [
+                        5.690328,
+                        58.964067
+                  ]
+            },
+            {
+                  "name": "Tasta kirke",
+                  "text": "Ein modernes Kirchengebäude im Stadtteil Tasta in Stavanger.",
+                  "category": "religious",
+                  "coords": [
+                        5.693482,
+                        58.981319
+                  ]
+            },
+            {
+                  "name": "Vassøyferjå",
+                  "text": "Diese markante Schrägseilbrücke verbindet das Stadtzentrum von Stavanger mit der Insel Hundvåg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.74723,
+                        58.973992
+                  ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "Der Litle Stokkavatn ist ein See in Stavanger, ideal für entspannte Spaziergänge und Naturgenuss.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "Der Store Stokkavatn ist ein beliebter See in Stavanger, der zu vielfältigen Aktivitäten im Freien einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "Der Hålandsvannet ist ein malerischer See in Stavanger, der eine ruhige Atmosphäre für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Breiavatnet",
+                  "text": "Der Breiavatnet ist ein markanter See im Zentrum von Stavanger, ideal für eine kurze Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        5.733103,
+                        58.967972
+                  ]
+            },
+            {
+                  "name": "Auglend barnehage",
+                  "text": "Auglend barnehage verfügt über einen Spielplatz in Stavanger, ideal für die Freizeitgestaltung von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        5.727809,
+                        58.946469
+                  ]
+            },
+            {
+                  "name": "Rosenliblokkene",
+                  "text": "Rosenliblokkene bietet einen Spielplatz in Stavanger, auf dem Kinder sicher im Freien spielen können.",
+                  "category": "family",
+                  "coords": [
+                        5.766186,
+                        58.961466
+                  ]
+            },
+            {
+                  "name": "Plutokroken",
+                  "text": "Plutokroken ist ein Spielplatz in Stavanger, der eine gute Gelegenheit für Bewegung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.705613,
+                        58.946376
+                  ]
+            },
+            {
+                  "name": "Fiskeplassen",
+                  "text": "Fiskeplassen ist ein Spielplatz in Stavanger, der Familien und Kindern Spaß im Freien ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        5.751922,
+                        58.970292
+                  ]
+            },
+            {
+                  "name": "Den elektriske lekeplassen",
+                  "text": "Den elektriske lekeplassen ist ein Spielplatz in Stavanger, der Kindern kreative Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.709286,
+                        58.965084
+                  ]
+            },
+            {
+                  "name": "Rosenli",
+                  "text": "Rosenli ist ein Spielplatz in Stavanger, der zu aktiver Freizeitgestaltung im Freien einlädt.",
+                  "category": "family",
+                  "coords": [
+                        5.759577,
+                        58.96228
+                  ]
+            },
+            {
+                  "name": "Jonas Dahls plass",
+                  "text": "Jonas Dahls plass bietet einen Spielplatz in Stavanger, auf dem Kinder ihre Freizeit genießen können.",
+                  "category": "family",
+                  "coords": [
+                        5.736746,
+                        58.955821
+                  ]
+            },
+            {
+                  "name": "Victoria Terrasse",
+                  "text": "Victoria Terrasse verfügt über einen Spielplatz in Stavanger, der Platz für Spiel und Spaß im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.730122,
+                        58.972768
+                  ]
+            },
+            {
+                  "name": "Utsikten sandbox",
+                  "text": "Utsikten sandbox ist ein Spielplatz in Stavanger, der speziell für das Spielen im Freien gestaltet ist.",
+                  "category": "family",
+                  "coords": [
+                        5.711479,
+                        58.978403
+                  ]
+            },
+            {
+                  "name": "Kaprifolstubben lekeplass",
+                  "text": "Kaprifolstubben lekeplass ist ein Spielplatz in Stavanger, der Kindern eine unterhaltsame Umgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        5.697874,
+                        58.964806
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen playground",
+                  "text": "Tjuvholmen playground ist ein Spielplatz in Stavanger, ideal für die aktive Erholung von Kindern im Freien.",
+                  "category": "family",
+                  "coords": [
+                        5.715986,
+                        58.981759
+                  ]
+            },
+            {
+                  "name": "Strømvik sjøbad",
+                  "text": "Ein Schwimmbad in Stavanger für Freizeit und Erholung für alle Generationen.",
+                  "category": "family",
+                  "coords": [
+                        5.752563,
+                        58.952028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Norsk Oljemuseum",
+                  "text": "Építészetileg is különleges múzeum Stavangerben, amely Norvégia olaj- és gáziparát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.734823,
+                        58.973554
+                  ]
+            },
+            {
+                  "name": "Breidablikk",
+                  "text": "Jól megőrzött történelmi villa Stavangerben, amely a 19. századi polgári életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.722194,
+                        58.965618
+                  ]
+            },
+            {
+                  "name": "Ledaal",
+                  "text": "Történelmi udvarház Stavangerben, amely királyi rezidenciaként és múzeumként is szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        5.719975,
+                        58.967142
+                  ]
+            },
+            {
+                  "name": "Rogaland Teater",
+                  "text": "Stavanger jelentős regionális színháza, amely változatos előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        5.732826,
+                        58.965363
+                  ]
+            },
+            {
+                  "name": "Stavanger maritime museum",
+                  "text": "Történelmi raktárépületekben elhelyezett múzeum, amely Stavanger hosszú tengerészeti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.728709,
+                        58.970542
+                  ]
+            },
+            {
+                  "name": "Stavanger kunstmuseum",
+                  "text": "Jelentős norvég művészeti gyűjteménnyel és nemzetközi kiállításokkal rendelkező múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.703364,
+                        58.954819
+                  ]
+            },
+            {
+                  "name": "Arkeologisk museum",
+                  "text": "A Rogaland régió őstörténetével és viking örökségével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.730116,
+                        58.963297
+                  ]
+            },
+            {
+                  "name": "Litle Marøy naturreservat",
+                  "text": "Természetvédelmi terület egy Stavanger közeli szigeten, amely madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.786443,
+                        58.965997
+                  ]
+            },
+            {
+                  "name": "Mosvatnet naturreservat",
+                  "text": "A Mosvatnet-tó körüli természetvédelmi terület, amely népszerű madármegfigyelő hely és sétálóövezet.",
+                  "category": "natural",
+                  "coords": [
+                        5.711786,
+                        58.956747
+                  ]
+            },
+            {
+                  "name": "Norsk Hermetikkmuseum",
+                  "text": "Régi konzervgyárban kialakított egyedülálló múzeum, amely Stavanger egykori konzerviparát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.725168,
+                        58.972401
+                  ]
+            },
+            {
+                  "name": "Reidar Berge-museet",
+                  "text": "A stavangeri Reidar Berge-museet az azonos nevű norvég festő és szobrász örökségének szenteli magát. A látogatók a kiállítótermekben elmerülhetnek a művész lenyűgöző életében és munkásságában. A múzeum értékes kulturális intézmény a norvégiai művészetkedvelők számára.",
+                  "category": "museum",
+                  "coords": [
+                        5.738453,
+                        58.971181
+                  ]
+            },
+            {
+                  "name": "Helleristninger i Rudlå",
+                  "text": "Stavangeri lelőhely, ahol a bronzkorból származó ősi sziklarajzok láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        5.719983,
+                        58.971574
+                  ]
+            },
+            {
+                  "name": "Emmaus-stranden",
+                  "text": "Helyi strand Stavangerben, amely úszási lehetőséget és zöldfelületeket kínál a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        5.76584,
+                        58.958816
+                  ]
+            },
+            {
+                  "name": "Engøyholmen Kystkultursenter",
+                  "text": "Tengerparti kulturális központ, amely a tengerészeti hagyományok és a régi fahajók megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        5.742921,
+                        58.981509
+                  ]
+            },
+            {
+                  "name": "Misjonsmuseet",
+                  "text": "Norvégia legrégebbi múzeuma, amely a missziós munkára és külföldi kulturális tárgyakra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        5.71251,
+                        58.97195
+                  ]
+            },
+            {
+                  "name": "Besøkssenter våtmark Jæren",
+                  "text": "Információs központ, amely a Jæren régió egyedülálló mocsaras ökológiáját és madárvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.70198,
+                        58.956066
+                  ]
+            },
+            {
+                  "name": "Godalen",
+                  "text": "Népszerű pihenőhely Stavangerben homokos stranddal és tengerparti sétányokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        5.75662,
+                        58.953972
+                  ]
+            },
+            {
+                  "name": "Vestlandske Skolemuseum",
+                  "text": "A Stavanger városában található Vestlandske Skolemuseum egy olyan intézmény, amely a nyugat-norvégiai oktatás történetének szenteli magát. A látogatók ezen a helyen felfedezhetik, hogyan fejlődtek az iskolák a régióban az évek során. Érdekes betekintést nyújt a múlt norvég pedagógiai világába.",
+                  "category": "museum",
+                  "coords": [
+                        5.745389,
+                        58.943852
+                  ]
+            },
+            {
+                  "name": "Rosenli-stranden",
+                  "text": "Csendes kavicsos strand Stavangerben, amely alkalmas úszásra és a fjordra nyíló kilátás élvezetére.",
+                  "category": "recreational",
+                  "coords": [
+                        5.767806,
+                        58.961461
+                  ]
+            },
+            {
+                  "name": "Sølvberget (Bibliotek og Kulturhus)",
+                  "text": "Stavanger vibráló kulturális központja, amely könyvtárnak, mozinak és különféle rendezvényhelyszíneknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.73335,
+                        58.97143
+                  ]
+            },
+            {
+                  "name": "Vålandspibå",
+                  "text": "Jellegzetes torony egy dombon, ahonnan panorámás kilátás nyílik Stavangerre és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        5.728597,
+                        58.957249
+                  ]
+            },
+            {
+                  "name": "Asbjørn Kloster",
+                  "text": "Stavangeri szobor, amely Asbjørn Klosternek, a norvég absztinencia mozgalom alapítójának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        5.728271,
+                        58.964691
+                  ]
+            },
+            {
+                  "name": "Valbergtårnet",
+                  "text": "Az 1850-es évekből származó őrtorony Stavangerben, amely egykor tűzfigyelő helyként szolgált, ma pedig kilátó.",
+                  "category": "natural",
+                  "coords": [
+                        5.731286,
+                        58.971941
+                  ]
+            },
+            {
+                  "name": "Reidar Kvammen",
+                  "text": "Stavangeri emlékmű, amelyet a legendás helyi labdarúgónak, Reidar Kvammennek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        5.712845,
+                        58.965449
+                  ]
+            },
+            {
+                  "name": "Viseadmiral Thore Horve",
+                  "text": "Thore Horve ellentengernagy tiszteletére állított szobor Stavangerben, katonai szolgálatának emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        5.725363,
+                        58.973926
+                  ]
+            },
+            {
+                  "name": "Sigval Bergesen",
+                  "text": "Stavangeri emlékmű, amely Sigval Bergesennek, a neves norvég hajótulajdonosnak és politikusnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        5.729727,
+                        58.968843
+                  ]
+            },
+            {
+                  "name": "Rogaland kunstsenter",
+                  "text": "Regionális művészeti központ Stavangerben, amely kiállításokon és workshopokon keresztül népszerűsíti a kortárs vizuális művészeteket.",
+                  "category": "cultural",
+                  "coords": [
+                        5.739264,
+                        58.969951
+                  ]
+            },
+            {
+                  "name": "Admiral Cornelius Cruys",
+                  "text": "A Stavangerben született Cornelius Cruys tengernagy tiszteletére állított emlékmű, aki az orosz haditengerészetnél szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        5.735628,
+                        58.971912
+                  ]
+            },
+            {
+                  "name": "Fredsmonumentet",
+                  "text": "Stavangeri békemű, amelyet a békének szenteltek és különböző konfliktusok lezárásának emlékére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        5.710651,
+                        58.961161
+                  ]
+            },
+            {
+                  "name": "Utvanderminnesmerket",
+                  "text": "Stavangeri emlékmű a sok norvég tiszteletére, akik Észak-Amerikába vándoroltak ki.",
+                  "category": "historical",
+                  "coords": [
+                        5.719536,
+                        58.977669
+                  ]
+            },
+            {
+                  "name": "Klampen",
+                  "text": "Kilátópont Stavanger környékén, ahonnan rálátás nyílik a környező tájra és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        5.750485,
+                        58.990116
+                  ]
+            },
+            {
+                  "name": "Institut Français",
+                  "text": "Stavangeri kulturális intézmény, amely különféle eseményeken keresztül népszerűsíti a francia nyelvet és kultúrát.",
+                  "category": "cultural",
+                  "coords": [
+                        5.725858,
+                        58.969634
+                  ]
+            },
+            {
+                  "name": "Kunsthall Stavanger",
+                  "text": "Kortárs művészeti tér Stavangerben, amely helyi és nemzetközi művészek változatos kiállításainak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.722285,
+                        58.962837
+                  ]
+            },
+            {
+                  "name": "Musikkpaviljongen",
+                  "text": "Történelmi zenepavilon egy stavangeri parkban, amelyet szabadtéri koncertekre és nyilvános összejövetelekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        5.7343,
+                        58.968945
+                  ]
+            },
+            {
+                  "name": "Anna af Sand",
+                  "text": "Norvégia egyik legrégebbi vitorlás hajója, amely ma úszó múzeumhajóként látható Stavangerben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.7454,
+                        58.971956
+                  ]
+            },
+            {
+                  "name": "St. Johannes kirke",
+                  "text": "Jellegzetes vörös téglás templom Stavangerben, amely a 19. század végén épült neogótikus stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        5.74919,
+                        58.96872
+                  ]
+            },
+            {
+                  "name": "Bekkefaret kirke",
+                  "text": "Modern plébániatemplom Stavangerben, amely istentiszteletekkel és rendezvényekkel szolgálja a helyi közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        5.728539,
+                        58.951011
+                  ]
+            },
+            {
+                  "name": "Hillevåg kirke",
+                  "text": "Kortárs templomépület Stavanger Hillevåg negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        5.740728,
+                        58.944147
+                  ]
+            },
+            {
+                  "name": "Kampen kirke",
+                  "text": "Helyi templom Stavanger Kampen negyedében, amely aktív hitéletéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        5.712049,
+                        58.970914
+                  ]
+            },
+            {
+                  "name": "St. Petri kirke",
+                  "text": "Vallási helyszín Stavangerben, amely hitéleti szolgáltatásokat és közösségi tevékenységeket kínál.",
+                  "category": "religious",
+                  "coords": [
+                        5.736722,
+                        58.970556
+                  ]
+            },
+            {
+                  "name": "Tjensvoll kirke",
+                  "text": "Modern templom Stavangerben, jellegzetes építészeti megoldásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        5.702318,
+                        58.950593
+                  ]
+            },
+            {
+                  "name": "Varden kirke",
+                  "text": "Plébániatemplom Stavangerben, amely a helyi hitélet központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        5.751109,
+                        58.95941
+                  ]
+            },
+            {
+                  "name": "St. Svithun katolske kirke",
+                  "text": "Stavanger fő katolikus temploma, amelyet a város védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        5.729751,
+                        58.965799
+                  ]
+            },
+            {
+                  "name": "Frue kirke",
+                  "text": "Történelmi templom Stavangerben, amely helyet biztosít az istentiszteletnek és az elmélyülésnek.",
+                  "category": "religious",
+                  "coords": [
+                        5.741133,
+                        58.968164
+                  ]
+            },
+            {
+                  "name": "Stavanger døvekirke",
+                  "text": "Speciális templom Stavangerben, amely a siketek és nagyothallók közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        5.738618,
+                        58.965601
+                  ]
+            },
+            {
+                  "name": "Stokka kirke",
+                  "text": "Helyi templom Stavanger Stokka negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        5.690328,
+                        58.964067
+                  ]
+            },
+            {
+                  "name": "Tasta kirke",
+                  "text": "Modern templomépület Stavanger Tasta negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        5.693482,
+                        58.981319
+                  ]
+            },
+            {
+                  "name": "Vassøyferjå",
+                  "text": "Ez a jellegzetes ferdekábeles híd köti össze Stavanger belvárosát Hundvåg szigetével.",
+                  "category": "landmark",
+                  "coords": [
+                        5.74723,
+                        58.973992
+                  ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "A Litle Stokkavatn egy tó Stavangerben, amely ideális pihentető sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "A Store Stokkavatn egy népszerű tó Stavangerben, amely változatos szabadtéri tevékenységekre hív.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "A Hålandsvannet egy festői tó Stavangerben, amely nyugodt légkört kínál a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Breiavatnet",
+                  "text": "A Breiavatnet egy jellegzetes tó Stavanger központjában, amely ideális egy rövid természeti pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        5.733103,
+                        58.967972
+                  ]
+            },
+            {
+                  "name": "Auglend barnehage",
+                  "text": "Az Auglend barnehage egy játszótérrel rendelkezik Stavangerben, amely ideális a gyermekek szabadidős tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        5.727809,
+                        58.946469
+                  ]
+            },
+            {
+                  "name": "Rosenliblokkene",
+                  "text": "A Rosenliblokkene egy játszóteret kínál Stavangerben, ahol a gyerekek biztonságosan játszhatnak a szabadban.",
+                  "category": "family",
+                  "coords": [
+                        5.766186,
+                        58.961466
+                  ]
+            },
+            {
+                  "name": "Plutokroken",
+                  "text": "A Plutokroken egy játszótér Stavangerben, amely kiváló lehetőséget nyújt a szabadtéri mozgásra.",
+                  "category": "family",
+                  "coords": [
+                        5.705613,
+                        58.946376
+                  ]
+            },
+            {
+                  "name": "Fiskeplassen",
+                  "text": "A Fiskeplassen egy játszótér Stavangerben, amely szabadtéri szórakozást biztosít családoknak és gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.751922,
+                        58.970292
+                  ]
+            },
+            {
+                  "name": "Den elektriske lekeplassen",
+                  "text": "A Den elektriske lekeplassen egy játszótér Stavangerben, amely kreatív játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.709286,
+                        58.965084
+                  ]
+            },
+            {
+                  "name": "Rosenli",
+                  "text": "A Rosenli egy játszótér Stavangerben, amely aktív szabadtéri szabadidős tevékenységekre hív.",
+                  "category": "family",
+                  "coords": [
+                        5.759577,
+                        58.96228
+                  ]
+            },
+            {
+                  "name": "Jonas Dahls plass",
+                  "text": "A Jonas Dahls plass egy játszóteret kínál Stavangerben, ahol a gyerekek élvezhetik szabadidejüket.",
+                  "category": "family",
+                  "coords": [
+                        5.736746,
+                        58.955821
+                  ]
+            },
+            {
+                  "name": "Victoria Terrasse",
+                  "text": "A Victoria Terrasse egy játszótérrel rendelkezik Stavangerben, amely helyet biztosít a szabadtéri játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.730122,
+                        58.972768
+                  ]
+            },
+            {
+                  "name": "Utsikten sandbox",
+                  "text": "Az Utsikten sandbox egy játszótér Stavangerben, amelyet kifejezetten szabadtéri játékra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        5.711479,
+                        58.978403
+                  ]
+            },
+            {
+                  "name": "Kaprifolstubben lekeplass",
+                  "text": "A Kaprifolstubben lekeplass egy játszótér Stavangerben, amely szórakoztató környezetet biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        5.697874,
+                        58.964806
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen playground",
+                  "text": "A Tjuvholmen playground egy játszótér Stavangerben, amely ideális a gyerekek aktív szabadtéri kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        5.715986,
+                        58.981759
+                  ]
+            },
+            {
+                  "name": "Strømvik sjøbad",
+                  "text": "Egy úszómedence Stavanger városában kikapcsolódásra és pihenésre minden generáció számára.",
+                  "category": "family",
+                  "coords": [
+                        5.752563,
+                        58.952028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Norsk Oljemuseum",
+                  "text": "Un muzeu arhitectural din Stavanger care documentează industria petrolului și a gazelor din Norvegia.",
+                  "category": "museum",
+                  "coords": [
+                        5.734823,
+                        58.973554
+                  ]
+            },
+            {
+                  "name": "Breidablikk",
+                  "text": "O vilă istorică bine conservată din Stavanger, care prezintă viața burgheză din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        5.722194,
+                        58.965618
+                  ]
+            },
+            {
+                  "name": "Ledaal",
+                  "text": "Un conac istoric din Stavanger care servește drept reședință regală și muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        5.719975,
+                        58.967142
+                  ]
+            },
+            {
+                  "name": "Rogaland Teater",
+                  "text": "Un teatru regional proeminent din Stavanger, care oferă un program divers de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        5.732826,
+                        58.965363
+                  ]
+            },
+            {
+                  "name": "Stavanger maritime museum",
+                  "text": "Un muzeu situat în depozite istorice care explorează istoria maritimă îndelungată a orașului Stavanger.",
+                  "category": "museum",
+                  "coords": [
+                        5.728709,
+                        58.970542
+                  ]
+            },
+            {
+                  "name": "Stavanger kunstmuseum",
+                  "text": "Un muzeu care cuprinde o colecție semnificativă de artă norvegiană și expoziții internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        5.703364,
+                        58.954819
+                  ]
+            },
+            {
+                  "name": "Arkeologisk museum",
+                  "text": "Un muzeu dedicat preistoriei și moștenirii vikinge a regiunii Rogaland.",
+                  "category": "museum",
+                  "coords": [
+                        5.730116,
+                        58.963297
+                  ]
+            },
+            {
+                  "name": "Litle Marøy naturreservat",
+                  "text": "O rezervație naturală protejată pe o insulă de lângă Stavanger, cunoscută pentru păsările sale.",
+                  "category": "natural",
+                  "coords": [
+                        5.786443,
+                        58.965997
+                  ]
+            },
+            {
+                  "name": "Mosvatnet naturreservat",
+                  "text": "O rezervație naturală în jurul lacului Mosvatnet, populară pentru observarea păsărilor și plimbări pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        5.711786,
+                        58.956747
+                  ]
+            },
+            {
+                  "name": "Norsk Hermetikkmuseum",
+                  "text": "Un muzeu unic situat într-o fostă fabrică de conserve, care detaliază fosta industrie a conservelor din Stavanger.",
+                  "category": "museum",
+                  "coords": [
+                        5.725168,
+                        58.972401
+                  ]
+            },
+            {
+                  "name": "Reidar Berge-museet",
+                  "text": "Reidar Berge-museet din Stavanger este dedicat moștenirii pictorului și sculptorului norvegian cu același nume. Vizitatorii se pot scufunda adânc în viața și opera sa impresionantă în sălile de expoziție. Muzeul este o instituție culturală valoroasă pentru iubitorii de artă din Norvegia.",
+                  "category": "museum",
+                  "coords": [
+                        5.738453,
+                        58.971181
+                  ]
+            },
+            {
+                  "name": "Helleristninger i Rudlå",
+                  "text": "Un sit din Stavanger care prezintă sculpturi antice în stâncă ce datează din Epoca Bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        5.719983,
+                        58.971574
+                  ]
+            },
+            {
+                  "name": "Emmaus-stranden",
+                  "text": "O plajă locală din Stavanger, care oferă zone de înot și spații verzi pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        5.76584,
+                        58.958816
+                  ]
+            },
+            {
+                  "name": "Engøyholmen Kystkultursenter",
+                  "text": "Un centru cultural de coastă axat pe păstrarea tradițiilor maritime și a vechilor bărci din lemn.",
+                  "category": "museum",
+                  "coords": [
+                        5.742921,
+                        58.981509
+                  ]
+            },
+            {
+                  "name": "Misjonsmuseet",
+                  "text": "Cel mai vechi muzeu din Norvegia, axat pe activitatea misionară și artefacte culturale din străinătate.",
+                  "category": "museum",
+                  "coords": [
+                        5.71251,
+                        58.97195
+                  ]
+            },
+            {
+                  "name": "Besøkssenter våtmark Jæren",
+                  "text": "Un centru de informare care prezintă ecologia unică a zonelor umede și păsările din regiunea Jæren.",
+                  "category": "museum",
+                  "coords": [
+                        5.70198,
+                        58.956066
+                  ]
+            },
+            {
+                  "name": "Godalen",
+                  "text": "O zonă de recreere populară din Stavanger, cu o plajă cu nisip și poteci de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        5.75662,
+                        58.953972
+                  ]
+            },
+            {
+                  "name": "Vestlandske Skolemuseum",
+                  "text": "Vestlandske Skolemuseum din Stavanger este un muzeu dedicat istoriei educației din regiunea vestică a Norvegiei. Aici, oaspeții pot descoperi modul în care s-au dezvoltat școlile locale de-a lungul timpului. Locația oferă o perspectivă interesantă asupra evoluției metodelor de predare.",
+                  "category": "museum",
+                  "coords": [
+                        5.745389,
+                        58.943852
+                  ]
+            },
+            {
+                  "name": "Rosenli-stranden",
+                  "text": "O plajă liniștită cu pietriș din Stavanger, potrivită pentru înot și pentru a se bucura de vederea la fjord.",
+                  "category": "recreational",
+                  "coords": [
+                        5.767806,
+                        58.961461
+                  ]
+            },
+            {
+                  "name": "Sølvberget (Bibliotek og Kulturhus)",
+                  "text": "Un hub cultural vibrant din Stavanger, care găzduiește o bibliotecă, un cinematograf și diverse spații pentru evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        5.73335,
+                        58.97143
+                  ]
+            },
+            {
+                  "name": "Vålandspibå",
+                  "text": "Un turn de referință pe un deal, care oferă vederi panoramice asupra orașului Stavanger și a împrejurimilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        5.728597,
+                        58.957249
+                  ]
+            },
+            {
+                  "name": "Asbjørn Kloster",
+                  "text": "O statuie din Stavanger care îl comemorează pe Asbjørn Kloster, fondatorul mișcării norvegiene de temperanță.",
+                  "category": "historical",
+                  "coords": [
+                        5.728271,
+                        58.964691
+                  ]
+            },
+            {
+                  "name": "Valbergtårnet",
+                  "text": "Un turn de veghe din anii 1850 din Stavanger, care a servit cândva drept post de observație pentru incendii și acum oferă vederi asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        5.731286,
+                        58.971941
+                  ]
+            },
+            {
+                  "name": "Reidar Kvammen",
+                  "text": "Un monument din Stavanger dedicat legendarului fotbalist local Reidar Kvammen.",
+                  "category": "historical",
+                  "coords": [
+                        5.712845,
+                        58.965449
+                  ]
+            },
+            {
+                  "name": "Viseadmiral Thore Horve",
+                  "text": "O statuie din Stavanger care îl onorează pe viceamiralul Thore Horve pentru serviciul său naval.",
+                  "category": "historical",
+                  "coords": [
+                        5.725363,
+                        58.973926
+                  ]
+            },
+            {
+                  "name": "Sigval Bergesen",
+                  "text": "Un monument din Stavanger care îl comemorează pe Sigval Bergesen, un proeminent proprietar de nave și politician norvegian.",
+                  "category": "historical",
+                  "coords": [
+                        5.729727,
+                        58.968843
+                  ]
+            },
+            {
+                  "name": "Rogaland kunstsenter",
+                  "text": "Un centru regional de artă din Stavanger care promovează artele vizuale contemporane prin expoziții și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        5.739264,
+                        58.969951
+                  ]
+            },
+            {
+                  "name": "Admiral Cornelius Cruys",
+                  "text": "Un monument care îl onorează pe amiralul Cornelius Cruys, născut în Stavanger, care a servit în Marina Rusă.",
+                  "category": "historical",
+                  "coords": [
+                        5.735628,
+                        58.971912
+                  ]
+            },
+            {
+                  "name": "Fredsmonumentet",
+                  "text": "Un monument din Stavanger dedicat păcii și comemorării sfârșitului diferitelor conflicte.",
+                  "category": "historical",
+                  "coords": [
+                        5.710651,
+                        58.961161
+                  ]
+            },
+            {
+                  "name": "Utvanderminnesmerket",
+                  "text": "Un monument din Stavanger care îi onorează pe numeroșii norvegieni care au emigrat în America de Nord.",
+                  "category": "historical",
+                  "coords": [
+                        5.719536,
+                        58.977669
+                  ]
+            },
+            {
+                  "name": "Klampen",
+                  "text": "Un punct de belvedere pitoresc din zona Stavanger, care oferă vederi asupra peisajului înconjurător și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        5.750485,
+                        58.990116
+                  ]
+            },
+            {
+                  "name": "Institut Français",
+                  "text": "O instituție culturală din Stavanger care promovează limba și cultura franceză prin diverse evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        5.725858,
+                        58.969634
+                  ]
+            },
+            {
+                  "name": "Kunsthall Stavanger",
+                  "text": "Un spațiu de artă contemporană din Stavanger care găzduiește diverse expoziții ale artiștilor locali și internaționali.",
+                  "category": "cultural",
+                  "coords": [
+                        5.722285,
+                        58.962837
+                  ]
+            },
+            {
+                  "name": "Musikkpaviljongen",
+                  "text": "Un pavilion de muzică istoric într-un parc din Stavanger, folosit pentru concerte în aer liber și adunări publice.",
+                  "category": "landmark",
+                  "coords": [
+                        5.7343,
+                        58.968945
+                  ]
+            },
+            {
+                  "name": "Anna af Sand",
+                  "text": "Una dintre cele mai vechi nave cu pânze din Norvegia, păstrată acum ca navă-muzeu plutitoare în Stavanger.",
+                  "category": "landmark",
+                  "coords": [
+                        5.7454,
+                        58.971956
+                  ]
+            },
+            {
+                  "name": "St. Johannes kirke",
+                  "text": "O biserică proeminentă din cărămidă roșie din Stavanger, construită în stil neogotic la sfârșitul secolului al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        5.74919,
+                        58.96872
+                  ]
+            },
+            {
+                  "name": "Bekkefaret kirke",
+                  "text": "O biserică parohială modernă din Stavanger care servește comunitatea locală prin slujbe și evenimente.",
+                  "category": "religious",
+                  "coords": [
+                        5.728539,
+                        58.951011
+                  ]
+            },
+            {
+                  "name": "Hillevåg kirke",
+                  "text": "O clădire de biserică contemporană în districtul Hillevåg din Stavanger.",
+                  "category": "religious",
+                  "coords": [
+                        5.740728,
+                        58.944147
+                  ]
+            },
+            {
+                  "name": "Kampen kirke",
+                  "text": "O biserică locală din cartierul Kampen din Stavanger, cunoscută pentru viața sa parohială activă.",
+                  "category": "religious",
+                  "coords": [
+                        5.712049,
+                        58.970914
+                  ]
+            },
+            {
+                  "name": "St. Petri kirke",
+                  "text": "Un sit religios din Stavanger care oferă servicii spirituale și activități comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        5.736722,
+                        58.970556
+                  ]
+            },
+            {
+                  "name": "Tjensvoll kirke",
+                  "text": "O biserică modernă din Stavanger, cu un design arhitectural distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        5.702318,
+                        58.950593
+                  ]
+            },
+            {
+                  "name": "Varden kirke",
+                  "text": "O biserică parohială din Stavanger care servește ca centru pentru viața religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        5.751109,
+                        58.95941
+                  ]
+            },
+            {
+                  "name": "St. Svithun katolske kirke",
+                  "text": "Principala biserică catolică din Stavanger, dedicată sfântului patron al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        5.729751,
+                        58.965799
+                  ]
+            },
+            {
+                  "name": "Frue kirke",
+                  "text": "O biserică istorică din Stavanger care oferă un loc de închinare și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        5.741133,
+                        58.968164
+                  ]
+            },
+            {
+                  "name": "Stavanger døvekirke",
+                  "text": "O biserică specializată din Stavanger dedicată comunității persoanelor surde și cu deficiențe de auz.",
+                  "category": "religious",
+                  "coords": [
+                        5.738618,
+                        58.965601
+                  ]
+            },
+            {
+                  "name": "Stokka kirke",
+                  "text": "O biserică locală din cartierul Stokka din Stavanger.",
+                  "category": "religious",
+                  "coords": [
+                        5.690328,
+                        58.964067
+                  ]
+            },
+            {
+                  "name": "Tasta kirke",
+                  "text": "O clădire modernă de biserică în cartierul Tasta din Stavanger.",
+                  "category": "religious",
+                  "coords": [
+                        5.693482,
+                        58.981319
+                  ]
+            },
+            {
+                  "name": "Vassøyferjå",
+                  "text": "Acest pod hobanat distinctiv leagă centrul orașului Stavanger de insula Hundvåg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.74723,
+                        58.973992
+                  ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "Litle Stokkavatn este un lac din Stavanger, ideal pentru plimbări relaxante și bucuria de a fi în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "Store Stokkavatn este un lac popular din Stavanger, care invită la diverse activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "Hålandsvannet este un lac pitoresc din Stavanger, oferind o atmosferă liniștită pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Breiavatnet",
+                  "text": "Breiavatnet este un lac distinctiv în centrul orașului Stavanger, ideal pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        5.733103,
+                        58.967972
+                  ]
+            },
+            {
+                  "name": "Auglend barnehage",
+                  "text": "Auglend barnehage dispune de un teren de joacă în Stavanger, ideal pentru activitățile de timp liber ale copiilor.",
+                  "category": "family",
+                  "coords": [
+                        5.727809,
+                        58.946469
+                  ]
+            },
+            {
+                  "name": "Rosenliblokkene",
+                  "text": "Rosenliblokkene oferă un teren de joacă în Stavanger, unde copiii se pot juca în siguranță în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.766186,
+                        58.961466
+                  ]
+            },
+            {
+                  "name": "Plutokroken",
+                  "text": "Plutokroken este un teren de joacă din Stavanger care oferă o oportunitate bună pentru mișcare în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.705613,
+                        58.946376
+                  ]
+            },
+            {
+                  "name": "Fiskeplassen",
+                  "text": "Fiskeplassen este un teren de joacă din Stavanger care permite familiilor și copiilor să se distreze în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.751922,
+                        58.970292
+                  ]
+            },
+            {
+                  "name": "Den elektriske lekeplassen",
+                  "text": "Den elektriske lekeplassen este un teren de joacă din Stavanger care oferă copiilor posibilități creative de joacă.",
+                  "category": "family",
+                  "coords": [
+                        5.709286,
+                        58.965084
+                  ]
+            },
+            {
+                  "name": "Rosenli",
+                  "text": "Rosenli este un teren de joacă din Stavanger care invită la activități de timp liber în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.759577,
+                        58.96228
+                  ]
+            },
+            {
+                  "name": "Jonas Dahls plass",
+                  "text": "Jonas Dahls plass oferă un teren de joacă în Stavanger, unde copiii se pot bucura de timpul liber.",
+                  "category": "family",
+                  "coords": [
+                        5.736746,
+                        58.955821
+                  ]
+            },
+            {
+                  "name": "Victoria Terrasse",
+                  "text": "Victoria Terrasse dispune de un teren de joacă în Stavanger, oferind spațiu pentru joacă și distracție în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.730122,
+                        58.972768
+                  ]
+            },
+            {
+                  "name": "Utsikten sandbox",
+                  "text": "Utsikten sandbox este un teren de joacă din Stavanger, conceput special pentru joaca în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.711479,
+                        58.978403
+                  ]
+            },
+            {
+                  "name": "Kaprifolstubben lekeplass",
+                  "text": "Kaprifolstubben lekeplass este un teren de joacă din Stavanger care oferă copiilor un mediu distractiv.",
+                  "category": "family",
+                  "coords": [
+                        5.697874,
+                        58.964806
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen playground",
+                  "text": "Tjuvholmen playground este un teren de joacă din Stavanger, ideal pentru recreerea activă a copiilor în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        5.715986,
+                        58.981759
+                  ]
+            },
+            {
+                  "name": "Strømvik sjøbad",
+                  "text": "O piscină în Stavanger pentru petrecerea timpului liber și relaxare pentru toate generațiile.",
+                  "category": "family",
+                  "coords": [
+                        5.752563,
+                        58.952028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Norwegian Petroleum Museum",
+                  "text": "An architectural museum in Stavanger documenting Norway's oil and gas industry.",
+                  "category": "museum",
+                  "coords": [
+                        5.734823,
+                        58.973554
+                  ]
+            },
+            {
+                  "name": "Breidablikk",
+                  "text": "A well-preserved historic villa in Stavanger showcasing 19th-century bourgeois life.",
+                  "category": "museum",
+                  "coords": [
+                        5.722194,
+                        58.965618
+                  ]
+            },
+            {
+                  "name": "Ledaal",
+                  "text": "A historic manor house in Stavanger that serves as a royal residence and museum.",
+                  "category": "museum",
+                  "coords": [
+                        5.719975,
+                        58.967142
+                  ]
+            },
+            {
+                  "name": "Rogaland Teater",
+                  "text": "A prominent regional theatre in Stavanger offering a diverse program of performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.732826,
+                        58.965363
+                  ]
+            },
+            {
+                  "name": "Stavanger Maritime Museum",
+                  "text": "A museum located in historic warehouses exploring Stavanger's long seafaring history.",
+                  "category": "museum",
+                  "coords": [
+                        5.728709,
+                        58.970542
+                  ]
+            },
+            {
+                  "name": "Stavanger Art Museum",
+                  "text": "A museum featuring a significant collection of Norwegian art and international exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        5.703364,
+                        58.954819
+                  ]
+            },
+            {
+                  "name": "The Museum of Archaeology",
+                  "text": "A museum dedicated to the prehistory and Viking heritage of the Rogaland region.",
+                  "category": "museum",
+                  "coords": [
+                        5.730116,
+                        58.963297
+                  ]
+            },
+            {
+                  "name": "Litle Marøy naturreservat",
+                  "text": "A protected nature reserve on an island near Stavanger, known for its birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        5.786443,
+                        58.965997
+                  ]
+            },
+            {
+                  "name": "Mosvatnet naturreservat",
+                  "text": "A nature reserve around Lake Mosvatnet, popular for birdwatching and scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        5.711786,
+                        58.956747
+                  ]
+            },
+            {
+                  "name": "The Norwegian Canning Museum",
+                  "text": "A unique museum located in an old cannery, detailing Stavanger's former canning industry.",
+                  "category": "museum",
+                  "coords": [
+                        5.725168,
+                        58.972401
+                  ]
+            },
+            {
+                  "name": "Reidar Berge-museet",
+                  "text": "The Reidar Berge-museet in Stavanger is dedicated to the legacy of the eponymous Norwegian painter and sculptor. Visitors can delve deeply into his impressive life and work within the exhibition halls. The museum is a valuable cultural institution for art lovers in Norway.",
+                  "category": "museum",
+                  "coords": [
+                        5.738453,
+                        58.971181
+                  ]
+            },
+            {
+                  "name": "Helleristninger i Rudlå",
+                  "text": "A site in Stavanger featuring ancient rock carvings dating back to the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        5.719983,
+                        58.971574
+                  ]
+            },
+            {
+                  "name": "Emmaus-stranden",
+                  "text": "A local beach in Stavanger offering swimming areas and green spaces for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        5.76584,
+                        58.958816
+                  ]
+            },
+            {
+                  "name": "Engøyholmen Kystkultursenter",
+                  "text": "A coastal cultural center focused on preserving maritime traditions and old wooden boats.",
+                  "category": "museum",
+                  "coords": [
+                        5.742921,
+                        58.981509
+                  ]
+            },
+            {
+                  "name": "Misjonsmuseet",
+                  "text": "Norway's oldest museum focused on missionary work and cultural artifacts from abroad.",
+                  "category": "museum",
+                  "coords": [
+                        5.71251,
+                        58.97195
+                  ]
+            },
+            {
+                  "name": "Visitor Centre Wetland, Jæren",
+                  "text": "An information center showcasing the unique wetland ecology and birdlife of the Jæren region.",
+                  "category": "museum",
+                  "coords": [
+                        5.70198,
+                        58.956066
+                  ]
+            },
+            {
+                  "name": "Godalen",
+                  "text": "A popular recreational area in Stavanger with a sandy beach and coastal walking paths.",
+                  "category": "recreational",
+                  "coords": [
+                        5.75662,
+                        58.953972
+                  ]
+            },
+            {
+                  "name": "Vestlandske Skolemuseum",
+                  "text": "The Vestlandske Skolemuseum in Stavanger is a museum focused entirely on the history of education. Visitors to this Norwegian city can explore how schools and learning have evolved across Western Norway. It offers an engaging look into the region's educational past.",
+                  "category": "museum",
+                  "coords": [
+                        5.745389,
+                        58.943852
+                  ]
+            },
+            {
+                  "name": "Rosenli-stranden",
+                  "text": "A quiet pebble beach in Stavanger suitable for swimming and enjoying fjord views.",
+                  "category": "recreational",
+                  "coords": [
+                        5.767806,
+                        58.961461
+                  ]
+            },
+            {
+                  "name": "Sølvberget Stavanger Library and Culture Center",
+                  "text": "A vibrant cultural hub in Stavanger housing a library, cinema, and various event spaces.",
+                  "category": "cultural",
+                  "coords": [
+                        5.73335,
+                        58.97143
+                  ]
+            },
+            {
+                  "name": "Vålandspibå",
+                  "text": "A landmark tower on a hill offering panoramic views of Stavanger and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        5.728597,
+                        58.957249
+                  ]
+            },
+            {
+                  "name": "Asbjørn Kloster",
+                  "text": "A statue in Stavanger commemorating Asbjørn Kloster, the founder of the Norwegian temperance movement.",
+                  "category": "historical",
+                  "coords": [
+                        5.728271,
+                        58.964691
+                  ]
+            },
+            {
+                  "name": "Valbergtårnet",
+                  "text": "An 1850s watchtower in Stavanger that once served as a fire lookout and now offers city views.",
+                  "category": "natural",
+                  "coords": [
+                        5.731286,
+                        58.971941
+                  ]
+            },
+            {
+                  "name": "Reidar Kvammen",
+                  "text": "A monument in Stavanger dedicated to the legendary local footballer Reidar Kvammen.",
+                  "category": "historical",
+                  "coords": [
+                        5.712845,
+                        58.965449
+                  ]
+            },
+            {
+                  "name": "Viseadmiral Thore Horve",
+                  "text": "A statue in Stavanger honoring Vice Admiral Thore Horve for his naval service.",
+                  "category": "historical",
+                  "coords": [
+                        5.725363,
+                        58.973926
+                  ]
+            },
+            {
+                  "name": "Sigval Bergesen",
+                  "text": "A monument in Stavanger commemorating Sigval Bergesen, a prominent Norwegian shipowner and politician.",
+                  "category": "historical",
+                  "coords": [
+                        5.729727,
+                        58.968843
+                  ]
+            },
+            {
+                  "name": "Rogaland kunstsenter",
+                  "text": "A regional art center in Stavanger promoting contemporary visual arts through exhibitions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        5.739264,
+                        58.969951
+                  ]
+            },
+            {
+                  "name": "Admiral Cornelius Cruys",
+                  "text": "A monument honoring the Stavanger-born Admiral Cornelius Cruys, who served in the Russian Navy.",
+                  "category": "historical",
+                  "coords": [
+                        5.735628,
+                        58.971912
+                  ]
+            },
+            {
+                  "name": "Fredsmonumentet",
+                  "text": "A monument in Stavanger dedicated to peace and commemorating the end of various conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        5.710651,
+                        58.961161
+                  ]
+            },
+            {
+                  "name": "Utvanderminnesmerket",
+                  "text": "A monument in Stavanger honoring the many Norwegians who emigrated to North America.",
+                  "category": "historical",
+                  "coords": [
+                        5.719536,
+                        58.977669
+                  ]
+            },
+            {
+                  "name": "Klampen",
+                  "text": "A scenic lookout point in the Stavanger area offering views of the surrounding landscape and sea.",
+                  "category": "natural",
+                  "coords": [
+                        5.750485,
+                        58.990116
+                  ]
+            },
+            {
+                  "name": "Institut Français",
+                  "text": "A cultural institution in Stavanger promoting French language and culture through various events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.725858,
+                        58.969634
+                  ]
+            },
+            {
+                  "name": "Kunsthall Stavanger",
+                  "text": "A contemporary art space in Stavanger hosting diverse exhibitions by local and international artists.",
+                  "category": "cultural",
+                  "coords": [
+                        5.722285,
+                        58.962837
+                  ]
+            },
+            {
+                  "name": "Musikkpaviljongen",
+                  "text": "A historic music pavilion in a Stavanger park, used for outdoor concerts and public gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        5.7343,
+                        58.968945
+                  ]
+            },
+            {
+                  "name": "Anna af Sand",
+                  "text": "One of the oldest sailing vessels in Norway, now preserved as a floating museum ship in Stavanger.",
+                  "category": "landmark",
+                  "coords": [
+                        5.7454,
+                        58.971956
+                  ]
+            },
+            {
+                  "name": "St. Johannes kirke",
+                  "text": "A prominent red-brick church in Stavanger built in the Neo-Gothic style in the late 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        5.74919,
+                        58.96872
+                  ]
+            },
+            {
+                  "name": "Bekkefaret kirke",
+                  "text": "A modern parish church in Stavanger serving the local community with services and events.",
+                  "category": "religious",
+                  "coords": [
+                        5.728539,
+                        58.951011
+                  ]
+            },
+            {
+                  "name": "Hillevåg kirke",
+                  "text": "A contemporary church building in the Hillevåg district of Stavanger.",
+                  "category": "religious",
+                  "coords": [
+                        5.740728,
+                        58.944147
+                  ]
+            },
+            {
+                  "name": "Kampen kirke",
+                  "text": "A local church in the Kampen neighborhood of Stavanger, known for its active parish life.",
+                  "category": "religious",
+                  "coords": [
+                        5.712049,
+                        58.970914
+                  ]
+            },
+            {
+                  "name": "St. Peter's Church",
+                  "text": "A religious site in Stavanger providing spiritual services and community activities.",
+                  "category": "religious",
+                  "coords": [
+                        5.736722,
+                        58.970556
+                  ]
+            },
+            {
+                  "name": "Tjensvoll kirke",
+                  "text": "A modern church in Stavanger with a distinctive architectural design.",
+                  "category": "religious",
+                  "coords": [
+                        5.702318,
+                        58.950593
+                  ]
+            },
+            {
+                  "name": "Varden kirke",
+                  "text": "A parish church in Stavanger that serves as a center for local religious life.",
+                  "category": "religious",
+                  "coords": [
+                        5.751109,
+                        58.95941
+                  ]
+            },
+            {
+                  "name": "St. Svithun katolske kirke",
+                  "text": "The main Catholic church in Stavanger, dedicated to the city's patron saint.",
+                  "category": "religious",
+                  "coords": [
+                        5.729751,
+                        58.965799
+                  ]
+            },
+            {
+                  "name": "Frue kirke",
+                  "text": "A historical church in Stavanger providing a place for worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        5.741133,
+                        58.968164
+                  ]
+            },
+            {
+                  "name": "Stavanger døvekirke",
+                  "text": "A specialized church in Stavanger dedicated to serving the deaf and hard-of-hearing community.",
+                  "category": "religious",
+                  "coords": [
+                        5.738618,
+                        58.965601
+                  ]
+            },
+            {
+                  "name": "Stokka kirke",
+                  "text": "A local church located in the Stokka neighborhood of Stavanger.",
+                  "category": "religious",
+                  "coords": [
+                        5.690328,
+                        58.964067
+                  ]
+            },
+            {
+                  "name": "Tasta kirke",
+                  "text": "A modern church building in the Tasta neighborhood of Stavanger.",
+                  "category": "religious",
+                  "coords": [
+                        5.693482,
+                        58.981319
+                  ]
+            },
+            {
+                  "name": "Vassøyferjå",
+                  "text": "This distinctive cable-stayed bridge connects Stavanger city center with the island of Hundvåg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.74723,
+                        58.973992
+                  ]
+            },
+            {
+                  "name": "Litle Stokkavatn",
+                  "text": "Litle Stokkavatn is a lake in Stavanger, ideal for relaxed walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.690669,
+                        58.970623
+                  ]
+            },
+            {
+                  "name": "Store Stokkavatn",
+                  "text": "Store Stokkavatn is a popular lake in Stavanger, inviting for various outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        5.668607,
+                        58.967373
+                  ]
+            },
+            {
+                  "name": "Hålandsvannet",
+                  "text": "Hålandsvannet is a scenic lake in Stavanger, offering a quiet atmosphere for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        5.633555,
+                        58.976204
+                  ]
+            },
+            {
+                  "name": "Breiavatnet",
+                  "text": "Breiavatnet is a distinctive lake in the center of Stavanger, ideal for a short break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        5.733103,
+                        58.967972
+                  ]
+            },
+            {
+                  "name": "Auglend barnehage",
+                  "text": "Auglend barnehage features a playground in Stavanger, ideal for children's leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        5.727809,
+                        58.946469
+                  ]
+            },
+            {
+                  "name": "Rosenliblokkene",
+                  "text": "Rosenliblokkene offers a playground in Stavanger where children can play safely outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.766186,
+                        58.961466
+                  ]
+            },
+            {
+                  "name": "Plutokroken",
+                  "text": "Plutokroken is a playground in Stavanger offering a good opportunity for outdoor exercise.",
+                  "category": "family",
+                  "coords": [
+                        5.705613,
+                        58.946376
+                  ]
+            },
+            {
+                  "name": "Fiskeplassen",
+                  "text": "Fiskeplassen is a playground in Stavanger allowing families and children to have fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        5.751922,
+                        58.970292
+                  ]
+            },
+            {
+                  "name": "Den elektriske lekeplassen",
+                  "text": "Den elektriske lekeplassen is a playground in Stavanger offering creative play opportunities for children.",
+                  "category": "family",
+                  "coords": [
+                        5.709286,
+                        58.965084
+                  ]
+            },
+            {
+                  "name": "Rosenli",
+                  "text": "Rosenli is a playground in Stavanger inviting for active outdoor leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        5.759577,
+                        58.96228
+                  ]
+            },
+            {
+                  "name": "Jonas Dahls plass",
+                  "text": "Jonas Dahls plass offers a playground in Stavanger where children can enjoy their leisure time.",
+                  "category": "family",
+                  "coords": [
+                        5.736746,
+                        58.955821
+                  ]
+            },
+            {
+                  "name": "Victoria Terrasse",
+                  "text": "Victoria Terrasse features a playground in Stavanger, providing space for outdoor play and fun.",
+                  "category": "family",
+                  "coords": [
+                        5.730122,
+                        58.972768
+                  ]
+            },
+            {
+                  "name": "Utsikten sandbox",
+                  "text": "Utsikten sandbox is a playground in Stavanger, specifically designed for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        5.711479,
+                        58.978403
+                  ]
+            },
+            {
+                  "name": "Kaprifolstubben lekeplass",
+                  "text": "Kaprifolstubben lekeplass is a playground in Stavanger offering a fun environment for children.",
+                  "category": "family",
+                  "coords": [
+                        5.697874,
+                        58.964806
+                  ]
+            },
+            {
+                  "name": "Tjuvholmen playground",
+                  "text": "Tjuvholmen playground is a playground in Stavanger, ideal for children's active outdoor recreation.",
+                  "category": "family",
+                  "coords": [
+                        5.715986,
+                        58.981759
+                  ]
+            },
+            {
+                  "name": "Strømvik sjøbad",
+                  "text": "A swimming pool in Stavanger for leisure and recreation for all generations.",
+                  "category": "family",
+                  "coords": [
+                        5.752563,
+                        58.952028
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "norway",
     coords: [5.7331, 58.9690],
@@ -6316,6 +11374,15 @@ export const norwayCities: POI[] = [
                         19.007103,
                         69.649244
                   ]
+            },
+            {
+                  "name": "Pust",
+                  "text": "Ein malerischer Ort zum Schwimmen und Entspannen im Pust in Troms.",
+                  "category": "family",
+                  "coords": [
+                        18.962587,
+                        69.650964
+                  ]
             }
       ],
       "hu": [
@@ -6542,6 +11609,15 @@ export const norwayCities: POI[] = [
                   "coords": [
                         19.007103,
                         69.649244
+                  ]
+            },
+            {
+                  "name": "Pust",
+                  "text": "Festői hely úszáshoz és kikapcsolódáshoz a Pust területén Troms városában.",
+                  "category": "family",
+                  "coords": [
+                        18.962587,
+                        69.650964
                   ]
             }
       ],
@@ -6770,6 +11846,15 @@ export const norwayCities: POI[] = [
                         19.007103,
                         69.649244
                   ]
+            },
+            {
+                  "name": "Pust",
+                  "text": "Un loc pitoresc pentru înot și relaxare la Pust în Troms.",
+                  "category": "family",
+                  "coords": [
+                        18.962587,
+                        69.650964
+                  ]
             }
       ],
       "en": [
@@ -6997,6 +12082,15 @@ export const norwayCities: POI[] = [
                         19.007103,
                         69.649244
                   ]
+            },
+            {
+                  "name": "Pust",
+                  "text": "A scenic spot for swimming and relaxation at Pust in Troms.",
+                  "category": "family",
+                  "coords": [
+                        18.962587,
+                        69.650964
+                  ]
             }
       ]
 },
@@ -7090,6 +12184,15 @@ export const norwayCities: POI[] = [
                         6.115264,
                         62.462248
                   ]
+            },
+            {
+                  "name": "Tueneset",
+                  "text": "Dieses Aquarium in Ålesund bietet ein lehrreiches und spannendes Erlebnis für Besucher jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        6.095152,
+                        62.465559
+                  ]
             }
       ],
       "hu": [
@@ -7136,6 +12239,15 @@ export const norwayCities: POI[] = [
                   "coords": [
                         6.115264,
                         62.462248
+                  ]
+            },
+            {
+                  "name": "Tueneset",
+                  "text": "Ez az Ålesund-i akvárium tanulságos és izgalmas élményt nyújt minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        6.095152,
+                        62.465559
                   ]
             }
       ],
@@ -7184,6 +12296,15 @@ export const norwayCities: POI[] = [
                         6.115264,
                         62.462248
                   ]
+            },
+            {
+                  "name": "Tueneset",
+                  "text": "Acest acvariu din Ålesund oferă o experiență educativă și captivantă pentru vizitatorii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        6.095152,
+                        62.465559
+                  ]
             }
       ],
       "en": [
@@ -7230,6 +12351,15 @@ export const norwayCities: POI[] = [
                   "coords": [
                         6.115264,
                         62.462248
+                  ]
+            },
+            {
+                  "name": "Tueneset",
+                  "text": "This aquarium in Ålesund offers an educational and engaging experience for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        6.095152,
+                        62.465559
                   ]
             }
       ]
@@ -7413,6 +12543,33 @@ export const norwayCities: POI[] = [
                         14.451442,
                         67.276581
                   ]
+            },
+            {
+                  "name": "Nordlandsbadet",
+                  "text": "Ein Schwimmbad in Bod, das vielfältige Möglichkeiten für Wasserspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        14.413657,
+                        67.277599
+                  ]
+            },
+            {
+                  "name": "Pool & Wellbeing—Wood Hotel Bodø",
+                  "text": "Ein Schwimmbad in Bod mit herrlicher Aussicht für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.439885,
+                        67.30025
+                  ]
+            },
+            {
+                  "name": "Bratten aktivitetspark",
+                  "text": "Ein Freizeitpark in Bod mit verschiedenen Aktivitäten für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        14.408386,
+                        67.307478
+                  ]
             }
       ],
       "hu": [
@@ -7549,6 +12706,33 @@ export const norwayCities: POI[] = [
                   "coords": [
                         14.451442,
                         67.276581
+                  ]
+            },
+            {
+                  "name": "Nordlandsbadet",
+                  "text": "Egy úszómedence Bod városában, amely változatos lehetőségeket kínál a vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.413657,
+                        67.277599
+                  ]
+            },
+            {
+                  "name": "Pool & Wellbeing—Wood Hotel Bodø",
+                  "text": "Egy úszómedence Bod városában gyönyörű kilátással az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        14.439885,
+                        67.30025
+                  ]
+            },
+            {
+                  "name": "Bratten aktivitetspark",
+                  "text": "Egy vidámpark Bod városában különböző tevékenységekkel gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        14.408386,
+                        67.307478
                   ]
             }
       ],
@@ -7687,6 +12871,33 @@ export const norwayCities: POI[] = [
                         14.451442,
                         67.276581
                   ]
+            },
+            {
+                  "name": "Nordlandsbadet",
+                  "text": "O piscină în Bod care oferă diverse posibilități de distracție în apă.",
+                  "category": "family",
+                  "coords": [
+                        14.413657,
+                        67.277599
+                  ]
+            },
+            {
+                  "name": "Pool & Wellbeing—Wood Hotel Bodø",
+                  "text": "O piscină în Bod cu o priveliște superbă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        14.439885,
+                        67.30025
+                  ]
+            },
+            {
+                  "name": "Bratten aktivitetspark",
+                  "text": "Un parc tematic în Bod cu diverse activități pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        14.408386,
+                        67.307478
+                  ]
             }
       ],
       "en": [
@@ -7823,6 +13034,33 @@ export const norwayCities: POI[] = [
                   "coords": [
                         14.451442,
                         67.276581
+                  ]
+            },
+            {
+                  "name": "Nordlandsbadet",
+                  "text": "A swimming pool in Bod offering varied opportunities for water fun.",
+                  "category": "family",
+                  "coords": [
+                        14.413657,
+                        67.277599
+                  ]
+            },
+            {
+                  "name": "Pool & Wellbeing—Wood Hotel Bodø",
+                  "text": "A swimming pool in Bod with a wonderful view for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        14.439885,
+                        67.30025
+                  ]
+            },
+            {
+                  "name": "Bratten aktivitetspark",
+                  "text": "A theme park in Bod with various activities for children.",
+                  "category": "family",
+                  "coords": [
+                        14.408386,
+                        67.307478
                   ]
             }
       ]
@@ -9451,6 +14689,15 @@ export const norwayCities: POI[] = [
                         10.41203,
                         59.264819
                   ]
+            },
+            {
+                  "name": "Svømmehall",
+                  "text": "Dieses Schwimmbad in Tønsberg ist eine lokale Einrichtung für Erholung und Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        10.415981,
+                        59.294961
+                  ]
             }
       ],
       "hu": [
@@ -9731,6 +14978,15 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.41203,
                         59.264819
+                  ]
+            },
+            {
+                  "name": "Svømmehall",
+                  "text": "Ez a tønsbergi uszoda helyi kikapcsolódási és családi szórakozási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        10.415981,
+                        59.294961
                   ]
             }
       ],
@@ -10013,6 +15269,15 @@ export const norwayCities: POI[] = [
                         10.41203,
                         59.264819
                   ]
+            },
+            {
+                  "name": "Svømmehall",
+                  "text": "Această piscină din Tønsberg este o facilitate locală pentru recreere și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        10.415981,
+                        59.294961
+                  ]
             }
       ],
       "en": [
@@ -10294,6 +15559,15 @@ export const norwayCities: POI[] = [
                         10.41203,
                         59.264819
                   ]
+            },
+            {
+                  "name": "Svømmehall",
+                  "text": "This swimming pool in Tønsberg is a local facility for recreation and family fun.",
+                  "category": "family",
+                  "coords": [
+                        10.415981,
+                        59.294961
+                  ]
             }
       ]
 },
@@ -10512,6 +15786,42 @@ export const norwayCities: POI[] = [
                         10.452515,
                         61.115263
                   ]
+            },
+            {
+                  "name": "Vingnesvika Badeplass",
+                  "text": "Ein Badeplatz in Lillehammer, ideal zum Schwimmen und Entspannen in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        10.441782,
+                        61.103
+                  ]
+            },
+            {
+                  "name": "Mosodden Badeplass",
+                  "text": "Ein Badeplatz in Lillehammer, der einen schönen Zugang zum Wasser bietet.",
+                  "category": "family",
+                  "coords": [
+                        10.436038,
+                        61.126538
+                  ]
+            },
+            {
+                  "name": "Sustad Badeplass",
+                  "text": "Ein Badeplatz in Lillehammer, perfekt für einen Sommertag am Ufer.",
+                  "category": "family",
+                  "coords": [
+                        10.461465,
+                        61.100914
+                  ]
+            },
+            {
+                  "name": "Strandpromenaden Badeplass",
+                  "text": "Ein Badeplatz in Lillehammer entlang der Promenade zum Genießen der Aussicht.",
+                  "category": "family",
+                  "coords": [
+                        10.456487,
+                        61.110386
+                  ]
             }
       ],
       "hu": [
@@ -10684,6 +15994,42 @@ export const norwayCities: POI[] = [
                   "coords": [
                         10.452515,
                         61.115263
+                  ]
+            },
+            {
+                  "name": "Vingnesvika Badeplass",
+                  "text": "Egy fürdőhely Lillehammer városában, amely ideális úszásra és pihenésre a természetben.",
+                  "category": "family",
+                  "coords": [
+                        10.441782,
+                        61.103
+                  ]
+            },
+            {
+                  "name": "Mosodden Badeplass",
+                  "text": "Egy fürdőhely Lillehammer városában, amely szép hozzáférést biztosít a vízhez.",
+                  "category": "family",
+                  "coords": [
+                        10.436038,
+                        61.126538
+                  ]
+            },
+            {
+                  "name": "Sustad Badeplass",
+                  "text": "Egy fürdőhely Lillehammer városában, tökéletes egy nyári naphoz a parton.",
+                  "category": "family",
+                  "coords": [
+                        10.461465,
+                        61.100914
+                  ]
+            },
+            {
+                  "name": "Strandpromenaden Badeplass",
+                  "text": "Egy fürdőhely Lillehammer városában a sétány mentén, a kilátás élvezetéhez.",
+                  "category": "family",
+                  "coords": [
+                        10.456487,
+                        61.110386
                   ]
             }
       ],
@@ -10858,6 +16204,42 @@ export const norwayCities: POI[] = [
                         10.452515,
                         61.115263
                   ]
+            },
+            {
+                  "name": "Vingnesvika Badeplass",
+                  "text": "O zonă de scăldat în Lillehammer, ideală pentru înot și relaxare în natură.",
+                  "category": "family",
+                  "coords": [
+                        10.441782,
+                        61.103
+                  ]
+            },
+            {
+                  "name": "Mosodden Badeplass",
+                  "text": "O zonă de scăldat în Lillehammer care oferă un acces frumos la apă.",
+                  "category": "family",
+                  "coords": [
+                        10.436038,
+                        61.126538
+                  ]
+            },
+            {
+                  "name": "Sustad Badeplass",
+                  "text": "O zonă de scăldat în Lillehammer, perfectă pentru o zi de vară pe mal.",
+                  "category": "family",
+                  "coords": [
+                        10.461465,
+                        61.100914
+                  ]
+            },
+            {
+                  "name": "Strandpromenaden Badeplass",
+                  "text": "O zonă de scăldat în Lillehammer de-a lungul promenadei, pentru a admira priveliștea.",
+                  "category": "family",
+                  "coords": [
+                        10.456487,
+                        61.110386
+                  ]
             }
       ],
       "en": [
@@ -11031,6 +16413,42 @@ export const norwayCities: POI[] = [
                         10.452515,
                         61.115263
                   ]
+            },
+            {
+                  "name": "Vingnesvika Badeplass",
+                  "text": "A swimming area in Lillehammer ideal for swimming and relaxing in nature.",
+                  "category": "family",
+                  "coords": [
+                        10.441782,
+                        61.103
+                  ]
+            },
+            {
+                  "name": "Mosodden Badeplass",
+                  "text": "A swimming area in Lillehammer providing nice access to the water.",
+                  "category": "family",
+                  "coords": [
+                        10.436038,
+                        61.126538
+                  ]
+            },
+            {
+                  "name": "Sustad Badeplass",
+                  "text": "A swimming area in Lillehammer perfect for a summer day on the shore.",
+                  "category": "family",
+                  "coords": [
+                        10.461465,
+                        61.100914
+                  ]
+            },
+            {
+                  "name": "Strandpromenaden Badeplass",
+                  "text": "A swimming area in Lillehammer along the promenade for enjoying the view.",
+                  "category": "family",
+                  "coords": [
+                        10.456487,
+                        61.110386
+                  ]
             }
       ]
 },
@@ -11077,7 +16495,880 @@ export const norwayCities: POI[] = [
     image: "/geo-images/norway/lillehammer.webp",
   },
   {
-    id: "city-narvik", "sights": {"de": [{"name": "Stone Painting", "text": "Eine archäologische Stätte mit historischen Felsmalereien in Narvik.", "category": "historical", "coords": [17.429305, 68.445377]}, {"name": "Narvik krigsmuseum", "text": "Ein Museum, das der Geschichte des Zweiten Weltkriegs in Narvik gewidmet ist.", "category": "museum", "coords": [17.425375, 68.437776]}, {"name": "Verdensteateret", "text": "Ein traditionsreiches Theater- und Kulturgebäude in Narvik.", "category": "cultural", "coords": [17.431701, 68.438978]}, {"name": "Narvik Museum", "text": "Ein Museum, das die Stadtgeschichte und Eisenbahngeschichte von Narvik zeigt.", "category": "museum", "coords": [17.425309, 68.431635]}, {"name": "Narvik", "text": "Eine beliebte Sehenswürdigkeit in der Stadt Narvik.", "category": "landmark", "coords": [17.426674, 68.43877]}, {"name": "Øvre Fjellheisstation", "text": "Die Øvre Fjellheisstation ist ein spektakulärer Naturpunkt hoch über der norwegischen Stadt Narvik. Besucher genießen von dieser Bergstation aus ein weitreichendes Panorama über die Küstenstadt und die umliegende Landschaft. Es ist ein faszinierendes Ausflugsziel für alle, die weite Aussichten schätzen.", "category": "natural", "coords": [17.456693, 68.422342]}, {"name": "Narvik kulturhus", "text": "Ein Kulturzentrum, das verschiedene Kunstveranstaltungen in Narvik beherbergt.", "category": "cultural", "coords": [17.428619, 68.438707]}, {"name": "Das Alte Postamt", "text": "Das historische ehemalige Postgebäude in Narvik.", "category": "landmark", "coords": [17.424891, 68.43308]}, {"name": "gallerimy", "text": "Eine Kunstgalerie, die lokale Werke in Narvik ausstellt.", "category": "museum", "coords": [17.426627, 68.436721]}, {"name": "Major Hyldmos Plass", "text": "Ein Aussichtspunkt in Narvik, benannt nach Major Hyldmo.", "category": "natural", "coords": [17.469047, 68.440276]}, {"name": "Gedenkstein zur Ofotbahn 1903", "text": "Ein Denkmal für die historische Ofotbahn von 1903 in Narvik.", "category": "historical", "coords": [17.443326, 68.441468]}, {"name": "Narvik kirke", "text": "Eine Steinkirche, die der Gemeinde von Narvik dient.", "category": "religious", "coords": [17.413452, 68.439346]}, {"name": "Fredskapellet", "text": "Eine friedliche Kapelle in Narvik.", "category": "religious", "coords": [17.452573, 68.442826]}, {"name": "Ankenes kirke", "text": "Eine historische Kirche im Stadtteil Ankenes in Narvik.", "category": "religious", "coords": [17.378771, 68.420997]}, {"name": "Hålogalandsbrua - Holgolátrovvi", "text": "Die Hålogalandsbrua ist eine der längsten Hängebrücken Norwegens.", "category": "landmark", "coords": [17.480943, 68.460372]}, {"name": "Isvatnet", "text": "Der Isvatnet ist ein See in Narvik, der von einer beeindruckenden Landschaft umgeben ist.", "category": "natural", "coords": [17.570722, 68.426332]}, {"name": "Forsnesvatnet", "text": "Der Forsnesvatnet in Narvik bietet eine friedliche Atmosphäre inmitten der Natur.", "category": "natural", "coords": [17.53584, 68.422932]}, {"name": "Førstevatnet", "text": "Der Førstevatnet ist ein See in Narvik, ideal für eine erholsame Pause.", "category": "natural", "coords": [17.48144, 68.44561]}, {"name": "Pumpvatnet", "text": "Der Pumpvatnet in Narvik ist ein Gewässer in einer malerischen Umgebung.", "category": "natural", "coords": [17.527742, 68.442437]}, {"name": "Storvatnet - Stuorajávri", "text": "Der Storvatnet - Stuorajávri ist ein bedeutender See in der Nähe von Narvik.", "category": "natural", "coords": [17.448174, 68.36048]}, {"name": "Silvatnet", "text": "Der Silvatnet in Narvik bietet ruhige Plätze am Wasser für Besucher.", "category": "natural", "coords": [17.367653, 68.380441]}, {"name": "Nervatnet - Vuollegeašjávri", "text": "Der Nervatnet - Vuollegeašjávri ist ein See in Narvik, ideal zum Entspannen.", "category": "natural", "coords": [17.393211, 68.373379]}], "hu": [{"name": "Stone Painting", "text": "Régészeti lelőhely történelmi sziklarajzokkal Narvikban.", "category": "historical", "coords": [17.429305, 68.445377]}, {"name": "Narvik krigsmuseum", "text": "A második világháború narviki eseményeinek szentelt múzeum.", "category": "museum", "coords": [17.425375, 68.437776]}, {"name": "Verdensteateret", "text": "Nagy múltú színház és kulturális épület Narvikban.", "category": "cultural", "coords": [17.431701, 68.438978]}, {"name": "Narvik Museum", "text": "Narvik városának és vasútjának történetét bemutató múzeum.", "category": "museum", "coords": [17.425309, 68.431635]}, {"name": "Narvik", "text": "Népszerű látnivaló Narvik városában.", "category": "landmark", "coords": [17.426674, 68.43877]}, {"name": "Øvre Fjellheisstation", "text": "A norvégiai Narvik felett található Øvre Fjellheisstation egy lenyűgöző hegyi kilátóhely. Ebből a magasságból a látogatók széles és zavartalan panorámában gyönyörködhetnek a városra és környezetére. Kiváló célpont a tágas tájak kedvelőinek.", "category": "natural", "coords": [17.456693, 68.422342]}, {"name": "Narvik kulturhus", "text": "Kulturális központ, amely különféle művészeti eseményeknek ad otthont Narvikban.", "category": "cultural", "coords": [17.428619, 68.438707]}, {"name": "Det gamle posthuset", "text": "Narvik történelmi egykori postaépülete.", "category": "landmark", "coords": [17.424891, 68.43308]}, {"name": "gallerimy", "text": "Helyi alkotásokat bemutató művészeti galéria Narvikban.", "category": "museum", "coords": [17.426627, 68.436721]}, {"name": "Major Hyldmos Plass", "text": "Major Hyldmóról elnevezett kilátóhely Narvikban.", "category": "natural", "coords": [17.469047, 68.440276]}, {"name": "Minnebauta Ofotbanen 1903", "text": "Az 1903-as Ofot-vasútnak szentelt emlékmű Narvikban.", "category": "historical", "coords": [17.443326, 68.441468]}, {"name": "Narvik kirke", "text": "Narvik közösségét szolgáló kőtemplom.", "category": "religious", "coords": [17.413452, 68.439346]}, {"name": "Fredskapellet", "text": "Békés istentiszteleti hely Narvikban.", "category": "religious", "coords": [17.452573, 68.442826]}, {"name": "Ankenes kirke", "text": "Történelmi templom Narvik Ankenes városrészében.", "category": "religious", "coords": [17.378771, 68.420997]}, {"name": "Hålogalandsbrua - Holgolátrovvi", "text": "A Hålogalandsbrua Norvégia egyik leghosszabb függőhídja.", "category": "landmark", "coords": [17.480943, 68.460372]}, {"name": "Isvatnet", "text": "Az Isvatnet egy tó Narvikban, amelyet lenyűgöző táj vesz körül.", "category": "natural", "coords": [17.570722, 68.426332]}, {"name": "Forsnesvatnet", "text": "A Forsnesvatnet Narvikban nyugodt légkört kínál a természet közepén.", "category": "natural", "coords": [17.53584, 68.422932]}, {"name": "Førstevatnet", "text": "A Førstevatnet egy tó Narvikban, ideális egy pihentető szünethez.", "category": "natural", "coords": [17.48144, 68.44561]}, {"name": "Pumpvatnet", "text": "A Pumpvatnet Narvikban egy festői környezetben található vízfelület.", "category": "natural", "coords": [17.527742, 68.442437]}, {"name": "Storvatnet - Stuorajávri", "text": "A Storvatnet - Stuorajávri egy jelentős tó Narvik közelében.", "category": "natural", "coords": [17.448174, 68.36048]}, {"name": "Silvatnet", "text": "A Silvatnet Narvikban nyugodt vízparti helyeket kínál a látogatóknak.", "category": "natural", "coords": [17.367653, 68.380441]}, {"name": "Nervatnet - Vuollegeašjávri", "text": "A Nervatnet - Vuollegeašjávri egy tó Narvikban, ideális a pihenésre.", "category": "natural", "coords": [17.393211, 68.373379]}], "ro": [{"name": "Stone Painting", "text": "Un sit arheologic cu picturi rupestre istorice în Narvik.", "category": "historical", "coords": [17.429305, 68.445377]}, {"name": "Narvik krigsmuseum", "text": "Un muzeu dedicat istoriei celui de-al Doilea Război Mondial în Narvik.", "category": "museum", "coords": [17.425375, 68.437776]}, {"name": "Verdensteateret", "text": "O clădire culturală și de teatru cu tradiție în Narvik.", "category": "cultural", "coords": [17.431701, 68.438978]}, {"name": "Narvik Museum", "text": "Un muzeu care prezintă istoria orașului și a căii ferate din Narvik.", "category": "museum", "coords": [17.425309, 68.431635]}, {"name": "Narvik", "text": "O atracție populară în orașul Narvik.", "category": "landmark", "coords": [17.426674, 68.43877]}, {"name": "Øvre Fjellheisstation", "text": "Punctul de belvedere Øvre Fjellheisstation se află la înălțime, deasupra orașului norvegian Narvik. De aici, oaspeții pot admira o perspectivă largă asupra așezării și a peisajului natural înconjurător. Este o locație naturală remarcabilă, perfectă pentru fotografii și contemplare.", "category": "natural", "coords": [17.456693, 68.422342]}, {"name": "Narvik kulturhus", "text": "Un centru cultural care găzduiește diverse evenimente artistice în Narvik.", "category": "cultural", "coords": [17.428619, 68.438707]}, {"name": "Det gamle posthuset", "text": "Clădirea istorică a fostei poște din Narvik.", "category": "landmark", "coords": [17.424891, 68.43308]}, {"name": "gallerimy", "text": "O galerie de artă care expune lucrări locale în Narvik.", "category": "museum", "coords": [17.426627, 68.436721]}, {"name": "Major Hyldmos Plass", "text": "Un punct de belvedere în Narvik, numit după maiorul Hyldmo.", "category": "natural", "coords": [17.469047, 68.440276]}, {"name": "Minnebauta Ofotbanen 1903", "text": "Un monument dedicat căii ferate istorice Ofot din 1903, situat în Narvik.", "category": "historical", "coords": [17.443326, 68.441468]}, {"name": "Narvik kirke", "text": "O biserică de piatră care deservește comunitatea din Narvik.", "category": "religious", "coords": [17.413452, 68.439346]}, {"name": "Fredskapellet", "text": "O capelă liniștită în Narvik.", "category": "religious", "coords": [17.452573, 68.442826]}, {"name": "Ankenes kirke", "text": "O biserică istorică situată în zona Ankenes din Narvik.", "category": "religious", "coords": [17.378771, 68.420997]}, {"name": "Hålogalandsbrua - Holgolátrovvi", "text": "Hålogalandsbrua este unul dintre cele mai lungi poduri suspendate din Norvegia.", "category": "landmark", "coords": [17.480943, 68.460372]}, {"name": "Isvatnet", "text": "Isvatnet este un lac din Narvik, înconjurat de un peisaj impresionant.", "category": "natural", "coords": [17.570722, 68.426332]}, {"name": "Forsnesvatnet", "text": "Forsnesvatnet din Narvik oferă o atmosferă pașnică în mijlocul naturii.", "category": "natural", "coords": [17.53584, 68.422932]}, {"name": "Førstevatnet", "text": "Førstevatnet este un lac din Narvik, ideal pentru o pauză relaxantă.", "category": "natural", "coords": [17.48144, 68.44561]}, {"name": "Pumpvatnet", "text": "Pumpvatnet din Narvik este un corp de apă într-un cadru pitoresc.", "category": "natural", "coords": [17.527742, 68.442437]}, {"name": "Storvatnet - Stuorajávri", "text": "Storvatnet - Stuorajávri este un lac important în apropiere de Narvik.", "category": "natural", "coords": [17.448174, 68.36048]}, {"name": "Silvatnet", "text": "Silvatnet din Narvik oferă locuri liniștite pe malul apei pentru vizitatori.", "category": "natural", "coords": [17.367653, 68.380441]}, {"name": "Nervatnet - Vuollegeašjávri", "text": "Nervatnet - Vuollegeašjávri este un lac din Narvik, ideal pentru relaxare.", "category": "natural", "coords": [17.393211, 68.373379]}], "en": [{"name": "Stone Painting", "text": "An archaeological site featuring historic rock paintings in Narvik.", "category": "historical", "coords": [17.429305, 68.445377]}, {"name": "Narvik War Museum", "text": "A museum dedicated to the history of World War II in Narvik.", "category": "museum", "coords": [17.425375, 68.437776]}, {"name": "Verdensteateret", "text": "A long-standing theater and cultural building in Narvik.", "category": "cultural", "coords": [17.431701, 68.438978]}, {"name": "Narvik Museum", "text": "A museum showcasing the local city and railway history of Narvik.", "category": "museum", "coords": [17.425309, 68.431635]}, {"name": "Narvik", "text": "A popular attraction in the city of Narvik.", "category": "landmark", "coords": [17.426674, 68.43877]}, {"name": "Øvre Fjellheisstation", "text": "The Øvre Fjellheisstation serves as an elevated natural vantage point situated above Narvik in Norway. From this scenic overlook, visitors are treated to expansive views that stretch out over the city and the surrounding terrain. It represents a fantastic destination for anyone seeking to admire the landscape from above.", "category": "natural", "coords": [17.456693, 68.422342]}, {"name": "Narvik kulturhus", "text": "A cultural center hosting various arts events in Narvik.", "category": "cultural", "coords": [17.428619, 68.438707]}, {"name": "Det gamle posthuset", "text": "The historic former post office building in Narvik.", "category": "landmark", "coords": [17.424891, 68.43308]}, {"name": "gallerimy", "text": "An art gallery showcasing local works in Narvik.", "category": "museum", "coords": [17.426627, 68.436721]}, {"name": "Major Hyldmos Plass", "text": "A viewpoint in Narvik named after Major Hyldmo.", "category": "natural", "coords": [17.469047, 68.440276]}, {"name": "Commemorative Stone for Ofot railway 1903", "text": "A monument dedicated to the historic Ofot railway of 1903 in Narvik.", "category": "historical", "coords": [17.443326, 68.441468]}, {"name": "Narvik kirke", "text": "A stone church serving the community of Narvik.", "category": "religious", "coords": [17.413452, 68.439346]}, {"name": "Fredskapellet", "text": "A peaceful place of worship in Narvik.", "category": "religious", "coords": [17.452573, 68.442826]}, {"name": "Ankenes kirke", "text": "A historic church located in the Ankenes area of Narvik.", "category": "religious", "coords": [17.378771, 68.420997]}, {"name": "Hålogalandsbrua - Holgolátrovvi", "text": "The Hålogalandsbrua is one of Norway's longest suspension bridges.", "category": "landmark", "coords": [17.480943, 68.460372]}, {"name": "Isvatnet", "text": "Isvatnet is a lake in Narvik, surrounded by impressive scenery.", "category": "natural", "coords": [17.570722, 68.426332]}, {"name": "Forsnesvatnet", "text": "Forsnesvatnet in Narvik offers a peaceful atmosphere in the midst of nature.", "category": "natural", "coords": [17.53584, 68.422932]}, {"name": "Førstevatnet", "text": "Førstevatnet is a lake in Narvik, ideal for a relaxing break.", "category": "natural", "coords": [17.48144, 68.44561]}, {"name": "Pumpvatnet", "text": "Pumpvatnet in Narvik is a body of water in a scenic setting.", "category": "natural", "coords": [17.527742, 68.442437]}, {"name": "Storvatnet - Stuorajávri", "text": "Storvatnet - Stuorajávri is a significant lake near Narvik.", "category": "natural", "coords": [17.448174, 68.36048]}, {"name": "Silvatnet", "text": "Silvatnet in Narvik offers quiet spots by the water for visitors.", "category": "natural", "coords": [17.367653, 68.380441]}, {"name": "Nervatnet - Vuollegeašjávri", "text": "Nervatnet - Vuollegeašjávri is a lake in Narvik, ideal for relaxing.", "category": "natural", "coords": [17.393211, 68.373379]}]},
+    id: "city-narvik", "sights": {
+      "de": [
+            {
+                  "name": "Stone Painting",
+                  "text": "Eine archäologische Stätte mit historischen Felsmalereien in Narvik.",
+                  "category": "historical",
+                  "coords": [
+                        17.429305,
+                        68.445377
+                  ]
+            },
+            {
+                  "name": "Narvik krigsmuseum",
+                  "text": "Ein Museum, das der Geschichte des Zweiten Weltkriegs in Narvik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.425375,
+                        68.437776
+                  ]
+            },
+            {
+                  "name": "Verdensteateret",
+                  "text": "Ein traditionsreiches Theater- und Kulturgebäude in Narvik.",
+                  "category": "cultural",
+                  "coords": [
+                        17.431701,
+                        68.438978
+                  ]
+            },
+            {
+                  "name": "Narvik Museum",
+                  "text": "Ein Museum, das die Stadtgeschichte und Eisenbahngeschichte von Narvik zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.425309,
+                        68.431635
+                  ]
+            },
+            {
+                  "name": "Narvik",
+                  "text": "Eine beliebte Sehenswürdigkeit in der Stadt Narvik.",
+                  "category": "landmark",
+                  "coords": [
+                        17.426674,
+                        68.43877
+                  ]
+            },
+            {
+                  "name": "Øvre Fjellheisstation",
+                  "text": "Die Øvre Fjellheisstation ist ein spektakulärer Naturpunkt hoch über der norwegischen Stadt Narvik. Besucher genießen von dieser Bergstation aus ein weitreichendes Panorama über die Küstenstadt und die umliegende Landschaft. Es ist ein faszinierendes Ausflugsziel für alle, die weite Aussichten schätzen.",
+                  "category": "natural",
+                  "coords": [
+                        17.456693,
+                        68.422342
+                  ]
+            },
+            {
+                  "name": "Narvik kulturhus",
+                  "text": "Ein Kulturzentrum, das verschiedene Kunstveranstaltungen in Narvik beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.428619,
+                        68.438707
+                  ]
+            },
+            {
+                  "name": "Das Alte Postamt",
+                  "text": "Das historische ehemalige Postgebäude in Narvik.",
+                  "category": "landmark",
+                  "coords": [
+                        17.424891,
+                        68.43308
+                  ]
+            },
+            {
+                  "name": "gallerimy",
+                  "text": "Eine Kunstgalerie, die lokale Werke in Narvik ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        17.426627,
+                        68.436721
+                  ]
+            },
+            {
+                  "name": "Major Hyldmos Plass",
+                  "text": "Ein Aussichtspunkt in Narvik, benannt nach Major Hyldmo.",
+                  "category": "natural",
+                  "coords": [
+                        17.469047,
+                        68.440276
+                  ]
+            },
+            {
+                  "name": "Gedenkstein zur Ofotbahn 1903",
+                  "text": "Ein Denkmal für die historische Ofotbahn von 1903 in Narvik.",
+                  "category": "historical",
+                  "coords": [
+                        17.443326,
+                        68.441468
+                  ]
+            },
+            {
+                  "name": "Narvik kirke",
+                  "text": "Eine Steinkirche, die der Gemeinde von Narvik dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.413452,
+                        68.439346
+                  ]
+            },
+            {
+                  "name": "Fredskapellet",
+                  "text": "Eine friedliche Kapelle in Narvik.",
+                  "category": "religious",
+                  "coords": [
+                        17.452573,
+                        68.442826
+                  ]
+            },
+            {
+                  "name": "Ankenes kirke",
+                  "text": "Eine historische Kirche im Stadtteil Ankenes in Narvik.",
+                  "category": "religious",
+                  "coords": [
+                        17.378771,
+                        68.420997
+                  ]
+            },
+            {
+                  "name": "Hålogalandsbrua - Holgolátrovvi",
+                  "text": "Die Hålogalandsbrua ist eine der längsten Hängebrücken Norwegens.",
+                  "category": "landmark",
+                  "coords": [
+                        17.480943,
+                        68.460372
+                  ]
+            },
+            {
+                  "name": "Isvatnet",
+                  "text": "Der Isvatnet ist ein See in Narvik, der von einer beeindruckenden Landschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.570722,
+                        68.426332
+                  ]
+            },
+            {
+                  "name": "Forsnesvatnet",
+                  "text": "Der Forsnesvatnet in Narvik bietet eine friedliche Atmosphäre inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.53584,
+                        68.422932
+                  ]
+            },
+            {
+                  "name": "Førstevatnet",
+                  "text": "Der Førstevatnet ist ein See in Narvik, ideal für eine erholsame Pause.",
+                  "category": "natural",
+                  "coords": [
+                        17.48144,
+                        68.44561
+                  ]
+            },
+            {
+                  "name": "Pumpvatnet",
+                  "text": "Der Pumpvatnet in Narvik ist ein Gewässer in einer malerischen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        17.527742,
+                        68.442437
+                  ]
+            },
+            {
+                  "name": "Storvatnet - Stuorajávri",
+                  "text": "Der Storvatnet - Stuorajávri ist ein bedeutender See in der Nähe von Narvik.",
+                  "category": "natural",
+                  "coords": [
+                        17.448174,
+                        68.36048
+                  ]
+            },
+            {
+                  "name": "Silvatnet",
+                  "text": "Der Silvatnet in Narvik bietet ruhige Plätze am Wasser für Besucher.",
+                  "category": "natural",
+                  "coords": [
+                        17.367653,
+                        68.380441
+                  ]
+            },
+            {
+                  "name": "Nervatnet - Vuollegeašjávri",
+                  "text": "Der Nervatnet - Vuollegeašjávri ist ein See in Narvik, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        17.393211,
+                        68.373379
+                  ]
+            },
+            {
+                  "name": "Idrettens Hus",
+                  "text": "Genießen Sie ein erfrischendes Bad im Idrettens Hus in Narvik.",
+                  "category": "family",
+                  "coords": [
+                        17.418878,
+                        68.44189
+                  ]
+            },
+            {
+                  "name": "Swimming pool for dogs",
+                  "text": "Ein spezielles Schwimmbecken für Hunde in Narvik.",
+                  "category": "family",
+                  "coords": [
+                        17.431264,
+                        68.427277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone Painting",
+                  "text": "Régészeti lelőhely történelmi sziklarajzokkal Narvikban.",
+                  "category": "historical",
+                  "coords": [
+                        17.429305,
+                        68.445377
+                  ]
+            },
+            {
+                  "name": "Narvik krigsmuseum",
+                  "text": "A második világháború narviki eseményeinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.425375,
+                        68.437776
+                  ]
+            },
+            {
+                  "name": "Verdensteateret",
+                  "text": "Nagy múltú színház és kulturális épület Narvikban.",
+                  "category": "cultural",
+                  "coords": [
+                        17.431701,
+                        68.438978
+                  ]
+            },
+            {
+                  "name": "Narvik Museum",
+                  "text": "Narvik városának és vasútjának történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.425309,
+                        68.431635
+                  ]
+            },
+            {
+                  "name": "Narvik",
+                  "text": "Népszerű látnivaló Narvik városában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.426674,
+                        68.43877
+                  ]
+            },
+            {
+                  "name": "Øvre Fjellheisstation",
+                  "text": "A norvégiai Narvik felett található Øvre Fjellheisstation egy lenyűgöző hegyi kilátóhely. Ebből a magasságból a látogatók széles és zavartalan panorámában gyönyörködhetnek a városra és környezetére. Kiváló célpont a tágas tájak kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        17.456693,
+                        68.422342
+                  ]
+            },
+            {
+                  "name": "Narvik kulturhus",
+                  "text": "Kulturális központ, amely különféle művészeti eseményeknek ad otthont Narvikban.",
+                  "category": "cultural",
+                  "coords": [
+                        17.428619,
+                        68.438707
+                  ]
+            },
+            {
+                  "name": "Det gamle posthuset",
+                  "text": "Narvik történelmi egykori postaépülete.",
+                  "category": "landmark",
+                  "coords": [
+                        17.424891,
+                        68.43308
+                  ]
+            },
+            {
+                  "name": "gallerimy",
+                  "text": "Helyi alkotásokat bemutató művészeti galéria Narvikban.",
+                  "category": "museum",
+                  "coords": [
+                        17.426627,
+                        68.436721
+                  ]
+            },
+            {
+                  "name": "Major Hyldmos Plass",
+                  "text": "Major Hyldmóról elnevezett kilátóhely Narvikban.",
+                  "category": "natural",
+                  "coords": [
+                        17.469047,
+                        68.440276
+                  ]
+            },
+            {
+                  "name": "Minnebauta Ofotbanen 1903",
+                  "text": "Az 1903-as Ofot-vasútnak szentelt emlékmű Narvikban.",
+                  "category": "historical",
+                  "coords": [
+                        17.443326,
+                        68.441468
+                  ]
+            },
+            {
+                  "name": "Narvik kirke",
+                  "text": "Narvik közösségét szolgáló kőtemplom.",
+                  "category": "religious",
+                  "coords": [
+                        17.413452,
+                        68.439346
+                  ]
+            },
+            {
+                  "name": "Fredskapellet",
+                  "text": "Békés istentiszteleti hely Narvikban.",
+                  "category": "religious",
+                  "coords": [
+                        17.452573,
+                        68.442826
+                  ]
+            },
+            {
+                  "name": "Ankenes kirke",
+                  "text": "Történelmi templom Narvik Ankenes városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        17.378771,
+                        68.420997
+                  ]
+            },
+            {
+                  "name": "Hålogalandsbrua - Holgolátrovvi",
+                  "text": "A Hålogalandsbrua Norvégia egyik leghosszabb függőhídja.",
+                  "category": "landmark",
+                  "coords": [
+                        17.480943,
+                        68.460372
+                  ]
+            },
+            {
+                  "name": "Isvatnet",
+                  "text": "Az Isvatnet egy tó Narvikban, amelyet lenyűgöző táj vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        17.570722,
+                        68.426332
+                  ]
+            },
+            {
+                  "name": "Forsnesvatnet",
+                  "text": "A Forsnesvatnet Narvikban nyugodt légkört kínál a természet közepén.",
+                  "category": "natural",
+                  "coords": [
+                        17.53584,
+                        68.422932
+                  ]
+            },
+            {
+                  "name": "Førstevatnet",
+                  "text": "A Førstevatnet egy tó Narvikban, ideális egy pihentető szünethez.",
+                  "category": "natural",
+                  "coords": [
+                        17.48144,
+                        68.44561
+                  ]
+            },
+            {
+                  "name": "Pumpvatnet",
+                  "text": "A Pumpvatnet Narvikban egy festői környezetben található vízfelület.",
+                  "category": "natural",
+                  "coords": [
+                        17.527742,
+                        68.442437
+                  ]
+            },
+            {
+                  "name": "Storvatnet - Stuorajávri",
+                  "text": "A Storvatnet - Stuorajávri egy jelentős tó Narvik közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.448174,
+                        68.36048
+                  ]
+            },
+            {
+                  "name": "Silvatnet",
+                  "text": "A Silvatnet Narvikban nyugodt vízparti helyeket kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        17.367653,
+                        68.380441
+                  ]
+            },
+            {
+                  "name": "Nervatnet - Vuollegeašjávri",
+                  "text": "A Nervatnet - Vuollegeašjávri egy tó Narvikban, ideális a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        17.393211,
+                        68.373379
+                  ]
+            },
+            {
+                  "name": "Idrettens Hus",
+                  "text": "Élvezze a frissítő úszást a Idrettens Hus helyszínén Narvik városában.",
+                  "category": "family",
+                  "coords": [
+                        17.418878,
+                        68.44189
+                  ]
+            },
+            {
+                  "name": "Swimming pool for dogs",
+                  "text": "Kutyák számára fenntartott úszómedence Narvik városában.",
+                  "category": "family",
+                  "coords": [
+                        17.431264,
+                        68.427277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone Painting",
+                  "text": "Un sit arheologic cu picturi rupestre istorice în Narvik.",
+                  "category": "historical",
+                  "coords": [
+                        17.429305,
+                        68.445377
+                  ]
+            },
+            {
+                  "name": "Narvik krigsmuseum",
+                  "text": "Un muzeu dedicat istoriei celui de-al Doilea Război Mondial în Narvik.",
+                  "category": "museum",
+                  "coords": [
+                        17.425375,
+                        68.437776
+                  ]
+            },
+            {
+                  "name": "Verdensteateret",
+                  "text": "O clădire culturală și de teatru cu tradiție în Narvik.",
+                  "category": "cultural",
+                  "coords": [
+                        17.431701,
+                        68.438978
+                  ]
+            },
+            {
+                  "name": "Narvik Museum",
+                  "text": "Un muzeu care prezintă istoria orașului și a căii ferate din Narvik.",
+                  "category": "museum",
+                  "coords": [
+                        17.425309,
+                        68.431635
+                  ]
+            },
+            {
+                  "name": "Narvik",
+                  "text": "O atracție populară în orașul Narvik.",
+                  "category": "landmark",
+                  "coords": [
+                        17.426674,
+                        68.43877
+                  ]
+            },
+            {
+                  "name": "Øvre Fjellheisstation",
+                  "text": "Punctul de belvedere Øvre Fjellheisstation se află la înălțime, deasupra orașului norvegian Narvik. De aici, oaspeții pot admira o perspectivă largă asupra așezării și a peisajului natural înconjurător. Este o locație naturală remarcabilă, perfectă pentru fotografii și contemplare.",
+                  "category": "natural",
+                  "coords": [
+                        17.456693,
+                        68.422342
+                  ]
+            },
+            {
+                  "name": "Narvik kulturhus",
+                  "text": "Un centru cultural care găzduiește diverse evenimente artistice în Narvik.",
+                  "category": "cultural",
+                  "coords": [
+                        17.428619,
+                        68.438707
+                  ]
+            },
+            {
+                  "name": "Det gamle posthuset",
+                  "text": "Clădirea istorică a fostei poște din Narvik.",
+                  "category": "landmark",
+                  "coords": [
+                        17.424891,
+                        68.43308
+                  ]
+            },
+            {
+                  "name": "gallerimy",
+                  "text": "O galerie de artă care expune lucrări locale în Narvik.",
+                  "category": "museum",
+                  "coords": [
+                        17.426627,
+                        68.436721
+                  ]
+            },
+            {
+                  "name": "Major Hyldmos Plass",
+                  "text": "Un punct de belvedere în Narvik, numit după maiorul Hyldmo.",
+                  "category": "natural",
+                  "coords": [
+                        17.469047,
+                        68.440276
+                  ]
+            },
+            {
+                  "name": "Minnebauta Ofotbanen 1903",
+                  "text": "Un monument dedicat căii ferate istorice Ofot din 1903, situat în Narvik.",
+                  "category": "historical",
+                  "coords": [
+                        17.443326,
+                        68.441468
+                  ]
+            },
+            {
+                  "name": "Narvik kirke",
+                  "text": "O biserică de piatră care deservește comunitatea din Narvik.",
+                  "category": "religious",
+                  "coords": [
+                        17.413452,
+                        68.439346
+                  ]
+            },
+            {
+                  "name": "Fredskapellet",
+                  "text": "O capelă liniștită în Narvik.",
+                  "category": "religious",
+                  "coords": [
+                        17.452573,
+                        68.442826
+                  ]
+            },
+            {
+                  "name": "Ankenes kirke",
+                  "text": "O biserică istorică situată în zona Ankenes din Narvik.",
+                  "category": "religious",
+                  "coords": [
+                        17.378771,
+                        68.420997
+                  ]
+            },
+            {
+                  "name": "Hålogalandsbrua - Holgolátrovvi",
+                  "text": "Hålogalandsbrua este unul dintre cele mai lungi poduri suspendate din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        17.480943,
+                        68.460372
+                  ]
+            },
+            {
+                  "name": "Isvatnet",
+                  "text": "Isvatnet este un lac din Narvik, înconjurat de un peisaj impresionant.",
+                  "category": "natural",
+                  "coords": [
+                        17.570722,
+                        68.426332
+                  ]
+            },
+            {
+                  "name": "Forsnesvatnet",
+                  "text": "Forsnesvatnet din Narvik oferă o atmosferă pașnică în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.53584,
+                        68.422932
+                  ]
+            },
+            {
+                  "name": "Førstevatnet",
+                  "text": "Førstevatnet este un lac din Narvik, ideal pentru o pauză relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        17.48144,
+                        68.44561
+                  ]
+            },
+            {
+                  "name": "Pumpvatnet",
+                  "text": "Pumpvatnet din Narvik este un corp de apă într-un cadru pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        17.527742,
+                        68.442437
+                  ]
+            },
+            {
+                  "name": "Storvatnet - Stuorajávri",
+                  "text": "Storvatnet - Stuorajávri este un lac important în apropiere de Narvik.",
+                  "category": "natural",
+                  "coords": [
+                        17.448174,
+                        68.36048
+                  ]
+            },
+            {
+                  "name": "Silvatnet",
+                  "text": "Silvatnet din Narvik oferă locuri liniștite pe malul apei pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        17.367653,
+                        68.380441
+                  ]
+            },
+            {
+                  "name": "Nervatnet - Vuollegeašjávri",
+                  "text": "Nervatnet - Vuollegeašjávri este un lac din Narvik, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        17.393211,
+                        68.373379
+                  ]
+            },
+            {
+                  "name": "Idrettens Hus",
+                  "text": "Bucurați-vă de o baie răcoritoare la Idrettens Hus în Narvik.",
+                  "category": "family",
+                  "coords": [
+                        17.418878,
+                        68.44189
+                  ]
+            },
+            {
+                  "name": "Swimming pool for dogs",
+                  "text": "O piscină dedicată câinilor situată în Narvik.",
+                  "category": "family",
+                  "coords": [
+                        17.431264,
+                        68.427277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone Painting",
+                  "text": "An archaeological site featuring historic rock paintings in Narvik.",
+                  "category": "historical",
+                  "coords": [
+                        17.429305,
+                        68.445377
+                  ]
+            },
+            {
+                  "name": "Narvik War Museum",
+                  "text": "A museum dedicated to the history of World War II in Narvik.",
+                  "category": "museum",
+                  "coords": [
+                        17.425375,
+                        68.437776
+                  ]
+            },
+            {
+                  "name": "Verdensteateret",
+                  "text": "A long-standing theater and cultural building in Narvik.",
+                  "category": "cultural",
+                  "coords": [
+                        17.431701,
+                        68.438978
+                  ]
+            },
+            {
+                  "name": "Narvik Museum",
+                  "text": "A museum showcasing the local city and railway history of Narvik.",
+                  "category": "museum",
+                  "coords": [
+                        17.425309,
+                        68.431635
+                  ]
+            },
+            {
+                  "name": "Narvik",
+                  "text": "A popular attraction in the city of Narvik.",
+                  "category": "landmark",
+                  "coords": [
+                        17.426674,
+                        68.43877
+                  ]
+            },
+            {
+                  "name": "Øvre Fjellheisstation",
+                  "text": "The Øvre Fjellheisstation serves as an elevated natural vantage point situated above Narvik in Norway. From this scenic overlook, visitors are treated to expansive views that stretch out over the city and the surrounding terrain. It represents a fantastic destination for anyone seeking to admire the landscape from above.",
+                  "category": "natural",
+                  "coords": [
+                        17.456693,
+                        68.422342
+                  ]
+            },
+            {
+                  "name": "Narvik kulturhus",
+                  "text": "A cultural center hosting various arts events in Narvik.",
+                  "category": "cultural",
+                  "coords": [
+                        17.428619,
+                        68.438707
+                  ]
+            },
+            {
+                  "name": "Det gamle posthuset",
+                  "text": "The historic former post office building in Narvik.",
+                  "category": "landmark",
+                  "coords": [
+                        17.424891,
+                        68.43308
+                  ]
+            },
+            {
+                  "name": "gallerimy",
+                  "text": "An art gallery showcasing local works in Narvik.",
+                  "category": "museum",
+                  "coords": [
+                        17.426627,
+                        68.436721
+                  ]
+            },
+            {
+                  "name": "Major Hyldmos Plass",
+                  "text": "A viewpoint in Narvik named after Major Hyldmo.",
+                  "category": "natural",
+                  "coords": [
+                        17.469047,
+                        68.440276
+                  ]
+            },
+            {
+                  "name": "Commemorative Stone for Ofot railway 1903",
+                  "text": "A monument dedicated to the historic Ofot railway of 1903 in Narvik.",
+                  "category": "historical",
+                  "coords": [
+                        17.443326,
+                        68.441468
+                  ]
+            },
+            {
+                  "name": "Narvik kirke",
+                  "text": "A stone church serving the community of Narvik.",
+                  "category": "religious",
+                  "coords": [
+                        17.413452,
+                        68.439346
+                  ]
+            },
+            {
+                  "name": "Fredskapellet",
+                  "text": "A peaceful place of worship in Narvik.",
+                  "category": "religious",
+                  "coords": [
+                        17.452573,
+                        68.442826
+                  ]
+            },
+            {
+                  "name": "Ankenes kirke",
+                  "text": "A historic church located in the Ankenes area of Narvik.",
+                  "category": "religious",
+                  "coords": [
+                        17.378771,
+                        68.420997
+                  ]
+            },
+            {
+                  "name": "Hålogalandsbrua - Holgolátrovvi",
+                  "text": "The Hålogalandsbrua is one of Norway's longest suspension bridges.",
+                  "category": "landmark",
+                  "coords": [
+                        17.480943,
+                        68.460372
+                  ]
+            },
+            {
+                  "name": "Isvatnet",
+                  "text": "Isvatnet is a lake in Narvik, surrounded by impressive scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.570722,
+                        68.426332
+                  ]
+            },
+            {
+                  "name": "Forsnesvatnet",
+                  "text": "Forsnesvatnet in Narvik offers a peaceful atmosphere in the midst of nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.53584,
+                        68.422932
+                  ]
+            },
+            {
+                  "name": "Førstevatnet",
+                  "text": "Førstevatnet is a lake in Narvik, ideal for a relaxing break.",
+                  "category": "natural",
+                  "coords": [
+                        17.48144,
+                        68.44561
+                  ]
+            },
+            {
+                  "name": "Pumpvatnet",
+                  "text": "Pumpvatnet in Narvik is a body of water in a scenic setting.",
+                  "category": "natural",
+                  "coords": [
+                        17.527742,
+                        68.442437
+                  ]
+            },
+            {
+                  "name": "Storvatnet - Stuorajávri",
+                  "text": "Storvatnet - Stuorajávri is a significant lake near Narvik.",
+                  "category": "natural",
+                  "coords": [
+                        17.448174,
+                        68.36048
+                  ]
+            },
+            {
+                  "name": "Silvatnet",
+                  "text": "Silvatnet in Narvik offers quiet spots by the water for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        17.367653,
+                        68.380441
+                  ]
+            },
+            {
+                  "name": "Nervatnet - Vuollegeašjávri",
+                  "text": "Nervatnet - Vuollegeašjávri is a lake in Narvik, ideal for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        17.393211,
+                        68.373379
+                  ]
+            },
+            {
+                  "name": "Idrettens Hus",
+                  "text": "Enjoy a refreshing swim at Idrettens Hus in Narvik.",
+                  "category": "family",
+                  "coords": [
+                        17.418878,
+                        68.44189
+                  ]
+            },
+            {
+                  "name": "Swimming pool for dogs",
+                  "text": "A dedicated swimming pool for dogs located in Narvik.",
+                  "category": "family",
+                  "coords": [
+                        17.431264,
+                        68.427277
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "norway",
     coords: [17.4272, 68.4385],
@@ -11167,6 +17458,24 @@ export const norwayCities: POI[] = [
                         23.251762,
                         69.964583
                   ]
+            },
+            {
+                  "name": "Nordlysbadet",
+                  "text": "Dieses Schwimmbad in Alta ist ein beliebtes Ziel für Familien, die Wasseraktivitäten suchen.",
+                  "category": "family",
+                  "coords": [
+                        23.269317,
+                        69.965211
+                  ]
+            },
+            {
+                  "name": "Alta Helsebad",
+                  "text": "Dieses öffentliche Bad in Alta bietet eine entspannende Umgebung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        23.277594,
+                        69.968269
+                  ]
             }
       ],
       "hu": [
@@ -11213,6 +17522,24 @@ export const norwayCities: POI[] = [
                   "coords": [
                         23.251762,
                         69.964583
+                  ]
+            },
+            {
+                  "name": "Nordlysbadet",
+                  "text": "Ez az altai úszómedence népszerű célpont a vízi tevékenységeket kereső családok számára.",
+                  "category": "family",
+                  "coords": [
+                        23.269317,
+                        69.965211
+                  ]
+            },
+            {
+                  "name": "Alta Helsebad",
+                  "text": "Ez az altai közfürdő pihentető környezetet kínál a családok közös kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        23.277594,
+                        69.968269
                   ]
             }
       ],
@@ -11261,6 +17588,24 @@ export const norwayCities: POI[] = [
                         23.251762,
                         69.964583
                   ]
+            },
+            {
+                  "name": "Nordlysbadet",
+                  "text": "Această piscină din Alta este o destinație populară pentru familiile care caută activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        23.269317,
+                        69.965211
+                  ]
+            },
+            {
+                  "name": "Alta Helsebad",
+                  "text": "Această baie publică din Alta oferă un mediu relaxant de care familiile se pot bucura împreună.",
+                  "category": "family",
+                  "coords": [
+                        23.277594,
+                        69.968269
+                  ]
             }
       ],
       "en": [
@@ -11307,6 +17652,24 @@ export const norwayCities: POI[] = [
                   "coords": [
                         23.251762,
                         69.964583
+                  ]
+            },
+            {
+                  "name": "Nordlysbadet",
+                  "text": "This swimming pool in Alta is a popular destination for families looking for water activities.",
+                  "category": "family",
+                  "coords": [
+                        23.269317,
+                        69.965211
+                  ]
+            },
+            {
+                  "name": "Alta Helsebad",
+                  "text": "This public bath in Alta offers a relaxing environment for families to enjoy together.",
+                  "category": "family",
+                  "coords": [
+                        23.277594,
+                        69.968269
                   ]
             }
       ]

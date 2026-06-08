@@ -3866,6 +3866,15 @@ export const andorraCities: POI[] = [
                         1.593506,
                         42.600835
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Ordino.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "hu": [
@@ -4002,6 +4011,15 @@ export const andorraCities: POI[] = [
                   "coords": [
                         1.593506,
                         42.600835
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Ordino településen.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ],
@@ -4140,6 +4158,15 @@ export const andorraCities: POI[] = [
                         1.593506,
                         42.600835
                   ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "Un loc pentru înot și recreere acvatică în Ordino.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
+                  ]
             }
       ],
       "en": [
@@ -4276,6 +4303,15 @@ export const andorraCities: POI[] = [
                   "coords": [
                         1.593506,
                         42.600835
+                  ]
+            },
+            {
+                  "name": "Outdoor pool, Hotel Rutllan",
+                  "text": "A place for swimming and water recreation in Ordino.",
+                  "category": "family",
+                  "coords": [
+                        1.513472,
+                        42.547043
                   ]
             }
       ]
@@ -5816,7 +5852,52 @@ export const andorraCities: POI[] = [
     image: "/geo-images/europe/canillo-roc-del-quer-viewpoint.webp"
   },
   {
-    id: "city-sant-julia",
+    id: "city-sant-julia", "sights": {
+      "de": [
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Sant Julia De Loria ist ein Freizeitpark mit Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "A Sant Julia De Loria-i Naturlandia egy vidámpark családi látnivalókkal.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia din Sant Julia De Loria este un parc de distracții cu atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturlandia (cota 1600)",
+                  "text": "Naturlandia in Sant Julia De Loria is a theme park with attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        1.50324,
+                        42.442506
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-andorra",
     coords: [1.4913, 42.4637],

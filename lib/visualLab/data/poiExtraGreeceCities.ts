@@ -3,7 +3,484 @@ import type { POI } from "./poi";
 
 export const poiExtraGreeceCities: POI[] = [
   {
-    id: "city-pygos-extra", "sights": {"de": [{"name": "Dimotiko Moyseio Pyrgoy", "text": "Dieses Museum in Pyrgos zeigt bedeutende archäologische Funde aus der Region Elis.", "category": "museum", "coords": [21.440582, 37.671263]}, {"name": "Anoichto theatraki", "text": "Ein kleines Freilufttheater in Pyrgos für lokale kulturelle Veranstaltungen.", "category": "cultural", "coords": [21.43334, 37.66903]}, {"name": "Theatro Apolon", "text": "Ein historisches neoklassizistisches Theatergebäude im Zentrum von Pyrgos.", "category": "cultural", "coords": [21.439255, 37.672807]}, {"name": "theatraki 4oy Gymnasioy", "text": "Ein lokaler Veranstaltungsort für Theateraufführungen in Pyrgos.", "category": "cultural", "coords": [21.443529, 37.664325]}, {"name": "Laografiko Moyseio Lampetioy", "text": "Ein Museum, das sich der Bewahrung der Volkskunst und Traditionen von Lampeti widmet.", "category": "museum", "coords": [21.451956, 37.682944]}, {"name": "Agalma", "text": "Eine öffentliche Statue in Pyrgos, die eine lokale oder historische Figur darstellt.", "category": "historical", "coords": [21.439124, 37.670888]}, {"name": "I Drachmi", "text": "Ein Denkmal in Pyrgos, das der ehemaligen griechischen Währung, der Drachme, gewidmet ist.", "category": "historical", "coords": [21.43656, 37.671536]}, {"name": "Paidiki Chara", "text": "Der Spielplatz Παιδικη Χαρα in Pyrgos ist der perfekte Ort für Familien, um mit den Kindern eine aktive Zeit zu verbringen.", "category": "family", "coords": [21.434087, 37.67332]}, {"name": "Paidiki gonia", "text": "Auf dem Spielplatz Παιδική γωνιά in Pyrgos können Kinder sicher und unbeschwert spielen.", "category": "family", "coords": [21.424833, 37.668977]}, {"name": "Paidiki chara Veropoyloy", "text": "Der Spielplatz Παιδικη χαρα Βεροπουλου in Pyrgos lädt Familien zu einer fröhlichen Pause ein.", "category": "family", "coords": [21.418696, 37.68384]}, {"name": "Akantoy", "text": "Auf dem Spielplatz Ακαντού in Pyrgos finden Kinder spannende Spielgeräte für vergnügliche Stunden.", "category": "family", "coords": [21.420007, 37.671682]}, {"name": "Paidiki chara Parkoy \"Xystri\"", "text": "Der Spielplatz Παιδική χαρά Πάρκου \"Ξυστρή\" in Pyrgos ist ideal für Familien, die den Park besuchen möchten.", "category": "family", "coords": [21.427456, 37.672726]}], "hu": [{"name": "Dimotiko Moyseio Pyrgoy", "text": "Pürgoszi múzeum, amely Élisz régió jelentős régészeti leleteit mutatja be.", "category": "museum", "coords": [21.440582, 37.671263]}, {"name": "Anoichto theatraki", "text": "Kis szabadtéri színház Pürgoszban helyi kulturális eseményekhez.", "category": "cultural", "coords": [21.43334, 37.66903]}, {"name": "Theatro Apolon", "text": "Történelmi neoklasszicista színházépület Pürgosz központjában.", "category": "cultural", "coords": [21.439255, 37.672807]}, {"name": "theatraki 4oy Gymnasioy", "text": "Színházi előadások helyi helyszíne Pürgoszban.", "category": "cultural", "coords": [21.443529, 37.664325]}, {"name": "Laografiko Moyseio Lampetioy", "text": "Lampeti népművészetének és hagyományainak megőrzésére szakosodott múzeum.", "category": "museum", "coords": [21.451956, 37.682944]}, {"name": "Agalma", "text": "Köztéri szobor Pürgoszban, amely helyi vagy történelmi alakot ábrázol.", "category": "historical", "coords": [21.439124, 37.670888]}, {"name": "I Drachmi", "text": "Emlékmű Pürgoszban, amelyet a korábbi görög pénznemnek, a drachmának szenteltek.", "category": "historical", "coords": [21.43656, 37.671536]}, {"name": "Paidiki Chara", "text": "A Pyrgos városában lévő Παιδικη Χαρα játszótér tökéletes helyszín a családok számára egy aktív kikapcsolódáshoz.", "category": "family", "coords": [21.434087, 37.67332]}, {"name": "Paidiki gonia", "text": "A Pyrgos-ban található Παιδική γωνιά játszótéren a gyerekek biztonságosan és önfeledten játszhatnak.", "category": "family", "coords": [21.424833, 37.668977]}, {"name": "Paidiki chara Veropoyloy", "text": "A Pyrgos-ban lévő Παιδικη χαρα Βεροπουλου játszótér vidám pihenésre hívja a családokat.", "category": "family", "coords": [21.418696, 37.68384]}, {"name": "Akantoy", "text": "A Pyrgos-i Ακαντού játszótéren a gyerekek izgalmas játékokat találhatnak a szórakoztató órákhoz.", "category": "family", "coords": [21.420007, 37.671682]}, {"name": "Paidiki chara Parkoy \"Xystri\"", "text": "A Pyrgos városában található Παιδική χαρά Πάρκου \"Ξυστρή\" ideális a parkba látogató családok számára.", "category": "family", "coords": [21.427456, 37.672726]}], "ro": [{"name": "Dimotiko Moyseio Pyrgoy", "text": "Acest muzeu din Pyrgos expune descoperiri arheologice importante din regiunea Elis.", "category": "museum", "coords": [21.440582, 37.671263]}, {"name": "Anoichto theatraki", "text": "Un mic teatru în aer liber în Pyrgos pentru evenimente culturale locale.", "category": "cultural", "coords": [21.43334, 37.66903]}, {"name": "Theatro Apolon", "text": "O clădire istorică de teatru în stil neoclasic din centrul orașului Pyrgos.", "category": "cultural", "coords": [21.439255, 37.672807]}, {"name": "theatraki 4oy Gymnasioy", "text": "Un loc local pentru spectacole de teatru în Pyrgos.", "category": "cultural", "coords": [21.443529, 37.664325]}, {"name": "Laografiko Moyseio Lampetioy", "text": "Un muzeu dedicat păstrării artei populare și tradițiilor din Lampeti.", "category": "museum", "coords": [21.451956, 37.682944]}, {"name": "Agalma", "text": "O statuie publică din Pyrgos reprezentând o figură locală sau istorică.", "category": "historical", "coords": [21.439124, 37.670888]}, {"name": "I Drachmi", "text": "Un monument din Pyrgos dedicat fostei monede grecești, drahma.", "category": "historical", "coords": [21.43656, 37.671536]}, {"name": "Paidiki Chara", "text": "Locul de joacă Παιδικη Χαρα din Pyrgos este locul perfect pentru ca familiile să petreacă timp activ cu copiii.", "category": "family", "coords": [21.434087, 37.67332]}, {"name": "Paidiki gonia", "text": "La locul de joacă Παιδική γωνιά din Pyrgos, copiii se pot juca în siguranță și fără griji.", "category": "family", "coords": [21.424833, 37.668977]}, {"name": "Paidiki chara Veropoyloy", "text": "Locul de joacă Παιδικη χαρα Βεροπουλου din Pyrgos invită familiile la o pauză plină de veselie.", "category": "family", "coords": [21.418696, 37.68384]}, {"name": "Akantoy", "text": "La locul de joacă Ακαντού din Pyrgos, copiii pot găsi echipamente de joacă captivante pentru ore de distracție.", "category": "family", "coords": [21.420007, 37.671682]}, {"name": "Paidiki chara Parkoy \"Xystri\"", "text": "Locul de joacă Παιδική χαρά Πάρκου \"Ξυστρή\" din Pyrgos este ideal pentru familiile care vizitează parcul.", "category": "family", "coords": [21.427456, 37.672726]}], "en": [{"name": "Archaelogical Museum of Pyrgos", "text": "This museum in Pyrgos displays significant archaeological finds from the Elis region.", "category": "museum", "coords": [21.440582, 37.671263]}, {"name": "Anoichto theatraki", "text": "A small open-air theatre in Pyrgos for local cultural events.", "category": "cultural", "coords": [21.43334, 37.66903]}, {"name": "Theatro Apolon", "text": "A historical neoclassical theatre building in the center of Pyrgos.", "category": "cultural", "coords": [21.439255, 37.672807]}, {"name": "theatraki 4oy Gymnasioy", "text": "A local venue for theatrical performances in Pyrgos.", "category": "cultural", "coords": [21.443529, 37.664325]}, {"name": "Laografiko Moyseio Lampetioy", "text": "A museum dedicated to preserving the folk art and traditions of Lampeti.", "category": "museum", "coords": [21.451956, 37.682944]}, {"name": "Agalma", "text": "A public statue in Pyrgos representing a local or historical figure.", "category": "historical", "coords": [21.439124, 37.670888]}, {"name": "I Drachmi", "text": "A monument in Pyrgos dedicated to the former Greek currency, the drachma.", "category": "historical", "coords": [21.43656, 37.671536]}, {"name": "Paidiki Chara", "text": "The Παιδικη Χαρα playground in Pyrgos is a perfect spot for families to spend active time with their children.", "category": "family", "coords": [21.434087, 37.67332]}, {"name": "Paidiki gonia", "text": "At the Παιδική γωνιά playground in Pyrgos, children can play safely and happily.", "category": "family", "coords": [21.424833, 37.668977]}, {"name": "Paidiki chara Veropoyloy", "text": "The Παιδικη χαρα Βεροπουλου playground in Pyrgos invites families for a cheerful break.", "category": "family", "coords": [21.418696, 37.68384]}, {"name": "Akantoy", "text": "At the Ακαντού playground in Pyrgos, children can find exciting play equipment for hours of fun.", "category": "family", "coords": [21.420007, 37.671682]}, {"name": "Paidiki chara Parkoy \"Xystri\"", "text": "The Παιδική χαρά Πάρκου \"Ξυστρή\" playground in Pyrgos is ideal for families visiting the park.", "category": "family", "coords": [21.427456, 37.672726]}]},
+    id: "city-pygos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Dimotiko Moyseio Pyrgoy",
+                  "text": "Dieses Museum in Pyrgos zeigt bedeutende archäologische Funde aus der Region Elis.",
+                  "category": "museum",
+                  "coords": [
+                        21.440582,
+                        37.671263
+                  ]
+            },
+            {
+                  "name": "Anoichto theatraki",
+                  "text": "Ein kleines Freilufttheater in Pyrgos für lokale kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.43334,
+                        37.66903
+                  ]
+            },
+            {
+                  "name": "Theatro Apolon",
+                  "text": "Ein historisches neoklassizistisches Theatergebäude im Zentrum von Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.439255,
+                        37.672807
+                  ]
+            },
+            {
+                  "name": "theatraki 4oy Gymnasioy",
+                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen in Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.443529,
+                        37.664325
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Lampetioy",
+                  "text": "Ein Museum, das sich der Bewahrung der Volkskunst und Traditionen von Lampeti widmet.",
+                  "category": "museum",
+                  "coords": [
+                        21.451956,
+                        37.682944
+                  ]
+            },
+            {
+                  "name": "Agalma",
+                  "text": "Eine öffentliche Statue in Pyrgos, die eine lokale oder historische Figur darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        21.439124,
+                        37.670888
+                  ]
+            },
+            {
+                  "name": "I Drachmi",
+                  "text": "Ein Denkmal in Pyrgos, das der ehemaligen griechischen Währung, der Drachme, gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.43656,
+                        37.671536
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara",
+                  "text": "Der Spielplatz Παιδικη Χαρα in Pyrgos ist der perfekte Ort für Familien, um mit den Kindern eine aktive Zeit zu verbringen.",
+                  "category": "family",
+                  "coords": [
+                        21.434087,
+                        37.67332
+                  ]
+            },
+            {
+                  "name": "Paidiki gonia",
+                  "text": "Auf dem Spielplatz Παιδική γωνιά in Pyrgos können Kinder sicher und unbeschwert spielen.",
+                  "category": "family",
+                  "coords": [
+                        21.424833,
+                        37.668977
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Veropoyloy",
+                  "text": "Der Spielplatz Παιδικη χαρα Βεροπουλου in Pyrgos lädt Familien zu einer fröhlichen Pause ein.",
+                  "category": "family",
+                  "coords": [
+                        21.418696,
+                        37.68384
+                  ]
+            },
+            {
+                  "name": "Akantoy",
+                  "text": "Auf dem Spielplatz Ακαντού in Pyrgos finden Kinder spannende Spielgeräte für vergnügliche Stunden.",
+                  "category": "family",
+                  "coords": [
+                        21.420007,
+                        37.671682
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Parkoy \"Xystri\"",
+                  "text": "Der Spielplatz Παιδική χαρά Πάρκου \"Ξυστρή\" in Pyrgos ist ideal für Familien, die den Park besuchen möchten.",
+                  "category": "family",
+                  "coords": [
+                        21.427456,
+                        37.672726
+                  ]
+            },
+            {
+                  "name": "Θεματικό Πάρκο Ελληνικής Μυθολογίας",
+                  "text": "Greek Mythology Theme Park in Pyrgos ist ein schönes Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        21.407153,
+                        37.687771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dimotiko Moyseio Pyrgoy",
+                  "text": "Pürgoszi múzeum, amely Élisz régió jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.440582,
+                        37.671263
+                  ]
+            },
+            {
+                  "name": "Anoichto theatraki",
+                  "text": "Kis szabadtéri színház Pürgoszban helyi kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        21.43334,
+                        37.66903
+                  ]
+            },
+            {
+                  "name": "Theatro Apolon",
+                  "text": "Történelmi neoklasszicista színházépület Pürgosz központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        21.439255,
+                        37.672807
+                  ]
+            },
+            {
+                  "name": "theatraki 4oy Gymnasioy",
+                  "text": "Színházi előadások helyi helyszíne Pürgoszban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.443529,
+                        37.664325
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Lampetioy",
+                  "text": "Lampeti népművészetének és hagyományainak megőrzésére szakosodott múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.451956,
+                        37.682944
+                  ]
+            },
+            {
+                  "name": "Agalma",
+                  "text": "Köztéri szobor Pürgoszban, amely helyi vagy történelmi alakot ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        21.439124,
+                        37.670888
+                  ]
+            },
+            {
+                  "name": "I Drachmi",
+                  "text": "Emlékmű Pürgoszban, amelyet a korábbi görög pénznemnek, a drachmának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        21.43656,
+                        37.671536
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara",
+                  "text": "A Pyrgos városában lévő Παιδικη Χαρα játszótér tökéletes helyszín a családok számára egy aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.434087,
+                        37.67332
+                  ]
+            },
+            {
+                  "name": "Paidiki gonia",
+                  "text": "A Pyrgos-ban található Παιδική γωνιά játszótéren a gyerekek biztonságosan és önfeledten játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        21.424833,
+                        37.668977
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Veropoyloy",
+                  "text": "A Pyrgos-ban lévő Παιδικη χαρα Βεροπουλου játszótér vidám pihenésre hívja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        21.418696,
+                        37.68384
+                  ]
+            },
+            {
+                  "name": "Akantoy",
+                  "text": "A Pyrgos-i Ακαντού játszótéren a gyerekek izgalmas játékokat találhatnak a szórakoztató órákhoz.",
+                  "category": "family",
+                  "coords": [
+                        21.420007,
+                        37.671682
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Parkoy \"Xystri\"",
+                  "text": "A Pyrgos városában található Παιδική χαρά Πάρκου \"Ξυστρή\" ideális a parkba látogató családok számára.",
+                  "category": "family",
+                  "coords": [
+                        21.427456,
+                        37.672726
+                  ]
+            },
+            {
+                  "name": "Θεματικό Πάρκο Ελληνικής Μυθολογίας",
+                  "text": "A Pyrgos városában lévő Greek Mythology Theme Park vidám helyszín egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.407153,
+                        37.687771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dimotiko Moyseio Pyrgoy",
+                  "text": "Acest muzeu din Pyrgos expune descoperiri arheologice importante din regiunea Elis.",
+                  "category": "museum",
+                  "coords": [
+                        21.440582,
+                        37.671263
+                  ]
+            },
+            {
+                  "name": "Anoichto theatraki",
+                  "text": "Un mic teatru în aer liber în Pyrgos pentru evenimente culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        21.43334,
+                        37.66903
+                  ]
+            },
+            {
+                  "name": "Theatro Apolon",
+                  "text": "O clădire istorică de teatru în stil neoclasic din centrul orașului Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.439255,
+                        37.672807
+                  ]
+            },
+            {
+                  "name": "theatraki 4oy Gymnasioy",
+                  "text": "Un loc local pentru spectacole de teatru în Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.443529,
+                        37.664325
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Lampetioy",
+                  "text": "Un muzeu dedicat păstrării artei populare și tradițiilor din Lampeti.",
+                  "category": "museum",
+                  "coords": [
+                        21.451956,
+                        37.682944
+                  ]
+            },
+            {
+                  "name": "Agalma",
+                  "text": "O statuie publică din Pyrgos reprezentând o figură locală sau istorică.",
+                  "category": "historical",
+                  "coords": [
+                        21.439124,
+                        37.670888
+                  ]
+            },
+            {
+                  "name": "I Drachmi",
+                  "text": "Un monument din Pyrgos dedicat fostei monede grecești, drahma.",
+                  "category": "historical",
+                  "coords": [
+                        21.43656,
+                        37.671536
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara",
+                  "text": "Locul de joacă Παιδικη Χαρα din Pyrgos este locul perfect pentru ca familiile să petreacă timp activ cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        21.434087,
+                        37.67332
+                  ]
+            },
+            {
+                  "name": "Paidiki gonia",
+                  "text": "La locul de joacă Παιδική γωνιά din Pyrgos, copiii se pot juca în siguranță și fără griji.",
+                  "category": "family",
+                  "coords": [
+                        21.424833,
+                        37.668977
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Veropoyloy",
+                  "text": "Locul de joacă Παιδικη χαρα Βεροπουλου din Pyrgos invită familiile la o pauză plină de veselie.",
+                  "category": "family",
+                  "coords": [
+                        21.418696,
+                        37.68384
+                  ]
+            },
+            {
+                  "name": "Akantoy",
+                  "text": "La locul de joacă Ακαντού din Pyrgos, copiii pot găsi echipamente de joacă captivante pentru ore de distracție.",
+                  "category": "family",
+                  "coords": [
+                        21.420007,
+                        37.671682
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Parkoy \"Xystri\"",
+                  "text": "Locul de joacă Παιδική χαρά Πάρκου \"Ξυστρή\" din Pyrgos este ideal pentru familiile care vizitează parcul.",
+                  "category": "family",
+                  "coords": [
+                        21.427456,
+                        37.672726
+                  ]
+            },
+            {
+                  "name": "Θεματικό Πάρκο Ελληνικής Μυθολογίας",
+                  "text": "Greek Mythology Theme Park din Pyrgos este o destinație distractivă pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        21.407153,
+                        37.687771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaelogical Museum of Pyrgos",
+                  "text": "This museum in Pyrgos displays significant archaeological finds from the Elis region.",
+                  "category": "museum",
+                  "coords": [
+                        21.440582,
+                        37.671263
+                  ]
+            },
+            {
+                  "name": "Anoichto theatraki",
+                  "text": "A small open-air theatre in Pyrgos for local cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        21.43334,
+                        37.66903
+                  ]
+            },
+            {
+                  "name": "Theatro Apolon",
+                  "text": "A historical neoclassical theatre building in the center of Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.439255,
+                        37.672807
+                  ]
+            },
+            {
+                  "name": "theatraki 4oy Gymnasioy",
+                  "text": "A local venue for theatrical performances in Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.443529,
+                        37.664325
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Lampetioy",
+                  "text": "A museum dedicated to preserving the folk art and traditions of Lampeti.",
+                  "category": "museum",
+                  "coords": [
+                        21.451956,
+                        37.682944
+                  ]
+            },
+            {
+                  "name": "Agalma",
+                  "text": "A public statue in Pyrgos representing a local or historical figure.",
+                  "category": "historical",
+                  "coords": [
+                        21.439124,
+                        37.670888
+                  ]
+            },
+            {
+                  "name": "I Drachmi",
+                  "text": "A monument in Pyrgos dedicated to the former Greek currency, the drachma.",
+                  "category": "historical",
+                  "coords": [
+                        21.43656,
+                        37.671536
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara",
+                  "text": "The Παιδικη Χαρα playground in Pyrgos is a perfect spot for families to spend active time with their children.",
+                  "category": "family",
+                  "coords": [
+                        21.434087,
+                        37.67332
+                  ]
+            },
+            {
+                  "name": "Paidiki gonia",
+                  "text": "At the Παιδική γωνιά playground in Pyrgos, children can play safely and happily.",
+                  "category": "family",
+                  "coords": [
+                        21.424833,
+                        37.668977
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Veropoyloy",
+                  "text": "The Παιδικη χαρα Βεροπουλου playground in Pyrgos invites families for a cheerful break.",
+                  "category": "family",
+                  "coords": [
+                        21.418696,
+                        37.68384
+                  ]
+            },
+            {
+                  "name": "Akantoy",
+                  "text": "At the Ακαντού playground in Pyrgos, children can find exciting play equipment for hours of fun.",
+                  "category": "family",
+                  "coords": [
+                        21.420007,
+                        37.671682
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Parkoy \"Xystri\"",
+                  "text": "The Παιδική χαρά Πάρκου \"Ξυστρή\" playground in Pyrgos is ideal for families visiting the park.",
+                  "category": "family",
+                  "coords": [
+                        21.427456,
+                        37.672726
+                  ]
+            },
+            {
+                  "name": "Greek Mythology Theme Park",
+                  "text": "Greek Mythology Theme Park in Pyrgos is a fun destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        21.407153,
+                        37.687771
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-G",
     coords: [21.4404, 37.6753],
@@ -171,7 +648,1420 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Des colons de Mégare fondèrent la ville de Byzance vers 667 av. J.-C.", "L'aqueduc de Théagène, datant du Ve siècle av. J.-C., est encore partiellement visible.", "Mégare possède deux ports sur deux bras de mer différents.", "La ville est l'un des plus grands producteurs d'œufs de toute la Grèce.", "Le philosophe Euclide de Mégare était un disciple important de Socrate.", "Pachi est le pittoresque port de pêche de Mégare surplombant le golfe Saronique."],
     }, image: "/poi-images/city-megara-extra.webp"},
   {
-    id: "city-chalcis-extra", "sights": {"de": [{"name": "Ypsili Gefyra Eyripoy", "text": "Υψηλή Γέφυρα Ευρίπου ist eine markante Brücke in der Stadt Chalkida. Es handelt sich um eine bekannte Schrägseilbrücke über die Euripos-Straße.", "category": "landmark", "coords": [23.590874, 38.444937]}, {"name": "Palaio Archaiologiko Moyseio Chalkidas", "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας ist ein Museum in der Stadt Chalkida.", "category": "museum", "coords": [23.59401, 38.462964]}, {"name": "Laografiko Moyseio Chalkidas", "text": "Λαογραφικό Μουσείο Χαλκίδας ist ein Museum in der Stadt Chalkida.", "category": "museum", "coords": [23.593375, 38.459899]}, {"name": "Kastro Karampampa", "text": "Castle Karampampas ist eine Burg in der Stadt Chalkida.", "category": "castle", "coords": [23.584352, 38.465192]}, {"name": "Sirena of Chalkida", "text": "Die Sirena of Chalkida ist ein Denkmal in der Stadt Chalkida.", "category": "historical", "coords": [23.596686, 38.463314]}, {"name": "Protomi Mitropoliti Nikolaoy Selenti", "text": "Προτομή Μητροπολίτη Νικόλαου Σελέντη ist ein Denkmal in der Stadt Chalkida.", "category": "historical", "coords": [23.594285, 38.465351]}, {"name": "Dimarcheio Chalkidas", "text": "Δημαρχείο Χαλκίδας ist ein Rathaus in der Stadt Chalkida.", "category": "historical", "coords": [23.592638, 38.465053]}, {"name": "Archaiologiko Moyseio Chalkidas «Arethoysa»", "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» ist ein Museum in der Stadt Chalkida.", "category": "museum", "coords": [23.610305, 38.457472]}, {"name": "Kastro Karampampa (Syllogi Glypton)", "text": "Die Festung Karababa beherbergt eine Skulpturensammlung in Chalkida.", "category": "museum", "coords": [23.583184, 38.465288]}, {"name": "Dimotiki Pinakothiki \"Dimitris Mytaras\"", "text": "Die Städtische Kunstgalerie Dimitris Mytaras ist eine kulturelle Einrichtung in Chalkida.", "category": "museum", "coords": [23.590324, 38.460028]}, {"name": "Archaio Gymnasio i Romaiki Palaistra", "text": "Diese archäologische Stätte zeigt die Überreste eines antiken Gymnasiums oder einer römischen Palästra.", "category": "historical", "coords": [23.604558, 38.460752]}, {"name": "Archaia laxeyti klimaka tis Arethoysas", "text": "Die antike, in den Fels gehauene Treppe der Arethusa ist eine bemerkenswerte historische Stätte in Chalkida.", "category": "historical", "coords": [23.613512, 38.453238]}, {"name": "Tafos Gianni Skarimpa", "text": "Dieses Denkmal markiert die Ruhestätte des griechischen Schriftstellers Giannis Skarimpas.", "category": "historical", "coords": [23.585592, 38.464836]}, {"name": "Agalma Lela Karagianni", "text": "Diese Statue ehrt Lela Karagianni, eine herausragende Figur des griechischen Widerstands.", "category": "historical", "coords": [23.592964, 38.466235]}, {"name": "Memorial Torch", "text": "Die Gedenkfackel ist ein öffentliches Denkmal in Chalkida.", "category": "historical", "coords": [23.58977, 38.461888]}, {"name": "Othomaniki Pigi", "text": "Dieser historische osmanische Brunnen ist ein erhaltenes Denkmal aus der Vergangenheit Chalkidas.", "category": "historical", "coords": [23.591376, 38.46147]}, {"name": "Agia Paraskeyi", "text": "Agia Paraskevi ist ein bedeutendes historisches Denkmal und eine Kirche in Chalkida.", "category": "historical", "coords": [23.588794, 38.462858]}, {"name": "Mnimeio Yposminagoy Ioakeim Pantelaki", "text": "Dieses Denkmal ist dem Gedenken an den Oberleutnant Ioakeim Pantelakis gewidmet.", "category": "historical", "coords": [23.591303, 38.474224]}, {"name": "Panteleimon Kriezis", "text": "Dieses Denkmal erinnert an den griechischen Seehelden und Politiker Pantoleon Kriezis.", "category": "historical", "coords": [23.591445, 38.460306]}, {"name": "Osios Dayid", "text": "Dieses Denkmal in Chalkida ist dem verehrten Heiligen David gewidmet.", "category": "historical", "coords": [23.599365, 38.469223]}, {"name": "Protomi toy Sarafianioy K. Sarafianoy", "text": "Diese skulpturale Büste erinnert an Sarafianos K. Sarafianos.", "category": "historical", "coords": [23.596684, 38.464346]}, {"name": "Megaro Lykeioy ton Ellinidon", "text": "Das Gebäude des Lyzeums der griechischen Frauen ist ein anerkanntes historisches Denkmal in Chalkida.", "category": "historical", "coords": [23.594307, 38.468114]}, {"name": "O Tafos toy Mpataria", "text": "Dieses Denkmal markiert das historische Grab von Batarias in Chalkida.", "category": "historical", "coords": [23.603116, 38.454676]}, {"name": "Protomi", "text": "Diese skulpturale Büste ist ein öffentliches Denkmal in Chalkida.", "category": "historical", "coords": [23.598464, 38.464357]}, {"name": "Protomi Theodoroy Kolokotroni", "text": "Dieses Denkmal zeigt eine Büste des berühmten griechischen Generals Theodoros Kolokotronis.", "category": "historical", "coords": [23.609704, 38.471405]}, {"name": "Protomi Mitropoliti Christof.Stamatiadi", "text": "Diese Büste gedenkt des Metropoliten Christoforos Stamatiadis in Chalkida.", "category": "historical", "coords": [23.588325, 38.468895]}, {"name": "Mnimeio Mikrasiatikis Katastrofis 1922", "text": "Dieses Denkmal ist dem Gedenken an die kleinasiatische Katastrophe von 1922 gewidmet.", "category": "historical", "coords": [23.601751, 38.468042]}, {"name": "theatro Kotsopoyloy", "text": "Das Kotsopoulos-Theater bietet kulturelle Aufführungen und Veranstaltungen in Chalkida.", "category": "cultural", "coords": [23.596754, 38.469508]}, {"name": "Theatro Papadimitrioy", "text": "Das Papadimitriou-Theater ist ein zentraler Veranstaltungsort für darstellende Künste in Chalkida.", "category": "cultural", "coords": [23.594119, 38.46113]}, {"name": "Ormos Mikro Vathy", "text": "Ormos Mikro Vathy dient als malerischer Veranstaltungsort an der Bucht in Chalkida.", "category": "cultural", "coords": [23.595819, 38.435549]}, {"name": "Faros \"Kakias Kefalis\"", "text": "Der Leuchtturm Kakia Kefali ist ein historisches Seezeichen für Schiffe in Chalkida.", "category": "landmark", "coords": [23.603713, 38.476658]}, {"name": "Paralia Chalkidas", "text": "Die Promenade von Chalkida ist eine lebhafte Küstenattraktion, die bei Einheimischen und Besuchern beliebt ist.", "category": "landmark", "coords": [23.591106, 38.463803]}, {"name": "Wooden Bridge", "text": "Diese Holzbrücke ist eine malerische Attraktion, die Teile von Chalkida verbindet.", "category": "landmark", "coords": [23.587058, 38.467188]}, {"name": "Xylofanaro", "text": "Die Holzlaterne ist eine einzigartig gestaltete lokale Attraktion in Chalkida.", "category": "landmark", "coords": [23.591685, 38.472876]}, {"name": "Provlita Kyknoy", "text": "Der Kyknos-Pier bietet einen ruhigen Aussichtspunkt über die Gewässer von Chalkida.", "category": "natural", "coords": [23.588655, 38.464651]}, {"name": "Plaz \"Asteria\"", "text": "Plaz Asteria ist ein beliebter Küstenstrand zum Schwimmen und Entspannen in Chalkida.", "category": "recreational", "coords": [23.588182, 38.466392]}, {"name": "Soyvala", "text": "Souvala ist ein entspannender lokaler Strand an der Küste von Chalkida.", "category": "recreational", "coords": [23.595615, 38.468705]}, {"name": "Paralia Faroy", "text": "Der Leuchtturm-Strand bietet einen malerischen Ort am Meer für Besucher in Chalkida.", "category": "recreational", "coords": [23.602951, 38.473927]}], "hu": [{"name": "Ypsili Gefyra Eyripoy", "text": "A Υψηλή Γέφυρα Ευρίπου egy kiemelkedő híd Chalkida városában. Ez egy jól ismert ferdekábeles híd, amely az Euripusz-szoroson ível át.", "category": "landmark", "coords": [23.590874, 38.444937]}, {"name": "Palaio Archaiologiko Moyseio Chalkidas", "text": "A Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας egy múzeum Chalkida városában.", "category": "museum", "coords": [23.59401, 38.462964]}, {"name": "Laografiko Moyseio Chalkidas", "text": "A Λαογραφικό Μουσείο Χαλκίδας egy múzeum Chalkida városában.", "category": "museum", "coords": [23.593375, 38.459899]}, {"name": "Kastro Karampampa", "text": "A Castle Karampampas egy kastély Chalkida városában.", "category": "castle", "coords": [23.584352, 38.465192]}, {"name": "Sirena of Chalkida", "text": "A Sirena of Chalkida egy emlékmű Chalkida városában.", "category": "historical", "coords": [23.596686, 38.463314]}, {"name": "Protomi Mitropoliti Nikolaoy Selenti", "text": "A Προτομή Μητροπολίτη Νικόλαου Σελέντη egy emlékmű Chalkida városában.", "category": "historical", "coords": [23.594285, 38.465351]}, {"name": "Dimarcheio Chalkidas", "text": "A Δημαρχείο Χαλκίδας egy városháza Chalkida városában.", "category": "historical", "coords": [23.592638, 38.465053]}, {"name": "Archaiologiko Moyseio Chalkidas «Arethoysa»", "text": "Az Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» egy múzeum Chalkida városában.", "category": "museum", "coords": [23.610305, 38.457472]}, {"name": "Kastro Karampampa (Syllogi Glypton)", "text": "A Karababa-erőd egy szoborgyűjteménynek ad otthont Halkídában.", "category": "museum", "coords": [23.583184, 38.465288]}, {"name": "Dimotiki Pinakothiki \"Dimitris Mytaras\"", "text": "A Dimitrisz Mytarasz Városi Művészeti Galéria egy kulturális intézmény Halkídában.", "category": "museum", "coords": [23.590324, 38.460028]}, {"name": "Archaio Gymnasio i Romaiki Palaistra", "text": "Ez a régészeti lelőhely egy ókori gümnaszion vagy római palaestra romjait mutatja be.", "category": "historical", "coords": [23.604558, 38.460752]}, {"name": "Archaia laxeyti klimaka tis Arethoysas", "text": "Arethusza ókori, faragott lépcsője egy figyelemre méltó történelmi helyszín Halkídában.", "category": "historical", "coords": [23.613512, 38.453238]}, {"name": "Tafos Gianni Skarimpa", "text": "Ez az emlékmű a görög író, Giannisz Szkarimbasz végső nyughelyét jelöli.", "category": "historical", "coords": [23.585592, 38.464836]}, {"name": "Agalma Lela Karagianni", "text": "Ez a szobor Lela Karajáni, a görög ellenállás kiemelkedő alakja előtt tiszteleg.", "category": "historical", "coords": [23.592964, 38.466235]}, {"name": "Memorial Torch", "text": "Az Emlékláng egy köztéri emlékmű Halkídában.", "category": "historical", "coords": [23.58977, 38.461888]}, {"name": "Othomaniki Pigi", "text": "Ez a történelmi oszmán kút egy fennmaradt műemlék Halkída múltjából.", "category": "historical", "coords": [23.591376, 38.46147]}, {"name": "Agia Paraskeyi", "text": "Az Agia Paraszkevi egy jelentős történelmi műemlék és templom Halkídában.", "category": "historical", "coords": [23.588794, 38.462858]}, {"name": "Mnimeio Yposminagoy Ioakeim Pantelaki", "text": "Ezt az emlékművet Joakim Pantelakisz repülő főhadnagy emlékének szentelték.", "category": "historical", "coords": [23.591303, 38.474224]}, {"name": "Panteleimon Kriezis", "text": "Ez az emlékmű a görög tengerészeti hős és politikus, Pantoleon Kriezisz emléke előtt tiszteleg.", "category": "historical", "coords": [23.591445, 38.460306]}, {"name": "Osios Dayid", "text": "Ez a halkídai emlékmű a tiszteletreméltó Szent Dávidnak van szentelve.", "category": "historical", "coords": [23.599365, 38.469223]}, {"name": "Protomi toy Sarafianioy K. Sarafianoy", "text": "Ez a szobor Szarafianosz K. Szarafianosz emléke előtt tiszteleg.", "category": "historical", "coords": [23.596684, 38.464346]}, {"name": "Megaro Lykeioy ton Ellinidon", "text": "A Görög Nők Líceumi Klubjának épülete egy elismert történelmi műemlék Halkídában.", "category": "historical", "coords": [23.594307, 38.468114]}, {"name": "O Tafos toy Mpataria", "text": "Ez az emlékmű a történelmi Batariasz-sírt jelöli Halkídában.", "category": "historical", "coords": [23.603116, 38.454676]}, {"name": "Protomi", "text": "Ez a faragott mellszobor egy köztéri emlékmű Halkídában.", "category": "historical", "coords": [23.598464, 38.464357]}, {"name": "Protomi Theodoroy Kolokotroni", "text": "Ez az emlékmű a híres görög tábornok, Theodorosz Kolokotronisz mellszobrát ábrázolja.", "category": "historical", "coords": [23.609704, 38.471405]}, {"name": "Protomi Mitropoliti Christof.Stamatiadi", "text": "Ez a mellszobor Hrisztoforosz Sztamatiadisz metropolita emléke előtt tiszteleg Halkídában.", "category": "historical", "coords": [23.588325, 38.468895]}, {"name": "Mnimeio Mikrasiatikis Katastrofis 1922", "text": "Ezt az emlékművet az 1922-es kisázsiai katasztrófa emlékének szentelték.", "category": "historical", "coords": [23.601751, 38.468042]}, {"name": "theatro Kotsopoyloy", "text": "A Kotszopulosz Színház kulturális előadásokat és rendezvényeket kínál Halkídában.", "category": "cultural", "coords": [23.596754, 38.469508]}, {"name": "Theatro Papadimitrioy", "text": "A Papadimitriu Színház az előadóművészetek központi helyszíne Halkídában.", "category": "cultural", "coords": [23.594119, 38.46113]}, {"name": "Ormos Mikro Vathy", "text": "Az Ormosz Mikro Vathi egy festői rendezvényhelyszínként szolgál a halkídai öbölben.", "category": "cultural", "coords": [23.595819, 38.435549]}, {"name": "Faros \"Kakias Kefalis\"", "text": "A Kakia Kefali világítótorony egy történelmi tengerészeti jelzőfény, amely hajókat irányít Halkídában.", "category": "landmark", "coords": [23.603713, 38.476658]}, {"name": "Paralia Chalkidas", "text": "A halkídai sétány egy nyüzsgő tengerparti látványosság, amely népszerű a helyiek és a látogatók körében.", "category": "landmark", "coords": [23.591106, 38.463803]}, {"name": "Wooden Bridge", "text": "Ez a fahíd egy festői látványosság, amely Halkída részeit köti össze.", "category": "landmark", "coords": [23.587058, 38.467188]}, {"name": "Xylofanaro", "text": "A Falámpa egy egyedi tervezésű helyi látványosság Halkídában.", "category": "landmark", "coords": [23.591685, 38.472876]}, {"name": "Provlita Kyknoy", "text": "A Kiknosz móló nyugodt kilátást nyújt Halkída vizeire.", "category": "natural", "coords": [23.588655, 38.464651]}, {"name": "Plaz \"Asteria\"", "text": "A Plaz Asteria egy népszerű tengerparti strand fürdőzéshez és pihenéshez Halkídában.", "category": "recreational", "coords": [23.588182, 38.466392]}, {"name": "Soyvala", "text": "A Szouvala egy pihentető helyi strand, amely Halkída partvidékén fekszik.", "category": "recreational", "coords": [23.595615, 38.468705]}, {"name": "Paralia Faroy", "text": "A Világítótorony-strand festői tengerparti helyszínt kínál a látogatóknak Halkídában.", "category": "recreational", "coords": [23.602951, 38.473927]}], "ro": [{"name": "Ypsili Gefyra Eyripoy", "text": "Υψηλή Γέφυρα Ευρίπου este un pod proeminent situat în Chalkida. Este un pod hobanat bine-cunoscut care traversează strâmtoarea Euripus.", "category": "landmark", "coords": [23.590874, 38.444937]}, {"name": "Palaio Archaiologiko Moyseio Chalkidas", "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας este un muzeu situat în orașul Chalkida.", "category": "museum", "coords": [23.59401, 38.462964]}, {"name": "Laografiko Moyseio Chalkidas", "text": "Λαογραφικό Μουσείο Χαλκίδας este un muzeu situat în orașul Chalkida.", "category": "museum", "coords": [23.593375, 38.459899]}, {"name": "Kastro Karampampa", "text": "Castle Karampampas este un castel situat în orașul Chalkida.", "category": "castle", "coords": [23.584352, 38.465192]}, {"name": "Sirena of Chalkida", "text": "Sirena of Chalkida este un monument situat în orașul Chalkida.", "category": "historical", "coords": [23.596686, 38.463314]}, {"name": "Protomi Mitropoliti Nikolaoy Selenti", "text": "Προτομή Μητροπολίτη Νικόλαου Σελέντη este un monument situat în orașul Chalkida.", "category": "historical", "coords": [23.594285, 38.465351]}, {"name": "Dimarcheio Chalkidas", "text": "Δημαρχείο Χαλκίδας este o primărie situată în orașul Chalkida.", "category": "historical", "coords": [23.592638, 38.465053]}, {"name": "Archaiologiko Moyseio Chalkidas «Arethoysa»", "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» este un muzeu situat în orașul Chalkida.", "category": "museum", "coords": [23.610305, 38.457472]}, {"name": "Kastro Karampampa (Syllogi Glypton)", "text": "Castelul Karababa găzduiește o colecție de sculpturi în Chalkida.", "category": "museum", "coords": [23.583184, 38.465288]}, {"name": "Dimotiki Pinakothiki \"Dimitris Mytaras\"", "text": "Galeria de Artă Municipală Dimitris Mytaras este o instituție culturală din Chalkida.", "category": "museum", "coords": [23.590324, 38.460028]}, {"name": "Archaio Gymnasio i Romaiki Palaistra", "text": "Acest sit arheologic prezintă ruinele unui vechi gimnaziu sau ale unei palestre romane.", "category": "historical", "coords": [23.604558, 38.460752]}, {"name": "Archaia laxeyti klimaka tis Arethoysas", "text": "Scara antică sculptată din Arethusa este un sit istoric notabil din Chalkida.", "category": "historical", "coords": [23.613512, 38.453238]}, {"name": "Tafos Gianni Skarimpa", "text": "Acest monument marchează locul de veci al scriitorului grec Giannis Skarimpas.", "category": "historical", "coords": [23.585592, 38.464836]}, {"name": "Agalma Lela Karagianni", "text": "Această statuie o onorează pe Lela Karagianni, o figură proeminentă a rezistenței elene.", "category": "historical", "coords": [23.592964, 38.466235]}, {"name": "Memorial Torch", "text": "Torța Memorială este un monument public comemorativ situat în Chalkida.", "category": "historical", "coords": [23.58977, 38.461888]}, {"name": "Othomaniki Pigi", "text": "Această fântână otomană istorică este un monument care a supraviețuit din trecutul orașului Chalkida.", "category": "historical", "coords": [23.591376, 38.46147]}, {"name": "Agia Paraskeyi", "text": "Agia Paraskevi este un monument istoric și o biserică importantă din Chalkida.", "category": "historical", "coords": [23.588794, 38.462858]}, {"name": "Mnimeio Yposminagoy Ioakeim Pantelaki", "text": "Acest monument este dedicat memoriei locotenentului de aviație Ioakeim Pantelakis.", "category": "historical", "coords": [23.591303, 38.474224]}, {"name": "Panteleimon Kriezis", "text": "Acest monument îl comemorează pe eroul naval și politicianul grec Pantoleon Kriezis.", "category": "historical", "coords": [23.591445, 38.460306]}, {"name": "Osios Dayid", "text": "Acest monument din Chalkida este dedicat veneratului Sfânt David.", "category": "historical", "coords": [23.599365, 38.469223]}, {"name": "Protomi toy Sarafianioy K. Sarafianoy", "text": "Acest bust sculptural îl comemorează pe Sarafianos K. Sarafianos.", "category": "historical", "coords": [23.596684, 38.464346]}, {"name": "Megaro Lykeioy ton Ellinidon", "text": "Clădirea Clubului Liceului Femeilor Elene este un monument istoric recunoscut din Chalkida.", "category": "historical", "coords": [23.594307, 38.468114]}, {"name": "O Tafos toy Mpataria", "text": "Acest monument marchează mormântul istoric al lui Batarias din Chalkida.", "category": "historical", "coords": [23.603116, 38.454676]}, {"name": "Protomi", "text": "Acest bust sculptural este un monument public situat în Chalkida.", "category": "historical", "coords": [23.598464, 38.464357]}, {"name": "Protomi Theodoroy Kolokotroni", "text": "Acest monument prezintă un bust al celebrului general grec Theodoros Kolokotronis.", "category": "historical", "coords": [23.609704, 38.471405]}, {"name": "Protomi Mitropoliti Christof.Stamatiadi", "text": "Acest bust îl comemorează pe Mitropolitul Christoforos Stamatiadis în Chalkida.", "category": "historical", "coords": [23.588325, 38.468895]}, {"name": "Mnimeio Mikrasiatikis Katastrofis 1922", "text": "Acest monument este dedicat memoriei Dezastrului din Asia Mică din 1922.", "category": "historical", "coords": [23.601751, 38.468042]}, {"name": "theatro Kotsopoyloy", "text": "Teatrul Kotsopoulos oferă spectacole și evenimente culturale în Chalkida.", "category": "cultural", "coords": [23.596754, 38.469508]}, {"name": "Theatro Papadimitrioy", "text": "Teatrul Papadimitriou este un loc central pentru artele spectacolului în Chalkida.", "category": "cultural", "coords": [23.594119, 38.46113]}, {"name": "Ormos Mikro Vathy", "text": "Ormos Mikro Vathy servește ca un loc pitoresc pentru evenimente lângă golful din Chalkida.", "category": "cultural", "coords": [23.595819, 38.435549]}, {"name": "Faros \"Kakias Kefalis\"", "text": "Farul Kakia Kefali este un far maritim istoric care ghidează navele din Chalkida.", "category": "landmark", "coords": [23.603713, 38.476658]}, {"name": "Paralia Chalkidas", "text": "Faleza din Chalkida este o atracție de coastă plină de viață, populară printre localnici și vizitatori.", "category": "landmark", "coords": [23.591106, 38.463803]}, {"name": "Wooden Bridge", "text": "Această punte din lemn este o atracție pitorească ce conectează părți din Chalkida.", "category": "landmark", "coords": [23.587058, 38.467188]}, {"name": "Xylofanaro", "text": "Lanterna de Lemn este o atracție locală cu un design unic în Chalkida.", "category": "landmark", "coords": [23.591685, 38.472876]}, {"name": "Provlita Kyknoy", "text": "Debarcaderul Kyknos oferă un punct de belvedere liniștit asupra apelor din Chalkida.", "category": "natural", "coords": [23.588655, 38.464651]}, {"name": "Plaz \"Asteria\"", "text": "Plaz Asteria este o plajă de coastă populară pentru înot și relaxare în Chalkida.", "category": "recreational", "coords": [23.588182, 38.466392]}, {"name": "Soyvala", "text": "Souvala este o plajă locală relaxantă situată de-a lungul coastei din Chalkida.", "category": "recreational", "coords": [23.595615, 38.468705]}, {"name": "Paralia Faroy", "text": "Plaja Farului oferă un loc pitoresc la malul mării pentru vizitatorii din Chalkida.", "category": "recreational", "coords": [23.602951, 38.473927]}], "en": [{"name": "Ypsili Gefyra Eyripoy", "text": "Υψηλή Γέφυρα Ευρίπου is a prominent bridge located in Chalkida. It is a well-known cable-stayed bridge that crosses the Euripus Strait.", "category": "landmark", "coords": [23.590874, 38.444937]}, {"name": "Palaio Archaiologiko Moyseio Chalkidas", "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας is a museum located in the city of Chalkida.", "category": "museum", "coords": [23.59401, 38.462964]}, {"name": "Laografiko Moyseio Chalkidas", "text": "Λαογραφικό Μουσείο Χαλκίδας is a museum located in the city of Chalkida.", "category": "museum", "coords": [23.593375, 38.459899]}, {"name": "Castle Karampampas", "text": "Castle Karampampas is a castle located in the city of Chalkida.", "category": "castle", "coords": [23.584352, 38.465192]}, {"name": "Sirena of Chalkida", "text": "The Sirena of Chalkida is a monument located in the city of Chalkida.", "category": "historical", "coords": [23.596686, 38.463314]}, {"name": "Protomi Mitropoliti Nikolaoy Selenti", "text": "Προτομή Μητροπολίτη Νικόλαου Σελέντη is a monument located in the city of Chalkida.", "category": "historical", "coords": [23.594285, 38.465351]}, {"name": "Dimarcheio Chalkidas", "text": "Δημαρχείο Χαλκίδας is a town hall located in the city of Chalkida.", "category": "historical", "coords": [23.592638, 38.465053]}, {"name": "Archaiologiko Moyseio Chalkidas «Arethoysa»", "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» is a museum located in the city of Chalkida.", "category": "museum", "coords": [23.610305, 38.457472]}, {"name": "Karababa Castle (Sculpture Collection)", "text": "Karababa Castle houses a sculpture collection in Chalkida.", "category": "museum", "coords": [23.583184, 38.465288]}, {"name": "Dimotiki Pinakothiki \"Dimitris Mytaras\"", "text": "The Dimitris Mytaras Municipal Art Gallery is a cultural institution in Chalkida.", "category": "museum", "coords": [23.590324, 38.460028]}, {"name": "Archaio Gymnasio i Romaiki Palaistra", "text": "This archaeological site features the remains of an ancient gymnasium or Roman palaestra.", "category": "historical", "coords": [23.604558, 38.460752]}, {"name": "Archaia laxeyti klimaka tis Arethoysas", "text": "The ancient carved staircase of Arethusa is a notable historical site in Chalkida.", "category": "historical", "coords": [23.613512, 38.453238]}, {"name": "Tafos Gianni Skarimpa", "text": "This monument marks the resting place of the Greek writer Giannis Skarimpas.", "category": "historical", "coords": [23.585592, 38.464836]}, {"name": "Agalma Lela Karagianni", "text": "This statue honors Lela Karagianni, a prominent figure in the Greek resistance.", "category": "historical", "coords": [23.592964, 38.466235]}, {"name": "Memorial Torch", "text": "The Memorial Torch is a commemorative public monument located in Chalkida.", "category": "historical", "coords": [23.58977, 38.461888]}, {"name": "Othomaniki Pigi", "text": "This historic Ottoman fountain is a surviving monument from Chalkida's past.", "category": "historical", "coords": [23.591376, 38.46147]}, {"name": "Agia Paraskeyi", "text": "Agia Paraskevi is a significant historical monument and church in Chalkida.", "category": "historical", "coords": [23.588794, 38.462858]}, {"name": "Mnimeio Yposminagoy Ioakeim Pantelaki", "text": "This monument is dedicated to the memory of Flight Lieutenant Ioakeim Pantelakis.", "category": "historical", "coords": [23.591303, 38.474224]}, {"name": "Panteleimon Kriezis", "text": "This monument commemorates the Greek naval hero and politician Pantoleon Kriezis.", "category": "historical", "coords": [23.591445, 38.460306]}, {"name": "Osios Dayid", "text": "This monument in Chalkida is dedicated to the revered Saint David.", "category": "historical", "coords": [23.599365, 38.469223]}, {"name": "Protomi toy Sarafianioy K. Sarafianoy", "text": "This sculptural bust commemorates Sarafianos K. Sarafianos.", "category": "historical", "coords": [23.596684, 38.464346]}, {"name": "Megaro Lykeioy ton Ellinidon", "text": "The Lyceum Club of Greek Women building is a recognized historic monument in Chalkida.", "category": "historical", "coords": [23.594307, 38.468114]}, {"name": "O Tafos toy Mpataria", "text": "This monument marks the historic tomb of Batarias in Chalkida.", "category": "historical", "coords": [23.603116, 38.454676]}, {"name": "Protomi", "text": "This sculptural bust is a public monument located in Chalkida.", "category": "historical", "coords": [23.598464, 38.464357]}, {"name": "Protomi Theodoroy Kolokotroni", "text": "This monument features a bust of the famous Greek general Theodoros Kolokotronis.", "category": "historical", "coords": [23.609704, 38.471405]}, {"name": "Protomi Mitropoliti Christof.Stamatiadi", "text": "This bust commemorates Metropolitan Christoforos Stamatiadis in Chalkida.", "category": "historical", "coords": [23.588325, 38.468895]}, {"name": "Mnimeio Mikrasiatikis Katastrofis 1922", "text": "This monument is dedicated to the memory of the 1922 Asia Minor Disaster.", "category": "historical", "coords": [23.601751, 38.468042]}, {"name": "theatro Kotsopoyloy", "text": "The Kotsopoulos Theatre offers cultural performances and events in Chalkida.", "category": "cultural", "coords": [23.596754, 38.469508]}, {"name": "Theatro Papadimitrioy", "text": "The Papadimitriou Theatre is a central venue for performing arts in Chalkida.", "category": "cultural", "coords": [23.594119, 38.46113]}, {"name": "Ormos Mikro Vathy", "text": "Ormos Mikro Vathy serves as a scenic venue for events by the bay in Chalkida.", "category": "cultural", "coords": [23.595819, 38.435549]}, {"name": "Faros \"Kakias Kefalis\"", "text": "The Kakia Kefali Lighthouse is a historic maritime beacon guiding ships in Chalkida.", "category": "landmark", "coords": [23.603713, 38.476658]}, {"name": "Paralia Chalkidas", "text": "The Chalkida Promenade is a lively coastal attraction popular with locals and visitors.", "category": "landmark", "coords": [23.591106, 38.463803]}, {"name": "Wooden Bridge", "text": "This wooden bridge is a picturesque attraction connecting parts of Chalkida.", "category": "landmark", "coords": [23.587058, 38.467188]}, {"name": "Xylofanaro", "text": "The Wooden Lantern is a uniquely designed local attraction in Chalkida.", "category": "landmark", "coords": [23.591685, 38.472876]}, {"name": "Provlita Kyknoy", "text": "The Kyknos Pier provides a tranquil viewpoint over the waters of Chalkida.", "category": "natural", "coords": [23.588655, 38.464651]}, {"name": "Plaz \"Asteria\"", "text": "Plaz Asteria is a popular coastal beach for swimming and relaxation in Chalkida.", "category": "recreational", "coords": [23.588182, 38.466392]}, {"name": "Souvala", "text": "Souvala is a relaxing local beach situated along the coast of Chalkida.", "category": "recreational", "coords": [23.595615, 38.468705]}, {"name": "Paralia Faroy", "text": "Lighthouse Beach offers a scenic seaside spot for visitors in Chalkida.", "category": "recreational", "coords": [23.602951, 38.473927]}]},
+    id: "city-chalcis-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ypsili Gefyra Eyripoy",
+                  "text": "Υψηλή Γέφυρα Ευρίπου ist eine markante Brücke in der Stadt Chalkida. Es handelt sich um eine bekannte Schrägseilbrücke über die Euripos-Straße.",
+                  "category": "landmark",
+                  "coords": [
+                        23.590874,
+                        38.444937
+                  ]
+            },
+            {
+                  "name": "Palaio Archaiologiko Moyseio Chalkidas",
+                  "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας ist ein Museum in der Stadt Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.59401,
+                        38.462964
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Chalkidas",
+                  "text": "Λαογραφικό Μουσείο Χαλκίδας ist ein Museum in der Stadt Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.593375,
+                        38.459899
+                  ]
+            },
+            {
+                  "name": "Kastro Karampampa",
+                  "text": "Castle Karampampas ist eine Burg in der Stadt Chalkida.",
+                  "category": "castle",
+                  "coords": [
+                        23.584352,
+                        38.465192
+                  ]
+            },
+            {
+                  "name": "Sirena of Chalkida",
+                  "text": "Die Sirena of Chalkida ist ein Denkmal in der Stadt Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.596686,
+                        38.463314
+                  ]
+            },
+            {
+                  "name": "Protomi Mitropoliti Nikolaoy Selenti",
+                  "text": "Προτομή Μητροπολίτη Νικόλαου Σελέντη ist ein Denkmal in der Stadt Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594285,
+                        38.465351
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Chalkidas",
+                  "text": "Δημαρχείο Χαλκίδας ist ein Rathaus in der Stadt Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.592638,
+                        38.465053
+                  ]
+            },
+            {
+                  "name": "Archaiologiko Moyseio Chalkidas «Arethoysa»",
+                  "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» ist ein Museum in der Stadt Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.610305,
+                        38.457472
+                  ]
+            },
+            {
+                  "name": "Kastro Karampampa (Syllogi Glypton)",
+                  "text": "Die Festung Karababa beherbergt eine Skulpturensammlung in Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.583184,
+                        38.465288
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki \"Dimitris Mytaras\"",
+                  "text": "Die Städtische Kunstgalerie Dimitris Mytaras ist eine kulturelle Einrichtung in Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.590324,
+                        38.460028
+                  ]
+            },
+            {
+                  "name": "Archaio Gymnasio i Romaiki Palaistra",
+                  "text": "Diese archäologische Stätte zeigt die Überreste eines antiken Gymnasiums oder einer römischen Palästra.",
+                  "category": "historical",
+                  "coords": [
+                        23.604558,
+                        38.460752
+                  ]
+            },
+            {
+                  "name": "Archaia laxeyti klimaka tis Arethoysas",
+                  "text": "Die antike, in den Fels gehauene Treppe der Arethusa ist eine bemerkenswerte historische Stätte in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.613512,
+                        38.453238
+                  ]
+            },
+            {
+                  "name": "Tafos Gianni Skarimpa",
+                  "text": "Dieses Denkmal markiert die Ruhestätte des griechischen Schriftstellers Giannis Skarimpas.",
+                  "category": "historical",
+                  "coords": [
+                        23.585592,
+                        38.464836
+                  ]
+            },
+            {
+                  "name": "Agalma Lela Karagianni",
+                  "text": "Diese Statue ehrt Lela Karagianni, eine herausragende Figur des griechischen Widerstands.",
+                  "category": "historical",
+                  "coords": [
+                        23.592964,
+                        38.466235
+                  ]
+            },
+            {
+                  "name": "Memorial Torch",
+                  "text": "Die Gedenkfackel ist ein öffentliches Denkmal in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.58977,
+                        38.461888
+                  ]
+            },
+            {
+                  "name": "Othomaniki Pigi",
+                  "text": "Dieser historische osmanische Brunnen ist ein erhaltenes Denkmal aus der Vergangenheit Chalkidas.",
+                  "category": "historical",
+                  "coords": [
+                        23.591376,
+                        38.46147
+                  ]
+            },
+            {
+                  "name": "Agia Paraskeyi",
+                  "text": "Agia Paraskevi ist ein bedeutendes historisches Denkmal und eine Kirche in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588794,
+                        38.462858
+                  ]
+            },
+            {
+                  "name": "Mnimeio Yposminagoy Ioakeim Pantelaki",
+                  "text": "Dieses Denkmal ist dem Gedenken an den Oberleutnant Ioakeim Pantelakis gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        23.591303,
+                        38.474224
+                  ]
+            },
+            {
+                  "name": "Panteleimon Kriezis",
+                  "text": "Dieses Denkmal erinnert an den griechischen Seehelden und Politiker Pantoleon Kriezis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591445,
+                        38.460306
+                  ]
+            },
+            {
+                  "name": "Osios Dayid",
+                  "text": "Dieses Denkmal in Chalkida ist dem verehrten Heiligen David gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        23.599365,
+                        38.469223
+                  ]
+            },
+            {
+                  "name": "Protomi toy Sarafianioy K. Sarafianoy",
+                  "text": "Diese skulpturale Büste erinnert an Sarafianos K. Sarafianos.",
+                  "category": "historical",
+                  "coords": [
+                        23.596684,
+                        38.464346
+                  ]
+            },
+            {
+                  "name": "Megaro Lykeioy ton Ellinidon",
+                  "text": "Das Gebäude des Lyzeums der griechischen Frauen ist ein anerkanntes historisches Denkmal in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594307,
+                        38.468114
+                  ]
+            },
+            {
+                  "name": "O Tafos toy Mpataria",
+                  "text": "Dieses Denkmal markiert das historische Grab von Batarias in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.603116,
+                        38.454676
+                  ]
+            },
+            {
+                  "name": "Protomi",
+                  "text": "Diese skulpturale Büste ist ein öffentliches Denkmal in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.598464,
+                        38.464357
+                  ]
+            },
+            {
+                  "name": "Protomi Theodoroy Kolokotroni",
+                  "text": "Dieses Denkmal zeigt eine Büste des berühmten griechischen Generals Theodoros Kolokotronis.",
+                  "category": "historical",
+                  "coords": [
+                        23.609704,
+                        38.471405
+                  ]
+            },
+            {
+                  "name": "Protomi Mitropoliti Christof.Stamatiadi",
+                  "text": "Diese Büste gedenkt des Metropoliten Christoforos Stamatiadis in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588325,
+                        38.468895
+                  ]
+            },
+            {
+                  "name": "Mnimeio Mikrasiatikis Katastrofis 1922",
+                  "text": "Dieses Denkmal ist dem Gedenken an die kleinasiatische Katastrophe von 1922 gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        23.601751,
+                        38.468042
+                  ]
+            },
+            {
+                  "name": "theatro Kotsopoyloy",
+                  "text": "Das Kotsopoulos-Theater bietet kulturelle Aufführungen und Veranstaltungen in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.596754,
+                        38.469508
+                  ]
+            },
+            {
+                  "name": "Theatro Papadimitrioy",
+                  "text": "Das Papadimitriou-Theater ist ein zentraler Veranstaltungsort für darstellende Künste in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.594119,
+                        38.46113
+                  ]
+            },
+            {
+                  "name": "Ormos Mikro Vathy",
+                  "text": "Ormos Mikro Vathy dient als malerischer Veranstaltungsort an der Bucht in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.595819,
+                        38.435549
+                  ]
+            },
+            {
+                  "name": "Faros \"Kakias Kefalis\"",
+                  "text": "Der Leuchtturm Kakia Kefali ist ein historisches Seezeichen für Schiffe in Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.603713,
+                        38.476658
+                  ]
+            },
+            {
+                  "name": "Paralia Chalkidas",
+                  "text": "Die Promenade von Chalkida ist eine lebhafte Küstenattraktion, die bei Einheimischen und Besuchern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591106,
+                        38.463803
+                  ]
+            },
+            {
+                  "name": "Wooden Bridge",
+                  "text": "Diese Holzbrücke ist eine malerische Attraktion, die Teile von Chalkida verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587058,
+                        38.467188
+                  ]
+            },
+            {
+                  "name": "Xylofanaro",
+                  "text": "Die Holzlaterne ist eine einzigartig gestaltete lokale Attraktion in Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591685,
+                        38.472876
+                  ]
+            },
+            {
+                  "name": "Provlita Kyknoy",
+                  "text": "Der Kyknos-Pier bietet einen ruhigen Aussichtspunkt über die Gewässer von Chalkida.",
+                  "category": "natural",
+                  "coords": [
+                        23.588655,
+                        38.464651
+                  ]
+            },
+            {
+                  "name": "Plaz \"Asteria\"",
+                  "text": "Plaz Asteria ist ein beliebter Küstenstrand zum Schwimmen und Entspannen in Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588182,
+                        38.466392
+                  ]
+            },
+            {
+                  "name": "Soyvala",
+                  "text": "Souvala ist ein entspannender lokaler Strand an der Küste von Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.595615,
+                        38.468705
+                  ]
+            },
+            {
+                  "name": "Paralia Faroy",
+                  "text": "Der Leuchtturm-Strand bietet einen malerischen Ort am Meer für Besucher in Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.602951,
+                        38.473927
+                  ]
+            },
+            {
+                  "name": "Πάρκο Κυκλοφοριακής Αγωγής",
+                  "text": "Ein Verkehrserziehungspark in Chalcis, der Kindern spielerisch Verkehrsregeln vermittelt.",
+                  "category": "family",
+                  "coords": [
+                        23.606222,
+                        38.456651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ypsili Gefyra Eyripoy",
+                  "text": "A Υψηλή Γέφυρα Ευρίπου egy kiemelkedő híd Chalkida városában. Ez egy jól ismert ferdekábeles híd, amely az Euripusz-szoroson ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        23.590874,
+                        38.444937
+                  ]
+            },
+            {
+                  "name": "Palaio Archaiologiko Moyseio Chalkidas",
+                  "text": "A Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας egy múzeum Chalkida városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.59401,
+                        38.462964
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Chalkidas",
+                  "text": "A Λαογραφικό Μουσείο Χαλκίδας egy múzeum Chalkida városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.593375,
+                        38.459899
+                  ]
+            },
+            {
+                  "name": "Kastro Karampampa",
+                  "text": "A Castle Karampampas egy kastély Chalkida városában.",
+                  "category": "castle",
+                  "coords": [
+                        23.584352,
+                        38.465192
+                  ]
+            },
+            {
+                  "name": "Sirena of Chalkida",
+                  "text": "A Sirena of Chalkida egy emlékmű Chalkida városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.596686,
+                        38.463314
+                  ]
+            },
+            {
+                  "name": "Protomi Mitropoliti Nikolaoy Selenti",
+                  "text": "A Προτομή Μητροπολίτη Νικόλαου Σελέντη egy emlékmű Chalkida városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.594285,
+                        38.465351
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Chalkidas",
+                  "text": "A Δημαρχείο Χαλκίδας egy városháza Chalkida városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.592638,
+                        38.465053
+                  ]
+            },
+            {
+                  "name": "Archaiologiko Moyseio Chalkidas «Arethoysa»",
+                  "text": "Az Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» egy múzeum Chalkida városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.610305,
+                        38.457472
+                  ]
+            },
+            {
+                  "name": "Kastro Karampampa (Syllogi Glypton)",
+                  "text": "A Karababa-erőd egy szoborgyűjteménynek ad otthont Halkídában.",
+                  "category": "museum",
+                  "coords": [
+                        23.583184,
+                        38.465288
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki \"Dimitris Mytaras\"",
+                  "text": "A Dimitrisz Mytarasz Városi Művészeti Galéria egy kulturális intézmény Halkídában.",
+                  "category": "museum",
+                  "coords": [
+                        23.590324,
+                        38.460028
+                  ]
+            },
+            {
+                  "name": "Archaio Gymnasio i Romaiki Palaistra",
+                  "text": "Ez a régészeti lelőhely egy ókori gümnaszion vagy római palaestra romjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        23.604558,
+                        38.460752
+                  ]
+            },
+            {
+                  "name": "Archaia laxeyti klimaka tis Arethoysas",
+                  "text": "Arethusza ókori, faragott lépcsője egy figyelemre méltó történelmi helyszín Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.613512,
+                        38.453238
+                  ]
+            },
+            {
+                  "name": "Tafos Gianni Skarimpa",
+                  "text": "Ez az emlékmű a görög író, Giannisz Szkarimbasz végső nyughelyét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        23.585592,
+                        38.464836
+                  ]
+            },
+            {
+                  "name": "Agalma Lela Karagianni",
+                  "text": "Ez a szobor Lela Karajáni, a görög ellenállás kiemelkedő alakja előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        23.592964,
+                        38.466235
+                  ]
+            },
+            {
+                  "name": "Memorial Torch",
+                  "text": "Az Emlékláng egy köztéri emlékmű Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.58977,
+                        38.461888
+                  ]
+            },
+            {
+                  "name": "Othomaniki Pigi",
+                  "text": "Ez a történelmi oszmán kút egy fennmaradt műemlék Halkída múltjából.",
+                  "category": "historical",
+                  "coords": [
+                        23.591376,
+                        38.46147
+                  ]
+            },
+            {
+                  "name": "Agia Paraskeyi",
+                  "text": "Az Agia Paraszkevi egy jelentős történelmi műemlék és templom Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.588794,
+                        38.462858
+                  ]
+            },
+            {
+                  "name": "Mnimeio Yposminagoy Ioakeim Pantelaki",
+                  "text": "Ezt az emlékművet Joakim Pantelakisz repülő főhadnagy emlékének szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        23.591303,
+                        38.474224
+                  ]
+            },
+            {
+                  "name": "Panteleimon Kriezis",
+                  "text": "Ez az emlékmű a görög tengerészeti hős és politikus, Pantoleon Kriezisz emléke előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        23.591445,
+                        38.460306
+                  ]
+            },
+            {
+                  "name": "Osios Dayid",
+                  "text": "Ez a halkídai emlékmű a tiszteletreméltó Szent Dávidnak van szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        23.599365,
+                        38.469223
+                  ]
+            },
+            {
+                  "name": "Protomi toy Sarafianioy K. Sarafianoy",
+                  "text": "Ez a szobor Szarafianosz K. Szarafianosz emléke előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        23.596684,
+                        38.464346
+                  ]
+            },
+            {
+                  "name": "Megaro Lykeioy ton Ellinidon",
+                  "text": "A Görög Nők Líceumi Klubjának épülete egy elismert történelmi műemlék Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.594307,
+                        38.468114
+                  ]
+            },
+            {
+                  "name": "O Tafos toy Mpataria",
+                  "text": "Ez az emlékmű a történelmi Batariasz-sírt jelöli Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.603116,
+                        38.454676
+                  ]
+            },
+            {
+                  "name": "Protomi",
+                  "text": "Ez a faragott mellszobor egy köztéri emlékmű Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.598464,
+                        38.464357
+                  ]
+            },
+            {
+                  "name": "Protomi Theodoroy Kolokotroni",
+                  "text": "Ez az emlékmű a híres görög tábornok, Theodorosz Kolokotronisz mellszobrát ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        23.609704,
+                        38.471405
+                  ]
+            },
+            {
+                  "name": "Protomi Mitropoliti Christof.Stamatiadi",
+                  "text": "Ez a mellszobor Hrisztoforosz Sztamatiadisz metropolita emléke előtt tiszteleg Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.588325,
+                        38.468895
+                  ]
+            },
+            {
+                  "name": "Mnimeio Mikrasiatikis Katastrofis 1922",
+                  "text": "Ezt az emlékművet az 1922-es kisázsiai katasztrófa emlékének szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        23.601751,
+                        38.468042
+                  ]
+            },
+            {
+                  "name": "theatro Kotsopoyloy",
+                  "text": "A Kotszopulosz Színház kulturális előadásokat és rendezvényeket kínál Halkídában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.596754,
+                        38.469508
+                  ]
+            },
+            {
+                  "name": "Theatro Papadimitrioy",
+                  "text": "A Papadimitriu Színház az előadóművészetek központi helyszíne Halkídában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.594119,
+                        38.46113
+                  ]
+            },
+            {
+                  "name": "Ormos Mikro Vathy",
+                  "text": "Az Ormosz Mikro Vathi egy festői rendezvényhelyszínként szolgál a halkídai öbölben.",
+                  "category": "cultural",
+                  "coords": [
+                        23.595819,
+                        38.435549
+                  ]
+            },
+            {
+                  "name": "Faros \"Kakias Kefalis\"",
+                  "text": "A Kakia Kefali világítótorony egy történelmi tengerészeti jelzőfény, amely hajókat irányít Halkídában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.603713,
+                        38.476658
+                  ]
+            },
+            {
+                  "name": "Paralia Chalkidas",
+                  "text": "A halkídai sétány egy nyüzsgő tengerparti látványosság, amely népszerű a helyiek és a látogatók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591106,
+                        38.463803
+                  ]
+            },
+            {
+                  "name": "Wooden Bridge",
+                  "text": "Ez a fahíd egy festői látványosság, amely Halkída részeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587058,
+                        38.467188
+                  ]
+            },
+            {
+                  "name": "Xylofanaro",
+                  "text": "A Falámpa egy egyedi tervezésű helyi látványosság Halkídában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591685,
+                        38.472876
+                  ]
+            },
+            {
+                  "name": "Provlita Kyknoy",
+                  "text": "A Kiknosz móló nyugodt kilátást nyújt Halkída vizeire.",
+                  "category": "natural",
+                  "coords": [
+                        23.588655,
+                        38.464651
+                  ]
+            },
+            {
+                  "name": "Plaz \"Asteria\"",
+                  "text": "A Plaz Asteria egy népszerű tengerparti strand fürdőzéshez és pihenéshez Halkídában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588182,
+                        38.466392
+                  ]
+            },
+            {
+                  "name": "Soyvala",
+                  "text": "A Szouvala egy pihentető helyi strand, amely Halkída partvidékén fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        23.595615,
+                        38.468705
+                  ]
+            },
+            {
+                  "name": "Paralia Faroy",
+                  "text": "A Világítótorony-strand festői tengerparti helyszínt kínál a látogatóknak Halkídában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.602951,
+                        38.473927
+                  ]
+            },
+            {
+                  "name": "Πάρκο Κυκλοφοριακής Αγωγής",
+                  "text": "Közlekedési park Kalkiszban, ahol a gyerekek játékosan tanulhatják meg a közlekedési szabályokat.",
+                  "category": "family",
+                  "coords": [
+                        23.606222,
+                        38.456651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ypsili Gefyra Eyripoy",
+                  "text": "Υψηλή Γέφυρα Ευρίπου este un pod proeminent situat în Chalkida. Este un pod hobanat bine-cunoscut care traversează strâmtoarea Euripus.",
+                  "category": "landmark",
+                  "coords": [
+                        23.590874,
+                        38.444937
+                  ]
+            },
+            {
+                  "name": "Palaio Archaiologiko Moyseio Chalkidas",
+                  "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας este un muzeu situat în orașul Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.59401,
+                        38.462964
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Chalkidas",
+                  "text": "Λαογραφικό Μουσείο Χαλκίδας este un muzeu situat în orașul Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.593375,
+                        38.459899
+                  ]
+            },
+            {
+                  "name": "Kastro Karampampa",
+                  "text": "Castle Karampampas este un castel situat în orașul Chalkida.",
+                  "category": "castle",
+                  "coords": [
+                        23.584352,
+                        38.465192
+                  ]
+            },
+            {
+                  "name": "Sirena of Chalkida",
+                  "text": "Sirena of Chalkida este un monument situat în orașul Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.596686,
+                        38.463314
+                  ]
+            },
+            {
+                  "name": "Protomi Mitropoliti Nikolaoy Selenti",
+                  "text": "Προτομή Μητροπολίτη Νικόλαου Σελέντη este un monument situat în orașul Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594285,
+                        38.465351
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Chalkidas",
+                  "text": "Δημαρχείο Χαλκίδας este o primărie situată în orașul Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.592638,
+                        38.465053
+                  ]
+            },
+            {
+                  "name": "Archaiologiko Moyseio Chalkidas «Arethoysa»",
+                  "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» este un muzeu situat în orașul Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.610305,
+                        38.457472
+                  ]
+            },
+            {
+                  "name": "Kastro Karampampa (Syllogi Glypton)",
+                  "text": "Castelul Karababa găzduiește o colecție de sculpturi în Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.583184,
+                        38.465288
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki \"Dimitris Mytaras\"",
+                  "text": "Galeria de Artă Municipală Dimitris Mytaras este o instituție culturală din Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.590324,
+                        38.460028
+                  ]
+            },
+            {
+                  "name": "Archaio Gymnasio i Romaiki Palaistra",
+                  "text": "Acest sit arheologic prezintă ruinele unui vechi gimnaziu sau ale unei palestre romane.",
+                  "category": "historical",
+                  "coords": [
+                        23.604558,
+                        38.460752
+                  ]
+            },
+            {
+                  "name": "Archaia laxeyti klimaka tis Arethoysas",
+                  "text": "Scara antică sculptată din Arethusa este un sit istoric notabil din Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.613512,
+                        38.453238
+                  ]
+            },
+            {
+                  "name": "Tafos Gianni Skarimpa",
+                  "text": "Acest monument marchează locul de veci al scriitorului grec Giannis Skarimpas.",
+                  "category": "historical",
+                  "coords": [
+                        23.585592,
+                        38.464836
+                  ]
+            },
+            {
+                  "name": "Agalma Lela Karagianni",
+                  "text": "Această statuie o onorează pe Lela Karagianni, o figură proeminentă a rezistenței elene.",
+                  "category": "historical",
+                  "coords": [
+                        23.592964,
+                        38.466235
+                  ]
+            },
+            {
+                  "name": "Memorial Torch",
+                  "text": "Torța Memorială este un monument public comemorativ situat în Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.58977,
+                        38.461888
+                  ]
+            },
+            {
+                  "name": "Othomaniki Pigi",
+                  "text": "Această fântână otomană istorică este un monument care a supraviețuit din trecutul orașului Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.591376,
+                        38.46147
+                  ]
+            },
+            {
+                  "name": "Agia Paraskeyi",
+                  "text": "Agia Paraskevi este un monument istoric și o biserică importantă din Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588794,
+                        38.462858
+                  ]
+            },
+            {
+                  "name": "Mnimeio Yposminagoy Ioakeim Pantelaki",
+                  "text": "Acest monument este dedicat memoriei locotenentului de aviație Ioakeim Pantelakis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591303,
+                        38.474224
+                  ]
+            },
+            {
+                  "name": "Panteleimon Kriezis",
+                  "text": "Acest monument îl comemorează pe eroul naval și politicianul grec Pantoleon Kriezis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591445,
+                        38.460306
+                  ]
+            },
+            {
+                  "name": "Osios Dayid",
+                  "text": "Acest monument din Chalkida este dedicat veneratului Sfânt David.",
+                  "category": "historical",
+                  "coords": [
+                        23.599365,
+                        38.469223
+                  ]
+            },
+            {
+                  "name": "Protomi toy Sarafianioy K. Sarafianoy",
+                  "text": "Acest bust sculptural îl comemorează pe Sarafianos K. Sarafianos.",
+                  "category": "historical",
+                  "coords": [
+                        23.596684,
+                        38.464346
+                  ]
+            },
+            {
+                  "name": "Megaro Lykeioy ton Ellinidon",
+                  "text": "Clădirea Clubului Liceului Femeilor Elene este un monument istoric recunoscut din Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594307,
+                        38.468114
+                  ]
+            },
+            {
+                  "name": "O Tafos toy Mpataria",
+                  "text": "Acest monument marchează mormântul istoric al lui Batarias din Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.603116,
+                        38.454676
+                  ]
+            },
+            {
+                  "name": "Protomi",
+                  "text": "Acest bust sculptural este un monument public situat în Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.598464,
+                        38.464357
+                  ]
+            },
+            {
+                  "name": "Protomi Theodoroy Kolokotroni",
+                  "text": "Acest monument prezintă un bust al celebrului general grec Theodoros Kolokotronis.",
+                  "category": "historical",
+                  "coords": [
+                        23.609704,
+                        38.471405
+                  ]
+            },
+            {
+                  "name": "Protomi Mitropoliti Christof.Stamatiadi",
+                  "text": "Acest bust îl comemorează pe Mitropolitul Christoforos Stamatiadis în Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588325,
+                        38.468895
+                  ]
+            },
+            {
+                  "name": "Mnimeio Mikrasiatikis Katastrofis 1922",
+                  "text": "Acest monument este dedicat memoriei Dezastrului din Asia Mică din 1922.",
+                  "category": "historical",
+                  "coords": [
+                        23.601751,
+                        38.468042
+                  ]
+            },
+            {
+                  "name": "theatro Kotsopoyloy",
+                  "text": "Teatrul Kotsopoulos oferă spectacole și evenimente culturale în Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.596754,
+                        38.469508
+                  ]
+            },
+            {
+                  "name": "Theatro Papadimitrioy",
+                  "text": "Teatrul Papadimitriou este un loc central pentru artele spectacolului în Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.594119,
+                        38.46113
+                  ]
+            },
+            {
+                  "name": "Ormos Mikro Vathy",
+                  "text": "Ormos Mikro Vathy servește ca un loc pitoresc pentru evenimente lângă golful din Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.595819,
+                        38.435549
+                  ]
+            },
+            {
+                  "name": "Faros \"Kakias Kefalis\"",
+                  "text": "Farul Kakia Kefali este un far maritim istoric care ghidează navele din Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.603713,
+                        38.476658
+                  ]
+            },
+            {
+                  "name": "Paralia Chalkidas",
+                  "text": "Faleza din Chalkida este o atracție de coastă plină de viață, populară printre localnici și vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591106,
+                        38.463803
+                  ]
+            },
+            {
+                  "name": "Wooden Bridge",
+                  "text": "Această punte din lemn este o atracție pitorească ce conectează părți din Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587058,
+                        38.467188
+                  ]
+            },
+            {
+                  "name": "Xylofanaro",
+                  "text": "Lanterna de Lemn este o atracție locală cu un design unic în Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591685,
+                        38.472876
+                  ]
+            },
+            {
+                  "name": "Provlita Kyknoy",
+                  "text": "Debarcaderul Kyknos oferă un punct de belvedere liniștit asupra apelor din Chalkida.",
+                  "category": "natural",
+                  "coords": [
+                        23.588655,
+                        38.464651
+                  ]
+            },
+            {
+                  "name": "Plaz \"Asteria\"",
+                  "text": "Plaz Asteria este o plajă de coastă populară pentru înot și relaxare în Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588182,
+                        38.466392
+                  ]
+            },
+            {
+                  "name": "Soyvala",
+                  "text": "Souvala este o plajă locală relaxantă situată de-a lungul coastei din Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.595615,
+                        38.468705
+                  ]
+            },
+            {
+                  "name": "Paralia Faroy",
+                  "text": "Plaja Farului oferă un loc pitoresc la malul mării pentru vizitatorii din Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.602951,
+                        38.473927
+                  ]
+            },
+            {
+                  "name": "Πάρκο Κυκλοφοριακής Αγωγής",
+                  "text": "Un parc de educație rutieră în Chalcis, unde copiii învață regulile de circulație prin joc.",
+                  "category": "family",
+                  "coords": [
+                        23.606222,
+                        38.456651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ypsili Gefyra Eyripoy",
+                  "text": "Υψηλή Γέφυρα Ευρίπου is a prominent bridge located in Chalkida. It is a well-known cable-stayed bridge that crosses the Euripus Strait.",
+                  "category": "landmark",
+                  "coords": [
+                        23.590874,
+                        38.444937
+                  ]
+            },
+            {
+                  "name": "Palaio Archaiologiko Moyseio Chalkidas",
+                  "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας is a museum located in the city of Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.59401,
+                        38.462964
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio Chalkidas",
+                  "text": "Λαογραφικό Μουσείο Χαλκίδας is a museum located in the city of Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.593375,
+                        38.459899
+                  ]
+            },
+            {
+                  "name": "Castle Karampampas",
+                  "text": "Castle Karampampas is a castle located in the city of Chalkida.",
+                  "category": "castle",
+                  "coords": [
+                        23.584352,
+                        38.465192
+                  ]
+            },
+            {
+                  "name": "Sirena of Chalkida",
+                  "text": "The Sirena of Chalkida is a monument located in the city of Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.596686,
+                        38.463314
+                  ]
+            },
+            {
+                  "name": "Protomi Mitropoliti Nikolaoy Selenti",
+                  "text": "Προτομή Μητροπολίτη Νικόλαου Σελέντη is a monument located in the city of Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594285,
+                        38.465351
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Chalkidas",
+                  "text": "Δημαρχείο Χαλκίδας is a town hall located in the city of Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.592638,
+                        38.465053
+                  ]
+            },
+            {
+                  "name": "Archaiologiko Moyseio Chalkidas «Arethoysa»",
+                  "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» is a museum located in the city of Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.610305,
+                        38.457472
+                  ]
+            },
+            {
+                  "name": "Karababa Castle (Sculpture Collection)",
+                  "text": "Karababa Castle houses a sculpture collection in Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.583184,
+                        38.465288
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki \"Dimitris Mytaras\"",
+                  "text": "The Dimitris Mytaras Municipal Art Gallery is a cultural institution in Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.590324,
+                        38.460028
+                  ]
+            },
+            {
+                  "name": "Archaio Gymnasio i Romaiki Palaistra",
+                  "text": "This archaeological site features the remains of an ancient gymnasium or Roman palaestra.",
+                  "category": "historical",
+                  "coords": [
+                        23.604558,
+                        38.460752
+                  ]
+            },
+            {
+                  "name": "Archaia laxeyti klimaka tis Arethoysas",
+                  "text": "The ancient carved staircase of Arethusa is a notable historical site in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.613512,
+                        38.453238
+                  ]
+            },
+            {
+                  "name": "Tafos Gianni Skarimpa",
+                  "text": "This monument marks the resting place of the Greek writer Giannis Skarimpas.",
+                  "category": "historical",
+                  "coords": [
+                        23.585592,
+                        38.464836
+                  ]
+            },
+            {
+                  "name": "Agalma Lela Karagianni",
+                  "text": "This statue honors Lela Karagianni, a prominent figure in the Greek resistance.",
+                  "category": "historical",
+                  "coords": [
+                        23.592964,
+                        38.466235
+                  ]
+            },
+            {
+                  "name": "Memorial Torch",
+                  "text": "The Memorial Torch is a commemorative public monument located in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.58977,
+                        38.461888
+                  ]
+            },
+            {
+                  "name": "Othomaniki Pigi",
+                  "text": "This historic Ottoman fountain is a surviving monument from Chalkida's past.",
+                  "category": "historical",
+                  "coords": [
+                        23.591376,
+                        38.46147
+                  ]
+            },
+            {
+                  "name": "Agia Paraskeyi",
+                  "text": "Agia Paraskevi is a significant historical monument and church in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588794,
+                        38.462858
+                  ]
+            },
+            {
+                  "name": "Mnimeio Yposminagoy Ioakeim Pantelaki",
+                  "text": "This monument is dedicated to the memory of Flight Lieutenant Ioakeim Pantelakis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591303,
+                        38.474224
+                  ]
+            },
+            {
+                  "name": "Panteleimon Kriezis",
+                  "text": "This monument commemorates the Greek naval hero and politician Pantoleon Kriezis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591445,
+                        38.460306
+                  ]
+            },
+            {
+                  "name": "Osios Dayid",
+                  "text": "This monument in Chalkida is dedicated to the revered Saint David.",
+                  "category": "historical",
+                  "coords": [
+                        23.599365,
+                        38.469223
+                  ]
+            },
+            {
+                  "name": "Protomi toy Sarafianioy K. Sarafianoy",
+                  "text": "This sculptural bust commemorates Sarafianos K. Sarafianos.",
+                  "category": "historical",
+                  "coords": [
+                        23.596684,
+                        38.464346
+                  ]
+            },
+            {
+                  "name": "Megaro Lykeioy ton Ellinidon",
+                  "text": "The Lyceum Club of Greek Women building is a recognized historic monument in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594307,
+                        38.468114
+                  ]
+            },
+            {
+                  "name": "O Tafos toy Mpataria",
+                  "text": "This monument marks the historic tomb of Batarias in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.603116,
+                        38.454676
+                  ]
+            },
+            {
+                  "name": "Protomi",
+                  "text": "This sculptural bust is a public monument located in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.598464,
+                        38.464357
+                  ]
+            },
+            {
+                  "name": "Protomi Theodoroy Kolokotroni",
+                  "text": "This monument features a bust of the famous Greek general Theodoros Kolokotronis.",
+                  "category": "historical",
+                  "coords": [
+                        23.609704,
+                        38.471405
+                  ]
+            },
+            {
+                  "name": "Protomi Mitropoliti Christof.Stamatiadi",
+                  "text": "This bust commemorates Metropolitan Christoforos Stamatiadis in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588325,
+                        38.468895
+                  ]
+            },
+            {
+                  "name": "Mnimeio Mikrasiatikis Katastrofis 1922",
+                  "text": "This monument is dedicated to the memory of the 1922 Asia Minor Disaster.",
+                  "category": "historical",
+                  "coords": [
+                        23.601751,
+                        38.468042
+                  ]
+            },
+            {
+                  "name": "theatro Kotsopoyloy",
+                  "text": "The Kotsopoulos Theatre offers cultural performances and events in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.596754,
+                        38.469508
+                  ]
+            },
+            {
+                  "name": "Theatro Papadimitrioy",
+                  "text": "The Papadimitriou Theatre is a central venue for performing arts in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.594119,
+                        38.46113
+                  ]
+            },
+            {
+                  "name": "Ormos Mikro Vathy",
+                  "text": "Ormos Mikro Vathy serves as a scenic venue for events by the bay in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.595819,
+                        38.435549
+                  ]
+            },
+            {
+                  "name": "Faros \"Kakias Kefalis\"",
+                  "text": "The Kakia Kefali Lighthouse is a historic maritime beacon guiding ships in Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.603713,
+                        38.476658
+                  ]
+            },
+            {
+                  "name": "Paralia Chalkidas",
+                  "text": "The Chalkida Promenade is a lively coastal attraction popular with locals and visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591106,
+                        38.463803
+                  ]
+            },
+            {
+                  "name": "Wooden Bridge",
+                  "text": "This wooden bridge is a picturesque attraction connecting parts of Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587058,
+                        38.467188
+                  ]
+            },
+            {
+                  "name": "Xylofanaro",
+                  "text": "The Wooden Lantern is a uniquely designed local attraction in Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591685,
+                        38.472876
+                  ]
+            },
+            {
+                  "name": "Provlita Kyknoy",
+                  "text": "The Kyknos Pier provides a tranquil viewpoint over the waters of Chalkida.",
+                  "category": "natural",
+                  "coords": [
+                        23.588655,
+                        38.464651
+                  ]
+            },
+            {
+                  "name": "Plaz \"Asteria\"",
+                  "text": "Plaz Asteria is a popular coastal beach for swimming and relaxation in Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588182,
+                        38.466392
+                  ]
+            },
+            {
+                  "name": "Souvala",
+                  "text": "Souvala is a relaxing local beach situated along the coast of Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.595615,
+                        38.468705
+                  ]
+            },
+            {
+                  "name": "Paralia Faroy",
+                  "text": "Lighthouse Beach offers a scenic seaside spot for visitors in Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.602951,
+                        38.473927
+                  ]
+            },
+            {
+                  "name": "Πάρκο Κυκλοφοριακής Αγωγής",
+                  "text": "A traffic education park in Chalcis where children can learn traffic rules through play.",
+                  "category": "family",
+                  "coords": [
+                        23.606222,
+                        38.456651
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-H",
     coords: [23.5960, 38.4626],
@@ -339,7 +2229,196 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le château de Lamia a été construit sur les fondations de l'ancienne acropole.", "La guerre lamiaque fut la dernière tentative majeure des Grecs pour secouer la domination macédonienne.", "Lamia se trouve à seulement 15 kilomètres au nord du célèbre champ de bataille des Thermopyles.", "La ville doit son nom à Lamia, fille de Poséidon dans la mythologie grecque.", "En 1833, Lamia fit partie du Royaume de Grèce nouvellement créé.", "Le monument d'Athanasios Diakos sur la place Eleftherias commémore un héros de la révolution."],
     }, image: "/poi-images/city-lamia-extra.webp"},
   {
-    id: "city-karditsa-extra", "sights": {"de": [{"name": "Archaiologko Moyseio Karditsas", "text": "Archäologisches Museum von Karditsa mit Exponaten aus der Region.", "category": "museum", "coords": [21.918211, 39.363175]}, {"name": "Dimotiko Kinimatotheatro", "text": "Städtisches Kino und Theater in der Stadt Karditsa.", "category": "cultural", "coords": [21.922434, 39.365983]}, {"name": "Ieros Naos Zoodochoy Pigis", "text": "Orthodoxe Kirche Zoodochou Pigis im Viertel Kaminades in Karditsa.", "category": "religious", "coords": [21.927115, 39.369232]}, {"name": "Paidiki chara Paysilypoy", "text": "Der Spielplatz am Pausilypo-Park in Karditsa ist ein schöner Treffpunkt für Kinder.", "category": "family", "coords": [21.928347, 39.365006]}], "hu": [{"name": "Archaiologko Moyseio Karditsas", "text": "Karditsza régészeti múzeuma a környék leleteivel.", "category": "museum", "coords": [21.918211, 39.363175]}, {"name": "Dimotiko Kinimatotheatro", "text": "Városi mozi és színház Karditsza városában.", "category": "cultural", "coords": [21.922434, 39.365983]}, {"name": "Ieros Naos Zoodochoy Pigis", "text": "Zoodochou Pigis ortodox templom Karditsza Kaminades negyedében.", "category": "religious", "coords": [21.927115, 39.369232]}, {"name": "Paidiki chara Paysilypoy", "text": "A karditsai Pausilypo-park játszótere kellemes találkozóhely a gyerekeknek.", "category": "family", "coords": [21.928347, 39.365006]}], "ro": [{"name": "Archaiologko Moyseio Karditsas", "text": "Muzeul arheologic din Karditsa, care prezintă exponate din regiune.", "category": "museum", "coords": [21.918211, 39.363175]}, {"name": "Dimotiko Kinimatotheatro", "text": "Cinematograf și teatru municipal din orașul Karditsa.", "category": "cultural", "coords": [21.922434, 39.365983]}, {"name": "Ieros Naos Zoodochoy Pigis", "text": "Biserica ortodoxă Zoodochou Pigis din cartierul Kaminades, Karditsa.", "category": "religious", "coords": [21.927115, 39.369232]}, {"name": "Paidiki chara Paysilypoy", "text": "Locul de joacă din parcul Pausilypo din Karditsa este un loc de întâlnire frumos pentru copii.", "category": "family", "coords": [21.928347, 39.365006]}], "en": [{"name": "Archaiologko Moyseio Karditsas", "text": "Archaeological Museum of Karditsa, featuring exhibits from the local region.", "category": "museum", "coords": [21.918211, 39.363175]}, {"name": "Dimotiko Kinimatotheatro", "text": "Municipal cinema and theatre located in the city of Karditsa.", "category": "cultural", "coords": [21.922434, 39.365983]}, {"name": "Church of Zoodochou Pigis Kaminadon", "text": "Zoodochou Pigis Orthodox church in the Kaminades district of Karditsa.", "category": "religious", "coords": [21.927115, 39.369232]}, {"name": "Paidiki chara Paysilypoy", "text": "The playground at Pausilypo Park in Karditsa is a nice meeting place for children.", "category": "family", "coords": [21.928347, 39.365006]}]},
+    id: "city-karditsa-extra", "sights": {
+      "de": [
+            {
+                  "name": "Archaiologko Moyseio Karditsas",
+                  "text": "Archäologisches Museum von Karditsa mit Exponaten aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        21.918211,
+                        39.363175
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kinimatotheatro",
+                  "text": "Städtisches Kino und Theater in der Stadt Karditsa.",
+                  "category": "cultural",
+                  "coords": [
+                        21.922434,
+                        39.365983
+                  ]
+            },
+            {
+                  "name": "Ieros Naos Zoodochoy Pigis",
+                  "text": "Orthodoxe Kirche Zoodochou Pigis im Viertel Kaminades in Karditsa.",
+                  "category": "religious",
+                  "coords": [
+                        21.927115,
+                        39.369232
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Paysilypoy",
+                  "text": "Der Spielplatz am Pausilypo-Park in Karditsa ist ein schöner Treffpunkt für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        21.928347,
+                        39.365006
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο Καρδίτσας",
+                  "text": "Municipal Swimming Pool in Karditsa bietet Platz zum Schwimmen und für Wasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        21.934589,
+                        39.361402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaiologko Moyseio Karditsas",
+                  "text": "Karditsza régészeti múzeuma a környék leleteivel.",
+                  "category": "museum",
+                  "coords": [
+                        21.918211,
+                        39.363175
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kinimatotheatro",
+                  "text": "Városi mozi és színház Karditsza városában.",
+                  "category": "cultural",
+                  "coords": [
+                        21.922434,
+                        39.365983
+                  ]
+            },
+            {
+                  "name": "Ieros Naos Zoodochoy Pigis",
+                  "text": "Zoodochou Pigis ortodox templom Karditsza Kaminades negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        21.927115,
+                        39.369232
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Paysilypoy",
+                  "text": "A karditsai Pausilypo-park játszótere kellemes találkozóhely a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.928347,
+                        39.365006
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο Καρδίτσας",
+                  "text": "A(z) Municipal Swimming Pool Karditsa településen úszási és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        21.934589,
+                        39.361402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaiologko Moyseio Karditsas",
+                  "text": "Muzeul arheologic din Karditsa, care prezintă exponate din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        21.918211,
+                        39.363175
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kinimatotheatro",
+                  "text": "Cinematograf și teatru municipal din orașul Karditsa.",
+                  "category": "cultural",
+                  "coords": [
+                        21.922434,
+                        39.365983
+                  ]
+            },
+            {
+                  "name": "Ieros Naos Zoodochoy Pigis",
+                  "text": "Biserica ortodoxă Zoodochou Pigis din cartierul Kaminades, Karditsa.",
+                  "category": "religious",
+                  "coords": [
+                        21.927115,
+                        39.369232
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Paysilypoy",
+                  "text": "Locul de joacă din parcul Pausilypo din Karditsa este un loc de întâlnire frumos pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.928347,
+                        39.365006
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο Καρδίτσας",
+                  "text": "Municipal Swimming Pool din Karditsa oferă un loc pentru înot și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        21.934589,
+                        39.361402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaiologko Moyseio Karditsas",
+                  "text": "Archaeological Museum of Karditsa, featuring exhibits from the local region.",
+                  "category": "museum",
+                  "coords": [
+                        21.918211,
+                        39.363175
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kinimatotheatro",
+                  "text": "Municipal cinema and theatre located in the city of Karditsa.",
+                  "category": "cultural",
+                  "coords": [
+                        21.922434,
+                        39.365983
+                  ]
+            },
+            {
+                  "name": "Church of Zoodochou Pigis Kaminadon",
+                  "text": "Zoodochou Pigis Orthodox church in the Kaminades district of Karditsa.",
+                  "category": "religious",
+                  "coords": [
+                        21.927115,
+                        39.369232
+                  ]
+            },
+            {
+                  "name": "Paidiki chara Paysilypoy",
+                  "text": "The playground at Pausilypo Park in Karditsa is a nice meeting place for children.",
+                  "category": "family",
+                  "coords": [
+                        21.928347,
+                        39.365006
+                  ]
+            },
+            {
+                  "name": "Municipal Swimming Pool",
+                  "text": "Municipal Swimming Pool in Karditsa offers a place for swimming and water activities.",
+                  "category": "family",
+                  "coords": [
+                        21.934589,
+                        39.361402
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-F",
     coords: [21.9225, 39.3644],
@@ -549,7 +2628,628 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Avec 689 mètres, le pont De Bosset est le plus long pont de pierre sur mer au monde.", "En août 1953, Argostoli a été presque entièrement détruite par un séisme de magnitude 7,2.", "Le port naturel d'Argostoli a une profondeur d'environ 20 mètres à son point le plus bas.", "Le musée Korgialenios conserve l'histoire de l'île avant le séisme de 1953.", "Aux Katavothres, environ 30 000 mètres cubes d'eau de mer s'écoulent quotidiennement dans le système karstique.", "La ville a été déclarée capitale de Céphalonie en 1757, remplaçant le château d'Agios Georgios."],
     }, image: "/poi-images/city-argostoli-extra.webp"},
   {
-    id: "city-zakynthos-extra", "sights": {"de": [{"name": "Vardiola sto Akrotiri", "text": "Vardiola bei Akrotiri ist ein historischer Verteidigungsvorposten in Zakynthos Stadt.", "category": "castle", "coords": [20.901159, 37.806028]}, {"name": "Krioneri", "text": "Krioneri ist ein malerischer lokaler Leuchtturm in Zakynthos Stadt.", "category": "landmark", "coords": [20.904195, 37.80277]}, {"name": "Kul. sloi Klassicheskogo perioda", "text": "Die Schicht aus der klassischen Periode ist eine faszinierende archäologische Stätte in Zakynthos Stadt.", "category": "historical", "coords": [20.891177, 37.789166]}, {"name": "Froyrio Zakynthoy", "text": "Die Festung von Zakynthos ist eine große historische Burganlage mit Blick auf die Stadt.", "category": "castle", "coords": [20.892358, 37.789388]}, {"name": "Castle of Zakynthos", "text": "Die Burg von Zakynthos ist eine markante historische Festungsanlage in Zakynthos Stadt.", "category": "castle", "coords": [20.891057, 37.78824]}, {"name": "Meeres-Nationalpark Zakynthos", "text": "Der Meeresnationalpark von Zakynthos ist ein wunderschönes Naturschutzgebiet, das die lokale Unterwasserwelt schützt.", "category": "natural", "coords": [20.898311, 37.706761]}, {"name": "Museum of Post Byzantine Art", "text": "Dieses Museum in Zakynthos Stadt stellt eine reichhaltige Sammlung postbyzantinischer Kunst aus.", "category": "museum", "coords": [20.899548, 37.787322]}, {"name": "Amphitheatre", "text": "Dieses lokale Amphitheater dient als lebendiger Veranstaltungsort für Theateraufführungen in Zakynthos Stadt.", "category": "cultural", "coords": [20.896579, 37.790757]}, {"name": "Dionysios Solomos Museum", "text": "Das Dionysios-Solomos-Museum widmet sich den berühmten lokalen Persönlichkeiten und der Geschichte in Zakynthos Stadt.", "category": "museum", "coords": [20.898656, 37.788503]}, {"name": "Bastione di St. Marco", "text": "Die Bastione di St. Marco ist eine bemerkenswerte historische Attraktion in Zakynthos Stadt.", "category": "landmark", "coords": [20.889458, 37.786315]}, {"name": "Church of Sotiras", "text": "Die Kirche von Sotiras ist eine verfallene historische Kultstätte in Zakynthos Stadt.", "category": "historical", "coords": [20.889544, 37.789038]}, {"name": "Rivellino Ambrosio Bembo", "text": "Rivellino Ambrosio Bembo ist eine faszinierende historische Attraktion in Zakynthos Stadt.", "category": "landmark", "coords": [20.890659, 37.78709]}, {"name": "Rivellino dell' Aguilla", "text": "Rivellino dell' Aguilla ist eine faszinierende historische Sehenswürdigkeit in Zakynthos Stadt.", "category": "landmark", "coords": [20.888977, 37.78788]}, {"name": "Solomos Statue", "text": "Die Solomos-Statue ist ein markantes Denkmal, das einer bedeutenden Persönlichkeit in Zakynthos Stadt gewidmet ist.", "category": "historical", "coords": [20.890315, 37.796939]}, {"name": "Gefyra Argasioy", "text": "Die steinerne Argassi-Brücke ist eine interessante historische Attraktion in Zakynthos Stadt.", "category": "landmark", "coords": [20.921396, 37.766707]}, {"name": "Vourderis Arch", "text": "Der Vourderis-Bogen ist eine markante architektonische Attraktion in Zakynthos Stadt.", "category": "landmark", "coords": [20.917479, 37.760404]}], "hu": [{"name": "Vardiola sto Akrotiri", "text": "Az akrotiri Vardiola egy történelmi védelmi előőrs szerkezet Zákinthosz városában.", "category": "castle", "coords": [20.901159, 37.806028]}, {"name": "Krioneri", "text": "Krioneri egy festői helyi világítótorony Zákinthosz városában.", "category": "landmark", "coords": [20.904195, 37.80277]}, {"name": "Kul. sloi Klassicheskogo perioda", "text": "A klasszikus kori réteg egy érdekes régészeti lelőhely Zákinthosz városában.", "category": "historical", "coords": [20.891177, 37.789166]}, {"name": "Froyrio Zakynthoy", "text": "A zákinthoszi erőd egy jelentős történelmi várkomplexum, amely a városra néz.", "category": "castle", "coords": [20.892358, 37.789388]}, {"name": "Castle of Zakynthos", "text": "Zákinthosz vára egy kiemelkedő történelmi erődítmény Zákinthosz városában.", "category": "castle", "coords": [20.891057, 37.78824]}, {"name": "Ethniko Thalassio Parko Zakynthoy", "text": "A Zákinthosz Nemzeti Tengeri Park egy gyönyörű természetvédelmi terület, amely a helyi tengeri élővilágot védi.", "category": "natural", "coords": [20.898311, 37.706761]}, {"name": "Museum of Post Byzantine Art", "text": "Ez a Zákinthosz városában található múzeum a posztbizánci művészet gazdag gyűjteményét mutatja be.", "category": "museum", "coords": [20.899548, 37.787322]}, {"name": "Amphitheatre", "text": "Ez a helyi amfiteátrum élénk helyszínként szolgál színházi előadásokhoz Zákinthosz városában.", "category": "cultural", "coords": [20.896579, 37.790757]}, {"name": "Dionysios Solomos Museum", "text": "A Dionysios Solomos Múzeum Zákinthosz városa híres helyi személyiségeinek és történelmének állít emléket.", "category": "museum", "coords": [20.898656, 37.788503]}, {"name": "Bastione di St. Marco", "text": "A Bastione di St. Marco egy figyelemre méltó történelmi látványosság Zákinthosz városában.", "category": "landmark", "coords": [20.889458, 37.786315]}, {"name": "Church of Sotiras", "text": "A Sotiras templom egy romos történelmi istentiszteleti hely Zákinthosz városában.", "category": "historical", "coords": [20.889544, 37.789038]}, {"name": "Rivellino Ambrosio Bembo", "text": "A Rivellino Ambrosio Bembo egy lenyűgöző történelmi látványosság Zákinthosz városában.", "category": "landmark", "coords": [20.890659, 37.78709]}, {"name": "Rivellino dell' Aguilla", "text": "A Rivellino dell' Aguilla egy lenyűgöző történelmi látnivaló Zákinthosz városában.", "category": "landmark", "coords": [20.888977, 37.78788]}, {"name": "Solomos Statue", "text": "A Solomos-szobor egy kiemelkedő emlékmű, amelyet egy jelentős személyiségnek szenteltek Zákinthosz városában.", "category": "historical", "coords": [20.890315, 37.796939]}, {"name": "Gefyra Argasioy", "text": "Az Argassi kőhíd egy érdekes történelmi látványosság Zákinthosz városában.", "category": "landmark", "coords": [20.921396, 37.766707]}, {"name": "Vourderis Arch", "text": "A Vourderis-ív egy különleges építészeti látványosság Zákinthosz városában.", "category": "landmark", "coords": [20.917479, 37.760404]}], "ro": [{"name": "Vardiola sto Akrotiri", "text": "Vardiola la Akrotiri este o structură istorică de avanpost defensiv din Zakynthos Stadt.", "category": "castle", "coords": [20.901159, 37.806028]}, {"name": "Krioneri", "text": "Krioneri este un far local pitoresc situat în Zakynthos Stadt.", "category": "landmark", "coords": [20.904195, 37.80277]}, {"name": "Kul. sloi Klassicheskogo perioda", "text": "Stratul Perioadei Clasice este un sit arheologic intrigant din Zakynthos Stadt.", "category": "historical", "coords": [20.891177, 37.789166]}, {"name": "Froyrio Zakynthoy", "text": "Fortăreața din Zakynthos este un complex de castele istoric major, cu vedere la oraș.", "category": "castle", "coords": [20.892358, 37.789388]}, {"name": "Castle of Zakynthos", "text": "Castelul din Zakynthos este o fortificație istorică importantă situată în Zakynthos Stadt.", "category": "castle", "coords": [20.891057, 37.78824]}, {"name": "Ethniko Thalassio Parko Zakynthoy", "text": "Parcul Național Marin Zakynthos este o rezervație naturală frumoasă care protejează viața marină locală.", "category": "natural", "coords": [20.898311, 37.706761]}, {"name": "Museum of Post Byzantine Art", "text": "Acest muzeu din Zakynthos Stadt expune o colecție bogată de artă post-bizantină.", "category": "museum", "coords": [20.899548, 37.787322]}, {"name": "Amphitheatre", "text": "Acest amfiteatru local servește drept un loc vibrant pentru spectacole teatrale în Zakynthos Stadt.", "category": "cultural", "coords": [20.896579, 37.790757]}, {"name": "Dionysios Solomos Museum", "text": "Muzeul Dionysios Solomos este dedicat figurilor locale renumite și istoriei din Zakynthos Stadt.", "category": "museum", "coords": [20.898656, 37.788503]}, {"name": "Bastione di St. Marco", "text": "Bastione di St. Marco este o atracție istorică notabilă din Zakynthos Stadt.", "category": "landmark", "coords": [20.889458, 37.786315]}, {"name": "Church of Sotiras", "text": "Biserica Sotiras este un lăcaș de cult istoric în ruină situat în Zakynthos Stadt.", "category": "historical", "coords": [20.889544, 37.789038]}, {"name": "Rivellino Ambrosio Bembo", "text": "Rivellino Ambrosio Bembo este o atracție istorică captivantă situată în Zakynthos Stadt.", "category": "landmark", "coords": [20.890659, 37.78709]}, {"name": "Rivellino dell' Aguilla", "text": "Rivellino dell' Aguilla este un punct de interes istoric fascinant din Zakynthos Stadt.", "category": "landmark", "coords": [20.888977, 37.78788]}, {"name": "Solomos Statue", "text": "Statuia Solomos este un monument important dedicat unei figuri semnificative din Zakynthos Stadt.", "category": "historical", "coords": [20.890315, 37.796939]}, {"name": "Gefyra Argasioy", "text": "Podul de piatră Argassi este o atracție istorică interesantă din Zakynthos Stadt.", "category": "landmark", "coords": [20.921396, 37.766707]}, {"name": "Vourderis Arch", "text": "Arcul Vourderis este o atracție arhitecturală distinctă situată în Zakynthos Stadt.", "category": "landmark", "coords": [20.917479, 37.760404]}], "en": [{"name": "Vardiola at Akrotiri", "text": "Vardiola at Akrotiri is a historic defensive outpost structure in Zakynthos Stadt.", "category": "castle", "coords": [20.901159, 37.806028]}, {"name": "Krioneri", "text": "Krioneri is a scenic local lighthouse situated in Zakynthos Stadt.", "category": "landmark", "coords": [20.904195, 37.80277]}, {"name": "Classical Period Layer", "text": "The Classical Period Layer is an intriguing archaeological site in Zakynthos Stadt.", "category": "historical", "coords": [20.891177, 37.789166]}, {"name": "Fortress of Zakynthos", "text": "The Fortress of Zakynthos is a major historic castle complex overlooking the city.", "category": "castle", "coords": [20.892358, 37.789388]}, {"name": "Castle of Zakynthos", "text": "The Castle of Zakynthos is a prominent historic fortification located in Zakynthos Stadt.", "category": "castle", "coords": [20.891057, 37.78824]}, {"name": "Zakynthos National Marine Park", "text": "The Zakynthos National Marine Park is a beautiful nature reserve protecting local marine life.", "category": "natural", "coords": [20.898311, 37.706761]}, {"name": "Museum of Post Byzantine Art", "text": "This museum in Zakynthos Stadt exhibits a rich collection of post-Byzantine art.", "category": "museum", "coords": [20.899548, 37.787322]}, {"name": "Amphitheatre", "text": "This local amphitheatre serves as a vibrant venue for theatrical performances in Zakynthos Stadt.", "category": "cultural", "coords": [20.896579, 37.790757]}, {"name": "Dionysios Solomos Museum", "text": "The Dionysios Solomos Museum is dedicated to the renowned local figures and history in Zakynthos Stadt.", "category": "museum", "coords": [20.898656, 37.788503]}, {"name": "Bastione di St. Marco", "text": "The Bastione di St. Marco is a notable historic attraction in Zakynthos Stadt.", "category": "landmark", "coords": [20.889458, 37.786315]}, {"name": "Church of Sotiras", "text": "The Church of Sotiras is a ruined historical place of worship located in Zakynthos Stadt.", "category": "historical", "coords": [20.889544, 37.789038]}, {"name": "Rivellino Ambrosio Bembo", "text": "Rivellino Ambrosio Bembo is a captivating historic attraction situated in Zakynthos Stadt.", "category": "landmark", "coords": [20.890659, 37.78709]}, {"name": "Rivellino dell' Aguilla", "text": "Rivellino dell' Aguilla is a fascinating historical point of interest in Zakynthos Stadt.", "category": "landmark", "coords": [20.888977, 37.78788]}, {"name": "Solomos Statue", "text": "The Solomos Statue is a prominent monument dedicated to a significant figure in Zakynthos Stadt.", "category": "historical", "coords": [20.890315, 37.796939]}, {"name": "Argassi Stone Bridge", "text": "The Argassi Stone Bridge is an interesting historical attraction in Zakynthos Stadt.", "category": "landmark", "coords": [20.921396, 37.766707]}, {"name": "Vourderis Arch", "text": "The Vourderis Arch is a distinct architectural attraction located in Zakynthos Stadt.", "category": "landmark", "coords": [20.917479, 37.760404]}]},
+    id: "city-zakynthos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Vardiola sto Akrotiri",
+                  "text": "Vardiola bei Akrotiri ist ein historischer Verteidigungsvorposten in Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.901159,
+                        37.806028
+                  ]
+            },
+            {
+                  "name": "Krioneri",
+                  "text": "Krioneri ist ein malerischer lokaler Leuchtturm in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.904195,
+                        37.80277
+                  ]
+            },
+            {
+                  "name": "Kul. sloi Klassicheskogo perioda",
+                  "text": "Die Schicht aus der klassischen Periode ist eine faszinierende archäologische Stätte in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.891177,
+                        37.789166
+                  ]
+            },
+            {
+                  "name": "Froyrio Zakynthoy",
+                  "text": "Die Festung von Zakynthos ist eine große historische Burganlage mit Blick auf die Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.892358,
+                        37.789388
+                  ]
+            },
+            {
+                  "name": "Castle of Zakynthos",
+                  "text": "Die Burg von Zakynthos ist eine markante historische Festungsanlage in Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.891057,
+                        37.78824
+                  ]
+            },
+            {
+                  "name": "Meeres-Nationalpark Zakynthos",
+                  "text": "Der Meeresnationalpark von Zakynthos ist ein wunderschönes Naturschutzgebiet, das die lokale Unterwasserwelt schützt.",
+                  "category": "natural",
+                  "coords": [
+                        20.898311,
+                        37.706761
+                  ]
+            },
+            {
+                  "name": "Museum of Post Byzantine Art",
+                  "text": "Dieses Museum in Zakynthos Stadt stellt eine reichhaltige Sammlung postbyzantinischer Kunst aus.",
+                  "category": "museum",
+                  "coords": [
+                        20.899548,
+                        37.787322
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Dieses lokale Amphitheater dient als lebendiger Veranstaltungsort für Theateraufführungen in Zakynthos Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        20.896579,
+                        37.790757
+                  ]
+            },
+            {
+                  "name": "Dionysios Solomos Museum",
+                  "text": "Das Dionysios-Solomos-Museum widmet sich den berühmten lokalen Persönlichkeiten und der Geschichte in Zakynthos Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        20.898656,
+                        37.788503
+                  ]
+            },
+            {
+                  "name": "Bastione di St. Marco",
+                  "text": "Die Bastione di St. Marco ist eine bemerkenswerte historische Attraktion in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.889458,
+                        37.786315
+                  ]
+            },
+            {
+                  "name": "Church of Sotiras",
+                  "text": "Die Kirche von Sotiras ist eine verfallene historische Kultstätte in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.889544,
+                        37.789038
+                  ]
+            },
+            {
+                  "name": "Rivellino Ambrosio Bembo",
+                  "text": "Rivellino Ambrosio Bembo ist eine faszinierende historische Attraktion in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.890659,
+                        37.78709
+                  ]
+            },
+            {
+                  "name": "Rivellino dell' Aguilla",
+                  "text": "Rivellino dell' Aguilla ist eine faszinierende historische Sehenswürdigkeit in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.888977,
+                        37.78788
+                  ]
+            },
+            {
+                  "name": "Solomos Statue",
+                  "text": "Die Solomos-Statue ist ein markantes Denkmal, das einer bedeutenden Persönlichkeit in Zakynthos Stadt gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        20.890315,
+                        37.796939
+                  ]
+            },
+            {
+                  "name": "Gefyra Argasioy",
+                  "text": "Die steinerne Argassi-Brücke ist eine interessante historische Attraktion in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.921396,
+                        37.766707
+                  ]
+            },
+            {
+                  "name": "Vourderis Arch",
+                  "text": "Der Vourderis-Bogen ist eine markante architektonische Attraktion in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.917479,
+                        37.760404
+                  ]
+            },
+            {
+                  "name": "Palmyra Hotel Swimming Pool",
+                  "text": "Ein Hotelschwimmbad in Zakynthos Town, das eine entspannte Umgebung zum Baden bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.922889,
+                        37.764085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vardiola sto Akrotiri",
+                  "text": "Az akrotiri Vardiola egy történelmi védelmi előőrs szerkezet Zákinthosz városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.901159,
+                        37.806028
+                  ]
+            },
+            {
+                  "name": "Krioneri",
+                  "text": "Krioneri egy festői helyi világítótorony Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.904195,
+                        37.80277
+                  ]
+            },
+            {
+                  "name": "Kul. sloi Klassicheskogo perioda",
+                  "text": "A klasszikus kori réteg egy érdekes régészeti lelőhely Zákinthosz városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.891177,
+                        37.789166
+                  ]
+            },
+            {
+                  "name": "Froyrio Zakynthoy",
+                  "text": "A zákinthoszi erőd egy jelentős történelmi várkomplexum, amely a városra néz.",
+                  "category": "castle",
+                  "coords": [
+                        20.892358,
+                        37.789388
+                  ]
+            },
+            {
+                  "name": "Castle of Zakynthos",
+                  "text": "Zákinthosz vára egy kiemelkedő történelmi erődítmény Zákinthosz városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.891057,
+                        37.78824
+                  ]
+            },
+            {
+                  "name": "Ethniko Thalassio Parko Zakynthoy",
+                  "text": "A Zákinthosz Nemzeti Tengeri Park egy gyönyörű természetvédelmi terület, amely a helyi tengeri élővilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        20.898311,
+                        37.706761
+                  ]
+            },
+            {
+                  "name": "Museum of Post Byzantine Art",
+                  "text": "Ez a Zákinthosz városában található múzeum a posztbizánci művészet gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.899548,
+                        37.787322
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ez a helyi amfiteátrum élénk helyszínként szolgál színházi előadásokhoz Zákinthosz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.896579,
+                        37.790757
+                  ]
+            },
+            {
+                  "name": "Dionysios Solomos Museum",
+                  "text": "A Dionysios Solomos Múzeum Zákinthosz városa híres helyi személyiségeinek és történelmének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.898656,
+                        37.788503
+                  ]
+            },
+            {
+                  "name": "Bastione di St. Marco",
+                  "text": "A Bastione di St. Marco egy figyelemre méltó történelmi látványosság Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.889458,
+                        37.786315
+                  ]
+            },
+            {
+                  "name": "Church of Sotiras",
+                  "text": "A Sotiras templom egy romos történelmi istentiszteleti hely Zákinthosz városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.889544,
+                        37.789038
+                  ]
+            },
+            {
+                  "name": "Rivellino Ambrosio Bembo",
+                  "text": "A Rivellino Ambrosio Bembo egy lenyűgöző történelmi látványosság Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.890659,
+                        37.78709
+                  ]
+            },
+            {
+                  "name": "Rivellino dell' Aguilla",
+                  "text": "A Rivellino dell' Aguilla egy lenyűgöző történelmi látnivaló Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.888977,
+                        37.78788
+                  ]
+            },
+            {
+                  "name": "Solomos Statue",
+                  "text": "A Solomos-szobor egy kiemelkedő emlékmű, amelyet egy jelentős személyiségnek szenteltek Zákinthosz városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.890315,
+                        37.796939
+                  ]
+            },
+            {
+                  "name": "Gefyra Argasioy",
+                  "text": "Az Argassi kőhíd egy érdekes történelmi látványosság Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.921396,
+                        37.766707
+                  ]
+            },
+            {
+                  "name": "Vourderis Arch",
+                  "text": "A Vourderis-ív egy különleges építészeti látványosság Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.917479,
+                        37.760404
+                  ]
+            },
+            {
+                  "name": "Palmyra Hotel Swimming Pool",
+                  "text": "Szállodai úszómedence Zakinthosz városában, amely nyugodt környezetet biztosít a fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        20.922889,
+                        37.764085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vardiola sto Akrotiri",
+                  "text": "Vardiola la Akrotiri este o structură istorică de avanpost defensiv din Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.901159,
+                        37.806028
+                  ]
+            },
+            {
+                  "name": "Krioneri",
+                  "text": "Krioneri este un far local pitoresc situat în Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.904195,
+                        37.80277
+                  ]
+            },
+            {
+                  "name": "Kul. sloi Klassicheskogo perioda",
+                  "text": "Stratul Perioadei Clasice este un sit arheologic intrigant din Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.891177,
+                        37.789166
+                  ]
+            },
+            {
+                  "name": "Froyrio Zakynthoy",
+                  "text": "Fortăreața din Zakynthos este un complex de castele istoric major, cu vedere la oraș.",
+                  "category": "castle",
+                  "coords": [
+                        20.892358,
+                        37.789388
+                  ]
+            },
+            {
+                  "name": "Castle of Zakynthos",
+                  "text": "Castelul din Zakynthos este o fortificație istorică importantă situată în Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.891057,
+                        37.78824
+                  ]
+            },
+            {
+                  "name": "Ethniko Thalassio Parko Zakynthoy",
+                  "text": "Parcul Național Marin Zakynthos este o rezervație naturală frumoasă care protejează viața marină locală.",
+                  "category": "natural",
+                  "coords": [
+                        20.898311,
+                        37.706761
+                  ]
+            },
+            {
+                  "name": "Museum of Post Byzantine Art",
+                  "text": "Acest muzeu din Zakynthos Stadt expune o colecție bogată de artă post-bizantină.",
+                  "category": "museum",
+                  "coords": [
+                        20.899548,
+                        37.787322
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Acest amfiteatru local servește drept un loc vibrant pentru spectacole teatrale în Zakynthos Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        20.896579,
+                        37.790757
+                  ]
+            },
+            {
+                  "name": "Dionysios Solomos Museum",
+                  "text": "Muzeul Dionysios Solomos este dedicat figurilor locale renumite și istoriei din Zakynthos Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        20.898656,
+                        37.788503
+                  ]
+            },
+            {
+                  "name": "Bastione di St. Marco",
+                  "text": "Bastione di St. Marco este o atracție istorică notabilă din Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.889458,
+                        37.786315
+                  ]
+            },
+            {
+                  "name": "Church of Sotiras",
+                  "text": "Biserica Sotiras este un lăcaș de cult istoric în ruină situat în Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.889544,
+                        37.789038
+                  ]
+            },
+            {
+                  "name": "Rivellino Ambrosio Bembo",
+                  "text": "Rivellino Ambrosio Bembo este o atracție istorică captivantă situată în Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.890659,
+                        37.78709
+                  ]
+            },
+            {
+                  "name": "Rivellino dell' Aguilla",
+                  "text": "Rivellino dell' Aguilla este un punct de interes istoric fascinant din Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.888977,
+                        37.78788
+                  ]
+            },
+            {
+                  "name": "Solomos Statue",
+                  "text": "Statuia Solomos este un monument important dedicat unei figuri semnificative din Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.890315,
+                        37.796939
+                  ]
+            },
+            {
+                  "name": "Gefyra Argasioy",
+                  "text": "Podul de piatră Argassi este o atracție istorică interesantă din Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.921396,
+                        37.766707
+                  ]
+            },
+            {
+                  "name": "Vourderis Arch",
+                  "text": "Arcul Vourderis este o atracție arhitecturală distinctă situată în Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.917479,
+                        37.760404
+                  ]
+            },
+            {
+                  "name": "Palmyra Hotel Swimming Pool",
+                  "text": "O piscină de hotel în orașul Zakynthos, care oferă un mediu relaxant pentru scăldat.",
+                  "category": "family",
+                  "coords": [
+                        20.922889,
+                        37.764085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vardiola at Akrotiri",
+                  "text": "Vardiola at Akrotiri is a historic defensive outpost structure in Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.901159,
+                        37.806028
+                  ]
+            },
+            {
+                  "name": "Krioneri",
+                  "text": "Krioneri is a scenic local lighthouse situated in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.904195,
+                        37.80277
+                  ]
+            },
+            {
+                  "name": "Classical Period Layer",
+                  "text": "The Classical Period Layer is an intriguing archaeological site in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.891177,
+                        37.789166
+                  ]
+            },
+            {
+                  "name": "Fortress of Zakynthos",
+                  "text": "The Fortress of Zakynthos is a major historic castle complex overlooking the city.",
+                  "category": "castle",
+                  "coords": [
+                        20.892358,
+                        37.789388
+                  ]
+            },
+            {
+                  "name": "Castle of Zakynthos",
+                  "text": "The Castle of Zakynthos is a prominent historic fortification located in Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.891057,
+                        37.78824
+                  ]
+            },
+            {
+                  "name": "Zakynthos National Marine Park",
+                  "text": "The Zakynthos National Marine Park is a beautiful nature reserve protecting local marine life.",
+                  "category": "natural",
+                  "coords": [
+                        20.898311,
+                        37.706761
+                  ]
+            },
+            {
+                  "name": "Museum of Post Byzantine Art",
+                  "text": "This museum in Zakynthos Stadt exhibits a rich collection of post-Byzantine art.",
+                  "category": "museum",
+                  "coords": [
+                        20.899548,
+                        37.787322
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "This local amphitheatre serves as a vibrant venue for theatrical performances in Zakynthos Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        20.896579,
+                        37.790757
+                  ]
+            },
+            {
+                  "name": "Dionysios Solomos Museum",
+                  "text": "The Dionysios Solomos Museum is dedicated to the renowned local figures and history in Zakynthos Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        20.898656,
+                        37.788503
+                  ]
+            },
+            {
+                  "name": "Bastione di St. Marco",
+                  "text": "The Bastione di St. Marco is a notable historic attraction in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.889458,
+                        37.786315
+                  ]
+            },
+            {
+                  "name": "Church of Sotiras",
+                  "text": "The Church of Sotiras is a ruined historical place of worship located in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.889544,
+                        37.789038
+                  ]
+            },
+            {
+                  "name": "Rivellino Ambrosio Bembo",
+                  "text": "Rivellino Ambrosio Bembo is a captivating historic attraction situated in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.890659,
+                        37.78709
+                  ]
+            },
+            {
+                  "name": "Rivellino dell' Aguilla",
+                  "text": "Rivellino dell' Aguilla is a fascinating historical point of interest in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.888977,
+                        37.78788
+                  ]
+            },
+            {
+                  "name": "Solomos Statue",
+                  "text": "The Solomos Statue is a prominent monument dedicated to a significant figure in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.890315,
+                        37.796939
+                  ]
+            },
+            {
+                  "name": "Argassi Stone Bridge",
+                  "text": "The Argassi Stone Bridge is an interesting historical attraction in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.921396,
+                        37.766707
+                  ]
+            },
+            {
+                  "name": "Vourderis Arch",
+                  "text": "The Vourderis Arch is a distinct architectural attraction located in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.917479,
+                        37.760404
+                  ]
+            },
+            {
+                  "name": "Palmyra Hotel Swimming Pool",
+                  "text": "A hotel swimming pool in Zakynthos Town offering a relaxed environment for bathing.",
+                  "category": "family",
+                  "coords": [
+                        20.922889,
+                        37.764085
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-F",
     coords: [20.9045, 37.7850],
@@ -675,7 +3375,520 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le château de Mytilène s'étend sur 60 hectares, ce qui en fait l'un des plus grands d'Europe.", "Mytilène fut fondée dès le XIe siècle av. J.-C. par les Éoliens.", "Le théâtre antique de la ville, de l'époque hellénistique, pouvait accueillir 10 000 spectateurs.", "La ville abrite le musée d'art moderne - Stratis Eleftheriadis (Tériade).", "Mytilène est le centre mondial de production d'ouzo, notamment de la région de Plomari.", "La statue de la Liberté dans le port de Mytilène est une réplique plus petite de celle de New York."],
     }, image: "/poi-images/city-mytilene-extra.webp"},
   {
-    id: "city-chios-extra", "sights": {"de": [{"name": "Marinemuseum", "text": "Das Schifffahrtsmuseum von Chios präsentiert die reiche Marinegeschichte und die Traditionen von Chios Stadt.", "category": "museum", "coords": [26.133857, 38.367067]}, {"name": "Byzantinisches Museum", "text": "Das Byzantinische Museum in Chios Stadt ist in einer alten osmanischen Moschee untergebracht und zeigt historische Artefakte.", "category": "museum", "coords": [26.136251, 38.370493]}, {"name": "Archäologisches Museum", "text": "Das Archäologische Museum von Chios stellt zahlreiche antike Funde aus der ganzen Insel aus.", "category": "museum", "coords": [26.139028, 38.365054]}, {"name": "Ottomanisches Badhaus (Hammam)", "text": "Die osmanischen Bäder dienen als faszinierendes Museum für historische Hammam-Architektur in Chios Stadt.", "category": "museum", "coords": [26.137254, 38.375183]}, {"name": "Dimotiki Pinakothiki Chioy", "text": "Ein Kunstmuseum in Chios Stadt.", "category": "museum", "coords": [26.135197, 38.370329]}, {"name": "Bella Vista", "text": "Ein malerischer Strand in Chios Stadt.", "category": "recreational", "coords": [26.143668, 38.362898]}, {"name": "Korais Bibliothek und Museum", "text": "Ein Museum in Chios Stadt.", "category": "museum", "coords": [26.136963, 38.367672]}, {"name": "Kastro Chioy", "text": "Eine historische Festung in Chios Stadt, die sich im nördlichen Teil des Stadtzentrums befindet.", "category": "landmark", "coords": [26.136215, 38.373721]}, {"name": "MNIMEIO PANAGYFTOPOYLOY STYLIANOY", "text": "Ein Denkmal in Chios Stadt.", "category": "historical", "coords": [26.143404, 38.359278]}, {"name": "Mpairakli Tzami", "text": "Ein historisches Denkmal in Chios Stadt.", "category": "historical", "coords": [26.136187, 38.372814]}, {"name": "Leper-Hospital", "text": "Eine historische Sehenswürdigkeit in Chios Stadt.", "category": "landmark", "coords": [26.118835, 38.384538]}, {"name": "Windmühlen von Tampakika", "text": "Historische Windmühlen und eine lokale Attraktion in Chios Stadt.", "category": "landmark", "coords": [26.138262, 38.382361]}, {"name": "Ieros Katholikos Kathedrikos Naos Agioy Nikolaoy", "text": "Eine religiöse Kultstätte in Chios Stadt.", "category": "religious", "coords": [26.131688, 38.372697]}], "hu": [{"name": "Naytiko Moyseio Chioy", "text": "A Híoszi Tengerészeti Múzeum Híosz városa gazdag tengerészeti történelmét és hagyományait mutatja be.", "category": "museum", "coords": [26.133857, 38.367067]}, {"name": "Vyzantino Moyseio Chioy", "text": "A Híosz városában található Bizánci Múzeum egy régi oszmán mecsetben kapott helyet, és történelmi műtárgyakat mutat be.", "category": "museum", "coords": [26.136251, 38.370493]}, {"name": "Archaiologiko Moyseio Chioy", "text": "A Híoszi Régészeti Múzeum számos ókori leletet állít ki a sziget minden tájáról.", "category": "museum", "coords": [26.139028, 38.365054]}, {"name": "Othomaniko Loytro (Chamam)", "text": "Az oszmán fürdők a történelmi hammam építészet lenyűgöző múzeumaként szolgálnak Híosz városában.", "category": "museum", "coords": [26.137254, 38.375183]}, {"name": "Dimotiki Pinakothiki Chioy", "text": "Egy művészeti múzeum Chios Stadt városában.", "category": "museum", "coords": [26.135197, 38.370329]}, {"name": "Bella Vista", "text": "Egy festői strand Chios Stadt városában.", "category": "recreational", "coords": [26.143668, 38.362898]}, {"name": "Vivliothiki Chioy “Korais”", "text": "Egy múzeum Chios Stadt városában.", "category": "museum", "coords": [26.136963, 38.367672]}, {"name": "Kastro Chioy", "text": "Egy történelmi erődítmény Chios Stadt városában, amely a városközpont északi részén található.", "category": "landmark", "coords": [26.136215, 38.373721]}, {"name": "MNIMEIO PANAGYFTOPOYLOY STYLIANOY", "text": "Egy emlékmű Chios Stadt városában.", "category": "historical", "coords": [26.143404, 38.359278]}, {"name": "Mpairakli Tzami", "text": "Egy történelmi emlékmű Chios Stadt városában.", "category": "historical", "coords": [26.136187, 38.372814]}, {"name": "Leper-Hospital", "text": "Egy történelmi látványosság Chios Stadt városában.", "category": "landmark", "coords": [26.118835, 38.384538]}, {"name": "Windmills of Tampakika", "text": "Történelmi szélmalmok és helyi látványosság Chios Stadt városában.", "category": "landmark", "coords": [26.138262, 38.382361]}, {"name": "Ieros Katholikos Kathedrikos Naos Agioy Nikolaoy", "text": "Egy vallási istentiszteleti hely Chios Stadt városában.", "category": "religious", "coords": [26.131688, 38.372697]}], "ro": [{"name": "Naytiko Moyseio Chioy", "text": "Muzeul Maritim din Chios prezintă istoria și tradițiile navale bogate ale orașului Chios.", "category": "museum", "coords": [26.133857, 38.367067]}, {"name": "Vyzantino Moyseio Chioy", "text": "Muzeul Bizantin din Chios Stadt este găzduit într-o veche moschee otomană și prezintă artefacte istorice.", "category": "museum", "coords": [26.136251, 38.370493]}, {"name": "Archaiologiko Moyseio Chioy", "text": "Muzeul Arheologic din Chios expune numeroase descoperiri antice de pe insulă.", "category": "museum", "coords": [26.139028, 38.365054]}, {"name": "Othomaniko Loytro (Chamam)", "text": "Băile otomane servesc drept un muzeu intrigant al arhitecturii istorice a hamamului în Chios Stadt.", "category": "museum", "coords": [26.137254, 38.375183]}, {"name": "Dimotiki Pinakothiki Chioy", "text": "Un muzeu de artă în Chios Stadt.", "category": "museum", "coords": [26.135197, 38.370329]}, {"name": "Bella Vista", "text": "O plajă pitorească în Chios Stadt.", "category": "recreational", "coords": [26.143668, 38.362898]}, {"name": "Vivliothiki Chioy “Korais”", "text": "Un muzeu în Chios Stadt.", "category": "museum", "coords": [26.136963, 38.367672]}, {"name": "Kastro Chioy", "text": "O fortăreață istorică din Chios Stadt, situată în partea de nord a centrului orașului.", "category": "landmark", "coords": [26.136215, 38.373721]}, {"name": "MNIMEIO PANAGYFTOPOYLOY STYLIANOY", "text": "Un monument în Chios Stadt.", "category": "historical", "coords": [26.143404, 38.359278]}, {"name": "Mpairakli Tzami", "text": "Un monument istoric în Chios Stadt.", "category": "historical", "coords": [26.136187, 38.372814]}, {"name": "Leper-Hospital", "text": "O atracție istorică în Chios Stadt.", "category": "landmark", "coords": [26.118835, 38.384538]}, {"name": "Windmills of Tampakika", "text": "Mori de vânt istorice și o atracție locală în Chios Stadt.", "category": "landmark", "coords": [26.138262, 38.382361]}, {"name": "Ieros Katholikos Kathedrikos Naos Agioy Nikolaoy", "text": "Un lăcaș de cult religios în Chios Stadt.", "category": "religious", "coords": [26.131688, 38.372697]}], "en": [{"name": "Chios Maritime Museum", "text": "The Chios Maritime Museum showcases the rich naval history and traditions of Chios Stadt.", "category": "museum", "coords": [26.133857, 38.367067]}, {"name": "Byzantine Museum", "text": "The Byzantine Museum in Chios Stadt is housed in an old Ottoman mosque and features historical artifacts.", "category": "museum", "coords": [26.136251, 38.370493]}, {"name": "Archaeological Museum of Chios", "text": "The Archaeological Museum of Chios exhibits numerous ancient finds from across the island.", "category": "museum", "coords": [26.139028, 38.365054]}, {"name": "Ottoman Baths (Hammam)", "text": "The Ottoman Baths serve as an intriguing museum of historic hammam architecture in Chios Stadt.", "category": "museum", "coords": [26.137254, 38.375183]}, {"name": "Dimotiki Pinakothiki Chioy", "text": "An art museum in Chios Stadt.", "category": "museum", "coords": [26.135197, 38.370329]}, {"name": "Bella Vista", "text": "A scenic beach in Chios Stadt.", "category": "recreational", "coords": [26.143668, 38.362898]}, {"name": "Korais Library", "text": "A museum in Chios Stadt.", "category": "museum", "coords": [26.136963, 38.367672]}, {"name": "Castle of Chios", "text": "A historic fortress in Chios Stadt, located in the northern part of the city center.", "category": "landmark", "coords": [26.136215, 38.373721]}, {"name": "MNIMEIO PANAGYFTOPOYLOY STYLIANOY", "text": "A monument in Chios Stadt.", "category": "historical", "coords": [26.143404, 38.359278]}, {"name": "Mpairakli Tzami", "text": "A historic monument in Chios Stadt.", "category": "historical", "coords": [26.136187, 38.372814]}, {"name": "Leper-Hospital", "text": "A historical attraction in Chios Stadt.", "category": "landmark", "coords": [26.118835, 38.384538]}, {"name": "Windmills of Tampakika", "text": "Historic windmills and a local attraction in Chios Stadt.", "category": "landmark", "coords": [26.138262, 38.382361]}, {"name": "Cathedral of Saint Nicholas", "text": "A religious place of worship in Chios Stadt.", "category": "religious", "coords": [26.131688, 38.372697]}]},
+    id: "city-chios-extra", "sights": {
+      "de": [
+            {
+                  "name": "Marinemuseum",
+                  "text": "Das Schifffahrtsmuseum von Chios präsentiert die reiche Marinegeschichte und die Traditionen von Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.133857,
+                        38.367067
+                  ]
+            },
+            {
+                  "name": "Byzantinisches Museum",
+                  "text": "Das Byzantinische Museum in Chios Stadt ist in einer alten osmanischen Moschee untergebracht und zeigt historische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        26.136251,
+                        38.370493
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Das Archäologische Museum von Chios stellt zahlreiche antike Funde aus der ganzen Insel aus.",
+                  "category": "museum",
+                  "coords": [
+                        26.139028,
+                        38.365054
+                  ]
+            },
+            {
+                  "name": "Ottomanisches Badhaus (Hammam)",
+                  "text": "Die osmanischen Bäder dienen als faszinierendes Museum für historische Hammam-Architektur in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.137254,
+                        38.375183
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki Chioy",
+                  "text": "Ein Kunstmuseum in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.135197,
+                        38.370329
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "Ein malerischer Strand in Chios Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        26.143668,
+                        38.362898
+                  ]
+            },
+            {
+                  "name": "Korais Bibliothek und Museum",
+                  "text": "Ein Museum in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.136963,
+                        38.367672
+                  ]
+            },
+            {
+                  "name": "Kastro Chioy",
+                  "text": "Eine historische Festung in Chios Stadt, die sich im nördlichen Teil des Stadtzentrums befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136215,
+                        38.373721
+                  ]
+            },
+            {
+                  "name": "MNIMEIO PANAGYFTOPOYLOY STYLIANOY",
+                  "text": "Ein Denkmal in Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.143404,
+                        38.359278
+                  ]
+            },
+            {
+                  "name": "Mpairakli Tzami",
+                  "text": "Ein historisches Denkmal in Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.136187,
+                        38.372814
+                  ]
+            },
+            {
+                  "name": "Leper-Hospital",
+                  "text": "Eine historische Sehenswürdigkeit in Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.118835,
+                        38.384538
+                  ]
+            },
+            {
+                  "name": "Windmühlen von Tampakika",
+                  "text": "Historische Windmühlen und eine lokale Attraktion in Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.138262,
+                        38.382361
+                  ]
+            },
+            {
+                  "name": "Ieros Katholikos Kathedrikos Naos Agioy Nikolaoy",
+                  "text": "Eine religiöse Kultstätte in Chios Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.131688,
+                        38.372697
+                  ]
+            },
+            {
+                  "name": "Μπλούμ",
+                  "text": "Ein Wasserpark in Chios Town mit verschiedenen Möglichkeiten für Spiel und Spaß im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        26.144892,
+                        38.336053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naytiko Moyseio Chioy",
+                  "text": "A Híoszi Tengerészeti Múzeum Híosz városa gazdag tengerészeti történelmét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.133857,
+                        38.367067
+                  ]
+            },
+            {
+                  "name": "Vyzantino Moyseio Chioy",
+                  "text": "A Híosz városában található Bizánci Múzeum egy régi oszmán mecsetben kapott helyet, és történelmi műtárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.136251,
+                        38.370493
+                  ]
+            },
+            {
+                  "name": "Archaiologiko Moyseio Chioy",
+                  "text": "A Híoszi Régészeti Múzeum számos ókori leletet állít ki a sziget minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        26.139028,
+                        38.365054
+                  ]
+            },
+            {
+                  "name": "Othomaniko Loytro (Chamam)",
+                  "text": "Az oszmán fürdők a történelmi hammam építészet lenyűgöző múzeumaként szolgálnak Híosz városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.137254,
+                        38.375183
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki Chioy",
+                  "text": "Egy művészeti múzeum Chios Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.135197,
+                        38.370329
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "Egy festői strand Chios Stadt városában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.143668,
+                        38.362898
+                  ]
+            },
+            {
+                  "name": "Vivliothiki Chioy “Korais”",
+                  "text": "Egy múzeum Chios Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.136963,
+                        38.367672
+                  ]
+            },
+            {
+                  "name": "Kastro Chioy",
+                  "text": "Egy történelmi erődítmény Chios Stadt városában, amely a városközpont északi részén található.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136215,
+                        38.373721
+                  ]
+            },
+            {
+                  "name": "MNIMEIO PANAGYFTOPOYLOY STYLIANOY",
+                  "text": "Egy emlékmű Chios Stadt városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.143404,
+                        38.359278
+                  ]
+            },
+            {
+                  "name": "Mpairakli Tzami",
+                  "text": "Egy történelmi emlékmű Chios Stadt városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.136187,
+                        38.372814
+                  ]
+            },
+            {
+                  "name": "Leper-Hospital",
+                  "text": "Egy történelmi látványosság Chios Stadt városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.118835,
+                        38.384538
+                  ]
+            },
+            {
+                  "name": "Windmills of Tampakika",
+                  "text": "Történelmi szélmalmok és helyi látványosság Chios Stadt városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.138262,
+                        38.382361
+                  ]
+            },
+            {
+                  "name": "Ieros Katholikos Kathedrikos Naos Agioy Nikolaoy",
+                  "text": "Egy vallási istentiszteleti hely Chios Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.131688,
+                        38.372697
+                  ]
+            },
+            {
+                  "name": "Μπλούμ",
+                  "text": "Vízipark Chios városában, amely különféle lehetőségeket kínál a vízi játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.144892,
+                        38.336053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naytiko Moyseio Chioy",
+                  "text": "Muzeul Maritim din Chios prezintă istoria și tradițiile navale bogate ale orașului Chios.",
+                  "category": "museum",
+                  "coords": [
+                        26.133857,
+                        38.367067
+                  ]
+            },
+            {
+                  "name": "Vyzantino Moyseio Chioy",
+                  "text": "Muzeul Bizantin din Chios Stadt este găzduit într-o veche moschee otomană și prezintă artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        26.136251,
+                        38.370493
+                  ]
+            },
+            {
+                  "name": "Archaiologiko Moyseio Chioy",
+                  "text": "Muzeul Arheologic din Chios expune numeroase descoperiri antice de pe insulă.",
+                  "category": "museum",
+                  "coords": [
+                        26.139028,
+                        38.365054
+                  ]
+            },
+            {
+                  "name": "Othomaniko Loytro (Chamam)",
+                  "text": "Băile otomane servesc drept un muzeu intrigant al arhitecturii istorice a hamamului în Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.137254,
+                        38.375183
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki Chioy",
+                  "text": "Un muzeu de artă în Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.135197,
+                        38.370329
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "O plajă pitorească în Chios Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        26.143668,
+                        38.362898
+                  ]
+            },
+            {
+                  "name": "Vivliothiki Chioy “Korais”",
+                  "text": "Un muzeu în Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.136963,
+                        38.367672
+                  ]
+            },
+            {
+                  "name": "Kastro Chioy",
+                  "text": "O fortăreață istorică din Chios Stadt, situată în partea de nord a centrului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136215,
+                        38.373721
+                  ]
+            },
+            {
+                  "name": "MNIMEIO PANAGYFTOPOYLOY STYLIANOY",
+                  "text": "Un monument în Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.143404,
+                        38.359278
+                  ]
+            },
+            {
+                  "name": "Mpairakli Tzami",
+                  "text": "Un monument istoric în Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.136187,
+                        38.372814
+                  ]
+            },
+            {
+                  "name": "Leper-Hospital",
+                  "text": "O atracție istorică în Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.118835,
+                        38.384538
+                  ]
+            },
+            {
+                  "name": "Windmills of Tampakika",
+                  "text": "Mori de vânt istorice și o atracție locală în Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.138262,
+                        38.382361
+                  ]
+            },
+            {
+                  "name": "Ieros Katholikos Kathedrikos Naos Agioy Nikolaoy",
+                  "text": "Un lăcaș de cult religios în Chios Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.131688,
+                        38.372697
+                  ]
+            },
+            {
+                  "name": "Μπλούμ",
+                  "text": "Un parc acvatic în orașul Chios, cu diverse opțiuni pentru joacă și distracție în apă.",
+                  "category": "family",
+                  "coords": [
+                        26.144892,
+                        38.336053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chios Maritime Museum",
+                  "text": "The Chios Maritime Museum showcases the rich naval history and traditions of Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.133857,
+                        38.367067
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "The Byzantine Museum in Chios Stadt is housed in an old Ottoman mosque and features historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        26.136251,
+                        38.370493
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Chios",
+                  "text": "The Archaeological Museum of Chios exhibits numerous ancient finds from across the island.",
+                  "category": "museum",
+                  "coords": [
+                        26.139028,
+                        38.365054
+                  ]
+            },
+            {
+                  "name": "Ottoman Baths (Hammam)",
+                  "text": "The Ottoman Baths serve as an intriguing museum of historic hammam architecture in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.137254,
+                        38.375183
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki Chioy",
+                  "text": "An art museum in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.135197,
+                        38.370329
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "A scenic beach in Chios Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        26.143668,
+                        38.362898
+                  ]
+            },
+            {
+                  "name": "Korais Library",
+                  "text": "A museum in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.136963,
+                        38.367672
+                  ]
+            },
+            {
+                  "name": "Castle of Chios",
+                  "text": "A historic fortress in Chios Stadt, located in the northern part of the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136215,
+                        38.373721
+                  ]
+            },
+            {
+                  "name": "MNIMEIO PANAGYFTOPOYLOY STYLIANOY",
+                  "text": "A monument in Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.143404,
+                        38.359278
+                  ]
+            },
+            {
+                  "name": "Mpairakli Tzami",
+                  "text": "A historic monument in Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.136187,
+                        38.372814
+                  ]
+            },
+            {
+                  "name": "Leper-Hospital",
+                  "text": "A historical attraction in Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.118835,
+                        38.384538
+                  ]
+            },
+            {
+                  "name": "Windmills of Tampakika",
+                  "text": "Historic windmills and a local attraction in Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.138262,
+                        38.382361
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Nicholas",
+                  "text": "A religious place of worship in Chios Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.131688,
+                        38.372697
+                  ]
+            },
+            {
+                  "name": "Μπλούμ",
+                  "text": "A water park in Chios Town featuring various options for water play and fun.",
+                  "category": "family",
+                  "coords": [
+                        26.144892,
+                        38.336053
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-L",
     coords: [26.1364, 38.3681],
@@ -759,7 +3972,232 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["La ville de Samos fut fondée au XVIIIe siècle comme port commercial pour le village de Vathy.", "Le Kouros de Samos au musée archéologique est la plus grande statue de kouros isolée avec ses 5,50 mètres.", "Vathy fut la capitale de la Principauté autonome de Samos (1832-1912).", "Le vin de Samos (muscat) est une appellation d'origine protégée depuis 1934.", "La ville ne se trouve qu'à 1,5 kilomètre environ de la péninsule turque de Dilek.", "Le parlement de l'ancienne principauté de Samos est aujourd'hui un monument historique majeur du port."],
     }, image: "/poi-images/city-samos-extra.webp"},
   {
-    id: "city-kos-extra", "sights": {"de": [{"name": "Limnodexameni Agioy Nektarioy", "text": "Das Agios Nektarios Reservoir in Kos Town ist ein ruhiges Gewässer, das zu entspannten Spaziergängen einlädt.", "category": "natural", "coords": [27.293173, 36.868155]}, {"name": "Avdelolimni", "text": "Der See Αβδελολίμνη in Kos Town bietet eine schöne Naturkulisse für Ausflüge ins Grüne.", "category": "natural", "coords": [27.310878, 36.856024]}, {"name": "Limnodexameni Messarias", "text": "Das Messaria Reservoir in Kos Town ist ein malerischer Ort, ideal, um die umliegende Landschaft zu genießen.", "category": "natural", "coords": [27.224702, 36.86967]}, {"name": "MINI GOLF FANTASY", "text": "Auf der Anlage MINI GOLF FANTASY in Kos Town kann die ganze Familie ihr Geschick beim Minigolf unter Beweis stellen.", "category": "family", "coords": [27.314532, 36.885642]}], "hu": [{"name": "Limnodexameni Agioy Nektarioy", "text": "A Kos Town mellett elhelyezkedő Agios Nektarios Reservoir egy csendes víztározó, amely nyugodt sétákra csábít.", "category": "natural", "coords": [27.293173, 36.868155]}, {"name": "Avdelolimni", "text": "A Kos Town-ban található Αβδελολίμνη tó szép természeti hátteret nyújt a kirándulásokhoz.", "category": "natural", "coords": [27.310878, 36.856024]}, {"name": "Limnodexameni Messarias", "text": "A Kos Town-i Messaria Reservoir egy festői hely, ideális a környező táj élvezetére.", "category": "natural", "coords": [27.224702, 36.86967]}, {"name": "MINI GOLF FANTASY", "text": "A Kos Town-ban lévő MINI GOLF FANTASY pályán az egész család próbára teheti ügyességét a minigolfban.", "category": "family", "coords": [27.314532, 36.885642]}], "ro": [{"name": "Limnodexameni Agioy Nektarioy", "text": "Agios Nektarios Reservoir din Kos Town este un lac liniștit, care invită la plimbări relaxante.", "category": "natural", "coords": [27.293173, 36.868155]}, {"name": "Avdelolimni", "text": "Lacul Αβδελολίμνη din Kos Town oferă un cadru natural frumos pentru excursii în aer liber.", "category": "natural", "coords": [27.310878, 36.856024]}, {"name": "Limnodexameni Messarias", "text": "Messaria Reservoir din Kos Town este un loc pitoresc, ideal pentru a admira peisajul înconjurător.", "category": "natural", "coords": [27.224702, 36.86967]}, {"name": "MINI GOLF FANTASY", "text": "La terenul MINI GOLF FANTASY din Kos Town, întreaga familie își poate testa îndemânarea la minigolf.", "category": "family", "coords": [27.314532, 36.885642]}], "en": [{"name": "Agios Nektarios Reservoir", "text": "The Agios Nektarios Reservoir in Kos Town is a quiet body of water that invites for relaxing walks.", "category": "natural", "coords": [27.293173, 36.868155]}, {"name": "Avdelolimni", "text": "The Αβδελολίμνη lake in Kos Town provides a beautiful natural setting for outdoor excursions.", "category": "natural", "coords": [27.310878, 36.856024]}, {"name": "Messaria Reservoir", "text": "The Messaria Reservoir in Kos Town is a picturesque spot, ideal for enjoying the surrounding landscape.", "category": "natural", "coords": [27.224702, 36.86967]}, {"name": "MINI GOLF FANTASY", "text": "At the MINI GOLF FANTASY in Kos Town, the whole family can test their skills at miniature golf.", "category": "family", "coords": [27.314532, 36.885642]}]},
+    id: "city-kos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Limnodexameni Agioy Nektarioy",
+                  "text": "Das Agios Nektarios Reservoir in Kos Town ist ein ruhiges Gewässer, das zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.293173,
+                        36.868155
+                  ]
+            },
+            {
+                  "name": "Avdelolimni",
+                  "text": "Der See Αβδελολίμνη in Kos Town bietet eine schöne Naturkulisse für Ausflüge ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        27.310878,
+                        36.856024
+                  ]
+            },
+            {
+                  "name": "Limnodexameni Messarias",
+                  "text": "Das Messaria Reservoir in Kos Town ist ein malerischer Ort, ideal, um die umliegende Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        27.224702,
+                        36.86967
+                  ]
+            },
+            {
+                  "name": "MINI GOLF FANTASY",
+                  "text": "Auf der Anlage MINI GOLF FANTASY in Kos Town kann die ganze Familie ihr Geschick beim Minigolf unter Beweis stellen.",
+                  "category": "family",
+                  "coords": [
+                        27.314532,
+                        36.885642
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "Jacuzzi in Kos Town bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        27.245484,
+                        36.897515
+                  ]
+            },
+            {
+                  "name": "Waterslides pool",
+                  "text": "Waterslides pool in Kos Town bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        27.330657,
+                        36.884438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Limnodexameni Agioy Nektarioy",
+                  "text": "A Kos Town mellett elhelyezkedő Agios Nektarios Reservoir egy csendes víztározó, amely nyugodt sétákra csábít.",
+                  "category": "natural",
+                  "coords": [
+                        27.293173,
+                        36.868155
+                  ]
+            },
+            {
+                  "name": "Avdelolimni",
+                  "text": "A Kos Town-ban található Αβδελολίμνη tó szép természeti hátteret nyújt a kirándulásokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.310878,
+                        36.856024
+                  ]
+            },
+            {
+                  "name": "Limnodexameni Messarias",
+                  "text": "A Kos Town-i Messaria Reservoir egy festői hely, ideális a környező táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        27.224702,
+                        36.86967
+                  ]
+            },
+            {
+                  "name": "MINI GOLF FANTASY",
+                  "text": "A Kos Town-ban lévő MINI GOLF FANTASY pályán az egész család próbára teheti ügyességét a minigolfban.",
+                  "category": "family",
+                  "coords": [
+                        27.314532,
+                        36.885642
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "A Kos Town településen található Jacuzzi frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        27.245484,
+                        36.897515
+                  ]
+            },
+            {
+                  "name": "Waterslides pool",
+                  "text": "A Kos Town településen található Waterslides pool frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        27.330657,
+                        36.884438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Limnodexameni Agioy Nektarioy",
+                  "text": "Agios Nektarios Reservoir din Kos Town este un lac liniștit, care invită la plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        27.293173,
+                        36.868155
+                  ]
+            },
+            {
+                  "name": "Avdelolimni",
+                  "text": "Lacul Αβδελολίμνη din Kos Town oferă un cadru natural frumos pentru excursii în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.310878,
+                        36.856024
+                  ]
+            },
+            {
+                  "name": "Limnodexameni Messarias",
+                  "text": "Messaria Reservoir din Kos Town este un loc pitoresc, ideal pentru a admira peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        27.224702,
+                        36.86967
+                  ]
+            },
+            {
+                  "name": "MINI GOLF FANTASY",
+                  "text": "La terenul MINI GOLF FANTASY din Kos Town, întreaga familie își poate testa îndemânarea la minigolf.",
+                  "category": "family",
+                  "coords": [
+                        27.314532,
+                        36.885642
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "Jacuzzi din Kos Town oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        27.245484,
+                        36.897515
+                  ]
+            },
+            {
+                  "name": "Waterslides pool",
+                  "text": "Waterslides pool din Kos Town oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        27.330657,
+                        36.884438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Nektarios Reservoir",
+                  "text": "The Agios Nektarios Reservoir in Kos Town is a quiet body of water that invites for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.293173,
+                        36.868155
+                  ]
+            },
+            {
+                  "name": "Avdelolimni",
+                  "text": "The Αβδελολίμνη lake in Kos Town provides a beautiful natural setting for outdoor excursions.",
+                  "category": "natural",
+                  "coords": [
+                        27.310878,
+                        36.856024
+                  ]
+            },
+            {
+                  "name": "Messaria Reservoir",
+                  "text": "The Messaria Reservoir in Kos Town is a picturesque spot, ideal for enjoying the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.224702,
+                        36.86967
+                  ]
+            },
+            {
+                  "name": "MINI GOLF FANTASY",
+                  "text": "At the MINI GOLF FANTASY in Kos Town, the whole family can test their skills at miniature golf.",
+                  "category": "family",
+                  "coords": [
+                        27.314532,
+                        36.885642
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "Jacuzzi in Kos Town offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        27.245484,
+                        36.897515
+                  ]
+            },
+            {
+                  "name": "Waterslides pool",
+                  "text": "Waterslides pool in Kos Town offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        27.330657,
+                        36.884438
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-M",
     coords: [27.2872, 36.8931],

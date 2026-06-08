@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const luxembourgCitiesV2: POI[] = [
 
   {
-    id: "luxembourg-esch-sur-alzette-cities-v2",
+    id: "luxembourg-esch-sur-alzette-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Animalier Escher Déierepark",
+                  "text": "Ein Zoo in Esch Sur Alzette, in dem Familien verschiedene Tiere beobachten können.",
+                  "category": "family",
+                  "coords": [
+                        5.985431,
+                        49.482451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Animalier Escher Déierepark",
+                  "text": "Állatkert Esch Sur Alzette területén, ahol a családok különféle állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        5.985431,
+                        49.482451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Animalier Escher Déierepark",
+                  "text": "O grădină zoologică în Esch Sur Alzette unde familiile pot vedea diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        5.985431,
+                        49.482451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Animalier Escher Déierepark",
+                  "text": "A zoo in Esch Sur Alzette where families can see various animals.",
+                  "category": "family",
+                  "coords": [
+                        5.985431,
+                        49.482451
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "city",
     name: { de: "Esch an der Alzette", hu: "Esch-sur-Alzette", ro: "Esch-sur-Alzette", en: "Esch-sur-Alzette"},
@@ -68,6 +113,24 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
                         5.862775,
                         49.534047
                   ]
+            },
+            {
+                  "name": "Piscine ouverte d'Oberkorn",
+                  "text": "Ein unterhaltsamer Wasserpark in Differdange mit verschiedenen Pools und Rutschen für die Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        5.89142,
+                        49.512712
+                  ]
+            },
+            {
+                  "name": "Piscine Piko",
+                  "text": "Ein unterhaltsamer Wasserpark in Differdange mit verschiedenen Pools und Rutschen für die Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        5.845379,
+                        49.539637
+                  ]
             }
       ],
       "hu": [
@@ -87,6 +150,24 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
                   "coords": [
                         5.862775,
                         49.534047
+                  ]
+            },
+            {
+                  "name": "Piscine ouverte d'Oberkorn",
+                  "text": "Szórakoztató vízi park Differdange területén, különféle medencékkel és csúszdákkal a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.89142,
+                        49.512712
+                  ]
+            },
+            {
+                  "name": "Piscine Piko",
+                  "text": "Szórakoztató vízi park Differdange területén, különféle medencékkel és csúszdákkal a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        5.845379,
+                        49.539637
                   ]
             }
       ],
@@ -108,6 +189,24 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
                         5.862775,
                         49.534047
                   ]
+            },
+            {
+                  "name": "Piscine ouverte d'Oberkorn",
+                  "text": "Un parc acvatic distractiv în Differdange, cu diverse piscine și tobogane pentru recreerea familiei.",
+                  "category": "family",
+                  "coords": [
+                        5.89142,
+                        49.512712
+                  ]
+            },
+            {
+                  "name": "Piscine Piko",
+                  "text": "Un parc acvatic distractiv în Differdange, cu diverse piscine și tobogane pentru recreerea familiei.",
+                  "category": "family",
+                  "coords": [
+                        5.845379,
+                        49.539637
+                  ]
             }
       ],
       "en": [
@@ -127,6 +226,24 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
                   "coords": [
                         5.862775,
                         49.534047
+                  ]
+            },
+            {
+                  "name": "Piscine ouverte d'Oberkorn",
+                  "text": "A fun water park in Differdange with various pools and slides for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        5.89142,
+                        49.512712
+                  ]
+            },
+            {
+                  "name": "Piscine Piko",
+                  "text": "A fun water park in Differdange with various pools and slides for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        5.845379,
+                        49.539637
                   ]
             }
       ]
@@ -11687,7 +11804,52 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
   }
 ,
   {
-    id: "luxembourg-leudelange-cities-v2",
+    id: "luxembourg-leudelange-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nature ëmwelt",
+                  "text": "Ein Zoo in Leudelange, der ein schönes Ausflugsziel für Familien mit Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        6.107425,
+                        49.562537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nature ëmwelt",
+                  "text": "Állatkert Leudelange területén, amely szép kirándulóhely a kisgyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.107425,
+                        49.562537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nature ëmwelt",
+                  "text": "O grădină zoologică în Leudelange, care este o destinație frumoasă pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        6.107425,
+                        49.562537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nature ëmwelt",
+                  "text": "A zoo in Leudelange that is a nice destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        6.107425,
+                        49.562537
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LU",
     name: { de: "Leudelingen", hu: "Leudelange", ro: "Leudelange", en: "Leudelange" },
@@ -15630,6 +15792,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.198571,
                         49.801082
                   ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "Ein Schwimmbad in Nommern, das für Sport und Erholung geeignet ist.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
             }
       ],
       "hu": [
@@ -15649,6 +15820,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.198571,
                         49.801082
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "Úszómedence Nommern területén, amely sportolásra és kikapcsolódásra alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
                   ]
             }
       ],
@@ -15670,6 +15850,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.198571,
                         49.801082
                   ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "O piscină în Nommern potrivită pentru sport și recreere.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
             }
       ],
       "en": [
@@ -15689,6 +15878,15 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.198571,
                         49.801082
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "A swimming pool in Nommern suitable for sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
                   ]
             }
       ]
@@ -15737,7 +15935,160 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
     image: "/poi-images/luxembourg-nommern-cities-v2.webp",
   },
   {
-    id: "luxembourg-bivange-cities-v2",
+    id: "luxembourg-bivange-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscine SPIC",
+                  "text": "Diese Einrichtung in Bivange bietet einen tollen Ort zum Schwimmen und für familienfreundlichen Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        6.149297,
+                        49.537937
+                  ]
+            },
+            {
+                  "name": "Nature ëmwelt",
+                  "text": "Ein lokaler Zoo in Bivange, in dem Familien verschiedene Tiere in einer natürlichen Umgebung beobachten können.",
+                  "category": "family",
+                  "coords": [
+                        6.107425,
+                        49.562537
+                  ]
+            },
+            {
+                  "name": "Parc Merveilleux",
+                  "text": "Ein aufregender Themenpark in Bivange mit verschiedenen Attraktionen und Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        6.119976,
+                        49.510703
+                  ]
+            },
+            {
+                  "name": "Minizoo Streichelzoo",
+                  "text": "Ein lokaler Zoo in Bivange, in dem Familien verschiedene Tiere in einer natürlichen Umgebung beobachten können.",
+                  "category": "family",
+                  "coords": [
+                        6.118495,
+                        49.5133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscine SPIC",
+                  "text": "Ez a Bivange városában található létesítmény remek helyet biztosít az úszáshoz és a vízi családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.149297,
+                        49.537937
+                  ]
+            },
+            {
+                  "name": "Nature ëmwelt",
+                  "text": "Helyi állatkert Bivange területén, ahol a családok különböző állatokat láthatnak természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        6.107425,
+                        49.562537
+                  ]
+            },
+            {
+                  "name": "Parc Merveilleux",
+                  "text": "Izgalmas vidámpark Bivange területén, különféle látnivalókkal és szórakozási lehetőségekkel minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        6.119976,
+                        49.510703
+                  ]
+            },
+            {
+                  "name": "Minizoo Streichelzoo",
+                  "text": "Helyi állatkert Bivange területén, ahol a családok különböző állatokat láthatnak természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        6.118495,
+                        49.5133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscine SPIC",
+                  "text": "Această unitate din Bivange oferă un loc minunat pentru înot și distracție în familie pe bază de apă.",
+                  "category": "family",
+                  "coords": [
+                        6.149297,
+                        49.537937
+                  ]
+            },
+            {
+                  "name": "Nature ëmwelt",
+                  "text": "O grădină zoologică locală în Bivange, unde familiile se pot bucura de vizionarea diferitelor animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        6.107425,
+                        49.562537
+                  ]
+            },
+            {
+                  "name": "Parc Merveilleux",
+                  "text": "Un parc tematic interesant în Bivange, cu diverse atracții și divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        6.119976,
+                        49.510703
+                  ]
+            },
+            {
+                  "name": "Minizoo Streichelzoo",
+                  "text": "O grădină zoologică locală în Bivange, unde familiile se pot bucura de vizionarea diferitelor animale într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        6.118495,
+                        49.5133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscine SPIC",
+                  "text": "This facility in Bivange provides a great spot for swimming and water-based family fun.",
+                  "category": "family",
+                  "coords": [
+                        6.149297,
+                        49.537937
+                  ]
+            },
+            {
+                  "name": "Nature ëmwelt",
+                  "text": "A local zoo in Bivange where families can enjoy seeing different animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        6.107425,
+                        49.562537
+                  ]
+            },
+            {
+                  "name": "Parc Merveilleux",
+                  "text": "An exciting theme park in Bivange featuring various attractions and entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        6.119976,
+                        49.510703
+                  ]
+            },
+            {
+                  "name": "Minizoo Streichelzoo",
+                  "text": "A local zoo in Bivange where families can enjoy seeing different animals in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        6.118495,
+                        49.5133
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LU",
     name: { de: "Bivange", hu: "Bivange", ro: "Bivange", en: "Bivange" },
@@ -16232,7 +16583,628 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
     image: "/poi-images/luxembourg-tuntange-cities-v2.webp",
   },
   {
-    id: "luxembourg-dahl-cities-v2", "sights": {"de": [{"name": "Château de Wiltz", "text": "Das Schloss Wiltz ist ein imposanter Herrensitz, der heute kulturelle Einrichtungen beherbergt.", "category": "castle", "coords": [5.938514, 49.966467]}, {"name": "Saint-Donatus", "text": "Ein Aussichtspunkt bei Merkholtz mit einem Denkmal für den heiligen Donatus.", "category": "natural", "coords": [5.994305, 49.97105]}, {"name": "Monument National de la Grève", "text": "Ein Denkmal zur Erinnerung an den Generalstreik von 1942 gegen die Besatzung.", "category": "historical", "coords": [5.933937, 49.966644]}, {"name": "Former quarry", "text": "Ein ehemaliger Steinbruch, der heute Einblicke in die lokale Geologie bietet.", "category": "landmark", "coords": [5.969622, 49.965127]}, {"name": "Hide Out FEB/JUN 1944", "text": "Überreste eines Verstecks aus dem Jahr 1944, das während des Krieges genutzt wurde.", "category": "historical", "coords": [6.001002, 49.938516]}, {"name": "Brandbau", "text": "Das kulturelle Herz von Wiltz schlägt im Brandbau, das auch von Dahl aus besucht wird. Dieses moderne Zentrum bietet eine Plattform für zeitgenössische Kunst und diverse Kulturveranstaltungen.", "category": "cultural", "coords": [5.934527, 49.962193]}, {"name": "Mäerkelsser Kierch", "text": "Die Dorfkirche von Merkholtz ist ein schlichtes Sakralbauwerk im Ösling.", "category": "religious", "coords": [5.98072, 49.961617]}, {"name": "Saint-Vincent", "text": "Die dem heiligen Vinzenz gewidmete Kirche ist der religiöse Mittelpunkt von Dahl.", "category": "religious", "coords": [5.971402, 49.934467]}, {"name": "Saint-Servais", "text": "Die Kirche St. Servatius in Alscheid ist eine Kapelle mit historischem Charme.", "category": "religious", "coords": [6.008534, 49.97019]}, {"name": "Notre-Dame Consolatrice des Affligés", "text": "Ein Gotteshaus, das Maria, der Trösterin der Betrübten, gewidmet ist.", "category": "religious", "coords": [5.934686, 49.964786]}, {"name": "Saint-Eloi", "text": "Eine örtliche Kapelle oder Kirche, die dem heiligen Eligius gewidmet ist.", "category": "religious", "coords": [5.947791, 49.977516]}, {"name": "Saint-Remigius", "text": "Die dem heiligen Remigius gewidmete Kirche befindet sich im Dorf Nocher.", "category": "religious", "coords": [5.977517, 49.946415]}, {"name": "Pow Wow", "text": "Eine rustikale Hütte oder ein Chalet, das oft für Freizeitaktivitäten genutzt wird.", "category": "landmark", "coords": [5.951345, 49.965914]}, {"name": "Thérèse de Lisieux", "text": "Eine kleine Kapelle zu Ehren der heiligen Therese von Lisieux.", "category": "landmark", "coords": [5.977242, 49.935228]}, {"name": "Stausee", "text": "Ein großer See in Dahl, der eine beeindruckende Kulisse für Spaziergänge bietet.", "category": "natural", "coords": [5.871065, 49.892746]}, {"name": "Spillplaatz an der Breck", "text": "Ein Spielplatz in Dahl, der ein idealer Ort für Familien mit kleinen Kindern ist.", "category": "family", "coords": [5.948407, 49.979627]}], "hu": [{"name": "Château de Wiltz", "text": "A Wiltz-kastély egy impozáns épület, amely ma kulturális intézményeknek ad otthont.", "category": "castle", "coords": [5.938514, 49.966467]}, {"name": "Saint-Donatus", "text": "Kilátópont Merkholtz közelében, Szent Donát tiszteletére emelt emlékművel.", "category": "natural", "coords": [5.994305, 49.97105]}, {"name": "Monument National de la Grève", "text": "Emlékmű az 1942-es, megszállás elleni általános sztrájk emlékére.", "category": "historical", "coords": [5.933937, 49.966644]}, {"name": "Former quarry", "text": "Egy egykori kőbánya, amely ma betekintést nyújt a helyi geológiába.", "category": "landmark", "coords": [5.969622, 49.965127]}, {"name": "Hide Out FEB/JUN 1944", "text": "Egy 1944-es, a háború alatt használt rejtekhely maradványai.", "category": "historical", "coords": [6.001002, 49.938516]}, {"name": "Brandbau", "text": "Wiltz kulturális szíve a Brandbau épületében dobog, amely Dahl felől is látogatható. Ez a modern központ teret ad a kortárs művészeteknek és a legkülönfélébb kulturális rendezvényeknek.", "category": "cultural", "coords": [5.934527, 49.962193]}, {"name": "Mäerkelsser Kierch", "text": "Merkholtz falusi temploma egy egyszerű vallási épület az Ösling régióban.", "category": "religious", "coords": [5.98072, 49.961617]}, {"name": "Saint-Vincent", "text": "A Szent Vincének szentelt templom Dahl vallási központja.", "category": "religious", "coords": [5.971402, 49.934467]}, {"name": "Saint-Servais", "text": "Az Alscheidben található Szent Szervác-templom egy történelmi bájú kápolna.", "category": "religious", "coords": [6.008534, 49.97019]}, {"name": "Notre-Dame Consolatrice des Affligés", "text": "Egy templom, amelyet Máriának, a szomorúak vigasztalójának szenteltek.", "category": "religious", "coords": [5.934686, 49.964786]}, {"name": "Saint-Eloi", "text": "Egy helyi kápolna vagy templom, amelyet Szent Elődiusnak szenteltek.", "category": "religious", "coords": [5.947791, 49.977516]}, {"name": "Saint-Remigius", "text": "A Szent Remigiusnak szentelt templom Nocher faluban található.", "category": "religious", "coords": [5.977517, 49.946415]}, {"name": "Pow Wow", "text": "Egy rusztikus kunyhó vagy faház, amelyet gyakran szabadidős tevékenységekre használnak.", "category": "landmark", "coords": [5.951345, 49.965914]}, {"name": "Thérèse de Lisieux", "text": "Egy kis kápolna Lisieux-i Szent Teréz tiszteletére.", "category": "landmark", "coords": [5.977242, 49.935228]}, {"name": "Lac de la Haute-Sûre", "text": "Nagy tó Dahl közelében, amely lenyűgöző környezetet biztosít a sétákhoz.", "category": "natural", "coords": [5.871065, 49.892746]}, {"name": "Spillplaatz an der Breck", "text": "Játszótér Dahl városában, amely ideális hely a kisgyermekes családok számára.", "category": "family", "coords": [5.948407, 49.979627]}], "ro": [{"name": "Château de Wiltz", "text": "Castelul Wiltz este un edificiu impunător care găzduiește astăzi instituții culturale.", "category": "castle", "coords": [5.938514, 49.966467]}, {"name": "Saint-Donatus", "text": "Un punct de belvedere lângă Merkholtz, cu un monument dedicat Sfântului Donat.", "category": "natural", "coords": [5.994305, 49.97105]}, {"name": "Monument National de la Grève", "text": "Un monument care comemorează greva generală din 1942 împotriva ocupației.", "category": "historical", "coords": [5.933937, 49.966644]}, {"name": "Former quarry", "text": "O fostă carieră de piatră care oferă astăzi perspective asupra geologiei locale.", "category": "landmark", "coords": [5.969622, 49.965127]}, {"name": "Hide Out FEB/JUN 1944", "text": "Rămășițele unui adăpost din 1944, folosit în timpul războiului.", "category": "historical", "coords": [6.001002, 49.938516]}, {"name": "Brandbau", "text": "Inima culturală a orașului Wiltz bate în Brandbau, clădire care poate fi vizitată și din Dahl. Acest centru modern oferă o platformă pentru arta contemporană și diverse evenimente culturale.", "category": "cultural", "coords": [5.934527, 49.962193]}, {"name": "Mäerkelsser Kierch", "text": "Biserica din satul Merkholtz este un edificiu religios simplu din regiunea Ösling.", "category": "religious", "coords": [5.98072, 49.961617]}, {"name": "Saint-Vincent", "text": "Biserica dedicată Sfântului Vincențiu este centrul religios al localității Dahl.", "category": "religious", "coords": [5.971402, 49.934467]}, {"name": "Saint-Servais", "text": "Biserica Sfântul Servatius din Alscheid este o capelă cu farmec istoric.", "category": "religious", "coords": [6.008534, 49.97019]}, {"name": "Notre-Dame Consolatrice des Affligés", "text": "Un lăcaș de cult dedicat Mariei, Consolatoarea celor Aflicți.", "category": "religious", "coords": [5.934686, 49.964786]}, {"name": "Saint-Eloi", "text": "O capelă sau biserică locală dedicată Sfântului Eligius.", "category": "religious", "coords": [5.947791, 49.977516]}, {"name": "Saint-Remigius", "text": "Biserica dedicată Sfântului Remigius se află în satul Nocher.", "category": "religious", "coords": [5.977517, 49.946415]}, {"name": "Pow Wow", "text": "O cabană rustică folosită adesea pentru activități de agrement.", "category": "landmark", "coords": [5.951345, 49.965914]}, {"name": "Thérèse de Lisieux", "text": "O mică capelă în cinstea Sfintei Tereza de Lisieux.", "category": "landmark", "coords": [5.977242, 49.935228]}, {"name": "Lac de la Haute-Sûre", "text": "Un lac mare în Dahl, oferind un cadru impresionant pentru plimbări.", "category": "natural", "coords": [5.871065, 49.892746]}, {"name": "Spillplaatz an der Breck", "text": "Un loc de joacă în Dahl, care este un loc ideal pentru familiile cu copii mici.", "category": "family", "coords": [5.948407, 49.979627]}], "en": [{"name": "Château de Wiltz", "text": "Wiltz Castle is an impressive manor house that now hosts cultural institutions.", "category": "castle", "coords": [5.938514, 49.966467]}, {"name": "Saint-Donatus", "text": "A viewpoint near Merkholtz featuring a monument dedicated to Saint Donatus.", "category": "natural", "coords": [5.994305, 49.97105]}, {"name": "Monument National de la Grève", "text": "A monument commemorating the 1942 general strike against the occupation.", "category": "historical", "coords": [5.933937, 49.966644]}, {"name": "Former quarry", "text": "A former quarry that today offers insights into the local geology.", "category": "landmark", "coords": [5.969622, 49.965127]}, {"name": "Hide Out FEB/JUN 1944", "text": "Remains of a hideout from 1944 used during the war.", "category": "historical", "coords": [6.001002, 49.938516]}, {"name": "Brandbau", "text": "The cultural heart of Wiltz beats in the Brandbau, which is also visited from Dahl. This modern center provides a platform for contemporary art and various cultural events.", "category": "cultural", "coords": [5.934527, 49.962193]}, {"name": "Mäerkelsser Kierch", "text": "The village church of Merkholtz is a simple religious building in the Oesling region.", "category": "religious", "coords": [5.98072, 49.961617]}, {"name": "Saint-Vincent", "text": "The church dedicated to Saint Vincent is the religious center of Dahl.", "category": "religious", "coords": [5.971402, 49.934467]}, {"name": "Saint-Servais", "text": "Saint Servatius Church in Alscheid is a chapel with historic charm.", "category": "religious", "coords": [6.008534, 49.97019]}, {"name": "Notre-Dame Consolatrice des Affligés", "text": "A place of worship dedicated to Mary, Consoler of the Afflicted.", "category": "religious", "coords": [5.934686, 49.964786]}, {"name": "Saint-Eloi", "text": "A local chapel or church dedicated to Saint Eloi.", "category": "religious", "coords": [5.947791, 49.977516]}, {"name": "Saint-Remigius", "text": "The church dedicated to Saint Remigius is located in the village of Nocher.", "category": "religious", "coords": [5.977517, 49.946415]}, {"name": "Pow Wow", "text": "A rustic hut or chalet often used for leisure activities.", "category": "landmark", "coords": [5.951345, 49.965914]}, {"name": "Thérèse de Lisieux", "text": "A small chapel in honor of Saint Thérèse of Lisieux.", "category": "landmark", "coords": [5.977242, 49.935228]}, {"name": "Lac de la Haute-Sûre", "text": "A large lake in Dahl, offering an impressive backdrop for walks.", "category": "natural", "coords": [5.871065, 49.892746]}, {"name": "Spillplaatz an der Breck", "text": "A playground in Dahl, which is an ideal spot for families with young children.", "category": "family", "coords": [5.948407, 49.979627]}]},
+    id: "luxembourg-dahl-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Wiltz",
+                  "text": "Das Schloss Wiltz ist ein imposanter Herrensitz, der heute kulturelle Einrichtungen beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        5.938514,
+                        49.966467
+                  ]
+            },
+            {
+                  "name": "Saint-Donatus",
+                  "text": "Ein Aussichtspunkt bei Merkholtz mit einem Denkmal für den heiligen Donatus.",
+                  "category": "natural",
+                  "coords": [
+                        5.994305,
+                        49.97105
+                  ]
+            },
+            {
+                  "name": "Monument National de la Grève",
+                  "text": "Ein Denkmal zur Erinnerung an den Generalstreik von 1942 gegen die Besatzung.",
+                  "category": "historical",
+                  "coords": [
+                        5.933937,
+                        49.966644
+                  ]
+            },
+            {
+                  "name": "Former quarry",
+                  "text": "Ein ehemaliger Steinbruch, der heute Einblicke in die lokale Geologie bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        5.969622,
+                        49.965127
+                  ]
+            },
+            {
+                  "name": "Hide Out FEB/JUN 1944",
+                  "text": "Überreste eines Verstecks aus dem Jahr 1944, das während des Krieges genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        6.001002,
+                        49.938516
+                  ]
+            },
+            {
+                  "name": "Brandbau",
+                  "text": "Das kulturelle Herz von Wiltz schlägt im Brandbau, das auch von Dahl aus besucht wird. Dieses moderne Zentrum bietet eine Plattform für zeitgenössische Kunst und diverse Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.934527,
+                        49.962193
+                  ]
+            },
+            {
+                  "name": "Mäerkelsser Kierch",
+                  "text": "Die Dorfkirche von Merkholtz ist ein schlichtes Sakralbauwerk im Ösling.",
+                  "category": "religious",
+                  "coords": [
+                        5.98072,
+                        49.961617
+                  ]
+            },
+            {
+                  "name": "Saint-Vincent",
+                  "text": "Die dem heiligen Vinzenz gewidmete Kirche ist der religiöse Mittelpunkt von Dahl.",
+                  "category": "religious",
+                  "coords": [
+                        5.971402,
+                        49.934467
+                  ]
+            },
+            {
+                  "name": "Saint-Servais",
+                  "text": "Die Kirche St. Servatius in Alscheid ist eine Kapelle mit historischem Charme.",
+                  "category": "religious",
+                  "coords": [
+                        6.008534,
+                        49.97019
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Consolatrice des Affligés",
+                  "text": "Ein Gotteshaus, das Maria, der Trösterin der Betrübten, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.934686,
+                        49.964786
+                  ]
+            },
+            {
+                  "name": "Saint-Eloi",
+                  "text": "Eine örtliche Kapelle oder Kirche, die dem heiligen Eligius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        5.947791,
+                        49.977516
+                  ]
+            },
+            {
+                  "name": "Saint-Remigius",
+                  "text": "Die dem heiligen Remigius gewidmete Kirche befindet sich im Dorf Nocher.",
+                  "category": "religious",
+                  "coords": [
+                        5.977517,
+                        49.946415
+                  ]
+            },
+            {
+                  "name": "Pow Wow",
+                  "text": "Eine rustikale Hütte oder ein Chalet, das oft für Freizeitaktivitäten genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        5.951345,
+                        49.965914
+                  ]
+            },
+            {
+                  "name": "Thérèse de Lisieux",
+                  "text": "Eine kleine Kapelle zu Ehren der heiligen Therese von Lisieux.",
+                  "category": "landmark",
+                  "coords": [
+                        5.977242,
+                        49.935228
+                  ]
+            },
+            {
+                  "name": "Stausee",
+                  "text": "Ein großer See in Dahl, der eine beeindruckende Kulisse für Spaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.871065,
+                        49.892746
+                  ]
+            },
+            {
+                  "name": "Spillplaatz an der Breck",
+                  "text": "Ein Spielplatz in Dahl, der ein idealer Ort für Familien mit kleinen Kindern ist.",
+                  "category": "family",
+                  "coords": [
+                        5.948407,
+                        49.979627
+                  ]
+            },
+            {
+                  "name": "Piscine KAUL",
+                  "text": "Ein Schwimmbad in Dahl, ideal für ein erfrischendes Bad.",
+                  "category": "family",
+                  "coords": [
+                        5.934229,
+                        49.97315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Wiltz",
+                  "text": "A Wiltz-kastély egy impozáns épület, amely ma kulturális intézményeknek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        5.938514,
+                        49.966467
+                  ]
+            },
+            {
+                  "name": "Saint-Donatus",
+                  "text": "Kilátópont Merkholtz közelében, Szent Donát tiszteletére emelt emlékművel.",
+                  "category": "natural",
+                  "coords": [
+                        5.994305,
+                        49.97105
+                  ]
+            },
+            {
+                  "name": "Monument National de la Grève",
+                  "text": "Emlékmű az 1942-es, megszállás elleni általános sztrájk emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        5.933937,
+                        49.966644
+                  ]
+            },
+            {
+                  "name": "Former quarry",
+                  "text": "Egy egykori kőbánya, amely ma betekintést nyújt a helyi geológiába.",
+                  "category": "landmark",
+                  "coords": [
+                        5.969622,
+                        49.965127
+                  ]
+            },
+            {
+                  "name": "Hide Out FEB/JUN 1944",
+                  "text": "Egy 1944-es, a háború alatt használt rejtekhely maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        6.001002,
+                        49.938516
+                  ]
+            },
+            {
+                  "name": "Brandbau",
+                  "text": "Wiltz kulturális szíve a Brandbau épületében dobog, amely Dahl felől is látogatható. Ez a modern központ teret ad a kortárs művészeteknek és a legkülönfélébb kulturális rendezvényeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        5.934527,
+                        49.962193
+                  ]
+            },
+            {
+                  "name": "Mäerkelsser Kierch",
+                  "text": "Merkholtz falusi temploma egy egyszerű vallási épület az Ösling régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.98072,
+                        49.961617
+                  ]
+            },
+            {
+                  "name": "Saint-Vincent",
+                  "text": "A Szent Vincének szentelt templom Dahl vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        5.971402,
+                        49.934467
+                  ]
+            },
+            {
+                  "name": "Saint-Servais",
+                  "text": "Az Alscheidben található Szent Szervác-templom egy történelmi bájú kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        6.008534,
+                        49.97019
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Consolatrice des Affligés",
+                  "text": "Egy templom, amelyet Máriának, a szomorúak vigasztalójának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        5.934686,
+                        49.964786
+                  ]
+            },
+            {
+                  "name": "Saint-Eloi",
+                  "text": "Egy helyi kápolna vagy templom, amelyet Szent Elődiusnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        5.947791,
+                        49.977516
+                  ]
+            },
+            {
+                  "name": "Saint-Remigius",
+                  "text": "A Szent Remigiusnak szentelt templom Nocher faluban található.",
+                  "category": "religious",
+                  "coords": [
+                        5.977517,
+                        49.946415
+                  ]
+            },
+            {
+                  "name": "Pow Wow",
+                  "text": "Egy rusztikus kunyhó vagy faház, amelyet gyakran szabadidős tevékenységekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        5.951345,
+                        49.965914
+                  ]
+            },
+            {
+                  "name": "Thérèse de Lisieux",
+                  "text": "Egy kis kápolna Lisieux-i Szent Teréz tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        5.977242,
+                        49.935228
+                  ]
+            },
+            {
+                  "name": "Lac de la Haute-Sûre",
+                  "text": "Nagy tó Dahl közelében, amely lenyűgöző környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        5.871065,
+                        49.892746
+                  ]
+            },
+            {
+                  "name": "Spillplaatz an der Breck",
+                  "text": "Játszótér Dahl városában, amely ideális hely a kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        5.948407,
+                        49.979627
+                  ]
+            },
+            {
+                  "name": "Piscine KAUL",
+                  "text": "Úszómedence Dahl területén, amely ideális egy frissítő fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        5.934229,
+                        49.97315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Wiltz",
+                  "text": "Castelul Wiltz este un edificiu impunător care găzduiește astăzi instituții culturale.",
+                  "category": "castle",
+                  "coords": [
+                        5.938514,
+                        49.966467
+                  ]
+            },
+            {
+                  "name": "Saint-Donatus",
+                  "text": "Un punct de belvedere lângă Merkholtz, cu un monument dedicat Sfântului Donat.",
+                  "category": "natural",
+                  "coords": [
+                        5.994305,
+                        49.97105
+                  ]
+            },
+            {
+                  "name": "Monument National de la Grève",
+                  "text": "Un monument care comemorează greva generală din 1942 împotriva ocupației.",
+                  "category": "historical",
+                  "coords": [
+                        5.933937,
+                        49.966644
+                  ]
+            },
+            {
+                  "name": "Former quarry",
+                  "text": "O fostă carieră de piatră care oferă astăzi perspective asupra geologiei locale.",
+                  "category": "landmark",
+                  "coords": [
+                        5.969622,
+                        49.965127
+                  ]
+            },
+            {
+                  "name": "Hide Out FEB/JUN 1944",
+                  "text": "Rămășițele unui adăpost din 1944, folosit în timpul războiului.",
+                  "category": "historical",
+                  "coords": [
+                        6.001002,
+                        49.938516
+                  ]
+            },
+            {
+                  "name": "Brandbau",
+                  "text": "Inima culturală a orașului Wiltz bate în Brandbau, clădire care poate fi vizitată și din Dahl. Acest centru modern oferă o platformă pentru arta contemporană și diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.934527,
+                        49.962193
+                  ]
+            },
+            {
+                  "name": "Mäerkelsser Kierch",
+                  "text": "Biserica din satul Merkholtz este un edificiu religios simplu din regiunea Ösling.",
+                  "category": "religious",
+                  "coords": [
+                        5.98072,
+                        49.961617
+                  ]
+            },
+            {
+                  "name": "Saint-Vincent",
+                  "text": "Biserica dedicată Sfântului Vincențiu este centrul religios al localității Dahl.",
+                  "category": "religious",
+                  "coords": [
+                        5.971402,
+                        49.934467
+                  ]
+            },
+            {
+                  "name": "Saint-Servais",
+                  "text": "Biserica Sfântul Servatius din Alscheid este o capelă cu farmec istoric.",
+                  "category": "religious",
+                  "coords": [
+                        6.008534,
+                        49.97019
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Consolatrice des Affligés",
+                  "text": "Un lăcaș de cult dedicat Mariei, Consolatoarea celor Aflicți.",
+                  "category": "religious",
+                  "coords": [
+                        5.934686,
+                        49.964786
+                  ]
+            },
+            {
+                  "name": "Saint-Eloi",
+                  "text": "O capelă sau biserică locală dedicată Sfântului Eligius.",
+                  "category": "religious",
+                  "coords": [
+                        5.947791,
+                        49.977516
+                  ]
+            },
+            {
+                  "name": "Saint-Remigius",
+                  "text": "Biserica dedicată Sfântului Remigius se află în satul Nocher.",
+                  "category": "religious",
+                  "coords": [
+                        5.977517,
+                        49.946415
+                  ]
+            },
+            {
+                  "name": "Pow Wow",
+                  "text": "O cabană rustică folosită adesea pentru activități de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        5.951345,
+                        49.965914
+                  ]
+            },
+            {
+                  "name": "Thérèse de Lisieux",
+                  "text": "O mică capelă în cinstea Sfintei Tereza de Lisieux.",
+                  "category": "landmark",
+                  "coords": [
+                        5.977242,
+                        49.935228
+                  ]
+            },
+            {
+                  "name": "Lac de la Haute-Sûre",
+                  "text": "Un lac mare în Dahl, oferind un cadru impresionant pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        5.871065,
+                        49.892746
+                  ]
+            },
+            {
+                  "name": "Spillplaatz an der Breck",
+                  "text": "Un loc de joacă în Dahl, care este un loc ideal pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        5.948407,
+                        49.979627
+                  ]
+            },
+            {
+                  "name": "Piscine KAUL",
+                  "text": "O piscină în Dahl, ideală pentru o baie răcoritoare.",
+                  "category": "family",
+                  "coords": [
+                        5.934229,
+                        49.97315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Wiltz",
+                  "text": "Wiltz Castle is an impressive manor house that now hosts cultural institutions.",
+                  "category": "castle",
+                  "coords": [
+                        5.938514,
+                        49.966467
+                  ]
+            },
+            {
+                  "name": "Saint-Donatus",
+                  "text": "A viewpoint near Merkholtz featuring a monument dedicated to Saint Donatus.",
+                  "category": "natural",
+                  "coords": [
+                        5.994305,
+                        49.97105
+                  ]
+            },
+            {
+                  "name": "Monument National de la Grève",
+                  "text": "A monument commemorating the 1942 general strike against the occupation.",
+                  "category": "historical",
+                  "coords": [
+                        5.933937,
+                        49.966644
+                  ]
+            },
+            {
+                  "name": "Former quarry",
+                  "text": "A former quarry that today offers insights into the local geology.",
+                  "category": "landmark",
+                  "coords": [
+                        5.969622,
+                        49.965127
+                  ]
+            },
+            {
+                  "name": "Hide Out FEB/JUN 1944",
+                  "text": "Remains of a hideout from 1944 used during the war.",
+                  "category": "historical",
+                  "coords": [
+                        6.001002,
+                        49.938516
+                  ]
+            },
+            {
+                  "name": "Brandbau",
+                  "text": "The cultural heart of Wiltz beats in the Brandbau, which is also visited from Dahl. This modern center provides a platform for contemporary art and various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.934527,
+                        49.962193
+                  ]
+            },
+            {
+                  "name": "Mäerkelsser Kierch",
+                  "text": "The village church of Merkholtz is a simple religious building in the Oesling region.",
+                  "category": "religious",
+                  "coords": [
+                        5.98072,
+                        49.961617
+                  ]
+            },
+            {
+                  "name": "Saint-Vincent",
+                  "text": "The church dedicated to Saint Vincent is the religious center of Dahl.",
+                  "category": "religious",
+                  "coords": [
+                        5.971402,
+                        49.934467
+                  ]
+            },
+            {
+                  "name": "Saint-Servais",
+                  "text": "Saint Servatius Church in Alscheid is a chapel with historic charm.",
+                  "category": "religious",
+                  "coords": [
+                        6.008534,
+                        49.97019
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Consolatrice des Affligés",
+                  "text": "A place of worship dedicated to Mary, Consoler of the Afflicted.",
+                  "category": "religious",
+                  "coords": [
+                        5.934686,
+                        49.964786
+                  ]
+            },
+            {
+                  "name": "Saint-Eloi",
+                  "text": "A local chapel or church dedicated to Saint Eloi.",
+                  "category": "religious",
+                  "coords": [
+                        5.947791,
+                        49.977516
+                  ]
+            },
+            {
+                  "name": "Saint-Remigius",
+                  "text": "The church dedicated to Saint Remigius is located in the village of Nocher.",
+                  "category": "religious",
+                  "coords": [
+                        5.977517,
+                        49.946415
+                  ]
+            },
+            {
+                  "name": "Pow Wow",
+                  "text": "A rustic hut or chalet often used for leisure activities.",
+                  "category": "landmark",
+                  "coords": [
+                        5.951345,
+                        49.965914
+                  ]
+            },
+            {
+                  "name": "Thérèse de Lisieux",
+                  "text": "A small chapel in honor of Saint Thérèse of Lisieux.",
+                  "category": "landmark",
+                  "coords": [
+                        5.977242,
+                        49.935228
+                  ]
+            },
+            {
+                  "name": "Lac de la Haute-Sûre",
+                  "text": "A large lake in Dahl, offering an impressive backdrop for walks.",
+                  "category": "natural",
+                  "coords": [
+                        5.871065,
+                        49.892746
+                  ]
+            },
+            {
+                  "name": "Spillplaatz an der Breck",
+                  "text": "A playground in Dahl, which is an ideal spot for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        5.948407,
+                        49.979627
+                  ]
+            },
+            {
+                  "name": "Piscine KAUL",
+                  "text": "A swimming pool in Dahl, ideal for a refreshing swim.",
+                  "category": "family",
+                  "coords": [
+                        5.934229,
+                        49.97315
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LU",
     name: { de: "Dahl", hu: "Dahl", ro: "Dahl", en: "Dahl" },
@@ -16917,6 +17889,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.281674,
                         49.839672
                   ]
+            },
+            {
+                  "name": "Aqua Park Beaufort",
+                  "text": "Dieser Wasserpark in Beaufort bietet Spaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.287225,
+                        49.839335
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Camping Altschmiede",
+                  "text": "Dieser Wasserpark in Beaufort bietet Spaß und Erholung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.336591,
+                        49.84174
+                  ]
             }
       ],
       "hu": [
@@ -16927,6 +17917,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.281674,
                         49.839672
+                  ]
+            },
+            {
+                  "name": "Aqua Park Beaufort",
+                  "text": "Ez a Beaufort városában található vízipark szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        6.287225,
+                        49.839335
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Camping Altschmiede",
+                  "text": "Ez a Beaufort városában található vízipark szórakozást és kikapcsolódást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        6.336591,
+                        49.84174
                   ]
             }
       ],
@@ -16939,6 +17947,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                         6.281674,
                         49.839672
                   ]
+            },
+            {
+                  "name": "Aqua Park Beaufort",
+                  "text": "Acest parc acvatic din Beaufort oferă distracție și recreere pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.287225,
+                        49.839335
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Camping Altschmiede",
+                  "text": "Acest parc acvatic din Beaufort oferă distracție și recreere pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.336591,
+                        49.84174
+                  ]
             }
       ],
       "en": [
@@ -16949,6 +17975,24 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
                   "coords": [
                         6.281674,
                         49.839672
+                  ]
+            },
+            {
+                  "name": "Aqua Park Beaufort",
+                  "text": "This water park in Beaufort offers fun and recreation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.287225,
+                        49.839335
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Camping Altschmiede",
+                  "text": "This water park in Beaufort offers fun and recreation for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.336591,
+                        49.84174
                   ]
             }
       ]
@@ -17681,7 +18725,520 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
     image: "/poi-images/luxembourg-goeblange-cities-v2.webp",
   },
   {
-    id: "luxembourg-heffingen-cities-v2", "sights": {"de": [{"name": "Schloss Meysembourg", "text": "Ein malerisches Schloss in der Gemeinde Fels, in der Nähe von Heffingen.", "category": "castle", "coords": [6.188932, 49.770448]}, {"name": "Schloss Fischbach", "text": "Ein historischer Wohnsitz der großherzoglichen Familie von Luxemburg in Fischbach.", "category": "castle", "coords": [6.186849, 49.747598]}, {"name": "Ronnheck", "text": "Ein geschütztes Naturschutzgebiet in der Nähe von Heffingen.", "category": "natural", "coords": [6.251544, 49.731439]}, {"name": "Verluerekascht", "text": "Ruinen einer historischen Befestigungsanlage oder Burgstelle bei Heffingen.", "category": "castle", "coords": [6.218045, 49.783794]}, {"name": "Textil Musée Larochette", "text": "Ein Museum in Fels, das der Geschichte der lokalen Textilindustrie gewidmet ist.", "category": "museum", "coords": [6.219424, 49.78401]}, {"name": "Eisengewinnung", "text": "Eine Attraktion, die die Geschichte der Eisenerzgewinnung in der Region beleuchtet.", "category": "landmark", "coords": [6.222276, 49.742244]}, {"name": "Taiperlee", "text": "Wer die Natur rund um Heffingen erleben möchte, steuert den Aussichtspunkt Taiperlee an. Der natürliche Ausblick bietet eine weitreichende Sicht über die umliegenden Landschaften der Region.", "category": "natural", "coords": [6.220155, 49.782344]}, {"name": "Saint-Georges", "text": "Die dem heiligen Georg geweihte Pfarrkirche von Fischbach.", "category": "religious", "coords": [6.186074, 49.746647]}, {"name": "Saint-Mathias", "text": "Die dem heiligen Matthias geweihte Dorfkirche von Heffingen.", "category": "religious", "coords": [6.239846, 49.769229]}, {"name": "Saint-Jacques-le-Majeur", "text": "Eine dem heiligen Jakobus dem Älteren geweihte historische Kirche in Reuland.", "category": "religious", "coords": [6.261735, 49.75233]}, {"name": "Saint-Barbe", "text": "Eine kleine, der heiligen Barbara geweihte Kapelle in Ernzen.", "category": "religious", "coords": [6.220679, 49.772416]}, {"name": "Medarduskierch", "text": "Eine dem heiligen Medardus geweihte historische Kirche in Godbringen.", "category": "religious", "coords": [6.232836, 49.734504]}, {"name": "Saint-Donat", "text": "Eine örtliche Gebetsstätte, die dem heiligen Donatus geweiht ist.", "category": "religious", "coords": [6.220591, 49.784004]}], "hu": [{"name": "Château de Meysembourg", "text": "Egy festői kastély Larochette községben, Heffingen közelében.", "category": "castle", "coords": [6.188932, 49.770448]}, {"name": "Château de Fischbach", "text": "A luxemburgi nagyhercegi család történelmi rezidenciája Fischbachban.", "category": "castle", "coords": [6.186849, 49.747598]}, {"name": "Ronnheck", "text": "Védett természetvédelmi terület Heffingen közelében.", "category": "natural", "coords": [6.251544, 49.731439]}, {"name": "Verluerekascht", "text": "Egy történelmi erődítmény vagy várhely romjai Heffingen közelében.", "category": "castle", "coords": [6.218045, 49.783794]}, {"name": "Textil Musée Larochette", "text": "Larochette-i múzeum, amely a helyi textilipar történetét mutatja be.", "category": "museum", "coords": [6.219424, 49.78401]}, {"name": "Eisengewinnung", "text": "A régió vasércbányászatának történetét bemutató látnivaló.", "category": "landmark", "coords": [6.222276, 49.742244]}, {"name": "Taiperlee", "text": "Aki Heffingen környékének természetét szeretné élvezni, annak a Taiperlee kilátópontot érdemes célba vennie. A természetes magaslatról messzire nyúló kilátás nyílik a régió környező tájaira.", "category": "natural", "coords": [6.220155, 49.782344]}, {"name": "Saint-Georges", "text": "Fischbach Szent Györgynek szentelt plébániatemploma.", "category": "religious", "coords": [6.186074, 49.746647]}, {"name": "Saint-Mathias", "text": "Heffingen Szent Mátyásnak szentelt falusi temploma.", "category": "religious", "coords": [6.239846, 49.769229]}, {"name": "Saint-Jacques-le-Majeur", "text": "Szent Jakabnak szentelt történelmi templom Reulandban.", "category": "religious", "coords": [6.261735, 49.75233]}, {"name": "Saint-Barbe", "text": "Szent Borbálának szentelt kis kápolna Ernzenben.", "category": "religious", "coords": [6.220679, 49.772416]}, {"name": "Medarduskierch", "text": "Szent Medárdnak szentelt történelmi templom Godbrange-ban.", "category": "religious", "coords": [6.232836, 49.734504]}, {"name": "Saint-Donat", "text": "Szent Donátnak szentelt helyi templom.", "category": "religious", "coords": [6.220591, 49.784004]}], "ro": [{"name": "Château de Meysembourg", "text": "Un castel pitoresc situat în comuna Larochette, lângă Heffingen.", "category": "castle", "coords": [6.188932, 49.770448]}, {"name": "Château de Fischbach", "text": "O reședință istorică a familiei marelui ducat de Luxemburg în Fischbach.", "category": "castle", "coords": [6.186849, 49.747598]}, {"name": "Ronnheck", "text": "O rezervație naturală protejată lângă Heffingen.", "category": "natural", "coords": [6.251544, 49.731439]}, {"name": "Verluerekascht", "text": "Ruinele unei fortificații istorice sau ale unui sit de castel lângă Heffingen.", "category": "castle", "coords": [6.218045, 49.783794]}, {"name": "Textil Musée Larochette", "text": "Un muzeu din Larochette dedicat istoriei industriei textile locale.", "category": "museum", "coords": [6.219424, 49.78401]}, {"name": "Eisengewinnung", "text": "O atracție care evidențiază istoria extracției minereului de fier în regiune.", "category": "landmark", "coords": [6.222276, 49.742244]}, {"name": "Taiperlee", "text": "Cei care doresc să experimenteze natura din jurul orașului Heffingen, se îndreaptă către punctul de belvedere Taiperlee. Această perspectivă naturală oferă o vedere amplă asupra peisajelor înconjurătoare ale regiunii.", "category": "natural", "coords": [6.220155, 49.782344]}, {"name": "Saint-Georges", "text": "Biserica parohială din Fischbach dedicată Sfântului Gheorghe.", "category": "religious", "coords": [6.186074, 49.746647]}, {"name": "Saint-Mathias", "text": "Biserica din satul Heffingen dedicată Sfântului Matia.", "category": "religious", "coords": [6.239846, 49.769229]}, {"name": "Saint-Jacques-le-Majeur", "text": "O biserică istorică dedicată Sfântului Iacob cel Mare în Reuland.", "category": "religious", "coords": [6.261735, 49.75233]}, {"name": "Saint-Barbe", "text": "O mică capelă dedicată Sfintei Varvara în Ernzen.", "category": "religious", "coords": [6.220679, 49.772416]}, {"name": "Medarduskierch", "text": "O biserică istorică dedicată Sfântului Medard în Godbrange.", "category": "religious", "coords": [6.232836, 49.734504]}, {"name": "Saint-Donat", "text": "Un lăcaș de cult local dedicat Sfântului Donat.", "category": "religious", "coords": [6.220591, 49.784004]}], "en": [{"name": "Meysembourg Castle", "text": "A picturesque castle located in the municipality of Larochette, near Heffingen.", "category": "castle", "coords": [6.188932, 49.770448]}, {"name": "Fischbach Castle", "text": "A historic residence of the Grand Ducal family of Luxembourg in Fischbach.", "category": "castle", "coords": [6.186849, 49.747598]}, {"name": "Ronnheck", "text": "A protected nature reserve area near Heffingen.", "category": "natural", "coords": [6.251544, 49.731439]}, {"name": "Verluerekascht", "text": "Ruins of a historic fortification or castle site near Heffingen.", "category": "castle", "coords": [6.218045, 49.783794]}, {"name": "Textil Musée Larochette", "text": "A museum in Larochette dedicated to the history of the local textile industry.", "category": "museum", "coords": [6.219424, 49.78401]}, {"name": "Eisengewinnung", "text": "An attraction highlighting the history of iron ore extraction in the region.", "category": "landmark", "coords": [6.222276, 49.742244]}, {"name": "Taiperlee", "text": "Those who want to experience nature around Heffingen head for the Taiperlee viewpoint. The natural vantage point offers a sweeping view over the surrounding landscapes of the region.", "category": "natural", "coords": [6.220155, 49.782344]}, {"name": "Saint-Georges", "text": "The parish church of Fischbach dedicated to Saint George.", "category": "religious", "coords": [6.186074, 49.746647]}, {"name": "Saint-Mathias", "text": "The village church of Heffingen dedicated to Saint Matthias.", "category": "religious", "coords": [6.239846, 49.769229]}, {"name": "Saint-Jacques-le-Majeur", "text": "A historic church dedicated to Saint James the Greater in Reuland.", "category": "religious", "coords": [6.261735, 49.75233]}, {"name": "Saint-Barbe", "text": "A small chapel dedicated to Saint Barbara in Ernzen.", "category": "religious", "coords": [6.220679, 49.772416]}, {"name": "Medarduskierch", "text": "A historic church dedicated to Saint Medardus in Godbrange.", "category": "religious", "coords": [6.232836, 49.734504]}, {"name": "Saint-Donat", "text": "A local place of worship dedicated to Saint Donatus.", "category": "religious", "coords": [6.220591, 49.784004]}]},
+    id: "luxembourg-heffingen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Meysembourg",
+                  "text": "Ein malerisches Schloss in der Gemeinde Fels, in der Nähe von Heffingen.",
+                  "category": "castle",
+                  "coords": [
+                        6.188932,
+                        49.770448
+                  ]
+            },
+            {
+                  "name": "Schloss Fischbach",
+                  "text": "Ein historischer Wohnsitz der großherzoglichen Familie von Luxemburg in Fischbach.",
+                  "category": "castle",
+                  "coords": [
+                        6.186849,
+                        49.747598
+                  ]
+            },
+            {
+                  "name": "Ronnheck",
+                  "text": "Ein geschütztes Naturschutzgebiet in der Nähe von Heffingen.",
+                  "category": "natural",
+                  "coords": [
+                        6.251544,
+                        49.731439
+                  ]
+            },
+            {
+                  "name": "Verluerekascht",
+                  "text": "Ruinen einer historischen Befestigungsanlage oder Burgstelle bei Heffingen.",
+                  "category": "castle",
+                  "coords": [
+                        6.218045,
+                        49.783794
+                  ]
+            },
+            {
+                  "name": "Textil Musée Larochette",
+                  "text": "Ein Museum in Fels, das der Geschichte der lokalen Textilindustrie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.219424,
+                        49.78401
+                  ]
+            },
+            {
+                  "name": "Eisengewinnung",
+                  "text": "Eine Attraktion, die die Geschichte der Eisenerzgewinnung in der Region beleuchtet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.222276,
+                        49.742244
+                  ]
+            },
+            {
+                  "name": "Taiperlee",
+                  "text": "Wer die Natur rund um Heffingen erleben möchte, steuert den Aussichtspunkt Taiperlee an. Der natürliche Ausblick bietet eine weitreichende Sicht über die umliegenden Landschaften der Region.",
+                  "category": "natural",
+                  "coords": [
+                        6.220155,
+                        49.782344
+                  ]
+            },
+            {
+                  "name": "Saint-Georges",
+                  "text": "Die dem heiligen Georg geweihte Pfarrkirche von Fischbach.",
+                  "category": "religious",
+                  "coords": [
+                        6.186074,
+                        49.746647
+                  ]
+            },
+            {
+                  "name": "Saint-Mathias",
+                  "text": "Die dem heiligen Matthias geweihte Dorfkirche von Heffingen.",
+                  "category": "religious",
+                  "coords": [
+                        6.239846,
+                        49.769229
+                  ]
+            },
+            {
+                  "name": "Saint-Jacques-le-Majeur",
+                  "text": "Eine dem heiligen Jakobus dem Älteren geweihte historische Kirche in Reuland.",
+                  "category": "religious",
+                  "coords": [
+                        6.261735,
+                        49.75233
+                  ]
+            },
+            {
+                  "name": "Saint-Barbe",
+                  "text": "Eine kleine, der heiligen Barbara geweihte Kapelle in Ernzen.",
+                  "category": "religious",
+                  "coords": [
+                        6.220679,
+                        49.772416
+                  ]
+            },
+            {
+                  "name": "Medarduskierch",
+                  "text": "Eine dem heiligen Medardus geweihte historische Kirche in Godbringen.",
+                  "category": "religious",
+                  "coords": [
+                        6.232836,
+                        49.734504
+                  ]
+            },
+            {
+                  "name": "Saint-Donat",
+                  "text": "Eine örtliche Gebetsstätte, die dem heiligen Donatus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.220591,
+                        49.784004
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "Ein öffentlicher Schwimmbereich in Heffingen, der sich für Sport und Entspannung eignet.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Meysembourg",
+                  "text": "Egy festői kastély Larochette községben, Heffingen közelében.",
+                  "category": "castle",
+                  "coords": [
+                        6.188932,
+                        49.770448
+                  ]
+            },
+            {
+                  "name": "Château de Fischbach",
+                  "text": "A luxemburgi nagyhercegi család történelmi rezidenciája Fischbachban.",
+                  "category": "castle",
+                  "coords": [
+                        6.186849,
+                        49.747598
+                  ]
+            },
+            {
+                  "name": "Ronnheck",
+                  "text": "Védett természetvédelmi terület Heffingen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.251544,
+                        49.731439
+                  ]
+            },
+            {
+                  "name": "Verluerekascht",
+                  "text": "Egy történelmi erődítmény vagy várhely romjai Heffingen közelében.",
+                  "category": "castle",
+                  "coords": [
+                        6.218045,
+                        49.783794
+                  ]
+            },
+            {
+                  "name": "Textil Musée Larochette",
+                  "text": "Larochette-i múzeum, amely a helyi textilipar történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.219424,
+                        49.78401
+                  ]
+            },
+            {
+                  "name": "Eisengewinnung",
+                  "text": "A régió vasércbányászatának történetét bemutató látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        6.222276,
+                        49.742244
+                  ]
+            },
+            {
+                  "name": "Taiperlee",
+                  "text": "Aki Heffingen környékének természetét szeretné élvezni, annak a Taiperlee kilátópontot érdemes célba vennie. A természetes magaslatról messzire nyúló kilátás nyílik a régió környező tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        6.220155,
+                        49.782344
+                  ]
+            },
+            {
+                  "name": "Saint-Georges",
+                  "text": "Fischbach Szent Györgynek szentelt plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        6.186074,
+                        49.746647
+                  ]
+            },
+            {
+                  "name": "Saint-Mathias",
+                  "text": "Heffingen Szent Mátyásnak szentelt falusi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        6.239846,
+                        49.769229
+                  ]
+            },
+            {
+                  "name": "Saint-Jacques-le-Majeur",
+                  "text": "Szent Jakabnak szentelt történelmi templom Reulandban.",
+                  "category": "religious",
+                  "coords": [
+                        6.261735,
+                        49.75233
+                  ]
+            },
+            {
+                  "name": "Saint-Barbe",
+                  "text": "Szent Borbálának szentelt kis kápolna Ernzenben.",
+                  "category": "religious",
+                  "coords": [
+                        6.220679,
+                        49.772416
+                  ]
+            },
+            {
+                  "name": "Medarduskierch",
+                  "text": "Szent Medárdnak szentelt történelmi templom Godbrange-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.232836,
+                        49.734504
+                  ]
+            },
+            {
+                  "name": "Saint-Donat",
+                  "text": "Szent Donátnak szentelt helyi templom.",
+                  "category": "religious",
+                  "coords": [
+                        6.220591,
+                        49.784004
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "Egy nyilvános úszóhely Heffingen városában, amely alkalmas sportolásra és kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Meysembourg",
+                  "text": "Un castel pitoresc situat în comuna Larochette, lângă Heffingen.",
+                  "category": "castle",
+                  "coords": [
+                        6.188932,
+                        49.770448
+                  ]
+            },
+            {
+                  "name": "Château de Fischbach",
+                  "text": "O reședință istorică a familiei marelui ducat de Luxemburg în Fischbach.",
+                  "category": "castle",
+                  "coords": [
+                        6.186849,
+                        49.747598
+                  ]
+            },
+            {
+                  "name": "Ronnheck",
+                  "text": "O rezervație naturală protejată lângă Heffingen.",
+                  "category": "natural",
+                  "coords": [
+                        6.251544,
+                        49.731439
+                  ]
+            },
+            {
+                  "name": "Verluerekascht",
+                  "text": "Ruinele unei fortificații istorice sau ale unui sit de castel lângă Heffingen.",
+                  "category": "castle",
+                  "coords": [
+                        6.218045,
+                        49.783794
+                  ]
+            },
+            {
+                  "name": "Textil Musée Larochette",
+                  "text": "Un muzeu din Larochette dedicat istoriei industriei textile locale.",
+                  "category": "museum",
+                  "coords": [
+                        6.219424,
+                        49.78401
+                  ]
+            },
+            {
+                  "name": "Eisengewinnung",
+                  "text": "O atracție care evidențiază istoria extracției minereului de fier în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        6.222276,
+                        49.742244
+                  ]
+            },
+            {
+                  "name": "Taiperlee",
+                  "text": "Cei care doresc să experimenteze natura din jurul orașului Heffingen, se îndreaptă către punctul de belvedere Taiperlee. Această perspectivă naturală oferă o vedere amplă asupra peisajelor înconjurătoare ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        6.220155,
+                        49.782344
+                  ]
+            },
+            {
+                  "name": "Saint-Georges",
+                  "text": "Biserica parohială din Fischbach dedicată Sfântului Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        6.186074,
+                        49.746647
+                  ]
+            },
+            {
+                  "name": "Saint-Mathias",
+                  "text": "Biserica din satul Heffingen dedicată Sfântului Matia.",
+                  "category": "religious",
+                  "coords": [
+                        6.239846,
+                        49.769229
+                  ]
+            },
+            {
+                  "name": "Saint-Jacques-le-Majeur",
+                  "text": "O biserică istorică dedicată Sfântului Iacob cel Mare în Reuland.",
+                  "category": "religious",
+                  "coords": [
+                        6.261735,
+                        49.75233
+                  ]
+            },
+            {
+                  "name": "Saint-Barbe",
+                  "text": "O mică capelă dedicată Sfintei Varvara în Ernzen.",
+                  "category": "religious",
+                  "coords": [
+                        6.220679,
+                        49.772416
+                  ]
+            },
+            {
+                  "name": "Medarduskierch",
+                  "text": "O biserică istorică dedicată Sfântului Medard în Godbrange.",
+                  "category": "religious",
+                  "coords": [
+                        6.232836,
+                        49.734504
+                  ]
+            },
+            {
+                  "name": "Saint-Donat",
+                  "text": "Un lăcaș de cult local dedicat Sfântului Donat.",
+                  "category": "religious",
+                  "coords": [
+                        6.220591,
+                        49.784004
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "O zonă publică de înot în Heffingen potrivită pentru sport și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meysembourg Castle",
+                  "text": "A picturesque castle located in the municipality of Larochette, near Heffingen.",
+                  "category": "castle",
+                  "coords": [
+                        6.188932,
+                        49.770448
+                  ]
+            },
+            {
+                  "name": "Fischbach Castle",
+                  "text": "A historic residence of the Grand Ducal family of Luxembourg in Fischbach.",
+                  "category": "castle",
+                  "coords": [
+                        6.186849,
+                        49.747598
+                  ]
+            },
+            {
+                  "name": "Ronnheck",
+                  "text": "A protected nature reserve area near Heffingen.",
+                  "category": "natural",
+                  "coords": [
+                        6.251544,
+                        49.731439
+                  ]
+            },
+            {
+                  "name": "Verluerekascht",
+                  "text": "Ruins of a historic fortification or castle site near Heffingen.",
+                  "category": "castle",
+                  "coords": [
+                        6.218045,
+                        49.783794
+                  ]
+            },
+            {
+                  "name": "Textil Musée Larochette",
+                  "text": "A museum in Larochette dedicated to the history of the local textile industry.",
+                  "category": "museum",
+                  "coords": [
+                        6.219424,
+                        49.78401
+                  ]
+            },
+            {
+                  "name": "Eisengewinnung",
+                  "text": "An attraction highlighting the history of iron ore extraction in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        6.222276,
+                        49.742244
+                  ]
+            },
+            {
+                  "name": "Taiperlee",
+                  "text": "Those who want to experience nature around Heffingen head for the Taiperlee viewpoint. The natural vantage point offers a sweeping view over the surrounding landscapes of the region.",
+                  "category": "natural",
+                  "coords": [
+                        6.220155,
+                        49.782344
+                  ]
+            },
+            {
+                  "name": "Saint-Georges",
+                  "text": "The parish church of Fischbach dedicated to Saint George.",
+                  "category": "religious",
+                  "coords": [
+                        6.186074,
+                        49.746647
+                  ]
+            },
+            {
+                  "name": "Saint-Mathias",
+                  "text": "The village church of Heffingen dedicated to Saint Matthias.",
+                  "category": "religious",
+                  "coords": [
+                        6.239846,
+                        49.769229
+                  ]
+            },
+            {
+                  "name": "Saint-Jacques-le-Majeur",
+                  "text": "A historic church dedicated to Saint James the Greater in Reuland.",
+                  "category": "religious",
+                  "coords": [
+                        6.261735,
+                        49.75233
+                  ]
+            },
+            {
+                  "name": "Saint-Barbe",
+                  "text": "A small chapel dedicated to Saint Barbara in Ernzen.",
+                  "category": "religious",
+                  "coords": [
+                        6.220679,
+                        49.772416
+                  ]
+            },
+            {
+                  "name": "Medarduskierch",
+                  "text": "A historic church dedicated to Saint Medardus in Godbrange.",
+                  "category": "religious",
+                  "coords": [
+                        6.232836,
+                        49.734504
+                  ]
+            },
+            {
+                  "name": "Saint-Donat",
+                  "text": "A local place of worship dedicated to Saint Donatus.",
+                  "category": "religious",
+                  "coords": [
+                        6.220591,
+                        49.784004
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "A public swimming area in Heffingen suitable for sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LU",
     name: { de: "Heffingen", hu: "Heffingen", ro: "Heffingen", en: "Heffingen" },
@@ -17726,7 +19283,484 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
     image: "/poi-images/luxembourg-heffingen-cities-v2.webp",
   },
   {
-    id: "luxembourg-medernach-cities-v2", "sights": {"de": [{"name": "Burg Fels", "text": "Die Burgruine Larochette thront eindrucksvoll über dem Tal der Weißen Ernz.", "category": "castle", "coords": [6.217235, 49.785614]}, {"name": "Verluerekascht", "text": "Eine kleine Burgruine oder ehemalige Befestigung in der Nähe von Larochette.", "category": "castle", "coords": [6.218045, 49.783794]}, {"name": "Textil Musée Larochette", "text": "Das Museum zeigt die Geschichte der einst blühenden Tuchindustrie in Larochette.", "category": "museum", "coords": [6.219424, 49.78401]}, {"name": "Himmelsbierg", "text": "Hoch über Medernach lädt der Himmelsbierg zu einer Pause ein. Der markante Aussichtspunkt präsentiert Besuchern einen beeindruckend weiten Blick über die sanften Hügel der luxemburgischen Landschaft.", "category": "natural", "coords": [6.220738, 49.787287]}, {"name": "Taiperlee", "text": "Ein markanter Felsen und Aussichtspunkt in der Wanderregion um Larochette.", "category": "natural", "coords": [6.220155, 49.782344]}, {"name": "Rocher Champignon Lock", "text": "Eine ungewöhnliche Felsformation, die an einen riesigen Steinpilz erinnert.", "category": "landmark", "coords": [6.187763, 49.803849]}, {"name": "Chapelle Saint-Aubin", "text": "Die dem heiligen Aubin gewidmete Kapelle liegt im idyllischen Savelborn.", "category": "religious", "coords": [6.253576, 49.811575]}, {"name": "Saint-Donat", "text": "Ein kleines Sakralbauwerk, das dem heiligen Donatus gewidmet ist.", "category": "religious", "coords": [6.220591, 49.784004]}, {"name": "Saints-Pierre-et-Paul", "text": "Die dem heiligen Peter und Paul gewidmete Pfarrkirche ist das Zentrum von Medernach.", "category": "religious", "coords": [6.218153, 49.809487]}, {"name": "Ale Weier", "text": "Ein friedlicher See in Medernach, ideal für eine Pause in der Natur.", "category": "natural", "coords": [6.281674, 49.839672]}, {"name": "Waldweiher", "text": "Ein schöner Waldsee in Medernach, umgeben von grüner Natur.", "category": "natural", "coords": [6.242628, 49.743817]}, {"name": "Labyrinth", "text": "Ein kleiner Spielplatz in Medernach, der Kindern Platz zum Toben im Freien bietet.", "category": "family", "coords": [6.198571, 49.801082]}], "hu": [{"name": "Buerg Fiels", "text": "Larochette várának romjai lenyűgözően magasodnak a Fehér-Ernz völgye fölé.", "category": "castle", "coords": [6.217235, 49.785614]}, {"name": "Verluerekascht", "text": "Egy kis várrom oder egykori erődítmény Larochette közelében.", "category": "castle", "coords": [6.218045, 49.783794]}, {"name": "Textil Musée Larochette", "text": "A múzeum Larochette egykor virágzó textiliparának történetét mutatja be.", "category": "museum", "coords": [6.219424, 49.78401]}, {"name": "Himmelsbierg", "text": "Medernach felett magasodva a Himmelsbierg egy kis pihenőre hívogat. A jellegzetes kilátópont lenyűgözően széles panorámát tár a látogatók elé a luxemburgi táj lankás dombjaira.", "category": "natural", "coords": [6.220738, 49.787287]}, {"name": "Taiperlee", "text": "Egy jellegzetes szikla és kilátópont a Larochette környéki túrarégióban.", "category": "natural", "coords": [6.220155, 49.782344]}, {"name": "Rocher Champignon Lock", "text": "Egy szokatlan sziklaformáció, amely egy hatalmas gombára emlékeztet.", "category": "landmark", "coords": [6.187763, 49.803849]}, {"name": "Chapelle Saint-Aubin", "text": "A Szent Aubinnak szentelt kápolna az idilli Savelbornban található.", "category": "religious", "coords": [6.253576, 49.811575]}, {"name": "Saint-Donat", "text": "Egy kis vallási épület, amelyet Szent Donátnak szenteltek.", "category": "religious", "coords": [6.220591, 49.784004]}, {"name": "Saints-Pierre-et-Paul", "text": "A Szent Péternek és Pálnak szentelt plébániatemplom Medernach központja.", "category": "religious", "coords": [6.218153, 49.809487]}, {"name": "Ale Weier", "text": "Békés tó Medernach területén, ideális egy természetjáró pihenőhöz.", "category": "natural", "coords": [6.281674, 49.839672]}, {"name": "Waldweiher", "text": "Szép erdei tó Medernach közelében, zöld természettel körülvéve.", "category": "natural", "coords": [6.242628, 49.743817]}, {"name": "Labyrinth", "text": "Kicsi játszótér Medernach városában, amely helyet biztosít a gyerekeknek a szabadtéri játékhoz.", "category": "family", "coords": [6.198571, 49.801082]}], "ro": [{"name": "Buerg Fiels", "text": "Ruinele castelului Larochette domină impresionant valea Ernz-ului Alb.", "category": "castle", "coords": [6.217235, 49.785614]}, {"name": "Verluerekascht", "text": "O mică ruină de castel sau o fostă fortificație lângă Larochette.", "category": "castle", "coords": [6.218045, 49.783794]}, {"name": "Textil Musée Larochette", "text": "Muzeul prezintă istoria industriei textile, odinioară înfloritoare în Larochette.", "category": "museum", "coords": [6.219424, 49.78401]}, {"name": "Himmelsbierg", "text": "Sus deasupra orașului Medernach, Himmelsbierg vă invită la o pauză. Punctul de belvedere proeminent prezintă vizitatorilor o vedere impresionant de vastă peste dealurile domoale ale peisajului luxemburghez.", "category": "natural", "coords": [6.220738, 49.787287]}, {"name": "Taiperlee", "text": "O stâncă proeminentă și un punct de belvedere în regiunea de drumeții din jurul Larochette.", "category": "natural", "coords": [6.220155, 49.782344]}, {"name": "Rocher Champignon Lock", "text": "O formațiune stâncoasă neobișnuită, care seamănă cu o ciupercă uriașă.", "category": "landmark", "coords": [6.187763, 49.803849]}, {"name": "Chapelle Saint-Aubin", "text": "Capela dedicată Sfântului Aubin se află în idilicul Savelborn.", "category": "religious", "coords": [6.253576, 49.811575]}, {"name": "Saint-Donat", "text": "Un mic edificiu religios dedicat Sfântului Donat.", "category": "religious", "coords": [6.220591, 49.784004]}, {"name": "Saints-Pierre-et-Paul", "text": "Biserica parohială dedicată Sfinților Petru și Pavel este centrul localității Medernach.", "category": "religious", "coords": [6.218153, 49.809487]}, {"name": "Ale Weier", "text": "Un lac liniștit în Medernach, ideal pentru o pauză în natură.", "category": "natural", "coords": [6.281674, 49.839672]}, {"name": "Waldweiher", "text": "Un lac de pădure frumos în Medernach, înconjurat de natură verde.", "category": "natural", "coords": [6.242628, 49.743817]}, {"name": "Labyrinth", "text": "Un mic loc de joacă în Medernach, oferind spațiu copiilor pentru joacă în aer liber.", "category": "family", "coords": [6.198571, 49.801082]}], "en": [{"name": "Larochette Castle", "text": "The ruins of Larochette Castle tower impressively over the White Ernz valley.", "category": "castle", "coords": [6.217235, 49.785614]}, {"name": "Verluerekascht", "text": "A small castle ruin or former fortification near Larochette.", "category": "castle", "coords": [6.218045, 49.783794]}, {"name": "Textil Musée Larochette", "text": "The museum showcases the history of the once thriving textile industry in Larochette.", "category": "museum", "coords": [6.219424, 49.78401]}, {"name": "Himmelsbierg", "text": "High above Medernach, the Himmelsbierg invites you to take a break. The prominent viewpoint presents visitors with an impressively wide view over the rolling hills of the Luxembourg landscape.", "category": "natural", "coords": [6.220738, 49.787287]}, {"name": "Taiperlee", "text": "A prominent rock and viewpoint in the hiking region around Larochette.", "category": "natural", "coords": [6.220155, 49.782344]}, {"name": "Rocher Champignon Lock", "text": "An unusual rock formation that resembles a giant mushroom.", "category": "landmark", "coords": [6.187763, 49.803849]}, {"name": "Chapelle Saint-Aubin", "text": "The chapel dedicated to Saint Aubin is located in the idyllic Savelborn.", "category": "religious", "coords": [6.253576, 49.811575]}, {"name": "Saint-Donat", "text": "A small religious building dedicated to Saint Donatus.", "category": "religious", "coords": [6.220591, 49.784004]}, {"name": "Saints-Pierre-et-Paul", "text": "The parish church dedicated to Saints Peter and Paul is the center of Medernach.", "category": "religious", "coords": [6.218153, 49.809487]}, {"name": "Ale Weier", "text": "A peaceful lake in Medernach, ideal for a break in nature.", "category": "natural", "coords": [6.281674, 49.839672]}, {"name": "Waldweiher", "text": "A beautiful forest lake in Medernach, surrounded by green nature.", "category": "natural", "coords": [6.242628, 49.743817]}, {"name": "Labyrinth", "text": "A small playground in Medernach, providing space for children to play outdoors.", "category": "family", "coords": [6.198571, 49.801082]}]},
+    id: "luxembourg-medernach-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Fels",
+                  "text": "Die Burgruine Larochette thront eindrucksvoll über dem Tal der Weißen Ernz.",
+                  "category": "castle",
+                  "coords": [
+                        6.217235,
+                        49.785614
+                  ]
+            },
+            {
+                  "name": "Verluerekascht",
+                  "text": "Eine kleine Burgruine oder ehemalige Befestigung in der Nähe von Larochette.",
+                  "category": "castle",
+                  "coords": [
+                        6.218045,
+                        49.783794
+                  ]
+            },
+            {
+                  "name": "Textil Musée Larochette",
+                  "text": "Das Museum zeigt die Geschichte der einst blühenden Tuchindustrie in Larochette.",
+                  "category": "museum",
+                  "coords": [
+                        6.219424,
+                        49.78401
+                  ]
+            },
+            {
+                  "name": "Himmelsbierg",
+                  "text": "Hoch über Medernach lädt der Himmelsbierg zu einer Pause ein. Der markante Aussichtspunkt präsentiert Besuchern einen beeindruckend weiten Blick über die sanften Hügel der luxemburgischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.220738,
+                        49.787287
+                  ]
+            },
+            {
+                  "name": "Taiperlee",
+                  "text": "Ein markanter Felsen und Aussichtspunkt in der Wanderregion um Larochette.",
+                  "category": "natural",
+                  "coords": [
+                        6.220155,
+                        49.782344
+                  ]
+            },
+            {
+                  "name": "Rocher Champignon Lock",
+                  "text": "Eine ungewöhnliche Felsformation, die an einen riesigen Steinpilz erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187763,
+                        49.803849
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aubin",
+                  "text": "Die dem heiligen Aubin gewidmete Kapelle liegt im idyllischen Savelborn.",
+                  "category": "religious",
+                  "coords": [
+                        6.253576,
+                        49.811575
+                  ]
+            },
+            {
+                  "name": "Saint-Donat",
+                  "text": "Ein kleines Sakralbauwerk, das dem heiligen Donatus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.220591,
+                        49.784004
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "Die dem heiligen Peter und Paul gewidmete Pfarrkirche ist das Zentrum von Medernach.",
+                  "category": "religious",
+                  "coords": [
+                        6.218153,
+                        49.809487
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Ein friedlicher See in Medernach, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            },
+            {
+                  "name": "Waldweiher",
+                  "text": "Ein schöner Waldsee in Medernach, umgeben von grüner Natur.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Ein kleiner Spielplatz in Medernach, der Kindern Platz zum Toben im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "Ein Schwimmbad in Medernach, das Möglichkeiten zum Schwimmen bietet.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buerg Fiels",
+                  "text": "Larochette várának romjai lenyűgözően magasodnak a Fehér-Ernz völgye fölé.",
+                  "category": "castle",
+                  "coords": [
+                        6.217235,
+                        49.785614
+                  ]
+            },
+            {
+                  "name": "Verluerekascht",
+                  "text": "Egy kis várrom oder egykori erődítmény Larochette közelében.",
+                  "category": "castle",
+                  "coords": [
+                        6.218045,
+                        49.783794
+                  ]
+            },
+            {
+                  "name": "Textil Musée Larochette",
+                  "text": "A múzeum Larochette egykor virágzó textiliparának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.219424,
+                        49.78401
+                  ]
+            },
+            {
+                  "name": "Himmelsbierg",
+                  "text": "Medernach felett magasodva a Himmelsbierg egy kis pihenőre hívogat. A jellegzetes kilátópont lenyűgözően széles panorámát tár a látogatók elé a luxemburgi táj lankás dombjaira.",
+                  "category": "natural",
+                  "coords": [
+                        6.220738,
+                        49.787287
+                  ]
+            },
+            {
+                  "name": "Taiperlee",
+                  "text": "Egy jellegzetes szikla és kilátópont a Larochette környéki túrarégióban.",
+                  "category": "natural",
+                  "coords": [
+                        6.220155,
+                        49.782344
+                  ]
+            },
+            {
+                  "name": "Rocher Champignon Lock",
+                  "text": "Egy szokatlan sziklaformáció, amely egy hatalmas gombára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187763,
+                        49.803849
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aubin",
+                  "text": "A Szent Aubinnak szentelt kápolna az idilli Savelbornban található.",
+                  "category": "religious",
+                  "coords": [
+                        6.253576,
+                        49.811575
+                  ]
+            },
+            {
+                  "name": "Saint-Donat",
+                  "text": "Egy kis vallási épület, amelyet Szent Donátnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        6.220591,
+                        49.784004
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "A Szent Péternek és Pálnak szentelt plébániatemplom Medernach központja.",
+                  "category": "religious",
+                  "coords": [
+                        6.218153,
+                        49.809487
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Békés tó Medernach területén, ideális egy természetjáró pihenőhöz.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            },
+            {
+                  "name": "Waldweiher",
+                  "text": "Szép erdei tó Medernach közelében, zöld természettel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Kicsi játszótér Medernach városában, amely helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "Úszómedence Medernach területén, amely úszási lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buerg Fiels",
+                  "text": "Ruinele castelului Larochette domină impresionant valea Ernz-ului Alb.",
+                  "category": "castle",
+                  "coords": [
+                        6.217235,
+                        49.785614
+                  ]
+            },
+            {
+                  "name": "Verluerekascht",
+                  "text": "O mică ruină de castel sau o fostă fortificație lângă Larochette.",
+                  "category": "castle",
+                  "coords": [
+                        6.218045,
+                        49.783794
+                  ]
+            },
+            {
+                  "name": "Textil Musée Larochette",
+                  "text": "Muzeul prezintă istoria industriei textile, odinioară înfloritoare în Larochette.",
+                  "category": "museum",
+                  "coords": [
+                        6.219424,
+                        49.78401
+                  ]
+            },
+            {
+                  "name": "Himmelsbierg",
+                  "text": "Sus deasupra orașului Medernach, Himmelsbierg vă invită la o pauză. Punctul de belvedere proeminent prezintă vizitatorilor o vedere impresionant de vastă peste dealurile domoale ale peisajului luxemburghez.",
+                  "category": "natural",
+                  "coords": [
+                        6.220738,
+                        49.787287
+                  ]
+            },
+            {
+                  "name": "Taiperlee",
+                  "text": "O stâncă proeminentă și un punct de belvedere în regiunea de drumeții din jurul Larochette.",
+                  "category": "natural",
+                  "coords": [
+                        6.220155,
+                        49.782344
+                  ]
+            },
+            {
+                  "name": "Rocher Champignon Lock",
+                  "text": "O formațiune stâncoasă neobișnuită, care seamănă cu o ciupercă uriașă.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187763,
+                        49.803849
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aubin",
+                  "text": "Capela dedicată Sfântului Aubin se află în idilicul Savelborn.",
+                  "category": "religious",
+                  "coords": [
+                        6.253576,
+                        49.811575
+                  ]
+            },
+            {
+                  "name": "Saint-Donat",
+                  "text": "Un mic edificiu religios dedicat Sfântului Donat.",
+                  "category": "religious",
+                  "coords": [
+                        6.220591,
+                        49.784004
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "Biserica parohială dedicată Sfinților Petru și Pavel este centrul localității Medernach.",
+                  "category": "religious",
+                  "coords": [
+                        6.218153,
+                        49.809487
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "Un lac liniștit în Medernach, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            },
+            {
+                  "name": "Waldweiher",
+                  "text": "Un lac de pădure frumos în Medernach, înconjurat de natură verde.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "Un mic loc de joacă în Medernach, oferind spațiu copiilor pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "O piscină în Medernach care oferă posibilități de înot.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Larochette Castle",
+                  "text": "The ruins of Larochette Castle tower impressively over the White Ernz valley.",
+                  "category": "castle",
+                  "coords": [
+                        6.217235,
+                        49.785614
+                  ]
+            },
+            {
+                  "name": "Verluerekascht",
+                  "text": "A small castle ruin or former fortification near Larochette.",
+                  "category": "castle",
+                  "coords": [
+                        6.218045,
+                        49.783794
+                  ]
+            },
+            {
+                  "name": "Textil Musée Larochette",
+                  "text": "The museum showcases the history of the once thriving textile industry in Larochette.",
+                  "category": "museum",
+                  "coords": [
+                        6.219424,
+                        49.78401
+                  ]
+            },
+            {
+                  "name": "Himmelsbierg",
+                  "text": "High above Medernach, the Himmelsbierg invites you to take a break. The prominent viewpoint presents visitors with an impressively wide view over the rolling hills of the Luxembourg landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.220738,
+                        49.787287
+                  ]
+            },
+            {
+                  "name": "Taiperlee",
+                  "text": "A prominent rock and viewpoint in the hiking region around Larochette.",
+                  "category": "natural",
+                  "coords": [
+                        6.220155,
+                        49.782344
+                  ]
+            },
+            {
+                  "name": "Rocher Champignon Lock",
+                  "text": "An unusual rock formation that resembles a giant mushroom.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187763,
+                        49.803849
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aubin",
+                  "text": "The chapel dedicated to Saint Aubin is located in the idyllic Savelborn.",
+                  "category": "religious",
+                  "coords": [
+                        6.253576,
+                        49.811575
+                  ]
+            },
+            {
+                  "name": "Saint-Donat",
+                  "text": "A small religious building dedicated to Saint Donatus.",
+                  "category": "religious",
+                  "coords": [
+                        6.220591,
+                        49.784004
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "The parish church dedicated to Saints Peter and Paul is the center of Medernach.",
+                  "category": "religious",
+                  "coords": [
+                        6.218153,
+                        49.809487
+                  ]
+            },
+            {
+                  "name": "Ale Weier",
+                  "text": "A peaceful lake in Medernach, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.281674,
+                        49.839672
+                  ]
+            },
+            {
+                  "name": "Waldweiher",
+                  "text": "A beautiful forest lake in Medernach, surrounded by green nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.242628,
+                        49.743817
+                  ]
+            },
+            {
+                  "name": "Labyrinth",
+                  "text": "A small playground in Medernach, providing space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        6.198571,
+                        49.801082
+                  ]
+            },
+            {
+                  "name": "Piscine Filano",
+                  "text": "A swimming pool in Medernach offering opportunities for swimming.",
+                  "category": "family",
+                  "coords": [
+                        6.207991,
+                        49.78526
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LU",
     name: { de: "Medernach", hu: "Medernach", ro: "Medernach", en: "Medernach" },

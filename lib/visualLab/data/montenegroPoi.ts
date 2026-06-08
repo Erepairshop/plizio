@@ -1904,6 +1904,15 @@ export const montenegroAllPoi: POI[] = [
                         18.712151,
                         42.428838
                   ]
+            },
+            {
+                  "name": "Castana",
+                  "text": "Ein Strandresort in Perast, das Schwimm- und Erholungsmöglichkeiten am Wasser bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.657522,
+                        42.487306
+                  ]
             }
       ],
       "hu": [
@@ -1923,6 +1932,15 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.712151,
                         42.428838
+                  ]
+            },
+            {
+                  "name": "Castana",
+                  "text": "Egy tengerparti üdülőhely Perast városában, amely úszási és kikapcsolódási lehetőségeket kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        18.657522,
+                        42.487306
                   ]
             }
       ],
@@ -1944,6 +1962,15 @@ export const montenegroAllPoi: POI[] = [
                         18.712151,
                         42.428838
                   ]
+            },
+            {
+                  "name": "Castana",
+                  "text": "O stațiune la plajă din Perast care oferă oportunități de înot și relaxare la malul apei.",
+                  "category": "family",
+                  "coords": [
+                        18.657522,
+                        42.487306
+                  ]
             }
       ],
       "en": [
@@ -1963,6 +1990,15 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.712151,
                         42.428838
+                  ]
+            },
+            {
+                  "name": "Castana",
+                  "text": "A beach resort in Perast offering swimming and relaxation opportunities by the water.",
+                  "category": "family",
+                  "coords": [
+                        18.657522,
+                        42.487306
                   ]
             }
       ]

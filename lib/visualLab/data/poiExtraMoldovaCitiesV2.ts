@@ -491,7 +491,124 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-bender-cities-v2",
+    id: "moldova-bender-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Дельфин",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Bender.",
+                  "category": "family",
+                  "coords": [
+                        29.477029,
+                        46.816615
+                  ]
+            },
+            {
+                  "name": "Aquapark „Oasis“",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Bender.",
+                  "category": "family",
+                  "coords": [
+                        29.46313,
+                        46.856759
+                  ]
+            },
+            {
+                  "name": "Parcul de Distracții „Curtea Caruselului”",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Bender.",
+                  "category": "family",
+                  "coords": [
+                        29.487208,
+                        46.834786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Дельфин",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Bender településen.",
+                  "category": "family",
+                  "coords": [
+                        29.477029,
+                        46.816615
+                  ]
+            },
+            {
+                  "name": "Aquapark „Oasis“",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Bender településen.",
+                  "category": "family",
+                  "coords": [
+                        29.46313,
+                        46.856759
+                  ]
+            },
+            {
+                  "name": "Parcul de Distracții „Curtea Caruselului”",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Bender településen.",
+                  "category": "family",
+                  "coords": [
+                        29.487208,
+                        46.834786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Delfin",
+                  "text": "Un loc pentru înot și recreere acvatică în Bender.",
+                  "category": "family",
+                  "coords": [
+                        29.477029,
+                        46.816615
+                  ]
+            },
+            {
+                  "name": "Aquapark „Oasis“",
+                  "text": "O destinație plină de distracție pentru familii și copii în Bender.",
+                  "category": "family",
+                  "coords": [
+                        29.46313,
+                        46.856759
+                  ]
+            },
+            {
+                  "name": "Parcul de Distracții „Curtea Caruselului”",
+                  "text": "O destinație plină de distracție pentru familii și copii în Bender.",
+                  "category": "family",
+                  "coords": [
+                        29.487208,
+                        46.834786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Дельфин",
+                  "text": "A place for swimming and water recreation in Bender.",
+                  "category": "family",
+                  "coords": [
+                        29.477029,
+                        46.816615
+                  ]
+            },
+            {
+                  "name": "Aquapark „Oasis“",
+                  "text": "A fun-filled destination for families and children in Bender.",
+                  "category": "family",
+                  "coords": [
+                        29.46313,
+                        46.856759
+                  ]
+            },
+            {
+                  "name": "Carousel Yard Amusement Park",
+                  "text": "A fun-filled destination for families and children in Bender.",
+                  "category": "family",
+                  "coords": [
+                        29.487208,
+                        46.834786
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Bender", hu: "Bender", ro: "Bender", en: "Bender"},
@@ -940,7 +1057,232 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-soroca-cities-v2", "sights": {"de": [{"name": "Teatrul \"Veniamin Apostol\"", "text": "Ein bedeutendes Kulturzentrum in Soroca, das Theaterstücke und Aufführungen zeigt.", "category": "cultural", "coords": [28.301616, 48.154068]}, {"name": "Muzeul de Istorie și Etnografie", "text": "Das Museum präsentiert Sammlungen zur reichen Geschichte und Kultur der Region Soroca.", "category": "museum", "coords": [28.302284, 48.155474]}, {"name": "Lumânarea Recunoștinței", "text": "Dieses monumentale Bauwerk auf einem Hügel bietet einen symbolischen Dank an das Volk.", "category": "historical", "coords": [28.304766, 48.137198]}, {"name": "Dom tsyganskogo barona Moldovy", "text": "Ein auffälliges Gebäude im berühmten „Roma-Viertel“ von Soroca.", "category": "landmark", "coords": [28.293606, 48.159941]}, {"name": "Schitul lui Bechir", "text": "Eine historische, in den Fels gehauene Höhlenklause in der Nähe von Soroca.", "category": "landmark", "coords": [28.305795, 48.136331]}], "hu": [{"name": "Teatrul \"Veniamin Apostol\"", "text": "Soroca jelentős kulturális központja, amely színdarabokat és előadásokat mutat be.", "category": "cultural", "coords": [28.301616, 48.154068]}, {"name": "Muzeul de Istorie și Etnografie", "text": "A múzeum Soroca régió gazdag történelmét és kultúráját bemutató gyűjteményeket kínál.", "category": "museum", "coords": [28.302284, 48.155474]}, {"name": "Lumânarea Recunoștinței", "text": "Ez a dombtetőn álló monumentális építmény szimbolikus köszönet a népnek.", "category": "historical", "coords": [28.304766, 48.137198]}, {"name": "Dom tsyganskogo barona Moldovy", "text": "Egy feltűnő épület Soroca híres „roma negyedében”.", "category": "landmark", "coords": [28.293606, 48.159941]}, {"name": "Schitul lui Bechir", "text": "Egy történelmi, sziklába vájt barlangi remetelak Soroca közelében.", "category": "landmark", "coords": [28.305795, 48.136331]}], "ro": [{"name": "Teatrul \"Veniamin Apostol\"", "text": "Un centru cultural important din Soroca, care prezintă piese de teatru și spectacole.", "category": "cultural", "coords": [28.301616, 48.154068]}, {"name": "Muzeul de Istorie și Etnografie", "text": "Muzeul prezintă colecții despre istoria și cultura bogată a regiunii Soroca.", "category": "museum", "coords": [28.302284, 48.155474]}, {"name": "Lumânarea Recunoștinței", "text": "Această structură monumentală de pe un deal oferă o mulțumire simbolică poporului.", "category": "historical", "coords": [28.304766, 48.137198]}, {"name": "Dom tsyganskogo barona Moldovy", "text": "O clădire izbitoare din celebrul „cartier al romilor” din Soroca.", "category": "landmark", "coords": [28.293606, 48.159941]}, {"name": "Schitul lui Bechir", "text": "Un vechi schit rupestru săpat în stâncă în apropiere de Soroca.", "category": "landmark", "coords": [28.305795, 48.136331]}], "en": [{"name": "Teatrul \"Veniamin Apostol\"", "text": "A significant cultural center in Soroca showcasing plays and performances.", "category": "cultural", "coords": [28.301616, 48.154068]}, {"name": "Muzeul de Istorie și Etnografie", "text": "The museum presents collections on the rich history and culture of the Soroca region.", "category": "museum", "coords": [28.302284, 48.155474]}, {"name": "Lumânarea Recunoștinței", "text": "This monumental structure on a hill offers a symbolic thanks to the people.", "category": "historical", "coords": [28.304766, 48.137198]}, {"name": "Dom tsyganskogo barona Moldovy", "text": "A striking building in the famous \"Roma quarter\" of Soroca.", "category": "landmark", "coords": [28.293606, 48.159941]}, {"name": "Schitul lui Bechir", "text": "A historic cave hermitage carved into the rock near Soroca.", "category": "landmark", "coords": [28.305795, 48.136331]}]},
+    id: "moldova-soroca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatrul \"Veniamin Apostol\"",
+                  "text": "Ein bedeutendes Kulturzentrum in Soroca, das Theaterstücke und Aufführungen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        28.301616,
+                        48.154068
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "Das Museum präsentiert Sammlungen zur reichen Geschichte und Kultur der Region Soroca.",
+                  "category": "museum",
+                  "coords": [
+                        28.302284,
+                        48.155474
+                  ]
+            },
+            {
+                  "name": "Lumânarea Recunoștinței",
+                  "text": "Dieses monumentale Bauwerk auf einem Hügel bietet einen symbolischen Dank an das Volk.",
+                  "category": "historical",
+                  "coords": [
+                        28.304766,
+                        48.137198
+                  ]
+            },
+            {
+                  "name": "Dom tsyganskogo barona Moldovy",
+                  "text": "Ein auffälliges Gebäude im berühmten „Roma-Viertel“ von Soroca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.293606,
+                        48.159941
+                  ]
+            },
+            {
+                  "name": "Schitul lui Bechir",
+                  "text": "Eine historische, in den Fels gehauene Höhlenklause in der Nähe von Soroca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.305795,
+                        48.136331
+                  ]
+            },
+            {
+                  "name": "BAZIN",
+                  "text": "Das BAZIN in Soroca ist eine öffentliche Einrichtung zum Schwimmen und für den Wassersport.",
+                  "category": "family",
+                  "coords": [
+                        28.319964,
+                        48.1736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatrul \"Veniamin Apostol\"",
+                  "text": "Soroca jelentős kulturális központja, amely színdarabokat és előadásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        28.301616,
+                        48.154068
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "A múzeum Soroca régió gazdag történelmét és kultúráját bemutató gyűjteményeket kínál.",
+                  "category": "museum",
+                  "coords": [
+                        28.302284,
+                        48.155474
+                  ]
+            },
+            {
+                  "name": "Lumânarea Recunoștinței",
+                  "text": "Ez a dombtetőn álló monumentális építmény szimbolikus köszönet a népnek.",
+                  "category": "historical",
+                  "coords": [
+                        28.304766,
+                        48.137198
+                  ]
+            },
+            {
+                  "name": "Dom tsyganskogo barona Moldovy",
+                  "text": "Egy feltűnő épület Soroca híres „roma negyedében”.",
+                  "category": "landmark",
+                  "coords": [
+                        28.293606,
+                        48.159941
+                  ]
+            },
+            {
+                  "name": "Schitul lui Bechir",
+                  "text": "Egy történelmi, sziklába vájt barlangi remetelak Soroca közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.305795,
+                        48.136331
+                  ]
+            },
+            {
+                  "name": "BAZIN",
+                  "text": "A sorocai BAZIN egy nyilvános intézmény úszáshoz és vízi sportokhoz.",
+                  "category": "family",
+                  "coords": [
+                        28.319964,
+                        48.1736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatrul \"Veniamin Apostol\"",
+                  "text": "Un centru cultural important din Soroca, care prezintă piese de teatru și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        28.301616,
+                        48.154068
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "Muzeul prezintă colecții despre istoria și cultura bogată a regiunii Soroca.",
+                  "category": "museum",
+                  "coords": [
+                        28.302284,
+                        48.155474
+                  ]
+            },
+            {
+                  "name": "Lumânarea Recunoștinței",
+                  "text": "Această structură monumentală de pe un deal oferă o mulțumire simbolică poporului.",
+                  "category": "historical",
+                  "coords": [
+                        28.304766,
+                        48.137198
+                  ]
+            },
+            {
+                  "name": "Dom tsyganskogo barona Moldovy",
+                  "text": "O clădire izbitoare din celebrul „cartier al romilor” din Soroca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.293606,
+                        48.159941
+                  ]
+            },
+            {
+                  "name": "Schitul lui Bechir",
+                  "text": "Un vechi schit rupestru săpat în stâncă în apropiere de Soroca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.305795,
+                        48.136331
+                  ]
+            },
+            {
+                  "name": "BAZIN",
+                  "text": "BAZIN din Soroca este o instituție publică pentru înot și sporturi nautice.",
+                  "category": "family",
+                  "coords": [
+                        28.319964,
+                        48.1736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatrul \"Veniamin Apostol\"",
+                  "text": "A significant cultural center in Soroca showcasing plays and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        28.301616,
+                        48.154068
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "The museum presents collections on the rich history and culture of the Soroca region.",
+                  "category": "museum",
+                  "coords": [
+                        28.302284,
+                        48.155474
+                  ]
+            },
+            {
+                  "name": "Lumânarea Recunoștinței",
+                  "text": "This monumental structure on a hill offers a symbolic thanks to the people.",
+                  "category": "historical",
+                  "coords": [
+                        28.304766,
+                        48.137198
+                  ]
+            },
+            {
+                  "name": "Dom tsyganskogo barona Moldovy",
+                  "text": "A striking building in the famous \"Roma quarter\" of Soroca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.293606,
+                        48.159941
+                  ]
+            },
+            {
+                  "name": "Schitul lui Bechir",
+                  "text": "A historic cave hermitage carved into the rock near Soroca.",
+                  "category": "landmark",
+                  "coords": [
+                        28.305795,
+                        48.136331
+                  ]
+            },
+            {
+                  "name": "BAZIN",
+                  "text": "BAZIN in Soroca is a public facility for swimming and water sports.",
+                  "category": "family",
+                  "coords": [
+                        28.319964,
+                        48.1736
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Soroca", hu: "Soroca", ro: "Soroca", en: "Soroca"},
@@ -997,6 +1339,15 @@ export const moldovaCitiesV2: POI[] = [
                         29.129668,
                         47.333098
                   ]
+            },
+            {
+                  "name": "Зоопарк",
+                  "text": "Der Zoo in Dubasari ist ein Ort, an dem Familien verschiedene Tiere beobachten können.",
+                  "category": "family",
+                  "coords": [
+                        29.147842,
+                        47.288068
+                  ]
             }
       ],
       "hu": [
@@ -1007,6 +1358,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.129668,
                         47.333098
+                  ]
+            },
+            {
+                  "name": "Зоопарк",
+                  "text": "A dubasari állatkertben a családok különféle állatokat tekinthetnek meg.",
+                  "category": "family",
+                  "coords": [
+                        29.147842,
+                        47.288068
                   ]
             }
       ],
@@ -1019,6 +1379,15 @@ export const moldovaCitiesV2: POI[] = [
                         29.129668,
                         47.333098
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Corjova",
+                  "text": "Grădina Zoologică din Dubasari este un loc unde familiile pot vedea diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        29.147842,
+                        47.288068
+                  ]
             }
       ],
       "en": [
@@ -1029,6 +1398,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.129668,
                         47.333098
+                  ]
+            },
+            {
+                  "name": "Зоопарк",
+                  "text": "The zoo in Dubasari is a place where families can see various animals.",
+                  "category": "family",
+                  "coords": [
+                        29.147842,
+                        47.288068
                   ]
             }
       ]
@@ -1466,7 +1844,772 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-durlesti-cities-v2", "sights": {"de": [{"name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.", "text": "Archäologische Stätte einer antiken geto-dakischen Festung.", "category": "castle", "coords": [28.739735, 47.035114]}, {"name": "Teatrul Epic de Etnografie și Folclor „Ion Creangă”", "text": "Ein Theater, das sich der Erhaltung von lokaler Ethnografie und Folklore widmet.", "category": "cultural", "coords": [28.799481, 47.017061]}, {"name": "Ștefan cel Mare și Sfânt", "text": "Das historische Denkmal Ștefan cel Mare și Sfânt befindet sich in der moldauischen Stadt Durlesti. Es wurde zu Ehren des berühmten Herrschers Stephan der Große errichtet und ist ein wichtiges Wahrzeichen. Besucher können hier einen Teil der prägenden Nationalgeschichte Moldaus hautnah erleben.", "category": "historical", "coords": [28.789991, 47.030883]}, {"name": "Loc Romantic", "text": "Ein beliebter Aussichtspunkt mit weitem Blick über die Umgebung.", "category": "natural", "coords": [28.798344, 47.013037]}, {"name": "Durlești", "text": "Ein lokales Wahrzeichen oder Denkmal im Stadtgebiet von Durlești.", "category": "historical", "coords": [28.784594, 47.02444]}, {"name": "I Love Buiucani", "text": "Eine moderne Stadtinstallation und Fotospot für Besucher.", "category": "landmark", "coords": [28.792964, 47.027025]}, {"name": "Lacul nr. 1", "text": "Ein Gewässer in Durlesti, geeignet für einen kurzen Ausflug ins Grüne.", "category": "natural", "coords": [28.848794, 47.001232]}, {"name": "Lacul nr. 2", "text": "Ein lokaler See in Durlesti für entspannte Momente am Wasser.", "category": "natural", "coords": [28.853535, 47.001529]}, {"name": "Lacul Albișoara", "text": "Ein See in Durlesti, der sich harmonisch in die Landschaft einfügt.", "category": "natural", "coords": [28.830271, 47.038668]}, {"name": "Lacul de acumulare „Ialoveni”", "text": "Ein Stausee bei Durlesti mit Blick auf die umliegende Natur.", "category": "natural", "coords": [28.725524, 46.965446]}, {"name": "Lacul de acumulare „Suruceni”", "text": "Ein Stausee in der Region Durlesti für ruhige Beobachtungen.", "category": "natural", "coords": [28.694605, 46.982353]}, {"name": "Iazul Tortuga", "text": "Ein See in Durlesti, der zu einem Spaziergang einlädt.", "category": "natural", "coords": [28.791122, 46.980737]}, {"name": "Bazinul de înot al USM", "text": "Ein Wasserbecken in Durlesti in ruhiger Lage.", "category": "natural", "coords": [28.837208, 47.010948]}, {"name": "Lacul de acumulare „Nimoreni”", "text": "Ein Stausee bei Durlesti, eingebettet in die lokale Landschaft.", "category": "natural", "coords": [28.681394, 46.993721]}, {"name": "Lacul nr. 4 (Traktornîi)", "text": "Ein kleiner See in Durlesti für Naturliebhaber.", "category": "natural", "coords": [28.81581, 47.047367]}, {"name": "Iazul Hârtoape", "text": "Ein lokales Gewässer in Durlesti mit natürlichem Charme.", "category": "natural", "coords": [28.798866, 46.971189]}, {"name": "Lacul nr. 3", "text": "Ein ruhiger See in der Umgebung von Durlesti.", "category": "natural", "coords": [28.857157, 47.00382]}, {"name": "Lacul de acumulare „Ghidighici”", "text": "Ein großer Stausee bei Durlesti, ideal für Erholung im Freien.", "category": "natural", "coords": [28.70757, 47.101512]}, {"name": "Lacul „Valea Morilor”", "text": "Ein malerischer See in Durlesti, bekannt für seine Freizeitmöglichkeiten.", "category": "natural", "coords": [28.813007, 47.018422]}], "hu": [{"name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.", "text": "Egy ősi geto-dák erőd régészeti lelőhelye.", "category": "castle", "coords": [28.739735, 47.035114]}, {"name": "Teatrul Epic de Etnografie și Folclor „Ion Creangă”", "text": "A helyi néprajz és folklór megőrzésének szentelt színház.", "category": "cultural", "coords": [28.799481, 47.017061]}, {"name": "Ștefan cel Mare și Sfânt", "text": "A Ștefan cel Mare și Sfânt történelmi emlékmű a moldovai Durlesti városában található. A híres uralkodó, Nagy István tiszteletére emelték, és fontos nevezetességnek számít. A látogatók itt testközelből tapasztalhatják meg Moldova meghatározó nemzeti történelmének egy részét.", "category": "historical", "coords": [28.789991, 47.030883]}, {"name": "Loc Romantic", "text": "Népszerű kilátóhely tágas kilátással a környékre.", "category": "natural", "coords": [28.798344, 47.013037]}, {"name": "Durlești", "text": "Helyi jelkép vagy emlékmű Durlești városában.", "category": "historical", "coords": [28.784594, 47.02444]}, {"name": "I Love Buiucani", "text": "Modern városi installáció és fotóhelyszín a látogatók számára.", "category": "landmark", "coords": [28.792964, 47.027025]}, {"name": "Lacul nr. 1", "text": "Vízfelület Durlestiben, amely alkalmas egy rövid kiránduláshoz a zöldbe.", "category": "natural", "coords": [28.848794, 47.001232]}, {"name": "Lacul nr. 2", "text": "Helyi tó Durlestiben a vízparti kikapcsolódáshoz.", "category": "natural", "coords": [28.853535, 47.001529]}, {"name": "Lacul Albișoara", "text": "Durlesti tava, amely harmonikusan illeszkedik a tájba.", "category": "natural", "coords": [28.830271, 47.038668]}, {"name": "Lacul de acumulare „Ialoveni”", "text": "Víztározó Durlesti közelében, kilátással a környező természetre.", "category": "natural", "coords": [28.725524, 46.965446]}, {"name": "Lacul de acumulare „Suruceni”", "text": "Víztározó Durlesti környékén, csendes megfigyelésekhez.", "category": "natural", "coords": [28.694605, 46.982353]}, {"name": "Iazul Tortuga", "text": "Tó Durlestiben, amely sétára hívogat.", "category": "natural", "coords": [28.791122, 46.980737]}, {"name": "Bazinul de înot al USM", "text": "Vízmedence Durlestiben, csendes helyen.", "category": "natural", "coords": [28.837208, 47.010948]}, {"name": "Lacul de acumulare „Nimoreni”", "text": "Víztározó Durlesti mellett, a helyi tájba ágyazva.", "category": "natural", "coords": [28.681394, 46.993721]}, {"name": "Lacul nr. 4 (Traktornîi)", "text": "Kisméretű tó Durlestiben a természet kedvelőinek.", "category": "natural", "coords": [28.81581, 47.047367]}, {"name": "Iazul Hârtoape", "text": "Helyi vízfelület Durlestiben, természetes bájjal.", "category": "natural", "coords": [28.798866, 46.971189]}, {"name": "Lacul nr. 3", "text": "Csendes tó Durlesti környékén.", "category": "natural", "coords": [28.857157, 47.00382]}, {"name": "Lacul de acumulare „Ghidighici”", "text": "Nagy víztározó Durlesti mellett, ideális szabadtéri kikapcsolódáshoz.", "category": "natural", "coords": [28.70757, 47.101512]}, {"name": "Lacul „Valea Morilor”", "text": "Festői tó Durlestiben, amely szabadidős lehetőségeiről ismert.", "category": "natural", "coords": [28.813007, 47.018422]}], "ro": [{"name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.", "text": "Situl arheologic al unei vechi cetăți geto-dacice.", "category": "castle", "coords": [28.739735, 47.035114]}, {"name": "Teatrul Epic de Etnografie și Folclor „Ion Creangă”", "text": "Un teatru dedicat conservării etnografiei și folclorului local.", "category": "cultural", "coords": [28.799481, 47.017061]}, {"name": "Ștefan cel Mare și Sfânt", "text": "Monumentul istoric Ștefan cel Mare și Sfânt se află în orașul moldovenesc Durlești. A fost ridicat în onoarea faimosului domnitor Ștefan cel Mare și este un reper important. Vizitatorii pot experimenta aici o parte din istoria națională definitorie a Moldovei.", "category": "historical", "coords": [28.789991, 47.030883]}, {"name": "Loc Romantic", "text": "Un punct de observație popular, cu o vedere panoramică asupra împrejurimilor.", "category": "natural", "coords": [28.798344, 47.013037]}, {"name": "Durlești", "text": "Un simbol local sau monument situat în orașul Durlești.", "category": "historical", "coords": [28.784594, 47.02444]}, {"name": "I Love Buiucani", "text": "O instalație urbană modernă și loc pentru fotografii pentru vizitatori.", "category": "landmark", "coords": [28.792964, 47.027025]}, {"name": "Lacul nr. 1", "text": "O apă în Durlesti, potrivită pentru o scurtă excursie în natură.", "category": "natural", "coords": [28.848794, 47.001232]}, {"name": "Lacul nr. 2", "text": "Un lac local în Durlesti pentru momente de relaxare lângă apă.", "category": "natural", "coords": [28.853535, 47.001529]}, {"name": "Lacul Albișoara", "text": "Un lac în Durlesti care se integrează armonios în peisaj.", "category": "natural", "coords": [28.830271, 47.038668]}, {"name": "Lacul de acumulare „Ialoveni”", "text": "Un lac de acumulare lângă Durlesti, cu vedere spre natura înconjurătoare.", "category": "natural", "coords": [28.725524, 46.965446]}, {"name": "Lacul de acumulare „Suruceni”", "text": "Un lac de acumulare în zona Durlesti pentru observații liniștite.", "category": "natural", "coords": [28.694605, 46.982353]}, {"name": "Iazul Tortuga", "text": "Un lac în Durlesti care invită la o plimbare.", "category": "natural", "coords": [28.791122, 46.980737]}, {"name": "Bazinul de înot al USM", "text": "Un bazin de apă în Durlesti, situat într-o zonă liniștită.", "category": "natural", "coords": [28.837208, 47.010948]}, {"name": "Lacul de acumulare „Nimoreni”", "text": "Un lac de acumulare lângă Durlesti, încadrat în peisajul local.", "category": "natural", "coords": [28.681394, 46.993721]}, {"name": "Lacul nr. 4 (Traktornîi)", "text": "Un mic lac în Durlesti pentru iubitorii de natură.", "category": "natural", "coords": [28.81581, 47.047367]}, {"name": "Iazul Hârtoape", "text": "O apă locală în Durlesti cu farmec natural.", "category": "natural", "coords": [28.798866, 46.971189]}, {"name": "Lacul nr. 3", "text": "Un lac liniștit în împrejurimile localității Durlesti.", "category": "natural", "coords": [28.857157, 47.00382]}, {"name": "Lacul de acumulare „Ghidighici”", "text": "Un rezervuar mare lângă Durlesti, ideal pentru recreere în aer liber.", "category": "natural", "coords": [28.70757, 47.101512]}, {"name": "Lacul „Valea Morilor”", "text": "Un lac pitoresc în Durlesti, cunoscut pentru posibilitățile de recreere.", "category": "natural", "coords": [28.813007, 47.018422]}], "en": [{"name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.", "text": "The archaeological site of an ancient Geto-Dacian fortress.", "category": "castle", "coords": [28.739735, 47.035114]}, {"name": "Teatrul Epic de Etnografie și Folclor „Ion Creangă”", "text": "A theatre dedicated to preserving local ethnography and folklore.", "category": "cultural", "coords": [28.799481, 47.017061]}, {"name": "Ștefan cel Mare și Sfânt", "text": "The historical monument Ștefan cel Mare și Sfânt is located in the Moldovan city of Durlesti. Erected in honor of the famous ruler Stephen the Great, it stands as an important landmark. Visitors can experience a part of Moldova's defining national history firsthand here.", "category": "historical", "coords": [28.789991, 47.030883]}, {"name": "Romantic Place", "text": "A popular viewpoint offering broad views over the surrounding area.", "category": "natural", "coords": [28.798344, 47.013037]}, {"name": "Durlești", "text": "A local landmark or monument located in the town of Durlești.", "category": "historical", "coords": [28.784594, 47.02444]}, {"name": "I Love Buiucani", "text": "A modern urban installation and photo spot for visitors.", "category": "landmark", "coords": [28.792964, 47.027025]}, {"name": "Lacul nr. 1", "text": "A water body in Durlesti, suitable for a short trip into the green.", "category": "natural", "coords": [28.848794, 47.001232]}, {"name": "Lacul nr. 2", "text": "A local lake in Durlesti for relaxed moments by the water.", "category": "natural", "coords": [28.853535, 47.001529]}, {"name": "Albișoara Lake", "text": "A lake in Durlesti that fits harmoniously into the landscape.", "category": "natural", "coords": [28.830271, 47.038668]}, {"name": "Lacul de acumulare „Ialoveni”", "text": "A reservoir near Durlesti with views of the surrounding nature.", "category": "natural", "coords": [28.725524, 46.965446]}, {"name": "Lacul de acumulare „Suruceni”", "text": "A reservoir in the Durlesti area for quiet observations.", "category": "natural", "coords": [28.694605, 46.982353]}, {"name": "Tortuga Lake", "text": "A lake in Durlesti that invites a stroll.", "category": "natural", "coords": [28.791122, 46.980737]}, {"name": "Bazinul de înot al USM", "text": "A water basin in Durlesti in a quiet location.", "category": "natural", "coords": [28.837208, 47.010948]}, {"name": "Lacul de acumulare „Nimoreni”", "text": "A reservoir near Durlesti, embedded in the local landscape.", "category": "natural", "coords": [28.681394, 46.993721]}, {"name": "Lake No. 4", "text": "A small lake in Durlesti for nature lovers.", "category": "natural", "coords": [28.81581, 47.047367]}, {"name": "Valley's Lake", "text": "A local water body in Durlesti with natural charm.", "category": "natural", "coords": [28.798866, 46.971189]}, {"name": "Lacul nr. 3", "text": "A peaceful lake in the surroundings of Durlesti.", "category": "natural", "coords": [28.857157, 47.00382]}, {"name": "Ghidighici Reservoir", "text": "A large reservoir near Durlesti, ideal for outdoor recreation.", "category": "natural", "coords": [28.70757, 47.101512]}, {"name": "Valea Morilor Lake", "text": "A picturesque lake in Durlesti, known for its recreational opportunities.", "category": "natural", "coords": [28.813007, 47.018422]}]},
+    id: "moldova-durlesti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.",
+                  "text": "Archäologische Stätte einer antiken geto-dakischen Festung.",
+                  "category": "castle",
+                  "coords": [
+                        28.739735,
+                        47.035114
+                  ]
+            },
+            {
+                  "name": "Teatrul Epic de Etnografie și Folclor „Ion Creangă”",
+                  "text": "Ein Theater, das sich der Erhaltung von lokaler Ethnografie und Folklore widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        28.799481,
+                        47.017061
+                  ]
+            },
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "Das historische Denkmal Ștefan cel Mare și Sfânt befindet sich in der moldauischen Stadt Durlesti. Es wurde zu Ehren des berühmten Herrschers Stephan der Große errichtet und ist ein wichtiges Wahrzeichen. Besucher können hier einen Teil der prägenden Nationalgeschichte Moldaus hautnah erleben.",
+                  "category": "historical",
+                  "coords": [
+                        28.789991,
+                        47.030883
+                  ]
+            },
+            {
+                  "name": "Loc Romantic",
+                  "text": "Ein beliebter Aussichtspunkt mit weitem Blick über die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        28.798344,
+                        47.013037
+                  ]
+            },
+            {
+                  "name": "Durlești",
+                  "text": "Ein lokales Wahrzeichen oder Denkmal im Stadtgebiet von Durlești.",
+                  "category": "historical",
+                  "coords": [
+                        28.784594,
+                        47.02444
+                  ]
+            },
+            {
+                  "name": "I Love Buiucani",
+                  "text": "Eine moderne Stadtinstallation und Fotospot für Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        28.792964,
+                        47.027025
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Ein Gewässer in Durlesti, geeignet für einen kurzen Ausflug ins Grüne.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Ein lokaler See in Durlesti für entspannte Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Ein See in Durlesti, der sich harmonisch in die Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Ein Stausee bei Durlesti mit Blick auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Suruceni”",
+                  "text": "Ein Stausee in der Region Durlesti für ruhige Beobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        28.694605,
+                        46.982353
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Ein See in Durlesti, der zu einem Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Ein Wasserbecken in Durlesti in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Ein Stausee bei Durlesti, eingebettet in die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Ein kleiner See in Durlesti für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "Ein lokales Gewässer in Durlesti mit natürlichem Charme.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Ein ruhiger See in der Umgebung von Durlesti.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Ein großer Stausee bei Durlesti, ideal für Erholung im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Ein malerischer See in Durlesti, bekannt für seine Freizeitmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Bazin",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Durlesti.",
+                  "category": "family",
+                  "coords": [
+                        28.774168,
+                        47.03949
+                  ]
+            },
+            {
+                  "name": "DinoPark",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Durlesti.",
+                  "category": "family",
+                  "coords": [
+                        28.791191,
+                        47.044336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.",
+                  "text": "Egy ősi geto-dák erőd régészeti lelőhelye.",
+                  "category": "castle",
+                  "coords": [
+                        28.739735,
+                        47.035114
+                  ]
+            },
+            {
+                  "name": "Teatrul Epic de Etnografie și Folclor „Ion Creangă”",
+                  "text": "A helyi néprajz és folklór megőrzésének szentelt színház.",
+                  "category": "cultural",
+                  "coords": [
+                        28.799481,
+                        47.017061
+                  ]
+            },
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "A Ștefan cel Mare și Sfânt történelmi emlékmű a moldovai Durlesti városában található. A híres uralkodó, Nagy István tiszteletére emelték, és fontos nevezetességnek számít. A látogatók itt testközelből tapasztalhatják meg Moldova meghatározó nemzeti történelmének egy részét.",
+                  "category": "historical",
+                  "coords": [
+                        28.789991,
+                        47.030883
+                  ]
+            },
+            {
+                  "name": "Loc Romantic",
+                  "text": "Népszerű kilátóhely tágas kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        28.798344,
+                        47.013037
+                  ]
+            },
+            {
+                  "name": "Durlești",
+                  "text": "Helyi jelkép vagy emlékmű Durlești városában.",
+                  "category": "historical",
+                  "coords": [
+                        28.784594,
+                        47.02444
+                  ]
+            },
+            {
+                  "name": "I Love Buiucani",
+                  "text": "Modern városi installáció és fotóhelyszín a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        28.792964,
+                        47.027025
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Vízfelület Durlestiben, amely alkalmas egy rövid kiránduláshoz a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Helyi tó Durlestiben a vízparti kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Durlesti tava, amely harmonikusan illeszkedik a tájba.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Víztározó Durlesti közelében, kilátással a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Suruceni”",
+                  "text": "Víztározó Durlesti környékén, csendes megfigyelésekhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.694605,
+                        46.982353
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Tó Durlestiben, amely sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Vízmedence Durlestiben, csendes helyen.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Víztározó Durlesti mellett, a helyi tájba ágyazva.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Kisméretű tó Durlestiben a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "Helyi vízfelület Durlestiben, természetes bájjal.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Csendes tó Durlesti környékén.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Nagy víztározó Durlesti mellett, ideális szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Festői tó Durlestiben, amely szabadidős lehetőségeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Bazin",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Durlesti településen.",
+                  "category": "family",
+                  "coords": [
+                        28.774168,
+                        47.03949
+                  ]
+            },
+            {
+                  "name": "DinoPark",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Durlesti településen.",
+                  "category": "family",
+                  "coords": [
+                        28.791191,
+                        47.044336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.",
+                  "text": "Situl arheologic al unei vechi cetăți geto-dacice.",
+                  "category": "castle",
+                  "coords": [
+                        28.739735,
+                        47.035114
+                  ]
+            },
+            {
+                  "name": "Teatrul Epic de Etnografie și Folclor „Ion Creangă”",
+                  "text": "Un teatru dedicat conservării etnografiei și folclorului local.",
+                  "category": "cultural",
+                  "coords": [
+                        28.799481,
+                        47.017061
+                  ]
+            },
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "Monumentul istoric Ștefan cel Mare și Sfânt se află în orașul moldovenesc Durlești. A fost ridicat în onoarea faimosului domnitor Ștefan cel Mare și este un reper important. Vizitatorii pot experimenta aici o parte din istoria națională definitorie a Moldovei.",
+                  "category": "historical",
+                  "coords": [
+                        28.789991,
+                        47.030883
+                  ]
+            },
+            {
+                  "name": "Loc Romantic",
+                  "text": "Un punct de observație popular, cu o vedere panoramică asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        28.798344,
+                        47.013037
+                  ]
+            },
+            {
+                  "name": "Durlești",
+                  "text": "Un simbol local sau monument situat în orașul Durlești.",
+                  "category": "historical",
+                  "coords": [
+                        28.784594,
+                        47.02444
+                  ]
+            },
+            {
+                  "name": "I Love Buiucani",
+                  "text": "O instalație urbană modernă și loc pentru fotografii pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        28.792964,
+                        47.027025
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "O apă în Durlesti, potrivită pentru o scurtă excursie în natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Un lac local în Durlesti pentru momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Un lac în Durlesti care se integrează armonios în peisaj.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "Un lac de acumulare lângă Durlesti, cu vedere spre natura înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Suruceni”",
+                  "text": "Un lac de acumulare în zona Durlesti pentru observații liniștite.",
+                  "category": "natural",
+                  "coords": [
+                        28.694605,
+                        46.982353
+                  ]
+            },
+            {
+                  "name": "Iazul Tortuga",
+                  "text": "Un lac în Durlesti care invită la o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Un bazin de apă în Durlesti, situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Un lac de acumulare lângă Durlesti, încadrat în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Un mic lac în Durlesti pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Iazul Hârtoape",
+                  "text": "O apă locală în Durlesti cu farmec natural.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Un lac liniștit în împrejurimile localității Durlesti.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Un rezervuar mare lângă Durlesti, ideal pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Un lac pitoresc în Durlesti, cunoscut pentru posibilitățile de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Bazin",
+                  "text": "Un loc pentru înot și recreere acvatică în Durlesti.",
+                  "category": "family",
+                  "coords": [
+                        28.774168,
+                        47.03949
+                  ]
+            },
+            {
+                  "name": "DinoPark",
+                  "text": "O destinație plină de distracție pentru familii și copii în Durlesti.",
+                  "category": "family",
+                  "coords": [
+                        28.791191,
+                        47.044336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.",
+                  "text": "The archaeological site of an ancient Geto-Dacian fortress.",
+                  "category": "castle",
+                  "coords": [
+                        28.739735,
+                        47.035114
+                  ]
+            },
+            {
+                  "name": "Teatrul Epic de Etnografie și Folclor „Ion Creangă”",
+                  "text": "A theatre dedicated to preserving local ethnography and folklore.",
+                  "category": "cultural",
+                  "coords": [
+                        28.799481,
+                        47.017061
+                  ]
+            },
+            {
+                  "name": "Ștefan cel Mare și Sfânt",
+                  "text": "The historical monument Ștefan cel Mare și Sfânt is located in the Moldovan city of Durlesti. Erected in honor of the famous ruler Stephen the Great, it stands as an important landmark. Visitors can experience a part of Moldova's defining national history firsthand here.",
+                  "category": "historical",
+                  "coords": [
+                        28.789991,
+                        47.030883
+                  ]
+            },
+            {
+                  "name": "Romantic Place",
+                  "text": "A popular viewpoint offering broad views over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        28.798344,
+                        47.013037
+                  ]
+            },
+            {
+                  "name": "Durlești",
+                  "text": "A local landmark or monument located in the town of Durlești.",
+                  "category": "historical",
+                  "coords": [
+                        28.784594,
+                        47.02444
+                  ]
+            },
+            {
+                  "name": "I Love Buiucani",
+                  "text": "A modern urban installation and photo spot for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        28.792964,
+                        47.027025
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "A water body in Durlesti, suitable for a short trip into the green.",
+                  "category": "natural",
+                  "coords": [
+                        28.848794,
+                        47.001232
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "A local lake in Durlesti for relaxed moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.853535,
+                        47.001529
+                  ]
+            },
+            {
+                  "name": "Albișoara Lake",
+                  "text": "A lake in Durlesti that fits harmoniously into the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ialoveni”",
+                  "text": "A reservoir near Durlesti with views of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.725524,
+                        46.965446
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Suruceni”",
+                  "text": "A reservoir in the Durlesti area for quiet observations.",
+                  "category": "natural",
+                  "coords": [
+                        28.694605,
+                        46.982353
+                  ]
+            },
+            {
+                  "name": "Tortuga Lake",
+                  "text": "A lake in Durlesti that invites a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        28.791122,
+                        46.980737
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "A water basin in Durlesti in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "A reservoir near Durlesti, embedded in the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lake No. 4",
+                  "text": "A small lake in Durlesti for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Valley's Lake",
+                  "text": "A local water body in Durlesti with natural charm.",
+                  "category": "natural",
+                  "coords": [
+                        28.798866,
+                        46.971189
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "A peaceful lake in the surroundings of Durlesti.",
+                  "category": "natural",
+                  "coords": [
+                        28.857157,
+                        47.00382
+                  ]
+            },
+            {
+                  "name": "Ghidighici Reservoir",
+                  "text": "A large reservoir near Durlesti, ideal for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Valea Morilor Lake",
+                  "text": "A picturesque lake in Durlesti, known for its recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Bazin",
+                  "text": "A place for swimming and water recreation in Durlesti.",
+                  "category": "family",
+                  "coords": [
+                        28.774168,
+                        47.03949
+                  ]
+            },
+            {
+                  "name": "DinoPark",
+                  "text": "A fun-filled destination for families and children in Durlesti.",
+                  "category": "family",
+                  "coords": [
+                        28.791191,
+                        47.044336
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Durlești", hu: "Durlești", ro: "Durlești", en: "Durlești"},
@@ -3366,6 +4509,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.206701,
                         47.092156
                   ]
+            },
+            {
+                  "name": "BAIE AGHACHI",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Nisporeni.",
+                  "category": "family",
+                  "coords": [
+                        28.180339,
+                        47.07324
+                  ]
             }
       ],
       "hu": [
@@ -3448,6 +4600,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.206701,
                         47.092156
+                  ]
+            },
+            {
+                  "name": "BAIE AGHACHI",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Nisporeni településen.",
+                  "category": "family",
+                  "coords": [
+                        28.180339,
+                        47.07324
                   ]
             }
       ],
@@ -3532,6 +4693,15 @@ export const moldovaCitiesV2: POI[] = [
                         28.206701,
                         47.092156
                   ]
+            },
+            {
+                  "name": "BAIE AGHACHI",
+                  "text": "Un loc pentru înot și recreere acvatică în Nisporeni.",
+                  "category": "family",
+                  "coords": [
+                        28.180339,
+                        47.07324
+                  ]
             }
       ],
       "en": [
@@ -3614,6 +4784,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.206701,
                         47.092156
+                  ]
+            },
+            {
+                  "name": "BAIE AGHACHI",
+                  "text": "A place for swimming and water recreation in Nisporeni.",
+                  "category": "family",
+                  "coords": [
+                        28.180339,
+                        47.07324
                   ]
             }
       ]
@@ -3805,7 +4984,304 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-dnestrovsc-cities-v2", "sights": {"de": [{"name": "Istoriko-kraevedcheskii muzei", "text": "Dieses Museum in Dnestrovsc präsentiert die regionale Geschichte und Kultur.", "category": "museum", "coords": [29.922571, 46.612742]}, {"name": "Dnestrovskii liman", "text": "Ein Erholungsgebiet am Ufer des Dnestr-Limans bei Dnestrovsc.", "category": "recreational", "coords": [29.941576, 46.617424]}, {"name": "Muzei Moldavskoi GRES", "text": "Ein Museum in Dnestrovsc, das sich mit der Geschichte des örtlichen Kraftwerks befasst.", "category": "museum", "coords": [29.939961, 46.624583]}, {"name": "Vodokhranilishche", "text": "Der Stausee in Dnestrovsc bietet ein malerisches Gebiet zum Wandern und Genießen des Blicks auf das Wasser.", "category": "natural", "coords": [29.909389, 46.597833]}, {"name": "ozero Krasnoe", "text": "Der Krasnoje-See in Dnestrovsc ist ein ruhiger Ort für einen Spaziergang und um die lokale Landschaft zu genießen.", "category": "natural", "coords": [29.840868, 46.652165]}, {"name": "Putrine ozero", "text": "Der Putryne-See in Dnestrovsc bietet eine ruhige natürliche Umgebung, ideal für einen friedlichen Spaziergang am Ufer.", "category": "natural", "coords": [29.978792, 46.560639]}, {"name": "Kutschurhan-Stausee", "text": "Der Cuciurgan-Stausee in Dnestrovsc ist ein großes Gewässer, das eine malerische Umgebung zum Wandern und Entspannen bietet.", "category": "natural", "coords": [29.963355, 46.669224]}], "hu": [{"name": "Istoriko-kraevedcheskii muzei", "text": "Ez a dnyeszterovszki múzeum a régió történelmét és kultúráját mutatja be.", "category": "museum", "coords": [29.922571, 46.612742]}, {"name": "Dnestrovskii liman", "text": "Üdülőhely a Dnyeszter-limán partján, Dnyeszterovszk közelében.", "category": "recreational", "coords": [29.941576, 46.617424]}, {"name": "Muzei Moldavskoi GRES", "text": "Dnyeszterovszki múzeum, amely a helyi erőmű történetével foglalkozik.", "category": "museum", "coords": [29.939961, 46.624583]}, {"name": "Vodokhranilishche", "text": "A dnyesztrovszki víztározó festői területet kínál a sétához és a vízre nyíló kilátás élvezetéhez.", "category": "natural", "coords": [29.909389, 46.597833]}, {"name": "ozero Krasnoe", "text": "A Krasznoje-tó Dnyesztrovszkban egy nyugodt hely egy sétához és a helyi táj megtekintéséhez.", "category": "natural", "coords": [29.840868, 46.652165]}, {"name": "Putrine ozero", "text": "A Putryne-tó Dnyesztrovszkban nyugodt természeti környezetet kínál, amely ideális egy békés sétához a parton.", "category": "natural", "coords": [29.978792, 46.560639]}, {"name": "Lacul de acumulare Cuciurgan / Kuchurganske vodoskhovishche", "text": "A dnyesztrovszki Cuciurgan-víztározó egy nagy vízfelület, amely festői környezetet biztosít a sétához és a kikapcsolódáshoz.", "category": "natural", "coords": [29.963355, 46.669224]}], "ro": [{"name": "Istoriko-kraevedcheskii muzei", "text": "Acest muzeu din Dnestrovsc prezintă istoria și cultura regională.", "category": "museum", "coords": [29.922571, 46.612742]}, {"name": "Dnestrovskii liman", "text": "O zonă de agrement pe malul limanului Nistrului, lângă Dnestrovsc.", "category": "recreational", "coords": [29.941576, 46.617424]}, {"name": "Muzei Moldavskoi GRES", "text": "Un muzeu din Dnestrovsc care se ocupă cu istoria centralei electrice locale.", "category": "museum", "coords": [29.939961, 46.624583]}, {"name": "Lacul de acumulare", "text": "Lacul de acumulare din Dnestrovsc oferă o zonă pitorească pentru plimbări și pentru a admira vederea spre apă.", "category": "natural", "coords": [29.909389, 46.597833]}, {"name": "Lacul Crasnoe", "text": "Lacul Krasnoe din Dnestrovsc este un loc liniștit pentru o plimbare și pentru a admira peisajul local.", "category": "natural", "coords": [29.840868, 46.652165]}, {"name": "Putrine ozero", "text": "Lacul Putryne din Dnestrovsc oferă un mediu natural liniștit, ideal pentru o plimbare calmă pe mal.", "category": "natural", "coords": [29.978792, 46.560639]}, {"name": "Lacul de acumulare Cuciurgan", "text": "Lacul de acumulare Cuciurgan din Dnestrovsc este o întindere mare de apă, oferind un cadru pitoresc pentru plimbare și relaxare.", "category": "natural", "coords": [29.963355, 46.669224]}], "en": [{"name": "Istoriko-kraevedcheskii muzei", "text": "This museum in Dnestrovsc presents the regional history and culture.", "category": "museum", "coords": [29.922571, 46.612742]}, {"name": "Dnestrovskii liman", "text": "A recreation area on the banks of the Dniester Liman near Dnestrovsc.", "category": "recreational", "coords": [29.941576, 46.617424]}, {"name": "Muzei Moldavskoi GRES", "text": "A museum in Dnestrovsc dedicated to the history of the local power plant.", "category": "museum", "coords": [29.939961, 46.624583]}, {"name": "Reservoir", "text": "The Reservoir in Dnestrovsc provides a scenic area for walking and enjoying the view of the water.", "category": "natural", "coords": [29.909389, 46.597833]}, {"name": "ozero Krasnoe", "text": "Krasnoye Lake in Dnestrovsc is a tranquil spot for a walk and taking in the local scenery.", "category": "natural", "coords": [29.840868, 46.652165]}, {"name": "Putryne Lake", "text": "Putryne Lake in Dnestrovsc offers a calm natural environment, ideal for a peaceful walk by the shore.", "category": "natural", "coords": [29.978792, 46.560639]}, {"name": "Cuciurgan Reservoir", "text": "Cuciurgan Reservoir in Dnestrovsc is a large body of water providing a scenic setting for walking and relaxation.", "category": "natural", "coords": [29.963355, 46.669224]}]},
+    id: "moldova-dnestrovsc-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Dieses Museum in Dnestrovsc präsentiert die regionale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        29.922571,
+                        46.612742
+                  ]
+            },
+            {
+                  "name": "Dnestrovskii liman",
+                  "text": "Ein Erholungsgebiet am Ufer des Dnestr-Limans bei Dnestrovsc.",
+                  "category": "recreational",
+                  "coords": [
+                        29.941576,
+                        46.617424
+                  ]
+            },
+            {
+                  "name": "Muzei Moldavskoi GRES",
+                  "text": "Ein Museum in Dnestrovsc, das sich mit der Geschichte des örtlichen Kraftwerks befasst.",
+                  "category": "museum",
+                  "coords": [
+                        29.939961,
+                        46.624583
+                  ]
+            },
+            {
+                  "name": "Vodokhranilishche",
+                  "text": "Der Stausee in Dnestrovsc bietet ein malerisches Gebiet zum Wandern und Genießen des Blicks auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        29.909389,
+                        46.597833
+                  ]
+            },
+            {
+                  "name": "ozero Krasnoe",
+                  "text": "Der Krasnoje-See in Dnestrovsc ist ein ruhiger Ort für einen Spaziergang und um die lokale Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Putrine ozero",
+                  "text": "Der Putryne-See in Dnestrovsc bietet eine ruhige natürliche Umgebung, ideal für einen friedlichen Spaziergang am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        29.978792,
+                        46.560639
+                  ]
+            },
+            {
+                  "name": "Kutschurhan-Stausee",
+                  "text": "Der Cuciurgan-Stausee in Dnestrovsc ist ein großes Gewässer, das eine malerische Umgebung zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        29.963355,
+                        46.669224
+                  ]
+            },
+            {
+                  "name": "База «Бормана»",
+                  "text": "Das Strandresort База «Бормана» in Dnestrovsc lädt zum Entspannen am Wasser ein.",
+                  "category": "family",
+                  "coords": [
+                        29.947772,
+                        46.597326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Ez a dnyeszterovszki múzeum a régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        29.922571,
+                        46.612742
+                  ]
+            },
+            {
+                  "name": "Dnestrovskii liman",
+                  "text": "Üdülőhely a Dnyeszter-limán partján, Dnyeszterovszk közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.941576,
+                        46.617424
+                  ]
+            },
+            {
+                  "name": "Muzei Moldavskoi GRES",
+                  "text": "Dnyeszterovszki múzeum, amely a helyi erőmű történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        29.939961,
+                        46.624583
+                  ]
+            },
+            {
+                  "name": "Vodokhranilishche",
+                  "text": "A dnyesztrovszki víztározó festői területet kínál a sétához és a vízre nyíló kilátás élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        29.909389,
+                        46.597833
+                  ]
+            },
+            {
+                  "name": "ozero Krasnoe",
+                  "text": "A Krasznoje-tó Dnyesztrovszkban egy nyugodt hely egy sétához és a helyi táj megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Putrine ozero",
+                  "text": "A Putryne-tó Dnyesztrovszkban nyugodt természeti környezetet kínál, amely ideális egy békés sétához a parton.",
+                  "category": "natural",
+                  "coords": [
+                        29.978792,
+                        46.560639
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare Cuciurgan / Kuchurganske vodoskhovishche",
+                  "text": "A dnyesztrovszki Cuciurgan-víztározó egy nagy vízfelület, amely festői környezetet biztosít a sétához és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        29.963355,
+                        46.669224
+                  ]
+            },
+            {
+                  "name": "База «Бормана»",
+                  "text": "A dnyeszterovszki База «Бормана» vízparti üdülőhely kikapcsolódásra hív a víz mellett.",
+                  "category": "family",
+                  "coords": [
+                        29.947772,
+                        46.597326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "Acest muzeu din Dnestrovsc prezintă istoria și cultura regională.",
+                  "category": "museum",
+                  "coords": [
+                        29.922571,
+                        46.612742
+                  ]
+            },
+            {
+                  "name": "Dnestrovskii liman",
+                  "text": "O zonă de agrement pe malul limanului Nistrului, lângă Dnestrovsc.",
+                  "category": "recreational",
+                  "coords": [
+                        29.941576,
+                        46.617424
+                  ]
+            },
+            {
+                  "name": "Muzei Moldavskoi GRES",
+                  "text": "Un muzeu din Dnestrovsc care se ocupă cu istoria centralei electrice locale.",
+                  "category": "museum",
+                  "coords": [
+                        29.939961,
+                        46.624583
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare",
+                  "text": "Lacul de acumulare din Dnestrovsc oferă o zonă pitorească pentru plimbări și pentru a admira vederea spre apă.",
+                  "category": "natural",
+                  "coords": [
+                        29.909389,
+                        46.597833
+                  ]
+            },
+            {
+                  "name": "Lacul Crasnoe",
+                  "text": "Lacul Krasnoe din Dnestrovsc este un loc liniștit pentru o plimbare și pentru a admira peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Putrine ozero",
+                  "text": "Lacul Putryne din Dnestrovsc oferă un mediu natural liniștit, ideal pentru o plimbare calmă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        29.978792,
+                        46.560639
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare Cuciurgan",
+                  "text": "Lacul de acumulare Cuciurgan din Dnestrovsc este o întindere mare de apă, oferind un cadru pitoresc pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        29.963355,
+                        46.669224
+                  ]
+            },
+            {
+                  "name": "База «Бормана»",
+                  "text": "Complexul de plajă База «Бормана» din Dnestrovsc invită la relaxare pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        29.947772,
+                        46.597326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "This museum in Dnestrovsc presents the regional history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        29.922571,
+                        46.612742
+                  ]
+            },
+            {
+                  "name": "Dnestrovskii liman",
+                  "text": "A recreation area on the banks of the Dniester Liman near Dnestrovsc.",
+                  "category": "recreational",
+                  "coords": [
+                        29.941576,
+                        46.617424
+                  ]
+            },
+            {
+                  "name": "Muzei Moldavskoi GRES",
+                  "text": "A museum in Dnestrovsc dedicated to the history of the local power plant.",
+                  "category": "museum",
+                  "coords": [
+                        29.939961,
+                        46.624583
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "The Reservoir in Dnestrovsc provides a scenic area for walking and enjoying the view of the water.",
+                  "category": "natural",
+                  "coords": [
+                        29.909389,
+                        46.597833
+                  ]
+            },
+            {
+                  "name": "ozero Krasnoe",
+                  "text": "Krasnoye Lake in Dnestrovsc is a tranquil spot for a walk and taking in the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Putryne Lake",
+                  "text": "Putryne Lake in Dnestrovsc offers a calm natural environment, ideal for a peaceful walk by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        29.978792,
+                        46.560639
+                  ]
+            },
+            {
+                  "name": "Cuciurgan Reservoir",
+                  "text": "Cuciurgan Reservoir in Dnestrovsc is a large body of water providing a scenic setting for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        29.963355,
+                        46.669224
+                  ]
+            },
+            {
+                  "name": "База «Бормана»",
+                  "text": "The beach resort База «Бормана» in Dnestrovsc invites for relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        29.947772,
+                        46.597326
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Dnestrovsc", hu: "Dnestrovsc", ro: "Dnestrovsc", en: "Dnestrovsc"},
@@ -5261,7 +6737,196 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-crasnoe-cities-v2", "sights": {"de": [{"name": "DOT № 1202 TiUR", "text": "Historische Ruinen eines Verteidigungsbunkers in Crasnoe.", "category": "historical", "coords": [29.792084, 46.64286]}, {"name": "Lacul putred", "text": "Ein natürlicher See in Crasnoe für ruhige Momente.", "category": "natural", "coords": [29.734664, 46.640555]}, {"name": "ozero Krasnoe", "text": "Ein See in Crasnoe, eingebettet in die lokale Landschaft.", "category": "natural", "coords": [29.840868, 46.652165]}, {"name": "Ozero", "text": "Ein lokales Gewässer in Crasnoe für einen Spaziergang.", "category": "natural", "coords": [29.749132, 46.672045]}], "hu": [{"name": "DOT № 1202 TiUR", "text": "Egy védelmi bunker történelmi romjai Crasnoe-ban.", "category": "historical", "coords": [29.792084, 46.64286]}, {"name": "Lacul putred", "text": "Természetes tó Crasnoéban a csendes pillanatokért.", "category": "natural", "coords": [29.734664, 46.640555]}, {"name": "ozero Krasnoe", "text": "Tó Crasnoéban, a helyi tájba illeszkedve.", "category": "natural", "coords": [29.840868, 46.652165]}, {"name": "Ozero", "text": "Helyi vízfelület Crasnoéban egy sétához.", "category": "natural", "coords": [29.749132, 46.672045]}], "ro": [{"name": "Buncăr Nr 1202 TiRF", "text": "Ruinele istorice ale unui buncăr de apărare situat în Crasnoe.", "category": "historical", "coords": [29.792084, 46.64286]}, {"name": "Lacul putred", "text": "Un lac natural în Crasnoe pentru momente de liniște.", "category": "natural", "coords": [29.734664, 46.640555]}, {"name": "Lacul Crasnoe", "text": "Un lac în Crasnoe, integrat în peisajul local.", "category": "natural", "coords": [29.840868, 46.652165]}, {"name": "Ozero", "text": "O apă locală în Crasnoe pentru o plimbare.", "category": "natural", "coords": [29.749132, 46.672045]}], "en": [{"name": "Bunker No 1202 TiFR", "text": "Historical ruins of a defensive bunker located in Crasnoe.", "category": "historical", "coords": [29.792084, 46.64286]}, {"name": "Lacul putred", "text": "A natural lake in Crasnoe for quiet moments.", "category": "natural", "coords": [29.734664, 46.640555]}, {"name": "ozero Krasnoe", "text": "A lake in Crasnoe, nestled in the local landscape.", "category": "natural", "coords": [29.840868, 46.652165]}, {"name": "Ozero", "text": "A local water body in Crasnoe for a stroll.", "category": "natural", "coords": [29.749132, 46.672045]}]},
+    id: "moldova-crasnoe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "DOT № 1202 TiUR",
+                  "text": "Historische Ruinen eines Verteidigungsbunkers in Crasnoe.",
+                  "category": "historical",
+                  "coords": [
+                        29.792084,
+                        46.64286
+                  ]
+            },
+            {
+                  "name": "Lacul putred",
+                  "text": "Ein natürlicher See in Crasnoe für ruhige Momente.",
+                  "category": "natural",
+                  "coords": [
+                        29.734664,
+                        46.640555
+                  ]
+            },
+            {
+                  "name": "ozero Krasnoe",
+                  "text": "Ein See in Crasnoe, eingebettet in die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Ozero",
+                  "text": "Ein lokales Gewässer in Crasnoe für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Коротное старая баня",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Crasnoe.",
+                  "category": "family",
+                  "coords": [
+                        29.851406,
+                        46.6372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DOT № 1202 TiUR",
+                  "text": "Egy védelmi bunker történelmi romjai Crasnoe-ban.",
+                  "category": "historical",
+                  "coords": [
+                        29.792084,
+                        46.64286
+                  ]
+            },
+            {
+                  "name": "Lacul putred",
+                  "text": "Természetes tó Crasnoéban a csendes pillanatokért.",
+                  "category": "natural",
+                  "coords": [
+                        29.734664,
+                        46.640555
+                  ]
+            },
+            {
+                  "name": "ozero Krasnoe",
+                  "text": "Tó Crasnoéban, a helyi tájba illeszkedve.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Ozero",
+                  "text": "Helyi vízfelület Crasnoéban egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Коротное старая баня",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Crasnoe településen.",
+                  "category": "family",
+                  "coords": [
+                        29.851406,
+                        46.6372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buncăr Nr 1202 TiRF",
+                  "text": "Ruinele istorice ale unui buncăr de apărare situat în Crasnoe.",
+                  "category": "historical",
+                  "coords": [
+                        29.792084,
+                        46.64286
+                  ]
+            },
+            {
+                  "name": "Lacul putred",
+                  "text": "Un lac natural în Crasnoe pentru momente de liniște.",
+                  "category": "natural",
+                  "coords": [
+                        29.734664,
+                        46.640555
+                  ]
+            },
+            {
+                  "name": "Lacul Crasnoe",
+                  "text": "Un lac în Crasnoe, integrat în peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Ozero",
+                  "text": "O apă locală în Crasnoe pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Коротное старая баня",
+                  "text": "Un loc pentru înot și recreere acvatică în Crasnoe.",
+                  "category": "family",
+                  "coords": [
+                        29.851406,
+                        46.6372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bunker No 1202 TiFR",
+                  "text": "Historical ruins of a defensive bunker located in Crasnoe.",
+                  "category": "historical",
+                  "coords": [
+                        29.792084,
+                        46.64286
+                  ]
+            },
+            {
+                  "name": "Lacul putred",
+                  "text": "A natural lake in Crasnoe for quiet moments.",
+                  "category": "natural",
+                  "coords": [
+                        29.734664,
+                        46.640555
+                  ]
+            },
+            {
+                  "name": "ozero Krasnoe",
+                  "text": "A lake in Crasnoe, nestled in the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        29.840868,
+                        46.652165
+                  ]
+            },
+            {
+                  "name": "Ozero",
+                  "text": "A local water body in Crasnoe for a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        29.749132,
+                        46.672045
+                  ]
+            },
+            {
+                  "name": "Коротное старая баня",
+                  "text": "A place for swimming and water recreation in Crasnoe.",
+                  "category": "family",
+                  "coords": [
+                        29.851406,
+                        46.6372
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Crasnoe", hu: "Crasnoe", ro: "Crasnoe", en: "Crasnoe"},
@@ -6242,7 +7907,232 @@ export const moldovaCitiesV2: POI[] = [
     },
   },
   {
-    id: "moldova-vadul-lui-voda-cities-v2", "sights": {"de": [{"name": "Plaja „Vadul lui Vodă”", "text": "Plaja „Vadul lui Vodă” ist ein beliebter Erholungsstrand am Ufer des Dnister in der Republik Moldau. Hier pulsiert das Leben, denn die fröhliche Atmosphäre lockt besonders im Sommer viele Einheimische an. Badegäste können im Flusswasser schwimmen, sich sonnen und das lebhafte Treiben beobachten. Um einen ruhigen Platz zu ergattern, lohnt sich ein Besuch gleich am frühen Morgen.", "category": "recreational", "coords": [29.112714, 47.083698]}, {"name": "Plaja orășănească „Vadul lui Vodă”", "text": "Der städtische Hauptstrand Plaja orășănească in Vadul lui Vodă bietet zahlreiche Freizeiteinrichtungen direkt am Fluss Dnister. Er ist bekannt für seine überaus gesellige und familienfreundliche Umgebung, die an sonnigen Tagen sehr gut besucht ist. Die Besucher erwartet eine Kombination aus unbeschwertem Schwimmen und verschiedenen Erholungsangeboten am Ufer. Ein Ausflug unter der Woche ist meist entspannter als ein Besuch am voll besetzten Wochenende.", "category": "recreational", "coords": [29.085282, 47.090904]}, {"name": "Buncăr Nr 452 TiRF", "text": "Ruinen eines historischen Verteidigungsbunkers in der Nähe von Vadul lui Vodă.", "category": "historical", "coords": [29.114825, 47.08829]}, {"name": "Buncăr nr. 413 TiRF", "text": "Ein ehemaliger Militärbunker, heute eine Ruine, Teil der historischen Verteidigungslinie in Vadul lui Vodă.", "category": "historical", "coords": [29.073645, 47.100701]}, {"name": "Casa de creație pentru copii", "text": "Ein Zentrum für kindliche Kreativität und Kunst in der Stadt Vadul lui Vodă.", "category": "cultural", "coords": [29.080146, 47.088845]}], "hu": [{"name": "Plaja „Vadul lui Vodă”", "text": "A Plaja „Vadul lui Vodă” egy népszerű pihenőstrand a Dnyeszter folyó partján Moldovában. Itt lüktet az élet, hiszen a vidám hangulat különösen nyáron sok helybélit vonz. A fürdőzők úszhatnak a folyó vizében, napozhatnak és figyelhetik a nyüzsgést. Ahhoz, hogy nyugodt helyet találjunk, érdemes rögtön kora reggel idelátogatni.", "category": "recreational", "coords": [29.112714, 47.083698]}, {"name": "Plaja orășănească „Vadul lui Vodă”", "text": "A vadul lui vodă-i Plaja orășănească városi főstrand számos szabadidős létesítményt kínál közvetlenül a Dnyeszter folyó mellett. Kifejezetten társaságkedvelő és családbarát környezetéről ismert, amely a napsütéses napokon igen látogatott. A látogatókat a felhőtlen úszás és a különböző parti pihenési lehetőségek kombinációja várja. Egy hétköznapi kirándulás általában pihentetőbb, mint egy látogatás a zsúfolt hétvégéken.", "category": "recreational", "coords": [29.085282, 47.090904]}, {"name": "Buncăr Nr 452 TiRF", "text": "Egy történelmi védelmi bunker romjai Vadul lui Vodă közelében.", "category": "historical", "coords": [29.114825, 47.08829]}, {"name": "Buncăr nr. 413 TiRF", "text": "Egykori katonai bunker, ma már romokban, a Vadul lui Vodă-i történelmi védelmi vonal része.", "category": "historical", "coords": [29.073645, 47.100701]}, {"name": "Casa de creație pentru copii", "text": "Gyermekek kreativitásával és művészetével foglalkozó központ Vadul lui Vodă városában.", "category": "cultural", "coords": [29.080146, 47.088845]}], "ro": [{"name": "Plaja „Vadul lui Vodă”", "text": "Plaja „Vadul lui Vodă” este o plajă populară de recreere pe malul râului Nistru din Moldova. Aici pulsează viața, deoarece atmosfera veselă atrage mulți localnici, mai ales vara. Cei care se scaldă pot înota în apa râului, pot face plajă și pot privi agitația plină de viață. Pentru a prinde un loc liniștit, merită să faceți o vizită dis-de-dimineață.", "category": "recreational", "coords": [29.112714, 47.083698]}, {"name": "Plaja orășănească „Vadul lui Vodă”", "text": "Plaja principală a orașului, Plaja orășănească din Vadul lui Vodă, oferă numeroase facilități de agrement chiar pe râul Nistru. Este cunoscută pentru mediul său extrem de sociabil și potrivit pentru familii, care este foarte frecventat în zilele însorite. Vizitatorii se pot aștepta la o combinație de înot fără griji și diverse opțiuni de recreere pe mal. O excursie în timpul săptămânii este de obicei mai relaxantă decât o vizită în weekendurile aglomerate.", "category": "recreational", "coords": [29.085282, 47.090904]}, {"name": "Buncăr Nr 452 TiRF", "text": "Ruinele unui buncăr istoric de apărare situat lângă Vadul lui Vodă.", "category": "historical", "coords": [29.114825, 47.08829]}, {"name": "Buncăr nr. 413 TiRF", "text": "Un fost buncăr militar aflat acum în ruine, parte a liniei istorice de apărare din Vadul lui Vodă.", "category": "historical", "coords": [29.073645, 47.100701]}, {"name": "Casa de creație pentru copii", "text": "Un centru pentru creația și arta copiilor din orașul Vadul lui Vodă.", "category": "cultural", "coords": [29.080146, 47.088845]}], "en": [{"name": "Plaja „Vadul lui Vodă”", "text": "Plaja „Vadul lui Vodă” is a popular recreational beach on the banks of the Dniester River in Moldova. The area pulses with life, as the cheerful atmosphere attracts many locals, particularly in summer. Bathers can swim in the river, sunbathe on the shore, and watch the lively surroundings. Showing up early in the morning is the best way to secure a peaceful spot.", "category": "recreational", "coords": [29.112714, 47.083698]}, {"name": "Plaja orășănească „Vadul lui Vodă”", "text": "The main municipal beach, Plaja orășănească in Vadul lui Vodă, features numerous recreational facilities right on the Dniester River. It is known for its highly sociable and family-friendly environment, which draws large crowds on sunny days. Visitors can expect a combination of carefree swimming and various riverside leisure options. Planning a weekday trip is often much more relaxing than navigating the busy weekends.", "category": "recreational", "coords": [29.085282, 47.090904]}, {"name": "Bunker No 452 TiFR", "text": "Ruins of a historical defensive bunker located near Vadul lui Vodă.", "category": "historical", "coords": [29.114825, 47.08829]}, {"name": "Bunker No 413 TiFR", "text": "A former military bunker now in ruins, part of the historical defense line in Vadul lui Vodă.", "category": "historical", "coords": [29.073645, 47.100701]}, {"name": "Casa de creație pentru copii", "text": "A center for children's creativity and arts in the town of Vadul lui Vodă.", "category": "cultural", "coords": [29.080146, 47.088845]}]},
+    id: "moldova-vadul-lui-voda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaja „Vadul lui Vodă”",
+                  "text": "Plaja „Vadul lui Vodă” ist ein beliebter Erholungsstrand am Ufer des Dnister in der Republik Moldau. Hier pulsiert das Leben, denn die fröhliche Atmosphäre lockt besonders im Sommer viele Einheimische an. Badegäste können im Flusswasser schwimmen, sich sonnen und das lebhafte Treiben beobachten. Um einen ruhigen Platz zu ergattern, lohnt sich ein Besuch gleich am frühen Morgen.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112714,
+                        47.083698
+                  ]
+            },
+            {
+                  "name": "Plaja orășănească „Vadul lui Vodă”",
+                  "text": "Der städtische Hauptstrand Plaja orășănească in Vadul lui Vodă bietet zahlreiche Freizeiteinrichtungen direkt am Fluss Dnister. Er ist bekannt für seine überaus gesellige und familienfreundliche Umgebung, die an sonnigen Tagen sehr gut besucht ist. Die Besucher erwartet eine Kombination aus unbeschwertem Schwimmen und verschiedenen Erholungsangeboten am Ufer. Ein Ausflug unter der Woche ist meist entspannter als ein Besuch am voll besetzten Wochenende.",
+                  "category": "recreational",
+                  "coords": [
+                        29.085282,
+                        47.090904
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 452 TiRF",
+                  "text": "Ruinen eines historischen Verteidigungsbunkers in der Nähe von Vadul lui Vodă.",
+                  "category": "historical",
+                  "coords": [
+                        29.114825,
+                        47.08829
+                  ]
+            },
+            {
+                  "name": "Buncăr nr. 413 TiRF",
+                  "text": "Ein ehemaliger Militärbunker, heute eine Ruine, Teil der historischen Verteidigungslinie in Vadul lui Vodă.",
+                  "category": "historical",
+                  "coords": [
+                        29.073645,
+                        47.100701
+                  ]
+            },
+            {
+                  "name": "Casa de creație pentru copii",
+                  "text": "Ein Zentrum für kindliche Kreativität und Kunst in der Stadt Vadul lui Vodă.",
+                  "category": "cultural",
+                  "coords": [
+                        29.080146,
+                        47.088845
+                  ]
+            },
+            {
+                  "name": "Bazin Tiras",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Vadul Lui Voda.",
+                  "category": "family",
+                  "coords": [
+                        29.102176,
+                        47.083741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja „Vadul lui Vodă”",
+                  "text": "A Plaja „Vadul lui Vodă” egy népszerű pihenőstrand a Dnyeszter folyó partján Moldovában. Itt lüktet az élet, hiszen a vidám hangulat különösen nyáron sok helybélit vonz. A fürdőzők úszhatnak a folyó vizében, napozhatnak és figyelhetik a nyüzsgést. Ahhoz, hogy nyugodt helyet találjunk, érdemes rögtön kora reggel idelátogatni.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112714,
+                        47.083698
+                  ]
+            },
+            {
+                  "name": "Plaja orășănească „Vadul lui Vodă”",
+                  "text": "A vadul lui vodă-i Plaja orășănească városi főstrand számos szabadidős létesítményt kínál közvetlenül a Dnyeszter folyó mellett. Kifejezetten társaságkedvelő és családbarát környezetéről ismert, amely a napsütéses napokon igen látogatott. A látogatókat a felhőtlen úszás és a különböző parti pihenési lehetőségek kombinációja várja. Egy hétköznapi kirándulás általában pihentetőbb, mint egy látogatás a zsúfolt hétvégéken.",
+                  "category": "recreational",
+                  "coords": [
+                        29.085282,
+                        47.090904
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 452 TiRF",
+                  "text": "Egy történelmi védelmi bunker romjai Vadul lui Vodă közelében.",
+                  "category": "historical",
+                  "coords": [
+                        29.114825,
+                        47.08829
+                  ]
+            },
+            {
+                  "name": "Buncăr nr. 413 TiRF",
+                  "text": "Egykori katonai bunker, ma már romokban, a Vadul lui Vodă-i történelmi védelmi vonal része.",
+                  "category": "historical",
+                  "coords": [
+                        29.073645,
+                        47.100701
+                  ]
+            },
+            {
+                  "name": "Casa de creație pentru copii",
+                  "text": "Gyermekek kreativitásával és művészetével foglalkozó központ Vadul lui Vodă városában.",
+                  "category": "cultural",
+                  "coords": [
+                        29.080146,
+                        47.088845
+                  ]
+            },
+            {
+                  "name": "Bazin Tiras",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Vadul Lui Voda településen.",
+                  "category": "family",
+                  "coords": [
+                        29.102176,
+                        47.083741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja „Vadul lui Vodă”",
+                  "text": "Plaja „Vadul lui Vodă” este o plajă populară de recreere pe malul râului Nistru din Moldova. Aici pulsează viața, deoarece atmosfera veselă atrage mulți localnici, mai ales vara. Cei care se scaldă pot înota în apa râului, pot face plajă și pot privi agitația plină de viață. Pentru a prinde un loc liniștit, merită să faceți o vizită dis-de-dimineață.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112714,
+                        47.083698
+                  ]
+            },
+            {
+                  "name": "Plaja orășănească „Vadul lui Vodă”",
+                  "text": "Plaja principală a orașului, Plaja orășănească din Vadul lui Vodă, oferă numeroase facilități de agrement chiar pe râul Nistru. Este cunoscută pentru mediul său extrem de sociabil și potrivit pentru familii, care este foarte frecventat în zilele însorite. Vizitatorii se pot aștepta la o combinație de înot fără griji și diverse opțiuni de recreere pe mal. O excursie în timpul săptămânii este de obicei mai relaxantă decât o vizită în weekendurile aglomerate.",
+                  "category": "recreational",
+                  "coords": [
+                        29.085282,
+                        47.090904
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 452 TiRF",
+                  "text": "Ruinele unui buncăr istoric de apărare situat lângă Vadul lui Vodă.",
+                  "category": "historical",
+                  "coords": [
+                        29.114825,
+                        47.08829
+                  ]
+            },
+            {
+                  "name": "Buncăr nr. 413 TiRF",
+                  "text": "Un fost buncăr militar aflat acum în ruine, parte a liniei istorice de apărare din Vadul lui Vodă.",
+                  "category": "historical",
+                  "coords": [
+                        29.073645,
+                        47.100701
+                  ]
+            },
+            {
+                  "name": "Casa de creație pentru copii",
+                  "text": "Un centru pentru creația și arta copiilor din orașul Vadul lui Vodă.",
+                  "category": "cultural",
+                  "coords": [
+                        29.080146,
+                        47.088845
+                  ]
+            },
+            {
+                  "name": "Bazin Tiras",
+                  "text": "Un loc pentru înot și recreere acvatică în Vadul Lui Voda.",
+                  "category": "family",
+                  "coords": [
+                        29.102176,
+                        47.083741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja „Vadul lui Vodă”",
+                  "text": "Plaja „Vadul lui Vodă” is a popular recreational beach on the banks of the Dniester River in Moldova. The area pulses with life, as the cheerful atmosphere attracts many locals, particularly in summer. Bathers can swim in the river, sunbathe on the shore, and watch the lively surroundings. Showing up early in the morning is the best way to secure a peaceful spot.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112714,
+                        47.083698
+                  ]
+            },
+            {
+                  "name": "Plaja orășănească „Vadul lui Vodă”",
+                  "text": "The main municipal beach, Plaja orășănească in Vadul lui Vodă, features numerous recreational facilities right on the Dniester River. It is known for its highly sociable and family-friendly environment, which draws large crowds on sunny days. Visitors can expect a combination of carefree swimming and various riverside leisure options. Planning a weekday trip is often much more relaxing than navigating the busy weekends.",
+                  "category": "recreational",
+                  "coords": [
+                        29.085282,
+                        47.090904
+                  ]
+            },
+            {
+                  "name": "Bunker No 452 TiFR",
+                  "text": "Ruins of a historical defensive bunker located near Vadul lui Vodă.",
+                  "category": "historical",
+                  "coords": [
+                        29.114825,
+                        47.08829
+                  ]
+            },
+            {
+                  "name": "Bunker No 413 TiFR",
+                  "text": "A former military bunker now in ruins, part of the historical defense line in Vadul lui Vodă.",
+                  "category": "historical",
+                  "coords": [
+                        29.073645,
+                        47.100701
+                  ]
+            },
+            {
+                  "name": "Casa de creație pentru copii",
+                  "text": "A center for children's creativity and arts in the town of Vadul lui Vodă.",
+                  "category": "cultural",
+                  "coords": [
+                        29.080146,
+                        47.088845
+                  ]
+            },
+            {
+                  "name": "Bazin Tiras",
+                  "text": "A place for swimming and water recreation in Vadul Lui Voda.",
+                  "category": "family",
+                  "coords": [
+                        29.102176,
+                        47.083741
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "city",
     name: { de: "Vadul lui Vodă", hu: "Vadul lui Vodă", ro: "Vadul lui Vodă", en: "Vadul lui Vodă"},
@@ -6579,7 +8469,556 @@ export const moldovaCitiesV2: POI[] = [
     image: "/poi-images/moldova-brani-te-city-v2.webp",
   },
   {
-    id: "moldova-vatra-city-v2", "sights": {"de": [{"name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.", "text": "Überreste einer geto-dakischen Festung aus dem 3. bis 4. Jahrhundert v. Chr. in Vatra.", "category": "castle", "coords": [28.739735, 47.035114]}, {"name": "Plaja „La Izvor”", "text": "In der moldauischen Ortschaft Vatra befindet sich die beliebte Plaja „La Izvor” direkt an einem kleinen See. Dieser Strand ist ein wunderbarer Rückzugsort mit einer sehr entspannten, sommerlichen Urlaubsatmosphäre. Neben ausgedehnten Sonnenbädern kann man hier hervorragend schwimmen und die Natur am Wasser genießen. Wer die absolute Ruhe schätzt, kommt am besten in den frühen Morgenstunden an den See.", "category": "recreational", "coords": [28.786328, 47.04706]}, {"name": "Formula Kart", "text": "Eine Kartbahn in Vatra, die Unterhaltung und Motorsport bietet.", "category": "landmark", "coords": [28.763543, 47.064979]}, {"name": "Lacul Albișoara", "text": "Der Albișoara-See in Vatra ist ein angenehmer Ort für einen Spaziergang und bietet eine ruhige Atmosphäre am Wasser.", "category": "natural", "coords": [28.830271, 47.038668]}, {"name": "Iazul Grătiești", "text": "Iazul Grătiești ist ein See in Vatra, der eine neutrale und friedliche Umgebung für Spaziergänge im Freien bietet.", "category": "natural", "coords": [28.829094, 47.087767]}, {"name": "Bazinul de înot al USM", "text": "Bazinul de înot al USM ist ein Wassergebiet in Vatra, das eine einfache Umgebung für einen ruhigen Spaziergang bietet.", "category": "natural", "coords": [28.837208, 47.010948]}, {"name": "Lacul de acumulare „Nimoreni”", "text": "Der Nimoreni-Stausee in Vatra ist ein großes Gewässer, das sich ideal eignet, um die Landschaft bei einem Spaziergang zu betrachten.", "category": "natural", "coords": [28.681394, 46.993721]}, {"name": "Lacul nr. 2", "text": "Der See Nr. 2 in Vatra ist ein ruhiger Ort für einen Spaziergang und bietet Besuchern eine friedliche natürliche Umgebung.", "category": "natural", "coords": [28.794822, 47.047468]}, {"name": "Lacul nr. 4 (Traktornîi)", "text": "Der See Nr. 4 in Vatra bietet eine neutrale Umgebung, um einen ruhigen Spaziergang und die umliegende Landschaft zu genießen.", "category": "natural", "coords": [28.81581, 47.047367]}, {"name": "Lacul nr. 1", "text": "Der See Nr. 1 in Vatra ist ein ruhiges Gewässer, ideal für einen friedlichen Spaziergang im Freien.", "category": "natural", "coords": [28.78942, 47.047842]}, {"name": "Lacul nr. 3", "text": "Der See Nr. 3 in Vatra bietet eine ruhige und einfache Umgebung für Besucher, die einen entspannten Spaziergang am Ufer suchen.", "category": "natural", "coords": [28.80144, 47.048601]}, {"name": "Lacul de acumulare „Ghidighici”", "text": "Der Ghidighici-Stausee in Vatra ist ein beliebter und malerischer See, ideal für lange Spaziergänge und zum Genießen der Natur.", "category": "natural", "coords": [28.70757, 47.101512]}, {"name": "Lacul „Valea Morilor”", "text": "Der See Valea Morilor in Vatra ist ein wunderschönes Gewässer, das eine friedliche Umgebung zum Wandern und Entspannen bietet.", "category": "natural", "coords": [28.813007, 47.018422]}], "hu": [{"name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.", "text": "Géta-dák erődítmény maradványai az i. e. 3-4. századból Vatra városában.", "category": "castle", "coords": [28.739735, 47.035114]}, {"name": "Plaja „La Izvor”", "text": "A moldovai Vatra településen található a népszerű Plaja „La Izvor” közvetlenül egy kis tó partján. Ez a strand csodálatos menedék, nagyon nyugodt, nyárias nyaralási hangulattal. A hosszas napozás mellett itt kiválóan lehet úszni és élvezni a vízparti természetet. Aki értékeli az abszolút nyugalmat, az tegye a látogatását a kora reggeli órákra.", "category": "recreational", "coords": [28.786328, 47.04706]}, {"name": "Formula Kart", "text": "Gokartpálya Vatrában, amely szórakozást és motorsportot kínál.", "category": "landmark", "coords": [28.763543, 47.064979]}, {"name": "Lacul Albișoara", "text": "A vatrai Albișoara-tó kellemes hely egy sétához, nyugodt légkört kínálva a vízparton.", "category": "natural", "coords": [28.830271, 47.038668]}, {"name": "Iazul Grătiești", "text": "Az Iazul Grătiești egy tó Vatrában, amely semleges és békés környezetet biztosít a szabadtéri sétákhoz.", "category": "natural", "coords": [28.829094, 47.087767]}, {"name": "Bazinul de înot al USM", "text": "A Bazinul de înot al USM egy vízfelület Vatrában, amely egyszerű környezetet kínál egy csendes sétához.", "category": "natural", "coords": [28.837208, 47.010948]}, {"name": "Lacul de acumulare „Nimoreni”", "text": "A vatrai Nimoreni-víztározó egy nagy vízfelület, amely tökéletes a táj megtekintéséhez egy séta során.", "category": "natural", "coords": [28.681394, 46.993721]}, {"name": "Lacul nr. 2", "text": "A vatrai 2-es számú tó nyugodt hely egy sétához, békés természeti környezetet kínálva a látogatóknak.", "category": "natural", "coords": [28.794822, 47.047468]}, {"name": "Lacul nr. 4 (Traktornîi)", "text": "A vatrai 4-es számú tó semleges környezetet biztosít egy csendes séta és a környező táj élvezetéhez.", "category": "natural", "coords": [28.81581, 47.047367]}, {"name": "Lacul nr. 1", "text": "A vatrai 1-es számú tó egy nyugodt vízfelület, amely ideális egy békés szabadtéri sétához.", "category": "natural", "coords": [28.78942, 47.047842]}, {"name": "Lacul nr. 3", "text": "A vatrai 3-as számú tó nyugodt és egyszerű környezetet kínál a parton pihentető sétát kereső látogatóknak.", "category": "natural", "coords": [28.80144, 47.048601]}, {"name": "Lacul de acumulare „Ghidighici”", "text": "A vatrai Ghidighici-víztározó egy népszerű és festői tó, amely ideális hosszú sétákhoz és a természet élvezetéhez.", "category": "natural", "coords": [28.70757, 47.101512]}, {"name": "Lacul „Valea Morilor”", "text": "A vatrai Valea Morilor-tó egy gyönyörű vízfelület, amely békés környezetet biztosít a sétához és a kikapcsolódáshoz.", "category": "natural", "coords": [28.813007, 47.018422]}], "ro": [{"name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.", "text": "Vestigiile unei cetăți geto-dacice din secolul III-IV î.Hr. în Vatra.", "category": "castle", "coords": [28.739735, 47.035114]}, {"name": "Plaja „La Izvor”", "text": "În localitatea moldovenească Vatra se află populara Plajă „La Izvor”, chiar pe malul unui mic lac. Această plajă este un refugiu minunat cu o atmosferă de vacanță de vară foarte relaxată. Pe lângă băile lungi de soare, aici puteți înota excelent și vă puteți bucura de natura de lângă apă. Cei care apreciază liniștea absolută ar trebui să vină la lac la primele ore ale dimineții.", "category": "recreational", "coords": [28.786328, 47.04706]}, {"name": "Formula Kart", "text": "O pistă de karting în Vatra, oferind divertisment și sporturi cu motor.", "category": "landmark", "coords": [28.763543, 47.064979]}, {"name": "Lacul Albișoara", "text": "Lacul Albișoara din Vatra este un loc plăcut pentru o plimbare, oferind o atmosferă calmă pe malul apei.", "category": "natural", "coords": [28.830271, 47.038668]}, {"name": "Iazul Grătiești", "text": "Iazul Grătiești este un lac în Vatra, oferind un mediu neutru și liniștit pentru plimbări în aer liber.", "category": "natural", "coords": [28.829094, 47.087767]}, {"name": "Bazinul de înot al USM", "text": "Bazinul de înot al USM este o zonă acvatică în Vatra, oferind un cadru simplu pentru o plimbare liniștită.", "category": "natural", "coords": [28.837208, 47.010948]}, {"name": "Lacul de acumulare „Nimoreni”", "text": "Lacul de acumulare „Nimoreni” din Vatra este o întindere mare de apă, perfectă pentru a admira peisajul în timpul unei plimbări.", "category": "natural", "coords": [28.681394, 46.993721]}, {"name": "Lacul nr. 2", "text": "Lacul nr. 2 din Vatra este un loc calm pentru o plimbare, oferind vizitatorilor un mediu natural liniștit.", "category": "natural", "coords": [28.794822, 47.047468]}, {"name": "Lacul nr. 4 (Traktornîi)", "text": "Lacul nr. 4 din Vatra oferă un cadru neutru pentru o plimbare liniștită și pentru a admira peisajul din jur.", "category": "natural", "coords": [28.81581, 47.047367]}, {"name": "Lacul nr. 1", "text": "Lacul nr. 1 din Vatra este o întindere de apă liniștită, ideală pentru o plimbare calmă în aer liber.", "category": "natural", "coords": [28.78942, 47.047842]}, {"name": "Lacul nr. 3", "text": "Lacul nr. 3 din Vatra oferă un cadru calm și simplu pentru vizitatorii care caută o plimbare relaxantă pe mal.", "category": "natural", "coords": [28.80144, 47.048601]}, {"name": "Lacul de acumulare „Ghidighici”", "text": "Lacul de acumulare Ghidighici din Vatra este un lac popular și pitoresc, ideal pentru plimbări lungi și pentru a te bucura de natură.", "category": "natural", "coords": [28.70757, 47.101512]}, {"name": "Lacul „Valea Morilor”", "text": "Lacul Valea Morilor din Vatra este o întindere frumoasă de apă, oferind un mediu liniștit pentru plimbare și relaxare.", "category": "natural", "coords": [28.813007, 47.018422]}], "en": [{"name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.", "text": "Remains of a Geto-Dacian fortress from the 3rd-4th century BC in Vatra.", "category": "castle", "coords": [28.739735, 47.035114]}, {"name": "Plaja „La Izvor”", "text": "The popular Plaja „La Izvor” is located right by a small lake in the Moldovan town of Vatra. This beach serves as a wonderful retreat with a deeply relaxed, summer holiday atmosphere. Alongside taking long sunbaths, visitors can enjoy excellent swimming and the surrounding waterside nature. Coming to the lake in the early morning hours is ideal for those who truly value absolute peace.", "category": "recreational", "coords": [28.786328, 47.04706]}, {"name": "Formula Kart", "text": "A go-kart track in Vatra offering entertainment and motorsport.", "category": "landmark", "coords": [28.763543, 47.064979]}, {"name": "Albișoara Lake", "text": "Albișoara Lake in Vatra is a pleasant spot for a walk, offering a calm atmosphere by the water.", "category": "natural", "coords": [28.830271, 47.038668]}, {"name": "Iazul Grătiești", "text": "Iazul Grătiești is a lake in Vatra, providing a neutral and peaceful environment for outdoor walking.", "category": "natural", "coords": [28.829094, 47.087767]}, {"name": "Bazinul de înot al USM", "text": "Bazinul de înot al USM is a water area in Vatra, offering a simple setting for a quiet walk.", "category": "natural", "coords": [28.837208, 47.010948]}, {"name": "Lacul de acumulare „Nimoreni”", "text": "The Nimoreni Reservoir in Vatra is a large body of water perfect for viewing the landscape on a stroll.", "category": "natural", "coords": [28.681394, 46.993721]}, {"name": "Lake No. 2", "text": "Lake No. 2 in Vatra is a calm spot for a walk, offering visitors a peaceful natural environment.", "category": "natural", "coords": [28.794822, 47.047468]}, {"name": "Lake No. 4", "text": "Lake No. 4 in Vatra provides a neutral setting for enjoying a quiet walk and the surrounding scenery.", "category": "natural", "coords": [28.81581, 47.047367]}, {"name": "Lake No. 1", "text": "Lake No. 1 in Vatra is a tranquil body of water, ideal for a peaceful outdoor stroll.", "category": "natural", "coords": [28.78942, 47.047842]}, {"name": "Lake No. 3", "text": "Lake No. 3 in Vatra offers a calm and simple setting for visitors seeking a relaxing walk by the shore.", "category": "natural", "coords": [28.80144, 47.048601]}, {"name": "Ghidighici Reservoir", "text": "Ghidighici Reservoir in Vatra is a popular and scenic lake, ideal for long walks and enjoying nature.", "category": "natural", "coords": [28.70757, 47.101512]}, {"name": "Valea Morilor Lake", "text": "Valea Morilor Lake in Vatra is a beautiful body of water, providing a peaceful environment for walking and relaxation.", "category": "natural", "coords": [28.813007, 47.018422]}]},
+    id: "moldova-vatra-city-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.",
+                  "text": "Überreste einer geto-dakischen Festung aus dem 3. bis 4. Jahrhundert v. Chr. in Vatra.",
+                  "category": "castle",
+                  "coords": [
+                        28.739735,
+                        47.035114
+                  ]
+            },
+            {
+                  "name": "Plaja „La Izvor”",
+                  "text": "In der moldauischen Ortschaft Vatra befindet sich die beliebte Plaja „La Izvor” direkt an einem kleinen See. Dieser Strand ist ein wunderbarer Rückzugsort mit einer sehr entspannten, sommerlichen Urlaubsatmosphäre. Neben ausgedehnten Sonnenbädern kann man hier hervorragend schwimmen und die Natur am Wasser genießen. Wer die absolute Ruhe schätzt, kommt am besten in den frühen Morgenstunden an den See.",
+                  "category": "recreational",
+                  "coords": [
+                        28.786328,
+                        47.04706
+                  ]
+            },
+            {
+                  "name": "Formula Kart",
+                  "text": "Eine Kartbahn in Vatra, die Unterhaltung und Motorsport bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        28.763543,
+                        47.064979
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Der Albișoara-See in Vatra ist ein angenehmer Ort für einen Spaziergang und bietet eine ruhige Atmosphäre am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Iazul Grătiești ist ein See in Vatra, der eine neutrale und friedliche Umgebung für Spaziergänge im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Bazinul de înot al USM ist ein Wassergebiet in Vatra, das eine einfache Umgebung für einen ruhigen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Der Nimoreni-Stausee in Vatra ist ein großes Gewässer, das sich ideal eignet, um die Landschaft bei einem Spaziergang zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Der See Nr. 2 in Vatra ist ein ruhiger Ort für einen Spaziergang und bietet Besuchern eine friedliche natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        28.794822,
+                        47.047468
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Der See Nr. 4 in Vatra bietet eine neutrale Umgebung, um einen ruhigen Spaziergang und die umliegende Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Der See Nr. 1 in Vatra ist ein ruhiges Gewässer, ideal für einen friedlichen Spaziergang im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        28.78942,
+                        47.047842
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Der See Nr. 3 in Vatra bietet eine ruhige und einfache Umgebung für Besucher, die einen entspannten Spaziergang am Ufer suchen.",
+                  "category": "natural",
+                  "coords": [
+                        28.80144,
+                        47.048601
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Der Ghidighici-Stausee in Vatra ist ein beliebter und malerischer See, ideal für lange Spaziergänge und zum Genießen der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Der See Valea Morilor in Vatra ist ein wunderschönes Gewässer, das eine friedliche Umgebung zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Bazin",
+                  "text": "Das Bazin in Vatra bietet Besuchern ein Becken für sportliches Schwimmen und Abkühlung.",
+                  "category": "family",
+                  "coords": [
+                        28.774168,
+                        47.03949
+                  ]
+            },
+            {
+                  "name": "DinoPark",
+                  "text": "DinoPark in Vatra ist ein Themenpark, der Unterhaltung rund um das Thema Dinosaurier bietet.",
+                  "category": "family",
+                  "coords": [
+                        28.791191,
+                        47.044336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.",
+                  "text": "Géta-dák erődítmény maradványai az i. e. 3-4. századból Vatra városában.",
+                  "category": "castle",
+                  "coords": [
+                        28.739735,
+                        47.035114
+                  ]
+            },
+            {
+                  "name": "Plaja „La Izvor”",
+                  "text": "A moldovai Vatra településen található a népszerű Plaja „La Izvor” közvetlenül egy kis tó partján. Ez a strand csodálatos menedék, nagyon nyugodt, nyárias nyaralási hangulattal. A hosszas napozás mellett itt kiválóan lehet úszni és élvezni a vízparti természetet. Aki értékeli az abszolút nyugalmat, az tegye a látogatását a kora reggeli órákra.",
+                  "category": "recreational",
+                  "coords": [
+                        28.786328,
+                        47.04706
+                  ]
+            },
+            {
+                  "name": "Formula Kart",
+                  "text": "Gokartpálya Vatrában, amely szórakozást és motorsportot kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        28.763543,
+                        47.064979
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "A vatrai Albișoara-tó kellemes hely egy sétához, nyugodt légkört kínálva a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Az Iazul Grătiești egy tó Vatrában, amely semleges és békés környezetet biztosít a szabadtéri sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "A Bazinul de înot al USM egy vízfelület Vatrában, amely egyszerű környezetet kínál egy csendes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "A vatrai Nimoreni-víztározó egy nagy vízfelület, amely tökéletes a táj megtekintéséhez egy séta során.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "A vatrai 2-es számú tó nyugodt hely egy sétához, békés természeti környezetet kínálva a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.794822,
+                        47.047468
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "A vatrai 4-es számú tó semleges környezetet biztosít egy csendes séta és a környező táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "A vatrai 1-es számú tó egy nyugodt vízfelület, amely ideális egy békés szabadtéri sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.78942,
+                        47.047842
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "A vatrai 3-as számú tó nyugodt és egyszerű környezetet kínál a parton pihentető sétát kereső látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        28.80144,
+                        47.048601
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "A vatrai Ghidighici-víztározó egy népszerű és festői tó, amely ideális hosszú sétákhoz és a természet élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "A vatrai Valea Morilor-tó egy gyönyörű vízfelület, amely békés környezetet biztosít a sétához és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Bazin",
+                  "text": "A vatrai Bazin úszómedencével várja a látogatókat sportolásra és felfrissülésre.",
+                  "category": "family",
+                  "coords": [
+                        28.774168,
+                        47.03949
+                  ]
+            },
+            {
+                  "name": "DinoPark",
+                  "text": "A vatrai DinoPark egy tematikus park, amely a dinoszauruszok köré épülő szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        28.791191,
+                        47.044336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.",
+                  "text": "Vestigiile unei cetăți geto-dacice din secolul III-IV î.Hr. în Vatra.",
+                  "category": "castle",
+                  "coords": [
+                        28.739735,
+                        47.035114
+                  ]
+            },
+            {
+                  "name": "Plaja „La Izvor”",
+                  "text": "În localitatea moldovenească Vatra se află populara Plajă „La Izvor”, chiar pe malul unui mic lac. Această plajă este un refugiu minunat cu o atmosferă de vacanță de vară foarte relaxată. Pe lângă băile lungi de soare, aici puteți înota excelent și vă puteți bucura de natura de lângă apă. Cei care apreciază liniștea absolută ar trebui să vină la lac la primele ore ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        28.786328,
+                        47.04706
+                  ]
+            },
+            {
+                  "name": "Formula Kart",
+                  "text": "O pistă de karting în Vatra, oferind divertisment și sporturi cu motor.",
+                  "category": "landmark",
+                  "coords": [
+                        28.763543,
+                        47.064979
+                  ]
+            },
+            {
+                  "name": "Lacul Albișoara",
+                  "text": "Lacul Albișoara din Vatra este un loc plăcut pentru o plimbare, oferind o atmosferă calmă pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Iazul Grătiești este un lac în Vatra, oferind un mediu neutru și liniștit pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Bazinul de înot al USM este o zonă acvatică în Vatra, oferind un cadru simplu pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "Lacul de acumulare „Nimoreni” din Vatra este o întindere mare de apă, perfectă pentru a admira peisajul în timpul unei plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 2",
+                  "text": "Lacul nr. 2 din Vatra este un loc calm pentru o plimbare, oferind vizitatorilor un mediu natural liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        28.794822,
+                        47.047468
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 4 (Traktornîi)",
+                  "text": "Lacul nr. 4 din Vatra oferă un cadru neutru pentru o plimbare liniștită și pentru a admira peisajul din jur.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 1",
+                  "text": "Lacul nr. 1 din Vatra este o întindere de apă liniștită, ideală pentru o plimbare calmă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        28.78942,
+                        47.047842
+                  ]
+            },
+            {
+                  "name": "Lacul nr. 3",
+                  "text": "Lacul nr. 3 din Vatra oferă un cadru calm și simplu pentru vizitatorii care caută o plimbare relaxantă pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        28.80144,
+                        47.048601
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Ghidighici”",
+                  "text": "Lacul de acumulare Ghidighici din Vatra este un lac popular și pitoresc, ideal pentru plimbări lungi și pentru a te bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Lacul „Valea Morilor”",
+                  "text": "Lacul Valea Morilor din Vatra este o întindere frumoasă de apă, oferind un mediu liniștit pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Bazin",
+                  "text": "Bazin din Vatra oferă vizitatorilor o piscină pentru înot sportiv și răcorire.",
+                  "category": "family",
+                  "coords": [
+                        28.774168,
+                        47.03949
+                  ]
+            },
+            {
+                  "name": "DinoPark",
+                  "text": "DinoPark din Vatra este un parc tematic care oferă divertisment legat de dinozauri.",
+                  "category": "family",
+                  "coords": [
+                        28.791191,
+                        47.044336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fostă cetate geto-dacică din secolul III-IV î.Hr.",
+                  "text": "Remains of a Geto-Dacian fortress from the 3rd-4th century BC in Vatra.",
+                  "category": "castle",
+                  "coords": [
+                        28.739735,
+                        47.035114
+                  ]
+            },
+            {
+                  "name": "Plaja „La Izvor”",
+                  "text": "The popular Plaja „La Izvor” is located right by a small lake in the Moldovan town of Vatra. This beach serves as a wonderful retreat with a deeply relaxed, summer holiday atmosphere. Alongside taking long sunbaths, visitors can enjoy excellent swimming and the surrounding waterside nature. Coming to the lake in the early morning hours is ideal for those who truly value absolute peace.",
+                  "category": "recreational",
+                  "coords": [
+                        28.786328,
+                        47.04706
+                  ]
+            },
+            {
+                  "name": "Formula Kart",
+                  "text": "A go-kart track in Vatra offering entertainment and motorsport.",
+                  "category": "landmark",
+                  "coords": [
+                        28.763543,
+                        47.064979
+                  ]
+            },
+            {
+                  "name": "Albișoara Lake",
+                  "text": "Albișoara Lake in Vatra is a pleasant spot for a walk, offering a calm atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        28.830271,
+                        47.038668
+                  ]
+            },
+            {
+                  "name": "Iazul Grătiești",
+                  "text": "Iazul Grătiești is a lake in Vatra, providing a neutral and peaceful environment for outdoor walking.",
+                  "category": "natural",
+                  "coords": [
+                        28.829094,
+                        47.087767
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot al USM",
+                  "text": "Bazinul de înot al USM is a water area in Vatra, offering a simple setting for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        28.837208,
+                        47.010948
+                  ]
+            },
+            {
+                  "name": "Lacul de acumulare „Nimoreni”",
+                  "text": "The Nimoreni Reservoir in Vatra is a large body of water perfect for viewing the landscape on a stroll.",
+                  "category": "natural",
+                  "coords": [
+                        28.681394,
+                        46.993721
+                  ]
+            },
+            {
+                  "name": "Lake No. 2",
+                  "text": "Lake No. 2 in Vatra is a calm spot for a walk, offering visitors a peaceful natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        28.794822,
+                        47.047468
+                  ]
+            },
+            {
+                  "name": "Lake No. 4",
+                  "text": "Lake No. 4 in Vatra provides a neutral setting for enjoying a quiet walk and the surrounding scenery.",
+                  "category": "natural",
+                  "coords": [
+                        28.81581,
+                        47.047367
+                  ]
+            },
+            {
+                  "name": "Lake No. 1",
+                  "text": "Lake No. 1 in Vatra is a tranquil body of water, ideal for a peaceful outdoor stroll.",
+                  "category": "natural",
+                  "coords": [
+                        28.78942,
+                        47.047842
+                  ]
+            },
+            {
+                  "name": "Lake No. 3",
+                  "text": "Lake No. 3 in Vatra offers a calm and simple setting for visitors seeking a relaxing walk by the shore.",
+                  "category": "natural",
+                  "coords": [
+                        28.80144,
+                        47.048601
+                  ]
+            },
+            {
+                  "name": "Ghidighici Reservoir",
+                  "text": "Ghidighici Reservoir in Vatra is a popular and scenic lake, ideal for long walks and enjoying nature.",
+                  "category": "natural",
+                  "coords": [
+                        28.70757,
+                        47.101512
+                  ]
+            },
+            {
+                  "name": "Valea Morilor Lake",
+                  "text": "Valea Morilor Lake in Vatra is a beautiful body of water, providing a peaceful environment for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        28.813007,
+                        47.018422
+                  ]
+            },
+            {
+                  "name": "Bazin",
+                  "text": "Bazin in Vatra offers visitors a pool for lap swimming and cooling off.",
+                  "category": "family",
+                  "coords": [
+                        28.774168,
+                        47.03949
+                  ]
+            },
+            {
+                  "name": "DinoPark",
+                  "text": "DinoPark in Vatra is a theme park offering entertainment centered around dinosaurs.",
+                  "category": "family",
+                  "coords": [
+                        28.791191,
+                        47.044336
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD",
     name: { de: "Vatra", hu: "Vatra", ro: "Vatra", en: "Vatra" },

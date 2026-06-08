@@ -63320,7 +63320,1382 @@ export const poiExtraDeCities: POI[] = [
       "en": "The piece of music is supposed to last 639 years. It started in 2001. In what year does it end?"
     },
     image: "/poi-images/halberstadt-extra.webp",
-    "sights": {"de": [{"name": "Halberstädter Dom", "text": "Der Dom St. Stephanus und St. Sixtus ist eines der bedeutendsten gotischen Bauwerke in Sachsen-Anhalt.", "category": "historical", "confidence": "high", "coords": [11.0487, 51.8963]}, {"name": "Domschatz Halberstadt", "text": "Einer der wertvollsten mittelalterlichen Kirchenschätze der Welt mit über 650 originalen Kunstwerken.", "category": "museum", "confidence": "high", "coords": [11.049345, 51.89594]}, {"name": "Martinikirche", "text": "Bekannt für ihre ungleichen Türme und das weltweit längste Orgelstück 'As Slow as Possible' von John Cage.", "category": "historical", "confidence": "high", "coords": [11.051071, 51.895474]}, {"name": "Liebfrauenkirche", "text": "Eine romanische Pfeilerbasilika mit wertvollen Stuckschranken, die zur Straße der Romanik gehört.", "category": "historical", "confidence": "high", "coords": [11.044205, 51.895661]}, {"name": "Gleimhaus", "text": "Eines der ältesten Literaturmuseen Deutschlands, das im ehemaligen Wohnhaus des Dichters Johann Wilhelm Ludwig Gleim residiert.", "category": "museum", "confidence": "high", "coords": [11.04743, 51.89601]}, {"name": "Roland von Halberstadt", "text": "Die steinerne Rolandstatue am Rathaus ist ein Symbol für städtische Freiheit und Marktrechte seit dem Mittelalter.", "category": "landmark", "confidence": "high", "coords": [11.050723, 51.89472]}, {"name": "Spiegelsberge", "text": "Ein Landschaftspark mit Jagdschloss, Belvedere und dem berühmten Riesenweinfass aus dem 16. Jahrhundert.", "category": "landmark", "confidence": "high", "coords": [11.0375, 51.8706]}, {"name": "Städtisches Museum", "text": "In einem barocken Stadtpalais untergebracht, zeigt es die facettenreiche Geschichte der Stadt von der Urzeit bis heute.", "category": "museum", "confidence": "high", "coords": [11.048136, 51.896854]}, {"name": "Strand am Halberstädter See", "text": "Im Herzen von Halberstadt bietet der Strand am Halberstädter See eine willkommene Auszeit am Wasser. Die entspannte Umgebung ist ideal, um an heißen Sommertagen eine frische Brise zu genießen und die Natur auf sich wirken zu lassen. Einheimische kommen gerne hierher, um spazieren zu gehen oder ein ungestörtes Sonnenbad zu nehmen. Packen Sie am besten ein spannendes Buch ein, um die ruhigen Stunden voll auszukosten.", "category": "recreational", "coords": [11.079926, 51.910168]}, {"name": "Kiesloch", "text": "Kiesloch ist ein See in Halberstadt, der zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [11.104467, 51.920555]}, {"name": "Halberstädter See", "text": "Halberstädter See ist ein See in Halberstadt, der zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [11.082525, 51.911855]}, {"name": "Spielplatz Lindenberg", "text": "Spielplatz Lindenberg ist ein Spielplatz in Halberstadt für Kinder.", "category": "family", "coords": [11.039019, 51.869122]}, {"name": "Tiergartenspielplatz", "text": "Tiergartenspielplatz ist ein Spielplatz in Halberstadt für Kinder.", "category": "family", "coords": [11.040336, 51.873007]}, {"name": "Streichelzoo", "text": "Der Streichelzoo in Halberstadt ist ein Streichelzoo, in dem Kinder mit Tieren interagieren können.", "category": "family", "coords": [11.041906, 51.872798]}], "hu": [{"name": "Halberstadti dóm", "text": "A Szent István és Szent Sixtus dóm a német gótika egyik legkiemelkedőbb alkotása, monumentális méretekkel.", "category": "historical", "confidence": "high", "coords": [11.0487, 51.8963]}, {"name": "Dómkincs", "text": "A világ egyik legjelentősebb középkori egyházi kincstára, felbecsülhetetlen értékű liturgikus tárgyakkal.", "category": "museum", "confidence": "high", "coords": [11.049345, 51.89594]}, {"name": "Szent Márton-templom", "text": "Híres felemás tornyairól és John Cage orgonaművének több évszázadig tartó folyamatos előadásáról.", "category": "historical", "confidence": "high", "coords": [11.051071, 51.895474]}, {"name": "Liebfrauenkirche", "text": "Román stílusú bazilika, amely a 'Román stílus útja' elnevezésű turisztikai útvonal fontos állomása.", "category": "historical", "confidence": "high", "coords": [11.044205, 51.895661]}, {"name": "Gleimhaus", "text": "Németország egyik legrégebbi irodalmi múzeuma, a felvilágosodás korának szellemi központja volt.", "category": "museum", "confidence": "high", "coords": [11.04743, 51.89601]}, {"name": "Roland-szobor", "text": "A városháza előtt álló kőszobor a középkori városi jogok és szabadság büszke jelképe.", "category": "landmark", "confidence": "high", "coords": [11.050723, 51.89472]}, {"name": "Spiegelsberge park", "text": "Hatalmas angolkert kastéllyal és a világ legnagyobb középkori boroshordójával a pincéjében.", "category": "landmark", "confidence": "high", "coords": [11.0375, 51.8706]}, {"name": "Városi Múzeum", "text": "Barokk palotában kapott helyet, bemutatva Halberstadt történetét az őskortól a modern korig.", "category": "museum", "confidence": "high", "coords": [11.048136, 51.896854]}, {"name": "Strand am Halberstädter See", "text": "Halberstadt szívében a Halberstädter See melletti strand kellemes vízparti kikapcsolódást nyújt. A pihentető környezet ideális ahhoz, hogy a forró nyári napokon élvezzük a frissítő szellőt és átadjuk magunkat a természetnek. A helyiek szívesen jönnek ide sétálni vagy zavartalanul napozni. A legkellemesebb, ha bepakol egy izgalmas könyvet, hogy teljes mértékben kiélvezhesse a csendes órákat.", "category": "recreational", "coords": [11.079926, 51.910168]}, {"name": "Kiesloch", "text": "A Kiesloch egy tó Halberstadt területén, amely természetközeli kikapcsolódást kínál.", "category": "natural", "coords": [11.104467, 51.920555]}, {"name": "Halberstädter See", "text": "A Halberstädter See egy tó Halberstadt területén, amely természetközeli kikapcsolódást kínál.", "category": "natural", "coords": [11.082525, 51.911855]}, {"name": "Spielplatz Lindenberg", "text": "A Spielplatz Lindenberg egy játszótér Halberstadt területén gyerekek számára.", "category": "family", "coords": [11.039019, 51.869122]}, {"name": "Tiergartenspielplatz", "text": "A Tiergartenspielplatz egy játszótér Halberstadt területén gyerekek számára.", "category": "family", "coords": [11.040336, 51.873007]}, {"name": "Streichelzoo", "text": "A halberstadti Streichelzoo egy állatsimogató, ahol a gyerekek állatokkal ismerkedhetnek.", "category": "family", "coords": [11.041906, 51.872798]}], "ro": [{"name": "Catedrala din Halberstadt", "text": "Catedrala Sf. Ștefan și Sf. Sixtus este o capodoperă a goticului, impunătoare prin arhitectură și vitralii.", "category": "historical", "confidence": "high", "coords": [11.0487, 51.8963]}, {"name": "Tezaurul Catedralei", "text": "Găzduiește peste 650 de obiecte de artă medievală, fiind unul dintre cele mai bogate tezaure din lume.", "category": "museum", "confidence": "high", "coords": [11.049345, 51.89594]}, {"name": "Biserica Sf. Martin", "text": "Renumită pentru turnurile sale asimetrice și pentru găzduirea celui mai lung concert de orgă din lume.", "category": "historical", "confidence": "high", "coords": [11.051071, 51.895474]}, {"name": "Biserica Maicii Domnului", "text": "O bazilică romanică superbă, celebră pentru reliefurile sale medievale în stuc și acustica deosebită.", "category": "historical", "confidence": "high", "coords": [11.044205, 51.895661]}, {"name": "Gleimhaus", "text": "Muzeu literar situat în casa poetului Gleim, păstrând atmosfera intelectuală a epocii iluminismului.", "category": "museum", "confidence": "high", "coords": [11.04743, 51.89601]}, {"name": "Statuia Roland", "text": "Simbolul libertății civice medievale, statuia de piatră a cavalerului Roland veghează piața primăriei.", "category": "landmark", "confidence": "high", "coords": [11.050723, 51.89472]}, {"name": "Parcul Spiegelsberge", "text": "O oază de verdeață cu un castel de vânătoare și un butoi de vin gigantic, unic în Europa.", "category": "landmark", "confidence": "high", "coords": [11.0375, 51.8706]}, {"name": "Muzeul Municipal", "text": "Prezintă istoria bogată a regiunii într-un cadru baroc elegant, de la descoperiri arheologice la artă modernă.", "category": "museum", "confidence": "high", "coords": [11.048136, 51.896854]}, {"name": "Strand am Halberstädter See", "text": "În inima orașului Halberstadt, plaja de la lacul Halberstädter See oferă o evadare binevenită la malul apei. Mediul relaxant este ideal pentru a savura briza proaspătă în zilele toride de vară și a te lăsa cucerit de natură. Localnicii vin cu plăcere aici pentru a se plimba sau a face o baie de soare nestingheriți. Cel mai bine este să aduceți cu voi o carte captivantă pentru a profita din plin de orele liniștite.", "category": "recreational", "coords": [11.079926, 51.910168]}, {"name": "Kiesloch", "text": "Kiesloch este un lac din Halberstadt, oferind un cadru natural pentru relaxare.", "category": "natural", "coords": [11.104467, 51.920555]}, {"name": "Halberstädter See", "text": "Halberstädter See este un lac din Halberstadt, oferind un cadru natural pentru relaxare.", "category": "natural", "coords": [11.082525, 51.911855]}, {"name": "Spielplatz Lindenberg", "text": "Spielplatz Lindenberg este un loc de joacă pentru copii în Halberstadt.", "category": "family", "coords": [11.039019, 51.869122]}, {"name": "Tiergartenspielplatz", "text": "Tiergartenspielplatz este un loc de joacă pentru copii în Halberstadt.", "category": "family", "coords": [11.040336, 51.873007]}, {"name": "Streichelzoo", "text": "Streichelzoo din Halberstadt este o grădină zoologică cu animale de mângâiat, unde copiii pot interacționa cu animalele.", "category": "family", "coords": [11.041906, 51.872798]}], "en": [{"name": "Halberstadt Cathedral", "text": "The Cathedral of St. Stephen and St. Sixtus is a premier example of French-influenced Gothic architecture.", "category": "historical", "confidence": "high", "coords": [11.0487, 51.8963]}, {"name": "Cathedral Treasury", "text": "One of the world's most significant medieval church treasures, featuring over 650 items of liturgical art.", "category": "museum", "confidence": "high", "coords": [11.049345, 51.89594]}, {"name": "St. Martin's Church", "text": "Famous for its uneven towers and for hosting John Cage's 'As Slow as Possible' organ project.", "category": "historical", "confidence": "high", "coords": [11.051071, 51.895474]}, {"name": "Liebfrauenkirche", "text": "A beautiful Romanesque basilica known for its rare medieval stucco screens and historical significance.", "category": "historical", "confidence": "high", "coords": [11.044205, 51.895661]}, {"name": "Gleimhaus", "text": "One of Germany's oldest literary museums, formerly the home of the Enlightenment poet Ludwig Gleim.", "category": "museum", "confidence": "high", "coords": [11.04743, 51.89601]}, {"name": "Halberstadt Roland", "text": "A medieval stone statue representing civic rights and justice, standing prominently in the town center.", "category": "landmark", "confidence": "high", "coords": [11.050723, 51.89472]}, {"name": "Spiegelsberge Park", "text": "A vast landscape park containing a hunting lodge and one of the largest ancient wine casks in existence.", "category": "landmark", "confidence": "high", "coords": [11.0375, 51.8706]}, {"name": "Städtisches Museum", "text": "The city museum showcases local history and culture within an elegant Baroque townhouse setting.", "category": "museum", "confidence": "high", "coords": [11.048136, 51.896854]}, {"name": "Strand am Halberstädter See", "text": "In the heart of Halberstadt, the beach at Lake Halberstädter See offers a welcome lakeside getaway. The relaxing environment is ideal for enjoying a fresh breeze on hot summer days and letting nature work its magic. Locals frequently love coming here to take a walk or catch some sun completely undisturbed. Packing a captivating book is your best bet to fully savor these peaceful hours.", "category": "recreational", "coords": [11.079926, 51.910168]}, {"name": "Kiesloch", "text": "Kiesloch is a lake in Halberstadt offering a scenic natural setting.", "category": "natural", "coords": [11.104467, 51.920555]}, {"name": "Halberstädter See", "text": "Halberstädter See is a lake in Halberstadt offering a scenic natural setting.", "category": "natural", "coords": [11.082525, 51.911855]}, {"name": "Spielplatz Lindenberg", "text": "Spielplatz Lindenberg is a playground for children in Halberstadt.", "category": "family", "coords": [11.039019, 51.869122]}, {"name": "Tiergartenspielplatz", "text": "Tiergartenspielplatz is a playground for children in Halberstadt.", "category": "family", "coords": [11.040336, 51.873007]}, {"name": "Streichelzoo", "text": "The Streichelzoo in Halberstadt is a petting zoo where children can interact with animals.", "category": "family", "coords": [11.041906, 51.872798]}], "tr": [{"name": "Halberstadt Katedrali", "text": "St. Stephanus ve St. Sixtus Katedrali, Saksonya-Anhalt eyaletindeki en önemli Gotik yapılardan biridir.", "category": "historical", "coords": [11.0487, 51.8963]}, {"name": "Halberstadt Katedral Hazinesi", "text": "650'den fazla orijinal sanat eseriyle dünyanın en değerli ortaçağ kilise hazinelerinden biridir.", "category": "museum", "coords": [11.049345, 51.89594]}, {"name": "Martini Kilisesi", "text": "Eşit olmayan kuleleri ve John Cage'in 'As Slow as Possible' adlı dünyanın en uzun org eseriyle tanınır.", "category": "historical", "coords": [11.051071, 51.895474]}, {"name": "Liebfrauen Kilisesi", "text": "Romanesk Yolu'nun bir parçası olan, değerli alçı panolara sahip Romanesk bir bazilikadır.", "category": "historical", "coords": [11.044205, 51.895661]}, {"name": "Gleimhaus", "text": "Şair Johann Wilhelm Ludwig Gleim'in eski evinde bulunan, Almanya'nın en eski edebiyat müzelerinden biridir.", "category": "museum", "coords": [11.04743, 51.89601]}, {"name": "Halberstadt Roland Heykeli", "text": "Belediye binasındaki taş heykel, Orta Çağ'dan beri şehir özgürlüğünün ve pazar haklarının sembolüdür.", "category": "landmark", "coords": [11.050723, 51.89472]}, {"name": "Spiegelsberge", "text": "Av köşkü, Belvedere ve 16. yüzyıldan kalma ünlü dev şarap fıçısı bulunan bir peyzaj parkıdır.", "category": "landmark", "coords": [11.0375, 51.8706]}, {"name": "Şehir Müzesi", "text": "Barok bir şehir sarayında yer alan müze, şehrin tarih öncesinden günümüze kadar olan tarihini sunar.", "category": "museum", "coords": [11.048136, 51.896854]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Halberstädter Dom",
+                  "text": "Der Dom St. Stephanus und St. Sixtus ist eines der bedeutendsten gotischen Bauwerke in Sachsen-Anhalt.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.0487,
+                        51.8963
+                  ]
+            },
+            {
+                  "name": "Domschatz Halberstadt",
+                  "text": "Einer der wertvollsten mittelalterlichen Kirchenschätze der Welt mit über 650 originalen Kunstwerken.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.049345,
+                        51.89594
+                  ]
+            },
+            {
+                  "name": "Martinikirche",
+                  "text": "Bekannt für ihre ungleichen Türme und das weltweit längste Orgelstück 'As Slow as Possible' von John Cage.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.051071,
+                        51.895474
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Eine romanische Pfeilerbasilika mit wertvollen Stuckschranken, die zur Straße der Romanik gehört.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.044205,
+                        51.895661
+                  ]
+            },
+            {
+                  "name": "Gleimhaus",
+                  "text": "Eines der ältesten Literaturmuseen Deutschlands, das im ehemaligen Wohnhaus des Dichters Johann Wilhelm Ludwig Gleim residiert.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.04743,
+                        51.89601
+                  ]
+            },
+            {
+                  "name": "Roland von Halberstadt",
+                  "text": "Die steinerne Rolandstatue am Rathaus ist ein Symbol für städtische Freiheit und Marktrechte seit dem Mittelalter.",
+                  "category": "landmark",
+                  "confidence": "high",
+                  "coords": [
+                        11.050723,
+                        51.89472
+                  ]
+            },
+            {
+                  "name": "Spiegelsberge",
+                  "text": "Ein Landschaftspark mit Jagdschloss, Belvedere und dem berühmten Riesenweinfass aus dem 16. Jahrhundert.",
+                  "category": "landmark",
+                  "confidence": "high",
+                  "coords": [
+                        11.0375,
+                        51.8706
+                  ]
+            },
+            {
+                  "name": "Städtisches Museum",
+                  "text": "In einem barocken Stadtpalais untergebracht, zeigt es die facettenreiche Geschichte der Stadt von der Urzeit bis heute.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.048136,
+                        51.896854
+                  ]
+            },
+            {
+                  "name": "Strand am Halberstädter See",
+                  "text": "Im Herzen von Halberstadt bietet der Strand am Halberstädter See eine willkommene Auszeit am Wasser. Die entspannte Umgebung ist ideal, um an heißen Sommertagen eine frische Brise zu genießen und die Natur auf sich wirken zu lassen. Einheimische kommen gerne hierher, um spazieren zu gehen oder ein ungestörtes Sonnenbad zu nehmen. Packen Sie am besten ein spannendes Buch ein, um die ruhigen Stunden voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.079926,
+                        51.910168
+                  ]
+            },
+            {
+                  "name": "Kiesloch",
+                  "text": "Kiesloch ist ein See in Halberstadt, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        11.104467,
+                        51.920555
+                  ]
+            },
+            {
+                  "name": "Halberstädter See",
+                  "text": "Halberstädter See ist ein See in Halberstadt, der zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        11.082525,
+                        51.911855
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lindenberg",
+                  "text": "Spielplatz Lindenberg ist ein Spielplatz in Halberstadt für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.039019,
+                        51.869122
+                  ]
+            },
+            {
+                  "name": "Tiergartenspielplatz",
+                  "text": "Tiergartenspielplatz ist ein Spielplatz in Halberstadt für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        11.040336,
+                        51.873007
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Der Streichelzoo in Halberstadt ist ein Streichelzoo, in dem Kinder mit Tieren interagieren können.",
+                  "category": "family",
+                  "coords": [
+                        11.041906,
+                        51.872798
+                  ]
+            },
+            {
+                  "name": "Petershof",
+                  "text": "Der Petershof ist ein repräsentatives historisches Gebäude in Halberstadt. Das Bauwerk ist ein bedeutendes Zeugnis der städtischen Architektur und Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        11.043235,
+                        51.895952
+                  ]
+            },
+            {
+                  "name": "St. Burchardi",
+                  "text": "Das Kloster St. Burchardi ist für das langfristige John-Cage-Orgelprojekt weltweit bekannt geworden. Die ehemalige Klosteranlage bietet heute Raum für Kunst, Kultur und meditative Stille.",
+                  "category": "religious",
+                  "coords": [
+                        11.042307,
+                        51.901371
+                  ]
+            },
+            {
+                  "name": "Berend Lehmann Museum",
+                  "text": "Das Berend Lehmann Museum in Halberstadt widmet sich der jüdischen Geschichte und Kultur in der Region. Es befindet sich in einem historischen Gebäudeensemble im ehemaligen jüdischen Viertel.",
+                  "category": "museum",
+                  "coords": [
+                        11.042466,
+                        51.897236
+                  ]
+            },
+            {
+                  "name": "Jagdschloß Spiegelsberge",
+                  "text": "Das Jagdschloss Spiegelsberge ist ein markantes Bauwerk in der hügeligen Parklandschaft bei Halberstadt. Es beherbergt im Keller eines der ältesten Riesenweinfässer der Welt.",
+                  "category": "castle",
+                  "coords": [
+                        11.042559,
+                        51.874414
+                  ]
+            },
+            {
+                  "name": "Schraube-Museum",
+                  "text": "Das Schraube-Museum zeigt die bürgerliche Wohnkultur um das Jahr 1900 in authentisch eingerichteten Räumen. Besucher können hier einen Einblick in den Alltag und die Lebensweise vergangener Zeiten gewinnen.",
+                  "category": "museum",
+                  "coords": [
+                        11.043503,
+                        51.899026
+                  ]
+            },
+            {
+                  "name": "Nordharzer Städtebundtheater",
+                  "text": "Das Nordharzer Städtebundtheater ist eine wichtige kulturelle Einrichtung für die Region Halberstadt und Quedlinburg. Es bietet ein vielfältiges Programm aus den Sparten Schauspiel, Musiktheater und Ballett.",
+                  "category": "cultural",
+                  "coords": [
+                        11.047702,
+                        51.890161
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Halberstadt",
+                  "text": "Der Bismarckturm in Halberstadt bietet von seiner Aussichtsplattform einen weiten Blick über die Stadt und das Harzvorland. Er wurde zu Ehren des ersten deutschen Reichskanzlers auf den Spiegelsbergen errichtet.",
+                  "category": "natural",
+                  "coords": [
+                        11.03536,
+                        51.875111
+                  ]
+            },
+            {
+                  "name": "Wasserturm an der Wehrstedter Brücke",
+                  "text": "Der Wasserturm an der Wehrstedter Brücke ist ein markantes Industriedenkmal in Halberstadt. Er zeugt von der städtischen Wasserversorgungstechnik vergangener Jahrzehnte.",
+                  "category": "historical",
+                  "coords": [
+                        11.070267,
+                        51.900647
+                  ]
+            },
+            {
+                  "name": "Brockenblick",
+                  "text": "Der Aussichtspunkt Brockenblick ermöglicht bei guter Sicht einen Fernblick bis zum höchsten Gipfel des Harzes. Er ist ein ruhiges Ziel für Wanderer in der Umgebung von Halberstadt.",
+                  "category": "natural",
+                  "coords": [
+                        11.030743,
+                        51.87281
+                  ]
+            },
+            {
+                  "name": "Erlachs Ruh",
+                  "text": "Erlachs Ruh ist ein malerischer Ort in den Spiegelsbergen bei Halberstadt, der zum Ausruhen einlädt. Er ist Teil des historischen Landschaftsparks und bietet eine idyllische Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        11.041654,
+                        51.873733
+                  ]
+            },
+            {
+                  "name": "Alter Scheibenplatz",
+                  "text": "Der Alte Scheibenplatz in Halberstadt ist ein historisches Areal mit Bedeutung für die lokale Stadtgeschichte. Heute dient die Fläche verschiedenen Freizeitnutzungen in der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        11.043968,
+                        51.874785
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Badehaus",
+                  "text": "Das Ehemalige Badehaus in Halberstadt ist als Ruine erhalten geblieben und erinnert an vergangene Badetraditionen. Es ist ein interessantes Objekt für geschichtsinteressierte Spaziergänger.",
+                  "category": "historical",
+                  "coords": [
+                        11.040552,
+                        51.875034
+                  ]
+            },
+            {
+                  "name": "Trampeltier",
+                  "text": "Das Trampeltier ist ein Bewohner des Tiergartens Halberstadt und fasziniert Besucher mit seiner stattlichen Erscheinung. Die Tiere können in ihrem weitläufigen Gehege gut beobachtet werden.",
+                  "category": "landmark",
+                  "coords": [
+                        11.043548,
+                        51.872892
+                  ]
+            },
+            {
+                  "name": "Mäuse",
+                  "text": "In kleinen Schauvitrinen des Tiergartens können verschiedene Mäusearten beobachtet werden. Sie bieten besonders für Kinder einen interessanten Einblick in die Welt der kleinen Nager.",
+                  "category": "landmark",
+                  "coords": [
+                        11.044517,
+                        51.873486
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Der Pulverturm in Halberstadt ist ein Überrest der historischen Stadtbefestigung. Er diente einst der Lagerung von Schießpulver und ist heute ein markanter Punkt der Stadtmauer.",
+                  "category": "landmark",
+                  "coords": [
+                        11.052283,
+                        51.89901
+                  ]
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "Der Fischmarkt in Halberstadt ist ein zentraler Platz mit historischer Bedeutung für den städtischen Handel. Er ist von sehenswerten Fachwerkhäusern und öffentlichen Gebäuden umgeben.",
+                  "category": "cultural",
+                  "coords": [
+                        11.052127,
+                        51.895223
+                  ]
+            },
+            {
+                  "name": "St. Katharinenkirche",
+                  "text": "Die St. Katharinenkirche ist ein gotisches Bauwerk und Teil eines ehemaligen Dominikanerklosters in Halberstadt. Sie beherbergt bedeutende Kunstwerke und dient heute als Gemeindekirche.",
+                  "category": "religious",
+                  "coords": [
+                        11.049807,
+                        51.898279
+                  ]
+            },
+            {
+                  "name": "Franziskanerkloster St. Andreas",
+                  "text": "Das Franziskanerkloster St. Andreas ist eine historische Klosteranlage mit einer beeindruckenden Kirche in Halberstadt. Es ist ein Zentrum der geistlichen Besinnung und kirchenmusikalischen Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        11.046601,
+                        51.894148
+                  ]
+            },
+            {
+                  "name": "Moritzkirche",
+                  "text": "Die Moritzkirche ist eine der bedeutenden historischen Kirchen im Stadtbild von Halberstadt. Der Sakralbau aus der Zeit der Romanik und Gotik beherbergt wertvolle sakrale Kunstschätze.",
+                  "category": "religious",
+                  "coords": [
+                        11.048632,
+                        51.900417
+                  ]
+            },
+            {
+                  "name": "St. Johanniskirche",
+                  "text": "Die St. Johanniskirche in Halberstadt ist eine markante Fachwerkkirche mit einer reichen Innenausstattung. Sie gilt als ein bedeutendes Beispiel für den barocken Kirchenbau in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        11.044286,
+                        51.893951
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "St. Laurentius ist ein Gotteshaus in Halberstadt, das der lokalen Gemeinde für Gebete und Gottesdienste offensteht. Die Kirche fügt sich harmonisch in die religiöse Architekturlandschaft der Stadt ein.",
+                  "category": "religious",
+                  "coords": [
+                        11.077999,
+                        51.904072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Halberstadti dóm",
+                  "text": "A Szent István és Szent Sixtus dóm a német gótika egyik legkiemelkedőbb alkotása, monumentális méretekkel.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.0487,
+                        51.8963
+                  ]
+            },
+            {
+                  "name": "Dómkincs",
+                  "text": "A világ egyik legjelentősebb középkori egyházi kincstára, felbecsülhetetlen értékű liturgikus tárgyakkal.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.049345,
+                        51.89594
+                  ]
+            },
+            {
+                  "name": "Szent Márton-templom",
+                  "text": "Híres felemás tornyairól és John Cage orgonaművének több évszázadig tartó folyamatos előadásáról.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.051071,
+                        51.895474
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Román stílusú bazilika, amely a 'Román stílus útja' elnevezésű turisztikai útvonal fontos állomása.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.044205,
+                        51.895661
+                  ]
+            },
+            {
+                  "name": "Gleimhaus",
+                  "text": "Németország egyik legrégebbi irodalmi múzeuma, a felvilágosodás korának szellemi központja volt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.04743,
+                        51.89601
+                  ]
+            },
+            {
+                  "name": "Roland-szobor",
+                  "text": "A városháza előtt álló kőszobor a középkori városi jogok és szabadság büszke jelképe.",
+                  "category": "landmark",
+                  "confidence": "high",
+                  "coords": [
+                        11.050723,
+                        51.89472
+                  ]
+            },
+            {
+                  "name": "Spiegelsberge park",
+                  "text": "Hatalmas angolkert kastéllyal és a világ legnagyobb középkori boroshordójával a pincéjében.",
+                  "category": "landmark",
+                  "confidence": "high",
+                  "coords": [
+                        11.0375,
+                        51.8706
+                  ]
+            },
+            {
+                  "name": "Városi Múzeum",
+                  "text": "Barokk palotában kapott helyet, bemutatva Halberstadt történetét az őskortól a modern korig.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.048136,
+                        51.896854
+                  ]
+            },
+            {
+                  "name": "Strand am Halberstädter See",
+                  "text": "Halberstadt szívében a Halberstädter See melletti strand kellemes vízparti kikapcsolódást nyújt. A pihentető környezet ideális ahhoz, hogy a forró nyári napokon élvezzük a frissítő szellőt és átadjuk magunkat a természetnek. A helyiek szívesen jönnek ide sétálni vagy zavartalanul napozni. A legkellemesebb, ha bepakol egy izgalmas könyvet, hogy teljes mértékben kiélvezhesse a csendes órákat.",
+                  "category": "recreational",
+                  "coords": [
+                        11.079926,
+                        51.910168
+                  ]
+            },
+            {
+                  "name": "Kiesloch",
+                  "text": "A Kiesloch egy tó Halberstadt területén, amely természetközeli kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        11.104467,
+                        51.920555
+                  ]
+            },
+            {
+                  "name": "Halberstädter See",
+                  "text": "A Halberstädter See egy tó Halberstadt területén, amely természetközeli kikapcsolódást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        11.082525,
+                        51.911855
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lindenberg",
+                  "text": "A Spielplatz Lindenberg egy játszótér Halberstadt területén gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        11.039019,
+                        51.869122
+                  ]
+            },
+            {
+                  "name": "Tiergartenspielplatz",
+                  "text": "A Tiergartenspielplatz egy játszótér Halberstadt területén gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        11.040336,
+                        51.873007
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "A halberstadti Streichelzoo egy állatsimogató, ahol a gyerekek állatokkal ismerkedhetnek.",
+                  "category": "family",
+                  "coords": [
+                        11.041906,
+                        51.872798
+                  ]
+            },
+            {
+                  "name": "Petershof",
+                  "text": "A Petershof egy reprezentatív történelmi épület Halberstadtban. Az építmény a városi építészet és történelem jelentős emléke.",
+                  "category": "historical",
+                  "coords": [
+                        11.043235,
+                        51.895952
+                  ]
+            },
+            {
+                  "name": "St. Burchardi",
+                  "text": "A Szent Burchardi-kolostor a hosszú távú John Cage orgonaprojekt révén vált világszerte ismertté. Az egykori kolostoregyüttes ma művészetnek, kultúrának és meditatív csendnek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        11.042307,
+                        51.901371
+                  ]
+            },
+            {
+                  "name": "Berend Lehmann Museum",
+                  "text": "A halberstadti Berend Lehmann Múzeum a régió zsidó történelmének és kultúrájának szenteli magát. Egy történelmi épületegyüttesben található az egykori zsidó negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        11.042466,
+                        51.897236
+                  ]
+            },
+            {
+                  "name": "Jagdschloß Spiegelsberge",
+                  "text": "A Spiegelsberge vadászkastély egy jellegzetes építmény a Halberstadt melletti dombos parkvidéken. Pincéjében őrzik a világ egyik legrégebbi óriási boroshordóját.",
+                  "category": "castle",
+                  "coords": [
+                        11.042559,
+                        51.874414
+                  ]
+            },
+            {
+                  "name": "Schraube-Museum",
+                  "text": "A Schraube-Múzeum az 1900 körüli polgári lakáskultúrát mutatja be autentikusan berendezett szobákban. A látogatók betekintést nyerhetnek a múlt idők mindennapjaiba és életmódjába.",
+                  "category": "museum",
+                  "coords": [
+                        11.043503,
+                        51.899026
+                  ]
+            },
+            {
+                  "name": "Nordharzer Städtebundtheater",
+                  "text": "A Nordharzer Städtebundtheater a halberstadti és quedlinburgi régió fontos kulturális intézménye. Változatos programokat kínál a dráma, a zenés színház és a balett területéről.",
+                  "category": "cultural",
+                  "coords": [
+                        11.047702,
+                        51.890161
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Halberstadt",
+                  "text": "A halberstadti Bismarck-torony kilátójából messzire ellátni a városra és a Harz előterére. Az első német kancellár tiszteletére emelték a Spiegelsbergen.",
+                  "category": "natural",
+                  "coords": [
+                        11.03536,
+                        51.875111
+                  ]
+            },
+            {
+                  "name": "Wasserturm an der Wehrstedter Brücke",
+                  "text": "A Wehrstedter-hídnál található víztorony Halberstadt jellegzetes ipari műemléke. A múlt évtizedek városi vízellátási technológiájáról tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        11.070267,
+                        51.900647
+                  ]
+            },
+            {
+                  "name": "Brockenblick",
+                  "text": "A Brockenblick kilátópont jó látási viszonyok esetén messzi kilátást biztosít a Harz legmagasabb csúcsára. Csendes úti cél a Halberstadt környéki túrázók számára.",
+                  "category": "natural",
+                  "coords": [
+                        11.030743,
+                        51.87281
+                  ]
+            },
+            {
+                  "name": "Erlachs Ruh",
+                  "text": "Az Erlachs Ruh egy festői hely a Halberstadt melletti Spiegelsbergen, amely pihenésre hívogat. A történelmi tájpark része, és idilli hangulatot áraszt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.041654,
+                        51.873733
+                  ]
+            },
+            {
+                  "name": "Alter Scheibenplatz",
+                  "text": "A halberstadti Alte Scheibenplatz egy történelmi terület, amely fontos a helyi várostörténet szempontjából. Ma a terület különféle szabadidős célokat szolgál a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        11.043968,
+                        51.874785
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Badehaus",
+                  "text": "A halberstadti egykori fürdőház romként maradt fenn, emlékeztetve a múltbéli fürdőkultúrára. Érdekes látnivaló a történelem iránt érdeklődő sétálók számára.",
+                  "category": "historical",
+                  "coords": [
+                        11.040552,
+                        51.875034
+                  ]
+            },
+            {
+                  "name": "Trampeltier",
+                  "text": "A kétpúpú teve a halberstadti állatkert egyik lakója, amely impozáns megjelenésével nyűgözi le a látogatókat. Az állatok jól megfigyelhetők tágas kifutójukban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.043548,
+                        51.872892
+                  ]
+            },
+            {
+                  "name": "Mäuse",
+                  "text": "Az állatkert kis bemutató vitrinjeiben különféle egérfajok figyelhetők meg. Különösen a gyermekek számára nyújtanak érdekes betekintést a kis rágcsálók világába.",
+                  "category": "landmark",
+                  "coords": [
+                        11.044517,
+                        51.873486
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "A halberstadti Pulverturm a történelmi városfalak maradványa. Egykor puskapor tárolására szolgált, ma a városfal egyik jellegzetes pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        11.052283,
+                        51.89901
+                  ]
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "A halberstadti Fischmarkt egy központi tér, amely történelmi jelentőséggel bír a városi kereskedelemben. Látványos gerendavázas házak és középületek veszik körül.",
+                  "category": "cultural",
+                  "coords": [
+                        11.052127,
+                        51.895223
+                  ]
+            },
+            {
+                  "name": "St. Katharinenkirche",
+                  "text": "A Szent Katalin-templom egy gótikus építmény és egy egykori dominikánus kolostor része Halberstadtban. Jelentős műalkotásoknak ad otthont, és ma plébániatemplomként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        11.049807,
+                        51.898279
+                  ]
+            },
+            {
+                  "name": "Franziskanerkloster St. Andreas",
+                  "text": "A Szent András ferences kolostor egy történelmi kolostoregyüttes lenyűgöző templommal Halberstadtban. A lelki elmélyülés és az egyházzenei hagyományok központja.",
+                  "category": "religious",
+                  "coords": [
+                        11.046601,
+                        51.894148
+                  ]
+            },
+            {
+                  "name": "Moritzkirche",
+                  "text": "A Móric-templom Halberstadt városképének egyik jelentős történelmi temploma. A román és gótikus stílusú szakrális épület értékes egyházművészeti kincseket őriz.",
+                  "category": "religious",
+                  "coords": [
+                        11.048632,
+                        51.900417
+                  ]
+            },
+            {
+                  "name": "St. Johanniskirche",
+                  "text": "A halberstadti Szent János-templom egy jellegzetes gerendavázas templom gazdag belső berendezéssel. A régió barokk templomépítészetének jelentős példájaként tartják számon.",
+                  "category": "religious",
+                  "coords": [
+                        11.044286,
+                        51.893951
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "A Szent Lőrinc-templom Halberstadtban található imaház, amely imádságra és istentiszteletre várja a helyi közösséget. A templom harmonikusan illeszkedik a város vallási építészeti tájképébe.",
+                  "category": "religious",
+                  "coords": [
+                        11.077999,
+                        51.904072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Halberstadt",
+                  "text": "Catedrala Sf. Ștefan și Sf. Sixtus este o capodoperă a goticului, impunătoare prin arhitectură și vitralii.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.0487,
+                        51.8963
+                  ]
+            },
+            {
+                  "name": "Tezaurul Catedralei",
+                  "text": "Găzduiește peste 650 de obiecte de artă medievală, fiind unul dintre cele mai bogate tezaure din lume.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.049345,
+                        51.89594
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Martin",
+                  "text": "Renumită pentru turnurile sale asimetrice și pentru găzduirea celui mai lung concert de orgă din lume.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.051071,
+                        51.895474
+                  ]
+            },
+            {
+                  "name": "Biserica Maicii Domnului",
+                  "text": "O bazilică romanică superbă, celebră pentru reliefurile sale medievale în stuc și acustica deosebită.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.044205,
+                        51.895661
+                  ]
+            },
+            {
+                  "name": "Gleimhaus",
+                  "text": "Muzeu literar situat în casa poetului Gleim, păstrând atmosfera intelectuală a epocii iluminismului.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.04743,
+                        51.89601
+                  ]
+            },
+            {
+                  "name": "Statuia Roland",
+                  "text": "Simbolul libertății civice medievale, statuia de piatră a cavalerului Roland veghează piața primăriei.",
+                  "category": "landmark",
+                  "confidence": "high",
+                  "coords": [
+                        11.050723,
+                        51.89472
+                  ]
+            },
+            {
+                  "name": "Parcul Spiegelsberge",
+                  "text": "O oază de verdeață cu un castel de vânătoare și un butoi de vin gigantic, unic în Europa.",
+                  "category": "landmark",
+                  "confidence": "high",
+                  "coords": [
+                        11.0375,
+                        51.8706
+                  ]
+            },
+            {
+                  "name": "Muzeul Municipal",
+                  "text": "Prezintă istoria bogată a regiunii într-un cadru baroc elegant, de la descoperiri arheologice la artă modernă.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.048136,
+                        51.896854
+                  ]
+            },
+            {
+                  "name": "Strand am Halberstädter See",
+                  "text": "În inima orașului Halberstadt, plaja de la lacul Halberstädter See oferă o evadare binevenită la malul apei. Mediul relaxant este ideal pentru a savura briza proaspătă în zilele toride de vară și a te lăsa cucerit de natură. Localnicii vin cu plăcere aici pentru a se plimba sau a face o baie de soare nestingheriți. Cel mai bine este să aduceți cu voi o carte captivantă pentru a profita din plin de orele liniștite.",
+                  "category": "recreational",
+                  "coords": [
+                        11.079926,
+                        51.910168
+                  ]
+            },
+            {
+                  "name": "Kiesloch",
+                  "text": "Kiesloch este un lac din Halberstadt, oferind un cadru natural pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        11.104467,
+                        51.920555
+                  ]
+            },
+            {
+                  "name": "Halberstädter See",
+                  "text": "Halberstädter See este un lac din Halberstadt, oferind un cadru natural pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        11.082525,
+                        51.911855
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lindenberg",
+                  "text": "Spielplatz Lindenberg este un loc de joacă pentru copii în Halberstadt.",
+                  "category": "family",
+                  "coords": [
+                        11.039019,
+                        51.869122
+                  ]
+            },
+            {
+                  "name": "Tiergartenspielplatz",
+                  "text": "Tiergartenspielplatz este un loc de joacă pentru copii în Halberstadt.",
+                  "category": "family",
+                  "coords": [
+                        11.040336,
+                        51.873007
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Streichelzoo din Halberstadt este o grădină zoologică cu animale de mângâiat, unde copiii pot interacționa cu animalele.",
+                  "category": "family",
+                  "coords": [
+                        11.041906,
+                        51.872798
+                  ]
+            },
+            {
+                  "name": "Petershof",
+                  "text": "Petershof este o clădire istorică reprezentativă din Halberstadt. Construcția este o mărturie importantă a arhitecturii și istoriei urbane.",
+                  "category": "historical",
+                  "coords": [
+                        11.043235,
+                        51.895952
+                  ]
+            },
+            {
+                  "name": "St. Burchardi",
+                  "text": "Mănăstirea Sfântul Burchardi a devenit cunoscută la nivel mondial pentru proiectul de lungă durată al orgii lui John Cage. Fostul complex monahal oferă astăzi spațiu pentru artă, cultură și liniște meditativă.",
+                  "category": "religious",
+                  "coords": [
+                        11.042307,
+                        51.901371
+                  ]
+            },
+            {
+                  "name": "Berend Lehmann Museum",
+                  "text": "Muzeul Berend Lehmann din Halberstadt este dedicat istoriei și culturii evreiești din regiune. Se află într-un ansamblu de clădiri istorice din fostul cartier evreiesc.",
+                  "category": "museum",
+                  "coords": [
+                        11.042466,
+                        51.897236
+                  ]
+            },
+            {
+                  "name": "Jagdschloß Spiegelsberge",
+                  "text": "Castelul de vânătoare Spiegelsberge este o construcție distinctivă în peisajul deluros al parcului de lângă Halberstadt. Acesta adăpostește în pivniță unul dintre cele mai vechi butoaie uriașe de vin din lume.",
+                  "category": "castle",
+                  "coords": [
+                        11.042559,
+                        51.874414
+                  ]
+            },
+            {
+                  "name": "Schraube-Museum",
+                  "text": "Muzeul Schraube prezintă cultura locuirii burgheze în jurul anului 1900 în camere mobilate autentic. Vizitatorii pot obține aici o perspectivă asupra vieții de zi cu zi și a modului de viață din vremurile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        11.043503,
+                        51.899026
+                  ]
+            },
+            {
+                  "name": "Nordharzer Städtebundtheater",
+                  "text": "Teatrul Uniunii Orașelor din Harzul de Nord este o instituție culturală importantă pentru regiunea Halberstadt și Quedlinburg. Oferă un program diversificat din domeniile dramei, teatrului muzical și baletului.",
+                  "category": "cultural",
+                  "coords": [
+                        11.047702,
+                        51.890161
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Halberstadt",
+                  "text": "Turnul Bismarck din Halberstadt oferă de pe platforma sa de observație o vedere panoramică asupra orașului și a regiunii submontane a Harzului. A fost ridicat pe Spiegelsberge în onoarea primului cancelar al Imperiului German.",
+                  "category": "natural",
+                  "coords": [
+                        11.03536,
+                        51.875111
+                  ]
+            },
+            {
+                  "name": "Wasserturm an der Wehrstedter Brücke",
+                  "text": "Turnul de apă de la podul Wehrstedter este un monument industrial distinctiv din Halberstadt. Acesta atestă tehnica de alimentare cu apă a orașului din deceniile trecute.",
+                  "category": "historical",
+                  "coords": [
+                        11.070267,
+                        51.900647
+                  ]
+            },
+            {
+                  "name": "Brockenblick",
+                  "text": "Punctul de belvedere Brockenblick permite, în condiții de vizibilitate bună, o vedere panoramică până la cel mai înalt vârf al Harzului. Este o destinație liniștită pentru excursioniștii din împrejurimile orașului Halberstadt.",
+                  "category": "natural",
+                  "coords": [
+                        11.030743,
+                        51.87281
+                  ]
+            },
+            {
+                  "name": "Erlachs Ruh",
+                  "text": "Erlachs Ruh este un loc pitoresc în Spiegelsberge, lângă Halberstadt, care invită la odihnă. Face parte din parcul peisagistic istoric și oferă o atmosferă idilică.",
+                  "category": "landmark",
+                  "coords": [
+                        11.041654,
+                        51.873733
+                  ]
+            },
+            {
+                  "name": "Alter Scheibenplatz",
+                  "text": "Alter Scheibenplatz din Halberstadt este o zonă istorică cu semnificație pentru istoria locală a orașului. Astăzi, suprafața servește diferitelor utilizări recreative în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        11.043968,
+                        51.874785
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Badehaus",
+                  "text": "Fosta casă de băi din Halberstadt s-a păstrat ca ruină și amintește de vechile tradiții balneare. Este un obiectiv interesant pentru plimbăreții interesați de istorie.",
+                  "category": "historical",
+                  "coords": [
+                        11.040552,
+                        51.875034
+                  ]
+            },
+            {
+                  "name": "Trampeltier",
+                  "text": "Cămila cu două cocoașe este un locuitor al Grădinii Zoologice din Halberstadt și fascinează vizitatorii prin aspectul său impunător. Animalele pot fi observate bine în țarcul lor vast.",
+                  "category": "landmark",
+                  "coords": [
+                        11.043548,
+                        51.872892
+                  ]
+            },
+            {
+                  "name": "Mäuse",
+                  "text": "În vitrine mici de prezentare ale Grădinii Zoologice pot fi observate diferite specii de șoareci. Aceștia oferă o perspectivă interesantă asupra lumii micilor rozătoare, în special pentru copii.",
+                  "category": "landmark",
+                  "coords": [
+                        11.044517,
+                        51.873486
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "Pulverturm din Halberstadt este o rămășiță a fortificațiilor istorice ale orașului. A servit odinioară la depozitarea prafului de pușcă și este astăzi un punct distinctiv al zidului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        11.052283,
+                        51.89901
+                  ]
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "Fischmarkt din Halberstadt este o piață centrală cu semnificație istorică pentru comerțul urban. Este înconjurată de case cu pereți de lemn demne de văzut și clădiri publice.",
+                  "category": "cultural",
+                  "coords": [
+                        11.052127,
+                        51.895223
+                  ]
+            },
+            {
+                  "name": "St. Katharinenkirche",
+                  "text": "Biserica Sfânta Ecaterina este o construcție gotică și face parte dintr-o fostă mănăstire dominicană din Halberstadt. Adăpostește opere de artă importante și servește astăzi ca biserică parohială.",
+                  "category": "religious",
+                  "coords": [
+                        11.049807,
+                        51.898279
+                  ]
+            },
+            {
+                  "name": "Franziskanerkloster St. Andreas",
+                  "text": "Mănăstirea franciscană Sfântul Andrei este un complex monahal istoric cu o biserică impresionantă în Halberstadt. Este un centru de reflecție spirituală și de tradiție a muzicii bisericești.",
+                  "category": "religious",
+                  "coords": [
+                        11.046601,
+                        51.894148
+                  ]
+            },
+            {
+                  "name": "Moritzkirche",
+                  "text": "Biserica Sfântul Mauriciu este una dintre bisericile istorice importante din peisajul urban al orașului Halberstadt. Edificiul sacru din perioada romanică și gotică adăpostește comori de artă sacră valoroase.",
+                  "category": "religious",
+                  "coords": [
+                        11.048632,
+                        51.900417
+                  ]
+            },
+            {
+                  "name": "St. Johanniskirche",
+                  "text": "Biserica Sfântul Ioan din Halberstadt este o biserică distinctivă din lemn cu o dotare interioară bogată. Este considerată un exemplu important al construcției de biserici baroce din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        11.044286,
+                        51.893951
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "Sfântul Laurențiu este un lăcaș de cult din Halberstadt, deschis comunității locale pentru rugăciune și slujbe religioase. Biserica se integrează armonios în peisajul arhitectural religios al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        11.077999,
+                        51.904072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Halberstadt Cathedral",
+                  "text": "The Cathedral of St. Stephen and St. Sixtus is a premier example of French-influenced Gothic architecture.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.0487,
+                        51.8963
+                  ]
+            },
+            {
+                  "name": "Cathedral Treasury",
+                  "text": "One of the world's most significant medieval church treasures, featuring over 650 items of liturgical art.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.049345,
+                        51.89594
+                  ]
+            },
+            {
+                  "name": "St. Martin's Church",
+                  "text": "Famous for its uneven towers and for hosting John Cage's 'As Slow as Possible' organ project.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.051071,
+                        51.895474
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "A beautiful Romanesque basilica known for its rare medieval stucco screens and historical significance.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        11.044205,
+                        51.895661
+                  ]
+            },
+            {
+                  "name": "Gleimhaus",
+                  "text": "One of Germany's oldest literary museums, formerly the home of the Enlightenment poet Ludwig Gleim.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.04743,
+                        51.89601
+                  ]
+            },
+            {
+                  "name": "Halberstadt Roland",
+                  "text": "A medieval stone statue representing civic rights and justice, standing prominently in the town center.",
+                  "category": "landmark",
+                  "confidence": "high",
+                  "coords": [
+                        11.050723,
+                        51.89472
+                  ]
+            },
+            {
+                  "name": "Spiegelsberge Park",
+                  "text": "A vast landscape park containing a hunting lodge and one of the largest ancient wine casks in existence.",
+                  "category": "landmark",
+                  "confidence": "high",
+                  "coords": [
+                        11.0375,
+                        51.8706
+                  ]
+            },
+            {
+                  "name": "Städtisches Museum",
+                  "text": "The city museum showcases local history and culture within an elegant Baroque townhouse setting.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        11.048136,
+                        51.896854
+                  ]
+            },
+            {
+                  "name": "Strand am Halberstädter See",
+                  "text": "In the heart of Halberstadt, the beach at Lake Halberstädter See offers a welcome lakeside getaway. The relaxing environment is ideal for enjoying a fresh breeze on hot summer days and letting nature work its magic. Locals frequently love coming here to take a walk or catch some sun completely undisturbed. Packing a captivating book is your best bet to fully savor these peaceful hours.",
+                  "category": "recreational",
+                  "coords": [
+                        11.079926,
+                        51.910168
+                  ]
+            },
+            {
+                  "name": "Kiesloch",
+                  "text": "Kiesloch is a lake in Halberstadt offering a scenic natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        11.104467,
+                        51.920555
+                  ]
+            },
+            {
+                  "name": "Halberstädter See",
+                  "text": "Halberstädter See is a lake in Halberstadt offering a scenic natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        11.082525,
+                        51.911855
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lindenberg",
+                  "text": "Spielplatz Lindenberg is a playground for children in Halberstadt.",
+                  "category": "family",
+                  "coords": [
+                        11.039019,
+                        51.869122
+                  ]
+            },
+            {
+                  "name": "Tiergartenspielplatz",
+                  "text": "Tiergartenspielplatz is a playground for children in Halberstadt.",
+                  "category": "family",
+                  "coords": [
+                        11.040336,
+                        51.873007
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "The Streichelzoo in Halberstadt is a petting zoo where children can interact with animals.",
+                  "category": "family",
+                  "coords": [
+                        11.041906,
+                        51.872798
+                  ]
+            },
+            {
+                  "name": "Petershof",
+                  "text": "The Petershof is a representative historical building in Halberstadt. The structure is an important witness to urban architecture and history.",
+                  "category": "historical",
+                  "coords": [
+                        11.043235,
+                        51.895952
+                  ]
+            },
+            {
+                  "name": "St. Burchardi",
+                  "text": "The St. Burchardi Monastery has become known worldwide for the long-term John Cage organ project. The former monastery complex now offers space for art, culture, and meditative silence.",
+                  "category": "religious",
+                  "coords": [
+                        11.042307,
+                        51.901371
+                  ]
+            },
+            {
+                  "name": "Berend Lehmann Museum",
+                  "text": "The Berend Lehmann Museum in Halberstadt is dedicated to Jewish history and culture in the region. It is located in a historic complex of buildings in the former Jewish quarter.",
+                  "category": "museum",
+                  "coords": [
+                        11.042466,
+                        51.897236
+                  ]
+            },
+            {
+                  "name": "Jagdschloß Spiegelsberge",
+                  "text": "The Spiegelsberge hunting lodge is a prominent building in the hilly parkland near Halberstadt. It houses one of the world's oldest giant wine barrels in its cellar.",
+                  "category": "castle",
+                  "coords": [
+                        11.042559,
+                        51.874414
+                  ]
+            },
+            {
+                  "name": "Schraube-Museum",
+                  "text": "The Schraube Museum showcases middle-class living culture around the year 1900 in authentically furnished rooms. Visitors can gain insight into the daily life and lifestyle of past times here.",
+                  "category": "museum",
+                  "coords": [
+                        11.043503,
+                        51.899026
+                  ]
+            },
+            {
+                  "name": "Nordharzer Städtebundtheater",
+                  "text": "The North Harz City Union Theater is an important cultural institution for the Halberstadt and Quedlinburg region. It offers a diverse program in drama, musical theater, and ballet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.047702,
+                        51.890161
+                  ]
+            },
+            {
+                  "name": "Bismarckturm Halberstadt",
+                  "text": "The Bismarck Tower in Halberstadt offers a wide view over the city and the Harz foreland from its observation platform. It was erected on the Spiegelsberge in honor of the first German Chancellor.",
+                  "category": "natural",
+                  "coords": [
+                        11.03536,
+                        51.875111
+                  ]
+            },
+            {
+                  "name": "Wasserturm an der Wehrstedter Brücke",
+                  "text": "The water tower at the Wehrstedter bridge is a prominent industrial monument in Halberstadt. It bears witness to the urban water supply technology of past decades.",
+                  "category": "historical",
+                  "coords": [
+                        11.070267,
+                        51.900647
+                  ]
+            },
+            {
+                  "name": "Brockenblick",
+                  "text": "The Brockenblick viewpoint allows, with good visibility, a distant view as far as the Harz's highest peak. It is a quiet destination for hikers in the vicinity of Halberstadt.",
+                  "category": "natural",
+                  "coords": [
+                        11.030743,
+                        51.87281
+                  ]
+            },
+            {
+                  "name": "Erlachs Ruh",
+                  "text": "Erlachs Ruh is a picturesque spot in the Spiegelsberge near Halberstadt that invites relaxation. It is part of the historic landscape park and offers an idyllic atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        11.041654,
+                        51.873733
+                  ]
+            },
+            {
+                  "name": "Alter Scheibenplatz",
+                  "text": "The Alter Scheibenplatz in Halberstadt is a historic area with significance for local city history. Today, the area serves various recreational uses in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        11.043968,
+                        51.874785
+                  ]
+            },
+            {
+                  "name": "Ehemaliges Badehaus",
+                  "text": "The Former Bathhouse in Halberstadt has been preserved as a ruin and recalls past bathing traditions. It is an interesting object for strollers interested in history.",
+                  "category": "historical",
+                  "coords": [
+                        11.040552,
+                        51.875034
+                  ]
+            },
+            {
+                  "name": "Trampeltier",
+                  "text": "The Bactrian camel is an inhabitant of the Halberstadt Zoo and fascinates visitors with its stately appearance. The animals can be well observed in their spacious enclosure.",
+                  "category": "landmark",
+                  "coords": [
+                        11.043548,
+                        51.872892
+                  ]
+            },
+            {
+                  "name": "Mäuse",
+                  "text": "In small display cases at the zoo, various mouse species can be observed. They offer an interesting insight into the world of small rodents, especially for children.",
+                  "category": "landmark",
+                  "coords": [
+                        11.044517,
+                        51.873486
+                  ]
+            },
+            {
+                  "name": "Pulverturm",
+                  "text": "The Pulverturm in Halberstadt is a remnant of the historic city fortifications. It once served for the storage of gunpowder and is now a prominent point of the city wall.",
+                  "category": "landmark",
+                  "coords": [
+                        11.052283,
+                        51.89901
+                  ]
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "The Fischmarkt in Halberstadt is a central square with historical significance for urban trade. It is surrounded by noteworthy half-timbered houses and public buildings.",
+                  "category": "cultural",
+                  "coords": [
+                        11.052127,
+                        51.895223
+                  ]
+            },
+            {
+                  "name": "St. Katharinenkirche",
+                  "text": "The St. Catherine's Church is a Gothic structure and part of a former Dominican monastery in Halberstadt. It houses significant artworks and now serves as a parish church.",
+                  "category": "religious",
+                  "coords": [
+                        11.049807,
+                        51.898279
+                  ]
+            },
+            {
+                  "name": "Franziskanerkloster St. Andreas",
+                  "text": "The Franciscan Monastery of St. Andrew is a historic monastery complex with an impressive church in Halberstadt. It is a center of spiritual reflection and church music tradition.",
+                  "category": "religious",
+                  "coords": [
+                        11.046601,
+                        51.894148
+                  ]
+            },
+            {
+                  "name": "Moritzkirche",
+                  "text": "The St. Maurice Church is one of the significant historic churches in the cityscape of Halberstadt. The sacred building from the Romanesque and Gothic periods houses valuable sacred art treasures.",
+                  "category": "religious",
+                  "coords": [
+                        11.048632,
+                        51.900417
+                  ]
+            },
+            {
+                  "name": "St. Johanniskirche",
+                  "text": "The St. John's Church in Halberstadt is a striking half-timbered church with a rich interior. It is considered a significant example of Baroque church architecture in the region.",
+                  "category": "religious",
+                  "coords": [
+                        11.044286,
+                        51.893951
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "St. Lawrence is a house of worship in Halberstadt that is open to the local community for prayer and religious services. The church blends harmoniously into the city's religious architectural landscape.",
+                  "category": "religious",
+                  "coords": [
+                        11.077999,
+                        51.904072
+                  ]
+            }
+      ],
+      "tr": [
+            {
+                  "name": "Halberstadt Katedrali",
+                  "text": "St. Stephanus ve St. Sixtus Katedrali, Saksonya-Anhalt eyaletindeki en önemli Gotik yapılardan biridir.",
+                  "category": "historical",
+                  "coords": [
+                        11.0487,
+                        51.8963
+                  ]
+            },
+            {
+                  "name": "Halberstadt Katedral Hazinesi",
+                  "text": "650'den fazla orijinal sanat eseriyle dünyanın en değerli ortaçağ kilise hazinelerinden biridir.",
+                  "category": "museum",
+                  "coords": [
+                        11.049345,
+                        51.89594
+                  ]
+            },
+            {
+                  "name": "Martini Kilisesi",
+                  "text": "Eşit olmayan kuleleri ve John Cage'in 'As Slow as Possible' adlı dünyanın en uzun org eseriyle tanınır.",
+                  "category": "historical",
+                  "coords": [
+                        11.051071,
+                        51.895474
+                  ]
+            },
+            {
+                  "name": "Liebfrauen Kilisesi",
+                  "text": "Romanesk Yolu'nun bir parçası olan, değerli alçı panolara sahip Romanesk bir bazilikadır.",
+                  "category": "historical",
+                  "coords": [
+                        11.044205,
+                        51.895661
+                  ]
+            },
+            {
+                  "name": "Gleimhaus",
+                  "text": "Şair Johann Wilhelm Ludwig Gleim'in eski evinde bulunan, Almanya'nın en eski edebiyat müzelerinden biridir.",
+                  "category": "museum",
+                  "coords": [
+                        11.04743,
+                        51.89601
+                  ]
+            },
+            {
+                  "name": "Halberstadt Roland Heykeli",
+                  "text": "Belediye binasındaki taş heykel, Orta Çağ'dan beri şehir özgürlüğünün ve pazar haklarının sembolüdür.",
+                  "category": "landmark",
+                  "coords": [
+                        11.050723,
+                        51.89472
+                  ]
+            },
+            {
+                  "name": "Spiegelsberge",
+                  "text": "Av köşkü, Belvedere ve 16. yüzyıldan kalma ünlü dev şarap fıçısı bulunan bir peyzaj parkıdır.",
+                  "category": "landmark",
+                  "coords": [
+                        11.0375,
+                        51.8706
+                  ]
+            },
+            {
+                  "name": "Şehir Müzesi",
+                  "text": "Barok bir şehir sarayında yer alan müze, şehrin tarih öncesinden günümüze kadar olan tarihini sunar.",
+                  "category": "museum",
+                  "coords": [
+                        11.048136,
+                        51.896854
+                  ]
+            }
+      ]
+}
   },
   {
     "id": "stendal-extra",

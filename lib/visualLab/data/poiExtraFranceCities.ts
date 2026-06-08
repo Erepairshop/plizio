@@ -366,6 +366,204 @@ export const poiExtraFranceCities: POI[] = [
                         5.673065,
                         45.208432
                   ]
+            },
+            {
+                  "name": "Centre d'art Bastille",
+                  "text": "Das Bastille Art Center befindet sich auf dem Gipfel der Bastille in Grenoble. Es bietet Ausstellungen zeitgenössischer Kunst in einem historischen militärischen Rahmen mit Panoramablick.",
+                  "category": "museum",
+                  "coords": [
+                        5.724316,
+                        45.198717
+                  ]
+            },
+            {
+                  "name": "Musée de l'OSUG",
+                  "text": "Das Museum des OSUG in Grenoble ist den Wissenschaften des Universums gewidmet. Es präsentiert Sammlungen von Mineralien, Fossilien und Instrumenten zur Erforschung der Erde und des Weltraums.",
+                  "category": "museum",
+                  "coords": [
+                        5.761116,
+                        45.19283
+                  ]
+            },
+            {
+                  "name": "La Plateforme - Centre d'information sur les projets urbains",
+                  "text": "La Plateforme ist ein Informationszentrum für Stadtplanungsprojekte in Grenoble. Es befindet sich in einem historischen Gebäude und zeigt Ausstellungen zur Entwicklung der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        5.733279,
+                        45.189585
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance et de la Déportation de l'Isère",
+                  "text": "Dieses Museum in Grenoble dokumentiert die Geschichte des Widerstands und der Deportation während des Zweiten Weltkriegs in der Region Isère. Es bietet einen tiefen Einblick in die lokalen Ereignisse jener Zeit.",
+                  "category": "museum",
+                  "coords": [
+                        5.735203,
+                        45.19012
+                  ]
+            },
+            {
+                  "name": "Magasin-CNAC",
+                  "text": "Magasin-CNAC ist ein renommiertes Zentrum für zeitgenössische Kunst in einer ehemaligen Industriehalle in Grenoble. Es ist bekannt für seine großformatigen Installationen und modernen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        5.70393,
+                        45.187669
+                  ]
+            },
+            {
+                  "name": "Musée archéologique Saint-Laurent",
+                  "text": "Das Archäologische Museum Saint-Laurent befindet sich in einer ehemaligen Kirche in Grenoble. Es zeigt bedeutende Funde aus der frühen christlichen Zeit und bietet einen Blick in die Unterwelt der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        5.731473,
+                        45.19766
+                  ]
+            },
+            {
+                  "name": "Musée de la Viscose",
+                  "text": "Das Musée de la Viscose in der Nähe von Grenoble widmet sich der Geschichte der Kunstseidenherstellung. Besucher erfahren hier alles über den Produktionsprozess und das Leben der Fabrikarbeiter.",
+                  "category": "museum",
+                  "coords": [
+                        5.702776,
+                        45.157369
+                  ]
+            },
+            {
+                  "name": "Musée Hébert",
+                  "text": "Das Musée Hébert befindet sich in einem ehemaligen Wohnhaus in La Tronche bei Grenoble. Es zeigt Werke des Malers Ernest Hébert in einer charmanten Umgebung mit einem gepflegten Garten.",
+                  "category": "museum",
+                  "coords": [
+                        5.751056,
+                        45.205737
+                  ]
+            },
+            {
+                  "name": "Fort de la Bastille",
+                  "text": "Das Fort de la Bastille ist eine historische Festungsanlage, die hoch über Grenoble thront. Besucher können sie mit der berühmten Seilbahn erreichen und den spektakulären Blick auf die Alpen genießen.",
+                  "category": "fortress",
+                  "coords": [
+                        5.725274,
+                        45.198953
+                  ]
+            },
+            {
+                  "name": "Porte de France",
+                  "text": "Die Porte de France ist ein historisches Stadttor in Grenoble, das an die militärische Vergangenheit erinnert. Das Bauwerk aus dem 17. Jahrhundert steht an einem der Haupteingänge zum Stadtzentrum.",
+                  "category": "fortress",
+                  "coords": [
+                        5.719434,
+                        45.193595
+                  ]
+            },
+            {
+                  "name": "MC2",
+                  "text": "MC2 ist ein bedeutendes nationales Kulturzentrum in Grenoble, das Theater, Tanz und Musik vereint. Es bietet ein vielfältiges Programm in einem modernen Gebäude mit mehreren Veranstaltungssälen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.733706,
+                        45.172227
+                  ]
+            },
+            {
+                  "name": "Basilique du Sacré-Cœur",
+                  "text": "Die Basilika Sacré-Cœur in Grenoble ist ein markantes Bauwerk in der Nähe des Bahnhofs. Ihre Architektur und die weithin sichtbare Silhouette machen sie zu einem wichtigen Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        5.71586,
+                        45.191569
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Joseph",
+                  "text": "Die Basilika Saint-Joseph ist eine katholische Kirche im Stadtzentrum von Grenoble. Das Gebäude ist für seine beeindruckende Fassade und seine Rolle im religiösen Leben der Einwohner bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.730039,
+                        45.186847
+                  ]
+            },
+            {
+                  "name": "Mont Jalla",
+                  "text": "Der Mont Jalla ist ein Berggipfel oberhalb der Bastille von Grenoble und bietet eine herrliche Aussicht. Hier befindet sich das nationale Denkmal für die Gebirgsjäger.",
+                  "category": "natural",
+                  "coords": [
+                        5.724233,
+                        45.203988
+                  ]
+            },
+            {
+                  "name": "Mont Rachais",
+                  "text": "Der Mont Rachais ist ein Bergmassiv, das sich hinter Grenoble erstreckt und bei Wanderern beliebt ist. Von seinen Höhen aus hat man einen Panoramablick auf die Stadt und die umliegenden Täler.",
+                  "category": "natural",
+                  "coords": [
+                        5.73348,
+                        45.218456
+                  ]
+            },
+            {
+                  "name": "Château de l'Hermitage",
+                  "text": "Die Ruinen des Château de l'Hermitage befinden sich am Fuße des Berges Néron bei Grenoble. Dieser Ort ist von Legenden umwoben und bietet Wanderern ein geheimnisvolles Ziel in der Natur.",
+                  "category": "historical",
+                  "coords": [
+                        5.702028,
+                        45.215311
+                  ]
+            },
+            {
+                  "name": "Château de Bouquéron",
+                  "text": "Das Château de Bouquéron liegt in Corenc in der Nähe von Grenoble und ist eine historische Festungsanlage. Das Schloss blickt auf eine lange Geschichte zurück und bietet einen weiten Blick über das Grésivaudan-Tal.",
+                  "category": "castle",
+                  "coords": [
+                        5.757378,
+                        45.214826
+                  ]
+            },
+            {
+                  "name": "Musée des sciences médicales",
+                  "text": "Dieses Museum in Grenoble präsentiert die Entwicklung der medizinischen Wissenschaften und Instrumente. Es befindet sich in einem ehemaligen Krankenhaus und zeigt interessante Exponate zur regionalen Medizingeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        5.748845,
+                        45.20001
+                  ]
+            },
+            {
+                  "name": "Remparts romains",
+                  "text": "Die römischen Stadtmauern in Grenoble sind Zeugen der antiken Vergangenheit der Stadt. Teile dieser Befestigungen sind im Stadtzentrum erhalten geblieben und können bei einem Rundgang besichtigt werden.",
+                  "category": "historical",
+                  "coords": [
+                        5.729424,
+                        45.190844
+                  ]
+            },
+            {
+                  "name": "TMG - Grand Théâtre",
+                  "text": "Das TMG - Grand Théâtre ist eine der wichtigsten Bühnen in Grenoble für darstellende Kunst. Das Gebäude ist bekannt für seine klassische Architektur und sein hochwertiges Theaterprogramm.",
+                  "category": "cultural",
+                  "coords": [
+                        5.727576,
+                        45.193255
+                  ]
+            },
+            {
+                  "name": "Summum",
+                  "text": "Das Summum ist eine große Konzerthalle in Grenoble, die für Pop- und Rock-Events genutzt wird. Mit seiner Kapazität bietet es Platz für bedeutende Künstler und nationale Tourneen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.737296,
+                        45.155346
+                  ]
+            },
+            {
+                  "name": "Hexagone",
+                  "text": "Das Hexagone ist ein nationales Theater in Meylan bei Grenoble, das sich auf die Verbindung von Kunst und Wissenschaft spezialisiert hat. Es bietet innovative Aufführungen und interdisziplinäre Projekte.",
+                  "category": "cultural",
+                  "coords": [
+                        5.763299,
+                        45.206516
+                  ]
             }
       ],
       "hu": [
@@ -687,6 +885,204 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.673065,
                         45.208432
+                  ]
+            },
+            {
+                  "name": "Centre d'art Bastille",
+                  "text": "A Bastille Art Center a grenoble-i Bastille-erőd tetején található. Kortárs művészeti kiállításokat kínál történelmi katonai környezetben, panorámás kilátással.",
+                  "category": "museum",
+                  "coords": [
+                        5.724316,
+                        45.198717
+                  ]
+            },
+            {
+                  "name": "Musée de l'OSUG",
+                  "text": "A grenoble-i OSUG múzeuma a világegyetem tudományainak szentelt helyszín. Ásvány-, fosszília- és műszergyűjteményeket mutat be a Föld és a világűr kutatásával kapcsolatban.",
+                  "category": "museum",
+                  "coords": [
+                        5.761116,
+                        45.19283
+                  ]
+            },
+            {
+                  "name": "La Plateforme - Centre d'information sur les projets urbains",
+                  "text": "A La Plateforme egy információs központ Grenoble városfejlesztési projektjeiről. Egy történelmi épületben található, és a város fejlődését bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        5.733279,
+                        45.189585
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance et de la Déportation de l'Isère",
+                  "text": "Ez a grenoble-i múzeum az ellenállás és a deportálás történetét dokumentálja Isère régiójában a második világháború alatt. Mély betekintést nyújt a korszak helyi eseményeibe.",
+                  "category": "museum",
+                  "coords": [
+                        5.735203,
+                        45.19012
+                  ]
+            },
+            {
+                  "name": "Magasin-CNAC",
+                  "text": "A Magasin-CNAC egy neves kortárs művészeti központ egy egykori grenoble-i ipari csarnokban. Nagy méretű installációiról és modern kiállításairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        5.70393,
+                        45.187669
+                  ]
+            },
+            {
+                  "name": "Musée archéologique Saint-Laurent",
+                  "text": "A Saint-Laurent Régészeti Múzeum egy egykori templomban található Grenoble-ban. Jelentős kora keresztény leleteket mutat be, és betekintést nyújt a város föld alatti múltjába.",
+                  "category": "museum",
+                  "coords": [
+                        5.731473,
+                        45.19766
+                  ]
+            },
+            {
+                  "name": "Musée de la Viscose",
+                  "text": "A Grenoble melletti Viszkóz Múzeum a műselyemgyártás történetének szentelt helyszín. A látogatók mindent megtudhatnak a gyártási folyamatról és a gyári munkások életéről.",
+                  "category": "museum",
+                  "coords": [
+                        5.702776,
+                        45.157369
+                  ]
+            },
+            {
+                  "name": "Musée Hébert",
+                  "text": "A Hébert Múzeum Ernest Hébert festő egykori lakóházában található La Tronche-ban, Grenoble mellett. A művész alkotásait mutatja be bájos környezetben, egy gondozott kerttel.",
+                  "category": "museum",
+                  "coords": [
+                        5.751056,
+                        45.205737
+                  ]
+            },
+            {
+                  "name": "Fort de la Bastille",
+                  "text": "A Bastille-erőd egy történelmi erődítmény, amely magasan Grenoble fölé magasodik. A látogatók a híres felvonóval érhetik el, és élvezhetik a lenyűgöző kilátást az Alpokra.",
+                  "category": "fortress",
+                  "coords": [
+                        5.725274,
+                        45.198953
+                  ]
+            },
+            {
+                  "name": "Porte de France",
+                  "text": "A Porte de France egy történelmi városkapu Grenoble-ban, amely a katonai múltra emlékeztet. A 17. századi építmény a városközpont egyik fő bejáratánál áll.",
+                  "category": "fortress",
+                  "coords": [
+                        5.719434,
+                        45.193595
+                  ]
+            },
+            {
+                  "name": "MC2",
+                  "text": "Az MC2 egy jelentős nemzeti kulturális központ Grenoble-ban, amely színházat, táncot és zenét ötvöz. Változatos programokat kínál egy modern épületben, több előadóteremmel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.733706,
+                        45.172227
+                  ]
+            },
+            {
+                  "name": "Basilique du Sacré-Cœur",
+                  "text": "A grenoble-i Sacré-Cœur bazilika egy jellegzetes épület a vasútállomás közelében. Építészete és messziről látható sziluettje a város egyik fontos jelképévé teszi.",
+                  "category": "religious",
+                  "coords": [
+                        5.71586,
+                        45.191569
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Joseph",
+                  "text": "A Saint-Joseph bazilika egy katolikus templom Grenoble városközpontjában. Az épület lenyűgöző homlokzatáról és a lakosok vallási életében betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        5.730039,
+                        45.186847
+                  ]
+            },
+            {
+                  "name": "Mont Jalla",
+                  "text": "A Mont Jalla egy hegycsúcs a grenoble-i Bastille-erőd felett, amely csodálatos kilátást nyújt. Itt található a hegyivadászok nemzeti emlékműve is.",
+                  "category": "natural",
+                  "coords": [
+                        5.724233,
+                        45.203988
+                  ]
+            },
+            {
+                  "name": "Mont Rachais",
+                  "text": "A Mont Rachais egy hegytömb Grenoble mögött, amely népszerű a túrázók körében. Magaslatairól panorámás kilátás nyílik a városra és a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        5.73348,
+                        45.218456
+                  ]
+            },
+            {
+                  "name": "Château de l'Hermitage",
+                  "text": "A Château de l'Hermitage romjai a Néron-hegy lábánál találhatók, Grenoble közelében. Ez a hely legendákkal övezett, és titokzatos célpontot kínál a természetben túrázóknak.",
+                  "category": "historical",
+                  "coords": [
+                        5.702028,
+                        45.215311
+                  ]
+            },
+            {
+                  "name": "Château de Bouquéron",
+                  "text": "A Château de Bouquéron Corenc-ben található, Grenoble közelében, és egy történelmi erődítmény. A kastély hosszú múltra tekint vissza, és tágas kilátást nyújt a Grésivaudan-völgyre.",
+                  "category": "castle",
+                  "coords": [
+                        5.757378,
+                        45.214826
+                  ]
+            },
+            {
+                  "name": "Musée des sciences médicales",
+                  "text": "Ez a grenoble-i múzeum az orvostudományok és orvosi eszközök fejlődését mutatja be. Egy egykori kórházban található, és érdekes kiállítási tárgyakat vonultat fel a régió orvostörténetéről.",
+                  "category": "museum",
+                  "coords": [
+                        5.748845,
+                        45.20001
+                  ]
+            },
+            {
+                  "name": "Remparts romains",
+                  "text": "A grenoble-i római városfalak a város ókori múltjának tanúi. Az erődítmények részei a városközpontban maradtak fenn, és egy városnéző séta keretében megtekinthetők.",
+                  "category": "historical",
+                  "coords": [
+                        5.729424,
+                        45.190844
+                  ]
+            },
+            {
+                  "name": "TMG - Grand Théâtre",
+                  "text": "A TMG - Grand Théâtre Grenoble egyik legfontosabb előadó-művészeti színpada. Az épület klasszikus építészetéről és magas színvonalú színházi programjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        5.727576,
+                        45.193255
+                  ]
+            },
+            {
+                  "name": "Summum",
+                  "text": "A Summum egy nagy koncertterem Grenoble-ban, amelyet pop- és rockeseményekre használnak. Befogadóképességével helyet biztosít jelentős művészeknek és országos turnéknak.",
+                  "category": "cultural",
+                  "coords": [
+                        5.737296,
+                        45.155346
+                  ]
+            },
+            {
+                  "name": "Hexagone",
+                  "text": "Az Hexagone egy nemzeti színház Meylan-ban, Grenoble közelében, amely a művészet és a tudomány kapcsolatára specializálódott. Innovatív előadásokat és interdiszciplináris projekteket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        5.763299,
+                        45.206516
                   ]
             }
       ],
@@ -1010,6 +1406,204 @@ export const poiExtraFranceCities: POI[] = [
                         5.673065,
                         45.208432
                   ]
+            },
+            {
+                  "name": "Centre d'art Bastille",
+                  "text": "Centrul de artă Bastille este situat pe vârful fortului Bastille din Grenoble. Oferă expoziții de artă contemporană într-un cadru militar istoric, cu o vedere panoramică.",
+                  "category": "museum",
+                  "coords": [
+                        5.724316,
+                        45.198717
+                  ]
+            },
+            {
+                  "name": "Musée de l'OSUG",
+                  "text": "Muzeul OSUG din Grenoble este dedicat științelor universului. Prezintă colecții de minerale, fosile și instrumente pentru explorarea Pământului și a spațiului cosmic.",
+                  "category": "museum",
+                  "coords": [
+                        5.761116,
+                        45.19283
+                  ]
+            },
+            {
+                  "name": "La Plateforme - Centre d'information sur les projets urbains",
+                  "text": "La Plateforme este un centru de informare despre proiectele urbane din Grenoble. Este situat într-o clădire istorică și găzduiește expoziții despre dezvoltarea orașului.",
+                  "category": "museum",
+                  "coords": [
+                        5.733279,
+                        45.189585
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance et de la Déportation de l'Isère",
+                  "text": "Acest muzeu din Grenoble documentează istoria rezistenței și a deportării în regiunea Isère în timpul celui de-al Doilea Război Mondial. Oferă o perspectivă profundă asupra evenimentelor locale din acea perioadă.",
+                  "category": "museum",
+                  "coords": [
+                        5.735203,
+                        45.19012
+                  ]
+            },
+            {
+                  "name": "Magasin-CNAC",
+                  "text": "Magasin-CNAC este un renumit centru de artă contemporană situat într-o fostă hală industrială din Grenoble. Este cunoscut pentru instalațiile sale de mari dimensiuni și expozițiile moderne.",
+                  "category": "museum",
+                  "coords": [
+                        5.70393,
+                        45.187669
+                  ]
+            },
+            {
+                  "name": "Musée archéologique Saint-Laurent",
+                  "text": "Muzeul Arheologic Saint-Laurent este situat într-o fostă biserică din Grenoble. Expune descoperiri importante din perioada creștinismului timpuriu și oferă o privire în trecutul subteran al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        5.731473,
+                        45.19766
+                  ]
+            },
+            {
+                  "name": "Musée de la Viscose",
+                  "text": "Muzeul Viscozei de lângă Grenoble este dedicat istoriei fabricării mătăsii artificiale. Vizitatorii află aici totul despre procesul de producție și viața muncitorilor din fabrică.",
+                  "category": "museum",
+                  "coords": [
+                        5.702776,
+                        45.157369
+                  ]
+            },
+            {
+                  "name": "Musée Hébert",
+                  "text": "Muzeul Hébert se află în fosta reședință a pictorului Ernest Hébert din La Tronche, lângă Grenoble. Expune lucrările artistului într-un cadru fermecător, cu o grădină bine întreținută.",
+                  "category": "museum",
+                  "coords": [
+                        5.751056,
+                        45.205737
+                  ]
+            },
+            {
+                  "name": "Fort de la Bastille",
+                  "text": "Fortul Bastille este o fortificație istorică situată la înălțime deasupra orașului Grenoble. Vizitatorii pot ajunge acolo cu celebra telecabină și se pot bucura de o vedere spectaculoasă asupra Alpilor.",
+                  "category": "fortress",
+                  "coords": [
+                        5.725274,
+                        45.198953
+                  ]
+            },
+            {
+                  "name": "Porte de France",
+                  "text": "Porte de France este o poartă istorică a orașului Grenoble, care amintește de trecutul militar. Edificiul din secolul al XVII-lea se află la una dintre intrările principale spre centrul orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        5.719434,
+                        45.193595
+                  ]
+            },
+            {
+                  "name": "MC2",
+                  "text": "MC2 este un important centru cultural național din Grenoble, care reunește teatrul, dansul și muzica. Oferă un program diversificat într-o clădire modernă cu mai multe săli de spectacol.",
+                  "category": "cultural",
+                  "coords": [
+                        5.733706,
+                        45.172227
+                  ]
+            },
+            {
+                  "name": "Basilique du Sacré-Cœur",
+                  "text": "Bazilica Sacré-Cœur din Grenoble este un edificiu marcant situat în apropierea gării. Arhitectura sa și silueta vizibilă de departe o fac un punct de referință important al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        5.71586,
+                        45.191569
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Joseph",
+                  "text": "Bazilica Saint-Joseph este o biserică catolică din centrul orașului Grenoble. Clădirea este cunoscută pentru fațada sa impresionantă și pentru rolul său în viața religioasă a locuitorilor.",
+                  "category": "religious",
+                  "coords": [
+                        5.730039,
+                        45.186847
+                  ]
+            },
+            {
+                  "name": "Mont Jalla",
+                  "text": "Mont Jalla este un vârf montan situat deasupra fortului Bastille din Grenoble, oferind o priveliște magnifică. Aici se află monumentul național dedicat trupelor montane.",
+                  "category": "natural",
+                  "coords": [
+                        5.724233,
+                        45.203988
+                  ]
+            },
+            {
+                  "name": "Mont Rachais",
+                  "text": "Mont Rachais este un masiv muntos care se întinde în spatele orașului Grenoble, fiind popular printre turiști. De pe înălțimile sale, se poate admira o vedere panoramică asupra orașului și a văilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        5.73348,
+                        45.218456
+                  ]
+            },
+            {
+                  "name": "Château de l'Hermitage",
+                  "text": "Ruinele Castelului Hermitage sunt situate la poalele muntelui Néron, lângă Grenoble. Acest loc este înconjurat de legende și oferă turiștilor o destinație misterioasă în mijlocul naturii.",
+                  "category": "historical",
+                  "coords": [
+                        5.702028,
+                        45.215311
+                  ]
+            },
+            {
+                  "name": "Château de Bouquéron",
+                  "text": "Castelul Bouquéron este situat în Corenc, lângă Grenoble, și este o fortificație istorică. Castelul are o istorie lungă și oferă o vedere largă asupra văii Grésivaudan.",
+                  "category": "castle",
+                  "coords": [
+                        5.757378,
+                        45.214826
+                  ]
+            },
+            {
+                  "name": "Musée des sciences médicales",
+                  "text": "Acest muzeu din Grenoble prezintă evoluția științelor și instrumentelor medicale. Este situat într-un fost spital și expune obiecte interesante despre istoria medicală regională.",
+                  "category": "museum",
+                  "coords": [
+                        5.748845,
+                        45.20001
+                  ]
+            },
+            {
+                  "name": "Remparts romains",
+                  "text": "Zidurile romane din Grenoble sunt mărturii ale trecutului antic al orașului. Fragmente din aceste fortificații s-au păstrat în centrul orașului și pot fi vizitate în cadrul unui tur.",
+                  "category": "historical",
+                  "coords": [
+                        5.729424,
+                        45.190844
+                  ]
+            },
+            {
+                  "name": "TMG - Grand Théâtre",
+                  "text": "TMG - Grand Théâtre este una dintre cele mai importante scene din Grenoble pentru artele spectacolului. Clădirea este cunoscută pentru arhitectura sa clasică și programul său teatral de înaltă calitate.",
+                  "category": "cultural",
+                  "coords": [
+                        5.727576,
+                        45.193255
+                  ]
+            },
+            {
+                  "name": "Summum",
+                  "text": "Summum este o sală mare de concerte din Grenoble, utilizată pentru evenimente pop și rock. Datorită capacității sale, găzduiește artiști importanți și turnee naționale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.737296,
+                        45.155346
+                  ]
+            },
+            {
+                  "name": "Hexagone",
+                  "text": "Hexagone este un teatru național din Meylan, lângă Grenoble, specializat în legătura dintre artă și știință. Oferă spectacole inovatoare și proiecte interdisciplinare.",
+                  "category": "cultural",
+                  "coords": [
+                        5.763299,
+                        45.206516
+                  ]
             }
       ],
       "en": [
@@ -1331,6 +1925,204 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.673065,
                         45.208432
+                  ]
+            },
+            {
+                  "name": "Bastille art center",
+                  "text": "The Bastille Art Center is located at the top of the Bastille in Grenoble. It offers contemporary art exhibitions in a historic military setting with panoramic views.",
+                  "category": "museum",
+                  "coords": [
+                        5.724316,
+                        45.198717
+                  ]
+            },
+            {
+                  "name": "Musée de l'OSUG",
+                  "text": "The OSUG Museum in Grenoble is dedicated to the sciences of the universe. It presents collections of minerals, fossils, and instruments used for exploring the Earth and space.",
+                  "category": "museum",
+                  "coords": [
+                        5.761116,
+                        45.19283
+                  ]
+            },
+            {
+                  "name": "La Plateforme - Centre d'information sur les projets urbains",
+                  "text": "La Plateforme is an information centre for urban planning projects in Grenoble. Located in a historic building, it features exhibitions on the city's development.",
+                  "category": "museum",
+                  "coords": [
+                        5.733279,
+                        45.189585
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance et de la Déportation de l'Isère",
+                  "text": "This museum in Grenoble documents the history of resistance and deportation in the Isère region during World War II. It provides a deep insight into the local events of that era.",
+                  "category": "museum",
+                  "coords": [
+                        5.735203,
+                        45.19012
+                  ]
+            },
+            {
+                  "name": "Magasin-CNAC",
+                  "text": "Magasin-CNAC is a renowned contemporary art centre located in a former industrial hall in Grenoble. It is known for its large-scale installations and modern exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        5.70393,
+                        45.187669
+                  ]
+            },
+            {
+                  "name": "Musée archéologique Saint-Laurent",
+                  "text": "The Saint-Laurent Archaeological Museum is located in a former church in Grenoble. It displays significant finds from the early Christian era and offers a look into the city's underground past.",
+                  "category": "museum",
+                  "coords": [
+                        5.731473,
+                        45.19766
+                  ]
+            },
+            {
+                  "name": "Musée de la Viscose",
+                  "text": "The Viscose Museum near Grenoble is dedicated to the history of artificial silk production. Visitors can learn all about the production process and the lives of the factory workers here.",
+                  "category": "museum",
+                  "coords": [
+                        5.702776,
+                        45.157369
+                  ]
+            },
+            {
+                  "name": "Musée Hébert",
+                  "text": "The Hébert Museum is located in the former home of painter Ernest Hébert in La Tronche near Grenoble. It displays the artist's works in a charming setting with a well-kept garden.",
+                  "category": "museum",
+                  "coords": [
+                        5.751056,
+                        45.205737
+                  ]
+            },
+            {
+                  "name": "Fort de la Bastille",
+                  "text": "The Fort de la Bastille is a historical fortification perched high above Grenoble. Visitors can reach it via the famous cable car and enjoy spectacular views of the Alps.",
+                  "category": "fortress",
+                  "coords": [
+                        5.725274,
+                        45.198953
+                  ]
+            },
+            {
+                  "name": "Porte de France",
+                  "text": "The Porte de France is a historic city gate in Grenoble that recalls the city's military past. This 17th-century structure stands at one of the main entrances to the city centre.",
+                  "category": "fortress",
+                  "coords": [
+                        5.719434,
+                        45.193595
+                  ]
+            },
+            {
+                  "name": "MC2",
+                  "text": "MC2 is a major national cultural centre in Grenoble that combines theatre, dance, and music. It offers a diverse programme in a modern building with several performance halls.",
+                  "category": "cultural",
+                  "coords": [
+                        5.733706,
+                        45.172227
+                  ]
+            },
+            {
+                  "name": "Basilique du Sacré-Cœur",
+                  "text": "The Sacré-Cœur Basilica in Grenoble is a striking building located near the train station. Its architecture and silhouette, visible from afar, make it an important landmark of the city.",
+                  "category": "religious",
+                  "coords": [
+                        5.71586,
+                        45.191569
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Joseph",
+                  "text": "The Saint-Joseph Basilica is a Catholic church in the centre of Grenoble. The building is known for its impressive facade and its role in the religious life of the residents.",
+                  "category": "religious",
+                  "coords": [
+                        5.730039,
+                        45.186847
+                  ]
+            },
+            {
+                  "name": "Mont Jalla",
+                  "text": "Mont Jalla is a mountain peak above the Grenoble Bastille, offering magnificent views. The national monument to the mountain troops is located here.",
+                  "category": "natural",
+                  "coords": [
+                        5.724233,
+                        45.203988
+                  ]
+            },
+            {
+                  "name": "Mont Rachais",
+                  "text": "Mont Rachais is a mountain range stretching behind Grenoble that is popular with hikers. From its heights, there are panoramic views of the city and the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        5.73348,
+                        45.218456
+                  ]
+            },
+            {
+                  "name": "Château de l'Hermitage",
+                  "text": "The ruins of the Château de l'Hermitage are located at the foot of Mount Néron near Grenoble. This place is shrouded in legends and offers hikers a mysterious destination in nature.",
+                  "category": "historical",
+                  "coords": [
+                        5.702028,
+                        45.215311
+                  ]
+            },
+            {
+                  "name": "Château de Bouquéron",
+                  "text": "The Château de Bouquéron is located in Corenc near Grenoble and is a historical fortification. The castle has a long history and offers wide views over the Grésivaudan valley.",
+                  "category": "castle",
+                  "coords": [
+                        5.757378,
+                        45.214826
+                  ]
+            },
+            {
+                  "name": "Musée des sciences médicales",
+                  "text": "This museum in Grenoble presents the development of medical sciences and instruments. Located in a former hospital, it displays interesting exhibits on regional medical history.",
+                  "category": "museum",
+                  "coords": [
+                        5.748845,
+                        45.20001
+                  ]
+            },
+            {
+                  "name": "Remparts romains",
+                  "text": "The Roman city walls in Grenoble are witnesses to the city's ancient past. Parts of these fortifications have been preserved in the city centre and can be visited on a tour.",
+                  "category": "historical",
+                  "coords": [
+                        5.729424,
+                        45.190844
+                  ]
+            },
+            {
+                  "name": "TMG - Grand Théâtre",
+                  "text": "The TMG - Grand Théâtre is one of the most important stages in Grenoble for performing arts. The building is known for its classic architecture and its high-quality theatrical programme.",
+                  "category": "cultural",
+                  "coords": [
+                        5.727576,
+                        45.193255
+                  ]
+            },
+            {
+                  "name": "Summum",
+                  "text": "Summum is a large concert hall in Grenoble used for pop and rock events. With its capacity, it accommodates major artists and national tours.",
+                  "category": "cultural",
+                  "coords": [
+                        5.737296,
+                        45.155346
+                  ]
+            },
+            {
+                  "name": "Hexagone",
+                  "text": "Hexagone is a national theatre in Meylan near Grenoble specializing in the link between art and science. It offers innovative performances and interdisciplinary projects.",
+                  "category": "cultural",
+                  "coords": [
+                        5.763299,
+                        45.206516
                   ]
             }
       ],
@@ -2931,6 +3723,213 @@ export const poiExtraFranceCities: POI[] = [
                         3.88044,
                         43.642612
                   ]
+            },
+            {
+                  "name": "Lycée général et technologique Joffre",
+                  "text": "Dieses Gebäude in Montpellier ist ein Gymnasium, das sich an der Stelle der historischen Zitadelle der Stadt befindet. Die ehemalige Militärfestung wurde im 17. Jahrhundert zur Kontrolle der Stadt erbaut.",
+                  "category": "castle",
+                  "coords": [
+                        3.886733,
+                        43.61169
+                  ]
+            },
+            {
+                  "name": "Château d'O",
+                  "text": "Das Château d'O ist eine „Folie“ oder ein Landhaus aus dem 18. Jahrhundert in Montpellier. Es ist von einem großen Park umgeben und beherbergt das ganze Jahr über kulturelle Veranstaltungen.",
+                  "category": "castle",
+                  "coords": [
+                        3.839042,
+                        43.633204
+                  ]
+            },
+            {
+                  "name": "Château de la Piscine",
+                  "text": "Dieses historische Herrenhaus in Montpellier ist ein schönes Beispiel für die französische Architektur des 18. Jahrhunderts. Es ist bekannt für seine schönen Gärten und seinen Status als geschütztes Denkmal.",
+                  "category": "castle",
+                  "coords": [
+                        3.841383,
+                        43.612181
+                  ]
+            },
+            {
+                  "name": "Château Levat",
+                  "text": "Das Château Levat ist ein bemerkenswerter Landsitz aus dem 18. Jahrhundert in Montpellier. Das Gebäude ist von historischen Gärten umgeben und weist klassische Architekturmerkmale auf.",
+                  "category": "castle",
+                  "coords": [
+                        3.889405,
+                        43.622942
+                  ]
+            },
+            {
+                  "name": "Château de Verchant",
+                  "text": "Dieses historische Anwesen in Montpellier wurde in ein Luxushotel mit Spa umgewandelt. Es bewahrt seinen eleganten Charme der alten Welt und bietet moderne Annehmlichkeiten in einer Weinberg-Umgebung.",
+                  "category": "castle",
+                  "coords": [
+                        3.9232,
+                        43.622187
+                  ]
+            },
+            {
+                  "name": "Opéra Berlioz",
+                  "text": "Das Opéra Berlioz ist ein bedeutendes Konzerthaus und Opernhaus im Corum-Komplex in Montpellier. Es ist nach dem französischen Komponisten Hector Berlioz benannt und beherbergt renommierte Musikaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        3.882059,
+                        43.613363
+                  ]
+            },
+            {
+                  "name": "Couvent des Ursulines",
+                  "text": "Dieses ehemalige Kloster in Montpellier diente vielen Zwecken, darunter als Gefängnis und heute als Tanzzentrum. Die historischen Gebäude stammen aus dem 17. Jahrhundert und sind Teil des Erbes der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        3.878389,
+                        43.614319
+                  ]
+            },
+            {
+                  "name": "Rockstore",
+                  "text": "Das Rockstore ist ein berühmter Musikveranstaltungsort in Montpellier, erkennbar an dem Auto, das in seine Fassade kracht. Es beherbergt Konzerte internationaler Künstler und ist ein fester Bestandteil des Nachtlebens der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        3.881365,
+                        43.606242
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Eulalie",
+                  "text": "Diese Kirche in Montpellier stammt aus dem Mittelalter und weist einen Mix aus Baustilen auf. Sie ist eine historische Kultstätte im alten Zentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        3.870426,
+                        43.609548
+                  ]
+            },
+            {
+                  "name": "Église Saint-Denis",
+                  "text": "Die Église Saint-Denis ist eine historische Kirche in Montpellier, die für ihre klassische Fassade bekannt ist. Sie dient der örtlichen Gemeinde und ist ein ruhiges Ziel für Besucher, die die religiöse Geschichte der Stadt erkunden.",
+                  "category": "religious",
+                  "coords": [
+                        3.874785,
+                        43.604979
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Croix de Celleneuve",
+                  "text": "Diese romanische Kirche ist eines der ältesten religiösen Gebäude im Raum Montpellier. Sie befindet sich im Stadtteil Celleneuve und ist für ihre einfache, robuste mittelalterliche Architektur bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        3.828641,
+                        43.613183
+                  ]
+            },
+            {
+                  "name": "Locomotive n° 81",
+                  "text": "Diese historische Dampflokomotive ist eine erhaltene Attraktion in Montpellier. Sie erinnert an den „Petit Train“, der einst zwischen Montpellier und der nahe gelegenen Küste verkehrte.",
+                  "category": "landmark",
+                  "coords": [
+                        3.890874,
+                        43.589466
+                  ]
+            },
+            {
+                  "name": "Parc Montcalm",
+                  "text": "Der Parc Montcalm ist ein großer öffentlicher Park in Montpellier, der weite Grünflächen für Sport und Erholung bietet. Er ist ein beliebter Ort für Einheimische zum Trainieren, Picknicken und Genießen der Natur.",
+                  "category": "park",
+                  "coords": [
+                        3.859158,
+                        43.597118
+                  ]
+            },
+            {
+                  "name": "Église de l'ancien couvent des Sœurs de Saint-Joseph",
+                  "text": "Diese Kirche ist Teil eines ehemaligen Klosters in Montpellier. Sie ist ein bedeutendes religiöses Gebäude, das die kirchliche Architektur der Stadt repräsentiert.",
+                  "category": "religious",
+                  "coords": [
+                        3.868986,
+                        43.613421
+                  ]
+            },
+            {
+                  "name": "Halles Castellane",
+                  "text": "Halles Castellane ist ein zentraler Marktplatz in Montpellier, der frische lokale Erzeugnisse und Lebensmittel anbietet. Es ist ein lebhafter Ort für Bewohner und Besucher, um die kulinarische Vielfalt der Region zu erleben.",
+                  "category": "cultural",
+                  "coords": [
+                        3.876801,
+                        43.610151
+                  ]
+            },
+            {
+                  "name": "Église Saint-Esprit",
+                  "text": "Diese Kultstätte befindet sich in Montpellier und dient der örtlichen Gemeinschaft. Sie bietet einen friedlichen Rahmen für Gottesdienste und persönliche Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        3.842816,
+                        43.623255
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean",
+                  "text": "Die Chapelle Saint-Jean ist ein religiöses Gebäude in Montpellier. Sie bietet einen Raum für ruhige Besinnung und spirituelle Verbundenheit innerhalb der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        3.884835,
+                        43.626007
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc",
+                  "text": "Diese Kultstätte ist der Heiligen Johanna von Orléans gewidmet und befindet sich in Montpellier. Sie dient als spirituelles Zentrum für das Viertel und seine Bewohner.",
+                  "category": "religious",
+                  "coords": [
+                        3.891463,
+                        43.617521
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léon",
+                  "text": "Die Église Saint-Léon ist eine lokale Kirche in Montpellier. Sie bietet eine einladende Atmosphäre für religiöse Zeremonien und Gemeindeversammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        3.880993,
+                        43.618707
+                  ]
+            },
+            {
+                  "name": "Église des Saints-François",
+                  "text": "Diese religiöse Stätte in Montpellier ist den Heiligen Franziskus gewidmet. Sie ist ein traditioneller Ort für Gottesdienste, der der lokalen Bevölkerung zur Verfügung steht.",
+                  "category": "religious",
+                  "coords": [
+                        3.883143,
+                        43.602979
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Foy des Pénitents Blancs",
+                  "text": "Diese historische Kapelle in Montpellier ist mit der Bruderschaft der Pénitents Blancs verbunden. Sie verfügt über ein erhaltenes Inneres, das die langjährigen religiösen Traditionen der Stadt widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        3.879502,
+                        43.609655
+                  ]
+            },
+            {
+                  "name": "Ancienne chapelle de la Visitation",
+                  "text": "Diese ehemalige Kapelle in Montpellier ist eine bedeutende historische und religiöse Stätte. Sie erinnert an das kirchliche Erbe der Stadt und das einstige Klosterleben.",
+                  "category": "religious",
+                  "coords": [
+                        3.87706,
+                        43.614242
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée Conception",
+                  "text": "Diese Kirche in Montpellier ist eine Kultstätte für die örtliche Gemeinschaft. Sie bietet einen Raum für Gebete und traditionelle Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        3.866719,
+                        43.606476
+                  ]
             }
       ],
       "hu": [
@@ -3344,6 +4343,213 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.88044,
                         43.642612
+                  ]
+            },
+            {
+                  "name": "Lycée général et technologique Joffre",
+                  "text": "Ez a montpellier-i épület egy középiskola, amely a város történelmi citadellájának helyén található. Az egykori katonai erőd a 17. században épült a város ellenőrzésére.",
+                  "category": "castle",
+                  "coords": [
+                        3.886733,
+                        43.61169
+                  ]
+            },
+            {
+                  "name": "Château d'O",
+                  "text": "A Château d'O egy 18. századi „folly” vagy vidéki ház Montpellier-ben. Nagy park veszi körül, és egész évben kulturális eseményeknek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        3.839042,
+                        43.633204
+                  ]
+            },
+            {
+                  "name": "Château de la Piscine",
+                  "text": "Ez a montpellier-i történelmi kastély a 18. századi francia építészet remek példája. Gyönyörű kertjeiről és védett műemléki státuszáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        3.841383,
+                        43.612181
+                  ]
+            },
+            {
+                  "name": "Château Levat",
+                  "text": "A Château Levat egy nevezetes 18. századi vidéki rezidencia Montpellier-ben. Az épületet történelmi kertek veszik körül, és klasszikus építészeti stílusjegyeket mutat.",
+                  "category": "castle",
+                  "coords": [
+                        3.889405,
+                        43.622942
+                  ]
+            },
+            {
+                  "name": "Château de Verchant",
+                  "text": "Ezt a montpellier-i történelmi birtokot luxusszállodává és gyógyfürdővé alakították át. Megőrzi elegáns, régi báját, miközben modern kényelmet kínál szőlőültetvények között.",
+                  "category": "castle",
+                  "coords": [
+                        3.9232,
+                        43.622187
+                  ]
+            },
+            {
+                  "name": "Opéra Berlioz",
+                  "text": "Az Opéra Berlioz egy jelentős hangverseny- és operaház Montpellier-ben, a Corum komplexumban. Hector Berlioz francia zeneszerzőről nevezték el, és rangos zenei előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        3.882059,
+                        43.613363
+                  ]
+            },
+            {
+                  "name": "Couvent des Ursulines",
+                  "text": "Ez az egykori montpellier-i kolostor számos szerepet töltött be, volt börtön, ma pedig táncközpont. A történelmi épületek a 17. századból származnak, és a város örökségének részét képezik.",
+                  "category": "religious",
+                  "coords": [
+                        3.878389,
+                        43.614319
+                  ]
+            },
+            {
+                  "name": "Rockstore",
+                  "text": "A Rockstore Montpellier híres zenei helyszíne, amely a homlokzatán áttörő autóról ismerhető fel. Nemzetközi művészek koncertjeinek ad otthont, és a város éjszakai életének meghatározó része.",
+                  "category": "cultural",
+                  "coords": [
+                        3.881365,
+                        43.606242
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Eulalie",
+                  "text": "Ez a montpellier-i templom a középkorig nyúlik vissza, és többféle építészeti stílust ötvöz. Történelmi istentiszteleti hely a város ódon központjában.",
+                  "category": "religious",
+                  "coords": [
+                        3.870426,
+                        43.609548
+                  ]
+            },
+            {
+                  "name": "Église Saint-Denis",
+                  "text": "Az Église Saint-Denis egy történelmi templom Montpellier-ben, amely klasszikus homlokzatáról ismert. A helyi plébániát szolgálja, és csendes úti cél a város vallástörténetét felfedező látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        3.874785,
+                        43.604979
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Croix de Celleneuve",
+                  "text": "Ez a román stílusú templom Montpellier környékének egyik legrégebbi vallási épülete. A Celleneuve negyedben található, és egyszerű, robusztus középkori építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        3.828641,
+                        43.613183
+                  ]
+            },
+            {
+                  "name": "Locomotive n° 81",
+                  "text": "Ez a történelmi gőzmozdony egy megőrzött látványosság Montpellier-ben. Emlékeztet a „Petit Train”-re, amely egykor Montpellier és a közeli tengerpart között közlekedett.",
+                  "category": "landmark",
+                  "coords": [
+                        3.890874,
+                        43.589466
+                  ]
+            },
+            {
+                  "name": "Parc Montcalm",
+                  "text": "A Parc Montcalm egy nagy nyilvános park Montpellier-ben, amely hatalmas zöldterületeket biztosít a sporthoz és a kikapcsolódáshoz. Kedvelt hely a helyiek körében edzéshez, piknikezéshez és a szabadban való tartózkodáshoz.",
+                  "category": "park",
+                  "coords": [
+                        3.859158,
+                        43.597118
+                  ]
+            },
+            {
+                  "name": "Église de l'ancien couvent des Sœurs de Saint-Joseph",
+                  "text": "Ez a templom egy montpellier-i egykori kolostor része. Jelentős vallási épület, amely a város egyházi építészetét képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        3.868986,
+                        43.613421
+                  ]
+            },
+            {
+                  "name": "Halles Castellane",
+                  "text": "A Halles Castellane egy központi piac Montpellier-ben, ahol friss helyi termékeket és élelmiszereket kínálnak. Nyüzsgő hely a lakosok és a látogatók számára, hogy megismerjék a régió kulináris választékát.",
+                  "category": "cultural",
+                  "coords": [
+                        3.876801,
+                        43.610151
+                  ]
+            },
+            {
+                  "name": "Église Saint-Esprit",
+                  "text": "Ez az istentiszteleti hely Montpellier-ben található, és a helyi közösséget szolgálja. Békés környezetet biztosít a vallási szertatásokhoz és a személyes imához.",
+                  "category": "religious",
+                  "coords": [
+                        3.842816,
+                        43.623255
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean",
+                  "text": "A Chapelle Saint-Jean egy vallási épület Montpellier-ben. Teret biztosít a csendes elmélkedéshez és a spirituális kapcsolódáshoz a városon belül.",
+                  "category": "religious",
+                  "coords": [
+                        3.884835,
+                        43.626007
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc",
+                  "text": "Ezt az istentiszteleti helyet Szent Johanna tiszteletére szentelték, és Montpellier-ben található. A környék és lakói spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        3.891463,
+                        43.617521
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léon",
+                  "text": "Az Église Saint-Léon egy helyi templom Montpellier-ben. Barátságos légkört kínál a vallási szertatásokhoz és a közösségi összejövetelekhez.",
+                  "category": "religious",
+                  "coords": [
+                        3.880993,
+                        43.618707
+                  ]
+            },
+            {
+                  "name": "Église des Saints-François",
+                  "text": "Ez a montpellier-i vallási helyszín a Szent Ferenc tiszteletére épült. Hagyományos istentiszteleti hely, amely a helyi lakosságot szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        3.883143,
+                        43.602979
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Foy des Pénitents Blancs",
+                  "text": "Ez a montpellier-i történelmi kápolna a Pénitents Blancs testvériséghez kötődik. Megőrzött belső tere a város régmúltra visszatekintő vallási hagyományait tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        3.879502,
+                        43.609655
+                  ]
+            },
+            {
+                  "name": "Ancienne chapelle de la Visitation",
+                  "text": "Ez az egykori montpellier-i kápolna jelentős történelmi és vallási helyszín. Emlékeztet a város egyházi örökségére és a múltbeli szerzetesi életre.",
+                  "category": "religious",
+                  "coords": [
+                        3.87706,
+                        43.614242
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée Conception",
+                  "text": "Ez a Montpellier-ben található templom a helyi közösség istentiszteleti helye. Teret biztosít az imádságnak és a hagyományos vallási szertatásoknak.",
+                  "category": "religious",
+                  "coords": [
+                        3.866719,
+                        43.606476
                   ]
             }
       ],
@@ -3759,6 +4965,213 @@ export const poiExtraFranceCities: POI[] = [
                         3.88044,
                         43.642612
                   ]
+            },
+            {
+                  "name": "Lycée général et technologique Joffre",
+                  "text": "Această clădire din Montpellier este un liceu situat pe locul citadelei istorice a orașului. Fosta fortăreață militară a fost construită în secolul al XVII-lea pentru a controla orașul.",
+                  "category": "castle",
+                  "coords": [
+                        3.886733,
+                        43.61169
+                  ]
+            },
+            {
+                  "name": "Château d'O",
+                  "text": "Château d'O este o „folie” sau casă de țară din secolul al XVIII-lea situată în Montpellier. Este înconjurat de un parc mare și găzduiește evenimente culturale pe tot parcursul anului.",
+                  "category": "castle",
+                  "coords": [
+                        3.839042,
+                        43.633204
+                  ]
+            },
+            {
+                  "name": "Château de la Piscine",
+                  "text": "Acest conac istoric din Montpellier este un exemplu fin de arhitectură franceză din secolul al XVIII-lea. Este cunoscut pentru grădinile sale frumoase și statutul de monument protejat.",
+                  "category": "castle",
+                  "coords": [
+                        3.841383,
+                        43.612181
+                  ]
+            },
+            {
+                  "name": "Château Levat",
+                  "text": "Château Levat este o reședință de țară remarcabilă din secolul al XVIII-lea situată în Montpellier. Clădirea este înconjurată de grădini istorice și prezintă caracteristici arhitecturale clasice.",
+                  "category": "castle",
+                  "coords": [
+                        3.889405,
+                        43.622942
+                  ]
+            },
+            {
+                  "name": "Château de Verchant",
+                  "text": "Această moșie istorică din Montpellier a fost transformată într-un hotel de lux și spa. Își păstrează farmecul elegant de altădată, oferind în același timp facilități moderne într-un cadru viticol.",
+                  "category": "castle",
+                  "coords": [
+                        3.9232,
+                        43.622187
+                  ]
+            },
+            {
+                  "name": "Opéra Berlioz",
+                  "text": "Opéra Berlioz este o sală de concerte și operă majoră situată în complexul Corum din Montpellier. Poartă numele compozitorului francez Hector Berlioz și găzduiește spectacole muzicale prestigioase.",
+                  "category": "cultural",
+                  "coords": [
+                        3.882059,
+                        43.613363
+                  ]
+            },
+            {
+                  "name": "Couvent des Ursulines",
+                  "text": "Această fostă mănăstire din Montpellier a servit mai multor roluri, inclusiv ca închisoare, iar acum ca centru de dans. Clădirile istorice datează din secolul al XVII-lea și fac parte din patrimoniul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.878389,
+                        43.614319
+                  ]
+            },
+            {
+                  "name": "Rockstore",
+                  "text": "Rockstore este un loc de muzică celebru din Montpellier, recunoscut după mașina care trece prin fațada sa. Găzduiește concerte ale artiștilor internaționali și este un element de bază al vieții de noapte a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        3.881365,
+                        43.606242
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Eulalie",
+                  "text": "Această biserică din Montpellier datează din Evul Mediu și prezintă un amestec de stiluri arhitecturale. Este un lăcaș de cult istoric situat în centrul vechi al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.870426,
+                        43.609548
+                  ]
+            },
+            {
+                  "name": "Église Saint-Denis",
+                  "text": "Église Saint-Denis este o biserică istorică din Montpellier cunoscută pentru fațada sa clasică. Deservește parohia locală și este o destinație liniștită pentru vizitatorii care explorează istoria religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.874785,
+                        43.604979
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Croix de Celleneuve",
+                  "text": "Această biserică romanică este una dintre cele mai vechi clădiri religioase din zona Montpellier. Este situată în cartierul Celleneuve și este remarcată pentru arhitectura sa medievală simplă și robustă.",
+                  "category": "religious",
+                  "coords": [
+                        3.828641,
+                        43.613183
+                  ]
+            },
+            {
+                  "name": "Locomotive n° 81",
+                  "text": "Această locomotivă cu abur istorică este o atracție conservată în Montpellier. Servește ca un memento al „Petit Train” care circula odată între Montpellier și coasta din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        3.890874,
+                        43.589466
+                  ]
+            },
+            {
+                  "name": "Parc Montcalm",
+                  "text": "Parcul Montcalm este un parc public mare din Montpellier, care oferă spații verzi vaste pentru sport și recreere. Este un loc popular pentru localnici pentru a face mișcare, a face picnic și a se bucura de aer liber.",
+                  "category": "park",
+                  "coords": [
+                        3.859158,
+                        43.597118
+                  ]
+            },
+            {
+                  "name": "Église de l'ancien couvent des Sœurs de Saint-Joseph",
+                  "text": "Această biserică face parte dintr-o fostă mănăstire situată în Montpellier. Este o clădire religioasă semnificativă care reprezintă arhitectura ecleziastică a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.868986,
+                        43.613421
+                  ]
+            },
+            {
+                  "name": "Halles Castellane",
+                  "text": "Halles Castellane este o piață centrală din Montpellier care oferă produse locale proaspete și produse alimentare. Este un loc plin de viață pentru rezidenți și vizitatori pentru a experimenta varietatea culinară a regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        3.876801,
+                        43.610151
+                  ]
+            },
+            {
+                  "name": "Église Saint-Esprit",
+                  "text": "Acest lăcaș de cult este situat în Montpellier și deservește comunitatea locală. Oferă un cadru liniștit pentru servicii religioase și rugăciune personală.",
+                  "category": "religious",
+                  "coords": [
+                        3.842816,
+                        43.623255
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean",
+                  "text": "Chapelle Saint-Jean este o clădire religioasă din Montpellier. Oferă un spațiu pentru reflecție liniștită și conexiune spirituală în interiorul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.884835,
+                        43.626007
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc",
+                  "text": "Acest lăcaș de cult este dedicat Sfintei Ioana d'Arc și este situat în Montpellier. Servește ca un centru spiritual pentru cartier și locuitorii săi.",
+                  "category": "religious",
+                  "coords": [
+                        3.891463,
+                        43.617521
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léon",
+                  "text": "Église Saint-Léon este o biserică locală din Montpellier. Oferă o atmosferă primitoare pentru ceremonii religioase și adunări comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        3.880993,
+                        43.618707
+                  ]
+            },
+            {
+                  "name": "Église des Saints-François",
+                  "text": "Acest sit religios din Montpellier este dedicat Sfinților Francisc. Este un lăcaș de cult tradițional care oferă servicii populației locale.",
+                  "category": "religious",
+                  "coords": [
+                        3.883143,
+                        43.602979
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Foy des Pénitents Blancs",
+                  "text": "Această capelă istorică din Montpellier este asociată cu frăția Pénitents Blancs. Prezintă un interior conservat care reflectă tradițiile religioase de lungă durată ale orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.879502,
+                        43.609655
+                  ]
+            },
+            {
+                  "name": "Ancienne chapelle de la Visitation",
+                  "text": "Această fostă capelă din Montpellier este un sit istoric și religios semnificativ. Este o amintire a moștenirii ecleziastice a orașului și a vieții monahale din trecut.",
+                  "category": "religious",
+                  "coords": [
+                        3.87706,
+                        43.614242
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée Conception",
+                  "text": "Situată în Montpellier, această biserică este un lăcaș de cult pentru comunitatea locală. Oferă un spațiu pentru rugăciune și servicii religioase tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        3.866719,
+                        43.606476
+                  ]
             }
       ],
       "en": [
@@ -4173,6 +5586,213 @@ export const poiExtraFranceCities: POI[] = [
                         3.88044,
                         43.642612
                   ]
+            },
+            {
+                  "name": "Lycée général et technologique Joffre",
+                  "text": "This building in Montpellier is a school located on the site of the city's historic citadel. The former military fortress was built in the 17th century to control the town.",
+                  "category": "castle",
+                  "coords": [
+                        3.886733,
+                        43.61169
+                  ]
+            },
+            {
+                  "name": "Château d'O",
+                  "text": "The Château d'O is an 18th-century \"folly\" or country house located in Montpellier. It is surrounded by a large park and hosts cultural events throughout the year.",
+                  "category": "castle",
+                  "coords": [
+                        3.839042,
+                        43.633204
+                  ]
+            },
+            {
+                  "name": "Château de la Piscine",
+                  "text": "This historic mansion in Montpellier is a fine example of 18th-century French architecture. It is known for its beautiful gardens and status as a protected monument.",
+                  "category": "castle",
+                  "coords": [
+                        3.841383,
+                        43.612181
+                  ]
+            },
+            {
+                  "name": "Château Levat",
+                  "text": "Château Levat is a notable 18th-century country residence situated in Montpellier. The building is surrounded by historic gardens and exhibits classical architectural features.",
+                  "category": "castle",
+                  "coords": [
+                        3.889405,
+                        43.622942
+                  ]
+            },
+            {
+                  "name": "Château de Verchant",
+                  "text": "This historic estate in Montpellier has been transformed into a luxury hotel and spa. It retains its elegant old-world charm while offering modern amenities in a vineyard setting.",
+                  "category": "castle",
+                  "coords": [
+                        3.9232,
+                        43.622187
+                  ]
+            },
+            {
+                  "name": "Opéra Berlioz",
+                  "text": "Opéra Berlioz is a major concert hall and opera house located within the Corum complex in Montpellier. It is named after the French composer Hector Berlioz and hosts prestigious musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        3.882059,
+                        43.613363
+                  ]
+            },
+            {
+                  "name": "Couvent des Ursulines",
+                  "text": "This former monastery in Montpellier has served many roles, including a prison and now a dance center. The historic buildings date back to the 17th century and are part of the city's heritage.",
+                  "category": "religious",
+                  "coords": [
+                        3.878389,
+                        43.614319
+                  ]
+            },
+            {
+                  "name": "Rockstore",
+                  "text": "Rockstore is a famous music venue in Montpellier, recognizable by the car crashing through its facade. It hosts concerts by international artists and is a staple of the city's nightlife.",
+                  "category": "cultural",
+                  "coords": [
+                        3.881365,
+                        43.606242
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Eulalie",
+                  "text": "This church in Montpellier dates back to the Middle Ages and features a mix of architectural styles. It is a historic place of worship located in the city's old center.",
+                  "category": "religious",
+                  "coords": [
+                        3.870426,
+                        43.609548
+                  ]
+            },
+            {
+                  "name": "Église Saint-Denis",
+                  "text": "Église Saint-Denis is a historic church in Montpellier known for its classical facade. It serves the local parish and is a quiet destination for visitors exploring the city's religious history.",
+                  "category": "religious",
+                  "coords": [
+                        3.874785,
+                        43.604979
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Croix de Celleneuve",
+                  "text": "This Romanesque church is one of the oldest religious buildings in the Montpellier area. It is located in the Celleneuve district and is noted for its simple, sturdy medieval architecture.",
+                  "category": "religious",
+                  "coords": [
+                        3.828641,
+                        43.613183
+                  ]
+            },
+            {
+                  "name": "Locomotive n° 81",
+                  "text": "This historic steam locomotive is a preserved attraction in Montpellier. It serves as a reminder of the \"Petit Train\" that once ran between Montpellier and the nearby coast.",
+                  "category": "landmark",
+                  "coords": [
+                        3.890874,
+                        43.589466
+                  ]
+            },
+            {
+                  "name": "Parc Montcalm",
+                  "text": "Parc Montcalm is a large public park in Montpellier, providing vast green spaces for sports and recreation. It is a popular spot for locals to exercise, picnic, and enjoy the outdoors.",
+                  "category": "park",
+                  "coords": [
+                        3.859158,
+                        43.597118
+                  ]
+            },
+            {
+                  "name": "Église de l'ancien couvent des Sœurs de Saint-Joseph",
+                  "text": "This church is part of a former convent located in Montpellier. It stands as a significant religious building representing the city's ecclesiastical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        3.868986,
+                        43.613421
+                  ]
+            },
+            {
+                  "name": "Halles Castellane",
+                  "text": "Halles Castellane is a central marketplace in Montpellier offering fresh local produce and food products. It is a lively spot for residents and visitors to experience the region's culinary variety.",
+                  "category": "cultural",
+                  "coords": [
+                        3.876801,
+                        43.610151
+                  ]
+            },
+            {
+                  "name": "Église Saint-Esprit",
+                  "text": "This place of worship is situated in Montpellier and serves the local community. It provides a peaceful setting for religious services and personal prayer.",
+                  "category": "religious",
+                  "coords": [
+                        3.842816,
+                        43.623255
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean",
+                  "text": "Chapelle Saint-Jean is a religious building in Montpellier. It offers a space for quiet reflection and spiritual connection within the city.",
+                  "category": "religious",
+                  "coords": [
+                        3.884835,
+                        43.626007
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc",
+                  "text": "This place of worship is dedicated to Saint Joan of Arc and is located in Montpellier. It serves as a spiritual hub for the neighborhood and its residents.",
+                  "category": "religious",
+                  "coords": [
+                        3.891463,
+                        43.617521
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léon",
+                  "text": "Église Saint-Léon is a local church in Montpellier. It offers a welcoming atmosphere for religious ceremonies and community gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        3.880993,
+                        43.618707
+                  ]
+            },
+            {
+                  "name": "Église des Saints-François",
+                  "text": "This religious site in Montpellier is dedicated to the Saints Francis. It is a traditional place of worship providing services to the local population.",
+                  "category": "religious",
+                  "coords": [
+                        3.883143,
+                        43.602979
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Foy des Pénitents Blancs",
+                  "text": "This historic chapel in Montpellier is associated with the Pénitents Blancs brotherhood. It features a preserved interior that reflects the city's long-standing religious traditions.",
+                  "category": "religious",
+                  "coords": [
+                        3.879502,
+                        43.609655
+                  ]
+            },
+            {
+                  "name": "Ancienne chapelle de la Visitation",
+                  "text": "This former chapel in Montpellier is a significant historical and religious site. It stands as a reminder of the city's ecclesiastical heritage and past monastic life.",
+                  "category": "religious",
+                  "coords": [
+                        3.87706,
+                        43.614242
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée Conception",
+                  "text": "Located in Montpellier, this church is a place of worship for the local community. It offers a space for prayer and traditional religious services.",
+                  "category": "religious",
+                  "coords": [
+                        3.866719,
+                        43.606476
+                  ]
             }
       ],
       "fr": [
@@ -4583,6 +6203,231 @@ export const poiExtraFranceCities: POI[] = [
                         4.853904,
                         43.961172
                   ]
+            },
+            {
+                  "name": "Musée Pierre-de-Luxembourg",
+                  "text": "Das Musée Pierre-de-Luxembourg befindet sich in Villeneuve-lès-Avignon und zeigt bedeutende sakrale Kunstwerke. Es beherbergt unter anderem das berühmte Gemälde der Krönung der Jungfrau von Enguerrand Quarton.",
+                  "category": "museum",
+                  "coords": [
+                        4.796826,
+                        43.963731
+                  ]
+            },
+            {
+                  "name": "Chartreuse Notre-Dame-du-Val-de-Bénédiction",
+                  "text": "Die Chartreuse Notre-Dame-du-Val-de-Bénédiction in Villeneuve-lès-Avignon war einst eines der größten Kartäuserklöster Europas. Heute ist sie ein Museum und Kulturzentrum, das Besucher durch seine Architektur und Gärten beeindruckt.",
+                  "category": "museum",
+                  "coords": [
+                        4.79758,
+                        43.966514
+                  ]
+            },
+            {
+                  "name": "Musée Louis Vouland",
+                  "text": "Das Musée Louis Vouland in Avignon präsentiert eine reiche Sammlung von Kunsthandwerk und Möbeln aus dem 17. und 18. Jahrhundert. Es ist in einem eleganten Stadthaus untergebracht und vermittelt einen Einblick in das bürgerliche Leben vergangener Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        4.800622,
+                        43.947265
+                  ]
+            },
+            {
+                  "name": "Fort Saint-André",
+                  "text": "Diese gewaltige Festung überblickt Avignon und die Rhône vom Berg Andaon aus. Sie ist ein bedeutendes Beispiel für die Militärarchitektur des 14. Jahrhunderts mit markanten Zwillingstürmen.",
+                  "category": "castle",
+                  "coords": [
+                        4.801114,
+                        43.966203
+                  ]
+            },
+            {
+                  "name": "Tour Philippe le Bel",
+                  "text": "Dieser mittelalterliche Turm in Villeneuve-lès-Avignon diente einst als Brückenkopf für die berühmte Brücke Saint-Bénézet. Von seiner Spitze aus genießen Besucher einen Panoramablick auf die Umgebung.",
+                  "category": "castle",
+                  "coords": [
+                        4.797604,
+                        43.958581
+                  ]
+            },
+            {
+                  "name": "Théâtre des Halles",
+                  "text": "Dieses im Herzen von Avignon gelegene Theater ist in den Räumlichkeiten einer ehemaligen Abtei untergebracht. Es ist ein bedeutender Ort für zeitgenössische darstellende Kunst während der Festivals der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        4.809744,
+                        43.946119
+                  ]
+            },
+            {
+                  "name": "Théâtre du Balcon",
+                  "text": "Diese Spielstätte in Avignon ist ein aktiver Teil der lokalen Kulturszene. Sie beherbergt das ganze Jahr über verschiedene Theateraufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.814207,
+                        43.94736
+                  ]
+            },
+            {
+                  "name": "Théâtre du Chêne Noir",
+                  "text": "Diese Spielstätte in Avignon ist ein aktiver Teil der lokalen Kulturszene. Sie beherbergt das ganze Jahr über verschiedene Theateraufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.809836,
+                        43.950542
+                  ]
+            },
+            {
+                  "name": "Abbaye Saint-Ruf",
+                  "text": "Die Ruinen dieser ehemaligen romanischen Abtei sind ein bedeutendes historisches Wahrzeichen in Avignon. Die Stätte spiegelt das mittelalterliche religiöse Erbe der Stadt wider und ist für Geschichtsinteressierte zugänglich.",
+                  "category": "religious",
+                  "coords": [
+                        4.812586,
+                        43.932852
+                  ]
+            },
+            {
+                  "name": "Chapelle de l'Oratoire",
+                  "text": "Diese Kapelle aus dem 18. Jahrhundert in Avignon ist für ihre bemerkenswerte Fassade und historische Bedeutung bekannt. Sie steht unter Denkmalschutz und ist Schauplatz verschiedener kultureller Veranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        4.803239,
+                        43.948877
+                  ]
+            },
+            {
+                  "name": "Chapelle des Pénitents Noirs",
+                  "text": "Diese religiöse Stätte in Avignon dient der örtlichen Gemeinschaft als Ort der Besinnung und des Gottesdienstes. Sie zeichnet sich durch traditionelle Architektur und eine friedliche Atmosphäre aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.809871,
+                        43.952792
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph-Travailleur",
+                  "text": "Diese religiöse Stätte in Avignon dient der örtlichen Gemeinschaft als Ort der Besinnung und des Gottesdienstes. Sie zeichnet sich durch traditionelle Architektur und eine friedliche Atmosphäre aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.798329,
+                        43.93492
+                  ]
+            },
+            {
+                  "name": "Hôtel de Montaigu",
+                  "text": "Dieses historische Gebäude in Avignon spiegelt das architektonische Erbe der Region wider. Es ist ein Wahrzeichen der lokalen Geschichte und ein interessanter Punkt für Besucher.",
+                  "category": "castle",
+                  "coords": [
+                        4.811814,
+                        43.946848
+                  ]
+            },
+            {
+                  "name": "Au palace",
+                  "text": "Diese Spielstätte in Avignon ist ein aktiver Teil der lokalen Kulturszene. Sie beherbergt das ganze Jahr über verschiedene Theateraufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.805319,
+                        43.944645
+                  ]
+            },
+            {
+                  "name": "Théâtre des corps saints",
+                  "text": "Diese Spielstätte in Avignon ist ein aktiver Teil der lokalen Kulturszene. Sie beherbergt das ganze Jahr über verschiedene Theateraufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.807326,
+                        43.943855
+                  ]
+            },
+            {
+                  "name": "Théâtre des Carmes",
+                  "text": "Diese Spielstätte in Avignon ist ein aktiver Teil der lokalen Kulturszene. Sie beherbergt das ganze Jahr über verschiedene Theateraufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.813161,
+                        43.950476
+                  ]
+            },
+            {
+                  "name": "Chapelle des Pénitents blancs",
+                  "text": "Diese Spielstätte in Avignon ist ein aktiver Teil der lokalen Kulturszene. Sie beherbergt das ganze Jahr über verschiedene Theateraufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.807572,
+                        43.947861
+                  ]
+            },
+            {
+                  "name": "Laurette Théâtre",
+                  "text": "Diese Spielstätte in Avignon ist ein aktiver Teil der lokalen Kulturszene. Sie beherbergt das ganze Jahr über verschiedene Theateraufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.802575,
+                        43.949829
+                  ]
+            },
+            {
+                  "name": "Théâtre La Luna",
+                  "text": "Diese Spielstätte in Avignon ist ein aktiver Teil der lokalen Kulturszene. Sie beherbergt das ganze Jahr über verschiedene Theateraufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.815717,
+                        43.946009
+                  ]
+            },
+            {
+                  "name": "La FabricA",
+                  "text": "Diese Spielstätte in Avignon ist ein aktiver Teil der lokalen Kulturszene. Sie beherbergt das ganze Jahr über verschiedene Theateraufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.796593,
+                        43.934406
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Paix",
+                  "text": "Diese religiöse Stätte in Avignon dient der örtlichen Gemeinschaft als Ort der Besinnung und des Gottesdienstes. Sie zeichnet sich durch traditionelle Architektur und eine friedliche Atmosphäre aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.845155,
+                        43.946092
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ruf",
+                  "text": "Diese religiöse Stätte in Avignon dient der örtlichen Gemeinschaft als Ort der Besinnung und des Gottesdienstes. Sie zeichnet sich durch traditionelle Architektur und eine friedliche Atmosphäre aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.80783,
+                        43.935872
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe Saint-Côme-et-Saint-Damien",
+                  "text": "Diese religiöse Stätte in Avignon dient der örtlichen Gemeinschaft als Ort der Besinnung und des Gottesdienstes. Sie zeichnet sich durch traditionelle Architektur und eine friedliche Atmosphäre aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.815248,
+                        43.931722
+                  ]
+            },
+            {
+                  "name": "Église Jean XXIII",
+                  "text": "Diese religiöse Stätte in Avignon dient der örtlichen Gemeinschaft als Ort der Besinnung und des Gottesdienstes. Sie zeichnet sich durch traditionelle Architektur und eine friedliche Atmosphäre aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.821214,
+                        43.928838
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Coeur",
+                  "text": "Diese religiöse Stätte in Avignon dient der örtlichen Gemeinschaft als Ort der Besinnung und des Gottesdienstes. Sie zeichnet sich durch traditionelle Architektur und eine friedliche Atmosphäre aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.81963,
+                        43.939757
+                  ]
             }
       ],
       "hu": [
@@ -4762,6 +6607,231 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         4.853904,
                         43.961172
+                  ]
+            },
+            {
+                  "name": "Musée Pierre-de-Luxembourg",
+                  "text": "A Pierre-de-Luxembourg Múzeum Villeneuve-lès-Avignonban található, és jelentős szakrális műalkotásokat mutat be. Itt őrzik többek között Enguerrand Quarton híres festményét, a Szűz megkoronázását.",
+                  "category": "museum",
+                  "coords": [
+                        4.796826,
+                        43.963731
+                  ]
+            },
+            {
+                  "name": "Chartreuse Notre-Dame-du-Val-de-Bénédiction",
+                  "text": "A Villeneuve-lès-Avignonban található Chartreuse Notre-Dame-du-Val-de-Bénédiction egykor Európa egyik legnagyobb karthauzi kolostora volt. Ma múzeumként és kulturális központként működik, építészetével és kertjeivel nyűgözi le a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        4.79758,
+                        43.966514
+                  ]
+            },
+            {
+                  "name": "Musée Louis Vouland",
+                  "text": "Az avignoni Louis Vouland Múzeum a 17. és 18. századi iparművészet és bútorok gazdag gyűjteményét mutatja be. Egy elegáns városi házban kapott helyet, és betekintést nyújt a letűnt korok polgári életébe.",
+                  "category": "museum",
+                  "coords": [
+                        4.800622,
+                        43.947265
+                  ]
+            },
+            {
+                  "name": "Fort Saint-André",
+                  "text": "Ez a hatalmas erődítmény az Andaon-hegyről nyújt kilátást Avignonra és a Rhône folyóra. A 14. századi katonai építészet kiváló példája, lenyűgöző ikertornyokkal.",
+                  "category": "castle",
+                  "coords": [
+                        4.801114,
+                        43.966203
+                  ]
+            },
+            {
+                  "name": "Tour Philippe le Bel",
+                  "text": "Ez a Villeneuve-lès-Avignonban található középkori torony egykor a híres Saint-Bénézet híd hídfőjeként szolgált. A látogatók a tetejéről panorámás kilátást élvezhetnek a környékre.",
+                  "category": "castle",
+                  "coords": [
+                        4.797604,
+                        43.958581
+                  ]
+            },
+            {
+                  "name": "Théâtre des Halles",
+                  "text": "Ez az Avignon szívében található színház egy egykori apátság épületében kapott helyet. A város híres fesztiváljai idején a kortárs előadó-művészet egyik jelentős helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        4.809744,
+                        43.946119
+                  ]
+            },
+            {
+                  "name": "Théâtre du Balcon",
+                  "text": "Ez a Avignon városában található előadóhely a helyi kulturális élet aktív részese. Egész évben különféle színházi produkcióknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.814207,
+                        43.94736
+                  ]
+            },
+            {
+                  "name": "Théâtre du Chêne Noir",
+                  "text": "Ez a Avignon városában található előadóhely a helyi kulturális élet aktív részese. Egész évben különféle színházi produkcióknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.809836,
+                        43.950542
+                  ]
+            },
+            {
+                  "name": "Abbaye Saint-Ruf",
+                  "text": "Ennek az egykori román stílusú apátságnak a romjai Avignon jelentős történelmi emlékei. A helyszín a város középkori vallási örökségét tükrözi, és nyitva áll a történelem iránt érdeklődők előtt.",
+                  "category": "religious",
+                  "coords": [
+                        4.812586,
+                        43.932852
+                  ]
+            },
+            {
+                  "name": "Chapelle de l'Oratoire",
+                  "text": "Ez a 18. századi avignoni kápolna figyelemre méltó homlokzatáról és történelmi jelentőségéről ismert. Műemléki védettséget élvez, és különféle kulturális eseményeknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        4.803239,
+                        43.948877
+                  ]
+            },
+            {
+                  "name": "Chapelle des Pénitents Noirs",
+                  "text": "Ez a Avignon városában található vallási helyszín az elmélkedés és a hitélet helyeként szolgál a helyi közösség számára. Hagyományos építészet és nyugodt légkör jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        4.809871,
+                        43.952792
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph-Travailleur",
+                  "text": "Ez a Avignon városában található vallási helyszín az elmélkedés és a hitélet helyeként szolgál a helyi közösség számára. Hagyományos építészet és nyugodt légkör jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        4.798329,
+                        43.93492
+                  ]
+            },
+            {
+                  "name": "Hôtel de Montaigu",
+                  "text": "Ez a Avignon városában található történelmi épület a régió építészeti örökségét tükrözi. A helyi történelem egyik mérföldköve, és fontos látnivaló a látogatók számára.",
+                  "category": "castle",
+                  "coords": [
+                        4.811814,
+                        43.946848
+                  ]
+            },
+            {
+                  "name": "Au palace",
+                  "text": "Ez a Avignon városában található előadóhely a helyi kulturális élet aktív részese. Egész évben különféle színházi produkcióknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.805319,
+                        43.944645
+                  ]
+            },
+            {
+                  "name": "Théâtre des corps saints",
+                  "text": "Ez a Avignon városában található előadóhely a helyi kulturális élet aktív részese. Egész évben különféle színházi produkcióknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.807326,
+                        43.943855
+                  ]
+            },
+            {
+                  "name": "Théâtre des Carmes",
+                  "text": "Ez a Avignon városában található előadóhely a helyi kulturális élet aktív részese. Egész évben különféle színházi produkcióknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.813161,
+                        43.950476
+                  ]
+            },
+            {
+                  "name": "Chapelle des Pénitents blancs",
+                  "text": "Ez a Avignon városában található előadóhely a helyi kulturális élet aktív részese. Egész évben különféle színházi produkcióknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.807572,
+                        43.947861
+                  ]
+            },
+            {
+                  "name": "Laurette Théâtre",
+                  "text": "Ez a Avignon városában található előadóhely a helyi kulturális élet aktív részese. Egész évben különféle színházi produkcióknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.802575,
+                        43.949829
+                  ]
+            },
+            {
+                  "name": "Théâtre La Luna",
+                  "text": "Ez a Avignon városában található előadóhely a helyi kulturális élet aktív részese. Egész évben különféle színházi produkcióknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.815717,
+                        43.946009
+                  ]
+            },
+            {
+                  "name": "La FabricA",
+                  "text": "Ez a Avignon városában található előadóhely a helyi kulturális élet aktív részese. Egész évben különféle színházi produkcióknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.796593,
+                        43.934406
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Paix",
+                  "text": "Ez a Avignon városában található vallási helyszín az elmélkedés és a hitélet helyeként szolgál a helyi közösség számára. Hagyományos építészet és nyugodt légkör jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        4.845155,
+                        43.946092
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ruf",
+                  "text": "Ez a Avignon városában található vallási helyszín az elmélkedés és a hitélet helyeként szolgál a helyi közösség számára. Hagyományos építészet és nyugodt légkör jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        4.80783,
+                        43.935872
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe Saint-Côme-et-Saint-Damien",
+                  "text": "Ez a Avignon városában található vallási helyszín az elmélkedés és a hitélet helyeként szolgál a helyi közösség számára. Hagyományos építészet és nyugodt légkör jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        4.815248,
+                        43.931722
+                  ]
+            },
+            {
+                  "name": "Église Jean XXIII",
+                  "text": "Ez a Avignon városában található vallási helyszín az elmélkedés és a hitélet helyeként szolgál a helyi közösség számára. Hagyományos építészet és nyugodt légkör jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        4.821214,
+                        43.928838
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Coeur",
+                  "text": "Ez a Avignon városában található vallási helyszín az elmélkedés és a hitélet helyeként szolgál a helyi közösség számára. Hagyományos építészet és nyugodt légkör jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        4.81963,
+                        43.939757
                   ]
             }
       ],
@@ -4943,6 +7013,231 @@ export const poiExtraFranceCities: POI[] = [
                         4.853904,
                         43.961172
                   ]
+            },
+            {
+                  "name": "Musée Pierre-de-Luxembourg",
+                  "text": "Muzeul Pierre-de-Luxembourg este situat în Villeneuve-lès-Avignon și expune opere de artă sacră remarcabile. Găzduiește, printre altele, celebra pictură „Încoronarea Fecioarei” de Enguerrand Quarton.",
+                  "category": "museum",
+                  "coords": [
+                        4.796826,
+                        43.963731
+                  ]
+            },
+            {
+                  "name": "Chartreuse Notre-Dame-du-Val-de-Bénédiction",
+                  "text": "Chartreuse Notre-Dame-du-Val-de-Bénédiction din Villeneuve-lès-Avignon a fost odinioară una dintre cele mai mari mănăstiri cartusiene din Europa. Astăzi este muzeu și centru cultural, impresionând vizitatorii prin arhitectura și grădinile sale.",
+                  "category": "museum",
+                  "coords": [
+                        4.79758,
+                        43.966514
+                  ]
+            },
+            {
+                  "name": "Musée Louis Vouland",
+                  "text": "Muzeul Louis Vouland din Avignon prezintă o colecție bogată de artă decorativă și mobilier din secolele al XVII-lea și al XVIII-lea. Este găzduit într-o casă elegantă și oferă o perspectivă asupra vieții burgheze din epocile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        4.800622,
+                        43.947265
+                  ]
+            },
+            {
+                  "name": "Fort Saint-André",
+                  "text": "Această fortăreață masivă domină orașul Avignon și fluviul Ron de pe muntele Andaon. Este un exemplu remarcabil de arhitectură militară din secolul al XIV-lea, cu turnuri gemene impresionante.",
+                  "category": "castle",
+                  "coords": [
+                        4.801114,
+                        43.966203
+                  ]
+            },
+            {
+                  "name": "Tour Philippe le Bel",
+                  "text": "Acest turn medieval din Villeneuve-lès-Avignon a servit drept cap de pod pentru faimosul pod Saint-Bénézet. Vizitatorii se pot bucura de o vedere panoramică asupra împrejurimilor de la înălțimea sa.",
+                  "category": "castle",
+                  "coords": [
+                        4.797604,
+                        43.958581
+                  ]
+            },
+            {
+                  "name": "Théâtre des Halles",
+                  "text": "Situat în inima Avignonului, acest teatru este găzduit în clădirea unei foste abații reabilitate. Este un loc major pentru artele spectacolului contemporan în timpul festivalurilor orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.809744,
+                        43.946119
+                  ]
+            },
+            {
+                  "name": "Théâtre du Balcon",
+                  "text": "Acest spațiu de spectacole din Avignon este o parte activă a scenei culturale locale. Găzduiește diverse producții teatrale și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.814207,
+                        43.94736
+                  ]
+            },
+            {
+                  "name": "Théâtre du Chêne Noir",
+                  "text": "Acest spațiu de spectacole din Avignon este o parte activă a scenei culturale locale. Găzduiește diverse producții teatrale și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.809836,
+                        43.950542
+                  ]
+            },
+            {
+                  "name": "Abbaye Saint-Ruf",
+                  "text": "Ruinele acestei foste abații romanice reprezintă un reper istoric semnificativ în Avignon. Situl reflectă moștenirea religioasă medievală a orașului și este deschis celor interesați de istorie.",
+                  "category": "religious",
+                  "coords": [
+                        4.812586,
+                        43.932852
+                  ]
+            },
+            {
+                  "name": "Chapelle de l'Oratoire",
+                  "text": "Această capelă din secolul al XVIII-lea din Avignon este cunoscută pentru fațada sa remarcabilă și semnificația istorică. Este clasificată ca monument istoric și găzduiește diverse evenimente culturale.",
+                  "category": "religious",
+                  "coords": [
+                        4.803239,
+                        43.948877
+                  ]
+            },
+            {
+                  "name": "Chapelle des Pénitents Noirs",
+                  "text": "Acest sit religios din Avignon servește ca loc de reflecție și cult pentru comunitatea locală. Prezintă o arhitectură tradițională și o atmosferă liniștită pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        4.809871,
+                        43.952792
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph-Travailleur",
+                  "text": "Acest sit religios din Avignon servește ca loc de reflecție și cult pentru comunitatea locală. Prezintă o arhitectură tradițională și o atmosferă liniștită pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        4.798329,
+                        43.93492
+                  ]
+            },
+            {
+                  "name": "Hôtel de Montaigu",
+                  "text": "Această clădire istorică din Avignon reflectă moștenirea arhitecturală a regiunii. Reprezintă un punct de reper al istoriei locale și un obiectiv de interes pentru vizitatori.",
+                  "category": "castle",
+                  "coords": [
+                        4.811814,
+                        43.946848
+                  ]
+            },
+            {
+                  "name": "Au palace",
+                  "text": "Acest spațiu de spectacole din Avignon este o parte activă a scenei culturale locale. Găzduiește diverse producții teatrale și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.805319,
+                        43.944645
+                  ]
+            },
+            {
+                  "name": "Théâtre des corps saints",
+                  "text": "Acest spațiu de spectacole din Avignon este o parte activă a scenei culturale locale. Găzduiește diverse producții teatrale și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.807326,
+                        43.943855
+                  ]
+            },
+            {
+                  "name": "Théâtre des Carmes",
+                  "text": "Acest spațiu de spectacole din Avignon este o parte activă a scenei culturale locale. Găzduiește diverse producții teatrale et evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.813161,
+                        43.950476
+                  ]
+            },
+            {
+                  "name": "Chapelle des Pénitents blancs",
+                  "text": "Acest spațiu de spectacole din Avignon este o parte activă a scenei culturale locale. Găzduiește diverse producții teatrale și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.807572,
+                        43.947861
+                  ]
+            },
+            {
+                  "name": "Laurette Théâtre",
+                  "text": "Acest spațiu de spectacole din Avignon este o parte activă a scenei culturale locale. Găzduiește diverse producții teatrale și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.802575,
+                        43.949829
+                  ]
+            },
+            {
+                  "name": "Théâtre La Luna",
+                  "text": "Acest spațiu de spectacole din Avignon este o parte activă a scenei culturale locale. Găzduiește diverse producții teatrale și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.815717,
+                        43.946009
+                  ]
+            },
+            {
+                  "name": "La FabricA",
+                  "text": "Acest spațiu de spectacole din Avignon este o parte activă a scenei culturale locale. Găzduiește diverse producții teatrale și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.796593,
+                        43.934406
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Paix",
+                  "text": "Acest sit religios din Avignon servește ca loc de reflecție și cult pentru comunitatea locală. Prezintă o arhitectură tradițională și o atmosferă liniștită pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        4.845155,
+                        43.946092
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ruf",
+                  "text": "Acest sit religios din Avignon servește ca loc de reflecție și cult pentru comunitatea locală. Prezintă o arhitectură tradițională și o atmosferă liniștită pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        4.80783,
+                        43.935872
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe Saint-Côme-et-Saint-Damien",
+                  "text": "Acest sit religios din Avignon servește ca loc de reflecție și cult pentru comunitatea locală. Prezintă o arhitectură tradițională și o atmosferă liniștită pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        4.815248,
+                        43.931722
+                  ]
+            },
+            {
+                  "name": "Église Jean XXIII",
+                  "text": "Acest sit religios din Avignon servește ca loc de reflecție și cult pentru comunitatea locală. Prezintă o arhitectură tradițională și o atmosferă liniștită pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        4.821214,
+                        43.928838
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Coeur",
+                  "text": "Acest sit religios din Avignon servește ca loc de reflecție și cult pentru comunitatea locală. Prezintă o arhitectură tradițională și o atmosferă liniștită pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        4.81963,
+                        43.939757
+                  ]
             }
       ],
       "en": [
@@ -5122,6 +7417,231 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         4.853904,
                         43.961172
+                  ]
+            },
+            {
+                  "name": "Musée Pierre-de-Luxembourg",
+                  "text": "The Pierre-de-Luxembourg Museum is located in Villeneuve-lès-Avignon and displays significant sacred artworks. It houses, among others, the famous painting of the Coronation of the Virgin by Enguerrand Quarton.",
+                  "category": "museum",
+                  "coords": [
+                        4.796826,
+                        43.963731
+                  ]
+            },
+            {
+                  "name": "Chartreuse Notre-Dame-du-Val-de-Bénédiction",
+                  "text": "The Chartreuse Notre-Dame-du-Val-de-Bénédiction in Villeneuve-lès-Avignon was once one of Europe's largest Carthusian monasteries. Today, it is a museum and cultural centre that impresses visitors with its architecture and gardens.",
+                  "category": "museum",
+                  "coords": [
+                        4.79758,
+                        43.966514
+                  ]
+            },
+            {
+                  "name": "Musée Louis Vouland",
+                  "text": "The Louis Vouland Museum in Avignon presents a rich collection of decorative arts and furniture from the 17th and 18th centuries. Housed in an elegant mansion, it provides insight into the bourgeois life of past eras.",
+                  "category": "museum",
+                  "coords": [
+                        4.800622,
+                        43.947265
+                  ]
+            },
+            {
+                  "name": "Fort Saint-André",
+                  "text": "This massive fortress overlooks Avignon and the Rhône from Mount Andaon. It is a remarkable example of 14th-century military architecture with impressive twin towers.",
+                  "category": "castle",
+                  "coords": [
+                        4.801114,
+                        43.966203
+                  ]
+            },
+            {
+                  "name": "Tour Philippe le Bel",
+                  "text": "This medieval tower in Villeneuve-lès-Avignon served as a bridgehead for the famous Saint-Bénézet bridge. Visitors can enjoy panoramic views of the surroundings from its summit.",
+                  "category": "castle",
+                  "coords": [
+                        4.797604,
+                        43.958581
+                  ]
+            },
+            {
+                  "name": "Théâtre des Halles",
+                  "text": "Located in the heart of Avignon, this theater is situated in a converted former abbey building. It is a major venue for contemporary performing arts during the city's festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        4.809744,
+                        43.946119
+                  ]
+            },
+            {
+                  "name": "Théâtre du Balcon",
+                  "text": "This performance venue in Avignon is an active part of the local cultural scene. It hosts various theatrical productions and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        4.814207,
+                        43.94736
+                  ]
+            },
+            {
+                  "name": "Théâtre du Chêne Noir",
+                  "text": "This performance venue in Avignon is an active part of the local cultural scene. It hosts various theatrical productions and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        4.809836,
+                        43.950542
+                  ]
+            },
+            {
+                  "name": "Abbaye Saint-Ruf",
+                  "text": "The ruins of this former Romanesque abbey are a significant historical landmark in Avignon. The site reflects the city's medieval religious heritage and is open to those interested in history.",
+                  "category": "religious",
+                  "coords": [
+                        4.812586,
+                        43.932852
+                  ]
+            },
+            {
+                  "name": "Chapelle de l'Oratoire",
+                  "text": "This 18th-century chapel in Avignon is known for its remarkable facade and historical significance. It is classified as a historical monument and hosts various cultural events.",
+                  "category": "religious",
+                  "coords": [
+                        4.803239,
+                        43.948877
+                  ]
+            },
+            {
+                  "name": "Chapelle des Pénitents Noirs",
+                  "text": "This religious site in Avignon serves as a place for reflection and worship for the local community. It features traditional architecture and a peaceful atmosphere for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        4.809871,
+                        43.952792
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph-Travailleur",
+                  "text": "This religious site in Avignon serves as a place for reflection and worship for the local community. It features traditional architecture and a peaceful atmosphere for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        4.798329,
+                        43.93492
+                  ]
+            },
+            {
+                  "name": "Hôtel de Montaigu",
+                  "text": "This historic building in Avignon reflects the architectural heritage of the region. It stands as a landmark of local history and is a point of interest for visitors.",
+                  "category": "castle",
+                  "coords": [
+                        4.811814,
+                        43.946848
+                  ]
+            },
+            {
+                  "name": "Au palace",
+                  "text": "This performance venue in Avignon is an active part of the local cultural scene. It hosts various theatrical productions and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        4.805319,
+                        43.944645
+                  ]
+            },
+            {
+                  "name": "Théâtre des corps saints",
+                  "text": "This performance venue in Avignon is an active part of the local cultural scene. It hosts various theatrical productions and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        4.807326,
+                        43.943855
+                  ]
+            },
+            {
+                  "name": "Théâtre des Carmes",
+                  "text": "This performance venue in Avignon is an active part of the local cultural scene. It hosts various theatrical productions and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        4.813161,
+                        43.950476
+                  ]
+            },
+            {
+                  "name": "Chapelle des Pénitents blancs",
+                  "text": "This performance venue in Avignon is an active part of the local cultural scene. It hosts various theatrical productions and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        4.807572,
+                        43.947861
+                  ]
+            },
+            {
+                  "name": "Laurette Théâtre",
+                  "text": "This performance venue in Avignon is an active part of the local cultural scene. It hosts various theatrical productions and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        4.802575,
+                        43.949829
+                  ]
+            },
+            {
+                  "name": "Théâtre La Luna",
+                  "text": "This performance venue in Avignon is an active part of the local cultural scene. It hosts various theatrical productions and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        4.815717,
+                        43.946009
+                  ]
+            },
+            {
+                  "name": "La FabricA",
+                  "text": "This performance venue in Avignon is an active part of the local cultural scene. It hosts various theatrical productions and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        4.796593,
+                        43.934406
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Paix",
+                  "text": "This religious site in Avignon serves as a place for reflection and worship for the local community. It features traditional architecture and a peaceful atmosphere for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        4.845155,
+                        43.946092
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ruf",
+                  "text": "This religious site in Avignon serves as a place for reflection and worship for the local community. It features traditional architecture and a peaceful atmosphere for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        4.80783,
+                        43.935872
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe Saint-Côme-et-Saint-Damien",
+                  "text": "This religious site in Avignon serves as a place for reflection and worship for the local community. It features traditional architecture and a peaceful atmosphere for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        4.815248,
+                        43.931722
+                  ]
+            },
+            {
+                  "name": "Église Jean XXIII",
+                  "text": "This religious site in Avignon serves as a place for reflection and worship for the local community. It features traditional architecture and a peaceful atmosphere for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        4.821214,
+                        43.928838
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Coeur",
+                  "text": "This religious site in Avignon serves as a place for reflection and worship for the local community. It features traditional architecture and a peaceful atmosphere for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        4.81963,
+                        43.939757
                   ]
             }
       ],
@@ -6571,6 +9091,222 @@ export const poiExtraFranceCities: POI[] = [
                         3.122255,
                         45.796876
                   ]
+            },
+            {
+                  "name": "Hôtel Fontfreyde Centre Photographique",
+                  "text": "Dieses Fotozentrum ist in einem historischen Herrenhaus aus dem 16. Jahrhundert in Clermont Ferrand untergebracht. Es beherbergt Wechselausstellungen, die der zeitgenössischen Fotografie und der bildenden Kunst gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        3.08327,
+                        45.778896
+                  ]
+            },
+            {
+                  "name": "Muséum Henri-Lecoq",
+                  "text": "Das Henri-Lecoq-Museum in Clermont Ferrand zeigt naturgeschichtliche Sammlungen, darunter Mineralien und botanische Exponate. Es ist nach einem bekannten lokalen Naturforscher benannt und ein wichtiger Ort für die wissenschaftliche Bildung.",
+                  "category": "museum",
+                  "coords": [
+                        3.088452,
+                        45.774201
+                  ]
+            },
+            {
+                  "name": "Château de Rabanesse",
+                  "text": "Dieses Schloss aus dem 17. Jahrhundert ist eine bemerkenswerte architektonische Stätte in Clermont Ferrand. Es repräsentiert das historische Wohnerbe der Region und ist Teil der lokalen Landschaft.",
+                  "category": "castle",
+                  "coords": [
+                        3.087039,
+                        45.768702
+                  ]
+            },
+            {
+                  "name": "Sanctuaire de Trémonteix",
+                  "text": "Das Heiligtum von Trémonteix ist eine archäologische Stätte in Clermont Ferrand mit antiken Überresten. Es bietet Einblicke in die historischen religiösen Praktiken und Siedlungen der Region.",
+                  "category": "historical",
+                  "coords": [
+                        3.065287,
+                        45.79414
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Rivière",
+                  "text": "Diese Kirche in Clermont Ferrand ist für ihre religiöse Geschichte und lokale Bedeutung bekannt. Sie ist eine traditionelle Kultstätte innerhalb der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        3.085241,
+                        45.749305
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Die Église Saint-Laurent ist eine historische Kultstätte in Clermont Ferrand. Sie dient den spirituellen Bedürfnissen der Gemeinde und zeigt traditionelle kirchliche Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        3.090624,
+                        45.780133
+                  ]
+            },
+            {
+                  "name": "Synagogue Beit Yacov",
+                  "text": "Beit Yacov ist eine historische Synagoge in Clermont Ferrand, die als Zentrum des jüdischen Lebens in der Stadt dient. Sie ist eine bedeutende religiöse Stätte, die die kulturelle Vielfalt der örtlichen Gemeinschaft widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        3.078614,
+                        45.779557
+                  ]
+            },
+            {
+                  "name": "Marché Saint-Joseph",
+                  "text": "Der Marché Saint-Joseph ist ein beliebter Marktplatz in Clermont Ferrand, auf dem Besucher lokale Produkte und frische Lebensmittel finden können. Er ist ein lebendiger Ort, der die kulinarischen Traditionen der Region Auvergne zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        3.09477,
+                        45.778711
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-des-Minimes",
+                  "text": "Die Église Saint-Pierre-des-Minimes ist ein bedeutendes religiöses Bauwerk im Zentrum von Clermont-Ferrand. Sie besticht durch ihre markante Kuppel und ihre elegante klassizistische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        3.080901,
+                        45.777555
+                  ]
+            },
+            {
+                  "name": "Grotte du Chien",
+                  "text": "Die Grotte du Chien ist ein natürlicher Höhleneingang in der Nähe von Clermont-Ferrand. Sie ist bekannt für ihre geologischen Besonderheiten und die Ausströmung von vulkanischen Gasen.",
+                  "category": "natural",
+                  "coords": [
+                        3.059893,
+                        45.769232
+                  ]
+            },
+            {
+                  "name": "Puy de Chateix",
+                  "text": "Der Puy de Chateix ist ein vulkanischer Gipfel in der Umgebung von Clermont-Ferrand. Von hier aus bietet sich ein weiter Blick über die charakteristische Landschaft der Auvergne.",
+                  "category": "natural",
+                  "coords": [
+                        3.051787,
+                        45.767772
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique de la Charme",
+                  "text": "Der Jardin Botanique de la Charme ist ein öffentlicher Garten in Clermont-Ferrand. Er beherbergt eine vielfältige Sammlung regionaler und exotischer Pflanzenarten zur Bildung und Entspannung.",
+                  "category": "park",
+                  "coords": [
+                        3.123781,
+                        45.800515
+                  ]
+            },
+            {
+                  "name": "Source des Roches",
+                  "text": "Die Source des Roches ist eine natürliche Quelle in Clermont-Ferrand. Sie ist Teil der hydrogeologischen Geschichte der Region und speist lokale Wasserläufe.",
+                  "category": "natural",
+                  "coords": [
+                        3.072609,
+                        45.772532
+                  ]
+            },
+            {
+                  "name": "Manoir de Beaulieu",
+                  "text": "Das Manoir de Beaulieu ist ein historisches Herrenhaus in Clermont-Ferrand. Es zeigt die herrschaftliche Architektur vergangener Jahrhunderte in der Region Auvergne.",
+                  "category": "castle",
+                  "coords": [
+                        3.067599,
+                        45.778896
+                  ]
+            },
+            {
+                  "name": "Mur des Sarrasins",
+                  "text": "Die Mur des Sarrasins ist eine archäologische Fundstätte in Clermont-Ferrand. Diese antiken Mauerreste zeugen von der langen Besiedlungsgeschichte dieser Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        3.078474,
+                        45.776013
+                  ]
+            },
+            {
+                  "name": "Fanum gallo-romain",
+                  "text": "Das Fanum gallo-romain ist eine archäologische Ausgrabungsstätte in Clermont-Ferrand. Es bewahrt die Überreste eines antiken gallo-römischen Tempels.",
+                  "category": "historical",
+                  "coords": [
+                        3.078124,
+                        45.806767
+                  ]
+            },
+            {
+                  "name": "Hôtel Jean Doyac",
+                  "text": "Das Hôtel Jean Doyac ist ein historisches Herrenhaus in Clermont-Ferrand. Die Architektur spiegelt den Wohlstand und Stil der Renaissance in dieser Region wider.",
+                  "category": "historical",
+                  "coords": [
+                        3.111466,
+                        45.793331
+                  ]
+            },
+            {
+                  "name": "Hôtel Pradal",
+                  "text": "Das Hôtel Pradal ist ein elegantes historisches Gebäude in Clermont-Ferrand. Es ist ein markantes Beispiel für die bürgerliche Architektur der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        3.114134,
+                        45.793307
+                  ]
+            },
+            {
+                  "name": "Ancien couvent",
+                  "text": "Das Ancien couvent ist ein ehemaliges Klostergebäude in Clermont-Ferrand. Heute dient es als Zeugnis der geistlichen Geschichte und Architektur der Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        3.077098,
+                        45.78093
+                  ]
+            },
+            {
+                  "name": "La Coopérative de Mai",
+                  "text": "La Coopérative de Mai ist ein bekanntes Musiktheater und Konzerthaus in Clermont-Ferrand. Es ist ein zentraler Ort für moderne Musik und kulturelle Veranstaltungen in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        3.100191,
+                        45.788098
+                  ]
+            },
+            {
+                  "name": "Conservatoire de Musique Emmanuel Chabrier",
+                  "text": "Das Conservatoire de Musique Emmanuel Chabrier ist ein Kulturzentrum in Clermont-Ferrand. Es widmet sich der musikalischen Ausbildung und bereichert das künstlerische Leben der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        3.087573,
+                        45.776302
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Église Saint-Martin ist eine traditionelle Kirche in Clermont-Ferrand. Das Gebäude ist ein fester Bestandteil des religiösen und architektonischen Stadtbildes.",
+                  "category": "religious",
+                  "coords": [
+                        3.111783,
+                        45.750642
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Die Église Saint-Pierre ist ein Sakralbau in Clermont-Ferrand. Sie dient als Ort der Andacht und ist für ihre schlichte, aber würdevolle Bauweise bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        3.085933,
+                        45.750242
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Die Église du Sacré-Cœur ist eine Kirche in Clermont-Ferrand. Ihre neugotische Architektur und die Lage machen sie zu einer bedeutenden religiösen Sehenswürdigkeit.",
+                  "category": "religious",
+                  "coords": [
+                        3.055457,
+                        45.76749
+                  ]
             }
       ],
       "hu": [
@@ -6779,6 +9515,222 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.122255,
                         45.796876
+                  ]
+            },
+            {
+                  "name": "Hôtel Fontfreyde Centre Photographique",
+                  "text": "Ez a fotográfiai központ egy történelmi, 16. századi kastélyban található Clermont Ferrandban. Kortárs fotográfiának és vizuális művészeteknek szentelt időszaki kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        3.08327,
+                        45.778896
+                  ]
+            },
+            {
+                  "name": "Muséum Henri-Lecoq",
+                  "text": "A clermont-ferrand-i Henri-Lecoq Múzeum természettudományi gyűjteményeket, köztük ásványokat és botanikai példányokat mutat be. Egy neves helyi természettudósról nevezték el, és a természettudományos oktatás kulcsfontosságú helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        3.088452,
+                        45.774201
+                  ]
+            },
+            {
+                  "name": "Château de Rabanesse",
+                  "text": "Ez a 17. századi kastély nevezetes építészeti helyszín Clermont Ferrandban. A régió történelmi lakóépületi örökségét képviseli, és a helyi táj része.",
+                  "category": "castle",
+                  "coords": [
+                        3.087039,
+                        45.768702
+                  ]
+            },
+            {
+                  "name": "Sanctuaire de Trémonteix",
+                  "text": "A trémonteix-i szentély egy régészeti lelőhely Clermont Ferrandban, ahol ókori maradványok találhatók. Betekintést nyújt a terület történelmi vallási gyakorlataiba és településeibe.",
+                  "category": "historical",
+                  "coords": [
+                        3.065287,
+                        45.79414
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Rivière",
+                  "text": "Ez a clermont-ferrand-i templom vallástörténetéről és helyi jelentőségéről ismert. Hagyományos istentiszteleti hely a városon belül.",
+                  "category": "religious",
+                  "coords": [
+                        3.085241,
+                        45.749305
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Az Église Saint-Laurent egy történelmi istentiszteleti hely Clermont Ferrandban. A közösség spirituális igényeit szolgálja, és hagyományos egyházi építészetet mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        3.090624,
+                        45.780133
+                  ]
+            },
+            {
+                  "name": "Synagogue Beit Yacov",
+                  "text": "A Beit Yacov egy történelmi zsinagóga Clermont Ferrandban, amely a város zsidó életének központjaként szolgál. Jelentős vallási helyszín, amely a helyi közösség kulturális sokszínűségét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        3.078614,
+                        45.779557
+                  ]
+            },
+            {
+                  "name": "Marché Saint-Joseph",
+                  "text": "A Marché Saint-Joseph egy népszerű piac Clermont Ferrandban, ahol a látogatók helyi termékeket és friss ételeket találhatnak. Ez egy nyüzsgő helyszín, amely bemutatja az Auvergne régió kulináris hagyományait.",
+                  "category": "cultural",
+                  "coords": [
+                        3.09477,
+                        45.778711
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-des-Minimes",
+                  "text": "Az Église Saint-Pierre-des-Minimes egy jelentős vallási épület Clermont-Ferrand központjában. Figyelemre méltó kupolája és elegáns klasszicista építészete vonzza a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        3.080901,
+                        45.777555
+                  ]
+            },
+            {
+                  "name": "Grotte du Chien",
+                  "text": "A Grotte du Chien egy természetes barlangbejárat Clermont-Ferrand közelében. Geológiai sajátosságairól és a feltörő vulkáni gázokról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        3.059893,
+                        45.769232
+                  ]
+            },
+            {
+                  "name": "Puy de Chateix",
+                  "text": "A Puy de Chateix egy vulkáni csúcs Clermont-Ferrand környékén. Innen tágas kilátás nyílik Auvergne jellegzetes tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        3.051787,
+                        45.767772
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique de la Charme",
+                  "text": "A Jardin Botanique de la Charme egy nyilvános botanikus kert Clermont-Ferrandban. Regionális és egzotikus növényfajok változatos gyűjteményének ad otthont oktatási és kikapcsolódási céllal.",
+                  "category": "park",
+                  "coords": [
+                        3.123781,
+                        45.800515
+                  ]
+            },
+            {
+                  "name": "Source des Roches",
+                  "text": "A Source des Roches egy természetes forrás Clermont-Ferrandban. A régió hidrogeológiai történetének része, és helyi vízfolyásokat táplál.",
+                  "category": "natural",
+                  "coords": [
+                        3.072609,
+                        45.772532
+                  ]
+            },
+            {
+                  "name": "Manoir de Beaulieu",
+                  "text": "A Manoir de Beaulieu egy történelmi udvarház Clermont-Ferrandban. Az Auvergne régió elmúlt évszázadainak nemesi építészetét mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        3.067599,
+                        45.778896
+                  ]
+            },
+            {
+                  "name": "Mur des Sarrasins",
+                  "text": "A Mur des Sarrasins egy régészeti lelőhely Clermont-Ferrandban. Ezek az ősi maradványok a környék hosszú betelepülési történelméről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        3.078474,
+                        45.776013
+                  ]
+            },
+            {
+                  "name": "Fanum gallo-romain",
+                  "text": "A Fanum gallo-romain egy régészeti ásatási terület Clermont-Ferrandban. Egy ősi gall-római templom maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        3.078124,
+                        45.806767
+                  ]
+            },
+            {
+                  "name": "Hôtel Jean Doyac",
+                  "text": "A Hôtel Jean Doyac egy történelmi kúria Clermont-Ferrandban. Építészete a reneszánsz kor gazdagságát és stílusát tükrözi a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        3.111466,
+                        45.793331
+                  ]
+            },
+            {
+                  "name": "Hôtel Pradal",
+                  "text": "A Hôtel Pradal egy elegáns történelmi épület Clermont-Ferrandban. A város polgári építészetének egyik jelentős példája.",
+                  "category": "historical",
+                  "coords": [
+                        3.114134,
+                        45.793307
+                  ]
+            },
+            {
+                  "name": "Ancien couvent",
+                  "text": "Az Ancien couvent egy egykori kolostorépület Clermont-Ferrandban. Ma a környék egyházi történelmének és építészetének tanújaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        3.077098,
+                        45.78093
+                  ]
+            },
+            {
+                  "name": "La Coopérative de Mai",
+                  "text": "A La Coopérative de Mai egy jól ismert zenés színház és koncertterem Clermont-Ferrandban. A város modern zenei életének és kulturális eseményeinek központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        3.100191,
+                        45.788098
+                  ]
+            },
+            {
+                  "name": "Conservatoire de Musique Emmanuel Chabrier",
+                  "text": "A Conservatoire de Musique Emmanuel Chabrier egy kulturális központ Clermont-Ferrandban. A zenei oktatásnak szentelték, és gazdagítja a régió művészeti életét.",
+                  "category": "cultural",
+                  "coords": [
+                        3.087573,
+                        45.776302
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Az Église Saint-Martin egy hagyományos templom Clermont-Ferrandban. Az épület a város vallási és építészeti arculatának szerves része.",
+                  "category": "religious",
+                  "coords": [
+                        3.111783,
+                        45.750642
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Az Église Saint-Pierre egy szakrális épület Clermont-Ferrandban. Az áhítat helyszíneként szolgál, és egyszerű, de méltóságteljes szerkezetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        3.085933,
+                        45.750242
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Az Église du Sacré-Cœur egy templom Clermont-Ferrandban. Neogótikus építészete és elhelyezkedése jelentős vallási látnivalóvá teszi.",
+                  "category": "religious",
+                  "coords": [
+                        3.055457,
+                        45.76749
                   ]
             }
       ],
@@ -6989,6 +9941,222 @@ export const poiExtraFranceCities: POI[] = [
                         3.122255,
                         45.796876
                   ]
+            },
+            {
+                  "name": "Hôtel Fontfreyde Centre Photographique",
+                  "text": "Acest centru fotografic este găzduit într-un conac istoric din secolul al XVI-lea din Clermont Ferrand. Găzduiește expoziții temporare dedicate fotografiei contemporane și artelor vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        3.08327,
+                        45.778896
+                  ]
+            },
+            {
+                  "name": "Muséum Henri-Lecoq",
+                  "text": "Muzeul Henri-Lecoq din Clermont Ferrand prezintă colecții de istorie naturală, inclusiv minerale și specimene botanice. Poartă numele unui naturalist local proeminent și este un site cheie pentru educația științifică.",
+                  "category": "museum",
+                  "coords": [
+                        3.088452,
+                        45.774201
+                  ]
+            },
+            {
+                  "name": "Château de Rabanesse",
+                  "text": "Acest castel din secolul al XVII-lea este un sit arhitectural remarcabil din Clermont Ferrand. Reprezintă moștenirea rezidențială istorică a regiunii și face parte din peisajul local.",
+                  "category": "castle",
+                  "coords": [
+                        3.087039,
+                        45.768702
+                  ]
+            },
+            {
+                  "name": "Sanctuaire de Trémonteix",
+                  "text": "Sanctuarul Trémonteix este un sit arheologic din Clermont Ferrand care prezintă vestigii antice. Oferă informații despre practicile religioase istorice și așezările din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        3.065287,
+                        45.79414
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Rivière",
+                  "text": "Această biserică din Clermont Ferrand este cunoscută pentru istoria sa religioasă și semnificația locală. Este un lăcaș de cult tradițional situat în interiorul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.085241,
+                        45.749305
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Église Saint-Laurent este un lăcaș de cult istoric situat în Clermont Ferrand. Acesta servește nevoile spirituale ale comunității și prezintă arhitectura ecleziastică tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        3.090624,
+                        45.780133
+                  ]
+            },
+            {
+                  "name": "Synagogue Beit Yacov",
+                  "text": "Beit Yacov este o sinagogă istorică din Clermont Ferrand, care servește ca centru pentru viața evreiască din oraș. Este un sit religios semnificativ care reflectă diversitatea culturală a comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        3.078614,
+                        45.779557
+                  ]
+            },
+            {
+                  "name": "Marché Saint-Joseph",
+                  "text": "Marché Saint-Joseph este o piață populară din Clermont Ferrand, unde vizitatorii pot găsi produse locale și alimente proaspete. Este un site vibrant care prezintă tradițiile culinare ale regiunii Auvergne.",
+                  "category": "cultural",
+                  "coords": [
+                        3.09477,
+                        45.778711
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-des-Minimes",
+                  "text": "Église Saint-Pierre-des-Minimes este un lăcaș de cult important situat în centrul orașului Clermont-Ferrand. Se remarcă prin cupola sa impunătoare și arhitectura clasicistă elegantă.",
+                  "category": "religious",
+                  "coords": [
+                        3.080901,
+                        45.777555
+                  ]
+            },
+            {
+                  "name": "Grotte du Chien",
+                  "text": "Grotte du Chien este o intrare naturală în peșteră situată lângă Clermont-Ferrand. Este cunoscută pentru particularitățile sale geologice și emanațiile de gaze vulcanice.",
+                  "category": "natural",
+                  "coords": [
+                        3.059893,
+                        45.769232
+                  ]
+            },
+            {
+                  "name": "Puy de Chateix",
+                  "text": "Puy de Chateix este un vârf vulcanic situat în împrejurimile orașului Clermont-Ferrand. De aici se deschide o vedere panoramică asupra peisajului caracteristic al regiunii Auvergne.",
+                  "category": "natural",
+                  "coords": [
+                        3.051787,
+                        45.767772
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique de la Charme",
+                  "text": "Jardin Botanique de la Charme este o grădină botanică publică din Clermont-Ferrand. Găzduiește o colecție diversă de plante regionale și exotice pentru educație și relaxare.",
+                  "category": "park",
+                  "coords": [
+                        3.123781,
+                        45.800515
+                  ]
+            },
+            {
+                  "name": "Source des Roches",
+                  "text": "Source des Roches este o sursă naturală de apă situată în Clermont-Ferrand. Face parte din istoria hidrogeologică a regiunii și alimentează cursurile locale de apă.",
+                  "category": "natural",
+                  "coords": [
+                        3.072609,
+                        45.772532
+                  ]
+            },
+            {
+                  "name": "Manoir de Beaulieu",
+                  "text": "Manoir de Beaulieu este un conac istoric situat în Clermont-Ferrand. Acesta exemplifică arhitectura nobiliară a secolelor trecute din regiunea Auvergne.",
+                  "category": "castle",
+                  "coords": [
+                        3.067599,
+                        45.778896
+                  ]
+            },
+            {
+                  "name": "Mur des Sarrasins",
+                  "text": "Mur des Sarrasins este un sit arheologic situat în Clermont-Ferrand. Aceste vestigii antice de ziduri atestă istoria lungă de locuire a acestei zone.",
+                  "category": "historical",
+                  "coords": [
+                        3.078474,
+                        45.776013
+                  ]
+            },
+            {
+                  "name": "Fanum gallo-romain",
+                  "text": "Fanum gallo-romain este un sit arheologic situat în Clermont-Ferrand. Acesta păstrează vestigiile unui templu antic galo-roman.",
+                  "category": "historical",
+                  "coords": [
+                        3.078124,
+                        45.806767
+                  ]
+            },
+            {
+                  "name": "Hôtel Jean Doyac",
+                  "text": "Hôtel Jean Doyac este un conac istoric din Clermont-Ferrand. Arhitectura sa reflectă prosperitatea și stilul Renașterii în această regiune.",
+                  "category": "historical",
+                  "coords": [
+                        3.111466,
+                        45.793331
+                  ]
+            },
+            {
+                  "name": "Hôtel Pradal",
+                  "text": "Hôtel Pradal este o clădire istorică elegantă situată în Clermont-Ferrand. Reprezintă un exemplu notabil al arhitecturii burgheze din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        3.114134,
+                        45.793307
+                  ]
+            },
+            {
+                  "name": "Ancien couvent",
+                  "text": "Ancien couvent este o fostă clădire mănăstirească din Clermont-Ferrand. Astăzi servește ca mărturie a istoriei spirituale și arhitecturii zonei.",
+                  "category": "religious",
+                  "coords": [
+                        3.077098,
+                        45.78093
+                  ]
+            },
+            {
+                  "name": "La Coopérative de Mai",
+                  "text": "La Coopérative de Mai este un teatru muzical și o sală de concerte cunoscută din Clermont-Ferrand. Este un loc central pentru muzica modernă și evenimente culturale în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        3.100191,
+                        45.788098
+                  ]
+            },
+            {
+                  "name": "Conservatoire de Musique Emmanuel Chabrier",
+                  "text": "Conservatoire de Musique Emmanuel Chabrier este un centru cultural din Clermont-Ferrand. Este dedicat educației muzicale și îmbogățește viața artistică a regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        3.087573,
+                        45.776302
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin este o biserică tradițională din Clermont-Ferrand. Clădirea este o parte integrantă a peisajului religios și arhitectural al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.111783,
+                        45.750642
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Église Saint-Pierre este un lăcaș de cult situat în Clermont-Ferrand. Servește ca loc de rugăciune și este cunoscută pentru structura sa simplă, dar demnă.",
+                  "category": "religious",
+                  "coords": [
+                        3.085933,
+                        45.750242
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Église du Sacré-Cœur este o biserică din Clermont-Ferrand. Arhitectura sa neogotică și locația o fac un obiectiv religios important.",
+                  "category": "religious",
+                  "coords": [
+                        3.055457,
+                        45.76749
+                  ]
             }
       ],
       "en": [
@@ -7197,6 +10365,222 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.122255,
                         45.796876
+                  ]
+            },
+            {
+                  "name": "Hôtel Fontfreyde Centre Photographique",
+                  "text": "This photographic center is housed in a historic 16th-century mansion in Clermont Ferrand. It hosts temporary exhibitions dedicated to contemporary photography and visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        3.08327,
+                        45.778896
+                  ]
+            },
+            {
+                  "name": "Muséum Henri-Lecoq",
+                  "text": "The Henri-Lecoq Museum in Clermont Ferrand showcases natural history collections, including minerals and botanical specimens. It is named after a prominent local naturalist and is a key site for science education.",
+                  "category": "museum",
+                  "coords": [
+                        3.088452,
+                        45.774201
+                  ]
+            },
+            {
+                  "name": "Château de Rabanesse",
+                  "text": "This 17th-century castle is a notable architectural site in Clermont Ferrand. It represents the historic residential heritage of the region and is part of the local landscape.",
+                  "category": "castle",
+                  "coords": [
+                        3.087039,
+                        45.768702
+                  ]
+            },
+            {
+                  "name": "Sanctuaire de Trémonteix",
+                  "text": "The Trémonteix sanctuary is an archaeological site in Clermont Ferrand featuring ancient remains. It provides insights into the historic religious practices and settlements of the area.",
+                  "category": "historical",
+                  "coords": [
+                        3.065287,
+                        45.79414
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Rivière",
+                  "text": "This church in Clermont Ferrand is known for its religious history and local significance. It is a traditional place of worship situated within the city.",
+                  "category": "religious",
+                  "coords": [
+                        3.085241,
+                        45.749305
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Église Saint-Laurent is a historic place of worship located in Clermont Ferrand. It serves the spiritual needs of the community and showcases traditional ecclesiastical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        3.090624,
+                        45.780133
+                  ]
+            },
+            {
+                  "name": "Synagogue Beit Yacov",
+                  "text": "Beit Yacov is a historic synagogue in Clermont Ferrand, serving as a center for Jewish life in the city. It is a significant religious site that reflects the cultural diversity of the local community.",
+                  "category": "religious",
+                  "coords": [
+                        3.078614,
+                        45.779557
+                  ]
+            },
+            {
+                  "name": "Marché Saint-Joseph",
+                  "text": "Marché Saint-Joseph is a popular marketplace in Clermont Ferrand where visitors can find local products and fresh food. It is a vibrant site that showcases the culinary traditions of the Auvergne region.",
+                  "category": "cultural",
+                  "coords": [
+                        3.09477,
+                        45.778711
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-des-Minimes",
+                  "text": "The Église Saint-Pierre-des-Minimes is a significant religious building in the heart of Clermont-Ferrand. It is known for its prominent dome and elegant classical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        3.080901,
+                        45.777555
+                  ]
+            },
+            {
+                  "name": "Grotte du Chien",
+                  "text": "The Grotte du Chien is a natural cave entrance located near Clermont-Ferrand. It is famous for its geological characteristics and the emission of volcanic gases.",
+                  "category": "natural",
+                  "coords": [
+                        3.059893,
+                        45.769232
+                  ]
+            },
+            {
+                  "name": "Puy de Chateix",
+                  "text": "The Puy de Chateix is a volcanic peak located in the surroundings of Clermont-Ferrand. It offers a wide view over the characteristic landscape of the Auvergne region.",
+                  "category": "natural",
+                  "coords": [
+                        3.051787,
+                        45.767772
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique de la Charme",
+                  "text": "The Jardin Botanique de la Charme is a public botanical garden in Clermont-Ferrand. It features a diverse collection of regional and exotic plant species for education and leisure.",
+                  "category": "park",
+                  "coords": [
+                        3.123781,
+                        45.800515
+                  ]
+            },
+            {
+                  "name": "Source des Roches",
+                  "text": "The Source des Roches is a natural spring located in Clermont-Ferrand. It is part of the region's hydrogeological history and feeds local watercourses.",
+                  "category": "natural",
+                  "coords": [
+                        3.072609,
+                        45.772532
+                  ]
+            },
+            {
+                  "name": "Manoir de Beaulieu",
+                  "text": "The Manoir de Beaulieu is a historic manor located in Clermont-Ferrand. It showcases the noble architecture of past centuries in the Auvergne region.",
+                  "category": "castle",
+                  "coords": [
+                        3.067599,
+                        45.778896
+                  ]
+            },
+            {
+                  "name": "Mur des Sarrasins",
+                  "text": "The Mur des Sarrasins is an archaeological site located in Clermont-Ferrand. These ancient wall remains testify to the long history of settlement in the area.",
+                  "category": "historical",
+                  "coords": [
+                        3.078474,
+                        45.776013
+                  ]
+            },
+            {
+                  "name": "Fanum gallo-romain",
+                  "text": "The Fanum gallo-romain is an archaeological site in Clermont-Ferrand. It preserves the remains of an ancient Gallo-Roman temple.",
+                  "category": "historical",
+                  "coords": [
+                        3.078124,
+                        45.806767
+                  ]
+            },
+            {
+                  "name": "Hôtel Jean Doyac",
+                  "text": "The Hôtel Jean Doyac is a historic manor house in Clermont-Ferrand. Its architecture reflects the prosperity and style of the Renaissance in this region.",
+                  "category": "historical",
+                  "coords": [
+                        3.111466,
+                        45.793331
+                  ]
+            },
+            {
+                  "name": "Hôtel Pradal",
+                  "text": "The Hôtel Pradal is an elegant historic building located in Clermont-Ferrand. It serves as a notable example of the city's civic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        3.114134,
+                        45.793307
+                  ]
+            },
+            {
+                  "name": "Ancien couvent",
+                  "text": "The Ancien couvent is a former monastery building in Clermont-Ferrand. Today, it stands as a witness to the spiritual history and architecture of the area.",
+                  "category": "religious",
+                  "coords": [
+                        3.077098,
+                        45.78093
+                  ]
+            },
+            {
+                  "name": "La Coopérative de Mai",
+                  "text": "La Coopérative de Mai is a well-known music theatre and concert hall in Clermont-Ferrand. It is a central hub for modern music and cultural events in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        3.100191,
+                        45.788098
+                  ]
+            },
+            {
+                  "name": "Conservatoire de Musique Emmanuel Chabrier",
+                  "text": "The Conservatoire de Musique Emmanuel Chabrier is an arts centre in Clermont-Ferrand. It is dedicated to musical education and enriches the artistic life of the region.",
+                  "category": "cultural",
+                  "coords": [
+                        3.087573,
+                        45.776302
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "The Église Saint-Martin is a traditional church located in Clermont-Ferrand. The building is an integral part of the city's religious and architectural landscape.",
+                  "category": "religious",
+                  "coords": [
+                        3.111783,
+                        45.750642
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "The Église Saint-Pierre is a religious building in Clermont-Ferrand. It serves as a place of worship and is known for its simple yet dignified structure.",
+                  "category": "religious",
+                  "coords": [
+                        3.085933,
+                        45.750242
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "The Église du Sacré-Cœur is a church in Clermont-Ferrand. Its Neo-Gothic architecture and location make it a significant religious landmark.",
+                  "category": "religious",
+                  "coords": [
+                        3.055457,
+                        45.76749
                   ]
             }
       ],

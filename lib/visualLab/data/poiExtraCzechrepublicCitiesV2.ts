@@ -786,6 +786,213 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.323928,
                         49.848033
                   ]
+            },
+            {
+                  "name": "Galerie výtvarného umění v Ostravě",
+                  "text": "Dieses Museum in Ostrava präsentiert interessante Ausstellungen zur lokalen Geschichte oder Kunst. Es bietet Besuchern einen tiefen Einblick in das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.286783,
+                        49.834056
+                  ]
+            },
+            {
+                  "name": "Schlesisch-Ostrauer Burg",
+                  "text": "Diese historische Burg in Ostrava zeugt von der reichen Vergangenheit der Region. Besucher können die alten Mauern erkunden und die besondere Atmosphäre der Anlage genießen.",
+                  "category": "castle",
+                  "coords": [
+                        18.299413,
+                        49.830464
+                  ]
+            },
+            {
+                  "name": "Církev Ježíše Krista Svatých posledních dnů",
+                  "text": "Diese Kirche in Ostrava ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        18.271058,
+                        49.850643
+                  ]
+            },
+            {
+                  "name": "sv. Josef",
+                  "text": "Diese Kirche in Ostrava ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        18.278283,
+                        49.827591
+                  ]
+            },
+            {
+                  "name": "svatý Václav",
+                  "text": "Diese Kirche in Ostrava ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        18.294882,
+                        49.835791
+                  ]
+            },
+            {
+                  "name": "Evangelický Kristův kostel",
+                  "text": "Diese Kirche in Ostrava ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        18.287153,
+                        49.839093
+                  ]
+            },
+            {
+                  "name": "vodárna Hladnov",
+                  "text": "Diese Sehenswürdigkeit in Ostrava ist ein beliebtes Ziel für Besucher der Region. Sie bietet interessante Einblicke und ist leicht zu Fuß oder mit öffentlichen Verkehrsmitteln erreichbar.",
+                  "category": "landmark",
+                  "coords": [
+                        18.304365,
+                        49.842854
+                  ]
+            },
+            {
+                  "name": "Dolní oblast Vítkovice",
+                  "text": "Die Dolní oblast Vítkovice in Ostrava ist ein einzigartiges Industriedenkmal in einem ehemaligen Eisenhüttenwerk. Das Areal bietet heute Raum für kulturelle Veranstaltungen, Bildung und technische Sehenswürdigkeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        18.279981,
+                        49.81935
+                  ]
+            },
+            {
+                  "name": "halda Ema",
+                  "text": "Die Halda Ema ist ein künstlicher Hügel in Ostrava, der durch Bergbauabfälle entstanden ist und im Inneren noch immer brennt. Wanderer genießen von der Spitze aus einen weiten Panoramablick über die gesamte Region.",
+                  "category": "natural",
+                  "coords": [
+                        18.314872,
+                        49.839795
+                  ]
+            },
+            {
+                  "name": "Schloss Witkowitz",
+                  "text": "Diese historische Burg in Ostrava zeugt von der reichen Vergangenheit der Region. Besucher können die alten Mauern erkunden und die besondere Atmosphäre der Anlage genießen.",
+                  "category": "castle",
+                  "coords": [
+                        18.272225,
+                        49.81722
+                  ]
+            },
+            {
+                  "name": "Ostravské muzeum",
+                  "text": "Dieses Museum in Ostrava präsentiert interessante Ausstellungen zur lokalen Geschichte oder Kunst. Es bietet Besuchern einen tiefen Einblick in das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.293008,
+                        49.835099
+                  ]
+            },
+            {
+                  "name": "Národní zemědělské muzeum",
+                  "text": "Dieses Museum in Ostrava präsentiert interessante Ausstellungen zur lokalen Geschichte oder Kunst. Es bietet Besuchern einen tiefen Einblick in das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.281094,
+                        49.821534
+                  ]
+            },
+            {
+                  "name": "Pomník osvobození Rudou armádou",
+                  "text": "Dieses Denkmal in Ostrava erinnert an bedeutende historische Ereignisse oder Persönlichkeiten. Es ist ein fester Bestandteil des Stadtbildes und lädt zum Innehalten und Gedenken ein.",
+                  "category": "historical",
+                  "coords": [
+                        18.297756,
+                        49.83799
+                  ]
+            },
+            {
+                  "name": "Komorní scéna Aréna",
+                  "text": "Dieses Theater in Ostrava ist bekannt für seine vielfältigen Aufführungen und kulturellen Veranstaltungen. Es bietet eine Bühne für lokale und internationale Künstler in einem ansprechenden Ambiente.",
+                  "category": "cultural",
+                  "coords": [
+                        18.295576,
+                        49.83735
+                  ]
+            },
+            {
+                  "name": "Divadlo Petra Bezruče",
+                  "text": "Dieses Theater in Ostrava ist bekannt für seine vielfältigen Aufführungen und kulturellen Veranstaltungen. Es bietet eine Bühne für lokale und internationale Künstler in einem ansprechenden Ambiente.",
+                  "category": "cultural",
+                  "coords": [
+                        18.275113,
+                        49.830982
+                  ]
+            },
+            {
+                  "name": "Divadlo loutek",
+                  "text": "Dieses Theater in Ostrava ist bekannt für seine vielfältigen Aufführungen und kulturellen Veranstaltungen. Es bietet eine Bühne für lokale und internationale Künstler in einem ansprechenden Ambiente.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292603,
+                        49.833914
+                  ]
+            },
+            {
+                  "name": "Divadlo Jiřího Myrona",
+                  "text": "Dieses Theater in Ostrava ist bekannt für seine vielfältigen Aufführungen und kulturellen Veranstaltungen. Es bietet eine Bühne für lokale und internationale Künstler in einem ansprechenden Ambiente.",
+                  "category": "cultural",
+                  "coords": [
+                        18.288236,
+                        49.836396
+                  ]
+            },
+            {
+                  "name": "Divadlo Antonína Dvořáka",
+                  "text": "Dieses Theater in Ostrava ist bekannt für seine vielfältigen Aufführungen und kulturellen Veranstaltungen. Es bietet eine Bühne für lokale und internationale Künstler in einem ansprechenden Ambiente.",
+                  "category": "cultural",
+                  "coords": [
+                        18.290825,
+                        49.832722
+                  ]
+            },
+            {
+                  "name": "kostel Panny Marie Královny",
+                  "text": "Diese Kirche in Ostrava ist ein ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        18.256438,
+                        49.832206
+                  ]
+            },
+            {
+                  "name": "Vysoká pec č.1",
+                  "text": "Diese Sehenswürdigkeit in Ostrava ist ein beliebtes Ziel für Besucher der Region. Sie bietet interessante Einblicke und ist leicht zu Fuß oder mit öffentlichen Verkehrsmitteln erreichbar.",
+                  "category": "landmark",
+                  "coords": [
+                        18.276897,
+                        49.819337
+                  ]
+            },
+            {
+                  "name": "Rovninské balvany",
+                  "text": "Dieses Naturschutzgebiet bei Ostrava bewahrt seltene geologische Besonderheiten oder Pflanzenarten. Informationstafeln am Wegesrand erläutern die Entstehung und Bedeutung dieser Naturdenkmäler.",
+                  "category": "natural",
+                  "coords": [
+                        18.29432,
+                        49.83309
+                  ]
+            },
+            {
+                  "name": "Muzeum Keltičkova kovárna",
+                  "text": "Dieses Museum in Ostrava präsentiert interessante Ausstellungen zur lokalen Geschichte oder Kunst. Es bietet Besuchern einen tiefen Einblick in das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.298834,
+                        49.837792
+                  ]
+            },
+            {
+                  "name": "Železniční muzeum moravskoslezské",
+                  "text": "Dieses Museum in Ostrava präsentiert interessante Ausstellungen zur lokalen Geschichte oder Kunst. Es bietet Besuchern einen tiefen Einblick in das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.282485,
+                        49.828934
+                  ]
             }
       ],
       "hu": [
@@ -985,6 +1192,213 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.323928,
                         49.848033
+                  ]
+            },
+            {
+                  "name": "Galerie výtvarného umění v Ostravě",
+                  "text": "Ez a Ostrava városában található múzeum érdekes kiállításokat mutat be a helyi történelemről vagy művészetről. Mély betekintést nyújt a látogatóknak a régió kulturális örökségébe.",
+                  "category": "museum",
+                  "coords": [
+                        18.286783,
+                        49.834056
+                  ]
+            },
+            {
+                  "name": "Slezskoostravský hrad",
+                  "text": "Ez a Ostrava városában található történelmi vár a régió gazdag múltjáról tanúskodik. A látogatók felfedezhetik a régi falakat és élvezhetik az építmény különleges hangulatát.",
+                  "category": "castle",
+                  "coords": [
+                        18.299413,
+                        49.830464
+                  ]
+            },
+            {
+                  "name": "Církev Ježíše Krista Svatých posledních dnů",
+                  "text": "Ez a Ostrava városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        18.271058,
+                        49.850643
+                  ]
+            },
+            {
+                  "name": "sv. Josef",
+                  "text": "Ez a Ostrava városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        18.278283,
+                        49.827591
+                  ]
+            },
+            {
+                  "name": "svatý Václav",
+                  "text": "Ez a Ostrava városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        18.294882,
+                        49.835791
+                  ]
+            },
+            {
+                  "name": "Evangelický Kristův kostel",
+                  "text": "Ez a Ostrava városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        18.287153,
+                        49.839093
+                  ]
+            },
+            {
+                  "name": "vodárna Hladnov",
+                  "text": "Ez a Ostrava városában található látnivaló népszerű célpont a régió látogatói számára. Érdekes betekintést nyújt, és gyalog vagy tömegközlekedéssel könnyen megközelíthető.",
+                  "category": "landmark",
+                  "coords": [
+                        18.304365,
+                        49.842854
+                  ]
+            },
+            {
+                  "name": "Dolní oblast Vítkovice",
+                  "text": "Az ostrava-i Dolní oblast Vítkovice egy egyedülálló ipari műemlék egy korábbi vasmű területén. A terület ma kulturális eseményeknek, oktatásnak és műszaki látnivalóknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        18.279981,
+                        49.81935
+                  ]
+            },
+            {
+                  "name": "halda Ema",
+                  "text": "A Halda Ema egy bányászati meddőhányóból kialakult mesterséges domb Ostravában, amelynek belseje ma is ég. A túrázók a csúcsról széles panorámát élvezhetnek az egész régióra.",
+                  "category": "natural",
+                  "coords": [
+                        18.314872,
+                        49.839795
+                  ]
+            },
+            {
+                  "name": "Schloss Witkowitz",
+                  "text": "Ez a Ostrava városában található történelmi vár a régió gazdag múltjáról tanúskodik. A látogatók felfedezhetik a régi falakat és élvezhetik az építmény különleges hangulatát.",
+                  "category": "castle",
+                  "coords": [
+                        18.272225,
+                        49.81722
+                  ]
+            },
+            {
+                  "name": "Ostravské muzeum",
+                  "text": "Ez a Ostrava városában található múzeum érdekes kiállításokat mutat be a helyi történelemről vagy művészetről. Mély betekintést nyújt a látogatóknak a régió kulturális örökségébe.",
+                  "category": "museum",
+                  "coords": [
+                        18.293008,
+                        49.835099
+                  ]
+            },
+            {
+                  "name": "Národní zemědělské muzeum",
+                  "text": "Ez a Ostrava városában található múzeum érdekes kiállításokat mutat be a helyi történelemről oder művészetről. Mély betekintést nyújt a látogatóknak a régió kulturális örökségébe.",
+                  "category": "museum",
+                  "coords": [
+                        18.281094,
+                        49.821534
+                  ]
+            },
+            {
+                  "name": "Pomník osvobození Rudou armádou",
+                  "text": "Ez a Ostrava városában található emlékmű jelentős történelmi eseményekre vagy személyiségekre emlékeztet. A városkép szerves része, amely megállásra és emlékezésre késztet.",
+                  "category": "historical",
+                  "coords": [
+                        18.297756,
+                        49.83799
+                  ]
+            },
+            {
+                  "name": "Komorní scéna Aréna",
+                  "text": "Ez a Ostrava városában található színház változatos előadásairól és kulturális eseményeiről ismert. Helyi és nemzetközi művészek számára biztosít színpadot kellemes környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        18.295576,
+                        49.83735
+                  ]
+            },
+            {
+                  "name": "Divadlo Petra Bezruče",
+                  "text": "Ez a Ostrava városában található színház változatos előadásairól és kulturális eseményeiről ismert. Helyi és nemzetközi művészek számára biztosít színpadot kellemes környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        18.275113,
+                        49.830982
+                  ]
+            },
+            {
+                  "name": "Divadlo loutek",
+                  "text": "Ez a Ostrava városában található színház változatos előadásairól és kulturális eseményeiről ismert. Helyi és nemzetközi művészek számára biztosít színpadot kellemes környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292603,
+                        49.833914
+                  ]
+            },
+            {
+                  "name": "Divadlo Jiřího Myrona",
+                  "text": "Ez a Ostrava városában található színház változatos előadásairól és kulturális eseményeiről ismert. Helyi és nemzetközi művészek számára biztosít színpadot kellemes környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        18.288236,
+                        49.836396
+                  ]
+            },
+            {
+                  "name": "Divadlo Antonína Dvořáka",
+                  "text": "Ez a Ostrava városában található színház változatos előadásairól és kulturális eseményeiről ismert. Helyi és nemzetközi művészek számára biztosít színpadot kellemes környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        18.290825,
+                        49.832722
+                  ]
+            },
+            {
+                  "name": "kostel Panny Marie Královny",
+                  "text": "Ez a Ostrava városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        18.256438,
+                        49.832206
+                  ]
+            },
+            {
+                  "name": "Vysoká pec č.1",
+                  "text": "Ez a Ostrava városában található látnivaló népszerű célpont a régió látogatói számára. Érdekes betekintést nyújt, és gyalog vagy tömegközlekedéssel könnyen megközelíthető.",
+                  "category": "landmark",
+                  "coords": [
+                        18.276897,
+                        49.819337
+                  ]
+            },
+            {
+                  "name": "Rovninské balvany",
+                  "text": "Ez a Ostrava közeli természetvédelmi terület ritka geológiai különlegességeket vagy növényfajokat őriz. Az út menti információs táblák elmagyarázzák e természeti emlékek keletkezését és jelentőségét.",
+                  "category": "natural",
+                  "coords": [
+                        18.29432,
+                        49.83309
+                  ]
+            },
+            {
+                  "name": "Muzeum Keltičkova kovárna",
+                  "text": "Ez a Ostrava városában található múzeum érdekes kiállításokat mutat be a helyi történelemről oder művészetről. Mély betekintést nyújt a látogatóknak a régió kulturális örökségébe.",
+                  "category": "museum",
+                  "coords": [
+                        18.298834,
+                        49.837792
+                  ]
+            },
+            {
+                  "name": "Železniční muzeum moravskoslezské",
+                  "text": "Ez a Ostrava városában található múzeum érdekes kiállításokat mutat be a helyi történelemről oder művészetről. Mély betekintést nyújt a látogatóknak a régió kulturális örökségébe.",
+                  "category": "museum",
+                  "coords": [
+                        18.282485,
+                        49.828934
                   ]
             }
       ],
@@ -1186,6 +1600,213 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.323928,
                         49.848033
                   ]
+            },
+            {
+                  "name": "Galerie výtvarného umění v Ostravě",
+                  "text": "Acest muzeu din Ostrava prezintă expoziții interesante despre istoria sau arta locală. Oferă vizitatorilor o privire profundă asupra moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.286783,
+                        49.834056
+                  ]
+            },
+            {
+                  "name": "Slezskoostravský hrad",
+                  "text": "Acest castel istoric din Ostrava stă mărturie pentru trecutul bogat al regiunii. Vizitatorii pot explora zidurile vechi și se pot bucura de atmosfera deosebită a complexului.",
+                  "category": "castle",
+                  "coords": [
+                        18.299413,
+                        49.830464
+                  ]
+            },
+            {
+                  "name": "Církev Ježíše Krista Svatých posledních dnů",
+                  "text": "Această biserică din Ostrava este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        18.271058,
+                        49.850643
+                  ]
+            },
+            {
+                  "name": "sv. Josef",
+                  "text": "Această biserică din Ostrava este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        18.278283,
+                        49.827591
+                  ]
+            },
+            {
+                  "name": "svatý Václav",
+                  "text": "Această biserică din Ostrava este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        18.294882,
+                        49.835791
+                  ]
+            },
+            {
+                  "name": "Evangelický Kristův kostel",
+                  "text": "Această biserică din Ostrava este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        18.287153,
+                        49.839093
+                  ]
+            },
+            {
+                  "name": "vodárna Hladnov",
+                  "text": "Această atracție din Ostrava este o destinație populară pentru vizitatorii regiunii. Oferă perspective interesante și este ușor accesibilă pe jos sau cu transportul public.",
+                  "category": "landmark",
+                  "coords": [
+                        18.304365,
+                        49.842854
+                  ]
+            },
+            {
+                  "name": "Dolní oblast Vítkovice",
+                  "text": "Dolní oblast Vítkovice din Ostrava este un monument industrial unic într-o fostă uzină siderurgică. Zona oferă astăzi spațiu pentru evenimente culturale, educație și atracții tehnice.",
+                  "category": "landmark",
+                  "coords": [
+                        18.279981,
+                        49.81935
+                  ]
+            },
+            {
+                  "name": "halda Ema",
+                  "text": "Halda Ema este un deal artificial din Ostrava format din deșeuri miniere, care încă arde în interior. Turiștii se pot bucura de o vedere panoramică vastă asupra întregii regiuni de pe vârf.",
+                  "category": "natural",
+                  "coords": [
+                        18.314872,
+                        49.839795
+                  ]
+            },
+            {
+                  "name": "Schloss Witkowitz",
+                  "text": "Acest castel istoric din Ostrava stă mărturie pentru trecutul bogat al regiunii. Vizitatorii pot explora zidurile vechi și se pot bucura de atmosfera deosebită a complexului.",
+                  "category": "castle",
+                  "coords": [
+                        18.272225,
+                        49.81722
+                  ]
+            },
+            {
+                  "name": "Ostravské muzeum",
+                  "text": "Acest muzeu din Ostrava prezintă expoziții interesante despre istoria sau arta locală. Oferă vizitatorilor o privire profundă asupra moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.293008,
+                        49.835099
+                  ]
+            },
+            {
+                  "name": "Národní zemědělské muzeum",
+                  "text": "Acest muzeu din Ostrava prezintă expoziții interesante despre istoria sau arta locală. Oferă vizitatorilor o privire profundă asupra moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.281094,
+                        49.821534
+                  ]
+            },
+            {
+                  "name": "Pomník osvobození Rudou armádou",
+                  "text": "Acest monument din Ostrava comemorează evenimente istorice sau personalități importante. Este o parte integrantă a peisajului urban și invită la reflecție și comemorare.",
+                  "category": "historical",
+                  "coords": [
+                        18.297756,
+                        49.83799
+                  ]
+            },
+            {
+                  "name": "Komorní scéna Aréna",
+                  "text": "Acest teatru din Ostrava este cunoscut pentru spectacolele sale diverse și evenimentele culturale. Oferă o scenă pentru artiști locali și internaționali într-un cadru plăcut.",
+                  "category": "cultural",
+                  "coords": [
+                        18.295576,
+                        49.83735
+                  ]
+            },
+            {
+                  "name": "Divadlo Petra Bezruče",
+                  "text": "Acest teatru din Ostrava este cunoscut pentru spectacolele sale diverse și evenimentele culturale. Oferă o scenă pentru artiști locali și internaționali într-un cadru plăcut.",
+                  "category": "cultural",
+                  "coords": [
+                        18.275113,
+                        49.830982
+                  ]
+            },
+            {
+                  "name": "Divadlo loutek",
+                  "text": "Acest teatru din Ostrava este cunoscut pentru spectacolele sale diverse și evenimentele culturale. Oferă o scenă pentru artiști locali și internaționali într-un cadru plăcut.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292603,
+                        49.833914
+                  ]
+            },
+            {
+                  "name": "Divadlo Jiřího Myrona",
+                  "text": "Acest teatru din Ostrava este cunoscut pentru spectacolele sale diverse și evenimentele culturale. Oferă o scenă pentru artiști locali și internaționali într-un cadru plăcut.",
+                  "category": "cultural",
+                  "coords": [
+                        18.288236,
+                        49.836396
+                  ]
+            },
+            {
+                  "name": "Divadlo Antonína Dvořáka",
+                  "text": "Acest teatru din Ostrava este cunoscut pentru spectacolele sale diverse și evenimentele culturale. Oferă o scenă pentru artiști locali și internaționali într-un cadru plăcut.",
+                  "category": "cultural",
+                  "coords": [
+                        18.290825,
+                        49.832722
+                  ]
+            },
+            {
+                  "name": "kostel Panny Marie Královny",
+                  "text": "Această biserică din Ostrava este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        18.256438,
+                        49.832206
+                  ]
+            },
+            {
+                  "name": "Vysoká pec č.1",
+                  "text": "Această atracție din Ostrava este o destinație populară pentru vizitatorii regiunii. Oferă perspective interesante și este ușor accesibilă pe jos sau cu transportul public.",
+                  "category": "landmark",
+                  "coords": [
+                        18.276897,
+                        49.819337
+                  ]
+            },
+            {
+                  "name": "Rovninské balvany",
+                  "text": "Această rezervație naturală de lângă Ostrava conservă trăsături geologice sau specii de plante rare. Panourile informative de pe traseu explică formarea și importanța acestor monumente naturale.",
+                  "category": "natural",
+                  "coords": [
+                        18.29432,
+                        49.83309
+                  ]
+            },
+            {
+                  "name": "Muzeum Keltičkova kovárna",
+                  "text": "Acest muzeu din Ostrava prezintă expoziții interesante despre istoria sau arta locală. Oferă vizitatorilor o privire profundă asupra moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.298834,
+                        49.837792
+                  ]
+            },
+            {
+                  "name": "Železniční muzeum moravskoslezské",
+                  "text": "Acest muzeu din Ostrava prezintă expoziții interesante despre istoria sau arta locală. Oferă vizitatorilor o privire profundă asupra moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.282485,
+                        49.828934
+                  ]
             }
       ],
       "en": [
@@ -1385,6 +2006,213 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.323928,
                         49.848033
+                  ]
+            },
+            {
+                  "name": "Galerie výtvarného umění v Ostravě",
+                  "text": "This museum in Ostrava presents interesting exhibitions on local history or art. It offers visitors a deep insight into the cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.286783,
+                        49.834056
+                  ]
+            },
+            {
+                  "name": "Slezskoostravský hrad",
+                  "text": "This historic castle in Ostrava bears witness to the region's rich past. Visitors can explore the ancient walls and enjoy the special atmosphere of the complex.",
+                  "category": "castle",
+                  "coords": [
+                        18.299413,
+                        49.830464
+                  ]
+            },
+            {
+                  "name": "Církev Ježíše Krista Svatých posledních dnů",
+                  "text": "This church in Ostrava is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        18.271058,
+                        49.850643
+                  ]
+            },
+            {
+                  "name": "sv. Josef",
+                  "text": "This church in Ostrava is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        18.278283,
+                        49.827591
+                  ]
+            },
+            {
+                  "name": "svatý Václav",
+                  "text": "This church in Ostrava is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        18.294882,
+                        49.835791
+                  ]
+            },
+            {
+                  "name": "Evangelický Kristův kostel",
+                  "text": "This church in Ostrava is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        18.287153,
+                        49.839093
+                  ]
+            },
+            {
+                  "name": "vodárna Hladnov",
+                  "text": "This attraction in Ostrava is a popular destination for visitors to the region. It offers interesting insights and is easily accessible on foot or by public transport.",
+                  "category": "landmark",
+                  "coords": [
+                        18.304365,
+                        49.842854
+                  ]
+            },
+            {
+                  "name": "Dolní oblast Vítkovice",
+                  "text": "The Lower Vítkovice area in Ostrava is a unique industrial monument in a former ironworks. Today, the area offers space for cultural events, education, and technical sights.",
+                  "category": "landmark",
+                  "coords": [
+                        18.279981,
+                        49.81935
+                  ]
+            },
+            {
+                  "name": "halda Ema",
+                  "text": "Halda Ema is an artificial hill in Ostrava created from mining waste that is still burning inside. Hikers enjoy a wide panoramic view of the entire region from its summit.",
+                  "category": "natural",
+                  "coords": [
+                        18.314872,
+                        49.839795
+                  ]
+            },
+            {
+                  "name": "Schloss Witkowitz",
+                  "text": "This historic castle in Ostrava bears witness to the region's rich past. Visitors can explore the ancient walls and enjoy the special atmosphere of the complex.",
+                  "category": "castle",
+                  "coords": [
+                        18.272225,
+                        49.81722
+                  ]
+            },
+            {
+                  "name": "Ostravské muzeum",
+                  "text": "This museum in Ostrava presents interesting exhibitions on local history or art. It offers visitors a deep insight into the cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.293008,
+                        49.835099
+                  ]
+            },
+            {
+                  "name": "Národní zemědělské muzeum",
+                  "text": "This museum in Ostrava presents interesting exhibitions on local history or art. It offers visitors a deep insight into the cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.281094,
+                        49.821534
+                  ]
+            },
+            {
+                  "name": "Pomník osvobození Rudou armádou",
+                  "text": "This monument in Ostrava commemorates significant historical events or personalities. It is an integral part of the cityscape and invites reflection and remembrance.",
+                  "category": "historical",
+                  "coords": [
+                        18.297756,
+                        49.83799
+                  ]
+            },
+            {
+                  "name": "Komorní scéna Aréna",
+                  "text": "This theatre in Ostrava is known for its diverse performances and cultural events. It provides a stage for local and international artists in an appealing setting.",
+                  "category": "cultural",
+                  "coords": [
+                        18.295576,
+                        49.83735
+                  ]
+            },
+            {
+                  "name": "Divadlo Petra Bezruče",
+                  "text": "This theatre in Ostrava is known for its diverse performances and cultural events. It provides a stage for local and international artists in an appealing setting.",
+                  "category": "cultural",
+                  "coords": [
+                        18.275113,
+                        49.830982
+                  ]
+            },
+            {
+                  "name": "Divadlo loutek",
+                  "text": "This theatre in Ostrava is known for its diverse performances and cultural events. It provides a stage for local and international artists in an appealing setting.",
+                  "category": "cultural",
+                  "coords": [
+                        18.292603,
+                        49.833914
+                  ]
+            },
+            {
+                  "name": "Divadlo Jiřího Myrona",
+                  "text": "This theatre in Ostrava is known for its diverse performances and cultural events. It provides a stage for local and international artists in an appealing setting.",
+                  "category": "cultural",
+                  "coords": [
+                        18.288236,
+                        49.836396
+                  ]
+            },
+            {
+                  "name": "Antonin Dvorak Theater",
+                  "text": "This theatre in Ostrava is known for its diverse performances and cultural events. It provides a stage for local and international artists in an appealing setting.",
+                  "category": "cultural",
+                  "coords": [
+                        18.290825,
+                        49.832722
+                  ]
+            },
+            {
+                  "name": "kostel Panny Marie Královny",
+                  "text": "This church in Ostrava is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        18.256438,
+                        49.832206
+                  ]
+            },
+            {
+                  "name": "Vysoká pec č.1",
+                  "text": "This attraction in Ostrava is a popular destination for visitors to the region. It offers interesting insights and is easily accessible on foot or by public transport.",
+                  "category": "landmark",
+                  "coords": [
+                        18.276897,
+                        49.819337
+                  ]
+            },
+            {
+                  "name": "Rovninské balvany",
+                  "text": "This nature reserve near Ostrava preserves rare geological features or plant species. Information boards along the way explain the formation and significance of these natural monuments.",
+                  "category": "natural",
+                  "coords": [
+                        18.29432,
+                        49.83309
+                  ]
+            },
+            {
+                  "name": "Muzeum Keltičkova kovárna",
+                  "text": "This museum in Ostrava presents interesting exhibitions on local history or art. It offers visitors a deep insight into the cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.298834,
+                        49.837792
+                  ]
+            },
+            {
+                  "name": "Železniční muzeum moravskoslezské",
+                  "text": "This museum in Ostrava presents interesting exhibitions on local history or art. It offers visitors a deep insight into the cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.282485,
+                        49.828934
                   ]
             }
       ]
@@ -19631,6 +20459,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.539406,
                         49.849051
                   ]
+            },
+            {
+                  "name": "Zámek v Karviné-Fryštátě",
+                  "text": "Das Schloss in Karviná-Fryštát ist ein historisches Museum in der Stadt. Besucher können die prachtvollen Innenräume besichtigen und mehr über die lokale Geschichte erfahren.",
+                  "category": "museum",
+                  "coords": [
+                        18.541065,
+                        49.85349
+                  ]
+            },
+            {
+                  "name": "Městský dům kultury",
+                  "text": "Das Městský dům kultury ist ein zentrales Theater in Karviná. Es bietet ein abwechslungsreiches Kulturprogramm und ist ein wichtiger Treffpunkt für lokale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.53812,
+                        49.862732
+                  ]
+            },
+            {
+                  "name": "Kaple sv. Anny",
+                  "text": "Die Kaple sv. Anny ist ein schönes Gotteshaus in Karviná. Sie ist ein Ort der Ruhe und ein interessantes Beispiel für sakrale Architektur in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        18.55996,
+                        49.842916
+                  ]
+            },
+            {
+                  "name": "Kostel Povýšení sv. Kříže",
+                  "text": "Die Kirche Povýšení sv. Kříže ist ein historisches Gotteshaus in Karviná. Sie ist für ihre architektonische Gestaltung und ihre Bedeutung für die Gemeinde bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        18.540076,
+                        49.853502
+                  ]
+            },
+            {
+                  "name": "Kostel sv. Marka",
+                  "text": "Die Kirche sv. Marka ist ein bedeutendes Gotteshaus im Stadtteil Fryštát von Karviná. Das Gebäude zeichnet sich durch seine historische Bausubstanz aus.",
+                  "category": "religious",
+                  "coords": [
+                        18.543478,
+                        49.855277
+                  ]
+            },
+            {
+                  "name": "Most Sokolovských hrdinů",
+                  "text": "Die Brücke Most Sokolovských hrdinů ist ein markantes Bauwerk im Stadtteil Darkov. Sie ist nicht nur ein Verkehrsweg, sondern auch ein interessantes Fotomotiv.",
+                  "category": "landmark",
+                  "coords": [
+                        18.545863,
+                        49.840373
+                  ]
             }
       ],
       "hu": [
@@ -19740,6 +20622,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.539406,
                         49.849051
+                  ]
+            },
+            {
+                  "name": "Zámek v Karviné-Fryštátě",
+                  "text": "A karviná-fryštáti kastély egy történelmi múzeum a városban. A látogatók megtekinthetik a pompás belső tereket, és többet tudhatnak meg a helyi történelemről.",
+                  "category": "museum",
+                  "coords": [
+                        18.541065,
+                        49.85349
+                  ]
+            },
+            {
+                  "name": "Městský dům kultury",
+                  "text": "A Městský dům kultury egy központi színház Karvinában. Változatos kulturális programokat kínál, és fontos találkozóhely a helyi rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        18.53812,
+                        49.862732
+                  ]
+            },
+            {
+                  "name": "Kaple sv. Anny",
+                  "text": "A Kaple sv. Anny egy szép imaház Karvinában. A nyugalom helye, és a szakrális építészet érdekes példája a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        18.55996,
+                        49.842916
+                  ]
+            },
+            {
+                  "name": "Kostel Povýšení sv. Kříže",
+                  "text": "A Povýšení sv. Kříže templom egy történelmi imaház Karvinában. Építészeti kialakításáról és a közösség számára betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        18.540076,
+                        49.853502
+                  ]
+            },
+            {
+                  "name": "Kostel sv. Marka",
+                  "text": "A sv. Marka templom egy jelentős imaház Karviná Fryštát városrészében. Az épület történelmi építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        18.543478,
+                        49.855277
+                  ]
+            },
+            {
+                  "name": "Most Sokolovských hrdinů",
+                  "text": "A Most Sokolovských hrdinů híd egy figyelemre méltó építmény Darkov városrészben. Nemcsak közlekedési útvonal, hanem érdekes fotótéma is.",
+                  "category": "landmark",
+                  "coords": [
+                        18.545863,
+                        49.840373
                   ]
             }
       ],
@@ -19851,6 +20787,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.539406,
                         49.849051
                   ]
+            },
+            {
+                  "name": "Zámek v Karviné-Fryštátě",
+                  "text": "Castelul din Karviná-Fryštát este un muzeu istoric din oraș. Vizitatorii pot vizita interioarele splendide și pot afla mai multe despre istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        18.541065,
+                        49.85349
+                  ]
+            },
+            {
+                  "name": "Městský dům kultury",
+                  "text": "Městský dům kultury este un teatru central din Karviná. Acesta oferă un program cultural variat și este un loc important de întâlnire pentru evenimentele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.53812,
+                        49.862732
+                  ]
+            },
+            {
+                  "name": "Kaple sv. Anny",
+                  "text": "Kaple sv. Anny este un lăcaș de cult frumos din Karviná. Este un loc de liniște și un exemplu interesant de arhitectură sacră în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        18.55996,
+                        49.842916
+                  ]
+            },
+            {
+                  "name": "Kostel Povýšení sv. Kříže",
+                  "text": "Biserica Povýšení sv. Kříže este un lăcaș de cult istoric din Karviná. Aceasta este cunoscută pentru designul său arhitectural și importanța sa pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        18.540076,
+                        49.853502
+                  ]
+            },
+            {
+                  "name": "Kostel sv. Marka",
+                  "text": "Biserica sv. Marka este un lăcaș de cult semnificativ din cartierul Fryštát al orașului Karviná. Clădirea se remarcă prin structura sa istorică.",
+                  "category": "religious",
+                  "coords": [
+                        18.543478,
+                        49.855277
+                  ]
+            },
+            {
+                  "name": "Most Sokolovských hrdinů",
+                  "text": "Podul Most Sokolovských hrdinů este o structură distinctivă din cartierul Darkov. Acesta nu este doar o cale de circulație, ci și un subiect interesant pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.545863,
+                        49.840373
+                  ]
             }
       ],
       "en": [
@@ -19960,6 +20950,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.539406,
                         49.849051
+                  ]
+            },
+            {
+                  "name": "Zámek v Karviné-Fryštátě",
+                  "text": "The castle in Karviná-Fryštát is a historical museum in the city. Visitors can tour the magnificent interiors and learn more about local history.",
+                  "category": "museum",
+                  "coords": [
+                        18.541065,
+                        49.85349
+                  ]
+            },
+            {
+                  "name": "Městský dům kultury",
+                  "text": "The Městský dům kultury is a central theater in Karviná. It offers a varied cultural program and is an important meeting place for local events.",
+                  "category": "cultural",
+                  "coords": [
+                        18.53812,
+                        49.862732
+                  ]
+            },
+            {
+                  "name": "Kaple sv. Anny",
+                  "text": "The Kaple sv. Anny is a beautiful place of worship in Karviná. It is a place of peace and an interesting example of sacred architecture in the region.",
+                  "category": "religious",
+                  "coords": [
+                        18.55996,
+                        49.842916
+                  ]
+            },
+            {
+                  "name": "Kostel Povýšení sv. Kříže",
+                  "text": "The Povýšení sv. Kříže church is a historical place of worship in Karviná. It is known for its architectural design and its importance to the community.",
+                  "category": "religious",
+                  "coords": [
+                        18.540076,
+                        49.853502
+                  ]
+            },
+            {
+                  "name": "Kostel sv. Marka",
+                  "text": "The sv. Marka church is a significant place of worship in the Fryštát district of Karviná. The building is distinguished by its historical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        18.543478,
+                        49.855277
+                  ]
+            },
+            {
+                  "name": "Most Sokolovských hrdinů",
+                  "text": "The Most Sokolovských hrdinů bridge is a striking structure in the Darkov district. It is not just a traffic route, but also an interesting photo opportunity.",
+                  "category": "landmark",
+                  "coords": [
+                        18.545863,
+                        49.840373
                   ]
             }
       ]
@@ -25061,6 +26105,132 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.177554,
                         50.731953
                   ]
+            },
+            {
+                  "name": "Muzeum skla a bižuterie",
+                  "text": "Das Museum für Glas und Bijouterie in Jablonec nad Nisou präsentiert eine weltweit einzigartige Sammlung lokaler Handwerkskunst. Besucher können die filigrane Herstellung von Glasperlen und Schmuckstücken bewundern.",
+                  "category": "museum",
+                  "coords": [
+                        15.172083,
+                        50.722626
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Jablonec nad Nisou, o. p. s.",
+                  "text": "Dieses Theater in Jablonec Nad Nisou ist bekannt für seine vielfältigen Aufführungen und kulturellen Veranstaltungen. Es bietet eine Bühne für lokale und internationale Künstler in einem ansprechenden Ambiente.",
+                  "category": "cultural",
+                  "coords": [
+                        15.166454,
+                        50.724686
+                  ]
+            },
+            {
+                  "name": "Muzeum Hraček",
+                  "text": "Dieses Museum in Jablonec Nad Nisou präsentiert interessante Ausstellungen zur lokalen Geschichte oder Kunst. Es bietet Besuchern einen tiefen Einblick in das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        15.168788,
+                        50.72157
+                  ]
+            },
+            {
+                  "name": "Pláž Bižuterie",
+                  "text": "Dieser Strand in Jablonec Nad Nisou lädt an warmen Tagen zum Entspannen und Schwimmen ein. Die Uferpromenade bietet zusätzliche Möglichkeiten für Spaziergänge und Erholung im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        15.177016,
+                        50.734199
+                  ]
+            },
+            {
+                  "name": "Pláž U Prutu",
+                  "text": "Dieser Strand in Jablonec Nad Nisou lädt an warmen Tagen zum Entspannen und Schwimmen ein. Die Uferpromenade bietet zusätzliche Möglichkeiten für Spaziergänge und Erholung im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        15.17136,
+                        50.737649
+                  ]
+            },
+            {
+                  "name": "Studentská pláž",
+                  "text": "Dieser Strand in Jablonec Nad Nisou lädt an warmen Tagen zum Entspannen und Schwimmen ein. Die Uferpromenade bietet zusätzliche Möglichkeiten für Spaziergänge und Erholung im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        15.174786,
+                        50.735198
+                  ]
+            },
+            {
+                  "name": "Hradschin",
+                  "text": "Der Hradešín ist ein markanter Aussichtspunkt in der Nähe von Jablonec Nad Nisou. Wanderwege führen zum Gipfel und belohnen Besucher mit einem weiten Rundblick.",
+                  "category": "natural",
+                  "coords": [
+                        15.156715,
+                        50.706756
+                  ]
+            },
+            {
+                  "name": "Bývalá hasičská zbrojnice",
+                  "text": "Diese Sehenswürdigkeit in Jablonec Nad Nisou ist ein beliebtes Ziel für Besucher der Region. Sie bietet interessante Einblicke und ist leicht zu Fuß oder mit öffentlichen Verkehrsmitteln erreichbar.",
+                  "category": "landmark",
+                  "coords": [
+                        15.173708,
+                        50.708658
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Diese Kirche in Jablonec Nad Nisou ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        15.17121,
+                        50.727084
+                  ]
+            },
+            {
+                  "name": "sv. Anna",
+                  "text": "Diese Kirche in Jablonec Nad Nisou ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        15.168431,
+                        50.7228
+                  ]
+            },
+            {
+                  "name": "Povýšení sv. Kříže",
+                  "text": "Diese Kirche in Jablonec Nad Nisou ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        15.186089,
+                        50.7251
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Diese Kirche in Jablonec Nad Nisou ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        15.169301,
+                        50.739691
+                  ]
+            },
+            {
+                  "name": "Kaple svaté Anny",
+                  "text": "Diese Kirche in Jablonec Nad Nisou ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        15.167888,
+                        50.736335
+                  ]
+            },
+            {
+                  "name": "Panna Maria Pomocná",
+                  "text": "Diese Kirche in Jablonec Nad Nisou ist ein Ort der Stille und Besinnung. Besucher können die Architektur und die friedliche Atmosphäre im Inneren erleben.",
+                  "category": "religious",
+                  "coords": [
+                        15.212652,
+                        50.722296
+                  ]
             }
       ],
       "hu": [
@@ -25161,6 +26331,132 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.177554,
                         50.731953
+                  ]
+            },
+            {
+                  "name": "Muzeum skla a bižuterie",
+                  "text": "A Jablonec nad Nisou-i Üveg- és Ékszermúzeum a helyi kézművesség világszerte egyedülálló gyűjteményét mutatja be. A látogatók megcsodálhatják az üveggyöngyök és ékszerek filigrán készítését.",
+                  "category": "museum",
+                  "coords": [
+                        15.172083,
+                        50.722626
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Jablonec nad Nisou, o. p. s.",
+                  "text": "Ez a Jablonec Nad Nisou városában található színház változatos előadásairól és kulturális eseményeiről ismert. Helyi és nemzetközi művészek számára biztosít színpadot kellemes környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.166454,
+                        50.724686
+                  ]
+            },
+            {
+                  "name": "Muzeum Hraček",
+                  "text": "Ez a Jablonec Nad Nisou városában található múzeum érdekes kiállításokat mutat be a helyi történelemről oder művészetről. Mély betekintést nyújt a látogatóknak a régió kulturális örökségébe.",
+                  "category": "museum",
+                  "coords": [
+                        15.168788,
+                        50.72157
+                  ]
+            },
+            {
+                  "name": "Pláž Bižuterie",
+                  "text": "Ez a Jablonec Nad Nisou városában található strand a meleg napokon pihenésre és úszásra csábít. A vízparti sétány további lehetőségeket kínál sétákhoz és szabadtéri kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.177016,
+                        50.734199
+                  ]
+            },
+            {
+                  "name": "Pláž U Prutu",
+                  "text": "Ez a Jablonec Nad Nisou városában található strand a meleg napokon pihenésre és úszásra csábít. A vízparti sétány további lehetőségeket kínál sétákhoz és szabadtéri kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.17136,
+                        50.737649
+                  ]
+            },
+            {
+                  "name": "Studentská pláž",
+                  "text": "Ez a Jablonec Nad Nisou városában található strand a meleg napokon pihenésre és úszásra csábít. A vízparti sétány további lehetőségeket kínál sétákhoz és szabadtéri kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.174786,
+                        50.735198
+                  ]
+            },
+            {
+                  "name": "Hradešín",
+                  "text": "A Hradešín egy jellegzetes kilátópont Jablonec Nad Nisou közelében. Turistautak vezetnek a csúcsra, amelyek széles körpanorámával jutalmazzák a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        15.156715,
+                        50.706756
+                  ]
+            },
+            {
+                  "name": "Bývalá hasičská zbrojnice",
+                  "text": "Ez a Jablonec Nad Nisou városában található látnivaló népszerű célpont a régió látogatói számára. Érdekes betekintést nyújt, és gyalog vagy tömegközlekedéssel könnyen megközelíthető.",
+                  "category": "landmark",
+                  "coords": [
+                        15.173708,
+                        50.708658
+                  ]
+            },
+            {
+                  "name": "Kostel Nejsvětějšího Srdce Ježíšova",
+                  "text": "Ez a Jablonec Nad Nisou városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        15.17121,
+                        50.727084
+                  ]
+            },
+            {
+                  "name": "sv. Anna",
+                  "text": "Ez a Jablonec Nad Nisou városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        15.168431,
+                        50.7228
+                  ]
+            },
+            {
+                  "name": "Povýšení sv. Kříže",
+                  "text": "Ez a Jablonec Nad Nisou városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        15.186089,
+                        50.7251
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Ez a Jablonec Nad Nisou városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        15.169301,
+                        50.739691
+                  ]
+            },
+            {
+                  "name": "Kaple svaté Anny",
+                  "text": "Ez a Jablonec Nad Nisou városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        15.167888,
+                        50.736335
+                  ]
+            },
+            {
+                  "name": "Panna Maria Pomocná",
+                  "text": "Ez a Jablonec Nad Nisou városában található templom a nyugalom és az elmélyülés helyszíne. A látogatók megcsodálhatják az építészetet és a belső tér békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        15.212652,
+                        50.722296
                   ]
             }
       ],
@@ -25263,6 +26559,132 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.177554,
                         50.731953
                   ]
+            },
+            {
+                  "name": "Muzeum skla a bižuterie",
+                  "text": "Muzeul de sticlă și bijuterii din Jablonec nad Nisou prezintă o colecție unică în lume de meșteșuguri locale. Vizitatorii pot admira fabricarea delicată a mărgelelor de sticlă și a bijuteriilor.",
+                  "category": "museum",
+                  "coords": [
+                        15.172083,
+                        50.722626
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Jablonec nad Nisou, o. p. s.",
+                  "text": "Acest teatru din Jablonec Nad Nisou este cunoscut pentru spectacolele sale diverse și evenimentele culturale. Oferă o scenă pentru artiști locali și internaționali într-un cadru plăcut.",
+                  "category": "cultural",
+                  "coords": [
+                        15.166454,
+                        50.724686
+                  ]
+            },
+            {
+                  "name": "Muzeum Hraček",
+                  "text": "Acest muzeu din Jablonec Nad Nisou prezintă expoziții interessante despre istoria sau arta locală. Oferă vizitatorilor o privire profundă asupra moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        15.168788,
+                        50.72157
+                  ]
+            },
+            {
+                  "name": "Pláž Bižuterie",
+                  "text": "Această plajă din Jablonec Nad Nisou invită la relaxare și înot în zilele calde. Promenada oferă posibilități suplimentare pentru plimbări și recreere în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        15.177016,
+                        50.734199
+                  ]
+            },
+            {
+                  "name": "Pláž U Prutu",
+                  "text": "Această plajă din Jablonec Nad Nisou invită la relaxare și înot în zilele calde. Promenada oferă posibilități suplimentare pentru plimbări și recreere în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        15.17136,
+                        50.737649
+                  ]
+            },
+            {
+                  "name": "Studentská pláž",
+                  "text": "Această plajă din Jablonec Nad Nisou invită la relaxare și înot în zilele calde. Promenada oferă posibilități suplimentare pentru plimbări și recreere în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        15.174786,
+                        50.735198
+                  ]
+            },
+            {
+                  "name": "Hradešín",
+                  "text": "Hradešín este un punct de belvedere proeminent lângă Jablonec Nad Nisou. Traseele de drumeție duc spre vârf și îi răsplătesc pe vizitatori cu o vedere panoramică largă.",
+                  "category": "natural",
+                  "coords": [
+                        15.156715,
+                        50.706756
+                  ]
+            },
+            {
+                  "name": "Bývalá hasičská zbrojnice",
+                  "text": "Această atracție din Jablonec Nad Nisou este o destinație populară pentru vizitatorii regiunii. Oferă perspective interesante și este ușor accesibilă pe jos sau cu transportul public.",
+                  "category": "landmark",
+                  "coords": [
+                        15.173708,
+                        50.708658
+                  ]
+            },
+            {
+                  "name": "Kostel Nejsvětějšího Srdce Ježíšova",
+                  "text": "Această biserică din Jablonec Nad Nisou este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        15.17121,
+                        50.727084
+                  ]
+            },
+            {
+                  "name": "sv. Anna",
+                  "text": "Această biserică din Jablonec Nad Nisou este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        15.168431,
+                        50.7228
+                  ]
+            },
+            {
+                  "name": "Povýšení sv. Kříže",
+                  "text": "Această biserică din Jablonec Nad Nisou este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        15.186089,
+                        50.7251
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Această biserică din Jablonec Nad Nisou este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        15.169301,
+                        50.739691
+                  ]
+            },
+            {
+                  "name": "Kaple svaté Anny",
+                  "text": "Această biserică din Jablonec Nad Nisou este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        15.167888,
+                        50.736335
+                  ]
+            },
+            {
+                  "name": "Panna Maria Pomocná",
+                  "text": "Această biserică din Jablonec Nad Nisou este un loc de liniște și reflecție. Vizitatorii pot admira arhitectura și atmosfera pașnică din interior.",
+                  "category": "religious",
+                  "coords": [
+                        15.212652,
+                        50.722296
+                  ]
             }
       ],
       "en": [
@@ -25363,6 +26785,132 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.177554,
                         50.731953
+                  ]
+            },
+            {
+                  "name": "Muzeum skla a bižuterie",
+                  "text": "The Museum of Glass and Jewelry in Jablonec nad Nisou presents a world-unique collection of local craftsmanship. Visitors can admire the delicate production of glass beads and jewelry pieces.",
+                  "category": "museum",
+                  "coords": [
+                        15.172083,
+                        50.722626
+                  ]
+            },
+            {
+                  "name": "Městské divadlo Jablonec nad Nisou, o. p. s.",
+                  "text": "This theatre in Jablonec Nad Nisou is known for its diverse performances and cultural events. It provides a stage for local and international artists in an appealing setting.",
+                  "category": "cultural",
+                  "coords": [
+                        15.166454,
+                        50.724686
+                  ]
+            },
+            {
+                  "name": "Muzeum Hraček",
+                  "text": "This museum in Jablonec Nad Nisou presents interesting exhibitions on local history or art. It offers visitors a deep insight into the cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        15.168788,
+                        50.72157
+                  ]
+            },
+            {
+                  "name": "Pláž Bižuterie",
+                  "text": "This beach in Jablonec Nad Nisou invites you to relax and swim on warm days. The waterfront promenade offers additional opportunities for walks and outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        15.177016,
+                        50.734199
+                  ]
+            },
+            {
+                  "name": "Pláž U Prutu",
+                  "text": "This beach in Jablonec Nad Nisou invites you to relax and swim on warm days. The waterfront promenade offers additional opportunities for walks and outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        15.17136,
+                        50.737649
+                  ]
+            },
+            {
+                  "name": "Studentská pláž",
+                  "text": "This beach in Jablonec Nad Nisou invites you to relax and swim on warm days. The waterfront promenade offers additional opportunities for walks and outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        15.174786,
+                        50.735198
+                  ]
+            },
+            {
+                  "name": "Hradešín",
+                  "text": "The Hradešín is a prominent viewpoint near Jablonec Nad Nisou. Hiking trails lead to the summit and reward visitors with a wide panoramic view.",
+                  "category": "natural",
+                  "coords": [
+                        15.156715,
+                        50.706756
+                  ]
+            },
+            {
+                  "name": "Bývalá hasičská zbrojnice",
+                  "text": "This attraction in Jablonec Nad Nisou is a popular destination for visitors to the region. It offers interesting insights and is easily accessible on foot or by public transport.",
+                  "category": "landmark",
+                  "coords": [
+                        15.173708,
+                        50.708658
+                  ]
+            },
+            {
+                  "name": "Kostel Nejsvětějšího Srdce Ježíšova",
+                  "text": "This church in Jablonec Nad Nisou is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        15.17121,
+                        50.727084
+                  ]
+            },
+            {
+                  "name": "sv. Anna",
+                  "text": "This church in Jablonec Nad Nisou is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        15.168431,
+                        50.7228
+                  ]
+            },
+            {
+                  "name": "Povýšení sv. Kříže",
+                  "text": "This church in Jablonec Nad Nisou is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        15.186089,
+                        50.7251
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "This church in Jablonec Nad Nisou is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        15.169301,
+                        50.739691
+                  ]
+            },
+            {
+                  "name": "Kaple svaté Anny",
+                  "text": "This church in Jablonec Nad Nisou is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        15.167888,
+                        50.736335
+                  ]
+            },
+            {
+                  "name": "Panna Maria Pomocná",
+                  "text": "This church in Jablonec Nad Nisou is a place of peace and reflection. Visitors can admire the architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        15.212652,
+                        50.722296
                   ]
             }
       ]
@@ -26525,6 +28073,87 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.467497,
                         49.460283
                   ]
+            },
+            {
+                  "name": "Muzeum Jana Ámose Komenského",
+                  "text": "Das Museum Jan Amos Komenský in Přerov ist ein bedeutendes kulturhistorisches Museum. Es widmet sich dem Leben und Wirken des berühmten Pädagogen.",
+                  "category": "museum",
+                  "coords": [
+                        17.451193,
+                        49.455296
+                  ]
+            },
+            {
+                  "name": "Loutkové divadlo Sokola Přerov",
+                  "text": "Das Loutkové divadlo Sokola Přerov ist ein charmantes Theater in Přerov. Es bietet ein unterhaltsames Programm, das besonders bei Familien beliebt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        17.448218,
+                        49.457527
+                  ]
+            },
+            {
+                  "name": "Zážitkové lety - Paragliding",
+                  "text": "Die Zážitkové lety - Paragliding in Přerov bieten ein aufregendes Abenteuer in der Luft. Besucher können die Umgebung aus der Vogelperspektive erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.465518,
+                        49.45639
+                  ]
+            },
+            {
+                  "name": "Ornitologická stanice",
+                  "text": "Die Ornitologická stanice in Přerov ist ein spezialisiertes Museum für Naturkunde. Es bietet Einblicke in die regionale Vogelwelt und ornithologische Forschung.",
+                  "category": "museum",
+                  "coords": [
+                        17.461467,
+                        49.459521
+                  ]
+            },
+            {
+                  "name": "Michalov",
+                  "text": "Der Park Michalov in Přerov ist eine schöne Grünanlage und ein Ort der Entspannung. Er eignet sich hervorragend für Spaziergänge im Freien.",
+                  "category": "park",
+                  "coords": [
+                        17.458112,
+                        49.460452
+                  ]
+            },
+            {
+                  "name": "parní lokomotiva",
+                  "text": "Die Parní lokomotiva in Přerov ist eine historische Attraktion für Technikbegeisterte. Sie erinnert an die bedeutende Zeit der Eisenbahngeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        17.444924,
+                        49.447973
+                  ]
+            },
+            {
+                  "name": "Pláž Laguna",
+                  "text": "Der Strand Laguna in Přerov ist ein beliebter Erholungsort am Wasser. Besucher können hier schwimmen, sich sonnen und entspannte Stunden genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.470665,
+                        49.460672
+                  ]
+            },
+            {
+                  "name": "Sv. Vavřinec",
+                  "text": "Die Sv. Vavřinec Kirche ist ein bedeutendes Gotteshaus in Přerov. Sie dient als wichtiger spiritueller Ort für die lokale Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        17.449277,
+                        49.453764
+                  ]
+            },
+            {
+                  "name": "Sv. Michal",
+                  "text": "Die Sv. Michal Kirche ist ein historisches Gotteshaus in Přerov. Sie zeichnet sich durch ihre Architektur aus und prägt das Stadtbild.",
+                  "category": "religious",
+                  "coords": [
+                        17.454954,
+                        49.452389
+                  ]
             }
       ],
       "hu": [
@@ -26589,6 +28218,87 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.467497,
                         49.460283
+                  ]
+            },
+            {
+                  "name": "Muzeum Jana Ámose Komenského",
+                  "text": "A přerovi Jan Amos Komenský Múzeum egy jelentős kultúrtörténeti múzeum. A híres pedagógus életének és munkásságának szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        17.451193,
+                        49.455296
+                  ]
+            },
+            {
+                  "name": "Loutkové divadlo Sokola Přerov",
+                  "text": "A Loutkové divadlo Sokola Přerov egy bájos színház Přerovban. Szórakoztató műsort kínál, amely különösen népszerű a családok körében.",
+                  "category": "cultural",
+                  "coords": [
+                        17.448218,
+                        49.457527
+                  ]
+            },
+            {
+                  "name": "Zážitkové lety - Paragliding",
+                  "text": "A Zážitkové lety - Paragliding Přerovban izgalmas légi kalandot kínál. A látogatók madártávlatból ismerhetik meg a környéket.",
+                  "category": "recreational",
+                  "coords": [
+                        17.465518,
+                        49.45639
+                  ]
+            },
+            {
+                  "name": "Ornitologická stanice",
+                  "text": "A přerovi Ornitologická stanice egy szakosodott természettudományi múzeum. Betekintést nyújt a regionális madárvilágba és az ornitológiai kutatásokba.",
+                  "category": "museum",
+                  "coords": [
+                        17.461467,
+                        49.459521
+                  ]
+            },
+            {
+                  "name": "Michalov",
+                  "text": "A přerovi Michalov park egy szép zöldövezet és a kikapcsolódás helyszíne. Kiválóan alkalmas szabadtéri sétákra.",
+                  "category": "park",
+                  "coords": [
+                        17.458112,
+                        49.460452
+                  ]
+            },
+            {
+                  "name": "parní lokomotiva",
+                  "text": "A přerovi Parní lokomotiva egy történelmi látnivaló a technika szerelmeseinek. Emlékeztet a vasúttörténet jelentős időszakára.",
+                  "category": "landmark",
+                  "coords": [
+                        17.444924,
+                        49.447973
+                  ]
+            },
+            {
+                  "name": "Pláž Laguna",
+                  "text": "A Laguna strand Přerovban népszerű pihenőhely a víz mellett. A látogatók úszhatnak, napozhatnak és pihentető órákat tölthetnek itt.",
+                  "category": "recreational",
+                  "coords": [
+                        17.470665,
+                        49.460672
+                  ]
+            },
+            {
+                  "name": "Sv. Vavřinec",
+                  "text": "A Sv. Vavřinec templom jelentős imaház Přerovban. Fontos spirituális helyként szolgál a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        17.449277,
+                        49.453764
+                  ]
+            },
+            {
+                  "name": "Sv. Michal",
+                  "text": "A Sv. Michal templom egy történelmi imaház Přerovban. Építészetével tűnik ki, és meghatározza a városképet.",
+                  "category": "religious",
+                  "coords": [
+                        17.454954,
+                        49.452389
                   ]
             }
       ],
@@ -26655,6 +28365,87 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.467497,
                         49.460283
                   ]
+            },
+            {
+                  "name": "Muzeum Jana Ámose Komenského",
+                  "text": "Muzeul Jan Amos Komenský din Přerov este un muzeu de istorie culturală semnificativ. Acesta este dedicat vieții și operei celebrului pedagog.",
+                  "category": "museum",
+                  "coords": [
+                        17.451193,
+                        49.455296
+                  ]
+            },
+            {
+                  "name": "Loutkové divadlo Sokola Přerov",
+                  "text": "Loutkové divadlo Sokola Přerov este un teatru fermecător din Přerov. Acesta oferă un program distractiv, fiind deosebit de popular în rândul familiilor.",
+                  "category": "cultural",
+                  "coords": [
+                        17.448218,
+                        49.457527
+                  ]
+            },
+            {
+                  "name": "Zážitkové lety - Paragliding",
+                  "text": "Zážitkové lety - Paragliding din Přerov oferă o aventură palpitantă în aer. Vizitatorii pot experimenta împrejurimile dintr-o perspectivă aeriană.",
+                  "category": "recreational",
+                  "coords": [
+                        17.465518,
+                        49.45639
+                  ]
+            },
+            {
+                  "name": "Ornitologická stanice",
+                  "text": "Ornitologická stanice din Přerov este un muzeu specializat de științe naturale. Acesta oferă informații despre avifauna regională și cercetarea ornitologică.",
+                  "category": "museum",
+                  "coords": [
+                        17.461467,
+                        49.459521
+                  ]
+            },
+            {
+                  "name": "Michalov",
+                  "text": "Parcul Michalov din Přerov este un spațiu verde frumos și un loc de relaxare. Este excelent pentru plimbări în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        17.458112,
+                        49.460452
+                  ]
+            },
+            {
+                  "name": "parní lokomotiva",
+                  "text": "Parní lokomotiva din Přerov este o atracție istorică pentru pasionații de tehnică. Aceasta amintește de perioada semnificativă a istoriei căilor ferate.",
+                  "category": "landmark",
+                  "coords": [
+                        17.444924,
+                        49.447973
+                  ]
+            },
+            {
+                  "name": "Pláž Laguna",
+                  "text": "Plaja Laguna din Přerov este un loc de recreere popular pe malul apei. Vizitatorii pot înota, pot face plajă și se pot bucura de ore relaxante.",
+                  "category": "recreational",
+                  "coords": [
+                        17.470665,
+                        49.460672
+                  ]
+            },
+            {
+                  "name": "Sv. Vavřinec",
+                  "text": "Biserica Sv. Vavřinec este un lăcaș de cult semnificativ din Přerov. Aceasta servește ca un loc spiritual important pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        17.449277,
+                        49.453764
+                  ]
+            },
+            {
+                  "name": "Sv. Michal",
+                  "text": "Biserica Sv. Michal este un lăcaș de cult istoric din Přerov. Aceasta se remarcă prin arhitectura sa și modelează peisajul urban.",
+                  "category": "religious",
+                  "coords": [
+                        17.454954,
+                        49.452389
+                  ]
             }
       ],
       "en": [
@@ -26719,6 +28510,87 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.467497,
                         49.460283
+                  ]
+            },
+            {
+                  "name": "Muzeum Jana Ámose Komenského",
+                  "text": "The Jan Amos Komenský Museum in Přerov is a significant cultural-historical museum. It is dedicated to the life and work of the famous educator.",
+                  "category": "museum",
+                  "coords": [
+                        17.451193,
+                        49.455296
+                  ]
+            },
+            {
+                  "name": "Loutkové divadlo Sokola Přerov",
+                  "text": "The Loutkové divadlo Sokola Přerov is a charming theater in Přerov. It offers an entertaining program, which is especially popular with families.",
+                  "category": "cultural",
+                  "coords": [
+                        17.448218,
+                        49.457527
+                  ]
+            },
+            {
+                  "name": "Zážitkové lety - Paragliding",
+                  "text": "The Zážitkové lety - Paragliding in Přerov offers an exciting adventure in the air. Visitors can experience the surroundings from a bird's-eye view.",
+                  "category": "recreational",
+                  "coords": [
+                        17.465518,
+                        49.45639
+                  ]
+            },
+            {
+                  "name": "Ornitologická stanice",
+                  "text": "The Ornitologická stanice in Přerov is a specialized natural history museum. It offers insights into the regional bird life and ornithological research.",
+                  "category": "museum",
+                  "coords": [
+                        17.461467,
+                        49.459521
+                  ]
+            },
+            {
+                  "name": "Michalov",
+                  "text": "The Michalov Park in Přerov is a beautiful green space and a place of relaxation. It is excellent for outdoor walks.",
+                  "category": "park",
+                  "coords": [
+                        17.458112,
+                        49.460452
+                  ]
+            },
+            {
+                  "name": "parní lokomotiva",
+                  "text": "The Parní lokomotiva in Přerov is a historical attraction for technology enthusiasts. It commemorates a significant period in railway history.",
+                  "category": "landmark",
+                  "coords": [
+                        17.444924,
+                        49.447973
+                  ]
+            },
+            {
+                  "name": "Pláž Laguna",
+                  "text": "The Laguna beach in Přerov is a popular recreational spot by the water. Visitors can swim, sunbathe, and enjoy relaxing hours.",
+                  "category": "recreational",
+                  "coords": [
+                        17.470665,
+                        49.460672
+                  ]
+            },
+            {
+                  "name": "Sv. Vavřinec",
+                  "text": "The Sv. Vavřinec church is a significant place of worship in Přerov. It serves as an important spiritual site for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        17.449277,
+                        49.453764
+                  ]
+            },
+            {
+                  "name": "Sv. Michal",
+                  "text": "The Sv. Michal church is a historical place of worship in Přerov. It is distinguished by its architecture and shapes the cityscape.",
+                  "category": "religious",
+                  "coords": [
+                        17.454954,
+                        49.452389
                   ]
             }
       ]
@@ -31640,6 +33512,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.455081,
                         49.853877
                   ]
+            },
+            {
+                  "name": "kostel Narození Panny Marie",
+                  "text": "Die Kirche Narození Panny Marie ist ein bedeutendes Gotteshaus in Orlová. Sie ist ein spiritueller Mittelpunkt und architektonisch sehenswert.",
+                  "category": "religious",
+                  "coords": [
+                        18.429931,
+                        49.846197
+                  ]
             }
       ],
       "hu": [
@@ -31875,6 +33756,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.455081,
                         49.853877
+                  ]
+            },
+            {
+                  "name": "kostel Narození Panny Marie",
+                  "text": "A Narození Panny Marie templom egy fontos imaház Orlovában. Spirituális központ, és építészetileg is figyelemre méltó.",
+                  "category": "religious",
+                  "coords": [
+                        18.429931,
+                        49.846197
                   ]
             }
       ],
@@ -32112,6 +34002,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.455081,
                         49.853877
                   ]
+            },
+            {
+                  "name": "kostel Narození Panny Marie",
+                  "text": "Biserica Narození Panny Marie este un lăcaș de cult semnificativ din Orlová. Este un centru spiritual și merită vizitată din punct de vedere arhitectural.",
+                  "category": "religious",
+                  "coords": [
+                        18.429931,
+                        49.846197
+                  ]
             }
       ],
       "en": [
@@ -32347,6 +34246,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.455081,
                         49.853877
+                  ]
+            },
+            {
+                  "name": "kostel Narození Panny Marie",
+                  "text": "The Narození Panny Marie church is a significant place of worship in Orlová. It is a spiritual center and is architecturally worth visiting.",
+                  "category": "religious",
+                  "coords": [
+                        18.429931,
+                        49.846197
                   ]
             }
       ]
@@ -38138,6 +40046,168 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.424292,
                         49.073227
                   ]
+            },
+            {
+                  "name": "Slovácké divadlo",
+                  "text": "Dieses Theater in Uherske Hradiste ist bekannt für seine vielfältigen Aufführungen und kulturellen Veranstaltungen. Es bietet eine Bühne für lokale und internationale Künstler in einem ansprechenden Ambiente.",
+                  "category": "cultural",
+                  "coords": [
+                        17.460465,
+                        49.071579
+                  ]
+            },
+            {
+                  "name": "Památník Velké Moravy",
+                  "text": "Das Denkmal von Großmähren in Uherské Hradiště erinnert an die reiche frühmittelalterliche Geschichte der Region. Die Ausstellung zeigt archäologische Funde und Modelle der damaligen Siedlungsstrukturen.",
+                  "category": "museum",
+                  "coords": [
+                        17.443797,
+                        49.078458
+                  ]
+            },
+            {
+                  "name": "Bonsaicentrum-museum Isabelia",
+                  "text": "Dieses Museum in Uherské Hradiště ist der Kunst der Bonsai-Zucht und -Ausstellung gewidmet. Besucher finden hier eine beeindruckende Sammlung miniaturisierter Bäume in einer ruhigen Umgebung.",
+                  "category": "museum",
+                  "coords": [
+                        17.4448,
+                        49.080318
+                  ]
+            },
+            {
+                  "name": "Človíčkova stezka",
+                  "text": "Dieser Lehrpfad in Uherské Hradiště bietet interaktive Stationen für Kinder und Familien. Er führt durch die lokale Natur und vermittelt spielerisch Wissen über die Umgebung.",
+                  "category": "museum",
+                  "coords": [
+                        17.432394,
+                        49.081156
+                  ]
+            },
+            {
+                  "name": "Uherské Hradiště - město královské",
+                  "text": "Dieses Museum dokumentiert die reiche Geschichte der königlichen Stadt Uherské Hradiště. Die Ausstellungen beleuchten die historische Entwicklung und die Privilegien der Siedlung.",
+                  "category": "museum",
+                  "coords": [
+                        17.459536,
+                        49.067578
+                  ]
+            },
+            {
+                  "name": "amfiteátr",
+                  "text": "Dieses Freilichttheater in Uherské Hradiště dient als Veranstaltungsort für kulturelle Aufführungen und Konzerte. Die Anlage bietet eine besondere Atmosphäre für sommerliche Abendveranstaltungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        17.48727,
+                        49.071712
+                  ]
+            },
+            {
+                  "name": "Slovácké muzeum",
+                  "text": "Das Mährisch-Slowakische Museum präsentiert die Volkskultur und Traditionen der Region Slovácko. Besucher können hier Trachten, Kunsthandwerk und archäologische Funde aus der Umgebung besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        17.467537,
+                        49.067331
+                  ]
+            },
+            {
+                  "name": "Centrum slovanské archeologie",
+                  "text": "Dieses Museum konzentriert sich auf die Erforschung und Präsentation der slawischen Geschichte in Mähren. Es zeigt bedeutende Fundstücke aus der Zeit des Großmährischen Reiches.",
+                  "category": "museum",
+                  "coords": [
+                        17.46455,
+                        49.071333
+                  ]
+            },
+            {
+                  "name": "Archeologické vykopávky Špitálky",
+                  "text": "Diese archäologische Stätte bewahrt die Fundamente einer Kirche aus der Zeit des Großmährischen Reiches. Informationstafeln erklären die historische Bedeutung dieser sakralen Ruinen in Uherské Hradiště.",
+                  "category": "historical",
+                  "coords": [
+                        17.42891,
+                        49.072172
+                  ]
+            },
+            {
+                  "name": "Muzeum v přírodě Rochus",
+                  "text": "Das Naturmuseum Rochus verbindet den Schutz der Kulturlandschaft mit der Ausstellung historischer Bauernhöfe. Besucher können hier traditionelles Handwerk und landwirtschaftliche Bräuche hautnah erleben.",
+                  "category": "museum",
+                  "coords": [
+                        17.489278,
+                        49.07176
+                  ]
+            },
+            {
+                  "name": "Domácí potřeby;Morový sloup",
+                  "text": "Diese barocke Mariensäule im Zentrum von Uherské Hradiště erinnert an das Ende einer Pestepidemie. Das kunstvolle Denkmal ist ein wichtiger Bestandteil des historischen Marktplatzes.",
+                  "category": "historical",
+                  "coords": [
+                        17.458644,
+                        49.070374
+                  ]
+            },
+            {
+                  "name": "galeriebaila",
+                  "text": "Diese Kunstgalerie in Uherské Hradiště präsentiert wechselnde Ausstellungen zeitgenössischer Werke. Sie bietet lokalen und regionalen Künstlern eine Plattform für ihre kreativen Arbeiten.",
+                  "category": "museum",
+                  "coords": [
+                        17.465264,
+                        49.068069
+                  ]
+            },
+            {
+                  "name": "Výšina sv. Metoděje",
+                  "text": "Dieser Aussichtspunkt auf einer Anhöhe bei Uherské Hradiště ist auch ein bedeutender Fundort aus großmährischer Zeit. Von hier aus bietet sich ein weiter Blick über das Tal der March.",
+                  "category": "natural",
+                  "coords": [
+                        17.470297,
+                        49.05903
+                  ]
+            },
+            {
+                  "name": "Galerie Slováckého muzea",
+                  "text": "In der Galerie des Slovácko-Museums werden bedeutende Kunstwerke der Region und tschechische Malerei des 20. Jahrhunderts gezeigt. Das Gebäude dient als wichtiges Zentrum für bildende Kunst in der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        17.457661,
+                        49.071744
+                  ]
+            },
+            {
+                  "name": "autobus",
+                  "text": "Diese Attraktion in Uherské Hradiště bezieht sich auf ein besonderes Fahrzeug oder ein Transportthema der Stadtgeschichte. Besucher können hier mehr über die Entwicklung der lokalen Mobilität erfahren.",
+                  "category": "landmark",
+                  "coords": [
+                        17.422885,
+                        49.073413
+                  ]
+            },
+            {
+                  "name": "Církev Ježíše Krista Svatých posledních dnů",
+                  "text": "Dieses sakrale Gebäude dient als Treffpunkt der Gemeinschaft der Kirche Jesu Christi der Heiligen der Letzten Tage. Die Architektur spiegelt die moderne Präsenz dieser Glaubensgemeinschaft in der Stadt wider.",
+                  "category": "religious",
+                  "coords": [
+                        17.466784,
+                        49.068268
+                  ]
+            },
+            {
+                  "name": "Svatý Šebestián",
+                  "text": "Die Kapelle des Heiligen Sebastian ist ein bedeutendes barockes Denkmal auf dem Hügel über Uherské Hradiště. Sie wurde zum Dank für das Ende einer Pestepidemie errichtet und ist weithin sichtbar.",
+                  "category": "religious",
+                  "coords": [
+                        17.46427,
+                        49.068058
+                  ]
+            },
+            {
+                  "name": "Kostel sv. Ducha",
+                  "text": "Diese moderne Kirche in Staré Město bei Uherské Hradiště besticht durch ihre markante zeitgenössische Architektur. Das Gotteshaus dient als geistliches Zentrum und Ort für kulturelle Veranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        17.444764,
+                        49.078626
+                  ]
             }
       ],
       "hu": [
@@ -38391,6 +40461,168 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.424292,
                         49.073227
+                  ]
+            },
+            {
+                  "name": "Slovácké divadlo",
+                  "text": "Ez a Uherske Hradiste városában található színház változatos előadásairól és kulturális eseményeiről ismert. Helyi és nemzetközi művészek számára biztosít színpadot kellemes környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        17.460465,
+                        49.071579
+                  ]
+            },
+            {
+                  "name": "Památník Velké Moravy",
+                  "text": "A Nagymorva Emlékmű Uherské Hradištěben a régió gazdag kora középkori történelmére emlékeztet. A kiállítás régészeti leleteket és az akkori településszerkezetek modelljeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.443797,
+                        49.078458
+                  ]
+            },
+            {
+                  "name": "Bonsaicentrum-museum Isabelia",
+                  "text": "Ez az Uherské Hradiště-i múzeum a bonsaitenyésztés és -kiállítás művészetének szentelt hely. A látogatók miniatűr fák lenyűgöző gyűjteményét találják itt, nyugodt környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        17.4448,
+                        49.080318
+                  ]
+            },
+            {
+                  "name": "Človíčkova stezka",
+                  "text": "Ez az Uherské Hradiště-i tanösvény interaktív állomásokat kínál gyermekek és családok számára. A helyi természeten vezet keresztül, és játékos formában ad át ismereteket a környezetről.",
+                  "category": "museum",
+                  "coords": [
+                        17.432394,
+                        49.081156
+                  ]
+            },
+            {
+                  "name": "Uherské Hradiště - město královské",
+                  "text": "Ez a múzeum Uherské Hradiště királyi városának gazdag történelmét dokumentálja. A kiállítások megvilágítják a település történelmi fejlődését és kiváltságait.",
+                  "category": "museum",
+                  "coords": [
+                        17.459536,
+                        49.067578
+                  ]
+            },
+            {
+                  "name": "amfiteátr",
+                  "text": "Ez az Uherské Hradiště-i szabadtéri színház kulturális előadások és koncertek helyszínéül szolgál. A létesítmény különleges hangulatot áraszt a csillagos ég alatti nyári esti rendezvényekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        17.48727,
+                        49.071712
+                  ]
+            },
+            {
+                  "name": "Slovácké muzeum",
+                  "text": "A Morva-Szlovák Múzeum a Slovácko régió népi kultúráját és hagyományait mutatja be. A látogatók népviseleteket, kézműves termékeket és a környékről származó régészeti leleteket tekinthetnek meg itt.",
+                  "category": "museum",
+                  "coords": [
+                        17.467537,
+                        49.067331
+                  ]
+            },
+            {
+                  "name": "Centrum slovanské archeologie",
+                  "text": "Ez a múzeum a morvaországi szláv történelem kutatására és bemutatására összpontosít. A Nagymorva Birodalom idejéből származó jelentős leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.46455,
+                        49.071333
+                  ]
+            },
+            {
+                  "name": "Archeologické vykopávky Špitálky",
+                  "text": "Ez a régészeti lelőhely a Nagymorva Birodalom idejéből származó templom alapjait őrzi. Információs táblák magyarázzák el ezeknek a szakrális romoknak a történelmi jelentőségét Uherské Hradiště-ben.",
+                  "category": "historical",
+                  "coords": [
+                        17.42891,
+                        49.072172
+                  ]
+            },
+            {
+                  "name": "Muzeum v přírodě Rochus",
+                  "text": "A Rochus Szabadtéri Múzeum összeköti a kultúrtáj védelmét a történelmi parasztudvarok bemutatásával. A látogatók itt testközelből ismerhetik meg a hagyományos mesterségeket és a mezőgazdasági szokásokat.",
+                  "category": "museum",
+                  "coords": [
+                        17.489278,
+                        49.07176
+                  ]
+            },
+            {
+                  "name": "Domácí potřeby;Morový sloup",
+                  "text": "Ez a barokk Mária-oszlop Uherské Hradiště központjában egy pestisjárvány végének állít emléket. A művészi emlékmű a történelmi piactér fontos részét képezi.",
+                  "category": "historical",
+                  "coords": [
+                        17.458644,
+                        49.070374
+                  ]
+            },
+            {
+                  "name": "galeriebaila",
+                  "text": "Ez az Uherské Hradiště-i művészeti galéria kortárs művek időszaki kiállításait mutatja be. Platformot kínál a helyi és regionális művészek számára alkotásaik bemutatására.",
+                  "category": "museum",
+                  "coords": [
+                        17.465264,
+                        49.068069
+                  ]
+            },
+            {
+                  "name": "Výšina sv. Metoděje",
+                  "text": "Ez az Uherské Hradiště melletti dombon található kilátópont egyben jelentős nagymorva kori lelőhely is. Innentől széles kilátás nyílik a Morva folyó völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        17.470297,
+                        49.05903
+                  ]
+            },
+            {
+                  "name": "Galerie Slováckého muzea",
+                  "text": "A Slovácko Múzeum galériájában a régió jelentős műalkotásait és a 20. századi cseh festészetet mutatják be. Az épület a képzőművészet fontos központjaként szolgál a városban.",
+                  "category": "museum",
+                  "coords": [
+                        17.457661,
+                        49.071744
+                  ]
+            },
+            {
+                  "name": "autobus",
+                  "text": "Ez az Uherské Hradiště-i látványosság egy különleges járműhöz vagy a várostörténet egy közlekedési témájához kapcsolódik. A látogatók itt többet tudhatnak meg a helyi mobilitás fejlődéséről.",
+                  "category": "landmark",
+                  "coords": [
+                        17.422885,
+                        49.073413
+                  ]
+            },
+            {
+                  "name": "Církev Ježíše Krista Svatých posledních dnů",
+                  "text": "Ez a szakrális épület Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza közösségének találkozóhelyéül szolgál. Az építészet tükrözi e hitélet modern jelenlétét a városban.",
+                  "category": "religious",
+                  "coords": [
+                        17.466784,
+                        49.068268
+                  ]
+            },
+            {
+                  "name": "Svatý Šebestián",
+                  "text": "A Szent Sebestyén-kápolna jelentős barokk műemlék az Uherské Hradiště feletti dombon. Egy pestisjárvány végéért hálából emelték, és messziről látható.",
+                  "category": "religious",
+                  "coords": [
+                        17.46427,
+                        49.068058
+                  ]
+            },
+            {
+                  "name": "Kostel sv. Ducha",
+                  "text": "Ez a Staré Městóban, Uherské Hradiště mellett található modern templom markáns kortárs építészetével tűnik ki. Az Istenháza lelki központként és kulturális rendezvények helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        17.444764,
+                        49.078626
                   ]
             }
       ],
@@ -38646,6 +40878,168 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.424292,
                         49.073227
                   ]
+            },
+            {
+                  "name": "Slovácké divadlo",
+                  "text": "Acest teatru din Uherske Hradiste este cunoscut pentru spectacolele sale diverse și evenimentele culturale. Oferă o scenă pentru artiști locali și internaționali într-un cadru plăcut.",
+                  "category": "cultural",
+                  "coords": [
+                        17.460465,
+                        49.071579
+                  ]
+            },
+            {
+                  "name": "Památník Velké Moravy",
+                  "text": "Monumentul Moravia Mare din Uherské Hradiště amintește de istoria bogată a regiunii din Evul Mediu timpuriu. Expoziția prezintă descoperiri arheologice și modele ale structurilor de așezări de atunci.",
+                  "category": "museum",
+                  "coords": [
+                        17.443797,
+                        49.078458
+                  ]
+            },
+            {
+                  "name": "Bonsaicentrum-museum Isabelia",
+                  "text": "Acest muzeu din Uherské Hradiště este dedicat artei creșterii și expunerii bonsailor. Vizitatorii găsesc aici o colecție impresionantă de copaci miniaturizați într-un cadru liniștit.",
+                  "category": "museum",
+                  "coords": [
+                        17.4448,
+                        49.080318
+                  ]
+            },
+            {
+                  "name": "Človíčkova stezka",
+                  "text": "Această potecă educațională din Uherské Hradiště oferă stații interactive pentru copii și familii. Aceasta trece prin natura locală și transmite cunoștințe despre mediu într-un mod ludic.",
+                  "category": "museum",
+                  "coords": [
+                        17.432394,
+                        49.081156
+                  ]
+            },
+            {
+                  "name": "Uherské Hradiště - město královské",
+                  "text": "Acest muzeu documentează istoria bogată a orașului regal Uherské Hradiště. Expozițiile evidențiază dezvoltarea istorică și privilegiile așezării.",
+                  "category": "museum",
+                  "coords": [
+                        17.459536,
+                        49.067578
+                  ]
+            },
+            {
+                  "name": "amfiteátr",
+                  "text": "Acest amfiteatru în aer liber din Uherské Hradiště servește ca loc de desfășurare pentru spectacole culturale și concerte. Instalația oferă o atmosferă deosebită pentru evenimentele de seară de vară sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        17.48727,
+                        49.071712
+                  ]
+            },
+            {
+                  "name": "Slovácké muzeum",
+                  "text": "Muzeul Slovácko prezintă cultura populară și tradițiile regiunii Slovácko. Vizitatorii pot vedea aici costume populare, artizanat și descoperiri arheologice din împrejurimi.",
+                  "category": "museum",
+                  "coords": [
+                        17.467537,
+                        49.067331
+                  ]
+            },
+            {
+                  "name": "Centrum slovanské archeologie",
+                  "text": "Acest muzeu se concentrează pe cercetarea și prezentarea istoriei slave în Moravia. Acesta expune descoperiri semnificative din perioada Imperiului Moravia Mare.",
+                  "category": "museum",
+                  "coords": [
+                        17.46455,
+                        49.071333
+                  ]
+            },
+            {
+                  "name": "Archeologické vykopávky Špitálky",
+                  "text": "Acest sit arheologic păstrează fundamentele unei biserici din perioada Imperiului Moravia Mare. Panourile informative explică importanța istorică a acestor ruine sacre din Uherské Hradiště.",
+                  "category": "historical",
+                  "coords": [
+                        17.42891,
+                        49.072172
+                  ]
+            },
+            {
+                  "name": "Muzeum v přírodě Rochus",
+                  "text": "Muzeul în aer liber Rochus combină protejarea peisajului cultural cu expunerea fermelor istorice. Vizitatorii pot experimenta aici meșteșugurile tradiționale și obiceiurile agricole de aproape.",
+                  "category": "museum",
+                  "coords": [
+                        17.489278,
+                        49.07176
+                  ]
+            },
+            {
+                  "name": "Domácí potřeby;Morový sloup",
+                  "text": "Această coloană mariană barocă din centrul orașului Uherské Hradiště comemorează sfârșitul unei epidemii de ciumă. Monumentul artistic este o parte importantă a pieței istorice.",
+                  "category": "historical",
+                  "coords": [
+                        17.458644,
+                        49.070374
+                  ]
+            },
+            {
+                  "name": "galeriebaila",
+                  "text": "Această galerie de artă din Uherské Hradiště prezintă expoziții temporare de lucrări contemporane. Aceasta oferă artiștilor locali și regionali o platformă pentru lucrările lor creative.",
+                  "category": "museum",
+                  "coords": [
+                        17.465264,
+                        49.068069
+                  ]
+            },
+            {
+                  "name": "Výšina sv. Metoděje",
+                  "text": "Acest punct de belvedere de pe o colină de lângă Uherské Hradiště este și un sit arheologic important din perioada Moraviei Mari. De aici se oferă o vedere largă asupra văii râului Morava.",
+                  "category": "natural",
+                  "coords": [
+                        17.470297,
+                        49.05903
+                  ]
+            },
+            {
+                  "name": "Galerie Slováckého muzea",
+                  "text": "În galeria Muzeului Slovácko sunt expuse opere de artă semnificative ale regiunii și pictură cehă din secolul al XX-lea. Clădirea servește ca un centru important pentru artele plastice din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        17.457661,
+                        49.071744
+                  ]
+            },
+            {
+                  "name": "autobus",
+                  "text": "Această atracție din Uherské Hradiště se referă la un vehicul special sau la o temă de transport din istoria orașului. Vizitatorii pot afla mai multe despre dezvoltarea mobilității locale aici.",
+                  "category": "landmark",
+                  "coords": [
+                        17.422885,
+                        49.073413
+                  ]
+            },
+            {
+                  "name": "Církev Ježíše Krista Svatých posledních dnů",
+                  "text": "Această clădire sacră servește ca loc de întâlnire pentru comunitatea Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă. Arhitectura reflectă prezența modernă a acestei comunități religioase în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        17.466784,
+                        49.068268
+                  ]
+            },
+            {
+                  "name": "Svatý Šebestián",
+                  "text": "Capela Sfântului Sebastian este un monument baroc semnificativ pe dealul de deasupra orașului Uherské Hradiště. A fost construită în semn de recunoștință pentru sfârșitul unei epidemii de ciumă și este vizibilă de la distanță.",
+                  "category": "religious",
+                  "coords": [
+                        17.46427,
+                        49.068058
+                  ]
+            },
+            {
+                  "name": "Kostel sv. Ducha",
+                  "text": "Această biserică modernă din Staré Město, lângă Uherské Hradiště, impresionează prin arhitectura sa contemporană distinctivă. Lăcașul de cult servește ca centru spiritual și loc pentru evenimente culturale.",
+                  "category": "religious",
+                  "coords": [
+                        17.444764,
+                        49.078626
+                  ]
             }
       ],
       "en": [
@@ -38899,6 +41293,168 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.424292,
                         49.073227
+                  ]
+            },
+            {
+                  "name": "Slovácké divadlo",
+                  "text": "This theatre in Uherske Hradiste is known for its diverse performances and cultural events. It provides a stage for local and international artists in an appealing setting.",
+                  "category": "cultural",
+                  "coords": [
+                        17.460465,
+                        49.071579
+                  ]
+            },
+            {
+                  "name": "Památník Velké Moravy",
+                  "text": "The Great Moravia Monument in Uherské Hradiště commemorates the region's rich early medieval history. The exhibition shows archaeological finds and models of the settlement structures of that time.",
+                  "category": "museum",
+                  "coords": [
+                        17.443797,
+                        49.078458
+                  ]
+            },
+            {
+                  "name": "Bonsaicentrum-museum Isabelia",
+                  "text": "This museum in Uherské Hradiště is dedicated to the art of bonsai cultivation and display. Visitors will find an impressive collection of miniaturized trees in a peaceful setting.",
+                  "category": "museum",
+                  "coords": [
+                        17.4448,
+                        49.080318
+                  ]
+            },
+            {
+                  "name": "Človíčkova stezka",
+                  "text": "This educational trail in Uherské Hradiště offers interactive stations for children and families. It leads through local nature and playfully imparts knowledge about the environment.",
+                  "category": "museum",
+                  "coords": [
+                        17.432394,
+                        49.081156
+                  ]
+            },
+            {
+                  "name": "Uherské Hradiště - město královské",
+                  "text": "This museum documents the rich history of the royal city of Uherské Hradiště. The exhibitions highlight the historical development and privileges of the settlement.",
+                  "category": "museum",
+                  "coords": [
+                        17.459536,
+                        49.067578
+                  ]
+            },
+            {
+                  "name": "amfiteátr",
+                  "text": "This open-air theatre in Uherské Hradiště serves as a venue for cultural performances and concerts. The facility offers a special atmosphere for summer evening events under the open sky.",
+                  "category": "cultural",
+                  "coords": [
+                        17.48727,
+                        49.071712
+                  ]
+            },
+            {
+                  "name": "Slovácké muzeum",
+                  "text": "The Slovácko Museum presents the folk culture and traditions of the Slovácko region. Visitors can view traditional costumes, crafts, and archaeological finds from the surrounding area.",
+                  "category": "museum",
+                  "coords": [
+                        17.467537,
+                        49.067331
+                  ]
+            },
+            {
+                  "name": "Centrum slovanské archeologie",
+                  "text": "This museum focuses on the research and presentation of Slavic history in Moravia. It displays significant finds from the period of the Great Moravian Empire.",
+                  "category": "museum",
+                  "coords": [
+                        17.46455,
+                        49.071333
+                  ]
+            },
+            {
+                  "name": "Archeologické vykopávky Špitálky",
+                  "text": "This archaeological site preserves the foundations of a church from the Great Moravian Empire period. Information boards explain the historical significance of these sacred ruins in Uherské Hradiště.",
+                  "category": "historical",
+                  "coords": [
+                        17.42891,
+                        49.072172
+                  ]
+            },
+            {
+                  "name": "Muzeum v přírodě Rochus",
+                  "text": "The Rochus open-air museum combines the protection of the cultural landscape with the display of historical farmsteads. Visitors can experience traditional crafts and agricultural customs first-hand here.",
+                  "category": "museum",
+                  "coords": [
+                        17.489278,
+                        49.07176
+                  ]
+            },
+            {
+                  "name": "Domácí potřeby;Morový sloup",
+                  "text": "This Baroque Marian column in the center of Uherské Hradiště commemorates the end of a plague epidemic. The artistic monument is an important part of the historic marketplace.",
+                  "category": "historical",
+                  "coords": [
+                        17.458644,
+                        49.070374
+                  ]
+            },
+            {
+                  "name": "galeriebaila",
+                  "text": "This art gallery in Uherské Hradiště presents rotating exhibitions of contemporary works. It provides local and regional artists with a platform for their creative pieces.",
+                  "category": "museum",
+                  "coords": [
+                        17.465264,
+                        49.068069
+                  ]
+            },
+            {
+                  "name": "Výšina sv. Metoděje",
+                  "text": "This viewpoint on a hill near Uherské Hradiště is also a significant archaeological site from the Great Moravian period. From here, there is a wide view over the Morava River valley.",
+                  "category": "natural",
+                  "coords": [
+                        17.470297,
+                        49.05903
+                  ]
+            },
+            {
+                  "name": "Galerie Slováckého muzea",
+                  "text": "The gallery of the Slovácko Museum displays significant artworks from the region and 20th-century Czech painting. The building serves as an important center for visual arts in the city.",
+                  "category": "museum",
+                  "coords": [
+                        17.457661,
+                        49.071744
+                  ]
+            },
+            {
+                  "name": "autobus",
+                  "text": "This attraction in Uherské Hradiště refers to a special vehicle or a transport theme in the city's history. Visitors can learn more about the development of local mobility here.",
+                  "category": "landmark",
+                  "coords": [
+                        17.422885,
+                        49.073413
+                  ]
+            },
+            {
+                  "name": "Církev Ježíše Krista Svatých posledních dnů",
+                  "text": "This sacred building serves as a meeting place for the community of The Church of Jesus Christ of Latter-day Saints. The architecture reflects the modern presence of this faith community in the city.",
+                  "category": "religious",
+                  "coords": [
+                        17.466784,
+                        49.068268
+                  ]
+            },
+            {
+                  "name": "Svatý Šebestián",
+                  "text": "The Chapel of Saint Sebastian is a significant Baroque monument on the hill above Uherské Hradiště. It was built in gratitude for the end of a plague epidemic and is visible from afar.",
+                  "category": "religious",
+                  "coords": [
+                        17.46427,
+                        49.068058
+                  ]
+            },
+            {
+                  "name": "Kostel sv. Ducha",
+                  "text": "This modern church in Staré Město near Uherské Hradiště stands out with its striking contemporary architecture. The house of worship serves as a spiritual center and a venue for cultural events.",
+                  "category": "religious",
+                  "coords": [
+                        17.444764,
+                        49.078626
                   ]
             }
       ]
@@ -39989,6 +42545,96 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.695007,
                         50.09764
                   ]
+            },
+            {
+                  "name": "Zámek Krnov",
+                  "text": "Das Schloss Krnov ist eine historische Sehenswürdigkeit in Krnov. Die Anlage bietet Einblicke in die vergangene Adelskultur der Region.",
+                  "category": "castle",
+                  "coords": [
+                        17.700962,
+                        50.08909
+                  ]
+            },
+            {
+                  "name": "Městské muzeum - Flemmichova vila",
+                  "text": "Das Městské muzeum - Flemmichova vila ist ein interessantes Museum in Krnov. Es zeigt Ausstellungen zur lokalen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        17.710523,
+                        50.091991
+                  ]
+            },
+            {
+                  "name": "Městské divadlo",
+                  "text": "Das Městské divadlo ist ein traditionsreiches Theater in Krnov. Hier finden regelmäßig Aufführungen und kulturelle Veranstaltungen statt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.695541,
+                        50.089833
+                  ]
+            },
+            {
+                  "name": "Bývalá pískovna Cvilín",
+                  "text": "Die Bývalá pískovna Cvilín ist ein wertvolles Naturschutzgebiet in Krnov. Sie eignet sich hervorragend für Wanderungen und zur Beobachtung der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.718967,
+                        50.070644
+                  ]
+            },
+            {
+                  "name": "Liechtensteinwarte",
+                  "text": "Die Lichtensteinova rozhledna auf dem Cvilín bietet einen weiten Ausblick über die Region um Krnov. Der Aufstieg wird mit einem herrlichen Panorama belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        17.722541,
+                        50.082082
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Cvilín (Šelenburk)",
+                  "text": "Die Zřícenina hradu Cvilín (Šelenburk) ist eine historische Ruine in Krnov. Sie lädt Besucher ein, die Spuren der Vergangenheit zu entdecken.",
+                  "category": "historical",
+                  "coords": [
+                        17.72776,
+                        50.069013
+                  ]
+            },
+            {
+                  "name": "Gemeinde Berg",
+                  "text": "Die Barania Kopa ist ein landschaftlich reizvoller Aussichtspunkt in Krnov. Von hier aus kann man die umliegende Natur besonders gut genießen.",
+                  "category": "natural",
+                  "coords": [
+                        17.736426,
+                        50.102765
+                  ]
+            },
+            {
+                  "name": "Textilní továrny v roce 1890",
+                  "text": "Die Textilní továrny v roce 1890 sind eine historische Attraktion in Krnov. Sie erinnern an die bedeutende industrielle Vergangenheit der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706891,
+                        50.09067
+                  ]
+            },
+            {
+                  "name": "Kostel Povýšení svatého Kříže",
+                  "text": "Die Kirche Povýšení svatého Kříže ist ein schönes Gotteshaus in Krnov. Sie ist ein wichtiger Ort für die lokale Kirchengemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        17.703026,
+                        50.09346
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskirche der Heiligen Mutter Gottes im Schmerz",
+                  "text": "Die Kirche Panny Marie Sedmibolestné ist eine bedeutende Pilgerstätte in Krnov auf dem Cvilín. Die barocke Architektur macht sie besonders sehenswert.",
+                  "category": "religious",
+                  "coords": [
+                        17.721416,
+                        50.08002
+                  ]
             }
       ],
       "hu": [
@@ -40053,6 +42699,96 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.695007,
                         50.09764
+                  ]
+            },
+            {
+                  "name": "Zámek Krnov",
+                  "text": "A Krnovi kastély egy történelmi látnivaló Krnovban. Az épületegyüttes betekintést nyújt a régió múltbeli nemesi kultúrájába.",
+                  "category": "castle",
+                  "coords": [
+                        17.700962,
+                        50.08909
+                  ]
+            },
+            {
+                  "name": "Městské muzeum - Flemmichova vila",
+                  "text": "A Městské muzeum - Flemmichova vila egy érdekes múzeum Krnovban. Kiállításokat mutat be a helyi történelemről és kultúráról.",
+                  "category": "museum",
+                  "coords": [
+                        17.710523,
+                        50.091991
+                  ]
+            },
+            {
+                  "name": "Městské divadlo",
+                  "text": "A Městské divadlo egy nagy hagyományokkal rendelkező színház Krnovban. Rendszeresen tartanak itt előadásokat és kulturális eseményeket.",
+                  "category": "cultural",
+                  "coords": [
+                        17.695541,
+                        50.089833
+                  ]
+            },
+            {
+                  "name": "Bývalá pískovna Cvilín",
+                  "text": "A Bývalá pískovna Cvilín egy értékes természetvédelmi terület Krnovban. Kiválóan alkalmas túrázásra és a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        17.718967,
+                        50.070644
+                  ]
+            },
+            {
+                  "name": "Lichtensteinova rozhledna",
+                  "text": "A cvilíni Lichtensteinova rozhledna tágas kilátást nyújt a Krnov környéki régióra. A felmászást csodálatos panoráma jutalmazza.",
+                  "category": "natural",
+                  "coords": [
+                        17.722541,
+                        50.082082
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Cvilín (Šelenburk)",
+                  "text": "A Zřícenina hradu Cvilín (Šelenburk) egy történelmi rom Krnovban. A látogatókat a múlt nyomainak felfedezésére invitálja.",
+                  "category": "historical",
+                  "coords": [
+                        17.72776,
+                        50.069013
+                  ]
+            },
+            {
+                  "name": "Barania Kopa",
+                  "text": "A Barania Kopa egy festői kilátópont Krnovban. Innen különösen jól élvezhető a környező természet.",
+                  "category": "natural",
+                  "coords": [
+                        17.736426,
+                        50.102765
+                  ]
+            },
+            {
+                  "name": "Textilní továrny v roce 1890",
+                  "text": "A Textilní továrny v roce 1890 történelmi látnivaló Krnovban. Emlékeztetnek a város jelentős ipari múltjára.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706891,
+                        50.09067
+                  ]
+            },
+            {
+                  "name": "Kostel Povýšení svatého Kříže",
+                  "text": "A Povýšení svatého Kříže templom egy szép imaház Krnovban. Fontos helyszín a helyi egyházközség számára.",
+                  "category": "religious",
+                  "coords": [
+                        17.703026,
+                        50.09346
+                  ]
+            },
+            {
+                  "name": "Kostel Panny Marie Sedmibolestné",
+                  "text": "A Panny Marie Sedmibolestné templom egy jelentős zarándokhely Krnovban, a Cvilínen. Barokk építészete különösen figyelemre méltóvá teszi.",
+                  "category": "religious",
+                  "coords": [
+                        17.721416,
+                        50.08002
                   ]
             }
       ],
@@ -40119,6 +42855,96 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.695007,
                         50.09764
                   ]
+            },
+            {
+                  "name": "Zámek Krnov",
+                  "text": "Castelul din Krnov este un obiectiv turistic istoric din Krnov. Ansamblul oferă o privire în cultura nobiliară din trecutul regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        17.700962,
+                        50.08909
+                  ]
+            },
+            {
+                  "name": "Městské muzeum - Flemmichova vila",
+                  "text": "Městské muzeum - Flemmichova vila este un muzeu interesant din Krnov. Acesta găzduiește expoziții despre istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        17.710523,
+                        50.091991
+                  ]
+            },
+            {
+                  "name": "Městské divadlo",
+                  "text": "Městské divadlo este un teatru cu tradiție în Krnov. Aici au loc în mod regulat spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.695541,
+                        50.089833
+                  ]
+            },
+            {
+                  "name": "Bývalá pískovna Cvilín",
+                  "text": "Bývalá pískovna Cvilín este o rezervație naturală valoroasă din Krnov. Este excelentă pentru drumeții și pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        17.718967,
+                        50.070644
+                  ]
+            },
+            {
+                  "name": "Lichtensteinova rozhledna",
+                  "text": "Lichtensteinova rozhledna de pe Cvilín oferă o vedere largă asupra regiunii din jurul orașului Krnov. Urcarea este răsplătită cu o panoramă superbă.",
+                  "category": "natural",
+                  "coords": [
+                        17.722541,
+                        50.082082
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Cvilín (Šelenburk)",
+                  "text": "Zřícenina hradu Cvilín (Šelenburk) este o ruină istorică din Krnov. Aceasta invită vizitatorii să descopere urmele trecutului.",
+                  "category": "historical",
+                  "coords": [
+                        17.72776,
+                        50.069013
+                  ]
+            },
+            {
+                  "name": "Barania Kopa",
+                  "text": "Barania Kopa este un punct de belvedere pitoresc din Krnov. De aici, natura înconjurătoare poate fi admirată în mod deosebit.",
+                  "category": "natural",
+                  "coords": [
+                        17.736426,
+                        50.102765
+                  ]
+            },
+            {
+                  "name": "Textilní továrny v roce 1890",
+                  "text": "Textilní továrny v roce 1890 sunt o atracție istorică în Krnov. Acestea amintesc de trecutul industrial semnificativ al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706891,
+                        50.09067
+                  ]
+            },
+            {
+                  "name": "Kostel Povýšení svatého Kříže",
+                  "text": "Biserica Povýšení svatého Kříže este un lăcaș de cult frumos din Krnov. Este un loc important pentru parohia locală.",
+                  "category": "religious",
+                  "coords": [
+                        17.703026,
+                        50.09346
+                  ]
+            },
+            {
+                  "name": "Kostel Panny Marie Sedmibolestné",
+                  "text": "Biserica Panny Marie Sedmibolestné este un loc de pelerinaj semnificativ din Krnov, pe dealul Cvilín. Arhitectura barocă o face să merite vizitată.",
+                  "category": "religious",
+                  "coords": [
+                        17.721416,
+                        50.08002
+                  ]
             }
       ],
       "en": [
@@ -40183,6 +43009,96 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.695007,
                         50.09764
+                  ]
+            },
+            {
+                  "name": "Zámek Krnov",
+                  "text": "The Krnov castle is a historical landmark in Krnov. The site offers insights into the past noble culture of the region.",
+                  "category": "castle",
+                  "coords": [
+                        17.700962,
+                        50.08909
+                  ]
+            },
+            {
+                  "name": "Městské muzeum - Flemmichova vila",
+                  "text": "The Městské muzeum - Flemmichova vila is an interesting museum in Krnov. It showcases exhibitions on local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        17.710523,
+                        50.091991
+                  ]
+            },
+            {
+                  "name": "Městské divadlo",
+                  "text": "The Městské divadlo is a theater with tradition in Krnov. Performances and cultural events are held here regularly.",
+                  "category": "cultural",
+                  "coords": [
+                        17.695541,
+                        50.089833
+                  ]
+            },
+            {
+                  "name": "Bývalá pískovna Cvilín",
+                  "text": "The Bývalá pískovna Cvilín is a valuable nature reserve in Krnov. It is excellent for hiking and observing nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.718967,
+                        50.070644
+                  ]
+            },
+            {
+                  "name": "Lichtensteinova rozhledna",
+                  "text": "The Lichtensteinova rozhledna on Cvilín offers a wide view over the region around Krnov. The climb is rewarded with a magnificent panorama.",
+                  "category": "natural",
+                  "coords": [
+                        17.722541,
+                        50.082082
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Cvilín (Šelenburk)",
+                  "text": "The Zřícenina hradu Cvilín (Šelenburk) is a historical ruin in Krnov. It invites visitors to discover the traces of the past.",
+                  "category": "historical",
+                  "coords": [
+                        17.72776,
+                        50.069013
+                  ]
+            },
+            {
+                  "name": "Barania Kopa",
+                  "text": "The Barania Kopa is a scenic viewpoint in Krnov. From here, you can especially enjoy the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.736426,
+                        50.102765
+                  ]
+            },
+            {
+                  "name": "Textilní továrny v roce 1890",
+                  "text": "The Textilní továrny v roce 1890 are a historical attraction in Krnov. They commemorate the significant industrial past of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706891,
+                        50.09067
+                  ]
+            },
+            {
+                  "name": "Kostel Povýšení svatého Kříže",
+                  "text": "The Povýšení svatého Kříže church is a beautiful place of worship in Krnov. It is an important site for the local church congregation.",
+                  "category": "religious",
+                  "coords": [
+                        17.703026,
+                        50.09346
+                  ]
+            },
+            {
+                  "name": "Kostel Panny Marie Sedmibolestné",
+                  "text": "The Panny Marie Sedmibolestné church is a significant pilgrimage site in Krnov on Cvilín. The Baroque architecture makes it particularly worth visiting.",
+                  "category": "religious",
+                  "coords": [
+                        17.721416,
+                        50.08002
                   ]
             }
       ]
@@ -50469,6 +53385,222 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.27693,
                         49.946939
                   ]
+            },
+            {
+                  "name": "České muzeum stříbra",
+                  "text": "Das Tschechische Silbermuseum in Kutná Hora führt Besucher durch die reiche Geschichte des Silberbergbaus der Stadt. Ein Highlight ist die Besichtigung eines mittelalterlichen Bergwerksstollens unter dem Hrádek-Schloss.",
+                  "category": "museum",
+                  "coords": [
+                        15.26547,
+                        49.947626
+                  ]
+            },
+            {
+                  "name": "GASK",
+                  "text": "Die Galerie der Region Mittelböhmen ist in einem beeindruckenden ehemaligen Jesuitenkolleg in Kutná Hora untergebracht. Sie präsentiert moderne und zeitgenössische Kunst in großzügigen, historisch bedeutsamen Räumlichkeiten.",
+                  "category": "museum",
+                  "coords": [
+                        15.264119,
+                        49.946262
+                  ]
+            },
+            {
+                  "name": "Tylovo divadlo",
+                  "text": "Das städtische Tyl-Theater in Kutná Hora ist ein wichtiges kulturelles Zentrum für Schauspiel und musikalische Darbietungen. Das elegante Gebäude ist nach dem berühmten in der Stadt geborenen Dramatiker Josef Kajetán Tyl benannt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.275471,
+                        49.951737
+                  ]
+            },
+            {
+                  "name": "Sedletz-Ossarium",
+                  "text": "Das berühmte Beinhaus von Sedlec bei Kutná Hora enthält kunstvolle Dekorationen aus den Knochen von tausenden Menschen. Dieses einzigartige Denkmal befindet sich unter der Friedhofskirche Allerheiligen.",
+                  "category": "museum",
+                  "coords": [
+                        15.288092,
+                        49.961776
+                  ]
+            },
+            {
+                  "name": "Vlašský dvůr",
+                  "text": "Der Welsche Hof war einst die königliche Münzstätte und Residenz der böhmischen Könige in Kutná Hora. Besucher können heute die königliche Kapelle und die Ausstellungen zur Geschichte der Münzprägung besichtigen.",
+                  "category": "castle",
+                  "coords": [
+                        15.268505,
+                        49.948207
+                  ]
+            },
+            {
+                  "name": "Kamenný dům",
+                  "text": "Das Steinerne Haus in Kutná Hora ist eines der bedeutendsten spätgotischen Wohnhäuser in Böhmen. Es beherbergt Ausstellungen des Silbermuseums über das bürgerliche Leben und Handwerk im Mittelalter.",
+                  "category": "museum",
+                  "coords": [
+                        15.26524,
+                        49.949995
+                  ]
+            },
+            {
+                  "name": "Tylův dům",
+                  "text": "Dieses Museum befindet sich im Geburtshaus von Josef Kajetán Tyl, dem Verfasser der tschechischen Nationalhymne. Die Ausstellung widmet sich dem Leben und Werk dieses bedeutenden Dichters und Dramatikers.",
+                  "category": "museum",
+                  "coords": [
+                        15.26993,
+                        49.949322
+                  ]
+            },
+            {
+                  "name": "Katedrála Nanebevzetí Panny Marie a sv. Jana Křtitele",
+                  "text": "Diese majestätische Kathedrale in Sedlec ist Teil des UNESCO-Welterbes und wurde im Stil der barocken Gotik renoviert. Sie beeindruckt durch ihre monumentale Architektur und die lichtdurchfluteten Innenräume.",
+                  "category": "museum",
+                  "coords": [
+                        15.290135,
+                        49.959824
+                  ]
+            },
+            {
+                  "name": "Dačického dům",
+                  "text": "Das Dačický-Haus in Kutná Hora dient als interaktives Zentrum für das UNESCO-Welterbe der Stadt. Es bietet Besuchern spannende Einblicke in die Architektur und Geschichte dieses historischen Gebäudes.",
+                  "category": "museum",
+                  "coords": [
+                        15.265178,
+                        49.948534
+                  ]
+            },
+            {
+                  "name": "Cimburk",
+                  "text": "Diese archäologische Fundstelle bei Kutná Hora markiert die Überreste einer mittelalterlichen Befestigung. Besucher können die Spuren früherer Besiedlung in der malerischen Umgebung erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        15.246711,
+                        49.928022
+                  ]
+            },
+            {
+                  "name": "Aliens vs. Predators",
+                  "text": "Dieses ungewöhnliche Museum in Kutná Hora widmet sich den berühmten Kreaturen aus der Science-Fiction-Filmwelt. Fans können hier detaillierte Modelle und filmrequisiten aus den beliebten Reihen bewundern.",
+                  "category": "museum",
+                  "coords": [
+                        15.26642,
+                        49.949697
+                  ]
+            },
+            {
+                  "name": "Vodní scéna GASK",
+                  "text": "Die Wasserbühne der GASK-Galerie in Kutná Hora bietet eine einzigartige Kulisse für Theater- und Musikveranstaltungen im Freien. Das moderne Design fügt sich harmonisch in die Umgebung des historischen Jesuitenkollegs ein.",
+                  "category": "cultural",
+                  "coords": [
+                        15.262006,
+                        49.947001
+                  ]
+            },
+            {
+                  "name": "Menhiry v Kutné Hoře",
+                  "text": "Diese Gruppe moderner Menhire in Kutná Hora ist als spiritueller Ort und geomantisches Denkmal angelegt. Die Steine bilden einen interessanten Kontrast zur historischen Kulisse der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        15.269269,
+                        49.960502
+                  ]
+            },
+            {
+                  "name": "Kaňk",
+                  "text": "Der Kaňk ist ein markanter Hügel bei Kutná Hora mit einem Aussichtsturm, der einen weiten Blick über die Region bietet. Die Gegend ist historisch eng mit dem Silberbergbau verbunden.",
+                  "category": "natural",
+                  "coords": [
+                        15.278591,
+                        49.972077
+                  ]
+            },
+            {
+                  "name": "Kamenná kašna",
+                  "text": "Dieser spätgotische Steinbrunnen ist ein architektonisches Juwel im historischen Zentrum von Kutná Hora. Er diente einst als öffentlicher Wasserspeicher und beeindruckt durch seine filigranen Steinmetzarbeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.263867,
+                        49.948846
+                  ]
+            },
+            {
+                  "name": "Vorlíčkovy sady",
+                  "text": "Die Vorlíček-Anlagen sind eine gepflegte Parkanlage in Kutná Hora, die zum Spazierengehen und Entspannen einlädt. Der Park bietet schöne Grünflächen und Ruhe abseits der touristischen Pfade.",
+                  "category": "park",
+                  "coords": [
+                        15.263261,
+                        49.944971
+                  ]
+            },
+            {
+                  "name": "hradiště Denemark",
+                  "text": "Dieser Aussichtspunkt bei Kutná Hora befindet sich an der Stelle einer ehemaligen prähistorischen befestigten Siedlung. Besucher genießen von hier aus einen schönen Blick auf das Flüsschen Vrchlice und die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        15.252408,
+                        49.929061
+                  ]
+            },
+            {
+                  "name": "Geologická expozice Čížkova skála",
+                  "text": "Diese geologische Freilichtausstellung zeigt verschiedene Gesteinsarten der Region um Kutná Hora. Informationstafeln an der Felswand erklären die Erdgeschichte und die lokale Geologie.",
+                  "category": "landmark",
+                  "coords": [
+                        15.265196,
+                        49.937601
+                  ]
+            },
+            {
+                  "name": "Mlýn Cimburk",
+                  "text": "Die Ruinen der Cimburk-Mühle liegen idyllisch an einem Bachlauf bei Kutná Hora. Das historische Gemäuer ist ein beliebtes Ziel für Wanderer, die die naturnahe Umgebung erkunden möchten.",
+                  "category": "historical",
+                  "coords": [
+                        15.244995,
+                        49.92815
+                  ]
+            },
+            {
+                  "name": "menhir",
+                  "text": "Dieser prähistorische Menhir bei Kutná Hora steht als einsamer Zeuge vergangener Epochen in der Landschaft. Er ist ein interessantes Ziel für Besucher, die sich für archäologische Denkmäler interessieren.",
+                  "category": "landmark",
+                  "coords": [
+                        15.247558,
+                        49.930466
+                  ]
+            },
+            {
+                  "name": "Galerie u Vlašského dvora",
+                  "text": "Diese Galerie in unmittelbarer Nähe zum Welschen Hof in Kutná Hora zeigt zeitgenössische Kunst und Kunsthandwerk. Die Ausstellungen bieten eine gute Ergänzung zum Besuch der historischen Münzstätte.",
+                  "category": "museum",
+                  "coords": [
+                        15.267377,
+                        49.948713
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Die Dreifaltigkeitskirche ist ein bedeutendes gotisches Gotteshaus in Kutná Hora, das für seine Architektur bekannt ist. Die Kirche liegt etwas abseits des Zentrums und bietet eine Atmosphäre der Ruhe und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        15.255709,
+                        49.934837
+                  ]
+            },
+            {
+                  "name": "Nejsvětější srdce Páně",
+                  "text": "Die Kirche des Heiligsten Herzens Jesu in Kutná Hora ist ein bemerkenswertes sakrales Bauwerk aus dem frühen 20. Jahrhundert. Sie dient als Ort des Gebets und ist für ihre religiöse Bedeutung in der Gemeinde bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        15.268263,
+                        49.951406
+                  ]
+            },
+            {
+                  "name": "kostel Panny Marie Na Náměti",
+                  "text": "Die Kirche Maria am Marktplatz in Kutná Hora ist ein wichtiges gotisches Baudenkmal mit einer reichen Geschichte. Sie prägt das Stadtbild und beherbergt bedeutende religiöse Kunstwerke in ihrem Inneren.",
+                  "category": "religious",
+                  "coords": [
+                        15.273028,
+                        49.950069
+                  ]
             }
       ],
       "hu": [
@@ -50533,6 +53665,222 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.27693,
                         49.946939
+                  ]
+            },
+            {
+                  "name": "České muzeum stříbra",
+                  "text": "A kutná horai Cseh Ezüstmúzeum végigvezeti a látogatókat a város gazdag ezüstbányászati történelmén. A látogatás fénypontja a Hrádek-kastély alatti középkori bányavágat megtekintése.",
+                  "category": "museum",
+                  "coords": [
+                        15.26547,
+                        49.947626
+                  ]
+            },
+            {
+                  "name": "GASK",
+                  "text": "A Közép-csehországi Régió Galériája egy lenyűgöző egykori jezsuita kollégiumban kapott helyet Kutná Horában. Modern és kortárs művészetet mutat be tágas, történelmileg jelentős helyiségekben.",
+                  "category": "museum",
+                  "coords": [
+                        15.264119,
+                        49.946262
+                  ]
+            },
+            {
+                  "name": "Tylovo divadlo",
+                  "text": "A kutná horai Városi Tyl Színház a dráma és a zenei előadások fontos kulturális központja. Az elegáns épület a városban született híres drámaíróról, Josef Kajetán Tylről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        15.275471,
+                        49.951737
+                  ]
+            },
+            {
+                  "name": "Sedleci osszárium (csontkamra)",
+                  "text": "A Kutná Hora melletti Sedlec híres csontváz-kápolnája több ezer ember csontjából készült művészi dekorációkat tartalmaz. Ez az egyedülálló emlékmű a Mindenszentek temetőkápolna alatt található.",
+                  "category": "museum",
+                  "coords": [
+                        15.288092,
+                        49.961776
+                  ]
+            },
+            {
+                  "name": "Vlašský dvůr",
+                  "text": "Az Olasz Udvar egykor a cseh királyok királyi pénzverdéje és rezidenciája volt Kutná Horában. A látogatók ma a királyi kápolnát és a pénzverés történetéről szóló kiállításokat tekinthetik meg.",
+                  "category": "castle",
+                  "coords": [
+                        15.268505,
+                        49.948207
+                  ]
+            },
+            {
+                  "name": "Kamenný dům",
+                  "text": "A kutná horai Kőház Csehország egyik legjelentősebb késő gótikus lakóháza. Az Ezüstmúzeum kiállításainak ad otthont a középkori polgári életről és mesterségekről.",
+                  "category": "museum",
+                  "coords": [
+                        15.26524,
+                        49.949995
+                  ]
+            },
+            {
+                  "name": "Tylův dům",
+                  "text": "Ez a múzeum Josef Kajetán Tyl, a cseh himnusz szerzőjének szülőházában található. A kiállítás a jelentős költő és drámaíró életének és munkásságának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        15.26993,
+                        49.949322
+                  ]
+            },
+            {
+                  "name": "Katedrála Nanebevzetí Panny Marie a sv. Jana Křtitele",
+                  "text": "Ez a fenséges sedleci katedrális az UNESCO Világörökség része, és barokk gótikus stílusban újították fel. Monumentális építészetével és fényárban úszó belső tereivel nyűgözi le a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        15.290135,
+                        49.959824
+                  ]
+            },
+            {
+                  "name": "Dačického dům",
+                  "text": "A kutná horai Dačický-ház a város UNESCO világörökségi helyszíneinek interaktív központjaként szolgál. Izgalmas betekintést nyújt a látogatóknak e történelmi épület építészetébe és történetébe.",
+                  "category": "museum",
+                  "coords": [
+                        15.265178,
+                        49.948534
+                  ]
+            },
+            {
+                  "name": "Cimburk",
+                  "text": "Ez a Kutná Hora melletti régészeti lelőhely egy középkori erődítmény maradványait jelzi. A látogatók a festői környezetben fedezhetik fel a korábbi település nyomait.",
+                  "category": "historical",
+                  "coords": [
+                        15.246711,
+                        49.928022
+                  ]
+            },
+            {
+                  "name": "Aliens vs. Predators",
+                  "text": "Ez a szokatlan kutná horai múzeum a sci-fi filmvilág híres lényeinek szentelt hely. A rajongók itt a népszerű sorozatok részletgazdag modelljeit és filmkellékeit csodálhatják meg.",
+                  "category": "museum",
+                  "coords": [
+                        15.26642,
+                        49.949697
+                  ]
+            },
+            {
+                  "name": "Vodní scéna GASK",
+                  "text": "A kutná horai GASK galéria vízi színpada egyedülálló hátteret biztosít a szabadtéri színházi és zenei rendezvényekhez. A modern dizájn harmonikusan illeszkedik a történelmi jezsuita kollégium környezetébe.",
+                  "category": "cultural",
+                  "coords": [
+                        15.262006,
+                        49.947001
+                  ]
+            },
+            {
+                  "name": "Menhiry v Kutné Hoře",
+                  "text": "Ez a kutná horai modern menhirekből álló csoport spirituális helyként és geomantikus emlékműként lett kialakítva. A kövek érdekes kontrasztot alkotnak a város történelmi hátterével.",
+                  "category": "historical",
+                  "coords": [
+                        15.269269,
+                        49.960502
+                  ]
+            },
+            {
+                  "name": "Kaňk",
+                  "text": "A Kaňk egy jellegzetes domb Kutná Hora mellett, egy kilátóval, amely széles kilátást nyújt a régióra. A környék történelmileg szorosan kapcsolódik az ezüstbányászathoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.278591,
+                        49.972077
+                  ]
+            },
+            {
+                  "name": "Kamenná kašna",
+                  "text": "Ez a késő gótikus kőkút egy építészeti gyöngyszem Kutná Hora történelmi központjában. Egykor nyilvános víztározóként szolgált, és finom kőfaragványaival nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        15.263867,
+                        49.948846
+                  ]
+            },
+            {
+                  "name": "Vorlíčkovy sady",
+                  "text": "A Vorlíček-liget egy gondozott park Kutná Horában, amely sétálásra és pihenésre hívogat. A park szép zöldfelületeket és nyugalmat kínál a turistaútvonalaktól távol.",
+                  "category": "park",
+                  "coords": [
+                        15.263261,
+                        49.944971
+                  ]
+            },
+            {
+                  "name": "hradiště Denemark",
+                  "text": "Ez a Kutná Hora melletti kilátópont egy korábbi őskori erődített település helyén található. A látogatók innentől szép kilátást élvezhetnek a Vrchlice folyócskára és a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.252408,
+                        49.929061
+                  ]
+            },
+            {
+                  "name": "Geologická expozice Čížkova skála",
+                  "text": "Ez a geológiai szabadtéri kiállítás Kutná Hora környékének különféle kőzettípusait mutatja be. A sziklafalon található információs táblák magyarázzák el a földtörténetet és a helyi geológiát.",
+                  "category": "landmark",
+                  "coords": [
+                        15.265196,
+                        49.937601
+                  ]
+            },
+            {
+                  "name": "Mlýn Cimburk",
+                  "text": "A Cimburk-malom romjai idillien fekszenek egy patak mentén Kutná Hora közelében. A történelmi falmaradványok kedvelt célpontjai a természetközeli környezetet felfedező túrázóknak.",
+                  "category": "historical",
+                  "coords": [
+                        15.244995,
+                        49.92815
+                  ]
+            },
+            {
+                  "name": "menhir",
+                  "text": "Ez a Kutná Hora melletti őskori menhir múltbéli korszakok magányos tanújaként áll a tájban. Érdekes célpont a régészeti műemlékek iránt érdeklődő látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        15.247558,
+                        49.930466
+                  ]
+            },
+            {
+                  "name": "Galerie u Vlašského dvora",
+                  "text": "Ez a galéria Kutná Horában, az Olasz Udvar közvetlen közelében kortárs művészetet és kézműves termékeket mutat be. A kiállítások jól kiegészítik a történelmi pénzverde meglátogatását.",
+                  "category": "museum",
+                  "coords": [
+                        15.267377,
+                        49.948713
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "A Szentháromság-templom egy jelentős gótikus Istenháza Kutná Horában, amely építészetéről ismert. A templom kissé távolabb fekszik a központtól, és a nyugalom és az elmélyülés hangulatát kínálja.",
+                  "category": "religious",
+                  "coords": [
+                        15.255709,
+                        49.934837
+                  ]
+            },
+            {
+                  "name": "Nejsvětější srdce Páně",
+                  "text": "A kutná horai Jézus Szíve-templom egy figyelemre méltó szakrális építmény a 20. század elejéről. Az ima helyeként szolgál, és a közösségben betöltött vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        15.268263,
+                        49.951406
+                  ]
+            },
+            {
+                  "name": "kostel Panny Marie Na Náměti",
+                  "text": "A kutná horai Mária-templom a piactéren egy fontos gótikus műemlék, gazdag történelemmel. Meghatározza a városképet, és belsejében jelentős vallási műalkotások találhatók.",
+                  "category": "religious",
+                  "coords": [
+                        15.273028,
+                        49.950069
                   ]
             }
       ],
@@ -50599,6 +53947,222 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.27693,
                         49.946939
                   ]
+            },
+            {
+                  "name": "České muzeum stříbra",
+                  "text": "Muzeul Ceh al Argintului din Kutná Hora ghidează vizitatorii prin istoria bogată a mineritului de argint din oraș. Un punct culminant este vizitarea unei galerii de mină medievale de sub castelul Hrádek.",
+                  "category": "museum",
+                  "coords": [
+                        15.26547,
+                        49.947626
+                  ]
+            },
+            {
+                  "name": "GASK",
+                  "text": "Galeria Regiunii Boemia Centrală este găzduită într-un fost colegiu iezuit impresionant din Kutná Hora. Aceasta prezintă artă modernă și contemporană în spații generoase, semnificative din punct de vedere istoric.",
+                  "category": "museum",
+                  "coords": [
+                        15.264119,
+                        49.946262
+                  ]
+            },
+            {
+                  "name": "Tylovo divadlo",
+                  "text": "Teatrul municipal Tyl din Kutná Hora este un centru cultural important pentru spectacole de teatru și muzicale. Clădirea elegantă poartă numele celebrului dramaturg născut în oraș, Josef Kajetán Tyl.",
+                  "category": "cultural",
+                  "coords": [
+                        15.275471,
+                        49.951737
+                  ]
+            },
+            {
+                  "name": "Kostnice v Sedlci (Ossuary)",
+                  "text": "Slava osuar de la Sedlec, lângă Kutná Hora, conține decorațiuni artistice realizate din oasele a mii de oameni. Acest monument unic se află sub biserica cimitirului Toți Sfinții.",
+                  "category": "museum",
+                  "coords": [
+                        15.288092,
+                        49.961776
+                  ]
+            },
+            {
+                  "name": "Vlašský dvůr",
+                  "text": "Curtea Italiană a fost odinioară monetăria regală și reședința regilor boemi în Kutná Hora. Vizitatorii pot vedea astăzi capela regală și expozițiile despre istoria baterii monedelor.",
+                  "category": "castle",
+                  "coords": [
+                        15.268505,
+                        49.948207
+                  ]
+            },
+            {
+                  "name": "Kamenný dům",
+                  "text": "Casa de Piatră din Kutná Hora este una dintre cele mai semnificative case de locuit în stil gotic târziu din Boemia. Aceasta găzduiește expoziții ale Muzeului Argintului despre viața burgheză și meșteșugurile din Evul Mediu.",
+                  "category": "museum",
+                  "coords": [
+                        15.26524,
+                        49.949995
+                  ]
+            },
+            {
+                  "name": "Tylův dům",
+                  "text": "Acest muzeu se află în casa natală a lui Josef Kajetán Tyl, autorul imnului național ceh. Expoziția este dedicată vieții și operei acestui important poet și dramaturg.",
+                  "category": "museum",
+                  "coords": [
+                        15.26993,
+                        49.949322
+                  ]
+            },
+            {
+                  "name": "Katedrála Nanebevzetí Panny Marie a sv. Jana Křtitele",
+                  "text": "Această catedrală maiestuoasă din Sedlec face parte din patrimoniul mondial UNESCO și a fost renovată în stil gotic baroc. Impresionează prin arhitectura sa monumentală și interioarele pline de lumină.",
+                  "category": "museum",
+                  "coords": [
+                        15.290135,
+                        49.959824
+                  ]
+            },
+            {
+                  "name": "Dačického dům",
+                  "text": "Casa Dačický din Kutná Hora servește ca centru interactiv pentru patrimoniul mondial UNESCO al orașului. Aceasta oferă vizitatorilor perspective fascinante asupra arhitecturii și istoriei acestei clădiri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        15.265178,
+                        49.948534
+                  ]
+            },
+            {
+                  "name": "Cimburk",
+                  "text": "Acest sit arheologic de lângă Kutná Hora marchează resturile unei fortificații medievale. Vizitatorii pot explora urmele așezărilor timpurii în împrejurimile pitorești.",
+                  "category": "historical",
+                  "coords": [
+                        15.246711,
+                        49.928022
+                  ]
+            },
+            {
+                  "name": "Aliens vs. Predators",
+                  "text": "Acest muzeu neobișnuit din Kutná Hora este dedicat creaturilor celebre din lumea filmelor science-fiction. Fanii pot admira aici modele detaliate și recuzită de film din seriile populare.",
+                  "category": "museum",
+                  "coords": [
+                        15.26642,
+                        49.949697
+                  ]
+            },
+            {
+                  "name": "Vodní scéna GASK",
+                  "text": "Scena acvatică a galeriei GASK din Kutná Hora oferă un cadru unic pentru evenimente de teatru și muzică în aer liber. Designul modern se integrează armonios în mediul fostului colegiu iezuit istoric.",
+                  "category": "cultural",
+                  "coords": [
+                        15.262006,
+                        49.947001
+                  ]
+            },
+            {
+                  "name": "Menhiry v Kutné Hoře",
+                  "text": "Acest grup de menhire moderne din Kutná Hora este conceput ca un loc spiritual și monument geomantic. Pietrele formează un contrast interesant cu fundalul istoric al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        15.269269,
+                        49.960502
+                  ]
+            },
+            {
+                  "name": "Kaňk",
+                  "text": "Kaňk este un deal distinctiv de lângă Kutná Hora, cu un turn de belvedere care oferă o vedere largă asupra regiunii. Zona este strâns legată istoric de mineritul de argint.",
+                  "category": "natural",
+                  "coords": [
+                        15.278591,
+                        49.972077
+                  ]
+            },
+            {
+                  "name": "Kamenná kašna",
+                  "text": "Această fântână de piatră în stil gotic târziu este o bijuterie arhitecturală în centrul istoric al orașului Kutná Hora. A servit odinioară ca rezervor public de apă și impresionează prin lucrările sale filigrane în piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        15.263867,
+                        49.948846
+                  ]
+            },
+            {
+                  "name": "Vorlíčkovy sady",
+                  "text": "Grădinile Vorlíček sunt un parc îngrijit din Kutná Hora, care invită la plimbare și relaxare. Parcul oferă spații verzi frumoase și liniște departe de traseele turistice.",
+                  "category": "park",
+                  "coords": [
+                        15.263261,
+                        49.944971
+                  ]
+            },
+            {
+                  "name": "hradiště Denemark",
+                  "text": "Acest punct de belvedere de lângă Kutná Hora se află pe locul unei foste așezări fortificate preistorice. Vizitatorii se bucură de aici de o vedere frumoasă asupra râului Vrchlice și a împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.252408,
+                        49.929061
+                  ]
+            },
+            {
+                  "name": "Geologická expozice Čížkova skála",
+                  "text": "Această expoziție geologică în aer liber prezintă diverse tipuri de roci din regiunea Kutná Hora. Panourile informative de pe peretele de stâncă explică istoria pământului și geologia locală.",
+                  "category": "landmark",
+                  "coords": [
+                        15.265196,
+                        49.937601
+                  ]
+            },
+            {
+                  "name": "Mlýn Cimburk",
+                  "text": "Ruinele morii Cimburk sunt situate idilic lângă un pârâu lângă Kutná Hora. Zidurile istorice sunt o destinație populară pentru turiștii care doresc să exploreze mediul natural.",
+                  "category": "historical",
+                  "coords": [
+                        15.244995,
+                        49.92815
+                  ]
+            },
+            {
+                  "name": "menhir",
+                  "text": "Acest menhir preistoric de lângă Kutná Hora stă ca un martor singuratic al epocilor trecute în peisaj. Este o destinație interesantă pentru vizitatorii interesați de monumentele arheologice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.247558,
+                        49.930466
+                  ]
+            },
+            {
+                  "name": "Galerie u Vlašského dvora",
+                  "text": "Această galerie din imediata apropiere a Curții Italiene din Kutná Hora prezintă artă contemporană și artizanat. Expozițiile oferă o completare bună la vizitarea monetăriei istorice.",
+                  "category": "museum",
+                  "coords": [
+                        15.267377,
+                        49.948713
+                  ]
+            },
+            {
+                  "name": "Nejsvětější Trojice",
+                  "text": "Biserica Sfânta Treime este un lăcaș de cult gotic important din Kutná Hora, cunoscut pentru arhitectura sa. Biserica se află puțin în afara centrului și oferă o atmosferă de liniște și meditație.",
+                  "category": "religious",
+                  "coords": [
+                        15.255709,
+                        49.934837
+                  ]
+            },
+            {
+                  "name": "Nejsvětější srdce Páně",
+                  "text": "Biserica Preasfânta Inimă a lui Isus din Kutná Hora este un edificiu sacru remarcabil de la începutul secolului al XX-lea. Servește ca loc de rugăciune și este cunoscută pentru importanța sa religioasă în comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        15.268263,
+                        49.951406
+                  ]
+            },
+            {
+                  "name": "kostel Panny Marie Na Náměti",
+                  "text": "Biserica Sfânta Maria de pe Piață din Kutná Hora este un monument arhitectural gotic important cu o istorie bogată. Aceasta marchează imaginea orașului și găzduiește opere de artă religioasă semnificative în interior.",
+                  "category": "religious",
+                  "coords": [
+                        15.273028,
+                        49.950069
+                  ]
             }
       ],
       "en": [
@@ -50663,6 +54227,222 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.27693,
                         49.946939
+                  ]
+            },
+            {
+                  "name": "České muzeum stříbra",
+                  "text": "The Czech Silver Museum in Kutná Hora guides visitors through the city's rich history of silver mining. A highlight is the tour of a medieval mine gallery beneath the Hrádek castle.",
+                  "category": "museum",
+                  "coords": [
+                        15.26547,
+                        49.947626
+                  ]
+            },
+            {
+                  "name": "GASK",
+                  "text": "The Gallery of the Central Bohemian Region is housed in an impressive former Jesuit College in Kutná Hora. It presents modern and contemporary art in spacious, historically significant premises.",
+                  "category": "museum",
+                  "coords": [
+                        15.264119,
+                        49.946262
+                  ]
+            },
+            {
+                  "name": "Tylovo divadlo",
+                  "text": "The municipal Tyl Theatre in Kutná Hora is an important cultural center for drama and musical performances. The elegant building is named after the famous playwright Josef Kajetán Tyl, who was born in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        15.275471,
+                        49.951737
+                  ]
+            },
+            {
+                  "name": "kostnice",
+                  "text": "The famous Sedlec Ossuary near Kutná Hora contains artistic decorations made from the bones of thousands of people. This unique monument is located beneath the Cemetery Church of All Saints.",
+                  "category": "museum",
+                  "coords": [
+                        15.288092,
+                        49.961776
+                  ]
+            },
+            {
+                  "name": "Vlašský dvůr",
+                  "text": "The Italian Court was once the royal mint and residence of Bohemian kings in Kutná Hora. Visitors can now tour the royal chapel and exhibitions on the history of coin minting.",
+                  "category": "castle",
+                  "coords": [
+                        15.268505,
+                        49.948207
+                  ]
+            },
+            {
+                  "name": "Kamenný dům",
+                  "text": "The Stone House in Kutná Hora is one of the most significant Late Gothic residential buildings in Bohemia. It houses exhibitions from the Silver Museum about burgher life and crafts in the Middle Ages.",
+                  "category": "museum",
+                  "coords": [
+                        15.26524,
+                        49.949995
+                  ]
+            },
+            {
+                  "name": "Tylův dům",
+                  "text": "This museum is located in the birthplace of Josef Kajetán Tyl, the author of the Czech national anthem. The exhibition is dedicated to the life and work of this significant poet and playwright.",
+                  "category": "museum",
+                  "coords": [
+                        15.26993,
+                        49.949322
+                  ]
+            },
+            {
+                  "name": "Katedrála Nanebevzetí Panny Marie a sv. Jana Křtitele",
+                  "text": "This majestic cathedral in Sedlec is part of the UNESCO World Heritage and was renovated in the Baroque Gothic style. It impresses with its monumental architecture and light-filled interiors.",
+                  "category": "museum",
+                  "coords": [
+                        15.290135,
+                        49.959824
+                  ]
+            },
+            {
+                  "name": "Dačického dům",
+                  "text": "The Dačický House in Kutná Hora serves as an interactive center for the city's UNESCO World Heritage. It offers visitors exciting insights into the architecture and history of this historic building.",
+                  "category": "museum",
+                  "coords": [
+                        15.265178,
+                        49.948534
+                  ]
+            },
+            {
+                  "name": "Cimburk",
+                  "text": "This archaeological site near Kutná Hora marks the remains of a medieval fortification. Visitors can explore the traces of earlier settlement in the picturesque surroundings.",
+                  "category": "historical",
+                  "coords": [
+                        15.246711,
+                        49.928022
+                  ]
+            },
+            {
+                  "name": "Aliens vs. Predators",
+                  "text": "This unusual museum in Kutná Hora is dedicated to the famous creatures from the science-fiction film world. Fans can admire detailed models and film props from the popular series here.",
+                  "category": "museum",
+                  "coords": [
+                        15.26642,
+                        49.949697
+                  ]
+            },
+            {
+                  "name": "Vodní scéna GASK",
+                  "text": "The water stage of the GASK gallery in Kutná Hora provides a unique backdrop for outdoor theatre and music events. The modern design blends harmoniously into the surroundings of the historic Jesuit College.",
+                  "category": "cultural",
+                  "coords": [
+                        15.262006,
+                        49.947001
+                  ]
+            },
+            {
+                  "name": "Menhiry v Kutné Hoře",
+                  "text": "This group of modern menhirs in Kutná Hora is designed as a spiritual site and geomantic monument. The stones form an interesting contrast to the city's historical backdrop.",
+                  "category": "historical",
+                  "coords": [
+                        15.269269,
+                        49.960502
+                  ]
+            },
+            {
+                  "name": "Kaňk",
+                  "text": "Kaňk is a prominent hill near Kutná Hora with a lookout tower that offers a wide view over the region. The area is historically closely linked to silver mining.",
+                  "category": "natural",
+                  "coords": [
+                        15.278591,
+                        49.972077
+                  ]
+            },
+            {
+                  "name": "Gothic Stone Fountain",
+                  "text": "This Late Gothic stone fountain is an architectural gem in the historic center of Kutná Hora. It once served as a public water reservoir and impresses with its delicate stonework.",
+                  "category": "landmark",
+                  "coords": [
+                        15.263867,
+                        49.948846
+                  ]
+            },
+            {
+                  "name": "Vorlíčkovy sady",
+                  "text": "Vorlíček Orchards is a well-maintained park in Kutná Hora that invites walking and relaxation. The park offers beautiful green spaces and tranquility away from the tourist paths.",
+                  "category": "park",
+                  "coords": [
+                        15.263261,
+                        49.944971
+                  ]
+            },
+            {
+                  "name": "hradiště Denemark",
+                  "text": "This viewpoint near Kutná Hora is located at the site of a former prehistoric fortified settlement. Visitors enjoy a lovely view of the Vrchlice stream and the surroundings from here.",
+                  "category": "natural",
+                  "coords": [
+                        15.252408,
+                        49.929061
+                  ]
+            },
+            {
+                  "name": "Geologická expozice Čížkova skála",
+                  "text": "This geological open-air exhibition displays various types of rocks from the region around Kutná Hora. Information boards at the rock face explain earth history and local geology.",
+                  "category": "landmark",
+                  "coords": [
+                        15.265196,
+                        49.937601
+                  ]
+            },
+            {
+                  "name": "Mlýn Cimburk",
+                  "text": "The ruins of the Cimburk Mill are idyllically located by a stream near Kutná Hora. The historical remains are a popular destination for hikers wishing to explore the natural surroundings.",
+                  "category": "historical",
+                  "coords": [
+                        15.244995,
+                        49.92815
+                  ]
+            },
+            {
+                  "name": "menhir",
+                  "text": "This prehistoric menhir near Kutná Hora stands as a lonely witness to past eras in the landscape. It is an interesting destination for visitors interested in archaeological monuments.",
+                  "category": "landmark",
+                  "coords": [
+                        15.247558,
+                        49.930466
+                  ]
+            },
+            {
+                  "name": "Galerie u Vlašského dvora",
+                  "text": "This gallery, located in the immediate vicinity of the Italian Court in Kutná Hora, displays contemporary art and crafts. The exhibitions provide a great complement to a visit to the historic mint.",
+                  "category": "museum",
+                  "coords": [
+                        15.267377,
+                        49.948713
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "The Holy Trinity Church is a significant Gothic house of worship in Kutná Hora, known for its architecture. The church is located slightly away from the center and offers an atmosphere of peace and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        15.255709,
+                        49.934837
+                  ]
+            },
+            {
+                  "name": "Nejsvětější srdce Páně",
+                  "text": "The Church of the Most Sacred Heart of Our Lord in Kutná Hora is a remarkable sacred building from the early 20th century. It serves as a place of prayer and is known for its religious significance in the community.",
+                  "category": "religious",
+                  "coords": [
+                        15.268263,
+                        49.951406
+                  ]
+            },
+            {
+                  "name": "kostel Panny Marie Na Náměti",
+                  "text": "The Church of Our Lady on the Market in Kutná Hora is an important Gothic architectural monument with a rich history. It shapes the cityscape and houses significant religious artworks in its interior.",
+                  "category": "religious",
+                  "coords": [
+                        15.273028,
+                        49.950069
                   ]
             }
       ]
@@ -53287,6 +57067,141 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.525442,
                         50.325295
                   ]
+            },
+            {
+                  "name": "Regionální muzeum K. A. Polánka v Žatci",
+                  "text": "Das Regionalmuseum K. A. Polánek in Žatec bietet interessante Einblicke in die lokale Geschichte. Es ist ein Muss für kulturinteressierte Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        13.540508,
+                        50.322617
+                  ]
+            },
+            {
+                  "name": "Retro Computer",
+                  "text": "Das Retro Computer Museum in Žatec präsentiert die Geschichte der frühen Computertechnik. Ein spannender Ort für Technikbegeisterte jeden Alters.",
+                  "category": "museum",
+                  "coords": [
+                        13.54385,
+                        50.33059
+                  ]
+            },
+            {
+                  "name": "Staňkovice",
+                  "text": "Staňkovice ist ein geschütztes Naturschutzgebiet in der Nähe von Žatec. Es ist ideal für Naturfreunde, die Ruhe und Erholung suchen.",
+                  "category": "natural",
+                  "coords": [
+                        13.559654,
+                        50.354506
+                  ]
+            },
+            {
+                  "name": "Žatec",
+                  "text": "Das Naturdenkmal Žatec ist ein schönes geschütztes Gebiet für Naturbeobachtungen. Besucher können hier die heimische Flora und Fauna erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.532855,
+                        50.34605
+                  ]
+            },
+            {
+                  "name": "Křížova Vila",
+                  "text": "Die Křížova Vila ist ein beeindruckendes Museumsgebäude in Žatec. Sie beherbergt kulturelle Ausstellungen in historischem Ambiente.",
+                  "category": "museum",
+                  "coords": [
+                        13.538929,
+                        50.324773
+                  ]
+            },
+            {
+                  "name": "Muzeum pivovarnictví Žatecka",
+                  "text": "Das Biermuseum von Žatec zeigt die lange Brautradition der Region. Besucher können alles über die Geschichte des Bieres lernen.",
+                  "category": "museum",
+                  "coords": [
+                        13.542475,
+                        50.332134
+                  ]
+            },
+            {
+                  "name": "Divadlo",
+                  "text": "Das Theater in Žatec ist ein kulturelles Zentrum der Stadt. Es bietet ein vielfältiges Programm für Theaterfreunde.",
+                  "category": "cultural",
+                  "coords": [
+                        13.543529,
+                        50.327246
+                  ]
+            },
+            {
+                  "name": "Renesanční sladovna",
+                  "text": "Die Renaissance-Mälzerei in Žatec ist ein einzigartiges Industriemuseum. Sie gewährt spannende Einblicke in die historische Produktion von Malz.",
+                  "category": "museum",
+                  "coords": [
+                        13.544683,
+                        50.326416
+                  ]
+            },
+            {
+                  "name": "Chrám Chmele a Piva",
+                  "text": "Der Tempel des Hopfens und des Bieres in Žatec ist ein interaktives Museum. Hier dreht sich alles um die weltberühmte Hopfenkultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        13.54504,
+                        50.324577
+                  ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "Das Freibad in Žatec ist ein beliebter Ort für Erholung und Spaß im Wasser. Es ist perfekt für Familien und Schwimmbegeisterte.",
+                  "category": "recreational",
+                  "coords": [
+                        13.527055,
+                        50.325129
+                  ]
+            },
+            {
+                  "name": "zahrada",
+                  "text": "Der Garten in Žatec ist ein schöner Ort zum Verweilen und Genießen. Er bietet Ruhe inmitten der Stadt für einen entspannten Spaziergang.",
+                  "category": "landmark",
+                  "coords": [
+                        13.525913,
+                        50.321098
+                  ]
+            },
+            {
+                  "name": "Nejmenší chmelnice na světě",
+                  "text": "Der kleinste Hopfengarten der Welt in Žatec ist eine skurrile Attraktion. Er ist ein charmantes Symbol der lokalen Hopfentradition.",
+                  "category": "landmark",
+                  "coords": [
+                        13.544868,
+                        50.329853
+                  ]
+            },
+            {
+                  "name": "Korunování Panny Marie",
+                  "text": "Die Kirche Korunování Panny Marie ist ein bedeutendes religiöses Bauwerk in Žatec. Sie zeichnet sich durch ihre architektonische Schönheit aus.",
+                  "category": "religious",
+                  "coords": [
+                        13.547687,
+                        50.325233
+                  ]
+            },
+            {
+                  "name": "Svatý Jakub",
+                  "text": "Die St.-Jakobs-Kirche ist ein historisches Gotteshaus in Žatec. Sie ist ein wichtiger Teil des kulturellen Erbes der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        13.550312,
+                        50.326364
+                  ]
+            },
+            {
+                  "name": "Všech svatých",
+                  "text": "Die Kirche Všech svatých in Libočany bei Žatec ist ein wertvolles historisches Gebäude. Ein Besuch lohnt sich aufgrund der Architektur und Geschichte.",
+                  "category": "religious",
+                  "coords": [
+                        13.51489,
+                        50.333254
+                  ]
             }
       ],
       "hu": [
@@ -53297,6 +57212,141 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.525442,
                         50.325295
+                  ]
+            },
+            {
+                  "name": "Regionální muzeum K. A. Polánka v Žatci",
+                  "text": "A žateci K. A. Polánek Regionális Múzeum érdekes betekintést nyújt a helyi történelembe. A kultúra iránt érdeklődő látogatók számára kihagyhatatlan.",
+                  "category": "museum",
+                  "coords": [
+                        13.540508,
+                        50.322617
+                  ]
+            },
+            {
+                  "name": "Retro Computer",
+                  "text": "A žateci Retro Computer Múzeum a korai számítástechnika történetét mutatja be. Izgalmas hely minden korosztályú technika rajongó számára.",
+                  "category": "museum",
+                  "coords": [
+                        13.54385,
+                        50.33059
+                  ]
+            },
+            {
+                  "name": "Staňkovice",
+                  "text": "Staňkovice egy védett természetvédelmi terület Žatec közelében. Ideális a természetbarátok számára, akik csendre és kikapcsolódásra vágynak.",
+                  "category": "natural",
+                  "coords": [
+                        13.559654,
+                        50.354506
+                  ]
+            },
+            {
+                  "name": "Žatec",
+                  "text": "A Žatec természeti emlékhely egy gyönyörű védett terület a természet megfigyelésére. A látogatók felfedezhetik itt a helyi növény- és állatvilágot.",
+                  "category": "natural",
+                  "coords": [
+                        13.532855,
+                        50.34605
+                  ]
+            },
+            {
+                  "name": "Křížova Vila",
+                  "text": "A Křížova Vila egy lenyűgöző múzeumi épület Žatecben. Kulturális kiállításoknak ad otthont történelmi környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        13.538929,
+                        50.324773
+                  ]
+            },
+            {
+                  "name": "Muzeum pivovarnictví Žatecka",
+                  "text": "A žateci Sörmúzeum bemutatja a régió hosszú sörfőzési hagyományait. A látogatók mindent megtudhatnak a sör történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        13.542475,
+                        50.332134
+                  ]
+            },
+            {
+                  "name": "Divadlo",
+                  "text": "A žateci színház a város kulturális központja. Változatos műsort kínál a színház szerelmeseinek.",
+                  "category": "cultural",
+                  "coords": [
+                        13.543529,
+                        50.327246
+                  ]
+            },
+            {
+                  "name": "Renesanční sladovna",
+                  "text": "A žateci reneszánsz malátagyár egy egyedülálló ipari múzeum. Izgalmas betekintést nyújt a maláta történelmi termelésébe.",
+                  "category": "museum",
+                  "coords": [
+                        13.544683,
+                        50.326416
+                  ]
+            },
+            {
+                  "name": "Chrám Chmele a Piva",
+                  "text": "A žateci Komló és Sör Temploma egy interaktív múzeum. Itt minden a régió világhírű komlókultúrája körül forog.",
+                  "category": "museum",
+                  "coords": [
+                        13.54504,
+                        50.324577
+                  ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "A žateci szabadtéri medence népszerű hely a pihenésre és a vízi szórakozásra. Tökéletes családok és úszáskedvelők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        13.527055,
+                        50.325129
+                  ]
+            },
+            {
+                  "name": "zahrada",
+                  "text": "A žateci kert egy szép hely az időzésre és az élvezetre. Nyugalmat kínál a város közepén egy pihentető sétához.",
+                  "category": "landmark",
+                  "coords": [
+                        13.525913,
+                        50.321098
+                  ]
+            },
+            {
+                  "name": "Nejmenší chmelnice na světě",
+                  "text": "A žateci világ legkisebb komlóskertje egy szeszélyes látnivaló. A helyi komlókultúra bűbájos jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        13.544868,
+                        50.329853
+                  ]
+            },
+            {
+                  "name": "Korunování Panny Marie",
+                  "text": "A Korunování Panny Marie templom egy fontos vallási építmény Žatecben. Építészeti szépségével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        13.547687,
+                        50.325233
+                  ]
+            },
+            {
+                  "name": "Svatý Jakub",
+                  "text": "A Szent Jakab templom egy történelmi imaház Žatecben. A város kulturális örökségének fontos része.",
+                  "category": "religious",
+                  "coords": [
+                        13.550312,
+                        50.326364
+                  ]
+            },
+            {
+                  "name": "Všech svatých",
+                  "text": "A libočanyi Všech svatých templom Žatec mellett egy értékes történelmi épület. Az építészet és a történelem miatt érdemes meglátogatni.",
+                  "category": "religious",
+                  "coords": [
+                        13.51489,
+                        50.333254
                   ]
             }
       ],
@@ -53309,6 +57359,141 @@ export const czechrepublicCitiesV2: POI[] = [
                         13.525442,
                         50.325295
                   ]
+            },
+            {
+                  "name": "Regionální muzeum K. A. Polánka v Žatci",
+                  "text": "Muzeul Regional K. A. Polánek din Žatec oferă perspective interesante asupra istoriei locale. Este un punct de atracție obligatoriu pentru vizitatorii interesați de cultură.",
+                  "category": "museum",
+                  "coords": [
+                        13.540508,
+                        50.322617
+                  ]
+            },
+            {
+                  "name": "Retro Computer",
+                  "text": "Muzeul Retro Computer din Žatec prezintă istoria tehnologiei informatice timpurii. Un loc captivant pentru pasionații de tehnică de toate vârstele.",
+                  "category": "museum",
+                  "coords": [
+                        13.54385,
+                        50.33059
+                  ]
+            },
+            {
+                  "name": "Staňkovice",
+                  "text": "Staňkovice este o rezervație naturală protejată lângă Žatec. Este ideală pentru iubitorii de natură care caută liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        13.559654,
+                        50.354506
+                  ]
+            },
+            {
+                  "name": "Žatec",
+                  "text": "Monumentul natural Žatec este o zonă protejată frumoasă pentru observarea naturii. Vizitatorii pot explora aici flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        13.532855,
+                        50.34605
+                  ]
+            },
+            {
+                  "name": "Křížova Vila",
+                  "text": "Křížova Vila este o clădire muzeală impresionantă din Žatec. Aceasta găzduiește expoziții culturale într-un cadru istoric.",
+                  "category": "museum",
+                  "coords": [
+                        13.538929,
+                        50.324773
+                  ]
+            },
+            {
+                  "name": "Muzeum pivovarnictví Žatecka",
+                  "text": "Muzeul Berii din Žatec prezintă lunga tradiție de fabricare a berii în regiune. Vizitatorii pot învăța totul despre istoria berii.",
+                  "category": "museum",
+                  "coords": [
+                        13.542475,
+                        50.332134
+                  ]
+            },
+            {
+                  "name": "Divadlo",
+                  "text": "Teatrul din Žatec este un centru cultural al orașului. Acesta oferă un program diversificat pentru pasionații de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        13.543529,
+                        50.327246
+                  ]
+            },
+            {
+                  "name": "Renesanční sladovna",
+                  "text": "Mălțăria renascentistă din Žatec este un muzeu industrial unic. Aceasta oferă perspective fascinante asupra producției istorice de malț.",
+                  "category": "museum",
+                  "coords": [
+                        13.544683,
+                        50.326416
+                  ]
+            },
+            {
+                  "name": "Chrám Chmele a Piva",
+                  "text": "Templul Hameiului și al Berii din Žatec este un muzeu interactiv. Aici, totul se învârte în jurul culturii hameiului de renume mondial din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        13.54504,
+                        50.324577
+                  ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "Ștrandul din Žatec este un loc popular pentru recreere și distracție în apă. Este perfect pentru familii și pasionații de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        13.527055,
+                        50.325129
+                  ]
+            },
+            {
+                  "name": "zahrada",
+                  "text": "Grădina din Žatec este un loc frumos pentru relaxare și bucurie. Aceasta oferă liniște în mijlocul orașului pentru o plimbare relaxantă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.525913,
+                        50.321098
+                  ]
+            },
+            {
+                  "name": "Nejmenší chmelnice na světě",
+                  "text": "Cea mai mică grădină de hamei din lume din Žatec este o atracție inedită. Aceasta este un simbol fermecător al tradiției locale a hameiului.",
+                  "category": "landmark",
+                  "coords": [
+                        13.544868,
+                        50.329853
+                  ]
+            },
+            {
+                  "name": "Korunování Panny Marie",
+                  "text": "Biserica Korunování Panny Marie este o structură religioasă semnificativă din Žatec. Aceasta se remarcă prin frumusețea sa arhitecturală.",
+                  "category": "religious",
+                  "coords": [
+                        13.547687,
+                        50.325233
+                  ]
+            },
+            {
+                  "name": "Svatý Jakub",
+                  "text": "Biserica Sfântul Iacob este un lăcaș de cult istoric din Žatec. Aceasta este o parte importantă a moștenirii culturale a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        13.550312,
+                        50.326364
+                  ]
+            },
+            {
+                  "name": "Všech svatých",
+                  "text": "Biserica Všech svatých din Libočany, lângă Žatec, este o clădire istorică valoroasă. O vizită merită datorită arhitecturii și istoriei sale.",
+                  "category": "religious",
+                  "coords": [
+                        13.51489,
+                        50.333254
+                  ]
             }
       ],
       "en": [
@@ -53319,6 +57504,141 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.525442,
                         50.325295
+                  ]
+            },
+            {
+                  "name": "Regionální muzeum K. A. Polánka v Žatci",
+                  "text": "The K. A. Polánek Regional Museum in Žatec offers interesting insights into local history. It is a must-visit for culture-minded travelers.",
+                  "category": "museum",
+                  "coords": [
+                        13.540508,
+                        50.322617
+                  ]
+            },
+            {
+                  "name": "Retro Computer",
+                  "text": "The Retro Computer Museum in Žatec showcases the history of early computer technology. An exciting place for technology enthusiasts of all ages.",
+                  "category": "museum",
+                  "coords": [
+                        13.54385,
+                        50.33059
+                  ]
+            },
+            {
+                  "name": "Staňkovice",
+                  "text": "Staňkovice is a protected nature reserve near Žatec. It is ideal for nature lovers seeking peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        13.559654,
+                        50.354506
+                  ]
+            },
+            {
+                  "name": "Žatec",
+                  "text": "The Žatec natural monument is a beautiful protected area for nature observation. Visitors can explore the local flora and fauna here.",
+                  "category": "natural",
+                  "coords": [
+                        13.532855,
+                        50.34605
+                  ]
+            },
+            {
+                  "name": "Křížova Vila",
+                  "text": "The Křížova Vila is an impressive museum building in Žatec. It houses cultural exhibitions in a historical setting.",
+                  "category": "museum",
+                  "coords": [
+                        13.538929,
+                        50.324773
+                  ]
+            },
+            {
+                  "name": "Muzeum pivovarnictví Žatecka",
+                  "text": "The Beer Museum of Žatec showcases the long brewing tradition of the region. Visitors can learn all about the history of beer.",
+                  "category": "museum",
+                  "coords": [
+                        13.542475,
+                        50.332134
+                  ]
+            },
+            {
+                  "name": "Divadlo",
+                  "text": "The theater in Žatec is a cultural center of the city. It offers a diverse program for theater enthusiasts.",
+                  "category": "cultural",
+                  "coords": [
+                        13.543529,
+                        50.327246
+                  ]
+            },
+            {
+                  "name": "Renesanční sladovna",
+                  "text": "The Renaissance malthouse in Žatec is a unique industrial museum. It provides fascinating insights into the historical production of malt.",
+                  "category": "museum",
+                  "coords": [
+                        13.544683,
+                        50.326416
+                  ]
+            },
+            {
+                  "name": "Chrám Chmele a Piva",
+                  "text": "The Temple of Hops and Beer in Žatec is an interactive museum. Here, everything revolves around the world-famous hop culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        13.54504,
+                        50.324577
+                  ]
+            },
+            {
+                  "name": "Koupaliště",
+                  "text": "The outdoor pool in Žatec is a popular place for recreation and fun in the water. It is perfect for families and swimming enthusiasts.",
+                  "category": "recreational",
+                  "coords": [
+                        13.527055,
+                        50.325129
+                  ]
+            },
+            {
+                  "name": "zahrada",
+                  "text": "The garden in Žatec is a beautiful place to linger and enjoy. It offers peace in the middle of the city for a relaxing walk.",
+                  "category": "landmark",
+                  "coords": [
+                        13.525913,
+                        50.321098
+                  ]
+            },
+            {
+                  "name": "Nejmenší chmelnice na světě",
+                  "text": "The smallest hop garden in the world in Žatec is a quirky attraction. It is a charming symbol of the local hop tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        13.544868,
+                        50.329853
+                  ]
+            },
+            {
+                  "name": "Korunování Panny Marie",
+                  "text": "The Korunování Panny Marie church is a significant religious structure in Žatec. It is distinguished by its architectural beauty.",
+                  "category": "religious",
+                  "coords": [
+                        13.547687,
+                        50.325233
+                  ]
+            },
+            {
+                  "name": "Svatý Jakub",
+                  "text": "The St. James Church is a historical place of worship in Žatec. It is an important part of the city's cultural heritage.",
+                  "category": "religious",
+                  "coords": [
+                        13.550312,
+                        50.326364
+                  ]
+            },
+            {
+                  "name": "Všech svatých",
+                  "text": "The Všech svatých church in Libočany near Žatec is a valuable historical building. A visit is worthwhile due to its architecture and history.",
+                  "category": "religious",
+                  "coords": [
+                        13.51489,
+                        50.333254
                   ]
             }
       ]
@@ -59524,6 +63844,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.012905,
                         49.598038
                   ]
+            },
+            {
+                  "name": "Návštěvnické centrum Nový Jičín",
+                  "text": "Das Besucherzentrum in Nový Jičín ist ein großartiger Ort, um die Stadt zu entdecken. Es bietet umfassende Informationen für Reisende.",
+                  "category": "museum",
+                  "coords": [
+                        18.010714,
+                        49.594266
+                  ]
+            },
+            {
+                  "name": "Amfiteátr Skalky",
+                  "text": "Das Amfiteátr Skalky in Nový Jičín ist eine schöne Freilichtbühne. Hier finden in den Sommermonaten vielfältige kulturelle Veranstaltungen statt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.008372,
+                        49.578466
+                  ]
+            },
+            {
+                  "name": "Beskydské divadlo",
+                  "text": "Das Beskydské divadlo ist das kulturelle Herz von Nový Jičín. Es bietet ein breites Spektrum an Aufführungen und Theaterstücken.",
+                  "category": "cultural",
+                  "coords": [
+                        18.007871,
+                        49.592508
+                  ]
+            },
+            {
+                  "name": "Lesní divadlo",
+                  "text": "Das Lesní divadlo in Nový Jičín ist ein einzigartiger Ort für Theateraufführungen in der Natur. Ein Erlebnis für Theaterliebhaber und Naturfreunde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.013609,
+                        49.58207
+                  ]
+            },
+            {
+                  "name": "Pomník Vítězství a družby",
+                  "text": "Dieses Denkmal in Novy Jicin erinnert an Sieg und Freundschaft. Es ist ein zentrales Monument, das Besucher bei einem Stadtrundgang leicht erreichen können.",
+                  "category": "landmark",
+                  "coords": [
+                        18.007876,
+                        49.596659
+                  ]
+            },
+            {
+                  "name": "kaple svatého Michala",
+                  "text": "Die Kapelle des Heiligen Michael ist ein bedeutendes sakrales Bauwerk in Novy Jicin. Sie lädt Besucher zur Besichtigung ihrer historischen Architektur ein.",
+                  "category": "religious",
+                  "coords": [
+                        18.021837,
+                        49.575314
+                  ]
             }
       ],
       "hu": [
@@ -59633,6 +64007,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.012905,
                         49.598038
+                  ]
+            },
+            {
+                  "name": "Návštěvnické centrum Nový Jičín",
+                  "text": "A Nový Jičín-i látogatóközpont kiváló hely a város felfedezésére. Átfogó információkat kínál az utazók számára.",
+                  "category": "museum",
+                  "coords": [
+                        18.010714,
+                        49.594266
+                  ]
+            },
+            {
+                  "name": "Amfiteátr Skalky",
+                  "text": "A Nový Jičín-i Amfiteátr Skalky egy szép szabadtéri színpad. A nyári hónapokban változatos kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.008372,
+                        49.578466
+                  ]
+            },
+            {
+                  "name": "Beskydské divadlo",
+                  "text": "A Beskydské divadlo Nový Jičín kulturális szíve. Előadások és színdarabok széles skáláját kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        18.007871,
+                        49.592508
+                  ]
+            },
+            {
+                  "name": "Lesní divadlo",
+                  "text": "A Nový Jičín-i Lesní divadlo egy egyedülálló hely színházi előadásokhoz a természetben. Élményszerű a színház szerelmeseinek és a természetjáróknak.",
+                  "category": "landmark",
+                  "coords": [
+                        18.013609,
+                        49.58207
+                  ]
+            },
+            {
+                  "name": "Pomník Vítězství a družby",
+                  "text": "Ez a Novy Jicin-i emlékmű a győzelemnek és a barátságnak állít emléket. Egy központi emlékmű, amelyet a látogatók könnyen megközelíthetnek a városnézés során.",
+                  "category": "landmark",
+                  "coords": [
+                        18.007876,
+                        49.596659
+                  ]
+            },
+            {
+                  "name": "kaple svatého Michala",
+                  "text": "A Szent Mihály-kápolna Novy Jicin egyik jelentős szakrális épülete. A látogatókat történelmi építészetének megtekintésére hívja.",
+                  "category": "religious",
+                  "coords": [
+                        18.021837,
+                        49.575314
                   ]
             }
       ],
@@ -59744,6 +64172,60 @@ export const czechrepublicCitiesV2: POI[] = [
                         18.012905,
                         49.598038
                   ]
+            },
+            {
+                  "name": "Návštěvnické centrum Nový Jičín",
+                  "text": "Centrul de vizitatori din Nový Jičín este un loc minunat pentru a descoperi orașul. Acesta oferă informații cuprinzătoare pentru călători.",
+                  "category": "museum",
+                  "coords": [
+                        18.010714,
+                        49.594266
+                  ]
+            },
+            {
+                  "name": "Amfiteátr Skalky",
+                  "text": "Amfiteátr Skalky din Nový Jičín este o scenă în aer liber frumoasă. Aici au loc diverse evenimente culturale în lunile de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        18.008372,
+                        49.578466
+                  ]
+            },
+            {
+                  "name": "Beskydské divadlo",
+                  "text": "Beskydské divadlo este inima culturală a orașului Nový Jičín. Acesta oferă o gamă largă de spectacole și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        18.007871,
+                        49.592508
+                  ]
+            },
+            {
+                  "name": "Lesní divadlo",
+                  "text": "Lesní divadlo din Nový Jičín este un loc unic pentru spectacole de teatru în natură. O experiență pentru pasionații de teatru și iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        18.013609,
+                        49.58207
+                  ]
+            },
+            {
+                  "name": "Pomník Vítězství a družby",
+                  "text": "Acest monument din Novy Jicin comemorează victoria și prietenia. Este o structură centrală pe care vizitatorii o pot accesa cu ușurință în timpul plimbării prin oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        18.007876,
+                        49.596659
+                  ]
+            },
+            {
+                  "name": "kaple svatého Michala",
+                  "text": "Capela Sfântului Mihail este un lăcaș de cult important în Novy Jicin. Aceasta invită vizitatorii să îi admire arhitectura istorică.",
+                  "category": "religious",
+                  "coords": [
+                        18.021837,
+                        49.575314
+                  ]
             }
       ],
       "en": [
@@ -59853,6 +64335,60 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.012905,
                         49.598038
+                  ]
+            },
+            {
+                  "name": "Návštěvnické centrum Nový Jičín",
+                  "text": "The visitor center in Nový Jičín is a great place to discover the city. It offers comprehensive information for travelers.",
+                  "category": "museum",
+                  "coords": [
+                        18.010714,
+                        49.594266
+                  ]
+            },
+            {
+                  "name": "Amfiteátr Skalky",
+                  "text": "The Amfiteátr Skalky in Nový Jičín is a beautiful open-air stage. It hosts a variety of cultural events during the summer months.",
+                  "category": "cultural",
+                  "coords": [
+                        18.008372,
+                        49.578466
+                  ]
+            },
+            {
+                  "name": "Beskydské divadlo",
+                  "text": "The Beskydské divadlo is the cultural heart of Nový Jičín. It offers a wide range of performances and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        18.007871,
+                        49.592508
+                  ]
+            },
+            {
+                  "name": "Lesní divadlo",
+                  "text": "The Lesní divadlo in Nový Jičín is a unique place for theater performances in nature. An experience for theater lovers and nature enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        18.013609,
+                        49.58207
+                  ]
+            },
+            {
+                  "name": "Pomník Vítězství a družby",
+                  "text": "This monument in Novy Jicin commemorates victory and friendship. It is a central landmark that visitors can easily reach while exploring the city.",
+                  "category": "landmark",
+                  "coords": [
+                        18.007876,
+                        49.596659
+                  ]
+            },
+            {
+                  "name": "kaple svatého Michala",
+                  "text": "The Chapel of Saint Michael is a significant religious structure in Novy Jicin. It invites visitors to admire its historical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        18.021837,
+                        49.575314
                   ]
             }
       ]
@@ -61090,6 +65626,87 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.170525,
                         50.949142
                   ]
+            },
+            {
+                  "name": "Friedland",
+                  "text": "Das Schloss Frýdlant thront auf einem Basaltfelsen und verbindet eine mittelalterliche Burg mit einem prächtigen Renaissanceschloss. Besucher können die umfangreichen Sammlungen von Waffen, Möbeln und Gemälden besichtigen.",
+                  "category": "castle",
+                  "coords": [
+                        15.083747,
+                        50.914994
+                  ]
+            },
+            {
+                  "name": "Železniční muzeum",
+                  "text": "Das Eisenbahnmuseum in Frýdlant dokumentiert die Geschichte der lokalen Bahnen und Lokomotiven. Es ist in einem ehemaligen Lokschuppen untergebracht und zeigt historische Schienenfahrzeuge und technische Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        15.066995,
+                        50.920452
+                  ]
+            },
+            {
+                  "name": "Městké muzeum Radnice",
+                  "text": "Das Stadtmuseum im Rathaus von Frýdlant präsentiert Ausstellungen zur Stadtgeschichte und regionalen Kultur. Besucher erfahren hier Wissenswertes über die Entwicklung der Stadt und ihre Bürger im Laufe der Jahrhunderte.",
+                  "category": "museum",
+                  "coords": [
+                        15.078621,
+                        50.922127
+                  ]
+            },
+            {
+                  "name": "Městké muzeum Špitálek",
+                  "text": "Dieses Museum in Frýdlant befindet sich in einem ehemaligen historischen Spitalgebäude. Die Ausstellungen widmen sich der Medizingeschichte und sozialen Aspekten des Lebens in der Region.",
+                  "category": "museum",
+                  "coords": [
+                        15.076542,
+                        50.922673
+                  ]
+            },
+            {
+                  "name": "Resslerův vrch",
+                  "text": "Der Ressler-Hügel ist eine markante Erhebung bei Frýdlant, auf der sich ein bekannter Aussichtsturm befindet. Wanderwege führen durch die waldreiche Umgebung zu diesem beliebten Ausflugsziel.",
+                  "category": "natural",
+                  "coords": [
+                        15.079686,
+                        50.936254
+                  ]
+            },
+            {
+                  "name": "Rozhledna",
+                  "text": "Dieser steinerne Aussichtsturm auf der Frýdlantská výšina bietet einen Panoramablick auf das Isergebirge und das Friedländer Umland. Der Turm ist ein klassisches Ziel für Wanderer und Naturliebhaber.",
+                  "category": "tower",
+                  "coords": [
+                        15.076682,
+                        50.934772
+                  ]
+            },
+            {
+                  "name": "Kristus Spasitel",
+                  "text": "Die Kirche Christus der Erlöser ist ein markantes sakrale Bauwerk in Frýdlant mit neugotischen Elementen. Sie dient der Gemeinde als Ort des Gottesdienstes und prägt das spirituelle Leben der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        15.079685,
+                        50.918132
+                  ]
+            },
+            {
+                  "name": "Svatá Maří Magdaléna",
+                  "text": "Diese historische Kirche in Frýdlant ist der heiligen Maria Magdalena geweiht und ein wichtiges lokales Denkmal. Die Architektur und Innenausstattung spiegeln die religiöse Tradition der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        15.072206,
+                        50.92034
+                  ]
+            },
+            {
+                  "name": "Nalezení svatého Kříže",
+                  "text": "Die Dekanatskirche der Auffindung des Heiligen Kreuzes ist das bedeutendste Gotteshaus im Zentrum von Frýdlant. Die Kirche beherbergt wertvolle Kunstschätze, darunter die Grabkapelle der Familie Redern.",
+                  "category": "religious",
+                  "coords": [
+                        15.078418,
+                        50.92062
+                  ]
             }
       ],
       "hu": [
@@ -61127,6 +65744,87 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.170525,
                         50.949142
+                  ]
+            },
+            {
+                  "name": "Zámek Frýdlant",
+                  "text": "A frýdlanti kastély egy bazaltsziklán trónol, és egy középkori várat ötvöz egy pompás reneszánsz kastéllyal. A látogatók fegyverek, bútorok és festmények kiterjedt gyűjteményeit tekinthetik meg.",
+                  "category": "castle",
+                  "coords": [
+                        15.083747,
+                        50.914994
+                  ]
+            },
+            {
+                  "name": "Železniční muzeum",
+                  "text": "A frýdlanti Vasúttörténeti Múzeum a helyi vasutak és mozdonyok történetét dokumentálja. Egy egykori fűtőházban kapott helyet, és történelmi vasúti járműveket és műszaki kiállítási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.066995,
+                        50.920452
+                  ]
+            },
+            {
+                  "name": "Městké muzeum Radnice",
+                  "text": "A frýdlanti városházán található városi múzeum várostörténeti és regionális kulturális kiállításokat mutat be. A látogatók itt érdekességeket tudhatnak meg a város és polgárai fejlődéséről az évszázadok során.",
+                  "category": "museum",
+                  "coords": [
+                        15.078621,
+                        50.922127
+                  ]
+            },
+            {
+                  "name": "Městké muzeum Špitálek",
+                  "text": "Ez a frýdlanti múzeum egy egykori történelmi kórházépületben található. A kiállítások az orvostudomány történetének és a régió életének szociális aspektusainak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        15.076542,
+                        50.922673
+                  ]
+            },
+            {
+                  "name": "Resslerův vrch",
+                  "text": "A Ressler-domb egy jellegzetes magaslat Frýdlant mellett, amelyen egy ismert kilátó található. Túraútvonalak vezetnek az erdős környezeten keresztül ehhez a népszerű kirándulóhelyhez.",
+                  "category": "natural",
+                  "coords": [
+                        15.079686,
+                        50.936254
+                  ]
+            },
+            {
+                  "name": "Rozhledna",
+                  "text": "Ez a Frýdlantská výšina-n található kőkilátó panorámás kilátást nyújt az Jizera-hegységre és a frýdlanti vidékre. A torony klasszikus célpont a túrázók és a természetbarátok számára.",
+                  "category": "tower",
+                  "coords": [
+                        15.076682,
+                        50.934772
+                  ]
+            },
+            {
+                  "name": "Kristus Spasitel",
+                  "text": "Az Üdvözítő Krisztus-templom egy jellegzetes szakrális építmény Frýdlantban, neogótikus elemekkel. A közösség istentiszteleti helyéül szolgál, és meghatározza a város hitéletét.",
+                  "category": "religious",
+                  "coords": [
+                        15.079685,
+                        50.918132
+                  ]
+            },
+            {
+                  "name": "Svatá Maří Magdaléna",
+                  "text": "Ez a történelmi frýdlanti templom Szent Mária Magdolnának van szentelve, és fontos helyi műemlék. Az építészet és a belső berendezés a régió vallási hagyományait tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        15.072206,
+                        50.92034
+                  ]
+            },
+            {
+                  "name": "Nalezení svatého Kříže",
+                  "text": "A Szent Kereszt Megtalálása esperesi templom Frýdlant központjának legjelentősebb Istenháza. A templom értékes műkincseket őriz, köztük a Redern család sírkápolnáját.",
+                  "category": "religious",
+                  "coords": [
+                        15.078418,
+                        50.92062
                   ]
             }
       ],
@@ -61166,6 +65864,87 @@ export const czechrepublicCitiesV2: POI[] = [
                         15.170525,
                         50.949142
                   ]
+            },
+            {
+                  "name": "Zámek Frýdlant",
+                  "text": "Castelul Frýdlant tronează pe o stâncă de bazalt și combină o cetate medievală cu un palat renascentist magnific. Vizitatorii pot vedea colecțiile extinse de arme, mobilier și picturi.",
+                  "category": "castle",
+                  "coords": [
+                        15.083747,
+                        50.914994
+                  ]
+            },
+            {
+                  "name": "Železniční muzeum",
+                  "text": "Muzeul Căilor Ferate din Frýdlant documentează istoria căilor ferate și locomotivelor locale. Este găzduit într-un fost depou de locomotive și expune vehicule feroviare istorice și exponate tehnice.",
+                  "category": "museum",
+                  "coords": [
+                        15.066995,
+                        50.920452
+                  ]
+            },
+            {
+                  "name": "Městké muzeum Radnice",
+                  "text": "Muzeul orașului din primăria din Frýdlant prezintă expoziții despre istoria orașului și cultura regională. Vizitatorii află aici lucruri interesante despre dezvoltarea orașului și a cetățenilor săi de-a lungul secolelor.",
+                  "category": "museum",
+                  "coords": [
+                        15.078621,
+                        50.922127
+                  ]
+            },
+            {
+                  "name": "Městké muzeum Špitálek",
+                  "text": "Acest muzeu din Frýdlant se află într-o fostă clădire istorică de spital. Expozițiile sunt dedicate istoriei medicinei și aspectelor sociale ale vieții în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        15.076542,
+                        50.922673
+                  ]
+            },
+            {
+                  "name": "Resslerův vrch",
+                  "text": "Dealul Ressler este o ridicătură distinctivă lângă Frýdlant, pe care se află un turn de belvedere cunoscut. Traseele de drumeție duc prin împrejurimile împădurite către această destinație populară de excursie.",
+                  "category": "natural",
+                  "coords": [
+                        15.079686,
+                        50.936254
+                  ]
+            },
+            {
+                  "name": "Rozhledna",
+                  "text": "Acest turn de belvedere din piatră de pe Frýdlantská výšina oferă o vedere panoramică asupra munților Jizera și a împrejurimilor orașului Frýdlant. Turnul este o destinație clasică pentru turiști și iubitorii de natură.",
+                  "category": "tower",
+                  "coords": [
+                        15.076682,
+                        50.934772
+                  ]
+            },
+            {
+                  "name": "Kristus Spasitel",
+                  "text": "Biserica Cristos Mântuitorul este un edificiu sacru distinctiv din Frýdlant, cu elemente neogotice. Servește comunității ca loc de cult și marchează viața spirituală a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        15.079685,
+                        50.918132
+                  ]
+            },
+            {
+                  "name": "Svatá Maří Magdaléna",
+                  "text": "Această biserică istorică din Frýdlant este dedicată Sfintei Maria Magdalena și este un monument local important. Arhitectura și dotările interioare reflectă tradiția religioasă a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        15.072206,
+                        50.92034
+                  ]
+            },
+            {
+                  "name": "Nalezení svatého Kříže",
+                  "text": "Biserica decanală a Găsirii Sfintei Cruci este cel mai important lăcaș de cult din centrul orașului Frýdlant. Biserica adăpostește comori de artă valoroase, inclusiv capela funerară a familiei Redern.",
+                  "category": "religious",
+                  "coords": [
+                        15.078418,
+                        50.92062
+                  ]
             }
       ],
       "en": [
@@ -61203,6 +65982,87 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.170525,
                         50.949142
+                  ]
+            },
+            {
+                  "name": "Frýdlant Castle and Chateau",
+                  "text": "Frýdlant Castle sits on a basalt rock, combining a medieval fortress with a magnificent Renaissance chateau. Visitors can tour the extensive collections of weapons, furniture, and paintings.",
+                  "category": "castle",
+                  "coords": [
+                        15.083747,
+                        50.914994
+                  ]
+            },
+            {
+                  "name": "Železniční muzeum",
+                  "text": "The Railway Museum in Frýdlant documents the history of local railways and locomotives. It is housed in a former engine shed and displays historical railway vehicles and technical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        15.066995,
+                        50.920452
+                  ]
+            },
+            {
+                  "name": "Městké muzeum Radnice",
+                  "text": "The Town Museum in the Frýdlant City Hall presents exhibitions on city history and regional culture. Visitors can learn interesting facts about the development of the city and its citizens over the centuries.",
+                  "category": "museum",
+                  "coords": [
+                        15.078621,
+                        50.922127
+                  ]
+            },
+            {
+                  "name": "Městké muzeum Špitálek",
+                  "text": "This museum in Frýdlant is located in a former historical hospital building. The exhibitions are dedicated to medical history and social aspects of life in the region.",
+                  "category": "museum",
+                  "coords": [
+                        15.076542,
+                        50.922673
+                  ]
+            },
+            {
+                  "name": "Resslerův vrch",
+                  "text": "Ressler Hill is a prominent elevation near Frýdlant, topped by a well-known observation tower. Hiking trails lead through the wooded surroundings to this popular excursion destination.",
+                  "category": "natural",
+                  "coords": [
+                        15.079686,
+                        50.936254
+                  ]
+            },
+            {
+                  "name": "Rozhledna",
+                  "text": "This stone lookout tower on the Frýdlant Heights offers a panoramic view of the Jizera Mountains and the Frýdlant countryside. The tower is a classic destination for hikers and nature lovers.",
+                  "category": "tower",
+                  "coords": [
+                        15.076682,
+                        50.934772
+                  ]
+            },
+            {
+                  "name": "Kristus Spasitel",
+                  "text": "The Church of Christ the Savior is a prominent sacred building in Frýdlant with Neo-Gothic elements. It serves the community as a place of worship and shapes the spiritual life of the city.",
+                  "category": "religious",
+                  "coords": [
+                        15.079685,
+                        50.918132
+                  ]
+            },
+            {
+                  "name": "Svatá Maří Magdaléna",
+                  "text": "This historical church in Frýdlant is dedicated to Saint Mary Magdalene and is an important local monument. The architecture and interior furnishings reflect the religious tradition of the region.",
+                  "category": "religious",
+                  "coords": [
+                        15.072206,
+                        50.92034
+                  ]
+            },
+            {
+                  "name": "Nalezení svatého Kříže",
+                  "text": "The Deanery Church of the Finding of the Holy Cross is the most significant house of worship in the center of Frýdlant. The church houses valuable art treasures, including the Redern family burial chapel.",
+                  "category": "religious",
+                  "coords": [
+                        15.078418,
+                        50.92062
                   ]
             }
       ]
@@ -66760,6 +71620,96 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.090065,
                         48.712019
                   ]
+            },
+            {
+                  "name": "Poštovní muzeum",
+                  "text": "Das Postmuseum in Vyssi Brod zeigt die faszinierende Geschichte des Postwesens. Es ist ein beliebtes Ziel für historisch interessierte Besucher der Region.",
+                  "category": "museum",
+                  "coords": [
+                        14.307614,
+                        48.620696
+                  ]
+            },
+            {
+                  "name": "Kuhberg",
+                  "text": "Kraví hora bietet eine herrliche Aussicht über die Landschaft bei Vyssi Brod. Wanderer finden hier einen idealen Punkt, um die Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        14.320251,
+                        48.633994
+                  ]
+            },
+            {
+                  "name": "Teufelswand",
+                  "text": "Die Čertova stěna ist eine markante Felsformation bei Vyssi Brod. Sie gilt als geologische Sehenswürdigkeit, die Wanderwege in der Region säumt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.277759,
+                        48.630844
+                  ]
+            },
+            {
+                  "name": "Zisterzienserkloster Hohenfurth",
+                  "text": "Das Zisterzienserkloster in Vyssi Brod ist eine beeindruckende historische Anlage. Besucher können die architektonische Pracht dieser bedeutenden Sehenswürdigkeit erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        14.306456,
+                        48.620834
+                  ]
+            },
+            {
+                  "name": "Pošlák",
+                  "text": "Pošlák sind die Ruinen einer historischen Stätte bei Vyssi Brod. Sie bieten einen spannenden Einblick in die Vergangenheit der Region.",
+                  "category": "historical",
+                  "coords": [
+                        14.28353,
+                        48.61878
+                  ]
+            },
+            {
+                  "name": "Keller",
+                  "text": "Die Ruinen von Keller bei Vyssi Brod zeugen von alten Bautraditionen. Es ist ein ruhiger Ort für Entdecker, die historische Spuren suchen.",
+                  "category": "historical",
+                  "coords": [
+                        14.314516,
+                        48.640611
+                  ]
+            },
+            {
+                  "name": "Opatská studánka",
+                  "text": "Die Opatská studánka ist eine bekannte Quelle in der Nähe von Vyssi Brod. Sie dient Wanderern oft als erfrischender Rastplatz während ihrer Tour.",
+                  "category": "natural",
+                  "coords": [
+                        14.290825,
+                        48.616307
+                  ]
+            },
+            {
+                  "name": "svatý Bartoloměj",
+                  "text": "Die Kirche des Heiligen Bartholomäus in Vyssi Brod ist ein architektonisches Juwel. Sie steht Besuchern für Besichtigungen und als Ort der Stille offen.",
+                  "category": "religious",
+                  "coords": [
+                        14.312335,
+                        48.613942
+                  ]
+            },
+            {
+                  "name": "svatý Josef",
+                  "text": "Die Kirche des Heiligen Josef befindet sich in Vyssi Brod und ist ein schönes Gotteshaus. Besucher schätzen ihre ruhige Atmosphäre bei einem Spaziergang.",
+                  "category": "religious",
+                  "coords": [
+                        14.309085,
+                        48.620116
+                  ]
+            },
+            {
+                  "name": "Maria Rast am Stein",
+                  "text": "Die Panna Marie Kirche in Vyssi Brod ist ein bedeutendes religiöses Ziel. Sie beeindruckt durch ihre Lage und ihre historische Bedeutung für die Region.",
+                  "category": "religious",
+                  "coords": [
+                        14.294988,
+                        48.608217
+                  ]
             }
       ],
       "hu": [
@@ -66797,6 +71747,96 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.090065,
                         48.712019
+                  ]
+            },
+            {
+                  "name": "Postamúzeum",
+                  "text": "A Vyssi Brod-i Postamúzeum a postai szolgáltatások lenyűgöző történetét mutatja be. A régióba látogatók körében népszerű történelmi célpont.",
+                  "category": "museum",
+                  "coords": [
+                        14.307614,
+                        48.620696
+                  ]
+            },
+            {
+                  "name": "Kraví hora",
+                  "text": "A Kraví hora csodálatos kilátást nyújt a Vyssi Brod környéki tájra. A túrázók itt megtalálják az ideális pontot a természet élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        14.320251,
+                        48.633994
+                  ]
+            },
+            {
+                  "name": "Čertova stěna",
+                  "text": "A Čertova stěna egy markáns sziklaképződmény Vyssi Brod közelében. A régió túraútvonalai mellett fekvő geológiai látványosságnak számít.",
+                  "category": "landmark",
+                  "coords": [
+                        14.277759,
+                        48.630844
+                  ]
+            },
+            {
+                  "name": "Vyšší Brod-i ciszterci apátság",
+                  "text": "A Vyssi Brod-i ciszterci kolostor egy lenyűgöző történelmi komplexum. A látogatók felfedezhetik e fontos látnivaló építészeti pompáját.",
+                  "category": "landmark",
+                  "coords": [
+                        14.306456,
+                        48.620834
+                  ]
+            },
+            {
+                  "name": "Pošlák",
+                  "text": "Pošlák egy történelmi helyszín romjai Vyssi Brod közelében. Izgalmas betekintést nyújtanak a régió múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        14.28353,
+                        48.61878
+                  ]
+            },
+            {
+                  "name": "Keller",
+                  "text": "A Vyssi Brod melletti Keller romjai az egykori építészeti hagyományokról tanúskodnak. Csendes hely a történelmi nyomokat kereső felfedezők számára.",
+                  "category": "historical",
+                  "coords": [
+                        14.314516,
+                        48.640611
+                  ]
+            },
+            {
+                  "name": "Opatská studánka",
+                  "text": "Az Opatská studánka egy ismert forrás Vyssi Brod közelében. A túrázók gyakran használják frissítő pihenőhelyként útjuk során.",
+                  "category": "natural",
+                  "coords": [
+                        14.290825,
+                        48.616307
+                  ]
+            },
+            {
+                  "name": "svatý Bartoloměj",
+                  "text": "A Vyssi Brod-i Szent Bertalan-templom építészeti gyöngyszem. A látogatók előtt nyitva áll megtekintésre és csendes elmélkedésre.",
+                  "category": "religious",
+                  "coords": [
+                        14.312335,
+                        48.613942
+                  ]
+            },
+            {
+                  "name": "svatý Josef",
+                  "text": "A Szent József-templom Vyssi Brod városában található, és egy gyönyörű imaház. A látogatók nagyra értékelik csendes légkörét egy séta alkalmával.",
+                  "category": "religious",
+                  "coords": [
+                        14.309085,
+                        48.620116
+                  ]
+            },
+            {
+                  "name": "Panna Marie",
+                  "text": "A Vyssi Brod-i Panna Marie-templom jelentős vallási célpont. Elhelyezkedésével és a régió számára betöltött történelmi jelentőségével nyűgözi le látogatóit.",
+                  "category": "religious",
+                  "coords": [
+                        14.294988,
+                        48.608217
                   ]
             }
       ],
@@ -66836,6 +71876,96 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.090065,
                         48.712019
                   ]
+            },
+            {
+                  "name": "Poštovní muzeum",
+                  "text": "Muzeul Poștal din Vyssi Brod prezintă istoria fascinantă a serviciilor poștale. Este o destinație populară pentru vizitatorii interesați de istorie din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        14.307614,
+                        48.620696
+                  ]
+            },
+            {
+                  "name": "Kraví hora",
+                  "text": "Kraví hora oferă o priveliște minunată asupra peisajului din jurul orașului Vyssi Brod. Drumeții găsesc aici un punct ideal pentru a se bucura de natură.",
+                  "category": "natural",
+                  "coords": [
+                        14.320251,
+                        48.633994
+                  ]
+            },
+            {
+                  "name": "Čertova stěna",
+                  "text": "Čertova stěna este o formațiune stâncoasă distinctivă de lângă Vyssi Brod. Este considerată o atracție geologică care străjuiește traseele de drumeție din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        14.277759,
+                        48.630844
+                  ]
+            },
+            {
+                  "name": "Cisterciácký klášter Vyšší Brod",
+                  "text": "Mănăstirea cisterciană din Vyssi Brod este un complex istoric impresionant. Vizitatorii pot explora splendoarea arhitecturală a acestui obiectiv important.",
+                  "category": "landmark",
+                  "coords": [
+                        14.306456,
+                        48.620834
+                  ]
+            },
+            {
+                  "name": "Pošlák",
+                  "text": "Pošlák reprezintă ruinele unui sit istoric de lângă Vyssi Brod. Acestea oferă o privire fascinantă asupra trecutului regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        14.28353,
+                        48.61878
+                  ]
+            },
+            {
+                  "name": "Keller",
+                  "text": "Ruinele Keller de lângă Vyssi Brod sunt mărturia unor vechi tradiții de construcție. Este un loc liniștit pentru exploratorii care caută urme istorice.",
+                  "category": "historical",
+                  "coords": [
+                        14.314516,
+                        48.640611
+                  ]
+            },
+            {
+                  "name": "Opatská studánka",
+                  "text": "Opatská studánka este un izvor cunoscut în apropiere de Vyssi Brod. Servește adesea drumeților ca loc de odihnă revigorant în timpul turului lor.",
+                  "category": "natural",
+                  "coords": [
+                        14.290825,
+                        48.616307
+                  ]
+            },
+            {
+                  "name": "svatý Bartoloměj",
+                  "text": "Biserica Sfântului Bartolomeu din Vyssi Brod este o bijuterie arhitecturală. Este deschisă vizitatorilor pentru tururi și ca loc de reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        14.312335,
+                        48.613942
+                  ]
+            },
+            {
+                  "name": "svatý Josef",
+                  "text": "Biserica Sfântului Iosif se află în Vyssi Brod și este un lăcaș de cult frumos. Vizitatorii îi apreciază atmosfera liniștită în timpul unei plimbări.",
+                  "category": "religious",
+                  "coords": [
+                        14.309085,
+                        48.620116
+                  ]
+            },
+            {
+                  "name": "Panna Marie",
+                  "text": "Biserica Panna Marie din Vyssi Brod este o destinație religioasă importantă. Aceasta impresionează prin amplasarea sa și prin semnificația istorică pentru regiune.",
+                  "category": "religious",
+                  "coords": [
+                        14.294988,
+                        48.608217
+                  ]
             }
       ],
       "en": [
@@ -66873,6 +72003,96 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.090065,
                         48.712019
+                  ]
+            },
+            {
+                  "name": "Poštovní muzeum",
+                  "text": "The Postal Museum in Vyssi Brod displays the fascinating history of postal services. It is a popular destination for visitors to the region interested in history.",
+                  "category": "museum",
+                  "coords": [
+                        14.307614,
+                        48.620696
+                  ]
+            },
+            {
+                  "name": "Kraví hora",
+                  "text": "Kraví hora offers a wonderful view over the landscape around Vyssi Brod. Hikers will find an ideal point here to enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.320251,
+                        48.633994
+                  ]
+            },
+            {
+                  "name": "Čertova stěna",
+                  "text": "Čertova stěna is a distinctive rock formation near Vyssi Brod. It is considered a geological attraction lining the hiking trails in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        14.277759,
+                        48.630844
+                  ]
+            },
+            {
+                  "name": "Cisterciácký klášter Vyšší Brod",
+                  "text": "The Cistercian monastery in Vyssi Brod is an impressive historical complex. Visitors can explore the architectural splendor of this important sight.",
+                  "category": "landmark",
+                  "coords": [
+                        14.306456,
+                        48.620834
+                  ]
+            },
+            {
+                  "name": "Pošlák",
+                  "text": "Pošlák are the ruins of a historical site near Vyssi Brod. They provide an intriguing glimpse into the region's past.",
+                  "category": "historical",
+                  "coords": [
+                        14.28353,
+                        48.61878
+                  ]
+            },
+            {
+                  "name": "Keller",
+                  "text": "The ruins of Keller near Vyssi Brod testify to old building traditions. It is a quiet spot for explorers seeking historical traces.",
+                  "category": "historical",
+                  "coords": [
+                        14.314516,
+                        48.640611
+                  ]
+            },
+            {
+                  "name": "Opatská studánka",
+                  "text": "Opatská studánka is a well-known spring near Vyssi Brod. It often serves hikers as a refreshing resting place during their tour.",
+                  "category": "natural",
+                  "coords": [
+                        14.290825,
+                        48.616307
+                  ]
+            },
+            {
+                  "name": "svatý Bartoloměj",
+                  "text": "The Church of Saint Bartholomew in Vyssi Brod is an architectural gem. It is open to visitors for tours and as a place of quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        14.312335,
+                        48.613942
+                  ]
+            },
+            {
+                  "name": "svatý Josef",
+                  "text": "The Church of Saint Joseph is located in Vyssi Brod and is a beautiful place of worship. Visitors appreciate its peaceful atmosphere while taking a walk.",
+                  "category": "religious",
+                  "coords": [
+                        14.309085,
+                        48.620116
+                  ]
+            },
+            {
+                  "name": "Panna Marie",
+                  "text": "The Panna Marie Church in Vyssi Brod is a significant religious destination. It impresses with its location and its historical importance to the region.",
+                  "category": "religious",
+                  "coords": [
+                        14.294988,
+                        48.608217
                   ]
             }
       ]
@@ -69046,6 +74266,114 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.724073,
                         49.543515
                   ]
+            },
+            {
+                  "name": "Divadlo Stará střelnice",
+                  "text": "Das Theater \"Altes Schützenhaus\" in Hranice ist ein lebendiger Ort für kulturelle Veranstaltungen und Aufführungen. Das historische Gebäude bietet eine gemütliche Atmosphäre für Schauspiel und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        17.734162,
+                        49.54131
+                  ]
+            },
+            {
+                  "name": "Městský úřad Hranice; Zámek Hranice",
+                  "text": "Das Schloss Hranice beherbergt heute die Stadtverwaltung und ist für seinen markanten Arkadenhof bekannt. Besucher können die architektonischen Details des Renaissancebaus und den Schlossgarten bewundern.",
+                  "category": "castle",
+                  "coords": [
+                        17.73472,
+                        49.550237
+                  ]
+            },
+            {
+                  "name": "Vyhlídka u sv. Jana",
+                  "text": "Der Aussichtspunkt bei St. Johann bietet einen weiten Blick über das Tal der Bečva und die Stadt Hranice. Ein kleiner Pfad führt zu dieser ruhigen Stelle, die zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.745478,
+                        49.538232
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Svrčov",
+                  "text": "Die Ruinen der Burg Svrčov liegen auf einem bewaldeten Hügel über der Teplitzer Schlucht bei Hranice. Wanderer können hier die spärlichen Überreste der mittelalterlichen Befestigung in schöner Natur entdecken.",
+                  "category": "historical",
+                  "coords": [
+                        17.747593,
+                        49.537146
+                  ]
+            },
+            {
+                  "name": "Galerie Synagoga",
+                  "text": "Diese Kunstgalerie ist in der ehemaligen Synagoge von Hranice untergebracht und bietet einen beeindruckenden Rahmen für moderne Ausstellungen. Das Gebäude selbst ist ein wertvolles Denkmal der jüdischen Geschichte in der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        17.733872,
+                        49.548817
+                  ]
+            },
+            {
+                  "name": "Zbrašovské aragonitové jeskyně",
+                  "text": "Die Aragonit-Höhlen von Zbrašov sind ein einzigartiges hydrothermales Höhlensystem mit seltenen Mineralformationen bei Hranice. Sie sind die wärmsten Höhlen in Tschechien und bekannt für ihre \"Geysir-Stalagmiten\".",
+                  "category": "landmark",
+                  "coords": [
+                        17.745761,
+                        49.531652
+                  ]
+            },
+            {
+                  "name": "Gallašův dům",
+                  "text": "Das Gallaš-Haus ist ein historisches Gebäude in Hranice, das architektonisch interessant und ortsbildprägend ist. Es dient als Zeugnis der bürgerlichen Baukunst und ist ein fester Bestandteil der Stadtgeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        17.732884,
+                        49.552822
+                  ]
+            },
+            {
+                  "name": "Dům dětí a mládeže Hranice",
+                  "text": "Das Dům dětí a mládeže Hranice in Hranice Na Morave ist ein wichtiges Freizeitzentrum für die lokale Jugend. Es bietet verschiedene kreative Workshops und kulturelle Aktivitäten für Kinder an.",
+                  "category": "cultural",
+                  "coords": [
+                        17.732674,
+                        49.554682
+                  ]
+            },
+            {
+                  "name": "Stětí svatého Jana Křtitele",
+                  "text": "Die Stětí svatého Jana Křtitele ist eine historische Kultstätte in Hranice Na Morave. Das Gebäude ist ein wichtiger Teil des lokalen religiösen Erbes und lädt zur Besinnung ein.",
+                  "category": "religious",
+                  "coords": [
+                        17.734785,
+                        49.547812
+                  ]
+            },
+            {
+                  "name": "Kostel Narození Panny Marie",
+                  "text": "Die Kostel Narození Panny Marie ist ein markantes religiöses Bauwerk in Hranice Na Morave. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        17.758077,
+                        49.550943
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Vavřince",
+                  "text": "Die Kostel svatého Vavřince ist ein markantes religiöses Bauwerk in Hranice Na Morave. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
+                  "category": "religious",
+                  "coords": [
+                        17.694778,
+                        49.549463
+                  ]
+            },
+            {
+                  "name": "Hranický viadukt",
+                  "text": "Die Hranické viadukty in Hranice Na Morave sind beeindruckende technische Denkmäler der Eisenbahngeschichte. Die massiven Ziegelkonstruktionen überspannen das Tal und sind ein beliebtes Fotomotiv.",
+                  "category": "landmark",
+                  "coords": [
+                        17.729296,
+                        49.561687
+                  ]
             }
       ],
       "hu": [
@@ -69083,6 +74411,114 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.724073,
                         49.543515
+                  ]
+            },
+            {
+                  "name": "Divadlo Stará střelnice",
+                  "text": "A hranicei \"Régi Lőtér\" színház a kulturális rendezvények és előadások élettel teli helyszíne. A történelmi épület meghitt hangulatot biztosít drámákhoz és koncertekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        17.734162,
+                        49.54131
+                  ]
+            },
+            {
+                  "name": "Městský úřad Hranice; Zámek Hranice",
+                  "text": "A hranicei kastély ma a városi önkormányzatnak ad otthont, és jellegzetes árkádos udvaráról ismert. A látogatók megcsodálhatják a reneszánsz épület építészeti részleteit és a kastélykertet.",
+                  "category": "castle",
+                  "coords": [
+                        17.73472,
+                        49.550237
+                  ]
+            },
+            {
+                  "name": "Vyhlídka u sv. Jana",
+                  "text": "A Szent János-kilátó széles kilátást nyújt a Bečva völgyére és Hranice városára. Egy kis ösvény vezet ehhez a nyugodt helyhez, amely pihenésre hívogat a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.745478,
+                        49.538232
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Svrčov",
+                  "text": "Svrčov várának romjai egy erdős dombon fekszenek a Teplice-szurdok felett, Hranice közelében. A túrázók itt a középkori erődítmény csekély maradványait fedezhetik fel a szép természetben.",
+                  "category": "historical",
+                  "coords": [
+                        17.747593,
+                        49.537146
+                  ]
+            },
+            {
+                  "name": "Galerie Synagoga",
+                  "text": "Ez a művészeti galéria a hranicei egykori zsinagógában kapott helyet, és lenyűgöző környezetet biztosít modern kiállításokhoz. Maga az épület a város zsidó történelmének értékes műemléke.",
+                  "category": "museum",
+                  "coords": [
+                        17.733872,
+                        49.548817
+                  ]
+            },
+            {
+                  "name": "Zbrašovské aragonitové jeskyně",
+                  "text": "A zbrašovi aragonitbarlangok egyedülálló hidrotermális barlangrendszert alkotnak ritka ásványképződményekkel Hranice közelében. Ezek Csehország legmelegebb barlangjai, és híresek a \"gejzír-stalagmitjaikról\".",
+                  "category": "landmark",
+                  "coords": [
+                        17.745761,
+                        49.531652
+                  ]
+            },
+            {
+                  "name": "Gallašův dům",
+                  "text": "A Gallaš-ház egy történelmi épület Hranice városában, amely építészetileg érdekes és meghatározza a településképet. A polgári építészet tanújaként szolgál, és a várostörténet szerves része.",
+                  "category": "landmark",
+                  "coords": [
+                        17.732884,
+                        49.552822
+                  ]
+            },
+            {
+                  "name": "Dům dětí a mládeže Hranice",
+                  "text": "A Hranice Na Morave városában található Dům dětí a mládeže Hranice a helyi fiatalok fontos szabadidős központja. Különféle kreatív workshopokat és kulturális tevékenységeket kínál gyermekeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        17.732674,
+                        49.554682
+                  ]
+            },
+            {
+                  "name": "Stětí svatého Jana Křtitele",
+                  "text": "A(z) Stětí svatého Jana Křtitele egy történelmi kegyhely Hranice Na Morave területén. Az épület a helyi vallási örökség fontos része, amely nyugodt környezetet kínál az elmélyüléshez.",
+                  "category": "religious",
+                  "coords": [
+                        17.734785,
+                        49.547812
+                  ]
+            },
+            {
+                  "name": "Kostel Narození Panny Marie",
+                  "text": "A(z) Kostel Narození Panny Marie egy jellegzetes vallási épület Hranice Na Morave városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        17.758077,
+                        49.550943
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Vavřince",
+                  "text": "A(z) Kostel svatého Vavřince egy jellegzetes vallási épület Hranice Na Morave városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        17.694778,
+                        49.549463
+                  ]
+            },
+            {
+                  "name": "Hranický viadukt",
+                  "text": "A Hranice Na Morave városában található Hranické viadukty a vasúttörténet lenyűgöző műszaki emlékei. A hatalmas téglaszerkezetek átívelik a völgyet, és népszerű fotótémának számítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.729296,
+                        49.561687
                   ]
             }
       ],
@@ -69122,6 +74558,114 @@ export const czechrepublicCitiesV2: POI[] = [
                         17.724073,
                         49.543515
                   ]
+            },
+            {
+                  "name": "Divadlo Stará střelnice",
+                  "text": "Teatrul \"Vechia Tireră\" din Hranice este un loc plin de viață pentru evenimente culturale și spectacole. Clădirea istorică oferă o atmosferă primitoare pentru teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        17.734162,
+                        49.54131
+                  ]
+            },
+            {
+                  "name": "Městský úřad Hranice; Zámek Hranice",
+                  "text": "Castelul Hranice găzduiește astăzi administrația orașului și este cunoscut pentru curtea sa cu arcade distinctivă. Vizitatorii pot admira detaliile arhitecturale ale clădirii renascentiste și grădina castelului.",
+                  "category": "castle",
+                  "coords": [
+                        17.73472,
+                        49.550237
+                  ]
+            },
+            {
+                  "name": "Vyhlídka u sv. Jana",
+                  "text": "Punctul de belvedere de la Sf. Ioan oferă o vedere largă asupra văii râului Bečva și a orașului Hranice. O potecă mică duce la acest loc liniștit, care invită la zăbovit în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.745478,
+                        49.538232
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Svrčov",
+                  "text": "Ruinele cetății Svrčov sunt situate pe un deal împădurit deasupra defileului Teplice, lângă Hranice. Turiștii pot descoperi aici resturile puține ale fortificației medievale în mijlocul unei naturi frumoase.",
+                  "category": "historical",
+                  "coords": [
+                        17.747593,
+                        49.537146
+                  ]
+            },
+            {
+                  "name": "Galerie Synagoga",
+                  "text": "Această galerie de artă este găzduită în fosta sinagogă din Hranice și oferă un cadru impresionant pentru expoziții moderne. Clădirea în sine este un monument valoros al istoriei evreiești din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        17.733872,
+                        49.548817
+                  ]
+            },
+            {
+                  "name": "Zbrašovské aragonitové jeskyně",
+                  "text": "Peșterile de aragonit de la Zbrašov sunt un sistem de peșteri hidrotermale unic, cu formațiuni minerale rare, lângă Hranice. Sunt cele mai calde peșteri din Cehia și sunt cunoscute pentru \"stalagmitele lor gheizer\".",
+                  "category": "landmark",
+                  "coords": [
+                        17.745761,
+                        49.531652
+                  ]
+            },
+            {
+                  "name": "Gallašův dům",
+                  "text": "Casa Gallaš este o clădire istorică din Hranice, interesantă din punct de vedere arhitectural și emblematică pentru localitate. Servește ca mărturie a arhitecturii burgheze și este o parte integrantă a istoriei orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        17.732884,
+                        49.552822
+                  ]
+            },
+            {
+                  "name": "Dům dětí a mládeže Hranice",
+                  "text": "Dům dětí a mládeže Hranice din Hranice Na Morave este un centru de recreere important pentru tineretul local. Acesta oferă diverse ateliere creative și activități culturale pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        17.732674,
+                        49.554682
+                  ]
+            },
+            {
+                  "name": "Stětí svatého Jana Křtitele",
+                  "text": "Stětí svatého Jana Křtitele este un lăcaș de cult istoric în Hranice Na Morave. Clădirea este o parte importantă a moștenirii religioase locale și invită la reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        17.734785,
+                        49.547812
+                  ]
+            },
+            {
+                  "name": "Kostel Narození Panny Marie",
+                  "text": "Kostel Narození Panny Marie este un edificiu religios distinctiv în Hranice Na Morave. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        17.758077,
+                        49.550943
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Vavřince",
+                  "text": "Kostel svatého Vavřince este un edificiu religios distinctiv în Hranice Na Morave. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
+                  "category": "religious",
+                  "coords": [
+                        17.694778,
+                        49.549463
+                  ]
+            },
+            {
+                  "name": "Hranický viadukt",
+                  "text": "Hranické viadukty din Hranice Na Morave sunt monumente tehnice impresionante ale istoriei feroviare. Construcțiile masive din cărămidă traversează valea și sunt un motiv fotografic popular.",
+                  "category": "landmark",
+                  "coords": [
+                        17.729296,
+                        49.561687
+                  ]
             }
       ],
       "en": [
@@ -69159,6 +74703,114 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.724073,
                         49.543515
+                  ]
+            },
+            {
+                  "name": "Divadlo Stará střelnice",
+                  "text": "The Old Shooting Range Theatre in Hranice is a vibrant venue for cultural events and performances. The historical building provides a cozy atmosphere for drama and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        17.734162,
+                        49.54131
+                  ]
+            },
+            {
+                  "name": "Městský úřad Hranice; Zámek Hranice",
+                  "text": "Hranice Castle now houses the city administration and is known for its striking arcaded courtyard. Visitors can admire the architectural details of the Renaissance building and the castle garden.",
+                  "category": "castle",
+                  "coords": [
+                        17.73472,
+                        49.550237
+                  ]
+            },
+            {
+                  "name": "Vyhlídka u sv. Jana",
+                  "text": "The St. John Viewpoint offers a wide view over the Bečva valley and the city of Hranice. A small path leads to this quiet spot, inviting visitors to linger in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.745478,
+                        49.538232
+                  ]
+            },
+            {
+                  "name": "Zřícenina hradu Svrčov",
+                  "text": "The ruins of Svrčov Castle are situated on a wooded hill above the Teplice Gorge near Hranice. Hikers can discover the sparse remains of the medieval fortification amidst beautiful nature.",
+                  "category": "historical",
+                  "coords": [
+                        17.747593,
+                        49.537146
+                  ]
+            },
+            {
+                  "name": "Galerie Synagoga",
+                  "text": "This art gallery is housed in the former synagogue of Hranice, providing an impressive setting for modern exhibitions. The building itself is a valuable monument to the city's Jewish history.",
+                  "category": "museum",
+                  "coords": [
+                        17.733872,
+                        49.548817
+                  ]
+            },
+            {
+                  "name": "Zbrašovské aragonitové jeskyně",
+                  "text": "The Zbrašov Aragonite Caves are a unique hydrothermal cave system with rare mineral formations near Hranice. They are the warmest caves in Czechia and are famous for their \"geyser stalagmites\".",
+                  "category": "landmark",
+                  "coords": [
+                        17.745761,
+                        49.531652
+                  ]
+            },
+            {
+                  "name": "Gallašův dům",
+                  "text": "The Gallaš House is a historical building in Hranice that is architecturally interesting and significant to the townscape. It serves as a testament to burgher architecture and is an integral part of the city's history.",
+                  "category": "landmark",
+                  "coords": [
+                        17.732884,
+                        49.552822
+                  ]
+            },
+            {
+                  "name": "Dům dětí a mládeže Hranice",
+                  "text": "The Dům dětí a mládeže Hranice in Hranice Na Morave is an important leisure centre for the local youth. It offers various creative workshops and cultural activities for children.",
+                  "category": "cultural",
+                  "coords": [
+                        17.732674,
+                        49.554682
+                  ]
+            },
+            {
+                  "name": "Stětí svatého Jana Křtitele",
+                  "text": "The Stětí svatého Jana Křtitele is a historical place of worship in Hranice Na Morave. The building is an important part of the local religious heritage and invites quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        17.734785,
+                        49.547812
+                  ]
+            },
+            {
+                  "name": "Kostel Narození Panny Marie",
+                  "text": "The Kostel Narození Panny Marie is a distinctive religious building in Hranice Na Morave. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        17.758077,
+                        49.550943
+                  ]
+            },
+            {
+                  "name": "Kostel svatého Vavřince",
+                  "text": "The Kostel svatého Vavřince is a distinctive religious building in Hranice Na Morave. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
+                  "category": "religious",
+                  "coords": [
+                        17.694778,
+                        49.549463
+                  ]
+            },
+            {
+                  "name": "Hranický viadukt",
+                  "text": "The Hranické viadukty in Hranice Na Morave are impressive technical monuments of railway history. The massive brick structures span the valley and are a popular spot for photography.",
+                  "category": "landmark",
+                  "coords": [
+                        17.729296,
+                        49.561687
                   ]
             }
       ]

@@ -22,6 +22,15 @@ export const albaniaCitiesV2: POI[] = [
                         20.082017,
                         41.119433
                   ]
+            },
+            {
+                  "name": "Ajek",
+                  "text": "Ajek ist ein Schwimmbad in albania-elbasan-cities-v2 für Familienbesuche.",
+                  "category": "family",
+                  "coords": [
+                        20.085199,
+                        41.103064
+                  ]
             }
       ],
       "hu": [
@@ -41,6 +50,15 @@ export const albaniaCitiesV2: POI[] = [
                   "coords": [
                         20.082017,
                         41.119433
+                  ]
+            },
+            {
+                  "name": "Ajek",
+                  "text": "Az Ajek egy úszómedence albania-elbasan-cities-v2 területén családi látogatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        20.085199,
+                        41.103064
                   ]
             }
       ],
@@ -62,6 +80,15 @@ export const albaniaCitiesV2: POI[] = [
                         20.082017,
                         41.119433
                   ]
+            },
+            {
+                  "name": "Ajek",
+                  "text": "Ajek este o piscină din albania-elbasan-cities-v2 pentru vizite în familie.",
+                  "category": "family",
+                  "coords": [
+                        20.085199,
+                        41.103064
+                  ]
             }
       ],
       "en": [
@@ -81,6 +108,15 @@ export const albaniaCitiesV2: POI[] = [
                   "coords": [
                         20.082017,
                         41.119433
+                  ]
+            },
+            {
+                  "name": "Ajek",
+                  "text": "Ajek is a swimming pool in albania-elbasan-cities-v2 for family visits.",
+                  "category": "family",
+                  "coords": [
+                        20.085199,
+                        41.103064
                   ]
             }
       ]
@@ -257,6 +293,15 @@ imageHint: "Elbasan fortress walls and clock tower",
                         19.676694,
                         41.409993
                   ]
+            },
+            {
+                  "name": "Golden Crown Resort",
+                  "text": "Ein Schwimmbad in Kamez für Sport und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        19.797677,
+                        41.401509
+                  ]
             }
       ],
       "hu": [
@@ -384,6 +429,15 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.676694,
                         41.409993
+                  ]
+            },
+            {
+                  "name": "Golden Crown Resort",
+                  "text": "Úszómedence Kamezben sportoláshoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        19.797677,
+                        41.401509
                   ]
             }
       ],
@@ -513,6 +567,15 @@ imageHint: "Elbasan fortress walls and clock tower",
                         19.676694,
                         41.409993
                   ]
+            },
+            {
+                  "name": "Golden Crown Resort",
+                  "text": "O piscină în Kamez pentru sport și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        19.797677,
+                        41.401509
+                  ]
             }
       ],
       "en": [
@@ -640,6 +703,15 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.676694,
                         41.409993
+                  ]
+            },
+            {
+                  "name": "Golden Crown Resort",
+                  "text": "A swimming pool in Kamez for sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        19.797677,
+                        41.401509
                   ]
             }
       ]
@@ -1584,7 +1656,52 @@ imageHint: "St. Anthony Church on the hill above Laç",
     },
     image: "/poi-images/albania-lac-cities-v2.webp",
 },  {
-    id: "albania-lezhe-cities-v2",
+    id: "albania-lezhe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arome Deti",
+                  "text": "Das Arome Deti in Lezhe ist ein Strandresort für die Erholung von Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arome Deti",
+                  "text": "A lezhei Arome Deti egy tengerparti üdülőhely családok kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arome Deti",
+                  "text": "Arome Deti din Lezhe este o stațiune la plajă pentru recreerea familiilor.",
+                  "category": "family",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arome Deti",
+                  "text": "Arome Deti in Lezhe is a beach resort for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Lezhë", hu: "Lezhë", ro: "Lezhë", en: "Lezhë"},

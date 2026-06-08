@@ -8840,6 +8840,231 @@ export const belgiumCitiesV2: POI[] = [
                         3.964926,
                         50.469122
                   ]
+            },
+            {
+                  "name": "Mundaneum",
+                  "text": "Das Mundaneum in Mons ist ein Archiv- und Ausstellungszentrum, das oft als Vorläufer des Internets bezeichnet wird. Es beherbergt eine riesige Sammlung von Dokumenten und zeigt die Geschichte der Informationsklassifizierung.",
+                  "category": "museum",
+                  "coords": [
+                        3.955582,
+                        50.457616
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire naturelle",
+                  "text": "Das Naturkundemuseum in Mons präsentiert eine vielfältige Sammlung an zoologischen und geologischen Exponaten. Es bietet spannende Einblicke in die Artenvielfalt und die Naturgeschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        3.948079,
+                        50.456947
+                  ]
+            },
+            {
+                  "name": "Maison Van Gogh",
+                  "text": "Das Maison Van Gogh in Cuesmes bei Mons war einst der Wohnort des berühmten Malers Vincent van Gogh während seiner Zeit als Prediger. Heute dient das Haus als Museum, das an seinen Aufenthalt und seine künstlerischen Anfänge erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        3.925174,
+                        50.441343
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-en-Havré",
+                  "text": "Die Kirche Saint-Nicolas-en-Havré in Mons besticht durch ihre barocke Fassade und ihre prachtvolle Innenausstattung. Sie ist ein bedeutendes religiöses Denkmal im historischen Zentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        3.957164,
+                        50.454342
+                  ]
+            },
+            {
+                  "name": "Tour Valenciennoise",
+                  "text": "Die Tour Valenciennoise ist ein Überrest der mittelalterlichen Stadtbefestigung von Mons. Der Turm zeugt von der Wehrhaftigkeit und der architektonischen Geschichte der Stadt im 14. Jahrhundert.",
+                  "category": "tower",
+                  "coords": [
+                        3.958646,
+                        50.458407
+                  ]
+            },
+            {
+                  "name": "Tour du Val des Écoliers",
+                  "text": "Die Tour du Val des Écoliers ist der einzige erhaltene Teil einer ehemaligen Abtei in Mons. Der Turm ist ein markantes architektonisches Wahrzeichen und ein wichtiges historisches Zeugnis der Stadt.",
+                  "category": "tower",
+                  "coords": [
+                        3.941415,
+                        50.450781
+                  ]
+            },
+            {
+                  "name": "Parc du Château",
+                  "text": "Der Parc du Château liegt auf einer Anhöhe in Mons und bietet einen weiten Blick über die Stadt. Die Parkanlage beherbergt die Überreste der alten gräflichen Burg und den berühmten Glockenturm.",
+                  "category": "park",
+                  "coords": [
+                        3.94941,
+                        50.454379
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Mons",
+                  "text": "Das Kunstmuseum von Mons präsentiert bedeutende Werke der Malerei und Bildhauerei vom 16. Jahrhundert bis heute. Es bietet regelmäßig wechselnde Ausstellungen internationaler Künstler in modernem Ambiente.",
+                  "category": "museum",
+                  "coords": [
+                        3.952316,
+                        50.455766
+                  ]
+            },
+            {
+                  "name": "Musée François Duesberg",
+                  "text": "Das Musée François Duesberg ist bekannt für seine herausragende Sammlung von dekorativer Kunst, insbesondere Prunkuhren und Porzellan. Es befindet sich gegenüber der Stiftskirche Sainte-Waudru und bietet faszinierende Einblicke in die Handwerkskunst des 18. und 19. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        3.945145,
+                        50.453735
+                  ]
+            },
+            {
+                  "name": "Mons Memorial Museum",
+                  "text": "Das Mons Memorial Museum beleuchtet die Militärgeschichte der Stadt von der Zeit des Ancien Régime bis zu den Weltkriegen. Die interaktive Ausstellung vermittelt eindringlich die Auswirkungen von Konflikten auf das Leben der Bevölkerung.",
+                  "category": "museum",
+                  "coords": [
+                        3.957154,
+                        50.450081
+                  ]
+            },
+            {
+                  "name": "Musée du Doudou",
+                  "text": "Das Musée du Doudou widmet sich der UNESCO-geschützten Tradition der Ducasse de Mons. Besucher können hier alles über die Geschichte des Drachenkampfes und die damit verbundenen Feierlichkeiten erfahren.",
+                  "category": "museum",
+                  "coords": [
+                        3.951298,
+                        50.455886
+                  ]
+            },
+            {
+                  "name": "Maison Losseau",
+                  "text": "Das Maison Losseau ist ein architektonisches Juwel des Jugendstils im Zentrum von Mons. Es beherbergt das Erbe des Anwalts Léon Losseau und beeindruckt durch seine detailreiche Innenausstattung.",
+                  "category": "museum",
+                  "coords": [
+                        3.95404,
+                        50.456368
+                  ]
+            },
+            {
+                  "name": "Château Gendebien",
+                  "text": "Das Château Gendebien ist ein elegantes Schlossanwesen in Mons, das von einer weitläufigen Parkanlage umgeben ist. Es dient als repräsentativer Ort und ist ein Zeugnis der bürgerlichen Architektur vergangener Epochen.",
+                  "category": "castle",
+                  "coords": [
+                        3.974544,
+                        50.450852
+                  ]
+            },
+            {
+                  "name": "Théâtre le Manège",
+                  "text": "Das Théâtre le Manège ist ein bedeutender Veranstaltungsort für zeitgenössische Kunst und darstellendes Spiel in Mons. Es bietet eine moderne Bühne für Theateraufführungen, Tanz und Musikveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        3.957019,
+                        50.457889
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Kirche Saint-Martin ist ein historisches Sakralgebäude in Mons, das durch seine schlichte Eleganz besticht. Sie ist ein Ort des Rückzugs und der Besinnung für Bewohner und Besucher der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        3.96416,
+                        50.440013
+                  ]
+            },
+            {
+                  "name": "Halle des Pelletiers",
+                  "text": "Die Halle des Pelletiers ist ein historisches Gebäude in Mons, das einst dem Handel diente. Heute ist es ein markanter Punkt im Stadtbild und erinnert an die wirtschaftliche Bedeutung der Gerber und Kürschner.",
+                  "category": "landmark",
+                  "coords": [
+                        3.950948,
+                        50.453693
+                  ]
+            },
+            {
+                  "name": "Terril de l'Héribus",
+                  "text": "Der Terril de l'Héribus ist eine ehemalige Kohlehalde in Mons, die heute als Naherholungsgebiet genutzt wird. Wanderwege führen auf den Gipfel, von wo aus man einen außergewöhnlichen Panoramablick auf die Region genießt.",
+                  "category": "natural",
+                  "coords": [
+                        3.940801,
+                        50.433857
+                  ]
+            },
+            {
+                  "name": "Mont Panisel",
+                  "text": "Der Mont Panisel ist eine natürliche Erhebung bei Mons, die für ihre landschaftliche Schönheit bekannt ist. Er bietet grüne Wanderpfade und ist ein beliebter Ort für Naturfreunde und Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        3.977063,
+                        50.450648
+                  ]
+            },
+            {
+                  "name": "Parc du Waux-hall",
+                  "text": "Der Parc du Waux-hall ist eine prachtvolle Parkanlage in Mons mit schön angelegten Gärten und historischen Strukturen. Er ist ein idealer Ort für gemütliche Spaziergänge und bietet Raum für Entspannung im Grünen.",
+                  "category": "park",
+                  "coords": [
+                        3.964813,
+                        50.452388
+                  ]
+            },
+            {
+                  "name": "Musée du Chanoine Puissant",
+                  "text": "Das Musée du Chanoine Puissant beherbergt die Sammlungen des Kanonikus Edmond Puissant in zwei historischen Gebäuden in Mons. Es zeigt eine Vielzahl von Kunstwerken, Möbeln und archäologischen Funden aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        3.946918,
+                        50.455243
+                  ]
+            },
+            {
+                  "name": "Musée de la Route",
+                  "text": "Das Musée de la Route in Mons widmet sich der Geschichte des Straßenbaus und der Verkehrsentwicklung. Die Ausstellung zeigt historische Maschinen, Werkzeuge und Dokumente zur Infrastruktur vergangener Zeiten.",
+                  "category": "museum",
+                  "coords": [
+                        3.946946,
+                        50.447696
+                  ]
+            },
+            {
+                  "name": "Salle Saint-Georges",
+                  "text": "Die Salle Saint-Georges ist ein bedeutender Ausstellungsraum in Mons, der sich in einer ehemaligen Kapelle befindet. Hier werden regelmäßig temporäre Kunstausstellungen und kulturelle Veranstaltungen von regionaler Bedeutung präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        3.95199,
+                        50.454742
+                  ]
+            },
+            {
+                  "name": "Musée du Vieux Nimy",
+                  "text": "Das Musée du Vieux Nimy dokumentiert die reiche industrielle Vergangenheit des Stadtteils Nimy, insbesondere die Steingut- und Tabakproduktion. Besucher können hier lokale Handwerkskunst und historische Alltagsgegenstände besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        3.958555,
+                        50.474685
+                  ]
+            },
+            {
+                  "name": "Mumons",
+                  "text": "Das Mumons ist das Museum der Universität Mons und verbindet Wissenschaft, Kunst und Kuriositäten. In einer renovierten Klosterkapelle untergebracht, bietet es faszinierende Ausstellungen für ein breites Publikum.",
+                  "category": "museum",
+                  "coords": [
+                        3.953354,
+                        50.458229
+                  ]
+            },
+            {
+                  "name": "Magasin de Papier",
+                  "text": "Das Magasin de Papier in Mons ist ein kultureller Raum, der oft für Ausstellungen und literarische Veranstaltungen genutzt wird. Das historische Gebäude bietet einen charmanten Rahmen für die Präsentation zeitgenössischer Werke.",
+                  "category": "museum",
+                  "coords": [
+                        3.952898,
+                        50.453139
+                  ]
             }
       ],
       "hu": [
@@ -8877,6 +9102,231 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.964926,
                         50.469122
+                  ]
+            },
+            {
+                  "name": "Mundaneum",
+                  "text": "A mons-i Mundaneum egy archívum és kiállítóhely, amelyet gyakran az internet előfutárának neveznek. Hatalmas dokumentumgyűjteményt őriz, és az információs osztályozás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.955582,
+                        50.457616
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire naturelle",
+                  "text": "A mons-i Természettudományi Múzeum zoológiai és geológiai kiállítási tárgyak változatos gyűjteményét mutatja be. Izgalmas betekintést nyújt a régió biológiai sokféleségébe és természetrajzába.",
+                  "category": "museum",
+                  "coords": [
+                        3.948079,
+                        50.456947
+                  ]
+            },
+            {
+                  "name": "Maison Van Gogh",
+                  "text": "A mons-i Cuesmes-ben található Van Gogh-ház egykor a híres festő, Vincent van Gogh lakhelye volt prédikátori időszaka alatt. Ma a ház múzeumként működik, amely emléket állít ott-tartózkodásának és művészi kezdeteinek.",
+                  "category": "museum",
+                  "coords": [
+                        3.925174,
+                        50.441343
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-en-Havré",
+                  "text": "A mons-i Saint-Nicolas-en-Havré templom barokk homlokzatával és pompás belső terével nyűgözi le a látogatókat. A város történelmi központjának jelentős vallási emlékműve.",
+                  "category": "religious",
+                  "coords": [
+                        3.957164,
+                        50.454342
+                  ]
+            },
+            {
+                  "name": "Tour Valenciennoise",
+                  "text": "A Tour Valenciennoise Mons középkori városfalának egyik fennmaradt emléke. A torony a város 14. századi védelmi képességéről és építészettörténetéről tanúskodik.",
+                  "category": "tower",
+                  "coords": [
+                        3.958646,
+                        50.458407
+                  ]
+            },
+            {
+                  "name": "Tour du Val des Écoliers",
+                  "text": "A Tour du Val des Écoliers egy egykori mons-i apátság egyetlen fennmaradt része. A torony jellegzetes építészeti szimbólum és a város fontos történelmi emléke.",
+                  "category": "tower",
+                  "coords": [
+                        3.941415,
+                        50.450781
+                  ]
+            },
+            {
+                  "name": "Parc du Château",
+                  "text": "A Parc du Château Mons egyik magaslatán fekszik, és széles kilátást nyújt a városra. A park az egykori grófi vár maradványainak és a híres harangtoronynak ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        3.94941,
+                        50.454379
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Mons",
+                  "text": "A mons-i Szépművészeti Múzeum a festészet és szobrászat jelentős alkotásait mutatja be a 16. századtól napjainkig. Rendszeresen rendeznek váltakozó kiállításokat nemzetközi művészek műveiből modern környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        3.952316,
+                        50.455766
+                  ]
+            },
+            {
+                  "name": "Musée François Duesberg",
+                  "text": "A François Duesberg Múzeum kiemelkedő dekoratív művészeti gyűjteményéről, különösen díszóráiról és porcelánjairól ismert. A Sainte-Waudru-társszékesegyházzal szemben található, és lenyűgöző betekintést nyújt a 18. és 19. századi kézművességbe.",
+                  "category": "museum",
+                  "coords": [
+                        3.945145,
+                        50.453735
+                  ]
+            },
+            {
+                  "name": "Mons Memorial Museum",
+                  "text": "A Mons Memorial Museum a város hadtörténetét mutatja be az Ancien Régime idejétől a világháborúkig. Az interaktív kiállítás szemléletesen szemlélteti a konfliktusok lakosság életére gyakorolt hatását.",
+                  "category": "museum",
+                  "coords": [
+                        3.957154,
+                        50.450081
+                  ]
+            },
+            {
+                  "name": "Musée du Doudou",
+                  "text": "A Doudou Múzeum a Ducasse de Mons UNESCO által védett hagyományának szentelt hely. A látogatók mindent megtudhatnak a sárkányharc történetéről és a hozzá kapcsolódó ünnepségekről.",
+                  "category": "museum",
+                  "coords": [
+                        3.951298,
+                        50.455886
+                  ]
+            },
+            {
+                  "name": "Maison Losseau",
+                  "text": "A Maison Losseau a szecessziós építészet gyöngyszeme Mons központjában. Léon Losseau ügyvéd örökségét őrzi, és részletgazdag belső kialakításával nyűgözi le a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        3.95404,
+                        50.456368
+                  ]
+            },
+            {
+                  "name": "Château Gendebien",
+                  "text": "A Gendebien-kastély egy elegáns kastélybirtok Monsban, amelyet kiterjedt park vesz körül. Reprezentatív helyszínként szolgál, és a múlt korszakok polgári építészetének emléke.",
+                  "category": "castle",
+                  "coords": [
+                        3.974544,
+                        50.450852
+                  ]
+            },
+            {
+                  "name": "Théâtre le Manège",
+                  "text": "A Théâtre le Manège a kortárs művészetek és az előadóművészet jelentős helyszíne Monsban. Modern színpadot kínál színházi előadásokhoz, tánc- és zenei rendezvényekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        3.957019,
+                        50.457889
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A Szent Márton-templom egy történelmi szakrális épület Monsban, amely egyszerű eleganciájával hódít. A nyugalom és az elmélyülés helyszíne a város lakói és látogatói számára.",
+                  "category": "religious",
+                  "coords": [
+                        3.96416,
+                        50.440013
+                  ]
+            },
+            {
+                  "name": "Halle des Pelletiers",
+                  "text": "A Halle des Pelletiers egy történelmi épület Monsban, amely egykor kereskedelmi célokat szolgált. Ma a városkép jellegzetes pontja, amely a tímárok és szűcsök gazdasági jelentőségére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        3.950948,
+                        50.453693
+                  ]
+            },
+            {
+                  "name": "Terril de l'Héribus",
+                  "text": "A Terril de l'Héribus egy egykori szénmeddőhányó Monsban, amely ma pihenőövezetként működik. Túraútvonalak vezetnek a tetejére, ahonnan kivételes körpanoráma nyílik a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        3.940801,
+                        50.433857
+                  ]
+            },
+            {
+                  "name": "Mont Panisel",
+                  "text": "A Mont Panisel egy Mons közeli természetes magaslat, amely táji szépségéről ismert. Zöld túraútvonalakat kínál, és kedvelt hely a természetkedvelők és a kikapcsolódni vágyók számára.",
+                  "category": "natural",
+                  "coords": [
+                        3.977063,
+                        50.450648
+                  ]
+            },
+            {
+                  "name": "Parc du Waux-hall",
+                  "text": "A Parc du Waux-hall egy pompás park Monsban, szépen kialakított kertekkel és történelmi építményekkel. Ideális hely egy kellemes sétához, és lehetőséget nyújt a zöldben való kikapcsolódásra.",
+                  "category": "park",
+                  "coords": [
+                        3.964813,
+                        50.452388
+                  ]
+            },
+            {
+                  "name": "Musée du Chanoine Puissant",
+                  "text": "A Kanonok Puissant Múzeum Edmond Puissant kanonok gyűjteményeit mutatja be két történelmi mons-i épületben. Számos műalkotást, bútort és a régióból származó régészeti leletet tár a látogatók elé.",
+                  "category": "museum",
+                  "coords": [
+                        3.946918,
+                        50.455243
+                  ]
+            },
+            {
+                  "name": "Musée de la Route",
+                  "text": "A mons-i Út Múzeuma az útépítés és a közlekedés fejlődésének történetével foglalkozik. A kiállítás történelmi gépeket, szerszámokat és a múltbéli infrastruktúrával kapcsolatos dokumentumokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        3.946946,
+                        50.447696
+                  ]
+            },
+            {
+                  "name": "Salle Saint-Georges",
+                  "text": "A Salle Saint-Georges egy jelentős kiállítóhely Monsban, amely egy egykori kápolnában található. Rendszeresen ad otthont időszaki művészeti kiállításoknak és regionális jelentőségű kulturális eseményeknek.",
+                  "category": "museum",
+                  "coords": [
+                        3.95199,
+                        50.454742
+                  ]
+            },
+            {
+                  "name": "Musée du Vieux Nimy",
+                  "text": "A Régi Nimy Múzeum Nimy városrész gazdag ipari múltját dokumentálja, különös tekintettel a kőedény- és dohánygyártásra. A látogatók helyi kézműves termékeket és történelmi használati tárgyakat tekinthetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        3.958555,
+                        50.474685
+                  ]
+            },
+            {
+                  "name": "Mumons",
+                  "text": "A Mumons a Mons-i Egyetem múzeuma, amely ötvözi a tudományt, a művészetet és a különlegességeket. Egy felújított kolostorkápolnában található, és lenyűgöző kiállításokat kínál a nagyközönség számára.",
+                  "category": "museum",
+                  "coords": [
+                        3.953354,
+                        50.458229
+                  ]
+            },
+            {
+                  "name": "Magasin de Papier",
+                  "text": "A mons-i Magasin de Papier egy kulturális tér, amelyet gyakran használnak kiállítások és irodalmi események helyszínéül. A történelmi épület bájos keretet biztosít a kortárs alkotások bemutatásához.",
+                  "category": "museum",
+                  "coords": [
+                        3.952898,
+                        50.453139
                   ]
             }
       ],
@@ -8916,6 +9366,231 @@ export const belgiumCitiesV2: POI[] = [
                         3.964926,
                         50.469122
                   ]
+            },
+            {
+                  "name": "Mundaneum",
+                  "text": "Mundaneum din Mons este un centru de arhivă și expoziție, adesea supranumit precursorul internetului. Acesta găzduiește o colecție vastă de documente și prezintă istoria clasificării informațiilor.",
+                  "category": "museum",
+                  "coords": [
+                        3.955582,
+                        50.457616
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire naturelle",
+                  "text": "Muzeul de Istorie Naturală din Mons prezintă o colecție diversă de exponate zoologice și geologice. Oferă perspective fascinante asupra biodiversității și istoriei naturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        3.948079,
+                        50.456947
+                  ]
+            },
+            {
+                  "name": "Maison Van Gogh",
+                  "text": "Maison Van Gogh din Cuesmes, lângă Mons, a fost odinioară reședința celebrului pictor Vincent van Gogh în timpul perioadei sale de predicator. Astăzi, casa servește ca muzeu, comemorând șederea sa și începuturile sale artistice.",
+                  "category": "museum",
+                  "coords": [
+                        3.925174,
+                        50.441343
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-en-Havré",
+                  "text": "Biserica Saint-Nicolas-en-Havré din Mons impresionează prin fațada sa barocă și interiorul său somptuos. Este un monument religios important situat în centrul istoric al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.957164,
+                        50.454342
+                  ]
+            },
+            {
+                  "name": "Tour Valenciennoise",
+                  "text": "Tour Valenciennoise este o rămășiță a fortificațiilor medievale ale orașului Mons. Turnul atestă capacitatea defensivă și istoria arhitecturală a orașului din secolul al XIV-lea.",
+                  "category": "tower",
+                  "coords": [
+                        3.958646,
+                        50.458407
+                  ]
+            },
+            {
+                  "name": "Tour du Val des Écoliers",
+                  "text": "Tour du Val des Écoliers este singura parte conservată a unei foste abații din Mons. Turnul este un simbol arhitectural distinctiv și o mărturie istorică importantă a orașului.",
+                  "category": "tower",
+                  "coords": [
+                        3.941415,
+                        50.450781
+                  ]
+            },
+            {
+                  "name": "Parc du Château",
+                  "text": "Parc du Château este situat pe o colină în Mons și oferă o vedere panoramică asupra orașului. Parcul adăpostește rămășițele vechiului castel comital și celebrul turn cu ceas.",
+                  "category": "park",
+                  "coords": [
+                        3.94941,
+                        50.454379
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Mons",
+                  "text": "Muzeul de Arte Frumoase din Mons prezintă lucrări importante de pictură și sculptură din secolul al XVI-lea până în prezent. Acesta oferă expoziții temporare regulate ale unor artiști internaționali într-un cadru modern.",
+                  "category": "museum",
+                  "coords": [
+                        3.952316,
+                        50.455766
+                  ]
+            },
+            {
+                  "name": "Musée François Duesberg",
+                  "text": "Muzeul François Duesberg este cunoscut pentru colecția sa remarcabilă de artă decorativă, în special ceasuri de lux și porțelan. Este situat vizavi de biserica Sainte-Waudru și oferă perspective fascinante asupra măiestriei din secolele XVIII și XIX.",
+                  "category": "museum",
+                  "coords": [
+                        3.945145,
+                        50.453735
+                  ]
+            },
+            {
+                  "name": "Mons Memorial Museum",
+                  "text": "Mons Memorial Museum evidențiază istoria militară a orașului de pe vremea Vechiului Regim până la războaiele mondiale. Expoziția interactivă transmite în mod convingător impactul conflictelor asupra vieții populației.",
+                  "category": "museum",
+                  "coords": [
+                        3.957154,
+                        50.450081
+                  ]
+            },
+            {
+                  "name": "Musée du Doudou",
+                  "text": "Muzeul Doudou este dedicat tradiției Ducasse de Mons, protejată de UNESCO. Vizitatorii pot învăța totul despre istoria luptei cu balaurul și festivitățile asociate.",
+                  "category": "museum",
+                  "coords": [
+                        3.951298,
+                        50.455886
+                  ]
+            },
+            {
+                  "name": "Maison Losseau",
+                  "text": "Maison Losseau este o bijuterie arhitecturală Art Nouveau din centrul orașului Mons. Găzduiește moștenirea avocatului Léon Losseau și impresionează prin decorul interior detaliat.",
+                  "category": "museum",
+                  "coords": [
+                        3.95404,
+                        50.456368
+                  ]
+            },
+            {
+                  "name": "Château Gendebien",
+                  "text": "Castelul Gendebien este o proprietate elegantă din Mons, înconjurată de un parc vast. Servește ca loc reprezentativ și este o mărturie a arhitecturii burgheze din epocile trecute.",
+                  "category": "castle",
+                  "coords": [
+                        3.974544,
+                        50.450852
+                  ]
+            },
+            {
+                  "name": "Théâtre le Manège",
+                  "text": "Théâtre le Manège este un loc important pentru arta contemporană și spectacolele de scenă din Mons. Oferă o scenă modernă pentru piese de teatru, dans și evenimente muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        3.957019,
+                        50.457889
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Biserica Saint-Martin este o clădire sacră istorică din Mons, care impresionează prin eleganța sa simplă. Este un loc de retragere și reflecție pentru locuitorii și vizitatorii orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.96416,
+                        50.440013
+                  ]
+            },
+            {
+                  "name": "Halle des Pelletiers",
+                  "text": "Halle des Pelletiers este o clădire istorică din Mons, care odinioară servea comerțului. Astăzi este un punct distinctiv în peisajul urban și amintește de importanța economică a tăbăcarilor și blănarilor.",
+                  "category": "landmark",
+                  "coords": [
+                        3.950948,
+                        50.453693
+                  ]
+            },
+            {
+                  "name": "Terril de l'Héribus",
+                  "text": "Terril de l'Héribus este o fostă haldă de cărbune din Mons, utilizată astăzi ca zonă de agrement. Traseele de drumeție duc spre vârf, de unde se poate admira o vedere panoramică extraordinară asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        3.940801,
+                        50.433857
+                  ]
+            },
+            {
+                  "name": "Mont Panisel",
+                  "text": "Mont Panisel este o colină naturală de lângă Mons, cunoscută pentru frumusețea sa peisajistică. Oferă trasee de drumeție verzi și este un loc popular pentru iubitorii de natură și cei care caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        3.977063,
+                        50.450648
+                  ]
+            },
+            {
+                  "name": "Parc du Waux-hall",
+                  "text": "Parc du Waux-hall este un parc splendid din Mons, cu grădini frumos amenajate și structuri istorice. Este un loc ideal pentru plimbări relaxante și oferă spațiu pentru relaxare în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        3.964813,
+                        50.452388
+                  ]
+            },
+            {
+                  "name": "Musée du Chanoine Puissant",
+                  "text": "Muzeul Canonului Puissant găzduiește colecțiile canonului Edmond Puissant în două clădiri istorice din Mons. Acesta prezintă o varietate de opere de artă, mobilier și descoperiri arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        3.946918,
+                        50.455243
+                  ]
+            },
+            {
+                  "name": "Musée de la Route",
+                  "text": "Muzeul Drumului din Mons este dedicat istoriei construcției drumurilor și dezvoltării transportului. Expoziția prezintă utilaje istorice, unelte și documente privind infrastructura din vremurile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        3.946946,
+                        50.447696
+                  ]
+            },
+            {
+                  "name": "Salle Saint-Georges",
+                  "text": "Salle Saint-Georges este un spațiu expozițional important din Mons, situat într-o fostă capelă. Aici sunt prezentate regulat expoziții temporare de artă și evenimente culturale de importanță regională.",
+                  "category": "museum",
+                  "coords": [
+                        3.95199,
+                        50.454742
+                  ]
+            },
+            {
+                  "name": "Musée du Vieux Nimy",
+                  "text": "Muzeul Vechiului Nimy documentează trecutul industrial bogat al cartierului Nimy, în special producția de faianță și tutun. Vizitatorii pot vedea măiestria locală și obiecte istorice de zi cu zi.",
+                  "category": "museum",
+                  "coords": [
+                        3.958555,
+                        50.474685
+                  ]
+            },
+            {
+                  "name": "Mumons",
+                  "text": "Mumons este muzeul Universității din Mons și îmbină știința, arta și curiozitățile. Găzduit într-o capelă de mănăstire renovată, acesta oferă expoziții fascinante pentru un public larg.",
+                  "category": "museum",
+                  "coords": [
+                        3.953354,
+                        50.458229
+                  ]
+            },
+            {
+                  "name": "Magasin de Papier",
+                  "text": "Magasin de Papier din Mons este un spațiu cultural, adesea utilizat pentru expoziții și evenimente literare. Clădirea istorică oferă un cadru fermecător pentru prezentarea operelor contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        3.952898,
+                        50.453139
+                  ]
             }
       ],
       "en": [
@@ -8953,6 +9628,231 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.964926,
                         50.469122
+                  ]
+            },
+            {
+                  "name": "Mundaneum",
+                  "text": "The Mundaneum in Mons is an archive and exhibition centre often referred to as a precursor to the internet. It houses a vast collection of documents and showcases the history of information classification.",
+                  "category": "museum",
+                  "coords": [
+                        3.955582,
+                        50.457616
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire naturelle",
+                  "text": "The Natural History Museum in Mons presents a diverse collection of zoological and geological exhibits. It offers exciting insights into the biodiversity and natural history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        3.948079,
+                        50.456947
+                  ]
+            },
+            {
+                  "name": "Maison Van Gogh",
+                  "text": "The Maison Van Gogh in Cuesmes near Mons was once the residence of the famous painter Vincent van Gogh during his time as a preacher. Today, the house serves as a museum commemorating his stay and artistic beginnings.",
+                  "category": "museum",
+                  "coords": [
+                        3.925174,
+                        50.441343
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-en-Havré",
+                  "text": "The Church of Saint-Nicolas-en-Havré in Mons impresses with its Baroque facade and magnificent interior. It is a significant religious monument in the city's historical centre.",
+                  "category": "religious",
+                  "coords": [
+                        3.957164,
+                        50.454342
+                  ]
+            },
+            {
+                  "name": "Tour Valenciennoise",
+                  "text": "The Tour Valenciennoise is a remnant of the medieval city fortifications of Mons. The tower bears witness to the city's defensive strength and architectural history in the 14th century.",
+                  "category": "tower",
+                  "coords": [
+                        3.958646,
+                        50.458407
+                  ]
+            },
+            {
+                  "name": "Tour du Val des Écoliers",
+                  "text": "The Tour du Val des Écoliers is the only preserved part of a former abbey in Mons. The tower is a striking architectural landmark and an important historical testament to the city.",
+                  "category": "tower",
+                  "coords": [
+                        3.941415,
+                        50.450781
+                  ]
+            },
+            {
+                  "name": "Parc du Château",
+                  "text": "The Parc du Château is situated on an elevation in Mons and offers a wide view over the city. The park houses the remains of the old count's castle and the famous belfry.",
+                  "category": "park",
+                  "coords": [
+                        3.94941,
+                        50.454379
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Mons",
+                  "text": "The Museum of Fine Arts in Mons presents significant works of painting and sculpture from the 16th century to the present. It regularly hosts temporary exhibitions of international artists in a modern setting.",
+                  "category": "museum",
+                  "coords": [
+                        3.952316,
+                        50.455766
+                  ]
+            },
+            {
+                  "name": "Musée François Duesberg",
+                  "text": "The François Duesberg Museum is known for its outstanding collection of decorative arts, particularly ornate clocks and porcelain. It is located opposite the Collegiate Church of Saint Waltrude and offers fascinating insights into 18th and 19th-century craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        3.945145,
+                        50.453735
+                  ]
+            },
+            {
+                  "name": "Mons Memorial Museum",
+                  "text": "The Mons Memorial Museum highlights the city's military history from the Ancien Régime to the World Wars. The interactive exhibition vividly conveys the impact of conflicts on the lives of the population.",
+                  "category": "museum",
+                  "coords": [
+                        3.957154,
+                        50.450081
+                  ]
+            },
+            {
+                  "name": "Musée du Doudou",
+                  "text": "The Doudou Museum is dedicated to the UNESCO-listed tradition of the Ducasse de Mons. Visitors can learn all about the history of the dragon fight and the associated celebrations.",
+                  "category": "museum",
+                  "coords": [
+                        3.951298,
+                        50.455886
+                  ]
+            },
+            {
+                  "name": "Maison Losseau",
+                  "text": "Maison Losseau is an Art Nouveau architectural gem in the centre of Mons. It houses the legacy of lawyer Léon Losseau and impresses with its detailed interior decoration.",
+                  "category": "museum",
+                  "coords": [
+                        3.95404,
+                        50.456368
+                  ]
+            },
+            {
+                  "name": "Château Gendebien",
+                  "text": "Gendebien Castle is an elegant estate in Mons surrounded by extensive parkland. It serves as a prestigious venue and is a testament to the bourgeois architecture of past eras.",
+                  "category": "castle",
+                  "coords": [
+                        3.974544,
+                        50.450852
+                  ]
+            },
+            {
+                  "name": "Théâtre le Manège",
+                  "text": "The Théâtre le Manège is a significant venue for contemporary art and performing arts in Mons. It offers a modern stage for theatre performances, dance, and musical events.",
+                  "category": "cultural",
+                  "coords": [
+                        3.957019,
+                        50.457889
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "The Church of Saint-Martin is a historical sacred building in Mons that impresses with its simple elegance. It is a place of retreat and reflection for the city's residents and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        3.96416,
+                        50.440013
+                  ]
+            },
+            {
+                  "name": "Halle des Pelletiers",
+                  "text": "The Halle des Pelletiers is a historical building in Mons that once served as a place of trade. Today it is a striking landmark in the city and commemorates the economic importance of the tanners and furriers.",
+                  "category": "landmark",
+                  "coords": [
+                        3.950948,
+                        50.453693
+                  ]
+            },
+            {
+                  "name": "Terril de l'Héribus",
+                  "text": "The Terril de l'Héribus is a former coal spoil tip in Mons that is now used as a recreation area. Hiking trails lead to the summit, where visitors can enjoy an extraordinary panoramic view of the region.",
+                  "category": "natural",
+                  "coords": [
+                        3.940801,
+                        50.433857
+                  ]
+            },
+            {
+                  "name": "Mont Panisel",
+                  "text": "Mont Panisel is a natural elevation near Mons known for its scenic beauty. It offers green hiking trails and is a popular spot for nature lovers and those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        3.977063,
+                        50.450648
+                  ]
+            },
+            {
+                  "name": "Parc du Waux-hall",
+                  "text": "The Parc du Waux-hall is a splendid park in Mons with beautifully landscaped gardens and historical structures. It is an ideal spot for leisurely strolls and offers space for relaxation in a green setting.",
+                  "category": "park",
+                  "coords": [
+                        3.964813,
+                        50.452388
+                  ]
+            },
+            {
+                  "name": "Musée du Chanoine Puissant",
+                  "text": "The Chanoine Puissant Museum houses the collections of Canon Edmond Puissant in two historical buildings in Mons. It displays a variety of artworks, furniture, and archaeological finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        3.946918,
+                        50.455243
+                  ]
+            },
+            {
+                  "name": "Musée de la Route",
+                  "text": "The Road Museum in Mons is dedicated to the history of road construction and transport development. The exhibition showcases historical machinery, tools, and documents relating to the infrastructure of past times.",
+                  "category": "museum",
+                  "coords": [
+                        3.946946,
+                        50.447696
+                  ]
+            },
+            {
+                  "name": "Salle Saint-Georges",
+                  "text": "The Salle Saint-Georges is a significant exhibition space in Mons located in a former chapel. It regularly hosts temporary art exhibitions and cultural events of regional importance.",
+                  "category": "museum",
+                  "coords": [
+                        3.95199,
+                        50.454742
+                  ]
+            },
+            {
+                  "name": "Musée du Vieux Nimy",
+                  "text": "The Old Nimy Museum documents the rich industrial past of the Nimy district, particularly stoneware and tobacco production. Visitors can view local craftsmanship and historical everyday objects.",
+                  "category": "museum",
+                  "coords": [
+                        3.958555,
+                        50.474685
+                  ]
+            },
+            {
+                  "name": "Mumons",
+                  "text": "Mumons is the museum of the University of Mons, combining science, art, and curiosities. Housed in a renovated monastery chapel, it offers fascinating exhibitions for a wide audience.",
+                  "category": "museum",
+                  "coords": [
+                        3.953354,
+                        50.458229
+                  ]
+            },
+            {
+                  "name": "Magasin de Papier",
+                  "text": "The Magasin de Papier in Mons is a cultural space often used for exhibitions and literary events. The historical building provides a charming setting for the presentation of contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        3.952898,
+                        50.453139
                   ]
             }
       ]
@@ -9091,7 +9991,1060 @@ export const belgiumCitiesV2: POI[] = [
       fr: ["Plus grande ville de la Région wallonne par sa superficie et sa population", "Le site minier du Bois du Cazier a connu une catastrophe tragique en 1956 faisant 262 victimes", "L'aéroport de Bruxelles-Sud Charleroi est le deuxième plus fréquenté de Belgique", "Siège de la maison d'édition de bandes dessinées Dupuis depuis 1922", "Souvent appelée la « capitale du Pays Noir » en raison des mines de charbon", "Abrite le Musée de la Photographie, l'un des plus grands d'Europe", "Fait actuellement l'objet d'un vaste projet de rénovation urbaine nommé 'Charleroi District Center'"],
     }, image: "/poi-images/belgium-charleroi-cities-v2.webp"},
   {
-    id: "belgium-mechelen-cities-v2", "sights": {"de": [{"name": "Spaarbekken Eeckhoven", "text": "Ein lokaler See in Mechelen, ideal für Spaziergänge und zur Erholung in der Natur.", "category": "natural", "coords": [4.468323, 51.076028]}, {"name": "Watersportbaan Hazewinkel", "text": "Ein lokaler See in Mechelen, ideal für Spaziergänge und zur Erholung in der Natur.", "category": "natural", "coords": [4.389425, 51.066116]}, {"name": "GymFlex", "text": "GymFlex ist ein toller Anlaufpunkt für aktive Familien in der belgischen Stadt Mechelen. Hier können Kinder in einer ansprechenden Umgebung spielen und sich sportlich betätigen.", "category": "family", "coords": [4.467884, 51.025937]}, {"name": "Opsinjoorke", "text": "Der familienfreundliche Ort Opsinjoorke befindet sich in Mechelen und bietet Erholungsmöglichkeiten für Jung und Alt. Auf diesem belgischen Spielplatz ist ausreichend Raum für kindliche Entdeckungen vorhanden.", "category": "family", "coords": [4.47836, 51.029362]}, {"name": "Speelplein O.L.V. over de Dijlekerk", "text": "Das Speelplein O.L.V. over de Dijlekerk ist ein familienfreundlicher Ort mitten in Mechelen. Auf diesem Spielplatz finden Kinder ausreichend Raum zum Toben und Spielen. Für Familien bietet sich hier eine ideale Gelegenheit für eine entspannte Pause an der frischen Luft.", "category": "family", "coords": [4.479059, 51.022777]}, {"name": "Tivoli", "text": "Tivoli dient als familienfreundliches Naherholungsgebiet in Mechelen. Besucher erwartet hier ein weitläufiger Spielplatz, der Kinder zum aktiven Entdecken und Spielen einlädt. Bei einem Stadtbesuch ist es ein hervorragender Zwischenstopp für Eltern und ihren Nachwuchs.", "category": "family", "coords": [4.473142, 51.047734]}, {"name": "Speelplein Otterbeek", "text": "Das in Mechelen gelegene Speelplein Otterbeek wurde speziell für die Bedürfnisse von Familien konzipiert. Der Spielplatz besticht durch sein großzügiges Platzangebot für kindliche Aktivitäten und Spiele. Hier können die Kleinen eine unbeschwerte Zeit verbringen, während die Eltern eine Pause einlegen.", "category": "family", "coords": [4.47111, 51.049505]}], "hu": [{"name": "Spaarbekken Eeckhoven", "text": "Helyi tó Mechelen területén, amely kellemes környezetet biztosít a sétákhoz.", "category": "natural", "coords": [4.468323, 51.076028]}, {"name": "Watersportbaan Hazewinkel", "text": "Helyi tó Mechelen területén, amely kellemes környezetet biztosít a sétákhoz.", "category": "natural", "coords": [4.389425, 51.066116]}, {"name": "GymFlex", "text": "A GymFlex egy nagyszerű találkozóhely az aktív családok számára a belga Mechelen városában. Itt a gyerekek vonzó környezetben játszhatnak és sportolhatnak.", "category": "family", "coords": [4.467884, 51.025937]}, {"name": "Opsinjoorke", "text": "A családbarát Opsinjoorke Mechelenben található, és kikapcsolódási lehetőséget kínál kicsiknek és nagyoknak. Ezen a belga játszótéren elegendő tér van a gyermeki felfedezésekhez.", "category": "family", "coords": [4.47836, 51.029362]}, {"name": "Speelplein O.L.V. over de Dijlekerk", "text": "A mecheleni Speelplein O.L.V. over de Dijlekerk egy barátságos, családok számára kialakított hely. Ez a helyi játszótér bőséges teret kínál a gyerekeknek a szaladgáláshoz és a játékhoz. Kiváló célpont, ha egy kis szabadtéri kikapcsolódásra vágyunk a városban.", "category": "family", "coords": [4.479059, 51.022777]}, {"name": "Tivoli", "text": "A Tivoli egy családbarát rekreációs terület Mechelen városában. A látogatókat egy tágas játszótér várja, amely aktív játékra ösztönzi a kisebbeket. Remek szabadtéri megálló a szülők és a gyerekek számára egyaránt a városnézés során.", "category": "family", "coords": [4.473142, 51.047734]}, {"name": "Speelplein Otterbeek", "text": "A mecheleni Speelplein Otterbeek kifejezetten a családok igényeit szem előtt tartva jött létre. A játszótér bőséges teret biztosít a fiatalos tevékenységekhez és játékokhoz. A gyerekek könnyedén élvezhetik itt az időt, míg a szülők is tarthatnak egy kis pihenőt.", "category": "family", "coords": [4.47111, 51.049505]}], "ro": [{"name": "Spaarbekken Eeckhoven", "text": "Un lac local în Mechelen, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [4.468323, 51.076028]}, {"name": "Watersportbaan Hazewinkel", "text": "Un lac local în Mechelen, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [4.389425, 51.066116]}, {"name": "GymFlex", "text": "GymFlex este un punct de atracție excelent pentru familiile active din orașul belgian Mechelen. Aici copiii se pot juca și pot face mișcare într-un mediu primitor.", "category": "family", "coords": [4.467884, 51.025937]}, {"name": "Opsinjoorke", "text": "Locația prietenoasă cu familiile, Opsinjoorke, se află în Mechelen și oferă opțiuni de relaxare pentru tineri și adulți. Pe acest loc de joacă belgian există spațiu suficient pentru descoperirile copiilor.", "category": "family", "coords": [4.47836, 51.029362]}, {"name": "Speelplein O.L.V. over de Dijlekerk", "text": "Situat în Mechelen, Speelplein O.L.V. over de Dijlekerk este o destinație primitoare pentru familii. Acest loc de joacă oferă copiilor un spațiu generos pentru a se juca și a face mișcare. Este un loc excelent pentru a petrece câteva momente relaxante în aer liber.", "category": "family", "coords": [4.479059, 51.022777]}, {"name": "Tivoli", "text": "Tivoli servește drept o zonă de recreere potrivită pentru familii în Mechelen. Vizitatorii vor găsi aici un loc de joacă spațios care îi încurajează pe copii să se joace activ. Reprezintă o oprire excelentă în aer liber atât pentru părinți, cât și pentru cei mici, în timpul unei vizite în oraș.", "category": "family", "coords": [4.473142, 51.047734]}, {"name": "Speelplein Otterbeek", "text": "Situat în Mechelen, Speelplein Otterbeek este conceput special pentru familii. Terenul de joacă dispune de un spațiu generos pentru activități și jocuri. Copiii se pot bucura din plin de timpul petrecut aici, în timp ce părinții iau o pauză binemeritată.", "category": "family", "coords": [4.47111, 51.049505]}], "en": [{"name": "Spaarbekken Eeckhoven", "text": "A local lake in Mechelen, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [4.468323, 51.076028]}, {"name": "Watersportbaan Hazewinkel", "text": "A local lake in Mechelen, ideal for walks and enjoying the natural scenery.", "category": "natural", "coords": [4.389425, 51.066116]}, {"name": "GymFlex", "text": "GymFlex is a great venue for active families in the Belgian city of Mechelen. Here, children can play and engage in physical activities within an appealing environment.", "category": "family", "coords": [4.467884, 51.025937]}, {"name": "Opsinjoorke", "text": "The family-friendly location Opsinjoorke is situated in Mechelen, providing recreational options for young and old alike. This Belgian playground offers plenty of room for childhood discoveries.", "category": "family", "coords": [4.47836, 51.029362]}, {"name": "Speelplein O.L.V. over de Dijlekerk", "text": "Located in the heart of Mechelen, Speelplein O.L.V. over de Dijlekerk is a welcoming family destination. This local playground provides ample space where children can play and burn off energy. It is an excellent spot for families to enjoy some outdoor relaxation in the city.", "category": "family", "coords": [4.479059, 51.022777]}, {"name": "Tivoli", "text": "Tivoli serves as a family-friendly recreation area in Mechelen. Visitors will find a spacious playground that encourages children to actively explore and play. It stands out as a great outdoor stop for parents and kids alike during a city visit.", "category": "family", "coords": [4.473142, 51.047734]}, {"name": "Speelplein Otterbeek", "text": "Situated in Mechelen, Speelplein Otterbeek is designed specifically with families in mind. The playground features generous space for youthful activities and games. Children can easily enjoy their time here while parents take a well-deserved break.", "category": "family", "coords": [4.47111, 51.049505]}]},
+    id: "belgium-mechelen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spaarbekken Eeckhoven",
+                  "text": "Ein lokaler See in Mechelen, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.468323,
+                        51.076028
+                  ]
+            },
+            {
+                  "name": "Watersportbaan Hazewinkel",
+                  "text": "Ein lokaler See in Mechelen, ideal für Spaziergänge und zur Erholung in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        4.389425,
+                        51.066116
+                  ]
+            },
+            {
+                  "name": "GymFlex",
+                  "text": "GymFlex ist ein toller Anlaufpunkt für aktive Familien in der belgischen Stadt Mechelen. Hier können Kinder in einer ansprechenden Umgebung spielen und sich sportlich betätigen.",
+                  "category": "family",
+                  "coords": [
+                        4.467884,
+                        51.025937
+                  ]
+            },
+            {
+                  "name": "Opsinjoorke",
+                  "text": "Der familienfreundliche Ort Opsinjoorke befindet sich in Mechelen und bietet Erholungsmöglichkeiten für Jung und Alt. Auf diesem belgischen Spielplatz ist ausreichend Raum für kindliche Entdeckungen vorhanden.",
+                  "category": "family",
+                  "coords": [
+                        4.47836,
+                        51.029362
+                  ]
+            },
+            {
+                  "name": "Speelplein O.L.V. over de Dijlekerk",
+                  "text": "Das Speelplein O.L.V. over de Dijlekerk ist ein familienfreundlicher Ort mitten in Mechelen. Auf diesem Spielplatz finden Kinder ausreichend Raum zum Toben und Spielen. Für Familien bietet sich hier eine ideale Gelegenheit für eine entspannte Pause an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        4.479059,
+                        51.022777
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "Tivoli dient als familienfreundliches Naherholungsgebiet in Mechelen. Besucher erwartet hier ein weitläufiger Spielplatz, der Kinder zum aktiven Entdecken und Spielen einlädt. Bei einem Stadtbesuch ist es ein hervorragender Zwischenstopp für Eltern und ihren Nachwuchs.",
+                  "category": "family",
+                  "coords": [
+                        4.473142,
+                        51.047734
+                  ]
+            },
+            {
+                  "name": "Speelplein Otterbeek",
+                  "text": "Das in Mechelen gelegene Speelplein Otterbeek wurde speziell für die Bedürfnisse von Familien konzipiert. Der Spielplatz besticht durch sein großzügiges Platzangebot für kindliche Aktivitäten und Spiele. Hier können die Kleinen eine unbeschwerte Zeit verbringen, während die Eltern eine Pause einlegen.",
+                  "category": "family",
+                  "coords": [
+                        4.47111,
+                        51.049505
+                  ]
+            },
+            {
+                  "name": "Joods Museum van Deportatie en Verzet",
+                  "text": "Dieses Museum in Mechelen befindet sich in der ehemaligen Dossin-Kaserne und ist ein Ort des Gedenkens. Es dokumentiert die Geschichte der Deportation während des Holocausts und setzt sich für Menschenrechte ein.",
+                  "category": "museum",
+                  "coords": [
+                        4.478202,
+                        51.034127
+                  ]
+            },
+            {
+                  "name": "Speelgoedmuseum",
+                  "text": "Das Spielzeugmuseum in Mechelen beherbergt eine der umfangreichsten Spielzeugsammlungen Europas. Besucher aller Altersgruppen können hier die Geschichte des Spielens durch verschiedene Epochen hindurch entdecken.",
+                  "category": "museum",
+                  "coords": [
+                        4.482869,
+                        51.016161
+                  ]
+            },
+            {
+                  "name": "Technopolis",
+                  "text": "Technopolis ist ein interaktives Wissenschaftszentrum in Mechelen, das Besuchern Technik und Naturwissenschaften näherbringt. Durch zahlreiche Experimente und Mitmachstationen wird Lernen zu einem spannenden Erlebnis für Familien.",
+                  "category": "museum",
+                  "coords": [
+                        4.470079,
+                        51.001899
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-van-Leliëndaalkerk",
+                  "text": "Die Kirche Unserer Lieben Frau von Leliëndaal in Mechelen ist ein beeindruckendes Beispiel sakraler Baukunst. Heute wird das Gebäude teilweise museal genutzt und beherbergt wertvolle religiöse Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        4.480903,
+                        51.025694
+                  ]
+            },
+            {
+                  "name": "Museum Hof van Busleyden",
+                  "text": "Das Museum Hof van Busleyden ist in einem prachtvollen Renaissance-Palast in Mechelen untergebracht. Es präsentiert die glanzvolle Geschichte der Stadt während der burgundischen Epoche anhand hochkarätiger Exponate.",
+                  "category": "castle",
+                  "coords": [
+                        4.48242,
+                        51.031123
+                  ]
+            },
+            {
+                  "name": "Befferhof",
+                  "text": "Das Schloss Befferhof ist ein historisches Anwesen in der Umgebung von Mechelen. Die elegante Architektur und die umliegende Parklandschaft zeugen von der herrschaftlichen Vergangenheit dieses Ortes.",
+                  "category": "castle",
+                  "coords": [
+                        4.517472,
+                        51.028953
+                  ]
+            },
+            {
+                  "name": "Brusselpoort",
+                  "text": "Das Brusselpoort ist das letzte erhaltene Stadttor der mittelalterlichen Stadtbefestigung von Mechelen. Das imposante Bauwerk dient heute als markantes Wahrzeichen und erinnert an die einstige Wehrhaftigkeit der Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        4.473761,
+                        51.021928
+                  ]
+            },
+            {
+                  "name": "'t Arsenaal",
+                  "text": "'t Arsenaal ist ein renommiertes Theater in Mechelen, das in einem historischen Gebäude untergebracht ist. Es bietet ein vielfältiges Programm an zeitgenössischen Aufführungen und bereichert das kulturelle Leben der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        4.484751,
+                        51.022401
+                  ]
+            },
+            {
+                  "name": "Sint-Jozef-Colomakerk",
+                  "text": "Die Sint-Jozef-Colomakerk ist ein markantes Kirchengebäude im Coloma-Viertel von Mechelen. Die Kirche dient der Gemeinde als spiritueller Mittelpunkt und ist für ihre neugotische Architektur bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        4.482823,
+                        51.012745
+                  ]
+            },
+            {
+                  "name": "Sint-Janskerk",
+                  "text": "Die Sint-Janskerk in Mechelen beherbergt bedeutende Kunstwerke, darunter ein berühmtes Altarbild von Peter Paul Rubens. Die Kirche ist ein Muss für Kunstliebhaber und Besucher, die sich für barocke Sakralmalerei interessieren.",
+                  "category": "religious",
+                  "coords": [
+                        4.480923,
+                        51.030464
+                  ]
+            },
+            {
+                  "name": "Begijnhofkerk Sint-Alexius en Catharina",
+                  "text": "Diese Kirche ist Teil des Großen Beginenhofs von Mechelen, der zum UNESCO-Welterbe gehört. Der Bau besticht durch seine barocke Fassade und seine ruhige Lage innerhalb des historischen Viertels.",
+                  "category": "religious",
+                  "coords": [
+                        4.474343,
+                        51.03183
+                  ]
+            },
+            {
+                  "name": "Wat Dhammapateep",
+                  "text": "Wat Dhammapateep ist ein thailändisch-buddhistischer Tempel in Mechelen, der als religiöses Zentrum für die lokale Gemeinde dient. Besucher können hier die traditionelle buddhistische Architektur und eine Atmosphäre der Ruhe erleben.",
+                  "category": "religious",
+                  "coords": [
+                        4.463631,
+                        51.048915
+                  ]
+            },
+            {
+                  "name": "Winketbrug",
+                  "text": "Die Winketbrug ist eine der historischen Brücken in Mechelen, die den Fluss Dijle überspannt. Sie verbindet wichtige Stadtteile und bietet Fußgängern einen schönen Blick auf die Wasserwege der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        4.471487,
+                        51.030222
+                  ]
+            },
+            {
+                  "name": "Minderbroedersbrug",
+                  "text": "Die Minderbroedersbrug ist eine markante Brücke in Mechelen, die nach dem nahegelegenen ehemaligen Franziskanerkloster benannt ist. Sie ist ein wichtiger Übergang über den Fluss und fügt sich harmonisch in das historische Stadtbild ein.",
+                  "category": "landmark",
+                  "coords": [
+                        4.47613,
+                        51.029054
+                  ]
+            },
+            {
+                  "name": "Koepoortbrug",
+                  "text": "Die Koepoortbrug ist eine Steinbrücke in Mechelen, die an die einstige Lage des Koepoort-Stadttors erinnert. Sie ist ein fester Bestandteil der städtischen Infrastruktur und bietet eine malerische Perspektive auf die umliegenden Ufer.",
+                  "category": "landmark",
+                  "coords": [
+                        4.483602,
+                        51.033394
+                  ]
+            },
+            {
+                  "name": "Fonteinbrug",
+                  "text": "Die Fonteinbrug führt in Mechelen über das Wasser und ist Teil des historischen Kerns der Stadt. Die Brücke ist ein beliebter Fotopunkt für Touristen, die die Kanäle von Mechelen erkunden möchten.",
+                  "category": "landmark",
+                  "coords": [
+                        4.482064,
+                        51.023075
+                  ]
+            },
+            {
+                  "name": "Grootbrug",
+                  "text": "Die Grootbrug, auch als Hoogbrug bekannt, ist die älteste erhaltene Steinbogenbrücke in Mechelen. Sie überquert die Dijle und ist ein bedeutendes Denkmal der mittelalterlichen Ingenieurskunst in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        4.477554,
+                        51.025792
+                  ]
+            },
+            {
+                  "name": "Colomabrug",
+                  "text": "Die Colomabrug ist eine funktionale Brücke in Mechelen, die den Zugang zum beliebten Coloma-Park ermöglicht. Sie ist ein wichtiger Knotenpunkt für Spaziergänger und Radfahrer in diesem grünen Stadtviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        4.482416,
+                        51.014826
+                  ]
+            },
+            {
+                  "name": "Battelbrug",
+                  "text": "Die Battelbrug befindet sich im Mechelner Stadtteil Battel und überquert den Kanal Leuven-Mechelen. Die Brücke ist ein wichtiger Punkt für den lokalen Verkehr und bietet Ausblicke auf die Schifffahrt auf dem Kanal.",
+                  "category": "landmark",
+                  "coords": [
+                        4.444612,
+                        51.039572
+                  ]
+            },
+            {
+                  "name": "Vrijbroekpark",
+                  "text": "Der Vrijbroekpark ist eine weitläufige Grünanlage am Stadtrand von Mechelen. Mit seinen prächtigen Rosengärten und zahlreichen Wanderwegen ist er ein ideales Ziel für Erholungssuchende und Naturliebhaber.",
+                  "category": "park",
+                  "coords": [
+                        4.457153,
+                        51.020548
+                  ]
+            },
+            {
+                  "name": "Oud Oefenplein",
+                  "text": "Der Oud Oefenplein ist eine öffentliche Grünfläche in Mechelen, die für Freizeitaktivitäten und Entspannung genutzt wird. Der Park bietet Anwohnern und Besuchern einen ruhigen Ort zum Verweilen inmitten der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        4.474444,
+                        51.042092
+                  ]
+            },
+            {
+                  "name": "Hof van Kamerijk",
+                  "text": "Der Hof van Kamerijk ist ein historisches Gebäudeensemble in Mechelen, das einst als Stadtresidenz diente. Die Architektur spiegelt den Wohlstand und die Bedeutung der Stadt in früheren Jahrhunderten wider.",
+                  "category": "castle",
+                  "coords": [
+                        4.485684,
+                        51.029133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spaarbekken Eeckhoven",
+                  "text": "Helyi tó Mechelen területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.468323,
+                        51.076028
+                  ]
+            },
+            {
+                  "name": "Watersportbaan Hazewinkel",
+                  "text": "Helyi tó Mechelen területén, amely kellemes környezetet biztosít a sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        4.389425,
+                        51.066116
+                  ]
+            },
+            {
+                  "name": "GymFlex",
+                  "text": "A GymFlex egy nagyszerű találkozóhely az aktív családok számára a belga Mechelen városában. Itt a gyerekek vonzó környezetben játszhatnak és sportolhatnak.",
+                  "category": "family",
+                  "coords": [
+                        4.467884,
+                        51.025937
+                  ]
+            },
+            {
+                  "name": "Opsinjoorke",
+                  "text": "A családbarát Opsinjoorke Mechelenben található, és kikapcsolódási lehetőséget kínál kicsiknek és nagyoknak. Ezen a belga játszótéren elegendő tér van a gyermeki felfedezésekhez.",
+                  "category": "family",
+                  "coords": [
+                        4.47836,
+                        51.029362
+                  ]
+            },
+            {
+                  "name": "Speelplein O.L.V. over de Dijlekerk",
+                  "text": "A mecheleni Speelplein O.L.V. over de Dijlekerk egy barátságos, családok számára kialakított hely. Ez a helyi játszótér bőséges teret kínál a gyerekeknek a szaladgáláshoz és a játékhoz. Kiváló célpont, ha egy kis szabadtéri kikapcsolódásra vágyunk a városban.",
+                  "category": "family",
+                  "coords": [
+                        4.479059,
+                        51.022777
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "A Tivoli egy családbarát rekreációs terület Mechelen városában. A látogatókat egy tágas játszótér várja, amely aktív játékra ösztönzi a kisebbeket. Remek szabadtéri megálló a szülők és a gyerekek számára egyaránt a városnézés során.",
+                  "category": "family",
+                  "coords": [
+                        4.473142,
+                        51.047734
+                  ]
+            },
+            {
+                  "name": "Speelplein Otterbeek",
+                  "text": "A mecheleni Speelplein Otterbeek kifejezetten a családok igényeit szem előtt tartva jött létre. A játszótér bőséges teret biztosít a fiatalos tevékenységekhez és játékokhoz. A gyerekek könnyedén élvezhetik itt az időt, míg a szülők is tarthatnak egy kis pihenőt.",
+                  "category": "family",
+                  "coords": [
+                        4.47111,
+                        51.049505
+                  ]
+            },
+            {
+                  "name": "Joods Museum van Deportatie en Verzet",
+                  "text": "Ez a mecheleni múzeum az egykori Dossin-laktanyában található, és az emlékezés helyszíne. A holokauszt alatti deportálások történetét dokumentálja, és az emberi jogok védelméért emel szót.",
+                  "category": "museum",
+                  "coords": [
+                        4.478202,
+                        51.034127
+                  ]
+            },
+            {
+                  "name": "Speelgoedmuseum",
+                  "text": "A mecheleni Játékmúzeum Európa egyik leggazdagabb játékgyűjteményének ad otthont. Minden korosztály számára érdekes felfedezést kínál a játékok történetén keresztül, különböző korszakokat bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        4.482869,
+                        51.016161
+                  ]
+            },
+            {
+                  "name": "Technopolis",
+                  "text": "A Technopolis egy interaktív tudományos központ Mechelenben, amely közelebb hozza a technológiát és a természettudományokat. Számos kísérlet és interaktív állomás teszi a tanulást izgalmas élménnyé a családok számára.",
+                  "category": "museum",
+                  "coords": [
+                        4.470079,
+                        51.001899
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-van-Leliëndaalkerk",
+                  "text": "A mecheleni Leliëndaali Miasszonyunk-templom a szakrális építészet lenyűgöző példája. Az épületet ma részben múzeumi célokra használják, és értékes vallási műtárgyaknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        4.480903,
+                        51.025694
+                  ]
+            },
+            {
+                  "name": "Museum Hof van Busleyden",
+                  "text": "A Hof van Busleyden Múzeum egy pompás reneszánsz palotában kapott helyet Mechelenben. A kiállítás a város burgundi korszak alatti fényes történelmét mutatja be kiváló műtárgyakon keresztül.",
+                  "category": "castle",
+                  "coords": [
+                        4.48242,
+                        51.031123
+                  ]
+            },
+            {
+                  "name": "Befferhof",
+                  "text": "A Befferhof kastély egy történelmi birtok Mechelen környékén. Az épület elegáns stílusa és a környező parkos vidék a hely nemesi múltjáról tanúskodik.",
+                  "category": "castle",
+                  "coords": [
+                        4.517472,
+                        51.028953
+                  ]
+            },
+            {
+                  "name": "Brusselpoort",
+                  "text": "A Brusselpoort Mechelen középkori városfalának utolsó épségben maradt kapuja. Az impozáns építmény ma jellegzetes városképnek számít, emlékeztetve a város egykori védelmi rendszerére.",
+                  "category": "fortress",
+                  "coords": [
+                        4.473761,
+                        51.021928
+                  ]
+            },
+            {
+                  "name": "'t Arsenaal",
+                  "text": "A 't Arsenaal egy neves színház Mechelenben, amely egy történelmi épületben működik. Kortárs előadások változatos programját kínálja, gazdagítva a város kulturális életét.",
+                  "category": "cultural",
+                  "coords": [
+                        4.484751,
+                        51.022401
+                  ]
+            },
+            {
+                  "name": "Sint-Jozef-Colomakerk",
+                  "text": "A Szent József-Coloma-templom Mechelen Coloma negyedének jellegzetes épülete. A templom a közösség spirituális központjaként szolgál, és neogótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        4.482823,
+                        51.012745
+                  ]
+            },
+            {
+                  "name": "Sint-Janskerk",
+                  "text": "A mecheleni Szent János-templom jelentős műalkotásoknak ad otthont, köztük Peter Paul Rubens egy híres oltárképének. A templom kötelező látnivaló a művészetkedvelők és a barokk vallási festészet iránt érdeklődők számára.",
+                  "category": "religious",
+                  "coords": [
+                        4.480923,
+                        51.030464
+                  ]
+            },
+            {
+                  "name": "Begijnhofkerk Sint-Alexius en Catharina",
+                  "text": "Ez a templom Mechelen UNESCO világörökségi védelme alatt álló Nagy Beginaházának része. Az épület barokk homlokzatával és a történelmi negyedben található csendes elhelyezkedésével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        4.474343,
+                        51.03183
+                  ]
+            },
+            {
+                  "name": "Wat Dhammapateep",
+                  "text": "A Wat Dhammapateep egy thai-buddhista templom Mechelenben, amely a helyi közösség vallási központjaként működik. A látogatók itt megismerhetik a hagyományos buddhista építészetet és a nyugalom légkörét.",
+                  "category": "religious",
+                  "coords": [
+                        4.463631,
+                        51.048915
+                  ]
+            },
+            {
+                  "name": "Winketbrug",
+                  "text": "A Winketbrug Mechelen egyik történelmi hídja, amely a Dijle folyót íveli át. Fontos városrészeket köt össze, és szép kilátást nyújt a gyalogosoknak a város csatornáira.",
+                  "category": "landmark",
+                  "coords": [
+                        4.471487,
+                        51.030222
+                  ]
+            },
+            {
+                  "name": "Minderbroedersbrug",
+                  "text": "A Minderbroedersbrug Mechelen egyik jellegzetes hídja, amely a közeli egykori ferences kolostorról kapta a nevét. Fontos átkelőhely a folyón, amely harmonikusan illeszkedik a történelmi városképbe.",
+                  "category": "landmark",
+                  "coords": [
+                        4.47613,
+                        51.029054
+                  ]
+            },
+            {
+                  "name": "Koepoortbrug",
+                  "text": "A Koepoortbrug egy kőhíd Mechelenben, amely az egykori Koepoort városkapu helyére emlékeztet. A városi infrastruktúra szerves része, festői kilátást nyújtva a környező folyópartra.",
+                  "category": "landmark",
+                  "coords": [
+                        4.483602,
+                        51.033394
+                  ]
+            },
+            {
+                  "name": "Fonteinbrug",
+                  "text": "A Fonteinbrug Mechelen történelmi központjában található, átívelve a víz felett. A híd népszerű fotóhelyszín a turisták számára, akik Mechelen csatornáit fedezik fel.",
+                  "category": "landmark",
+                  "coords": [
+                        4.482064,
+                        51.023075
+                  ]
+            },
+            {
+                  "name": "Grootbrug",
+                  "text": "A Grootbrug, más néven Hoogbrug, Mechelen legidősebb épségben maradt kőívhídja. A Dijle folyón ível át, és a középkori mérnöki munka jelentős emléke a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        4.477554,
+                        51.025792
+                  ]
+            },
+            {
+                  "name": "Colomabrug",
+                  "text": "A Colomabrug egy funkcionális híd Mechelenben, amely hozzáférést biztosít a népszerű Coloma parkhoz. Fontos csomópont a gyalogosok és kerékpárosok számára ebben a zöld városrészben.",
+                  "category": "landmark",
+                  "coords": [
+                        4.482416,
+                        51.014826
+                  ]
+            },
+            {
+                  "name": "Battelbrug",
+                  "text": "A Battelbrug Mechelen Battel városrészében található, és a Leuven-Mechelen csatornán ível át. A híd fontos pont a helyi közlekedésben, és rálátást biztosít a csatornán zajló hajóforgalomra.",
+                  "category": "landmark",
+                  "coords": [
+                        4.444612,
+                        51.039572
+                  ]
+            },
+            {
+                  "name": "Vrijbroekpark",
+                  "text": "A Vrijbroekpark egy kiterjedt zöldterület Mechelen szélén. Pompás rózsakertjeivel és számos sétaútvonalával ideális úti cél a kikapcsolódni vágyók és a természetbarátok számára.",
+                  "category": "park",
+                  "coords": [
+                        4.457153,
+                        51.020548
+                  ]
+            },
+            {
+                  "name": "Oud Oefenplein",
+                  "text": "Az Oud Oefenplein egy nyilvános zöldterület Mechelenben, amelyet szabadidős tevékenységekre és pihenésre használnak. A park nyugodt helyet kínál a lakóknak és a látogatóknak a város közepén.",
+                  "category": "park",
+                  "coords": [
+                        4.474444,
+                        51.042092
+                  ]
+            },
+            {
+                  "name": "Hof van Kamerijk",
+                  "text": "A Hof van Kamerijk egy történelmi épületegyüttes Mechelenben, amely egykor városi rezidenciaként szolgált. Az építészet a város korábbi évszázadokbeli jólétét és jelentőségét tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        4.485684,
+                        51.029133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spaarbekken Eeckhoven",
+                  "text": "Un lac local în Mechelen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.468323,
+                        51.076028
+                  ]
+            },
+            {
+                  "name": "Watersportbaan Hazewinkel",
+                  "text": "Un lac local în Mechelen, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        4.389425,
+                        51.066116
+                  ]
+            },
+            {
+                  "name": "GymFlex",
+                  "text": "GymFlex este un punct de atracție excelent pentru familiile active din orașul belgian Mechelen. Aici copiii se pot juca și pot face mișcare într-un mediu primitor.",
+                  "category": "family",
+                  "coords": [
+                        4.467884,
+                        51.025937
+                  ]
+            },
+            {
+                  "name": "Opsinjoorke",
+                  "text": "Locația prietenoasă cu familiile, Opsinjoorke, se află în Mechelen și oferă opțiuni de relaxare pentru tineri și adulți. Pe acest loc de joacă belgian există spațiu suficient pentru descoperirile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        4.47836,
+                        51.029362
+                  ]
+            },
+            {
+                  "name": "Speelplein O.L.V. over de Dijlekerk",
+                  "text": "Situat în Mechelen, Speelplein O.L.V. over de Dijlekerk este o destinație primitoare pentru familii. Acest loc de joacă oferă copiilor un spațiu generos pentru a se juca și a face mișcare. Este un loc excelent pentru a petrece câteva momente relaxante în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        4.479059,
+                        51.022777
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "Tivoli servește drept o zonă de recreere potrivită pentru familii în Mechelen. Vizitatorii vor găsi aici un loc de joacă spațios care îi încurajează pe copii să se joace activ. Reprezintă o oprire excelentă în aer liber atât pentru părinți, cât și pentru cei mici, în timpul unei vizite în oraș.",
+                  "category": "family",
+                  "coords": [
+                        4.473142,
+                        51.047734
+                  ]
+            },
+            {
+                  "name": "Speelplein Otterbeek",
+                  "text": "Situat în Mechelen, Speelplein Otterbeek este conceput special pentru familii. Terenul de joacă dispune de un spațiu generos pentru activități și jocuri. Copiii se pot bucura din plin de timpul petrecut aici, în timp ce părinții iau o pauză binemeritată.",
+                  "category": "family",
+                  "coords": [
+                        4.47111,
+                        51.049505
+                  ]
+            },
+            {
+                  "name": "Joods Museum van Deportatie en Verzet",
+                  "text": "Acest muzeu din Mechelen este situat în fosta cazarmă Dossin și este un loc de comemorare. Acesta documentează istoria deportării din timpul Holocaustului și militează pentru drepturile omului.",
+                  "category": "museum",
+                  "coords": [
+                        4.478202,
+                        51.034127
+                  ]
+            },
+            {
+                  "name": "Speelgoedmuseum",
+                  "text": "Muzeul Jucăriilor din Mechelen găzduiește una dintre cele mai extinse colecții de jucării din Europa. Vizitatorii de toate vârstele pot descoperi aici istoria jocurilor de-a lungul diferitelor epoci.",
+                  "category": "museum",
+                  "coords": [
+                        4.482869,
+                        51.016161
+                  ]
+            },
+            {
+                  "name": "Technopolis",
+                  "text": "Technopolis este un centru științific interactiv din Mechelen, care apropie vizitatorii de tehnologie și științe naturale. Numeroasele experimente și stații interactive transformă învățarea într-o experiență captivantă pentru familii.",
+                  "category": "museum",
+                  "coords": [
+                        4.470079,
+                        51.001899
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-van-Leliëndaalkerk",
+                  "text": "Biserica Maicii Domnului din Leliëndaal, situată în Mechelen, este un exemplu impresionant de arhitectură sacră. Astăzi, clădirea este utilizată parțial ca muzeu și adăpostește obiecte de artă religioasă valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        4.480903,
+                        51.025694
+                  ]
+            },
+            {
+                  "name": "Museum Hof van Busleyden",
+                  "text": "Muzeul Hof van Busleyden este găzduit într-un palat renascentist superb din Mechelen. Acesta prezintă istoria glorioasă a orașului în timpul epocii burgunde prin intermediul unor exponate de înaltă calitate.",
+                  "category": "castle",
+                  "coords": [
+                        4.48242,
+                        51.031123
+                  ]
+            },
+            {
+                  "name": "Befferhof",
+                  "text": "Castelul Befferhof este o proprietate istorică situată în împrejurimile orașului Mechelen. Arhitectura elegantă și parcul înconjurător atestă trecutul nobiliar al acestui loc.",
+                  "category": "castle",
+                  "coords": [
+                        4.517472,
+                        51.028953
+                  ]
+            },
+            {
+                  "name": "Brusselpoort",
+                  "text": "Brusselpoort este ultima poartă medievală păstrată din fortificațiile orașului Mechelen. Structura impunătoare servește astăzi ca simbol local și amintește de vechile sisteme de apărare ale orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        4.473761,
+                        51.021928
+                  ]
+            },
+            {
+                  "name": "'t Arsenaal",
+                  "text": "'t Arsenaal este un teatru renumit din Mechelen, găzduit într-o clădire istorică. Acesta oferă un program diversificat de spectacole contemporane, îmbogățind viața culturală a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.484751,
+                        51.022401
+                  ]
+            },
+            {
+                  "name": "Sint-Jozef-Colomakerk",
+                  "text": "Biserica Sfântul Iosif Coloma este un edificiu religios distinctiv din cartierul Coloma din Mechelen. Biserica servește drept centru spiritual pentru comunitate și este cunoscută pentru arhitectura sa neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        4.482823,
+                        51.012745
+                  ]
+            },
+            {
+                  "name": "Sint-Janskerk",
+                  "text": "Biserica Sfântul Ioan din Mechelen găzduiește opere de artă importante, inclusiv un celebru altar pictat de Peter Paul Rubens. Biserica este o destinație esențială pentru iubitorii de artă și pasionații de pictură barocă sacră.",
+                  "category": "religious",
+                  "coords": [
+                        4.480923,
+                        51.030464
+                  ]
+            },
+            {
+                  "name": "Begijnhofkerk Sint-Alexius en Catharina",
+                  "text": "Această biserică face parte din Marele Beginaj din Mechelen, inclus în patrimoniul mondial UNESCO. Edificiul impresionează prin fațada sa barocă și amplasarea liniștită în cadrul cartierului istoric.",
+                  "category": "religious",
+                  "coords": [
+                        4.474343,
+                        51.03183
+                  ]
+            },
+            {
+                  "name": "Wat Dhammapateep",
+                  "text": "Wat Dhammapateep este un templu budist thailandez din Mechelen, care servește drept centru religios pentru comunitatea locală. Vizitatorii pot experimenta aici arhitectura budistă tradițională și o atmosferă de liniște.",
+                  "category": "religious",
+                  "coords": [
+                        4.463631,
+                        51.048915
+                  ]
+            },
+            {
+                  "name": "Winketbrug",
+                  "text": "Winketbrug este unul dintre podurile istorice din Mechelen care traversează râul Dijle. Acesta conectează părți importante ale orașului și oferă pietonilor o vedere frumoasă asupra căilor navigabile urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        4.471487,
+                        51.030222
+                  ]
+            },
+            {
+                  "name": "Minderbroedersbrug",
+                  "text": "Minderbroedersbrug este un pod distinctiv din Mechelen, numit după fosta mănăstire franciscană din apropiere. Reprezintă un punct important de trecere peste râu și se integrează armonios în peisajul urban istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        4.47613,
+                        51.029054
+                  ]
+            },
+            {
+                  "name": "Koepoortbrug",
+                  "text": "Koepoortbrug este un pod de piatră din Mechelen, care amintește de vechea locație a porții orașului Koepoort. Este o parte integrantă a infrastructurii urbane și oferă o perspectivă pitorească asupra malurilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.483602,
+                        51.033394
+                  ]
+            },
+            {
+                  "name": "Fonteinbrug",
+                  "text": "Fonteinbrug traversează apa în Mechelen și face parte din nucleul istoric al orașului. Podul este un punct popular de fotografiere pentru turiștii care explorează canalele din Mechelen.",
+                  "category": "landmark",
+                  "coords": [
+                        4.482064,
+                        51.023075
+                  ]
+            },
+            {
+                  "name": "Grootbrug",
+                  "text": "Grootbrug, cunoscut și sub numele de Hoogbrug, este cel mai vechi pod de piatră cu arcuri păstrat în Mechelen. Acesta traversează râul Dijle și este un monument semnificativ al ingineriei medievale din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        4.477554,
+                        51.025792
+                  ]
+            },
+            {
+                  "name": "Colomabrug",
+                  "text": "Colomabrug este un pod funcțional din Mechelen care facilitează accesul la popularul parc Coloma. Reprezintă un nod important pentru pietoni și bicicliști în acest cartier verde al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        4.482416,
+                        51.014826
+                  ]
+            },
+            {
+                  "name": "Battelbrug",
+                  "text": "Battelbrug se află în cartierul Battel din Mechelen și traversează canalul Leuven-Mechelen. Podul este un punct important pentru traficul local și oferă perspective asupra navigației de pe canal.",
+                  "category": "landmark",
+                  "coords": [
+                        4.444612,
+                        51.039572
+                  ]
+            },
+            {
+                  "name": "Vrijbroekpark",
+                  "text": "Parcul Vrijbroek este un spațiu verde vast situat la marginea orașului Mechelen. Cu grădinile sale superbe de trandafiri și numeroase trasee de mers pe jos, este o destinație ideală pentru relaxare și iubitorii de natură.",
+                  "category": "park",
+                  "coords": [
+                        4.457153,
+                        51.020548
+                  ]
+            },
+            {
+                  "name": "Oud Oefenplein",
+                  "text": "Oud Oefenplein este un spațiu verde public din Mechelen, utilizat pentru activități de recreere și relaxare. Parcul oferă rezidenților și vizitatorilor un loc liniștit pentru petrecerea timpului liber în mijlocul orașului.",
+                  "category": "park",
+                  "coords": [
+                        4.474444,
+                        51.042092
+                  ]
+            },
+            {
+                  "name": "Hof van Kamerijk",
+                  "text": "Hof van Kamerijk este un ansamblu istoric de clădiri din Mechelen, care a servit odinioară drept reședință urbană. Arhitectura reflectă prosperitatea și importanța orașului în secolele trecute.",
+                  "category": "castle",
+                  "coords": [
+                        4.485684,
+                        51.029133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spaarbekken Eeckhoven",
+                  "text": "A local lake in Mechelen, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.468323,
+                        51.076028
+                  ]
+            },
+            {
+                  "name": "Watersportbaan Hazewinkel",
+                  "text": "A local lake in Mechelen, ideal for walks and enjoying the natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        4.389425,
+                        51.066116
+                  ]
+            },
+            {
+                  "name": "GymFlex",
+                  "text": "GymFlex is a great venue for active families in the Belgian city of Mechelen. Here, children can play and engage in physical activities within an appealing environment.",
+                  "category": "family",
+                  "coords": [
+                        4.467884,
+                        51.025937
+                  ]
+            },
+            {
+                  "name": "Opsinjoorke",
+                  "text": "The family-friendly location Opsinjoorke is situated in Mechelen, providing recreational options for young and old alike. This Belgian playground offers plenty of room for childhood discoveries.",
+                  "category": "family",
+                  "coords": [
+                        4.47836,
+                        51.029362
+                  ]
+            },
+            {
+                  "name": "Speelplein O.L.V. over de Dijlekerk",
+                  "text": "Located in the heart of Mechelen, Speelplein O.L.V. over de Dijlekerk is a welcoming family destination. This local playground provides ample space where children can play and burn off energy. It is an excellent spot for families to enjoy some outdoor relaxation in the city.",
+                  "category": "family",
+                  "coords": [
+                        4.479059,
+                        51.022777
+                  ]
+            },
+            {
+                  "name": "Tivoli",
+                  "text": "Tivoli serves as a family-friendly recreation area in Mechelen. Visitors will find a spacious playground that encourages children to actively explore and play. It stands out as a great outdoor stop for parents and kids alike during a city visit.",
+                  "category": "family",
+                  "coords": [
+                        4.473142,
+                        51.047734
+                  ]
+            },
+            {
+                  "name": "Speelplein Otterbeek",
+                  "text": "Situated in Mechelen, Speelplein Otterbeek is designed specifically with families in mind. The playground features generous space for youthful activities and games. Children can easily enjoy their time here while parents take a well-deserved break.",
+                  "category": "family",
+                  "coords": [
+                        4.47111,
+                        51.049505
+                  ]
+            },
+            {
+                  "name": "Joods Museum van Deportatie en Verzet",
+                  "text": "This museum in Mechelen is located in the former Dossin Barracks and serves as a place of remembrance. It documents the history of deportation during the Holocaust and advocates for human rights.",
+                  "category": "museum",
+                  "coords": [
+                        4.478202,
+                        51.034127
+                  ]
+            },
+            {
+                  "name": "Speelgoedmuseum",
+                  "text": "The Toy Museum in Mechelen houses one of the most extensive toy collections in Europe. Visitors of all ages can explore the history of play through various eras and interactive exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        4.482869,
+                        51.016161
+                  ]
+            },
+            {
+                  "name": "Technopolis",
+                  "text": "Technopolis is an interactive science center in Mechelen that introduces visitors to technology and natural sciences. Through numerous experiments and hands-on exhibits, learning becomes an exciting experience for families.",
+                  "category": "museum",
+                  "coords": [
+                        4.470079,
+                        51.001899
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-van-Leliëndaalkerk",
+                  "text": "The Church of Our Lady of Leliëndaal in Mechelen is an impressive example of sacred architecture. Today, the building is partly used for museum purposes and houses valuable religious artworks.",
+                  "category": "museum",
+                  "coords": [
+                        4.480903,
+                        51.025694
+                  ]
+            },
+            {
+                  "name": "Museum Hof van Busleyden",
+                  "text": "Museum Hof van Busleyden is housed in a magnificent Renaissance palace in Mechelen. It showcases the city's illustrious history during the Burgundian period through high-quality exhibits.",
+                  "category": "castle",
+                  "coords": [
+                        4.48242,
+                        51.031123
+                  ]
+            },
+            {
+                  "name": "Befferhof",
+                  "text": "Befferhof Castle is a historic estate located in the vicinity of Mechelen. Its elegant architecture and surrounding parkland reflect the noble past of this location.",
+                  "category": "castle",
+                  "coords": [
+                        4.517472,
+                        51.028953
+                  ]
+            },
+            {
+                  "name": "Brusselpoort",
+                  "text": "The Brusselpoort is the last remaining city gate of the medieval fortifications of Mechelen. This imposing structure now serves as a prominent landmark and a reminder of the city's defensive history.",
+                  "category": "fortress",
+                  "coords": [
+                        4.473761,
+                        51.021928
+                  ]
+            },
+            {
+                  "name": "'t Arsenaal",
+                  "text": "'t Arsenaal is a renowned theatre in Mechelen, housed in a historic building. It offers a diverse program of contemporary performances and enriches the city's cultural life.",
+                  "category": "cultural",
+                  "coords": [
+                        4.484751,
+                        51.022401
+                  ]
+            },
+            {
+                  "name": "Sint-Jozef-Colomakerk",
+                  "text": "St. Joseph Coloma Church is a prominent religious building in the Coloma district of Mechelen. The church serves as a spiritual center for the community and is noted for its neo-Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        4.482823,
+                        51.012745
+                  ]
+            },
+            {
+                  "name": "Sint-Janskerk",
+                  "text": "St. John's Church in Mechelen houses significant works of art, including a famous altarpiece by Peter Paul Rubens. The church is a must-visit for art lovers and those interested in Baroque sacred paintings.",
+                  "category": "religious",
+                  "coords": [
+                        4.480923,
+                        51.030464
+                  ]
+            },
+            {
+                  "name": "Begijnhofkerk Sint-Alexius en Catharina",
+                  "text": "This church is part of the Large Beguinage of Mechelen, a UNESCO World Heritage site. The building features a beautiful Baroque facade and is set within a peaceful historic district.",
+                  "category": "religious",
+                  "coords": [
+                        4.474343,
+                        51.03183
+                  ]
+            },
+            {
+                  "name": "Wat Dhammapateep",
+                  "text": "Wat Dhammapateep is a Thai Buddhist temple in Mechelen that serves as a religious center for the local community. Visitors can experience traditional Buddhist architecture and an atmosphere of serenity here.",
+                  "category": "religious",
+                  "coords": [
+                        4.463631,
+                        51.048915
+                  ]
+            },
+            {
+                  "name": "Winketbrug",
+                  "text": "Winketbrug is one of the historic bridges in Mechelen crossing the river Dijle. It connects key parts of the city and offers pedestrians a lovely view of the local waterways.",
+                  "category": "landmark",
+                  "coords": [
+                        4.471487,
+                        51.030222
+                  ]
+            },
+            {
+                  "name": "Minderbroedersbrug",
+                  "text": "Minderbroedersbrug is a notable bridge in Mechelen, named after the nearby former Franciscan monastery. It is an important crossing over the river and fits harmoniously into the historic cityscape.",
+                  "category": "landmark",
+                  "coords": [
+                        4.47613,
+                        51.029054
+                  ]
+            },
+            {
+                  "name": "Koepoortbrug",
+                  "text": "Koepoortbrug is a stone bridge in Mechelen that commemorates the former location of the Koepoort city gate. It is an integral part of the city's infrastructure and offers a picturesque view of the surrounding riverbanks.",
+                  "category": "landmark",
+                  "coords": [
+                        4.483602,
+                        51.033394
+                  ]
+            },
+            {
+                  "name": "Fonteinbrug",
+                  "text": "Fonteinbrug crosses the water in Mechelen and is part of the city's historic core. The bridge is a popular photo spot for tourists exploring the canals of Mechelen.",
+                  "category": "landmark",
+                  "coords": [
+                        4.482064,
+                        51.023075
+                  ]
+            },
+            {
+                  "name": "Grootbrug",
+                  "text": "Grootbrug, also known as Hoogbrug, is the oldest surviving stone arch bridge in Mechelen. It spans the river Dijle and is a significant monument of medieval engineering in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        4.477554,
+                        51.025792
+                  ]
+            },
+            {
+                  "name": "Colomabrug",
+                  "text": "Colomabrug is a functional bridge in Mechelen that provides access to the popular Coloma Park. It is an important junction for pedestrians and cyclists in this green district of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        4.482416,
+                        51.014826
+                  ]
+            },
+            {
+                  "name": "Battelbrug",
+                  "text": "Battelbrug is located in the Battel district of Mechelen and crosses the Leuven-Mechelen canal. The bridge is a key point for local traffic and offers views of the shipping activities on the canal.",
+                  "category": "landmark",
+                  "coords": [
+                        4.444612,
+                        51.039572
+                  ]
+            },
+            {
+                  "name": "Vrijbroekpark",
+                  "text": "Vrijbroekpark is an extensive green space on the outskirts of Mechelen. With its magnificent rose gardens and numerous walking paths, it is an ideal destination for recreation and nature lovers.",
+                  "category": "park",
+                  "coords": [
+                        4.457153,
+                        51.020548
+                  ]
+            },
+            {
+                  "name": "Oud Oefenplein",
+                  "text": "Oud Oefenplein is a public green space in Mechelen used for leisure activities and relaxation. The park provides residents and visitors with a quiet place to spend time in the heart of the city.",
+                  "category": "park",
+                  "coords": [
+                        4.474444,
+                        51.042092
+                  ]
+            },
+            {
+                  "name": "Hof van Kamerijk",
+                  "text": "Hof van Kamerijk is a historic building complex in Mechelen that once served as a city residence. Its architecture reflects the prosperity and importance of the city in previous centuries.",
+                  "category": "castle",
+                  "coords": [
+                        4.485684,
+                        51.029133
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Mechelen", hu: "Mechelen", ro: "Mechelen", en: "Mechelen"},
@@ -9200,6 +11153,231 @@ export const belgiumCitiesV2: POI[] = [
                         4.060782,
                         50.941791
                   ]
+            },
+            {
+                  "name": "Kasteel Terlinden",
+                  "text": "Kasteel Terlinden ist ein imposantes Schloss in Aalst, das von einem malerischen Park umgeben ist. Es ist ein bedeutendes architektonisches Erbe der Region und ein schönes Ziel für Spaziergänger.",
+                  "category": "castle",
+                  "coords": [
+                        4.015062,
+                        50.942441
+                  ]
+            },
+            {
+                  "name": "Roodkapje",
+                  "text": "Das Roodkapje-Denkmal in Aalst ist eine charmante Statue, die an die bekannte Märchenfigur Rotkäppchen erinnert. Sie ist ein beliebter Fotopunkt und ein Symbol für die kulturelle Vielfalt der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        4.045121,
+                        50.931508
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "Die Sint-Martinuskerk ist ein bedeutendes religiöses Bauwerk in Aalst, bekannt für ihre beeindruckende gotische Architektur. Im Inneren beherbergt sie wertvolle Kunstwerke, darunter ein Gemälde von Peter Paul Rubens.",
+                  "category": "religious",
+                  "coords": [
+                        4.04103,
+                        50.937822
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Bijstandkerk",
+                  "text": "Die Onze-Lieve-Vrouw van Bijstandkerk in Aalst ist ein markantes Gotteshaus mit einer reichen Geschichte. Sie ist ein Ort der Stille und des Gebets und prägt mit ihrem Turm das Stadtbild.",
+                  "category": "religious",
+                  "coords": [
+                        4.053763,
+                        50.941581
+                  ]
+            },
+            {
+                  "name": "Kapel Sint-Antonius van Padua",
+                  "text": "Die Kapelle des heiligen Antonius von Padua ist eine kleine, friedliche Gebetsstätte in Aalst. Sie wird von vielen Einheimischen für kurze Momente der Besinnung und des Gedenkens genutzt.",
+                  "category": "religious",
+                  "coords": [
+                        4.044066,
+                        50.936194
+                  ]
+            },
+            {
+                  "name": "Honegem",
+                  "text": "Honegem ist ein idyllisches Naturschutzgebiet bei Aalst, das durch seine vielfältige Flora und Fauna besticht. Wanderwege laden dazu ein, die ruhige Landschaft und die Feuchtwiesen zu erkunden.",
+                  "category": "natural",
+                  "coords": [
+                        4.004645,
+                        50.954701
+                  ]
+            },
+            {
+                  "name": "Kasteel van Regelsbrugge",
+                  "text": "Das Kasteel van Regelsbrugge ist ein historisches Schlossanwesen in Aalst. Das Gebäude ist von viel Grün umgeben und stellt ein wichtiges Zeugnis der herrschaftlichen Wohnkultur in der Region dar.",
+                  "category": "castle",
+                  "coords": [
+                        4.022652,
+                        50.930189
+                  ]
+            },
+            {
+                  "name": "Toneel Atelier Aalst",
+                  "text": "Das Toneel Atelier Aalst ist ein lokales Theater, das ein breites Spektrum an Aufführungen und Workshops bietet. Es ist ein wichtiger kultureller Treffpunkt für Theaterbegeisterte in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        4.029713,
+                        50.941101
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Hemelvaartkerk",
+                  "text": "Die Onze-Lieve-Vrouw Hemelvaartkerk ist eine beeindruckende Kirche in Aalst, die der Himmelfahrt Mariens geweiht ist. Sie dient der Gemeinde als religiöser Mittelpunkt und beeindruckt durch ihre sakrale Ausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        4.0042,
+                        50.923463
+                  ]
+            },
+            {
+                  "name": "Werfkapel Onze-Lieve-Vrouw Ter Druiven",
+                  "text": "Die Werfkapel Onze-Lieve-Vrouw Ter Druiven ist eine kleine, geschichtsträchtige Kapelle in Aalst. Sie ist ein ort der Andacht und erinnert an die lange religiöse Tradition der Stadtbewohner.",
+                  "category": "religious",
+                  "coords": [
+                        4.043223,
+                        50.9401
+                  ]
+            },
+            {
+                  "name": "Sint-Jozefkerk",
+                  "text": "Die Sint-Jozefkerk ist ein bedeutendes religiöses Bauwerk in Aalst. Besucher können die Architektur der Kirche und die ruhige Atmosphäre im Inneren bewundern.",
+                  "category": "religious",
+                  "coords": [
+                        4.035156,
+                        50.94116
+                  ]
+            },
+            {
+                  "name": "Sint-Catharinakerk",
+                  "text": "Die Sint-Catharinakerk ist eine historische Kirche in der Stadt Aalst. Sie dient als Ort der Besinnung und ist ein markanter Teil des lokalen Stadtbildes.",
+                  "category": "religious",
+                  "coords": [
+                        4.044973,
+                        50.935458
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "Die Heilig Hartkerk ist eine bekannte Gebetsstätte für die Anwohner von Aalst. Das Gebäude zeichnet sich durch seine sakrale Architektur und die zentrale Lage aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.042933,
+                        50.949437
+                  ]
+            },
+            {
+                  "name": "Stadspark",
+                  "text": "Der Stadspark von Aalst bietet eine weitläufige Grünfläche für Erholung und Spaziergänge im Freien. Er ist ein beliebter Treffpunkt für Naturfreunde inmitten der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        4.047274,
+                        50.929452
+                  ]
+            },
+            {
+                  "name": "Stedelijk Museum 't Gasthuys",
+                  "text": "Das Stedelijk Museum 't Gasthuys ist in einem ehemaligen Krankenhausgebäude in Aalst untergebracht. Es präsentiert Ausstellungen zur reichen Geschichte und zum Erbe der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        4.04248,
+                        50.938224
+                  ]
+            },
+            {
+                  "name": "Kasteel van Ronsevaal",
+                  "text": "Das Kasteel van Ronsevaal ist ein beeindruckendes Schloss in der Umgebung von Aalst. Das Bauwerk und seine umliegenden Gärten sind ein Beispiel für den lokalen Adelssitz.",
+                  "category": "castle",
+                  "coords": [
+                        4.067362,
+                        50.925542
+                  ]
+            },
+            {
+                  "name": "Kasteel De Rozerie",
+                  "text": "Kasteel De Rozerie ist ein elegantes Schloss in Aalst, das für seine Architektur bekannt ist. Die Anlage bietet einen Einblick in den historischen Lebensstil der Region.",
+                  "category": "castle",
+                  "coords": [
+                        4.059023,
+                        50.930005
+                  ]
+            },
+            {
+                  "name": "QuARTier A",
+                  "text": "QuARTier A ist eine Kunstgalerie in Aalst, die zeitgenössische Werke lokaler und internationaler Künstler zeigt. Kunstliebhaber können hier wechselnde Ausstellungen in einem modernen Ambiente besuchen.",
+                  "category": "museum",
+                  "coords": [
+                        4.045742,
+                        50.933554
+                  ]
+            },
+            {
+                  "name": "De ijskelder van Overhamme",
+                  "text": "De ijskelder van Overhamme ist eine historische Ruine in Aalst, die früher zur Eislagerung genutzt wurde. Dieses architektonische Überbleibsel erinnert an vergangene Methoden der Lebensmittelkonservierung.",
+                  "category": "historical",
+                  "coords": [
+                        4.058252,
+                        50.928419
+                  ]
+            },
+            {
+                  "name": "Het Neuzeken",
+                  "text": "Het Neuzeken ist ein Denkmal in Aalst, das an ein lokales Ereignis oder eine Persönlichkeit erinnert. Es befindet sich an einem öffentlich zugänglichen Platz in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        4.04055,
+                        50.949605
+                  ]
+            },
+            {
+                  "name": "Prieel directeursvilla Schotte",
+                  "text": "Der Prieel directeursvilla Schotte ist ein geschütztes Denkmal in Aalst. Der Pavillon gehört zum historischen Komplex einer ehemaligen Industrieanlage.",
+                  "category": "historical",
+                  "coords": [
+                        4.051947,
+                        50.927983
+                  ]
+            },
+            {
+                  "name": "Hotel van Langenhove",
+                  "text": "Das Hotel van Langenhove ist ein herrschaftliches Anwesen in Aalst mit einer markanten Fassade. Das Herrenhaus repräsentiert die bürgerliche Architektur der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        4.039789,
+                        50.93951
+                  ]
+            },
+            {
+                  "name": "De Bathyscaaf (VZW Theater Pact)",
+                  "text": "De Bathyscaaf ist ein kleines Theater in Aalst, das vom VZW Theater Pact betrieben wird. Es bietet einen intimen Rahmen für lokale Bühnenaufführungen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.029153,
+                        50.942593
+                  ]
+            },
+            {
+                  "name": "'t Katrientje",
+                  "text": "'t Katrientje ist eine lokale Theaterstätte in Aalst, die verschiedenen Aufführungen Raum bietet. Es ist ein wichtiger Ort für die Förderung der darstellenden Künste in der Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        4.026124,
+                        50.941064
+                  ]
+            },
+            {
+                  "name": "Oliemolen",
+                  "text": "Die Oliemolen ist eine historische Windmühle in Aalst, die Zeugnis von der traditionellen Industrie ablegt. Besucher können das Bauwerk besichtigen, um mehr über die Mahltechnik vergangener Zeiten zu erfahren.",
+                  "category": "landmark",
+                  "coords": [
+                        4.019575,
+                        50.936977
+                  ]
             }
       ],
       "hu": [
@@ -9264,6 +11442,231 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.060782,
                         50.941791
+                  ]
+            },
+            {
+                  "name": "Kasteel Terlinden",
+                  "text": "A Terlinden-kastély egy impozáns kastély Aalstban, amelyet festői park vesz körül. A régió jelentős építészeti öröksége és kedvelt úti cél a sétálók körében.",
+                  "category": "castle",
+                  "coords": [
+                        4.015062,
+                        50.942441
+                  ]
+            },
+            {
+                  "name": "Roodkapje",
+                  "text": "Az aalsti Piroska-emlékmű egy bájos szobor, amely a közismert mesefigurára emlékeztet. Kedvelt fotópont és a város kulturális sokszínűségének szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        4.045121,
+                        50.931508
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "A Szent Márton-templom Aalst jelentős vallási épülete, amely lenyűgöző gótikus építészetéről ismert. Belsejében értékes műalkotások találhatók, köztük Peter Paul Rubens egyik festménye.",
+                  "category": "religious",
+                  "coords": [
+                        4.04103,
+                        50.937822
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Bijstandkerk",
+                  "text": "Az aalsti Segítő Szűz Mária-templom egy gazdag történelemmel rendelkező, jellegzetes istenháza. A csend és az imádság helyszíne, amely tornyával meghatározza a városképet.",
+                  "category": "religious",
+                  "coords": [
+                        4.053763,
+                        50.941581
+                  ]
+            },
+            {
+                  "name": "Kapel Sint-Antonius van Padua",
+                  "text": "A Páduai Szent Antal-kápolna egy kicsi, békés imádságos hely Aalstban. Sok helyi lakos keresi fel a csendes elmélyülés és az emlékezés pillanataira.",
+                  "category": "religious",
+                  "coords": [
+                        4.044066,
+                        50.936194
+                  ]
+            },
+            {
+                  "name": "Honegem",
+                  "text": "Honegem egy idilli természetvédelmi terület Aalst közelében, amely változatos növény- és állatvilágával hódít. Túraútvonalak hívogatnak a nyugodt táj és a nedves rétek felfedezésére.",
+                  "category": "natural",
+                  "coords": [
+                        4.004645,
+                        50.954701
+                  ]
+            },
+            {
+                  "name": "Kasteel van Regelsbrugge",
+                  "text": "A Regelsbrugge-kastély egy történelmi kastélybirtok Aalstban. Az épületet sok zöld övezi, és a régió nemesi lakáskultúrájának fontos emléke.",
+                  "category": "castle",
+                  "coords": [
+                        4.022652,
+                        50.930189
+                  ]
+            },
+            {
+                  "name": "Toneel Atelier Aalst",
+                  "text": "A Toneel Atelier Aalst egy helyi színház, amely előadások és workshopok széles választékát kínálja. A város színházkedvelői számára fontos kulturális találkozóhely.",
+                  "category": "cultural",
+                  "coords": [
+                        4.029713,
+                        50.941101
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Hemelvaartkerk",
+                  "text": "A Mária Mennybemenetele-templom Aalst egyik impozáns temploma, amelyet Szűz Mária mennybevételének tiszteletére szenteltek. Vallási központként szolgál a közösség számára, és lenyűgöző szakrális berendezéssel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        4.0042,
+                        50.923463
+                  ]
+            },
+            {
+                  "name": "Werfkapel Onze-Lieve-Vrouw Ter Druiven",
+                  "text": "A Werfkapel Onze-Lieve-Vrouw Ter Druiven egy kicsi, történelmi jelentőségű kápolna Aalstban. Az áhítat helyszíne, amely a városlakók hosszú vallási hagyományaira emlékeztet.",
+                  "category": "religious",
+                  "coords": [
+                        4.043223,
+                        50.9401
+                  ]
+            },
+            {
+                  "name": "Sint-Jozefkerk",
+                  "text": "A Sint-Jozefkerk Aalst egyik jelentős vallási építménye. A látogatók megcsodálhatják a templom építészetét és a belső tér nyugodt hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        4.035156,
+                        50.94116
+                  ]
+            },
+            {
+                  "name": "Sint-Catharinakerk",
+                  "text": "A Sint-Catharinakerk egy történelmi templom Aalst városában. Az elmélkedés helyszíneként szolgál, és a helyi városkép jellegzetes része.",
+                  "category": "religious",
+                  "coords": [
+                        4.044973,
+                        50.935458
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "A Heilig Hartkerk Aalst lakosainak jól ismert imádkozóhelye. Az épületet szakrális építészete és központi elhelyezkedése jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        4.042933,
+                        50.949437
+                  ]
+            },
+            {
+                  "name": "Stadspark",
+                  "text": "Az aalsti Stadspark kiterjedt zöldfelületet kínál a kikapcsolódáshoz és a szabadtéri sétákhoz. A természetkedvelők kedvelt találkozóhelye a város közepén.",
+                  "category": "park",
+                  "coords": [
+                        4.047274,
+                        50.929452
+                  ]
+            },
+            {
+                  "name": "Stedelijk Museum 't Gasthuys",
+                  "text": "A Stedelijk Museum 't Gasthuys egy egykori kórházépületben kapott helyet Aalstban. Kiállításokat mutat be a város gazdag történelméről és örökségéről.",
+                  "category": "museum",
+                  "coords": [
+                        4.04248,
+                        50.938224
+                  ]
+            },
+            {
+                  "name": "Kasteel van Ronsevaal",
+                  "text": "A Kasteel van Ronsevaal egy lenyűgöző kastély Aalst környékén. Az építmény és a környező kertek a helyi nemesi székhelyek példái.",
+                  "category": "castle",
+                  "coords": [
+                        4.067362,
+                        50.925542
+                  ]
+            },
+            {
+                  "name": "Kasteel De Rozerie",
+                  "text": "A Kasteel De Rozerie egy elegáns kastély Aalstban, amely építészetéről ismert. Az épületegyüttes betekintést nyújt a régió történelmi életmódjába.",
+                  "category": "castle",
+                  "coords": [
+                        4.059023,
+                        50.930005
+                  ]
+            },
+            {
+                  "name": "QuARTier A",
+                  "text": "A QuARTier A egy művészeti galéria Aalstban, amely helyi és nemzetközi művészek kortárs alkotásait mutatja be. A művészetkedvelők váltakozó kiállításokat látogathatnak itt modern környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        4.045742,
+                        50.933554
+                  ]
+            },
+            {
+                  "name": "De ijskelder van Overhamme",
+                  "text": "De ijskelder van Overhamme egy történelmi rom Aalstban, amelyet korábban jégtárolásra használtak. Ez az építészeti maradvány a múltbéli élelmiszer-tartósítási módszerekre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        4.058252,
+                        50.928419
+                  ]
+            },
+            {
+                  "name": "Het Neuzeken",
+                  "text": "A Het Neuzeken egy emlékmű Aalstban, amely egy helyi eseményre vagy személyiségre emlékeztet. A város egyik nyilvánosan hozzáférhető terén található.",
+                  "category": "historical",
+                  "coords": [
+                        4.04055,
+                        50.949605
+                  ]
+            },
+            {
+                  "name": "Prieel directeursvilla Schotte",
+                  "text": "A Prieel directeursvilla Schotte egy védett emlékmű Aalstban. A pavilon egy korábbi ipari létesítmény történelmi együtteséhez tartozik.",
+                  "category": "historical",
+                  "coords": [
+                        4.051947,
+                        50.927983
+                  ]
+            },
+            {
+                  "name": "Hotel van Langenhove",
+                  "text": "A Hotel van Langenhove egy tekintélyes udvarház Aalstban, jellegzetes homlokzattal. Az épület a város polgári építészetét képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        4.039789,
+                        50.93951
+                  ]
+            },
+            {
+                  "name": "De Bathyscaaf (VZW Theater Pact)",
+                  "text": "A De Bathyscaaf egy kis színház Aalstban, amelyet a VZW Theater Pact üzemeltet. Meghitt környezetet biztosít a helyi színpadi előadások és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        4.029153,
+                        50.942593
+                  ]
+            },
+            {
+                  "name": "'t Katrientje",
+                  "text": "Az 't Katrientje egy helyi színházi helyszín Aalstban, amely különféle előadásoknak ad otthont. Fontos helyszín az előadó-művészet népszerűsítésére a közösségben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.026124,
+                        50.941064
+                  ]
+            },
+            {
+                  "name": "Oliemolen",
+                  "text": "Az Oliemolen egy történelmi szélmalom Aalstban, amely a hagyományos iparról tanúskodik. A látogatók megtekinthetik az építményt, hogy többet tudjanak meg a múltbéli őrlési technikákról.",
+                  "category": "landmark",
+                  "coords": [
+                        4.019575,
+                        50.936977
                   ]
             }
       ],
@@ -9330,6 +11733,231 @@ export const belgiumCitiesV2: POI[] = [
                         4.060782,
                         50.941791
                   ]
+            },
+            {
+                  "name": "Kasteel Terlinden",
+                  "text": "Castelul Terlinden este un castel impunător din Aalst, înconjurat de un parc pitoresc. Este o moștenire arhitecturală importantă a regiunii și o destinație frumoasă pentru plimbări.",
+                  "category": "castle",
+                  "coords": [
+                        4.015062,
+                        50.942441
+                  ]
+            },
+            {
+                  "name": "Roodkapje",
+                  "text": "Monumentul Scufița Roșie din Aalst este o statuie fermecătoare care amintește de personajul de basm bine-cunoscut. Este un punct de fotografiere popular și un simbol al diversității culturale a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        4.045121,
+                        50.931508
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "Biserica Sfântul Martin este un edificiu religios important din Aalst, cunoscut pentru arhitectura sa gotică impresionantă. În interior găzduiește opere de artă valoroase, inclusiv o pictură de Peter Paul Rubens.",
+                  "category": "religious",
+                  "coords": [
+                        4.04103,
+                        50.937822
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Bijstandkerk",
+                  "text": "Biserica Maica Domnului de Ajutor din Aalst este un lăcaș de cult distinctiv cu o istorie bogată. Este un loc de liniște și rugăciune, iar turnul său marchează peisajul urban.",
+                  "category": "religious",
+                  "coords": [
+                        4.053763,
+                        50.941581
+                  ]
+            },
+            {
+                  "name": "Kapel Sint-Antonius van Padua",
+                  "text": "Capela Sfântului Anton de Padova este un mic și liniștit loc de rugăciune din Aalst. Este folosită de mulți localnici pentru scurte momente de reflecție și comemorare.",
+                  "category": "religious",
+                  "coords": [
+                        4.044066,
+                        50.936194
+                  ]
+            },
+            {
+                  "name": "Honegem",
+                  "text": "Honegem este o rezervație naturală idilică de lângă Aalst, care impresionează prin flora și fauna sa diversă. Traseele de drumeție invită la explorarea peisajului liniștit și a pajiștilor umede.",
+                  "category": "natural",
+                  "coords": [
+                        4.004645,
+                        50.954701
+                  ]
+            },
+            {
+                  "name": "Kasteel van Regelsbrugge",
+                  "text": "Castelul din Regelsbrugge este o proprietate istorică din Aalst. Clădirea este înconjurată de multă verdeață și reprezintă o mărturie importantă a culturii locuirii nobiliare din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        4.022652,
+                        50.930189
+                  ]
+            },
+            {
+                  "name": "Toneel Atelier Aalst",
+                  "text": "Toneel Atelier Aalst este un teatru local care oferă o gamă largă de spectacole și ateliere. Este un punct de întâlnire cultural important pentru pasionații de teatru din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        4.029713,
+                        50.941101
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Hemelvaartkerk",
+                  "text": "Biserica Adormirea Maicii Domnului este o biserică impresionantă din Aalst, dedicată înălțării la cer a Fecioarei Maria. Servește drept centru religios pentru comunitate și impresionează prin decorul său sacru.",
+                  "category": "religious",
+                  "coords": [
+                        4.0042,
+                        50.923463
+                  ]
+            },
+            {
+                  "name": "Werfkapel Onze-Lieve-Vrouw Ter Druiven",
+                  "text": "Werfkapel Onze-Lieve-Vrouw Ter Druiven este o mică capelă plină de istorie din Aalst. Este un loc de rugăciune și amintește de lunga tradiție religioasă a locuitorilor orașului.",
+                  "category": "religious",
+                  "coords": [
+                        4.043223,
+                        50.9401
+                  ]
+            },
+            {
+                  "name": "Sint-Jozefkerk",
+                  "text": "Sint-Jozefkerk este o structură religioasă importantă din Aalst. Vizitatorii pot admira arhitectura bisericii și atmosfera liniștită din interior.",
+                  "category": "religious",
+                  "coords": [
+                        4.035156,
+                        50.94116
+                  ]
+            },
+            {
+                  "name": "Sint-Catharinakerk",
+                  "text": "Sint-Catharinakerk este o biserică istorică din orașul Aalst. Servește ca loc de reflecție și este o parte distinctivă a peisajului urban local.",
+                  "category": "religious",
+                  "coords": [
+                        4.044973,
+                        50.935458
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "Heilig Hartkerk este un lăcaș de rugăciune cunoscut pentru locuitorii din Aalst. Clădirea se caracterizează prin arhitectura sa sacră și locația centrală.",
+                  "category": "religious",
+                  "coords": [
+                        4.042933,
+                        50.949437
+                  ]
+            },
+            {
+                  "name": "Stadspark",
+                  "text": "Stadspark din Aalst oferă un spațiu verde vast pentru recreere și plimbări în aer liber. Este un loc de întâlnire popular pentru iubitorii de natură în mijlocul orașului.",
+                  "category": "park",
+                  "coords": [
+                        4.047274,
+                        50.929452
+                  ]
+            },
+            {
+                  "name": "Stedelijk Museum 't Gasthuys",
+                  "text": "Stedelijk Museum 't Gasthuys este găzduit într-o fostă clădire de spital din Aalst. Acesta prezintă expoziții despre istoria bogată și moștenirea orașului.",
+                  "category": "museum",
+                  "coords": [
+                        4.04248,
+                        50.938224
+                  ]
+            },
+            {
+                  "name": "Kasteel van Ronsevaal",
+                  "text": "Kasteel van Ronsevaal este un castel impresionant din împrejurimile orașului Aalst. Structura și grădinile sale înconjurătoare sunt un exemplu de reședință nobiliară locală.",
+                  "category": "castle",
+                  "coords": [
+                        4.067362,
+                        50.925542
+                  ]
+            },
+            {
+                  "name": "Kasteel De Rozerie",
+                  "text": "Kasteel De Rozerie este un castel elegant din Aalst, cunoscut pentru arhitectura sa. Complexul oferă o privire asupra stilului de viață istoric al regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        4.059023,
+                        50.930005
+                  ]
+            },
+            {
+                  "name": "QuARTier A",
+                  "text": "QuARTier A este o galerie de artă din Aalst care prezintă lucrări contemporane ale artiștilor locali și internaționali. Iubitorii de artă pot vizita aici expoziții temporare într-un cadru modern.",
+                  "category": "museum",
+                  "coords": [
+                        4.045742,
+                        50.933554
+                  ]
+            },
+            {
+                  "name": "De ijskelder van Overhamme",
+                  "text": "De ijskelder van Overhamme este o ruină istorică din Aalst, folosită anterior pentru depozitarea gheții. Această rămășiță arhitecturală amintește de metodele trecute de conservare a alimentelor.",
+                  "category": "historical",
+                  "coords": [
+                        4.058252,
+                        50.928419
+                  ]
+            },
+            {
+                  "name": "Het Neuzeken",
+                  "text": "Het Neuzeken este un monument din Aalst care comemorează un eveniment sau o personalitate locală. Acesta se află într-o piață publică accesibilă din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        4.04055,
+                        50.949605
+                  ]
+            },
+            {
+                  "name": "Prieel directeursvilla Schotte",
+                  "text": "Prieel directeursvilla Schotte este un monument protejat din Aalst. Pavilionul aparține complexului istoric al unei foste unități industriale.",
+                  "category": "historical",
+                  "coords": [
+                        4.051947,
+                        50.927983
+                  ]
+            },
+            {
+                  "name": "Hotel van Langenhove",
+                  "text": "Hotel van Langenhove este o proprietate impunătoare din Aalst, cu o fațadă distinctivă. Conacul reprezintă arhitectura burgheză a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        4.039789,
+                        50.93951
+                  ]
+            },
+            {
+                  "name": "De Bathyscaaf (VZW Theater Pact)",
+                  "text": "De Bathyscaaf este un teatru mic din Aalst, operat de VZW Theater Pact. Oferă un cadru intim pentru spectacole locale și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        4.029153,
+                        50.942593
+                  ]
+            },
+            {
+                  "name": "'t Katrientje",
+                  "text": "'t Katrientje este un spațiu teatral local din Aalst, care găzduiește diverse spectacole. Este un loc important pentru promovarea artelor spectacolului în comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        4.026124,
+                        50.941064
+                  ]
+            },
+            {
+                  "name": "Oliemolen",
+                  "text": "Oliemolen este o moară de vânt istorică din Aalst, care depune mărturie despre industria tradițională. Vizitatorii pot vedea structura pentru a afla mai multe despre tehnicile de măcinare din trecut.",
+                  "category": "landmark",
+                  "coords": [
+                        4.019575,
+                        50.936977
+                  ]
             }
       ],
       "en": [
@@ -9394,6 +12022,231 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.060782,
                         50.941791
+                  ]
+            },
+            {
+                  "name": "Kasteel Terlinden",
+                  "text": "Terlinden Castle is an impressive castle in Aalst surrounded by a picturesque park. It is a significant architectural heritage of the region and a beautiful destination for strollers.",
+                  "category": "castle",
+                  "coords": [
+                        4.015062,
+                        50.942441
+                  ]
+            },
+            {
+                  "name": "Roodkapje",
+                  "text": "The Little Red Riding Hood monument in Aalst is a charming statue commemorating the well-known fairy tale character. It is a popular photo spot and a symbol of the city's cultural diversity.",
+                  "category": "historical",
+                  "coords": [
+                        4.045121,
+                        50.931508
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "The Saint Martin's Church is a significant religious building in Aalst, known for its impressive Gothic architecture. Inside, it houses valuable artworks, including a painting by Peter Paul Rubens.",
+                  "category": "religious",
+                  "coords": [
+                        4.04103,
+                        50.937822
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Bijstandkerk",
+                  "text": "The Church of Our Lady of Assistance in Aalst is a prominent place of worship with a rich history. It is a place of quiet and prayer, and its tower defines the city's skyline.",
+                  "category": "religious",
+                  "coords": [
+                        4.053763,
+                        50.941581
+                  ]
+            },
+            {
+                  "name": "Kapel Sint-Antonius van Padua",
+                  "text": "The Chapel of Saint Anthony of Padua is a small, peaceful place of prayer in Aalst. It is used by many locals for short moments of reflection and remembrance.",
+                  "category": "religious",
+                  "coords": [
+                        4.044066,
+                        50.936194
+                  ]
+            },
+            {
+                  "name": "Honegem",
+                  "text": "Honegem is an idyllic nature reserve near Aalst, known for its diverse flora and fauna. Hiking trails invite visitors to explore the peaceful landscape and wet meadows.",
+                  "category": "natural",
+                  "coords": [
+                        4.004645,
+                        50.954701
+                  ]
+            },
+            {
+                  "name": "Kasteel van Regelsbrugge",
+                  "text": "The Regelsbrugge Castle is a historical estate in Aalst. The building is surrounded by greenery and represents an important testament to the aristocratic living culture in the region.",
+                  "category": "castle",
+                  "coords": [
+                        4.022652,
+                        50.930189
+                  ]
+            },
+            {
+                  "name": "Toneel Atelier Aalst",
+                  "text": "The Toneel Atelier Aalst is a local theatre offering a wide range of performances and workshops. It is an important cultural meeting point for theatre enthusiasts in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        4.029713,
+                        50.941101
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Hemelvaartkerk",
+                  "text": "The Church of Our Lady of the Assumption is an impressive church in Aalst dedicated to the assumption of Mary. It serves as a religious centre for the community and impresses with its sacred furnishings.",
+                  "category": "religious",
+                  "coords": [
+                        4.0042,
+                        50.923463
+                  ]
+            },
+            {
+                  "name": "Werfkapel Onze-Lieve-Vrouw Ter Druiven",
+                  "text": "The Werfkapel Onze-Lieve-Vrouw Ter Druiven is a small chapel steeped in history in Aalst. It is a place of devotion and commemorates the long religious tradition of the city's inhabitants.",
+                  "category": "religious",
+                  "coords": [
+                        4.043223,
+                        50.9401
+                  ]
+            },
+            {
+                  "name": "Sint-Jozefkerk",
+                  "text": "Sint-Jozefkerk is a significant religious building located in Aalst. Visitors can admire the church's architecture and the peaceful atmosphere inside.",
+                  "category": "religious",
+                  "coords": [
+                        4.035156,
+                        50.94116
+                  ]
+            },
+            {
+                  "name": "Sint-Catharinakerk",
+                  "text": "Sint-Catharinakerk is a historic church in the city of Aalst. It serves as a place for reflection and is a prominent part of the local cityscape.",
+                  "category": "religious",
+                  "coords": [
+                        4.044973,
+                        50.935458
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "Heilig Hartkerk is a well-known place of worship for the residents of Aalst. The building is characterized by its sacred architecture and central location.",
+                  "category": "religious",
+                  "coords": [
+                        4.042933,
+                        50.949437
+                  ]
+            },
+            {
+                  "name": "Stadspark",
+                  "text": "The Stadspark of Aalst offers an extensive green space for recreation and outdoor walks. It is a popular meeting point for nature lovers in the middle of the city.",
+                  "category": "park",
+                  "coords": [
+                        4.047274,
+                        50.929452
+                  ]
+            },
+            {
+                  "name": "Stedelijk Museum 't Gasthuys",
+                  "text": "Stedelijk Museum 't Gasthuys is housed in a former hospital building in Aalst. It presents exhibitions on the city's rich history and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        4.04248,
+                        50.938224
+                  ]
+            },
+            {
+                  "name": "Kasteel van Ronsevaal",
+                  "text": "Kasteel van Ronsevaal is an impressive castle in the vicinity of Aalst. The structure and its surrounding gardens are an example of a local noble seat.",
+                  "category": "castle",
+                  "coords": [
+                        4.067362,
+                        50.925542
+                  ]
+            },
+            {
+                  "name": "Kasteel De Rozerie",
+                  "text": "Kasteel De Rozerie is an elegant castle in Aalst known for its architecture. The complex offers a glimpse into the historic lifestyle of the region.",
+                  "category": "castle",
+                  "coords": [
+                        4.059023,
+                        50.930005
+                  ]
+            },
+            {
+                  "name": "QuARTier A",
+                  "text": "QuARTier A is an art gallery in Aalst that showcases contemporary works by local and international artists. Art lovers can visit rotating exhibitions here in a modern setting.",
+                  "category": "museum",
+                  "coords": [
+                        4.045742,
+                        50.933554
+                  ]
+            },
+            {
+                  "name": "De ijskelder van Overhamme",
+                  "text": "De ijskelder van Overhamme is a historic ruin in Aalst that was formerly used for ice storage. This architectural remnant recalls past methods of food preservation.",
+                  "category": "historical",
+                  "coords": [
+                        4.058252,
+                        50.928419
+                  ]
+            },
+            {
+                  "name": "Het Neuzeken",
+                  "text": "Het Neuzeken is a monument in Aalst commemorating a local event or personality. It is located in a publicly accessible square within the city.",
+                  "category": "historical",
+                  "coords": [
+                        4.04055,
+                        50.949605
+                  ]
+            },
+            {
+                  "name": "Prieel directeursvilla Schotte",
+                  "text": "Prieel directeursvilla Schotte is a protected monument in Aalst. The pavilion belongs to the historical complex of a former industrial site.",
+                  "category": "historical",
+                  "coords": [
+                        4.051947,
+                        50.927983
+                  ]
+            },
+            {
+                  "name": "Hotel van Langenhove",
+                  "text": "Hotel van Langenhove is a stately manor in Aalst with a striking facade. The house represents the city's bourgeois architecture.",
+                  "category": "historical",
+                  "coords": [
+                        4.039789,
+                        50.93951
+                  ]
+            },
+            {
+                  "name": "De Bathyscaaf (VZW Theater Pact)",
+                  "text": "De Bathyscaaf is a small theatre in Aalst operated by VZW Theater Pact. It provides an intimate setting for local stage performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        4.029153,
+                        50.942593
+                  ]
+            },
+            {
+                  "name": "'t Katrientje",
+                  "text": "'t Katrientje is a local theatre venue in Aalst that hosts various performances. It is an important site for promoting performing arts within the community.",
+                  "category": "cultural",
+                  "coords": [
+                        4.026124,
+                        50.941064
+                  ]
+            },
+            {
+                  "name": "Oliemolen",
+                  "text": "Oliemolen is a historic windmill in Aalst that bears witness to traditional industry. Visitors can view the structure to learn more about the milling techniques of the past.",
+                  "category": "landmark",
+                  "coords": [
+                        4.019575,
+                        50.936977
                   ]
             }
       ]
@@ -20044,7 +22897,916 @@ export const belgiumCitiesV2: POI[] = [
       fr: ["Le site be-MINE préserve le plus grand complexe de patrimoine industriel de Flandre", "L'exploitation minière à Beringen a débuté en 1922 et s'est achevée en 1989", "TODI propose le premier centre de plongée intérieur d'Europe dans un ancien bassin de décantation", "Le site minier employait plus de 6 000 mineurs à son apogée dans les années 1950", "L'Avonturenberg (Montagne de l'aventure) a été aménagé sur un terril massif", "La cité-jardin de Beringen-Mijn présente des quartiers distinctifs et multiculturels", "Elle abrite une impressionnante cathédrale des mines, l'église Saint-Théodard"],
     }, image: "/poi-images/belgium-beringen-cities-v2.webp"},
   {
-    id: "belgium-dendermonde-cities-v2",
+    id: "belgium-dendermonde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "CC Belgica",
+                  "text": "Das CC Belgica ist das kulturelle Zentrum von Dendermonde und bietet ein breites Spektrum an Theater- und Musikaufführungen. Als wichtiger Treffpunkt für Kunstinteressierte bereichert es das gesellschaftliche Leben der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        4.09756,
+                        51.031936
+                  ]
+            },
+            {
+                  "name": "Kalleke Step",
+                  "text": "Kalleke Step ist eine charmante Spielstätte in Dendermonde, die sich der Kleinkunst und dem lokalen Theater widmet. Hier können Besucher authentische Aufführungen in einer persönlichen und gemütlichen Atmosphäre erleben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.106386,
+                        51.043553
+                  ]
+            },
+            {
+                  "name": "De Spieghel",
+                  "text": "De Spieghel ist ein bekanntes Theater in Dendermonde, das für seine vielseitigen kulturellen Veranstaltungen geschätzt wird. Es bietet eine Bühne für lokale Talente sowie professionelle Ensembles in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        4.105739,
+                        51.045493
+                  ]
+            },
+            {
+                  "name": "Fort Rozenbroek",
+                  "text": "Fort Rozenbroek ist eine historische Verteidigungsanlage in Dendermonde, die Teil der einstigen Verteidigungslinie war. Heute ist das Gelände ein interessanter Ort für geschichtsinteressierte Spaziergänger in der Umgebung.",
+                  "category": "fortress",
+                  "coords": [
+                        4.124159,
+                        51.011618
+                  ]
+            },
+            {
+                  "name": "Fort Ter Winningen",
+                  "text": "Fort Ter Winningen ist ein ehemaliges Fort in Dendermonde, das Zeugnis von der militärischen Vergangenheit der Region ablegt. Die Überreste der Anlage bieten Einblicke in die Festungsbaukunst vergangener Zeiten.",
+                  "category": "fortress",
+                  "coords": [
+                        4.137214,
+                        51.022455
+                  ]
+            },
+            {
+                  "name": "Belgica BIS",
+                  "text": "Belgica BIS ist ein moderner Veranstaltungsort in Dendermonde, der als Erweiterung für kulturelle Darbietungen genutzt wird. Es bietet Raum für experimentelles Theater und kleinere Aufführungen in einem zeitgemäßen Rahmen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.091589,
+                        51.031584
+                  ]
+            },
+            {
+                  "name": "Hof ter Geesten",
+                  "text": "Hof ter Geesten ist ein herrschaftliches Anwesen in Dendermonde, das durch seine klassische Architektur besticht. Das Gebäude ist von Grünflächen umgeben und stellt ein wertvolles architektonisches Erbe der Stadt dar.",
+                  "category": "castle",
+                  "coords": [
+                        4.106028,
+                        51.051099
+                  ]
+            },
+            {
+                  "name": "Zwijvekemuseum",
+                  "text": "Dieses Museum ist in den historischen Gebäuden der ehemaligen Abtei Zwijveke in Dendermonde untergebracht. Es widmet sich der lokalen Geschichte und bietet Einblicke in das einstige klösterliche Leben.",
+                  "category": "museum",
+                  "coords": [
+                        4.101512,
+                        51.028266
+                  ]
+            },
+            {
+                  "name": "De Maey",
+                  "text": "De Maey ist ein idyllisches Naturschutzgebiet in Dendermonde, das Lebensraum für zahlreiche Pflanzen- und Tierarten bietet. Es lädt Besucher zu erholsamen Spaziergängen in einer unberührten Wasserlandschaft ein.",
+                  "category": "natural",
+                  "coords": [
+                        4.075161,
+                        51.040597
+                  ]
+            },
+            {
+                  "name": "Kasteel Denderhof",
+                  "text": "Das Schloss Denderhof ist ein stattliches Bauwerk in Dendermonde, das inmitten einer gepflegten Parkanlage liegt. Seine Architektur zeugt vom historischen Reichtum der Region und prägt das lokale Landschaftsbild.",
+                  "category": "castle",
+                  "coords": [
+                        4.069434,
+                        51.026297
+                  ]
+            },
+            {
+                  "name": "Dender en Schelde",
+                  "text": "Das Monument \"Dender en Schelde\" in Dendermonde symbolisiert die Bedeutung der beiden Flüsse für die Stadtentwicklung. Es ist ein markanter Treffpunkt und erinnert an die wassergeprägte Geschichte des Ortes.",
+                  "category": "historical",
+                  "coords": [
+                        4.104282,
+                        51.032459
+                  ]
+            },
+            {
+                  "name": "Van Landeghem Gallery",
+                  "text": "Die Van Landeghem Gallery in Dendermonde ist ein Ort für zeitgenössische Kunst und wechselnde Ausstellungen. Sie bietet regionalen Künstlern eine Plattform und lädt Besucher zur Auseinandersetzung mit moderner Malerei ein.",
+                  "category": "museum",
+                  "coords": [
+                        4.100662,
+                        51.038543
+                  ]
+            },
+            {
+                  "name": "Sint-Egidiuskerk",
+                  "text": "Die Sint-Egidiuskerk ist ein zentrales religiöses Bauwerk in Dendermonde und ein Ort der Stille. Die Kirche ist für ihre sakrale Einrichtung bekannt und prägt das kirchliche Leben im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        4.110376,
+                        51.01892
+                  ]
+            },
+            {
+                  "name": "Sint-Margrietkerk",
+                  "text": "Die Sint-Margrietkerk ist eine bedeutende Kirche in Dendermonde, die der Heiligen Margareta gewidmet ist. Das Bauwerk ist ein wichtiger Teil des kulturellen Erbes der Stadt und lädt zur Besichtigung seiner Architektur ein.",
+                  "category": "religious",
+                  "coords": [
+                        4.106759,
+                        51.054149
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekerk",
+                  "text": "Die Liebfrauenkirche in Dendermonde ist ein prächtiges Beispiel gotischer Architektur und beherbergt wertvolle Kunstschätze. Sie ist eines der bedeutendsten historischen Bauwerke der Stadt und ein Ziel für Kulturtouristen.",
+                  "category": "religious",
+                  "coords": [
+                        4.094365,
+                        51.032185
+                  ]
+            },
+            {
+                  "name": "Sint-Lutgartkerk",
+                  "text": "Die Sint-Lutgartkerk ist eine beschauliche Kirche in Dendermonde, die der lokalen Gemeinde als Gebetsstätte dient. Ihre schlichte Gestaltung schafft eine friedliche Atmosphäre für Besucher und Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        4.124678,
+                        51.026598
+                  ]
+            },
+            {
+                  "name": "Sint-Jozef Arbeiderkerk",
+                  "text": "Die Kirche Sint-Jozef Arbeider ist ein modernes sakrales Gebäude in Dendermonde. Sie ist dem heiligen Josef dem Arbeiter geweiht und dient als spiritueller Treffpunkt in ihrem Stadtviertel.",
+                  "category": "religious",
+                  "coords": [
+                        4.115353,
+                        51.033127
+                  ]
+            },
+            {
+                  "name": "Sint-Gertrudiskerk",
+                  "text": "Die Sint-Gertrudiskerk ist eine historisch bedeutsame Kirche in Dendermonde, die durch ihre Architektur beeindruckt. Sie ist ein fester Bestandteil des religiösen Lebens und des städtischen Erbes in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        4.129812,
+                        51.048425
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Zwijvekekerk",
+                  "text": "Die Kirche Onze-Lieve-Vrouw van Zwijveke ist eng mit der Geschichte der ehemaligen Abtei in Dendermonde verbunden. Besucher finden hier einen ruhigen Ort für Gebet und Besinnung in einem historischen Kontext.",
+                  "category": "religious",
+                  "coords": [
+                        4.091713,
+                        51.020451
+                  ]
+            },
+            {
+                  "name": "Begijnhofkerk",
+                  "text": "Die Begijnhofkerk in Dendermonde ist Teil des malerischen Beginenhofs, der zum UNESCO-Welterbe zählt. Die Kirche besticht durch ihre authentische Atmosphäre und ihre kunstvolle Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        4.097721,
+                        51.027156
+                  ]
+            },
+            {
+                  "name": "Sint-Gillis-Binnenkerk",
+                  "text": "Die Sint-Gillis-Binnenkerk ist eine bedeutende Pfarrkirche im Herzen von Dendermonde. Das Bauwerk ist für seine Geschichte und seine architektonischen Details bekannt, die Besucher aus der Region anziehen.",
+                  "category": "religious",
+                  "coords": [
+                        4.100693,
+                        51.0273
+                  ]
+            },
+            {
+                  "name": "Dendermondebrug",
+                  "text": "Die Dendermondebrug ist eine wichtige Brücke, die den Fluss in der Stadt Dendermonde überquert. Sie ist eine zentrale Verkehrsverbindung und bietet Passanten einen weiten Blick über die Flusslandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        4.106358,
+                        51.035309
+                  ]
+            },
+            {
+                  "name": "Sint-Pieters en Paulusbasiliek",
+                  "text": "Die Basilika St. Peter und Paul ist ein beeindruckendes sakrales Bauwerk in Dendermonde, das zur Abtei gehört. Die prächtige Architektur und die spirituelle Bedeutung machen sie zu einem wichtigen Ziel für Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        4.099749,
+                        51.029542
+                  ]
+            },
+            {
+                  "name": "Vlassenbroekbrug",
+                  "text": "Die Vlassenbroekbrug verbindet wichtige Gebiete in der Nähe von Dendermonde und überquert den Fluss. Sie bietet eine praktische Verbindung für Radfahrer und Wanderer, die die umliegende Natur erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        4.123555,
+                        51.040955
+                  ]
+            },
+            {
+                  "name": "Vlasmarktbrug",
+                  "text": "Die Vlasmarktbrug ist eine historische Brücke im Zentrum von Dendermonde, die über einen der Kanäle führt. Sie ist ein beliebter Ort, um das Treiben in der Stadt und die Architektur der umliegenden Gebäude zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        4.098782,
+                        51.03013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CC Belgica",
+                  "text": "A CC Belgica Dendermonde kulturális központja, amely színházi és zenei előadások széles választékát kínálja. A művészetkedvelők fontos találkozóhelyeként gazdagítja a város társasági életét.",
+                  "category": "cultural",
+                  "coords": [
+                        4.09756,
+                        51.031936
+                  ]
+            },
+            {
+                  "name": "Kalleke Step",
+                  "text": "A Kalleke Step egy bájos előadóhely Dendermonde-ban, amely a kabarénak és a helyi színháznak szenteli magát. A látogatók itt autentikus előadásokat élvezhetnek személyes és meghitt hangulatban.",
+                  "category": "cultural",
+                  "coords": [
+                        4.106386,
+                        51.043553
+                  ]
+            },
+            {
+                  "name": "De Spieghel",
+                  "text": "A De Spieghel egy jól ismert színház Dendermonde-ban, amelyet sokoldalú kulturális rendezvényei miatt kedvelnek. Színpadot biztosít a helyi tehetségeknek és a régió professzionális társulatainak egyaránt.",
+                  "category": "cultural",
+                  "coords": [
+                        4.105739,
+                        51.045493
+                  ]
+            },
+            {
+                  "name": "Fort Rozenbroek",
+                  "text": "A Fort Rozenbroek egy történelmi védmű Dendermonde-ban, amely az egykori védvonal része volt. Ma a terület érdekes helyszín a környéken sétáló történelemkedvelők számára.",
+                  "category": "fortress",
+                  "coords": [
+                        4.124159,
+                        51.011618
+                  ]
+            },
+            {
+                  "name": "Fort Ter Winningen",
+                  "text": "A Fort Ter Winningen egy egykori erőd Dendermonde-ban, amely a régió katonai múltjáról tanúskodik. Az erődítmény maradványai betekintést nyújtanak a múlt erődépítészeti megoldásaiba.",
+                  "category": "fortress",
+                  "coords": [
+                        4.137214,
+                        51.022455
+                  ]
+            },
+            {
+                  "name": "Belgica BIS",
+                  "text": "A Belgica BIS egy modern rendezvényhelyszín Dendermonde-ban, amelyet kulturális előadások bővítéseként használnak. Teret biztosít a kísérleti színháznak és kisebb előadásoknak kortárs keretek között.",
+                  "category": "cultural",
+                  "coords": [
+                        4.091589,
+                        51.031584
+                  ]
+            },
+            {
+                  "name": "Hof ter Geesten",
+                  "text": "A Hof ter Geesten egy úri birtok Dendermonde-ban, amely klasszikus építészetével nyűgözi le a látogatókat. Az épületet zöldterületek veszik körül, és a város értékes építészeti örökségét képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        4.106028,
+                        51.051099
+                  ]
+            },
+            {
+                  "name": "Zwijvekemuseum",
+                  "text": "Ez a múzeum az egykori Zwijveke-apátság történelmi épületeiben található Dendermonde-ban. A helyi történelemnek szentelt kiállítás betekintést nyújt az egykori kolostori életbe.",
+                  "category": "museum",
+                  "coords": [
+                        4.101512,
+                        51.028266
+                  ]
+            },
+            {
+                  "name": "De Maey",
+                  "text": "A De Maey egy idilli természetvédelmi terület Dendermonde-ban, amely számos növény- és állatfajnak ad otthont. Pihentető sétákra hívja a látogatókat az érintetlen vízi tájban.",
+                  "category": "natural",
+                  "coords": [
+                        4.075161,
+                        51.040597
+                  ]
+            },
+            {
+                  "name": "Kasteel Denderhof",
+                  "text": "A Denderhof kastély egy impozáns építmény Dendermonde-ban, amely egy gondozott park közepén fekszik. Építészete a régió történelmi gazdagságáról tanúskodik, és meghatározza a helyi tájképet.",
+                  "category": "castle",
+                  "coords": [
+                        4.069434,
+                        51.026297
+                  ]
+            },
+            {
+                  "name": "Dender en Schelde",
+                  "text": "A dendermondei \"Dender és Schelde\" emlékmű a két folyó városfejlődésben betöltött jelentőségét szimbolizálja. Jellegzetes találkozóhely, amely a település vízzel szorosan összefüggő múltjára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        4.104282,
+                        51.032459
+                  ]
+            },
+            {
+                  "name": "Van Landeghem Gallery",
+                  "text": "A dendermondei Van Landeghem Galéria a kortárs művészet és az időszaki kiállítások helyszíne. Platformot kínál a régió művészeinek, és várja a látogatókat a modern festészet felfedezésére.",
+                  "category": "museum",
+                  "coords": [
+                        4.100662,
+                        51.038543
+                  ]
+            },
+            {
+                  "name": "Sint-Egidiuskerk",
+                  "text": "A Szent Egyed-templom Dendermonde egyik központi vallási épülete és a csend szigete. A templom szakrális berendezéséről ismert, és meghatározza a városközpont hitéletét.",
+                  "category": "religious",
+                  "coords": [
+                        4.110376,
+                        51.01892
+                  ]
+            },
+            {
+                  "name": "Sint-Margrietkerk",
+                  "text": "A Szent Margit-templom Dendermonde egyik jelentős temploma, amelyet Szent Margitnak szenteltek. Az épület a város kulturális örökségének fontos része, és várja az építészet iránt érdeklődő látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        4.106759,
+                        51.054149
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekerk",
+                  "text": "A dendermondei Miasszonyunk-templom a gótikus építészet pompás példája, amely értékes műkincseknek ad otthont. A város egyik legjelentősebb történelmi épülete és a kulturális turizmus kedvelt célpontja.",
+                  "category": "religious",
+                  "coords": [
+                        4.094365,
+                        51.032185
+                  ]
+            },
+            {
+                  "name": "Sint-Lutgartkerk",
+                  "text": "A Szent Lutgart-templom egy békés templom Dendermonde-ban, amely a helyi közösség imahelyeként szolgál. Egyszerű kialakítása nyugodt légkört teremt a látogatók és a hívők számára.",
+                  "category": "religious",
+                  "coords": [
+                        4.124678,
+                        51.026598
+                  ]
+            },
+            {
+                  "name": "Sint-Jozef Arbeiderkerk",
+                  "text": "A Munkás Szent József-templom egy modern szakrális épület Dendermonde-ban. A templomot Munkás Szent Józsefnek szentelték, és spirituális találkozóhelyként szolgál a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        4.115353,
+                        51.033127
+                  ]
+            },
+            {
+                  "name": "Sint-Gertrudiskerk",
+                  "text": "A Szent Gertrúd-templom egy történelmi jelentőségű templom Dendermonde-ban, amely építészetével nyűgözi le a látogatókat. A régió vallási életének és városi örökségének szerves része.",
+                  "category": "religious",
+                  "coords": [
+                        4.129812,
+                        51.048425
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Zwijvekekerk",
+                  "text": "A Zwijvekei Miasszonyunk-templom szorosan kapcsolódik a dendermondei egykori apátság történetéhez. A látogatók itt nyugodt helyet találnak az imádsághoz és az elmélkedéshez történelmi környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        4.091713,
+                        51.020451
+                  ]
+            },
+            {
+                  "name": "Begijnhofkerk",
+                  "text": "A dendermondei Beginaház-templom a festői, UNESCO világörökségi listán szereplő beginaház része. A templom autentikus hangulatával és művészi belső berendezésével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        4.097721,
+                        51.027156
+                  ]
+            },
+            {
+                  "name": "Sint-Gillis-Binnenkerk",
+                  "text": "A Szent Egyed-templom egy jelentős plébániatemplom Dendermonde szívében. Az épület történelméről és építészeti részleteiről ismert, amelyek vonzzák a környék látogatóit.",
+                  "category": "religious",
+                  "coords": [
+                        4.100693,
+                        51.0273
+                  ]
+            },
+            {
+                  "name": "Dendermondebrug",
+                  "text": "A Dendermondebrug egy fontos híd, amely a folyót íveli át Dendermonde városában. Központi közlekedési kapcsolatként szolgál, és tágas kilátást nyújt a gyalogosoknak a folyóparti tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        4.106358,
+                        51.035309
+                  ]
+            },
+            {
+                  "name": "Sint-Pieters en Paulusbasiliek",
+                  "text": "A Szent Péter és Pál-bazilika egy lenyűgöző szakrális építmény Dendermonde-ban, amely az apátsághoz tartozik. Pompás építészete és spirituális jelentősége a látogatók fontos célpontjává teszi.",
+                  "category": "religious",
+                  "coords": [
+                        4.099749,
+                        51.029542
+                  ]
+            },
+            {
+                  "name": "Vlassenbroekbrug",
+                  "text": "A Vlassenbroekbrug fontos területeket köt össze Dendermonde közelében, átívelve a folyót. Praktikus kapcsolatot biztosít a kerékpárosok és túrázók számára, akik a környező természetet fedezik fel.",
+                  "category": "landmark",
+                  "coords": [
+                        4.123555,
+                        51.040955
+                  ]
+            },
+            {
+                  "name": "Vlasmarktbrug",
+                  "text": "A Vlasmarktbrug egy történelmi híd Dendermonde központjában, amely az egyik csatorna felett halad át. Népszerű hely a városi forgatag és a környező épületek építészetének megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        4.098782,
+                        51.03013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CC Belgica",
+                  "text": "CC Belgica este centrul cultural din Dendermonde, oferind o gamă largă de spectacole de teatru și muzică. Ca punct important de întâlnire pentru iubitorii de artă, acesta îmbogățește viața socială a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        4.09756,
+                        51.031936
+                  ]
+            },
+            {
+                  "name": "Kalleke Step",
+                  "text": "Kalleke Step este un spațiu de spectacole fermecător din Dendermonde, dedicat artelor spectacolului și teatrului local. Vizitatorii pot experimenta aici reprezentații autentice într-o atmosferă personală și primitoare.",
+                  "category": "cultural",
+                  "coords": [
+                        4.106386,
+                        51.043553
+                  ]
+            },
+            {
+                  "name": "De Spieghel",
+                  "text": "De Spieghel este un teatru cunoscut din Dendermonde, apreciat pentru evenimentele sale culturale versatile. Acesta oferă o scenă pentru talentele locale, precum și pentru ansamblurile profesionale din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        4.105739,
+                        51.045493
+                  ]
+            },
+            {
+                  "name": "Fort Rozenbroek",
+                  "text": "Fort Rozenbroek este o fortificație istorică din Dendermonde, care a făcut parte din fosta linie de apărare. Astăzi, zona este un loc interesant pentru plimbări și pentru cei pasionați de istoria locală.",
+                  "category": "fortress",
+                  "coords": [
+                        4.124159,
+                        51.011618
+                  ]
+            },
+            {
+                  "name": "Fort Ter Winningen",
+                  "text": "Fort Ter Winningen este un fost fort din Dendermonde, care depune mărturie despre trecutul militar al regiunii. Rămășițele structurii oferă perspective asupra arhitecturii fortificațiilor din vremurile trecute.",
+                  "category": "fortress",
+                  "coords": [
+                        4.137214,
+                        51.022455
+                  ]
+            },
+            {
+                  "name": "Belgica BIS",
+                  "text": "Belgica BIS este un loc de evenimente modern din Dendermonde, utilizat ca spațiu suplimentar pentru spectacole culturale. Acesta oferă spațiu pentru teatru experimental și reprezentații mai mici într-un cadru contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        4.091589,
+                        51.031584
+                  ]
+            },
+            {
+                  "name": "Hof ter Geesten",
+                  "text": "Hof ter Geesten este o proprietate nobiliară din Dendermonde, care impresionează prin arhitectura sa clasică. Clădirea este înconjurată de spații verzi și reprezintă o moștenire arhitecturală valoroasă a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        4.106028,
+                        51.051099
+                  ]
+            },
+            {
+                  "name": "Zwijvekemuseum",
+                  "text": "Acest muzeu este găzduit în clădirile istorice ale fostei abații Zwijveke din Dendermonde. Acesta este dedicat istoriei locale și oferă perspective asupra fostei vieți monastice.",
+                  "category": "museum",
+                  "coords": [
+                        4.101512,
+                        51.028266
+                  ]
+            },
+            {
+                  "name": "De Maey",
+                  "text": "De Maey este o rezervație naturală idilică din Dendermonde, care oferă habitat pentru numeroase specii de plante și animale. Aceasta invită vizitatorii la plimbări relaxante într-un peisaj acvatic nealterat.",
+                  "category": "natural",
+                  "coords": [
+                        4.075161,
+                        51.040597
+                  ]
+            },
+            {
+                  "name": "Kasteel Denderhof",
+                  "text": "Castelul Denderhof este o structură impunătoare din Dendermonde, situată în mijlocul unui parc bine întreținut. Arhitectura sa atestă bogăția istorică a regiunii și marchează peisajul local.",
+                  "category": "castle",
+                  "coords": [
+                        4.069434,
+                        51.026297
+                  ]
+            },
+            {
+                  "name": "Dender en Schelde",
+                  "text": "Monumentul „Dender și Schelde” din Dendermonde simbolizează importanța celor două râuri pentru dezvoltarea orașului. Este un punct de întâlnire distinctiv și amintește de istoria localității legată de apă.",
+                  "category": "historical",
+                  "coords": [
+                        4.104282,
+                        51.032459
+                  ]
+            },
+            {
+                  "name": "Van Landeghem Gallery",
+                  "text": "Galeria Van Landeghem din Dendermonde este un spațiu dedicat artei contemporane și expozițiilor temporare. Aceasta oferă o platformă artiștilor regionali și invită vizitatorii să descopere pictura modernă.",
+                  "category": "museum",
+                  "coords": [
+                        4.100662,
+                        51.038543
+                  ]
+            },
+            {
+                  "name": "Sint-Egidiuskerk",
+                  "text": "Biserica Sfântul Egidiu este un edificiu religios central din Dendermonde și un loc de liniște. Biserica este cunoscută pentru interiorul său sacru și marchează viața religioasă din centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        4.110376,
+                        51.01892
+                  ]
+            },
+            {
+                  "name": "Sint-Margrietkerk",
+                  "text": "Biserica Sfânta Margareta este o biserică importantă din Dendermonde, dedicată Sfintei Margareta. Edificiul reprezintă o parte semnificativă a patrimoniului cultural al orașului și invită vizitatorii să îi admire arhitectura.",
+                  "category": "religious",
+                  "coords": [
+                        4.106759,
+                        51.054149
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekerk",
+                  "text": "Biserica Maicii Domnului din Dendermonde este un exemplu magnific de arhitectură gotică și adăpostește comori de artă valoroase. Este unul dintre cele mai importante edificii istorice ale orașului și o destinație pentru turismul cultural.",
+                  "category": "religious",
+                  "coords": [
+                        4.094365,
+                        51.032185
+                  ]
+            },
+            {
+                  "name": "Sint-Lutgartkerk",
+                  "text": "Biserica Sfânta Lutgarda este un lăcaș de cult liniștit din Dendermonde, care servește comunitatea locală ca loc de rugăciune. Designul său simplu creează o atmosferă pașnică pentru vizitatori și credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        4.124678,
+                        51.026598
+                  ]
+            },
+            {
+                  "name": "Sint-Jozef Arbeiderkerk",
+                  "text": "Biserica Sfântul Iosif Muncitorul este un edificiu sacru modern din Dendermonde. Aceasta este dedicată Sfântului Iosif Muncitorul și servește drept punct de întâlnire spiritual în cartierul său.",
+                  "category": "religious",
+                  "coords": [
+                        4.115353,
+                        51.033127
+                  ]
+            },
+            {
+                  "name": "Sint-Gertrudiskerk",
+                  "text": "Biserica Sfânta Gertruda este o biserică cu semnificație istorică din Dendermonde, care impresionează prin arhitectura sa. Aceasta este o parte integrantă a vieții religioase și a moștenirii urbane din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        4.129812,
+                        51.048425
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Zwijvekekerk",
+                  "text": "Biserica Maicii Domnului din Zwijveke este strâns legată de istoria fostei abații din Dendermonde. Vizitatorii pot găsi aici un loc liniștit pentru rugăciune și reflecție într-un context istoric.",
+                  "category": "religious",
+                  "coords": [
+                        4.091713,
+                        51.020451
+                  ]
+            },
+            {
+                  "name": "Begijnhofkerk",
+                  "text": "Biserica Beginajului din Dendermonde face parte din pitorescul beginaj, inclus în patrimoniul mondial UNESCO. Biserica impresionează prin atmosfera sa autentică și interiorul decorat artistic.",
+                  "category": "religious",
+                  "coords": [
+                        4.097721,
+                        51.027156
+                  ]
+            },
+            {
+                  "name": "Sint-Gillis-Binnenkerk",
+                  "text": "Biserica Sfântul Egidiu este o biserică parohială importantă situată în inima orașului Dendermonde. Edificiul este cunoscut pentru istoria sa și detaliile arhitecturale care atrag vizitatori din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        4.100693,
+                        51.0273
+                  ]
+            },
+            {
+                  "name": "Dendermondebrug",
+                  "text": "Dendermondebrug este un pod important care traversează râul în orașul Dendermonde. Reprezintă o legătură centrală de trafic și oferă trecătorilor o vedere panoramică asupra peisajului fluvial.",
+                  "category": "landmark",
+                  "coords": [
+                        4.106358,
+                        51.035309
+                  ]
+            },
+            {
+                  "name": "Sint-Pieters en Paulusbasiliek",
+                  "text": "Bazilica Sfântul Petru și Pavel este un edificiu sacru impresionant din Dendermonde, care aparține abației. Arhitectura grandioasă și semnificația spirituală o fac o destinație importantă pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        4.099749,
+                        51.029542
+                  ]
+            },
+            {
+                  "name": "Vlassenbroekbrug",
+                  "text": "Vlassenbroekbrug conectează zone importante din apropierea orașului Dendermonde, traversând râul. Aceasta oferă o legătură practică pentru bicicliști și excursioniști care explorează natura din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.123555,
+                        51.040955
+                  ]
+            },
+            {
+                  "name": "Vlasmarktbrug",
+                  "text": "Vlasmarktbrug este un pod istoric din centrul orașului Dendermonde, care traversează unul dintre canale. Este un loc popular pentru a observa agitația orașului și arhitectura clădirilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.098782,
+                        51.03013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CC Belgica",
+                  "text": "CC Belgica is the cultural center of Dendermonde, offering a wide range of theatre and music performances. As a key gathering place for art enthusiasts, it enriches the city's social life.",
+                  "category": "cultural",
+                  "coords": [
+                        4.09756,
+                        51.031936
+                  ]
+            },
+            {
+                  "name": "Kalleke Step",
+                  "text": "Kalleke Step is a charming performance venue in Dendermonde dedicated to cabaret and local theatre. Here, visitors can enjoy authentic performances in a personal and cozy atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        4.106386,
+                        51.043553
+                  ]
+            },
+            {
+                  "name": "De Spieghel",
+                  "text": "De Spieghel is a well-known theatre in Dendermonde, valued for its versatile cultural events. It provides a stage for local talents as well as professional ensembles in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        4.105739,
+                        51.045493
+                  ]
+            },
+            {
+                  "name": "Fort Rozenbroek",
+                  "text": "Fort Rozenbroek is a historic fortification in Dendermonde that was part of the former defense line. Today, the site is an interesting destination for history-minded walkers in the area.",
+                  "category": "fortress",
+                  "coords": [
+                        4.124159,
+                        51.011618
+                  ]
+            },
+            {
+                  "name": "Fort Ter Winningen",
+                  "text": "Fort Ter Winningen is a former fort in Dendermonde that bears witness to the region's military past. The remains of the site offer insights into the fortification architecture of earlier times.",
+                  "category": "fortress",
+                  "coords": [
+                        4.137214,
+                        51.022455
+                  ]
+            },
+            {
+                  "name": "Belgica BIS",
+                  "text": "Belgica BIS is a modern venue in Dendermonde used as an extension for cultural performances. It provides space for experimental theatre and smaller productions in a contemporary setting.",
+                  "category": "cultural",
+                  "coords": [
+                        4.091589,
+                        51.031584
+                  ]
+            },
+            {
+                  "name": "Hof ter Geesten",
+                  "text": "Hof ter Geesten is a stately estate in Dendermonde noted for its classic architecture. The building is surrounded by greenery and represents a valuable architectural heritage for the city.",
+                  "category": "castle",
+                  "coords": [
+                        4.106028,
+                        51.051099
+                  ]
+            },
+            {
+                  "name": "Zwijvekemuseum",
+                  "text": "This museum is housed in the historic buildings of the former Zwijveke Abbey in Dendermonde. It is dedicated to local history and offers insights into former monastic life.",
+                  "category": "museum",
+                  "coords": [
+                        4.101512,
+                        51.028266
+                  ]
+            },
+            {
+                  "name": "De Maey",
+                  "text": "De Maey is an idyllic nature reserve in Dendermonde that provides a habitat for numerous plant and animal species. It invites visitors to enjoy relaxing walks in an untouched aquatic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        4.075161,
+                        51.040597
+                  ]
+            },
+            {
+                  "name": "Kasteel Denderhof",
+                  "text": "Denderhof Castle is a stately building in Dendermonde situated within a well-maintained park. Its architecture reflects the historical wealth of the region and characterizes the local landscape.",
+                  "category": "castle",
+                  "coords": [
+                        4.069434,
+                        51.026297
+                  ]
+            },
+            {
+                  "name": "Dender en Schelde",
+                  "text": "The \"Dender and Schelde\" monument in Dendermonde symbolizes the importance of these two rivers for the city's development. It is a prominent meeting point and a reminder of the area's water-based history.",
+                  "category": "historical",
+                  "coords": [
+                        4.104282,
+                        51.032459
+                  ]
+            },
+            {
+                  "name": "Van Landeghem Gallery",
+                  "text": "The Van Landeghem Gallery in Dendermonde is a venue for contemporary art and rotating exhibitions. It provides a platform for regional artists and invites visitors to explore modern painting.",
+                  "category": "museum",
+                  "coords": [
+                        4.100662,
+                        51.038543
+                  ]
+            },
+            {
+                  "name": "Sint-Egidiuskerk",
+                  "text": "St. Giles Church is a central religious building in Dendermonde and a place of serenity. The church is known for its sacred furnishings and characterizes the religious life in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        4.110376,
+                        51.01892
+                  ]
+            },
+            {
+                  "name": "Sint-Margrietkerk",
+                  "text": "St. Margaret's Church is a significant church in Dendermonde dedicated to Saint Margaret. The building is an important part of the city's cultural heritage and welcomes visitors to view its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        4.106759,
+                        51.054149
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekerk",
+                  "text": "The Church of Our Lady in Dendermonde is a magnificent example of Gothic architecture and houses valuable art treasures. It is one of the city's most important historical buildings and a prime destination for cultural tourists.",
+                  "category": "religious",
+                  "coords": [
+                        4.094365,
+                        51.032185
+                  ]
+            },
+            {
+                  "name": "Sint-Lutgartkerk",
+                  "text": "St. Lutgart's Church is a tranquil church in Dendermonde that serves as a place of prayer for the local community. Its simple design creates a peaceful atmosphere for visitors and worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        4.124678,
+                        51.026598
+                  ]
+            },
+            {
+                  "name": "Sint-Jozef Arbeiderkerk",
+                  "text": "St. Joseph the Worker Church is a modern religious building in Dendermonde. It is dedicated to Saint Joseph the Worker and serves as a spiritual meeting point in its neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        4.115353,
+                        51.033127
+                  ]
+            },
+            {
+                  "name": "Sint-Gertrudiskerk",
+                  "text": "St. Gertrude's Church is a historically significant church in Dendermonde noted for its architecture. It is an integral part of the religious life and urban heritage of the region.",
+                  "category": "religious",
+                  "coords": [
+                        4.129812,
+                        51.048425
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Zwijvekekerk",
+                  "text": "The Church of Our Lady of Zwijveke is closely linked to the history of the former abbey in Dendermonde. Visitors will find a quiet place for prayer and reflection within a historic setting.",
+                  "category": "religious",
+                  "coords": [
+                        4.091713,
+                        51.020451
+                  ]
+            },
+            {
+                  "name": "Begijnhofkerk",
+                  "text": "The Beguinage Church in Dendermonde is part of the picturesque Beguinage, which is a UNESCO World Heritage site. The church is admired for its authentic atmosphere and artistic interior.",
+                  "category": "religious",
+                  "coords": [
+                        4.097721,
+                        51.027156
+                  ]
+            },
+            {
+                  "name": "Sint-Gillis-Binnenkerk",
+                  "text": "St. Giles Inner Church is a significant parish church located in the heart of Dendermonde. The building is known for its history and architectural details that attract visitors from the region.",
+                  "category": "religious",
+                  "coords": [
+                        4.100693,
+                        51.0273
+                  ]
+            },
+            {
+                  "name": "Dendermondebrug",
+                  "text": "Dendermondebrug is a major bridge crossing the river in the city of Dendermonde. It serves as a central traffic link and offers passersby a wide view of the river landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        4.106358,
+                        51.035309
+                  ]
+            },
+            {
+                  "name": "Sint-Pieters en Paulusbasiliek",
+                  "text": "The Basilica of St. Peter and Paul is an impressive religious building in Dendermonde belonging to the abbey. Its magnificent architecture and spiritual significance make it a key destination for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        4.099749,
+                        51.029542
+                  ]
+            },
+            {
+                  "name": "Vlassenbroekbrug",
+                  "text": "Vlassenbroekbrug connects important areas near Dendermonde, spanning across the river. It provides a convenient link for cyclists and hikers exploring the surrounding natural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        4.123555,
+                        51.040955
+                  ]
+            },
+            {
+                  "name": "Vlasmarktbrug",
+                  "text": "Vlasmarktbrug is a historic bridge in the center of Dendermonde that spans one of the canals. It is a popular spot to observe the city's activity and the architecture of the nearby buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        4.098782,
+                        51.03013
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Dendermonde", hu: "Dendermonde", ro: "Termonde", en: "Dendermonde"},
@@ -22268,6 +26030,204 @@ export const belgiumCitiesV2: POI[] = [
                         5.181013,
                         50.810713
                   ]
+            },
+            {
+                  "name": "Kasteel Menten de Horne",
+                  "text": "Kasteel Menten de Horne ist ein elegantes Schloss in Sint-Truiden mit einer klassischen Architektur. Es liegt inmitten einer gepflegten Gartenanlage und strahlt historische Pracht aus.",
+                  "category": "castle",
+                  "coords": [
+                        5.192913,
+                        50.835042
+                  ]
+            },
+            {
+                  "name": "Rochendaal kasteel",
+                  "text": "Rochendaal kasteel ist eine Schlossruine in Sint-Truiden, die für ihre neoklassizistischen Züge bekannt ist. Das Anwesen erzählt von der wechselvollen Geschichte der Region.",
+                  "category": "castle",
+                  "coords": [
+                        5.1738,
+                        50.799224
+                  ]
+            },
+            {
+                  "name": "Kasteel van Nonnenmielen",
+                  "text": "Kasteel van Nonnenmielen war ursprünglich Teil einer Abtei und liegt in Sint-Truiden. Die Anlage vereint klösterliche Geschichte mit herrschaftlicher Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        5.181542,
+                        50.839989
+                  ]
+            },
+            {
+                  "name": "Aen de Kerck",
+                  "text": "Aen de Kerck, auch als Schloss von Melveren bekannt, ist ein klassizistisches Gebäude in Sint-Truiden. Es liegt malerisch neben der örtlichen Kirche und prägt das Dorfbild.",
+                  "category": "castle",
+                  "coords": [
+                        5.197908,
+                        50.83126
+                  ]
+            },
+            {
+                  "name": "Kasteel Terbiest",
+                  "text": "Kasteel Terbiest ist ein Wasserschloss aus dem 17. Jahrhundert in Sint-Truiden. Es ist ein bedeutendes Denkmal, das heute für verschiedene Anlässe genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        5.207896,
+                        50.828259
+                  ]
+            },
+            {
+                  "name": "Sint-Eucheriuskapel",
+                  "text": "Die Sint-Eucheriuskapel ist eine historische Kapelle in Sint-Truiden, die dem heiligen Eucherius gewidmet ist. Sie gilt als spiritueller Ort mit einer langen Tradition.",
+                  "category": "historical",
+                  "coords": [
+                        5.220122,
+                        50.800043
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Bezoekingskerk",
+                  "text": "Die Onze-Lieve-Vrouw Bezoekingskerk in Wilderen bei Sint-Truiden ist eine charmante Dorfkirche. Sie ist ein zentraler Punkt für die Gemeinde und Besucher der Region.",
+                  "category": "religious",
+                  "coords": [
+                        5.14308,
+                        50.818784
+                  ]
+            },
+            {
+                  "name": "Heilig-Kruiskerk",
+                  "text": "Die Heilig-Kruiskerk in Guvelingen ist eine schlichte, aber geschichtsträchtige Kirche in Sint-Truiden. Sie beherbergt wertvolle sakrale Kunstwerke in ihrem Inneren.",
+                  "category": "religious",
+                  "coords": [
+                        5.186955,
+                        50.828891
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekerk",
+                  "text": "Die Onze-Lieve-Vrouwekerk ist die imposante Hauptkirche am Marktplatz von Sint-Truiden. Ihr Turm bietet einen weiten Blick über die Stadt und das Umland.",
+                  "category": "religious",
+                  "coords": [
+                        5.187049,
+                        50.81559
+                  ]
+            },
+            {
+                  "name": "Salvator Mundikerk",
+                  "text": "Die Salvator Mundikerk befindet sich im Ortsteil Melveren in Sint-Truiden. Die Kirche ist ein markantes Beispiel lokaler Backsteinarchitektur und religiöser Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        5.198919,
+                        50.831132
+                  ]
+            },
+            {
+                  "name": "Sint-Petrus en Pauluskerk",
+                  "text": "Die Sint-Petrus en Pauluskerk in Halmaal ist eine traditionelle Kirche im Raum Sint-Truiden. Sie ist bekannt für ihre ruhige Lage und ihre historische Bedeutung für das Dorf.",
+                  "category": "religious",
+                  "coords": [
+                        5.154192,
+                        50.803734
+                  ]
+            },
+            {
+                  "name": "Festraetsstudio",
+                  "text": "Die Festraetsstudio im Beginenhof von Sint-Truiden beherbergt eine berühmte astronomische Uhr. Besucher können hier faszinierende mechanische Wunderwerke bewundern.",
+                  "category": "museum",
+                  "coords": [
+                        5.193288,
+                        50.821665
+                  ]
+            },
+            {
+                  "name": "Sint-Laurentiuskerk",
+                  "text": "Die Sint-Laurentiuskerk ist ein bedeutendes katholisches Gotteshaus in Sint-Truiden. Die Kirche besticht durch ihre Architektur und ist ein Ort der Stille im Stadtgebiet.",
+                  "category": "religious",
+                  "coords": [
+                        5.219064,
+                        50.802259
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "Die Sint-Pieterskerk ist eine der historischen Kirchen von Sint-Truiden. Sie ist tief in der religiösen Geschichte der Stadt verwurzelt und lädt zur Besichtigung ein.",
+                  "category": "religious",
+                  "coords": [
+                        5.181973,
+                        50.808798
+                  ]
+            },
+            {
+                  "name": "Sint-Augustinuskerk",
+                  "text": "Die Sint-Augustinuskerk ist ein Sakralbau in Sint-Truiden, der dem heiligen Augustinus gewidmet ist. Sie dient der örtlichen Gemeinde als wichtiger Versammlungsort.",
+                  "category": "religious",
+                  "coords": [
+                        5.175204,
+                        50.821291
+                  ]
+            },
+            {
+                  "name": "Sint-Gangulfuskerk",
+                  "text": "Die Sint-Gangulfuskerk ist eine romanische Kirche im Zentrum von Sint-Truiden. Sie ist für ihre schlichte Schönheit und ihr hohes Alter bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.183601,
+                        50.818593
+                  ]
+            },
+            {
+                  "name": "Sint-Maartenkerk",
+                  "text": "Die Sint-Maartenkerk in Sint-Truiden ist eine Kirche mit langer Tradition. Das Bauwerk ist ein fester Bestandteil des religiösen und kulturellen Erbes der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        5.182313,
+                        50.815731
+                  ]
+            },
+            {
+                  "name": "Sint-Lambertuskerk",
+                  "text": "Die Sint-Lambertuskerk ist ein charakteristisches Kirchengebäude in Sint-Truiden. Sie ist ein wichtiger spiritueller Ankerpunkt für die Bewohner der Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        5.176433,
+                        50.798206
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-Tenhemelopnemingskerk",
+                  "text": "Diese Kirche ist der Himmelfahrt Mariens geweiht und befindet sich in Sint-Truiden. Sie beeindruckt durch ihre sakrale Ausstattung und die friedvolle Atmosphäre.",
+                  "category": "religious",
+                  "coords": [
+                        5.164547,
+                        50.83289
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "Die Sint-Jacobskerk ist ein historisches Denkmal in Sint-Truiden, das dem heiligen Jakobus gewidmet ist. Die Kirche spiegelt die reiche religiöse Architektur der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        5.193458,
+                        50.819097
+                  ]
+            },
+            {
+                  "name": "Hornemolen",
+                  "text": "Die Hornemolen ist eine historische Wassermühle in Sint-Truiden. Sie ist ein Zeugnis der vorindustriellen Technik und liegt idyllisch an einem Wasserlauf.",
+                  "category": "landmark",
+                  "coords": [
+                        5.190092,
+                        50.831545
+                  ]
+            },
+            {
+                  "name": "Grevensmolen",
+                  "text": "Die Grevensmolen ist eine gut erhaltene Wassermühle in Sint-Truiden. Das historische Gebäude ist ein interessantes Beispiel für die traditionelle Nutzung von Wasserkraft.",
+                  "category": "landmark",
+                  "coords": [
+                        5.168127,
+                        50.825437
+                  ]
             }
       ],
       "hu": [
@@ -22323,6 +26283,204 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.181013,
                         50.810713
+                  ]
+            },
+            {
+                  "name": "Kasteel Menten de Horne",
+                  "text": "A Kasteel Menten de Horne egy elegáns, klasszikus építészetű kastély Sint-Truidenben. Gondozott kert veszi körül, és történelmi pompát áraszt.",
+                  "category": "castle",
+                  "coords": [
+                        5.192913,
+                        50.835042
+                  ]
+            },
+            {
+                  "name": "Rochendaal kasteel",
+                  "text": "A Rochendaal kasteel egy kastélyrom Sint-Truidenben, amely neoklasszicista vonásairól ismert. A birtok a régió változatos történelméről mesél.",
+                  "category": "castle",
+                  "coords": [
+                        5.1738,
+                        50.799224
+                  ]
+            },
+            {
+                  "name": "Kasteel van Nonnenmielen",
+                  "text": "A Kasteel van Nonnenmielen eredetileg egy apátság része volt Sint-Truidenben. Az együttes a kolostori múltat ötvözi az előkelő építészettel.",
+                  "category": "castle",
+                  "coords": [
+                        5.181542,
+                        50.839989
+                  ]
+            },
+            {
+                  "name": "Aen de Kerck",
+                  "text": "Az Aen de Kerck, más néven Melveren kastélya, egy klasszicista épület Sint-Truidenben. Festői környezetben, a helyi templom mellett található.",
+                  "category": "castle",
+                  "coords": [
+                        5.197908,
+                        50.83126
+                  ]
+            },
+            {
+                  "name": "Kasteel Terbiest",
+                  "text": "A Kasteel Terbiest egy 17. századi vízikastély Sint-Truidenben. Jelentős műemlék, amelyet ma különféle rendezvényekre használnak.",
+                  "category": "castle",
+                  "coords": [
+                        5.207896,
+                        50.828259
+                  ]
+            },
+            {
+                  "name": "Sint-Eucheriuskapel",
+                  "text": "A Sint-Eucheriuskapel egy történelmi kápolna Sint-Truidenben, amelyet Szent Eucheriusnak szenteltek. Hosszú hagyományokkal rendelkező, spirituális helyként tartják számon.",
+                  "category": "historical",
+                  "coords": [
+                        5.220122,
+                        50.800043
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Bezoekingskerk",
+                  "text": "A Wilderenben (Sint-Truiden mellett) található Szűz Mária Látogatása templom egy bájos falusi templom. A helyi közösség és a látogatók számára is központi helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        5.14308,
+                        50.818784
+                  ]
+            },
+            {
+                  "name": "Heilig-Kruiskerk",
+                  "text": "A guvelingeni Heilig-Kruiskerk egy egyszerű, de történelmi jelentőségű templom Sint-Truidenben. Belsejében értékes szakrális műalkotások találhatók.",
+                  "category": "religious",
+                  "coords": [
+                        5.186955,
+                        50.828891
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekerk",
+                  "text": "Az Onze-Lieve-Vrouwekerk Sint-Truiden főterének impozáns főtemploma. Tornyából pazar kilátás nyílik a városra és a környékre.",
+                  "category": "religious",
+                  "coords": [
+                        5.187049,
+                        50.81559
+                  ]
+            },
+            {
+                  "name": "Salvator Mundikerk",
+                  "text": "A Salvator Mundikerk Melveren városrészben található, Sint-Truidenben. A templom a helyi téglaépítészet és a vallási hagyományok jellegzetes példája.",
+                  "category": "religious",
+                  "coords": [
+                        5.198919,
+                        50.831132
+                  ]
+            },
+            {
+                  "name": "Sint-Petrus en Pauluskerk",
+                  "text": "A halmaali Szent Péter és Pál templom egy hagyományos épület Sint-Truiden környékén. Nyugodt fekvéséről és a falu életében betöltött történelmi szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        5.154192,
+                        50.803734
+                  ]
+            },
+            {
+                  "name": "Festraetsstudio",
+                  "text": "A sint-truideni Beginenhofban található Festraetsstudio egy híres csillagászati órának ad otthont. A látogatók lenyűgöző mechanikus remekműveket csodálhatnak meg itt.",
+                  "category": "museum",
+                  "coords": [
+                        5.193288,
+                        50.821665
+                  ]
+            },
+            {
+                  "name": "Sint-Laurentiuskerk",
+                  "text": "A Szent Lőrinc-templom Sint-Truiden egyik jelentős katolikus istenháza. Az épület lenyűgöző építészetével tűnik ki, és a nyugalom szigete a városban.",
+                  "category": "religious",
+                  "coords": [
+                        5.219064,
+                        50.802259
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "A Szent Péter-templom Sint-Truiden egyik történelmi temploma. Mélyen gyökerezik a város vallástörténetében, és várja a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        5.181973,
+                        50.808798
+                  ]
+            },
+            {
+                  "name": "Sint-Augustinuskerk",
+                  "text": "A Szent Ágoston-templom egy Sint-Truidenben található szakrális épület. A helyi közösség számára fontos gyülekezőhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        5.175204,
+                        50.821291
+                  ]
+            },
+            {
+                  "name": "Sint-Gangulfuskerk",
+                  "text": "A Szent Gangulfus-templom egy román stílusú templom Sint-Truiden központjában. Egyszerű szépségéről és jelentős koráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        5.183601,
+                        50.818593
+                  ]
+            },
+            {
+                  "name": "Sint-Maartenkerk",
+                  "text": "A sint-truideni Szent Márton-templom hosszú hagyományokkal rendelkező hitéleti helyszín. Az épület a város vallási és kulturális örökségének szerves része.",
+                  "category": "religious",
+                  "coords": [
+                        5.182313,
+                        50.815731
+                  ]
+            },
+            {
+                  "name": "Sint-Lambertuskerk",
+                  "text": "A Szent Lambert-templom egy jellegzetes épület Sint-Truidenben. A környéken lakók számára fontos spirituális tartópillér.",
+                  "category": "religious",
+                  "coords": [
+                        5.176433,
+                        50.798206
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-Tenhemelopnemingskerk",
+                  "text": "Ezt a templomot Szűz Mária mennybevételének szentelték Sint-Truidenben. Szakrális berendezése és békés légköre lenyűgözi a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        5.164547,
+                        50.83289
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "A Szent Jakab-templom egy Szent Jakabnak szentelt történelmi műemlék Sint-Truidenben. Az épület hűen tükrözi a régió gazdag vallási építészetét.",
+                  "category": "religious",
+                  "coords": [
+                        5.193458,
+                        50.819097
+                  ]
+            },
+            {
+                  "name": "Hornemolen",
+                  "text": "A Hornemolen egy történelmi vízimalom Sint-Truidenben. Az iparosodás előtti technika tanúbizonysága, amely idilli környezetben, egy patak mentén fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        5.190092,
+                        50.831545
+                  ]
+            },
+            {
+                  "name": "Grevensmolen",
+                  "text": "A Grevensmolen egy jó állapotban fennmaradt vízimalom Sint-Truidenben. A történelmi épület érdekes példája a vízi energia hagyományos hasznosításának.",
+                  "category": "landmark",
+                  "coords": [
+                        5.168127,
+                        50.825437
                   ]
             }
       ],
@@ -22380,6 +26538,204 @@ export const belgiumCitiesV2: POI[] = [
                         5.181013,
                         50.810713
                   ]
+            },
+            {
+                  "name": "Kasteel Menten de Horne",
+                  "text": "Kasteel Menten de Horne este un castel elegant din Sint-Truiden, cu o arhitectură clasică. Este situat în mijlocul unei grădini îngrijite și emană o splendoare istorică.",
+                  "category": "castle",
+                  "coords": [
+                        5.192913,
+                        50.835042
+                  ]
+            },
+            {
+                  "name": "Rochendaal kasteel",
+                  "text": "Castelul Rochendaal este o ruină de castel din Sint-Truiden, cunoscută pentru trăsăturile sale neoclasice. Domeniul povestește despre istoria zbuciumată a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        5.1738,
+                        50.799224
+                  ]
+            },
+            {
+                  "name": "Kasteel van Nonnenmielen",
+                  "text": "Kasteel van Nonnenmielen a făcut inițial parte dintr-o abație și este situat în Sint-Truiden. Complexul îmbină istoria monahală cu arhitectura nobiliară.",
+                  "category": "castle",
+                  "coords": [
+                        5.181542,
+                        50.839989
+                  ]
+            },
+            {
+                  "name": "Aen de Kerck",
+                  "text": "Aen de Kerck, cunoscut și sub numele de Castelul din Melveren, este o clădire clasicistă din Sint-Truiden. Este situat pitoresc lângă biserica locală.",
+                  "category": "castle",
+                  "coords": [
+                        5.197908,
+                        50.83126
+                  ]
+            },
+            {
+                  "name": "Kasteel Terbiest",
+                  "text": "Kasteel Terbiest este un castel cu șanțuri cu apă din secolul al XVII-lea, situat în Sint-Truiden. Este un monument important, folosit astăzi pentru diverse evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        5.207896,
+                        50.828259
+                  ]
+            },
+            {
+                  "name": "Sint-Eucheriuskapel",
+                  "text": "Sint-Eucheriuskapel este o capelă istorică din Sint-Truiden, dedicată Sfântului Eucherius. Este considerată un loc spiritual cu o lungă tradiție.",
+                  "category": "historical",
+                  "coords": [
+                        5.220122,
+                        50.800043
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Bezoekingskerk",
+                  "text": "Biserica Vizita Sfintei Maria din Wilderen, lângă Sint-Truiden, este o biserică de sat fermecătoare. Este un punct central pentru comunitate și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        5.14308,
+                        50.818784
+                  ]
+            },
+            {
+                  "name": "Heilig-Kruiskerk",
+                  "text": "Heilig-Kruiskerk din Guvelingen este o biserică simplă, dar încărcată de istorie din Sint-Truiden. În interiorul său găzduiește opere de artă sacră valoroase.",
+                  "category": "religious",
+                  "coords": [
+                        5.186955,
+                        50.828891
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekerk",
+                  "text": "Onze-Lieve-Vrouwekerk este biserica principală impunătoare din piața centrală a orașului Sint-Truiden. Turnul său oferă o vedere largă asupra orașului și a împrejurimilor.",
+                  "category": "religious",
+                  "coords": [
+                        5.187049,
+                        50.81559
+                  ]
+            },
+            {
+                  "name": "Salvator Mundikerk",
+                  "text": "Salvator Mundikerk se află în cartierul Melveren din Sint-Truiden. Biserica este un exemplu marcant de arhitectură locală din cărămidă și tradiție religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        5.198919,
+                        50.831132
+                  ]
+            },
+            {
+                  "name": "Sint-Petrus en Pauluskerk",
+                  "text": "Biserica Sfinții Petru și Pavel din Halmaal este o biserică tradițională din zona Sint-Truiden. Este cunoscută pentru locația sa liniștită și importanța istorică pentru sat.",
+                  "category": "religious",
+                  "coords": [
+                        5.154192,
+                        50.803734
+                  ]
+            },
+            {
+                  "name": "Festraetsstudio",
+                  "text": "Festraetsstudio din cartierul Beguinage din Sint-Truiden găzduiește un faimos ceas astronomic. Vizitatorii pot admira aici mecanisme fascinante și ingenioase.",
+                  "category": "museum",
+                  "coords": [
+                        5.193288,
+                        50.821665
+                  ]
+            },
+            {
+                  "name": "Sint-Laurentiuskerk",
+                  "text": "Biserica Sfântul Laurențiu este un lăcaș de cult catolic important din Sint-Truiden. Biserica impresionează prin arhitectura sa și este un loc de liniște în zona urbană.",
+                  "category": "religious",
+                  "coords": [
+                        5.219064,
+                        50.802259
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "Biserica Sfântul Petru este una dintre bisericile istorice din Sint-Truiden. Este profund înrădăcinată în istoria religioasă a orașului și invită la vizitare.",
+                  "category": "religious",
+                  "coords": [
+                        5.181973,
+                        50.808798
+                  ]
+            },
+            {
+                  "name": "Sint-Augustinuskerk",
+                  "text": "Biserica Sfântul Augustin este un edificiu sacru din Sint-Truiden, dedicat Sfântului Augustin. Servește comunității locale ca punct important de întâlnire.",
+                  "category": "religious",
+                  "coords": [
+                        5.175204,
+                        50.821291
+                  ]
+            },
+            {
+                  "name": "Sint-Gangulfuskerk",
+                  "text": "Biserica Sfântul Gangulfus este o biserică romanică din centrul orașului Sint-Truiden. Este cunoscută pentru frumusețea sa simplă și vechimea sa considerabilă.",
+                  "category": "religious",
+                  "coords": [
+                        5.183601,
+                        50.818593
+                  ]
+            },
+            {
+                  "name": "Sint-Maartenkerk",
+                  "text": "Biserica Sfântul Martin din Sint-Truiden este o biserică cu o lungă tradiție. Edificiul este o parte integrantă a moștenirii religioase și culturale a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        5.182313,
+                        50.815731
+                  ]
+            },
+            {
+                  "name": "Sint-Lambertuskerk",
+                  "text": "Biserica Sfântul Lambert este un edificiu religios caracteristic din Sint-Truiden. Este un punct de ancorare spiritual important pentru locuitorii din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        5.176433,
+                        50.798206
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-Tenhemelopnemingskerk",
+                  "text": "Această biserică este dedicată Adormirii Maicii Domnului și se află în Sint-Truiden. Impresionează prin dotările sale sacre și atmosfera plină de pace.",
+                  "category": "religious",
+                  "coords": [
+                        5.164547,
+                        50.83289
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "Biserica Sfântul Iacob este un monument istoric din Sint-Truiden, dedicat Sfântului Iacob. Biserica reflectă arhitectura religioasă bogată a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        5.193458,
+                        50.819097
+                  ]
+            },
+            {
+                  "name": "Hornemolen",
+                  "text": "Hornemolen este o moară de apă istorică din Sint-Truiden. Este o dovadă a tehnicii preindustriale și este situată idilic pe cursul unei ape.",
+                  "category": "landmark",
+                  "coords": [
+                        5.190092,
+                        50.831545
+                  ]
+            },
+            {
+                  "name": "Grevensmolen",
+                  "text": "Grevensmolen este o moară de apă bine conservată din Sint-Truiden. Clădirea istorică este un exemplu interesant pentru utilizarea tradițională a energiei hidraulice.",
+                  "category": "landmark",
+                  "coords": [
+                        5.168127,
+                        50.825437
+                  ]
             }
       ],
       "en": [
@@ -22435,6 +26791,204 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.181013,
                         50.810713
+                  ]
+            },
+            {
+                  "name": "Kasteel Menten de Horne",
+                  "text": "Kasteel Menten de Horne is an elegant castle in Sint-Truiden with classical architecture. It is situated amidst manicured gardens and exudes historic grandeur.",
+                  "category": "castle",
+                  "coords": [
+                        5.192913,
+                        50.835042
+                  ]
+            },
+            {
+                  "name": "Rochendaal kasteel",
+                  "text": "Rochendaal castle is a castle ruin in Sint-Truiden, known for its neoclassical features. The estate tells the story of the region's diverse history.",
+                  "category": "castle",
+                  "coords": [
+                        5.1738,
+                        50.799224
+                  ]
+            },
+            {
+                  "name": "Kasteel van Nonnenmielen",
+                  "text": "Kasteel van Nonnenmielen was originally part of an abbey and is located in Sint-Truiden. The complex combines monastic history with stately architecture.",
+                  "category": "castle",
+                  "coords": [
+                        5.181542,
+                        50.839989
+                  ]
+            },
+            {
+                  "name": "Aen de Kerck",
+                  "text": "Aen de Kerck, also known as the Castle of Melveren, is a neoclassical building in Sint-Truiden. It is picturesquely located next to the local church.",
+                  "category": "castle",
+                  "coords": [
+                        5.197908,
+                        50.83126
+                  ]
+            },
+            {
+                  "name": "Kasteel Terbiest",
+                  "text": "Kasteel Terbiest is a 17th-century moated castle in Sint-Truiden. It is a significant monument, now used for various events.",
+                  "category": "castle",
+                  "coords": [
+                        5.207896,
+                        50.828259
+                  ]
+            },
+            {
+                  "name": "Sint-Eucheriuskapel",
+                  "text": "The Sint-Eucheriuskapel is a historic chapel in Sint-Truiden dedicated to Saint Eucherius. It is considered a spiritual site with a long tradition.",
+                  "category": "historical",
+                  "coords": [
+                        5.220122,
+                        50.800043
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Bezoekingskerk",
+                  "text": "The Onze-Lieve-Vrouw Bezoekingskerk in Wilderen near Sint-Truiden is a charming village church. It is a central point for the community and visitors to the region.",
+                  "category": "religious",
+                  "coords": [
+                        5.14308,
+                        50.818784
+                  ]
+            },
+            {
+                  "name": "Heilig-Kruiskerk",
+                  "text": "The Heilig-Kruiskerk in Guvelingen is a simple but historic church in Sint-Truiden. It houses valuable sacred artworks within its interior.",
+                  "category": "religious",
+                  "coords": [
+                        5.186955,
+                        50.828891
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekerk",
+                  "text": "The Onze-Lieve-Vrouwekerk is the imposing main church on the market square of Sint-Truiden. Its tower offers a wide view over the city and the surrounding area.",
+                  "category": "religious",
+                  "coords": [
+                        5.187049,
+                        50.81559
+                  ]
+            },
+            {
+                  "name": "Salvator Mundikerk",
+                  "text": "The Salvator Mundikerk is located in the Melveren district of Sint-Truiden. The church is a prominent example of local brick architecture and religious tradition.",
+                  "category": "religious",
+                  "coords": [
+                        5.198919,
+                        50.831132
+                  ]
+            },
+            {
+                  "name": "Sint-Petrus en Pauluskerk",
+                  "text": "The St. Peter and Paul Church in Halmaal is a traditional church in the Sint-Truiden area. It is known for its peaceful location and historic significance to the village.",
+                  "category": "religious",
+                  "coords": [
+                        5.154192,
+                        50.803734
+                  ]
+            },
+            {
+                  "name": "Festraetsstudio",
+                  "text": "The Festraetsstudio in the Beguinage of Sint-Truiden houses a famous astronomical clock. Visitors can admire fascinating mechanical wonders here.",
+                  "category": "museum",
+                  "coords": [
+                        5.193288,
+                        50.821665
+                  ]
+            },
+            {
+                  "name": "Sint-Laurentiuskerk",
+                  "text": "St. Lawrence Church is a significant Catholic house of worship in Sint-Truiden. The church impresses with its architecture and is a place of quiet in the urban area.",
+                  "category": "religious",
+                  "coords": [
+                        5.219064,
+                        50.802259
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "St. Peter's Church is one of the historic churches of Sint-Truiden. It is deeply rooted in the city's religious history and invites exploration.",
+                  "category": "religious",
+                  "coords": [
+                        5.181973,
+                        50.808798
+                  ]
+            },
+            {
+                  "name": "Sint-Augustinuskerk",
+                  "text": "St. Augustine's Church is a sacred building in Sint-Truiden dedicated to Saint Augustine. It serves the local community as an important gathering place.",
+                  "category": "religious",
+                  "coords": [
+                        5.175204,
+                        50.821291
+                  ]
+            },
+            {
+                  "name": "Sint-Gangulfuskerk",
+                  "text": "St. Gangulphus Church is a Romanesque church in the center of Sint-Truiden. It is known for its simple beauty and its great age.",
+                  "category": "religious",
+                  "coords": [
+                        5.183601,
+                        50.818593
+                  ]
+            },
+            {
+                  "name": "Sint-Maartenkerk",
+                  "text": "St. Martin's Church in Sint-Truiden is a church with a long tradition. The building is an integral part of the city's religious and cultural heritage.",
+                  "category": "religious",
+                  "coords": [
+                        5.182313,
+                        50.815731
+                  ]
+            },
+            {
+                  "name": "Sint-Lambertuskerk",
+                  "text": "St. Lambert's Church is a characteristic church building in Sint-Truiden. It is an important spiritual anchor for the residents of the area.",
+                  "category": "religious",
+                  "coords": [
+                        5.176433,
+                        50.798206
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-Tenhemelopnemingskerk",
+                  "text": "This church is dedicated to the Assumption of Mary and is located in Sint-Truiden. It impresses with its sacred furnishings and peaceful atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        5.164547,
+                        50.83289
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "St. James's Church is a historic monument in Sint-Truiden dedicated to Saint James. The church reflects the region's rich religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.193458,
+                        50.819097
+                  ]
+            },
+            {
+                  "name": "Hornemolen",
+                  "text": "The Hornemolen is a historic watermill in Sint-Truiden. It is a testament to pre-industrial technology and is idyllically located on a watercourse.",
+                  "category": "landmark",
+                  "coords": [
+                        5.190092,
+                        50.831545
+                  ]
+            },
+            {
+                  "name": "Grevensmolen",
+                  "text": "The Grevensmolen is a well-preserved watermill in Sint-Truiden. The historic building is an interesting example of the traditional use of water power.",
+                  "category": "landmark",
+                  "coords": [
+                        5.168127,
+                        50.825437
                   ]
             }
       ]
@@ -26595,6 +31149,159 @@ imageHint: "Mol Postel Abbey architecture",
                         2.911633,
                         50.838104
                   ]
+            },
+            {
+                  "name": "In Flanders Fields",
+                  "text": "Das Museum \"In Flanders Fields\" in Ypern befindet sich in der historischen Tuchhalle und widmet sich dem Ersten Weltkrieg. Interaktive Exponate vermitteln eindringlich die Geschichte des Konflikts und das Schicksal der Beteiligten.",
+                  "category": "museum",
+                  "coords": [
+                        2.885401,
+                        50.851035
+                  ]
+            },
+            {
+                  "name": "Verdronken Weide",
+                  "text": "Die Verdronken Weide ist ein ruhiges Naturschutzgebiet in der Nähe der Stadtbefestigung von Ypern. Es bietet Lebensraum für zahlreiche Wasservögel und lädt Besucher zu entspannten Spaziergängen am Wasser ein.",
+                  "category": "natural",
+                  "coords": [
+                        2.894695,
+                        50.839699
+                  ]
+            },
+            {
+                  "name": "Stedelijk museum",
+                  "text": "Das Stadtmuseum von Ypern ist im historischen Sint-Jansgodshuis untergebracht und präsentiert die lokale Geschichte und Kunst. Besucher können hier Sammlungen entdecken, die von der mittelalterlichen Vergangenheit bis zur Neuzeit reichen.",
+                  "category": "museum",
+                  "coords": [
+                        2.889264,
+                        50.845472
+                  ]
+            },
+            {
+                  "name": "Museum Merghelynck",
+                  "text": "Dieses Museum befindet sich in einem restaurierten Herrenhaus des 18. Jahrhunderts in Ypern. Besucher können die feine Innenausstattung und die historischen Möbel eines Adelshauses erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        2.887612,
+                        50.848837
+                  ]
+            },
+            {
+                  "name": "Museum Godhuis Belle",
+                  "text": "Dieses Museum in Ypern zeigt eine Sammlung religiöser Kunst in einem ehemaligen mittelalterlichen Krankenhaus. Die Ausstellung umfasst historische Gemälde, Textilien und wertvolle liturgische Gegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        2.886275,
+                        50.849759
+                  ]
+            },
+            {
+                  "name": "Onderwijsmuseum",
+                  "text": "Dieses Museum in Ypres widmet sich der Bewahrung lokaler Geschichte und kultureller Artefakte. Besucher können hier thematische Ausstellungen und interessante Sammlungen besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        2.881119,
+                        50.850291
+                  ]
+            },
+            {
+                  "name": "Prinses Astrid",
+                  "text": "Dieses Denkmal in Ypres erinnert an bedeutende Persönlichkeiten oder historische Ereignisse der Stadt. Es ist ein wichtiger Orientierungspunkt und ein Ort des Gedenkens für Einheimische.",
+                  "category": "historical",
+                  "coords": [
+                        2.884757,
+                        50.853175
+                  ]
+            },
+            {
+                  "name": "la casa BIEBUYCK",
+                  "text": "Diese Sehenswürdigkeit in Ypres ist eine bekannte lokale Sehenswürdigkeit, die Besucher zur Erkundung einlädt. Sie bietet einen Einblick in die Vielfalt und den Charakter dieser belgischen Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.886631,
+                        50.853505
+                  ]
+            },
+            {
+                  "name": "Grave of Prince Maurice of Battenberg",
+                  "text": "Diese Sehenswürdigkeit in Ypres ist eine bekannte lokale Sehenswürdigkeit, die Besucher zur Erkundung einlädt. Sie bietet einen Einblick in die Vielfalt und den Charakter dieser belgischen Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.897743,
+                        50.853416
+                  ]
+            },
+            {
+                  "name": "Kruitmagazijn",
+                  "text": "Dieses Denkmal in Ypres erinnert an bedeutende Persönlichkeiten oder historische Ereignisse der Stadt. Es ist ein wichtiger Orientierungspunkt und ein Ort des Gedenkens für Einheimische.",
+                  "category": "historical",
+                  "coords": [
+                        2.879413,
+                        50.847334
+                  ]
+            },
+            {
+                  "name": "Essex Yeomanry Frezenburg Memorial",
+                  "text": "Diese Sehenswürdigkeit in Ypres ist eine bekannte lokale Sehenswürdigkeit, die Besucher zur Erkundung einlädt. Sie bietet einen Einblick in die Vielfalt und den Charakter dieser belgischen Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.918595,
+                        50.861532
+                  ]
+            },
+            {
+                  "name": "Saint George's Memorial Church",
+                  "text": "Diese anglikanische Gedenkkirche in Ypern wurde zum Gedenken an die britischen Soldaten des Ersten Weltkriegs erbaut. Das Innere ist mit zahlreichen Gedenktafeln und Regimentsfahnen geschmückt.",
+                  "category": "religious",
+                  "coords": [
+                        2.883001,
+                        50.852179
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Ypres. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        2.889719,
+                        50.847048
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Ypres. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        2.890453,
+                        50.850225
+                  ]
+            },
+            {
+                  "name": "Rijselpoort",
+                  "text": "Das Rijselpoort ist ein gut erhaltenes mittelalterliches Stadttor, das den südlichen Zugang zu Ypern bewacht. Direkt daneben befindet sich ein bedeutender Soldatenfriedhof aus der Zeit des Ersten Weltkriegs.",
+                  "category": "fortress",
+                  "coords": [
+                        2.890266,
+                        50.844383
+                  ]
+            },
+            {
+                  "name": "Sint-Jan Baptistkerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Ypres. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        2.903507,
+                        50.8648
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Middelareskerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Ypres. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        2.87053,
+                        50.843729
+                  ]
             }
       ],
       "hu": [
@@ -26614,6 +31321,159 @@ imageHint: "Mol Postel Abbey architecture",
                   "coords": [
                         2.911633,
                         50.838104
+                  ]
+            },
+            {
+                  "name": "In Flanders Fields",
+                  "text": "Az In Flanders Fields Múzeum Ypres-ben, a történelmi Posztócsarnokban található, és az első világháborúnak szentelték. Az interaktív kiállítások hatásosan mutatják be a konfliktus történetét és az abban résztvevők sorsát.",
+                  "category": "museum",
+                  "coords": [
+                        2.885401,
+                        50.851035
+                  ]
+            },
+            {
+                  "name": "Verdronken Weide",
+                  "text": "A Verdronken Weide egy csendes természetvédelmi terület Ypres városfalainak közelében. Számos vízimadárnak nyújt élőhelyet, és pihentető sétákra hívja a látogatókat a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        2.894695,
+                        50.839699
+                  ]
+            },
+            {
+                  "name": "Stedelijk museum",
+                  "text": "Ypres városi múzeuma a történelmi Sint-Jansgodshuis épületében található, bemutatva a helyi történelmet és művészetet. A látogatók a középkortól a modern korig terjedő gyűjteményeket fedezhetnek fel itt.",
+                  "category": "museum",
+                  "coords": [
+                        2.889264,
+                        50.845472
+                  ]
+            },
+            {
+                  "name": "Museum Merghelynck",
+                  "text": "Ez a múzeum egy restaurált 18. századi nemesi kúriában található Ypres városában. A látogatók megtekinthetik az épület elegáns belső tereit és korabeli bútorait.",
+                  "category": "museum",
+                  "coords": [
+                        2.887612,
+                        50.848837
+                  ]
+            },
+            {
+                  "name": "Museum Godhuis Belle",
+                  "text": "Ez az Ypres-i múzeum egy egykori középkori kórház épületében mutatja be vallási művészeti gyűjteményét. A kiállítás történelmi festményeket, textileket és értékes liturgikus tárgyakat tartalmaz.",
+                  "category": "museum",
+                  "coords": [
+                        2.886275,
+                        50.849759
+                  ]
+            },
+            {
+                  "name": "Onderwijsmuseum",
+                  "text": "Ez a Ypres városában található múzeum a helyi történelem és kulturális emlékek megőrzésének szentelt hely. A látogatók tematikus kiállításokat és érdekes gyűjteményeket tekinthetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        2.881119,
+                        50.850291
+                  ]
+            },
+            {
+                  "name": "Prinses Astrid",
+                  "text": "Ez a Ypres városában található emlékmű a város jelentős személyiségeinek vagy történelmi eseményeinek állít emléket. Fontos tájékozódási pont és az emlékezés helyszíne a helyiek számára.",
+                  "category": "historical",
+                  "coords": [
+                        2.884757,
+                        50.853175
+                  ]
+            },
+            {
+                  "name": "la casa BIEBUYCK",
+                  "text": "Ez a Ypres városában található látnivaló egy ismert helyi látványosság, amely felfedezésre hívja a látogatókat. Betekintést nyújt ennek a belga városnak a sokszínűségébe és karakterébe.",
+                  "category": "landmark",
+                  "coords": [
+                        2.886631,
+                        50.853505
+                  ]
+            },
+            {
+                  "name": "Grave of Prince Maurice of Battenberg",
+                  "text": "Ez a Ypres városában található látnivaló egy ismert helyi látványosság, amely felfedezésre hívja a látogatókat. Betekintést nyújt ennek a belga városnak a sokszínűségébe és karakterébe.",
+                  "category": "landmark",
+                  "coords": [
+                        2.897743,
+                        50.853416
+                  ]
+            },
+            {
+                  "name": "Kruitmagazijn",
+                  "text": "Ez a Ypres városában található emlékmű a város jelentős személyiségeinek vagy történelmi eseményeinek állít emléket. Fontos tájékozódási pont és az emlékezés helyszíne a helyiek számára.",
+                  "category": "historical",
+                  "coords": [
+                        2.879413,
+                        50.847334
+                  ]
+            },
+            {
+                  "name": "Essex Yeomanry Frezenburg Memorial",
+                  "text": "Ez a Ypres városában található látnivaló egy ismert helyi látványosság, amely felfedezésre hívja a látogatókat. Betekintést nyújt ennek a belga városnak a sokszínűségébe és karakterébe.",
+                  "category": "landmark",
+                  "coords": [
+                        2.918595,
+                        50.861532
+                  ]
+            },
+            {
+                  "name": "Saint George's Memorial Church",
+                  "text": "Ez az Ypres-i anglikán emléktemplom az első világháborúban elesett brit katonák emlékére épült. Belső terét számos emléktábla és ezredzászló díszíti.",
+                  "category": "religious",
+                  "coords": [
+                        2.883001,
+                        50.852179
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "Ez a(z) Ypres városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        2.889719,
+                        50.847048
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "Ez a(z) Ypres városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        2.890453,
+                        50.850225
+                  ]
+            },
+            {
+                  "name": "Rijselpoort",
+                  "text": "A Rijselpoort egy jól megőrzött középkori városkapu, amely Ypres déli bejáratát őrzi. Közvetlenül mellette egy jelentős első világháborús katonai temető található.",
+                  "category": "fortress",
+                  "coords": [
+                        2.890266,
+                        50.844383
+                  ]
+            },
+            {
+                  "name": "Sint-Jan Baptistkerk",
+                  "text": "Ez a(z) Ypres városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, and építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        2.903507,
+                        50.8648
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Middelareskerk",
+                  "text": "Ez a(z) Ypres városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        2.87053,
+                        50.843729
                   ]
             }
       ],
@@ -26635,6 +31495,159 @@ imageHint: "Mol Postel Abbey architecture",
                         2.911633,
                         50.838104
                   ]
+            },
+            {
+                  "name": "In Flanders Fields",
+                  "text": "Muzeul „In Flanders Fields” din Ypres este situat în Hala Pânzelor istorică și este dedicat Primului Război Mondial. Expozițiile interactive prezintă în mod impresionant istoria conflictului și soarta celor implicați.",
+                  "category": "museum",
+                  "coords": [
+                        2.885401,
+                        50.851035
+                  ]
+            },
+            {
+                  "name": "Verdronken Weide",
+                  "text": "Verdronken Weide este o rezervație naturală liniștită situată în apropierea fortificațiilor orașului Ypres. Aceasta oferă habitat pentru numeroase păsări de apă și invită vizitatorii la plimbări relaxante pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        2.894695,
+                        50.839699
+                  ]
+            },
+            {
+                  "name": "Stedelijk museum",
+                  "text": "Muzeul municipal din Ypres este găzduit în clădirea istorică Sint-Jansgodshuis și prezintă istoria și arta locală. Vizitatorii pot descoperi aici colecții care variază de la trecutul medieval până în epoca modernă.",
+                  "category": "museum",
+                  "coords": [
+                        2.889264,
+                        50.845472
+                  ]
+            },
+            {
+                  "name": "Museum Merghelynck",
+                  "text": "Acest muzeu este găzduit de un conac restaurat din secolul al XVIII-lea din Ypres. Vizitatorii pot explora interiorul rafinat și mobilierul de epocă al unei reședințe nobiliare.",
+                  "category": "museum",
+                  "coords": [
+                        2.887612,
+                        50.848837
+                  ]
+            },
+            {
+                  "name": "Museum Godhuis Belle",
+                  "text": "Acest muzeu din Ypres expune o colecție de artă religioasă într-un fost spital medieval. Expoziția include picturi istorice, textile și obiecte liturgice valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        2.886275,
+                        50.849759
+                  ]
+            },
+            {
+                  "name": "Onderwijsmuseum",
+                  "text": "Acest muzeu din Ypres este dedicat conservării istoriei locale și a artefactelor culturale. Vizitatorii pot vedea aici expoziții tematice și colecții interesante.",
+                  "category": "museum",
+                  "coords": [
+                        2.881119,
+                        50.850291
+                  ]
+            },
+            {
+                  "name": "Prinses Astrid",
+                  "text": "Acest monument din Ypres onorează personalități importante sau evenimente istorice ale orașului. Este un punct de reper important și un loc de comemorare pentru localnici.",
+                  "category": "historical",
+                  "coords": [
+                        2.884757,
+                        50.853175
+                  ]
+            },
+            {
+                  "name": "la casa BIEBUYCK",
+                  "text": "Această atracție din Ypres este o atracție locală cunoscută care invită vizitatorii la explorare. Oferă o perspectivă asupra diversității și caracterului acestui oraș belgian.",
+                  "category": "landmark",
+                  "coords": [
+                        2.886631,
+                        50.853505
+                  ]
+            },
+            {
+                  "name": "Grave of Prince Maurice of Battenberg",
+                  "text": "Această atracție din Ypres este o atracție locală cunoscută care invită vizitatorii la explorare. Oferă o perspectivă asupra diversității și caracterului acestui oraș belgian.",
+                  "category": "landmark",
+                  "coords": [
+                        2.897743,
+                        50.853416
+                  ]
+            },
+            {
+                  "name": "Kruitmagazijn",
+                  "text": "Acest monument din Ypres onorează personalități importante sau evenimente istorice ale orașului. Este un punct de reper important și un loc de comemorare pentru localnici.",
+                  "category": "historical",
+                  "coords": [
+                        2.879413,
+                        50.847334
+                  ]
+            },
+            {
+                  "name": "Essex Yeomanry Frezenburg Memorial",
+                  "text": "Această atracție din Ypres este o atracție locală cunoscută care invită vizitatorii la explorare. Oferă o perspectivă asupra diversității și caracterului acestui oraș belgian.",
+                  "category": "landmark",
+                  "coords": [
+                        2.918595,
+                        50.861532
+                  ]
+            },
+            {
+                  "name": "Saint George's Memorial Church",
+                  "text": "Această biserică memorială anglicană din Ypres a fost construită în memoria soldaților britanici din Primul Război Mondial. Interiorul este decorat cu numeroase plăci comemorative și steaguri regimentale.",
+                  "category": "religious",
+                  "coords": [
+                        2.883001,
+                        50.852179
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Ypres. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        2.889719,
+                        50.847048
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Ypres. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        2.890453,
+                        50.850225
+                  ]
+            },
+            {
+                  "name": "Rijselpoort",
+                  "text": "Rijselpoort este o poartă medievală bine conservată care străjuiește intrarea sudică în Ypres. Chiar lângă ea se află un cimitir militar important din timpul Primului Război Mondial.",
+                  "category": "fortress",
+                  "coords": [
+                        2.890266,
+                        50.844383
+                  ]
+            },
+            {
+                  "name": "Sint-Jan Baptistkerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Ypres. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        2.903507,
+                        50.8648
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Middelareskerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Ypres. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        2.87053,
+                        50.843729
+                  ]
             }
       ],
       "en": [
@@ -26654,6 +31667,159 @@ imageHint: "Mol Postel Abbey architecture",
                   "coords": [
                         2.911633,
                         50.838104
+                  ]
+            },
+            {
+                  "name": "In Flanders Fields",
+                  "text": "The In Flanders Fields Museum in Ypres is located in the historic Cloth Hall and is dedicated to World War I. Interactive exhibits movingly portray the history of the conflict and the fates of those involved.",
+                  "category": "museum",
+                  "coords": [
+                        2.885401,
+                        50.851035
+                  ]
+            },
+            {
+                  "name": "Verdronken Weide",
+                  "text": "Verdronken Weide is a peaceful nature reserve located near the city fortifications of Ypres. It provides a habitat for numerous waterfowl and invites visitors to enjoy relaxing walks by the water.",
+                  "category": "natural",
+                  "coords": [
+                        2.894695,
+                        50.839699
+                  ]
+            },
+            {
+                  "name": "Stedelijk museum",
+                  "text": "The Municipal Museum of Ypres is housed in the historic Sint-Jansgodshuis and presents local history and art. Visitors can explore collections ranging from the city's medieval past to modern times.",
+                  "category": "museum",
+                  "coords": [
+                        2.889264,
+                        50.845472
+                  ]
+            },
+            {
+                  "name": "Museum Merghelynck",
+                  "text": "This museum is housed in a restored 18th-century mansion in Ypres. Visitors can explore the refined interior and period furniture of a noble residence.",
+                  "category": "museum",
+                  "coords": [
+                        2.887612,
+                        50.848837
+                  ]
+            },
+            {
+                  "name": "Museum Godhuis Belle",
+                  "text": "This museum in Ypres displays a collection of religious art within a former medieval hospital. The exhibit includes historical paintings, textiles, and valuable liturgical objects.",
+                  "category": "museum",
+                  "coords": [
+                        2.886275,
+                        50.849759
+                  ]
+            },
+            {
+                  "name": "Onderwijsmuseum",
+                  "text": "This museum in Ypres is dedicated to preserving local history and cultural artifacts. Visitors can explore thematic exhibitions and interesting collections here.",
+                  "category": "museum",
+                  "coords": [
+                        2.881119,
+                        50.850291
+                  ]
+            },
+            {
+                  "name": "Prinses Astrid",
+                  "text": "This monument in Ypres honors significant figures or historical events of the city. It is an important landmark and a place of remembrance for locals.",
+                  "category": "historical",
+                  "coords": [
+                        2.884757,
+                        50.853175
+                  ]
+            },
+            {
+                  "name": "la casa BIEBUYCK",
+                  "text": "This attraction in Ypres is a well-known local attraction that invites visitors to explore. It offers an insight into the diversity and character of this Belgian city.",
+                  "category": "landmark",
+                  "coords": [
+                        2.886631,
+                        50.853505
+                  ]
+            },
+            {
+                  "name": "Grave of Prince Maurice of Battenberg",
+                  "text": "This attraction in Ypres is a well-known local attraction that invites visitors to explore. It offers an insight into the diversity and character of this Belgian city.",
+                  "category": "landmark",
+                  "coords": [
+                        2.897743,
+                        50.853416
+                  ]
+            },
+            {
+                  "name": "Kruitmagazijn",
+                  "text": "This monument in Ypres honors significant figures or historical events of the city. It is an important landmark and a place of remembrance for locals.",
+                  "category": "historical",
+                  "coords": [
+                        2.879413,
+                        50.847334
+                  ]
+            },
+            {
+                  "name": "Essex Yeomanry Frezenburg Memorial",
+                  "text": "This attraction in Ypres is a well-known local attraction that invites visitors to explore. It offers an insight into the diversity and character of this Belgian city.",
+                  "category": "landmark",
+                  "coords": [
+                        2.918595,
+                        50.861532
+                  ]
+            },
+            {
+                  "name": "Saint George's Memorial Church",
+                  "text": "This Anglican memorial church in Ypres was built to commemorate British soldiers of the First World War. The interior is decorated with numerous memorial plaques and regimental flags.",
+                  "category": "religious",
+                  "coords": [
+                        2.883001,
+                        50.852179
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "This place of worship is a significant religious structure located in Ypres. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        2.889719,
+                        50.847048
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "This place of worship is a significant religious structure located in Ypres. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        2.890453,
+                        50.850225
+                  ]
+            },
+            {
+                  "name": "Rijselpoort",
+                  "text": "The Rijselpoort is a well-preserved medieval city gate guarding the southern entrance to Ypres. Directly adjacent to it lies a significant military cemetery from the First World War era.",
+                  "category": "fortress",
+                  "coords": [
+                        2.890266,
+                        50.844383
+                  ]
+            },
+            {
+                  "name": "Sint-Jan Baptistkerk",
+                  "text": "This place of worship is a significant religious structure located in Ypres. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        2.903507,
+                        50.8648
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Middelareskerk",
+                  "text": "This place of worship is a significant religious structure located in Ypres. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        2.87053,
+                        50.843729
                   ]
             }
       ]
@@ -32553,6 +37719,168 @@ imageHint: "Tongeren Ambiorix statue and basilica",
                         4.908523,
                         50.259184
                   ]
+            },
+            {
+                  "name": "Maison du patrimoine médiéval mosan",
+                  "text": "Das Maison du patrimoine médiéval mosan ist ein Museum in Dinant, das dem mittelalterlichen Erbe des Maastals gewidmet ist. Es ist im historischen Spanischen Haus von Bouvignes untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        4.898109,
+                        50.272675
+                  ]
+            },
+            {
+                  "name": "Château de Crèvecœur",
+                  "text": "Das Château de Crèvecœur ist eine beeindruckende Burgruine, die über dem Maastal bei Dinant thront. Von hier aus bietet sich ein herrlicher Blick auf den Fluss und die umliegenden Felsen.",
+                  "category": "castle",
+                  "coords": [
+                        4.895952,
+                        50.273369
+                  ]
+            },
+            {
+                  "name": "La Maison de Monsieur Sax",
+                  "text": "Mr Sax's House ist das Geburtshaus von Adolphe Sax, dem Erfinder des Saxophons, in Dinant. Dieses Museum würdigt sein Leben und seine musikalische Revolution.",
+                  "category": "museum",
+                  "coords": [
+                        4.911206,
+                        50.261805
+                  ]
+            },
+            {
+                  "name": "Maison Leffe",
+                  "text": "Die Maison Leffe in Dinant ist ein Museum, das der Geschichte des berühmten Leffe-Bieres gewidmet ist. Es befindet sich in einer ehemaligen Kapelle und bietet Verkostungen an.",
+                  "category": "museum",
+                  "coords": [
+                        4.911015,
+                        50.257072
+                  ]
+            },
+            {
+                  "name": "Maison de la Pataphonie",
+                  "text": "Die Maison de la Pataphonie ist ein interaktives Museum in Dinant, in dem Besucher Klänge und ungewöhnliche Musikinstrumente entdecken können. Es lädt zum spielerischen Experimentieren mit Akustik ein.",
+                  "category": "museum",
+                  "coords": [
+                        4.913767,
+                        50.260213
+                  ]
+            },
+            {
+                  "name": "Château d'Herbuchenne",
+                  "text": "Das Château d'Herbuchenne ist ein historisches Schlossanwesen in der Nähe von Dinant. Es ist von einer ruhigen Landschaft umgeben und repräsentiert die regionale Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        4.934324,
+                        50.252569
+                  ]
+            },
+            {
+                  "name": "Château d'Hordenne",
+                  "text": "Das Château d'Hordenne ist ein herrschaftlicher Landsitz in Dinant mit einer traditionsreichen Geschichte. Die Architektur spiegelt den klassischen Stil früherer Epochen wider.",
+                  "category": "castle",
+                  "coords": [
+                        4.916503,
+                        50.231692
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Devant-Bouvignes",
+                  "text": "Das Réserve naturelle de Devant-Bouvignes ist ein Naturschutzgebiet an den Hängen der Maas bei Dinant. Es beherbergt eine geschützte Flora und bietet Wege für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        4.901405,
+                        50.277968
+                  ]
+            },
+            {
+                  "name": "Coteaux de Wespin (Réserve Naturelle Natagora)",
+                  "text": "Die Coteaux de Wespin sind ein Naturschutzgebiet von Natagora in Dinant, das für seine Artenvielfalt bekannt ist. Die Wanderwege führen durch eine abwechslungsreiche Fels- und Waldlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        4.896736,
+                        50.253801
+                  ]
+            },
+            {
+                  "name": "Château Amand",
+                  "text": "Château Amand ist ein geschichtsträchtiges Schlossgebäude in Dinant. Es fügt sich harmonisch in das kulturelle und architektonische Bild der Stadt an der Maas ein.",
+                  "category": "castle",
+                  "coords": [
+                        4.898705,
+                        50.271472
+                  ]
+            },
+            {
+                  "name": "Grotte La Merveilleuse",
+                  "text": "Die Grotte La Merveilleuse in Dinant ist eine faszinierende Tropfsteinhöhle mit zahlreichen Stalaktiten und Stalagmiten. Sie gilt als eine der schönsten Höhlen Belgiens und ist für Besucher zugänglich.",
+                  "category": "landmark",
+                  "coords": [
+                        4.904339,
+                        50.254473
+                  ]
+            },
+            {
+                  "name": "Rocher Bayard",
+                  "text": "Der Rocher Bayard ist eine markante Felsnadel am Ufer der Maas bei Dinant. Der Legende nach wurde der Felsen durch den Sprung des Pferdes Bayard gespalten.",
+                  "category": "landmark",
+                  "coords": [
+                        4.921116,
+                        50.244635
+                  ]
+            },
+            {
+                  "name": "Collégiale Notre-Dame",
+                  "text": "Die Collégiale Notre-Dame ist eine imposante gotische Stiftskirche in Dinant mit einer markanten Zwiebelhaube. Sie prägt mit ihrer Lage direkt am Felsen das berühmte Stadtbild.",
+                  "category": "landmark",
+                  "coords": [
+                        4.912328,
+                        50.261108
+                  ]
+            },
+            {
+                  "name": "Dinant Aventure",
+                  "text": "Dinant Aventure ist ein Freizeitpark in Dinant, der verschiedene Outdoor-Aktivitäten anbietet. Besucher können hier Klettern, Seilrutschen und andere Abenteuer in der Natur erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        4.92867,
+                        50.241935
+                  ]
+            },
+            {
+                  "name": "23 Août 1914",
+                  "text": "Das Monument 23 Août 1914 in Dinant erinnert an die tragischen Ereignisse während des Ersten Weltkriegs. Es steht als Gedenkstätte für die Opfer der Zerstörung der Stadt in diesem Zeitraum.",
+                  "category": "historical",
+                  "coords": [
+                        4.907516,
+                        50.269428
+                  ]
+            },
+            {
+                  "name": "Ruines du château comtal de Bouvignes",
+                  "text": "Die Ruinen des Schlosses von Bouvignes befinden sich auf einem Hügel über der Stadt Dinant. Diese historischen Überreste zeugen von der mittelalterlichen Verteidigungsanlage der Grafen von Namur.",
+                  "category": "historical",
+                  "coords": [
+                        4.897614,
+                        50.27121
+                  ]
+            },
+            {
+                  "name": "Cachot allemand",
+                  "text": "Das Cachot allemand in Dinant ist eine historische Sehenswürdigkeit, die Einblicke in vergangene Haftbedingungen bietet. Dieser ehemalige Arrestort ist Teil der lokalen Geschichte und kann besichtigt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        4.91358,
+                        50.258178
+                  ]
+            },
+            {
+                  "name": "La tour Taravisée ou Tour Maximilien",
+                  "text": "Die Tour Taravisée, auch als Maximilien-Turm bekannt, ist eine historische Ruine in Dinant. Sie war einst Teil der Befestigungsanlagen von Bouvignes und thront hoch über dem Tal.",
+                  "category": "historical",
+                  "coords": [
+                        4.909397,
+                        50.265452
+                  ]
             }
       ],
       "hu": [
@@ -32563,6 +37891,168 @@ imageHint: "Tongeren Ambiorix statue and basilica",
                   "coords": [
                         4.908523,
                         50.259184
+                  ]
+            },
+            {
+                  "name": "Maison du patrimoine médiéval mosan",
+                  "text": "A Maison du patrimoine médiéval mosan egy múzeum Dinant-ban, amely a Maas-völgy középkori örökségének szentelték. Bouvignes történelmi Spanyol Házában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        4.898109,
+                        50.272675
+                  ]
+            },
+            {
+                  "name": "Château de Crèvecœur",
+                  "text": "A Château de Crèvecœur egy lenyűgöző várrom, amely a Maas-völgy felett magasodik Dinant közelében. Innen csodás kilátás nyílik a folyóra és a környező sziklákra.",
+                  "category": "castle",
+                  "coords": [
+                        4.895952,
+                        50.273369
+                  ]
+            },
+            {
+                  "name": "La Maison de Monsieur Sax",
+                  "text": "Az Adolphe Sax-ház Dinant-ban a szaxofon feltalálójának szülőháza. Ez a múzeum Sax életének és zenei forradalmának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        4.911206,
+                        50.261805
+                  ]
+            },
+            {
+                  "name": "Maison Leffe",
+                  "text": "A Dinant-ban található Maison Leffe a híres Leffe sör történetének szentelt múzeum. Egy egykori kápolnában működik, és kóstolókat is kínál.",
+                  "category": "museum",
+                  "coords": [
+                        4.911015,
+                        50.257072
+                  ]
+            },
+            {
+                  "name": "Maison de la Pataphonie",
+                  "text": "A Maison de la Pataphonie egy interaktív múzeum Dinant-ban, ahol a látogatók hangokat és szokatlan hangszereket fedezhetnek fel. Játékos kísérletezésre hív az akusztika világában.",
+                  "category": "museum",
+                  "coords": [
+                        4.913767,
+                        50.260213
+                  ]
+            },
+            {
+                  "name": "Château d'Herbuchenne",
+                  "text": "A Château d'Herbuchenne egy történelmi kastélybirtok Dinant közelében. Csendes táj veszi körül, és a regionális építészetet képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        4.934324,
+                        50.252569
+                  ]
+            },
+            {
+                  "name": "Château d'Hordenne",
+                  "text": "A Château d'Hordenne egy előkelő vidéki kúria Dinant-ban, nagy múltú történelemmel. Építészete a korábbi korszakok klasszikus stílusát tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        4.916503,
+                        50.231692
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Devant-Bouvignes",
+                  "text": "A Réserve naturelle de Devant-Bouvignes egy természetvédelmi terület a Maas lejtőinél, Dinant-ban. Védett flórának ad otthont, és ösvényeket kínál a természetmegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        4.901405,
+                        50.277968
+                  ]
+            },
+            {
+                  "name": "Coteaux de Wespin (Réserve Naturelle Natagora)",
+                  "text": "A Coteaux de Wespin a Natagora által kezelt természetvédelmi terület Dinant-ban, amely biodiverzitásáról ismert. Túraútvonalai változatos sziklás és erdős tájakon vezetnek keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        4.896736,
+                        50.253801
+                  ]
+            },
+            {
+                  "name": "Château Amand",
+                  "text": "A Château Amand egy történelmi jelentőségű kastélyépület Dinant-ban. Harmonikusan illeszkedik a Maas-parti város kulturális és építészeti képébe.",
+                  "category": "castle",
+                  "coords": [
+                        4.898705,
+                        50.271472
+                  ]
+            },
+            {
+                  "name": "Grotte La Merveilleuse",
+                  "text": "A Dinant-ban található Grotte La Merveilleuse egy lenyűgöző cseppkőbarlang számos sztalaktittal és sztalagmitral. Belgium egyik legszebb barlangjának tartják, és látogatható.",
+                  "category": "landmark",
+                  "coords": [
+                        4.904339,
+                        50.254473
+                  ]
+            },
+            {
+                  "name": "Rocher Bayard",
+                  "text": "A Rocher Bayard egy jellegzetes sziklatű a Maas partján, Dinant-ban. A legenda szerint a sziklát Bayard lovának patája hasította ketté.",
+                  "category": "landmark",
+                  "coords": [
+                        4.921116,
+                        50.244635
+                  ]
+            },
+            {
+                  "name": "Collégiale Notre-Dame",
+                  "text": "Az Onze-Lieve-Vrouwekerk egy impozáns gótikus társaskáptalani templom Dinant-ban, jellegzetes hagyma alakú toronysisakkal. Közvetlenül a szikla melletti fekvésével meghatározza a város híres látképét.",
+                  "category": "landmark",
+                  "coords": [
+                        4.912328,
+                        50.261108
+                  ]
+            },
+            {
+                  "name": "Dinant Aventure",
+                  "text": "A Dinant Aventure egy kalandpark Dinantban, amely különféle szabadtéri tevékenységeket kínál. A látogatók falmászást, kötélpályákat és egyéb kalandokat élvezhetnek a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        4.92867,
+                        50.241935
+                  ]
+            },
+            {
+                  "name": "23 Août 1914",
+                  "text": "A 23 Août 1914 emlékmű Dinantban az első világháború tragikus eseményeire emlékeztet. A város pusztulásának áldozatai előtt tiszteleg ezen a történelmi helyszínen.",
+                  "category": "historical",
+                  "coords": [
+                        4.907516,
+                        50.269428
+                  ]
+            },
+            {
+                  "name": "Ruines du château comtal de Bouvignes",
+                  "text": "A bouvignes-i grófi vár romjai egy dombon találhatók Dinant városa felett. Ezek a történelmi maradványok Namur grófjainak középkori védelmi rendszeréről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        4.897614,
+                        50.27121
+                  ]
+            },
+            {
+                  "name": "Cachot allemand",
+                  "text": "A Dinantban található Cachot allemand egy történelmi látványosság, amely betekintést nyújt a múltbéli fogvatartási körülményekbe. Ez az egykori fogda a helyi történelem része és megtekinthető.",
+                  "category": "landmark",
+                  "coords": [
+                        4.91358,
+                        50.258178
+                  ]
+            },
+            {
+                  "name": "La tour Taravisée ou Tour Maximilien",
+                  "text": "A Tour Taravisée, más néven Maximilien-torony, egy történelmi rom Dinantban. Egykor Bouvignes erődítményeinek része volt, és magasan a völgy felett tornyosul.",
+                  "category": "historical",
+                  "coords": [
+                        4.909397,
+                        50.265452
                   ]
             }
       ],
@@ -32575,6 +38065,168 @@ imageHint: "Tongeren Ambiorix statue and basilica",
                         4.908523,
                         50.259184
                   ]
+            },
+            {
+                  "name": "Maison du patrimoine médiéval mosan",
+                  "text": "Maison du patrimoine médiéval mosan este un muzeu din Dinant dedicat moștenirii medievale a văii Meuse. Acesta este găzduit în istorica Casă Spaniolă din Bouvignes.",
+                  "category": "museum",
+                  "coords": [
+                        4.898109,
+                        50.272675
+                  ]
+            },
+            {
+                  "name": "Château de Crèvecœur",
+                  "text": "Château de Crèvecœur este o ruină impresionantă de castel care domină valea Meuse lângă Dinant. De aici se oferă o priveliște magnifică asupra râului și stâncilor din jur.",
+                  "category": "castle",
+                  "coords": [
+                        4.895952,
+                        50.273369
+                  ]
+            },
+            {
+                  "name": "La Maison de Monsieur Sax",
+                  "text": "Casa Domnului Sax este locul natal al lui Adolphe Sax, inventatorul saxofonului, în Dinant. Acest muzeu aduce un omagiu vieții sale și revoluției muzicale pe care a generat-o.",
+                  "category": "museum",
+                  "coords": [
+                        4.911206,
+                        50.261805
+                  ]
+            },
+            {
+                  "name": "Maison Leffe",
+                  "text": "Maison Leffe din Dinant este un muzeu dedicat istoriei faimoasei beri Leffe. Acesta este situat într-o fostă capelă și oferă sesiuni de degustare.",
+                  "category": "museum",
+                  "coords": [
+                        4.911015,
+                        50.257072
+                  ]
+            },
+            {
+                  "name": "Maison de la Pataphonie",
+                  "text": "Maison de la Pataphonie este un muzeu interactiv din Dinant unde vizitatorii pot descoperi sunete și instrumente muzicale neobișnuite. Acesta invită la experimente acustice ludice.",
+                  "category": "museum",
+                  "coords": [
+                        4.913767,
+                        50.260213
+                  ]
+            },
+            {
+                  "name": "Château d'Herbuchenne",
+                  "text": "Château d'Herbuchenne este un domeniu nobiliar istoric situat în apropiere de Dinant. Este înconjurat de un peisaj liniștit și reprezintă arhitectura regională.",
+                  "category": "castle",
+                  "coords": [
+                        4.934324,
+                        50.252569
+                  ]
+            },
+            {
+                  "name": "Château d'Hordenne",
+                  "text": "Château d'Hordenne este un conac rural impunător din Dinant, cu o istorie bogată în tradiție. Arhitectura reflectă stilul clasic al epocilor trecute.",
+                  "category": "castle",
+                  "coords": [
+                        4.916503,
+                        50.231692
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Devant-Bouvignes",
+                  "text": "Réserve naturelle de Devant-Bouvignes este o rezervație naturală pe versanții râului Meuse, lângă Dinant. Adăpostește o floră protejată și oferă poteci pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        4.901405,
+                        50.277968
+                  ]
+            },
+            {
+                  "name": "Coteaux de Wespin (Réserve Naturelle Natagora)",
+                  "text": "Coteaux de Wespin este o rezervație naturală a asociației Natagora din Dinant, cunoscută pentru biodiversitatea sa. Traseele de drumeție trec printr-un peisaj variat de stânci și păduri.",
+                  "category": "natural",
+                  "coords": [
+                        4.896736,
+                        50.253801
+                  ]
+            },
+            {
+                  "name": "Château Amand",
+                  "text": "Château Amand este o clădire de castel încărcată de istorie din Dinant. Se integrează armonios în peisajul cultural și arhitectural al orașului de pe Meuse.",
+                  "category": "castle",
+                  "coords": [
+                        4.898705,
+                        50.271472
+                  ]
+            },
+            {
+                  "name": "Grotte La Merveilleuse",
+                  "text": "Grotte La Merveilleuse din Dinant este o peșteră fascinantă cu numeroase stalactite și stalagmite. Este considerată una dintre cele mai frumoase peșteri din Belgia și este accesibilă vizitatorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        4.904339,
+                        50.254473
+                  ]
+            },
+            {
+                  "name": "Rocher Bayard",
+                  "text": "Rocher Bayard este un ac de stâncă proeminent pe malul râului Meuse, lângă Dinant. Conform legendei, stânca a fost despicată de săritura calului Bayard.",
+                  "category": "landmark",
+                  "coords": [
+                        4.921116,
+                        50.244635
+                  ]
+            },
+            {
+                  "name": "Collégiale Notre-Dame",
+                  "text": "Collégiale Notre-Dame este o impunătoare biserică colegială gotică din Dinant, cu o turlă caracteristică în formă de bulb. Prin poziția sa chiar lângă stâncă, definește faimoasa imagine a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        4.912328,
+                        50.261108
+                  ]
+            },
+            {
+                  "name": "Dinant Aventure",
+                  "text": "Dinant Aventure este un parc de aventură din Dinant, care oferă diverse activități în aer liber. Vizitatorii pot experimenta aici cățărări, tiroliene și alte aventuri în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        4.92867,
+                        50.241935
+                  ]
+            },
+            {
+                  "name": "23 Août 1914",
+                  "text": "Monumentul 23 Août 1914 din Dinant comemorează evenimentele tragice din timpul Primului Război Mondial. Acesta servește ca loc de amintire pentru victimele distrugerii orașului din acea perioadă.",
+                  "category": "historical",
+                  "coords": [
+                        4.907516,
+                        50.269428
+                  ]
+            },
+            {
+                  "name": "Ruines du château comtal de Bouvignes",
+                  "text": "Ruinele castelului comital din Bouvignes sunt situate pe un deal deasupra orașului Dinant. Aceste vestigii istorice atestă sistemul de apărare medieval al conților de Namur.",
+                  "category": "historical",
+                  "coords": [
+                        4.897614,
+                        50.27121
+                  ]
+            },
+            {
+                  "name": "Cachot allemand",
+                  "text": "Cachot allemand din Dinant este o atracție istorică ce oferă o perspectivă asupra condițiilor de detenție din trecut. Acest fost loc de arest face parte din istoria locală și poate fi vizitat.",
+                  "category": "landmark",
+                  "coords": [
+                        4.91358,
+                        50.258178
+                  ]
+            },
+            {
+                  "name": "La tour Taravisée ou Tour Maximilien",
+                  "text": "Turnul Taravisée, cunoscut și sub numele de Turnul Maximilien, este o ruină istorică din Dinant. Acesta a făcut parte odinioară din fortificațiile de la Bouvignes și domină valea de la înălțime.",
+                  "category": "historical",
+                  "coords": [
+                        4.909397,
+                        50.265452
+                  ]
             }
       ],
       "en": [
@@ -32585,6 +38237,168 @@ imageHint: "Tongeren Ambiorix statue and basilica",
                   "coords": [
                         4.908523,
                         50.259184
+                  ]
+            },
+            {
+                  "name": "Maison du patrimoine médiéval mosan",
+                  "text": "The Maison du patrimoine médiéval mosan is a museum in Dinant dedicated to the medieval heritage of the Meuse valley. It is housed in the historic Spanish House of Bouvignes.",
+                  "category": "museum",
+                  "coords": [
+                        4.898109,
+                        50.272675
+                  ]
+            },
+            {
+                  "name": "Château de Crèvecœur",
+                  "text": "The Château de Crèvecœur is an impressive castle ruin towering over the Meuse valley near Dinant. From here, you have a magnificent view of the river and the surrounding cliffs.",
+                  "category": "castle",
+                  "coords": [
+                        4.895952,
+                        50.273369
+                  ]
+            },
+            {
+                  "name": "Mr Sax's House",
+                  "text": "Mr Sax's House is the birthplace of Adolphe Sax, the inventor of the saxophone, in Dinant. This museum honors his life and his musical revolution.",
+                  "category": "museum",
+                  "coords": [
+                        4.911206,
+                        50.261805
+                  ]
+            },
+            {
+                  "name": "Maison Leffe",
+                  "text": "The Maison Leffe in Dinant is a museum dedicated to the history of the famous Leffe beer. It is located in a former chapel and offers tastings.",
+                  "category": "museum",
+                  "coords": [
+                        4.911015,
+                        50.257072
+                  ]
+            },
+            {
+                  "name": "Maison de la Pataphonie",
+                  "text": "The Maison de la Pataphonie is an interactive museum in Dinant where visitors can discover sounds and unusual musical instruments. It invites playful experimentation with acoustics.",
+                  "category": "museum",
+                  "coords": [
+                        4.913767,
+                        50.260213
+                  ]
+            },
+            {
+                  "name": "Château d'Herbuchenne",
+                  "text": "The Château d'Herbuchenne is a historic castle estate near Dinant. It is surrounded by a quiet landscape and represents the regional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        4.934324,
+                        50.252569
+                  ]
+            },
+            {
+                  "name": "Château d'Hordenne",
+                  "text": "The Château d'Hordenne is a stately country estate in Dinant with a history rich in tradition. The architecture reflects the classical style of past eras.",
+                  "category": "castle",
+                  "coords": [
+                        4.916503,
+                        50.231692
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Devant-Bouvignes",
+                  "text": "The Réserve naturelle de Devant-Bouvignes is a nature reserve on the slopes of the Meuse near Dinant. It houses protected flora and offers paths for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        4.901405,
+                        50.277968
+                  ]
+            },
+            {
+                  "name": "Coteaux de Wespin (Réserve Naturelle Natagora)",
+                  "text": "The Coteaux de Wespin is a Natagora nature reserve in Dinant known for its biodiversity. Hiking trails lead through a varied landscape of rocks and woods.",
+                  "category": "natural",
+                  "coords": [
+                        4.896736,
+                        50.253801
+                  ]
+            },
+            {
+                  "name": "Château Amand",
+                  "text": "Château Amand is a historic castle building in Dinant. It blends harmoniously into the cultural and architectural landscape of the city on the Meuse.",
+                  "category": "castle",
+                  "coords": [
+                        4.898705,
+                        50.271472
+                  ]
+            },
+            {
+                  "name": "Grotte La Merveilleuse",
+                  "text": "The Grotte La Merveilleuse in Dinant is a fascinating limestone cave with numerous stalactites and stalagmites. It is considered one of the most beautiful caves in Belgium and is open to visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        4.904339,
+                        50.254473
+                  ]
+            },
+            {
+                  "name": "Rocher Bayard",
+                  "text": "Rocher Bayard is a prominent needle-shaped rock on the banks of the Meuse near Dinant. According to legend, the rock was split by the leap of the horse Bayard.",
+                  "category": "landmark",
+                  "coords": [
+                        4.921116,
+                        50.244635
+                  ]
+            },
+            {
+                  "name": "Collégiale Notre-Dame",
+                  "text": "The Collégiale Notre-Dame is an imposing Gothic collegiate church in Dinant with a distinctive pear-shaped bulbous dome. Its location right against the cliff defines the famous city skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        4.912328,
+                        50.261108
+                  ]
+            },
+            {
+                  "name": "Dinant Aventure",
+                  "text": "Dinant Aventure is an adventure park in Dinant offering various outdoor activities. Visitors can experience climbing, zip-lining, and other adventures in a natural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        4.92867,
+                        50.241935
+                  ]
+            },
+            {
+                  "name": "23 Août 1914",
+                  "text": "The 23 Août 1914 monument in Dinant commemorates the tragic events during the First World War. It stands as a memorial to the victims of the city's destruction during that period.",
+                  "category": "historical",
+                  "coords": [
+                        4.907516,
+                        50.269428
+                  ]
+            },
+            {
+                  "name": "Ruines du château comtal de Bouvignes",
+                  "text": "The ruins of the count's castle of Bouvignes are located on a hill overlooking the city of Dinant. These historical remains testify to the medieval defense system of the counts of Namur.",
+                  "category": "historical",
+                  "coords": [
+                        4.897614,
+                        50.27121
+                  ]
+            },
+            {
+                  "name": "Cachot allemand",
+                  "text": "The Cachot allemand in Dinant is a historical attraction offering insight into past detention conditions. This former place of arrest is part of local history and can be visited.",
+                  "category": "landmark",
+                  "coords": [
+                        4.91358,
+                        50.258178
+                  ]
+            },
+            {
+                  "name": "La tour Taravisée ou Tour Maximilien",
+                  "text": "The Taravisée Tower, also known as the Maximilian Tower, is a historical ruin in Dinant. It was once part of the fortifications of Bouvignes and stands high above the valley.",
+                  "category": "historical",
+                  "coords": [
+                        4.909397,
+                        50.265452
                   ]
             }
       ]
@@ -33339,6 +39153,222 @@ imageHint: "Eupen town hall and Vesdre dam",
                         5.621592,
                         50.661671
                   ]
+            },
+            {
+                  "name": "Pierre de Justice",
+                  "text": "Diese archäologische Stätte in Herstal ist eine bekannte lokale Sehenswürdigkeit, die Besucher zur Erkundung einlädt. Sie bietet einen Einblick in die Vielfalt und den Charakter dieser belgischen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        5.632368,
+                        50.64682
+                  ]
+            },
+            {
+                  "name": "Château Dupont",
+                  "text": "Das Schloss Château Dupont ist ein historisches Gebäude in der Nähe von Herstal. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.672523,
+                        50.666414
+                  ]
+            },
+            {
+                  "name": "Musée de la ville de Herstal",
+                  "text": "Dieses Museum in Herstal widmet sich der Bewahrung lokaler Geschichte und kultureller Artefakte. Besucher können hier thematische Ausstellungen und interessante Sammlungen besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        5.638928,
+                        50.67068
+                  ]
+            },
+            {
+                  "name": "Château des Quatre Tourettes",
+                  "text": "Das Schloss Château des Quatre Tourettes ist ein historisches Gebäude in der Nähe von Herstal. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.60421,
+                        50.654192
+                  ]
+            },
+            {
+                  "name": "Château Piedboeuf",
+                  "text": "Das Schloss Château Piedboeuf ist ein historisches Gebäude in der Nähe von Herstal. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.631476,
+                        50.644939
+                  ]
+            },
+            {
+                  "name": "Musée Saroléa",
+                  "text": "Dieses Museum in Herstal widmet sich der Bewahrung lokaler Geschichte und kultureller Artefakte. Besucher können hier thematische Ausstellungen und interessante Sammlungen besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        5.622489,
+                        50.659052
+                  ]
+            },
+            {
+                  "name": "Château Sarolea",
+                  "text": "Das Schloss Château Sarolea ist ein historisches Gebäude in der Nähe von Herstal. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.668587,
+                        50.678775
+                  ]
+            },
+            {
+                  "name": "Château Bernalmont",
+                  "text": "Das Schloss Château Bernalmont ist ein historisches Gebäude in der Nähe von Herstal. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.609854,
+                        50.661773
+                  ]
+            },
+            {
+                  "name": "Château Rouge",
+                  "text": "Das Schloss Château Rouge ist ein historisches Gebäude in der Nähe von Herstal. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.63899,
+                        50.672187
+                  ]
+            },
+            {
+                  "name": "Site de Grand Intérêt Biologique \"Les Monts\"",
+                  "text": "Dieses Naturschutzgebiet in Herstal bietet eine grüne Umgebung für Erholung und Spaziergänge im Freien. Es ist ein beliebtes Ziel für Besucher, die die Natur in dieser Region genießen möchten.",
+                  "category": "natural",
+                  "coords": [
+                        5.624596,
+                        50.673994
+                  ]
+            },
+            {
+                  "name": "Roi Albert Ier",
+                  "text": "Diese Leuchtturm in Herstal ist eine bekannte lokale Sehenswürdigkeit, die Besucher zur Erkundung einlädt. Sie bietet einen Einblick in die Vielfalt und den Charakter dieser belgischen Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.61854,
+                        50.653368
+                  ]
+            },
+            {
+                  "name": "Ancien dépôt vicinal de Bressoux",
+                  "text": "Diese Sehenswürdigkeit in Herstal ist eine bekannte lokale Sehenswürdigkeit, die Besucher zur Erkundung einlädt. Sie bietet einen Einblick in die Vielfalt und den Charakter dieser belgischen Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.608499,
+                        50.644058
+                  ]
+            },
+            {
+                  "name": "Mémorial Albert Ier",
+                  "text": "Dieses Denkmal in Herstal erinnert an bedeutende Persönlichkeiten oder historische Ereignisse der Stadt. Es ist ein wichtiger Orientierungspunkt und ein Ort des Gedenkens für Einheimische.",
+                  "category": "historical",
+                  "coords": [
+                        5.620573,
+                        50.6538
+                  ]
+            },
+            {
+                  "name": "Parc Astrid",
+                  "text": "Dieses Park in Herstal bietet eine grüne Umgebung für Erholung und Spaziergänge im Freien. Es ist ein beliebtes Ziel für Besucher, die die Natur in dieser Region genießen möchten.",
+                  "category": "park",
+                  "coords": [
+                        5.606547,
+                        50.651632
+                  ]
+            },
+            {
+                  "name": "Memorial de Rabosée",
+                  "text": "Dieses Denkmal in Herstal erinnert an bedeutende Persönlichkeiten oder historische Ereignisse der Stadt. Es ist ein wichtiger Orientierungspunkt und ein Ort des Gedenkens für Einheimische.",
+                  "category": "historical",
+                  "coords": [
+                        5.667368,
+                        50.671358
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Foy",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Herstal. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.598893,
+                        50.65146
+                  ]
+            },
+            {
+                  "name": "Église Saint-Roch",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Herstal. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.65189,
+                        50.658883
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Orémus",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Herstal. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.630098,
+                        50.66487
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léonard et Victor",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Herstal. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.59454,
+                        50.663877
+                  ]
+            },
+            {
+                  "name": "Viaduc de Herstal",
+                  "text": "Diese Brücke in Herstal ist ein wichtiges Element der lokalen Infrastruktur und verbindet verschiedene Stadtteile. Von hier aus bietet sich oft ein weiter Blick auf die umliegende Wasserlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        5.651603,
+                        50.682799
+                  ]
+            },
+            {
+                  "name": "Pont-Barrage de Monsin",
+                  "text": "Diese Brücke in Herstal ist ein wichtiges Element der lokalen Infrastruktur und verbindet verschiedene Stadtteile. Von hier aus bietet sich oft ein weiter Blick auf die umliegende Wasserlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        5.630703,
+                        50.651555
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre et Paul",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Herstal. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.603753,
+                        50.645361
+                  ]
+            },
+            {
+                  "name": "Pont de Milsaucy",
+                  "text": "Diese Brücke in Herstal ist ein wichtiges Element der lokalen Infrastruktur und verbindet verschiedene Stadtteile. Von hier aus bietet sich oft ein weiter Blick auf die umliegende Wasserlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        5.640159,
+                        50.666336
+                  ]
+            },
+            {
+                  "name": "Pont Marexhe",
+                  "text": "Diese Brücke in Herstal ist ein wichtiges Element der lokalen Infrastruktur und verbindet verschiedene Stadtteile. Von hier aus bietet sich oft ein weiter Blick auf die umliegende Wasserlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        5.6225,
+                        50.6548
+                  ]
             }
       ],
       "hu": [
@@ -33367,6 +39397,222 @@ imageHint: "Eupen town hall and Vesdre dam",
                   "coords": [
                         5.621592,
                         50.661671
+                  ]
+            },
+            {
+                  "name": "Pierre de Justice",
+                  "text": "Ez a Herstal városában található régészeti lelőhely egy ismert helyi látványosság, amely felfedezésre hívja a látogatókat. Betekintést nyújt ennek a belga városnak a sokszínűségébe és karakterébe.",
+                  "category": "historical",
+                  "coords": [
+                        5.632368,
+                        50.64682
+                  ]
+            },
+            {
+                  "name": "Château Dupont",
+                  "text": "A(z) Château Dupont kastély egy történelmi épület Herstal közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.672523,
+                        50.666414
+                  ]
+            },
+            {
+                  "name": "Musée de la ville de Herstal",
+                  "text": "Ez a Herstal városában található múzeum a helyi történelem és kulturális emlékek megőrzésének szentelt hely. A látogatók tematikus kiállításokat és érdekes gyűjteményeket tekinthetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        5.638928,
+                        50.67068
+                  ]
+            },
+            {
+                  "name": "Château des Quatre Tourettes",
+                  "text": "A(z) Château des Quatre Tourettes kastély egy történelmi épület Herstal közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.60421,
+                        50.654192
+                  ]
+            },
+            {
+                  "name": "Château Piedboeuf",
+                  "text": "A(z) Château Piedboeuf kastély egy történelmi épület Herstal közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.631476,
+                        50.644939
+                  ]
+            },
+            {
+                  "name": "Musée Saroléa",
+                  "text": "Ez a Herstal városában található múzeum a helyi történelem és kulturális emlékek megőrzésének szentelt hely. A látogatók tematikus kiállításokat és érdekes gyűjteményeket tekinthetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        5.622489,
+                        50.659052
+                  ]
+            },
+            {
+                  "name": "Château Sarolea",
+                  "text": "A(z) Château Sarolea kastély egy történelmi épület Herstal közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.668587,
+                        50.678775
+                  ]
+            },
+            {
+                  "name": "Château Bernalmont",
+                  "text": "A(z) Château Bernalmont kastély egy történelmi épület Herstal közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.609854,
+                        50.661773
+                  ]
+            },
+            {
+                  "name": "Château Rouge",
+                  "text": "A(z) Château Rouge kastély egy történelmi épület Herstal közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.63899,
+                        50.672187
+                  ]
+            },
+            {
+                  "name": "Site de Grand Intérêt Biologique \"Les Monts\"",
+                  "text": "Ez a Herstal területén található természetvédelmi terület zöld környezetet biztosít a kikapcsolódáshoz és a szabadtéri sétákhoz. Kedvelt célpont a látogatók számára, akik élvezni szeretnék a régió természetét.",
+                  "category": "natural",
+                  "coords": [
+                        5.624596,
+                        50.673994
+                  ]
+            },
+            {
+                  "name": "Roi Albert Ier",
+                  "text": "Ez a Herstal városában található világítótorony egy ismert helyi látványosság, amely felfedezésre hívja a látogatókat. Betekintést nyújt ennek a belga városnak a sokszínűségébe és karakterébe.",
+                  "category": "landmark",
+                  "coords": [
+                        5.61854,
+                        50.653368
+                  ]
+            },
+            {
+                  "name": "Ancien dépôt vicinal de Bressoux",
+                  "text": "Ez a Herstal városában található látnivaló egy ismert helyi látványosság, amely felfedezésre hívja a látogatókat. Betekintést nyújt ennek a belga városnak a sokszínűségébe és karakterébe.",
+                  "category": "landmark",
+                  "coords": [
+                        5.608499,
+                        50.644058
+                  ]
+            },
+            {
+                  "name": "Mémorial Albert Ier",
+                  "text": "Ez a Herstal városában található emlékmű a város jelentős személyiségeinek vagy történelmi eseményeinek állít emléket. Fontos tájékozási pont és az emlékezés helyszíne a helyiek számára.",
+                  "category": "historical",
+                  "coords": [
+                        5.620573,
+                        50.6538
+                  ]
+            },
+            {
+                  "name": "Parc Astrid",
+                  "text": "Ez a Herstal területén található park zöld környezetet biztosít a kikapcsolódáshoz és a szabadtéri sétákhoz. Kedvelt célpont a látogatók számára, akik élvezni szeretnék a régió természetét.",
+                  "category": "park",
+                  "coords": [
+                        5.606547,
+                        50.651632
+                  ]
+            },
+            {
+                  "name": "Memorial de Rabosée",
+                  "text": "Ez a Herstal városában található emlékmű a város jelentős személyiségeinek vagy történelmi eseményeinek állít emléket. Fontos tájékozási pont és az emlékezés helyszíne a helyiek számára.",
+                  "category": "historical",
+                  "coords": [
+                        5.667368,
+                        50.671358
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Foy",
+                  "text": "Ez a(z) Herstal városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.598893,
+                        50.65146
+                  ]
+            },
+            {
+                  "name": "Église Saint-Roch",
+                  "text": "Ez a(z) Herstal városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.65189,
+                        50.658883
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Orémus",
+                  "text": "Ez a(z) Herstal városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.630098,
+                        50.66487
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léonard et Victor",
+                  "text": "Ez a(z) Herstal városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.59454,
+                        50.663877
+                  ]
+            },
+            {
+                  "name": "Viaduc de Herstal",
+                  "text": "Ez a Herstal városában található híd a helyi infrastruktúra fontos eleme, amely különböző városrészeket köt össze. Innen gyakran tágas kilátás nyílik a környező vízi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        5.651603,
+                        50.682799
+                  ]
+            },
+            {
+                  "name": "Pont-Barrage de Monsin",
+                  "text": "Ez a Herstal városában található híd a helyi infrastruktúra fontos eleme, amely különböző városrészeket köt össze. Innen gyakun tágas kilátás nyílik a környező vízi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        5.630703,
+                        50.651555
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre et Paul",
+                  "text": "Ez a(z) Herstal városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.603753,
+                        50.645361
+                  ]
+            },
+            {
+                  "name": "Pont de Milsaucy",
+                  "text": "Ez a Herstal városában található híd a helyi infrastruktúra fontos eleme, amely különböző városrészeket köt össze. Innen gyakran tágas kilátás nyílik a környező vízi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        5.640159,
+                        50.666336
+                  ]
+            },
+            {
+                  "name": "Pont Marexhe",
+                  "text": "Ez a Herstal városában található híd a helyi infrastruktúra fontos eleme, amely különböző városrészeket köt össze. Innen gyakran tágas kilátás nyílik a környező vízi tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        5.6225,
+                        50.6548
                   ]
             }
       ],
@@ -33397,6 +39643,222 @@ imageHint: "Eupen town hall and Vesdre dam",
                         5.621592,
                         50.661671
                   ]
+            },
+            {
+                  "name": "Pierre de Justice",
+                  "text": "Această sit arheologic din Herstal este o atracție locală cunoscută care invită vizitatorii la explorare. Oferă o perspectivă asupra diversității și caracterului acestui oraș belgian.",
+                  "category": "historical",
+                  "coords": [
+                        5.632368,
+                        50.64682
+                  ]
+            },
+            {
+                  "name": "Château Dupont",
+                  "text": "Acest castel Château Dupont este o clădire istorică situată în apropiere de Herstal. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.672523,
+                        50.666414
+                  ]
+            },
+            {
+                  "name": "Musée de la ville de Herstal",
+                  "text": "Acest muzeu din Herstal este dedicat conservării istoriei locale și a artefactelor culturale. Vizitatorii pot vedea aici expoziții tematice și colecții interesante.",
+                  "category": "museum",
+                  "coords": [
+                        5.638928,
+                        50.67068
+                  ]
+            },
+            {
+                  "name": "Château des Quatre Tourettes",
+                  "text": "Acest castel Château des Quatre Tourettes este o clădire istorică situată în apropiere de Herstal. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.60421,
+                        50.654192
+                  ]
+            },
+            {
+                  "name": "Château Piedboeuf",
+                  "text": "Acest castel Château Piedboeuf este o clădire istorică situată în apropiere de Herstal. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.631476,
+                        50.644939
+                  ]
+            },
+            {
+                  "name": "Musée Saroléa",
+                  "text": "Acest muzeu din Herstal este dedicat conservării istoriei locale și a artefactelor culturale. Vizitatorii pot vedea aici expoziții tematice și colecții interesante.",
+                  "category": "museum",
+                  "coords": [
+                        5.622489,
+                        50.659052
+                  ]
+            },
+            {
+                  "name": "Château Sarolea",
+                  "text": "Acest castel Château Sarolea este o clădire istorică situată în apropiere de Herstal. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.668587,
+                        50.678775
+                  ]
+            },
+            {
+                  "name": "Château Bernalmont",
+                  "text": "Acest castel Château Bernalmont este o clădire istorică situată în apropiere de Herstal. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.609854,
+                        50.661773
+                  ]
+            },
+            {
+                  "name": "Château Rouge",
+                  "text": "Acest castel Château Rouge este o clădire istorică situată în apropiere de Herstal. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.63899,
+                        50.672187
+                  ]
+            },
+            {
+                  "name": "Site de Grand Intérêt Biologique \"Les Monts\"",
+                  "text": "Acest rezervație naturală din Herstal oferă un mediu verde pentru recreere și plimbări în aer liber. Este o destinație populară pentru vizitatorii care doresc să se bucure de natura din această regiune.",
+                  "category": "natural",
+                  "coords": [
+                        5.624596,
+                        50.673994
+                  ]
+            },
+            {
+                  "name": "Roi Albert Ier",
+                  "text": "Această far din Herstal este o atracție locală cunoscută care invită vizitatorii la explorare. Oferă o perspectivă asupra diversității și caracterului acestui oraș belgian.",
+                  "category": "landmark",
+                  "coords": [
+                        5.61854,
+                        50.653368
+                  ]
+            },
+            {
+                  "name": "Ancien dépôt vicinal de Bressoux",
+                  "text": "Această atracție din Herstal este o atracție locală cunoscută care invită vizitatorii la explorare. Oferă o perspectivă asupra diversității și caracterului acestui oraș belgian.",
+                  "category": "landmark",
+                  "coords": [
+                        5.608499,
+                        50.644058
+                  ]
+            },
+            {
+                  "name": "Mémorial Albert Ier",
+                  "text": "Acest monument din Herstal onorează personalități importante sau evenimente istorice ale orașului. Este un punct de reper important și un loc de comemorare pentru localnici.",
+                  "category": "historical",
+                  "coords": [
+                        5.620573,
+                        50.6538
+                  ]
+            },
+            {
+                  "name": "Parc Astrid",
+                  "text": "Acest parc din Herstal oferă un mediu verde pentru recreere și plimbări în aer liber. Este o destinație populară pentru vizitatorii care doresc să se bucure de natura din această regiune.",
+                  "category": "park",
+                  "coords": [
+                        5.606547,
+                        50.651632
+                  ]
+            },
+            {
+                  "name": "Memorial de Rabosée",
+                  "text": "Acest monument din Herstal onorează personalități importante sau evenimente istorice ale orașului. Este un punct de reper important și un loc de comemorare pentru localnici.",
+                  "category": "historical",
+                  "coords": [
+                        5.667368,
+                        50.671358
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Foy",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Herstal. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.598893,
+                        50.65146
+                  ]
+            },
+            {
+                  "name": "Église Saint-Roch",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Herstal. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.65189,
+                        50.658883
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Orémus",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Herstal. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.630098,
+                        50.66487
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léonard et Victor",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Herstal. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.59454,
+                        50.663877
+                  ]
+            },
+            {
+                  "name": "Viaduc de Herstal",
+                  "text": "Acest pod din Herstal este un element important al infrastructurii locale, legând diferite părți ale orașului. De aici se oferă adesea o vedere largă asupra peisajului acvatic înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        5.651603,
+                        50.682799
+                  ]
+            },
+            {
+                  "name": "Pont-Barrage de Monsin",
+                  "text": "Acest pod din Herstal este un element important al infrastructurii locale, legând diferite părți ale orașului. De aici se oferă adesea o vedere largă asupra peisajului acvatic înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        5.630703,
+                        50.651555
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre et Paul",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Herstal. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.603753,
+                        50.645361
+                  ]
+            },
+            {
+                  "name": "Pont de Milsaucy",
+                  "text": "Acest pod din Herstal este un element important al infrastructurii locale, legând diferite părți ale orașului. De aici se oferă adesea o vedere largă asupra peisajului acvatic înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        5.640159,
+                        50.666336
+                  ]
+            },
+            {
+                  "name": "Pont Marexhe",
+                  "text": "Acest pod din Herstal este un element important al infrastructurii locale, legând diferite părți ale orașului. De aici se oferă adesea o vedere largă asupra peisajului acvatic înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        5.6225,
+                        50.6548
+                  ]
             }
       ],
       "en": [
@@ -33425,6 +39887,222 @@ imageHint: "Eupen town hall and Vesdre dam",
                   "coords": [
                         5.621592,
                         50.661671
+                  ]
+            },
+            {
+                  "name": "Pierre de Justice",
+                  "text": "This archaeological site in Herstal is a well-known local attraction that invites visitors to explore. It offers an insight into the diversity and character of this Belgian city.",
+                  "category": "historical",
+                  "coords": [
+                        5.632368,
+                        50.64682
+                  ]
+            },
+            {
+                  "name": "Château Dupont",
+                  "text": "The Château Dupont castle is a historic building located near Herstal. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.672523,
+                        50.666414
+                  ]
+            },
+            {
+                  "name": "Musée de la ville de Herstal",
+                  "text": "This museum in Herstal is dedicated to preserving local history and cultural artifacts. Visitors can explore thematic exhibitions and interesting collections here.",
+                  "category": "museum",
+                  "coords": [
+                        5.638928,
+                        50.67068
+                  ]
+            },
+            {
+                  "name": "Château des Quatre Tourettes",
+                  "text": "The Château des Quatre Tourettes castle is a historic building located near Herstal. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.60421,
+                        50.654192
+                  ]
+            },
+            {
+                  "name": "Château Piedboeuf",
+                  "text": "The Château Piedboeuf castle is a historic building located near Herstal. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.631476,
+                        50.644939
+                  ]
+            },
+            {
+                  "name": "Musée Saroléa",
+                  "text": "This museum in Herstal is dedicated to preserving local history and cultural artifacts. Visitors can explore thematic exhibitions and interesting collections here.",
+                  "category": "museum",
+                  "coords": [
+                        5.622489,
+                        50.659052
+                  ]
+            },
+            {
+                  "name": "Château Sarolea",
+                  "text": "The Château Sarolea castle is a historic building located near Herstal. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.668587,
+                        50.678775
+                  ]
+            },
+            {
+                  "name": "Château Bernalmont",
+                  "text": "The Château Bernalmont castle is a historic building located near Herstal. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.609854,
+                        50.661773
+                  ]
+            },
+            {
+                  "name": "Château Rouge",
+                  "text": "The Château Rouge castle is a historic building located near Herstal. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.63899,
+                        50.672187
+                  ]
+            },
+            {
+                  "name": "Site de Grand Intérêt Biologique \"Les Monts\"",
+                  "text": "This nature reserve in Herstal offers a green environment for recreation and outdoor walks. It is a popular destination for visitors wishing to enjoy the nature of this region.",
+                  "category": "natural",
+                  "coords": [
+                        5.624596,
+                        50.673994
+                  ]
+            },
+            {
+                  "name": "Roi Albert Ier",
+                  "text": "This lighthouse in Herstal is a well-known local attraction that invites visitors to explore. It offers an insight into the diversity and character of this Belgian city.",
+                  "category": "landmark",
+                  "coords": [
+                        5.61854,
+                        50.653368
+                  ]
+            },
+            {
+                  "name": "Ancien dépôt vicinal de Bressoux",
+                  "text": "This attraction in Herstal is a well-known local attraction that invites visitors to explore. It offers an insight into the diversity and character of this Belgian city.",
+                  "category": "landmark",
+                  "coords": [
+                        5.608499,
+                        50.644058
+                  ]
+            },
+            {
+                  "name": "Mémorial Albert Ier",
+                  "text": "This monument in Herstal honors significant figures or historical events of the city. It is an important landmark and a place of remembrance for locals.",
+                  "category": "historical",
+                  "coords": [
+                        5.620573,
+                        50.6538
+                  ]
+            },
+            {
+                  "name": "Parc Astrid",
+                  "text": "This park in Herstal offers a green environment for recreation and outdoor walks. It is a popular destination for visitors wishing to enjoy the nature of this region.",
+                  "category": "park",
+                  "coords": [
+                        5.606547,
+                        50.651632
+                  ]
+            },
+            {
+                  "name": "Memorial de Rabosée",
+                  "text": "This monument in Herstal honors significant figures or historical events of the city. It is an important landmark and a place of remembrance for locals.",
+                  "category": "historical",
+                  "coords": [
+                        5.667368,
+                        50.671358
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Foy",
+                  "text": "This place of worship is a significant religious structure located in Herstal. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.598893,
+                        50.65146
+                  ]
+            },
+            {
+                  "name": "Église Saint-Roch",
+                  "text": "This place of worship is a significant religious structure located in Herstal. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.65189,
+                        50.658883
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Orémus",
+                  "text": "This place of worship is a significant religious structure located in Herstal. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.630098,
+                        50.66487
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léonard et Victor",
+                  "text": "This place of worship is a significant religious structure located in Herstal. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.59454,
+                        50.663877
+                  ]
+            },
+            {
+                  "name": "Viaduc de Herstal",
+                  "text": "This bridge in Herstal is an important element of the local infrastructure, connecting different parts of the city. It often offers a wide view of the surrounding waterscape.",
+                  "category": "landmark",
+                  "coords": [
+                        5.651603,
+                        50.682799
+                  ]
+            },
+            {
+                  "name": "Pont-Barrage de Monsin",
+                  "text": "This bridge in Herstal is an important element of the local infrastructure, connecting different parts of the city. It often offers a wide view of the surrounding waterscape.",
+                  "category": "landmark",
+                  "coords": [
+                        5.630703,
+                        50.651555
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre et Paul",
+                  "text": "This place of worship is a significant religious structure located in Herstal. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.603753,
+                        50.645361
+                  ]
+            },
+            {
+                  "name": "Pont de Milsaucy",
+                  "text": "This bridge in Herstal is an important element of the local infrastructure, connecting different parts of the city. It often offers a wide view of the surrounding waterscape.",
+                  "category": "landmark",
+                  "coords": [
+                        5.640159,
+                        50.666336
+                  ]
+            },
+            {
+                  "name": "Pont Marexhe",
+                  "text": "This bridge in Herstal is an important element of the local infrastructure, connecting different parts of the city. It often offers a wide view of the surrounding waterscape.",
+                  "category": "landmark",
+                  "coords": [
+                        5.6225,
+                        50.6548
                   ]
             }
       ]
@@ -34155,7 +40833,880 @@ imageHint: "Menen belfry and town square",
     },
     image: "/poi-images/belgium-menen-cities-v2.webp",
 },  {
-    id: "belgium-bilzen-cities-v2",
+    id: "belgium-bilzen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasteel Edelhof",
+                  "text": "Das Schloss Kasteel Edelhof ist ein historisches Gebäude in der Nähe von Bilzen. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.527318,
+                        50.889781
+                  ]
+            },
+            {
+                  "name": "Kasteel van Groenendaal",
+                  "text": "Das Schloss Kasteel van Groenendaal ist ein historisches Gebäude in der Nähe von Bilzen. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.548106,
+                        50.887304
+                  ]
+            },
+            {
+                  "name": "Kasteel Weyer",
+                  "text": "Das Schloss Kasteel Weyer ist ein historisches Gebäude in der Nähe von Bilzen. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.495873,
+                        50.850538
+                  ]
+            },
+            {
+                  "name": "Ruine van Jonckholt",
+                  "text": "Diese archäologische Stätte in Bilzen zeigt die freigelegten Fundamente einer mittelalterlichen Wasserburg. Informationstafeln erklären die Geschichte der einstigen Verteidigungsanlage inmitten der Natur.",
+                  "category": "castle",
+                  "coords": [
+                        5.55519,
+                        50.877869
+                  ]
+            },
+            {
+                  "name": "Abdissenkwartier",
+                  "text": "Diese Klostergebäude in Bilzen ist eine bekannte lokale Sehenswürdigkeit, die Besucher zur Erkundung einlädt. Sie bietet einen Einblick in die Vielfalt und den Charakter dieser belgischen Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        5.525496,
+                        50.889485
+                  ]
+            },
+            {
+                  "name": "Dierenparkje Katteberg",
+                  "text": "Diese Tierpark in Bilzen ist eine bekannte lokale Sehenswürdigkeit, die Besucher zur Erkundung einlädt. Sie bietet einen Einblick in die Vielfalt und den Charakter dieser belgischen Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        5.511192,
+                        50.859581
+                  ]
+            },
+            {
+                  "name": "Kinderrijck binnenspeeltuin",
+                  "text": "Dieses Themenpark in Bilzen bietet eine grüne Umgebung für Erholung und Spaziergänge im Freien. Es ist ein beliebtes Ziel für Besucher, die die Natur in dieser Region genießen möchten.",
+                  "category": "recreational",
+                  "coords": [
+                        5.509672,
+                        50.859704
+                  ]
+            },
+            {
+                  "name": "Kasteel Terwaart",
+                  "text": "Das Schloss Kasteel Terwaart ist ein historisches Gebäude in der Nähe von Bilzen. Das Bauwerk ist ein markantes Beispiel für die lokale Architektur und die regionale Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        5.493172,
+                        50.853477
+                  ]
+            },
+            {
+                  "name": "Borreberg",
+                  "text": "Diese Hügel in Bilzen ist eine bekannte lokale Sehenswürdigkeit, die Besucher zur Erkundung einlädt. Sie bietet einen Einblick in die Vielfalt und den Charakter dieser belgischen Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        5.518699,
+                        50.868615
+                  ]
+            },
+            {
+                  "name": "Park Haffmans",
+                  "text": "Dieses Park in Bilzen bietet eine grüne Umgebung für Erholung und Spaziergänge im Freien. Es ist ein beliebtes Ziel für Besucher, die die Natur in dieser Region genießen möchten.",
+                  "category": "park",
+                  "coords": [
+                        5.51658,
+                        50.866882
+                  ]
+            },
+            {
+                  "name": "Motmolen ruïne",
+                  "text": "Diese Ruine in Bilzen zeugt von der industriellen oder landwirtschaftlichen Vergangenheit der Gegend. Das Bauwerk liegt oft malerisch an einem Wasserlauf und ist ein interessantes Ziel für Wanderer.",
+                  "category": "historical",
+                  "coords": [
+                        5.505495,
+                        50.851956
+                  ]
+            },
+            {
+                  "name": "Oorlogsmonument",
+                  "text": "Dieses Denkmal in Bilzen erinnert an bedeutende Persönlichkeiten oder historische Ereignisse der Stadt. Es ist ein wichtiger Orientierungspunkt und ein Ort des Gedenkens für Einheimische.",
+                  "category": "historical",
+                  "coords": [
+                        5.516739,
+                        50.869361
+                  ]
+            },
+            {
+                  "name": "Railbike",
+                  "text": "Diese Attraktion bietet Besuchern die Möglichkeit, mit Fahrrädern auf einer stillgelegten Eisenbahnstrecke durch die Limburger Landschaft zu fahren. Die Route führt von Munsterbilzen nach Eigenbilzen durch malerische Gebiete.",
+                  "category": "landmark",
+                  "coords": [
+                        5.529817,
+                        50.884595
+                  ]
+            },
+            {
+                  "name": "Renfortmolen",
+                  "text": "Diese Wassermühle in Bilzen zeugt von der industriellen oder landwirtschaftlichen Vergangenheit der Gegend. Das Bauwerk liegt oft malerisch an einem Wasserlauf und ist ein interessantes Ziel für Wanderer.",
+                  "category": "landmark",
+                  "coords": [
+                        5.497607,
+                        50.892513
+                  ]
+            },
+            {
+                  "name": "Sint-Remigiuskerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Bilzen. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.545488,
+                        50.864725
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Bilzen. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.535193,
+                        50.852405
+                  ]
+            },
+            {
+                  "name": "Sint-Adrianuskerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Bilzen. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.559355,
+                        50.873148
+                  ]
+            },
+            {
+                  "name": "Sint-Jozefkerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Bilzen. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.506426,
+                        50.896698
+                  ]
+            },
+            {
+                  "name": "Sint-Mauritiuskerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Bilzen. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.517672,
+                        50.870633
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Maria Middelareskerk",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Bilzen. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.482573,
+                        50.8694
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekapel",
+                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Bilzen. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        5.51221,
+                        50.897666
+                  ]
+            },
+            {
+                  "name": "Bilzermolen",
+                  "text": "Diese Wassermühle in Bilzen zeugt von der industriellen oder landwirtschaftlichen Vergangenheit der Gegend. Das Bauwerk liegt oft malerisch an einem Wasserlauf und ist ein interessantes Ziel für Wanderer.",
+                  "category": "landmark",
+                  "coords": [
+                        5.517967,
+                        50.866925
+                  ]
+            },
+            {
+                  "name": "Broekemmolen",
+                  "text": "Die Broekemmolen ist eine historische Wassermühle am Ufer der Demer in Bilzen. Besucher können hier die traditionelle Mühlentechnik in einer malerischen Umgebung bewundern.",
+                  "category": "landmark",
+                  "coords": [
+                        5.51715,
+                        50.88252
+                  ]
+            },
+            {
+                  "name": "Sint-Antoniuskapel",
+                  "text": "Die Sint-Antoniuskapel ist eine kleine, charmante Wegkapelle im Stadtgebiet von Bilzen. Sie dient als Ort der Ruhe und Besinnung für Wanderer und Einheimische.",
+                  "category": "landmark",
+                  "coords": [
+                        5.547512,
+                        50.875847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasteel Edelhof",
+                  "text": "A(z) Kasteel Edelhof kastély egy történelmi épület Bilzen közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.527318,
+                        50.889781
+                  ]
+            },
+            {
+                  "name": "Kasteel van Groenendaal",
+                  "text": "A(z) Kasteel van Groenendaal kastély egy történelmi épület Bilzen közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.548106,
+                        50.887304
+                  ]
+            },
+            {
+                  "name": "Kasteel Weyer",
+                  "text": "A(z) Kasteel Weyer kastély egy történelmi épület Bilzen közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.495873,
+                        50.850538
+                  ]
+            },
+            {
+                  "name": "Ruine van Jonckholt",
+                  "text": "Ez a Bilzenben található régészeti lelőhely egy középkori vízi vár feltárt alapjait mutatja be. Információs táblák magyarázzák az egykori védelmi rendszer történetét a természet lágy ölén.",
+                  "category": "castle",
+                  "coords": [
+                        5.55519,
+                        50.877869
+                  ]
+            },
+            {
+                  "name": "Abdissenkwartier",
+                  "text": "Ez a Bilzen városában található kolostorépület egy ismert helyi látványosság, amely felfedezésre hívja a látogatókat. Betekintést nyújt ennek a belga városnak a sokszínűségébe és karakterébe.",
+                  "category": "religious",
+                  "coords": [
+                        5.525496,
+                        50.889485
+                  ]
+            },
+            {
+                  "name": "Dierenparkje Katteberg",
+                  "text": "Ez a Bilzen városában található állatkert egy ismert helyi látványosság, amely felfedezésre hívja a látogatókat. Betekintést nyújt ennek a belga városnak a sokszínűségébe és karakterébe.",
+                  "category": "recreational",
+                  "coords": [
+                        5.511192,
+                        50.859581
+                  ]
+            },
+            {
+                  "name": "Kinderrijck binnenspeeltuin",
+                  "text": "Ez a Bilzen területén található élménypark zöld környezetet biztosít a kikapcsolódáshoz és a szabadtéri sétákhoz. Kedvelt célpont a látogatók számára, akik élvezni szeretnék a régió természetét.",
+                  "category": "recreational",
+                  "coords": [
+                        5.509672,
+                        50.859704
+                  ]
+            },
+            {
+                  "name": "Kasteel Terwaart",
+                  "text": "A(z) Kasteel Terwaart kastély egy történelmi épület Bilzen közelében. Az építmény a helyi építészet és a regionális történelem egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        5.493172,
+                        50.853477
+                  ]
+            },
+            {
+                  "name": "Borreberg",
+                  "text": "Ez a Bilzen városában található domb egy ismert helyi látványosság, amely felfedezésre hívja a látogatókat. Betekintést nyújt ennek a belga városnak a sokszínűségébe és karakterébe.",
+                  "category": "natural",
+                  "coords": [
+                        5.518699,
+                        50.868615
+                  ]
+            },
+            {
+                  "name": "Park Haffmans",
+                  "text": "Ez a Bilzen területén található park zöld környezetet biztosít a kikapcsolódáshoz és a szabadtéri sétákhoz. Kedvelt célpont a látogatók számára, akik élvezni szeretnék a régió természetét.",
+                  "category": "park",
+                  "coords": [
+                        5.51658,
+                        50.866882
+                  ]
+            },
+            {
+                  "name": "Motmolen ruïne",
+                  "text": "Ez a Bilzen városában található rom a környék ipari vagy mezőgazdasági múltjáról tanúskodik. Az építmény gyakran festői módon egy vízfolyás mellett fekszik, és érdekes célpont a túrázók számára.",
+                  "category": "historical",
+                  "coords": [
+                        5.505495,
+                        50.851956
+                  ]
+            },
+            {
+                  "name": "Oorlogsmonument",
+                  "text": "Ez a Bilzen városában található emlékmű a város jelentős személyiségeinek vagy történelmi eseményeinek állít emléket. Fontos tájékozódási pont és az emlékezés helyszíne a helyiek számára.",
+                  "category": "historical",
+                  "coords": [
+                        5.516739,
+                        50.869361
+                  ]
+            },
+            {
+                  "name": "Railbike",
+                  "text": "Ez a látványosság lehetőséget kínál a látogatóknak, hogy kerékpárokkal közlekedjenek egy elhagyatott vasútvonalon a limburgi tájon keresztül. Az útvonal Munsterbilzenből Eigenbilzenbe vezet festői területeken át.",
+                  "category": "landmark",
+                  "coords": [
+                        5.529817,
+                        50.884595
+                  ]
+            },
+            {
+                  "name": "Renfortmolen",
+                  "text": "Ez a Bilzen városában található vízimalom a környék ipari vagy mezőgazdasági múltjáról tanúskodik. Az építmény gyakran festői módon egy vízfolyás mellett fekszik, és érdekes célpont a túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        5.497607,
+                        50.892513
+                  ]
+            },
+            {
+                  "name": "Sint-Remigiuskerk",
+                  "text": "Ez a(z) Bilzen városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.545488,
+                        50.864725
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "Ez a(z) Bilzen városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.535193,
+                        50.852405
+                  ]
+            },
+            {
+                  "name": "Sint-Adrianuskerk",
+                  "text": "Ez a(z) Bilzen városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.559355,
+                        50.873148
+                  ]
+            },
+            {
+                  "name": "Sint-Jozefkerk",
+                  "text": "Ez a(z) Bilzen városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.506426,
+                        50.896698
+                  ]
+            },
+            {
+                  "name": "Sint-Mauritiuskerk",
+                  "text": "Ez a(z) Bilzen városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.517672,
+                        50.870633
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Maria Middelareskerk",
+                  "text": "Ez a(z) Bilzen városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.482573,
+                        50.8694
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekapel",
+                  "text": "Ez a(z) Bilzen városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        5.51221,
+                        50.897666
+                  ]
+            },
+            {
+                  "name": "Bilzermolen",
+                  "text": "Ez a Bilzen városában található vízimalom a környék ipari vagy mezőgazdasági múltjáról tanúskodik. Az építmény gyakran festői módon egy vízfolyás mellett fekszik, és érdekes célpont a túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        5.517967,
+                        50.866925
+                  ]
+            },
+            {
+                  "name": "Broekemmolen",
+                  "text": "A Broekemmolen egy történelmi vízimalom a Demer folyó partján, Bilzen városában. A látogatók egy festői környezetben csodálhatják meg a hagyományos malomtechnológiát.",
+                  "category": "landmark",
+                  "coords": [
+                        5.51715,
+                        50.88252
+                  ]
+            },
+            {
+                  "name": "Sint-Antoniuskapel",
+                  "text": "A Sint-Antoniuskapel egy apró, bájos útmenti kápolna Bilzen területén. A helyi lakosok és a kirándulók számára a nyugalom és az elmélyülés helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        5.547512,
+                        50.875847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasteel Edelhof",
+                  "text": "Acest castel Kasteel Edelhof este o clădire istorică situată în apropiere de Bilzen. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.527318,
+                        50.889781
+                  ]
+            },
+            {
+                  "name": "Kasteel van Groenendaal",
+                  "text": "Acest castel Kasteel van Groenendaal este o clădire istorică situată în apropiere de Bilzen. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.548106,
+                        50.887304
+                  ]
+            },
+            {
+                  "name": "Kasteel Weyer",
+                  "text": "Acest castel Kasteel Weyer este o clădire istorică situată în apropiere de Bilzen. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.495873,
+                        50.850538
+                  ]
+            },
+            {
+                  "name": "Ruine van Jonckholt",
+                  "text": "Acest sit arheologic din Bilzen prezintă fundațiile excavate ale unui castel medieval cu șanțuri de apă. Panourile informative explică istoria fostei fortificații situate în mijlocul naturii.",
+                  "category": "castle",
+                  "coords": [
+                        5.55519,
+                        50.877869
+                  ]
+            },
+            {
+                  "name": "Abdissenkwartier",
+                  "text": "Această clădire a mănăstirii din Bilzen este o atracție locală cunoscută care invită vizitatorii la explorare. Oferă o perspectivă asupra diversității și caracterului acestui oraș belgian.",
+                  "category": "religious",
+                  "coords": [
+                        5.525496,
+                        50.889485
+                  ]
+            },
+            {
+                  "name": "Dierenparkje Katteberg",
+                  "text": "Această grădină zoologică din Bilzen este o atracție locală cunoscută care invită vizitatorii la explorare. Oferă o perspectivă asupra diversității și caracterului acestui oraș belgian.",
+                  "category": "recreational",
+                  "coords": [
+                        5.511192,
+                        50.859581
+                  ]
+            },
+            {
+                  "name": "Kinderrijck binnenspeeltuin",
+                  "text": "Acest parc tematic din Bilzen oferă un mediu verde pentru recreere și plimbări în aer liber. Este o destinație populară pentru vizitatorii care doresc să se bucure de natura din această regiune.",
+                  "category": "recreational",
+                  "coords": [
+                        5.509672,
+                        50.859704
+                  ]
+            },
+            {
+                  "name": "Kasteel Terwaart",
+                  "text": "Acest castel Kasteel Terwaart este o clădire istorică situată în apropiere de Bilzen. Structura reprezintă un exemplu remarcabil al arhitecturii locale și al istoriei regionale.",
+                  "category": "castle",
+                  "coords": [
+                        5.493172,
+                        50.853477
+                  ]
+            },
+            {
+                  "name": "Borreberg",
+                  "text": "Această deal din Bilzen este o atracție locală cunoscută care invită vizitatorii la explorare. Oferă o perspectivă asupra diversității și caracterului acestui oraș belgian.",
+                  "category": "natural",
+                  "coords": [
+                        5.518699,
+                        50.868615
+                  ]
+            },
+            {
+                  "name": "Park Haffmans",
+                  "text": "Acest parc din Bilzen oferă un mediu verde pentru recreere și plimbări în aer liber. Este o destinație populară pentru vizitatorii care doresc să se bucure de natura din această regiune.",
+                  "category": "park",
+                  "coords": [
+                        5.51658,
+                        50.866882
+                  ]
+            },
+            {
+                  "name": "Motmolen ruïne",
+                  "text": "Această ruine din Bilzen atestă trecutul industrial sau agricol al zonei. Structura este adesea situată pitoresc lângă un curs de apă și reprezintă o destinație interesantă pentru excursioniști.",
+                  "category": "historical",
+                  "coords": [
+                        5.505495,
+                        50.851956
+                  ]
+            },
+            {
+                  "name": "Oorlogsmonument",
+                  "text": "Acest monument din Bilzen onorează personalități importante sau evenimente istorice ale orașului. Este un punct de reper important și un loc de comemorare pentru localnici.",
+                  "category": "historical",
+                  "coords": [
+                        5.516739,
+                        50.869361
+                  ]
+            },
+            {
+                  "name": "Railbike",
+                  "text": "Această atracție oferă vizitatorilor posibilitatea de a merge cu bicicleta pe o cale ferată dezafectată prin peisajul din Limburg. Traseul duce de la Munsterbilzen la Eigenbilzen prin zone pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        5.529817,
+                        50.884595
+                  ]
+            },
+            {
+                  "name": "Renfortmolen",
+                  "text": "Această moară de apă din Bilzen atestă trecutul industrial sau agricol al zonei. Structura este adesea situată pitoresc lângă un curs de apă și reprezintă o destinație interesantă pentru excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        5.497607,
+                        50.892513
+                  ]
+            },
+            {
+                  "name": "Sint-Remigiuskerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Bilzen. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.545488,
+                        50.864725
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Bilzen. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.535193,
+                        50.852405
+                  ]
+            },
+            {
+                  "name": "Sint-Adrianuskerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Bilzen. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.559355,
+                        50.873148
+                  ]
+            },
+            {
+                  "name": "Sint-Jozefkerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Bilzen. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.506426,
+                        50.896698
+                  ]
+            },
+            {
+                  "name": "Sint-Mauritiuskerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Bilzen. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.517672,
+                        50.870633
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Maria Middelareskerk",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Bilzen. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.482573,
+                        50.8694
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekapel",
+                  "text": "Acest lăcaș de cult este un edificiu religios important din Bilzen. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        5.51221,
+                        50.897666
+                  ]
+            },
+            {
+                  "name": "Bilzermolen",
+                  "text": "Această moară de apă din Bilzen atestă trecutul industrial sau agricol al zonei. Structura este adesea situată pitoresc lângă un curs de apă și reprezintă o destinație interesantă pentru excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        5.517967,
+                        50.866925
+                  ]
+            },
+            {
+                  "name": "Broekemmolen",
+                  "text": "Broekemmolen este o moară de apă istorică situată pe malul râului Demer în Bilzen. Vizitatorii pot admira aici tehnologia tradițională de măcinare într-un cadru pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        5.51715,
+                        50.88252
+                  ]
+            },
+            {
+                  "name": "Sint-Antoniuskapel",
+                  "text": "Sint-Antoniuskapel este o mică și fermecătoare capelă de pe marginea drumului din Bilzen. Aceasta servește ca loc de liniște și reflecție pentru drumeți și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        5.547512,
+                        50.875847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasteel Edelhof",
+                  "text": "The Kasteel Edelhof castle is a historic building located near Bilzen. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.527318,
+                        50.889781
+                  ]
+            },
+            {
+                  "name": "Kasteel van Groenendaal",
+                  "text": "The Kasteel van Groenendaal castle is a historic building located near Bilzen. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.548106,
+                        50.887304
+                  ]
+            },
+            {
+                  "name": "Kasteel Weyer",
+                  "text": "The Kasteel Weyer castle is a historic building located near Bilzen. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.495873,
+                        50.850538
+                  ]
+            },
+            {
+                  "name": "Ruine van Jonckholt",
+                  "text": "This archaeological site in Bilzen features the excavated foundations of a medieval moated castle. Information boards explain the history of the former fortification set in nature.",
+                  "category": "castle",
+                  "coords": [
+                        5.55519,
+                        50.877869
+                  ]
+            },
+            {
+                  "name": "Abdissenkwartier",
+                  "text": "This monastery building in Bilzen is a well-known local attraction that invites visitors to explore. It offers an insight into the diversity and character of this Belgian city.",
+                  "category": "religious",
+                  "coords": [
+                        5.525496,
+                        50.889485
+                  ]
+            },
+            {
+                  "name": "Dierenparkje Katteberg",
+                  "text": "This zoo in Bilzen is a well-known local attraction that invites visitors to explore. It offers an insight into the diversity and character of this Belgian city.",
+                  "category": "recreational",
+                  "coords": [
+                        5.511192,
+                        50.859581
+                  ]
+            },
+            {
+                  "name": "Kinderrijck binnenspeeltuin",
+                  "text": "This theme park in Bilzen offers a green environment for recreation and outdoor walks. It is a popular destination for visitors wishing to enjoy the nature of this region.",
+                  "category": "recreational",
+                  "coords": [
+                        5.509672,
+                        50.859704
+                  ]
+            },
+            {
+                  "name": "Kasteel Terwaart",
+                  "text": "The Kasteel Terwaart castle is a historic building located near Bilzen. The structure stands as a prominent example of local architecture and regional history.",
+                  "category": "castle",
+                  "coords": [
+                        5.493172,
+                        50.853477
+                  ]
+            },
+            {
+                  "name": "Borreberg",
+                  "text": "This hill in Bilzen is a well-known local attraction that invites visitors to explore. It offers an insight into the diversity and character of this Belgian city.",
+                  "category": "natural",
+                  "coords": [
+                        5.518699,
+                        50.868615
+                  ]
+            },
+            {
+                  "name": "Park Haffmans",
+                  "text": "This park in Bilzen offers a green environment for recreation and outdoor walks. It is a popular destination for visitors wishing to enjoy the nature of this region.",
+                  "category": "park",
+                  "coords": [
+                        5.51658,
+                        50.866882
+                  ]
+            },
+            {
+                  "name": "Motmolen ruïne",
+                  "text": "This ruins in Bilzen bears witness to the industrial or agricultural past of the area. The structure is often picturesquely located near a watercourse and is an interesting destination for hikers.",
+                  "category": "historical",
+                  "coords": [
+                        5.505495,
+                        50.851956
+                  ]
+            },
+            {
+                  "name": "Oorlogsmonument",
+                  "text": "This monument in Bilzen honors significant figures or historical events of the city. It is an important landmark and a place of remembrance for locals.",
+                  "category": "historical",
+                  "coords": [
+                        5.516739,
+                        50.869361
+                  ]
+            },
+            {
+                  "name": "Railbike",
+                  "text": "This attraction offers visitors the chance to cycle on a disused railway line through the Limburg landscape. The route runs from Munsterbilzen to Eigenbilzen through picturesque areas.",
+                  "category": "landmark",
+                  "coords": [
+                        5.529817,
+                        50.884595
+                  ]
+            },
+            {
+                  "name": "Renfortmolen",
+                  "text": "This watermill in Bilzen bears witness to the industrial or agricultural past of the area. The structure is often picturesquely located near a watercourse and is an interesting destination for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        5.497607,
+                        50.892513
+                  ]
+            },
+            {
+                  "name": "Sint-Remigiuskerk",
+                  "text": "This place of worship is a significant religious structure located in Bilzen. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.545488,
+                        50.864725
+                  ]
+            },
+            {
+                  "name": "Sint-Martinuskerk",
+                  "text": "This place of worship is a significant religious structure located in Bilzen. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.535193,
+                        50.852405
+                  ]
+            },
+            {
+                  "name": "Sint-Adrianuskerk",
+                  "text": "This place of worship is a significant religious structure located in Bilzen. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.559355,
+                        50.873148
+                  ]
+            },
+            {
+                  "name": "Sint-Jozefkerk",
+                  "text": "This place of worship is a significant religious structure located in Bilzen. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.506426,
+                        50.896698
+                  ]
+            },
+            {
+                  "name": "Sint-Mauritiuskerk",
+                  "text": "This place of worship is a significant religious structure located in Bilzen. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.517672,
+                        50.870633
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Maria Middelareskerk",
+                  "text": "This place of worship is a significant religious structure located in Bilzen. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.482573,
+                        50.8694
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwekapel",
+                  "text": "This place of worship is a significant religious structure located in Bilzen. It serves as a place of reflection and is known in the region for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.51221,
+                        50.897666
+                  ]
+            },
+            {
+                  "name": "Bilzermolen",
+                  "text": "This watermill in Bilzen bears witness to the industrial or agricultural past of the area. The structure is often picturesquely located near a watercourse and is an interesting destination for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        5.517967,
+                        50.866925
+                  ]
+            },
+            {
+                  "name": "Broekemmolen",
+                  "text": "The Broekemmolen is a historic watermill located on the banks of the Demer in Bilzen. Visitors can admire the traditional milling technology in a picturesque setting.",
+                  "category": "landmark",
+                  "coords": [
+                        5.51715,
+                        50.88252
+                  ]
+            },
+            {
+                  "name": "Sint-Antoniuskapel",
+                  "text": "The Sint-Antoniuskapel is a small, charming wayside chapel located in Bilzen. It serves as a place of quiet and reflection for hikers and locals alike.",
+                  "category": "landmark",
+                  "coords": [
+                        5.547512,
+                        50.875847
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "city",
     name: { de: "Bilzen", hu: "Bilzen", ro: "Bilzen", en: "Bilzen"},
@@ -45481,6 +53032,114 @@ imageHint: "Knokke luxury storefronts and beach",
                         2.869114,
                         51.034812
                   ]
+            },
+            {
+                  "name": "Dodengang",
+                  "text": "Der Totengang in Diksmuide ist ein erhaltenes System von Schützengräben aus dem Ersten Weltkrieg. Besucher können hier die beklemmende Atmosphäre der Frontlinie an der Yser nachempfinden.",
+                  "category": "museum",
+                  "coords": [
+                        2.84422,
+                        51.046843
+                  ]
+            },
+            {
+                  "name": "CC Kruispunt",
+                  "text": "Das CC Kruispunt ist das kulturelle Zentrum und Theater der Stadt Diksmuide. Es bietet ein vielfältiges Programm an Aufführungen, Konzerten und künstlerischen Veranstaltungen für die Region.",
+                  "category": "cultural",
+                  "coords": [
+                        2.865098,
+                        51.031385
+                  ]
+            },
+            {
+                  "name": "Begijnhof",
+                  "text": "Der Begijnhof in Diksmuide ist eine historische Stätte, die an das Leben der Beginengemeinschaft erinnert. Die Anlage umfasst malerische Gebäude und Gärten, die heute als archäologisches Erbe geschützt sind.",
+                  "category": "historical",
+                  "coords": [
+                        2.863003,
+                        51.035465
+                  ]
+            },
+            {
+                  "name": "Museum aan de IJzer",
+                  "text": "Das Museum an der Yser befindet sich im markanten Yserturm in Diksmuide und thematisiert Krieg und Frieden. Es dokumentiert die Geschichte der belgischen Front im Ersten Weltkrieg und die flämische Emanzipation.",
+                  "category": "museum",
+                  "coords": [
+                        2.852837,
+                        51.031889
+                  ]
+            },
+            {
+                  "name": "Esenkasteel",
+                  "text": "Das Esenkasteel in Diksmuide ist ein elegantes Herrenhaus, das heute als regionales Haus dient. Es ist von einem weitläufigen Park umgeben, der ideal für Spaziergänge in einer ruhigen Umgebung ist.",
+                  "category": "historical",
+                  "coords": [
+                        2.8639,
+                        51.021575
+                  ]
+            },
+            {
+                  "name": "Rogette Jonkiere",
+                  "text": "Die Galerie Rogette Jonkiere in Diksmuide präsentiert zeitgenössische Kunstwerke lokaler und regionaler Künstler. Kunstliebhaber können hier wechselnde Ausstellungen in einer einladenden Atmosphäre besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        2.877425,
+                        51.031411
+                  ]
+            },
+            {
+                  "name": "Vismarkt",
+                  "text": "Der Vismarkt ist ein historischer Platz in Diksmuide, der einst der Mittelpunkt des Fischhandels war. Heute ist er ein beliebter Ort für Besucher, um die Atmosphäre der Altstadt zu genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        2.864071,
+                        51.034919
+                  ]
+            },
+            {
+                  "name": "The Orchestra",
+                  "text": "Das Denkmal 'Das Orchester' in Diksmuide ehrt musikalische Traditionen oder bestimmte historische Persönlichkeiten. Es ist ein markanter Treffpunkt in der Stadt und ein Beispiel lokaler Gedenkkunst.",
+                  "category": "historical",
+                  "coords": [
+                        2.867704,
+                        51.033915
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "Die Sint-Pieterskerk in Diksmuide ist ein bedeutendes religiöses Bauwerk mit einer langen Geschichte. Besucher können die architektonischen Details und die sakrale Kunst im Inneren des Gebäudes bewundern.",
+                  "category": "religious",
+                  "coords": [
+                        2.902908,
+                        51.029655
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Die Sint-Niklaaskerk ist die Hauptkirche von Diksmuide und prägt mit ihrem Turm das Stadtbild. Nach ihrer Zerstörung im Krieg wurde sie originalgetreu wiederaufgebaut und beherbergt wertvolle Kunstwerke.",
+                  "category": "religious",
+                  "coords": [
+                        2.864739,
+                        51.034018
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "Die Sint-Jacobskerk befindet sich im Ortsteil Sint-Jacobs-Kapelle bei Diksmuide. Diese historische Kirche dient als lokales Gotteshaus und ist ein ruhiges Ziel für architektonisch Interessierte.",
+                  "category": "religious",
+                  "coords": [
+                        2.833984,
+                        51.015875
+                  ]
+            },
+            {
+                  "name": "Kapel Onze-Lieve-Vrouw-ter-Hulpe",
+                  "text": "Die Kapelle Onze-Lieve-Vrouw-ter-Hulpe in Diksmuide ist ein kleiner, aber bedeutender Ort der Andacht. Sie ist bekannt für ihre ruhige Atmosphäre und wird oft von Gläubigen und Besuchern zur Besinnung aufgesucht.",
+                  "category": "religious",
+                  "coords": [
+                        2.884478,
+                        51.030241
+                  ]
             }
       ],
       "hu": [
@@ -45509,6 +53168,114 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         2.869114,
                         51.034812
+                  ]
+            },
+            {
+                  "name": "Dodengang",
+                  "text": "A diksmuidei Halálárok az első világháborúból fennmaradt lövészárokrendszer. A látogatók itt átélhetik az Yser-menti frontvonal nyomasztó hangulatát.",
+                  "category": "museum",
+                  "coords": [
+                        2.84422,
+                        51.046843
+                  ]
+            },
+            {
+                  "name": "CC Kruispunt",
+                  "text": "A CC Kruispunt Diksmuide városának kulturális központja és színháza. Előadások, koncertek és művészeti események változatos programját kínálja a régió számára.",
+                  "category": "cultural",
+                  "coords": [
+                        2.865098,
+                        51.031385
+                  ]
+            },
+            {
+                  "name": "Begijnhof",
+                  "text": "A diksmuidei Begijnhof egy történelmi helyszín, amely a begina közösség életére emlékeztet. A terület festői épületeket és kerteket foglal magában, amelyeket ma régészeti örökségként védenek.",
+                  "category": "historical",
+                  "coords": [
+                        2.863003,
+                        51.035465
+                  ]
+            },
+            {
+                  "name": "Museum aan de IJzer",
+                  "text": "Az Yser-menti Múzeum a diksmuidei Yser-toronyban található, és a háború és béke témáját dolgozza fel. Dokumentálja a belga front történetét az első világháborúban és a flamand önrendelkezést.",
+                  "category": "museum",
+                  "coords": [
+                        2.852837,
+                        51.031889
+                  ]
+            },
+            {
+                  "name": "Esenkasteel",
+                  "text": "A diksmuidei Esenkasteel egy elegáns kúria, amely ma régióházként szolgál. Egy kiterjedt park veszi körül, amely ideális sétákhoz nyugodt környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        2.8639,
+                        51.021575
+                  ]
+            },
+            {
+                  "name": "Rogette Jonkiere",
+                  "text": "A diksmuidei Rogette Jonkiere galéria helyi és regionális művészek kortárs alkotásait mutatja be. A művészetkedvelők változó kiállításokat tekinthetnek meg itt, barátságos környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        2.877425,
+                        51.031411
+                  ]
+            },
+            {
+                  "name": "Vismarkt",
+                  "text": "A Vismarkt egy történelmi tér Diksmuide-ban, amely egykor a halkereskedelem központja volt. Ma a látogatók kedvelt helyszíne, ahol élvezhetik az óváros hangulatát.",
+                  "category": "landmark",
+                  "coords": [
+                        2.864071,
+                        51.034919
+                  ]
+            },
+            {
+                  "name": "The Orchestra",
+                  "text": "A 'Zenekar' emlékmű Diksmuide-ban a zenei hagyományok vagy bizonyos történelmi személyiségek előtt tiszteleg. A város egyik jellegzetes találkozóhelye és a helyi emlékművészet példája.",
+                  "category": "historical",
+                  "coords": [
+                        2.867704,
+                        51.033915
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "A diksmuidei Szent Péter-templom egy jelentős vallási épület, amely hosszú múltra tekint vissza. A látogatók megcsodálhatják az épület építészeti részleteit és a belső szakrális művészetet.",
+                  "category": "religious",
+                  "coords": [
+                        2.902908,
+                        51.029655
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "A Szent Miklós-templom Diksmuide főtemploma, amelynek tornya meghatározza a városképet. A háborús pusztítás után hűen újjáépítették, és értékes műalkotásoknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        2.864739,
+                        51.034018
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "A Szent Jakab-templom Diksmuide közelében, Sint-Jacobs-Kapelle településrészen található. Ez a történelmi templom helyi istentiszteleti helyként szolgál és csendes úticél az építészet iránt érdeklődőknek.",
+                  "category": "religious",
+                  "coords": [
+                        2.833984,
+                        51.015875
+                  ]
+            },
+            {
+                  "name": "Kapel Onze-Lieve-Vrouw-ter-Hulpe",
+                  "text": "A diksmuidei Onze-Lieve-Vrouw-ter-Hulpe kápolna egy kicsi, de jelentős áhítati hely. Nyugodt hangulatáról ismert, a hívők és a látogatók gyakran keresik fel elcsendesedés céljából.",
+                  "category": "religious",
+                  "coords": [
+                        2.884478,
+                        51.030241
                   ]
             }
       ],
@@ -45539,6 +53306,114 @@ imageHint: "Knokke luxury storefronts and beach",
                         2.869114,
                         51.034812
                   ]
+            },
+            {
+                  "name": "Dodengang",
+                  "text": "Culoarul Morții din Diksmuide este un sistem păstrat de tranșee din Primul Război Mondial. Vizitatorii pot simți aici atmosfera apăsătoare a liniei frontului de pe râul Yser.",
+                  "category": "museum",
+                  "coords": [
+                        2.84422,
+                        51.046843
+                  ]
+            },
+            {
+                  "name": "CC Kruispunt",
+                  "text": "CC Kruispunt este centrul cultural și teatrul orașului Diksmuide. Acesta oferă un program diversificat de spectacole, concerte și evenimente artistice pentru regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        2.865098,
+                        51.031385
+                  ]
+            },
+            {
+                  "name": "Begijnhof",
+                  "text": "Begijnhof din Diksmuide este un sit istoric ce amintește de viața comunității beguinelor. Complexul cuprinde clădiri și grădini pitorești, protejate astăzi ca patrimoniu arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        2.863003,
+                        51.035465
+                  ]
+            },
+            {
+                  "name": "Museum aan de IJzer",
+                  "text": "Muzeul de pe Yser este situat în turnul Yser din Diksmuide și abordează temele războiului și păcii. Acesta documentează istoria frontului belgian din Primul Război Mondial și emanciparea flamandă.",
+                  "category": "museum",
+                  "coords": [
+                        2.852837,
+                        51.031889
+                  ]
+            },
+            {
+                  "name": "Esenkasteel",
+                  "text": "Esenkasteel din Diksmuide este un conac elegant care servește astăzi drept casă regională. Este înconjurat de un parc vast, ideal pentru plimbări într-un mediu liniștit.",
+                  "category": "historical",
+                  "coords": [
+                        2.8639,
+                        51.021575
+                  ]
+            },
+            {
+                  "name": "Rogette Jonkiere",
+                  "text": "Galeria Rogette Jonkiere din Diksmuide prezintă opere de artă contemporană ale artiștilor locali și regionali. Iubitorii de artă pot vizita aici expoziții temporare într-o atmosferă primitoare.",
+                  "category": "museum",
+                  "coords": [
+                        2.877425,
+                        51.031411
+                  ]
+            },
+            {
+                  "name": "Vismarkt",
+                  "text": "Vismarkt este o piață istorică din Diksmuide, care a fost odinioară centrul comerțului cu pește. Astăzi este un loc popular pentru vizitatori, care se pot bucura de atmosfera centrului vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        2.864071,
+                        51.034919
+                  ]
+            },
+            {
+                  "name": "The Orchestra",
+                  "text": "Monumentul 'Orchestra' din Diksmuide onorează tradițiile muzicale sau anumite personalități istorice. Este un punct de întâlnire marcant în oraș și un exemplu de artă comemorativă locală.",
+                  "category": "historical",
+                  "coords": [
+                        2.867704,
+                        51.033915
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "Sint-Pieterskerk din Diksmuide este un edificiu religios important cu o istorie îndelungată. Vizitatorii pot admira detaliile arhitecturale și arta sacră din interiorul clădirii.",
+                  "category": "religious",
+                  "coords": [
+                        2.902908,
+                        51.029655
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Sint-Niklaaskerk este biserica principală din Diksmuide și domină peisajul urban cu turnul său. După distrugerea sa în război, a fost reconstruită fidel și adăpostește opere de artă valoroase.",
+                  "category": "religious",
+                  "coords": [
+                        2.864739,
+                        51.034018
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "Sint-Jacobskerk este situată în districtul Sint-Jacobs-Kapelle de lângă Diksmuide. Această biserică istorică servește ca lăcaș de cult local și este o destinație liniștită pentru cei interesați de arhitectură.",
+                  "category": "religious",
+                  "coords": [
+                        2.833984,
+                        51.015875
+                  ]
+            },
+            {
+                  "name": "Kapel Onze-Lieve-Vrouw-ter-Hulpe",
+                  "text": "Capela Onze-Lieve-Vrouw-ter-Hulpe din Diksmuide este un mic dar important loc de devoțiune. Este cunoscută pentru atmosfera sa liniștită și este adesea vizitată de credincioși și turiști pentru reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        2.884478,
+                        51.030241
+                  ]
             }
       ],
       "en": [
@@ -45567,6 +53442,114 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         2.869114,
                         51.034812
+                  ]
+            },
+            {
+                  "name": "Trench of Death",
+                  "text": "The Trench of Death in Diksmuide is a preserved system of trenches from the First World War. Visitors can experience the oppressive atmosphere of the frontline along the Yser river.",
+                  "category": "museum",
+                  "coords": [
+                        2.84422,
+                        51.046843
+                  ]
+            },
+            {
+                  "name": "CC Kruispunt",
+                  "text": "CC Kruispunt is the cultural center and theatre of the city of Diksmuide. It offers a diverse program of performances, concerts, and artistic events for the region.",
+                  "category": "cultural",
+                  "coords": [
+                        2.865098,
+                        51.031385
+                  ]
+            },
+            {
+                  "name": "Begijnhof",
+                  "text": "The Begijnhof in Diksmuide is a historical site reflecting the life of the Beguine community. The area includes picturesque buildings and gardens, now protected as archaeological heritage.",
+                  "category": "historical",
+                  "coords": [
+                        2.863003,
+                        51.035465
+                  ]
+            },
+            {
+                  "name": "Museum aan de IJzer",
+                  "text": "The Museum aan de IJzer is located in the iconic Yser Tower in Diksmuide and focuses on war and peace. It documents the history of the Belgian front in WWI and Flemish emancipation.",
+                  "category": "museum",
+                  "coords": [
+                        2.852837,
+                        51.031889
+                  ]
+            },
+            {
+                  "name": "Esenkasteel",
+                  "text": "The Esenkasteel in Diksmuide is an elegant manor house that now serves as a regional house. It is surrounded by an extensive park, ideal for walks in a peaceful environment.",
+                  "category": "historical",
+                  "coords": [
+                        2.8639,
+                        51.021575
+                  ]
+            },
+            {
+                  "name": "Rogette Jonkiere",
+                  "text": "The Rogette Jonkiere gallery in Diksmuide presents contemporary artworks by local and regional artists. Art lovers can visit rotating exhibitions here in an inviting atmosphere.",
+                  "category": "museum",
+                  "coords": [
+                        2.877425,
+                        51.031411
+                  ]
+            },
+            {
+                  "name": "Vismarkt",
+                  "text": "The Vismarkt is a historical square in Diksmuide that was once the center of the fish trade. Today, it is a popular spot for visitors to enjoy the atmosphere of the old town.",
+                  "category": "landmark",
+                  "coords": [
+                        2.864071,
+                        51.034919
+                  ]
+            },
+            {
+                  "name": "The Orchestra",
+                  "text": "The Orchestra monument in Diksmuide honors musical traditions or specific historical figures. It is a prominent meeting point in the city and an example of local commemorative art.",
+                  "category": "historical",
+                  "coords": [
+                        2.867704,
+                        51.033915
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "The Sint-Pieterskerk in Diksmuide is an important religious building with a long history. Visitors can admire the architectural details and sacred art inside the building.",
+                  "category": "religious",
+                  "coords": [
+                        2.902908,
+                        51.029655
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "The Sint-Niklaaskerk is the main church of Diksmuide, and its tower defines the city skyline. After being destroyed in the war, it was faithfully rebuilt and houses valuable artworks.",
+                  "category": "religious",
+                  "coords": [
+                        2.864739,
+                        51.034018
+                  ]
+            },
+            {
+                  "name": "Sint-Jacobskerk",
+                  "text": "The Sint-Jacobskerk is located in the district of Sint-Jacobs-Kapelle near Diksmuide. This historical church serves as a local place of worship and is a quiet destination for those interested in architecture.",
+                  "category": "religious",
+                  "coords": [
+                        2.833984,
+                        51.015875
+                  ]
+            },
+            {
+                  "name": "Kapel Onze-Lieve-Vrouw-ter-Hulpe",
+                  "text": "The Kapel Onze-Lieve-Vrouw-ter-Hulpe in Diksmuide is a small but significant place of devotion. It is known for its peaceful atmosphere and is often visited by believers and tourists for reflection.",
+                  "category": "religious",
+                  "coords": [
+                        2.884478,
+                        51.030241
                   ]
             }
       ]
@@ -48108,7 +56091,340 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-eeklo-cities-v2.webp",
   },
   {
-    id: "belgium-enghien-cities-v2",
+    id: "belgium-enghien-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Motte de Brabant",
+                  "text": "Die Motte de Brabant ist eine archäologische Stätte in Enghien, die auf eine mittelalterliche Befestigung hinweist. Dieser künstlich aufgeschüttete Erdhügel ist ein Relikt aus der frühen Militärgeschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        4.042508,
+                        50.693514
+                  ]
+            },
+            {
+                  "name": "Motte féodale",
+                  "text": "Die Motte féodale in Enghien ist eine historische Verteidigungsanlage in Form eines Erdhügels. Archäologie-Interessierte können hier die Spuren mittelalterlicher Lehnsstrukturen erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        4.034368,
+                        50.670568
+                  ]
+            },
+            {
+                  "name": "Tour de la Chapelle Castrale",
+                  "text": "Der Tour de la Chapelle Castrale ist ein erhaltener Teil der ehemaligen Burg von Enghien. Der Turm bietet einen Einblick in die mittelalterliche Architektur und Verteidigungsstrategie der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        4.041523,
+                        50.691775
+                  ]
+            },
+            {
+                  "name": "Château Empain",
+                  "text": "Das Château Empain ist ein prächtiges Schloss im Park von Enghien. Es dient heute als Veranstaltungsort für kulturelle Events und bietet eine malerische Kulisse.",
+                  "category": "castle",
+                  "coords": [
+                        4.041904,
+                        50.689469
+                  ]
+            },
+            {
+                  "name": "Motte de Bornival",
+                  "text": "Die Motte de Bornival ist eine archäologische Fundstätte in Enghien, die einen alten befestigten Erdhügel markiert. Sie stellt ein wichtiges historisches Dokument für die mittelalterliche Siedlungsgeschichte dar.",
+                  "category": "historical",
+                  "coords": [
+                        4.016099,
+                        50.693995
+                  ]
+            },
+            {
+                  "name": "Parc d'Enghien - Park van Edingen",
+                  "text": "Der Parc d'Enghien ist eine weitläufige Parkanlage, die für ihre thematischen Gärten und historischen Gebäude bekannt ist. Besucher können dort lange Spaziergänge unternehmen und die friedliche Natur genießen.",
+                  "category": "park",
+                  "coords": [
+                        4.043348,
+                        50.686424
+                  ]
+            },
+            {
+                  "name": "Cours de Dessin",
+                  "text": "Das Cours de Dessin ist ein Kunstzentrum in Enghien, das Kreativität und Bildung fördert. Es befindet sich in einem historischen Gebäude und dient als Treffpunkt für Künstler und Interessierte.",
+                  "category": "cultural",
+                  "coords": [
+                        4.037779,
+                        50.693672
+                  ]
+            },
+            {
+                  "name": "Pavillon des Sept Étoiles",
+                  "text": "Der Pavillon des Sept Étoiles ist eine markante Sehenswürdigkeit im Park von Enghien. Das barocke Bauwerk bietet von seiner Position aus einen hervorragenden Blick auf die umliegenden Gartenachsen.",
+                  "category": "landmark",
+                  "coords": [
+                        4.047331,
+                        50.68757
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Église Saint-Martin ist die Hauptkirche von Enghien und ein Ort der Stille und Andacht. Besucher können das imposante Gebäude und die religiöse Kunst im Inneren besichtigen.",
+                  "category": "religious",
+                  "coords": [
+                        4.017824,
+                        50.69234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Motte de Brabant",
+                  "text": "A Motte de Brabant egy régészeti lelőhely Enghienben, amely egy középkori erődítményre utal. Ez a mesterségesen emelt földhalom a régió korai hadtörténetének emléke.",
+                  "category": "historical",
+                  "coords": [
+                        4.042508,
+                        50.693514
+                  ]
+            },
+            {
+                  "name": "Motte féodale",
+                  "text": "Az enghei-i Motte féodale egy történelmi védmű földhalom formájában. A régészet iránt érdeklődők itt felfedezhetik a középkori hűbéri struktúrák nyomait.",
+                  "category": "historical",
+                  "coords": [
+                        4.034368,
+                        50.670568
+                  ]
+            },
+            {
+                  "name": "Tour de la Chapelle Castrale",
+                  "text": "A Tour de la Chapelle Castrale az egykori enghien-i vár fennmaradt része. A torony betekintést nyújt a város középkori építészetébe és védelmi stratégiájába.",
+                  "category": "castle",
+                  "coords": [
+                        4.041523,
+                        50.691775
+                  ]
+            },
+            {
+                  "name": "Château Empain",
+                  "text": "A Château Empain egy pompás kastély Enghien parkjában. Ma kulturális események helyszíneként szolgál, és festői hátteret biztosít.",
+                  "category": "castle",
+                  "coords": [
+                        4.041904,
+                        50.689469
+                  ]
+            },
+            {
+                  "name": "Motte de Bornival",
+                  "text": "A Motte de Bornival egy régészeti lelőhely Enghienben, amely egy régi erődített földhalmot jelöl. Fontos történelmi dokumentum a középkori településtörténet szempontjából.",
+                  "category": "historical",
+                  "coords": [
+                        4.016099,
+                        50.693995
+                  ]
+            },
+            {
+                  "name": "Parc d'Enghien - Park van Edingen",
+                  "text": "A Parc d'Enghien egy kiterjedt park, amely tematikus kertjeiről és történelmi épületeiről ismert. A látogatók hosszú sétákat tehetnek itt, és élvezhetik a békés természetet.",
+                  "category": "park",
+                  "coords": [
+                        4.043348,
+                        50.686424
+                  ]
+            },
+            {
+                  "name": "Cours de Dessin",
+                  "text": "A Cours de Dessin egy művészeti központ Enghienben, amely a kreativitást és az oktatást ösztönzi. Egy történelmi épületben található, és művészek, valamint érdeklődők találkozóhelyeként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        4.037779,
+                        50.693672
+                  ]
+            },
+            {
+                  "name": "Pavillon des Sept Étoiles",
+                  "text": "A Pavillon des Sept Étoiles Enghien parkjának jellegzetes látnivalója. A barokk építmény kiváló kilátást nyújt a környező kerttengelyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        4.047331,
+                        50.68757
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Az Église Saint-Martin Enghien főtemploma, a csend és az áhítat helye. A látogatók megtekinthetik az impozáns épületet és a benne található vallási művészeti alkotásokat.",
+                  "category": "religious",
+                  "coords": [
+                        4.017824,
+                        50.69234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Motte de Brabant",
+                  "text": "Motte de Brabant este un sit arheologic din Enghien, care indică o fortificație medievală. Această movilă artificială de pământ este o relicvă din istoria militară timpurie a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        4.042508,
+                        50.693514
+                  ]
+            },
+            {
+                  "name": "Motte féodale",
+                  "text": "Motte féodale din Enghien este o fortificație istorică sub forma unei movile de pământ. Cei interesați de arheologie pot explora aici urmele structurilor feudale medievale.",
+                  "category": "historical",
+                  "coords": [
+                        4.034368,
+                        50.670568
+                  ]
+            },
+            {
+                  "name": "Tour de la Chapelle Castrale",
+                  "text": "Tour de la Chapelle Castrale este o parte conservată a fostului castel din Enghien. Turnul oferă o perspectivă asupra arhitecturii medievale și strategiei de apărare a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        4.041523,
+                        50.691775
+                  ]
+            },
+            {
+                  "name": "Château Empain",
+                  "text": "Château Empain este un castel magnific situat în parcul din Enghien. Astăzi servește ca loc de desfășurare pentru evenimente culturale și oferă un cadru pitoresc.",
+                  "category": "castle",
+                  "coords": [
+                        4.041904,
+                        50.689469
+                  ]
+            },
+            {
+                  "name": "Motte de Bornival",
+                  "text": "Motte de Bornival este un sit arheologic din Enghien, care marchează o veche movilă fortificată. Reprezintă un document istoric important pentru istoria așezărilor medievale.",
+                  "category": "historical",
+                  "coords": [
+                        4.016099,
+                        50.693995
+                  ]
+            },
+            {
+                  "name": "Parc d'Enghien - Park van Edingen",
+                  "text": "Parc d'Enghien este un parc vast, cunoscut pentru grădinile sale tematice și clădirile istorice. Vizitatorii pot face plimbări lungi acolo și se pot bucura de natura liniștită.",
+                  "category": "park",
+                  "coords": [
+                        4.043348,
+                        50.686424
+                  ]
+            },
+            {
+                  "name": "Cours de Dessin",
+                  "text": "Cours de Dessin este un centru de artă din Enghien care promovează creativitatea și educația. Se află într-o clădire istorică și servește ca loc de întâlnire pentru artiști și cei interesați.",
+                  "category": "cultural",
+                  "coords": [
+                        4.037779,
+                        50.693672
+                  ]
+            },
+            {
+                  "name": "Pavillon des Sept Étoiles",
+                  "text": "Pavillon des Sept Étoiles este o atracție proeminentă în parcul din Enghien. Edificiul baroc oferă o vedere excelentă asupra axelor grădinii din jur din poziția sa.",
+                  "category": "landmark",
+                  "coords": [
+                        4.047331,
+                        50.68757
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin este principala biserică din Enghien și un loc de liniște și rugăciune. Vizitatorii pot vedea clădirea impunătoare și arta religioasă din interior.",
+                  "category": "religious",
+                  "coords": [
+                        4.017824,
+                        50.69234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Motte de Brabant",
+                  "text": "Motte de Brabant is an archaeological site in Enghien indicating a medieval fortification. This artificial earth mound is a relic from the early military history of the region.",
+                  "category": "historical",
+                  "coords": [
+                        4.042508,
+                        50.693514
+                  ]
+            },
+            {
+                  "name": "Motte féodale",
+                  "text": "The Motte féodale in Enghien is a historic defense structure in the form of an earth mound. Those interested in archaeology can explore the traces of medieval feudal structures here.",
+                  "category": "historical",
+                  "coords": [
+                        4.034368,
+                        50.670568
+                  ]
+            },
+            {
+                  "name": "Tour de la Chapelle Castrale",
+                  "text": "Tour de la Chapelle Castrale is a preserved part of the former castle of Enghien. The tower offers an insight into the medieval architecture and defense strategy of the town.",
+                  "category": "castle",
+                  "coords": [
+                        4.041523,
+                        50.691775
+                  ]
+            },
+            {
+                  "name": "Château Empain",
+                  "text": "Château Empain is a magnificent castle located within the park of Enghien. Today it serves as a venue for cultural events and provides a picturesque backdrop.",
+                  "category": "castle",
+                  "coords": [
+                        4.041904,
+                        50.689469
+                  ]
+            },
+            {
+                  "name": "Motte de Bornival",
+                  "text": "Motte de Bornival is an archaeological site in Enghien marking an old fortified earth mound. It represents an important historical document for medieval settlement history.",
+                  "category": "historical",
+                  "coords": [
+                        4.016099,
+                        50.693995
+                  ]
+            },
+            {
+                  "name": "Parc d'Enghien - Park van Edingen",
+                  "text": "Parc d'Enghien is a vast park known for its thematic gardens and historic buildings. Visitors can take long walks there and enjoy the peaceful nature.",
+                  "category": "park",
+                  "coords": [
+                        4.043348,
+                        50.686424
+                  ]
+            },
+            {
+                  "name": "Cours de Dessin",
+                  "text": "Cours de Dessin is an arts centre in Enghien that promotes creativity and education. It is located in a historic building and serves as a meeting point for artists and interested parties.",
+                  "category": "cultural",
+                  "coords": [
+                        4.037779,
+                        50.693672
+                  ]
+            },
+            {
+                  "name": "Pavillon des Sept Étoiles",
+                  "text": "Pavillon des Sept Étoiles is a prominent attraction in the park of Enghien. The baroque structure offers an excellent view of the surrounding garden axes from its position.",
+                  "category": "landmark",
+                  "coords": [
+                        4.047331,
+                        50.68757
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin is the main church of Enghien and a place of quiet and devotion. Visitors can view the imposing building and the religious art inside.",
+                  "category": "religious",
+                  "coords": [
+                        4.017824,
+                        50.69234
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Enghien", hu: "Enghien", ro: "Enghien", en: "Enghien" },
@@ -49575,7 +57891,124 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-fleron-cities-v2.webp",
   },
   {
-    id: "belgium-fontaine-leveque-cities-v2",
+    id: "belgium-fontaine-leveque-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Fontaine-l'Évêque",
+                  "text": "Das Château de Fontaine-l'Évêque ist eine historische Schlossanlage, die das Zentrum der gleichnamigen Stadt markiert. Die erhaltenen Gebäude zeigen verschiedene architektonische Stile aus mehreren Jahrhunderten.",
+                  "category": "castle",
+                  "coords": [
+                        4.324312,
+                        50.412291
+                  ]
+            },
+            {
+                  "name": "Terril du Pétria n°1",
+                  "text": "Der Terril du Pétria n°1 ist eine ehemalige Abraumhalde in Fontaine-l'Évêque, die sich zu einem Naturschutzgebiet entwickelt hat. Besucher können hier wandern und die rekultivierte Flora und Fauna der Region entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        4.307719,
+                        50.409369
+                  ]
+            },
+            {
+                  "name": "Château de la Marche",
+                  "text": "Das Château de la Marche ist ein beeindruckendes Schloss in Fontaine-l'Évêque, das von einer weitläufigen Parkanlage umgeben ist. Es ist ein bedeutendes Beispiel für die herrschaftliche Architektur in diesem Teil Belgiens.",
+                  "category": "castle",
+                  "coords": [
+                        4.307074,
+                        50.426432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Fontaine-l'Évêque",
+                  "text": "A Fontaine-l'Évêque-i kastély egy történelmi épületegyüttes, amely a hasonló nevű város központját jelöli. A fennmaradt épületek több évszázad különböző építészeti stílusait mutatják be.",
+                  "category": "castle",
+                  "coords": [
+                        4.324312,
+                        50.412291
+                  ]
+            },
+            {
+                  "name": "Terril du Pétria n°1",
+                  "text": "A Terril du Pétria n°1 egy egykori meddőhányó Fontaine-l'Évêque-ben, amely természetvédelmi területté alakult. A látogatók itt túrázhatnak, és felfedezhetik a régió rekultivált növény- és állatvilágát.",
+                  "category": "natural",
+                  "coords": [
+                        4.307719,
+                        50.409369
+                  ]
+            },
+            {
+                  "name": "Château de la Marche",
+                  "text": "A Château de la Marche egy lenyűgöző kastély Fontaine-l'Évêque-ben, amelyet kiterjedt parkrendszer vesz körül. Jelentős példája az úri építészetnek Belgium ezen részén.",
+                  "category": "castle",
+                  "coords": [
+                        4.307074,
+                        50.426432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Fontaine-l'Évêque",
+                  "text": "Castelul din Fontaine-l'Évêque este un complex istoric care marchează centrul orașului cu același nume. Clădirile conservate prezintă diverse stiluri arhitecturale din mai multe secole.",
+                  "category": "castle",
+                  "coords": [
+                        4.324312,
+                        50.412291
+                  ]
+            },
+            {
+                  "name": "Terril du Pétria n°1",
+                  "text": "Terril du Pétria n°1 este o fostă haldă de steril din Fontaine-l'Évêque, care s-a transformat într-o rezervație naturală. Vizitatorii pot face drumeții aici și pot descoperi flora și fauna recultivată a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        4.307719,
+                        50.409369
+                  ]
+            },
+            {
+                  "name": "Château de la Marche",
+                  "text": "Castelul de la Marche este un castel impresionant din Fontaine-l'Évêque, înconjurat de un domeniu vast cu parcuri. Este un exemplu semnificativ de arhitectură nobiliară în această parte a Belgiei.",
+                  "category": "castle",
+                  "coords": [
+                        4.307074,
+                        50.426432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Fontaine-l'Évêque",
+                  "text": "The Château de Fontaine-l'Évêque is a historical castle complex marking the center of the namesake town. The preserved buildings showcase various architectural styles from several centuries.",
+                  "category": "castle",
+                  "coords": [
+                        4.324312,
+                        50.412291
+                  ]
+            },
+            {
+                  "name": "Terril du Pétria n°1",
+                  "text": "The Terril du Pétria n°1 is a former slag heap in Fontaine-l'Évêque that has developed into a nature reserve. Visitors can hike here and discover the reclaimed flora and fauna of the region.",
+                  "category": "natural",
+                  "coords": [
+                        4.307719,
+                        50.409369
+                  ]
+            },
+            {
+                  "name": "Château de la Marche",
+                  "text": "The Château de la Marche is an impressive castle in Fontaine-l'Évêque surrounded by extensive parkland. It is a significant example of manorial architecture in this part of Belgium.",
+                  "category": "castle",
+                  "coords": [
+                        4.307074,
+                        50.426432
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Fontaine-l'Évêque", hu: "Fontaine-l'Évêque", ro: "Fontaine-l'Évêque", en: "Fontaine-l'Évêque" },
@@ -50647,6 +59080,204 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.458054,
                         50.419969
                   ]
+            },
+            {
+                  "name": "Musée des chasseurs à pieds",
+                  "text": "Das Musée des chasseurs à pieds in Gilly widmet sich der Geschichte der leichten Infanterie. Die Ausstellungen zeigen Uniformen und Ausrüstungsgegenstände aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        4.451158,
+                        50.411127
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Charleroi",
+                  "text": "Das Musée des Beaux-Arts de Charleroi beherbergt eine bedeutende Sammlung wallonischer Kunstwerke in Gilly. Es bietet einen tiefen Einblick in die regionale Malerei und Bildhauerei.",
+                  "category": "museum",
+                  "coords": [
+                        4.453346,
+                        50.412238
+                  ]
+            },
+            {
+                  "name": "Ancienne Abbaye de Soleilmont",
+                  "text": "Die Ancienne Abbaye de Soleilmont ist eine ehemalige Zisterzienserabtei, die heute als Ausflugsziel in Gilly dient. Das historische Gelände lädt zu Spaziergängen durch die geschichtsträchtige Anlage ein.",
+                  "category": "recreational",
+                  "coords": [
+                        4.501326,
+                        50.437902
+                  ]
+            },
+            {
+                  "name": "Palais des Beaux-Arts",
+                  "text": "Das Palais des Beaux-Arts in Gilly ist ein bedeutendes Kulturzentrum für Theater und Musik. Es bietet ein vielfältiges Programm an Aufführungen in einem beeindruckenden architektonischen Rahmen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.442563,
+                        50.413858
+                  ]
+            },
+            {
+                  "name": "BPS22",
+                  "text": "Das BPS22 ist ein Museum für zeitgenössische Kunst, das sich in einem historischen Industriegebäude in Gilly befindet. Es präsentiert innovative Ausstellungen regionaler und internationaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        4.446035,
+                        50.416739
+                  ]
+            },
+            {
+                  "name": "Le Petit Théâtre de la Ruelle",
+                  "text": "Le Petit Théâtre de la Ruelle ist eine gemütliche Spielstätte für lokale Theateraufführungen in Gilly. Das Theater ist bekannt für seine intime Atmosphäre und sein leidenschaftliches Ensemble.",
+                  "category": "cultural",
+                  "coords": [
+                        4.447609,
+                        50.430968
+                  ]
+            },
+            {
+                  "name": "Château Mondron",
+                  "text": "Das Château Mondron ist ein elegantes Schloss aus dem 19. Jahrhundert, das in der Gemeinde Gilly liegt. Das Anwesen wird heute oft für kulturelle Veranstaltungen und soziale Projekte genutzt.",
+                  "category": "castle",
+                  "coords": [
+                        4.474367,
+                        50.440186
+                  ]
+            },
+            {
+                  "name": "Cercle wallon de Couillet",
+                  "text": "Der Cercle wallon de Couillet ist ein kulturelles Zentrum in Gilly, das sich der Förderung lokaler Künste widmet. Es dient als Treffpunkt für Theaterfreunde und veranstaltet regelmäßig Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.467977,
+                        50.391646
+                  ]
+            },
+            {
+                  "name": "Théâtre de l'Ancre",
+                  "text": "Das Théâtre de l'Ancre in Gilly ist eine experimentelle Bühne, die zeitgenössische Werke präsentiert. Es legt großen Wert auf soziale Themen und die Einbeziehung des lokalen Publikums.",
+                  "category": "cultural",
+                  "coords": [
+                        4.448925,
+                        50.406603
+                  ]
+            },
+            {
+                  "name": "Le Poche",
+                  "text": "Le Poche ist ein kleines Theater in Gilly, das für seine originellen und unkonventionellen Inszenierungen bekannt ist. Es bietet jungen Künstlern eine Plattform für kreative Ausdrucksformen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.443471,
+                        50.417177
+                  ]
+            },
+            {
+                  "name": "Ligne 140A",
+                  "text": "Ligne 140A ist eine archäologische Stätte in Gilly, die auf den Spuren einer ehemaligen Industriebahnlinie liegt. Das Gebiet bietet interessante Einblicke in die industrielle Vergangenheit der Region.",
+                  "category": "historical",
+                  "coords": [
+                        4.454656,
+                        50.416583
+                  ]
+            },
+            {
+                  "name": "Monument aux Martyrs",
+                  "text": "Das Monument aux Martyrs in Gilly ehrt die Opfer historischer Konflikte der Region. Das Denkmal ist ein wichtiger Ort des Gedenkens und der lokalen Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        4.447226,
+                        50.41449
+                  ]
+            },
+            {
+                  "name": "Parcs Jacques Depelsenaire",
+                  "text": "Der Parcs Jacques Depelsenaire ist eine grüne Oase im Herzen von Gilly. Die gepflegten Wege und Rasenflächen bieten Raum für Erholung und Spaziergänge im Freien.",
+                  "category": "park",
+                  "coords": [
+                        4.449568,
+                        50.411605
+                  ]
+            },
+            {
+                  "name": "Maison Mattot",
+                  "text": "Die Maison Mattot ist ein markantes Herrenhaus in Gilly, das für seine besondere Architektur bekannt ist. Das Gebäude ist ein Beispiel für den bürgerlichen Wohnstil früherer Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        4.451701,
+                        50.415731
+                  ]
+            },
+            {
+                  "name": "Maison Magritte",
+                  "text": "Die Maison Magritte in Gilly ist ein Denkmal, das an das Leben und Werk des berühmten Malers erinnert. Es ist ein kultureller Anziehungspunkt für Liebhaber des Surrealismus.",
+                  "category": "historical",
+                  "coords": [
+                        4.52323,
+                        50.407892
+                  ]
+            },
+            {
+                  "name": "Statue de Jules Destrée",
+                  "text": "Die Statue de Jules Destrée ehrt den bedeutenden wallonischen Politiker in Gilly. Sie steht an einem zentralen Punkt und erinnert an seinen Einfluss auf die regionale Identität.",
+                  "category": "historical",
+                  "coords": [
+                        4.443302,
+                        50.410143
+                  ]
+            },
+            {
+                  "name": "Composite",
+                  "text": "Composite ist ein modernes Kunstzentrum in Gilly, das Raum für verschiedene künstlerische Disziplinen bietet. Es fördert den Austausch zwischen Künstlern und der lokalen Gemeinschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        4.451226,
+                        50.400877
+                  ]
+            },
+            {
+                  "name": "Le Vecteur",
+                  "text": "Le Vecteur ist ein dynamisches Kulturzentrum in Gilly, das sich auf bildende Kunst und Musik konzentriert. Es bietet regelmäßig Ausstellungen, Konzerte und kreative Workshops an.",
+                  "category": "cultural",
+                  "coords": [
+                        4.443796,
+                        50.406861
+                  ]
+            },
+            {
+                  "name": "L'Alba - Maison des talents partagés",
+                  "text": "L'Alba - House of Shared Talents ist ein innovatives Kunstzentrum in Gilly. Hier finden kreative Köpfe Räumlichkeiten für Zusammenarbeit und die Präsentation ihrer Werke.",
+                  "category": "cultural",
+                  "coords": [
+                        4.445377,
+                        50.409482
+                  ]
+            },
+            {
+                  "name": "La Consoude",
+                  "text": "La Consoude ist ein kleines, aber lebendiges Kunstzentrum in Gilly. Es unterstützt lokale Künstler und bietet ein abwechslungsreiches Programm an kulturellen Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        4.453322,
+                        50.42266
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Die Église Saint-Laurent ist eine geschichtsträchtige Kirche im Stadtteil Gilly. Sie dient der Gemeinde als wichtiger Ort des Gebets und ist für ihre religiöse Bedeutung bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        4.466804,
+                        50.394712
+                  ]
+            },
+            {
+                  "name": "Beffroi",
+                  "text": "Der Belfried von Gilly ist ein markanter Turm, der als Wahrzeichen der Stadt gilt. Von seiner Spitze aus bietet sich ein weiter Blick über die umliegende Region.",
+                  "category": "tower",
+                  "coords": [
+                        4.443633,
+                        50.412493
+                  ]
             }
       ],
       "hu": [
@@ -50666,6 +59297,204 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.458054,
                         50.419969
+                  ]
+            },
+            {
+                  "name": "Musée des chasseurs à pieds",
+                  "text": "A gilly-i Musée des chasseurs à pieds a könnyűgyalogság történetének szentelt múzeum. A kiállítások különböző korszakok egyenruháit és felszereléseit mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        4.451158,
+                        50.411127
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Charleroi",
+                  "text": "A gilly-i Musée des Beaux-Arts de Charleroi a vallon művészeti alkotások jelentős gyűjteményének ad otthont. Mély betekintést nyújt a régió festészetébe és szobrászatába.",
+                  "category": "museum",
+                  "coords": [
+                        4.453346,
+                        50.412238
+                  ]
+            },
+            {
+                  "name": "Ancienne Abbaye de Soleilmont",
+                  "text": "Az Ancienne Abbaye de Soleilmont egy egykori ciszterci apátság, amely ma kirándulóhelyként szolgál Gillyben. A történelmi terület sétára hívja a látogatókat a múltat idéző falak között.",
+                  "category": "recreational",
+                  "coords": [
+                        4.501326,
+                        50.437902
+                  ]
+            },
+            {
+                  "name": "Palais des Beaux-Arts",
+                  "text": "A gilly-i Palais des Beaux-Arts a színház és a zene egyik jelentős kulturális központja. Változatos előadási programot kínál lenyűgöző építészeti környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.442563,
+                        50.413858
+                  ]
+            },
+            {
+                  "name": "BPS22",
+                  "text": "A BPS22 egy kortárs művészeti múzeum, amely egy történelmi ipari épületben található Gillyben. Regionális és nemzetközi művészek innovatív kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.446035,
+                        50.416739
+                  ]
+            },
+            {
+                  "name": "Le Petit Théâtre de la Ruelle",
+                  "text": "A Le Petit Théâtre de la Ruelle a helyi színházi előadások hangulatos helyszíne Gillyben. A színház az intim atmoszférájáról és lelkes társulatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        4.447609,
+                        50.430968
+                  ]
+            },
+            {
+                  "name": "Château Mondron",
+                  "text": "A Château Mondron egy elegáns, 19. századi kastély, amely Gilly településén található. Az épületet ma gyakran használják kulturális rendezvényekre és szociális projektekre.",
+                  "category": "castle",
+                  "coords": [
+                        4.474367,
+                        50.440186
+                  ]
+            },
+            {
+                  "name": "Cercle wallon de Couillet",
+                  "text": "A Cercle wallon de Couillet egy kulturális központ Gillyben, amely a helyi művészetek népszerűsítésének szenteli magát. A színházkedvelők találkozóhelyeként szolgál, és rendszeresen szervez előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        4.467977,
+                        50.391646
+                  ]
+            },
+            {
+                  "name": "Théâtre de l'Ancre",
+                  "text": "A gilly-i Théâtre de l'Ancre egy kísérleti színpad, amely kortárs műveket mutat be. Nagy hangsúlyt fektet a társadalmi kérdésekre és a helyi közönség bevonására.",
+                  "category": "cultural",
+                  "coords": [
+                        4.448925,
+                        50.406603
+                  ]
+            },
+            {
+                  "name": "Le Poche",
+                  "text": "A Le Poche egy kis színház Gillyben, amely eredeti és rendhagyó rendezéseiről ismert. Platformot kínál a fiatal művészeknek a kreatív önkifejezésre.",
+                  "category": "cultural",
+                  "coords": [
+                        4.443471,
+                        50.417177
+                  ]
+            },
+            {
+                  "name": "Ligne 140A",
+                  "text": "A Ligne 140A egy régészeti helyszín Gillyben, amely egy egykori ipari vasútvonal nyomvonalán található. A terület érdekes betekintést nyújt a régió ipari múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        4.454656,
+                        50.416583
+                  ]
+            },
+            {
+                  "name": "Monument aux Martyrs",
+                  "text": "A gilly-i Monument aux Martyrs a régió történelmi konfliktusainak áldozatai előtt tiszteleg. Az emlékmű az emlékezés és a helyi történelem fontos helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        4.447226,
+                        50.41449
+                  ]
+            },
+            {
+                  "name": "Parcs Jacques Depelsenaire",
+                  "text": "A Parcs Jacques Depelsenaire egy zöld oázis Gilly szívében. A gondozott ösvények és gyepfelületek lehetőséget nyújtanak a pihenésre és a szabadtéri sétákra.",
+                  "category": "park",
+                  "coords": [
+                        4.449568,
+                        50.411605
+                  ]
+            },
+            {
+                  "name": "Maison Mattot",
+                  "text": "A Maison Mattot egy jellegzetes udvarház Gillyben, amely különleges építészetéről ismert. Az épület a korábbi korszakok polgári lakóstílusának egyik példája.",
+                  "category": "historical",
+                  "coords": [
+                        4.451701,
+                        50.415731
+                  ]
+            },
+            {
+                  "name": "Maison Magritte",
+                  "text": "A gilly-i Maison Magritte egy emlékmű, amely a híres festő életére és munkásságára emlékeztet. A szürrealizmus kedvelői számára kulturális vonzerőt jelent.",
+                  "category": "historical",
+                  "coords": [
+                        4.52323,
+                        50.407892
+                  ]
+            },
+            {
+                  "name": "Statue de Jules Destrée",
+                  "text": "A Statue de Jules Destrée a jelentős vallon politikus előtt tiszteleg Gillyben. Egy központi helyen áll, emlékeztetve a regionális identitásra gyakorolt hatására.",
+                  "category": "historical",
+                  "coords": [
+                        4.443302,
+                        50.410143
+                  ]
+            },
+            {
+                  "name": "Composite",
+                  "text": "A Composite egy modern művészeti központ Gillyben, amely helyet kínál különböző művészeti ágaknak. Elősegíti a művészek és a helyi közösség közötti cserét.",
+                  "category": "cultural",
+                  "coords": [
+                        4.451226,
+                        50.400877
+                  ]
+            },
+            {
+                  "name": "Le Vecteur",
+                  "text": "A Le Vecteur egy dinamikus kulturális központ Gillyben, amely a képzőművészetre és a zenére összpontosít. Rendszeresen kínál kiállításokat, koncerteket és kreatív workshopokat.",
+                  "category": "cultural",
+                  "coords": [
+                        4.443796,
+                        50.406861
+                  ]
+            },
+            {
+                  "name": "L'Alba - Maison des talents partagés",
+                  "text": "Az L'Alba - House of Shared Talents egy innovatív művészeti központ Gillyben. Itt a kreatív elmék helyet találnak az együttműködéshez és műveik bemutatásához.",
+                  "category": "cultural",
+                  "coords": [
+                        4.445377,
+                        50.409482
+                  ]
+            },
+            {
+                  "name": "La Consoude",
+                  "text": "A La Consoude egy kicsi, de élettel teli művészeti központ Gillyben. Támogatja a helyi művészeket, és változatos kulturális tevékenységeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        4.453322,
+                        50.42266
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Az Église Saint-Laurent egy nagy múltú templom Gilly városrészben. A közösség számára az imádság fontos helyszíneként szolgál, és vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        4.466804,
+                        50.394712
+                  ]
+            },
+            {
+                  "name": "Beffroi",
+                  "text": "Gilly harangtornya egy jellegzetes torony, amely a város jelképének számít. Tetejéről széles kilátás nyílik a környező régióra.",
+                  "category": "tower",
+                  "coords": [
+                        4.443633,
+                        50.412493
                   ]
             }
       ],
@@ -50687,6 +59516,204 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.458054,
                         50.419969
                   ]
+            },
+            {
+                  "name": "Musée des chasseurs à pieds",
+                  "text": "Musée des chasseurs à pieds din Gilly este un muzeu dedicat istoriei infanteriei ușoare. Expozițiile prezintă uniforme și echipamente din diferite epoci.",
+                  "category": "museum",
+                  "coords": [
+                        4.451158,
+                        50.411127
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Charleroi",
+                  "text": "Musée des Beaux-Arts de Charleroi găzduiește o colecție importantă de opere de artă valone în Gilly. Acesta oferă o perspectivă profundă asupra picturii și sculpturii regionale.",
+                  "category": "museum",
+                  "coords": [
+                        4.453346,
+                        50.412238
+                  ]
+            },
+            {
+                  "name": "Ancienne Abbaye de Soleilmont",
+                  "text": "Ancienne Abbaye de Soleilmont este o fostă abație cisterciană care servește astăzi ca destinație de agrement în Gilly. Terenul istoric invită la plimbări prin ansamblul plin de istorie.",
+                  "category": "recreational",
+                  "coords": [
+                        4.501326,
+                        50.437902
+                  ]
+            },
+            {
+                  "name": "Palais des Beaux-Arts",
+                  "text": "Palais des Beaux-Arts din Gilly este un centru cultural important pentru teatru și muzică. Acesta oferă un program variat de spectacole într-un cadru arhitectural impresionant.",
+                  "category": "cultural",
+                  "coords": [
+                        4.442563,
+                        50.413858
+                  ]
+            },
+            {
+                  "name": "BPS22",
+                  "text": "BPS22 este un muzeu de artă contemporană situat într-o clădire industrială istorică din Gilly. Acesta prezintă expoziții inovatoare ale artiștilor regionali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        4.446035,
+                        50.416739
+                  ]
+            },
+            {
+                  "name": "Le Petit Théâtre de la Ruelle",
+                  "text": "Le Petit Théâtre de la Ruelle este un loc primitor pentru spectacole de teatru local în Gilly. Teatrul este cunoscut pentru atmosfera sa intimă și pentru ansamblul său pasionat.",
+                  "category": "cultural",
+                  "coords": [
+                        4.447609,
+                        50.430968
+                  ]
+            },
+            {
+                  "name": "Château Mondron",
+                  "text": "Château Mondron este un castel elegant din secolul al XIX-lea, situat în comuna Gilly. Proprietatea este folosită astăzi adesea pentru evenimente culturale și proiecte sociale.",
+                  "category": "castle",
+                  "coords": [
+                        4.474367,
+                        50.440186
+                  ]
+            },
+            {
+                  "name": "Cercle wallon de Couillet",
+                  "text": "Cercle wallon de Couillet este un centru cultural din Gilly dedicat promovării artelor locale. Acesta servește ca loc de întâlnire pentru iubitorii de teatru și organizează spectacole regulate.",
+                  "category": "cultural",
+                  "coords": [
+                        4.467977,
+                        50.391646
+                  ]
+            },
+            {
+                  "name": "Théâtre de l'Ancre",
+                  "text": "Théâtre de l'Ancre din Gilly este o scenă experimentală care prezintă lucrări contemporane. Acesta pune un mare accent pe temele sociale și pe implicarea publicului local.",
+                  "category": "cultural",
+                  "coords": [
+                        4.448925,
+                        50.406603
+                  ]
+            },
+            {
+                  "name": "Le Poche",
+                  "text": "Le Poche este un mic teatru din Gilly, cunoscut pentru punerile sale în scenă originale și neconvenționale. Acesta oferă tinerilor artiști o platformă pentru forme de exprimare creative.",
+                  "category": "cultural",
+                  "coords": [
+                        4.443471,
+                        50.417177
+                  ]
+            },
+            {
+                  "name": "Ligne 140A",
+                  "text": "Ligne 140A este un sit arheologic din Gilly, situat pe urmele unei foste linii de cale ferată industrială. Zona oferă perspective interesante asupra trecutului industrial al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        4.454656,
+                        50.416583
+                  ]
+            },
+            {
+                  "name": "Monument aux Martyrs",
+                  "text": "Monument aux Martyrs din Gilly onorează victimele conflictelor istorice din regiune. Monumentul este un loc important de comemorare și de istorie locală.",
+                  "category": "historical",
+                  "coords": [
+                        4.447226,
+                        50.41449
+                  ]
+            },
+            {
+                  "name": "Parcs Jacques Depelsenaire",
+                  "text": "Parcs Jacques Depelsenaire este o oază verde în inima localității Gilly. Aleile și peluzele bine întreținute oferă spațiu pentru relaxare și plimbări în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        4.449568,
+                        50.411605
+                  ]
+            },
+            {
+                  "name": "Maison Mattot",
+                  "text": "Maison Mattot este un conac remarcabil din Gilly, cunoscut pentru arhitectura sa deosebită. Clădirea este un exemplu al stilului de locuire burghez din epocile trecute.",
+                  "category": "historical",
+                  "coords": [
+                        4.451701,
+                        50.415731
+                  ]
+            },
+            {
+                  "name": "Maison Magritte",
+                  "text": "Maison Magritte din Gilly este un monument care amintește de viața și opera celebrului pictor. Este un punct de atracție culturală pentru iubitorii suprarealismului.",
+                  "category": "historical",
+                  "coords": [
+                        4.52323,
+                        50.407892
+                  ]
+            },
+            {
+                  "name": "Statue de Jules Destrée",
+                  "text": "Statue de Jules Destrée îl onorează pe importantul politician valon în Gilly. Aceasta se află într-un punct central și amintește de influența sa asupra identității regionale.",
+                  "category": "historical",
+                  "coords": [
+                        4.443302,
+                        50.410143
+                  ]
+            },
+            {
+                  "name": "Composite",
+                  "text": "Composite este un centru de artă modernă din Gilly care oferă spațiu pentru diverse discipline artistice. Acesta promovează schimbul între artiști și comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        4.451226,
+                        50.400877
+                  ]
+            },
+            {
+                  "name": "Le Vecteur",
+                  "text": "Le Vecteur este un centru cultural dinamic din Gilly, axat pe artele vizuale și muzică. Acesta oferă regulat expoziții, concerte și workshop-uri creative.",
+                  "category": "cultural",
+                  "coords": [
+                        4.443796,
+                        50.406861
+                  ]
+            },
+            {
+                  "name": "L'Alba - Maison des talents partagés",
+                  "text": "L'Alba - House of Shared Talents este un centru de artă inovator din Gilly. Aici, mințile creative găsesc spații pentru colaborare și prezentarea operelor lor.",
+                  "category": "cultural",
+                  "coords": [
+                        4.445377,
+                        50.409482
+                  ]
+            },
+            {
+                  "name": "La Consoude",
+                  "text": "La Consoude este un centru de artă mic, dar vibrant, situat în Gilly. Acesta sprijină artiștii locali și oferă un program variat de activități culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        4.453322,
+                        50.42266
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Église Saint-Laurent este o biserică plină de istorie din cartierul Gilly. Servește comunității ca un loc important de rugăciune și este cunoscută pentru semnificația sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        4.466804,
+                        50.394712
+                  ]
+            },
+            {
+                  "name": "Beffroi",
+                  "text": "Turnul cu clopotniță din Gilly este un turn remarcabil, considerat un simbol al orașului. Din vârful său, se oferă o vedere amplă asupra regiunii înconjurătoare.",
+                  "category": "tower",
+                  "coords": [
+                        4.443633,
+                        50.412493
+                  ]
             }
       ],
       "en": [
@@ -50706,6 +59733,204 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.458054,
                         50.419969
+                  ]
+            },
+            {
+                  "name": "Musée des chasseurs à pieds",
+                  "text": "The Musée des chasseurs à pieds in Gilly is a museum dedicated to the history of the light infantry. Exhibits showcase uniforms and equipment from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        4.451158,
+                        50.411127
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts de Charleroi",
+                  "text": "The Musée des Beaux-Arts de Charleroi houses a significant collection of Walloon artworks in Gilly. It offers a deep insight into regional painting and sculpture.",
+                  "category": "museum",
+                  "coords": [
+                        4.453346,
+                        50.412238
+                  ]
+            },
+            {
+                  "name": "Ancienne Abbaye de Soleilmont",
+                  "text": "The Ancienne Abbaye de Soleilmont is a former Cistercian abbey that now serves as a leisure destination in Gilly. The historic grounds invite visitors for walks through the storied complex.",
+                  "category": "recreational",
+                  "coords": [
+                        4.501326,
+                        50.437902
+                  ]
+            },
+            {
+                  "name": "Palais des Beaux-Arts",
+                  "text": "The Palais des Beaux-Arts in Gilly is a major cultural center for theatre and music. It offers a diverse program of performances within an impressive architectural setting.",
+                  "category": "cultural",
+                  "coords": [
+                        4.442563,
+                        50.413858
+                  ]
+            },
+            {
+                  "name": "BPS22",
+                  "text": "BPS22 is a museum of contemporary art located in a historic industrial building in Gilly. It showcases innovative exhibitions by regional and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        4.446035,
+                        50.416739
+                  ]
+            },
+            {
+                  "name": "Le Petit Théâtre de la Ruelle",
+                  "text": "Le Petit Théâtre de la Ruelle is a cozy venue for local theatre performances in Gilly. The theatre is known for its intimate atmosphere and passionate ensemble.",
+                  "category": "cultural",
+                  "coords": [
+                        4.447609,
+                        50.430968
+                  ]
+            },
+            {
+                  "name": "Château Mondron",
+                  "text": "Château Mondron is an elegant 19th-century castle located in the municipality of Gilly. The estate is now often used for cultural events and social projects.",
+                  "category": "castle",
+                  "coords": [
+                        4.474367,
+                        50.440186
+                  ]
+            },
+            {
+                  "name": "Cercle wallon de Couillet",
+                  "text": "The Cercle wallon de Couillet is a cultural center in Gilly dedicated to promoting local arts. It serves as a meeting place for theatre lovers and hosts regular performances.",
+                  "category": "cultural",
+                  "coords": [
+                        4.467977,
+                        50.391646
+                  ]
+            },
+            {
+                  "name": "Théâtre de l'Ancre",
+                  "text": "The Théâtre de l'Ancre in Gilly is an experimental stage presenting contemporary works. It places great emphasis on social themes and the involvement of the local audience.",
+                  "category": "cultural",
+                  "coords": [
+                        4.448925,
+                        50.406603
+                  ]
+            },
+            {
+                  "name": "Le Poche",
+                  "text": "Le Poche is a small theatre in Gilly known for its original and unconventional productions. It offers young artists a platform for creative forms of expression.",
+                  "category": "cultural",
+                  "coords": [
+                        4.443471,
+                        50.417177
+                  ]
+            },
+            {
+                  "name": "Ligne 140A",
+                  "text": "Ligne 140A is an archaeological site in Gilly located on the traces of a former industrial railway line. The area offers interesting insights into the industrial past of the region.",
+                  "category": "historical",
+                  "coords": [
+                        4.454656,
+                        50.416583
+                  ]
+            },
+            {
+                  "name": "Monument aux Martyrs",
+                  "text": "The Monument aux Martyrs in Gilly honors the victims of the region's historical conflicts. The monument is an important place of remembrance and local history.",
+                  "category": "historical",
+                  "coords": [
+                        4.447226,
+                        50.41449
+                  ]
+            },
+            {
+                  "name": "Parcs Jacques Depelsenaire",
+                  "text": "The Parcs Jacques Depelsenaire is a green oasis in the heart of Gilly. The well-maintained paths and lawns provide space for relaxation and outdoor walks.",
+                  "category": "park",
+                  "coords": [
+                        4.449568,
+                        50.411605
+                  ]
+            },
+            {
+                  "name": "Maison Mattot",
+                  "text": "Maison Mattot is a striking manor house in Gilly known for its unique architecture. The building is an example of the bourgeois residential style of earlier eras.",
+                  "category": "historical",
+                  "coords": [
+                        4.451701,
+                        50.415731
+                  ]
+            },
+            {
+                  "name": "Maison Magritte",
+                  "text": "The Maison Magritte in Gilly is a monument commemorating the life and work of the famous painter. It is a cultural attraction for lovers of surrealism.",
+                  "category": "historical",
+                  "coords": [
+                        4.52323,
+                        50.407892
+                  ]
+            },
+            {
+                  "name": "Statue de Jules Destrée",
+                  "text": "The Statue de Jules Destrée honors the significant Walloon politician in Gilly. It stands at a central point, reminding of his influence on regional identity.",
+                  "category": "historical",
+                  "coords": [
+                        4.443302,
+                        50.410143
+                  ]
+            },
+            {
+                  "name": "Composite",
+                  "text": "Composite is a modern arts centre in Gilly providing space for various artistic disciplines. It fosters exchange between artists and the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        4.451226,
+                        50.400877
+                  ]
+            },
+            {
+                  "name": "Le Vecteur",
+                  "text": "Le Vecteur is a dynamic cultural centre in Gilly focusing on visual arts and music. It regularly offers exhibitions, concerts, and creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        4.443796,
+                        50.406861
+                  ]
+            },
+            {
+                  "name": "L'Alba - House of Shared Talents",
+                  "text": "L'Alba - House of Shared Talents is an innovative arts centre in Gilly. Here, creative minds find spaces for collaboration and the presentation of their works.",
+                  "category": "cultural",
+                  "coords": [
+                        4.445377,
+                        50.409482
+                  ]
+            },
+            {
+                  "name": "La Consoude",
+                  "text": "La Consoude is a small but vibrant arts centre located in Gilly. It supports local artists and offers a varied program of cultural activities.",
+                  "category": "cultural",
+                  "coords": [
+                        4.453322,
+                        50.42266
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "The Église Saint-Laurent is a history-rich church in the Gilly district. It serves the community as an important place of prayer and is known for its religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        4.466804,
+                        50.394712
+                  ]
+            },
+            {
+                  "name": "Belfry",
+                  "text": "The Belfry of Gilly is a striking tower considered a landmark of the city. From its top, a wide view over the surrounding region is offered.",
+                  "category": "tower",
+                  "coords": [
+                        4.443633,
+                        50.412493
                   ]
             }
       ]
@@ -54894,7 +64119,196 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-la-roche-en-ardenne-cities-v2.webp",
   },
   {
-    id: "belgium-ledegem-cities-v2",
+    id: "belgium-ledegem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kasteel van Moorsele",
+                  "text": "Das Kasteel van Moorsele ist ein historisches Schloss in Ledegem, das von Wassergräben umgeben ist. Es ist ein markantes Denkmal, das an die feudale Vergangenheit des Dorfes erinnert.",
+                  "category": "castle",
+                  "coords": [
+                        3.163195,
+                        50.841598
+                  ]
+            },
+            {
+                  "name": "Sint-Petruskerk",
+                  "text": "Die Sint-Petruskerk ist eine bedeutende Kirche in der Gemeinde Ledegem. Sie ist ein zentraler Ort für die Gemeinde und beherbergt traditionelle religiöse Artefakte.",
+                  "category": "religious",
+                  "coords": [
+                        3.126207,
+                        50.852875
+                  ]
+            },
+            {
+                  "name": "Basiliek van Onze-Lieve-Vrouwe van Dadizele",
+                  "text": "Die Basiliek van Onze-Lieve-Vrouwe van Dadizele ist ein berühmter neugotischer Wallfahrtsort in Ledegem. Die Basilika ist für ihre imposante Architektur und ihre religiöse Bedeutung in ganz Flandern bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        3.094975,
+                        50.851235
+                  ]
+            },
+            {
+                  "name": "Sint-Martinus- en Sint-Christoffelkerk",
+                  "text": "Die Sint-Martinus- en Sint-Christoffelkerk ist eine Kirche in Ledegem, die zwei Heiligen gewidmet ist. Sie dient als Ort für Gottesdienste und religiöse Zeremonien der lokalen Bevölkerung.",
+                  "category": "religious",
+                  "coords": [
+                        3.163785,
+                        50.840639
+                  ]
+            },
+            {
+                  "name": "Sint-Jan Baptistkerk",
+                  "text": "Die Sint-Jan Baptistkerk ist ein weiteres religiöses Zentrum in Ledegem. Das Gebäude prägt das lokale Ortsbild und ist für Besucher als Ort der Andacht zugänglich.",
+                  "category": "religious",
+                  "coords": [
+                        3.145381,
+                        50.86824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kasteel van Moorsele",
+                  "text": "A Kasteel van Moorsele egy történelmi kastély Ledegemben, amelyet vizesárok vesz körül. Jellegzetes emlékmű, amely a falu feudális múltjára emlékeztet.",
+                  "category": "castle",
+                  "coords": [
+                        3.163195,
+                        50.841598
+                  ]
+            },
+            {
+                  "name": "Sint-Petruskerk",
+                  "text": "A Sint-Petruskerk Ledegem község egyik jelentős temploma. A közösség központi helyszíne, és hagyományos vallási tárgyaknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        3.126207,
+                        50.852875
+                  ]
+            },
+            {
+                  "name": "Basiliek van Onze-Lieve-Vrouwe van Dadizele",
+                  "text": "A Basiliek van Onze-Lieve-Vrouwe van Dadizele egy híres neogótikus zarándokhely Ledegemben. A bazilika impozáns építészetéről és vallási jelentőségéről ismert egész Flandriában.",
+                  "category": "religious",
+                  "coords": [
+                        3.094975,
+                        50.851235
+                  ]
+            },
+            {
+                  "name": "Sint-Martinus- en Sint-Christoffelkerk",
+                  "text": "A Sint-Martinus- en Sint-Christoffelkerk egy templom Ledegemben, amelyet két szentnek szenteltek. Istentiszteletek és a helyi lakosság vallási szertartásainak helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        3.163785,
+                        50.840639
+                  ]
+            },
+            {
+                  "name": "Sint-Jan Baptistkerk",
+                  "text": "A Sint-Jan Baptistkerk Ledegem egy másik vallási központja. Az épület meghatározza a helyi faluképet, és a látogatók számára az áhítat helyszíneként látogatható.",
+                  "category": "religious",
+                  "coords": [
+                        3.145381,
+                        50.86824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kasteel van Moorsele",
+                  "text": "Kasteel van Moorsele este un castel istoric din Ledegem, înconjurat de șanțuri cu apă. Este un monument distinctiv care amintește de trecutul feudal al satului.",
+                  "category": "castle",
+                  "coords": [
+                        3.163195,
+                        50.841598
+                  ]
+            },
+            {
+                  "name": "Sint-Petruskerk",
+                  "text": "Sint-Petruskerk este o biserică importantă din municipalitatea Ledegem. Este un loc central pentru comunitate și găzduiește artefacte religioase tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        3.126207,
+                        50.852875
+                  ]
+            },
+            {
+                  "name": "Basiliek van Onze-Lieve-Vrouwe van Dadizele",
+                  "text": "Basiliek van Onze-Lieve-Vrouwe van Dadizele este un faimos loc de pelerinaj neogotic din Ledegem. Bazilica este cunoscută pentru arhitectura sa impunătoare și semnificația sa religioasă în toată Flandra.",
+                  "category": "religious",
+                  "coords": [
+                        3.094975,
+                        50.851235
+                  ]
+            },
+            {
+                  "name": "Sint-Martinus- en Sint-Christoffelkerk",
+                  "text": "Sint-Martinus- en Sint-Christoffelkerk este o biserică din Ledegem dedicată celor doi sfinți. Servește ca loc pentru slujbe și ceremonii religioase ale populației locale.",
+                  "category": "religious",
+                  "coords": [
+                        3.163785,
+                        50.840639
+                  ]
+            },
+            {
+                  "name": "Sint-Jan Baptistkerk",
+                  "text": "Sint-Jan Baptistkerk este un alt centru religios din Ledegem. Clădirea definește peisajul local și este accesibilă vizitatorilor ca loc de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        3.145381,
+                        50.86824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kasteel van Moorsele",
+                  "text": "Kasteel van Moorsele is a historic castle in Ledegem surrounded by moats. It is a distinctive monument that recalls the village's feudal past.",
+                  "category": "castle",
+                  "coords": [
+                        3.163195,
+                        50.841598
+                  ]
+            },
+            {
+                  "name": "Sint-Petruskerk",
+                  "text": "Sint-Petruskerk is an important church in the municipality of Ledegem. It is a central place for the community and houses traditional religious artifacts.",
+                  "category": "religious",
+                  "coords": [
+                        3.126207,
+                        50.852875
+                  ]
+            },
+            {
+                  "name": "Basiliek van Onze-Lieve-Vrouwe van Dadizele",
+                  "text": "The Basiliek van Onze-Lieve-Vrouwe van Dadizele is a famous neo-Gothic pilgrimage site in Ledegem. The basilica is known for its imposing architecture and religious significance throughout Flanders.",
+                  "category": "religious",
+                  "coords": [
+                        3.094975,
+                        50.851235
+                  ]
+            },
+            {
+                  "name": "Sint-Martinus- en Sint-Christoffelkerk",
+                  "text": "Sint-Martinus- en Sint-Christoffelkerk is a church in Ledegem dedicated to two saints. It serves as a venue for services and religious ceremonies for the local population.",
+                  "category": "religious",
+                  "coords": [
+                        3.163785,
+                        50.840639
+                  ]
+            },
+            {
+                  "name": "Sint-Jan Baptistkerk",
+                  "text": "Sint-Jan Baptistkerk is another religious center in Ledegem. The building shapes the local townscape and is accessible to visitors as a place of prayer.",
+                  "category": "religious",
+                  "coords": [
+                        3.145381,
+                        50.86824
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Ledegem", hu: "Ledegem", ro: "Ledegem", en: "Ledegem" },
@@ -54949,6 +64363,150 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.119511,
                         50.79382
                   ]
+            },
+            {
+                  "name": "Plattelandscentrum Paddenbroek",
+                  "text": "Das Plattelandscentrum Paddenbroek in Lennik ist ein Bildungszentrum und Museum, das sich dem ländlichen Leben widmet. Es dient als Ausgangspunkt für Naturwanderungen und bietet Ausstellungen zur Landwirtschaft der Region.",
+                  "category": "museum",
+                  "coords": [
+                        4.10956,
+                        50.785362
+                  ]
+            },
+            {
+                  "name": "Kasteel van Saffelberg",
+                  "text": "Das Kasteel van Saffelberg ist ein herrschaftliches Anwesen in Lennik, das für seine elegante Architektur bekannt ist. Das Schloss ist von Gärten umgeben und stellt ein wichtiges historisches Denkmal der Gemeinde dar.",
+                  "category": "castle",
+                  "coords": [
+                        4.122942,
+                        50.806157
+                  ]
+            },
+            {
+                  "name": "Rokkenborch",
+                  "text": "Das Schloss Rokkenborch in Lennik ist eine historische Festungsanlage mit einer markanten Ausstrahlung. Es ist ein privater Wohnsitz, der durch seine Lage und seine mittelalterliche Anmutung besticht.",
+                  "category": "castle",
+                  "coords": [
+                        4.110088,
+                        50.821426
+                  ]
+            },
+            {
+                  "name": "Hertboommolen Museum",
+                  "text": "Das Hertboommolen Museum in Lennik befindet sich in einer historischen Windmühle und zeigt die Technik des Mahlens. Besucher können hier mehr über die Geschichte des Getreideanbaus und die Funktion traditioneller Mühlen erfahren.",
+                  "category": "museum",
+                  "coords": [
+                        4.094715,
+                        50.822955
+                  ]
+            },
+            {
+                  "name": "Kesterheide",
+                  "text": "Die Kesterheide ist ein Naturschutzgebiet in Lennik, das auf dem höchsten point des Pajottenlandes liegt. Es bietet weite Ausblicke über die hügelige Landschaft und ist ein beliebtes Ziel für Wanderer.",
+                  "category": "natural",
+                  "coords": [
+                        4.100196,
+                        50.776305
+                  ]
+            },
+            {
+                  "name": "Kesterheide-Lombergbos",
+                  "text": "Das Gebiet Kesterheide-Lombergbos in Lennik verbindet offene Heidelandschaften mit dichten Waldflächen. Dieses abwechslungsreiche Naturschutzgebiet lädt zu ausgiebigen Spaziergängen und zur Naturbeobachtung ein.",
+                  "category": "natural",
+                  "coords": [
+                        4.111069,
+                        50.783469
+                  ]
+            },
+            {
+                  "name": "Ĳzeren Man",
+                  "text": "Der Ĳzeren Man ist ein markanter Punkt auf der Kesterheide in Lennik, der oft als Orientierungshilfe dient. Von diesem Gipfel aus genießt man einen der besten Panoramablicke über die gesamte Region.",
+                  "category": "natural",
+                  "coords": [
+                        4.10445,
+                        50.77635
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Die Sint-Niklaaskerk in Lennik ist ein friedlicher Ort der Besinnung mit einer klassischen kirchlichen Architektur. Sie dient der Gemeinde als religiöses Zentrum und beherbergt lokale Kunstschätze.",
+                  "category": "religious",
+                  "coords": [
+                        4.118108,
+                        50.795092
+                  ]
+            },
+            {
+                  "name": "Stevenistenkerk",
+                  "text": "Die Stevenistenkerk in Lennik ist eine historisch interessante Kirche, die mit der Glaubensgemeinschaft der Stevenisten verbunden ist. Das Gebäude ist ein schlichtes, aber bedeutsames Zeugnis der lokalen Religionsgeschichte.",
+                  "category": "religious",
+                  "coords": [
+                        4.123048,
+                        50.77723
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwkerk",
+                  "text": "Die Onze-Lieve-Vrouwkerk in Lennik ist ein elegantes Gotteshaus, das der Jungfrau Maria gewidmet ist. Die Kirche zeichnet sich durch ihre gotischen Stilelemente und ihre ruhige Umgebung aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.114058,
+                        50.822138
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "Die Sint-Pieterskerk ist ein bedeutendes religiöses Gebäude in Lennik, das Gläubige und Besucher gleichermaßen anzieht. Ihre Architektur spiegelt die traditionelle Bauweise der Region Pajottenland wider.",
+                  "category": "religious",
+                  "coords": [
+                        4.11918,
+                        50.775577
+                  ]
+            },
+            {
+                  "name": "Sint-Kwintenkerk",
+                  "text": "Die Sint-Kwintenkerk in Lennik ist eine imposante Kirche, die für ihren gotischen Stil bekannt ist. Sie beherbergt bedeutende Kunstwerke und ist ein zentraler Anlaufpunkt für Besucher der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        4.154441,
+                        50.806699
+                  ]
+            },
+            {
+                  "name": "Sint-Anthonius en Onze-Lieve-Vrouw der 7 Weeënkapel",
+                  "text": "Die Kapelle Sint-Anthonius en Onze-Lieve-Vrouw der 7 Weeën in Lennik ist ein kleiner, besinnlicher Ort des Gebets. Sie ist für ihre religiöse Bedeutung und ihre schlichte Schönheit in der lokalen Landschaft bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        4.102059,
+                        50.794011
+                  ]
+            },
+            {
+                  "name": "Woestijnkapel",
+                  "text": "Die Woestijnkapel ist eine malerische Kapelle in Lennik, die einsam in der Landschaft steht. Sie ist ein beliebtes Ziel für Wanderer und bietet einen Ort der Ruhe inmitten der Natur.",
+                  "category": "religious",
+                  "coords": [
+                        4.080597,
+                        50.812826
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Goede Bijstandkerk",
+                  "text": "Die Kirche Onze-Lieve-Vrouw van Goede Bijstand in Lennik ist ein wichtiges lokales Gotteshaus. Sie zeichnet sich durch ihre einladende Architektur und ihre Bedeutung für die örtliche Gemeinde aus.",
+                  "category": "religious",
+                  "coords": [
+                        4.08235,
+                        50.792359
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkapel",
+                  "text": "Die Heilig Hartkapel in Lennik ist eine kleine Wegekapelle, die oft von Passanten zur kurzen Andacht genutzt wird. Sie ist ein Zeugnis der tief verwurzelten Volksfrömmigkeit in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        4.157623,
+                        50.803996
+                  ]
             }
       ],
       "hu": [
@@ -54959,6 +64517,150 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.119511,
                         50.79382
+                  ]
+            },
+            {
+                  "name": "Plattelandscentrum Paddenbroek",
+                  "text": "A lenniki Plattelandscentrum Paddenbroek egy oktatási központ és múzeum, amelyet a vidéki életnek szenteltek. Természeti túrák kiindulópontjaként szolgál, és a régió mezőgazdaságát bemutató kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        4.10956,
+                        50.785362
+                  ]
+            },
+            {
+                  "name": "Kasteel van Saffelberg",
+                  "text": "A saffelbergi kastély egy úri birtok Lennikben, amely elegáns építészetéről ismert. A kastélyt kertek veszik körül, und a község fontos történelmi műemléke.",
+                  "category": "castle",
+                  "coords": [
+                        4.122942,
+                        50.806157
+                  ]
+            },
+            {
+                  "name": "Rokkenborch",
+                  "text": "A lenniki Rokkenborch kastély egy történelmi erődítmény, amely jellegzetes kisugárzással bír. Magánlakás, amely elhelyezkedésével és középkori hangulatával tűnik ki.",
+                  "category": "castle",
+                  "coords": [
+                        4.110088,
+                        50.821426
+                  ]
+            },
+            {
+                  "name": "Hertboommolen Museum",
+                  "text": "A lenniki Hertboommolen Múzeum egy történelmi szélmalomban található, és az őrlés technikáját mutatja be. A látogatók többet megtudhatnak a gabonatermesztés történetéről és a hagyományos malmok működéséről.",
+                  "category": "museum",
+                  "coords": [
+                        4.094715,
+                        50.822955
+                  ]
+            },
+            {
+                  "name": "Kesterheide",
+                  "text": "A Kesterheide egy természetvédelmi terület Lennikben, amely a Pajottenland legmagasabb pontján fekszik. Tágas kilátást nyújt a dombos tájra, és a túrázók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        4.100196,
+                        50.776305
+                  ]
+            },
+            {
+                  "name": "Kesterheide-Lombergbos",
+                  "text": "A lenniki Kesterheide-Lombergbos terület a nyílt fenyéreket sűrű erdős részekkel ötvözi. Ez a változatos természetvédelmi terület hosszú sétákra és természetmegfigyelésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        4.111069,
+                        50.783469
+                  ]
+            },
+            {
+                  "name": "Ĳzeren Man",
+                  "text": "Az Ĳzeren Man (Vashas) egy jellegzetes pont a lenniki Kesterheidén, amely gyakran szolgál tájékozódási pontként. Erről a csúcsról az egyik legjobb panoráma nyílik az egész régióra.",
+                  "category": "natural",
+                  "coords": [
+                        4.10445,
+                        50.77635
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "A lenniki Szent Miklós-templom a csendes elmélyülés helye klasszikus egyházi építészettel. A közösség vallási központjaként szolgál, und helyi műkincseknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        4.118108,
+                        50.795092
+                  ]
+            },
+            {
+                  "name": "Stevenistenkerk",
+                  "text": "A lenniki Stevenistenkerk egy történelmileg érdekes templom, amely a stevenista hívők közösségéhez kapcsolódik. Az épület a helyi vallástörténet egyszerű, de jelentős tanúbizonysága.",
+                  "category": "religious",
+                  "coords": [
+                        4.123048,
+                        50.77723
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwkerk",
+                  "text": "A lenniki Onze-Lieve-Vrouwkerk egy elegáns templom, amelyet Szűz Máriának szenteltek. A templom gótikus stílusjegyeivel és nyugodt környezetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        4.114058,
+                        50.822138
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "A Szent Péter-templom Lennik jelentős vallási épülete, amely a hívőket és a látogatókat egyaránt vonzza. Építészete a Pajottenland régió hagyományos építési módját tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        4.11918,
+                        50.775577
+                  ]
+            },
+            {
+                  "name": "Sint-Kwintenkerk",
+                  "text": "A lenniki Szent Kvinten-templom egy impozáns templom, amely gótikus stílusáról ismert. Jelentős műalkotásoknak ad otthont, és a község látogatóinak központi célpontja.",
+                  "category": "religious",
+                  "coords": [
+                        4.154441,
+                        50.806699
+                  ]
+            },
+            {
+                  "name": "Sint-Anthonius en Onze-Lieve-Vrouw der 7 Weeënkapel",
+                  "text": "A lenniki Szent Antal és a Hétfájdalmú Szűzanya kápolna egy kicsi, elmélyült imádságos hely. Vallási jelentőségéről és a helyi tájban rejlő egyszerű szépségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        4.102059,
+                        50.794011
+                  ]
+            },
+            {
+                  "name": "Woestijnkapel",
+                  "text": "A Woestijnkapel (Sivatagi kápolna) egy festői kápolna Lennikben, amely magányosan áll a tájban. A túrázók kedvelt célpontja, és a nyugalom helyszínét kínálja a természet lágy ölén.",
+                  "category": "religious",
+                  "coords": [
+                        4.080597,
+                        50.812826
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Goede Bijstandkerk",
+                  "text": "A lenniki Jósegítő Miasszonyunk-templom egy fontos helyi istentiszteleti hely. Vendégszerető építészete és a helyi közösség számára betöltött jelentősége jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        4.08235,
+                        50.792359
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkapel",
+                  "text": "A lenniki Szent Szív-kápolna egy kis útmenti kápolna, amelyet a járókelők gyakran rövid fohászra használnak. A régió mélyen gyökerező népi vallásosságának tanúbizonysága.",
+                  "category": "landmark",
+                  "coords": [
+                        4.157623,
+                        50.803996
                   ]
             }
       ],
@@ -54971,6 +64673,150 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.119511,
                         50.79382
                   ]
+            },
+            {
+                  "name": "Plattelandscentrum Paddenbroek",
+                  "text": "Plattelandscentrum Paddenbroek din Lennik este un centru educațional și muzeu dedicat vieții rurale. Acesta servește ca punct de plecare pentru drumeții în natură și oferă expoziții despre agricultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        4.10956,
+                        50.785362
+                  ]
+            },
+            {
+                  "name": "Kasteel van Saffelberg",
+                  "text": "Castelul din Saffelberg este o reședință nobiliară din Lennik, cunoscută pentru arhitectura sa elegantă. Castelul este înconjurat de grădini și reprezintă un monument istoric important al comunei.",
+                  "category": "castle",
+                  "coords": [
+                        4.122942,
+                        50.806157
+                  ]
+            },
+            {
+                  "name": "Rokkenborch",
+                  "text": "Castelul Rokkenborch din Lennik este o fortificație istorică cu o prezență remarcabilă. Este o reședință privată care impresionează prin locația sa și aspectul medieval.",
+                  "category": "castle",
+                  "coords": [
+                        4.110088,
+                        50.821426
+                  ]
+            },
+            {
+                  "name": "Hertboommolen Museum",
+                  "text": "Muzeul Hertboommolen din Lennik este situat într-o moară de vânt istorică și prezintă tehnica măcinatului. Vizitatorii pot afla mai multe despre istoria cultivării cerealelor și funcționarea morilor tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        4.094715,
+                        50.822955
+                  ]
+            },
+            {
+                  "name": "Kesterheide",
+                  "text": "Kesterheide este o rezervație naturală din Lennik, situată în cel mai înalt punct din Pajottenland. Oferă vederi panoramice asupra peisajului deluros și este o destinație populară pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        4.100196,
+                        50.776305
+                  ]
+            },
+            {
+                  "name": "Kesterheide-Lombergbos",
+                  "text": "Zona Kesterheide-Lombergbos din Lennik îmbină landele deschise cu suprafețe împădurite dense. Această rezervație naturală variată invită la plimbări lungi și la observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        4.111069,
+                        50.783469
+                  ]
+            },
+            {
+                  "name": "Ĳzeren Man",
+                  "text": "Ĳzeren Man este un punct de reper pe Kesterheide în Lennik, servind adesea ca punct de orientare. De pe acest pisc se poate savura una dintre cele mai bune vederi panoramice asupra întregii regiuni.",
+                  "category": "natural",
+                  "coords": [
+                        4.10445,
+                        50.77635
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Sint-Niklaaskerk din Lennik este un loc liniștit de reculegere, cu o arhitectură bisericească clasică. Servește drept centru religios pentru comunitate și adăpostește comori de artă locală.",
+                  "category": "religious",
+                  "coords": [
+                        4.118108,
+                        50.795092
+                  ]
+            },
+            {
+                  "name": "Stevenistenkerk",
+                  "text": "Stevenistenkerk din Lennik este o biserică interesantă din punct de vedere istoric, legată de comunitatea religioasă a stevenistilor. Clădirea este o mărturie simplă, dar semnificativă, a istoriei religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        4.123048,
+                        50.77723
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwkerk",
+                  "text": "Biserica Onze-Lieve-Vrouw din Lennik este un lăcaș de cult elegant, dedicat Fecioarei Maria. Biserica se remarcă prin elementele sale stilistice gotice și împrejurimile liniștite.",
+                  "category": "religious",
+                  "coords": [
+                        4.114058,
+                        50.822138
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "Sint-Pieterskerk este o clădire religioasă importantă din Lennik, care atrage deopotrivă credincioși și vizitatori. Arhitectura sa reflectă modul tradițional de construcție din regiunea Pajottenland.",
+                  "category": "religious",
+                  "coords": [
+                        4.11918,
+                        50.775577
+                  ]
+            },
+            {
+                  "name": "Sint-Kwintenkerk",
+                  "text": "Sint-Kwintenkerk din Lennik este o biserică impunătoare, cunoscută pentru stilul său gotic. Aceasta găzduiește opere de artă importante și este un punct central de interes pentru vizitatorii comunei.",
+                  "category": "religious",
+                  "coords": [
+                        4.154441,
+                        50.806699
+                  ]
+            },
+            {
+                  "name": "Sint-Anthonius en Onze-Lieve-Vrouw der 7 Weeënkapel",
+                  "text": "Capela Sfântul Anton și Maica Domnului a celor 7 Dureri din Lennik este un mic loc de rugăciune și meditație. Este cunoscută pentru semnificația sa religioasă și frumusețea simplă în peisajul local.",
+                  "category": "religious",
+                  "coords": [
+                        4.102059,
+                        50.794011
+                  ]
+            },
+            {
+                  "name": "Woestijnkapel",
+                  "text": "Woestijnkapel este o capelă pitorească din Lennik, situată solitar în peisaj. Este o destinație populară pentru drumeți și oferă un loc de liniște în mijlocul naturii.",
+                  "category": "religious",
+                  "coords": [
+                        4.080597,
+                        50.812826
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Goede Bijstandkerk",
+                  "text": "Biserica Onze-Lieve-Vrouw van Goede Bijstand din Lennik este un lăcaș de cult local important. Se remarcă prin arhitectura sa primitoare și semnificația pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        4.08235,
+                        50.792359
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkapel",
+                  "text": "Capela Inima Sfântă din Lennik este o mică capelă de pe marginea drumului, folosită adesea de trecători pentru scurte momente de reculegere. Este o mărturie a evlaviei populare profund înrădăcinate în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        4.157623,
+                        50.803996
+                  ]
             }
       ],
       "en": [
@@ -54981,6 +64827,150 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.119511,
                         50.79382
+                  ]
+            },
+            {
+                  "name": "Plattelandscentrum Paddenbroek",
+                  "text": "The Plattelandscentrum Paddenbroek in Lennik is an educational center and museum dedicated to rural life. It serves as a starting point for nature hikes and offers exhibitions on the region's agriculture.",
+                  "category": "museum",
+                  "coords": [
+                        4.10956,
+                        50.785362
+                  ]
+            },
+            {
+                  "name": "Kasteel van Saffelberg",
+                  "text": "The Kasteel van Saffelberg is a stately estate in Lennik known for its elegant architecture. The castle is surrounded by gardens and represents an important historical monument of the municipality.",
+                  "category": "castle",
+                  "coords": [
+                        4.122942,
+                        50.806157
+                  ]
+            },
+            {
+                  "name": "Rokkenborch",
+                  "text": "The Rokkenborch castle in Lennik is a historical fortification with a striking presence. It is a private residence that stands out for its location and medieval appearance.",
+                  "category": "castle",
+                  "coords": [
+                        4.110088,
+                        50.821426
+                  ]
+            },
+            {
+                  "name": "Hertboommolen Museum",
+                  "text": "The Hertboommolen Museum in Lennik is housed in a historical windmill and showcases the milling technique. Visitors can learn more about the history of grain cultivation and the function of traditional mills.",
+                  "category": "museum",
+                  "coords": [
+                        4.094715,
+                        50.822955
+                  ]
+            },
+            {
+                  "name": "Kesterheide",
+                  "text": "Kesterheide is a nature reserve in Lennik located at the highest point of the Pajottenland. It offers wide views over the hilly landscape and is a popular destination for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        4.100196,
+                        50.776305
+                  ]
+            },
+            {
+                  "name": "Kesterheide-Lombergbos",
+                  "text": "The Kesterheide-Lombergbos area in Lennik combines open heathland with dense wooded areas. This varied nature reserve invites long walks and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        4.111069,
+                        50.783469
+                  ]
+            },
+            {
+                  "name": "Ĳzeren Man",
+                  "text": "The Ĳzeren Man is a prominent marker on the Kesterheide in Lennik, often serving as a navigational point. From this peak, you can enjoy one of the best panoramic views over the entire region.",
+                  "category": "natural",
+                  "coords": [
+                        4.10445,
+                        50.77635
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "The Sint-Niklaaskerk in Lennik is a peaceful place of reflection with classical church architecture. It serves as a religious center for the community and houses local art treasures.",
+                  "category": "religious",
+                  "coords": [
+                        4.118108,
+                        50.795092
+                  ]
+            },
+            {
+                  "name": "Stevenistenkerk",
+                  "text": "The Stevenistenkerk in Lennik is a historically interesting church connected to the Stevenist religious community. The building is a simple but significant testimony to local religious history.",
+                  "category": "religious",
+                  "coords": [
+                        4.123048,
+                        50.77723
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouwkerk",
+                  "text": "The Onze-Lieve-Vrouwkerk in Lennik is an elegant place of worship dedicated to the Virgin Mary. The church is characterized by its Gothic stylistic elements and peaceful surroundings.",
+                  "category": "religious",
+                  "coords": [
+                        4.114058,
+                        50.822138
+                  ]
+            },
+            {
+                  "name": "Sint-Pieterskerk",
+                  "text": "The Sint-Pieterskerk is a major religious building in Lennik, attracting both believers and visitors. Its architecture reflects the traditional building style of the Pajottenland region.",
+                  "category": "religious",
+                  "coords": [
+                        4.11918,
+                        50.775577
+                  ]
+            },
+            {
+                  "name": "Sint-Kwintenkerk",
+                  "text": "The Sint-Kwintenkerk in Lennik is an impressive church known for its Gothic style. It houses significant artworks and is a central point of interest for visitors to the municipality.",
+                  "category": "religious",
+                  "coords": [
+                        4.154441,
+                        50.806699
+                  ]
+            },
+            {
+                  "name": "Sint-Anthonius en Onze-Lieve-Vrouw der 7 Weeënkapel",
+                  "text": "The chapel of St. Anthony and Our Lady of the 7 Sorrows in Lennik is a small, meditative place of prayer. It is known for its religious significance and simple beauty within the local landscape.",
+                  "category": "religious",
+                  "coords": [
+                        4.102059,
+                        50.794011
+                  ]
+            },
+            {
+                  "name": "Woestijnkapel",
+                  "text": "The Woestijnkapel is a picturesque chapel in Lennik, standing solitary in the landscape. It is a popular destination for hikers and offers a place of peace in the middle of nature.",
+                  "category": "religious",
+                  "coords": [
+                        4.080597,
+                        50.812826
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw van Goede Bijstandkerk",
+                  "text": "The church of Our Lady of Good Assistance in Lennik is an important local place of worship. It is characterized by its welcoming architecture and significance to the local community.",
+                  "category": "religious",
+                  "coords": [
+                        4.08235,
+                        50.792359
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkapel",
+                  "text": "The Heilig Hartkapel in Lennik is a small wayside chapel often used by passers-by for brief reflection. It is a testament to the deeply rooted folk piety in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        4.157623,
+                        50.803996
                   ]
             }
       ]
@@ -55227,7 +65217,376 @@ imageHint: "Knokke luxury storefronts and beach",
     image: "/poi-images/belgium-leuze-en-hainaut-cities-v2.webp",
   },
   {
-    id: "belgium-liedekerke-cities-v2",
+    id: "belgium-liedekerke-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alvinneberg",
+                  "text": "Der Alvinneberg ist eine archäologische Stätte in Liedekerke, die Hinweise auf frühere Besiedlungen gibt. Besucher können hier die historische Landschaft erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        4.090133,
+                        50.88971
+                  ]
+            },
+            {
+                  "name": "Hertigembos",
+                  "text": "Der Hertigembos ist ein ausgedehntes Naturschutzgebiet in Liedekerke, das sich ideal für Wanderungen eignet. Es beherbergt eine reiche Flora und Fauna in einer ruhigen Waldumgebung.",
+                  "category": "natural",
+                  "coords": [
+                        4.120749,
+                        50.873435
+                  ]
+            },
+            {
+                  "name": "Monument Boerenkrijg",
+                  "text": "Das Monument Boerenkrijg in Liedekerke erinnert an den historischen Bauernaufstand der Region. Die Überreste und das Denkmal sind wichtige Zeugen der lokalen Freiheitsgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        4.107578,
+                        50.879288
+                  ]
+            },
+            {
+                  "name": "De Kantwerkster",
+                  "text": "De Kantwerkster ist ein Denkmal in Liedekerke, das die Tradition der Spitzenklöppelei ehrt. Die Statue zeigt eine Handwerkerin bei ihrer kunstvollen Arbeit.",
+                  "category": "historical",
+                  "coords": [
+                        4.084234,
+                        50.870433
+                  ]
+            },
+            {
+                  "name": "Monument ter ere van Dr. Cochez",
+                  "text": "Das Monument ter ere van Dr. Cochez in Liedekerke würdigt das Lebenswerk des geschätzten Arztes. Es ist ein Ausdruck des Dankes der lokalen Gemeinschaft für seine Verdienste.",
+                  "category": "historical",
+                  "coords": [
+                        4.078035,
+                        50.881946
+                  ]
+            },
+            {
+                  "name": "Sint-Gaugericuskerk",
+                  "text": "Die Sint-Gaugericuskerk ist eine bedeutende Kirche in Liedekerke, die für ihre historische Architektur bekannt ist. Sie bildet das religiöse Zentrum des Ortsteils Pamel.",
+                  "category": "religious",
+                  "coords": [
+                        4.075426,
+                        50.843681
+                  ]
+            },
+            {
+                  "name": "Sint-Amanduskerk",
+                  "text": "Die Sint-Amanduskerk ist eine markante Kirche in Liedekerke, die dem heiligen Amandus gewidmet ist. Das Gebäude ist ein wichtiger Bestandteil des lokalen Kulturerbes.",
+                  "category": "religious",
+                  "coords": [
+                        4.04718,
+                        50.873761
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Die Sint-Niklaaskerk ist ein zentrales Gotteshaus in Liedekerke mit einer langen Geschichte. Ihre Architektur und Innenausstattung spiegeln die religiöse Tradition der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        4.082485,
+                        50.870614
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Boodschapkerk",
+                  "text": "Die Onze-Lieve-Vrouw Boodschapkerk in Liedekerke ist eine moderne Kirche, die der Verkündigung gewidmet ist. Sie bietet der lokalen Gemeinde einen hellen und einladenden Raum für Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        4.097003,
+                        50.877229
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Opdrachtkerk",
+                  "text": "Die Onze-Lieve-Vrouw Opdrachtkerk ist eine Kirche in Liedekerke, die für ihre feierliche Atmosphäre bekannt ist. Sie ist ein wichtiger Ort für religiöse Feierlichkeiten in der Nachbarschaft.",
+                  "category": "religious",
+                  "coords": [
+                        4.05598,
+                        50.855384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alvinneberg",
+                  "text": "Az Alvinneberg egy régészeti helyszín Liedekerkében, amely korábbi települések nyomait őrzi. A látogatók itt felfedezhetik a történelmi tájat.",
+                  "category": "historical",
+                  "coords": [
+                        4.090133,
+                        50.88971
+                  ]
+            },
+            {
+                  "name": "Hertigembos",
+                  "text": "A Hertigembos egy kiterjedt természetvédelmi terület Liedekerkében, amely ideális túrázásra. Gazdag növény- és állatvilágnak ad otthont egy nyugodt erdei környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        4.120749,
+                        50.873435
+                  ]
+            },
+            {
+                  "name": "Monument Boerenkrijg",
+                  "text": "A liedekerkei Monument Boerenkrijg a régió történelmi parasztfelkelésére emlékeztet. A maradványok és az emlékmű a helyi szabadságharc fontos tanúi.",
+                  "category": "historical",
+                  "coords": [
+                        4.107578,
+                        50.879288
+                  ]
+            },
+            {
+                  "name": "De Kantwerkster",
+                  "text": "A De Kantwerkster egy emlékmű Liedekerkében, amely a csipkeverés hagyománya előtt tiszteleg. A szobor egy kézműves nőt ábrázol művészi munkája közben.",
+                  "category": "historical",
+                  "coords": [
+                        4.084234,
+                        50.870433
+                  ]
+            },
+            {
+                  "name": "Monument ter ere van Dr. Cochez",
+                  "text": "A liedekerkei Monument ter ere van Dr. Cochez a nagyra becsült orvos életműve előtt tiszteleg. A helyi közösség hálájának kifejezése az ő érdemeiért.",
+                  "category": "historical",
+                  "coords": [
+                        4.078035,
+                        50.881946
+                  ]
+            },
+            {
+                  "name": "Sint-Gaugericuskerk",
+                  "text": "A Sint-Gaugericuskerk egy jelentős templom Liedekerkében, amely történelmi építészetéről ismert. Pamel városrész vallási központját alkotja.",
+                  "category": "religious",
+                  "coords": [
+                        4.075426,
+                        50.843681
+                  ]
+            },
+            {
+                  "name": "Sint-Amanduskerk",
+                  "text": "A Sint-Amanduskerk egy jellegzetes templom Liedekerkében, amelyet Szent Amandusnak szenteltek. Az épület a helyi kulturális örökség fontos része.",
+                  "category": "religious",
+                  "coords": [
+                        4.04718,
+                        50.873761
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "A Sint-Niklaaskerk egy központi istenháza Liedekerkében, hosszú múltra visszatekintve. Építészete und belső berendezése a régió vallási hagyományait tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        4.082485,
+                        50.870614
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Boodschapkerk",
+                  "text": "A liedekerkei Onze-Lieve-Vrouw Boodschapkerk egy modern templom, amelyet az Angyali üdvözletnek szenteltek. Világos és hívogató teret kínál a helyi közösség számára az imádsághoz.",
+                  "category": "religious",
+                  "coords": [
+                        4.097003,
+                        50.877229
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Opdrachtkerk",
+                  "text": "Az Onze-Lieve-Vrouw Opdrachtkerk egy templom Liedekerkében, amely ünnepi atmoszférájáról ismert. A környék vallási szertartásainak fontos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        4.05598,
+                        50.855384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alvinneberg",
+                  "text": "Alvinneberg este un sit arheologic în Liedekerke care oferă indicii despre așezările timpurii. Vizitatorii pot explora aici peisajul istoric.",
+                  "category": "historical",
+                  "coords": [
+                        4.090133,
+                        50.88971
+                  ]
+            },
+            {
+                  "name": "Hertigembos",
+                  "text": "Hertigembos este o rezervație naturală întinsă în Liedekerke, ideală pentru drumeții. Găzduiește o floră și faună bogată într-un mediu forestier liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        4.120749,
+                        50.873435
+                  ]
+            },
+            {
+                  "name": "Monument Boerenkrijg",
+                  "text": "Monument Boerenkrijg din Liedekerke amintește de revolta istorică a țăranilor din regiune. Vestigiile și monumentul sunt martori importanți ai istoriei locale a libertății.",
+                  "category": "historical",
+                  "coords": [
+                        4.107578,
+                        50.879288
+                  ]
+            },
+            {
+                  "name": "De Kantwerkster",
+                  "text": "De Kantwerkster este un monument din Liedekerke care onorează tradiția dantelei. Statuia înfățișează o artizană în timpul muncii sale artistice.",
+                  "category": "historical",
+                  "coords": [
+                        4.084234,
+                        50.870433
+                  ]
+            },
+            {
+                  "name": "Monument ter ere van Dr. Cochez",
+                  "text": "Monument ter ere van Dr. Cochez din Liedekerke omagiază opera de o viață a apreciatului medic. Este o expresie a recunoștinței comunității locale pentru meritele sale.",
+                  "category": "historical",
+                  "coords": [
+                        4.078035,
+                        50.881946
+                  ]
+            },
+            {
+                  "name": "Sint-Gaugericuskerk",
+                  "text": "Sint-Gaugericuskerk este o biserică importantă din Liedekerke, cunoscută pentru arhitectura sa istorică. Aceasta formează centrul religios al cartierului Pamel.",
+                  "category": "religious",
+                  "coords": [
+                        4.075426,
+                        50.843681
+                  ]
+            },
+            {
+                  "name": "Sint-Amanduskerk",
+                  "text": "Sint-Amanduskerk este o biserică remarcabilă din Liedekerke, dedicată Sfântului Amandus. Clădirea este o parte importantă a moștenirii culturale locale.",
+                  "category": "religious",
+                  "coords": [
+                        4.04718,
+                        50.873761
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Sint-Niklaaskerk este un lăcaș de cult central din Liedekerke, cu o istorie lungă. Arhitectura și decorațiunile sale interioare reflectă tradiția religioasă a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        4.082485,
+                        50.870614
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Boodschapkerk",
+                  "text": "Onze-Lieve-Vrouw Boodschapkerk din Liedekerke este o biserică modernă dedicată Bunei Vestiri. Oferă comunității locale un spațiu luminos și primitor pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        4.097003,
+                        50.877229
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Opdrachtkerk",
+                  "text": "Onze-Lieve-Vrouw Opdrachtkerk este o biserică din Liedekerke cunoscută pentru atmosfera sa solemnă. Este un loc important pentru celebrările religioase din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        4.05598,
+                        50.855384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alvinneberg",
+                  "text": "Alvinneberg is an archaeological site in Liedekerke that provides evidence of early settlements. Visitors can explore the historical landscape here.",
+                  "category": "historical",
+                  "coords": [
+                        4.090133,
+                        50.88971
+                  ]
+            },
+            {
+                  "name": "Hertigembos",
+                  "text": "Hertigembos is an extensive nature reserve in Liedekerke, ideal for hiking. It houses rich flora and fauna in a peaceful forest environment.",
+                  "category": "natural",
+                  "coords": [
+                        4.120749,
+                        50.873435
+                  ]
+            },
+            {
+                  "name": "Monument Boerenkrijg",
+                  "text": "The Monument Boerenkrijg in Liedekerke commemorates the historical peasants' uprising of the region. The remains and the monument are important witnesses of local freedom history.",
+                  "category": "historical",
+                  "coords": [
+                        4.107578,
+                        50.879288
+                  ]
+            },
+            {
+                  "name": "De Kantwerkster",
+                  "text": "De Kantwerkster is a monument in Liedekerke honoring the tradition of lace-making. The statue depicts a craftswoman at her artistic work.",
+                  "category": "historical",
+                  "coords": [
+                        4.084234,
+                        50.870433
+                  ]
+            },
+            {
+                  "name": "Monument ter ere van Dr. Cochez",
+                  "text": "The Monument ter ere van Dr. Cochez in Liedekerke honors the life's work of the esteemed physician. It is an expression of gratitude from the local community for his services.",
+                  "category": "historical",
+                  "coords": [
+                        4.078035,
+                        50.881946
+                  ]
+            },
+            {
+                  "name": "Sint-Gaugericuskerk",
+                  "text": "The Sint-Gaugericuskerk is a significant church in Liedekerke known for its historical architecture. It forms the religious center of the Pamel district.",
+                  "category": "religious",
+                  "coords": [
+                        4.075426,
+                        50.843681
+                  ]
+            },
+            {
+                  "name": "Sint-Amanduskerk",
+                  "text": "The Sint-Amanduskerk is a striking church in Liedekerke dedicated to Saint Amandus. The building is an important part of the local cultural heritage.",
+                  "category": "religious",
+                  "coords": [
+                        4.04718,
+                        50.873761
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "The Sint-Niklaaskerk is a central place of worship in Liedekerke with a long history. Its architecture and interior design reflect the religious tradition of the region.",
+                  "category": "religious",
+                  "coords": [
+                        4.082485,
+                        50.870614
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Boodschapkerk",
+                  "text": "The Onze-Lieve-Vrouw Boodschapkerk in Liedekerke is a modern church dedicated to the Annunciation. It offers the local community a bright and welcoming space for prayers.",
+                  "category": "religious",
+                  "coords": [
+                        4.097003,
+                        50.877229
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw Opdrachtkerk",
+                  "text": "The Onze-Lieve-Vrouw Opdrachtkerk is a church in Liedekerke known for its solemn atmosphere. It is an important place for religious celebrations in the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        4.05598,
+                        50.855384
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BE",
     name: { de: "Liedekerke", hu: "Liedekerke", ro: "Liedekerke", en: "Liedekerke" },

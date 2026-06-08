@@ -89,3 +89,4 @@ public/data/sight-grid/
 public/data/poi-faqs.json
 public/data/poi-practical/*.bak
 public/data/*.before_*.bak
+lib/visualLab/data/*.bak

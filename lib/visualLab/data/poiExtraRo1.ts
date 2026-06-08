@@ -270,6 +270,15 @@ export const poiExtraRo1: POI[] = [
                         23.717664,
                         46.310573
                   ]
+            },
+            {
+                  "name": "Ștrand Aiud",
+                  "text": "Das Freibad in Aiud bietet Möglichkeiten zur Abkühlung im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        23.721855,
+                        46.309512
+                  ]
             }
       ],
       "hu": [
@@ -311,6 +320,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.717664,
                         46.310573
+                  ]
+            },
+            {
+                  "name": "Ștrand Aiud",
+                  "text": "A nagyenyedi strand felfrissülési lehetőséget nyújt a nyári hőségben.",
+                  "category": "family",
+                  "coords": [
+                        23.721855,
+                        46.309512
                   ]
             }
       ],
@@ -354,6 +372,15 @@ export const poiExtraRo1: POI[] = [
                         23.717664,
                         46.310573
                   ]
+            },
+            {
+                  "name": "Ștrand Aiud",
+                  "text": "Ștrandul din Aiud oferă posibilități de răcorire pe timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        23.721855,
+                        46.309512
+                  ]
             }
       ],
       "en": [
@@ -395,6 +422,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.717664,
                         46.310573
+                  ]
+            },
+            {
+                  "name": "Ștrand Aiud",
+                  "text": "The swimming pool in Aiud offers opportunities for cooling off in summer.",
+                  "category": "family",
+                  "coords": [
+                        23.721855,
+                        46.309512
                   ]
             }
       ]
@@ -1111,6 +1147,15 @@ export const poiExtraRo1: POI[] = [
                         24.675584,
                         45.141219
                   ]
+            },
+            {
+                  "name": "Ștrand Curtea de Argeș",
+                  "text": "Ein Schwimmbad in Curtea de Argeș für einen erfrischenden Tag mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        24.672473,
+                        45.143153
+                  ]
             }
       ],
       "hu": [
@@ -1142,6 +1187,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.675584,
                         45.141219
+                  ]
+            },
+            {
+                  "name": "Ștrand Curtea de Argeș",
+                  "text": "Egy úszómedence Curtea de Argeșben egy frissítő naphoz a családdal.",
+                  "category": "family",
+                  "coords": [
+                        24.672473,
+                        45.143153
                   ]
             }
       ],
@@ -1175,6 +1229,15 @@ export const poiExtraRo1: POI[] = [
                         24.675584,
                         45.141219
                   ]
+            },
+            {
+                  "name": "Ștrand Curtea de Argeș",
+                  "text": "O piscină în Curtea de Argeș pentru o zi răcoritoare alături de familie.",
+                  "category": "family",
+                  "coords": [
+                        24.672473,
+                        45.143153
+                  ]
             }
       ],
       "en": [
@@ -1206,6 +1269,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.675584,
                         45.141219
+                  ]
+            },
+            {
+                  "name": "Ștrand Curtea de Argeș",
+                  "text": "A swimming pool in Curtea de Argeș for a refreshing day with family.",
+                  "category": "family",
+                  "coords": [
+                        24.672473,
+                        45.143153
                   ]
             }
       ]
@@ -1310,6 +1382,15 @@ export const poiExtraRo1: POI[] = [
                         25.042914,
                         45.27479
                   ]
+            },
+            {
+                  "name": "Bazinul de înot Câmpulung",
+                  "text": "Das Schwimmbecken in Câmpulung dient dem Training und der Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        25.049096,
+                        45.289331
+                  ]
             }
       ],
       "hu": [
@@ -1361,6 +1442,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.042914,
                         45.27479
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot Câmpulung",
+                  "text": "A hosszúmezői úszómedence az edzést és a szabadidős tevékenységeket szolgálja.",
+                  "category": "family",
+                  "coords": [
+                        25.049096,
+                        45.289331
                   ]
             }
       ],
@@ -1414,6 +1504,15 @@ export const poiExtraRo1: POI[] = [
                         25.042914,
                         45.27479
                   ]
+            },
+            {
+                  "name": "Bazinul de înot Câmpulung",
+                  "text": "Bazinul de înot din Câmpulung servește antrenamentului și petrecerii timpului liber.",
+                  "category": "family",
+                  "coords": [
+                        25.049096,
+                        45.289331
+                  ]
             }
       ],
       "en": [
@@ -1465,6 +1564,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.042914,
                         45.27479
+                  ]
+            },
+            {
+                  "name": "Bazinul de înot Câmpulung",
+                  "text": "The swimming pool in Campulung serves for training and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        25.049096,
+                        45.289331
                   ]
             }
       ]
@@ -1774,6 +1882,15 @@ export const poiExtraRo1: POI[] = [
                         26.77359,
                         46.254827
                   ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "Ein städtisches Schwimmbad in Onești für die Freizeitgestaltung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        26.767808,
+                        46.255545
+                  ]
             }
       ],
       "hu": [
@@ -1815,6 +1932,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.77359,
                         46.254827
+                  ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "Városi úszómedence Oneștiben családi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        26.767808,
+                        46.255545
                   ]
             }
       ],
@@ -1858,6 +1984,15 @@ export const poiExtraRo1: POI[] = [
                         26.77359,
                         46.254827
                   ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "O piscină municipală în Onești pentru petrecerea timpului liber în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.767808,
+                        46.255545
+                  ]
             }
       ],
       "en": [
@@ -1899,6 +2034,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.77359,
                         46.254827
+                  ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "A municipal swimming pool in Onești for family leisure.",
+                  "category": "family",
+                  "coords": [
+                        26.767808,
+                        46.255545
                   ]
             }
       ]
@@ -3342,6 +3486,24 @@ export const poiExtraRo1: POI[] = [
                         24.968751,
                         45.82764
                   ]
+            },
+            {
+                  "name": "Fosta Baie Comunală",
+                  "text": "Ein ehemaliges öffentliches Bad in Făgăraș.",
+                  "category": "family",
+                  "coords": [
+                        24.975711,
+                        45.844324
+                  ]
+            },
+            {
+                  "name": "Club Nova Elite",
+                  "text": "Ein Schwimmbad in Făgăraș, geeignet für Familien.",
+                  "category": "family",
+                  "coords": [
+                        24.970534,
+                        45.816738
+                  ]
             }
       ],
       "hu": [
@@ -3371,6 +3533,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.968751,
                         45.82764
+                  ]
+            },
+            {
+                  "name": "Fosta Baie Comunală",
+                  "text": "Egykori közfürdő Fogarason.",
+                  "category": "family",
+                  "coords": [
+                        24.975711,
+                        45.844324
+                  ]
+            },
+            {
+                  "name": "Club Nova Elite",
+                  "text": "Egy úszómedence Fogarason, amely alkalmas családok számára.",
+                  "category": "family",
+                  "coords": [
+                        24.970534,
+                        45.816738
                   ]
             }
       ],
@@ -3402,6 +3582,24 @@ export const poiExtraRo1: POI[] = [
                         24.968751,
                         45.82764
                   ]
+            },
+            {
+                  "name": "Fosta Baie Comunală",
+                  "text": "O fostă baie comunală în Făgăraș.",
+                  "category": "family",
+                  "coords": [
+                        24.975711,
+                        45.844324
+                  ]
+            },
+            {
+                  "name": "Club Nova Elite",
+                  "text": "O piscină în Făgăraș potrivită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        24.970534,
+                        45.816738
+                  ]
             }
       ],
       "en": [
@@ -3431,6 +3629,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.968751,
                         45.82764
+                  ]
+            },
+            {
+                  "name": "Fosta Baie Comunală",
+                  "text": "A former public bath in Făgăraș.",
+                  "category": "family",
+                  "coords": [
+                        24.975711,
+                        45.844324
+                  ]
+            },
+            {
+                  "name": "Club Nova Elite",
+                  "text": "A swimming pool in Făgăraș suitable for families.",
+                  "category": "family",
+                  "coords": [
+                        24.970534,
+                        45.816738
                   ]
             }
       ]
@@ -3524,6 +3740,15 @@ export const poiExtraRo1: POI[] = [
                         25.639842,
                         45.613724
                   ]
+            },
+            {
+                  "name": "Parcul Zoologic Brașov",
+                  "text": "Der Zoo Brașov beherbergt eine Vielzahl von Tierarten in einer natürlichen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        25.632169,
+                        45.612643
+                  ]
             }
       ],
       "hu": [
@@ -3573,6 +3798,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.639842,
                         45.613724
+                  ]
+            },
+            {
+                  "name": "Parcul Zoologic Brașov",
+                  "text": "A brassói állatkert számos állatfajnak ad otthont természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        25.632169,
+                        45.612643
                   ]
             }
       ],
@@ -3624,6 +3858,15 @@ export const poiExtraRo1: POI[] = [
                         25.639842,
                         45.613724
                   ]
+            },
+            {
+                  "name": "Parcul Zoologic Brașov",
+                  "text": "Grădina Zoologică Brașov găzduiește o varietate de specii de animale într-un mediu natural.",
+                  "category": "family",
+                  "coords": [
+                        25.632169,
+                        45.612643
+                  ]
             }
       ],
       "en": [
@@ -3673,6 +3916,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.639842,
                         45.613724
+                  ]
+            },
+            {
+                  "name": "Zoo Brașov",
+                  "text": "The Brașov Zoo is home to a variety of animal species in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        25.632169,
+                        45.612643
                   ]
             }
       ]
@@ -4814,6 +5066,24 @@ export const poiExtraRo1: POI[] = [
                         21.823013,
                         45.345288
                   ]
+            },
+            {
+                  "name": "Titanic",
+                  "text": "Ein Schwimmbad in Reșița für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        21.869503,
+                        45.298795
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Ion Crișan",
+                  "text": "Ein Zoo in Reșița, in dem Familien die Natur und Tiere erkunden können.",
+                  "category": "family",
+                  "coords": [
+                        21.921308,
+                        45.293703
+                  ]
             }
       ],
       "hu": [
@@ -4853,6 +5123,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.823013,
                         45.345288
+                  ]
+            },
+            {
+                  "name": "Titanic",
+                  "text": "Egy úszómedence Resicabányán családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.869503,
+                        45.298795
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Ion Crișan",
+                  "text": "Állatkert Resicabányán, ahol a családok felfedezhetik a természetet és az állatokat.",
+                  "category": "family",
+                  "coords": [
+                        21.921308,
+                        45.293703
                   ]
             }
       ],
@@ -4894,6 +5182,24 @@ export const poiExtraRo1: POI[] = [
                         21.823013,
                         45.345288
                   ]
+            },
+            {
+                  "name": "Titanic",
+                  "text": "O piscină în Reșița pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        21.869503,
+                        45.298795
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Ion Crișan",
+                  "text": "O grădină zoologică în Reșița unde familiile pot explora natura și animalele.",
+                  "category": "family",
+                  "coords": [
+                        21.921308,
+                        45.293703
+                  ]
             }
       ],
       "en": [
@@ -4933,6 +5239,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.823013,
                         45.345288
+                  ]
+            },
+            {
+                  "name": "Titanic",
+                  "text": "A swimming pool in Reșița for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        21.869503,
+                        45.298795
+                  ]
+            },
+            {
+                  "name": "Ion Crișan Zoological Park",
+                  "text": "A zoo in Reșița where families can explore nature and animals.",
+                  "category": "family",
+                  "coords": [
+                        21.921308,
+                        45.293703
                   ]
             }
       ]
@@ -5857,6 +6181,24 @@ export const poiExtraRo1: POI[] = [
                         23.806504,
                         46.579523
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Turda",
+                  "text": "Ein Zoo in Turda, der ein tolles Erlebnis für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.810138,
+                        46.575307
+                  ]
+            },
+            {
+                  "name": "Ștrandul Durgău",
+                  "text": "Ein Wasserpark in Turda, der familienfreundliche Wasseraktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.788427,
+                        46.585876
+                  ]
             }
       ],
       "hu": [
@@ -5944,6 +6286,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.806504,
                         46.579523
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Turda",
+                  "text": "Állatkert Tordán, amely nagyszerű élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        23.810138,
+                        46.575307
+                  ]
+            },
+            {
+                  "name": "Dőrgő strand",
+                  "text": "Vízi park Tordán, amely családbarát vízi programokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        23.788427,
+                        46.585876
                   ]
             }
       ],
@@ -6033,6 +6393,24 @@ export const poiExtraRo1: POI[] = [
                         23.806504,
                         46.579523
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Turda",
+                  "text": "O grădină zoologică în Turda care oferă o experiență deosebită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        23.810138,
+                        46.575307
+                  ]
+            },
+            {
+                  "name": "Ștrandul Durgău",
+                  "text": "Un parc acvatic în Turda care oferă activități acvatice pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        23.788427,
+                        46.585876
+                  ]
             }
       ],
       "en": [
@@ -6120,6 +6498,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.806504,
                         46.579523
+                  ]
+            },
+            {
+                  "name": "Turda Zoo",
+                  "text": "A zoo in Turda offering a great experience for families.",
+                  "category": "family",
+                  "coords": [
+                        23.810138,
+                        46.575307
+                  ]
+            },
+            {
+                  "name": "Ștrandul Durgău",
+                  "text": "A water park in Turda providing family-friendly aquatic activities.",
+                  "category": "family",
+                  "coords": [
+                        23.788427,
+                        46.585876
                   ]
             }
       ]
@@ -6302,6 +6698,15 @@ export const poiExtraRo1: POI[] = [
                         23.806504,
                         46.579523
                   ]
+            },
+            {
+                  "name": "Bazin copii",
+                  "text": "Children's pool ist ein Schwimmbad in Campia Turzii, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        23.894226,
+                        46.540661
+                  ]
             }
       ],
       "hu": [
@@ -6350,6 +6755,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.806504,
                         46.579523
+                  ]
+            },
+            {
+                  "name": "Bazin copii",
+                  "text": "Children's pool egy úszómedence Campia Turzii városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        23.894226,
+                        46.540661
                   ]
             }
       ],
@@ -6400,6 +6814,15 @@ export const poiExtraRo1: POI[] = [
                         23.806504,
                         46.579523
                   ]
+            },
+            {
+                  "name": "Bazin copii",
+                  "text": "Children's pool este o piscină din Campia Turzii ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        23.894226,
+                        46.540661
+                  ]
             }
       ],
       "en": [
@@ -6448,6 +6871,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.806504,
                         46.579523
+                  ]
+            },
+            {
+                  "name": "Children's pool",
+                  "text": "Children's pool is a swimming pool in Campia Turzii ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        23.894226,
+                        46.540661
                   ]
             }
       ]
@@ -6779,7 +7211,676 @@ export const poiExtraRo1: POI[] = [
       "en": ["A resort on the Black Sea coast.", "Home to the Petromidia refinery, one of the largest in Romania.", "Năvodari is known for its summer camps for children.", "The town has long sandy beaches.", "The local economy is based on industry and tourism.", "Năvodari has seen rapid development in recent years."]
     },
     image: "/poi-images/city-navodari-extra.webp",
-    "sights": {"de": [{"name": "Strand von Navodari", "text": "Ein beeindruckend breiter Streifen feinsten Sandes zeichnet den Strand von Năvodari aus. Er bietet ruhige Bedingungen für Familien und Schwimmer, die das weite Meer ohne großen Trubel genießen wollen. Bauen Sie mit den Kindern Sandburgen und erfreuen Sie sich an den sonnigen Urlaubstagen.", "category": "natural", "confidence": "high", "coords": [28.629185, 44.322611]}, {"name": "Siutghiol-See", "text": "Der Siutghiol-See bietet malerische Ausblicke und Möglichkeiten für Wassersport, direkt an der Grenze zur Ferienregion gelegen.", "category": "natural", "confidence": "high", "coords": [28.6, 44.246389]}, {"name": "Hafen von Midia", "text": "Der Hafen von Midia ist ein wichtiger Industriestandort am Schwarzen Meer, der den Donaukanal mit den internationalen Seewegen verbindet.", "category": "civic", "confidence": "high", "coords": [28.660708, 44.338437]}, {"name": "Playa del Mar", "text": "Gelegen in der Küstenstadt Năvodari, bietet die Playa del Mar eine einladende Kulisse am Wasser. Besucher können sich hier auf entspannte Stunden beim Sonnenbaden und gemütliche Strandspaziergänge freuen. Die Atmosphäre ist ideal für all jene, die eine unbeschwerte Zeit am Meer verbringen möchten. Ein Besuch lohnt sich besonders an warmen Sommertagen.", "category": "recreational", "coords": [28.628211, 44.304635]}, {"name": "Loca", "text": "Loca ist ein Strand in Navodari.", "category": "recreational", "coords": [28.635417, 44.319493]}, {"name": "Panoralis", "text": "Panoralis ist ein Strand in Navodari.", "category": "recreational", "coords": [28.629588, 44.308057]}, {"name": "DM", "text": "DM ist ein Strand in Navodari.", "category": "recreational", "coords": [28.631518, 44.312035]}, {"name": "Kanoa", "text": "Kanoa ist ein Strand in Navodari.", "category": "recreational", "coords": [28.637586, 44.323338]}, {"name": "Oneiro", "text": "Oneiro ist ein Strand in Navodari.", "category": "recreational", "coords": [28.627446, 44.302743]}, {"name": "Dizzy", "text": "Dizzy ist ein Strand in Navodari.", "category": "recreational", "coords": [28.632687, 44.314347]}, {"name": "Signature", "text": "Strand in Năvodari am Schwarzen Meer.", "category": "recreational", "coords": [28.630423, 44.309814]}], "hu": [{"name": "Năvodari strand", "text": "A finom homok lenyűgözően széles sávja jellemzi a Năvodari strandot. Nyugodt körülményeket biztosít a családoknak és az úszóknak, akik nagy tömeg nélkül szeretnék élvezni a hatalmas tengert. Építsen homokvárakat a gyerekekkel, és örüljön a napsütéses nyaralási napoknak a parton.", "category": "natural", "confidence": "high", "coords": [28.629185, 44.322611]}, {"name": "Siutghiol-tó", "text": "A Siutghiol-tó látványos tájat és vízisport-lehetőségeket kínál, elválasztva a tengerparti üdülőhelyeket a szárazföldtől.", "category": "natural", "confidence": "high", "coords": [28.6, 44.246389]}, {"name": "Midia kikötő", "text": "A Midia kikötő a Fekete-tenger egyik fontos ipari csomópontja, amely a Duna-csatorna végét és a tengeri kereskedelmi útvonalat jelenti.", "category": "civic", "confidence": "high", "coords": [28.660708, 44.338437]}, {"name": "Playa del Mar", "text": "A Năvodari tengerparti városában található Playa del Mar hívogató vízparti környezetet kínál. A látogatók nyugodt napozásra és kellemes parti sétákra számíthatnak. A hangulat ideális azok számára, akik gondtalanul szeretnék tölteni az időt a tenger mellett. Érdemes a meleg nyári napokon felkeresni.", "category": "recreational", "coords": [28.628211, 44.304635]}, {"name": "Loca", "text": "A Loca egy strand Năvodari településen.", "category": "recreational", "coords": [28.635417, 44.319493]}, {"name": "Panoralis", "text": "A Panoralis egy strand Năvodari településen.", "category": "recreational", "coords": [28.629588, 44.308057]}, {"name": "DM", "text": "A DM egy strand Năvodari településen.", "category": "recreational", "coords": [28.631518, 44.312035]}, {"name": "Kanoa", "text": "A Kanoa egy strand Năvodari településen.", "category": "recreational", "coords": [28.637586, 44.323338]}, {"name": "Oneiro", "text": "Az Oneiro egy strand Năvodari településen.", "category": "recreational", "coords": [28.627446, 44.302743]}, {"name": "Dizzy", "text": "A Dizzy egy strand Năvodari településen.", "category": "recreational", "coords": [28.632687, 44.314347]}, {"name": "Signature", "text": "Strand Năvodari településen, a Fekete-tenger partján.", "category": "recreational", "coords": [28.630423, 44.309814]}], "ro": [{"name": "Plaja Năvodari", "text": "O fâșie impresionant de lată de nisip fin caracterizează plaja din Năvodari. Oferă condiții liniștite pentru familiile și înotătorii care doresc să se bucure de marea vastă fără aglomerație mare. Construiți castele de nisip cu copiii și bucurați-vă de zilele însorite de vacanță pe mal.", "category": "natural", "confidence": "high", "coords": [28.629185, 44.322611]}, {"name": "Lacul Siutghiol", "text": "Lacul Siutghiol oferă peisaje pitorești și posibilități pentru sporturi nautice, fiind o barieră naturală între țărm și interiorul țării.", "category": "natural", "confidence": "high", "coords": [28.6, 44.246389]}, {"name": "Portul Midia", "text": "Portul Midia este un punct strategic industrial la Marea Neagră, conectând canalul navigabil cu rutele comerciale internaționale.", "category": "civic", "confidence": "high", "coords": [28.660708, 44.338437]}, {"name": "Playa del Mar", "text": "Situată în orașul de coastă Năvodari, Playa del Mar oferă un cadru primitor la malul apei. Vizitatorii se pot bucura de ore relaxante la plajă și de plimbări plăcute pe nisip. Atmosfera este ideală pentru toți cei care doresc să petreacă clipe fără griji la mare. O vizită este deosebit de plăcută în zilele calde de vară.", "category": "recreational", "coords": [28.628211, 44.304635]}, {"name": "Loca", "text": "Loca este o plajă situată în Năvodari.", "category": "recreational", "coords": [28.635417, 44.319493]}, {"name": "Panoralis", "text": "Panoralis este o plajă situată în Năvodari.", "category": "recreational", "coords": [28.629588, 44.308057]}, {"name": "DM", "text": "DM este o plajă situată în Năvodari.", "category": "recreational", "coords": [28.631518, 44.312035]}, {"name": "Kanoa", "text": "Kanoa este o plajă situată în Năvodari.", "category": "recreational", "coords": [28.637586, 44.323338]}, {"name": "Oneiro", "text": "Oneiro este o plajă situată în Năvodari.", "category": "recreational", "coords": [28.627446, 44.302743]}, {"name": "Dizzy", "text": "Dizzy este o plajă situată în Năvodari.", "category": "recreational", "coords": [28.632687, 44.314347]}, {"name": "Signature", "text": "Plajă situată în Năvodari, pe litoralul Mării Negre.", "category": "recreational", "coords": [28.630423, 44.309814]}], "en": [{"name": "Navodari Beach", "text": "An impressively wide strip of fine sand characterizes the beach of Năvodari. It offers tranquil conditions for families and swimmers who want to enjoy the vast sea without the big crowds. Build sandcastles with the children and delight in the sunny holiday days by the shore.", "category": "natural", "confidence": "high", "coords": [28.629185, 44.322611]}, {"name": "Lake Siutghiol", "text": "Lake Siutghiol offers scenic views and opportunities for water sports, acting as a natural buffer between the resorts and mainland.", "category": "natural", "confidence": "high", "coords": [28.6, 44.246389]}, {"name": "Midia Port", "text": "Midia Port is a strategic industrial hub on the Black Sea, connecting the navigation canal with international maritime routes.", "category": "civic", "confidence": "high", "coords": [28.660708, 44.338437]}, {"name": "Playa del Mar", "text": "Located in the coastal town of Năvodari, Playa del Mar offers an inviting waterfront setting. Visitors can look forward to relaxing hours of sunbathing and pleasant strolls along the shore. The atmosphere is ideal for anyone wanting to spend a carefree time by the sea. It is especially enjoyable to visit on warm summer days.", "category": "recreational", "coords": [28.628211, 44.304635]}, {"name": "Loca", "text": "Loca is a beach in Năvodari.", "category": "recreational", "coords": [28.635417, 44.319493]}, {"name": "Panoralis", "text": "Panoralis is a beach in Năvodari.", "category": "recreational", "coords": [28.629588, 44.308057]}, {"name": "DM", "text": "DM is a beach in Năvodari.", "category": "recreational", "coords": [28.631518, 44.312035]}, {"name": "Kanoa", "text": "Kanoa is a beach in Năvodari.", "category": "recreational", "coords": [28.637586, 44.323338]}, {"name": "Oneiro", "text": "Oneiro is a beach in Năvodari.", "category": "recreational", "coords": [28.627446, 44.302743]}, {"name": "Dizzy", "text": "Dizzy is a beach in Năvodari.", "category": "recreational", "coords": [28.632687, 44.314347]}, {"name": "Signature", "text": "Beach located in Năvodari on the Black Sea coast.", "category": "recreational", "coords": [28.630423, 44.309814]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Strand von Navodari",
+                  "text": "Ein beeindruckend breiter Streifen feinsten Sandes zeichnet den Strand von Năvodari aus. Er bietet ruhige Bedingungen für Familien und Schwimmer, die das weite Meer ohne großen Trubel genießen wollen. Bauen Sie mit den Kindern Sandburgen und erfreuen Sie sich an den sonnigen Urlaubstagen.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.629185,
+                        44.322611
+                  ]
+            },
+            {
+                  "name": "Siutghiol-See",
+                  "text": "Der Siutghiol-See bietet malerische Ausblicke und Möglichkeiten für Wassersport, direkt an der Grenze zur Ferienregion gelegen.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.6,
+                        44.246389
+                  ]
+            },
+            {
+                  "name": "Hafen von Midia",
+                  "text": "Der Hafen von Midia ist ein wichtiger Industriestandort am Schwarzen Meer, der den Donaukanal mit den internationalen Seewegen verbindet.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.660708,
+                        44.338437
+                  ]
+            },
+            {
+                  "name": "Playa del Mar",
+                  "text": "Gelegen in der Küstenstadt Năvodari, bietet die Playa del Mar eine einladende Kulisse am Wasser. Besucher können sich hier auf entspannte Stunden beim Sonnenbaden und gemütliche Strandspaziergänge freuen. Die Atmosphäre ist ideal für all jene, die eine unbeschwerte Zeit am Meer verbringen möchten. Ein Besuch lohnt sich besonders an warmen Sommertagen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628211,
+                        44.304635
+                  ]
+            },
+            {
+                  "name": "Loca",
+                  "text": "Loca ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.635417,
+                        44.319493
+                  ]
+            },
+            {
+                  "name": "Panoralis",
+                  "text": "Panoralis ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.629588,
+                        44.308057
+                  ]
+            },
+            {
+                  "name": "DM",
+                  "text": "DM ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631518,
+                        44.312035
+                  ]
+            },
+            {
+                  "name": "Kanoa",
+                  "text": "Kanoa ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.637586,
+                        44.323338
+                  ]
+            },
+            {
+                  "name": "Oneiro",
+                  "text": "Oneiro ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.627446,
+                        44.302743
+                  ]
+            },
+            {
+                  "name": "Dizzy",
+                  "text": "Dizzy ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632687,
+                        44.314347
+                  ]
+            },
+            {
+                  "name": "Signature",
+                  "text": "Strand in Năvodari am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.630423,
+                        44.309814
+                  ]
+            },
+            {
+                  "name": "Keep Going",
+                  "text": "Keep Going ist ein Strandresort in Navodari, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        28.63365,
+                        44.316315
+                  ]
+            },
+            {
+                  "name": "Papaya",
+                  "text": "Papaya ist ein Strandresort in Navodari, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        28.629049,
+                        44.306352
+                  ]
+            },
+            {
+                  "name": "Nautic",
+                  "text": "Nautic ist ein Strandresort in Navodari, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        28.636041,
+                        44.320647
+                  ]
+            },
+            {
+                  "name": "Secret",
+                  "text": "Secret ist ein Strandresort in Navodari, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        28.634633,
+                        44.318217
+                  ]
+            },
+            {
+                  "name": "Plaja Curacao",
+                  "text": "Plaja Curacao ist ein Strandresort in Navodari, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        28.624948,
+                        44.295173
+                  ]
+            },
+            {
+                  "name": "Marina Regia",
+                  "text": "Marina Regia ist ein Strandresort in Navodari, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        28.622329,
+                        44.285437
+                  ]
+            },
+            {
+                  "name": "Tiki beach",
+                  "text": "Tiki beach ist ein Strandresort in Navodari, perfekt für einen entspannten Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        28.623226,
+                        44.287736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Năvodari strand",
+                  "text": "A finom homok lenyűgözően széles sávja jellemzi a Năvodari strandot. Nyugodt körülményeket biztosít a családoknak és az úszóknak, akik nagy tömeg nélkül szeretnék élvezni a hatalmas tengert. Építsen homokvárakat a gyerekekkel, és örüljön a napsütéses nyaralási napoknak a parton.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.629185,
+                        44.322611
+                  ]
+            },
+            {
+                  "name": "Siutghiol-tó",
+                  "text": "A Siutghiol-tó látványos tájat és vízisport-lehetőségeket kínál, elválasztva a tengerparti üdülőhelyeket a szárazföldtől.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.6,
+                        44.246389
+                  ]
+            },
+            {
+                  "name": "Midia kikötő",
+                  "text": "A Midia kikötő a Fekete-tenger egyik fontos ipari csomópontja, amely a Duna-csatorna végét és a tengeri kereskedelmi útvonalat jelenti.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.660708,
+                        44.338437
+                  ]
+            },
+            {
+                  "name": "Playa del Mar",
+                  "text": "A Năvodari tengerparti városában található Playa del Mar hívogató vízparti környezetet kínál. A látogatók nyugodt napozásra és kellemes parti sétákra számíthatnak. A hangulat ideális azok számára, akik gondtalanul szeretnék tölteni az időt a tenger mellett. Érdemes a meleg nyári napokon felkeresni.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628211,
+                        44.304635
+                  ]
+            },
+            {
+                  "name": "Loca",
+                  "text": "A Loca egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.635417,
+                        44.319493
+                  ]
+            },
+            {
+                  "name": "Panoralis",
+                  "text": "A Panoralis egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.629588,
+                        44.308057
+                  ]
+            },
+            {
+                  "name": "DM",
+                  "text": "A DM egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631518,
+                        44.312035
+                  ]
+            },
+            {
+                  "name": "Kanoa",
+                  "text": "A Kanoa egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.637586,
+                        44.323338
+                  ]
+            },
+            {
+                  "name": "Oneiro",
+                  "text": "Az Oneiro egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.627446,
+                        44.302743
+                  ]
+            },
+            {
+                  "name": "Dizzy",
+                  "text": "A Dizzy egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632687,
+                        44.314347
+                  ]
+            },
+            {
+                  "name": "Signature",
+                  "text": "Strand Năvodari településen, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        28.630423,
+                        44.309814
+                  ]
+            },
+            {
+                  "name": "Keep Going",
+                  "text": "Keep Going egy tengerparti üdülőhely Navodari területén, amely tökéletes egy pihentető naphoz a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        28.63365,
+                        44.316315
+                  ]
+            },
+            {
+                  "name": "Papaya",
+                  "text": "Papaya egy tengerparti üdülőhely Navodari területén, amely tökéletes egy pihentető naphoz a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        28.629049,
+                        44.306352
+                  ]
+            },
+            {
+                  "name": "Nautic",
+                  "text": "Nautic egy tengerparti üdülőhely Navodari területén, amely tökéletes egy pihentető naphoz a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        28.636041,
+                        44.320647
+                  ]
+            },
+            {
+                  "name": "Secret",
+                  "text": "Secret egy tengerparti üdülőhely Navodari területén, amely tökéletes egy pihentető naphoz a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        28.634633,
+                        44.318217
+                  ]
+            },
+            {
+                  "name": "Plaja Curacao",
+                  "text": "Plaja Curacao egy tengerparti üdülőhely Navodari területén, amely tökéletes egy pihentető naphoz a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        28.624948,
+                        44.295173
+                  ]
+            },
+            {
+                  "name": "Marina Regia",
+                  "text": "Marina Regia egy tengerparti üdülőhely Navodari területén, amely tökéletes egy pihentető naphoz a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        28.622329,
+                        44.285437
+                  ]
+            },
+            {
+                  "name": "Tiki beach",
+                  "text": "Tiki beach egy tengerparti üdülőhely Navodari területén, amely tökéletes egy pihentető naphoz a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        28.623226,
+                        44.287736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Năvodari",
+                  "text": "O fâșie impresionant de lată de nisip fin caracterizează plaja din Năvodari. Oferă condiții liniștite pentru familiile și înotătorii care doresc să se bucure de marea vastă fără aglomerație mare. Construiți castele de nisip cu copiii și bucurați-vă de zilele însorite de vacanță pe mal.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.629185,
+                        44.322611
+                  ]
+            },
+            {
+                  "name": "Lacul Siutghiol",
+                  "text": "Lacul Siutghiol oferă peisaje pitorești și posibilități pentru sporturi nautice, fiind o barieră naturală între țărm și interiorul țării.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.6,
+                        44.246389
+                  ]
+            },
+            {
+                  "name": "Portul Midia",
+                  "text": "Portul Midia este un punct strategic industrial la Marea Neagră, conectând canalul navigabil cu rutele comerciale internaționale.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.660708,
+                        44.338437
+                  ]
+            },
+            {
+                  "name": "Playa del Mar",
+                  "text": "Situată în orașul de coastă Năvodari, Playa del Mar oferă un cadru primitor la malul apei. Vizitatorii se pot bucura de ore relaxante la plajă și de plimbări plăcute pe nisip. Atmosfera este ideală pentru toți cei care doresc să petreacă clipe fără griji la mare. O vizită este deosebit de plăcută în zilele calde de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628211,
+                        44.304635
+                  ]
+            },
+            {
+                  "name": "Loca",
+                  "text": "Loca este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.635417,
+                        44.319493
+                  ]
+            },
+            {
+                  "name": "Panoralis",
+                  "text": "Panoralis este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.629588,
+                        44.308057
+                  ]
+            },
+            {
+                  "name": "DM",
+                  "text": "DM este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631518,
+                        44.312035
+                  ]
+            },
+            {
+                  "name": "Kanoa",
+                  "text": "Kanoa este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.637586,
+                        44.323338
+                  ]
+            },
+            {
+                  "name": "Oneiro",
+                  "text": "Oneiro este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.627446,
+                        44.302743
+                  ]
+            },
+            {
+                  "name": "Dizzy",
+                  "text": "Dizzy este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632687,
+                        44.314347
+                  ]
+            },
+            {
+                  "name": "Signature",
+                  "text": "Plajă situată în Năvodari, pe litoralul Mării Negre.",
+                  "category": "recreational",
+                  "coords": [
+                        28.630423,
+                        44.309814
+                  ]
+            },
+            {
+                  "name": "Keep Going",
+                  "text": "Keep Going este o stațiune de plajă din Navodari perfectă pentru o zi relaxantă lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        28.63365,
+                        44.316315
+                  ]
+            },
+            {
+                  "name": "Papaya",
+                  "text": "Papaya este o stațiune de plajă din Navodari perfectă pentru o zi relaxantă lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        28.629049,
+                        44.306352
+                  ]
+            },
+            {
+                  "name": "Nautic",
+                  "text": "Nautic este o stațiune de plajă din Navodari perfectă pentru o zi relaxantă lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        28.636041,
+                        44.320647
+                  ]
+            },
+            {
+                  "name": "Secret",
+                  "text": "Secret este o stațiune de plajă din Navodari perfectă pentru o zi relaxantă lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        28.634633,
+                        44.318217
+                  ]
+            },
+            {
+                  "name": "Plaja Curacao",
+                  "text": "Plaja Curacao este o stațiune de plajă din Navodari perfectă pentru o zi relaxantă lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        28.624948,
+                        44.295173
+                  ]
+            },
+            {
+                  "name": "Marina Regia",
+                  "text": "Marina Regia este o stațiune de plajă din Navodari perfectă pentru o zi relaxantă lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        28.622329,
+                        44.285437
+                  ]
+            },
+            {
+                  "name": "Tiki beach",
+                  "text": "Tiki beach este o stațiune de plajă din Navodari perfectă pentru o zi relaxantă lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        28.623226,
+                        44.287736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Navodari Beach",
+                  "text": "An impressively wide strip of fine sand characterizes the beach of Năvodari. It offers tranquil conditions for families and swimmers who want to enjoy the vast sea without the big crowds. Build sandcastles with the children and delight in the sunny holiday days by the shore.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.629185,
+                        44.322611
+                  ]
+            },
+            {
+                  "name": "Lake Siutghiol",
+                  "text": "Lake Siutghiol offers scenic views and opportunities for water sports, acting as a natural buffer between the resorts and mainland.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.6,
+                        44.246389
+                  ]
+            },
+            {
+                  "name": "Midia Port",
+                  "text": "Midia Port is a strategic industrial hub on the Black Sea, connecting the navigation canal with international maritime routes.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.660708,
+                        44.338437
+                  ]
+            },
+            {
+                  "name": "Playa del Mar",
+                  "text": "Located in the coastal town of Năvodari, Playa del Mar offers an inviting waterfront setting. Visitors can look forward to relaxing hours of sunbathing and pleasant strolls along the shore. The atmosphere is ideal for anyone wanting to spend a carefree time by the sea. It is especially enjoyable to visit on warm summer days.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628211,
+                        44.304635
+                  ]
+            },
+            {
+                  "name": "Loca",
+                  "text": "Loca is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.635417,
+                        44.319493
+                  ]
+            },
+            {
+                  "name": "Panoralis",
+                  "text": "Panoralis is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.629588,
+                        44.308057
+                  ]
+            },
+            {
+                  "name": "DM",
+                  "text": "DM is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631518,
+                        44.312035
+                  ]
+            },
+            {
+                  "name": "Kanoa",
+                  "text": "Kanoa is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.637586,
+                        44.323338
+                  ]
+            },
+            {
+                  "name": "Oneiro",
+                  "text": "Oneiro is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.627446,
+                        44.302743
+                  ]
+            },
+            {
+                  "name": "Dizzy",
+                  "text": "Dizzy is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632687,
+                        44.314347
+                  ]
+            },
+            {
+                  "name": "Signature",
+                  "text": "Beach located in Năvodari on the Black Sea coast.",
+                  "category": "recreational",
+                  "coords": [
+                        28.630423,
+                        44.309814
+                  ]
+            },
+            {
+                  "name": "Keep Going",
+                  "text": "Keep Going is a beach resort in Navodari perfect for a relaxing day by the water.",
+                  "category": "family",
+                  "coords": [
+                        28.63365,
+                        44.316315
+                  ]
+            },
+            {
+                  "name": "Papaya",
+                  "text": "Papaya is a beach resort in Navodari perfect for a relaxing day by the water.",
+                  "category": "family",
+                  "coords": [
+                        28.629049,
+                        44.306352
+                  ]
+            },
+            {
+                  "name": "Nautic",
+                  "text": "Nautic is a beach resort in Navodari perfect for a relaxing day by the water.",
+                  "category": "family",
+                  "coords": [
+                        28.636041,
+                        44.320647
+                  ]
+            },
+            {
+                  "name": "Secret",
+                  "text": "Secret is a beach resort in Navodari perfect for a relaxing day by the water.",
+                  "category": "family",
+                  "coords": [
+                        28.634633,
+                        44.318217
+                  ]
+            },
+            {
+                  "name": "Plaja Curacao",
+                  "text": "Plaja Curacao is a beach resort in Navodari perfect for a relaxing day by the water.",
+                  "category": "family",
+                  "coords": [
+                        28.624948,
+                        44.295173
+                  ]
+            },
+            {
+                  "name": "Marina Regia",
+                  "text": "Marina Regia is a beach resort in Navodari perfect for a relaxing day by the water.",
+                  "category": "family",
+                  "coords": [
+                        28.622329,
+                        44.285437
+                  ]
+            },
+            {
+                  "name": "Tiki beach",
+                  "text": "Tiki beach is a beach resort in Navodari perfect for a relaxing day by the water.",
+                  "category": "family",
+                  "coords": [
+                        28.623226,
+                        44.287736
+                  ]
+            }
+      ]
+}
   },
   {
     "id": "city-targu-secuiesc-extra",
@@ -7654,6 +8755,15 @@ export const poiExtraRo1: POI[] = [
                         25.432461,
                         45.077514
                   ]
+            },
+            {
+                  "name": "Piscina Green Heaven",
+                  "text": "Das Schwimmbad Green Heaven in Pucioasa bietet Erholung in grüner Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        25.428709,
+                        45.074626
+                  ]
             }
       ],
       "hu": [
@@ -7675,6 +8785,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.432461,
                         45.077514
+                  ]
+            },
+            {
+                  "name": "Piscina Green Heaven",
+                  "text": "A pucioasai Green Heaven úszómedence pihenést kínál zöld környezetben.",
+                  "category": "family",
+                  "coords": [
+                        25.428709,
+                        45.074626
                   ]
             }
       ],
@@ -7698,6 +8817,15 @@ export const poiExtraRo1: POI[] = [
                         25.432461,
                         45.077514
                   ]
+            },
+            {
+                  "name": "Piscina Green Heaven",
+                  "text": "Piscina Green Heaven din Pucioasa oferă relaxare într-un cadru verde.",
+                  "category": "family",
+                  "coords": [
+                        25.428709,
+                        45.074626
+                  ]
             }
       ],
       "en": [
@@ -7719,6 +8847,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.432461,
                         45.077514
+                  ]
+            },
+            {
+                  "name": "Piscina Green Heaven",
+                  "text": "The Green Heaven swimming pool in Pucioasa offers relaxation in green surroundings.",
+                  "category": "family",
+                  "coords": [
+                        25.428709,
+                        45.074626
                   ]
             }
       ]
@@ -9353,6 +10490,24 @@ export const poiExtraRo1: POI[] = [
                         22.972546,
                         44.803084
                   ]
+            },
+            {
+                  "name": "Complex de Agrement Strand Motru",
+                  "text": "Ein Freizeitkomplex mit Wasserpark in Motru für Familien.",
+                  "category": "family",
+                  "coords": [
+                        22.964052,
+                        44.801826
+                  ]
+            },
+            {
+                  "name": "Piscina OXXO",
+                  "text": "Ein Schwimmbad in Motru, geeignet für die Entspannung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        22.963974,
+                        44.812219
+                  ]
             }
       ],
       "hu": [
@@ -9364,6 +10519,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.972546,
                         44.803084
+                  ]
+            },
+            {
+                  "name": "Complex de Agrement Strand Motru",
+                  "text": "Szabadidő-komplexum vízi parkkal Motruban családok számára.",
+                  "category": "family",
+                  "coords": [
+                        22.964052,
+                        44.801826
+                  ]
+            },
+            {
+                  "name": "Piscina OXXO",
+                  "text": "Egy úszómedence Motruban, amely alkalmas a családi kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        22.963974,
+                        44.812219
                   ]
             }
       ],
@@ -9377,6 +10550,24 @@ export const poiExtraRo1: POI[] = [
                         22.972546,
                         44.803084
                   ]
+            },
+            {
+                  "name": "Complex de Agrement Strand Motru",
+                  "text": "Un complex de agrement cu parc acvatic în Motru pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        22.964052,
+                        44.801826
+                  ]
+            },
+            {
+                  "name": "Piscina OXXO",
+                  "text": "O piscină în Motru potrivită pentru relaxare în familie.",
+                  "category": "family",
+                  "coords": [
+                        22.963974,
+                        44.812219
+                  ]
             }
       ],
       "en": [
@@ -9388,6 +10579,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.972546,
                         44.803084
+                  ]
+            },
+            {
+                  "name": "Complex de Agrement Strand Motru",
+                  "text": "A leisure complex with a water park in Motru for families.",
+                  "category": "family",
+                  "coords": [
+                        22.964052,
+                        44.801826
+                  ]
+            },
+            {
+                  "name": "Piscina OXXO",
+                  "text": "A swimming pool in Motru suitable for family relaxation.",
+                  "category": "family",
+                  "coords": [
+                        22.963974,
+                        44.812219
                   ]
             }
       ]
@@ -9453,6 +10662,15 @@ export const poiExtraRo1: POI[] = [
                         23.160399,
                         44.898888
                   ]
+            },
+            {
+                  "name": "Ștrandul orășenesc Rovinari",
+                  "text": "Das städtische Freibad in Rovinari ist ein Ziel für sommerliche Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        23.158134,
+                        44.89896
+                  ]
             }
       ],
       "hu": [
@@ -9474,6 +10692,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.160399,
                         44.898888
+                  ]
+            },
+            {
+                  "name": "Ștrandul orășenesc Rovinari",
+                  "text": "A rovinari-i városi strand a nyári szabadidős tevékenységek célpontja.",
+                  "category": "family",
+                  "coords": [
+                        23.158134,
+                        44.89896
                   ]
             }
       ],
@@ -9497,6 +10724,15 @@ export const poiExtraRo1: POI[] = [
                         23.160399,
                         44.898888
                   ]
+            },
+            {
+                  "name": "Ștrandul orășenesc Rovinari",
+                  "text": "Ștrandul orășenesc Rovinari este o destinație pentru activități de agrement estivale.",
+                  "category": "family",
+                  "coords": [
+                        23.158134,
+                        44.89896
+                  ]
             }
       ],
       "en": [
@@ -9518,6 +10754,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.160399,
                         44.898888
+                  ]
+            },
+            {
+                  "name": "Ștrandul orășenesc Rovinari",
+                  "text": "The Rovinari municipal swimming pool is a destination for summer leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        23.158134,
+                        44.89896
                   ]
             }
       ]
@@ -9593,6 +10838,15 @@ export const poiExtraRo1: POI[] = [
                         25.296122,
                         46.305779
                   ]
+            },
+            {
+                  "name": "Szejke Uszoda",
+                  "text": "Szejke Uszoda ist ein Schwimmbad in Odorheiu Secuiesc, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        25.274755,
+                        46.331701
+                  ]
             }
       ],
       "hu": [
@@ -9624,6 +10878,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.296122,
                         46.305779
+                  ]
+            },
+            {
+                  "name": "Szejke Uszoda",
+                  "text": "Szejke Uszoda egy úszómedence Odorheiu Secuiesc városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        25.274755,
+                        46.331701
                   ]
             }
       ],
@@ -9657,6 +10920,15 @@ export const poiExtraRo1: POI[] = [
                         25.296122,
                         46.305779
                   ]
+            },
+            {
+                  "name": "Szejke Uszoda",
+                  "text": "Szejke Uszoda este o piscină din Odorheiu Secuiesc ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        25.274755,
+                        46.331701
+                  ]
             }
       ],
       "en": [
@@ -9688,6 +10960,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.296122,
                         46.305779
+                  ]
+            },
+            {
+                  "name": "Szejke Uszoda",
+                  "text": "Szejke Uszoda is a swimming pool in Odorheiu Secuiesc ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        25.274755,
+                        46.331701
                   ]
             }
       ]
@@ -9852,6 +11133,15 @@ export const poiExtraRo1: POI[] = [
                         25.391733,
                         46.920561
                   ]
+            },
+            {
+                  "name": "Ștrandul Urmánczy",
+                  "text": "Das Freibad Urmánczy in Toplita ist bekannt für seine Außenbecken.",
+                  "category": "family",
+                  "coords": [
+                        25.346774,
+                        46.923712
+                  ]
             }
       ],
       "hu": [
@@ -9882,6 +11172,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.391733,
                         46.920561
+                  ]
+            },
+            {
+                  "name": "Ștrandul Urmánczy",
+                  "text": "A maroshévízi Urmánczy strand a kültéri medencéiről ismert.",
+                  "category": "family",
+                  "coords": [
+                        25.346774,
+                        46.923712
                   ]
             }
       ],
@@ -9914,6 +11213,15 @@ export const poiExtraRo1: POI[] = [
                         25.391733,
                         46.920561
                   ]
+            },
+            {
+                  "name": "Ștrandul Urmánczy",
+                  "text": "Ștrandul Urmánczy din Toplița este cunoscut pentru bazinele sale exterioare.",
+                  "category": "family",
+                  "coords": [
+                        25.346774,
+                        46.923712
+                  ]
             }
       ],
       "en": [
@@ -9944,6 +11252,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.391733,
                         46.920561
+                  ]
+            },
+            {
+                  "name": "Ștrandul Urmánczy",
+                  "text": "The Urmánczy swimming pool in Toplita is known for its outdoor pools.",
+                  "category": "family",
+                  "coords": [
+                        25.346774,
+                        46.923712
                   ]
             }
       ]
@@ -10207,6 +11524,33 @@ export const poiExtraRo1: POI[] = [
                         22.875818,
                         45.744067
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Hunedoara",
+                  "text": "Zoo of Hunedoara ist ein Zoo in Hunedoara, in dem Familien verschiedene Tiere sehen können.",
+                  "category": "family",
+                  "coords": [
+                        22.915807,
+                        45.749394
+                  ]
+            },
+            {
+                  "name": "Complex de Agrement Corvina",
+                  "text": "Complex de Agrement Corvina ist ein Wasserpark in Hunedoara, der Spaß im Wasser für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.912715,
+                        45.760488
+                  ]
+            },
+            {
+                  "name": "Piscina Astoria",
+                  "text": "Piscina Astoria ist ein Schwimmbad in Hunedoara, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        22.897124,
+                        45.752953
+                  ]
             }
       ],
       "hu": [
@@ -10256,6 +11600,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.875818,
                         45.744067
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Hunedoara",
+                  "text": "Zoo of Hunedoara egy állatkert Hunedoara városában, ahol a családok különféle állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        22.915807,
+                        45.749394
+                  ]
+            },
+            {
+                  "name": "Complex de Agrement Corvina",
+                  "text": "Complex de Agrement Corvina egy vízi park Hunedoara területén, amely szórakoztató vízi tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        22.912715,
+                        45.760488
+                  ]
+            },
+            {
+                  "name": "Piscina Astoria",
+                  "text": "Piscina Astoria egy úszómedence Hunedoara városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.897124,
+                        45.752953
                   ]
             }
       ],
@@ -10307,6 +11678,33 @@ export const poiExtraRo1: POI[] = [
                         22.875818,
                         45.744067
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Hunedoara",
+                  "text": "Zoo of Hunedoara este o grădină zoologică din Hunedoara unde familiile pot vedea diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        22.915807,
+                        45.749394
+                  ]
+            },
+            {
+                  "name": "Complex de Agrement Corvina",
+                  "text": "Complex de Agrement Corvina este un parc acvatic din Hunedoara care oferă activități distractive în apă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        22.912715,
+                        45.760488
+                  ]
+            },
+            {
+                  "name": "Piscina Astoria",
+                  "text": "Piscina Astoria este o piscină din Hunedoara ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        22.897124,
+                        45.752953
+                  ]
             }
       ],
       "en": [
@@ -10356,6 +11754,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.875818,
                         45.744067
+                  ]
+            },
+            {
+                  "name": "Zoo of Hunedoara",
+                  "text": "Zoo of Hunedoara is a zoo in Hunedoara where families can see various animals.",
+                  "category": "family",
+                  "coords": [
+                        22.915807,
+                        45.749394
+                  ]
+            },
+            {
+                  "name": "Complex de Agrement Corvina",
+                  "text": "Complex de Agrement Corvina is a water park in Hunedoara providing fun water activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        22.912715,
+                        45.760488
+                  ]
+            },
+            {
+                  "name": "Piscina Astoria",
+                  "text": "Piscina Astoria is a swimming pool in Hunedoara ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        22.897124,
+                        45.752953
                   ]
             }
       ]
@@ -11023,6 +12448,24 @@ export const poiExtraRo1: POI[] = [
                         26.719697,
                         47.249825
                   ]
+            },
+            {
+                  "name": "Ștrand Pașcani",
+                  "text": "Das Freibad in Pașcani bietet Freizeitspaß für Wasserliebhaber.",
+                  "category": "family",
+                  "coords": [
+                        26.712343,
+                        47.24945
+                  ]
+            },
+            {
+                  "name": "Piscina PABO",
+                  "text": "Das Schwimmbad PABO in Pașcani ist ein privates Bad für Sport und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        26.719801,
+                        47.26103
+                  ]
             }
       ],
       "hu": [
@@ -11054,6 +12497,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.719697,
                         47.249825
+                  ]
+            },
+            {
+                  "name": "Ștrand Pașcani",
+                  "text": "A páskáni strand szabadidős szórakozást kínál a víz kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        26.712343,
+                        47.24945
+                  ]
+            },
+            {
+                  "name": "Piscina PABO",
+                  "text": "A páskáni PABO úszómedence sportolásra és kikapcsolódásra alkalmas magánfürdő.",
+                  "category": "family",
+                  "coords": [
+                        26.719801,
+                        47.26103
                   ]
             }
       ],
@@ -11087,6 +12548,24 @@ export const poiExtraRo1: POI[] = [
                         26.719697,
                         47.249825
                   ]
+            },
+            {
+                  "name": "Ștrand Pașcani",
+                  "text": "Ștrandul din Pașcani oferă distracție în timpul liber pentru iubitorii de apă.",
+                  "category": "family",
+                  "coords": [
+                        26.712343,
+                        47.24945
+                  ]
+            },
+            {
+                  "name": "Piscina PABO",
+                  "text": "Piscina PABO din Pașcani este o piscină privată pentru sport și recreere.",
+                  "category": "family",
+                  "coords": [
+                        26.719801,
+                        47.26103
+                  ]
             }
       ],
       "en": [
@@ -11118,6 +12597,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.719697,
                         47.249825
+                  ]
+            },
+            {
+                  "name": "Ștrand Pașcani",
+                  "text": "The swimming pool in Pascani offers leisure fun for water enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        26.712343,
+                        47.24945
+                  ]
+            },
+            {
+                  "name": "Piscina PABO",
+                  "text": "The PABO swimming pool in Pascani is a private pool for sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        26.719801,
+                        47.26103
                   ]
             }
       ]
@@ -12212,6 +13709,24 @@ export const poiExtraRo1: POI[] = [
                         26.126043,
                         44.464912
                   ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Dieses Schwimmbecken in Voluntari dient dem Training und sportlichen Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
+            },
+            {
+                  "name": "Bonton",
+                  "text": "Bonton ist ein Schwimmbad in City Voluntari zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        26.088015,
+                        44.477092
+                  ]
             }
       ],
       "hu": [
@@ -12398,6 +13913,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.126043,
                         44.464912
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Ez a voluntari-i úszómedence edzéseket és sporttevékenységeket szolgál.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
+            },
+            {
+                  "name": "Bonton",
+                  "text": "A Bonton egy úszómedence City Voluntari városában úszáshoz és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.088015,
+                        44.477092
                   ]
             }
       ],
@@ -12586,6 +14119,24 @@ export const poiExtraRo1: POI[] = [
                         26.126043,
                         44.464912
                   ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Acest bazin de înot din Voluntari servește antrenamentului și activităților sportive.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
+            },
+            {
+                  "name": "Bonton",
+                  "text": "Bonton este o piscină în City Voluntari pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        26.088015,
+                        44.477092
+                  ]
             }
       ],
       "en": [
@@ -12772,6 +14323,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.126043,
                         44.464912
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "This swimming pool in Voluntari serves for training and sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
+            },
+            {
+                  "name": "Bonton",
+                  "text": "Bonton is a swimming pool in City Voluntari for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        26.088015,
+                        44.477092
                   ]
             }
       ]
@@ -14018,6 +15587,24 @@ export const poiExtraRo1: POI[] = [
                         26.323562,
                         46.934176
                   ]
+            },
+            {
+                  "name": "Ștrandul Tineretului Piatra-Neamț",
+                  "text": "Ștrandul Tineretului Piatra-Neamț ist ein Wasserpark in Piatra Neamt, der Spaß im Wasser für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.350382,
+                        46.929147
+                  ]
+            },
+            {
+                  "name": "VIP San Gym",
+                  "text": "VIP San Gym ist ein Schwimmbad in Piatra Neamt, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        26.370334,
+                        46.925278
+                  ]
             }
       ],
       "hu": [
@@ -14067,6 +15654,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.323562,
                         46.934176
+                  ]
+            },
+            {
+                  "name": "Ștrandul Tineretului Piatra-Neamț",
+                  "text": "Ștrandul Tineretului Piatra-Neamț egy vízi park Piatra Neamt területén, amely szórakoztató vízi tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        26.350382,
+                        46.929147
+                  ]
+            },
+            {
+                  "name": "VIP San Gym",
+                  "text": "VIP San Gym egy úszómedence Piatra Neamt városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.370334,
+                        46.925278
                   ]
             }
       ],
@@ -14118,6 +15723,24 @@ export const poiExtraRo1: POI[] = [
                         26.323562,
                         46.934176
                   ]
+            },
+            {
+                  "name": "Ștrandul Tineretului Piatra-Neamț",
+                  "text": "Ștrandul Tineretului Piatra-Neamț este un parc acvatic din Piatra Neamt care oferă activități distractive în apă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        26.350382,
+                        46.929147
+                  ]
+            },
+            {
+                  "name": "VIP San Gym",
+                  "text": "VIP San Gym este o piscină din Piatra Neamt ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.370334,
+                        46.925278
+                  ]
             }
       ],
       "en": [
@@ -14167,6 +15790,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.323562,
                         46.934176
+                  ]
+            },
+            {
+                  "name": "Ștrandul Tineretului Piatra-Neamț",
+                  "text": "Ștrandul Tineretului Piatra-Neamț is a water park in Piatra Neamt providing fun water activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        26.350382,
+                        46.929147
+                  ]
+            },
+            {
+                  "name": "VIP San Gym",
+                  "text": "VIP San Gym is a swimming pool in Piatra Neamt ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        26.370334,
+                        46.925278
                   ]
             }
       ]
@@ -14252,6 +15893,15 @@ export const poiExtraRo1: POI[] = [
                         26.92789,
                         46.919853
                   ]
+            },
+            {
+                  "name": "Bazin înot",
+                  "text": "Ein Schwimmbad in Roman zur Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        26.928494,
+                        46.934282
+                  ]
             }
       ],
       "hu": [
@@ -14293,6 +15943,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.92789,
                         46.919853
+                  ]
+            },
+            {
+                  "name": "Bazin înot",
+                  "text": "Egy úszómedence Románvásárban családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.928494,
+                        46.934282
                   ]
             }
       ],
@@ -14336,6 +15995,15 @@ export const poiExtraRo1: POI[] = [
                         26.92789,
                         46.919853
                   ]
+            },
+            {
+                  "name": "Bazin înot",
+                  "text": "O piscină în Roman pentru recreere în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.928494,
+                        46.934282
+                  ]
             }
       ],
       "en": [
@@ -14377,6 +16045,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.92789,
                         46.919853
+                  ]
+            },
+            {
+                  "name": "Bazin înot",
+                  "text": "A swimming pool in Roman for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        26.928494,
+                        46.934282
                   ]
             }
       ]
@@ -15154,6 +16831,33 @@ export const poiExtraRo1: POI[] = [
                         25.741361,
                         45.120591
                   ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Piscină adulți ist ein Schwimmbad in Campina, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "Ștrand Amana Inn ist ein Schwimmbad in Campina, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        25.728531,
+                        45.12901
+                  ]
+            },
+            {
+                  "name": "Ștrand Casa Tineretului",
+                  "text": "Ștrand Casa Tineretului ist ein Schwimmbad in Campina, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        25.74187,
+                        45.118314
+                  ]
             }
       ],
       "hu": [
@@ -15220,6 +16924,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.741361,
                         45.120591
+                  ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Piscină adulți egy úszómedence Campina városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "Ștrand Amana Inn egy úszómedence Campina városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        25.728531,
+                        45.12901
+                  ]
+            },
+            {
+                  "name": "Ștrand Casa Tineretului",
+                  "text": "Ștrand Casa Tineretului egy úszómedence Campina városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        25.74187,
+                        45.118314
                   ]
             }
       ],
@@ -15288,6 +17019,33 @@ export const poiExtraRo1: POI[] = [
                         25.741361,
                         45.120591
                   ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Piscină adulți este o piscină din Campina ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "Ștrand Amana Inn este o piscină din Campina ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        25.728531,
+                        45.12901
+                  ]
+            },
+            {
+                  "name": "Ștrand Casa Tineretului",
+                  "text": "Ștrand Casa Tineretului este o piscină din Campina ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        25.74187,
+                        45.118314
+                  ]
             }
       ],
       "en": [
@@ -15354,6 +17112,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.741361,
                         45.120591
+                  ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Piscină adulți is a swimming pool in Campina ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "Ștrand Amana Inn is a swimming pool in Campina ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        25.728531,
+                        45.12901
+                  ]
+            },
+            {
+                  "name": "Ștrand Casa Tineretului",
+                  "text": "Ștrand Casa Tineretului is a swimming pool in Campina ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        25.74187,
+                        45.118314
                   ]
             }
       ]
@@ -15515,6 +17300,15 @@ export const poiExtraRo1: POI[] = [
                         25.534966,
                         45.358677
                   ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "Ein Themenpark in Sinaia mit verschiedenen Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        25.523389,
+                        45.41992
+                  ]
             }
       ],
       "hu": [
@@ -15586,6 +17380,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.534966,
                         45.358677
+                  ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "Vidámpark Szinajában, különféle látnivalókkal családok számára.",
+                  "category": "family",
+                  "coords": [
+                        25.523389,
+                        45.41992
                   ]
             }
       ],
@@ -15659,6 +17462,15 @@ export const poiExtraRo1: POI[] = [
                         25.534966,
                         45.358677
                   ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "Un parc de distracții în Sinaia cu diverse atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        25.523389,
+                        45.41992
+                  ]
             }
       ],
       "en": [
@@ -15731,6 +17543,15 @@ export const poiExtraRo1: POI[] = [
                         25.534966,
                         45.358677
                   ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "A theme park in Sinaia with various attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        25.523389,
+                        45.41992
+                  ]
             }
       ]
 }
@@ -15785,6 +17606,15 @@ export const poiExtraRo1: POI[] = [
                         22.467222,
                         47.683889
                   ]
+            },
+            {
+                  "name": "Strand Termal Carei",
+                  "text": "Der Strand Termal Carei ist ein Wasserpark in Carei mit Thermalbecken.",
+                  "category": "family",
+                  "coords": [
+                        22.455459,
+                        47.672619
+                  ]
             }
       ],
       "hu": [
@@ -15796,6 +17626,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.467222,
                         47.683889
+                  ]
+            },
+            {
+                  "name": "Strand Termal Carei",
+                  "text": "A Strand Termal Carei egy vízipark Nagykárolyban termálvizes medencékkel.",
+                  "category": "family",
+                  "coords": [
+                        22.455459,
+                        47.672619
                   ]
             }
       ],
@@ -15809,6 +17648,15 @@ export const poiExtraRo1: POI[] = [
                         22.467222,
                         47.683889
                   ]
+            },
+            {
+                  "name": "Strand Termal Carei",
+                  "text": "Strand Termal Carei este un parc acvatic din Carei cu bazine termale.",
+                  "category": "family",
+                  "coords": [
+                        22.455459,
+                        47.672619
+                  ]
             }
       ],
       "en": [
@@ -15820,6 +17668,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.467222,
                         47.683889
+                  ]
+            },
+            {
+                  "name": "Strand Termal Carei",
+                  "text": "Strand Termal Carei is a water park in Carei featuring thermal pools.",
+                  "category": "family",
+                  "coords": [
+                        22.455459,
+                        47.672619
                   ]
             }
       ]
@@ -16005,6 +17862,24 @@ export const poiExtraRo1: POI[] = [
                         22.582545,
                         47.477417
                   ]
+            },
+            {
+                  "name": "Piscina Copii",
+                  "text": "Ein Kinderschwimmbad in Tășnad für Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        22.56793,
+                        47.473366
+                  ]
+            },
+            {
+                  "name": "Piscine cu hidromasaj",
+                  "text": "Hydromassagebecken in Tășnad zur Entspannung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        22.569297,
+                        47.472272
+                  ]
             }
       ],
       "hu": [
@@ -16016,6 +17891,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.582545,
                         47.477417
+                  ]
+            },
+            {
+                  "name": "Piscina Copii",
+                  "text": "Gyermekmedence Tasnádon a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.56793,
+                        47.473366
+                  ]
+            },
+            {
+                  "name": "Piscine cu hidromasaj",
+                  "text": "Hidromasszázs medencék Tasnádon a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.569297,
+                        47.472272
                   ]
             }
       ],
@@ -16029,6 +17922,24 @@ export const poiExtraRo1: POI[] = [
                         22.582545,
                         47.477417
                   ]
+            },
+            {
+                  "name": "Piscina Copii",
+                  "text": "O piscină pentru copii în Tășnad pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        22.56793,
+                        47.473366
+                  ]
+            },
+            {
+                  "name": "Piscine cu hidromasaj",
+                  "text": "Piscine cu hidromasaj în Tășnad pentru relaxare în familie.",
+                  "category": "family",
+                  "coords": [
+                        22.569297,
+                        47.472272
+                  ]
             }
       ],
       "en": [
@@ -16040,6 +17951,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.582545,
                         47.477417
+                  ]
+            },
+            {
+                  "name": "Piscina Copii",
+                  "text": "A children's swimming pool in Tășnad for family fun.",
+                  "category": "family",
+                  "coords": [
+                        22.56793,
+                        47.473366
+                  ]
+            },
+            {
+                  "name": "Piscine cu hidromasaj",
+                  "text": "Hydro-massage pools in Tășnad for family relaxation.",
+                  "category": "family",
+                  "coords": [
+                        22.569297,
+                        47.472272
                   ]
             }
       ]
@@ -16847,6 +18776,15 @@ export const poiExtraRo1: POI[] = [
                         24.150867,
                         45.713718
                   ]
+            },
+            {
+                  "name": "Sunshine",
+                  "text": "Sunshine ist ein Schwimmbad in Cisnadie, das Möglichkeiten zur Erfrischung im Wasser bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.122015,
+                        45.708018
+                  ]
             }
       ],
       "hu": [
@@ -16898,6 +18836,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.150867,
                         45.713718
+                  ]
+            },
+            {
+                  "name": "Sunshine",
+                  "text": "A Sunshine egy úszómedence Nagydisznódon, amely vízi felfrissülési lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        24.122015,
+                        45.708018
                   ]
             }
       ],
@@ -16951,6 +18898,15 @@ export const poiExtraRo1: POI[] = [
                         24.150867,
                         45.713718
                   ]
+            },
+            {
+                  "name": "Sunshine",
+                  "text": "Sunshine este o piscină în Cisnădie care oferă posibilități de răcorire în apă.",
+                  "category": "family",
+                  "coords": [
+                        24.122015,
+                        45.708018
+                  ]
             }
       ],
       "en": [
@@ -17002,6 +18958,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.150867,
                         45.713718
+                  ]
+            },
+            {
+                  "name": "Sunshine",
+                  "text": "Sunshine is a swimming pool in Cisnadie providing opportunities for water refreshment.",
+                  "category": "family",
+                  "coords": [
+                        24.122015,
+                        45.708018
                   ]
             }
       ]
@@ -17075,6 +19040,15 @@ export const poiExtraRo1: POI[] = [
                         24.341068,
                         45.705023
                   ]
+            },
+            {
+                  "name": "Beach Club Avrig",
+                  "text": "Beach Club Avrig ist ein Wasserpark in Avrig, der Spaß im Wasser für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.379282,
+                        45.7307
+                  ]
             }
       ],
       "hu": [
@@ -17104,6 +19078,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.341068,
                         45.705023
+                  ]
+            },
+            {
+                  "name": "Beach Club Avrig",
+                  "text": "Beach Club Avrig egy vízi park Avrig területén, amely szórakoztató vízi tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        24.379282,
+                        45.7307
                   ]
             }
       ],
@@ -17135,6 +19118,15 @@ export const poiExtraRo1: POI[] = [
                         24.341068,
                         45.705023
                   ]
+            },
+            {
+                  "name": "Beach Club Avrig",
+                  "text": "Beach Club Avrig este un parc acvatic din Avrig care oferă activități distractive în apă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        24.379282,
+                        45.7307
+                  ]
             }
       ],
       "en": [
@@ -17164,6 +19156,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.341068,
                         45.705023
+                  ]
+            },
+            {
+                  "name": "Beach Club Avrig",
+                  "text": "Beach Club Avrig is a water park in Avrig providing fun water activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        24.379282,
+                        45.7307
                   ]
             }
       ]
@@ -18209,6 +20210,15 @@ export const poiExtraRo1: POI[] = [
                         24.872582,
                         43.751371
                   ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Dieses Schwimmbad in Turnu Magurele bietet eine lokale Möglichkeit zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        24.878866,
+                        43.759806
+                  ]
             }
       ],
       "hu": [
@@ -18258,6 +20268,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.872582,
                         43.751371
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Ez a Turnu Măgurele-i úszómedence helyi lehetőséget biztosít az úszásra.",
+                  "category": "family",
+                  "coords": [
+                        24.878866,
+                        43.759806
                   ]
             }
       ],
@@ -18309,6 +20328,15 @@ export const poiExtraRo1: POI[] = [
                         24.872582,
                         43.751371
                   ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Acest ștrand din Turnu Măgurele oferă o posibilitate locală pentru înot.",
+                  "category": "family",
+                  "coords": [
+                        24.878866,
+                        43.759806
+                  ]
             }
       ],
       "en": [
@@ -18358,6 +20386,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.872582,
                         43.751371
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "This swimming pool in Turnu Magurele offers a local opportunity for swimming.",
+                  "category": "family",
+                  "coords": [
+                        24.878866,
+                        43.759806
                   ]
             }
       ]
@@ -18693,6 +20730,15 @@ export const poiExtraRo1: POI[] = [
                         20.630381,
                         46.070973
                   ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Dieses Schwimmbad in Sannicolau Mare bietet ein Becken zum Schwimmen und Abkühlen.",
+                  "category": "family",
+                  "coords": [
+                        20.623471,
+                        46.067914
+                  ]
             }
       ],
       "hu": [
@@ -18724,6 +20770,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         20.630381,
                         46.070973
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Ez a Nagyszentmiklóson található úszómedence lehetőséget kínál az úszásra és a hűsölésre.",
+                  "category": "family",
+                  "coords": [
+                        20.623471,
+                        46.067914
                   ]
             }
       ],
@@ -18757,6 +20812,15 @@ export const poiExtraRo1: POI[] = [
                         20.630381,
                         46.070973
                   ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Acest ștrand din Sânnicolau Mare oferă un bazin pentru înot și răcorire.",
+                  "category": "family",
+                  "coords": [
+                        20.623471,
+                        46.067914
+                  ]
             }
       ],
       "en": [
@@ -18788,6 +20852,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         20.630381,
                         46.070973
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "This swimming pool in Sannicolau Mare offers a pool for swimming and cooling off.",
+                  "category": "family",
+                  "coords": [
+                        20.623471,
+                        46.067914
                   ]
             }
       ]
@@ -18950,6 +21023,15 @@ export const poiExtraRo1: POI[] = [
                         28.789266,
                         45.178827
                   ]
+            },
+            {
+                  "name": "Bazin de inot",
+                  "text": "Ein Schwimmbad in Tulcea für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        28.781243,
+                        45.184973
+                  ]
             }
       ],
       "hu": [
@@ -19027,6 +21109,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         28.789266,
                         45.178827
+                  ]
+            },
+            {
+                  "name": "Bazin de inot",
+                  "text": "Egy úszómedence Tulceában családi programokhoz.",
+                  "category": "family",
+                  "coords": [
+                        28.781243,
+                        45.184973
                   ]
             }
       ],
@@ -19106,6 +21197,15 @@ export const poiExtraRo1: POI[] = [
                         28.789266,
                         45.178827
                   ]
+            },
+            {
+                  "name": "Bazin de inot",
+                  "text": "O piscină în Tulcea pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        28.781243,
+                        45.184973
+                  ]
             }
       ],
       "en": [
@@ -19183,6 +21283,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         28.789266,
                         45.178827
+                  ]
+            },
+            {
+                  "name": "Bazin de inot",
+                  "text": "A swimming pool in Tulcea for family activities.",
+                  "category": "family",
+                  "coords": [
+                        28.781243,
+                        45.184973
                   ]
             }
       ]
@@ -19551,6 +21660,42 @@ export const poiExtraRo1: POI[] = [
                         27.670316,
                         46.217163
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Bârlad",
+                  "text": "Ein Zoo in Bârlad, in dem Familien verschiedene Tierarten entdecken können.",
+                  "category": "family",
+                  "coords": [
+                        27.675386,
+                        46.244306
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Ein Wasserpark in Bârlad für Familienspaß im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        27.679556,
+                        46.2539
+                  ]
+            },
+            {
+                  "name": "Piscina Paradis",
+                  "text": "Ein Schwimmbad in Bârlad, geeignet für einen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        27.668683,
+                        46.229786
+                  ]
+            },
+            {
+                  "name": "Piscina GreenField",
+                  "text": "Ein Schwimmbad in Bârlad für die Freizeitgestaltung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        27.671144,
+                        46.211814
+                  ]
             }
       ],
       "hu": [
@@ -19592,6 +21737,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.670316,
                         46.217163
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Bârlad",
+                  "text": "Állatkert Barládon, ahol a családok különféle állatfajokat fedezhetnek fel.",
+                  "category": "family",
+                  "coords": [
+                        27.675386,
+                        46.244306
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Vízi park Barládon a családi vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        27.679556,
+                        46.2539
+                  ]
+            },
+            {
+                  "name": "Piscina Paradis",
+                  "text": "Egy úszómedence Barládon, amely alkalmas egy családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        27.668683,
+                        46.229786
+                  ]
+            },
+            {
+                  "name": "Piscina GreenField",
+                  "text": "Egy úszómedence Barládon családi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        27.671144,
+                        46.211814
                   ]
             }
       ],
@@ -19635,6 +21816,42 @@ export const poiExtraRo1: POI[] = [
                         27.670316,
                         46.217163
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Bârlad",
+                  "text": "O grădină zoologică în Bârlad unde familiile pot descoperi diferite specii de animale.",
+                  "category": "family",
+                  "coords": [
+                        27.675386,
+                        46.244306
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Un parc acvatic în Bârlad pentru distracție în familie la apă.",
+                  "category": "family",
+                  "coords": [
+                        27.679556,
+                        46.2539
+                  ]
+            },
+            {
+                  "name": "Piscina Paradis",
+                  "text": "O piscină în Bârlad potrivită pentru o zi în familie.",
+                  "category": "family",
+                  "coords": [
+                        27.668683,
+                        46.229786
+                  ]
+            },
+            {
+                  "name": "Piscina GreenField",
+                  "text": "O piscină în Bârlad pentru petrecerea timpului liber în familie.",
+                  "category": "family",
+                  "coords": [
+                        27.671144,
+                        46.211814
+                  ]
             }
       ],
       "en": [
@@ -19676,6 +21893,42 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.670316,
                         46.217163
+                  ]
+            },
+            {
+                  "name": "Bârlad Zoo",
+                  "text": "A zoo in Bârlad where families can discover different animal species.",
+                  "category": "family",
+                  "coords": [
+                        27.675386,
+                        46.244306
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "A water park in Bârlad for family fun in the water.",
+                  "category": "family",
+                  "coords": [
+                        27.679556,
+                        46.2539
+                  ]
+            },
+            {
+                  "name": "Piscina Paradis",
+                  "text": "A swimming pool in Bârlad suitable for a family day out.",
+                  "category": "family",
+                  "coords": [
+                        27.668683,
+                        46.229786
+                  ]
+            },
+            {
+                  "name": "Piscina GreenField",
+                  "text": "A swimming pool in Bârlad for family leisure.",
+                  "category": "family",
+                  "coords": [
+                        27.671144,
+                        46.211814
                   ]
             }
       ]
@@ -19910,6 +22163,15 @@ export const poiExtraRo1: POI[] = [
                         27.483865,
                         46.871834
                   ]
+            },
+            {
+                  "name": "Eden",
+                  "text": "Eden ist ein Schwimmbad in Negresti, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        27.426655,
+                        46.839691
+                  ]
             }
       ],
       "hu": [
@@ -19930,6 +22192,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.483865,
                         46.871834
+                  ]
+            },
+            {
+                  "name": "Eden",
+                  "text": "Eden egy úszómedence Negresti városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        27.426655,
+                        46.839691
                   ]
             }
       ],
@@ -19952,6 +22223,15 @@ export const poiExtraRo1: POI[] = [
                         27.483865,
                         46.871834
                   ]
+            },
+            {
+                  "name": "Eden",
+                  "text": "Eden este o piscină din Negresti ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        27.426655,
+                        46.839691
+                  ]
             }
       ],
       "en": [
@@ -19972,6 +22252,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.483865,
                         46.871834
+                  ]
+            },
+            {
+                  "name": "Eden",
+                  "text": "Eden is a swimming pool in Negresti ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        27.426655,
+                        46.839691
                   ]
             }
       ]
@@ -20148,6 +22437,24 @@ export const poiExtraRo1: POI[] = [
                         24.368729,
                         45.097411
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Râmnicu Vâlcea",
+                  "text": "Ein Zoo in Râmnicu Vâlcea, der einen angenehmen Besuch für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.371671,
+                        45.083005
+                  ]
+            },
+            {
+                  "name": "Piscina Enigma",
+                  "text": "Ein Schwimmbad in Râmnicu Vâlcea zur Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        24.375689,
+                        45.096757
+                  ]
             }
       ],
       "hu": [
@@ -20280,6 +22587,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.368729,
                         45.097411
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Râmnicu Vâlcea",
+                  "text": "Állatkert Râmnicu Vâlceában, amely kellemes látogatást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        24.371671,
+                        45.083005
+                  ]
+            },
+            {
+                  "name": "Piscina Enigma",
+                  "text": "Egy úszómedence Râmnicu Vâlceában családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.375689,
+                        45.096757
                   ]
             }
       ],
@@ -20414,6 +22739,24 @@ export const poiExtraRo1: POI[] = [
                         24.368729,
                         45.097411
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Râmnicu Vâlcea",
+                  "text": "O grădină zoologică în Râmnicu Vâlcea, oferind o vizită plăcută pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        24.371671,
+                        45.083005
+                  ]
+            },
+            {
+                  "name": "Piscina Enigma",
+                  "text": "O piscină în Râmnicu Vâlcea pentru recreere în familie.",
+                  "category": "family",
+                  "coords": [
+                        24.375689,
+                        45.096757
+                  ]
             }
       ],
       "en": [
@@ -20546,6 +22889,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.368729,
                         45.097411
+                  ]
+            },
+            {
+                  "name": "Râmnicu Vâlcea Zoological Garden",
+                  "text": "A zoo in Râmnicu Vâlcea, offering a pleasant visit for families.",
+                  "category": "family",
+                  "coords": [
+                        24.371671,
+                        45.083005
+                  ]
+            },
+            {
+                  "name": "Piscina Enigma",
+                  "text": "A swimming pool in Râmnicu Vâlcea for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.375689,
+                        45.096757
                   ]
             }
       ]

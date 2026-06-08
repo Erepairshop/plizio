@@ -661,6 +661,60 @@ export const latviaAllPoi = [
                         24.12839,
                         56.936768
                   ]
+            },
+            {
+                  "name": "Waterski",
+                  "text": "Ein unterhaltsamer Wasserpark in Riga mit verschiedenen Pools und Rutschen für die Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        24.086396,
+                        56.943494
+                  ]
+            },
+            {
+                  "name": "Jaunā Pārdaugavas pirts",
+                  "text": "Diese Einrichtung in Riga bietet einen tollen Ort zum Schwimmen und für familienfreundlichen Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        24.112189,
+                        56.91476
+                  ]
+            },
+            {
+                  "name": "Daugavas peldbaseins",
+                  "text": "Diese Einrichtung in Riga bietet einen tollen Ort zum Schwimmen und für familienfreundlichen Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        24.142856,
+                        56.963737
+                  ]
+            },
+            {
+                  "name": "Lucavsalas veikparks",
+                  "text": "Ein unterhaltsamer Wasserpark in Riga mit verschiedenen Pools und Rutschen für die Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        24.11376,
+                        56.931427
+                  ]
+            },
+            {
+                  "name": "LIDO Atpūtas centrs",
+                  "text": "Ein aufregender Themenpark in Riga mit verschiedenen Attraktionen und Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        24.160571,
+                        56.927161
+                  ]
+            },
+            {
+                  "name": "Riga Rise panorāmas kvartāls",
+                  "text": "Ein aufregender Themenpark in Riga mit verschiedenen Attraktionen und Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        24.088184,
+                        56.941046
+                  ]
             }
       ],
       "hu": [
@@ -1247,6 +1301,60 @@ export const latviaAllPoi = [
                   "coords": [
                         24.12839,
                         56.936768
+                  ]
+            },
+            {
+                  "name": "Waterski",
+                  "text": "Szórakoztató vízi park Riga területén, különféle medencékkel és csúszdákkal a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.086396,
+                        56.943494
+                  ]
+            },
+            {
+                  "name": "Jaunā Pārdaugavas pirts",
+                  "text": "Ez a Riga városában található létesítmény remek helyet biztosít az úszáshoz és a vízi családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.112189,
+                        56.91476
+                  ]
+            },
+            {
+                  "name": "Daugavas peldbaseins",
+                  "text": "Ez a Riga városában található létesítmény remek helyet biztosít az úszáshoz és a vízi családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.142856,
+                        56.963737
+                  ]
+            },
+            {
+                  "name": "Lucavsalas veikparks",
+                  "text": "Szórakoztató vízi park Riga területén, különféle medencékkel és csúszdákkal a családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        24.11376,
+                        56.931427
+                  ]
+            },
+            {
+                  "name": "LIDO Atpūtas centrs",
+                  "text": "Izgalmas vidámpark Riga területén, különféle látnivalókkal és szórakozási lehetőségekkel minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        24.160571,
+                        56.927161
+                  ]
+            },
+            {
+                  "name": "Riga Rise panorāmas kvartāls",
+                  "text": "Izgalmas vidámpark Riga területén, különféle látnivalókkal és szórakozási lehetőségekkel minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        24.088184,
+                        56.941046
                   ]
             }
       ],
@@ -1835,6 +1943,60 @@ export const latviaAllPoi = [
                         24.12839,
                         56.936768
                   ]
+            },
+            {
+                  "name": "Waterski",
+                  "text": "Un parc acvatic distractiv în Riga, cu diverse piscine și tobogane pentru recreerea familiei.",
+                  "category": "family",
+                  "coords": [
+                        24.086396,
+                        56.943494
+                  ]
+            },
+            {
+                  "name": "Jaunā Pārdaugavas pirts",
+                  "text": "Această unitate din Riga oferă un loc minunat pentru înot și distracție în familie pe bază de apă.",
+                  "category": "family",
+                  "coords": [
+                        24.112189,
+                        56.91476
+                  ]
+            },
+            {
+                  "name": "Daugavas peldbaseins",
+                  "text": "Această unitate din Riga oferă un loc minunat pentru înot și distracție în familie pe bază de apă.",
+                  "category": "family",
+                  "coords": [
+                        24.142856,
+                        56.963737
+                  ]
+            },
+            {
+                  "name": "Lucavsalas veikparks",
+                  "text": "Un parc acvatic distractiv în Riga, cu diverse piscine și tobogane pentru recreerea familiei.",
+                  "category": "family",
+                  "coords": [
+                        24.11376,
+                        56.931427
+                  ]
+            },
+            {
+                  "name": "LIDO Atpūtas centrs",
+                  "text": "Un parc tematic interesant în Riga, cu diverse atracții și divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        24.160571,
+                        56.927161
+                  ]
+            },
+            {
+                  "name": "Riga Rise panorāmas kvartāls",
+                  "text": "Un parc tematic interesant în Riga, cu diverse atracții și divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        24.088184,
+                        56.941046
+                  ]
             }
       ],
       "en": [
@@ -2421,6 +2583,60 @@ export const latviaAllPoi = [
                   "coords": [
                         24.12839,
                         56.936768
+                  ]
+            },
+            {
+                  "name": "Waterski",
+                  "text": "A fun water park in Riga with various pools and slides for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.086396,
+                        56.943494
+                  ]
+            },
+            {
+                  "name": "Jaunā Pārdaugavas pirts",
+                  "text": "This facility in Riga provides a great spot for swimming and water-based family fun.",
+                  "category": "family",
+                  "coords": [
+                        24.112189,
+                        56.91476
+                  ]
+            },
+            {
+                  "name": "Daugavas peldbaseins",
+                  "text": "This facility in Riga provides a great spot for swimming and water-based family fun.",
+                  "category": "family",
+                  "coords": [
+                        24.142856,
+                        56.963737
+                  ]
+            },
+            {
+                  "name": "Lucavsalas veikparks",
+                  "text": "A fun water park in Riga with various pools and slides for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.11376,
+                        56.931427
+                  ]
+            },
+            {
+                  "name": "LIDO Leisure Centre",
+                  "text": "An exciting theme park in Riga featuring various attractions and entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        24.160571,
+                        56.927161
+                  ]
+            },
+            {
+                  "name": "Riga Rise panorāmas kvartāls",
+                  "text": "An exciting theme park in Riga featuring various attractions and entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        24.088184,
+                        56.941046
                   ]
             }
       ]
@@ -4797,6 +5013,15 @@ export const latviaAllPoi = [
                         21.588954,
                         57.374302
                   ]
+            },
+            {
+                  "name": "Pludmales akvaparks - Ventspils",
+                  "text": "Diese Attraktion in Ventspils ist ein beliebtes Ziel für Familienausflüge und Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        21.534688,
+                        57.390703
+                  ]
             }
       ],
       "hu": [
@@ -4843,6 +5068,15 @@ export const latviaAllPoi = [
                   "coords": [
                         21.588954,
                         57.374302
+                  ]
+            },
+            {
+                  "name": "Pludmales akvaparks - Ventspils",
+                  "text": "Ez a Ventspils városában található látványosság népszerű célpont a családi kirándulásokhoz és a szabadidő eltöltéséhez.",
+                  "category": "family",
+                  "coords": [
+                        21.534688,
+                        57.390703
                   ]
             }
       ],
@@ -4891,6 +5125,15 @@ export const latviaAllPoi = [
                         21.588954,
                         57.374302
                   ]
+            },
+            {
+                  "name": "Pludmales akvaparks - Ventspils",
+                  "text": "Această atracție din Ventspils este o destinație populară pentru ieșirile în familie și petrecerea timpului liber.",
+                  "category": "family",
+                  "coords": [
+                        21.534688,
+                        57.390703
+                  ]
             }
       ],
       "en": [
@@ -4937,6 +5180,15 @@ export const latviaAllPoi = [
                   "coords": [
                         21.588954,
                         57.374302
+                  ]
+            },
+            {
+                  "name": "Pludmales akvaparks - Ventspils",
+                  "text": "This attraction in Ventspils is a popular destination for family outings and leisure.",
+                  "category": "family",
+                  "coords": [
+                        21.534688,
+                        57.390703
                   ]
             }
       ]
@@ -5161,6 +5413,24 @@ export const latviaAllPoi = [
                         27.301579,
                         56.465266
                   ]
+            },
+            {
+                  "name": "Pirts",
+                  "text": "Dieses öffentliche Bad in Rezekne bietet einen traditionellen Ort für Entspannung und Wellness.",
+                  "category": "family",
+                  "coords": [
+                        27.325008,
+                        56.509826
+                  ]
+            },
+            {
+                  "name": "Rēzeknes Olimpiskā centra āra peldbaseins",
+                  "text": "Ein öffentlicher Schwimmbereich in Rezekne, der sich für Sport und Entspannung eignet.",
+                  "category": "family",
+                  "coords": [
+                        27.350743,
+                        56.513876
+                  ]
             }
       ],
       "hu": [
@@ -5333,6 +5603,24 @@ export const latviaAllPoi = [
                   "coords": [
                         27.301579,
                         56.465266
+                  ]
+            },
+            {
+                  "name": "Pirts",
+                  "text": "Ez a nyilvános fürdő Rezekne városában hagyományos helyet kínál a kikapcsolódásra és a wellnessre.",
+                  "category": "family",
+                  "coords": [
+                        27.325008,
+                        56.509826
+                  ]
+            },
+            {
+                  "name": "Rēzeknes Olimpiskā centra āra peldbaseins",
+                  "text": "Egy nyilvános úszóhely Rezekne városában, amely alkalmas sportolásra és kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        27.350743,
+                        56.513876
                   ]
             }
       ],
@@ -5507,6 +5795,24 @@ export const latviaAllPoi = [
                         27.301579,
                         56.465266
                   ]
+            },
+            {
+                  "name": "Pirts",
+                  "text": "Această baie publică din Rezekne oferă un loc tradițional pentru relaxare și wellness.",
+                  "category": "family",
+                  "coords": [
+                        27.325008,
+                        56.509826
+                  ]
+            },
+            {
+                  "name": "Rēzeknes Olimpiskā centra āra peldbaseins",
+                  "text": "O zonă publică de înot în Rezekne potrivită pentru sport și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        27.350743,
+                        56.513876
+                  ]
             }
       ],
       "en": [
@@ -5679,6 +5985,24 @@ export const latviaAllPoi = [
                   "coords": [
                         27.301579,
                         56.465266
+                  ]
+            },
+            {
+                  "name": "Pirts",
+                  "text": "This public bath in Rezekne offers a traditional place for relaxation and wellness.",
+                  "category": "family",
+                  "coords": [
+                        27.325008,
+                        56.509826
+                  ]
+            },
+            {
+                  "name": "Rēzeknes Olimpiskā centra āra peldbaseins",
+                  "text": "A public swimming area in Rezekne suitable for sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        27.350743,
+                        56.513876
                   ]
             }
       ]
@@ -14848,6 +15172,15 @@ export const latviaNature = [
                         25.066855,
                         57.858554
                   ]
+            },
+            {
+                  "name": "Jēru Klubs",
+                  "text": "Ein Zoo in Mazsalaca, der ein schönes Ziel für einen Familienausflug ist.",
+                  "category": "family",
+                  "coords": [
+                        25.064275,
+                        57.828473
+                  ]
             }
       ],
       "hu": [
@@ -14939,6 +15272,15 @@ export const latviaNature = [
                   "coords": [
                         25.066855,
                         57.858554
+                  ]
+            },
+            {
+                  "name": "Jēru Klubs",
+                  "text": "Állatkert Mazsalaca területén, amely szép célpont egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        25.064275,
+                        57.828473
                   ]
             }
       ],
@@ -15032,6 +15374,15 @@ export const latviaNature = [
                         25.066855,
                         57.858554
                   ]
+            },
+            {
+                  "name": "Jēru Klubs",
+                  "text": "O grădină zoologică în Mazsalaca, care este o destinație frumoasă pentru o excursie în familie.",
+                  "category": "family",
+                  "coords": [
+                        25.064275,
+                        57.828473
+                  ]
             }
       ],
       "en": [
@@ -15123,6 +15474,15 @@ export const latviaNature = [
                   "coords": [
                         25.066855,
                         57.858554
+                  ]
+            },
+            {
+                  "name": "Jēru Klubs",
+                  "text": "A zoo in Mazsalaca that is a nice destination for a family trip.",
+                  "category": "family",
+                  "coords": [
+                        25.064275,
+                        57.828473
                   ]
             }
       ]

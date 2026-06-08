@@ -8,7 +8,328 @@ import type { POI } from "./poi";
 export const poiExtraRoV1: POI[] = [
   {"id": "agigea", "type": "city", "parent": "RO-CT", "coords": [28.610413, 44.091463], "population": 6358, "name": {"de": "Agigea", "hu": "Agigea", "ro": "Agigea", "en": "Agigea"}, "descriptionAdvanced": {"de": "Agigea ist eine strategisch bedeutsame Gemeinde im Kreis Constanța, die direkt am Ufer des Schwarzen Meeres und an der Mündung des Donau-Schwarzmeer-Kanals liegt. Die Ortschaft ist ein vitaler Verkehrsknotenpunkt für Rumänien, da sie den Hafen Constanța Sud-Agigea beherbergt, einen der größten und modernsten Seehäfen Europas. Neben seiner industriellen Bedeutung hat Agigea eine lange wissenschaftliche Tradition: Hier befindet sich die Meeresbiologische Station 'Prof. Dr. Ioan Borcea', die bereits 1926 gegründet wurde und heute Teil der Universität Iași ist. Die Region ist auch für ihre Naturschutzgebiete bekannt, wie die Dünen von Agigea, die seltene Pflanzenarten und eine geschützte Fauna beherbergen. In der Vergangenheit war Agigea ein bekannter Kurort mit einem Sanatorium für Knochentuberkulose, das die heilende Wirkung von Meeresschlamm und Sonne nutzte. Heute entwickelt sich die Gemeinde zu einem dynamischen Logistikzentrum, während sie gleichzeitig ihre Identität als Fischerdorf und Forschungsstandort bewahrt.", "hu": "Agigea egy stratégiai fontosságú település Konstanca megyében, a Fekete-tenger partján, ahol a Duna-Fekete-tenger csatorna a tengerbe torkollik. A település neve szorosan összefonódik a modern szállítmányozással, hiszen itt található a Constanța Sud-Agigea kikötő, amely a régió egyik legnagyobb logisztikai központja. A település tudományos jelentősége is kiemelkedő: 1926-ban itt alapították meg az ország első tengerbiológiai kutatóállomását, amely ma is fontos bázisa a fekete-tengeri élővilág tanulmányozásának. Agigea természeti értékei közé tartozik a dűne-rezervátum, ahol ritka homoklakó növények és védett madárfajok élnek. A 20. század elején a hely népszerű volt gyógyhatású iszapjáról és tengeri szanatóriumáról is. Napjainkban Agigea a gazdasági fejlődés és a természetvédelem metszéspontjában áll, ahol a hatalmas konténerterminálok szomszédságában még mindig megtalálhatók a hagyományos halászkunyhók és a csendes tengerparti szakaszok.", "ro": "Agigea este o localitate de o importanță strategică majoră în județul Constanța, fiind situată la intersecția unor magistrale de transport navale, rutiere și feroviare. Așezarea este marcată de prezența portului Constanța Sud-Agigea și de gura de vărsare a Canalului Dunăre-Marea Neagră, elemente care fac din această comunitate un pilon al economiei naționale. Din punct de vedere științific, Agigea găzduiește Stațiunea Biologică Marină „Prof. Dr. Ioan Borcea”, înființată în 1926, care reprezintă un reper internațional pentru cercetarea ecosistemului pontic. Rezervația de dune de nisip de aici este unică, adăpostind specii floristice și faunistice protejate, specifice litoralului românesc. Istoria localității include și perioada în care a funcționat ca stațiune balneoclimaterică, sanatoriul de aici fiind celebru pentru tratamentele bazate pe aerosoli și helioterapie. Astăzi, Agigea este într-o continuă expansiune, beneficiind de conexiunea directă cu Autostrada Soarelui și de investițiile masive în infrastructura portuară și logistică.", "en": "Agigea is a strategically vital settlement in Constanța County, situated at the southeastern edge of Romania where the Danube-Black Sea Canal meets the Black Sea. It serves as a major logistical hub, hosting the Port of Constanța South-Agigea, which is the largest container terminal on the Black Sea. Beyond its industrial and maritime prowess, Agigea holds significant scientific weight as home to the 'Prof. Dr. Ioan Borcea' Marine Biological Station, established in 1926. This institution pioneered oceanographic research in Romania and continues to attract researchers from across the globe. The area is also notable for the Agigea Dunes Nature Reserve, a protected habitat for rare sand-loving flora and migratory birds. Historically, Agigea was known as a health resort specializing in heliotherapy and treatments for bone tuberculosis. Modern Agigea is a place of contrasts, where massive industrial cranes and shipping containers sit alongside traditional fishing spots and protected natural landscapes, reflecting the dynamic evolution of the Romanian seaside."}, "factsAdvanced": {"de": ["Lage: Mündung des Donau-Schwarzmeer-Kanals", "Hafen: Constanța Sud-Agigea (größter am Schwarzen Meer)", "Wissenschaft: Biologische Station seit 1926", "Naturschutz: Dünen von Agigea (Dunele de la Agigea)", "Infrastruktur: Anschluss an die Autobahn A2", "Forschungsschwerpunkt: Meeresbiologie"], "hu": ["Földrajzi fekvés: Duna-Fekete-tenger csatorna torkolata", "Kikötő: Konstanca-Dél Agigea (konténerterminál)", "Kutatóállomás alapítása: 1926", "Természeti érték: Homokdűne-rezervátum", "Közlekedés: Az A2-es autópálya végpontja közelében", "Tudományos név: Prof. Dr. Ioan Borcea állomás"], "ro": ["Obiectiv economic: Portul Constanța Sud", "Canal: Dunăre-Marea Neagră (punct terminal)", "Cercetare: Stațiunea Biologică Marină (fondată 1926)", "Rezervație naturală: Dunele de nisip Agigea", "Transport: Nod rutier DN39 și autostrada A4", "Istoric: Fostă stațiune pentru helioterapie"], "en": ["Strategic location: Mouth of the Danube-Black Sea Canal", "Port capacity: Largest container hub on the Black Sea", "Scientific hub: Marine Research Station since 1926", "Conservation: Protected coastal sand dunes", "Transport links: Direct access to A2 and A4 motorways", "Climate: Marine with saline aerosols"]}, "faq": {"de": [{"q": "Was ist der Hafen von Agigea?", "a": "Es ist der südliche Teil des Hafens von Constanța, spezialisiert auf Containerverkehr."}, {"q": "Gibt es Strände in Agigea?", "a": "Es gibt einige naturbelassene Abschnitte, aber die Region ist primär industriell geprägt."}, {"q": "Was kann man in der Biologischen Station sehen?", "a": "Man kann dort Ausstellungen zur Meeresbiologie und die Dünen-Flora besichtigen."}, {"q": "Wo endet der Donau-Schwarzmeer-Kanal?", "a": "Der südliche Arm des Kanals mündet bei Agigea in das Schwarze Meer."}], "hu": [{"q": "Miről nevezetes Agigea?", "a": "A hatalmas kikötőjéről és a tengerbiológiai kutatóállomásáról."}, {"q": "Van Agigeának tengerpartja?", "a": "Igen, de a terület nagy része kikötői és ipari zóna."}, {"q": "Milyen természetvédelmi terület van itt?", "a": "Egy különleges homokdűne-rezervátum ritka növényekkel."}, {"q": "Hogyan lehet ide eljutni?", "a": "Az A2-es autópályán közvetlenül Konstanca mellé érkezünk."}], "ro": [{"q": "Ce port este la Agigea?", "a": "Portul Constanța Sud-Agigea, cel mai mare port de containere din bazinul pontic."}, {"q": "Ce se cercetează la stațiunea biologică?", "a": "Ecosistemul Mării Negre și speciile de plante din zona dunelor."}, {"q": "Unde se află canalul Dunăre-Marea Neagră?", "a": "Capătul sudic al canalului se varsă în mare chiar la Agigea."}, {"q": "Se poate face plajă în Agigea?", "a": "Există o zonă de mal, dar nu este o stațiune turistică clasică precum Mamaia."}], "en": [{"q": "What is Agigea's role in Romania's economy?", "a": "It is the main entry point for maritime container trade via its deep-water port."}, {"q": "Is there a nature reserve in Agigea?", "a": "Yes, it hosts a rare coastal sand dune ecosystem under scientific protection."}, {"q": "Who was Ioan Borcea?", "a": "A famous Romanian scientist who founded the marine research station in Agigea."}, {"q": "Is Agigea close to Constanța city?", "a": "Yes, it is practically a southern suburb/satellite of Constanța."}]},
   "tier": 5,
-    "sights": {"de": [{"name": "Schleuse Agigea", "text": "Ein beeindruckendes technisches Bauwerk am Donau-Schwarzmeer-Kanal, das den Schiffsverkehr zum Hafen von Constanța regelt.", "category": "civic", "confidence": "high", "coords": [28.620098, 44.100166]}, {"name": "Agigea-See", "text": "Ein Brackwassersee in Küstennähe, der ein wichtiger Ort für die Vogelbeobachtung und den Naturschutz in der Region ist.", "category": "natural", "confidence": "medium", "coords": [28.616599, 44.100266]}, {"name": "Podul Agigea", "text": "Eine beeindruckende Metallkonstruktion über den Kanal, ein wichtiger Verkehrs- und Eisenbahnknotenpunkt.", "category": "civic", "confidence": "high", "coords": [28.606873, 44.098247]}, {"name": "Stațiunea Biologică Marină", "text": "Ein von Ioan Borcea gegründetes Forschungszentrum zur Untersuchung des Ökosystems des Schwarzen Meeres.", "category": "museum", "confidence": "high", "coords": [28.642701, 44.085928]}, {"name": "Plaja Agigea", "text": "Die Plaja Agigea entfaltet sich als malerischer und wilder Küstenabschnitt, ideal für Ruhesuchende. Umgeben von einer charmanten Fischeratmosphäre, lässt sich hier das Meer abseits der typischen Touristenpfade genießen. Naturnahe Erholung beim Sonnenbaden und Lauschen der Wellen steht hier im Mittelpunkt. Bequemes Schuhwerk ist von Vorteil, um die natürliche Umgebung bestens zu erkunden.", "category": "natural", "confidence": "high", "coords": [28.640975, 44.082457]}, {"name": "Biserica Sfântul Dimitrie", "text": "Eine orthodoxe Kirche mit traditioneller Architektur, die die Gläubigen der Gemeinde Agigea bedient.", "category": "religious", "confidence": "high", "coords": [28.611419, 44.095088]}], "hu": [{"name": "Agigeai zsilip", "text": "Lenyűgöző mérnöki létesítmény a Duna-Fekete-tenger csatornán, amely a konstancai kikötő hajóforgalmát irányítja.", "category": "civic", "confidence": "high", "coords": [28.620098, 44.100166]}, {"name": "Agigeai-tó", "text": "A tengerpart közelében fekvő sós tó, amely fontos helyszín a madármegfigyelés és a helyi természetvédelem számára.", "category": "natural", "confidence": "medium", "coords": [28.616599, 44.100266]}, {"name": "Podul Agigea", "text": "Impozáns fémszerkezet a csatorna felett, amely létfontosságú közúti és vasúti csomópont Dobrudzsában.", "category": "civic", "confidence": "high", "coords": [28.606873, 44.098247]}, {"name": "Stațiunea Biologică Marină", "text": "Ioan Borcea által alapított kutatóközpont, amely a Fekete-tenger ökoszisztémáját tanulmányozza.", "category": "museum", "confidence": "high", "coords": [28.642701, 44.085928]}, {"name": "Plaja Agigea", "text": "A Plaja Agigea egy festői és vad tengerparti szakaszként bontakozik ki, amely ideális a nyugalmat keresők számára. A bájos halászhangulattal körülvett tenger itt a tipikus turistautakon kívül is élvezhető. A természetközeli pihenés, a napozás és a hullámok hallgatása áll itt a középpontban. A kényelmes lábbeli előnyt jelent a természetes környezet tökéletes felfedezéséhez.", "category": "natural", "confidence": "high", "coords": [28.640975, 44.082457]}, {"name": "Biserica Sfântul Dimitrie", "text": "Hagyományos építészetű ortodox templom, amely Agigea helyi közösségét szolgálja.", "category": "religious", "confidence": "high", "coords": [28.611419, 44.095088]}], "ro": [{"name": "Ecluza Agigea", "text": "O construcție hidrotehnică masivă pe Canalul Dunăre-Marea Neagră, esențială pentru navigația maritimă spre Portul Constanța.", "category": "civic", "confidence": "high", "coords": [28.620098, 44.100166]}, {"name": "Lacul Agigea", "text": "Lac situat în apropierea țărmului mării, important pentru biodiversitate și observarea păsărilor migratoare.", "category": "natural", "confidence": "medium", "coords": [28.616599, 44.100266]}, {"name": "Podul Agigea", "text": "Impresionantă construcție metalică peste canal, fiind un nod rutier și feroviar vital pentru Dobrogea.", "category": "civic", "confidence": "high", "coords": [28.606873, 44.098247]}, {"name": "Stațiunea Biologică Marină", "text": "Centru de cercetare fondat de Ioan Borcea, dedicat studierii ecosistemului Mării Negre la Agigea.", "category": "museum", "confidence": "high", "coords": [28.642701, 44.085928]}, {"name": "Plaja Agigea", "text": "Plaja Agigea se desfășoară ca o zonă de coastă pitorească și sălbatică, ideală pentru cei care caută liniștea. Înconjurați de o atmosferă fermecătoare de pescari, aici marea poate fi savurată departe de traseele turistice tipice. Odihna în mijlocul naturii, făcând plajă și ascultând valurile, este principalul punct de atracție. Încălțămintea confortabilă este un avantaj pentru a explora optim mediul natural.", "category": "natural", "confidence": "high", "coords": [28.640975, 44.082457]}, {"name": "Biserica Sfântul Dimitrie", "text": "Lăcaș de cult ortodox cu arhitectură tradițională, servind credincioșii din localitatea Agigea.", "category": "religious", "confidence": "high", "coords": [28.611419, 44.095088]}], "en": [{"name": "Agigea Lock", "text": "An impressive engineering structure on the Danube-Black Sea Canal, regulating ship traffic towards the Port of Constanța.", "category": "civic", "confidence": "high", "coords": [28.620098, 44.100166]}, {"name": "Agigea Lake", "text": "A brackish water lake near the coast, serving as an important site for birdwatching and local biodiversity conservation.", "category": "natural", "confidence": "medium", "coords": [28.616599, 44.100266]}, {"name": "Podul Agigea", "text": "An impressive metal structure over the canal, serving as a vital road and rail junction for Dobrogea.", "category": "civic", "confidence": "high", "coords": [28.606873, 44.098247]}, {"name": "Stațiunea Biologică Marină", "text": "A research center founded by Ioan Borcea, dedicated to studying the Black Sea ecosystem at Agigea.", "category": "museum", "confidence": "high", "coords": [28.642701, 44.085928]}, {"name": "Plaja Agigea", "text": "Plaja Agigea unfolds as a picturesque and wild stretch of coast, ideal for those seeking tranquility. Surrounded by a charming fishing atmosphere, the sea can be enjoyed here away from the typical tourist paths. Nature-oriented recreation through sunbathing and listening to the waves takes center stage. Comfortable footwear is an advantage for thoroughly exploring the natural surroundings.", "category": "natural", "confidence": "high", "coords": [28.640975, 44.082457]}, {"name": "Biserica Sfântul Dimitrie", "text": "An Orthodox church with traditional architecture, serving the faithful in the locality of Agigea.", "category": "religious", "confidence": "high", "coords": [28.611419, 44.095088]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Schleuse Agigea",
+                  "text": "Ein beeindruckendes technisches Bauwerk am Donau-Schwarzmeer-Kanal, das den Schiffsverkehr zum Hafen von Constanța regelt.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.620098,
+                        44.100166
+                  ]
+            },
+            {
+                  "name": "Agigea-See",
+                  "text": "Ein Brackwassersee in Küstennähe, der ein wichtiger Ort für die Vogelbeobachtung und den Naturschutz in der Region ist.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "coords": [
+                        28.616599,
+                        44.100266
+                  ]
+            },
+            {
+                  "name": "Podul Agigea",
+                  "text": "Eine beeindruckende Metallkonstruktion über den Kanal, ein wichtiger Verkehrs- und Eisenbahnknotenpunkt.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.606873,
+                        44.098247
+                  ]
+            },
+            {
+                  "name": "Stațiunea Biologică Marină",
+                  "text": "Ein von Ioan Borcea gegründetes Forschungszentrum zur Untersuchung des Ökosystems des Schwarzen Meeres.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.642701,
+                        44.085928
+                  ]
+            },
+            {
+                  "name": "Plaja Agigea",
+                  "text": "Die Plaja Agigea entfaltet sich als malerischer und wilder Küstenabschnitt, ideal für Ruhesuchende. Umgeben von einer charmanten Fischeratmosphäre, lässt sich hier das Meer abseits der typischen Touristenpfade genießen. Naturnahe Erholung beim Sonnenbaden und Lauschen der Wellen steht hier im Mittelpunkt. Bequemes Schuhwerk ist von Vorteil, um die natürliche Umgebung bestens zu erkunden.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.640975,
+                        44.082457
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Dimitrie",
+                  "text": "Eine orthodoxe Kirche mit traditioneller Architektur, die die Gläubigen der Gemeinde Agigea bedient.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.611419,
+                        44.095088
+                  ]
+            },
+            {
+                  "name": "Eforie Aqua Park",
+                  "text": "Ein Wasserpark in Agigea, der Wasserspaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        28.638507,
+                        44.061888
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Ein Schwimmbad in Agigea, geeignet für die Entspannung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        28.638031,
+                        44.075261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agigeai zsilip",
+                  "text": "Lenyűgöző mérnöki létesítmény a Duna-Fekete-tenger csatornán, amely a konstancai kikötő hajóforgalmát irányítja.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.620098,
+                        44.100166
+                  ]
+            },
+            {
+                  "name": "Agigeai-tó",
+                  "text": "A tengerpart közelében fekvő sós tó, amely fontos helyszín a madármegfigyelés és a helyi természetvédelem számára.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "coords": [
+                        28.616599,
+                        44.100266
+                  ]
+            },
+            {
+                  "name": "Podul Agigea",
+                  "text": "Impozáns fémszerkezet a csatorna felett, amely létfontosságú közúti és vasúti csomópont Dobrudzsában.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.606873,
+                        44.098247
+                  ]
+            },
+            {
+                  "name": "Stațiunea Biologică Marină",
+                  "text": "Ioan Borcea által alapított kutatóközpont, amely a Fekete-tenger ökoszisztémáját tanulmányozza.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.642701,
+                        44.085928
+                  ]
+            },
+            {
+                  "name": "Plaja Agigea",
+                  "text": "A Plaja Agigea egy festői és vad tengerparti szakaszként bontakozik ki, amely ideális a nyugalmat keresők számára. A bájos halászhangulattal körülvett tenger itt a tipikus turistautakon kívül is élvezhető. A természetközeli pihenés, a napozás és a hullámok hallgatása áll itt a középpontban. A kényelmes lábbeli előnyt jelent a természetes környezet tökéletes felfedezéséhez.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.640975,
+                        44.082457
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Dimitrie",
+                  "text": "Hagyományos építészetű ortodox templom, amely Agigea helyi közösségét szolgálja.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.611419,
+                        44.095088
+                  ]
+            },
+            {
+                  "name": "Eforie Aqua Park",
+                  "text": "Vízi park Agigeában, amely vízi szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        28.638507,
+                        44.061888
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Egy úszómedence Agigeában, amely alkalmas a családi kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        28.638031,
+                        44.075261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ecluza Agigea",
+                  "text": "O construcție hidrotehnică masivă pe Canalul Dunăre-Marea Neagră, esențială pentru navigația maritimă spre Portul Constanța.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.620098,
+                        44.100166
+                  ]
+            },
+            {
+                  "name": "Lacul Agigea",
+                  "text": "Lac situat în apropierea țărmului mării, important pentru biodiversitate și observarea păsărilor migratoare.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "coords": [
+                        28.616599,
+                        44.100266
+                  ]
+            },
+            {
+                  "name": "Podul Agigea",
+                  "text": "Impresionantă construcție metalică peste canal, fiind un nod rutier și feroviar vital pentru Dobrogea.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.606873,
+                        44.098247
+                  ]
+            },
+            {
+                  "name": "Stațiunea Biologică Marină",
+                  "text": "Centru de cercetare fondat de Ioan Borcea, dedicat studierii ecosistemului Mării Negre la Agigea.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.642701,
+                        44.085928
+                  ]
+            },
+            {
+                  "name": "Plaja Agigea",
+                  "text": "Plaja Agigea se desfășoară ca o zonă de coastă pitorească și sălbatică, ideală pentru cei care caută liniștea. Înconjurați de o atmosferă fermecătoare de pescari, aici marea poate fi savurată departe de traseele turistice tipice. Odihna în mijlocul naturii, făcând plajă și ascultând valurile, este principalul punct de atracție. Încălțămintea confortabilă este un avantaj pentru a explora optim mediul natural.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.640975,
+                        44.082457
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Dimitrie",
+                  "text": "Lăcaș de cult ortodox cu arhitectură tradițională, servind credincioșii din localitatea Agigea.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.611419,
+                        44.095088
+                  ]
+            },
+            {
+                  "name": "Eforie Aqua Park",
+                  "text": "Un parc acvatic în Agigea care oferă distracție acvatică pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        28.638507,
+                        44.061888
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "O piscină în Agigea potrivită pentru relaxare în familie.",
+                  "category": "family",
+                  "coords": [
+                        28.638031,
+                        44.075261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agigea Lock",
+                  "text": "An impressive engineering structure on the Danube-Black Sea Canal, regulating ship traffic towards the Port of Constanța.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.620098,
+                        44.100166
+                  ]
+            },
+            {
+                  "name": "Agigea Lake",
+                  "text": "A brackish water lake near the coast, serving as an important site for birdwatching and local biodiversity conservation.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "coords": [
+                        28.616599,
+                        44.100266
+                  ]
+            },
+            {
+                  "name": "Podul Agigea",
+                  "text": "An impressive metal structure over the canal, serving as a vital road and rail junction for Dobrogea.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.606873,
+                        44.098247
+                  ]
+            },
+            {
+                  "name": "Stațiunea Biologică Marină",
+                  "text": "A research center founded by Ioan Borcea, dedicated to studying the Black Sea ecosystem at Agigea.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.642701,
+                        44.085928
+                  ]
+            },
+            {
+                  "name": "Plaja Agigea",
+                  "text": "Plaja Agigea unfolds as a picturesque and wild stretch of coast, ideal for those seeking tranquility. Surrounded by a charming fishing atmosphere, the sea can be enjoyed here away from the typical tourist paths. Nature-oriented recreation through sunbathing and listening to the waves takes center stage. Comfortable footwear is an advantage for thoroughly exploring the natural surroundings.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.640975,
+                        44.082457
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Dimitrie",
+                  "text": "An Orthodox church with traditional architecture, serving the faithful in the locality of Agigea.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.611419,
+                        44.095088
+                  ]
+            },
+            {
+                  "name": "Eforie Aqua Park",
+                  "text": "A water park in Agigea providing aquatic fun for families.",
+                  "category": "family",
+                  "coords": [
+                        28.638507,
+                        44.061888
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "A swimming pool in Agigea suitable for family relaxation.",
+                  "category": "family",
+                  "coords": [
+                        28.638031,
+                        44.075261
+                  ]
+            }
+      ]
+}
   },
   {"id": "agnita", "type": "city", "parent": "RO-SB", "coords": [24.623333333, 45.974444444], "population": 7564, "name": {"de": "Agnetheln", "hu": "Szentágota", "ro": "Agnita", "en": "Agnita"}, "descriptionAdvanced": {"de": "Agnita (deutsch Agnetheln, ungarisch Szentágota) ist eine bedeutende historische Stadt im Kreis Sibiu, im Herzen des Harbach-Hochlandes (Podișul Hârtibaciului) in Siebenbürgen. Die Stadt wurde im 13. Jahrhundert von siebenbürgisch-sächsischen Siedlern gegründet und war über Jahrhunderte ein blühendes Zentrum des Handwerks und des Handels. Das architektonische Wahrzeichen ist die imposante Kirchenburg, eine der ältesten und am besten erhaltenen Wehrkirchen der Region, die mit ihren vier Zunfttürmen (Fassbinder, Schneider, Schuster und Fassbinder) die einstige Macht der Gilden symbolisiert. Geografisch liegt Agnita fast im exakten geometrischen Zentrum Rumäniens, eingebettet in eine sanfte Hügellandschaft. Im 20. Jahrhundert entwickelte sich die Stadt zu einem Zentrum der Leder- und Handschuhindustrie, ein Erbe, das die lokale Wirtschaft bis heute prägt. Agnita ist auch für die 'Lolelauf'-Tradition (Urzelnlauf) bekannt, ein farbenfroher sächsischer Brauch zur Winteraustreibung. Trotz der Abwanderung vieler Sachsen bewahrt die Stadt ein reiches kulturelles Erbe und bemüht sich um die Revitalisierung ihrer historischen Substanz, während sie gleichzeitig ein wichtiger administrativer Knotenpunkt für das Hârtibaciu-Tal bleibt.", "hu": "Szentágota (románul Agnita, németül Agnetheln) város Erdélyben, Szeben megyében, a Hortobágy-menti dombság központjában. A települést szász telepesek alapították a 12. század végén, és a középkor folyamán fontos kézműves központtá vált. A város jelképe a hatalmas szász evangélikus erődtemplom, amelynek négy bástyája a helyi céhek (vargák, szabók, kovácsok, kádárok) védelme alatt állt, tanúskodva a település egykori gazdagságáról és védelmi képességéről. Szentágota földrajzilag Románia mértani közepéhez közel fekszik, egy festői völgyben, amelyet lankás dombok és legelők vesznek körül. A 20. században a város a román bőripar egyik fellegvára lett, különösen a kesztyűgyártásáról volt híres világszerte. A kulturális élet egyik legérdekesebb eseménye az 'Urzeln-futás' (lolejárás), egy ősi szász szokás, amely a gonosz szellemek elűzését szolgálja farsang idején. Bár a szász lakosság nagy része elvándorolt, a város ma is őrzi multikulturális jellegét, ahol a román, magyar és német örökség összefonódik. A Hortobágy-völgyi kisvasút (Mocănița) felújítása pedig új turisztikai lehetőségeket nyitott a régió számára.", "ro": "Agnita este un oraș istoric de o importanță deosebită din județul Sibiu, situat în inima Podișului Hârtibaciului, pe cursul superior al râului Hârtibaciu. Fondat de coloniști sași în secolul al XII-lea sub numele de Agnetheln, orașul s-a dezvoltat ca un centru meșteșugăresc de elită, fiind faimos pentru breslele sale puternice. Monumentul emblematic al orașului este Biserica Evanghelică Fortificată, un complex arhitectural defensiv remarcabil, dotat cu turnuri ce poartă numele breslelor: Turnul Pantofarilor, Turnul Croitorilor, Turnul Fierarilor și Turnul Dogarilor. Agnita este considerată simbolic centrul geografic al României, fiind amplasată într-o zonă colinară pitorească. În perioada modernă, orașul a devenit un centru vital al industriei de pielărie și mănușărie, produsele de aici fiind exportate în întreaga Europă. Un element de patrimoniu imaterial unic este 'Fuga Lolelor', un obicei tradițional săsesc de alungare a spiritelor iernii, care atrage anual numeroși vizitatori. Deși structura demografică s-a schimbat, Agnita își conservă cu mândrie moștenirea saxonă, integrând-o într-un context urban modern, fiind totodată punctul central de acces către valea Hârtibaciului și faimoasa cale ferată îngustă 'Mocănița'.", "en": "Agnita is a historic town in Sibiu County, nestled in the heart of the Hârtibaciu Highland in Transylvania. Founded by Transylvanian Saxon settlers in the late 12th century, it grew into a prosperous market town and a major center for medieval guilds. The town's skyline is dominated by its impressive fortified Lutheran church, one of the oldest in the region, featuring four defensive towers named after the guilds that defended them: the Shoemakers, Tailors, Blacksmiths, and Coopers. Geographically, Agnita is often cited as the geometric center of Romania, located in a scenic valley surrounded by rolling hills and pastoral landscapes. During the 20th century, the town became famous as a hub for the leather and glove industry, maintaining high-quality craftsmanship for decades. Agnita is also home to the 'Lole Run' (Urzelnlauf), a unique Saxon winter tradition involving masked characters and bells to drive away evil spirits. Despite the emigration of much of its German population, the town preserves a rich multicultural heritage. It remains a key administrative and cultural focal point for the Hârtibaciu Valley, recently benefiting from efforts to revive the historic narrow-gauge railway, the 'Mocănița', which adds to its charm as a heritage tourism destination."}, "factsAdvanced": {"de": ["Beheimatet eine der ältesten Kirchenburgen Siebenbürgens (13. Jh.)", "Einstiges Zentrum der siebenbürgischen Handschuhindustrie", "Liegt im geografischen Zentrum Rumäniens", "Traditioneller 'Urzelnlauf' findet jedes Jahr im Januar oder Februar statt", "Besitzt ein bedeutendes Museum für Stadt- und Regionalgeschichte", "Endstation der historischen Schmalspurbahn 'Wusch' (Mocănița)"], "hu": ["A 13. században épült szász erődtemplomáról híres", "A négy céhtorony a vargák, szabók, kovácsok és kádárok nevét viseli", "A Hortobágy-menti dombság (Podișul Hârtibaciului) központja", "Itt zajlik minden évben a hagyományos szász lolejárás (Urzelnlauf)", "A 20. században Románia kesztyűgyártó központja volt", "A városon áthalad a keskeny nyomtávú Hortobágy-völgyi vasút"], "ro": ["Biserica fortificată din Agnita este atestată încă din anul 1280", "Orașul este considerat 'Centrul Geografic al României'", "Găzduiește Muzeul de Istorie Valea Hârtibaciului", "Tradiția 'Fuga Lolelor' este inclusă în patrimoniul cultural local", "Economia a fost dominată de fabrica de piele și mănuși 'Vasco'", "Se află la o distanță de 60 km de Sibiu și 40 km de Mediaș"], "en": ["Home to a 13th-century Saxon fortified church with four guild towers", "Symbolically located at the geometric center of Romania", "Famous for the traditional Saxon winter custom 'The Lole Run'", "Historically a major European center for high-quality leather gloves", "Terminal station for the Hârtibaciu Valley narrow-gauge railway", "The surrounding area is a protected Natura 2000 site for its biodiversity"]}, "faq": {"de": [{"q": "Kann man die Kirchenburg in Agnita besichtigen?", "a": "Ja, sie ist für Besucher zugänglich und beherbergt oft Ausstellungen."}, {"q": "Was sind 'Lole'?", "a": "Maskierte Gestalten in Zottelkostümen, die im Winter mit Peitschen und Glocken Lärm machen."}, {"q": "Fährt die Schmalspurbahn noch?", "a": "Es gibt regelmäßige touristische Fahrten auf Teilstrecken der 'Mocănița'."}, {"q": "Gibt es sächsische Einwohner in Agnita?", "a": "Nur noch eine kleine Minderheit, aber ihr kulturelles Erbe ist überall präsent."}], "hu": [{"q": "Milyen messze van Szentágota Nagyszebentől?", "a": "Körülbelül 60 kilométerre, kb. egyórás autóútra."}, {"q": "Mikor van a lolejárás?", "a": "Általában január utolsó vagy február első hétvégéjén."}, {"q": "Van-e magyar iskola a városban?", "a": "Magyar nyelvű oktatás kisebb csoportokban vagy délutáni foglalkozásokon érhető el."}, {"q": "Mit érdemes venni a városban?", "a": "A helyi bőrdíszműves termékek és kézműves tárgyak népszerűek."}], "ro": [{"q": "De unde provine numele Agnita?", "a": "De la Sfânta Agnes, patroana spirituală a așezării în perioada medievală."}, {"q": "Ce turnuri se pot vedea la biserica fortificată?", "a": "Turnul Pantofarilor, al Croitorilor, al Fierarilor și al Dogarilor."}, {"q": "Există trasee de bicicletă în zonă?", "a": "Da, zona dealurilor Hârtibaciului este ideală pentru cicloturism."}, {"q": "Unde se află muzeul orașului?", "a": "Muzeul Valea Hârtibaciului se află în apropierea bisericii fortificate."}], "en": [{"q": "Is the narrow-gauge railway operational?", "a": "Parts of it are being restored for tourism, with occasional steam train rides."}, {"q": "What is the best time to visit for festivals?", "a": "Winter for the Lole Run or summer for local medieval-themed events."}, {"q": "What is the main local industry today?", "a": "Light manufacturing, agriculture, and increasing focus on tourism and crafts."}, {"q": "How can I reach Agnita?", "a": "By car or bus from Sibiu, Mediaș, or Sighișoara."}]},
   "tier": 5,
@@ -1284,6 +1605,24 @@ export const poiExtraRoV1: POI[] = [
                         26.92334,
                         46.566404
                   ]
+            },
+            {
+                  "name": "Piscina Aqua Club Bacău",
+                  "text": "Der Aqua Club Bacău ist ein Schwimmbad in Bacau für Erholung und Sport.",
+                  "category": "family",
+                  "coords": [
+                        26.898904,
+                        46.609498
+                  ]
+            },
+            {
+                  "name": "Bazinul Olimpic de Înot",
+                  "text": "Das Olympische Schwimmbad in Bacau ist eine Einrichtung für Schwimmtraining und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        26.918674,
+                        46.557864
+                  ]
             }
       ],
       "hu": [
@@ -1395,6 +1734,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.92334,
                         46.566404
+                  ]
+            },
+            {
+                  "name": "Piscina Aqua Club Bacău",
+                  "text": "Az Aqua Club Bacău egy úszómedence Bákóban kikapcsolódáshoz és sporthoz.",
+                  "category": "family",
+                  "coords": [
+                        26.898904,
+                        46.609498
+                  ]
+            },
+            {
+                  "name": "Bazinul Olimpic de Înot",
+                  "text": "A bákói Olimpiai Úszómedence úszóedzésekre és szabadidős tevékenységekre szolgáló létesítmény.",
+                  "category": "family",
+                  "coords": [
+                        26.918674,
+                        46.557864
                   ]
             }
       ],
@@ -1508,6 +1865,24 @@ export const poiExtraRoV1: POI[] = [
                         26.92334,
                         46.566404
                   ]
+            },
+            {
+                  "name": "Piscina Aqua Club Bacău",
+                  "text": "Piscina Aqua Club Bacău este o piscină în Bacău pentru recreere și sport.",
+                  "category": "family",
+                  "coords": [
+                        26.898904,
+                        46.609498
+                  ]
+            },
+            {
+                  "name": "Bazinul Olimpic de Înot",
+                  "text": "Bazinul Olimpic de Înot din Bacău este o facilitate pentru antrenamente de înot și timp liber.",
+                  "category": "family",
+                  "coords": [
+                        26.918674,
+                        46.557864
+                  ]
             }
       ],
       "en": [
@@ -1619,6 +1994,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.92334,
                         46.566404
+                  ]
+            },
+            {
+                  "name": "Piscina Aqua Club Bacău",
+                  "text": "Aqua Club Bacău is a swimming pool in Bacau for recreation and sports.",
+                  "category": "family",
+                  "coords": [
+                        26.898904,
+                        46.609498
+                  ]
+            },
+            {
+                  "name": "Bazinul Olimpic de Înot",
+                  "text": "The Olympic Swimming Pool in Bacau is a facility for swimming training and leisure.",
+                  "category": "family",
+                  "coords": [
+                        26.918674,
+                        46.557864
                   ]
             }
       ]
@@ -3452,6 +3845,24 @@ export const poiExtraRoV1: POI[] = [
                         22.802866,
                         46.062739
                   ]
+            },
+            {
+                  "name": "Strand Tenis peste Apa Anca",
+                  "text": "Strand Tenis peste Apa Anca ist ein Schwimmbad in Brad, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        22.78863,
+                        46.115366
+                  ]
+            },
+            {
+                  "name": "Strand „Cetina”",
+                  "text": "Strand „Cetina” ist ein Schwimmbad in Brad, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        22.788858,
+                        46.118582
+                  ]
             }
       ],
       "hu": [
@@ -3502,6 +3913,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         22.802866,
                         46.062739
+                  ]
+            },
+            {
+                  "name": "Strand Tenis peste Apa Anca",
+                  "text": "Strand Tenis peste Apa Anca egy úszómedence Brad városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.78863,
+                        46.115366
+                  ]
+            },
+            {
+                  "name": "Strand „Cetina”",
+                  "text": "Strand „Cetina” egy úszómedence Brad városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.788858,
+                        46.118582
                   ]
             }
       ],
@@ -3554,6 +3983,24 @@ export const poiExtraRoV1: POI[] = [
                         22.802866,
                         46.062739
                   ]
+            },
+            {
+                  "name": "Strand Tenis peste Apa Anca",
+                  "text": "Strand Tenis peste Apa Anca este o piscină din Brad ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        22.78863,
+                        46.115366
+                  ]
+            },
+            {
+                  "name": "Strand „Cetina”",
+                  "text": "Strand „Cetina” este o piscină din Brad ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        22.788858,
+                        46.118582
+                  ]
             }
       ],
       "en": [
@@ -3604,6 +4051,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         22.802866,
                         46.062739
+                  ]
+            },
+            {
+                  "name": "Strand Tenis peste Apa Anca",
+                  "text": "Strand Tenis peste Apa Anca is a swimming pool in Brad ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        22.78863,
+                        46.115366
+                  ]
+            },
+            {
+                  "name": "Strand „Cetina”",
+                  "text": "Strand „Cetina” is a swimming pool in Brad ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        22.788858,
+                        46.118582
                   ]
             }
       ]
@@ -3686,6 +4151,42 @@ export const poiExtraRoV1: POI[] = [
                         27.967264,
                         45.261859
                   ]
+            },
+            {
+                  "name": "Clubul \"RaAy\"",
+                  "text": "Ein Schwimmbad in Brăila für einen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        27.968126,
+                        45.258676
+                  ]
+            },
+            {
+                  "name": "Plaja Lipoveneasca",
+                  "text": "Ein Strandresort in Brăila für die Freizeitgestaltung der Familie am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        27.975349,
+                        45.258447
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Brăila",
+                  "text": "Ein Zoo in Brăila, in dem Familien verschiedene Tierarten sehen können.",
+                  "category": "family",
+                  "coords": [
+                        27.931509,
+                        45.237616
+                  ]
+            },
+            {
+                  "name": "Ștrand Brăila",
+                  "text": "Ein Schwimmbad in Brăila für Familienaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        27.970996,
+                        45.262793
+                  ]
             }
       ],
       "hu": [
@@ -3761,6 +4262,42 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.967264,
                         45.261859
+                  ]
+            },
+            {
+                  "name": "Clubul \"RaAy\"",
+                  "text": "Egy úszómedence Brăilában egy családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        27.968126,
+                        45.258676
+                  ]
+            },
+            {
+                  "name": "Plaja Lipoveneasca",
+                  "text": "Strandüdülő Brăilában a vízparti családi szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        27.975349,
+                        45.258447
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Brăila",
+                  "text": "Állatkert Brăilában, ahol a családok különféle állatfajokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        27.931509,
+                        45.237616
+                  ]
+            },
+            {
+                  "name": "Ștrand Brăila",
+                  "text": "Egy úszómedence Brăilában családi programokhoz.",
+                  "category": "family",
+                  "coords": [
+                        27.970996,
+                        45.262793
                   ]
             }
       ],
@@ -3838,6 +4375,42 @@ export const poiExtraRoV1: POI[] = [
                         27.967264,
                         45.261859
                   ]
+            },
+            {
+                  "name": "Clubul \"RaAy\"",
+                  "text": "O piscină în Brăila pentru o zi în familie.",
+                  "category": "family",
+                  "coords": [
+                        27.968126,
+                        45.258676
+                  ]
+            },
+            {
+                  "name": "Plaja Lipoveneasca",
+                  "text": "O stațiune balneară în Brăila pentru petrecerea timpului liber în familie la malul apei.",
+                  "category": "family",
+                  "coords": [
+                        27.975349,
+                        45.258447
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Brăila",
+                  "text": "O grădină zoologică în Brăila unde familiile pot vedea diferite specii de animale.",
+                  "category": "family",
+                  "coords": [
+                        27.931509,
+                        45.237616
+                  ]
+            },
+            {
+                  "name": "Ștrand Brăila",
+                  "text": "O piscină în Brăila pentru activități în familie.",
+                  "category": "family",
+                  "coords": [
+                        27.970996,
+                        45.262793
+                  ]
             }
       ],
       "en": [
@@ -3913,6 +4486,42 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.967264,
                         45.261859
+                  ]
+            },
+            {
+                  "name": "Clubul \"RaAy\"",
+                  "text": "A swimming pool in Brăila for a family day out.",
+                  "category": "family",
+                  "coords": [
+                        27.968126,
+                        45.258676
+                  ]
+            },
+            {
+                  "name": "Plaja Lipoveneasca",
+                  "text": "A beach resort in Brăila for family leisure by the water.",
+                  "category": "family",
+                  "coords": [
+                        27.975349,
+                        45.258447
+                  ]
+            },
+            {
+                  "name": "Brăila Zoological Garden",
+                  "text": "A zoo in Brăila where families can see different animal species.",
+                  "category": "family",
+                  "coords": [
+                        27.931509,
+                        45.237616
+                  ]
+            },
+            {
+                  "name": "Ștrand Brăila",
+                  "text": "A swimming pool in Brăila for family activities.",
+                  "category": "family",
+                  "coords": [
+                        27.970996,
+                        45.262793
                   ]
             }
       ]
@@ -5383,6 +5992,24 @@ export const poiExtraRoV1: POI[] = [
                         25.7257,
                         45.130038
                   ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Ein Schwimmbad in Breaza de Jos.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "Ein Schwimmbad in Breaza de Jos, geeignet für Familien.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
+                  ]
             }
       ],
       "hu": [
@@ -5412,6 +6039,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.7257,
                         45.130038
+                  ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Egy úszómedence Breaza de Jos-ban.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "Egy úszómedence Breaza de Jos-ban, amely alkalmas családok számára.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
                   ]
             }
       ],
@@ -5443,6 +6088,24 @@ export const poiExtraRoV1: POI[] = [
                         25.7257,
                         45.130038
                   ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "O piscină în Breaza de Jos.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "O piscină în Breaza de Jos potrivită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
+                  ]
             }
       ],
       "en": [
@@ -5472,6 +6135,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.7257,
                         45.130038
+                  ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "A swimming pool in Breaza de Jos.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "A swimming pool in Breaza de Jos suitable for families.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
                   ]
             }
       ]
@@ -5509,6 +6190,15 @@ export const poiExtraRoV1: POI[] = [
                         25.668368,
                         45.180473
                   ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "Der G-Club in Breaza De Sus bietet ein Schwimmbad in einer ruhigen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
+                  ]
             }
       ],
       "hu": [
@@ -5539,6 +6229,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.668368,
                         45.180473
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "A felsőbereznai G-Club úszómedencét kínál nyugodt környezetben.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
                   ]
             }
       ],
@@ -5571,6 +6270,15 @@ export const poiExtraRoV1: POI[] = [
                         25.668368,
                         45.180473
                   ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "G-Club din Breaza de Sus oferă o piscină într-un cadru liniștit.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
+                  ]
             }
       ],
       "en": [
@@ -5601,6 +6309,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.668368,
                         45.180473
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "G-Club in Breaza De Sus offers a swimming pool in a quiet setting.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
                   ]
             }
       ]
@@ -8034,6 +8751,60 @@ export const poiExtraRoV1: POI[] = [
                         24.375044,
                         45.194021
                   ]
+            },
+            {
+                  "name": "Ștrand Complexe",
+                  "text": "Diese Schwimmeinrichtung in Calimanesti bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        24.320716,
+                        45.266483
+                  ]
+            },
+            {
+                  "name": "Pișcină de Brigadier",
+                  "text": "Diese Schwimmeinrichtung in Calimanesti bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        24.320736,
+                        45.265561
+                  ]
+            },
+            {
+                  "name": "Ștrand Camelot",
+                  "text": "Diese Schwimmeinrichtung in Calimanesti bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        24.322116,
+                        45.260235
+                  ]
+            },
+            {
+                  "name": "Ștrand Căciulata",
+                  "text": "Diese Schwimmeinrichtung in Calimanesti bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        24.316714,
+                        45.257585
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Diese Schwimmeinrichtung in Calimanesti bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        24.338206,
+                        45.249071
+                  ]
+            },
+            {
+                  "name": "Mirajul Oltului",
+                  "text": "Diese familienfreundliche Attraktion in Calimanesti bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        24.33759,
+                        45.250184
+                  ]
             }
       ],
       "hu": [
@@ -8114,6 +8885,60 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.375044,
                         45.194021
+                  ]
+            },
+            {
+                  "name": "Ștrand Complexe",
+                  "text": "Ez a Calimanesti városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        24.320716,
+                        45.266483
+                  ]
+            },
+            {
+                  "name": "Pișcină de Brigadier",
+                  "text": "Ez a Calimanesti városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        24.320736,
+                        45.265561
+                  ]
+            },
+            {
+                  "name": "Ștrand Camelot",
+                  "text": "Ez a Calimanesti városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        24.322116,
+                        45.260235
+                  ]
+            },
+            {
+                  "name": "Ștrand Căciulata",
+                  "text": "Ez a Calimanesti városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        24.316714,
+                        45.257585
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Ez a Calimanesti városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        24.338206,
+                        45.249071
+                  ]
+            },
+            {
+                  "name": "Mirajul Oltului",
+                  "text": "Ez a családbarát látványosság Calimanesti városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        24.33759,
+                        45.250184
                   ]
             }
       ],
@@ -8196,6 +9021,60 @@ export const poiExtraRoV1: POI[] = [
                         24.375044,
                         45.194021
                   ]
+            },
+            {
+                  "name": "Ștrand Complexe",
+                  "text": "Această unitate de înot din Calimanesti oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        24.320716,
+                        45.266483
+                  ]
+            },
+            {
+                  "name": "Pișcină de Brigadier",
+                  "text": "Această unitate de înot din Calimanesti oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        24.320736,
+                        45.265561
+                  ]
+            },
+            {
+                  "name": "Ștrand Camelot",
+                  "text": "Această unitate de înot din Calimanesti oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        24.322116,
+                        45.260235
+                  ]
+            },
+            {
+                  "name": "Ștrand Căciulata",
+                  "text": "Această unitate de înot din Calimanesti oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        24.316714,
+                        45.257585
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "Această unitate de înot din Calimanesti oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        24.338206,
+                        45.249071
+                  ]
+            },
+            {
+                  "name": "Mirajul Oltului",
+                  "text": "Această atracție de familie din Calimanesti oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        24.33759,
+                        45.250184
+                  ]
             }
       ],
       "en": [
@@ -8276,6 +9155,60 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.375044,
                         45.194021
+                  ]
+            },
+            {
+                  "name": "Ștrand Complexe",
+                  "text": "This swimming facility in Calimanesti offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.320716,
+                        45.266483
+                  ]
+            },
+            {
+                  "name": "Pișcină de Brigadier",
+                  "text": "This swimming facility in Calimanesti offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.320736,
+                        45.265561
+                  ]
+            },
+            {
+                  "name": "Ștrand Camelot",
+                  "text": "This swimming facility in Calimanesti offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.322116,
+                        45.260235
+                  ]
+            },
+            {
+                  "name": "Ștrand Căciulata",
+                  "text": "This swimming facility in Calimanesti offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.316714,
+                        45.257585
+                  ]
+            },
+            {
+                  "name": "Ștrand",
+                  "text": "This swimming facility in Calimanesti offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.338206,
+                        45.249071
+                  ]
+            },
+            {
+                  "name": "Mirajul Oltului",
+                  "text": "This family-friendly attraction in Calimanesti offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        24.33759,
+                        45.250184
                   ]
             }
       ]
@@ -8817,6 +9750,42 @@ export const poiExtraRoV1: POI[] = [
                         25.982399,
                         44.440037
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Diese familienfreundliche Attraktion in Chiajna bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        25.973421,
+                        44.463904
+                  ]
+            },
+            {
+                  "name": "Divertiland",
+                  "text": "Diese familienfreundliche Attraktion in Chiajna bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        25.945052,
+                        44.432173
+                  ]
+            },
+            {
+                  "name": "Aqua Garden",
+                  "text": "Diese familienfreundliche Attraktion in Chiajna bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        25.985831,
+                        44.443498
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "Diese Schwimmeinrichtung in Chiajna bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        25.987581,
+                        44.431493
+                  ]
             }
       ],
       "hu": [
@@ -8929,6 +9898,42 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.982399,
                         44.440037
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Ez a családbarát látványosság Chiajna városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        25.973421,
+                        44.463904
+                  ]
+            },
+            {
+                  "name": "Divertiland",
+                  "text": "Ez a családbarát látványosság Chiajna városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        25.945052,
+                        44.432173
+                  ]
+            },
+            {
+                  "name": "Aqua Garden",
+                  "text": "Ez a családbarát látványosság Chiajna városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        25.985831,
+                        44.443498
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "Ez a Chiajna városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        25.987581,
+                        44.431493
                   ]
             }
       ],
@@ -9043,6 +10048,42 @@ export const poiExtraRoV1: POI[] = [
                         25.982399,
                         44.440037
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Această atracție de familie din Chiajna oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        25.973421,
+                        44.463904
+                  ]
+            },
+            {
+                  "name": "Divertiland",
+                  "text": "Această atracție de familie din Chiajna oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        25.945052,
+                        44.432173
+                  ]
+            },
+            {
+                  "name": "Aqua Garden",
+                  "text": "Această atracție de familie din Chiajna oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        25.985831,
+                        44.443498
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "Această unitate de înot din Chiajna oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        25.987581,
+                        44.431493
+                  ]
             }
       ],
       "en": [
@@ -9155,6 +10196,42 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.982399,
                         44.440037
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "This family-friendly attraction in Chiajna offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        25.973421,
+                        44.463904
+                  ]
+            },
+            {
+                  "name": "Divertiland",
+                  "text": "This family-friendly attraction in Chiajna offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        25.945052,
+                        44.432173
+                  ]
+            },
+            {
+                  "name": "Aqua Garden",
+                  "text": "This family-friendly attraction in Chiajna offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        25.985831,
+                        44.443498
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "This swimming facility in Chiajna offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        25.987581,
+                        44.431493
                   ]
             }
       ]
@@ -9468,7 +10545,776 @@ export const poiExtraRoV1: POI[] = [
   },
   {"id": "constanta", "type": "city", "parent": "RO-CT", "coords": [28.6507598, 44.1767161], "population": 263707, "name": {"de": "Constanța", "hu": "Konstanca", "ro": "Constanța", "en": "Constanța"}, "descriptionAdvanced": {"de": "Constanța, die größte Hafenstadt Rumäniens am Schwarzen Meer, blickt auf eine über 2.500-jährige Geschichte zurück. Ursprünglich als griechische Kolonie Tomis gegründet, ist sie heute die älteste kontinuierlich bewohnte Stadt des Landes. In der Antike war sie der Ort, an den der römische Dichter Ovid verbannt wurde. Das architektonische Wahrzeichen der Stadt ist das Casino von Constanța, ein prächtiges Jugendstilgebäude direkt an der Uferpromenade, das trotz seines Verfalls eine magische Anziehungskraft ausübt. Der Hafen von Constanța ist einer der größten am Schwarzen Meer und ein entscheidender Knotenpunkt für den Handel zwischen Europa und Asien. Neben der historischen Altstadt mit dem Ovid-Platz bietet die Stadt moderne touristische Infrastruktur, insbesondere im angrenzenden Badeort Mamaia. Das kulturelle Leben wird durch das Archäologische Museum, das Mosaikmuseum aus römischer Zeit und die Große Mahmoud-II.-Moschee bereichert, die die multikulturelle Tradition der Region widerspiegelt.", "hu": "Konstanca Románia legnagyobb kikötővárosa és az ország egyik legrégebbi települése, amely a Fekete-tenger partján fekszik. A várost milétoszi görög telepesek alapították Kr. e. 600 körül Tomis néven. A római korban vált jelentőssé, különösen miután Ovidius költőt ide száműzték, akinek szobra ma a város főterén áll. Konstanca ma a román tengerpart gazdasági és turisztikai központja. Legismertebb jelképe az 1910-ben felavatott szecessziós Kaszinó, amely a tengerparti sétányon magasodik. A város multikulturális jellegét bizonyítja, hogy az ortodox templomok mellett mecsetek és zsinagógák is találhatók itt, tükrözve a dobrudzsai török és tatár kisebbségek jelenlétét. A kikötő Európa egyik legnagyobbja, amely a Duna–Fekete-tenger-csatornán keresztül közvetlen kapcsolatban áll Közép-Európával. A város északi részén található Mamaia üdülőhely pedig a román Riviéra legnépszerűbb célpontja.", "ro": "Constanța, cel mai vechi oraș atestat de pe teritoriul României, este principalul port al țării la Marea Neagră și un centru economic strategic. Fondat sub numele de Tomis de către coloniștii greci în secolul al VI-lea î.Hr., orașul păstrează dovezi uimitoare ale trecutului său antic, inclusiv Edificiul Roman cu Mozaic. Un simbol incontestabil al orașului este Cazinoul, o bijuterie arhitecturală în stil Art Nouveau situată pe faleză, care a servit de-a lungul timpului ca loc de divertisment și spital de campanie. Constanța este un model de conviețuire multietnică, unde comunități de români, turci, tătari și greci au coexistat armonios timp de secole, fapt vizibil în arhitectura zonei vechi. Portul Constanța este al patrulea ca mărime din Europa, legând Marea Neagră de Marea Nordului prin canalul Dunăre-Marea Neagră. Pe lângă latura industrială, orașul este o poartă către stațiunile litoralului românesc, oferind plaje generoase, muzee de istorie remarcabile și o atmosferă maritimă inconfundabilă.", "en": "Constanța is Romania's largest port city and one of the oldest continuously inhabited settlements in the country, with a history stretching back over 2,500 years. Founded by Greek colonists from Miletus around 600 BC as Tomis, it later became a major Roman outpost where the famous poet Ovid spent his final years in exile. Today, Constanța is a vibrant mix of industrial powerhouse and coastal resort hub. The city's most famous landmark is the stunning Art Nouveau Casino, perched on a cliff overlooking the Black Sea. The historic center features the Ovid Square, the Great Mosque of Constanța, and the National History and Archaeology Museum, which houses unique artifacts like the Glykon Snake. As a major logistics hub, the Port of Constanța is essential for Black Sea maritime trade. Just north of the city lies Mamaia, the most famous resort in Romania, known for its sandy beaches and energetic nightlife, making the entire area a top destination for summer travelers."}, "factsAdvanced": {"de": ["Gegründet um 600 v. Chr. als Tomis", "Der Hafen ist der viertgrößte Europas (nach Frachtaufkommen)", "Das Casino wurde 1910 eröffnet", "Der römische Dichter Ovid starb hier im Jahr 17 n. Chr.", "Besitzt das größte erhaltene römische Mosaik der Region (850 m2)", "Die Mahmoud-Moschee hat ein 47 Meter hohes Minarett"], "hu": ["Kr. e. 600 körül alapították Tomis néven", "A konstancai kikötő területe meghaladja a 3900 hektárt", "A Kaszinót szecessziós stílusban tervezték a 20. század elején", "Ovidius itt írta a 'Tristia' (Kesergések) című művét", "A Nagy Mecsetet II. Károly román király építtette 1910-ben", "A város évi átlaghőmérséklete 11,5 Celsius-fok"], "ro": ["Cel mai vechi oraș din România, atestat în secolul VI î.Hr.", "Portul are o capacitate anuală de peste 100 milioane tone", "Cazinoul a fost proiectat de arhitectul Daniel Renard", "Statuia lui Ovidiu a fost realizată de Ettore Ferrari în 1887", "Farul Genovez a fost reconstruit între 1858 și 1860", "Orașul este capătul estic al magistralei feroviare 800"], "en": ["Founded by Greeks as Tomis, later renamed Constantiana", "The port handles 60% of Romania's international trade", "The Roman Mosaic building was built in the 4th century AD", "Mamaia resort is a district of Constanța city", "The city has a coastline of about 15 kilometers", "The Genoese Lighthouse is 8 meters tall"]}, "faq": {"de": [{"q": "Kann man das Casino von innen besichtigen?", "a": "Das Gebäude wird derzeit renoviert, ist aber von außen ein beeindruckendes Fotomotiv."}, {"q": "Wo sind die besten Strände?", "a": "Die Strände von Mamaia, direkt nördlich der Stadt, sind die bekanntesten."}, {"q": "Wer war Ovid?", "a": "Ein berühmter römischer Dichter, der vom Kaiser Augustus nach Tomis verbannt wurde."}, {"q": "Was bietet das Archäologische Museum?", "a": "Eine beeindruckende Sammlung griechischer und römischer Statuen und Artefakte."}], "hu": [{"q": "Melyik a város legfőbb tere?", "a": "Az Ovidius tér, ahol a költő szobra és a Történeti Múzeum áll."}, {"q": "Hogyan juthatunk el Bukarestből Konstancába?", "a": "Az autópályán (A2) vagy a modernizált vasúton kb. 2-2,5 óra az út."}, {"q": "Vannak-e muszlim emlékek a városban?", "a": "Igen, a Nagy Mecset látogatható, és csodás kilátás nyílik a tornyából."}, {"q": "Milyen a tenger vize?", "a": "A víz sekély a part mentén, ideális családok számára, a sótartalma mérsékelt."}], "ro": [{"q": "Ce pot vedea în Portul Tomis?", "a": "Este o zonă de promenadă cu restaurante pescărești și iahturi de agrement."}, {"q": "Unde se află Acvariul din Constanța?", "a": "Este situat chiar vizavi de Cazinou, pe faleză."}, {"q": "Când se desfășoară festivalul Neversea?", "a": "Festivalul are loc de obicei în luna iulie, pe plaja Modern."}, {"q": "Există transport public spre Mamaia?", "a": "Da, autobuzele supraetajate și liniile regulate fac legătura rapid."}], "en": [{"q": "Is Constanța open in winter?", "a": "Yes, although it is less crowded than in summer and some beach clubs are closed."}, {"q": "What is the Glykon Snake?", "a": "A unique 2nd-century AD Roman statue found in the city, representing a mythical deity."}, {"q": "Can I reach Constanța by boat?", "a": "Yes, through the Danube-Black Sea canal or via the commercial port."}, {"q": "Are there good seafood restaurants?", "a": "Yes, the Tomis Marina area is famous for fresh Black Sea fish dishes."}]},
   "tier": 1,
-    "sights": {"de": [{"name": "Carol-I.-Moschee", "text": "Die 1910 errichtete Moschee verfügt über ein 47 Meter hohes Minarett, das einen weiten Blick über den Hafen bietet.", "category": "religious", "confidence": "high", "coords": [28.659683, 44.173328]}, {"name": "Ovidiu-Platz", "text": "Der zentrale Platz der Altstadt beherbergt die Statue des römischen Dichters Ovid und ist von historischen Cafés umgeben.", "category": "civic", "confidence": "high", "coords": [28.65854, 44.174154]}, {"name": "Genuesischer Leuchtturm", "text": "Dieser 1860 errichtete Leuchtturm erinnert an die genuesischen Kaufleute, die einst den Handel im alten Hafen prägten.", "category": "historical", "confidence": "high", "coords": [28.664586, 44.171944]}, {"name": "Römisches Mosaik-Edikt", "text": "Ein archäologischer Komplex aus dem 4. Jahrhundert mit einem der größten und am besten erhaltenen römischen Mosaike Europas.", "category": "historical", "confidence": "high", "coords": [28.658408, 44.173138]}, {"name": "Kathedrale der Heiligen Petrus und Paulus", "text": "Eine prächtige orthodoxe Kathedrale im griechisch-römischen Stil, erbaut zwischen 1883 und 1885 nahe der Meeresküste.", "category": "religious", "confidence": "high", "coords": [28.660999, 44.171305]}, {"name": "Das Aquarium", "text": "Gegenüber dem Casino gelegen, zeigt es eine reiche Sammlung von Süß- und Salzwasserfischen aus dem Donaudelta und dem Schwarzen Meer.", "category": "museum", "confidence": "high", "coords": [28.66316, 44.17092]}, {"name": "Yachthafen Tomis", "text": "Ein moderner Freizeithafen voller Yachten, gesäumt von zahlreichen Restaurants und Cafés mit Blick auf das Schwarze Meer.", "category": "recreational", "confidence": "high", "coords": [28.657619, 44.17474]}, {"name": "Kunstmuseum Constanța", "text": "Beherbergt eine bedeutende Sammlung rumänischer Malerei und Bildhauerei vom 19. Jahrhundert bis zur Gegenwart.", "category": "museum", "confidence": "high", "coords": [28.651487, 44.179068]}, {"name": "Strand Modern", "text": "Als beliebtester Stadtstrand von Constanța besticht der Strand Modern durch feinen Sand und ein flach abfallendes Ufer. Das sichere Badevergnügen im flachen Wasser zieht besonders Familien mit Kindern an. Eine lebendige, gut besuchte Kulisse garantiert fröhliche Stunden unter der warmen Sonne. Wer der größten Mittagshitze entgehen möchte, plant seinen Besuch am besten für den Morgen.", "category": "natural", "confidence": "high", "coords": [28.656075, 44.180609]}, {"name": "Tăbăcărie-Park", "text": "Eine weitläufige Grünanlage um den gleichnamigen See, die einen kleinen Vergnügungspark und viele Wanderwege umfasst.", "category": "recreational", "confidence": "high", "coords": [28.635704, 44.210382]}, {"name": "Lacul Siutghiol", "text": "Ein großer Süßwassersee in Constanta, der schöne Ausblicke und eine friedliche Umgebung bietet.", "category": "natural", "coords": [28.596603, 44.248557]}, {"name": "Lacul Tăbăcăriei", "text": "Ein beliebter See in Constanta, umgeben von Parkanlagen, ideal für einen entspannten Spaziergang.", "category": "natural", "coords": [28.63672, 44.209922]}, {"name": "Phantasya", "text": "Ein moderner Spielplatz in Constanta, der Kindern einen sicheren und lustigen Ort zum Spielen bietet.", "category": "family", "coords": [28.636554, 44.185801]}, {"name": "Stop & Play Gamer Lounge", "text": "Eine Spielhalle in Constanta, die verschiedene Spielmöglichkeiten für Familien bietet.", "category": "family", "coords": [28.627609, 44.204278]}, {"name": "Game On", "text": "Eine zentrale Spielhalle in Constanta mit interaktiven Spielen und Unterhaltung für alle Altersgruppen.", "category": "family", "coords": [28.64186, 44.181852]}, {"name": "Țara piticilor", "text": "Ein charmanter Spielplatz in Constanta, konzipiert für jüngere Kinder und Aktivitäten im Freien.", "category": "family", "coords": [28.632354, 44.18016]}, {"name": "Happy Kid's Planet", "text": "Ein spezieller Spielbereich in Constanta, in dem Kinder verschiedenen spielerischen Aktivitäten nachgehen können.", "category": "family", "coords": [28.632214, 44.168533]}], "hu": [{"name": "I. Károly mecset", "text": "Az 1910-ben épült mecset 47 méter magas minaretjéből lenyűgöző panoráma nyílik a kikötőre és az óvárosra.", "category": "religious", "confidence": "high", "coords": [28.659683, 44.173328]}, {"name": "Ovidius tér", "text": "Az óváros szíve, ahol a római költő szobra áll, a teret történelmi épületek és hangulatos kávézók veszik körül.", "category": "civic", "confidence": "high", "coords": [28.65854, 44.174154]}, {"name": "Genoai világítótorony", "text": "Az 1860 körül épült világítótorony a középkori genovai hajósok emlékét őrzi, akik fontos szerepet játszottak a kereskedelemben.", "category": "historical", "confidence": "high", "coords": [28.664586, 44.171944]}, {"name": "Római mozaikos építmény", "text": "4. századi régészeti komplexum, amely Európa egyik legnagyobb és legjobb állapotban fennmaradt római mozaikpadlóját mutatja be.", "category": "historical", "confidence": "high", "coords": [28.658408, 44.173138]}, {"name": "Szent Péter és Pál Székesegyház", "text": "Görög-római stílusú ortodox katedrális 1883-ból, amely monumentális freskóiról és a tengerpart közelségéről híres.", "category": "religious", "confidence": "high", "coords": [28.660999, 44.171305]}, {"name": "Konstancai Akvárium", "text": "A Kaszinóval szemben található intézmény, amely a Duna-delta és a Fekete-tenger változatos halállományát mutatja be.", "category": "museum", "confidence": "high", "coords": [28.66316, 44.17092]}, {"name": "Tomis turisztikai kikötő", "text": "Modern jachtkikötő, ahol számos elegáns étterem és kávézó kínál kilátást a tengerre és a kikötött hajókra.", "category": "recreational", "confidence": "high", "coords": [28.657619, 44.17474]}, {"name": "Konstancai Művészeti Múzeum", "text": "A román festészet és szobrászat egyik legfontosabb gyűjteménye, a 19. századtól napjainkig terjedő alkotásokkal.", "category": "museum", "confidence": "high", "coords": [28.651487, 44.179068]}, {"name": "Modern strand", "text": "Konstanca legnépszerűbb városi strandjaként a Strand Modern finom homokkal és sekélyen mélyülő parttal varázsolja el a látogatókat. A sekély vízben való biztonságos fürdőzés különösen a gyermekes családokat vonzza. A nyüzsgő, jól látogatott környezet vidám órákat garantál a meleg nap alatt. Aki szeretné elkerülni a legnagyobb déli hőséget, a legjobb, ha reggelre tervezi a látogatást.", "category": "natural", "confidence": "high", "coords": [28.656075, 44.180609]}, {"name": "Tăbăcărie park", "text": "Hatalmas zöldterület a Tăbăcărie-tó körül, vidámparkkal, sétányokkal és gazdag madárvilággal.", "category": "recreational", "confidence": "high", "coords": [28.635704, 44.210382]}, {"name": "Lacul Siutghiol", "text": "Egy nagy édesvizű tó Konstancában, amely szép kilátást és nyugodt környezetet kínál.", "category": "natural", "coords": [28.596603, 44.248557]}, {"name": "Lacul Tăbăcăriei", "text": "Népszerű tó Konstancában, parkokkal körülvéve, amely tökéletes egy pihentető sétához.", "category": "natural", "coords": [28.63672, 44.209922]}, {"name": "Phantasya", "text": "Modern játszótér Konstancában, amely vidám és biztonságos helyet kínál a gyerekeknek a játékhoz.", "category": "family", "coords": [28.636554, 44.185801]}, {"name": "Stop & Play Gamer Lounge", "text": "Szórakoztató központ Konstancában, amely különféle játéklehetőségeket kínál családoknak.", "category": "family", "coords": [28.627609, 44.204278]}, {"name": "Game On", "text": "Központi játékterem Konstancában interaktív játékokkal és szórakozással minden korosztály számára.", "category": "family", "coords": [28.64186, 44.181852]}, {"name": "Țara piticilor", "text": "Hangulatos játszótér Konstancában, amelyet kisgyermekek számára terveztek szabadtéri játékhoz.", "category": "family", "coords": [28.632354, 44.18016]}, {"name": "Happy Kid's Planet", "text": "Egy speciális játszóhely Konstancában, ahol a gyerekek különféle szórakoztató tevékenységekben vehetnek részt.", "category": "family", "coords": [28.632214, 44.168533]}], "ro": [{"name": "Marea Moschee Carol I", "text": "Construită în 1910, moscheea are un minaret înalt de 47 de metri care oferă o panoramă superbă asupra portului și orașului.", "category": "religious", "confidence": "high", "coords": [28.659683, 44.173328]}, {"name": "Piața Ovidiu", "text": "Inima orașului vechi, această piață istorică găzduiește statuia poetului Ovidius și numeroase clădiri cu arhitectură deosebită.", "category": "civic", "confidence": "high", "coords": [28.65854, 44.174154]}, {"name": "Farul Genovez", "text": "Un far istoric construit în jurul anului 1860 în memoria marinarilor genovezi care făceau comerț în vechiul port Tomis.", "category": "historical", "confidence": "high", "coords": [28.664586, 44.171944]}, {"name": "Edificiul Roman cu Mozaic", "text": "Un complex arheologic vast din secolul IV ce cuprinde unul dintre cele mai mari și bine conservate mozaicuri romane din Europa.", "category": "historical", "confidence": "high", "coords": [28.658408, 44.173138]}, {"name": "Catedrala Sf. Apostoli Petru și Pavel", "text": "Catedrală ortodoxă monumentală în stil greco-roman, situată în zona peninsulară, remarcabilă prin pictura interioară și arhitectură.", "category": "religious", "confidence": "high", "coords": [28.660999, 44.171305]}, {"name": "Acvariul Constanța", "text": "Inaugurat în 1958 vizavi de Cazino, găzduiește o colecție impresionantă de pești din Marea Neagră și Delta Dunării.", "category": "museum", "confidence": "high", "coords": [28.66316, 44.17092]}, {"name": "Portul Turistic Tomis", "text": "Loc de promenadă popular cu yahturi, restaurante pescărești și terase ce oferă o priveliște superbă asupra mării.", "category": "recreational", "confidence": "high", "coords": [28.657619, 44.17474]}, {"name": "Muzeul de Artă Constanța", "text": "Deține una dintre cele mai importante colecții de pictură și sculptură românească modernă din afara Bucureștiului.", "category": "museum", "confidence": "high", "coords": [28.651487, 44.179068]}, {"name": "Plaja Modern", "text": "Fiind cea mai populară plajă urbană din Constanța, Strand Modern impresionează prin nisipul fin și un țărm care coboară lin. Plăcerea bălăcelii în siguranță, în ape puțin adânci, atrage în special familiile cu copii. Un decor plin de viață și bine frecventat garantează ore vesele sub soarele cald. Cine dorește să evite canicula de la prânz ar trebui să își planifice vizita dimineața.", "category": "natural", "confidence": "high", "coords": [28.656075, 44.180609]}, {"name": "Parcul Tăbăcăriei", "text": "Zonă verde vastă ce înconjoară lacul Tăbăcărie, fiind locul preferat pentru relaxare, sport și plimbări cu barca.", "category": "recreational", "confidence": "high", "coords": [28.635704, 44.210382]}, {"name": "Lacul Siutghiol", "text": "Un lac mare de apă dulce în Constanța, oferind priveliști frumoase și un mediu liniștit.", "category": "natural", "coords": [28.596603, 44.248557]}, {"name": "Lacul Tăbăcăriei", "text": "Un lac popular în Constanța, înconjurat de zone de parc, perfect pentru o plimbare relaxantă.", "category": "natural", "coords": [28.63672, 44.209922]}, {"name": "Phantasya", "text": "Un loc de joacă modern în Constanța, oferind un spațiu distractiv și sigur pentru copii.", "category": "family", "coords": [28.636554, 44.185801]}, {"name": "Stop & Play Gamer Lounge", "text": "O sală de jocuri în Constanța care oferă diverse opțiuni de divertisment pentru familii.", "category": "family", "coords": [28.627609, 44.204278]}, {"name": "Game On", "text": "O sală de jocuri centrală în Constanța, cu jocuri interactive și divertisment pentru toate vârstele.", "category": "family", "coords": [28.64186, 44.181852]}, {"name": "Țara piticilor", "text": "Un loc de joacă fermecător în Constanța, conceput pentru copiii mici pentru a se bucura de activități în aer liber.", "category": "family", "coords": [28.632354, 44.18016]}, {"name": "Happy Kid's Planet", "text": "O zonă de joacă dedicată în Constanța, unde copiii se pot implica în diverse activități distractive.", "category": "family", "coords": [28.632214, 44.168533]}], "en": [{"name": "Carol I Mosque", "text": "Built in 1910, this mosque features a 47-meter high minaret offering a stunning panoramic view over the harbor and old town.", "category": "religious", "confidence": "high", "coords": [28.659683, 44.173328]}, {"name": "Ovidiu Square", "text": "The heart of the old city, this historic square features the statue of the Roman poet Ovid and many charming cafes around it.", "category": "civic", "confidence": "high", "coords": [28.65854, 44.174154]}, {"name": "Genoese Lighthouse", "text": "A historic lighthouse built around 1860 by a British company to honor the medieval Genoese sailors of Tomis port.", "category": "historical", "confidence": "high", "coords": [28.664586, 44.171944]}, {"name": "Roman Edifice with Mosaic", "text": "A vast archaeological complex from the 4th century featuring one of the largest and best-preserved Roman mosaics in Europe.", "category": "historical", "confidence": "high", "coords": [28.658408, 44.173138]}, {"name": "Saints Peter and Paul Cathedral", "text": "A monumental Orthodox cathedral in Greco-Roman style, built near the sea between 1883 and 1885, known for its murals.", "category": "religious", "confidence": "high", "coords": [28.660999, 44.171305]}, {"name": "Constanța Aquarium", "text": "Located right across from the Casino, it features a diverse collection of fish from the Danube Delta and the Black Sea.", "category": "museum", "confidence": "high", "coords": [28.66316, 44.17092]}, {"name": "Tomis Marina", "text": "A modern leisure port filled with yachts, lined with numerous restaurants and cafes overlooking the sea.", "category": "recreational", "confidence": "high", "coords": [28.657619, 44.17474]}, {"name": "Constanța Art Museum", "text": "Houses a significant collection of Romanian painting and sculpture from the 19th century to the present day.", "category": "museum", "confidence": "high", "coords": [28.651487, 44.179068]}, {"name": "Modern Beach", "text": "As the most popular city beach in Constanța, Strand Modern impresses with its fine sand and gently sloping shore. Safe bathing enjoyment in the shallow water especially attracts families with children. A lively, well-attended setting guarantees cheerful hours under the warm sun. Those wishing to avoid the peak midday heat should best plan their visit for the morning.", "category": "natural", "confidence": "high", "coords": [28.656075, 44.180609]}, {"name": "Tăbăcărie Park", "text": "A large green area surrounding the Tăbăcărie Lake, featuring an amusement park, walkways, and a rich bird population.", "category": "recreational", "confidence": "high", "coords": [28.635704, 44.210382]}, {"name": "Lake Siutghiol", "text": "A large freshwater lake in Constanta, offering beautiful views and a peaceful environment.", "category": "natural", "coords": [28.596603, 44.248557]}, {"name": "Tăbăcăriei Lake", "text": "A popular lake in Constanta surrounded by park areas, perfect for a relaxing stroll.", "category": "natural", "coords": [28.63672, 44.209922]}, {"name": "Phantasya", "text": "A modern playground in Constanta providing a fun and safe space for children to play.", "category": "family", "coords": [28.636554, 44.185801]}, {"name": "Stop & Play Gamer Lounge", "text": "An amusement arcade in Constanta offering various gaming options for families.", "category": "family", "coords": [28.627609, 44.204278]}, {"name": "Game On", "text": "A central arcade in Constanta featuring interactive games and entertainment for all ages.", "category": "family", "coords": [28.64186, 44.181852]}, {"name": "Țara piticilor", "text": "A charming playground in Constanta designed for younger children to enjoy outdoor activities.", "category": "family", "coords": [28.632354, 44.18016]}, {"name": "Happy Kid's Planet", "text": "A dedicated play area in Constanta where children can engage in various fun activities.", "category": "family", "coords": [28.632214, 44.168533]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Carol-I.-Moschee",
+                  "text": "Die 1910 errichtete Moschee verfügt über ein 47 Meter hohes Minarett, das einen weiten Blick über den Hafen bietet.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.659683,
+                        44.173328
+                  ]
+            },
+            {
+                  "name": "Ovidiu-Platz",
+                  "text": "Der zentrale Platz der Altstadt beherbergt die Statue des römischen Dichters Ovid und ist von historischen Cafés umgeben.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.65854,
+                        44.174154
+                  ]
+            },
+            {
+                  "name": "Genuesischer Leuchtturm",
+                  "text": "Dieser 1860 errichtete Leuchtturm erinnert an die genuesischen Kaufleute, die einst den Handel im alten Hafen prägten.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        28.664586,
+                        44.171944
+                  ]
+            },
+            {
+                  "name": "Römisches Mosaik-Edikt",
+                  "text": "Ein archäologischer Komplex aus dem 4. Jahrhundert mit einem der größten und am besten erhaltenen römischen Mosaike Europas.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        28.658408,
+                        44.173138
+                  ]
+            },
+            {
+                  "name": "Kathedrale der Heiligen Petrus und Paulus",
+                  "text": "Eine prächtige orthodoxe Kathedrale im griechisch-römischen Stil, erbaut zwischen 1883 und 1885 nahe der Meeresküste.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.660999,
+                        44.171305
+                  ]
+            },
+            {
+                  "name": "Das Aquarium",
+                  "text": "Gegenüber dem Casino gelegen, zeigt es eine reiche Sammlung von Süß- und Salzwasserfischen aus dem Donaudelta und dem Schwarzen Meer.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.66316,
+                        44.17092
+                  ]
+            },
+            {
+                  "name": "Yachthafen Tomis",
+                  "text": "Ein moderner Freizeithafen voller Yachten, gesäumt von zahlreichen Restaurants und Cafés mit Blick auf das Schwarze Meer.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.657619,
+                        44.17474
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum Constanța",
+                  "text": "Beherbergt eine bedeutende Sammlung rumänischer Malerei und Bildhauerei vom 19. Jahrhundert bis zur Gegenwart.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.651487,
+                        44.179068
+                  ]
+            },
+            {
+                  "name": "Strand Modern",
+                  "text": "Als beliebtester Stadtstrand von Constanța besticht der Strand Modern durch feinen Sand und ein flach abfallendes Ufer. Das sichere Badevergnügen im flachen Wasser zieht besonders Familien mit Kindern an. Eine lebendige, gut besuchte Kulisse garantiert fröhliche Stunden unter der warmen Sonne. Wer der größten Mittagshitze entgehen möchte, plant seinen Besuch am besten für den Morgen.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.656075,
+                        44.180609
+                  ]
+            },
+            {
+                  "name": "Tăbăcărie-Park",
+                  "text": "Eine weitläufige Grünanlage um den gleichnamigen See, die einen kleinen Vergnügungspark und viele Wanderwege umfasst.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.635704,
+                        44.210382
+                  ]
+            },
+            {
+                  "name": "Lacul Siutghiol",
+                  "text": "Ein großer Süßwassersee in Constanta, der schöne Ausblicke und eine friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.596603,
+                        44.248557
+                  ]
+            },
+            {
+                  "name": "Lacul Tăbăcăriei",
+                  "text": "Ein beliebter See in Constanta, umgeben von Parkanlagen, ideal für einen entspannten Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        28.63672,
+                        44.209922
+                  ]
+            },
+            {
+                  "name": "Phantasya",
+                  "text": "Ein moderner Spielplatz in Constanta, der Kindern einen sicheren und lustigen Ort zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        28.636554,
+                        44.185801
+                  ]
+            },
+            {
+                  "name": "Stop & Play Gamer Lounge",
+                  "text": "Eine Spielhalle in Constanta, die verschiedene Spielmöglichkeiten für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        28.627609,
+                        44.204278
+                  ]
+            },
+            {
+                  "name": "Game On",
+                  "text": "Eine zentrale Spielhalle in Constanta mit interaktiven Spielen und Unterhaltung für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        28.64186,
+                        44.181852
+                  ]
+            },
+            {
+                  "name": "Țara piticilor",
+                  "text": "Ein charmanter Spielplatz in Constanta, konzipiert für jüngere Kinder und Aktivitäten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        28.632354,
+                        44.18016
+                  ]
+            },
+            {
+                  "name": "Happy Kid's Planet",
+                  "text": "Ein spezieller Spielbereich in Constanta, in dem Kinder verschiedenen spielerischen Aktivitäten nachgehen können.",
+                  "category": "family",
+                  "coords": [
+                        28.632214,
+                        44.168533
+                  ]
+            },
+            {
+                  "name": "Luna Parc",
+                  "text": "Luna Parc in Constanta ist ein Themenpark mit Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        28.632692,
+                        44.217836
+                  ]
+            },
+            {
+                  "name": "Școala de înot Gheorghe Oancea",
+                  "text": "Diese Schwimmschule in Constanta bietet Becken für Unterricht und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        28.635863,
+                        44.203219
+                  ]
+            },
+            {
+                  "name": "Microrezervație",
+                  "text": "Die Microrezervație in Constanta ist ein kleiner Zoo für Familienbesuche.",
+                  "category": "family",
+                  "coords": [
+                        28.640329,
+                        44.20448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "I. Károly mecset",
+                  "text": "Az 1910-ben épült mecset 47 méter magas minaretjéből lenyűgöző panoráma nyílik a kikötőre és az óvárosra.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.659683,
+                        44.173328
+                  ]
+            },
+            {
+                  "name": "Ovidius tér",
+                  "text": "Az óváros szíve, ahol a római költő szobra áll, a teret történelmi épületek és hangulatos kávézók veszik körül.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.65854,
+                        44.174154
+                  ]
+            },
+            {
+                  "name": "Genoai világítótorony",
+                  "text": "Az 1860 körül épült világítótorony a középkori genovai hajósok emlékét őrzi, akik fontos szerepet játszottak a kereskedelemben.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        28.664586,
+                        44.171944
+                  ]
+            },
+            {
+                  "name": "Római mozaikos építmény",
+                  "text": "4. századi régészeti komplexum, amely Európa egyik legnagyobb és legjobb állapotban fennmaradt római mozaikpadlóját mutatja be.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        28.658408,
+                        44.173138
+                  ]
+            },
+            {
+                  "name": "Szent Péter és Pál Székesegyház",
+                  "text": "Görög-római stílusú ortodox katedrális 1883-ból, amely monumentális freskóiról és a tengerpart közelségéről híres.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.660999,
+                        44.171305
+                  ]
+            },
+            {
+                  "name": "Konstancai Akvárium",
+                  "text": "A Kaszinóval szemben található intézmény, amely a Duna-delta és a Fekete-tenger változatos halállományát mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.66316,
+                        44.17092
+                  ]
+            },
+            {
+                  "name": "Tomis turisztikai kikötő",
+                  "text": "Modern jachtkikötő, ahol számos elegáns étterem és kávézó kínál kilátást a tengerre és a kikötött hajókra.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.657619,
+                        44.17474
+                  ]
+            },
+            {
+                  "name": "Konstancai Művészeti Múzeum",
+                  "text": "A román festészet és szobrászat egyik legfontosabb gyűjteménye, a 19. századtól napjainkig terjedő alkotásokkal.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.651487,
+                        44.179068
+                  ]
+            },
+            {
+                  "name": "Modern strand",
+                  "text": "Konstanca legnépszerűbb városi strandjaként a Strand Modern finom homokkal és sekélyen mélyülő parttal varázsolja el a látogatókat. A sekély vízben való biztonságos fürdőzés különösen a gyermekes családokat vonzza. A nyüzsgő, jól látogatott környezet vidám órákat garantál a meleg nap alatt. Aki szeretné elkerülni a legnagyobb déli hőséget, a legjobb, ha reggelre tervezi a látogatást.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.656075,
+                        44.180609
+                  ]
+            },
+            {
+                  "name": "Tăbăcărie park",
+                  "text": "Hatalmas zöldterület a Tăbăcărie-tó körül, vidámparkkal, sétányokkal és gazdag madárvilággal.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.635704,
+                        44.210382
+                  ]
+            },
+            {
+                  "name": "Lacul Siutghiol",
+                  "text": "Egy nagy édesvizű tó Konstancában, amely szép kilátást és nyugodt környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        28.596603,
+                        44.248557
+                  ]
+            },
+            {
+                  "name": "Lacul Tăbăcăriei",
+                  "text": "Népszerű tó Konstancában, parkokkal körülvéve, amely tökéletes egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.63672,
+                        44.209922
+                  ]
+            },
+            {
+                  "name": "Phantasya",
+                  "text": "Modern játszótér Konstancában, amely vidám és biztonságos helyet kínál a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        28.636554,
+                        44.185801
+                  ]
+            },
+            {
+                  "name": "Stop & Play Gamer Lounge",
+                  "text": "Szórakoztató központ Konstancában, amely különféle játéklehetőségeket kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        28.627609,
+                        44.204278
+                  ]
+            },
+            {
+                  "name": "Game On",
+                  "text": "Központi játékterem Konstancában interaktív játékokkal és szórakozással minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        28.64186,
+                        44.181852
+                  ]
+            },
+            {
+                  "name": "Țara piticilor",
+                  "text": "Hangulatos játszótér Konstancában, amelyet kisgyermekek számára terveztek szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        28.632354,
+                        44.18016
+                  ]
+            },
+            {
+                  "name": "Happy Kid's Planet",
+                  "text": "Egy speciális játszóhely Konstancában, ahol a gyerekek különféle szórakoztató tevékenységekben vehetnek részt.",
+                  "category": "family",
+                  "coords": [
+                        28.632214,
+                        44.168533
+                  ]
+            },
+            {
+                  "name": "Luna Parc",
+                  "text": "A konstancai Luna Parc egy vidámpark látnivalókkal a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        28.632692,
+                        44.217836
+                  ]
+            },
+            {
+                  "name": "Școala de înot Gheorghe Oancea",
+                  "text": "Ez a konstancai úszóiskola medencéket kínál az oktatáshoz és a szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        28.635863,
+                        44.203219
+                  ]
+            },
+            {
+                  "name": "Microrezervație",
+                  "text": "A konstancai Microrezervație egy kis állatkert családi látogatásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        28.640329,
+                        44.20448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marea Moschee Carol I",
+                  "text": "Construită în 1910, moscheea are un minaret înalt de 47 de metri care oferă o panoramă superbă asupra portului și orașului.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.659683,
+                        44.173328
+                  ]
+            },
+            {
+                  "name": "Piața Ovidiu",
+                  "text": "Inima orașului vechi, această piață istorică găzduiește statuia poetului Ovidius și numeroase clădiri cu arhitectură deosebită.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.65854,
+                        44.174154
+                  ]
+            },
+            {
+                  "name": "Farul Genovez",
+                  "text": "Un far istoric construit în jurul anului 1860 în memoria marinarilor genovezi care făceau comerț în vechiul port Tomis.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        28.664586,
+                        44.171944
+                  ]
+            },
+            {
+                  "name": "Edificiul Roman cu Mozaic",
+                  "text": "Un complex arheologic vast din secolul IV ce cuprinde unul dintre cele mai mari și bine conservate mozaicuri romane din Europa.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        28.658408,
+                        44.173138
+                  ]
+            },
+            {
+                  "name": "Catedrala Sf. Apostoli Petru și Pavel",
+                  "text": "Catedrală ortodoxă monumentală în stil greco-roman, situată în zona peninsulară, remarcabilă prin pictura interioară și arhitectură.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.660999,
+                        44.171305
+                  ]
+            },
+            {
+                  "name": "Acvariul Constanța",
+                  "text": "Inaugurat în 1958 vizavi de Cazino, găzduiește o colecție impresionantă de pești din Marea Neagră și Delta Dunării.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.66316,
+                        44.17092
+                  ]
+            },
+            {
+                  "name": "Portul Turistic Tomis",
+                  "text": "Loc de promenadă popular cu yahturi, restaurante pescărești și terase ce oferă o priveliște superbă asupra mării.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.657619,
+                        44.17474
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Constanța",
+                  "text": "Deține una dintre cele mai importante colecții de pictură și sculptură românească modernă din afara Bucureștiului.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.651487,
+                        44.179068
+                  ]
+            },
+            {
+                  "name": "Plaja Modern",
+                  "text": "Fiind cea mai populară plajă urbană din Constanța, Strand Modern impresionează prin nisipul fin și un țărm care coboară lin. Plăcerea bălăcelii în siguranță, în ape puțin adânci, atrage în special familiile cu copii. Un decor plin de viață și bine frecventat garantează ore vesele sub soarele cald. Cine dorește să evite canicula de la prânz ar trebui să își planifice vizita dimineața.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.656075,
+                        44.180609
+                  ]
+            },
+            {
+                  "name": "Parcul Tăbăcăriei",
+                  "text": "Zonă verde vastă ce înconjoară lacul Tăbăcărie, fiind locul preferat pentru relaxare, sport și plimbări cu barca.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.635704,
+                        44.210382
+                  ]
+            },
+            {
+                  "name": "Lacul Siutghiol",
+                  "text": "Un lac mare de apă dulce în Constanța, oferind priveliști frumoase și un mediu liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        28.596603,
+                        44.248557
+                  ]
+            },
+            {
+                  "name": "Lacul Tăbăcăriei",
+                  "text": "Un lac popular în Constanța, înconjurat de zone de parc, perfect pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        28.63672,
+                        44.209922
+                  ]
+            },
+            {
+                  "name": "Phantasya",
+                  "text": "Un loc de joacă modern în Constanța, oferind un spațiu distractiv și sigur pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        28.636554,
+                        44.185801
+                  ]
+            },
+            {
+                  "name": "Stop & Play Gamer Lounge",
+                  "text": "O sală de jocuri în Constanța care oferă diverse opțiuni de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        28.627609,
+                        44.204278
+                  ]
+            },
+            {
+                  "name": "Game On",
+                  "text": "O sală de jocuri centrală în Constanța, cu jocuri interactive și divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        28.64186,
+                        44.181852
+                  ]
+            },
+            {
+                  "name": "Țara piticilor",
+                  "text": "Un loc de joacă fermecător în Constanța, conceput pentru copiii mici pentru a se bucura de activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        28.632354,
+                        44.18016
+                  ]
+            },
+            {
+                  "name": "Happy Kid's Planet",
+                  "text": "O zonă de joacă dedicată în Constanța, unde copiii se pot implica în diverse activități distractive.",
+                  "category": "family",
+                  "coords": [
+                        28.632214,
+                        44.168533
+                  ]
+            },
+            {
+                  "name": "Luna Parc",
+                  "text": "Luna Parc din Constanța este un parc tematic cu atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        28.632692,
+                        44.217836
+                  ]
+            },
+            {
+                  "name": "Școala de înot Gheorghe Oancea",
+                  "text": "Această școală de înot din Constanța oferă bazine pentru cursuri și recreere.",
+                  "category": "family",
+                  "coords": [
+                        28.635863,
+                        44.203219
+                  ]
+            },
+            {
+                  "name": "Microrezervație",
+                  "text": "Microrezervația din Constanța este o mică grădină zoologică pentru vizite în familie.",
+                  "category": "family",
+                  "coords": [
+                        28.640329,
+                        44.20448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carol I Mosque",
+                  "text": "Built in 1910, this mosque features a 47-meter high minaret offering a stunning panoramic view over the harbor and old town.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.659683,
+                        44.173328
+                  ]
+            },
+            {
+                  "name": "Ovidiu Square",
+                  "text": "The heart of the old city, this historic square features the statue of the Roman poet Ovid and many charming cafes around it.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.65854,
+                        44.174154
+                  ]
+            },
+            {
+                  "name": "Genoese Lighthouse",
+                  "text": "A historic lighthouse built around 1860 by a British company to honor the medieval Genoese sailors of Tomis port.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        28.664586,
+                        44.171944
+                  ]
+            },
+            {
+                  "name": "Roman Edifice with Mosaic",
+                  "text": "A vast archaeological complex from the 4th century featuring one of the largest and best-preserved Roman mosaics in Europe.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        28.658408,
+                        44.173138
+                  ]
+            },
+            {
+                  "name": "Saints Peter and Paul Cathedral",
+                  "text": "A monumental Orthodox cathedral in Greco-Roman style, built near the sea between 1883 and 1885, known for its murals.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        28.660999,
+                        44.171305
+                  ]
+            },
+            {
+                  "name": "Constanța Aquarium",
+                  "text": "Located right across from the Casino, it features a diverse collection of fish from the Danube Delta and the Black Sea.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.66316,
+                        44.17092
+                  ]
+            },
+            {
+                  "name": "Tomis Marina",
+                  "text": "A modern leisure port filled with yachts, lined with numerous restaurants and cafes overlooking the sea.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.657619,
+                        44.17474
+                  ]
+            },
+            {
+                  "name": "Constanța Art Museum",
+                  "text": "Houses a significant collection of Romanian painting and sculpture from the 19th century to the present day.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        28.651487,
+                        44.179068
+                  ]
+            },
+            {
+                  "name": "Modern Beach",
+                  "text": "As the most popular city beach in Constanța, Strand Modern impresses with its fine sand and gently sloping shore. Safe bathing enjoyment in the shallow water especially attracts families with children. A lively, well-attended setting guarantees cheerful hours under the warm sun. Those wishing to avoid the peak midday heat should best plan their visit for the morning.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.656075,
+                        44.180609
+                  ]
+            },
+            {
+                  "name": "Tăbăcărie Park",
+                  "text": "A large green area surrounding the Tăbăcărie Lake, featuring an amusement park, walkways, and a rich bird population.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.635704,
+                        44.210382
+                  ]
+            },
+            {
+                  "name": "Lake Siutghiol",
+                  "text": "A large freshwater lake in Constanta, offering beautiful views and a peaceful environment.",
+                  "category": "natural",
+                  "coords": [
+                        28.596603,
+                        44.248557
+                  ]
+            },
+            {
+                  "name": "Tăbăcăriei Lake",
+                  "text": "A popular lake in Constanta surrounded by park areas, perfect for a relaxing stroll.",
+                  "category": "natural",
+                  "coords": [
+                        28.63672,
+                        44.209922
+                  ]
+            },
+            {
+                  "name": "Phantasya",
+                  "text": "A modern playground in Constanta providing a fun and safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        28.636554,
+                        44.185801
+                  ]
+            },
+            {
+                  "name": "Stop & Play Gamer Lounge",
+                  "text": "An amusement arcade in Constanta offering various gaming options for families.",
+                  "category": "family",
+                  "coords": [
+                        28.627609,
+                        44.204278
+                  ]
+            },
+            {
+                  "name": "Game On",
+                  "text": "A central arcade in Constanta featuring interactive games and entertainment for all ages.",
+                  "category": "family",
+                  "coords": [
+                        28.64186,
+                        44.181852
+                  ]
+            },
+            {
+                  "name": "Țara piticilor",
+                  "text": "A charming playground in Constanta designed for younger children to enjoy outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        28.632354,
+                        44.18016
+                  ]
+            },
+            {
+                  "name": "Happy Kid's Planet",
+                  "text": "A dedicated play area in Constanta where children can engage in various fun activities.",
+                  "category": "family",
+                  "coords": [
+                        28.632214,
+                        44.168533
+                  ]
+            },
+            {
+                  "name": "Luna Parc",
+                  "text": "Luna Parc in Constanta is a theme park with attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        28.632692,
+                        44.217836
+                  ]
+            },
+            {
+                  "name": "Școala de înot Gheorghe Oancea",
+                  "text": "This swimming school in Constanta offers pools for lessons and leisure.",
+                  "category": "family",
+                  "coords": [
+                        28.635863,
+                        44.203219
+                  ]
+            },
+            {
+                  "name": "Microrezervație",
+                  "text": "Microrezervație in Constanta is a small zoo for family visits.",
+                  "category": "family",
+                  "coords": [
+                        28.640329,
+                        44.20448
+                  ]
+            }
+      ]
+}
   },
   {"id": "corund", "type": "city", "parent": "RO-HR", "coords": [25.183333333, 46.466666666], "population": 5549, "name": {"de": "Corund", "hu": "Korond", "ro": "Corund", "en": "Corund"}, "descriptionAdvanced": {"de": "Corund ist eines der berühmtesten Handwerkszentren in Siebenbürgen, gelegen im Kreis Harghita an der Grenze zwischen dem Ciuc-Becken und dem Transsilvanischen Becken. Das Dorf ist weltweit bekannt für seine einzigartige Keramiktradition, die von Generation zu Generation weitergegeben wurde. Die charakteristische Corund-Keramik, oft mit floralen Motiven in Blau, Grün oder Braun auf weißem Hintergrund, ist zu einem Symbol des Szekler-Kunsthandwerks geworden. Geografisch liegt Corund in einer geologisch faszinierenden Zone, die reich an Mineralquellen und Aragonit-Vorkommen ist; das örtliche Aragonit-Museum ist das einzige seiner Art in Rumänien. Die Geschichte des Ortes ist geprägt von der Anpassungsfähigkeit der Bewohner, die neben der Töpferei auch den Handel mit Zunderschwämmen und die Salzgewinnung perfektionierten. Die Hauptstraße des Dorfes gleicht einem riesigen Open-Air-Markt, auf dem Handwerker ihre Waren stolz präsentieren. Trotz des modernen Massentourismus hat Corund seinen authentischen Szekler-Charakter bewahrt, der sich in der Sprache, den Trachten und dem starken Gemeinschaftsgefühl widerspiegelt. Die Umgebung bietet zudem wunderschöne Wanderwege durch das Salzland-Plateau, wo seltene Pflanzenarten und bizarre Salzformationen zu entdecken sind.", "hu": "Korond (Corund) Hargita megye és egész Erdély egyik leglátogatottabb és leghíresebb települése, a székely fazekasság világhírű központja. A falu neve egyet jelent a népművészettel; az itt készített kerámiák – jellegzetes madaras és virágos motívumaikkal – ma már a Kárpát-medence minden pontján ismertek. Korond fejlődése a bőséges agyagkészletnek és a lakók kereskedelmi vénájának köszönhető, akik szekereikkel messzi földre is eljuttatták portékáikat. A település földrajzilag a Sóvidék peremén fekszik, és geológiai ritkaságokban is bővelkedik: itt található Európa egyik legjelentősebb aragonit-lelőhelye, amelyre egy különleges múzeum is épült. A falukép meghatározó eleme a „bazársor”, ahol a fazekasok, fafaragók és taplóművészek kínálják portékáikat az átutazóknak. A korondiak híresek találékonyságukról, hiszen a fazekasság mellett a taplómegmunkálás (un. taplófeldolgozás) egyedülálló mesterségét is ők őrizték meg a legmagasabb szinten. A község kulturális élete vibráló, a helyi rendezvények, mint a Korondi Fazekasvásár, tömegeket vonzanak. Korond nemcsak egy falu, hanem egy élő skanzen, ahol a hagyományos mesterségek nem múzeumi tárgyak, hanem a családok megélhetésének alapjai a mai napig.", "ro": "Corund este una dintre cele mai renumite așezări din județul Harghita și un reper obligatoriu pe harta turistică a Transilvaniei, fiind considerat cel mai important centru de olărit din Europa de Est. Localitatea, situată în Depresiunea Praid-Corund, a devenit faimoasă datorită ceramicii sale distinctive, pictată manual cu motive florale și avimorfe în culori precum albastru, verde sau brun, o tradiție transmisă din tată în fiu de secole. Pe lângă olărit, Corundul este cunoscut pentru prelucrarea artistică a iascăi (ciuperca de fag), un meșteșug rar care transformă resursele pădurii în obiecte decorative de o finețe rară. Geologic, zona este de o bogăție extraordinară, adăpostind singurul muzeu al aragonitului din România, ridicat pe locul unei vechi mine de exploatare a acestei pietre semiprețioase unice. Strada principală a Corundului funcționează ca un târg permanent, oferind vizitatorilor o experiență senzorială completă prin diversitatea produselor artizanale expuse. Economia locală este una dinamică, bazată pe antreprenoriatul familial și turismul cultural, Corundul reușind să combine conservarea patrimoniului secuiesc cu cerințele pieței moderne. Peisajul înconjurător, caracterizat prin relief de tip platou vulcanic și numeroase izvoare de apă minerală, completează oferta turistică a acestei comunități care pulsează de creativitate și hărnicie.", "en": "Corund is one of Transylvania's most celebrated artisan hubs, located in Harghita County within the historic Szekler Land. The village is globally renowned for its unique pottery tradition, characterized by intricate floral and bird motifs hand-painted in vibrant shades of blue, green, and brown. For centuries, the local families have transformed the area's rich clay deposits into art, establishing Corund as a premier center for Szekler folk craft. Beyond ceramics, the village is famous for the rare art of processing tinder fungus (amadou), turning forest mushrooms into exquisite hats and decorative items. Geographically, Corund sits in a geologically diverse region known for its mineral springs and aragonite deposits; the local Aragonite Museum is a one-of-a-kind destination in Romania. The main thoroughfare of the village acts as a continuous open-air market, where craftsmen proudly display their pottery, wood carvings, and woven textiles to travelers. Despite its popularity as a tourist destination, Corund remains a deeply traditional community where the Szekler dialect and customs are part of everyday life. The surrounding 'Salt Country' plateau offers stunning landscapes and geological curiosities, making Corund a perfect blend of cultural immersion and natural exploration."}, "factsAdvanced": {"de": ["Weltberühmtes Zentrum der Szekler-Keramik.", "Einziger Standort eines Aragonit-Museums in Rumänien.", "Bekannt für das seltene Handwerk der Zunderschwamm-Verarbeitung.", "Gelegen an der Nationalstraße DN13A zwischen Praid und Odorheiu Secuiesc.", "Erstmals im Jahr 1332 urkundlich erwähnt.", "Bevölkerung von ca. 5.549 Einwohnern."], "hu": ["Erdély legfontosabb fazekasközpontja.", "Európa egyetlen aragonit múzeuma itt található.", "Híres a taplómegmunkálás (amadou art) ritka mesterségéről.", "A falu főutcája egy több kilométer hosszú állandó kirakodóvásár.", "Már 1332-ben említik a pápai tizedjegyzékben.", "Híres a gyógyhatású ásványvízforrásairól (borvíz)."], "ro": ["Cel mai important centru de ceramică din Transilvania.", "Găzduiește singurul Muzeu al Aragonitului din țară.", "Renumit pentru prelucrarea artizanală a iascăi.", "Situat în regiunea istorică Ținutul Sării (Ținutul Secuiesc).", "Populația este de aproximativ 5.500 de locuitori.", "Atestat documentar din secolul al XIV-lea (1332)."], "en": ["The most famous pottery center in the Eastern Carpathian region.", "Home to the unique Aragonite Museum, a geological rarity.", "Known for the rare craft of tinder fungus processing.", "Located in the 'Salt Country' of Transylvania.", "First documented in 1332 in papal tax records.", "Total population of approximately 5,549 residents."]}, "faq": {"de": [{"q": "Was ist das bekannteste Produkt aus Corund?", "a": "Die handbemalte Corund-Keramik mit ihren typischen Mustern."}, {"q": "Was kann man im Aragonit-Museum sehen?", "a": "Einzigartige Formationen aus dem semipräziösen Stein Aragonit, der hier abgebaut wurde."}, {"q": "Was ist die Zunderschwamm-Verarbeitung?", "a": "Ein Handwerk, bei dem aus Baumpilzen stoffähnliche Gegenstände wie Hüte hergestellt werden."}, {"q": "Wann findet der Töpfermarkt statt?", "a": "Es gibt das ganze Jahr über einen Markt entlang der Hauptstraße."}], "hu": [{"q": "Milyen színű a klasszikus korondi kerámia?", "a": "Leggyakrabban fehér alapon kék, zöld vagy barna mintás."}, {"q": "Mi az a tapló?", "a": "A bükkfán növő gomba, amelyből a korondi mesterek táskákat és dísztárgyakat készítenek."}, {"q": "Hogyan juthatunk el Korondra?", "a": "Parajd és Székelyudvarhely között fekszik a 13A főút mentén."}, {"q": "Vannak-e ásványvizek a faluban?", "a": "Igen, a faluban több híres borvízforrás és egy sós forrás is található."}], "ro": [{"q": "De unde provine renumele Corundului?", "a": "Din tradiția seculară a olăritului și măiestria meșteșugarilor locali."}, {"q": "Ce este aragonitul?", "a": "O piatră semiprețioasă formată prin depuneri minerale, rară în această formă."}, {"q": "Se pot vizita ateliere de olărit?", "a": "Da, majoritatea meșterilor primesc turiști în atelierele lor de acasă."}, {"q": "Ce suveniruri pot cumpăra?", "a": "Obiecte din ceramică, sculpturi în lemn, produse din iască sau țesături tradiționale."}], "en": [{"q": "What is the specific design of Corund pottery?", "a": "It features stylized flowers, birds, and folk motifs, usually on a white background."}, {"q": "What makes the Aragonite Museum special?", "a": "It showcases rare geological formations found in only a few places globally."}, {"q": "Can I see how amadou hats are made?", "a": "Yes, Corund is the only place in the world where this craft is still thriving."}, {"q": "Where is Corund located?", "a": "In Harghita County, in the heart of the Szekler region of Transylvania."}]},
   "tier": 5,
@@ -10503,6 +12349,15 @@ export const poiExtraRoV1: POI[] = [
                         27.605615,
                         47.179802
                   ]
+            },
+            {
+                  "name": "Tiki Village",
+                  "text": "Dieses Resort in Dancu bietet einen Ort für Entspannung und wasserbezogene Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        27.615374,
+                        47.165891
+                  ]
             }
       ],
       "hu": [
@@ -10576,6 +12431,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.605615,
                         47.179802
+                  ]
+            },
+            {
+                  "name": "Tiki Village",
+                  "text": "Ez a Dancu városában található üdülőhely kikapcsolódást és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        27.615374,
+                        47.165891
                   ]
             }
       ],
@@ -10651,6 +12515,15 @@ export const poiExtraRoV1: POI[] = [
                         27.605615,
                         47.179802
                   ]
+            },
+            {
+                  "name": "Tiki Village",
+                  "text": "Această stațiune din Dancu oferă un loc pentru relaxare și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        27.615374,
+                        47.165891
+                  ]
             }
       ],
       "en": [
@@ -10724,6 +12597,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.605615,
                         47.179802
+                  ]
+            },
+            {
+                  "name": "Tiki Village",
+                  "text": "This resort in Dancu offers a place for relaxation and water-related activities.",
+                  "category": "family",
+                  "coords": [
+                        27.615374,
+                        47.165891
                   ]
             }
       ]
@@ -12156,6 +14038,15 @@ export const poiExtraRoV1: POI[] = [
                         23.501754,
                         46.746231
                   ]
+            },
+            {
+                  "name": "Aqua Park Florești",
+                  "text": "Diese familienfreundliche Attraktion in City Floresti bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        23.475736,
+                        46.748386
+                  ]
             }
       ],
       "hu": [
@@ -12197,6 +14088,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.501754,
                         46.746231
+                  ]
+            },
+            {
+                  "name": "Aqua Park Florești",
+                  "text": "Ez a családbarát látványosság City Floresti városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        23.475736,
+                        46.748386
                   ]
             }
       ],
@@ -12240,6 +14140,15 @@ export const poiExtraRoV1: POI[] = [
                         23.501754,
                         46.746231
                   ]
+            },
+            {
+                  "name": "Aqua Park Florești",
+                  "text": "Această atracție de familie din City Floresti oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        23.475736,
+                        46.748386
+                  ]
             }
       ],
       "en": [
@@ -12281,6 +14190,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.501754,
                         46.746231
+                  ]
+            },
+            {
+                  "name": "Aqua Park Florești",
+                  "text": "This family-friendly attraction in City Floresti offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        23.475736,
+                        46.748386
                   ]
             }
       ]
@@ -12472,6 +14390,24 @@ export const poiExtraRoV1: POI[] = [
                         26.135573,
                         44.464579
                   ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "Dieses olympische Schwimmbecken in Fundeni bietet Einrichtungen zum Schwimmen und für Wassersport.",
+                  "category": "family",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Ein öffentliches Schwimmbad in Fundeni, das sich zur Erholung und zum Training eignet.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
             }
       ],
       "hu": [
@@ -12647,6 +14583,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.135573,
                         44.464579
+                  ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "Ez a fundeni olimpiai úszómedence úszási és vízisport-lehetőségeket biztosít.",
+                  "category": "family",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Egy fundeni nyilvános úszómedence, amely alkalmas kikapcsolódásra és edzésre.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
                   ]
             }
       ],
@@ -12824,6 +14778,24 @@ export const poiExtraRoV1: POI[] = [
                         26.135573,
                         44.464579
                   ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "Acest bazin olimpic din Fundeni oferă facilități pentru înot și sporturi nautice.",
+                  "category": "family",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Un bazin public de înot în Fundeni, potrivit pentru recreere și exerciții fizice.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
             }
       ],
       "en": [
@@ -12999,6 +14971,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.135573,
                         44.464579
+                  ]
+            },
+            {
+                  "name": "Bazin Olimpic",
+                  "text": "This Olympic swimming pool in Fundeni provides facilities for swimming and water sports.",
+                  "category": "family",
+                  "coords": [
+                        26.146701,
+                        44.435432
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "A public swimming pool in Fundeni suitable for recreation and exercise.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
                   ]
             }
       ]
@@ -13386,6 +15376,24 @@ export const poiExtraRoV1: POI[] = [
                         28.091904,
                         45.444174
                   ]
+            },
+            {
+                  "name": "Bazinul Olimpic",
+                  "text": "Das Olympische Becken in Galati bietet eine große Anlage zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        28.023477,
+                        45.41895
+                  ]
+            },
+            {
+                  "name": "Valurile Dunării",
+                  "text": "Valurile Dunării in Galati ist ein Schwimmbad für die Erholung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        28.027568,
+                        45.412334
+                  ]
             }
       ],
       "hu": [
@@ -13537,6 +15545,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.091904,
                         45.444174
+                  ]
+            },
+            {
+                  "name": "Bazinul Olimpic",
+                  "text": "A galaci Olimpiai Medence nagy úszólétesítményt biztosít.",
+                  "category": "family",
+                  "coords": [
+                        28.023477,
+                        45.41895
+                  ]
+            },
+            {
+                  "name": "Valurile Dunării",
+                  "text": "A galaci Valurile Dunării egy úszómedence a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        28.027568,
+                        45.412334
                   ]
             }
       ],
@@ -13690,6 +15716,24 @@ export const poiExtraRoV1: POI[] = [
                         28.091904,
                         45.444174
                   ]
+            },
+            {
+                  "name": "Bazinul Olimpic",
+                  "text": "Bazinul Olimpic din Galați oferă o facilitate mare pentru înot.",
+                  "category": "family",
+                  "coords": [
+                        28.023477,
+                        45.41895
+                  ]
+            },
+            {
+                  "name": "Valurile Dunării",
+                  "text": "Valurile Dunării din Galați este o piscină pentru recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        28.027568,
+                        45.412334
+                  ]
             }
       ],
       "en": [
@@ -13841,6 +15885,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.091904,
                         45.444174
+                  ]
+            },
+            {
+                  "name": "Bazinul Olimpic",
+                  "text": "The Olympic Pool in Galati provides a large facility for swimming.",
+                  "category": "family",
+                  "coords": [
+                        28.023477,
+                        45.41895
+                  ]
+            },
+            {
+                  "name": "Valurile Dunării",
+                  "text": "Valurile Dunării in Galati is a swimming pool for water-based recreation.",
+                  "category": "family",
+                  "coords": [
+                        28.027568,
+                        45.412334
                   ]
             }
       ]
@@ -14134,6 +16196,15 @@ export const poiExtraRoV1: POI[] = [
                         23.209167,
                         45.851394
                   ]
+            },
+            {
+                  "name": "Băile Daco-Romane",
+                  "text": "Băile Daco-Romane in Geoagiu ist ein Wasserpark mit Thermalbecken.",
+                  "category": "family",
+                  "coords": [
+                        23.16325,
+                        45.935326
+                  ]
             }
       ],
       "hu": [
@@ -14174,6 +16245,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.209167,
                         45.851394
+                  ]
+            },
+            {
+                  "name": "Băile Daco-Romane",
+                  "text": "A geoagiu-i Băile Daco-Romane egy vízipark termálvizes medencékkel.",
+                  "category": "family",
+                  "coords": [
+                        23.16325,
+                        45.935326
                   ]
             }
       ],
@@ -14216,6 +16296,15 @@ export const poiExtraRoV1: POI[] = [
                         23.209167,
                         45.851394
                   ]
+            },
+            {
+                  "name": "Băile Daco-Romane",
+                  "text": "Băile Daco-Romane din Geoagiu este un parc acvatic cu bazine termale.",
+                  "category": "family",
+                  "coords": [
+                        23.16325,
+                        45.935326
+                  ]
             }
       ],
       "en": [
@@ -14256,6 +16345,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.209167,
                         45.851394
+                  ]
+            },
+            {
+                  "name": "Băile Daco-Romane",
+                  "text": "Băile Daco-Romane in Geoagiu is a water park with thermal pools.",
+                  "category": "family",
+                  "coords": [
+                        23.16325,
+                        45.935326
                   ]
             }
       ]
@@ -14477,6 +16575,24 @@ export const poiExtraRoV1: POI[] = [
                         21.280469,
                         45.763733
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Pădurea Verde Timișoara",
+                  "text": "Diese familienfreundliche Attraktion in Ghiroda bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        21.26778,
+                        45.781066
+                  ]
+            },
+            {
+                  "name": "Amazonia",
+                  "text": "Diese familienfreundliche Attraktion in Ghiroda bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        21.254405,
+                        45.77054
+                  ]
             }
       ],
       "hu": [
@@ -14518,6 +16634,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.280469,
                         45.763733
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Pădurea Verde Timișoara",
+                  "text": "Ez a családbarát látványosság Ghiroda városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        21.26778,
+                        45.781066
+                  ]
+            },
+            {
+                  "name": "Amazonia",
+                  "text": "Ez a családbarát látványosság Ghiroda városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        21.254405,
+                        45.77054
                   ]
             }
       ],
@@ -14561,6 +16695,24 @@ export const poiExtraRoV1: POI[] = [
                         21.280469,
                         45.763733
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Pădurea Verde Timișoara",
+                  "text": "Această atracție de familie din Ghiroda oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        21.26778,
+                        45.781066
+                  ]
+            },
+            {
+                  "name": "Amazonia",
+                  "text": "Această atracție de familie din Ghiroda oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        21.254405,
+                        45.77054
+                  ]
             }
       ],
       "en": [
@@ -14602,6 +16754,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.280469,
                         45.763733
+                  ]
+            },
+            {
+                  "name": "Pădurea Verde Zoological Garden Timișoara",
+                  "text": "This family-friendly attraction in Ghiroda offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        21.26778,
+                        45.781066
+                  ]
+            },
+            {
+                  "name": "Amazonia",
+                  "text": "This family-friendly attraction in Ghiroda offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        21.254405,
+                        45.77054
                   ]
             }
       ]
@@ -14882,6 +17052,15 @@ export const poiExtraRoV1: POI[] = [
                         21.233642,
                         45.703237
                   ]
+            },
+            {
+                  "name": "Bazin de înot dezafectat",
+                  "text": "Diese Schwimmeinrichtung in Giroc bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        21.263802,
+                        45.729048
+                  ]
             }
       ],
       "hu": [
@@ -14893,6 +17072,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.233642,
                         45.703237
+                  ]
+            },
+            {
+                  "name": "Bazin de înot dezafectat",
+                  "text": "Ez a Giroc városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        21.263802,
+                        45.729048
                   ]
             }
       ],
@@ -14906,6 +17094,15 @@ export const poiExtraRoV1: POI[] = [
                         21.233642,
                         45.703237
                   ]
+            },
+            {
+                  "name": "Bazin de înot dezafectat",
+                  "text": "Această unitate de înot din Giroc oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        21.263802,
+                        45.729048
+                  ]
             }
       ],
       "en": [
@@ -14917,6 +17114,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.233642,
                         45.703237
+                  ]
+            },
+            {
+                  "name": "Bazin de înot dezafectat",
+                  "text": "This swimming facility in Giroc offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        21.263802,
+                        45.729048
                   ]
             }
       ]
@@ -15015,6 +17221,24 @@ export const poiExtraRoV1: POI[] = [
                         25.968177,
                         43.900025
                   ]
+            },
+            {
+                  "name": "Басейн Локомотив",
+                  "text": "Das Lokomotiv-Bad in Giurgiu ist ein Schwimmbad für die Öffentlichkeit.",
+                  "category": "family",
+                  "coords": [
+                        25.980893,
+                        43.859848
+                  ]
+            },
+            {
+                  "name": "Ștrandul Faro",
+                  "text": "Das Ștrandul Faro in Giurgiu ist ein Wasserpark mit Außenbereichen zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        25.967872,
+                        43.87109
+                  ]
             }
       ],
       "hu": [
@@ -15106,6 +17330,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.968177,
                         43.900025
+                  ]
+            },
+            {
+                  "name": "Басейн Локомотив",
+                  "text": "A giurgiui Lokomotiv medence egy nyilvános úszómedence.",
+                  "category": "family",
+                  "coords": [
+                        25.980893,
+                        43.859848
+                  ]
+            },
+            {
+                  "name": "Ștrandul Faro",
+                  "text": "A giurgiui Ștrandul Faro egy vízipark szabadtéri úszóhelyekkel.",
+                  "category": "family",
+                  "coords": [
+                        25.967872,
+                        43.87109
                   ]
             }
       ],
@@ -15199,6 +17441,24 @@ export const poiExtraRoV1: POI[] = [
                         25.968177,
                         43.900025
                   ]
+            },
+            {
+                  "name": "Басейн Локомотив",
+                  "text": "Piscina Lokomotiv din Giurgiu este o piscină pentru public.",
+                  "category": "family",
+                  "coords": [
+                        25.980893,
+                        43.859848
+                  ]
+            },
+            {
+                  "name": "Ștrandul Faro",
+                  "text": "Ștrandul Faro din Giurgiu este un parc acvatic cu zone exterioare pentru înot.",
+                  "category": "family",
+                  "coords": [
+                        25.967872,
+                        43.87109
+                  ]
             }
       ],
       "en": [
@@ -15290,6 +17550,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.968177,
                         43.900025
+                  ]
+            },
+            {
+                  "name": "Басейн Локомотив",
+                  "text": "Lokomotiv Pool in Giurgiu is a swimming pool for the public.",
+                  "category": "family",
+                  "coords": [
+                        25.980893,
+                        43.859848
+                  ]
+            },
+            {
+                  "name": "Ștrandul Faro",
+                  "text": "Ștrandul Faro in Giurgiu is a water park with outdoor areas for swimming.",
+                  "category": "family",
+                  "coords": [
+                        25.967872,
+                        43.87109
                   ]
             }
       ]
@@ -16071,6 +18349,42 @@ export const poiExtraRoV1: POI[] = [
                         27.569075,
                         47.146196
                   ]
+            },
+            {
+                  "name": "Oscar SPA",
+                  "text": "Diese Schwimmeinrichtung in Iasi bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        27.579615,
+                        47.171004
+                  ]
+            },
+            {
+                  "name": "Tiki Village",
+                  "text": "Dieses Resort in Iasi bietet einen Ort für Entspannung und wasserbezogene Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        27.615374,
+                        47.165891
+                  ]
+            },
+            {
+                  "name": "LaPlaya Pool",
+                  "text": "Diese Schwimmeinrichtung in Iasi bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        27.609667,
+                        47.136265
+                  ]
+            },
+            {
+                  "name": "Brizo",
+                  "text": "Dieses Resort in Iasi bietet einen Ort für Entspannung und wasserbezogene Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        27.597545,
+                        47.194716
+                  ]
             }
       ],
       "hu": [
@@ -16222,6 +18536,42 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.569075,
                         47.146196
+                  ]
+            },
+            {
+                  "name": "Oscar SPA",
+                  "text": "Ez a Iasi városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        27.579615,
+                        47.171004
+                  ]
+            },
+            {
+                  "name": "Tiki Village",
+                  "text": "Ez a Iasi városában található üdülőhely kikapcsolódást és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        27.615374,
+                        47.165891
+                  ]
+            },
+            {
+                  "name": "LaPlaya Pool",
+                  "text": "Ez a Iasi városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        27.609667,
+                        47.136265
+                  ]
+            },
+            {
+                  "name": "Brizo",
+                  "text": "Ez a Iasi városában található üdülőhely kikapcsolódást és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        27.597545,
+                        47.194716
                   ]
             }
       ],
@@ -16375,6 +18725,42 @@ export const poiExtraRoV1: POI[] = [
                         27.569075,
                         47.146196
                   ]
+            },
+            {
+                  "name": "Oscar SPA",
+                  "text": "Această unitate de înot din Iasi oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        27.579615,
+                        47.171004
+                  ]
+            },
+            {
+                  "name": "Tiki Village",
+                  "text": "Această stațiune din Iasi oferă un loc pentru relaxare și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        27.615374,
+                        47.165891
+                  ]
+            },
+            {
+                  "name": "LaPlaya Pool",
+                  "text": "Această unitate de înot din Iasi oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        27.609667,
+                        47.136265
+                  ]
+            },
+            {
+                  "name": "Brizo",
+                  "text": "Această stațiune din Iasi oferă un loc pentru relaxare și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        27.597545,
+                        47.194716
+                  ]
             }
       ],
       "en": [
@@ -16526,6 +18912,42 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.569075,
                         47.146196
+                  ]
+            },
+            {
+                  "name": "Oscar SPA",
+                  "text": "This swimming facility in Iasi offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        27.579615,
+                        47.171004
+                  ]
+            },
+            {
+                  "name": "Tiki Village",
+                  "text": "This resort in Iasi offers a place for relaxation and water-related activities.",
+                  "category": "family",
+                  "coords": [
+                        27.615374,
+                        47.165891
+                  ]
+            },
+            {
+                  "name": "LaPlaya Pool",
+                  "text": "This swimming facility in Iasi offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        27.609667,
+                        47.136265
+                  ]
+            },
+            {
+                  "name": "Brizo",
+                  "text": "This resort in Iasi offers a place for relaxation and water-related activities.",
+                  "category": "family",
+                  "coords": [
+                        27.597545,
+                        47.194716
                   ]
             }
       ]
@@ -16964,6 +19386,15 @@ export const poiExtraRoV1: POI[] = [
                         28.596603,
                         44.248557
                   ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Dieser kleine Zoo in Lumina ist ein familienfreundliches Ziel, um Tiere zu beobachten.",
+                  "category": "family",
+                  "coords": [
+                        28.582728,
+                        44.250771
+                  ]
             }
       ],
       "hu": [
@@ -16984,6 +19415,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.596603,
                         44.248557
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Ez a lumina-i kis állatkert családbarát úti cél az állatok megfigyelésére.",
+                  "category": "family",
+                  "coords": [
+                        28.582728,
+                        44.250771
                   ]
             }
       ],
@@ -17006,6 +19446,15 @@ export const poiExtraRoV1: POI[] = [
                         28.596603,
                         44.248557
                   ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Această mini grădină zoologică din Lumina este o destinație potrivită pentru familiile care doresc să vadă animale.",
+                  "category": "family",
+                  "coords": [
+                        28.582728,
+                        44.250771
+                  ]
             }
       ],
       "en": [
@@ -17026,6 +19475,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.596603,
                         44.248557
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "This small zoo in Lumina is a family-friendly destination to see animals.",
+                  "category": "family",
+                  "coords": [
+                        28.582728,
+                        44.250771
                   ]
             }
       ]
@@ -18584,6 +21042,15 @@ export const poiExtraRoV1: POI[] = [
                         23.209167,
                         45.851394
                   ]
+            },
+            {
+                  "name": "Arsenal Park",
+                  "text": "Der Arsenal Park in Orastie ist ein Themenpark mit Aktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        23.164368,
+                        45.829539
+                  ]
             }
       ],
       "hu": [
@@ -18604,6 +21071,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.209167,
                         45.851394
+                  ]
+            },
+            {
+                  "name": "Arsenal Park",
+                  "text": "A szászvárosi Arsenal Park egy vidámpark családi tevékenységekkel.",
+                  "category": "family",
+                  "coords": [
+                        23.164368,
+                        45.829539
                   ]
             }
       ],
@@ -18626,6 +21102,15 @@ export const poiExtraRoV1: POI[] = [
                         23.209167,
                         45.851394
                   ]
+            },
+            {
+                  "name": "Arsenal Park",
+                  "text": "Arsenal Park din Orăștie este un parc tematic cu activități pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        23.164368,
+                        45.829539
+                  ]
             }
       ],
       "en": [
@@ -18646,6 +21131,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.209167,
                         45.851394
+                  ]
+            },
+            {
+                  "name": "Arsenal Park",
+                  "text": "Arsenal Park in Orastie is a theme park with activities for families.",
+                  "category": "family",
+                  "coords": [
+                        23.164368,
+                        45.829539
                   ]
             }
       ]
@@ -18735,6 +21229,51 @@ export const poiExtraRoV1: POI[] = [
                         28.624897,
                         44.235376
                   ]
+            },
+            {
+                  "name": "Luna Parc",
+                  "text": "Diese familienfreundliche Attraktion in Palazu Mare bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        28.632692,
+                        44.217836
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Diese familienfreundliche Attraktion in Palazu Mare bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        28.582728,
+                        44.250771
+                  ]
+            },
+            {
+                  "name": "Școala de înot Gheorghe Oancea",
+                  "text": "Diese Schwimmeinrichtung in Palazu Mare bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        28.635863,
+                        44.203219
+                  ]
+            },
+            {
+                  "name": "Aqua Magic",
+                  "text": "Diese familienfreundliche Attraktion in Palazu Mare bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        28.62975,
+                        44.222457
+                  ]
+            },
+            {
+                  "name": "Pișcina Aurora",
+                  "text": "Diese Schwimmeinrichtung in Palazu Mare bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        28.631869,
+                        44.223751
+                  ]
             }
       ],
       "hu": [
@@ -18764,6 +21303,51 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.624897,
                         44.235376
+                  ]
+            },
+            {
+                  "name": "Luna Parc",
+                  "text": "Ez a családbarát látványosság Palazu Mare városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        28.632692,
+                        44.217836
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Ez a családbarát látványosság Palazu Mare városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        28.582728,
+                        44.250771
+                  ]
+            },
+            {
+                  "name": "Școala de înot Gheorghe Oancea",
+                  "text": "Ez a Palazu Mare városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        28.635863,
+                        44.203219
+                  ]
+            },
+            {
+                  "name": "Aqua Magic",
+                  "text": "Ez a családbarát látványosság Palazu Mare városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        28.62975,
+                        44.222457
+                  ]
+            },
+            {
+                  "name": "Pișcina Aurora",
+                  "text": "Ez a Palazu Mare városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        28.631869,
+                        44.223751
                   ]
             }
       ],
@@ -18795,6 +21379,51 @@ export const poiExtraRoV1: POI[] = [
                         28.624897,
                         44.235376
                   ]
+            },
+            {
+                  "name": "Luna Parc",
+                  "text": "Această atracție de familie din Palazu Mare oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        28.632692,
+                        44.217836
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Această atracție de familie din Palazu Mare oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        28.582728,
+                        44.250771
+                  ]
+            },
+            {
+                  "name": "Școala de înot Gheorghe Oancea",
+                  "text": "Această unitate de înot din Palazu Mare oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        28.635863,
+                        44.203219
+                  ]
+            },
+            {
+                  "name": "Aqua Magic",
+                  "text": "Această atracție de familie din Palazu Mare oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        28.62975,
+                        44.222457
+                  ]
+            },
+            {
+                  "name": "Pișcina Aurora",
+                  "text": "Această unitate de înot din Palazu Mare oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        28.631869,
+                        44.223751
+                  ]
             }
       ],
       "en": [
@@ -18824,6 +21453,51 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.624897,
                         44.235376
+                  ]
+            },
+            {
+                  "name": "Luna Parc",
+                  "text": "This family-friendly attraction in Palazu Mare offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        28.632692,
+                        44.217836
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "This family-friendly attraction in Palazu Mare offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        28.582728,
+                        44.250771
+                  ]
+            },
+            {
+                  "name": "Școala de înot Gheorghe Oancea",
+                  "text": "This swimming facility in Palazu Mare offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        28.635863,
+                        44.203219
+                  ]
+            },
+            {
+                  "name": "Aqua Magic",
+                  "text": "This family-friendly attraction in Palazu Mare offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        28.62975,
+                        44.222457
+                  ]
+            },
+            {
+                  "name": "Pișcina Aurora",
+                  "text": "This swimming facility in Palazu Mare offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        28.631869,
+                        44.223751
                   ]
             }
       ]
@@ -18995,6 +21669,15 @@ export const poiExtraRoV1: POI[] = [
                         23.375354,
                         45.438986
                   ]
+            },
+            {
+                  "name": "Parc Central Petrila",
+                  "text": "Diese familienfreundliche Attraktion in Petrila bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        23.381354,
+                        45.442616
+                  ]
             }
       ],
       "hu": [
@@ -19026,6 +21709,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.375354,
                         45.438986
+                  ]
+            },
+            {
+                  "name": "Parc Central Petrila",
+                  "text": "Ez a családbarát látványosság Petrila városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        23.381354,
+                        45.442616
                   ]
             }
       ],
@@ -19059,6 +21751,15 @@ export const poiExtraRoV1: POI[] = [
                         23.375354,
                         45.438986
                   ]
+            },
+            {
+                  "name": "Parc Central Petrila",
+                  "text": "Această atracție de familie din Petrila oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        23.381354,
+                        45.442616
+                  ]
             }
       ],
       "en": [
@@ -19090,6 +21791,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.375354,
                         45.438986
+                  ]
+            },
+            {
+                  "name": "Parc Central Petrila",
+                  "text": "This family-friendly attraction in Petrila offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        23.381354,
+                        45.442616
                   ]
             }
       ]
@@ -19206,6 +21916,24 @@ export const poiExtraRoV1: POI[] = [
                         26.323562,
                         46.934176
                   ]
+            },
+            {
+                  "name": "Ștrandul Tineretului Piatra-Neamț",
+                  "text": "Dieses Schwimmbad in Piatra Neamt bietet Becken zur Erfrischung im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        26.350382,
+                        46.929147
+                  ]
+            },
+            {
+                  "name": "VIP San Gym",
+                  "text": "Das VIP San Gym in Piatra Neamt bietet ein Schwimmbad zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        26.370334,
+                        46.925278
+                  ]
             }
       ],
       "hu": [
@@ -19315,6 +22043,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.323562,
                         46.934176
+                  ]
+            },
+            {
+                  "name": "Ștrandul Tineretului Piatra-Neamț",
+                  "text": "Ez a karácsonkői úszómedence medencéket kínál a nyári felfrissüléshez.",
+                  "category": "family",
+                  "coords": [
+                        26.350382,
+                        46.929147
+                  ]
+            },
+            {
+                  "name": "VIP San Gym",
+                  "text": "A karácsonkői VIP San Gym úszómedencét kínál a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.370334,
+                        46.925278
                   ]
             }
       ],
@@ -19426,6 +22172,24 @@ export const poiExtraRoV1: POI[] = [
                         26.323562,
                         46.934176
                   ]
+            },
+            {
+                  "name": "Ștrandul Tineretului Piatra-Neamț",
+                  "text": "Acest ștrand din Piatra Neamț oferă bazine pentru răcorire pe timp de vară.",
+                  "category": "family",
+                  "coords": [
+                        26.350382,
+                        46.929147
+                  ]
+            },
+            {
+                  "name": "VIP San Gym",
+                  "text": "VIP San Gym din Piatra Neamț oferă o piscină pentru recreere.",
+                  "category": "family",
+                  "coords": [
+                        26.370334,
+                        46.925278
+                  ]
             }
       ],
       "en": [
@@ -19535,6 +22299,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.323562,
                         46.934176
+                  ]
+            },
+            {
+                  "name": "Ștrandul Tineretului Piatra-Neamț",
+                  "text": "This swimming pool in Piatra Neamt offers pools for summer refreshment.",
+                  "category": "family",
+                  "coords": [
+                        26.350382,
+                        46.929147
+                  ]
+            },
+            {
+                  "name": "VIP San Gym",
+                  "text": "VIP San Gym in Piatra Neamt offers a swimming pool for recreation.",
+                  "category": "family",
+                  "coords": [
+                        26.370334,
+                        46.925278
                   ]
             }
       ]
@@ -20829,6 +23611,60 @@ export const poiExtraRoV1: POI[] = [
                         26.015867,
                         44.455434
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Die Grădina Zoologică in Rosu ist ein Zoo, der Familien ein Naturerlebnis bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.973421,
+                        44.463904
+                  ]
+            },
+            {
+                  "name": "Magic Place Aqua Park",
+                  "text": "Der Magic Place Aqua Park in Rosu ist ein Wasserpark für den Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        26.041173,
+                        44.447504
+                  ]
+            },
+            {
+                  "name": "Ștrandul Drumul Taberei",
+                  "text": "Das Ștrandul Drumul Taberei in Rosu bietet Becken für das Schwimmen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        26.030533,
+                        44.419391
+                  ]
+            },
+            {
+                  "name": "Aqua Garden",
+                  "text": "Aqua Garden in Rosu ist ein Wasserpark mit verschiedenen Bademöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        25.985831,
+                        44.443498
+                  ]
+            },
+            {
+                  "name": "Ștrand Gulești",
+                  "text": "Das Ștrand Gulești in Rosu ist ein Schwimmbad für die Erholung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        26.030044,
+                        44.468604
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "Crazy Pool in Rosu ist ein Schwimmbad für Freizeit und Abkühlung.",
+                  "category": "family",
+                  "coords": [
+                        25.987581,
+                        44.431493
+                  ]
             }
       ],
       "hu": [
@@ -20850,6 +23686,60 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.015867,
                         44.455434
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "A veresvári állatkert természetközeli élményt nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        25.973421,
+                        44.463904
+                  ]
+            },
+            {
+                  "name": "Magic Place Aqua Park",
+                  "text": "A veresvári Magic Place Aqua Park egy vízipark a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.041173,
+                        44.447504
+                  ]
+            },
+            {
+                  "name": "Ștrandul Drumul Taberei",
+                  "text": "A veresvári Ștrandul Drumul Taberei szabadtéri medencéket kínál az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.030533,
+                        44.419391
+                  ]
+            },
+            {
+                  "name": "Aqua Garden",
+                  "text": "A veresvári Aqua Garden egy vízipark különféle fürdőzési lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        25.985831,
+                        44.443498
+                  ]
+            },
+            {
+                  "name": "Ștrand Gulești",
+                  "text": "A veresvári Ștrand Gulești egy úszómedence a vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.030044,
+                        44.468604
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "A veresvári Crazy Pool egy úszómedence a szabadidőhöz és a hűsöléshez.",
+                  "category": "family",
+                  "coords": [
+                        25.987581,
+                        44.431493
                   ]
             }
       ],
@@ -20873,6 +23763,60 @@ export const poiExtraRoV1: POI[] = [
                         26.015867,
                         44.455434
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Grădina Zoologică din Roșu este o grădină zoologică ce oferă familiilor o experiență în natură.",
+                  "category": "family",
+                  "coords": [
+                        25.973421,
+                        44.463904
+                  ]
+            },
+            {
+                  "name": "Magic Place Aqua Park",
+                  "text": "Magic Place Aqua Park din Roșu este un parc acvatic pentru distracția familiei.",
+                  "category": "family",
+                  "coords": [
+                        26.041173,
+                        44.447504
+                  ]
+            },
+            {
+                  "name": "Ștrandul Drumul Taberei",
+                  "text": "Ștrandul Drumul Taberei din Roșu oferă bazine pentru înot în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        26.030533,
+                        44.419391
+                  ]
+            },
+            {
+                  "name": "Aqua Garden",
+                  "text": "Aqua Garden din Roșu este un parc acvatic cu diverse posibilități de baie.",
+                  "category": "family",
+                  "coords": [
+                        25.985831,
+                        44.443498
+                  ]
+            },
+            {
+                  "name": "Ștrand Gulești",
+                  "text": "Ștrand Gulești din Roșu este o piscină pentru recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        26.030044,
+                        44.468604
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "Crazy Pool din Roșu este o piscină pentru timp liber și răcorire.",
+                  "category": "family",
+                  "coords": [
+                        25.987581,
+                        44.431493
+                  ]
             }
       ],
       "en": [
@@ -20894,6 +23838,60 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.015867,
                         44.455434
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "The zoo in Rosu is a zoo offering families a nature experience.",
+                  "category": "family",
+                  "coords": [
+                        25.973421,
+                        44.463904
+                  ]
+            },
+            {
+                  "name": "Magic Place Aqua Park",
+                  "text": "Magic Place Aqua Park in Rosu is a water park for family fun.",
+                  "category": "family",
+                  "coords": [
+                        26.041173,
+                        44.447504
+                  ]
+            },
+            {
+                  "name": "Ștrandul Drumul Taberei",
+                  "text": "Ștrandul Drumul Taberei in Rosu offers outdoor pools for swimming.",
+                  "category": "family",
+                  "coords": [
+                        26.030533,
+                        44.419391
+                  ]
+            },
+            {
+                  "name": "Aqua Garden",
+                  "text": "Aqua Garden in Rosu is a water park with various bathing possibilities.",
+                  "category": "family",
+                  "coords": [
+                        25.985831,
+                        44.443498
+                  ]
+            },
+            {
+                  "name": "Ștrand Gulești",
+                  "text": "Ștrand Gulești in Rosu is a swimming pool for water-based recreation.",
+                  "category": "family",
+                  "coords": [
+                        26.030044,
+                        44.468604
+                  ]
+            },
+            {
+                  "name": "Crazy Pool",
+                  "text": "Crazy Pool in Rosu is a swimming pool for leisure and cooling off.",
+                  "category": "family",
+                  "coords": [
+                        25.987581,
+                        44.431493
                   ]
             }
       ]
@@ -21085,6 +24083,15 @@ export const poiExtraRoV1: POI[] = [
                         22.10212,
                         47.352497
                   ]
+            },
+            {
+                  "name": "Strand Termal Sacuieni Bihor",
+                  "text": "Dieser Thermalwasserpark in Sacuieni bietet Becken zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        22.095048,
+                        47.355387
+                  ]
             }
       ],
       "hu": [
@@ -21096,6 +24103,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         22.10212,
                         47.352497
+                  ]
+            },
+            {
+                  "name": "Strand Termal Sacuieni Bihor",
+                  "text": "Ez a székelyhídi termálvizes park medencéket kínál az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.095048,
+                        47.355387
                   ]
             }
       ],
@@ -21109,6 +24125,15 @@ export const poiExtraRoV1: POI[] = [
                         22.10212,
                         47.352497
                   ]
+            },
+            {
+                  "name": "Strand Termal Sacuieni Bihor",
+                  "text": "Acest parc acvatic termal din Săcuieni oferă bazine pentru înot.",
+                  "category": "family",
+                  "coords": [
+                        22.095048,
+                        47.355387
+                  ]
             }
       ],
       "en": [
@@ -21120,6 +24145,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         22.10212,
                         47.352497
+                  ]
+            },
+            {
+                  "name": "Strand Termal Sacuieni Bihor",
+                  "text": "This thermal water park in Sacuieni offers pools for swimming.",
+                  "category": "family",
+                  "coords": [
+                        22.095048,
+                        47.355387
                   ]
             }
       ]
@@ -21273,6 +24307,15 @@ export const poiExtraRoV1: POI[] = [
                         23.922365,
                         45.751923
                   ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Eine Schwimmeinrichtung in Saliste, die Platz für Wasseraktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.889486,
+                        45.786831
+                  ]
             }
       ],
       "hu": [
@@ -21304,6 +24347,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.922365,
                         45.751923
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Egy szelistyei úszólétesítmény, amely helyet biztosít a vízi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        23.889486,
+                        45.786831
                   ]
             }
       ],
@@ -21337,6 +24389,15 @@ export const poiExtraRoV1: POI[] = [
                         23.922365,
                         45.751923
                   ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "O facilitate de înot în Săliște care oferă spațiu pentru activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        23.889486,
+                        45.786831
+                  ]
             }
       ],
       "en": [
@@ -21368,6 +24429,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.922365,
                         45.751923
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "A swimming facility in Saliste offering space for water activities.",
+                  "category": "family",
+                  "coords": [
+                        23.889486,
+                        45.786831
                   ]
             }
       ]
@@ -21405,6 +24475,15 @@ export const poiExtraRoV1: POI[] = [
                         24.524108,
                         46.540347
                   ]
+            },
+            {
+                  "name": "Piscina ing. Mircea Birău",
+                  "text": "Diese Schwimmeinrichtung in Sancraiu De Mures bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        24.554384,
+                        46.5365
+                  ]
             }
       ],
       "hu": [
@@ -21435,6 +24514,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.524108,
                         46.540347
+                  ]
+            },
+            {
+                  "name": "Piscina ing. Mircea Birău",
+                  "text": "Ez a Sancraiu De Mures városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        24.554384,
+                        46.5365
                   ]
             }
       ],
@@ -21467,6 +24555,15 @@ export const poiExtraRoV1: POI[] = [
                         24.524108,
                         46.540347
                   ]
+            },
+            {
+                  "name": "Piscina ing. Mircea Birău",
+                  "text": "Această unitate de înot din Sancraiu De Mures oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        24.554384,
+                        46.5365
+                  ]
             }
       ],
       "en": [
@@ -21497,6 +24594,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.524108,
                         46.540347
+                  ]
+            },
+            {
+                  "name": "Piscina ing. Mircea Birău",
+                  "text": "This swimming facility in Sancraiu De Mures offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.554384,
+                        46.5365
                   ]
             }
       ]
@@ -21578,6 +24684,24 @@ export const poiExtraRoV1: POI[] = [
                         24.6018,
                         46.5768
                   ]
+            },
+            {
+                  "name": "Complexul de Agrement și Sport Mureșul",
+                  "text": "Dieser Wasserpark in Sangeorgiu de Mureș bietet verschiedene Becken und Sporteinrichtungen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        24.573611,
+                        46.561201
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Târgu Mureș",
+                  "text": "Der Zoo in Târgu Mureș ist ein beliebtes Familienziel mit einer großen Vielfalt an Tierarten.",
+                  "category": "family",
+                  "coords": [
+                        24.594618,
+                        46.551904
+                  ]
             }
       ],
       "hu": [
@@ -21599,6 +24723,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.6018,
                         46.5768
+                  ]
+            },
+            {
+                  "name": "Complexul de Agrement și Sport Mureșul",
+                  "text": "Ez a marosszentgyörgyi élményfürdő különféle medencékkel és sportlétesítményekkel várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        24.573611,
+                        46.561201
+                  ]
+            },
+            {
+                  "name": "Marosvásárhelyi Állatkert",
+                  "text": "A marosvásárhelyi állatkert népszerű családi úti cél, amely számos állatfajt mutat be.",
+                  "category": "family",
+                  "coords": [
+                        24.594618,
+                        46.551904
                   ]
             }
       ],
@@ -21622,6 +24764,24 @@ export const poiExtraRoV1: POI[] = [
                         24.6018,
                         46.5768
                   ]
+            },
+            {
+                  "name": "Complexul de Agrement și Sport Mureșul",
+                  "text": "Acest parc acvatic din Sângeorgiu de Mureș oferă diverse piscine și facilități sportive pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        24.573611,
+                        46.561201
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Târgu Mureș",
+                  "text": "Grădina Zoologică din Târgu Mureș este o destinație populară pentru familii, găzduind o gamă largă de specii de animale.",
+                  "category": "family",
+                  "coords": [
+                        24.594618,
+                        46.551904
+                  ]
             }
       ],
       "en": [
@@ -21643,6 +24803,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.6018,
                         46.5768
+                  ]
+            },
+            {
+                  "name": "Complexul de Agrement și Sport Mureșul",
+                  "text": "This water park in Sangeorgiu de Mureș offers various pools and sports facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        24.573611,
+                        46.561201
+                  ]
+            },
+            {
+                  "name": "Târgu Mureș Zoological Garden",
+                  "text": "The zoo in Târgu Mureș is a popular family destination featuring a wide range of animal species.",
+                  "category": "family",
+                  "coords": [
+                        24.594618,
+                        46.551904
                   ]
             }
       ]
@@ -21916,6 +25094,24 @@ export const poiExtraRoV1: POI[] = [
                         22.840702,
                         47.749332
                   ]
+            },
+            {
+                  "name": "Aqua Star",
+                  "text": "Diese familienfreundliche Attraktion in Satu Mare bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        22.895175,
+                        47.828814
+                  ]
+            },
+            {
+                  "name": "Nord Vest Termal Park",
+                  "text": "Diese familienfreundliche Attraktion in Satu Mare bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        22.89282,
+                        47.787158
+                  ]
             }
       ],
       "hu": [
@@ -22035,6 +25231,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         22.840702,
                         47.749332
+                  ]
+            },
+            {
+                  "name": "Aqua Star",
+                  "text": "Ez a családbarát látványosság Satu Mare városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        22.895175,
+                        47.828814
+                  ]
+            },
+            {
+                  "name": "Nord Vest Termal Park",
+                  "text": "Ez a családbarát látványosság Satu Mare városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        22.89282,
+                        47.787158
                   ]
             }
       ],
@@ -22156,6 +25370,24 @@ export const poiExtraRoV1: POI[] = [
                         22.840702,
                         47.749332
                   ]
+            },
+            {
+                  "name": "Aqua Star",
+                  "text": "Această atracție de familie din Satu Mare oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        22.895175,
+                        47.828814
+                  ]
+            },
+            {
+                  "name": "Nord Vest Termal Park",
+                  "text": "Această atracție de familie din Satu Mare oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        22.89282,
+                        47.787158
+                  ]
             }
       ],
       "en": [
@@ -22275,6 +25507,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         22.840702,
                         47.749332
+                  ]
+            },
+            {
+                  "name": "Aqua Star",
+                  "text": "This family-friendly attraction in Satu Mare offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        22.895175,
+                        47.828814
+                  ]
+            },
+            {
+                  "name": "Nord Vest Termal Park",
+                  "text": "This family-friendly attraction in Satu Mare offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        22.89282,
+                        47.787158
                   ]
             }
       ]
@@ -22627,6 +25877,15 @@ export const poiExtraRoV1: POI[] = [
                         24.150736,
                         45.796922
                   ]
+            },
+            {
+                  "name": "Piscina Extaz",
+                  "text": "Ein Schwimmbecken in Șelimbăr, das einen Ort für Erholung im Wasser und Freizeit bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.19991,
+                        45.75668
+                  ]
             }
       ],
       "hu": [
@@ -22648,6 +25907,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.150736,
                         45.796922
+                  ]
+            },
+            {
+                  "name": "Piscina Extaz",
+                  "text": "Egy selimbar-i úszómedence, amely helyet biztosít a vízi kikapcsolódáshoz és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        24.19991,
+                        45.75668
                   ]
             }
       ],
@@ -22671,6 +25939,15 @@ export const poiExtraRoV1: POI[] = [
                         24.150736,
                         45.796922
                   ]
+            },
+            {
+                  "name": "Piscina Extaz",
+                  "text": "O piscină în Șelimbăr care oferă un loc pentru recreere și relaxare în apă.",
+                  "category": "family",
+                  "coords": [
+                        24.19991,
+                        45.75668
+                  ]
             }
       ],
       "en": [
@@ -22692,6 +25969,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.150736,
                         45.796922
+                  ]
+            },
+            {
+                  "name": "Piscina Extaz",
+                  "text": "A swimming pool in Șelimbăr providing a place for water recreation and leisure.",
+                  "category": "family",
+                  "coords": [
+                        24.19991,
+                        45.75668
                   ]
             }
       ]
@@ -23077,6 +26363,33 @@ export const poiExtraRoV1: POI[] = [
                         24.118154,
                         45.771874
                   ]
+            },
+            {
+                  "name": "Ștrandul Aqua Fun",
+                  "text": "Das Ștrandul Aqua Fun in Sibiu ist ein Wasserpark mit Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        24.134899,
+                        45.791515
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Sibiu",
+                  "text": "Der Zoo von Sibiu bietet Familien die Möglichkeit, verschiedene Tiere zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        24.123293,
+                        45.762374
+                  ]
+            },
+            {
+                  "name": "Pișcină Sărata",
+                  "text": "Diese Salzwasser-Piscina in Sibiu bietet ein besonderes Schwimmerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        24.144714,
+                        45.843349
+                  ]
             }
       ],
       "hu": [
@@ -23406,6 +26719,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.118154,
                         45.771874
+                  ]
+            },
+            {
+                  "name": "Ștrandul Aqua Fun",
+                  "text": "A nagyszebeni Ștrandul Aqua Fun egy vízipark látnivalókkal a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        24.134899,
+                        45.791515
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Sibiu",
+                  "text": "A nagyszebeni állatkert lehetőséget nyújt a családoknak különféle állatok megtekintésére.",
+                  "category": "family",
+                  "coords": [
+                        24.123293,
+                        45.762374
+                  ]
+            },
+            {
+                  "name": "Pișcină Sărata",
+                  "text": "Ez a nagyszebeni sós vizes medence különleges úszási élményt nyújt.",
+                  "category": "family",
+                  "coords": [
+                        24.144714,
+                        45.843349
                   ]
             }
       ],
@@ -23737,6 +27077,33 @@ export const poiExtraRoV1: POI[] = [
                         24.118154,
                         45.771874
                   ]
+            },
+            {
+                  "name": "Ștrandul Aqua Fun",
+                  "text": "Ștrandul Aqua Fun din Sibiu este un parc acvatic cu atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        24.134899,
+                        45.791515
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Sibiu",
+                  "text": "Grădina Zoologică din Sibiu oferă familiilor posibilitatea de a vedea diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        24.123293,
+                        45.762374
+                  ]
+            },
+            {
+                  "name": "Pișcină Sărata",
+                  "text": "Această piscină cu apă sărată din Sibiu oferă o experiență de înot deosebită.",
+                  "category": "family",
+                  "coords": [
+                        24.144714,
+                        45.843349
+                  ]
             }
       ],
       "en": [
@@ -24066,6 +27433,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.118154,
                         45.771874
+                  ]
+            },
+            {
+                  "name": "Ștrandul Aqua Fun",
+                  "text": "Aqua Fun in Sibiu is a water park with attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        24.134899,
+                        45.791515
+                  ]
+            },
+            {
+                  "name": "Sibiu Zoological Garden",
+                  "text": "Sibiu Zoo offers families the chance to see various animals.",
+                  "category": "family",
+                  "coords": [
+                        24.123293,
+                        45.762374
+                  ]
+            },
+            {
+                  "name": "Pișcină Sărata",
+                  "text": "This saltwater pool in Sibiu offers a special swimming experience.",
+                  "category": "family",
+                  "coords": [
+                        24.144714,
+                        45.843349
                   ]
             }
       ]
@@ -24660,6 +28054,15 @@ export const poiExtraRoV1: POI[] = [
                         25.086525,
                         46.611407
                   ]
+            },
+            {
+                  "name": "Ensana Spa Centre",
+                  "text": "Diese Schwimmeinrichtung in Sovata bietet Platz zum Schwimmen and zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        25.087473,
+                        46.602458
+                  ]
             }
       ],
       "hu": [
@@ -24699,6 +28102,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.086525,
                         46.611407
+                  ]
+            },
+            {
+                  "name": "Ensana Spa Centre",
+                  "text": "Ez a Sovata városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        25.087473,
+                        46.602458
                   ]
             }
       ],
@@ -24740,6 +28152,15 @@ export const poiExtraRoV1: POI[] = [
                         25.086525,
                         46.611407
                   ]
+            },
+            {
+                  "name": "Ensana Spa Centre",
+                  "text": "Această unitate de înot din Sovata oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        25.087473,
+                        46.602458
+                  ]
             }
       ],
       "en": [
@@ -24779,6 +28200,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.086525,
                         46.611407
+                  ]
+            },
+            {
+                  "name": "Ensana Spa Centre",
+                  "text": "This swimming facility in Sovata offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        25.087473,
+                        46.602458
                   ]
             }
       ]
@@ -25041,6 +28471,15 @@ export const poiExtraRoV1: POI[] = [
                         22.468425,
                         46.551417
                   ]
+            },
+            {
+                  "name": "Bazin înot - adulți",
+                  "text": "Ein Schwimmbecken in Ștei, das primär für erwachsene Schwimmer konzipiert ist.",
+                  "category": "family",
+                  "coords": [
+                        22.455374,
+                        46.539178
+                  ]
             }
       ],
       "hu": [
@@ -25051,6 +28490,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         22.468425,
                         46.551417
+                  ]
+            },
+            {
+                  "name": "Bazin înot - adulți",
+                  "text": "Egy vaskohsziklási úszómedence, amelyet elsősorban felnőtt úszók számára alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        22.455374,
+                        46.539178
                   ]
             }
       ],
@@ -25063,6 +28511,15 @@ export const poiExtraRoV1: POI[] = [
                         22.468425,
                         46.551417
                   ]
+            },
+            {
+                  "name": "Bazin înot - adulți",
+                  "text": "Un bazin de înot în Ștei conceput în principal pentru înotători adulți.",
+                  "category": "family",
+                  "coords": [
+                        22.455374,
+                        46.539178
+                  ]
             }
       ],
       "en": [
@@ -25073,6 +28530,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         22.468425,
                         46.551417
+                  ]
+            },
+            {
+                  "name": "Bazin înot - adulți",
+                  "text": "A swimming pool in Ștei designed primarily for adult swimmers.",
+                  "category": "family",
+                  "coords": [
+                        22.455374,
+                        46.539178
                   ]
             }
       ]
@@ -25291,6 +28757,15 @@ export const poiExtraRoV1: POI[] = [
                         26.246506,
                         47.649551
                   ]
+            },
+            {
+                  "name": "STRAND ITCANI",
+                  "text": "Diese Schwimmeinrichtung in Suceava bietet Außenbecken für die Sommererholung.",
+                  "category": "family",
+                  "coords": [
+                        26.20284,
+                        47.651669
+                  ]
             }
       ],
       "hu": [
@@ -25440,6 +28915,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.246506,
                         47.649551
+                  ]
+            },
+            {
+                  "name": "STRAND ITCANI",
+                  "text": "Ez a szucsávai úszólétesítmény szabadtéri medencéket kínál a nyári kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.20284,
+                        47.651669
                   ]
             }
       ],
@@ -25591,6 +29075,15 @@ export const poiExtraRoV1: POI[] = [
                         26.246506,
                         47.649551
                   ]
+            },
+            {
+                  "name": "STRAND ITCANI",
+                  "text": "Această facilitate de înot din Suceava oferă bazine în aer liber pentru recreere pe timp de vară.",
+                  "category": "family",
+                  "coords": [
+                        26.20284,
+                        47.651669
+                  ]
             }
       ],
       "en": [
@@ -25740,6 +29233,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.246506,
                         47.649551
+                  ]
+            },
+            {
+                  "name": "STRAND ITCANI",
+                  "text": "This swimming facility in Suceava offers outdoor pools for summer recreation.",
+                  "category": "family",
+                  "coords": [
+                        26.20284,
+                        47.651669
                   ]
             }
       ]
@@ -26044,6 +29546,15 @@ export const poiExtraRoV1: POI[] = [
                         23.876424,
                         47.440076
                   ]
+            },
+            {
+                  "name": "Strumfii",
+                  "text": "Diese familienfreundliche Attraktion in Targu Lapus bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        23.866638,
+                        47.451337
+                  ]
             }
       ],
       "hu": [
@@ -26074,6 +29585,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.876424,
                         47.440076
+                  ]
+            },
+            {
+                  "name": "Strumfii",
+                  "text": "Ez a családbarát látványosság Targu Lapus városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        23.866638,
+                        47.451337
                   ]
             }
       ],
@@ -26106,6 +29626,15 @@ export const poiExtraRoV1: POI[] = [
                         23.876424,
                         47.440076
                   ]
+            },
+            {
+                  "name": "Strumfii",
+                  "text": "Această atracție de familie din Targu Lapus oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        23.866638,
+                        47.451337
+                  ]
             }
       ],
       "en": [
@@ -26136,6 +29665,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.876424,
                         47.440076
+                  ]
+            },
+            {
+                  "name": "Strumfii",
+                  "text": "This family-friendly attraction in Targu Lapus offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        23.866638,
+                        47.451337
                   ]
             }
       ]
@@ -26174,6 +29712,24 @@ export const poiExtraRoV1: POI[] = [
                         26.626047,
                         46.279236
                   ]
+            },
+            {
+                  "name": "Ștrandul Salinei",
+                  "text": "Das Ștrandul Salinei in Targu Ocna ist ein Salzwasser-Schwimmbad.",
+                  "category": "family",
+                  "coords": [
+                        26.60365,
+                        46.283724
+                  ]
+            },
+            {
+                  "name": "Centrul Balnear Parc Măgura Targu Ocna;Ștrand apă sărată",
+                  "text": "Dieser Wasserpark in Targu Ocna verfügt über Becken mit Salzwasser.",
+                  "category": "family",
+                  "coords": [
+                        26.594875,
+                        46.274167
+                  ]
             }
       ],
       "hu": [
@@ -26205,6 +29761,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.626047,
                         46.279236
+                  ]
+            },
+            {
+                  "name": "Ștrandul Salinei",
+                  "text": "A Targu Ocna-i Ștrandul Salinei egy sós vizes úszómedence.",
+                  "category": "family",
+                  "coords": [
+                        26.60365,
+                        46.283724
+                  ]
+            },
+            {
+                  "name": "Centrul Balnear Parc Măgura Targu Ocna;Ștrand apă sărată",
+                  "text": "Ez a Targu Ocna-i vízipark sós vizes medencékkel rendelkezik.",
+                  "category": "family",
+                  "coords": [
+                        26.594875,
+                        46.274167
                   ]
             }
       ],
@@ -26238,6 +29812,24 @@ export const poiExtraRoV1: POI[] = [
                         26.626047,
                         46.279236
                   ]
+            },
+            {
+                  "name": "Ștrandul Salinei",
+                  "text": "Ștrandul Salinei din Târgu Ocna este o piscină cu apă sărată.",
+                  "category": "family",
+                  "coords": [
+                        26.60365,
+                        46.283724
+                  ]
+            },
+            {
+                  "name": "Centrul Balnear Parc Măgura Targu Ocna;Ștrand apă sărată",
+                  "text": "Acest parc acvatic din Târgu Ocna dispune de bazine cu apă sărată.",
+                  "category": "family",
+                  "coords": [
+                        26.594875,
+                        46.274167
+                  ]
             }
       ],
       "en": [
@@ -26269,6 +29861,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.626047,
                         46.279236
+                  ]
+            },
+            {
+                  "name": "Ștrandul Salinei",
+                  "text": "Ștrandul Salinei in Targu Ocna is a saltwater swimming pool.",
+                  "category": "family",
+                  "coords": [
+                        26.60365,
+                        46.283724
+                  ]
+            },
+            {
+                  "name": "Centrul Balnear Parc Măgura Targu Ocna;Ștrand apă sărată",
+                  "text": "This water park in Targu Ocna features saltwater pools.",
+                  "category": "family",
+                  "coords": [
+                        26.594875,
+                        46.274167
                   ]
             }
       ]
@@ -26386,6 +29996,15 @@ export const poiExtraRoV1: POI[] = [
                         24.279866,
                         46.329831
                   ]
+            },
+            {
+                  "name": "Pișcina de bărbați",
+                  "text": "Diese Schwimmeinrichtung in Tarnaveni bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        24.300016,
+                        46.332324
+                  ]
             }
       ],
       "hu": [
@@ -26407,6 +30026,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.279866,
                         46.329831
+                  ]
+            },
+            {
+                  "name": "Pișcina de bărbați",
+                  "text": "Ez a Tarnaveni városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        24.300016,
+                        46.332324
                   ]
             }
       ],
@@ -26430,6 +30058,15 @@ export const poiExtraRoV1: POI[] = [
                         24.279866,
                         46.329831
                   ]
+            },
+            {
+                  "name": "Pișcina de bărbați",
+                  "text": "Această unitate de înot din Tarnaveni oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        24.300016,
+                        46.332324
+                  ]
             }
       ],
       "en": [
@@ -26451,6 +30088,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.279866,
                         46.329831
+                  ]
+            },
+            {
+                  "name": "Pișcina de bărbați",
+                  "text": "This swimming facility in Tarnaveni offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.300016,
+                        46.332324
                   ]
             }
       ]
@@ -29016,6 +32662,15 @@ export const poiExtraRoV1: POI[] = [
                         24.839039,
                         44.905416
                   ]
+            },
+            {
+                  "name": "Ștrandul Pitești",
+                  "text": "Diese familienfreundliche Attraktion in Valea Mare Podgoria bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        24.88232,
+                        44.864026
+                  ]
             }
       ],
       "hu": [
@@ -29054,6 +32709,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.839039,
                         44.905416
+                  ]
+            },
+            {
+                  "name": "Ștrandul Pitești",
+                  "text": "Ez a családbarát látványosság Valea Mare Podgoria városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        24.88232,
+                        44.864026
                   ]
             }
       ],
@@ -29094,6 +32758,15 @@ export const poiExtraRoV1: POI[] = [
                         24.839039,
                         44.905416
                   ]
+            },
+            {
+                  "name": "Ștrandul Pitești",
+                  "text": "Această atracție de familie din Valea Mare Podgoria oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        24.88232,
+                        44.864026
+                  ]
             }
       ],
       "en": [
@@ -29132,6 +32805,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.839039,
                         44.905416
+                  ]
+            },
+            {
+                  "name": "Ștrandul Pitești",
+                  "text": "This family-friendly attraction in Valea Mare Podgoria offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        24.88232,
+                        44.864026
                   ]
             }
       ]
@@ -29292,6 +32974,15 @@ export const poiExtraRoV1: POI[] = [
                         27.625457,
                         46.630613
                   ]
+            },
+            {
+                  "name": "Strand Mare",
+                  "text": "Ein großer Schwimmbereich in Vaslui, der sich für Familienfreizeit und Wasseraktivitäten eignet.",
+                  "category": "family",
+                  "coords": [
+                        27.733798,
+                        46.635244
+                  ]
             }
       ],
       "hu": [
@@ -29352,6 +33043,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.625457,
                         46.630613
+                  ]
+            },
+            {
+                  "name": "Strand Mare",
+                  "text": "Egy vaslúi nagy strandfürdő, amely alkalmas családi szabadidős és vízi tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        27.733798,
+                        46.635244
                   ]
             }
       ],
@@ -29414,6 +33114,15 @@ export const poiExtraRoV1: POI[] = [
                         27.625457,
                         46.630613
                   ]
+            },
+            {
+                  "name": "Strand Mare",
+                  "text": "O zonă mare de înot în Vaslui, potrivită pentru petrecerea timpului liber în familie și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        27.733798,
+                        46.635244
+                  ]
             }
       ],
       "en": [
@@ -29474,6 +33183,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.625457,
                         46.630613
+                  ]
+            },
+            {
+                  "name": "Strand Mare",
+                  "text": "A large swimming area in Vaslui suitable for family leisure and water activities.",
+                  "category": "family",
+                  "coords": [
+                        27.733798,
+                        46.635244
                   ]
             }
       ]

@@ -334,7 +334,124 @@ export const serbiaDistrictPoi: POI[] = [
     image: "/poi-images/RS-002-sombor.webp",
   },
   {
-    id: "RS-002-apatin", "sights": {"de": [{"name": "Muzej sporta", "text": "Ein Museum in Apatin, das der Geschichte des Sports und lokaler Athleten gewidmet ist.", "category": "museum", "coords": [18.984603, 45.67181]}], "hu": [{"name": "Muzej sporta", "text": "Apatini múzeum, amelyet a sporttörténetnek és a helyi sportolóknak szenteltek.", "category": "museum", "coords": [18.984603, 45.67181]}], "ro": [{"name": "Muzej sporta", "text": "Un muzeu din Apatin dedicat istoriei sportului și sportivilor locali.", "category": "museum", "coords": [18.984603, 45.67181]}], "en": [{"name": "Muzej sporta", "text": "A museum in Apatin dedicated to the history of sports and local athletic achievements.", "category": "museum", "coords": [18.984603, 45.67181]}]},
+    id: "RS-002-apatin", "sights": {
+      "de": [
+            {
+                  "name": "Muzej sporta",
+                  "text": "Ein Museum in Apatin, das der Geschichte des Sports und lokaler Athleten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.984603,
+                        45.67181
+                  ]
+            },
+            {
+                  "name": "Бања Јунаковић",
+                  "text": "Diese Schwimmeinrichtung in Apatin bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        19.03155,
+                        45.677252
+                  ]
+            },
+            {
+                  "name": "Олимпијски базен",
+                  "text": "Diese Schwimmeinrichtung in Apatin bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        19.031242,
+                        45.678291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej sporta",
+                  "text": "Apatini múzeum, amelyet a sporttörténetnek és a helyi sportolóknak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        18.984603,
+                        45.67181
+                  ]
+            },
+            {
+                  "name": "Бања Јунаковић",
+                  "text": "Ez a Apatin városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        19.03155,
+                        45.677252
+                  ]
+            },
+            {
+                  "name": "Олимпијски базен",
+                  "text": "Ez a Apatin városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        19.031242,
+                        45.678291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej sporta",
+                  "text": "Un muzeu din Apatin dedicat istoriei sportului și sportivilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        18.984603,
+                        45.67181
+                  ]
+            },
+            {
+                  "name": "Бања Јунаковић",
+                  "text": "Această unitate de înot din Apatin oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        19.03155,
+                        45.677252
+                  ]
+            },
+            {
+                  "name": "Олимпијски базен",
+                  "text": "Această unitate de înot din Apatin oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        19.031242,
+                        45.678291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej sporta",
+                  "text": "A museum in Apatin dedicated to the history of sports and local athletic achievements.",
+                  "category": "museum",
+                  "coords": [
+                        18.984603,
+                        45.67181
+                  ]
+            },
+            {
+                  "name": "Бања Јунаковић",
+                  "text": "This swimming facility in Apatin offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        19.03155,
+                        45.677252
+                  ]
+            },
+            {
+                  "name": "Олимпијски базен",
+                  "text": "This swimming facility in Apatin offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        19.031242,
+                        45.678291
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-002",
     coords: [18.9858, 45.6714],
@@ -598,7 +715,268 @@ export const serbiaDistrictPoi: POI[] = [
     image: "/poi-images/RS-005-bor.webp",
   },
   {
-    id: "RS-005-negotin", "sights": {"de": [{"name": "ORP Bukovo", "text": "Ein geschütztes Naturreservat in der Nähe der Stadt Negotin.", "category": "natural", "coords": [22.49654, 44.218158]}, {"name": "Muzej Hajduk Veljka", "text": "Ein Museum, das dem serbischen Helden Hajduk Veljko gewidmet ist.", "category": "museum", "coords": [22.528939, 44.226482]}, {"name": "Dom kulture „Stevan Mokranjac”", "text": "Ein Kulturzentrum und Veranstaltungsort für darstellende Künste in Negotin.", "category": "cultural", "coords": [22.530045, 44.228114]}, {"name": "Muzej „Krajina”", "text": "Ein Regionalmuseum zur Geschichte und Archäologie von Negotin.", "category": "museum", "coords": [22.531451, 44.22481]}, {"name": "Kuća Stevana Mokranjca", "text": "Das Geburtshaus des berühmten Komponisten Stevan Mokranjac.", "category": "museum", "coords": [22.530229, 44.225645]}, {"name": "Čučuk Stana", "text": "Ein Denkmal für die serbische Heldin Čučuk Stana in Negotin.", "category": "historical", "coords": [22.530618, 44.226661]}], "hu": [{"name": "ORP Bukovo", "text": "Védett természetvédelmi terület Negotin városa közelében.", "category": "natural", "coords": [22.49654, 44.218158]}, {"name": "Muzej Hajduk Veljka", "text": "Hajduk Veljko szerb hősnek szentelt múzeum.", "category": "museum", "coords": [22.528939, 44.226482]}, {"name": "Dom kulture „Stevan Mokranjac”", "text": "Kulturális központ és előadóművészeti helyszín Negotinban.", "category": "cultural", "coords": [22.530045, 44.228114]}, {"name": "Muzej „Krajina”", "text": "Negotin történelmét és régészetét bemutató regionális múzeum.", "category": "museum", "coords": [22.531451, 44.22481]}, {"name": "Kuća Stevana Mokranjca", "text": "Stevan Mokranjac híres zeneszerző szülőháza.", "category": "museum", "coords": [22.530229, 44.225645]}, {"name": "Čučuk Stana", "text": "Emlékmű Čučuk Stana szerb hősnőnek Negotinban.", "category": "historical", "coords": [22.530618, 44.226661]}], "ro": [{"name": "ORP Bukovo", "text": "O rezervație naturală protejată în apropierea orașului Negotin.", "category": "natural", "coords": [22.49654, 44.218158]}, {"name": "Muzej Hajduk Veljka", "text": "Un muzeu dedicat eroului sârb Hajduk Veljko.", "category": "museum", "coords": [22.528939, 44.226482]}, {"name": "Dom kulture „Stevan Mokranjac”", "text": "Un centru cultural și loc de desfășurare pentru artele spectacolului în Negotin.", "category": "cultural", "coords": [22.530045, 44.228114]}, {"name": "Muzej „Krajina”", "text": "Un muzeu regional dedicat istoriei și arheologiei din Negotin.", "category": "museum", "coords": [22.531451, 44.22481]}, {"name": "Kuća Stevana Mokranjca", "text": "Casa natală a celebrului compozitor Stevan Mokranjac.", "category": "museum", "coords": [22.530229, 44.225645]}, {"name": "Čučuk Stana", "text": "Un monument dedicat eroinei sârbe Čučuk Stana în Negotin.", "category": "historical", "coords": [22.530618, 44.226661]}], "en": [{"name": "ORP Bukovo", "text": "A protected nature reserve located near the town of Negotin.", "category": "natural", "coords": [22.49654, 44.218158]}, {"name": "Muzej Hajduk Veljka", "text": "A museum dedicated to the Serbian hero Hajduk Veljko.", "category": "museum", "coords": [22.528939, 44.226482]}, {"name": "Dom kulture „Stevan Mokranjac”", "text": "A cultural center and performing arts venue in Negotin.", "category": "cultural", "coords": [22.530045, 44.228114]}, {"name": "Muzej „Krajina”", "text": "A regional museum covering the history and archaeology of Negotin.", "category": "museum", "coords": [22.531451, 44.22481]}, {"name": "Kuća Stevana Mokranjca", "text": "The birth house of the famous composer Stevan Mokranjac.", "category": "museum", "coords": [22.530229, 44.225645]}, {"name": "Čučuk Stana", "text": "A monument to the Serbian heroine Čučuk Stana in Negotin.", "category": "historical", "coords": [22.530618, 44.226661]}]},
+    id: "RS-005-negotin", "sights": {
+      "de": [
+            {
+                  "name": "ORP Bukovo",
+                  "text": "Ein geschütztes Naturreservat in der Nähe der Stadt Negotin.",
+                  "category": "natural",
+                  "coords": [
+                        22.49654,
+                        44.218158
+                  ]
+            },
+            {
+                  "name": "Muzej Hajduk Veljka",
+                  "text": "Ein Museum, das dem serbischen Helden Hajduk Veljko gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.528939,
+                        44.226482
+                  ]
+            },
+            {
+                  "name": "Dom kulture „Stevan Mokranjac”",
+                  "text": "Ein Kulturzentrum und Veranstaltungsort für darstellende Künste in Negotin.",
+                  "category": "cultural",
+                  "coords": [
+                        22.530045,
+                        44.228114
+                  ]
+            },
+            {
+                  "name": "Muzej „Krajina”",
+                  "text": "Ein Regionalmuseum zur Geschichte und Archäologie von Negotin.",
+                  "category": "museum",
+                  "coords": [
+                        22.531451,
+                        44.22481
+                  ]
+            },
+            {
+                  "name": "Kuća Stevana Mokranjca",
+                  "text": "Das Geburtshaus des berühmten Komponisten Stevan Mokranjac.",
+                  "category": "museum",
+                  "coords": [
+                        22.530229,
+                        44.225645
+                  ]
+            },
+            {
+                  "name": "Čučuk Stana",
+                  "text": "Ein Denkmal für die serbische Heldin Čučuk Stana in Negotin.",
+                  "category": "historical",
+                  "coords": [
+                        22.530618,
+                        44.226661
+                  ]
+            },
+            {
+                  "name": "Градски Базен Неготин",
+                  "text": "Das städtische Schwimmbad in Negotin bietet Platz zum Schwimmen und für die sommerliche Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        22.530171,
+                        44.235046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ORP Bukovo",
+                  "text": "Védett természetvédelmi terület Negotin városa közelében.",
+                  "category": "natural",
+                  "coords": [
+                        22.49654,
+                        44.218158
+                  ]
+            },
+            {
+                  "name": "Muzej Hajduk Veljka",
+                  "text": "Hajduk Veljko szerb hősnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.528939,
+                        44.226482
+                  ]
+            },
+            {
+                  "name": "Dom kulture „Stevan Mokranjac”",
+                  "text": "Kulturális központ és előadóművészeti helyszín Negotinban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.530045,
+                        44.228114
+                  ]
+            },
+            {
+                  "name": "Muzej „Krajina”",
+                  "text": "Negotin történelmét és régészetét bemutató regionális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.531451,
+                        44.22481
+                  ]
+            },
+            {
+                  "name": "Kuća Stevana Mokranjca",
+                  "text": "Stevan Mokranjac híres zeneszerző szülőháza.",
+                  "category": "museum",
+                  "coords": [
+                        22.530229,
+                        44.225645
+                  ]
+            },
+            {
+                  "name": "Čučuk Stana",
+                  "text": "Emlékmű Čučuk Stana szerb hősnőnek Negotinban.",
+                  "category": "historical",
+                  "coords": [
+                        22.530618,
+                        44.226661
+                  ]
+            },
+            {
+                  "name": "Градски Базен Неготин",
+                  "text": "Negotin városi úszómedencéje helyet biztosít az úszáshoz és a nyári pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        22.530171,
+                        44.235046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ORP Bukovo",
+                  "text": "O rezervație naturală protejată în apropierea orașului Negotin.",
+                  "category": "natural",
+                  "coords": [
+                        22.49654,
+                        44.218158
+                  ]
+            },
+            {
+                  "name": "Muzej Hajduk Veljka",
+                  "text": "Un muzeu dedicat eroului sârb Hajduk Veljko.",
+                  "category": "museum",
+                  "coords": [
+                        22.528939,
+                        44.226482
+                  ]
+            },
+            {
+                  "name": "Dom kulture „Stevan Mokranjac”",
+                  "text": "Un centru cultural și loc de desfășurare pentru artele spectacolului în Negotin.",
+                  "category": "cultural",
+                  "coords": [
+                        22.530045,
+                        44.228114
+                  ]
+            },
+            {
+                  "name": "Muzej „Krajina”",
+                  "text": "Un muzeu regional dedicat istoriei și arheologiei din Negotin.",
+                  "category": "museum",
+                  "coords": [
+                        22.531451,
+                        44.22481
+                  ]
+            },
+            {
+                  "name": "Kuća Stevana Mokranjca",
+                  "text": "Casa natală a celebrului compozitor Stevan Mokranjac.",
+                  "category": "museum",
+                  "coords": [
+                        22.530229,
+                        44.225645
+                  ]
+            },
+            {
+                  "name": "Čučuk Stana",
+                  "text": "Un monument dedicat eroinei sârbe Čučuk Stana în Negotin.",
+                  "category": "historical",
+                  "coords": [
+                        22.530618,
+                        44.226661
+                  ]
+            },
+            {
+                  "name": "Градски Базен Неготин",
+                  "text": "Piscina municipală din Negotin oferă spațiu pentru înot și relaxare pe timp de vară.",
+                  "category": "family",
+                  "coords": [
+                        22.530171,
+                        44.235046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ORP Bukovo",
+                  "text": "A protected nature reserve located near the town of Negotin.",
+                  "category": "natural",
+                  "coords": [
+                        22.49654,
+                        44.218158
+                  ]
+            },
+            {
+                  "name": "Muzej Hajduk Veljka",
+                  "text": "A museum dedicated to the Serbian hero Hajduk Veljko.",
+                  "category": "museum",
+                  "coords": [
+                        22.528939,
+                        44.226482
+                  ]
+            },
+            {
+                  "name": "Dom kulture „Stevan Mokranjac”",
+                  "text": "A cultural center and performing arts venue in Negotin.",
+                  "category": "cultural",
+                  "coords": [
+                        22.530045,
+                        44.228114
+                  ]
+            },
+            {
+                  "name": "Muzej „Krajina”",
+                  "text": "A regional museum covering the history and archaeology of Negotin.",
+                  "category": "museum",
+                  "coords": [
+                        22.531451,
+                        44.22481
+                  ]
+            },
+            {
+                  "name": "Kuća Stevana Mokranjca",
+                  "text": "The birth house of the famous composer Stevan Mokranjac.",
+                  "category": "museum",
+                  "coords": [
+                        22.530229,
+                        44.225645
+                  ]
+            },
+            {
+                  "name": "Čučuk Stana",
+                  "text": "A monument to the Serbian heroine Čučuk Stana in Negotin.",
+                  "category": "historical",
+                  "coords": [
+                        22.530618,
+                        44.226661
+                  ]
+            },
+            {
+                  "name": "Градски Базен Неготин",
+                  "text": "The city swimming pool in Negotin provides space for swimming and summer relaxation.",
+                  "category": "family",
+                  "coords": [
+                        22.530171,
+                        44.235046
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-005",
     coords: [22.5300, 44.2264],
@@ -642,7 +1020,484 @@ export const serbiaDistrictPoi: POI[] = [
   },
   // RS-006 Zajecarski
   {
-    id: "RS-006-zajecar", "sights": {"de": [{"name": "Istočna tvrđava", "text": "Teil der historischen Verteidigungsanlagen von Zaječar aus dem 19. Jahrhundert.", "category": "fortress", "coords": [22.28581, 43.893945]}, {"name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”", "text": "Das Haupttheater in Zaječar, benannt nach dem legendären serbischen Schauspieler.", "category": "cultural", "coords": [22.274761, 43.901099]}, {"name": "Muzej grada Zaječara", "text": "Ein regionales Museum in Zaječar, das die Geschichte und Archäologie der Region Timok zeigt.", "category": "museum", "coords": [22.278768, 43.903485]}, {"name": "Radul-begov konak", "text": "Ein gut erhaltenes Wohnhaus aus der osmanischen Zeit in Zaječar, das heute als Museum dient.", "category": "museum", "coords": [22.279295, 43.902007]}, {"name": "Istorijski arhiv „Timočka Krajina”", "text": "Dieses Museum in Zaječar bewahrt wichtige historische Dokumente des Timok-Tals auf.", "category": "museum", "coords": [22.270801, 43.902638]}, {"name": "Spomenik Zoranu Radmiloviću", "text": "Ein Denkmal in Zaječar zu Ehren des berühmten, dort geborenen Schauspielers Zoran Radmilović.", "category": "historical", "coords": [22.276525, 43.901381]}, {"name": "Spomen park-šuma „Kraljevica”", "text": "Ein weitläufiger Waldpark in Zaječar, der als beliebtes Erholungs- und Gedenkgebiet dient.", "category": "park", "coords": [22.273296, 43.885183]}, {"name": "Spomenik streljanim žrtvama Timočke bune", "text": "Dieses Denkmal in Zaječar erinnert an den Bauernaufstand gegen den König im Jahr 1883.", "category": "historical", "coords": [22.278652, 43.89467]}, {"name": "Spomenik Nikoli Pašiću", "text": "Ein Denkmal in Zaječar für den bedeutenden serbischen Staatsmann Nikola Pašić.", "category": "historical", "coords": [22.276144, 43.903331]}, {"name": "Hajduk Veljko", "text": "Ein Denkmal zu Ehren von Hajduk Veljko, einem Helden des ersten serbischen Aufstands.", "category": "historical", "coords": [22.286917, 43.90703]}, {"name": "Popova plaža", "text": "Ein Sport- und Erholungszentrum in Zaječar mit Stränden am Fluss Timok.", "category": "recreational", "coords": [22.276548, 43.909344]}, {"name": "Spomenik Vešala", "text": "Ein Denkmal in Zaječar, das an die Opfer des Zweiten Weltkriegs erinnert.", "category": "historical", "coords": [22.264806, 43.889121]}], "hu": [{"name": "Istočna tvrđava", "text": "Zaječar 19. századi történelmi védműveinek része.", "category": "fortress", "coords": [22.28581, 43.893945]}, {"name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”", "text": "Zaječar fő színháza, amelyet a legendás szerb színészről neveztek el.", "category": "cultural", "coords": [22.274761, 43.901099]}, {"name": "Muzej grada Zaječara", "text": "Regionális múzeum Zaječarban, amely a Timok-vidék történelmét és régészetét mutatja be.", "category": "museum", "coords": [22.278768, 43.903485]}, {"name": "Radul-begov konak", "text": "Jó állapotban fennmaradt oszmán kori lakóház Zaječarban, amely ma múzeumként működik.", "category": "museum", "coords": [22.279295, 43.902007]}, {"name": "Istorijski arhiv „Timočka Krajina”", "text": "Ez a zaječari múzeum a Timok-völgy fontos történelmi dokumentumait őrzi.", "category": "museum", "coords": [22.270801, 43.902638]}, {"name": "Spomenik Zoranu Radmiloviću", "text": "Emlékmű Zaječarban a város szülötte, a híres színész, Zoran Radmilović tiszteletére.", "category": "historical", "coords": [22.276525, 43.901381]}, {"name": "Spomen park-šuma „Kraljevica”", "text": "Kiterjedt erdei park Zaječarban, amely népszerű pihenő- és emlékhely.", "category": "park", "coords": [22.273296, 43.885183]}, {"name": "Spomenik streljanim žrtvama Timočke bune", "text": "Ez a zaječari emlékmű az 1883-as királyellenes parasztfelkelésnek állít emléket.", "category": "historical", "coords": [22.278652, 43.89467]}, {"name": "Spomenik Nikoli Pašiću", "text": "Emlékmű Zaječarban a neves szerb államférfi, Nikola Pašić tiszteletére.", "category": "historical", "coords": [22.276144, 43.903331]}, {"name": "Hajduk Veljko", "text": "Emlékmű Hajduk Veljko, az első szerb felkelés hősének tiszteletére.", "category": "historical", "coords": [22.286917, 43.90703]}, {"name": "Popova plaža", "text": "Sport- és üdülőközpont Zaječarban, strandokkal a Timok-folyó partján.", "category": "recreational", "coords": [22.276548, 43.909344]}, {"name": "Spomenik Vešala", "text": "Zaječari emlékmű, amely a második világháború áldozataira emlékeztet.", "category": "historical", "coords": [22.264806, 43.889121]}], "ro": [{"name": "Istočna tvrđava", "text": "Parte a fortificațiilor istorice din secolul al XIX-lea ale orașului Zaječar.", "category": "fortress", "coords": [22.28581, 43.893945]}, {"name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”", "text": "Principalul teatru din Zaječar, numit după legendarul actor sârb.", "category": "cultural", "coords": [22.274761, 43.901099]}, {"name": "Muzej grada Zaječara", "text": "Un muzeu regional din Zaječar, care prezintă istoria și arheologia regiunii Timok.", "category": "museum", "coords": [22.278768, 43.903485]}, {"name": "Radul-begov konak", "text": "O locuință bine conservată din epoca otomană din Zaječar, care servește acum ca muzeu.", "category": "museum", "coords": [22.279295, 43.902007]}, {"name": "Istorijski arhiv „Timočka Krajina”", "text": "Acest muzeu din Zaječar păstrează documente istorice importante ale văii Timok.", "category": "museum", "coords": [22.270801, 43.902638]}, {"name": "Spomenik Zoranu Radmiloviću", "text": "Un monument din Zaječar în onoarea celebrului actor Zoran Radmilović, născut aici.", "category": "historical", "coords": [22.276525, 43.901381]}, {"name": "Spomen park-šuma „Kraljevica”", "text": "Un parc forestier vast în Zaječar, care servește ca zonă populară de recreere și memorial.", "category": "park", "coords": [22.273296, 43.885183]}, {"name": "Spomenik streljanim žrtvama Timočke bune", "text": "Acest monument din Zaječar comemorează revolta țărănească împotriva regelui din 1883.", "category": "historical", "coords": [22.278652, 43.89467]}, {"name": "Spomenik Nikoli Pašiću", "text": "Un monument din Zaječar dedicat proeminentului om de stat sârb Nikola Pašić.", "category": "historical", "coords": [22.276144, 43.903331]}, {"name": "Hajduk Veljko", "text": "Un monument în cinstea lui Hajduk Veljko, un erou al primei răscoale sârbe.", "category": "historical", "coords": [22.286917, 43.90703]}, {"name": "Popova plaža", "text": "Un centru sportiv și de recreere din Zaječar, cu plaje pe râul Timok.", "category": "recreational", "coords": [22.276548, 43.909344]}, {"name": "Spomenik Vešala", "text": "Un monument din Zaječar care amintește de victimele celui de-al Doilea Război Mondial.", "category": "historical", "coords": [22.264806, 43.889121]}], "en": [{"name": "Zaječar Eastern Fortress", "text": "Part of Zaječar's 19th-century historical defensive bastions and fortifications.", "category": "fortress", "coords": [22.28581, 43.893945]}, {"name": "Zoran Radmilović National Theater of Timok Valley", "text": "The main theatre in Zaječar, named after the legendary Serbian actor.", "category": "cultural", "coords": [22.274761, 43.901099]}, {"name": "Muzej grada Zaječara", "text": "A regional museum in Zaječar showcasing the history and archaeology of the Timok Valley.", "category": "museum", "coords": [22.278768, 43.903485]}, {"name": "Radul-Bey's Residence", "text": "A well-preserved Ottoman-era residence in Zaječar that now serves as a museum.", "category": "museum", "coords": [22.279295, 43.902007]}, {"name": "Timok Valley Historical Archive", "text": "This museum in Zaječar preserves important historical documents of the Timok Valley.", "category": "museum", "coords": [22.270801, 43.902638]}, {"name": "Zoran Radmilović Monument", "text": "A monument in Zaječar honoring the famous actor Zoran Radmilović, who was born in the city.", "category": "historical", "coords": [22.276525, 43.901381]}, {"name": "Kraljevica Memorial Park and Forest", "text": "A large forest park in Zaječar that serves as a popular recreational and memorial area.", "category": "park", "coords": [22.273296, 43.885183]}, {"name": "Monument to the Timok Rebellion", "text": "This monument in Zaječar commemorates the 1883 peasant rebellion against the monarchy.", "category": "historical", "coords": [22.278652, 43.89467]}, {"name": "Monument to Nikola Pašić", "text": "A monument in Zaječar dedicated to the prominent Serbian statesman Nikola Pašić.", "category": "historical", "coords": [22.276144, 43.903331]}, {"name": "Hajduk Veljko", "text": "A monument honoring Hajduk Veljko, a hero of the First Serbian Uprising.", "category": "historical", "coords": [22.286917, 43.90703]}, {"name": "Popova plaža", "text": "A sports and recreation center in Zaječar featuring beaches along the Timok River.", "category": "recreational", "coords": [22.276548, 43.909344]}, {"name": "The Gallows Monument", "text": "A monument in Zaječar serving as a memorial for the victims of World War II.", "category": "historical", "coords": [22.264806, 43.889121]}]},
+    id: "RS-006-zajecar", "sights": {
+      "de": [
+            {
+                  "name": "Istočna tvrđava",
+                  "text": "Teil der historischen Verteidigungsanlagen von Zaječar aus dem 19. Jahrhundert.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”",
+                  "text": "Das Haupttheater in Zaječar, benannt nach dem legendären serbischen Schauspieler.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Muzej grada Zaječara",
+                  "text": "Ein regionales Museum in Zaječar, das die Geschichte und Archäologie der Region Timok zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Radul-begov konak",
+                  "text": "Ein gut erhaltenes Wohnhaus aus der osmanischen Zeit in Zaječar, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Istorijski arhiv „Timočka Krajina”",
+                  "text": "Dieses Museum in Zaječar bewahrt wichtige historische Dokumente des Timok-Tals auf.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Spomenik Zoranu Radmiloviću",
+                  "text": "Ein Denkmal in Zaječar zu Ehren des berühmten, dort geborenen Schauspielers Zoran Radmilović.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Spomen park-šuma „Kraljevica”",
+                  "text": "Ein weitläufiger Waldpark in Zaječar, der als beliebtes Erholungs- und Gedenkgebiet dient.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim žrtvama Timočke bune",
+                  "text": "Dieses Denkmal in Zaječar erinnert an den Bauernaufstand gegen den König im Jahr 1883.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Spomenik Nikoli Pašiću",
+                  "text": "Ein Denkmal in Zaječar für den bedeutenden serbischen Staatsmann Nikola Pašić.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "Ein Denkmal zu Ehren von Hajduk Veljko, einem Helden des ersten serbischen Aufstands.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Popova plaža",
+                  "text": "Ein Sport- und Erholungszentrum in Zaječar mit Stränden am Fluss Timok.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "Spomenik Vešala",
+                  "text": "Ein Denkmal in Zaječar, das an die Opfer des Zweiten Weltkriegs erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "Diese Schwimmeinrichtung in Zajecar bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        22.276393,
+                        43.894327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istočna tvrđava",
+                  "text": "Zaječar 19. századi történelmi védműveinek része.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”",
+                  "text": "Zaječar fő színháza, amelyet a legendás szerb színészről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Muzej grada Zaječara",
+                  "text": "Regionális múzeum Zaječarban, amely a Timok-vidék történelmét és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Radul-begov konak",
+                  "text": "Jó állapotban fennmaradt oszmán kori lakóház Zaječarban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Istorijski arhiv „Timočka Krajina”",
+                  "text": "Ez a zaječari múzeum a Timok-völgy fontos történelmi dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Spomenik Zoranu Radmiloviću",
+                  "text": "Emlékmű Zaječarban a város szülötte, a híres színész, Zoran Radmilović tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Spomen park-šuma „Kraljevica”",
+                  "text": "Kiterjedt erdei park Zaječarban, amely népszerű pihenő- és emlékhely.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim žrtvama Timočke bune",
+                  "text": "Ez a zaječari emlékmű az 1883-as királyellenes parasztfelkelésnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Spomenik Nikoli Pašiću",
+                  "text": "Emlékmű Zaječarban a neves szerb államférfi, Nikola Pašić tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "Emlékmű Hajduk Veljko, az első szerb felkelés hősének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Popova plaža",
+                  "text": "Sport- és üdülőközpont Zaječarban, strandokkal a Timok-folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "Spomenik Vešala",
+                  "text": "Zaječari emlékmű, amely a második világháború áldozataira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "Ez a Zajecar városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        22.276393,
+                        43.894327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istočna tvrđava",
+                  "text": "Parte a fortificațiilor istorice din secolul al XIX-lea ale orașului Zaječar.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”",
+                  "text": "Principalul teatru din Zaječar, numit după legendarul actor sârb.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Muzej grada Zaječara",
+                  "text": "Un muzeu regional din Zaječar, care prezintă istoria și arheologia regiunii Timok.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Radul-begov konak",
+                  "text": "O locuință bine conservată din epoca otomană din Zaječar, care servește acum ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Istorijski arhiv „Timočka Krajina”",
+                  "text": "Acest muzeu din Zaječar păstrează documente istorice importante ale văii Timok.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Spomenik Zoranu Radmiloviću",
+                  "text": "Un monument din Zaječar în onoarea celebrului actor Zoran Radmilović, născut aici.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Spomen park-šuma „Kraljevica”",
+                  "text": "Un parc forestier vast în Zaječar, care servește ca zonă populară de recreere și memorial.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim žrtvama Timočke bune",
+                  "text": "Acest monument din Zaječar comemorează revolta țărănească împotriva regelui din 1883.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Spomenik Nikoli Pašiću",
+                  "text": "Un monument din Zaječar dedicat proeminentului om de stat sârb Nikola Pašić.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "Un monument în cinstea lui Hajduk Veljko, un erou al primei răscoale sârbe.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Popova plaža",
+                  "text": "Un centru sportiv și de recreere din Zaječar, cu plaje pe râul Timok.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "Spomenik Vešala",
+                  "text": "Un monument din Zaječar care amintește de victimele celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            },
+            {
+                  "name": "Градски базен",
+                  "text": "Această unitate de înot din Zajecar oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        22.276393,
+                        43.894327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zaječar Eastern Fortress",
+                  "text": "Part of Zaječar's 19th-century historical defensive bastions and fortifications.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Zoran Radmilović National Theater of Timok Valley",
+                  "text": "The main theatre in Zaječar, named after the legendary Serbian actor.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Muzej grada Zaječara",
+                  "text": "A regional museum in Zaječar showcasing the history and archaeology of the Timok Valley.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Radul-Bey's Residence",
+                  "text": "A well-preserved Ottoman-era residence in Zaječar that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Timok Valley Historical Archive",
+                  "text": "This museum in Zaječar preserves important historical documents of the Timok Valley.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Zoran Radmilović Monument",
+                  "text": "A monument in Zaječar honoring the famous actor Zoran Radmilović, who was born in the city.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Kraljevica Memorial Park and Forest",
+                  "text": "A large forest park in Zaječar that serves as a popular recreational and memorial area.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Monument to the Timok Rebellion",
+                  "text": "This monument in Zaječar commemorates the 1883 peasant rebellion against the monarchy.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Monument to Nikola Pašić",
+                  "text": "A monument in Zaječar dedicated to the prominent Serbian statesman Nikola Pašić.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "A monument honoring Hajduk Veljko, a hero of the First Serbian Uprising.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Popova plaža",
+                  "text": "A sports and recreation center in Zaječar featuring beaches along the Timok River.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "The Gallows Monument",
+                  "text": "A monument in Zaječar serving as a memorial for the victims of World War II.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            },
+            {
+                  "name": "City pool",
+                  "text": "This swimming facility in Zajecar offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        22.276393,
+                        43.894327
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-006",
     coords: [22.2800, 43.9000],
@@ -687,7 +1542,448 @@ export const serbiaDistrictPoi: POI[] = [
   },
   // RS-007 Pirotski
   {
-    id: "RS-007-pirot", "sights": {"de": [{"name": "Pirotski grad", "text": "Die Festung Pirot ist eine bedeutende historische Burg- und Festungsanlage in Pirot.", "category": "castle", "coords": [22.581509, 43.159122]}, {"name": "šanac", "text": "Šanac ist ein historisches militärisches Erdwerk oder eine Festungsstruktur in Pirot.", "category": "fortress", "coords": [22.566183, 43.169266]}, {"name": "Muzej Ponišavlja", "text": "Das Museum von Ponišavlje bewahrt und stellt die reiche Kultur- und Regionalgeschichte von Pirot aus.", "category": "museum", "coords": [22.588504, 43.161902]}, {"name": "Spomenik oslobodiocima Pirota od Turaka", "text": "Dieses Denkmal ehrt die Befreier von Pirot von der osmanischen Herrschaft.", "category": "historical", "coords": [22.590858, 43.161276]}, {"name": "Cvet mladosti", "text": "Die Blume der Jugend ist ein Gedenkmonument in der Stadt Pirot.", "category": "historical", "coords": [22.58892, 43.163365]}, {"name": "Spomenik Dragoljubu Milenoviću Grci", "text": "Diese Gedenkstätte in Pirot ist Dragoljub Milenović Grca gewidmet.", "category": "historical", "coords": [22.567283, 43.170335]}, {"name": "Milivoje Manić Albanta", "text": "Dieses lokale Denkmal in Pirot erinnert an Milivoje Manić Albanta.", "category": "historical", "coords": [22.582637, 43.157858]}, {"name": "Trg Pirotskih Oslobodioca", "text": "Der Platz der Befreier von Pirot ist ein zentraler monumentaler Versammlungsort in der Stadt.", "category": "historical", "coords": [22.586712, 43.157394]}, {"name": "Crkva Rođenja Hristovog", "text": "Die Christi-Geburt-Kirche ist eine bekannte religiöse Stätte, die spirituelle Dienste in Pirot anbietet.", "category": "religious", "coords": [22.58747, 43.156455]}, {"name": "Kompenzaciono jezero", "text": "Компензационо језеро ist ein See in Pirot, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [22.606828, 43.14692]}], "hu": [{"name": "Pirotski grad", "text": "A piroti vár egy jelentős történelmi kastély és erődítménykomplexum Pirotban.", "category": "castle", "coords": [22.581509, 43.159122]}, {"name": "šanac", "text": "A Šanac egy történelmi katonai földsánc vagy erődítmény Pirotban.", "category": "fortress", "coords": [22.566183, 43.169266]}, {"name": "Muzej Ponišavlja", "text": "A Ponišavlje Múzeum Pirot gazdag kulturális és regionális történelmét őrzi és mutatja be.", "category": "museum", "coords": [22.588504, 43.161902]}, {"name": "Spomenik oslobodiocima Pirota od Turaka", "text": "Ez az emlékmű Pirot oszmán uralom alóli felszabadítóinak állít emléket.", "category": "historical", "coords": [22.590858, 43.161276]}, {"name": "Cvet mladosti", "text": "Az Ifjúság Virága egy emlékmű Pirot városában.", "category": "historical", "coords": [22.58892, 43.163365]}, {"name": "Spomenik Dragoljubu Milenoviću Grci", "text": "Ez a piroti emlékmű Dragoljub Milenović Grca előtt tiszteleg.", "category": "historical", "coords": [22.567283, 43.170335]}, {"name": "Milivoje Manić Albanta", "text": "Ez a helyi emlékmű Pirotban Milivoje Manić Albantának állít emléket.", "category": "historical", "coords": [22.582637, 43.157858]}, {"name": "Trg Pirotskih Oslobodioca", "text": "A Piroti Felszabadítók tere a város egyik központi, monumentális közösségi tere.", "category": "historical", "coords": [22.586712, 43.157394]}, {"name": "Crkva Rođenja Hristovog", "text": "A Krisztus Születése templom egy neves vallási hely, amely spirituális szolgálatot nyújt Pirotban.", "category": "religious", "coords": [22.58747, 43.156455]}, {"name": "Kompenzaciono jezero", "text": "A Компензационо језеро egy tó Pirot területén, amely alkalmas sétára és a táj élvezetére.", "category": "natural", "coords": [22.606828, 43.14692]}], "ro": [{"name": "Pirotski grad", "text": "Cetatea Pirot este un important castel istoric și complex de fortificații situat în Pirot.", "category": "castle", "coords": [22.581509, 43.159122]}, {"name": "šanac", "text": "Šanac este un terasament militar istoric sau o structură de fortăreață situată în Pirot.", "category": "fortress", "coords": [22.566183, 43.169266]}, {"name": "Muzej Ponišavlja", "text": "Muzeul Ponišavlje păstrează și expune bogata istorie culturală și regională a orașului Pirot.", "category": "museum", "coords": [22.588504, 43.161902]}, {"name": "Spomenik oslobodiocima Pirota od Turaka", "text": "Acest monument îi onorează pe eliberatorii orașului Pirot de sub dominația otomană.", "category": "historical", "coords": [22.590858, 43.161276]}, {"name": "Cvet mladosti", "text": "Floarea Tinereții este un monument comemorativ situat în orașul Pirot.", "category": "historical", "coords": [22.58892, 43.163365]}, {"name": "Spomenik Dragoljubu Milenoviću Grci", "text": "Acest memorial din Pirot îi este dedicat lui Dragoljub Milenović Grca.", "category": "historical", "coords": [22.567283, 43.170335]}, {"name": "Milivoje Manić Albanta", "text": "Acest monument local din Pirot îl comemorează pe Milivoje Manić Albanta.", "category": "historical", "coords": [22.582637, 43.157858]}, {"name": "Trg Pirotskih Oslobodioca", "text": "Piața Eliberatorilor din Pirot este un spațiu central monumental de adunare din oraș.", "category": "historical", "coords": [22.586712, 43.157394]}, {"name": "Crkva Rođenja Hristovog", "text": "Biserica Nașterea lui Hristos este un sit religios renumit care oferă servicii spirituale în Pirot.", "category": "religious", "coords": [22.58747, 43.156455]}, {"name": "Kompenzaciono jezero", "text": "Компензационо језеро este un lac în Pirot, potrivit pentru plimbări și relaxare în natură.", "category": "natural", "coords": [22.606828, 43.14692]}], "en": [{"name": "Pirotski grad", "text": "The Pirot Fortress is a significant historic castle and fortification complex located in Pirot.", "category": "castle", "coords": [22.581509, 43.159122]}, {"name": "šanac", "text": "Šanac is a historic military earthwork or fort structure situated in Pirot.", "category": "fortress", "coords": [22.566183, 43.169266]}, {"name": "Muzej Ponišavlja", "text": "The Museum of Ponišavlje preserves and exhibits the rich cultural and regional history of Pirot.", "category": "museum", "coords": [22.588504, 43.161902]}, {"name": "Spomenik oslobodiocima Pirota od Turaka", "text": "This monument honors the liberators of Pirot from the Ottoman rule.", "category": "historical", "coords": [22.590858, 43.161276]}, {"name": "Cvet mladosti", "text": "The Flower of Youth is a commemorative monument situated in the city of Pirot.", "category": "historical", "coords": [22.58892, 43.163365]}, {"name": "Spomenik Dragoljubu Milenoviću Grci", "text": "This memorial in Pirot is dedicated to Dragoljub Milenović Grca.", "category": "historical", "coords": [22.567283, 43.170335]}, {"name": "Milivoje Manić Albanta", "text": "This local monument in Pirot commemorates Milivoje Manić Albanta.", "category": "historical", "coords": [22.582637, 43.157858]}, {"name": "Trg Pirotskih Oslobodioca", "text": "The Square of Pirot's Liberators is a central monumental gathering space in the city.", "category": "historical", "coords": [22.586712, 43.157394]}, {"name": "Crkva Rođenja Hristovog", "text": "The Church of the Nativity of Christ is a renowned religious site providing spiritual services in Pirot.", "category": "religious", "coords": [22.58747, 43.156455]}, {"name": "Kompenzaciono jezero", "text": "Компензационо језеро is a lake in Pirot suitable for walking and enjoying the scenery.", "category": "natural", "coords": [22.606828, 43.14692]}]},
+    id: "RS-007-pirot", "sights": {
+      "de": [
+            {
+                  "name": "Pirotski grad",
+                  "text": "Die Festung Pirot ist eine bedeutende historische Burg- und Festungsanlage in Pirot.",
+                  "category": "castle",
+                  "coords": [
+                        22.581509,
+                        43.159122
+                  ]
+            },
+            {
+                  "name": "šanac",
+                  "text": "Šanac ist ein historisches militärisches Erdwerk oder eine Festungsstruktur in Pirot.",
+                  "category": "fortress",
+                  "coords": [
+                        22.566183,
+                        43.169266
+                  ]
+            },
+            {
+                  "name": "Muzej Ponišavlja",
+                  "text": "Das Museum von Ponišavlje bewahrt und stellt die reiche Kultur- und Regionalgeschichte von Pirot aus.",
+                  "category": "museum",
+                  "coords": [
+                        22.588504,
+                        43.161902
+                  ]
+            },
+            {
+                  "name": "Spomenik oslobodiocima Pirota od Turaka",
+                  "text": "Dieses Denkmal ehrt die Befreier von Pirot von der osmanischen Herrschaft.",
+                  "category": "historical",
+                  "coords": [
+                        22.590858,
+                        43.161276
+                  ]
+            },
+            {
+                  "name": "Cvet mladosti",
+                  "text": "Die Blume der Jugend ist ein Gedenkmonument in der Stadt Pirot.",
+                  "category": "historical",
+                  "coords": [
+                        22.58892,
+                        43.163365
+                  ]
+            },
+            {
+                  "name": "Spomenik Dragoljubu Milenoviću Grci",
+                  "text": "Diese Gedenkstätte in Pirot ist Dragoljub Milenović Grca gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        22.567283,
+                        43.170335
+                  ]
+            },
+            {
+                  "name": "Milivoje Manić Albanta",
+                  "text": "Dieses lokale Denkmal in Pirot erinnert an Milivoje Manić Albanta.",
+                  "category": "historical",
+                  "coords": [
+                        22.582637,
+                        43.157858
+                  ]
+            },
+            {
+                  "name": "Trg Pirotskih Oslobodioca",
+                  "text": "Der Platz der Befreier von Pirot ist ein zentraler monumentaler Versammlungsort in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        22.586712,
+                        43.157394
+                  ]
+            },
+            {
+                  "name": "Crkva Rođenja Hristovog",
+                  "text": "Die Christi-Geburt-Kirche ist eine bekannte religiöse Stätte, die spirituelle Dienste in Pirot anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        22.58747,
+                        43.156455
+                  ]
+            },
+            {
+                  "name": "Kompenzaciono jezero",
+                  "text": "Компензационо језеро ist ein See in Pirot, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.606828,
+                        43.14692
+                  ]
+            },
+            {
+                  "name": "Градско купалиште Пирот",
+                  "text": "Das Stadtbad in Pirot ist eine Anlage für das Schwimmen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        22.601722,
+                        43.148289
+                  ]
+            },
+            {
+                  "name": "Отворени базен",
+                  "text": "Dieses Freibad in Pirot bietet Bademöglichkeiten an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        22.594815,
+                        43.15276
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pirotski grad",
+                  "text": "A piroti vár egy jelentős történelmi kastély és erődítménykomplexum Pirotban.",
+                  "category": "castle",
+                  "coords": [
+                        22.581509,
+                        43.159122
+                  ]
+            },
+            {
+                  "name": "šanac",
+                  "text": "A Šanac egy történelmi katonai földsánc vagy erődítmény Pirotban.",
+                  "category": "fortress",
+                  "coords": [
+                        22.566183,
+                        43.169266
+                  ]
+            },
+            {
+                  "name": "Muzej Ponišavlja",
+                  "text": "A Ponišavlje Múzeum Pirot gazdag kulturális és regionális történelmét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.588504,
+                        43.161902
+                  ]
+            },
+            {
+                  "name": "Spomenik oslobodiocima Pirota od Turaka",
+                  "text": "Ez az emlékmű Pirot oszmán uralom alóli felszabadítóinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        22.590858,
+                        43.161276
+                  ]
+            },
+            {
+                  "name": "Cvet mladosti",
+                  "text": "Az Ifjúság Virága egy emlékmű Pirot városában.",
+                  "category": "historical",
+                  "coords": [
+                        22.58892,
+                        43.163365
+                  ]
+            },
+            {
+                  "name": "Spomenik Dragoljubu Milenoviću Grci",
+                  "text": "Ez a piroti emlékmű Dragoljub Milenović Grca előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        22.567283,
+                        43.170335
+                  ]
+            },
+            {
+                  "name": "Milivoje Manić Albanta",
+                  "text": "Ez a helyi emlékmű Pirotban Milivoje Manić Albantának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        22.582637,
+                        43.157858
+                  ]
+            },
+            {
+                  "name": "Trg Pirotskih Oslobodioca",
+                  "text": "A Piroti Felszabadítók tere a város egyik központi, monumentális közösségi tere.",
+                  "category": "historical",
+                  "coords": [
+                        22.586712,
+                        43.157394
+                  ]
+            },
+            {
+                  "name": "Crkva Rođenja Hristovog",
+                  "text": "A Krisztus Születése templom egy neves vallási hely, amely spirituális szolgálatot nyújt Pirotban.",
+                  "category": "religious",
+                  "coords": [
+                        22.58747,
+                        43.156455
+                  ]
+            },
+            {
+                  "name": "Kompenzaciono jezero",
+                  "text": "A Компензационо језеро egy tó Pirot területén, amely alkalmas sétára és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        22.606828,
+                        43.14692
+                  ]
+            },
+            {
+                  "name": "Градско купалиште Пирот",
+                  "text": "A piroti városi fürdő egy szabadtéri úszólétesítmény.",
+                  "category": "family",
+                  "coords": [
+                        22.601722,
+                        43.148289
+                  ]
+            },
+            {
+                  "name": "Отворени базен",
+                  "text": "Ez a piroti szabadtéri úszómedence fürdőzési lehetőséget kínál a friss levegőn.",
+                  "category": "family",
+                  "coords": [
+                        22.594815,
+                        43.15276
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pirotski grad",
+                  "text": "Cetatea Pirot este un important castel istoric și complex de fortificații situat în Pirot.",
+                  "category": "castle",
+                  "coords": [
+                        22.581509,
+                        43.159122
+                  ]
+            },
+            {
+                  "name": "šanac",
+                  "text": "Šanac este un terasament militar istoric sau o structură de fortăreață situată în Pirot.",
+                  "category": "fortress",
+                  "coords": [
+                        22.566183,
+                        43.169266
+                  ]
+            },
+            {
+                  "name": "Muzej Ponišavlja",
+                  "text": "Muzeul Ponišavlje păstrează și expune bogata istorie culturală și regională a orașului Pirot.",
+                  "category": "museum",
+                  "coords": [
+                        22.588504,
+                        43.161902
+                  ]
+            },
+            {
+                  "name": "Spomenik oslobodiocima Pirota od Turaka",
+                  "text": "Acest monument îi onorează pe eliberatorii orașului Pirot de sub dominația otomană.",
+                  "category": "historical",
+                  "coords": [
+                        22.590858,
+                        43.161276
+                  ]
+            },
+            {
+                  "name": "Cvet mladosti",
+                  "text": "Floarea Tinereții este un monument comemorativ situat în orașul Pirot.",
+                  "category": "historical",
+                  "coords": [
+                        22.58892,
+                        43.163365
+                  ]
+            },
+            {
+                  "name": "Spomenik Dragoljubu Milenoviću Grci",
+                  "text": "Acest memorial din Pirot îi este dedicat lui Dragoljub Milenović Grca.",
+                  "category": "historical",
+                  "coords": [
+                        22.567283,
+                        43.170335
+                  ]
+            },
+            {
+                  "name": "Milivoje Manić Albanta",
+                  "text": "Acest monument local din Pirot îl comemorează pe Milivoje Manić Albanta.",
+                  "category": "historical",
+                  "coords": [
+                        22.582637,
+                        43.157858
+                  ]
+            },
+            {
+                  "name": "Trg Pirotskih Oslobodioca",
+                  "text": "Piața Eliberatorilor din Pirot este un spațiu central monumental de adunare din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        22.586712,
+                        43.157394
+                  ]
+            },
+            {
+                  "name": "Crkva Rođenja Hristovog",
+                  "text": "Biserica Nașterea lui Hristos este un sit religios renumit care oferă servicii spirituale în Pirot.",
+                  "category": "religious",
+                  "coords": [
+                        22.58747,
+                        43.156455
+                  ]
+            },
+            {
+                  "name": "Kompenzaciono jezero",
+                  "text": "Компензационо језеро este un lac în Pirot, potrivit pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        22.606828,
+                        43.14692
+                  ]
+            },
+            {
+                  "name": "Градско купалиште Пирот",
+                  "text": "Baia municipală din Pirot este o facilitate pentru înot în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.601722,
+                        43.148289
+                  ]
+            },
+            {
+                  "name": "Отворени базен",
+                  "text": "Această piscină în aer liber din Pirot oferă posibilități de baie în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.594815,
+                        43.15276
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirotski grad",
+                  "text": "The Pirot Fortress is a significant historic castle and fortification complex located in Pirot.",
+                  "category": "castle",
+                  "coords": [
+                        22.581509,
+                        43.159122
+                  ]
+            },
+            {
+                  "name": "šanac",
+                  "text": "Šanac is a historic military earthwork or fort structure situated in Pirot.",
+                  "category": "fortress",
+                  "coords": [
+                        22.566183,
+                        43.169266
+                  ]
+            },
+            {
+                  "name": "Muzej Ponišavlja",
+                  "text": "The Museum of Ponišavlje preserves and exhibits the rich cultural and regional history of Pirot.",
+                  "category": "museum",
+                  "coords": [
+                        22.588504,
+                        43.161902
+                  ]
+            },
+            {
+                  "name": "Spomenik oslobodiocima Pirota od Turaka",
+                  "text": "This monument honors the liberators of Pirot from the Ottoman rule.",
+                  "category": "historical",
+                  "coords": [
+                        22.590858,
+                        43.161276
+                  ]
+            },
+            {
+                  "name": "Cvet mladosti",
+                  "text": "The Flower of Youth is a commemorative monument situated in the city of Pirot.",
+                  "category": "historical",
+                  "coords": [
+                        22.58892,
+                        43.163365
+                  ]
+            },
+            {
+                  "name": "Spomenik Dragoljubu Milenoviću Grci",
+                  "text": "This memorial in Pirot is dedicated to Dragoljub Milenović Grca.",
+                  "category": "historical",
+                  "coords": [
+                        22.567283,
+                        43.170335
+                  ]
+            },
+            {
+                  "name": "Milivoje Manić Albanta",
+                  "text": "This local monument in Pirot commemorates Milivoje Manić Albanta.",
+                  "category": "historical",
+                  "coords": [
+                        22.582637,
+                        43.157858
+                  ]
+            },
+            {
+                  "name": "Trg Pirotskih Oslobodioca",
+                  "text": "The Square of Pirot's Liberators is a central monumental gathering space in the city.",
+                  "category": "historical",
+                  "coords": [
+                        22.586712,
+                        43.157394
+                  ]
+            },
+            {
+                  "name": "Crkva Rođenja Hristovog",
+                  "text": "The Church of the Nativity of Christ is a renowned religious site providing spiritual services in Pirot.",
+                  "category": "religious",
+                  "coords": [
+                        22.58747,
+                        43.156455
+                  ]
+            },
+            {
+                  "name": "Kompenzaciono jezero",
+                  "text": "Компензационо језеро is a lake in Pirot suitable for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        22.606828,
+                        43.14692
+                  ]
+            },
+            {
+                  "name": "Градско купалиште Пирот",
+                  "text": "The City Bath in Pirot is an outdoor swimming facility.",
+                  "category": "family",
+                  "coords": [
+                        22.601722,
+                        43.148289
+                  ]
+            },
+            {
+                  "name": "Отворени базен",
+                  "text": "This open-air swimming pool in Pirot provides outdoor bathing facilities.",
+                  "category": "family",
+                  "coords": [
+                        22.594815,
+                        43.15276
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-007",
     coords: [22.5861, 43.1556],
@@ -775,7 +2071,484 @@ export const serbiaDistrictPoi: POI[] = [
   },
   // RS-008 Jablanicki
   {
-    id: "RS-008-leskovac", "sights": {"de": [{"name": "Lokalitet Hisar", "text": "Eine archäologische Fundstätte auf einem Hügel über Leskovac.", "category": "historical", "coords": [21.937814, 42.991372]}, {"name": "Narodno pozorište", "text": "Das städtische Nationaltheater im Zentrum von Leskovac.", "category": "cultural", "coords": [21.948022, 42.993609]}, {"name": "Narodni muzej", "text": "Das Nationalmuseum von Leskovac mit bedeutenden ethnologischen Sammlungen.", "category": "museum", "coords": [21.946485, 42.994197]}, {"name": "Šop-Đokićeva kuća", "text": "Ein historisches Haus im Balkan-Stil, das heute als Museum dient.", "category": "museum", "coords": [21.949301, 42.996789]}, {"name": "Gradska kuća", "text": "Ein Museum, das in einem historischen städtischen Gebäude untergebracht ist.", "category": "museum", "coords": [21.950311, 42.994825]}, {"name": "Aqua Park Atina", "text": "Ein moderner Wasserpark für Freizeitaktivitäten in Leskovac.", "category": "family", "coords": [21.963542, 43.002549]}, {"name": "Spomen-park Revolucije", "text": "Ein von Bogdan Bogdanović entworfener Denkmalpark in Leskovac.", "category": "park", "coords": [21.943073, 42.984718]}, {"name": "Spomenik Oslobodiocima", "text": "Ein Denkmal für die Befreier der Stadt Leskovac.", "category": "historical", "coords": [21.945154, 42.995014]}, {"name": "Spomenik Tomi Zdravkoviću", "text": "Ein Denkmal für den berühmten Sänger Toma Zdravković.", "category": "historical", "coords": [21.944323, 42.996235]}, {"name": "Dečije igralište", "text": "Dieser Kinderspielplatz in Leskovac ist ein fröhlicher Ort, an dem Familien gemeinsam Zeit verbringen können.", "category": "family", "coords": [21.953392, 42.985523]}, {"name": "Dečije igralište Zmajče", "text": "Der Spielplatz Zmajče in Leskovac bietet vielfältige Spielmöglichkeiten für Kinder in einer angenehmen Atmosphäre.", "category": "family", "coords": [21.946381, 42.995293]}, {"name": "Lesko land", "text": "Lesko Land in Leskovac ist ein attraktiver Spielbereich für Kinder, der zum Entdecken und Toben einlädt.", "category": "family", "coords": [21.95897, 43.000628]}], "hu": [{"name": "Lokalitet Hisar", "text": "Régészeti lelőhely a Leskovac feletti dombon.", "category": "historical", "coords": [21.937814, 42.991372]}, {"name": "Narodno pozorište", "text": "A városi Nemzeti Színház Leskovac központjában.", "category": "cultural", "coords": [21.948022, 42.993609]}, {"name": "Narodni muzej", "text": "Leskovaci Nemzeti Múzeum jelentős néprajzi gyűjteményekkel.", "category": "museum", "coords": [21.946485, 42.994197]}, {"name": "Šop-Đokićeva kuća", "text": "Történelmi balkáni stílusú ház, amely ma múzeumként működik.", "category": "museum", "coords": [21.949301, 42.996789]}, {"name": "Gradska kuća", "text": "Történelmi városi épületben elhelyezett múzeum.", "category": "museum", "coords": [21.950311, 42.994825]}, {"name": "Aqua Park Atina", "text": "Modern vízi élménypark Leskovacban.", "category": "family", "coords": [21.963542, 43.002549]}, {"name": "Spomen-park Revolucije", "text": "Bogdan Bogdanović által tervezett emlékpark Leskovacban.", "category": "park", "coords": [21.943073, 42.984718]}, {"name": "Spomenik Oslobodiocima", "text": "Emlékmű Leskovac város felszabadítóinak.", "category": "historical", "coords": [21.945154, 42.995014]}, {"name": "Spomenik Tomi Zdravkoviću", "text": "Emlékmű a híres énekes, Toma Zdravković tiszteletére.", "category": "historical", "coords": [21.944323, 42.996235]}, {"name": "Dečije igralište", "text": "Ez a leskovaci játszótér egy vidám hely, ahol a családok együtt tölthetik az időt.", "category": "family", "coords": [21.953392, 42.985523]}, {"name": "Dečije igralište Zmajče", "text": "A leskovaci Zmajče játszótér változatos játéklehetőségeket kínál a gyermekeknek kellemes környezetben.", "category": "family", "coords": [21.946381, 42.995293]}, {"name": "Lesko land", "text": "A leskovaci Lesko land egy vonzó játszóhely a gyermekek számára, amely felfedezésre és hancúrozásra hív.", "category": "family", "coords": [21.95897, 43.000628]}], "ro": [{"name": "Lokalitet Hisar", "text": "Un sit arheologic situat pe un deal deasupra orașului Leskovac.", "category": "historical", "coords": [21.937814, 42.991372]}, {"name": "Narodno pozorište", "text": "Teatrul Național municipal în centrul orașului Leskovac.", "category": "cultural", "coords": [21.948022, 42.993609]}, {"name": "Narodni muzej", "text": "Muzeul Național din Leskovac cu colecții etnologice importante.", "category": "museum", "coords": [21.946485, 42.994197]}, {"name": "Šop-Đokićeva kuća", "text": "O casă istorică în stil balcanic, care astăzi servește ca muzeu.", "category": "museum", "coords": [21.949301, 42.996789]}, {"name": "Gradska kuća", "text": "Un muzeu găzduit într-o clădire istorică a orașului.", "category": "museum", "coords": [21.950311, 42.994825]}, {"name": "Aqua Park Atina", "text": "Un parc acvatic modern pentru activități de recreere în Leskovac.", "category": "family", "coords": [21.963542, 43.002549]}, {"name": "Spomen-park Revolucije", "text": "Un parc memorial proiectat de Bogdan Bogdanović în Leskovac.", "category": "park", "coords": [21.943073, 42.984718]}, {"name": "Spomenik Oslobodiocima", "text": "Un monument dedicat eliberatorilor orașului Leskovac.", "category": "historical", "coords": [21.945154, 42.995014]}, {"name": "Spomenik Tomi Zdravkoviću", "text": "Un monument dedicat celebrului cântăreț Toma Zdravković.", "category": "historical", "coords": [21.944323, 42.996235]}, {"name": "Dečije igralište", "text": "Acest loc de joacă din Leskovac este un spațiu vesel unde familiile pot petrece timp împreună.", "category": "family", "coords": [21.953392, 42.985523]}, {"name": "Dečije igralište Zmajče", "text": "Locul de joacă Zmajče din Leskovac oferă diverse opțiuni de joacă pentru copii într-o atmosferă plăcută.", "category": "family", "coords": [21.946381, 42.995293]}, {"name": "Lesko land", "text": "Lesko land din Leskovac este o zonă de joacă atractivă pentru copii, care invită la explorare și mișcare.", "category": "family", "coords": [21.95897, 43.000628]}], "en": [{"name": "Lokalitet Hisar", "text": "An archaeological site located on a hill overlooking Leskovac.", "category": "historical", "coords": [21.937814, 42.991372]}, {"name": "Narodno pozorište", "text": "The municipal National Theatre in the center of Leskovac.", "category": "cultural", "coords": [21.948022, 42.993609]}, {"name": "Narodni muzej", "text": "The National Museum of Leskovac featuring important ethnological collections.", "category": "museum", "coords": [21.946485, 42.994197]}, {"name": "Šop-Đokićeva kuća", "text": "A historic Balkan-style house that now serves as a museum.", "category": "museum", "coords": [21.949301, 42.996789]}, {"name": "Gradska kuća", "text": "A museum housed in a historical urban building.", "category": "museum", "coords": [21.950311, 42.994825]}, {"name": "Aqua Park Atina", "text": "A modern water park for leisure activities in Leskovac.", "category": "family", "coords": [21.963542, 43.002549]}, {"name": "Memorial of the Revolution", "text": "A memorial park designed by Bogdan Bogdanović in Leskovac.", "category": "park", "coords": [21.943073, 42.984718]}, {"name": "Spomenik Oslobodiocima", "text": "A monument to the liberators of the city of Leskovac.", "category": "historical", "coords": [21.945154, 42.995014]}, {"name": "Spomenik Tomi Zdravkoviću", "text": "A monument to the famous singer Toma Zdravković.", "category": "historical", "coords": [21.944323, 42.996235]}, {"name": "Dečije igralište", "text": "This children's playground in Leskovac is a cheerful spot where families can spend time together.", "category": "family", "coords": [21.953392, 42.985523]}, {"name": "Dečije igralište Zmajče", "text": "The Zmajče playground in Leskovac offers various play options for children in a pleasant atmosphere.", "category": "family", "coords": [21.946381, 42.995293]}, {"name": "Lesko land", "text": "Lesko land in Leskovac is an attractive play area for children that invites exploration and play.", "category": "family", "coords": [21.95897, 43.000628]}]},
+    id: "RS-008-leskovac", "sights": {
+      "de": [
+            {
+                  "name": "Lokalitet Hisar",
+                  "text": "Eine archäologische Fundstätte auf einem Hügel über Leskovac.",
+                  "category": "historical",
+                  "coords": [
+                        21.937814,
+                        42.991372
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište",
+                  "text": "Das städtische Nationaltheater im Zentrum von Leskovac.",
+                  "category": "cultural",
+                  "coords": [
+                        21.948022,
+                        42.993609
+                  ]
+            },
+            {
+                  "name": "Narodni muzej",
+                  "text": "Das Nationalmuseum von Leskovac mit bedeutenden ethnologischen Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        21.946485,
+                        42.994197
+                  ]
+            },
+            {
+                  "name": "Šop-Đokićeva kuća",
+                  "text": "Ein historisches Haus im Balkan-Stil, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        21.949301,
+                        42.996789
+                  ]
+            },
+            {
+                  "name": "Gradska kuća",
+                  "text": "Ein Museum, das in einem historischen städtischen Gebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.950311,
+                        42.994825
+                  ]
+            },
+            {
+                  "name": "Aqua Park Atina",
+                  "text": "Ein moderner Wasserpark für Freizeitaktivitäten in Leskovac.",
+                  "category": "family",
+                  "coords": [
+                        21.963542,
+                        43.002549
+                  ]
+            },
+            {
+                  "name": "Spomen-park Revolucije",
+                  "text": "Ein von Bogdan Bogdanović entworfener Denkmalpark in Leskovac.",
+                  "category": "park",
+                  "coords": [
+                        21.943073,
+                        42.984718
+                  ]
+            },
+            {
+                  "name": "Spomenik Oslobodiocima",
+                  "text": "Ein Denkmal für die Befreier der Stadt Leskovac.",
+                  "category": "historical",
+                  "coords": [
+                        21.945154,
+                        42.995014
+                  ]
+            },
+            {
+                  "name": "Spomenik Tomi Zdravkoviću",
+                  "text": "Ein Denkmal für den berühmten Sänger Toma Zdravković.",
+                  "category": "historical",
+                  "coords": [
+                        21.944323,
+                        42.996235
+                  ]
+            },
+            {
+                  "name": "Dečije igralište",
+                  "text": "Dieser Kinderspielplatz in Leskovac ist ein fröhlicher Ort, an dem Familien gemeinsam Zeit verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        21.953392,
+                        42.985523
+                  ]
+            },
+            {
+                  "name": "Dečije igralište Zmajče",
+                  "text": "Der Spielplatz Zmajče in Leskovac bietet vielfältige Spielmöglichkeiten für Kinder in einer angenehmen Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        21.946381,
+                        42.995293
+                  ]
+            },
+            {
+                  "name": "Lesko land",
+                  "text": "Lesko Land in Leskovac ist ein attraktiver Spielbereich für Kinder, der zum Entdecken und Toben einlädt.",
+                  "category": "family",
+                  "coords": [
+                        21.95897,
+                        43.000628
+                  ]
+            },
+            {
+                  "name": "SRC Dubočica",
+                  "text": "Dieses Sportzentrum in Leskovac verfügt über ein Schwimmbecken für Erholung und Training.",
+                  "category": "family",
+                  "coords": [
+                        21.951283,
+                        42.977003
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lokalitet Hisar",
+                  "text": "Régészeti lelőhely a Leskovac feletti dombon.",
+                  "category": "historical",
+                  "coords": [
+                        21.937814,
+                        42.991372
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište",
+                  "text": "A városi Nemzeti Színház Leskovac központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        21.948022,
+                        42.993609
+                  ]
+            },
+            {
+                  "name": "Narodni muzej",
+                  "text": "Leskovaci Nemzeti Múzeum jelentős néprajzi gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        21.946485,
+                        42.994197
+                  ]
+            },
+            {
+                  "name": "Šop-Đokićeva kuća",
+                  "text": "Történelmi balkáni stílusú ház, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        21.949301,
+                        42.996789
+                  ]
+            },
+            {
+                  "name": "Gradska kuća",
+                  "text": "Történelmi városi épületben elhelyezett múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.950311,
+                        42.994825
+                  ]
+            },
+            {
+                  "name": "Aqua Park Atina",
+                  "text": "Modern vízi élménypark Leskovacban.",
+                  "category": "family",
+                  "coords": [
+                        21.963542,
+                        43.002549
+                  ]
+            },
+            {
+                  "name": "Spomen-park Revolucije",
+                  "text": "Bogdan Bogdanović által tervezett emlékpark Leskovacban.",
+                  "category": "park",
+                  "coords": [
+                        21.943073,
+                        42.984718
+                  ]
+            },
+            {
+                  "name": "Spomenik Oslobodiocima",
+                  "text": "Emlékmű Leskovac város felszabadítóinak.",
+                  "category": "historical",
+                  "coords": [
+                        21.945154,
+                        42.995014
+                  ]
+            },
+            {
+                  "name": "Spomenik Tomi Zdravkoviću",
+                  "text": "Emlékmű a híres énekes, Toma Zdravković tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        21.944323,
+                        42.996235
+                  ]
+            },
+            {
+                  "name": "Dečije igralište",
+                  "text": "Ez a leskovaci játszótér egy vidám hely, ahol a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        21.953392,
+                        42.985523
+                  ]
+            },
+            {
+                  "name": "Dečije igralište Zmajče",
+                  "text": "A leskovaci Zmajče játszótér változatos játéklehetőségeket kínál a gyermekeknek kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        21.946381,
+                        42.995293
+                  ]
+            },
+            {
+                  "name": "Lesko land",
+                  "text": "A leskovaci Lesko land egy vonzó játszóhely a gyermekek számára, amely felfedezésre és hancúrozásra hív.",
+                  "category": "family",
+                  "coords": [
+                        21.95897,
+                        43.000628
+                  ]
+            },
+            {
+                  "name": "SRC Dubočica",
+                  "text": "Ez a leskovaci sportközpont úszómedencével várja a kikapcsolódni és edzeni vágyókat.",
+                  "category": "family",
+                  "coords": [
+                        21.951283,
+                        42.977003
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lokalitet Hisar",
+                  "text": "Un sit arheologic situat pe un deal deasupra orașului Leskovac.",
+                  "category": "historical",
+                  "coords": [
+                        21.937814,
+                        42.991372
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište",
+                  "text": "Teatrul Național municipal în centrul orașului Leskovac.",
+                  "category": "cultural",
+                  "coords": [
+                        21.948022,
+                        42.993609
+                  ]
+            },
+            {
+                  "name": "Narodni muzej",
+                  "text": "Muzeul Național din Leskovac cu colecții etnologice importante.",
+                  "category": "museum",
+                  "coords": [
+                        21.946485,
+                        42.994197
+                  ]
+            },
+            {
+                  "name": "Šop-Đokićeva kuća",
+                  "text": "O casă istorică în stil balcanic, care astăzi servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        21.949301,
+                        42.996789
+                  ]
+            },
+            {
+                  "name": "Gradska kuća",
+                  "text": "Un muzeu găzduit într-o clădire istorică a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        21.950311,
+                        42.994825
+                  ]
+            },
+            {
+                  "name": "Aqua Park Atina",
+                  "text": "Un parc acvatic modern pentru activități de recreere în Leskovac.",
+                  "category": "family",
+                  "coords": [
+                        21.963542,
+                        43.002549
+                  ]
+            },
+            {
+                  "name": "Spomen-park Revolucije",
+                  "text": "Un parc memorial proiectat de Bogdan Bogdanović în Leskovac.",
+                  "category": "park",
+                  "coords": [
+                        21.943073,
+                        42.984718
+                  ]
+            },
+            {
+                  "name": "Spomenik Oslobodiocima",
+                  "text": "Un monument dedicat eliberatorilor orașului Leskovac.",
+                  "category": "historical",
+                  "coords": [
+                        21.945154,
+                        42.995014
+                  ]
+            },
+            {
+                  "name": "Spomenik Tomi Zdravkoviću",
+                  "text": "Un monument dedicat celebrului cântăreț Toma Zdravković.",
+                  "category": "historical",
+                  "coords": [
+                        21.944323,
+                        42.996235
+                  ]
+            },
+            {
+                  "name": "Dečije igralište",
+                  "text": "Acest loc de joacă din Leskovac este un spațiu vesel unde familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        21.953392,
+                        42.985523
+                  ]
+            },
+            {
+                  "name": "Dečije igralište Zmajče",
+                  "text": "Locul de joacă Zmajče din Leskovac oferă diverse opțiuni de joacă pentru copii într-o atmosferă plăcută.",
+                  "category": "family",
+                  "coords": [
+                        21.946381,
+                        42.995293
+                  ]
+            },
+            {
+                  "name": "Lesko land",
+                  "text": "Lesko land din Leskovac este o zonă de joacă atractivă pentru copii, care invită la explorare și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        21.95897,
+                        43.000628
+                  ]
+            },
+            {
+                  "name": "SRC Dubočica",
+                  "text": "Acest centru sportiv din Leskovac dispune de o piscină pentru recreere și antrenament.",
+                  "category": "family",
+                  "coords": [
+                        21.951283,
+                        42.977003
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lokalitet Hisar",
+                  "text": "An archaeological site located on a hill overlooking Leskovac.",
+                  "category": "historical",
+                  "coords": [
+                        21.937814,
+                        42.991372
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište",
+                  "text": "The municipal National Theatre in the center of Leskovac.",
+                  "category": "cultural",
+                  "coords": [
+                        21.948022,
+                        42.993609
+                  ]
+            },
+            {
+                  "name": "Narodni muzej",
+                  "text": "The National Museum of Leskovac featuring important ethnological collections.",
+                  "category": "museum",
+                  "coords": [
+                        21.946485,
+                        42.994197
+                  ]
+            },
+            {
+                  "name": "Šop-Đokićeva kuća",
+                  "text": "A historic Balkan-style house that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        21.949301,
+                        42.996789
+                  ]
+            },
+            {
+                  "name": "Gradska kuća",
+                  "text": "A museum housed in a historical urban building.",
+                  "category": "museum",
+                  "coords": [
+                        21.950311,
+                        42.994825
+                  ]
+            },
+            {
+                  "name": "Aqua Park Atina",
+                  "text": "A modern water park for leisure activities in Leskovac.",
+                  "category": "family",
+                  "coords": [
+                        21.963542,
+                        43.002549
+                  ]
+            },
+            {
+                  "name": "Memorial of the Revolution",
+                  "text": "A memorial park designed by Bogdan Bogdanović in Leskovac.",
+                  "category": "park",
+                  "coords": [
+                        21.943073,
+                        42.984718
+                  ]
+            },
+            {
+                  "name": "Spomenik Oslobodiocima",
+                  "text": "A monument to the liberators of the city of Leskovac.",
+                  "category": "historical",
+                  "coords": [
+                        21.945154,
+                        42.995014
+                  ]
+            },
+            {
+                  "name": "Spomenik Tomi Zdravkoviću",
+                  "text": "A monument to the famous singer Toma Zdravković.",
+                  "category": "historical",
+                  "coords": [
+                        21.944323,
+                        42.996235
+                  ]
+            },
+            {
+                  "name": "Dečije igralište",
+                  "text": "This children's playground in Leskovac is a cheerful spot where families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        21.953392,
+                        42.985523
+                  ]
+            },
+            {
+                  "name": "Dečije igralište Zmajče",
+                  "text": "The Zmajče playground in Leskovac offers various play options for children in a pleasant atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        21.946381,
+                        42.995293
+                  ]
+            },
+            {
+                  "name": "Lesko land",
+                  "text": "Lesko land in Leskovac is an attractive play area for children that invites exploration and play.",
+                  "category": "family",
+                  "coords": [
+                        21.95897,
+                        43.000628
+                  ]
+            },
+            {
+                  "name": "SRC Dubočica",
+                  "text": "This sports center in Leskovac features a swimming pool for recreation and training.",
+                  "category": "family",
+                  "coords": [
+                        21.951283,
+                        42.977003
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-008",
     coords: [21.9461, 42.9981],
@@ -1084,7 +2857,232 @@ export const serbiaDistrictPoi: POI[] = [
   },
   // RS-012 Zlatiborski
   {
-    id: "RS-012-uzice", "sights": {"de": [{"name": "Stay play", "text": "Stay play ist eine Spielhalle in Uzice, die verschiedene Spiele für Familien bietet.", "category": "family", "coords": [19.841879, 43.857267]}, {"name": "Veliki park", "text": "Велики парк ist ein Spielplatz in Uzice mit Spielgeräten im Freien für Kinder.", "category": "family", "coords": [19.846177, 43.84918]}, {"name": "Galaksija Playroom", "text": "Galaksija Playroom ist eine Spielhalle in Uzice, die sich für Familienunterhaltung eignet.", "category": "family", "coords": [19.835164, 43.854747]}, {"name": "EU Parkić", "text": "ЕУ Паркић ist ein Spielplatz in Uzice mit Einrichtungen zum Spielen für Kinder.", "category": "family", "coords": [19.833169, 43.853822]}, {"name": "Megdan", "text": "Мегдан ist ein Spielplatz in Uzice, der für Outdoor-Aktivitäten von Kindern konzipiert ist.", "category": "family", "coords": [19.840409, 43.855227]}], "hu": [{"name": "Stay play", "text": "A Stay play egy játékterem Uzice városában, amely különféle játékokat kínál családoknak.", "category": "family", "coords": [19.841879, 43.857267]}, {"name": "Veliki park", "text": "A Велики парк egy játszótér Uzice városában, ahol szabadtéri játékok várják a gyerekeket.", "category": "family", "coords": [19.846177, 43.84918]}, {"name": "Galaksija Playroom", "text": "A Galaksija Playroom egy játékterem Uzice városában, amely családi szórakozást kínál.", "category": "family", "coords": [19.835164, 43.854747]}, {"name": "EU Parkić", "text": "Az ЕУ Паркић egy játszótér Uzice városában, ahol a gyerekek játszhatnak.", "category": "family", "coords": [19.833169, 43.853822]}, {"name": "Megdan", "text": "A Мегдан egy játszótér Uzice városában, amelyet a gyerekek szabadtéri tevékenységeihez alakítottak ki.", "category": "family", "coords": [19.840409, 43.855227]}], "ro": [{"name": "Stay play", "text": "Stay play este o sală de jocuri în Uzice, oferind diverse jocuri pentru familii.", "category": "family", "coords": [19.841879, 43.857267]}, {"name": "Veliki park", "text": "Велики парк este un teren de joacă în Uzice, oferind echipamente de joacă în aer liber pentru copii.", "category": "family", "coords": [19.846177, 43.84918]}, {"name": "Galaksija Playroom", "text": "Galaksija Playroom este o sală de jocuri în Uzice, potrivită pentru divertismentul în familie.", "category": "family", "coords": [19.835164, 43.854747]}, {"name": "EU Parkić", "text": "ЕУ Паркић este un teren de joacă în Uzice, dotat cu facilități de joacă pentru copii.", "category": "family", "coords": [19.833169, 43.853822]}, {"name": "Megdan", "text": "Мегдан este un teren de joacă în Uzice, conceput pentru activități în aer liber pentru copii.", "category": "family", "coords": [19.840409, 43.855227]}], "en": [{"name": "Stay play", "text": "Stay play is an amusement arcade in Uzice offering various games for families.", "category": "family", "coords": [19.841879, 43.857267]}, {"name": "Veliki park", "text": "Велики парк is a playground in Uzice providing outdoor play equipment for children.", "category": "family", "coords": [19.846177, 43.84918]}, {"name": "Galaksija Playroom", "text": "Galaksija Playroom is an amusement arcade in Uzice suitable for family entertainment.", "category": "family", "coords": [19.835164, 43.854747]}, {"name": "EU Parkić", "text": "ЕУ Паркић is a playground in Uzice featuring facilities for children to play.", "category": "family", "coords": [19.833169, 43.853822]}, {"name": "Megdan", "text": "Мегдан is a playground in Uzice designed for children's outdoor activities.", "category": "family", "coords": [19.840409, 43.855227]}]},
+    id: "RS-012-uzice", "sights": {
+      "de": [
+            {
+                  "name": "Stay play",
+                  "text": "Stay play ist eine Spielhalle in Uzice, die verschiedene Spiele für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.841879,
+                        43.857267
+                  ]
+            },
+            {
+                  "name": "Veliki park",
+                  "text": "Велики парк ist ein Spielplatz in Uzice mit Spielgeräten im Freien für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.846177,
+                        43.84918
+                  ]
+            },
+            {
+                  "name": "Galaksija Playroom",
+                  "text": "Galaksija Playroom ist eine Spielhalle in Uzice, die sich für Familienunterhaltung eignet.",
+                  "category": "family",
+                  "coords": [
+                        19.835164,
+                        43.854747
+                  ]
+            },
+            {
+                  "name": "EU Parkić",
+                  "text": "ЕУ Паркић ist ein Spielplatz in Uzice mit Einrichtungen zum Spielen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        19.833169,
+                        43.853822
+                  ]
+            },
+            {
+                  "name": "Megdan",
+                  "text": "Мегдан ist ein Spielplatz in Uzice, der für Outdoor-Aktivitäten von Kindern konzipiert ist.",
+                  "category": "family",
+                  "coords": [
+                        19.840409,
+                        43.855227
+                  ]
+            },
+            {
+                  "name": "Градска плажа Ужице",
+                  "text": "Dieses Resort in Uzice bietet einen Ort für Entspannung und wasserbezogene Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        19.832259,
+                        43.852955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stay play",
+                  "text": "A Stay play egy játékterem Uzice városában, amely különféle játékokat kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        19.841879,
+                        43.857267
+                  ]
+            },
+            {
+                  "name": "Veliki park",
+                  "text": "A Велики парк egy játszótér Uzice városában, ahol szabadtéri játékok várják a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        19.846177,
+                        43.84918
+                  ]
+            },
+            {
+                  "name": "Galaksija Playroom",
+                  "text": "A Galaksija Playroom egy játékterem Uzice városában, amely családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        19.835164,
+                        43.854747
+                  ]
+            },
+            {
+                  "name": "EU Parkić",
+                  "text": "Az ЕУ Паркић egy játszótér Uzice városában, ahol a gyerekek játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        19.833169,
+                        43.853822
+                  ]
+            },
+            {
+                  "name": "Megdan",
+                  "text": "A Мегдан egy játszótér Uzice városában, amelyet a gyerekek szabadtéri tevékenységeihez alakítottak ki.",
+                  "category": "family",
+                  "coords": [
+                        19.840409,
+                        43.855227
+                  ]
+            },
+            {
+                  "name": "Градска плажа Ужице",
+                  "text": "Ez a Uzice városában található üdülőhely kikapcsolódást és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        19.832259,
+                        43.852955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stay play",
+                  "text": "Stay play este o sală de jocuri în Uzice, oferind diverse jocuri pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.841879,
+                        43.857267
+                  ]
+            },
+            {
+                  "name": "Veliki park",
+                  "text": "Велики парк este un teren de joacă în Uzice, oferind echipamente de joacă în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.846177,
+                        43.84918
+                  ]
+            },
+            {
+                  "name": "Galaksija Playroom",
+                  "text": "Galaksija Playroom este o sală de jocuri în Uzice, potrivită pentru divertismentul în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.835164,
+                        43.854747
+                  ]
+            },
+            {
+                  "name": "EU Parkić",
+                  "text": "ЕУ Паркић este un teren de joacă în Uzice, dotat cu facilități de joacă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.833169,
+                        43.853822
+                  ]
+            },
+            {
+                  "name": "Megdan",
+                  "text": "Мегдан este un teren de joacă în Uzice, conceput pentru activități în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.840409,
+                        43.855227
+                  ]
+            },
+            {
+                  "name": "Градска плажа Ужице",
+                  "text": "Această stațiune din Uzice oferă un loc pentru relaxare și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        19.832259,
+                        43.852955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stay play",
+                  "text": "Stay play is an amusement arcade in Uzice offering various games for families.",
+                  "category": "family",
+                  "coords": [
+                        19.841879,
+                        43.857267
+                  ]
+            },
+            {
+                  "name": "Veliki park",
+                  "text": "Велики парк is a playground in Uzice providing outdoor play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        19.846177,
+                        43.84918
+                  ]
+            },
+            {
+                  "name": "Galaksija Playroom",
+                  "text": "Galaksija Playroom is an amusement arcade in Uzice suitable for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        19.835164,
+                        43.854747
+                  ]
+            },
+            {
+                  "name": "EU Parkić",
+                  "text": "ЕУ Паркић is a playground in Uzice featuring facilities for children to play.",
+                  "category": "family",
+                  "coords": [
+                        19.833169,
+                        43.853822
+                  ]
+            },
+            {
+                  "name": "Megdan",
+                  "text": "Мегдан is a playground in Uzice designed for children's outdoor activities.",
+                  "category": "family",
+                  "coords": [
+                        19.840409,
+                        43.855227
+                  ]
+            },
+            {
+                  "name": "Градска плажа Ужице",
+                  "text": "This resort in Uzice offers a place for relaxation and water-related activities.",
+                  "category": "family",
+                  "coords": [
+                        19.832259,
+                        43.852955
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-012",
     coords: [19.8425, 43.8586],
@@ -1351,7 +3349,772 @@ export const serbiaDistrictPoi: POI[] = [
   },
   // RS-017 Južno-Banatski
   {
-    id: "RS-017-pancevo", "sights": {"de": [{"name": "Pivara Vajfert", "text": "Die älteste Brauerei auf dem Balkan, heute ein industrielles Kulturdenkmal in Pančevo.", "category": "museum", "coords": [20.639724, 44.868703]}, {"name": "Narodni muzej Pančevo", "text": "Dieses Museum in Pančevo beherbergt bedeutende Sammlungen zur lokalen Geschichte und Archäologie.", "category": "museum", "coords": [20.640401, 44.871686]}, {"name": "Pančevački svetionici", "text": "Zwei einzigartige Leuchttürme an der Mündung der Tamiš in die Donau bei Pančevo.", "category": "landmark", "coords": [20.635072, 44.848675]}, {"name": "Nudistička plaža", "text": "Ein ausgewiesener FKK-Strand in der Nähe von Pančevo für Naturisten.", "category": "recreational", "coords": [20.623598, 44.855639]}, {"name": "Muzej starovremenskih motocikala Pančevo", "text": "Ein Spezialmuseum in Pančevo, das eine Sammlung alter Motorräder ausstellt.", "category": "museum", "coords": [20.636357, 44.876074]}, {"name": "Gradska plaža", "text": "Der städtische Strand am Fluss Tamiš, ein beliebter Ort für Pančevos Einwohner.", "category": "recreational", "coords": [20.63281, 44.870338]}, {"name": "Barutana", "text": "Ein ehemaliges Pulvermagazin, das in einen Park und Kulturraum in Pančevo umgewandelt wurde.", "category": "park", "coords": [20.65918, 44.86626]}, {"name": "Narodna bašta", "text": "Der größte und älteste öffentliche Park in Pančevo, ideal für Spaziergänge.", "category": "park", "coords": [20.655522, 44.864941]}, {"name": "Sveti Florijan", "text": "Ein Denkmal für den Heiligen Florian, den Schutzpatron der Feuerwehrleute, in Pančevo.", "category": "historical", "coords": [20.645721, 44.870179]}, {"name": "Galerija savremene umetnosti", "text": "Eine Galerie in Pančevo, die sich auf zeitgenössische Kunst und Ausstellungen konzentriert.", "category": "museum", "coords": [20.642065, 44.869939]}, {"name": "Spomenik osnivačima gimnazije", "text": "Ein Denkmal in Pančevo zu Ehren der Gründer des örtlichen Gymnasiums.", "category": "historical", "coords": [20.638906, 44.872266]}, {"name": "Kip Svetog Trojstva", "text": "Eine religiöse Skulptur der Heiligen Dreifaltigkeit auf einem öffentlichen Platz in Pančevo.", "category": "historical", "coords": [20.63819, 44.870319]}, {"name": "Spomenik streljanim rodoljubima iz Borče", "text": "Ein Gedenkmal in Pančevo für die im Zweiten Weltkrieg hingerichteten Patrioten aus Borča.", "category": "historical", "coords": [20.636683, 44.869633]}, {"name": "Nadgrobni spomenik borcima iz I svetskog rata i žrtvama fašističkog terora iz II svetskog rata", "text": "Ein Denkmal in Pančevo für die Gefallenen beider Weltkriege.", "category": "historical", "coords": [20.651962, 44.876759]}, {"name": "Spomenik Đorđu Vajfertu", "text": "Die Grabstätte von George Weifert, dem berühmten Industriellen und Gründer der Brauerei.", "category": "historical", "coords": [20.653581, 44.873524]}, {"name": "Dom Omladine „Apolo” Centar", "text": "Ein lebendiges Jugendzentrum in Pančevo, das Konzerte und kulturelle Veranstaltungen ausrichtet.", "category": "cultural", "coords": [20.643465, 44.869016]}, {"name": "Crkva Svetog Preobraženja", "text": "Eine beeindruckende orthodoxe Kirche in Pančevo, bekannt für ihren hohen Glockenturm.", "category": "religious", "coords": [20.631668, 44.877702]}, {"name": "Crkva Svete Ane", "text": "Die katholische Kirche St. Anna ist ein wichtiges religiöses Gebäude in Pančevo.", "category": "religious", "coords": [20.655348, 44.876765]}, {"name": "Peskana", "text": "Peskana ist ein See in Pancevo, der einen malerischen Ort zum Spazierengehen oder Entspannen bietet.", "category": "natural", "coords": [20.660821, 44.879618]}, {"name": "Toplana", "text": "Топлана ist ein Spielplatz in Pancevo, der Raum für Kinder zum Spielen im Freien bietet.", "category": "family", "coords": [20.644191, 44.861922]}], "hu": [{"name": "Pivara Vajfert", "text": "A Balkán legrégebbi sörfőzdéje, ma ipari műemlék Pančevóban.", "category": "museum", "coords": [20.639724, 44.868703]}, {"name": "Narodni muzej Pančevo", "text": "Ez a pančevói múzeum jelentős helytörténeti és régészeti gyűjteményeknek ad otthont.", "category": "museum", "coords": [20.640401, 44.871686]}, {"name": "Pančevački svetionici", "text": "Két egyedülálló világítótorony a Temes Dunába torkollásánál Pančevo közelében.", "category": "landmark", "coords": [20.635072, 44.848675]}, {"name": "Nudistička plaža", "text": "Kijelölt naturista strand Pančevo közelében.", "category": "recreational", "coords": [20.623598, 44.855639]}, {"name": "Muzej starovremenskih motocikala Pančevo", "text": "Speciális múzeum Pančevóban, amely régi motorkerékpárok gyűjteményét mutatja be.", "category": "museum", "coords": [20.636357, 44.876074]}, {"name": "Gradska plaža", "text": "A városi strand a Temes-folyón, Pančevo lakóinak kedvelt helye.", "category": "recreational", "coords": [20.63281, 44.870338]}, {"name": "Barutana", "text": "Egykori lőporraktár, amelyet parkká és kulturális térré alakítottak Pančevóban.", "category": "park", "coords": [20.65918, 44.86626]}, {"name": "Narodna bašta", "text": "Pančevo legnagyobb és legrégebbi nyilvános parkja, ideális sétákhoz.", "category": "park", "coords": [20.655522, 44.864941]}, {"name": "Sveti Florijan", "text": "Szent Flóriánnak, a tűzoltók védőszentjének emlékműve Pančevóban.", "category": "historical", "coords": [20.645721, 44.870179]}, {"name": "Galerija savremene umetnosti", "text": "Pančevói galéria, amely a kortárs művészetre és kiállításokra összpontosít.", "category": "museum", "coords": [20.642065, 44.869939]}, {"name": "Spomenik osnivačima gimnazije", "text": "Emlékmű Pančevóban a helyi gimnázium alapítóinak tiszteletére.", "category": "historical", "coords": [20.638906, 44.872266]}, {"name": "Kip Svetog Trojstva", "text": "A Szentháromság vallási szobra Pančevo egyik közterén.", "category": "historical", "coords": [20.63819, 44.870319]}, {"name": "Spomenik streljanim rodoljubima iz Borče", "text": "Emlékmű Pančevóban a második világháborúban kivégzett borčai patrióták emlékére.", "category": "historical", "coords": [20.636683, 44.869633]}, {"name": "Nadgrobni spomenik borcima iz I svetskog rata i žrtvama fašističkog terora iz II svetskog rata", "text": "Pančevói emlékmű mindkét világháború elesettjeinek emlékére.", "category": "historical", "coords": [20.651962, 44.876759]}, {"name": "Spomenik Đorđu Vajfertu", "text": "George Weifert, a híres iparos és sörfőzdealapító sírhelye.", "category": "historical", "coords": [20.653581, 44.873524]}, {"name": "Dom Omladine „Apolo” Centar", "text": "Pančevo nyüzsgő ifjúsági központja, amely koncerteknek és kulturális eseményeknek ad otthont.", "category": "cultural", "coords": [20.643465, 44.869016]}, {"name": "Crkva Svetog Preobraženja", "text": "Lenyűgöző ortodox templom Pančevóban, amely magas harangtornyáról ismert.", "category": "religious", "coords": [20.631668, 44.877702]}, {"name": "Szent Anna, Szűz Mária édesanyja templom", "text": "A Szent Anna katolikus templom Pančevo egyik fontos vallási épülete.", "category": "religious", "coords": [20.655348, 44.876765]}, {"name": "Peskana", "text": "A Peskana egy tó Pancsova városában, amely festői helyet kínál sétához vagy kikapcsolódáshoz.", "category": "natural", "coords": [20.660821, 44.879618]}, {"name": "Toplana", "text": "A Топлана egy játszótér Pancsova városában, amely helyet biztosít a gyerekeknek a szabadtéri játékhoz.", "category": "family", "coords": [20.644191, 44.861922]}], "ro": [{"name": "Pivara Vajfert", "text": "Cea mai veche berărie din Balcani, astăzi un monument cultural industrial în Pančevo.", "category": "museum", "coords": [20.639724, 44.868703]}, {"name": "Narodni muzej Pančevo", "text": "Acest muzeu din Pančevo găzduiește colecții importante de istorie locală și arheologie.", "category": "museum", "coords": [20.640401, 44.871686]}, {"name": "Pančevački svetionici", "text": "Două faruri unice la vărsarea râului Tamiș în Dunăre, lângă Pančevo.", "category": "landmark", "coords": [20.635072, 44.848675]}, {"name": "Nudistička plaža", "text": "O plajă de nudiști desemnată lângă Pančevo pentru naturiști.", "category": "recreational", "coords": [20.623598, 44.855639]}, {"name": "Muzej starovremenskih motocikala Pančevo", "text": "Un muzeu specializat din Pančevo care expune o colecție de motociclete vechi.", "category": "museum", "coords": [20.636357, 44.876074]}, {"name": "Gradska plaža", "text": "Plaja orașului de pe râul Tamiș, un loc popular pentru locuitorii din Pančevo.", "category": "recreational", "coords": [20.63281, 44.870338]}, {"name": "Barutana", "text": "O fostă magazie de praf de pușcă transformată în parc și spațiu cultural în Pančevo.", "category": "park", "coords": [20.65918, 44.86626]}, {"name": "Narodna bašta", "text": "Cel mai mare și mai vechi parc public din Pančevo, ideal pentru plimbări.", "category": "park", "coords": [20.655522, 44.864941]}, {"name": "Sveti Florijan", "text": "Un monument dedicat Sfântului Florian, patronul pompierilor, în Pančevo.", "category": "historical", "coords": [20.645721, 44.870179]}, {"name": "Galerija savremene umetnosti", "text": "O galerie din Pančevo care se concentrează pe artă contemporană și expoziții.", "category": "museum", "coords": [20.642065, 44.869939]}, {"name": "Spomenik osnivačima gimnazije", "text": "Un monument în Pančevo care onorează fondatorii gimnaziului local.", "category": "historical", "coords": [20.638906, 44.872266]}, {"name": "Kip Svetog Trojstva", "text": "O sculptură religioasă a Sfintei Treimi într-o piață publică din Pančevo.", "category": "historical", "coords": [20.63819, 44.870319]}, {"name": "Spomenik streljanim rodoljubima iz Borče", "text": "Un memorial din Pančevo pentru patrioții din Borča executați în al Doilea Război Mondial.", "category": "historical", "coords": [20.636683, 44.869633]}, {"name": "Nadgrobni spomenik borcima iz I svetskog rata i žrtvama fašističkog terora iz II svetskog rata", "text": "Un monument în Pančevo pentru cei căzuți în ambele războaie mondiale.", "category": "historical", "coords": [20.651962, 44.876759]}, {"name": "Spomenik Đorđu Vajfertu", "text": "Mormântul lui George Weifert, celebrul industriaș și fondator al berăriei.", "category": "historical", "coords": [20.653581, 44.873524]}, {"name": "Dom Omladine „Apolo” Centar", "text": "Un centru de tineret vibrant din Pančevo, care găzduiește concerte și evenimente culturale.", "category": "cultural", "coords": [20.643465, 44.869016]}, {"name": "Crkva Svetog Preobraženja", "text": "O biserică ortodoxă impresionantă din Pančevo, cunoscută pentru clopotnița sa înaltă.", "category": "religious", "coords": [20.631668, 44.877702]}, {"name": "Crkva Svete Ane", "text": "Biserica catolică Sfânta Ana este un edificiu religios important din Pančevo.", "category": "religious", "coords": [20.655348, 44.876765]}, {"name": "Peskana", "text": "Peskana este un lac în Pancevo, oferind un loc pitoresc pentru plimbare sau relaxare.", "category": "natural", "coords": [20.660821, 44.879618]}, {"name": "Toplana", "text": "Топлана este un teren de joacă în Pancevo, oferind spațiu pentru copii să se joace în aer liber.", "category": "family", "coords": [20.644191, 44.861922]}], "en": [{"name": "Weifert Brewery", "text": "The oldest brewery in the Balkans, now an industrial cultural monument in Pančevo.", "category": "museum", "coords": [20.639724, 44.868703]}, {"name": "National Museum of Panchevo", "text": "This museum in Pančevo houses significant local history and archaeology collections.", "category": "museum", "coords": [20.640401, 44.871686]}, {"name": "Pancevo Lighthouses", "text": "Unique twin lighthouses located at the confluence of the Tamiš and Danube rivers.", "category": "landmark", "coords": [20.635072, 44.848675]}, {"name": "Nude beach", "text": "A designated nude beach near Pančevo for naturists.", "category": "recreational", "coords": [20.623598, 44.855639]}, {"name": "Muzej starovremenskih motocikala Pančevo", "text": "A specialized museum in Pančevo exhibiting a collection of vintage motorcycles.", "category": "museum", "coords": [20.636357, 44.876074]}, {"name": "Gradska plaža", "text": "The city beach on the Tamiš River, a popular spot for Pančevo's residents.", "category": "recreational", "coords": [20.63281, 44.870338]}, {"name": "Barutana", "text": "A former gunpowder magazine transformed into a park and cultural space in Pančevo.", "category": "park", "coords": [20.65918, 44.86626]}, {"name": "Narodna bašta", "text": "The largest and oldest public park in Pančevo, ideal for long walks.", "category": "park", "coords": [20.655522, 44.864941]}, {"name": "Sveti Florijan", "text": "A monument to Saint Florian, the patron saint of firefighters, in Pančevo.", "category": "historical", "coords": [20.645721, 44.870179]}, {"name": "Galerija savremene umetnosti", "text": "A gallery in Pančevo focused on contemporary art and exhibitions.", "category": "museum", "coords": [20.642065, 44.869939]}, {"name": "Spomenik osnivačima gimnazije", "text": "A monument in Pančevo honoring the founders of the local gymnasium.", "category": "historical", "coords": [20.638906, 44.872266]}, {"name": "Kip Svetog Trojstva", "text": "A religious sculpture of the Holy Trinity located in a public square in Pančevo.", "category": "historical", "coords": [20.63819, 44.870319]}, {"name": "Spomenik streljanim rodoljubima iz Borče", "text": "A memorial in Pančevo for the patriots from Borča executed during World War II.", "category": "historical", "coords": [20.636683, 44.869633]}, {"name": "Nadgrobni spomenik borcima iz I svetskog rata i žrtvama fašističkog terora iz II svetskog rata", "text": "A monument in Pančevo commemorating the fallen soldiers of both World Wars.", "category": "historical", "coords": [20.651962, 44.876759]}, {"name": "Gravestone of George Weifert", "text": "The final resting place of George Weifert, the famous industrialist and brewery founder.", "category": "historical", "coords": [20.653581, 44.873524]}, {"name": "Dom Omladine „Apolo” Centar", "text": "A vibrant youth center in Pančevo that hosts concerts and cultural events.", "category": "cultural", "coords": [20.643465, 44.869016]}, {"name": "Crkva Svetog Preobraženja", "text": "An impressive Orthodox church in Pančevo, known for its high bell tower.", "category": "religious", "coords": [20.631668, 44.877702]}, {"name": "Crkva Svete Ane", "text": "The Catholic church of Saint Anne is a significant religious building in Pančevo.", "category": "religious", "coords": [20.655348, 44.876765]}, {"name": "Peskana", "text": "Peskana is a lake in Pancevo, offering a scenic spot for a walk or relaxation.", "category": "natural", "coords": [20.660821, 44.879618]}, {"name": "Toplana", "text": "Топлана is a playground in Pancevo providing space for children to play outdoors.", "category": "family", "coords": [20.644191, 44.861922]}]},
+    id: "RS-017-pancevo", "sights": {
+      "de": [
+            {
+                  "name": "Pivara Vajfert",
+                  "text": "Die älteste Brauerei auf dem Balkan, heute ein industrielles Kulturdenkmal in Pančevo.",
+                  "category": "museum",
+                  "coords": [
+                        20.639724,
+                        44.868703
+                  ]
+            },
+            {
+                  "name": "Narodni muzej Pančevo",
+                  "text": "Dieses Museum in Pančevo beherbergt bedeutende Sammlungen zur lokalen Geschichte und Archäologie.",
+                  "category": "museum",
+                  "coords": [
+                        20.640401,
+                        44.871686
+                  ]
+            },
+            {
+                  "name": "Pančevački svetionici",
+                  "text": "Zwei einzigartige Leuchttürme an der Mündung der Tamiš in die Donau bei Pančevo.",
+                  "category": "landmark",
+                  "coords": [
+                        20.635072,
+                        44.848675
+                  ]
+            },
+            {
+                  "name": "Nudistička plaža",
+                  "text": "Ein ausgewiesener FKK-Strand in der Nähe von Pančevo für Naturisten.",
+                  "category": "recreational",
+                  "coords": [
+                        20.623598,
+                        44.855639
+                  ]
+            },
+            {
+                  "name": "Muzej starovremenskih motocikala Pančevo",
+                  "text": "Ein Spezialmuseum in Pančevo, das eine Sammlung alter Motorräder ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        20.636357,
+                        44.876074
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Der städtische Strand am Fluss Tamiš, ein beliebter Ort für Pančevos Einwohner.",
+                  "category": "recreational",
+                  "coords": [
+                        20.63281,
+                        44.870338
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "Ein ehemaliges Pulvermagazin, das in einen Park und Kulturraum in Pančevo umgewandelt wurde.",
+                  "category": "park",
+                  "coords": [
+                        20.65918,
+                        44.86626
+                  ]
+            },
+            {
+                  "name": "Narodna bašta",
+                  "text": "Der größte und älteste öffentliche Park in Pančevo, ideal für Spaziergänge.",
+                  "category": "park",
+                  "coords": [
+                        20.655522,
+                        44.864941
+                  ]
+            },
+            {
+                  "name": "Sveti Florijan",
+                  "text": "Ein Denkmal für den Heiligen Florian, den Schutzpatron der Feuerwehrleute, in Pančevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.645721,
+                        44.870179
+                  ]
+            },
+            {
+                  "name": "Galerija savremene umetnosti",
+                  "text": "Eine Galerie in Pančevo, die sich auf zeitgenössische Kunst und Ausstellungen konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        20.642065,
+                        44.869939
+                  ]
+            },
+            {
+                  "name": "Spomenik osnivačima gimnazije",
+                  "text": "Ein Denkmal in Pančevo zu Ehren der Gründer des örtlichen Gymnasiums.",
+                  "category": "historical",
+                  "coords": [
+                        20.638906,
+                        44.872266
+                  ]
+            },
+            {
+                  "name": "Kip Svetog Trojstva",
+                  "text": "Eine religiöse Skulptur der Heiligen Dreifaltigkeit auf einem öffentlichen Platz in Pančevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.63819,
+                        44.870319
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim rodoljubima iz Borče",
+                  "text": "Ein Gedenkmal in Pančevo für die im Zweiten Weltkrieg hingerichteten Patrioten aus Borča.",
+                  "category": "historical",
+                  "coords": [
+                        20.636683,
+                        44.869633
+                  ]
+            },
+            {
+                  "name": "Nadgrobni spomenik borcima iz I svetskog rata i žrtvama fašističkog terora iz II svetskog rata",
+                  "text": "Ein Denkmal in Pančevo für die Gefallenen beider Weltkriege.",
+                  "category": "historical",
+                  "coords": [
+                        20.651962,
+                        44.876759
+                  ]
+            },
+            {
+                  "name": "Spomenik Đorđu Vajfertu",
+                  "text": "Die Grabstätte von George Weifert, dem berühmten Industriellen und Gründer der Brauerei.",
+                  "category": "historical",
+                  "coords": [
+                        20.653581,
+                        44.873524
+                  ]
+            },
+            {
+                  "name": "Dom Omladine „Apolo” Centar",
+                  "text": "Ein lebendiges Jugendzentrum in Pančevo, das Konzerte und kulturelle Veranstaltungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        20.643465,
+                        44.869016
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Preobraženja",
+                  "text": "Eine beeindruckende orthodoxe Kirche in Pančevo, bekannt für ihren hohen Glockenturm.",
+                  "category": "religious",
+                  "coords": [
+                        20.631668,
+                        44.877702
+                  ]
+            },
+            {
+                  "name": "Crkva Svete Ane",
+                  "text": "Die katholische Kirche St. Anna ist ein wichtiges religiöses Gebäude in Pančevo.",
+                  "category": "religious",
+                  "coords": [
+                        20.655348,
+                        44.876765
+                  ]
+            },
+            {
+                  "name": "Peskana",
+                  "text": "Peskana ist ein See in Pancevo, der einen malerischen Ort zum Spazierengehen oder Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.660821,
+                        44.879618
+                  ]
+            },
+            {
+                  "name": "Toplana",
+                  "text": "Топлана ist ein Spielplatz in Pancevo, der Raum für Kinder zum Spielen im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.644191,
+                        44.861922
+                  ]
+            },
+            {
+                  "name": "Затворени базен",
+                  "text": "Diese Schwimmeinrichtung in Pancevo bietet Platz zum Schwimmen und zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        20.660404,
+                        44.86141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pivara Vajfert",
+                  "text": "A Balkán legrégebbi sörfőzdéje, ma ipari műemlék Pančevóban.",
+                  "category": "museum",
+                  "coords": [
+                        20.639724,
+                        44.868703
+                  ]
+            },
+            {
+                  "name": "Narodni muzej Pančevo",
+                  "text": "Ez a pančevói múzeum jelentős helytörténeti és régészeti gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        20.640401,
+                        44.871686
+                  ]
+            },
+            {
+                  "name": "Pančevački svetionici",
+                  "text": "Két egyedülálló világítótorony a Temes Dunába torkollásánál Pančevo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.635072,
+                        44.848675
+                  ]
+            },
+            {
+                  "name": "Nudistička plaža",
+                  "text": "Kijelölt naturista strand Pančevo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.623598,
+                        44.855639
+                  ]
+            },
+            {
+                  "name": "Muzej starovremenskih motocikala Pančevo",
+                  "text": "Speciális múzeum Pančevóban, amely régi motorkerékpárok gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.636357,
+                        44.876074
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "A városi strand a Temes-folyón, Pančevo lakóinak kedvelt helye.",
+                  "category": "recreational",
+                  "coords": [
+                        20.63281,
+                        44.870338
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "Egykori lőporraktár, amelyet parkká és kulturális térré alakítottak Pančevóban.",
+                  "category": "park",
+                  "coords": [
+                        20.65918,
+                        44.86626
+                  ]
+            },
+            {
+                  "name": "Narodna bašta",
+                  "text": "Pančevo legnagyobb és legrégebbi nyilvános parkja, ideális sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        20.655522,
+                        44.864941
+                  ]
+            },
+            {
+                  "name": "Sveti Florijan",
+                  "text": "Szent Flóriánnak, a tűzoltók védőszentjének emlékműve Pančevóban.",
+                  "category": "historical",
+                  "coords": [
+                        20.645721,
+                        44.870179
+                  ]
+            },
+            {
+                  "name": "Galerija savremene umetnosti",
+                  "text": "Pančevói galéria, amely a kortárs művészetre és kiállításokra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        20.642065,
+                        44.869939
+                  ]
+            },
+            {
+                  "name": "Spomenik osnivačima gimnazije",
+                  "text": "Emlékmű Pančevóban a helyi gimnázium alapítóinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        20.638906,
+                        44.872266
+                  ]
+            },
+            {
+                  "name": "Kip Svetog Trojstva",
+                  "text": "A Szentháromság vallási szobra Pančevo egyik közterén.",
+                  "category": "historical",
+                  "coords": [
+                        20.63819,
+                        44.870319
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim rodoljubima iz Borče",
+                  "text": "Emlékmű Pančevóban a második világháborúban kivégzett borčai patrióták emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        20.636683,
+                        44.869633
+                  ]
+            },
+            {
+                  "name": "Nadgrobni spomenik borcima iz I svetskog rata i žrtvama fašističkog terora iz II svetskog rata",
+                  "text": "Pančevói emlékmű mindkét világháború elesettjeinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        20.651962,
+                        44.876759
+                  ]
+            },
+            {
+                  "name": "Spomenik Đorđu Vajfertu",
+                  "text": "George Weifert, a híres iparos és sörfőzdealapító sírhelye.",
+                  "category": "historical",
+                  "coords": [
+                        20.653581,
+                        44.873524
+                  ]
+            },
+            {
+                  "name": "Dom Omladine „Apolo” Centar",
+                  "text": "Pančevo nyüzsgő ifjúsági központja, amely koncerteknek és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        20.643465,
+                        44.869016
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Preobraženja",
+                  "text": "Lenyűgöző ortodox templom Pančevóban, amely magas harangtornyáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        20.631668,
+                        44.877702
+                  ]
+            },
+            {
+                  "name": "Szent Anna, Szűz Mária édesanyja templom",
+                  "text": "A Szent Anna katolikus templom Pančevo egyik fontos vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        20.655348,
+                        44.876765
+                  ]
+            },
+            {
+                  "name": "Peskana",
+                  "text": "A Peskana egy tó Pancsova városában, amely festői helyet kínál sétához vagy kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        20.660821,
+                        44.879618
+                  ]
+            },
+            {
+                  "name": "Toplana",
+                  "text": "A Топлана egy játszótér Pancsova városában, amely helyet biztosít a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        20.644191,
+                        44.861922
+                  ]
+            },
+            {
+                  "name": "Затворени базен",
+                  "text": "Ez a Pancevo városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        20.660404,
+                        44.86141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pivara Vajfert",
+                  "text": "Cea mai veche berărie din Balcani, astăzi un monument cultural industrial în Pančevo.",
+                  "category": "museum",
+                  "coords": [
+                        20.639724,
+                        44.868703
+                  ]
+            },
+            {
+                  "name": "Narodni muzej Pančevo",
+                  "text": "Acest muzeu din Pančevo găzduiește colecții importante de istorie locală și arheologie.",
+                  "category": "museum",
+                  "coords": [
+                        20.640401,
+                        44.871686
+                  ]
+            },
+            {
+                  "name": "Pančevački svetionici",
+                  "text": "Două faruri unice la vărsarea râului Tamiș în Dunăre, lângă Pančevo.",
+                  "category": "landmark",
+                  "coords": [
+                        20.635072,
+                        44.848675
+                  ]
+            },
+            {
+                  "name": "Nudistička plaža",
+                  "text": "O plajă de nudiști desemnată lângă Pančevo pentru naturiști.",
+                  "category": "recreational",
+                  "coords": [
+                        20.623598,
+                        44.855639
+                  ]
+            },
+            {
+                  "name": "Muzej starovremenskih motocikala Pančevo",
+                  "text": "Un muzeu specializat din Pančevo care expune o colecție de motociclete vechi.",
+                  "category": "museum",
+                  "coords": [
+                        20.636357,
+                        44.876074
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "Plaja orașului de pe râul Tamiș, un loc popular pentru locuitorii din Pančevo.",
+                  "category": "recreational",
+                  "coords": [
+                        20.63281,
+                        44.870338
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "O fostă magazie de praf de pușcă transformată în parc și spațiu cultural în Pančevo.",
+                  "category": "park",
+                  "coords": [
+                        20.65918,
+                        44.86626
+                  ]
+            },
+            {
+                  "name": "Narodna bašta",
+                  "text": "Cel mai mare și mai vechi parc public din Pančevo, ideal pentru plimbări.",
+                  "category": "park",
+                  "coords": [
+                        20.655522,
+                        44.864941
+                  ]
+            },
+            {
+                  "name": "Sveti Florijan",
+                  "text": "Un monument dedicat Sfântului Florian, patronul pompierilor, în Pančevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.645721,
+                        44.870179
+                  ]
+            },
+            {
+                  "name": "Galerija savremene umetnosti",
+                  "text": "O galerie din Pančevo care se concentrează pe artă contemporană și expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        20.642065,
+                        44.869939
+                  ]
+            },
+            {
+                  "name": "Spomenik osnivačima gimnazije",
+                  "text": "Un monument în Pančevo care onorează fondatorii gimnaziului local.",
+                  "category": "historical",
+                  "coords": [
+                        20.638906,
+                        44.872266
+                  ]
+            },
+            {
+                  "name": "Kip Svetog Trojstva",
+                  "text": "O sculptură religioasă a Sfintei Treimi într-o piață publică din Pančevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.63819,
+                        44.870319
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim rodoljubima iz Borče",
+                  "text": "Un memorial din Pančevo pentru patrioții din Borča executați în al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        20.636683,
+                        44.869633
+                  ]
+            },
+            {
+                  "name": "Nadgrobni spomenik borcima iz I svetskog rata i žrtvama fašističkog terora iz II svetskog rata",
+                  "text": "Un monument în Pančevo pentru cei căzuți în ambele războaie mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        20.651962,
+                        44.876759
+                  ]
+            },
+            {
+                  "name": "Spomenik Đorđu Vajfertu",
+                  "text": "Mormântul lui George Weifert, celebrul industriaș și fondator al berăriei.",
+                  "category": "historical",
+                  "coords": [
+                        20.653581,
+                        44.873524
+                  ]
+            },
+            {
+                  "name": "Dom Omladine „Apolo” Centar",
+                  "text": "Un centru de tineret vibrant din Pančevo, care găzduiește concerte și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        20.643465,
+                        44.869016
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Preobraženja",
+                  "text": "O biserică ortodoxă impresionantă din Pančevo, cunoscută pentru clopotnița sa înaltă.",
+                  "category": "religious",
+                  "coords": [
+                        20.631668,
+                        44.877702
+                  ]
+            },
+            {
+                  "name": "Crkva Svete Ane",
+                  "text": "Biserica catolică Sfânta Ana este un edificiu religios important din Pančevo.",
+                  "category": "religious",
+                  "coords": [
+                        20.655348,
+                        44.876765
+                  ]
+            },
+            {
+                  "name": "Peskana",
+                  "text": "Peskana este un lac în Pancevo, oferind un loc pitoresc pentru plimbare sau relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        20.660821,
+                        44.879618
+                  ]
+            },
+            {
+                  "name": "Toplana",
+                  "text": "Топлана este un teren de joacă în Pancevo, oferind spațiu pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        20.644191,
+                        44.861922
+                  ]
+            },
+            {
+                  "name": "Затворени базен",
+                  "text": "Această unitate de înot din Pancevo oferă un loc pentru înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        20.660404,
+                        44.86141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weifert Brewery",
+                  "text": "The oldest brewery in the Balkans, now an industrial cultural monument in Pančevo.",
+                  "category": "museum",
+                  "coords": [
+                        20.639724,
+                        44.868703
+                  ]
+            },
+            {
+                  "name": "National Museum of Panchevo",
+                  "text": "This museum in Pančevo houses significant local history and archaeology collections.",
+                  "category": "museum",
+                  "coords": [
+                        20.640401,
+                        44.871686
+                  ]
+            },
+            {
+                  "name": "Pancevo Lighthouses",
+                  "text": "Unique twin lighthouses located at the confluence of the Tamiš and Danube rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        20.635072,
+                        44.848675
+                  ]
+            },
+            {
+                  "name": "Nude beach",
+                  "text": "A designated nude beach near Pančevo for naturists.",
+                  "category": "recreational",
+                  "coords": [
+                        20.623598,
+                        44.855639
+                  ]
+            },
+            {
+                  "name": "Muzej starovremenskih motocikala Pančevo",
+                  "text": "A specialized museum in Pančevo exhibiting a collection of vintage motorcycles.",
+                  "category": "museum",
+                  "coords": [
+                        20.636357,
+                        44.876074
+                  ]
+            },
+            {
+                  "name": "Gradska plaža",
+                  "text": "The city beach on the Tamiš River, a popular spot for Pančevo's residents.",
+                  "category": "recreational",
+                  "coords": [
+                        20.63281,
+                        44.870338
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "A former gunpowder magazine transformed into a park and cultural space in Pančevo.",
+                  "category": "park",
+                  "coords": [
+                        20.65918,
+                        44.86626
+                  ]
+            },
+            {
+                  "name": "Narodna bašta",
+                  "text": "The largest and oldest public park in Pančevo, ideal for long walks.",
+                  "category": "park",
+                  "coords": [
+                        20.655522,
+                        44.864941
+                  ]
+            },
+            {
+                  "name": "Sveti Florijan",
+                  "text": "A monument to Saint Florian, the patron saint of firefighters, in Pančevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.645721,
+                        44.870179
+                  ]
+            },
+            {
+                  "name": "Galerija savremene umetnosti",
+                  "text": "A gallery in Pančevo focused on contemporary art and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        20.642065,
+                        44.869939
+                  ]
+            },
+            {
+                  "name": "Spomenik osnivačima gimnazije",
+                  "text": "A monument in Pančevo honoring the founders of the local gymnasium.",
+                  "category": "historical",
+                  "coords": [
+                        20.638906,
+                        44.872266
+                  ]
+            },
+            {
+                  "name": "Kip Svetog Trojstva",
+                  "text": "A religious sculpture of the Holy Trinity located in a public square in Pančevo.",
+                  "category": "historical",
+                  "coords": [
+                        20.63819,
+                        44.870319
+                  ]
+            },
+            {
+                  "name": "Spomenik streljanim rodoljubima iz Borče",
+                  "text": "A memorial in Pančevo for the patriots from Borča executed during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        20.636683,
+                        44.869633
+                  ]
+            },
+            {
+                  "name": "Nadgrobni spomenik borcima iz I svetskog rata i žrtvama fašističkog terora iz II svetskog rata",
+                  "text": "A monument in Pančevo commemorating the fallen soldiers of both World Wars.",
+                  "category": "historical",
+                  "coords": [
+                        20.651962,
+                        44.876759
+                  ]
+            },
+            {
+                  "name": "Gravestone of George Weifert",
+                  "text": "The final resting place of George Weifert, the famous industrialist and brewery founder.",
+                  "category": "historical",
+                  "coords": [
+                        20.653581,
+                        44.873524
+                  ]
+            },
+            {
+                  "name": "Dom Omladine „Apolo” Centar",
+                  "text": "A vibrant youth center in Pančevo that hosts concerts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        20.643465,
+                        44.869016
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Preobraženja",
+                  "text": "An impressive Orthodox church in Pančevo, known for its high bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        20.631668,
+                        44.877702
+                  ]
+            },
+            {
+                  "name": "Crkva Svete Ane",
+                  "text": "The Catholic church of Saint Anne is a significant religious building in Pančevo.",
+                  "category": "religious",
+                  "coords": [
+                        20.655348,
+                        44.876765
+                  ]
+            },
+            {
+                  "name": "Peskana",
+                  "text": "Peskana is a lake in Pancevo, offering a scenic spot for a walk or relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        20.660821,
+                        44.879618
+                  ]
+            },
+            {
+                  "name": "Toplana",
+                  "text": "Топлана is a playground in Pancevo providing space for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        20.644191,
+                        44.861922
+                  ]
+            },
+            {
+                  "name": "Затворени базен",
+                  "text": "This swimming facility in Pancevo offers a place for swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        20.660404,
+                        44.86141
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-017",
     coords: [20.6400, 44.8708],

@@ -10248,6 +10248,15 @@ export const polandHistoryV2: POI[] = [
                         18.9024,
                         50.341635
                   ]
+            },
+            {
+                  "name": "Ruiny basenu",
+                  "text": "Diese Stätte in Bytom markiert die Überreste eines historischen Familienschwimmbads.",
+                  "category": "family",
+                  "coords": [
+                        18.956921,
+                        50.325742
+                  ]
             }
       ],
       "hu": [
@@ -10717,6 +10726,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.9024,
                         50.341635
+                  ]
+            },
+            {
+                  "name": "Ruiny basenu",
+                  "text": "Ez a bytoni helyszín egy történelmi családi uszoda maradványait jelzi.",
+                  "category": "family",
+                  "coords": [
+                        18.956921,
+                        50.325742
                   ]
             }
       ],
@@ -11188,6 +11206,15 @@ export const polandHistoryV2: POI[] = [
                         18.9024,
                         50.341635
                   ]
+            },
+            {
+                  "name": "Ruiny basenu",
+                  "text": "Acest sit din Bytom marchează rămășițele unei piscine istorice de familie.",
+                  "category": "family",
+                  "coords": [
+                        18.956921,
+                        50.325742
+                  ]
             }
       ],
       "en": [
@@ -11657,6 +11684,15 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.9024,
                         50.341635
+                  ]
+            },
+            {
+                  "name": "Ruiny basenu",
+                  "text": "This site in Bytom marks the remains of a historic family swimming pool.",
+                  "category": "family",
+                  "coords": [
+                        18.956921,
+                        50.325742
                   ]
             }
       ]

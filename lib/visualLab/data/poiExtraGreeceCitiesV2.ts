@@ -96,7 +96,736 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
     image: "/poi-images/greece-heraklion-cities-v2.webp",
     "sights": {"de": [{"name": "Festung Koules", "text": "Venezianische Festung am Eingang des alten Hafens, erbaut im 16. Jahrhundert zum Schutz der Stadt.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [25.136883, 35.344569]}, {"name": "Palast von Knossos", "text": "Die Ruinen des größten minoischen Palastes und das Zentrum der ersten europäischen Hochkultur.", "category": "famous buildings/residences", "confidence": "high", "coords": [25.163144, 35.297928]}, {"name": "Archäologisches Museum", "text": "Eines der bedeutendsten Museen Europas mit einer weltweit einzigartigen Sammlung minoischer Kunst.", "category": "museums", "confidence": "high", "coords": [25.137419, 35.339138]}, {"name": "Morosini-Brunnen", "text": "Der berühmte Löwenbrunnen im Stadtzentrum, ein Meisterwerk venezianischer Steinmetzkunst von 1628.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [25.133137, 35.339168]}, {"name": "Agios-Minas-Kathedrale", "text": "Eine der größten Kathedralen Griechenlands, gewidmet dem Schutzpatron der Stadt Heraklion.", "category": "churches/cathedrals", "confidence": "high", "coords": [25.130833, 35.3375]}, {"name": "Venezianische Mauern", "text": "Die massiven Verteidigungsmauern umschließen die Altstadt und bieten heute Wege für Spaziergänge.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [25.130661, 35.332707]}, {"name": "Agios-Titos-Kirche", "text": "Historisches Gotteshaus, das im Laufe der Jahrhunderte als byzantinische Kirche und Moschee diente.", "category": "churches/cathedrals", "confidence": "high", "coords": [25.134658, 35.3401]}, {"name": "Historisches Museum von Kreta", "text": "Museum zur Geschichte Kretas, von der frühchristlichen Ära bis zu den Ereignissen des Zweiten Weltkriegs.", "category": "museums", "confidence": "high", "coords": [25.131167, 35.341806]}, {"name": "Bembo-Brunnen", "text": "Der älteste erhaltene venezianische Brunnen der Stadt, reich verziert mit antiken Reliefs und Statuen.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [25.133484, 35.336495]}, {"name": "Heraklion Museum of Ancient Greek Technology Kostas Kotsanas", "text": "Ein Museum in Iraklio, das die technologischen Erfindungen der Antike zeigt.", "category": "museum", "coords": [25.135589, 35.341411]}, {"name": "Moyseio Fysikis Istorias Kritis", "text": "Ein Museum, das der Flora, Fauna und Geologie Kretas gewidmet ist.", "category": "museum", "coords": [25.12671, 35.341907]}, {"name": "Politistiko kentro Irakleioy", "text": "Ein modernes Kulturzentrum in Iraklio, das verschiedene Aufführungen und Veranstaltungen beherbergt.", "category": "cultural", "coords": [25.1296, 35.333974]}, {"name": "Moyseio", "text": "Ein lokales Museum in Iraklio, das kulturelle Exponate ausstellt.", "category": "museum", "coords": [25.131584, 35.33361]}, {"name": "CITY WALLS", "text": "Die historischen venezianischen Stadtmauern umschließen das Zentrum von Iraklio.", "category": "historical", "coords": [25.13602, 35.334811]}, {"name": "Theatrikos Stathmos Irakleioy", "text": "Ein städtisches Theater in Iraklio, das für lokale Kulturveranstaltungen genutzt wird.", "category": "cultural", "coords": [25.139965, 35.340882]}, {"name": "Faros", "text": "Ein markanter Leuchtturm, der den Eingang zum Hafen von Iraklio markiert.", "category": "landmark", "coords": [25.156056, 35.352118]}, {"name": "Luna Park Katerina", "text": "Ein Vergnügungspark in Iraklio, der Freizeitunterhaltung für alle Altersgruppen bietet.", "category": "family", "coords": [25.144247, 35.34085]}, {"name": "Kipotheatro Nikoy Kazantzaki", "text": "Ein Freiluft-Gartentheater in Iraklio, benannt nach dem berühmten Schriftsteller Nikos Kazantzakis.", "category": "cultural", "coords": [25.13384, 35.332753]}, {"name": "Georgiadi-Park", "text": "Eine grüne Oase im Herzen von Iraklio, die als beliebter Erholungsort dient.", "category": "park", "coords": [25.13816, 35.335758]}, {"name": "Pyli Dermata", "text": "Ein historisches Tor der venezianischen Befestigungsanlagen von Iraklio.", "category": "historical", "coords": [25.123096, 35.340544]}, {"name": "Protomi Gioyri Gkagkarin", "text": "Ein Denkmal zu Ehren des ersten Menschen im Weltraum in Iraklio.", "category": "historical", "coords": [25.114821, 35.340726]}, {"name": "Olympic Harmony", "text": "Eine moderne Skulptur in Iraklio, die die olympischen Werte symbolisiert.", "category": "historical", "coords": [25.138441, 35.341437]}, {"name": "Mnimeio Mikrasiaton", "text": "Ein Denkmal in Iraklio, das an die Flüchtlinge aus Kleinasien erinnert.", "category": "historical", "coords": [25.134841, 35.33212]}, {"name": "Armeniki Ekklisia", "text": "Eine historische Kirche in Iraklio, die der armenischen Gemeinde dient.", "category": "landmark", "coords": [25.127933, 35.338257]}, {"name": "Enetiko Limani", "text": "Der malerische alte Hafen von Iraklio ist von venezianischer Architektur geprägt.", "category": "landmark", "coords": [25.135856, 35.34337]}, {"name": "Agios Matthaios Sinaiton", "text": "Eine historische Kirche in Iraklio mit Verbindungen zum Katharinenkloster auf dem Sinai.", "category": "religious", "coords": [25.12976, 35.335509]}, {"name": "Katholische Kirche Heiliger Johannes der Baptist", "text": "Die Hauptkirche der katholischen Gemeinde in Iraklio.", "category": "religious", "coords": [25.13461, 35.341702]}], "hu": [{"name": "Koules erőd", "text": "Velencei erőd a régi kikötő bejáratánál, amelyet a 16. században építettek a város védelmére.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [25.136883, 35.344569]}, {"name": "Knoszoszi palota", "text": "A legnagyobb minószi palota romjai, amely az első európai civilizáció központjaként szolgált.", "category": "famous buildings/residences", "confidence": "high", "coords": [25.163144, 35.297928]}, {"name": "Régészeti Múzeum", "text": "Európa egyik legjelentősebb múzeuma, amely a minószi művészet világszerte egyedülálló gyűjteményét őrzi.", "category": "museums", "confidence": "high", "coords": [25.137419, 35.339138]}, {"name": "Morosini-kút", "text": "A városközpont híres oroszlános kútja, a velencei kőfaragó művészet 1628-ból származó remekműve.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [25.133137, 35.339168]}, {"name": "Agios Minas székesegyház", "text": "Görögország egyik legnagyobb székesegyháza, amelyet Iráklió város védőszentjének szenteltek.", "category": "churches/cathedrals", "confidence": "high", "coords": [25.130833, 35.3375]}, {"name": "Velencei falak", "text": "A masszív védőfalak körülölelik az óvárost, ma pedig kellemes sétányokat kínálnak a látogatóknak.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [25.130661, 35.332707]}, {"name": "Agios Titos templom", "text": "Történelmi templom, amely az évszázadok során bizánci templomként és mecsetként is funkcionált.", "category": "churches/cathedrals", "confidence": "high", "coords": [25.134658, 35.3401]}, {"name": "Krétai Történeti Múzeum", "text": "Kréta történelmét bemutató múzeum a kora keresztény kortól egészen a második világháború eseményeiig.", "category": "museums", "confidence": "high", "coords": [25.131167, 35.341806]}, {"name": "Bembo-kút", "text": "A város legrégebbi fennmaradt velencei kútja, amelyet gazdagon díszítenek antik domborművek és szobrok.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [25.133484, 35.336495]}, {"name": "Heraklion Museum of Ancient Greek Technology Kostas Kotsanas", "text": "Iraklioni múzeum, amely az ókori görög technológiát mutatja be.", "category": "museum", "coords": [25.135589, 35.341411]}, {"name": "Moyseio Fysikis Istorias Kritis", "text": "Kréta növény- és állatvilágának, valamint földtanának szentelt múzeum.", "category": "museum", "coords": [25.12671, 35.341907]}, {"name": "Politistiko kentro Irakleioy", "text": "Iraklio modern kulturális központja, amely számos előadásnak és eseménynek ad otthont.", "category": "cultural", "coords": [25.1296, 35.333974]}, {"name": "Moyseio", "text": "Helyi múzeum Iraklio városában, amely kulturális kiállításokat mutat be.", "category": "museum", "coords": [25.131584, 35.33361]}, {"name": "CITY WALLS", "text": "Iraklio központját körülvevő történelmi velencei városfalak.", "category": "historical", "coords": [25.13602, 35.334811]}, {"name": "Theatrikos Stathmos Irakleioy", "text": "Iraklio városi színháza, amelyet helyi kulturális eseményekre használnak.", "category": "cultural", "coords": [25.139965, 35.340882]}, {"name": "Faros", "text": "Jellegzetes világítótorony, amely Iraklio kikötőjének bejáratát jelzi.", "category": "landmark", "coords": [25.156056, 35.352118]}, {"name": "Luna Park Katerina", "text": "Vidámpark Iraklio városában, amely minden korosztály számára kikapcsolódást nyújt.", "category": "family", "coords": [25.144247, 35.34085]}, {"name": "Kipotheatro Nikoy Kazantzaki", "text": "Szabadtéri kerti színház Iraklióban, amely a híres író, Nikosz Kazandzakisz nevét viseli.", "category": "cultural", "coords": [25.13384, 35.332753]}, {"name": "Parko Georgiadi", "text": "Zöld oázis Iraklio szívében, amely népszerű pihenőhelyként szolgál.", "category": "park", "coords": [25.13816, 35.335758]}, {"name": "Pyli Dermata", "text": "Iraklio velencei erődrendszerének egyik történelmi kapuja.", "category": "historical", "coords": [25.123096, 35.340544]}, {"name": "Protomi Gioyri Gkagkarin", "text": "Emlékmű az űrben járt első ember tiszteletére Iraklióban.", "category": "historical", "coords": [25.114821, 35.340726]}, {"name": "Olympic Harmony", "text": "Modern szobor Iraklióban, amely az olimpiai értékeket jelképezi.", "category": "historical", "coords": [25.138441, 35.341437]}, {"name": "Mnimeio Mikrasiaton", "text": "Emlékmű Iraklióban, amely a kis-ázsiai menekülteknek állít emléket.", "category": "historical", "coords": [25.134841, 35.33212]}, {"name": "Armeniki Ekklisia", "text": "Történelmi templom Iraklióban, amely az örmény közösséget szolgálja.", "category": "landmark", "coords": [25.127933, 35.338257]}, {"name": "Enetiko Limani", "text": "Iraklio festői régi kikötője, amelyet velencei építészet jellemez.", "category": "landmark", "coords": [25.135856, 35.34337]}, {"name": "Agios Matthaios Sinaiton", "text": "Történelmi templom Iraklióban, amely kapcsolatban áll a Sínai-félszigeti Szent Katalin-kolostorral.", "category": "religious", "coords": [25.12976, 35.335509]}, {"name": "Katholiki ekklisia Agioy Ioannoy toy Vaptistoy", "text": "Az irakliói katolikus közösség főtemploma.", "category": "religious", "coords": [25.13461, 35.341702]}], "ro": [{"name": "Cetatea Koules", "text": "Cetate venețiană situată la intrarea în portul vechi, construită în secolul al XVI-lea pentru apărare.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [25.136883, 35.344569]}, {"name": "Palatul Knossos", "text": "Ruinele celui mai mare palat minoic și centrul primei mari civilizații de pe continentul european.", "category": "famous buildings/residences", "confidence": "high", "coords": [25.163144, 35.297928]}, {"name": "Muzeul Arheologic", "text": "Unul dintre cele mai importante muzee din Europa, având o colecție unică de artă minoică din lume.", "category": "museums", "confidence": "high", "coords": [25.137419, 35.339138]}, {"name": "Fântâna Morosini", "text": "Faimoasa fântână cu lei din centrul orașului, o capodoperă a sculpturii venețiene datând din 1628.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [25.133137, 35.339168]}, {"name": "Catedrala Agios Minas", "text": "Una dintre cele mai mari catedrale din Grecia, dedicată Sfântului Mina, protectorul orașului Heraklion.", "category": "churches/cathedrals", "confidence": "high", "coords": [25.130833, 35.3375]}, {"name": "Zidurile venețiene", "text": "Zidurile defensive masive care înconjoară orașul vechi, oferind astăzi trasee pitorești de plimbare.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [25.130661, 35.332707]}, {"name": "Biserica Agios Titos", "text": "Lăcaș de cult istoric care, de-a lungul secolelor, a servit drept biserică bizantină și moschee.", "category": "churches/cathedrals", "confidence": "high", "coords": [25.134658, 35.3401]}, {"name": "Muzeul Istoric al Cretei", "text": "Muzeu dedicat istoriei Cretei, din epoca creștină timpurie până la evenimentele celui de-al Doilea Război Mondial.", "category": "museums", "confidence": "high", "coords": [25.131167, 35.341806]}, {"name": "Fântâna Bembo", "text": "Cea mai veche fântână venețiană păstrată din oraș, decorată bogat cu reliefuri și statui antice.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [25.133484, 35.336495]}, {"name": "Heraklion Museum of Ancient Greek Technology Kostas Kotsanas", "text": "Un muzeu din Iraklio care prezintă tehnologia Greciei antice.", "category": "museum", "coords": [25.135589, 35.341411]}, {"name": "Moyseio Fysikis Istorias Kritis", "text": "Un muzeu dedicat florei, faunei și geologiei insulei Creta.", "category": "museum", "coords": [25.12671, 35.341907]}, {"name": "Politistiko kentro Irakleioy", "text": "Un centru cultural modern din Iraklio, care găzduiește diverse spectacole și evenimente.", "category": "cultural", "coords": [25.1296, 35.333974]}, {"name": "Moyseio", "text": "Un muzeu local din Iraklio care prezintă exponate culturale.", "category": "museum", "coords": [25.131584, 35.33361]}, {"name": "CITY WALLS", "text": "Zidurile venețiene istorice care înconjoară centrul orașului Iraklio.", "category": "historical", "coords": [25.13602, 35.334811]}, {"name": "Theatrikos Stathmos Irakleioy", "text": "Un teatru municipal din Iraklio utilizat pentru evenimente culturale locale.", "category": "cultural", "coords": [25.139965, 35.340882]}, {"name": "Faros", "text": "Un far distinctiv care marchează intrarea în portul din Iraklio.", "category": "landmark", "coords": [25.156056, 35.352118]}, {"name": "Luna Park Katerina", "text": "Un parc de distracții din Iraklio care oferă divertisment pentru toate vârstele.", "category": "family", "coords": [25.144247, 35.34085]}, {"name": "Kipotheatro Nikoy Kazantzaki", "text": "Un teatru de grădină în aer liber din Iraklio, numit după celebrul scriitor Nikos Kazantzakis.", "category": "cultural", "coords": [25.13384, 35.332753]}, {"name": "Parko Georgiadi", "text": "O oază verde în inima orașului Iraklio, care servește drept loc popular de recreere.", "category": "park", "coords": [25.13816, 35.335758]}, {"name": "Pyli Dermata", "text": "O poartă istorică a fortificațiilor venețiene din Iraklio.", "category": "historical", "coords": [25.123096, 35.340544]}, {"name": "Protomi Gioyri Gkagkarin", "text": "Un monument ridicat în cinstea primului om în spațiu, în Iraklio.", "category": "historical", "coords": [25.114821, 35.340726]}, {"name": "Olympic Harmony", "text": "O sculptură modernă în Iraklio care simbolizează valorile olimpice.", "category": "historical", "coords": [25.138441, 35.341437]}, {"name": "Mnimeio Mikrasiaton", "text": "Un monument din Iraklio care comemorează refugiații din Asia Mică.", "category": "historical", "coords": [25.134841, 35.33212]}, {"name": "Armeniki Ekklisia", "text": "O biserică istorică din Iraklio care deservește comunitatea armeană.", "category": "landmark", "coords": [25.127933, 35.338257]}, {"name": "Enetiko Limani", "text": "Portul vechi pitoresc din Iraklio este marcat de arhitectura venețiană.", "category": "landmark", "coords": [25.135856, 35.34337]}, {"name": "Agios Matthaios Sinaiton", "text": "O biserică istorică din Iraklio cu legături către Mănăstirea Sfânta Ecaterina din Sinai.", "category": "religious", "coords": [25.12976, 35.335509]}, {"name": "Katholiki ekklisia Agioy Ioannoy toy Vaptistoy", "text": "Principala biserică a comunității catolice din Iraklio.", "category": "religious", "coords": [25.13461, 35.341702]}], "en": [{"name": "Koules Fortress", "text": "Venetian fortress at the entrance of the old harbor, built in the 16th century to protect the city.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [25.136883, 35.344569]}, {"name": "Knossos Palace", "text": "The ruins of the largest Minoan palace and the center of the first advanced European civilization.", "category": "famous buildings/residences", "confidence": "high", "coords": [25.163144, 35.297928]}, {"name": "Archaeological Museum", "text": "One of Europe's most important museums, housing a globally unique collection of Minoan artifacts.", "category": "museums", "confidence": "high", "coords": [25.137419, 35.339138]}, {"name": "Morosini Fountain", "text": "The famous lion fountain in the city center, a masterpiece of Venetian stonemasonry from 1628.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [25.133137, 35.339168]}, {"name": "Agios Minas Cathedral", "text": "One of the largest cathedrals in Greece, dedicated to Saint Menas, the patron saint of Heraklion.", "category": "churches/cathedrals", "confidence": "high", "coords": [25.130833, 35.3375]}, {"name": "Venetian Walls", "text": "The massive defensive walls encircling the old town, now offering scenic paths for walking and views.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [25.130661, 35.332707]}, {"name": "Agios Titos Church", "text": "Historical place of worship that served as both a Byzantine church and a mosque over the centuries.", "category": "churches/cathedrals", "confidence": "high", "coords": [25.134658, 35.3401]}, {"name": "Historical Museum of Crete", "text": "Museum dedicated to Cretan history, spanning from the early Christian era to the Second World War.", "category": "museums", "confidence": "high", "coords": [25.131167, 35.341806]}, {"name": "Bembo Fountain", "text": "The oldest surviving Venetian fountain in the city, richly decorated with ancient reliefs and statues.", "category": "bridges/monuments/statues", "confidence": "high", "coords": [25.133484, 35.336495]}, {"name": "Heraklion Museum of Ancient Greek Technology Kostas Kotsanas", "text": "A museum in Iraklio showcasing the technological inventions of ancient Greece.", "category": "museum", "coords": [25.135589, 35.341411]}, {"name": "Natural History Museum of Crete", "text": "A museum dedicated to the flora, fauna, and geology of Crete.", "category": "museum", "coords": [25.12671, 35.341907]}, {"name": "Cultural Conference Center of Heraklion", "text": "A modern cultural hub in Iraklio hosting various performances and events.", "category": "cultural", "coords": [25.1296, 35.333974]}, {"name": "Moyseio", "text": "A local museum in Iraklio showcasing cultural exhibits.", "category": "museum", "coords": [25.131584, 35.33361]}, {"name": "CITY WALLS", "text": "The historic Venetian city walls surrounding the center of Iraklio.", "category": "historical", "coords": [25.13602, 35.334811]}, {"name": "Theatrikos Stathmos Irakleioy", "text": "A municipal theatre in Iraklio used for local cultural events.", "category": "cultural", "coords": [25.139965, 35.340882]}, {"name": "Faros", "text": "A distinctive lighthouse marking the entrance to the harbour of Iraklio.", "category": "landmark", "coords": [25.156056, 35.352118]}, {"name": "Luna park", "text": "An amusement park in Iraklio offering recreational entertainment for all ages.", "category": "family", "coords": [25.144247, 35.34085]}, {"name": "Kipotheatro Nikoy Kazantzaki", "text": "An open-air garden theatre in Iraklio named after the famous writer Nikos Kazantzakis.", "category": "cultural", "coords": [25.13384, 35.332753]}, {"name": "Georgiadi Park", "text": "A green oasis in the heart of Iraklio serving as a popular recreational spot.", "category": "park", "coords": [25.13816, 35.335758]}, {"name": "Pyli Dermata", "text": "A historical gate of the Venetian fortifications of Iraklio.", "category": "historical", "coords": [25.123096, 35.340544]}, {"name": "Bust of Yury Gagarin", "text": "A monument in Iraklio honoring the first human in space.", "category": "historical", "coords": [25.114821, 35.340726]}, {"name": "Olympic Harmony", "text": "A modern sculpture in Iraklio symbolizing Olympic values.", "category": "historical", "coords": [25.138441, 35.341437]}, {"name": "Mnimeio Mikrasiaton", "text": "A monument in Iraklio commemorating the refugees from Asia Minor.", "category": "historical", "coords": [25.134841, 35.33212]}, {"name": "Church of Saint George of the Armenians", "text": "A historic church in Iraklio serving the Armenian community.", "category": "landmark", "coords": [25.127933, 35.338257]}, {"name": "Venetian Harbour", "text": "The picturesque old harbour of Iraklio is characterized by Venetian architecture.", "category": "landmark", "coords": [25.135856, 35.34337]}, {"name": "Agios Matthaios Sinaiton", "text": "A historic church in Iraklio with ties to Saint Catherine's Monastery in Sinai.", "category": "religious", "coords": [25.12976, 35.335509]}, {"name": "Catholic church of Saint John the Baptist", "text": "The main church of the Catholic community in Iraklio.", "category": "religious", "coords": [25.13461, 35.341702]}]}
   },  {
-    id: "greece-larissa-cities-v2", "sights": {"de": [{"name": "Moyseio Stratiotikis Ktiniatrikis Ypiresias", "text": "Ein spezialisiertes Museum in Larissa, das der Geschichte des Militärveterinärwesens gewidmet ist.", "category": "museum", "coords": [22.403146, 39.631641]}, {"name": "Mpezesteni Larisas", "text": "Ein historisches osmanisches Marktgebäude in Larissa.", "category": "castle", "coords": [22.415819, 39.641458]}, {"name": "Dimotiki Pinakothiki Larisas – Moyseio G. I. Katsigra", "text": "Die städtische Galerie von Larissa beherbergt die bedeutende Katsigras-Kunstsammlung.", "category": "museum", "coords": [22.399553, 39.622513]}, {"name": "Geni Tzami", "text": "Ein bedeutendes osmanisches Denkmal in Larissa, das ehemals als Moschee diente.", "category": "historical", "coords": [22.419973, 39.639551]}, {"name": "Archaiologikos Choros V' Archaioy Theatroy Larisas", "text": "Die Ruinen des zweiten antiken Theaters von Larissa aus der römischen Zeit.", "category": "historical", "coords": [22.412094, 39.640293]}, {"name": "Mylos toy Pappa", "text": "Eine historische Mühle in Larissa, die heute als Kulturzentrum genutzt wird.", "category": "historical", "coords": [22.417994, 39.643094]}, {"name": "Sidirodromiko Moyseio Larisas", "text": "Ein Museum in Larissa, das die Geschichte der Eisenbahn in der Region dokumentiert.", "category": "museum", "coords": [22.424101, 39.630395]}, {"name": "Pyrgos Charokopoy", "text": "Ein markanter historischer Wohnturm in Larissa.", "category": "castle", "coords": [22.401231, 39.661615]}, {"name": "Moyseio Ethnikis Antistasis", "text": "Ein Museum, das dem griechischen Widerstand während des Zweiten Weltkriegs gewidmet ist.", "category": "museum", "coords": [22.423856, 39.632563]}, {"name": "Kipotheatro Alkazar", "text": "Ein Freilichttheater im Alkazar-Park von Larissa.", "category": "cultural", "coords": [22.41177, 39.643039]}, {"name": "Dimotiko Theatro O.Y.I.L.", "text": "Ein städtisches Theater in Larissa, das als wichtiger Veranstaltungsort dient.", "category": "cultural", "coords": [22.413607, 39.6354]}, {"name": "Palaiochristianika loytra", "text": "Überreste von Badeanlagen aus der frühchristlichen Zeit in Larissa.", "category": "historical", "coords": [22.418962, 39.639508]}, {"name": "A' Archaio Theatro Larisas", "text": "Das große antike Theater von Larissa ist eines der bedeutendsten Denkmäler der Stadt.", "category": "historical", "coords": [22.415278, 39.640394]}, {"name": "Mnimeio Ippokrati", "text": "Ein Denkmal zu Ehren von Hippokrates, dem Vater der Medizin, der in Larissa starb.", "category": "historical", "coords": [22.410258, 39.646174]}, {"name": "Mnimeio Ethnikis Antistasis", "text": "Ein Denkmal in Larissa, das an die Kämpfer des nationalen Widerstands erinnert.", "category": "historical", "coords": [22.411458, 39.644458]}, {"name": "Galliko Institoyto Larisa", "text": "Das französische Kulturinstitut in Larissa fördert den kulturellen Austausch.", "category": "cultural", "coords": [22.41949, 39.637668]}, {"name": "Dichos Omega", "text": "Die Kulturstätte Δίχως Ωμέγα verleiht der griechischen Stadt Larissa eine dynamische Präsenz. Sie fungiert als Zentrum für zeitgenössische Kunst und vielfältige kulturelle Aktivitäten. Gäste können während ihres Besuchs eine Reihe von modernen künstlerischen Veranstaltungen und Ausstellungen erleben.", "category": "cultural", "coords": [22.416936, 39.642123]}, {"name": "Anna Frank", "text": "Ein Denkmal in Larissa, das Anne Frank gewidmet ist.", "category": "historical", "coords": [22.421588, 39.641968]}, {"name": "Daochoy & Katsigra", "text": "Δαόχου & Κατσίγρα ist ein Spielplatz in Larissa, der Platz für spielende Kinder und entspannende Familien bietet.", "category": "family", "coords": [22.398654, 39.620354]}], "hu": [{"name": "Moyseio Stratiotikis Ktiniatrikis Ypiresias", "text": "Larisszai múzeum, amely a katonai állatorvosi szolgálat történetét mutatja be.", "category": "museum", "coords": [22.403146, 39.631641]}, {"name": "Mpezesteni Larisas", "text": "Történelmi oszmán kori fedett piac Larisszában.", "category": "castle", "coords": [22.415819, 39.641458]}, {"name": "Dimotiki Pinakothiki Larisas – Moyseio G. I. Katsigra", "text": "Larissza városi galériája, amely a jelentős Katsigras-művészeti gyűjteménynek ad otthont.", "category": "museum", "coords": [22.399553, 39.622513]}, {"name": "Geni Tzami", "text": "Jelentős oszmán műemlék Larisszában, amely korábban mecsetként működött.", "category": "historical", "coords": [22.419973, 39.639551]}, {"name": "Archaiologikos Choros V' Archaioy Theatroy Larisas", "text": "Larissza második antik színházának romjai a római korból.", "category": "historical", "coords": [22.412094, 39.640293]}, {"name": "Mylos toy Pappa", "text": "Történelmi malom Larisszában, amely ma kulturális központként működik.", "category": "historical", "coords": [22.417994, 39.643094]}, {"name": "Sidirodromiko Moyseio Larisas", "text": "Vasúttörténeti múzeum Larisszában, amely a régió vasútjának fejlődését mutatja be.", "category": "museum", "coords": [22.424101, 39.630395]}, {"name": "Pyrgos Charokopoy", "text": "Jelentős történelmi lakótorony Larissza városában.", "category": "castle", "coords": [22.401231, 39.661615]}, {"name": "Moyseio Ethnikis Antistasis", "text": "A második világháború alatti görög ellenállásnak szentelt múzeum Larisszában.", "category": "museum", "coords": [22.423856, 39.632563]}, {"name": "Kipotheatro Alkazar", "text": "Szabadtéri színház Larissza Alkazar parkjában.", "category": "cultural", "coords": [22.41177, 39.643039]}, {"name": "Dimotiko Theatro O.Y.I.L.", "text": "Larissza városi színháza, amely fontos kulturális rendezvényhelyszín.", "category": "cultural", "coords": [22.413607, 39.6354]}, {"name": "Palaiochristianika loytra", "text": "Kora keresztény korból származó fürdők maradványai Larisszában.", "category": "historical", "coords": [22.418962, 39.639508]}, {"name": "A' Archaio Theatro Larisas", "text": "Larissza nagy antik színháza a város egyik legjelentősebb műemléke.", "category": "historical", "coords": [22.415278, 39.640394]}, {"name": "Mnimeio Ippokrati", "text": "Emlékmű Hippokratész, az orvostudomány atyja tiszteletére, aki Larisszában hunyt el.", "category": "historical", "coords": [22.410258, 39.646174]}, {"name": "Mnimeio Ethnikis Antistasis", "text": "A nemzeti ellenállás harcosainak emléket állító emlékmű Larisszában.", "category": "historical", "coords": [22.411458, 39.644458]}, {"name": "Galliko Institoyto Larisa", "text": "A larisszai Francia Intézet a kulturális kapcsolatokat és nyelvtanulást segíti.", "category": "cultural", "coords": [22.41949, 39.637668]}, {"name": "Dichos Omega", "text": "A Δίχως Ωμέγα néven ismert kulturális helyszín dinamikus jelenlétet hoz a görögországi Lárisza városába. Kortárs művészetnek és különféle kulturális tevékenységeknek szentelt központként működik. A vendégek számos modern művészeti eseményt és kiállítást tapasztalhatnak meg látogatásuk során.", "category": "cultural", "coords": [22.416936, 39.642123]}, {"name": "Anna Frank", "text": "Anne Frank tiszteletére állított emlékmű Larissza városában.", "category": "historical", "coords": [22.421588, 39.641968]}, {"name": "Daochoy & Katsigra", "text": "A Δαόχου & Κατσίγρα egy játszótér Larissában, amely teret kínál a gyerekek játékához és a családok kikapcsolódásához.", "category": "family", "coords": [22.398654, 39.620354]}], "ro": [{"name": "Moyseio Stratiotikis Ktiniatrikis Ypiresias", "text": "Un muzeu specializat din Larissa, dedicat istoriei serviciului veterinar militar.", "category": "museum", "coords": [22.403146, 39.631641]}, {"name": "Mpezesteni Larisas", "text": "O clădire istorică a unei piețe otomane în Larissa.", "category": "castle", "coords": [22.415819, 39.641458]}, {"name": "Dimotiki Pinakothiki Larisas – Moyseio G. I. Katsigra", "text": "Galeria Municipală din Larissa, care găzduiește importanta colecție de artă Katsigras.", "category": "museum", "coords": [22.399553, 39.622513]}, {"name": "Geni Tzami", "text": "Un monument otoman important din Larissa, care a servit anterior ca moschee.", "category": "historical", "coords": [22.419973, 39.639551]}, {"name": "Archaiologikos Choros V' Archaioy Theatroy Larisas", "text": "Ruinele celui de-al doilea teatru antic din Larissa, datând din perioada romană.", "category": "historical", "coords": [22.412094, 39.640293]}, {"name": "Mylos toy Pappa", "text": "O moară istorică din Larissa, utilizată astăzi ca centru cultural.", "category": "historical", "coords": [22.417994, 39.643094]}, {"name": "Sidirodromiko Moyseio Larisas", "text": "Un muzeu din Larissa care documentează istoria căilor ferate din regiune.", "category": "museum", "coords": [22.424101, 39.630395]}, {"name": "Pyrgos Charokopoy", "text": "Un turn istoric proeminent situat în Larissa.", "category": "castle", "coords": [22.401231, 39.661615]}, {"name": "Moyseio Ethnikis Antistasis", "text": "Un muzeu dedicat rezistenței grecești din timpul celui de-al Doilea Război Mondial.", "category": "museum", "coords": [22.423856, 39.632563]}, {"name": "Kipotheatro Alkazar", "text": "Un teatru în aer liber situat în parcul Alkazar din Larissa.", "category": "cultural", "coords": [22.41177, 39.643039]}, {"name": "Dimotiko Theatro O.Y.I.L.", "text": "Un teatru municipal din Larissa care servește ca loc important pentru spectacole.", "category": "cultural", "coords": [22.413607, 39.6354]}, {"name": "Palaiochristianika loytra", "text": "Vestigiile unor băi din perioada paleocreștină în Larissa.", "category": "historical", "coords": [22.418962, 39.639508]}, {"name": "A' Archaio Theatro Larisas", "text": "Marele teatru antic din Larissa este unul dintre cele mai importante monumente ale orașului.", "category": "historical", "coords": [22.415278, 39.640394]}, {"name": "Mnimeio Ippokrati", "text": "Un monument în cinstea lui Hipocrate, părintele medicinei, care a murit în Larissa.", "category": "historical", "coords": [22.410258, 39.646174]}, {"name": "Mnimeio Ethnikis Antistasis", "text": "Un monument în Larissa care comemorează luptătorii rezistenței naționale.", "category": "historical", "coords": [22.411458, 39.644458]}, {"name": "Galliko Institoyto Larisa", "text": "Institutul Francez din Larissa promovează schimburile culturale și educaționale.", "category": "cultural", "coords": [22.41949, 39.637668]}, {"name": "Dichos Omega", "text": "Situl cultural cunoscut sub numele de Δίχως Ωμέγα aduce o prezență dinamică în orașul Larissa din Grecia. Acesta funcționează ca un centru dedicat artei contemporane și diverselor activități culturale. Oaspeții pot experimenta o serie de evenimente și expoziții artistice moderne în timpul vizitei lor.", "category": "cultural", "coords": [22.416936, 39.642123]}, {"name": "Anna Frank", "text": "Un monument situat în Larissa dedicat memoriei Annei Frank.", "category": "historical", "coords": [22.421588, 39.641968]}, {"name": "Daochoy & Katsigra", "text": "Δαόχου & Κατσίγρα este un loc de joacă în Larissa, oferind un spațiu pentru joaca copiilor și relaxarea familiilor.", "category": "family", "coords": [22.398654, 39.620354]}], "en": [{"name": "Moyseio Stratiotikis Ktiniatrikis Ypiresias", "text": "A specialized museum in Larissa dedicated to the history of the military veterinary service.", "category": "museum", "coords": [22.403146, 39.631641]}, {"name": "Bezesteni of Larissa", "text": "A historical Ottoman-era covered market building in Larissa.", "category": "castle", "coords": [22.415819, 39.641458]}, {"name": "Dimotiki Pinakothiki Larisas – Moyseio G. I. Katsigra", "text": "The municipal gallery of Larissa housing the significant Katsigras art collection.", "category": "museum", "coords": [22.399553, 39.622513]}, {"name": "Geni Tzami", "text": "A significant Ottoman monument in Larissa that formerly served as a mosque.", "category": "historical", "coords": [22.419973, 39.639551]}, {"name": "Archaiologikos Choros V' Archaioy Theatroy Larisas", "text": "The ruins of the second ancient theatre of Larissa, dating back to the Roman period.", "category": "historical", "coords": [22.412094, 39.640293]}, {"name": "Mylos toy Pappa", "text": "A historical mill in Larissa now functioning as a cultural center.", "category": "historical", "coords": [22.417994, 39.643094]}, {"name": "Sidirodromiko Moyseio Larisas", "text": "A museum in Larissa documenting the history of the railway in the region.", "category": "museum", "coords": [22.424101, 39.630395]}, {"name": "Pyrgos Charokopoy", "text": "A prominent historical tower building located in Larissa.", "category": "castle", "coords": [22.401231, 39.661615]}, {"name": "Moyseio Ethnikis Antistasis", "text": "A museum dedicated to the Greek resistance during the Second World War.", "category": "museum", "coords": [22.423856, 39.632563]}, {"name": "Kipotheatro Alkazar", "text": "An open-air theatre located in the Alkazar Park of Larissa.", "category": "cultural", "coords": [22.41177, 39.643039]}, {"name": "Dimotiko Theatro O.Y.I.L.", "text": "A municipal theatre in Larissa serving as a key venue for performances.", "category": "cultural", "coords": [22.413607, 39.6354]}, {"name": "Palaiochristianika loytra", "text": "Remains of bath facilities from the early Christian period in Larissa.", "category": "historical", "coords": [22.418962, 39.639508]}, {"name": "A' Archaio Theatro Larisas", "text": "The large ancient theatre of Larissa is one of the city's most significant monuments.", "category": "historical", "coords": [22.415278, 39.640394]}, {"name": "Mnimeio Ippokrati", "text": "A monument honoring Hippocrates, the father of medicine, who died in Larissa.", "category": "historical", "coords": [22.410258, 39.646174]}, {"name": "Mnimeio Ethnikis Antistasis", "text": "A monument in Larissa commemorating the fighters of the national resistance.", "category": "historical", "coords": [22.411458, 39.644458]}, {"name": "French Institute Larissa", "text": "The French Institute in Larissa promotes cultural exchange and education.", "category": "cultural", "coords": [22.41949, 39.637668]}, {"name": "Dichos Omega", "text": "The cultural site known as Δίχως Ωμέγα brings a dynamic presence to the city of Larissa in Greece. It functions as a center dedicated to contemporary art and varied cultural activities. Guests can experience an array of modern artistic events and exhibitions during their visit.", "category": "cultural", "coords": [22.416936, 39.642123]}, {"name": "Anna Frank", "text": "A monument located in Larissa dedicated to the memory of Anne Frank.", "category": "historical", "coords": [22.421588, 39.641968]}, {"name": "Daochoy & Katsigra", "text": "Δαόχου & Κατσίγρα is a playground in Larissa, offering a space for children to play and families to relax.", "category": "family", "coords": [22.398654, 39.620354]}]},
+    id: "greece-larissa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moyseio Stratiotikis Ktiniatrikis Ypiresias",
+                  "text": "Ein spezialisiertes Museum in Larissa, das der Geschichte des Militärveterinärwesens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.403146,
+                        39.631641
+                  ]
+            },
+            {
+                  "name": "Mpezesteni Larisas",
+                  "text": "Ein historisches osmanisches Marktgebäude in Larissa.",
+                  "category": "castle",
+                  "coords": [
+                        22.415819,
+                        39.641458
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki Larisas – Moyseio G. I. Katsigra",
+                  "text": "Die städtische Galerie von Larissa beherbergt die bedeutende Katsigras-Kunstsammlung.",
+                  "category": "museum",
+                  "coords": [
+                        22.399553,
+                        39.622513
+                  ]
+            },
+            {
+                  "name": "Geni Tzami",
+                  "text": "Ein bedeutendes osmanisches Denkmal in Larissa, das ehemals als Moschee diente.",
+                  "category": "historical",
+                  "coords": [
+                        22.419973,
+                        39.639551
+                  ]
+            },
+            {
+                  "name": "Archaiologikos Choros V' Archaioy Theatroy Larisas",
+                  "text": "Die Ruinen des zweiten antiken Theaters von Larissa aus der römischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        22.412094,
+                        39.640293
+                  ]
+            },
+            {
+                  "name": "Mylos toy Pappa",
+                  "text": "Eine historische Mühle in Larissa, die heute als Kulturzentrum genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        22.417994,
+                        39.643094
+                  ]
+            },
+            {
+                  "name": "Sidirodromiko Moyseio Larisas",
+                  "text": "Ein Museum in Larissa, das die Geschichte der Eisenbahn in der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.424101,
+                        39.630395
+                  ]
+            },
+            {
+                  "name": "Pyrgos Charokopoy",
+                  "text": "Ein markanter historischer Wohnturm in Larissa.",
+                  "category": "castle",
+                  "coords": [
+                        22.401231,
+                        39.661615
+                  ]
+            },
+            {
+                  "name": "Moyseio Ethnikis Antistasis",
+                  "text": "Ein Museum, das dem griechischen Widerstand während des Zweiten Weltkriegs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.423856,
+                        39.632563
+                  ]
+            },
+            {
+                  "name": "Kipotheatro Alkazar",
+                  "text": "Ein Freilichttheater im Alkazar-Park von Larissa.",
+                  "category": "cultural",
+                  "coords": [
+                        22.41177,
+                        39.643039
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro O.Y.I.L.",
+                  "text": "Ein städtisches Theater in Larissa, das als wichtiger Veranstaltungsort dient.",
+                  "category": "cultural",
+                  "coords": [
+                        22.413607,
+                        39.6354
+                  ]
+            },
+            {
+                  "name": "Palaiochristianika loytra",
+                  "text": "Überreste von Badeanlagen aus der frühchristlichen Zeit in Larissa.",
+                  "category": "historical",
+                  "coords": [
+                        22.418962,
+                        39.639508
+                  ]
+            },
+            {
+                  "name": "A' Archaio Theatro Larisas",
+                  "text": "Das große antike Theater von Larissa ist eines der bedeutendsten Denkmäler der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        22.415278,
+                        39.640394
+                  ]
+            },
+            {
+                  "name": "Mnimeio Ippokrati",
+                  "text": "Ein Denkmal zu Ehren von Hippokrates, dem Vater der Medizin, der in Larissa starb.",
+                  "category": "historical",
+                  "coords": [
+                        22.410258,
+                        39.646174
+                  ]
+            },
+            {
+                  "name": "Mnimeio Ethnikis Antistasis",
+                  "text": "Ein Denkmal in Larissa, das an die Kämpfer des nationalen Widerstands erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        22.411458,
+                        39.644458
+                  ]
+            },
+            {
+                  "name": "Galliko Institoyto Larisa",
+                  "text": "Das französische Kulturinstitut in Larissa fördert den kulturellen Austausch.",
+                  "category": "cultural",
+                  "coords": [
+                        22.41949,
+                        39.637668
+                  ]
+            },
+            {
+                  "name": "Dichos Omega",
+                  "text": "Die Kulturstätte Δίχως Ωμέγα verleiht der griechischen Stadt Larissa eine dynamische Präsenz. Sie fungiert als Zentrum für zeitgenössische Kunst und vielfältige kulturelle Aktivitäten. Gäste können während ihres Besuchs eine Reihe von modernen künstlerischen Veranstaltungen und Ausstellungen erleben.",
+                  "category": "cultural",
+                  "coords": [
+                        22.416936,
+                        39.642123
+                  ]
+            },
+            {
+                  "name": "Anna Frank",
+                  "text": "Ein Denkmal in Larissa, das Anne Frank gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.421588,
+                        39.641968
+                  ]
+            },
+            {
+                  "name": "Daochoy & Katsigra",
+                  "text": "Δαόχου & Κατσίγρα ist ein Spielplatz in Larissa, der Platz für spielende Kinder und entspannende Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        22.398654,
+                        39.620354
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο",
+                  "text": "Ein städtisches Schwimmbad in Larissa, das der Öffentlichkeit für Sport und Freizeit offen steht.",
+                  "category": "family",
+                  "coords": [
+                        22.416274,
+                        39.621603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moyseio Stratiotikis Ktiniatrikis Ypiresias",
+                  "text": "Larisszai múzeum, amely a katonai állatorvosi szolgálat történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.403146,
+                        39.631641
+                  ]
+            },
+            {
+                  "name": "Mpezesteni Larisas",
+                  "text": "Történelmi oszmán kori fedett piac Larisszában.",
+                  "category": "castle",
+                  "coords": [
+                        22.415819,
+                        39.641458
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki Larisas – Moyseio G. I. Katsigra",
+                  "text": "Larissza városi galériája, amely a jelentős Katsigras-művészeti gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        22.399553,
+                        39.622513
+                  ]
+            },
+            {
+                  "name": "Geni Tzami",
+                  "text": "Jelentős oszmán műemlék Larisszában, amely korábban mecsetként működött.",
+                  "category": "historical",
+                  "coords": [
+                        22.419973,
+                        39.639551
+                  ]
+            },
+            {
+                  "name": "Archaiologikos Choros V' Archaioy Theatroy Larisas",
+                  "text": "Larissza második antik színházának romjai a római korból.",
+                  "category": "historical",
+                  "coords": [
+                        22.412094,
+                        39.640293
+                  ]
+            },
+            {
+                  "name": "Mylos toy Pappa",
+                  "text": "Történelmi malom Larisszában, amely ma kulturális központként működik.",
+                  "category": "historical",
+                  "coords": [
+                        22.417994,
+                        39.643094
+                  ]
+            },
+            {
+                  "name": "Sidirodromiko Moyseio Larisas",
+                  "text": "Vasúttörténeti múzeum Larisszában, amely a régió vasútjának fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.424101,
+                        39.630395
+                  ]
+            },
+            {
+                  "name": "Pyrgos Charokopoy",
+                  "text": "Jelentős történelmi lakótorony Larissza városában.",
+                  "category": "castle",
+                  "coords": [
+                        22.401231,
+                        39.661615
+                  ]
+            },
+            {
+                  "name": "Moyseio Ethnikis Antistasis",
+                  "text": "A második világháború alatti görög ellenállásnak szentelt múzeum Larisszában.",
+                  "category": "museum",
+                  "coords": [
+                        22.423856,
+                        39.632563
+                  ]
+            },
+            {
+                  "name": "Kipotheatro Alkazar",
+                  "text": "Szabadtéri színház Larissza Alkazar parkjában.",
+                  "category": "cultural",
+                  "coords": [
+                        22.41177,
+                        39.643039
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro O.Y.I.L.",
+                  "text": "Larissza városi színháza, amely fontos kulturális rendezvényhelyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        22.413607,
+                        39.6354
+                  ]
+            },
+            {
+                  "name": "Palaiochristianika loytra",
+                  "text": "Kora keresztény korból származó fürdők maradványai Larisszában.",
+                  "category": "historical",
+                  "coords": [
+                        22.418962,
+                        39.639508
+                  ]
+            },
+            {
+                  "name": "A' Archaio Theatro Larisas",
+                  "text": "Larissza nagy antik színháza a város egyik legjelentősebb műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        22.415278,
+                        39.640394
+                  ]
+            },
+            {
+                  "name": "Mnimeio Ippokrati",
+                  "text": "Emlékmű Hippokratész, az orvostudomány atyja tiszteletére, aki Larisszában hunyt el.",
+                  "category": "historical",
+                  "coords": [
+                        22.410258,
+                        39.646174
+                  ]
+            },
+            {
+                  "name": "Mnimeio Ethnikis Antistasis",
+                  "text": "A nemzeti ellenállás harcosainak emléket állító emlékmű Larisszában.",
+                  "category": "historical",
+                  "coords": [
+                        22.411458,
+                        39.644458
+                  ]
+            },
+            {
+                  "name": "Galliko Institoyto Larisa",
+                  "text": "A larisszai Francia Intézet a kulturális kapcsolatokat és nyelvtanulást segíti.",
+                  "category": "cultural",
+                  "coords": [
+                        22.41949,
+                        39.637668
+                  ]
+            },
+            {
+                  "name": "Dichos Omega",
+                  "text": "A Δίχως Ωμέγα néven ismert kulturális helyszín dinamikus jelenlétet hoz a görögországi Lárisza városába. Kortárs művészetnek és különféle kulturális tevékenységeknek szentelt központként működik. A vendégek számos modern művészeti eseményt és kiállítást tapasztalhatnak meg látogatásuk során.",
+                  "category": "cultural",
+                  "coords": [
+                        22.416936,
+                        39.642123
+                  ]
+            },
+            {
+                  "name": "Anna Frank",
+                  "text": "Anne Frank tiszteletére állított emlékmű Larissza városában.",
+                  "category": "historical",
+                  "coords": [
+                        22.421588,
+                        39.641968
+                  ]
+            },
+            {
+                  "name": "Daochoy & Katsigra",
+                  "text": "A Δαόχου & Κατσίγρα egy játszótér Larissában, amely teret kínál a gyerekek játékához és a családok kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        22.398654,
+                        39.620354
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο",
+                  "text": "Városi úszómedence Larisszában, amely sportolásra és kikapcsolódásra áll nyitva a közönség számára.",
+                  "category": "family",
+                  "coords": [
+                        22.416274,
+                        39.621603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moyseio Stratiotikis Ktiniatrikis Ypiresias",
+                  "text": "Un muzeu specializat din Larissa, dedicat istoriei serviciului veterinar militar.",
+                  "category": "museum",
+                  "coords": [
+                        22.403146,
+                        39.631641
+                  ]
+            },
+            {
+                  "name": "Mpezesteni Larisas",
+                  "text": "O clădire istorică a unei piețe otomane în Larissa.",
+                  "category": "castle",
+                  "coords": [
+                        22.415819,
+                        39.641458
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki Larisas – Moyseio G. I. Katsigra",
+                  "text": "Galeria Municipală din Larissa, care găzduiește importanta colecție de artă Katsigras.",
+                  "category": "museum",
+                  "coords": [
+                        22.399553,
+                        39.622513
+                  ]
+            },
+            {
+                  "name": "Geni Tzami",
+                  "text": "Un monument otoman important din Larissa, care a servit anterior ca moschee.",
+                  "category": "historical",
+                  "coords": [
+                        22.419973,
+                        39.639551
+                  ]
+            },
+            {
+                  "name": "Archaiologikos Choros V' Archaioy Theatroy Larisas",
+                  "text": "Ruinele celui de-al doilea teatru antic din Larissa, datând din perioada romană.",
+                  "category": "historical",
+                  "coords": [
+                        22.412094,
+                        39.640293
+                  ]
+            },
+            {
+                  "name": "Mylos toy Pappa",
+                  "text": "O moară istorică din Larissa, utilizată astăzi ca centru cultural.",
+                  "category": "historical",
+                  "coords": [
+                        22.417994,
+                        39.643094
+                  ]
+            },
+            {
+                  "name": "Sidirodromiko Moyseio Larisas",
+                  "text": "Un muzeu din Larissa care documentează istoria căilor ferate din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        22.424101,
+                        39.630395
+                  ]
+            },
+            {
+                  "name": "Pyrgos Charokopoy",
+                  "text": "Un turn istoric proeminent situat în Larissa.",
+                  "category": "castle",
+                  "coords": [
+                        22.401231,
+                        39.661615
+                  ]
+            },
+            {
+                  "name": "Moyseio Ethnikis Antistasis",
+                  "text": "Un muzeu dedicat rezistenței grecești din timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        22.423856,
+                        39.632563
+                  ]
+            },
+            {
+                  "name": "Kipotheatro Alkazar",
+                  "text": "Un teatru în aer liber situat în parcul Alkazar din Larissa.",
+                  "category": "cultural",
+                  "coords": [
+                        22.41177,
+                        39.643039
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro O.Y.I.L.",
+                  "text": "Un teatru municipal din Larissa care servește ca loc important pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        22.413607,
+                        39.6354
+                  ]
+            },
+            {
+                  "name": "Palaiochristianika loytra",
+                  "text": "Vestigiile unor băi din perioada paleocreștină în Larissa.",
+                  "category": "historical",
+                  "coords": [
+                        22.418962,
+                        39.639508
+                  ]
+            },
+            {
+                  "name": "A' Archaio Theatro Larisas",
+                  "text": "Marele teatru antic din Larissa este unul dintre cele mai importante monumente ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        22.415278,
+                        39.640394
+                  ]
+            },
+            {
+                  "name": "Mnimeio Ippokrati",
+                  "text": "Un monument în cinstea lui Hipocrate, părintele medicinei, care a murit în Larissa.",
+                  "category": "historical",
+                  "coords": [
+                        22.410258,
+                        39.646174
+                  ]
+            },
+            {
+                  "name": "Mnimeio Ethnikis Antistasis",
+                  "text": "Un monument în Larissa care comemorează luptătorii rezistenței naționale.",
+                  "category": "historical",
+                  "coords": [
+                        22.411458,
+                        39.644458
+                  ]
+            },
+            {
+                  "name": "Galliko Institoyto Larisa",
+                  "text": "Institutul Francez din Larissa promovează schimburile culturale și educaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        22.41949,
+                        39.637668
+                  ]
+            },
+            {
+                  "name": "Dichos Omega",
+                  "text": "Situl cultural cunoscut sub numele de Δίχως Ωμέγα aduce o prezență dinamică în orașul Larissa din Grecia. Acesta funcționează ca un centru dedicat artei contemporane și diverselor activități culturale. Oaspeții pot experimenta o serie de evenimente și expoziții artistice moderne în timpul vizitei lor.",
+                  "category": "cultural",
+                  "coords": [
+                        22.416936,
+                        39.642123
+                  ]
+            },
+            {
+                  "name": "Anna Frank",
+                  "text": "Un monument situat în Larissa dedicat memoriei Annei Frank.",
+                  "category": "historical",
+                  "coords": [
+                        22.421588,
+                        39.641968
+                  ]
+            },
+            {
+                  "name": "Daochoy & Katsigra",
+                  "text": "Δαόχου & Κατσίγρα este un loc de joacă în Larissa, oferind un spațiu pentru joaca copiilor și relaxarea familiilor.",
+                  "category": "family",
+                  "coords": [
+                        22.398654,
+                        39.620354
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο",
+                  "text": "O piscină municipală în Larissa, deschisă publicului pentru sport și recreere.",
+                  "category": "family",
+                  "coords": [
+                        22.416274,
+                        39.621603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moyseio Stratiotikis Ktiniatrikis Ypiresias",
+                  "text": "A specialized museum in Larissa dedicated to the history of the military veterinary service.",
+                  "category": "museum",
+                  "coords": [
+                        22.403146,
+                        39.631641
+                  ]
+            },
+            {
+                  "name": "Bezesteni of Larissa",
+                  "text": "A historical Ottoman-era covered market building in Larissa.",
+                  "category": "castle",
+                  "coords": [
+                        22.415819,
+                        39.641458
+                  ]
+            },
+            {
+                  "name": "Dimotiki Pinakothiki Larisas – Moyseio G. I. Katsigra",
+                  "text": "The municipal gallery of Larissa housing the significant Katsigras art collection.",
+                  "category": "museum",
+                  "coords": [
+                        22.399553,
+                        39.622513
+                  ]
+            },
+            {
+                  "name": "Geni Tzami",
+                  "text": "A significant Ottoman monument in Larissa that formerly served as a mosque.",
+                  "category": "historical",
+                  "coords": [
+                        22.419973,
+                        39.639551
+                  ]
+            },
+            {
+                  "name": "Archaiologikos Choros V' Archaioy Theatroy Larisas",
+                  "text": "The ruins of the second ancient theatre of Larissa, dating back to the Roman period.",
+                  "category": "historical",
+                  "coords": [
+                        22.412094,
+                        39.640293
+                  ]
+            },
+            {
+                  "name": "Mylos toy Pappa",
+                  "text": "A historical mill in Larissa now functioning as a cultural center.",
+                  "category": "historical",
+                  "coords": [
+                        22.417994,
+                        39.643094
+                  ]
+            },
+            {
+                  "name": "Sidirodromiko Moyseio Larisas",
+                  "text": "A museum in Larissa documenting the history of the railway in the region.",
+                  "category": "museum",
+                  "coords": [
+                        22.424101,
+                        39.630395
+                  ]
+            },
+            {
+                  "name": "Pyrgos Charokopoy",
+                  "text": "A prominent historical tower building located in Larissa.",
+                  "category": "castle",
+                  "coords": [
+                        22.401231,
+                        39.661615
+                  ]
+            },
+            {
+                  "name": "Moyseio Ethnikis Antistasis",
+                  "text": "A museum dedicated to the Greek resistance during the Second World War.",
+                  "category": "museum",
+                  "coords": [
+                        22.423856,
+                        39.632563
+                  ]
+            },
+            {
+                  "name": "Kipotheatro Alkazar",
+                  "text": "An open-air theatre located in the Alkazar Park of Larissa.",
+                  "category": "cultural",
+                  "coords": [
+                        22.41177,
+                        39.643039
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro O.Y.I.L.",
+                  "text": "A municipal theatre in Larissa serving as a key venue for performances.",
+                  "category": "cultural",
+                  "coords": [
+                        22.413607,
+                        39.6354
+                  ]
+            },
+            {
+                  "name": "Palaiochristianika loytra",
+                  "text": "Remains of bath facilities from the early Christian period in Larissa.",
+                  "category": "historical",
+                  "coords": [
+                        22.418962,
+                        39.639508
+                  ]
+            },
+            {
+                  "name": "A' Archaio Theatro Larisas",
+                  "text": "The large ancient theatre of Larissa is one of the city's most significant monuments.",
+                  "category": "historical",
+                  "coords": [
+                        22.415278,
+                        39.640394
+                  ]
+            },
+            {
+                  "name": "Mnimeio Ippokrati",
+                  "text": "A monument honoring Hippocrates, the father of medicine, who died in Larissa.",
+                  "category": "historical",
+                  "coords": [
+                        22.410258,
+                        39.646174
+                  ]
+            },
+            {
+                  "name": "Mnimeio Ethnikis Antistasis",
+                  "text": "A monument in Larissa commemorating the fighters of the national resistance.",
+                  "category": "historical",
+                  "coords": [
+                        22.411458,
+                        39.644458
+                  ]
+            },
+            {
+                  "name": "French Institute Larissa",
+                  "text": "The French Institute in Larissa promotes cultural exchange and education.",
+                  "category": "cultural",
+                  "coords": [
+                        22.41949,
+                        39.637668
+                  ]
+            },
+            {
+                  "name": "Dichos Omega",
+                  "text": "The cultural site known as Δίχως Ωμέγα brings a dynamic presence to the city of Larissa in Greece. It functions as a center dedicated to contemporary art and varied cultural activities. Guests can experience an array of modern artistic events and exhibitions during their visit.",
+                  "category": "cultural",
+                  "coords": [
+                        22.416936,
+                        39.642123
+                  ]
+            },
+            {
+                  "name": "Anna Frank",
+                  "text": "A monument located in Larissa dedicated to the memory of Anne Frank.",
+                  "category": "historical",
+                  "coords": [
+                        22.421588,
+                        39.641968
+                  ]
+            },
+            {
+                  "name": "Daochoy & Katsigra",
+                  "text": "Δαόχου & Κατσίγρα is a playground in Larissa, offering a space for children to play and families to relax.",
+                  "category": "family",
+                  "coords": [
+                        22.398654,
+                        39.620354
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο",
+                  "text": "A municipal swimming pool in Larissa open to the public for sport and leisure.",
+                  "category": "family",
+                  "coords": [
+                        22.416274,
+                        39.621603
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Larissa", hu: "Lárisza", ro: "Larissa", en: "Larissa"},
@@ -372,7 +1101,52 @@ imageHint: "Alexandroupoli lighthouse at sunset",
     },
     image: "/poi-images/greece-alexandroupoli-cities-v2.webp",
 },  {
-    id: "greece-xanthi-cities-v2",
+    id: "greece-xanthi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Δημοτικό Κολυμβητήριο Ξάνθης",
+                  "text": "Δημοτικό Κολυμβητήριο Ξάνθης in Xanthi bietet Platz zum Schwimmen und für Wasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        24.892318,
+                        41.142042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Δημοτικό Κολυμβητήριο Ξάνθης",
+                  "text": "A(z) Δημοτικό Κολυμβητήριο Ξάνθης Xanthi településen úszási és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        24.892318,
+                        41.142042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Δημοτικό Κολυμβητήριο Ξάνθης",
+                  "text": "Δημοτικό Κολυμβητήριο Ξάνθης din Xanthi oferă un loc pentru înot și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        24.892318,
+                        41.142042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Δημοτικό Κολυμβητήριο Ξάνθης",
+                  "text": "Δημοτικό Κολυμβητήριο Ξάνθης in Xanthi offers a place for swimming and water activities.",
+                  "category": "family",
+                  "coords": [
+                        24.892318,
+                        41.142042
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Xanthi", hu: "Xánthi", ro: "Xanthi", en: "Xanthi"},
@@ -823,7 +1597,88 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-rethymno-cities-v2",
+    id: "greece-rethymno-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κολυμβητήριο Ρεθύμνου",
+                  "text": "Ein Schwimmbad in Rethymno, das Einrichtungen für Wassersport und Training bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.466357,
+                        35.366552
+                  ]
+            },
+            {
+                  "name": "Archipelagos",
+                  "text": "Ein Schwimmbad in Rethymno, das Besuchern eine Möglichkeit zur Abkühlung und Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        24.46277,
+                        35.364342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κολυμβητήριο Ρεθύμνου",
+                  "text": "Úszómedence Rethymno-ban, amely vízi sportokhoz és edzésekhez kínál létesítményeket.",
+                  "category": "family",
+                  "coords": [
+                        24.466357,
+                        35.366552
+                  ]
+            },
+            {
+                  "name": "Archipelagos",
+                  "text": "Úszómedence Rethymno-ban, amely hűsölési és pihenési lehetőséget nyújt a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        24.46277,
+                        35.364342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κολυμβητήριο Ρεθύμνου",
+                  "text": "O piscină în Rethymno care oferă facilități pentru sporturi nautice și antrenament.",
+                  "category": "family",
+                  "coords": [
+                        24.466357,
+                        35.366552
+                  ]
+            },
+            {
+                  "name": "Archipelagos",
+                  "text": "O piscină în Rethymno care oferă vizitatorilor o modalitate de a se răcori și relaxa.",
+                  "category": "family",
+                  "coords": [
+                        24.46277,
+                        35.364342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Κολυμβητήριο Ρεθύμνου",
+                  "text": "A swimming pool in Rethymno providing facilities for water sports and training.",
+                  "category": "family",
+                  "coords": [
+                        24.466357,
+                        35.366552
+                  ]
+            },
+            {
+                  "name": "Archipelagos",
+                  "text": "A swimming pool in Rethymno offering visitors a way to cool down and relax.",
+                  "category": "family",
+                  "coords": [
+                        24.46277,
+                        35.364342
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Rethymno", hu: "Réthimno", ro: "Rethymno", en: "Rethymno"},
@@ -870,7 +1725,124 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-kozani-cities-v2", "sights": {"de": [{"name": "Paidiki Chara", "text": "Die Παιδική Χαρά in Kozani ist ein schöner Ort für Kinder zum Spielen.", "category": "family", "coords": [21.785953, 40.297196]}], "hu": [{"name": "Paidiki Chara", "text": "A Παιδική Χαρά Kozaniban szép hely a gyerekeknek a játékhoz.", "category": "family", "coords": [21.785953, 40.297196]}], "ro": [{"name": "Paidiki Chara", "text": "Παιδική Χαρά din Kozani este un loc frumos pentru joaca copiilor.", "category": "family", "coords": [21.785953, 40.297196]}], "en": [{"name": "Paidiki Chara", "text": "Παιδική Χαρά in Kozani is a nice place for children to play.", "category": "family", "coords": [21.785953, 40.297196]}]},
+    id: "greece-kozani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paidiki Chara",
+                  "text": "Die Παιδική Χαρά in Kozani ist ein schöner Ort für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        21.785953,
+                        40.297196
+                  ]
+            },
+            {
+                  "name": "Κλειστό Κολυμβητήριο",
+                  "text": "Κλειστό Κολυμβητήριο in Kozani bietet Platz zum Schwimmen und für Wasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        21.782212,
+                        40.294519
+                  ]
+            },
+            {
+                  "name": "Λιάπειο Κολυμβητήριο",
+                  "text": "Λιάπειο Κολυμβητήριο in Kozani bietet Platz zum Schwimmen und für Wasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        21.783776,
+                        40.327446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paidiki Chara",
+                  "text": "A Παιδική Χαρά Kozaniban szép hely a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        21.785953,
+                        40.297196
+                  ]
+            },
+            {
+                  "name": "Κλειστό Κολυμβητήριο",
+                  "text": "A(z) Κλειστό Κολυμβητήριο Kozani településen úszási és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        21.782212,
+                        40.294519
+                  ]
+            },
+            {
+                  "name": "Λιάπειο Κολυμβητήριο",
+                  "text": "A(z) Λιάπειο Κολυμβητήριο Kozani településen úszási és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        21.783776,
+                        40.327446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paidiki Chara",
+                  "text": "Παιδική Χαρά din Kozani este un loc frumos pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        21.785953,
+                        40.297196
+                  ]
+            },
+            {
+                  "name": "Κλειστό Κολυμβητήριο",
+                  "text": "Κλειστό Κολυμβητήριο din Kozani oferă un loc pentru înot și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        21.782212,
+                        40.294519
+                  ]
+            },
+            {
+                  "name": "Λιάπειο Κολυμβητήριο",
+                  "text": "Λιάπειο Κολυμβητήριο din Kozani oferă un loc pentru înot și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        21.783776,
+                        40.327446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paidiki Chara",
+                  "text": "Παιδική Χαρά in Kozani is a nice place for children to play.",
+                  "category": "family",
+                  "coords": [
+                        21.785953,
+                        40.297196
+                  ]
+            },
+            {
+                  "name": "Κλειστό Κολυμβητήριο",
+                  "text": "Κλειστό Κολυμβητήριο in Kozani offers a place for swimming and water activities.",
+                  "category": "family",
+                  "coords": [
+                        21.782212,
+                        40.294519
+                  ]
+            },
+            {
+                  "name": "Λιάπειο Κολυμβητήριο",
+                  "text": "Λιάπειο Κολυμβητήριο in Kozani offers a place for swimming and water activities.",
+                  "category": "family",
+                  "coords": [
+                        21.783776,
+                        40.327446
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Kozani", hu: "Kozáni", ro: "Kozani", en: "Kozani"},
@@ -1012,7 +1984,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     "sights": {"de": [{"name": "Alte Festung", "text": "Ein venezianisches Meisterwerk auf einer felsigen Halbinsel, das die Stadt jahrhundertelang vor Invasionen schützte.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [19.929444, 39.623333]}, {"name": "Spianada-Platz", "text": "Einer der größten Plätze Europas, der als grüne Lunge der Stadt dient und französische Einflüsse widerspiegelt.", "category": "squares/old-town", "confidence": "high", "coords": [19.92446, 39.623602]}, {"name": "Agios-Spyridon-Kirche", "text": "Die Kirche beherbergt die Reliquien des Schutzpatrons der Insel und ist für ihren hohen roten Glockenturm bekannt.", "category": "churches/cathedrals", "confidence": "high", "coords": [19.9227, 39.6251]}, {"name": "Palast von St. Michael und St. George", "text": "Ein britisches neoklassizistisches Gebäude, in dem heute das bedeutende Museum für Asiatische Kunst untergebracht ist.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.924694, 39.625833]}, {"name": "Neue Festung", "text": "Auf dem Hügel von St. Mark gelegen, bietet dieses massive venezianische Bollwerk einen weiten Blick über den Hafen.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [19.916807, 39.625309]}, {"name": "Rathaus (San Giacomo)", "text": "Ein prachtvolles Gebäude aus venezianischer Zeit, das ursprünglich als Theater und Treffpunkt des Adels diente.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.922214, 39.623754]}, {"name": "Mon Repos", "text": "Die neoklassizistische Villa in einem weitläufigen Park ist als Geburtsort von Prinz Philip, Herzog von Edinburgh, bekannt.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.926111, 39.606389]}, {"name": "Kanoni & Vlacherna", "text": "Ein berühmter Aussichtspunkt mit Blick auf das kleine Frauenkloster Vlacherna und die grüne Mäuseinsel Pontikonisi.", "category": "viewpoints", "confidence": "high", "coords": [19.919748, 39.590989]}, {"name": "Archäologisches Museum", "text": "Es zeigt bedeutende Funde der antiken Stadt Korfu, darunter den monumentalen Gorgonen-Giebel vom Artemis-Tempel.", "category": "museums", "confidence": "high", "coords": [19.92794, 39.62347]}, {"name": "Kardaki-Tempel", "text": "Überreste eines antiken dorischen Tempels in der Nähe von Mon Repos.", "category": "historical", "coords": [19.926106, 39.601387]}, {"name": "Iero Artemidos Gorgoys", "text": "Die Ruinen eines archaischen griechischen Tempels, der der Göttin Artemis gewidmet ist.", "category": "historical", "coords": [19.918085, 39.60712]}, {"name": "Dimotiko Theatro Kerkyras", "text": "Das historische Stadttheater von Korfu, ein Zentrum für Kultur und Kunst.", "category": "cultural", "coords": [19.919734, 39.621971]}, {"name": "Serviko Moyseio Kerkyras", "text": "Ein Museum, das an den Aufenthalt der serbischen Armee auf Korfu im Ersten Weltkrieg erinnert.", "category": "museum", "coords": [19.922316, 39.622186]}, {"name": "Vyzantino Moyseio - Panagia Antivoyniotissa", "text": "Ein Museum in Korfu-Stadt, das eine Sammlung byzantinischer Kunstwerke zeigt.", "category": "museum", "coords": [19.922524, 39.627195]}, {"name": "Moyseio Dionysioy Solomoy", "text": "Das Μουσείο Διονυσίου Σολωμού in Corfu Town ist ein Museum, das sich dem Leben des griechischen Nationaldichters widmet. Besucher können hier die literarischen Spuren von Dionysios Solomos entdecken.", "category": "museum", "coords": [19.921525, 39.627515]}, {"name": "Pyrgos Nerantzichas", "text": "Ein historischer Turm in Korfu-Stadt, der Teil der antiken Befestigungsanlagen ist.", "category": "castle", "coords": [19.916373, 39.606994]}, {"name": "Palaiopolis", "text": "Eine bedeutende archäologische Ausgrabungsstätte der antiken Stadt Korfu.", "category": "historical", "coords": [19.922645, 39.607092]}, {"name": "Temenos Iras", "text": "Die Überreste eines antiken Tempels, der der Göttin Hera gewidmet war.", "category": "historical", "coords": [19.924497, 39.603365]}, {"name": "I.N.Agion Iasonos kai Sosipatros", "text": "Eine historische byzantinische Kirche, bekannt für ihre Architektur und religiöse Bedeutung.", "category": "historical", "coords": [19.924336, 39.609761]}, {"name": "Peristylio Maitland \"Sterna\"", "text": "Ein neoklassizistisches Denkmal in Form einer Rotunde auf dem Spianada-Platz.", "category": "historical", "coords": [19.924579, 39.621692]}, {"name": "Panagia Mandrakina", "text": "Eine charmante orthodoxe Kirche in der Nähe des Hafens von Korfu-Stadt.", "category": "religious", "coords": [19.925639, 39.625074]}, {"name": "Agioi Pateres", "text": "Ein religiöses Bauwerk in Korfu-Stadt, das der Andacht dient.", "category": "religious", "coords": [19.920628, 39.624365]}, {"name": "Tenedos", "text": "Eine katholische Kirche in Korfu-Stadt mit historischer Architektur.", "category": "religious", "coords": [19.917933, 39.624805]}, {"name": "Ieros Mitropolitikos Naos Yperagias Theotokoy Spilaiotissis, Agioy Vlasioy kai Agias Theodoras", "text": "Die Hauptkathedrale von Korfu-Stadt, die wichtige religiöse Reliquien beherbergt.", "category": "religious", "coords": [19.921296, 39.625827]}, {"name": "Ag. Andreas", "text": "Eine dem heiligen Andreas gewidmete Kirche in Korfu-Stadt.", "category": "religious", "coords": [19.923469, 39.627081]}, {"name": "Ag. Sofia", "text": "Ein religiöses Bauwerk in Korfu-Stadt, das der heiligen Sophia gewidmet ist.", "category": "religious", "coords": [19.920071, 39.623205]}, {"name": "Ieros Naos Trion Martyron", "text": "Eine Kirche in Korfu-Stadt, die an drei christliche Märtyrer erinnert.", "category": "religious", "coords": [19.921885, 39.611192]}, {"name": "Vyzantino Moyseio Kerkyras", "text": "Ein Museum in Korfu-Stadt, das eine bedeutende Sammlung byzantinischer Ikonen beherbergt.", "category": "museum", "coords": [19.926829, 39.623341]}, {"name": "Promachonas Sarantari", "text": "Eine Bastion, die zur Verteidigungsanlage der Stadt gehört.", "category": "castle", "coords": [19.918336, 39.623705]}, {"name": "Vretaniko Mageireio", "text": "Ein historisches Gebäude der britischen Armee innerhalb der Festung.", "category": "castle", "coords": [19.927798, 39.622513]}, {"name": "Corfu Art Gallery", "text": "Eine Galerie in Korfu-Stadt, die Werke lokaler Künstler ausstellt.", "category": "museum", "coords": [19.911883, 39.625258]}, {"name": "Ochyro toy Scholemvoyrgoy", "text": "Ein Teil der äußeren Befestigungswerke zur Verteidigung der Stadt.", "category": "fortress", "coords": [19.921456, 39.643627]}, {"name": "Ochyro Vasilias Georgios", "text": "Die Ruinen einer ehemaligen britischen Festungsanlage auf Korfu.", "category": "fortress", "coords": [19.926596, 39.640309]}, {"name": "Teichos Flèche", "text": "Reste einer historischen Verteidigungsmauer in Korfu-Stadt.", "category": "historical", "coords": [19.917459, 39.614565]}, {"name": "Porta Ottoyrata", "text": "Eines der historischen Stadttore in der Befestigung von Korfu-Stadt.", "category": "fortress", "coords": [19.91788, 39.625783]}, {"name": "Porta Matziore", "text": "Das Haupttor der venezianischen Befestigungsanlagen in Korfu-Stadt.", "category": "fortress", "coords": [19.925849, 39.623416]}, {"name": "Promachonas RaImonto", "text": "Ein Festungswerk, das zur venezianischen Stadtmauer von Korfu gehört.", "category": "fortress", "coords": [19.922269, 39.620047]}, {"name": "Ochyro Avrami", "text": "Ein historisches Fort auf einem Hügel mit Blick über Korfu-Stadt.", "category": "historical", "coords": [19.912783, 39.623584]}], "hu": [{"name": "Régi Erőd", "text": "A velenceiek által épített sziklaerőd évszázadokon át védte a várost a tenger felől érkező támadásoktól.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [19.929444, 39.623333]}, {"name": "Spianada tér", "text": "Európa egyik legnagyobb tere, amely parkjaival és emlékműveivel a város legnépszerűbb közösségi helyszíne.", "category": "squares/old-town", "confidence": "high", "coords": [19.92446, 39.623602]}, {"name": "Szent Szpiridon-templom", "text": "A város védőszentjének ereklyéit őrző templom magas, vörös tetejű harangtornya Korfu egyik jelképe.", "category": "churches/cathedrals", "confidence": "high", "coords": [19.9227, 39.6251]}, {"name": "Szent Mihály és Szent György-palota", "text": "Brit neoklasszicista stílusú palota, amely ma az egyedülálló Ázsiai Művészeti Múzeumnak ad helyet.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.924694, 39.625833]}, {"name": "Új Erőd", "text": "A Szent Márk-dombon álló masszív erődrendszer falairól lenyűgöző kilátás nyílik a régi kikötőre és az óvárosra.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [19.916807, 39.625309]}, {"name": "Városháza (San Giacomo)", "text": "Ez a díszes velencei épület korábban színházként működött, ma pedig a városvezetés központja.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.922214, 39.623754]}, {"name": "Mon Repos palota", "text": "A dús növényzetű parkban álló neoklasszicista villa Fülöp edinburgh-i herceg szülőhelyeként híresült el.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.926111, 39.606389]}, {"name": "Kanoni és Vlacherna", "text": "A város legfotózottabb pontja, ahonnan a Vlacherna-kolostor és az apró Egér-sziget látványa tárul elénk.", "category": "viewpoints", "confidence": "high", "coords": [19.919748, 39.590989]}, {"name": "Régészeti Múzeum", "text": "Itt látható az ókori Korfu legfontosabb emléke, a monumentális Gorgó-pediment az Artemisz-templomból.", "category": "museums", "confidence": "high", "coords": [19.92794, 39.62347]}, {"name": "Dorikos naos Kardakioy", "text": "Egy ókori dór templom maradványai Mon Repos közelében.", "category": "historical", "coords": [19.926106, 39.601387]}, {"name": "Iero Artemidos Gorgoys", "text": "Artemisz istennőnek szentelt archaikus görög templom romjai.", "category": "historical", "coords": [19.918085, 39.60712]}, {"name": "Dimotiko Theatro Kerkyras", "text": "Korfu történelmi városi színháza, a kultúra és a művészetek központja.", "category": "cultural", "coords": [19.919734, 39.621971]}, {"name": "Serviko Moyseio Kerkyras", "text": "Múzeum, amely a szerb hadsereg Korfu szigetén való tartózkodásának állít emléket az első világháborúban.", "category": "museum", "coords": [19.922316, 39.622186]}, {"name": "Vyzantino Moyseio - Panagia Antivoyniotissa", "text": "Korfu városi múzeum, amely bizánci műalkotások gyűjteményét mutatja be.", "category": "museum", "coords": [19.922524, 39.627195]}, {"name": "Moyseio Dionysioy Solomoy", "text": "A Korfu városában található Μουσείο Διονυσίου Σολωμού Görögország nemzeti költőjének életét és munkásságát mutatja be. Ebben a múzeumban a látogatók közelebbről is megismerkedhetnek Dionüsziosz Szolomosz örökségével.", "category": "museum", "coords": [19.921525, 39.627515]}, {"name": "Pyrgos Nerantzichas", "text": "Történelmi torony Korfu városában, amely az ősi erődítmények része.", "category": "castle", "coords": [19.916373, 39.606994]}, {"name": "Palaiopolis", "text": "Az ókori Korfu városának jelentős régészeti lelőhelye.", "category": "historical", "coords": [19.922645, 39.607092]}, {"name": "Temenos Iras", "text": "Héra istennőnek szentelt ókori templom maradványai.", "category": "historical", "coords": [19.924497, 39.603365]}, {"name": "I.N.Agion Iasonos kai Sosipatros", "text": "Történelmi bizánci templom, amely építészetéről és vallási jelentőségéről ismert.", "category": "historical", "coords": [19.924336, 39.609761]}, {"name": "Peristylio Maitland \"Sterna\"", "text": "Neoklasszicista emlékmű rotunda formájában a Szpianada téren.", "category": "historical", "coords": [19.924579, 39.621692]}, {"name": "Panagia Mandrakina", "text": "Bájos ortodox templom Korfu város kikötőjének közelében.", "category": "religious", "coords": [19.925639, 39.625074]}, {"name": "Agioi Pateres", "text": "Vallási épület Korfu városában, amely az áhítat helyszíne.", "category": "religious", "coords": [19.920628, 39.624365]}, {"name": "Tenedos", "text": "Katolikus templom Korfu városában, történelmi építészettel.", "category": "religious", "coords": [19.917933, 39.624805]}, {"name": "Ieros Mitropolitikos Naos Yperagias Theotokoy Spilaiotissis, Agioy Vlasioy kai Agias Theodoras", "text": "Korfu város főszékesegyháza, amely fontos vallási ereklyéket őriz.", "category": "religious", "coords": [19.921296, 39.625827]}, {"name": "Ag. Andreas", "text": "Szent Andrásnak szentelt templom Korfu városában.", "category": "religious", "coords": [19.923469, 39.627081]}, {"name": "Ag. Sofia", "text": "Szent Szófiának szentelt vallási épület Korfu városában.", "category": "religious", "coords": [19.920071, 39.623205]}, {"name": "Ieros Naos Trion Martyron", "text": "Templom Korfu városában, amely három keresztény vértanúnak állít emléket.", "category": "religious", "coords": [19.921885, 39.611192]}, {"name": "Vyzantino Moyseio Kerkyras", "text": "Korfu városi múzeum, amely bizánci ikonok jelentős gyűjteményének ad otthont.", "category": "museum", "coords": [19.926829, 39.623341]}, {"name": "Promachonas Sarantari", "text": "A város védelmi rendszeréhez tartozó bástya.", "category": "castle", "coords": [19.918336, 39.623705]}, {"name": "Vretaniko Mageireio", "text": "A brit hadsereg történelmi épülete az erődön belül.", "category": "castle", "coords": [19.927798, 39.622513]}, {"name": "Corfu Art Gallery", "text": "Galéria Korfu városában, amely helyi művészek alkotásait állítja ki.", "category": "museum", "coords": [19.911883, 39.625258]}, {"name": "Ochyro toy Scholemvoyrgoy", "text": "A várost védő külső erődítmények része.", "category": "fortress", "coords": [19.921456, 39.643627]}, {"name": "Ochyro Vasilias Georgios", "text": "Egy egykori brit erődítmény romjai Korfu szigetén.", "category": "fortress", "coords": [19.926596, 39.640309]}, {"name": "Teichos Flèche", "text": "Történelmi védőfal maradványai Korfu városában.", "category": "historical", "coords": [19.917459, 39.614565]}, {"name": "Porta Ottoyrata", "text": "Korfu város erődítményének egyik történelmi városkapuja.", "category": "fortress", "coords": [19.91788, 39.625783]}, {"name": "Porta Matziore", "text": "A korfui velencei erődítmények főkapuja.", "category": "fortress", "coords": [19.925849, 39.623416]}, {"name": "Promachonas RaImonto", "text": "Korfu velencei városfalához tartozó erődítmény.", "category": "fortress", "coords": [19.922269, 39.620047]}, {"name": "Ochyro Avrami", "text": "Történelmi erőd egy dombon, kilátással Korfu városára.", "category": "historical", "coords": [19.912783, 39.623584]}], "ro": [{"name": "Vechea Cetate", "text": "O capodoperă venețiană situată pe o peninsulă stâncoasă, oferind vederi panoramice asupra orașului și a Mării Ioniene.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [19.929444, 39.623333]}, {"name": "Piața Spianada", "text": "Una dintre cele mai mari piețe din Europa, acest spațiu verde reflectă influențele coloniale franceze și britanice.", "category": "squares/old-town", "confidence": "high", "coords": [19.92446, 39.623602]}, {"name": "Biserica Sfântul Spiridon", "text": "Găzduiește moaștele patronului insulei și este celebră pentru turnul său cu clopot înalt, cu dom roșu.", "category": "churches/cathedrals", "confidence": "high", "coords": [19.9227, 39.6251]}, {"name": "Palatul Sf. Mihail și Sf. Gheorghe", "text": "O clădire neoclasică britanică ce găzduiește astăzi prestigiosul Muzeu de Artă Asiatică din Corfu.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.924694, 39.625833]}, {"name": "Noua Cetate", "text": "Situată pe dealul Sf. Marcu, această fortificație venețiană masivă oferă o perspectivă excelentă asupra portului vechi.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [19.916807, 39.625309]}, {"name": "Primăria (San Giacomo)", "text": "O clădire elegantă din era venețiană, care a servit inițial ca teatru și loc de întâlnire pentru nobilime.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.922214, 39.623754]}, {"name": "Palatul Mon Repos", "text": "O vilă neoclasică situată într-un parc vast, cunoscută ca fiind locul de naștere al Prințului Philip, Duce de Edinburgh.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.926111, 39.606389]}, {"name": "Kanoni și Vlacherna", "text": "Un punct de observație faimos de unde se pot vedea mănăstirea Vlacherna și mica insulă Pontikonisi (Insula Șoricelului).", "category": "viewpoints", "confidence": "high", "coords": [19.919748, 39.590989]}, {"name": "Muzeul de Arheologie", "text": "Expune vestigii importante din orașul antic, inclusiv frontonul monumental al Gorgonei de la Templul lui Artemis.", "category": "museums", "confidence": "high", "coords": [19.92794, 39.62347]}, {"name": "Dorikos naos Kardakioy", "text": "Rămășițele unui templu doric antic situat lângă Mon Repos.", "category": "historical", "coords": [19.926106, 39.601387]}, {"name": "Iero Artemidos Gorgoys", "text": "Ruinele unui templu grecesc arhaic dedicat zeiței Artemis.", "category": "historical", "coords": [19.918085, 39.60712]}, {"name": "Dimotiko Theatro Kerkyras", "text": "Teatrul municipal istoric din Corfu, un centru pentru cultură și artă.", "category": "cultural", "coords": [19.919734, 39.621971]}, {"name": "Serviko Moyseio Kerkyras", "text": "Un muzeu care comemorează șederea armatei sârbe în Corfu în timpul Primului Război Mondial.", "category": "museum", "coords": [19.922316, 39.622186]}, {"name": "Vyzantino Moyseio - Panagia Antivoyniotissa", "text": "Un muzeu din orașul Corfu care expune o colecție de opere de artă bizantine.", "category": "museum", "coords": [19.922524, 39.627195]}, {"name": "Moyseio Dionysioy Solomoy", "text": "Situat în Corfu Town, Μουσείο Διονυσίου Σολωμού este un muzeu dedicat vieții și operei poetului național al Greciei. Vizitatorii pot explora aici moștenirea literară lăsată de Dionysios Solomos.", "category": "museum", "coords": [19.921525, 39.627515]}, {"name": "Pyrgos Nerantzichas", "text": "Un turn istoric din orașul Corfu, parte a fortificațiilor antice.", "category": "castle", "coords": [19.916373, 39.606994]}, {"name": "Palaiopolis", "text": "Un sit arheologic important al orașului antic Corfu.", "category": "historical", "coords": [19.922645, 39.607092]}, {"name": "Temenos Iras", "text": "Rămășițele unui templu antic care a fost dedicat zeiței Hera.", "category": "historical", "coords": [19.924497, 39.603365]}, {"name": "I.N.Agion Iasonos kai Sosipatros", "text": "O biserică bizantină istorică, cunoscută pentru arhitectura și importanța sa religioasă.", "category": "historical", "coords": [19.924336, 39.609761]}, {"name": "Peristylio Maitland \"Sterna\"", "text": "Un monument neoclasic sub formă de rotundă situat în Piața Spianada.", "category": "historical", "coords": [19.924579, 39.621692]}, {"name": "Panagia Mandrakina", "text": "O biserică ortodoxă fermecătoare situată lângă portul orașului Corfu.", "category": "religious", "coords": [19.925639, 39.625074]}, {"name": "Agioi Pateres", "text": "Un edificiu religios din orașul Corfu, folosit pentru cult.", "category": "religious", "coords": [19.920628, 39.624365]}, {"name": "Tenedos", "text": "O biserică catolică din orașul Corfu cu arhitectură istorică.", "category": "religious", "coords": [19.917933, 39.624805]}, {"name": "Ieros Mitropolitikos Naos Yperagias Theotokoy Spilaiotissis, Agioy Vlasioy kai Agias Theodoras", "text": "Catedrala principală din orașul Corfu, care adăpostește relicve religioase importante.", "category": "religious", "coords": [19.921296, 39.625827]}, {"name": "Ag. Andreas", "text": "O biserică dedicată Sfântului Andrei din orașul Corfu.", "category": "religious", "coords": [19.923469, 39.627081]}, {"name": "Ag. Sofia", "text": "Un edificiu religios din orașul Corfu dedicat Sfintei Sofia.", "category": "religious", "coords": [19.920071, 39.623205]}, {"name": "Ieros Naos Trion Martyron", "text": "O biserică din orașul Corfu care comemorează trei martiri creștini.", "category": "religious", "coords": [19.921885, 39.611192]}, {"name": "Vyzantino Moyseio Kerkyras", "text": "Un muzeu din orașul Corfu care adăpostește o colecție importantă de icoane bizantine.", "category": "museum", "coords": [19.926829, 39.623341]}, {"name": "Promachonas Sarantari", "text": "Un bastion care aparține sistemului de apărare al orașului.", "category": "castle", "coords": [19.918336, 39.623705]}, {"name": "Vretaniko Mageireio", "text": "O clădire istorică a armatei britanice situată în interiorul fortăreței.", "category": "castle", "coords": [19.927798, 39.622513]}, {"name": "Corfu Art Gallery", "text": "O galerie din orașul Corfu care expune lucrări ale artiștilor locali.", "category": "museum", "coords": [19.911883, 39.625258]}, {"name": "Ochyro toy Scholemvoyrgoy", "text": "O parte a fortificațiilor exterioare pentru apărarea orașului.", "category": "fortress", "coords": [19.921456, 39.643627]}, {"name": "Ochyro Vasilias Georgios", "text": "Ruinele unei foste fortificații britanice din Corfu.", "category": "fortress", "coords": [19.926596, 39.640309]}, {"name": "Teichos Flèche", "text": "Rămășițele unui zid de apărare istoric din orașul Corfu.", "category": "historical", "coords": [19.917459, 39.614565]}, {"name": "Porta Ottoyrata", "text": "Una dintre porțile istorice ale orașului din fortificațiile Corfu.", "category": "fortress", "coords": [19.91788, 39.625783]}, {"name": "Porta Matziore", "text": "Poarta principală a fortificațiilor venețiene din orașul Corfu.", "category": "fortress", "coords": [19.925849, 39.623416]}, {"name": "Promachonas RaImonto", "text": "O lucrare de fortificație care aparține zidurilor venețiene ale orașului Corfu.", "category": "fortress", "coords": [19.922269, 39.620047]}, {"name": "Ochyro Avrami", "text": "Un fort istoric situat pe un deal cu vedere spre orașul Corfu.", "category": "historical", "coords": [19.912783, 39.623584]}], "en": [{"name": "Old Fortress", "text": "A Venetian masterpiece on a rocky peninsula, offering panoramic views of the town and the Ionian Sea.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [19.929444, 39.623333]}, {"name": "Spianada Square", "text": "One of the largest squares in Europe, this green space reflects the city's French and British colonial influences.", "category": "squares/old-town", "confidence": "high", "coords": [19.92446, 39.623602]}, {"name": "Saint Spyridon Church", "text": "Housing the relics of the island's patron saint, it is famous for its tall, red-domed bell tower.", "category": "churches/cathedrals", "confidence": "high", "coords": [19.9227, 39.6251]}, {"name": "Palace of St. Michael and St. George", "text": "A British neoclassical building that now houses the impressive Museum of Asian Art.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.924694, 39.625833]}, {"name": "New Fortress", "text": "Located on St. Mark's Hill, this massive Venetian fortification provides excellent views over the old harbour.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [19.916807, 39.625309]}, {"name": "Town Hall (San Giacomo)", "text": "An ornate building from the Venetian era that originally served as a theatre and a gathering place for nobility.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.922214, 39.623754]}, {"name": "Mon Repos Estate", "text": "A neoclassical villa in a sprawling park, famous as the birthplace of Prince Philip, Duke of Edinburgh.", "category": "famous buildings/residences", "confidence": "high", "coords": [19.926111, 39.606389]}, {"name": "Kanoni & Vlacherna", "text": "A famous viewpoint overlooking the Vlacherna Monastery and the green Mouse Island (Pontikonisi).", "category": "viewpoints", "confidence": "high", "coords": [19.919748, 39.590989]}, {"name": "Archaeological Museum", "text": "Displays significant finds from ancient Corfu, including the monumental Gorgon pediment from the Temple of Artemis.", "category": "museums", "confidence": "high", "coords": [19.92794, 39.62347]}, {"name": "Doric Temple at Kardaki", "text": "Remains of an ancient Doric temple located near Mon Repos.", "category": "historical", "coords": [19.926106, 39.601387]}, {"name": "Temple of Artemis Gorgo", "text": "The ruins of an archaic Greek temple dedicated to the goddess Artemis.", "category": "historical", "coords": [19.918085, 39.60712]}, {"name": "Municipal Theatre of Corfu", "text": "The historic municipal theatre of Corfu, a center for culture and arts.", "category": "cultural", "coords": [19.919734, 39.621971]}, {"name": "Serbian Museum of Corfu", "text": "A museum commemorating the stay of the Serbian army in Corfu during World War I.", "category": "museum", "coords": [19.922316, 39.622186]}, {"name": "Byzantine Museum", "text": "A museum in Corfu Town displaying a collection of Byzantine artworks.", "category": "museum", "coords": [19.922524, 39.627195]}, {"name": "D. Solomos Museum", "text": "Situated in Corfu Town, the Μουσείο Διονυσίου Σολωμού is a museum dedicated to the life and works of Greece's national poet. Visitors can explore the legacy of Dionysios Solomos within this cultural institution.", "category": "museum", "coords": [19.921525, 39.627515]}, {"name": "Tower of Nerantzicha", "text": "A historic tower in Corfu Town that is part of the ancient fortifications.", "category": "castle", "coords": [19.916373, 39.606994]}, {"name": "Palaiopolis", "text": "A significant archaeological site of the ancient city of Corfu.", "category": "historical", "coords": [19.922645, 39.607092]}, {"name": "Temple of Hera", "text": "The remains of an ancient temple that was dedicated to the goddess Hera.", "category": "historical", "coords": [19.924497, 39.603365]}, {"name": "Church St Jason and Sosipater", "text": "A historic Byzantine church known for its architecture and religious significance.", "category": "historical", "coords": [19.924336, 39.609761]}, {"name": "Maitland Monument", "text": "A neoclassical monument in the form of a rotunda located on Spianada Square.", "category": "historical", "coords": [19.924579, 39.621692]}, {"name": "Mandrakinas Church", "text": "A charming Orthodox church located near the port of Corfu Town.", "category": "religious", "coords": [19.925639, 39.625074]}, {"name": "Holy Fathers", "text": "A religious building in Corfu Town used for worship.", "category": "religious", "coords": [19.920628, 39.624365]}, {"name": "Catholic church Blessed Virgin of Carmel (Tenedo)", "text": "A Catholic church in Corfu Town with historic architecture.", "category": "religious", "coords": [19.917933, 39.624805]}, {"name": "Holy Metropolitan Church of the Virgin Mary Spilaiotissa, Saint Blaise and Saint Theodora Augusta", "text": "The main cathedral of Corfu Town, housing important religious relics.", "category": "religious", "coords": [19.921296, 39.625827]}, {"name": "St. Andrew", "text": "A church dedicated to Saint Andrew in Corfu Town.", "category": "religious", "coords": [19.923469, 39.627081]}, {"name": "Ag. Sofia", "text": "A religious building in Corfu Town dedicated to Saint Sophia.", "category": "religious", "coords": [19.920071, 39.623205]}, {"name": "Church of the Three Martyrs", "text": "A church in Corfu Town commemorating three Christian martyrs.", "category": "religious", "coords": [19.921885, 39.611192]}, {"name": "Byzantine Museum of Corfú", "text": "A museum in Corfu Town housing a significant collection of Byzantine icons.", "category": "museum", "coords": [19.926829, 39.623341]}, {"name": "Sarantari Bastion", "text": "A bastion belonging to the city's defense system.", "category": "castle", "coords": [19.918336, 39.623705]}, {"name": "English Army Cookhouse", "text": "A historic building of the British army located within the fortress.", "category": "castle", "coords": [19.927798, 39.622513]}, {"name": "Corfu Art Gallery", "text": "A gallery in Corfu Town exhibiting works by local artists.", "category": "museum", "coords": [19.911883, 39.625258]}, {"name": "Schulenburg Fort", "text": "A part of the outer fortifications for the city's defense.", "category": "fortress", "coords": [19.921456, 39.643627]}, {"name": "Ruins of Fort King George", "text": "The ruins of a former British fortification in Corfu.", "category": "fortress", "coords": [19.926596, 39.640309]}, {"name": "Teichos Flèche", "text": "Remains of a historic defensive wall in Corfu Town.", "category": "historical", "coords": [19.917459, 39.614565]}, {"name": "Porta Ottourata", "text": "One of the historic city gates in the Corfu Town fortifications.", "category": "fortress", "coords": [19.91788, 39.625783]}, {"name": "Porta Maggiore", "text": "The main gate of the Venetian fortifications in Corfu Town.", "category": "fortress", "coords": [19.925849, 39.623416]}, {"name": "Raimondo Bastion", "text": "A fortification work belonging to the Venetian city walls of Corfu.", "category": "fortress", "coords": [19.922269, 39.620047]}, {"name": "Avrami Fort", "text": "A historic fort on a hill overlooking Corfu Town.", "category": "historical", "coords": [19.912783, 39.623584]}]}
   },
   {
-    id: "greece-sparta-cities-v2",
+    id: "greece-sparta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ματτάλειο Κολυμβητήριο Σπάρτης",
+                  "text": "Ein Schwimmzentrum in Sparta, das für Schwimmtraining und sportliche Aktivitäten ausgestattet ist.",
+                  "category": "family",
+                  "coords": [
+                        22.43681,
+                        37.081247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ματτάλειο Κολυμβητήριο Σπάρτης",
+                  "text": "Úszóközpont Spártában, amely úszóedzésekhez és sporttevékenységekhez van felszerelve.",
+                  "category": "family",
+                  "coords": [
+                        22.43681,
+                        37.081247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ματτάλειο Κολυμβητήριο Σπάρτης",
+                  "text": "Un centru de înot în Sparta, echipat pentru antrenamente de înot și activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        22.43681,
+                        37.081247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mattalio Swimming Center of Sparti",
+                  "text": "A swimming center in Sparta equipped for swimming training and athletic activities.",
+                  "category": "family",
+                  "coords": [
+                        22.43681,
+                        37.081247
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Sparta", hu: "Spárta", ro: "Sparta", en: "Sparta"},
@@ -1106,7 +2123,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-florina-cities-v2",
+    id: "greece-florina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ζωολογικός Κήπος Φλώρινας",
+                  "text": "Florina Zoo in Florina ist ein schönes Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        21.384802,
+                        40.779532
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ζωολογικός Κήπος Φλώρινας",
+                  "text": "A Florina városában lévő Florina Zoo vidám helyszín egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        21.384802,
+                        40.779532
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ζωολογικός Κήπος Φλώρινας",
+                  "text": "Florina Zoo din Florina este o destinație distractivă pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        21.384802,
+                        40.779532
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Florina Zoo",
+                  "text": "Florina Zoo in Florina is a fun destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        21.384802,
+                        40.779532
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Florina", hu: "Flórina", ro: "Florina", en: "Florina"},
@@ -1153,7 +2215,1132 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-kastoria-cities-v2", "sights": {"de": [{"name": "Byzantinische Museum", "text": "Ein Museum in Kastoria, das eine bedeutende Sammlung byzantinischer Kunst und Ikonen beherbergt.", "category": "museum", "coords": [21.268529, 40.519286]}, {"name": "Kostum Museum", "text": "Ein Museum in Kastoria, das traditionelle griechische Trachten und Textilien ausstellt.", "category": "museum", "coords": [21.271586, 40.515886]}, {"name": "Volkskundemuseum", "text": "Das Volkskundemuseum von Kastoria zeigt das traditionelle Leben in einem historischen Herrenhaus.", "category": "museum", "coords": [21.273424, 40.516314]}, {"name": "Museum der Makedonischen Kampf", "text": "Ein Museum in Kastoria, das der Geschichte des makedonischen Kampfes gewidmet ist.", "category": "museum", "coords": [21.271855, 40.516908]}, {"name": "Archontiko Tsiatsiapa", "text": "Dieses traditionelle Herrenhaus in Kastoria dient heute als Museum für lokale Kultur.", "category": "museum", "coords": [21.273441, 40.521407]}, {"name": "Archontiko Papaterpoy", "text": "Ein prächtiges historisches Herrenhaus, das zum architektonischen Erbe von Kastoria gehört.", "category": "historical", "coords": [21.266264, 40.515008]}, {"name": "Archontiko Sapoyntzi", "text": "Dieses Gebäude in Kastoria ist ein charakteristisches Beispiel für ein traditionelles Herrenhaus.", "category": "historical", "coords": [21.27151, 40.521201]}, {"name": "Archontiko Skoytari", "text": "Dieses historische Herrenhaus ist ein markantes Denkmal in der Stadt Kastoria.", "category": "historical", "coords": [21.269272, 40.514719]}, {"name": "Agia Kyriaki", "text": "Eine traditionelle griechisch-orthodoxe Kirche im Herzen von Kastoria.", "category": "religious", "coords": [21.278803, 40.513456]}, {"name": "Profitis Ilias", "text": "Eine dem Propheten Elias gewidmete Kapelle mit Blick über die Stadt Kastoria.", "category": "religious", "coords": [21.276661, 40.522976]}, {"name": "Agioi Anargyroi Karydi", "text": "Eine der zahlreichen byzantinischen oder nachbyzantinischen Kirchen in Kastoria.", "category": "religious", "coords": [21.270623, 40.516305]}, {"name": "Agios Ioannis Theologos", "text": "Eine historische Kultstätte in Kastoria, die dem Heiligen Johannes dem Theologen gewidmet ist.", "category": "religious", "coords": [21.274607, 40.515756]}, {"name": "Agios Minas (Panagia Moyzeviki)", "text": "Eine historische Kirche in Kastoria, die auch als Panagia Mouzeviki bekannt ist.", "category": "religious", "coords": [21.272073, 40.518457]}, {"name": "Agios Dimitrios Eleoysas", "text": "Eine kleine orthodoxe Kapelle, die dem Heiligen Demetrios gewidmet ist.", "category": "religious", "coords": [21.272026, 40.51982]}, {"name": "Agios Nikolaos Kyritzi", "text": "Eine der vielen historischen Kirchen Kastorias, bekannt für ihre Architektur.", "category": "religious", "coords": [21.273192, 40.520025]}, {"name": "Agios Nikolaos Archontos Thomanoy", "text": "Eine historische Kirche, die den Namen eines lokalen Adligen trägt.", "category": "religious", "coords": [21.27045, 40.519942]}, {"name": "Agios Nikolaos Petritis", "text": "Eine historische orthodoxe Kapelle, die dem Heiligen Nikolaus gewidmet ist.", "category": "religious", "coords": [21.268233, 40.514538]}, {"name": "Agioi Treis", "text": "Eine kleine Kirche in Kastoria, die für ihre religiöse Tradition bekannt ist.", "category": "religious", "coords": [21.268675, 40.5166]}, {"name": "Agios Nikolaos Karavidas", "text": "Eine der zahlreichen Kapellen in Kastoria, die dem Heiligen Nikolaus gewidmet sind.", "category": "religious", "coords": [21.268311, 40.517701]}, {"name": "Agios Nikanoras", "text": "Eine moderne Kirche in Kastoria, die dem Heiligen Nikanor gewidmet ist.", "category": "religious", "coords": [21.257109, 40.534761]}, {"name": "Agios Ioannis Prodromos Apozari", "text": "Eine dem Heiligen Johannes dem Täufer gewidmete Kirche im Viertel Apozari.", "category": "religious", "coords": [21.269986, 40.520972]}, {"name": "Metamorfosi toy Sotiros", "text": "Eine Kirche, die dem christlichen Fest der Verklärung des Herrn gewidmet ist.", "category": "religious", "coords": [21.275917, 40.525054]}, {"name": "Panagia Faneromeni", "text": "Eine historische Kirche in Kastoria, bekannt für ihre religiöse Bedeutung.", "category": "religious", "coords": [21.267557, 40.521166]}, {"name": "Agios Athanasios Moyzaki", "text": "Eine kleine nachbyzantinische Kirche mit bedeutenden Wandmalereien.", "category": "religious", "coords": [21.267205, 40.515113]}, {"name": "Agios Nikolaos Magaleioy", "text": "Eine weitere der historischen Kirchen, die das Stadtbild von Kastoria prägen.", "category": "religious", "coords": [21.267417, 40.519348]}, {"name": "Agios Alypios Oikonomoy", "text": "Ein kleines religiöses Denkmal in der Altstadt von Kastoria.", "category": "religious", "coords": [21.265763, 40.518934]}, {"name": "Kastoria-See", "text": "Der Kastoria-See in Kastoria ist ein malerischer See, der Besucher einlädt, die Natur und landschaftlich reizvolle Spaziergänge zu genießen.", "category": "natural", "coords": [21.290019, 40.518365]}, {"name": "Babaloo", "text": "Babaloo ist ein Spielplatz in Kastoria, auf dem Kinder in einer familienfreundlichen Umgebung Spaß haben können.", "category": "family", "coords": [21.256383, 40.535976]}, {"name": "Paidiki Chara Christopoyloy", "text": "Παιδική Χαρά Χριστοπούλου ist ein Spielplatz in Kastoria, der für das aktive Spielen von Kindern ausgestattet ist.", "category": "family", "coords": [21.265061, 40.521977]}, {"name": "Paidiki Chara (katestramenos Choros , apofygete)", "text": "Dieser Ort in Kastoria wird als Spielplatz geführt, obwohl der Name darauf hindeutet, dass er derzeit beschädigt sein könnte und besser gemieden werden sollte.", "category": "family", "coords": [21.255411, 40.535407]}], "hu": [{"name": "Vyzantino Moyseio", "text": "Kasztoriai múzeum, amely jelentős bizánci művészeti és ikongyűjteményt őriz.", "category": "museum", "coords": [21.268529, 40.519286]}, {"name": "Endymatologiko Moyseio", "text": "Hagyományos görög népviseleteket és textileket bemutató múzeum Kasztoriában.", "category": "museum", "coords": [21.271586, 40.515886]}, {"name": "Laografiko Moyseio", "text": "Kasztoria néprajzi múzeuma a hagyományos életmódot mutatja be egy történelmi kúriában.", "category": "museum", "coords": [21.273424, 40.516314]}, {"name": "Moyseio Makedonikoy Agona", "text": "A macedóniai harcok történetének szentelt múzeum Kasztoria városában.", "category": "museum", "coords": [21.271855, 40.516908]}, {"name": "Archontiko Tsiatsiapa", "text": "Ez a kastoriai tradicionális udvarház ma helyi kulturális múzeumként működik.", "category": "museum", "coords": [21.273441, 40.521407]}, {"name": "Archontiko Papaterpoy", "text": "Egy impozáns történelmi udvarház, amely Kastoria építészeti örökségének része.", "category": "historical", "coords": [21.266264, 40.515008]}, {"name": "Archontiko Sapoyntzi", "text": "Ez a kastoriai épület a hagyományos udvarházak jellegzetes példája.", "category": "historical", "coords": [21.27151, 40.521201]}, {"name": "Archontiko Skoytari", "text": "Ez a történelmi udvarház Kastoria városának egyik jellegzetes műemléke.", "category": "historical", "coords": [21.269272, 40.514719]}, {"name": "Agia Kyriaki", "text": "Hagyományos görög ortodox templom Kastoria szívében.", "category": "religious", "coords": [21.278803, 40.513456]}, {"name": "Profitis Ilias", "text": "Illés prófétának szentelt kápolna, amely Kastoria városára néz.", "category": "religious", "coords": [21.276661, 40.522976]}, {"name": "Agioi Anargyroi Karydi", "text": "Kastoria számos bizánci vagy bizánci utáni templomának egyike.", "category": "religious", "coords": [21.270623, 40.516305]}, {"name": "Agios Ioannis Theologos", "text": "Szent János teológusnak szentelt történelmi istentiszteleti hely Kastoriában.", "category": "religious", "coords": [21.274607, 40.515756]}, {"name": "Agios Minas (Panagia Moyzeviki)", "text": "Történelmi templom Kastoriában, amelyet Panagia Mouzeviki néven is ismernek.", "category": "religious", "coords": [21.272073, 40.518457]}, {"name": "Agios Dimitrios Eleoysas", "text": "Szent Demeternek szentelt kisméretű ortodox kápolna.", "category": "religious", "coords": [21.272026, 40.51982]}, {"name": "Agios Nikolaos Kyritzi", "text": "Kastoria számos történelmi templomának egyike, amely építészetéről ismert.", "category": "religious", "coords": [21.273192, 40.520025]}, {"name": "Agios Nikolaos Archontos Thomanoy", "text": "Történelmi templom, amely egy helyi nemes nevét viseli.", "category": "religious", "coords": [21.27045, 40.519942]}, {"name": "Agios Nikolaos Petritis", "text": "Szent Miklósnak szentelt történelmi ortodox kápolna.", "category": "religious", "coords": [21.268233, 40.514538]}, {"name": "Agioi Treis", "text": "Kisméretű templom Kastoriában, amely vallási hagyományairól ismert.", "category": "religious", "coords": [21.268675, 40.5166]}, {"name": "Agios Nikolaos Karavidas", "text": "Kastoria számos Szent Miklósnak szentelt kápolnájának egyike.", "category": "religious", "coords": [21.268311, 40.517701]}, {"name": "Agios Nikanoras", "text": "Modern templom Kastoriában, amelyet Szent Nikanórnak szenteltek.", "category": "religious", "coords": [21.257109, 40.534761]}, {"name": "Agios Ioannis Prodromos Apozari", "text": "Keresztelő Szent Jánosnak szentelt templom az Apozari negyedben.", "category": "religious", "coords": [21.269986, 40.520972]}, {"name": "Metamorfosi toy Sotiros", "text": "Az Úr színeváltozása ünnepének szentelt templom.", "category": "religious", "coords": [21.275917, 40.525054]}, {"name": "Panagia Faneromeni", "text": "Történelmi templom Kastoriában, amely vallási jelentőségéről ismert.", "category": "religious", "coords": [21.267557, 40.521166]}, {"name": "Agios Athanasios Moyzaki", "text": "Kisméretű bizánci utáni templom jelentős falfestményekkel.", "category": "religious", "coords": [21.267205, 40.515113]}, {"name": "Agios Nikolaos Magaleioy", "text": "Egy újabb történelmi templom, amely Kastoria városképét meghatározza.", "category": "religious", "coords": [21.267417, 40.519348]}, {"name": "Agios Alypios Oikonomoy", "text": "Kisméretű vallási műemlék Kastoria óvárosában.", "category": "religious", "coords": [21.265763, 40.518934]}, {"name": "Limni Kastorias", "text": "A Kastoriában található Kastoria-tó egy festői tó, amely természetjárásra és hangulatos sétákra csábítja a látogatókat.", "category": "natural", "coords": [21.290019, 40.518365]}, {"name": "Babaloo", "text": "A Babaloo egy kastoriai játszótér, ahol a gyerekek családbarát környezetben szórakozhatnak.", "category": "family", "coords": [21.256383, 40.535976]}, {"name": "Paidiki Chara Christopoyloy", "text": "A Παιδική Χαρά Χριστοπούλου egy kastoriai játszótér, amely a gyermekek aktív játékidejét szolgálja.", "category": "family", "coords": [21.265061, 40.521977]}, {"name": "Paidiki Chara (katestramenos Choros , apofygete)", "text": "Ez a kastoriai helyszín játszótérként szerepel, bár a neve arra utal, hogy jelenleg megrongálódott, és érdemes elkerülni.", "category": "family", "coords": [21.255411, 40.535407]}], "ro": [{"name": "Vyzantino Moyseio", "text": "Un muzeu din Kastoria care găzduiește o colecție importantă de artă și icoane bizantine.", "category": "museum", "coords": [21.268529, 40.519286]}, {"name": "Endymatologiko Moyseio", "text": "Un muzeu din Kastoria care expune costume și textile tradiționale grecești.", "category": "museum", "coords": [21.271586, 40.515886]}, {"name": "Laografiko Moyseio", "text": "Muzeul de folclor din Kastoria prezintă viața tradițională într-un conac istoric.", "category": "museum", "coords": [21.273424, 40.516314]}, {"name": "Moyseio Makedonikoy Agona", "text": "Un muzeu din Kastoria dedicat istoriei luptei macedonene.", "category": "museum", "coords": [21.271855, 40.516908]}, {"name": "Archontiko Tsiatsiapa", "text": "Acest conac tradițional din Kastoria funcționează astăzi ca muzeu de cultură locală.", "category": "museum", "coords": [21.273441, 40.521407]}, {"name": "Archontiko Papaterpoy", "text": "Un conac istoric impunător care face parte din moștenirea arhitecturală a Kastoriei.", "category": "historical", "coords": [21.266264, 40.515008]}, {"name": "Archontiko Sapoyntzi", "text": "Această clădire din Kastoria este un exemplu caracteristic de conac tradițional.", "category": "historical", "coords": [21.27151, 40.521201]}, {"name": "Archontiko Skoytari", "text": "Acest conac istoric este un monument distinctiv în orașul Kastoria.", "category": "historical", "coords": [21.269272, 40.514719]}, {"name": "Agia Kyriaki", "text": "O biserică ortodoxă grecească tradițională aflată în inima Kastoriei.", "category": "religious", "coords": [21.278803, 40.513456]}, {"name": "Profitis Ilias", "text": "O capelă dedicată Profetului Ilie, oferind o priveliște asupra orașului Kastoria.", "category": "religious", "coords": [21.276661, 40.522976]}, {"name": "Agioi Anargyroi Karydi", "text": "Una dintre numeroasele biserici bizantine sau post-bizantine din Kastoria.", "category": "religious", "coords": [21.270623, 40.516305]}, {"name": "Agios Ioannis Theologos", "text": "Un lăcaș de cult istoric din Kastoria dedicat Sfântului Ioan Teologul.", "category": "religious", "coords": [21.274607, 40.515756]}, {"name": "Agios Minas (Panagia Moyzeviki)", "text": "O biserică istorică din Kastoria, cunoscută și sub numele de Panagia Mouzeviki.", "category": "religious", "coords": [21.272073, 40.518457]}, {"name": "Agios Dimitrios Eleoysas", "text": "O mică capelă ortodoxă dedicată Sfântului Dimitrie.", "category": "religious", "coords": [21.272026, 40.51982]}, {"name": "Agios Nikolaos Kyritzi", "text": "Una dintre numeroasele biserici istorice din Kastoria, cunoscută pentru arhitectura sa.", "category": "religious", "coords": [21.273192, 40.520025]}, {"name": "Agios Nikolaos Archontos Thomanoy", "text": "O biserică istorică ce poartă numele unui nobil local.", "category": "religious", "coords": [21.27045, 40.519942]}, {"name": "Agios Nikolaos Petritis", "text": "O mică capelă ortodoxă istorică dedicată Sfântului Nicolae.", "category": "religious", "coords": [21.268233, 40.514538]}, {"name": "Agioi Treis", "text": "O mică biserică din Kastoria cunoscută pentru tradiția sa religioasă.", "category": "religious", "coords": [21.268675, 40.5166]}, {"name": "Agios Nikolaos Karavidas", "text": "Una dintre numeroasele capele din Kastoria dedicate Sfântului Nicolae.", "category": "religious", "coords": [21.268311, 40.517701]}, {"name": "Agios Nikanoras", "text": "O biserică modernă din Kastoria dedicată Sfântului Nicanor.", "category": "religious", "coords": [21.257109, 40.534761]}, {"name": "Agios Ioannis Prodromos Apozari", "text": "O biserică dedicată Sfântului Ioan Botezătorul în cartierul Apozari.", "category": "religious", "coords": [21.269986, 40.520972]}, {"name": "Metamorfosi toy Sotiros", "text": "O biserică dedicată sărbătorii Schimbării la Față a Domnului.", "category": "religious", "coords": [21.275917, 40.525054]}, {"name": "Panagia Faneromeni", "text": "O biserică istorică din Kastoria cunoscută pentru importanța sa religioasă.", "category": "religious", "coords": [21.267557, 40.521166]}, {"name": "Agios Athanasios Moyzaki", "text": "O mică biserică post-bizantină cu picturi murale importante.", "category": "religious", "coords": [21.267205, 40.515113]}, {"name": "Agios Nikolaos Magaleioy", "text": "O altă biserică istorică ce definește peisajul urban din Kastoria.", "category": "religious", "coords": [21.267417, 40.519348]}, {"name": "Agios Alypios Oikonomoy", "text": "Un mic monument religios în centrul vechi al Kastoriei.", "category": "religious", "coords": [21.265763, 40.518934]}, {"name": "Limni Kastorias", "text": "Lacul Kastoria, situat în Kastoria, este un lac pitoresc care invită vizitatorii să se bucure de natură și de plimbări pitorești.", "category": "natural", "coords": [21.290019, 40.518365]}, {"name": "Babaloo", "text": "Babaloo este un loc de joacă în Kastoria unde copiii se pot distra într-un mediu prietenos pentru familii.", "category": "family", "coords": [21.256383, 40.535976]}, {"name": "Paidiki Chara Christopoyloy", "text": "Παιδική Χαρά Χριστοπούλου este un loc de joacă în Kastoria, dotat pentru timpul de joacă activ al copiilor.", "category": "family", "coords": [21.265061, 40.521977]}, {"name": "Paidiki Chara (katestramenos Choros , apofygete)", "text": "Această locație din Kastoria este listată ca loc de joacă, deși numele sugerează că ar putea fi deteriorat în prezent și ar trebui evitat.", "category": "family", "coords": [21.255411, 40.535407]}], "en": [{"name": "Byzantine Museum", "text": "A museum in Kastoria housing a significant collection of Byzantine art and icons.", "category": "museum", "coords": [21.268529, 40.519286]}, {"name": "Costume Museum", "text": "A museum in Kastoria exhibiting traditional Greek costumes and textiles.", "category": "museum", "coords": [21.271586, 40.515886]}, {"name": "Folklore Museum", "text": "The folklore museum of Kastoria showcases traditional life within a historical manor.", "category": "museum", "coords": [21.273424, 40.516314]}, {"name": "Museum of the Macedonian Struggle", "text": "A museum in Kastoria dedicated to the history of the Macedonian Struggle.", "category": "museum", "coords": [21.271855, 40.516908]}, {"name": "Archontiko Tsiatsiapa", "text": "This traditional mansion in Kastoria now serves as a museum of local culture.", "category": "museum", "coords": [21.273441, 40.521407]}, {"name": "Archontiko Papaterpoy", "text": "A grand historic manor that is part of the architectural heritage of Kastoria.", "category": "historical", "coords": [21.266264, 40.515008]}, {"name": "Archontiko Sapoyntzi", "text": "This building in Kastoria is a characteristic example of a traditional manor.", "category": "historical", "coords": [21.27151, 40.521201]}, {"name": "Archontiko Skoytari", "text": "This historic manor is a distinctive monument in the city of Kastoria.", "category": "historical", "coords": [21.269272, 40.514719]}, {"name": "Agia Kyriaki", "text": "A traditional Greek Orthodox church located in the heart of Kastoria.", "category": "religious", "coords": [21.278803, 40.513456]}, {"name": "Profitis Ilias", "text": "A chapel dedicated to Prophet Elias overlooking the city of Kastoria.", "category": "religious", "coords": [21.276661, 40.522976]}, {"name": "Agioi Anargyroi Karydi", "text": "One of the numerous Byzantine or post-Byzantine churches in Kastoria.", "category": "religious", "coords": [21.270623, 40.516305]}, {"name": "Agios Ioannis Theologos", "text": "A historic place of worship in Kastoria dedicated to Saint John the Theologian.", "category": "religious", "coords": [21.274607, 40.515756]}, {"name": "Agios Minas (Panagia Moyzeviki)", "text": "A historic church in Kastoria, also known as Panagia Mouzeviki.", "category": "religious", "coords": [21.272073, 40.518457]}, {"name": "Agios Dimitrios Eleoysas", "text": "A small Orthodox chapel dedicated to Saint Demetrios.", "category": "religious", "coords": [21.272026, 40.51982]}, {"name": "Agios Nikolaos Kyritzi", "text": "One of Kastoria's many historic churches, known for its architecture.", "category": "religious", "coords": [21.273192, 40.520025]}, {"name": "Agios Nikolaos Archontos Thomanoy", "text": "A historic church bearing the name of a local nobleman.", "category": "religious", "coords": [21.27045, 40.519942]}, {"name": "Agios Nikolaos Petritis", "text": "A historic Orthodox chapel dedicated to Saint Nicholas.", "category": "religious", "coords": [21.268233, 40.514538]}, {"name": "Agioi Treis", "text": "A small church in Kastoria known for its religious tradition.", "category": "religious", "coords": [21.268675, 40.5166]}, {"name": "Agios Nikolaos Karavidas", "text": "One of the many chapels in Kastoria dedicated to Saint Nicholas.", "category": "religious", "coords": [21.268311, 40.517701]}, {"name": "Agios Nikanoras", "text": "A modern church in Kastoria dedicated to Saint Nikanor.", "category": "religious", "coords": [21.257109, 40.534761]}, {"name": "Agios Ioannis Prodromos Apozari", "text": "A church dedicated to Saint John the Baptist in the Apozari district.", "category": "religious", "coords": [21.269986, 40.520972]}, {"name": "Metamorfosi toy Sotiros", "text": "A church dedicated to the feast of the Transfiguration of the Saviour.", "category": "religious", "coords": [21.275917, 40.525054]}, {"name": "Panagia Faneromeni", "text": "A historic church in Kastoria known for its religious significance.", "category": "religious", "coords": [21.267557, 40.521166]}, {"name": "Agios Athanasios Moyzaki", "text": "A small post-Byzantine church with significant wall paintings.", "category": "religious", "coords": [21.267205, 40.515113]}, {"name": "Agios Nikolaos Magaleioy", "text": "Another one of the historic churches that define the cityscape of Kastoria.", "category": "religious", "coords": [21.267417, 40.519348]}, {"name": "Agios Alypios Oikonomoy", "text": "A small religious monument in the old town of Kastoria.", "category": "religious", "coords": [21.265763, 40.518934]}, {"name": "Lake Kastoria", "text": "Lake Kastoria, located in Kastoria, is a picturesque lake that invites visitors to enjoy nature and scenic walks.", "category": "natural", "coords": [21.290019, 40.518365]}, {"name": "Babaloo", "text": "Babaloo is a playground in Kastoria where kids can have fun in a family-friendly environment.", "category": "family", "coords": [21.256383, 40.535976]}, {"name": "Paidiki Chara Christopoyloy", "text": "Παιδική Χαρά Χριστοπούλου is a playground in Kastoria equipped for children's active playtime.", "category": "family", "coords": [21.265061, 40.521977]}, {"name": "Paidiki Chara (katestramenos Choros , apofygete)", "text": "This location in Kastoria is listed as a playground, though its name suggests it might currently be damaged and best avoided.", "category": "family", "coords": [21.255411, 40.535407]}]},
+    id: "greece-kastoria-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Byzantinische Museum",
+                  "text": "Ein Museum in Kastoria, das eine bedeutende Sammlung byzantinischer Kunst und Ikonen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        21.268529,
+                        40.519286
+                  ]
+            },
+            {
+                  "name": "Kostum Museum",
+                  "text": "Ein Museum in Kastoria, das traditionelle griechische Trachten und Textilien ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        21.271586,
+                        40.515886
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum",
+                  "text": "Das Volkskundemuseum von Kastoria zeigt das traditionelle Leben in einem historischen Herrenhaus.",
+                  "category": "museum",
+                  "coords": [
+                        21.273424,
+                        40.516314
+                  ]
+            },
+            {
+                  "name": "Museum der Makedonischen Kampf",
+                  "text": "Ein Museum in Kastoria, das der Geschichte des makedonischen Kampfes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.271855,
+                        40.516908
+                  ]
+            },
+            {
+                  "name": "Archontiko Tsiatsiapa",
+                  "text": "Dieses traditionelle Herrenhaus in Kastoria dient heute als Museum für lokale Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        21.273441,
+                        40.521407
+                  ]
+            },
+            {
+                  "name": "Archontiko Papaterpoy",
+                  "text": "Ein prächtiges historisches Herrenhaus, das zum architektonischen Erbe von Kastoria gehört.",
+                  "category": "historical",
+                  "coords": [
+                        21.266264,
+                        40.515008
+                  ]
+            },
+            {
+                  "name": "Archontiko Sapoyntzi",
+                  "text": "Dieses Gebäude in Kastoria ist ein charakteristisches Beispiel für ein traditionelles Herrenhaus.",
+                  "category": "historical",
+                  "coords": [
+                        21.27151,
+                        40.521201
+                  ]
+            },
+            {
+                  "name": "Archontiko Skoytari",
+                  "text": "Dieses historische Herrenhaus ist ein markantes Denkmal in der Stadt Kastoria.",
+                  "category": "historical",
+                  "coords": [
+                        21.269272,
+                        40.514719
+                  ]
+            },
+            {
+                  "name": "Agia Kyriaki",
+                  "text": "Eine traditionelle griechisch-orthodoxe Kirche im Herzen von Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.278803,
+                        40.513456
+                  ]
+            },
+            {
+                  "name": "Profitis Ilias",
+                  "text": "Eine dem Propheten Elias gewidmete Kapelle mit Blick über die Stadt Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.276661,
+                        40.522976
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi Karydi",
+                  "text": "Eine der zahlreichen byzantinischen oder nachbyzantinischen Kirchen in Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.270623,
+                        40.516305
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis Theologos",
+                  "text": "Eine historische Kultstätte in Kastoria, die dem Heiligen Johannes dem Theologen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.274607,
+                        40.515756
+                  ]
+            },
+            {
+                  "name": "Agios Minas (Panagia Moyzeviki)",
+                  "text": "Eine historische Kirche in Kastoria, die auch als Panagia Mouzeviki bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.272073,
+                        40.518457
+                  ]
+            },
+            {
+                  "name": "Agios Dimitrios Eleoysas",
+                  "text": "Eine kleine orthodoxe Kapelle, die dem Heiligen Demetrios gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.272026,
+                        40.51982
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Kyritzi",
+                  "text": "Eine der vielen historischen Kirchen Kastorias, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        21.273192,
+                        40.520025
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Archontos Thomanoy",
+                  "text": "Eine historische Kirche, die den Namen eines lokalen Adligen trägt.",
+                  "category": "religious",
+                  "coords": [
+                        21.27045,
+                        40.519942
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Petritis",
+                  "text": "Eine historische orthodoxe Kapelle, die dem Heiligen Nikolaus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.268233,
+                        40.514538
+                  ]
+            },
+            {
+                  "name": "Agioi Treis",
+                  "text": "Eine kleine Kirche in Kastoria, die für ihre religiöse Tradition bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.268675,
+                        40.5166
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Karavidas",
+                  "text": "Eine der zahlreichen Kapellen in Kastoria, die dem Heiligen Nikolaus gewidmet sind.",
+                  "category": "religious",
+                  "coords": [
+                        21.268311,
+                        40.517701
+                  ]
+            },
+            {
+                  "name": "Agios Nikanoras",
+                  "text": "Eine moderne Kirche in Kastoria, die dem Heiligen Nikanor gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.257109,
+                        40.534761
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis Prodromos Apozari",
+                  "text": "Eine dem Heiligen Johannes dem Täufer gewidmete Kirche im Viertel Apozari.",
+                  "category": "religious",
+                  "coords": [
+                        21.269986,
+                        40.520972
+                  ]
+            },
+            {
+                  "name": "Metamorfosi toy Sotiros",
+                  "text": "Eine Kirche, die dem christlichen Fest der Verklärung des Herrn gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.275917,
+                        40.525054
+                  ]
+            },
+            {
+                  "name": "Panagia Faneromeni",
+                  "text": "Eine historische Kirche in Kastoria, bekannt für ihre religiöse Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        21.267557,
+                        40.521166
+                  ]
+            },
+            {
+                  "name": "Agios Athanasios Moyzaki",
+                  "text": "Eine kleine nachbyzantinische Kirche mit bedeutenden Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        21.267205,
+                        40.515113
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Magaleioy",
+                  "text": "Eine weitere der historischen Kirchen, die das Stadtbild von Kastoria prägen.",
+                  "category": "religious",
+                  "coords": [
+                        21.267417,
+                        40.519348
+                  ]
+            },
+            {
+                  "name": "Agios Alypios Oikonomoy",
+                  "text": "Ein kleines religiöses Denkmal in der Altstadt von Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.265763,
+                        40.518934
+                  ]
+            },
+            {
+                  "name": "Kastoria-See",
+                  "text": "Der Kastoria-See in Kastoria ist ein malerischer See, der Besucher einlädt, die Natur und landschaftlich reizvolle Spaziergänge zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        21.290019,
+                        40.518365
+                  ]
+            },
+            {
+                  "name": "Babaloo",
+                  "text": "Babaloo ist ein Spielplatz in Kastoria, auf dem Kinder in einer familienfreundlichen Umgebung Spaß haben können.",
+                  "category": "family",
+                  "coords": [
+                        21.256383,
+                        40.535976
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Christopoyloy",
+                  "text": "Παιδική Χαρά Χριστοπούλου ist ein Spielplatz in Kastoria, der für das aktive Spielen von Kindern ausgestattet ist.",
+                  "category": "family",
+                  "coords": [
+                        21.265061,
+                        40.521977
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara (katestramenos Choros , apofygete)",
+                  "text": "Dieser Ort in Kastoria wird als Spielplatz geführt, obwohl der Name darauf hindeutet, dass er derzeit beschädigt sein könnte und besser gemieden werden sollte.",
+                  "category": "family",
+                  "coords": [
+                        21.255411,
+                        40.535407
+                  ]
+            },
+            {
+                  "name": "Ενυδρείο Καστοριάς",
+                  "text": "Ein Aquarium in Kastoria, das eine Vielfalt an Wasserlebewesen der Region präsentiert.",
+                  "category": "family",
+                  "coords": [
+                        21.253087,
+                        40.51288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vyzantino Moyseio",
+                  "text": "Kasztoriai múzeum, amely jelentős bizánci művészeti és ikongyűjteményt őriz.",
+                  "category": "museum",
+                  "coords": [
+                        21.268529,
+                        40.519286
+                  ]
+            },
+            {
+                  "name": "Endymatologiko Moyseio",
+                  "text": "Hagyományos görög népviseleteket és textileket bemutató múzeum Kasztoriában.",
+                  "category": "museum",
+                  "coords": [
+                        21.271586,
+                        40.515886
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio",
+                  "text": "Kasztoria néprajzi múzeuma a hagyományos életmódot mutatja be egy történelmi kúriában.",
+                  "category": "museum",
+                  "coords": [
+                        21.273424,
+                        40.516314
+                  ]
+            },
+            {
+                  "name": "Moyseio Makedonikoy Agona",
+                  "text": "A macedóniai harcok történetének szentelt múzeum Kasztoria városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.271855,
+                        40.516908
+                  ]
+            },
+            {
+                  "name": "Archontiko Tsiatsiapa",
+                  "text": "Ez a kastoriai tradicionális udvarház ma helyi kulturális múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        21.273441,
+                        40.521407
+                  ]
+            },
+            {
+                  "name": "Archontiko Papaterpoy",
+                  "text": "Egy impozáns történelmi udvarház, amely Kastoria építészeti örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        21.266264,
+                        40.515008
+                  ]
+            },
+            {
+                  "name": "Archontiko Sapoyntzi",
+                  "text": "Ez a kastoriai épület a hagyományos udvarházak jellegzetes példája.",
+                  "category": "historical",
+                  "coords": [
+                        21.27151,
+                        40.521201
+                  ]
+            },
+            {
+                  "name": "Archontiko Skoytari",
+                  "text": "Ez a történelmi udvarház Kastoria városának egyik jellegzetes műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        21.269272,
+                        40.514719
+                  ]
+            },
+            {
+                  "name": "Agia Kyriaki",
+                  "text": "Hagyományos görög ortodox templom Kastoria szívében.",
+                  "category": "religious",
+                  "coords": [
+                        21.278803,
+                        40.513456
+                  ]
+            },
+            {
+                  "name": "Profitis Ilias",
+                  "text": "Illés prófétának szentelt kápolna, amely Kastoria városára néz.",
+                  "category": "religious",
+                  "coords": [
+                        21.276661,
+                        40.522976
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi Karydi",
+                  "text": "Kastoria számos bizánci vagy bizánci utáni templomának egyike.",
+                  "category": "religious",
+                  "coords": [
+                        21.270623,
+                        40.516305
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis Theologos",
+                  "text": "Szent János teológusnak szentelt történelmi istentiszteleti hely Kastoriában.",
+                  "category": "religious",
+                  "coords": [
+                        21.274607,
+                        40.515756
+                  ]
+            },
+            {
+                  "name": "Agios Minas (Panagia Moyzeviki)",
+                  "text": "Történelmi templom Kastoriában, amelyet Panagia Mouzeviki néven is ismernek.",
+                  "category": "religious",
+                  "coords": [
+                        21.272073,
+                        40.518457
+                  ]
+            },
+            {
+                  "name": "Agios Dimitrios Eleoysas",
+                  "text": "Szent Demeternek szentelt kisméretű ortodox kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        21.272026,
+                        40.51982
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Kyritzi",
+                  "text": "Kastoria számos történelmi templomának egyike, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        21.273192,
+                        40.520025
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Archontos Thomanoy",
+                  "text": "Történelmi templom, amely egy helyi nemes nevét viseli.",
+                  "category": "religious",
+                  "coords": [
+                        21.27045,
+                        40.519942
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Petritis",
+                  "text": "Szent Miklósnak szentelt történelmi ortodox kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        21.268233,
+                        40.514538
+                  ]
+            },
+            {
+                  "name": "Agioi Treis",
+                  "text": "Kisméretű templom Kastoriában, amely vallási hagyományairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        21.268675,
+                        40.5166
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Karavidas",
+                  "text": "Kastoria számos Szent Miklósnak szentelt kápolnájának egyike.",
+                  "category": "religious",
+                  "coords": [
+                        21.268311,
+                        40.517701
+                  ]
+            },
+            {
+                  "name": "Agios Nikanoras",
+                  "text": "Modern templom Kastoriában, amelyet Szent Nikanórnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        21.257109,
+                        40.534761
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis Prodromos Apozari",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom az Apozari negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        21.269986,
+                        40.520972
+                  ]
+            },
+            {
+                  "name": "Metamorfosi toy Sotiros",
+                  "text": "Az Úr színeváltozása ünnepének szentelt templom.",
+                  "category": "religious",
+                  "coords": [
+                        21.275917,
+                        40.525054
+                  ]
+            },
+            {
+                  "name": "Panagia Faneromeni",
+                  "text": "Történelmi templom Kastoriában, amely vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        21.267557,
+                        40.521166
+                  ]
+            },
+            {
+                  "name": "Agios Athanasios Moyzaki",
+                  "text": "Kisméretű bizánci utáni templom jelentős falfestményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        21.267205,
+                        40.515113
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Magaleioy",
+                  "text": "Egy újabb történelmi templom, amely Kastoria városképét meghatározza.",
+                  "category": "religious",
+                  "coords": [
+                        21.267417,
+                        40.519348
+                  ]
+            },
+            {
+                  "name": "Agios Alypios Oikonomoy",
+                  "text": "Kisméretű vallási műemlék Kastoria óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        21.265763,
+                        40.518934
+                  ]
+            },
+            {
+                  "name": "Limni Kastorias",
+                  "text": "A Kastoriában található Kastoria-tó egy festői tó, amely természetjárásra és hangulatos sétákra csábítja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        21.290019,
+                        40.518365
+                  ]
+            },
+            {
+                  "name": "Babaloo",
+                  "text": "A Babaloo egy kastoriai játszótér, ahol a gyerekek családbarát környezetben szórakozhatnak.",
+                  "category": "family",
+                  "coords": [
+                        21.256383,
+                        40.535976
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Christopoyloy",
+                  "text": "A Παιδική Χαρά Χριστοπούλου egy kastoriai játszótér, amely a gyermekek aktív játékidejét szolgálja.",
+                  "category": "family",
+                  "coords": [
+                        21.265061,
+                        40.521977
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara (katestramenos Choros , apofygete)",
+                  "text": "Ez a kastoriai helyszín játszótérként szerepel, bár a neve arra utal, hogy jelenleg megrongálódott, és érdemes elkerülni.",
+                  "category": "family",
+                  "coords": [
+                        21.255411,
+                        40.535407
+                  ]
+            },
+            {
+                  "name": "Ενυδρείο Καστοριάς",
+                  "text": "Akvárium Kasztoriában, amely bemutatja a régió változatos vízi élővilágát.",
+                  "category": "family",
+                  "coords": [
+                        21.253087,
+                        40.51288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vyzantino Moyseio",
+                  "text": "Un muzeu din Kastoria care găzduiește o colecție importantă de artă și icoane bizantine.",
+                  "category": "museum",
+                  "coords": [
+                        21.268529,
+                        40.519286
+                  ]
+            },
+            {
+                  "name": "Endymatologiko Moyseio",
+                  "text": "Un muzeu din Kastoria care expune costume și textile tradiționale grecești.",
+                  "category": "museum",
+                  "coords": [
+                        21.271586,
+                        40.515886
+                  ]
+            },
+            {
+                  "name": "Laografiko Moyseio",
+                  "text": "Muzeul de folclor din Kastoria prezintă viața tradițională într-un conac istoric.",
+                  "category": "museum",
+                  "coords": [
+                        21.273424,
+                        40.516314
+                  ]
+            },
+            {
+                  "name": "Moyseio Makedonikoy Agona",
+                  "text": "Un muzeu din Kastoria dedicat istoriei luptei macedonene.",
+                  "category": "museum",
+                  "coords": [
+                        21.271855,
+                        40.516908
+                  ]
+            },
+            {
+                  "name": "Archontiko Tsiatsiapa",
+                  "text": "Acest conac tradițional din Kastoria funcționează astăzi ca muzeu de cultură locală.",
+                  "category": "museum",
+                  "coords": [
+                        21.273441,
+                        40.521407
+                  ]
+            },
+            {
+                  "name": "Archontiko Papaterpoy",
+                  "text": "Un conac istoric impunător care face parte din moștenirea arhitecturală a Kastoriei.",
+                  "category": "historical",
+                  "coords": [
+                        21.266264,
+                        40.515008
+                  ]
+            },
+            {
+                  "name": "Archontiko Sapoyntzi",
+                  "text": "Această clădire din Kastoria este un exemplu caracteristic de conac tradițional.",
+                  "category": "historical",
+                  "coords": [
+                        21.27151,
+                        40.521201
+                  ]
+            },
+            {
+                  "name": "Archontiko Skoytari",
+                  "text": "Acest conac istoric este un monument distinctiv în orașul Kastoria.",
+                  "category": "historical",
+                  "coords": [
+                        21.269272,
+                        40.514719
+                  ]
+            },
+            {
+                  "name": "Agia Kyriaki",
+                  "text": "O biserică ortodoxă grecească tradițională aflată în inima Kastoriei.",
+                  "category": "religious",
+                  "coords": [
+                        21.278803,
+                        40.513456
+                  ]
+            },
+            {
+                  "name": "Profitis Ilias",
+                  "text": "O capelă dedicată Profetului Ilie, oferind o priveliște asupra orașului Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.276661,
+                        40.522976
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi Karydi",
+                  "text": "Una dintre numeroasele biserici bizantine sau post-bizantine din Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.270623,
+                        40.516305
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis Theologos",
+                  "text": "Un lăcaș de cult istoric din Kastoria dedicat Sfântului Ioan Teologul.",
+                  "category": "religious",
+                  "coords": [
+                        21.274607,
+                        40.515756
+                  ]
+            },
+            {
+                  "name": "Agios Minas (Panagia Moyzeviki)",
+                  "text": "O biserică istorică din Kastoria, cunoscută și sub numele de Panagia Mouzeviki.",
+                  "category": "religious",
+                  "coords": [
+                        21.272073,
+                        40.518457
+                  ]
+            },
+            {
+                  "name": "Agios Dimitrios Eleoysas",
+                  "text": "O mică capelă ortodoxă dedicată Sfântului Dimitrie.",
+                  "category": "religious",
+                  "coords": [
+                        21.272026,
+                        40.51982
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Kyritzi",
+                  "text": "Una dintre numeroasele biserici istorice din Kastoria, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        21.273192,
+                        40.520025
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Archontos Thomanoy",
+                  "text": "O biserică istorică ce poartă numele unui nobil local.",
+                  "category": "religious",
+                  "coords": [
+                        21.27045,
+                        40.519942
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Petritis",
+                  "text": "O mică capelă ortodoxă istorică dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        21.268233,
+                        40.514538
+                  ]
+            },
+            {
+                  "name": "Agioi Treis",
+                  "text": "O mică biserică din Kastoria cunoscută pentru tradiția sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        21.268675,
+                        40.5166
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Karavidas",
+                  "text": "Una dintre numeroasele capele din Kastoria dedicate Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        21.268311,
+                        40.517701
+                  ]
+            },
+            {
+                  "name": "Agios Nikanoras",
+                  "text": "O biserică modernă din Kastoria dedicată Sfântului Nicanor.",
+                  "category": "religious",
+                  "coords": [
+                        21.257109,
+                        40.534761
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis Prodromos Apozari",
+                  "text": "O biserică dedicată Sfântului Ioan Botezătorul în cartierul Apozari.",
+                  "category": "religious",
+                  "coords": [
+                        21.269986,
+                        40.520972
+                  ]
+            },
+            {
+                  "name": "Metamorfosi toy Sotiros",
+                  "text": "O biserică dedicată sărbătorii Schimbării la Față a Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        21.275917,
+                        40.525054
+                  ]
+            },
+            {
+                  "name": "Panagia Faneromeni",
+                  "text": "O biserică istorică din Kastoria cunoscută pentru importanța sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        21.267557,
+                        40.521166
+                  ]
+            },
+            {
+                  "name": "Agios Athanasios Moyzaki",
+                  "text": "O mică biserică post-bizantină cu picturi murale importante.",
+                  "category": "religious",
+                  "coords": [
+                        21.267205,
+                        40.515113
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Magaleioy",
+                  "text": "O altă biserică istorică ce definește peisajul urban din Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.267417,
+                        40.519348
+                  ]
+            },
+            {
+                  "name": "Agios Alypios Oikonomoy",
+                  "text": "Un mic monument religios în centrul vechi al Kastoriei.",
+                  "category": "religious",
+                  "coords": [
+                        21.265763,
+                        40.518934
+                  ]
+            },
+            {
+                  "name": "Limni Kastorias",
+                  "text": "Lacul Kastoria, situat în Kastoria, este un lac pitoresc care invită vizitatorii să se bucure de natură și de plimbări pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        21.290019,
+                        40.518365
+                  ]
+            },
+            {
+                  "name": "Babaloo",
+                  "text": "Babaloo este un loc de joacă în Kastoria unde copiii se pot distra într-un mediu prietenos pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.256383,
+                        40.535976
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Christopoyloy",
+                  "text": "Παιδική Χαρά Χριστοπούλου este un loc de joacă în Kastoria, dotat pentru timpul de joacă activ al copiilor.",
+                  "category": "family",
+                  "coords": [
+                        21.265061,
+                        40.521977
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara (katestramenos Choros , apofygete)",
+                  "text": "Această locație din Kastoria este listată ca loc de joacă, deși numele sugerează că ar putea fi deteriorat în prezent și ar trebui evitat.",
+                  "category": "family",
+                  "coords": [
+                        21.255411,
+                        40.535407
+                  ]
+            },
+            {
+                  "name": "Ενυδρείο Καστοριάς",
+                  "text": "Un acvariu în Kastoria care prezintă o varietate de specii acvatice din regiune.",
+                  "category": "family",
+                  "coords": [
+                        21.253087,
+                        40.51288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Byzantine Museum",
+                  "text": "A museum in Kastoria housing a significant collection of Byzantine art and icons.",
+                  "category": "museum",
+                  "coords": [
+                        21.268529,
+                        40.519286
+                  ]
+            },
+            {
+                  "name": "Costume Museum",
+                  "text": "A museum in Kastoria exhibiting traditional Greek costumes and textiles.",
+                  "category": "museum",
+                  "coords": [
+                        21.271586,
+                        40.515886
+                  ]
+            },
+            {
+                  "name": "Folklore Museum",
+                  "text": "The folklore museum of Kastoria showcases traditional life within a historical manor.",
+                  "category": "museum",
+                  "coords": [
+                        21.273424,
+                        40.516314
+                  ]
+            },
+            {
+                  "name": "Museum of the Macedonian Struggle",
+                  "text": "A museum in Kastoria dedicated to the history of the Macedonian Struggle.",
+                  "category": "museum",
+                  "coords": [
+                        21.271855,
+                        40.516908
+                  ]
+            },
+            {
+                  "name": "Archontiko Tsiatsiapa",
+                  "text": "This traditional mansion in Kastoria now serves as a museum of local culture.",
+                  "category": "museum",
+                  "coords": [
+                        21.273441,
+                        40.521407
+                  ]
+            },
+            {
+                  "name": "Archontiko Papaterpoy",
+                  "text": "A grand historic manor that is part of the architectural heritage of Kastoria.",
+                  "category": "historical",
+                  "coords": [
+                        21.266264,
+                        40.515008
+                  ]
+            },
+            {
+                  "name": "Archontiko Sapoyntzi",
+                  "text": "This building in Kastoria is a characteristic example of a traditional manor.",
+                  "category": "historical",
+                  "coords": [
+                        21.27151,
+                        40.521201
+                  ]
+            },
+            {
+                  "name": "Archontiko Skoytari",
+                  "text": "This historic manor is a distinctive monument in the city of Kastoria.",
+                  "category": "historical",
+                  "coords": [
+                        21.269272,
+                        40.514719
+                  ]
+            },
+            {
+                  "name": "Agia Kyriaki",
+                  "text": "A traditional Greek Orthodox church located in the heart of Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.278803,
+                        40.513456
+                  ]
+            },
+            {
+                  "name": "Profitis Ilias",
+                  "text": "A chapel dedicated to Prophet Elias overlooking the city of Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.276661,
+                        40.522976
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi Karydi",
+                  "text": "One of the numerous Byzantine or post-Byzantine churches in Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.270623,
+                        40.516305
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis Theologos",
+                  "text": "A historic place of worship in Kastoria dedicated to Saint John the Theologian.",
+                  "category": "religious",
+                  "coords": [
+                        21.274607,
+                        40.515756
+                  ]
+            },
+            {
+                  "name": "Agios Minas (Panagia Moyzeviki)",
+                  "text": "A historic church in Kastoria, also known as Panagia Mouzeviki.",
+                  "category": "religious",
+                  "coords": [
+                        21.272073,
+                        40.518457
+                  ]
+            },
+            {
+                  "name": "Agios Dimitrios Eleoysas",
+                  "text": "A small Orthodox chapel dedicated to Saint Demetrios.",
+                  "category": "religious",
+                  "coords": [
+                        21.272026,
+                        40.51982
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Kyritzi",
+                  "text": "One of Kastoria's many historic churches, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        21.273192,
+                        40.520025
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Archontos Thomanoy",
+                  "text": "A historic church bearing the name of a local nobleman.",
+                  "category": "religious",
+                  "coords": [
+                        21.27045,
+                        40.519942
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Petritis",
+                  "text": "A historic Orthodox chapel dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        21.268233,
+                        40.514538
+                  ]
+            },
+            {
+                  "name": "Agioi Treis",
+                  "text": "A small church in Kastoria known for its religious tradition.",
+                  "category": "religious",
+                  "coords": [
+                        21.268675,
+                        40.5166
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Karavidas",
+                  "text": "One of the many chapels in Kastoria dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        21.268311,
+                        40.517701
+                  ]
+            },
+            {
+                  "name": "Agios Nikanoras",
+                  "text": "A modern church in Kastoria dedicated to Saint Nikanor.",
+                  "category": "religious",
+                  "coords": [
+                        21.257109,
+                        40.534761
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis Prodromos Apozari",
+                  "text": "A church dedicated to Saint John the Baptist in the Apozari district.",
+                  "category": "religious",
+                  "coords": [
+                        21.269986,
+                        40.520972
+                  ]
+            },
+            {
+                  "name": "Metamorfosi toy Sotiros",
+                  "text": "A church dedicated to the feast of the Transfiguration of the Saviour.",
+                  "category": "religious",
+                  "coords": [
+                        21.275917,
+                        40.525054
+                  ]
+            },
+            {
+                  "name": "Panagia Faneromeni",
+                  "text": "A historic church in Kastoria known for its religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        21.267557,
+                        40.521166
+                  ]
+            },
+            {
+                  "name": "Agios Athanasios Moyzaki",
+                  "text": "A small post-Byzantine church with significant wall paintings.",
+                  "category": "religious",
+                  "coords": [
+                        21.267205,
+                        40.515113
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos Magaleioy",
+                  "text": "Another one of the historic churches that define the cityscape of Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.267417,
+                        40.519348
+                  ]
+            },
+            {
+                  "name": "Agios Alypios Oikonomoy",
+                  "text": "A small religious monument in the old town of Kastoria.",
+                  "category": "religious",
+                  "coords": [
+                        21.265763,
+                        40.518934
+                  ]
+            },
+            {
+                  "name": "Lake Kastoria",
+                  "text": "Lake Kastoria, located in Kastoria, is a picturesque lake that invites visitors to enjoy nature and scenic walks.",
+                  "category": "natural",
+                  "coords": [
+                        21.290019,
+                        40.518365
+                  ]
+            },
+            {
+                  "name": "Babaloo",
+                  "text": "Babaloo is a playground in Kastoria where kids can have fun in a family-friendly environment.",
+                  "category": "family",
+                  "coords": [
+                        21.256383,
+                        40.535976
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Christopoyloy",
+                  "text": "Παιδική Χαρά Χριστοπούλου is a playground in Kastoria equipped for children's active playtime.",
+                  "category": "family",
+                  "coords": [
+                        21.265061,
+                        40.521977
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara (katestramenos Choros , apofygete)",
+                  "text": "This location in Kastoria is listed as a playground, though its name suggests it might currently be damaged and best avoided.",
+                  "category": "family",
+                  "coords": [
+                        21.255411,
+                        40.535407
+                  ]
+            },
+            {
+                  "name": "Kastoria Aquarium",
+                  "text": "An aquarium in Kastoria showcasing a variety of aquatic life from the region.",
+                  "category": "family",
+                  "coords": [
+                        21.253087,
+                        40.51288
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Kastoria", hu: "Kasztoriá", ro: "Kastoria", en: "Kastoria"},
@@ -1436,7 +3623,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-karpenisi-cities-v2",
+    id: "greece-karpenisi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Κολυμβητήριο",
+                  "text": "Κολυμβητήριο in Karpenisi bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        21.805054,
+                        38.911772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κολυμβητήριο",
+                  "text": "A Karpenisi településen található Κολυμβητήριο frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        21.805054,
+                        38.911772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κολυμβητήριο",
+                  "text": "Κολυμβητήριο din Karpenisi oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        21.805054,
+                        38.911772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Κολυμβητήριο",
+                  "text": "Κολυμβητήριο in Karpenisi offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        21.805054,
+                        38.911772
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Karpenisi", hu: "Karpeníszi", ro: "Karpenisi", en: "Karpenisi"},
@@ -1483,7 +3715,304 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-agios-nikolaos-cities-v2", "sights": {"de": [{"name": "Voulismeni-See", "text": "Der Voulismeni-See ist ein berühmter See in Agios Nikolaos, der eine malerische Kulisse für einen gemütlichen Spaziergang bietet.", "category": "natural", "coords": [25.717531, 35.190576]}, {"name": "PARALIAKI PERIOChI ORMOS", "text": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ bietet einen Spielplatz in Agios Nikolaos, auf dem Kinder in der Nähe des Meeres spielen können.", "category": "family", "coords": [25.715089, 35.205268]}], "hu": [{"name": "Limni Voylismeni", "text": "A Voulismeni-tó egy híres tó Agios Nikolaosban, amely festői környezetet kínál egy kényelmes sétához.", "category": "natural", "coords": [25.717531, 35.190576]}, {"name": "PARALIAKI PERIOChI ORMOS", "text": "A ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ egy játszótérrel is rendelkezik Agios Nikolaosban, ahol a gyerekek a tenger közelében játszhatnak.", "category": "family", "coords": [25.715089, 35.205268]}], "ro": [{"name": "Limni Voylismeni", "text": "Lacul Voulismeni este un lac renumit din Agios Nikolaos, oferind un cadru pitoresc pentru o plimbare relaxantă.", "category": "natural", "coords": [25.717531, 35.190576]}, {"name": "PARALIAKI PERIOChI ORMOS", "text": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ dispune de un loc de joacă în Agios Nikolaos, unde copiii se pot juca aproape de mare.", "category": "family", "coords": [25.715089, 35.205268]}], "en": [{"name": "Lake Voulismeni", "text": "Lake Voulismeni is a renowned lake in Agios Nikolaos, offering a picturesque setting for a leisurely stroll.", "category": "natural", "coords": [25.717531, 35.190576]}, {"name": "PARALIAKI PERIOChI ORMOS", "text": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ features a playground in Agios Nikolaos where children can play close to the sea.", "category": "family", "coords": [25.715089, 35.205268]}]},
+    id: "greece-agios-nikolaos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Voulismeni-See",
+                  "text": "Der Voulismeni-See ist ein berühmter See in Agios Nikolaos, der eine malerische Kulisse für einen gemütlichen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.717531,
+                        35.190576
+                  ]
+            },
+            {
+                  "name": "PARALIAKI PERIOChI ORMOS",
+                  "text": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ bietet einen Spielplatz in Agios Nikolaos, auf dem Kinder in der Nähe des Meeres spielen können.",
+                  "category": "family",
+                  "coords": [
+                        25.715089,
+                        35.205268
+                  ]
+            },
+            {
+                  "name": "Mirabella Apartments",
+                  "text": "Ein Schwimmbad in Agios Nikolaos, das den Gästen der Anlage zur Verfügung steht.",
+                  "category": "family",
+                  "coords": [
+                        25.712216,
+                        35.214761
+                  ]
+            },
+            {
+                  "name": "Βότσαλο",
+                  "text": "Ein Badebereich in Agios Nikolaos, der für sein klares Wasser und seine natürliche Umgebung bekannt ist.",
+                  "category": "family",
+                  "coords": [
+                        25.712761,
+                        35.181868
+                  ]
+            },
+            {
+                  "name": "Αλμυρός",
+                  "text": "Ein Küstenbereich in Agios Nikolaos, der zum Schwimmen und Entspannen am Wasser einlädt.",
+                  "category": "family",
+                  "coords": [
+                        25.711236,
+                        35.178497
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλμυρού",
+                  "text": "Ein Strandabschnitt in Agios Nikolaos, der gute Bedingungen zum Baden im Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        25.71012,
+                        35.176614
+                  ]
+            },
+            {
+                  "name": "Πολύδωρος",
+                  "text": "Ein Naturbadeplatz in Agios Nikolaos, ideal für einen ruhigen Tag am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        25.713854,
+                        35.198434
+                  ]
+            },
+            {
+                  "name": "Ερμής",
+                  "text": "Ein ausgewiesener Schwimmbereich in Agios Nikolaos für Einheimische und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        25.717176,
+                        35.195051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Limni Voylismeni",
+                  "text": "A Voulismeni-tó egy híres tó Agios Nikolaosban, amely festői környezetet kínál egy kényelmes sétához.",
+                  "category": "natural",
+                  "coords": [
+                        25.717531,
+                        35.190576
+                  ]
+            },
+            {
+                  "name": "PARALIAKI PERIOChI ORMOS",
+                  "text": "A ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ egy játszótérrel is rendelkezik Agios Nikolaosban, ahol a gyerekek a tenger közelében játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        25.715089,
+                        35.205268
+                  ]
+            },
+            {
+                  "name": "Mirabella Apartments",
+                  "text": "Úszómedence Ágiosz Nikólaoszban, amely a létesítmény vendégei számára áll rendelkezésre.",
+                  "category": "family",
+                  "coords": [
+                        25.712216,
+                        35.214761
+                  ]
+            },
+            {
+                  "name": "Βότσαλο",
+                  "text": "Fürdőhely Ágiosz Nikólaoszban, amely tiszta vizéről és természetes környezetéről ismert.",
+                  "category": "family",
+                  "coords": [
+                        25.712761,
+                        35.181868
+                  ]
+            },
+            {
+                  "name": "Αλμυρός",
+                  "text": "Tengerparti terület Ágiosz Nikólaoszban, amely úszásra és vízparti pihenésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        25.711236,
+                        35.178497
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλμυρού",
+                  "text": "Tengerparti szakasz Ágiosz Nikólaoszban, amely jó feltételeket kínál a tengeri fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        25.71012,
+                        35.176614
+                  ]
+            },
+            {
+                  "name": "Πολύδωρος",
+                  "text": "Természetes fürdőhely Ágiosz Nikólaoszban, ideális egy csendes naphoz a víznél.",
+                  "category": "family",
+                  "coords": [
+                        25.713854,
+                        35.198434
+                  ]
+            },
+            {
+                  "name": "Ερμής",
+                  "text": "Kijelölt úszóhely Ágiosz Nikólaoszban a helyiek és a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        25.717176,
+                        35.195051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Limni Voylismeni",
+                  "text": "Lacul Voulismeni este un lac renumit din Agios Nikolaos, oferind un cadru pitoresc pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.717531,
+                        35.190576
+                  ]
+            },
+            {
+                  "name": "PARALIAKI PERIOChI ORMOS",
+                  "text": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ dispune de un loc de joacă în Agios Nikolaos, unde copiii se pot juca aproape de mare.",
+                  "category": "family",
+                  "coords": [
+                        25.715089,
+                        35.205268
+                  ]
+            },
+            {
+                  "name": "Mirabella Apartments",
+                  "text": "O piscină în Agios Nikolaos, pusă la dispoziția oaspeților complexului.",
+                  "category": "family",
+                  "coords": [
+                        25.712216,
+                        35.214761
+                  ]
+            },
+            {
+                  "name": "Βότσαλο",
+                  "text": "O zonă de înot în Agios Nikolaos, cunoscută pentru apa sa limpede și cadrul natural.",
+                  "category": "family",
+                  "coords": [
+                        25.712761,
+                        35.181868
+                  ]
+            },
+            {
+                  "name": "Αλμυρός",
+                  "text": "O zonă de coastă în Agios Nikolaos, care invită la înot și relaxare la malul apei.",
+                  "category": "family",
+                  "coords": [
+                        25.711236,
+                        35.178497
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλμυρού",
+                  "text": "O porțiune de plajă în Agios Nikolaos care oferă condiții bune pentru scăldat în mare.",
+                  "category": "family",
+                  "coords": [
+                        25.71012,
+                        35.176614
+                  ]
+            },
+            {
+                  "name": "Πολύδωρος",
+                  "text": "Un loc natural pentru scăldat în Agios Nikolaos, ideal pentru o zi liniștită la apă.",
+                  "category": "family",
+                  "coords": [
+                        25.713854,
+                        35.198434
+                  ]
+            },
+            {
+                  "name": "Ερμής",
+                  "text": "O zonă de înot desemnată în Agios Nikolaos pentru localnici și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        25.717176,
+                        35.195051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Voulismeni",
+                  "text": "Lake Voulismeni is a renowned lake in Agios Nikolaos, offering a picturesque setting for a leisurely stroll.",
+                  "category": "natural",
+                  "coords": [
+                        25.717531,
+                        35.190576
+                  ]
+            },
+            {
+                  "name": "PARALIAKI PERIOChI ORMOS",
+                  "text": "ΠΑΡΑΛΙΑΚΗ ΠΕΡΙΟΧΗ ΟΡΜΟΣ features a playground in Agios Nikolaos where children can play close to the sea.",
+                  "category": "family",
+                  "coords": [
+                        25.715089,
+                        35.205268
+                  ]
+            },
+            {
+                  "name": "Mirabella Apartments",
+                  "text": "A swimming pool in Agios Nikolaos available for the guests of the facility.",
+                  "category": "family",
+                  "coords": [
+                        25.712216,
+                        35.214761
+                  ]
+            },
+            {
+                  "name": "Βότσαλο",
+                  "text": "A swimming area in Agios Nikolaos known for its clear water and natural setting.",
+                  "category": "family",
+                  "coords": [
+                        25.712761,
+                        35.181868
+                  ]
+            },
+            {
+                  "name": "Αλμυρός",
+                  "text": "A coastal area in Agios Nikolaos inviting for swimming and relaxation by the water.",
+                  "category": "family",
+                  "coords": [
+                        25.711236,
+                        35.178497
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλμυρού",
+                  "text": "A beach section in Agios Nikolaos offering good conditions for sea bathing.",
+                  "category": "family",
+                  "coords": [
+                        25.71012,
+                        35.176614
+                  ]
+            },
+            {
+                  "name": "Πολύδωρος",
+                  "text": "A natural swimming spot in Agios Nikolaos, ideal for a quiet day by the water.",
+                  "category": "family",
+                  "coords": [
+                        25.713854,
+                        35.198434
+                  ]
+            },
+            {
+                  "name": "Ερμής",
+                  "text": "A designated swimming area in Agios Nikolaos for locals and visitors.",
+                  "category": "family",
+                  "coords": [
+                        25.717176,
+                        35.195051
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Agios Nikolaos", hu: "Ágiosz Nikólaosz", ro: "Agios Nikolaos", en: "Agios Nikolaos"},
@@ -1757,7 +4286,1024 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-salamina-cities-v2.webp",
   },
   {
-    id: "greece-peristeri-cities-v2", "sights": {"de": [{"name": "Archäologische Stätte der Akademie von Plato", "text": "Die archäologische Stätte der berühmten Akademie, die von Platon im antiken Athen gegründet wurde.", "category": "historical", "coords": [23.708381, 37.991368]}, {"name": "Psifiako Moyseio tis Akadimias Platonos", "text": "Ein modernes Museum in Peristeri, das die Geschichte und Philosophie von Platons Akademie präsentiert.", "category": "museum", "coords": [23.707293, 37.994455]}, {"name": "Theatro Politon", "text": "Ein lokaler Veranstaltungsort für Theateraufführungen und kulturelle Events in Peristeri.", "category": "cultural", "coords": [23.71532, 38.013841]}, {"name": "Cartel Technochoros", "text": "Ein zeitgenössischer Kunstraum und Theater in Peristeri für moderne Aufführungen.", "category": "cultural", "coords": [23.690767, 37.983468]}, {"name": "\"Elia toy Platona\"", "text": "Eine archäologische Stätte in Peristeri, die mit dem legendären Olivenbaum des Platon verbunden ist.", "category": "historical", "coords": [23.699823, 37.985584]}, {"name": "Temenos Meilichioy Dios", "text": "Reste einer antiken Kultstätte in Peristeri, die dem Gott Zeus Meilichios gewidmet war.", "category": "historical", "coords": [23.695811, 37.987278]}, {"name": "Archaia Gefyra Kifisoy", "text": "Die Überreste einer antiken Brücke über den Fluss Kifisos im Gebiet von Peristeri.", "category": "historical", "coords": [23.693963, 37.98775]}, {"name": "Naiskos toy iroa Kyamiti", "text": "Ein kleiner antiker Schrein in Peristeri, der dem lokalen Heros Kyamites gewidmet war.", "category": "historical", "coords": [23.686993, 37.990395]}, {"name": "Profitis Daniil", "text": "Eine historische Ausgrabungsstätte in Peristeri mit Überresten aus verschiedenen Epochen.", "category": "historical", "coords": [23.697878, 37.986222]}, {"name": "Poikilo Oros", "text": "Ein Naturschutzgebiet am Berg Pikilo Oros, das Wanderwege und Ausblicke über Peristeri bietet.", "category": "natural", "coords": [23.654376, 38.033653]}, {"name": "Theatraki OTE", "text": "Ein kleines Theater in Peristeri, das für lokale Kulturveranstaltungen genutzt wird.", "category": "cultural", "coords": [23.69781, 38.008279]}, {"name": "Theatro Foinika", "text": "Ein Theater in Peristeri, das als Ort für darstellende Künste dient.", "category": "cultural", "coords": [23.670499, 38.030112]}, {"name": "To tetragono peristylio", "text": "Die Überreste eines quadratischen Peristyls innerhalb einer archäologischen Zone in Peristeri.", "category": "historical", "coords": [23.708935, 37.993245]}, {"name": "Theatro To Oikopedo", "text": "Ein alternatives Theater in Peristeri für freie Produktionen und Schauspielkunst.", "category": "cultural", "coords": [23.716922, 37.998074]}, {"name": "Alexis Minotis", "text": "Ein nach dem berühmten Schauspieler Alexis Minotis benanntes Theater in Peristeri.", "category": "cultural", "coords": [23.677875, 37.994865]}, {"name": "Mparoytadiko", "text": "Ein weitläufiger Stadtpark in der Nähe von Peristeri, der zur Erholung im Grünen einlädt.", "category": "park", "coords": [23.676663, 37.998312]}, {"name": "Mnimeio Lenorman", "text": "Ein Denkmal in Peristeri zu Ehren des französischen Archäologen François Lenormant.", "category": "historical", "coords": [23.715343, 37.995516]}, {"name": "Mystery Lab", "text": "Ein modernes Unterhaltungszentrum und Attraktion in der Stadt Peristeri.", "category": "landmark", "coords": [23.702523, 38.005938]}, {"name": "Iera Odos", "text": "Abschnitte der antiken Heiligen Straße, die einst von Athen nach Eleusis führte.", "category": "historical", "coords": [23.681673, 37.991723]}, {"name": "Agios Nikolaos o Chostos", "text": "Eine historisch bedeutsame byzantinische Kirche in der Gegend von Peristeri.", "category": "religious", "coords": [23.698673, 37.998519]}, {"name": "Dimarcheio Chaidarioy", "text": "Das Verwaltungsgebäude der Stadtverwaltung von Chaidari im Großraum Peristeri.", "category": "historical", "coords": [23.666327, 38.010716]}, {"name": "Agia Zoni", "text": "Eine griechisch-orthodoxe Pfarrkirche in Peristeri, die der Agia Zoni geweiht ist.", "category": "religious", "coords": [23.71748, 38.008385]}, {"name": "Dimarcheio Aigaleo", "text": "Das Rathaus der Gemeinde Egaleo, gelegen in der Nachbarschaft von Peristeri.", "category": "historical", "coords": [23.668055, 37.997661]}, {"name": "Islamiko Temenos Athinon", "text": "Die moderne Moschee von Athen, ein wichtiger islamischer Gebetsort in Votanikos bei Peristeri.", "category": "religious", "coords": [23.699713, 37.98708]}], "hu": [{"name": "Archaiologikos Choros Akadimias Platonos", "text": "A híres akadémia régészeti lelőhelye, amelyet Platón alapított az ókori Athénban.", "category": "historical", "coords": [23.708381, 37.991368]}, {"name": "Psifiako Moyseio tis Akadimias Platonos", "text": "Modern múzeum Peristeriben, amely Platón Akadémiájának történetét és filozófiáját mutatja be.", "category": "museum", "coords": [23.707293, 37.994455]}, {"name": "Theatro Politon", "text": "Helyi színház és kulturális rendezvényhelyszín Peristeri városában.", "category": "cultural", "coords": [23.71532, 38.013841]}, {"name": "Cartel Technochoros", "text": "Kortárs művészeti tér és színház Peristeriben, amely modern előadásoknak ad otthont.", "category": "cultural", "coords": [23.690767, 37.983468]}, {"name": "\"Elia toy Platona\"", "text": "Régészeti helyszín Peristeriben, amely Platón legendás olajfájához kapcsolódik.", "category": "historical", "coords": [23.699823, 37.985584]}, {"name": "Temenos Meilichioy Dios", "text": "Zeusz Meilichiosznak szentelt ókori szentély maradványai Peristeriben.", "category": "historical", "coords": [23.695811, 37.987278]}, {"name": "Archaia Gefyra Kifisoy", "text": "Egy ókori híd maradványai a Kifiszosz folyón Peristeri területén.", "category": "historical", "coords": [23.693963, 37.98775]}, {"name": "Naiskos toy iroa Kyamiti", "text": "Kisméretű ókori szentély Peristeriben, amelyet Kyamitesz helyi hősnek szenteltek.", "category": "historical", "coords": [23.686993, 37.990395]}, {"name": "Profitis Daniil", "text": "Történelmi ásatási terület Peristeriben, különböző korszakokból származó maradványokkal.", "category": "historical", "coords": [23.697878, 37.986222]}, {"name": "Poikilo Oros", "text": "Természetvédelmi terület a Pikilo-hegyen, amely túraútvonalakat és kilátást kínál Peristerire.", "category": "natural", "coords": [23.654376, 38.033653]}, {"name": "Theatraki OTE", "text": "Kisméretű színház Peristeriben, amelyet helyi kulturális programokra használnak.", "category": "cultural", "coords": [23.69781, 38.008279]}, {"name": "Theatro Foinika", "text": "Színház Peristeriben, amely az előadóművészetek helyszíneként szolgál.", "category": "cultural", "coords": [23.670499, 38.030112]}, {"name": "To tetragono peristylio", "text": "Egy négyszögletes oszlopsor (peristylium) maradványai Peristeri régészeti övezetében.", "category": "historical", "coords": [23.708935, 37.993245]}, {"name": "Theatro To Oikopedo", "text": "Alternatív színház Peristeriben független produkciók és színművészet számára.", "category": "cultural", "coords": [23.716922, 37.998074]}, {"name": "Alexis Minotis", "text": "A híres színészről, Alexis Minotisról elnevezett színház Peristeriben.", "category": "cultural", "coords": [23.677875, 37.994865]}, {"name": "Mparoytadiko", "text": "Tágas városi park Peristeri közelében, amely kikapcsolódási lehetőséget kínál a zöldben.", "category": "park", "coords": [23.676663, 37.998312]}, {"name": "Mnimeio Lenorman", "text": "François Lenormant francia régész tiszteletére állított emlékmű Peristeriben.", "category": "historical", "coords": [23.715343, 37.995516]}, {"name": "Mystery Lab", "text": "Modern szórakoztató központ és látványosság Peristeri városában.", "category": "landmark", "coords": [23.702523, 38.005938]}, {"name": "Iera Odos", "text": "Az ókori Szent Út szakaszai, amely egykor Athénból Eleusziszba vezetett.", "category": "historical", "coords": [23.681673, 37.991723]}, {"name": "Agios Nikolaos o Chostos", "text": "Történelmi jelentőségű bizánci templom Peristeri környékén.", "category": "religious", "coords": [23.698673, 37.998519]}, {"name": "Dimarcheio Chaidarioy", "text": "Haidari önkormányzatának igazgatási épülete Peristeri térségében.", "category": "historical", "coords": [23.666327, 38.010716]}, {"name": "Agia Zoni", "text": "Szent Öv (Agia Zoni) tiszteletére szentelt görög ortodox templom Peristeriben.", "category": "religious", "coords": [23.71748, 38.008385]}, {"name": "Dimarcheio Aigaleo", "text": "Egaleo község városházája Peristeri szomszédságában.", "category": "historical", "coords": [23.668055, 37.997661]}, {"name": "Islamiko Temenos Athinon", "text": "Athén modern mecsetje, fontos iszlám imahely Votanikoszban, Peristeri közelében.", "category": "religious", "coords": [23.699713, 37.98708]}], "ro": [{"name": "Archaiologikos Choros Akadimias Platonos", "text": "Situl arheologic al celebrei academii fondate de Platon în Atena antică.", "category": "historical", "coords": [23.708381, 37.991368]}, {"name": "Psifiako Moyseio tis Akadimias Platonos", "text": "Un muzeu modern din Peristeri care prezintă istoria și filosofia Academiei lui Platon.", "category": "museum", "coords": [23.707293, 37.994455]}, {"name": "Theatro Politon", "text": "Un loc local pentru spectacole de teatru și evenimente culturale în Peristeri.", "category": "cultural", "coords": [23.71532, 38.013841]}, {"name": "Cartel Technochoros", "text": "Un spațiu de artă contemporană și teatru din Peristeri pentru spectacole moderne.", "category": "cultural", "coords": [23.690767, 37.983468]}, {"name": "\"Elia toy Platona\"", "text": "Un sit arheologic din Peristeri legat de legendarul măslin al lui Platon.", "category": "historical", "coords": [23.699823, 37.985584]}, {"name": "Temenos Meilichioy Dios", "text": "Rămășițele unui vechi sanctuar din Peristeri, dedicat zeului Zeus Meilichios.", "category": "historical", "coords": [23.695811, 37.987278]}, {"name": "Archaia Gefyra Kifisoy", "text": "Rămășițele unui pod antic peste râul Kifisos în zona Peristeri.", "category": "historical", "coords": [23.693963, 37.98775]}, {"name": "Naiskos toy iroa Kyamiti", "text": "Un mic altar antic din Peristeri dedicat eroului local Kyamites.", "category": "historical", "coords": [23.686993, 37.990395]}, {"name": "Profitis Daniil", "text": "Un sit arheologic istoric din Peristeri cu vestigii din diferite epoci.", "category": "historical", "coords": [23.697878, 37.986222]}, {"name": "Poikilo Oros", "text": "O rezervație naturală pe muntele Pikilo, care oferă trasee de drumeții și vederi panoramice.", "category": "natural", "coords": [23.654376, 38.033653]}, {"name": "Theatraki OTE", "text": "Un teatru mic din Peristeri utilizat pentru evenimente culturale locale.", "category": "cultural", "coords": [23.69781, 38.008279]}, {"name": "Theatro Foinika", "text": "Un teatru din Peristeri care servește ca loc pentru artele spectacolului.", "category": "cultural", "coords": [23.670499, 38.030112]}, {"name": "To tetragono peristylio", "text": "Rămășițele unui peristil pătrat în cadrul unei zone arheologice din Peristeri.", "category": "historical", "coords": [23.708935, 37.993245]}, {"name": "Theatro To Oikopedo", "text": "Un teatru alternativ din Peristeri pentru producții independente și artă dramatică.", "category": "cultural", "coords": [23.716922, 37.998074]}, {"name": "Alexis Minotis", "text": "Un teatru din Peristeri numit după celebrul actor Alexis Minotis.", "category": "cultural", "coords": [23.677875, 37.994865]}, {"name": "Mparoytadiko", "text": "Un parc urban spațios lângă Peristeri, ideal pentru recreere în aer liber.", "category": "park", "coords": [23.676663, 37.998312]}, {"name": "Mnimeio Lenorman", "text": "Un monument în Peristeri ridicat în onoarea arheologului francez François Lenormant.", "category": "historical", "coords": [23.715343, 37.995516]}, {"name": "Mystery Lab", "text": "Un centru modern de divertisment și atracție în orașul Peristeri.", "category": "landmark", "coords": [23.702523, 38.005938]}, {"name": "Iera Odos", "text": "Secțiuni ale vechiului Drum Sfânt care lega odinioară Atena de Eleusis.", "category": "historical", "coords": [23.681673, 37.991723]}, {"name": "Agios Nikolaos o Chostos", "text": "O biserică bizantină cu importanță istorică din zona Peristeri.", "category": "religious", "coords": [23.698673, 37.998519]}, {"name": "Dimarcheio Chaidarioy", "text": "Clădirea administrativă a primăriei Haidari din zona metropolitană Peristeri.", "category": "historical", "coords": [23.666327, 38.010716]}, {"name": "Agia Zoni", "text": "O biserică ortodoxă greacă din Peristeri dedicată Sfintei Agia Zoni.", "category": "religious", "coords": [23.71748, 38.008385]}, {"name": "Dimarcheio Aigaleo", "text": "Primăria municipalității Egaleo, situată în vecinătatea orașului Peristeri.", "category": "historical", "coords": [23.668055, 37.997661]}, {"name": "Islamiko Temenos Athinon", "text": "Moscheea modernă din Atena, un important lăcaș de cult islamic în Votanikos, lângă Peristeri.", "category": "religious", "coords": [23.699713, 37.98708]}], "en": [{"name": "Plato's Academy Archaeological Site", "text": "The archaeological site of the famous academy founded by Plato in ancient Athens.", "category": "historical", "coords": [23.708381, 37.991368]}, {"name": "Psifiako Moyseio tis Akadimias Platonos", "text": "A modern museum in Peristeri showcasing the history and philosophy of Plato's Academy.", "category": "museum", "coords": [23.707293, 37.994455]}, {"name": "Theatro Politon", "text": "A local venue for theatrical performances and cultural events in Peristeri.", "category": "cultural", "coords": [23.71532, 38.013841]}, {"name": "Cartel Technochoros", "text": "A contemporary art space and theatre in Peristeri for modern performances.", "category": "cultural", "coords": [23.690767, 37.983468]}, {"name": "\"Elia toy Platona\"", "text": "An archaeological site in Peristeri associated with the legendary olive tree of Plato.", "category": "historical", "coords": [23.699823, 37.985584]}, {"name": "Temenos Meilichioy Dios", "text": "Remains of an ancient sanctuary in Peristeri dedicated to the god Zeus Meilichios.", "category": "historical", "coords": [23.695811, 37.987278]}, {"name": "Archaia Gefyra Kifisoy", "text": "The remains of an ancient bridge over the Kifisos river in the Peristeri area.", "category": "historical", "coords": [23.693963, 37.98775]}, {"name": "Naiskos toy iroa Kyamiti", "text": "A small ancient shrine in Peristeri dedicated to the local hero Kyamites.", "category": "historical", "coords": [23.686993, 37.990395]}, {"name": "Profitis Daniil", "text": "A historical archaeological site in Peristeri with remains from various periods.", "category": "historical", "coords": [23.697878, 37.986222]}, {"name": "Pikilo Oros", "text": "A nature reserve on Pikilo Oros mountain offering hiking trails and views over Peristeri.", "category": "natural", "coords": [23.654376, 38.033653]}, {"name": "Theatraki OTE", "text": "A small theatre in Peristeri used for local cultural events.", "category": "cultural", "coords": [23.69781, 38.008279]}, {"name": "Theatro Foinika", "text": "A theatre in Peristeri that serves as a venue for performing arts.", "category": "cultural", "coords": [23.670499, 38.030112]}, {"name": "The square peristyle", "text": "The remains of a square peristyle within an archaeological zone in Peristeri.", "category": "historical", "coords": [23.708935, 37.993245]}, {"name": "Theatro To Oikopedo", "text": "An alternative theatre in Peristeri for independent productions and acting.", "category": "cultural", "coords": [23.716922, 37.998074]}, {"name": "Alexis Minotis", "text": "A theatre in Peristeri named after the famous actor Alexis Minotis.", "category": "cultural", "coords": [23.677875, 37.994865]}, {"name": "Mparoutadiko", "text": "A spacious urban park near Peristeri that offers a green space for recreation.", "category": "park", "coords": [23.676663, 37.998312]}, {"name": "Mnimeio Lenorman", "text": "A monument in Peristeri honoring the French archaeologist François Lenormant.", "category": "historical", "coords": [23.715343, 37.995516]}, {"name": "Mystery Lab", "text": "A modern entertainment center and attraction in the city of Peristeri.", "category": "landmark", "coords": [23.702523, 38.005938]}, {"name": "The Sacred Way to Eleusis", "text": "Sections of the ancient Sacred Way that once led from Athens to Eleusis.", "category": "historical", "coords": [23.681673, 37.991723]}, {"name": "Agios Nikolaos o Chostos", "text": "A historically significant Byzantine church in the Peristeri area.", "category": "religious", "coords": [23.698673, 37.998519]}, {"name": "Dimarcheio Chaidarioy", "text": "The administrative building of the Haidari municipality in the Peristeri area.", "category": "historical", "coords": [23.666327, 38.010716]}, {"name": "Agia Zoni", "text": "A Greek Orthodox parish church in Peristeri dedicated to Agia Zoni.", "category": "religious", "coords": [23.71748, 38.008385]}, {"name": "Dimarcheio Aigaleo", "text": "The town hall of the Egaleo municipality, located in the vicinity of Peristeri.", "category": "historical", "coords": [23.668055, 37.997661]}, {"name": "Mosque of Athens", "text": "The modern Mosque of Athens, an important Islamic place of worship in Votanikos near Peristeri.", "category": "religious", "coords": [23.699713, 37.98708]}]},
+    id: "greece-peristeri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archäologische Stätte der Akademie von Plato",
+                  "text": "Die archäologische Stätte der berühmten Akademie, die von Platon im antiken Athen gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        23.708381,
+                        37.991368
+                  ]
+            },
+            {
+                  "name": "Psifiako Moyseio tis Akadimias Platonos",
+                  "text": "Ein modernes Museum in Peristeri, das die Geschichte und Philosophie von Platons Akademie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.707293,
+                        37.994455
+                  ]
+            },
+            {
+                  "name": "Theatro Politon",
+                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen und kulturelle Events in Peristeri.",
+                  "category": "cultural",
+                  "coords": [
+                        23.71532,
+                        38.013841
+                  ]
+            },
+            {
+                  "name": "Cartel Technochoros",
+                  "text": "Ein zeitgenössischer Kunstraum und Theater in Peristeri für moderne Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.690767,
+                        37.983468
+                  ]
+            },
+            {
+                  "name": "\"Elia toy Platona\"",
+                  "text": "Eine archäologische Stätte in Peristeri, die mit dem legendären Olivenbaum des Platon verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.699823,
+                        37.985584
+                  ]
+            },
+            {
+                  "name": "Temenos Meilichioy Dios",
+                  "text": "Reste einer antiken Kultstätte in Peristeri, die dem Gott Zeus Meilichios gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        23.695811,
+                        37.987278
+                  ]
+            },
+            {
+                  "name": "Archaia Gefyra Kifisoy",
+                  "text": "Die Überreste einer antiken Brücke über den Fluss Kifisos im Gebiet von Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.693963,
+                        37.98775
+                  ]
+            },
+            {
+                  "name": "Naiskos toy iroa Kyamiti",
+                  "text": "Ein kleiner antiker Schrein in Peristeri, der dem lokalen Heros Kyamites gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        23.686993,
+                        37.990395
+                  ]
+            },
+            {
+                  "name": "Profitis Daniil",
+                  "text": "Eine historische Ausgrabungsstätte in Peristeri mit Überresten aus verschiedenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        23.697878,
+                        37.986222
+                  ]
+            },
+            {
+                  "name": "Poikilo Oros",
+                  "text": "Ein Naturschutzgebiet am Berg Pikilo Oros, das Wanderwege und Ausblicke über Peristeri bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.654376,
+                        38.033653
+                  ]
+            },
+            {
+                  "name": "Theatraki OTE",
+                  "text": "Ein kleines Theater in Peristeri, das für lokale Kulturveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        23.69781,
+                        38.008279
+                  ]
+            },
+            {
+                  "name": "Theatro Foinika",
+                  "text": "Ein Theater in Peristeri, das als Ort für darstellende Künste dient.",
+                  "category": "cultural",
+                  "coords": [
+                        23.670499,
+                        38.030112
+                  ]
+            },
+            {
+                  "name": "To tetragono peristylio",
+                  "text": "Die Überreste eines quadratischen Peristyls innerhalb einer archäologischen Zone in Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.708935,
+                        37.993245
+                  ]
+            },
+            {
+                  "name": "Theatro To Oikopedo",
+                  "text": "Ein alternatives Theater in Peristeri für freie Produktionen und Schauspielkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        23.716922,
+                        37.998074
+                  ]
+            },
+            {
+                  "name": "Alexis Minotis",
+                  "text": "Ein nach dem berühmten Schauspieler Alexis Minotis benanntes Theater in Peristeri.",
+                  "category": "cultural",
+                  "coords": [
+                        23.677875,
+                        37.994865
+                  ]
+            },
+            {
+                  "name": "Mparoytadiko",
+                  "text": "Ein weitläufiger Stadtpark in der Nähe von Peristeri, der zur Erholung im Grünen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        23.676663,
+                        37.998312
+                  ]
+            },
+            {
+                  "name": "Mnimeio Lenorman",
+                  "text": "Ein Denkmal in Peristeri zu Ehren des französischen Archäologen François Lenormant.",
+                  "category": "historical",
+                  "coords": [
+                        23.715343,
+                        37.995516
+                  ]
+            },
+            {
+                  "name": "Mystery Lab",
+                  "text": "Ein modernes Unterhaltungszentrum und Attraktion in der Stadt Peristeri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.702523,
+                        38.005938
+                  ]
+            },
+            {
+                  "name": "Iera Odos",
+                  "text": "Abschnitte der antiken Heiligen Straße, die einst von Athen nach Eleusis führte.",
+                  "category": "historical",
+                  "coords": [
+                        23.681673,
+                        37.991723
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos o Chostos",
+                  "text": "Eine historisch bedeutsame byzantinische Kirche in der Gegend von Peristeri.",
+                  "category": "religious",
+                  "coords": [
+                        23.698673,
+                        37.998519
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Chaidarioy",
+                  "text": "Das Verwaltungsgebäude der Stadtverwaltung von Chaidari im Großraum Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.666327,
+                        38.010716
+                  ]
+            },
+            {
+                  "name": "Agia Zoni",
+                  "text": "Eine griechisch-orthodoxe Pfarrkirche in Peristeri, die der Agia Zoni geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.71748,
+                        38.008385
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Aigaleo",
+                  "text": "Das Rathaus der Gemeinde Egaleo, gelegen in der Nachbarschaft von Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.668055,
+                        37.997661
+                  ]
+            },
+            {
+                  "name": "Islamiko Temenos Athinon",
+                  "text": "Die moderne Moschee von Athen, ein wichtiger islamischer Gebetsort in Votanikos bei Peristeri.",
+                  "category": "religious",
+                  "coords": [
+                        23.699713,
+                        37.98708
+                  ]
+            },
+            {
+                  "name": "ΑΒΥΣΣΟΣ",
+                  "text": "Ein Aquarium in Peristeri, das Einblicke in faszinierende Unterwasserwelten bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.730824,
+                        37.994913
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητηριο Χαιδαρίου",
+                  "text": "Ein städtisches Schwimmbad in Peristeri mit Einrichtungen für Sportler und Familien.",
+                  "category": "family",
+                  "coords": [
+                        23.66241,
+                        38.012129
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο",
+                  "text": "Ein öffentliches Schwimmbad in Peristeri, das für Schwimmtraining und Erholung genutzt wird.",
+                  "category": "family",
+                  "coords": [
+                        23.677722,
+                        38.029698
+                  ]
+            },
+            {
+                  "name": "Academia 8th. Floor Pool",
+                  "text": "Ein Schwimmbad in der 8. Etage in Peristeri, das eine besondere Atmosphäre zum Schwimmen bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.714506,
+                        37.986062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaiologikos Choros Akadimias Platonos",
+                  "text": "A híres akadémia régészeti lelőhelye, amelyet Platón alapított az ókori Athénban.",
+                  "category": "historical",
+                  "coords": [
+                        23.708381,
+                        37.991368
+                  ]
+            },
+            {
+                  "name": "Psifiako Moyseio tis Akadimias Platonos",
+                  "text": "Modern múzeum Peristeriben, amely Platón Akadémiájának történetét és filozófiáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.707293,
+                        37.994455
+                  ]
+            },
+            {
+                  "name": "Theatro Politon",
+                  "text": "Helyi színház és kulturális rendezvényhelyszín Peristeri városában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.71532,
+                        38.013841
+                  ]
+            },
+            {
+                  "name": "Cartel Technochoros",
+                  "text": "Kortárs művészeti tér és színház Peristeriben, amely modern előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        23.690767,
+                        37.983468
+                  ]
+            },
+            {
+                  "name": "\"Elia toy Platona\"",
+                  "text": "Régészeti helyszín Peristeriben, amely Platón legendás olajfájához kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        23.699823,
+                        37.985584
+                  ]
+            },
+            {
+                  "name": "Temenos Meilichioy Dios",
+                  "text": "Zeusz Meilichiosznak szentelt ókori szentély maradványai Peristeriben.",
+                  "category": "historical",
+                  "coords": [
+                        23.695811,
+                        37.987278
+                  ]
+            },
+            {
+                  "name": "Archaia Gefyra Kifisoy",
+                  "text": "Egy ókori híd maradványai a Kifiszosz folyón Peristeri területén.",
+                  "category": "historical",
+                  "coords": [
+                        23.693963,
+                        37.98775
+                  ]
+            },
+            {
+                  "name": "Naiskos toy iroa Kyamiti",
+                  "text": "Kisméretű ókori szentély Peristeriben, amelyet Kyamitesz helyi hősnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        23.686993,
+                        37.990395
+                  ]
+            },
+            {
+                  "name": "Profitis Daniil",
+                  "text": "Történelmi ásatási terület Peristeriben, különböző korszakokból származó maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        23.697878,
+                        37.986222
+                  ]
+            },
+            {
+                  "name": "Poikilo Oros",
+                  "text": "Természetvédelmi terület a Pikilo-hegyen, amely túraútvonalakat és kilátást kínál Peristerire.",
+                  "category": "natural",
+                  "coords": [
+                        23.654376,
+                        38.033653
+                  ]
+            },
+            {
+                  "name": "Theatraki OTE",
+                  "text": "Kisméretű színház Peristeriben, amelyet helyi kulturális programokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        23.69781,
+                        38.008279
+                  ]
+            },
+            {
+                  "name": "Theatro Foinika",
+                  "text": "Színház Peristeriben, amely az előadóművészetek helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        23.670499,
+                        38.030112
+                  ]
+            },
+            {
+                  "name": "To tetragono peristylio",
+                  "text": "Egy négyszögletes oszlopsor (peristylium) maradványai Peristeri régészeti övezetében.",
+                  "category": "historical",
+                  "coords": [
+                        23.708935,
+                        37.993245
+                  ]
+            },
+            {
+                  "name": "Theatro To Oikopedo",
+                  "text": "Alternatív színház Peristeriben független produkciók és színművészet számára.",
+                  "category": "cultural",
+                  "coords": [
+                        23.716922,
+                        37.998074
+                  ]
+            },
+            {
+                  "name": "Alexis Minotis",
+                  "text": "A híres színészről, Alexis Minotisról elnevezett színház Peristeriben.",
+                  "category": "cultural",
+                  "coords": [
+                        23.677875,
+                        37.994865
+                  ]
+            },
+            {
+                  "name": "Mparoytadiko",
+                  "text": "Tágas városi park Peristeri közelében, amely kikapcsolódási lehetőséget kínál a zöldben.",
+                  "category": "park",
+                  "coords": [
+                        23.676663,
+                        37.998312
+                  ]
+            },
+            {
+                  "name": "Mnimeio Lenorman",
+                  "text": "François Lenormant francia régész tiszteletére állított emlékmű Peristeriben.",
+                  "category": "historical",
+                  "coords": [
+                        23.715343,
+                        37.995516
+                  ]
+            },
+            {
+                  "name": "Mystery Lab",
+                  "text": "Modern szórakoztató központ és látványosság Peristeri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.702523,
+                        38.005938
+                  ]
+            },
+            {
+                  "name": "Iera Odos",
+                  "text": "Az ókori Szent Út szakaszai, amely egykor Athénból Eleusziszba vezetett.",
+                  "category": "historical",
+                  "coords": [
+                        23.681673,
+                        37.991723
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos o Chostos",
+                  "text": "Történelmi jelentőségű bizánci templom Peristeri környékén.",
+                  "category": "religious",
+                  "coords": [
+                        23.698673,
+                        37.998519
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Chaidarioy",
+                  "text": "Haidari önkormányzatának igazgatási épülete Peristeri térségében.",
+                  "category": "historical",
+                  "coords": [
+                        23.666327,
+                        38.010716
+                  ]
+            },
+            {
+                  "name": "Agia Zoni",
+                  "text": "Szent Öv (Agia Zoni) tiszteletére szentelt görög ortodox templom Peristeriben.",
+                  "category": "religious",
+                  "coords": [
+                        23.71748,
+                        38.008385
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Aigaleo",
+                  "text": "Egaleo község városházája Peristeri szomszédságában.",
+                  "category": "historical",
+                  "coords": [
+                        23.668055,
+                        37.997661
+                  ]
+            },
+            {
+                  "name": "Islamiko Temenos Athinon",
+                  "text": "Athén modern mecsetje, fontos iszlám imahely Votanikoszban, Peristeri közelében.",
+                  "category": "religious",
+                  "coords": [
+                        23.699713,
+                        37.98708
+                  ]
+            },
+            {
+                  "name": "ΑΒΥΣΣΟΣ",
+                  "text": "Akvárium Periszteriben, amely betekintést nyújt a lenyűgöző víz alatti világba.",
+                  "category": "family",
+                  "coords": [
+                        23.730824,
+                        37.994913
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητηριο Χαιδαρίου",
+                  "text": "Városi úszómedence Periszteriben, sportolók és családok számára alkalmas létesítményekkel.",
+                  "category": "family",
+                  "coords": [
+                        23.66241,
+                        38.012129
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο",
+                  "text": "Nyilvános úszómedence Periszteriben, amelyet úszóedzésekre és kikapcsolódásra használnak.",
+                  "category": "family",
+                  "coords": [
+                        23.677722,
+                        38.029698
+                  ]
+            },
+            {
+                  "name": "Academia 8th. Floor Pool",
+                  "text": "A 8. emeleten található úszómedence Periszteriben, amely különleges hangulatot biztosít az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        23.714506,
+                        37.986062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaiologikos Choros Akadimias Platonos",
+                  "text": "Situl arheologic al celebrei academii fondate de Platon în Atena antică.",
+                  "category": "historical",
+                  "coords": [
+                        23.708381,
+                        37.991368
+                  ]
+            },
+            {
+                  "name": "Psifiako Moyseio tis Akadimias Platonos",
+                  "text": "Un muzeu modern din Peristeri care prezintă istoria și filosofia Academiei lui Platon.",
+                  "category": "museum",
+                  "coords": [
+                        23.707293,
+                        37.994455
+                  ]
+            },
+            {
+                  "name": "Theatro Politon",
+                  "text": "Un loc local pentru spectacole de teatru și evenimente culturale în Peristeri.",
+                  "category": "cultural",
+                  "coords": [
+                        23.71532,
+                        38.013841
+                  ]
+            },
+            {
+                  "name": "Cartel Technochoros",
+                  "text": "Un spațiu de artă contemporană și teatru din Peristeri pentru spectacole moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        23.690767,
+                        37.983468
+                  ]
+            },
+            {
+                  "name": "\"Elia toy Platona\"",
+                  "text": "Un sit arheologic din Peristeri legat de legendarul măslin al lui Platon.",
+                  "category": "historical",
+                  "coords": [
+                        23.699823,
+                        37.985584
+                  ]
+            },
+            {
+                  "name": "Temenos Meilichioy Dios",
+                  "text": "Rămășițele unui vechi sanctuar din Peristeri, dedicat zeului Zeus Meilichios.",
+                  "category": "historical",
+                  "coords": [
+                        23.695811,
+                        37.987278
+                  ]
+            },
+            {
+                  "name": "Archaia Gefyra Kifisoy",
+                  "text": "Rămășițele unui pod antic peste râul Kifisos în zona Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.693963,
+                        37.98775
+                  ]
+            },
+            {
+                  "name": "Naiskos toy iroa Kyamiti",
+                  "text": "Un mic altar antic din Peristeri dedicat eroului local Kyamites.",
+                  "category": "historical",
+                  "coords": [
+                        23.686993,
+                        37.990395
+                  ]
+            },
+            {
+                  "name": "Profitis Daniil",
+                  "text": "Un sit arheologic istoric din Peristeri cu vestigii din diferite epoci.",
+                  "category": "historical",
+                  "coords": [
+                        23.697878,
+                        37.986222
+                  ]
+            },
+            {
+                  "name": "Poikilo Oros",
+                  "text": "O rezervație naturală pe muntele Pikilo, care oferă trasee de drumeții și vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        23.654376,
+                        38.033653
+                  ]
+            },
+            {
+                  "name": "Theatraki OTE",
+                  "text": "Un teatru mic din Peristeri utilizat pentru evenimente culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        23.69781,
+                        38.008279
+                  ]
+            },
+            {
+                  "name": "Theatro Foinika",
+                  "text": "Un teatru din Peristeri care servește ca loc pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        23.670499,
+                        38.030112
+                  ]
+            },
+            {
+                  "name": "To tetragono peristylio",
+                  "text": "Rămășițele unui peristil pătrat în cadrul unei zone arheologice din Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.708935,
+                        37.993245
+                  ]
+            },
+            {
+                  "name": "Theatro To Oikopedo",
+                  "text": "Un teatru alternativ din Peristeri pentru producții independente și artă dramatică.",
+                  "category": "cultural",
+                  "coords": [
+                        23.716922,
+                        37.998074
+                  ]
+            },
+            {
+                  "name": "Alexis Minotis",
+                  "text": "Un teatru din Peristeri numit după celebrul actor Alexis Minotis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.677875,
+                        37.994865
+                  ]
+            },
+            {
+                  "name": "Mparoytadiko",
+                  "text": "Un parc urban spațios lângă Peristeri, ideal pentru recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        23.676663,
+                        37.998312
+                  ]
+            },
+            {
+                  "name": "Mnimeio Lenorman",
+                  "text": "Un monument în Peristeri ridicat în onoarea arheologului francez François Lenormant.",
+                  "category": "historical",
+                  "coords": [
+                        23.715343,
+                        37.995516
+                  ]
+            },
+            {
+                  "name": "Mystery Lab",
+                  "text": "Un centru modern de divertisment și atracție în orașul Peristeri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.702523,
+                        38.005938
+                  ]
+            },
+            {
+                  "name": "Iera Odos",
+                  "text": "Secțiuni ale vechiului Drum Sfânt care lega odinioară Atena de Eleusis.",
+                  "category": "historical",
+                  "coords": [
+                        23.681673,
+                        37.991723
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos o Chostos",
+                  "text": "O biserică bizantină cu importanță istorică din zona Peristeri.",
+                  "category": "religious",
+                  "coords": [
+                        23.698673,
+                        37.998519
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Chaidarioy",
+                  "text": "Clădirea administrativă a primăriei Haidari din zona metropolitană Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.666327,
+                        38.010716
+                  ]
+            },
+            {
+                  "name": "Agia Zoni",
+                  "text": "O biserică ortodoxă greacă din Peristeri dedicată Sfintei Agia Zoni.",
+                  "category": "religious",
+                  "coords": [
+                        23.71748,
+                        38.008385
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Aigaleo",
+                  "text": "Primăria municipalității Egaleo, situată în vecinătatea orașului Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.668055,
+                        37.997661
+                  ]
+            },
+            {
+                  "name": "Islamiko Temenos Athinon",
+                  "text": "Moscheea modernă din Atena, un important lăcaș de cult islamic în Votanikos, lângă Peristeri.",
+                  "category": "religious",
+                  "coords": [
+                        23.699713,
+                        37.98708
+                  ]
+            },
+            {
+                  "name": "ΑΒΥΣΣΟΣ",
+                  "text": "Un acvariu în Peristeri care oferă o privire asupra lumilor subacvatice fascinante.",
+                  "category": "family",
+                  "coords": [
+                        23.730824,
+                        37.994913
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητηριο Χαιδαρίου",
+                  "text": "O piscină municipală în Peristeri, cu facilități pentru sportivi și familii.",
+                  "category": "family",
+                  "coords": [
+                        23.66241,
+                        38.012129
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο",
+                  "text": "O piscină publică în Peristeri, utilizată pentru antrenamente de înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        23.677722,
+                        38.029698
+                  ]
+            },
+            {
+                  "name": "Academia 8th. Floor Pool",
+                  "text": "O piscină situată la etajul 8 în Peristeri, oferind o atmosferă specială pentru înot.",
+                  "category": "family",
+                  "coords": [
+                        23.714506,
+                        37.986062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plato's Academy Archaeological Site",
+                  "text": "The archaeological site of the famous academy founded by Plato in ancient Athens.",
+                  "category": "historical",
+                  "coords": [
+                        23.708381,
+                        37.991368
+                  ]
+            },
+            {
+                  "name": "Psifiako Moyseio tis Akadimias Platonos",
+                  "text": "A modern museum in Peristeri showcasing the history and philosophy of Plato's Academy.",
+                  "category": "museum",
+                  "coords": [
+                        23.707293,
+                        37.994455
+                  ]
+            },
+            {
+                  "name": "Theatro Politon",
+                  "text": "A local venue for theatrical performances and cultural events in Peristeri.",
+                  "category": "cultural",
+                  "coords": [
+                        23.71532,
+                        38.013841
+                  ]
+            },
+            {
+                  "name": "Cartel Technochoros",
+                  "text": "A contemporary art space and theatre in Peristeri for modern performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.690767,
+                        37.983468
+                  ]
+            },
+            {
+                  "name": "\"Elia toy Platona\"",
+                  "text": "An archaeological site in Peristeri associated with the legendary olive tree of Plato.",
+                  "category": "historical",
+                  "coords": [
+                        23.699823,
+                        37.985584
+                  ]
+            },
+            {
+                  "name": "Temenos Meilichioy Dios",
+                  "text": "Remains of an ancient sanctuary in Peristeri dedicated to the god Zeus Meilichios.",
+                  "category": "historical",
+                  "coords": [
+                        23.695811,
+                        37.987278
+                  ]
+            },
+            {
+                  "name": "Archaia Gefyra Kifisoy",
+                  "text": "The remains of an ancient bridge over the Kifisos river in the Peristeri area.",
+                  "category": "historical",
+                  "coords": [
+                        23.693963,
+                        37.98775
+                  ]
+            },
+            {
+                  "name": "Naiskos toy iroa Kyamiti",
+                  "text": "A small ancient shrine in Peristeri dedicated to the local hero Kyamites.",
+                  "category": "historical",
+                  "coords": [
+                        23.686993,
+                        37.990395
+                  ]
+            },
+            {
+                  "name": "Profitis Daniil",
+                  "text": "A historical archaeological site in Peristeri with remains from various periods.",
+                  "category": "historical",
+                  "coords": [
+                        23.697878,
+                        37.986222
+                  ]
+            },
+            {
+                  "name": "Pikilo Oros",
+                  "text": "A nature reserve on Pikilo Oros mountain offering hiking trails and views over Peristeri.",
+                  "category": "natural",
+                  "coords": [
+                        23.654376,
+                        38.033653
+                  ]
+            },
+            {
+                  "name": "Theatraki OTE",
+                  "text": "A small theatre in Peristeri used for local cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        23.69781,
+                        38.008279
+                  ]
+            },
+            {
+                  "name": "Theatro Foinika",
+                  "text": "A theatre in Peristeri that serves as a venue for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        23.670499,
+                        38.030112
+                  ]
+            },
+            {
+                  "name": "The square peristyle",
+                  "text": "The remains of a square peristyle within an archaeological zone in Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.708935,
+                        37.993245
+                  ]
+            },
+            {
+                  "name": "Theatro To Oikopedo",
+                  "text": "An alternative theatre in Peristeri for independent productions and acting.",
+                  "category": "cultural",
+                  "coords": [
+                        23.716922,
+                        37.998074
+                  ]
+            },
+            {
+                  "name": "Alexis Minotis",
+                  "text": "A theatre in Peristeri named after the famous actor Alexis Minotis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.677875,
+                        37.994865
+                  ]
+            },
+            {
+                  "name": "Mparoutadiko",
+                  "text": "A spacious urban park near Peristeri that offers a green space for recreation.",
+                  "category": "park",
+                  "coords": [
+                        23.676663,
+                        37.998312
+                  ]
+            },
+            {
+                  "name": "Mnimeio Lenorman",
+                  "text": "A monument in Peristeri honoring the French archaeologist François Lenormant.",
+                  "category": "historical",
+                  "coords": [
+                        23.715343,
+                        37.995516
+                  ]
+            },
+            {
+                  "name": "Mystery Lab",
+                  "text": "A modern entertainment center and attraction in the city of Peristeri.",
+                  "category": "landmark",
+                  "coords": [
+                        23.702523,
+                        38.005938
+                  ]
+            },
+            {
+                  "name": "The Sacred Way to Eleusis",
+                  "text": "Sections of the ancient Sacred Way that once led from Athens to Eleusis.",
+                  "category": "historical",
+                  "coords": [
+                        23.681673,
+                        37.991723
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos o Chostos",
+                  "text": "A historically significant Byzantine church in the Peristeri area.",
+                  "category": "religious",
+                  "coords": [
+                        23.698673,
+                        37.998519
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Chaidarioy",
+                  "text": "The administrative building of the Haidari municipality in the Peristeri area.",
+                  "category": "historical",
+                  "coords": [
+                        23.666327,
+                        38.010716
+                  ]
+            },
+            {
+                  "name": "Agia Zoni",
+                  "text": "A Greek Orthodox parish church in Peristeri dedicated to Agia Zoni.",
+                  "category": "religious",
+                  "coords": [
+                        23.71748,
+                        38.008385
+                  ]
+            },
+            {
+                  "name": "Dimarcheio Aigaleo",
+                  "text": "The town hall of the Egaleo municipality, located in the vicinity of Peristeri.",
+                  "category": "historical",
+                  "coords": [
+                        23.668055,
+                        37.997661
+                  ]
+            },
+            {
+                  "name": "Mosque of Athens",
+                  "text": "The modern Mosque of Athens, an important Islamic place of worship in Votanikos near Peristeri.",
+                  "category": "religious",
+                  "coords": [
+                        23.699713,
+                        37.98708
+                  ]
+            },
+            {
+                  "name": "ΑΒΥΣΣΟΣ",
+                  "text": "An aquarium in Peristeri offering a glimpse into fascinating underwater worlds.",
+                  "category": "family",
+                  "coords": [
+                        23.730824,
+                        37.994913
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητηριο Χαιδαρίου",
+                  "text": "A municipal swimming pool in Peristeri with facilities for athletes and families.",
+                  "category": "family",
+                  "coords": [
+                        23.66241,
+                        38.012129
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κολυμβητήριο",
+                  "text": "A public swimming pool in Peristeri used for swimming training and recreation.",
+                  "category": "family",
+                  "coords": [
+                        23.677722,
+                        38.029698
+                  ]
+            },
+            {
+                  "name": "Academia 8th. Floor Pool",
+                  "text": "A swimming pool located on the 8th floor in Peristeri, offering a unique atmosphere for swimming.",
+                  "category": "family",
+                  "coords": [
+                        23.714506,
+                        37.986062
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Peristeri", hu: "Periszteri", ro: "Peristeri", en: "Peristeri" },
@@ -1802,7 +5348,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-peristeri-cities-v2.webp",
   },
   {
-    id: "greece-kalambaka-cities-v2",
+    id: "greece-kalambaka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πισίνα Edelweiss",
+                  "text": "Πισίνα Edelweiss in Kalambaka bietet Platz zum Schwimmen und für Wasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        21.628295,
+                        39.705154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πισίνα Edelweiss",
+                  "text": "A(z) Πισίνα Edelweiss Kalambaka településen úszási és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        21.628295,
+                        39.705154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πισίνα Edelweiss",
+                  "text": "Πισίνα Edelweiss din Kalambaka oferă un loc pentru înot și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        21.628295,
+                        39.705154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Πισίνα Edelweiss",
+                  "text": "Πισίνα Edelweiss in Kalambaka offers a place for swimming and water activities.",
+                  "category": "family",
+                  "coords": [
+                        21.628295,
+                        39.705154
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Kalambaka", hu: "Kalambáka", ro: "Kalambaka", en: "Kalambaka" },
@@ -2298,7 +5889,88 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-xylokastro-cities-v2.webp",
   },
   {
-    id: "greece-nafpaktos-cities-v2",
+    id: "greece-nafpaktos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Πλαζ Ναυπάκτου",
+                  "text": "Πλαζ Ναυπάκτου in Nafpaktos bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        21.826863,
+                        38.39156
+                  ]
+            },
+            {
+                  "name": "Kitesurf spot",
+                  "text": "Kitesurf spot in Nafpaktos bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        21.845994,
+                        38.384335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Πλαζ Ναυπάκτου",
+                  "text": "A Nafpaktos településen található Πλαζ Ναυπάκτου frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        21.826863,
+                        38.39156
+                  ]
+            },
+            {
+                  "name": "Kitesurf spot",
+                  "text": "A Nafpaktos településen található Kitesurf spot frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        21.845994,
+                        38.384335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Πλαζ Ναυπάκτου",
+                  "text": "Πλαζ Ναυπάκτου din Nafpaktos oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        21.826863,
+                        38.39156
+                  ]
+            },
+            {
+                  "name": "Kitesurf spot",
+                  "text": "Kitesurf spot din Nafpaktos oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        21.845994,
+                        38.384335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Πλαζ Ναυπάκτου",
+                  "text": "Πλαζ Ναυπάκτου in Nafpaktos offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        21.826863,
+                        38.39156
+                  ]
+            },
+            {
+                  "name": "Kitesurf spot",
+                  "text": "Kitesurf spot in Nafpaktos offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        21.845994,
+                        38.384335
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Nafpaktos", hu: "Náfpaktosz", ro: "Nafpaktos", en: "Nafpaktos" },
@@ -3108,7 +6780,88 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-tinos-town-cities-v2.webp",
   },
   {
-    id: "greece-poros-town-cities-v2",
+    id: "greece-poros-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hotel Pavlou",
+                  "text": "Hotel Pavlou in Poros Town bietet Platz zum Schwimmen und für Wasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        23.44588,
+                        37.512145
+                  ]
+            },
+            {
+                  "name": "Magda's Kamares Apartments",
+                  "text": "Magda's Kamares Apartments befindet sich in Poros Town.",
+                  "category": "family",
+                  "coords": [
+                        23.473917,
+                        37.509197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hotel Pavlou",
+                  "text": "A(z) Hotel Pavlou Poros Town településen úszási és vízi tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        23.44588,
+                        37.512145
+                  ]
+            },
+            {
+                  "name": "Magda's Kamares Apartments",
+                  "text": "A(z) Magda's Kamares Apartments Poros Town településen található.",
+                  "category": "family",
+                  "coords": [
+                        23.473917,
+                        37.509197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hotel Pavlou",
+                  "text": "Hotel Pavlou din Poros Town oferă un loc pentru înot și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        23.44588,
+                        37.512145
+                  ]
+            },
+            {
+                  "name": "Magda's Kamares Apartments",
+                  "text": "Magda's Kamares Apartments se află în Poros Town.",
+                  "category": "family",
+                  "coords": [
+                        23.473917,
+                        37.509197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hotel Pavlou",
+                  "text": "Hotel Pavlou in Poros Town offers a place for swimming and water activities.",
+                  "category": "family",
+                  "coords": [
+                        23.44588,
+                        37.512145
+                  ]
+            },
+            {
+                  "name": "Magda's Kamares Apartments",
+                  "text": "Magda's Kamares Apartments is located in Poros Town.",
+                  "category": "family",
+                  "coords": [
+                        23.473917,
+                        37.509197
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Poros Stadt", hu: "Pórosz város", ro: "Poros Town", en: "Poros Town" },
@@ -3433,6 +7186,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.34109,
                         36.541578
                   ]
+            },
+            {
+                  "name": "Μαγαζάκι",
+                  "text": "Μαγαζάκι in Astypalaia Town bietet Besuchern ein erfrischendes Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        26.352214,
+                        36.542356
+                  ]
             }
       ],
       "hu": [
@@ -3443,6 +7205,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.34109,
                         36.541578
+                  ]
+            },
+            {
+                  "name": "Μαγαζάκι",
+                  "text": "A Astypalaia Town településen található Μαγαζάκι frissítő úszási élményt kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        26.352214,
+                        36.542356
                   ]
             }
       ],
@@ -3455,6 +7226,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         26.34109,
                         36.541578
                   ]
+            },
+            {
+                  "name": "Μαγαζάκι",
+                  "text": "Μαγαζάκι din Astypalaia Town oferă vizitatorilor o experiență revigorantă de înot.",
+                  "category": "family",
+                  "coords": [
+                        26.352214,
+                        36.542356
+                  ]
             }
       ],
       "en": [
@@ -3465,6 +7245,15 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         26.34109,
                         36.541578
+                  ]
+            },
+            {
+                  "name": "Μαγαζάκι",
+                  "text": "Μαγαζάκι in Astypalaia Town offers a refreshing swimming experience for visitors.",
+                  "category": "family",
+                  "coords": [
+                        26.352214,
+                        36.542356
                   ]
             }
       ]
@@ -3513,7 +7302,448 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-astypalaia-town-cities-v2.webp",
   },
   {
-    id: "greece-naxos-town-cities-v2", "sights": {"de": [{"name": "Archaiologiko Moyseio Naxoy", "text": "Das Museum präsentiert eine Sammlung von Kykladenkunst und archäologischen Funden aus Naxos.", "category": "museum", "coords": [25.377272, 37.105511]}, {"name": "Archaiologiki Syllogi Yrion", "text": "Eine Sammlung archäologischer Funde aus der antiken Stätte von Yria auf Naxos.", "category": "museum", "coords": [25.381567, 37.077346]}, {"name": "Della Rocca-Barozzi Venetian Museum", "text": "Ein Museum in einem venezianischen Herrenhaus, das das Leben des lokalen Adels dokumentiert.", "category": "museum", "coords": [25.376165, 37.105921]}, {"name": "Folk Museum", "text": "Ein Museum, das sich dem traditionellen Handwerk und dem Alltagsleben auf Naxos widmet.", "category": "museum", "coords": [25.375622, 37.107143]}, {"name": "Basilica of St. Stefanos, Ancient Aqueduct", "text": "Eine archäologische Stätte mit Überresten einer Basilika und eines antiken Aquädukts.", "category": "historical", "coords": [25.39216, 37.099541]}, {"name": "Iakovos Kampanelis", "text": "Ein modernes Theater in Naxos Stadt, benannt nach dem berühmten griechischen Dramatiker.", "category": "cultural", "coords": [25.376896, 37.108173]}, {"name": "Vintsi", "text": "Ein kleiner Strandabschnitt in der Nähe des Hafens von Naxos.", "category": "recreational", "coords": [25.374104, 37.108015]}, {"name": "Laguna Beach Park", "text": "Im lebhaften Naxos Town vereint der Laguna Beach Park Strandvergnügen mit einer sportlichen Atmosphäre. Wassersportbegeisterte kommen hier voll auf ihre Kosten, während Zuschauer das bunte Treiben vom Ufer aus beobachten können. Der Ort ist perfekt für aktive Urlauber, die das Element Wasser ausgiebig nutzen möchten.", "category": "landmark", "coords": [25.358372, 37.087156]}, {"name": "Naxaki Beach Lounge and Restaurant", "text": "Die Naxaki Beach Lounge in Naxos Town verbindet erholsame Strandstunden mit kulinarischen Vorzügen direkt am Wasser. Die Kombination aus gemütlichem Resort-Gefühl und Meerblick schafft eine ansprechende Szenerie für Gäste, die sich verwöhnen lassen möchten. Ein idealer Ort, um nach einem entspannten Sonnenbad den Tag bei gutem Essen ausklingen zu lassen.", "category": "recreational", "coords": [25.375381, 37.096751]}, {"name": "Portara von Naxos", "text": "Das monumentale Marmortor eines unvollendeten Apollon-Tempels und Wahrzeichen von Naxos.", "category": "landmark", "coords": [25.3723, 37.110212]}, {"name": "Limnodexameni Eggaron", "text": "Λιμνοδεξαμενή Εγγαρών ist ein Stausee in Naxos Stadt, der Besuchern einen friedlichen Ort bietet, um die umliegende Landschaft zu bewundern.", "category": "natural", "coords": [25.437809, 37.128512]}], "hu": [{"name": "Archaiologiko Moyseio Naxoy", "text": "A múzeum kükladikus művészeti gyűjteményt és Naxoszról származó régészeti leleteket mutat be.", "category": "museum", "coords": [25.377272, 37.105511]}, {"name": "Archaiologiki Syllogi Yrion", "text": "Naxosz szigetén, Íria ókori lelőhelyéről származó régészeti leletek gyűjteménye.", "category": "museum", "coords": [25.381567, 37.077346]}, {"name": "Della Rocca-Barozzi Venetian Museum", "text": "Egy velencei udvarházban kialakított múzeum, amely a helyi nemesség életét mutatja be.", "category": "museum", "coords": [25.376165, 37.105921]}, {"name": "Folk Museum", "text": "A hagyományos kézművességnek és a naxoszi mindennapi életnek szentelt múzeum.", "category": "museum", "coords": [25.375622, 37.107143]}, {"name": "Basilica of St. Stefanos, Ancient Aqueduct", "text": "Régészeti lelőhely egy bazilika és egy ókori vízvezeték maradványaival.", "category": "historical", "coords": [25.39216, 37.099541]}, {"name": "Iakovos Kampanelis", "text": "Naxosz városának modern színháza, amelyet a híres görög drámaíróról neveztek el.", "category": "cultural", "coords": [25.376896, 37.108173]}, {"name": "Vintsi", "text": "Egy kis tengerparti szakasz Naxosz kikötőjének közelében.", "category": "recreational", "coords": [25.374104, 37.108015]}, {"name": "Laguna Beach Park", "text": "A pezsgő Naxos városában a Laguna Beach Park a tengerparti szórakozást sportos légkörrel ötvözi. A vízi sportok szerelmesei itt megtalálják a számításukat, míg a nézők a partról figyelhetik a nyüzsgő életet. A helyszín tökéletes az aktív nyaralók számára, akik teljes mértékben ki akarják élvezni a vizes kalandokat.", "category": "landmark", "coords": [25.358372, 37.087156]}, {"name": "Naxaki Beach Lounge and Restaurant", "text": "A Naxos városában található Naxaki Beach Lounge a pihentető strandolást és a vízparti kulináris élményeket ötvözi. A kényelmes üdülőhelyi hangulat és a tengerre néző kilátás vonzó környezetet teremt a kényeztetésre vágyó vendégek számára. Ideális hely egy pihentető napozás után egy jó étkezéssel zárni a napot.", "category": "recreational", "coords": [25.375381, 37.096751]}, {"name": "Portara", "text": "Egy befejezetlen Apollón-templom monumentális márványkapuja, Naxosz jelképe.", "category": "landmark", "coords": [25.3723, 37.110212]}, {"name": "Limnodexameni Eggaron", "text": "A Λιμνοδεξαμενή Εγγαρών egy víztározó tó Naxos Townban, amely békés helyet kínál a látogatóknak a környező táj megcsodálására.", "category": "natural", "coords": [25.437809, 37.128512]}], "ro": [{"name": "Archaiologiko Moyseio Naxoy", "text": "Muzeul prezintă o colecție de artă cicladică și descoperiri arheologice din Naxos.", "category": "museum", "coords": [25.377272, 37.105511]}, {"name": "Archaiologiki Syllogi Yrion", "text": "O colecție de descoperiri arheologice de la situl antic Yria din Naxos.", "category": "museum", "coords": [25.381567, 37.077346]}, {"name": "Della Rocca-Barozzi Venetian Museum", "text": "Un muzeu situat într-un conac venețian, ce documentează viața nobilimii locale.", "category": "museum", "coords": [25.376165, 37.105921]}, {"name": "Folk Museum", "text": "Un muzeu dedicat meșteșugurilor tradiționale și vieții de zi cu zi din Naxos.", "category": "museum", "coords": [25.375622, 37.107143]}, {"name": "Basilica of St. Stefanos, Ancient Aqueduct", "text": "Un sit arheologic cu rămășițele unei bazilici și ale unui apeduct antic.", "category": "historical", "coords": [25.39216, 37.099541]}, {"name": "Iakovos Kampanelis", "text": "Un teatru modern din orașul Naxos, numit după celebrul dramaturg grec.", "category": "cultural", "coords": [25.376896, 37.108173]}, {"name": "Vintsi", "text": "O mică porțiune de plajă situată lângă portul Naxos.", "category": "recreational", "coords": [25.374104, 37.108015]}, {"name": "Laguna Beach Park", "text": "În animatul Naxos Town, Laguna Beach Park combină distracția pe plajă cu o atmosferă sportivă. Pasionații de sporturi nautice se vor simți în elementul lor aici, în timp ce spectatorii pot urmări activitatea intensă de pe țărm. Este locul perfect pentru turiștii activi care doresc să se bucure din plin de apă.", "category": "landmark", "coords": [25.358372, 37.087156]}, {"name": "Naxaki Beach Lounge and Restaurant", "text": "Naxaki Beach Lounge din Naxos Town îmbină orele de relaxare pe plajă cu deliciile culinare chiar la malul apei. Combinația dintre senzația confortabilă de resort și vederea la mare creează un cadru atrăgător pentru oaspeții care doresc să fie răsfățați. Un loc ideal pentru a încheia ziua cu o masă bună după o plajă relaxantă.", "category": "recreational", "coords": [25.375381, 37.096751]}, {"name": "Portara", "text": "Poarta monumentală de marmură a unui templu neterminat al lui Apollo, simbolul insulei Naxos.", "category": "landmark", "coords": [25.3723, 37.110212]}, {"name": "Limnodexameni Eggaron", "text": "Λιμνοδεξαμενή Εγγαρών este un lac de acumulare din orașul Naxos, oferind vizitatorilor un loc liniștit pentru a admira peisajul din jur.", "category": "natural", "coords": [25.437809, 37.128512]}], "en": [{"name": "Archaeological Museum of Naxos", "text": "The museum presents a collection of Cycladic art and archaeological finds from Naxos.", "category": "museum", "coords": [25.377272, 37.105511]}, {"name": "Archaiologiki Syllogi Yrion", "text": "A collection of archaeological finds from the ancient site of Yria on Naxos.", "category": "museum", "coords": [25.381567, 37.077346]}, {"name": "Della Rocca-Barozzi Venetian Museum", "text": "A museum housed in a Venetian mansion, documenting the life of the local nobility.", "category": "museum", "coords": [25.376165, 37.105921]}, {"name": "Folk Museum", "text": "A museum dedicated to traditional crafts and daily life on Naxos.", "category": "museum", "coords": [25.375622, 37.107143]}, {"name": "Basilica of St. Stefanos, Ancient Aqueduct", "text": "An archaeological site featuring the remains of a basilica and an ancient aqueduct.", "category": "historical", "coords": [25.39216, 37.099541]}, {"name": "Iakovos Kampanelis", "text": "A modern theatre in Naxos town, named after the famous Greek playwright.", "category": "cultural", "coords": [25.376896, 37.108173]}, {"name": "Vintsi", "text": "A small beach area located near the port of Naxos.", "category": "recreational", "coords": [25.374104, 37.108015]}, {"name": "Laguna Beach Park", "text": "In lively Naxos Town, Laguna Beach Park combines beachside fun with a sporty atmosphere. Watersports enthusiasts will find plenty to keep them busy, while spectators can watch the colorful action from the shore. The spot is perfect for active vacationers looking to fully embrace the aquatic environment.", "category": "landmark", "coords": [25.358372, 37.087156]}, {"name": "Naxaki Beach Lounge and Restaurant", "text": "The Naxaki Beach Lounge in Naxos Town pairs relaxing hours on the beach with culinary delights right by the water. The combination of a comfortable resort feel and ocean views creates an appealing setting for guests looking to be pampered. It is an ideal spot to end the day with a good meal after a relaxing sunbath.", "category": "recreational", "coords": [25.375381, 37.096751]}, {"name": "Portara", "text": "The monumental marble gate of an unfinished temple of Apollo and landmark of Naxos.", "category": "landmark", "coords": [25.3723, 37.110212]}, {"name": "Limnodexameni Eggaron", "text": "Λιμνοδεξαμενή Εγγαρών is a reservoir lake in Naxos Town, offering visitors a peaceful spot to admire the surrounding landscape.", "category": "natural", "coords": [25.437809, 37.128512]}]},
+    id: "greece-naxos-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archaiologiko Moyseio Naxoy",
+                  "text": "Das Museum präsentiert eine Sammlung von Kykladenkunst und archäologischen Funden aus Naxos.",
+                  "category": "museum",
+                  "coords": [
+                        25.377272,
+                        37.105511
+                  ]
+            },
+            {
+                  "name": "Archaiologiki Syllogi Yrion",
+                  "text": "Eine Sammlung archäologischer Funde aus der antiken Stätte von Yria auf Naxos.",
+                  "category": "museum",
+                  "coords": [
+                        25.381567,
+                        37.077346
+                  ]
+            },
+            {
+                  "name": "Della Rocca-Barozzi Venetian Museum",
+                  "text": "Ein Museum in einem venezianischen Herrenhaus, das das Leben des lokalen Adels dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.376165,
+                        37.105921
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Ein Museum, das sich dem traditionellen Handwerk und dem Alltagsleben auf Naxos widmet.",
+                  "category": "museum",
+                  "coords": [
+                        25.375622,
+                        37.107143
+                  ]
+            },
+            {
+                  "name": "Basilica of St. Stefanos, Ancient Aqueduct",
+                  "text": "Eine archäologische Stätte mit Überresten einer Basilika und eines antiken Aquädukts.",
+                  "category": "historical",
+                  "coords": [
+                        25.39216,
+                        37.099541
+                  ]
+            },
+            {
+                  "name": "Iakovos Kampanelis",
+                  "text": "Ein modernes Theater in Naxos Stadt, benannt nach dem berühmten griechischen Dramatiker.",
+                  "category": "cultural",
+                  "coords": [
+                        25.376896,
+                        37.108173
+                  ]
+            },
+            {
+                  "name": "Vintsi",
+                  "text": "Ein kleiner Strandabschnitt in der Nähe des Hafens von Naxos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.374104,
+                        37.108015
+                  ]
+            },
+            {
+                  "name": "Laguna Beach Park",
+                  "text": "Im lebhaften Naxos Town vereint der Laguna Beach Park Strandvergnügen mit einer sportlichen Atmosphäre. Wassersportbegeisterte kommen hier voll auf ihre Kosten, während Zuschauer das bunte Treiben vom Ufer aus beobachten können. Der Ort ist perfekt für aktive Urlauber, die das Element Wasser ausgiebig nutzen möchten.",
+                  "category": "landmark",
+                  "coords": [
+                        25.358372,
+                        37.087156
+                  ]
+            },
+            {
+                  "name": "Naxaki Beach Lounge and Restaurant",
+                  "text": "Die Naxaki Beach Lounge in Naxos Town verbindet erholsame Strandstunden mit kulinarischen Vorzügen direkt am Wasser. Die Kombination aus gemütlichem Resort-Gefühl und Meerblick schafft eine ansprechende Szenerie für Gäste, die sich verwöhnen lassen möchten. Ein idealer Ort, um nach einem entspannten Sonnenbad den Tag bei gutem Essen ausklingen zu lassen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.375381,
+                        37.096751
+                  ]
+            },
+            {
+                  "name": "Portara von Naxos",
+                  "text": "Das monumentale Marmortor eines unvollendeten Apollon-Tempels und Wahrzeichen von Naxos.",
+                  "category": "landmark",
+                  "coords": [
+                        25.3723,
+                        37.110212
+                  ]
+            },
+            {
+                  "name": "Limnodexameni Eggaron",
+                  "text": "Λιμνοδεξαμενή Εγγαρών ist ein Stausee in Naxos Stadt, der Besuchern einen friedlichen Ort bietet, um die umliegende Landschaft zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        25.437809,
+                        37.128512
+                  ]
+            },
+            {
+                  "name": "Aqua fun",
+                  "text": "Ein Wasserpark in Naxos Town mit Rutschen und Wasserattraktionen für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        25.35416,
+                        37.08178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaiologiko Moyseio Naxoy",
+                  "text": "A múzeum kükladikus művészeti gyűjteményt és Naxoszról származó régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        25.377272,
+                        37.105511
+                  ]
+            },
+            {
+                  "name": "Archaiologiki Syllogi Yrion",
+                  "text": "Naxosz szigetén, Íria ókori lelőhelyéről származó régészeti leletek gyűjteménye.",
+                  "category": "museum",
+                  "coords": [
+                        25.381567,
+                        37.077346
+                  ]
+            },
+            {
+                  "name": "Della Rocca-Barozzi Venetian Museum",
+                  "text": "Egy velencei udvarházban kialakított múzeum, amely a helyi nemesség életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.376165,
+                        37.105921
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "A hagyományos kézművességnek és a naxoszi mindennapi életnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.375622,
+                        37.107143
+                  ]
+            },
+            {
+                  "name": "Basilica of St. Stefanos, Ancient Aqueduct",
+                  "text": "Régészeti lelőhely egy bazilika és egy ókori vízvezeték maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        25.39216,
+                        37.099541
+                  ]
+            },
+            {
+                  "name": "Iakovos Kampanelis",
+                  "text": "Naxosz városának modern színháza, amelyet a híres görög drámaíróról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        25.376896,
+                        37.108173
+                  ]
+            },
+            {
+                  "name": "Vintsi",
+                  "text": "Egy kis tengerparti szakasz Naxosz kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.374104,
+                        37.108015
+                  ]
+            },
+            {
+                  "name": "Laguna Beach Park",
+                  "text": "A pezsgő Naxos városában a Laguna Beach Park a tengerparti szórakozást sportos légkörrel ötvözi. A vízi sportok szerelmesei itt megtalálják a számításukat, míg a nézők a partról figyelhetik a nyüzsgő életet. A helyszín tökéletes az aktív nyaralók számára, akik teljes mértékben ki akarják élvezni a vizes kalandokat.",
+                  "category": "landmark",
+                  "coords": [
+                        25.358372,
+                        37.087156
+                  ]
+            },
+            {
+                  "name": "Naxaki Beach Lounge and Restaurant",
+                  "text": "A Naxos városában található Naxaki Beach Lounge a pihentető strandolást és a vízparti kulináris élményeket ötvözi. A kényelmes üdülőhelyi hangulat és a tengerre néző kilátás vonzó környezetet teremt a kényeztetésre vágyó vendégek számára. Ideális hely egy pihentető napozás után egy jó étkezéssel zárni a napot.",
+                  "category": "recreational",
+                  "coords": [
+                        25.375381,
+                        37.096751
+                  ]
+            },
+            {
+                  "name": "Portara",
+                  "text": "Egy befejezetlen Apollón-templom monumentális márványkapuja, Naxosz jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.3723,
+                        37.110212
+                  ]
+            },
+            {
+                  "name": "Limnodexameni Eggaron",
+                  "text": "A Λιμνοδεξαμενή Εγγαρών egy víztározó tó Naxos Townban, amely békés helyet kínál a látogatóknak a környező táj megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        25.437809,
+                        37.128512
+                  ]
+            },
+            {
+                  "name": "Aqua fun",
+                  "text": "Vízipark Naxosz városában csúszdákkal és vízi látnivalókkal minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        25.35416,
+                        37.08178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaiologiko Moyseio Naxoy",
+                  "text": "Muzeul prezintă o colecție de artă cicladică și descoperiri arheologice din Naxos.",
+                  "category": "museum",
+                  "coords": [
+                        25.377272,
+                        37.105511
+                  ]
+            },
+            {
+                  "name": "Archaiologiki Syllogi Yrion",
+                  "text": "O colecție de descoperiri arheologice de la situl antic Yria din Naxos.",
+                  "category": "museum",
+                  "coords": [
+                        25.381567,
+                        37.077346
+                  ]
+            },
+            {
+                  "name": "Della Rocca-Barozzi Venetian Museum",
+                  "text": "Un muzeu situat într-un conac venețian, ce documentează viața nobilimii locale.",
+                  "category": "museum",
+                  "coords": [
+                        25.376165,
+                        37.105921
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "Un muzeu dedicat meșteșugurilor tradiționale și vieții de zi cu zi din Naxos.",
+                  "category": "museum",
+                  "coords": [
+                        25.375622,
+                        37.107143
+                  ]
+            },
+            {
+                  "name": "Basilica of St. Stefanos, Ancient Aqueduct",
+                  "text": "Un sit arheologic cu rămășițele unei bazilici și ale unui apeduct antic.",
+                  "category": "historical",
+                  "coords": [
+                        25.39216,
+                        37.099541
+                  ]
+            },
+            {
+                  "name": "Iakovos Kampanelis",
+                  "text": "Un teatru modern din orașul Naxos, numit după celebrul dramaturg grec.",
+                  "category": "cultural",
+                  "coords": [
+                        25.376896,
+                        37.108173
+                  ]
+            },
+            {
+                  "name": "Vintsi",
+                  "text": "O mică porțiune de plajă situată lângă portul Naxos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.374104,
+                        37.108015
+                  ]
+            },
+            {
+                  "name": "Laguna Beach Park",
+                  "text": "În animatul Naxos Town, Laguna Beach Park combină distracția pe plajă cu o atmosferă sportivă. Pasionații de sporturi nautice se vor simți în elementul lor aici, în timp ce spectatorii pot urmări activitatea intensă de pe țărm. Este locul perfect pentru turiștii activi care doresc să se bucure din plin de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        25.358372,
+                        37.087156
+                  ]
+            },
+            {
+                  "name": "Naxaki Beach Lounge and Restaurant",
+                  "text": "Naxaki Beach Lounge din Naxos Town îmbină orele de relaxare pe plajă cu deliciile culinare chiar la malul apei. Combinația dintre senzația confortabilă de resort și vederea la mare creează un cadru atrăgător pentru oaspeții care doresc să fie răsfățați. Un loc ideal pentru a încheia ziua cu o masă bună după o plajă relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        25.375381,
+                        37.096751
+                  ]
+            },
+            {
+                  "name": "Portara",
+                  "text": "Poarta monumentală de marmură a unui templu neterminat al lui Apollo, simbolul insulei Naxos.",
+                  "category": "landmark",
+                  "coords": [
+                        25.3723,
+                        37.110212
+                  ]
+            },
+            {
+                  "name": "Limnodexameni Eggaron",
+                  "text": "Λιμνοδεξαμενή Εγγαρών este un lac de acumulare din orașul Naxos, oferind vizitatorilor un loc liniștit pentru a admira peisajul din jur.",
+                  "category": "natural",
+                  "coords": [
+                        25.437809,
+                        37.128512
+                  ]
+            },
+            {
+                  "name": "Aqua fun",
+                  "text": "Un parc acvatic în orașul Naxos, cu tobogane și atracții acvatice pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        25.35416,
+                        37.08178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Naxos",
+                  "text": "The museum presents a collection of Cycladic art and archaeological finds from Naxos.",
+                  "category": "museum",
+                  "coords": [
+                        25.377272,
+                        37.105511
+                  ]
+            },
+            {
+                  "name": "Archaiologiki Syllogi Yrion",
+                  "text": "A collection of archaeological finds from the ancient site of Yria on Naxos.",
+                  "category": "museum",
+                  "coords": [
+                        25.381567,
+                        37.077346
+                  ]
+            },
+            {
+                  "name": "Della Rocca-Barozzi Venetian Museum",
+                  "text": "A museum housed in a Venetian mansion, documenting the life of the local nobility.",
+                  "category": "museum",
+                  "coords": [
+                        25.376165,
+                        37.105921
+                  ]
+            },
+            {
+                  "name": "Folk Museum",
+                  "text": "A museum dedicated to traditional crafts and daily life on Naxos.",
+                  "category": "museum",
+                  "coords": [
+                        25.375622,
+                        37.107143
+                  ]
+            },
+            {
+                  "name": "Basilica of St. Stefanos, Ancient Aqueduct",
+                  "text": "An archaeological site featuring the remains of a basilica and an ancient aqueduct.",
+                  "category": "historical",
+                  "coords": [
+                        25.39216,
+                        37.099541
+                  ]
+            },
+            {
+                  "name": "Iakovos Kampanelis",
+                  "text": "A modern theatre in Naxos town, named after the famous Greek playwright.",
+                  "category": "cultural",
+                  "coords": [
+                        25.376896,
+                        37.108173
+                  ]
+            },
+            {
+                  "name": "Vintsi",
+                  "text": "A small beach area located near the port of Naxos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.374104,
+                        37.108015
+                  ]
+            },
+            {
+                  "name": "Laguna Beach Park",
+                  "text": "In lively Naxos Town, Laguna Beach Park combines beachside fun with a sporty atmosphere. Watersports enthusiasts will find plenty to keep them busy, while spectators can watch the colorful action from the shore. The spot is perfect for active vacationers looking to fully embrace the aquatic environment.",
+                  "category": "landmark",
+                  "coords": [
+                        25.358372,
+                        37.087156
+                  ]
+            },
+            {
+                  "name": "Naxaki Beach Lounge and Restaurant",
+                  "text": "The Naxaki Beach Lounge in Naxos Town pairs relaxing hours on the beach with culinary delights right by the water. The combination of a comfortable resort feel and ocean views creates an appealing setting for guests looking to be pampered. It is an ideal spot to end the day with a good meal after a relaxing sunbath.",
+                  "category": "recreational",
+                  "coords": [
+                        25.375381,
+                        37.096751
+                  ]
+            },
+            {
+                  "name": "Portara",
+                  "text": "The monumental marble gate of an unfinished temple of Apollo and landmark of Naxos.",
+                  "category": "landmark",
+                  "coords": [
+                        25.3723,
+                        37.110212
+                  ]
+            },
+            {
+                  "name": "Limnodexameni Eggaron",
+                  "text": "Λιμνοδεξαμενή Εγγαρών is a reservoir lake in Naxos Town, offering visitors a peaceful spot to admire the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.437809,
+                        37.128512
+                  ]
+            },
+            {
+                  "name": "Aqua fun",
+                  "text": "A water park in Naxos Town featuring slides and water attractions for all ages.",
+                  "category": "family",
+                  "coords": [
+                        25.35416,
+                        37.08178
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Naxos Stadt", hu: "Náxosz város", ro: "Naxos Town", en: "Naxos Town" },

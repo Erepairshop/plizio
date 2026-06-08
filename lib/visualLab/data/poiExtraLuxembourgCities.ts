@@ -688,6 +688,33 @@ export const luxembourgExtraCities: POI[] = [
                         6.12072,
                         49.594714
                   ]
+            },
+            {
+                  "name": "Schwimmbad",
+                  "text": "Ein Schwimmbad in Luxembourg City, ideal für sportliche Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        6.112585,
+                        49.601718
+                  ]
+            },
+            {
+                  "name": "Piscine scolaire",
+                  "text": "Ein Schwimmbad in Luxembourg City, das für Schwimmübungen genutzt werden kann.",
+                  "category": "family",
+                  "coords": [
+                        6.115185,
+                        49.621732
+                  ]
+            },
+            {
+                  "name": "d'Coque",
+                  "text": "Ein Schwimmbad in Luxembourg City, das zum Schwimmen und Entspannen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        6.151855,
+                        49.623368
+                  ]
             }
       ],
       "hu": [
@@ -1373,6 +1400,33 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.12072,
                         49.594714
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "Úszómedence Luxembourg City területén, amely ideális sporttevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        6.112585,
+                        49.601718
+                  ]
+            },
+            {
+                  "name": "Piscine scolaire",
+                  "text": "Úszómedence Luxembourg City területén, amely úszóedzésekre használható.",
+                  "category": "family",
+                  "coords": [
+                        6.115185,
+                        49.621732
+                  ]
+            },
+            {
+                  "name": "d'Coque",
+                  "text": "Úszómedence Luxembourg City területén, amely úszásra és pihenésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        6.151855,
+                        49.623368
                   ]
             }
       ],
@@ -2060,6 +2114,33 @@ export const luxembourgExtraCities: POI[] = [
                         6.12072,
                         49.594714
                   ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "O piscină în Luxembourg City, ideală pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        6.112585,
+                        49.601718
+                  ]
+            },
+            {
+                  "name": "Piscine scolaire",
+                  "text": "O piscină în Luxembourg City care poate fi folosită pentru antrenamente de înot.",
+                  "category": "family",
+                  "coords": [
+                        6.115185,
+                        49.621732
+                  ]
+            },
+            {
+                  "name": "d'Coque",
+                  "text": "O piscină în Luxembourg City care invită la înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        6.151855,
+                        49.623368
+                  ]
             }
       ],
       "en": [
@@ -2745,6 +2826,33 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.12072,
                         49.594714
+                  ]
+            },
+            {
+                  "name": "Piscine",
+                  "text": "A swimming pool in Luxembourg City, ideal for sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        6.112585,
+                        49.601718
+                  ]
+            },
+            {
+                  "name": "Piscine scolaire",
+                  "text": "A swimming pool in Luxembourg City that can be used for swimming practice.",
+                  "category": "family",
+                  "coords": [
+                        6.115185,
+                        49.621732
+                  ]
+            },
+            {
+                  "name": "d'Coque",
+                  "text": "A swimming pool in Luxembourg City inviting you to swim and relax.",
+                  "category": "family",
+                  "coords": [
+                        6.151855,
+                        49.623368
                   ]
             }
       ]

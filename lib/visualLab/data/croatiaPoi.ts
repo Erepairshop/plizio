@@ -74,7 +74,88 @@ export const croatiaAllPoi = [
     image: "/images/visualLab/croatia/country.jpg"
   },
   {
-    id: "hr-zagreb",
+    id: "hr-zagreb", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Bundek",
+                  "text": "Dieses Strandresort in Zagreb bietet einen Platz zum Sonnenbaden und Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        15.987555,
+                        45.785328
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt grada Zagreba",
+                  "text": "Dieser Stadtzoo in Zagreb bietet eine Vielzahl von Tieren für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        16.021886,
+                        45.821958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Bundek",
+                  "text": "Ez a zágrábi strandüdülőhely napozásra és úszásra kínál lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        15.987555,
+                        45.785328
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt grada Zagreba",
+                  "text": "Ez a zágrábi állatkert számos állattal várja a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        16.021886,
+                        45.821958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Bundek",
+                  "text": "Această stațiune de plajă din Zagreb oferă un loc pentru plajă și înot.",
+                  "category": "family",
+                  "coords": [
+                        15.987555,
+                        45.785328
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt grada Zagreba",
+                  "text": "Această grădină zoologică din Zagreb prezintă o varietate de animale pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        16.021886,
+                        45.821958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Bundek",
+                  "text": "This beach resort in Zagreb offers a place for sunbathing and swimming.",
+                  "category": "family",
+                  "coords": [
+                        15.987555,
+                        45.785328
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt grada Zagreba",
+                  "text": "This city zoo in Zagreb features a variety of animals for visitors.",
+                  "category": "family",
+                  "coords": [
+                        16.021886,
+                        45.821958
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "hr-country",
     coords: [15.9819, 45.8150],
@@ -147,7 +228,124 @@ export const croatiaAllPoi = [
     image: "/images/visualLab/croatia/zagreb.jpg"
   },
   {
-    id: "hr-split",
+    id: "hr-split", "sights": {
+      "de": [
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "Ein Strandresort in Split, das Entspannung und Schwimmen am Meer ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Split",
+                  "text": "Ein Zoo in Split, ideal für einen Familienausflug, um verschiedene Tiere zu sehen.",
+                  "category": "family",
+                  "coords": [
+                        16.426008,
+                        43.508773
+                  ]
+            },
+            {
+                  "name": "Bazen Zenta",
+                  "text": "Ein Schwimmbad in Split, das Möglichkeiten für Wassersport und Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        16.456282,
+                        43.500112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "Spliti strandüdülő, amely kikapcsolódást és úszást kínál a tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Split",
+                  "text": "Spliti állatkert, amely ideális egy családi kiránduláshoz és állatok megtekintéséhez.",
+                  "category": "family",
+                  "coords": [
+                        16.426008,
+                        43.508773
+                  ]
+            },
+            {
+                  "name": "Bazen Zenta",
+                  "text": "Spliti úszómedence, amely vízi sportolási és pihenési lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        16.456282,
+                        43.500112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "O stațiune de plajă din Split care oferă relaxare și înot la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Split",
+                  "text": "O grădină zoologică din Split, ideală pentru o excursie în familie pentru a vedea diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        16.426008,
+                        43.508773
+                  ]
+            },
+            {
+                  "name": "Bazen Zenta",
+                  "text": "O piscină din Split care oferă oportunități pentru sporturi nautice și recreere.",
+                  "category": "family",
+                  "coords": [
+                        16.456282,
+                        43.500112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mistral Beach Club",
+                  "text": "A beach resort in Split offering relaxation and swimming by the sea.",
+                  "category": "family",
+                  "coords": [
+                        16.470118,
+                        43.501505
+                  ]
+            },
+            {
+                  "name": "Split Zoo",
+                  "text": "A zoo in Split, ideal for a family outing to see various animals.",
+                  "category": "family",
+                  "coords": [
+                        16.426008,
+                        43.508773
+                  ]
+            },
+            {
+                  "name": "Bazen Zenta",
+                  "text": "A swimming pool in Split offering opportunities for water sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        16.456282,
+                        43.500112
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "hr-country",
     coords: [16.4401, 43.5081],
@@ -220,7 +418,160 @@ export const croatiaAllPoi = [
     image: "/images/visualLab/croatia/split.jpg"
   },
   {
-    id: "hr-dubrovnik",
+    id: "hr-dubrovnik", "sights": {
+      "de": [
+            {
+                  "name": "AKVARIJ Dubrovnik Aquarium",
+                  "text": "Ein Aquarium zur Entdeckung der Meeresbewohner in Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.11245,
+                        42.639824
+                  ]
+            },
+            {
+                  "name": "Plaža President",
+                  "text": "Ein Strandresort an der Küste von Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.057989,
+                        42.662282
+                  ]
+            },
+            {
+                  "name": "Copacabana",
+                  "text": "Ein bekanntes Strandresort zum Schwimmen in Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.065123,
+                        42.664028
+                  ]
+            },
+            {
+                  "name": "Coral Beach",
+                  "text": "Ein Strandresort für erholsame Stunden in Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.06196,
+                        42.664053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AKVARIJ Dubrovnik Aquarium",
+                  "text": "Akvárium a tengeri élővilág felfedezéséhez Dubrovnikban.",
+                  "category": "family",
+                  "coords": [
+                        18.11245,
+                        42.639824
+                  ]
+            },
+            {
+                  "name": "Plaža President",
+                  "text": "Strandüdülő Dubrovnik tengerpartján.",
+                  "category": "family",
+                  "coords": [
+                        18.057989,
+                        42.662282
+                  ]
+            },
+            {
+                  "name": "Copacabana",
+                  "text": "Ismert strandüdülő úszáshoz Dubrovnikban.",
+                  "category": "family",
+                  "coords": [
+                        18.065123,
+                        42.664028
+                  ]
+            },
+            {
+                  "name": "Coral Beach",
+                  "text": "Strandüdülő a pihentető órákhoz Dubrovnikban.",
+                  "category": "family",
+                  "coords": [
+                        18.06196,
+                        42.664053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AKVARIJ Dubrovnik Aquarium",
+                  "text": "Un acvariu pentru a descoperi viața marină din Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.11245,
+                        42.639824
+                  ]
+            },
+            {
+                  "name": "Plaža President",
+                  "text": "O stațiune de plajă pe coasta orașului Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.057989,
+                        42.662282
+                  ]
+            },
+            {
+                  "name": "Copacabana",
+                  "text": "O stațiune de plajă cunoscută pentru înot în Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.065123,
+                        42.664028
+                  ]
+            },
+            {
+                  "name": "Coral Beach",
+                  "text": "O stațiune de plajă pentru ore de relaxare în Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.06196,
+                        42.664053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AKVARIJ Dubrovnik Aquarium",
+                  "text": "An aquarium to discover marine life in Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.11245,
+                        42.639824
+                  ]
+            },
+            {
+                  "name": "President Beach",
+                  "text": "A beach resort on the coast of Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.057989,
+                        42.662282
+                  ]
+            },
+            {
+                  "name": "Copacabana",
+                  "text": "A well-known beach resort for swimming in Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.065123,
+                        42.664028
+                  ]
+            },
+            {
+                  "name": "Coral Beach",
+                  "text": "A beach resort for relaxing hours in Dubrovnik.",
+                  "category": "family",
+                  "coords": [
+                        18.06196,
+                        42.664053
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "hr-country",
     coords: [18.0944, 42.6507],
@@ -658,7 +1009,124 @@ export const croatiaAllPoi = [
     image: "/images/visualLab/croatia/krka.jpg"
   },
   {
-    id: "city-rijeka",
+    id: "city-rijeka", "sights": {
+      "de": [
+            {
+                  "name": "Hotel Park",
+                  "text": "Dieses Strandresort in Rijeka bietet einen Platz zum Sonnenbaden und Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        14.467738,
+                        45.315838
+                  ]
+            },
+            {
+                  "name": "Grčevo",
+                  "text": "Dieses Strandresort in Rijeka bietet einen Platz zum Sonnenbaden und Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        14.473916,
+                        45.312125
+                  ]
+            },
+            {
+                  "name": "Križić",
+                  "text": "Dieses Strandresort in Rijeka bietet einen Platz zum Sonnenbaden und Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        14.463047,
+                        45.319178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hotel Park",
+                  "text": "Ez a fiumei strandüdülőhely napozásra és úszásra kínál lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        14.467738,
+                        45.315838
+                  ]
+            },
+            {
+                  "name": "Grčevo",
+                  "text": "Ez a fiumei strandüdülőhely napozásra és úszásra kínál lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        14.473916,
+                        45.312125
+                  ]
+            },
+            {
+                  "name": "Križić",
+                  "text": "Ez a fiumei strandüdülőhely napozásra és úszásra kínál lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        14.463047,
+                        45.319178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hotel Park",
+                  "text": "Această stațiune de plajă din Rijeka oferă un loc pentru plajă și înot.",
+                  "category": "family",
+                  "coords": [
+                        14.467738,
+                        45.315838
+                  ]
+            },
+            {
+                  "name": "Grčevo",
+                  "text": "Această stațiune de plajă din Rijeka oferă un loc pentru plajă și înot.",
+                  "category": "family",
+                  "coords": [
+                        14.473916,
+                        45.312125
+                  ]
+            },
+            {
+                  "name": "Križić",
+                  "text": "Această stațiune de plajă din Rijeka oferă un loc pentru plajă și înot.",
+                  "category": "family",
+                  "coords": [
+                        14.463047,
+                        45.319178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hotel Park",
+                  "text": "This beach resort in Rijeka offers a place for sunbathing and swimming.",
+                  "category": "family",
+                  "coords": [
+                        14.467738,
+                        45.315838
+                  ]
+            },
+            {
+                  "name": "Grčevo",
+                  "text": "This beach resort in Rijeka offers a place for sunbathing and swimming.",
+                  "category": "family",
+                  "coords": [
+                        14.473916,
+                        45.312125
+                  ]
+            },
+            {
+                  "name": "Križić",
+                  "text": "This beach resort in Rijeka offers a place for sunbathing and swimming.",
+                  "category": "family",
+                  "coords": [
+                        14.463047,
+                        45.319178
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "hr-country",
     coords: [14.4423, 45.3271],

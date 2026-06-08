@@ -1846,7 +1846,52 @@ export const poiExtraSanmarinoCities: POI[] = [
     },
     facts: { de: ["Teil der Verwaltungseinheit Borgo Maggiore.", "Bekannt für sein traditionelles ländliches Flair in San Marino.", "Bietet einfachen Zugang zum Berg Titano und historischen Stätten."], hu: ["Borgo Maggiore közigazgatási egységének része.", "A hagyományos San Marino-i vidéki hangulatról ismert.", "Könnyű hozzáférést biztosít a Titán-hegyhez és a történelmi helyszínekhez."], ro: ["Face parte din diviziunea administrativă Borgo Maggiore.", "Cunoscut pentru atmosfera tradițională a peisajului din San Marino.", "Oferă acces ușor la Muntele Titano și la siturile istorice."], en: ["Part of the Borgo Maggiore administrative division.", "Known for its traditional Sammarinese countryside feel.", "Provides easy access to Mount Titano and historic sites."] , es: ["Parte de la unidad administrativa de Borgo Maggiore.", "Conocido por su estilo rural tradicional en San Marino.", "Ofrece fácil acceso al monte Titano y lugares históricos."], pt: ["Parte da unidade administrativa de Borgo Maggiore.", "Conhecido pelo seu estilo rural tradicional em San Marino.", "Oferece fácil acesso ao monte Titano e locais históricos."], fr: ["Fait partie de l'unité administrative de Borgo Maggiore.", "Connu pour son style rural traditionnel à Saint-Marin.", "Offre un accès facile au mont Titano et aux sites historiques."]}, image: "/poi-images/city-ca-rigo-extra.webp"},
   {
-    id: "city-cailungo-extra",
+    id: "city-cailungo-extra", "sights": {
+      "de": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Cailungo.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Cailungo településen.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "O destinație plină de distracție pentru familii și copii în Cailungo.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "A fun-filled destination for families and children in Cailungo.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM-009",
     coords: [12.459, 43.948],

@@ -43330,6 +43330,222 @@ export const pois: POI[] = [
                         8.545207,
                         52.023723
                   ]
+            },
+            {
+                  "name": "Deutsches Fächermuseum",
+                  "text": "Das Deutsche Fächermuseum in Bielefeld präsentiert eine einzigartige Sammlung von Handfächern aus verschiedenen Epochen. Es ist das einzige Spezialmuseum dieser Art in Deutschland und zeigt die Kunst der Fächerherstellung.",
+                  "category": "museum",
+                  "coords": [
+                        8.530472,
+                        52.018735
+                  ]
+            },
+            {
+                  "name": "NaMu - Naturkunde-Museum",
+                  "text": "Das NaMu – Naturkunde-Museum Bielefeld zeigt vielfältige Exponate zur regionalen Naturgeschichte und Geologie. Es bietet interaktive Ausstellungen, die besonders für Kinder und Familien lehrreich sind.",
+                  "category": "museum",
+                  "coords": [
+                        8.528305,
+                        52.017074
+                  ]
+            },
+            {
+                  "name": "Grünes Haus",
+                  "text": "Das Grüne Haus ist ein markanter Teil des Naturkunde-Museums in Bielefeld. Es beherbergt spezielle Ausstellungsbereiche und dient als Ort für museumspädagogische Angebote.",
+                  "category": "museum",
+                  "coords": [
+                        8.528546,
+                        52.013785
+                  ]
+            },
+            {
+                  "name": "Weiße Villa",
+                  "text": "Die Weiße Villa in Bielefeld ist ein elegantes historisches Gebäude, das für kulturelle Zwecke genutzt wird. Sie ist ein Beispiel für die gehobene Architektur der Stadt und liegt in einem parkähnlichen Umfeld.",
+                  "category": "historical",
+                  "coords": [
+                        8.546254,
+                        52.022782
+                  ]
+            },
+            {
+                  "name": "Rudolf-Oetker-Halle",
+                  "text": "Die Rudolf-Oetker-Halle ist ein renommierter Konzertbau in Bielefeld, bekannt für seine exzellente Akustik. Sie ist der wichtigste Veranstaltungsort für klassische Musik und große kulturelle Ereignisse in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        8.513186,
+                        52.028267
+                  ]
+            },
+            {
+                  "name": "Zionskirche",
+                  "text": "Die Zionskirche ist das geistliche Zentrum der Zionsgemeinde Bethel in Bielefeld. Die Architektur des Gebäudes ist schlicht gehalten und bietet Raum für Gottesdienste und Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        8.525632,
+                        52.011665
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "Die Johanniskirche ist eine evangelische Kirche im Bielefelder Stadtzentrum. Sie ist für ihre gotische Architektur und ihre Bedeutung als Ort der Begegnung und des Gebets bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        8.525213,
+                        52.031189
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Die Pauluskirche ist ein markantes Sakralbauwerk in Bielefeld mit einem hohen Kirchturm. Sie dient der evangelischen Gemeinde als Ort für Gottesdienste und kirchenmusikalische Veranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        8.540367,
+                        52.027122
+                  ]
+            },
+            {
+                  "name": "Jakobuskirche",
+                  "text": "Die Jakobuskirche in Bielefeld ist eine evangelische Gemeindekirche mit einer einladenden Atmosphäre. Das Gebäude ist ein fester Bestandteil des religiösen Lebens im jeweiligen Stadtteil.",
+                  "category": "religious",
+                  "coords": [
+                        8.550921,
+                        52.013902
+                  ]
+            },
+            {
+                  "name": "Synagoge Beit Tikwa",
+                  "text": "Die Synagoge Beit Tikwa ist das religiöse Zentrum der jüdischen Gemeinde in Bielefeld. Das moderne Gebäude dient als Ort des Gebets, der Lehre und des kulturellen Austauschs.",
+                  "category": "religious",
+                  "coords": [
+                        8.543349,
+                        52.008824
+                  ]
+            },
+            {
+                  "name": "Petrikirche",
+                  "text": "Die Petrikirche ist ein bedeutendes sakrales Bauwerk im Zentrum von Bielefeld. Besucher können hier die historische Architektur und die ruhige Atmosphäre des Kirchenraums erleben.",
+                  "category": "religious",
+                  "coords": [
+                        8.564987,
+                        52.033359
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Der Botanische Garten in Bielefeld zeigt eine beeindruckende Vielfalt an heimischen und exotischen Pflanzenarten. Die Anlage lädt zu entspannten Spaziergängen durch verschiedene Themenbereiche und Gartenlandschaften ein.",
+                  "category": "landmark",
+                  "coords": [
+                        8.510218,
+                        52.01467
+                  ]
+            },
+            {
+                  "name": "Johannisberg",
+                  "text": "Der Johannisberg ist eine markante Erhebung im Teutoburger Wald nahe dem Bielefelder Stadtzentrum. Von hier aus bietet sich ein weiter Ausblick über die Stadt und die umliegende bewaldete Hügellandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        8.516249,
+                        52.019616
+                  ]
+            },
+            {
+                  "name": "Historische Sammlung Bethel",
+                  "text": "Die Historische Sammlung Bethel dokumentiert die lange Geschichte der v. Bodelschwinghschen Stiftungen in Bielefeld. Das Museum bietet Einblicke in die Entwicklung der sozialen Arbeit und medizinischen Versorgung der Einrichtung.",
+                  "category": "museum",
+                  "coords": [
+                        8.524045,
+                        52.01286
+                  ]
+            },
+            {
+                  "name": "Krankenhausmuseum",
+                  "text": "Das Krankenhausmuseum in Bielefeld vermittelt Wissenswertes über die Geschichte der Medizin und Pflege. Die Ausstellungsstücke zeigen die technische und soziale Entwicklung des Krankenhauswesens über verschiedene Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        8.546088,
+                        52.014128
+                  ]
+            },
+            {
+                  "name": "Museum Wäschefabrik",
+                  "text": "Das Museum Wäschefabrik befindet sich in einer original erhaltenen Fabrikanlage und zeigt die Industriegeschichte der Textilherstellung. Besucher können hier historische Maschinen und Arbeitsbedingungen aus der Zeit der Industrialisierung besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        8.542258,
+                        52.020831
+                  ]
+            },
+            {
+                  "name": "St. Joseph Kirche",
+                  "text": "Die St. Joseph Kirche ist ein markantes katholisches Gotteshaus im Stadtgebiet von Bielefeld. Das Gebäude prägt mit seiner Architektur das Stadtbild und dient als Ort für Besinnung und Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        8.540557,
+                        52.031934
+                  ]
+            },
+            {
+                  "name": "Lutherkirche Sieker",
+                  "text": "Die Lutherkirche im Stadtteil Sieker ist ein zentraler Ort für die evangelische Gemeinde in Bielefeld. Besucher finden hier einen Raum für Ruhe sowie regelmäßige kirchliche Veranstaltungen und Konzerte.",
+                  "category": "religious",
+                  "coords": [
+                        8.562388,
+                        52.010801
+                  ]
+            },
+            {
+                  "name": "St.Meinolf-Kirche",
+                  "text": "Die St.Meinolf-Kirche ist eine bedeutende religiöse Stätte für die gläubigen Bewohner des jeweiligen Bielefelder Viertels. Die Kirche lädt mit ihrer schlichten Gestaltung zum Gebet und zur Teilnahme an kirchlichen Zeremonien ein.",
+                  "category": "religious",
+                  "coords": [
+                        8.570992,
+                        52.029304
+                  ]
+            },
+            {
+                  "name": "Christkönigkirche",
+                  "text": "Die Christkönigkirche dient als Ort der Andacht und des Gemeindelebens in der Stadt Bielefeld. Das sakrale Gebäude ist für seine Architektur bekannt und bietet Besuchern eine Atmosphäre der Stille.",
+                  "category": "religious",
+                  "coords": [
+                        8.520181,
+                        52.04514
+                  ]
+            },
+            {
+                  "name": "Kreuzkirche",
+                  "text": "Die Kreuzkirche ist ein markantes Kirchengebäude in Bielefeld, das für Gottesdienste und kulturelle Veranstaltungen genutzt wird. Der Innenraum bietet eine würdige Kulisse für religiöse Feiern und Momente des Innehaltens.",
+                  "category": "religious",
+                  "coords": [
+                        8.542761,
+                        52.040356
+                  ]
+            },
+            {
+                  "name": "Trinitatiskirche",
+                  "text": "Die Trinitatiskirche ist eine wichtige religiöse Einrichtung für die evangelische Bevölkerung in Bielefeld. Das Bauwerk fügt sich harmonisch in die Umgebung ein und ist ein Treffpunkt für die lokale Kirchengemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        8.546529,
+                        52.011145
+                  ]
+            },
+            {
+                  "name": "Apostelkirche",
+                  "text": "Die Apostelkirche in Bielefeld ist ein zentraler Ort des christlichen Glaubens und der Gemeinschaft. Das Kirchengebäude zeichnet sich durch seine sakrale Architektur aus und lädt zur Besichtigung ein.",
+                  "category": "religious",
+                  "coords": [
+                        8.571442,
+                        52.024409
+                  ]
+            },
+            {
+                  "name": "Apostel-Paulus-Kirche",
+                  "text": "Die Apostel-Paulus-Kirche ist ein sakrales Bauwerk, das der Bielefelder Gemeinde als Ort für Gebet und Versammlung dient. Besucher können hier die religiöse Tradition und die architektonischen Details des Hauses entdecken.",
+                  "category": "religious",
+                  "coords": [
+                        8.552004,
+                        52.020197
+                  ]
             }
       ],
       "hu": [
@@ -43672,6 +43888,222 @@ export const pois: POI[] = [
                   "coords": [
                         8.545207,
                         52.023723
+                  ]
+            },
+            {
+                  "name": "Deutsches Fächermuseum",
+                  "text": "A bielefeldi Német Legyezőmúzeum különféle korszakokból származó kézi legyezők egyedülálló gyűjteményét mutatja be. Ez az egyetlen ilyen jellegű szakmúzeum Németországban, amely a legyezőkészítés művészetét ismerteti.",
+                  "category": "museum",
+                  "coords": [
+                        8.530472,
+                        52.018735
+                  ]
+            },
+            {
+                  "name": "NaMu - Naturkunde-Museum",
+                  "text": "A NaMu – bielefeldi Természettudományi Múzeum a regionális természetrajz és geológia változatos tárgyait mutatja be. Interaktív kiállításokat kínál, amelyek különösen a gyermekek és családok számára tanulságosak.",
+                  "category": "museum",
+                  "coords": [
+                        8.528305,
+                        52.017074
+                  ]
+            },
+            {
+                  "name": "Grünes Haus",
+                  "text": "A Grünes Haus a bielefeldi Természettudományi Múzeum jellegzetes része. Speciális kiállítási területeknek ad otthont, és múzeumpedagógiai foglalkozások helyszíneként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        8.528546,
+                        52.013785
+                  ]
+            },
+            {
+                  "name": "Weiße Villa",
+                  "text": "A bielefeldi Weiße Villa egy elegáns történelmi épület, amelyet kulturális célokra használnak. A város előkelő építészetének példája, és parkosított környezetben fekszik.",
+                  "category": "historical",
+                  "coords": [
+                        8.546254,
+                        52.022782
+                  ]
+            },
+            {
+                  "name": "Rudolf-Oetker-Halle",
+                  "text": "A Rudolf-Oetker-Halle egy neves koncertterem Bielefeldben, amely kiváló akusztikájáról ismert. Ez a város legfontosabb helyszíne a komolyzenei koncertek és nagy kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        8.513186,
+                        52.028267
+                  ]
+            },
+            {
+                  "name": "Zionskirche",
+                  "text": "A Zionskirche a bielefeldi Bethel Zions-közösség szellemi központja. Az épület építészete letisztult, és helyet biztosít az istentiszteleteknek és a közösségi életnek.",
+                  "category": "religious",
+                  "coords": [
+                        8.525632,
+                        52.011665
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "A János-templom egy evangélikus templom Bielefeld városközpontjában. Gótikus építészetéről, valamint találkozóhelyként és imaházként betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.525213,
+                        52.031189
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "A Pál-templom Bielefeld jellegzetes szakrális építménye magas templomtoronnyal. Az evangélikus gyülekezet istentiszteleteinek és egyházzenei eseményeinek helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        8.540367,
+                        52.027122
+                  ]
+            },
+            {
+                  "name": "Jakobuskirche",
+                  "text": "A bielefeldi Jakab-templom egy hívogató hangulatú evangélikus plébániatemplom. Az épület szerves része az adott városrész vallási életének.",
+                  "category": "religious",
+                  "coords": [
+                        8.550921,
+                        52.013902
+                  ]
+            },
+            {
+                  "name": "Synagoge Beit Tikwa",
+                  "text": "A Beit Tikwa zsinagóga a bielefeldi zsidó közösség vallási központja. A modern épület imádság, tanítás és kulturális csere helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        8.543349,
+                        52.008824
+                  ]
+            },
+            {
+                  "name": "Petrikirche",
+                  "text": "A Petrikirche Bielefeld központjának egyik jelentős egyházi épülete. A látogatók itt megismerhetik a történelmi építészetet és a templombelső nyugodt légkörét.",
+                  "category": "religious",
+                  "coords": [
+                        8.564987,
+                        52.033359
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "A bielefeldi Botanikus Kert az őshonos és egzotikus növényfajok lenyűgöző választékát mutatja be. A létesítmény pihentető sétákra hívja a látogatókat a különböző tematikus kertekben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.510218,
+                        52.01467
+                  ]
+            },
+            {
+                  "name": "Johannisberg",
+                  "text": "A Johannisberg a Teutoburgi-erdő egyik kiemelkedő pontja Bielefeld városközpontjának közelében. Innen pazar kilátás nyílik a városra és az azt körülvevő erdős dombvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        8.516249,
+                        52.019616
+                  ]
+            },
+            {
+                  "name": "Historische Sammlung Bethel",
+                  "text": "A Bethel Történeti Gyűjtemény a bielefeldi v. Bodelschwingh Alapítványok hosszú múltját dokumentálja. A múzeum betekintést nyújt az intézmény szociális munkájának és orvosi ellátásának fejlődésébe.",
+                  "category": "museum",
+                  "coords": [
+                        8.524045,
+                        52.01286
+                  ]
+            },
+            {
+                  "name": "Krankenhausmuseum",
+                  "text": "A bielefeldi Kórházmúzeum az orvostudomány és az ápolás történetének érdekességeit mutatja be. A kiállítási tárgyak a kórházi rendszer technikai és társadalmi fejlődését szemléltetik különböző korszakokon át.",
+                  "category": "museum",
+                  "coords": [
+                        8.546088,
+                        52.014128
+                  ]
+            },
+            {
+                  "name": "Museum Wäschefabrik",
+                  "text": "A Museum Wäschefabrik egy eredeti állapotában megőrzött gyárépületben található, és a textilgyártás ipartörténetét mutatja be. A látogatók történelmi gépeket és az iparosodás korának munkakörülményeit ismerhetik meg itt.",
+                  "category": "museum",
+                  "coords": [
+                        8.542258,
+                        52.020831
+                  ]
+            },
+            {
+                  "name": "St. Joseph Kirche",
+                  "text": "A Szent József-templom Bielefeld városának egyik meghatározó katolikus kegyhelye. Az épület építészete formálja a városképet, és az elmélyülés, valamint a szentmisék helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        8.540557,
+                        52.031934
+                  ]
+            },
+            {
+                  "name": "Lutherkirche Sieker",
+                  "text": "A Sieker negyedben található Luther-templom a bielefeldi evangélikus közösség központi helyszíne. A látogatók itt nyugalmat találhatnak, valamint rendszeres egyházi eseményeken és koncerteken vehetnek részt.",
+                  "category": "religious",
+                  "coords": [
+                        8.562388,
+                        52.010801
+                  ]
+            },
+            {
+                  "name": "St.Meinolf-Kirche",
+                  "text": "A Szent Meinolf-templom Bielefeld érintett városrészének hívői számára fontos vallási helyszín. A templom egyszerű kialakításával imádságra és az egyházi szertartásokon való részvételre hívja a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        8.570992,
+                        52.029304
+                  ]
+            },
+            {
+                  "name": "Christkönigkirche",
+                  "text": "A Krisztus Király-templom az áhítat és a közösségi élet helyszíneként szolgál Bielefeld városában. A szakrális épület építészetéről ismert, és a csend atmoszféráját kínálja a látogatóknak.",
+                  "category": "religious",
+                  "coords": [
+                        8.520181,
+                        52.04514
+                  ]
+            },
+            {
+                  "name": "Kreuzkirche",
+                  "text": "A Kreuzkirche Bielefeld egyik jellegzetes templomépülete, amelyet istentiszteletek és kulturális események céljára használnak. Belső tere méltó helyszínt biztosít a vallási ünnepekhez és az elcsendesedés pillanataihoz.",
+                  "category": "religious",
+                  "coords": [
+                        8.542761,
+                        52.040356
+                  ]
+            },
+            {
+                  "name": "Trinitatiskirche",
+                  "text": "A Szentháromság-templom a bielefeldi evangélikus lakosság fontos vallási intézménye. Az épület harmonikusan illeszkedik környezetébe, és a helyi egyházközség találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        8.546529,
+                        52.011145
+                  ]
+            },
+            {
+                  "name": "Apostelkirche",
+                  "text": "A bielefeldi Apostol-templom a keresztény hit és közösség központi helyszíne. A templomépületet szakrális építészete jellemzi, és megtekintésre hívja az érdeklődőket.",
+                  "category": "religious",
+                  "coords": [
+                        8.571442,
+                        52.024409
+                  ]
+            },
+            {
+                  "name": "Apostel-Paulus-Kirche",
+                  "text": "Az Apostol Pál-templom egy szakrális épület, amely a bielefeldi közösség imádságának és gyülekezésének helyszíne. A látogatók itt felfedezhetik a vallási hagyományokat és a ház építészeti részleteit.",
+                  "category": "religious",
+                  "coords": [
+                        8.552004,
+                        52.020197
                   ]
             }
       ],
@@ -44016,6 +44448,222 @@ export const pois: POI[] = [
                         8.545207,
                         52.023723
                   ]
+            },
+            {
+                  "name": "Deutsches Fächermuseum",
+                  "text": "Muzeul German al Evantaielor din Bielefeld prezintă o colecție unică de evantaie de mână din diferite epoci. Este singurul muzeu specializat de acest gen din Germania și prezintă arta fabricării evantaielor.",
+                  "category": "museum",
+                  "coords": [
+                        8.530472,
+                        52.018735
+                  ]
+            },
+            {
+                  "name": "NaMu - Naturkunde-Museum",
+                  "text": "NaMu – Muzeul de Istorie Naturală din Bielefeld prezintă diverse exponate despre istoria naturală regională și geologie. Oferă expoziții interactive care sunt educative în special pentru copii și familii.",
+                  "category": "museum",
+                  "coords": [
+                        8.528305,
+                        52.017074
+                  ]
+            },
+            {
+                  "name": "Grünes Haus",
+                  "text": "Casa Verde este o parte distinctivă a Muzeului de Istorie Naturală din Bielefeld. Adăpostește zone de expoziție speciale și servește ca loc pentru activități pedagogice muzeale.",
+                  "category": "museum",
+                  "coords": [
+                        8.528546,
+                        52.013785
+                  ]
+            },
+            {
+                  "name": "Weiße Villa",
+                  "text": "Vila Albă din Bielefeld este o clădire istorică elegantă, utilizată în scopuri culturale. Este un exemplu de arhitectură rafinată a orașului și se află într-un cadru asemănător unui parc.",
+                  "category": "historical",
+                  "coords": [
+                        8.546254,
+                        52.022782
+                  ]
+            },
+            {
+                  "name": "Rudolf-Oetker-Halle",
+                  "text": "Rudolf-Oetker-Halle este o sală de concerte renumită din Bielefeld, cunoscută pentru acustica sa excelentă. Este cel mai important loc de desfășurare pentru muzica clasică și marile evenimente culturale din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        8.513186,
+                        52.028267
+                  ]
+            },
+            {
+                  "name": "Zionskirche",
+                  "text": "Biserica Sion este centrul spiritual al comunității Sion din Bethel, Bielefeld. Arhitectura clădirii este simplă și oferă spațiu pentru slujbe religioase și comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        8.525632,
+                        52.011665
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "Biserica Sfântul Ioan este o biserică evanghelică din centrul orașului Bielefeld. Este cunoscută pentru arhitectura sa gotică și semnificația sa ca loc de întâlnire și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        8.525213,
+                        52.031189
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Biserica Sfântul Paul este un edificiu sacru distinctiv din Bielefeld, cu un turn înalt. Servește comunității evanghelice ca loc pentru slujbe religioase și evenimente de muzică bisericească.",
+                  "category": "religious",
+                  "coords": [
+                        8.540367,
+                        52.027122
+                  ]
+            },
+            {
+                  "name": "Jakobuskirche",
+                  "text": "Biserica Sfântul Iacob din Bielefeld este o biserică parohială evanghelică cu o atmosferă primitoare. Clădirea este o parte integrantă a vieții religioase din cartierul respectiv.",
+                  "category": "religious",
+                  "coords": [
+                        8.550921,
+                        52.013902
+                  ]
+            },
+            {
+                  "name": "Synagoge Beit Tikwa",
+                  "text": "Sinagoga Beit Tikwa este centrul religios al comunității evreiești din Bielefeld. Clădirea modernă servește ca loc de rugăciune, învățătură și schimb cultural.",
+                  "category": "religious",
+                  "coords": [
+                        8.543349,
+                        52.008824
+                  ]
+            },
+            {
+                  "name": "Petrikirche",
+                  "text": "Petrikirche este o clădire religioasă semnificativă situată în centrul orașului Bielefeld. Vizitatorii pot experimenta arhitectura istorică și atmosfera liniștită a interiorului bisericii.",
+                  "category": "religious",
+                  "coords": [
+                        8.564987,
+                        52.033359
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Grădina Botanică din Bielefeld prezintă o varietate impresionantă de specii de plante native și exotice. Locația invită vizitatorii la plimbări relaxante prin diverse zone tematice și peisaje de grădină.",
+                  "category": "landmark",
+                  "coords": [
+                        8.510218,
+                        52.01467
+                  ]
+            },
+            {
+                  "name": "Johannisberg",
+                  "text": "Johannisberg este o colină proeminentă din Pădurea Teutoburg, situată aproape de centrul orașului Bielefeld. De aici, vizitatorii se pot bucura de o vedere panoramică asupra orașului și a peisajului deluros împădurit.",
+                  "category": "natural",
+                  "coords": [
+                        8.516249,
+                        52.019616
+                  ]
+            },
+            {
+                  "name": "Historische Sammlung Bethel",
+                  "text": "Colecția Istorică Bethel documentează istoria îndelungată a Fundațiilor v. Bodelschwingh din Bielefeld. Muzeul oferă perspective asupra dezvoltării asistenței sociale și medicale în cadrul instituției.",
+                  "category": "museum",
+                  "coords": [
+                        8.524045,
+                        52.01286
+                  ]
+            },
+            {
+                  "name": "Krankenhausmuseum",
+                  "text": "Muzeul Spitalului din Bielefeld oferă informații interesante despre istoria medicinei și a îngrijirii pacienților. Piesele expuse ilustrează dezvoltarea tehnică și socială a sistemului spitalicesc de-a lungul diferitelor epoci.",
+                  "category": "museum",
+                  "coords": [
+                        8.546088,
+                        52.014128
+                  ]
+            },
+            {
+                  "name": "Museum Wäschefabrik",
+                  "text": "Muzeul Wäschefabrik este situat într-o fabrică păstrată în stare originală și prezintă istoria industrială a producției de textile. Vizitatorii pot vedea utilaje istorice și condițiile de lucru din epoca industrializării.",
+                  "category": "museum",
+                  "coords": [
+                        8.542258,
+                        52.020831
+                  ]
+            },
+            {
+                  "name": "St. Joseph Kirche",
+                  "text": "Biserica Sfântul Iosif este un lăcaș de cult catolic proeminent din orașul Bielefeld. Arhitectura clădirii marchează peisajul urban și servește ca loc de reculegere și slujbe religioase.",
+                  "category": "religious",
+                  "coords": [
+                        8.540557,
+                        52.031934
+                  ]
+            },
+            {
+                  "name": "Lutherkirche Sieker",
+                  "text": "Biserica Luther din cartierul Sieker este un punct central pentru comunitatea protestantă din Bielefeld. Vizitatorii găsesc aici un spațiu de liniște, precum și evenimente bisericești și concerte periodice.",
+                  "category": "religious",
+                  "coords": [
+                        8.562388,
+                        52.010801
+                  ]
+            },
+            {
+                  "name": "St.Meinolf-Kirche",
+                  "text": "Biserica Sfântul Meinolf este un sit religios important pentru locuitorii credincioși din cartierul respectiv din Bielefeld. Biserica invită vizitatorii prin designul său simplu la rugăciune și participare la ceremonii.",
+                  "category": "religious",
+                  "coords": [
+                        8.570992,
+                        52.029304
+                  ]
+            },
+            {
+                  "name": "Christkönigkirche",
+                  "text": "Biserica Cristos Rege servește ca loc de devoțiune și viață comunitară în orașul Bielefeld. Clădirea sacră este cunoscută pentru arhitectura sa și oferă vizitatorilor o atmosferă de liniște.",
+                  "category": "religious",
+                  "coords": [
+                        8.520181,
+                        52.04514
+                  ]
+            },
+            {
+                  "name": "Kreuzkirche",
+                  "text": "Biserica Crucii este o clădire bisericească proeminentă din Bielefeld, utilizată pentru slujbe și evenimente culturale. Interiorul oferă un cadru demn pentru celebrări religioase și momente de reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        8.542761,
+                        52.040356
+                  ]
+            },
+            {
+                  "name": "Trinitatiskirche",
+                  "text": "Biserica Trinității este o instituție religioasă importantă pentru populația protestantă din Bielefeld. Construcția se integrează armonios în mediul înconjurător și este un punct de întâlnire pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        8.546529,
+                        52.011145
+                  ]
+            },
+            {
+                  "name": "Apostelkirche",
+                  "text": "Biserica Apostolilor din Bielefeld este un loc central al credinței și comunității creștine. Clădirea bisericii se remarcă prin arhitectura sa sacră și invită vizitatorii să o exploreze.",
+                  "category": "religious",
+                  "coords": [
+                        8.571442,
+                        52.024409
+                  ]
+            },
+            {
+                  "name": "Apostel-Paulus-Kirche",
+                  "text": "Biserica Apostolul Pavel este o clădire sacră care servește comunității din Bielefeld ca loc de rugăciune și adunare. Vizitatorii pot descoperi aici tradiția religioasă și detaliile arhitecturale ale locașului.",
+                  "category": "religious",
+                  "coords": [
+                        8.552004,
+                        52.020197
+                  ]
             }
       ],
       "en": [
@@ -44358,6 +45006,222 @@ export const pois: POI[] = [
                   "coords": [
                         8.545207,
                         52.023723
+                  ]
+            },
+            {
+                  "name": "Deutsches Fächermuseum",
+                  "text": "The German Fan Museum in Bielefeld presents a unique collection of hand fans from different eras. It is the only specialized museum of its kind in Germany and showcases the art of fan making.",
+                  "category": "museum",
+                  "coords": [
+                        8.530472,
+                        52.018735
+                  ]
+            },
+            {
+                  "name": "NaMu - Naturkunde-Museum",
+                  "text": "The NaMu - Natural History Museum Bielefeld shows diverse exhibits on regional natural history and geology. It offers interactive exhibitions that are particularly educational for children and families.",
+                  "category": "museum",
+                  "coords": [
+                        8.528305,
+                        52.017074
+                  ]
+            },
+            {
+                  "name": "Grünes Haus",
+                  "text": "The Green House is a striking part of the Natural History Museum in Bielefeld. It houses special exhibition areas and serves as a venue for museum educational programs.",
+                  "category": "museum",
+                  "coords": [
+                        8.528546,
+                        52.013785
+                  ]
+            },
+            {
+                  "name": "Weiße Villa",
+                  "text": "The White Villa in Bielefeld is an elegant historic building used for cultural purposes. It is an example of the city's upscale architecture and is located in a park-like setting.",
+                  "category": "historical",
+                  "coords": [
+                        8.546254,
+                        52.022782
+                  ]
+            },
+            {
+                  "name": "Rudolf-Oetker-Halle",
+                  "text": "The Rudolf-Oetker-Halle is a renowned concert hall in Bielefeld, known for its excellent acoustics. It is the most important venue for classical music and major cultural events in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        8.513186,
+                        52.028267
+                  ]
+            },
+            {
+                  "name": "Zionskirche",
+                  "text": "The Zion Church is the spiritual center of the Zion congregation Bethel in Bielefeld. The architecture of the building is kept simple and provides space for religious services and community.",
+                  "category": "religious",
+                  "coords": [
+                        8.525632,
+                        52.011665
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "The St. John's Church is a Protestant church in Bielefeld city center. It is known for its Gothic architecture and its significance as a place of meeting and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        8.525213,
+                        52.031189
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "The St. Paul's Church is a prominent sacred building in Bielefeld with a high church tower. It serves the Protestant congregation as a place for religious services and church music events.",
+                  "category": "religious",
+                  "coords": [
+                        8.540367,
+                        52.027122
+                  ]
+            },
+            {
+                  "name": "Jakobuskirche",
+                  "text": "The St. James Church in Bielefeld is a Protestant parish church with a welcoming atmosphere. The building is an integral part of the religious life in the respective district.",
+                  "category": "religious",
+                  "coords": [
+                        8.550921,
+                        52.013902
+                  ]
+            },
+            {
+                  "name": "Synagoge Beit Tikwa",
+                  "text": "The Beit Tikwa Synagogue is the religious center of the Jewish community in Bielefeld. The modern building serves as a place of prayer, teaching, and cultural exchange.",
+                  "category": "religious",
+                  "coords": [
+                        8.543349,
+                        52.008824
+                  ]
+            },
+            {
+                  "name": "Petrikirche",
+                  "text": "Petrikirche is a significant religious building located in the center of Bielefeld. Visitors can experience the historic architecture and the peaceful atmosphere of the church interior.",
+                  "category": "religious",
+                  "coords": [
+                        8.564987,
+                        52.033359
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "The Botanical Garden in Bielefeld showcases an impressive variety of native and exotic plant species. The facility invites visitors to enjoy relaxing walks through various themed areas and garden landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        8.510218,
+                        52.01467
+                  ]
+            },
+            {
+                  "name": "Johannisberg",
+                  "text": "Johannisberg is a prominent elevation in the Teutoburger Forest near the city center of Bielefeld. From here, visitors can enjoy a wide view over the city and the surrounding forested hill landscape.",
+                  "category": "natural",
+                  "coords": [
+                        8.516249,
+                        52.019616
+                  ]
+            },
+            {
+                  "name": "Historische Sammlung Bethel",
+                  "text": "The Historical Collection Bethel documents the long history of the v. Bodelschwingh Foundations in Bielefeld. The museum offers insights into the development of social work and medical care at the institution.",
+                  "category": "museum",
+                  "coords": [
+                        8.524045,
+                        52.01286
+                  ]
+            },
+            {
+                  "name": "Krankenhausmuseum",
+                  "text": "The Hospital Museum in Bielefeld provides interesting facts about the history of medicine and nursing. The exhibits show the technical and social development of the hospital system over different eras.",
+                  "category": "museum",
+                  "coords": [
+                        8.546088,
+                        52.014128
+                  ]
+            },
+            {
+                  "name": "Museum Wäschefabrik",
+                  "text": "The Museum Wäschefabrik is located in an originally preserved factory complex and showcases the industrial history of textile production. Visitors can view historic machinery and working conditions from the era of industrialization.",
+                  "category": "museum",
+                  "coords": [
+                        8.542258,
+                        52.020831
+                  ]
+            },
+            {
+                  "name": "St. Joseph Kirche",
+                  "text": "St. Joseph Church is a prominent Catholic place of worship within the city area of Bielefeld. The building's architecture marks the cityscape and serves as a place for reflection and services.",
+                  "category": "religious",
+                  "coords": [
+                        8.540557,
+                        52.031934
+                  ]
+            },
+            {
+                  "name": "Lutherkirche Sieker",
+                  "text": "The Luther Church in the Sieker district is a central location for the Protestant community in Bielefeld. Visitors find a space for tranquility as well as regular church events and concerts.",
+                  "category": "religious",
+                  "coords": [
+                        8.562388,
+                        52.010801
+                  ]
+            },
+            {
+                  "name": "St.Meinolf-Kirche",
+                  "text": "St. Meinolf Church is a significant religious site for the faithful residents of the respective Bielefeld neighborhood. The church invites visitors with its simple design for prayer and participation in church ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        8.570992,
+                        52.029304
+                  ]
+            },
+            {
+                  "name": "Christkönigkirche",
+                  "text": "Christ the King Church serves as a place of devotion and community life in the city of Bielefeld. The sacred building is known for its architecture and offers visitors an atmosphere of silence.",
+                  "category": "religious",
+                  "coords": [
+                        8.520181,
+                        52.04514
+                  ]
+            },
+            {
+                  "name": "Kreuzkirche",
+                  "text": "The Cross Church is a prominent church building in Bielefeld used for services and cultural events. The interior provides a dignified setting for religious celebrations and moments of reflection.",
+                  "category": "religious",
+                  "coords": [
+                        8.542761,
+                        52.040356
+                  ]
+            },
+            {
+                  "name": "Trinitatiskirche",
+                  "text": "The Trinity Church is an important religious institution for the Protestant population in Bielefeld. The structure blends harmoniously into its surroundings and is a meeting point for the local church community.",
+                  "category": "religious",
+                  "coords": [
+                        8.546529,
+                        52.011145
+                  ]
+            },
+            {
+                  "name": "Apostelkirche",
+                  "text": "The Apostle Church in Bielefeld is a central place of Christian faith and community. The church building is characterized by its sacred architecture and invites visitors for a viewing.",
+                  "category": "religious",
+                  "coords": [
+                        8.571442,
+                        52.024409
+                  ]
+            },
+            {
+                  "name": "Apostel-Paulus-Kirche",
+                  "text": "The Apostle Paul Church is a sacred building that serves the Bielefeld community as a place for prayer and assembly. Visitors can discover the religious tradition and the architectural details of the house here.",
+                  "category": "religious",
+                  "coords": [
+                        8.552004,
+                        52.020197
                   ]
             }
       ],

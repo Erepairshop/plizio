@@ -143,6 +143,24 @@ export const romaniaCitiesV2: POI[] = [
                         23.806504,
                         46.579523
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Turda",
+                  "text": "Ein Zoo in Turda, in dem Besucher verschiedene Tiere sehen können.",
+                  "category": "family",
+                  "coords": [
+                        23.810138,
+                        46.575307
+                  ]
+            },
+            {
+                  "name": "Ștrandul Durgău",
+                  "text": "Ein Wasserpark in Turda mit Einrichtungen zum Baden und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        23.788427,
+                        46.585876
+                  ]
             }
       ],
       "hu": [
@@ -240,6 +258,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.806504,
                         46.579523
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Turda",
+                  "text": "Állatkert Turdán, ahol a látogatók különféle állatokat láthatnak.",
+                  "category": "family",
+                  "coords": [
+                        23.810138,
+                        46.575307
+                  ]
+            },
+            {
+                  "name": "Dőrgő strand",
+                  "text": "Vízi élménypark Turdán fürdőzési és pihenési lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        23.788427,
+                        46.585876
                   ]
             }
       ],
@@ -339,6 +375,24 @@ export const romaniaCitiesV2: POI[] = [
                         23.806504,
                         46.579523
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică Turda",
+                  "text": "O grădină zoologică în Turda unde vizitatorii pot vedea diverse animale.",
+                  "category": "family",
+                  "coords": [
+                        23.810138,
+                        46.575307
+                  ]
+            },
+            {
+                  "name": "Ștrandul Durgău",
+                  "text": "Un parc acvatic în Turda cu facilități pentru scăldat și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        23.788427,
+                        46.585876
+                  ]
             }
       ],
       "en": [
@@ -436,6 +490,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.806504,
                         46.579523
+                  ]
+            },
+            {
+                  "name": "Turda Zoo",
+                  "text": "A zoo in Turda where visitors can see various animals.",
+                  "category": "family",
+                  "coords": [
+                        23.810138,
+                        46.575307
+                  ]
+            },
+            {
+                  "name": "Ștrandul Durgău",
+                  "text": "A water park in Turda with facilities for bathing and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        23.788427,
+                        46.585876
                   ]
             }
       ]
@@ -591,6 +663,15 @@ export const romaniaCitiesV2: POI[] = [
                         21.890754,
                         45.286102
                   ]
+            },
+            {
+                  "name": "Titanic",
+                  "text": "Das Schwimmbad Titanic in Resita bietet Bademöglichkeiten für die lokale Bevölkerung.",
+                  "category": "family",
+                  "coords": [
+                        21.869503,
+                        45.298795
+                  ]
             }
       ],
       "hu": [
@@ -697,6 +778,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         21.890754,
                         45.286102
+                  ]
+            },
+            {
+                  "name": "Titanic",
+                  "text": "A resicabányai Titanic úszómedence fürdőzési lehetőséget biztosít a helyi lakosság számára.",
+                  "category": "family",
+                  "coords": [
+                        21.869503,
+                        45.298795
                   ]
             }
       ],
@@ -805,6 +895,15 @@ export const romaniaCitiesV2: POI[] = [
                         21.890754,
                         45.286102
                   ]
+            },
+            {
+                  "name": "Titanic",
+                  "text": "Piscina Titanic din Reșița oferă facilități de scăldat pentru populația locală.",
+                  "category": "family",
+                  "coords": [
+                        21.869503,
+                        45.298795
+                  ]
             }
       ],
       "en": [
@@ -911,6 +1010,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         21.890754,
                         45.286102
+                  ]
+            },
+            {
+                  "name": "Titanic",
+                  "text": "The Titanic swimming pool in Resita offers bathing facilities for the local population.",
+                  "category": "family",
+                  "coords": [
+                        21.869503,
+                        45.298795
                   ]
             }
       ]
@@ -1406,6 +1514,42 @@ export const romaniaCitiesV2: POI[] = [
                         22.900125,
                         45.88523
                   ]
+            },
+            {
+                  "name": "Complex Aqua Land",
+                  "text": "Der Aqua Land Komplex in Deva ist ein Freizeitzentrum mit mehreren Schwimmbecken.",
+                  "category": "family",
+                  "coords": [
+                        22.902749,
+                        45.89055
+                  ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "Das städtische Freibad in Deva bietet Wasserattraktionen für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        22.917015,
+                        45.872999
+                  ]
+            },
+            {
+                  "name": "Zona de Agrement Căprioara",
+                  "text": "Der Themenpark Căprioara in Deva bietet verschiedene Freizeitaktivitäten im Freien.",
+                  "category": "family",
+                  "coords": [
+                        22.866296,
+                        45.886289
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Bejan",
+                  "text": "Der Zoologische Garten Bejan in Deva beherbergt eine Auswahl an Tierarten.",
+                  "category": "family",
+                  "coords": [
+                        22.903452,
+                        45.855875
+                  ]
             }
       ],
       "hu": [
@@ -1487,6 +1631,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         22.900125,
                         45.88523
+                  ]
+            },
+            {
+                  "name": "Complex Aqua Land",
+                  "text": "A dévai Aqua Land komplexum több úszómedencével rendelkező szabadidőközpont.",
+                  "category": "family",
+                  "coords": [
+                        22.902749,
+                        45.89055
+                  ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "A dévai városi strand vízi attrakciókat kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        22.917015,
+                        45.872999
+                  ]
+            },
+            {
+                  "name": "Zona de Agrement Căprioara",
+                  "text": "A dévai Căprioara tematikus park különféle szabadtéri szabadidős tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        22.866296,
+                        45.886289
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Bejan",
+                  "text": "A dévai Bejan Állatkert számos állatfajnak ad otthont.",
+                  "category": "family",
+                  "coords": [
+                        22.903452,
+                        45.855875
                   ]
             }
       ],
@@ -1570,6 +1750,42 @@ export const romaniaCitiesV2: POI[] = [
                         22.900125,
                         45.88523
                   ]
+            },
+            {
+                  "name": "Complex Aqua Land",
+                  "text": "Complexul Aqua Land din Deva este un centru de agrement cu mai multe bazine de înot.",
+                  "category": "family",
+                  "coords": [
+                        22.902749,
+                        45.89055
+                  ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "Ștrandul municipal din Deva oferă atracții acvatice pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        22.917015,
+                        45.872999
+                  ]
+            },
+            {
+                  "name": "Zona de Agrement Căprioara",
+                  "text": "Parcul tematic Căprioara din Deva oferă diverse activități de agrement în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        22.866296,
+                        45.886289
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Bejan",
+                  "text": "Grădina Zoologică Bejan din Deva găzduiește o selecție de specii de animale.",
+                  "category": "family",
+                  "coords": [
+                        22.903452,
+                        45.855875
+                  ]
             }
       ],
       "en": [
@@ -1651,6 +1867,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         22.900125,
                         45.88523
+                  ]
+            },
+            {
+                  "name": "Complex Aqua Land",
+                  "text": "The Aqua Land complex in Deva is a leisure center with several swimming pools.",
+                  "category": "family",
+                  "coords": [
+                        22.902749,
+                        45.89055
+                  ]
+            },
+            {
+                  "name": "Ștrandul Municipal",
+                  "text": "The municipal swimming pool in Deva offers water attractions for all age groups.",
+                  "category": "family",
+                  "coords": [
+                        22.917015,
+                        45.872999
+                  ]
+            },
+            {
+                  "name": "Zona de Agrement Căprioara",
+                  "text": "The Căprioara theme park in Deva offers various outdoor leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        22.866296,
+                        45.886289
+                  ]
+            },
+            {
+                  "name": "Zoological Garden Bejan",
+                  "text": "The Bejan Zoological Garden in Deva houses a selection of animal species.",
+                  "category": "family",
+                  "coords": [
+                        22.903452,
+                        45.855875
                   ]
             }
       ]
@@ -2774,6 +3026,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.532314,
                         45.720337
                   ]
+            },
+            {
+                  "name": "Zeidener Waldbad",
+                  "text": "Ein Wasserpark in Codlea für ein sommerliches Badeerlebnis.",
+                  "category": "family",
+                  "coords": [
+                        25.419831,
+                        45.731007
+                  ]
             }
       ],
       "hu": [
@@ -2869,6 +3130,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.532314,
                         45.720337
+                  ]
+            },
+            {
+                  "name": "Ștrand Codlea",
+                  "text": "Vízi park Codlea városában a nyári fürdőzés élményéért.",
+                  "category": "family",
+                  "coords": [
+                        25.419831,
+                        45.731007
                   ]
             }
       ],
@@ -2966,6 +3236,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.532314,
                         45.720337
                   ]
+            },
+            {
+                  "name": "Ștrand Codlea",
+                  "text": "Un parc acvatic în Codlea pentru o experiență de scăldat estivală.",
+                  "category": "family",
+                  "coords": [
+                        25.419831,
+                        45.731007
+                  ]
             }
       ],
       "en": [
@@ -3062,6 +3341,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.532314,
                         45.720337
                   ]
+            },
+            {
+                  "name": "Ștrand Codlea",
+                  "text": "A water park in Codlea for a summer bathing experience.",
+                  "category": "family",
+                  "coords": [
+                        25.419831,
+                        45.731007
+                  ]
             }
       ]
 }
@@ -3148,6 +3436,15 @@ export const romaniaCitiesV2: POI[] = [
                         23.205003,
                         45.368921
                   ]
+            },
+            {
+                  "name": "Strandul Comexim R Lupeni",
+                  "text": "Das Schwimmbad Comexim R in Lupeni ist ein Ort für sommerlichen Badespaß.",
+                  "category": "family",
+                  "coords": [
+                        23.212463,
+                        45.358841
+                  ]
             }
       ],
       "hu": [
@@ -3186,6 +3483,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.205003,
                         45.368921
+                  ]
+            },
+            {
+                  "name": "Strandul Comexim R Lupeni",
+                  "text": "A lupényi Comexim R strand a nyári fürdőzés helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        23.212463,
+                        45.358841
                   ]
             }
       ],
@@ -3226,6 +3532,15 @@ export const romaniaCitiesV2: POI[] = [
                         23.205003,
                         45.368921
                   ]
+            },
+            {
+                  "name": "Strandul Comexim R Lupeni",
+                  "text": "Ștrandul Comexim R din Lupeni este un loc pentru distracție estivală la scăldat.",
+                  "category": "family",
+                  "coords": [
+                        23.212463,
+                        45.358841
+                  ]
             }
       ],
       "en": [
@@ -3264,6 +3579,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.205003,
                         45.368921
+                  ]
+            },
+            {
+                  "name": "Strandul Comexim R Lupeni",
+                  "text": "The Comexim R swimming pool in Lupeni is a place for summer bathing fun.",
+                  "category": "family",
+                  "coords": [
+                        23.212463,
+                        45.358841
                   ]
             }
       ]
@@ -3379,6 +3703,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.346567,
                         46.92432
                   ]
+            },
+            {
+                  "name": "Ștrandul Banffy",
+                  "text": "Freibad in Toplița, bekannt für seine entspannende Atmosphäre und Wasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        25.347511,
+                        46.915014
+                  ]
             }
       ],
       "hu": [
@@ -3445,6 +3778,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.346567,
                         46.92432
+                  ]
+            },
+            {
+                  "name": "Ștrandul Banffy",
+                  "text": "Szabadtéri medence Maroshévízen, amely pihentető légköréről és vízi tevékenységeiről ismert.",
+                  "category": "family",
+                  "coords": [
+                        25.347511,
+                        46.915014
                   ]
             }
       ],
@@ -3513,6 +3855,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.346567,
                         46.92432
                   ]
+            },
+            {
+                  "name": "Ștrandul Banffy",
+                  "text": "Ștrand în aer liber în Toplița, cunoscut pentru atmosfera relaxantă și activitățile acvatice.",
+                  "category": "family",
+                  "coords": [
+                        25.347511,
+                        46.915014
+                  ]
             }
       ],
       "en": [
@@ -3579,6 +3930,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.346567,
                         46.92432
+                  ]
+            },
+            {
+                  "name": "Ștrandul Banffy",
+                  "text": "Outdoor swimming pool in Toplița, known for its relaxing atmosphere and water activities.",
+                  "category": "family",
+                  "coords": [
+                        25.347511,
+                        46.915014
                   ]
             }
       ]
@@ -3846,6 +4206,24 @@ export const romaniaCitiesV2: POI[] = [
                         24.151578,
                         45.713519
                   ]
+            },
+            {
+                  "name": "Aria Magura - Spa & Bazin de Inot - Cisnadie",
+                  "text": "Aria Magura in Cisnadie bietet ein Spa und ein Schwimmbecken für Besucher.",
+                  "category": "family",
+                  "coords": [
+                        24.135544,
+                        45.707918
+                  ]
+            },
+            {
+                  "name": "Sunshine",
+                  "text": "Das Schwimmbad Sunshine in Cisnadie ist ein Ziel für Freizeit und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        24.122015,
+                        45.708018
+                  ]
             }
       ],
       "hu": [
@@ -3857,6 +4235,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.151578,
                         45.713519
+                  ]
+            },
+            {
+                  "name": "Aria Magura - Spa & Bazin de Inot - Cisnadie",
+                  "text": "A nagydisznódi Aria Magura wellness-szolgáltatásokat és úszómedencét kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        24.135544,
+                        45.707918
+                  ]
+            },
+            {
+                  "name": "Sunshine",
+                  "text": "A nagydisznódi Sunshine úszómedence a szabadidő és a pihenés célpontja.",
+                  "category": "family",
+                  "coords": [
+                        24.122015,
+                        45.708018
                   ]
             }
       ],
@@ -3870,6 +4266,24 @@ export const romaniaCitiesV2: POI[] = [
                         24.151578,
                         45.713519
                   ]
+            },
+            {
+                  "name": "Aria Magura - Spa & Bazin de Inot - Cisnadie",
+                  "text": "Aria Magura din Cisnădie oferă un centru spa și un bazin de înot pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        24.135544,
+                        45.707918
+                  ]
+            },
+            {
+                  "name": "Sunshine",
+                  "text": "Piscina Sunshine din Cisnădie este o destinație pentru timp liber și recreere.",
+                  "category": "family",
+                  "coords": [
+                        24.122015,
+                        45.708018
+                  ]
             }
       ],
       "en": [
@@ -3881,6 +4295,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.151578,
                         45.713519
+                  ]
+            },
+            {
+                  "name": "Aria Magura - Spa & Bazin de Inot - Cisnadie",
+                  "text": "Aria Magura in Cisnadie offers a spa and a swimming pool for visitors.",
+                  "category": "family",
+                  "coords": [
+                        24.135544,
+                        45.707918
+                  ]
+            },
+            {
+                  "name": "Sunshine",
+                  "text": "The Sunshine swimming pool in Cisnadie is a destination for leisure and recreation.",
+                  "category": "family",
+                  "coords": [
+                        24.122015,
+                        45.708018
                   ]
             }
       ]
@@ -4133,7 +4565,640 @@ export const romaniaCitiesV2: POI[] = [
       fr: ["Nombre d'habitants : env. 7 000 (2011)", "Superficie du lac : 10 km²", "Température de l'eau en été : 30°C", "Traitements thermaux depuis : 1900", "Nombre d'hôtels : 15", "Profondeur de la boue : jusqu'à 2 m"],
     },
     image: "/poi-images/romania-techirghiol-cities-v2.webp",
-    "sights": {"de": [{"name": "Techirghiol-See", "text": "Der Techirghiol-See ist berühmt für sein Salzwasser und den Heilschlamm zur Behandlung von rheumatischen Beschwerden.", "category": "natural", "confidence": "high", "coords": [28.633333, 44.041667]}, {"name": "Sanatorium Techirghiol", "text": "Ein renommiertes medizinisches Zentrum, das die heilenden Eigenschaften des Sapropel-Schlamms für therapeutische Zwecke nutzt.", "category": "recreational", "confidence": "high", "coords": [28.599055, 44.052072]}, {"name": "Uferpromenade Techirghiol", "text": "Ein malerischer Gehweg entlang des Sees, ideal für Entspannung und zur Bewunderung der Flora und Fauna der Dobrudscha.", "category": "civic", "confidence": "high", "coords": [28.636195, 44.037376]}, {"name": "Băile Reci", "text": "Der Strand Băile Reci befindet sich in Techirghiol.", "category": "recreational", "coords": [28.607926, 44.050383]}, {"name": "Teatrul de Vară Jean Constantin", "text": "Ein Sommertheater in Techirghiol, benannt nach dem Schauspieler Jean Constantin.", "category": "cultural", "coords": [28.603112, 44.055144]}, {"name": "Plaja Șincai", "text": "Am beruhigenden Ufer des Techirghiol-Sees bietet die Plaja Șincai einen wunderbaren Rückzugsort für Erholungsuchende. Die wohltuenden Gewässer und die entspannte Umgebung laden zu ausgedehnten Sonnenbädern und ruhigen Momenten am Wasser ein. Ein unaufgeregtes Flair dominiert diesen speziellen Seebereich. Es empfiehlt sich, ein weiches Strandtuch für den ultimativen Komfort mitzubringen.", "category": "recreational", "coords": [28.621084, 44.057625]}, {"name": "Casa de Cultură", "text": "Ein lokales Kulturzentrum für Kunst und Bildung in Techirghiol.", "category": "cultural", "coords": [28.601491, 44.051351]}, {"name": "Statuia lui Techir", "text": "Ein Denkmal in Techirghiol, das die legendäre Figur Techir darstellt.", "category": "historical", "coords": [28.602275, 44.053081]}, {"name": "Cinema 9D VR & Games", "text": "Ein modernes Unterhaltungszentrum mit Virtual-Reality-Erlebnissen.", "category": "landmark", "coords": [28.636404, 44.063226]}, {"name": "Teatrul de Vară", "text": "Ein Veranstaltungsort für Aufführungen unter freiem Himmel in Techirghiol.", "category": "landmark", "coords": [28.635995, 44.067279]}, {"name": "Lacul Belona", "text": "Ein bekannter See in Techirghiol, der für seine Lage nahe der Küste geschätzt wird.", "category": "natural", "coords": [28.638222, 44.059771]}, {"name": "Lacul Agigea", "text": "Ein See bei Techirghiol, der Teil eines bedeutenden Naturschutzgebietes ist.", "category": "natural", "coords": [28.631828, 44.096413]}, {"name": "Acumularea Valea Gospodăriei", "text": "Ein Stausee bei Techirghiol, der zur Wasserregulierung und Erholung dient.", "category": "natural", "coords": [28.579318, 44.016141]}, {"name": "Acumularea Movilița", "text": "Dieser See bei Techirghiol bietet eine weite Aussicht über die flache Landschaft.", "category": "natural", "coords": [28.560572, 44.01168]}], "hu": [{"name": "Techirghiol-tó", "text": "A Techirghiol-tó híres sós vizéről és gyógyhatású iszapjáról, amelyet reumatikus és bőrgyógyászati betegségek kezelésére használnak.", "category": "natural", "confidence": "high", "coords": [28.633333, 44.041667]}, {"name": "Techirghiol Szanatórium", "text": "Híres gyógyászati központ, amely a tó szapropel iszapjának gyógyhatásait használja fel mozgásszervi betegségek kezelésére.", "category": "recreational", "confidence": "high", "coords": [28.599055, 44.052072]}, {"name": "Techirghiol-tó sétánya", "text": "Gondozott parti sétány a tó mentén, amely kellemes pihenést nyújt és remek rálátást biztosít a vízfelületre és a madárvilágra.", "category": "civic", "confidence": "high", "coords": [28.636195, 44.037376]}, {"name": "Băile Reci", "text": "A Băile Reci strand Techirghiolban található.", "category": "recreational", "coords": [28.607926, 44.050383]}, {"name": "Teatrul de Vară Jean Constantin", "text": "Techirghiol nyári színháza, Jean Constantin színészről elnevezve.", "category": "cultural", "coords": [28.603112, 44.055144]}, {"name": "Plaja Șincai", "text": "A Techirghiol-tó nyugtató partján a Plaja Șincai csodálatos menedéket kínál a kikapcsolódni vágyóknak. A jótékony vizek és a pihentető környezet hosszas napozásra és csendes vízparti pillanatokra invitálnak. Ezen a különleges tóparti szakaszon a könnyed hangulat uralkodik. A maximális kényelem érdekében érdemes egy puha strandtörölközőt magunkkal hozni.", "category": "recreational", "coords": [28.621084, 44.057625]}, {"name": "Casa de Cultură", "text": "Helyi művészeti és oktatási kulturális központ Techirghiolban.", "category": "cultural", "coords": [28.601491, 44.051351]}, {"name": "Statuia lui Techir", "text": "Techirghiol emlékműve, amely a legendás Techir alakját ábrázolja.", "category": "historical", "coords": [28.602275, 44.053081]}, {"name": "Cinema 9D VR & Games", "text": "Modern szórakoztató központ virtuális valóság élményekkel.", "category": "landmark", "coords": [28.636404, 44.063226]}, {"name": "Teatrul de Vară", "text": "Szabadtéri előadások helyszíne Techirghiolban.", "category": "landmark", "coords": [28.635995, 44.067279]}, {"name": "Lacul Belona", "text": "Ismert tó Techirghiol-ban, amelyet a tengerparthoz közeli fekvése miatt kedvelnek.", "category": "natural", "coords": [28.638222, 44.059771]}, {"name": "Lacul Agigea", "text": "Egy Techirghiol melletti tó, amely egy jelentős természetvédelmi terület része.", "category": "natural", "coords": [28.631828, 44.096413]}, {"name": "Acumularea Valea Gospodăriei", "text": "Egy Techirghiol melletti víztározó, amely vízszabályozásra és kikapcsolódásra szolgál.", "category": "natural", "coords": [28.579318, 44.016141]}, {"name": "Acumularea Movilița", "text": "Ez a Techirghiol melletti tó tágas kilátást nyújt a sík tájra.", "category": "natural", "coords": [28.560572, 44.01168]}], "ro": [{"name": "Lacul Techirghiol", "text": "Lacul Techirghiol este faimos pentru apa sărată și nămolul terapeutic folosit în tratarea afecțiunilor reumatice și dermatologice.", "category": "natural", "confidence": "high", "coords": [28.633333, 44.041667]}, {"name": "Sanatoriul Balnear Techirghiol", "text": "Instituție medicală de renume mondial care utilizează proprietățile terapeutice ale nămolului sapropelic și ale apei sărate.", "category": "recreational", "confidence": "high", "coords": [28.599055, 44.052072]}, {"name": "Faleza Lacului Techirghiol", "text": "Zonă de promenadă amenajată modern de-a lungul malului, oferind o priveliște superbă asupra lacului și a grădinilor publice.", "category": "civic", "confidence": "high", "coords": [28.636195, 44.037376]}, {"name": "Băile Reci", "text": "Plaja Băile Reci este situată în Techirghiol.", "category": "recreational", "coords": [28.607926, 44.050383]}, {"name": "Teatrul de Vară Jean Constantin", "text": "Teatrul de vară din Techirghiol, numit după actorul Jean Constantin.", "category": "cultural", "coords": [28.603112, 44.055144]}, {"name": "Plaja Sincai", "text": "Pe malul liniștitor al Lacului Techirghiol, Plaja Șincai oferă un refugiu minunat pentru cei ce caută odihnă. Apele benefice și mediul relaxant te invită la băi prelungite de soare și momente liniștite lângă apă. Un fler neagitat domină această zonă specială a lacului. Este recomandat să aduceți un prosop de plajă moale pentru un confort suprem.", "category": "recreational", "coords": [28.621084, 44.057625]}, {"name": "Casa de Cultură", "text": "Un centru cultural local pentru artă și educație în Techirghiol.", "category": "cultural", "coords": [28.601491, 44.051351]}, {"name": "Statuia lui Techir", "text": "Un monument în Techirghiol care reprezintă figura legendară a lui Techir.", "category": "historical", "coords": [28.602275, 44.053081]}, {"name": "Cinema 9D VR & Games", "text": "Un centru modern de divertisment cu experiențe de realitate virtuală.", "category": "landmark", "coords": [28.636404, 44.063226]}, {"name": "Teatrul de Vară", "text": "Un spațiu pentru spectacole în aer liber în Techirghiol.", "category": "landmark", "coords": [28.635995, 44.067279]}, {"name": "Lacul Belona", "text": "Un lac cunoscut în Techirghiol, apreciat pentru locația sa aproape de coastă.", "category": "natural", "coords": [28.638222, 44.059771]}, {"name": "Lacul Agigea", "text": "Un lac lângă Techirghiol, care face parte dintr-o rezervație naturală importantă.", "category": "natural", "coords": [28.631828, 44.096413]}, {"name": "Acumularea Valea Gospodăriei", "text": "Un lac de acumulare lângă Techirghiol, folosit pentru reglarea apei și recreere.", "category": "natural", "coords": [28.579318, 44.016141]}, {"name": "Acumularea Movilița", "text": "Acest lac de lângă Techirghiol oferă o vedere panoramică asupra peisajului de câmpie.", "category": "natural", "coords": [28.560572, 44.01168]}], "en": [{"name": "Lake Techirghiol", "text": "Lake Techirghiol is famous for its salt water and therapeutic mud used to treat rheumatic and dermatological conditions.", "category": "natural", "confidence": "high", "coords": [28.633333, 44.041667]}, {"name": "Techirghiol Balneal Sanatorium", "text": "A famous medical facility that uses the healing properties of the lake's sapropelic mud for various physical therapies.", "category": "recreational", "confidence": "high", "coords": [28.599055, 44.052072]}, {"name": "Techirghiol Lake Promenade", "text": "A scenic walkway along the lake shore, perfect for relaxing strolls and enjoying the natural breeze of the Dobruja region.", "category": "civic", "confidence": "high", "coords": [28.636195, 44.037376]}, {"name": "Băile Reci", "text": "Băile Reci beach is located in Techirghiol.", "category": "recreational", "coords": [28.607926, 44.050383]}, {"name": "Teatrul de Vară Jean Constantin", "text": "A summer theatre in Techirghiol named after the actor Jean Constantin.", "category": "cultural", "coords": [28.603112, 44.055144]}, {"name": "Plaja Șincai", "text": "On the soothing shores of Lake Techirghiol, Plaja Șincai offers a wonderful retreat for relaxation seekers. The beneficial waters and the relaxing environment invite extended sunbathing and quiet moments by the water. An unhurried flair dominates this specific lake area. It is recommended to bring a soft beach towel for ultimate comfort.", "category": "recreational", "coords": [28.621084, 44.057625]}, {"name": "Casa de Cultură", "text": "A local cultural centre for arts and education in Techirghiol.", "category": "cultural", "coords": [28.601491, 44.051351]}, {"name": "Statuia lui Techir", "text": "A monument in Techirghiol representing the legendary figure of Techir.", "category": "historical", "coords": [28.602275, 44.053081]}, {"name": "Cinema 9D VR & Games", "text": "A modern entertainment centre featuring virtual reality experiences.", "category": "landmark", "coords": [28.636404, 44.063226]}, {"name": "Teatrul de Vară", "text": "A venue for open-air performances in Techirghiol.", "category": "landmark", "coords": [28.635995, 44.067279]}, {"name": "Lacul Belona", "text": "A well-known lake in Techirghiol, appreciated for its location near the coast.", "category": "natural", "coords": [28.638222, 44.059771]}, {"name": "Lacul Agigea", "text": "A lake near Techirghiol that is part of a significant nature reserve.", "category": "natural", "coords": [28.631828, 44.096413]}, {"name": "Acumularea Valea Gospodăriei", "text": "A reservoir near Techirghiol used for water regulation and recreation.", "category": "natural", "coords": [28.579318, 44.016141]}, {"name": "Acumularea Movilița", "text": "This lake near Techirghiol offers an expansive view over the flat landscape.", "category": "natural", "coords": [28.560572, 44.01168]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Techirghiol-See",
+                  "text": "Der Techirghiol-See ist berühmt für sein Salzwasser und den Heilschlamm zur Behandlung von rheumatischen Beschwerden.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.633333,
+                        44.041667
+                  ]
+            },
+            {
+                  "name": "Sanatorium Techirghiol",
+                  "text": "Ein renommiertes medizinisches Zentrum, das die heilenden Eigenschaften des Sapropel-Schlamms für therapeutische Zwecke nutzt.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.599055,
+                        44.052072
+                  ]
+            },
+            {
+                  "name": "Uferpromenade Techirghiol",
+                  "text": "Ein malerischer Gehweg entlang des Sees, ideal für Entspannung und zur Bewunderung der Flora und Fauna der Dobrudscha.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.636195,
+                        44.037376
+                  ]
+            },
+            {
+                  "name": "Băile Reci",
+                  "text": "Der Strand Băile Reci befindet sich in Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.607926,
+                        44.050383
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Jean Constantin",
+                  "text": "Ein Sommertheater in Techirghiol, benannt nach dem Schauspieler Jean Constantin.",
+                  "category": "cultural",
+                  "coords": [
+                        28.603112,
+                        44.055144
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Am beruhigenden Ufer des Techirghiol-Sees bietet die Plaja Șincai einen wunderbaren Rückzugsort für Erholungsuchende. Die wohltuenden Gewässer und die entspannte Umgebung laden zu ausgedehnten Sonnenbädern und ruhigen Momenten am Wasser ein. Ein unaufgeregtes Flair dominiert diesen speziellen Seebereich. Es empfiehlt sich, ein weiches Strandtuch für den ultimativen Komfort mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Ein lokales Kulturzentrum für Kunst und Bildung in Techirghiol.",
+                  "category": "cultural",
+                  "coords": [
+                        28.601491,
+                        44.051351
+                  ]
+            },
+            {
+                  "name": "Statuia lui Techir",
+                  "text": "Ein Denkmal in Techirghiol, das die legendäre Figur Techir darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        28.602275,
+                        44.053081
+                  ]
+            },
+            {
+                  "name": "Cinema 9D VR & Games",
+                  "text": "Ein modernes Unterhaltungszentrum mit Virtual-Reality-Erlebnissen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.636404,
+                        44.063226
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Ein Veranstaltungsort für Aufführungen unter freiem Himmel in Techirghiol.",
+                  "category": "landmark",
+                  "coords": [
+                        28.635995,
+                        44.067279
+                  ]
+            },
+            {
+                  "name": "Lacul Belona",
+                  "text": "Ein bekannter See in Techirghiol, der für seine Lage nahe der Küste geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        28.638222,
+                        44.059771
+                  ]
+            },
+            {
+                  "name": "Lacul Agigea",
+                  "text": "Ein See bei Techirghiol, der Teil eines bedeutenden Naturschutzgebietes ist.",
+                  "category": "natural",
+                  "coords": [
+                        28.631828,
+                        44.096413
+                  ]
+            },
+            {
+                  "name": "Acumularea Valea Gospodăriei",
+                  "text": "Ein Stausee bei Techirghiol, der zur Wasserregulierung und Erholung dient.",
+                  "category": "natural",
+                  "coords": [
+                        28.579318,
+                        44.016141
+                  ]
+            },
+            {
+                  "name": "Acumularea Movilița",
+                  "text": "Dieser See bei Techirghiol bietet eine weite Aussicht über die flache Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        28.560572,
+                        44.01168
+                  ]
+            },
+            {
+                  "name": "Eforie Aqua Park",
+                  "text": "Ein Wasserpark in Techirghiol mit Attraktionen für Groß und Klein.",
+                  "category": "family",
+                  "coords": [
+                        28.638507,
+                        44.061888
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Ein Strandresort in Techirghiol für die Erholung am Seeufer.",
+                  "category": "family",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Ein Schwimmbad in Techirghiol zur Abkühlung und Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        28.638031,
+                        44.075261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Techirghiol-tó",
+                  "text": "A Techirghiol-tó híres sós vizéről és gyógyhatású iszapjáról, amelyet reumatikus és bőrgyógyászati betegségek kezelésére használnak.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.633333,
+                        44.041667
+                  ]
+            },
+            {
+                  "name": "Techirghiol Szanatórium",
+                  "text": "Híres gyógyászati központ, amely a tó szapropel iszapjának gyógyhatásait használja fel mozgásszervi betegségek kezelésére.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.599055,
+                        44.052072
+                  ]
+            },
+            {
+                  "name": "Techirghiol-tó sétánya",
+                  "text": "Gondozott parti sétány a tó mentén, amely kellemes pihenést nyújt és remek rálátást biztosít a vízfelületre és a madárvilágra.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.636195,
+                        44.037376
+                  ]
+            },
+            {
+                  "name": "Băile Reci",
+                  "text": "A Băile Reci strand Techirghiolban található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.607926,
+                        44.050383
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Jean Constantin",
+                  "text": "Techirghiol nyári színháza, Jean Constantin színészről elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        28.603112,
+                        44.055144
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "A Techirghiol-tó nyugtató partján a Plaja Șincai csodálatos menedéket kínál a kikapcsolódni vágyóknak. A jótékony vizek és a pihentető környezet hosszas napozásra és csendes vízparti pillanatokra invitálnak. Ezen a különleges tóparti szakaszon a könnyed hangulat uralkodik. A maximális kényelem érdekében érdemes egy puha strandtörölközőt magunkkal hozni.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Helyi művészeti és oktatási kulturális központ Techirghiolban.",
+                  "category": "cultural",
+                  "coords": [
+                        28.601491,
+                        44.051351
+                  ]
+            },
+            {
+                  "name": "Statuia lui Techir",
+                  "text": "Techirghiol emlékműve, amely a legendás Techir alakját ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        28.602275,
+                        44.053081
+                  ]
+            },
+            {
+                  "name": "Cinema 9D VR & Games",
+                  "text": "Modern szórakoztató központ virtuális valóság élményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        28.636404,
+                        44.063226
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Szabadtéri előadások helyszíne Techirghiolban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.635995,
+                        44.067279
+                  ]
+            },
+            {
+                  "name": "Lacul Belona",
+                  "text": "Ismert tó Techirghiol-ban, amelyet a tengerparthoz közeli fekvése miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        28.638222,
+                        44.059771
+                  ]
+            },
+            {
+                  "name": "Lacul Agigea",
+                  "text": "Egy Techirghiol melletti tó, amely egy jelentős természetvédelmi terület része.",
+                  "category": "natural",
+                  "coords": [
+                        28.631828,
+                        44.096413
+                  ]
+            },
+            {
+                  "name": "Acumularea Valea Gospodăriei",
+                  "text": "Egy Techirghiol melletti víztározó, amely vízszabályozásra és kikapcsolódásra szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        28.579318,
+                        44.016141
+                  ]
+            },
+            {
+                  "name": "Acumularea Movilița",
+                  "text": "Ez a Techirghiol melletti tó tágas kilátást nyújt a sík tájra.",
+                  "category": "natural",
+                  "coords": [
+                        28.560572,
+                        44.01168
+                  ]
+            },
+            {
+                  "name": "Eforie Aqua Park",
+                  "text": "Vízi park Techirghiol területén látványosságokkal kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        28.638507,
+                        44.061888
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Strandüdülő Techirghiol területén a tóparti kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "Úszómedence Techirghiol városában hűsöléshez és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        28.638031,
+                        44.075261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lacul Techirghiol",
+                  "text": "Lacul Techirghiol este faimos pentru apa sărată și nămolul terapeutic folosit în tratarea afecțiunilor reumatice și dermatologice.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.633333,
+                        44.041667
+                  ]
+            },
+            {
+                  "name": "Sanatoriul Balnear Techirghiol",
+                  "text": "Instituție medicală de renume mondial care utilizează proprietățile terapeutice ale nămolului sapropelic și ale apei sărate.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.599055,
+                        44.052072
+                  ]
+            },
+            {
+                  "name": "Faleza Lacului Techirghiol",
+                  "text": "Zonă de promenadă amenajată modern de-a lungul malului, oferind o priveliște superbă asupra lacului și a grădinilor publice.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.636195,
+                        44.037376
+                  ]
+            },
+            {
+                  "name": "Băile Reci",
+                  "text": "Plaja Băile Reci este situată în Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.607926,
+                        44.050383
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Jean Constantin",
+                  "text": "Teatrul de vară din Techirghiol, numit după actorul Jean Constantin.",
+                  "category": "cultural",
+                  "coords": [
+                        28.603112,
+                        44.055144
+                  ]
+            },
+            {
+                  "name": "Plaja Sincai",
+                  "text": "Pe malul liniștitor al Lacului Techirghiol, Plaja Șincai oferă un refugiu minunat pentru cei ce caută odihnă. Apele benefice și mediul relaxant te invită la băi prelungite de soare și momente liniștite lângă apă. Un fler neagitat domină această zonă specială a lacului. Este recomandat să aduceți un prosop de plajă moale pentru un confort suprem.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Un centru cultural local pentru artă și educație în Techirghiol.",
+                  "category": "cultural",
+                  "coords": [
+                        28.601491,
+                        44.051351
+                  ]
+            },
+            {
+                  "name": "Statuia lui Techir",
+                  "text": "Un monument în Techirghiol care reprezintă figura legendară a lui Techir.",
+                  "category": "historical",
+                  "coords": [
+                        28.602275,
+                        44.053081
+                  ]
+            },
+            {
+                  "name": "Cinema 9D VR & Games",
+                  "text": "Un centru modern de divertisment cu experiențe de realitate virtuală.",
+                  "category": "landmark",
+                  "coords": [
+                        28.636404,
+                        44.063226
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Un spațiu pentru spectacole în aer liber în Techirghiol.",
+                  "category": "landmark",
+                  "coords": [
+                        28.635995,
+                        44.067279
+                  ]
+            },
+            {
+                  "name": "Lacul Belona",
+                  "text": "Un lac cunoscut în Techirghiol, apreciat pentru locația sa aproape de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        28.638222,
+                        44.059771
+                  ]
+            },
+            {
+                  "name": "Lacul Agigea",
+                  "text": "Un lac lângă Techirghiol, care face parte dintr-o rezervație naturală importantă.",
+                  "category": "natural",
+                  "coords": [
+                        28.631828,
+                        44.096413
+                  ]
+            },
+            {
+                  "name": "Acumularea Valea Gospodăriei",
+                  "text": "Un lac de acumulare lângă Techirghiol, folosit pentru reglarea apei și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        28.579318,
+                        44.016141
+                  ]
+            },
+            {
+                  "name": "Acumularea Movilița",
+                  "text": "Acest lac de lângă Techirghiol oferă o vedere panoramică asupra peisajului de câmpie.",
+                  "category": "natural",
+                  "coords": [
+                        28.560572,
+                        44.01168
+                  ]
+            },
+            {
+                  "name": "Eforie Aqua Park",
+                  "text": "Un parc acvatic în Techirghiol cu atracții pentru cei mici și mari.",
+                  "category": "family",
+                  "coords": [
+                        28.638507,
+                        44.061888
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "O stațiune de plajă în Techirghiol pentru recreere pe malul lacului.",
+                  "category": "family",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "O piscină în Techirghiol pentru răcorire și agrement.",
+                  "category": "family",
+                  "coords": [
+                        28.638031,
+                        44.075261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Techirghiol",
+                  "text": "Lake Techirghiol is famous for its salt water and therapeutic mud used to treat rheumatic and dermatological conditions.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        28.633333,
+                        44.041667
+                  ]
+            },
+            {
+                  "name": "Techirghiol Balneal Sanatorium",
+                  "text": "A famous medical facility that uses the healing properties of the lake's sapropelic mud for various physical therapies.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        28.599055,
+                        44.052072
+                  ]
+            },
+            {
+                  "name": "Techirghiol Lake Promenade",
+                  "text": "A scenic walkway along the lake shore, perfect for relaxing strolls and enjoying the natural breeze of the Dobruja region.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        28.636195,
+                        44.037376
+                  ]
+            },
+            {
+                  "name": "Băile Reci",
+                  "text": "Băile Reci beach is located in Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.607926,
+                        44.050383
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Jean Constantin",
+                  "text": "A summer theatre in Techirghiol named after the actor Jean Constantin.",
+                  "category": "cultural",
+                  "coords": [
+                        28.603112,
+                        44.055144
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "On the soothing shores of Lake Techirghiol, Plaja Șincai offers a wonderful retreat for relaxation seekers. The beneficial waters and the relaxing environment invite extended sunbathing and quiet moments by the water. An unhurried flair dominates this specific lake area. It is recommended to bring a soft beach towel for ultimate comfort.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "A local cultural centre for arts and education in Techirghiol.",
+                  "category": "cultural",
+                  "coords": [
+                        28.601491,
+                        44.051351
+                  ]
+            },
+            {
+                  "name": "Statuia lui Techir",
+                  "text": "A monument in Techirghiol representing the legendary figure of Techir.",
+                  "category": "historical",
+                  "coords": [
+                        28.602275,
+                        44.053081
+                  ]
+            },
+            {
+                  "name": "Cinema 9D VR & Games",
+                  "text": "A modern entertainment centre featuring virtual reality experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        28.636404,
+                        44.063226
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "A venue for open-air performances in Techirghiol.",
+                  "category": "landmark",
+                  "coords": [
+                        28.635995,
+                        44.067279
+                  ]
+            },
+            {
+                  "name": "Lacul Belona",
+                  "text": "A well-known lake in Techirghiol, appreciated for its location near the coast.",
+                  "category": "natural",
+                  "coords": [
+                        28.638222,
+                        44.059771
+                  ]
+            },
+            {
+                  "name": "Lacul Agigea",
+                  "text": "A lake near Techirghiol that is part of a significant nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        28.631828,
+                        44.096413
+                  ]
+            },
+            {
+                  "name": "Acumularea Valea Gospodăriei",
+                  "text": "A reservoir near Techirghiol used for water regulation and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        28.579318,
+                        44.016141
+                  ]
+            },
+            {
+                  "name": "Acumularea Movilița",
+                  "text": "This lake near Techirghiol offers an expansive view over the flat landscape.",
+                  "category": "natural",
+                  "coords": [
+                        28.560572,
+                        44.01168
+                  ]
+            },
+            {
+                  "name": "Eforie Aqua Park",
+                  "text": "A water park in Techirghiol with attractions for all ages.",
+                  "category": "family",
+                  "coords": [
+                        28.638507,
+                        44.061888
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "A beach resort in Techirghiol for recreation by the lakeside.",
+                  "category": "family",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Pool",
+                  "text": "A swimming pool in Techirghiol for cooling off and leisure.",
+                  "category": "family",
+                  "coords": [
+                        28.638031,
+                        44.075261
+                  ]
+            }
+      ]
+}
   },
   {
     id: "romania-balan-cities-v2",
@@ -5143,6 +6208,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.437687,
                         44.994115
                   ]
+            },
+            {
+                  "name": "In curba",
+                  "text": "Das Schwimmbad In curba in Mizil bietet Erfrischung während der Sommermonate.",
+                  "category": "family",
+                  "coords": [
+                        26.411112,
+                        44.969237
+                  ]
+            },
+            {
+                  "name": "La dig",
+                  "text": "Dieses Schwimmbad in Mizil ist ein Treffpunkt für Wassersportinteressierte.",
+                  "category": "family",
+                  "coords": [
+                        26.410476,
+                        44.973535
+                  ]
+            },
+            {
+                  "name": "Maximus Aqua Summer Club",
+                  "text": "Der Maximus Aqua Summer Club in Mizil bietet Becken und Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        26.4535,
+                        45.004693
+                  ]
             }
       ],
       "hu": [
@@ -5154,6 +6246,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.437687,
                         44.994115
+                  ]
+            },
+            {
+                  "name": "In curba",
+                  "text": "A mizili In curba úszómedence felfrissülést kínál a nyári hónapokban.",
+                  "category": "family",
+                  "coords": [
+                        26.411112,
+                        44.969237
+                  ]
+            },
+            {
+                  "name": "La dig",
+                  "text": "Ez a mizili úszómedence a vízi sportok iránt érdeklődők találkozóhelye.",
+                  "category": "family",
+                  "coords": [
+                        26.410476,
+                        44.973535
+                  ]
+            },
+            {
+                  "name": "Maximus Aqua Summer Club",
+                  "text": "A mizili Maximus Aqua Summer Club medencéket és szabadidős tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        26.4535,
+                        45.004693
                   ]
             }
       ],
@@ -5167,6 +6286,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.437687,
                         44.994115
                   ]
+            },
+            {
+                  "name": "In curba",
+                  "text": "Piscina In curba din Mizil oferă răcorire în timpul lunilor de vară.",
+                  "category": "family",
+                  "coords": [
+                        26.411112,
+                        44.969237
+                  ]
+            },
+            {
+                  "name": "La dig",
+                  "text": "Această piscină din Mizil este un punct de întâlnire pentru pasionații de sporturi nautice.",
+                  "category": "family",
+                  "coords": [
+                        26.410476,
+                        44.973535
+                  ]
+            },
+            {
+                  "name": "Maximus Aqua Summer Club",
+                  "text": "Maximus Aqua Summer Club din Mizil oferă bazine și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        26.4535,
+                        45.004693
+                  ]
             }
       ],
       "en": [
@@ -5178,6 +6324,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.437687,
                         44.994115
+                  ]
+            },
+            {
+                  "name": "In curba",
+                  "text": "The In curba swimming pool in Mizil offers refreshment during the summer months.",
+                  "category": "family",
+                  "coords": [
+                        26.411112,
+                        44.969237
+                  ]
+            },
+            {
+                  "name": "La dig",
+                  "text": "This swimming pool in Mizil is a meeting point for water sports enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        26.410476,
+                        44.973535
+                  ]
+            },
+            {
+                  "name": "Maximus Aqua Summer Club",
+                  "text": "The Maximus Aqua Summer Club in Mizil features pools and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        26.4535,
+                        45.004693
                   ]
             }
       ]
@@ -5702,6 +6875,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.852461,
                         45.032997
                   ]
+            },
+            {
+                  "name": "Băile Valea Stelii",
+                  "text": "Badeeinrichtungen in Baicoi für gesundheitsbewusste Erholung.",
+                  "category": "family",
+                  "coords": [
+                        25.892798,
+                        45.036024
+                  ]
             }
       ],
       "hu": [
@@ -5722,6 +6904,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.852461,
                         45.032997
+                  ]
+            },
+            {
+                  "name": "Băile Valea Stelii",
+                  "text": "Fürdőlétesítmények Baicoi városában az egészségtudatos kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        25.892798,
+                        45.036024
                   ]
             }
       ],
@@ -5744,6 +6935,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.852461,
                         45.032997
                   ]
+            },
+            {
+                  "name": "Băile Valea Stelii",
+                  "text": "Facilități de scăldat în Baicoi pentru recreere și sănătate.",
+                  "category": "family",
+                  "coords": [
+                        25.892798,
+                        45.036024
+                  ]
             }
       ],
       "en": [
@@ -5764,6 +6964,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.852461,
                         45.032997
+                  ]
+            },
+            {
+                  "name": "Băile Valea Stelii",
+                  "text": "Bathing facilities in Baicoi for health-conscious recreation.",
+                  "category": "family",
+                  "coords": [
+                        25.892798,
+                        45.036024
                   ]
             }
       ]
@@ -5862,6 +7071,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.668368,
                         45.180473
                   ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "Der G-Club in Breaza verfügt über ein Schwimmbad für seine Gäste.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
+                  ]
             }
       ],
       "hu": [
@@ -5911,6 +7129,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.668368,
                         45.180473
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "A breazai G-Club úszómedencével várja vendégeit.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
                   ]
             }
       ],
@@ -5962,6 +7189,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.668368,
                         45.180473
                   ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "G-Club din Breaza dispune de o piscină pentru oaspeții săi.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
+                  ]
             }
       ],
       "en": [
@@ -6011,6 +7247,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.668368,
                         45.180473
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "The G-Club in Breaza features a swimming pool for its guests.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
                   ]
             }
       ]
@@ -7526,6 +8771,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.5254,
                         45.3683
                   ]
+            },
+            {
+                  "name": "Escapade Adventure Park",
+                  "text": "Der Escapade Adventure Park in Sinaia bietet Kletterparcours und Outdoor-Abenteuer.",
+                  "category": "family",
+                  "coords": [
+                        25.550777,
+                        45.370555
+                  ]
             }
       ],
       "hu": [
@@ -7617,6 +8871,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.5254,
                         45.3683
+                  ]
+            },
+            {
+                  "name": "Escapade Adventure Park",
+                  "text": "A szinajai Escapade Adventure Park mászópályákat és szabadtéri kalandokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        25.550777,
+                        45.370555
                   ]
             }
       ],
@@ -7710,6 +8973,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.5254,
                         45.3683
                   ]
+            },
+            {
+                  "name": "Escapade Adventure Park",
+                  "text": "Escapade Adventure Park din Sinaia oferă trasee de cățărare și aventuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        25.550777,
+                        45.370555
+                  ]
             }
       ],
       "en": [
@@ -7801,6 +9073,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.5254,
                         45.3683
+                  ]
+            },
+            {
+                  "name": "Escapade Adventure Park",
+                  "text": "The Escapade Adventure Park in Sinaia offers climbing courses and outdoor adventures.",
+                  "category": "family",
+                  "coords": [
+                        25.550777,
+                        45.370555
                   ]
             }
       ]
@@ -8150,6 +9431,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.7257,
                         45.130038
                   ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Ein Schwimmbecken für Erwachsene in Cornu für ruhige Momente.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "Ein Schwimmbad in Cornu, ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
+                  ]
             }
       ],
       "hu": [
@@ -8235,6 +9534,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.7257,
                         45.130038
+                  ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "Felnőtt úszómedence Cornu területén a nyugodt pillanatokért.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "Egy úszómedence Cornuban, amely alkalmas családok számára.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
                   ]
             }
       ],
@@ -8322,6 +9639,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.7257,
                         45.130038
                   ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "O piscină pentru adulți în Cornu pentru momente de liniște.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "O piscină în Cornu, potrivită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
+                  ]
             }
       ],
       "en": [
@@ -8407,6 +9742,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.7257,
                         45.130038
+                  ]
+            },
+            {
+                  "name": "Piscină adulți",
+                  "text": "A swimming pool for adults in Cornu for quiet moments.",
+                  "category": "family",
+                  "coords": [
+                        25.694334,
+                        45.145737
+                  ]
+            },
+            {
+                  "name": "G-Club",
+                  "text": "A swimming pool in Cornu, suitable for families.",
+                  "category": "family",
+                  "coords": [
+                        25.673112,
+                        45.171637
                   ]
             }
       ]
@@ -8531,6 +9884,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.741361,
                         45.120591
                   ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "Das Freibad Amana Inn in Banesti lädt zum Schwimmen und Entspannen ein.",
+                  "category": "family",
+                  "coords": [
+                        25.728531,
+                        45.12901
+                  ]
             }
       ],
       "hu": [
@@ -8606,6 +9968,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.741361,
                         45.120591
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "A banesti-i Amana Inn strand úszásra és pihenésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        25.728531,
+                        45.12901
                   ]
             }
       ],
@@ -8683,6 +10054,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.741361,
                         45.120591
                   ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "Ștrandul Amana Inn din Bănești invită la înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        25.728531,
+                        45.12901
+                  ]
             }
       ],
       "en": [
@@ -8758,6 +10138,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.741361,
                         45.120591
+                  ]
+            },
+            {
+                  "name": "Ștrand Amana Inn",
+                  "text": "The Amana Inn swimming pool in Banesti invites visitors for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        25.728531,
+                        45.12901
                   ]
             }
       ]
@@ -10052,6 +11441,42 @@ export const romaniaCitiesV2: POI[] = [
                         26.04818,
                         44.940879
                   ]
+            },
+            {
+                  "name": "Acvariul",
+                  "text": "Aquarium in Bucov, das die Vielfalt des Wasserlebens für ein lehrreiches Erlebnis präsentiert.",
+                  "category": "family",
+                  "coords": [
+                        26.021913,
+                        44.941774
+                  ]
+            },
+            {
+                  "name": "Piscina Dorobanțul",
+                  "text": "Schwimmbad in Bucov, ideal für sportliche Betätigung und Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        26.050363,
+                        44.93596
+                  ]
+            },
+            {
+                  "name": "Piscină Complex La Nicole",
+                  "text": "Schwimmbadkomplex in Bucov, der Erholung in einer angenehmen Umgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.027801,
+                        44.974955
+                  ]
+            },
+            {
+                  "name": "Piscina Laguna",
+                  "text": "Öffentliches Schwimmbad in Bucov, perfekt für einen entspannten Tag im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        26.04945,
+                        44.942603
+                  ]
             }
       ],
       "hu": [
@@ -10146,6 +11571,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.04818,
                         44.940879
+                  ]
+            },
+            {
+                  "name": "Acvariul",
+                  "text": "Akvárium Bucovban, amely a vízi élet sokszínűségét mutatja be egy oktatási élmény érdekében.",
+                  "category": "family",
+                  "coords": [
+                        26.021913,
+                        44.941774
+                  ]
+            },
+            {
+                  "name": "Piscina Dorobanțul",
+                  "text": "Úszómedence Bucovban, amely ideális sportoláshoz és vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.050363,
+                        44.93596
+                  ]
+            },
+            {
+                  "name": "Piscină Complex La Nicole",
+                  "text": "Úszómedence-komplexum Bucovban, amely kikapcsolódást kínál kellemes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        26.027801,
+                        44.974955
+                  ]
+            },
+            {
+                  "name": "Piscina Laguna",
+                  "text": "Nyilvános úszómedence Bucovban, amely tökéletes egy pihentető naphoz a vízben.",
+                  "category": "family",
+                  "coords": [
+                        26.04945,
+                        44.942603
                   ]
             }
       ],
@@ -10242,6 +11703,42 @@ export const romaniaCitiesV2: POI[] = [
                         26.04818,
                         44.940879
                   ]
+            },
+            {
+                  "name": "Acvariul",
+                  "text": "Acvariu în Bucov care prezintă diversitatea vieții acvatice pentru o experiență educativă.",
+                  "category": "family",
+                  "coords": [
+                        26.021913,
+                        44.941774
+                  ]
+            },
+            {
+                  "name": "Piscina Dorobanțul",
+                  "text": "Piscină în Bucov, ideală pentru exerciții fizice și distracție în apă.",
+                  "category": "family",
+                  "coords": [
+                        26.050363,
+                        44.93596
+                  ]
+            },
+            {
+                  "name": "Piscină Complex La Nicole",
+                  "text": "Complex de piscine în Bucov, oferind recreere într-un cadru plăcut.",
+                  "category": "family",
+                  "coords": [
+                        26.027801,
+                        44.974955
+                  ]
+            },
+            {
+                  "name": "Piscina Laguna",
+                  "text": "Piscină publică în Bucov, perfectă pentru o zi relaxantă în apă.",
+                  "category": "family",
+                  "coords": [
+                        26.04945,
+                        44.942603
+                  ]
             }
       ],
       "en": [
@@ -10336,6 +11833,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.04818,
                         44.940879
+                  ]
+            },
+            {
+                  "name": "Acvariul",
+                  "text": "Aquarium in Bucov showcasing the diversity of aquatic life for an educational experience.",
+                  "category": "family",
+                  "coords": [
+                        26.021913,
+                        44.941774
+                  ]
+            },
+            {
+                  "name": "Piscina Dorobanțul",
+                  "text": "Swimming pool in Bucov, ideal for exercise and water fun.",
+                  "category": "family",
+                  "coords": [
+                        26.050363,
+                        44.93596
+                  ]
+            },
+            {
+                  "name": "Piscină Complex La Nicole",
+                  "text": "Swimming pool complex in Bucov offering recreation in a pleasant setting.",
+                  "category": "family",
+                  "coords": [
+                        26.027801,
+                        44.974955
+                  ]
+            },
+            {
+                  "name": "Piscina Laguna",
+                  "text": "Public swimming pool in Bucov, perfect for a relaxing day in the water.",
+                  "category": "family",
+                  "coords": [
+                        26.04945,
+                        44.942603
                   ]
             }
       ]
@@ -10487,7 +12020,1060 @@ export const romaniaCitiesV2: POI[] = [
       fr: ["Population : env. 6 800 (2021)", "Superficie : 18,5 km²", "Première mention documentaire : 1523", "Altitude : 165 m", "Distance de Ploiești : 4 km", "Nombre de villages : 2"],
     },
     image: "/poi-images/romania-blejoi-cities-v2.webp",
-    "sights": {"de": [{"name": "Muzeul \"Ion Luca Caragiale\"", "text": "Ein Museum, das dem großen rumänischen Dramatiker Ion Luca Caragiale gewidmet ist.", "category": "museum", "coords": [26.024196, 44.939133]}, {"name": "Muzeul Memorial \"Nichita Stănescu\"", "text": "Ein Museum zu Ehren des Dichters Nichita Stănescu im Gebiet von Blejoi.", "category": "museum", "coords": [26.028966, 44.946837]}, {"name": "Muzeul Național al Petrolului", "text": "Das Nationale Erdölmuseum, das die Geschichte der Industrie in Rumänien zeigt.", "category": "museum", "coords": [26.029127, 44.939105]}, {"name": "Muzeul Omului - Muzeul Județean de Științele Naturii Prahova", "text": "Ein Museum in der Region Blejoi, das sich mit der Naturgeschichte des Kreises Prahova befasst.", "category": "museum", "coords": [26.022051, 44.941719]}, {"name": "Muzeul Județean de Istorie și Arheologie Prahova", "text": "Ein regionales Museum, das die Geschichte und Archäologie des Kreises Prahova dokumentiert.", "category": "museum", "coords": [26.026966, 44.939925]}, {"name": "Muzeul Memorial \"Paul Constantinescu\"", "text": "Das Muzeul Memorial \"Paul Constantinescu\" in Blejoi, Rumänien, ist ein aufschlussreiches Museum, das dem Leben und den Werken des gleichnamigen Komponisten gewidmet ist. Musik- und Geschichtsliebhaber können hier Ausstellungen erkunden, die seine bedeutenden kulturellen Beiträge bewahren.", "category": "museum", "coords": [26.028542, 44.940568]}, {"name": "Casa de Cultură a Sindicatelor din Ploiești", "text": "Ein bedeutendes Kulturzentrum und Theatergebäude in der Nähe von Blejoi.", "category": "cultural", "coords": [26.018689, 44.941673]}, {"name": "Filarmonica Paul Constantinescu", "text": "Sitz der Philharmonie von Ploiești, benannt nach Paul Constantinescu.", "category": "cultural", "coords": [26.022517, 44.93827]}, {"name": "Grădina Zoologică", "text": "Ein Zoo in der Region Blejoi, der ein beliebtes Ausflugsziel ist.", "category": "family", "coords": [26.05545, 44.976708]}, {"name": "Teatrul Ancuța", "text": "Ein Theater in der Region Blejoi, das kulturelle Veranstaltungen anbietet.", "category": "cultural", "coords": [26.024432, 44.94826]}, {"name": "Teatrul pentru Copii “Ciufulici”", "text": "Ein spezialisiertes Theater für Kinderaufführungen und Puppenspiele in der Region.", "category": "cultural", "coords": [26.025956, 44.935569]}, {"name": "Grădina Botanică Bucov (Ploiești)", "text": "Ein Garten in Bucov, der die lokale Flora und wissenschaftliche Sammlungen präsentiert.", "category": "park", "coords": [26.051792, 44.976998]}, {"name": "Clopotniţa - Monumentul Eroilor din 1916-1918", "text": "Ein Glockenturm und Denkmal für die Helden des Ersten Weltkriegs.", "category": "historical", "coords": [26.019082, 44.94317]}, {"name": "Muzeul \"Casa de Târgoveț din secolele al XVIII-lea - al XIX-lea\"", "text": "Ein Museum in einem historischen Kaufmannshaus aus dem 18.-19. Jahrhundert.", "category": "historical", "coords": [26.027388, 44.938235]}, {"name": "Statuie Mihai Viteazul", "text": "Eine Statue zu Ehren des walachischen Fürsten Michael der Tapfere.", "category": "historical", "coords": [26.012175, 44.947041]}, {"name": "Ruinele bisericii „Sfântul Visarion”", "text": "Die Überreste der alten St.-Visarion-Kirche in Blejoi.", "category": "historical", "coords": [26.026587, 44.975377]}, {"name": "Biserica \"Sfinții Împărați Constantin și Elena\"", "text": "Ein orthodoxes Gotteshaus, das den Heiligen Konstantin und Helena geweiht ist.", "category": "religious", "coords": [26.021546, 44.939008]}, {"name": "Biserica „Sfântul Gheorghe” - Vechi", "text": "Eine historische orthodoxe Kirche, bekannt als die Alte St.-Georgs-Kirche.", "category": "religious", "coords": [26.025322, 44.937094]}, {"name": "Biserica Maica Precista", "text": "Eine bedeutende Kirche in der Region, bekannt für ihre Architektur und Geschichte.", "category": "religious", "coords": [26.030014, 44.940086]}, {"name": "Biserica Sfânta Vineri", "text": "Eine traditionelle orthodoxe Kirche in der Region Blejoi-Ploiești.", "category": "religious", "coords": [26.029518, 44.943361]}, {"name": "Sinagoga Beth Israel", "text": "Die Beth-Israel-Synagoge, ein religiöses und historisches Denkmal in Ploiești.", "category": "landmark", "coords": [26.026539, 44.941949]}, {"name": "Biserica Domnească Sfinții Apostoli Petru și Pavel", "text": "Eine fürstliche Kirche, die ein wichtiges historisches Denkmal in der Gegend darstellt.", "category": "religious", "coords": [26.046359, 44.94109]}, {"name": "Biserica Sfântul Nicolae - Vechi", "text": "Eine alte christliche Kirche in Blejoi, die dem Heiligen Nikolaus gewidmet ist.", "category": "religious", "coords": [26.042418, 44.939865]}, {"name": "Biserica Buna Vestire", "text": "Eine orthodoxe Kirche in Ploiești, die an das Fest der Verkündigung erinnert.", "category": "religious", "coords": [26.034417, 44.937641]}, {"name": "Biserica Sfântul Nicolae Nou (Ispravnici)", "text": "Die Neue St.-Nikolaus-Kirche, ein architektonisches Denkmal in der Region.", "category": "religious", "coords": [26.034496, 44.942018]}, {"name": "Biserica Sfinţii Voievozi", "text": "Eine historische orthodoxe Kirche, die den Heiligen Erzengeln geweiht ist.", "category": "religious", "coords": [26.029862, 44.936784]}], "hu": [{"name": "Muzeul \"Ion Luca Caragiale\"", "text": "A nagy román drámaíró, Ion Luca Caragiale emlékének szentelt múzeum.", "category": "museum", "coords": [26.024196, 44.939133]}, {"name": "Muzeul Memorial \"Nichita Stănescu\"", "text": "Nichita Stănescu költő tiszteletére alapított múzeum Blejoi környékén.", "category": "museum", "coords": [26.028966, 44.946837]}, {"name": "Muzeul Național al Petrolului", "text": "A Nemzeti Olajmúzeum, amely a romániai iparág történetét mutatja be.", "category": "museum", "coords": [26.029127, 44.939105]}, {"name": "Muzeul Omului - Muzeul Județean de Științele Naturii Prahova", "text": "Prahova megye természetrajzát bemutató múzeum Blejoi közelében.", "category": "museum", "coords": [26.022051, 44.941719]}, {"name": "Muzeul Județean de Istorie și Arheologie Prahova", "text": "Regionális múzeum, amely Prahova megye történelmét és régészetét mutatja be.", "category": "museum", "coords": [26.026966, 44.939925]}, {"name": "Muzeul Memorial \"Paul Constantinescu\"", "text": "A romániai Blejoiban található Muzeul Memorial \"Paul Constantinescu\" egy tartalmas múzeum, amely az azonos nevű zeneszerző életét és alkotásait mutatja be. A zene és a történelem szerelmesei olyan kiállításokat fedezhetnek fel, amelyek megőrzik kulturális örökségét.", "category": "museum", "coords": [26.028542, 44.940568]}, {"name": "Casa de Cultură a Sindicatelor din Ploiești", "text": "Fontos kulturális központ és színházépület Blejoi közelében.", "category": "cultural", "coords": [26.018689, 44.941673]}, {"name": "Filarmonica Paul Constantinescu", "text": "A Ploiești-i Filharmónia székhelye, Paul Constantinescu után elnevezve.", "category": "cultural", "coords": [26.022517, 44.93827]}, {"name": "Grădina Zoologică", "text": "Népszerű állatkert Blejoi környékén a látogatók számára.", "category": "family", "coords": [26.05545, 44.976708]}, {"name": "Teatrul Ancuța", "text": "Kulturális eseményeknek otthont adó színház Blejoi közelében.", "category": "cultural", "coords": [26.024432, 44.94826]}, {"name": "Teatrul pentru Copii “Ciufulici”", "text": "Gyermekelőadásokra és bábszínházra szakosodott teátrum a régióban.", "category": "cultural", "coords": [26.025956, 44.935569]}, {"name": "Grădina Botanică Bucov (Ploiești)", "text": "Bucovi kert, amely a helyi flórát és tudományos gyűjteményeket mutatja be.", "category": "park", "coords": [26.051792, 44.976998]}, {"name": "Clopotniţa - Monumentul Eroilor din 1916-1918", "text": "Harangtorony és emlékmű az első világháború hőseinek tiszteletére.", "category": "historical", "coords": [26.019082, 44.94317]}, {"name": "Muzeul \"Casa de Târgoveț din secolele al XVIII-lea - al XIX-lea\"", "text": "Múzeum egy 18-19. századi történelmi kereskedőházban.", "category": "historical", "coords": [26.027388, 44.938235]}, {"name": "Statuie Mihai Viteazul", "text": "Vitéz Mihály havasalföldi fejedelem tiszteletére állított szobor.", "category": "historical", "coords": [26.012175, 44.947041]}, {"name": "Ruinele bisericii „Sfântul Visarion”", "text": "A régi Szent Visarion-templom romjai Blejoi településen.", "category": "historical", "coords": [26.026587, 44.975377]}, {"name": "Biserica \"Sfinții Împărați Constantin și Elena\"", "text": "Szent Konstantin és Heléna tiszteletére szentelt ortodox templom.", "category": "religious", "coords": [26.021546, 44.939008]}, {"name": "Biserica „Sfântul Gheorghe” - Vechi", "text": "Történelmi ortodox templom, ismertebb nevén a Régi Szent György-templom.", "category": "religious", "coords": [26.025322, 44.937094]}, {"name": "Biserica Maica Precista", "text": "A régió egyik jelentős temploma, amely építészetéről és történelméről ismert.", "category": "religious", "coords": [26.030014, 44.940086]}, {"name": "Biserica Sfânta Vineri", "text": "Hagyományos ortodox templom Blejoi-Ploiești környékén.", "category": "religious", "coords": [26.029518, 44.943361]}, {"name": "Sinagoga Beth Israel", "text": "A Beth Israel zsinagóga, Ploiești vallási és történelmi műemléke.", "category": "landmark", "coords": [26.026539, 44.941949]}, {"name": "Biserica Domnească Sfinții Apostoli Petru și Pavel", "text": "Fejedelmi templom, amely a környék fontos történelmi műemléke.", "category": "religious", "coords": [26.046359, 44.94109]}, {"name": "Biserica Sfântul Nicolae - Vechi", "text": "Régi keresztény templom Blejoi-ban, Szent Miklós tiszteletére.", "category": "religious", "coords": [26.042418, 44.939865]}, {"name": "Biserica Buna Vestire", "text": "Ortodox templom Ploiești-ben, az Angyali üdvözlet emlékére.", "category": "religious", "coords": [26.034417, 44.937641]}, {"name": "Biserica Sfântul Nicolae Nou (Ispravnici)", "text": "Az Új Szent Miklós-templom, a régió egyik építészeti műemléke.", "category": "religious", "coords": [26.034496, 44.942018]}, {"name": "Biserica Sfinţii Voievozi", "text": "Történelmi ortodox templom, a Szent Angyalok tiszteletére szentelve.", "category": "religious", "coords": [26.029862, 44.936784]}], "ro": [{"name": "Muzeul \"Ion Luca Caragiale\"", "text": "Un muzeu dedicat marelui dramaturg român Ion Luca Caragiale.", "category": "museum", "coords": [26.024196, 44.939133]}, {"name": "Muzeul Memorial \"Nichita Stănescu\"", "text": "Un muzeu memorial dedicat poetului Nichita Stănescu în zona Blejoi.", "category": "museum", "coords": [26.028966, 44.946837]}, {"name": "Muzeul Național al Petrolului", "text": "Muzeul Național al Petrolului, care prezintă istoria industriei în România.", "category": "museum", "coords": [26.029127, 44.939105]}, {"name": "Muzeul Omului - Muzeul Județean de Științele Naturii Prahova", "text": "Muzeul de Științele Naturii al județului Prahova, situat în zona Blejoi.", "category": "museum", "coords": [26.022051, 44.941719]}, {"name": "Muzeul Județean de Istorie și Arheologie Prahova", "text": "Muzeul Județean de Istorie și Arheologie Prahova din zona Blejoi.", "category": "museum", "coords": [26.026966, 44.939925]}, {"name": "Muzeul Memorial \"Paul Constantinescu\"", "text": "Situat în Blejoi, România, Muzeul Memorial \"Paul Constantinescu\" este un muzeu captivant, dedicat vieții și creațiilor compozitorului omonim. Iubitorii de muzică și istorie pot explora expoziții care păstrează contribuțiile sale culturale semnificative.", "category": "museum", "coords": [26.028542, 44.940568]}, {"name": "Casa de Cultură a Sindicatelor din Ploiești", "text": "Un important centru cultural și sală de spectacole din apropierea comunei Blejoi.", "category": "cultural", "coords": [26.018689, 44.941673]}, {"name": "Filarmonica Paul Constantinescu", "text": "Sediul Filarmonicii din Ploiești, care poartă numele lui Paul Constantinescu.", "category": "cultural", "coords": [26.022517, 44.93827]}, {"name": "Grădina Zoologică", "text": "O grădină zoologică în zona Blejoi, o destinație populară pentru vizitatori.", "category": "family", "coords": [26.05545, 44.976708]}, {"name": "Teatrul Ancuța", "text": "Un teatru situat în zona Blejoi ce oferă diverse evenimente culturale.", "category": "cultural", "coords": [26.024432, 44.94826]}, {"name": "Teatrul pentru Copii “Ciufulici”", "text": "Un teatru specializat în spectacole pentru copii și teatru de păpuși.", "category": "cultural", "coords": [26.025956, 44.935569]}, {"name": "Grădina Botanică Bucov (Ploiești)", "text": "Grădina botanică din Bucov, ce prezintă flora locală și colecții științifice.", "category": "park", "coords": [26.051792, 44.976998]}, {"name": "Clopotniţa - Monumentul Eroilor din 1916-1918", "text": "Un turn clopotniță și monument dedicat eroilor din Primul Război Mondial.", "category": "historical", "coords": [26.019082, 44.94317]}, {"name": "Muzeul \"Casa de Târgoveț din secolele al XVIII-lea - al XIX-lea\"", "text": "Un muzeu situat într-o casă de târgoveț din secolele XVIII-XIX.", "category": "historical", "coords": [26.027388, 44.938235]}, {"name": "Statuie Mihai Viteazul", "text": "O statuie ridicată în cinstea domnitorului Mihai Viteazul.", "category": "historical", "coords": [26.012175, 44.947041]}, {"name": "Ruinele bisericii „Sfântul Visarion”", "text": "Ruinele vechii biserici Sfântul Visarion din localitatea Blejoi.", "category": "historical", "coords": [26.026587, 44.975377]}, {"name": "Biserica \"Sfinții Împărați Constantin și Elena\"", "text": "Biserica ortodoxă dedicată Sfinților Împărați Constantin și Elena.", "category": "religious", "coords": [26.021546, 44.939008]}, {"name": "Biserica „Sfântul Gheorghe” - Vechi", "text": "Biserica ortodoxă istorică cunoscută sub numele de Sfântul Gheorghe - Vechi.", "category": "religious", "coords": [26.025322, 44.937094]}, {"name": "Biserica Maica Precista", "text": "Biserica Maica Precistă, un lăcaș important cunoscut pentru istoria sa.", "category": "religious", "coords": [26.030014, 44.940086]}, {"name": "Biserica Sfânta Vineri", "text": "O biserică ortodoxă tradițională din zona Blejoi-Ploiești.", "category": "religious", "coords": [26.029518, 44.943361]}, {"name": "Sinagoga Beth Israel", "text": "Sinagoga Beth Israel, un monument religios și istoric din Ploiești.", "category": "landmark", "coords": [26.026539, 44.941949]}, {"name": "Biserica Domnească Sfinții Apostoli Petru și Pavel", "text": "O biserică domnească ce reprezintă un important monument istoric local.", "category": "religious", "coords": [26.046359, 44.94109]}, {"name": "Biserica Sfântul Nicolae - Vechi", "text": "O veche biserică creștină din Blejoi, dedicată Sfântului Nicolae.", "category": "religious", "coords": [26.042418, 44.939865]}, {"name": "Biserica Buna Vestire", "text": "O biserică ortodoxă din Ploiești ce poartă hramul Bunei Vestiri.", "category": "religious", "coords": [26.034417, 44.937641]}, {"name": "Biserica Sfântul Nicolae Nou (Ispravnici)", "text": "Biserica Sfântul Nicolae Nou, un monument arhitectural din zonă.", "category": "religious", "coords": [26.034496, 44.942018]}, {"name": "Biserica Sfinţii Voievozi", "text": "O biserică ortodoxă istorică dedicată Sfinților Voievozi.", "category": "religious", "coords": [26.029862, 44.936784]}], "en": [{"name": "\"Ion Luca Caragiale\" Museum", "text": "A museum dedicated to the great Romanian playwright Ion Luca Caragiale.", "category": "museum", "coords": [26.024196, 44.939133]}, {"name": "\"Nichita Stanescu\" Memorial Museum", "text": "A memorial museum dedicated to the poet Nichita Stănescu in the Blejoi area.", "category": "museum", "coords": [26.028966, 44.946837]}, {"name": "National Museum of Oil", "text": "The National Museum of Oil, showcasing the history of the industry in Romania.", "category": "museum", "coords": [26.029127, 44.939105]}, {"name": "Prahova County Natural Sciences Museum", "text": "The Prahova County Natural Sciences Museum, located in the Blejoi area.", "category": "museum", "coords": [26.022051, 44.941719]}, {"name": "Prahova County Museum of History and Archaeology", "text": "The Prahova County Museum of History and Archaeology in the Blejoi area.", "category": "museum", "coords": [26.026966, 44.939925]}, {"name": "\"Paul Constantinescu\" Memorial Museum", "text": "Found in Blejoi, Romania, the Muzeul Memorial \"Paul Constantinescu\" is an insightful museum dedicated to the life and creations of the eponymous composer. Music and history lovers can explore exhibits that preserve his significant cultural contributions.", "category": "museum", "coords": [26.028542, 44.940568]}, {"name": "Casa de Cultură a Sindicatelor din Ploiești", "text": "A significant cultural center and theater building near Blejoi.", "category": "cultural", "coords": [26.018689, 44.941673]}, {"name": "Filarmonica Paul Constantinescu", "text": "The home of the Ploiești Philharmonic, named after Paul Constantinescu.", "category": "cultural", "coords": [26.022517, 44.93827]}, {"name": "Zoological Garden", "text": "A zoological garden in the Blejoi area, a popular destination for visitors.", "category": "family", "coords": [26.05545, 44.976708]}, {"name": "Ancuța Theatre", "text": "A theatre in the Blejoi area offering cultural events.", "category": "cultural", "coords": [26.024432, 44.94826]}, {"name": "Teatrul pentru Copii “Ciufulici”", "text": "A specialized theatre for children's performances and puppet shows.", "category": "cultural", "coords": [26.025956, 44.935569]}, {"name": "Bucov (Ploieşti) Botanical Garden", "text": "The botanical garden in Bucov, showcasing local flora and scientific collections.", "category": "park", "coords": [26.051792, 44.976998]}, {"name": "Clopotniţa - Monumentul Eroilor din 1916-1918", "text": "A bell tower and monument dedicated to the heroes of World War I.", "category": "historical", "coords": [26.019082, 44.94317]}, {"name": "\"Hagi Prodan\" Urban House Museum", "text": "A museum set in a historic merchant's house from the 18th-19th centuries.", "category": "historical", "coords": [26.027388, 44.938235]}, {"name": "Statuie Mihai Viteazul", "text": "A statue erected in honor of the ruler Michael the Brave.", "category": "historical", "coords": [26.012175, 44.947041]}, {"name": "Ruinele bisericii „Sfântul Visarion”", "text": "The ruins of the old Saint Visarion Church in Blejoi.", "category": "historical", "coords": [26.026587, 44.975377]}, {"name": "Biserica \"Sfinții Împărați Constantin și Elena\"", "text": "An Orthodox place of worship dedicated to Saints Constantine and Helen.", "category": "religious", "coords": [26.021546, 44.939008]}, {"name": "Biserica „Sfântul Gheorghe” - Vechi", "text": "A historic Orthodox church known as the Old Saint George Church.", "category": "religious", "coords": [26.025322, 44.937094]}, {"name": "Biserica Maica Precista", "text": "The Maica Precista Church, a significant place of worship known for its history.", "category": "religious", "coords": [26.030014, 44.940086]}, {"name": "Biserica Sfânta Vineri", "text": "A traditional Orthodox church in the Blejoi-Ploiești area.", "category": "religious", "coords": [26.029518, 44.943361]}, {"name": "Sinagoga Beth Israel", "text": "The Beth Israel Synagogue, a religious and historical monument in Ploiești.", "category": "landmark", "coords": [26.026539, 44.941949]}, {"name": "Biserica Domnească Sfinții Apostoli Petru și Pavel", "text": "A princely church representing an important local historical monument.", "category": "religious", "coords": [26.046359, 44.94109]}, {"name": "Biserica Sfântul Nicolae - Vechi", "text": "An old Christian church in Blejoi dedicated to Saint Nicholas.", "category": "religious", "coords": [26.042418, 44.939865]}, {"name": "Biserica Buna Vestire", "text": "An Orthodox church in Ploiești dedicated to the Annunciation.", "category": "religious", "coords": [26.034417, 44.937641]}, {"name": "Biserica Sfântul Nicolae Nou (Ispravnici)", "text": "The New Saint Nicholas Church, an architectural monument in the area.", "category": "religious", "coords": [26.034496, 44.942018]}, {"name": "Biserica Sfinţii Voievozi", "text": "A historic Orthodox church dedicated to the Holy Archangels.", "category": "religious", "coords": [26.029862, 44.936784]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Muzeul \"Ion Luca Caragiale\"",
+                  "text": "Ein Museum, das dem großen rumänischen Dramatiker Ion Luca Caragiale gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.024196,
+                        44.939133
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nichita Stănescu\"",
+                  "text": "Ein Museum zu Ehren des Dichters Nichita Stănescu im Gebiet von Blejoi.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Petrolului",
+                  "text": "Das Nationale Erdölmuseum, das die Geschichte der Industrie in Rumänien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.029127,
+                        44.939105
+                  ]
+            },
+            {
+                  "name": "Muzeul Omului - Muzeul Județean de Științele Naturii Prahova",
+                  "text": "Ein Museum in der Region Blejoi, das sich mit der Naturgeschichte des Kreises Prahova befasst.",
+                  "category": "museum",
+                  "coords": [
+                        26.022051,
+                        44.941719
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Arheologie Prahova",
+                  "text": "Ein regionales Museum, das die Geschichte und Archäologie des Kreises Prahova dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.026966,
+                        44.939925
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Paul Constantinescu\"",
+                  "text": "Das Muzeul Memorial \"Paul Constantinescu\" in Blejoi, Rumänien, ist ein aufschlussreiches Museum, das dem Leben und den Werken des gleichnamigen Komponisten gewidmet ist. Musik- und Geschichtsliebhaber können hier Ausstellungen erkunden, die seine bedeutenden kulturellen Beiträge bewahren.",
+                  "category": "museum",
+                  "coords": [
+                        26.028542,
+                        44.940568
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor din Ploiești",
+                  "text": "Ein bedeutendes Kulturzentrum und Theatergebäude in der Nähe von Blejoi.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018689,
+                        44.941673
+                  ]
+            },
+            {
+                  "name": "Filarmonica Paul Constantinescu",
+                  "text": "Sitz der Philharmonie von Ploiești, benannt nach Paul Constantinescu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.022517,
+                        44.93827
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Ein Zoo in der Region Blejoi, der ein beliebtes Ausflugsziel ist.",
+                  "category": "family",
+                  "coords": [
+                        26.05545,
+                        44.976708
+                  ]
+            },
+            {
+                  "name": "Teatrul Ancuța",
+                  "text": "Ein Theater in der Region Blejoi, das kulturelle Veranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        26.024432,
+                        44.94826
+                  ]
+            },
+            {
+                  "name": "Teatrul pentru Copii “Ciufulici”",
+                  "text": "Ein spezialisiertes Theater für Kinderaufführungen und Puppenspiele in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025956,
+                        44.935569
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Bucov (Ploiești)",
+                  "text": "Ein Garten in Bucov, der die lokale Flora und wissenschaftliche Sammlungen präsentiert.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Clopotniţa - Monumentul Eroilor din 1916-1918",
+                  "text": "Ein Glockenturm und Denkmal für die Helden des Ersten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        26.019082,
+                        44.94317
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Casa de Târgoveț din secolele al XVIII-lea - al XIX-lea\"",
+                  "text": "Ein Museum in einem historischen Kaufmannshaus aus dem 18.-19. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        26.027388,
+                        44.938235
+                  ]
+            },
+            {
+                  "name": "Statuie Mihai Viteazul",
+                  "text": "Eine Statue zu Ehren des walachischen Fürsten Michael der Tapfere.",
+                  "category": "historical",
+                  "coords": [
+                        26.012175,
+                        44.947041
+                  ]
+            },
+            {
+                  "name": "Ruinele bisericii „Sfântul Visarion”",
+                  "text": "Die Überreste der alten St.-Visarion-Kirche in Blejoi.",
+                  "category": "historical",
+                  "coords": [
+                        26.026587,
+                        44.975377
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+                  "text": "Ein orthodoxes Gotteshaus, das den Heiligen Konstantin und Helena geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.021546,
+                        44.939008
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe” - Vechi",
+                  "text": "Eine historische orthodoxe Kirche, bekannt als die Alte St.-Georgs-Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        26.025322,
+                        44.937094
+                  ]
+            },
+            {
+                  "name": "Biserica Maica Precista",
+                  "text": "Eine bedeutende Kirche in der Region, bekannt für ihre Architektur und Geschichte.",
+                  "category": "religious",
+                  "coords": [
+                        26.030014,
+                        44.940086
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "Eine traditionelle orthodoxe Kirche in der Region Blejoi-Ploiești.",
+                  "category": "religious",
+                  "coords": [
+                        26.029518,
+                        44.943361
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beth Israel",
+                  "text": "Die Beth-Israel-Synagoge, ein religiöses und historisches Denkmal in Ploiești.",
+                  "category": "landmark",
+                  "coords": [
+                        26.026539,
+                        44.941949
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "Eine fürstliche Kirche, die ein wichtiges historisches Denkmal in der Gegend darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "Eine alte christliche Kirche in Blejoi, die dem Heiligen Nikolaus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Buna Vestire",
+                  "text": "Eine orthodoxe Kirche in Ploiești, die an das Fest der Verkündigung erinnert.",
+                  "category": "religious",
+                  "coords": [
+                        26.034417,
+                        44.937641
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "Die Neue St.-Nikolaus-Kirche, ein architektonisches Denkmal in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinţii Voievozi",
+                  "text": "Eine historische orthodoxe Kirche, die den Heiligen Erzengeln geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.029862,
+                        44.936784
+                  ]
+            },
+            {
+                  "name": "Piscina Dorobanțul",
+                  "text": "Piscina Dorobanțul ist ein Schwimmbad in Blejoi, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        26.050363,
+                        44.93596
+                  ]
+            },
+            {
+                  "name": "Piscină Complex La Nicole",
+                  "text": "Piscină Complex La Nicole ist ein Schwimmbad in Blejoi, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        26.027801,
+                        44.974955
+                  ]
+            },
+            {
+                  "name": "Piscina Laguna",
+                  "text": "Piscina Laguna ist ein Schwimmbad in Blejoi, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        26.04945,
+                        44.942603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul \"Ion Luca Caragiale\"",
+                  "text": "A nagy román drámaíró, Ion Luca Caragiale emlékének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.024196,
+                        44.939133
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nichita Stănescu\"",
+                  "text": "Nichita Stănescu költő tiszteletére alapított múzeum Blejoi környékén.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Petrolului",
+                  "text": "A Nemzeti Olajmúzeum, amely a romániai iparág történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.029127,
+                        44.939105
+                  ]
+            },
+            {
+                  "name": "Muzeul Omului - Muzeul Județean de Științele Naturii Prahova",
+                  "text": "Prahova megye természetrajzát bemutató múzeum Blejoi közelében.",
+                  "category": "museum",
+                  "coords": [
+                        26.022051,
+                        44.941719
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Arheologie Prahova",
+                  "text": "Regionális múzeum, amely Prahova megye történelmét és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.026966,
+                        44.939925
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Paul Constantinescu\"",
+                  "text": "A romániai Blejoiban található Muzeul Memorial \"Paul Constantinescu\" egy tartalmas múzeum, amely az azonos nevű zeneszerző életét és alkotásait mutatja be. A zene és a történelem szerelmesei olyan kiállításokat fedezhetnek fel, amelyek megőrzik kulturális örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        26.028542,
+                        44.940568
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor din Ploiești",
+                  "text": "Fontos kulturális központ és színházépület Blejoi közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018689,
+                        44.941673
+                  ]
+            },
+            {
+                  "name": "Filarmonica Paul Constantinescu",
+                  "text": "A Ploiești-i Filharmónia székhelye, Paul Constantinescu után elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        26.022517,
+                        44.93827
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Népszerű állatkert Blejoi környékén a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        26.05545,
+                        44.976708
+                  ]
+            },
+            {
+                  "name": "Teatrul Ancuța",
+                  "text": "Kulturális eseményeknek otthont adó színház Blejoi közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        26.024432,
+                        44.94826
+                  ]
+            },
+            {
+                  "name": "Teatrul pentru Copii “Ciufulici”",
+                  "text": "Gyermekelőadásokra és bábszínházra szakosodott teátrum a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025956,
+                        44.935569
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Bucov (Ploiești)",
+                  "text": "Bucovi kert, amely a helyi flórát és tudományos gyűjteményeket mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Clopotniţa - Monumentul Eroilor din 1916-1918",
+                  "text": "Harangtorony és emlékmű az első világháború hőseinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.019082,
+                        44.94317
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Casa de Târgoveț din secolele al XVIII-lea - al XIX-lea\"",
+                  "text": "Múzeum egy 18-19. századi történelmi kereskedőházban.",
+                  "category": "historical",
+                  "coords": [
+                        26.027388,
+                        44.938235
+                  ]
+            },
+            {
+                  "name": "Statuie Mihai Viteazul",
+                  "text": "Vitéz Mihály havasalföldi fejedelem tiszteletére állított szobor.",
+                  "category": "historical",
+                  "coords": [
+                        26.012175,
+                        44.947041
+                  ]
+            },
+            {
+                  "name": "Ruinele bisericii „Sfântul Visarion”",
+                  "text": "A régi Szent Visarion-templom romjai Blejoi településen.",
+                  "category": "historical",
+                  "coords": [
+                        26.026587,
+                        44.975377
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+                  "text": "Szent Konstantin és Heléna tiszteletére szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        26.021546,
+                        44.939008
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe” - Vechi",
+                  "text": "Történelmi ortodox templom, ismertebb nevén a Régi Szent György-templom.",
+                  "category": "religious",
+                  "coords": [
+                        26.025322,
+                        44.937094
+                  ]
+            },
+            {
+                  "name": "Biserica Maica Precista",
+                  "text": "A régió egyik jelentős temploma, amely építészetéről és történelméről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.030014,
+                        44.940086
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "Hagyományos ortodox templom Blejoi-Ploiești környékén.",
+                  "category": "religious",
+                  "coords": [
+                        26.029518,
+                        44.943361
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beth Israel",
+                  "text": "A Beth Israel zsinagóga, Ploiești vallási és történelmi műemléke.",
+                  "category": "landmark",
+                  "coords": [
+                        26.026539,
+                        44.941949
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "Fejedelmi templom, amely a környék fontos történelmi műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "Régi keresztény templom Blejoi-ban, Szent Miklós tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Buna Vestire",
+                  "text": "Ortodox templom Ploiești-ben, az Angyali üdvözlet emlékére.",
+                  "category": "religious",
+                  "coords": [
+                        26.034417,
+                        44.937641
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "Az Új Szent Miklós-templom, a régió egyik építészeti műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinţii Voievozi",
+                  "text": "Történelmi ortodox templom, a Szent Angyalok tiszteletére szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        26.029862,
+                        44.936784
+                  ]
+            },
+            {
+                  "name": "Piscina Dorobanțul",
+                  "text": "Piscina Dorobanțul egy úszómedence Blejoi városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.050363,
+                        44.93596
+                  ]
+            },
+            {
+                  "name": "Piscină Complex La Nicole",
+                  "text": "Piscină Complex La Nicole egy úszómedence Blejoi városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.027801,
+                        44.974955
+                  ]
+            },
+            {
+                  "name": "Piscina Laguna",
+                  "text": "Piscina Laguna egy úszómedence Blejoi városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.04945,
+                        44.942603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul \"Ion Luca Caragiale\"",
+                  "text": "Un muzeu dedicat marelui dramaturg român Ion Luca Caragiale.",
+                  "category": "museum",
+                  "coords": [
+                        26.024196,
+                        44.939133
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nichita Stănescu\"",
+                  "text": "Un muzeu memorial dedicat poetului Nichita Stănescu în zona Blejoi.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Petrolului",
+                  "text": "Muzeul Național al Petrolului, care prezintă istoria industriei în România.",
+                  "category": "museum",
+                  "coords": [
+                        26.029127,
+                        44.939105
+                  ]
+            },
+            {
+                  "name": "Muzeul Omului - Muzeul Județean de Științele Naturii Prahova",
+                  "text": "Muzeul de Științele Naturii al județului Prahova, situat în zona Blejoi.",
+                  "category": "museum",
+                  "coords": [
+                        26.022051,
+                        44.941719
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Arheologie Prahova",
+                  "text": "Muzeul Județean de Istorie și Arheologie Prahova din zona Blejoi.",
+                  "category": "museum",
+                  "coords": [
+                        26.026966,
+                        44.939925
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Paul Constantinescu\"",
+                  "text": "Situat în Blejoi, România, Muzeul Memorial \"Paul Constantinescu\" este un muzeu captivant, dedicat vieții și creațiilor compozitorului omonim. Iubitorii de muzică și istorie pot explora expoziții care păstrează contribuțiile sale culturale semnificative.",
+                  "category": "museum",
+                  "coords": [
+                        26.028542,
+                        44.940568
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor din Ploiești",
+                  "text": "Un important centru cultural și sală de spectacole din apropierea comunei Blejoi.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018689,
+                        44.941673
+                  ]
+            },
+            {
+                  "name": "Filarmonica Paul Constantinescu",
+                  "text": "Sediul Filarmonicii din Ploiești, care poartă numele lui Paul Constantinescu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.022517,
+                        44.93827
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "O grădină zoologică în zona Blejoi, o destinație populară pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        26.05545,
+                        44.976708
+                  ]
+            },
+            {
+                  "name": "Teatrul Ancuța",
+                  "text": "Un teatru situat în zona Blejoi ce oferă diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        26.024432,
+                        44.94826
+                  ]
+            },
+            {
+                  "name": "Teatrul pentru Copii “Ciufulici”",
+                  "text": "Un teatru specializat în spectacole pentru copii și teatru de păpuși.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025956,
+                        44.935569
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Bucov (Ploiești)",
+                  "text": "Grădina botanică din Bucov, ce prezintă flora locală și colecții științifice.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Clopotniţa - Monumentul Eroilor din 1916-1918",
+                  "text": "Un turn clopotniță și monument dedicat eroilor din Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        26.019082,
+                        44.94317
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Casa de Târgoveț din secolele al XVIII-lea - al XIX-lea\"",
+                  "text": "Un muzeu situat într-o casă de târgoveț din secolele XVIII-XIX.",
+                  "category": "historical",
+                  "coords": [
+                        26.027388,
+                        44.938235
+                  ]
+            },
+            {
+                  "name": "Statuie Mihai Viteazul",
+                  "text": "O statuie ridicată în cinstea domnitorului Mihai Viteazul.",
+                  "category": "historical",
+                  "coords": [
+                        26.012175,
+                        44.947041
+                  ]
+            },
+            {
+                  "name": "Ruinele bisericii „Sfântul Visarion”",
+                  "text": "Ruinele vechii biserici Sfântul Visarion din localitatea Blejoi.",
+                  "category": "historical",
+                  "coords": [
+                        26.026587,
+                        44.975377
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+                  "text": "Biserica ortodoxă dedicată Sfinților Împărați Constantin și Elena.",
+                  "category": "religious",
+                  "coords": [
+                        26.021546,
+                        44.939008
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe” - Vechi",
+                  "text": "Biserica ortodoxă istorică cunoscută sub numele de Sfântul Gheorghe - Vechi.",
+                  "category": "religious",
+                  "coords": [
+                        26.025322,
+                        44.937094
+                  ]
+            },
+            {
+                  "name": "Biserica Maica Precista",
+                  "text": "Biserica Maica Precistă, un lăcaș important cunoscut pentru istoria sa.",
+                  "category": "religious",
+                  "coords": [
+                        26.030014,
+                        44.940086
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "O biserică ortodoxă tradițională din zona Blejoi-Ploiești.",
+                  "category": "religious",
+                  "coords": [
+                        26.029518,
+                        44.943361
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beth Israel",
+                  "text": "Sinagoga Beth Israel, un monument religios și istoric din Ploiești.",
+                  "category": "landmark",
+                  "coords": [
+                        26.026539,
+                        44.941949
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "O biserică domnească ce reprezintă un important monument istoric local.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "O veche biserică creștină din Blejoi, dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Buna Vestire",
+                  "text": "O biserică ortodoxă din Ploiești ce poartă hramul Bunei Vestiri.",
+                  "category": "religious",
+                  "coords": [
+                        26.034417,
+                        44.937641
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "Biserica Sfântul Nicolae Nou, un monument arhitectural din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinţii Voievozi",
+                  "text": "O biserică ortodoxă istorică dedicată Sfinților Voievozi.",
+                  "category": "religious",
+                  "coords": [
+                        26.029862,
+                        44.936784
+                  ]
+            },
+            {
+                  "name": "Piscina Dorobanțul",
+                  "text": "Piscina Dorobanțul este o piscină din Blejoi ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.050363,
+                        44.93596
+                  ]
+            },
+            {
+                  "name": "Piscină Complex La Nicole",
+                  "text": "Piscină Complex La Nicole este o piscină din Blejoi ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.027801,
+                        44.974955
+                  ]
+            },
+            {
+                  "name": "Piscina Laguna",
+                  "text": "Piscina Laguna este o piscină din Blejoi ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.04945,
+                        44.942603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Ion Luca Caragiale\" Museum",
+                  "text": "A museum dedicated to the great Romanian playwright Ion Luca Caragiale.",
+                  "category": "museum",
+                  "coords": [
+                        26.024196,
+                        44.939133
+                  ]
+            },
+            {
+                  "name": "\"Nichita Stanescu\" Memorial Museum",
+                  "text": "A memorial museum dedicated to the poet Nichita Stănescu in the Blejoi area.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "National Museum of Oil",
+                  "text": "The National Museum of Oil, showcasing the history of the industry in Romania.",
+                  "category": "museum",
+                  "coords": [
+                        26.029127,
+                        44.939105
+                  ]
+            },
+            {
+                  "name": "Prahova County Natural Sciences Museum",
+                  "text": "The Prahova County Natural Sciences Museum, located in the Blejoi area.",
+                  "category": "museum",
+                  "coords": [
+                        26.022051,
+                        44.941719
+                  ]
+            },
+            {
+                  "name": "Prahova County Museum of History and Archaeology",
+                  "text": "The Prahova County Museum of History and Archaeology in the Blejoi area.",
+                  "category": "museum",
+                  "coords": [
+                        26.026966,
+                        44.939925
+                  ]
+            },
+            {
+                  "name": "\"Paul Constantinescu\" Memorial Museum",
+                  "text": "Found in Blejoi, Romania, the Muzeul Memorial \"Paul Constantinescu\" is an insightful museum dedicated to the life and creations of the eponymous composer. Music and history lovers can explore exhibits that preserve his significant cultural contributions.",
+                  "category": "museum",
+                  "coords": [
+                        26.028542,
+                        44.940568
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor din Ploiești",
+                  "text": "A significant cultural center and theater building near Blejoi.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018689,
+                        44.941673
+                  ]
+            },
+            {
+                  "name": "Filarmonica Paul Constantinescu",
+                  "text": "The home of the Ploiești Philharmonic, named after Paul Constantinescu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.022517,
+                        44.93827
+                  ]
+            },
+            {
+                  "name": "Zoological Garden",
+                  "text": "A zoological garden in the Blejoi area, a popular destination for visitors.",
+                  "category": "family",
+                  "coords": [
+                        26.05545,
+                        44.976708
+                  ]
+            },
+            {
+                  "name": "Ancuța Theatre",
+                  "text": "A theatre in the Blejoi area offering cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        26.024432,
+                        44.94826
+                  ]
+            },
+            {
+                  "name": "Teatrul pentru Copii “Ciufulici”",
+                  "text": "A specialized theatre for children's performances and puppet shows.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025956,
+                        44.935569
+                  ]
+            },
+            {
+                  "name": "Bucov (Ploieşti) Botanical Garden",
+                  "text": "The botanical garden in Bucov, showcasing local flora and scientific collections.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Clopotniţa - Monumentul Eroilor din 1916-1918",
+                  "text": "A bell tower and monument dedicated to the heroes of World War I.",
+                  "category": "historical",
+                  "coords": [
+                        26.019082,
+                        44.94317
+                  ]
+            },
+            {
+                  "name": "\"Hagi Prodan\" Urban House Museum",
+                  "text": "A museum set in a historic merchant's house from the 18th-19th centuries.",
+                  "category": "historical",
+                  "coords": [
+                        26.027388,
+                        44.938235
+                  ]
+            },
+            {
+                  "name": "Statuie Mihai Viteazul",
+                  "text": "A statue erected in honor of the ruler Michael the Brave.",
+                  "category": "historical",
+                  "coords": [
+                        26.012175,
+                        44.947041
+                  ]
+            },
+            {
+                  "name": "Ruinele bisericii „Sfântul Visarion”",
+                  "text": "The ruins of the old Saint Visarion Church in Blejoi.",
+                  "category": "historical",
+                  "coords": [
+                        26.026587,
+                        44.975377
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+                  "text": "An Orthodox place of worship dedicated to Saints Constantine and Helen.",
+                  "category": "religious",
+                  "coords": [
+                        26.021546,
+                        44.939008
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe” - Vechi",
+                  "text": "A historic Orthodox church known as the Old Saint George Church.",
+                  "category": "religious",
+                  "coords": [
+                        26.025322,
+                        44.937094
+                  ]
+            },
+            {
+                  "name": "Biserica Maica Precista",
+                  "text": "The Maica Precista Church, a significant place of worship known for its history.",
+                  "category": "religious",
+                  "coords": [
+                        26.030014,
+                        44.940086
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "A traditional Orthodox church in the Blejoi-Ploiești area.",
+                  "category": "religious",
+                  "coords": [
+                        26.029518,
+                        44.943361
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beth Israel",
+                  "text": "The Beth Israel Synagogue, a religious and historical monument in Ploiești.",
+                  "category": "landmark",
+                  "coords": [
+                        26.026539,
+                        44.941949
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "A princely church representing an important local historical monument.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "An old Christian church in Blejoi dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Buna Vestire",
+                  "text": "An Orthodox church in Ploiești dedicated to the Annunciation.",
+                  "category": "religious",
+                  "coords": [
+                        26.034417,
+                        44.937641
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "The New Saint Nicholas Church, an architectural monument in the area.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinţii Voievozi",
+                  "text": "A historic Orthodox church dedicated to the Holy Archangels.",
+                  "category": "religious",
+                  "coords": [
+                        26.029862,
+                        44.936784
+                  ]
+            },
+            {
+                  "name": "Piscina Dorobanțul",
+                  "text": "Piscina Dorobanțul is a swimming pool in Blejoi ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        26.050363,
+                        44.93596
+                  ]
+            },
+            {
+                  "name": "Piscină Complex La Nicole",
+                  "text": "Piscină Complex La Nicole is a swimming pool in Blejoi ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        26.027801,
+                        44.974955
+                  ]
+            },
+            {
+                  "name": "Piscina Laguna",
+                  "text": "Piscina Laguna is a swimming pool in Blejoi ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        26.04945,
+                        44.942603
+                  ]
+            }
+      ]
+}
   },
   {
     id: "romania-dumbravesti-cities-v2", population: 711,
@@ -11703,6 +14289,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.052167,
                         44.535132
                   ]
+            },
+            {
+                  "name": "La Plage Club",
+                  "text": "La Plage Club ist ein Wasserpark in Otopeni, der Spaß im Wasser für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.040844,
+                        44.528644
+                  ]
             }
       ],
       "hu": [
@@ -11805,6 +14400,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.052167,
                         44.535132
+                  ]
+            },
+            {
+                  "name": "La Plage Club",
+                  "text": "La Plage Club egy vízi park Otopeni területén, amely szórakoztató vízi tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        26.040844,
+                        44.528644
                   ]
             }
       ],
@@ -11909,6 +14513,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.052167,
                         44.535132
                   ]
+            },
+            {
+                  "name": "La Plage Club",
+                  "text": "La Plage Club este un parc acvatic din Otopeni care oferă activități distractive în apă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        26.040844,
+                        44.528644
+                  ]
             }
       ],
       "en": [
@@ -12011,6 +14624,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.052167,
                         44.535132
+                  ]
+            },
+            {
+                  "name": "La Plage Club",
+                  "text": "La Plage Club is a water park in Otopeni providing fun water activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        26.040844,
+                        44.528644
                   ]
             }
       ]
@@ -12136,6 +14758,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.171638,
                         44.444143
                   ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "Ein Wasserpark in Pantelimon, der Spaß für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "Ein Schwimmbad in Pantelimon zur Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        26.159568,
+                        44.417735
+                  ]
             }
       ],
       "hu": [
@@ -12212,6 +14852,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.171638,
                         44.444143
+                  ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "Vízi park Pantelimonban, amely minden korosztály számára kikapcsolódást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "Egy úszómedence Pantelimonban családi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.159568,
+                        44.417735
                   ]
             }
       ],
@@ -12290,6 +14948,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.171638,
                         44.444143
                   ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "Un parc acvatic în Pantelimon, oferind distracție pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "O piscină în Pantelimon pentru recreere în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.159568,
+                        44.417735
+                  ]
             }
       ],
       "en": [
@@ -12366,6 +15042,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.171638,
                         44.444143
+                  ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "A water park in Pantelimon, offering fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "A swimming pool in Pantelimon for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        26.159568,
+                        44.417735
                   ]
             }
       ]
@@ -12501,6 +15195,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.17601,
                         44.380259
                   ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "Der Wasserpark Cara - Titan bietet Rutschen und Wasservergnügen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
             }
       ],
       "hu": [
@@ -12587,6 +15290,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.17601,
                         44.380259
+                  ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "A Cara - Titan vízi park csúszdákat és vízi élményeket kínál családok számára.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
                   ]
             }
       ],
@@ -12675,6 +15387,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.17601,
                         44.380259
                   ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "Parcul acvatic Cara - Titan oferă tobogane și distracție acvatică pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
             }
       ],
       "en": [
@@ -12761,6 +15482,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.17601,
                         44.380259
+                  ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "The Cara - Titan water park offers slides and water fun for families.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
                   ]
             }
       ]
@@ -13051,6 +15781,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.135573,
                         44.464579
                   ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Bazin de înot ist ein Schwimmbad in Voluntari, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
             }
       ],
       "hu": [
@@ -13292,6 +16031,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.135573,
                         44.464579
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Bazin de înot egy úszómedence Voluntari városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
                   ]
             }
       ],
@@ -13535,6 +16283,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.135573,
                         44.464579
                   ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Bazin de înot este o piscină din Voluntari ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
+                  ]
             }
       ],
       "en": [
@@ -13776,6 +16533,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.135573,
                         44.464579
+                  ]
+            },
+            {
+                  "name": "Bazin de înot",
+                  "text": "Bazin de înot is a swimming pool in Voluntari ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        26.134851,
+                        44.454321
                   ]
             }
       ]
@@ -21380,6 +24146,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.175855,
                         44.416153
                   ]
+            },
+            {
+                  "name": "Wellness & Pool BabySpa",
+                  "text": "Wellness & Pool BabySpa ist ein Wasserpark in Glina, der Spaß im Wasser für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.131283,
+                        44.412851
+                  ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "Strand Cara - Titan ist ein Wasserpark in Glina, der Spaß im Wasser für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
+            },
+            {
+                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
+                  "text": "Ștrandul Văcărești - Ștrandul Copiilor ist ein Wasserpark in Glina, der Spaß im Wasser für alle Altersgruppen bietet.",
+                  "category": "family",
+                  "coords": [
+                        26.115851,
+                        44.402476
+                  ]
+            },
+            {
+                  "name": "Orășelul Copiilor",
+                  "text": "Children's Town ist ein Freizeitpark in Glina mit verschiedenen Attraktionen für Kinder und Familien.",
+                  "category": "family",
+                  "coords": [
+                        26.109323,
+                        44.401186
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "Bazin de Înot Dante Aligheri ist ein Schwimmbad in Glina, ideal für ein erfrischendes Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        26.159568,
+                        44.417735
+                  ]
             }
       ],
       "hu": [
@@ -21517,6 +24328,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.175855,
                         44.416153
+                  ]
+            },
+            {
+                  "name": "Wellness & Pool BabySpa",
+                  "text": "Wellness & Pool BabySpa egy vízi park Glina területén, amely szórakoztató vízi tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        26.131283,
+                        44.412851
+                  ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "Strand Cara - Titan egy vízi park Glina területén, amely szórakoztató vízi tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
+            },
+            {
+                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
+                  "text": "Ștrandul Văcărești - Ștrandul Copiilor egy vízi park Glina területén, amely szórakoztató vízi tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        26.115851,
+                        44.402476
+                  ]
+            },
+            {
+                  "name": "Orășelul Copiilor",
+                  "text": "Children's Town egy vidámpark Glina városában, különféle látnivalókkal gyerekek és családok számára.",
+                  "category": "family",
+                  "coords": [
+                        26.109323,
+                        44.401186
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "Bazin de Înot Dante Aligheri egy úszómedence Glina városában, amely ideális egy frissítő családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        26.159568,
+                        44.417735
                   ]
             }
       ],
@@ -21656,6 +24512,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.175855,
                         44.416153
                   ]
+            },
+            {
+                  "name": "Wellness & Pool BabySpa",
+                  "text": "Wellness & Pool BabySpa este un parc acvatic din Glina care oferă activități distractive în apă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        26.131283,
+                        44.412851
+                  ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "Strand Cara - Titan este un parc acvatic din Glina care oferă activități distractive în apă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
+            },
+            {
+                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
+                  "text": "Ștrandul Văcărești - Ștrandul Copiilor este un parc acvatic din Glina care oferă activități distractive în apă pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        26.115851,
+                        44.402476
+                  ]
+            },
+            {
+                  "name": "Orășelul Copiilor",
+                  "text": "Children's Town este un parc tematic din Glina cu diverse atracții pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        26.109323,
+                        44.401186
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "Bazin de Înot Dante Aligheri este o piscină din Glina ideală pentru o baie revigorantă în familie.",
+                  "category": "family",
+                  "coords": [
+                        26.159568,
+                        44.417735
+                  ]
             }
       ],
       "en": [
@@ -21793,6 +24694,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.175855,
                         44.416153
+                  ]
+            },
+            {
+                  "name": "Wellness & Pool BabySpa",
+                  "text": "Wellness & Pool BabySpa is a water park in Glina providing fun water activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        26.131283,
+                        44.412851
+                  ]
+            },
+            {
+                  "name": "Strand Cara - Titan",
+                  "text": "Strand Cara - Titan is a water park in Glina providing fun water activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        26.1624,
+                        44.417212
+                  ]
+            },
+            {
+                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
+                  "text": "Ștrandul Văcărești - Ștrandul Copiilor is a water park in Glina providing fun water activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        26.115851,
+                        44.402476
+                  ]
+            },
+            {
+                  "name": "Children's Town",
+                  "text": "Children's Town is a theme park in Glina with various attractions for children and families.",
+                  "category": "family",
+                  "coords": [
+                        26.109323,
+                        44.401186
+                  ]
+            },
+            {
+                  "name": "Bazin de Înot Dante Aligheri",
+                  "text": "Bazin de Înot Dante Aligheri is a swimming pool in Glina ideal for a refreshing family swim.",
+                  "category": "family",
+                  "coords": [
+                        26.159568,
+                        44.417735
                   ]
             }
       ]

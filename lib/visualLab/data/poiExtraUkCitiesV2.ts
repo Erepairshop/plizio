@@ -20257,6 +20257,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.138015,
                         52.62073
                   ]
+            },
+            {
+                  "name": "Leicester Abbey",
+                  "text": "Die Abtei von Leicester, heute eine Ruine im Abbey Park, war einst eines der reichsten Augustinerklöster Englands. Sie ist als Sterbeort von Kardinal Wolsey bekannt und bietet eine malerische historische Kulisse.",
+                  "category": "historical",
+                  "coords": [
+                        -1.136995,
+                        52.648691
+                  ]
+            },
+            {
+                  "name": "Raw Dykes",
+                  "text": "Raw Dykes ist ein rätselhaftes antikes Erdwerk in Leicester, dessen Ursprung vermutlich in der Römerzeit liegt. Es wird oft mit der Wasserversorgung der antiken Stadt in Verbindung gebracht.",
+                  "category": "historical",
+                  "coords": [
+                        -1.139352,
+                        52.61807
+                  ]
+            },
+            {
+                  "name": "Arch of Remembrance",
+                  "text": "Der Arch of Remembrance ist ein beeindruckendes Kriegsdenkmal im Victoria Park von Leicester, entworfen von Sir Edwin Lutyens. Er erinnert an die Gefallenen des Ersten Weltkriegs und ist ein Ort der Stille.",
+                  "category": "historical",
+                  "coords": [
+                        -1.121505,
+                        52.623429
+                  ]
+            },
+            {
+                  "name": "Peepul Centre",
+                  "text": "Das Peepul Centre ist ein multifunktionales Kunst- und Gemeinschaftszentrum in Leicester mit einem modernen Theater. Es bietet eine Plattform für kulturelle Vielfalt und beherbergt verschiedene soziale Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.121952,
+                        52.645046
+                  ]
+            },
+            {
+                  "name": "All Saint's",
+                  "text": "Die All Saints Church ist eine historische Kirche in Leicester mit Wurzeln im 12. Jahrhundert. Obwohl sie heute nicht mehr für regelmäßige Gottesdienste genutzt wird, bleibt sie ein bedeutendes Baudenkmal.",
+                  "category": "religious",
+                  "coords": [
+                        -1.140223,
+                        52.638214
+                  ]
+            },
+            {
+                  "name": "St. Margaret",
+                  "text": "St Margaret's Church ist eine beeindruckende mittelalterliche Kirche in Leicester, die durch ihren hohen Turm auffällt. Sie beherbergt feine Holzschnitzereien und historische Grabmäler.",
+                  "category": "religious",
+                  "coords": [
+                        -1.13616,
+                        52.640415
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Die Holy Trinity Church ist eine lebendige anglikanische Kirche im Stadtzentrum von Leicester. Sie ist bekannt für ihre moderne Herangehensweise an den Gottesdienst und ihre starke Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -1.130835,
+                        52.628472
+                  ]
+            },
+            {
+                  "name": "Shree Jalaram Prarthana – Mandir",
+                  "text": "Der Shree Jalaram Prarthana Mandir ist ein bedeutender Hindu-Tempel in Leicester, der Shree Jalaram Bapa gewidmet ist. Er ist ein Zentrum für Spiritualität, Kultur und soziales Engagement der lokalen Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -1.149623,
+                        52.628636
+                  ]
+            },
+            {
+                  "name": "St Peter",
+                  "text": "St Peter's Church ist ein markantes religiöses Bauwerk in Leicester, das der lokalen Gemeinde dient. Die Kirche ist für ihre Architektur und ihre Rolle im sozialen Leben des Viertels bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.116414,
+                        52.630023
+                  ]
+            },
+            {
+                  "name": "St Saviour",
+                  "text": "St Saviour's Church ist eine beeindruckende viktorianische Kirche in Leicester, entworfen von Sir George Gilbert Scott. Sie ist ein wichtiges Wahrzeichen und bekannt für ihre prachtvolle Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        -1.109015,
+                        52.638106
+                  ]
+            },
+            {
+                  "name": "Leicester Secular Society",
+                  "text": "Die Leicester Secular Society ist in der historischen Secular Hall untergebracht, einem einzigartigen Gebäude mit Statuen berühmter Denker an der Fassade. Sie ist bekannt als die älteste durchgehend bestehende säkulare Gesellschaft der Welt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.128795,
+                        52.636296
+                  ]
+            },
+            {
+                  "name": "Baitul Ikram Mosque",
+                  "text": "Die Baitul Ikram Moschee ist ein bedeutendes Gotteshaus der Ahmadiyya-Gemeinschaft in Leicester. Besucher können die moderne Architektur bewundern und mehr über die lokale Religionsgemeinschaft erfahren.",
+                  "category": "religious",
+                  "coords": [
+                        -1.119287,
+                        52.614513
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Park",
+                  "text": "Der Nelson Mandela Park ist eine beliebte Grünanlage im Zentrum von Leicester, die Freizeit- und Sportmöglichkeiten bietet. Er liegt verkehrsgünstig in der Nähe des Stadtzentrums und großer Sportstadien.",
+                  "category": "park",
+                  "coords": [
+                        -1.131066,
+                        52.625806
+                  ]
+            },
+            {
+                  "name": "Humberstone Park",
+                  "text": "Der Humberstone Park ist eine weitläufige Parkanlage in Leicester mit Spielbereichen und Naturschutzgebieten. Er ist ein idealer Ort für Spaziergänge und bietet eine ruhige Umgebung für die Anwohner.",
+                  "category": "park",
+                  "coords": [
+                        -1.084069,
+                        52.639963
+                  ]
+            },
+            {
+                  "name": "Western Park",
+                  "text": "Der Western Park ist die größte Grünanlage in Leicester und bekannt für seine weiten Rasenflächen und Waldgebiete. Besucher können die Wanderwege nutzen und die vielfältige Flora und Fauna des Parks erkunden.",
+                  "category": "park",
+                  "coords": [
+                        -1.179616,
+                        52.637334
+                  ]
+            },
+            {
+                  "name": "Museum of the Royal Leicestershire Regiment",
+                  "text": "Das Museum des Royal Leicestershire Regiments zeigt die Geschichte und Uniformen der örtlichen Infanterie. Es bietet interessante Einblicke in das militärische Erbe der Region durch verschiedene Ausstellungsstücke.",
+                  "category": "museum",
+                  "coords": [
+                        -1.138899,
+                        52.631766
+                  ]
+            },
+            {
+                  "name": "Abbey Pumping Station",
+                  "text": "Die Abbey Pumping Station ist ein Wissenschafts- und Technikmuseum, das in einem historischen Pumpwerk untergebracht ist. Besucher können riesige Dampfmaschinen und Exponate zur Stadtgeschichte besichtigen.",
+                  "category": "museum",
+                  "coords": [
+                        -1.130777,
+                        52.654764
+                  ]
+            },
+            {
+                  "name": "The Little Theatre",
+                  "text": "Das Little Theatre in Leicester ist ein charmantes Spielhaus, das eine Vielzahl von Laien- und Profiproduktionen zeigt. Es ist bekannt für seine intime Atmosphäre und sein vielfältiges Unterhaltungsprogramm.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.129102,
+                        52.632096
+                  ]
+            },
+            {
+                  "name": "Haymarket Theatre",
+                  "text": "Das Haymarket Theatre ist eine bekannte Spielstätte im Stadtzentrum von Leicester, die für ihr modernes Design bekannt ist. Es bietet eine Bühne für Musicals, Theaterstücke und verschiedene Live-Events.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.131815,
+                        52.637548
+                  ]
             }
       ],
       "hu": [
@@ -20650,6 +20821,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.138015,
                         52.62073
+                  ]
+            },
+            {
+                  "name": "Leicester Abbey",
+                  "text": "A leicesteri apátság, amely ma az Abbey Parkban található rom, egykor Anglia egyik leggazdagabb ágoston-rendi kolostora volt. Wolsey bíboros halálhelyeként ismert, és festői történelmi környezetet kínál.",
+                  "category": "historical",
+                  "coords": [
+                        -1.136995,
+                        52.648691
+                  ]
+            },
+            {
+                  "name": "Raw Dykes",
+                  "text": "A Raw Dykes egy rejtélyes ókori földmű Leicesterben, amelynek eredete feltehetően a római korig nyúlik vissza. Gyakran hozzák összefüggésbe az ókori város vízellátásával.",
+                  "category": "historical",
+                  "coords": [
+                        -1.139352,
+                        52.61807
+                  ]
+            },
+            {
+                  "name": "Arch of Remembrance",
+                  "text": "Az Arch of Remembrance egy lenyűgöző háborús emlékmű a leicesteri Victoria Parkban, amelyet Sir Edwin Lutyens tervezett. Az első világháború áldozatainak állít emléket, és a nyugalom helye.",
+                  "category": "historical",
+                  "coords": [
+                        -1.121505,
+                        52.623429
+                  ]
+            },
+            {
+                  "name": "Peepul Centre",
+                  "text": "A Peepul Centre egy többfunkciós művészeti és közösségi központ Leicesterben, modern színházzal. A kulturális sokszínűség platformja, és számos közösségi tevékenységnek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.121952,
+                        52.645046
+                  ]
+            },
+            {
+                  "name": "All Saint's",
+                  "text": "A Mindenszentek temploma egy történelmi templom Leicesterben, amelynek gyökerei a 12. századig nyúlnak vissza. Bár ma már nem tartanak benne rendszeres istentiszteleteket, jelentős műemlék maradt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.140223,
+                        52.638214
+                  ]
+            },
+            {
+                  "name": "St. Margaret",
+                  "text": "A Szent Margit-templom egy lenyűgöző középkori templom Leicesterben, amely magas tornyáról ismerhető fel. Finom fafaragásoknak és történelmi síremlékeknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -1.13616,
+                        52.640415
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "A Szentháromság-templom egy élénk anglikán templom Leicester városközpontjában. Az istentiszteletek modern megközelítéséről és erős közösségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -1.130835,
+                        52.628472
+                  ]
+            },
+            {
+                  "name": "Shree Jalaram Prarthana – Mandir",
+                  "text": "A Shree Jalaram Prarthana Mandir egy jelentős hindu templom Leicesterben, amelyet Shree Jalaram Bapának szenteltek. A helyi közösség spirituális, kulturális és szociális központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -1.149623,
+                        52.628636
+                  ]
+            },
+            {
+                  "name": "St Peter",
+                  "text": "A Szent Péter-templom egy meghatározó vallási épület Leicesterben, amely a helyi közösséget szolgálja. A templom építészetéről és a negyed társadalmi életében betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -1.116414,
+                        52.630023
+                  ]
+            },
+            {
+                  "name": "St Saviour",
+                  "text": "A Szent Üdvözítő-templom egy lenyűgöző viktoriánus templom Leicesterben, amelyet Sir George Gilbert Scott tervezett. Fontos jelkép, és pompás belső kialakításáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -1.109015,
+                        52.638106
+                  ]
+            },
+            {
+                  "name": "Leicester Secular Society",
+                  "text": "A Leicester Secular Society a történelmi Secular Hall-ban működik, amely egy egyedülálló épület híres gondolkodók szobraival a homlokzatán. A világ legrégebbi, folyamatosan működő szekuláris társaságaként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -1.128795,
+                        52.636296
+                  ]
+            },
+            {
+                  "name": "Baitul Ikram Mosque",
+                  "text": "A Baitul Ikram mecset az ahmadijja muszlim közösség kiemelkedő imaháza Leicesterben. A látogatók megcsodálhatják a modern építészetet és megismerhetik a helyi vallási életet.",
+                  "category": "religious",
+                  "coords": [
+                        -1.119287,
+                        52.614513
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Park",
+                  "text": "A Nelson Mandela Park egy népszerű zöldterület Leicester központjában, amely kikapcsolódási és sportolási lehetőségeket kínál. Kényelmesen, a városközpont és a nagyobb sportstadionok közelében helyezkedik el.",
+                  "category": "park",
+                  "coords": [
+                        -1.131066,
+                        52.625806
+                  ]
+            },
+            {
+                  "name": "Humberstone Park",
+                  "text": "A Humberstone Park egy kiterjedt park Leicesterben, játszóterekkel és természetvédelmi területekkel. Ideális hely sétákhoz, és nyugodt környezetet biztosít a helyi lakosok számára.",
+                  "category": "park",
+                  "coords": [
+                        -1.084069,
+                        52.639963
+                  ]
+            },
+            {
+                  "name": "Western Park",
+                  "text": "A Western Park Leicester legnagyobb zöldterülete, amely tágas gyepfelületeiről és erdős részeiről ismert. A látogatók élvezhetik a sétautakat és felfedezhetik a park változatos növény- és állatvilágát.",
+                  "category": "park",
+                  "coords": [
+                        -1.179616,
+                        52.637334
+                  ]
+            },
+            {
+                  "name": "Museum of the Royal Leicestershire Regiment",
+                  "text": "A Royal Leicestershire Regiment múzeuma a helyi gyalogság történetét és egyenruháit mutatja be. Érdekes betekintést nyújt a régió katonai örökségébe különféle kiállítási tárgyakon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        -1.138899,
+                        52.631766
+                  ]
+            },
+            {
+                  "name": "Abbey Pumping Station",
+                  "text": "Az Abbey Pumping Station egy tudományos és technológiai múzeum, amely egy történelmi szivattyútelepen kapott helyet. A látogatók hatalmas gőzgépeket és a város történetéhez kapcsolódó tárgyakat tekinthetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        -1.130777,
+                        52.654764
+                  ]
+            },
+            {
+                  "name": "The Little Theatre",
+                  "text": "A leicesteri Little Theatre egy bájos színház, amely amatőr és professzionális előadások széles választékát mutatja be. Meghitt hangulatáról és változatos szórakoztató programjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.129102,
+                        52.632096
+                  ]
+            },
+            {
+                  "name": "Haymarket Theatre",
+                  "text": "A Haymarket Theatre egy ismert színház Leicester városközpontjában, amely modern kialakításáról híres. Színpadot biztosít musicaleknek, színdaraboknak és különféle élő eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.131815,
+                        52.637548
                   ]
             }
       ],
@@ -21045,6 +21387,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.138015,
                         52.62073
                   ]
+            },
+            {
+                  "name": "Leicester Abbey",
+                  "text": "Abația din Leicester, acum o ruină situată în Parcul Abbey, a fost cândva una dintre cele mai bogate mănăstiri augustiniene din Anglia. Este cunoscută ca locul unde a murit cardinalul Wolsey și oferă un cadru istoric pitoresc.",
+                  "category": "historical",
+                  "coords": [
+                        -1.136995,
+                        52.648691
+                  ]
+            },
+            {
+                  "name": "Raw Dykes",
+                  "text": "Raw Dykes este un terasament antic enigmatic din Leicester, a cărui origine datează probabil din perioada romană. Este adesea asociat cu alimentarea cu apă a orașului antic.",
+                  "category": "historical",
+                  "coords": [
+                        -1.139352,
+                        52.61807
+                  ]
+            },
+            {
+                  "name": "Arch of Remembrance",
+                  "text": "Arcul de Comemorare este un monument de război impresionant din Parcul Victoria din Leicester, proiectat de Sir Edwin Lutyens. Onorează victimele Primului Război Mondial și este un loc de liniște.",
+                  "category": "historical",
+                  "coords": [
+                        -1.121505,
+                        52.623429
+                  ]
+            },
+            {
+                  "name": "Peepul Centre",
+                  "text": "Centrul Peepul este un centru multifuncțional de artă și comunitate din Leicester, cu un teatru modern. Oferă o platformă pentru diversitatea culturală și găzduiește diverse activități sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.121952,
+                        52.645046
+                  ]
+            },
+            {
+                  "name": "All Saint's",
+                  "text": "Biserica Toți Sfinții este o biserică istorică din Leicester cu rădăcini în secolul al XII-lea. Deși astăzi nu mai este folosită pentru servicii religioase regulate, rămâne un monument arhitectural important.",
+                  "category": "religious",
+                  "coords": [
+                        -1.140223,
+                        52.638214
+                  ]
+            },
+            {
+                  "name": "St. Margaret",
+                  "text": "Biserica Sf. Margareta este o biserică medievală impresionantă din Leicester, remarcabilă prin turnul său înalt. Găzduiește sculpturi în lemn fine și morminte istorice.",
+                  "category": "religious",
+                  "coords": [
+                        -1.13616,
+                        52.640415
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Biserica Sfânta Treime este o biserică anglicană vibrantă situată în centrul orașului Leicester. Este cunoscută pentru abordarea sa modernă a serviciilor religioase și comunitatea sa puternică.",
+                  "category": "religious",
+                  "coords": [
+                        -1.130835,
+                        52.628472
+                  ]
+            },
+            {
+                  "name": "Shree Jalaram Prarthana – Mandir",
+                  "text": "Shree Jalaram Prarthana Mandir este un templu hindus important din Leicester, dedicat lui Shree Jalaram Bapa. Este un centru pentru spiritualitate, cultură și implicare socială a comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        -1.149623,
+                        52.628636
+                  ]
+            },
+            {
+                  "name": "St Peter",
+                  "text": "Biserica Sf. Petru este un edificiu religios distinctiv din Leicester, care deservește comunitatea locală. Biserica este cunoscută pentru arhitectura sa și rolul său în viața socială a cartierului.",
+                  "category": "religious",
+                  "coords": [
+                        -1.116414,
+                        52.630023
+                  ]
+            },
+            {
+                  "name": "St Saviour",
+                  "text": "Biserica Sf. Mântuitor este o biserică victoriană impresionantă din Leicester, proiectată de Sir George Gilbert Scott. Este un simbol important și este cunoscută pentru interiorul său splendid.",
+                  "category": "religious",
+                  "coords": [
+                        -1.109015,
+                        52.638106
+                  ]
+            },
+            {
+                  "name": "Leicester Secular Society",
+                  "text": "Societatea Seculară din Leicester are sediul în Secular Hall, o clădire istorică unică cu statui ale unor gânditori faimoși pe fațadă. Este cunoscută ca fiind cea mai veche societate seculară din lume cu activitate continuă.",
+                  "category": "religious",
+                  "coords": [
+                        -1.128795,
+                        52.636296
+                  ]
+            },
+            {
+                  "name": "Baitul Ikram Mosque",
+                  "text": "Moscheea Baitul Ikram este un lăcaș de cult proeminent pentru comunitatea musulmană Ahmadiyya din Leicester. Vizitatorii pot admira arhitectura modernă și pot afla mai multe despre comunitatea religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        -1.119287,
+                        52.614513
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Park",
+                  "text": "Parcul Nelson Mandela este un spațiu verde popular în centrul orașului Leicester, oferind facilități de recreere și sport. Este situat convenabil în apropierea centrului orașului și a marilor stadioane sportive.",
+                  "category": "park",
+                  "coords": [
+                        -1.131066,
+                        52.625806
+                  ]
+            },
+            {
+                  "name": "Humberstone Park",
+                  "text": "Parcul Humberstone este un parc vast din Leicester, cu zone de joacă și rezervații naturale. Este un loc ideal pentru plimbări și oferă un mediu liniștit pentru locuitorii din zonă.",
+                  "category": "park",
+                  "coords": [
+                        -1.084069,
+                        52.639963
+                  ]
+            },
+            {
+                  "name": "Western Park",
+                  "text": "Parcul Western este cel mai mare spațiu verde din Leicester, cunoscut pentru peluzele sale vaste și zonele împădurite. Vizitatorii se pot bucura de traseele de plimbare și pot explora flora și fauna diversă a parcului.",
+                  "category": "park",
+                  "coords": [
+                        -1.179616,
+                        52.637334
+                  ]
+            },
+            {
+                  "name": "Museum of the Royal Leicestershire Regiment",
+                  "text": "Muzeul Regimentului Royal Leicestershire prezintă istoria și uniformele infanteriei locale. Oferă perspective interesante asupra moștenirii militare a regiunii prin intermediul diverselor exponate.",
+                  "category": "museum",
+                  "coords": [
+                        -1.138899,
+                        52.631766
+                  ]
+            },
+            {
+                  "name": "Abbey Pumping Station",
+                  "text": "Stația de Pompare Abbey este un muzeu de știință și tehnologie găzduit într-o stație istorică de pompare. Vizitatorii pot vedea motoare uriașe cu abur și exponate legate de istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -1.130777,
+                        52.654764
+                  ]
+            },
+            {
+                  "name": "The Little Theatre",
+                  "text": "Micul Teatru din Leicester este o sală de spectacole fermecătoare care prezintă o varietate de producții de amatori și profesioniști. Este cunoscut pentru atmosfera sa intimă și programul divers de divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.129102,
+                        52.632096
+                  ]
+            },
+            {
+                  "name": "Haymarket Theatre",
+                  "text": "Teatrul Haymarket este o locație binecunoscută în centrul orașului Leicester, celebră pentru designul său modern. Acesta oferă o scenă pentru musicaluri, piese de teatru și diverse evenimente live.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.131815,
+                        52.637548
+                  ]
             }
       ],
       "en": [
@@ -21438,6 +21951,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.138015,
                         52.62073
+                  ]
+            },
+            {
+                  "name": "Leicester Abbey",
+                  "text": "Leicester Abbey, now ruins within Abbey Park, was once one of the wealthiest Augustinian monasteries in England. It is known as the place where Cardinal Wolsey died and offers a scenic historic setting.",
+                  "category": "historical",
+                  "coords": [
+                        -1.136995,
+                        52.648691
+                  ]
+            },
+            {
+                  "name": "Raw Dykes",
+                  "text": "Raw Dykes is an enigmatic ancient earthwork in Leicester, believed to date back to Roman times. It is often associated with the water supply system for the ancient city.",
+                  "category": "historical",
+                  "coords": [
+                        -1.139352,
+                        52.61807
+                  ]
+            },
+            {
+                  "name": "Arch of Remembrance",
+                  "text": "The Arch of Remembrance is a striking war memorial in Leicester's Victoria Park, designed by Sir Edwin Lutyens. It commemorates the fallen of World War I and provides a place for reflection.",
+                  "category": "historical",
+                  "coords": [
+                        -1.121505,
+                        52.623429
+                  ]
+            },
+            {
+                  "name": "Peepul Centre",
+                  "text": "The Peepul Centre is a multi-purpose arts and community hub in Leicester featuring a modern theatre. It serves as a platform for cultural diversity and hosts various social and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.121952,
+                        52.645046
+                  ]
+            },
+            {
+                  "name": "All Saint's",
+                  "text": "All Saints Church is a historic church in Leicester with origins dating back to the 12th century. Although no longer used for regular services, it remains a significant architectural landmark.",
+                  "category": "religious",
+                  "coords": [
+                        -1.140223,
+                        52.638214
+                  ]
+            },
+            {
+                  "name": "St. Margaret",
+                  "text": "St Margaret's Church is an impressive medieval church in Leicester, notable for its tall tower. It contains fine woodwork and historic monuments within its spacious interior.",
+                  "category": "religious",
+                  "coords": [
+                        -1.13616,
+                        52.640415
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Holy Trinity Church is a vibrant Anglican church located in Leicester city centre. It is known for its modern approach to worship and its active role in the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -1.130835,
+                        52.628472
+                  ]
+            },
+            {
+                  "name": "Shree Jalaram Prarthana – Mandir",
+                  "text": "Shree Jalaram Prarthana Mandir is a significant Hindu temple in Leicester dedicated to Shree Jalaram Bapa. it serves as a hub for spirituality, culture, and community service.",
+                  "category": "religious",
+                  "coords": [
+                        -1.149623,
+                        52.628636
+                  ]
+            },
+            {
+                  "name": "St Peter",
+                  "text": "St Peter's Church is a prominent religious building in Leicester serving the local congregation. The church is noted for its architecture and its active involvement in the district's social life.",
+                  "category": "religious",
+                  "coords": [
+                        -1.116414,
+                        52.630023
+                  ]
+            },
+            {
+                  "name": "St Saviour",
+                  "text": "St Saviour's Church is an impressive Victorian church in Leicester designed by Sir George Gilbert Scott. It is a major local landmark known for its grand scale and ornate interior features.",
+                  "category": "religious",
+                  "coords": [
+                        -1.109015,
+                        52.638106
+                  ]
+            },
+            {
+                  "name": "Leicester Secular Society",
+                  "text": "The Leicester Secular Society is based in the historic Secular Hall, a unique building featuring busts of famous thinkers on its facade. It is known as the world's oldest continuously active secular society.",
+                  "category": "religious",
+                  "coords": [
+                        -1.128795,
+                        52.636296
+                  ]
+            },
+            {
+                  "name": "Baitul Ikram Mosque",
+                  "text": "The Baitul Ikram Mosque is a prominent place of worship for the Ahmadiyya Muslim community in Leicester. Visitors can admire the modern architecture and learn about the local religious community.",
+                  "category": "religious",
+                  "coords": [
+                        -1.119287,
+                        52.614513
+                  ]
+            },
+            {
+                  "name": "Nelson Mandela Park",
+                  "text": "Nelson Mandela Park is a popular green space in the center of Leicester, offering recreational and sports facilities. It is conveniently located near the city center and major sports stadiums.",
+                  "category": "park",
+                  "coords": [
+                        -1.131066,
+                        52.625806
+                  ]
+            },
+            {
+                  "name": "Humberstone Park",
+                  "text": "Humberstone Park is an extensive parkland in Leicester featuring play areas and nature conservation zones. It is an ideal spot for walks and provides a peaceful environment for local residents.",
+                  "category": "park",
+                  "coords": [
+                        -1.084069,
+                        52.639963
+                  ]
+            },
+            {
+                  "name": "Western Park",
+                  "text": "Western Park is the largest green space in Leicester, known for its vast lawns and wooded areas. Visitors can enjoy the walking trails and explore the park's diverse flora and fauna.",
+                  "category": "park",
+                  "coords": [
+                        -1.179616,
+                        52.637334
+                  ]
+            },
+            {
+                  "name": "Museum of the Royal Leicestershire Regiment",
+                  "text": "The Museum of the Royal Leicestershire Regiment showcases the history and uniforms of the local infantry. It provides interesting insights into the region's military heritage through various exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -1.138899,
+                        52.631766
+                  ]
+            },
+            {
+                  "name": "Abbey Pumping Station",
+                  "text": "Abbey Pumping Station is a science and technology museum housed in a historic pumping station. Visitors can see giant steam engines and exhibits related to the city's history.",
+                  "category": "museum",
+                  "coords": [
+                        -1.130777,
+                        52.654764
+                  ]
+            },
+            {
+                  "name": "The Little Theatre",
+                  "text": "The Little Theatre in Leicester is a charming playhouse that showcases a variety of amateur and professional productions. It is known for its intimate atmosphere and diverse entertainment program.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.129102,
+                        52.632096
+                  ]
+            },
+            {
+                  "name": "Haymarket Theatre",
+                  "text": "Haymarket Theatre is a well-known venue in Leicester city center, famous for its modern design. It provides a stage for musicals, plays, and various live events.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.131815,
+                        52.637548
                   ]
             }
       ]
@@ -29609,7 +30293,3196 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
       pt: ["Fundação da Universidade de Aberdeen: 1495", "O granito de Aberdeen foi usado no Parlamento", "Dez vezes vencedora do Britain in Bloom", "Centro da indústria petrolífera offshore europeia"],
       fr: ["Fondation de l'Université d'Aberdeen : 1495", "Le granit d'Aberdeen a été utilisé pour le Parlement", "Dix fois lauréate du Britain in Bloom", "Centre de l'industrie pétrolière offshore européenne"],
     },
-    "sights": {"de": [{"name": "Marischal College", "text": "Das zweitgrößte Granitgebäude der Welt beeindruckt durch seine neugotische Architektur und Geschichte.", "category": "historical", "confidence": "high", "coords": [-2.096833, 57.14966]}, {"name": "St Machar's Cathedral", "text": "Diese mittelalterliche Kathedrale ist berühmt für ihre Doppeltürme und die einzigartige heraldische Decke.", "category": "religious", "confidence": "high", "coords": [-2.10295, 57.1693]}, {"name": "Footdee", "text": "Ein malerisches ehemaliges Fischerdorf an der Hafenmündung mit winzigen, bunt geschmückten Cottages.", "category": "historical", "confidence": "high", "coords": [-2.079689, 57.145967]}, {"name": "Aberdeen Art Gallery", "text": "Ein bedeutendes Kunstmuseum mit einer umfangreichen Sammlung von Skulpturen und modernen Gemälden.", "category": "museum", "confidence": "high", "coords": [-2.102713, 57.148191]}, {"name": "Duthie Park", "text": "Ein weitläufiger Park, der die David Welch Winter Gardens beherbergt, eine der größten Glasanlagen Europas.", "category": "natural", "confidence": "high", "coords": [-2.103473, 57.130494]}, {"name": "Aberdeen Maritime Museum", "text": "Dieses Museum dokumentiert Aberdeens enge Verbindung zum Meer und die Geschichte der Ölindustrie.", "category": "museum", "confidence": "high", "coords": [-2.09496, 57.1465]}, {"name": "Old Aberdeen", "text": "Ein historisches Viertel mit Kopfsteinpflasterstraßen, alten Universitätsgebäuden und ruhigen Gärten.", "category": "historical", "confidence": "high", "coords": [-2.1024, 57.1648]}, {"name": "King's College", "text": "Das Herz der Universität aus dem 15. Jahrhundert, bekannt für seinen markanten Kronenturm.", "category": "historical", "confidence": "high", "coords": [-2.100876, 57.163931]}, {"name": "His Majesty's Theatre", "text": "Ein prachtvolles Theater im edwardianischen Stil, das große Tourneen und lokale Shows präsentiert.", "category": "cultural", "confidence": "high", "coords": [-2.104961, 57.148153]}, {"name": "Aberdeen Beach", "text": "Der weitläufige Sandstrand von Aberdeen zeichnet sich durch seine einladende Promenade aus, die entlang der schottischen Küste verläuft. Er bietet ideale Bedingungen für ausgedehnte Spaziergänge und diverse Wassersportaktivitäten in frischer Meeresbrise. Ein Spaziergang lohnt sich zu jeder Jahreszeit, auch wenn es etwas windiger ist.", "category": "natural", "confidence": "high", "coords": [-2.07722, 57.1531]}, {"name": "Codonas Amusement Park", "text": "Ein familiengeführter Vergnügungspark direkt am Strand mit Achterbahnen und Unterhaltung für Kinder.", "category": "recreational", "confidence": "high", "coords": [-2.079379, 57.151103]}, {"name": "Brig o' Balgownie", "text": "Eine historische Steinbrücke aus dem 13. Jahrhundert, die den Fluss Don in Old Aberdeen überquert.", "category": "historical", "confidence": "high", "coords": [-2.098742, 57.177245]}, {"name": "Provost Skene's House", "text": "Das älteste Wohnhaus der Stadt zeigt heute historisch eingerichtete Räume aus verschiedenen Epochen.", "category": "museum", "confidence": "high", "coords": [-2.09752, 57.1483]}, {"name": "Tolbooth Museum", "text": "Ein ehemaliges Gefängnis aus dem 17. Jahrhundert, das die Geschichte von Verbrechen und Strafe zeigt.", "category": "museum", "confidence": "high", "coords": [-2.0951, 57.148]}, {"name": "Union Terrace Gardens", "text": "Ein viktorianischer Park im Stadtzentrum, der kürzlich mit modernen Pavillons neu gestaltet wurde.", "category": "recreational", "confidence": "high", "coords": [-2.10333, 57.1469]}, {"name": "Johnston Gardens", "text": "Ein preisgekrönter kleiner Garten mit Teichen, Wasserfällen und einer berühmten kleinen blauen Brücke.", "category": "natural", "confidence": "high", "coords": [-2.14889, 57.1361]}, {"name": "Cruickshank Botanic Garden", "text": "Ein ruhiger botanischer Garten der Universität mit einer Vielfalt an alpinen und Arzneipflanzen.", "category": "natural", "confidence": "high", "coords": [-2.10472, 57.1678]}, {"name": "Pittodrie Stadium", "text": "Die Heimat des Aberdeen FC, bekannt als eines der ersten reinen Sitzplatzstadien in Großbritannien.", "category": "recreational", "confidence": "high", "coords": [-2.088889, 57.159167]}, {"name": "Aberdeen Town House", "text": "Ein beeindruckendes viktorianisches Rathaus, das als Verwaltungszentrum der Stadt dient.", "category": "civic", "confidence": "high", "coords": [-2.09468, 57.1481]}, {"name": "Hazlehead Park", "text": "Ein großer Waldpark mit Golfplätzen, einem Labyrinth und einem wunderschönen Rosengarten.", "category": "natural", "confidence": "high", "coords": [-2.17861, 57.1386]}, {"name": "Girdleness Lighthouse", "text": "Ein markanter Leuchtturm am Hafeneingang, entworfen vom berühmten Ingenieur Robert Stevenson.", "category": "historical", "confidence": "high", "coords": [-2.04858, 57.139]}, {"name": "Torry Battery", "text": "Eine Küstenbefestigung aus dem 19. Jahrhundert mit exzellentem Blick auf den Hafen und Delfine.", "category": "fortress", "confidence": "high", "coords": [-2.058758, 57.141563]}, {"name": "Music Hall Aberdeen", "text": "Ein historisches Konzerthaus an der Union Street für klassische und zeitgenössische Musik.", "category": "cultural", "confidence": "high", "coords": [-2.105002, 57.145422]}, {"name": "St Nicholas Kirk", "text": "Eine der größten Pfarrkirchen Schottlands, deren Ursprünge bis in das 12. Jahrhundert zurückreichen.", "category": "religious", "confidence": "high", "coords": [-2.09927, 57.1476]}, {"name": "Aberdeen Science Centre", "text": "Ein interaktives Wissenschaftsmuseum, das besonders für Familien und Kinder viele Experimente bietet.", "category": "museum", "confidence": "high", "coords": [-2.0847, 57.1532]}, {"name": "Gordon Highlanders Museum", "text": "Ein Museum, das der Geschichte des berühmten Infanterieregiments aus Schottland gewidmet ist.", "category": "museum", "confidence": "high", "coords": [-2.14617, 57.1375]}, {"name": "Seaton Park", "text": "Ein großer Park am Fluss Don mit Blumenbeeten und dem historischen Weg zur Kathedrale.", "category": "natural", "confidence": "high", "coords": [-2.1025, 57.1717]}, {"name": "Belmont Street", "text": "Eine lebendige Straße im Zentrum mit zahlreichen Bars, Cafés und einem Kino in einer alten Kirche.", "category": "cultural", "confidence": "high", "coords": [-2.10139, 57.14687]}, {"name": "Union Street", "text": "Die Haupteinkaufsstraße der Stadt, bekannt für ihre imposanten Fassaden aus lokalem Granit.", "category": "historical", "confidence": "high", "coords": [-2.099412, 57.146365]}, {"name": "Bon Accord Centre", "text": "Ein großes Einkaufszentrum im Herzen von Aberdeen mit einer breiten Auswahl an Marken.", "category": "recreational", "confidence": "high", "coords": [-2.09972, 57.1486]}, {"name": "King's Museum", "text": "Das Universitätsmuseum von Aberdeen präsentiert vielfältige enzyklopädische Sammlungen.", "category": "museum", "coords": [-2.102257, 57.167124]}, {"name": "Tivoli Theatre", "text": "Ein wunderschön restauriertes viktorianisches Theater im Herzen von Aberdeen.", "category": "cultural", "coords": [-2.097611, 57.14505]}, {"name": "Rubislaw Parish Church", "text": "Eine aktive Kirchengemeinde in einem architektonisch ansprechenden Gebäude in Aberdeen.", "category": "religious", "coords": [-2.127509, 57.14351]}, {"name": "Queen's Cross Parish Church", "text": "Diese Kirche ist bekannt für ihre Verbindung zu den Werken lokaler Architekten.", "category": "religious", "coords": [-2.124747, 57.143296]}, {"name": "Bon Accord Free Church", "text": "Ein markantes Kirchengebäude im Stadtteil West End von Aberdeen.", "category": "religious", "coords": [-2.109823, 57.148421]}, {"name": "St Margaret of Scotland", "text": "Eine episkopale Kirchengemeinde mit einer traditionellen liturgischen Tradition.", "category": "religious", "coords": [-2.097706, 57.151386]}, {"name": "St. Andrews Cathedral", "text": "Die Kathedrale der Diözese Aberdeen und der Orkney-Inseln.", "category": "religious", "coords": [-2.093005, 57.149065]}, {"name": "Cathedral of St Mary of the Assumption", "text": "Die Hauptkirche der römisch-katholischen Gemeinschaft in Aberdeen.", "category": "religious", "coords": [-2.106374, 57.145404]}, {"name": "Gilcomston Church", "text": "Eine evangelische Kirche im Zentrum von Aberdeen mit einer starken Predigtradition.", "category": "religious", "coords": [-2.108742, 57.144076]}, {"name": "Gerrard Street Baptist Church", "text": "Ein Ort der Anbetung für die Baptistengemeinde in Aberdeen.", "category": "religious", "coords": [-2.102225, 57.153256]}, {"name": "Aberdeen Mosque & Islamic Centre", "text": "Das größte religiöse Zentrum für die muslimische Gemeinschaft in der Region.", "category": "religious", "coords": [-2.091538, 57.150389]}, {"name": "St John the Evangelist", "text": "Eine lokale Kirchengemeinde, die der Religionsgemeinschaft in Aberdeen dient.", "category": "religious", "coords": [-2.101188, 57.143331]}, {"name": "Bridge of Don", "text": "Eine historische Brücke über den Fluss Don im Norden der Stadt.", "category": "landmark", "coords": [-2.090614, 57.175604]}, {"name": "King George VI Bridge", "text": "Eine der wichtigsten Brücken über den Fluss Dee in Aberdeen.", "category": "landmark", "coords": [-2.10825, 57.12793]}, {"name": "Victoria Bridge", "text": "Eine Granitbrücke, die das Stadtzentrum mit dem Viertel Torry verbindet.", "category": "landmark", "coords": [-2.08953, 57.140027]}, {"name": "Wellington Suspension Bridge", "text": "Eine historische Hängebrücke für Fußgänger über den Fluss Dee.", "category": "landmark", "coords": [-2.095592, 57.135576]}, {"name": "Westburn Park", "text": "Ein beliebter Volkspark mit Sportanlagen und Grünflächen.", "category": "park", "coords": [-2.123179, 57.154416]}, {"name": "Victoria Park", "text": "Ein kleinerer, gepflegter Park im Zentrum von Aberdeen.", "category": "park", "coords": [-2.121742, 57.151751]}, {"name": "Queen's Terrace Gardens", "text": "Zentrale Gärten mit viktorianischem Flair und schönen Blumenbeeten.", "category": "park", "coords": [-2.120423, 57.143166]}, {"name": "Rubislaw Terrace Gardens", "text": "Ein ruhiger öffentlicher Gartenraum inmitten historischer Architektur.", "category": "park", "coords": [-2.117338, 57.143123]}, {"name": "Stewart Park", "text": "Ein kommunaler Park im Norden der Stadt für Freizeitaktivitäten.", "category": "park", "coords": [-2.134088, 57.167686]}, {"name": "Aberdeen Hebrew Congregation Synagogue", "text": "Die Synagoge dient der jüdischen Gemeinde in Aberdeen.", "category": "religious", "coords": [-2.10321, 57.142263]}, {"name": "Zoology Museum", "text": "Ein Museum der Universität, das die Vielfalt der Tierwelt zeigt.", "category": "museum", "coords": [-2.106304, 57.167983]}, {"name": "Motte of Tillydrone", "text": "Ein künstlicher Erdhügel, der vermutlich Standort einer frühen Burg war.", "category": "historical", "coords": [-2.106376, 57.170631]}, {"name": "St Fittick's Church", "text": "Die Ruinen einer mittelalterlichen Kirche in der Nähe des Hafens.", "category": "historical", "coords": [-2.06324, 57.135504]}, {"name": "McGrigor Obelisk", "text": "Ein Granitdenkmal zu Ehren von Sir James McGrigor.", "category": "historical", "coords": [-2.103712, 57.129112]}, {"name": "Holburn West Church", "text": "Ein religiöses Gebäude im Viertel Holburn von Aberdeen.", "category": "religious", "coords": [-2.122643, 57.136498]}, {"name": "St Mary's Parish Church", "text": "Eine örtliche Pfarrkirche für die Gemeinschaft in Aberdeen.", "category": "religious", "coords": [-2.096591, 57.164239]}, {"name": "Trinity Church Aberdeen", "text": "Ein Kirchengebäude, das der lokalen Gemeinde in Aberdeen dient.", "category": "religious", "coords": [-2.094537, 57.149733]}, {"name": "River Dee Viaduct", "text": "Eine Eisenbahnbrücke über den Fluss Dee in der Nähe von Aberdeen.", "category": "landmark", "coords": [-2.096673, 57.13075]}, {"name": "Walled Gardens", "text": "Gartenanlagen mit Mauereinfassungen innerhalb der städtischen Grünflächen.", "category": "park", "coords": [-2.09885, 57.174334]}, {"name": "Rendezvous Gallery", "text": "Ein Ausstellungsraum für Kunst im Stadtgebiet.", "category": "museum", "coords": [-2.130058, 57.13828]}, {"name": "62 ABD CR", "text": "62 ABD CR ist eine bedeutsame historische Stätte in der Stadt Aberdeen. Besucher dieser archäologischen Ausgrabungsstätte im Vereinigten Königreich erhalten faszinierende Einblicke in vergangene Epochen.", "category": "historical", "coords": [-2.099123, 57.157244]}, {"name": "53 ABD", "text": "Die historische Stätte 53 ABD befindet sich im britischen Aberdeen und lädt zur Spurensuche ein. Diese archäologische Ausgrabungsstätte lässt die regionale Geschichte durch ihre Überreste lebendig werden.", "category": "historical", "coords": [-2.129886, 57.166988]}, {"name": "55 ABD", "text": "Mit 55 ABD besitzt Aberdeen ein weiteres bemerkenswertes historisches Monument. Die archäologische Ausgrabungsstätte im Vereinigten Königreich ist ein wertvolles Zeugnis der frühen Besiedlungsgeschichte.", "category": "historical", "coords": [-2.118435, 57.160819]}, {"name": "57 ABD", "text": "Die als 57 ABD bekannte archäologische Ausgrabungsstätte befindet sich im schottischen Aberdeen. Besucher mit Interesse an historischen Funden können hier die Überreste vergangener Epochen erkunden. Dieser Ort gewährt Einblicke in das alte Erbe der Region.", "category": "historical", "coords": [-2.113951, 57.159931]}, {"name": "60 ABD", "text": "Innerhalb von Aberdeen gelegen, stellt 60 ABD eine bedeutende historische Ausgrabungsstätte dar. Geschichtsinteressierte können an diesem archäologischen Ort alte Spuren der Vergangenheit entdecken. Das Gelände zeugt von den frühen Siedlungen im Vereinigten Königreich.", "category": "historical", "coords": [-2.103372, 57.157367]}, {"name": "63 ABD CR", "text": "Das archäologische Gelände von 63 ABD CR lädt Gäste dazu ein, bei einem Besuch in Aberdeen eine Reise in die Vergangenheit zu unternehmen. Diese historische Stätte umfasst freigelegte Überreste, die die lokale Geschichte beleuchten. Sie bietet eine ruhige Umgebung, um antike physische Spuren zu betrachten.", "category": "historical", "coords": [-2.086147, 57.159191]}, {"name": "64 ABD CR", "text": "Bei der Erkundung von Aberdeen stößt man auf 64 ABD CR, einen Ort, der historischen Ausgrabungen gewidmet ist. Besucher können das Areal abgehen, um die archäologische Arbeit und den Kontext der freigelegten Funde zu würdigen. Es ist ein interessanter Punkt, um mehr über die tieferen Wurzeln der Stadt zu erfahren.", "category": "historical", "coords": [-2.087302, 57.166277]}, {"name": "56 ABD", "text": "In der Landschaft von Aberdeen gelegen, fungiert 56 ABD als erhaltener historischer Ausgrabungspunkt. Wer die Vergangenheit der Stadt erkundet, kann hier die von Archäologen freigelegten Bodenmerkmale untersuchen. Die Stätte verbindet moderne Betrachter direkt mit der Antike.", "category": "historical", "coords": [-2.117285, 57.162574]}, {"name": "58 ABD", "text": "Der als 58 ABD bezeichnete Ort markiert ein weiteres archäologisches Unterfangen in Aberdeen. Gäste finden hier eine historische Stätte, die das stetige Bemühen um die Aufdeckung der Geschichte des Vereinigten Königreichs unterstreicht. Für Kulturerbe-Liebhaber ist es ein subtiles, aber faszinierendes Ausflugsziel.", "category": "historical", "coords": [-2.109834, 57.158594]}, {"name": "59 ABD", "text": "Als Ort von archäologischer Bedeutung bereichert 59 ABD die historische Landkarte von Aberdeen. Ein Spaziergang durch dieses Gelände ermöglicht es Besuchern, die Anordnung früherer historischer Strukturen oder der Landnutzung zu betrachten. Es dient als eine Art Freiluftklassenzimmer für die lokale Geschichte.", "category": "historical", "coords": [-2.105576, 57.157241]}, {"name": "Inchgarth Reservoir", "text": "Inchgarth Reservoir ist ein See in Aberdeen, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.", "category": "natural", "coords": [-2.163633, 57.115193]}, {"name": "Corby Loch", "text": "Corby Loch ist ein See in Aberdeen, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.", "category": "natural", "coords": [-2.126812, 57.22072]}, {"name": "Sunnybank Park Play Area", "text": "Sunnybank Park Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.", "category": "family", "coords": [-2.10584, 57.161167]}, {"name": "Fittie Play Park", "text": "Fittie Play Park ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.", "category": "family", "coords": [-2.06957, 57.142931]}, {"name": "Leslie Terrace Playpark", "text": "Leslie Terrace Playpark ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.", "category": "family", "coords": [-2.111642, 57.156126]}, {"name": "Pirate Island Adventure Golf", "text": "Pirate Island Adventure Golf ist eine Minigolfanlage in Aberdeen, die eine klassische und ansprechende Aktivität für die ganze Familie bietet.", "category": "family", "coords": [-2.080776, 57.151499]}, {"name": "Balgownie Playpark", "text": "Balgownie Playpark ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.", "category": "family", "coords": [-2.12007, 57.178588]}, {"name": "Matthews Road Play Area", "text": "Matthews Road Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.", "category": "family", "coords": [-2.113005, 57.11706]}, {"name": "Thistle Court Play Area", "text": "Thistle Court Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.", "category": "family", "coords": [-2.11133, 57.145781]}, {"name": "Skene Street Play Area", "text": "Skene Street Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.", "category": "family", "coords": [-2.10935, 57.147177]}, {"name": "Wales Street Play Area", "text": "Wales Street Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.", "category": "family", "coords": [-2.08747, 57.15075]}], "hu": [{"name": "Marischal College", "text": "A világ második legnagyobb gránitépülete, az egyetem lenyűgöző neogótikus központja.", "category": "historical", "confidence": "high", "coords": [-2.096833, 57.14966]}, {"name": "St Machar-székesegyház", "text": "Ősi székesegyház jellegzetes ikertornyaival és különleges, címerekkel díszített mennyezetével.", "category": "religious", "confidence": "high", "coords": [-2.10295, 57.1693]}, {"name": "Footdee (Fittie)", "text": "Gyakran Fittie-ként emlegetett apró halászfalu a kikötőnél, színesre díszített kunyhókkal.", "category": "historical", "confidence": "high", "coords": [-2.079689, 57.145967]}, {"name": "Aberdeen Művészeti Galéria", "text": "A város legfontosabb múzeuma, amely jelentős képzőművészeti és szoborgyűjteménnyel rendelkezik.", "category": "museum", "confidence": "high", "coords": [-2.102713, 57.148191]}, {"name": "Duthie Park", "text": "Hatalmas park, itt található Európa egyik legnagyobb fedett kertje, a David Welch Winter Gardens.", "category": "natural", "confidence": "high", "coords": [-2.103473, 57.130494]}, {"name": "Aberdeen Tengerészeti Múzeum", "text": "A város tengeri történelmét és az északi-tengeri olajipar fejlődését bemutató modern múzeum.", "category": "museum", "confidence": "high", "coords": [-2.09496, 57.1465]}, {"name": "Ó-Aberdeen", "text": "Macskaköves utcákkal teli történelmi negyed, az egyetem legrégebbi épületeivel és parkjaival.", "category": "historical", "confidence": "high", "coords": [-2.1024, 57.1648]}, {"name": "King's College", "text": "A városi egyetem 15. századi központja, amely híres különleges korona alakú toronysisakjáról.", "category": "historical", "confidence": "high", "coords": [-2.100876, 57.163931]}, {"name": "His Majesty's Theatre", "text": "Pompás edward-kori színházépület, amely rangos nemzetközi és hazai előadásoknak ad otthont.", "category": "cultural", "confidence": "high", "coords": [-2.104961, 57.148153]}, {"name": "Aberdeen Beach", "text": "Aberdeen tágas homokos strandját a skót partok mentén futó hívogató sétány teszi különlegessé. Ideális feltételeket kínál hosszú sétákhoz és különféle vízi sportokhoz a friss tengeri szellőben. Egy itteni séta minden évszakban megéri, még akkor is, ha kicsit szelesebb az idő.", "category": "natural", "confidence": "high", "coords": [-2.07722, 57.1531]}, {"name": "Codonas vidámpark", "text": "Családi kézben lévő vidámpark és szórakoztató központ közvetlenül a tengerparti sétány mellett.", "category": "recreational", "confidence": "high", "coords": [-2.079379, 57.151103]}, {"name": "Brig o' Balgownie", "text": "A Don folyón átívelő, 13. századi műemlék kőhíd Ó-Aberdeen közelében, remek fotóhelyszín.", "category": "historical", "confidence": "high", "coords": [-2.098742, 57.177245]}, {"name": "Provost Skene háza", "text": "A város legrégebbi lakóháza, amely különböző korszakok szerint berendezett szobákat mutat be.", "category": "museum", "confidence": "high", "coords": [-2.09752, 57.1483]}, {"name": "Tolbooth Múzeum", "text": "Egy 17. századi börtönépületben kialakított múzeum a helyi bűnözés és büntetés történetéről.", "category": "museum", "confidence": "high", "coords": [-2.0951, 57.148]}, {"name": "Union Terrace Gardens", "text": "Viktoriánus stílusú süllyesztett park a belvárosban, amelyet nemrég modern pavilonokkal újítottak fel.", "category": "recreational", "confidence": "high", "coords": [-2.10333, 57.1469]}, {"name": "Johnston Gardens", "text": "Díjnyertes kis botanikus kert tavakkal, vízesésekkel és egy ikonikus kékre festett fahíddal.", "category": "natural", "confidence": "high", "coords": [-2.14889, 57.1361]}, {"name": "Cruickshank botanikus kert", "text": "Az egyetem fenntartásában lévő csendes kert, amely alpesi és gyógynövényekben gazdag.", "category": "natural", "confidence": "high", "coords": [-2.10472, 57.1678]}, {"name": "Pittodrie Stadion", "text": "Az Aberdeen FC otthona, az Egyesült Királyság egyik első kizárólag ülőhelyes stadionja.", "category": "recreational", "confidence": "high", "coords": [-2.088889, 57.159167]}, {"name": "Aberdeen Városháza", "text": "Impozáns viktoriánus középület, amely a város közigazgatási és politikai központjaként szolgál.", "category": "civic", "confidence": "high", "coords": [-2.09468, 57.1481]}, {"name": "Hazlehead Park", "text": "Kiterjedt erdős park golfpályákkal, útvesztővel és egy gyönyörű rózsakerttel a város szélén.", "category": "natural", "confidence": "high", "coords": [-2.17861, 57.1386]}, {"name": "Girdleness világítótorony", "text": "Robert Stevenson által tervezett világítótorony, amely a kikötő bejáratát őrzi a tengerparton.", "category": "historical", "confidence": "high", "coords": [-2.04858, 57.139]}, {"name": "Torry Battery", "text": "19. századi parti erődítmény, ahonnan remek kilátás nyílik a kikötőre és gyakran delfineket is látni.", "category": "fortress", "confidence": "high", "coords": [-2.058758, 57.141563]}, {"name": "Music Hall Aberdeen", "text": "Történelmi koncertterem az Union Streeten, amely klasszikus és könnyűzenei koncertek helyszíne.", "category": "cultural", "confidence": "high", "coords": [-2.105002, 57.145422]}, {"name": "St Nicholas-templom", "text": "Skócia egyik legnagyobb plébániatemploma, amelynek egyes részei a 12. századból származnak.", "category": "religious", "confidence": "high", "coords": [-2.09927, 57.1476]}, {"name": "Aberdeen Tudományos Központ", "text": "Interaktív tudományos múzeum gyermekeknek, ahol játékos kísérleteken keresztül tanulhatnak.", "category": "museum", "confidence": "high", "coords": [-2.0847, 57.1532]}, {"name": "Gordon Highlanders Múzeum", "text": "A híres északkelet-skóciai gyalogezred történetét bemutató katonai gyűjtemény és emlékmű.", "category": "museum", "confidence": "high", "coords": [-2.14617, 57.1375]}, {"name": "Seaton Park", "text": "A Don folyó partján elterülő nagy közpark virágágyásokkal és a katedrálishoz vezető sétánnyal.", "category": "natural", "confidence": "high", "coords": [-2.1025, 57.1717]}, {"name": "Belmont Street", "text": "Karakteres belvárosi utca számos bárral, kávézóval és egy régi templomból kialakított mozival.", "category": "cultural", "confidence": "high", "coords": [-2.10139, 57.14687]}, {"name": "Union Street", "text": "Aberdeen főútvonala, amely monumentális gránitépületeiről és üzleteiről vált híressé.", "category": "historical", "confidence": "high", "coords": [-2.099412, 57.146365]}, {"name": "Bon Accord bevásárlóközpont", "text": "A város szívében található nagy bevásárlóközpont nemzetközi márkákkal és éttermekkel.", "category": "recreational", "confidence": "high", "coords": [-2.09972, 57.1486]}, {"name": "King's Museum", "text": "Az Aberdeeni Egyetem múzeuma változatos enciklopédikus gyűjteményeket mutat be.", "category": "museum", "coords": [-2.102257, 57.167124]}, {"name": "Tivoli Theatre", "text": "Gyönyörűen felújított viktoriánus színház Aberdeen szívében.", "category": "cultural", "coords": [-2.097611, 57.14505]}, {"name": "Rubislaw Parish Church", "text": "Aktív egyházközség egy építészetileg tetszetős épületben Aberdeenben.", "category": "religious", "coords": [-2.127509, 57.14351]}, {"name": "Queen's Cross Parish Church", "text": "Ez a templom a helyi építészek munkáihoz fűződő kapcsolatairól ismert.", "category": "religious", "coords": [-2.124747, 57.143296]}, {"name": "Bon Accord Free Church", "text": "Jellegzetes templomépület Aberdeen West End negyedében.", "category": "religious", "coords": [-2.109823, 57.148421]}, {"name": "St Margaret of Scotland", "text": "Episzkopális egyházközség hagyományos liturgikus hagyományokkal.", "category": "religious", "coords": [-2.097706, 57.151386]}, {"name": "St. Andrews Cathedral", "text": "Az Aberdeeni és Orkney-szigeteki Egyházmegye székesegyháza.", "category": "religious", "coords": [-2.093005, 57.149065]}, {"name": "Cathedral of St Mary of the Assumption", "text": "Az aberdeeni római katolikus közösség főtemploma.", "category": "religious", "coords": [-2.106374, 57.145404]}, {"name": "Gilcomston Church", "text": "Evangéliumi templom Aberdeen központjában, erős prédikációs hagyománnyal.", "category": "religious", "coords": [-2.108742, 57.144076]}, {"name": "Gerrard Street Baptist Church", "text": "Az aberdeeni baptista közösség istentiszteleti helye.", "category": "religious", "coords": [-2.102225, 57.153256]}, {"name": "Aberdeen Mosque & Islamic Centre", "text": "A régió muzulmán közösségének legnagyobb vallási központja.", "category": "religious", "coords": [-2.091538, 57.150389]}, {"name": "St John the Evangelist", "text": "Helyi egyházközség, amely az aberdeeni vallási közösséget szolgálja.", "category": "religious", "coords": [-2.101188, 57.143331]}, {"name": "Bridge of Don", "text": "Történelmi híd a Don folyón, a város északi részén.", "category": "landmark", "coords": [-2.090614, 57.175604]}, {"name": "King George VI Bridge", "text": "Az egyik legfontosabb híd a Dee folyón Aberdeenben.", "category": "landmark", "coords": [-2.10825, 57.12793]}, {"name": "Victoria Bridge", "text": "Gránithíd, amely a városközpontot köti össze Torry negyedével.", "category": "landmark", "coords": [-2.08953, 57.140027]}, {"name": "Wellington Suspension Bridge", "text": "Történelmi gyalogos függőhíd a Dee folyón.", "category": "landmark", "coords": [-2.095592, 57.135576]}, {"name": "Westburn Park", "text": "Népszerű közpark sportlétesítményekkel és zöldfelületekkel.", "category": "park", "coords": [-2.123179, 57.154416]}, {"name": "Victoria Park", "text": "Kisebb, gondozott park Aberdeen központjában.", "category": "park", "coords": [-2.121742, 57.151751]}, {"name": "Queen's Terrace Gardens", "text": "Viktoriánus hangulatú központi kertek szép virágágyásokkal.", "category": "park", "coords": [-2.120423, 57.143166]}, {"name": "Rubislaw Terrace Gardens", "text": "Nyugodt nyilvános kert történelmi épületek gyűrűjében.", "category": "park", "coords": [-2.117338, 57.143123]}, {"name": "Stewart Park", "text": "Városi park a város északi részén szabadidős tevékenységekhez.", "category": "park", "coords": [-2.134088, 57.167686]}, {"name": "Aberdeen Hebrew Congregation Synagogue", "text": "Zsinagóga, amely az aberdeeni zsidó közösséget szolgálja.", "category": "religious", "coords": [-2.10321, 57.142263]}, {"name": "Zoology Museum", "text": "Az egyetem múzeuma, amely az állatvilág sokszínűségét mutatja be.", "category": "museum", "coords": [-2.106304, 57.167983]}, {"name": "Motte of Tillydrone", "text": "Mesterséges domb, amely feltehetően egy korai vár helyszíne volt.", "category": "historical", "coords": [-2.106376, 57.170631]}, {"name": "St Fittick's Church", "text": "Egy középkori templom romjai a kikötő közelében.", "category": "historical", "coords": [-2.06324, 57.135504]}, {"name": "McGrigor Obelisk", "text": "Gránit emlékmű Sir James McGrigor tiszteletére.", "category": "historical", "coords": [-2.103712, 57.129112]}, {"name": "Holburn West Church", "text": "Vallási épület Aberdeen Holburn negyedében.", "category": "religious", "coords": [-2.122643, 57.136498]}, {"name": "St Mary's Parish Church", "text": "Helyi plébániatemplom az aberdeeni közösség számára.", "category": "religious", "coords": [-2.096591, 57.164239]}, {"name": "Trinity Church Aberdeen", "text": "Az aberdeeni helyi közösséget szolgáló templomépület.", "category": "religious", "coords": [-2.094537, 57.149733]}, {"name": "River Dee Viaduct", "text": "Vasúti híd a Dee folyón Aberdeen közelében.", "category": "landmark", "coords": [-2.096673, 57.13075]}, {"name": "Walled Gardens", "text": "Fallal körülvett kertrészek a városi zöldterületeken belül.", "category": "park", "coords": [-2.09885, 57.174334]}, {"name": "Rendezvous Gallery", "text": "Művészeti kiállítótér a város területén.", "category": "museum", "coords": [-2.130058, 57.13828]}, {"name": "62 ABD CR", "text": "A 62 ABD CR egy jelentős történelmi helyszín Aberdeen városában. Ennek az egyesült királyságbeli régészeti ásatásnak a látogatói lenyűgöző bepillantást nyerhetnek a letűnt korokba.", "category": "historical", "coords": [-2.099123, 57.157244]}, {"name": "53 ABD", "text": "Az 53 ABD nevű történelmi helyszín a brit Aberdeenben található, és izgalmas felfedezésre hív. Ez a régészeti lelőhely maradványain keresztül kelti életre a régió múltját.", "category": "historical", "coords": [-2.129886, 57.166988]}, {"name": "55 ABD", "text": "Az 55 ABD révén Aberdeen egy újabb figyelemre méltó történelmi emlékkel büszkélkedhet. Ez az egyesült királyságbeli régészeti ásatás az egykori korai települések értékes bizonyítéka.", "category": "historical", "coords": [-2.118435, 57.160819]}, {"name": "57 ABD", "text": "Az 57 ABD néven ismert régészeti lelőhely a skóciai Aberdeen városában található. A történelmi ásatások iránt érdeklődő látogatók ezen a helyen letűnt korok fennmaradt emlékeit fedezhetik fel. A terület bepillantást enged a régió ősi örökségébe.", "category": "historical", "coords": [-2.113951, 57.159931]}, {"name": "60 ABD", "text": "Az Aberdeenben található 60 ABD egy fontos történelmi ásatási terület. A történelem szerelmesei ősi nyomokat fedezhetnek fel ezen a régészeti helyszínen. A terület az Egyesült Királyság korai településeinek állít emléket.", "category": "historical", "coords": [-2.103372, 57.157367]}, {"name": "63 ABD CR", "text": "A 63 ABD CR régészeti területe időutazásra hívja a vendégeket aberdeeni látogatásuk során. Ezen a történelmi helyszínen feltárt maradványok találhatók, amelyek rávilágítanak a helyi történelemre. Csendes környezetet biztosít az ősi fizikai bizonyítékok megfigyeléséhez.", "category": "historical", "coords": [-2.086147, 57.159191]}, {"name": "64 ABD CR", "text": "Aberdeen felfedezése során bukkanhatunk rá a 64 ABD CR nevű, történelmi ásatásoknak szentelt területre. A látogatók körbesétálhatnak, hogy értékeljék a régészeti munkát és a feltárt leletek kontextusát. Érdekes helyszín a város mélyebb gyökereinek megismerésére.", "category": "historical", "coords": [-2.087302, 57.166277]}, {"name": "56 ABD", "text": "Az aberdeeni tájban elhelyezkedő 56 ABD egy megőrzött történelmi ásatási pontként funkcionál. A város múltját kutatók itt megvizsgálhatják a régészek által feltárt talajképződményeket. A lelőhely közvetlenül köti össze a modern nézelődőket az ókorral.", "category": "historical", "coords": [-2.117285, 57.162574]}, {"name": "58 ABD", "text": "Az 58 ABD néven megjelölt helyszín egy újabb régészeti vállalkozást jelöl Aberdeenben. A vendégek egy olyan történelmi helyet találhatnak itt, amely kiemeli az Egyesült Királyság történelmének feltárására irányuló folyamatos erőfeszítéseket. Ez egy finom, mégis lenyűgöző célpont az örökség szerelmeseinek.", "category": "historical", "coords": [-2.109834, 57.158594]}, {"name": "59 ABD", "text": "Régészeti jelentőségű pontként az 59 ABD gazdagítja Aberdeen történelmi térképét. A helyszínen sétálva a látogatók megfigyelhetik a korai történelmi építmények vagy a földhasználat elrendezését. Mintegy szabadtéri tanteremként szolgál a helytörténet számára.", "category": "historical", "coords": [-2.105576, 57.157241]}, {"name": "Inchgarth Reservoir", "text": "Az Inchgarth Reservoir egy tó Aberdeen területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [-2.163633, 57.115193]}, {"name": "Corby Loch", "text": "A Corby Loch egy tó Aberdeen területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.", "category": "natural", "coords": [-2.126812, 57.22072]}, {"name": "Sunnybank Park Play Area", "text": "A Sunnybank Park Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.", "category": "family", "coords": [-2.10584, 57.161167]}, {"name": "Fittie Play Park", "text": "A Fittie Play Park egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.", "category": "family", "coords": [-2.06957, 57.142931]}, {"name": "Leslie Terrace Playpark", "text": "A Leslie Terrace Playpark egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.", "category": "family", "coords": [-2.111642, 57.156126]}, {"name": "Pirate Island Adventure Golf", "text": "A Pirate Island Adventure Golf egy minigolfpálya Aberdeen területén, amely klasszikus és vonzó programot biztosít az egész család számára.", "category": "family", "coords": [-2.080776, 57.151499]}, {"name": "Balgownie Playpark", "text": "A Balgownie Playpark egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.", "category": "family", "coords": [-2.12007, 57.178588]}, {"name": "Matthews Road Play Area", "text": "A Matthews Road Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.", "category": "family", "coords": [-2.113005, 57.11706]}, {"name": "Thistle Court Play Area", "text": "A Thistle Court Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.", "category": "family", "coords": [-2.11133, 57.145781]}, {"name": "Skene Street Play Area", "text": "A Skene Street Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.", "category": "family", "coords": [-2.10935, 57.147177]}, {"name": "Wales Street Play Area", "text": "A Wales Street Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.", "category": "family", "coords": [-2.08747, 57.15075]}], "ro": [{"name": "Marischal College", "text": "A doua cea mai mare clădire de granit din lume, o capodoperă a stilului neogotic victorian.", "category": "historical", "confidence": "high", "coords": [-2.096833, 57.14966]}, {"name": "Catedrala St Machar", "text": "O catedrală veche cu turnuri gemene distinctive și un tavan heraldic unic în Europa.", "category": "religious", "confidence": "high", "coords": [-2.10295, 57.1693]}, {"name": "Footdee (Fittie)", "text": "Un sat pescăresc pitoresc situat la gura portului, cu căsuțe mici și grădini frumos decorate.", "category": "historical", "confidence": "high", "coords": [-2.079689, 57.145967]}, {"name": "Galeria de Artă Aberdeen", "text": "Recent renovată, găzduiește o colecție impresionantă de artă plastică și sculpturi moderne.", "category": "museum", "confidence": "high", "coords": [-2.102713, 57.148191]}, {"name": "Duthie Park", "text": "Un parc vast care adăpostește Grădinile de Iarnă David Welch, printre cele mai mari din Europa.", "category": "natural", "confidence": "high", "coords": [-2.103473, 57.130494]}, {"name": "Muzeul Maritim Aberdeen", "text": "Găzduit într-o clădire istorică, prezintă istoria navigației și a industriei petroliere din Marea Nordului.", "category": "museum", "confidence": "high", "coords": [-2.09496, 57.1465]}, {"name": "Old Aberdeen", "text": "Cartierul istoric al orașului, cu străzi pavate, clădiri universitare vechi și grădini liniștite.", "category": "historical", "confidence": "high", "coords": [-2.1024, 57.1648]}, {"name": "King's College", "text": "Inima universității fondată în secolul XV, renumită pentru turnul său în formă de coroană.", "category": "historical", "confidence": "high", "coords": [-2.100876, 57.163931]}, {"name": "His Majesty's Theatre", "text": "Un teatru edwardian grandios care găzduiește spectacole de operă, balet și turnee internaționale.", "category": "cultural", "confidence": "high", "coords": [-2.104961, 57.148153]}, {"name": "Plaja Aberdeen", "text": "Plaja vastă de nisip din Aberdeen se remarcă prin promenada sa primitoare, care se întinde de-a lungul coastei scoțiene. Oferă condiții ideale pentru plimbări lungi și diverse activități de sporturi nautice în briza proaspătă a mării. O plimbare aici merită în orice anotimp, chiar și atunci când vântul este mai puternic.", "category": "natural", "confidence": "high", "coords": [-2.07722, 57.1531]}, {"name": "Parcul de distracții Codonas", "text": "Complex de divertisment situat lângă plajă, oferind carusele și activități pentru întreaga familie.", "category": "recreational", "confidence": "high", "coords": [-2.079379, 57.151103]}, {"name": "Brig o' Balgownie", "text": "Un pod de piatră istoric din secolul al XIII-lea care traversează râul Don în Old Aberdeen.", "category": "historical", "confidence": "high", "coords": [-2.098742, 57.177245]}, {"name": "Casa Provost Skene", "text": "Cea mai veche casă de locuit din oraș, transformată în muzeu cu camere mobilate de epocă.", "category": "museum", "confidence": "high", "coords": [-2.09752, 57.1483]}, {"name": "Muzeul Tolbooth", "text": "O fostă închisoare din secolul XVII care prezintă istoria locală a criminalității și pedepselor.", "category": "museum", "confidence": "high", "coords": [-2.0951, 57.148]}, {"name": "Grădinile Union Terrace", "text": "Un parc victorian situat în centrul orașului, recent modernizat cu pavilioane și zone de relaxare.", "category": "recreational", "confidence": "high", "coords": [-2.10333, 57.1469]}, {"name": "Grădinile Johnston", "text": "O mică grădină botanică premiată, cu iazuri, cascade și un pod albastru extrem de fotogenic.", "category": "natural", "confidence": "high", "coords": [-2.14889, 57.1361]}, {"name": "Grădina Botanică Cruickshank", "text": "Oază de liniște a universității, cu o colecție diversă de plante alpine și medicinale.", "category": "natural", "confidence": "high", "coords": [-2.10472, 57.1678]}, {"name": "Stadionul Pittodrie", "text": "Casa clubului de fotbal Aberdeen FC, primul stadion din Marea Britanie cu locuri exclusiv pe scaune.", "category": "recreational", "confidence": "high", "coords": [-2.088889, 57.159167]}, {"name": "Primăria Aberdeen", "text": "Clădire municipală victoriană impunătoare care servește ca centru administrativ al orașului.", "category": "civic", "confidence": "high", "coords": [-2.09468, 57.1481]}, {"name": "Parcul Hazlehead", "text": "Parc forestier extins care oferă terenuri de golf, un labirint și o grădină de trandafiri superbă.", "category": "natural", "confidence": "high", "coords": [-2.17861, 57.1386]}, {"name": "Farul Girdleness", "text": "Far proiectat de Robert Stevenson, situat strategic la intrarea în portul orașului Aberdeen.", "category": "historical", "confidence": "high", "coords": [-2.04858, 57.139]}, {"name": "Bateria Torry", "text": "O fortificație de coastă din secolul XIX care oferă vederi spectaculoase asupra portului și mării.", "category": "fortress", "confidence": "high", "coords": [-2.058758, 57.141563]}, {"name": "Music Hall Aberdeen", "text": "Sală de concerte istorică situată pe strada Union, un centru cultural pentru muzică și evenimente.", "category": "cultural", "confidence": "high", "coords": [-2.105002, 57.145422]}, {"name": "Biserica St Nicholas", "text": "Cunoscută ca Mither Kirk, este o biserică parohială mare cu părți ce datează din secolul XII.", "category": "religious", "confidence": "high", "coords": [-2.09927, 57.1476]}, {"name": "Centrul de Știință Aberdeen", "text": "Muzeu interactiv dedicat științei, oferind experimente educaționale captivante pentru copii.", "category": "museum", "confidence": "high", "coords": [-2.0847, 57.1532]}, {"name": "Muzeul Gordon Highlanders", "text": "Dedicat istoriei faimosului regiment de infanterie din nord-estul Scoției și eroilor săi.", "category": "museum", "confidence": "high", "coords": [-2.14617, 57.1375]}, {"name": "Parcul Seaton", "text": "Un parc mare pe malul râului Don, renumit pentru straturile sale de flori și aleile de promenadă.", "category": "natural", "confidence": "high", "coords": [-2.1025, 57.1717]}, {"name": "Strada Belmont", "text": "Zonă vibrantă în centrul orașului, celebră pentru cafenelele sale și viața de noapte animată.", "category": "cultural", "confidence": "high", "coords": [-2.10139, 57.14687]}, {"name": "Strada Union", "text": "Principala arteră comercială din Aberdeen, flancată de clădiri monumentale construite din granit.", "category": "historical", "confidence": "high", "coords": [-2.099412, 57.146365]}, {"name": "Centrul Bon Accord", "text": "Una dintre principalele destinații de shopping din inima orașului, cu o varietate mare de magazine.", "category": "recreational", "confidence": "high", "coords": [-2.09972, 57.1486]}, {"name": "King's Museum", "text": "Muzeul Universității din Aberdeen prezintă diverse colecții enciclopedice.", "category": "museum", "coords": [-2.102257, 57.167124]}, {"name": "Tivoli Theatre", "text": "Un teatru victorian restaurat superb în inima orașului Aberdeen.", "category": "cultural", "coords": [-2.097611, 57.14505]}, {"name": "Rubislaw Parish Church", "text": "O parohie activă într-o clădire atractivă din punct de vedere arhitectural din Aberdeen.", "category": "religious", "coords": [-2.127509, 57.14351]}, {"name": "Queen's Cross Parish Church", "text": "Această biserică este cunoscută pentru legătura sa cu lucrările arhitecților locali.", "category": "religious", "coords": [-2.124747, 57.143296]}, {"name": "Bon Accord Free Church", "text": "O clădire bisericească distinctivă în cartierul West End din Aberdeen.", "category": "religious", "coords": [-2.109823, 57.148421]}, {"name": "St Margaret of Scotland", "text": "O parohie episcopală cu o tradiție liturgică tradițională.", "category": "religious", "coords": [-2.097706, 57.151386]}, {"name": "St. Andrews Cathedral", "text": "Catedrala Diecezei de Aberdeen și Orkney.", "category": "religious", "coords": [-2.093005, 57.149065]}, {"name": "Cathedral of St Mary of the Assumption", "text": "Biserica principală a comunității romano-catolice din Aberdeen.", "category": "religious", "coords": [-2.106374, 57.145404]}, {"name": "Gilcomston Church", "text": "O biserică evanghelică în centrul orașului Aberdeen, cu o puternică tradiție de predicare.", "category": "religious", "coords": [-2.108742, 57.144076]}, {"name": "Gerrard Street Baptist Church", "text": "Un loc de cult pentru comunitatea baptistă din Aberdeen.", "category": "religious", "coords": [-2.102225, 57.153256]}, {"name": "Aberdeen Mosque & Islamic Centre", "text": "Cel mai mare centru religios pentru comunitatea musulmană din regiune.", "category": "religious", "coords": [-2.091538, 57.150389]}, {"name": "St John the Evangelist", "text": "O parohie locală care servește comunitatea religioasă din Aberdeen.", "category": "religious", "coords": [-2.101188, 57.143331]}, {"name": "Bridge of Don", "text": "Un pod istoric peste râul Don, în partea de nord a orașului.", "category": "landmark", "coords": [-2.090614, 57.175604]}, {"name": "King George VI Bridge", "text": "Unul dintre podurile majore peste râul Dee în Aberdeen.", "category": "landmark", "coords": [-2.10825, 57.12793]}, {"name": "Victoria Bridge", "text": "Un pod de granit care leagă centrul orașului de cartierul Torry.", "category": "landmark", "coords": [-2.08953, 57.140027]}, {"name": "Wellington Suspension Bridge", "text": "Un pod suspendat istoric pentru pietoni peste râul Dee.", "category": "landmark", "coords": [-2.095592, 57.135576]}, {"name": "Westburn Park", "text": "Un parc popular cu facilități sportive și spații verzi.", "category": "park", "coords": [-2.123179, 57.154416]}, {"name": "Victoria Park", "text": "Un parc mai mic și bine întreținut în centrul orașului Aberdeen.", "category": "park", "coords": [-2.121742, 57.151751]}, {"name": "Queen's Terrace Gardens", "text": "Grădini centrale cu un aer victorian și straturi frumoase de flori.", "category": "park", "coords": [-2.120423, 57.143166]}, {"name": "Rubislaw Terrace Gardens", "text": "O grădină publică liniștită în mijlocul arhitecturii istorice.", "category": "park", "coords": [-2.117338, 57.143123]}, {"name": "Stewart Park", "text": "Un parc municipal în nordul orașului pentru activități recreative.", "category": "park", "coords": [-2.134088, 57.167686]}, {"name": "Aberdeen Hebrew Congregation Synagogue", "text": "Sinagoga care deservește comunitatea evreiască din Aberdeen.", "category": "religious", "coords": [-2.10321, 57.142263]}, {"name": "Zoology Museum", "text": "Un muzeu al universității care prezintă diversitatea lumii animale.", "category": "museum", "coords": [-2.106304, 57.167983]}, {"name": "Motte of Tillydrone", "text": "O colină artificială, probabil locul unei fortărețe timpurii.", "category": "historical", "coords": [-2.106376, 57.170631]}, {"name": "St Fittick's Church", "text": "Ruinele unei biserici medievale în apropierea portului.", "category": "historical", "coords": [-2.06324, 57.135504]}, {"name": "McGrigor Obelisk", "text": "Un monument de granit ridicat în onoarea lui Sir James McGrigor.", "category": "historical", "coords": [-2.103712, 57.129112]}, {"name": "Holburn West Church", "text": "O clădire religioasă în cartierul Holburn din Aberdeen.", "category": "religious", "coords": [-2.122643, 57.136498]}, {"name": "St Mary's Parish Church", "text": "O biserică parohială locală pentru comunitatea din Aberdeen.", "category": "religious", "coords": [-2.096591, 57.164239]}, {"name": "Trinity Church Aberdeen", "text": "O clădire bisericească ce deservește comunitatea locală din Aberdeen.", "category": "religious", "coords": [-2.094537, 57.149733]}, {"name": "River Dee Viaduct", "text": "Un viaduct feroviar peste râul Dee în apropiere de Aberdeen.", "category": "landmark", "coords": [-2.096673, 57.13075]}, {"name": "Walled Gardens", "text": "Grădini împrejmuite cu ziduri în cadrul spațiilor verzi urbane.", "category": "park", "coords": [-2.09885, 57.174334]}, {"name": "Rendezvous Gallery", "text": "Un spațiu de expoziție pentru artă în zona orașului.", "category": "museum", "coords": [-2.130058, 57.13828]}, {"name": "62 ABD CR", "text": "62 ABD CR este un sit istoric important situat în orașul Aberdeen. Vizitatorii acestei săpături arheologice din Marea Britanie pot obține perspective fascinante asupra epocilor trecute.", "category": "historical", "coords": [-2.099123, 57.157244]}, {"name": "53 ABD", "text": "Situl istoric 53 ABD se află în orașul britanic Aberdeen și invită la o călătorie în trecut. Această excavație arheologică aduce la viață istoria regională prin intermediul descoperirilor sale.", "category": "historical", "coords": [-2.129886, 57.166988]}, {"name": "55 ABD", "text": "Prin 55 ABD, orașul Aberdeen găzduiește încă un monument istoric remarcabil. Această săpătură arheologică din Regatul Unit este o mărturie valoroasă a istoriei timpurii a așezărilor.", "category": "historical", "coords": [-2.118435, 57.160819]}, {"name": "57 ABD", "text": "Cunoscut sub numele de 57 ABD, acest sit arheologic este situat în orașul scoțian Aberdeen. Vizitatorii interesați de excavațiile istorice pot explora aici rămășițele erelor trecute. Locul oferă o privire asupra vechii moșteniri a regiunii.", "category": "historical", "coords": [-2.113951, 57.159931]}, {"name": "60 ABD", "text": "Situat în Aberdeen, 60 ABD reprezintă un important sit de excavație istorică. Pasionații de istorie pot descoperi urme vechi lăsate în urmă în această zonă arheologică. Terenul stă mărturie primelor așezări din Regatul Unit.", "category": "historical", "coords": [-2.103372, 57.157367]}, {"name": "63 ABD CR", "text": "Terenurile arheologice de la 63 ABD CR invită oaspeții să facă o călătorie în timp în timpul vizitei lor în Aberdeen. Acest sit istoric cuprinde rămășițe descoperite care fac lumină asupra istoriei locale. Locul oferă un cadru liniștit pentru observarea dovezilor fizice antice.", "category": "historical", "coords": [-2.086147, 57.159191]}, {"name": "64 ABD CR", "text": "Explorând Aberdeen veți descoperi 64 ABD CR, un loc dedicat excavațiilor istorice. Vizitatorii pot face o plimbare prin zonă pentru a aprecia munca arheologică și contextul artefactelor dezgropate. Este un punct interesant pentru a învăța despre rădăcinile mai adânci ale orașului.", "category": "historical", "coords": [-2.087302, 57.166277]}, {"name": "56 ABD", "text": "Amplasat în peisajul din Aberdeen, 56 ABD funcționează ca un punct de excavație istorică bine conservat. Cei care explorează trecutul orașului pot examina aici caracteristicile solului dezvăluite de arheologi. Situl conectează direct privitorii moderni cu timpurile străvechi.", "category": "historical", "coords": [-2.117285, 57.162574]}, {"name": "58 ABD", "text": "Locația desemnată drept 58 ABD marchează o altă inițiativă arheologică în Aberdeen. Oaspeții vor găsi aici un sit istoric care subliniază efortul continuu de a descoperi istoria Regatului Unit. Este o destinație subtilă, dar fascinantă pentru iubitorii de patrimoniu.", "category": "historical", "coords": [-2.109834, 57.158594]}, {"name": "59 ABD", "text": "Ca punct de importanță arheologică, 59 ABD îmbogățește harta istorică a orașului Aberdeen. O plimbare prin acest sit permite vizitatorilor să observe dispunerea structurilor istorice timpurii sau utilizarea terenului. Acesta servește drept o sală de clasă în aer liber pentru istoria locală.", "category": "historical", "coords": [-2.105576, 57.157241]}, {"name": "Inchgarth Reservoir", "text": "Inchgarth Reservoir este un lac în Aberdeen, oferind un cadru natural pentru plimbări și peisaje pitorești.", "category": "natural", "coords": [-2.163633, 57.115193]}, {"name": "Corby Loch", "text": "Corby Loch este un lac în Aberdeen, oferind un cadru natural pentru plimbări și peisaje pitorești.", "category": "natural", "coords": [-2.126812, 57.22072]}, {"name": "Sunnybank Park Play Area", "text": "Sunnybank Park Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.", "category": "family", "coords": [-2.10584, 57.161167]}, {"name": "Fittie Play Park", "text": "Fittie Play Park este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.", "category": "family", "coords": [-2.06957, 57.142931]}, {"name": "Leslie Terrace Playpark", "text": "Leslie Terrace Playpark este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.", "category": "family", "coords": [-2.111642, 57.156126]}, {"name": "Pirate Island Adventure Golf", "text": "Pirate Island Adventure Golf este un teren de minigolf în Aberdeen, oferind o activitate clasică și captivantă pentru întreaga familie.", "category": "family", "coords": [-2.080776, 57.151499]}, {"name": "Balgownie Playpark", "text": "Balgownie Playpark este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.", "category": "family", "coords": [-2.12007, 57.178588]}, {"name": "Matthews Road Play Area", "text": "Matthews Road Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.", "category": "family", "coords": [-2.113005, 57.11706]}, {"name": "Thistle Court Play Area", "text": "Thistle Court Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.", "category": "family", "coords": [-2.11133, 57.145781]}, {"name": "Skene Street Play Area", "text": "Skene Street Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.", "category": "family", "coords": [-2.10935, 57.147177]}, {"name": "Wales Street Play Area", "text": "Wales Street Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.", "category": "family", "coords": [-2.08747, 57.15075]}], "en": [{"name": "Marischal College", "text": "The second largest granite building in the world, featuring iconic Victorian Gothic revival architecture.", "category": "historical", "confidence": "high", "coords": [-2.096833, 57.14966]}, {"name": "St Machar's Cathedral", "text": "An ancient cathedral with distinctive twin spires and a unique heraldic ceiling from the 16th century.", "category": "religious", "confidence": "high", "coords": [-2.10295, 57.1693]}, {"name": "Footdee (Fittie)", "text": "A charming former fishing village with tiny cottages and colorful gardens at the mouth of the harbor.", "category": "historical", "confidence": "high", "coords": [-2.079689, 57.145967]}, {"name": "Aberdeen Art Gallery", "text": "A major museum housing a significant collection of fine art, sculpture, and contemporary works.", "category": "museum", "confidence": "high", "coords": [-2.102713, 57.148191]}, {"name": "Duthie Park", "text": "A large public park known for the David Welch Winter Gardens, one of Europe's largest indoor gardens.", "category": "natural", "confidence": "high", "coords": [-2.103473, 57.130494]}, {"name": "Aberdeen Maritime Museum", "text": "Detailed exhibits on the city's long history with the North Sea, shipbuilding, and the oil industry.", "category": "museum", "confidence": "high", "coords": [-2.09496, 57.1465]}, {"name": "Old Aberdeen", "text": "Historic district featuring cobblestone streets, ancient university buildings, and quiet, hidden gardens.", "category": "historical", "confidence": "high", "coords": [-2.1024, 57.1648]}, {"name": "King's College", "text": "The original 15th-century heart of the university, famous for its unique crown-shaped steeple.", "category": "historical", "confidence": "high", "coords": [-2.100876, 57.163931]}, {"name": "His Majesty's Theatre", "text": "Grand Edwardian theater hosting major touring West End productions and local artistic performances.", "category": "cultural", "confidence": "high", "coords": [-2.104961, 57.148153]}, {"name": "Aberdeen Beach", "text": "The sweeping sandy expanse of Aberdeen Beach is distinguished by an inviting promenade running along the Scottish coast. It offers ideal conditions for long walks and various water sports activities in the fresh sea breeze. A stroll here is worthwhile in any season, even when it is a bit windy.", "category": "natural", "confidence": "high", "coords": [-2.07722, 57.1531]}, {"name": "Codonas Amusement Park", "text": "Family-run amusement park and entertainment complex located near the beachfront for children and adults.", "category": "recreational", "confidence": "high", "coords": [-2.079379, 57.151103]}, {"name": "Brig o' Balgownie", "text": "Historic 13th-century stone bridge crossing the River Don, a iconic landmark in the Old Aberdeen area.", "category": "historical", "confidence": "high", "coords": [-2.098742, 57.177245]}, {"name": "Provost Skene's House", "text": "The oldest surviving townhouse in the city, showcasing various period-furnished rooms and local history.", "category": "museum", "confidence": "high", "coords": [-2.09752, 57.1483]}, {"name": "Tolbooth Museum", "text": "A 17th-century former jail housing exhibits on local crime, punishment, and municipal history.", "category": "museum", "confidence": "high", "coords": [-2.0951, 57.148]}, {"name": "Union Terrace Gardens", "text": "Sunken Victorian park in the city center, recently renovated with modern pavilions and walkways.", "category": "recreational", "confidence": "high", "coords": [-2.10333, 57.1469]}, {"name": "Johnston Gardens", "text": "Award-winning small garden featuring colorful flowers, streams, waterfalls, and a picturesque bridge.", "category": "natural", "confidence": "high", "coords": [-2.14889, 57.1361]}, {"name": "Cruickshank Botanic Garden", "text": "Serene university garden with a diverse collection of alpine, herbaceous, and medicinal plants.", "category": "natural", "confidence": "high", "coords": [-2.10472, 57.1678]}, {"name": "Pittodrie Stadium", "text": "Home of Aberdeen FC, notable for being one of the first all-seater stadiums in the United Kingdom.", "category": "recreational", "confidence": "high", "coords": [-2.088889, 57.159167]}, {"name": "Aberdeen Town House", "text": "Impressive Victorian municipal building serving as the administrative and political center of the city.", "category": "civic", "confidence": "high", "coords": [-2.09468, 57.1481]}, {"name": "Hazlehead Park", "text": "Extensive woodland park featuring golf courses, a maze, and one of the largest rose gardens in Scotland.", "category": "natural", "confidence": "high", "coords": [-2.17861, 57.1386]}, {"name": "Girdleness Lighthouse", "text": "Coastal lighthouse designed by Robert Stevenson, standing prominently at the entrance to the harbor.", "category": "historical", "confidence": "high", "coords": [-2.04858, 57.139]}, {"name": "Torry Battery", "text": "19th-century coastal fortification offering excellent panoramic views of the harbor and sea dolphins.", "category": "fortress", "confidence": "high", "coords": [-2.058758, 57.141563]}, {"name": "Music Hall Aberdeen", "text": "Historic concert venue on Union Street hosting a wide range of orchestral and contemporary music.", "category": "cultural", "confidence": "high", "coords": [-2.105002, 57.145422]}, {"name": "St Nicholas Kirk", "text": "Large parish church known as the Mither Kirk, with some historical sections dating back to the 12th century.", "category": "religious", "confidence": "high", "coords": [-2.09927, 57.1476]}, {"name": "Aberdeen Science Centre", "text": "Interactive science museum for children and families, offering hands-on experiments and discovery.", "category": "museum", "confidence": "high", "coords": [-2.0847, 57.1532]}, {"name": "Gordon Highlanders Museum", "text": "Museum dedicated to the history of the famous Northeast Scotland infantry regiment and its soldiers.", "category": "museum", "confidence": "high", "coords": [-2.14617, 57.1375]}, {"name": "Seaton Park", "text": "Large riverside park featuring beautiful floral displays and the historic Cathedral Walk path.", "category": "natural", "confidence": "high", "coords": [-2.1025, 57.1717]}, {"name": "Belmont Street", "text": "Vibrant street in the city center known for its independent bars, cafes, and creative cultural venues.", "category": "cultural", "confidence": "high", "coords": [-2.10139, 57.14687]}, {"name": "Union Street", "text": "The main thoroughfare of Aberdeen, famous for its grand architecture made of local silver granite.", "category": "historical", "confidence": "high", "coords": [-2.099412, 57.146365]}, {"name": "Bon Accord & St Nicholas", "text": "The city's primary shopping centers located in the heart of the retail district with many brands.", "category": "recreational", "confidence": "high", "coords": [-2.09972, 57.1486]}, {"name": "King's Museum", "text": "The University of Aberdeen's museum presenting diverse encyclopedic collections.", "category": "museum", "coords": [-2.102257, 57.167124]}, {"name": "Tivoli Theatre", "text": "A beautifully restored Victorian theatre in the heart of Aberdeen.", "category": "cultural", "coords": [-2.097611, 57.14505]}, {"name": "Rubislaw Parish Church", "text": "An active parish church located in an architecturally pleasing building in Aberdeen.", "category": "religious", "coords": [-2.127509, 57.14351]}, {"name": "Queen's Cross Parish Church", "text": "This church is known for its connection to the works of local architects.", "category": "religious", "coords": [-2.124747, 57.143296]}, {"name": "Bon Accord Free Church", "text": "A prominent church building in the West End area of Aberdeen.", "category": "religious", "coords": [-2.109823, 57.148421]}, {"name": "St Margaret of Scotland", "text": "An Episcopal parish church with a traditional liturgical tradition.", "category": "religious", "coords": [-2.097706, 57.151386]}, {"name": "St. Andrews Cathedral", "text": "The cathedral church of the Diocese of Aberdeen and Orkney.", "category": "religious", "coords": [-2.093005, 57.149065]}, {"name": "Cathedral of St Mary of the Assumption", "text": "The main church for the Roman Catholic community in Aberdeen.", "category": "religious", "coords": [-2.106374, 57.145404]}, {"name": "Gilcomston Church", "text": "An evangelical church in central Aberdeen with a strong preaching tradition.", "category": "religious", "coords": [-2.108742, 57.144076]}, {"name": "Gerrard Street Baptist Church", "text": "A place of worship for the Baptist community in Aberdeen.", "category": "religious", "coords": [-2.102225, 57.153256]}, {"name": "Aberdeen Mosque & Islamic Centre", "text": "The largest religious centre for the Muslim community in the region.", "category": "religious", "coords": [-2.091538, 57.150389]}, {"name": "St John the Evangelist", "text": "A local parish church serving the religious community in Aberdeen.", "category": "religious", "coords": [-2.101188, 57.143331]}, {"name": "Bridge of Don", "text": "A historic bridge crossing the River Don in the north of the city.", "category": "landmark", "coords": [-2.090614, 57.175604]}, {"name": "King George VI Bridge", "text": "One of the major bridges crossing the River Dee in Aberdeen.", "category": "landmark", "coords": [-2.10825, 57.12793]}, {"name": "Victoria Bridge", "text": "A granite bridge connecting the city centre with the Torry district.", "category": "landmark", "coords": [-2.08953, 57.140027]}, {"name": "Wellington Suspension Bridge", "text": "A historic pedestrian suspension bridge over the River Dee.", "category": "landmark", "coords": [-2.095592, 57.135576]}, {"name": "Westburn Park", "text": "A popular public park featuring sports facilities and green spaces.", "category": "park", "coords": [-2.123179, 57.154416]}, {"name": "Victoria Park", "text": "A smaller, well-maintained park located in central Aberdeen.", "category": "park", "coords": [-2.121742, 57.151751]}, {"name": "Queen's Terrace Gardens", "text": "Central gardens with a Victorian feel and beautiful flower beds.", "category": "park", "coords": [-2.120423, 57.143166]}, {"name": "Rubislaw Terrace Gardens", "text": "A peaceful public garden space surrounded by historic architecture.", "category": "park", "coords": [-2.117338, 57.143123]}, {"name": "Stewart Park", "text": "A community park in the north of the city for leisure activities.", "category": "park", "coords": [-2.134088, 57.167686]}, {"name": "Aberdeen Hebrew Congregation Synagogue", "text": "The synagogue serving the Jewish community in Aberdeen.", "category": "religious", "coords": [-2.10321, 57.142263]}, {"name": "Zoology Museum", "text": "A university museum displaying the diversity of the animal kingdom.", "category": "museum", "coords": [-2.106304, 57.167983]}, {"name": "Motte of Tillydrone", "text": "A man-made mound believed to be the site of an early castle.", "category": "historical", "coords": [-2.106376, 57.170631]}, {"name": "St Fittick's Church", "text": "The ruins of a medieval church located near the harbour.", "category": "historical", "coords": [-2.06324, 57.135504]}, {"name": "McGrigor Obelisk", "text": "A granite monument erected in honour of Sir James McGrigor.", "category": "historical", "coords": [-2.103712, 57.129112]}, {"name": "Holburn West Church", "text": "A religious building located in the Holburn area of Aberdeen.", "category": "religious", "coords": [-2.122643, 57.136498]}, {"name": "St Mary's Parish Church", "text": "A local parish church for the community in Aberdeen.", "category": "religious", "coords": [-2.096591, 57.164239]}, {"name": "Trinity Church Aberdeen", "text": "A church building serving the local community in Aberdeen.", "category": "religious", "coords": [-2.094537, 57.149733]}, {"name": "River Dee Viaduct", "text": "A railway viaduct crossing the River Dee near Aberdeen.", "category": "landmark", "coords": [-2.096673, 57.13075]}, {"name": "Walled Gardens", "text": "Gardens featuring walled enclosures within the city's green spaces.", "category": "park", "coords": [-2.09885, 57.174334]}, {"name": "Rendezvous Gallery", "text": "An exhibition space for art located within the city area.", "category": "museum", "coords": [-2.130058, 57.13828]}, {"name": "62 ABD CR", "text": "62 ABD CR is a significant historical site located in the city of Aberdeen. Visitors to this archaeological excavation in the United Kingdom can gain fascinating insights into past eras.", "category": "historical", "coords": [-2.099123, 57.157244]}, {"name": "53 ABD", "text": "The historical site 53 ABD is located in the British city of Aberdeen, inviting visitors on a journey of discovery. This archaeological excavation brings regional history to life through its physical remains.", "category": "historical", "coords": [-2.129886, 57.166988]}, {"name": "55 ABD", "text": "With 55 ABD, Aberdeen possesses another remarkable historical monument. This archaeological excavation in the United Kingdom stands as a valuable testament to the area's early settlement history.", "category": "historical", "coords": [-2.118435, 57.160819]}, {"name": "57 ABD", "text": "Known as 57 ABD, this archaeological site is situated in the Scottish city of Aberdeen. Visitors interested in historical excavations can explore the remnants of past eras preserved at this location. It offers a glimpse into the region's ancient heritage.", "category": "historical", "coords": [-2.113951, 57.159931]}, {"name": "60 ABD", "text": "Located within Aberdeen, 60 ABD is an important historical excavation site. History enthusiasts can discover ancient traces left behind at this archaeological area. It stands as a testament to the early settlements in the United Kingdom.", "category": "historical", "coords": [-2.103372, 57.157367]}, {"name": "63 ABD CR", "text": "The archaeological grounds of 63 ABD CR invite guests to step back in time while visiting Aberdeen. This historical site features uncovered remnants that shed light on local history. It provides a quiet setting for observing ancient physical evidence.", "category": "historical", "coords": [-2.086147, 57.159191]}, {"name": "64 ABD CR", "text": "Exploring Aberdeen reveals 64 ABD CR, a site dedicated to historical excavations. Visitors can walk around the area to appreciate the archaeological work and the unearthed artifacts' context. It is an interesting spot for learning about the city's deeper roots.", "category": "historical", "coords": [-2.087302, 57.166277]}, {"name": "56 ABD", "text": "Set in the landscape of Aberdeen, 56 ABD functions as a preserved historical excavation point. Those exploring the city's past can examine the ground features revealed by archaeologists here. The site connects modern onlookers directly with ancient times.", "category": "historical", "coords": [-2.117285, 57.162574]}, {"name": "58 ABD", "text": "The location designated as 58 ABD marks another archaeological endeavor in Aberdeen. Guests will find a historical site that highlights the continuous effort to uncover the United Kingdom's history. It is a subtle yet fascinating destination for heritage lovers.", "category": "historical", "coords": [-2.109834, 57.158594]}, {"name": "59 ABD", "text": "As a point of archaeological significance, 59 ABD enriches the historical map of Aberdeen. Walking through this site allows visitors to observe the layout of early historical structures or land usage. It serves as an open-air classroom for local history.", "category": "historical", "coords": [-2.105576, 57.157241]}, {"name": "Inchgarth Reservoir", "text": "Inchgarth Reservoir is a lake in Aberdeen providing a natural setting for walking and enjoying the scenery.", "category": "natural", "coords": [-2.163633, 57.115193]}, {"name": "Corby Loch", "text": "Corby Loch is a lake in Aberdeen providing a natural setting for walking and enjoying the scenery.", "category": "natural", "coords": [-2.126812, 57.22072]}, {"name": "Sunnybank Park Play Area", "text": "Sunnybank Park Play Area is a playground in Aberdeen where children can play safely and families can spend time together.", "category": "family", "coords": [-2.10584, 57.161167]}, {"name": "Fittie Play Park", "text": "Fittie Play Park is a playground in Aberdeen where children can play safely and families can spend time together.", "category": "family", "coords": [-2.06957, 57.142931]}, {"name": "Leslie Terrace Playpark", "text": "Leslie Terrace Playpark is a playground in Aberdeen where children can play safely and families can spend time together.", "category": "family", "coords": [-2.111642, 57.156126]}, {"name": "Pirate Island Adventure Golf", "text": "Pirate Island Adventure Golf is a miniature golf course in Aberdeen providing a classic and engaging activity for the whole family.", "category": "family", "coords": [-2.080776, 57.151499]}, {"name": "Balgownie Playpark", "text": "Balgownie Playpark is a playground in Aberdeen where children can play safely and families can spend time together.", "category": "family", "coords": [-2.12007, 57.178588]}, {"name": "Matthews Road Play Area", "text": "Matthews Road Play Area is a playground in Aberdeen where children can play safely and families can spend time together.", "category": "family", "coords": [-2.113005, 57.11706]}, {"name": "Thistle Court Play Area", "text": "Thistle Court Play Area is a playground in Aberdeen where children can play safely and families can spend time together.", "category": "family", "coords": [-2.11133, 57.145781]}, {"name": "Skene Street Play Area", "text": "Skene Street Play Area is a playground in Aberdeen where children can play safely and families can spend time together.", "category": "family", "coords": [-2.10935, 57.147177]}, {"name": "Wales Street Play Area", "text": "Wales Street Play Area is a playground in Aberdeen where children can play safely and families can spend time together.", "category": "family", "coords": [-2.08747, 57.15075]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Marischal College",
+                  "text": "Das zweitgrößte Granitgebäude der Welt beeindruckt durch seine neugotische Architektur und Geschichte.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.096833,
+                        57.14966
+                  ]
+            },
+            {
+                  "name": "St Machar's Cathedral",
+                  "text": "Diese mittelalterliche Kathedrale ist berühmt für ihre Doppeltürme und die einzigartige heraldische Decke.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10295,
+                        57.1693
+                  ]
+            },
+            {
+                  "name": "Footdee",
+                  "text": "Ein malerisches ehemaliges Fischerdorf an der Hafenmündung mit winzigen, bunt geschmückten Cottages.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.079689,
+                        57.145967
+                  ]
+            },
+            {
+                  "name": "Aberdeen Art Gallery",
+                  "text": "Ein bedeutendes Kunstmuseum mit einer umfangreichen Sammlung von Skulpturen und modernen Gemälden.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.102713,
+                        57.148191
+                  ]
+            },
+            {
+                  "name": "Duthie Park",
+                  "text": "Ein weitläufiger Park, der die David Welch Winter Gardens beherbergt, eine der größten Glasanlagen Europas.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.103473,
+                        57.130494
+                  ]
+            },
+            {
+                  "name": "Aberdeen Maritime Museum",
+                  "text": "Dieses Museum dokumentiert Aberdeens enge Verbindung zum Meer und die Geschichte der Ölindustrie.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09496,
+                        57.1465
+                  ]
+            },
+            {
+                  "name": "Old Aberdeen",
+                  "text": "Ein historisches Viertel mit Kopfsteinpflasterstraßen, alten Universitätsgebäuden und ruhigen Gärten.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1024,
+                        57.1648
+                  ]
+            },
+            {
+                  "name": "King's College",
+                  "text": "Das Herz der Universität aus dem 15. Jahrhundert, bekannt für seinen markanten Kronenturm.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.100876,
+                        57.163931
+                  ]
+            },
+            {
+                  "name": "His Majesty's Theatre",
+                  "text": "Ein prachtvolles Theater im edwardianischen Stil, das große Tourneen und lokale Shows präsentiert.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.104961,
+                        57.148153
+                  ]
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "Der weitläufige Sandstrand von Aberdeen zeichnet sich durch seine einladende Promenade aus, die entlang der schottischen Küste verläuft. Er bietet ideale Bedingungen für ausgedehnte Spaziergänge und diverse Wassersportaktivitäten in frischer Meeresbrise. Ein Spaziergang lohnt sich zu jeder Jahreszeit, auch wenn es etwas windiger ist.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.07722,
+                        57.1531
+                  ]
+            },
+            {
+                  "name": "Codonas Amusement Park",
+                  "text": "Ein familiengeführter Vergnügungspark direkt am Strand mit Achterbahnen und Unterhaltung für Kinder.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.079379,
+                        57.151103
+                  ]
+            },
+            {
+                  "name": "Brig o' Balgownie",
+                  "text": "Eine historische Steinbrücke aus dem 13. Jahrhundert, die den Fluss Don in Old Aberdeen überquert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.098742,
+                        57.177245
+                  ]
+            },
+            {
+                  "name": "Provost Skene's House",
+                  "text": "Das älteste Wohnhaus der Stadt zeigt heute historisch eingerichtete Räume aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09752,
+                        57.1483
+                  ]
+            },
+            {
+                  "name": "Tolbooth Museum",
+                  "text": "Ein ehemaliges Gefängnis aus dem 17. Jahrhundert, das die Geschichte von Verbrechen und Strafe zeigt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.0951,
+                        57.148
+                  ]
+            },
+            {
+                  "name": "Union Terrace Gardens",
+                  "text": "Ein viktorianischer Park im Stadtzentrum, der kürzlich mit modernen Pavillons neu gestaltet wurde.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10333,
+                        57.1469
+                  ]
+            },
+            {
+                  "name": "Johnston Gardens",
+                  "text": "Ein preisgekrönter kleiner Garten mit Teichen, Wasserfällen und einer berühmten kleinen blauen Brücke.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.14889,
+                        57.1361
+                  ]
+            },
+            {
+                  "name": "Cruickshank Botanic Garden",
+                  "text": "Ein ruhiger botanischer Garten der Universität mit einer Vielfalt an alpinen und Arzneipflanzen.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10472,
+                        57.1678
+                  ]
+            },
+            {
+                  "name": "Pittodrie Stadium",
+                  "text": "Die Heimat des Aberdeen FC, bekannt als eines der ersten reinen Sitzplatzstadien in Großbritannien.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.088889,
+                        57.159167
+                  ]
+            },
+            {
+                  "name": "Aberdeen Town House",
+                  "text": "Ein beeindruckendes viktorianisches Rathaus, das als Verwaltungszentrum der Stadt dient.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09468,
+                        57.1481
+                  ]
+            },
+            {
+                  "name": "Hazlehead Park",
+                  "text": "Ein großer Waldpark mit Golfplätzen, einem Labyrinth und einem wunderschönen Rosengarten.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.17861,
+                        57.1386
+                  ]
+            },
+            {
+                  "name": "Girdleness Lighthouse",
+                  "text": "Ein markanter Leuchtturm am Hafeneingang, entworfen vom berühmten Ingenieur Robert Stevenson.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.04858,
+                        57.139
+                  ]
+            },
+            {
+                  "name": "Torry Battery",
+                  "text": "Eine Küstenbefestigung aus dem 19. Jahrhundert mit exzellentem Blick auf den Hafen und Delfine.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -2.058758,
+                        57.141563
+                  ]
+            },
+            {
+                  "name": "Music Hall Aberdeen",
+                  "text": "Ein historisches Konzerthaus an der Union Street für klassische und zeitgenössische Musik.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.105002,
+                        57.145422
+                  ]
+            },
+            {
+                  "name": "St Nicholas Kirk",
+                  "text": "Eine der größten Pfarrkirchen Schottlands, deren Ursprünge bis in das 12. Jahrhundert zurückreichen.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09927,
+                        57.1476
+                  ]
+            },
+            {
+                  "name": "Aberdeen Science Centre",
+                  "text": "Ein interaktives Wissenschaftsmuseum, das besonders für Familien und Kinder viele Experimente bietet.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.0847,
+                        57.1532
+                  ]
+            },
+            {
+                  "name": "Gordon Highlanders Museum",
+                  "text": "Ein Museum, das der Geschichte des berühmten Infanterieregiments aus Schottland gewidmet ist.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.14617,
+                        57.1375
+                  ]
+            },
+            {
+                  "name": "Seaton Park",
+                  "text": "Ein großer Park am Fluss Don mit Blumenbeeten und dem historischen Weg zur Kathedrale.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1025,
+                        57.1717
+                  ]
+            },
+            {
+                  "name": "Belmont Street",
+                  "text": "Eine lebendige Straße im Zentrum mit zahlreichen Bars, Cafés und einem Kino in einer alten Kirche.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10139,
+                        57.14687
+                  ]
+            },
+            {
+                  "name": "Union Street",
+                  "text": "Die Haupteinkaufsstraße der Stadt, bekannt für ihre imposanten Fassaden aus lokalem Granit.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.099412,
+                        57.146365
+                  ]
+            },
+            {
+                  "name": "Bon Accord Centre",
+                  "text": "Ein großes Einkaufszentrum im Herzen von Aberdeen mit einer breiten Auswahl an Marken.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09972,
+                        57.1486
+                  ]
+            },
+            {
+                  "name": "King's Museum",
+                  "text": "Das Universitätsmuseum von Aberdeen präsentiert vielfältige enzyklopädische Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        -2.102257,
+                        57.167124
+                  ]
+            },
+            {
+                  "name": "Tivoli Theatre",
+                  "text": "Ein wunderschön restauriertes viktorianisches Theater im Herzen von Aberdeen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.097611,
+                        57.14505
+                  ]
+            },
+            {
+                  "name": "Rubislaw Parish Church",
+                  "text": "Eine aktive Kirchengemeinde in einem architektonisch ansprechenden Gebäude in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.127509,
+                        57.14351
+                  ]
+            },
+            {
+                  "name": "Queen's Cross Parish Church",
+                  "text": "Diese Kirche ist bekannt für ihre Verbindung zu den Werken lokaler Architekten.",
+                  "category": "religious",
+                  "coords": [
+                        -2.124747,
+                        57.143296
+                  ]
+            },
+            {
+                  "name": "Bon Accord Free Church",
+                  "text": "Ein markantes Kirchengebäude im Stadtteil West End von Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.109823,
+                        57.148421
+                  ]
+            },
+            {
+                  "name": "St Margaret of Scotland",
+                  "text": "Eine episkopale Kirchengemeinde mit einer traditionellen liturgischen Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        -2.097706,
+                        57.151386
+                  ]
+            },
+            {
+                  "name": "St. Andrews Cathedral",
+                  "text": "Die Kathedrale der Diözese Aberdeen und der Orkney-Inseln.",
+                  "category": "religious",
+                  "coords": [
+                        -2.093005,
+                        57.149065
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Mary of the Assumption",
+                  "text": "Die Hauptkirche der römisch-katholischen Gemeinschaft in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.106374,
+                        57.145404
+                  ]
+            },
+            {
+                  "name": "Gilcomston Church",
+                  "text": "Eine evangelische Kirche im Zentrum von Aberdeen mit einer starken Predigtradition.",
+                  "category": "religious",
+                  "coords": [
+                        -2.108742,
+                        57.144076
+                  ]
+            },
+            {
+                  "name": "Gerrard Street Baptist Church",
+                  "text": "Ein Ort der Anbetung für die Baptistengemeinde in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.102225,
+                        57.153256
+                  ]
+            },
+            {
+                  "name": "Aberdeen Mosque & Islamic Centre",
+                  "text": "Das größte religiöse Zentrum für die muslimische Gemeinschaft in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        -2.091538,
+                        57.150389
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist",
+                  "text": "Eine lokale Kirchengemeinde, die der Religionsgemeinschaft in Aberdeen dient.",
+                  "category": "religious",
+                  "coords": [
+                        -2.101188,
+                        57.143331
+                  ]
+            },
+            {
+                  "name": "Bridge of Don",
+                  "text": "Eine historische Brücke über den Fluss Don im Norden der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.090614,
+                        57.175604
+                  ]
+            },
+            {
+                  "name": "King George VI Bridge",
+                  "text": "Eine der wichtigsten Brücken über den Fluss Dee in Aberdeen.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.10825,
+                        57.12793
+                  ]
+            },
+            {
+                  "name": "Victoria Bridge",
+                  "text": "Eine Granitbrücke, die das Stadtzentrum mit dem Viertel Torry verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.08953,
+                        57.140027
+                  ]
+            },
+            {
+                  "name": "Wellington Suspension Bridge",
+                  "text": "Eine historische Hängebrücke für Fußgänger über den Fluss Dee.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.095592,
+                        57.135576
+                  ]
+            },
+            {
+                  "name": "Westburn Park",
+                  "text": "Ein beliebter Volkspark mit Sportanlagen und Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        -2.123179,
+                        57.154416
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Ein kleinerer, gepflegter Park im Zentrum von Aberdeen.",
+                  "category": "park",
+                  "coords": [
+                        -2.121742,
+                        57.151751
+                  ]
+            },
+            {
+                  "name": "Queen's Terrace Gardens",
+                  "text": "Zentrale Gärten mit viktorianischem Flair und schönen Blumenbeeten.",
+                  "category": "park",
+                  "coords": [
+                        -2.120423,
+                        57.143166
+                  ]
+            },
+            {
+                  "name": "Rubislaw Terrace Gardens",
+                  "text": "Ein ruhiger öffentlicher Gartenraum inmitten historischer Architektur.",
+                  "category": "park",
+                  "coords": [
+                        -2.117338,
+                        57.143123
+                  ]
+            },
+            {
+                  "name": "Stewart Park",
+                  "text": "Ein kommunaler Park im Norden der Stadt für Freizeitaktivitäten.",
+                  "category": "park",
+                  "coords": [
+                        -2.134088,
+                        57.167686
+                  ]
+            },
+            {
+                  "name": "Aberdeen Hebrew Congregation Synagogue",
+                  "text": "Die Synagoge dient der jüdischen Gemeinde in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.10321,
+                        57.142263
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "Ein Museum der Universität, das die Vielfalt der Tierwelt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -2.106304,
+                        57.167983
+                  ]
+            },
+            {
+                  "name": "Motte of Tillydrone",
+                  "text": "Ein künstlicher Erdhügel, der vermutlich Standort einer frühen Burg war.",
+                  "category": "historical",
+                  "coords": [
+                        -2.106376,
+                        57.170631
+                  ]
+            },
+            {
+                  "name": "St Fittick's Church",
+                  "text": "Die Ruinen einer mittelalterlichen Kirche in der Nähe des Hafens.",
+                  "category": "historical",
+                  "coords": [
+                        -2.06324,
+                        57.135504
+                  ]
+            },
+            {
+                  "name": "McGrigor Obelisk",
+                  "text": "Ein Granitdenkmal zu Ehren von Sir James McGrigor.",
+                  "category": "historical",
+                  "coords": [
+                        -2.103712,
+                        57.129112
+                  ]
+            },
+            {
+                  "name": "Holburn West Church",
+                  "text": "Ein religiöses Gebäude im Viertel Holburn von Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.122643,
+                        57.136498
+                  ]
+            },
+            {
+                  "name": "St Mary's Parish Church",
+                  "text": "Eine örtliche Pfarrkirche für die Gemeinschaft in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.096591,
+                        57.164239
+                  ]
+            },
+            {
+                  "name": "Trinity Church Aberdeen",
+                  "text": "Ein Kirchengebäude, das der lokalen Gemeinde in Aberdeen dient.",
+                  "category": "religious",
+                  "coords": [
+                        -2.094537,
+                        57.149733
+                  ]
+            },
+            {
+                  "name": "River Dee Viaduct",
+                  "text": "Eine Eisenbahnbrücke über den Fluss Dee in der Nähe von Aberdeen.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.096673,
+                        57.13075
+                  ]
+            },
+            {
+                  "name": "Walled Gardens",
+                  "text": "Gartenanlagen mit Mauereinfassungen innerhalb der städtischen Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        -2.09885,
+                        57.174334
+                  ]
+            },
+            {
+                  "name": "Rendezvous Gallery",
+                  "text": "Ein Ausstellungsraum für Kunst im Stadtgebiet.",
+                  "category": "museum",
+                  "coords": [
+                        -2.130058,
+                        57.13828
+                  ]
+            },
+            {
+                  "name": "62 ABD CR",
+                  "text": "62 ABD CR ist eine bedeutsame historische Stätte in der Stadt Aberdeen. Besucher dieser archäologischen Ausgrabungsstätte im Vereinigten Königreich erhalten faszinierende Einblicke in vergangene Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        -2.099123,
+                        57.157244
+                  ]
+            },
+            {
+                  "name": "53 ABD",
+                  "text": "Die historische Stätte 53 ABD befindet sich im britischen Aberdeen und lädt zur Spurensuche ein. Diese archäologische Ausgrabungsstätte lässt die regionale Geschichte durch ihre Überreste lebendig werden.",
+                  "category": "historical",
+                  "coords": [
+                        -2.129886,
+                        57.166988
+                  ]
+            },
+            {
+                  "name": "55 ABD",
+                  "text": "Mit 55 ABD besitzt Aberdeen ein weiteres bemerkenswertes historisches Monument. Die archäologische Ausgrabungsstätte im Vereinigten Königreich ist ein wertvolles Zeugnis der frühen Besiedlungsgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        -2.118435,
+                        57.160819
+                  ]
+            },
+            {
+                  "name": "57 ABD",
+                  "text": "Die als 57 ABD bekannte archäologische Ausgrabungsstätte befindet sich im schottischen Aberdeen. Besucher mit Interesse an historischen Funden können hier die Überreste vergangener Epochen erkunden. Dieser Ort gewährt Einblicke in das alte Erbe der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -2.113951,
+                        57.159931
+                  ]
+            },
+            {
+                  "name": "60 ABD",
+                  "text": "Innerhalb von Aberdeen gelegen, stellt 60 ABD eine bedeutende historische Ausgrabungsstätte dar. Geschichtsinteressierte können an diesem archäologischen Ort alte Spuren der Vergangenheit entdecken. Das Gelände zeugt von den frühen Siedlungen im Vereinigten Königreich.",
+                  "category": "historical",
+                  "coords": [
+                        -2.103372,
+                        57.157367
+                  ]
+            },
+            {
+                  "name": "63 ABD CR",
+                  "text": "Das archäologische Gelände von 63 ABD CR lädt Gäste dazu ein, bei einem Besuch in Aberdeen eine Reise in die Vergangenheit zu unternehmen. Diese historische Stätte umfasst freigelegte Überreste, die die lokale Geschichte beleuchten. Sie bietet eine ruhige Umgebung, um antike physische Spuren zu betrachten.",
+                  "category": "historical",
+                  "coords": [
+                        -2.086147,
+                        57.159191
+                  ]
+            },
+            {
+                  "name": "64 ABD CR",
+                  "text": "Bei der Erkundung von Aberdeen stößt man auf 64 ABD CR, einen Ort, der historischen Ausgrabungen gewidmet ist. Besucher können das Areal abgehen, um die archäologische Arbeit und den Kontext der freigelegten Funde zu würdigen. Es ist ein interessanter Punkt, um mehr über die tieferen Wurzeln der Stadt zu erfahren.",
+                  "category": "historical",
+                  "coords": [
+                        -2.087302,
+                        57.166277
+                  ]
+            },
+            {
+                  "name": "56 ABD",
+                  "text": "In der Landschaft von Aberdeen gelegen, fungiert 56 ABD als erhaltener historischer Ausgrabungspunkt. Wer die Vergangenheit der Stadt erkundet, kann hier die von Archäologen freigelegten Bodenmerkmale untersuchen. Die Stätte verbindet moderne Betrachter direkt mit der Antike.",
+                  "category": "historical",
+                  "coords": [
+                        -2.117285,
+                        57.162574
+                  ]
+            },
+            {
+                  "name": "58 ABD",
+                  "text": "Der als 58 ABD bezeichnete Ort markiert ein weiteres archäologisches Unterfangen in Aberdeen. Gäste finden hier eine historische Stätte, die das stetige Bemühen um die Aufdeckung der Geschichte des Vereinigten Königreichs unterstreicht. Für Kulturerbe-Liebhaber ist es ein subtiles, aber faszinierendes Ausflugsziel.",
+                  "category": "historical",
+                  "coords": [
+                        -2.109834,
+                        57.158594
+                  ]
+            },
+            {
+                  "name": "59 ABD",
+                  "text": "Als Ort von archäologischer Bedeutung bereichert 59 ABD die historische Landkarte von Aberdeen. Ein Spaziergang durch dieses Gelände ermöglicht es Besuchern, die Anordnung früherer historischer Strukturen oder der Landnutzung zu betrachten. Es dient als eine Art Freiluftklassenzimmer für die lokale Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        -2.105576,
+                        57.157241
+                  ]
+            },
+            {
+                  "name": "Inchgarth Reservoir",
+                  "text": "Inchgarth Reservoir ist ein See in Aberdeen, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.163633,
+                        57.115193
+                  ]
+            },
+            {
+                  "name": "Corby Loch",
+                  "text": "Corby Loch ist ein See in Aberdeen, der eine natürliche Umgebung für Spaziergänge und die Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.126812,
+                        57.22072
+                  ]
+            },
+            {
+                  "name": "Sunnybank Park Play Area",
+                  "text": "Sunnybank Park Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.10584,
+                        57.161167
+                  ]
+            },
+            {
+                  "name": "Fittie Play Park",
+                  "text": "Fittie Play Park ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.06957,
+                        57.142931
+                  ]
+            },
+            {
+                  "name": "Leslie Terrace Playpark",
+                  "text": "Leslie Terrace Playpark ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.111642,
+                        57.156126
+                  ]
+            },
+            {
+                  "name": "Pirate Island Adventure Golf",
+                  "text": "Pirate Island Adventure Golf ist eine Minigolfanlage in Aberdeen, die eine klassische und ansprechende Aktivität für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        -2.080776,
+                        57.151499
+                  ]
+            },
+            {
+                  "name": "Balgownie Playpark",
+                  "text": "Balgownie Playpark ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.12007,
+                        57.178588
+                  ]
+            },
+            {
+                  "name": "Matthews Road Play Area",
+                  "text": "Matthews Road Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.113005,
+                        57.11706
+                  ]
+            },
+            {
+                  "name": "Thistle Court Play Area",
+                  "text": "Thistle Court Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.11133,
+                        57.145781
+                  ]
+            },
+            {
+                  "name": "Skene Street Play Area",
+                  "text": "Skene Street Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.10935,
+                        57.147177
+                  ]
+            },
+            {
+                  "name": "Wales Street Play Area",
+                  "text": "Wales Street Play Area ist ein Spielplatz in Aberdeen, auf dem Kinder sicher spielen und Familien Zeit miteinander verbringen können.",
+                  "category": "family",
+                  "coords": [
+                        -2.08747,
+                        57.15075
+                  ]
+            },
+            {
+                  "name": "Bridge of Dee",
+                  "text": "Die Bridge of Dee ist eine historische Steinbrücke aus dem 16. Jahrhundert, die den Fluss Dee im Süden von Aberdeen überspannt. Sie ist für ihre sieben Bögen und die architektonischen Details bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.118847,
+                        57.122892
+                  ]
+            },
+            {
+                  "name": "Nigg Bay",
+                  "text": "Nigg Bay ist eine weite Bucht im Süden von Aberdeen, die für ihre raue Küstenlandschaft bekannt ist. Das Gebiet bietet Wege für Spaziergänge am Meer und beherbergt den neuen Tiefwasserhafen der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -2.054531,
+                        57.132907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marischal College",
+                  "text": "A világ második legnagyobb gránitépülete, az egyetem lenyűgöző neogótikus központja.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.096833,
+                        57.14966
+                  ]
+            },
+            {
+                  "name": "St Machar-székesegyház",
+                  "text": "Ősi székesegyház jellegzetes ikertornyaival és különleges, címerekkel díszített mennyezetével.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10295,
+                        57.1693
+                  ]
+            },
+            {
+                  "name": "Footdee (Fittie)",
+                  "text": "Gyakran Fittie-ként emlegetett apró halászfalu a kikötőnél, színesre díszített kunyhókkal.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.079689,
+                        57.145967
+                  ]
+            },
+            {
+                  "name": "Aberdeen Művészeti Galéria",
+                  "text": "A város legfontosabb múzeuma, amely jelentős képzőművészeti és szoborgyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.102713,
+                        57.148191
+                  ]
+            },
+            {
+                  "name": "Duthie Park",
+                  "text": "Hatalmas park, itt található Európa egyik legnagyobb fedett kertje, a David Welch Winter Gardens.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.103473,
+                        57.130494
+                  ]
+            },
+            {
+                  "name": "Aberdeen Tengerészeti Múzeum",
+                  "text": "A város tengeri történelmét és az északi-tengeri olajipar fejlődését bemutató modern múzeum.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09496,
+                        57.1465
+                  ]
+            },
+            {
+                  "name": "Ó-Aberdeen",
+                  "text": "Macskaköves utcákkal teli történelmi negyed, az egyetem legrégebbi épületeivel és parkjaival.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1024,
+                        57.1648
+                  ]
+            },
+            {
+                  "name": "King's College",
+                  "text": "A városi egyetem 15. századi központja, amely híres különleges korona alakú toronysisakjáról.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.100876,
+                        57.163931
+                  ]
+            },
+            {
+                  "name": "His Majesty's Theatre",
+                  "text": "Pompás edward-kori színházépület, amely rangos nemzetközi és hazai előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.104961,
+                        57.148153
+                  ]
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "Aberdeen tágas homokos strandját a skót partok mentén futó hívogató sétány teszi különlegessé. Ideális feltételeket kínál hosszú sétákhoz és különféle vízi sportokhoz a friss tengeri szellőben. Egy itteni séta minden évszakban megéri, még akkor is, ha kicsit szelesebb az idő.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.07722,
+                        57.1531
+                  ]
+            },
+            {
+                  "name": "Codonas vidámpark",
+                  "text": "Családi kézben lévő vidámpark és szórakoztató központ közvetlenül a tengerparti sétány mellett.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.079379,
+                        57.151103
+                  ]
+            },
+            {
+                  "name": "Brig o' Balgownie",
+                  "text": "A Don folyón átívelő, 13. századi műemlék kőhíd Ó-Aberdeen közelében, remek fotóhelyszín.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.098742,
+                        57.177245
+                  ]
+            },
+            {
+                  "name": "Provost Skene háza",
+                  "text": "A város legrégebbi lakóháza, amely különböző korszakok szerint berendezett szobákat mutat be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09752,
+                        57.1483
+                  ]
+            },
+            {
+                  "name": "Tolbooth Múzeum",
+                  "text": "Egy 17. századi börtönépületben kialakított múzeum a helyi bűnözés és büntetés történetéről.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.0951,
+                        57.148
+                  ]
+            },
+            {
+                  "name": "Union Terrace Gardens",
+                  "text": "Viktoriánus stílusú süllyesztett park a belvárosban, amelyet nemrég modern pavilonokkal újítottak fel.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10333,
+                        57.1469
+                  ]
+            },
+            {
+                  "name": "Johnston Gardens",
+                  "text": "Díjnyertes kis botanikus kert tavakkal, vízesésekkel és egy ikonikus kékre festett fahíddal.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.14889,
+                        57.1361
+                  ]
+            },
+            {
+                  "name": "Cruickshank botanikus kert",
+                  "text": "Az egyetem fenntartásában lévő csendes kert, amely alpesi és gyógynövényekben gazdag.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10472,
+                        57.1678
+                  ]
+            },
+            {
+                  "name": "Pittodrie Stadion",
+                  "text": "Az Aberdeen FC otthona, az Egyesült Királyság egyik első kizárólag ülőhelyes stadionja.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.088889,
+                        57.159167
+                  ]
+            },
+            {
+                  "name": "Aberdeen Városháza",
+                  "text": "Impozáns viktoriánus középület, amely a város közigazgatási és politikai központjaként szolgál.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09468,
+                        57.1481
+                  ]
+            },
+            {
+                  "name": "Hazlehead Park",
+                  "text": "Kiterjedt erdős park golfpályákkal, útvesztővel és egy gyönyörű rózsakerttel a város szélén.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.17861,
+                        57.1386
+                  ]
+            },
+            {
+                  "name": "Girdleness világítótorony",
+                  "text": "Robert Stevenson által tervezett világítótorony, amely a kikötő bejáratát őrzi a tengerparton.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.04858,
+                        57.139
+                  ]
+            },
+            {
+                  "name": "Torry Battery",
+                  "text": "19. századi parti erődítmény, ahonnan remek kilátás nyílik a kikötőre és gyakran delfineket is látni.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -2.058758,
+                        57.141563
+                  ]
+            },
+            {
+                  "name": "Music Hall Aberdeen",
+                  "text": "Történelmi koncertterem az Union Streeten, amely klasszikus és könnyűzenei koncertek helyszíne.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.105002,
+                        57.145422
+                  ]
+            },
+            {
+                  "name": "St Nicholas-templom",
+                  "text": "Skócia egyik legnagyobb plébániatemploma, amelynek egyes részei a 12. századból származnak.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09927,
+                        57.1476
+                  ]
+            },
+            {
+                  "name": "Aberdeen Tudományos Központ",
+                  "text": "Interaktív tudományos múzeum gyermekeknek, ahol játékos kísérleteken keresztül tanulhatnak.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.0847,
+                        57.1532
+                  ]
+            },
+            {
+                  "name": "Gordon Highlanders Múzeum",
+                  "text": "A híres északkelet-skóciai gyalogezred történetét bemutató katonai gyűjtemény és emlékmű.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.14617,
+                        57.1375
+                  ]
+            },
+            {
+                  "name": "Seaton Park",
+                  "text": "A Don folyó partján elterülő nagy közpark virágágyásokkal és a katedrálishoz vezető sétánnyal.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1025,
+                        57.1717
+                  ]
+            },
+            {
+                  "name": "Belmont Street",
+                  "text": "Karakteres belvárosi utca számos bárral, kávézóval és egy régi templomból kialakított mozival.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10139,
+                        57.14687
+                  ]
+            },
+            {
+                  "name": "Union Street",
+                  "text": "Aberdeen főútvonala, amely monumentális gránitépületeiről és üzleteiről vált híressé.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.099412,
+                        57.146365
+                  ]
+            },
+            {
+                  "name": "Bon Accord bevásárlóközpont",
+                  "text": "A város szívében található nagy bevásárlóközpont nemzetközi márkákkal és éttermekkel.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09972,
+                        57.1486
+                  ]
+            },
+            {
+                  "name": "King's Museum",
+                  "text": "Az Aberdeeni Egyetem múzeuma változatos enciklopédikus gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.102257,
+                        57.167124
+                  ]
+            },
+            {
+                  "name": "Tivoli Theatre",
+                  "text": "Gyönyörűen felújított viktoriánus színház Aberdeen szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.097611,
+                        57.14505
+                  ]
+            },
+            {
+                  "name": "Rubislaw Parish Church",
+                  "text": "Aktív egyházközség egy építészetileg tetszetős épületben Aberdeenben.",
+                  "category": "religious",
+                  "coords": [
+                        -2.127509,
+                        57.14351
+                  ]
+            },
+            {
+                  "name": "Queen's Cross Parish Church",
+                  "text": "Ez a templom a helyi építészek munkáihoz fűződő kapcsolatairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -2.124747,
+                        57.143296
+                  ]
+            },
+            {
+                  "name": "Bon Accord Free Church",
+                  "text": "Jellegzetes templomépület Aberdeen West End negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -2.109823,
+                        57.148421
+                  ]
+            },
+            {
+                  "name": "St Margaret of Scotland",
+                  "text": "Episzkopális egyházközség hagyományos liturgikus hagyományokkal.",
+                  "category": "religious",
+                  "coords": [
+                        -2.097706,
+                        57.151386
+                  ]
+            },
+            {
+                  "name": "St. Andrews Cathedral",
+                  "text": "Az Aberdeeni és Orkney-szigeteki Egyházmegye székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        -2.093005,
+                        57.149065
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Mary of the Assumption",
+                  "text": "Az aberdeeni római katolikus közösség főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        -2.106374,
+                        57.145404
+                  ]
+            },
+            {
+                  "name": "Gilcomston Church",
+                  "text": "Evangéliumi templom Aberdeen központjában, erős prédikációs hagyománnyal.",
+                  "category": "religious",
+                  "coords": [
+                        -2.108742,
+                        57.144076
+                  ]
+            },
+            {
+                  "name": "Gerrard Street Baptist Church",
+                  "text": "Az aberdeeni baptista közösség istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        -2.102225,
+                        57.153256
+                  ]
+            },
+            {
+                  "name": "Aberdeen Mosque & Islamic Centre",
+                  "text": "A régió muzulmán közösségének legnagyobb vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        -2.091538,
+                        57.150389
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist",
+                  "text": "Helyi egyházközség, amely az aberdeeni vallási közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -2.101188,
+                        57.143331
+                  ]
+            },
+            {
+                  "name": "Bridge of Don",
+                  "text": "Történelmi híd a Don folyón, a város északi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.090614,
+                        57.175604
+                  ]
+            },
+            {
+                  "name": "King George VI Bridge",
+                  "text": "Az egyik legfontosabb híd a Dee folyón Aberdeenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.10825,
+                        57.12793
+                  ]
+            },
+            {
+                  "name": "Victoria Bridge",
+                  "text": "Gránithíd, amely a városközpontot köti össze Torry negyedével.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.08953,
+                        57.140027
+                  ]
+            },
+            {
+                  "name": "Wellington Suspension Bridge",
+                  "text": "Történelmi gyalogos függőhíd a Dee folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.095592,
+                        57.135576
+                  ]
+            },
+            {
+                  "name": "Westburn Park",
+                  "text": "Népszerű közpark sportlétesítményekkel és zöldfelületekkel.",
+                  "category": "park",
+                  "coords": [
+                        -2.123179,
+                        57.154416
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Kisebb, gondozott park Aberdeen központjában.",
+                  "category": "park",
+                  "coords": [
+                        -2.121742,
+                        57.151751
+                  ]
+            },
+            {
+                  "name": "Queen's Terrace Gardens",
+                  "text": "Viktoriánus hangulatú központi kertek szép virágágyásokkal.",
+                  "category": "park",
+                  "coords": [
+                        -2.120423,
+                        57.143166
+                  ]
+            },
+            {
+                  "name": "Rubislaw Terrace Gardens",
+                  "text": "Nyugodt nyilvános kert történelmi épületek gyűrűjében.",
+                  "category": "park",
+                  "coords": [
+                        -2.117338,
+                        57.143123
+                  ]
+            },
+            {
+                  "name": "Stewart Park",
+                  "text": "Városi park a város északi részén szabadidős tevékenységekhez.",
+                  "category": "park",
+                  "coords": [
+                        -2.134088,
+                        57.167686
+                  ]
+            },
+            {
+                  "name": "Aberdeen Hebrew Congregation Synagogue",
+                  "text": "Zsinagóga, amely az aberdeeni zsidó közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -2.10321,
+                        57.142263
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "Az egyetem múzeuma, amely az állatvilág sokszínűségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.106304,
+                        57.167983
+                  ]
+            },
+            {
+                  "name": "Motte of Tillydrone",
+                  "text": "Mesterséges domb, amely feltehetően egy korai vár helyszíne volt.",
+                  "category": "historical",
+                  "coords": [
+                        -2.106376,
+                        57.170631
+                  ]
+            },
+            {
+                  "name": "St Fittick's Church",
+                  "text": "Egy középkori templom romjai a kikötő közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -2.06324,
+                        57.135504
+                  ]
+            },
+            {
+                  "name": "McGrigor Obelisk",
+                  "text": "Gránit emlékmű Sir James McGrigor tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -2.103712,
+                        57.129112
+                  ]
+            },
+            {
+                  "name": "Holburn West Church",
+                  "text": "Vallási épület Aberdeen Holburn negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -2.122643,
+                        57.136498
+                  ]
+            },
+            {
+                  "name": "St Mary's Parish Church",
+                  "text": "Helyi plébániatemplom az aberdeeni közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -2.096591,
+                        57.164239
+                  ]
+            },
+            {
+                  "name": "Trinity Church Aberdeen",
+                  "text": "Az aberdeeni helyi közösséget szolgáló templomépület.",
+                  "category": "religious",
+                  "coords": [
+                        -2.094537,
+                        57.149733
+                  ]
+            },
+            {
+                  "name": "River Dee Viaduct",
+                  "text": "Vasúti híd a Dee folyón Aberdeen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.096673,
+                        57.13075
+                  ]
+            },
+            {
+                  "name": "Walled Gardens",
+                  "text": "Fallal körülvett kertrészek a városi zöldterületeken belül.",
+                  "category": "park",
+                  "coords": [
+                        -2.09885,
+                        57.174334
+                  ]
+            },
+            {
+                  "name": "Rendezvous Gallery",
+                  "text": "Művészeti kiállítótér a város területén.",
+                  "category": "museum",
+                  "coords": [
+                        -2.130058,
+                        57.13828
+                  ]
+            },
+            {
+                  "name": "62 ABD CR",
+                  "text": "A 62 ABD CR egy jelentős történelmi helyszín Aberdeen városában. Ennek az egyesült királyságbeli régészeti ásatásnak a látogatói lenyűgöző bepillantást nyerhetnek a letűnt korokba.",
+                  "category": "historical",
+                  "coords": [
+                        -2.099123,
+                        57.157244
+                  ]
+            },
+            {
+                  "name": "53 ABD",
+                  "text": "Az 53 ABD nevű történelmi helyszín a brit Aberdeenben található, és izgalmas felfedezésre hív. Ez a régészeti lelőhely maradványain keresztül kelti életre a régió múltját.",
+                  "category": "historical",
+                  "coords": [
+                        -2.129886,
+                        57.166988
+                  ]
+            },
+            {
+                  "name": "55 ABD",
+                  "text": "Az 55 ABD révén Aberdeen egy újabb figyelemre méltó történelmi emlékkel büszkélkedhet. Ez az egyesült királyságbeli régészeti ásatás az egykori korai települések értékes bizonyítéka.",
+                  "category": "historical",
+                  "coords": [
+                        -2.118435,
+                        57.160819
+                  ]
+            },
+            {
+                  "name": "57 ABD",
+                  "text": "Az 57 ABD néven ismert régészeti lelőhely a skóciai Aberdeen városában található. A történelmi ásatások iránt érdeklődő látogatók ezen a helyen letűnt korok fennmaradt emlékeit fedezhetik fel. A terület bepillantást enged a régió ősi örökségébe.",
+                  "category": "historical",
+                  "coords": [
+                        -2.113951,
+                        57.159931
+                  ]
+            },
+            {
+                  "name": "60 ABD",
+                  "text": "Az Aberdeenben található 60 ABD egy fontos történelmi ásatási terület. A történelem szerelmesei ősi nyomokat fedezhetnek fel ezen a régészeti helyszínen. A terület az Egyesült Királyság korai településeinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -2.103372,
+                        57.157367
+                  ]
+            },
+            {
+                  "name": "63 ABD CR",
+                  "text": "A 63 ABD CR régészeti területe időutazásra hívja a vendégeket aberdeeni látogatásuk során. Ezen a történelmi helyszínen feltárt maradványok találhatók, amelyek rávilágítanak a helyi történelemre. Csendes környezetet biztosít az ősi fizikai bizonyítékok megfigyeléséhez.",
+                  "category": "historical",
+                  "coords": [
+                        -2.086147,
+                        57.159191
+                  ]
+            },
+            {
+                  "name": "64 ABD CR",
+                  "text": "Aberdeen felfedezése során bukkanhatunk rá a 64 ABD CR nevű, történelmi ásatásoknak szentelt területre. A látogatók körbesétálhatnak, hogy értékeljék a régészeti munkát és a feltárt leletek kontextusát. Érdekes helyszín a város mélyebb gyökereinek megismerésére.",
+                  "category": "historical",
+                  "coords": [
+                        -2.087302,
+                        57.166277
+                  ]
+            },
+            {
+                  "name": "56 ABD",
+                  "text": "Az aberdeeni tájban elhelyezkedő 56 ABD egy megőrzött történelmi ásatási pontként funkcionál. A város múltját kutatók itt megvizsgálhatják a régészek által feltárt talajképződményeket. A lelőhely közvetlenül köti össze a modern nézelődőket az ókorral.",
+                  "category": "historical",
+                  "coords": [
+                        -2.117285,
+                        57.162574
+                  ]
+            },
+            {
+                  "name": "58 ABD",
+                  "text": "Az 58 ABD néven megjelölt helyszín egy újabb régészeti vállalkozást jelöl Aberdeenben. A vendégek egy olyan történelmi helyet találhatnak itt, amely kiemeli az Egyesült Királyság történelmének feltárására irányuló folyamatos erőfeszítéseket. Ez egy finom, mégis lenyűgöző célpont az örökség szerelmeseinek.",
+                  "category": "historical",
+                  "coords": [
+                        -2.109834,
+                        57.158594
+                  ]
+            },
+            {
+                  "name": "59 ABD",
+                  "text": "Régészeti jelentőségű pontként az 59 ABD gazdagítja Aberdeen történelmi térképét. A helyszínen sétálva a látogatók megfigyelhetik a korai történelmi építmények vagy a földhasználat elrendezését. Mintegy szabadtéri tanteremként szolgál a helytörténet számára.",
+                  "category": "historical",
+                  "coords": [
+                        -2.105576,
+                        57.157241
+                  ]
+            },
+            {
+                  "name": "Inchgarth Reservoir",
+                  "text": "Az Inchgarth Reservoir egy tó Aberdeen területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.163633,
+                        57.115193
+                  ]
+            },
+            {
+                  "name": "Corby Loch",
+                  "text": "A Corby Loch egy tó Aberdeen területén, amely természetes környezetet biztosít sétákhoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -2.126812,
+                        57.22072
+                  ]
+            },
+            {
+                  "name": "Sunnybank Park Play Area",
+                  "text": "A Sunnybank Park Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.10584,
+                        57.161167
+                  ]
+            },
+            {
+                  "name": "Fittie Play Park",
+                  "text": "A Fittie Play Park egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.06957,
+                        57.142931
+                  ]
+            },
+            {
+                  "name": "Leslie Terrace Playpark",
+                  "text": "A Leslie Terrace Playpark egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.111642,
+                        57.156126
+                  ]
+            },
+            {
+                  "name": "Pirate Island Adventure Golf",
+                  "text": "A Pirate Island Adventure Golf egy minigolfpálya Aberdeen területén, amely klasszikus és vonzó programot biztosít az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        -2.080776,
+                        57.151499
+                  ]
+            },
+            {
+                  "name": "Balgownie Playpark",
+                  "text": "A Balgownie Playpark egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.12007,
+                        57.178588
+                  ]
+            },
+            {
+                  "name": "Matthews Road Play Area",
+                  "text": "A Matthews Road Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.113005,
+                        57.11706
+                  ]
+            },
+            {
+                  "name": "Thistle Court Play Area",
+                  "text": "A Thistle Court Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.11133,
+                        57.145781
+                  ]
+            },
+            {
+                  "name": "Skene Street Play Area",
+                  "text": "A Skene Street Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.10935,
+                        57.147177
+                  ]
+            },
+            {
+                  "name": "Wales Street Play Area",
+                  "text": "A Wales Street Play Area egy játszótér Aberdeen területén, ahol a gyermekek biztonságosan játszhatnak, és a családok együtt tölthetik az időt.",
+                  "category": "family",
+                  "coords": [
+                        -2.08747,
+                        57.15075
+                  ]
+            },
+            {
+                  "name": "Bridge of Dee",
+                  "text": "A Bridge of Dee egy történelmi, 16. századi kőhíd, amely a Dee folyón ível át Aberdeen déli részén. Hét boltívéről és építészeti részleteiről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.118847,
+                        57.122892
+                  ]
+            },
+            {
+                  "name": "Nigg Bay",
+                  "text": "A Nigg-öböl egy tágas öböl Aberdeen déli részén, amely vadregényes tengerparti tájáról ismert. A környék parti sétákra hív, és itt található a város új, mélyvízi kikötője is.",
+                  "category": "natural",
+                  "coords": [
+                        -2.054531,
+                        57.132907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marischal College",
+                  "text": "A doua cea mai mare clădire de granit din lume, o capodoperă a stilului neogotic victorian.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.096833,
+                        57.14966
+                  ]
+            },
+            {
+                  "name": "Catedrala St Machar",
+                  "text": "O catedrală veche cu turnuri gemene distinctive și un tavan heraldic unic în Europa.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10295,
+                        57.1693
+                  ]
+            },
+            {
+                  "name": "Footdee (Fittie)",
+                  "text": "Un sat pescăresc pitoresc situat la gura portului, cu căsuțe mici și grădini frumos decorate.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.079689,
+                        57.145967
+                  ]
+            },
+            {
+                  "name": "Galeria de Artă Aberdeen",
+                  "text": "Recent renovată, găzduiește o colecție impresionantă de artă plastică și sculpturi moderne.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.102713,
+                        57.148191
+                  ]
+            },
+            {
+                  "name": "Duthie Park",
+                  "text": "Un parc vast care adăpostește Grădinile de Iarnă David Welch, printre cele mai mari din Europa.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.103473,
+                        57.130494
+                  ]
+            },
+            {
+                  "name": "Muzeul Maritim Aberdeen",
+                  "text": "Găzduit într-o clădire istorică, prezintă istoria navigației și a industriei petroliere din Marea Nordului.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09496,
+                        57.1465
+                  ]
+            },
+            {
+                  "name": "Old Aberdeen",
+                  "text": "Cartierul istoric al orașului, cu străzi pavate, clădiri universitare vechi și grădini liniștite.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1024,
+                        57.1648
+                  ]
+            },
+            {
+                  "name": "King's College",
+                  "text": "Inima universității fondată în secolul XV, renumită pentru turnul său în formă de coroană.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.100876,
+                        57.163931
+                  ]
+            },
+            {
+                  "name": "His Majesty's Theatre",
+                  "text": "Un teatru edwardian grandios care găzduiește spectacole de operă, balet și turnee internaționale.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.104961,
+                        57.148153
+                  ]
+            },
+            {
+                  "name": "Plaja Aberdeen",
+                  "text": "Plaja vastă de nisip din Aberdeen se remarcă prin promenada sa primitoare, care se întinde de-a lungul coastei scoțiene. Oferă condiții ideale pentru plimbări lungi și diverse activități de sporturi nautice în briza proaspătă a mării. O plimbare aici merită în orice anotimp, chiar și atunci când vântul este mai puternic.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.07722,
+                        57.1531
+                  ]
+            },
+            {
+                  "name": "Parcul de distracții Codonas",
+                  "text": "Complex de divertisment situat lângă plajă, oferind carusele și activități pentru întreaga familie.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.079379,
+                        57.151103
+                  ]
+            },
+            {
+                  "name": "Brig o' Balgownie",
+                  "text": "Un pod de piatră istoric din secolul al XIII-lea care traversează râul Don în Old Aberdeen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.098742,
+                        57.177245
+                  ]
+            },
+            {
+                  "name": "Casa Provost Skene",
+                  "text": "Cea mai veche casă de locuit din oraș, transformată în muzeu cu camere mobilate de epocă.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09752,
+                        57.1483
+                  ]
+            },
+            {
+                  "name": "Muzeul Tolbooth",
+                  "text": "O fostă închisoare din secolul XVII care prezintă istoria locală a criminalității și pedepselor.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.0951,
+                        57.148
+                  ]
+            },
+            {
+                  "name": "Grădinile Union Terrace",
+                  "text": "Un parc victorian situat în centrul orașului, recent modernizat cu pavilioane și zone de relaxare.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10333,
+                        57.1469
+                  ]
+            },
+            {
+                  "name": "Grădinile Johnston",
+                  "text": "O mică grădină botanică premiată, cu iazuri, cascade și un pod albastru extrem de fotogenic.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.14889,
+                        57.1361
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Cruickshank",
+                  "text": "Oază de liniște a universității, cu o colecție diversă de plante alpine și medicinale.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10472,
+                        57.1678
+                  ]
+            },
+            {
+                  "name": "Stadionul Pittodrie",
+                  "text": "Casa clubului de fotbal Aberdeen FC, primul stadion din Marea Britanie cu locuri exclusiv pe scaune.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.088889,
+                        57.159167
+                  ]
+            },
+            {
+                  "name": "Primăria Aberdeen",
+                  "text": "Clădire municipală victoriană impunătoare care servește ca centru administrativ al orașului.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09468,
+                        57.1481
+                  ]
+            },
+            {
+                  "name": "Parcul Hazlehead",
+                  "text": "Parc forestier extins care oferă terenuri de golf, un labirint și o grădină de trandafiri superbă.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.17861,
+                        57.1386
+                  ]
+            },
+            {
+                  "name": "Farul Girdleness",
+                  "text": "Far proiectat de Robert Stevenson, situat strategic la intrarea în portul orașului Aberdeen.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.04858,
+                        57.139
+                  ]
+            },
+            {
+                  "name": "Bateria Torry",
+                  "text": "O fortificație de coastă din secolul XIX care oferă vederi spectaculoase asupra portului și mării.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -2.058758,
+                        57.141563
+                  ]
+            },
+            {
+                  "name": "Music Hall Aberdeen",
+                  "text": "Sală de concerte istorică situată pe strada Union, un centru cultural pentru muzică și evenimente.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.105002,
+                        57.145422
+                  ]
+            },
+            {
+                  "name": "Biserica St Nicholas",
+                  "text": "Cunoscută ca Mither Kirk, este o biserică parohială mare cu părți ce datează din secolul XII.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09927,
+                        57.1476
+                  ]
+            },
+            {
+                  "name": "Centrul de Știință Aberdeen",
+                  "text": "Muzeu interactiv dedicat științei, oferind experimente educaționale captivante pentru copii.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.0847,
+                        57.1532
+                  ]
+            },
+            {
+                  "name": "Muzeul Gordon Highlanders",
+                  "text": "Dedicat istoriei faimosului regiment de infanterie din nord-estul Scoției și eroilor săi.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.14617,
+                        57.1375
+                  ]
+            },
+            {
+                  "name": "Parcul Seaton",
+                  "text": "Un parc mare pe malul râului Don, renumit pentru straturile sale de flori și aleile de promenadă.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1025,
+                        57.1717
+                  ]
+            },
+            {
+                  "name": "Strada Belmont",
+                  "text": "Zonă vibrantă în centrul orașului, celebră pentru cafenelele sale și viața de noapte animată.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10139,
+                        57.14687
+                  ]
+            },
+            {
+                  "name": "Strada Union",
+                  "text": "Principala arteră comercială din Aberdeen, flancată de clădiri monumentale construite din granit.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.099412,
+                        57.146365
+                  ]
+            },
+            {
+                  "name": "Centrul Bon Accord",
+                  "text": "Una dintre principalele destinații de shopping din inima orașului, cu o varietate mare de magazine.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09972,
+                        57.1486
+                  ]
+            },
+            {
+                  "name": "King's Museum",
+                  "text": "Muzeul Universității din Aberdeen prezintă diverse colecții enciclopedice.",
+                  "category": "museum",
+                  "coords": [
+                        -2.102257,
+                        57.167124
+                  ]
+            },
+            {
+                  "name": "Tivoli Theatre",
+                  "text": "Un teatru victorian restaurat superb în inima orașului Aberdeen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.097611,
+                        57.14505
+                  ]
+            },
+            {
+                  "name": "Rubislaw Parish Church",
+                  "text": "O parohie activă într-o clădire atractivă din punct de vedere arhitectural din Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.127509,
+                        57.14351
+                  ]
+            },
+            {
+                  "name": "Queen's Cross Parish Church",
+                  "text": "Această biserică este cunoscută pentru legătura sa cu lucrările arhitecților locali.",
+                  "category": "religious",
+                  "coords": [
+                        -2.124747,
+                        57.143296
+                  ]
+            },
+            {
+                  "name": "Bon Accord Free Church",
+                  "text": "O clădire bisericească distinctivă în cartierul West End din Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.109823,
+                        57.148421
+                  ]
+            },
+            {
+                  "name": "St Margaret of Scotland",
+                  "text": "O parohie episcopală cu o tradiție liturgică tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -2.097706,
+                        57.151386
+                  ]
+            },
+            {
+                  "name": "St. Andrews Cathedral",
+                  "text": "Catedrala Diecezei de Aberdeen și Orkney.",
+                  "category": "religious",
+                  "coords": [
+                        -2.093005,
+                        57.149065
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Mary of the Assumption",
+                  "text": "Biserica principală a comunității romano-catolice din Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.106374,
+                        57.145404
+                  ]
+            },
+            {
+                  "name": "Gilcomston Church",
+                  "text": "O biserică evanghelică în centrul orașului Aberdeen, cu o puternică tradiție de predicare.",
+                  "category": "religious",
+                  "coords": [
+                        -2.108742,
+                        57.144076
+                  ]
+            },
+            {
+                  "name": "Gerrard Street Baptist Church",
+                  "text": "Un loc de cult pentru comunitatea baptistă din Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.102225,
+                        57.153256
+                  ]
+            },
+            {
+                  "name": "Aberdeen Mosque & Islamic Centre",
+                  "text": "Cel mai mare centru religios pentru comunitatea musulmană din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -2.091538,
+                        57.150389
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist",
+                  "text": "O parohie locală care servește comunitatea religioasă din Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.101188,
+                        57.143331
+                  ]
+            },
+            {
+                  "name": "Bridge of Don",
+                  "text": "Un pod istoric peste râul Don, în partea de nord a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.090614,
+                        57.175604
+                  ]
+            },
+            {
+                  "name": "King George VI Bridge",
+                  "text": "Unul dintre podurile majore peste râul Dee în Aberdeen.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.10825,
+                        57.12793
+                  ]
+            },
+            {
+                  "name": "Victoria Bridge",
+                  "text": "Un pod de granit care leagă centrul orașului de cartierul Torry.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.08953,
+                        57.140027
+                  ]
+            },
+            {
+                  "name": "Wellington Suspension Bridge",
+                  "text": "Un pod suspendat istoric pentru pietoni peste râul Dee.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.095592,
+                        57.135576
+                  ]
+            },
+            {
+                  "name": "Westburn Park",
+                  "text": "Un parc popular cu facilități sportive și spații verzi.",
+                  "category": "park",
+                  "coords": [
+                        -2.123179,
+                        57.154416
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "Un parc mai mic și bine întreținut în centrul orașului Aberdeen.",
+                  "category": "park",
+                  "coords": [
+                        -2.121742,
+                        57.151751
+                  ]
+            },
+            {
+                  "name": "Queen's Terrace Gardens",
+                  "text": "Grădini centrale cu un aer victorian și straturi frumoase de flori.",
+                  "category": "park",
+                  "coords": [
+                        -2.120423,
+                        57.143166
+                  ]
+            },
+            {
+                  "name": "Rubislaw Terrace Gardens",
+                  "text": "O grădină publică liniștită în mijlocul arhitecturii istorice.",
+                  "category": "park",
+                  "coords": [
+                        -2.117338,
+                        57.143123
+                  ]
+            },
+            {
+                  "name": "Stewart Park",
+                  "text": "Un parc municipal în nordul orașului pentru activități recreative.",
+                  "category": "park",
+                  "coords": [
+                        -2.134088,
+                        57.167686
+                  ]
+            },
+            {
+                  "name": "Aberdeen Hebrew Congregation Synagogue",
+                  "text": "Sinagoga care deservește comunitatea evreiască din Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.10321,
+                        57.142263
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "Un muzeu al universității care prezintă diversitatea lumii animale.",
+                  "category": "museum",
+                  "coords": [
+                        -2.106304,
+                        57.167983
+                  ]
+            },
+            {
+                  "name": "Motte of Tillydrone",
+                  "text": "O colină artificială, probabil locul unei fortărețe timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -2.106376,
+                        57.170631
+                  ]
+            },
+            {
+                  "name": "St Fittick's Church",
+                  "text": "Ruinele unei biserici medievale în apropierea portului.",
+                  "category": "historical",
+                  "coords": [
+                        -2.06324,
+                        57.135504
+                  ]
+            },
+            {
+                  "name": "McGrigor Obelisk",
+                  "text": "Un monument de granit ridicat în onoarea lui Sir James McGrigor.",
+                  "category": "historical",
+                  "coords": [
+                        -2.103712,
+                        57.129112
+                  ]
+            },
+            {
+                  "name": "Holburn West Church",
+                  "text": "O clădire religioasă în cartierul Holburn din Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.122643,
+                        57.136498
+                  ]
+            },
+            {
+                  "name": "St Mary's Parish Church",
+                  "text": "O biserică parohială locală pentru comunitatea din Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.096591,
+                        57.164239
+                  ]
+            },
+            {
+                  "name": "Trinity Church Aberdeen",
+                  "text": "O clădire bisericească ce deservește comunitatea locală din Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.094537,
+                        57.149733
+                  ]
+            },
+            {
+                  "name": "River Dee Viaduct",
+                  "text": "Un viaduct feroviar peste râul Dee în apropiere de Aberdeen.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.096673,
+                        57.13075
+                  ]
+            },
+            {
+                  "name": "Walled Gardens",
+                  "text": "Grădini împrejmuite cu ziduri în cadrul spațiilor verzi urbane.",
+                  "category": "park",
+                  "coords": [
+                        -2.09885,
+                        57.174334
+                  ]
+            },
+            {
+                  "name": "Rendezvous Gallery",
+                  "text": "Un spațiu de expoziție pentru artă în zona orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -2.130058,
+                        57.13828
+                  ]
+            },
+            {
+                  "name": "62 ABD CR",
+                  "text": "62 ABD CR este un sit istoric important situat în orașul Aberdeen. Vizitatorii acestei săpături arheologice din Marea Britanie pot obține perspective fascinante asupra epocilor trecute.",
+                  "category": "historical",
+                  "coords": [
+                        -2.099123,
+                        57.157244
+                  ]
+            },
+            {
+                  "name": "53 ABD",
+                  "text": "Situl istoric 53 ABD se află în orașul britanic Aberdeen și invită la o călătorie în trecut. Această excavație arheologică aduce la viață istoria regională prin intermediul descoperirilor sale.",
+                  "category": "historical",
+                  "coords": [
+                        -2.129886,
+                        57.166988
+                  ]
+            },
+            {
+                  "name": "55 ABD",
+                  "text": "Prin 55 ABD, orașul Aberdeen găzduiește încă un monument istoric remarcabil. Această săpătură arheologică din Regatul Unit este o mărturie valoroasă a istoriei timpurii a așezărilor.",
+                  "category": "historical",
+                  "coords": [
+                        -2.118435,
+                        57.160819
+                  ]
+            },
+            {
+                  "name": "57 ABD",
+                  "text": "Cunoscut sub numele de 57 ABD, acest sit arheologic este situat în orașul scoțian Aberdeen. Vizitatorii interesați de excavațiile istorice pot explora aici rămășițele erelor trecute. Locul oferă o privire asupra vechii moșteniri a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -2.113951,
+                        57.159931
+                  ]
+            },
+            {
+                  "name": "60 ABD",
+                  "text": "Situat în Aberdeen, 60 ABD reprezintă un important sit de excavație istorică. Pasionații de istorie pot descoperi urme vechi lăsate în urmă în această zonă arheologică. Terenul stă mărturie primelor așezări din Regatul Unit.",
+                  "category": "historical",
+                  "coords": [
+                        -2.103372,
+                        57.157367
+                  ]
+            },
+            {
+                  "name": "63 ABD CR",
+                  "text": "Terenurile arheologice de la 63 ABD CR invită oaspeții să facă o călătorie în timp în timpul vizitei lor în Aberdeen. Acest sit istoric cuprinde rămășițe descoperite care fac lumină asupra istoriei locale. Locul oferă un cadru liniștit pentru observarea dovezilor fizice antice.",
+                  "category": "historical",
+                  "coords": [
+                        -2.086147,
+                        57.159191
+                  ]
+            },
+            {
+                  "name": "64 ABD CR",
+                  "text": "Explorând Aberdeen veți descoperi 64 ABD CR, un loc dedicat excavațiilor istorice. Vizitatorii pot face o plimbare prin zonă pentru a aprecia munca arheologică și contextul artefactelor dezgropate. Este un punct interesant pentru a învăța despre rădăcinile mai adânci ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -2.087302,
+                        57.166277
+                  ]
+            },
+            {
+                  "name": "56 ABD",
+                  "text": "Amplasat în peisajul din Aberdeen, 56 ABD funcționează ca un punct de excavație istorică bine conservat. Cei care explorează trecutul orașului pot examina aici caracteristicile solului dezvăluite de arheologi. Situl conectează direct privitorii moderni cu timpurile străvechi.",
+                  "category": "historical",
+                  "coords": [
+                        -2.117285,
+                        57.162574
+                  ]
+            },
+            {
+                  "name": "58 ABD",
+                  "text": "Locația desemnată drept 58 ABD marchează o altă inițiativă arheologică în Aberdeen. Oaspeții vor găsi aici un sit istoric care subliniază efortul continuu de a descoperi istoria Regatului Unit. Este o destinație subtilă, dar fascinantă pentru iubitorii de patrimoniu.",
+                  "category": "historical",
+                  "coords": [
+                        -2.109834,
+                        57.158594
+                  ]
+            },
+            {
+                  "name": "59 ABD",
+                  "text": "Ca punct de importanță arheologică, 59 ABD îmbogățește harta istorică a orașului Aberdeen. O plimbare prin acest sit permite vizitatorilor să observe dispunerea structurilor istorice timpurii sau utilizarea terenului. Acesta servește drept o sală de clasă în aer liber pentru istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        -2.105576,
+                        57.157241
+                  ]
+            },
+            {
+                  "name": "Inchgarth Reservoir",
+                  "text": "Inchgarth Reservoir este un lac în Aberdeen, oferind un cadru natural pentru plimbări și peisaje pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -2.163633,
+                        57.115193
+                  ]
+            },
+            {
+                  "name": "Corby Loch",
+                  "text": "Corby Loch este un lac în Aberdeen, oferind un cadru natural pentru plimbări și peisaje pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -2.126812,
+                        57.22072
+                  ]
+            },
+            {
+                  "name": "Sunnybank Park Play Area",
+                  "text": "Sunnybank Park Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.10584,
+                        57.161167
+                  ]
+            },
+            {
+                  "name": "Fittie Play Park",
+                  "text": "Fittie Play Park este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.06957,
+                        57.142931
+                  ]
+            },
+            {
+                  "name": "Leslie Terrace Playpark",
+                  "text": "Leslie Terrace Playpark este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.111642,
+                        57.156126
+                  ]
+            },
+            {
+                  "name": "Pirate Island Adventure Golf",
+                  "text": "Pirate Island Adventure Golf este un teren de minigolf în Aberdeen, oferind o activitate clasică și captivantă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -2.080776,
+                        57.151499
+                  ]
+            },
+            {
+                  "name": "Balgownie Playpark",
+                  "text": "Balgownie Playpark este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.12007,
+                        57.178588
+                  ]
+            },
+            {
+                  "name": "Matthews Road Play Area",
+                  "text": "Matthews Road Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.113005,
+                        57.11706
+                  ]
+            },
+            {
+                  "name": "Thistle Court Play Area",
+                  "text": "Thistle Court Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.11133,
+                        57.145781
+                  ]
+            },
+            {
+                  "name": "Skene Street Play Area",
+                  "text": "Skene Street Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.10935,
+                        57.147177
+                  ]
+            },
+            {
+                  "name": "Wales Street Play Area",
+                  "text": "Wales Street Play Area este un teren de joacă în Aberdeen, unde copiii se pot juca în siguranță și familiile pot petrece timp împreună.",
+                  "category": "family",
+                  "coords": [
+                        -2.08747,
+                        57.15075
+                  ]
+            },
+            {
+                  "name": "Bridge of Dee",
+                  "text": "Bridge of Dee este un pod istoric din piatră, datând din secolul al XVI-lea, care traversează râul Dee în sudul Aberdeenului. Este renumit pentru cele șapte arcuri și detaliile sale arhitecturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.118847,
+                        57.122892
+                  ]
+            },
+            {
+                  "name": "Nigg Bay",
+                  "text": "Nigg Bay este un golf larg situat în sudul Aberdeenului, cunoscut pentru peisajul său de coastă accidentat. Zona oferă trasee pentru plimbări la malul mării și găzduiește noul port de mare adâncime al orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -2.054531,
+                        57.132907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marischal College",
+                  "text": "The second largest granite building in the world, featuring iconic Victorian Gothic revival architecture.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.096833,
+                        57.14966
+                  ]
+            },
+            {
+                  "name": "St Machar's Cathedral",
+                  "text": "An ancient cathedral with distinctive twin spires and a unique heraldic ceiling from the 16th century.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10295,
+                        57.1693
+                  ]
+            },
+            {
+                  "name": "Footdee (Fittie)",
+                  "text": "A charming former fishing village with tiny cottages and colorful gardens at the mouth of the harbor.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.079689,
+                        57.145967
+                  ]
+            },
+            {
+                  "name": "Aberdeen Art Gallery",
+                  "text": "A major museum housing a significant collection of fine art, sculpture, and contemporary works.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.102713,
+                        57.148191
+                  ]
+            },
+            {
+                  "name": "Duthie Park",
+                  "text": "A large public park known for the David Welch Winter Gardens, one of Europe's largest indoor gardens.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.103473,
+                        57.130494
+                  ]
+            },
+            {
+                  "name": "Aberdeen Maritime Museum",
+                  "text": "Detailed exhibits on the city's long history with the North Sea, shipbuilding, and the oil industry.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09496,
+                        57.1465
+                  ]
+            },
+            {
+                  "name": "Old Aberdeen",
+                  "text": "Historic district featuring cobblestone streets, ancient university buildings, and quiet, hidden gardens.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1024,
+                        57.1648
+                  ]
+            },
+            {
+                  "name": "King's College",
+                  "text": "The original 15th-century heart of the university, famous for its unique crown-shaped steeple.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.100876,
+                        57.163931
+                  ]
+            },
+            {
+                  "name": "His Majesty's Theatre",
+                  "text": "Grand Edwardian theater hosting major touring West End productions and local artistic performances.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.104961,
+                        57.148153
+                  ]
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "The sweeping sandy expanse of Aberdeen Beach is distinguished by an inviting promenade running along the Scottish coast. It offers ideal conditions for long walks and various water sports activities in the fresh sea breeze. A stroll here is worthwhile in any season, even when it is a bit windy.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.07722,
+                        57.1531
+                  ]
+            },
+            {
+                  "name": "Codonas Amusement Park",
+                  "text": "Family-run amusement park and entertainment complex located near the beachfront for children and adults.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.079379,
+                        57.151103
+                  ]
+            },
+            {
+                  "name": "Brig o' Balgownie",
+                  "text": "Historic 13th-century stone bridge crossing the River Don, a iconic landmark in the Old Aberdeen area.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.098742,
+                        57.177245
+                  ]
+            },
+            {
+                  "name": "Provost Skene's House",
+                  "text": "The oldest surviving townhouse in the city, showcasing various period-furnished rooms and local history.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09752,
+                        57.1483
+                  ]
+            },
+            {
+                  "name": "Tolbooth Museum",
+                  "text": "A 17th-century former jail housing exhibits on local crime, punishment, and municipal history.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.0951,
+                        57.148
+                  ]
+            },
+            {
+                  "name": "Union Terrace Gardens",
+                  "text": "Sunken Victorian park in the city center, recently renovated with modern pavilions and walkways.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10333,
+                        57.1469
+                  ]
+            },
+            {
+                  "name": "Johnston Gardens",
+                  "text": "Award-winning small garden featuring colorful flowers, streams, waterfalls, and a picturesque bridge.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.14889,
+                        57.1361
+                  ]
+            },
+            {
+                  "name": "Cruickshank Botanic Garden",
+                  "text": "Serene university garden with a diverse collection of alpine, herbaceous, and medicinal plants.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10472,
+                        57.1678
+                  ]
+            },
+            {
+                  "name": "Pittodrie Stadium",
+                  "text": "Home of Aberdeen FC, notable for being one of the first all-seater stadiums in the United Kingdom.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.088889,
+                        57.159167
+                  ]
+            },
+            {
+                  "name": "Aberdeen Town House",
+                  "text": "Impressive Victorian municipal building serving as the administrative and political center of the city.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09468,
+                        57.1481
+                  ]
+            },
+            {
+                  "name": "Hazlehead Park",
+                  "text": "Extensive woodland park featuring golf courses, a maze, and one of the largest rose gardens in Scotland.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.17861,
+                        57.1386
+                  ]
+            },
+            {
+                  "name": "Girdleness Lighthouse",
+                  "text": "Coastal lighthouse designed by Robert Stevenson, standing prominently at the entrance to the harbor.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.04858,
+                        57.139
+                  ]
+            },
+            {
+                  "name": "Torry Battery",
+                  "text": "19th-century coastal fortification offering excellent panoramic views of the harbor and sea dolphins.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        -2.058758,
+                        57.141563
+                  ]
+            },
+            {
+                  "name": "Music Hall Aberdeen",
+                  "text": "Historic concert venue on Union Street hosting a wide range of orchestral and contemporary music.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.105002,
+                        57.145422
+                  ]
+            },
+            {
+                  "name": "St Nicholas Kirk",
+                  "text": "Large parish church known as the Mither Kirk, with some historical sections dating back to the 12th century.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09927,
+                        57.1476
+                  ]
+            },
+            {
+                  "name": "Aberdeen Science Centre",
+                  "text": "Interactive science museum for children and families, offering hands-on experiments and discovery.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.0847,
+                        57.1532
+                  ]
+            },
+            {
+                  "name": "Gordon Highlanders Museum",
+                  "text": "Museum dedicated to the history of the famous Northeast Scotland infantry regiment and its soldiers.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        -2.14617,
+                        57.1375
+                  ]
+            },
+            {
+                  "name": "Seaton Park",
+                  "text": "Large riverside park featuring beautiful floral displays and the historic Cathedral Walk path.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.1025,
+                        57.1717
+                  ]
+            },
+            {
+                  "name": "Belmont Street",
+                  "text": "Vibrant street in the city center known for its independent bars, cafes, and creative cultural venues.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        -2.10139,
+                        57.14687
+                  ]
+            },
+            {
+                  "name": "Union Street",
+                  "text": "The main thoroughfare of Aberdeen, famous for its grand architecture made of local silver granite.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        -2.099412,
+                        57.146365
+                  ]
+            },
+            {
+                  "name": "Bon Accord & St Nicholas",
+                  "text": "The city's primary shopping centers located in the heart of the retail district with many brands.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        -2.09972,
+                        57.1486
+                  ]
+            },
+            {
+                  "name": "King's Museum",
+                  "text": "The University of Aberdeen's museum presenting diverse encyclopedic collections.",
+                  "category": "museum",
+                  "coords": [
+                        -2.102257,
+                        57.167124
+                  ]
+            },
+            {
+                  "name": "Tivoli Theatre",
+                  "text": "A beautifully restored Victorian theatre in the heart of Aberdeen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.097611,
+                        57.14505
+                  ]
+            },
+            {
+                  "name": "Rubislaw Parish Church",
+                  "text": "An active parish church located in an architecturally pleasing building in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.127509,
+                        57.14351
+                  ]
+            },
+            {
+                  "name": "Queen's Cross Parish Church",
+                  "text": "This church is known for its connection to the works of local architects.",
+                  "category": "religious",
+                  "coords": [
+                        -2.124747,
+                        57.143296
+                  ]
+            },
+            {
+                  "name": "Bon Accord Free Church",
+                  "text": "A prominent church building in the West End area of Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.109823,
+                        57.148421
+                  ]
+            },
+            {
+                  "name": "St Margaret of Scotland",
+                  "text": "An Episcopal parish church with a traditional liturgical tradition.",
+                  "category": "religious",
+                  "coords": [
+                        -2.097706,
+                        57.151386
+                  ]
+            },
+            {
+                  "name": "St. Andrews Cathedral",
+                  "text": "The cathedral church of the Diocese of Aberdeen and Orkney.",
+                  "category": "religious",
+                  "coords": [
+                        -2.093005,
+                        57.149065
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Mary of the Assumption",
+                  "text": "The main church for the Roman Catholic community in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.106374,
+                        57.145404
+                  ]
+            },
+            {
+                  "name": "Gilcomston Church",
+                  "text": "An evangelical church in central Aberdeen with a strong preaching tradition.",
+                  "category": "religious",
+                  "coords": [
+                        -2.108742,
+                        57.144076
+                  ]
+            },
+            {
+                  "name": "Gerrard Street Baptist Church",
+                  "text": "A place of worship for the Baptist community in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.102225,
+                        57.153256
+                  ]
+            },
+            {
+                  "name": "Aberdeen Mosque & Islamic Centre",
+                  "text": "The largest religious centre for the Muslim community in the region.",
+                  "category": "religious",
+                  "coords": [
+                        -2.091538,
+                        57.150389
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist",
+                  "text": "A local parish church serving the religious community in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.101188,
+                        57.143331
+                  ]
+            },
+            {
+                  "name": "Bridge of Don",
+                  "text": "A historic bridge crossing the River Don in the north of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.090614,
+                        57.175604
+                  ]
+            },
+            {
+                  "name": "King George VI Bridge",
+                  "text": "One of the major bridges crossing the River Dee in Aberdeen.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.10825,
+                        57.12793
+                  ]
+            },
+            {
+                  "name": "Victoria Bridge",
+                  "text": "A granite bridge connecting the city centre with the Torry district.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.08953,
+                        57.140027
+                  ]
+            },
+            {
+                  "name": "Wellington Suspension Bridge",
+                  "text": "A historic pedestrian suspension bridge over the River Dee.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.095592,
+                        57.135576
+                  ]
+            },
+            {
+                  "name": "Westburn Park",
+                  "text": "A popular public park featuring sports facilities and green spaces.",
+                  "category": "park",
+                  "coords": [
+                        -2.123179,
+                        57.154416
+                  ]
+            },
+            {
+                  "name": "Victoria Park",
+                  "text": "A smaller, well-maintained park located in central Aberdeen.",
+                  "category": "park",
+                  "coords": [
+                        -2.121742,
+                        57.151751
+                  ]
+            },
+            {
+                  "name": "Queen's Terrace Gardens",
+                  "text": "Central gardens with a Victorian feel and beautiful flower beds.",
+                  "category": "park",
+                  "coords": [
+                        -2.120423,
+                        57.143166
+                  ]
+            },
+            {
+                  "name": "Rubislaw Terrace Gardens",
+                  "text": "A peaceful public garden space surrounded by historic architecture.",
+                  "category": "park",
+                  "coords": [
+                        -2.117338,
+                        57.143123
+                  ]
+            },
+            {
+                  "name": "Stewart Park",
+                  "text": "A community park in the north of the city for leisure activities.",
+                  "category": "park",
+                  "coords": [
+                        -2.134088,
+                        57.167686
+                  ]
+            },
+            {
+                  "name": "Aberdeen Hebrew Congregation Synagogue",
+                  "text": "The synagogue serving the Jewish community in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.10321,
+                        57.142263
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "A university museum displaying the diversity of the animal kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        -2.106304,
+                        57.167983
+                  ]
+            },
+            {
+                  "name": "Motte of Tillydrone",
+                  "text": "A man-made mound believed to be the site of an early castle.",
+                  "category": "historical",
+                  "coords": [
+                        -2.106376,
+                        57.170631
+                  ]
+            },
+            {
+                  "name": "St Fittick's Church",
+                  "text": "The ruins of a medieval church located near the harbour.",
+                  "category": "historical",
+                  "coords": [
+                        -2.06324,
+                        57.135504
+                  ]
+            },
+            {
+                  "name": "McGrigor Obelisk",
+                  "text": "A granite monument erected in honour of Sir James McGrigor.",
+                  "category": "historical",
+                  "coords": [
+                        -2.103712,
+                        57.129112
+                  ]
+            },
+            {
+                  "name": "Holburn West Church",
+                  "text": "A religious building located in the Holburn area of Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.122643,
+                        57.136498
+                  ]
+            },
+            {
+                  "name": "St Mary's Parish Church",
+                  "text": "A local parish church for the community in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.096591,
+                        57.164239
+                  ]
+            },
+            {
+                  "name": "Trinity Church Aberdeen",
+                  "text": "A church building serving the local community in Aberdeen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.094537,
+                        57.149733
+                  ]
+            },
+            {
+                  "name": "River Dee Viaduct",
+                  "text": "A railway viaduct crossing the River Dee near Aberdeen.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.096673,
+                        57.13075
+                  ]
+            },
+            {
+                  "name": "Walled Gardens",
+                  "text": "Gardens featuring walled enclosures within the city's green spaces.",
+                  "category": "park",
+                  "coords": [
+                        -2.09885,
+                        57.174334
+                  ]
+            },
+            {
+                  "name": "Rendezvous Gallery",
+                  "text": "An exhibition space for art located within the city area.",
+                  "category": "museum",
+                  "coords": [
+                        -2.130058,
+                        57.13828
+                  ]
+            },
+            {
+                  "name": "62 ABD CR",
+                  "text": "62 ABD CR is a significant historical site located in the city of Aberdeen. Visitors to this archaeological excavation in the United Kingdom can gain fascinating insights into past eras.",
+                  "category": "historical",
+                  "coords": [
+                        -2.099123,
+                        57.157244
+                  ]
+            },
+            {
+                  "name": "53 ABD",
+                  "text": "The historical site 53 ABD is located in the British city of Aberdeen, inviting visitors on a journey of discovery. This archaeological excavation brings regional history to life through its physical remains.",
+                  "category": "historical",
+                  "coords": [
+                        -2.129886,
+                        57.166988
+                  ]
+            },
+            {
+                  "name": "55 ABD",
+                  "text": "With 55 ABD, Aberdeen possesses another remarkable historical monument. This archaeological excavation in the United Kingdom stands as a valuable testament to the area's early settlement history.",
+                  "category": "historical",
+                  "coords": [
+                        -2.118435,
+                        57.160819
+                  ]
+            },
+            {
+                  "name": "57 ABD",
+                  "text": "Known as 57 ABD, this archaeological site is situated in the Scottish city of Aberdeen. Visitors interested in historical excavations can explore the remnants of past eras preserved at this location. It offers a glimpse into the region's ancient heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -2.113951,
+                        57.159931
+                  ]
+            },
+            {
+                  "name": "60 ABD",
+                  "text": "Located within Aberdeen, 60 ABD is an important historical excavation site. History enthusiasts can discover ancient traces left behind at this archaeological area. It stands as a testament to the early settlements in the United Kingdom.",
+                  "category": "historical",
+                  "coords": [
+                        -2.103372,
+                        57.157367
+                  ]
+            },
+            {
+                  "name": "63 ABD CR",
+                  "text": "The archaeological grounds of 63 ABD CR invite guests to step back in time while visiting Aberdeen. This historical site features uncovered remnants that shed light on local history. It provides a quiet setting for observing ancient physical evidence.",
+                  "category": "historical",
+                  "coords": [
+                        -2.086147,
+                        57.159191
+                  ]
+            },
+            {
+                  "name": "64 ABD CR",
+                  "text": "Exploring Aberdeen reveals 64 ABD CR, a site dedicated to historical excavations. Visitors can walk around the area to appreciate the archaeological work and the unearthed artifacts' context. It is an interesting spot for learning about the city's deeper roots.",
+                  "category": "historical",
+                  "coords": [
+                        -2.087302,
+                        57.166277
+                  ]
+            },
+            {
+                  "name": "56 ABD",
+                  "text": "Set in the landscape of Aberdeen, 56 ABD functions as a preserved historical excavation point. Those exploring the city's past can examine the ground features revealed by archaeologists here. The site connects modern onlookers directly with ancient times.",
+                  "category": "historical",
+                  "coords": [
+                        -2.117285,
+                        57.162574
+                  ]
+            },
+            {
+                  "name": "58 ABD",
+                  "text": "The location designated as 58 ABD marks another archaeological endeavor in Aberdeen. Guests will find a historical site that highlights the continuous effort to uncover the United Kingdom's history. It is a subtle yet fascinating destination for heritage lovers.",
+                  "category": "historical",
+                  "coords": [
+                        -2.109834,
+                        57.158594
+                  ]
+            },
+            {
+                  "name": "59 ABD",
+                  "text": "As a point of archaeological significance, 59 ABD enriches the historical map of Aberdeen. Walking through this site allows visitors to observe the layout of early historical structures or land usage. It serves as an open-air classroom for local history.",
+                  "category": "historical",
+                  "coords": [
+                        -2.105576,
+                        57.157241
+                  ]
+            },
+            {
+                  "name": "Inchgarth Reservoir",
+                  "text": "Inchgarth Reservoir is a lake in Aberdeen providing a natural setting for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.163633,
+                        57.115193
+                  ]
+            },
+            {
+                  "name": "Corby Loch",
+                  "text": "Corby Loch is a lake in Aberdeen providing a natural setting for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -2.126812,
+                        57.22072
+                  ]
+            },
+            {
+                  "name": "Sunnybank Park Play Area",
+                  "text": "Sunnybank Park Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.10584,
+                        57.161167
+                  ]
+            },
+            {
+                  "name": "Fittie Play Park",
+                  "text": "Fittie Play Park is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.06957,
+                        57.142931
+                  ]
+            },
+            {
+                  "name": "Leslie Terrace Playpark",
+                  "text": "Leslie Terrace Playpark is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.111642,
+                        57.156126
+                  ]
+            },
+            {
+                  "name": "Pirate Island Adventure Golf",
+                  "text": "Pirate Island Adventure Golf is a miniature golf course in Aberdeen providing a classic and engaging activity for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -2.080776,
+                        57.151499
+                  ]
+            },
+            {
+                  "name": "Balgownie Playpark",
+                  "text": "Balgownie Playpark is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.12007,
+                        57.178588
+                  ]
+            },
+            {
+                  "name": "Matthews Road Play Area",
+                  "text": "Matthews Road Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.113005,
+                        57.11706
+                  ]
+            },
+            {
+                  "name": "Thistle Court Play Area",
+                  "text": "Thistle Court Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.11133,
+                        57.145781
+                  ]
+            },
+            {
+                  "name": "Skene Street Play Area",
+                  "text": "Skene Street Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.10935,
+                        57.147177
+                  ]
+            },
+            {
+                  "name": "Wales Street Play Area",
+                  "text": "Wales Street Play Area is a playground in Aberdeen where children can play safely and families can spend time together.",
+                  "category": "family",
+                  "coords": [
+                        -2.08747,
+                        57.15075
+                  ]
+            },
+            {
+                  "name": "Bridge of Dee",
+                  "text": "The Bridge of Dee is a historic 16th-century stone bridge spanning the River Dee in southern Aberdeen. It is famous for its seven arches and distinctive architectural features.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.118847,
+                        57.122892
+                  ]
+            },
+            {
+                  "name": "Nigg Bay",
+                  "text": "Nigg Bay is a wide bay in southern Aberdeen known for its rugged coastal scenery. The area offers seaside walking paths and is home to the city's new deep-water harbor development.",
+                  "category": "natural",
+                  "coords": [
+                        -2.054531,
+                        57.132907
+                  ]
+            }
+      ]
+}
   },
   {
     id: "uk-swansea-cities-v2", population: 246700,
@@ -33364,6 +37237,231 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         1.075264,
                         51.269123
                   ]
+            },
+            {
+                  "name": "The Beaney House of Art and Knowledge",
+                  "text": "The Beaney House of Art and Knowledge ist ein beeindruckendes Museum, eine Bibliothek und eine Galerie im Zentrum von Canterbury. Das Gebäude vereint Kunstausstellungen mit historischen Sammlungen und ist ein kultureller Höhepunkt der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        1.07928,
+                        51.279673
+                  ]
+            },
+            {
+                  "name": "Kent Museum of Freemasonry",
+                  "text": "Das Kent Museum of Freemasonry bietet faszinierende Einblicke in die Geschichte und Symbole der Freimaurerei in der Region Kent. Besucher können eine umfangreiche Sammlung von Artefakten und Dokumenten in unmittelbarer Nähe zur Kathedrale erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        1.076034,
+                        51.280959
+                  ]
+            },
+            {
+                  "name": "Canterbury Castle",
+                  "text": "Canterbury Castle ist eine normannische Burgruine, die von der langen Geschichte der Stadt als militärischer Stützpunkt zeugt. Die massiven Überreste des Bergfrieds laden Besucher dazu ein, das mittelalterliche Erbe Canterburys zu entdecken.",
+                  "category": "castle",
+                  "coords": [
+                        1.074582,
+                        51.275663
+                  ]
+            },
+            {
+                  "name": "The Marlowe Kit",
+                  "text": "The Marlowe Kit ist ein innovativer Kunstraum, der in einem historischen Gebäude untergebracht ist und das Erbe des Dichters Christopher Marlowe feiert. Es dient als Veranstaltungsort für Workshops und Ausstellungen, die die lokale Geschichte lebendig halten.",
+                  "category": "museum",
+                  "coords": [
+                        1.077404,
+                        51.278621
+                  ]
+            },
+            {
+                  "name": "Canterbury Roman Museum",
+                  "text": "Das Canterbury Roman Museum bietet eine Reise in die antike Vergangenheit der Stadt und ist um die Überreste eines römischen Stadthauses gebaut. Besucher können originale Mosaike bewundern und viel über das Alltagsleben im römischen Britannien erfahren.",
+                  "category": "museum",
+                  "coords": [
+                        1.081505,
+                        51.278632
+                  ]
+            },
+            {
+                  "name": "Kathedrale von Canterbury",
+                  "text": "Die Kathedrale von Canterbury ist eine der ältesten und bekanntesten christlichen Bauwerke Englands und gehört zum UNESCO-Welterbe. Als Sitz des Erzbischofs ist sie ein bedeutendes Ziel für Pilger und Touristen aus aller Welt.",
+                  "category": "religious",
+                  "coords": [
+                        1.082859,
+                        51.2798
+                  ]
+            },
+            {
+                  "name": "Marlowe Theatre",
+                  "text": "Das Marlowe Theatre ist eine führende Bühne in Canterbury, die ein abwechslungsreiches Programm von Musicals bis hin zu zeitgenössischen Dramen bietet. Mit seiner modernen Architektur am Ufer des Flusses Stour ist es ein Wahrzeichen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        1.078613,
+                        51.281097
+                  ]
+            },
+            {
+                  "name": "Saint Martin's Church",
+                  "text": "Die St. Martin's Church gilt als die älteste Kirche in der englischsprachigen Welt, die noch immer für Gottesdienste genutzt wird. Sie gehört zum UNESCO-Welterbe und beeindruckt durch ihr hohes Alter und ihre schlichte Schönheit.",
+                  "category": "religious",
+                  "coords": [
+                        1.093705,
+                        51.278059
+                  ]
+            },
+            {
+                  "name": "Catholic Church of St. Thomas of Canterbury",
+                  "text": "Die katholische Kirche St. Thomas von Canterbury ist ein neugotisches Gotteshaus, das dem berühmten Märtyrer gewidmet ist. Sie beherbergt Reliquien des Heiligen Thomas Becket und ist ein wichtiger Ort für die lokale katholische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        1.082988,
+                        51.278232
+                  ]
+            },
+            {
+                  "name": "Eastbridge Hospital of St. Thomas the Martyr",
+                  "text": "Das Eastbridge Hospital ist ein faszinierendes mittelalterliches Pilgerhospital, das im 12. Jahrhundert gegründet wurde. Besucher können die Kapelle und den Speisesaal besichtigen und in die Geschichte des Gastgewerbes in Canterbury eintauchen.",
+                  "category": "landmark",
+                  "coords": [
+                        1.078305,
+                        51.279824
+                  ]
+            },
+            {
+                  "name": "St Martin's Mill",
+                  "text": "St Martin's Mill ist eine historische Turmwindmühle, die hoch auf einem Hügel über Canterbury steht. Sie ist ein markantes Wahrzeichen der Stadt und zeugt von der industriellen Vergangenheit der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        1.096738,
+                        51.278371
+                  ]
+            },
+            {
+                  "name": "Larkey Valley Wood",
+                  "text": "Larkey Valley Wood ist ein malerisches Naturschutzgebiet in der Nähe von Canterbury, das für seine reiche Flora und Fauna bekannt ist. Es bietet friedliche Wanderwege durch alte Waldbestände und ist ein idealer Ort für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        1.046953,
+                        51.254535
+                  ]
+            },
+            {
+                  "name": "Sidney Cooper Gallery",
+                  "text": "Die Sidney Cooper Gallery ist ein Ausstellungsraum der Canterbury Christ Church University, der zeitgenössische Kunst zeigt. Sie befindet sich in einem historischen Gebäude und fördert den künstlerischen Austausch in der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        1.077097,
+                        51.281245
+                  ]
+            },
+            {
+                  "name": "All Saints' Church",
+                  "text": "Die All Saints' Church in Canterbury ist ein historisches Kirchengebäude, das der örtlichen Gemeinde als spirituelles Zentrum dient. Die Architektur und die ruhige Umgebung laden Besucher dazu ein, einen Moment der Stille zu genießen.",
+                  "category": "religious",
+                  "coords": [
+                        1.093347,
+                        51.284566
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "St. Nicholas ist eine charmante Kirche in Canterbury, die durch ihre historische Bausubstanz und ihre friedliche Atmosphäre besticht. Sie ist ein wichtiger Teil des kirchlichen Erbes der Stadt und bietet Raum für Gebet und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        1.05443,
+                        51.270348
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "Die St. Stephen's Kirche ist eine alte Pfarrkirche in Canterbury, die für ihre malerische Lage und ihre historische Architektur bekannt ist. Sie blickt auf eine lange Tradition zurück und ist ein fester Bestandteil der lokalen Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        1.079767,
+                        51.291042
+                  ]
+            },
+            {
+                  "name": "The Goods Shed",
+                  "text": "The Goods Shed ist ein beliebter Marktplatz und eine Markthalle in einem ehemaligen Eisenbahnschuppen in Canterbury. Besucher finden hier lokale Produkte, frische Lebensmittel und eine lebendige kulinarische Szene.",
+                  "category": "cultural",
+                  "coords": [
+                        1.076342,
+                        51.284646
+                  ]
+            },
+            {
+                  "name": "St Dunstans Church",
+                  "text": "Die St. Dunstans Kirche ist ein bedeutendes historisches Gotteshaus in Canterbury, das für seine Verbindung zum Kopf von Thomas More bekannt ist. Die Kirche beeindruckt durch ihre mittelalterliche Architektur und ihre spirituelle Tiefe.",
+                  "category": "religious",
+                  "coords": [
+                        1.070795,
+                        51.283682
+                  ]
+            },
+            {
+                  "name": "St. Mary Bredin",
+                  "text": "St. Mary Bredin ist eine einladende Kirchengemeinde in Canterbury, die zeitgemäße christliche Gottesdienste anbietet. Das Gebäude ist modern gestaltet und dient als Treffpunkt für Menschen jeden Alters.",
+                  "category": "religious",
+                  "coords": [
+                        1.083929,
+                        51.273531
+                  ]
+            },
+            {
+                  "name": "St Peter's Methodist Church",
+                  "text": "Die St. Peter's Methodist Church ist ein zentral gelegener Ort des Gottesdienstes in Canterbury mit einer herzlichen Gemeinde. Sie bietet einen Raum für religiöse Feiern und verschiedene soziale Aktivitäten im Herzen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        1.077057,
+                        51.280085
+                  ]
+            },
+            {
+                  "name": "Church of St. Gabriel",
+                  "text": "Die Kirche St. Gabriel ist ein bescheidenes und friedliches Gotteshaus in Canterbury, das zur inneren Einkehr einlädt. Ihre schlichte Schönheit und die ruhige Umgebung machen sie zu einem besonderen Ort für Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        1.048612,
+                        51.293029
+                  ]
+            },
+            {
+                  "name": "St Paul",
+                  "text": "St. Paul in Canterbury ist eine historische Kirche, die eine lange Tradition des Gottesdienstes in der Stadt pflegt. Das Gebäude ist ein schönes Beispiel für die sakrale Architektur und ein wichtiger Teil des lokalen Erbes.",
+                  "category": "religious",
+                  "coords": [
+                        1.085508,
+                        51.27786
+                  ]
+            },
+            {
+                  "name": "St. Michael & All Angels",
+                  "text": "St. Michael & All Angels ist eine beeindruckende Kirche in Canterbury, die für ihre feierliche Atmosphäre und ihre Baukunst bekannt ist. Sie dient der Gemeinde als geistliche Heimat und ist ein Ort der Begegnung.",
+                  "category": "religious",
+                  "coords": [
+                        1.05564,
+                        51.282558
+                  ]
+            },
+            {
+                  "name": "Dane John Gardens",
+                  "text": "Die Dane John Gardens sind eine wunderschöne Parkanlage in Canterbury, die innerhalb der historischen Stadtmauer liegt. Besucher können von dem hohen Erdhügel aus einen herrlichen Blick über die Stadt und die Kathedrale genießen.",
+                  "category": "park",
+                  "coords": [
+                        1.078255,
+                        51.275383
+                  ]
+            },
+            {
+                  "name": "St Augustine’s Abbey",
+                  "text": "Die Abtei St. Augustinus beherbergt die beeindruckenden Ruinen eines ehemaligen Benediktinerklosters und gehört zum UNESCO-Welterbe. Sie wurde vom heiligen Augustinus gegründet und ist ein bedeutendes Denkmal der frühen englischen Kirchengeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        1.087771,
+                        51.277615
+                  ]
             }
       ],
       "hu": [
@@ -33464,6 +37562,231 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         1.075264,
                         51.269123
+                  ]
+            },
+            {
+                  "name": "The Beaney House of Art and Knowledge",
+                  "text": "A Beaney House of Art and Knowledge egy lenyűgöző múzeum, könyvtár és galéria Canterbury központjában. Az épület művészeti kiállításokat és történelmi gyűjteményeket ötvöz, és a város egyik kulturális csúcspontja.",
+                  "category": "museum",
+                  "coords": [
+                        1.07928,
+                        51.279673
+                  ]
+            },
+            {
+                  "name": "Kent Museum of Freemasonry",
+                  "text": "A Kent Museum of Freemasonry lenyűgöző betekintést nyújt a szabadkőművesség történetébe és szimbólumaiba Kent régiójában. A látogatók műtárgyak és dokumentumok gazdag gyűjteményét fedezhetik fel a katedrális közvetlen közelében.",
+                  "category": "museum",
+                  "coords": [
+                        1.076034,
+                        51.280959
+                  ]
+            },
+            {
+                  "name": "Canterbury Castle",
+                  "text": "A Canterbury kastély egy normann várrom, amely a város katonai bázisként betöltött hosszú múltjáról tanúskodik. Az öregtorony masszív maradványai arra hívják a látogatókat, hogy fedezzék fel Canterbury középkori örökségét.",
+                  "category": "castle",
+                  "coords": [
+                        1.074582,
+                        51.275663
+                  ]
+            },
+            {
+                  "name": "The Marlowe Kit",
+                  "text": "A Marlowe Kit egy innovatív művészeti tér, amely egy történelmi épületben kapott helyet, és Christopher Marlowe költő öröksége előtt tiszteleg. Workshopok és kiállítások helyszíneként szolgál, amelyek életben tartják a helyi történelmet.",
+                  "category": "museum",
+                  "coords": [
+                        1.077404,
+                        51.278621
+                  ]
+            },
+            {
+                  "name": "Canterbury Roman Museum",
+                  "text": "A Canterbury Római Múzeum utazást kínál a város ókori múltjába, egy római városi ház maradványai köré épülve. A látogatók eredeti mozaikokat csodálhatnak meg, és sokat tanulhatnak a római kori Britannia mindennapjairól.",
+                  "category": "museum",
+                  "coords": [
+                        1.081505,
+                        51.278632
+                  ]
+            },
+            {
+                  "name": "Canterburyi katedrális",
+                  "text": "A canterburyi székesegyház Anglia egyik legrégebbi és legismertebb keresztény építménye, az UNESCO Világörökség része. Az érsek székhelyeként a zarándokok és a turisták jelentős célpontja az egész világról.",
+                  "category": "religious",
+                  "coords": [
+                        1.082859,
+                        51.2798
+                  ]
+            },
+            {
+                  "name": "Marlowe Theatre",
+                  "text": "A Marlowe Theatre Canterbury vezető színháza, amely változatos programot kínál a musicalektől a kortárs drámákig. A Stour-folyó partján álló modern épületével a város egyik meghatározó nevezetessége.",
+                  "category": "cultural",
+                  "coords": [
+                        1.078613,
+                        51.281097
+                  ]
+            },
+            {
+                  "name": "Saint Martin's Church",
+                  "text": "A Szent Márton-templom az angol nyelvű világ legrégebbi, ma is istentiszteletekre használt templomaként ismert. Az UNESCO Világörökség része, amely korával és egyszerű szépségével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        1.093705,
+                        51.278059
+                  ]
+            },
+            {
+                  "name": "Catholic Church of St. Thomas of Canterbury",
+                  "text": "A canterburyi Szent Tamás katolikus templom a híres vértanúnak szentelt neogótikus imaház. Itt őrzik Becket Szent Tamás ereklyéit, és a helyi katolikus közösség fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        1.082988,
+                        51.278232
+                  ]
+            },
+            {
+                  "name": "Eastbridge Hospital of St. Thomas the Martyr",
+                  "text": "Az Eastbridge Hospital egy lenyűgöző középkori zarándokkórház, amelyet a 12. században alapítottak. A látogatók megtekinthetik a kápolnát és az étkezőt, és elmerülhetnek a canterburyi vendéglátás történetében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.078305,
+                        51.279824
+                  ]
+            },
+            {
+                  "name": "St Martin's Mill",
+                  "text": "A Szent Márton-malom egy történelmi torony-szélmalom, amely magasan egy dombon áll Canterbury felett. A város jellegzetes nevezetessége, amely a régió ipari múltjáról tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        1.096738,
+                        51.278371
+                  ]
+            },
+            {
+                  "name": "Larkey Valley Wood",
+                  "text": "A Larkey Valley Wood egy festői természetvédelmi terület Canterbury közelében, amely gazdag növény- és állatvilágáról ismert. Békés sétautakat kínál ősi erdőkön keresztül, és ideális hely a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        1.046953,
+                        51.254535
+                  ]
+            },
+            {
+                  "name": "Sidney Cooper Gallery",
+                  "text": "A Sidney Cooper Gallery a Canterbury Christ Church University kiállítótere, amely kortárs művészeti alkotásokat mutat be. Egy történelmi épületben található, és elősegíti a művészeti párbeszédet a városban.",
+                  "category": "museum",
+                  "coords": [
+                        1.077097,
+                        51.281245
+                  ]
+            },
+            {
+                  "name": "All Saints' Church",
+                  "text": "A canterburyi Mindenszentek temploma egy történelmi egyházi épület, amely a helyi közösség szellemi központjaként szolgál. Építészete és nyugodt környezete arra hívja a látogatókat, hogy élvezzék az elcsendesedés pillanatát.",
+                  "category": "religious",
+                  "coords": [
+                        1.093347,
+                        51.284566
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "A Szent Miklós-templom egy bájos canterburyi templom, amely történelmi szerkezetével és békés hangulatával tűnik ki. A város egyházi örökségének fontos része, amely teret biztosít az imádsághoz és az elmélkedéshez.",
+                  "category": "religious",
+                  "coords": [
+                        1.05443,
+                        51.270348
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "A Szent István-templom egy régi plébániatemplom Canterburyben, amely festői elhelyezkedéséről és történelmi építészetéről ismert. Hosszú múltra tekint vissza, és a helyi közösség szerves részét képezi.",
+                  "category": "religious",
+                  "coords": [
+                        1.079767,
+                        51.291042
+                  ]
+            },
+            {
+                  "name": "The Goods Shed",
+                  "text": "A Goods Shed egy népszerű piactér és élelmiszercsarnok egy egykori vasúti raktárban Canterbury-ben. A látogatók helyi termékeket, friss élelmiszereket és élénk gasztronómiai életet találnak itt.",
+                  "category": "cultural",
+                  "coords": [
+                        1.076342,
+                        51.284646
+                  ]
+            },
+            {
+                  "name": "St Dunstans Church",
+                  "text": "A Szent Dunstan-templom Canterbury egyik jelentős történelmi imaháza, amely Morus Tamás fejének sírhelyéről ismert. A templom lenyűgöző középkori építészetével és szellemi mélységével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        1.070795,
+                        51.283682
+                  ]
+            },
+            {
+                  "name": "St. Mary Bredin",
+                  "text": "A Szent Mária Bredin egy hívogató egyházközség Canterbury-ben, amely kortárs keresztény istentiszteleteket kínál. Az épület modern kialakítású, és találkozóhelyként szolgál minden korosztály számára.",
+                  "category": "religious",
+                  "coords": [
+                        1.083929,
+                        51.273531
+                  ]
+            },
+            {
+                  "name": "St Peter's Methodist Church",
+                  "text": "A Szent Péter metodista templom egy központi fekvésű istentiszteleti hely Canterburyben, egy barátságos közösséggel. Vallási szertartásoknak és különféle szociális tevékenységeknek ad otthont a város szívében.",
+                  "category": "religious",
+                  "coords": [
+                        1.077057,
+                        51.280085
+                  ]
+            },
+            {
+                  "name": "Church of St. Gabriel",
+                  "text": "A Szent Gábriel-templom egy szerény és békés imaház Canterbury-ben, amely belső elcsendesedésre hív. Egyszerű szépsége és nyugodt környezete különleges hellyé teszi a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        1.048612,
+                        51.293029
+                  ]
+            },
+            {
+                  "name": "St Paul",
+                  "text": "A canterburyi Szent Pál-templom egy történelmi egyház, amely hosszú istentiszteleti hagyományt ápol a városban. Az épület a szakrális építészet szép példája és a helyi örökség fontos része.",
+                  "category": "religious",
+                  "coords": [
+                        1.085508,
+                        51.27786
+                  ]
+            },
+            {
+                  "name": "St. Michael & All Angels",
+                  "text": "A Szent Mihály és minden angyalok temploma egy lenyűgöző egyház Canterburyben, amely ünnepélyes hangulatáról és építészetéről ismert. Lelki otthonként és találkozóhelyként szolgál a közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        1.05564,
+                        51.282558
+                  ]
+            },
+            {
+                  "name": "Dane John Gardens",
+                  "text": "A Dane John Gardens egy gyönyörű park Canterbury-ben, a történelmi városfalakon belül. A látogatók a magas dombról pompás kilátást élvezhetnek a városra és a katedrálisra.",
+                  "category": "park",
+                  "coords": [
+                        1.078255,
+                        51.275383
+                  ]
+            },
+            {
+                  "name": "St Augustine’s Abbey",
+                  "text": "A Szent Ágoston-apátság egy egykori bencés kolostor lenyűgöző romjainak ad otthont, és az UNESCO Világörökség része. Szent Ágoston alapította, és a korai angol egyháztörténet jelentős emlékhelye.",
+                  "category": "museum",
+                  "coords": [
+                        1.087771,
+                        51.277615
                   ]
             }
       ],
@@ -33566,6 +37889,231 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         1.075264,
                         51.269123
                   ]
+            },
+            {
+                  "name": "The Beaney House of Art and Knowledge",
+                  "text": "The Beaney House of Art and Knowledge este un muzeu, o bibliotecă și o galerie impresionantă în centrul orașului Canterbury. Clădirea îmbină expozițiile de artă cu colecțiile istorice și este un punct culminant cultural al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        1.07928,
+                        51.279673
+                  ]
+            },
+            {
+                  "name": "Kent Museum of Freemasonry",
+                  "text": "Muzeul Francmasoneriei din Kent oferă perspective fascinante asupra istoriei și simbolurilor francmasoneriei în regiunea Kent. Vizitatorii pot explora o colecție vastă de artefacte și documente chiar lângă catedrală.",
+                  "category": "museum",
+                  "coords": [
+                        1.076034,
+                        51.280959
+                  ]
+            },
+            {
+                  "name": "Canterbury Castle",
+                  "text": "Castelul Canterbury este o ruină de castel normand care atestă istoria îndelungată a orașului ca bază militară. Rămășițele masive ale turnului invită vizitatorii să descopere moștenirea medievală a orașului Canterbury.",
+                  "category": "castle",
+                  "coords": [
+                        1.074582,
+                        51.275663
+                  ]
+            },
+            {
+                  "name": "The Marlowe Kit",
+                  "text": "The Marlowe Kit este un spațiu de artă inovator găzduit într-o clădire istorică, celebrând moștenirea poetului Christopher Marlowe. Servește ca locație pentru ateliere și expoziții care mențin vie istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        1.077404,
+                        51.278621
+                  ]
+            },
+            {
+                  "name": "Canterbury Roman Museum",
+                  "text": "Muzeul Roman din Canterbury oferă o călătorie în trecutul antic al orașului, fiind construit în jurul rămășițelor unei case romane. Vizitatorii pot admira mozaicuri originale și pot învăța multe despre viața de zi cu zi în Britannia romană.",
+                  "category": "museum",
+                  "coords": [
+                        1.081505,
+                        51.278632
+                  ]
+            },
+            {
+                  "name": "Catedrala din Canterbury",
+                  "text": "Catedrala din Canterbury este una dintre cele mai vechi și cunoscute structuri creștine din Anglia, făcând parte din Patrimoniul Mondial UNESCO. Ca sediu al Arhiepiscopului, este o destinație majoră pentru pelerini și turiști din întreaga lume.",
+                  "category": "religious",
+                  "coords": [
+                        1.082859,
+                        51.2798
+                  ]
+            },
+            {
+                  "name": "Marlowe Theatre",
+                  "text": "Teatrul Marlowe este o scenă de top din Canterbury, oferind un program variat, de la musicaluri la drame contemporane. Cu arhitectura sa modernă pe malul râului Stour, este un punct de reper al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        1.078613,
+                        51.281097
+                  ]
+            },
+            {
+                  "name": "Saint Martin's Church",
+                  "text": "Biserica Sfântul Martin este considerată cea mai veche biserică din lumea vorbitoare de limbă engleză care este încă folosită pentru slujbe. Face parte din Patrimoniul Mondial UNESCO și impresionează prin vechimea sa și frumusețea simplă.",
+                  "category": "religious",
+                  "coords": [
+                        1.093705,
+                        51.278059
+                  ]
+            },
+            {
+                  "name": "Catholic Church of St. Thomas of Canterbury",
+                  "text": "Biserica Catolică Sfântul Toma din Canterbury este un lăcaș de cult neogotic dedicat celebrului martir. Adăpostește moaștele Sfântului Toma Becket și este un loc important pentru comunitatea catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        1.082988,
+                        51.278232
+                  ]
+            },
+            {
+                  "name": "Eastbridge Hospital of St. Thomas the Martyr",
+                  "text": "Spitalul Eastbridge este un spital medieval fascinant pentru pelerini, fondat în secolul al XII-lea. Vizitatorii pot vedea capela și trapeza, scufundându-se în istoria ospitalității din Canterbury.",
+                  "category": "landmark",
+                  "coords": [
+                        1.078305,
+                        51.279824
+                  ]
+            },
+            {
+                  "name": "St Martin's Mill",
+                  "text": "Moara Sfântului Martin este o moară de vânt istorică de tip turn, situată pe un deal deasupra orașului Canterbury. Este un punct de reper distinctiv al orașului și o dovadă a trecutului industrial al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        1.096738,
+                        51.278371
+                  ]
+            },
+            {
+                  "name": "Larkey Valley Wood",
+                  "text": "Larkey Valley Wood este o rezervație naturală pitorească lângă Canterbury, cunoscută pentru flora și fauna sa bogată. Oferă trasee liniștite prin păduri antice și este un loc ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        1.046953,
+                        51.254535
+                  ]
+            },
+            {
+                  "name": "Sidney Cooper Gallery",
+                  "text": "Galeria Sidney Cooper este un spațiu expozițional al Universității Canterbury Christ Church, prezentând artă contemporană. Este situată într-o clădire istorică și promovează schimbul artistic în oraș.",
+                  "category": "museum",
+                  "coords": [
+                        1.077097,
+                        51.281245
+                  ]
+            },
+            {
+                  "name": "All Saints' Church",
+                  "text": "Biserica Tuturor Sfinților din Canterbury este o clădire istorică ce servește ca centru spiritual pentru comunitatea locală. Arhitectura sa și mediul liniștit invită vizitatorii să se bucure de un moment de tăcere.",
+                  "category": "religious",
+                  "coords": [
+                        1.093347,
+                        51.284566
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "Biserica Sfântul Nicolae este un lăcaș de cult fermecător din Canterbury, care se remarcă prin structura sa istorică și atmosfera pașnică. Este o parte importantă a moștenirii bisericești a orașului și oferă spațiu pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        1.05443,
+                        51.270348
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "Biserica Sfântul Ștefan este o veche biserică parohială din Canterbury, cunoscută pentru locația sa pitorească și arhitectura istorică. Are o tradiție îndelungată și este o parte integrantă a comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        1.079767,
+                        51.291042
+                  ]
+            },
+            {
+                  "name": "The Goods Shed",
+                  "text": "The Goods Shed este o piață populară și o hală de alimente situată într-un fost depou de cale ferată din Canterbury. Vizitatorii găsesc aici produse locale, alimente proaspete și o scenă culinară vibrantă.",
+                  "category": "cultural",
+                  "coords": [
+                        1.076342,
+                        51.284646
+                  ]
+            },
+            {
+                  "name": "St Dunstans Church",
+                  "text": "Biserica Sfântul Dunstan este un lăcaș de cult istoric important din Canterbury, cunoscut pentru legătura sa cu capul lui Thomas More. Biserica impresionează prin arhitectura sa medievală și profunzimea spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        1.070795,
+                        51.283682
+                  ]
+            },
+            {
+                  "name": "St. Mary Bredin",
+                  "text": "Biserica Sfânta Maria Bredin este o parohie primitoare din Canterbury, care oferă slujbe creștine contemporane. Clădirea are un design modern și servește ca punct de întâlnire pentru oameni de toate vârstele.",
+                  "category": "religious",
+                  "coords": [
+                        1.083929,
+                        51.273531
+                  ]
+            },
+            {
+                  "name": "St Peter's Methodist Church",
+                  "text": "Biserica Metodistă Sfântul Petru este un loc de cult central din Canterbury, cu o comunitate caldă. Aceasta oferă spațiu pentru celebrări religioase și diverse activități sociale în inima orașului.",
+                  "category": "religious",
+                  "coords": [
+                        1.077057,
+                        51.280085
+                  ]
+            },
+            {
+                  "name": "Church of St. Gabriel",
+                  "text": "Biserica Sfântul Gabriel este un lăcaș de cult modest și pașnic din Canterbury, care invită la reflecție interioară. Frumusețea sa simplă și mediul liniștit o fac un loc special pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        1.048612,
+                        51.293029
+                  ]
+            },
+            {
+                  "name": "St Paul",
+                  "text": "Biserica Sfântul Pavel din Canterbury este un lăcaș de cult istoric care menține o lungă tradiție a slujbelor în oraș. Clădirea este un exemplu frumos de arhitectură sacră și o parte importantă a moștenirii locale.",
+                  "category": "religious",
+                  "coords": [
+                        1.085508,
+                        51.27786
+                  ]
+            },
+            {
+                  "name": "St. Michael & All Angels",
+                  "text": "Biserica Sfântul Mihail și Toți Îngerii este un lăcaș de cult impresionant din Canterbury, cunoscut pentru atmosfera sa solemnă și arhitectură. Servește comunitatea ca cămin spiritual și loc de întâlnire.",
+                  "category": "religious",
+                  "coords": [
+                        1.05564,
+                        51.282558
+                  ]
+            },
+            {
+                  "name": "Dane John Gardens",
+                  "text": "Grădinile Dane John sunt un parc frumos din Canterbury, situat în interiorul zidurilor istorice ale orașului. Vizitatorii se pot bucura de o vedere panoramică asupra orașului și a catedralei de pe movila înaltă.",
+                  "category": "park",
+                  "coords": [
+                        1.078255,
+                        51.275383
+                  ]
+            },
+            {
+                  "name": "St Augustine’s Abbey",
+                  "text": "Abația Sfântul Augustin găzduiește ruinele impresionante ale unei foste mănăstiri benedictine și face parte din Patrimoniul Mondial UNESCO. A fost fondată de Sfântul Augustin și este un monument semnificativ al istoriei bisericești engleze timpurii.",
+                  "category": "museum",
+                  "coords": [
+                        1.087771,
+                        51.277615
+                  ]
             }
       ],
       "en": [
@@ -33666,6 +38214,231 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         1.075264,
                         51.269123
+                  ]
+            },
+            {
+                  "name": "The Beaney House of Art and Knowledge",
+                  "text": "The Beaney House of Art and Knowledge is an impressive museum, library, and gallery in the center of Canterbury. The building combines art exhibitions with historical collections and is a cultural highlight of the city.",
+                  "category": "museum",
+                  "coords": [
+                        1.07928,
+                        51.279673
+                  ]
+            },
+            {
+                  "name": "Kent Museum of Freemasonry",
+                  "text": "Kent Museum of Freemasonry offers fascinating insights into the history and symbols of Freemasonry in the Kent region. Visitors can explore an extensive collection of artifacts and documents in close proximity to the cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        1.076034,
+                        51.280959
+                  ]
+            },
+            {
+                  "name": "Canterbury Castle",
+                  "text": "Canterbury Castle is a ruined Norman castle testifying to the city's long history as a military base. The massive remains of the keep invite visitors to discover Canterbury's medieval heritage.",
+                  "category": "castle",
+                  "coords": [
+                        1.074582,
+                        51.275663
+                  ]
+            },
+            {
+                  "name": "The Marlowe Kit",
+                  "text": "The Marlowe Kit is an innovative arts space housed in a historic building, celebrating the legacy of poet Christopher Marlowe. It serves as a venue for workshops and exhibitions that keep local history alive.",
+                  "category": "museum",
+                  "coords": [
+                        1.077404,
+                        51.278621
+                  ]
+            },
+            {
+                  "name": "Canterbury Roman Museum",
+                  "text": "Canterbury Roman Museum offers a journey into the city's ancient past, built around the remains of a Roman townhouse. Visitors can admire original mosaics and learn about daily life in Roman Britain.",
+                  "category": "museum",
+                  "coords": [
+                        1.081505,
+                        51.278632
+                  ]
+            },
+            {
+                  "name": "Canterbury Cathedral",
+                  "text": "Canterbury Cathedral is one of the oldest and most famous Christian structures in England and a UNESCO World Heritage Site. As the seat of the Archbishop, it is a major destination for pilgrims and tourists from all over the world.",
+                  "category": "religious",
+                  "coords": [
+                        1.082859,
+                        51.2798
+                  ]
+            },
+            {
+                  "name": "Marlowe Theatre",
+                  "text": "Marlowe Theatre is a leading stage in Canterbury, offering a varied program from musicals to contemporary dramas. With its modern architecture on the banks of the River Stour, it is a landmark of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        1.078613,
+                        51.281097
+                  ]
+            },
+            {
+                  "name": "Saint Martin's Church",
+                  "text": "Saint Martin's Church is considered the oldest church in the English-speaking world still used for worship. It is a UNESCO World Heritage Site, impressing visitors with its great age and simple beauty.",
+                  "category": "religious",
+                  "coords": [
+                        1.093705,
+                        51.278059
+                  ]
+            },
+            {
+                  "name": "Catholic Church of St. Thomas of Canterbury",
+                  "text": "The Catholic Church of St. Thomas of Canterbury is a neo-Gothic place of worship dedicated to the famous martyr. It houses relics of Saint Thomas Becket and is an important center for the local Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        1.082988,
+                        51.278232
+                  ]
+            },
+            {
+                  "name": "Eastbridge Hospital of St. Thomas the Martyr",
+                  "text": "Eastbridge Hospital of St. Thomas the Martyr is a fascinating medieval pilgrims' hospital founded in the 12th century. Visitors can see the chapel and refectory, immersing themselves in the history of hospitality in Canterbury.",
+                  "category": "landmark",
+                  "coords": [
+                        1.078305,
+                        51.279824
+                  ]
+            },
+            {
+                  "name": "St Martin's Mill",
+                  "text": "St Martin's Mill is a historic tower windmill standing high on a hill overlooking Canterbury. It is a distinctive landmark of the city and a testament to the region's industrial past.",
+                  "category": "landmark",
+                  "coords": [
+                        1.096738,
+                        51.278371
+                  ]
+            },
+            {
+                  "name": "Larkey Valley Wood",
+                  "text": "Larkey Valley Wood is a picturesque nature reserve near Canterbury known for its rich flora and fauna. It offers peaceful walking trails through ancient woodland and is an ideal spot for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        1.046953,
+                        51.254535
+                  ]
+            },
+            {
+                  "name": "Sidney Cooper Gallery",
+                  "text": "Sidney Cooper Gallery is an exhibition space of Canterbury Christ Church University showcasing contemporary art. It is located in a historic building and promotes artistic exchange within the city.",
+                  "category": "museum",
+                  "coords": [
+                        1.077097,
+                        51.281245
+                  ]
+            },
+            {
+                  "name": "All Saints' Church",
+                  "text": "All Saints' Church in Canterbury is a historic church building serving the local community as a spiritual center. Its architecture and peaceful surroundings invite visitors to enjoy a moment of stillness.",
+                  "category": "religious",
+                  "coords": [
+                        1.093347,
+                        51.284566
+                  ]
+            },
+            {
+                  "name": "St. Nicholas",
+                  "text": "St. Nicholas is a charming church in Canterbury that stands out with its historic structure and peaceful atmosphere. It is an important part of the city's ecclesiastical heritage and provides space for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        1.05443,
+                        51.270348
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "St Stephen's Church is an ancient parish church in Canterbury known for its picturesque setting and historic architecture. It has a long tradition and remains a vital part of the local community.",
+                  "category": "religious",
+                  "coords": [
+                        1.079767,
+                        51.291042
+                  ]
+            },
+            {
+                  "name": "The Goods Shed",
+                  "text": "The Goods Shed is a popular marketplace and food hall located in a former railway shed in Canterbury. Visitors can find local produce, fresh food, and a vibrant culinary scene here.",
+                  "category": "cultural",
+                  "coords": [
+                        1.076342,
+                        51.284646
+                  ]
+            },
+            {
+                  "name": "St Dunstans Church",
+                  "text": "St Dunstans Church is a significant historic place of worship in Canterbury, known for its connection to the head of Thomas More. The church stands out for its medieval architecture and spiritual depth.",
+                  "category": "religious",
+                  "coords": [
+                        1.070795,
+                        51.283682
+                  ]
+            },
+            {
+                  "name": "St. Mary Bredin",
+                  "text": "St. Mary Bredin is a welcoming church community in Canterbury offering contemporary Christian worship. The building features a modern design and serves as a meeting place for people of all ages.",
+                  "category": "religious",
+                  "coords": [
+                        1.083929,
+                        51.273531
+                  ]
+            },
+            {
+                  "name": "St Peter's Methodist Church",
+                  "text": "St Peter's Methodist Church is a centrally located place of worship in Canterbury with a warm congregation. It provides a space for religious celebrations and various social activities in the heart of the city.",
+                  "category": "religious",
+                  "coords": [
+                        1.077057,
+                        51.280085
+                  ]
+            },
+            {
+                  "name": "Church of St. Gabriel",
+                  "text": "Church of St. Gabriel is a modest and peaceful place of worship in Canterbury that invites quiet reflection. Its simple beauty and calm surroundings make it a special spot for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        1.048612,
+                        51.293029
+                  ]
+            },
+            {
+                  "name": "St Paul",
+                  "text": "St Paul in Canterbury is a historic church maintaining a long tradition of worship in the city. The building is a fine example of sacred architecture and an important part of the local heritage.",
+                  "category": "religious",
+                  "coords": [
+                        1.085508,
+                        51.27786
+                  ]
+            },
+            {
+                  "name": "St. Michael & All Angels",
+                  "text": "St. Michael & All Angels is an impressive church in Canterbury known for its solemn atmosphere and architectural design. It serves as a spiritual home for the congregation and a place for gathering.",
+                  "category": "religious",
+                  "coords": [
+                        1.05564,
+                        51.282558
+                  ]
+            },
+            {
+                  "name": "Dane John Gardens",
+                  "text": "Dane John Gardens is a beautiful parkland in Canterbury situated within the historic city walls. Visitors can enjoy a magnificent view over the city and the cathedral from the high earthwork mound.",
+                  "category": "park",
+                  "coords": [
+                        1.078255,
+                        51.275383
+                  ]
+            },
+            {
+                  "name": "St Augustine’s Abbey",
+                  "text": "St Augustine’s Abbey houses the impressive ruins of a former Benedictine monastery and is a UNESCO World Heritage Site. Founded by Saint Augustine, it is a significant monument of early English church history.",
+                  "category": "museum",
+                  "coords": [
+                        1.087771,
+                        51.277615
                   ]
             }
       ]
@@ -36327,6 +41100,213 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.023612,
                         51.568571
                   ]
+            },
+            {
+                  "name": "Dolman Theatre",
+                  "text": "Das Dolman Theatre in Newport ist eine bedeutende Spielstätte, die eine breite Palette von Theateraufführungen und kulturellen Events präsentiert. Es ist die Heimat der Newport Playgoers Society und ein wichtiges Zentrum für die darstellende Kunst in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.992097,
+                        51.584249
+                  ]
+            },
+            {
+                  "name": "The Phyllis Maud Performance Space",
+                  "text": "Die Phyllis Maud Performance Space ist ein einzigartiges, winziges Theater in Newport, das in einem ehemaligen öffentlichen Gebäude untergebracht ist. Es bietet einen intimen Rahmen für Kleinkunst, Musik und experimentelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.98757,
+                        51.575412
+                  ]
+            },
+            {
+                  "name": "St John's",
+                  "text": "St John's ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.974135,
+                        51.59081
+                  ]
+            },
+            {
+                  "name": "City Bridge",
+                  "text": "Die City Bridge ist eine Brücke in Newport, die den Fluss Usk überquert. Sie wurde 2004 eröffnet und ist für ihre markante Bogenkonstruktion bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.974109,
+                        51.57684
+                  ]
+            },
+            {
+                  "name": "St Mark",
+                  "text": "St Mark ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -3.002886,
+                        51.589612
+                  ]
+            },
+            {
+                  "name": "Bethel Community Church",
+                  "text": "Bethel Community Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.997065,
+                        51.586505
+                  ]
+            },
+            {
+                  "name": "Stow Park Church",
+                  "text": "Stow Park Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -3.004583,
+                        51.583129
+                  ]
+            },
+            {
+                  "name": "Gaer Baptist Church",
+                  "text": "Gaer Baptist Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -3.01704,
+                        51.573343
+                  ]
+            },
+            {
+                  "name": "St Patrick's RC Church",
+                  "text": "St Patrick's RC Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.966526,
+                        51.583051
+                  ]
+            },
+            {
+                  "name": "St. Michael's Parish Church",
+                  "text": "St. Michael's Parish Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.98532,
+                        51.576096
+                  ]
+            },
+            {
+                  "name": "Ebbw Bridge Baptist Church",
+                  "text": "Ebbw Bridge Baptist Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -3.019066,
+                        51.568293
+                  ]
+            },
+            {
+                  "name": "Mount Zion Congregational Church",
+                  "text": "Mount Zion Congregational Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.994927,
+                        51.584287
+                  ]
+            },
+            {
+                  "name": "St Philip's",
+                  "text": "St Philip's ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.971369,
+                        51.581766
+                  ]
+            },
+            {
+                  "name": "St Basil's",
+                  "text": "St Basil's ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -3.044213,
+                        51.57829
+                  ]
+            },
+            {
+                  "name": "Cefn Wood Baptist Church",
+                  "text": "Cefn Wood Baptist Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -3.047941,
+                        51.585017
+                  ]
+            },
+            {
+                  "name": "Dawat E Islami Shaftesbury",
+                  "text": "Dawat E Islami Shaftesbury ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.996153,
+                        51.594168
+                  ]
+            },
+            {
+                  "name": "Duckpool Road Baptist Church",
+                  "text": "Duckpool Road Baptist Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.982084,
+                        51.593852
+                  ]
+            },
+            {
+                  "name": "Seventh-Day Adventist Church",
+                  "text": "Seventh-Day Adventist Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.973738,
+                        51.588969
+                  ]
+            },
+            {
+                  "name": "Emmanuel Evangelical Church",
+                  "text": "Emmanuel Evangelical Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.995193,
+                        51.579388
+                  ]
+            },
+            {
+                  "name": "St Julian's Methodist Church",
+                  "text": "St Julian's Methodist Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.980967,
+                        51.598332
+                  ]
+            },
+            {
+                  "name": "Summerhill Baptist Church",
+                  "text": "Summerhill Baptist Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.976997,
+                        51.592356
+                  ]
+            },
+            {
+                  "name": "Lodge Farm Church",
+                  "text": "Lodge Farm Church ist eine religiöse Stätte in Newport, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Newport und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.976086,
+                        51.617411
+                  ]
+            },
+            {
+                  "name": "Fourteen Locks Canal Centre",
+                  "text": "Das Fourteen Locks Canal Centre ist eine Sehenswürdigkeit in Newport am Monmouthshire-und-Brecon-Kanal. Es informiert über die beeindruckende Ingenieursleistung der Schleusentreppe und die lokale Industriegeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.041995,
+                        51.591775
+                  ]
             }
       ],
       "hu": [
@@ -36576,6 +41556,213 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.023612,
                         51.568571
+                  ]
+            },
+            {
+                  "name": "Dolman Theatre",
+                  "text": "A newporti Dolman Theatre egy jelentős színház, amely előadások és kulturális események széles skáláját mutatja be. Itt működik a Newport Playgoers Society, és a város előadóművészeti életének fontos központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.992097,
+                        51.584249
+                  ]
+            },
+            {
+                  "name": "The Phyllis Maud Performance Space",
+                  "text": "A Phyllis Maud Performance Space egy egyedülálló, apró színház Newportban, amely egy egykori nyilvános épületben kapott helyet. Meghitt környezetet biztosít kabarénak, zenének és kísérleti előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.98757,
+                        51.575412
+                  ]
+            },
+            {
+                  "name": "St John's",
+                  "text": "A(z) St John's egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.974135,
+                        51.59081
+                  ]
+            },
+            {
+                  "name": "City Bridge",
+                  "text": "A City Bridge egy híd Newportban, amely az Usk folyón ível át. 2004-ben adták át, és jellegzetes íves szerkezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.974109,
+                        51.57684
+                  ]
+            },
+            {
+                  "name": "St Mark",
+                  "text": "A(z) St Mark egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -3.002886,
+                        51.589612
+                  ]
+            },
+            {
+                  "name": "Bethel Community Church",
+                  "text": "A(z) Bethel Community Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.997065,
+                        51.586505
+                  ]
+            },
+            {
+                  "name": "Stow Park Church",
+                  "text": "A(z) Stow Park Church egy vallási helyszín Newport városában, amely szakrális építészetéről und történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -3.004583,
+                        51.583129
+                  ]
+            },
+            {
+                  "name": "Gaer Baptist Church",
+                  "text": "A(z) Gaer Baptist Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -3.01704,
+                        51.573343
+                  ]
+            },
+            {
+                  "name": "St Patrick's RC Church",
+                  "text": "A(z) St Patrick's RC Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.966526,
+                        51.583051
+                  ]
+            },
+            {
+                  "name": "St. Michael's Parish Church",
+                  "text": "A(z) St. Michael's Parish Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.98532,
+                        51.576096
+                  ]
+            },
+            {
+                  "name": "Ebbw Bridge Baptist Church",
+                  "text": "A(z) Ebbw Bridge Baptist Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -3.019066,
+                        51.568293
+                  ]
+            },
+            {
+                  "name": "Mount Zion Congregational Church",
+                  "text": "A(z) Mount Zion Congregational Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.994927,
+                        51.584287
+                  ]
+            },
+            {
+                  "name": "St Philip's",
+                  "text": "A(z) St Philip's egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.971369,
+                        51.581766
+                  ]
+            },
+            {
+                  "name": "St Basil's",
+                  "text": "A(z) St Basil's egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -3.044213,
+                        51.57829
+                  ]
+            },
+            {
+                  "name": "Cefn Wood Baptist Church",
+                  "text": "A(z) Cefn Wood Baptist Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -3.047941,
+                        51.585017
+                  ]
+            },
+            {
+                  "name": "Dawat E Islami Shaftesbury",
+                  "text": "A(z) Dawat E Islami Shaftesbury egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.996153,
+                        51.594168
+                  ]
+            },
+            {
+                  "name": "Duckpool Road Baptist Church",
+                  "text": "A(z) Duckpool Road Baptist Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.982084,
+                        51.593852
+                  ]
+            },
+            {
+                  "name": "Seventh-Day Adventist Church",
+                  "text": "A(z) Seventh-Day Adventist Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.973738,
+                        51.588969
+                  ]
+            },
+            {
+                  "name": "Emmanuel Evangelical Church",
+                  "text": "A(z) Emmanuel Evangelical Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.995193,
+                        51.579388
+                  ]
+            },
+            {
+                  "name": "St Julian's Methodist Church",
+                  "text": "A(z) St Julian's Methodist Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.980967,
+                        51.598332
+                  ]
+            },
+            {
+                  "name": "Summerhill Baptist Church",
+                  "text": "A(z) Summerhill Baptist Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.976997,
+                        51.592356
+                  ]
+            },
+            {
+                  "name": "Lodge Farm Church",
+                  "text": "A(z) Lodge Farm Church egy vallási helyszín Newport városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Newport városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.976086,
+                        51.617411
+                  ]
+            },
+            {
+                  "name": "Fourteen Locks Canal Centre",
+                  "text": "A Fourteen Locks Canal Centre egy látványosság Newportban, a Monmouthshire és Brecon csatorna mentén. Bemutatja a zsilipsor lenyűgöző mérnöki teljesítményét és a helyi ipartörténetet.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.041995,
+                        51.591775
                   ]
             }
       ],
@@ -36827,6 +42014,213 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.023612,
                         51.568571
                   ]
+            },
+            {
+                  "name": "Dolman Theatre",
+                  "text": "Teatrul Dolman din Newport este o locație importantă care prezintă o gamă largă de spectacole de teatru și evenimente culturale. Este sediul Newport Playgoers Society și un centru vital pentru artele spectacolului din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.992097,
+                        51.584249
+                  ]
+            },
+            {
+                  "name": "The Phyllis Maud Performance Space",
+                  "text": "Spațiul de Performanță Phyllis Maud este un teatru unic și minuscul din Newport, găzduit într-o fostă clădire publică. Oferă un cadru intim pentru spectacole de varietăți, muzică și reprezentații experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.98757,
+                        51.575412
+                  ]
+            },
+            {
+                  "name": "St John's",
+                  "text": "St John's este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.974135,
+                        51.59081
+                  ]
+            },
+            {
+                  "name": "City Bridge",
+                  "text": "City Bridge este un pod din Newport care traversează râul Usk. A fost deschis în 2004 și este cunoscut pentru structura sa arcuită distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.974109,
+                        51.57684
+                  ]
+            },
+            {
+                  "name": "St Mark",
+                  "text": "St Mark este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -3.002886,
+                        51.589612
+                  ]
+            },
+            {
+                  "name": "Bethel Community Church",
+                  "text": "Bethel Community Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.997065,
+                        51.586505
+                  ]
+            },
+            {
+                  "name": "Stow Park Church",
+                  "text": "Stow Park Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -3.004583,
+                        51.583129
+                  ]
+            },
+            {
+                  "name": "Gaer Baptist Church",
+                  "text": "Gaer Baptist Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -3.01704,
+                        51.573343
+                  ]
+            },
+            {
+                  "name": "St Patrick's RC Church",
+                  "text": "St Patrick's RC Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.966526,
+                        51.583051
+                  ]
+            },
+            {
+                  "name": "St. Michael's Parish Church",
+                  "text": "St. Michael's Parish Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.98532,
+                        51.576096
+                  ]
+            },
+            {
+                  "name": "Ebbw Bridge Baptist Church",
+                  "text": "Ebbw Bridge Baptist Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -3.019066,
+                        51.568293
+                  ]
+            },
+            {
+                  "name": "Mount Zion Congregational Church",
+                  "text": "Mount Zion Congregational Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.994927,
+                        51.584287
+                  ]
+            },
+            {
+                  "name": "St Philip's",
+                  "text": "St Philip's este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.971369,
+                        51.581766
+                  ]
+            },
+            {
+                  "name": "St Basil's",
+                  "text": "St Basil's este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -3.044213,
+                        51.57829
+                  ]
+            },
+            {
+                  "name": "Cefn Wood Baptist Church",
+                  "text": "Cefn Wood Baptist Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -3.047941,
+                        51.585017
+                  ]
+            },
+            {
+                  "name": "Dawat E Islami Shaftesbury",
+                  "text": "Dawat E Islami Shaftesbury este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.996153,
+                        51.594168
+                  ]
+            },
+            {
+                  "name": "Duckpool Road Baptist Church",
+                  "text": "Duckpool Road Baptist Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.982084,
+                        51.593852
+                  ]
+            },
+            {
+                  "name": "Seventh-Day Adventist Church",
+                  "text": "Seventh-Day Adventist Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.973738,
+                        51.588969
+                  ]
+            },
+            {
+                  "name": "Emmanuel Evangelical Church",
+                  "text": "Emmanuel Evangelical Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.995193,
+                        51.579388
+                  ]
+            },
+            {
+                  "name": "St Julian's Methodist Church",
+                  "text": "St Julian's Methodist Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.980967,
+                        51.598332
+                  ]
+            },
+            {
+                  "name": "Summerhill Baptist Church",
+                  "text": "Summerhill Baptist Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.976997,
+                        51.592356
+                  ]
+            },
+            {
+                  "name": "Lodge Farm Church",
+                  "text": "Lodge Farm Church este un lăcaș de cult din Newport, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Newport și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.976086,
+                        51.617411
+                  ]
+            },
+            {
+                  "name": "Fourteen Locks Canal Centre",
+                  "text": "Fourteen Locks Canal Centre este o atracție din Newport, situat pe canalul Monmouthshire și Brecon. Acesta oferă informații despre ingineria impresionantă a sistemului de ecluze și istoria industrială locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.041995,
+                        51.591775
+                  ]
             }
       ],
       "en": [
@@ -37076,6 +42470,213 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.023612,
                         51.568571
+                  ]
+            },
+            {
+                  "name": "Dolman Theatre",
+                  "text": "Dolman Theatre in Newport is a major venue presenting a wide range of theatrical performances and cultural events. It is home to the Newport Playgoers Society and a vital hub for performing arts in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.992097,
+                        51.584249
+                  ]
+            },
+            {
+                  "name": "The Phyllis Maud Performance Space",
+                  "text": "The Phyllis Maud Performance Space is a unique, tiny theatre in Newport housed in a former public building. It provides an intimate setting for small-scale arts, music, and experimental performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.98757,
+                        51.575412
+                  ]
+            },
+            {
+                  "name": "St John's",
+                  "text": "St John's is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.974135,
+                        51.59081
+                  ]
+            },
+            {
+                  "name": "City Bridge",
+                  "text": "The City Bridge is a bridge in Newport crossing the River Usk. Opened in 2004, it is known for its distinctive bow-string arch design.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.974109,
+                        51.57684
+                  ]
+            },
+            {
+                  "name": "St Mark",
+                  "text": "St Mark is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -3.002886,
+                        51.589612
+                  ]
+            },
+            {
+                  "name": "Bethel Community Church",
+                  "text": "Bethel Community Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.997065,
+                        51.586505
+                  ]
+            },
+            {
+                  "name": "Stow Park Church",
+                  "text": "Stow Park Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -3.004583,
+                        51.583129
+                  ]
+            },
+            {
+                  "name": "Gaer Baptist Church",
+                  "text": "Gaer Baptist Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -3.01704,
+                        51.573343
+                  ]
+            },
+            {
+                  "name": "St Patrick's RC Church",
+                  "text": "St Patrick's RC Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.966526,
+                        51.583051
+                  ]
+            },
+            {
+                  "name": "St. Michael's Parish Church",
+                  "text": "St. Michael's Parish Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.98532,
+                        51.576096
+                  ]
+            },
+            {
+                  "name": "Ebbw Bridge Baptist Church",
+                  "text": "Ebbw Bridge Baptist Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -3.019066,
+                        51.568293
+                  ]
+            },
+            {
+                  "name": "Mount Zion Congregational Church",
+                  "text": "Mount Zion Congregational Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.994927,
+                        51.584287
+                  ]
+            },
+            {
+                  "name": "St Philip's",
+                  "text": "St Philip's is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.971369,
+                        51.581766
+                  ]
+            },
+            {
+                  "name": "St Basil's",
+                  "text": "St Basil's is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -3.044213,
+                        51.57829
+                  ]
+            },
+            {
+                  "name": "Cefn Wood Baptist Church",
+                  "text": "Cefn Wood Baptist Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -3.047941,
+                        51.585017
+                  ]
+            },
+            {
+                  "name": "Dawat E Islami Shaftesbury",
+                  "text": "Dawat E Islami Shaftesbury is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.996153,
+                        51.594168
+                  ]
+            },
+            {
+                  "name": "Duckpool Road Baptist Church",
+                  "text": "Duckpool Road Baptist Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.982084,
+                        51.593852
+                  ]
+            },
+            {
+                  "name": "Seventh-Day Adventist Church",
+                  "text": "Seventh-Day Adventist Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.973738,
+                        51.588969
+                  ]
+            },
+            {
+                  "name": "Emmanuel Evangelical Church",
+                  "text": "Emmanuel Evangelical Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.995193,
+                        51.579388
+                  ]
+            },
+            {
+                  "name": "St Julian's Methodist Church",
+                  "text": "St Julian's Methodist Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.980967,
+                        51.598332
+                  ]
+            },
+            {
+                  "name": "Summerhill Baptist Church",
+                  "text": "Summerhill Baptist Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.976997,
+                        51.592356
+                  ]
+            },
+            {
+                  "name": "Lodge Farm Church",
+                  "text": "Lodge Farm Church is a place of worship in Newport, known for its sacred architecture and historical significance. Located in the city of Newport, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.976086,
+                        51.617411
+                  ]
+            },
+            {
+                  "name": "Fourteen Locks Canal Centre",
+                  "text": "The Fourteen Locks Canal Centre is an attraction in Newport located on the Monmouthshire and Brecon Canal. It highlights the impressive engineering of the lock flight and local industrial history.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.041995,
+                        51.591775
                   ]
             }
       ]
@@ -38946,6 +44547,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.205392,
                         51.872777
                   ]
+            },
+            {
+                  "name": "Gloucester Spiritualist Church",
+                  "text": "Gloucester Spiritualist Church ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.247129,
+                        51.861268
+                  ]
+            },
+            {
+                  "name": "St. Paul's and St. Stephen's",
+                  "text": "St. Paul's and St. Stephen's ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.245048,
+                        51.854652
+                  ]
+            },
+            {
+                  "name": "Saint George",
+                  "text": "Saint George ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.257566,
+                        51.833287
+                  ]
+            },
+            {
+                  "name": "HMP Gloucester",
+                  "text": "HMP Gloucester ist ein ehemaliges Gefängnis in Gloucester, das heute für geführte Touren und Veranstaltungen genutzt wird. Es bietet Einblicke in die düstere Geschichte des Strafvollzugs vom 18. Jahrhundert bis zur Schließung 2013.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.251251,
+                        51.865126
+                  ]
+            },
+            {
+                  "name": "Cemetery Chapel",
+                  "text": "Cemetery Chapel ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.230186,
+                        51.849233
+                  ]
+            },
+            {
+                  "name": "Saint Margaret",
+                  "text": "Saint Margaret ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.232124,
+                        51.868527
+                  ]
+            },
+            {
+                  "name": "Saint Mary Magdalene",
+                  "text": "Saint Mary Magdalene ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.229101,
+                        51.869264
+                  ]
+            },
+            {
+                  "name": "Saint Catharine",
+                  "text": "Saint Catharine ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.227337,
+                        51.869229
+                  ]
+            },
+            {
+                  "name": "Saint Peter",
+                  "text": "Saint Peter ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.240863,
+                        51.867407
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "All Saints ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.238249,
+                        51.861605
+                  ]
+            },
+            {
+                  "name": "Saint Giles",
+                  "text": "Saint Giles ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.27205,
+                        51.89313
+                  ]
+            },
+            {
+                  "name": "Saint Swithun",
+                  "text": "Saint Swithun ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.271985,
+                        51.85158
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Holy Trinity ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.210574,
+                        51.875327
+                  ]
+            },
+            {
+                  "name": "Saint Philip & Saint James",
+                  "text": "Saint Philip & Saint James ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.187734,
+                        51.857163
+                  ]
+            },
+            {
+                  "name": "Holy Innocents",
+                  "text": "Holy Innocents ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.297138,
+                        51.874105
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence",
+                  "text": "Saint Lawrence ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.207031,
+                        51.858194
+                  ]
+            },
+            {
+                  "name": "Christchurch, Abbeydale",
+                  "text": "Christchurch, Abbeydale ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.204979,
+                        51.840227
+                  ]
+            },
+            {
+                  "name": "St Oswald's Church, Coney Hill",
+                  "text": "St Oswald's Church, Coney Hill ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.214289,
+                        51.852454
+                  ]
+            },
+            {
+                  "name": "Saint Aldate",
+                  "text": "Saint Aldate ist eine religiöse Stätte in Gloucester, die für ihre sakrale Architektur und historische Bedeutung bekannt ist. Es befindet sich in der Stadt Gloucester und ist ein markantes lokales Ziel. Besucher können die Architektur und die ruhige Atmosphäre vor Ort genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -2.228508,
+                        51.846674
+                  ]
             }
       ],
       "hu": [
@@ -39380,6 +45152,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.205392,
                         51.872777
+                  ]
+            },
+            {
+                  "name": "Gloucester Spiritualist Church",
+                  "text": "A(z) Gloucester Spiritualist Church egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.247129,
+                        51.861268
+                  ]
+            },
+            {
+                  "name": "St. Paul's and St. Stephen's",
+                  "text": "A(z) St. Paul's and St. Stephen's egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.245048,
+                        51.854652
+                  ]
+            },
+            {
+                  "name": "Saint George",
+                  "text": "A(z) Saint George egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.257566,
+                        51.833287
+                  ]
+            },
+            {
+                  "name": "HMP Gloucester",
+                  "text": "A HMP Gloucester egy egykori börtön Gloucesterben, amely ma vezetett túráknak és rendezvényeknek ad otthont. Betekintést nyújt a büntetés-végrehajtás sötét történetébe a 18. századtól a 2013-as bezárásig.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.251251,
+                        51.865126
+                  ]
+            },
+            {
+                  "name": "Cemetery Chapel",
+                  "text": "A(z) Cemetery Chapel egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.230186,
+                        51.849233
+                  ]
+            },
+            {
+                  "name": "Saint Margaret",
+                  "text": "A(z) Saint Margaret egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, und fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.232124,
+                        51.868527
+                  ]
+            },
+            {
+                  "name": "Saint Mary Magdalene",
+                  "text": "A(z) Saint Mary Magdalene egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.229101,
+                        51.869264
+                  ]
+            },
+            {
+                  "name": "Saint Catharine",
+                  "text": "A(z) Saint Catharine egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.227337,
+                        51.869229
+                  ]
+            },
+            {
+                  "name": "Saint Peter",
+                  "text": "A(z) Saint Peter egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet und a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.240863,
+                        51.867407
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "A(z) All Saints egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.238249,
+                        51.861605
+                  ]
+            },
+            {
+                  "name": "Saint Giles",
+                  "text": "A(z) Saint Giles egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.27205,
+                        51.89313
+                  ]
+            },
+            {
+                  "name": "Saint Swithun",
+                  "text": "A(z) Saint Swithun egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.271985,
+                        51.85158
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "A(z) Holy Trinity egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.210574,
+                        51.875327
+                  ]
+            },
+            {
+                  "name": "Saint Philip & Saint James",
+                  "text": "A(z) Saint Philip & Saint James egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet und a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.187734,
+                        51.857163
+                  ]
+            },
+            {
+                  "name": "Holy Innocents",
+                  "text": "A(z) Holy Innocents egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.297138,
+                        51.874105
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence",
+                  "text": "A(z) Saint Lawrence egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.207031,
+                        51.858194
+                  ]
+            },
+            {
+                  "name": "Christchurch, Abbeydale",
+                  "text": "A(z) Christchurch, Abbeydale egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.204979,
+                        51.840227
+                  ]
+            },
+            {
+                  "name": "St Oswald's Church, Coney Hill",
+                  "text": "A(z) St Oswald's Church, Coney Hill egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.214289,
+                        51.852454
+                  ]
+            },
+            {
+                  "name": "Saint Aldate",
+                  "text": "A(z) Saint Aldate egy vallási helyszín Gloucester városában, amely szakrális építészetéről és történelmi jelentőségéről ismert. Ez a helyszín Gloucester városában található, és fontos helyi célpont. A látogatók megtekinthetik az épületet és a környező területet.",
+                  "category": "religious",
+                  "coords": [
+                        -2.228508,
+                        51.846674
                   ]
             }
       ],
@@ -39816,6 +45759,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.205392,
                         51.872777
                   ]
+            },
+            {
+                  "name": "Gloucester Spiritualist Church",
+                  "text": "Gloucester Spiritualist Church este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.247129,
+                        51.861268
+                  ]
+            },
+            {
+                  "name": "St. Paul's and St. Stephen's",
+                  "text": "St. Paul's and St. Stephen's este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.245048,
+                        51.854652
+                  ]
+            },
+            {
+                  "name": "Saint George",
+                  "text": "Saint George este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.257566,
+                        51.833287
+                  ]
+            },
+            {
+                  "name": "HMP Gloucester",
+                  "text": "HMP Gloucester este o fostă închisoare din Gloucester, utilizată astăzi pentru tururi ghidate și evenimente. Oferă o privire asupra istoriei sumbre a sistemului penitenciar din secolul al XVIII-lea până la închiderea sa în 2013.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.251251,
+                        51.865126
+                  ]
+            },
+            {
+                  "name": "Cemetery Chapel",
+                  "text": "Cemetery Chapel este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.230186,
+                        51.849233
+                  ]
+            },
+            {
+                  "name": "Saint Margaret",
+                  "text": "Saint Margaret este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.232124,
+                        51.868527
+                  ]
+            },
+            {
+                  "name": "Saint Mary Magdalene",
+                  "text": "Saint Mary Magdalene este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.229101,
+                        51.869264
+                  ]
+            },
+            {
+                  "name": "Saint Catharine",
+                  "text": "Saint Catharine este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.227337,
+                        51.869229
+                  ]
+            },
+            {
+                  "name": "Saint Peter",
+                  "text": "Saint Peter este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.240863,
+                        51.867407
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "All Saints este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.238249,
+                        51.861605
+                  ]
+            },
+            {
+                  "name": "Saint Giles",
+                  "text": "Saint Giles este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.27205,
+                        51.89313
+                  ]
+            },
+            {
+                  "name": "Saint Swithun",
+                  "text": "Saint Swithun este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.271985,
+                        51.85158
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Holy Trinity este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.210574,
+                        51.875327
+                  ]
+            },
+            {
+                  "name": "Saint Philip & Saint James",
+                  "text": "Saint Philip & Saint James este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.187734,
+                        51.857163
+                  ]
+            },
+            {
+                  "name": "Holy Innocents",
+                  "text": "Holy Innocents este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.297138,
+                        51.874105
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence",
+                  "text": "Saint Lawrence este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.207031,
+                        51.858194
+                  ]
+            },
+            {
+                  "name": "Christchurch, Abbeydale",
+                  "text": "Christchurch, Abbeydale este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.204979,
+                        51.840227
+                  ]
+            },
+            {
+                  "name": "St Oswald's Church, Coney Hill",
+                  "text": "St Oswald's Church, Coney Hill este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.214289,
+                        51.852454
+                  ]
+            },
+            {
+                  "name": "Saint Aldate",
+                  "text": "Saint Aldate este un lăcaș de cult din Gloucester, cunoscut pentru arhitectura sa sacră și importanța istorică. Această locație se află în orașul Gloucester și reprezintă un punct de reper local. Vizitatorii pot admira arhitectura și atmosfera liniștită a locului.",
+                  "category": "religious",
+                  "coords": [
+                        -2.228508,
+                        51.846674
+                  ]
             }
       ],
       "en": [
@@ -40250,6 +46364,177 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.205392,
                         51.872777
+                  ]
+            },
+            {
+                  "name": "Gloucester Spiritualist Church",
+                  "text": "Gloucester Spiritualist Church is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.247129,
+                        51.861268
+                  ]
+            },
+            {
+                  "name": "St. Paul's and St. Stephen's",
+                  "text": "St. Paul's and St. Stephen's is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.245048,
+                        51.854652
+                  ]
+            },
+            {
+                  "name": "Saint George",
+                  "text": "Saint George is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.257566,
+                        51.833287
+                  ]
+            },
+            {
+                  "name": "HMP Gloucester",
+                  "text": "HMP Gloucester is a former prison in Gloucester that is now used for guided tours and events. It offers a glimpse into the dark history of the penal system from the 18th century until its closure in 2013.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.251251,
+                        51.865126
+                  ]
+            },
+            {
+                  "name": "Cemetery Chapel",
+                  "text": "Cemetery Chapel is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.230186,
+                        51.849233
+                  ]
+            },
+            {
+                  "name": "Saint Margaret",
+                  "text": "Saint Margaret is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.232124,
+                        51.868527
+                  ]
+            },
+            {
+                  "name": "Saint Mary Magdalene",
+                  "text": "Saint Mary Magdalene is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.229101,
+                        51.869264
+                  ]
+            },
+            {
+                  "name": "Saint Catharine",
+                  "text": "Saint Catharine is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.227337,
+                        51.869229
+                  ]
+            },
+            {
+                  "name": "Saint Peter",
+                  "text": "Saint Peter is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.240863,
+                        51.867407
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "All Saints is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.238249,
+                        51.861605
+                  ]
+            },
+            {
+                  "name": "Saint Giles",
+                  "text": "Saint Giles is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.27205,
+                        51.89313
+                  ]
+            },
+            {
+                  "name": "Saint Swithun",
+                  "text": "Saint Swithun is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.271985,
+                        51.85158
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Holy Trinity is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.210574,
+                        51.875327
+                  ]
+            },
+            {
+                  "name": "Saint Philip & Saint James",
+                  "text": "Saint Philip & Saint James is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.187734,
+                        51.857163
+                  ]
+            },
+            {
+                  "name": "Holy Innocents",
+                  "text": "Holy Innocents is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.297138,
+                        51.874105
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence",
+                  "text": "Saint Lawrence is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.207031,
+                        51.858194
+                  ]
+            },
+            {
+                  "name": "Christchurch, Abbeydale",
+                  "text": "Christchurch, Abbeydale is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.204979,
+                        51.840227
+                  ]
+            },
+            {
+                  "name": "St Oswald's Church, Coney Hill",
+                  "text": "St Oswald's Church, Coney Hill is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.214289,
+                        51.852454
+                  ]
+            },
+            {
+                  "name": "Saint Aldate",
+                  "text": "Saint Aldate is a place of worship in Gloucester, known for its sacred architecture and historical significance. Located in the city of Gloucester, this site serves as a notable local landmark. Visitors can appreciate the architecture and the peaceful environment of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -2.228508,
+                        51.846674
                   ]
             }
       ]
@@ -40974,6 +47259,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.541838,
                         50.727228
                   ]
+            },
+            {
+                  "name": "Stoke Hill Fort",
+                  "text": "Stoke Hill Fort ist eine bedeutende archäologische Stätte auf einer Anhöhe bei Exeter. Die Überreste dieser antiken Befestigung bieten Einblicke in die frühe Besiedlungsgeschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -3.522889,
+                        50.750982
+                  ]
+            },
+            {
+                  "name": "Roman Signal Station",
+                  "text": "Diese archäologische Stätte in Exeter markiert den Standort einer ehemaligen römischen Signalstation. Sie ist ein Zeugnis der römischen Militärpräsenz und Verteidigungsstrategie in Britannien.",
+                  "category": "historical",
+                  "coords": [
+                        -3.527373,
+                        50.747441
+                  ]
+            },
+            {
+                  "name": "St Antony",
+                  "text": "St. Antony ist eine christliche Kultstätte in Exeter, die der örtlichen Gemeinde dient. Das Gebäude bietet einen Raum für Gebet und Gemeinschaft im städtischen Umfeld.",
+                  "category": "religious",
+                  "coords": [
+                        -3.552524,
+                        50.750444
+                  ]
             }
       ],
       "hu": [
@@ -41647,6 +47959,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.541838,
                         50.727228
+                  ]
+            },
+            {
+                  "name": "Stoke Hill Fort",
+                  "text": "A Stoke Hill Fort egy jelentős régészeti lelőhely egy dombtetőn, Exeter közelében. Ennek az ősi erődítménynek a maradványai betekintést nyújtanak a régió korai betelepüléstörténetébe.",
+                  "category": "historical",
+                  "coords": [
+                        -3.522889,
+                        50.750982
+                  ]
+            },
+            {
+                  "name": "Roman Signal Station",
+                  "text": "Ez a régészeti lelőhely Exeterben egy egykori római jelzőállomás helyszínét jelöli. A brit-szigeteki római katonai jelenlét és védelmi stratégia bizonyítéka.",
+                  "category": "historical",
+                  "coords": [
+                        -3.527373,
+                        50.747441
+                  ]
+            },
+            {
+                  "name": "St Antony",
+                  "text": "A St Antony egy keresztény istentiszteleti hely Exeterben, amely a helyi közösséget szolgálja. Az épület teret biztosít az imádsághoz és a közösséghez a városi környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        -3.552524,
+                        50.750444
                   ]
             }
       ],
@@ -42322,6 +48661,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.541838,
                         50.727228
                   ]
+            },
+            {
+                  "name": "Stoke Hill Fort",
+                  "text": "Stoke Hill Fort este un sit arheologic important situat pe o colină lângă Exeter. Rămășițele acestei fortificații antice oferă perspective asupra istoriei timpurii a așezărilor din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -3.522889,
+                        50.750982
+                  ]
+            },
+            {
+                  "name": "Roman Signal Station",
+                  "text": "Acest sit arheologic din Exeter marchează locația unei foste stații de semnalizare romane. Este o dovadă a prezenței militare romane și a strategiei de apărare din Britania.",
+                  "category": "historical",
+                  "coords": [
+                        -3.527373,
+                        50.747441
+                  ]
+            },
+            {
+                  "name": "St Antony",
+                  "text": "St Antony este un lăcaș de cult creștin din Exeter care deservește comunitatea locală. Clădirea oferă un spațiu pentru rugăciune și comuniune în mediul urban.",
+                  "category": "religious",
+                  "coords": [
+                        -3.552524,
+                        50.750444
+                  ]
             }
       ],
       "en": [
@@ -42995,6 +49361,33 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.541838,
                         50.727228
+                  ]
+            },
+            {
+                  "name": "Stoke Hill Fort",
+                  "text": "Stoke Hill Fort is a significant archaeological site located on high ground near Exeter. The remains of this ancient fortification offer insights into the region's early settlement history.",
+                  "category": "historical",
+                  "coords": [
+                        -3.522889,
+                        50.750982
+                  ]
+            },
+            {
+                  "name": "Roman Signal Station",
+                  "text": "This archaeological site in Exeter marks the location of a former Roman signal station. It stands as a testament to Roman military presence and defensive strategy in Britain.",
+                  "category": "historical",
+                  "coords": [
+                        -3.527373,
+                        50.747441
+                  ]
+            },
+            {
+                  "name": "St Antony",
+                  "text": "St Antony is a Christian place of worship in Exeter serving the local community. The building provides a space for prayer and fellowship within the urban setting.",
+                  "category": "religious",
+                  "coords": [
+                        -3.552524,
+                        50.750444
                   ]
             }
       ]
@@ -44277,6 +50670,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         1.269481,
                         52.628169
                   ]
+            },
+            {
+                  "name": "NWT Thorpe Marshes",
+                  "text": "NWT Thorpe Marshes ist ein Naturschutzgebiet in Norwich. Das Gebiet bietet eine ruhige Umgebung zur Beobachtung der lokalen Tierwelt und Natur.",
+                  "category": "natural",
+                  "coords": [
+                        1.352448,
+                        52.623531
+                  ]
+            },
+            {
+                  "name": "Earlham Park",
+                  "text": "Earlham Park ist ein Park in Norwich. Diese Grünfläche ist ein beliebtes Ziel für Erholung und Aktivitäten im Freien.",
+                  "category": "park",
+                  "coords": [
+                        1.236056,
+                        52.625167
+                  ]
             }
       ],
       "hu": [
@@ -45095,6 +51506,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         1.269481,
                         52.628169
+                  ]
+            },
+            {
+                  "name": "NWT Thorpe Marshes",
+                  "text": "A(z) NWT Thorpe Marshes egy természetvédelmi terület Norwich városában. A terület nyugodt környezetet biztosít a helyi vadvilág és a természeti táj megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        1.352448,
+                        52.623531
+                  ]
+            },
+            {
+                  "name": "Earlham Park",
+                  "text": "A(z) Earlham Park egy park Norwich városában. Ez a zöldterület népszerű helyszín a kikapcsolódáshoz és a szabadtéri tevékenységekhez.",
+                  "category": "park",
+                  "coords": [
+                        1.236056,
+                        52.625167
                   ]
             }
       ],
@@ -45915,6 +52344,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         1.269481,
                         52.628169
                   ]
+            },
+            {
+                  "name": "NWT Thorpe Marshes",
+                  "text": "NWT Thorpe Marshes este un rezervație naturală situat în Norwich. Zona oferă un mediu liniștit pentru observarea faunei locale și a peisajelor naturale.",
+                  "category": "natural",
+                  "coords": [
+                        1.352448,
+                        52.623531
+                  ]
+            },
+            {
+                  "name": "Earlham Park",
+                  "text": "Earlham Park este un parc situat în Norwich. Acest spațiu verde este o destinație populară pentru recreere și activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        1.236056,
+                        52.625167
+                  ]
             }
       ],
       "en": [
@@ -46734,6 +53181,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         1.269481,
                         52.628169
                   ]
+            },
+            {
+                  "name": "NWT Thorpe Marshes",
+                  "text": "NWT Thorpe Marshes is a nature reserve located in Norwich. The area provides a peaceful environment for observing local wildlife and natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        1.352448,
+                        52.623531
+                  ]
+            },
+            {
+                  "name": "Earlham Park",
+                  "text": "Earlham Park is a park located in Norwich. This green space is a popular destination for recreation and outdoor activities in the city.",
+                  "category": "park",
+                  "coords": [
+                        1.236056,
+                        52.625167
+                  ]
             }
       ]
 }
@@ -47013,6 +53478,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.940861,
                         56.120658
                   ]
+            },
+            {
+                  "name": "Smith Art Gallery & Museum",
+                  "text": "Die Stirling Smith Art Gallery and Museum beherbergt eine umfangreiche Sammlung zur lokalen Geschichte und Kunst. Es ist ein kultureller Treffpunkt in Stirling und bietet wechselnde Ausstellungen für Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        -3.946149,
+                        56.119227
+                  ]
+            },
+            {
+                  "name": "Argyll & Sutherland Highlanders Regimental HQ & Museum",
+                  "text": "Dieses Museum in Stirling ist der Geschichte der Argyll and Sutherland Highlanders gewidmet. Es zeigt Uniformen, Waffen und Erinnerungsstücke, die den Mut und die Traditionen dieses Regiments dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        -3.948727,
+                        56.123953
+                  ]
+            },
+            {
+                  "name": "Albert Halls",
+                  "text": "Die Albert Halls sind ein bedeutender Veranstaltungsort in Stirling für Konzerte, Theater und Gemeinschaftsereignisse. Das beeindruckende Gebäude im Stadtzentrum bietet eine vielfältige Bühne für kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941877,
+                        56.118125
+                  ]
+            },
+            {
+                  "name": "The Bastion & Thieves Pot",
+                  "text": "The Bastion & Thieves Pot bietet Einblicke in die dunkle Seite der Geschichte Stirlings mit einem erhaltenen Gefängnisraum. Besucher können mehr über die Bestrafung und Inhaftierung in vergangenen Zeiten erfahren.",
+                  "category": "museum",
+                  "coords": [
+                        -3.935855,
+                        56.117221
+                  ]
+            },
+            {
+                  "name": "Polmaise Castle",
+                  "text": "Polmaise Castle ist ein ehemaliger Adelssitz in Stirling, von dem heute nur noch Ruinen oder Erinnerungen existieren. Die Geschichte des Schlosses ist eng mit den lokalen Landbesitzern der Region verknüpft.",
+                  "category": "castle",
+                  "coords": [
+                        -3.966753,
+                        56.102254
+                  ]
+            },
+            {
+                  "name": "Balquhidderock Wood Local Nature Reserve",
+                  "text": "Das Naturschutzgebiet Balquhidderock Wood bietet Wanderwege durch alte Wälder am Rande von Stirling. Es ist ein wertvoller Lebensraum für die lokale Tierwelt und ein ruhiger Ort für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        -3.917602,
+                        56.098424
+                  ]
+            },
+            {
+                  "name": "St Ninian's",
+                  "text": "Die Ruinen von St Ninian's in Stirling sind Überreste einer historischen religiösen Stätte. Der Ort ist geschichtsträchtig und lädt dazu ein, die Vergangenheit der Region zu erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        -3.937823,
+                        56.102639
+                  ]
+            },
+            {
+                  "name": "Bannockburn Monument",
+                  "text": "Das Bannockburn Monument erinnert an die berühmte Schlacht von 1314, die ein Schlüsselereignis der schottischen Geschichte war. Es steht an einem bedeutsamen Ort und bietet einen weiten Blick über das Schlachtfeld.",
+                  "category": "historical",
+                  "coords": [
+                        -3.937771,
+                        56.093303
+                  ]
+            },
+            {
+                  "name": "Ladies' Rock",
+                  "text": "Ladies' Rock ist ein erhöhter Aussichtspunkt in Stirling, der früher von Adligen genutzt wurde, um Turniere zu beobachten. Heute bietet er einen fantastischen Blick auf Stirling Castle und die Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        -3.946364,
+                        56.12141
+                  ]
+            },
+            {
+                  "name": "Viewpoint for Stirling Castle",
+                  "text": "Dieser Aussichtspunkt bietet eine der besten Perspektiven auf das majestätische Stirling Castle vor der Kulisse der Berge. Er ist ein idealer Ort für Fotografen und Besucher, die die monumentale Festung bewundern möchten.",
+                  "category": "natural",
+                  "coords": [
+                        -3.951879,
+                        56.121709
+                  ]
+            },
+            {
+                  "name": "Beheading Stone",
+                  "text": "Der Beheading Stone in Stirling ist ein historisches Artefakt, das an die düstere Vergangenheit der öffentlichen Hinrichtungen erinnert. Er befindet sich auf dem Mote Hill und ist mit einem Schutzgitter versehen.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.942651,
+                        56.127665
+                  ]
+            },
+            {
+                  "name": "John Cowane's House",
+                  "text": "John Cowane's House ist die Ruine des ehemaligen Wohnsitzes eines wohlhabenden Kaufmanns und Wohltäters aus Stirling. Die Überreste lassen die Architektur und den Reichtum des 17. Jahrhunderts erahnen.",
+                  "category": "historical",
+                  "coords": [
+                        -3.942627,
+                        56.122077
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Episcopal Church",
+                  "text": "Die Holy Trinity Episcopal Church ist eine anglikanische Kirche in Stirling, die für ihre neugotische Bauweise und ihre Fenster bekannt ist. Sie bietet einen Ort der Stille und regelmäßige Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -3.942829,
+                        56.118377
+                  ]
             }
       ],
       "hu": [
@@ -47242,6 +53824,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.940861,
                         56.120658
+                  ]
+            },
+            {
+                  "name": "Smith Art Gallery & Museum",
+                  "text": "A Stirling Smith Art Gallery and Museum a helyi történelem és művészet gazdag gyűjteményének ad otthont. Stirling egyik kulturális találkozóhelye, amely változatos időszaki kiállításokat kínál a látogatóknak.",
+                  "category": "museum",
+                  "coords": [
+                        -3.946149,
+                        56.119227
+                  ]
+            },
+            {
+                  "name": "Argyll & Sutherland Highlanders Regimental HQ & Museum",
+                  "text": "Ez a stirlingi múzeum az Argyll és Sutherland Highlanders ezred történetének van szentelve. Egyenruhákat, fegyvereket és emlékeket mutat be, amelyek dokumentálják az ezred bátorságát és hagyományait.",
+                  "category": "museum",
+                  "coords": [
+                        -3.948727,
+                        56.123953
+                  ]
+            },
+            {
+                  "name": "Albert Halls",
+                  "text": "Az Albert Halls Stirling egyik jelentős helyszíne koncertek, színházi előadások és közösségi események számára. A városközpontban található lenyűgöző épület változatos színpadot biztosít a kulturális produkcióknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941877,
+                        56.118125
+                  ]
+            },
+            {
+                  "name": "The Bastion & Thieves Pot",
+                  "text": "A The Bastion & Thieves Pot betekintést nyújt Stirling történelmének sötétebb oldalába egy megőrzött börtönhelyiséggel. A látogatók többet tudhatnak meg a múltbeli büntetésekről és a fogva tartásról.",
+                  "category": "museum",
+                  "coords": [
+                        -3.935855,
+                        56.117221
+                  ]
+            },
+            {
+                  "name": "Polmaise Castle",
+                  "text": "A Polmaise-kastély egy egykori nemesi székhely Stirlingben, amelyből mára csak romok vagy emlékek maradtak. A kastély története szorosan kapcsolódik a régió helyi földbirtokosaihoz.",
+                  "category": "castle",
+                  "coords": [
+                        -3.966753,
+                        56.102254
+                  ]
+            },
+            {
+                  "name": "Balquhidderock Wood Local Nature Reserve",
+                  "text": "A Balquhidderock Wood helyi természetvédelmi terület erdei ösvényeket kínál Stirling szélén. Értékes élőhely a helyi vadvilág számára, és nyugodt hely a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        -3.917602,
+                        56.098424
+                  ]
+            },
+            {
+                  "name": "St Ninian's",
+                  "text": "A stirlingi St Ninian's romjai egy történelmi vallási helyszín maradványai. A helyszín gazdag történelemben, és hívogat a régió múltjának felfedezésére.",
+                  "category": "historical",
+                  "coords": [
+                        -3.937823,
+                        56.102639
+                  ]
+            },
+            {
+                  "name": "Bannockburn Monument",
+                  "text": "A Bannockburn-emlékmű az 1314-es híres csatára emlékeztet, amely a skót történelem kulcsfontosságú eseménye volt. Jelentős helyszínen áll, és széles kilátást nyújt a csatatérre.",
+                  "category": "historical",
+                  "coords": [
+                        -3.937771,
+                        56.093303
+                  ]
+            },
+            {
+                  "name": "Ladies' Rock",
+                  "text": "A Ladies' Rock egy stirlingi kilátópont, amelyet egykor nemes hölgyek használtak a lovagi tornák megtekintésére. Ma fantasztikus kilátást nyújt a stirlingi várra és az óvárosra.",
+                  "category": "natural",
+                  "coords": [
+                        -3.946364,
+                        56.12141
+                  ]
+            },
+            {
+                  "name": "Viewpoint for Stirling Castle",
+                  "text": "Ez a kilátópont az egyik legjobb perspektívát kínálja a fenséges stirlingi várra a hegyek hátterével. Ideális hely a fotósok és a látogatók számára, akik meg akarják csodálni a monumentális erődítményt.",
+                  "category": "natural",
+                  "coords": [
+                        -3.951879,
+                        56.121709
+                  ]
+            },
+            {
+                  "name": "Beheading Stone",
+                  "text": "A stirlingi Beheading Stone egy történelmi ereklye, amely a nyilvános kivégzések sötét múltjára emlékeztet. A Mote Hillen található, és védőrács veszi körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.942651,
+                        56.127665
+                  ]
+            },
+            {
+                  "name": "John Cowane's House",
+                  "text": "John Cowane háza egy gazdag stirlingi kereskedő és jótevő egykori lakóhelyének romja. A maradványok sejtetik a 17. századi építészetet és gazdagságot.",
+                  "category": "historical",
+                  "coords": [
+                        -3.942627,
+                        56.122077
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Episcopal Church",
+                  "text": "A Szent Háromság Episkopális Templom egy anglikán templom Stirlingben, amely neogótikus építéséről és ablakairól ismert. A nyugalom helyszínét és rendszeres istentiszteleteket kínál.",
+                  "category": "religious",
+                  "coords": [
+                        -3.942829,
+                        56.118377
                   ]
             }
       ],
@@ -47473,6 +54172,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.940861,
                         56.120658
                   ]
+            },
+            {
+                  "name": "Smith Art Gallery & Museum",
+                  "text": "Stirling Smith Art Gallery and Museum găzduiește o colecție vastă de istorie locală și artă. Este un centru cultural în Stirling și oferă expoziții variate pentru vizitatori.",
+                  "category": "museum",
+                  "coords": [
+                        -3.946149,
+                        56.119227
+                  ]
+            },
+            {
+                  "name": "Argyll & Sutherland Highlanders Regimental HQ & Museum",
+                  "text": "Acest muzeu din Stirling este dedicat istoriei regimentului Argyll and Sutherland Highlanders. Expoziția cuprinde uniforme, arme și suveniruri care documentează curajul și tradițiile acestui regiment.",
+                  "category": "museum",
+                  "coords": [
+                        -3.948727,
+                        56.123953
+                  ]
+            },
+            {
+                  "name": "Albert Halls",
+                  "text": "Albert Halls este o locație importantă din Stirling pentru concerte, teatru și evenimente comunitare. Clădirea impresionantă din centrul orașului oferă o scenă diversă pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941877,
+                        56.118125
+                  ]
+            },
+            {
+                  "name": "The Bastion & Thieves Pot",
+                  "text": "The Bastion & Thieves Pot oferă o privire asupra laturii întunecate a istoriei orașului Stirling printr-o celulă de închisoare conservată. Vizitatorii pot afla mai multe despre pedepsele și detenția din vremurile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        -3.935855,
+                        56.117221
+                  ]
+            },
+            {
+                  "name": "Polmaise Castle",
+                  "text": "Castelul Polmaise este o fostă reședință nobiliară din Stirling, din care astăzi mai există doar ruine sau amintiri. Istoria castelului este strâns legată de proprietarii de terenuri locali din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        -3.966753,
+                        56.102254
+                  ]
+            },
+            {
+                  "name": "Balquhidderock Wood Local Nature Reserve",
+                  "text": "Rezervația naturală locală Balquhidderock Wood oferă trasee de plimbare prin păduri vechi la marginea orașului Stirling. Este un habitat valoros pentru fauna locală și un loc liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -3.917602,
+                        56.098424
+                  ]
+            },
+            {
+                  "name": "St Ninian's",
+                  "text": "Ruinele St Ninian's din Stirling sunt rămășițele unui sit religios istoric. Locul este încărcat de istorie și invită la explorarea trecutului regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -3.937823,
+                        56.102639
+                  ]
+            },
+            {
+                  "name": "Bannockburn Monument",
+                  "text": "Monumentul Bannockburn comemorează faimoasa bătălie din 1314, un eveniment cheie în istoria Scoției. Acesta se află într-un loc simbolic și oferă o vedere panoramică asupra câmpului de luptă.",
+                  "category": "historical",
+                  "coords": [
+                        -3.937771,
+                        56.093303
+                  ]
+            },
+            {
+                  "name": "Ladies' Rock",
+                  "text": "Ladies' Rock este un punct de observație ridicat din Stirling, folosit în trecut de nobile pentru a urmări turnirurile. Astăzi, acesta oferă o vedere fantastică asupra Castelului Stirling și a orașului vechi.",
+                  "category": "natural",
+                  "coords": [
+                        -3.946364,
+                        56.12141
+                  ]
+            },
+            {
+                  "name": "Viewpoint for Stirling Castle",
+                  "text": "Acest punct de observație oferă una dintre cele mai bune perspective asupra maiestuosului Castel Stirling pe fundalul munților. Este un loc ideal pentru fotografi și vizitatori care doresc să admire fortăreața monumentală.",
+                  "category": "natural",
+                  "coords": [
+                        -3.951879,
+                        56.121709
+                  ]
+            },
+            {
+                  "name": "Beheading Stone",
+                  "text": "Beheading Stone din Stirling este un artefact istoric ce amintește de trecutul sumbru al execuțiilor publice. Piatra se află pe Mote Hill și este protejată de un grilaj metalic.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.942651,
+                        56.127665
+                  ]
+            },
+            {
+                  "name": "John Cowane's House",
+                  "text": "Casa lui John Cowane este ruina fostei reședințe a unui negustor și binefăcător bogat din Stirling. Rămășițele oferă o idee despre arhitectura și bogăția secolului al XVII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -3.942627,
+                        56.122077
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Episcopal Church",
+                  "text": "Biserica Episcopală Holy Trinity este o biserică anglicană din Stirling, cunoscută pentru arhitectura sa neogotică și vitralii. Oferă un loc de liniște și servicii religioase regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -3.942829,
+                        56.118377
+                  ]
             }
       ],
       "en": [
@@ -47702,6 +54518,123 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.940861,
                         56.120658
+                  ]
+            },
+            {
+                  "name": "Smith Art Gallery & Museum",
+                  "text": "The Stirling Smith Art Gallery and Museum houses an extensive collection of local history and fine art. It is a cultural hub in Stirling, offering diverse temporary exhibitions for visitors.",
+                  "category": "museum",
+                  "coords": [
+                        -3.946149,
+                        56.119227
+                  ]
+            },
+            {
+                  "name": "Argyll & Sutherland Highlanders Regimental HQ & Museum",
+                  "text": "This museum in Stirling is dedicated to the history of the Argyll and Sutherland Highlanders. It displays uniforms, weapons, and memorabilia documenting the regiment's bravery and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -3.948727,
+                        56.123953
+                  ]
+            },
+            {
+                  "name": "Albert Halls",
+                  "text": "The Albert Halls is a premier venue in Stirling for concerts, theatre, and community events. This impressive building in the city center provides a versatile stage for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.941877,
+                        56.118125
+                  ]
+            },
+            {
+                  "name": "The Bastion & Thieves Pot",
+                  "text": "The Bastion & Thieves Pot offers a glimpse into the darker side of Stirling's history with a preserved jail chamber. Visitors can learn about crime and punishment in centuries past.",
+                  "category": "museum",
+                  "coords": [
+                        -3.935855,
+                        56.117221
+                  ]
+            },
+            {
+                  "name": "Polmaise Castle",
+                  "text": "Polmaise Castle is a former noble residence in Stirling, of which only ruins or memories remain today. The castle's history is closely tied to the local landowners of the region.",
+                  "category": "castle",
+                  "coords": [
+                        -3.966753,
+                        56.102254
+                  ]
+            },
+            {
+                  "name": "Balquhidderock Wood Local Nature Reserve",
+                  "text": "Balquhidderock Wood Local Nature Reserve features woodland trails on the outskirts of Stirling. It provides a valuable habitat for local wildlife and a peaceful escape for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -3.917602,
+                        56.098424
+                  ]
+            },
+            {
+                  "name": "St Ninian's",
+                  "text": "The ruins of St Ninian's in Stirling are the remains of a historic religious site. This area is steeped in history and invites visitors to explore the region's past.",
+                  "category": "historical",
+                  "coords": [
+                        -3.937823,
+                        56.102639
+                  ]
+            },
+            {
+                  "name": "Bannockburn Monument",
+                  "text": "The Bannockburn Monument commemorates the famous battle of 1314, a pivotal event in Scottish history. It stands on a significant site and offers expansive views over the historic battlefield.",
+                  "category": "historical",
+                  "coords": [
+                        -3.937771,
+                        56.093303
+                  ]
+            },
+            {
+                  "name": "Ladies' Rock",
+                  "text": "Ladies' Rock is an elevated viewpoint in Stirling once used by noble ladies to watch tournaments below. Today, it offers a fantastic perspective of Stirling Castle and the historic Old Town.",
+                  "category": "natural",
+                  "coords": [
+                        -3.946364,
+                        56.12141
+                  ]
+            },
+            {
+                  "name": "Viewpoint for Stirling Castle",
+                  "text": "This viewpoint offers one of the best perspectives of the majestic Stirling Castle against a mountainous backdrop. It is an ideal spot for photographers and visitors wanting to admire the monumental fortress.",
+                  "category": "natural",
+                  "coords": [
+                        -3.951879,
+                        56.121709
+                  ]
+            },
+            {
+                  "name": "Beheading Stone",
+                  "text": "The Beheading Stone in Stirling is a historical artifact that recalls the grim past of public executions. Located on Mote Hill, the stone is preserved within a protective metal cage.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.942651,
+                        56.127665
+                  ]
+            },
+            {
+                  "name": "John Cowane's House",
+                  "text": "John Cowane's House consists of the ruins of a former residence belonging to a wealthy Stirling merchant and benefactor. The remains hint at the architectural style and prosperity of the 17th century.",
+                  "category": "historical",
+                  "coords": [
+                        -3.942627,
+                        56.122077
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Episcopal Church",
+                  "text": "Holy Trinity Episcopal Church is an Anglican place of worship in Stirling noted for its Gothic Revival architecture and fine windows. It provides a peaceful setting for regular religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -3.942829,
+                        56.118377
                   ]
             }
       ]
@@ -52843,6 +59776,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.341381,
                         53.753264
                   ]
+            },
+            {
+                  "name": "Brynmor Jones Art Collection",
+                  "text": "Brynmor Jones Art Collection ist ein Kunstgalerie in Kingston Upon Hull. Die Anlage spiegelt das kulturelle Erbe und den architektonischen Stil der Region wider.",
+                  "category": "museum",
+                  "coords": [
+                        -0.36903,
+                        53.771041
+                  ]
+            },
+            {
+                  "name": "Donald Roy Theatre (Gulbenkian Centre)",
+                  "text": "Donald Roy Theatre (Gulbenkian Centre) ist ein Theater in Kingston Upon Hull. Die Anlage spiegelt das kulturelle Erbe und den architektonischen Stil der Region wider.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.367336,
+                        53.771922
+                  ]
+            },
+            {
+                  "name": "St. John, Newland",
+                  "text": "St. John, Newland ist ein Gotteshaus in Kingston Upon Hull. Die Anlage spiegelt das kulturelle Erbe und den architektonischen Stil der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        -0.352561,
+                        53.768878
+                  ]
+            },
+            {
+                  "name": "St Martin's",
+                  "text": "St Martin's ist ein Gotteshaus in Kingston Upon Hull. Die Anlage spiegelt das kulturelle Erbe und den architektonischen Stil der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        -0.392713,
+                        53.744468
+                  ]
+            },
+            {
+                  "name": "St Anthony's RC Church",
+                  "text": "St Anthony's RC Church ist ein Gotteshaus in Kingston Upon Hull. Die Anlage spiegelt das kulturelle Erbe und den architektonischen Stil der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        -0.357355,
+                        53.774405
+                  ]
             }
       ],
       "hu": [
@@ -53387,6 +60365,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.341381,
                         53.753264
+                  ]
+            },
+            {
+                  "name": "Brynmor Jones Art Collection",
+                  "text": "A(z) Brynmor Jones Art Collection egy művészeti galéria Kingston Upon Hull városában. A helyszín betekintést nyújt a környék kulturális örökségébe és építészeti stílusába.",
+                  "category": "museum",
+                  "coords": [
+                        -0.36903,
+                        53.771041
+                  ]
+            },
+            {
+                  "name": "Donald Roy Theatre (Gulbenkian Centre)",
+                  "text": "A(z) Donald Roy Theatre (Gulbenkian Centre) egy színház Kingston Upon Hull városában. A helyszín betekintést nyújt a környék kulturális örökségébe és építészeti stílusába.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.367336,
+                        53.771922
+                  ]
+            },
+            {
+                  "name": "St. John, Newland",
+                  "text": "A(z) St. John, Newland egy templom Kingston Upon Hull városában. A helyszín betekintést nyújt a környék kulturális örökségébe és építészeti stílusába.",
+                  "category": "religious",
+                  "coords": [
+                        -0.352561,
+                        53.768878
+                  ]
+            },
+            {
+                  "name": "St Martin's",
+                  "text": "A(z) St Martin's egy templom Kingston Upon Hull városában. A helyszín betekintést nyújt a környék kulturális örökségébe és építészeti stílusába.",
+                  "category": "religious",
+                  "coords": [
+                        -0.392713,
+                        53.744468
+                  ]
+            },
+            {
+                  "name": "St Anthony's RC Church",
+                  "text": "A(z) St Anthony's RC Church egy templom Kingston Upon Hull városában. A helyszín betekintést nyújt a környék kulturális örökségébe és építészeti stílusába.",
+                  "category": "religious",
+                  "coords": [
+                        -0.357355,
+                        53.774405
                   ]
             }
       ],
@@ -53933,6 +60956,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.341381,
                         53.753264
                   ]
+            },
+            {
+                  "name": "Brynmor Jones Art Collection",
+                  "text": "Brynmor Jones Art Collection este un galerie de artă situat în Kingston Upon Hull. Acest sit oferă o incursiune în moștenirea culturală și caracterul arhitectural al zonei.",
+                  "category": "museum",
+                  "coords": [
+                        -0.36903,
+                        53.771041
+                  ]
+            },
+            {
+                  "name": "Donald Roy Theatre (Gulbenkian Centre)",
+                  "text": "Donald Roy Theatre (Gulbenkian Centre) este un teatru situat în Kingston Upon Hull. Acest sit oferă o incursiune în moștenirea culturală și caracterul arhitectural al zonei.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.367336,
+                        53.771922
+                  ]
+            },
+            {
+                  "name": "St. John, Newland",
+                  "text": "St. John, Newland este un lăcaș de cult situat în Kingston Upon Hull. Acest sit oferă o incursiune în moștenirea culturală și caracterul arhitectural al zonei.",
+                  "category": "religious",
+                  "coords": [
+                        -0.352561,
+                        53.768878
+                  ]
+            },
+            {
+                  "name": "St Martin's",
+                  "text": "St Martin's este un lăcaș de cult situat în Kingston Upon Hull. Acest sit oferă o incursiune în moștenirea culturală și caracterul arhitectural al zonei.",
+                  "category": "religious",
+                  "coords": [
+                        -0.392713,
+                        53.744468
+                  ]
+            },
+            {
+                  "name": "St Anthony's RC Church",
+                  "text": "St Anthony's RC Church este un lăcaș de cult situat în Kingston Upon Hull. Acest sit oferă o incursiune în moștenirea culturală și caracterul arhitectural al zonei.",
+                  "category": "religious",
+                  "coords": [
+                        -0.357355,
+                        53.774405
+                  ]
             }
       ],
       "en": [
@@ -54477,6 +61545,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.341381,
                         53.753264
+                  ]
+            },
+            {
+                  "name": "Brynmor Jones Art Collection",
+                  "text": "Brynmor Jones Art Collection is a art gallery located in Kingston Upon Hull. This site offers a glimpse into the local heritage and architectural character of the area.",
+                  "category": "museum",
+                  "coords": [
+                        -0.36903,
+                        53.771041
+                  ]
+            },
+            {
+                  "name": "Donald Roy Theatre (Gulbenkian Centre)",
+                  "text": "Donald Roy Theatre (Gulbenkian Centre) is a theatre located in Kingston Upon Hull. This site offers a glimpse into the local heritage and architectural character of the area.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.367336,
+                        53.771922
+                  ]
+            },
+            {
+                  "name": "St. John, Newland",
+                  "text": "St. John, Newland is a place of worship located in Kingston Upon Hull. This site offers a glimpse into the local heritage and architectural character of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -0.352561,
+                        53.768878
+                  ]
+            },
+            {
+                  "name": "St Martin's",
+                  "text": "St Martin's is a place of worship located in Kingston Upon Hull. This site offers a glimpse into the local heritage and architectural character of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -0.392713,
+                        53.744468
+                  ]
+            },
+            {
+                  "name": "St Anthony's RC Church",
+                  "text": "St Anthony's RC Church is a place of worship located in Kingston Upon Hull. This site offers a glimpse into the local heritage and architectural character of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -0.357355,
+                        53.774405
                   ]
             }
       ]
@@ -56584,6 +63697,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.530363,
                         52.911369
                   ]
+            },
+            {
+                  "name": "All Saints' Church",
+                  "text": "All Saints' Church ist ein Gotteshaus in Derby. Die Anlage spiegelt das kulturelle Erbe und den architektonischen Stil der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        -1.449116,
+                        52.954286
+                  ]
+            },
+            {
+                  "name": "Mackworth All Saints Church",
+                  "text": "Mackworth All Saints Church ist ein Gotteshaus in Derby. Die Anlage spiegelt das kulturelle Erbe und den architektonischen Stil der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        -1.524995,
+                        52.936204
+                  ]
             }
       ],
       "hu": [
@@ -57276,6 +64407,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.530363,
                         52.911369
+                  ]
+            },
+            {
+                  "name": "All Saints' Church",
+                  "text": "A(z) All Saints' Church egy templom Derby városában. A helyszín betekintést nyújt a környék kulturális örökségébe és építészeti stílusába.",
+                  "category": "religious",
+                  "coords": [
+                        -1.449116,
+                        52.954286
+                  ]
+            },
+            {
+                  "name": "Mackworth All Saints Church",
+                  "text": "A(z) Mackworth All Saints Church egy templom Derby városában. A helyszín betekintést nyújt a környék kulturális örökségébe és építészeti stílusába.",
+                  "category": "religious",
+                  "coords": [
+                        -1.524995,
+                        52.936204
                   ]
             }
       ],
@@ -57970,6 +65119,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -1.530363,
                         52.911369
                   ]
+            },
+            {
+                  "name": "All Saints' Church",
+                  "text": "All Saints' Church este un lăcaș de cult situat în Derby. Acest sit oferă o incursiune în moștenirea culturală și caracterul arhitectural al zonei.",
+                  "category": "religious",
+                  "coords": [
+                        -1.449116,
+                        52.954286
+                  ]
+            },
+            {
+                  "name": "Mackworth All Saints Church",
+                  "text": "Mackworth All Saints Church este un lăcaș de cult situat în Derby. Acest sit oferă o incursiune în moștenirea culturală și caracterul arhitectural al zonei.",
+                  "category": "religious",
+                  "coords": [
+                        -1.524995,
+                        52.936204
+                  ]
             }
       ],
       "en": [
@@ -58662,6 +65829,24 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -1.530363,
                         52.911369
+                  ]
+            },
+            {
+                  "name": "All Saints' Church",
+                  "text": "All Saints' Church is a place of worship located in Derby. This site offers a glimpse into the local heritage and architectural character of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -1.449116,
+                        52.954286
+                  ]
+            },
+            {
+                  "name": "Mackworth All Saints Church",
+                  "text": "Mackworth All Saints Church is a place of worship located in Derby. This site offers a glimpse into the local heritage and architectural character of the area.",
+                  "category": "religious",
+                  "coords": [
+                        -1.524995,
+                        52.936204
                   ]
             }
       ]
@@ -76967,6 +84152,231 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         0.49766,
                         51.752018
                   ]
+            },
+            {
+                  "name": "Chelmsford Museum",
+                  "text": "Das Museum erzählt die Geschichte von Chelmsford von der Eiszeit bis zur Gegenwart. Es befindet sich im Oaklands House und bietet interaktive Galerien und Ausstellungen zur Stadtgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        0.463359,
+                        51.722784
+                  ]
+            },
+            {
+                  "name": "Marconi New Street Factory",
+                  "text": "Dieser Standort war die weltweit erste zweckgebundene Funkfabrik, die von Guglielmo Marconi eröffnet wurde. Sie spielte eine entscheidende Rolle bei der Entwicklung der frühen drahtlosen Kommunikationstechnologie.",
+                  "category": "landmark",
+                  "coords": [
+                        0.473677,
+                        51.738787
+                  ]
+            },
+            {
+                  "name": "Chelmer Valley Riverside LNR",
+                  "text": "Dieses lokale Naturschutzgebiet bietet einen malerischen Grünzug entlang des Flusses Chelmer. Es bietet Lebensräume für verschiedene Wildtiere und ist ein beliebter ort für Naturspaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        0.477952,
+                        51.744501
+                  ]
+            },
+            {
+                  "name": "Essex Police Museum",
+                  "text": "Das Essex Police Museum in Chelmsford bietet faszinierende Einblicke in die lokale Geschichte und Kultur. Besucher können verschiedene Ausstellungen erkunden und mehr über das Erbe der Region erfahren.",
+                  "category": "museum",
+                  "coords": [
+                        0.48997,
+                        51.737864
+                  ]
+            },
+            {
+                  "name": "Peter Edwards Library & Museum",
+                  "text": "Das Peter Edwards Library & Museum in Chelmsford bietet faszinierende Einblicke in die lokale Geschichte und Kultur. Besucher können verschiedene Ausstellungen erkunden und mehr über das Erbe der Region erfahren.",
+                  "category": "museum",
+                  "coords": [
+                        0.467471,
+                        51.731973
+                  ]
+            },
+            {
+                  "name": "Ebenezer Strict Baptist Chapel",
+                  "text": "Das Ebenezer Strict Baptist Chapel ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.471243,
+                        51.731275
+                  ]
+            },
+            {
+                  "name": "Holy Trinity, Springfield",
+                  "text": "Das Holy Trinity, Springfield ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.48311,
+                        51.735518
+                  ]
+            },
+            {
+                  "name": "All Saint's Church",
+                  "text": "Das All Saint's Church ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.427614,
+                        51.728917
+                  ]
+            },
+            {
+                  "name": "Meadgate Church",
+                  "text": "Das Meadgate Church ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.489797,
+                        51.723516
+                  ]
+            },
+            {
+                  "name": "St Marys, Widford",
+                  "text": "Das St Marys, Widford ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.451142,
+                        51.718735
+                  ]
+            },
+            {
+                  "name": "All Saints' Church Springfield",
+                  "text": "Das All Saints' Church Springfield ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.489319,
+                        51.744266
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist, Moulsham",
+                  "text": "Das St John the Evangelist, Moulsham ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.469303,
+                        51.727351
+                  ]
+            },
+            {
+                  "name": "St Luke's Church, Moulsham Lodge",
+                  "text": "Das St Luke's Church, Moulsham Lodge ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.474551,
+                        51.71656
+                  ]
+            },
+            {
+                  "name": "St Augustine of Canterbury North Springfield",
+                  "text": "Das St Augustine of Canterbury North Springfield ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.498916,
+                        51.751395
+                  ]
+            },
+            {
+                  "name": "Church of Our Saviour, East Springfield",
+                  "text": "Das Church of Our Saviour, East Springfield ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.504655,
+                        51.735606
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit, Widford",
+                  "text": "Das Church of the Holy Spirit, Widford ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.450784,
+                        51.730629
+                  ]
+            },
+            {
+                  "name": "St Paul",
+                  "text": "Das St Paul ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.486693,
+                        51.718985
+                  ]
+            },
+            {
+                  "name": "Our Lady Immaculate",
+                  "text": "Das Our Lady Immaculate ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.467552,
+                        51.729129
+                  ]
+            },
+            {
+                  "name": "The Church of the Ascension with All Saints",
+                  "text": "Das Church of the Ascension with All Saints ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.461604,
+                        51.741748
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's, Chelmsford",
+                  "text": "Das Saint Andrew's, Chelmsford ist ein friedlicher Ort der Andacht in Chelmsford. Es dient als geistliches Wahrzeichen für die örtliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        0.443195,
+                        51.74769
+                  ]
+            },
+            {
+                  "name": "Shire Hall",
+                  "text": "Das Shire Hall ist eine bemerkenswerte lokale Attraktion, die Besucher nach Chelmsford lockt. Es bietet einzigartige Erlebnisse und trägt zur kulturellen Attraktivität der Gegend bei.",
+                  "category": "landmark",
+                  "coords": [
+                        0.472973,
+                        51.734693
+                  ]
+            },
+            {
+                  "name": "Footbridge over River Can",
+                  "text": "Die Footbridge over River Can ist eine historische Brücke in Chelmsford, die verschiedene Teile der Gegend verbindet. Sie ist ein wichtiges bauliches Wahrzeichen mit eigener lokaler Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        0.463809,
+                        51.731821
+                  ]
+            },
+            {
+                  "name": "Anti-tank Cones",
+                  "text": "Anti-tank Cones ist eine archäologische Stätte in Chelmsford, die Spuren der Vergangenheit offenbart. Der Ort bietet einen Einblick in die antike Geschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        0.46675,
+                        51.746274
+                  ]
+            },
+            {
+                  "name": "Spigot Mortar Emplacement",
+                  "text": "Spigot Mortar Emplacement ist eine archäologische Stätte in Chelmsford, die Spuren der Vergangenheit offenbart. Der Ort bietet einen Einblick in die antike Geschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        0.481191,
+                        51.727885
+                  ]
+            },
+            {
+                  "name": "Springfield Hall Outbuildings",
+                  "text": "Diese historischen Ruinen in Chelmsford bieten einen Einblick in die landwirtschaftliche Vergangenheit des Anwesens Springfield Hall. Besucher können die Überreste der alten Nebengebäude in einer friedlichen Umgebung erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        0.478645,
+                        51.751746
+                  ]
             }
       ],
       "hu": [
@@ -77193,6 +84603,231 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         0.49766,
                         51.752018
+                  ]
+            },
+            {
+                  "name": "Chelmsford Museum",
+                  "text": "A múzeum Chelmsford történetét meséli el a jégkorszaktól napjainkig. Az Oaklands House-ban található, interaktív galériákkal és helytörténeti kiállításokkal várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        0.463359,
+                        51.722784
+                  ]
+            },
+            {
+                  "name": "Marconi New Street Factory",
+                  "text": "Ez a helyszín volt a világ első célirányosan épített rádiógyára, amelyet Guglielmo Marconi nyitott meg. Döntő szerepet játszott a korai vezeték nélküli kommunikációs technológia fejlesztésében.",
+                  "category": "landmark",
+                  "coords": [
+                        0.473677,
+                        51.738787
+                  ]
+            },
+            {
+                  "name": "Chelmer Valley Riverside LNR",
+                  "text": "Ez a helyi természetvédelmi terület festői zöld folyosót kínál a Chelmer-folyó mentén. Különféle vadon élő állatoknak ad élőhelyet, és népszerű hely a természetjárók körében.",
+                  "category": "natural",
+                  "coords": [
+                        0.477952,
+                        51.744501
+                  ]
+            },
+            {
+                  "name": "Essex Police Museum",
+                  "text": "A Essex Police Museum Chelmsford városában lenyűgöző betekintést nyújt a helyi történelembe és kultúrába. A látogatók különféle kiállításokat fedezhetnek fel, és megismerhetik a régió örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        0.48997,
+                        51.737864
+                  ]
+            },
+            {
+                  "name": "Peter Edwards Library & Museum",
+                  "text": "A Peter Edwards Library & Museum Chelmsford városában lenyűgöző betekintést nyújt a helyi történelembe és kultúrába. A látogatók különféle kiállításokat fedezhetnek fel, és megismerhetik a régió örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        0.467471,
+                        51.731973
+                  ]
+            },
+            {
+                  "name": "Ebenezer Strict Baptist Chapel",
+                  "text": "A Ebenezer Strict Baptist Chapel egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.471243,
+                        51.731275
+                  ]
+            },
+            {
+                  "name": "Holy Trinity, Springfield",
+                  "text": "A Holy Trinity, Springfield egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.48311,
+                        51.735518
+                  ]
+            },
+            {
+                  "name": "All Saint's Church",
+                  "text": "A All Saint's Church egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.427614,
+                        51.728917
+                  ]
+            },
+            {
+                  "name": "Meadgate Church",
+                  "text": "A Meadgate Church egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.489797,
+                        51.723516
+                  ]
+            },
+            {
+                  "name": "St Marys, Widford",
+                  "text": "A St Marys, Widford egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.451142,
+                        51.718735
+                  ]
+            },
+            {
+                  "name": "All Saints' Church Springfield",
+                  "text": "A All Saints' Church Springfield egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.489319,
+                        51.744266
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist, Moulsham",
+                  "text": "A St John the Evangelist, Moulsham egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.469303,
+                        51.727351
+                  ]
+            },
+            {
+                  "name": "St Luke's Church, Moulsham Lodge",
+                  "text": "A St Luke's Church, Moulsham Lodge egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.474551,
+                        51.71656
+                  ]
+            },
+            {
+                  "name": "St Augustine of Canterbury North Springfield",
+                  "text": "A St Augustine of Canterbury North Springfield egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.498916,
+                        51.751395
+                  ]
+            },
+            {
+                  "name": "Church of Our Saviour, East Springfield",
+                  "text": "A Church of Our Saviour, East Springfield egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.504655,
+                        51.735606
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit, Widford",
+                  "text": "A Church of the Holy Spirit, Widford egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.450784,
+                        51.730629
+                  ]
+            },
+            {
+                  "name": "St Paul",
+                  "text": "A St Paul egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.486693,
+                        51.718985
+                  ]
+            },
+            {
+                  "name": "Our Lady Immaculate",
+                  "text": "A Our Lady Immaculate egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.467552,
+                        51.729129
+                  ]
+            },
+            {
+                  "name": "The Church of the Ascension with All Saints",
+                  "text": "A Church of the Ascension with All Saints egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.461604,
+                        51.741748
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's, Chelmsford",
+                  "text": "A Saint Andrew's, Chelmsford egy békés istentiszteleti hely Chelmsford városában. A helyi közösség fontos spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.443195,
+                        51.74769
+                  ]
+            },
+            {
+                  "name": "Shire Hall",
+                  "text": "A Shire Hall egy nevezetes helyi látványosság, amely vonzza a látogatókat Chelmsford városába. Egyedülálló élményeket kínál, és hozzájárul a környék kulturális vonzerejéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        0.472973,
+                        51.734693
+                  ]
+            },
+            {
+                  "name": "Footbridge over River Can",
+                  "text": "A Footbridge over River Can egy történelmi híd Chelmsford területén, amely összeköti a környék különböző részeit. Fontos szerkezeti nevezetesség, amely saját helyi jelentőséggel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        0.463809,
+                        51.731821
+                  ]
+            },
+            {
+                  "name": "Anti-tank Cones",
+                  "text": "A Anti-tank Cones egy régészeti lelőhely Chelmsford területén, amely a múlt nyomait tárja fel. A helyszín betekintést nyújt a régió ősi történelvébe.",
+                  "category": "historical",
+                  "coords": [
+                        0.46675,
+                        51.746274
+                  ]
+            },
+            {
+                  "name": "Spigot Mortar Emplacement",
+                  "text": "A Spigot Mortar Emplacement egy régészeti lelőhely Chelmsford területén, amely a múlt nyomait tárja fel. A helyszín betekintést nyújt a régió ősi történelvébe.",
+                  "category": "historical",
+                  "coords": [
+                        0.481191,
+                        51.727885
+                  ]
+            },
+            {
+                  "name": "Springfield Hall Outbuildings",
+                  "text": "Ezek a chelmsfordi történelmi romok betekintést nyújtanak a Springfield Hall birtok mezőgazdasági múltjába. A látogatók nyugodt környezetben fedezhetik fel a régi melléképületek maradványait.",
+                  "category": "historical",
+                  "coords": [
+                        0.478645,
+                        51.751746
                   ]
             }
       ],
@@ -77421,6 +85056,231 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         0.49766,
                         51.752018
                   ]
+            },
+            {
+                  "name": "Chelmsford Museum",
+                  "text": "Muzeul spune povestea orașului Chelmsford de la Epoca de Gheață până în prezent. Este situat în Oaklands House și oferă galerii interactive și exponate de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        0.463359,
+                        51.722784
+                  ]
+            },
+            {
+                  "name": "Marconi New Street Factory",
+                  "text": "Acest sit a fost prima fabrică de radio din lume construită special în acest scop, deschisă de Guglielmo Marconi. A jucat un rol crucial în dezvoltarea tehnologiei timpurii de comunicare fără fir.",
+                  "category": "landmark",
+                  "coords": [
+                        0.473677,
+                        51.738787
+                  ]
+            },
+            {
+                  "name": "Chelmer Valley Riverside LNR",
+                  "text": "Această rezervație naturală locală oferă un coridor pitoresc de spațiu verde de-a lungul râului Chelmer. Oferă habitate pentru diverse animale sălbatice și este un loc popular pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        0.477952,
+                        51.744501
+                  ]
+            },
+            {
+                  "name": "Essex Police Museum",
+                  "text": "Muzeul Essex Police Museum din Chelmsford oferă perspective fascinante asupra istoriei și culturii locale. Vizitatorii pot explora diverse exponate și pot afla despre moștenirea regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        0.48997,
+                        51.737864
+                  ]
+            },
+            {
+                  "name": "Peter Edwards Library & Museum",
+                  "text": "Muzeul Peter Edwards Library & Museum din Chelmsford oferă perspective fascinante asupra istoriei și culturii locale. Vizitatorii pot explora diverse exponate și pot afla despre moștenirea regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        0.467471,
+                        51.731973
+                  ]
+            },
+            {
+                  "name": "Ebenezer Strict Baptist Chapel",
+                  "text": "Ebenezer Strict Baptist Chapel este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.471243,
+                        51.731275
+                  ]
+            },
+            {
+                  "name": "Holy Trinity, Springfield",
+                  "text": "Holy Trinity, Springfield este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.48311,
+                        51.735518
+                  ]
+            },
+            {
+                  "name": "All Saint's Church",
+                  "text": "All Saint's Church este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.427614,
+                        51.728917
+                  ]
+            },
+            {
+                  "name": "Meadgate Church",
+                  "text": "Meadgate Church este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.489797,
+                        51.723516
+                  ]
+            },
+            {
+                  "name": "St Marys, Widford",
+                  "text": "St Marys, Widford este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.451142,
+                        51.718735
+                  ]
+            },
+            {
+                  "name": "All Saints' Church Springfield",
+                  "text": "All Saints' Church Springfield este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.489319,
+                        51.744266
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist, Moulsham",
+                  "text": "St John the Evangelist, Moulsham este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.469303,
+                        51.727351
+                  ]
+            },
+            {
+                  "name": "St Luke's Church, Moulsham Lodge",
+                  "text": "St Luke's Church, Moulsham Lodge este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.474551,
+                        51.71656
+                  ]
+            },
+            {
+                  "name": "St Augustine of Canterbury North Springfield",
+                  "text": "St Augustine of Canterbury North Springfield este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.498916,
+                        51.751395
+                  ]
+            },
+            {
+                  "name": "Church of Our Saviour, East Springfield",
+                  "text": "Church of Our Saviour, East Springfield este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.504655,
+                        51.735606
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit, Widford",
+                  "text": "Church of the Holy Spirit, Widford este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.450784,
+                        51.730629
+                  ]
+            },
+            {
+                  "name": "St Paul",
+                  "text": "St Paul este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.486693,
+                        51.718985
+                  ]
+            },
+            {
+                  "name": "Our Lady Immaculate",
+                  "text": "Our Lady Immaculate este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.467552,
+                        51.729129
+                  ]
+            },
+            {
+                  "name": "The Church of the Ascension with All Saints",
+                  "text": "The Church of the Ascension with All Saints este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.461604,
+                        51.741748
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's, Chelmsford",
+                  "text": "Saint Andrew's, Chelmsford este un lăcaș de cult liniștit situat în Chelmsford. Acesta servește ca punct de reper spiritual pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        0.443195,
+                        51.74769
+                  ]
+            },
+            {
+                  "name": "Shire Hall",
+                  "text": "Shire Hall este o atracție locală notabilă care atrage vizitatori în Chelmsford. Oferă experiențe unice și contribuie al apelul cultural al zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        0.472973,
+                        51.734693
+                  ]
+            },
+            {
+                  "name": "Footbridge over River Can",
+                  "text": "Footbridge over River Can este un pod istoric din Chelmsford care conectează diferite părți ale zonei. Este un punct de reper structural important, cu propria sa semnificație locală.",
+                  "category": "landmark",
+                  "coords": [
+                        0.463809,
+                        51.731821
+                  ]
+            },
+            {
+                  "name": "Anti-tank Cones",
+                  "text": "Anti-tank Cones este un sit arheologic din Chelmsford care dezvăluie urme ale trecutului. Locația oferă o privire asupra istoriei antice a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        0.46675,
+                        51.746274
+                  ]
+            },
+            {
+                  "name": "Spigot Mortar Emplacement",
+                  "text": "Spigot Mortar Emplacement este un sit arheologic din Chelmsford care dezvăluie urme ale trecutului. Locația oferă o privire asupra istoriei antice a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        0.481191,
+                        51.727885
+                  ]
+            },
+            {
+                  "name": "Springfield Hall Outbuildings",
+                  "text": "Aceste ruine istorice din Chelmsford oferă o privire în trecutul agricol al domeniului Springfield Hall. Vizitatorii pot explora rămășițele vechilor anexe într-un cadru liniștit.",
+                  "category": "historical",
+                  "coords": [
+                        0.478645,
+                        51.751746
+                  ]
             }
       ],
       "en": [
@@ -77647,6 +85507,231 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         0.49766,
                         51.752018
+                  ]
+            },
+            {
+                  "name": "Chelmsford Museum",
+                  "text": "The museum tells the story of Chelmsford from the Ice Age to the present day. It is located in Oaklands House and features interactive galleries and local history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        0.463359,
+                        51.722784
+                  ]
+            },
+            {
+                  "name": "Marconi New Street Factory",
+                  "text": "This site was the world's first purpose-built radio factory, opened by Guglielmo Marconi. It played a crucial role in the development of early wireless communication technology.",
+                  "category": "landmark",
+                  "coords": [
+                        0.473677,
+                        51.738787
+                  ]
+            },
+            {
+                  "name": "Chelmer Valley Riverside LNR",
+                  "text": "This local nature reserve offers a scenic corridor of green space along the River Chelmer. It provides habitats for various wildlife and is a popular spot for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        0.477952,
+                        51.744501
+                  ]
+            },
+            {
+                  "name": "Essex Police Museum",
+                  "text": "The Essex Police Museum in Chelmsford offers fascinating insights into local history and culture. Visitors can explore various exhibits and learn about the region's heritage.",
+                  "category": "museum",
+                  "coords": [
+                        0.48997,
+                        51.737864
+                  ]
+            },
+            {
+                  "name": "Peter Edwards Library & Museum",
+                  "text": "The Peter Edwards Library & Museum in Chelmsford offers fascinating insights into local history and culture. Visitors can explore various exhibits and learn about the region's heritage.",
+                  "category": "museum",
+                  "coords": [
+                        0.467471,
+                        51.731973
+                  ]
+            },
+            {
+                  "name": "Ebenezer Strict Baptist Chapel",
+                  "text": "The Ebenezer Strict Baptist Chapel is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.471243,
+                        51.731275
+                  ]
+            },
+            {
+                  "name": "Holy Trinity, Springfield",
+                  "text": "The Holy Trinity, Springfield is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.48311,
+                        51.735518
+                  ]
+            },
+            {
+                  "name": "All Saint's Church",
+                  "text": "The All Saint's Church is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.427614,
+                        51.728917
+                  ]
+            },
+            {
+                  "name": "Meadgate Church",
+                  "text": "The Meadgate Church is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.489797,
+                        51.723516
+                  ]
+            },
+            {
+                  "name": "St Marys, Widford",
+                  "text": "The St Marys, Widford is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.451142,
+                        51.718735
+                  ]
+            },
+            {
+                  "name": "All Saints' Church Springfield",
+                  "text": "The All Saints' Church Springfield is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.489319,
+                        51.744266
+                  ]
+            },
+            {
+                  "name": "St John the Evangelist, Moulsham",
+                  "text": "The St John the Evangelist, Moulsham is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.469303,
+                        51.727351
+                  ]
+            },
+            {
+                  "name": "St Luke's Church, Moulsham Lodge",
+                  "text": "The St Luke's Church, Moulsham Lodge is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.474551,
+                        51.71656
+                  ]
+            },
+            {
+                  "name": "St Augustine of Canterbury North Springfield",
+                  "text": "The St Augustine of Canterbury North Springfield is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.498916,
+                        51.751395
+                  ]
+            },
+            {
+                  "name": "Church of Our Saviour, East Springfield",
+                  "text": "The Church of Our Saviour, East Springfield is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.504655,
+                        51.735606
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit, Widford",
+                  "text": "The Church of the Holy Spirit, Widford is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.450784,
+                        51.730629
+                  ]
+            },
+            {
+                  "name": "St Paul",
+                  "text": "The St Paul is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.486693,
+                        51.718985
+                  ]
+            },
+            {
+                  "name": "Our Lady Immaculate",
+                  "text": "The Our Lady Immaculate is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.467552,
+                        51.729129
+                  ]
+            },
+            {
+                  "name": "The Church of the Ascension with All Saints",
+                  "text": "The Church of the Ascension with All Saints is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.461604,
+                        51.741748
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's, Chelmsford",
+                  "text": "The Saint Andrew's, Chelmsford is a peaceful place of worship located in Chelmsford. It serves as a spiritual landmark for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        0.443195,
+                        51.74769
+                  ]
+            },
+            {
+                  "name": "Shire Hall",
+                  "text": "The Shire Hall is a notable local attraction that draws visitors to Chelmsford. It offers unique experiences and contributes to the area's cultural appeal.",
+                  "category": "landmark",
+                  "coords": [
+                        0.472973,
+                        51.734693
+                  ]
+            },
+            {
+                  "name": "Footbridge over River Can",
+                  "text": "The Footbridge over River Can is a historic bridge in Chelmsford connecting different parts of the area. It is an important structural landmark with its own local significance.",
+                  "category": "landmark",
+                  "coords": [
+                        0.463809,
+                        51.731821
+                  ]
+            },
+            {
+                  "name": "Anti-tank Cones",
+                  "text": "Anti-tank Cones is an archaeological site in Chelmsford that reveals traces of the past. The location provides a glimpse into the ancient history of the region.",
+                  "category": "historical",
+                  "coords": [
+                        0.46675,
+                        51.746274
+                  ]
+            },
+            {
+                  "name": "Spigot Mortar Emplacement",
+                  "text": "Spigot Mortar Emplacement is an archaeological site in Chelmsford that reveals traces of the past. The location provides a glimpse into the ancient history of the region.",
+                  "category": "historical",
+                  "coords": [
+                        0.481191,
+                        51.727885
+                  ]
+            },
+            {
+                  "name": "Springfield Hall Outbuildings",
+                  "text": "These historic ruins in Chelmsford offer a glimpse into the agricultural past of the Springfield Hall estate. Visitors can explore the remains of the old outbuildings located in a peaceful setting.",
+                  "category": "historical",
+                  "coords": [
+                        0.478645,
+                        51.751746
                   ]
             }
       ]

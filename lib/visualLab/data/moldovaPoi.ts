@@ -626,7 +626,988 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-030-tiraspol-city", "sights": {"de": [{"name": "Muzei shtaba kavaleriiskoi brigady G.I. Kotovskogo", "text": "Ein Museum, das dem Hauptquartier der Kavalleriebrigade von Grigori Kotowski gewidmet ist.", "category": "museum", "coords": [29.622457, 46.836368]}, {"name": "Pridnestrowisches Staatliches Dramen- und Komödientheater", "text": "Das staatliche Haupttheater für Dramen- und Komödienaufführungen in Tiraspol.", "category": "cultural", "coords": [29.633617, 46.83709]}, {"name": "Museum der Heimatgeschichte", "text": "Ein Museum, das die Regionalgeschichte und das kulturelle Erbe der Region zeigt.", "category": "museum", "coords": [29.606819, 46.835569]}, {"name": "Muzei arkheologii Podnestrovya", "text": "Ein Museum mit archäologischen Funden aus der Region am Fluss Dnjestr.", "category": "museum", "coords": [29.632463, 46.837876]}, {"name": "Muzei poteryannykh noskov", "text": "Ein originelles lokales Museum mit einem einzigartigen und humorvollen Thema.", "category": "museum", "coords": [29.610506, 46.846808]}, {"name": "Palast der Republik", "text": "Ein wichtiger kultureller und zeremonieller Ort für Aufführungen und staatliche Veranstaltungen.", "category": "cultural", "coords": [29.620553, 46.835673]}, {"name": "Ostrov udovolstvii", "text": "Ein örtlicher Wasserpark mit Pools und Freizeitaktivitäten.", "category": "family", "coords": [29.604008, 46.834263]}, {"name": "Gorodskoi plyazh", "text": "Der öffentliche Hauptstrand am Fluss Dnjestr.", "category": "recreational", "coords": [29.610545, 46.833376]}, {"name": "Dzhungli Park", "text": "Ein örtlicher Themenpark mit Fahrgeschäften und Attraktionen für Familien.", "category": "family", "coords": [29.638225, 46.837148]}, {"name": "Vystavochnaya auditoriya", "text": "Ein spezieller Raum für verschiedene Kunst- und Kulturausstellungen.", "category": "museum", "coords": [29.612314, 46.836629]}, {"name": "Chudo-grad", "text": "Ein bunter Themenpark, der für Kinder und Familien konzipiert wurde.", "category": "family", "coords": [29.609699, 46.83715]}, {"name": "Ehrendenkmal", "text": "Ein feierlicher Denkmal猞komplex, der der Militärgeschichte und gefallenen Soldaten gewidmet ist.", "category": "historical", "coords": [29.60828, 46.835478]}, {"name": "Tiraspolskaya krepost", "text": "Die Überreste einer Befestigungsanlage aus dem 18. Jahrhundert, die für die Stadtgeschichte von Bedeutung ist.", "category": "historical", "coords": [29.592539, 46.834441]}, {"name": "Privokzalnaya ploshchad", "text": "Eine zentrale Parkanlage in der Nähe des Hauptbahnhofs der Stadt.", "category": "park", "coords": [29.62931, 46.846868]}, {"name": "Pamyatnik Aviatoram", "text": "Ein Denkmal, das der Geschichte und den Errungenschaften der Luftfahrt gewidmet ist.", "category": "historical", "coords": [29.65704, 46.839596]}, {"name": "Pamyatnik kolkhoznikam", "text": "Ein historisches Denkmal zu Ehren der Arbeiter der Kollektivwirtschaften.", "category": "historical", "coords": [29.653267, 46.827743]}, {"name": "Pamyatnik Leninu", "text": "Ein markantes Wahrzeichen mit einer Statue von Wladimir Lenin.", "category": "landmark", "coords": [29.657762, 46.82206]}, {"name": "Schwanenteich", "text": "Ein malerischer Ort mit einem Teich, in dem oft Schwäne leben.", "category": "natural", "coords": [29.6136, 46.837833]}, {"name": "DOT № 1152 TiUR", "text": "Die historischen Ruinen einer ehemaligen militärischen Befestigung oder eines Bunkers.", "category": "historical", "coords": [29.643304, 46.817647]}, {"name": "Mini-Eifeleva bashnya", "text": "Eine maßstabsgetreue Nachbildung des berühmten Pariser Wahrzeichens.", "category": "landmark", "coords": [29.616885, 46.838831]}, {"name": "Pokrovskaya tserkov", "text": "Ein modernes orthodoxes Kirchengebäude, das der örtlichen Gemeinde dient.", "category": "religious", "coords": [29.654518, 46.831]}, {"name": "Christi-Geburt-Kathedrale", "text": "Eine bedeutende orthodoxe Kathedrale, die für ihre religiöse Bedeutung bekannt ist.", "category": "religious", "coords": [29.614296, 46.839015]}, {"name": "Staroobryadcheskaya tserkov Pokrova Presvyatyya Bogoroditsy", "text": "Ein Gotteshaus für die örtliche Gemeinschaft der Altgläubigen.", "category": "religious", "coords": [29.616911, 46.837231]}, {"name": "Nasosnaya stantsiya №9", "text": "Ein Gewässer in Tiraspol in einer ruhigen Gegend.", "category": "natural", "coords": [29.608784, 46.905146]}, {"name": "ozero Vai-Vodyna", "text": "Ein See in Tiraspol, der zum Entspannen einlädt.", "category": "natural", "coords": [29.643395, 46.788828]}, {"name": "Pustoi", "text": "Ein kleiner See in Tiraspol für Naturfreunde.", "category": "natural", "coords": [29.61293, 46.810419]}], "hu": [{"name": "Muzei shtaba kavaleriiskoi brigady G.I. Kotovskogo", "text": "Grigorij Kotovszkij lovasdandár-parancsnokságának szentelt múzeum.", "category": "museum", "coords": [29.622457, 46.836368]}, {"name": "Pridnestrovskii gosudarstvennyi teatr dramy i komedii im. N. S. Aronetskoi", "text": "Tiraszpol fő állami drámai és vígjátékszínháza.", "category": "cultural", "coords": [29.633617, 46.83709]}, {"name": "Istoriko-kraevedcheskii muzei", "text": "A terület regionális történelmét és kulturális örökségét bemutató múzeum.", "category": "museum", "coords": [29.606819, 46.835569]}, {"name": "Muzei arkheologii Podnestrovya", "text": "A Dnyeszter menti régió régészeti leleteit bemutató múzeum.", "category": "museum", "coords": [29.632463, 46.837876]}, {"name": "Muzei poteryannykh noskov", "text": "Különleges helyi múzeum egyedi és humoros témával.", "category": "museum", "coords": [29.610506, 46.846808]}, {"name": "Dvorets Respubliki", "text": "Jelentős kulturális és ünnepi helyszín előadások és állami rendezvények számára.", "category": "cultural", "coords": [29.620553, 46.835673]}, {"name": "Ostrov udovolstvii", "text": "Helyi vízipark medencékkel és szabadidős tevékenységekkel.", "category": "family", "coords": [29.604008, 46.834263]}, {"name": "Gorodskoi plyazh", "text": "A fő nyilvános strand a Dnyeszter folyó mentén.", "category": "recreational", "coords": [29.610545, 46.833376]}, {"name": "Dzhungli Park", "text": "Helyi vidámpark játékokkal és látnivalókkal családok számára.", "category": "family", "coords": [29.638225, 46.837148]}, {"name": "Vystavochnaya auditoriya", "text": "Különféle művészeti és kulturális kiállításoknak szentelt tér.", "category": "museum", "coords": [29.612314, 46.836629]}, {"name": "Chudo-grad", "text": "Színes vidámpark gyerekeknek és családoknak.", "category": "family", "coords": [29.609699, 46.83715]}, {"name": "Memorial Slavy", "text": "Katonai történelemnek és az elesett katonáknak szentelt ünnepélyes emlékhely.", "category": "historical", "coords": [29.60828, 46.835478]}, {"name": "Tiraspolskaya krepost", "text": "Egy 18. századi erődítmény maradványai, amely jelentős a város történelme szempontjából.", "category": "historical", "coords": [29.592539, 46.834441]}, {"name": "Privokzalnaya ploshchad", "text": "Központi park a város főpályaudvarának közelében.", "category": "park", "coords": [29.62931, 46.846868]}, {"name": "Pamyatnik Aviatoram", "text": "A repülés történetének és vívmányainak szentelt emlékmű.", "category": "historical", "coords": [29.65704, 46.839596]}, {"name": "Pamyatnik kolkhoznikam", "text": "Történelmi emlékmű a kollektív gazdaságok dolgozóinak tiszteletére.", "category": "historical", "coords": [29.653267, 46.827743]}, {"name": "Pamyatnik Leninu", "text": "Kiemelkedő nevezetesség Vlagyimir Lenin szobrával.", "category": "landmark", "coords": [29.657762, 46.82206]}, {"name": "Prud s lebedyami", "text": "Festői hely egy tóval, amelyben gyakran hattyúk élnek.", "category": "natural", "coords": [29.6136, 46.837833]}, {"name": "DOT № 1152 TiUR", "text": "Egy korábbi katonai erődítmény vagy bunker történelmi romjai.", "category": "historical", "coords": [29.643304, 46.817647]}, {"name": "Mini-Eifeleva bashnya", "text": "A híres párizsi nevezetesség kisméretű másolata.", "category": "landmark", "coords": [29.616885, 46.838831]}, {"name": "Pokrovskaya tserkov", "text": "Modern ortodox templomépület, amely a helyi plébániát szolgálja.", "category": "religious", "coords": [29.654518, 46.831]}, {"name": "Sobor Rozhdestva Khristova", "text": "Kiemelkedő ortodox székesegyház, amely vallási jelentőségéről ismert.", "category": "religious", "coords": [29.614296, 46.839015]}, {"name": "Staroobryadcheskaya tserkov Pokrova Presvyatyya Bogoroditsy", "text": "A helyi óhitű közösség temploma.", "category": "religious", "coords": [29.616911, 46.837231]}, {"name": "Nasosnaya stantsiya №9", "text": "Vízfelület Tiraspolban, csendes környéken.", "category": "natural", "coords": [29.608784, 46.905146]}, {"name": "ozero Vai-Vodyna", "text": "Tó Tiraspolban, amely pihenésre hívogat.", "category": "natural", "coords": [29.643395, 46.788828]}, {"name": "Pustoi", "text": "Kisméretű tó Tiraspolban a természet kedvelőinek.", "category": "natural", "coords": [29.61293, 46.810419]}], "ro": [{"name": "Muzei shtaba kavaleriiskoi brigady G.I. Kotovskogo", "text": "Un muzeu dedicat cartierului general al brigadei de cavalerie a lui Grigori Kotovski.", "category": "museum", "coords": [29.622457, 46.836368]}, {"name": "Teatrul de Stat de dramă şi comedie „N.S. Aroneţkaia”", "text": "Principalul teatru de stat pentru spectacole de dramă și comedie din Tiraspol.", "category": "cultural", "coords": [29.633617, 46.83709]}, {"name": "Muzeul de istorie locală", "text": "Un muzeu care prezintă istoria regională și moștenirea culturală a zonei.", "category": "museum", "coords": [29.606819, 46.835569]}, {"name": "Muzei arkheologii Podnestrovya", "text": "Un muzeu cu descoperiri arheologice din regiunea fluviului Nistru.", "category": "museum", "coords": [29.632463, 46.837876]}, {"name": "Muzei poteryannykh noskov", "text": "Un muzeu local inedit, cu o tematică unică și plină de umor.", "category": "museum", "coords": [29.610506, 46.846808]}, {"name": "Palatul republicii", "text": "Un loc cultural și ceremonial major pentru spectacole și evenimente de stat.", "category": "cultural", "coords": [29.620553, 46.835673]}, {"name": "Ostrov udovolstvii", "text": "Un parc acvatic local care oferă piscine și activități recreative.", "category": "family", "coords": [29.604008, 46.834263]}, {"name": "Plaja orașului", "text": "Principala zonă de plajă publică situată de-a lungul fluviului Nistru.", "category": "recreational", "coords": [29.610545, 46.833376]}, {"name": "Dzhungli Park", "text": "Un parc tematic local cu atracții pentru familii.", "category": "family", "coords": [29.638225, 46.837148]}, {"name": "Vystavochnaya auditoriya", "text": "Un spațiu dedicat diverselor expoziții de artă și cultură.", "category": "museum", "coords": [29.612314, 46.836629]}, {"name": "Chudo-grad", "text": "Un parc tematic colorat, conceput pentru copii și familii.", "category": "family", "coords": [29.609699, 46.83715]}, {"name": "Memorialul Gloriei", "text": "Un complex monumental solemn dedicat istoriei militare și soldaților căzuți.", "category": "historical", "coords": [29.60828, 46.835478]}, {"name": "Cetatea din Tiraspol", "text": "Rămășițele unei fortificații din secolul al XVIII-lea, semnificativă pentru istoria orașului.", "category": "historical", "coords": [29.592539, 46.834441]}, {"name": "Piaţa Gării", "text": "O zonă de parc central situată lângă gara principală a orașului.", "category": "park", "coords": [29.62931, 46.846868]}, {"name": "Monumentul Aviatorilor", "text": "Un monument dedicat istoriei și realizărilor aviației.", "category": "historical", "coords": [29.65704, 46.839596]}, {"name": "Pamyatnik sovetskim kolkhoznikam", "text": "Un monument istoric care onorează lucrătorii din fermele colective.", "category": "historical", "coords": [29.653267, 46.827743]}, {"name": "Monumentul lui Lenin", "text": "Un punct de reper proeminent cu o statuie a lui Vladimir Lenin.", "category": "landmark", "coords": [29.657762, 46.82206]}, {"name": "Prud s lebedyami", "text": "Un loc pitoresc cu un iaz locuit adesea de lebede.", "category": "natural", "coords": [29.6136, 46.837833]}, {"name": "Buncăr Nr 1152 TiRF", "text": "Ruinele istorice ale unei foste fortificații militare sau buncăr.", "category": "historical", "coords": [29.643304, 46.817647]}, {"name": "Mini-Eifeleva bashnya", "text": "O replică la scară mică a celebrului punct de reper parizian.", "category": "landmark", "coords": [29.616885, 46.838831]}, {"name": "Pokrovskaya tserkov", "text": "O clădire modernă a bisericii ortodoxe care deservește parohia locală.", "category": "religious", "coords": [29.654518, 46.831]}, {"name": "Catedrala Nașterea Domnului din Tiraspol", "text": "O catedrală ortodoxă proeminentă, cunoscută pentru semnificația sa religioasă.", "category": "religious", "coords": [29.614296, 46.839015]}, {"name": "Biserica Acoperămîntul Maicii Domnului", "text": "Un lăcaș de cult pentru comunitatea locală a vechilor credincioși.", "category": "religious", "coords": [29.616911, 46.837231]}, {"name": "Nasosnaya stantsiya №9", "text": "O apă în Tiraspol, într-o zonă liniștită.", "category": "natural", "coords": [29.608784, 46.905146]}, {"name": "ozero Vai-Vodyna", "text": "Un lac în Tiraspol care invită la relaxare.", "category": "natural", "coords": [29.643395, 46.788828]}, {"name": "Pustoi", "text": "Un mic lac în Tiraspol pentru iubitorii de natură.", "category": "natural", "coords": [29.61293, 46.810419]}], "en": [{"name": "Muzei shtaba kavaleriiskoi brigady G.I. Kotovskogo", "text": "A museum dedicated to the cavalry brigade headquarters of Grigory Kotovsky.", "category": "museum", "coords": [29.622457, 46.836368]}, {"name": "Nadezhda Aronetskaya Pridnestrovian State Drama Theatre", "text": "The main state theatre for drama and comedy performances in Tiraspol.", "category": "cultural", "coords": [29.633617, 46.83709]}, {"name": "Local History Museum", "text": "A museum showcasing the regional history and cultural heritage of the area.", "category": "museum", "coords": [29.606819, 46.835569]}, {"name": "Muzei arkheologii Podnestrovya", "text": "A museum featuring archaeological finds from the Dniester River region.", "category": "museum", "coords": [29.632463, 46.837876]}, {"name": "Museum of Lost Socks", "text": "A quirky local museum with a unique and humorous theme.", "category": "museum", "coords": [29.610506, 46.846808]}, {"name": "Dvorets Respubliki", "text": "A major cultural and ceremonial venue for performances and state events.", "category": "cultural", "coords": [29.620553, 46.835673]}, {"name": "Ostrov udovolstvii", "text": "A local water park offering pools and recreational activities.", "category": "family", "coords": [29.604008, 46.834263]}, {"name": "Gorodskoi plyazh", "text": "The main public beach area located along the Dniester River.", "category": "recreational", "coords": [29.610545, 46.833376]}, {"name": "Jungle Park", "text": "A local theme park with rides and attractions for families.", "category": "family", "coords": [29.638225, 46.837148]}, {"name": "Vystavochnaya auditoriya", "text": "A dedicated space for various art and cultural exhibitions.", "category": "museum", "coords": [29.612314, 46.836629]}, {"name": "Chudo-grad", "text": "A colorful theme park designed for children and families.", "category": "family", "coords": [29.609699, 46.83715]}, {"name": "Memorial of Glory", "text": "A solemn monument complex dedicated to military history and fallen soldiers.", "category": "historical", "coords": [29.60828, 46.835478]}, {"name": "Tiraspolskaya krepost", "text": "The remains of an 18th-century fortification significant to the city's history.", "category": "historical", "coords": [29.592539, 46.834441]}, {"name": "Station Square", "text": "A central park area located near the city's main railway station.", "category": "park", "coords": [29.62931, 46.846868]}, {"name": "Pamyatnik Aviatoram", "text": "A monument dedicated to the history and achievements of aviation.", "category": "historical", "coords": [29.65704, 46.839596]}, {"name": "Monument to the Soviet collective farmers", "text": "A historic monument honoring the workers of collective farms.", "category": "historical", "coords": [29.653267, 46.827743]}, {"name": "Pamyatnik Leninu", "text": "A prominent landmark featuring a statue of Vladimir Lenin.", "category": "landmark", "coords": [29.657762, 46.82206]}, {"name": "Pond with swans", "text": "A scenic spot featuring a pond often inhabited by swans.", "category": "natural", "coords": [29.6136, 46.837833]}, {"name": "Bunker No 1152 TiFR", "text": "The historical ruins of a former military fortification or bunker.", "category": "historical", "coords": [29.643304, 46.817647]}, {"name": "Mini-Eifeleva bashnya", "text": "A small-scale replica of the famous Parisian landmark.", "category": "landmark", "coords": [29.616885, 46.838831]}, {"name": "Pokrovskaya tserkov", "text": "A modern Orthodox church building serving the local parish.", "category": "religious", "coords": [29.654518, 46.831]}, {"name": "Church of the Nativity", "text": "A prominent Orthodox cathedral known for its religious significance.", "category": "religious", "coords": [29.614296, 46.839015]}, {"name": "Old Believers Pokrovskaya Church", "text": "A place of worship for the local Old Believer community.", "category": "religious", "coords": [29.616911, 46.837231]}, {"name": "Nasosnaya stantsiya №9", "text": "A water body in Tiraspol located in a quiet area.", "category": "natural", "coords": [29.608784, 46.905146]}, {"name": "ozero Vai-Vodyna", "text": "A lake in Tiraspol that invites relaxation.", "category": "natural", "coords": [29.643395, 46.788828]}, {"name": "Pustoi", "text": "A small lake in Tiraspol for nature lovers.", "category": "natural", "coords": [29.61293, 46.810419]}]},
+    id: "MD-030-tiraspol-city", "sights": {
+      "de": [
+            {
+                  "name": "Muzei shtaba kavaleriiskoi brigady G.I. Kotovskogo",
+                  "text": "Ein Museum, das dem Hauptquartier der Kavalleriebrigade von Grigori Kotowski gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        29.622457,
+                        46.836368
+                  ]
+            },
+            {
+                  "name": "Pridnestrowisches Staatliches Dramen- und Komödientheater",
+                  "text": "Das staatliche Haupttheater für Dramen- und Komödienaufführungen in Tiraspol.",
+                  "category": "cultural",
+                  "coords": [
+                        29.633617,
+                        46.83709
+                  ]
+            },
+            {
+                  "name": "Museum der Heimatgeschichte",
+                  "text": "Ein Museum, das die Regionalgeschichte und das kulturelle Erbe der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        29.606819,
+                        46.835569
+                  ]
+            },
+            {
+                  "name": "Muzei arkheologii Podnestrovya",
+                  "text": "Ein Museum mit archäologischen Funden aus der Region am Fluss Dnjestr.",
+                  "category": "museum",
+                  "coords": [
+                        29.632463,
+                        46.837876
+                  ]
+            },
+            {
+                  "name": "Muzei poteryannykh noskov",
+                  "text": "Ein originelles lokales Museum mit einem einzigartigen und humorvollen Thema.",
+                  "category": "museum",
+                  "coords": [
+                        29.610506,
+                        46.846808
+                  ]
+            },
+            {
+                  "name": "Palast der Republik",
+                  "text": "Ein wichtiger kultureller und zeremonieller Ort für Aufführungen und staatliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        29.620553,
+                        46.835673
+                  ]
+            },
+            {
+                  "name": "Ostrov udovolstvii",
+                  "text": "Ein örtlicher Wasserpark mit Pools und Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        29.604008,
+                        46.834263
+                  ]
+            },
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "Der öffentliche Hauptstrand am Fluss Dnjestr.",
+                  "category": "recreational",
+                  "coords": [
+                        29.610545,
+                        46.833376
+                  ]
+            },
+            {
+                  "name": "Dzhungli Park",
+                  "text": "Ein örtlicher Themenpark mit Fahrgeschäften und Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        29.638225,
+                        46.837148
+                  ]
+            },
+            {
+                  "name": "Vystavochnaya auditoriya",
+                  "text": "Ein spezieller Raum für verschiedene Kunst- und Kulturausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        29.612314,
+                        46.836629
+                  ]
+            },
+            {
+                  "name": "Chudo-grad",
+                  "text": "Ein bunter Themenpark, der für Kinder und Familien konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        29.609699,
+                        46.83715
+                  ]
+            },
+            {
+                  "name": "Ehrendenkmal",
+                  "text": "Ein feierlicher Denkmal猞komplex, der der Militärgeschichte und gefallenen Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.60828,
+                        46.835478
+                  ]
+            },
+            {
+                  "name": "Tiraspolskaya krepost",
+                  "text": "Die Überreste einer Befestigungsanlage aus dem 18. Jahrhundert, die für die Stadtgeschichte von Bedeutung ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.592539,
+                        46.834441
+                  ]
+            },
+            {
+                  "name": "Privokzalnaya ploshchad",
+                  "text": "Eine zentrale Parkanlage in der Nähe des Hauptbahnhofs der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        29.62931,
+                        46.846868
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Aviatoram",
+                  "text": "Ein Denkmal, das der Geschichte und den Errungenschaften der Luftfahrt gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.65704,
+                        46.839596
+                  ]
+            },
+            {
+                  "name": "Pamyatnik kolkhoznikam",
+                  "text": "Ein historisches Denkmal zu Ehren der Arbeiter der Kollektivwirtschaften.",
+                  "category": "historical",
+                  "coords": [
+                        29.653267,
+                        46.827743
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Leninu",
+                  "text": "Ein markantes Wahrzeichen mit einer Statue von Wladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        29.657762,
+                        46.82206
+                  ]
+            },
+            {
+                  "name": "Schwanenteich",
+                  "text": "Ein malerischer Ort mit einem Teich, in dem oft Schwäne leben.",
+                  "category": "natural",
+                  "coords": [
+                        29.6136,
+                        46.837833
+                  ]
+            },
+            {
+                  "name": "DOT № 1152 TiUR",
+                  "text": "Die historischen Ruinen einer ehemaligen militärischen Befestigung oder eines Bunkers.",
+                  "category": "historical",
+                  "coords": [
+                        29.643304,
+                        46.817647
+                  ]
+            },
+            {
+                  "name": "Mini-Eifeleva bashnya",
+                  "text": "Eine maßstabsgetreue Nachbildung des berühmten Pariser Wahrzeichens.",
+                  "category": "landmark",
+                  "coords": [
+                        29.616885,
+                        46.838831
+                  ]
+            },
+            {
+                  "name": "Pokrovskaya tserkov",
+                  "text": "Ein modernes orthodoxes Kirchengebäude, das der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        29.654518,
+                        46.831
+                  ]
+            },
+            {
+                  "name": "Christi-Geburt-Kathedrale",
+                  "text": "Eine bedeutende orthodoxe Kathedrale, die für ihre religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        29.614296,
+                        46.839015
+                  ]
+            },
+            {
+                  "name": "Staroobryadcheskaya tserkov Pokrova Presvyatyya Bogoroditsy",
+                  "text": "Ein Gotteshaus für die örtliche Gemeinschaft der Altgläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        29.616911,
+                        46.837231
+                  ]
+            },
+            {
+                  "name": "Nasosnaya stantsiya №9",
+                  "text": "Ein Gewässer in Tiraspol in einer ruhigen Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        29.608784,
+                        46.905146
+                  ]
+            },
+            {
+                  "name": "ozero Vai-Vodyna",
+                  "text": "Ein See in Tiraspol, der zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Pustoi",
+                  "text": "Ein kleiner See in Tiraspol für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        29.61293,
+                        46.810419
+                  ]
+            },
+            {
+                  "name": "Баня",
+                  "text": "Ein Ort zum Schwimmen und für Wassererholung in Tiraspol.",
+                  "category": "family",
+                  "coords": [
+                        29.606133,
+                        46.847484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzei shtaba kavaleriiskoi brigady G.I. Kotovskogo",
+                  "text": "Grigorij Kotovszkij lovasdandár-parancsnokságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        29.622457,
+                        46.836368
+                  ]
+            },
+            {
+                  "name": "Pridnestrovskii gosudarstvennyi teatr dramy i komedii im. N. S. Aronetskoi",
+                  "text": "Tiraszpol fő állami drámai és vígjátékszínháza.",
+                  "category": "cultural",
+                  "coords": [
+                        29.633617,
+                        46.83709
+                  ]
+            },
+            {
+                  "name": "Istoriko-kraevedcheskii muzei",
+                  "text": "A terület regionális történelmét és kulturális örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        29.606819,
+                        46.835569
+                  ]
+            },
+            {
+                  "name": "Muzei arkheologii Podnestrovya",
+                  "text": "A Dnyeszter menti régió régészeti leleteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        29.632463,
+                        46.837876
+                  ]
+            },
+            {
+                  "name": "Muzei poteryannykh noskov",
+                  "text": "Különleges helyi múzeum egyedi és humoros témával.",
+                  "category": "museum",
+                  "coords": [
+                        29.610506,
+                        46.846808
+                  ]
+            },
+            {
+                  "name": "Dvorets Respubliki",
+                  "text": "Jelentős kulturális és ünnepi helyszín előadások és állami rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        29.620553,
+                        46.835673
+                  ]
+            },
+            {
+                  "name": "Ostrov udovolstvii",
+                  "text": "Helyi vízipark medencékkel és szabadidős tevékenységekkel.",
+                  "category": "family",
+                  "coords": [
+                        29.604008,
+                        46.834263
+                  ]
+            },
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "A fő nyilvános strand a Dnyeszter folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.610545,
+                        46.833376
+                  ]
+            },
+            {
+                  "name": "Dzhungli Park",
+                  "text": "Helyi vidámpark játékokkal és látnivalókkal családok számára.",
+                  "category": "family",
+                  "coords": [
+                        29.638225,
+                        46.837148
+                  ]
+            },
+            {
+                  "name": "Vystavochnaya auditoriya",
+                  "text": "Különféle művészeti és kulturális kiállításoknak szentelt tér.",
+                  "category": "museum",
+                  "coords": [
+                        29.612314,
+                        46.836629
+                  ]
+            },
+            {
+                  "name": "Chudo-grad",
+                  "text": "Színes vidámpark gyerekeknek és családoknak.",
+                  "category": "family",
+                  "coords": [
+                        29.609699,
+                        46.83715
+                  ]
+            },
+            {
+                  "name": "Memorial Slavy",
+                  "text": "Katonai történelemnek és az elesett katonáknak szentelt ünnepélyes emlékhely.",
+                  "category": "historical",
+                  "coords": [
+                        29.60828,
+                        46.835478
+                  ]
+            },
+            {
+                  "name": "Tiraspolskaya krepost",
+                  "text": "Egy 18. századi erődítmény maradványai, amely jelentős a város történelme szempontjából.",
+                  "category": "historical",
+                  "coords": [
+                        29.592539,
+                        46.834441
+                  ]
+            },
+            {
+                  "name": "Privokzalnaya ploshchad",
+                  "text": "Központi park a város főpályaudvarának közelében.",
+                  "category": "park",
+                  "coords": [
+                        29.62931,
+                        46.846868
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Aviatoram",
+                  "text": "A repülés történetének és vívmányainak szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        29.65704,
+                        46.839596
+                  ]
+            },
+            {
+                  "name": "Pamyatnik kolkhoznikam",
+                  "text": "Történelmi emlékmű a kollektív gazdaságok dolgozóinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        29.653267,
+                        46.827743
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Leninu",
+                  "text": "Kiemelkedő nevezetesség Vlagyimir Lenin szobrával.",
+                  "category": "landmark",
+                  "coords": [
+                        29.657762,
+                        46.82206
+                  ]
+            },
+            {
+                  "name": "Prud s lebedyami",
+                  "text": "Festői hely egy tóval, amelyben gyakran hattyúk élnek.",
+                  "category": "natural",
+                  "coords": [
+                        29.6136,
+                        46.837833
+                  ]
+            },
+            {
+                  "name": "DOT № 1152 TiUR",
+                  "text": "Egy korábbi katonai erődítmény vagy bunker történelmi romjai.",
+                  "category": "historical",
+                  "coords": [
+                        29.643304,
+                        46.817647
+                  ]
+            },
+            {
+                  "name": "Mini-Eifeleva bashnya",
+                  "text": "A híres párizsi nevezetesség kisméretű másolata.",
+                  "category": "landmark",
+                  "coords": [
+                        29.616885,
+                        46.838831
+                  ]
+            },
+            {
+                  "name": "Pokrovskaya tserkov",
+                  "text": "Modern ortodox templomépület, amely a helyi plébániát szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        29.654518,
+                        46.831
+                  ]
+            },
+            {
+                  "name": "Sobor Rozhdestva Khristova",
+                  "text": "Kiemelkedő ortodox székesegyház, amely vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        29.614296,
+                        46.839015
+                  ]
+            },
+            {
+                  "name": "Staroobryadcheskaya tserkov Pokrova Presvyatyya Bogoroditsy",
+                  "text": "A helyi óhitű közösség temploma.",
+                  "category": "religious",
+                  "coords": [
+                        29.616911,
+                        46.837231
+                  ]
+            },
+            {
+                  "name": "Nasosnaya stantsiya №9",
+                  "text": "Vízfelület Tiraspolban, csendes környéken.",
+                  "category": "natural",
+                  "coords": [
+                        29.608784,
+                        46.905146
+                  ]
+            },
+            {
+                  "name": "ozero Vai-Vodyna",
+                  "text": "Tó Tiraspolban, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Pustoi",
+                  "text": "Kisméretű tó Tiraspolban a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        29.61293,
+                        46.810419
+                  ]
+            },
+            {
+                  "name": "Баня",
+                  "text": "Úszásra és vízi kikapcsolódásra alkalmas hely Tiraspol településen.",
+                  "category": "family",
+                  "coords": [
+                        29.606133,
+                        46.847484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzei shtaba kavaleriiskoi brigady G.I. Kotovskogo",
+                  "text": "Un muzeu dedicat cartierului general al brigadei de cavalerie a lui Grigori Kotovski.",
+                  "category": "museum",
+                  "coords": [
+                        29.622457,
+                        46.836368
+                  ]
+            },
+            {
+                  "name": "Teatrul de Stat de dramă şi comedie „N.S. Aroneţkaia”",
+                  "text": "Principalul teatru de stat pentru spectacole de dramă și comedie din Tiraspol.",
+                  "category": "cultural",
+                  "coords": [
+                        29.633617,
+                        46.83709
+                  ]
+            },
+            {
+                  "name": "Muzeul de istorie locală",
+                  "text": "Un muzeu care prezintă istoria regională și moștenirea culturală a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        29.606819,
+                        46.835569
+                  ]
+            },
+            {
+                  "name": "Muzei arkheologii Podnestrovya",
+                  "text": "Un muzeu cu descoperiri arheologice din regiunea fluviului Nistru.",
+                  "category": "museum",
+                  "coords": [
+                        29.632463,
+                        46.837876
+                  ]
+            },
+            {
+                  "name": "Muzei poteryannykh noskov",
+                  "text": "Un muzeu local inedit, cu o tematică unică și plină de umor.",
+                  "category": "museum",
+                  "coords": [
+                        29.610506,
+                        46.846808
+                  ]
+            },
+            {
+                  "name": "Palatul republicii",
+                  "text": "Un loc cultural și ceremonial major pentru spectacole și evenimente de stat.",
+                  "category": "cultural",
+                  "coords": [
+                        29.620553,
+                        46.835673
+                  ]
+            },
+            {
+                  "name": "Ostrov udovolstvii",
+                  "text": "Un parc acvatic local care oferă piscine și activități recreative.",
+                  "category": "family",
+                  "coords": [
+                        29.604008,
+                        46.834263
+                  ]
+            },
+            {
+                  "name": "Plaja orașului",
+                  "text": "Principala zonă de plajă publică situată de-a lungul fluviului Nistru.",
+                  "category": "recreational",
+                  "coords": [
+                        29.610545,
+                        46.833376
+                  ]
+            },
+            {
+                  "name": "Dzhungli Park",
+                  "text": "Un parc tematic local cu atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        29.638225,
+                        46.837148
+                  ]
+            },
+            {
+                  "name": "Vystavochnaya auditoriya",
+                  "text": "Un spațiu dedicat diverselor expoziții de artă și cultură.",
+                  "category": "museum",
+                  "coords": [
+                        29.612314,
+                        46.836629
+                  ]
+            },
+            {
+                  "name": "Chudo-grad",
+                  "text": "Un parc tematic colorat, conceput pentru copii și familii.",
+                  "category": "family",
+                  "coords": [
+                        29.609699,
+                        46.83715
+                  ]
+            },
+            {
+                  "name": "Memorialul Gloriei",
+                  "text": "Un complex monumental solemn dedicat istoriei militare și soldaților căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        29.60828,
+                        46.835478
+                  ]
+            },
+            {
+                  "name": "Cetatea din Tiraspol",
+                  "text": "Rămășițele unei fortificații din secolul al XVIII-lea, semnificativă pentru istoria orașului.",
+                  "category": "historical",
+                  "coords": [
+                        29.592539,
+                        46.834441
+                  ]
+            },
+            {
+                  "name": "Piaţa Gării",
+                  "text": "O zonă de parc central situată lângă gara principală a orașului.",
+                  "category": "park",
+                  "coords": [
+                        29.62931,
+                        46.846868
+                  ]
+            },
+            {
+                  "name": "Monumentul Aviatorilor",
+                  "text": "Un monument dedicat istoriei și realizărilor aviației.",
+                  "category": "historical",
+                  "coords": [
+                        29.65704,
+                        46.839596
+                  ]
+            },
+            {
+                  "name": "Pamyatnik sovetskim kolkhoznikam",
+                  "text": "Un monument istoric care onorează lucrătorii din fermele colective.",
+                  "category": "historical",
+                  "coords": [
+                        29.653267,
+                        46.827743
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Un punct de reper proeminent cu o statuie a lui Vladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        29.657762,
+                        46.82206
+                  ]
+            },
+            {
+                  "name": "Prud s lebedyami",
+                  "text": "Un loc pitoresc cu un iaz locuit adesea de lebede.",
+                  "category": "natural",
+                  "coords": [
+                        29.6136,
+                        46.837833
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 1152 TiRF",
+                  "text": "Ruinele istorice ale unei foste fortificații militare sau buncăr.",
+                  "category": "historical",
+                  "coords": [
+                        29.643304,
+                        46.817647
+                  ]
+            },
+            {
+                  "name": "Mini-Eifeleva bashnya",
+                  "text": "O replică la scară mică a celebrului punct de reper parizian.",
+                  "category": "landmark",
+                  "coords": [
+                        29.616885,
+                        46.838831
+                  ]
+            },
+            {
+                  "name": "Pokrovskaya tserkov",
+                  "text": "O clădire modernă a bisericii ortodoxe care deservește parohia locală.",
+                  "category": "religious",
+                  "coords": [
+                        29.654518,
+                        46.831
+                  ]
+            },
+            {
+                  "name": "Catedrala Nașterea Domnului din Tiraspol",
+                  "text": "O catedrală ortodoxă proeminentă, cunoscută pentru semnificația sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        29.614296,
+                        46.839015
+                  ]
+            },
+            {
+                  "name": "Biserica Acoperămîntul Maicii Domnului",
+                  "text": "Un lăcaș de cult pentru comunitatea locală a vechilor credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        29.616911,
+                        46.837231
+                  ]
+            },
+            {
+                  "name": "Nasosnaya stantsiya №9",
+                  "text": "O apă în Tiraspol, într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        29.608784,
+                        46.905146
+                  ]
+            },
+            {
+                  "name": "ozero Vai-Vodyna",
+                  "text": "Un lac în Tiraspol care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Pustoi",
+                  "text": "Un mic lac în Tiraspol pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        29.61293,
+                        46.810419
+                  ]
+            },
+            {
+                  "name": "Баня",
+                  "text": "Un loc pentru înot și recreere acvatică în Tiraspol.",
+                  "category": "family",
+                  "coords": [
+                        29.606133,
+                        46.847484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzei shtaba kavaleriiskoi brigady G.I. Kotovskogo",
+                  "text": "A museum dedicated to the cavalry brigade headquarters of Grigory Kotovsky.",
+                  "category": "museum",
+                  "coords": [
+                        29.622457,
+                        46.836368
+                  ]
+            },
+            {
+                  "name": "Nadezhda Aronetskaya Pridnestrovian State Drama Theatre",
+                  "text": "The main state theatre for drama and comedy performances in Tiraspol.",
+                  "category": "cultural",
+                  "coords": [
+                        29.633617,
+                        46.83709
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "A museum showcasing the regional history and cultural heritage of the area.",
+                  "category": "museum",
+                  "coords": [
+                        29.606819,
+                        46.835569
+                  ]
+            },
+            {
+                  "name": "Muzei arkheologii Podnestrovya",
+                  "text": "A museum featuring archaeological finds from the Dniester River region.",
+                  "category": "museum",
+                  "coords": [
+                        29.632463,
+                        46.837876
+                  ]
+            },
+            {
+                  "name": "Museum of Lost Socks",
+                  "text": "A quirky local museum with a unique and humorous theme.",
+                  "category": "museum",
+                  "coords": [
+                        29.610506,
+                        46.846808
+                  ]
+            },
+            {
+                  "name": "Dvorets Respubliki",
+                  "text": "A major cultural and ceremonial venue for performances and state events.",
+                  "category": "cultural",
+                  "coords": [
+                        29.620553,
+                        46.835673
+                  ]
+            },
+            {
+                  "name": "Ostrov udovolstvii",
+                  "text": "A local water park offering pools and recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        29.604008,
+                        46.834263
+                  ]
+            },
+            {
+                  "name": "Gorodskoi plyazh",
+                  "text": "The main public beach area located along the Dniester River.",
+                  "category": "recreational",
+                  "coords": [
+                        29.610545,
+                        46.833376
+                  ]
+            },
+            {
+                  "name": "Jungle Park",
+                  "text": "A local theme park with rides and attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        29.638225,
+                        46.837148
+                  ]
+            },
+            {
+                  "name": "Vystavochnaya auditoriya",
+                  "text": "A dedicated space for various art and cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        29.612314,
+                        46.836629
+                  ]
+            },
+            {
+                  "name": "Chudo-grad",
+                  "text": "A colorful theme park designed for children and families.",
+                  "category": "family",
+                  "coords": [
+                        29.609699,
+                        46.83715
+                  ]
+            },
+            {
+                  "name": "Memorial of Glory",
+                  "text": "A solemn monument complex dedicated to military history and fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        29.60828,
+                        46.835478
+                  ]
+            },
+            {
+                  "name": "Tiraspolskaya krepost",
+                  "text": "The remains of an 18th-century fortification significant to the city's history.",
+                  "category": "historical",
+                  "coords": [
+                        29.592539,
+                        46.834441
+                  ]
+            },
+            {
+                  "name": "Station Square",
+                  "text": "A central park area located near the city's main railway station.",
+                  "category": "park",
+                  "coords": [
+                        29.62931,
+                        46.846868
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Aviatoram",
+                  "text": "A monument dedicated to the history and achievements of aviation.",
+                  "category": "historical",
+                  "coords": [
+                        29.65704,
+                        46.839596
+                  ]
+            },
+            {
+                  "name": "Monument to the Soviet collective farmers",
+                  "text": "A historic monument honoring the workers of collective farms.",
+                  "category": "historical",
+                  "coords": [
+                        29.653267,
+                        46.827743
+                  ]
+            },
+            {
+                  "name": "Pamyatnik Leninu",
+                  "text": "A prominent landmark featuring a statue of Vladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        29.657762,
+                        46.82206
+                  ]
+            },
+            {
+                  "name": "Pond with swans",
+                  "text": "A scenic spot featuring a pond often inhabited by swans.",
+                  "category": "natural",
+                  "coords": [
+                        29.6136,
+                        46.837833
+                  ]
+            },
+            {
+                  "name": "Bunker No 1152 TiFR",
+                  "text": "The historical ruins of a former military fortification or bunker.",
+                  "category": "historical",
+                  "coords": [
+                        29.643304,
+                        46.817647
+                  ]
+            },
+            {
+                  "name": "Mini-Eifeleva bashnya",
+                  "text": "A small-scale replica of the famous Parisian landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        29.616885,
+                        46.838831
+                  ]
+            },
+            {
+                  "name": "Pokrovskaya tserkov",
+                  "text": "A modern Orthodox church building serving the local parish.",
+                  "category": "religious",
+                  "coords": [
+                        29.654518,
+                        46.831
+                  ]
+            },
+            {
+                  "name": "Church of the Nativity",
+                  "text": "A prominent Orthodox cathedral known for its religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        29.614296,
+                        46.839015
+                  ]
+            },
+            {
+                  "name": "Old Believers Pokrovskaya Church",
+                  "text": "A place of worship for the local Old Believer community.",
+                  "category": "religious",
+                  "coords": [
+                        29.616911,
+                        46.837231
+                  ]
+            },
+            {
+                  "name": "Nasosnaya stantsiya №9",
+                  "text": "A water body in Tiraspol located in a quiet area.",
+                  "category": "natural",
+                  "coords": [
+                        29.608784,
+                        46.905146
+                  ]
+            },
+            {
+                  "name": "ozero Vai-Vodyna",
+                  "text": "A lake in Tiraspol that invites relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        29.643395,
+                        46.788828
+                  ]
+            },
+            {
+                  "name": "Pustoi",
+                  "text": "A small lake in Tiraspol for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        29.61293,
+                        46.810419
+                  ]
+            },
+            {
+                  "name": "Баня",
+                  "text": "A place for swimming and water recreation in Tiraspol.",
+                  "category": "family",
+                  "coords": [
+                        29.606133,
+                        46.847484
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD-030",
     coords: [29.6322, 46.8353],
@@ -869,6 +1850,78 @@ export const moldovaPoi: POI[] = [
                         28.840525,
                         47.027603
                   ]
+            },
+            {
+                  "name": "Bazinul de Înot al Universității de Stat de Educație Fizică și Sport",
+                  "text": "Dieses Schwimmbad der Universität in Chisinau steht für sportliche Aktivitäten zur Verfügung.",
+                  "category": "family",
+                  "coords": [
+                        28.829897,
+                        47.023534
+                  ]
+            },
+            {
+                  "name": "Ellation Spa",
+                  "text": "Das Ellation Spa in Chisinau bietet verschiedene Wellness-Behandlungen in einer entspannten Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        28.836875,
+                        47.027379
+                  ]
+            },
+            {
+                  "name": "Spa Roxen",
+                  "text": "Das Spa Roxen in Chisinau ist ein Ort für Erholung und körperliches Wohlbefinden.",
+                  "category": "family",
+                  "coords": [
+                        28.846374,
+                        47.024484
+                  ]
+            },
+            {
+                  "name": "Nobil Spa",
+                  "text": "Das Nobil Spa in Chisinau bietet exklusive Wellness-Dienstleistungen zur Entspannung an.",
+                  "category": "family",
+                  "coords": [
+                        28.836928,
+                        47.022593
+                  ]
+            },
+            {
+                  "name": "Vivariul Muzeului Național de Etnografie și Istorie Naturală",
+                  "text": "Das Vivarium in Chisinau zeigt eine Sammlung lebender Tiere im Rahmen des Nationalmuseums.",
+                  "category": "family",
+                  "coords": [
+                        28.821193,
+                        47.023122
+                  ]
+            },
+            {
+                  "name": "Befly Garden",
+                  "text": "Befly Garden in Chisinau ist ein Zoo, der Besuchern Einblicke in die Welt der Insekten und Tiere ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        28.852141,
+                        46.999479
+                  ]
+            },
+            {
+                  "name": "Energy Fitness Swimming Pool",
+                  "text": "Das Energy Fitness Swimming Pool in Chisinau bietet moderne Einrichtungen für Schwimmtraining.",
+                  "category": "family",
+                  "coords": [
+                        28.860654,
+                        46.985534
+                  ]
+            },
+            {
+                  "name": "011Cryo",
+                  "text": "Das 011Cryo in Chisinau ist auf spezielle Wellness-Anwendungen zur Erholung spezialisiert.",
+                  "category": "family",
+                  "coords": [
+                        28.846663,
+                        47.013699
+                  ]
             }
       ],
       "hu": [
@@ -1041,6 +2094,78 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.840525,
                         47.027603
+                  ]
+            },
+            {
+                  "name": "Bazinul de Înot al Universității de Stat de Educație Fizică și Sport",
+                  "text": "A kisinyovi egyetemi úszómedence sporttevékenységekhez áll rendelkezésre.",
+                  "category": "family",
+                  "coords": [
+                        28.829897,
+                        47.023534
+                  ]
+            },
+            {
+                  "name": "Ellation Spa",
+                  "text": "A kisinyovi Ellation Spa különféle wellness-kezeléseket kínál nyugodt környezetben.",
+                  "category": "family",
+                  "coords": [
+                        28.836875,
+                        47.027379
+                  ]
+            },
+            {
+                  "name": "Spa Roxen",
+                  "text": "A kisinyovi Spa Roxen a kikapcsolódás és a testi jólét helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        28.846374,
+                        47.024484
+                  ]
+            },
+            {
+                  "name": "Nobil Spa",
+                  "text": "A kisinyovi Nobil Spa exkluzív wellness-szolgáltatásokat kínál a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        28.836928,
+                        47.022593
+                  ]
+            },
+            {
+                  "name": "Vivariul Muzeului Național de Etnografie și Istorie Naturală",
+                  "text": "A kisinyovi Vivárium élő állatok gyűjteményét mutatja be a Nemzeti Múzeum keretében.",
+                  "category": "family",
+                  "coords": [
+                        28.821193,
+                        47.023122
+                  ]
+            },
+            {
+                  "name": "Befly Garden",
+                  "text": "A kisinyovi Befly Garden egy állatkert, amely betekintést nyújt a rovarok és állatok világába.",
+                  "category": "family",
+                  "coords": [
+                        28.852141,
+                        46.999479
+                  ]
+            },
+            {
+                  "name": "Energy Fitness Swimming Pool",
+                  "text": "A kisinyovi Energy Fitness Swimming Pool modern létesítményeket kínál az úszóedzésekhez.",
+                  "category": "family",
+                  "coords": [
+                        28.860654,
+                        46.985534
+                  ]
+            },
+            {
+                  "name": "011Cryo",
+                  "text": "A kisinyovi 011Cryo speciális wellness-kezelésekre szakosodott a regenerálódás érdekében.",
+                  "category": "family",
+                  "coords": [
+                        28.846663,
+                        47.013699
                   ]
             }
       ],
@@ -1215,6 +2340,78 @@ export const moldovaPoi: POI[] = [
                         28.840525,
                         47.027603
                   ]
+            },
+            {
+                  "name": "Bazinul de Înot al Universității de Stat de Educație Fizică și Sport",
+                  "text": "Această piscină a universității din Chisinau este disponibilă pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        28.829897,
+                        47.023534
+                  ]
+            },
+            {
+                  "name": "Ellation Spa",
+                  "text": "Ellation Spa din Chisinau oferă diverse tratamente wellness într-o atmosferă relaxată.",
+                  "category": "family",
+                  "coords": [
+                        28.836875,
+                        47.027379
+                  ]
+            },
+            {
+                  "name": "Spa Roxen",
+                  "text": "Spa Roxen din Chisinau este un loc pentru relaxare și bunăstare fizică.",
+                  "category": "family",
+                  "coords": [
+                        28.846374,
+                        47.024484
+                  ]
+            },
+            {
+                  "name": "Nobil Spa",
+                  "text": "Nobil Spa din Chisinau oferă servicii wellness exclusive pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        28.836928,
+                        47.022593
+                  ]
+            },
+            {
+                  "name": "Vivariul Muzeului Național de Etnografie și Istorie Naturală",
+                  "text": "Vivariul din Chisinau prezintă o colecție de animale vii în cadrul Muzeului Național.",
+                  "category": "family",
+                  "coords": [
+                        28.821193,
+                        47.023122
+                  ]
+            },
+            {
+                  "name": "Befly Garden",
+                  "text": "Befly Garden din Chisinau este o grădină zoologică care oferă vizitatorilor perspective asupra lumii insectelor și animalelor.",
+                  "category": "family",
+                  "coords": [
+                        28.852141,
+                        46.999479
+                  ]
+            },
+            {
+                  "name": "Energy Fitness Swimming Pool",
+                  "text": "Energy Fitness Swimming Pool din Chisinau oferă facilități moderne pentru antrenamente de înot.",
+                  "category": "family",
+                  "coords": [
+                        28.860654,
+                        46.985534
+                  ]
+            },
+            {
+                  "name": "011Cryo",
+                  "text": "011Cryo din Chisinau este specializat în aplicații wellness speciale pentru recuperare.",
+                  "category": "family",
+                  "coords": [
+                        28.846663,
+                        47.013699
+                  ]
             }
       ],
       "en": [
@@ -1387,6 +2584,78 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.840525,
                         47.027603
+                  ]
+            },
+            {
+                  "name": "Bazinul de Înot al Universității de Stat de Educație Fizică și Sport",
+                  "text": "This university swimming pool in Chisinau is available for sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        28.829897,
+                        47.023534
+                  ]
+            },
+            {
+                  "name": "Ellation Spa",
+                  "text": "Ellation Spa in Chisinau offers various wellness treatments in a relaxed atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        28.836875,
+                        47.027379
+                  ]
+            },
+            {
+                  "name": "Spa Roxen",
+                  "text": "Spa Roxen in Chisinau is a place for relaxation and physical well-being.",
+                  "category": "family",
+                  "coords": [
+                        28.846374,
+                        47.024484
+                  ]
+            },
+            {
+                  "name": "Nobil Spa",
+                  "text": "Nobil Spa in Chisinau offers exclusive wellness services for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        28.836928,
+                        47.022593
+                  ]
+            },
+            {
+                  "name": "Vivarium of the National Museum of Ethnography and Natural History",
+                  "text": "The Vivarium in Chisinau displays a collection of live animals as part of the National Museum.",
+                  "category": "family",
+                  "coords": [
+                        28.821193,
+                        47.023122
+                  ]
+            },
+            {
+                  "name": "Befly Garden",
+                  "text": "Befly Garden in Chisinau is a zoo providing visitors with insights into the world of insects and animals.",
+                  "category": "family",
+                  "coords": [
+                        28.852141,
+                        46.999479
+                  ]
+            },
+            {
+                  "name": "Energy Fitness Swimming Pool",
+                  "text": "Energy Fitness Swimming Pool in Chisinau offers modern facilities for swimming training.",
+                  "category": "family",
+                  "coords": [
+                        28.860654,
+                        46.985534
+                  ]
+            },
+            {
+                  "name": "011Cryo",
+                  "text": "011Cryo in Chisinau specializes in special wellness applications for recovery.",
+                  "category": "family",
+                  "coords": [
+                        28.846663,
+                        47.013699
                   ]
             }
       ]

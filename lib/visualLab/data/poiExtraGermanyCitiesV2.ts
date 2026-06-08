@@ -12242,6 +12242,222 @@ export const germanyCitiesV2: POI[] = [
                         7.201947,
                         53.374202
                   ]
+            },
+            {
+                  "name": "Festspielhaus am Wall",
+                  "text": "Das Festspielhaus am Wall ist ein bedeutendes Veranstaltungszentrum in Emden. Es bietet einen modernen Rahmen für Theateraufführungen und kulturelle Events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.203529,
+                        53.374777
+                  ]
+            },
+            {
+                  "name": "Eyüp-Sultan-Moschee",
+                  "text": "Die Eyüp-Sultan-Moschee ist ein Ort des Gebets für Muslime in Emden. Sie dient als religiöses und kulturelles Zentrum für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        7.195435,
+                        53.368153
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "Die Martin-Luther-Kirche ist ein markantes lutherisches Gotteshaus in Emden. Sie ist ein zentraler Ort für die religiösen Dienste der evangelischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        7.207399,
+                        53.369008
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "St. Michael ist eine katholische Kirche im Stadtgebiet von Emden. Das Gebäude bietet Raum für Gottesdienste und geistliche Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        7.211952,
+                        53.368562
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Borssum",
+                  "text": "Die Reformierte Kirche Borssum ist ein historisches Kirchengebäude im Emder Stadtteil Borssum. Sie ist ein Zeugnis der regionalen reformierten Kirchentradition.",
+                  "category": "religious",
+                  "coords": [
+                        7.224666,
+                        53.343336
+                  ]
+            },
+            {
+                  "name": "Larrelter Kirche",
+                  "text": "Die Larrelter Kirche ist ein bedeutendes mittelalterliches Bauwerk im Stadtteil Larrelt. Sie ist für ihre historische Architektur und ihre Lage im alten Ortskern bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        7.150099,
+                        53.364969
+                  ]
+            },
+            {
+                  "name": "St.-Nikolaus-Kirche (Alte Kirche)",
+                  "text": "Die St.-Nikolaus-Kirche ist die alte Dorfkirche des Stadtteils Borssum in Emden. Das historische Gebäude dient heute der evangelisch-reformierten Gemeinde als Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        7.225081,
+                        53.33939
+                  ]
+            },
+            {
+                  "name": "Kesselschleuse Emden",
+                  "text": "Die Kesselschleuse in Emden ist eine einzigartige Kreuzungsschleuse, die vier Kanäle miteinander verbindet. Sie gilt als ein bedeutendes technisches Denkmal der europäischen Wasserbaukunst.",
+                  "category": "landmark",
+                  "coords": [
+                        7.219086,
+                        53.366868
+                  ]
+            },
+            {
+                  "name": "Westmole",
+                  "text": "Die Westmole am Emder Hafen ist durch ihren auffälligen rot-weißen Leuchtturm bekannt. Sie markiert die Einfahrt in den Hafen und ist ein markanter Orientierungspunkt an der Emsmündung.",
+                  "category": "landmark",
+                  "coords": [
+                        7.175027,
+                        53.33442
+                  ]
+            },
+            {
+                  "name": "Ev.-ref. Kirche Wolthusen",
+                  "text": "Die Wolthuser Kirche ist ein evangelisch-reformiertes Gotteshaus im Stadtteil Wolthusen. Der Backsteinbau ist ein charakteristisches Merkmal des historischen Ortsbildes.",
+                  "category": "religious",
+                  "coords": [
+                        7.233459,
+                        53.370079
+                  ]
+            },
+            {
+                  "name": "Dampflok 043 903-4",
+                  "text": "Die Dampflok 043 903-4 steht als Denkmal am Emder Hauptbahnhof und erinnert an die Ära der Dampftraktion. Sie ist ein beliebtes Fotomotiv für Technikbegeisterte und Eisenbahnfreunde.",
+                  "category": "landmark",
+                  "coords": [
+                        7.196618,
+                        53.368449
+                  ]
+            },
+            {
+                  "name": "Heuzwinger",
+                  "text": "Der Heuzwinger ist Teil der historischen Emder Wallanlagen, die einst zur Verteidigung der Stadt dienten. Heute bietet der Park gepflegte Grünflächen für Spaziergänge im Grünen.",
+                  "category": "park",
+                  "coords": [
+                        7.2019,
+                        53.372529
+                  ]
+            },
+            {
+                  "name": "Rote Mühlenzwinger",
+                  "text": "Der Rote Mühlenzwinger ist eine Parkanlage auf dem Emder Wall, benannt nach einer historischen Windmühle. Besucher finden hier ruhige Wege und einen schönen Ausblick auf den Stadtgraben.",
+                  "category": "park",
+                  "coords": [
+                        7.217319,
+                        53.368276
+                  ]
+            },
+            {
+                  "name": "Meister-Geerds-Zwinger",
+                  "text": "Der Meister-Geerds-Zwinger ist ein Abschnitt der ausgedehnten Parklandschaft der Emder Wallanlagen. Er lädt mit seinen alten Bäumen und Wasserflächen zur Erholung mitten in der Stadt ein.",
+                  "category": "park",
+                  "coords": [
+                        7.199176,
+                        53.370463
+                  ]
+            },
+            {
+                  "name": "Marienwehrster Zwinger",
+                  "text": "Der Marienwehrster Zwinger ist Teil des grünen Gürtels, der das Stadtzentrum von Emden umgibt. Die Anlage bietet Raum für Freizeitaktivitäten und Naturerlebnisse im historischen Kontext.",
+                  "category": "park",
+                  "coords": [
+                        7.212896,
+                        53.372218
+                  ]
+            },
+            {
+                  "name": "Schwanenteich",
+                  "text": "Der Schwanenteich ist eine malerische Parkanlage innerhalb der Emder Wallanlagen. Das Gewässer und die umliegenden Wege sind ein beliebter Treffpunkt für Naturfreunde und Spaziergänger.",
+                  "category": "park",
+                  "coords": [
+                        7.216832,
+                        53.365237
+                  ]
+            },
+            {
+                  "name": "Burgplatz",
+                  "text": "Der Burgplatz in Emden erinnert an den Standort der einstigen gräflichen Burg. Heute ist er eine öffentliche Grünfläche, die zum Verweilen im historischen Zentrum einlädt.",
+                  "category": "park",
+                  "coords": [
+                        7.200436,
+                        53.366318
+                  ]
+            },
+            {
+                  "name": "Albringwehrster Zwinger",
+                  "text": "Der Albringwehrster Zwinger gehört zur Parklandschaft der historischen Stadtbefestigung in Emden. Er bietet ruhige Rückzugsorte und Wanderwege entlang des Kanals.",
+                  "category": "park",
+                  "coords": [
+                        7.204858,
+                        53.373877
+                  ]
+            },
+            {
+                  "name": "Gelbe-Mühlenzwinger",
+                  "text": "Der Gelbe-Mühlenzwinger ist eine Grünanlage auf dem Emder Wall mit weiten Wiesenflächen. Er ist ein idealer Ort für Erholungssuchende und Freizeitsportler in der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        7.215893,
+                        53.370501
+                  ]
+            },
+            {
+                  "name": "Vogelsangzwinger",
+                  "text": "Der Vogelsangzwinger bereichert die Emder Wallanlagen um eine weitere attraktive Grünzone. Besucher können hier die Natur genießen und die historische Struktur der Befestigung erkunden.",
+                  "category": "park",
+                  "coords": [
+                        7.208976,
+                        53.37395
+                  ]
+            },
+            {
+                  "name": "St. Walburga",
+                  "text": "St. Walburga ist eine Kirche in Emden, die einen Ort für Gottesdienste und geistliche Zusammenkünfte bietet. Das Gebäude ist Teil des religiösen Lebens in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.216246,
+                        53.376988
+                  ]
+            },
+            {
+                  "name": "Larrelter Mühle",
+                  "text": "Die Larrelter Mühle ist eine traditionelle Windmühle in Emden-Larrelt. Das historische Bauwerk ist ein bekanntes Wahrzeichen des Stadtteils und ein Zeugnis alter Handwerkskunst.",
+                  "category": "landmark",
+                  "coords": [
+                        7.148475,
+                        53.367171
+                  ]
+            },
+            {
+                  "name": "Ökowerk Emden",
+                  "text": "Das Ökowerk Emden ist ein Umweltzentrum mit weitläufigen Garten- und Naturflächen. Es bietet Bildungsangebote zu Themen wie Naturschutz und nachhaltigem Gärtnern.",
+                  "category": "park",
+                  "coords": [
+                        7.227895,
+                        53.336538
+                  ]
+            },
+            {
+                  "name": "Brückenpfeiler",
+                  "text": "Die Brückenpfeiler in Emden sind historische Überreste einstiger Verkehrswege in der Stadt. Sie stehen heute als Ruinen im Stadtbild und erinnern an die bauliche Entwicklung vergangener Zeiten.",
+                  "category": "historical",
+                  "coords": [
+                        7.224984,
+                        53.367941
+                  ]
             }
       ],
       "hu": [
@@ -12395,6 +12611,222 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.201947,
                         53.374202
+                  ]
+            },
+            {
+                  "name": "Festspielhaus am Wall",
+                  "text": "A Festspielhaus am Wall egy jelentős kulturális központ Emdenben. Modern helyszínt biztosít színházi előadásoknak és egyéb rendezvényeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        7.203529,
+                        53.374777
+                  ]
+            },
+            {
+                  "name": "Eyüp-Sultan-Moschee",
+                  "text": "Az Eyüp-Sultan-Moschee az emdeni muszlimok imádságának helyszíne. A helyi közösség vallási és kulturális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        7.195435,
+                        53.368153
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "A Martin-Luther-Kirche egy jellegzetes evangélikus templom Emdenben. Az evangélikus közösség vallási életének központi helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        7.207399,
+                        53.369008
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "A Szent Mihály-templom egy katolikus templom Emden városában. Az épület istentiszteleteknek és lelki elmélyülésnek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        7.211952,
+                        53.368562
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Borssum",
+                  "text": "A borssumi református templom egy történelmi egyházi épület Emden Borssum negyedében. A regionális református egyházi hagyományok tanúja.",
+                  "category": "religious",
+                  "coords": [
+                        7.224666,
+                        53.343336
+                  ]
+            },
+            {
+                  "name": "Larrelter Kirche",
+                  "text": "A Larrelter Kirche egy jelentős középkori építmény Larrelt városrészben. Történelmi építészetéről és a régi falu központjában elfoglalt helyéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.150099,
+                        53.364969
+                  ]
+            },
+            {
+                  "name": "St.-Nikolaus-Kirche (Alte Kirche)",
+                  "text": "A Szent Miklós-templom Emden Borssum városrészének régi falusi temploma. A történelmi épület ma az evangélikus-református gyülekezet imaházaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        7.225081,
+                        53.33939
+                  ]
+            },
+            {
+                  "name": "Kesselschleuse Emden",
+                  "text": "Az emdeni Kesselschleuse egy egyedülálló keresztező zsilip, amely négy csatornát köt össze. Az európai vízépítés jelentős műszaki műemlékeként tartják számon.",
+                  "category": "landmark",
+                  "coords": [
+                        7.219086,
+                        53.366868
+                  ]
+            },
+            {
+                  "name": "Westmole",
+                  "text": "Az emdeni kikötő nyugati mólója a feltűnő piros-fehér világítótornyáról ismert. Jelzi a kikötő bejáratát, és az Ems torkolatának egyik jellegzetes tájékozódási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        7.175027,
+                        53.33442
+                  ]
+            },
+            {
+                  "name": "Ev.-ref. Kirche Wolthusen",
+                  "text": "A Wolthuser Kirche egy evangélikus-református imaház Wolthusen városrészben. A téglaépület a történelmi falukép jellegzetes vonása.",
+                  "category": "religious",
+                  "coords": [
+                        7.233459,
+                        53.370079
+                  ]
+            },
+            {
+                  "name": "Dampflok 043 903-4",
+                  "text": "A 043 903-4 gőzmozdony emlékműként áll az emdeni főpályaudvaron, emlékeztetve a gőzhajtás korszakára. Népszerű fotótéma a technika és a vasút kedvelői körében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.196618,
+                        53.368449
+                  ]
+            },
+            {
+                  "name": "Heuzwinger",
+                  "text": "A Heuzwinger a történelmi emdeni városfalak része, amelyek egykor a város védelmét szolgálták. Ma a park gondozott zöldfelületeket kínál a természetben való sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        7.2019,
+                        53.372529
+                  ]
+            },
+            {
+                  "name": "Rote Mühlenzwinger",
+                  "text": "A Rote Mühlenzwinger egy park az emdeni városfalon, amelyet egy történelmi szélmalomról neveztek el. A látogatók itt csendes ösvényeket és szép kilátást találnak a városárokra.",
+                  "category": "park",
+                  "coords": [
+                        7.217319,
+                        53.368276
+                  ]
+            },
+            {
+                  "name": "Meister-Geerds-Zwinger",
+                  "text": "A Meister-Geerds-Zwinger az emdeni városfalak kiterjedt parkjának egyik szakasza. Öreg fáival és vízfelületeivel kikapcsolódásra hívogat a város közepén.",
+                  "category": "park",
+                  "coords": [
+                        7.199176,
+                        53.370463
+                  ]
+            },
+            {
+                  "name": "Marienwehrster Zwinger",
+                  "text": "A Marienwehrster Zwinger az Emden városközpontját körülvevő zöld övezet része. A terület szabadidős tevékenységeknek és természetközeli élményeknek ad helyet történelmi környezetben.",
+                  "category": "park",
+                  "coords": [
+                        7.212896,
+                        53.372218
+                  ]
+            },
+            {
+                  "name": "Schwanenteich",
+                  "text": "A Schwanenteich egy festői park az emdeni városfalakon belül. A tó és a környező ösvények a természetbarátok és a sétálók népszerű találkozóhelyei.",
+                  "category": "park",
+                  "coords": [
+                        7.216832,
+                        53.365237
+                  ]
+            },
+            {
+                  "name": "Burgplatz",
+                  "text": "Az emdeni Burgplatz az egykori grófi vár helyszínére emlékeztet. Ma egy nyilvános zöldfelület, amely pihenésre hív a történelmi központban.",
+                  "category": "park",
+                  "coords": [
+                        7.200436,
+                        53.366318
+                  ]
+            },
+            {
+                  "name": "Albringwehrster Zwinger",
+                  "text": "Az Albringwehrster Zwinger az emdeni történelmi városfalak parkjához tartozik. Csendes pihenőhelyeket és túraútvonalakat kínál a csatorna mentén.",
+                  "category": "park",
+                  "coords": [
+                        7.204858,
+                        53.373877
+                  ]
+            },
+            {
+                  "name": "Gelbe-Mühlenzwinger",
+                  "text": "A Gelbe-Mühlenzwinger egy zöld terület az emdeni városfalon, tágas füves területekkel. Ideális hely a pihenni vágyók és a szabadidős sportolók számára a városban.",
+                  "category": "park",
+                  "coords": [
+                        7.215893,
+                        53.370501
+                  ]
+            },
+            {
+                  "name": "Vogelsangzwinger",
+                  "text": "A Vogelsangzwinger egy újabb vonzó zöldövezettel gazdagítja az emdeni városfalakat. A látogatók itt élvezhetik a természetet és felfedezhetik a védművek történelmi szerkezetét.",
+                  "category": "park",
+                  "coords": [
+                        7.208976,
+                        53.37395
+                  ]
+            },
+            {
+                  "name": "St. Walburga",
+                  "text": "A Szent Walburga-templom Emdenben található, amely istentiszteleteknek és lelki összejöveteleknek ad otthont. Az épület a város vallási életének része.",
+                  "category": "religious",
+                  "coords": [
+                        7.216246,
+                        53.376988
+                  ]
+            },
+            {
+                  "name": "Larrelter Mühle",
+                  "text": "A larrelti malom egy hagyományos szélmalom Emden-Larreltben. A történelmi építmény a városrész ismert jelképe és a régi kézművesség tanúja.",
+                  "category": "landmark",
+                  "coords": [
+                        7.148475,
+                        53.367171
+                  ]
+            },
+            {
+                  "name": "Ökowerk Emden",
+                  "text": "Az emdeni Ökowerk egy környezetvédelmi központ kiterjedt kerti és természetvédelmi területekkel. Oktatási programokat kínál a természetvédelem és a fenntartható kertészkedés témakörében.",
+                  "category": "park",
+                  "coords": [
+                        7.227895,
+                        53.336538
+                  ]
+            },
+            {
+                  "name": "Brückenpfeiler",
+                  "text": "Az emdeni hídpillérek a város egykori közlekedési útvonalainak történelmi maradványai. Ma romként állnak a városképben, emlékeztetve a múlt építészeti fejlődésére.",
+                  "category": "historical",
+                  "coords": [
+                        7.224984,
+                        53.367941
                   ]
             }
       ],
@@ -12550,6 +12982,222 @@ export const germanyCitiesV2: POI[] = [
                         7.201947,
                         53.374202
                   ]
+            },
+            {
+                  "name": "Festspielhaus am Wall",
+                  "text": "Festspielhaus am Wall este un centru cultural important din Emden. Acesta oferă un cadru modern pentru spectacole de teatru și diverse evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        7.203529,
+                        53.374777
+                  ]
+            },
+            {
+                  "name": "Eyüp-Sultan-Moschee",
+                  "text": "Moscheea Eyüp-Sultan este un loc de rugăciune pentru musulmanii din Emden. Aceasta servește ca centru religios și cultural pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        7.195435,
+                        53.368153
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "Biserica Martin Luther este un lăcaș de cult luteran proeminent din Emden. Este un loc central pentru serviciile religioase ale comunității evanghelice.",
+                  "category": "religious",
+                  "coords": [
+                        7.207399,
+                        53.369008
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Biserica Sfântul Mihail este o biserică catolică din orașul Emden. Clădirea oferă spațiu pentru slujbe religioase și reflecție spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        7.211952,
+                        53.368562
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Borssum",
+                  "text": "Biserica Reformată Borssum este o clădire istorică de biserică din cartierul Borssum din Emden. Este o mărturie a tradiției bisericești reformate regionale.",
+                  "category": "religious",
+                  "coords": [
+                        7.224666,
+                        53.343336
+                  ]
+            },
+            {
+                  "name": "Larrelter Kirche",
+                  "text": "Biserica Larrelter este o structură medievală importantă din cartierul Larrelt. Este cunoscută pentru arhitectura sa istorică și amplasarea sa în vechiul centru al localității.",
+                  "category": "religious",
+                  "coords": [
+                        7.150099,
+                        53.364969
+                  ]
+            },
+            {
+                  "name": "St.-Nikolaus-Kirche (Alte Kirche)",
+                  "text": "Biserica Sfântul Nicolae este vechea biserică a satului din cartierul Borssum din Emden. Clădirea istorică servește astăzi ca lăcaș de cult pentru comunitatea evanghelică-reformată.",
+                  "category": "religious",
+                  "coords": [
+                        7.225081,
+                        53.33939
+                  ]
+            },
+            {
+                  "name": "Kesselschleuse Emden",
+                  "text": "Kesselschleuse din Emden este o ecluză de intersecție unică, care conectează patru canale. Este considerată un monument tehnic important al artei hidrotehnice europene.",
+                  "category": "landmark",
+                  "coords": [
+                        7.219086,
+                        53.366868
+                  ]
+            },
+            {
+                  "name": "Westmole",
+                  "text": "Westmole din portul Emden este cunoscută pentru farul său roșu și alb proeminent. Aceasta marchează intrarea în port și este un punct de reper distinctiv la gura de vărsare a râului Ems.",
+                  "category": "landmark",
+                  "coords": [
+                        7.175027,
+                        53.33442
+                  ]
+            },
+            {
+                  "name": "Ev.-ref. Kirche Wolthusen",
+                  "text": "Biserica Wolthuser este un lăcaș de cult evanghelic-reformat din cartierul Wolthusen. Clădirea din cărămidă este o trăsătură caracteristică a peisajului istoric al localității.",
+                  "category": "religious",
+                  "coords": [
+                        7.233459,
+                        53.370079
+                  ]
+            },
+            {
+                  "name": "Dampflok 043 903-4",
+                  "text": "Locomotiva cu aburi 043 903-4 este un monument amplasat lângă gara centrală din Emden, amintind de era tracțiunii cu abur. Este un obiectiv popular pentru pasionații de tehnică și feroviare.",
+                  "category": "landmark",
+                  "coords": [
+                        7.196618,
+                        53.368449
+                  ]
+            },
+            {
+                  "name": "Heuzwinger",
+                  "text": "Heuzwinger face parte din vechile fortificații ale orașului Emden, care serveau odinioară la apărarea acestuia. Astăzi, parcul oferă spații verzi îngrijite pentru plimbări în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        7.2019,
+                        53.372529
+                  ]
+            },
+            {
+                  "name": "Rote Mühlenzwinger",
+                  "text": "Rote Mühlenzwinger este un parc situat pe fortificațiile din Emden, numit după o moară de vânt istorică. Vizitatorii găsesc aici poteci liniștite și o vedere frumoasă asupra șanțului orașului.",
+                  "category": "park",
+                  "coords": [
+                        7.217319,
+                        53.368276
+                  ]
+            },
+            {
+                  "name": "Meister-Geerds-Zwinger",
+                  "text": "Meister-Geerds-Zwinger este o secțiune a vastului peisaj de parcuri al fortificațiilor din Emden. Cu arborii săi bătrâni și suprafețele de apă, invită la relaxare în mijlocul orașului.",
+                  "category": "park",
+                  "coords": [
+                        7.199176,
+                        53.370463
+                  ]
+            },
+            {
+                  "name": "Marienwehrster Zwinger",
+                  "text": "Marienwehrster Zwinger face parte din centura verde care înconjoară centrul orașului Emden. Ansamblul oferă spațiu pentru activități de recreere și experiențe în natură într-un context istoric.",
+                  "category": "park",
+                  "coords": [
+                        7.212896,
+                        53.372218
+                  ]
+            },
+            {
+                  "name": "Schwanenteich",
+                  "text": "Schwanenteich este un parc pitoresc în cadrul fortificațiilor din Emden. Ochiul de apă și potecile din jur sunt un punct de întâlnire popular pentru iubitorii de natură și plimbăreți.",
+                  "category": "park",
+                  "coords": [
+                        7.216832,
+                        53.365237
+                  ]
+            },
+            {
+                  "name": "Burgplatz",
+                  "text": "Burgplatz din Emden amintește de locația fostului castel al conților. Astăzi este un spațiu verde public care invită la relaxare în centrul istoric.",
+                  "category": "park",
+                  "coords": [
+                        7.200436,
+                        53.366318
+                  ]
+            },
+            {
+                  "name": "Albringwehrster Zwinger",
+                  "text": "Albringwehrster Zwinger aparține peisajului de parcuri al fortificațiilor istorice din Emden. Oferă locuri liniștite de retragere și poteci de drumeție de-a lungul canalului.",
+                  "category": "park",
+                  "coords": [
+                        7.204858,
+                        53.373877
+                  ]
+            },
+            {
+                  "name": "Gelbe-Mühlenzwinger",
+                  "text": "Gelbe-Mühlenzwinger este un spațiu verde pe fortificațiile din Emden, cu suprafețe largi de gazon. Este un loc ideal pentru cei care caută relaxare și pentru sportivii amatori din oraș.",
+                  "category": "park",
+                  "coords": [
+                        7.215893,
+                        53.370501
+                  ]
+            },
+            {
+                  "name": "Vogelsangzwinger",
+                  "text": "Vogelsangzwinger îmbogățește fortificațiile din Emden cu o altă zonă verde atractivă. Vizitatorii se pot bucura aici de natură și pot explora structura istorică a fortificației.",
+                  "category": "park",
+                  "coords": [
+                        7.208976,
+                        53.37395
+                  ]
+            },
+            {
+                  "name": "St. Walburga",
+                  "text": "Sfânta Walburga este o biserică din Emden care oferă un loc pentru slujbe religioase și adunări spirituale. Clădirea face parte din viața religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        7.216246,
+                        53.376988
+                  ]
+            },
+            {
+                  "name": "Larrelter Mühle",
+                  "text": "Moara Larrelter este o moară de vânt tradițională din Emden-Larrelt. Construcția istorică este un punct de reper cunoscut al cartierului și o mărturie a vechiului meșteșug.",
+                  "category": "landmark",
+                  "coords": [
+                        7.148475,
+                        53.367171
+                  ]
+            },
+            {
+                  "name": "Ökowerk Emden",
+                  "text": "Ökowerk Emden este un centru ecologic cu grădini și zone naturale vaste. Acesta oferă programe educaționale pe teme precum protecția naturii și grădinăritul durabil.",
+                  "category": "park",
+                  "coords": [
+                        7.227895,
+                        53.336538
+                  ]
+            },
+            {
+                  "name": "Brückenpfeiler",
+                  "text": "Pilonii de pod din Emden sunt rămășițe istorice ale fostelor căi de comunicație din oraș. Astăzi stau ca ruine în peisajul urban și amintesc de dezvoltarea arhitecturală a vremurilor trecute.",
+                  "category": "historical",
+                  "coords": [
+                        7.224984,
+                        53.367941
+                  ]
             }
       ],
       "en": [
@@ -12703,6 +13351,222 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.201947,
                         53.374202
+                  ]
+            },
+            {
+                  "name": "Festspielhaus am Wall",
+                  "text": "The Festspielhaus am Wall is a significant cultural venue in Emden. It provides a modern setting for theatrical performances and various events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.203529,
+                        53.374777
+                  ]
+            },
+            {
+                  "name": "Eyüp-Sultan-Moschee",
+                  "text": "The Eyüp-Sultan Mosque is a place of prayer for Muslims in Emden. It serves as a religious and cultural center for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        7.195435,
+                        53.368153
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "The Martin Luther Church is a prominent Lutheran house of worship in Emden. It is a central location for the religious services of the Protestant community.",
+                  "category": "religious",
+                  "coords": [
+                        7.207399,
+                        53.369008
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "St. Michael is a Catholic church located within the city of Emden. The building provides space for religious services and spiritual reflection.",
+                  "category": "religious",
+                  "coords": [
+                        7.211952,
+                        53.368562
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Borssum",
+                  "text": "The Borssum Reformed Church is a historic church building in the Borssum district of Emden. It stands as a testament to the regional Reformed church tradition.",
+                  "category": "religious",
+                  "coords": [
+                        7.224666,
+                        53.343336
+                  ]
+            },
+            {
+                  "name": "Larrelter Kirche",
+                  "text": "The Larrelter Kirche is a significant medieval structure in the Larrelt district. It is known for its historical architecture and its location in the old village center.",
+                  "category": "religious",
+                  "coords": [
+                        7.150099,
+                        53.364969
+                  ]
+            },
+            {
+                  "name": "St.-Nikolaus-Kirche (Alte Kirche)",
+                  "text": "The St. Nicholas Church is the old village church of the Borssum district in Emden. The historic building now serves as a house of worship for the Evangelical Reformed congregation.",
+                  "category": "religious",
+                  "coords": [
+                        7.225081,
+                        53.33939
+                  ]
+            },
+            {
+                  "name": "Kesselschleuse Emden",
+                  "text": "The Kesselschleuse in Emden is a unique intersection lock that connects four canals. It is considered a significant technical monument of European hydraulic engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        7.219086,
+                        53.366868
+                  ]
+            },
+            {
+                  "name": "Westmole",
+                  "text": "The Westmole at Emden harbor is known for its prominent red and white lighthouse. It marks the entrance to the port and is a distinctive landmark at the Ems estuary.",
+                  "category": "landmark",
+                  "coords": [
+                        7.175027,
+                        53.33442
+                  ]
+            },
+            {
+                  "name": "Ev.-ref. Kirche Wolthusen",
+                  "text": "The Wolthusen Church is an Evangelical Reformed house of worship in the Wolthusen district. The brick building is a characteristic feature of the historical village landscape.",
+                  "category": "religious",
+                  "coords": [
+                        7.233459,
+                        53.370079
+                  ]
+            },
+            {
+                  "name": "Dampflok 043 903-4",
+                  "text": "The steam locomotive 043 903-4 stands as a monument at Emden main station, recalling the era of steam traction. It is a popular photo subject for technology and railway enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        7.196618,
+                        53.368449
+                  ]
+            },
+            {
+                  "name": "Heuzwinger",
+                  "text": "The Heuzwinger is part of the historic Emden city walls, which once served to defend the city. Today, the park offers well-kept green spaces for strolls in nature.",
+                  "category": "park",
+                  "coords": [
+                        7.2019,
+                        53.372529
+                  ]
+            },
+            {
+                  "name": "Rote Mühlenzwinger",
+                  "text": "The Rote Mühlenzwinger is a park area on the Emden city wall, named after a historical windmill. Visitors will find quiet paths and a beautiful view of the city moat here.",
+                  "category": "park",
+                  "coords": [
+                        7.217319,
+                        53.368276
+                  ]
+            },
+            {
+                  "name": "Meister-Geerds-Zwinger",
+                  "text": "The Meister-Geerds-Zwinger is a section of the extensive parkland of the Emden city fortifications. With its old trees and water areas, it invites relaxation in the middle of the city.",
+                  "category": "park",
+                  "coords": [
+                        7.199176,
+                        53.370463
+                  ]
+            },
+            {
+                  "name": "Marienwehrster Zwinger",
+                  "text": "The Marienwehrster Zwinger is part of the green belt surrounding the city center of Emden. The facility offers space for leisure activities and nature experiences in a historical context.",
+                  "category": "park",
+                  "coords": [
+                        7.212896,
+                        53.372218
+                  ]
+            },
+            {
+                  "name": "Schwanenteich",
+                  "text": "The Schwanenteich is a picturesque park area within the Emden city walls. The water body and the surrounding paths are a popular meeting point for nature lovers and strollers.",
+                  "category": "park",
+                  "coords": [
+                        7.216832,
+                        53.365237
+                  ]
+            },
+            {
+                  "name": "Burgplatz",
+                  "text": "The Burgplatz in Emden commemorates the site of the former count's castle. Today it is a public green space that invites visitors to linger in the historical center.",
+                  "category": "park",
+                  "coords": [
+                        7.200436,
+                        53.366318
+                  ]
+            },
+            {
+                  "name": "Albringwehrster Zwinger",
+                  "text": "The Albringwehrster Zwinger belongs to the parkland of the historic city fortifications in Emden. It offers quiet retreats and walking paths along the canal.",
+                  "category": "park",
+                  "coords": [
+                        7.204858,
+                        53.373877
+                  ]
+            },
+            {
+                  "name": "Gelbe-Mühlenzwinger",
+                  "text": "The Gelbe-Mühlenzwinger is a green area on the Emden city wall with wide grassy areas. It is an ideal place for those seeking relaxation and for recreational athletes in the city.",
+                  "category": "park",
+                  "coords": [
+                        7.215893,
+                        53.370501
+                  ]
+            },
+            {
+                  "name": "Vogelsangzwinger",
+                  "text": "The Vogelsangzwinger enriches the Emden city walls with another attractive green zone. Visitors can enjoy nature here and explore the historical structure of the fortification.",
+                  "category": "park",
+                  "coords": [
+                        7.208976,
+                        53.37395
+                  ]
+            },
+            {
+                  "name": "St. Walburga",
+                  "text": "St. Walburga is a church in Emden that provides a venue for religious services and spiritual gatherings. The building is part of the religious life in the city.",
+                  "category": "religious",
+                  "coords": [
+                        7.216246,
+                        53.376988
+                  ]
+            },
+            {
+                  "name": "Larrelter Mühle",
+                  "text": "The Larrelter Mühle is a traditional windmill in Emden-Larrelt. The historic structure is a well-known landmark of the district and a testament to old craftsmanship.",
+                  "category": "landmark",
+                  "coords": [
+                        7.148475,
+                        53.367171
+                  ]
+            },
+            {
+                  "name": "Ökowerk Emden",
+                  "text": "The Ökowerk Emden is an environmental center with extensive garden and nature areas. It offers educational programs on topics such as nature conservation and sustainable gardening.",
+                  "category": "park",
+                  "coords": [
+                        7.227895,
+                        53.336538
+                  ]
+            },
+            {
+                  "name": "Brückenpfeiler",
+                  "text": "The bridge pillars in Emden are historical remains of former transport routes in the city. Today they stand as ruins in the cityscape, recalling the structural development of past times.",
+                  "category": "historical",
+                  "coords": [
+                        7.224984,
+                        53.367941
                   ]
             }
       ]
@@ -12973,6 +13837,231 @@ export const germanyCitiesV2: POI[] = [
                         8.275443,
                         48.757416
                   ]
+            },
+            {
+                  "name": "Neues Schloss",
+                  "text": "Das Neue Schloss war einst die Residenz der Markgrafen von Baden. Es thront auf einer Anhöhe über der Stadt Baden-Baden.",
+                  "category": "castle",
+                  "coords": [
+                        8.241476,
+                        48.764444
+                  ]
+            },
+            {
+                  "name": "Jagdhaus Fremersberg/St. Hubertus",
+                  "text": "Das Jagdhaus Fremersberg ist ein historisches Gebäude mit einem Aussichtsturm. Es befindet sich in den Wäldern bei Baden-Baden.",
+                  "category": "castle",
+                  "coords": [
+                        8.196342,
+                        48.769152
+                  ]
+            },
+            {
+                  "name": "Alt-Eberstein",
+                  "text": "Alt-Eberstein ist die Ruine einer Spornburg auf dem Ebersteinberg. Von hier aus bietet sich ein herrlicher Blick über das Rheintal.",
+                  "category": "castle",
+                  "coords": [
+                        8.270615,
+                        48.783878
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Das Stadtmuseum präsentiert die Geschichte von Baden-Baden von den Anfängen bis zur Gegenwart. Es zeigt wertvolle Exponate zur Kur- und Bädergeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        8.237829,
+                        48.755071
+                  ]
+            },
+            {
+                  "name": "Fabergé-Museum",
+                  "text": "Das Fabergé Museum ist das weltweit erste Museum, das dem Lebenswerk von Peter Carl Fabergé gewidmet ist. Es beherbergt eine einzigartige Sammlung kostbarer Juwelen.",
+                  "category": "museum",
+                  "coords": [
+                        8.243389,
+                        48.762097
+                  ]
+            },
+            {
+                  "name": "Römische Badruinen",
+                  "text": "Diese archäologische Stätte zeigt die Überreste antiker römischer Badeanlagen. Sie zeugen von der frühen Badekultur in Baden-Baden.",
+                  "category": "historical",
+                  "coords": [
+                        8.243102,
+                        48.763004
+                  ]
+            },
+            {
+                  "name": "St. Bonifatius",
+                  "text": "St. Bonifatius ist eine katholische Pfarrkirche im Stadtteil Lichtental. Das Gebäude ist ein markantes religiöses Zentrum der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        8.260547,
+                        48.742655
+                  ]
+            },
+            {
+                  "name": "St.-Josef-Kirche",
+                  "text": "Die St.-Josef-Kirche ist ein modernes katholisches Gotteshaus in Baden-Baden. Sie dient der Gemeinde als Ort für Gebete und Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        8.247214,
+                        48.752232
+                  ]
+            },
+            {
+                  "name": "Bernharduskirche",
+                  "text": "Die Bernharduskirche ist eine katholische Kirche im neugotischen Stil. Sie wurde zu Ehren des heiligen Bernhard von Baden errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        8.22515,
+                        48.774082
+                  ]
+            },
+            {
+                  "name": "Battertfelsen beim Schloß Hohenbaden",
+                  "text": "Die Battertfelsen sind markante Porphyrfelsen und ein bekanntes Klettergebiet. Sie bieten beeindruckende Ausblicke und Wanderwege nahe der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        8.252917,
+                        48.776746
+                  ]
+            },
+            {
+                  "name": "Merkur",
+                  "text": "Der Merkur ist der Hausberg von Baden-Baden mit einem Aussichtsturm auf dem Gipfel. Er ist bequem mit der Merkurbergbahn erreichbar.",
+                  "category": "natural",
+                  "coords": [
+                        8.280255,
+                        48.764561
+                  ]
+            },
+            {
+                  "name": "Gönneranlage",
+                  "text": "Die Gönneranlage ist ein prächtiger Rosengarten und eine Parkanlage an der Lichtentaler Allee. Sie ist bekannt für ihre botanische Vielfalt und Brunnen.",
+                  "category": "park",
+                  "coords": [
+                        8.241428,
+                        48.75319
+                  ]
+            },
+            {
+                  "name": "Klostergut Fremersberg",
+                  "text": "Das Klostergut Fremersberg war einst ein bedeutendes Kloster in der Region. Heute ist es ein historisches Anwesen in idyllischer Lage.",
+                  "category": "religious",
+                  "coords": [
+                        8.195271,
+                        48.745645
+                  ]
+            },
+            {
+                  "name": "Klosterkirche Lichtenthal",
+                  "text": "Die Klosterkirche Lichtenthal gehört zum gleichnamigen Zisterzienserinnenkloster. Sie beherbergt wertvolle Kunstwerke und ist ein Ort der Stille.",
+                  "category": "religious",
+                  "coords": [
+                        8.256212,
+                        48.74526
+                  ]
+            },
+            {
+                  "name": "Brahmshaus",
+                  "text": "Das Brahmshaus ist die ehemalige Sommerresidenz des Komponisten Johannes Brahms. Es dient heute als Museum und Gedenkstätte.",
+                  "category": "museum",
+                  "coords": [
+                        8.261074,
+                        48.744529
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Die Lutherkirche ist ein evangelisches Gotteshaus im Herzen von Baden-Baden. Sie dient der Gemeinde als Ort des Gebets und der religiösen Zusammenkunft.",
+                  "category": "religious",
+                  "coords": [
+                        8.255792,
+                        48.747773
+                  ]
+            },
+            {
+                  "name": "Marienkapelle",
+                  "text": "Die Marienkapelle ist eine sakrale Stätte in Baden-Baden, die zur Andacht einlädt. Besucher finden hier einen ruhigen Ort für Besinnung und Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        8.259719,
+                        48.753028
+                  ]
+            },
+            {
+                  "name": "Evangelisch-lutherische St.-Johannis-Kirche",
+                  "text": "Die Evangelisch-lutherische St.-Johannis-Kirche ist ein markantes Kirchengebäude in Baden-Baden. Sie prägt das Stadtbild und bietet Raum für Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        8.2421,
+                        48.754621
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Die Pauluskirche in Baden-Baden ist ein Ort der christlichen Religionsausübung. Architektur und Atmosphäre laden zum Verweilen und zum Gottesdienstbesuch ein.",
+                  "category": "religious",
+                  "coords": [
+                        8.221031,
+                        48.771227
+                  ]
+            },
+            {
+                  "name": "Geroldsauer Mühle",
+                  "text": "Die Geroldsauer Mühle ist ein beliebtes Ausflugsziel in Baden-Baden mit regionaler Gastronomie. Sie ist ein idealer Ausgangspunkt für Wanderungen im Schwarzwald.",
+                  "category": "landmark",
+                  "coords": [
+                        8.254275,
+                        48.73494
+                  ]
+            },
+            {
+                  "name": "Sauersbosch, Pfrimmersbach- und Märzenbachtal",
+                  "text": "Dieses Naturschutzgebiet bei Baden-Baden bewahrt eine wertvolle Flora und Fauna. Spaziergänger können hier die unberührte Natur in den Bachtälern genießen.",
+                  "category": "natural",
+                  "coords": [
+                        8.279872,
+                        48.743984
+                  ]
+            },
+            {
+                  "name": "Fremersberg",
+                  "text": "Der Fremersberg ist ein markanter Gipfel in der Umgebung von Baden-Baden. Er bietet Aussichtspunkte und Wanderwege für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        8.202248,
+                        48.752653
+                  ]
+            },
+            {
+                  "name": "Battert",
+                  "text": "Der Battert ist ein bekannter Berggipfel bei Baden-Baden, der vor allem für seine Felsformationen berühmt ist. Er ist ein Ziel für Kletterer und Wanderer gleichermaßen.",
+                  "category": "natural",
+                  "coords": [
+                        8.25212,
+                        48.777858
+                  ]
+            },
+            {
+                  "name": "Hardberg",
+                  "text": "Der Hardberg erhebt sich als bewaldeter Gipfel über Baden-Baden. Er lädt zu erholsamen Wanderungen mit Blick auf die Kurstadt ein.",
+                  "category": "natural",
+                  "coords": [
+                        8.229962,
+                        48.782904
+                  ]
+            },
+            {
+                  "name": "Iberst",
+                  "text": "Der Iberst ist eine Erhebung in der Nähe von Baden-Baden. Der Gipfel ist durch Wanderwege erschlossen und bietet Naturerlebnisse abseits der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        8.225751,
+                        48.726274
+                  ]
             }
       ],
       "hu": [
@@ -13190,6 +14279,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.275443,
                         48.757416
+                  ]
+            },
+            {
+                  "name": "Neues Schloss",
+                  "text": "Az Új Kastély egykor a badeni őrgrófok rezidenciája volt. Baden-Baden városa felett, egy dombon magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        8.241476,
+                        48.764444
+                  ]
+            },
+            {
+                  "name": "Jagdhaus Fremersberg/St. Hubertus",
+                  "text": "A Fremersberg vadászház egy történelmi épület kilátótoronnyal. Baden-Baden melletti erdőkben található.",
+                  "category": "castle",
+                  "coords": [
+                        8.196342,
+                        48.769152
+                  ]
+            },
+            {
+                  "name": "Alt-Eberstein",
+                  "text": "Alt-Eberstein egy hegyfokon álló vár romja az Ebersteinberg dombon. Innen csodálatos kilátás nyílik a Rajna völgyére.",
+                  "category": "castle",
+                  "coords": [
+                        8.270615,
+                        48.783878
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "A Városi Múzeum bemutatja Baden-Baden történelmét a kezdetektől napjainkig. Értékes kiállítási tárgyakat vonultat fel a gyógyfürdők történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        8.237829,
+                        48.755071
+                  ]
+            },
+            {
+                  "name": "Fabergé-Museum",
+                  "text": "A Fabergé Múzeum a világ első olyan múzeuma, amelyet Peter Carl Fabergé életművének szenteltek. Értékes ékszerek egyedülálló gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        8.243389,
+                        48.762097
+                  ]
+            },
+            {
+                  "name": "Römische Badruinen",
+                  "text": "Ez a régészeti lelőhely az ókori római fürdők maradványait mutatja be. Baden-Baden korai fürdőkultúrájáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        8.243102,
+                        48.763004
+                  ]
+            },
+            {
+                  "name": "St. Bonifatius",
+                  "text": "A Szent Bonifác-templom egy katolikus plébániatemplom Lichtental városrészben. Az épület a közösség jelentős vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        8.260547,
+                        48.742655
+                  ]
+            },
+            {
+                  "name": "St.-Josef-Kirche",
+                  "text": "A Szent József-templom egy modern katolikus templom Baden-Badenben. Imádságok és gyülekezeti alkalmak helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        8.247214,
+                        48.752232
+                  ]
+            },
+            {
+                  "name": "Bernharduskirche",
+                  "text": "A Bernharduskirche egy neogótikus stílusú katolikus templom. Badeni Szent Bernát tiszteletére építették.",
+                  "category": "religious",
+                  "coords": [
+                        8.22515,
+                        48.774082
+                  ]
+            },
+            {
+                  "name": "Battertfelsen beim Schloß Hohenbaden",
+                  "text": "A Battert-sziklák jellegzetes porfirsziklák és ismert mászóterület. Lenyűgöző kilátást és túraútvonalakat kínálnak a város közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.252917,
+                        48.776746
+                  ]
+            },
+            {
+                  "name": "Merkur",
+                  "text": "A Merkur Baden-Baden házi hegye, csúcsán egy kilátótoronnyal. Kényelmesen elérhető a Merkur siklóval.",
+                  "category": "natural",
+                  "coords": [
+                        8.280255,
+                        48.764561
+                  ]
+            },
+            {
+                  "name": "Gönneranlage",
+                  "text": "A Gönneranlage egy pompás rózsakert és park a Lichtentaler Allee mentén. Botanikai sokszínűségéről és kútjairól ismert.",
+                  "category": "park",
+                  "coords": [
+                        8.241428,
+                        48.75319
+                  ]
+            },
+            {
+                  "name": "Klostergut Fremersberg",
+                  "text": "A Fremersberg kolostorbirtok egykor a régió jelentős kolostora volt. Ma egy történelmi ingatlan idilli környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        8.195271,
+                        48.745645
+                  ]
+            },
+            {
+                  "name": "Klosterkirche Lichtenthal",
+                  "text": "A Lichtenthal apátsági templom az azonos nevű ciszterci kolostorhoz tartozik. Értékes műalkotásoknak ad otthont és a csend helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        8.256212,
+                        48.74526
+                  ]
+            },
+            {
+                  "name": "Brahmshaus",
+                  "text": "A Brahms-ház Johannes Brahms zeneszerző egykori nyári rezidenciája. Ma múzeumként és emlékhelyként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        8.261074,
+                        48.744529
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "A Lutherkirche egy evangélikus templom Baden-Baden szívében. A közösség számára az imádság és a vallási összejövetelek helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        8.255792,
+                        48.747773
+                  ]
+            },
+            {
+                  "name": "Marienkapelle",
+                  "text": "A Marienkapelle egy szakrális hely Baden-Badenben, amely áhítatra hívja a látogatókat. A vendégek itt csendes helyet találnak az elmélkedéshez és az imádsághoz.",
+                  "category": "religious",
+                  "coords": [
+                        8.259719,
+                        48.753028
+                  ]
+            },
+            {
+                  "name": "Evangelisch-lutherische St.-Johannis-Kirche",
+                  "text": "Az Evangelisch-lutherische St.-Johannis-Kirche egy jellegzetes templomépület Baden-Badenben. Meghatározza a városképet, és helyet biztosít az istentiszteleteknek.",
+                  "category": "religious",
+                  "coords": [
+                        8.2421,
+                        48.754621
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "A baden-badeni Pauluskirche a keresztény vallásgyakorlás egyik helyszíne. Építészete és hangulata megállásra és istentiszteleten való résvételre hív.",
+                  "category": "religious",
+                  "coords": [
+                        8.221031,
+                        48.771227
+                  ]
+            },
+            {
+                  "name": "Geroldsauer Mühle",
+                  "text": "A Geroldsauer Mühle népszerű kirándulóhely Baden-Badenben, regionális gasztronómiával. Ideális kiindulópont a fekete-erdei túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.254275,
+                        48.73494
+                  ]
+            },
+            {
+                  "name": "Sauersbosch, Pfrimmersbach- und Märzenbachtal",
+                  "text": "Ez a Baden-Baden melletti természetvédelmi terület értékes növény- és állatvilágot őriz. A sétálók itt élvezhetik az érintetlen természetet a patakvölgyekben.",
+                  "category": "natural",
+                  "coords": [
+                        8.279872,
+                        48.743984
+                  ]
+            },
+            {
+                  "name": "Fremersberg",
+                  "text": "A Fremersberg egy jellegzetes csúcs Baden-Baden környékén. Kilátópontokat és túraútvonalakat kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        8.202248,
+                        48.752653
+                  ]
+            },
+            {
+                  "name": "Battert",
+                  "text": "A Battert egy ismert hegycsúcs Baden-Baden közelében, amely elsősorban sziklaformációiról híres. A sziklamászók és a túrázók körében egyaránt népszerű célpont.",
+                  "category": "natural",
+                  "coords": [
+                        8.25212,
+                        48.777858
+                  ]
+            },
+            {
+                  "name": "Hardberg",
+                  "text": "A Hardberg erdős csúcsként magasodik Baden-Baden fölé. Pihentető túrákra hív, kilátással a fürdővárosra.",
+                  "category": "natural",
+                  "coords": [
+                        8.229962,
+                        48.782904
+                  ]
+            },
+            {
+                  "name": "Iberst",
+                  "text": "Az Iberst egy magaslat Baden-Baden közelében. A csúcs túraútvonalakon keresztül érhető el, és a várostól távol kínál természeti élményeket.",
+                  "category": "natural",
+                  "coords": [
+                        8.225751,
+                        48.726274
                   ]
             }
       ],
@@ -13409,6 +14723,231 @@ export const germanyCitiesV2: POI[] = [
                         8.275443,
                         48.757416
                   ]
+            },
+            {
+                  "name": "Neues Schloss",
+                  "text": "Castelul Nou a fost cândva reședința margrafilor de Baden. Acesta domină orașul Baden-Baden de pe o colină.",
+                  "category": "castle",
+                  "coords": [
+                        8.241476,
+                        48.764444
+                  ]
+            },
+            {
+                  "name": "Jagdhaus Fremersberg/St. Hubertus",
+                  "text": "Casa de vânătoare Fremersberg este o clădire istorică cu un turn de belvedere. Se află în pădurile de lângă Baden-Baden.",
+                  "category": "castle",
+                  "coords": [
+                        8.196342,
+                        48.769152
+                  ]
+            },
+            {
+                  "name": "Alt-Eberstein",
+                  "text": "Alt-Eberstein este ruina unui castel medieval situat pe dealul Ebersteinberg. De aici se oferă o vedere splendidă asupra văii Rinului.",
+                  "category": "castle",
+                  "coords": [
+                        8.270615,
+                        48.783878
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Muzeul Orașului prezintă istoria orașului Baden-Baden de la începuturi până în prezent. Expune piese valoroase despre istoria băilor și a tratamentelor balneare.",
+                  "category": "museum",
+                  "coords": [
+                        8.237829,
+                        48.755071
+                  ]
+            },
+            {
+                  "name": "Fabergé-Museum",
+                  "text": "Muzeul Fabergé este primul muzeu din lume dedicat operei lui Peter Carl Fabergé. Găzduiește o colecție unică de bijuterii prețioase.",
+                  "category": "museum",
+                  "coords": [
+                        8.243389,
+                        48.762097
+                  ]
+            },
+            {
+                  "name": "Römische Badruinen",
+                  "text": "Acest sit arheologic prezintă vestigiile unor băi romane antice. Acestea stau mărturie pentru cultura timpurie a băilor din Baden-Baden.",
+                  "category": "historical",
+                  "coords": [
+                        8.243102,
+                        48.763004
+                  ]
+            },
+            {
+                  "name": "St. Bonifatius",
+                  "text": "Sfântul Bonifaciu este o biserică parohială catolică din cartierul Lichtental. Clădirea este un centru religios proeminent al comunității.",
+                  "category": "religious",
+                  "coords": [
+                        8.260547,
+                        48.742655
+                  ]
+            },
+            {
+                  "name": "St.-Josef-Kirche",
+                  "text": "Biserica Sfântul Iosif este un lăcaș de cult catolic modern din Baden-Baden. Servește comunității ca loc de rugăciune și adunare.",
+                  "category": "religious",
+                  "coords": [
+                        8.247214,
+                        48.752232
+                  ]
+            },
+            {
+                  "name": "Bernharduskirche",
+                  "text": "Biserica Bernhardus este o biserică catolică în stil neogotic. A fost construită în onoarea Sfântului Bernhard de Baden.",
+                  "category": "religious",
+                  "coords": [
+                        8.22515,
+                        48.774082
+                  ]
+            },
+            {
+                  "name": "Battertfelsen beim Schloß Hohenbaden",
+                  "text": "Stâncile Battert sunt formațiuni de porfir proeminente și o zonă cunoscută pentru cățărări. Oferă vederi impresionante și trasee de drumeție lângă oraș.",
+                  "category": "natural",
+                  "coords": [
+                        8.252917,
+                        48.776746
+                  ]
+            },
+            {
+                  "name": "Merkur",
+                  "text": "Merkur este muntele local al orașului Baden-Baden, având un turn de observare pe vârf. Este ușor accesibil cu telecabina Merkur.",
+                  "category": "natural",
+                  "coords": [
+                        8.280255,
+                        48.764561
+                  ]
+            },
+            {
+                  "name": "Gönneranlage",
+                  "text": "Gönneranlage este o grădină de trandafiri splendidă și un parc situat pe Lichtentaler Allee. Este cunoscută pentru diversitatea botanică și fântânile sale.",
+                  "category": "park",
+                  "coords": [
+                        8.241428,
+                        48.75319
+                  ]
+            },
+            {
+                  "name": "Klostergut Fremersberg",
+                  "text": "Domeniul mănăstiresc Fremersberg a fost cândva o mănăstire importantă în regiune. Astăzi este o proprietate istorică situată într-un cadru idilic.",
+                  "category": "religious",
+                  "coords": [
+                        8.195271,
+                        48.745645
+                  ]
+            },
+            {
+                  "name": "Klosterkirche Lichtenthal",
+                  "text": "Biserica mănăstirii Lichtenthal aparține mănăstirii cisterciene cu același nume. Adăpostește opere de artă valoroase și este un loc de liniște.",
+                  "category": "religious",
+                  "coords": [
+                        8.256212,
+                        48.74526
+                  ]
+            },
+            {
+                  "name": "Brahmshaus",
+                  "text": "Casa Brahms este fosta reședință de vară a compozitorului Johannes Brahms. Astăzi servește drept muzeu și monument memorial.",
+                  "category": "museum",
+                  "coords": [
+                        8.261074,
+                        48.744529
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Lutherkirche este o biserică evanghelică situată în inima orașului Baden-Baden. Aceasta servește comunității ca loc de rugăciune și adunare religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        8.255792,
+                        48.747773
+                  ]
+            },
+            {
+                  "name": "Marienkapelle",
+                  "text": "Marienkapelle este un lăcaș sacru din Baden-Baden care invită la meditație. Vizitatorii găsesc aici un loc liniștit pentru reflecție și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        8.259719,
+                        48.753028
+                  ]
+            },
+            {
+                  "name": "Evangelisch-lutherische St.-Johannis-Kirche",
+                  "text": "Evangelisch-lutherische St.-Johannis-Kirche este o clădire bisericească proeminentă din Baden-Baden. Aceasta marchează peisajul urban și oferă spațiu pentru servicii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        8.2421,
+                        48.754621
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Pauluskirche din Baden-Baden este un loc de practică religioasă creștină. Arhitectura și atmosfera sa invită la popas și la participarea la slujbe.",
+                  "category": "religious",
+                  "coords": [
+                        8.221031,
+                        48.771227
+                  ]
+            },
+            {
+                  "name": "Geroldsauer Mühle",
+                  "text": "Geroldsauer Mühle este o destinație populară de excursie în Baden-Baden, oferind gastronomie regională. Este un punct de plecare ideal pentru drumeții în Pădurea Neagră.",
+                  "category": "landmark",
+                  "coords": [
+                        8.254275,
+                        48.73494
+                  ]
+            },
+            {
+                  "name": "Sauersbosch, Pfrimmersbach- und Märzenbachtal",
+                  "text": "Această rezervație naturală de lângă Baden-Baden conservă o floră și o faună valoroasă. Plimbăreții se pot bucura aici de natura neatinsă din văile pârâielor.",
+                  "category": "natural",
+                  "coords": [
+                        8.279872,
+                        48.743984
+                  ]
+            },
+            {
+                  "name": "Fremersberg",
+                  "text": "Fremersberg este un vârf proeminent în împrejurimile orașului Baden-Baden. Acesta oferă puncte de belvedere și trasee de drumeție pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.202248,
+                        48.752653
+                  ]
+            },
+            {
+                  "name": "Battert",
+                  "text": "Battert este un vârf muntos cunoscut de lângă Baden-Baden, faimos în special pentru formațiunile sale stâncoase. Este o destinație atât pentru alpiniști, cât și pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        8.25212,
+                        48.777858
+                  ]
+            },
+            {
+                  "name": "Hardberg",
+                  "text": "Hardberg se ridică ca un vârf împădurit deasupra orașului Baden-Baden. Acesta invită la drumeții relaxante cu vedere spre orașul balnear.",
+                  "category": "natural",
+                  "coords": [
+                        8.229962,
+                        48.782904
+                  ]
+            },
+            {
+                  "name": "Iberst",
+                  "text": "Iberst este o colină în apropiere de Baden-Baden. Vârful este accesibil prin trasee de drumeție și oferă experiențe naturale departe de oraș.",
+                  "category": "natural",
+                  "coords": [
+                        8.225751,
+                        48.726274
+                  ]
             }
       ],
       "en": [
@@ -13626,6 +15165,231 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.275443,
                         48.757416
+                  ]
+            },
+            {
+                  "name": "Neues Schloss",
+                  "text": "The New Palace was once the residence of the Margraves of Baden. It perches on a hill overlooking the city of Baden-Baden.",
+                  "category": "castle",
+                  "coords": [
+                        8.241476,
+                        48.764444
+                  ]
+            },
+            {
+                  "name": "Jagdhaus Fremersberg/St. Hubertus",
+                  "text": "The Jagdhaus Fremersberg is a historic building with an observation tower. It is located in the forests near Baden-Baden.",
+                  "category": "castle",
+                  "coords": [
+                        8.196342,
+                        48.769152
+                  ]
+            },
+            {
+                  "name": "Alt-Eberstein",
+                  "text": "Alt-Eberstein is the ruin of a medieval castle on the Ebersteinberg hill. From here, there is a magnificent view over the Rhine Valley.",
+                  "category": "castle",
+                  "coords": [
+                        8.270615,
+                        48.783878
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "The City Museum presents the history of Baden-Baden from its beginnings to the present. It shows valuable exhibits on the spa and bathing history.",
+                  "category": "museum",
+                  "coords": [
+                        8.237829,
+                        48.755071
+                  ]
+            },
+            {
+                  "name": "Fabergé-Museum",
+                  "text": "The Fabergé Museum is the world's first museum dedicated to the life's work of Peter Carl Fabergé. It houses a unique collection of precious jewels.",
+                  "category": "museum",
+                  "coords": [
+                        8.243389,
+                        48.762097
+                  ]
+            },
+            {
+                  "name": "Römische Badruinen",
+                  "text": "This archaeological site displays the remains of ancient Roman bathing facilities. They testify to the early bathing culture in Baden-Baden.",
+                  "category": "historical",
+                  "coords": [
+                        8.243102,
+                        48.763004
+                  ]
+            },
+            {
+                  "name": "St. Bonifatius",
+                  "text": "Saint Boniface is a Catholic parish church in the Lichtental district. The building is a prominent religious center of the community.",
+                  "category": "religious",
+                  "coords": [
+                        8.260547,
+                        48.742655
+                  ]
+            },
+            {
+                  "name": "St.-Josef-Kirche",
+                  "text": "Saint Joseph's Church is a modern Catholic place of worship in Baden-Baden. It serves the community as a place for prayers and gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        8.247214,
+                        48.752232
+                  ]
+            },
+            {
+                  "name": "Bernharduskirche",
+                  "text": "The Bernhardus Church is a Catholic church in neo-Gothic style. It was built in honor of Saint Bernhard of Baden.",
+                  "category": "religious",
+                  "coords": [
+                        8.22515,
+                        48.774082
+                  ]
+            },
+            {
+                  "name": "Battertfelsen beim Schloß Hohenbaden",
+                  "text": "The Battert Rocks are prominent porphyry rocks and a well-known climbing area. They offer impressive views and hiking trails near the city.",
+                  "category": "natural",
+                  "coords": [
+                        8.252917,
+                        48.776746
+                  ]
+            },
+            {
+                  "name": "Merkur",
+                  "text": "The Merkur is the local mountain of Baden-Baden with an observation tower on the summit. It is easily accessible via the Merkur funicular.",
+                  "category": "natural",
+                  "coords": [
+                        8.280255,
+                        48.764561
+                  ]
+            },
+            {
+                  "name": "Gönneranlage",
+                  "text": "The Gönneranlage is a magnificent rose garden and park on the Lichtentaler Allee. It is known for its botanical diversity and fountains.",
+                  "category": "park",
+                  "coords": [
+                        8.241428,
+                        48.75319
+                  ]
+            },
+            {
+                  "name": "Klostergut Fremersberg",
+                  "text": "The Fremersberg monastery estate was once a significant monastery in the region. Today it is a historic estate in an idyllic location.",
+                  "category": "religious",
+                  "coords": [
+                        8.195271,
+                        48.745645
+                  ]
+            },
+            {
+                  "name": "Klosterkirche Lichtenthal",
+                  "text": "The Lichtenthal Abbey Church belongs to the Cistercian monastery of the same name. It houses valuable artworks and is a place of silence.",
+                  "category": "religious",
+                  "coords": [
+                        8.256212,
+                        48.74526
+                  ]
+            },
+            {
+                  "name": "Brahmshaus",
+                  "text": "The Brahms House is the former summer residence of the composer Johannes Brahms. It now serves as a museum and memorial.",
+                  "category": "museum",
+                  "coords": [
+                        8.261074,
+                        48.744529
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "The Lutherkirche is a Protestant church located in the heart of Baden-Baden. It serves the community as a place of prayer and religious gathering.",
+                  "category": "religious",
+                  "coords": [
+                        8.255792,
+                        48.747773
+                  ]
+            },
+            {
+                  "name": "Marienkapelle",
+                  "text": "The Marienkapelle is a sacred site in Baden-Baden that invites visitors to devotion. Guests will find a quiet place here for reflection and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        8.259719,
+                        48.753028
+                  ]
+            },
+            {
+                  "name": "Evangelisch-lutherische St.-Johannis-Kirche",
+                  "text": "The Evangelisch-lutherische St.-Johannis-Kirche is a prominent church building in Baden-Baden. It shapes the cityscape and offers space for religious services.",
+                  "category": "religious",
+                  "coords": [
+                        8.2421,
+                        48.754621
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "The Pauluskirche in Baden-Baden is a place of Christian religious practice. Its architecture and atmosphere invite visitors to stay and attend services.",
+                  "category": "religious",
+                  "coords": [
+                        8.221031,
+                        48.771227
+                  ]
+            },
+            {
+                  "name": "Geroldsauer Mühle",
+                  "text": "The Geroldsauer Mühle is a popular excursion destination in Baden-Baden featuring regional gastronomy. It is an ideal starting point for hikes in the Black Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        8.254275,
+                        48.73494
+                  ]
+            },
+            {
+                  "name": "Sauersbosch, Pfrimmersbach- und Märzenbachtal",
+                  "text": "This nature reserve near Baden-Baden preserves valuable flora and fauna. Walkers can enjoy the untouched nature in the stream valleys here.",
+                  "category": "natural",
+                  "coords": [
+                        8.279872,
+                        48.743984
+                  ]
+            },
+            {
+                  "name": "Fremersberg",
+                  "text": "The Fremersberg is a prominent peak in the surroundings of Baden-Baden. It offers viewpoints and hiking trails for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        8.202248,
+                        48.752653
+                  ]
+            },
+            {
+                  "name": "Battert",
+                  "text": "The Battert is a well-known mountain peak near Baden-Baden, famous primarily for its rock formations. It is a destination for both climbers and hikers.",
+                  "category": "natural",
+                  "coords": [
+                        8.25212,
+                        48.777858
+                  ]
+            },
+            {
+                  "name": "Hardberg",
+                  "text": "The Hardberg rises as a forested peak above Baden-Baden. It invites visitors to relaxing hikes with views of the spa town.",
+                  "category": "natural",
+                  "coords": [
+                        8.229962,
+                        48.782904
+                  ]
+            },
+            {
+                  "name": "Iberst",
+                  "text": "The Iberst is an elevation near Baden-Baden. The peak is accessible via hiking trails and offers nature experiences away from the city.",
+                  "category": "natural",
+                  "coords": [
+                        8.225751,
+                        48.726274
                   ]
             }
       ]

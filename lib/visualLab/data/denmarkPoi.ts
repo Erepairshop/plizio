@@ -4303,6 +4303,15 @@ export const denmarkRegions: POI[] = [
                         10.382492,
                         55.406978
                   ]
+            },
+            {
+                  "name": "Thriges Kraftcentral",
+                  "text": "Thriges Kraftcentral in Odense ist ein bedeutendes Industriedenkmal. Es erinnert an die industrielle Entwicklung der Stadt und ist heute ein interessantes technisches Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388375,
+                        55.406345
+                  ]
             }
       ],
       "hu": [
@@ -4880,6 +4889,15 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.382492,
                         55.406978
+                  ]
+            },
+            {
+                  "name": "Thriges Kraftcentral",
+                  "text": "A Thriges Kraftcentral Odense-ben jelentős ipari műemlék. A város ipari fejlődésére emlékeztet, és ma érdekes műszaki mérföldkő.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388375,
+                        55.406345
                   ]
             }
       ],
@@ -5459,6 +5477,15 @@ export const denmarkRegions: POI[] = [
                         10.382492,
                         55.406978
                   ]
+            },
+            {
+                  "name": "Thriges Kraftcentral",
+                  "text": "Thriges Kraftcentral din Odense este un monument industrial important. Acesta amintește de dezvoltarea industrială a orașului și este astăzi un reper tehnic interesant.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388375,
+                        55.406345
+                  ]
             }
       ],
       "en": [
@@ -6036,6 +6063,15 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.382492,
                         55.406978
+                  ]
+            },
+            {
+                  "name": "Thriges Kraftcentral",
+                  "text": "Thriges Kraftcentral in Odense is a significant industrial monument. It recalls the city's industrial development and is today an interesting technical landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        10.388375,
+                        55.406345
                   ]
             }
       ]
@@ -9616,6 +9652,231 @@ export const denmarkCities: POI[] = [
                         8.414961,
                         55.483315
                   ]
+            },
+            {
+                  "name": "Esbjerg Kunstmuseum",
+                  "text": "Das Esbjerg Kunstmuseum präsentiert eine bedeutende Sammlung moderner und zeitgenössischer Kunst in der Hafenstadt Esbjerg. Besucher können wechselnde Ausstellungen und Werke namhafter dänischer Künstler in den Galerieräumen erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        8.450574,
+                        55.46424
+                  ]
+            },
+            {
+                  "name": "Esbjerg Spejdermuseum",
+                  "text": "Das Esbjerg Spejdermuseum dokumentiert die Geschichte der Pfadfinderbewegung in der Region und stellt historische Uniformen und Ausrüstungsgegenstände aus. Es bietet interessante Einblicke in die Traditionen und Aktivitäten der örtlichen Pfadfindergruppen.",
+                  "category": "museum",
+                  "coords": [
+                        8.450636,
+                        55.482957
+                  ]
+            },
+            {
+                  "name": "Esbjerg Museum",
+                  "text": "Das Esbjerg Museum beleuchtet die Stadtgeschichte von den Anfängen bis zur Gegenwart mit Schwerpunkt auf der Entwicklung der Hafenstadt. Die Ausstellungen umfassen archäologische Funde und Exponate zum täglichen Leben vergangener Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        8.453534,
+                        55.469337
+                  ]
+            },
+            {
+                  "name": "Bogtrykmuseet i Esbjerg",
+                  "text": "Das Bogtrykmuseet i Esbjerg ist der Geschichte des Buchdrucks gewidmet und zeigt historische Druckmaschinen und Werkzeuge. Besucher erfahren hier mehr über das traditionelle Handwerk der Schriftsetzer und Drucker in Esbjerg.",
+                  "category": "museum",
+                  "coords": [
+                        8.455789,
+                        55.464711
+                  ]
+            },
+            {
+                  "name": "Fischerei und Seefahrtmuseum",
+                  "text": "Das Fischerei- und Seefahrtsmuseum in Esbjerg bietet faszinierende Einblicke in die dänische Meeresbiologie und die Geschichte der Schifffahrt. Besonders beliebt sind das Robbarium und die großen Aquarien, die das Leben in der Nordsee zeigen.",
+                  "category": "museum",
+                  "coords": [
+                        8.410751,
+                        55.490125
+                  ]
+            },
+            {
+                  "name": "Teaterhuset",
+                  "text": "Das Teaterhuset in Esbjerg ist ein wichtiger Veranstaltungsort für darstellende Künste und beherbergt lokale Theatergruppen. Die Bühne bietet ein abwechslungsreiches Programm aus Schauspiel, Konzerten und kulturellen Events in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        8.453698,
+                        55.465292
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "Die Vor Frelsers Kirke ist eine markante Kirche in Esbjerg, die durch ihre Architektur und die zentrale Lage im Stadtbild auffällt. Im Inneren finden regelmäßig Gottesdienste und kirchenmusikalische Veranstaltungen für die Gemeinde statt.",
+                  "category": "religious",
+                  "coords": [
+                        8.448954,
+                        55.467557
+                  ]
+            },
+            {
+                  "name": "Jerne Kirke",
+                  "text": "Die Jerne Kirke ist ein historisches Gotteshaus in Esbjerg, das für seine traditionelle dänische Kirchenarchitektur bekannt ist. Die Kirche liegt inmitten eines ruhigen Friedhofs und dient als spiritueller Mittelpunkt des umliegenden Stadtteils.",
+                  "category": "religious",
+                  "coords": [
+                        8.482038,
+                        55.478337
+                  ]
+            },
+            {
+                  "name": "Zions Kirke",
+                  "text": "Die Zions Kirke in Esbjerg zeichnet sich durch ihren imposanten Backsteinbau und den hohen Kirchturm aus, der weithin sichtbar ist. Besucher können die sakrale Kunst im Innenraum bewundern oder an den wöchentlichen Gemeindegottesdiensten teilnehmen.",
+                  "category": "religious",
+                  "coords": [
+                        8.444077,
+                        55.471548
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "Die Sankt Nikolaj Kirke ist eine katholische Kirche in Esbjerg, die für ihre moderne Gestaltung und die einladende Atmosphäre bekannt ist. Das Gotteshaus dient der örtlichen Gemeinde als zentraler Ort für Gebete, Messen und religiöse Feste.",
+                  "category": "religious",
+                  "coords": [
+                        8.450085,
+                        55.47046
+                  ]
+            },
+            {
+                  "name": "Treenighedskirken",
+                  "text": "Die Treenighedskirken in Esbjerg ist eine moderne Kirche, die durch ihre außergewöhnliche geometrische Form und Lichtführung besticht. Sie ist ein bedeutendes Beispiel für zeitgenössische Sakralarchitektur in Dänemark und wird für Gottesdienste genutzt.",
+                  "category": "religious",
+                  "coords": [
+                        8.442512,
+                        55.477794
+                  ]
+            },
+            {
+                  "name": "Horns Rev",
+                  "text": "Das Schiff Horns Rev ist ein ehemaliges Feuerschiff, das heute im Hafen von Esbjerg als Museumsschiff besichtigt werden kann. Es bietet Einblicke in das Leben der Besatzung und die wichtige Funktion der schwimmenden Leuchtfeuer für die Seefahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.445774,
+                        55.463078
+                  ]
+            },
+            {
+                  "name": "I.C. Møllerparken",
+                  "text": "Der I.C. Møllerparken ist eine öffentliche Parkanlage in Esbjerg, die nach einem lokalen Industriellen benannt wurde und zur Erholung einlädt. Die Grünfläche bietet Spazierwege und Plätze zum Entspannen inmitten der städtischen Umgebung.",
+                  "category": "park",
+                  "coords": [
+                        8.449098,
+                        55.468765
+                  ]
+            },
+            {
+                  "name": "Esbjerg Rådhus",
+                  "text": "Das Esbjerg Rådhus ist der Sitz der Stadtverwaltung und ein markantes Gebäude im Zentrum der Hafenstadt. Es fungiert als administratives Herz von Esbjerg und ist für seine funktionale Architektur bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        8.452618,
+                        55.472487
+                  ]
+            },
+            {
+                  "name": "Jakobskirken",
+                  "text": "Die Jakobskirken in Esbjerg ist ein moderner Kirchenbau, der als Ort der Besinnung und für religiöse Zeremonien dient. Die schlichte Gestaltung des Innenraums schafft eine ruhige Atmosphäre für die Gemeindemitglieder.",
+                  "category": "religious",
+                  "coords": [
+                        8.461523,
+                        55.479189
+                  ]
+            },
+            {
+                  "name": "Jesu Kristi Kirke af Sidste Dages Hellige",
+                  "text": "Diese Kirche in Esbjerg gehört zur Gemeinschaft der Heiligen der Letzten Tage und bietet einen Raum für Gottesdienste und Gemeindeaktivitäten. Besucher können das modern gestaltete Gebäude besichtigen, das als lokales religiöses Zentrum fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        8.453211,
+                        55.49264
+                  ]
+            },
+            {
+                  "name": "Sejlet",
+                  "text": "Sejlet ist ein markanter Turm in Esbjerg, dessen Architektur an ein Segel erinnert und das moderne Stadtbild bereichert. Er dient als weithin sichtbares Wahrzeichen in der Nähe des Hafens und bietet eine interessante architektonische Perspektive.",
+                  "category": "tower",
+                  "coords": [
+                        8.411271,
+                        55.482826
+                  ]
+            },
+            {
+                  "name": "Strandbyparken",
+                  "text": "Der Strandbyparken ist eine weitläufige Parkanlage in Esbjerg, die Besuchern grüne Wiesen und Wege für Spaziergänge am Rande der Stadt bietet. Der Park ist ein beliebter Ort für Freizeitaktivitäten im Freien und zum Entspannen in der Natur.",
+                  "category": "park",
+                  "coords": [
+                        8.441537,
+                        55.472063
+                  ]
+            },
+            {
+                  "name": "Lergravsparken",
+                  "text": "Der Lergravsparken in Esbjerg ist eine grüne Oase, die aus ehemaligen Tongruben entstanden ist und heute Erholung für Anwohner und Besucher bietet. Die Parklandschaft zeichnet sich durch kleine Seen und abwechslungsreiche Spazierwege aus.",
+                  "category": "park",
+                  "coords": [
+                        8.468942,
+                        55.464686
+                  ]
+            },
+            {
+                  "name": "Remiseparken",
+                  "text": "Der Remiseparken ist eine öffentliche Grünanlage in Esbjerg, die Raum für Sport, Spiel und Entspannung im Freien bietet. Die Anlage ist ein wichtiger Treffpunkt für die Nachbarschaft und lädt zu Spaziergängen in gepflegter Umgebung ein.",
+                  "category": "park",
+                  "coords": [
+                        8.465388,
+                        55.475478
+                  ]
+            },
+            {
+                  "name": "Birkedalsparken",
+                  "text": "Der Birkedalsparken in Esbjerg ist ein ruhiger Stadtpark, der sich ideal für kurze Ausflüge ins Grüne und Spaziergänge eignet. Er bietet gepflegte Rasenflächen und Baumbestände, die eine angenehme Atmosphäre zum Verweilen schaffen.",
+                  "category": "park",
+                  "coords": [
+                        8.457689,
+                        55.476214
+                  ]
+            },
+            {
+                  "name": "Borgmesterhaven",
+                  "text": "Die Borgmesterhaven ist eine parkähnliche Gartenanlage in Esbjerg, die durch ihre Blumenbeete und die ruhige Lage besticht. Besucher finden hier einen friedlichen Ort für eine Pause während eines Stadtrundgangs durch Esbjerg.",
+                  "category": "park",
+                  "coords": [
+                        8.454709,
+                        55.47227
+                  ]
+            },
+            {
+                  "name": "Esbjerg Havn - Besøgscenter",
+                  "text": "Das Besucherzentrum am Hafen von Esbjerg informiert über die Geschichte und die wirtschaftliche Bedeutung eines der größten Häfen Dänemarks. Durch Ausstellungen und Informationen erhalten Gäste Einblicke in den Schiffsverkehr und die Offshore-Industrie.",
+                  "category": "museum",
+                  "coords": [
+                        8.447216,
+                        55.463239
+                  ]
+            },
+            {
+                  "name": "Sneglehuset / Art by Signe Klinkert",
+                  "text": "Das Sneglehuset beherbergt die Galerie der Künstlerin Signe Klinkert und zeigt eine Auswahl ihrer kreativen Werke in Esbjerg. Kunstliebhaber können hier moderne Gemälde und künstlerische Projekte in einer inspirierenden Umgebung entdecken.",
+                  "category": "museum",
+                  "coords": [
+                        8.448602,
+                        55.465826
+                  ]
+            },
+            {
+                  "name": "Husted Fine Art Photography",
+                  "text": "Diese Galerie in Esbjerg ist auf hochwertige Fotokunst spezialisiert und präsentiert Werke des Fotografen Husted. Besucher können beeindruckende Landschaftsaufnahmen und künstlerische Fotografien in den Ausstellungsräumen bewundern.",
+                  "category": "museum",
+                  "coords": [
+                        8.441808,
+                        55.468926
+                  ]
             }
       ],
       "hu": [
@@ -9734,6 +9995,231 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         8.414961,
                         55.483315
+                  ]
+            },
+            {
+                  "name": "Esbjerg Kunstmuseum",
+                  "text": "Az Esbjerg Kunstmuseum modern és kortárs művészeti gyűjteményt mutat be Esbjerg kikötővárosában. A látogatók időszaki kiállításokat és neves dán művészek alkotásait tekinthetik meg a galéria termeiben.",
+                  "category": "museum",
+                  "coords": [
+                        8.450574,
+                        55.46424
+                  ]
+            },
+            {
+                  "name": "Esbjerg Spejdermuseum",
+                  "text": "Az Esbjerg Spejdermuseum a régió cserkészmozgalmának történetét dokumentálja, történelmi egyenruhákat és felszereléseket bemutatva. Érdekes betekintést nyújt a helyi cserkészcsapatok hagyományaiba és tevékenységeibe.",
+                  "category": "museum",
+                  "coords": [
+                        8.450636,
+                        55.482957
+                  ]
+            },
+            {
+                  "name": "Esbjerg Museum",
+                  "text": "Az Esbjerg Museum a város történetét világítja meg a kezdetektől napjainkig, különös tekintettel a kikötőváros fejlődésére. A kiállítások régészeti leleteket és a múltbeli mindennapi élet tárgyait mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        8.453534,
+                        55.469337
+                  ]
+            },
+            {
+                  "name": "Bogtrykmuseet i Esbjerg",
+                  "text": "A Bogtrykmuseet i Esbjerg a könyvnyomtatás történetének szentelt múzeum, amely történelmi nyomdagépeket és eszközöket mutat be. A látogatók itt megismerhetik a betűszedők és nyomdászok hagyományos mesterségét Esbjergben.",
+                  "category": "museum",
+                  "coords": [
+                        8.455789,
+                        55.464711
+                  ]
+            },
+            {
+                  "name": "Fiskeri- og Søfartsmuseet",
+                  "text": "Az esbjergi Halászati és Tengerészeti Múzeum lenyűgöző betekintést nyújt a dán tengerbiológiába és a hajózás történetébe. Különösen népszerűek a fókárium és a nagy akváriumok, amelyek az Északi-tenger élővilágát mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        8.410751,
+                        55.490125
+                  ]
+            },
+            {
+                  "name": "Teaterhuset",
+                  "text": "Az esbjergi Teaterhuset az előadóművészetek fontos helyszíne, amely helyi színtársulatoknak ad otthont. A színpad változatos programot kínál színdarabokból, koncertekből és kulturális eseményekből a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        8.453698,
+                        55.465292
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "A Vor Frelsers Kirke egy jellegzetes templom Esbjergben, amely építészetével és a városképben elfoglalt központi helyével tűnik ki. Odabent rendszeresen tartanak istentiszteleteket és egyházzenei rendezvényeket a közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.448954,
+                        55.467557
+                  ]
+            },
+            {
+                  "name": "Jerne Kirke",
+                  "text": "A Jerne Kirke egy történelmi istenháza Esbjergben, amely a hagyományos dán templomépítészetéről ismert. A templom egy csendes temető közepén található, és a környező városrész spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        8.482038,
+                        55.478337
+                  ]
+            },
+            {
+                  "name": "Zions Kirke",
+                  "text": "Az esbjergi Zions Kirke impozáns téglaépületével és messziről látható magas templomtornyával tűnik ki. A látogatók megcsodálhatják a belső tér szakrális művészetét, vagy részt vehetnek a heti közösségi istentiszteleteken.",
+                  "category": "religious",
+                  "coords": [
+                        8.444077,
+                        55.471548
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "A Sankt Nikolaj Kirke egy katolikus templom Esbjergben, amely modern kialakításáról és barátságos légköréről ismert. Az istenháza a helyi közösség központi helyszíneként szolgál imádságokhoz, misékhez és vallási ünnepekhez.",
+                  "category": "religious",
+                  "coords": [
+                        8.450085,
+                        55.47046
+                  ]
+            },
+            {
+                  "name": "Treenighedskirken",
+                  "text": "Az esbjergi Treenighedskirken egy modern templom, amely rendkívüli geometriai formájával és fényhatásaival nyűgöz le. A kortárs dán szakrális építészet jelentős példája, amelyet istentiszteletekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        8.442512,
+                        55.477794
+                  ]
+            },
+            {
+                  "name": "Horns Rev",
+                  "text": "A Horns Rev hajó egy egykori világítóhajó, amely ma múzeumhajóként látogatható Esbjerg kikötőjében. Betekintést nyújt a legénység életébe és az úszó világítótornyok hajózásban betöltött fontos szerepébe.",
+                  "category": "landmark",
+                  "coords": [
+                        8.445774,
+                        55.463078
+                  ]
+            },
+            {
+                  "name": "I.C. Møllerparken",
+                  "text": "Az I.C. Møllerparken egy nyilvános park Esbjergben, amelyet egy helyi iparosról neveztek el, és pihenésre hívogat. A zöldterület sétányokat és pihenőhelyeket kínál a városi környezet közepén.",
+                  "category": "park",
+                  "coords": [
+                        8.449098,
+                        55.468765
+                  ]
+            },
+            {
+                  "name": "Esbjerg Rådhus",
+                  "text": "Az Esbjerg Rådhus a városi közigazgatás székhelye és a kikötőváros központjának egyik jellegzetes épülete. Esbjerg adminisztratív szíveként működik, és funkcionális építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        8.452618,
+                        55.472487
+                  ]
+            },
+            {
+                  "name": "Jakobskirken",
+                  "text": "Az esbjergi Jakobskirken egy modern templomépület, amely az elmélyülés és a vallási szertartások helyszíneként szolgál. A belső tér letisztult kialakítása nyugodt légkört teremt a gyülekezeti tagok számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.461523,
+                        55.479189
+                  ]
+            },
+            {
+                  "name": "Jesu Kristi Kirke af Sidste Dages Hellige",
+                  "text": "Ez az esbjergi templom az Utolsó Napi Szentek közösségéhez tartozik, helyet biztosítva az istentiszteleteknek és közösségi tevékenységeknek. A látogatók megtekinthetik a modern épületet, amely helyi vallási központként működik.",
+                  "category": "religious",
+                  "coords": [
+                        8.453211,
+                        55.49264
+                  ]
+            },
+            {
+                  "name": "Sejlet",
+                  "text": "A Sejlet egy jellegzetes torony Esbjergben, amelynek építészete egy vitorlára emlékeztet, és gazdagítja a modern városképet. Messziről látható jelképként szolgál a kikötő közelében, érdekes építészeti távlatot kínálva.",
+                  "category": "tower",
+                  "coords": [
+                        8.411271,
+                        55.482826
+                  ]
+            },
+            {
+                  "name": "Strandbyparken",
+                  "text": "A Strandbyparken egy kiterjedt park Esbjergben, amely zöld gyepeket és sétautakat kínál a látogatóknak a város szélén. A park kedvelt helyszíne a szabadtéri szabadidős tevékenységeknek és a természetben való pihenésnek.",
+                  "category": "park",
+                  "coords": [
+                        8.441537,
+                        55.472063
+                  ]
+            },
+            {
+                  "name": "Lergravsparken",
+                  "text": "Az esbjergi Lergravsparken egy zöld oázis, amely egykori agyagbányák helyén jött létre, és ma pihenést kínál a lakóknak és látogatóknak. A parkos tájat kis tavak és változatos sétautak jellemzik.",
+                  "category": "park",
+                  "coords": [
+                        8.468942,
+                        55.464686
+                  ]
+            },
+            {
+                  "name": "Remiseparken",
+                  "text": "A Remiseparken egy nyilvános zöldterület Esbjergben, amely sportolásra, játékra és szabadtéri pihenésre kínál lehetőséget. A helyszín fontos találkozópont a környékbeliek számára, és sétákra hívogat a gondozott környezetben.",
+                  "category": "park",
+                  "coords": [
+                        8.465388,
+                        55.475478
+                  ]
+            },
+            {
+                  "name": "Birkedalsparken",
+                  "text": "Az esbjergi Birkedalsparken egy nyugodt városi park, amely ideális rövid zöldövezeti kirándulásokhoz és sétákhoz. Gondozott gyepfelületeket és faállományt kínál, amelyek kellemes légkört teremtenen az időtöltéshez.",
+                  "category": "park",
+                  "coords": [
+                        8.457689,
+                        55.476214
+                  ]
+            },
+            {
+                  "name": "Borgmesterhaven",
+                  "text": "A Borgmesterhaven egy parkszerű kert Esbjergben, amely virágágyásaival és nyugodt elhelyezkedésével nyűgöz le. A látogatók békés helyszínt találnak itt egy szünetre az esbjergi városnézés során.",
+                  "category": "park",
+                  "coords": [
+                        8.454709,
+                        55.47227
+                  ]
+            },
+            {
+                  "name": "Esbjerg Havn - Besøgscenter",
+                  "text": "Az esbjergi kikötő látogatóközpontja tájékoztatást nyújt Dánia egyik legnagyobb kikötőjének történetéről és gazdasági jelentőségéről. A kiállítások és információk révén a vendégek betekintést nyerhetnek a hajóforgalomba és az offshore iparba.",
+                  "category": "museum",
+                  "coords": [
+                        8.447216,
+                        55.463239
+                  ]
+            },
+            {
+                  "name": "Sneglehuset / Art by Signe Klinkert",
+                  "text": "A Sneglehuset Signe Klinkert művésznő galériájának ad otthont, és bemutatja válogatott kreatív alkotásait Esbjergben. A művészetkedvelők modern festményeket és művészeti projekteket fedezhetnek fel itt egy inspiráló környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        8.448602,
+                        55.465826
+                  ]
+            },
+            {
+                  "name": "Husted Fine Art Photography",
+                  "text": "Ez az esbjergi galéria kiváló minőségű fotóművészetre specializálódott, bemutatva Husted fotográfus munkáit. A látogatók lenyűgöző tájképeket és művészi fotókat csodálhatnak meg a kiállítótermekben.",
+                  "category": "museum",
+                  "coords": [
+                        8.441808,
+                        55.468926
                   ]
             }
       ],
@@ -9854,6 +10340,231 @@ export const denmarkCities: POI[] = [
                         8.414961,
                         55.483315
                   ]
+            },
+            {
+                  "name": "Esbjerg Kunstmuseum",
+                  "text": "Esbjerg Kunstmuseum prezintă o colecție importantă de artă modernă și contemporană în orașul portuar Esbjerg. Vizitatorii pot explora expoziții temporare și lucrări ale unor artiști danezi de seamă în spațiile galeriei.",
+                  "category": "museum",
+                  "coords": [
+                        8.450574,
+                        55.46424
+                  ]
+            },
+            {
+                  "name": "Esbjerg Spejdermuseum",
+                  "text": "Esbjerg Spejdermuseum documentează istoria mișcării cercetașilor din regiune, expunând uniforme și echipamente istorice. Oferă perspective interesante asupra tradițiilor și activităților grupurilor locale de cercetași.",
+                  "category": "museum",
+                  "coords": [
+                        8.450636,
+                        55.482957
+                  ]
+            },
+            {
+                  "name": "Esbjerg Museum",
+                  "text": "Esbjerg Museum evidențiază istoria orașului de la începuturi până în prezent, punând accent pe dezvoltarea orașului portuar. Expozițiile includ descoperiri arheologice și exponate despre viața cotidiană din epocile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        8.453534,
+                        55.469337
+                  ]
+            },
+            {
+                  "name": "Bogtrykmuseet i Esbjerg",
+                  "text": "Bogtrykmuseet i Esbjerg este dedicat istoriei tiparului, expunând mașini de tipărit și unelte istorice. Vizitatorii pot învăța aici despre meșteșugul tradițional al culegătorilor și tipografilor din Esbjerg.",
+                  "category": "museum",
+                  "coords": [
+                        8.455789,
+                        55.464711
+                  ]
+            },
+            {
+                  "name": "Fiskeri- og Søfartsmuseet",
+                  "text": "Muzeul Pescuitului și al Marinei din Esbjerg oferă perspective fascinante asupra biologiei marine daneze și a istoriei navigației. Sunt deosebit de populare bazinul pentru foci și acvariile mari care prezintă viața din Marea Nordului.",
+                  "category": "museum",
+                  "coords": [
+                        8.410751,
+                        55.490125
+                  ]
+            },
+            {
+                  "name": "Teaterhuset",
+                  "text": "Teaterhuset din Esbjerg este un loc important pentru artele spectacolului și găzduiește trupe de teatru locale. Scena oferă un program variat de piese de teatru, concerte și evenimente culturale în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        8.453698,
+                        55.465292
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "Vor Frelsers Kirke este o biserică distinctivă din Esbjerg, care se remarcă prin arhitectura sa și locația centrală în oraș. În interior, se desfășoară regulat slujbe religioase și evenimente de muzică sacră pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        8.448954,
+                        55.467557
+                  ]
+            },
+            {
+                  "name": "Jerne Kirke",
+                  "text": "Jerne Kirke este un lăcaș de cult istoric din Esbjerg, cunoscut pentru arhitectura sa bisericească tradițională daneză. Biserica este situată în mijlocul unui cimitir liniștit și servește ca centru spiritual al cartierului înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        8.482038,
+                        55.478337
+                  ]
+            },
+            {
+                  "name": "Zions Kirke",
+                  "text": "Zions Kirke din Esbjerg se remarcă prin edificiul său impunător din cărămidă și turnul înalt, vizibil de la distanță. Vizitatorii pot admira arta sacră din interior sau pot participa la slujbele săptămânale ale comunității.",
+                  "category": "religious",
+                  "coords": [
+                        8.444077,
+                        55.471548
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "Sankt Nikolaj Kirke este o biserică catolică din Esbjerg, cunoscută pentru designul său modern și atmosfera primitoare. Lăcașul de cult servește comunității locale ca loc central pentru rugăciune, liturghii și sărbători religioase.",
+                  "category": "religious",
+                  "coords": [
+                        8.450085,
+                        55.47046
+                  ]
+            },
+            {
+                  "name": "Treenighedskirken",
+                  "text": "Treenighedskirken din Esbjerg este o biserică modernă care impresionează prin forma sa geometrică neobișnuită și jocul de lumini. Este un exemplu semnificativ de arhitectură sacră contemporană în Danemarca și este utilizată pentru slujbe.",
+                  "category": "religious",
+                  "coords": [
+                        8.442512,
+                        55.477794
+                  ]
+            },
+            {
+                  "name": "Horns Rev",
+                  "text": "Nava Horns Rev este un fost vas-far, care astăzi poate fi vizitat ca navă-muzeu în portul Esbjerg. Oferă perspective asupra vieții echipajului și asupra funcției importante a farurilor plutitoare pentru navigație.",
+                  "category": "landmark",
+                  "coords": [
+                        8.445774,
+                        55.463078
+                  ]
+            },
+            {
+                  "name": "I.C. Møllerparken",
+                  "text": "I.C. Møllerparken este un parc public din Esbjerg, numit după un industriaș local, care invită la relaxare. Spațiul verde oferă alei pentru plimbare și locuri de odihnă în mijlocul mediului urban.",
+                  "category": "park",
+                  "coords": [
+                        8.449098,
+                        55.468765
+                  ]
+            },
+            {
+                  "name": "Esbjerg Rådhus",
+                  "text": "Esbjerg Rådhus este sediul administrației orașului și o clădire distinctivă în centrul orașului portuar. Funcționează ca inima administrativă a orașului Esbjerg și este cunoscută pentru arhitectura sa funcțională.",
+                  "category": "historical",
+                  "coords": [
+                        8.452618,
+                        55.472487
+                  ]
+            },
+            {
+                  "name": "Jakobskirken",
+                  "text": "Jakobskirken din Esbjerg este un edificiu religios modern care servește ca loc de reflecție și pentru ceremonii religioase. Designul simplu al interiorului creează o atmosferă liniștită pentru membrii comunității.",
+                  "category": "religious",
+                  "coords": [
+                        8.461523,
+                        55.479189
+                  ]
+            },
+            {
+                  "name": "Jesu Kristi Kirke af Sidste Dages Hellige",
+                  "text": "Această biserică din Esbjerg aparține comunității Sfinților din Zilele din Urmă și oferă un spațiu pentru slujbe și activități comunitare. Vizitatorii pot vedea clădirea cu design modern, care funcționează ca centru religios local.",
+                  "category": "religious",
+                  "coords": [
+                        8.453211,
+                        55.49264
+                  ]
+            },
+            {
+                  "name": "Sejlet",
+                  "text": "Sejlet este un turn distinctiv din Esbjerg, a cărui arhitectură amintește de o velă și îmbogățește peisajul urban modern. Servește ca punct de reper vizibil de la distanță în apropierea portului și oferă o perspectivă arhitecturală interesantă.",
+                  "category": "tower",
+                  "coords": [
+                        8.411271,
+                        55.482826
+                  ]
+            },
+            {
+                  "name": "Strandbyparken",
+                  "text": "Strandbyparken este un parc întins din Esbjerg, care oferă vizitatorilor pajiști verzi și alei pentru plimbări la marginea orașului. Parcul este un loc popular pentru activități recreative în aer liber și pentru relaxare în natură.",
+                  "category": "park",
+                  "coords": [
+                        8.441537,
+                        55.472063
+                  ]
+            },
+            {
+                  "name": "Lergravsparken",
+                  "text": "Lergravsparken din Esbjerg este o oază verde creată pe locul unor foste gropi de argilă, oferind astăzi relaxare pentru localnici și vizitatori. Peisajul parcului se remarcă prin lacuri mici și alei variate de plimbare.",
+                  "category": "park",
+                  "coords": [
+                        8.468942,
+                        55.464686
+                  ]
+            },
+            {
+                  "name": "Remiseparken",
+                  "text": "Remiseparken este un spațiu verde public din Esbjerg, oferind locuri pentru sport, joacă și relaxare în aer liber. Parcul este un punct important de întâlnire pentru vecinătate și invită la plimbări într-un mediu îngrijit.",
+                  "category": "park",
+                  "coords": [
+                        8.465388,
+                        55.475478
+                  ]
+            },
+            {
+                  "name": "Birkedalsparken",
+                  "text": "Birkedalsparken din Esbjerg este un parc urban liniștit, ideal pentru scurte ieșiri în natură și plimbări. Oferă peluze îngrijite și arbori care creează o atmosferă plăcută pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        8.457689,
+                        55.476214
+                  ]
+            },
+            {
+                  "name": "Borgmesterhaven",
+                  "text": "Borgmesterhaven este o grădină asemănătoare unui parc din Esbjerg, care impresionează prin straturile de flori și locația liniștită. Vizitatorii găsesc aici un loc pașnic pentru o pauză în timpul unui tur al orașului Esbjerg.",
+                  "category": "park",
+                  "coords": [
+                        8.454709,
+                        55.47227
+                  ]
+            },
+            {
+                  "name": "Esbjerg Havn - Besøgscenter",
+                  "text": "Centrul pentru vizitatori din portul Esbjerg oferă informații despre istoria și importanța economică a unuia dintre cele mai mari porturi din Danemarca. Prin expoziții și informații, oaspeții obțin perspective asupra traficului maritim și a industriei offshore.",
+                  "category": "museum",
+                  "coords": [
+                        8.447216,
+                        55.463239
+                  ]
+            },
+            {
+                  "name": "Sneglehuset / Art by Signe Klinkert",
+                  "text": "Sneglehuset găzduiește galeria artistei Signe Klinkert și expune o selecție a lucrărilor sale creative în Esbjerg. Iubitorii de artă pot descoperi aici picturi moderne și proiecte artistice într-un mediu plin de inspirație.",
+                  "category": "museum",
+                  "coords": [
+                        8.448602,
+                        55.465826
+                  ]
+            },
+            {
+                  "name": "Husted Fine Art Photography",
+                  "text": "Această galerie din Esbjerg este specializată în artă fotografică de înaltă calitate, prezentând lucrările fotografului Husted. Vizitatorii pot admira peisaje impresionante și fotografii artistice în sălile de expoziție.",
+                  "category": "museum",
+                  "coords": [
+                        8.441808,
+                        55.468926
+                  ]
             }
       ],
       "en": [
@@ -9972,6 +10683,231 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         8.414961,
                         55.483315
+                  ]
+            },
+            {
+                  "name": "Esbjerg Kunstmuseum",
+                  "text": "Esbjerg Kunstmuseum presents a significant collection of modern and contemporary art in the port city of Esbjerg. Visitors can explore changing exhibitions and works by notable Danish artists within the gallery spaces.",
+                  "category": "museum",
+                  "coords": [
+                        8.450574,
+                        55.46424
+                  ]
+            },
+            {
+                  "name": "Esbjerg Spejdermuseum",
+                  "text": "Esbjerg Spejdermuseum documents the history of the scouting movement in the region, displaying historical uniforms and equipment. It provides interesting insights into the traditions and activities of local scout groups.",
+                  "category": "museum",
+                  "coords": [
+                        8.450636,
+                        55.482957
+                  ]
+            },
+            {
+                  "name": "Esbjerg Museum",
+                  "text": "Esbjerg Museum highlights the city's history from its beginnings to the present, focusing on the development of the port town. The exhibitions include archaeological finds and exhibits on daily life from past eras.",
+                  "category": "museum",
+                  "coords": [
+                        8.453534,
+                        55.469337
+                  ]
+            },
+            {
+                  "name": "Bogtrykmuseet i Esbjerg",
+                  "text": "Bogtrykmuseet i Esbjerg is dedicated to the history of book printing, displaying historical printing presses and tools. Visitors can learn about the traditional craft of typesetters and printers in Esbjerg here.",
+                  "category": "museum",
+                  "coords": [
+                        8.455789,
+                        55.464711
+                  ]
+            },
+            {
+                  "name": "Fisheries and Maritime Museum",
+                  "text": "The Fisheries and Maritime Museum in Esbjerg offers fascinating insights into Danish marine biology and seafaring history. The sealarium and large aquariums showcasing North Sea life are particularly popular with visitors.",
+                  "category": "museum",
+                  "coords": [
+                        8.410751,
+                        55.490125
+                  ]
+            },
+            {
+                  "name": "Teaterhuset",
+                  "text": "Teaterhuset in Esbjerg is a key venue for performing arts and home to local theatre groups. The stage offers a diverse program of plays, concerts, and cultural events within the city.",
+                  "category": "cultural",
+                  "coords": [
+                        8.453698,
+                        55.465292
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "Vor Frelsers Kirke is a prominent church in Esbjerg that stands out due to its architecture and central location in the cityscape. Inside, regular worship services and church music events are held for the community.",
+                  "category": "religious",
+                  "coords": [
+                        8.448954,
+                        55.467557
+                  ]
+            },
+            {
+                  "name": "Jerne Kirke",
+                  "text": "Jerne Kirke is a historical place of worship in Esbjerg known for its traditional Danish church architecture. The church is situated within a peaceful cemetery and serves as a spiritual center for the surrounding district.",
+                  "category": "religious",
+                  "coords": [
+                        8.482038,
+                        55.478337
+                  ]
+            },
+            {
+                  "name": "Zions Kirke",
+                  "text": "Zions Kirke in Esbjerg is distinguished by its imposing brick building and tall church tower that is visible from afar. Visitors can admire the sacred art in the interior or attend the weekly community worship services.",
+                  "category": "religious",
+                  "coords": [
+                        8.444077,
+                        55.471548
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "Sankt Nikolaj Kirke is a Catholic church in Esbjerg known for its modern design and welcoming atmosphere. The place of worship serves the local community as a central location for prayers, masses, and religious festivals.",
+                  "category": "religious",
+                  "coords": [
+                        8.450085,
+                        55.47046
+                  ]
+            },
+            {
+                  "name": "Treenighedskirken",
+                  "text": "Treenighedskirken in Esbjerg is a modern church that impresses with its extraordinary geometric shape and use of light. It is a significant example of contemporary sacred architecture in Denmark and is used for worship services.",
+                  "category": "religious",
+                  "coords": [
+                        8.442512,
+                        55.477794
+                  ]
+            },
+            {
+                  "name": "Horns Rev",
+                  "text": "The Horns Rev ship is a former lightvessel that can be visited today as a museum ship in the port of Esbjerg. It offers insights into the life of the crew and the important function of floating beacons for maritime safety.",
+                  "category": "landmark",
+                  "coords": [
+                        8.445774,
+                        55.463078
+                  ]
+            },
+            {
+                  "name": "I.C. Møllerparken",
+                  "text": "I.C. Møllerparken is a public park in Esbjerg named after a local industrialist that invites visitors to relax. The green space offers walking paths and spots for resting amidst the urban environment.",
+                  "category": "park",
+                  "coords": [
+                        8.449098,
+                        55.468765
+                  ]
+            },
+            {
+                  "name": "Esbjerg Rådhus",
+                  "text": "Esbjerg Rådhus is the seat of the city administration and a prominent building in the center of the port town. It functions as the administrative heart of Esbjerg and is known for its functional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        8.452618,
+                        55.472487
+                  ]
+            },
+            {
+                  "name": "Jakobskirken",
+                  "text": "Jakobskirken in Esbjerg is a modern church building that serves as a place for reflection and religious ceremonies. The simple design of the interior creates a peaceful atmosphere for the congregation members.",
+                  "category": "religious",
+                  "coords": [
+                        8.461523,
+                        55.479189
+                  ]
+            },
+            {
+                  "name": "Jesu Kristi Kirke af Sidste Dages Hellige",
+                  "text": "This church in Esbjerg belongs to the Latter-day Saints community and provides a space for worship and community activities. Visitors can view the modern building, which functions as a local religious center.",
+                  "category": "religious",
+                  "coords": [
+                        8.453211,
+                        55.49264
+                  ]
+            },
+            {
+                  "name": "Sejlet",
+                  "text": "Sejlet is a striking tower in Esbjerg whose architecture resembles a sail and enhances the modern cityscape. It serves as a landmark visible from afar near the harbour and offers an interesting architectural perspective.",
+                  "category": "tower",
+                  "coords": [
+                        8.411271,
+                        55.482826
+                  ]
+            },
+            {
+                  "name": "Strandbyparken",
+                  "text": "Strandbyparken is an expansive park in Esbjerg that offers visitors green lawns and paths for walking on the outskirts of the city. The park is a popular spot for outdoor leisure activities and relaxing in nature.",
+                  "category": "park",
+                  "coords": [
+                        8.441537,
+                        55.472063
+                  ]
+            },
+            {
+                  "name": "Lergravsparken",
+                  "text": "Lergravsparken in Esbjerg is a green oasis created from former clay pits, now offering recreation for residents and visitors. The parkland is characterized by small lakes and a variety of walking paths.",
+                  "category": "park",
+                  "coords": [
+                        8.468942,
+                        55.464686
+                  ]
+            },
+            {
+                  "name": "Remiseparken",
+                  "text": "Remiseparken is a public green space in Esbjerg providing areas for sports, play, and outdoor relaxation. The park is a key meeting point for the neighborhood and invites visitors for walks in a well-maintained setting.",
+                  "category": "park",
+                  "coords": [
+                        8.465388,
+                        55.475478
+                  ]
+            },
+            {
+                  "name": "Birkedalsparken",
+                  "text": "Birkedalsparken in Esbjerg is a peaceful urban park ideal for short trips into the greenery and walks. It offers well-kept lawns and stands of trees that create a pleasant atmosphere for spending time.",
+                  "category": "park",
+                  "coords": [
+                        8.457689,
+                        55.476214
+                  ]
+            },
+            {
+                  "name": "Borgmesterhaven",
+                  "text": "Borgmesterhaven is a park-like garden in Esbjerg that charms visitors with its flower beds and quiet location. Visitors can find a peaceful spot here for a break during a tour of the city of Esbjerg.",
+                  "category": "park",
+                  "coords": [
+                        8.454709,
+                        55.47227
+                  ]
+            },
+            {
+                  "name": "Esbjerg Havn - Besøgscenter",
+                  "text": "The visitor center at Esbjerg Harbour provides information about the history and economic significance of one of Denmark's largest ports. Through exhibitions and displays, guests gain insights into maritime traffic and the offshore industry.",
+                  "category": "museum",
+                  "coords": [
+                        8.447216,
+                        55.463239
+                  ]
+            },
+            {
+                  "name": "Sneglehuset / Art by Signe Klinkert",
+                  "text": "Sneglehuset houses the gallery of artist Signe Klinkert and displays a selection of her creative works in Esbjerg. Art lovers can discover modern paintings and artistic projects here within an inspiring environment.",
+                  "category": "museum",
+                  "coords": [
+                        8.448602,
+                        55.465826
+                  ]
+            },
+            {
+                  "name": "Husted Fine Art Photography",
+                  "text": "This gallery in Esbjerg specializes in high-quality fine art photography, presenting works by the photographer Husted. Visitors can admire impressive landscape shots and artistic photographs within the exhibition rooms.",
+                  "category": "museum",
+                  "coords": [
+                        8.441808,
+                        55.468926
                   ]
             }
       ]

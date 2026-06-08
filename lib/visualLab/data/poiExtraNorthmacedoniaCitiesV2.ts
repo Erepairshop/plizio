@@ -138,7 +138,88 @@ export const northmacedoniaCitiesV2: POI[] = [
     image: "/poi-images/northmacedonia-kriva-palanka-cities-v2.webp",
   },
   {
-    id: "northmacedonia-valandovo-cities-v2", "sights": {"de": [{"name": "Čestevo", "text": "Chestevo besteht aus antiken Ruinen in der Nähe der Stadt Walandowo.", "category": "historical", "coords": [22.573301, 41.293919]}], "hu": [{"name": "Čestevo", "text": "Chestevo ókori romokból áll Walandowo városa közelében.", "category": "historical", "coords": [22.573301, 41.293919]}], "ro": [{"name": "Čestevo", "text": "Chestevo constă în ruine antice situate lângă orașul Walandowo.", "category": "historical", "coords": [22.573301, 41.293919]}], "en": [{"name": "Chestevo", "text": "Chestevo consists of ancient ruins located near the town of Walandowo.", "category": "historical", "coords": [22.573301, 41.293919]}]},
+    id: "northmacedonia-valandovo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Čestevo",
+                  "text": "Chestevo besteht aus antiken Ruinen in der Nähe der Stadt Walandowo.",
+                  "category": "historical",
+                  "coords": [
+                        22.573301,
+                        41.293919
+                  ]
+            },
+            {
+                  "name": "Exit Komplex",
+                  "text": "Ein öffentlicher Schwimmbereich in Valandovo, der sich für Sport und Entspannung eignet.",
+                  "category": "family",
+                  "coords": [
+                        22.555874,
+                        41.326914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Čestevo",
+                  "text": "Chestevo ókori romokból áll Walandowo városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.573301,
+                        41.293919
+                  ]
+            },
+            {
+                  "name": "Exit Komplex",
+                  "text": "Egy nyilvános úszóhely Valandovo városában, amely alkalmas sportolásra és kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        22.555874,
+                        41.326914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Čestevo",
+                  "text": "Chestevo constă în ruine antice situate lângă orașul Walandowo.",
+                  "category": "historical",
+                  "coords": [
+                        22.573301,
+                        41.293919
+                  ]
+            },
+            {
+                  "name": "Exit Komplex",
+                  "text": "O zonă publică de înot în Valandovo potrivită pentru sport și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        22.555874,
+                        41.326914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chestevo",
+                  "text": "Chestevo consists of ancient ruins located near the town of Walandowo.",
+                  "category": "historical",
+                  "coords": [
+                        22.573301,
+                        41.293919
+                  ]
+            },
+            {
+                  "name": "Exit Komplex",
+                  "text": "A public swimming area in Valandovo suitable for sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        22.555874,
+                        41.326914
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Walandowo", hu: "Valandovo", ro: "Valandovo", en: "Valandovo" },
@@ -318,7 +399,232 @@ export const northmacedoniaCitiesV2: POI[] = [
     image: "/poi-images/northmacedonia-sveti-nikole-cities-v2.webp",
   },
   {
-    id: "northmacedonia-vinica-cities-v2", "sights": {"de": [{"name": "Museum Teracotta", "text": "Ein Museum in Winiza, das für seine antiken Terrakotta-Ikonen bekannt ist.", "category": "museum", "coords": [22.504962, 41.88419]}, {"name": "Viničko Kale", "text": "Eine historische Festungsanlage auf einem Hügel über Winiza.", "category": "castle", "coords": [22.502758, 41.87681]}, {"name": "Destroyed Unknown Monument", "text": "Ein zerstörtes historisches Denkmal in der Stadt Winiza.", "category": "historical", "coords": [22.525934, 41.869861]}, {"name": "Svet Krst", "text": "Eine lokale Sehenswürdigkeit in Winiza mit kultureller Bedeutung.", "category": "landmark", "coords": [22.510603, 41.878908]}, {"name": "Istibanjsko Ezero", "text": "Ein See in Vinica, der als ruhiger Ort für lokale Erholung dient.", "category": "natural", "coords": [22.512065, 41.936074]}], "hu": [{"name": "Museum Teracotta", "text": "Múzeum Winizában, amely ókori terrakotta ikonjairól ismert.", "category": "museum", "coords": [22.504962, 41.88419]}, {"name": "Viničko Kale", "text": "Történelmi erődítmény egy dombon Winiza felett.", "category": "castle", "coords": [22.502758, 41.87681]}, {"name": "Destroyed Unknown Monument", "text": "Romos történelmi emlékmű Winiza városában.", "category": "historical", "coords": [22.525934, 41.869861]}, {"name": "Svet Krst", "text": "Helyi látnivaló Winizában, kulturális jelentőséggel.", "category": "landmark", "coords": [22.510603, 41.878908]}, {"name": "Istibanjsko Ezero", "text": "Tó Vinica területén, amely nyugodt helyszínként szolgál a helyi kikapcsolódáshoz.", "category": "natural", "coords": [22.512065, 41.936074]}], "ro": [{"name": "Museum Teracotta", "text": "Un muzeu în Winiza, cunoscut pentru icoanele sale antice din teracotă.", "category": "museum", "coords": [22.504962, 41.88419]}, {"name": "Viničko Kale", "text": "O fortăreață istorică pe un deal deasupra orașului Winiza.", "category": "castle", "coords": [22.502758, 41.87681]}, {"name": "Destroyed Unknown Monument", "text": "Un monument istoric distrus în orașul Winiza.", "category": "historical", "coords": [22.525934, 41.869861]}, {"name": "Svet Krst", "text": "O atracție locală în Winiza cu semnificație culturală.", "category": "landmark", "coords": [22.510603, 41.878908]}, {"name": "Istibanjsko Ezero", "text": "Un lac din Vinica, care servește ca loc liniștit pentru recreere locală.", "category": "natural", "coords": [22.512065, 41.936074]}], "en": [{"name": "Museum Teracotta", "text": "A museum in Winiza famous for its ancient terracotta icons.", "category": "museum", "coords": [22.504962, 41.88419]}, {"name": "Viničko Kale", "text": "A historical fortress on a hill overlooking Winiza.", "category": "castle", "coords": [22.502758, 41.87681]}, {"name": "Destroyed Unknown Monument", "text": "A destroyed historical monument in the city of Winiza.", "category": "historical", "coords": [22.525934, 41.869861]}, {"name": "Svet Krst", "text": "A local attraction in Winiza with cultural significance.", "category": "landmark", "coords": [22.510603, 41.878908]}, {"name": "Istibanja Lake", "text": "A lake in Vinica serving as a quiet spot for local recreation.", "category": "natural", "coords": [22.512065, 41.936074]}]},
+    id: "northmacedonia-vinica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Teracotta",
+                  "text": "Ein Museum in Winiza, das für seine antiken Terrakotta-Ikonen bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.504962,
+                        41.88419
+                  ]
+            },
+            {
+                  "name": "Viničko Kale",
+                  "text": "Eine historische Festungsanlage auf einem Hügel über Winiza.",
+                  "category": "castle",
+                  "coords": [
+                        22.502758,
+                        41.87681
+                  ]
+            },
+            {
+                  "name": "Destroyed Unknown Monument",
+                  "text": "Ein zerstörtes historisches Denkmal in der Stadt Winiza.",
+                  "category": "historical",
+                  "coords": [
+                        22.525934,
+                        41.869861
+                  ]
+            },
+            {
+                  "name": "Svet Krst",
+                  "text": "Eine lokale Sehenswürdigkeit in Winiza mit kultureller Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510603,
+                        41.878908
+                  ]
+            },
+            {
+                  "name": "Istibanjsko Ezero",
+                  "text": "Ein See in Vinica, der als ruhiger Ort für lokale Erholung dient.",
+                  "category": "natural",
+                  "coords": [
+                        22.512065,
+                        41.936074
+                  ]
+            },
+            {
+                  "name": "Хотел Шагал",
+                  "text": "Ein Schwimmbad in Vinica, das zur Erfrischung und zum Schwimmen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        22.469918,
+                        41.908734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Teracotta",
+                  "text": "Múzeum Winizában, amely ókori terrakotta ikonjairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        22.504962,
+                        41.88419
+                  ]
+            },
+            {
+                  "name": "Viničko Kale",
+                  "text": "Történelmi erődítmény egy dombon Winiza felett.",
+                  "category": "castle",
+                  "coords": [
+                        22.502758,
+                        41.87681
+                  ]
+            },
+            {
+                  "name": "Destroyed Unknown Monument",
+                  "text": "Romos történelmi emlékmű Winiza városában.",
+                  "category": "historical",
+                  "coords": [
+                        22.525934,
+                        41.869861
+                  ]
+            },
+            {
+                  "name": "Svet Krst",
+                  "text": "Helyi látnivaló Winizában, kulturális jelentőséggel.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510603,
+                        41.878908
+                  ]
+            },
+            {
+                  "name": "Istibanjsko Ezero",
+                  "text": "Tó Vinica területén, amely nyugodt helyszínként szolgál a helyi kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.512065,
+                        41.936074
+                  ]
+            },
+            {
+                  "name": "Хотел Шагал",
+                  "text": "Úszómedence Vinica területén, amely frissítő úszásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        22.469918,
+                        41.908734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Teracotta",
+                  "text": "Un muzeu în Winiza, cunoscut pentru icoanele sale antice din teracotă.",
+                  "category": "museum",
+                  "coords": [
+                        22.504962,
+                        41.88419
+                  ]
+            },
+            {
+                  "name": "Viničko Kale",
+                  "text": "O fortăreață istorică pe un deal deasupra orașului Winiza.",
+                  "category": "castle",
+                  "coords": [
+                        22.502758,
+                        41.87681
+                  ]
+            },
+            {
+                  "name": "Destroyed Unknown Monument",
+                  "text": "Un monument istoric distrus în orașul Winiza.",
+                  "category": "historical",
+                  "coords": [
+                        22.525934,
+                        41.869861
+                  ]
+            },
+            {
+                  "name": "Svet Krst",
+                  "text": "O atracție locală în Winiza cu semnificație culturală.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510603,
+                        41.878908
+                  ]
+            },
+            {
+                  "name": "Istibanjsko Ezero",
+                  "text": "Un lac din Vinica, care servește ca loc liniștit pentru recreere locală.",
+                  "category": "natural",
+                  "coords": [
+                        22.512065,
+                        41.936074
+                  ]
+            },
+            {
+                  "name": "Хотел Шагал",
+                  "text": "O piscină în Vinica care invită la o baie răcoritoare și înot.",
+                  "category": "family",
+                  "coords": [
+                        22.469918,
+                        41.908734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Teracotta",
+                  "text": "A museum in Winiza famous for its ancient terracotta icons.",
+                  "category": "museum",
+                  "coords": [
+                        22.504962,
+                        41.88419
+                  ]
+            },
+            {
+                  "name": "Viničko Kale",
+                  "text": "A historical fortress on a hill overlooking Winiza.",
+                  "category": "castle",
+                  "coords": [
+                        22.502758,
+                        41.87681
+                  ]
+            },
+            {
+                  "name": "Destroyed Unknown Monument",
+                  "text": "A destroyed historical monument in the city of Winiza.",
+                  "category": "historical",
+                  "coords": [
+                        22.525934,
+                        41.869861
+                  ]
+            },
+            {
+                  "name": "Svet Krst",
+                  "text": "A local attraction in Winiza with cultural significance.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510603,
+                        41.878908
+                  ]
+            },
+            {
+                  "name": "Istibanja Lake",
+                  "text": "A lake in Vinica serving as a quiet spot for local recreation.",
+                  "category": "natural",
+                  "coords": [
+                        22.512065,
+                        41.936074
+                  ]
+            },
+            {
+                  "name": "Хотел Шагал",
+                  "text": "A swimming pool in Vinica inviting you for a refreshing swim.",
+                  "category": "family",
+                  "coords": [
+                        22.469918,
+                        41.908734
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Winiza", hu: "Vinica", ro: "Vinica", en: "Vinica" },

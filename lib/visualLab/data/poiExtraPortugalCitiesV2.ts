@@ -48,7 +48,124 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-barcelos-cities-v2.webp",
   },
   {
-    id: "portugal-figueira-da-foz-cities-v2",
+    id: "portugal-figueira-da-foz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Complexo Piscina Praia-Mar",
+                  "text": "Ein Schwimmbadkomplex in Figueira Da Foz für Freizeit und Sport.",
+                  "category": "family",
+                  "coords": [
+                        -8.866302,
+                        40.151637
+                  ]
+            },
+            {
+                  "name": "Piscina do Ginásio Clube Figueirense",
+                  "text": "Ein Schwimmbad in Figueira Da Foz, das zur sportlichen Betätigung einlädt.",
+                  "category": "family",
+                  "coords": [
+                        -8.860371,
+                        40.163279
+                  ]
+            },
+            {
+                  "name": "Piscina de água aquecida",
+                  "text": "Ein beheiztes Schwimmbad in Figueira Da Foz für komfortables Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        -8.868315,
+                        40.151296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Complexo Piscina Praia-Mar",
+                  "text": "Úszómedence-komplexum Figueira Da Foz városában szabadidőhöz és sporthoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.866302,
+                        40.151637
+                  ]
+            },
+            {
+                  "name": "Piscina do Ginásio Clube Figueirense",
+                  "text": "Úszómedence Figueira Da Foz városában, amely sportolásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        -8.860371,
+                        40.163279
+                  ]
+            },
+            {
+                  "name": "Piscina de água aquecida",
+                  "text": "Fűtött úszómedence Figueira Da Foz városában a kényelmes úszásért.",
+                  "category": "family",
+                  "coords": [
+                        -8.868315,
+                        40.151296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Complexo Piscina Praia-Mar",
+                  "text": "Un complex de piscine în Figueira Da Foz pentru agrement și sport.",
+                  "category": "family",
+                  "coords": [
+                        -8.866302,
+                        40.151637
+                  ]
+            },
+            {
+                  "name": "Piscina do Ginásio Clube Figueirense",
+                  "text": "O piscină în Figueira Da Foz care invită la activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        -8.860371,
+                        40.163279
+                  ]
+            },
+            {
+                  "name": "Piscina de água aquecida",
+                  "text": "O piscină cu apă încălzită în Figueira Da Foz pentru înot confortabil.",
+                  "category": "family",
+                  "coords": [
+                        -8.868315,
+                        40.151296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Complexo Piscina Praia-Mar",
+                  "text": "A swimming pool complex in Figueira Da Foz for leisure and sports.",
+                  "category": "family",
+                  "coords": [
+                        -8.866302,
+                        40.151637
+                  ]
+            },
+            {
+                  "name": "Piscina do Ginásio Clube Figueirense",
+                  "text": "A swimming pool in Figueira Da Foz inviting sports activities.",
+                  "category": "family",
+                  "coords": [
+                        -8.860371,
+                        40.163279
+                  ]
+            },
+            {
+                  "name": "Piscina de água aquecida",
+                  "text": "A heated swimming pool in Figueira Da Foz for comfortable swimming.",
+                  "category": "family",
+                  "coords": [
+                        -8.868315,
+                        40.151296
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Figueira da Foz", hu: "Figueira da Foz", ro: "Figueira da Foz", en: "Figueira da Foz" },
@@ -93,7 +210,88 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-figueira-da-foz-cities-v2.webp",
   },
   {
-    id: "portugal-caldas-da-rainha-cities-v2",
+    id: "portugal-caldas-da-rainha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscina Raul Proença",
+                  "text": "Dieses Schwimmbad in Caldas da Rainha ist eine lokale Einrichtung für Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        -9.146264,
+                        39.411635
+                  ]
+            },
+            {
+                  "name": "Piscina dos Pimpões",
+                  "text": "Dieses Gemeinschaftsschwimmbad in Caldas da Rainha bietet einen Ort für Familien zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        -9.140733,
+                        39.403688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscina Raul Proença",
+                  "text": "Ez a Caldas da Rainha-i uszoda egy helyi létesítmény a családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.146264,
+                        39.411635
+                  ]
+            },
+            {
+                  "name": "Piscina dos Pimpões",
+                  "text": "Ez a Caldas da Rainha-i közösségi uszoda helyet biztosít a családoknak az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.140733,
+                        39.403688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscina Raul Proença",
+                  "text": "Această piscină din Caldas da Rainha este o facilitate locală pentru înotul în familie.",
+                  "category": "family",
+                  "coords": [
+                        -9.146264,
+                        39.411635
+                  ]
+            },
+            {
+                  "name": "Piscina dos Pimpões",
+                  "text": "Această piscină comunitară din Caldas da Rainha oferă un loc pentru familii să înoate.",
+                  "category": "family",
+                  "coords": [
+                        -9.140733,
+                        39.403688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscina Raul Proença",
+                  "text": "This swimming pool in Caldas da Rainha is a local facility for family swimming.",
+                  "category": "family",
+                  "coords": [
+                        -9.146264,
+                        39.411635
+                  ]
+            },
+            {
+                  "name": "Piscina dos Pimpões",
+                  "text": "This community swimming pool in Caldas da Rainha provides a place for families to swim.",
+                  "category": "family",
+                  "coords": [
+                        -9.140733,
+                        39.403688
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Caldas da Rainha", hu: "Caldas da Rainha", ro: "Caldas da Rainha", en: "Caldas da Rainha" },
@@ -1273,7 +1471,1852 @@ export const portugalCitiesV2: POI[] = [
 }
   },
   {
-    id: "portugal-horta-cities-v2", "sights": {"de": [{"name": "Forte de Santa Cruz da Horta", "text": "Eine historische Festung zum Schutz des Hafens von Horta.", "category": "fortress", "coords": [-28.626495, 38.531668]}, {"name": "Forte de São Sebastião", "text": "Eine Küstenfestung in Horta auf der Insel Faial.", "category": "fortress", "coords": [-28.629748, 38.52485]}, {"name": "Reduto da Patrulha", "text": "Teil der historischen Verteidigungsanlagen von Porto Pim in Horta.", "category": "fortress", "coords": [-28.628511, 38.526386]}, {"name": "Torre do Relógio", "text": "Überreste eines historischen Uhrturms in Horta.", "category": "historical", "coords": [-28.625745, 38.541473]}, {"name": "Palacete do Pilar", "text": "Ein elegantes Herrenhaus in Horta auf den Azoren.", "category": "historical", "coords": [-28.625983, 38.54897]}, {"name": "Teatro Faialense", "text": "Das wichtigste Theatergebäude der Insel Faial in Horta.", "category": "cultural", "coords": [-28.624428, 38.541027]}, {"name": "Igreja Matriz do Santíssimo Salvador", "text": "Die barocke Hauptkirche von Horta.", "category": "religious", "coords": [-28.626799, 38.537323]}, {"name": "Igreja de Nossa Senhora das Angústias", "text": "Eine bedeutende Kirche in Horta auf der Insel Faial.", "category": "religious", "coords": [-28.626995, 38.528197]}, {"name": "Ermida de Santa Bárbara", "text": "Eine kleine Kapelle in Horta.", "category": "religious", "coords": [-28.644113, 38.531585]}, {"name": "Capela de Nossa Senhora da Guia", "text": "Eine Kapelle auf einem Hügel mit Blick auf Horta.", "category": "religious", "coords": [-28.628458, 38.520556]}, {"name": "Igreja de Nossa Senhora do Rosário", "text": "Eine historische Kirche in Horta.", "category": "religious", "coords": [-28.62763, 38.534112]}, {"name": "Igreja de Nossa Senhora da Conceição", "text": "Eine Pfarrkirche in Horta.", "category": "religious", "coords": [-28.623796, 38.543624]}, {"name": "Igreja de Nossa Senhora do Carmo", "text": "Eine Kirche des ehemaligen Karmeliterklosters in Horta.", "category": "religious", "coords": [-28.628922, 38.538845]}, {"name": "Ermida de Nossa Senhora do Pilar", "text": "Eine Kapelle mit weitem Blick über Horta.", "category": "religious", "coords": [-28.62456, 38.549625]}, {"name": "Ermida de Santo Amaro", "text": "Eine kleine religiöse Stätte in Horta.", "category": "religious", "coords": [-28.635181, 38.547655]}, {"name": "Império do Divino Espírito Santo da Infância", "text": "Eine kleine Kapelle für den Heilig-Geist-Kult in Horta.", "category": "religious", "coords": [-28.626843, 38.530028]}, {"name": "Império Infantil do Farrobo", "text": "Eine traditionelle Kapelle des Heilig-Geist-Kultes in Farrobo, Horta.", "category": "religious", "coords": [-28.638951, 38.55396]}, {"name": "Império da Trindade", "text": "Ein Heilig-Geist-Kapelle in Horta.", "category": "religious", "coords": [-28.611081, 38.555029]}, {"name": "Torre de Vigia do Porto Pim", "text": "Ein kleiner historischer Wachturm mit Blick auf die Bucht von Porto Pim in Horta.", "category": "landmark", "coords": [-28.63193, 38.524449]}, {"name": "Baía de Porto Pim", "text": "Eine malerische Bucht in Horta, bekannt für ihr ruhiges Wasser und ihre Vulkanlandschaft.", "category": "landmark", "coords": [-28.630409, 38.52243]}, {"name": "Baía da Horta", "text": "Die Hauptbucht von Horta, ein berühmter Zwischenstopp für Segler bei der Atlantiküberquerung.", "category": "landmark", "coords": [-28.615047, 38.530776]}, {"name": "Jardim Botânico do Faial", "text": "Ein botanischer Garten, der der Erhaltung der einzigartigen Flora der Azoren gewidmet ist.", "category": "landmark", "coords": [-28.638479, 38.550235]}, {"name": "Monte Carneiro", "text": "Ein markanter Hügel in Horta mit Panoramablick über die Stadt und die Insel Pico.", "category": "natural", "coords": [-28.64406, 38.540474]}, {"name": "Miradouro de Nossa Senhora da Conceição", "text": "Ein Aussichtspunkt in Horta mit einer Statue und weitem Blick auf die Küste.", "category": "natural", "coords": [-28.616213, 38.547685]}, {"name": "Praia do Almoxarife", "text": "Bekannt für seinen dunklen Vulkansand, bietet dieser Strand bei Horta einen faszinierenden Blick auf den imposanten Berg Pico. Es herrscht eine naturnahe, beeindruckende Stimmung an diesem besonderen Küstenabschnitt. Man kann hier entspannt sonnenbaden, schwimmen oder einfach die eindrucksvolle Vulkanlandschaft bei einem Spaziergang bewundern. Die besten Fotomomente ergeben sich an klaren Tagen mit guter Fernsicht.", "category": "recreational", "coords": [-28.608705, 38.55426]}, {"name": "Praia da Conceição", "text": "In geschützter Lage in Horta bietet dieser Strand exzellente Bedingungen für eine Auszeit am Ozean. Eine sehr ruhige, entspannende Atmosphäre zieht all jene an, die das Wasser in Ruhe genießen möchten. Schwimmer können sich im Meer abkühlen, während Erholungssuchende beim Sonnenbaden die Seele baumeln lassen. Ein Ausflug in den Sommermonaten verspricht die angenehmsten Wassertemperaturen.", "category": "recreational", "coords": [-28.619351, 38.542824]}, {"name": "Praia de Porto Pim", "text": "Eingebettet in eine wunderschöne Bucht in Horta, fasziniert dieser feine Sandstrand durch sein idyllisches Landschaftsbild. Das sanfte Gewässer sorgt für eine sichere und harmonische Stimmung, die besonders Familien schätzen. Herrliche Runden im Wasser, Sonnenbaden am Ufer und Küstenspaziergänge runden das Erlebnis hier ab. Für ungestörte Stunden empfiehlt es sich, früh am Tag anzureisen.", "category": "recreational", "coords": [-28.62675, 38.524843]}, {"name": "Forte de Nossa Senhora da Guia", "text": "Eine historische Küstenfestung, die zum Schutz der Stadt Horta vor Piraten errichtet wurde.", "category": "fortress", "coords": [-28.620317, 38.519835]}, {"name": "The Cedars House", "text": "Ein bemerkenswertes historisches Herrenhaus in Horta.", "category": "historical", "coords": [-28.631199, 38.533673]}, {"name": "Núcleo Expositivo das Bicas", "text": "Ein Ausstellungszentrum in Horta, das sich auf die lokale Geschichte und das Erbe konzentriert.", "category": "museum", "coords": [-28.651659, 38.551331]}, {"name": "Casa dos Dabney", "text": "Ein Museum, das der einflussreichen Familie Dabney und ihrer Geschichte auf den Azoren gewidmet ist.", "category": "museum", "coords": [-28.626713, 38.52296]}, {"name": "Aquário do Porto Pim - Estação de Peixes Vivos", "text": "Ein Aquarium in Horta, das die marine Artenvielfalt der umliegenden Gewässer zeigt.", "category": "museum", "coords": [-28.628445, 38.522606]}, {"name": "Observatório do Mar dos Açores", "text": "Ein Museum und Forschungszentrum, das sich auf das Meer und die Seefahrtsgeschichte der Azoren konzentriert.", "category": "museum", "coords": [-28.625388, 38.523078]}, {"name": "Solar da Quinta de São Lourenço", "text": "Ein elegantes historisches Herrenhaus und Anwesen in Horta.", "category": "historical", "coords": [-28.639422, 38.548619]}, {"name": "Casa Norberto Amaral", "text": "Eine klassische historische Residenz, die das lokale Erbe von Horta repräsentiert.", "category": "historical", "coords": [-28.631481, 38.555912]}, {"name": "Casa das Torrinhas", "text": "Ein traditionelles Herrenhaus in Horta mit markanten architektonischen Merkmalen.", "category": "historical", "coords": [-28.625683, 38.537517]}, {"name": "Casa Freitas Pimentel", "text": "Ein historisches Herrenhaus, das Teil des architektonischen Erbes von Horta ist.", "category": "historical", "coords": [-28.626266, 38.538796]}, {"name": "Bagatelle", "text": "Ein charmantes historisches Haus in Horta, bekannt für seinen einzigartigen Namen und sein Design.", "category": "historical", "coords": [-28.627713, 38.540535]}, {"name": "Palacete de Sant'Ana", "text": "Ein kleiner historischer Palast in Horta mit raffinierten architektonischen Details.", "category": "historical", "coords": [-28.630052, 38.53774]}, {"name": "Banco de Artistas", "text": "Ein kreativer Ort in Horta, an dem lokale Kunstausstellungen und Veranstaltungen stattfinden.", "category": "cultural", "coords": [-28.626594, 38.534013]}, {"name": "Azores Naturalist", "text": "Eine Organisation in Horta, die naturnahe Aktivitäten und Wildtierbeobachtungen anbietet.", "category": "landmark", "coords": [-28.625921, 38.528596]}, {"name": "Monte da Guia", "text": "Ein geschützter Vulkanlkegel in Horta mit außergewöhnlichem Blick auf den Ozean.", "category": "landmark", "coords": [-28.624052, 38.519958]}, {"name": "Miradouro da Vista Alegre", "text": "Ein Aussichtspunkt in Horta mit einem angenehmen Blick auf die Stadt.", "category": "natural", "coords": [-28.62984, 38.542476]}, {"name": "Miradouro do Mirante", "text": "Ein hoher Aussichtspunkt in Horta mit einem weiten Blick über die Insel.", "category": "natural", "coords": [-28.635031, 38.556101]}, {"name": "Parque Infantil das Angústias", "text": "Parque Infantil das Angústias ist ein Spielplatz in Horta, der Kindern einen Platz zum Spielen bietet.", "category": "family", "coords": [-28.629621, 38.526548]}, {"name": "Parque Infantil dos Flamengos", "text": "Parque Infantil dos Flamengos ist ein Spielplatz in Horta, ideal für einen Ausflug mit Kindern.", "category": "family", "coords": [-28.653961, 38.547865]}], "hu": [{"name": "Forte de Santa Cruz da Horta", "text": "Történelmi erőd Horta kikötőjének védelmére.", "category": "fortress", "coords": [-28.626495, 38.531668]}, {"name": "Forte de São Sebastião", "text": "Parti erőd Horta városában, Faial szigetén.", "category": "fortress", "coords": [-28.629748, 38.52485]}, {"name": "Reduto da Patrulha", "text": "A Porto Pim-i történelmi védművek része Hortában.", "category": "fortress", "coords": [-28.628511, 38.526386]}, {"name": "Torre do Relógio", "text": "Egy történelmi óratorony maradványai Hortában.", "category": "historical", "coords": [-28.625745, 38.541473]}, {"name": "Palacete do Pilar", "text": "Elegáns udvarház Hortában, az Azori-szigeteken.", "category": "historical", "coords": [-28.625983, 38.54897]}, {"name": "Teatro Faialense", "text": "Faial szigetének legfontosabb színháza Hortában.", "category": "cultural", "coords": [-28.624428, 38.541027]}, {"name": "Igreja Matriz do Santíssimo Salvador", "text": "Horta barokk főtemploma.", "category": "religious", "coords": [-28.626799, 38.537323]}, {"name": "Igreja de Nossa Senhora das Angústias", "text": "Jelentős templom Hortában, Faial szigetén.", "category": "religious", "coords": [-28.626995, 38.528197]}, {"name": "Ermida de Santa Bárbara", "text": "Kisméretű kápolna Hortában.", "category": "religious", "coords": [-28.644113, 38.531585]}, {"name": "Capela de Nossa Senhora da Guia", "text": "Kápolna egy dombtetőn, kilátással Hortára.", "category": "religious", "coords": [-28.628458, 38.520556]}, {"name": "Igreja de Nossa Senhora do Rosário", "text": "Történelmi templom Hortában.", "category": "religious", "coords": [-28.62763, 38.534112]}, {"name": "Igreja de Nossa Senhora da Conceição", "text": "Plébániatemplom Hortában.", "category": "religious", "coords": [-28.623796, 38.543624]}, {"name": "Igreja de Nossa Senhora do Carmo", "text": "Az egykori karmelita kolostor temploma Hortában.", "category": "religious", "coords": [-28.628922, 38.538845]}, {"name": "Ermida de Nossa Senhora do Pilar", "text": "Kápolna, ahonnan széles kilátás nyílik Hortára.", "category": "religious", "coords": [-28.62456, 38.549625]}, {"name": "Ermida de Santo Amaro", "text": "Kisméretű vallási helyszín Hortában.", "category": "religious", "coords": [-28.635181, 38.547655]}, {"name": "Império do Divino Espírito Santo da Infância", "text": "A Szentlélek-kultuszhoz kapcsolódó kápolna Hortában.", "category": "religious", "coords": [-28.626843, 38.530028]}, {"name": "Império Infantil do Farrobo", "text": "A Szentlélek-kultusz hagyományos kápolnája Farrobóban, Hortában.", "category": "religious", "coords": [-28.638951, 38.55396]}, {"name": "Império da Trindade", "text": "Szentlélek-kápolna Hortában.", "category": "religious", "coords": [-28.611081, 38.555029]}, {"name": "Torre de Vigia do Porto Pim", "text": "Egy kis történelmi őrtorony, amely a Porto Pim-öbölre néz Hortában.", "category": "landmark", "coords": [-28.63193, 38.524449]}, {"name": "Baía de Porto Pim", "text": "Egy festői öböl Hortában, amely nyugodt vizéről és vulkáni tájáról ismert.", "category": "landmark", "coords": [-28.630409, 38.52243]}, {"name": "Baía da Horta", "text": "Horta fő öble, amely az Atlanti-óceánt átszelő hajósok híres megállóhelye.", "category": "landmark", "coords": [-28.615047, 38.530776]}, {"name": "Jardim Botânico do Faial", "text": "Botanikus kert, amely az Azori-szigetek egyedülálló növényvilágának megőrzését szolgálja.", "category": "landmark", "coords": [-28.638479, 38.550235]}, {"name": "Monte Carneiro", "text": "Egy kiemelkedő domb Hortában, ahonnan panorámás kilátás nyílik a városra és Pico szigetére.", "category": "natural", "coords": [-28.64406, 38.540474]}, {"name": "Miradouro de Nossa Senhora da Conceição", "text": "Kilátó Hortában egy szoborral és széles kilátással a tengerpartra.", "category": "natural", "coords": [-28.616213, 38.547685]}, {"name": "Praia do Almoxarife", "text": "A sötét vulkáni homokjáról ismert Horta melletti strand lenyűgöző kilátást nyújt az impozáns Pico-hegyre. Természetközeli, lenyűgöző hangulat uralkodik ezen a különleges partszakaszon. Itt nyugodtan napozhatunk, úszhatunk, vagy egy séta során megcsodálhatjuk a lenyűgöző vulkáni tájat. A legjobb fotózási pillanatok a tiszta, jó látási viszonyokat kínáló napokon adódnak.", "category": "recreational", "coords": [-28.608705, 38.55426]}, {"name": "Praia da Conceição", "text": "A Horta védett részén található strand kiváló feltételeket kínál egy óceáni pihenéshez. A rendkívül csendes, pihentető atmoszféra azokat vonzza, akik nyugodtan szeretnék élvezni a vizet. Az úszók lehűlhetnek a tengerben, míg a pihenni vágyók napozás közben lazíthatnak. Egy nyári hónapokban tett kirándulás a legkellemesebb vízhőmérsékletet ígéri.", "category": "recreational", "coords": [-28.619351, 38.542824]}, {"name": "Praia de Porto Pim", "text": "A Horta egyik gyönyörű öblébe ágyazott finom homokos strand idilli tájképével nyűgöz le. A csendes víz biztonságos és harmonikus légkört teremt, amelyet különösen a családok értékelnek. A vízben tett frissítő úszások, a parti napozás és a tengerparti séták teszik teljessé az itteni élményt. A zavartalan órák érdekében ajánlott korán érkezni.", "category": "recreational", "coords": [-28.62675, 38.524843]}, {"name": "Forte de Nossa Senhora da Guia", "text": "Történelmi parti erőd, amelyet Horta városának kalózok elleni védelmére építettek.", "category": "fortress", "coords": [-28.620317, 38.519835]}, {"name": "The Cedars House", "text": "Egy jelentős történelmi kúria Hortában.", "category": "historical", "coords": [-28.631199, 38.533673]}, {"name": "Núcleo Expositivo das Bicas", "text": "Kiállítási központ Hortában, amely a helyi történelemre és örökségre összpontosít.", "category": "museum", "coords": [-28.651659, 38.551331]}, {"name": "Casa dos Dabney", "text": "A befolyásos Dabney családnak és az Azori-szigeteken töltött történelmüknek szentelt múzeum.", "category": "museum", "coords": [-28.626713, 38.52296]}, {"name": "Aquário do Porto Pim - Estação de Peixes Vivos", "text": "Akvárium Hortában, amely a környező vizek tengeri élővilágát mutatja be.", "category": "museum", "coords": [-28.628445, 38.522606]}, {"name": "Observatório do Mar dos Açores", "text": "A tengerrel és az Azori-szigetek tengerészeti történelmével foglalkozó múzeum és kutatóközpont.", "category": "museum", "coords": [-28.625388, 38.523078]}, {"name": "Solar da Quinta de São Lourenço", "text": "Elegáns történelmi kúria és birtok Hortában.", "category": "historical", "coords": [-28.639422, 38.548619]}, {"name": "Casa Norberto Amaral", "text": "Klasszikus történelmi lakóház, amely Horta helyi örökségét képviseli.", "category": "historical", "coords": [-28.631481, 38.555912]}, {"name": "Casa das Torrinhas", "text": "Hagyományos kúria Hortában, jellegzetes építészeti vonásokkal.", "category": "historical", "coords": [-28.625683, 38.537517]}, {"name": "Casa Freitas Pimentel", "text": "Történelmi kúria, amely Horta építészeti örökségének része.", "category": "historical", "coords": [-28.626266, 38.538796]}, {"name": "Bagatelle", "text": "Bájos történelmi ház Hortában, amely egyedi nevéről és kialakításáról ismert.", "category": "historical", "coords": [-28.627713, 38.540535]}, {"name": "Palacete de Sant'Ana", "text": "Egy kis történelmi palota Hortában, kifinomult építészeti részletekkel.", "category": "historical", "coords": [-28.630052, 38.53774]}, {"name": "Banco de Artistas", "text": "Kreatív tér Hortában, amely helyi művészeti kiállításoknak és eseményeknek ad otthont.", "category": "cultural", "coords": [-28.626594, 38.534013]}, {"name": "Azores Naturalist", "text": "Hortai szervezet, amely természetközeli tevékenységeket és vadon élő állatok megfigyelését kínálja.", "category": "landmark", "coords": [-28.625921, 38.528596]}, {"name": "Monte da Guia", "text": "Védett vulkáni kúp Hortában, ahonnan kivételes kilátás nyílik az óceánra.", "category": "landmark", "coords": [-28.624052, 38.519958]}, {"name": "Miradouro da Vista Alegre", "text": "Kilátó Hortában, ahonnan kellemes kilátás nyílik a városra.", "category": "natural", "coords": [-28.62984, 38.542476]}, {"name": "Miradouro do Mirante", "text": "Magasan fekvő kilátó Hortában, ahonnan átfogó perspektíva nyílik a szigetre.", "category": "natural", "coords": [-28.635031, 38.556101]}, {"name": "Parque Infantil das Angústias", "text": "A Parque Infantil das Angústias egy játszótér Horta területén, amely játéklehetőséget biztosít a gyerekeknek.", "category": "family", "coords": [-28.629621, 38.526548]}, {"name": "Parque Infantil dos Flamengos", "text": "A Parque Infantil dos Flamengos egy játszótér Horta területén, ideális egy gyerekekkel való kiránduláshoz.", "category": "family", "coords": [-28.653961, 38.547865]}], "ro": [{"name": "Forte de Santa Cruz da Horta", "text": "O fortăreață istorică construită pentru a proteja portul Horta.", "category": "fortress", "coords": [-28.626495, 38.531668]}, {"name": "Forte de São Sebastião", "text": "O fortăreață de coastă în Horta, pe insula Faial.", "category": "fortress", "coords": [-28.629748, 38.52485]}, {"name": "Reduto da Patrulha", "text": "O parte a fortificațiilor istorice din Porto Pim, Horta.", "category": "fortress", "coords": [-28.628511, 38.526386]}, {"name": "Torre do Relógio", "text": "Rămășițele unui turn cu ceas istoric din Horta.", "category": "historical", "coords": [-28.625745, 38.541473]}, {"name": "Palacete do Pilar", "text": "Un conac elegant în Horta, în Azore.", "category": "historical", "coords": [-28.625983, 38.54897]}, {"name": "Teatro Faialense", "text": "Principala clădire de teatru de pe insula Faial, situată în Horta.", "category": "cultural", "coords": [-28.624428, 38.541027]}, {"name": "Igreja Matriz do Santíssimo Salvador", "text": "Biserica principală barocă din Horta.", "category": "religious", "coords": [-28.626799, 38.537323]}, {"name": "Igreja de Nossa Senhora das Angústias", "text": "O biserică importantă din Horta, pe insula Faial.", "category": "religious", "coords": [-28.626995, 38.528197]}, {"name": "Ermida de Santa Bárbara", "text": "O mică capelă în Horta.", "category": "religious", "coords": [-28.644113, 38.531585]}, {"name": "Capela de Nossa Senhora da Guia", "text": "O capelă situată pe un deal cu vedere spre Horta.", "category": "religious", "coords": [-28.628458, 38.520556]}, {"name": "Igreja de Nossa Senhora do Rosário", "text": "O biserică istorică în Horta.", "category": "religious", "coords": [-28.62763, 38.534112]}, {"name": "Igreja de Nossa Senhora da Conceição", "text": "O biserică parohială în Horta.", "category": "religious", "coords": [-28.623796, 38.543624]}, {"name": "Igreja de Nossa Senhora do Carmo", "text": "Biserica fostei mănăstiri carmelite din Horta.", "category": "religious", "coords": [-28.628922, 38.538845]}, {"name": "Ermida de Nossa Senhora do Pilar", "text": "O capelă care oferă o vedere panoramică asupra orașului Horta.", "category": "religious", "coords": [-28.62456, 38.549625]}, {"name": "Ermida de Santo Amaro", "text": "Un mic lăcaș de cult în Horta.", "category": "religious", "coords": [-28.635181, 38.547655]}, {"name": "Império do Divino Espírito Santo da Infância", "text": "O mică capelă dedicată cultului Duhului Sfânt în Horta.", "category": "religious", "coords": [-28.626843, 38.530028]}, {"name": "Império Infantil do Farrobo", "text": "O capelă tradițională a cultului Duhului Sfânt în Farrobo, Horta.", "category": "religious", "coords": [-28.638951, 38.55396]}, {"name": "Império da Trindade", "text": "O capelă a Duhului Sfânt în Horta.", "category": "religious", "coords": [-28.611081, 38.555029]}, {"name": "Torre de Vigia do Porto Pim", "text": "Un mic turn de veghe istoric care oferă vedere spre golful Porto Pim din Horta.", "category": "landmark", "coords": [-28.63193, 38.524449]}, {"name": "Baía de Porto Pim", "text": "Un golf pitoresc din Horta, cunoscut pentru apele sale calme și peisajul vulcanic.", "category": "landmark", "coords": [-28.630409, 38.52243]}, {"name": "Baía da Horta", "text": "Golful principal din Horta, o oprire celebră pentru marinarii care traversează Atlanticul.", "category": "landmark", "coords": [-28.615047, 38.530776]}, {"name": "Jardim Botânico do Faial", "text": "O grădină botanică dedicată conservării florei unice a insulelor Azore.", "category": "landmark", "coords": [-28.638479, 38.550235]}, {"name": "Monte Carneiro", "text": "Un deal proeminent din Horta, care oferă vedere panoramică asupra orașului și a insulei Pico.", "category": "natural", "coords": [-28.64406, 38.540474]}, {"name": "Miradouro de Nossa Senhora da Conceição", "text": "Un punct de belvedere din Horta, dotat cu o statuie și o vedere largă asupra coastei.", "category": "natural", "coords": [-28.616213, 38.547685]}, {"name": "Praia do Almoxarife", "text": "Cunoscută pentru nisipul său vulcanic întunecat, această plajă din apropiere de Horta oferă o vedere fascinantă la impresionantul Munte Pico. O atmosferă impresionantă, naturală, predomină pe această porțiune specială de coastă. Vă puteți relaxa făcând plajă, puteți înota sau pur și simplu puteți admira peisajul vulcanic uimitor în timpul unei plimbări. Cele mai bune momente fotografice apar în zilele senine, cu o vizibilitate bună.", "category": "recreational", "coords": [-28.608705, 38.55426]}, {"name": "Praia da Conceição", "text": "Într-o locație protejată din Horta, această plajă oferă condiții excelente pentru o escapadă la ocean. O atmosferă foarte liniștită, relaxantă atrage pe oricine dorește să se bucure de apă în pace. Înotătorii se pot răcori în mare, în timp ce cei care caută relaxare se pot deconecta în timp ce fac plajă. O excursie în lunile de vară promite cele mai confortabile temperaturi ale apei.", "category": "recreational", "coords": [-28.619351, 38.542824]}, {"name": "Praia de Porto Pim", "text": "Amplasată într-un golf frumos din Horta, această plajă cu nisip fin fascinează prin peisajul său idilic. Apele blânde asigură o atmosferă sigură și armonioasă, deosebit de apreciată de familii. Înotul minunat în apă, plaja pe mal și plimbările de pe coastă completează experiența aici. Pentru ore netulburate, este recomandabil să ajungeți la începutul zilei.", "category": "recreational", "coords": [-28.62675, 38.524843]}, {"name": "Forte de Nossa Senhora da Guia", "text": "Un fort de coastă istoric construit pentru a proteja orașul Horta de pirați.", "category": "fortress", "coords": [-28.620317, 38.519835]}, {"name": "The Cedars House", "text": "Un conac istoric notabil situat în Horta.", "category": "historical", "coords": [-28.631199, 38.533673]}, {"name": "Núcleo Expositivo das Bicas", "text": "Un centru expozițional din Horta axat pe istoria și patrimoniul local.", "category": "museum", "coords": [-28.651659, 38.551331]}, {"name": "Casa dos Dabney", "text": "Un muzeu dedicat influentei familii Dabney și istoriei lor în Azore.", "category": "museum", "coords": [-28.626713, 38.52296]}, {"name": "Aquário do Porto Pim - Estação de Peixes Vivos", "text": "Un acvariu din Horta care evidențiază biodiversitatea marină a apelor înconjurătoare.", "category": "museum", "coords": [-28.628445, 38.522606]}, {"name": "Observatório do Mar dos Açores", "text": "Un muzeu și centru de cercetare axat pe marea și istoria maritimă a insulelor Azore.", "category": "museum", "coords": [-28.625388, 38.523078]}, {"name": "Solar da Quinta de São Lourenço", "text": "Un conac și o proprietate istorică elegantă situată în Horta.", "category": "historical", "coords": [-28.639422, 38.548619]}, {"name": "Casa Norberto Amaral", "text": "O reședință istorică clasică ce reprezintă moștenirea locală din Horta.", "category": "historical", "coords": [-28.631481, 38.555912]}, {"name": "Casa das Torrinhas", "text": "Un conac tradițional din Horta cu trăsături arhitecturale distinctive.", "category": "historical", "coords": [-28.625683, 38.537517]}, {"name": "Casa Freitas Pimentel", "text": "Un conac istoric care face parte din patrimoniul arhitectural al orașului Horta.", "category": "historical", "coords": [-28.626266, 38.538796]}, {"name": "Bagatelle", "text": "O casă istorică fermecătoare din Horta, cunoscută pentru numele și designul său unic.", "category": "historical", "coords": [-28.627713, 38.540535]}, {"name": "Palacete de Sant'Ana", "text": "Un mic palat istoric din Horta, cu detalii arhitecturale rafinate.", "category": "historical", "coords": [-28.630052, 38.53774]}, {"name": "Banco de Artistas", "text": "Un spațiu creativ din Horta care găzduiește expoziții de artă și evenimente locale.", "category": "cultural", "coords": [-28.626594, 38.534013]}, {"name": "Azores Naturalist", "text": "O organizație din Horta care oferă activități bazate pe natură și tururi pentru observarea faunei sălbatice.", "category": "landmark", "coords": [-28.625921, 38.528596]}, {"name": "Monte da Guia", "text": "Un con vulcanic protejat din Horta, care oferă vederi excepționale asupra oceanului.", "category": "landmark", "coords": [-28.624052, 38.519958]}, {"name": "Miradouro da Vista Alegre", "text": "Un punct de belvedere din Horta care oferă o priveliște plăcută asupra orașului.", "category": "natural", "coords": [-28.62984, 38.542476]}, {"name": "Miradouro do Mirante", "text": "Un punct de belvedere înalt din Horta, care oferă o perspectivă largă asupra insulei.", "category": "natural", "coords": [-28.635031, 38.556101]}, {"name": "Parque Infantil das Angústias", "text": "Parque Infantil das Angústias este un loc de joacă în Horta, oferind copiilor un spațiu pentru joacă.", "category": "family", "coords": [-28.629621, 38.526548]}, {"name": "Parque Infantil dos Flamengos", "text": "Parque Infantil dos Flamengos este un loc de joacă în Horta, ideal pentru o ieșire cu copiii.", "category": "family", "coords": [-28.653961, 38.547865]}], "en": [{"name": "Forte de Santa Cruz da Horta", "text": "A historic fort built to protect the harbor of Horta.", "category": "fortress", "coords": [-28.626495, 38.531668]}, {"name": "Forte de São Sebastião", "text": "A coastal fort in Horta on Faial Island.", "category": "fortress", "coords": [-28.629748, 38.52485]}, {"name": "Reduto da Patrulha", "text": "Part of the historical defensive works of Porto Pim in Horta.", "category": "fortress", "coords": [-28.628511, 38.526386]}, {"name": "Torre do Relógio", "text": "The remains of a historic clock tower in Horta.", "category": "historical", "coords": [-28.625745, 38.541473]}, {"name": "Palacete do Pilar", "text": "An elegant manor house in Horta, Azores.", "category": "historical", "coords": [-28.625983, 38.54897]}, {"name": "Teatro Faialense", "text": "The main theater building of Faial Island, located in Horta.", "category": "cultural", "coords": [-28.624428, 38.541027]}, {"name": "Igreja Matriz do Santíssimo Salvador", "text": "The Baroque main church of Horta.", "category": "religious", "coords": [-28.626799, 38.537323]}, {"name": "Church of Our Lady of Anguish", "text": "A significant church in Horta on Faial Island.", "category": "religious", "coords": [-28.626995, 38.528197]}, {"name": "Ermida de Santa Bárbara", "text": "A small chapel located in Horta.", "category": "religious", "coords": [-28.644113, 38.531585]}, {"name": "Capela de Nossa Senhora da Guia", "text": "A chapel situated on a hill overlooking Horta.", "category": "religious", "coords": [-28.628458, 38.520556]}, {"name": "Igreja de Nossa Senhora do Rosário", "text": "A historic church located in Horta.", "category": "religious", "coords": [-28.62763, 38.534112]}, {"name": "Igreja de Nossa Senhora da Conceição", "text": "A parish church located in Horta.", "category": "religious", "coords": [-28.623796, 38.543624]}, {"name": "Igreja de Nossa Senhora do Carmo", "text": "The church of the former Carmelite convent in Horta.", "category": "religious", "coords": [-28.628922, 38.538845]}, {"name": "Ermida de Nossa Senhora do Pilar", "text": "A chapel offering a broad view over Horta.", "category": "religious", "coords": [-28.62456, 38.549625]}, {"name": "Ermida de Santo Amaro", "text": "A small religious site in Horta.", "category": "religious", "coords": [-28.635181, 38.547655]}, {"name": "Império do Divino Espírito Santo da Infância", "text": "A small chapel dedicated to the cult of the Holy Spirit in Horta.", "category": "religious", "coords": [-28.626843, 38.530028]}, {"name": "Império Infantil do Farrobo", "text": "A traditional chapel of the Holy Spirit cult in Farrobo, Horta.", "category": "religious", "coords": [-28.638951, 38.55396]}, {"name": "Império da Trindade", "text": "A Holy Spirit chapel in Horta.", "category": "religious", "coords": [-28.611081, 38.555029]}, {"name": "Bartizan of Porto Pim", "text": "A small historical lookout tower overlooking the Porto Pim bay in Horta.", "category": "landmark", "coords": [-28.63193, 38.524449]}, {"name": "Baía de Porto Pim", "text": "A picturesque bay in Horta known for its calm waters and volcanic landscape.", "category": "landmark", "coords": [-28.630409, 38.52243]}, {"name": "Baía da Horta", "text": "The main bay of Horta, serving as a famous stopover for sailors crossing the Atlantic.", "category": "landmark", "coords": [-28.615047, 38.530776]}, {"name": "Faial Botanical Garden", "text": "A botanical garden dedicated to the conservation of the unique flora of the Azores.", "category": "landmark", "coords": [-28.638479, 38.550235]}, {"name": "Monte Carneiro", "text": "A prominent hill in Horta offering panoramic views over the city and the island of Pico.", "category": "natural", "coords": [-28.64406, 38.540474]}, {"name": "Miradouro de Nossa Senhora da Conceição", "text": "A viewpoint in Horta featuring a statue and a wide view of the coastline.", "category": "natural", "coords": [-28.616213, 38.547685]}, {"name": "Praia do Almoxarife", "text": "Renowned for its dark volcanic sand, this beach near Horta offers a mesmerizing view of the imposing Mount Pico. An impressive, close-to-nature atmosphere prevails on this distinctive stretch of coastline. Guests can comfortably sunbathe, go for a swim, or simply admire the striking volcanic landscape during a walk. The most spectacular photo opportunities arise on clear days with excellent visibility.", "category": "recreational", "coords": [-28.608705, 38.55426]}, {"name": "Praia da Conceição", "text": "Tucked away in a sheltered location in Horta, this beach provides excellent conditions for a getaway by the ocean. A very quiet, soothing atmosphere attracts anyone wanting to enjoy the water in peace. Swimmers can cool off in the sea, while those seeking rest can unwind while sunbathing. Taking a trip during the summer months guarantees the most pleasant water temperatures.", "category": "recreational", "coords": [-28.619351, 38.542824]}, {"name": "Praia de Porto Pim", "text": "Nestled in a stunning bay in Horta, this fine sandy beach fascinates with its idyllic coastal scenery. The gentle waters create a safe and harmonious mood that is especially appreciated by families. Wonderful swims in the water, sunbathing on the shore, and coastal strolls perfectly round off the experience. It is highly recommended to arrive early in the day for a few undisturbed hours.", "category": "recreational", "coords": [-28.62675, 38.524843]}, {"name": "Forte de Nossa Senhora da Guia", "text": "A historical coastal fort built to protect the city of Horta from pirates.", "category": "fortress", "coords": [-28.620317, 38.519835]}, {"name": "The Cedars House", "text": "A notable historical manor house located in Horta.", "category": "historical", "coords": [-28.631199, 38.533673]}, {"name": "Núcleo Expositivo das Bicas", "text": "An exhibition center in Horta focusing on local history and heritage.", "category": "museum", "coords": [-28.651659, 38.551331]}, {"name": "Dabney's House", "text": "A museum dedicated to the influential Dabney family and their history in the Azores.", "category": "museum", "coords": [-28.626713, 38.52296]}, {"name": "Porto Pim Aquarium - Live Fish Station", "text": "An aquarium in Horta highlighting the marine biodiversity of the surrounding waters.", "category": "museum", "coords": [-28.628445, 38.522606]}, {"name": "Observatório do Mar dos Açores", "text": "A museum and research center focused on the sea and maritime history of the Azores.", "category": "museum", "coords": [-28.625388, 38.523078]}, {"name": "Solar da Quinta de São Lourenço", "text": "An elegant historical manor and estate located in Horta.", "category": "historical", "coords": [-28.639422, 38.548619]}, {"name": "Casa Norberto Amaral", "text": "A classic historical residence representing the local heritage of Horta.", "category": "historical", "coords": [-28.631481, 38.555912]}, {"name": "Casa das Torrinhas", "text": "A traditional manor house in Horta with distinctive architectural features.", "category": "historical", "coords": [-28.625683, 38.537517]}, {"name": "Casa Freitas Pimentel", "text": "A historic manor house that is part of the architectural heritage of Horta.", "category": "historical", "coords": [-28.626266, 38.538796]}, {"name": "Bagatelle", "text": "A charming historical house in Horta known for its unique name and design.", "category": "historical", "coords": [-28.627713, 38.540535]}, {"name": "Palacete de Sant'Ana", "text": "A small historical palace in Horta with refined architectural details.", "category": "historical", "coords": [-28.630052, 38.53774]}, {"name": "Banco de Artistas", "text": "A creative space in Horta hosting local art exhibitions and events.", "category": "cultural", "coords": [-28.626594, 38.534013]}, {"name": "Azores Naturalist", "text": "An organization in Horta offering nature-based activities and wildlife tours.", "category": "landmark", "coords": [-28.625921, 38.528596]}, {"name": "Monte da Guia", "text": "A protected volcanic cone in Horta offering exceptional views of the ocean.", "category": "landmark", "coords": [-28.624052, 38.519958]}, {"name": "Miradouro da Vista Alegre", "text": "A viewpoint in Horta providing a pleasant vista of the city.", "category": "natural", "coords": [-28.62984, 38.542476]}, {"name": "Miradouro do Mirante", "text": "A high viewpoint in Horta offering a sweeping perspective of the island.", "category": "natural", "coords": [-28.635031, 38.556101]}, {"name": "Parque Infantil das Angústias", "text": "Parque Infantil das Angústias is a playground in Horta, providing a space for children to play.", "category": "family", "coords": [-28.629621, 38.526548]}, {"name": "Parque Infantil dos Flamengos", "text": "Parque Infantil dos Flamengos is a playground in Horta, ideal for an outing with children.", "category": "family", "coords": [-28.653961, 38.547865]}]},
+    id: "portugal-horta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte de Santa Cruz da Horta",
+                  "text": "Eine historische Festung zum Schutz des Hafens von Horta.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.626495,
+                        38.531668
+                  ]
+            },
+            {
+                  "name": "Forte de São Sebastião",
+                  "text": "Eine Küstenfestung in Horta auf der Insel Faial.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.629748,
+                        38.52485
+                  ]
+            },
+            {
+                  "name": "Reduto da Patrulha",
+                  "text": "Teil der historischen Verteidigungsanlagen von Porto Pim in Horta.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.628511,
+                        38.526386
+                  ]
+            },
+            {
+                  "name": "Torre do Relógio",
+                  "text": "Überreste eines historischen Uhrturms in Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625745,
+                        38.541473
+                  ]
+            },
+            {
+                  "name": "Palacete do Pilar",
+                  "text": "Ein elegantes Herrenhaus in Horta auf den Azoren.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625983,
+                        38.54897
+                  ]
+            },
+            {
+                  "name": "Teatro Faialense",
+                  "text": "Das wichtigste Theatergebäude der Insel Faial in Horta.",
+                  "category": "cultural",
+                  "coords": [
+                        -28.624428,
+                        38.541027
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz do Santíssimo Salvador",
+                  "text": "Die barocke Hauptkirche von Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626799,
+                        38.537323
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora das Angústias",
+                  "text": "Eine bedeutende Kirche in Horta auf der Insel Faial.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626995,
+                        38.528197
+                  ]
+            },
+            {
+                  "name": "Ermida de Santa Bárbara",
+                  "text": "Eine kleine Kapelle in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.644113,
+                        38.531585
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Guia",
+                  "text": "Eine Kapelle auf einem Hügel mit Blick auf Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.628458,
+                        38.520556
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário",
+                  "text": "Eine historische Kirche in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.62763,
+                        38.534112
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Conceição",
+                  "text": "Eine Pfarrkirche in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.623796,
+                        38.543624
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Carmo",
+                  "text": "Eine Kirche des ehemaligen Karmeliterklosters in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.628922,
+                        38.538845
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Pilar",
+                  "text": "Eine Kapelle mit weitem Blick über Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.62456,
+                        38.549625
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo Amaro",
+                  "text": "Eine kleine religiöse Stätte in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.635181,
+                        38.547655
+                  ]
+            },
+            {
+                  "name": "Império do Divino Espírito Santo da Infância",
+                  "text": "Eine kleine Kapelle für den Heilig-Geist-Kult in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626843,
+                        38.530028
+                  ]
+            },
+            {
+                  "name": "Império Infantil do Farrobo",
+                  "text": "Eine traditionelle Kapelle des Heilig-Geist-Kultes in Farrobo, Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.638951,
+                        38.55396
+                  ]
+            },
+            {
+                  "name": "Império da Trindade",
+                  "text": "Ein Heilig-Geist-Kapelle in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.611081,
+                        38.555029
+                  ]
+            },
+            {
+                  "name": "Torre de Vigia do Porto Pim",
+                  "text": "Ein kleiner historischer Wachturm mit Blick auf die Bucht von Porto Pim in Horta.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.63193,
+                        38.524449
+                  ]
+            },
+            {
+                  "name": "Baía de Porto Pim",
+                  "text": "Eine malerische Bucht in Horta, bekannt für ihr ruhiges Wasser und ihre Vulkanlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.630409,
+                        38.52243
+                  ]
+            },
+            {
+                  "name": "Baía da Horta",
+                  "text": "Die Hauptbucht von Horta, ein berühmter Zwischenstopp für Segler bei der Atlantiküberquerung.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.615047,
+                        38.530776
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico do Faial",
+                  "text": "Ein botanischer Garten, der der Erhaltung der einzigartigen Flora der Azoren gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.638479,
+                        38.550235
+                  ]
+            },
+            {
+                  "name": "Monte Carneiro",
+                  "text": "Ein markanter Hügel in Horta mit Panoramablick über die Stadt und die Insel Pico.",
+                  "category": "natural",
+                  "coords": [
+                        -28.64406,
+                        38.540474
+                  ]
+            },
+            {
+                  "name": "Miradouro de Nossa Senhora da Conceição",
+                  "text": "Ein Aussichtspunkt in Horta mit einer Statue und weitem Blick auf die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        -28.616213,
+                        38.547685
+                  ]
+            },
+            {
+                  "name": "Praia do Almoxarife",
+                  "text": "Bekannt für seinen dunklen Vulkansand, bietet dieser Strand bei Horta einen faszinierenden Blick auf den imposanten Berg Pico. Es herrscht eine naturnahe, beeindruckende Stimmung an diesem besonderen Küstenabschnitt. Man kann hier entspannt sonnenbaden, schwimmen oder einfach die eindrucksvolle Vulkanlandschaft bei einem Spaziergang bewundern. Die besten Fotomomente ergeben sich an klaren Tagen mit guter Fernsicht.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.608705,
+                        38.55426
+                  ]
+            },
+            {
+                  "name": "Praia da Conceição",
+                  "text": "In geschützter Lage in Horta bietet dieser Strand exzellente Bedingungen für eine Auszeit am Ozean. Eine sehr ruhige, entspannende Atmosphäre zieht all jene an, die das Wasser in Ruhe genießen möchten. Schwimmer können sich im Meer abkühlen, während Erholungssuchende beim Sonnenbaden die Seele baumeln lassen. Ein Ausflug in den Sommermonaten verspricht die angenehmsten Wassertemperaturen.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.619351,
+                        38.542824
+                  ]
+            },
+            {
+                  "name": "Praia de Porto Pim",
+                  "text": "Eingebettet in eine wunderschöne Bucht in Horta, fasziniert dieser feine Sandstrand durch sein idyllisches Landschaftsbild. Das sanfte Gewässer sorgt für eine sichere und harmonische Stimmung, die besonders Familien schätzen. Herrliche Runden im Wasser, Sonnenbaden am Ufer und Küstenspaziergänge runden das Erlebnis hier ab. Für ungestörte Stunden empfiehlt es sich, früh am Tag anzureisen.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.62675,
+                        38.524843
+                  ]
+            },
+            {
+                  "name": "Forte de Nossa Senhora da Guia",
+                  "text": "Eine historische Küstenfestung, die zum Schutz der Stadt Horta vor Piraten errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.620317,
+                        38.519835
+                  ]
+            },
+            {
+                  "name": "The Cedars House",
+                  "text": "Ein bemerkenswertes historisches Herrenhaus in Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.631199,
+                        38.533673
+                  ]
+            },
+            {
+                  "name": "Núcleo Expositivo das Bicas",
+                  "text": "Ein Ausstellungszentrum in Horta, das sich auf die lokale Geschichte und das Erbe konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -28.651659,
+                        38.551331
+                  ]
+            },
+            {
+                  "name": "Casa dos Dabney",
+                  "text": "Ein Museum, das der einflussreichen Familie Dabney und ihrer Geschichte auf den Azoren gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -28.626713,
+                        38.52296
+                  ]
+            },
+            {
+                  "name": "Aquário do Porto Pim - Estação de Peixes Vivos",
+                  "text": "Ein Aquarium in Horta, das die marine Artenvielfalt der umliegenden Gewässer zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -28.628445,
+                        38.522606
+                  ]
+            },
+            {
+                  "name": "Observatório do Mar dos Açores",
+                  "text": "Ein Museum und Forschungszentrum, das sich auf das Meer und die Seefahrtsgeschichte der Azoren konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -28.625388,
+                        38.523078
+                  ]
+            },
+            {
+                  "name": "Solar da Quinta de São Lourenço",
+                  "text": "Ein elegantes historisches Herrenhaus und Anwesen in Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.639422,
+                        38.548619
+                  ]
+            },
+            {
+                  "name": "Casa Norberto Amaral",
+                  "text": "Eine klassische historische Residenz, die das lokale Erbe von Horta repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        -28.631481,
+                        38.555912
+                  ]
+            },
+            {
+                  "name": "Casa das Torrinhas",
+                  "text": "Ein traditionelles Herrenhaus in Horta mit markanten architektonischen Merkmalen.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625683,
+                        38.537517
+                  ]
+            },
+            {
+                  "name": "Casa Freitas Pimentel",
+                  "text": "Ein historisches Herrenhaus, das Teil des architektonischen Erbes von Horta ist.",
+                  "category": "historical",
+                  "coords": [
+                        -28.626266,
+                        38.538796
+                  ]
+            },
+            {
+                  "name": "Bagatelle",
+                  "text": "Ein charmantes historisches Haus in Horta, bekannt für seinen einzigartigen Namen und sein Design.",
+                  "category": "historical",
+                  "coords": [
+                        -28.627713,
+                        38.540535
+                  ]
+            },
+            {
+                  "name": "Palacete de Sant'Ana",
+                  "text": "Ein kleiner historischer Palast in Horta mit raffinierten architektonischen Details.",
+                  "category": "historical",
+                  "coords": [
+                        -28.630052,
+                        38.53774
+                  ]
+            },
+            {
+                  "name": "Banco de Artistas",
+                  "text": "Ein kreativer Ort in Horta, an dem lokale Kunstausstellungen und Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -28.626594,
+                        38.534013
+                  ]
+            },
+            {
+                  "name": "Azores Naturalist",
+                  "text": "Eine Organisation in Horta, die naturnahe Aktivitäten und Wildtierbeobachtungen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.625921,
+                        38.528596
+                  ]
+            },
+            {
+                  "name": "Monte da Guia",
+                  "text": "Ein geschützter Vulkanlkegel in Horta mit außergewöhnlichem Blick auf den Ozean.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.624052,
+                        38.519958
+                  ]
+            },
+            {
+                  "name": "Miradouro da Vista Alegre",
+                  "text": "Ein Aussichtspunkt in Horta mit einem angenehmen Blick auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -28.62984,
+                        38.542476
+                  ]
+            },
+            {
+                  "name": "Miradouro do Mirante",
+                  "text": "Ein hoher Aussichtspunkt in Horta mit einem weiten Blick über die Insel.",
+                  "category": "natural",
+                  "coords": [
+                        -28.635031,
+                        38.556101
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Angústias",
+                  "text": "Parque Infantil das Angústias ist ein Spielplatz in Horta, der Kindern einen Platz zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -28.629621,
+                        38.526548
+                  ]
+            },
+            {
+                  "name": "Parque Infantil dos Flamengos",
+                  "text": "Parque Infantil dos Flamengos ist ein Spielplatz in Horta, ideal für einen Ausflug mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        -28.653961,
+                        38.547865
+                  ]
+            },
+            {
+                  "name": "Poça da Rainha (Lajinha)",
+                  "text": "Natürlicher Badebereich in Horta, ideal um den Ozean und die Küstenlandschaft zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        -28.651288,
+                        38.522467
+                  ]
+            },
+            {
+                  "name": "Porto da Feteira",
+                  "text": "Küstenbadeplatz in Horta, der eine ruhige Umgebung für Schwimmer bietet.",
+                  "category": "family",
+                  "coords": [
+                        -28.671098,
+                        38.52321
+                  ]
+            },
+            {
+                  "name": "Poça da Rainha (Feteira)",
+                  "text": "Lokaler Badebereich in Horta, bekannt für sein klares Wasser und die natürliche Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        -28.668631,
+                        38.5221
+                  ]
+            },
+            {
+                  "name": "Praia da Boca da Grota",
+                  "text": "Charmanter Strandbereich in Horta, perfekt für einen entspannten Tag am Meer.",
+                  "category": "family",
+                  "coords": [
+                        -28.608899,
+                        38.564861
+                  ]
+            },
+            {
+                  "name": "Praia dos Ingleses",
+                  "text": "Küstenabschnitt in Horta, der Besuchern einen Platz zum Schwimmen und Entspannen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -28.60974,
+                        38.557694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte de Santa Cruz da Horta",
+                  "text": "Történelmi erőd Horta kikötőjének védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.626495,
+                        38.531668
+                  ]
+            },
+            {
+                  "name": "Forte de São Sebastião",
+                  "text": "Parti erőd Horta városában, Faial szigetén.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.629748,
+                        38.52485
+                  ]
+            },
+            {
+                  "name": "Reduto da Patrulha",
+                  "text": "A Porto Pim-i történelmi védművek része Hortában.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.628511,
+                        38.526386
+                  ]
+            },
+            {
+                  "name": "Torre do Relógio",
+                  "text": "Egy történelmi óratorony maradványai Hortában.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625745,
+                        38.541473
+                  ]
+            },
+            {
+                  "name": "Palacete do Pilar",
+                  "text": "Elegáns udvarház Hortában, az Azori-szigeteken.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625983,
+                        38.54897
+                  ]
+            },
+            {
+                  "name": "Teatro Faialense",
+                  "text": "Faial szigetének legfontosabb színháza Hortában.",
+                  "category": "cultural",
+                  "coords": [
+                        -28.624428,
+                        38.541027
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz do Santíssimo Salvador",
+                  "text": "Horta barokk főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626799,
+                        38.537323
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora das Angústias",
+                  "text": "Jelentős templom Hortában, Faial szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626995,
+                        38.528197
+                  ]
+            },
+            {
+                  "name": "Ermida de Santa Bárbara",
+                  "text": "Kisméretű kápolna Hortában.",
+                  "category": "religious",
+                  "coords": [
+                        -28.644113,
+                        38.531585
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Guia",
+                  "text": "Kápolna egy dombtetőn, kilátással Hortára.",
+                  "category": "religious",
+                  "coords": [
+                        -28.628458,
+                        38.520556
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário",
+                  "text": "Történelmi templom Hortában.",
+                  "category": "religious",
+                  "coords": [
+                        -28.62763,
+                        38.534112
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Conceição",
+                  "text": "Plébániatemplom Hortában.",
+                  "category": "religious",
+                  "coords": [
+                        -28.623796,
+                        38.543624
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Carmo",
+                  "text": "Az egykori karmelita kolostor temploma Hortában.",
+                  "category": "religious",
+                  "coords": [
+                        -28.628922,
+                        38.538845
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Pilar",
+                  "text": "Kápolna, ahonnan széles kilátás nyílik Hortára.",
+                  "category": "religious",
+                  "coords": [
+                        -28.62456,
+                        38.549625
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo Amaro",
+                  "text": "Kisméretű vallási helyszín Hortában.",
+                  "category": "religious",
+                  "coords": [
+                        -28.635181,
+                        38.547655
+                  ]
+            },
+            {
+                  "name": "Império do Divino Espírito Santo da Infância",
+                  "text": "A Szentlélek-kultuszhoz kapcsolódó kápolna Hortában.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626843,
+                        38.530028
+                  ]
+            },
+            {
+                  "name": "Império Infantil do Farrobo",
+                  "text": "A Szentlélek-kultusz hagyományos kápolnája Farrobóban, Hortában.",
+                  "category": "religious",
+                  "coords": [
+                        -28.638951,
+                        38.55396
+                  ]
+            },
+            {
+                  "name": "Império da Trindade",
+                  "text": "Szentlélek-kápolna Hortában.",
+                  "category": "religious",
+                  "coords": [
+                        -28.611081,
+                        38.555029
+                  ]
+            },
+            {
+                  "name": "Torre de Vigia do Porto Pim",
+                  "text": "Egy kis történelmi őrtorony, amely a Porto Pim-öbölre néz Hortában.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.63193,
+                        38.524449
+                  ]
+            },
+            {
+                  "name": "Baía de Porto Pim",
+                  "text": "Egy festői öböl Hortában, amely nyugodt vizéről és vulkáni tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.630409,
+                        38.52243
+                  ]
+            },
+            {
+                  "name": "Baía da Horta",
+                  "text": "Horta fő öble, amely az Atlanti-óceánt átszelő hajósok híres megállóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.615047,
+                        38.530776
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico do Faial",
+                  "text": "Botanikus kert, amely az Azori-szigetek egyedülálló növényvilágának megőrzését szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.638479,
+                        38.550235
+                  ]
+            },
+            {
+                  "name": "Monte Carneiro",
+                  "text": "Egy kiemelkedő domb Hortában, ahonnan panorámás kilátás nyílik a városra és Pico szigetére.",
+                  "category": "natural",
+                  "coords": [
+                        -28.64406,
+                        38.540474
+                  ]
+            },
+            {
+                  "name": "Miradouro de Nossa Senhora da Conceição",
+                  "text": "Kilátó Hortában egy szoborral és széles kilátással a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        -28.616213,
+                        38.547685
+                  ]
+            },
+            {
+                  "name": "Praia do Almoxarife",
+                  "text": "A sötét vulkáni homokjáról ismert Horta melletti strand lenyűgöző kilátást nyújt az impozáns Pico-hegyre. Természetközeli, lenyűgöző hangulat uralkodik ezen a különleges partszakaszon. Itt nyugodtan napozhatunk, úszhatunk, vagy egy séta során megcsodálhatjuk a lenyűgöző vulkáni tájat. A legjobb fotózási pillanatok a tiszta, jó látási viszonyokat kínáló napokon adódnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.608705,
+                        38.55426
+                  ]
+            },
+            {
+                  "name": "Praia da Conceição",
+                  "text": "A Horta védett részén található strand kiváló feltételeket kínál egy óceáni pihenéshez. A rendkívül csendes, pihentető atmoszféra azokat vonzza, akik nyugodtan szeretnék élvezni a vizet. Az úszók lehűlhetnek a tengerben, míg a pihenni vágyók napozás közben lazíthatnak. Egy nyári hónapokban tett kirándulás a legkellemesebb vízhőmérsékletet ígéri.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.619351,
+                        38.542824
+                  ]
+            },
+            {
+                  "name": "Praia de Porto Pim",
+                  "text": "A Horta egyik gyönyörű öblébe ágyazott finom homokos strand idilli tájképével nyűgöz le. A csendes víz biztonságos és harmonikus légkört teremt, amelyet különösen a családok értékelnek. A vízben tett frissítő úszások, a parti napozás és a tengerparti séták teszik teljessé az itteni élményt. A zavartalan órák érdekében ajánlott korán érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.62675,
+                        38.524843
+                  ]
+            },
+            {
+                  "name": "Forte de Nossa Senhora da Guia",
+                  "text": "Történelmi parti erőd, amelyet Horta városának kalózok elleni védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.620317,
+                        38.519835
+                  ]
+            },
+            {
+                  "name": "The Cedars House",
+                  "text": "Egy jelentős történelmi kúria Hortában.",
+                  "category": "historical",
+                  "coords": [
+                        -28.631199,
+                        38.533673
+                  ]
+            },
+            {
+                  "name": "Núcleo Expositivo das Bicas",
+                  "text": "Kiállítási központ Hortában, amely a helyi történelemre és örökségre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -28.651659,
+                        38.551331
+                  ]
+            },
+            {
+                  "name": "Casa dos Dabney",
+                  "text": "A befolyásos Dabney családnak és az Azori-szigeteken töltött történelmüknek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -28.626713,
+                        38.52296
+                  ]
+            },
+            {
+                  "name": "Aquário do Porto Pim - Estação de Peixes Vivos",
+                  "text": "Akvárium Hortában, amely a környező vizek tengeri élővilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -28.628445,
+                        38.522606
+                  ]
+            },
+            {
+                  "name": "Observatório do Mar dos Açores",
+                  "text": "A tengerrel és az Azori-szigetek tengerészeti történelmével foglalkozó múzeum és kutatóközpont.",
+                  "category": "museum",
+                  "coords": [
+                        -28.625388,
+                        38.523078
+                  ]
+            },
+            {
+                  "name": "Solar da Quinta de São Lourenço",
+                  "text": "Elegáns történelmi kúria és birtok Hortában.",
+                  "category": "historical",
+                  "coords": [
+                        -28.639422,
+                        38.548619
+                  ]
+            },
+            {
+                  "name": "Casa Norberto Amaral",
+                  "text": "Klasszikus történelmi lakóház, amely Horta helyi örökségét képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        -28.631481,
+                        38.555912
+                  ]
+            },
+            {
+                  "name": "Casa das Torrinhas",
+                  "text": "Hagyományos kúria Hortában, jellegzetes építészeti vonásokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625683,
+                        38.537517
+                  ]
+            },
+            {
+                  "name": "Casa Freitas Pimentel",
+                  "text": "Történelmi kúria, amely Horta építészeti örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        -28.626266,
+                        38.538796
+                  ]
+            },
+            {
+                  "name": "Bagatelle",
+                  "text": "Bájos történelmi ház Hortában, amely egyedi nevéről és kialakításáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -28.627713,
+                        38.540535
+                  ]
+            },
+            {
+                  "name": "Palacete de Sant'Ana",
+                  "text": "Egy kis történelmi palota Hortában, kifinomult építészeti részletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        -28.630052,
+                        38.53774
+                  ]
+            },
+            {
+                  "name": "Banco de Artistas",
+                  "text": "Kreatív tér Hortában, amely helyi művészeti kiállításoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -28.626594,
+                        38.534013
+                  ]
+            },
+            {
+                  "name": "Azores Naturalist",
+                  "text": "Hortai szervezet, amely természetközeli tevékenységeket és vadon élő állatok megfigyelését kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.625921,
+                        38.528596
+                  ]
+            },
+            {
+                  "name": "Monte da Guia",
+                  "text": "Védett vulkáni kúp Hortában, ahonnan kivételes kilátás nyílik az óceánra.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.624052,
+                        38.519958
+                  ]
+            },
+            {
+                  "name": "Miradouro da Vista Alegre",
+                  "text": "Kilátó Hortában, ahonnan kellemes kilátás nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -28.62984,
+                        38.542476
+                  ]
+            },
+            {
+                  "name": "Miradouro do Mirante",
+                  "text": "Magasan fekvő kilátó Hortában, ahonnan átfogó perspektíva nyílik a szigetre.",
+                  "category": "natural",
+                  "coords": [
+                        -28.635031,
+                        38.556101
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Angústias",
+                  "text": "A Parque Infantil das Angústias egy játszótér Horta területén, amely játéklehetőséget biztosít a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -28.629621,
+                        38.526548
+                  ]
+            },
+            {
+                  "name": "Parque Infantil dos Flamengos",
+                  "text": "A Parque Infantil dos Flamengos egy játszótér Horta területén, ideális egy gyerekekkel való kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -28.653961,
+                        38.547865
+                  ]
+            },
+            {
+                  "name": "Poça da Rainha (Lajinha)",
+                  "text": "Természetes fürdőhely Hortában, amely ideális az óceán és a tengerparti táj élvezetéhez.",
+                  "category": "family",
+                  "coords": [
+                        -28.651288,
+                        38.522467
+                  ]
+            },
+            {
+                  "name": "Porto da Feteira",
+                  "text": "Tengerparti fürdőhely Hortában, amely nyugodt környezetet biztosít az úszóknak.",
+                  "category": "family",
+                  "coords": [
+                        -28.671098,
+                        38.52321
+                  ]
+            },
+            {
+                  "name": "Poça da Rainha (Feteira)",
+                  "text": "Helyi fürdőhely Hortában, amely tiszta vizéről és természetes környezetéről ismert.",
+                  "category": "family",
+                  "coords": [
+                        -28.668631,
+                        38.5221
+                  ]
+            },
+            {
+                  "name": "Praia da Boca da Grota",
+                  "text": "Bájos tengerparti rész Hortában, amely tökéletes egy pihentető naphoz a tengernél.",
+                  "category": "family",
+                  "coords": [
+                        -28.608899,
+                        38.564861
+                  ]
+            },
+            {
+                  "name": "Praia dos Ingleses",
+                  "text": "Tengerparti szakasz Hortában, amely úszási és pihenési lehetőséget kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        -28.60974,
+                        38.557694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte de Santa Cruz da Horta",
+                  "text": "O fortăreață istorică construită pentru a proteja portul Horta.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.626495,
+                        38.531668
+                  ]
+            },
+            {
+                  "name": "Forte de São Sebastião",
+                  "text": "O fortăreață de coastă în Horta, pe insula Faial.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.629748,
+                        38.52485
+                  ]
+            },
+            {
+                  "name": "Reduto da Patrulha",
+                  "text": "O parte a fortificațiilor istorice din Porto Pim, Horta.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.628511,
+                        38.526386
+                  ]
+            },
+            {
+                  "name": "Torre do Relógio",
+                  "text": "Rămășițele unui turn cu ceas istoric din Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625745,
+                        38.541473
+                  ]
+            },
+            {
+                  "name": "Palacete do Pilar",
+                  "text": "Un conac elegant în Horta, în Azore.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625983,
+                        38.54897
+                  ]
+            },
+            {
+                  "name": "Teatro Faialense",
+                  "text": "Principala clădire de teatru de pe insula Faial, situată în Horta.",
+                  "category": "cultural",
+                  "coords": [
+                        -28.624428,
+                        38.541027
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz do Santíssimo Salvador",
+                  "text": "Biserica principală barocă din Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626799,
+                        38.537323
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora das Angústias",
+                  "text": "O biserică importantă din Horta, pe insula Faial.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626995,
+                        38.528197
+                  ]
+            },
+            {
+                  "name": "Ermida de Santa Bárbara",
+                  "text": "O mică capelă în Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.644113,
+                        38.531585
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Guia",
+                  "text": "O capelă situată pe un deal cu vedere spre Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.628458,
+                        38.520556
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário",
+                  "text": "O biserică istorică în Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.62763,
+                        38.534112
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Conceição",
+                  "text": "O biserică parohială în Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.623796,
+                        38.543624
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Carmo",
+                  "text": "Biserica fostei mănăstiri carmelite din Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.628922,
+                        38.538845
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Pilar",
+                  "text": "O capelă care oferă o vedere panoramică asupra orașului Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.62456,
+                        38.549625
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo Amaro",
+                  "text": "Un mic lăcaș de cult în Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.635181,
+                        38.547655
+                  ]
+            },
+            {
+                  "name": "Império do Divino Espírito Santo da Infância",
+                  "text": "O mică capelă dedicată cultului Duhului Sfânt în Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626843,
+                        38.530028
+                  ]
+            },
+            {
+                  "name": "Império Infantil do Farrobo",
+                  "text": "O capelă tradițională a cultului Duhului Sfânt în Farrobo, Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.638951,
+                        38.55396
+                  ]
+            },
+            {
+                  "name": "Império da Trindade",
+                  "text": "O capelă a Duhului Sfânt în Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.611081,
+                        38.555029
+                  ]
+            },
+            {
+                  "name": "Torre de Vigia do Porto Pim",
+                  "text": "Un mic turn de veghe istoric care oferă vedere spre golful Porto Pim din Horta.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.63193,
+                        38.524449
+                  ]
+            },
+            {
+                  "name": "Baía de Porto Pim",
+                  "text": "Un golf pitoresc din Horta, cunoscut pentru apele sale calme și peisajul vulcanic.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.630409,
+                        38.52243
+                  ]
+            },
+            {
+                  "name": "Baía da Horta",
+                  "text": "Golful principal din Horta, o oprire celebră pentru marinarii care traversează Atlanticul.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.615047,
+                        38.530776
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico do Faial",
+                  "text": "O grădină botanică dedicată conservării florei unice a insulelor Azore.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.638479,
+                        38.550235
+                  ]
+            },
+            {
+                  "name": "Monte Carneiro",
+                  "text": "Un deal proeminent din Horta, care oferă vedere panoramică asupra orașului și a insulei Pico.",
+                  "category": "natural",
+                  "coords": [
+                        -28.64406,
+                        38.540474
+                  ]
+            },
+            {
+                  "name": "Miradouro de Nossa Senhora da Conceição",
+                  "text": "Un punct de belvedere din Horta, dotat cu o statuie și o vedere largă asupra coastei.",
+                  "category": "natural",
+                  "coords": [
+                        -28.616213,
+                        38.547685
+                  ]
+            },
+            {
+                  "name": "Praia do Almoxarife",
+                  "text": "Cunoscută pentru nisipul său vulcanic întunecat, această plajă din apropiere de Horta oferă o vedere fascinantă la impresionantul Munte Pico. O atmosferă impresionantă, naturală, predomină pe această porțiune specială de coastă. Vă puteți relaxa făcând plajă, puteți înota sau pur și simplu puteți admira peisajul vulcanic uimitor în timpul unei plimbări. Cele mai bune momente fotografice apar în zilele senine, cu o vizibilitate bună.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.608705,
+                        38.55426
+                  ]
+            },
+            {
+                  "name": "Praia da Conceição",
+                  "text": "Într-o locație protejată din Horta, această plajă oferă condiții excelente pentru o escapadă la ocean. O atmosferă foarte liniștită, relaxantă atrage pe oricine dorește să se bucure de apă în pace. Înotătorii se pot răcori în mare, în timp ce cei care caută relaxare se pot deconecta în timp ce fac plajă. O excursie în lunile de vară promite cele mai confortabile temperaturi ale apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.619351,
+                        38.542824
+                  ]
+            },
+            {
+                  "name": "Praia de Porto Pim",
+                  "text": "Amplasată într-un golf frumos din Horta, această plajă cu nisip fin fascinează prin peisajul său idilic. Apele blânde asigură o atmosferă sigură și armonioasă, deosebit de apreciată de familii. Înotul minunat în apă, plaja pe mal și plimbările de pe coastă completează experiența aici. Pentru ore netulburate, este recomandabil să ajungeți la începutul zilei.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.62675,
+                        38.524843
+                  ]
+            },
+            {
+                  "name": "Forte de Nossa Senhora da Guia",
+                  "text": "Un fort de coastă istoric construit pentru a proteja orașul Horta de pirați.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.620317,
+                        38.519835
+                  ]
+            },
+            {
+                  "name": "The Cedars House",
+                  "text": "Un conac istoric notabil situat în Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.631199,
+                        38.533673
+                  ]
+            },
+            {
+                  "name": "Núcleo Expositivo das Bicas",
+                  "text": "Un centru expozițional din Horta axat pe istoria și patrimoniul local.",
+                  "category": "museum",
+                  "coords": [
+                        -28.651659,
+                        38.551331
+                  ]
+            },
+            {
+                  "name": "Casa dos Dabney",
+                  "text": "Un muzeu dedicat influentei familii Dabney și istoriei lor în Azore.",
+                  "category": "museum",
+                  "coords": [
+                        -28.626713,
+                        38.52296
+                  ]
+            },
+            {
+                  "name": "Aquário do Porto Pim - Estação de Peixes Vivos",
+                  "text": "Un acvariu din Horta care evidențiază biodiversitatea marină a apelor înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        -28.628445,
+                        38.522606
+                  ]
+            },
+            {
+                  "name": "Observatório do Mar dos Açores",
+                  "text": "Un muzeu și centru de cercetare axat pe marea și istoria maritimă a insulelor Azore.",
+                  "category": "museum",
+                  "coords": [
+                        -28.625388,
+                        38.523078
+                  ]
+            },
+            {
+                  "name": "Solar da Quinta de São Lourenço",
+                  "text": "Un conac și o proprietate istorică elegantă situată în Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.639422,
+                        38.548619
+                  ]
+            },
+            {
+                  "name": "Casa Norberto Amaral",
+                  "text": "O reședință istorică clasică ce reprezintă moștenirea locală din Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.631481,
+                        38.555912
+                  ]
+            },
+            {
+                  "name": "Casa das Torrinhas",
+                  "text": "Un conac tradițional din Horta cu trăsături arhitecturale distinctive.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625683,
+                        38.537517
+                  ]
+            },
+            {
+                  "name": "Casa Freitas Pimentel",
+                  "text": "Un conac istoric care face parte din patrimoniul arhitectural al orașului Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.626266,
+                        38.538796
+                  ]
+            },
+            {
+                  "name": "Bagatelle",
+                  "text": "O casă istorică fermecătoare din Horta, cunoscută pentru numele și designul său unic.",
+                  "category": "historical",
+                  "coords": [
+                        -28.627713,
+                        38.540535
+                  ]
+            },
+            {
+                  "name": "Palacete de Sant'Ana",
+                  "text": "Un mic palat istoric din Horta, cu detalii arhitecturale rafinate.",
+                  "category": "historical",
+                  "coords": [
+                        -28.630052,
+                        38.53774
+                  ]
+            },
+            {
+                  "name": "Banco de Artistas",
+                  "text": "Un spațiu creativ din Horta care găzduiește expoziții de artă și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -28.626594,
+                        38.534013
+                  ]
+            },
+            {
+                  "name": "Azores Naturalist",
+                  "text": "O organizație din Horta care oferă activități bazate pe natură și tururi pentru observarea faunei sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.625921,
+                        38.528596
+                  ]
+            },
+            {
+                  "name": "Monte da Guia",
+                  "text": "Un con vulcanic protejat din Horta, care oferă vederi excepționale asupra oceanului.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.624052,
+                        38.519958
+                  ]
+            },
+            {
+                  "name": "Miradouro da Vista Alegre",
+                  "text": "Un punct de belvedere din Horta care oferă o priveliște plăcută asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -28.62984,
+                        38.542476
+                  ]
+            },
+            {
+                  "name": "Miradouro do Mirante",
+                  "text": "Un punct de belvedere înalt din Horta, care oferă o perspectivă largă asupra insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -28.635031,
+                        38.556101
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Angústias",
+                  "text": "Parque Infantil das Angústias este un loc de joacă în Horta, oferind copiilor un spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -28.629621,
+                        38.526548
+                  ]
+            },
+            {
+                  "name": "Parque Infantil dos Flamengos",
+                  "text": "Parque Infantil dos Flamengos este un loc de joacă în Horta, ideal pentru o ieșire cu copiii.",
+                  "category": "family",
+                  "coords": [
+                        -28.653961,
+                        38.547865
+                  ]
+            },
+            {
+                  "name": "Poça da Rainha (Lajinha)",
+                  "text": "Zonă naturală de înot în Horta, ideală pentru a te bucura de ocean și de peisajul de coastă.",
+                  "category": "family",
+                  "coords": [
+                        -28.651288,
+                        38.522467
+                  ]
+            },
+            {
+                  "name": "Porto da Feteira",
+                  "text": "Loc de înot de coastă în Horta, oferind un mediu liniștit pentru înotători.",
+                  "category": "family",
+                  "coords": [
+                        -28.671098,
+                        38.52321
+                  ]
+            },
+            {
+                  "name": "Poça da Rainha (Feteira)",
+                  "text": "Zonă locală de înot în Horta, cunoscută pentru apele sale clare și cadrul natural.",
+                  "category": "family",
+                  "coords": [
+                        -28.668631,
+                        38.5221
+                  ]
+            },
+            {
+                  "name": "Praia da Boca da Grota",
+                  "text": "Zonă de plajă fermecătoare în Horta, perfectă pentru o zi relaxantă la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        -28.608899,
+                        38.564861
+                  ]
+            },
+            {
+                  "name": "Praia dos Ingleses",
+                  "text": "Secțiune de coastă în Horta, oferind vizitatorilor un loc pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -28.60974,
+                        38.557694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte de Santa Cruz da Horta",
+                  "text": "A historic fort built to protect the harbor of Horta.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.626495,
+                        38.531668
+                  ]
+            },
+            {
+                  "name": "Forte de São Sebastião",
+                  "text": "A coastal fort in Horta on Faial Island.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.629748,
+                        38.52485
+                  ]
+            },
+            {
+                  "name": "Reduto da Patrulha",
+                  "text": "Part of the historical defensive works of Porto Pim in Horta.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.628511,
+                        38.526386
+                  ]
+            },
+            {
+                  "name": "Torre do Relógio",
+                  "text": "The remains of a historic clock tower in Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625745,
+                        38.541473
+                  ]
+            },
+            {
+                  "name": "Palacete do Pilar",
+                  "text": "An elegant manor house in Horta, Azores.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625983,
+                        38.54897
+                  ]
+            },
+            {
+                  "name": "Teatro Faialense",
+                  "text": "The main theater building of Faial Island, located in Horta.",
+                  "category": "cultural",
+                  "coords": [
+                        -28.624428,
+                        38.541027
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz do Santíssimo Salvador",
+                  "text": "The Baroque main church of Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626799,
+                        38.537323
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Anguish",
+                  "text": "A significant church in Horta on Faial Island.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626995,
+                        38.528197
+                  ]
+            },
+            {
+                  "name": "Ermida de Santa Bárbara",
+                  "text": "A small chapel located in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.644113,
+                        38.531585
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Guia",
+                  "text": "A chapel situated on a hill overlooking Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.628458,
+                        38.520556
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário",
+                  "text": "A historic church located in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.62763,
+                        38.534112
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Conceição",
+                  "text": "A parish church located in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.623796,
+                        38.543624
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Carmo",
+                  "text": "The church of the former Carmelite convent in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.628922,
+                        38.538845
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Pilar",
+                  "text": "A chapel offering a broad view over Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.62456,
+                        38.549625
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo Amaro",
+                  "text": "A small religious site in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.635181,
+                        38.547655
+                  ]
+            },
+            {
+                  "name": "Império do Divino Espírito Santo da Infância",
+                  "text": "A small chapel dedicated to the cult of the Holy Spirit in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.626843,
+                        38.530028
+                  ]
+            },
+            {
+                  "name": "Império Infantil do Farrobo",
+                  "text": "A traditional chapel of the Holy Spirit cult in Farrobo, Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.638951,
+                        38.55396
+                  ]
+            },
+            {
+                  "name": "Império da Trindade",
+                  "text": "A Holy Spirit chapel in Horta.",
+                  "category": "religious",
+                  "coords": [
+                        -28.611081,
+                        38.555029
+                  ]
+            },
+            {
+                  "name": "Bartizan of Porto Pim",
+                  "text": "A small historical lookout tower overlooking the Porto Pim bay in Horta.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.63193,
+                        38.524449
+                  ]
+            },
+            {
+                  "name": "Baía de Porto Pim",
+                  "text": "A picturesque bay in Horta known for its calm waters and volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.630409,
+                        38.52243
+                  ]
+            },
+            {
+                  "name": "Baía da Horta",
+                  "text": "The main bay of Horta, serving as a famous stopover for sailors crossing the Atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.615047,
+                        38.530776
+                  ]
+            },
+            {
+                  "name": "Faial Botanical Garden",
+                  "text": "A botanical garden dedicated to the conservation of the unique flora of the Azores.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.638479,
+                        38.550235
+                  ]
+            },
+            {
+                  "name": "Monte Carneiro",
+                  "text": "A prominent hill in Horta offering panoramic views over the city and the island of Pico.",
+                  "category": "natural",
+                  "coords": [
+                        -28.64406,
+                        38.540474
+                  ]
+            },
+            {
+                  "name": "Miradouro de Nossa Senhora da Conceição",
+                  "text": "A viewpoint in Horta featuring a statue and a wide view of the coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -28.616213,
+                        38.547685
+                  ]
+            },
+            {
+                  "name": "Praia do Almoxarife",
+                  "text": "Renowned for its dark volcanic sand, this beach near Horta offers a mesmerizing view of the imposing Mount Pico. An impressive, close-to-nature atmosphere prevails on this distinctive stretch of coastline. Guests can comfortably sunbathe, go for a swim, or simply admire the striking volcanic landscape during a walk. The most spectacular photo opportunities arise on clear days with excellent visibility.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.608705,
+                        38.55426
+                  ]
+            },
+            {
+                  "name": "Praia da Conceição",
+                  "text": "Tucked away in a sheltered location in Horta, this beach provides excellent conditions for a getaway by the ocean. A very quiet, soothing atmosphere attracts anyone wanting to enjoy the water in peace. Swimmers can cool off in the sea, while those seeking rest can unwind while sunbathing. Taking a trip during the summer months guarantees the most pleasant water temperatures.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.619351,
+                        38.542824
+                  ]
+            },
+            {
+                  "name": "Praia de Porto Pim",
+                  "text": "Nestled in a stunning bay in Horta, this fine sandy beach fascinates with its idyllic coastal scenery. The gentle waters create a safe and harmonious mood that is especially appreciated by families. Wonderful swims in the water, sunbathing on the shore, and coastal strolls perfectly round off the experience. It is highly recommended to arrive early in the day for a few undisturbed hours.",
+                  "category": "recreational",
+                  "coords": [
+                        -28.62675,
+                        38.524843
+                  ]
+            },
+            {
+                  "name": "Forte de Nossa Senhora da Guia",
+                  "text": "A historical coastal fort built to protect the city of Horta from pirates.",
+                  "category": "fortress",
+                  "coords": [
+                        -28.620317,
+                        38.519835
+                  ]
+            },
+            {
+                  "name": "The Cedars House",
+                  "text": "A notable historical manor house located in Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.631199,
+                        38.533673
+                  ]
+            },
+            {
+                  "name": "Núcleo Expositivo das Bicas",
+                  "text": "An exhibition center in Horta focusing on local history and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -28.651659,
+                        38.551331
+                  ]
+            },
+            {
+                  "name": "Dabney's House",
+                  "text": "A museum dedicated to the influential Dabney family and their history in the Azores.",
+                  "category": "museum",
+                  "coords": [
+                        -28.626713,
+                        38.52296
+                  ]
+            },
+            {
+                  "name": "Porto Pim Aquarium - Live Fish Station",
+                  "text": "An aquarium in Horta highlighting the marine biodiversity of the surrounding waters.",
+                  "category": "museum",
+                  "coords": [
+                        -28.628445,
+                        38.522606
+                  ]
+            },
+            {
+                  "name": "Observatório do Mar dos Açores",
+                  "text": "A museum and research center focused on the sea and maritime history of the Azores.",
+                  "category": "museum",
+                  "coords": [
+                        -28.625388,
+                        38.523078
+                  ]
+            },
+            {
+                  "name": "Solar da Quinta de São Lourenço",
+                  "text": "An elegant historical manor and estate located in Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.639422,
+                        38.548619
+                  ]
+            },
+            {
+                  "name": "Casa Norberto Amaral",
+                  "text": "A classic historical residence representing the local heritage of Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.631481,
+                        38.555912
+                  ]
+            },
+            {
+                  "name": "Casa das Torrinhas",
+                  "text": "A traditional manor house in Horta with distinctive architectural features.",
+                  "category": "historical",
+                  "coords": [
+                        -28.625683,
+                        38.537517
+                  ]
+            },
+            {
+                  "name": "Casa Freitas Pimentel",
+                  "text": "A historic manor house that is part of the architectural heritage of Horta.",
+                  "category": "historical",
+                  "coords": [
+                        -28.626266,
+                        38.538796
+                  ]
+            },
+            {
+                  "name": "Bagatelle",
+                  "text": "A charming historical house in Horta known for its unique name and design.",
+                  "category": "historical",
+                  "coords": [
+                        -28.627713,
+                        38.540535
+                  ]
+            },
+            {
+                  "name": "Palacete de Sant'Ana",
+                  "text": "A small historical palace in Horta with refined architectural details.",
+                  "category": "historical",
+                  "coords": [
+                        -28.630052,
+                        38.53774
+                  ]
+            },
+            {
+                  "name": "Banco de Artistas",
+                  "text": "A creative space in Horta hosting local art exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -28.626594,
+                        38.534013
+                  ]
+            },
+            {
+                  "name": "Azores Naturalist",
+                  "text": "An organization in Horta offering nature-based activities and wildlife tours.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.625921,
+                        38.528596
+                  ]
+            },
+            {
+                  "name": "Monte da Guia",
+                  "text": "A protected volcanic cone in Horta offering exceptional views of the ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        -28.624052,
+                        38.519958
+                  ]
+            },
+            {
+                  "name": "Miradouro da Vista Alegre",
+                  "text": "A viewpoint in Horta providing a pleasant vista of the city.",
+                  "category": "natural",
+                  "coords": [
+                        -28.62984,
+                        38.542476
+                  ]
+            },
+            {
+                  "name": "Miradouro do Mirante",
+                  "text": "A high viewpoint in Horta offering a sweeping perspective of the island.",
+                  "category": "natural",
+                  "coords": [
+                        -28.635031,
+                        38.556101
+                  ]
+            },
+            {
+                  "name": "Parque Infantil das Angústias",
+                  "text": "Parque Infantil das Angústias is a playground in Horta, providing a space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -28.629621,
+                        38.526548
+                  ]
+            },
+            {
+                  "name": "Parque Infantil dos Flamengos",
+                  "text": "Parque Infantil dos Flamengos is a playground in Horta, ideal for an outing with children.",
+                  "category": "family",
+                  "coords": [
+                        -28.653961,
+                        38.547865
+                  ]
+            },
+            {
+                  "name": "Poça da Rainha (Lajinha)",
+                  "text": "Natural swimming area in Horta, ideal for enjoying the ocean and coastal scenery.",
+                  "category": "family",
+                  "coords": [
+                        -28.651288,
+                        38.522467
+                  ]
+            },
+            {
+                  "name": "Porto da Feteira",
+                  "text": "Coastal swimming spot in Horta offering a calm environment for swimmers.",
+                  "category": "family",
+                  "coords": [
+                        -28.671098,
+                        38.52321
+                  ]
+            },
+            {
+                  "name": "Poça da Rainha (Feteira)",
+                  "text": "Local swimming area in Horta known for its clear waters and natural setting.",
+                  "category": "family",
+                  "coords": [
+                        -28.668631,
+                        38.5221
+                  ]
+            },
+            {
+                  "name": "Praia da Boca da Grota",
+                  "text": "Charming beach area in Horta, perfect for a relaxing day by the sea.",
+                  "category": "family",
+                  "coords": [
+                        -28.608899,
+                        38.564861
+                  ]
+            },
+            {
+                  "name": "Praia dos Ingleses",
+                  "text": "Coastal stretch in Horta offering visitors a place for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -28.60974,
+                        38.557694
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Horta", hu: "Horta", ro: "Horta", en: "Horta" },
@@ -1805,6 +3848,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.599277,
                         41.105145
                   ]
+            },
+            {
+                  "name": "Milícia Urbana - Indoor Paintball",
+                  "text": "Ein Indoor-Freizeitpark in Vila Nova De Gaia mit Fokus auf Paintball.",
+                  "category": "family",
+                  "coords": [
+                        -8.631378,
+                        41.100798
+                  ]
             }
       ],
       "hu": [
@@ -2292,6 +4344,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.599277,
                         41.105145
+                  ]
+            },
+            {
+                  "name": "Milícia Urbana - Indoor Paintball",
+                  "text": "Fedett szórakoztató központ Vila Nova De Gaia városában paintball lehetőséggel.",
+                  "category": "family",
+                  "coords": [
+                        -8.631378,
+                        41.100798
                   ]
             }
       ],
@@ -2781,6 +4842,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.599277,
                         41.105145
                   ]
+            },
+            {
+                  "name": "Milícia Urbana - Indoor Paintball",
+                  "text": "Un parc de distracții indoor în Vila Nova De Gaia cu accent pe paintball.",
+                  "category": "family",
+                  "coords": [
+                        -8.631378,
+                        41.100798
+                  ]
             }
       ],
       "en": [
@@ -3269,6 +5339,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.599277,
                         41.105145
                   ]
+            },
+            {
+                  "name": "Milícia Urbana - Indoor Paintball",
+                  "text": "An indoor theme park in Vila Nova De Gaia focusing on paintball.",
+                  "category": "family",
+                  "coords": [
+                        -8.631378,
+                        41.100798
+                  ]
             }
       ]
 },
@@ -3316,7 +5395,664 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-vila-nova-de-gaia-cities-v2.webp",
   },
   {
-    id: "portugal-matosinhos-cities-v2", "sights": {"de": [{"name": "Lago da Pasteleira", "text": "Das Lago da Pasteleira ist ein See in Matosinhos, der eine ruhige Kulisse für Parkbesucher bietet.", "category": "natural", "coords": [-8.659526, 41.15099]}, {"name": "Lago Grande", "text": "Der Lago Grande ist ein schöner See in Matosinhos, ideal für einen entspannten Nachmittag im Freien.", "category": "natural", "coords": [-8.643743, 41.153121]}, {"name": "Charca", "text": "Charca ist ein kleiner See in Matosinhos, der die natürliche Vielfalt der Region zeigt.", "category": "natural", "coords": [-8.686963, 41.169495]}, {"name": "Lago III", "text": "Der Lago III ist ein Teil der Seenlandschaft in Matosinhos und lädt zum Verweilen ein.", "category": "natural", "coords": [-8.683587, 41.168773]}, {"name": "Lago do Palácio de Cristal", "text": "Der Lago do Palácio de Cristal ist ein malerischer See in Matosinhos, gelegen in einer Gartenanlage.", "category": "natural", "coords": [-8.626358, 41.146358]}, {"name": "Lago do Parque de Serralves", "text": "Der Lago do Parque de Serralves ist ein See in Matosinhos, der in einen bedeutenden Park integriert ist.", "category": "natural", "coords": [-8.656915, 41.15776]}, {"name": "Lago II", "text": "Der Lago II ist ein See in Matosinhos, der eine friedliche Atmosphäre für Spaziergänger bietet.", "category": "natural", "coords": [-8.678059, 41.167399]}, {"name": "Lago I", "text": "Der Lago I ist ein ruhiger See in Matosinhos, ideal für eine Pause in der Natur.", "category": "natural", "coords": [-8.673753, 41.168099]}, {"name": "Parque Infantil do Senhor de Matosinhos", "text": "Der Parque Infantil do Senhor de Matosinhos ist ein Spielplatz in Matosinhos für Spiel und Spaß.", "category": "family", "coords": [-8.683018, 41.185362]}, {"name": "Parque Infantil da Biquinha", "text": "Der Parque Infantil da Biquinha ist ein familienfreundlicher Spielplatz in Matosinhos.", "category": "family", "coords": [-8.672968, 41.176752]}, {"name": "Estádio do Mar", "text": "Der Estádio do Mar ist ein öffentlicher Spielplatz in Matosinhos für Kinder.", "category": "family", "coords": [-8.668131, 41.186381]}, {"name": "Parque Infantil do Basílio Teles", "text": "Der Parque Infantil do Basílio Teles bietet Spielmöglichkeiten für Familien in Matosinhos.", "category": "family", "coords": [-8.68375, 41.182214]}, {"name": "Parque Infantil da Praia do Titan", "text": "Direkt an der weiten Küste von Matosinhos liegt dieser gut ausgestattete Spielplatz am Rande des Strandes. Es herrscht eine lebhafte und fröhliche Stimmung, wenn Kinder spielen und Familien das maritime Klima genießen. Man kann wunderbar am Ufer entlangspazieren und dem Meeresrauschen lauschen, während die Kleinen sich austoben. An sonnigen Tagen sollten Familien immer an ausreichend Sonnenschutz denken.", "category": "family", "coords": [-8.693927, 41.179312]}, {"name": "Parque Infantil Florbela Espanca", "text": "Der Parque Infantil Florbela Espanca ist ein schöner Ort zum Spielen für Kinder in Matosinhos.", "category": "family", "coords": [-8.704761, 41.19072]}], "hu": [{"name": "Lago da Pasteleira", "text": "A Lago da Pasteleira egy tó Matosinhosban, amely nyugodt környezetet biztosít a parklátogatóknak.", "category": "natural", "coords": [-8.659526, 41.15099]}, {"name": "Lago Grande", "text": "A Lago Grande egy szép tó Matosinhosban, ideális egy pihentető délutánhoz a szabadban.", "category": "natural", "coords": [-8.643743, 41.153121]}, {"name": "Charca", "text": "A Charca egy kis tó Matosinhosban, amely megmutatja a régió természetes sokszínűségét.", "category": "natural", "coords": [-8.686963, 41.169495]}, {"name": "Lago III", "text": "A Lago III a matosinhosi tórendszer része, és pihenésre hívja a látogatókat.", "category": "natural", "coords": [-8.683587, 41.168773]}, {"name": "Lago do Palácio de Cristal", "text": "A Lago do Palácio de Cristal egy festői tó Matosinhosban, egy kertrendszerben elhelyezve.", "category": "natural", "coords": [-8.626358, 41.146358]}, {"name": "Lago do Parque de Serralves", "text": "A Lago do Parque de Serralves egy tó Matosinhosban, amely egy jelentős park része.", "category": "natural", "coords": [-8.656915, 41.15776]}, {"name": "Lago II", "text": "A Lago II egy tó Matosinhosban, amely békés légkört biztosít a sétálóknak.", "category": "natural", "coords": [-8.678059, 41.167399]}, {"name": "Lago I", "text": "A Lago I egy nyugodt tó Matosinhosban, ideális egy pihenőhöz a természetben.", "category": "natural", "coords": [-8.673753, 41.168099]}, {"name": "Parque Infantil do Senhor de Matosinhos", "text": "A Parque Infantil do Senhor de Matosinhos egy játszótér Matosinhosban a játékhoz és szórakozáshoz.", "category": "family", "coords": [-8.683018, 41.185362]}, {"name": "Parque Infantil da Biquinha", "text": "A Parque Infantil da Biquinha egy családbarát játszótér Matosinhos városában.", "category": "family", "coords": [-8.672968, 41.176752]}, {"name": "Estádio do Mar", "text": "Az Estádio do Mar egy nyilvános játszótér Matosinhosban a gyerekek számára.", "category": "family", "coords": [-8.668131, 41.186381]}, {"name": "Parque Infantil do Basílio Teles", "text": "A Parque Infantil do Basílio Teles játéklehetőséget kínál a családok számára Matosinhosban.", "category": "family", "coords": [-8.68375, 41.182214]}, {"name": "Parque Infantil da Praia do Titan", "text": "Közvetlenül Matosinhos tágas partvidékén, a strand szélén található ez a jól felszerelt játszótér. Élénk és vidám hangulat uralkodik, amikor a gyerekek játszanak, és a családok élvezik a tengeri klímát. Csodálatosakat sétálhatunk a parton, hallgatva a tenger zúgását, miközben a kicsik kitombolják magukat. Napos időben a családoknak mindig gondolniuk kell a megfelelő napvédelemre.", "category": "family", "coords": [-8.693927, 41.179312]}, {"name": "Parque Infantil Florbela Espanca", "text": "A Parque Infantil Florbela Espanca egy szép hely a játékra a gyerekeknek Matosinhosban.", "category": "family", "coords": [-8.704761, 41.19072]}], "ro": [{"name": "Lago da Pasteleira", "text": "Lago da Pasteleira este un lac din Matosinhos, oferind un cadru liniștit pentru vizitatorii parcului.", "category": "natural", "coords": [-8.659526, 41.15099]}, {"name": "Lago Grande", "text": "Lago Grande este un lac frumos în Matosinhos, ideal pentru o după-amiază relaxantă în aer liber.", "category": "natural", "coords": [-8.643743, 41.153121]}, {"name": "Charca", "text": "Charca este un lac mic în Matosinhos, care prezintă diversitatea naturală a regiunii.", "category": "natural", "coords": [-8.686963, 41.169495]}, {"name": "Lago III", "text": "Lago III face parte din zona lacurilor din Matosinhos și invită la relaxare.", "category": "natural", "coords": [-8.683587, 41.168773]}, {"name": "Lago do Palácio de Cristal", "text": "Lago do Palácio de Cristal este un lac pitoresc în Matosinhos, situat într-o zonă de grădini.", "category": "natural", "coords": [-8.626358, 41.146358]}, {"name": "Lago do Parque de Serralves", "text": "Lago do Parque de Serralves este un lac din Matosinhos, integrat într-un parc important.", "category": "natural", "coords": [-8.656915, 41.15776]}, {"name": "Lago II", "text": "Lago II este un lac din Matosinhos, oferind o atmosferă liniștită pentru trecători.", "category": "natural", "coords": [-8.678059, 41.167399]}, {"name": "Lago I", "text": "Lago I este un lac liniștit în Matosinhos, ideal pentru o pauză în natură.", "category": "natural", "coords": [-8.673753, 41.168099]}, {"name": "Parque Infantil do Senhor de Matosinhos", "text": "Parque Infantil do Senhor de Matosinhos este un loc de joacă în Matosinhos pentru joacă și distracție.", "category": "family", "coords": [-8.683018, 41.185362]}, {"name": "Parque Infantil da Biquinha", "text": "Parque Infantil da Biquinha este un teren de joacă pentru familii situat în Matosinhos.", "category": "family", "coords": [-8.672968, 41.176752]}, {"name": "Estádio do Mar", "text": "Estádio do Mar este un loc de joacă public în Matosinhos pentru copii.", "category": "family", "coords": [-8.668131, 41.186381]}, {"name": "Parque Infantil do Basílio Teles", "text": "Parque Infantil do Basílio Teles oferă facilități de joacă pentru familii în Matosinhos.", "category": "family", "coords": [-8.68375, 41.182214]}, {"name": "Parque Infantil da Praia do Titan", "text": "Chiar pe vasta coastă din Matosinhos, acest loc de joacă bine echipat se află la marginea plajei. Există o atmosferă plină de viață și veselă când copiii se joacă și familiile se bucură de clima maritimă. Vă puteți plimba de-a lungul țărmului și puteți asculta sunetul mării în timp ce cei mici își consumă energia. În zilele însorite, familiile ar trebui să-și amintească întotdeauna de o protecție solară adecvată.", "category": "family", "coords": [-8.693927, 41.179312]}, {"name": "Parque Infantil Florbela Espanca", "text": "Parque Infantil Florbela Espanca este un loc plăcut de joacă pentru copii în Matosinhos.", "category": "family", "coords": [-8.704761, 41.19072]}], "en": [{"name": "Lago da Pasteleira", "text": "Lago da Pasteleira is a lake in Matosinhos, providing a calm backdrop for park visitors.", "category": "natural", "coords": [-8.659526, 41.15099]}, {"name": "Lago Grande", "text": "Lago Grande is a beautiful lake in Matosinhos, ideal for a relaxed afternoon outdoors.", "category": "natural", "coords": [-8.643743, 41.153121]}, {"name": "Charca", "text": "Charca is a small lake in Matosinhos, showcasing the natural diversity of the region.", "category": "natural", "coords": [-8.686963, 41.169495]}, {"name": "Lago III", "text": "Lago III is part of the lake landscape in Matosinhos and invites visitors to stay and relax.", "category": "natural", "coords": [-8.683587, 41.168773]}, {"name": "Lago do Palácio de Cristal", "text": "Lago do Palácio de Cristal is a scenic lake in Matosinhos, located within a garden complex.", "category": "natural", "coords": [-8.626358, 41.146358]}, {"name": "Lago do Parque de Serralves", "text": "Lago do Parque de Serralves is a lake in Matosinhos, integrated into a significant park.", "category": "natural", "coords": [-8.656915, 41.15776]}, {"name": "Lago II", "text": "Lago II is a lake in Matosinhos, offering a peaceful atmosphere for walkers.", "category": "natural", "coords": [-8.678059, 41.167399]}, {"name": "Lago I", "text": "Lago I is a peaceful lake in Matosinhos, ideal for a break in nature.", "category": "natural", "coords": [-8.673753, 41.168099]}, {"name": "Parque Infantil do Senhor de Matosinhos", "text": "Parque Infantil do Senhor de Matosinhos is a playground in Matosinhos for play and fun.", "category": "family", "coords": [-8.683018, 41.185362]}, {"name": "Parque Infantil da Biquinha", "text": "Parque Infantil da Biquinha is a family-friendly playground in Matosinhos.", "category": "family", "coords": [-8.672968, 41.176752]}, {"name": "Estádio do Mar", "text": "Estádio do Mar is a public playground in Matosinhos for children.", "category": "family", "coords": [-8.668131, 41.186381]}, {"name": "Parque Infantil do Basílio Teles", "text": "Parque Infantil do Basílio Teles offers play facilities for families in Matosinhos.", "category": "family", "coords": [-8.68375, 41.182214]}, {"name": "Parque Infantil da Praia do Titan", "text": "Set right on the expansive coast of Matosinhos, this well-equipped playground is situated at the edge of the beach. A lively and cheerful mood fills the air as children play and families soak up the maritime climate. You can easily stroll along the shore and listen to the sound of the ocean while the little ones let off steam. On sunny days, families should always remember to bring sufficient sun protection.", "category": "family", "coords": [-8.693927, 41.179312]}, {"name": "Parque Infantil Florbela Espanca", "text": "Parque Infantil Florbela Espanca is a nice place for children to play in Matosinhos.", "category": "family", "coords": [-8.704761, 41.19072]}]},
+    id: "portugal-matosinhos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lago da Pasteleira",
+                  "text": "Das Lago da Pasteleira ist ein See in Matosinhos, der eine ruhige Kulisse für Parkbesucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.659526,
+                        41.15099
+                  ]
+            },
+            {
+                  "name": "Lago Grande",
+                  "text": "Der Lago Grande ist ein schöner See in Matosinhos, ideal für einen entspannten Nachmittag im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        -8.643743,
+                        41.153121
+                  ]
+            },
+            {
+                  "name": "Charca",
+                  "text": "Charca ist ein kleiner See in Matosinhos, der die natürliche Vielfalt der Region zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.686963,
+                        41.169495
+                  ]
+            },
+            {
+                  "name": "Lago III",
+                  "text": "Der Lago III ist ein Teil der Seenlandschaft in Matosinhos und lädt zum Verweilen ein.",
+                  "category": "natural",
+                  "coords": [
+                        -8.683587,
+                        41.168773
+                  ]
+            },
+            {
+                  "name": "Lago do Palácio de Cristal",
+                  "text": "Der Lago do Palácio de Cristal ist ein malerischer See in Matosinhos, gelegen in einer Gartenanlage.",
+                  "category": "natural",
+                  "coords": [
+                        -8.626358,
+                        41.146358
+                  ]
+            },
+            {
+                  "name": "Lago do Parque de Serralves",
+                  "text": "Der Lago do Parque de Serralves ist ein See in Matosinhos, der in einen bedeutenden Park integriert ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.656915,
+                        41.15776
+                  ]
+            },
+            {
+                  "name": "Lago II",
+                  "text": "Der Lago II ist ein See in Matosinhos, der eine friedliche Atmosphäre für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.678059,
+                        41.167399
+                  ]
+            },
+            {
+                  "name": "Lago I",
+                  "text": "Der Lago I ist ein ruhiger See in Matosinhos, ideal für eine Pause in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -8.673753,
+                        41.168099
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Senhor de Matosinhos",
+                  "text": "Der Parque Infantil do Senhor de Matosinhos ist ein Spielplatz in Matosinhos für Spiel und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        -8.683018,
+                        41.185362
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Biquinha",
+                  "text": "Der Parque Infantil da Biquinha ist ein familienfreundlicher Spielplatz in Matosinhos.",
+                  "category": "family",
+                  "coords": [
+                        -8.672968,
+                        41.176752
+                  ]
+            },
+            {
+                  "name": "Estádio do Mar",
+                  "text": "Der Estádio do Mar ist ein öffentlicher Spielplatz in Matosinhos für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -8.668131,
+                        41.186381
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Basílio Teles",
+                  "text": "Der Parque Infantil do Basílio Teles bietet Spielmöglichkeiten für Familien in Matosinhos.",
+                  "category": "family",
+                  "coords": [
+                        -8.68375,
+                        41.182214
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praia do Titan",
+                  "text": "Direkt an der weiten Küste von Matosinhos liegt dieser gut ausgestattete Spielplatz am Rande des Strandes. Es herrscht eine lebhafte und fröhliche Stimmung, wenn Kinder spielen und Familien das maritime Klima genießen. Man kann wunderbar am Ufer entlangspazieren und dem Meeresrauschen lauschen, während die Kleinen sich austoben. An sonnigen Tagen sollten Familien immer an ausreichend Sonnenschutz denken.",
+                  "category": "family",
+                  "coords": [
+                        -8.693927,
+                        41.179312
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Florbela Espanca",
+                  "text": "Der Parque Infantil Florbela Espanca ist ein schöner Ort zum Spielen für Kinder in Matosinhos.",
+                  "category": "family",
+                  "coords": [
+                        -8.704761,
+                        41.19072
+                  ]
+            },
+            {
+                  "name": "Piratas à Solta - Eventos para crianças",
+                  "text": "Dieser Themenpark in Matosinhos konzentriert sich auf Kinderveranstaltungen und Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        -8.684004,
+                        41.176839
+                  ]
+            },
+            {
+                  "name": "Camelot Park",
+                  "text": "Dieser Indoor-Freizeitpark in Matosinhos bietet Spielbereiche und Spaß für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -8.682018,
+                        41.178827
+                  ]
+            },
+            {
+                  "name": "Piscinas de Marés",
+                  "text": "Diese Gezeiten-Schwimmbäder in Matosinhos bieten ein einzigartiges Familienschwimmerlebnis am Meer.",
+                  "category": "family",
+                  "coords": [
+                        -8.707492,
+                        41.192758
+                  ]
+            },
+            {
+                  "name": "Piscina de Adultos",
+                  "text": "Dieses Schwimmbad in Matosinhos bietet Raum für Erwachsene und Familien zum Genießen.",
+                  "category": "family",
+                  "coords": [
+                        -8.667552,
+                        41.181149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lago da Pasteleira",
+                  "text": "A Lago da Pasteleira egy tó Matosinhosban, amely nyugodt környezetet biztosít a parklátogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -8.659526,
+                        41.15099
+                  ]
+            },
+            {
+                  "name": "Lago Grande",
+                  "text": "A Lago Grande egy szép tó Matosinhosban, ideális egy pihentető délutánhoz a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        -8.643743,
+                        41.153121
+                  ]
+            },
+            {
+                  "name": "Charca",
+                  "text": "A Charca egy kis tó Matosinhosban, amely megmutatja a régió természetes sokszínűségét.",
+                  "category": "natural",
+                  "coords": [
+                        -8.686963,
+                        41.169495
+                  ]
+            },
+            {
+                  "name": "Lago III",
+                  "text": "A Lago III a matosinhosi tórendszer része, és pihenésre hívja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        -8.683587,
+                        41.168773
+                  ]
+            },
+            {
+                  "name": "Lago do Palácio de Cristal",
+                  "text": "A Lago do Palácio de Cristal egy festői tó Matosinhosban, egy kertrendszerben elhelyezve.",
+                  "category": "natural",
+                  "coords": [
+                        -8.626358,
+                        41.146358
+                  ]
+            },
+            {
+                  "name": "Lago do Parque de Serralves",
+                  "text": "A Lago do Parque de Serralves egy tó Matosinhosban, amely egy jelentős park része.",
+                  "category": "natural",
+                  "coords": [
+                        -8.656915,
+                        41.15776
+                  ]
+            },
+            {
+                  "name": "Lago II",
+                  "text": "A Lago II egy tó Matosinhosban, amely békés légkört biztosít a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -8.678059,
+                        41.167399
+                  ]
+            },
+            {
+                  "name": "Lago I",
+                  "text": "A Lago I egy nyugodt tó Matosinhosban, ideális egy pihenőhöz a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        -8.673753,
+                        41.168099
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Senhor de Matosinhos",
+                  "text": "A Parque Infantil do Senhor de Matosinhos egy játszótér Matosinhosban a játékhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.683018,
+                        41.185362
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Biquinha",
+                  "text": "A Parque Infantil da Biquinha egy családbarát játszótér Matosinhos városában.",
+                  "category": "family",
+                  "coords": [
+                        -8.672968,
+                        41.176752
+                  ]
+            },
+            {
+                  "name": "Estádio do Mar",
+                  "text": "Az Estádio do Mar egy nyilvános játszótér Matosinhosban a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.668131,
+                        41.186381
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Basílio Teles",
+                  "text": "A Parque Infantil do Basílio Teles játéklehetőséget kínál a családok számára Matosinhosban.",
+                  "category": "family",
+                  "coords": [
+                        -8.68375,
+                        41.182214
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praia do Titan",
+                  "text": "Közvetlenül Matosinhos tágas partvidékén, a strand szélén található ez a jól felszerelt játszótér. Élénk és vidám hangulat uralkodik, amikor a gyerekek játszanak, és a családok élvezik a tengeri klímát. Csodálatosakat sétálhatunk a parton, hallgatva a tenger zúgását, miközben a kicsik kitombolják magukat. Napos időben a családoknak mindig gondolniuk kell a megfelelő napvédelemre.",
+                  "category": "family",
+                  "coords": [
+                        -8.693927,
+                        41.179312
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Florbela Espanca",
+                  "text": "A Parque Infantil Florbela Espanca egy szép hely a játékra a gyerekeknek Matosinhosban.",
+                  "category": "family",
+                  "coords": [
+                        -8.704761,
+                        41.19072
+                  ]
+            },
+            {
+                  "name": "Piratas à Solta - Eventos para crianças",
+                  "text": "Ez a matosinhosi vidámpark gyermekrendezvényekre és családi szórakoztatásra összpontosít.",
+                  "category": "family",
+                  "coords": [
+                        -8.684004,
+                        41.176839
+                  ]
+            },
+            {
+                  "name": "Camelot Park",
+                  "text": "Ez a matosinhosi fedett vidámpark játszótereket és szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.682018,
+                        41.178827
+                  ]
+            },
+            {
+                  "name": "Piscinas de Marés",
+                  "text": "Ezek a matosinhosi árapály-úszómedencék egyedülálló családi úszási élményt nyújtanak a tengerparton.",
+                  "category": "family",
+                  "coords": [
+                        -8.707492,
+                        41.192758
+                  ]
+            },
+            {
+                  "name": "Piscina de Adultos",
+                  "text": "Ez a matosinhosi uszoda helyet biztosít felnőttek és családok számára a kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        -8.667552,
+                        41.181149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lago da Pasteleira",
+                  "text": "Lago da Pasteleira este un lac din Matosinhos, oferind un cadru liniștit pentru vizitatorii parcului.",
+                  "category": "natural",
+                  "coords": [
+                        -8.659526,
+                        41.15099
+                  ]
+            },
+            {
+                  "name": "Lago Grande",
+                  "text": "Lago Grande este un lac frumos în Matosinhos, ideal pentru o după-amiază relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -8.643743,
+                        41.153121
+                  ]
+            },
+            {
+                  "name": "Charca",
+                  "text": "Charca este un lac mic în Matosinhos, care prezintă diversitatea naturală a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -8.686963,
+                        41.169495
+                  ]
+            },
+            {
+                  "name": "Lago III",
+                  "text": "Lago III face parte din zona lacurilor din Matosinhos și invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -8.683587,
+                        41.168773
+                  ]
+            },
+            {
+                  "name": "Lago do Palácio de Cristal",
+                  "text": "Lago do Palácio de Cristal este un lac pitoresc în Matosinhos, situat într-o zonă de grădini.",
+                  "category": "natural",
+                  "coords": [
+                        -8.626358,
+                        41.146358
+                  ]
+            },
+            {
+                  "name": "Lago do Parque de Serralves",
+                  "text": "Lago do Parque de Serralves este un lac din Matosinhos, integrat într-un parc important.",
+                  "category": "natural",
+                  "coords": [
+                        -8.656915,
+                        41.15776
+                  ]
+            },
+            {
+                  "name": "Lago II",
+                  "text": "Lago II este un lac din Matosinhos, oferind o atmosferă liniștită pentru trecători.",
+                  "category": "natural",
+                  "coords": [
+                        -8.678059,
+                        41.167399
+                  ]
+            },
+            {
+                  "name": "Lago I",
+                  "text": "Lago I este un lac liniștit în Matosinhos, ideal pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -8.673753,
+                        41.168099
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Senhor de Matosinhos",
+                  "text": "Parque Infantil do Senhor de Matosinhos este un loc de joacă în Matosinhos pentru joacă și distracție.",
+                  "category": "family",
+                  "coords": [
+                        -8.683018,
+                        41.185362
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Biquinha",
+                  "text": "Parque Infantil da Biquinha este un teren de joacă pentru familii situat în Matosinhos.",
+                  "category": "family",
+                  "coords": [
+                        -8.672968,
+                        41.176752
+                  ]
+            },
+            {
+                  "name": "Estádio do Mar",
+                  "text": "Estádio do Mar este un loc de joacă public în Matosinhos pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -8.668131,
+                        41.186381
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Basílio Teles",
+                  "text": "Parque Infantil do Basílio Teles oferă facilități de joacă pentru familii în Matosinhos.",
+                  "category": "family",
+                  "coords": [
+                        -8.68375,
+                        41.182214
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praia do Titan",
+                  "text": "Chiar pe vasta coastă din Matosinhos, acest loc de joacă bine echipat se află la marginea plajei. Există o atmosferă plină de viață și veselă când copiii se joacă și familiile se bucură de clima maritimă. Vă puteți plimba de-a lungul țărmului și puteți asculta sunetul mării în timp ce cei mici își consumă energia. În zilele însorite, familiile ar trebui să-și amintească întotdeauna de o protecție solară adecvată.",
+                  "category": "family",
+                  "coords": [
+                        -8.693927,
+                        41.179312
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Florbela Espanca",
+                  "text": "Parque Infantil Florbela Espanca este un loc plăcut de joacă pentru copii în Matosinhos.",
+                  "category": "family",
+                  "coords": [
+                        -8.704761,
+                        41.19072
+                  ]
+            },
+            {
+                  "name": "Piratas à Solta - Eventos para crianças",
+                  "text": "Acest parc tematic din Matosinhos se concentrează pe evenimente pentru copii și divertisment în familie.",
+                  "category": "family",
+                  "coords": [
+                        -8.684004,
+                        41.176839
+                  ]
+            },
+            {
+                  "name": "Camelot Park",
+                  "text": "Acest parc de distracții interior din Matosinhos oferă zone de joacă și distracție pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -8.682018,
+                        41.178827
+                  ]
+            },
+            {
+                  "name": "Piscinas de Marés",
+                  "text": "Aceste piscine cu maree din Matosinhos oferă o experiență unică de înot în familie la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        -8.707492,
+                        41.192758
+                  ]
+            },
+            {
+                  "name": "Piscina de Adultos",
+                  "text": "Această piscină din Matosinhos oferă un spațiu pentru adulți și familii.",
+                  "category": "family",
+                  "coords": [
+                        -8.667552,
+                        41.181149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lago da Pasteleira",
+                  "text": "Lago da Pasteleira is a lake in Matosinhos, providing a calm backdrop for park visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -8.659526,
+                        41.15099
+                  ]
+            },
+            {
+                  "name": "Lago Grande",
+                  "text": "Lago Grande is a beautiful lake in Matosinhos, ideal for a relaxed afternoon outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        -8.643743,
+                        41.153121
+                  ]
+            },
+            {
+                  "name": "Charca",
+                  "text": "Charca is a small lake in Matosinhos, showcasing the natural diversity of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -8.686963,
+                        41.169495
+                  ]
+            },
+            {
+                  "name": "Lago III",
+                  "text": "Lago III is part of the lake landscape in Matosinhos and invites visitors to stay and relax.",
+                  "category": "natural",
+                  "coords": [
+                        -8.683587,
+                        41.168773
+                  ]
+            },
+            {
+                  "name": "Lago do Palácio de Cristal",
+                  "text": "Lago do Palácio de Cristal is a scenic lake in Matosinhos, located within a garden complex.",
+                  "category": "natural",
+                  "coords": [
+                        -8.626358,
+                        41.146358
+                  ]
+            },
+            {
+                  "name": "Lago do Parque de Serralves",
+                  "text": "Lago do Parque de Serralves is a lake in Matosinhos, integrated into a significant park.",
+                  "category": "natural",
+                  "coords": [
+                        -8.656915,
+                        41.15776
+                  ]
+            },
+            {
+                  "name": "Lago II",
+                  "text": "Lago II is a lake in Matosinhos, offering a peaceful atmosphere for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        -8.678059,
+                        41.167399
+                  ]
+            },
+            {
+                  "name": "Lago I",
+                  "text": "Lago I is a peaceful lake in Matosinhos, ideal for a break in nature.",
+                  "category": "natural",
+                  "coords": [
+                        -8.673753,
+                        41.168099
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Senhor de Matosinhos",
+                  "text": "Parque Infantil do Senhor de Matosinhos is a playground in Matosinhos for play and fun.",
+                  "category": "family",
+                  "coords": [
+                        -8.683018,
+                        41.185362
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Biquinha",
+                  "text": "Parque Infantil da Biquinha is a family-friendly playground in Matosinhos.",
+                  "category": "family",
+                  "coords": [
+                        -8.672968,
+                        41.176752
+                  ]
+            },
+            {
+                  "name": "Estádio do Mar",
+                  "text": "Estádio do Mar is a public playground in Matosinhos for children.",
+                  "category": "family",
+                  "coords": [
+                        -8.668131,
+                        41.186381
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Basílio Teles",
+                  "text": "Parque Infantil do Basílio Teles offers play facilities for families in Matosinhos.",
+                  "category": "family",
+                  "coords": [
+                        -8.68375,
+                        41.182214
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praia do Titan",
+                  "text": "Set right on the expansive coast of Matosinhos, this well-equipped playground is situated at the edge of the beach. A lively and cheerful mood fills the air as children play and families soak up the maritime climate. You can easily stroll along the shore and listen to the sound of the ocean while the little ones let off steam. On sunny days, families should always remember to bring sufficient sun protection.",
+                  "category": "family",
+                  "coords": [
+                        -8.693927,
+                        41.179312
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Florbela Espanca",
+                  "text": "Parque Infantil Florbela Espanca is a nice place for children to play in Matosinhos.",
+                  "category": "family",
+                  "coords": [
+                        -8.704761,
+                        41.19072
+                  ]
+            },
+            {
+                  "name": "Piratas à Solta - Eventos para crianças",
+                  "text": "This theme park in Matosinhos focuses on children's events and family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -8.684004,
+                        41.176839
+                  ]
+            },
+            {
+                  "name": "Camelot Park",
+                  "text": "This indoor amusement park in Matosinhos offers play areas and fun for families.",
+                  "category": "family",
+                  "coords": [
+                        -8.682018,
+                        41.178827
+                  ]
+            },
+            {
+                  "name": "Piscinas de Marés",
+                  "text": "These tidal swimming pools in Matosinhos offer a unique family swimming experience by the sea.",
+                  "category": "family",
+                  "coords": [
+                        -8.707492,
+                        41.192758
+                  ]
+            },
+            {
+                  "name": "Piscina de Adultos",
+                  "text": "This swimming pool in Matosinhos provides a space for adults and families to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        -8.667552,
+                        41.181149
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Matosinhos", hu: "Matosinhos", ro: "Matosinhos", en: "Matosinhos" },
@@ -3361,7 +6097,2212 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-matosinhos-cities-v2.webp",
   },
   {
-    id: "portugal-almada-cities-v2", "sights": {"de": [{"name": "Farol de Cacilhas", "text": "Ein markanter roter Eisenleuchtturm am Flussufer in Almada.", "category": "landmark", "coords": [-9.146361, 38.688075]}, {"name": "Palácio do Alfeite", "text": "Ein historischer Palast, der sich innerhalb eines Marinestützpunkts in Almada befindet.", "category": "castle", "coords": [-9.147342, 38.665121]}, {"name": "Museu da Música Filarmónica", "text": "Ein Museum in Almada, das der Geschichte der philharmonischen Musik gewidmet ist.", "category": "museum", "coords": [-9.158312, 38.68267]}, {"name": "Centro de Interpetação de Almada Velha", "text": "Ein Interpretationszentrum, das die Geschichte der Altstadt von Almada erforscht.", "category": "museum", "coords": [-9.159974, 38.681778]}, {"name": "Núcleo Medieval Moderno", "text": "Ein Museumsbereich in Almada, der sich auf die mittelalterliche und frühneuzeitliche Geschichte konzentriert.", "category": "museum", "coords": [-9.157314, 38.683723]}, {"name": "Museu de Arqueologia e História Local", "text": "Ein Museum in Almada, das lokale archäologische Funde und historische Artefakte zeigt.", "category": "museum", "coords": [-9.16096, 38.684006]}, {"name": "Teatro-Estúdio António Assunção", "text": "Ein Veranstaltungsort für darstellende Künste in Almada, an dem zeitgenössische Theaterproduktionen stattfinden.", "category": "cultural", "coords": [-9.161087, 38.681684]}, {"name": "Galeria Municipal de Arte", "text": "Eine städtische Kunstgalerie in Almada mit wechselnden zeitgenössischen Ausstellungen.", "category": "museum", "coords": [-9.164688, 38.676879]}, {"name": "Chafariz de Pombal", "text": "Ein historischer Brunnen und eine archäologische Stätte aus dem 18. Jahrhundert.", "category": "historical", "coords": [-9.162202, 38.674479]}, {"name": "Museu de Metrologia do Instituto Português da Qualidade", "text": "Ein Museum in Almada, das der Wissenschaft vom Messen und den Standards gewidmet ist.", "category": "museum", "coords": [-9.185992, 38.669956]}, {"name": "Auditório Municipal Fernando Lopes-Graça", "text": "Ein städtisches Auditorium in Almada, in dem Konzerte und Theaterveranstaltungen stattfinden.", "category": "cultural", "coords": [-9.158019, 38.678343]}, {"name": "Núcleo Museológico da Marinha Portuguesa de Almada", "text": "Ein Museumsbereich, der der Geschichte der portugiesischen Marine in Almada gewidmet ist.", "category": "museum", "coords": [-9.146676, 38.686658]}, {"name": "Oficina de Cultura", "text": "Eine Kulturwerkstatt und ein Ausstellungsraum im Herzen von Almada.", "category": "museum", "coords": [-9.158199, 38.679436]}, {"name": "Teatro Municipal Joaquim Benite", "text": "Das städtische Haupttheater von Almada, in dem eine breite Palette von Aufführungen stattfindet.", "category": "cultural", "coords": [-9.159687, 38.676117]}, {"name": "Companhia de Dança de Almada", "text": "Eine professionelle Tanzkompanie und ein Veranstaltungsort mit Sitz in Almada.", "category": "cultural", "coords": [-9.160362, 38.680444]}, {"name": "Alpha Teatro", "text": "Ein lokaler Theaterraum in Almada für unabhängige Produktionen und kulturelle Veranstaltungen.", "category": "cultural", "coords": [-9.164178, 38.652192]}, {"name": "Praia da Mutela", "text": "Mit einem tollen Blick auf Lissabon bietet dieser Flussstrand am Tejo in Almada eine großartige urbane Kulisse. Die Atmosphäre ist unkompliziert und lokal, perfekt für eine kurze Pause vom Alltag. Besucher genießen entspannte Stunden beim Spazierengehen am Ufer oder beim Beobachten der vorbeifahrenden Schiffe. Der späte Nachmittag taucht die Silhouette der gegenüberliegenden Stadt oft in ein magisches Licht.", "category": "recreational", "coords": [-9.149778, 38.673049]}, {"name": "Galeria de Arte Molduras", "text": "Eine Kunstgalerie in Almada, die lokale Werke und Einrahmungen zeigt.", "category": "museum", "coords": [-9.151415, 38.683904]}, {"name": "Nationalheiligtum Christkönig", "text": "Ein bedeutendes Monument und Wallfahrtsort mit Blick auf Lissabon.", "category": "historical", "coords": [-9.171338, 38.678602]}, {"name": "Friedenspark", "text": "Ein weitläufiger Stadtpark in Almada, ideal für Erholung im Grünen.", "category": "park", "coords": [-9.166164, 38.662083]}, {"name": "Elevador da Boca do Vento", "text": "Ein Panoramaufzug, der das historische Zentrum mit dem Flussufer verbindet.", "category": "landmark", "coords": [-9.158811, 38.684699]}, {"name": "Ponte 25 de Abril", "text": "Die ikonische Hängebrücke, die Almada über den Tejo mit Lissabon verbindet.", "category": "landmark", "coords": [-9.177338, 38.69411]}, {"name": "Os Perseguídos", "text": "Ein Denkmal in Almada, das den Verfolgten gewidmet ist.", "category": "historical", "coords": [-9.155816, 38.680221]}, {"name": "Chafariz de Cacilhas", "text": "Ein historischer Brunnen im Viertel Cacilhas in Almada.", "category": "historical", "coords": [-9.147988, 38.687169]}, {"name": "Fernão Mendes Pinto", "text": "Ein Denkmal zu Ehren des Entdeckers und Schriftstellers Fernão Mendes Pinto.", "category": "historical", "coords": [-9.171162, 38.673128]}, {"name": "Poço", "text": "Historische Ruinen eines alten Brunnens in Almada.", "category": "historical", "coords": [-9.157637, 38.669814]}, {"name": "Antigo Poço de Cacilhas", "text": "Die Überreste eines alten Brunnens im Viertel Cacilhas.", "category": "historical", "coords": [-9.149668, 38.685702]}, {"name": "Fonte da Mutela", "text": "Historische Überreste eines alten Brunnens in Almada.", "category": "historical", "coords": [-9.154344, 38.674793]}, {"name": "Quinta da Alegria", "text": "Überreste eines historischen Anwesens in Almada.", "category": "historical", "coords": [-9.150822, 38.681438]}, {"name": "Seminário Maior de São Paulo", "text": "Ein historisches Seminargebäude mit religiöser Bedeutung in Almada.", "category": "historical", "coords": [-9.162585, 38.681239]}, {"name": "Quinta de São João da Ramalha", "text": "Ruinen eines alten Landguts in der Region Almada.", "category": "historical", "coords": [-9.167415, 38.670566]}, {"name": "Miradouro do Largo Trindade Coelho", "text": "Ein öffentlicher Aussichtspunkt mit Blick auf die Umgebung von Almada.", "category": "natural", "coords": [-9.14951, 38.687531]}, {"name": "Jardim Botânico", "text": "Ein botanischer Garten in Almada, der die lokale Flora präsentiert.", "category": "landmark", "coords": [-9.159909, 38.683635]}, {"name": "Pórtico da Lisnave", "text": "Ein markantes Industriedenkmal am ehemaligen Werftgelände von Almada.", "category": "landmark", "coords": [-9.148334, 38.680719]}, {"name": "Viveiro do Parque da Paz", "text": "Ein Bereich innerhalb des Parque da Paz, der sich der Pflanzenaufzucht widmet.", "category": "landmark", "coords": [-9.163642, 38.663802]}, {"name": "Escola Primária António José Gomes", "text": "Ein historisches Schulgebäude in Almada mit lokaler Bedeutung.", "category": "landmark", "coords": [-9.155625, 38.672137]}, {"name": "Solar da Quinta de Vale Mourelos", "text": "Ein historisches Herrenhaus in der Gemeinde Almada.", "category": "historical", "coords": [-9.185056, 38.661845]}, {"name": "Moinho de Cacilhas", "text": "Eine historische Windmühle im Viertel Cacilhas.", "category": "landmark", "coords": [-9.14813, 38.685724]}, {"name": "Mercado da Romeira", "text": "Ein belebter Markt in Almada mit Gastronomie und lokalem Handel.", "category": "landmark", "coords": [-9.15249, 38.670395]}, {"name": "Igreja de Santiago", "text": "Eine historische Kirche im Herzen von Almada.", "category": "religious", "coords": [-9.156353, 38.6839]}, {"name": "Ermida do Mártir São Sebastião", "text": "Eine kleine Kapelle in Almada, die dem Heiligen Sebastian gewidmet ist.", "category": "religious", "coords": [-9.161396, 38.678579]}, {"name": "ETAR da Mutela", "text": "ETAR da Mutela ist ein See in Almada, der einen ruhigen Punkt in der städtischen Landschaft bildet.", "category": "natural", "coords": [-9.152314, 38.672799]}, {"name": "Lago Duque de Lafões", "text": "Lago Duque de Lafões ist ein See in Almada, ideal für eine entspannende Pause.", "category": "natural", "coords": [-9.169075, 38.70966]}, {"name": "Lagoa", "text": "Lagoa ist ein See in Almada, der eine natürliche Note in die Stadt bringt.", "category": "natural", "coords": [-9.188938, 38.716008]}, {"name": "Lago parque dos moinhos", "text": "Lago parque dos moinhos ist ein See in Almada, ein ruhiger Ort für Erholungssuchende.", "category": "natural", "coords": [-9.205239, 38.708635]}, {"name": "Tanque de refrigeração", "text": "Tanque de refrigeração ist ein See in Almada, der einen interessanten Wasserpunkt darstellt.", "category": "natural", "coords": [-9.164274, 38.619485]}, {"name": "Tanque", "text": "Tanque ist ein See in Almada, der eine friedliche Umgebung am Wasser bietet.", "category": "natural", "coords": [-9.18202, 38.709458]}, {"name": "Lago Principal", "text": "Lago Principal ist ein See in Almada, ideal für einen Spaziergang im Park.", "category": "natural", "coords": [-9.202917, 38.698231]}, {"name": "Parque Infantil do Parque da Juventude", "text": "Parque Infantil do Parque da Juventude ist ein Spielplatz in Almada für aktive Kinder.", "category": "family", "coords": [-9.165506, 38.672581]}, {"name": "Parque Infantil dos Caranguejais", "text": "Parque Infantil dos Caranguejais ist ein Spielplatz in Almada, der Familien willkommen heißt.", "category": "family", "coords": [-9.156365, 38.67456]}, {"name": "Parque Infantil da Praceta Jornal de Almada", "text": "Parque Infantil da Praceta Jornal de Almada ist ein Spielplatz in Almada zum Spielen im Freien.", "category": "family", "coords": [-9.152896, 38.678652]}, {"name": "Parque Infantil do Jardim Dr. Alberto Araújo", "text": "Parque Infantil do Jardim Dr. Alberto Araújo ist ein Spielplatz in Almada für einen Familienausflug.", "category": "family", "coords": [-9.158169, 38.68134]}, {"name": "Parque Infantil do Parque Urbano do Pragal", "text": "Parque Infantil do Parque Urbano do Pragal ist ein Spielplatz in Almada in einem Stadtpark.", "category": "family", "coords": [-9.17063, 38.66833]}, {"name": "AIPICA", "text": "AIPICA ist ein Spielplatz in Almada, der einen sicheren Bereich für Kinder bietet.", "category": "family", "coords": [-9.16464, 38.668208]}, {"name": "Jardim Infantil", "text": "Jardim Infantil ist ein Spielplatz in Almada, ideal für jüngere Kinder zum Spielen.", "category": "family", "coords": [-9.142984, 38.653244]}, {"name": "Parque Infantil Social", "text": "Parque Infantil Social ist ein Spielplatz in Almada, der Kindern einen Ort zum Toben bietet.", "category": "family", "coords": [-9.148157, 38.649913]}, {"name": "Parque Infantil do Parque Luís Sá", "text": "Parque Infantil do Parque Luís Sá ist ein Spielplatz in Almada in schöner Umgebung.", "category": "family", "coords": [-9.15144, 38.652861]}, {"name": "Jardim da Criança", "text": "Jardim da Criança ist ein Spielplatz in Almada, der einen freundlichen Spielbereich bietet.", "category": "family", "coords": [-9.158094, 38.663588]}, {"name": "Parque Infantil do Largo Padre Ricardo Gameiro", "text": "Parque Infantil do Largo Padre Ricardo Gameiro ist ein Spielplatz in Almada zum Spielen im Freien.", "category": "family", "coords": [-9.15629, 38.669441]}, {"name": "Parque Infantil da Rua António Nobre Cacilhas", "text": "Dieser Spielplatz in Almada bietet einen schönen Außenbereich für Kinder zum Spielen.", "category": "family", "coords": [-9.149047, 38.683873]}], "hu": [{"name": "Farol de Cacilhas", "text": "Jellegzetes vörös vas világítótorony Almada folyópartján.", "category": "landmark", "coords": [-9.146361, 38.688075]}, {"name": "Palácio do Alfeite", "text": "Történelmi palota egy tengerészeti bázis területén Almadában.", "category": "castle", "coords": [-9.147342, 38.665121]}, {"name": "Museu da Música Filarmónica", "text": "A filharmonikus zene történetének szentelt múzeum Almadában.", "category": "museum", "coords": [-9.158312, 38.68267]}, {"name": "Centro de Interpetação de Almada Velha", "text": "Almada óvárosának történelmét bemutató értelmező központ.", "category": "museum", "coords": [-9.159974, 38.681778]}, {"name": "Núcleo Medieval Moderno", "text": "Múzeumi részleg Almadában, amely a középkori és kora újkori történelemre összpontosít.", "category": "museum", "coords": [-9.157314, 38.683723]}, {"name": "Museu de Arqueologia e História Local", "text": "Almada régészeti leleteit és történelmi tárgyait bemutató múzeum.", "category": "museum", "coords": [-9.16096, 38.684006]}, {"name": "Teatro-Estúdio António Assunção", "text": "Előadóművészeti helyszín Almadában, amely kortárs színházi produkcióknak ad otthont.", "category": "cultural", "coords": [-9.161087, 38.681684]}, {"name": "Galeria Municipal de Arte", "text": "Önkormányzati művészeti galéria Almadában, váltakozó kortárs kiállításokkal.", "category": "museum", "coords": [-9.164688, 38.676879]}, {"name": "Chafariz de Pombal", "text": "Történelmi szökőkút és régészeti lelőhely a 18. századból.", "category": "historical", "coords": [-9.162202, 38.674479]}, {"name": "Museu de Metrologia do Instituto Português da Qualidade", "text": "A mérés tudományának és a szabványoknak szentelt múzeum Almadában.", "category": "museum", "coords": [-9.185992, 38.669956]}, {"name": "Auditório Municipal Fernando Lopes-Graça", "text": "Önkormányzati auditórium Almadában, amely koncerteknek és színházi eseményeknek ad otthont.", "category": "cultural", "coords": [-9.158019, 38.678343]}, {"name": "Núcleo Museológico da Marinha Portuguesa de Almada", "text": "A portugál haditengerészet történetének szentelt múzeumi részleg Almadában.", "category": "museum", "coords": [-9.146676, 38.686658]}, {"name": "Oficina de Cultura", "text": "Kulturális műhely és kiállítótér Almada szívében.", "category": "museum", "coords": [-9.158199, 38.679436]}, {"name": "Teatro Municipal Joaquim Benite", "text": "Almada fő önkormányzati színháza, amely előadások széles skálájának ad otthont.", "category": "cultural", "coords": [-9.159687, 38.676117]}, {"name": "Companhia de Dança de Almada", "text": "Almadában működő professzionális tánctársulat és előadóhely.", "category": "cultural", "coords": [-9.160362, 38.680444]}, {"name": "Alpha Teatro", "text": "Helyi színházi tér Almadában független produkciók és kulturális események számára.", "category": "cultural", "coords": [-9.164178, 38.652192]}, {"name": "Praia da Mutela", "text": "A lisszaboni nagyszerű kilátással büszkélkedő Tejo menti folyami strand Almadában fantasztikus városi hátteret kínál. A légkör laza és helyi, tökéletes egy rövid szünethez a mindennapokból. A látogatók pihentető órákat tölthetnek el a parti séták során, vagy a elhaladó hajók megfigyelésével. A késő délután gyakran varázslatos fénybe öltözteti a szemközti város sziluettjét.", "category": "recreational", "coords": [-9.149778, 38.673049]}, {"name": "Galeria de Arte Molduras", "text": "Művészeti galéria Almadában, amely helyi alkotásokat mutat be.", "category": "museum", "coords": [-9.151415, 38.683904]}, {"name": "Santuário Nacional de Cristo Rei", "text": "Hatalmas Krisztus-szobor és zarándokhely, kilátással Lisszabonra.", "category": "historical", "coords": [-9.171338, 38.678602]}, {"name": "Parque da Paz", "text": "Almada tágas városi parkja, amely ideális kikapcsolódásra.", "category": "park", "coords": [-9.166164, 38.662083]}, {"name": "Elevador da Boca do Vento", "text": "Panorámalift, amely összeköti a történelmi központot a folyóparttal.", "category": "landmark", "coords": [-9.158811, 38.684699]}, {"name": "Ponte 25 de Abril", "text": "Ikonikus függőhíd, amely összeköti Almadát Lisszabonnal a Tejo felett.", "category": "landmark", "coords": [-9.177338, 38.69411]}, {"name": "Os Perseguídos", "text": "Emlékmű Almadában az üldözöttek tiszteletére.", "category": "historical", "coords": [-9.155816, 38.680221]}, {"name": "Chafariz de Cacilhas", "text": "Történelmi szökőkút Almada Cacilhas negyedében.", "category": "historical", "coords": [-9.147988, 38.687169]}, {"name": "Fernão Mendes Pinto", "text": "Emlékmű Fernão Mendes Pinto felfedező és író tiszteletére.", "category": "historical", "coords": [-9.171162, 38.673128]}, {"name": "Poço", "text": "Egy régi kút történelmi romjai Almadában.", "category": "historical", "coords": [-9.157637, 38.669814]}, {"name": "Antigo Poço de Cacilhas", "text": "Egy régi kút maradványai Cacilhas negyedében.", "category": "historical", "coords": [-9.149668, 38.685702]}, {"name": "Fonte da Mutela", "text": "Egy régi forrás történelmi maradványai Almadában.", "category": "historical", "coords": [-9.154344, 38.674793]}, {"name": "Quinta da Alegria", "text": "Egy történelmi birtok romjai Almadában.", "category": "historical", "coords": [-9.150822, 38.681438]}, {"name": "Seminário Maior de São Paulo", "text": "Vallási jelentőségű történelmi szemináriumi épület Almadában.", "category": "historical", "coords": [-9.162585, 38.681239]}, {"name": "Quinta de São João da Ramalha", "text": "Egy régi udvarház romjai Almada régiójában.", "category": "historical", "coords": [-9.167415, 38.670566]}, {"name": "Miradouro do Largo Trindade Coelho", "text": "Nyilvános kilátópont, ahonnan Almada környékére nyílik kilátás.", "category": "natural", "coords": [-9.14951, 38.687531]}, {"name": "Jardim Botânico", "text": "Botanikus kert Almadában, amely a helyi növényvilágot mutatja be.", "category": "landmark", "coords": [-9.159909, 38.683635]}, {"name": "Pórtico da Lisnave", "text": "Jellegü ipari műemlék Almada egykori hajógyári területén.", "category": "landmark", "coords": [-9.148334, 38.680719]}, {"name": "Viveiro do Parque da Paz", "text": "A Parque da Paz növényneveldéje és természeti területe.", "category": "landmark", "coords": [-9.163642, 38.663802]}, {"name": "Escola Primária António José Gomes", "text": "Történelmi iskolaépület Almadában, amely helyi jelentőséggel bír.", "category": "landmark", "coords": [-9.155625, 38.672137]}, {"name": "Solar da Quinta de Vale Mourelos", "text": "Történelmi udvarház Almada településén.", "category": "historical", "coords": [-9.185056, 38.661845]}, {"name": "Moinho de Cacilhas", "text": "Történelmi szélmalom Cacilhas negyedében.", "category": "landmark", "coords": [-9.14813, 38.685724]}, {"name": "Mercado da Romeira", "text": "Nyüzsgő piac Almadában gasztronómiai és kereskedelmi kínálattal.", "category": "landmark", "coords": [-9.15249, 38.670395]}, {"name": "Igreja de Santiago", "text": "Történelmi templom Almada szívében.", "category": "religious", "coords": [-9.156353, 38.6839]}, {"name": "Ermida do Mártir São Sebastião", "text": "Szent Sebestyénnek szentelt kis kápolna Almadában.", "category": "religious", "coords": [-9.161396, 38.678579]}, {"name": "ETAR da Mutela", "text": "Az ETAR da Mutela egy tó Almada területén, amely egy nyugodt pontot alkot a városi környezetben.", "category": "natural", "coords": [-9.152314, 38.672799]}, {"name": "Lago Duque de Lafões", "text": "A Lago Duque de Lafões egy tó Almada területén, amely ideális egy pihentető szünethez.", "category": "natural", "coords": [-9.169075, 38.70966]}, {"name": "Lagoa", "text": "A Lagoa egy tó Almada területén, amely természetes hangulatot visz a városba.", "category": "natural", "coords": [-9.188938, 38.716008]}, {"name": "Lago parque dos moinhos", "text": "A Lago parque dos moinhos egy tó Almada területén, nyugodt hely a kikapcsolódni vágyóknak.", "category": "natural", "coords": [-9.205239, 38.708635]}, {"name": "Tanque de refrigeração", "text": "A Tanque de refrigeração egy tó Almada területén, amely egy érdekes vízi pontot képvisel.", "category": "natural", "coords": [-9.164274, 38.619485]}, {"name": "Tanque", "text": "A Tanque egy tó Almada területén, amely békés vízparti környezetet kínál.", "category": "natural", "coords": [-9.18202, 38.709458]}, {"name": "Lago Principal", "text": "A Lago Principal egy tó Almada területén, amely ideális egy parki sétához.", "category": "natural", "coords": [-9.202917, 38.698231]}, {"name": "Parque Infantil do Parque da Juventude", "text": "A Parque Infantil do Parque da Juventude egy játszótér Almada területén aktív gyerekeknek.", "category": "family", "coords": [-9.165506, 38.672581]}, {"name": "Parque Infantil dos Caranguejais", "text": "A Parque Infantil dos Caranguejais egy játszótér Almada területén, amely várja a családokat.", "category": "family", "coords": [-9.156365, 38.67456]}, {"name": "Parque Infantil da Praceta Jornal de Almada", "text": "A Parque Infantil da Praceta Jornal de Almada egy játszótér Almada területén a szabadtéri játékhoz.", "category": "family", "coords": [-9.152896, 38.678652]}, {"name": "Parque Infantil do Jardim Dr. Alberto Araújo", "text": "A Parque Infantil do Jardim Dr. Alberto Araújo egy játszótér Almada területén egy családi kiránduláshoz.", "category": "family", "coords": [-9.158169, 38.68134]}, {"name": "Parque Infantil do Parque Urbano do Pragal", "text": "A Parque Infantil do Parque Urbano do Pragal egy játszótér Almada egyik városi parkjában.", "category": "family", "coords": [-9.17063, 38.66833]}, {"name": "AIPICA", "text": "Az AIPICA egy játszótér Almada területén, amely biztonságos területet kínál a gyerekeknek.", "category": "family", "coords": [-9.16464, 38.668208]}, {"name": "Jardim Infantil", "text": "A Jardim Infantil egy játszótér Almada területén, ideális a kisebb gyerekeknek a játékhoz.", "category": "family", "coords": [-9.142984, 38.653244]}, {"name": "Parque Infantil Social", "text": "A Parque Infantil Social egy játszótér Almada területén, amely helyet biztosít a gyerekeknek a hancúrozáshoz.", "category": "family", "coords": [-9.148157, 38.649913]}, {"name": "Parque Infantil do Parque Luís Sá", "text": "A Parque Infantil do Parque Luís Sá egy játszótér Almada területén, szép környezetben.", "category": "family", "coords": [-9.15144, 38.652861]}, {"name": "Jardim da Criança", "text": "A Jardim da Criança egy játszótér Almada területén, amely barátságos játékteret kínál.", "category": "family", "coords": [-9.158094, 38.663588]}, {"name": "Parque Infantil do Largo Padre Ricardo Gameiro", "text": "A Parque Infantil do Largo Padre Ricardo Gameiro egy játszótér Almada területén a szabadtéri játékhoz.", "category": "family", "coords": [-9.15629, 38.669441]}, {"name": "Parque Infantil da Rua António Nobre Cacilhas", "text": "Ez az almadai játszótér kellemes szabadtéri kikapcsolódást nyújt a gyerekeknek.", "category": "family", "coords": [-9.149047, 38.683873]}], "ro": [{"name": "Farol de Cacilhas", "text": "Un far de fier roșu distinctiv, situat pe malul râului în Almada.", "category": "landmark", "coords": [-9.146361, 38.688075]}, {"name": "Palácio do Alfeite", "text": "Un palat istoric situat în incinta unei baze navale din Almada.", "category": "castle", "coords": [-9.147342, 38.665121]}, {"name": "Museu da Música Filarmónica", "text": "Un muzeu din Almada dedicat istoriei muzicii filarmonice.", "category": "museum", "coords": [-9.158312, 38.68267]}, {"name": "Centro de Interpetação de Almada Velha", "text": "Un centru de interpretare care explorează istoria orașului vechi Almada.", "category": "museum", "coords": [-9.159974, 38.681778]}, {"name": "Núcleo Medieval Moderno", "text": "O secțiune de muzeu din Almada axată pe istoria sa medievală și modernă timpurie.", "category": "museum", "coords": [-9.157314, 38.683723]}, {"name": "Museu de Arqueologia e História Local", "text": "Un muzeu din Almada care expune descoperiri arheologice locale și artefacte istorice.", "category": "museum", "coords": [-9.16096, 38.684006]}, {"name": "Teatro-Estúdio António Assunção", "text": "Un loc pentru artele spectacolului din Almada, care găzduiește producții de teatru contemporan.", "category": "cultural", "coords": [-9.161087, 38.681684]}, {"name": "Galeria Municipal de Arte", "text": "O galerie de artă municipală din Almada, care prezintă expoziții contemporane temporare.", "category": "museum", "coords": [-9.164688, 38.676879]}, {"name": "Chafariz de Pombal", "text": "O fântână istorică și sit arheologic datând din secolul al XVIII-lea.", "category": "historical", "coords": [-9.162202, 38.674479]}, {"name": "Museu de Metrologia do Instituto Português da Qualidade", "text": "Un muzeu din Almada dedicat științei măsurării și standardelor.", "category": "museum", "coords": [-9.185992, 38.669956]}, {"name": "Auditório Municipal Fernando Lopes-Graça", "text": "Un auditoriu municipal din Almada care găzduiește concerte și evenimente teatrale.", "category": "cultural", "coords": [-9.158019, 38.678343]}, {"name": "Núcleo Museológico da Marinha Portuguesa de Almada", "text": "O secțiune de muzeu dedicată istoriei Marinei Portugheze din Almada.", "category": "museum", "coords": [-9.146676, 38.686658]}, {"name": "Oficina de Cultura", "text": "Un atelier cultural și spațiu expozițional situat în inima orașului Almada.", "category": "museum", "coords": [-9.158199, 38.679436]}, {"name": "Teatro Municipal Joaquim Benite", "text": "Teatrul municipal principal din Almada, care găzduiește o gamă largă de spectacole.", "category": "cultural", "coords": [-9.159687, 38.676117]}, {"name": "Companhia de Dança de Almada", "text": "O companie de dans profesionistă și spațiu de spectacol cu sediul în Almada.", "category": "cultural", "coords": [-9.160362, 38.680444]}, {"name": "Alpha Teatro", "text": "Un spațiu de teatru local din Almada pentru producții independente și evenimente culturale.", "category": "cultural", "coords": [-9.164178, 38.652192]}, {"name": "Praia da Mutela", "text": "Oferind o priveliște excelentă asupra Lisabonei, această plajă fluvială de pe Tagus, din Almada, are un fundal urban superb. Atmosfera este necomplicată și locală, perfectă pentru o scurtă pauză de la viața de zi cu zi. Vizitatorii se bucură de ore de relaxare plimbându-se de-a lungul malului sau urmărind bărcile care trec. După-amiaza târziu scaldă adesea silueta orașului de vis-a-vis într-o lumină magică.", "category": "recreational", "coords": [-9.149778, 38.673049]}, {"name": "Galeria de Arte Molduras", "text": "O galerie de artă în Almada ce expune lucrări locale.", "category": "museum", "coords": [-9.151415, 38.683904]}, {"name": "Santuário Nacional de Cristo Rei", "text": "Un monument important și loc de pelerinaj cu vedere spre Lisabona.", "category": "historical", "coords": [-9.171338, 38.678602]}, {"name": "Parque da Paz", "text": "Un parc urban vast în Almada, ideal pentru recreere în aer liber.", "category": "park", "coords": [-9.166164, 38.662083]}, {"name": "Elevador da Boca do Vento", "text": "Un lift panoramic care conectează centrul istoric de malul râului.", "category": "landmark", "coords": [-9.158811, 38.684699]}, {"name": "Ponte 25 de Abril", "text": "Podul suspendat iconic care leagă Almada de Lisabona peste râul Tejo.", "category": "landmark", "coords": [-9.177338, 38.69411]}, {"name": "Os Perseguídos", "text": "Un monument în Almada dedicat celor persecutați.", "category": "historical", "coords": [-9.155816, 38.680221]}, {"name": "Chafariz de Cacilhas", "text": "O fântână istorică în cartierul Cacilhas din Almada.", "category": "historical", "coords": [-9.147988, 38.687169]}, {"name": "Fernão Mendes Pinto", "text": "Un monument în onoarea exploratorului și scriitorului Fernão Mendes Pinto.", "category": "historical", "coords": [-9.171162, 38.673128]}, {"name": "Poço", "text": "Ruinele istorice ale unei vechi fântâni în Almada.", "category": "historical", "coords": [-9.157637, 38.669814]}, {"name": "Antigo Poço de Cacilhas", "text": "Rămășițele unei vechi fântâni în cartierul Cacilhas.", "category": "historical", "coords": [-9.149668, 38.685702]}, {"name": "Fonte da Mutela", "text": "Rămășițe istorice ale unei vechi cișmele în Almada.", "category": "historical", "coords": [-9.154344, 38.674793]}, {"name": "Quinta da Alegria", "text": "Ruinele unei proprietăți istorice în Almada.", "category": "historical", "coords": [-9.150822, 38.681438]}, {"name": "Seminário Maior de São Paulo", "text": "O clădire istorică de seminar cu semnificație religioasă în Almada.", "category": "historical", "coords": [-9.162585, 38.681239]}, {"name": "Quinta de São João da Ramalha", "text": "Ruinele unui vechi conac în regiunea Almada.", "category": "historical", "coords": [-9.167415, 38.670566]}, {"name": "Miradouro do Largo Trindade Coelho", "text": "Un punct de observație public cu vedere spre împrejurimile orașului Almada.", "category": "natural", "coords": [-9.14951, 38.687531]}, {"name": "Jardim Botânico", "text": "O grădină botanică în Almada care prezintă flora locală.", "category": "landmark", "coords": [-9.159909, 38.683635]}, {"name": "Pórtico da Lisnave", "text": "Un monument industrial distinctiv pe fostul șantier naval din Almada.", "category": "landmark", "coords": [-9.148334, 38.680719]}, {"name": "Viveiro do Parque da Paz", "text": "O zonă în cadrul Parque da Paz dedicată pepinierei de plante.", "category": "landmark", "coords": [-9.163642, 38.663802]}, {"name": "Escola Primária António José Gomes", "text": "O clădire școlară istorică în Almada cu importanță locală.", "category": "landmark", "coords": [-9.155625, 38.672137]}, {"name": "Solar da Quinta de Vale Mourelos", "text": "Un conac istoric situat în municipalitatea Almada.", "category": "historical", "coords": [-9.185056, 38.661845]}, {"name": "Moinho de Cacilhas", "text": "O moară de vânt istorică în cartierul Cacilhas.", "category": "landmark", "coords": [-9.14813, 38.685724]}, {"name": "Mercado da Romeira", "text": "O piață vibrantă în Almada cu oferte gastronomice și comerciale.", "category": "landmark", "coords": [-9.15249, 38.670395]}, {"name": "Igreja de Santiago", "text": "O biserică istorică situată în inima orașului Almada.", "category": "religious", "coords": [-9.156353, 38.6839]}, {"name": "Ermida do Mártir São Sebastião", "text": "O mică capelă în Almada dedicată Sfântului Sebastian.", "category": "religious", "coords": [-9.161396, 38.678579]}, {"name": "ETAR da Mutela", "text": "ETAR da Mutela este un lac în Almada, formând un punct liniștit în peisajul urban.", "category": "natural", "coords": [-9.152314, 38.672799]}, {"name": "Lago Duque de Lafões", "text": "Lago Duque de Lafões este un lac în Almada, ideal pentru o pauză relaxantă.", "category": "natural", "coords": [-9.169075, 38.70966]}, {"name": "Lagoa", "text": "Lagoa este un lac în Almada, aducând o notă naturală în oraș.", "category": "natural", "coords": [-9.188938, 38.716008]}, {"name": "Lago parque dos moinhos", "text": "Lago parque dos moinhos este un lac în Almada, un loc liniștit pentru cei ce caută relaxare.", "category": "natural", "coords": [-9.205239, 38.708635]}, {"name": "Tanque de refrigeração", "text": "Tanque de refrigeração este un lac în Almada, reprezentând un punct de apă interesant.", "category": "natural", "coords": [-9.164274, 38.619485]}, {"name": "Tanque", "text": "Tanque este un lac în Almada, oferind un mediu liniștit lângă apă.", "category": "natural", "coords": [-9.18202, 38.709458]}, {"name": "Lago Principal", "text": "Lago Principal este un lac în Almada, ideal pentru o plimbare în parc.", "category": "natural", "coords": [-9.202917, 38.698231]}, {"name": "Parque Infantil do Parque da Juventude", "text": "Parque Infantil do Parque da Juventude este un loc de joacă în Almada pentru copii activi.", "category": "family", "coords": [-9.165506, 38.672581]}, {"name": "Parque Infantil dos Caranguejais", "text": "Parque Infantil dos Caranguejais este un loc de joacă în Almada, care primește familiile.", "category": "family", "coords": [-9.156365, 38.67456]}, {"name": "Parque Infantil da Praceta Jornal de Almada", "text": "Parque Infantil da Praceta Jornal de Almada este un loc de joacă în Almada pentru jocuri în aer liber.", "category": "family", "coords": [-9.152896, 38.678652]}, {"name": "Parque Infantil do Jardim Dr. Alberto Araújo", "text": "Parque Infantil do Jardim Dr. Alberto Araújo este un loc de joacă în Almada pentru o ieșire cu familia.", "category": "family", "coords": [-9.158169, 38.68134]}, {"name": "Parque Infantil do Parque Urbano do Pragal", "text": "Parque Infantil do Parque Urbano do Pragal este un loc de joacă într-un parc urban din Almada.", "category": "family", "coords": [-9.17063, 38.66833]}, {"name": "AIPICA", "text": "AIPICA este un loc de joacă în Almada, oferind o zonă sigură pentru copii.", "category": "family", "coords": [-9.16464, 38.668208]}, {"name": "Jardim Infantil", "text": "Jardim Infantil este un loc de joacă în Almada, ideal pentru copiii mai mici.", "category": "family", "coords": [-9.142984, 38.653244]}, {"name": "Parque Infantil Social", "text": "Parque Infantil Social este un loc de joacă în Almada, oferind copiilor un loc de zbânțuială.", "category": "family", "coords": [-9.148157, 38.649913]}, {"name": "Parque Infantil do Parque Luís Sá", "text": "Parque Infantil do Parque Luís Sá este un loc de joacă în Almada, situat într-un cadru plăcut.", "category": "family", "coords": [-9.15144, 38.652861]}, {"name": "Jardim da Criança", "text": "Jardim da Criança este un loc de joacă în Almada, oferind o zonă de joacă prietenoasă.", "category": "family", "coords": [-9.158094, 38.663588]}, {"name": "Parque Infantil do Largo Padre Ricardo Gameiro", "text": "Parque Infantil do Largo Padre Ricardo Gameiro este un loc de joacă în Almada pentru jocuri în aer liber.", "category": "family", "coords": [-9.15629, 38.669441]}, {"name": "Parque Infantil da Rua António Nobre Cacilhas", "text": "Acest loc de joacă din Almada oferă un spațiu plăcut în aer liber pentru copii.", "category": "family", "coords": [-9.149047, 38.683873]}], "en": [{"name": "Farol de Cacilhas", "text": "A distinctive red iron lighthouse located on the riverfront in Almada.", "category": "landmark", "coords": [-9.146361, 38.688075]}, {"name": "Palácio do Alfeite", "text": "A historical palace located within a naval base in Almada.", "category": "castle", "coords": [-9.147342, 38.665121]}, {"name": "Museu da Música Filarmónica", "text": "A museum in Almada dedicated to the history of philharmonic music.", "category": "museum", "coords": [-9.158312, 38.68267]}, {"name": "Centro de Interpetação de Almada Velha", "text": "An interpretation center exploring the history of the old town of Almada.", "category": "museum", "coords": [-9.159974, 38.681778]}, {"name": "Núcleo Medieval Moderno", "text": "A museum section in Almada focusing on its medieval and early modern history.", "category": "museum", "coords": [-9.157314, 38.683723]}, {"name": "Museu de Arqueologia e História Local", "text": "A museum in Almada showcasing local archaeological finds and historical artifacts.", "category": "museum", "coords": [-9.16096, 38.684006]}, {"name": "Teatro-Estúdio António Assunção", "text": "A performing arts venue in Almada hosting contemporary theatre productions.", "category": "cultural", "coords": [-9.161087, 38.681684]}, {"name": "Galeria Municipal de Arte", "text": "A municipal art gallery in Almada featuring rotating contemporary exhibitions.", "category": "museum", "coords": [-9.164688, 38.676879]}, {"name": "Chafariz de Pombal", "text": "A historical fountain and archaeological site dating back to the 18th century.", "category": "historical", "coords": [-9.162202, 38.674479]}, {"name": "Museu de Metrologia do Instituto Português da Qualidade", "text": "A museum in Almada dedicated to the science of measurement and standards.", "category": "museum", "coords": [-9.185992, 38.669956]}, {"name": "Auditório Municipal Fernando Lopes-Graça", "text": "A municipal auditorium in Almada hosting concerts and theatrical events.", "category": "cultural", "coords": [-9.158019, 38.678343]}, {"name": "Núcleo Museológico da Marinha Portuguesa de Almada", "text": "A museum section dedicated to the history of the Portuguese Navy in Almada.", "category": "museum", "coords": [-9.146676, 38.686658]}, {"name": "Oficina de Cultura", "text": "A cultural workshop and exhibition space in the heart of Almada.", "category": "museum", "coords": [-9.158199, 38.679436]}, {"name": "Teatro Municipal Joaquim Benite", "text": "The main municipal theatre of Almada, hosting a wide range of performances.", "category": "cultural", "coords": [-9.159687, 38.676117]}, {"name": "Companhia de Dança de Almada", "text": "A professional dance company and performance venue based in Almada.", "category": "cultural", "coords": [-9.160362, 38.680444]}, {"name": "Alpha Teatro", "text": "A local theatre space in Almada for independent productions and cultural events.", "category": "cultural", "coords": [-9.164178, 38.652192]}, {"name": "Praia da Mutela", "text": "Featuring a grand view of Lisbon, this river beach on the Tagus in Almada provides a magnificent urban backdrop. The atmosphere is uncomplicated and highly localized, perfect for a short break from daily life. Visitors enjoy relaxed hours walking along the bank or watching the passing ships. The late afternoon often bathes the silhouette of the city across the river in a magical light.", "category": "recreational", "coords": [-9.149778, 38.673049]}, {"name": "Galeria de Arte Molduras", "text": "An art gallery in Almada displaying local works and frames.", "category": "museum", "coords": [-9.151415, 38.683904]}, {"name": "National Shrine of Christ the King", "text": "A major monument and pilgrimage site overlooking Lisbon.", "category": "historical", "coords": [-9.171338, 38.678602]}, {"name": "Parque da Paz", "text": "A large urban park in Almada, ideal for outdoor recreation.", "category": "park", "coords": [-9.166164, 38.662083]}, {"name": "Elevador da Boca do Vento", "text": "A panoramic elevator connecting the historic centre with the riverbank.", "category": "landmark", "coords": [-9.158811, 38.684699]}, {"name": "25th of April Bridge", "text": "The iconic suspension bridge connecting Almada to Lisbon over the Tagus river.", "category": "landmark", "coords": [-9.177338, 38.69411]}, {"name": "Os Perseguídos", "text": "A monument in Almada dedicated to the persecuted.", "category": "historical", "coords": [-9.155816, 38.680221]}, {"name": "Chafariz de Cacilhas", "text": "A historic fountain in the Cacilhas district of Almada.", "category": "historical", "coords": [-9.147988, 38.687169]}, {"name": "Fernão Mendes Pinto", "text": "A monument honoring the explorer and writer Fernão Mendes Pinto.", "category": "historical", "coords": [-9.171162, 38.673128]}, {"name": "Poço", "text": "Historic ruins of an old well in Almada.", "category": "historical", "coords": [-9.157637, 38.669814]}, {"name": "Antigo Poço de Cacilhas", "text": "The remains of an old well in the Cacilhas district.", "category": "historical", "coords": [-9.149668, 38.685702]}, {"name": "Fonte da Mutela", "text": "Historic remains of an old fountain in Almada.", "category": "historical", "coords": [-9.154344, 38.674793]}, {"name": "Quinta da Alegria", "text": "Ruins of a historical estate in Almada.", "category": "historical", "coords": [-9.150822, 38.681438]}, {"name": "Seminário Maior de São Paulo", "text": "A historic seminary building of religious significance in Almada.", "category": "historical", "coords": [-9.162585, 38.681239]}, {"name": "Quinta de São João da Ramalha", "text": "Ruins of an old manor house in the Almada region.", "category": "historical", "coords": [-9.167415, 38.670566]}, {"name": "Miradouro do Largo Trindade Coelho", "text": "A public viewpoint overlooking the surroundings of Almada.", "category": "natural", "coords": [-9.14951, 38.687531]}, {"name": "Jardim Botânico", "text": "A botanical garden in Almada showcasing local flora.", "category": "landmark", "coords": [-9.159909, 38.683635]}, {"name": "Pórtico da Lisnave", "text": "A distinctive industrial monument at the former shipyard area of Almada.", "category": "landmark", "coords": [-9.148334, 38.680719]}, {"name": "Viveiro do Parque da Paz", "text": "An area within Parque da Paz dedicated to plant nurseries.", "category": "landmark", "coords": [-9.163642, 38.663802]}, {"name": "Escola Primária António José Gomes", "text": "A historic school building in Almada of local significance.", "category": "landmark", "coords": [-9.155625, 38.672137]}, {"name": "Solar da Quinta de Vale Mourelos", "text": "A historical manor house located in the Almada municipality.", "category": "historical", "coords": [-9.185056, 38.661845]}, {"name": "Moinho de Cacilhas", "text": "A historic windmill located in the Cacilhas district.", "category": "landmark", "coords": [-9.14813, 38.685724]}, {"name": "Mercado da Romeira", "text": "A lively market in Almada featuring gastronomy and local trade.", "category": "landmark", "coords": [-9.15249, 38.670395]}, {"name": "Igreja de Santiago", "text": "A historic church located in the heart of Almada.", "category": "religious", "coords": [-9.156353, 38.6839]}, {"name": "Ermida do Mártir São Sebastião", "text": "A small chapel in Almada dedicated to Saint Sebastian.", "category": "religious", "coords": [-9.161396, 38.678579]}, {"name": "ETAR da Mutela", "text": "ETAR da Mutela is a lake in Almada, forming a quiet point in the urban landscape.", "category": "natural", "coords": [-9.152314, 38.672799]}, {"name": "Lago Duque de Lafões", "text": "Lago Duque de Lafões is a lake in Almada, ideal for a relaxing break.", "category": "natural", "coords": [-9.169075, 38.70966]}, {"name": "Lagoa", "text": "Lagoa is a lake in Almada, bringing a natural touch to the city.", "category": "natural", "coords": [-9.188938, 38.716008]}, {"name": "Lago parque dos moinhos", "text": "Lago parque dos moinhos is a lake in Almada, a peaceful spot for those seeking relaxation.", "category": "natural", "coords": [-9.205239, 38.708635]}, {"name": "Tanque de refrigeração", "text": "Tanque de refrigeração is a lake in Almada, representing an interesting water feature.", "category": "natural", "coords": [-9.164274, 38.619485]}, {"name": "Tanque", "text": "Tanque is a lake in Almada, providing a peaceful environment by the water.", "category": "natural", "coords": [-9.18202, 38.709458]}, {"name": "Lago Principal", "text": "Lago Principal is a lake in Almada, ideal for a walk in the park.", "category": "natural", "coords": [-9.202917, 38.698231]}, {"name": "Parque Infantil do Parque da Juventude", "text": "Parque Infantil do Parque da Juventude is a playground in Almada for active children.", "category": "family", "coords": [-9.165506, 38.672581]}, {"name": "Parque Infantil dos Caranguejais", "text": "Parque Infantil dos Caranguejais is a playground in Almada that welcomes families.", "category": "family", "coords": [-9.156365, 38.67456]}, {"name": "Parque Infantil da Praceta Jornal de Almada", "text": "Parque Infantil da Praceta Jornal de Almada is a playground in Almada for outdoor play.", "category": "family", "coords": [-9.152896, 38.678652]}, {"name": "Parque Infantil do Jardim Dr. Alberto Araújo", "text": "Parque Infantil do Jardim Dr. Alberto Araújo is a playground in Almada for a family outing.", "category": "family", "coords": [-9.158169, 38.68134]}, {"name": "Parque Infantil do Parque Urbano do Pragal", "text": "Parque Infantil do Parque Urbano do Pragal is a playground in an urban park in Almada.", "category": "family", "coords": [-9.17063, 38.66833]}, {"name": "AIPICA", "text": "AIPICA is a playground in Almada, providing a safe area for children.", "category": "family", "coords": [-9.16464, 38.668208]}, {"name": "Jardim Infantil", "text": "Jardim Infantil is a playground in Almada, ideal for younger children to play.", "category": "family", "coords": [-9.142984, 38.653244]}, {"name": "Parque Infantil Social", "text": "Parque Infantil Social is a playground in Almada, offering children a place to romp around.", "category": "family", "coords": [-9.148157, 38.649913]}, {"name": "Parque Infantil do Parque Luís Sá", "text": "Parque Infantil do Parque Luís Sá is a playground in Almada, located in a pleasant setting.", "category": "family", "coords": [-9.15144, 38.652861]}, {"name": "Jardim da Criança", "text": "Jardim da Criança is a playground in Almada, providing a friendly play area.", "category": "family", "coords": [-9.158094, 38.663588]}, {"name": "Parque Infantil do Largo Padre Ricardo Gameiro", "text": "Parque Infantil do Largo Padre Ricardo Gameiro is a playground in Almada for outdoor play.", "category": "family", "coords": [-9.15629, 38.669441]}, {"name": "Parque Infantil da Rua António Nobre Cacilhas", "text": "This playground in Almada offers a nice outdoor space for children to play.", "category": "family", "coords": [-9.149047, 38.683873]}]},
+    id: "portugal-almada-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol de Cacilhas",
+                  "text": "Ein markanter roter Eisenleuchtturm am Flussufer in Almada.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.146361,
+                        38.688075
+                  ]
+            },
+            {
+                  "name": "Palácio do Alfeite",
+                  "text": "Ein historischer Palast, der sich innerhalb eines Marinestützpunkts in Almada befindet.",
+                  "category": "castle",
+                  "coords": [
+                        -9.147342,
+                        38.665121
+                  ]
+            },
+            {
+                  "name": "Museu da Música Filarmónica",
+                  "text": "Ein Museum in Almada, das der Geschichte der philharmonischen Musik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.158312,
+                        38.68267
+                  ]
+            },
+            {
+                  "name": "Centro de Interpetação de Almada Velha",
+                  "text": "Ein Interpretationszentrum, das die Geschichte der Altstadt von Almada erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        -9.159974,
+                        38.681778
+                  ]
+            },
+            {
+                  "name": "Núcleo Medieval Moderno",
+                  "text": "Ein Museumsbereich in Almada, der sich auf die mittelalterliche und frühneuzeitliche Geschichte konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.157314,
+                        38.683723
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia e História Local",
+                  "text": "Ein Museum in Almada, das lokale archäologische Funde und historische Artefakte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.16096,
+                        38.684006
+                  ]
+            },
+            {
+                  "name": "Teatro-Estúdio António Assunção",
+                  "text": "Ein Veranstaltungsort für darstellende Künste in Almada, an dem zeitgenössische Theaterproduktionen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.161087,
+                        38.681684
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal de Arte",
+                  "text": "Eine städtische Kunstgalerie in Almada mit wechselnden zeitgenössischen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -9.164688,
+                        38.676879
+                  ]
+            },
+            {
+                  "name": "Chafariz de Pombal",
+                  "text": "Ein historischer Brunnen und eine archäologische Stätte aus dem 18. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        -9.162202,
+                        38.674479
+                  ]
+            },
+            {
+                  "name": "Museu de Metrologia do Instituto Português da Qualidade",
+                  "text": "Ein Museum in Almada, das der Wissenschaft vom Messen und den Standards gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.185992,
+                        38.669956
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal Fernando Lopes-Graça",
+                  "text": "Ein städtisches Auditorium in Almada, in dem Konzerte und Theaterveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.158019,
+                        38.678343
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Marinha Portuguesa de Almada",
+                  "text": "Ein Museumsbereich, der der Geschichte der portugiesischen Marine in Almada gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.146676,
+                        38.686658
+                  ]
+            },
+            {
+                  "name": "Oficina de Cultura",
+                  "text": "Eine Kulturwerkstatt und ein Ausstellungsraum im Herzen von Almada.",
+                  "category": "museum",
+                  "coords": [
+                        -9.158199,
+                        38.679436
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Joaquim Benite",
+                  "text": "Das städtische Haupttheater von Almada, in dem eine breite Palette von Aufführungen stattfindet.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.159687,
+                        38.676117
+                  ]
+            },
+            {
+                  "name": "Companhia de Dança de Almada",
+                  "text": "Eine professionelle Tanzkompanie und ein Veranstaltungsort mit Sitz in Almada.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.160362,
+                        38.680444
+                  ]
+            },
+            {
+                  "name": "Alpha Teatro",
+                  "text": "Ein lokaler Theaterraum in Almada für unabhängige Produktionen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.164178,
+                        38.652192
+                  ]
+            },
+            {
+                  "name": "Praia da Mutela",
+                  "text": "Mit einem tollen Blick auf Lissabon bietet dieser Flussstrand am Tejo in Almada eine großartige urbane Kulisse. Die Atmosphäre ist unkompliziert und lokal, perfekt für eine kurze Pause vom Alltag. Besucher genießen entspannte Stunden beim Spazierengehen am Ufer oder beim Beobachten der vorbeifahrenden Schiffe. Der späte Nachmittag taucht die Silhouette der gegenüberliegenden Stadt oft in ein magisches Licht.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.149778,
+                        38.673049
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Molduras",
+                  "text": "Eine Kunstgalerie in Almada, die lokale Werke und Einrahmungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.151415,
+                        38.683904
+                  ]
+            },
+            {
+                  "name": "Nationalheiligtum Christkönig",
+                  "text": "Ein bedeutendes Monument und Wallfahrtsort mit Blick auf Lissabon.",
+                  "category": "historical",
+                  "coords": [
+                        -9.171338,
+                        38.678602
+                  ]
+            },
+            {
+                  "name": "Friedenspark",
+                  "text": "Ein weitläufiger Stadtpark in Almada, ideal für Erholung im Grünen.",
+                  "category": "park",
+                  "coords": [
+                        -9.166164,
+                        38.662083
+                  ]
+            },
+            {
+                  "name": "Elevador da Boca do Vento",
+                  "text": "Ein Panoramaufzug, der das historische Zentrum mit dem Flussufer verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.158811,
+                        38.684699
+                  ]
+            },
+            {
+                  "name": "Ponte 25 de Abril",
+                  "text": "Die ikonische Hängebrücke, die Almada über den Tejo mit Lissabon verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.177338,
+                        38.69411
+                  ]
+            },
+            {
+                  "name": "Os Perseguídos",
+                  "text": "Ein Denkmal in Almada, das den Verfolgten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.155816,
+                        38.680221
+                  ]
+            },
+            {
+                  "name": "Chafariz de Cacilhas",
+                  "text": "Ein historischer Brunnen im Viertel Cacilhas in Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.147988,
+                        38.687169
+                  ]
+            },
+            {
+                  "name": "Fernão Mendes Pinto",
+                  "text": "Ein Denkmal zu Ehren des Entdeckers und Schriftstellers Fernão Mendes Pinto.",
+                  "category": "historical",
+                  "coords": [
+                        -9.171162,
+                        38.673128
+                  ]
+            },
+            {
+                  "name": "Poço",
+                  "text": "Historische Ruinen eines alten Brunnens in Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.157637,
+                        38.669814
+                  ]
+            },
+            {
+                  "name": "Antigo Poço de Cacilhas",
+                  "text": "Die Überreste eines alten Brunnens im Viertel Cacilhas.",
+                  "category": "historical",
+                  "coords": [
+                        -9.149668,
+                        38.685702
+                  ]
+            },
+            {
+                  "name": "Fonte da Mutela",
+                  "text": "Historische Überreste eines alten Brunnens in Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.154344,
+                        38.674793
+                  ]
+            },
+            {
+                  "name": "Quinta da Alegria",
+                  "text": "Überreste eines historischen Anwesens in Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.150822,
+                        38.681438
+                  ]
+            },
+            {
+                  "name": "Seminário Maior de São Paulo",
+                  "text": "Ein historisches Seminargebäude mit religiöser Bedeutung in Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.162585,
+                        38.681239
+                  ]
+            },
+            {
+                  "name": "Quinta de São João da Ramalha",
+                  "text": "Ruinen eines alten Landguts in der Region Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.167415,
+                        38.670566
+                  ]
+            },
+            {
+                  "name": "Miradouro do Largo Trindade Coelho",
+                  "text": "Ein öffentlicher Aussichtspunkt mit Blick auf die Umgebung von Almada.",
+                  "category": "natural",
+                  "coords": [
+                        -9.14951,
+                        38.687531
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico",
+                  "text": "Ein botanischer Garten in Almada, der die lokale Flora präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.159909,
+                        38.683635
+                  ]
+            },
+            {
+                  "name": "Pórtico da Lisnave",
+                  "text": "Ein markantes Industriedenkmal am ehemaligen Werftgelände von Almada.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148334,
+                        38.680719
+                  ]
+            },
+            {
+                  "name": "Viveiro do Parque da Paz",
+                  "text": "Ein Bereich innerhalb des Parque da Paz, der sich der Pflanzenaufzucht widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.163642,
+                        38.663802
+                  ]
+            },
+            {
+                  "name": "Escola Primária António José Gomes",
+                  "text": "Ein historisches Schulgebäude in Almada mit lokaler Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.155625,
+                        38.672137
+                  ]
+            },
+            {
+                  "name": "Solar da Quinta de Vale Mourelos",
+                  "text": "Ein historisches Herrenhaus in der Gemeinde Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.185056,
+                        38.661845
+                  ]
+            },
+            {
+                  "name": "Moinho de Cacilhas",
+                  "text": "Eine historische Windmühle im Viertel Cacilhas.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.14813,
+                        38.685724
+                  ]
+            },
+            {
+                  "name": "Mercado da Romeira",
+                  "text": "Ein belebter Markt in Almada mit Gastronomie und lokalem Handel.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.15249,
+                        38.670395
+                  ]
+            },
+            {
+                  "name": "Igreja de Santiago",
+                  "text": "Eine historische Kirche im Herzen von Almada.",
+                  "category": "religious",
+                  "coords": [
+                        -9.156353,
+                        38.6839
+                  ]
+            },
+            {
+                  "name": "Ermida do Mártir São Sebastião",
+                  "text": "Eine kleine Kapelle in Almada, die dem Heiligen Sebastian gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -9.161396,
+                        38.678579
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "ETAR da Mutela ist ein See in Almada, der einen ruhigen Punkt in der städtischen Landschaft bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Lago Duque de Lafões ist ein See in Almada, ideal für eine entspannende Pause.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Lagoa ist ein See in Almada, der eine natürliche Note in die Stadt bringt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Lago parque dos moinhos ist ein See in Almada, ein ruhiger Ort für Erholungssuchende.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Tanque de refrigeração",
+                  "text": "Tanque de refrigeração ist ein See in Almada, der einen interessanten Wasserpunkt darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.164274,
+                        38.619485
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Tanque ist ein See in Almada, der eine friedliche Umgebung am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Lago Principal ist ein See in Almada, ideal für einen Spaziergang im Park.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque da Juventude",
+                  "text": "Parque Infantil do Parque da Juventude ist ein Spielplatz in Almada für aktive Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -9.165506,
+                        38.672581
+                  ]
+            },
+            {
+                  "name": "Parque Infantil dos Caranguejais",
+                  "text": "Parque Infantil dos Caranguejais ist ein Spielplatz in Almada, der Familien willkommen heißt.",
+                  "category": "family",
+                  "coords": [
+                        -9.156365,
+                        38.67456
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta Jornal de Almada",
+                  "text": "Parque Infantil da Praceta Jornal de Almada ist ein Spielplatz in Almada zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -9.152896,
+                        38.678652
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Dr. Alberto Araújo",
+                  "text": "Parque Infantil do Jardim Dr. Alberto Araújo ist ein Spielplatz in Almada für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -9.158169,
+                        38.68134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Urbano do Pragal",
+                  "text": "Parque Infantil do Parque Urbano do Pragal ist ein Spielplatz in Almada in einem Stadtpark.",
+                  "category": "family",
+                  "coords": [
+                        -9.17063,
+                        38.66833
+                  ]
+            },
+            {
+                  "name": "AIPICA",
+                  "text": "AIPICA ist ein Spielplatz in Almada, der einen sicheren Bereich für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.16464,
+                        38.668208
+                  ]
+            },
+            {
+                  "name": "Jardim Infantil",
+                  "text": "Jardim Infantil ist ein Spielplatz in Almada, ideal für jüngere Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -9.142984,
+                        38.653244
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Social",
+                  "text": "Parque Infantil Social ist ein Spielplatz in Almada, der Kindern einen Ort zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.148157,
+                        38.649913
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Luís Sá",
+                  "text": "Parque Infantil do Parque Luís Sá ist ein Spielplatz in Almada in schöner Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        -9.15144,
+                        38.652861
+                  ]
+            },
+            {
+                  "name": "Jardim da Criança",
+                  "text": "Jardim da Criança ist ein Spielplatz in Almada, der einen freundlichen Spielbereich bietet.",
+                  "category": "family",
+                  "coords": [
+                        -9.158094,
+                        38.663588
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Largo Padre Ricardo Gameiro",
+                  "text": "Parque Infantil do Largo Padre Ricardo Gameiro ist ein Spielplatz in Almada zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        -9.15629,
+                        38.669441
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua António Nobre Cacilhas",
+                  "text": "Dieser Spielplatz in Almada bietet einen schönen Außenbereich für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        -9.149047,
+                        38.683873
+                  ]
+            },
+            {
+                  "name": "Piscinas Clube Lisnave",
+                  "text": "Schwimmbadclub in Almada mit Einrichtungen für Sport- und Freizeitschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        -9.151817,
+                        38.677411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol de Cacilhas",
+                  "text": "Jellegzetes vörös vas világítótorony Almada folyópartján.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.146361,
+                        38.688075
+                  ]
+            },
+            {
+                  "name": "Palácio do Alfeite",
+                  "text": "Történelmi palota egy tengerészeti bázis területén Almadában.",
+                  "category": "castle",
+                  "coords": [
+                        -9.147342,
+                        38.665121
+                  ]
+            },
+            {
+                  "name": "Museu da Música Filarmónica",
+                  "text": "A filharmonikus zene történetének szentelt múzeum Almadában.",
+                  "category": "museum",
+                  "coords": [
+                        -9.158312,
+                        38.68267
+                  ]
+            },
+            {
+                  "name": "Centro de Interpetação de Almada Velha",
+                  "text": "Almada óvárosának történelmét bemutató értelmező központ.",
+                  "category": "museum",
+                  "coords": [
+                        -9.159974,
+                        38.681778
+                  ]
+            },
+            {
+                  "name": "Núcleo Medieval Moderno",
+                  "text": "Múzeumi részleg Almadában, amely a középkori és kora újkori történelemre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -9.157314,
+                        38.683723
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia e História Local",
+                  "text": "Almada régészeti leleteit és történelmi tárgyait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -9.16096,
+                        38.684006
+                  ]
+            },
+            {
+                  "name": "Teatro-Estúdio António Assunção",
+                  "text": "Előadóművészeti helyszín Almadában, amely kortárs színházi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.161087,
+                        38.681684
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal de Arte",
+                  "text": "Önkormányzati művészeti galéria Almadában, váltakozó kortárs kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -9.164688,
+                        38.676879
+                  ]
+            },
+            {
+                  "name": "Chafariz de Pombal",
+                  "text": "Történelmi szökőkút és régészeti lelőhely a 18. századból.",
+                  "category": "historical",
+                  "coords": [
+                        -9.162202,
+                        38.674479
+                  ]
+            },
+            {
+                  "name": "Museu de Metrologia do Instituto Português da Qualidade",
+                  "text": "A mérés tudományának és a szabványoknak szentelt múzeum Almadában.",
+                  "category": "museum",
+                  "coords": [
+                        -9.185992,
+                        38.669956
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal Fernando Lopes-Graça",
+                  "text": "Önkormányzati auditórium Almadában, amely koncerteknek és színházi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.158019,
+                        38.678343
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Marinha Portuguesa de Almada",
+                  "text": "A portugál haditengerészet történetének szentelt múzeumi részleg Almadában.",
+                  "category": "museum",
+                  "coords": [
+                        -9.146676,
+                        38.686658
+                  ]
+            },
+            {
+                  "name": "Oficina de Cultura",
+                  "text": "Kulturális műhely és kiállítótér Almada szívében.",
+                  "category": "museum",
+                  "coords": [
+                        -9.158199,
+                        38.679436
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Joaquim Benite",
+                  "text": "Almada fő önkormányzati színháza, amely előadások széles skálájának ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.159687,
+                        38.676117
+                  ]
+            },
+            {
+                  "name": "Companhia de Dança de Almada",
+                  "text": "Almadában működő professzionális tánctársulat és előadóhely.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.160362,
+                        38.680444
+                  ]
+            },
+            {
+                  "name": "Alpha Teatro",
+                  "text": "Helyi színházi tér Almadában független produkciók és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.164178,
+                        38.652192
+                  ]
+            },
+            {
+                  "name": "Praia da Mutela",
+                  "text": "A lisszaboni nagyszerű kilátással büszkélkedő Tejo menti folyami strand Almadában fantasztikus városi hátteret kínál. A légkör laza és helyi, tökéletes egy rövid szünethez a mindennapokból. A látogatók pihentető órákat tölthetnek el a parti séták során, vagy a elhaladó hajók megfigyelésével. A késő délután gyakran varázslatos fénybe öltözteti a szemközti város sziluettjét.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.149778,
+                        38.673049
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Molduras",
+                  "text": "Művészeti galéria Almadában, amely helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.151415,
+                        38.683904
+                  ]
+            },
+            {
+                  "name": "Santuário Nacional de Cristo Rei",
+                  "text": "Hatalmas Krisztus-szobor és zarándokhely, kilátással Lisszabonra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.171338,
+                        38.678602
+                  ]
+            },
+            {
+                  "name": "Parque da Paz",
+                  "text": "Almada tágas városi parkja, amely ideális kikapcsolódásra.",
+                  "category": "park",
+                  "coords": [
+                        -9.166164,
+                        38.662083
+                  ]
+            },
+            {
+                  "name": "Elevador da Boca do Vento",
+                  "text": "Panorámalift, amely összeköti a történelmi központot a folyóparttal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.158811,
+                        38.684699
+                  ]
+            },
+            {
+                  "name": "Ponte 25 de Abril",
+                  "text": "Ikonikus függőhíd, amely összeköti Almadát Lisszabonnal a Tejo felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.177338,
+                        38.69411
+                  ]
+            },
+            {
+                  "name": "Os Perseguídos",
+                  "text": "Emlékmű Almadában az üldözöttek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -9.155816,
+                        38.680221
+                  ]
+            },
+            {
+                  "name": "Chafariz de Cacilhas",
+                  "text": "Történelmi szökőkút Almada Cacilhas negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.147988,
+                        38.687169
+                  ]
+            },
+            {
+                  "name": "Fernão Mendes Pinto",
+                  "text": "Emlékmű Fernão Mendes Pinto felfedező és író tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -9.171162,
+                        38.673128
+                  ]
+            },
+            {
+                  "name": "Poço",
+                  "text": "Egy régi kút történelmi romjai Almadában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.157637,
+                        38.669814
+                  ]
+            },
+            {
+                  "name": "Antigo Poço de Cacilhas",
+                  "text": "Egy régi kút maradványai Cacilhas negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.149668,
+                        38.685702
+                  ]
+            },
+            {
+                  "name": "Fonte da Mutela",
+                  "text": "Egy régi forrás történelmi maradványai Almadában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.154344,
+                        38.674793
+                  ]
+            },
+            {
+                  "name": "Quinta da Alegria",
+                  "text": "Egy történelmi birtok romjai Almadában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.150822,
+                        38.681438
+                  ]
+            },
+            {
+                  "name": "Seminário Maior de São Paulo",
+                  "text": "Vallási jelentőségű történelmi szemináriumi épület Almadában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.162585,
+                        38.681239
+                  ]
+            },
+            {
+                  "name": "Quinta de São João da Ramalha",
+                  "text": "Egy régi udvarház romjai Almada régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.167415,
+                        38.670566
+                  ]
+            },
+            {
+                  "name": "Miradouro do Largo Trindade Coelho",
+                  "text": "Nyilvános kilátópont, ahonnan Almada környékére nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -9.14951,
+                        38.687531
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico",
+                  "text": "Botanikus kert Almadában, amely a helyi növényvilágot mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.159909,
+                        38.683635
+                  ]
+            },
+            {
+                  "name": "Pórtico da Lisnave",
+                  "text": "Jellegü ipari műemlék Almada egykori hajógyári területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148334,
+                        38.680719
+                  ]
+            },
+            {
+                  "name": "Viveiro do Parque da Paz",
+                  "text": "A Parque da Paz növényneveldéje és természeti területe.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.163642,
+                        38.663802
+                  ]
+            },
+            {
+                  "name": "Escola Primária António José Gomes",
+                  "text": "Történelmi iskolaépület Almadában, amely helyi jelentőséggel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.155625,
+                        38.672137
+                  ]
+            },
+            {
+                  "name": "Solar da Quinta de Vale Mourelos",
+                  "text": "Történelmi udvarház Almada településén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.185056,
+                        38.661845
+                  ]
+            },
+            {
+                  "name": "Moinho de Cacilhas",
+                  "text": "Történelmi szélmalom Cacilhas negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.14813,
+                        38.685724
+                  ]
+            },
+            {
+                  "name": "Mercado da Romeira",
+                  "text": "Nyüzsgő piac Almadában gasztronómiai és kereskedelmi kínálattal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.15249,
+                        38.670395
+                  ]
+            },
+            {
+                  "name": "Igreja de Santiago",
+                  "text": "Történelmi templom Almada szívében.",
+                  "category": "religious",
+                  "coords": [
+                        -9.156353,
+                        38.6839
+                  ]
+            },
+            {
+                  "name": "Ermida do Mártir São Sebastião",
+                  "text": "Szent Sebestyénnek szentelt kis kápolna Almadában.",
+                  "category": "religious",
+                  "coords": [
+                        -9.161396,
+                        38.678579
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "Az ETAR da Mutela egy tó Almada területén, amely egy nyugodt pontot alkot a városi környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "A Lago Duque de Lafões egy tó Almada területén, amely ideális egy pihentető szünethez.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "A Lagoa egy tó Almada területén, amely természetes hangulatot visz a városba.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "A Lago parque dos moinhos egy tó Almada területén, nyugodt hely a kikapcsolódni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Tanque de refrigeração",
+                  "text": "A Tanque de refrigeração egy tó Almada területén, amely egy érdekes vízi pontot képvisel.",
+                  "category": "natural",
+                  "coords": [
+                        -9.164274,
+                        38.619485
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "A Tanque egy tó Almada területén, amely békés vízparti környezetet kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "A Lago Principal egy tó Almada területén, amely ideális egy parki sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque da Juventude",
+                  "text": "A Parque Infantil do Parque da Juventude egy játszótér Almada területén aktív gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -9.165506,
+                        38.672581
+                  ]
+            },
+            {
+                  "name": "Parque Infantil dos Caranguejais",
+                  "text": "A Parque Infantil dos Caranguejais egy játszótér Almada területén, amely várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        -9.156365,
+                        38.67456
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta Jornal de Almada",
+                  "text": "A Parque Infantil da Praceta Jornal de Almada egy játszótér Almada területén a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.152896,
+                        38.678652
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Dr. Alberto Araújo",
+                  "text": "A Parque Infantil do Jardim Dr. Alberto Araújo egy játszótér Almada területén egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.158169,
+                        38.68134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Urbano do Pragal",
+                  "text": "A Parque Infantil do Parque Urbano do Pragal egy játszótér Almada egyik városi parkjában.",
+                  "category": "family",
+                  "coords": [
+                        -9.17063,
+                        38.66833
+                  ]
+            },
+            {
+                  "name": "AIPICA",
+                  "text": "Az AIPICA egy játszótér Almada területén, amely biztonságos területet kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -9.16464,
+                        38.668208
+                  ]
+            },
+            {
+                  "name": "Jardim Infantil",
+                  "text": "A Jardim Infantil egy játszótér Almada területén, ideális a kisebb gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.142984,
+                        38.653244
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Social",
+                  "text": "A Parque Infantil Social egy játszótér Almada területén, amely helyet biztosít a gyerekeknek a hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.148157,
+                        38.649913
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Luís Sá",
+                  "text": "A Parque Infantil do Parque Luís Sá egy játszótér Almada területén, szép környezetben.",
+                  "category": "family",
+                  "coords": [
+                        -9.15144,
+                        38.652861
+                  ]
+            },
+            {
+                  "name": "Jardim da Criança",
+                  "text": "A Jardim da Criança egy játszótér Almada területén, amely barátságos játékteret kínál.",
+                  "category": "family",
+                  "coords": [
+                        -9.158094,
+                        38.663588
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Largo Padre Ricardo Gameiro",
+                  "text": "A Parque Infantil do Largo Padre Ricardo Gameiro egy játszótér Almada területén a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.15629,
+                        38.669441
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua António Nobre Cacilhas",
+                  "text": "Ez az almadai játszótér kellemes szabadtéri kikapcsolódást nyújt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -9.149047,
+                        38.683873
+                  ]
+            },
+            {
+                  "name": "Piscinas Clube Lisnave",
+                  "text": "Úszóklub Almadában, amely sport- és szabadidős úszáshoz kínál létesítményeket.",
+                  "category": "family",
+                  "coords": [
+                        -9.151817,
+                        38.677411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol de Cacilhas",
+                  "text": "Un far de fier roșu distinctiv, situat pe malul râului în Almada.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.146361,
+                        38.688075
+                  ]
+            },
+            {
+                  "name": "Palácio do Alfeite",
+                  "text": "Un palat istoric situat în incinta unei baze navale din Almada.",
+                  "category": "castle",
+                  "coords": [
+                        -9.147342,
+                        38.665121
+                  ]
+            },
+            {
+                  "name": "Museu da Música Filarmónica",
+                  "text": "Un muzeu din Almada dedicat istoriei muzicii filarmonice.",
+                  "category": "museum",
+                  "coords": [
+                        -9.158312,
+                        38.68267
+                  ]
+            },
+            {
+                  "name": "Centro de Interpetação de Almada Velha",
+                  "text": "Un centru de interpretare care explorează istoria orașului vechi Almada.",
+                  "category": "museum",
+                  "coords": [
+                        -9.159974,
+                        38.681778
+                  ]
+            },
+            {
+                  "name": "Núcleo Medieval Moderno",
+                  "text": "O secțiune de muzeu din Almada axată pe istoria sa medievală și modernă timpurie.",
+                  "category": "museum",
+                  "coords": [
+                        -9.157314,
+                        38.683723
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia e História Local",
+                  "text": "Un muzeu din Almada care expune descoperiri arheologice locale și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -9.16096,
+                        38.684006
+                  ]
+            },
+            {
+                  "name": "Teatro-Estúdio António Assunção",
+                  "text": "Un loc pentru artele spectacolului din Almada, care găzduiește producții de teatru contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.161087,
+                        38.681684
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal de Arte",
+                  "text": "O galerie de artă municipală din Almada, care prezintă expoziții contemporane temporare.",
+                  "category": "museum",
+                  "coords": [
+                        -9.164688,
+                        38.676879
+                  ]
+            },
+            {
+                  "name": "Chafariz de Pombal",
+                  "text": "O fântână istorică și sit arheologic datând din secolul al XVIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -9.162202,
+                        38.674479
+                  ]
+            },
+            {
+                  "name": "Museu de Metrologia do Instituto Português da Qualidade",
+                  "text": "Un muzeu din Almada dedicat științei măsurării și standardelor.",
+                  "category": "museum",
+                  "coords": [
+                        -9.185992,
+                        38.669956
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal Fernando Lopes-Graça",
+                  "text": "Un auditoriu municipal din Almada care găzduiește concerte și evenimente teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.158019,
+                        38.678343
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Marinha Portuguesa de Almada",
+                  "text": "O secțiune de muzeu dedicată istoriei Marinei Portugheze din Almada.",
+                  "category": "museum",
+                  "coords": [
+                        -9.146676,
+                        38.686658
+                  ]
+            },
+            {
+                  "name": "Oficina de Cultura",
+                  "text": "Un atelier cultural și spațiu expozițional situat în inima orașului Almada.",
+                  "category": "museum",
+                  "coords": [
+                        -9.158199,
+                        38.679436
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Joaquim Benite",
+                  "text": "Teatrul municipal principal din Almada, care găzduiește o gamă largă de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.159687,
+                        38.676117
+                  ]
+            },
+            {
+                  "name": "Companhia de Dança de Almada",
+                  "text": "O companie de dans profesionistă și spațiu de spectacol cu sediul în Almada.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.160362,
+                        38.680444
+                  ]
+            },
+            {
+                  "name": "Alpha Teatro",
+                  "text": "Un spațiu de teatru local din Almada pentru producții independente și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.164178,
+                        38.652192
+                  ]
+            },
+            {
+                  "name": "Praia da Mutela",
+                  "text": "Oferind o priveliște excelentă asupra Lisabonei, această plajă fluvială de pe Tagus, din Almada, are un fundal urban superb. Atmosfera este necomplicată și locală, perfectă pentru o scurtă pauză de la viața de zi cu zi. Vizitatorii se bucură de ore de relaxare plimbându-se de-a lungul malului sau urmărind bărcile care trec. După-amiaza târziu scaldă adesea silueta orașului de vis-a-vis într-o lumină magică.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.149778,
+                        38.673049
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Molduras",
+                  "text": "O galerie de artă în Almada ce expune lucrări locale.",
+                  "category": "museum",
+                  "coords": [
+                        -9.151415,
+                        38.683904
+                  ]
+            },
+            {
+                  "name": "Santuário Nacional de Cristo Rei",
+                  "text": "Un monument important și loc de pelerinaj cu vedere spre Lisabona.",
+                  "category": "historical",
+                  "coords": [
+                        -9.171338,
+                        38.678602
+                  ]
+            },
+            {
+                  "name": "Parque da Paz",
+                  "text": "Un parc urban vast în Almada, ideal pentru recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        -9.166164,
+                        38.662083
+                  ]
+            },
+            {
+                  "name": "Elevador da Boca do Vento",
+                  "text": "Un lift panoramic care conectează centrul istoric de malul râului.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.158811,
+                        38.684699
+                  ]
+            },
+            {
+                  "name": "Ponte 25 de Abril",
+                  "text": "Podul suspendat iconic care leagă Almada de Lisabona peste râul Tejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.177338,
+                        38.69411
+                  ]
+            },
+            {
+                  "name": "Os Perseguídos",
+                  "text": "Un monument în Almada dedicat celor persecutați.",
+                  "category": "historical",
+                  "coords": [
+                        -9.155816,
+                        38.680221
+                  ]
+            },
+            {
+                  "name": "Chafariz de Cacilhas",
+                  "text": "O fântână istorică în cartierul Cacilhas din Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.147988,
+                        38.687169
+                  ]
+            },
+            {
+                  "name": "Fernão Mendes Pinto",
+                  "text": "Un monument în onoarea exploratorului și scriitorului Fernão Mendes Pinto.",
+                  "category": "historical",
+                  "coords": [
+                        -9.171162,
+                        38.673128
+                  ]
+            },
+            {
+                  "name": "Poço",
+                  "text": "Ruinele istorice ale unei vechi fântâni în Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.157637,
+                        38.669814
+                  ]
+            },
+            {
+                  "name": "Antigo Poço de Cacilhas",
+                  "text": "Rămășițele unei vechi fântâni în cartierul Cacilhas.",
+                  "category": "historical",
+                  "coords": [
+                        -9.149668,
+                        38.685702
+                  ]
+            },
+            {
+                  "name": "Fonte da Mutela",
+                  "text": "Rămășițe istorice ale unei vechi cișmele în Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.154344,
+                        38.674793
+                  ]
+            },
+            {
+                  "name": "Quinta da Alegria",
+                  "text": "Ruinele unei proprietăți istorice în Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.150822,
+                        38.681438
+                  ]
+            },
+            {
+                  "name": "Seminário Maior de São Paulo",
+                  "text": "O clădire istorică de seminar cu semnificație religioasă în Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.162585,
+                        38.681239
+                  ]
+            },
+            {
+                  "name": "Quinta de São João da Ramalha",
+                  "text": "Ruinele unui vechi conac în regiunea Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.167415,
+                        38.670566
+                  ]
+            },
+            {
+                  "name": "Miradouro do Largo Trindade Coelho",
+                  "text": "Un punct de observație public cu vedere spre împrejurimile orașului Almada.",
+                  "category": "natural",
+                  "coords": [
+                        -9.14951,
+                        38.687531
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico",
+                  "text": "O grădină botanică în Almada care prezintă flora locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.159909,
+                        38.683635
+                  ]
+            },
+            {
+                  "name": "Pórtico da Lisnave",
+                  "text": "Un monument industrial distinctiv pe fostul șantier naval din Almada.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148334,
+                        38.680719
+                  ]
+            },
+            {
+                  "name": "Viveiro do Parque da Paz",
+                  "text": "O zonă în cadrul Parque da Paz dedicată pepinierei de plante.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.163642,
+                        38.663802
+                  ]
+            },
+            {
+                  "name": "Escola Primária António José Gomes",
+                  "text": "O clădire școlară istorică în Almada cu importanță locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.155625,
+                        38.672137
+                  ]
+            },
+            {
+                  "name": "Solar da Quinta de Vale Mourelos",
+                  "text": "Un conac istoric situat în municipalitatea Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.185056,
+                        38.661845
+                  ]
+            },
+            {
+                  "name": "Moinho de Cacilhas",
+                  "text": "O moară de vânt istorică în cartierul Cacilhas.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.14813,
+                        38.685724
+                  ]
+            },
+            {
+                  "name": "Mercado da Romeira",
+                  "text": "O piață vibrantă în Almada cu oferte gastronomice și comerciale.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.15249,
+                        38.670395
+                  ]
+            },
+            {
+                  "name": "Igreja de Santiago",
+                  "text": "O biserică istorică situată în inima orașului Almada.",
+                  "category": "religious",
+                  "coords": [
+                        -9.156353,
+                        38.6839
+                  ]
+            },
+            {
+                  "name": "Ermida do Mártir São Sebastião",
+                  "text": "O mică capelă în Almada dedicată Sfântului Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        -9.161396,
+                        38.678579
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "ETAR da Mutela este un lac în Almada, formând un punct liniștit în peisajul urban.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Lago Duque de Lafões este un lac în Almada, ideal pentru o pauză relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Lagoa este un lac în Almada, aducând o notă naturală în oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Lago parque dos moinhos este un lac în Almada, un loc liniștit pentru cei ce caută relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Tanque de refrigeração",
+                  "text": "Tanque de refrigeração este un lac în Almada, reprezentând un punct de apă interesant.",
+                  "category": "natural",
+                  "coords": [
+                        -9.164274,
+                        38.619485
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Tanque este un lac în Almada, oferind un mediu liniștit lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Lago Principal este un lac în Almada, ideal pentru o plimbare în parc.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque da Juventude",
+                  "text": "Parque Infantil do Parque da Juventude este un loc de joacă în Almada pentru copii activi.",
+                  "category": "family",
+                  "coords": [
+                        -9.165506,
+                        38.672581
+                  ]
+            },
+            {
+                  "name": "Parque Infantil dos Caranguejais",
+                  "text": "Parque Infantil dos Caranguejais este un loc de joacă în Almada, care primește familiile.",
+                  "category": "family",
+                  "coords": [
+                        -9.156365,
+                        38.67456
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta Jornal de Almada",
+                  "text": "Parque Infantil da Praceta Jornal de Almada este un loc de joacă în Almada pentru jocuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.152896,
+                        38.678652
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Dr. Alberto Araújo",
+                  "text": "Parque Infantil do Jardim Dr. Alberto Araújo este un loc de joacă în Almada pentru o ieșire cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -9.158169,
+                        38.68134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Urbano do Pragal",
+                  "text": "Parque Infantil do Parque Urbano do Pragal este un loc de joacă într-un parc urban din Almada.",
+                  "category": "family",
+                  "coords": [
+                        -9.17063,
+                        38.66833
+                  ]
+            },
+            {
+                  "name": "AIPICA",
+                  "text": "AIPICA este un loc de joacă în Almada, oferind o zonă sigură pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -9.16464,
+                        38.668208
+                  ]
+            },
+            {
+                  "name": "Jardim Infantil",
+                  "text": "Jardim Infantil este un loc de joacă în Almada, ideal pentru copiii mai mici.",
+                  "category": "family",
+                  "coords": [
+                        -9.142984,
+                        38.653244
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Social",
+                  "text": "Parque Infantil Social este un loc de joacă în Almada, oferind copiilor un loc de zbânțuială.",
+                  "category": "family",
+                  "coords": [
+                        -9.148157,
+                        38.649913
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Luís Sá",
+                  "text": "Parque Infantil do Parque Luís Sá este un loc de joacă în Almada, situat într-un cadru plăcut.",
+                  "category": "family",
+                  "coords": [
+                        -9.15144,
+                        38.652861
+                  ]
+            },
+            {
+                  "name": "Jardim da Criança",
+                  "text": "Jardim da Criança este un loc de joacă în Almada, oferind o zonă de joacă prietenoasă.",
+                  "category": "family",
+                  "coords": [
+                        -9.158094,
+                        38.663588
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Largo Padre Ricardo Gameiro",
+                  "text": "Parque Infantil do Largo Padre Ricardo Gameiro este un loc de joacă în Almada pentru jocuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.15629,
+                        38.669441
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua António Nobre Cacilhas",
+                  "text": "Acest loc de joacă din Almada oferă un spațiu plăcut în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -9.149047,
+                        38.683873
+                  ]
+            },
+            {
+                  "name": "Piscinas Clube Lisnave",
+                  "text": "Club de înot în Almada, cu facilități pentru înot sportiv și recreativ.",
+                  "category": "family",
+                  "coords": [
+                        -9.151817,
+                        38.677411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol de Cacilhas",
+                  "text": "A distinctive red iron lighthouse located on the riverfront in Almada.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.146361,
+                        38.688075
+                  ]
+            },
+            {
+                  "name": "Palácio do Alfeite",
+                  "text": "A historical palace located within a naval base in Almada.",
+                  "category": "castle",
+                  "coords": [
+                        -9.147342,
+                        38.665121
+                  ]
+            },
+            {
+                  "name": "Museu da Música Filarmónica",
+                  "text": "A museum in Almada dedicated to the history of philharmonic music.",
+                  "category": "museum",
+                  "coords": [
+                        -9.158312,
+                        38.68267
+                  ]
+            },
+            {
+                  "name": "Centro de Interpetação de Almada Velha",
+                  "text": "An interpretation center exploring the history of the old town of Almada.",
+                  "category": "museum",
+                  "coords": [
+                        -9.159974,
+                        38.681778
+                  ]
+            },
+            {
+                  "name": "Núcleo Medieval Moderno",
+                  "text": "A museum section in Almada focusing on its medieval and early modern history.",
+                  "category": "museum",
+                  "coords": [
+                        -9.157314,
+                        38.683723
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia e História Local",
+                  "text": "A museum in Almada showcasing local archaeological finds and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -9.16096,
+                        38.684006
+                  ]
+            },
+            {
+                  "name": "Teatro-Estúdio António Assunção",
+                  "text": "A performing arts venue in Almada hosting contemporary theatre productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.161087,
+                        38.681684
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal de Arte",
+                  "text": "A municipal art gallery in Almada featuring rotating contemporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -9.164688,
+                        38.676879
+                  ]
+            },
+            {
+                  "name": "Chafariz de Pombal",
+                  "text": "A historical fountain and archaeological site dating back to the 18th century.",
+                  "category": "historical",
+                  "coords": [
+                        -9.162202,
+                        38.674479
+                  ]
+            },
+            {
+                  "name": "Museu de Metrologia do Instituto Português da Qualidade",
+                  "text": "A museum in Almada dedicated to the science of measurement and standards.",
+                  "category": "museum",
+                  "coords": [
+                        -9.185992,
+                        38.669956
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal Fernando Lopes-Graça",
+                  "text": "A municipal auditorium in Almada hosting concerts and theatrical events.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.158019,
+                        38.678343
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Marinha Portuguesa de Almada",
+                  "text": "A museum section dedicated to the history of the Portuguese Navy in Almada.",
+                  "category": "museum",
+                  "coords": [
+                        -9.146676,
+                        38.686658
+                  ]
+            },
+            {
+                  "name": "Oficina de Cultura",
+                  "text": "A cultural workshop and exhibition space in the heart of Almada.",
+                  "category": "museum",
+                  "coords": [
+                        -9.158199,
+                        38.679436
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Joaquim Benite",
+                  "text": "The main municipal theatre of Almada, hosting a wide range of performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.159687,
+                        38.676117
+                  ]
+            },
+            {
+                  "name": "Companhia de Dança de Almada",
+                  "text": "A professional dance company and performance venue based in Almada.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.160362,
+                        38.680444
+                  ]
+            },
+            {
+                  "name": "Alpha Teatro",
+                  "text": "A local theatre space in Almada for independent productions and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.164178,
+                        38.652192
+                  ]
+            },
+            {
+                  "name": "Praia da Mutela",
+                  "text": "Featuring a grand view of Lisbon, this river beach on the Tagus in Almada provides a magnificent urban backdrop. The atmosphere is uncomplicated and highly localized, perfect for a short break from daily life. Visitors enjoy relaxed hours walking along the bank or watching the passing ships. The late afternoon often bathes the silhouette of the city across the river in a magical light.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.149778,
+                        38.673049
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Molduras",
+                  "text": "An art gallery in Almada displaying local works and frames.",
+                  "category": "museum",
+                  "coords": [
+                        -9.151415,
+                        38.683904
+                  ]
+            },
+            {
+                  "name": "National Shrine of Christ the King",
+                  "text": "A major monument and pilgrimage site overlooking Lisbon.",
+                  "category": "historical",
+                  "coords": [
+                        -9.171338,
+                        38.678602
+                  ]
+            },
+            {
+                  "name": "Parque da Paz",
+                  "text": "A large urban park in Almada, ideal for outdoor recreation.",
+                  "category": "park",
+                  "coords": [
+                        -9.166164,
+                        38.662083
+                  ]
+            },
+            {
+                  "name": "Elevador da Boca do Vento",
+                  "text": "A panoramic elevator connecting the historic centre with the riverbank.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.158811,
+                        38.684699
+                  ]
+            },
+            {
+                  "name": "25th of April Bridge",
+                  "text": "The iconic suspension bridge connecting Almada to Lisbon over the Tagus river.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.177338,
+                        38.69411
+                  ]
+            },
+            {
+                  "name": "Os Perseguídos",
+                  "text": "A monument in Almada dedicated to the persecuted.",
+                  "category": "historical",
+                  "coords": [
+                        -9.155816,
+                        38.680221
+                  ]
+            },
+            {
+                  "name": "Chafariz de Cacilhas",
+                  "text": "A historic fountain in the Cacilhas district of Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.147988,
+                        38.687169
+                  ]
+            },
+            {
+                  "name": "Fernão Mendes Pinto",
+                  "text": "A monument honoring the explorer and writer Fernão Mendes Pinto.",
+                  "category": "historical",
+                  "coords": [
+                        -9.171162,
+                        38.673128
+                  ]
+            },
+            {
+                  "name": "Poço",
+                  "text": "Historic ruins of an old well in Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.157637,
+                        38.669814
+                  ]
+            },
+            {
+                  "name": "Antigo Poço de Cacilhas",
+                  "text": "The remains of an old well in the Cacilhas district.",
+                  "category": "historical",
+                  "coords": [
+                        -9.149668,
+                        38.685702
+                  ]
+            },
+            {
+                  "name": "Fonte da Mutela",
+                  "text": "Historic remains of an old fountain in Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.154344,
+                        38.674793
+                  ]
+            },
+            {
+                  "name": "Quinta da Alegria",
+                  "text": "Ruins of a historical estate in Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.150822,
+                        38.681438
+                  ]
+            },
+            {
+                  "name": "Seminário Maior de São Paulo",
+                  "text": "A historic seminary building of religious significance in Almada.",
+                  "category": "historical",
+                  "coords": [
+                        -9.162585,
+                        38.681239
+                  ]
+            },
+            {
+                  "name": "Quinta de São João da Ramalha",
+                  "text": "Ruins of an old manor house in the Almada region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.167415,
+                        38.670566
+                  ]
+            },
+            {
+                  "name": "Miradouro do Largo Trindade Coelho",
+                  "text": "A public viewpoint overlooking the surroundings of Almada.",
+                  "category": "natural",
+                  "coords": [
+                        -9.14951,
+                        38.687531
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico",
+                  "text": "A botanical garden in Almada showcasing local flora.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.159909,
+                        38.683635
+                  ]
+            },
+            {
+                  "name": "Pórtico da Lisnave",
+                  "text": "A distinctive industrial monument at the former shipyard area of Almada.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148334,
+                        38.680719
+                  ]
+            },
+            {
+                  "name": "Viveiro do Parque da Paz",
+                  "text": "An area within Parque da Paz dedicated to plant nurseries.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.163642,
+                        38.663802
+                  ]
+            },
+            {
+                  "name": "Escola Primária António José Gomes",
+                  "text": "A historic school building in Almada of local significance.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.155625,
+                        38.672137
+                  ]
+            },
+            {
+                  "name": "Solar da Quinta de Vale Mourelos",
+                  "text": "A historical manor house located in the Almada municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -9.185056,
+                        38.661845
+                  ]
+            },
+            {
+                  "name": "Moinho de Cacilhas",
+                  "text": "A historic windmill located in the Cacilhas district.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.14813,
+                        38.685724
+                  ]
+            },
+            {
+                  "name": "Mercado da Romeira",
+                  "text": "A lively market in Almada featuring gastronomy and local trade.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.15249,
+                        38.670395
+                  ]
+            },
+            {
+                  "name": "Igreja de Santiago",
+                  "text": "A historic church located in the heart of Almada.",
+                  "category": "religious",
+                  "coords": [
+                        -9.156353,
+                        38.6839
+                  ]
+            },
+            {
+                  "name": "Ermida do Mártir São Sebastião",
+                  "text": "A small chapel in Almada dedicated to Saint Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        -9.161396,
+                        38.678579
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "ETAR da Mutela is a lake in Almada, forming a quiet point in the urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Lago Duque de Lafões",
+                  "text": "Lago Duque de Lafões is a lake in Almada, ideal for a relaxing break.",
+                  "category": "natural",
+                  "coords": [
+                        -9.169075,
+                        38.70966
+                  ]
+            },
+            {
+                  "name": "Lagoa",
+                  "text": "Lagoa is a lake in Almada, bringing a natural touch to the city.",
+                  "category": "natural",
+                  "coords": [
+                        -9.188938,
+                        38.716008
+                  ]
+            },
+            {
+                  "name": "Lago parque dos moinhos",
+                  "text": "Lago parque dos moinhos is a lake in Almada, a peaceful spot for those seeking relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -9.205239,
+                        38.708635
+                  ]
+            },
+            {
+                  "name": "Tanque de refrigeração",
+                  "text": "Tanque de refrigeração is a lake in Almada, representing an interesting water feature.",
+                  "category": "natural",
+                  "coords": [
+                        -9.164274,
+                        38.619485
+                  ]
+            },
+            {
+                  "name": "Tanque",
+                  "text": "Tanque is a lake in Almada, providing a peaceful environment by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -9.18202,
+                        38.709458
+                  ]
+            },
+            {
+                  "name": "Lago Principal",
+                  "text": "Lago Principal is a lake in Almada, ideal for a walk in the park.",
+                  "category": "natural",
+                  "coords": [
+                        -9.202917,
+                        38.698231
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque da Juventude",
+                  "text": "Parque Infantil do Parque da Juventude is a playground in Almada for active children.",
+                  "category": "family",
+                  "coords": [
+                        -9.165506,
+                        38.672581
+                  ]
+            },
+            {
+                  "name": "Parque Infantil dos Caranguejais",
+                  "text": "Parque Infantil dos Caranguejais is a playground in Almada that welcomes families.",
+                  "category": "family",
+                  "coords": [
+                        -9.156365,
+                        38.67456
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Praceta Jornal de Almada",
+                  "text": "Parque Infantil da Praceta Jornal de Almada is a playground in Almada for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -9.152896,
+                        38.678652
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Jardim Dr. Alberto Araújo",
+                  "text": "Parque Infantil do Jardim Dr. Alberto Araújo is a playground in Almada for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        -9.158169,
+                        38.68134
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Urbano do Pragal",
+                  "text": "Parque Infantil do Parque Urbano do Pragal is a playground in an urban park in Almada.",
+                  "category": "family",
+                  "coords": [
+                        -9.17063,
+                        38.66833
+                  ]
+            },
+            {
+                  "name": "AIPICA",
+                  "text": "AIPICA is a playground in Almada, providing a safe area for children.",
+                  "category": "family",
+                  "coords": [
+                        -9.16464,
+                        38.668208
+                  ]
+            },
+            {
+                  "name": "Jardim Infantil",
+                  "text": "Jardim Infantil is a playground in Almada, ideal for younger children to play.",
+                  "category": "family",
+                  "coords": [
+                        -9.142984,
+                        38.653244
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Social",
+                  "text": "Parque Infantil Social is a playground in Almada, offering children a place to romp around.",
+                  "category": "family",
+                  "coords": [
+                        -9.148157,
+                        38.649913
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Parque Luís Sá",
+                  "text": "Parque Infantil do Parque Luís Sá is a playground in Almada, located in a pleasant setting.",
+                  "category": "family",
+                  "coords": [
+                        -9.15144,
+                        38.652861
+                  ]
+            },
+            {
+                  "name": "Jardim da Criança",
+                  "text": "Jardim da Criança is a playground in Almada, providing a friendly play area.",
+                  "category": "family",
+                  "coords": [
+                        -9.158094,
+                        38.663588
+                  ]
+            },
+            {
+                  "name": "Parque Infantil do Largo Padre Ricardo Gameiro",
+                  "text": "Parque Infantil do Largo Padre Ricardo Gameiro is a playground in Almada for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -9.15629,
+                        38.669441
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Rua António Nobre Cacilhas",
+                  "text": "This playground in Almada offers a nice outdoor space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -9.149047,
+                        38.683873
+                  ]
+            },
+            {
+                  "name": "Piscinas Clube Lisnave",
+                  "text": "Swimming pool club in Almada with facilities for sports and leisure swimming.",
+                  "category": "family",
+                  "coords": [
+                        -9.151817,
+                        38.677411
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Almada", hu: "Almada", ro: "Almada", en: "Almada" },
@@ -3451,7 +8392,1636 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-amadora-cities-v2.webp",
   },
   {
-    id: "portugal-seixal-cities-v2", "sights": {"de": [{"name": "Praia Fluvial de Alburrica", "text": "Gelegen in Seixal, fasziniert dieser portugiesische Flussstrand durch seine historischen Windmühlen und den tollen Blick auf die Küste. Die Atmosphäre ist ruhig und lädt dazu ein, die reiche Kultur am Wasser zu genießen. Hier können Besucher gemütliche Spaziergänge unternehmen oder einfach die Aussicht bewundern. Am besten eignet sich ein Besuch am späten Nachmittag, um die entspannte Stimmung aufzunehmen.", "category": "recreational", "coords": [-9.084343, 38.6559]}, {"name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico", "text": "Ein geschütztes Naturgebiet in Seixal, das ein Zusammenspiel von Umwelt- und Industrieerbe bietet.", "category": "natural", "coords": [-9.087398, 38.659031]}, {"name": "Animateatro", "text": "Ein Gemeinschaftstheater in Seixal, das den darstellenden Künsten und Workshops gewidmet ist.", "category": "cultural", "coords": [-9.117544, 38.625002]}, {"name": "Tipografia Popular", "text": "Ein Museum in Seixal, das die Geschichte und Werkzeuge des traditionellen Buchdrucks zeigt.", "category": "museum", "coords": [-9.103667, 38.643616]}, {"name": "Sala de Espetáculos do Fórum Cultural do Seixal", "text": "Ein Veranstaltungssaal im Kulturforum von Seixal, der für Konzerte und Theater genutzt wird.", "category": "cultural", "coords": [-9.102721, 38.63885]}, {"name": "Praia do Seixal", "text": "Direkt am Ästuar des Tajo-Flusses in Seixal erwartet Sie dieser einladende portugiesische Strand. Es herrscht eine gelassene Stimmung, die sowohl Einheimische als auch Gäste schätzen. Das ruhige Gewässer bietet eine schöne Kulisse für entspannte Stunden am Flussufer. Ein Ausflug an warmen Sommertagen lohnt sich besonders, um das herrliche Panorama zu genießen.", "category": "recreational", "coords": [-9.105287, 38.644038]}, {"name": "Auditório da Junta de Freguesia da Amora", "text": "Ein lokales Auditorium in Seixal, das für Gemeindeveranstaltungen und kulturelle Aktivitäten genutzt wird.", "category": "cultural", "coords": [-9.118241, 38.627814]}, {"name": "Praia do Mexilhoeiro", "text": "Umgeben von einer malerischen Naturlandschaft, präsentiert sich dieser Flussstrand in Seixal von seiner besten Seite. Die ruhige Umgebung schafft eine entspannte Atmosphäre, ideal um dem Alltag zu entfliehen. Spaziergänger und Naturliebhaber kommen hier voll auf ihre Kosten und können das Panorama auf sich wirken lassen. Für einen ruhigen Rückzugsort in Portugal empfiehlt sich ein Besuch in den frühen Morgenstunden.", "category": "recreational", "coords": [-9.090507, 38.656276]}, {"name": "Moinho do Cabo", "text": "Eine archäologische Stätte in Seixal mit den Ruinen einer historischen Mühle.", "category": "historical", "coords": [-9.08318, 38.656802]}, {"name": "Oficina do Núcleo Naval do  Ecomuseu do Seixal", "text": "Ein Museum in Seixal, das das lokale Marine- und Schiffbauerbe präsentiert.", "category": "museum", "coords": [-9.105151, 38.629548]}, {"name": "Moinho Grande", "text": "Eine historische archäologische Stätte einer Mühle in Seixal.", "category": "historical", "coords": [-9.083738, 38.657945]}, {"name": "Cinema São Vicente", "text": "Ein lokales Theater und Kino in Seixal.", "category": "cultural", "coords": [-9.084994, 38.625278]}, {"name": "Oficina de Artes Manuel Cargaleiro", "text": "Ein Kunstmuseum in Seixal, das den Werken von Manuel Cargaleiro gewidmet ist.", "category": "museum", "coords": [-9.105204, 38.632593]}, {"name": "Praia dos Barcos", "text": "Dieser pittoreske Strandabschnitt in Seixal fängt die maritime Schönheit Portugals auf besondere Weise ein. Die beschauliche Atmosphäre zieht Ruhesuchende an, die das sanfte Plätschern des Wassers schätzen. Ob für entspannte Spaziergänge oder einfach zum Verweilen am Ufer, der Ort bietet idyllische Momente. Ein Ausflug bei Sonnenuntergang verleiht dem Besuch eine besonders romantische Note.", "category": "recreational", "coords": [-9.097319, 38.647286]}, {"name": "Ecomuseu Municipal do Seixal - Núcleo da Mundet", "text": "Ein Museum in Seixal, das sich auf die Industriegeschichte der Mundet-Fabrik konzentriert.", "category": "museum", "coords": [-9.105443, 38.642192]}, {"name": "Moinho de Maré", "text": "Eine archäologische Stätte einer traditionellen Gezeitenmühle in Seixal.", "category": "historical", "coords": [-9.089905, 38.659438]}, {"name": "Praia do Clube Naval", "text": "In unmittelbarer Nähe des Marineclubs von Seixal erstreckt sich dieser lokale portugiesische Strand. Das maritime Flair sorgt für eine lebhafte und zugleich freundliche Stimmung am Wasser. Besucher können hier das Treiben der Boote beobachten oder einen entspannten Tag an der Küste verbringen. Es lohnt sich, etwas Zeit mitzubringen, um die einzigartige maritime Atmosphäre vollständig zu genießen.", "category": "recreational", "coords": [-9.092053, 38.658842]}, {"name": "Moinho Poente", "text": "Eine traditionelle Windmühle in Seixal.", "category": "landmark", "coords": [-9.082695, 38.655325]}, {"name": "Moinho Pequeno", "text": "Die Ruinen einer kleinen historischen Mühle in Seixal.", "category": "historical", "coords": [-9.082934, 38.66015]}, {"name": "Moinho Velho dos Paulistas", "text": "Die Ruinen einer alten Mühle namens Moinho Velho dos Paulistas in Seixal.", "category": "historical", "coords": [-9.085295, 38.641983]}, {"name": "Moinho Novo dos Paulistas", "text": "Die Ruinen eines Mühlengebäudes in Seixal.", "category": "historical", "coords": [-9.085582, 38.640796]}, {"name": "Igreja Paroquial de Arrentela", "text": "Die historische Pfarrkirche des Stadtteils Arrentela in Seixal.", "category": "landmark", "coords": [-9.103441, 38.625939]}, {"name": "Quinta da Trindade", "text": "Ein historisches Herrenhaus und Anwesen in Seixal.", "category": "historical", "coords": [-9.09298, 38.644331]}, {"name": "Parque Catarina Eufémia", "text": "Ein öffentlicher Park in Seixal, benannt zu Ehren von Catarina Eufémia.", "category": "park", "coords": [-9.07935, 38.660995]}, {"name": "Miradouro do Seixal", "text": "Ein Aussichtspunkt mit Panoramablick auf die Stadt Seixal.", "category": "natural", "coords": [-9.095579, 38.643636]}, {"name": "Miradouro do Alto Dona Ana", "text": "Ein Aussichtspunkt im Stadtteil Alto Dona Ana in Seixal.", "category": "natural", "coords": [-9.102765, 38.643007]}, {"name": "Coreto da Amora", "text": "Ein traditioneller Pavillon und eine lokale Sehenswürdigkeit in Amora, Seixal.", "category": "landmark", "coords": [-9.112203, 38.628079]}, {"name": "Escadas para o Rio Judeu", "text": "Ein Aussichtspunkt in Seixal mit Treppen, die zum Rio Judeu führen.", "category": "natural", "coords": [-9.111067, 38.627602]}, {"name": "Antiga Fábrica de Cortiça da Mundet", "text": "Die Ruinen der ehemaligen Korkfabrik Mundet in Seixal.", "category": "historical", "coords": [-9.103383, 38.640479]}, {"name": "Moinho do Jim", "text": "Eine traditionelle Windmühle namens Moinho do Jim in Seixal.", "category": "landmark", "coords": [-9.08363, 38.663253]}, {"name": "Capela de Nossa Senhora da Piedade", "text": "Eine religiöse Kapelle in Seixal, die Unserer Lieben Frau von der Frömmigkeit gewidmet ist.", "category": "religious", "coords": [-9.116039, 38.630582]}, {"name": "Câmara Municipal do Seixal", "text": "Das Rathausgebäude der Gemeinde Seixal.", "category": "historical", "coords": [-9.101444, 38.636805]}, {"name": "Igreja de Nossa Senhora do Rosário", "text": "Eine Kirche in Seixal, die Unserer Lieben Frau vom Rosenkranz gewidmet ist.", "category": "religious", "coords": [-9.083264, 38.662004]}, {"name": "Moinho do Breyner", "text": "Eine historische Gezeitenmühle in Seixal, die als lokales Erbe anerkannt ist.", "category": "landmark", "coords": [-9.086892, 38.637465]}, {"name": "ETAR da Mutela", "text": "Die ETAR da Mutela ist ein Gewässer in Seixal, das die lokale Landschaft bereichert.", "category": "natural", "coords": [-9.152314, 38.672799]}, {"name": "Caldeira de Moinho de Maré", "text": "Die Caldeira de Moinho de Maré ist ein ruhiger See in Seixal, ideal für Spaziergänge.", "category": "natural", "coords": [-9.065585, 38.646871]}, {"name": "Caldeira do Moinho de Maré", "text": "Der See Caldeira do Moinho de Maré lädt in Seixal zum Verweilen und Naturgenießen ein.", "category": "natural", "coords": [-9.031736, 38.655778]}, {"name": "Tanque de refrigeração", "text": "Das Tanque de refrigeração ist ein künstliches Gewässer in Seixal.", "category": "natural", "coords": [-9.164274, 38.619485]}, {"name": "Lago da Vida", "text": "Der Lago da Vida ist ein malerischer See in Seixal mit schöner Aussicht.", "category": "natural", "coords": [-9.144886, 38.577184]}, {"name": "Parque Intantil da Quinta do Serrado", "text": "Der Parque Intantil da Quinta do Serrado ist ein beliebter Kinderspielplatz in Seixal.", "category": "family", "coords": [-9.12024, 38.629696]}, {"name": "Parque da Quinta de Santa Teresinha", "text": "Der Parque da Quinta de Santa Teresinha ist ein familienfreundlicher Ort in Seixal.", "category": "family", "coords": [-9.100194, 38.638345]}, {"name": "Parque Infantil da Seixeira", "text": "Der Parque Infantil da Seixeira bietet Abwechslung für Kinder in Seixal.", "category": "family", "coords": [-9.082193, 38.621156]}, {"name": "Parque Infantil Quinta do Mirante", "text": "Im Parque Infantil Quinta do Mirante können Familien in Seixal gemeinsam Zeit verbringen.", "category": "family", "coords": [-9.083427, 38.625774]}, {"name": "Parque Infantil Torre da Marinha", "text": "Der Parque Infantil Torre da Marinha ist ein Spielplatz im Stadtgebiet von Seixal.", "category": "family", "coords": [-9.103343, 38.61815]}], "hu": [{"name": "Praia Fluvial de Alburrica", "text": "A Seixalban található portugál folyóparti strand történelmi szélmalmaival és a partvidékre nyíló remek kilátásával varázsolja el a látogatókat. Hangulata békés, amely szinte hívogat a víz melletti gazdag kultúra felfedezésére. A vendégek itt kényelmes sétákat tehetnek, vagy egyszerűen csak gyönyörködhetnek a tájban. Legjobb késő délután érkezni, amikor a leginkább élvezhető a nyugodt atmoszféra.", "category": "recreational", "coords": [-9.084343, 38.6559]}, {"name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico", "text": "Természetvédelmi terület Seixalban, amely a környezeti és ipari örökséget ötvözi.", "category": "natural", "coords": [-9.087398, 38.659031]}, {"name": "Animateatro", "text": "Közösségi színház Seixalban, amely előadóművészettel és workshopokkal foglalkozik.", "category": "cultural", "coords": [-9.117544, 38.625002]}, {"name": "Tipografia Popular", "text": "Seixali múzeum, amely a hagyományos nyomdászat történetét és eszközeit mutatja be.", "category": "museum", "coords": [-9.103667, 38.643616]}, {"name": "Sala de Espetáculos do Fórum Cultural do Seixal", "text": "Seixal kulturális fórumának előadóterme, amelyet koncertekre és színházi előadásokra használnak.", "category": "cultural", "coords": [-9.102721, 38.63885]}, {"name": "Praia do Seixal", "text": "Közvetlenül a Tajo folyó torkolatánál, Seixalban várja Önt ez a hívogató portugál partszakasz. Kiegyensúlyozott hangulat uralkodik itt, amelyet a helyiek és a vendégek egyaránt értékelnek. A nyugodt vízfelület gyönyörű hátteret biztosít a folyóparti pihenéshez. Különösen a meleg nyári napokon érdemes ide ellátogatni, hogy élvezze a csodás panorámát.", "category": "recreational", "coords": [-9.105287, 38.644038]}, {"name": "Auditório da Junta de Freguesia da Amora", "text": "Seixali auditórium, amelyet közösségi eseményekre és kulturális tevékenységekre használnak.", "category": "cultural", "coords": [-9.118241, 38.627814]}, {"name": "Praia do Mexilhoeiro", "text": "A festői természeti tájjal körülölelt folyami strand Seixalban a legjobb formáját mutatja. A csendes környezet pihentető légkört teremt, amely ideális a mindennapok elől való menekülésre. A sétálók és a természet szerelmesei itt igazán elemükben érezhetik magukat, miközben a panorámában gyönyörködnek. Egy nyugodt portugáliai menedékhelyhez a kora reggeli órákban érdemes ellátogatni ide.", "category": "recreational", "coords": [-9.090507, 38.656276]}, {"name": "Moinho do Cabo", "text": "Régészeti lelőhely Seixalban, ahol egy történelmi malom romjai láthatók.", "category": "historical", "coords": [-9.08318, 38.656802]}, {"name": "Oficina do Núcleo Naval do  Ecomuseu do Seixal", "text": "Tengerészeti múzeum Seixalban, amely a helyi hajóépítési örökséget mutatja be.", "category": "museum", "coords": [-9.105151, 38.629548]}, {"name": "Moinho Grande", "text": "Egy történelmi malom régészeti lelőhelye Seixalban.", "category": "historical", "coords": [-9.083738, 38.657945]}, {"name": "Cinema São Vicente", "text": "Helyi színház és mozi Seixalban.", "category": "cultural", "coords": [-9.084994, 38.625278]}, {"name": "Oficina de Artes Manuel Cargaleiro", "text": "Manuel Cargaleiro munkásságának szentelt művészeti múzeum Seixalban.", "category": "museum", "coords": [-9.105204, 38.632593]}, {"name": "Praia dos Barcos", "text": "Ez a festői partszakasz Seixalban különleges módon ragadja meg Portugália tengeri szépségét. A békés atmoszféra vonzza a nyugalmat keresőket, akik értékelik a víz lágy csobogását. Akár egy pihentető sétára, akár csak a parton való időtöltésre vágyik, a hely idilli pillanatokat kínál. Naplementekor a látogatás különösen romantikus hangulatot áraszt.", "category": "recreational", "coords": [-9.097319, 38.647286]}, {"name": "Ecomuseu Municipal do Seixal - Núcleo da Mundet", "text": "Seixali múzeum, amely a Mundet gyár ipari történetére összpontosít.", "category": "museum", "coords": [-9.105443, 38.642192]}, {"name": "Moinho de Maré", "text": "Egy hagyományos árapály-malom régészeti lelőhelye Seixalban.", "category": "historical", "coords": [-9.089905, 38.659438]}, {"name": "Praia do Clube Naval", "text": "Seixal tengerészeti klubjának közvetlen közelében terül el ez a helyi portugál strand. A tengeri hangulat élénk, ugyanakkor barátságos légkört teremt a vízparton. A látogatók itt megfigyelhetik a csónakok jövés-menését, vagy eltölthetnek egy pihentető napot a parton. Érdemes elegendő időt szánni a különleges tengeri atmoszféra teljes élvezetére.", "category": "recreational", "coords": [-9.092053, 38.658842]}, {"name": "Moinho Poente", "text": "Hagyományos szélmalom Seixalban.", "category": "landmark", "coords": [-9.082695, 38.655325]}, {"name": "Moinho Pequeno", "text": "Egy kis történelmi malom romjai Seixalban.", "category": "historical", "coords": [-9.082934, 38.66015]}, {"name": "Moinho Velho dos Paulistas", "text": "Egy Moinho Velho dos Paulistas néven ismert régi malom romjai Seixalban.", "category": "historical", "coords": [-9.085295, 38.641983]}, {"name": "Moinho Novo dos Paulistas", "text": "Egy malomépület romjai Seixalban.", "category": "historical", "coords": [-9.085582, 38.640796]}, {"name": "Igreja Paroquial de Arrentela", "text": "Seixal Arrentela negyedének történelmi plébániatemploma.", "category": "landmark", "coords": [-9.103441, 38.625939]}, {"name": "Quinta da Trindade", "text": "Történelmi udvarház és birtok Seixalban.", "category": "historical", "coords": [-9.09298, 38.644331]}, {"name": "Parque Catarina Eufémia", "text": "Catarina Eufémia tiszteletére elnevezett nyilvános park Seixalban.", "category": "park", "coords": [-9.07935, 38.660995]}, {"name": "Miradouro do Seixal", "text": "Kilátó, amely panorámás kilátást nyújt Seixal városára.", "category": "natural", "coords": [-9.095579, 38.643636]}, {"name": "Miradouro do Alto Dona Ana", "text": "Kilátó Seixal Alto Dona Ana negyedében.", "category": "natural", "coords": [-9.102765, 38.643007]}, {"name": "Coreto da Amora", "text": "Hagyományos zenepavilon és helyi látványosság Seixal Amora negyedében.", "category": "landmark", "coords": [-9.112203, 38.628079]}, {"name": "Escadas para o Rio Judeu", "text": "Kilátó Seixalban, amelynek lépcsői a Rio Judeu felé vezetnek.", "category": "natural", "coords": [-9.111067, 38.627602]}, {"name": "Antiga Fábrica de Cortiça da Mundet", "text": "Az egykori Mundet parafagyár romjai Seixalban.", "category": "historical", "coords": [-9.103383, 38.640479]}, {"name": "Moinho do Jim", "text": "Hagyományos szélmalom, az úgynevezett Moinho do Jim Seixalban.", "category": "landmark", "coords": [-9.08363, 38.663253]}, {"name": "Capela de Nossa Senhora da Piedade", "text": "Szűz Mária kegyelmének szentelt vallási kápolna Seixalban.", "category": "religious", "coords": [-9.116039, 38.630582]}, {"name": "Câmara Municipal do Seixal", "text": "Seixal község városháza épülete.", "category": "historical", "coords": [-9.101444, 38.636805]}, {"name": "Igreja de Nossa Senhora do Rosário", "text": "Rózsafüzér Királynője tiszteletére szentelt templom Seixalban.", "category": "religious", "coords": [-9.083264, 38.662004]}, {"name": "Moinho do Breyner", "text": "Történelmi árapály-malom Seixalban, amelyet helyi örökségként ismernek el.", "category": "landmark", "coords": [-9.086892, 38.637465]}, {"name": "ETAR da Mutela", "text": "Az ETAR da Mutela egy vízfelület Seixalban, amely gazdagítja a helyi tájat.", "category": "natural", "coords": [-9.152314, 38.672799]}, {"name": "Caldeira de Moinho de Maré", "text": "A Caldeira de Moinho de Maré egy nyugodt tó Seixalban, amely ideális sétákhoz.", "category": "natural", "coords": [-9.065585, 38.646871]}, {"name": "Caldeira do Moinho de Maré", "text": "A Caldeira do Moinho de Maré tó Seixalban pihenésre és a természet élvezetére hív.", "category": "natural", "coords": [-9.031736, 38.655778]}, {"name": "Tanque de refrigeração", "text": "A Tanque de refrigeração egy mesterséges vízfelület Seixalban.", "category": "natural", "coords": [-9.164274, 38.619485]}, {"name": "Lago da Vida", "text": "A Lago da Vida egy festői tó Seixalban, szép kilátással.", "category": "natural", "coords": [-9.144886, 38.577184]}, {"name": "Parque Intantil da Quinta do Serrado", "text": "A Parque Intantil da Quinta do Serrado egy népszerű játszótér Seixalban.", "category": "family", "coords": [-9.12024, 38.629696]}, {"name": "Parque da Quinta de Santa Teresinha", "text": "A Parque da Quinta de Santa Teresinha egy családbarát hely Seixalban.", "category": "family", "coords": [-9.100194, 38.638345]}, {"name": "Parque Infantil da Seixeira", "text": "A Parque Infantil da Seixeira kikapcsolódást nyújt a gyerekeknek Seixalban.", "category": "family", "coords": [-9.082193, 38.621156]}, {"name": "Parque Infantil Quinta do Mirante", "text": "A Parque Infantil Quinta do Mirante területén a családok együtt tölthetik az időt Seixalban.", "category": "family", "coords": [-9.083427, 38.625774]}, {"name": "Parque Infantil Torre da Marinha", "text": "A Parque Infantil Torre da Marinha egy játszótér Seixal városi területén.", "category": "family", "coords": [-9.103343, 38.61815]}], "ro": [{"name": "Praia Fluvial de Alburrica", "text": "Situată în Seixal, această plajă fluvială portugheză captivează prin morile sale de vânt istorice și priveliștea minunată asupra coastei. Atmosfera este liniștită, invitând oaspeții să se bucure de cultura bogată de pe malul apei. Vizitatorii pot face plimbări plăcute sau pur și simplu pot admira peisajul. Cel mai bine este să ajungeți după-amiaza târziu pentru a savura starea de relaxare.", "category": "recreational", "coords": [-9.084343, 38.6559]}, {"name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico", "text": "O arie naturală protejată din Seixal, care îmbină patrimoniul ecologic și cel industrial.", "category": "natural", "coords": [-9.087398, 38.659031]}, {"name": "Animateatro", "text": "Un teatru comunitar din Seixal dedicat artelor spectacolului și atelierelor de creație.", "category": "cultural", "coords": [-9.117544, 38.625002]}, {"name": "Tipografia Popular", "text": "Un muzeu din Seixal care prezintă istoria și instrumentele tipografiei tradiționale.", "category": "museum", "coords": [-9.103667, 38.643616]}, {"name": "Sala de Espetáculos do Fórum Cultural do Seixal", "text": "O sală de spectacole în cadrul forumului cultural din Seixal, utilizată pentru concerte și teatru.", "category": "cultural", "coords": [-9.102721, 38.63885]}, {"name": "Praia do Seixal", "text": "Chiar pe estuarul râului Tajo, în Seixal, vă așteaptă această plajă portugheză primitoare. Aici domină o atmosferă senină, apreciată deopotrivă de localnici și de turiști. Apa liniștită oferă un fundal frumos pentru ore de relaxare pe malul râului. O excursie în zilele calde de vară merită cu siguranță pentru a vă bucura de panorama minunată.", "category": "recreational", "coords": [-9.105287, 38.644038]}, {"name": "Auditório da Junta de Freguesia da Amora", "text": "Un auditoriu local din Seixal utilizat pentru evenimente comunitare și activități culturale.", "category": "cultural", "coords": [-9.118241, 38.627814]}, {"name": "Praia do Mexilhoeiro", "text": "Înconjurată de un peisaj natural pitoresc, această plajă fluvială din Seixal se prezintă în cea mai bună formă a sa. Mediul liniștit creează o atmosferă relaxantă, ideală pentru a evada din cotidian. Plimbăreții și iubitorii de natură se pot bucura pe deplin de priveliștea minunată. Pentru un refugiu portughez pașnic, se recomandă o vizită la primele ore ale dimineții.", "category": "recreational", "coords": [-9.090507, 38.656276]}, {"name": "Moinho do Cabo", "text": "Un sit arheologic din Seixal care prezintă ruinele unei mori istorice.", "category": "historical", "coords": [-9.08318, 38.656802]}, {"name": "Oficina do Núcleo Naval do  Ecomuseu do Seixal", "text": "Un muzeu din Seixal care prezintă patrimoniul naval și construcțiile navale locale.", "category": "museum", "coords": [-9.105151, 38.629548]}, {"name": "Moinho Grande", "text": "Un sit arheologic istoric al unei mori situat în Seixal.", "category": "historical", "coords": [-9.083738, 38.657945]}, {"name": "Cinema São Vicente", "text": "Un teatru și cinematograf local din Seixal.", "category": "cultural", "coords": [-9.084994, 38.625278]}, {"name": "Oficina de Artes Manuel Cargaleiro", "text": "Un muzeu de artă din Seixal dedicat operelor lui Manuel Cargaleiro.", "category": "museum", "coords": [-9.105204, 38.632593]}, {"name": "Praia dos Barcos", "text": "Această porțiune pitorească de plajă din Seixal surprinde frumusețea maritimă a Portugaliei într-un mod deosebit. Atmosfera contemplativă îi atrage pe cei care caută liniște și apreciază clipocitul blând al apei. Fie pentru plimbări relaxante, fie pur și simplu pentru a zăbovi pe țărm, locul oferă momente idilice. O vizită la apusul soarelui conferă excursiei o notă deosebit de romantică.", "category": "recreational", "coords": [-9.097319, 38.647286]}, {"name": "Ecomuseu Municipal do Seixal - Núcleo da Mundet", "text": "Un muzeu din Seixal axat pe istoria industrială a fabricii Mundet.", "category": "museum", "coords": [-9.105443, 38.642192]}, {"name": "Moinho de Maré", "text": "Un sit arheologic al unei mori de maree tradiționale din Seixal.", "category": "historical", "coords": [-9.089905, 38.659438]}, {"name": "Praia do Clube Naval", "text": "În imediata apropiere a clubului naval din Seixal se întinde această plajă portugheză locală. Aerul maritim creează o atmosferă plină de viață și, în același timp, prietenoasă la malul apei. Vizitatorii pot urmări forfota bărcilor sau pot petrece o zi relaxantă pe coastă. Merită să vă alocați timp suficient pentru a savura pe deplin ambianța maritimă unică.", "category": "recreational", "coords": [-9.092053, 38.658842]}, {"name": "Moinho Poente", "text": "O moară de vânt tradițională situată în Seixal.", "category": "landmark", "coords": [-9.082695, 38.655325]}, {"name": "Moinho Pequeno", "text": "Ruinele unei mici mori istorice din Seixal.", "category": "historical", "coords": [-9.082934, 38.66015]}, {"name": "Moinho Velho dos Paulistas", "text": "Ruinele unei mori vechi cunoscute sub numele de Moinho Velho dos Paulistas din Seixal.", "category": "historical", "coords": [-9.085295, 38.641983]}, {"name": "Moinho Novo dos Paulistas", "text": "Ruinele unei clădiri de moară din Seixal.", "category": "historical", "coords": [-9.085582, 38.640796]}, {"name": "Igreja Paroquial de Arrentela", "text": "Biserica parohială istorică ce deservește zona Arrentela din Seixal.", "category": "landmark", "coords": [-9.103441, 38.625939]}, {"name": "Quinta da Trindade", "text": "Un conac și o proprietate istorică situată în Seixal.", "category": "historical", "coords": [-9.09298, 38.644331]}, {"name": "Parque Catarina Eufémia", "text": "Un parc public din Seixal numit în onoarea Catarinei Eufémia.", "category": "park", "coords": [-9.07935, 38.660995]}, {"name": "Miradouro do Seixal", "text": "Un punct de belvedere care oferă vedere panoramică asupra orașului Seixal.", "category": "natural", "coords": [-9.095579, 38.643636]}, {"name": "Miradouro do Alto Dona Ana", "text": "Un punct de belvedere pitoresc situat în districtul Alto Dona Ana din Seixal.", "category": "natural", "coords": [-9.102765, 38.643007]}, {"name": "Coreto da Amora", "text": "Un foișor tradițional și o atracție locală în Amora, Seixal.", "category": "landmark", "coords": [-9.112203, 38.628079]}, {"name": "Escadas para o Rio Judeu", "text": "Un punct de belvedere din Seixal cu scări care duc spre Rio Judeu.", "category": "natural", "coords": [-9.111067, 38.627602]}, {"name": "Antiga Fábrica de Cortiça da Mundet", "text": "Ruinele fostei fabrici de plută Mundet din Seixal.", "category": "historical", "coords": [-9.103383, 38.640479]}, {"name": "Moinho do Jim", "text": "O moară de vânt tradițională cunoscută sub numele de Moinho do Jim în Seixal.", "category": "landmark", "coords": [-9.08363, 38.663253]}, {"name": "Capela de Nossa Senhora da Piedade", "text": "O chapelă religioasă dedicată Maicii Domnului a Pietății din Seixal.", "category": "religious", "coords": [-9.116039, 38.630582]}, {"name": "Câmara Municipal do Seixal", "text": "Clădirea primăriei locale pentru municipiul Seixal.", "category": "historical", "coords": [-9.101444, 38.636805]}, {"name": "Igreja de Nossa Senhora do Rosário", "text": "O biserică din Seixal dedicată Maicii Domnului a Rozariului.", "category": "religious", "coords": [-9.083264, 38.662004]}, {"name": "Moinho do Breyner", "text": "O moară de maree istorică din Seixal, recunoscută ca patrimoniu local.", "category": "landmark", "coords": [-9.086892, 38.637465]}, {"name": "ETAR da Mutela", "text": "ETAR da Mutela este o zonă cu apă în Seixal, care îmbogățește peisajul local.", "category": "natural", "coords": [-9.152314, 38.672799]}, {"name": "Caldeira de Moinho de Maré", "text": "Caldeira de Moinho de Maré este un lac liniștit în Seixal, ideal pentru plimbări.", "category": "natural", "coords": [-9.065585, 38.646871]}, {"name": "Caldeira do Moinho de Maré", "text": "Lacul Caldeira do Moinho de Maré din Seixal invită la relaxare și la bucuria de a fi în natură.", "category": "natural", "coords": [-9.031736, 38.655778]}, {"name": "Tanque de refrigeração", "text": "Tanque de refrigeração este o zonă cu apă artificială în Seixal.", "category": "natural", "coords": [-9.164274, 38.619485]}, {"name": "Lago da Vida", "text": "Lago da Vida este un lac pitoresc în Seixal, cu o priveliște frumoasă.", "category": "natural", "coords": [-9.144886, 38.577184]}, {"name": "Parque Intantil da Quinta do Serrado", "text": "Parque Intantil da Quinta do Serrado este un teren de joacă popular pentru copii în Seixal.", "category": "family", "coords": [-9.12024, 38.629696]}, {"name": "Parque da Quinta de Santa Teresinha", "text": "Parque da Quinta de Santa Teresinha este un loc prietenos pentru familii în Seixal.", "category": "family", "coords": [-9.100194, 38.638345]}, {"name": "Parque Infantil da Seixeira", "text": "Parque Infantil da Seixeira oferă divertisment pentru copii în Seixal.", "category": "family", "coords": [-9.082193, 38.621156]}, {"name": "Parque Infantil Quinta do Mirante", "text": "În Parque Infantil Quinta do Mirante, familiile pot petrece timp împreună în Seixal.", "category": "family", "coords": [-9.083427, 38.625774]}, {"name": "Parque Infantil Torre da Marinha", "text": "Parque Infantil Torre da Marinha este un loc de joacă în zona urbană a Seixalului.", "category": "family", "coords": [-9.103343, 38.61815]}], "en": [{"name": "Praia Fluvial de Alburrica", "text": "Located in Seixal, this Portuguese river beach captivates with its historical windmills and a great view of the coast. The atmosphere is peaceful, inviting guests to enjoy the rich waterfront culture. Visitors can take pleasant walks or simply admire the scenery. Arriving in the late afternoon is best to truly absorb the relaxed mood.", "category": "recreational", "coords": [-9.084343, 38.6559]}, {"name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico", "text": "A protected natural area in Seixal featuring a mix of environmental and industrial heritage.", "category": "natural", "coords": [-9.087398, 38.659031]}, {"name": "Animateatro", "text": "A community theatre in Seixal dedicated to performing arts and workshops.", "category": "cultural", "coords": [-9.117544, 38.625002]}, {"name": "Tipografia Popular", "text": "A museum in Seixal showcasing the history and tools of traditional printing.", "category": "museum", "coords": [-9.103667, 38.643616]}, {"name": "Sala de Espetáculos do Fórum Cultural do Seixal", "text": "A performance hall within Seixal's cultural forum used for concerts and theater.", "category": "cultural", "coords": [-9.102721, 38.63885]}, {"name": "Praia do Seixal", "text": "Right on the estuary of the Tagus River in Seixal, this inviting Portuguese beach awaits. A serene mood prevails here, appreciated by both locals and guests alike. The calm waters provide a beautiful backdrop for relaxing hours on the riverbank. Visiting on warm summer days is highly recommended to fully enjoy the gorgeous panorama.", "category": "recreational", "coords": [-9.105287, 38.644038]}, {"name": "Auditório da Junta de Freguesia da Amora", "text": "A local auditorium in Seixal used for community events and cultural activities.", "category": "cultural", "coords": [-9.118241, 38.627814]}, {"name": "Praia do Mexilhoeiro", "text": "Surrounded by a picturesque natural landscape, this river beach in Seixal shows off its best side. The quiet environment creates a relaxing atmosphere, ideal for escaping everyday life. Walkers and nature lovers will thoroughly enjoy themselves while taking in the panorama. For a peaceful Portuguese retreat, an early morning visit is highly recommended.", "category": "recreational", "coords": [-9.090507, 38.656276]}, {"name": "Moinho do Cabo", "text": "An archaeological site in Seixal featuring the ruins of a historic mill.", "category": "historical", "coords": [-9.08318, 38.656802]}, {"name": "Oficina do Núcleo Naval do  Ecomuseu do Seixal", "text": "A museum in Seixal showcasing the local naval and shipbuilding heritage.", "category": "museum", "coords": [-9.105151, 38.629548]}, {"name": "Moinho Grande", "text": "A historic archaeological site of a mill located in Seixal.", "category": "historical", "coords": [-9.083738, 38.657945]}, {"name": "Cinema São Vicente", "text": "A local theatre and cinema venue in Seixal.", "category": "cultural", "coords": [-9.084994, 38.625278]}, {"name": "Oficina de Artes Manuel Cargaleiro", "text": "An art museum in Seixal dedicated to the works of Manuel Cargaleiro.", "category": "museum", "coords": [-9.105204, 38.632593]}, {"name": "Praia dos Barcos", "text": "This picturesque stretch of beach in Seixal captures the maritime beauty of Portugal in a special way. The contemplative atmosphere attracts peace-seekers who appreciate the gentle lapping of the water. Whether for relaxing walks or simply lingering on the shore, the location offers idyllic moments. Visiting at sunset gives the outing a particularly romantic touch.", "category": "recreational", "coords": [-9.097319, 38.647286]}, {"name": "Ecomuseu Municipal do Seixal - Núcleo da Mundet", "text": "A museum in Seixal focused on the industrial history of the Mundet factory.", "category": "museum", "coords": [-9.105443, 38.642192]}, {"name": "Moinho de Maré", "text": "An archaeological site of a traditional tide mill in Seixal.", "category": "historical", "coords": [-9.089905, 38.659438]}, {"name": "Praia do Clube Naval", "text": "This local Portuguese beach stretches out in the immediate vicinity of the Seixal naval club. The maritime flair provides a lively yet friendly mood by the water. Visitors can watch the boats going about their business or spend a relaxing day on the coast. It is well worth bringing plenty of time to fully enjoy the unique maritime atmosphere.", "category": "recreational", "coords": [-9.092053, 38.658842]}, {"name": "Moinho Poente", "text": "A traditional windmill structure located in Seixal.", "category": "landmark", "coords": [-9.082695, 38.655325]}, {"name": "Moinho Pequeno", "text": "The ruins of a small historic mill in Seixal.", "category": "historical", "coords": [-9.082934, 38.66015]}, {"name": "Moinho Velho dos Paulistas", "text": "The ruins of an old mill known as Moinho Velho dos Paulistas in Seixal.", "category": "historical", "coords": [-9.085295, 38.641983]}, {"name": "Moinho Novo dos Paulistas", "text": "The ruins of a mill building in Seixal.", "category": "historical", "coords": [-9.085582, 38.640796]}, {"name": "Igreja Paroquial de Arrentela", "text": "The historic parish church serving the Arrentela area of Seixal.", "category": "landmark", "coords": [-9.103441, 38.625939]}, {"name": "Quinta da Trindade", "text": "A historic manor and estate located in Seixal.", "category": "historical", "coords": [-9.09298, 38.644331]}, {"name": "Parque Catarina Eufémia", "text": "A public park in Seixal named in honor of Catarina Eufémia.", "category": "park", "coords": [-9.07935, 38.660995]}, {"name": "Miradouro do Seixal", "text": "A viewpoint providing panoramic views of the city of Seixal.", "category": "natural", "coords": [-9.095579, 38.643636]}, {"name": "Miradouro do Alto Dona Ana", "text": "A scenic viewpoint located in the Alto Dona Ana district of Seixal.", "category": "natural", "coords": [-9.102765, 38.643007]}, {"name": "Coreto da Amora", "text": "A traditional bandstand and local attraction in Amora, Seixal.", "category": "landmark", "coords": [-9.112203, 38.628079]}, {"name": "Escadas para o Rio Judeu", "text": "A viewpoint in Seixal featuring stairs that lead towards the Rio Judeu.", "category": "natural", "coords": [-9.111067, 38.627602]}, {"name": "Antiga Fábrica de Cortiça da Mundet", "text": "The ruins of the former Mundet cork factory in Seixal.", "category": "historical", "coords": [-9.103383, 38.640479]}, {"name": "Moinho do Jim", "text": "A traditional windmill known as Moinho do Jim in Seixal.", "category": "landmark", "coords": [-9.08363, 38.663253]}, {"name": "Capela de Nossa Senhora da Piedade", "text": "A religious chapel dedicated to Our Lady of Piety in Seixal.", "category": "religious", "coords": [-9.116039, 38.630582]}, {"name": "Câmara Municipal do Seixal", "text": "The local town hall building for the municipality of Seixal.", "category": "historical", "coords": [-9.101444, 38.636805]}, {"name": "Igreja de Nossa Senhora do Rosário", "text": "A church in Seixal dedicated to Our Lady of the Rosary.", "category": "religious", "coords": [-9.083264, 38.662004]}, {"name": "Moinho do Breyner", "text": "A historic tide mill in Seixal, recognized as local heritage.", "category": "landmark", "coords": [-9.086892, 38.637465]}, {"name": "ETAR da Mutela", "text": "ETAR da Mutela is a water body in Seixal that enhances the local scenery.", "category": "natural", "coords": [-9.152314, 38.672799]}, {"name": "Caldeira de Moinho de Maré", "text": "Caldeira de Moinho de Maré is a calm lake in Seixal, ideal for walks.", "category": "natural", "coords": [-9.065585, 38.646871]}, {"name": "Caldeira do Moinho de Maré", "text": "The lake Caldeira do Moinho de Maré in Seixal invites visitors to relax and enjoy nature.", "category": "natural", "coords": [-9.031736, 38.655778]}, {"name": "Tanque de refrigeração", "text": "Tanque de refrigeração is an artificial water body in Seixal.", "category": "natural", "coords": [-9.164274, 38.619485]}, {"name": "Lago da Vida", "text": "Lago da Vida is a picturesque lake in Seixal with a beautiful view.", "category": "natural", "coords": [-9.144886, 38.577184]}, {"name": "Parque Intantil da Quinta do Serrado", "text": "Parque Intantil da Quinta do Serrado is a popular children's playground in Seixal.", "category": "family", "coords": [-9.12024, 38.629696]}, {"name": "Parque da Quinta de Santa Teresinha", "text": "Parque da Quinta de Santa Teresinha is a family-friendly place in Seixal.", "category": "family", "coords": [-9.100194, 38.638345]}, {"name": "Parque Infantil da Seixeira", "text": "Parque Infantil da Seixeira offers variety for children in Seixal.", "category": "family", "coords": [-9.082193, 38.621156]}, {"name": "Parque Infantil Quinta do Mirante", "text": "In Parque Infantil Quinta do Mirante, families can spend time together in Seixal.", "category": "family", "coords": [-9.083427, 38.625774]}, {"name": "Parque Infantil Torre da Marinha", "text": "Parque Infantil Torre da Marinha is a playground in the urban area of Seixal.", "category": "family", "coords": [-9.103343, 38.61815]}]},
+    id: "portugal-seixal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Fluvial de Alburrica",
+                  "text": "Gelegen in Seixal, fasziniert dieser portugiesische Flussstrand durch seine historischen Windmühlen und den tollen Blick auf die Küste. Die Atmosphäre ist ruhig und lädt dazu ein, die reiche Kultur am Wasser zu genießen. Hier können Besucher gemütliche Spaziergänge unternehmen oder einfach die Aussicht bewundern. Am besten eignet sich ein Besuch am späten Nachmittag, um die entspannte Stimmung aufzunehmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084343,
+                        38.6559
+                  ]
+            },
+            {
+                  "name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico",
+                  "text": "Ein geschütztes Naturgebiet in Seixal, das ein Zusammenspiel von Umwelt- und Industrieerbe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.087398,
+                        38.659031
+                  ]
+            },
+            {
+                  "name": "Animateatro",
+                  "text": "Ein Gemeinschaftstheater in Seixal, das den darstellenden Künsten und Workshops gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.117544,
+                        38.625002
+                  ]
+            },
+            {
+                  "name": "Tipografia Popular",
+                  "text": "Ein Museum in Seixal, das die Geschichte und Werkzeuge des traditionellen Buchdrucks zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.103667,
+                        38.643616
+                  ]
+            },
+            {
+                  "name": "Sala de Espetáculos do Fórum Cultural do Seixal",
+                  "text": "Ein Veranstaltungssaal im Kulturforum von Seixal, der für Konzerte und Theater genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.102721,
+                        38.63885
+                  ]
+            },
+            {
+                  "name": "Praia do Seixal",
+                  "text": "Direkt am Ästuar des Tajo-Flusses in Seixal erwartet Sie dieser einladende portugiesische Strand. Es herrscht eine gelassene Stimmung, die sowohl Einheimische als auch Gäste schätzen. Das ruhige Gewässer bietet eine schöne Kulisse für entspannte Stunden am Flussufer. Ein Ausflug an warmen Sommertagen lohnt sich besonders, um das herrliche Panorama zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.105287,
+                        38.644038
+                  ]
+            },
+            {
+                  "name": "Auditório da Junta de Freguesia da Amora",
+                  "text": "Ein lokales Auditorium in Seixal, das für Gemeindeveranstaltungen und kulturelle Aktivitäten genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.118241,
+                        38.627814
+                  ]
+            },
+            {
+                  "name": "Praia do Mexilhoeiro",
+                  "text": "Umgeben von einer malerischen Naturlandschaft, präsentiert sich dieser Flussstrand in Seixal von seiner besten Seite. Die ruhige Umgebung schafft eine entspannte Atmosphäre, ideal um dem Alltag zu entfliehen. Spaziergänger und Naturliebhaber kommen hier voll auf ihre Kosten und können das Panorama auf sich wirken lassen. Für einen ruhigen Rückzugsort in Portugal empfiehlt sich ein Besuch in den frühen Morgenstunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.090507,
+                        38.656276
+                  ]
+            },
+            {
+                  "name": "Moinho do Cabo",
+                  "text": "Eine archäologische Stätte in Seixal mit den Ruinen einer historischen Mühle.",
+                  "category": "historical",
+                  "coords": [
+                        -9.08318,
+                        38.656802
+                  ]
+            },
+            {
+                  "name": "Oficina do Núcleo Naval do  Ecomuseu do Seixal",
+                  "text": "Ein Museum in Seixal, das das lokale Marine- und Schiffbauerbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105151,
+                        38.629548
+                  ]
+            },
+            {
+                  "name": "Moinho Grande",
+                  "text": "Eine historische archäologische Stätte einer Mühle in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.083738,
+                        38.657945
+                  ]
+            },
+            {
+                  "name": "Cinema São Vicente",
+                  "text": "Ein lokales Theater und Kino in Seixal.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.084994,
+                        38.625278
+                  ]
+            },
+            {
+                  "name": "Oficina de Artes Manuel Cargaleiro",
+                  "text": "Ein Kunstmuseum in Seixal, das den Werken von Manuel Cargaleiro gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105204,
+                        38.632593
+                  ]
+            },
+            {
+                  "name": "Praia dos Barcos",
+                  "text": "Dieser pittoreske Strandabschnitt in Seixal fängt die maritime Schönheit Portugals auf besondere Weise ein. Die beschauliche Atmosphäre zieht Ruhesuchende an, die das sanfte Plätschern des Wassers schätzen. Ob für entspannte Spaziergänge oder einfach zum Verweilen am Ufer, der Ort bietet idyllische Momente. Ein Ausflug bei Sonnenuntergang verleiht dem Besuch eine besonders romantische Note.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.097319,
+                        38.647286
+                  ]
+            },
+            {
+                  "name": "Ecomuseu Municipal do Seixal - Núcleo da Mundet",
+                  "text": "Ein Museum in Seixal, das sich auf die Industriegeschichte der Mundet-Fabrik konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105443,
+                        38.642192
+                  ]
+            },
+            {
+                  "name": "Moinho de Maré",
+                  "text": "Eine archäologische Stätte einer traditionellen Gezeitenmühle in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.089905,
+                        38.659438
+                  ]
+            },
+            {
+                  "name": "Praia do Clube Naval",
+                  "text": "In unmittelbarer Nähe des Marineclubs von Seixal erstreckt sich dieser lokale portugiesische Strand. Das maritime Flair sorgt für eine lebhafte und zugleich freundliche Stimmung am Wasser. Besucher können hier das Treiben der Boote beobachten oder einen entspannten Tag an der Küste verbringen. Es lohnt sich, etwas Zeit mitzubringen, um die einzigartige maritime Atmosphäre vollständig zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.092053,
+                        38.658842
+                  ]
+            },
+            {
+                  "name": "Moinho Poente",
+                  "text": "Eine traditionelle Windmühle in Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.082695,
+                        38.655325
+                  ]
+            },
+            {
+                  "name": "Moinho Pequeno",
+                  "text": "Die Ruinen einer kleinen historischen Mühle in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.082934,
+                        38.66015
+                  ]
+            },
+            {
+                  "name": "Moinho Velho dos Paulistas",
+                  "text": "Die Ruinen einer alten Mühle namens Moinho Velho dos Paulistas in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085295,
+                        38.641983
+                  ]
+            },
+            {
+                  "name": "Moinho Novo dos Paulistas",
+                  "text": "Die Ruinen eines Mühlengebäudes in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085582,
+                        38.640796
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Arrentela",
+                  "text": "Die historische Pfarrkirche des Stadtteils Arrentela in Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.103441,
+                        38.625939
+                  ]
+            },
+            {
+                  "name": "Quinta da Trindade",
+                  "text": "Ein historisches Herrenhaus und Anwesen in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.09298,
+                        38.644331
+                  ]
+            },
+            {
+                  "name": "Parque Catarina Eufémia",
+                  "text": "Ein öffentlicher Park in Seixal, benannt zu Ehren von Catarina Eufémia.",
+                  "category": "park",
+                  "coords": [
+                        -9.07935,
+                        38.660995
+                  ]
+            },
+            {
+                  "name": "Miradouro do Seixal",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Stadt Seixal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.095579,
+                        38.643636
+                  ]
+            },
+            {
+                  "name": "Miradouro do Alto Dona Ana",
+                  "text": "Ein Aussichtspunkt im Stadtteil Alto Dona Ana in Seixal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.102765,
+                        38.643007
+                  ]
+            },
+            {
+                  "name": "Coreto da Amora",
+                  "text": "Ein traditioneller Pavillon und eine lokale Sehenswürdigkeit in Amora, Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.112203,
+                        38.628079
+                  ]
+            },
+            {
+                  "name": "Escadas para o Rio Judeu",
+                  "text": "Ein Aussichtspunkt in Seixal mit Treppen, die zum Rio Judeu führen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.111067,
+                        38.627602
+                  ]
+            },
+            {
+                  "name": "Antiga Fábrica de Cortiça da Mundet",
+                  "text": "Die Ruinen der ehemaligen Korkfabrik Mundet in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.103383,
+                        38.640479
+                  ]
+            },
+            {
+                  "name": "Moinho do Jim",
+                  "text": "Eine traditionelle Windmühle namens Moinho do Jim in Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.08363,
+                        38.663253
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Piedade",
+                  "text": "Eine religiöse Kapelle in Seixal, die Unserer Lieben Frau von der Frömmigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -9.116039,
+                        38.630582
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal do Seixal",
+                  "text": "Das Rathausgebäude der Gemeinde Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.101444,
+                        38.636805
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário",
+                  "text": "Eine Kirche in Seixal, die Unserer Lieben Frau vom Rosenkranz gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -9.083264,
+                        38.662004
+                  ]
+            },
+            {
+                  "name": "Moinho do Breyner",
+                  "text": "Eine historische Gezeitenmühle in Seixal, die als lokales Erbe anerkannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.086892,
+                        38.637465
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "Die ETAR da Mutela ist ein Gewässer in Seixal, das die lokale Landschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Caldeira de Moinho de Maré",
+                  "text": "Die Caldeira de Moinho de Maré ist ein ruhiger See in Seixal, ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        -9.065585,
+                        38.646871
+                  ]
+            },
+            {
+                  "name": "Caldeira do Moinho de Maré",
+                  "text": "Der See Caldeira do Moinho de Maré lädt in Seixal zum Verweilen und Naturgenießen ein.",
+                  "category": "natural",
+                  "coords": [
+                        -9.031736,
+                        38.655778
+                  ]
+            },
+            {
+                  "name": "Tanque de refrigeração",
+                  "text": "Das Tanque de refrigeração ist ein künstliches Gewässer in Seixal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.164274,
+                        38.619485
+                  ]
+            },
+            {
+                  "name": "Lago da Vida",
+                  "text": "Der Lago da Vida ist ein malerischer See in Seixal mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        -9.144886,
+                        38.577184
+                  ]
+            },
+            {
+                  "name": "Parque Intantil da Quinta do Serrado",
+                  "text": "Der Parque Intantil da Quinta do Serrado ist ein beliebter Kinderspielplatz in Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.12024,
+                        38.629696
+                  ]
+            },
+            {
+                  "name": "Parque da Quinta de Santa Teresinha",
+                  "text": "Der Parque da Quinta de Santa Teresinha ist ein familienfreundlicher Ort in Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.100194,
+                        38.638345
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Seixeira",
+                  "text": "Der Parque Infantil da Seixeira bietet Abwechslung für Kinder in Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.082193,
+                        38.621156
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Quinta do Mirante",
+                  "text": "Im Parque Infantil Quinta do Mirante können Familien in Seixal gemeinsam Zeit verbringen.",
+                  "category": "family",
+                  "coords": [
+                        -9.083427,
+                        38.625774
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Torre da Marinha",
+                  "text": "Der Parque Infantil Torre da Marinha ist ein Spielplatz im Stadtgebiet von Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.103343,
+                        38.61815
+                  ]
+            },
+            {
+                  "name": "Piscinas da Amora",
+                  "text": "Diese Schwimmbäder in Seixal sind ein großartiger Ort für die Wassererholung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        -9.119146,
+                        38.625029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Fluvial de Alburrica",
+                  "text": "A Seixalban található portugál folyóparti strand történelmi szélmalmaival és a partvidékre nyíló remek kilátásával varázsolja el a látogatókat. Hangulata békés, amely szinte hívogat a víz melletti gazdag kultúra felfedezésére. A vendégek itt kényelmes sétákat tehetnek, vagy egyszerűen csak gyönyörködhetnek a tájban. Legjobb késő délután érkezni, amikor a leginkább élvezhető a nyugodt atmoszféra.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084343,
+                        38.6559
+                  ]
+            },
+            {
+                  "name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico",
+                  "text": "Természetvédelmi terület Seixalban, amely a környezeti és ipari örökséget ötvözi.",
+                  "category": "natural",
+                  "coords": [
+                        -9.087398,
+                        38.659031
+                  ]
+            },
+            {
+                  "name": "Animateatro",
+                  "text": "Közösségi színház Seixalban, amely előadóművészettel és workshopokkal foglalkozik.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.117544,
+                        38.625002
+                  ]
+            },
+            {
+                  "name": "Tipografia Popular",
+                  "text": "Seixali múzeum, amely a hagyományos nyomdászat történetét és eszközeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.103667,
+                        38.643616
+                  ]
+            },
+            {
+                  "name": "Sala de Espetáculos do Fórum Cultural do Seixal",
+                  "text": "Seixal kulturális fórumának előadóterme, amelyet koncertekre és színházi előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.102721,
+                        38.63885
+                  ]
+            },
+            {
+                  "name": "Praia do Seixal",
+                  "text": "Közvetlenül a Tajo folyó torkolatánál, Seixalban várja Önt ez a hívogató portugál partszakasz. Kiegyensúlyozott hangulat uralkodik itt, amelyet a helyiek és a vendégek egyaránt értékelnek. A nyugodt vízfelület gyönyörű hátteret biztosít a folyóparti pihenéshez. Különösen a meleg nyári napokon érdemes ide ellátogatni, hogy élvezze a csodás panorámát.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.105287,
+                        38.644038
+                  ]
+            },
+            {
+                  "name": "Auditório da Junta de Freguesia da Amora",
+                  "text": "Seixali auditórium, amelyet közösségi eseményekre és kulturális tevékenységekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.118241,
+                        38.627814
+                  ]
+            },
+            {
+                  "name": "Praia do Mexilhoeiro",
+                  "text": "A festői természeti tájjal körülölelt folyami strand Seixalban a legjobb formáját mutatja. A csendes környezet pihentető légkört teremt, amely ideális a mindennapok elől való menekülésre. A sétálók és a természet szerelmesei itt igazán elemükben érezhetik magukat, miközben a panorámában gyönyörködnek. Egy nyugodt portugáliai menedékhelyhez a kora reggeli órákban érdemes ellátogatni ide.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.090507,
+                        38.656276
+                  ]
+            },
+            {
+                  "name": "Moinho do Cabo",
+                  "text": "Régészeti lelőhely Seixalban, ahol egy történelmi malom romjai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        -9.08318,
+                        38.656802
+                  ]
+            },
+            {
+                  "name": "Oficina do Núcleo Naval do  Ecomuseu do Seixal",
+                  "text": "Tengerészeti múzeum Seixalban, amely a helyi hajóépítési örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105151,
+                        38.629548
+                  ]
+            },
+            {
+                  "name": "Moinho Grande",
+                  "text": "Egy történelmi malom régészeti lelőhelye Seixalban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.083738,
+                        38.657945
+                  ]
+            },
+            {
+                  "name": "Cinema São Vicente",
+                  "text": "Helyi színház és mozi Seixalban.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.084994,
+                        38.625278
+                  ]
+            },
+            {
+                  "name": "Oficina de Artes Manuel Cargaleiro",
+                  "text": "Manuel Cargaleiro munkásságának szentelt művészeti múzeum Seixalban.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105204,
+                        38.632593
+                  ]
+            },
+            {
+                  "name": "Praia dos Barcos",
+                  "text": "Ez a festői partszakasz Seixalban különleges módon ragadja meg Portugália tengeri szépségét. A békés atmoszféra vonzza a nyugalmat keresőket, akik értékelik a víz lágy csobogását. Akár egy pihentető sétára, akár csak a parton való időtöltésre vágyik, a hely idilli pillanatokat kínál. Naplementekor a látogatás különösen romantikus hangulatot áraszt.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.097319,
+                        38.647286
+                  ]
+            },
+            {
+                  "name": "Ecomuseu Municipal do Seixal - Núcleo da Mundet",
+                  "text": "Seixali múzeum, amely a Mundet gyár ipari történetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105443,
+                        38.642192
+                  ]
+            },
+            {
+                  "name": "Moinho de Maré",
+                  "text": "Egy hagyományos árapály-malom régészeti lelőhelye Seixalban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.089905,
+                        38.659438
+                  ]
+            },
+            {
+                  "name": "Praia do Clube Naval",
+                  "text": "Seixal tengerészeti klubjának közvetlen közelében terül el ez a helyi portugál strand. A tengeri hangulat élénk, ugyanakkor barátságos légkört teremt a vízparton. A látogatók itt megfigyelhetik a csónakok jövés-menését, vagy eltölthetnek egy pihentető napot a parton. Érdemes elegendő időt szánni a különleges tengeri atmoszféra teljes élvezetére.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.092053,
+                        38.658842
+                  ]
+            },
+            {
+                  "name": "Moinho Poente",
+                  "text": "Hagyományos szélmalom Seixalban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.082695,
+                        38.655325
+                  ]
+            },
+            {
+                  "name": "Moinho Pequeno",
+                  "text": "Egy kis történelmi malom romjai Seixalban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.082934,
+                        38.66015
+                  ]
+            },
+            {
+                  "name": "Moinho Velho dos Paulistas",
+                  "text": "Egy Moinho Velho dos Paulistas néven ismert régi malom romjai Seixalban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085295,
+                        38.641983
+                  ]
+            },
+            {
+                  "name": "Moinho Novo dos Paulistas",
+                  "text": "Egy malomépület romjai Seixalban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085582,
+                        38.640796
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Arrentela",
+                  "text": "Seixal Arrentela negyedének történelmi plébániatemploma.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.103441,
+                        38.625939
+                  ]
+            },
+            {
+                  "name": "Quinta da Trindade",
+                  "text": "Történelmi udvarház és birtok Seixalban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.09298,
+                        38.644331
+                  ]
+            },
+            {
+                  "name": "Parque Catarina Eufémia",
+                  "text": "Catarina Eufémia tiszteletére elnevezett nyilvános park Seixalban.",
+                  "category": "park",
+                  "coords": [
+                        -9.07935,
+                        38.660995
+                  ]
+            },
+            {
+                  "name": "Miradouro do Seixal",
+                  "text": "Kilátó, amely panorámás kilátást nyújt Seixal városára.",
+                  "category": "natural",
+                  "coords": [
+                        -9.095579,
+                        38.643636
+                  ]
+            },
+            {
+                  "name": "Miradouro do Alto Dona Ana",
+                  "text": "Kilátó Seixal Alto Dona Ana negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        -9.102765,
+                        38.643007
+                  ]
+            },
+            {
+                  "name": "Coreto da Amora",
+                  "text": "Hagyományos zenepavilon és helyi látványosság Seixal Amora negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.112203,
+                        38.628079
+                  ]
+            },
+            {
+                  "name": "Escadas para o Rio Judeu",
+                  "text": "Kilátó Seixalban, amelynek lépcsői a Rio Judeu felé vezetnek.",
+                  "category": "natural",
+                  "coords": [
+                        -9.111067,
+                        38.627602
+                  ]
+            },
+            {
+                  "name": "Antiga Fábrica de Cortiça da Mundet",
+                  "text": "Az egykori Mundet parafagyár romjai Seixalban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.103383,
+                        38.640479
+                  ]
+            },
+            {
+                  "name": "Moinho do Jim",
+                  "text": "Hagyományos szélmalom, az úgynevezett Moinho do Jim Seixalban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.08363,
+                        38.663253
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Piedade",
+                  "text": "Szűz Mária kegyelmének szentelt vallási kápolna Seixalban.",
+                  "category": "religious",
+                  "coords": [
+                        -9.116039,
+                        38.630582
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal do Seixal",
+                  "text": "Seixal község városháza épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -9.101444,
+                        38.636805
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário",
+                  "text": "Rózsafüzér Királynője tiszteletére szentelt templom Seixalban.",
+                  "category": "religious",
+                  "coords": [
+                        -9.083264,
+                        38.662004
+                  ]
+            },
+            {
+                  "name": "Moinho do Breyner",
+                  "text": "Történelmi árapály-malom Seixalban, amelyet helyi örökségként ismernek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.086892,
+                        38.637465
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "Az ETAR da Mutela egy vízfelület Seixalban, amely gazdagítja a helyi tájat.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Caldeira de Moinho de Maré",
+                  "text": "A Caldeira de Moinho de Maré egy nyugodt tó Seixalban, amely ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.065585,
+                        38.646871
+                  ]
+            },
+            {
+                  "name": "Caldeira do Moinho de Maré",
+                  "text": "A Caldeira do Moinho de Maré tó Seixalban pihenésre és a természet élvezetére hív.",
+                  "category": "natural",
+                  "coords": [
+                        -9.031736,
+                        38.655778
+                  ]
+            },
+            {
+                  "name": "Tanque de refrigeração",
+                  "text": "A Tanque de refrigeração egy mesterséges vízfelület Seixalban.",
+                  "category": "natural",
+                  "coords": [
+                        -9.164274,
+                        38.619485
+                  ]
+            },
+            {
+                  "name": "Lago da Vida",
+                  "text": "A Lago da Vida egy festői tó Seixalban, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -9.144886,
+                        38.577184
+                  ]
+            },
+            {
+                  "name": "Parque Intantil da Quinta do Serrado",
+                  "text": "A Parque Intantil da Quinta do Serrado egy népszerű játszótér Seixalban.",
+                  "category": "family",
+                  "coords": [
+                        -9.12024,
+                        38.629696
+                  ]
+            },
+            {
+                  "name": "Parque da Quinta de Santa Teresinha",
+                  "text": "A Parque da Quinta de Santa Teresinha egy családbarát hely Seixalban.",
+                  "category": "family",
+                  "coords": [
+                        -9.100194,
+                        38.638345
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Seixeira",
+                  "text": "A Parque Infantil da Seixeira kikapcsolódást nyújt a gyerekeknek Seixalban.",
+                  "category": "family",
+                  "coords": [
+                        -9.082193,
+                        38.621156
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Quinta do Mirante",
+                  "text": "A Parque Infantil Quinta do Mirante területén a családok együtt tölthetik az időt Seixalban.",
+                  "category": "family",
+                  "coords": [
+                        -9.083427,
+                        38.625774
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Torre da Marinha",
+                  "text": "A Parque Infantil Torre da Marinha egy játszótér Seixal városi területén.",
+                  "category": "family",
+                  "coords": [
+                        -9.103343,
+                        38.61815
+                  ]
+            },
+            {
+                  "name": "Piscinas da Amora",
+                  "text": "Ezek a seixali úszómedencék nagyszerű helyszínt biztosítanak a családi vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.119146,
+                        38.625029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Fluvial de Alburrica",
+                  "text": "Situată în Seixal, această plajă fluvială portugheză captivează prin morile sale de vânt istorice și priveliștea minunată asupra coastei. Atmosfera este liniștită, invitând oaspeții să se bucure de cultura bogată de pe malul apei. Vizitatorii pot face plimbări plăcute sau pur și simplu pot admira peisajul. Cel mai bine este să ajungeți după-amiaza târziu pentru a savura starea de relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084343,
+                        38.6559
+                  ]
+            },
+            {
+                  "name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico",
+                  "text": "O arie naturală protejată din Seixal, care îmbină patrimoniul ecologic și cel industrial.",
+                  "category": "natural",
+                  "coords": [
+                        -9.087398,
+                        38.659031
+                  ]
+            },
+            {
+                  "name": "Animateatro",
+                  "text": "Un teatru comunitar din Seixal dedicat artelor spectacolului și atelierelor de creație.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.117544,
+                        38.625002
+                  ]
+            },
+            {
+                  "name": "Tipografia Popular",
+                  "text": "Un muzeu din Seixal care prezintă istoria și instrumentele tipografiei tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        -9.103667,
+                        38.643616
+                  ]
+            },
+            {
+                  "name": "Sala de Espetáculos do Fórum Cultural do Seixal",
+                  "text": "O sală de spectacole în cadrul forumului cultural din Seixal, utilizată pentru concerte și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.102721,
+                        38.63885
+                  ]
+            },
+            {
+                  "name": "Praia do Seixal",
+                  "text": "Chiar pe estuarul râului Tajo, în Seixal, vă așteaptă această plajă portugheză primitoare. Aici domină o atmosferă senină, apreciată deopotrivă de localnici și de turiști. Apa liniștită oferă un fundal frumos pentru ore de relaxare pe malul râului. O excursie în zilele calde de vară merită cu siguranță pentru a vă bucura de panorama minunată.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.105287,
+                        38.644038
+                  ]
+            },
+            {
+                  "name": "Auditório da Junta de Freguesia da Amora",
+                  "text": "Un auditoriu local din Seixal utilizat pentru evenimente comunitare și activități culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.118241,
+                        38.627814
+                  ]
+            },
+            {
+                  "name": "Praia do Mexilhoeiro",
+                  "text": "Înconjurată de un peisaj natural pitoresc, această plajă fluvială din Seixal se prezintă în cea mai bună formă a sa. Mediul liniștit creează o atmosferă relaxantă, ideală pentru a evada din cotidian. Plimbăreții și iubitorii de natură se pot bucura pe deplin de priveliștea minunată. Pentru un refugiu portughez pașnic, se recomandă o vizită la primele ore ale dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.090507,
+                        38.656276
+                  ]
+            },
+            {
+                  "name": "Moinho do Cabo",
+                  "text": "Un sit arheologic din Seixal care prezintă ruinele unei mori istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -9.08318,
+                        38.656802
+                  ]
+            },
+            {
+                  "name": "Oficina do Núcleo Naval do  Ecomuseu do Seixal",
+                  "text": "Un muzeu din Seixal care prezintă patrimoniul naval și construcțiile navale locale.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105151,
+                        38.629548
+                  ]
+            },
+            {
+                  "name": "Moinho Grande",
+                  "text": "Un sit arheologic istoric al unei mori situat în Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.083738,
+                        38.657945
+                  ]
+            },
+            {
+                  "name": "Cinema São Vicente",
+                  "text": "Un teatru și cinematograf local din Seixal.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.084994,
+                        38.625278
+                  ]
+            },
+            {
+                  "name": "Oficina de Artes Manuel Cargaleiro",
+                  "text": "Un muzeu de artă din Seixal dedicat operelor lui Manuel Cargaleiro.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105204,
+                        38.632593
+                  ]
+            },
+            {
+                  "name": "Praia dos Barcos",
+                  "text": "Această porțiune pitorească de plajă din Seixal surprinde frumusețea maritimă a Portugaliei într-un mod deosebit. Atmosfera contemplativă îi atrage pe cei care caută liniște și apreciază clipocitul blând al apei. Fie pentru plimbări relaxante, fie pur și simplu pentru a zăbovi pe țărm, locul oferă momente idilice. O vizită la apusul soarelui conferă excursiei o notă deosebit de romantică.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.097319,
+                        38.647286
+                  ]
+            },
+            {
+                  "name": "Ecomuseu Municipal do Seixal - Núcleo da Mundet",
+                  "text": "Un muzeu din Seixal axat pe istoria industrială a fabricii Mundet.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105443,
+                        38.642192
+                  ]
+            },
+            {
+                  "name": "Moinho de Maré",
+                  "text": "Un sit arheologic al unei mori de maree tradiționale din Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.089905,
+                        38.659438
+                  ]
+            },
+            {
+                  "name": "Praia do Clube Naval",
+                  "text": "În imediata apropiere a clubului naval din Seixal se întinde această plajă portugheză locală. Aerul maritim creează o atmosferă plină de viață și, în același timp, prietenoasă la malul apei. Vizitatorii pot urmări forfota bărcilor sau pot petrece o zi relaxantă pe coastă. Merită să vă alocați timp suficient pentru a savura pe deplin ambianța maritimă unică.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.092053,
+                        38.658842
+                  ]
+            },
+            {
+                  "name": "Moinho Poente",
+                  "text": "O moară de vânt tradițională situată în Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.082695,
+                        38.655325
+                  ]
+            },
+            {
+                  "name": "Moinho Pequeno",
+                  "text": "Ruinele unei mici mori istorice din Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.082934,
+                        38.66015
+                  ]
+            },
+            {
+                  "name": "Moinho Velho dos Paulistas",
+                  "text": "Ruinele unei mori vechi cunoscute sub numele de Moinho Velho dos Paulistas din Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085295,
+                        38.641983
+                  ]
+            },
+            {
+                  "name": "Moinho Novo dos Paulistas",
+                  "text": "Ruinele unei clădiri de moară din Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085582,
+                        38.640796
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Arrentela",
+                  "text": "Biserica parohială istorică ce deservește zona Arrentela din Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.103441,
+                        38.625939
+                  ]
+            },
+            {
+                  "name": "Quinta da Trindade",
+                  "text": "Un conac și o proprietate istorică situată în Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.09298,
+                        38.644331
+                  ]
+            },
+            {
+                  "name": "Parque Catarina Eufémia",
+                  "text": "Un parc public din Seixal numit în onoarea Catarinei Eufémia.",
+                  "category": "park",
+                  "coords": [
+                        -9.07935,
+                        38.660995
+                  ]
+            },
+            {
+                  "name": "Miradouro do Seixal",
+                  "text": "Un punct de belvedere care oferă vedere panoramică asupra orașului Seixal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.095579,
+                        38.643636
+                  ]
+            },
+            {
+                  "name": "Miradouro do Alto Dona Ana",
+                  "text": "Un punct de belvedere pitoresc situat în districtul Alto Dona Ana din Seixal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.102765,
+                        38.643007
+                  ]
+            },
+            {
+                  "name": "Coreto da Amora",
+                  "text": "Un foișor tradițional și o atracție locală în Amora, Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.112203,
+                        38.628079
+                  ]
+            },
+            {
+                  "name": "Escadas para o Rio Judeu",
+                  "text": "Un punct de belvedere din Seixal cu scări care duc spre Rio Judeu.",
+                  "category": "natural",
+                  "coords": [
+                        -9.111067,
+                        38.627602
+                  ]
+            },
+            {
+                  "name": "Antiga Fábrica de Cortiça da Mundet",
+                  "text": "Ruinele fostei fabrici de plută Mundet din Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.103383,
+                        38.640479
+                  ]
+            },
+            {
+                  "name": "Moinho do Jim",
+                  "text": "O moară de vânt tradițională cunoscută sub numele de Moinho do Jim în Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.08363,
+                        38.663253
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Piedade",
+                  "text": "O chapelă religioasă dedicată Maicii Domnului a Pietății din Seixal.",
+                  "category": "religious",
+                  "coords": [
+                        -9.116039,
+                        38.630582
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal do Seixal",
+                  "text": "Clădirea primăriei locale pentru municipiul Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.101444,
+                        38.636805
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário",
+                  "text": "O biserică din Seixal dedicată Maicii Domnului a Rozariului.",
+                  "category": "religious",
+                  "coords": [
+                        -9.083264,
+                        38.662004
+                  ]
+            },
+            {
+                  "name": "Moinho do Breyner",
+                  "text": "O moară de maree istorică din Seixal, recunoscută ca patrimoniu local.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.086892,
+                        38.637465
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "ETAR da Mutela este o zonă cu apă în Seixal, care îmbogățește peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Caldeira de Moinho de Maré",
+                  "text": "Caldeira de Moinho de Maré este un lac liniștit în Seixal, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        -9.065585,
+                        38.646871
+                  ]
+            },
+            {
+                  "name": "Caldeira do Moinho de Maré",
+                  "text": "Lacul Caldeira do Moinho de Maré din Seixal invită la relaxare și la bucuria de a fi în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -9.031736,
+                        38.655778
+                  ]
+            },
+            {
+                  "name": "Tanque de refrigeração",
+                  "text": "Tanque de refrigeração este o zonă cu apă artificială în Seixal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.164274,
+                        38.619485
+                  ]
+            },
+            {
+                  "name": "Lago da Vida",
+                  "text": "Lago da Vida este un lac pitoresc în Seixal, cu o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        -9.144886,
+                        38.577184
+                  ]
+            },
+            {
+                  "name": "Parque Intantil da Quinta do Serrado",
+                  "text": "Parque Intantil da Quinta do Serrado este un teren de joacă popular pentru copii în Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.12024,
+                        38.629696
+                  ]
+            },
+            {
+                  "name": "Parque da Quinta de Santa Teresinha",
+                  "text": "Parque da Quinta de Santa Teresinha este un loc prietenos pentru familii în Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.100194,
+                        38.638345
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Seixeira",
+                  "text": "Parque Infantil da Seixeira oferă divertisment pentru copii în Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.082193,
+                        38.621156
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Quinta do Mirante",
+                  "text": "În Parque Infantil Quinta do Mirante, familiile pot petrece timp împreună în Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.083427,
+                        38.625774
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Torre da Marinha",
+                  "text": "Parque Infantil Torre da Marinha este un loc de joacă în zona urbană a Seixalului.",
+                  "category": "family",
+                  "coords": [
+                        -9.103343,
+                        38.61815
+                  ]
+            },
+            {
+                  "name": "Piscinas da Amora",
+                  "text": "Aceste piscine din Seixal sunt o locație excelentă pentru recreerea acvatică în familie.",
+                  "category": "family",
+                  "coords": [
+                        -9.119146,
+                        38.625029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Fluvial de Alburrica",
+                  "text": "Located in Seixal, this Portuguese river beach captivates with its historical windmills and a great view of the coast. The atmosphere is peaceful, inviting guests to enjoy the rich waterfront culture. Visitors can take pleasant walks or simply admire the scenery. Arriving in the late afternoon is best to truly absorb the relaxed mood.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084343,
+                        38.6559
+                  ]
+            },
+            {
+                  "name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico",
+                  "text": "A protected natural area in Seixal featuring a mix of environmental and industrial heritage.",
+                  "category": "natural",
+                  "coords": [
+                        -9.087398,
+                        38.659031
+                  ]
+            },
+            {
+                  "name": "Animateatro",
+                  "text": "A community theatre in Seixal dedicated to performing arts and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.117544,
+                        38.625002
+                  ]
+            },
+            {
+                  "name": "Tipografia Popular",
+                  "text": "A museum in Seixal showcasing the history and tools of traditional printing.",
+                  "category": "museum",
+                  "coords": [
+                        -9.103667,
+                        38.643616
+                  ]
+            },
+            {
+                  "name": "Sala de Espetáculos do Fórum Cultural do Seixal",
+                  "text": "A performance hall within Seixal's cultural forum used for concerts and theater.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.102721,
+                        38.63885
+                  ]
+            },
+            {
+                  "name": "Praia do Seixal",
+                  "text": "Right on the estuary of the Tagus River in Seixal, this inviting Portuguese beach awaits. A serene mood prevails here, appreciated by both locals and guests alike. The calm waters provide a beautiful backdrop for relaxing hours on the riverbank. Visiting on warm summer days is highly recommended to fully enjoy the gorgeous panorama.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.105287,
+                        38.644038
+                  ]
+            },
+            {
+                  "name": "Auditório da Junta de Freguesia da Amora",
+                  "text": "A local auditorium in Seixal used for community events and cultural activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.118241,
+                        38.627814
+                  ]
+            },
+            {
+                  "name": "Praia do Mexilhoeiro",
+                  "text": "Surrounded by a picturesque natural landscape, this river beach in Seixal shows off its best side. The quiet environment creates a relaxing atmosphere, ideal for escaping everyday life. Walkers and nature lovers will thoroughly enjoy themselves while taking in the panorama. For a peaceful Portuguese retreat, an early morning visit is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.090507,
+                        38.656276
+                  ]
+            },
+            {
+                  "name": "Moinho do Cabo",
+                  "text": "An archaeological site in Seixal featuring the ruins of a historic mill.",
+                  "category": "historical",
+                  "coords": [
+                        -9.08318,
+                        38.656802
+                  ]
+            },
+            {
+                  "name": "Oficina do Núcleo Naval do  Ecomuseu do Seixal",
+                  "text": "A museum in Seixal showcasing the local naval and shipbuilding heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105151,
+                        38.629548
+                  ]
+            },
+            {
+                  "name": "Moinho Grande",
+                  "text": "A historic archaeological site of a mill located in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.083738,
+                        38.657945
+                  ]
+            },
+            {
+                  "name": "Cinema São Vicente",
+                  "text": "A local theatre and cinema venue in Seixal.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.084994,
+                        38.625278
+                  ]
+            },
+            {
+                  "name": "Oficina de Artes Manuel Cargaleiro",
+                  "text": "An art museum in Seixal dedicated to the works of Manuel Cargaleiro.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105204,
+                        38.632593
+                  ]
+            },
+            {
+                  "name": "Praia dos Barcos",
+                  "text": "This picturesque stretch of beach in Seixal captures the maritime beauty of Portugal in a special way. The contemplative atmosphere attracts peace-seekers who appreciate the gentle lapping of the water. Whether for relaxing walks or simply lingering on the shore, the location offers idyllic moments. Visiting at sunset gives the outing a particularly romantic touch.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.097319,
+                        38.647286
+                  ]
+            },
+            {
+                  "name": "Ecomuseu Municipal do Seixal - Núcleo da Mundet",
+                  "text": "A museum in Seixal focused on the industrial history of the Mundet factory.",
+                  "category": "museum",
+                  "coords": [
+                        -9.105443,
+                        38.642192
+                  ]
+            },
+            {
+                  "name": "Moinho de Maré",
+                  "text": "An archaeological site of a traditional tide mill in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.089905,
+                        38.659438
+                  ]
+            },
+            {
+                  "name": "Praia do Clube Naval",
+                  "text": "This local Portuguese beach stretches out in the immediate vicinity of the Seixal naval club. The maritime flair provides a lively yet friendly mood by the water. Visitors can watch the boats going about their business or spend a relaxing day on the coast. It is well worth bringing plenty of time to fully enjoy the unique maritime atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.092053,
+                        38.658842
+                  ]
+            },
+            {
+                  "name": "Moinho Poente",
+                  "text": "A traditional windmill structure located in Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.082695,
+                        38.655325
+                  ]
+            },
+            {
+                  "name": "Moinho Pequeno",
+                  "text": "The ruins of a small historic mill in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.082934,
+                        38.66015
+                  ]
+            },
+            {
+                  "name": "Moinho Velho dos Paulistas",
+                  "text": "The ruins of an old mill known as Moinho Velho dos Paulistas in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085295,
+                        38.641983
+                  ]
+            },
+            {
+                  "name": "Moinho Novo dos Paulistas",
+                  "text": "The ruins of a mill building in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.085582,
+                        38.640796
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Arrentela",
+                  "text": "The historic parish church serving the Arrentela area of Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.103441,
+                        38.625939
+                  ]
+            },
+            {
+                  "name": "Quinta da Trindade",
+                  "text": "A historic manor and estate located in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.09298,
+                        38.644331
+                  ]
+            },
+            {
+                  "name": "Parque Catarina Eufémia",
+                  "text": "A public park in Seixal named in honor of Catarina Eufémia.",
+                  "category": "park",
+                  "coords": [
+                        -9.07935,
+                        38.660995
+                  ]
+            },
+            {
+                  "name": "Miradouro do Seixal",
+                  "text": "A viewpoint providing panoramic views of the city of Seixal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.095579,
+                        38.643636
+                  ]
+            },
+            {
+                  "name": "Miradouro do Alto Dona Ana",
+                  "text": "A scenic viewpoint located in the Alto Dona Ana district of Seixal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.102765,
+                        38.643007
+                  ]
+            },
+            {
+                  "name": "Coreto da Amora",
+                  "text": "A traditional bandstand and local attraction in Amora, Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.112203,
+                        38.628079
+                  ]
+            },
+            {
+                  "name": "Escadas para o Rio Judeu",
+                  "text": "A viewpoint in Seixal featuring stairs that lead towards the Rio Judeu.",
+                  "category": "natural",
+                  "coords": [
+                        -9.111067,
+                        38.627602
+                  ]
+            },
+            {
+                  "name": "Antiga Fábrica de Cortiça da Mundet",
+                  "text": "The ruins of the former Mundet cork factory in Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.103383,
+                        38.640479
+                  ]
+            },
+            {
+                  "name": "Moinho do Jim",
+                  "text": "A traditional windmill known as Moinho do Jim in Seixal.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.08363,
+                        38.663253
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Piedade",
+                  "text": "A religious chapel dedicated to Our Lady of Piety in Seixal.",
+                  "category": "religious",
+                  "coords": [
+                        -9.116039,
+                        38.630582
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal do Seixal",
+                  "text": "The local town hall building for the municipality of Seixal.",
+                  "category": "historical",
+                  "coords": [
+                        -9.101444,
+                        38.636805
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Rosário",
+                  "text": "A church in Seixal dedicated to Our Lady of the Rosary.",
+                  "category": "religious",
+                  "coords": [
+                        -9.083264,
+                        38.662004
+                  ]
+            },
+            {
+                  "name": "Moinho do Breyner",
+                  "text": "A historic tide mill in Seixal, recognized as local heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.086892,
+                        38.637465
+                  ]
+            },
+            {
+                  "name": "ETAR da Mutela",
+                  "text": "ETAR da Mutela is a water body in Seixal that enhances the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -9.152314,
+                        38.672799
+                  ]
+            },
+            {
+                  "name": "Caldeira de Moinho de Maré",
+                  "text": "Caldeira de Moinho de Maré is a calm lake in Seixal, ideal for walks.",
+                  "category": "natural",
+                  "coords": [
+                        -9.065585,
+                        38.646871
+                  ]
+            },
+            {
+                  "name": "Caldeira do Moinho de Maré",
+                  "text": "The lake Caldeira do Moinho de Maré in Seixal invites visitors to relax and enjoy nature.",
+                  "category": "natural",
+                  "coords": [
+                        -9.031736,
+                        38.655778
+                  ]
+            },
+            {
+                  "name": "Tanque de refrigeração",
+                  "text": "Tanque de refrigeração is an artificial water body in Seixal.",
+                  "category": "natural",
+                  "coords": [
+                        -9.164274,
+                        38.619485
+                  ]
+            },
+            {
+                  "name": "Lago da Vida",
+                  "text": "Lago da Vida is a picturesque lake in Seixal with a beautiful view.",
+                  "category": "natural",
+                  "coords": [
+                        -9.144886,
+                        38.577184
+                  ]
+            },
+            {
+                  "name": "Parque Intantil da Quinta do Serrado",
+                  "text": "Parque Intantil da Quinta do Serrado is a popular children's playground in Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.12024,
+                        38.629696
+                  ]
+            },
+            {
+                  "name": "Parque da Quinta de Santa Teresinha",
+                  "text": "Parque da Quinta de Santa Teresinha is a family-friendly place in Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.100194,
+                        38.638345
+                  ]
+            },
+            {
+                  "name": "Parque Infantil da Seixeira",
+                  "text": "Parque Infantil da Seixeira offers variety for children in Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.082193,
+                        38.621156
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Quinta do Mirante",
+                  "text": "In Parque Infantil Quinta do Mirante, families can spend time together in Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.083427,
+                        38.625774
+                  ]
+            },
+            {
+                  "name": "Parque Infantil Torre da Marinha",
+                  "text": "Parque Infantil Torre da Marinha is a playground in the urban area of Seixal.",
+                  "category": "family",
+                  "coords": [
+                        -9.103343,
+                        38.61815
+                  ]
+            },
+            {
+                  "name": "Piscinas da Amora",
+                  "text": "These swimming pools in Seixal are a great location for family water recreation.",
+                  "category": "family",
+                  "coords": [
+                        -9.119146,
+                        38.625029
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Seixal", hu: "Seixal", ro: "Seixal", en: "Seixal" },
@@ -3659,6 +10229,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.97617,
                         38.706667
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Montijo",
+                  "text": "Städtisches Schwimmbad in Montijo für Schwimmbegeisterte jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        -8.985782,
+                        38.709925
+                  ]
+            },
+            {
+                  "name": "XLand Fun Park Montijo",
+                  "text": "Freizeitpark in Montijo mit verschiedenen Spielbereichen für einen unterhaltsamen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        -8.932415,
+                        38.703822
+                  ]
             }
       ],
       "hu": [
@@ -3822,6 +10410,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.97617,
                         38.706667
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Montijo",
+                  "text": "Városi úszómedence Montijóban az úszás szerelmeseinek minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.985782,
+                        38.709925
+                  ]
+            },
+            {
+                  "name": "XLand Fun Park Montijo",
+                  "text": "Vidámpark Montijóban különféle játszóterekkel egy szórakoztató családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.932415,
+                        38.703822
                   ]
             }
       ],
@@ -3987,6 +10593,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.97617,
                         38.706667
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Montijo",
+                  "text": "Piscină municipală în Montijo pentru pasionații de înot de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        -8.985782,
+                        38.709925
+                  ]
+            },
+            {
+                  "name": "XLand Fun Park Montijo",
+                  "text": "Parc de distracții în Montijo cu diverse zone de joacă pentru o zi distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        -8.932415,
+                        38.703822
+                  ]
             }
       ],
       "en": [
@@ -4151,6 +10775,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.97617,
                         38.706667
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Montijo",
+                  "text": "Municipal swimming pool in Montijo for swimming enthusiasts of all ages.",
+                  "category": "family",
+                  "coords": [
+                        -8.985782,
+                        38.709925
+                  ]
+            },
+            {
+                  "name": "XLand Fun Park Montijo",
+                  "text": "Fun park in Montijo with various play areas for a fun family day out.",
+                  "category": "family",
+                  "coords": [
+                        -8.932415,
+                        38.703822
+                  ]
             }
       ]
 },
@@ -4198,7 +10840,592 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-montijo-cities-v2.webp",
   },
   {
-    id: "portugal-abrantes-cities-v2", "sights": {"de": [{"name": "Igreja de Santa Maria do Castelo", "text": "Eine Kirche innerhalb der Burgmauern, die in ein Museum umgewandelt wurde.", "category": "museum", "coords": [-8.195016, 39.464775]}, {"name": "Cine-Teatro de São Pedro", "text": "Ein traditionelles Theater und Kino in Abrantes.", "category": "cultural", "coords": [-8.198592, 39.463746]}, {"name": "Antas da Jogada", "text": "Eine archäologische Stätte mit prähistorischen Dolmen.", "category": "historical", "coords": [-8.20411, 39.4575]}, {"name": "Menir de Vale dos Chãos", "text": "Ein prähistorischer megalithischer Menhir.", "category": "historical", "coords": [-8.19515, 39.46747]}, {"name": "Outeiro de São Pedro", "text": "Eine historische Festung und ein strategischer Aussichtspunkt in Abrantes.", "category": "fortress", "coords": [-8.192795, 39.461847]}, {"name": "Fortim do Caneiro", "text": "Eine archäologische Ausgrabungsstätte in Abrantes.", "category": "historical", "coords": [-8.206021, 39.446517]}, {"name": "Praia Fluvial de Abrantes", "text": "Im Herzen von Abrantes lädt dieser charmante Flussstrand zu erholsamen Stunden am Wasser ein. Die Stimmung ist friedlich und macht den Ort zu einem beliebten Ziel für Familien und Naturliebhaber in Portugal. Hier erwarten Sie vielfältige Möglichkeiten, sich in der Natur zu entspannen und die ruhige Uferlandschaft zu genießen. Ein Besuch während der warmen Jahreszeit verspricht die besten Bedingungen für eine kleine Auszeit.", "category": "recreational", "coords": [-8.189292, 39.453552]}, {"name": "MIAA - Museu Ibérico de Arqueologia e Arte de Abrantes", "text": "Ein Museum in Abrantes, das der iberischen Archäologie und Kunst gewidmet ist.", "category": "museum", "coords": [-8.197517, 39.460599]}, {"name": "Mourões", "text": "Historische Ruinen in der Stadt Abrantes.", "category": "historical", "coords": [-8.191726, 39.449958]}, {"name": "Baloiço Abrantes", "text": "Eine Aussichtsschaukel in Abrantes.", "category": "landmark", "coords": [-8.195372, 39.463709]}, {"name": "EN 2 Km 400", "text": "Ein Markierungspunkt an der berühmten Nationalstraße EN2 in Abrantes.", "category": "landmark", "coords": [-8.1847, 39.484539]}, {"name": "Galeria Municipal", "text": "Die städtische Kunstgalerie mit wechselnden Ausstellungen in Abrantes.", "category": "cultural", "coords": [-8.200979, 39.464259]}, {"name": "Quinta de Coalhos", "text": "Ein traditionelles Herrenhaus und Anwesen in Abrantes.", "category": "historical", "coords": [-8.16982, 39.456588]}, {"name": "Igreja de São João Baptista", "text": "Ein dem heiligen Johannes dem Täufer geweihtes Kirchengebäude in Abrantes.", "category": "religious", "coords": [-8.196561, 39.462172]}, {"name": "Igreja de Alferrarede", "text": "Eine lokale Gebetsstätte im Stadtteil Alferrarede von Abrantes.", "category": "religious", "coords": [-8.190242, 39.479282]}], "hu": [{"name": "Igreja de Santa Maria do Castelo", "text": "A várfalakon belüli templom, amelyet múzeummá alakítottak át.", "category": "museum", "coords": [-8.195016, 39.464775]}, {"name": "Cine-Teatro de São Pedro", "text": "Hagyományos színház és mozi Abrantesben.", "category": "cultural", "coords": [-8.198592, 39.463746]}, {"name": "Antas da Jogada", "text": "Régészeti lelőhely őskori dolmenekkel.", "category": "historical", "coords": [-8.20411, 39.4575]}, {"name": "Menir de Vale dos Chãos", "text": "Őskori megalitikus állókő (menhir).", "category": "historical", "coords": [-8.19515, 39.46747]}, {"name": "Outeiro de São Pedro", "text": "Történelmi erőd és stratégiai kilátópont Abrantesben.", "category": "fortress", "coords": [-8.192795, 39.461847]}, {"name": "Fortim do Caneiro", "text": "Régészeti lelőhely Abrantes területén.", "category": "historical", "coords": [-8.206021, 39.446517]}, {"name": "Praia Fluvial de Abrantes", "text": "Abrantes szívében ez a bájos folyóparti strand pihentető órákra csábít a víz mellett. A békés hangulat miatt a hely a családok és a természetkedvelők kedvelt célpontja Portugáliában. Itt változatos lehetőségek várják, hogy a természetben lazítson és élvezze a csendes parti tájat. A meleg évszakban tett látogatás ígéri a legjobb feltételeket egy kis kikapcsolódáshoz.", "category": "recreational", "coords": [-8.189292, 39.453552]}, {"name": "MIAA - Museu Ibérico de Arqueologia e Arte de Abrantes", "text": "Az ibériai régészetet és művészetet bemutató múzeum Abrantesben.", "category": "museum", "coords": [-8.197517, 39.460599]}, {"name": "Mourões", "text": "Történelmi romok Abrantes városában.", "category": "historical", "coords": [-8.191726, 39.449958]}, {"name": "Baloiço Abrantes", "text": "Panorámás hinta Abrantes területén.", "category": "landmark", "coords": [-8.195372, 39.463709]}, {"name": "EN 2 Km 400", "text": "Egy nevezetes pont a híres EN2-es úton, Abrantes közelében.", "category": "landmark", "coords": [-8.1847, 39.484539]}, {"name": "Galeria Municipal", "text": "Abrantes városi művészeti galériája, amely kiállításoknak ad otthont.", "category": "cultural", "coords": [-8.200979, 39.464259]}, {"name": "Quinta de Coalhos", "text": "Hagyományos udvarház és birtok Abrantesben.", "category": "historical", "coords": [-8.16982, 39.456588]}, {"name": "Igreja de São João Baptista", "text": "Keresztelő Szent Jánosnak szentelt vallási épület Abrantesben.", "category": "religious", "coords": [-8.196561, 39.462172]}, {"name": "Igreja de Alferrarede", "text": "Helyi templom Abrantes Alferrarede városrészében.", "category": "religious", "coords": [-8.190242, 39.479282]}], "ro": [{"name": "Igreja de Santa Maria do Castelo", "text": "O biserică transformată în muzeu în interiorul zidurilor castelului.", "category": "museum", "coords": [-8.195016, 39.464775]}, {"name": "Cine-Teatro de São Pedro", "text": "Un teatru tradițional și cinematograf în Abrantes.", "category": "cultural", "coords": [-8.198592, 39.463746]}, {"name": "Antas da Jogada", "text": "Un sit arheologic care prezintă dolmene preistorice.", "category": "historical", "coords": [-8.20411, 39.4575]}, {"name": "Menir de Vale dos Chãos", "text": "Un menhir megalitic preistoric.", "category": "historical", "coords": [-8.19515, 39.46747]}, {"name": "Outeiro de São Pedro", "text": "Un fort istoric și punct de observare strategic în Abrantes.", "category": "fortress", "coords": [-8.192795, 39.461847]}, {"name": "Fortim do Caneiro", "text": "Un sit arheologic situat în Abrantes.", "category": "historical", "coords": [-8.206021, 39.446517]}, {"name": "Praia Fluvial de Abrantes", "text": "În inima orașului Abrantes, această plajă fluvială fermecătoare vă invită la ore de relaxare lângă apă. Atmosfera este pașnică, transformând locul într-o destinație populară pentru familiile și iubitorii de natură din Portugalia. Aici vă așteaptă o varietate de oportunități pentru a vă relaxa în natură și a vă bucura de peisajul liniștit al malului. O vizită în sezonul cald promite cele mai bune condiții pentru o mică pauză.", "category": "recreational", "coords": [-8.189292, 39.453552]}, {"name": "MIAA - Museu Ibérico de Arqueologia e Arte de Abrantes", "text": "Un muzeu din Abrantes dedicat arheologiei și artei iberice.", "category": "museum", "coords": [-8.197517, 39.460599]}, {"name": "Mourões", "text": "Ruine istorice situate în orașul Abrantes.", "category": "historical", "coords": [-8.191726, 39.449958]}, {"name": "Baloiço Abrantes", "text": "Un leagăn panoramic situat în Abrantes.", "category": "landmark", "coords": [-8.195372, 39.463709]}, {"name": "EN 2 Km 400", "text": "Un punct de reper pe faimosul drum EN2 din Abrantes.", "category": "landmark", "coords": [-8.1847, 39.484539]}, {"name": "Galeria Municipal", "text": "Galeria municipală de artă din Abrantes, care găzduiește diverse expoziții.", "category": "cultural", "coords": [-8.200979, 39.464259]}, {"name": "Quinta de Coalhos", "text": "Un conac tradițional și o proprietate istorică în Abrantes.", "category": "historical", "coords": [-8.16982, 39.456588]}, {"name": "Igreja de São João Baptista", "text": "Un edificiu religios dedicat Sfântului Ioan Botezătorul în Abrantes.", "category": "religious", "coords": [-8.196561, 39.462172]}, {"name": "Igreja de Alferrarede", "text": "Un lăcaș de cult local în zona Alferrarede din Abrantes.", "category": "religious", "coords": [-8.190242, 39.479282]}], "en": [{"name": "Igreja de Santa Maria do Castelo", "text": "A church converted into a museum within the castle walls.", "category": "museum", "coords": [-8.195016, 39.464775]}, {"name": "Cine-Teatro de São Pedro", "text": "A traditional theatre and cinema venue in Abrantes.", "category": "cultural", "coords": [-8.198592, 39.463746]}, {"name": "Antas da Jogada", "text": "An archaeological site featuring prehistoric dolmens.", "category": "historical", "coords": [-8.20411, 39.4575]}, {"name": "Menir de Vale dos Chãos", "text": "A prehistoric megalithic standing stone.", "category": "historical", "coords": [-8.19515, 39.46747]}, {"name": "Outeiro de São Pedro", "text": "A historic fort and strategic viewpoint in Abrantes.", "category": "fortress", "coords": [-8.192795, 39.461847]}, {"name": "Fortim do Caneiro", "text": "An archaeological site located in Abrantes.", "category": "historical", "coords": [-8.206021, 39.446517]}, {"name": "Praia Fluvial de Abrantes", "text": "In the heart of Abrantes, this charming river beach invites you to spend relaxing hours by the water. The peaceful mood makes the location a popular destination for families and nature lovers in Portugal. A variety of opportunities await here to relax in nature and enjoy the quiet riverside landscape. Visiting during the warm season promises the best conditions for a little getaway.", "category": "recreational", "coords": [-8.189292, 39.453552]}, {"name": "MIAA - Museu Ibérico de Arqueologia e Arte de Abrantes", "text": "A museum in Abrantes dedicated to Iberian archaeology and art.", "category": "museum", "coords": [-8.197517, 39.460599]}, {"name": "Mourões", "text": "Historic ruins located in the city of Abrantes.", "category": "historical", "coords": [-8.191726, 39.449958]}, {"name": "Baloiço Abrantes", "text": "A scenic panorama swing located in Abrantes.", "category": "landmark", "coords": [-8.195372, 39.463709]}, {"name": "EN 2 Km 400", "text": "A landmark point on the famous EN2 road in Abrantes.", "category": "landmark", "coords": [-8.1847, 39.484539]}, {"name": "Galeria Municipal", "text": "The municipal art gallery hosting exhibitions in Abrantes.", "category": "cultural", "coords": [-8.200979, 39.464259]}, {"name": "Quinta de Coalhos", "text": "A traditional manor house and estate in Abrantes.", "category": "historical", "coords": [-8.16982, 39.456588]}, {"name": "Igreja de São João Baptista", "text": "A religious building dedicated to Saint John the Baptist in Abrantes.", "category": "religious", "coords": [-8.196561, 39.462172]}, {"name": "Igreja de Alferrarede", "text": "A local place of worship in the Alferrarede area of Abrantes.", "category": "religious", "coords": [-8.190242, 39.479282]}]},
+    id: "portugal-abrantes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja de Santa Maria do Castelo",
+                  "text": "Eine Kirche innerhalb der Burgmauern, die in ein Museum umgewandelt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -8.195016,
+                        39.464775
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro de São Pedro",
+                  "text": "Ein traditionelles Theater und Kino in Abrantes.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.198592,
+                        39.463746
+                  ]
+            },
+            {
+                  "name": "Antas da Jogada",
+                  "text": "Eine archäologische Stätte mit prähistorischen Dolmen.",
+                  "category": "historical",
+                  "coords": [
+                        -8.20411,
+                        39.4575
+                  ]
+            },
+            {
+                  "name": "Menir de Vale dos Chãos",
+                  "text": "Ein prähistorischer megalithischer Menhir.",
+                  "category": "historical",
+                  "coords": [
+                        -8.19515,
+                        39.46747
+                  ]
+            },
+            {
+                  "name": "Outeiro de São Pedro",
+                  "text": "Eine historische Festung und ein strategischer Aussichtspunkt in Abrantes.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.192795,
+                        39.461847
+                  ]
+            },
+            {
+                  "name": "Fortim do Caneiro",
+                  "text": "Eine archäologische Ausgrabungsstätte in Abrantes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.206021,
+                        39.446517
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Abrantes",
+                  "text": "Im Herzen von Abrantes lädt dieser charmante Flussstrand zu erholsamen Stunden am Wasser ein. Die Stimmung ist friedlich und macht den Ort zu einem beliebten Ziel für Familien und Naturliebhaber in Portugal. Hier erwarten Sie vielfältige Möglichkeiten, sich in der Natur zu entspannen und die ruhige Uferlandschaft zu genießen. Ein Besuch während der warmen Jahreszeit verspricht die besten Bedingungen für eine kleine Auszeit.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.189292,
+                        39.453552
+                  ]
+            },
+            {
+                  "name": "MIAA - Museu Ibérico de Arqueologia e Arte de Abrantes",
+                  "text": "Ein Museum in Abrantes, das der iberischen Archäologie und Kunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.197517,
+                        39.460599
+                  ]
+            },
+            {
+                  "name": "Mourões",
+                  "text": "Historische Ruinen in der Stadt Abrantes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.191726,
+                        39.449958
+                  ]
+            },
+            {
+                  "name": "Baloiço Abrantes",
+                  "text": "Eine Aussichtsschaukel in Abrantes.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.195372,
+                        39.463709
+                  ]
+            },
+            {
+                  "name": "EN 2 Km 400",
+                  "text": "Ein Markierungspunkt an der berühmten Nationalstraße EN2 in Abrantes.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1847,
+                        39.484539
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal",
+                  "text": "Die städtische Kunstgalerie mit wechselnden Ausstellungen in Abrantes.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.200979,
+                        39.464259
+                  ]
+            },
+            {
+                  "name": "Quinta de Coalhos",
+                  "text": "Ein traditionelles Herrenhaus und Anwesen in Abrantes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.16982,
+                        39.456588
+                  ]
+            },
+            {
+                  "name": "Igreja de São João Baptista",
+                  "text": "Ein dem heiligen Johannes dem Täufer geweihtes Kirchengebäude in Abrantes.",
+                  "category": "religious",
+                  "coords": [
+                        -8.196561,
+                        39.462172
+                  ]
+            },
+            {
+                  "name": "Igreja de Alferrarede",
+                  "text": "Eine lokale Gebetsstätte im Stadtteil Alferrarede von Abrantes.",
+                  "category": "religious",
+                  "coords": [
+                        -8.190242,
+                        39.479282
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Ein öffentliches Schwimmbad in Abrantes für die lokale Erholung.",
+                  "category": "family",
+                  "coords": [
+                        -8.218035,
+                        39.465371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja de Santa Maria do Castelo",
+                  "text": "A várfalakon belüli templom, amelyet múzeummá alakítottak át.",
+                  "category": "museum",
+                  "coords": [
+                        -8.195016,
+                        39.464775
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro de São Pedro",
+                  "text": "Hagyományos színház és mozi Abrantesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.198592,
+                        39.463746
+                  ]
+            },
+            {
+                  "name": "Antas da Jogada",
+                  "text": "Régészeti lelőhely őskori dolmenekkel.",
+                  "category": "historical",
+                  "coords": [
+                        -8.20411,
+                        39.4575
+                  ]
+            },
+            {
+                  "name": "Menir de Vale dos Chãos",
+                  "text": "Őskori megalitikus állókő (menhir).",
+                  "category": "historical",
+                  "coords": [
+                        -8.19515,
+                        39.46747
+                  ]
+            },
+            {
+                  "name": "Outeiro de São Pedro",
+                  "text": "Történelmi erőd és stratégiai kilátópont Abrantesben.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.192795,
+                        39.461847
+                  ]
+            },
+            {
+                  "name": "Fortim do Caneiro",
+                  "text": "Régészeti lelőhely Abrantes területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.206021,
+                        39.446517
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Abrantes",
+                  "text": "Abrantes szívében ez a bájos folyóparti strand pihentető órákra csábít a víz mellett. A békés hangulat miatt a hely a családok és a természetkedvelők kedvelt célpontja Portugáliában. Itt változatos lehetőségek várják, hogy a természetben lazítson és élvezze a csendes parti tájat. A meleg évszakban tett látogatás ígéri a legjobb feltételeket egy kis kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.189292,
+                        39.453552
+                  ]
+            },
+            {
+                  "name": "MIAA - Museu Ibérico de Arqueologia e Arte de Abrantes",
+                  "text": "Az ibériai régészetet és művészetet bemutató múzeum Abrantesben.",
+                  "category": "museum",
+                  "coords": [
+                        -8.197517,
+                        39.460599
+                  ]
+            },
+            {
+                  "name": "Mourões",
+                  "text": "Történelmi romok Abrantes városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.191726,
+                        39.449958
+                  ]
+            },
+            {
+                  "name": "Baloiço Abrantes",
+                  "text": "Panorámás hinta Abrantes területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.195372,
+                        39.463709
+                  ]
+            },
+            {
+                  "name": "EN 2 Km 400",
+                  "text": "Egy nevezetes pont a híres EN2-es úton, Abrantes közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1847,
+                        39.484539
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal",
+                  "text": "Abrantes városi művészeti galériája, amely kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.200979,
+                        39.464259
+                  ]
+            },
+            {
+                  "name": "Quinta de Coalhos",
+                  "text": "Hagyományos udvarház és birtok Abrantesben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.16982,
+                        39.456588
+                  ]
+            },
+            {
+                  "name": "Igreja de São João Baptista",
+                  "text": "Keresztelő Szent Jánosnak szentelt vallási épület Abrantesben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.196561,
+                        39.462172
+                  ]
+            },
+            {
+                  "name": "Igreja de Alferrarede",
+                  "text": "Helyi templom Abrantes Alferrarede városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.190242,
+                        39.479282
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Közösségi úszómedence Abrantes városában a helyi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.218035,
+                        39.465371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja de Santa Maria do Castelo",
+                  "text": "O biserică transformată în muzeu în interiorul zidurilor castelului.",
+                  "category": "museum",
+                  "coords": [
+                        -8.195016,
+                        39.464775
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro de São Pedro",
+                  "text": "Un teatru tradițional și cinematograf în Abrantes.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.198592,
+                        39.463746
+                  ]
+            },
+            {
+                  "name": "Antas da Jogada",
+                  "text": "Un sit arheologic care prezintă dolmene preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        -8.20411,
+                        39.4575
+                  ]
+            },
+            {
+                  "name": "Menir de Vale dos Chãos",
+                  "text": "Un menhir megalitic preistoric.",
+                  "category": "historical",
+                  "coords": [
+                        -8.19515,
+                        39.46747
+                  ]
+            },
+            {
+                  "name": "Outeiro de São Pedro",
+                  "text": "Un fort istoric și punct de observare strategic în Abrantes.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.192795,
+                        39.461847
+                  ]
+            },
+            {
+                  "name": "Fortim do Caneiro",
+                  "text": "Un sit arheologic situat în Abrantes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.206021,
+                        39.446517
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Abrantes",
+                  "text": "În inima orașului Abrantes, această plajă fluvială fermecătoare vă invită la ore de relaxare lângă apă. Atmosfera este pașnică, transformând locul într-o destinație populară pentru familiile și iubitorii de natură din Portugalia. Aici vă așteaptă o varietate de oportunități pentru a vă relaxa în natură și a vă bucura de peisajul liniștit al malului. O vizită în sezonul cald promite cele mai bune condiții pentru o mică pauză.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.189292,
+                        39.453552
+                  ]
+            },
+            {
+                  "name": "MIAA - Museu Ibérico de Arqueologia e Arte de Abrantes",
+                  "text": "Un muzeu din Abrantes dedicat arheologiei și artei iberice.",
+                  "category": "museum",
+                  "coords": [
+                        -8.197517,
+                        39.460599
+                  ]
+            },
+            {
+                  "name": "Mourões",
+                  "text": "Ruine istorice situate în orașul Abrantes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.191726,
+                        39.449958
+                  ]
+            },
+            {
+                  "name": "Baloiço Abrantes",
+                  "text": "Un leagăn panoramic situat în Abrantes.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.195372,
+                        39.463709
+                  ]
+            },
+            {
+                  "name": "EN 2 Km 400",
+                  "text": "Un punct de reper pe faimosul drum EN2 din Abrantes.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1847,
+                        39.484539
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal",
+                  "text": "Galeria municipală de artă din Abrantes, care găzduiește diverse expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.200979,
+                        39.464259
+                  ]
+            },
+            {
+                  "name": "Quinta de Coalhos",
+                  "text": "Un conac tradițional și o proprietate istorică în Abrantes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.16982,
+                        39.456588
+                  ]
+            },
+            {
+                  "name": "Igreja de São João Baptista",
+                  "text": "Un edificiu religios dedicat Sfântului Ioan Botezătorul în Abrantes.",
+                  "category": "religious",
+                  "coords": [
+                        -8.196561,
+                        39.462172
+                  ]
+            },
+            {
+                  "name": "Igreja de Alferrarede",
+                  "text": "Un lăcaș de cult local în zona Alferrarede din Abrantes.",
+                  "category": "religious",
+                  "coords": [
+                        -8.190242,
+                        39.479282
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "O piscină publică în Abrantes pentru recreere locală.",
+                  "category": "family",
+                  "coords": [
+                        -8.218035,
+                        39.465371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja de Santa Maria do Castelo",
+                  "text": "A church converted into a museum within the castle walls.",
+                  "category": "museum",
+                  "coords": [
+                        -8.195016,
+                        39.464775
+                  ]
+            },
+            {
+                  "name": "Cine-Teatro de São Pedro",
+                  "text": "A traditional theatre and cinema venue in Abrantes.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.198592,
+                        39.463746
+                  ]
+            },
+            {
+                  "name": "Antas da Jogada",
+                  "text": "An archaeological site featuring prehistoric dolmens.",
+                  "category": "historical",
+                  "coords": [
+                        -8.20411,
+                        39.4575
+                  ]
+            },
+            {
+                  "name": "Menir de Vale dos Chãos",
+                  "text": "A prehistoric megalithic standing stone.",
+                  "category": "historical",
+                  "coords": [
+                        -8.19515,
+                        39.46747
+                  ]
+            },
+            {
+                  "name": "Outeiro de São Pedro",
+                  "text": "A historic fort and strategic viewpoint in Abrantes.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.192795,
+                        39.461847
+                  ]
+            },
+            {
+                  "name": "Fortim do Caneiro",
+                  "text": "An archaeological site located in Abrantes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.206021,
+                        39.446517
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Abrantes",
+                  "text": "In the heart of Abrantes, this charming river beach invites you to spend relaxing hours by the water. The peaceful mood makes the location a popular destination for families and nature lovers in Portugal. A variety of opportunities await here to relax in nature and enjoy the quiet riverside landscape. Visiting during the warm season promises the best conditions for a little getaway.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.189292,
+                        39.453552
+                  ]
+            },
+            {
+                  "name": "MIAA - Museu Ibérico de Arqueologia e Arte de Abrantes",
+                  "text": "A museum in Abrantes dedicated to Iberian archaeology and art.",
+                  "category": "museum",
+                  "coords": [
+                        -8.197517,
+                        39.460599
+                  ]
+            },
+            {
+                  "name": "Mourões",
+                  "text": "Historic ruins located in the city of Abrantes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.191726,
+                        39.449958
+                  ]
+            },
+            {
+                  "name": "Baloiço Abrantes",
+                  "text": "A scenic panorama swing located in Abrantes.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.195372,
+                        39.463709
+                  ]
+            },
+            {
+                  "name": "EN 2 Km 400",
+                  "text": "A landmark point on the famous EN2 road in Abrantes.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.1847,
+                        39.484539
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal",
+                  "text": "The municipal art gallery hosting exhibitions in Abrantes.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.200979,
+                        39.464259
+                  ]
+            },
+            {
+                  "name": "Quinta de Coalhos",
+                  "text": "A traditional manor house and estate in Abrantes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.16982,
+                        39.456588
+                  ]
+            },
+            {
+                  "name": "Igreja de São João Baptista",
+                  "text": "A religious building dedicated to Saint John the Baptist in Abrantes.",
+                  "category": "religious",
+                  "coords": [
+                        -8.196561,
+                        39.462172
+                  ]
+            },
+            {
+                  "name": "Igreja de Alferrarede",
+                  "text": "A local place of worship in the Alferrarede area of Abrantes.",
+                  "category": "religious",
+                  "coords": [
+                        -8.190242,
+                        39.479282
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "A public swimming pool in Abrantes for local recreation.",
+                  "category": "family",
+                  "coords": [
+                        -8.218035,
+                        39.465371
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Abrantes", hu: "Abrantes", ro: "Abrantes", en: "Abrantes" },
@@ -4243,7 +11470,304 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-abrantes-cities-v2.webp",
   },
   {
-    id: "portugal-mirandela-cities-v2", "sights": {"de": [{"name": "Ecoteca de Mirandela", "text": "Ein Umweltmuseum und Bildungszentrum in Mirandela.", "category": "museum", "coords": [-7.179725, 41.490763]}, {"name": "Praia Fluvial de Mirandela", "text": "An den Ufern des Flusses Tua in Mirandela offenbart sich dieses malerische portugiesische Badeparadies. Eine familiäre und einladende Atmosphäre prägt das Bild dieses beliebten Flussstrandes. Gäste können sich auf gemütliche Momente am Wasser, Spaziergänge am Ufer und viel Natur freuen. Gerade in den Sommermonaten ist es ratsam, rechtzeitig dort zu sein, um einen guten Platz zu finden.", "category": "recreational", "coords": [-7.187479, 41.488013]}, {"name": "Museu da Oliveira e do Azeite", "text": "Ein Museum in Mirandela, das der Geschichte der Olivenölproduktion gewidmet ist.", "category": "museum", "coords": [-7.183054, 41.483222]}, {"name": "Museu Municipal Armindo Teixeira Lopes", "text": "Ein städtisches Kunstmuseum mit verschiedenen Sammlungen in Mirandela.", "category": "museum", "coords": [-7.17862, 41.485338]}, {"name": "Repuxo", "text": "Ein markanter Springbrunnen und eine Attraktion in der Stadt Mirandela.", "category": "landmark", "coords": [-7.185813, 41.483505]}, {"name": "Ponte Romana", "text": "Eine historische Brücke in Mirandela, die für ihre Architektur im römischen Stil bekannt ist.", "category": "landmark", "coords": [-7.178217, 41.491522]}, {"name": "Igreja de Nossa Senhora da Encarnação", "text": "Eine Kirche in Mirandela, die Unserer Lieben Frau von der Menschwerdung gewidmet ist.", "category": "religious", "coords": [-7.182092, 41.485146]}], "hu": [{"name": "Ecoteca de Mirandela", "text": "Környezetvédelmi múzeum és oktatási központ Mirandelában.", "category": "museum", "coords": [-7.179725, 41.490763]}, {"name": "Praia Fluvial de Mirandela", "text": "Mirandelában, a Tua folyó partján tárul elénk ez a festői portugál fürdőparadicsom. Ennek a kedvelt folyami strandnak a képét egy családias és hívogató atmoszféra határozza meg. A vendégek hangulatos vízparti pillanatokra, parti sétákra és rengeteg természetre számíthatnak. Különösen a nyári hónapokban ajánlott időben érkezni, hogy jó helyet találjunk.", "category": "recreational", "coords": [-7.187479, 41.488013]}, {"name": "Museu da Oliveira e do Azeite", "text": "Az olívaolaj-termelés történetének szentelt múzeum Mirandelában.", "category": "museum", "coords": [-7.183054, 41.483222]}, {"name": "Museu Municipal Armindo Teixeira Lopes", "text": "Városi művészeti múzeum Mirandelában, amely különféle gyűjteményeket mutat be.", "category": "museum", "coords": [-7.17862, 41.485338]}, {"name": "Repuxo", "text": "Jelentős szökőkút és látványosság Mirandela városában.", "category": "landmark", "coords": [-7.185813, 41.483505]}, {"name": "Ponte Romana", "text": "Történelmi híd Mirandelában, amely római stílusú építészetéről ismert.", "category": "landmark", "coords": [-7.178217, 41.491522]}, {"name": "Igreja de Nossa Senhora da Encarnação", "text": "A Megtestesült Szűzanya tiszteletére szentelt templom Mirandelában.", "category": "religious", "coords": [-7.182092, 41.485146]}], "ro": [{"name": "Ecoteca de Mirandela", "text": "Un muzeu de mediu și centru de educație din Mirandela.", "category": "museum", "coords": [-7.179725, 41.490763]}, {"name": "Praia Fluvial de Mirandela", "text": "Pe malurile râului Tua din Mirandela se dezvăluie acest paradis pitoresc portughez de scăldat. O atmosferă familiară și primitoare definește imaginea acestei plaje fluviale populare. Oaspeții se pot aștepta la momente confortabile pe malul apei, plimbări pe țărm și multă natură. Mai ales în lunile de vară, este indicat să ajungeți devreme pentru a prinde un loc bun.", "category": "recreational", "coords": [-7.187479, 41.488013]}, {"name": "Museu da Oliveira e do Azeite", "text": "Un muzeu din Mirandela dedicat istoriei producției de ulei de măsline.", "category": "museum", "coords": [-7.183054, 41.483222]}, {"name": "Museu Municipal Armindo Teixeira Lopes", "text": "Un muzeu municipal de artă care prezintă diverse colecții în Mirandela.", "category": "museum", "coords": [-7.17862, 41.485338]}, {"name": "Repuxo", "text": "O fântână arteziană proeminentă și o atracție din orașul Mirandela.", "category": "landmark", "coords": [-7.185813, 41.483505]}, {"name": "Ponte Romana", "text": "Un pod istoric din Mirandela cunoscut pentru arhitectura sa în stil roman.", "category": "landmark", "coords": [-7.178217, 41.491522]}, {"name": "Igreja de Nossa Senhora da Encarnação", "text": "O biserică din Mirandela dedicată Maicii Domnului a Întrupării.", "category": "religious", "coords": [-7.182092, 41.485146]}], "en": [{"name": "Ecoteca de Mirandela", "text": "An environmental museum and education center in Mirandela.", "category": "museum", "coords": [-7.179725, 41.490763]}, {"name": "Praia Fluvial de Mirandela", "text": "On the banks of the Tua River in Mirandela, this picturesque Portuguese bathing paradise reveals itself. A familiar and inviting atmosphere defines the image of this popular river beach. Guests can look forward to cozy moments by the water, walks along the shore, and plenty of nature. Especially in the summer months, arriving early is advisable to find a good spot.", "category": "recreational", "coords": [-7.187479, 41.488013]}, {"name": "Museu da Oliveira e do Azeite", "text": "A museum in Mirandela dedicated to the history of olive oil production.", "category": "museum", "coords": [-7.183054, 41.483222]}, {"name": "Museu Municipal Armindo Teixeira Lopes", "text": "A municipal art museum showcasing various collections in Mirandela.", "category": "museum", "coords": [-7.17862, 41.485338]}, {"name": "Repuxo", "text": "A prominent water fountain and attraction in the city of Mirandela.", "category": "landmark", "coords": [-7.185813, 41.483505]}, {"name": "Ponte Romana", "text": "A historic bridge in Mirandela known for its Roman-style architecture.", "category": "landmark", "coords": [-7.178217, 41.491522]}, {"name": "Igreja de Nossa Senhora da Encarnação", "text": "A church in Mirandela dedicated to Our Lady of the Incarnation.", "category": "religious", "coords": [-7.182092, 41.485146]}]},
+    id: "portugal-mirandela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ecoteca de Mirandela",
+                  "text": "Ein Umweltmuseum und Bildungszentrum in Mirandela.",
+                  "category": "museum",
+                  "coords": [
+                        -7.179725,
+                        41.490763
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Mirandela",
+                  "text": "An den Ufern des Flusses Tua in Mirandela offenbart sich dieses malerische portugiesische Badeparadies. Eine familiäre und einladende Atmosphäre prägt das Bild dieses beliebten Flussstrandes. Gäste können sich auf gemütliche Momente am Wasser, Spaziergänge am Ufer und viel Natur freuen. Gerade in den Sommermonaten ist es ratsam, rechtzeitig dort zu sein, um einen guten Platz zu finden.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.187479,
+                        41.488013
+                  ]
+            },
+            {
+                  "name": "Museu da Oliveira e do Azeite",
+                  "text": "Ein Museum in Mirandela, das der Geschichte der Olivenölproduktion gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.183054,
+                        41.483222
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Armindo Teixeira Lopes",
+                  "text": "Ein städtisches Kunstmuseum mit verschiedenen Sammlungen in Mirandela.",
+                  "category": "museum",
+                  "coords": [
+                        -7.17862,
+                        41.485338
+                  ]
+            },
+            {
+                  "name": "Repuxo",
+                  "text": "Ein markanter Springbrunnen und eine Attraktion in der Stadt Mirandela.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.185813,
+                        41.483505
+                  ]
+            },
+            {
+                  "name": "Ponte Romana",
+                  "text": "Eine historische Brücke in Mirandela, die für ihre Architektur im römischen Stil bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.178217,
+                        41.491522
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Encarnação",
+                  "text": "Eine Kirche in Mirandela, die Unserer Lieben Frau von der Menschwerdung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.182092,
+                        41.485146
+                  ]
+            },
+            {
+                  "name": "Maravilha",
+                  "text": "Dieses Schwimmbad in Mirandela bietet einen Ort für Familien zum Schwimmen und für die Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        -7.197506,
+                        41.506231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ecoteca de Mirandela",
+                  "text": "Környezetvédelmi múzeum és oktatási központ Mirandelában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.179725,
+                        41.490763
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Mirandela",
+                  "text": "Mirandelában, a Tua folyó partján tárul elénk ez a festői portugál fürdőparadicsom. Ennek a kedvelt folyami strandnak a képét egy családias és hívogató atmoszféra határozza meg. A vendégek hangulatos vízparti pillanatokra, parti sétákra és rengeteg természetre számíthatnak. Különösen a nyári hónapokban ajánlott időben érkezni, hogy jó helyet találjunk.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.187479,
+                        41.488013
+                  ]
+            },
+            {
+                  "name": "Museu da Oliveira e do Azeite",
+                  "text": "Az olívaolaj-termelés történetének szentelt múzeum Mirandelában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.183054,
+                        41.483222
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Armindo Teixeira Lopes",
+                  "text": "Városi művészeti múzeum Mirandelában, amely különféle gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.17862,
+                        41.485338
+                  ]
+            },
+            {
+                  "name": "Repuxo",
+                  "text": "Jelentős szökőkút és látványosság Mirandela városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.185813,
+                        41.483505
+                  ]
+            },
+            {
+                  "name": "Ponte Romana",
+                  "text": "Történelmi híd Mirandelában, amely római stílusú építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.178217,
+                        41.491522
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Encarnação",
+                  "text": "A Megtestesült Szűzanya tiszteletére szentelt templom Mirandelában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.182092,
+                        41.485146
+                  ]
+            },
+            {
+                  "name": "Maravilha",
+                  "text": "Ez a mirandelai uszoda helyet kínál a családoknak az úszáshoz és a szabadidő eltöltéséhez.",
+                  "category": "family",
+                  "coords": [
+                        -7.197506,
+                        41.506231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ecoteca de Mirandela",
+                  "text": "Un muzeu de mediu și centru de educație din Mirandela.",
+                  "category": "museum",
+                  "coords": [
+                        -7.179725,
+                        41.490763
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Mirandela",
+                  "text": "Pe malurile râului Tua din Mirandela se dezvăluie acest paradis pitoresc portughez de scăldat. O atmosferă familiară și primitoare definește imaginea acestei plaje fluviale populare. Oaspeții se pot aștepta la momente confortabile pe malul apei, plimbări pe țărm și multă natură. Mai ales în lunile de vară, este indicat să ajungeți devreme pentru a prinde un loc bun.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.187479,
+                        41.488013
+                  ]
+            },
+            {
+                  "name": "Museu da Oliveira e do Azeite",
+                  "text": "Un muzeu din Mirandela dedicat istoriei producției de ulei de măsline.",
+                  "category": "museum",
+                  "coords": [
+                        -7.183054,
+                        41.483222
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Armindo Teixeira Lopes",
+                  "text": "Un muzeu municipal de artă care prezintă diverse colecții în Mirandela.",
+                  "category": "museum",
+                  "coords": [
+                        -7.17862,
+                        41.485338
+                  ]
+            },
+            {
+                  "name": "Repuxo",
+                  "text": "O fântână arteziană proeminentă și o atracție din orașul Mirandela.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.185813,
+                        41.483505
+                  ]
+            },
+            {
+                  "name": "Ponte Romana",
+                  "text": "Un pod istoric din Mirandela cunoscut pentru arhitectura sa în stil roman.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.178217,
+                        41.491522
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Encarnação",
+                  "text": "O biserică din Mirandela dedicată Maicii Domnului a Întrupării.",
+                  "category": "religious",
+                  "coords": [
+                        -7.182092,
+                        41.485146
+                  ]
+            },
+            {
+                  "name": "Maravilha",
+                  "text": "Această piscină din Mirandela oferă un loc unde familiile pot înota și se pot bucura de timpul liber.",
+                  "category": "family",
+                  "coords": [
+                        -7.197506,
+                        41.506231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ecoteca de Mirandela",
+                  "text": "An environmental museum and education center in Mirandela.",
+                  "category": "museum",
+                  "coords": [
+                        -7.179725,
+                        41.490763
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Mirandela",
+                  "text": "On the banks of the Tua River in Mirandela, this picturesque Portuguese bathing paradise reveals itself. A familiar and inviting atmosphere defines the image of this popular river beach. Guests can look forward to cozy moments by the water, walks along the shore, and plenty of nature. Especially in the summer months, arriving early is advisable to find a good spot.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.187479,
+                        41.488013
+                  ]
+            },
+            {
+                  "name": "Museu da Oliveira e do Azeite",
+                  "text": "A museum in Mirandela dedicated to the history of olive oil production.",
+                  "category": "museum",
+                  "coords": [
+                        -7.183054,
+                        41.483222
+                  ]
+            },
+            {
+                  "name": "Museu Municipal Armindo Teixeira Lopes",
+                  "text": "A municipal art museum showcasing various collections in Mirandela.",
+                  "category": "museum",
+                  "coords": [
+                        -7.17862,
+                        41.485338
+                  ]
+            },
+            {
+                  "name": "Repuxo",
+                  "text": "A prominent water fountain and attraction in the city of Mirandela.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.185813,
+                        41.483505
+                  ]
+            },
+            {
+                  "name": "Ponte Romana",
+                  "text": "A historic bridge in Mirandela known for its Roman-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.178217,
+                        41.491522
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Encarnação",
+                  "text": "A church in Mirandela dedicated to Our Lady of the Incarnation.",
+                  "category": "religious",
+                  "coords": [
+                        -7.182092,
+                        41.485146
+                  ]
+            },
+            {
+                  "name": "Maravilha",
+                  "text": "This swimming pool in Mirandela provides a place for families to swim and enjoy leisure time.",
+                  "category": "family",
+                  "coords": [
+                        -7.197506,
+                        41.506231
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Mirandela", hu: "Mirandela", ro: "Mirandela", en: "Mirandela" },
@@ -4288,7 +11812,628 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-mirandela-cities-v2.webp",
   },
   {
-    id: "portugal-espinho-cities-v2", "sights": {"de": [{"name": "Praia de Silvalde", "text": "Entlang der Küste von Espinho zieht dieser portugiesische Sandstrand vor allem Surfer und Badegäste an. Das Rauschen des Atlantiks sorgt für eine dynamische, aber dennoch entspannte Kulisse. Besucher können sich in die Wellen stürzen oder ausgiebige Sonnenbäder am feinen Strand genießen. Vergessen Sie nicht, ausreichend Sonnenschutz für einen unbeschwerten Tag am Meer einzupacken.", "category": "recreational", "coords": [-8.64794, 40.987344]}, {"name": "Praia de Paramos", "text": "Wer die Stille sucht, wird an diesem ruhigen Strandabschnitt unweit von Espinho fündig. Die beschauliche Atmosphäre bietet einen wunderbaren Kontrast zu belebteren portugiesischen Küstenorten. Hier steht entspanntes Sonnenbaden und das Lauschen der Meeresbrandung im Vordergrund. Ideal für alle, die abseits des Trubels einfach mal die Seele baumeln lassen möchten.", "category": "recreational", "coords": [-8.649105, 40.979996]}, {"name": "Museu Municipal de Espinho", "text": "Ein Museum in Espinho, das lokale Geschichte und Kunst ausstellt.", "category": "museum", "coords": [-8.644015, 40.999954]}, {"name": "Praia 37", "text": "Dank seiner zentralen Lage ist dieser beliebte Strand in Espinho ein hervorragender Ausgangspunkt für Küstenliebhaber in Portugal. Es erwartet Sie ein fröhliches und meist gut besuchtes Umfeld, das zum Verweilen einlädt. Badegäste erfreuen sich an der leichten Erreichbarkeit und dem feinen Sand unter den Füßen. Es empfiehlt sich, früh aufzubrechen, um die frische Meeresbrise in vollen Zügen auszukosten.", "category": "recreational", "coords": [-8.646669, 41.003039]}, {"name": "Praia das Sereias", "text": "Dieser einladende portugiesische Sandstrand in Espinho ist ein wunderbarer Ort, um am Atlantik zur Ruhe zu kommen. Die entspannte Küstenatmosphäre lockt sowohl Paare als auch Familien an die Ufer. Auf dem feinen Sand lässt es sich hervorragend sonnenbaden, während das Rauschen des Meeres den Hintergrund untermalt. Ein Besuch am späten Vormittag bietet oft die besten Plätze direkt am Wasser.", "category": "recreational", "coords": [-8.647451, 41.001383]}, {"name": "Praia da Baía", "text": "Als zentraler Stadtstrand von Espinho vereint dieser Ort urbanes Leben mit dem portugiesischen Atlantikflair. Die Atmosphäre ist durchweg belebt und bietet eine perfekte Mischung aus städtischem Komfort und Meeresnatur. Sonnenanbeter und Wasserratten schätzen die kurzen Wege und den breiten Sandbereich. Ein Abendspaziergang ist hier besonders reizvoll, wenn sich die Kulisse in warme Farben taucht.", "category": "recreational", "coords": [-8.646802, 41.006914]}, {"name": "Praia dos Pescadores", "text": "Dieser malerische portugiesische Strand in Espinho atmet die traditionelle Fischereikultur der Region. Zwischen einheimischen Fischern herrscht eine authentische und herzliche Stimmung am Rande des Atlantiks. Besucher können das faszinierende Treiben beobachten und lange Spaziergänge am Ufer genießen. Wer das echte Küstenleben schätzt, sollte die frühen Morgenstunden für einen Besuch wählen.", "category": "recreational", "coords": [-8.646932, 40.997674]}, {"name": "Praia de Espinho", "text": "Der Hauptstrand von Espinho beeindruckt mit seinen weiten Sandflächen direkt am portugiesischen Atlantik. Eine lebhafte und zugleich weite Atmosphäre macht ihn zum Anziehungspunkt für Sonnenanbeter aus aller Welt. Die exzellenten Bedingungen laden zum ausgiebigen Baden und Entspannen ein. Besonders in der Hochsaison ist es ratsam, frühzeitig zu kommen, um das weitläufige Ambiente zu genießen.", "category": "recreational", "coords": [-8.646155, 41.015839]}, {"name": "Praia de São Félix da Marinha", "text": "Fernab der großen Menschenmengen bietet dieser portugiesische Küstenabschnitt in Espinho eine wohltuende Stille. Die sanfte Meeresbrise und die weite Sicht schaffen eine überaus beruhigende Atmosphäre. Für ausgiebige Spaziergänge am Wasser oder ruhiges Sonnenbaden ist dieses Kleinod prädestiniert. Packen Sie sich ein gutes Buch ein, um die entspannte Zeit am Ozean perfekt zu machen.", "category": "recreational", "coords": [-8.646472, 41.029111]}, {"name": "Praia de Bocamar", "text": "Als charmanter Zufluchtsort in Espinho zeichnet sich dieser portugiesische Strand durch seine beschauliche Ruhe aus. Wer dem städtischen Trubel entkommen möchte, findet hier eine friedliche und entspannte Atmosphäre. Ideal, um dem Rauschen des Atlantiks zuzuhören und einfach die Gedanken schweifen zu lassen. Für ein ungestörtes Naturerlebnis empfiehlt es sich, die belebteren Wochenenden zu meiden.", "category": "recreational", "coords": [-8.646656, 41.032616]}, {"name": "Praia de Brito", "text": "In der Küstenregion um Espinho lockt dieser natürliche Sandstrand Einheimische und Portugalreisende gleichermaßen an. Die naturbelassene Umgebung sorgt für ein bodenständiges und entspanntes Ambiente am Meer. Weite Sandflächen laden zu erholsamen Spaziergängen und ausgedehnten Sonnenbädern ein. Bringen Sie ausreichend Wasser und Snacks mit, um den Strandtag in vollen Zügen genießen zu können.", "category": "recreational", "coords": [-8.645284, 41.024708]}, {"name": "Galeria de Exposições do Centro Multimeios de Espinho", "text": "Ein kultureller Ausstellungsraum im Multimeios-Zentrum von Espinho für zeitgenössische Kunst.", "category": "museum", "coords": [-8.638574, 41.006212]}, {"name": "Bingo - Casino Espinho", "text": "Ein bekanntes Unterhaltungszentrum in Espinho, das Casino-Spiele und Bingo anbietet.", "category": "landmark", "coords": [-8.645214, 41.008373]}, {"name": "Igreja de Nossa Senhora da Ajuda", "text": "Die neoklassizistische Hauptkirche von Espinho, gewidmet der Schutzpatronin der Stadt.", "category": "religious", "coords": [-8.640349, 41.005652]}, {"name": "Câmara Municipal de Espinho", "text": "Das Verwaltungsgebäude der Stadtverwaltung von Espinho im Herzen der Stadt.", "category": "historical", "coords": [-8.639394, 41.008992]}, {"name": "Igreja de São Tiago de Silvalde", "text": "Ein bedeutendes religiöses Bauwerk in Silvalde, einem Ortsteil von Espinho.", "category": "religious", "coords": [-8.626167, 40.991849]}], "hu": [{"name": "Praia de Silvalde", "text": "Espinho partvidéke mentén ez a portugál homokos strand elsősorban a szörfösöket és a fürdőzőket vonzza. Az Atlanti-óceán zúgása dinamikus, mégis pihentető hátteret biztosít. A látogatók belevethetik magukat a hullámokba, vagy hosszas napfürdőzést tarthatnak a finom homokban. Ne felejtsen el megfelelő napvédelmet csomagolni egy gondtalan tengerparti naphoz.", "category": "recreational", "coords": [-8.64794, 40.987344]}, {"name": "Praia de Paramos", "text": "Aki csendre vágyik, az ezen az Espinho közelében fekvő, nyugodt partszakaszon megtalálja számítását. A békés atmoszféra csodás kontrasztot nyújt a forgalmasabb portugál tengerparti településekkel szemben. Itt a pihentető napozás és a tenger morajlásának hallgatása kerül előtérbe. Ideális mindazok számára, akik a nyüzsgéstől távol, egyszerűen csak kikapcsolódni szeretnének.", "category": "recreational", "coords": [-8.649105, 40.979996]}, {"name": "Museu Municipal de Espinho", "text": "Espinho városi múzeuma, amely helytörténeti és művészeti kiállításokat kínál.", "category": "museum", "coords": [-8.644015, 40.999954]}, {"name": "Praia 37", "text": "Központi elhelyezkedésének köszönhetően ez az espinhoi kedvelt strand kiváló kiindulópont a tengerpart portugál szerelmeseinek. Vidám és többnyire látogatott környezet várja itt, amely maradásra csábít. A fürdőzők élvezhetik a könnyű megközelíthetőséget és a finom homokot a talpuk alatt. Érdemes korán indulni, hogy a friss tengeri szellőt a legteljesebb mértékben kiélvezhessük.", "category": "recreational", "coords": [-8.646669, 41.003039]}, {"name": "Praia das Sereias", "text": "Ez a hívogató portugál homokos strand Espinhóban csodálatos hely a megnyugvásra az Atlanti-óceán partján. A pihentető tengerparti légkör párokat és családokat egyaránt a partra csalogat. A finom homokban kiválóan lehet napozni, miközben a tenger morajlása adja a hátteret. Egy késő délelőtti látogatás gyakran a legjobb helyeket kínálja közvetlenül a víz mellett.", "category": "recreational", "coords": [-8.647451, 41.001383]}, {"name": "Praia da Baía", "text": "Espinho központi városi strandjaként ez a hely egyesíti a városi életet a portugál atlanti hangulattal. A légkör mindvégig élénk, és a városi kényelem, valamint a tengeri természet tökéletes keverékét nyújtja. A napimádók és a víz szerelmesei értékelik a rövid távolságokat és a széles homokos területet. Egy esti séta itt különösen vonzó, amikor a táj meleg színekbe burkolózik.", "category": "recreational", "coords": [-8.646802, 41.006914]}, {"name": "Praia dos Pescadores", "text": "Ez a festői portugál strand Espinhóban a régió hagyományos halászkultúráját lélegzi. A helyi halászok között autentikus és szívélyes hangulat uralkodik az Atlanti-óceán partján. A látogatók megfigyelhetik a lenyűgöző sürgés-forgást, és hosszú sétákat tehetnek a parton. Aki értékeli a valódi tengerparti életet, annak a kora reggeli órákat érdemes választania a látogatáshoz.", "category": "recreational", "coords": [-8.646932, 40.997674]}, {"name": "Praia de Espinho", "text": "Espinho fő strandja széles homokos területeivel nyűgöz le közvetlenül a portugál Atlanti-óceánnál. Az élénk, ugyanakkor tágas atmoszféra a világ minden tájáról érkező napimádók vonzerejévé teszi. A kiváló feltételek hosszas fürdőzésre és pihenésre csábítanak. Különösen főszezonban ajánlott korán érkezni, hogy maradéktalanul élvezhessük a kiterjedt környezetet.", "category": "recreational", "coords": [-8.646155, 41.015839]}, {"name": "Praia de São Félix da Marinha", "text": "A nagy tömegektől távol, ez az Espinhóban található portugál partszakasz jótékony csendet kínál. A lágy tengeri szellő és a széles látóhatár rendkívül megnyugtató légkört teremt. Ez az ékszerdoboz egyenesen hivatott a hosszas vízparti sétákra vagy a nyugodt napozásra. Csomagoljon be egy jó könyvet, hogy tökéletessé tegye az óceán melletti pihentető időt.", "category": "recreational", "coords": [-8.646472, 41.029111]}, {"name": "Praia de Bocamar", "text": "Bájos menedékhelyként Espinhóban ez a portugál strand elmélkedő nyugalmával tűnik ki. Aki szeretne elmenekülni a városi forgatag elől, itt békés és pihentető légkörre talál. Ideális az Atlanti-óceán zúgásának hallgatásához és a gondolatok szabadon engedéséhez. A zavartalan természeti élmény érdekében érdemes elkerülni a forgalmasabb hétvégéket.", "category": "recreational", "coords": [-8.646656, 41.032616]}, {"name": "Praia de Brito", "text": "Espinho partvidéki régiójában ez a természetes homokos strand egyaránt vonzza a helyieket és a Portugáliába utazókat. A természetközeli környezet földhözragadt és pihentető tengerparti hangulatot biztosít. A széles homokos területek pihentető sétákra és hosszas napozásra hívogatnak. Hozzon magával elegendő vizet és harapnivalót, hogy a strandolós napot a legteljesebb mértékben élvezhesse.", "category": "recreational", "coords": [-8.645284, 41.024708]}, {"name": "Galeria de Exposições do Centro Multimeios de Espinho", "text": "Kulturális kiállítótér az Espinho-i Multimeios Központban a kortárs művészetek számára.", "category": "museum", "coords": [-8.638574, 41.006212]}, {"name": "Bingo - Casino Espinho", "text": "Ismert szórakoztató központ Espinhóban, amely kaszinójátékokat és bingót kínál.", "category": "landmark", "coords": [-8.645214, 41.008373]}, {"name": "Igreja de Nossa Senhora da Ajuda", "text": "Espinho neoklasszicista főtemploma, amelyet a város védőszentjének szenteltek.", "category": "religious", "coords": [-8.640349, 41.005652]}, {"name": "Câmara Municipal de Espinho", "text": "Espinho városi tanácsának adminisztratív épülete a város szívében.", "category": "historical", "coords": [-8.639394, 41.008992]}, {"name": "Igreja de São Tiago de Silvalde", "text": "Jelentős vallási épület Silvaldéban, Espinho egyik negyedében.", "category": "religious", "coords": [-8.626167, 40.991849]}], "ro": [{"name": "Praia de Silvalde", "text": "De-a lungul coastei din Espinho, această plajă portugheză cu nisip atrage în special surferi și înotători. Sunetul Atlanticului oferă un fundal dinamic, dar în același timp relaxant. Vizitatorii se pot arunca în valuri sau se pot bucura de băi de soare prelungite pe plaja fină. Nu uitați să luați suficientă cremă de protecție solară pentru o zi fără griji la mare.", "category": "recreational", "coords": [-8.64794, 40.987344]}, {"name": "Praia de Paramos", "text": "Cei care caută liniștea o vor găsi pe această porțiune de plajă calmă, nu departe de Espinho. Atmosfera contemplativă oferă un contrast minunat față de stațiunile de coastă portugheze mai aglomerate. Aici, accentul se pune pe plaja relaxantă și pe ascultarea valurilor mării. Ideal pentru toți cei care doresc pur și simplu să se relaxeze departe de agitație.", "category": "recreational", "coords": [-8.649105, 40.979996]}, {"name": "Museu Municipal de Espinho", "text": "Un muzeu în Espinho ce expune istoria și arta locală.", "category": "museum", "coords": [-8.644015, 40.999954]}, {"name": "Praia 37", "text": "Datorită locației sale centrale, această plajă populară din Espinho este un punct de plecare excelent pentru iubitorii de coastă din Portugalia. Vă așteaptă un mediu vesel și adesea frecventat, care vă invită să rămâneți. Înotătorii se bucură de accesul ușor și de nisipul fin sub picioare. Este recomandat să plecați devreme pentru a savura din plin briza proaspătă a mării.", "category": "recreational", "coords": [-8.646669, 41.003039]}, {"name": "Praia das Sereias", "text": "Această plajă portugheză primitoare cu nisip din Espinho este un loc minunat pentru a vă găsi liniștea pe malul Atlanticului. Atmosfera relaxată a coastei atrage deopotrivă cupluri și familii pe țărm. Pe nisipul fin este excelent să faceți plajă, în timp ce sunetul mării creează fundalul perfect. O vizită dimineața târziu oferă adesea cele mai bune locuri chiar lângă apă.", "category": "recreational", "coords": [-8.647451, 41.001383]}, {"name": "Praia da Baía", "text": "Ca plajă centrală a orașului Espinho, acest loc combină viața urbană cu flerul atlantic portughez. Atmosfera este constant animată și oferă o fuziune perfectă de confort urban și natura mării. Iubitorii de soare și entuziaștii apei apreciază distanțele scurte și zona largă de nisip. O plimbare de seară este deosebit de atrăgătoare aici, când peisajul este scăldat în culori calde.", "category": "recreational", "coords": [-8.646802, 41.006914]}, {"name": "Praia dos Pescadores", "text": "Această plajă portugheză pitorească din Espinho respiră cultura tradițională de pescuit a regiunii. Printre pescarii locali domnește o atmosferă autentică și caldă pe malul Atlanticului. Vizitatorii pot urmări forfota fascinantă și se pot bucura de plimbări lungi pe țărm. Cei care apreciază viața de coastă veritabilă ar trebui să aleagă primele ore ale dimineții pentru o vizită.", "category": "recreational", "coords": [-8.646932, 40.997674]}, {"name": "Praia de Espinho", "text": "Plaja principală din Espinho impresionează prin suprafețele sale întinse de nisip aflate chiar la Atlanticul portughez. O atmosferă plină de viață și în același timp spațioasă o transformă într-un magnet pentru iubitorii de soare din întreaga lume. Condițiile excelente vă invită să vă bucurați din plin de înot și relaxare. Mai ales în plin sezon, este recomandat să sosiți devreme pentru a vă bucura de ambianța vastă.", "category": "recreational", "coords": [-8.646155, 41.015839]}, {"name": "Praia de São Félix da Marinha", "text": "Departe de aglomerație, această secțiune de coastă portugheză din Espinho oferă o liniște reconfortantă. Briza blândă a mării și priveliștea largă creează o atmosferă extrem de calmantă. Această bijuterie este predestinată pentru plimbări prelungite pe malul apei sau pentru băi de soare liniștite. Luați o carte bună cu dumneavoastră pentru a face ca timpul relaxant la ocean să fie perfect.", "category": "recreational", "coords": [-8.646472, 41.029111]}, {"name": "Praia de Bocamar", "text": "Ca un refugiu fermecător în Espinho, această plajă portugheză se remarcă prin liniștea sa contemplativă. Oricine dorește să scape de agitația orașului va găsi aici o atmosferă pașnică și relaxantă. Ideal pentru a asculta sunetul Atlanticului și a lăsa pur și simplu gândurile să rătăcească. Pentru o experiență netulburată în natură, este recomandat să evitați weekendurile mai aglomerate.", "category": "recreational", "coords": [-8.646656, 41.032616]}, {"name": "Praia de Brito", "text": "În regiunea de coastă din jurul orașului Espinho, această plajă naturală cu nisip atrage atât localnici, cât și călători în Portugalia. Mediul natural asigură o ambianță autentică și relaxată la mare. Suprafețele mari de nisip vă invită la plimbări liniștitoare și băi lungi de soare. Aduceți multă apă și gustări pentru a vă putea bucura la maximum de ziua de plajă.", "category": "recreational", "coords": [-8.645284, 41.024708]}, {"name": "Galeria de Exposições do Centro Multimeios de Espinho", "text": "Un spațiu cultural de expoziție în Centrul Multimeios din Espinho pentru artă contemporană.", "category": "museum", "coords": [-8.638574, 41.006212]}, {"name": "Bingo - Casino Espinho", "text": "Un cunoscut centru de divertisment în Espinho, care oferă jocuri de cazinou și bingo.", "category": "landmark", "coords": [-8.645214, 41.008373]}, {"name": "Igreja de Nossa Senhora da Ajuda", "text": "Biserica principală neoclasică din Espinho, dedicată patroanei orașului.", "category": "religious", "coords": [-8.640349, 41.005652]}, {"name": "Câmara Municipal de Espinho", "text": "Clădirea administrativă a primăriei din Espinho, situată în inima orașului.", "category": "historical", "coords": [-8.639394, 41.008992]}, {"name": "Igreja de São Tiago de Silvalde", "text": "Un edificiu religios important în Silvalde, un cartier din Espinho.", "category": "religious", "coords": [-8.626167, 40.991849]}], "en": [{"name": "Praia de Silvalde", "text": "Along the coast of Espinho, this sandy Portuguese beach primarily attracts surfers and bathers. The sound of the Atlantic provides a dynamic yet relaxing backdrop. Visitors can dive into the waves or enjoy extensive sunbathing on the fine beach. Remember to pack plenty of sun protection for a carefree day by the sea.", "category": "recreational", "coords": [-8.64794, 40.987344]}, {"name": "Praia de Paramos", "text": "Those seeking silence will find it on this quiet stretch of beach not far from Espinho. The tranquil atmosphere provides a wonderful contrast to busier Portuguese coastal towns. Here, the focus is on relaxing sunbathing and listening to the ocean surf. Ideal for anyone wanting to simply unwind away from the hustle and bustle.", "category": "recreational", "coords": [-8.649105, 40.979996]}, {"name": "Museu Municipal de Espinho", "text": "A museum in Espinho exhibiting local history and art.", "category": "museum", "coords": [-8.644015, 40.999954]}, {"name": "Praia 37", "text": "Thanks to its central location, this popular beach in Espinho is an excellent starting point for coastal lovers in Portugal. A cheerful and often well-frequented environment awaits you, inviting you to stay. Bathers enjoy the easy accessibility and the fine sand beneath their feet. Setting off early is recommended to fully savor the fresh sea breeze.", "category": "recreational", "coords": [-8.646669, 41.003039]}, {"name": "Praia das Sereias", "text": "This inviting Portuguese sandy beach in Espinho is a wonderful place to find peace on the Atlantic. The relaxing coastal atmosphere attracts both couples and families to the shores. The fine sand is excellent for sunbathing, while the sound of the sea provides the background. Visiting in the late morning often secures the best spots right by the water.", "category": "recreational", "coords": [-8.647451, 41.001383]}, {"name": "Praia da Baía", "text": "As Espinho's central city beach, this location combines urban life with the Portuguese Atlantic flair. The atmosphere is consistently lively and offers a perfect blend of urban comfort and marine nature. Sun worshippers and water enthusiasts appreciate the short distances and the wide sandy area. An evening walk is particularly appealing here when the scenery is bathed in warm colors.", "category": "recreational", "coords": [-8.646802, 41.006914]}, {"name": "Praia dos Pescadores", "text": "This picturesque Portuguese beach in Espinho breathes the region's traditional fishing culture. Among local fishermen, an authentic and warm mood prevails on the edge of the Atlantic. Visitors can observe the fascinating hustle and bustle and enjoy long walks on the shore. Those who appreciate true coastal life should choose the early morning hours for a visit.", "category": "recreational", "coords": [-8.646932, 40.997674]}, {"name": "Praia de Espinho", "text": "Espinho's main beach impresses with its vast expanses of sand right on the Portuguese Atlantic. A lively yet spacious atmosphere makes it a magnet for sun worshippers from all over the world. The excellent conditions invite extensive swimming and relaxation. Especially in high season, it is advisable to arrive early to enjoy the expansive ambiance.", "category": "recreational", "coords": [-8.646155, 41.015839]}, {"name": "Praia de São Félix da Marinha", "text": "Far away from the large crowds, this Portuguese stretch of coast in Espinho offers a soothing silence. The gentle sea breeze and the wide view create an extremely calming atmosphere. This gem is predestined for extensive walks along the water or quiet sunbathing. Pack a good book to make your relaxing time by the ocean absolutely perfect.", "category": "recreational", "coords": [-8.646472, 41.029111]}, {"name": "Praia de Bocamar", "text": "As a charming refuge in Espinho, this Portuguese beach stands out with its contemplative tranquility. Anyone wanting to escape the urban hustle and bustle will find a peaceful and relaxed atmosphere here. Ideal for listening to the sound of the Atlantic and simply letting your thoughts wander. To ensure an undisturbed nature experience, avoiding the busier weekends is recommended.", "category": "recreational", "coords": [-8.646656, 41.032616]}, {"name": "Praia de Brito", "text": "In the coastal region around Espinho, this natural sandy beach attracts locals and travelers to Portugal alike. The unspoiled environment provides a grounded and relaxed seaside ambiance. Expansive sandy areas invite you to take soothing walks and enjoy extended sunbathing. Bring plenty of water and snacks with you to fully enjoy your beach day.", "category": "recreational", "coords": [-8.645284, 41.024708]}, {"name": "Galeria de Exposições do Centro Multimeios de Espinho", "text": "A cultural exhibition space within the Multimeios Center of Espinho for contemporary art.", "category": "museum", "coords": [-8.638574, 41.006212]}, {"name": "Bingo - Casino Espinho", "text": "A well-known entertainment center in Espinho offering casino games and bingo.", "category": "landmark", "coords": [-8.645214, 41.008373]}, {"name": "Igreja de Nossa Senhora da Ajuda", "text": "The neoclassical main church of Espinho, dedicated to the city's patron saint.", "category": "religious", "coords": [-8.640349, 41.005652]}, {"name": "Câmara Municipal de Espinho", "text": "The administrative building of Espinho's city council, located in the heart of the city.", "category": "historical", "coords": [-8.639394, 41.008992]}, {"name": "Igreja de São Tiago de Silvalde", "text": "A significant religious building in Silvalde, a district of Espinho.", "category": "religious", "coords": [-8.626167, 40.991849]}]},
+    id: "portugal-espinho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Silvalde",
+                  "text": "Entlang der Küste von Espinho zieht dieser portugiesische Sandstrand vor allem Surfer und Badegäste an. Das Rauschen des Atlantiks sorgt für eine dynamische, aber dennoch entspannte Kulisse. Besucher können sich in die Wellen stürzen oder ausgiebige Sonnenbäder am feinen Strand genießen. Vergessen Sie nicht, ausreichend Sonnenschutz für einen unbeschwerten Tag am Meer einzupacken.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.64794,
+                        40.987344
+                  ]
+            },
+            {
+                  "name": "Praia de Paramos",
+                  "text": "Wer die Stille sucht, wird an diesem ruhigen Strandabschnitt unweit von Espinho fündig. Die beschauliche Atmosphäre bietet einen wunderbaren Kontrast zu belebteren portugiesischen Küstenorten. Hier steht entspanntes Sonnenbaden und das Lauschen der Meeresbrandung im Vordergrund. Ideal für alle, die abseits des Trubels einfach mal die Seele baumeln lassen möchten.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.649105,
+                        40.979996
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Espinho",
+                  "text": "Ein Museum in Espinho, das lokale Geschichte und Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644015,
+                        40.999954
+                  ]
+            },
+            {
+                  "name": "Praia 37",
+                  "text": "Dank seiner zentralen Lage ist dieser beliebte Strand in Espinho ein hervorragender Ausgangspunkt für Küstenliebhaber in Portugal. Es erwartet Sie ein fröhliches und meist gut besuchtes Umfeld, das zum Verweilen einlädt. Badegäste erfreuen sich an der leichten Erreichbarkeit und dem feinen Sand unter den Füßen. Es empfiehlt sich, früh aufzubrechen, um die frische Meeresbrise in vollen Zügen auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646669,
+                        41.003039
+                  ]
+            },
+            {
+                  "name": "Praia das Sereias",
+                  "text": "Dieser einladende portugiesische Sandstrand in Espinho ist ein wunderbarer Ort, um am Atlantik zur Ruhe zu kommen. Die entspannte Küstenatmosphäre lockt sowohl Paare als auch Familien an die Ufer. Auf dem feinen Sand lässt es sich hervorragend sonnenbaden, während das Rauschen des Meeres den Hintergrund untermalt. Ein Besuch am späten Vormittag bietet oft die besten Plätze direkt am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.647451,
+                        41.001383
+                  ]
+            },
+            {
+                  "name": "Praia da Baía",
+                  "text": "Als zentraler Stadtstrand von Espinho vereint dieser Ort urbanes Leben mit dem portugiesischen Atlantikflair. Die Atmosphäre ist durchweg belebt und bietet eine perfekte Mischung aus städtischem Komfort und Meeresnatur. Sonnenanbeter und Wasserratten schätzen die kurzen Wege und den breiten Sandbereich. Ein Abendspaziergang ist hier besonders reizvoll, wenn sich die Kulisse in warme Farben taucht.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646802,
+                        41.006914
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "Dieser malerische portugiesische Strand in Espinho atmet die traditionelle Fischereikultur der Region. Zwischen einheimischen Fischern herrscht eine authentische und herzliche Stimmung am Rande des Atlantiks. Besucher können das faszinierende Treiben beobachten und lange Spaziergänge am Ufer genießen. Wer das echte Küstenleben schätzt, sollte die frühen Morgenstunden für einen Besuch wählen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646932,
+                        40.997674
+                  ]
+            },
+            {
+                  "name": "Praia de Espinho",
+                  "text": "Der Hauptstrand von Espinho beeindruckt mit seinen weiten Sandflächen direkt am portugiesischen Atlantik. Eine lebhafte und zugleich weite Atmosphäre macht ihn zum Anziehungspunkt für Sonnenanbeter aus aller Welt. Die exzellenten Bedingungen laden zum ausgiebigen Baden und Entspannen ein. Besonders in der Hochsaison ist es ratsam, frühzeitig zu kommen, um das weitläufige Ambiente zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646155,
+                        41.015839
+                  ]
+            },
+            {
+                  "name": "Praia de São Félix da Marinha",
+                  "text": "Fernab der großen Menschenmengen bietet dieser portugiesische Küstenabschnitt in Espinho eine wohltuende Stille. Die sanfte Meeresbrise und die weite Sicht schaffen eine überaus beruhigende Atmosphäre. Für ausgiebige Spaziergänge am Wasser oder ruhiges Sonnenbaden ist dieses Kleinod prädestiniert. Packen Sie sich ein gutes Buch ein, um die entspannte Zeit am Ozean perfekt zu machen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646472,
+                        41.029111
+                  ]
+            },
+            {
+                  "name": "Praia de Bocamar",
+                  "text": "Als charmanter Zufluchtsort in Espinho zeichnet sich dieser portugiesische Strand durch seine beschauliche Ruhe aus. Wer dem städtischen Trubel entkommen möchte, findet hier eine friedliche und entspannte Atmosphäre. Ideal, um dem Rauschen des Atlantiks zuzuhören und einfach die Gedanken schweifen zu lassen. Für ein ungestörtes Naturerlebnis empfiehlt es sich, die belebteren Wochenenden zu meiden.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646656,
+                        41.032616
+                  ]
+            },
+            {
+                  "name": "Praia de Brito",
+                  "text": "In der Küstenregion um Espinho lockt dieser natürliche Sandstrand Einheimische und Portugalreisende gleichermaßen an. Die naturbelassene Umgebung sorgt für ein bodenständiges und entspanntes Ambiente am Meer. Weite Sandflächen laden zu erholsamen Spaziergängen und ausgedehnten Sonnenbädern ein. Bringen Sie ausreichend Wasser und Snacks mit, um den Strandtag in vollen Zügen genießen zu können.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.645284,
+                        41.024708
+                  ]
+            },
+            {
+                  "name": "Galeria de Exposições do Centro Multimeios de Espinho",
+                  "text": "Ein kultureller Ausstellungsraum im Multimeios-Zentrum von Espinho für zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -8.638574,
+                        41.006212
+                  ]
+            },
+            {
+                  "name": "Bingo - Casino Espinho",
+                  "text": "Ein bekanntes Unterhaltungszentrum in Espinho, das Casino-Spiele und Bingo anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.645214,
+                        41.008373
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Ajuda",
+                  "text": "Die neoklassizistische Hauptkirche von Espinho, gewidmet der Schutzpatronin der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -8.640349,
+                        41.005652
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Espinho",
+                  "text": "Das Verwaltungsgebäude der Stadtverwaltung von Espinho im Herzen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.639394,
+                        41.008992
+                  ]
+            },
+            {
+                  "name": "Igreja de São Tiago de Silvalde",
+                  "text": "Ein bedeutendes religiöses Bauwerk in Silvalde, einem Ortsteil von Espinho.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626167,
+                        40.991849
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal da Granja Semiaberta",
+                  "text": "Halboffenes städtisches Schwimmbad in Espinho, ideal für ganzjährigen Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        -8.650456,
+                        41.041862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Silvalde",
+                  "text": "Espinho partvidéke mentén ez a portugál homokos strand elsősorban a szörfösöket és a fürdőzőket vonzza. Az Atlanti-óceán zúgása dinamikus, mégis pihentető hátteret biztosít. A látogatók belevethetik magukat a hullámokba, vagy hosszas napfürdőzést tarthatnak a finom homokban. Ne felejtsen el megfelelő napvédelmet csomagolni egy gondtalan tengerparti naphoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.64794,
+                        40.987344
+                  ]
+            },
+            {
+                  "name": "Praia de Paramos",
+                  "text": "Aki csendre vágyik, az ezen az Espinho közelében fekvő, nyugodt partszakaszon megtalálja számítását. A békés atmoszféra csodás kontrasztot nyújt a forgalmasabb portugál tengerparti településekkel szemben. Itt a pihentető napozás és a tenger morajlásának hallgatása kerül előtérbe. Ideális mindazok számára, akik a nyüzsgéstől távol, egyszerűen csak kikapcsolódni szeretnének.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.649105,
+                        40.979996
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Espinho",
+                  "text": "Espinho városi múzeuma, amely helytörténeti és művészeti kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644015,
+                        40.999954
+                  ]
+            },
+            {
+                  "name": "Praia 37",
+                  "text": "Központi elhelyezkedésének köszönhetően ez az espinhoi kedvelt strand kiváló kiindulópont a tengerpart portugál szerelmeseinek. Vidám és többnyire látogatott környezet várja itt, amely maradásra csábít. A fürdőzők élvezhetik a könnyű megközelíthetőséget és a finom homokot a talpuk alatt. Érdemes korán indulni, hogy a friss tengeri szellőt a legteljesebb mértékben kiélvezhessük.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646669,
+                        41.003039
+                  ]
+            },
+            {
+                  "name": "Praia das Sereias",
+                  "text": "Ez a hívogató portugál homokos strand Espinhóban csodálatos hely a megnyugvásra az Atlanti-óceán partján. A pihentető tengerparti légkör párokat és családokat egyaránt a partra csalogat. A finom homokban kiválóan lehet napozni, miközben a tenger morajlása adja a hátteret. Egy késő délelőtti látogatás gyakran a legjobb helyeket kínálja közvetlenül a víz mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.647451,
+                        41.001383
+                  ]
+            },
+            {
+                  "name": "Praia da Baía",
+                  "text": "Espinho központi városi strandjaként ez a hely egyesíti a városi életet a portugál atlanti hangulattal. A légkör mindvégig élénk, és a városi kényelem, valamint a tengeri természet tökéletes keverékét nyújtja. A napimádók és a víz szerelmesei értékelik a rövid távolságokat és a széles homokos területet. Egy esti séta itt különösen vonzó, amikor a táj meleg színekbe burkolózik.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646802,
+                        41.006914
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "Ez a festői portugál strand Espinhóban a régió hagyományos halászkultúráját lélegzi. A helyi halászok között autentikus és szívélyes hangulat uralkodik az Atlanti-óceán partján. A látogatók megfigyelhetik a lenyűgöző sürgés-forgást, és hosszú sétákat tehetnek a parton. Aki értékeli a valódi tengerparti életet, annak a kora reggeli órákat érdemes választania a látogatáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646932,
+                        40.997674
+                  ]
+            },
+            {
+                  "name": "Praia de Espinho",
+                  "text": "Espinho fő strandja széles homokos területeivel nyűgöz le közvetlenül a portugál Atlanti-óceánnál. Az élénk, ugyanakkor tágas atmoszféra a világ minden tájáról érkező napimádók vonzerejévé teszi. A kiváló feltételek hosszas fürdőzésre és pihenésre csábítanak. Különösen főszezonban ajánlott korán érkezni, hogy maradéktalanul élvezhessük a kiterjedt környezetet.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646155,
+                        41.015839
+                  ]
+            },
+            {
+                  "name": "Praia de São Félix da Marinha",
+                  "text": "A nagy tömegektől távol, ez az Espinhóban található portugál partszakasz jótékony csendet kínál. A lágy tengeri szellő és a széles látóhatár rendkívül megnyugtató légkört teremt. Ez az ékszerdoboz egyenesen hivatott a hosszas vízparti sétákra vagy a nyugodt napozásra. Csomagoljon be egy jó könyvet, hogy tökéletessé tegye az óceán melletti pihentető időt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646472,
+                        41.029111
+                  ]
+            },
+            {
+                  "name": "Praia de Bocamar",
+                  "text": "Bájos menedékhelyként Espinhóban ez a portugál strand elmélkedő nyugalmával tűnik ki. Aki szeretne elmenekülni a városi forgatag elől, itt békés és pihentető légkörre talál. Ideális az Atlanti-óceán zúgásának hallgatásához és a gondolatok szabadon engedéséhez. A zavartalan természeti élmény érdekében érdemes elkerülni a forgalmasabb hétvégéket.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646656,
+                        41.032616
+                  ]
+            },
+            {
+                  "name": "Praia de Brito",
+                  "text": "Espinho partvidéki régiójában ez a természetes homokos strand egyaránt vonzza a helyieket és a Portugáliába utazókat. A természetközeli környezet földhözragadt és pihentető tengerparti hangulatot biztosít. A széles homokos területek pihentető sétákra és hosszas napozásra hívogatnak. Hozzon magával elegendő vizet és harapnivalót, hogy a strandolós napot a legteljesebb mértékben élvezhesse.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.645284,
+                        41.024708
+                  ]
+            },
+            {
+                  "name": "Galeria de Exposições do Centro Multimeios de Espinho",
+                  "text": "Kulturális kiállítótér az Espinho-i Multimeios Központban a kortárs művészetek számára.",
+                  "category": "museum",
+                  "coords": [
+                        -8.638574,
+                        41.006212
+                  ]
+            },
+            {
+                  "name": "Bingo - Casino Espinho",
+                  "text": "Ismert szórakoztató központ Espinhóban, amely kaszinójátékokat és bingót kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.645214,
+                        41.008373
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Ajuda",
+                  "text": "Espinho neoklasszicista főtemploma, amelyet a város védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.640349,
+                        41.005652
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Espinho",
+                  "text": "Espinho városi tanácsának adminisztratív épülete a város szívében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.639394,
+                        41.008992
+                  ]
+            },
+            {
+                  "name": "Igreja de São Tiago de Silvalde",
+                  "text": "Jelentős vallási épület Silvaldéban, Espinho egyik negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626167,
+                        40.991849
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal da Granja Semiaberta",
+                  "text": "Félig nyitott városi úszómedence Espinhóban, amely ideális az egész éves vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.650456,
+                        41.041862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Silvalde",
+                  "text": "De-a lungul coastei din Espinho, această plajă portugheză cu nisip atrage în special surferi și înotători. Sunetul Atlanticului oferă un fundal dinamic, dar în același timp relaxant. Vizitatorii se pot arunca în valuri sau se pot bucura de băi de soare prelungite pe plaja fină. Nu uitați să luați suficientă cremă de protecție solară pentru o zi fără griji la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.64794,
+                        40.987344
+                  ]
+            },
+            {
+                  "name": "Praia de Paramos",
+                  "text": "Cei care caută liniștea o vor găsi pe această porțiune de plajă calmă, nu departe de Espinho. Atmosfera contemplativă oferă un contrast minunat față de stațiunile de coastă portugheze mai aglomerate. Aici, accentul se pune pe plaja relaxantă și pe ascultarea valurilor mării. Ideal pentru toți cei care doresc pur și simplu să se relaxeze departe de agitație.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.649105,
+                        40.979996
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Espinho",
+                  "text": "Un muzeu în Espinho ce expune istoria și arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644015,
+                        40.999954
+                  ]
+            },
+            {
+                  "name": "Praia 37",
+                  "text": "Datorită locației sale centrale, această plajă populară din Espinho este un punct de plecare excelent pentru iubitorii de coastă din Portugalia. Vă așteaptă un mediu vesel și adesea frecventat, care vă invită să rămâneți. Înotătorii se bucură de accesul ușor și de nisipul fin sub picioare. Este recomandat să plecați devreme pentru a savura din plin briza proaspătă a mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646669,
+                        41.003039
+                  ]
+            },
+            {
+                  "name": "Praia das Sereias",
+                  "text": "Această plajă portugheză primitoare cu nisip din Espinho este un loc minunat pentru a vă găsi liniștea pe malul Atlanticului. Atmosfera relaxată a coastei atrage deopotrivă cupluri și familii pe țărm. Pe nisipul fin este excelent să faceți plajă, în timp ce sunetul mării creează fundalul perfect. O vizită dimineața târziu oferă adesea cele mai bune locuri chiar lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.647451,
+                        41.001383
+                  ]
+            },
+            {
+                  "name": "Praia da Baía",
+                  "text": "Ca plajă centrală a orașului Espinho, acest loc combină viața urbană cu flerul atlantic portughez. Atmosfera este constant animată și oferă o fuziune perfectă de confort urban și natura mării. Iubitorii de soare și entuziaștii apei apreciază distanțele scurte și zona largă de nisip. O plimbare de seară este deosebit de atrăgătoare aici, când peisajul este scăldat în culori calde.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646802,
+                        41.006914
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "Această plajă portugheză pitorească din Espinho respiră cultura tradițională de pescuit a regiunii. Printre pescarii locali domnește o atmosferă autentică și caldă pe malul Atlanticului. Vizitatorii pot urmări forfota fascinantă și se pot bucura de plimbări lungi pe țărm. Cei care apreciază viața de coastă veritabilă ar trebui să aleagă primele ore ale dimineții pentru o vizită.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646932,
+                        40.997674
+                  ]
+            },
+            {
+                  "name": "Praia de Espinho",
+                  "text": "Plaja principală din Espinho impresionează prin suprafețele sale întinse de nisip aflate chiar la Atlanticul portughez. O atmosferă plină de viață și în același timp spațioasă o transformă într-un magnet pentru iubitorii de soare din întreaga lume. Condițiile excelente vă invită să vă bucurați din plin de înot și relaxare. Mai ales în plin sezon, este recomandat să sosiți devreme pentru a vă bucura de ambianța vastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646155,
+                        41.015839
+                  ]
+            },
+            {
+                  "name": "Praia de São Félix da Marinha",
+                  "text": "Departe de aglomerație, această secțiune de coastă portugheză din Espinho oferă o liniște reconfortantă. Briza blândă a mării și priveliștea largă creează o atmosferă extrem de calmantă. Această bijuterie este predestinată pentru plimbări prelungite pe malul apei sau pentru băi de soare liniștite. Luați o carte bună cu dumneavoastră pentru a face ca timpul relaxant la ocean să fie perfect.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646472,
+                        41.029111
+                  ]
+            },
+            {
+                  "name": "Praia de Bocamar",
+                  "text": "Ca un refugiu fermecător în Espinho, această plajă portugheză se remarcă prin liniștea sa contemplativă. Oricine dorește să scape de agitația orașului va găsi aici o atmosferă pașnică și relaxantă. Ideal pentru a asculta sunetul Atlanticului și a lăsa pur și simplu gândurile să rătăcească. Pentru o experiență netulburată în natură, este recomandat să evitați weekendurile mai aglomerate.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646656,
+                        41.032616
+                  ]
+            },
+            {
+                  "name": "Praia de Brito",
+                  "text": "În regiunea de coastă din jurul orașului Espinho, această plajă naturală cu nisip atrage atât localnici, cât și călători în Portugalia. Mediul natural asigură o ambianță autentică și relaxată la mare. Suprafețele mari de nisip vă invită la plimbări liniștitoare și băi lungi de soare. Aduceți multă apă și gustări pentru a vă putea bucura la maximum de ziua de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.645284,
+                        41.024708
+                  ]
+            },
+            {
+                  "name": "Galeria de Exposições do Centro Multimeios de Espinho",
+                  "text": "Un spațiu cultural de expoziție în Centrul Multimeios din Espinho pentru artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -8.638574,
+                        41.006212
+                  ]
+            },
+            {
+                  "name": "Bingo - Casino Espinho",
+                  "text": "Un cunoscut centru de divertisment în Espinho, care oferă jocuri de cazinou și bingo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.645214,
+                        41.008373
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Ajuda",
+                  "text": "Biserica principală neoclasică din Espinho, dedicată patroanei orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -8.640349,
+                        41.005652
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Espinho",
+                  "text": "Clădirea administrativă a primăriei din Espinho, situată în inima orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.639394,
+                        41.008992
+                  ]
+            },
+            {
+                  "name": "Igreja de São Tiago de Silvalde",
+                  "text": "Un edificiu religios important în Silvalde, un cartier din Espinho.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626167,
+                        40.991849
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal da Granja Semiaberta",
+                  "text": "Piscină municipală semi-deschisă în Espinho, ideală pentru distracție acvatică pe tot parcursul anului.",
+                  "category": "family",
+                  "coords": [
+                        -8.650456,
+                        41.041862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Silvalde",
+                  "text": "Along the coast of Espinho, this sandy Portuguese beach primarily attracts surfers and bathers. The sound of the Atlantic provides a dynamic yet relaxing backdrop. Visitors can dive into the waves or enjoy extensive sunbathing on the fine beach. Remember to pack plenty of sun protection for a carefree day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.64794,
+                        40.987344
+                  ]
+            },
+            {
+                  "name": "Praia de Paramos",
+                  "text": "Those seeking silence will find it on this quiet stretch of beach not far from Espinho. The tranquil atmosphere provides a wonderful contrast to busier Portuguese coastal towns. Here, the focus is on relaxing sunbathing and listening to the ocean surf. Ideal for anyone wanting to simply unwind away from the hustle and bustle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.649105,
+                        40.979996
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Espinho",
+                  "text": "A museum in Espinho exhibiting local history and art.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644015,
+                        40.999954
+                  ]
+            },
+            {
+                  "name": "Praia 37",
+                  "text": "Thanks to its central location, this popular beach in Espinho is an excellent starting point for coastal lovers in Portugal. A cheerful and often well-frequented environment awaits you, inviting you to stay. Bathers enjoy the easy accessibility and the fine sand beneath their feet. Setting off early is recommended to fully savor the fresh sea breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646669,
+                        41.003039
+                  ]
+            },
+            {
+                  "name": "Praia das Sereias",
+                  "text": "This inviting Portuguese sandy beach in Espinho is a wonderful place to find peace on the Atlantic. The relaxing coastal atmosphere attracts both couples and families to the shores. The fine sand is excellent for sunbathing, while the sound of the sea provides the background. Visiting in the late morning often secures the best spots right by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.647451,
+                        41.001383
+                  ]
+            },
+            {
+                  "name": "Praia da Baía",
+                  "text": "As Espinho's central city beach, this location combines urban life with the Portuguese Atlantic flair. The atmosphere is consistently lively and offers a perfect blend of urban comfort and marine nature. Sun worshippers and water enthusiasts appreciate the short distances and the wide sandy area. An evening walk is particularly appealing here when the scenery is bathed in warm colors.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646802,
+                        41.006914
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "This picturesque Portuguese beach in Espinho breathes the region's traditional fishing culture. Among local fishermen, an authentic and warm mood prevails on the edge of the Atlantic. Visitors can observe the fascinating hustle and bustle and enjoy long walks on the shore. Those who appreciate true coastal life should choose the early morning hours for a visit.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646932,
+                        40.997674
+                  ]
+            },
+            {
+                  "name": "Praia de Espinho",
+                  "text": "Espinho's main beach impresses with its vast expanses of sand right on the Portuguese Atlantic. A lively yet spacious atmosphere makes it a magnet for sun worshippers from all over the world. The excellent conditions invite extensive swimming and relaxation. Especially in high season, it is advisable to arrive early to enjoy the expansive ambiance.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646155,
+                        41.015839
+                  ]
+            },
+            {
+                  "name": "Praia de São Félix da Marinha",
+                  "text": "Far away from the large crowds, this Portuguese stretch of coast in Espinho offers a soothing silence. The gentle sea breeze and the wide view create an extremely calming atmosphere. This gem is predestined for extensive walks along the water or quiet sunbathing. Pack a good book to make your relaxing time by the ocean absolutely perfect.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646472,
+                        41.029111
+                  ]
+            },
+            {
+                  "name": "Praia de Bocamar",
+                  "text": "As a charming refuge in Espinho, this Portuguese beach stands out with its contemplative tranquility. Anyone wanting to escape the urban hustle and bustle will find a peaceful and relaxed atmosphere here. Ideal for listening to the sound of the Atlantic and simply letting your thoughts wander. To ensure an undisturbed nature experience, avoiding the busier weekends is recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.646656,
+                        41.032616
+                  ]
+            },
+            {
+                  "name": "Praia de Brito",
+                  "text": "In the coastal region around Espinho, this natural sandy beach attracts locals and travelers to Portugal alike. The unspoiled environment provides a grounded and relaxed seaside ambiance. Expansive sandy areas invite you to take soothing walks and enjoy extended sunbathing. Bring plenty of water and snacks with you to fully enjoy your beach day.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.645284,
+                        41.024708
+                  ]
+            },
+            {
+                  "name": "Galeria de Exposições do Centro Multimeios de Espinho",
+                  "text": "A cultural exhibition space within the Multimeios Center of Espinho for contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        -8.638574,
+                        41.006212
+                  ]
+            },
+            {
+                  "name": "Bingo - Casino Espinho",
+                  "text": "A well-known entertainment center in Espinho offering casino games and bingo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.645214,
+                        41.008373
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Ajuda",
+                  "text": "The neoclassical main church of Espinho, dedicated to the city's patron saint.",
+                  "category": "religious",
+                  "coords": [
+                        -8.640349,
+                        41.005652
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Espinho",
+                  "text": "The administrative building of Espinho's city council, located in the heart of the city.",
+                  "category": "historical",
+                  "coords": [
+                        -8.639394,
+                        41.008992
+                  ]
+            },
+            {
+                  "name": "Igreja de São Tiago de Silvalde",
+                  "text": "A significant religious building in Silvalde, a district of Espinho.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626167,
+                        40.991849
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal da Granja Semiaberta",
+                  "text": "Semi-open municipal swimming pool in Espinho, ideal for year-round water fun.",
+                  "category": "family",
+                  "coords": [
+                        -8.650456,
+                        41.041862
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Espinho", hu: "Espinho", ro: "Espinho", en: "Espinho" },
@@ -4541,6 +12686,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.468164,
                         39.465391
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais do Entroncamento",
+                  "text": "Städtische Schwimmbäder in Entroncamento für Sport und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        -8.465824,
+                        39.477148
+                  ]
             }
       ],
       "hu": [
@@ -4569,6 +12723,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.468164,
                         39.465391
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais do Entroncamento",
+                  "text": "Városi úszómedencék Entroncamento területén sporthoz és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        -8.465824,
+                        39.477148
                   ]
             }
       ],
@@ -4599,6 +12762,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.468164,
                         39.465391
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais do Entroncamento",
+                  "text": "Piscine municipale în Entroncamento pentru sport și agrement.",
+                  "category": "family",
+                  "coords": [
+                        -8.465824,
+                        39.477148
+                  ]
             }
       ],
       "en": [
@@ -4627,6 +12799,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.468164,
                         39.465391
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais do Entroncamento",
+                  "text": "Municipal swimming pools in Entroncamento for sports and leisure.",
+                  "category": "family",
+                  "coords": [
+                        -8.465824,
+                        39.477148
                   ]
             }
       ]
@@ -6376,7 +14557,1132 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-arcos-de-valdevez-cities-v2.webp",
   },
   {
-    id: "portugal-albufeira-cities-v2", "sights": {"de": [{"name": "Praia de Santa Eulália", "text": "Gesegnet mit herrlich ruhigem Wasser, ruht die Praia de Santa Eulália friedlich in der Nähe der lebhaften Stadt Albufeira. Dieser beliebte Sandstrand strahlt eine fröhliche und zutiefst entspannende Energie aus. Besucher können sich auf wunderbare Badebedingungen und eine einladende Küste freuen, die wie geschaffen für ein ausgedehntes Sonnenbad ist. Ein gutes Buch ist der perfekte Begleiter, um das ruhige Tempo dieser schönen Bucht zu genießen.", "category": "recreational", "coords": [-8.213484, 37.087686]}, {"name": "Praia dos Pescadores", "text": "Geziert von traditionellen Fischerbooten, ist die Praia dos Pescadores ein wahrhaft ikonisches Wahrzeichen an der sonnigen Küste von Albufeira. Eine lebendige, historische Atmosphäre umgibt die weite Sandfläche und verbindet die maritimen Wurzeln der Stadt mit modernem Strandleben. Sonnenanbeter und Badegäste können die Kultur auf sich wirken lassen, während sie im klaren Ozean schwimmen. Ein morgendlicher Besuch bietet die Chance, die Sonne über den ruhenden Holzbooten aufgehen zu sehen.", "category": "recreational", "coords": [-8.250091, 37.086563]}, {"name": "Praia do Peneco", "text": "Durch einen faszinierenden Tunnel direkt aus der Altstadt von Albufeira erreichbar, ist die Praia do Peneco ein kleines Wunder aus Natur und Architektur. Der nahtlose Übergang von kopfsteingepflasterten Gassen zum weiten Sandstrand schafft eine lebendig-einzigartige Atmosphäre. Man kann hier wunderbar zwischen einem Sprung in den Ozean, entspanntem Sonnenbaden und der Erkundung der historischen Gassen wechseln. Dieser Strand ist ungemein praktisch für alle, die das Meer und den städtischen Komfort gleichzeitig schätzen.", "category": "recreational", "coords": [-8.253657, 37.086098]}, {"name": "Praia dos Alemães", "text": "Die Praia dos Alemães erstreckt sich majestätisch in fußläufiger Entfernung zum Zentrum von Albufeira und besticht durch eine einladende, weite Sandküste. Die weitläufige Umgebung sorgt für eine luftige, offene Stimmung, in der sich weder Gruppen noch Alleinreisende eingeengt fühlen. Die großzügigen Ausmaße eignen sich hervorragend für lange Strandspaziergänge und ungestörte Entspannung am Meer. Ein kleines Picknick ist eine wunderbare Idee, um den vielen Platz am Ufer optimal zu nutzen.", "category": "recreational", "coords": [-8.237966, 37.084011]}, {"name": "Praia dos Aveiros", "text": "Verborgen an der Küste von Albufeira, ist die Praia dos Aveiros eine kleine, wunderbar geschützte Strandenklave. Die windgeschützte geografische Lage fördert eine zutiefst intime und beruhigende Atmosphäre. Besucher dürfen sich auf herrliche, ruhige Schwimmbedingungen und einen perfekten Ort für ungestörte Stunden im Sand freuen. Aufgrund der charmant begrenzten Größe dieser Bucht ist es ratsam, sich früh am Tag ein Plätzchen zu sichern.", "category": "recreational", "coords": [-8.231314, 37.083406]}, {"name": "Museu Municipal de Arqueologia", "text": "Museum mit archäologischen Funden aus der Region Albufeira.", "category": "museum", "coords": [-8.251979, 37.087076]}, {"name": "Praia dos Arrifes", "text": "Geprägt von malerischen Felsformationen, präsentiert sich die Praia dos Arrifes als visuell atemberaubende kleine Bucht in Albufeira. Die Atmosphäre wirkt naturbelassen und doch schützend, was besonders Naturliebhaber und Fotografen anspricht. Zwischen einem entspannten Sonnenbad und erfrischenden Sprüngen ins Wasser lassen sich die bizarren, vom Atlantik geformten Gesteinsstrukturen bewundern. Bei Erkundungen nahe der felsigen Kanten können vernünftige Badeschuhe sehr nützlich sein.", "category": "recreational", "coords": [-8.277528, 37.075921]}, {"name": "Praia da Oura", "text": "In unmittelbarer Nähe zu Albufeiras energiegeladenem Ausgehviertel gelegen, pulsiert die Praia da Oura mit einem lebendigen Küstengeist. Die fröhliche, dynamische Stimmung macht den Strand zur ersten Wahl für alle, die Badespaß am Tag mit abendlicher Geselligkeit verbinden möchten. Klares Wasser zum Schwimmen und ein belebtes Sandufer zum Sonnenbaden versprechen einen rundum unterhaltsamen Tag. Dies ist der perfekte Ort, wenn man einen sonnenverwöhnten Nachmittag nahtlos in eine festliche Nacht übergehen lassen möchte.", "category": "recreational", "coords": [-8.223371, 37.085311]}, {"name": "Praia do Inatel", "text": "Die Praia do Inatel erstreckt sich wunderschön entlang der Küste von Albufeira und ist ein langer, sandiger Zufluchtsort, der bei Familien und internationalen Touristen gleichermaßen geschätzt wird. Die Umgebung schafft eine einladende Balance zwischen aktiven Strandspielen und erholsamer Ruhe. Egal ob man Sandburgen baut, im Ozean watet oder sich einfach in der Sonne ausstreckt, es gibt reichlich Platz für alle. Wer ein paar Strandspiele einpackt, wird die Freude an einem kompletten Familientag hier zweifellos noch steigern.", "category": "recreational", "coords": [-8.245228, 37.08577]}, {"name": "Museu de Arte Sacra", "text": "Ein Museum für sakrale Kunst in einer ehemaligen Kapelle in Albufeira.", "category": "museum", "coords": [-8.254053, 37.087009]}, {"name": "Parque Aventura Albufeira", "text": "Ein Abenteuerpark mit Outdoor-Aktivitäten wie Hochseilgärten in Albufeira.", "category": "family", "coords": [-8.21413, 37.091722]}, {"name": "Praia da Baleeira", "text": "Versteckt in der Nähe des geschäftigen Yachthafens von Albufeira gelegen, bietet die Praia da Baleeira eine außergewöhnlich ruhige Alternative zu den Hauptstränden der Stadt. Sie verströmt eine friedliche, besinnliche Atmosphäre, die wie Balsam für reisemüde Seelen wirkt. Ruhiges Wasser und eine beschauliche Küstenlinie machen sie zu einem hervorragenden Ort für friedliches Schwimmen und nachdenkliches Sonnenbaden. Wer den Weg früh am Tag hierher findet, wird oft mit einem fast exklusiven Zugang zu diesem idyllischen Sandstrand belohnt.", "category": "recreational", "coords": [-8.262189, 37.081766]}, {"name": "Praia da Pedra dos Bicos", "text": "Bekannt für ihre markanten, zerklüfteten Felsformationen, bietet die Praia da Pedra dos Bicos ein visuell fesselndes Küstenerlebnis in Albufeira. Die raue Kulisse bringt einen Hauch dramatischer Natur in den ansonsten herrlich ruhigen Strandtag. Besucher finden große Freude daran, sich in der Sonne zu entspannen und behutsam die einzigartig geformten Küstenränder zu erkunden. Wer bis zum späten Nachmittag bleibt, kann oft wunderschöne Schatten beobachten, die über die schroffen Klippen tanzen.", "category": "recreational", "coords": [-8.218348, 37.085055]}, {"name": "Praia do Risco", "text": "Als wunderbar abgelegener Abschnitt an Albufeiras Küstenlinie stellt die Praia do Risco den ultimativen Rückzugsort am Ozean dar. Die vorherrschende Atmosphäre ist unglaublich einsam und pur, weit entfernt von den typisch geschäftigen Sommermassen. Hier bietet sich die perfekte Gelegenheit für stille Spaziergänge am Meer, ungestörtes Lesen oder das bloße Lauschen auf die rhythmischen Atlantikwellen. Eigene Getränke und ein kleiner Snack sollten unbedingt mitgebracht werden, da gerade die Abgeschiedenheit den Reiz dieses Ortes ausmacht.", "category": "recreational", "coords": [-8.264317, 37.079659]}, {"name": "Castelo de Albufeira", "text": "Überreste der alten Burgbefestigungen in der Altstadt von Albufeira.", "category": "historical", "coords": [-8.251622, 37.087993]}, {"name": "Miradouro do Pau da Bandeira", "text": "Ein berühmter Aussichtspunkt mit Blick auf die Altstadt und das Meer.", "category": "natural", "coords": [-8.248133, 37.086884]}, {"name": "Miradouro Rossio", "text": "Ein Aussichtspunkt mit weitem Blick auf die Atlantikküste.", "category": "natural", "coords": [-8.256806, 37.084108]}, {"name": "Miradouro Rua Latino Coelho", "text": "Ein erhöhter Punkt mit Panoramaaussicht auf die Küste von Albufeira.", "category": "natural", "coords": [-8.255562, 37.084956]}, {"name": "AlgarExperience", "text": "Anbieter von Bootstouren und Meeresaktivitäten in Albufeira.", "category": "landmark", "coords": [-8.266864, 37.084992]}, {"name": "Gipsy Market", "text": "Der Gipsy Market in Albufeira ist ein lokaler Freiluftmarkt mit verschiedenen Waren.", "category": "landmark", "coords": [-8.272272, 37.0844]}, {"name": "Livraria da Praia dos Arrifes", "text": "In unmittelbarer Nähe der malerischen Praia dos Arrifes gelegen, bereichert die Livraria da Praia dos Arrifes die Küste von Albufeira um eine besondere Sehenswürdigkeit. Die direkte Umgebung teilt den entspannten, leicht rauen maritimen Charme der benachbarten Bucht. Dieser Ort ist ein wunderbarer Anlass, die eigentliche Sandfläche zu verlassen und die faszinierende Küstenumgebung zu erkunden. Ein Besuch lässt sich hervorragend mit einem nachmittäglichen Badeausflug zu einem rundum gelungenen Tag kombinieren.", "category": "landmark", "coords": [-8.276299, 37.076782]}, {"name": "Câmara Municipal de Albufeira", "text": "Die Câmara Municipal ist das Rathaus und das Verwaltungszentrum von Albufeira.", "category": "historical", "coords": [-8.24572, 37.090079]}, {"name": "Lago Artificial", "text": "Der Lago Artificial ist ein künstlich angelegter See in Albufeira.", "category": "natural", "coords": [-8.238252, 37.089352]}, {"name": "Lagoa dos Salgados", "text": "Die Lagoa dos Salgados ist ein naturbelassener See in Albufeira, ideal für Naturbeobachtungen.", "category": "natural", "coords": [-8.331019, 37.095736]}, {"name": "Minigolf Albufeira", "text": "Minigolf Albufeira bietet Freizeitspaß für die ganze Familie in Albufeira.", "category": "family", "coords": [-8.235639, 37.091057]}], "hu": [{"name": "Praia de Santa Eulália", "text": "A csodálatosan nyugodt vizekkel megáldott Praia de Santa Eulália békésen terül el a pezsgő Albufeira városának közelében. Ez a népszerű homokos strand vidám és mélyen pihentető energiát sugároz, tökéletes választás a tengerparti kikapcsolódáshoz. Kellemes fürdőzési feltételekre és hívogató partvonalra számíthatunk, amely kiválóan alkalmas a hosszas napozásra. Egy jó könyv magunkkal hozatala fantasztikus módja annak, hogy kiélvezzük az öböl nyugodt ritmusát.", "category": "recreational", "coords": [-8.213484, 37.087686]}, {"name": "Praia dos Pescadores", "text": "A hagyományos halászhajók jelenlétével díszített Praia dos Pescadores egy igazán ikonikus nevezetesség Albufeira napfényes partvonalán. Élettel teli, történelmi hangulat lengi be a homokos partot, ötvözve a város tengerészeti gyökereit a modern strandélettel. A napozók és a fürdőzők elmélyülhetnek a helyi kultúrában, miközben a tiszta óceánban ringatóznak. Egy kora reggeli látogatás során megfigyelhetjük, ahogy a nap felkel a pihenő fahajók felett.", "category": "recreational", "coords": [-8.250091, 37.086563]}, {"name": "Praia do Peneco", "text": "Az Albufeira óvárosának szívéből egy lenyűgöző alagúton keresztül megközelíthető Praia do Peneco a természet és az építészet igazi csodája. A macskaköves utcákról a nyitott, homokos tengerpartra való átmenet vibrálóan egyedi hangulatot teremt. Könnyedén válthatunk az óceáni csobbanás, a melegítő napozás és a szomszédos történelmi sikátorok felfedezése között. Hihetetlenül kényelmes azok számára, akik a tengerparton is közel szeretnének maradni a városi kényelemhez.", "category": "recreational", "coords": [-8.253657, 37.086098]}, {"name": "Praia dos Alemães", "text": "Az Albufeira központjától sétatávolságra elterülő Praia dos Alemães egy hatalmas és hívogató homokos partszakasszal büszkélkedhet. A tágas környezet szellős, nyitott hangulatot teremt, ahol sem a csoportok, sem a magányos strandolók nem érzik a zsúfoltságot. Nagyvonalú méretei miatt kiválóan alkalmas hosszú tengerparti sétákra és zavartalan, vízparti pihenésre. Egy könnyű piknik csomagolása remek ötlet, hogy a legtöbbet hozzuk ki a tágas strandból.", "category": "recreational", "coords": [-8.237966, 37.084011]}, {"name": "Praia dos Aveiros", "text": "Az Albufeira partvidékén megbúvó Praia dos Aveiros egy apró, gyönyörűen védett tengerparti enklávé. A védett földrajzi elhelyezkedés mélyen intim és nyugtató légkört teremt, távol az erősebb szelektől. A látogatókat csodálatosan nyugodt fürdőzési feltételek és zavartalan homokos pihenés várja. A bájosan korlátozott méretek miatt érdemes már a nap elején biztosítani egy jó helyet magunknak.", "category": "recreational", "coords": [-8.231314, 37.083406]}, {"name": "Museu Municipal de Arqueologia", "text": "Albufeira környékéről származó régészeti leleteket bemutató múzeum.", "category": "museum", "coords": [-8.251979, 37.087076]}, {"name": "Praia dos Arrifes", "text": "A festői sziklaképződményekkel díszített Praia dos Arrifes egy vizuálisan lenyűgöző kis öböl Albufeirában. A hangulat nyers, mégis oltalmazó, amely egyaránt vonzza a természet szerelmeseit és a fotózás rajongóit. A napozás és a frissítő csobbanások között a látogatók megcsodálhatják az Atlanti-óceán hullámai által formált bonyolult alakzatokat. A sziklás peremek közelében történő felfedezéshez hasznos lehet egy megfelelő vízicipő viselete.", "category": "recreational", "coords": [-8.277528, 37.075921]}, {"name": "Praia da Oura", "text": "Az Albufeira energikus éjszakai negyedének közelében elhelyezkedő Praia da Oura élénk tengerparti szellemiséggel lüktet. A vidám, dinamikus hangulat kiváló választássá teszi azok számára, akik a nappali strandolást esti társasági élettel szeretnék ötvözni. A tiszta víz és a pezsgő homokos part alapos kikapcsolódást és barnulást ígér. Ez a tökéletes helyszín, ha azt szeretné, hogy a napsütötte délután zökkenőmentesen váltson át egy ünnepi éjszakába.", "category": "recreational", "coords": [-8.223371, 37.085311]}, {"name": "Praia do Inatel", "text": "Az Albufeira partvidékén gyönyörűen elnyúló Praia do Inatel egy hosszú, homokos menedék, amelyet a családok és a nemzetközi turisták egyaránt kedvelnek. A környezet hívogató egyensúlyt teremt az aktív tengerparti játék és a pihentető csend között. Akár homokvárat építünk, az óceánban gázolunk, vagy egyszerűen csak kinyújtózunk a napon, mindenkinek bőséges tér jut. Néhány strandjáték becsomagolása kétségtelenül fokozza egy teljes családi nap örömét ezen a nagyszerű helyen.", "category": "recreational", "coords": [-8.245228, 37.08577]}, {"name": "Museu de Arte Sacra", "text": "Egy egykori kápolnában berendezett egyházi művészeti múzeum Albufeirában.", "category": "museum", "coords": [-8.254053, 37.087009]}, {"name": "Parque Aventura Albufeira", "text": "Kalandpark Albufeirában, amely szabadtéri tevékenységeket és kötélpályákat kínál.", "category": "family", "coords": [-8.21413, 37.091722]}, {"name": "Praia da Baleeira", "text": "A nyüzsgő albufeirai kikötő közelében elrejtve a Praia da Baleeira kivételesen csendes alternatívát kínál a főbb városi strandokhoz képest. Békés, elmélkedő légkört áraszt, amely nyugtató balzsamként hat a fáradt utazókra. A nyugodt vizek és a csendes partvonal kiemelkedő helyszínné teszik a békés úszáshoz és a zavartalan napozáshoz. Ha a nap korábbi szakaszában érkezik, gyakran szinte kizárólagos hozzáférést élvezhet ehhez a békés homokos parthoz.", "category": "recreational", "coords": [-8.262189, 37.081766]}, {"name": "Praia da Pedra dos Bicos", "text": "A lenyűgöző, csipkézett sziklaképződményeiről híres Praia da Pedra dos Bicos vizuálisan magával ragadó tengerparti élményt nyújt Albufeirában. A zord háttér egy csipetnyi drámai természetet csempész az egyébként békés homokos tengerparti napba. A látogatók egyaránt örömüket lelik a nap alatti heverészésben és az egyedi formájú part menti peremek óvatos felfedezésében. Ha késő délutánig maradunk, gyakran gyönyörű árnyékok táncát figyelhetjük meg a zord sziklákon.", "category": "recreational", "coords": [-8.218348, 37.085055]}, {"name": "Praia do Risco", "text": "Az Albufeira partvidékén, gyönyörűen elszigetelt szakaszként elhelyezkedő Praia do Risco a tökéletes óceáni menedéket jelenti. Az uralkodó légkör hihetetlenül magányos és tiszta, messze a tipikus nyári tömegtől. Tökéletes lehetőséget kínál a csendes tengerparti sétákra, a zavartalan olvasásra vagy egyszerűen csak a ritmikus atlanti hullámok hallgatására. Saját víz és egy kis rágcsálnivaló magunkkal vitele elengedhetetlen, hiszen a hely varázsának része a teljes elszigeteltség.", "category": "recreational", "coords": [-8.264317, 37.079659]}, {"name": "Castelo de Albufeira", "text": "A régi várfalak maradványai Albufeira óvárosában.", "category": "historical", "coords": [-8.251622, 37.087993]}, {"name": "Miradouro do Pau da Bandeira", "text": "Híres kilátópont, amely az óvárosra és a tengerre néz.", "category": "natural", "coords": [-8.248133, 37.086884]}, {"name": "Miradouro Rossio", "text": "Kilátóhely, ahonnan pazar kilátás nyílik az atlanti partvidékre.", "category": "natural", "coords": [-8.256806, 37.084108]}, {"name": "Miradouro Rua Latino Coelho", "text": "Magasan fekvő hely, ahonnan panorámás kilátás nyílik Albufeira partjaira.", "category": "natural", "coords": [-8.255562, 37.084956]}, {"name": "AlgarExperience", "text": "Hajókirándulásokat és tengeri programokat kínáló turisztikai központ.", "category": "landmark", "coords": [-8.266864, 37.084992]}, {"name": "Gipsy Market", "text": "Az albufeirai cigánypiac egy helyi szabadtéri piac, ahol különféle árukat kínálnak.", "category": "landmark", "coords": [-8.272272, 37.0844]}, {"name": "Livraria da Praia dos Arrifes", "text": "A festői Praia dos Arrifes közvetlen közelében pihenő Livraria da Praia dos Arrifes egy különleges látványossággal gazdagítja Albufeira partvonalát. A környék osztozik a közeli öböl laza, kissé zord tengeri varázsában. Csodálatos ürügyet teremt arra, hogy túlmerészkedjünk a homokos parton, és felfedezzük a magával ragadó part menti környezetet. Az itteni látogatás egy délutáni fürdőzéssel összekötve igazán tartalmas napot ígér.", "category": "landmark", "coords": [-8.276299, 37.076782]}, {"name": "Câmara Municipal de Albufeira", "text": "A Câmara Municipal Albufeira városháza és közigazgatási központja.", "category": "historical", "coords": [-8.24572, 37.090079]}, {"name": "Lago Artificial", "text": "A Lago Artificial egy mesterségesen kialakított tó Albufeirában.", "category": "natural", "coords": [-8.238252, 37.089352]}, {"name": "Lagoa dos Salgados", "text": "A Lagoa dos Salgados egy természetközeli tó Albufeirában, ideális a természet megfigyelésére.", "category": "natural", "coords": [-8.331019, 37.095736]}, {"name": "Minigolf Albufeira", "text": "A Minigolf Albufeira szabadidős szórakozást kínál az egész családnak Albufeirában.", "category": "family", "coords": [-8.235639, 37.091057]}], "ro": [{"name": "Praia de Santa Eulália", "text": "Binecuvântată cu ape minunat de calme, Praia de Santa Eulália se odihnește liniștită lângă vibrantul oraș Albufeira. Această plajă populară de nisip emană o energie veselă și profund relaxantă, atrăgând persoanele care iubesc o zi echilibrată pe coastă. Așteptați-vă la condiții excelente de înot și la un țărm primitor, perfect adaptat pentru băi lungi de soare. O carte bună este acompaniamentul ideal pentru a vă bucura de ritmul liniștit al acestui golf.", "category": "recreational", "coords": [-8.213484, 37.087686]}, {"name": "Praia dos Pescadores", "text": "Împodobită de prezența bărcilor tradiționale de pescuit, Praia dos Pescadores este un reper cu adevărat iconic pe coasta însorită a orașului Albufeira. O atmosferă plină de viață și istorie învăluie întinderea de nisip, îmbinând rădăcinile maritime ale orașului cu viața modernă de plajă. Iubitorii de soare și înotătorii se pot bucura de această cultură în timp ce plutesc în oceanul limpede. Planificarea unei vizite dimineața vă permite să urmăriți răsăritul soarelui deasupra bărcilor de lemn.", "category": "recreational", "coords": [-8.250091, 37.086563]}, {"name": "Praia do Peneco", "text": "Accesibilă printr-un tunel fascinant chiar din inima orașului vechi din Albufeira, Praia do Peneco este o minune arhitecturală și naturală. Trecerea de la străzile pietruite la plaja deschisă de nisip creează o atmosferă vibrantă și unică. Puteți alterna fără efort între o baie în ocean, băi de soare calde și explorarea aleilor istorice adiacente. Rămâne un loc incredibil de convenabil pentru cei care doresc să rămână aproape de confortul urban în timp ce se află la mare.", "category": "recreational", "coords": [-8.253657, 37.086098]}, {"name": "Praia dos Alemães", "text": "Desfășurându-se maiestuos la o distanță de mers pe jos de centrul orașului Albufeira, Praia dos Alemães se mândrește cu un țărm de nisip vast și primitor. Mediul spațios favorizează o stare de spirit aerisită și deschisă, unde grupurile și iubitorii de plajă solitari nu se simt niciodată înghesuiți. Dimensiunile sale generoase o fac excelentă pentru plimbări lungi pe țărm și sesiuni neîntrerupte de relaxare. Aducerea unui mic picnic este o idee superbă pentru a profita la maximum de plaja spațioasă.", "category": "recreational", "coords": [-8.237966, 37.084011]}, {"name": "Praia dos Aveiros", "text": "Ascunsă de-a lungul coastei din Albufeira, Praia dos Aveiros este o enclavă de plajă mică, frumos adăpostită. Geografia protejată favorizează o atmosferă profund intimă și calmă, departe de vânturile puternice. Vizitatorii sunt întâmpinați de condiții de înot minunat de calme și de o configurație ideală pentru odihnă netulburată pe nisip. Asigurarea unui loc devreme în timpul zilei este o decizie înțeleaptă, având în vedere dimensiunile fermecător de limitate ale acestui golf.", "category": "recreational", "coords": [-8.231314, 37.083406]}, {"name": "Museu Municipal de Arqueologia", "text": "Muzeu care expune descoperiri arheologice din regiunea Albufeira.", "category": "museum", "coords": [-8.251979, 37.087076]}, {"name": "Praia dos Arrifes", "text": "Remarcată prin formațiunile sale stâncoase pitorești, Praia dos Arrifes este un mic golf vizual uimitor în Albufeira. Atmosfera se simte aspră, dar protectoare, atrăgând deopotrivă iubitorii de natură și pasionații de fotografie. Între o baie de soare și înotul revigorant, vizitatorii pot admira formele complicate sculptate de valurile Atlanticului de-a lungul timpului. Purtarea unor pantofi de apă comozi poate fi benefică atunci când explorați zonele din apropierea marginilor stâncoase.", "category": "recreational", "coords": [-8.277528, 37.075921]}, {"name": "Praia da Oura", "text": "Poziționată aproape de cartierul energic cu viață de noapte din Albufeira, Praia da Oura pulsează de un spirit de coastă plin de viață. Starea de spirit optimistă și dinamică o face o alegere de top pentru cei care doresc să îmbine distracția de zi la plajă cu socializarea de seară. Apele limpezi pentru înot și un țărm de nisip animat pentru bronzat promit o zi extrem de captivantă. Este locația perfectă dacă doriți ca după-amiaza scăldată în soare să treacă fără efort într-o noapte festivă.", "category": "recreational", "coords": [-8.223371, 37.085311]}, {"name": "Praia do Inatel", "text": "Întinzându-se frumos de-a lungul coastei din Albufeira, Praia do Inatel este un refugiu lung, de nisip, apreciat atât de familii, cât și de turiștii internaționali. Mediul atinge un echilibru primitor între joaca activă pe plajă și liniștea odihnitoare. Indiferent dacă construiți castele de nisip, vă plimbați prin ocean sau pur și simplu vă întindeți la soare, există spațiu amplu pentru toată lumea. Aducerea unor jocuri de plajă va spori cu siguranță bucuria unei zile întregi în familie aici.", "category": "recreational", "coords": [-8.245228, 37.08577]}, {"name": "Museu de Arte Sacra", "text": "Un muzeu de artă sacră situat într-o fostă capelă din Albufeira.", "category": "museum", "coords": [-8.254053, 37.087009]}, {"name": "Parque Aventura Albufeira", "text": "Un parc de aventură din Albufeira, care oferă activități în aer liber.", "category": "family", "coords": [-8.21413, 37.091722]}, {"name": "Praia da Baleeira", "text": "Ascunsă lângă portul plin de viață din Albufeira, Praia da Baleeira oferă o alternativă excepțional de liniștită la plajele principale ale orașului. Emană o ambianță senină, contemplativă, care acționează ca un balsam liniștitor pentru călătorii obosiți. Apele calme și un țărm liniștit o transformă într-o locație remarcabilă pentru înot pașnic și băi de soare relaxante. Găsirea drumului până aici mai devreme în timpul zilei vă oferă adesea acces aproape exclusiv la nisipurile sale pașnice.", "category": "recreational", "coords": [-8.262189, 37.081766]}, {"name": "Praia da Pedra dos Bicos", "text": "Renumită pentru formațiunile sale stâncoase izbitoare și zimțate, Praia da Pedra dos Bicos oferă o experiență de coastă vizual captivantă în Albufeira. Fundalul aspru injectează o notă de natură dramatică într-o zi altfel senină pe o plajă de nisip. Vizitatorii găsesc bucurie atât relaxându-se sub soare, cât și explorând cu blândețe marginile de coastă cu forme unice. Rămânerea până târziu în după-amiaza are adesea ca rezultat umbre superbe care dansează peste stâncile aspre.", "category": "recreational", "coords": [-8.218348, 37.085055]}, {"name": "Praia do Risco", "text": "Situată ca o porțiune frumos izolată de-a lungul coastei din Albufeira, Praia do Risco reprezintă refugiul suprem la ocean. Atmosfera predominantă este incredibil de solitară și pură, departe de aglomerația tipică de vară. Prezintă oportunitatea perfectă pentru plimbări liniștite pe litoral, lectură în liniște sau pur și simplu ascultarea valurilor ritmice ale Atlanticului. Aducerea propriei ape și a unei mici gustări este esențială, deoarece izolarea face parte din farmecul său.", "category": "recreational", "coords": [-8.264317, 37.079659]}, {"name": "Castelo de Albufeira", "text": "Rămășițele vechilor fortificații ale castelului din centrul vechi al Albufeirei.", "category": "historical", "coords": [-8.251622, 37.087993]}, {"name": "Miradouro do Pau da Bandeira", "text": "Un punct de belvedere faimos cu vedere spre centrul vechi și plaje.", "category": "natural", "coords": [-8.248133, 37.086884]}, {"name": "Miradouro Rossio", "text": "Un punct de observație cu vederi asupra coastei atlantice.", "category": "natural", "coords": [-8.256806, 37.084108]}, {"name": "Miradouro Rua Latino Coelho", "text": "Un punct înalt cu vedere panoramică asupra țărmului din Albufeira.", "category": "natural", "coords": [-8.255562, 37.084956]}, {"name": "AlgarExperience", "text": "Centru turistic care oferă excursii cu barca și activități marine.", "category": "landmark", "coords": [-8.266864, 37.084992]}, {"name": "Gipsy Market", "text": "Gipsy Market din Albufeira este o piață locală în aer liber care oferă diverse mărfuri.", "category": "landmark", "coords": [-8.272272, 37.0844]}, {"name": "Livraria da Praia dos Arrifes", "text": "Aflată în imediata vecinătate a pitoreștii Praia dos Arrifes, Livraria da Praia dos Arrifes adaugă un punct de atracție distinct pe țărmul din Albufeira. Zona înconjurătoare împărtășește farmecul maritim relaxat și ușor aspru al golfului din apropiere. Creează o scuză minunată pentru a vă aventura dincolo de nisipul fin și a explora mediul de coastă captivant. Combinarea unei vizite aici cu o după-amiază de înot garantează o zi extrem de plină de satisfacții.", "category": "landmark", "coords": [-8.276299, 37.076782]}, {"name": "Câmara Municipal de Albufeira", "text": "Câmara Municipal este clădirea primăriei și centrul administrativ al orașului Albufeira.", "category": "historical", "coords": [-8.24572, 37.090079]}, {"name": "Lago Artificial", "text": "Lago Artificial este un lac artificial în Albufeira.", "category": "natural", "coords": [-8.238252, 37.089352]}, {"name": "Lagoa dos Salgados", "text": "Lagoa dos Salgados este un lac natural în Albufeira, ideal pentru observarea naturii.", "category": "natural", "coords": [-8.331019, 37.095736]}, {"name": "Minigolf Albufeira", "text": "Minigolf Albufeira oferă distracție în timpul liber pentru întreaga familie în Albufeira.", "category": "family", "coords": [-8.235639, 37.091057]}], "en": [{"name": "Praia de Santa Eulália", "text": "Blessed with wonderfully calm waters, Praia de Santa Eulália rests peacefully near the vibrant town of Albufeira. This popular sandy beach radiates a cheerful and deeply relaxing energy, drawing people who love a well-balanced coastal day. Expect delightful swimming conditions and an inviting shoreline perfectly tailored for expansive sunbathing. Bringing along a good book is a fantastic way to enjoy the tranquil pace of this bay.", "category": "recreational", "coords": [-8.213484, 37.087686]}, {"name": "Praia dos Pescadores", "text": "Graced by the presence of traditional fishing boats, Praia dos Pescadores is a truly iconic landmark along Albufeira's sunny coastline. A lively, historic atmosphere envelopes the sandy expanse, blending the town’s seafaring roots with modern beach life. Sun seekers and swimmers can deeply engage with the culture while floating in the clear ocean. Planning a morning visit lets you watch the sun rise over the resting wooden boats.", "category": "recreational", "coords": [-8.250091, 37.086563]}, {"name": "Praia do Peneco", "text": "Reached seamlessly via a fascinating tunnel from the heart of Albufeira's old town, Praia do Peneco is an architectural and natural marvel. The transition from cobbled streets to the open, sandy beach creates a vibrantly unique atmosphere. You can effortlessly alternate between ocean dips, warm sunbathing, and exploring the adjacent historic alleys. It remains incredibly convenient for those who wish to stay close to the urban comforts while by the sea.", "category": "recreational", "coords": [-8.253657, 37.086098]}, {"name": "Praia dos Alemães", "text": "Unfolding majestically within walking distance of Albufeira's center, Praia dos Alemães features an expansive and inviting sandy shoreline. The spacious environment fosters an airy, open mood where both groups and solo beachgoers never feel crowded. Its generous dimensions make it excellent for long shoreline walks and uninterrupted sessions of seaside relaxation. Packing a light picnic is a superb idea to make the most of the ample beach space.", "category": "recreational", "coords": [-8.237966, 37.084011]}, {"name": "Praia dos Aveiros", "text": "Hidden away along the Albufeira coast, Praia dos Aveiros is a small, beautifully sheltered beach enclave. The sheltered geography fosters a deeply intimate and calming atmosphere away from heavier winds. Visitors are treated to wonderfully calm swimming conditions and an ideal layout for undisturbed resting on the sand. Securing a spot early in the day is wise given the charmingly limited dimensions of this cove.", "category": "recreational", "coords": [-8.231314, 37.083406]}, {"name": "Museu Municipal de Arqueologia", "text": "Museum displaying archaeological finds from the Albufeira region.", "category": "museum", "coords": [-8.251979, 37.087076]}, {"name": "Praia dos Arrifes", "text": "Distinguished by its picturesque rocky formations, Praia dos Arrifes is a visually stunning small bay in Albufeira. The atmosphere feels rugged yet protective, appealing to nature lovers and photography enthusiasts alike. Between sunbathing and taking refreshing dips, visitors can admire the intricate shapes shaped by the Atlantic waves over time. Wearing sensible water shoes can be beneficial when exploring near the rocky edges.", "category": "recreational", "coords": [-8.277528, 37.075921]}, {"name": "Oura Beach", "text": "Positioned closely to Albufeira’s energetic nightlife district, Praia da Oura pulses with a lively coastal spirit. The upbeat, dynamic mood makes it a top choice for those looking to combine daytime beach fun with evening socializing. Clear waters for swimming and a spirited sandy shoreline for tanning promise a thoroughly engaging day out. It is the perfect location if you want your sun-soaked afternoon to transition seamlessly into a festive night.", "category": "recreational", "coords": [-8.223371, 37.085311]}, {"name": "Praia do Inatel", "text": "Stretching beautifully along the Albufeira coast, Praia do Inatel is a long, sandy haven cherished by both families and international tourists. The environment strikes a welcoming balance between active beach play and restful quiet. Whether building intricate sandcastles, wading in the ocean, or simply sprawling out under the sun, there is ample space for all. Packing some beach games will undoubtedly enhance the joy of a full family day here.", "category": "recreational", "coords": [-8.245228, 37.08577]}, {"name": "Museu de Arte Sacra", "text": "A museum dedicated to religious art in a former chapel in Albufeira.", "category": "museum", "coords": [-8.254053, 37.087009]}, {"name": "Parque Aventura Albufeira", "text": "An adventure park in Albufeira offering outdoor activities like zip-lining.", "category": "family", "coords": [-8.21413, 37.091722]}, {"name": "Praia da Baleeira", "text": "Tucked away near the bustling Albufeira marina, Praia da Baleeira provides an exceptionally quiet alternative to the main town beaches. It exudes a serene, contemplative ambiance that acts as a soothing balm for weary travelers. Calm waters and a tranquil shoreline make it an outstanding location for peaceful swimming and reflective sunbathing. Finding your way here earlier in the day often grants you almost exclusive access to its peaceful sands.", "category": "recreational", "coords": [-8.262189, 37.081766]}, {"name": "Praia da Pedra dos Bicos", "text": "Renowned for its striking, jagged rock formations, Praia da Pedra dos Bicos delivers a visually captivating coastal experience in Albufeira. The rugged backdrop injects a touch of dramatic nature into an otherwise serene sandy beach day. Visitors find joy in both lounging under the sun and gently exploring the uniquely shaped coastal edges. Staying until late afternoon often results in gorgeous shadows dancing across the rugged cliffs.", "category": "recreational", "coords": [-8.218348, 37.085055]}, {"name": "Praia do Risco", "text": "Situated as a beautifully secluded stretch along Albufeira’s coastline, Praia do Risco represents the ultimate ocean hideaway. The prevailing atmosphere is incredibly solitary and pure, far removed from the typical busy summer crowds. It presents the perfect opportunity for quiet seaside strolls, reading in silence, or simply listening to the rhythmic Atlantic waves. Bringing your own water and a small snack is essential, as the isolation is part of its charm.", "category": "recreational", "coords": [-8.264317, 37.079659]}, {"name": "Castelo de Albufeira", "text": "Remains of the old castle fortifications in Albufeira's old town.", "category": "historical", "coords": [-8.251622, 37.087993]}, {"name": "Miradouro do Pau da Bandeira", "text": "A famous viewpoint overlooking the old town and the sea.", "category": "natural", "coords": [-8.248133, 37.086884]}, {"name": "Miradouro Rossio", "text": "A viewpoint offering wide views of the Atlantic coast.", "category": "natural", "coords": [-8.256806, 37.084108]}, {"name": "Miradouro Rua Latino Coelho", "text": "An elevated spot with panoramic vistas of the Albufeira shoreline.", "category": "natural", "coords": [-8.255562, 37.084956]}, {"name": "AlgarExperience", "text": "Tourism center offering boat trips and marine activities in Albufeira.", "category": "landmark", "coords": [-8.266864, 37.084992]}, {"name": "Gipsy Market", "text": "The Gipsy Market in Albufeira is a local outdoor market offering various goods.", "category": "landmark", "coords": [-8.272272, 37.0844]}, {"name": "Livraria da Praia dos Arrifes", "text": "Resting in the immediate vicinity of the scenic Praia dos Arrifes, Livraria da Praia dos Arrifes adds a distinct point of interest to the Albufeira shore. The surrounding area shares the relaxed, slightly rugged maritime charm of the nearby bay. It creates a wonderful excuse to wander beyond the immediate sands and explore the captivating coastal environment. Combining a visit here with an afternoon of swimming makes for a thoroughly rewarding day.", "category": "landmark", "coords": [-8.276299, 37.076782]}, {"name": "Câmara Municipal de Albufeira", "text": "The Câmara Municipal is the town hall building and administrative center of Albufeira.", "category": "historical", "coords": [-8.24572, 37.090079]}, {"name": "Lago Artificial", "text": "Lago Artificial is a man-made lake in Albufeira.", "category": "natural", "coords": [-8.238252, 37.089352]}, {"name": "Lagoa dos Salgados", "text": "Lagoa dos Salgados is a natural lake in Albufeira, ideal for nature observation.", "category": "natural", "coords": [-8.331019, 37.095736]}, {"name": "Minigolf Albufeira", "text": "Minigolf Albufeira offers leisure fun for the whole family in Albufeira.", "category": "family", "coords": [-8.235639, 37.091057]}]},
+    id: "portugal-albufeira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Santa Eulália",
+                  "text": "Gesegnet mit herrlich ruhigem Wasser, ruht die Praia de Santa Eulália friedlich in der Nähe der lebhaften Stadt Albufeira. Dieser beliebte Sandstrand strahlt eine fröhliche und zutiefst entspannende Energie aus. Besucher können sich auf wunderbare Badebedingungen und eine einladende Küste freuen, die wie geschaffen für ein ausgedehntes Sonnenbad ist. Ein gutes Buch ist der perfekte Begleiter, um das ruhige Tempo dieser schönen Bucht zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.213484,
+                        37.087686
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "Geziert von traditionellen Fischerbooten, ist die Praia dos Pescadores ein wahrhaft ikonisches Wahrzeichen an der sonnigen Küste von Albufeira. Eine lebendige, historische Atmosphäre umgibt die weite Sandfläche und verbindet die maritimen Wurzeln der Stadt mit modernem Strandleben. Sonnenanbeter und Badegäste können die Kultur auf sich wirken lassen, während sie im klaren Ozean schwimmen. Ein morgendlicher Besuch bietet die Chance, die Sonne über den ruhenden Holzbooten aufgehen zu sehen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.250091,
+                        37.086563
+                  ]
+            },
+            {
+                  "name": "Praia do Peneco",
+                  "text": "Durch einen faszinierenden Tunnel direkt aus der Altstadt von Albufeira erreichbar, ist die Praia do Peneco ein kleines Wunder aus Natur und Architektur. Der nahtlose Übergang von kopfsteingepflasterten Gassen zum weiten Sandstrand schafft eine lebendig-einzigartige Atmosphäre. Man kann hier wunderbar zwischen einem Sprung in den Ozean, entspanntem Sonnenbaden und der Erkundung der historischen Gassen wechseln. Dieser Strand ist ungemein praktisch für alle, die das Meer und den städtischen Komfort gleichzeitig schätzen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.253657,
+                        37.086098
+                  ]
+            },
+            {
+                  "name": "Praia dos Alemães",
+                  "text": "Die Praia dos Alemães erstreckt sich majestätisch in fußläufiger Entfernung zum Zentrum von Albufeira und besticht durch eine einladende, weite Sandküste. Die weitläufige Umgebung sorgt für eine luftige, offene Stimmung, in der sich weder Gruppen noch Alleinreisende eingeengt fühlen. Die großzügigen Ausmaße eignen sich hervorragend für lange Strandspaziergänge und ungestörte Entspannung am Meer. Ein kleines Picknick ist eine wunderbare Idee, um den vielen Platz am Ufer optimal zu nutzen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237966,
+                        37.084011
+                  ]
+            },
+            {
+                  "name": "Praia dos Aveiros",
+                  "text": "Verborgen an der Küste von Albufeira, ist die Praia dos Aveiros eine kleine, wunderbar geschützte Strandenklave. Die windgeschützte geografische Lage fördert eine zutiefst intime und beruhigende Atmosphäre. Besucher dürfen sich auf herrliche, ruhige Schwimmbedingungen und einen perfekten Ort für ungestörte Stunden im Sand freuen. Aufgrund der charmant begrenzten Größe dieser Bucht ist es ratsam, sich früh am Tag ein Plätzchen zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.231314,
+                        37.083406
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia",
+                  "text": "Museum mit archäologischen Funden aus der Region Albufeira.",
+                  "category": "museum",
+                  "coords": [
+                        -8.251979,
+                        37.087076
+                  ]
+            },
+            {
+                  "name": "Praia dos Arrifes",
+                  "text": "Geprägt von malerischen Felsformationen, präsentiert sich die Praia dos Arrifes als visuell atemberaubende kleine Bucht in Albufeira. Die Atmosphäre wirkt naturbelassen und doch schützend, was besonders Naturliebhaber und Fotografen anspricht. Zwischen einem entspannten Sonnenbad und erfrischenden Sprüngen ins Wasser lassen sich die bizarren, vom Atlantik geformten Gesteinsstrukturen bewundern. Bei Erkundungen nahe der felsigen Kanten können vernünftige Badeschuhe sehr nützlich sein.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.277528,
+                        37.075921
+                  ]
+            },
+            {
+                  "name": "Praia da Oura",
+                  "text": "In unmittelbarer Nähe zu Albufeiras energiegeladenem Ausgehviertel gelegen, pulsiert die Praia da Oura mit einem lebendigen Küstengeist. Die fröhliche, dynamische Stimmung macht den Strand zur ersten Wahl für alle, die Badespaß am Tag mit abendlicher Geselligkeit verbinden möchten. Klares Wasser zum Schwimmen und ein belebtes Sandufer zum Sonnenbaden versprechen einen rundum unterhaltsamen Tag. Dies ist der perfekte Ort, wenn man einen sonnenverwöhnten Nachmittag nahtlos in eine festliche Nacht übergehen lassen möchte.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.223371,
+                        37.085311
+                  ]
+            },
+            {
+                  "name": "Praia do Inatel",
+                  "text": "Die Praia do Inatel erstreckt sich wunderschön entlang der Küste von Albufeira und ist ein langer, sandiger Zufluchtsort, der bei Familien und internationalen Touristen gleichermaßen geschätzt wird. Die Umgebung schafft eine einladende Balance zwischen aktiven Strandspielen und erholsamer Ruhe. Egal ob man Sandburgen baut, im Ozean watet oder sich einfach in der Sonne ausstreckt, es gibt reichlich Platz für alle. Wer ein paar Strandspiele einpackt, wird die Freude an einem kompletten Familientag hier zweifellos noch steigern.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.245228,
+                        37.08577
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Ein Museum für sakrale Kunst in einer ehemaligen Kapelle in Albufeira.",
+                  "category": "museum",
+                  "coords": [
+                        -8.254053,
+                        37.087009
+                  ]
+            },
+            {
+                  "name": "Parque Aventura Albufeira",
+                  "text": "Ein Abenteuerpark mit Outdoor-Aktivitäten wie Hochseilgärten in Albufeira.",
+                  "category": "family",
+                  "coords": [
+                        -8.21413,
+                        37.091722
+                  ]
+            },
+            {
+                  "name": "Praia da Baleeira",
+                  "text": "Versteckt in der Nähe des geschäftigen Yachthafens von Albufeira gelegen, bietet die Praia da Baleeira eine außergewöhnlich ruhige Alternative zu den Hauptstränden der Stadt. Sie verströmt eine friedliche, besinnliche Atmosphäre, die wie Balsam für reisemüde Seelen wirkt. Ruhiges Wasser und eine beschauliche Küstenlinie machen sie zu einem hervorragenden Ort für friedliches Schwimmen und nachdenkliches Sonnenbaden. Wer den Weg früh am Tag hierher findet, wird oft mit einem fast exklusiven Zugang zu diesem idyllischen Sandstrand belohnt.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.262189,
+                        37.081766
+                  ]
+            },
+            {
+                  "name": "Praia da Pedra dos Bicos",
+                  "text": "Bekannt für ihre markanten, zerklüfteten Felsformationen, bietet die Praia da Pedra dos Bicos ein visuell fesselndes Küstenerlebnis in Albufeira. Die raue Kulisse bringt einen Hauch dramatischer Natur in den ansonsten herrlich ruhigen Strandtag. Besucher finden große Freude daran, sich in der Sonne zu entspannen und behutsam die einzigartig geformten Küstenränder zu erkunden. Wer bis zum späten Nachmittag bleibt, kann oft wunderschöne Schatten beobachten, die über die schroffen Klippen tanzen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.218348,
+                        37.085055
+                  ]
+            },
+            {
+                  "name": "Praia do Risco",
+                  "text": "Als wunderbar abgelegener Abschnitt an Albufeiras Küstenlinie stellt die Praia do Risco den ultimativen Rückzugsort am Ozean dar. Die vorherrschende Atmosphäre ist unglaublich einsam und pur, weit entfernt von den typisch geschäftigen Sommermassen. Hier bietet sich die perfekte Gelegenheit für stille Spaziergänge am Meer, ungestörtes Lesen oder das bloße Lauschen auf die rhythmischen Atlantikwellen. Eigene Getränke und ein kleiner Snack sollten unbedingt mitgebracht werden, da gerade die Abgeschiedenheit den Reiz dieses Ortes ausmacht.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264317,
+                        37.079659
+                  ]
+            },
+            {
+                  "name": "Castelo de Albufeira",
+                  "text": "Überreste der alten Burgbefestigungen in der Altstadt von Albufeira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.251622,
+                        37.087993
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pau da Bandeira",
+                  "text": "Ein berühmter Aussichtspunkt mit Blick auf die Altstadt und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        -8.248133,
+                        37.086884
+                  ]
+            },
+            {
+                  "name": "Miradouro Rossio",
+                  "text": "Ein Aussichtspunkt mit weitem Blick auf die Atlantikküste.",
+                  "category": "natural",
+                  "coords": [
+                        -8.256806,
+                        37.084108
+                  ]
+            },
+            {
+                  "name": "Miradouro Rua Latino Coelho",
+                  "text": "Ein erhöhter Punkt mit Panoramaaussicht auf die Küste von Albufeira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.255562,
+                        37.084956
+                  ]
+            },
+            {
+                  "name": "AlgarExperience",
+                  "text": "Anbieter von Bootstouren und Meeresaktivitäten in Albufeira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.266864,
+                        37.084992
+                  ]
+            },
+            {
+                  "name": "Gipsy Market",
+                  "text": "Der Gipsy Market in Albufeira ist ein lokaler Freiluftmarkt mit verschiedenen Waren.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.272272,
+                        37.0844
+                  ]
+            },
+            {
+                  "name": "Livraria da Praia dos Arrifes",
+                  "text": "In unmittelbarer Nähe der malerischen Praia dos Arrifes gelegen, bereichert die Livraria da Praia dos Arrifes die Küste von Albufeira um eine besondere Sehenswürdigkeit. Die direkte Umgebung teilt den entspannten, leicht rauen maritimen Charme der benachbarten Bucht. Dieser Ort ist ein wunderbarer Anlass, die eigentliche Sandfläche zu verlassen und die faszinierende Küstenumgebung zu erkunden. Ein Besuch lässt sich hervorragend mit einem nachmittäglichen Badeausflug zu einem rundum gelungenen Tag kombinieren.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.276299,
+                        37.076782
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Albufeira",
+                  "text": "Die Câmara Municipal ist das Rathaus und das Verwaltungszentrum von Albufeira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.24572,
+                        37.090079
+                  ]
+            },
+            {
+                  "name": "Lago Artificial",
+                  "text": "Der Lago Artificial ist ein künstlich angelegter See in Albufeira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.238252,
+                        37.089352
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Salgados",
+                  "text": "Die Lagoa dos Salgados ist ein naturbelassener See in Albufeira, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -8.331019,
+                        37.095736
+                  ]
+            },
+            {
+                  "name": "Minigolf Albufeira",
+                  "text": "Minigolf Albufeira bietet Freizeitspaß für die ganze Familie in Albufeira.",
+                  "category": "family",
+                  "coords": [
+                        -8.235639,
+                        37.091057
+                  ]
+            },
+            {
+                  "name": "Pool On The Hill",
+                  "text": "Dieses Schwimmbad in Albufeira ist ein angenehmer Ort für ein Familienbad.",
+                  "category": "family",
+                  "coords": [
+                        -8.259907,
+                        37.085843
+                  ]
+            },
+            {
+                  "name": "Piscina Adultos",
+                  "text": "Dieses Schwimmbad in Albufeira bietet Platz für Erwachsene und Familien zum Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        -8.251517,
+                        37.106113
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Albufeira",
+                  "text": "Dieses städtische Schwimmbad in Albufeira bietet Möglichkeiten für Sport und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        -8.240965,
+                        37.096919
+                  ]
+            },
+            {
+                  "name": "CerroMar Garden ****",
+                  "text": "Das CerroMar Garden in Albufeira verfügt über ein Schwimmbad für Gäste und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        -8.252552,
+                        37.090595
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Dieses Schwimmbad in Albufeira ist ein Ort für Wassersport und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        -8.228117,
+                        37.102599
+                  ]
+            },
+            {
+                  "name": "Pisicina Vale S. João",
+                  "text": "Das Schwimmbad Vale S. João in Albufeira bietet Abkühlung und sportliche Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        -8.233266,
+                        37.086078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Santa Eulália",
+                  "text": "A csodálatosan nyugodt vizekkel megáldott Praia de Santa Eulália békésen terül el a pezsgő Albufeira városának közelében. Ez a népszerű homokos strand vidám és mélyen pihentető energiát sugároz, tökéletes választás a tengerparti kikapcsolódáshoz. Kellemes fürdőzési feltételekre és hívogató partvonalra számíthatunk, amely kiválóan alkalmas a hosszas napozásra. Egy jó könyv magunkkal hozatala fantasztikus módja annak, hogy kiélvezzük az öböl nyugodt ritmusát.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.213484,
+                        37.087686
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "A hagyományos halászhajók jelenlétével díszített Praia dos Pescadores egy igazán ikonikus nevezetesség Albufeira napfényes partvonalán. Élettel teli, történelmi hangulat lengi be a homokos partot, ötvözve a város tengerészeti gyökereit a modern strandélettel. A napozók és a fürdőzők elmélyülhetnek a helyi kultúrában, miközben a tiszta óceánban ringatóznak. Egy kora reggeli látogatás során megfigyelhetjük, ahogy a nap felkel a pihenő fahajók felett.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.250091,
+                        37.086563
+                  ]
+            },
+            {
+                  "name": "Praia do Peneco",
+                  "text": "Az Albufeira óvárosának szívéből egy lenyűgöző alagúton keresztül megközelíthető Praia do Peneco a természet és az építészet igazi csodája. A macskaköves utcákról a nyitott, homokos tengerpartra való átmenet vibrálóan egyedi hangulatot teremt. Könnyedén válthatunk az óceáni csobbanás, a melegítő napozás és a szomszédos történelmi sikátorok felfedezése között. Hihetetlenül kényelmes azok számára, akik a tengerparton is közel szeretnének maradni a városi kényelemhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.253657,
+                        37.086098
+                  ]
+            },
+            {
+                  "name": "Praia dos Alemães",
+                  "text": "Az Albufeira központjától sétatávolságra elterülő Praia dos Alemães egy hatalmas és hívogató homokos partszakasszal büszkélkedhet. A tágas környezet szellős, nyitott hangulatot teremt, ahol sem a csoportok, sem a magányos strandolók nem érzik a zsúfoltságot. Nagyvonalú méretei miatt kiválóan alkalmas hosszú tengerparti sétákra és zavartalan, vízparti pihenésre. Egy könnyű piknik csomagolása remek ötlet, hogy a legtöbbet hozzuk ki a tágas strandból.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237966,
+                        37.084011
+                  ]
+            },
+            {
+                  "name": "Praia dos Aveiros",
+                  "text": "Az Albufeira partvidékén megbúvó Praia dos Aveiros egy apró, gyönyörűen védett tengerparti enklávé. A védett földrajzi elhelyezkedés mélyen intim és nyugtató légkört teremt, távol az erősebb szelektől. A látogatókat csodálatosan nyugodt fürdőzési feltételek és zavartalan homokos pihenés várja. A bájosan korlátozott méretek miatt érdemes már a nap elején biztosítani egy jó helyet magunknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.231314,
+                        37.083406
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia",
+                  "text": "Albufeira környékéről származó régészeti leleteket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.251979,
+                        37.087076
+                  ]
+            },
+            {
+                  "name": "Praia dos Arrifes",
+                  "text": "A festői sziklaképződményekkel díszített Praia dos Arrifes egy vizuálisan lenyűgöző kis öböl Albufeirában. A hangulat nyers, mégis oltalmazó, amely egyaránt vonzza a természet szerelmeseit és a fotózás rajongóit. A napozás és a frissítő csobbanások között a látogatók megcsodálhatják az Atlanti-óceán hullámai által formált bonyolult alakzatokat. A sziklás peremek közelében történő felfedezéshez hasznos lehet egy megfelelő vízicipő viselete.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.277528,
+                        37.075921
+                  ]
+            },
+            {
+                  "name": "Praia da Oura",
+                  "text": "Az Albufeira energikus éjszakai negyedének közelében elhelyezkedő Praia da Oura élénk tengerparti szellemiséggel lüktet. A vidám, dinamikus hangulat kiváló választássá teszi azok számára, akik a nappali strandolást esti társasági élettel szeretnék ötvözni. A tiszta víz és a pezsgő homokos part alapos kikapcsolódást és barnulást ígér. Ez a tökéletes helyszín, ha azt szeretné, hogy a napsütötte délután zökkenőmentesen váltson át egy ünnepi éjszakába.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.223371,
+                        37.085311
+                  ]
+            },
+            {
+                  "name": "Praia do Inatel",
+                  "text": "Az Albufeira partvidékén gyönyörűen elnyúló Praia do Inatel egy hosszú, homokos menedék, amelyet a családok és a nemzetközi turisták egyaránt kedvelnek. A környezet hívogató egyensúlyt teremt az aktív tengerparti játék és a pihentető csend között. Akár homokvárat építünk, az óceánban gázolunk, vagy egyszerűen csak kinyújtózunk a napon, mindenkinek bőséges tér jut. Néhány strandjáték becsomagolása kétségtelenül fokozza egy teljes családi nap örömét ezen a nagyszerű helyen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.245228,
+                        37.08577
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Egy egykori kápolnában berendezett egyházi művészeti múzeum Albufeirában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.254053,
+                        37.087009
+                  ]
+            },
+            {
+                  "name": "Parque Aventura Albufeira",
+                  "text": "Kalandpark Albufeirában, amely szabadtéri tevékenységeket és kötélpályákat kínál.",
+                  "category": "family",
+                  "coords": [
+                        -8.21413,
+                        37.091722
+                  ]
+            },
+            {
+                  "name": "Praia da Baleeira",
+                  "text": "A nyüzsgő albufeirai kikötő közelében elrejtve a Praia da Baleeira kivételesen csendes alternatívát kínál a főbb városi strandokhoz képest. Békés, elmélkedő légkört áraszt, amely nyugtató balzsamként hat a fáradt utazókra. A nyugodt vizek és a csendes partvonal kiemelkedő helyszínné teszik a békés úszáshoz és a zavartalan napozáshoz. Ha a nap korábbi szakaszában érkezik, gyakran szinte kizárólagos hozzáférést élvezhet ehhez a békés homokos parthoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.262189,
+                        37.081766
+                  ]
+            },
+            {
+                  "name": "Praia da Pedra dos Bicos",
+                  "text": "A lenyűgöző, csipkézett sziklaképződményeiről híres Praia da Pedra dos Bicos vizuálisan magával ragadó tengerparti élményt nyújt Albufeirában. A zord háttér egy csipetnyi drámai természetet csempész az egyébként békés homokos tengerparti napba. A látogatók egyaránt örömüket lelik a nap alatti heverészésben és az egyedi formájú part menti peremek óvatos felfedezésében. Ha késő délutánig maradunk, gyakran gyönyörű árnyékok táncát figyelhetjük meg a zord sziklákon.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.218348,
+                        37.085055
+                  ]
+            },
+            {
+                  "name": "Praia do Risco",
+                  "text": "Az Albufeira partvidékén, gyönyörűen elszigetelt szakaszként elhelyezkedő Praia do Risco a tökéletes óceáni menedéket jelenti. Az uralkodó légkör hihetetlenül magányos és tiszta, messze a tipikus nyári tömegtől. Tökéletes lehetőséget kínál a csendes tengerparti sétákra, a zavartalan olvasásra vagy egyszerűen csak a ritmikus atlanti hullámok hallgatására. Saját víz és egy kis rágcsálnivaló magunkkal vitele elengedhetetlen, hiszen a hely varázsának része a teljes elszigeteltség.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264317,
+                        37.079659
+                  ]
+            },
+            {
+                  "name": "Castelo de Albufeira",
+                  "text": "A régi várfalak maradványai Albufeira óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.251622,
+                        37.087993
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pau da Bandeira",
+                  "text": "Híres kilátópont, amely az óvárosra és a tengerre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -8.248133,
+                        37.086884
+                  ]
+            },
+            {
+                  "name": "Miradouro Rossio",
+                  "text": "Kilátóhely, ahonnan pazar kilátás nyílik az atlanti partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -8.256806,
+                        37.084108
+                  ]
+            },
+            {
+                  "name": "Miradouro Rua Latino Coelho",
+                  "text": "Magasan fekvő hely, ahonnan panorámás kilátás nyílik Albufeira partjaira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.255562,
+                        37.084956
+                  ]
+            },
+            {
+                  "name": "AlgarExperience",
+                  "text": "Hajókirándulásokat és tengeri programokat kínáló turisztikai központ.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.266864,
+                        37.084992
+                  ]
+            },
+            {
+                  "name": "Gipsy Market",
+                  "text": "Az albufeirai cigánypiac egy helyi szabadtéri piac, ahol különféle árukat kínálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.272272,
+                        37.0844
+                  ]
+            },
+            {
+                  "name": "Livraria da Praia dos Arrifes",
+                  "text": "A festői Praia dos Arrifes közvetlen közelében pihenő Livraria da Praia dos Arrifes egy különleges látványossággal gazdagítja Albufeira partvonalát. A környék osztozik a közeli öböl laza, kissé zord tengeri varázsában. Csodálatos ürügyet teremt arra, hogy túlmerészkedjünk a homokos parton, és felfedezzük a magával ragadó part menti környezetet. Az itteni látogatás egy délutáni fürdőzéssel összekötve igazán tartalmas napot ígér.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.276299,
+                        37.076782
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Albufeira",
+                  "text": "A Câmara Municipal Albufeira városháza és közigazgatási központja.",
+                  "category": "historical",
+                  "coords": [
+                        -8.24572,
+                        37.090079
+                  ]
+            },
+            {
+                  "name": "Lago Artificial",
+                  "text": "A Lago Artificial egy mesterségesen kialakított tó Albufeirában.",
+                  "category": "natural",
+                  "coords": [
+                        -8.238252,
+                        37.089352
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Salgados",
+                  "text": "A Lagoa dos Salgados egy természetközeli tó Albufeirában, ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -8.331019,
+                        37.095736
+                  ]
+            },
+            {
+                  "name": "Minigolf Albufeira",
+                  "text": "A Minigolf Albufeira szabadidős szórakozást kínál az egész családnak Albufeirában.",
+                  "category": "family",
+                  "coords": [
+                        -8.235639,
+                        37.091057
+                  ]
+            },
+            {
+                  "name": "Pool On The Hill",
+                  "text": "Ez az albufeirai uszoda kellemes hely egy családi mártózáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.259907,
+                        37.085843
+                  ]
+            },
+            {
+                  "name": "Piscina Adultos",
+                  "text": "Ez az albufeirai uszoda helyet biztosít felnőttek és családok számára az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.251517,
+                        37.106113
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Albufeira",
+                  "text": "Ez az albufeirai városi úszómedence sportolási és kikapcsolódási lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        -8.240965,
+                        37.096919
+                  ]
+            },
+            {
+                  "name": "CerroMar Garden ****",
+                  "text": "Az albufeirai CerroMar Garden úszómedencével várja a vendégeket és a látogatókat.",
+                  "category": "family",
+                  "coords": [
+                        -8.252552,
+                        37.090595
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Ez az albufeirai úszómedence a vízi sportok és a pihenés helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        -8.228117,
+                        37.102599
+                  ]
+            },
+            {
+                  "name": "Pisicina Vale S. João",
+                  "text": "Az albufeirai Vale S. João úszómedence felfrissülést és sportolási tevékenységeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        -8.233266,
+                        37.086078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Santa Eulália",
+                  "text": "Binecuvântată cu ape minunat de calme, Praia de Santa Eulália se odihnește liniștită lângă vibrantul oraș Albufeira. Această plajă populară de nisip emană o energie veselă și profund relaxantă, atrăgând persoanele care iubesc o zi echilibrată pe coastă. Așteptați-vă la condiții excelente de înot și la un țărm primitor, perfect adaptat pentru băi lungi de soare. O carte bună este acompaniamentul ideal pentru a vă bucura de ritmul liniștit al acestui golf.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.213484,
+                        37.087686
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "Împodobită de prezența bărcilor tradiționale de pescuit, Praia dos Pescadores este un reper cu adevărat iconic pe coasta însorită a orașului Albufeira. O atmosferă plină de viață și istorie învăluie întinderea de nisip, îmbinând rădăcinile maritime ale orașului cu viața modernă de plajă. Iubitorii de soare și înotătorii se pot bucura de această cultură în timp ce plutesc în oceanul limpede. Planificarea unei vizite dimineața vă permite să urmăriți răsăritul soarelui deasupra bărcilor de lemn.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.250091,
+                        37.086563
+                  ]
+            },
+            {
+                  "name": "Praia do Peneco",
+                  "text": "Accesibilă printr-un tunel fascinant chiar din inima orașului vechi din Albufeira, Praia do Peneco este o minune arhitecturală și naturală. Trecerea de la străzile pietruite la plaja deschisă de nisip creează o atmosferă vibrantă și unică. Puteți alterna fără efort între o baie în ocean, băi de soare calde și explorarea aleilor istorice adiacente. Rămâne un loc incredibil de convenabil pentru cei care doresc să rămână aproape de confortul urban în timp ce se află la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.253657,
+                        37.086098
+                  ]
+            },
+            {
+                  "name": "Praia dos Alemães",
+                  "text": "Desfășurându-se maiestuos la o distanță de mers pe jos de centrul orașului Albufeira, Praia dos Alemães se mândrește cu un țărm de nisip vast și primitor. Mediul spațios favorizează o stare de spirit aerisită și deschisă, unde grupurile și iubitorii de plajă solitari nu se simt niciodată înghesuiți. Dimensiunile sale generoase o fac excelentă pentru plimbări lungi pe țărm și sesiuni neîntrerupte de relaxare. Aducerea unui mic picnic este o idee superbă pentru a profita la maximum de plaja spațioasă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237966,
+                        37.084011
+                  ]
+            },
+            {
+                  "name": "Praia dos Aveiros",
+                  "text": "Ascunsă de-a lungul coastei din Albufeira, Praia dos Aveiros este o enclavă de plajă mică, frumos adăpostită. Geografia protejată favorizează o atmosferă profund intimă și calmă, departe de vânturile puternice. Vizitatorii sunt întâmpinați de condiții de înot minunat de calme și de o configurație ideală pentru odihnă netulburată pe nisip. Asigurarea unui loc devreme în timpul zilei este o decizie înțeleaptă, având în vedere dimensiunile fermecător de limitate ale acestui golf.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.231314,
+                        37.083406
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia",
+                  "text": "Muzeu care expune descoperiri arheologice din regiunea Albufeira.",
+                  "category": "museum",
+                  "coords": [
+                        -8.251979,
+                        37.087076
+                  ]
+            },
+            {
+                  "name": "Praia dos Arrifes",
+                  "text": "Remarcată prin formațiunile sale stâncoase pitorești, Praia dos Arrifes este un mic golf vizual uimitor în Albufeira. Atmosfera se simte aspră, dar protectoare, atrăgând deopotrivă iubitorii de natură și pasionații de fotografie. Între o baie de soare și înotul revigorant, vizitatorii pot admira formele complicate sculptate de valurile Atlanticului de-a lungul timpului. Purtarea unor pantofi de apă comozi poate fi benefică atunci când explorați zonele din apropierea marginilor stâncoase.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.277528,
+                        37.075921
+                  ]
+            },
+            {
+                  "name": "Praia da Oura",
+                  "text": "Poziționată aproape de cartierul energic cu viață de noapte din Albufeira, Praia da Oura pulsează de un spirit de coastă plin de viață. Starea de spirit optimistă și dinamică o face o alegere de top pentru cei care doresc să îmbine distracția de zi la plajă cu socializarea de seară. Apele limpezi pentru înot și un țărm de nisip animat pentru bronzat promit o zi extrem de captivantă. Este locația perfectă dacă doriți ca după-amiaza scăldată în soare să treacă fără efort într-o noapte festivă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.223371,
+                        37.085311
+                  ]
+            },
+            {
+                  "name": "Praia do Inatel",
+                  "text": "Întinzându-se frumos de-a lungul coastei din Albufeira, Praia do Inatel este un refugiu lung, de nisip, apreciat atât de familii, cât și de turiștii internaționali. Mediul atinge un echilibru primitor între joaca activă pe plajă și liniștea odihnitoare. Indiferent dacă construiți castele de nisip, vă plimbați prin ocean sau pur și simplu vă întindeți la soare, există spațiu amplu pentru toată lumea. Aducerea unor jocuri de plajă va spori cu siguranță bucuria unei zile întregi în familie aici.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.245228,
+                        37.08577
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Un muzeu de artă sacră situat într-o fostă capelă din Albufeira.",
+                  "category": "museum",
+                  "coords": [
+                        -8.254053,
+                        37.087009
+                  ]
+            },
+            {
+                  "name": "Parque Aventura Albufeira",
+                  "text": "Un parc de aventură din Albufeira, care oferă activități în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -8.21413,
+                        37.091722
+                  ]
+            },
+            {
+                  "name": "Praia da Baleeira",
+                  "text": "Ascunsă lângă portul plin de viață din Albufeira, Praia da Baleeira oferă o alternativă excepțional de liniștită la plajele principale ale orașului. Emană o ambianță senină, contemplativă, care acționează ca un balsam liniștitor pentru călătorii obosiți. Apele calme și un țărm liniștit o transformă într-o locație remarcabilă pentru înot pașnic și băi de soare relaxante. Găsirea drumului până aici mai devreme în timpul zilei vă oferă adesea acces aproape exclusiv la nisipurile sale pașnice.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.262189,
+                        37.081766
+                  ]
+            },
+            {
+                  "name": "Praia da Pedra dos Bicos",
+                  "text": "Renumită pentru formațiunile sale stâncoase izbitoare și zimțate, Praia da Pedra dos Bicos oferă o experiență de coastă vizual captivantă în Albufeira. Fundalul aspru injectează o notă de natură dramatică într-o zi altfel senină pe o plajă de nisip. Vizitatorii găsesc bucurie atât relaxându-se sub soare, cât și explorând cu blândețe marginile de coastă cu forme unice. Rămânerea până târziu în după-amiaza are adesea ca rezultat umbre superbe care dansează peste stâncile aspre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.218348,
+                        37.085055
+                  ]
+            },
+            {
+                  "name": "Praia do Risco",
+                  "text": "Situată ca o porțiune frumos izolată de-a lungul coastei din Albufeira, Praia do Risco reprezintă refugiul suprem la ocean. Atmosfera predominantă este incredibil de solitară și pură, departe de aglomerația tipică de vară. Prezintă oportunitatea perfectă pentru plimbări liniștite pe litoral, lectură în liniște sau pur și simplu ascultarea valurilor ritmice ale Atlanticului. Aducerea propriei ape și a unei mici gustări este esențială, deoarece izolarea face parte din farmecul său.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264317,
+                        37.079659
+                  ]
+            },
+            {
+                  "name": "Castelo de Albufeira",
+                  "text": "Rămășițele vechilor fortificații ale castelului din centrul vechi al Albufeirei.",
+                  "category": "historical",
+                  "coords": [
+                        -8.251622,
+                        37.087993
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pau da Bandeira",
+                  "text": "Un punct de belvedere faimos cu vedere spre centrul vechi și plaje.",
+                  "category": "natural",
+                  "coords": [
+                        -8.248133,
+                        37.086884
+                  ]
+            },
+            {
+                  "name": "Miradouro Rossio",
+                  "text": "Un punct de observație cu vederi asupra coastei atlantice.",
+                  "category": "natural",
+                  "coords": [
+                        -8.256806,
+                        37.084108
+                  ]
+            },
+            {
+                  "name": "Miradouro Rua Latino Coelho",
+                  "text": "Un punct înalt cu vedere panoramică asupra țărmului din Albufeira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.255562,
+                        37.084956
+                  ]
+            },
+            {
+                  "name": "AlgarExperience",
+                  "text": "Centru turistic care oferă excursii cu barca și activități marine.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.266864,
+                        37.084992
+                  ]
+            },
+            {
+                  "name": "Gipsy Market",
+                  "text": "Gipsy Market din Albufeira este o piață locală în aer liber care oferă diverse mărfuri.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.272272,
+                        37.0844
+                  ]
+            },
+            {
+                  "name": "Livraria da Praia dos Arrifes",
+                  "text": "Aflată în imediata vecinătate a pitoreștii Praia dos Arrifes, Livraria da Praia dos Arrifes adaugă un punct de atracție distinct pe țărmul din Albufeira. Zona înconjurătoare împărtășește farmecul maritim relaxat și ușor aspru al golfului din apropiere. Creează o scuză minunată pentru a vă aventura dincolo de nisipul fin și a explora mediul de coastă captivant. Combinarea unei vizite aici cu o după-amiază de înot garantează o zi extrem de plină de satisfacții.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.276299,
+                        37.076782
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Albufeira",
+                  "text": "Câmara Municipal este clădirea primăriei și centrul administrativ al orașului Albufeira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.24572,
+                        37.090079
+                  ]
+            },
+            {
+                  "name": "Lago Artificial",
+                  "text": "Lago Artificial este un lac artificial în Albufeira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.238252,
+                        37.089352
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Salgados",
+                  "text": "Lagoa dos Salgados este un lac natural în Albufeira, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -8.331019,
+                        37.095736
+                  ]
+            },
+            {
+                  "name": "Minigolf Albufeira",
+                  "text": "Minigolf Albufeira oferă distracție în timpul liber pentru întreaga familie în Albufeira.",
+                  "category": "family",
+                  "coords": [
+                        -8.235639,
+                        37.091057
+                  ]
+            },
+            {
+                  "name": "Pool On The Hill",
+                  "text": "Această piscină din Albufeira este un loc plăcut pentru o baie în familie.",
+                  "category": "family",
+                  "coords": [
+                        -8.259907,
+                        37.085843
+                  ]
+            },
+            {
+                  "name": "Piscina Adultos",
+                  "text": "Această piscină din Albufeira oferă spațiu pentru adulți și familii pentru a înota.",
+                  "category": "family",
+                  "coords": [
+                        -8.251517,
+                        37.106113
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Albufeira",
+                  "text": "Această piscină municipală din Albufeira oferă oportunități pentru sport și recreere.",
+                  "category": "family",
+                  "coords": [
+                        -8.240965,
+                        37.096919
+                  ]
+            },
+            {
+                  "name": "CerroMar Garden ****",
+                  "text": "CerroMar Garden din Albufeira dispune de o piscină pentru oaspeți și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        -8.252552,
+                        37.090595
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Această piscină din Albufeira este un loc pentru sporturi nautice și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -8.228117,
+                        37.102599
+                  ]
+            },
+            {
+                  "name": "Pisicina Vale S. João",
+                  "text": "Piscina Vale S. João din Albufeira oferă răcorire și activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        -8.233266,
+                        37.086078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Santa Eulália",
+                  "text": "Blessed with wonderfully calm waters, Praia de Santa Eulália rests peacefully near the vibrant town of Albufeira. This popular sandy beach radiates a cheerful and deeply relaxing energy, drawing people who love a well-balanced coastal day. Expect delightful swimming conditions and an inviting shoreline perfectly tailored for expansive sunbathing. Bringing along a good book is a fantastic way to enjoy the tranquil pace of this bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.213484,
+                        37.087686
+                  ]
+            },
+            {
+                  "name": "Praia dos Pescadores",
+                  "text": "Graced by the presence of traditional fishing boats, Praia dos Pescadores is a truly iconic landmark along Albufeira's sunny coastline. A lively, historic atmosphere envelopes the sandy expanse, blending the town’s seafaring roots with modern beach life. Sun seekers and swimmers can deeply engage with the culture while floating in the clear ocean. Planning a morning visit lets you watch the sun rise over the resting wooden boats.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.250091,
+                        37.086563
+                  ]
+            },
+            {
+                  "name": "Praia do Peneco",
+                  "text": "Reached seamlessly via a fascinating tunnel from the heart of Albufeira's old town, Praia do Peneco is an architectural and natural marvel. The transition from cobbled streets to the open, sandy beach creates a vibrantly unique atmosphere. You can effortlessly alternate between ocean dips, warm sunbathing, and exploring the adjacent historic alleys. It remains incredibly convenient for those who wish to stay close to the urban comforts while by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.253657,
+                        37.086098
+                  ]
+            },
+            {
+                  "name": "Praia dos Alemães",
+                  "text": "Unfolding majestically within walking distance of Albufeira's center, Praia dos Alemães features an expansive and inviting sandy shoreline. The spacious environment fosters an airy, open mood where both groups and solo beachgoers never feel crowded. Its generous dimensions make it excellent for long shoreline walks and uninterrupted sessions of seaside relaxation. Packing a light picnic is a superb idea to make the most of the ample beach space.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237966,
+                        37.084011
+                  ]
+            },
+            {
+                  "name": "Praia dos Aveiros",
+                  "text": "Hidden away along the Albufeira coast, Praia dos Aveiros is a small, beautifully sheltered beach enclave. The sheltered geography fosters a deeply intimate and calming atmosphere away from heavier winds. Visitors are treated to wonderfully calm swimming conditions and an ideal layout for undisturbed resting on the sand. Securing a spot early in the day is wise given the charmingly limited dimensions of this cove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.231314,
+                        37.083406
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia",
+                  "text": "Museum displaying archaeological finds from the Albufeira region.",
+                  "category": "museum",
+                  "coords": [
+                        -8.251979,
+                        37.087076
+                  ]
+            },
+            {
+                  "name": "Praia dos Arrifes",
+                  "text": "Distinguished by its picturesque rocky formations, Praia dos Arrifes is a visually stunning small bay in Albufeira. The atmosphere feels rugged yet protective, appealing to nature lovers and photography enthusiasts alike. Between sunbathing and taking refreshing dips, visitors can admire the intricate shapes shaped by the Atlantic waves over time. Wearing sensible water shoes can be beneficial when exploring near the rocky edges.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.277528,
+                        37.075921
+                  ]
+            },
+            {
+                  "name": "Oura Beach",
+                  "text": "Positioned closely to Albufeira’s energetic nightlife district, Praia da Oura pulses with a lively coastal spirit. The upbeat, dynamic mood makes it a top choice for those looking to combine daytime beach fun with evening socializing. Clear waters for swimming and a spirited sandy shoreline for tanning promise a thoroughly engaging day out. It is the perfect location if you want your sun-soaked afternoon to transition seamlessly into a festive night.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.223371,
+                        37.085311
+                  ]
+            },
+            {
+                  "name": "Praia do Inatel",
+                  "text": "Stretching beautifully along the Albufeira coast, Praia do Inatel is a long, sandy haven cherished by both families and international tourists. The environment strikes a welcoming balance between active beach play and restful quiet. Whether building intricate sandcastles, wading in the ocean, or simply sprawling out under the sun, there is ample space for all. Packing some beach games will undoubtedly enhance the joy of a full family day here.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.245228,
+                        37.08577
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "A museum dedicated to religious art in a former chapel in Albufeira.",
+                  "category": "museum",
+                  "coords": [
+                        -8.254053,
+                        37.087009
+                  ]
+            },
+            {
+                  "name": "Parque Aventura Albufeira",
+                  "text": "An adventure park in Albufeira offering outdoor activities like zip-lining.",
+                  "category": "family",
+                  "coords": [
+                        -8.21413,
+                        37.091722
+                  ]
+            },
+            {
+                  "name": "Praia da Baleeira",
+                  "text": "Tucked away near the bustling Albufeira marina, Praia da Baleeira provides an exceptionally quiet alternative to the main town beaches. It exudes a serene, contemplative ambiance that acts as a soothing balm for weary travelers. Calm waters and a tranquil shoreline make it an outstanding location for peaceful swimming and reflective sunbathing. Finding your way here earlier in the day often grants you almost exclusive access to its peaceful sands.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.262189,
+                        37.081766
+                  ]
+            },
+            {
+                  "name": "Praia da Pedra dos Bicos",
+                  "text": "Renowned for its striking, jagged rock formations, Praia da Pedra dos Bicos delivers a visually captivating coastal experience in Albufeira. The rugged backdrop injects a touch of dramatic nature into an otherwise serene sandy beach day. Visitors find joy in both lounging under the sun and gently exploring the uniquely shaped coastal edges. Staying until late afternoon often results in gorgeous shadows dancing across the rugged cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.218348,
+                        37.085055
+                  ]
+            },
+            {
+                  "name": "Praia do Risco",
+                  "text": "Situated as a beautifully secluded stretch along Albufeira’s coastline, Praia do Risco represents the ultimate ocean hideaway. The prevailing atmosphere is incredibly solitary and pure, far removed from the typical busy summer crowds. It presents the perfect opportunity for quiet seaside strolls, reading in silence, or simply listening to the rhythmic Atlantic waves. Bringing your own water and a small snack is essential, as the isolation is part of its charm.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264317,
+                        37.079659
+                  ]
+            },
+            {
+                  "name": "Castelo de Albufeira",
+                  "text": "Remains of the old castle fortifications in Albufeira's old town.",
+                  "category": "historical",
+                  "coords": [
+                        -8.251622,
+                        37.087993
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pau da Bandeira",
+                  "text": "A famous viewpoint overlooking the old town and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -8.248133,
+                        37.086884
+                  ]
+            },
+            {
+                  "name": "Miradouro Rossio",
+                  "text": "A viewpoint offering wide views of the Atlantic coast.",
+                  "category": "natural",
+                  "coords": [
+                        -8.256806,
+                        37.084108
+                  ]
+            },
+            {
+                  "name": "Miradouro Rua Latino Coelho",
+                  "text": "An elevated spot with panoramic vistas of the Albufeira shoreline.",
+                  "category": "natural",
+                  "coords": [
+                        -8.255562,
+                        37.084956
+                  ]
+            },
+            {
+                  "name": "AlgarExperience",
+                  "text": "Tourism center offering boat trips and marine activities in Albufeira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.266864,
+                        37.084992
+                  ]
+            },
+            {
+                  "name": "Gipsy Market",
+                  "text": "The Gipsy Market in Albufeira is a local outdoor market offering various goods.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.272272,
+                        37.0844
+                  ]
+            },
+            {
+                  "name": "Livraria da Praia dos Arrifes",
+                  "text": "Resting in the immediate vicinity of the scenic Praia dos Arrifes, Livraria da Praia dos Arrifes adds a distinct point of interest to the Albufeira shore. The surrounding area shares the relaxed, slightly rugged maritime charm of the nearby bay. It creates a wonderful excuse to wander beyond the immediate sands and explore the captivating coastal environment. Combining a visit here with an afternoon of swimming makes for a thoroughly rewarding day.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.276299,
+                        37.076782
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Albufeira",
+                  "text": "The Câmara Municipal is the town hall building and administrative center of Albufeira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.24572,
+                        37.090079
+                  ]
+            },
+            {
+                  "name": "Lago Artificial",
+                  "text": "Lago Artificial is a man-made lake in Albufeira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.238252,
+                        37.089352
+                  ]
+            },
+            {
+                  "name": "Lagoa dos Salgados",
+                  "text": "Lagoa dos Salgados is a natural lake in Albufeira, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -8.331019,
+                        37.095736
+                  ]
+            },
+            {
+                  "name": "Minigolf Albufeira",
+                  "text": "Minigolf Albufeira offers leisure fun for the whole family in Albufeira.",
+                  "category": "family",
+                  "coords": [
+                        -8.235639,
+                        37.091057
+                  ]
+            },
+            {
+                  "name": "Pool On The Hill",
+                  "text": "This swimming pool in Albufeira is a pleasant spot for a family dip.",
+                  "category": "family",
+                  "coords": [
+                        -8.259907,
+                        37.085843
+                  ]
+            },
+            {
+                  "name": "Piscina Adultos",
+                  "text": "This swimming pool in Albufeira offers space for adults and families to swim.",
+                  "category": "family",
+                  "coords": [
+                        -8.251517,
+                        37.106113
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Albufeira",
+                  "text": "This municipal swimming pool in Albufeira offers opportunities for sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        -8.240965,
+                        37.096919
+                  ]
+            },
+            {
+                  "name": "CerroMar Garden ****",
+                  "text": "CerroMar Garden in Albufeira features a swimming pool for guests and visitors.",
+                  "category": "family",
+                  "coords": [
+                        -8.252552,
+                        37.090595
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "This swimming pool in Albufeira is a place for water sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -8.228117,
+                        37.102599
+                  ]
+            },
+            {
+                  "name": "Pisicina Vale S. João",
+                  "text": "The Vale S. João swimming pool in Albufeira offers refreshment and sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        -8.233266,
+                        37.086078
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Albufeira", hu: "Albufeira", ro: "Albufeira", en: "Albufeira" },
@@ -6422,7 +15728,268 @@ export const portugalCitiesV2: POI[] = [
   }
 ,
   {
-    id: "portugal-oia-cities-v2", "sights": {"de": [{"name": "Praia do Bico", "text": "Dieser Flussstrand nahe Oia und Murtosa bietet ein ideales Refugium für Naturfreunde in Portugal. In ruhiger Atmosphäre können Besucher hier entspannte Stunden verbringen, baden oder am Ufer spazieren gehen. Für einen ungestörten Aufenthalt an warmen Tagen lohnt sich eine frühe Anreise.", "category": "recreational", "coords": [-8.65014, 40.729606]}, {"name": "Comur - Museu Municipal", "text": "Ein Museum in Murtosa, das sich der Geschichte der lokalen Konservenindustrie widmet.", "category": "museum", "coords": [-8.647407, 40.750258]}, {"name": "Baloiço Cais da Cambeia", "text": "Eine beliebte Schaukel am Flussufer in Murtosa, die einen schönen Ausblick auf die Ria de Aveiro bietet.", "category": "landmark", "coords": [-8.627372, 40.733371]}, {"name": "Ao emigrante murtoseiro cidadão do mundo", "text": "Ein Denkmal in Murtosa, das den ausgewanderten Bürgern der Gemeinde gewidmet ist.", "category": "historical", "coords": [-8.64679, 40.744665]}, {"name": "Câmara Municipal de Murtosa", "text": "Das Rathaus von Murtosa ist ein bedeutendes Verwaltungsgebäude in Oia.", "category": "historical", "coords": [-8.650623, 40.749916]}, {"name": "Minigolfe Murtosa", "text": "Diese Minigolfanlage in Oia bietet Freizeitspaß für die ganze Familie.", "category": "family", "coords": [-8.644415, 40.746346]}], "hu": [{"name": "Praia do Bico", "text": "Ez az Oia és Murtosa közelében található folyami strand ideális menedéket nyújt a portugáliai természetkedvelők számára. A látogatók pihentető órákat tölthetnek el fürdőzéssel vagy a parton tett sétákkal. A nyugodt élmény érdekében meleg napokon érdemes korán érkezni.", "category": "recreational", "coords": [-8.65014, 40.729606]}, {"name": "Comur - Museu Municipal", "text": "Múzeum Murtosában, amely a helyi konzervipar történetének szentelt.", "category": "museum", "coords": [-8.647407, 40.750258]}, {"name": "Baloiço Cais da Cambeia", "text": "Népszerű hinta a folyóparton Murtosában, amely szép kilátást nyújt a Ria de Aveiróra.", "category": "landmark", "coords": [-8.627372, 40.733371]}, {"name": "Ao emigrante murtoseiro cidadão do mundo", "text": "Emlékmű Murtosában, amelyet a község kivándorolt polgárainak szenteltek.", "category": "historical", "coords": [-8.64679, 40.744665]}, {"name": "Câmara Municipal de Murtosa", "text": "Murtosa városháza a település jelentős igazgatási épülete Oia városában.", "category": "historical", "coords": [-8.650623, 40.749916]}, {"name": "Minigolfe Murtosa", "text": "Ez az oiai minigolfpálya szabadidős szórakozást kínál az egész családnak.", "category": "family", "coords": [-8.644415, 40.746346]}], "ro": [{"name": "Praia do Bico", "text": "Această plajă fluvială de lângă Oia și Murtosa oferă un refugiu minunat pentru iubitorii de natură din Portugalia. Vizitatorii pot petrece ore relaxante înotând sau plimbându-se de-a lungul malului. O sosire matinală în zilele călduroase asigură o experiență liniștită și netulburată.", "category": "recreational", "coords": [-8.65014, 40.729606]}, {"name": "Comur - Museu Municipal", "text": "Un muzeu în Murtosa, dedicat istoriei industriei locale de conserve.", "category": "museum", "coords": [-8.647407, 40.750258]}, {"name": "Baloiço Cais da Cambeia", "text": "Un leagăn popular pe malul râului în Murtosa, oferind o vedere frumoasă asupra Ria de Aveiro.", "category": "landmark", "coords": [-8.627372, 40.733371]}, {"name": "Ao emigrante murtoseiro cidadão do mundo", "text": "Un monument în Murtosa, dedicat cetățenilor emigrați ai municipalității.", "category": "historical", "coords": [-8.64679, 40.744665]}, {"name": "Câmara Municipal de Murtosa", "text": "Primăria din Murtosa este o clădire administrativă importantă din Oia.", "category": "historical", "coords": [-8.650623, 40.749916]}, {"name": "Minigolfe Murtosa", "text": "Acest teren de minigolf din Oia oferă distracție pentru întreaga familie.", "category": "family", "coords": [-8.644415, 40.746346]}], "en": [{"name": "Praia do Bico", "text": "This river beach near Oia and Murtosa offers a wonderful retreat for nature lovers in Portugal. Visitors can spend relaxing hours, go swimming, or take a peaceful stroll along the shore. Arriving early on warm days ensures a quiet and undisturbed experience.", "category": "recreational", "coords": [-8.65014, 40.729606]}, {"name": "Comur muséum", "text": "A museum in Murtosa dedicated to the history of the local canning industry.", "category": "museum", "coords": [-8.647407, 40.750258]}, {"name": "Baloiço Cais da Cambeia", "text": "A popular riverside swing in Murtosa, offering a beautiful view of the Ria de Aveiro.", "category": "landmark", "coords": [-8.627372, 40.733371]}, {"name": "Ao emigrante murtoseiro cidadão do mundo", "text": "A monument in Murtosa dedicated to the emigrated citizens of the municipality.", "category": "historical", "coords": [-8.64679, 40.744665]}, {"name": "Câmara Municipal de Murtosa", "text": "The Town Hall of Murtosa is a key administrative building in Oia.", "category": "historical", "coords": [-8.650623, 40.749916]}, {"name": "Minigolfe Murtosa", "text": "This miniature golf course in Oia offers leisure fun for the whole family.", "category": "family", "coords": [-8.644415, 40.746346]}]},
+    id: "portugal-oia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Bico",
+                  "text": "Dieser Flussstrand nahe Oia und Murtosa bietet ein ideales Refugium für Naturfreunde in Portugal. In ruhiger Atmosphäre können Besucher hier entspannte Stunden verbringen, baden oder am Ufer spazieren gehen. Für einen ungestörten Aufenthalt an warmen Tagen lohnt sich eine frühe Anreise.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.65014,
+                        40.729606
+                  ]
+            },
+            {
+                  "name": "Comur - Museu Municipal",
+                  "text": "Ein Museum in Murtosa, das sich der Geschichte der lokalen Konservenindustrie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.647407,
+                        40.750258
+                  ]
+            },
+            {
+                  "name": "Baloiço Cais da Cambeia",
+                  "text": "Eine beliebte Schaukel am Flussufer in Murtosa, die einen schönen Ausblick auf die Ria de Aveiro bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.627372,
+                        40.733371
+                  ]
+            },
+            {
+                  "name": "Ao emigrante murtoseiro cidadão do mundo",
+                  "text": "Ein Denkmal in Murtosa, das den ausgewanderten Bürgern der Gemeinde gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64679,
+                        40.744665
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Murtosa",
+                  "text": "Das Rathaus von Murtosa ist ein bedeutendes Verwaltungsgebäude in Oia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.650623,
+                        40.749916
+                  ]
+            },
+            {
+                  "name": "Minigolfe Murtosa",
+                  "text": "Diese Minigolfanlage in Oia bietet Freizeitspaß für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -8.644415,
+                        40.746346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais da Murtosa",
+                  "text": "Städtische Schwimmbäder in Oia, die moderne Einrichtungen für Schwimmer bieten.",
+                  "category": "family",
+                  "coords": [
+                        -8.645427,
+                        40.746428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Bico",
+                  "text": "Ez az Oia és Murtosa közelében található folyami strand ideális menedéket nyújt a portugáliai természetkedvelők számára. A látogatók pihentető órákat tölthetnek el fürdőzéssel vagy a parton tett sétákkal. A nyugodt élmény érdekében meleg napokon érdemes korán érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.65014,
+                        40.729606
+                  ]
+            },
+            {
+                  "name": "Comur - Museu Municipal",
+                  "text": "Múzeum Murtosában, amely a helyi konzervipar történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.647407,
+                        40.750258
+                  ]
+            },
+            {
+                  "name": "Baloiço Cais da Cambeia",
+                  "text": "Népszerű hinta a folyóparton Murtosában, amely szép kilátást nyújt a Ria de Aveiróra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.627372,
+                        40.733371
+                  ]
+            },
+            {
+                  "name": "Ao emigrante murtoseiro cidadão do mundo",
+                  "text": "Emlékmű Murtosában, amelyet a község kivándorolt polgárainak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64679,
+                        40.744665
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Murtosa",
+                  "text": "Murtosa városháza a település jelentős igazgatási épülete Oia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.650623,
+                        40.749916
+                  ]
+            },
+            {
+                  "name": "Minigolfe Murtosa",
+                  "text": "Ez az oiai minigolfpálya szabadidős szórakozást kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -8.644415,
+                        40.746346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais da Murtosa",
+                  "text": "Városi úszómedencék Oia területén, amelyek modern létesítményeket kínálnak az úszóknak.",
+                  "category": "family",
+                  "coords": [
+                        -8.645427,
+                        40.746428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Bico",
+                  "text": "Această plajă fluvială de lângă Oia și Murtosa oferă un refugiu minunat pentru iubitorii de natură din Portugalia. Vizitatorii pot petrece ore relaxante înotând sau plimbându-se de-a lungul malului. O sosire matinală în zilele călduroase asigură o experiență liniștită și netulburată.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.65014,
+                        40.729606
+                  ]
+            },
+            {
+                  "name": "Comur - Museu Municipal",
+                  "text": "Un muzeu în Murtosa, dedicat istoriei industriei locale de conserve.",
+                  "category": "museum",
+                  "coords": [
+                        -8.647407,
+                        40.750258
+                  ]
+            },
+            {
+                  "name": "Baloiço Cais da Cambeia",
+                  "text": "Un leagăn popular pe malul râului în Murtosa, oferind o vedere frumoasă asupra Ria de Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.627372,
+                        40.733371
+                  ]
+            },
+            {
+                  "name": "Ao emigrante murtoseiro cidadão do mundo",
+                  "text": "Un monument în Murtosa, dedicat cetățenilor emigrați ai municipalității.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64679,
+                        40.744665
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Murtosa",
+                  "text": "Primăria din Murtosa este o clădire administrativă importantă din Oia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.650623,
+                        40.749916
+                  ]
+            },
+            {
+                  "name": "Minigolfe Murtosa",
+                  "text": "Acest teren de minigolf din Oia oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -8.644415,
+                        40.746346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais da Murtosa",
+                  "text": "Piscine municipale în Oia, oferind facilități moderne pentru înotători.",
+                  "category": "family",
+                  "coords": [
+                        -8.645427,
+                        40.746428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Bico",
+                  "text": "This river beach near Oia and Murtosa offers a wonderful retreat for nature lovers in Portugal. Visitors can spend relaxing hours, go swimming, or take a peaceful stroll along the shore. Arriving early on warm days ensures a quiet and undisturbed experience.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.65014,
+                        40.729606
+                  ]
+            },
+            {
+                  "name": "Comur muséum",
+                  "text": "A museum in Murtosa dedicated to the history of the local canning industry.",
+                  "category": "museum",
+                  "coords": [
+                        -8.647407,
+                        40.750258
+                  ]
+            },
+            {
+                  "name": "Baloiço Cais da Cambeia",
+                  "text": "A popular riverside swing in Murtosa, offering a beautiful view of the Ria de Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.627372,
+                        40.733371
+                  ]
+            },
+            {
+                  "name": "Ao emigrante murtoseiro cidadão do mundo",
+                  "text": "A monument in Murtosa dedicated to the emigrated citizens of the municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64679,
+                        40.744665
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Murtosa",
+                  "text": "The Town Hall of Murtosa is a key administrative building in Oia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.650623,
+                        40.749916
+                  ]
+            },
+            {
+                  "name": "Minigolfe Murtosa",
+                  "text": "This miniature golf course in Oia offers leisure fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -8.644415,
+                        40.746346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais da Murtosa",
+                  "text": "Municipal swimming pools in Oia offering modern facilities for swimmers.",
+                  "category": "family",
+                  "coords": [
+                        -8.645427,
+                        40.746428
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Oia", hu: "Oia", ro: "Oia", en: "Oia" },
@@ -6467,7 +16034,52 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-oia-cities-v2.webp",
   },
   {
-    id: "portugal-valongo-cities-v2",
+    id: "portugal-valongo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscinas Municipais de São Pedro da Cova",
+                  "text": "Städtische Schwimmbäder in Valongo für die Nutzung durch die Bewohner.",
+                  "category": "family",
+                  "coords": [
+                        -8.504048,
+                        41.160022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscinas Municipais de São Pedro da Cova",
+                  "text": "Városi úszómedencék Valongo városában a lakosok számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.504048,
+                        41.160022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscinas Municipais de São Pedro da Cova",
+                  "text": "Piscine municipale în Valongo pentru utilizarea de către locuitori.",
+                  "category": "family",
+                  "coords": [
+                        -8.504048,
+                        41.160022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscinas Municipais de São Pedro da Cova",
+                  "text": "Municipal swimming pools in Valongo for residents' use.",
+                  "category": "family",
+                  "coords": [
+                        -8.504048,
+                        41.160022
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Valongo", hu: "Valongo", ro: "Valongo", en: "Valongo" },
@@ -6962,7 +16574,556 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-maia-cities-v2.webp",
   },
   {
-    id: "portugal-gondomar-cities-v2", "sights": {"de": [{"name": "Museu Municipal da Filigrana de Gondomar", "text": "Dieses Museum in Gondomar widmet sich der traditionellen Goldschmiedekunst der Filigranarbeit.", "category": "museum", "coords": [-8.55769, 41.125754]}, {"name": "Auditório Municipal de Gondomar", "text": "Ein modernes städtisches Auditorium in Gondomar für kulturelle Veranstaltungen und Aufführungen.", "category": "cultural", "coords": [-8.533148, 41.137071]}, {"name": "Museu Mineiro de São Pedro da Cova", "text": "Das Bergbaumuseum dokumentiert die Industriegeschichte von São Pedro da Cova.", "category": "museum", "coords": [-8.509721, 41.162684]}, {"name": "Lugar do Desenho", "text": "Ein Kunstmuseum in Gondomar, das Ausstellungen zeitgenössischer Zeichnungen präsentiert.", "category": "museum", "coords": [-8.562823, 41.126804]}, {"name": "Praia Fluvial do Areinho de Avintes", "text": "Direkt am Ufer des Douro gelegen, lädt dieser beliebte Flussstrand in Avintes bei Gondomar zu abwechslungsreichen Freizeitaktivitäten ein. Die lebhafte Umgebung zieht Einheimische an, die das Wasser und die Sonne Portugals genießen möchten. Vor allem in den Sommermonaten empfiehlt es sich, zeitig vor Ort zu sein.", "category": "recreational", "coords": [-8.556594, 41.121505]}, {"name": "Monte Crasto", "text": "Eine markante Erhebung in Gondomar, die einen weiten Blick über die Region bietet.", "category": "natural", "coords": [-8.536566, 41.141841]}, {"name": "Monumento em Homenagem ao Ourives", "text": "Ein Denkmal in Gondomar zu Ehren der lokalen Goldschmiede-Tradition.", "category": "historical", "coords": [-8.535837, 41.136529]}, {"name": "Soldado Desconhecido", "text": "Ein Denkmal für den unbekannten Soldaten in Gondomar.", "category": "historical", "coords": [-8.528807, 41.159717]}, {"name": "Bombeiro Voluntário", "text": "Ein Denkmal in Gondomar zu Ehren der freiwilligen Feuerwehrleute.", "category": "historical", "coords": [-8.52947, 41.13618]}, {"name": "Rancho Gondomar", "text": "Eine kulturelle Attraktion in Gondomar, die mit lokalen Traditionen verbunden ist.", "category": "landmark", "coords": [-8.527238, 41.142773]}, {"name": "Igreja Matriz de Gondomar (São Cosme)", "text": "Die barocke Hauptkirche von Gondomar ist den Heiligen Cosmas und Damian geweiht.", "category": "religious", "coords": [-8.532723, 41.135202]}, {"name": "Câmara Municipal de Gondomar", "text": "Der Sitz der Stadtverwaltung von Gondomar in einem markanten Gebäude.", "category": "historical", "coords": [-8.536515, 41.14402]}, {"name": "Igreja do Divino Salvador de Fânzeres", "text": "Die Gemeindekirche von Fânzeres ist ein wichtiges religiöses Zentrum des Ortes.", "category": "religious", "coords": [-8.526894, 41.166421]}], "hu": [{"name": "Museu Municipal da Filigrana de Gondomar", "text": "Ez a gondomari múzeum a hagyományos filigrán aranyművességnek szentelt kiállításnak ad otthont.", "category": "museum", "coords": [-8.55769, 41.125754]}, {"name": "Auditório Municipal de Gondomar", "text": "Gondomar modern városi auditóriuma kulturális eseményeknek és előadásoknak ad otthont.", "category": "cultural", "coords": [-8.533148, 41.137071]}, {"name": "Museu Mineiro de São Pedro da Cova", "text": "A bányászati múzeum São Pedro da Cova ipari történelmét mutatja be.", "category": "museum", "coords": [-8.509721, 41.162684]}, {"name": "Lugar do Desenho", "text": "Művészeti múzeum Gondomarban, amely kortárs rajzokat mutat be.", "category": "museum", "coords": [-8.562823, 41.126804]}, {"name": "Praia Fluvial do Areinho de Avintes", "text": "A közvetlenül a Douro folyó partján fekvő népszerű folyami strand Avintesben, Gondomar közelében számos szabadidős tevékenységet kínál. Az élettel teli környezet vonzza a helyieket, akik a vízben pihenve élvezik a portugál napsütést. Különösen a nyári hónapokban javasolt a korai érkezés.", "category": "recreational", "coords": [-8.556594, 41.121505]}, {"name": "Monte Crasto", "text": "Gondomar egyik jellegzetes magaslata, ahonnan szép kilátás nyílik a környékre.", "category": "natural", "coords": [-8.536566, 41.141841]}, {"name": "Monumento em Homenagem ao Ourives", "text": "Emlékmű Gondomarban a helyi aranyműves hagyományok tiszteletére.", "category": "historical", "coords": [-8.535837, 41.136529]}, {"name": "Soldado Desconhecido", "text": "Az ismeretlen katona emlékműve Gondomar városában.", "category": "historical", "coords": [-8.528807, 41.159717]}, {"name": "Bombeiro Voluntário", "text": "Emlékmű Gondomarban az önkéntes tűzoltók tiszteletére.", "category": "historical", "coords": [-8.52947, 41.13618]}, {"name": "Rancho Gondomar", "text": "Kulturális látnivaló Gondomarban, amely a helyi hagyományokhoz kapcsolódik.", "category": "landmark", "coords": [-8.527238, 41.142773]}, {"name": "Igreja Matriz de Gondomar (São Cosme)", "text": "Gondomar barokk főtemploma, amelyet Szent Kozma és Damján tiszteletére szenteltek.", "category": "religious", "coords": [-8.532723, 41.135202]}, {"name": "Câmara Municipal de Gondomar", "text": "Gondomar város önkormányzatának székhelye egy jellegzetes épületben.", "category": "historical", "coords": [-8.536515, 41.14402]}, {"name": "Igreja do Divino Salvador de Fânzeres", "text": "Fânzeres plébániatemploma a település fontos vallási központja.", "category": "religious", "coords": [-8.526894, 41.166421]}], "ro": [{"name": "Museu Municipal da Filigrana de Gondomar", "text": "Acest muzeu din Gondomar este dedicat artei tradiționale a filigranului în aur.", "category": "museum", "coords": [-8.55769, 41.125754]}, {"name": "Auditório Municipal de Gondomar", "text": "Un auditoriu municipal modern în Gondomar, utilizat pentru evenimente culturale și spectacole.", "category": "cultural", "coords": [-8.533148, 41.137071]}, {"name": "Museu Mineiro de São Pedro da Cova", "text": "Muzeul mineritului documentează istoria industrială din São Pedro da Cova.", "category": "museum", "coords": [-8.509721, 41.162684]}, {"name": "Lugar do Desenho", "text": "Un muzeu de artă din Gondomar care prezintă expoziții de desen contemporan.", "category": "museum", "coords": [-8.562823, 41.126804]}, {"name": "Praia Fluvial do Areinho de Avintes", "text": "Situată direct pe malul râului Douro, această plajă fluvială populară din Avintes, lângă Gondomar, atrage prin activitățile sale de agrement. Atmosfera plină de viață adună localnicii care doresc să se relaxeze în apă și să se bucure de soarele portughez. În special în lunile de vară, este recomandat să ajungeți devreme.", "category": "recreational", "coords": [-8.556594, 41.121505]}, {"name": "Monte Crasto", "text": "O colină proeminentă din Gondomar care oferă o vedere panoramică asupra regiunii.", "category": "natural", "coords": [-8.536566, 41.141841]}, {"name": "Monumento em Homenagem ao Ourives", "text": "Un monument în Gondomar ridicat în onoarea tradiției locale a aurarilor.", "category": "historical", "coords": [-8.535837, 41.136529]}, {"name": "Soldado Desconhecido", "text": "Un monument dedicat soldatului necunoscut în Gondomar.", "category": "historical", "coords": [-8.528807, 41.159717]}, {"name": "Bombeiro Voluntário", "text": "Un monument în Gondomar dedicat pompierilor voluntari.", "category": "historical", "coords": [-8.52947, 41.13618]}, {"name": "Rancho Gondomar", "text": "O atracție culturală din Gondomar legată de tradițiile locale.", "category": "landmark", "coords": [-8.527238, 41.142773]}, {"name": "Igreja Matriz de Gondomar (São Cosme)", "text": "Biserica principală barocă din Gondomar este dedicată Sfinților Cosma și Damian.", "category": "religious", "coords": [-8.532723, 41.135202]}, {"name": "Câmara Municipal de Gondomar", "text": "Sediul administrației locale din Gondomar, situat într-o clădire proeminentă.", "category": "historical", "coords": [-8.536515, 41.14402]}, {"name": "Igreja do Divino Salvador de Fânzeres", "text": "Biserica parohială din Fânzeres este un centru religios important al localității.", "category": "religious", "coords": [-8.526894, 41.166421]}], "en": [{"name": "Museu Municipal da Filigrana de Gondomar", "text": "This museum in Gondomar is dedicated to the traditional goldsmith art of filigree.", "category": "museum", "coords": [-8.55769, 41.125754]}, {"name": "Auditório Municipal de Gondomar", "text": "A modern municipal auditorium in Gondomar used for cultural events and performances.", "category": "cultural", "coords": [-8.533148, 41.137071]}, {"name": "Museu Mineiro de São Pedro da Cova", "text": "The mining museum documents the industrial history of São Pedro da Cova.", "category": "museum", "coords": [-8.509721, 41.162684]}, {"name": "Lugar do Desenho", "text": "An art museum in Gondomar showcasing contemporary drawing exhibitions.", "category": "museum", "coords": [-8.562823, 41.126804]}, {"name": "Praia Fluvial do Areinho de Avintes", "text": "Situated directly on the banks of the Douro, this popular river beach in Avintes near Gondomar invites visitors to enjoy various leisure activities. The lively setting attracts locals who want to relax in the water and soak up the Portuguese sun. Especially during the summer months, arriving early is highly recommended.", "category": "recreational", "coords": [-8.556594, 41.121505]}, {"name": "Monte Crasto", "text": "A prominent hill in Gondomar offering panoramic views over the region.", "category": "natural", "coords": [-8.536566, 41.141841]}, {"name": "Monumento em Homenagem ao Ourives", "text": "A monument in Gondomar honoring the local goldsmithing tradition.", "category": "historical", "coords": [-8.535837, 41.136529]}, {"name": "Soldado Desconhecido", "text": "A monument dedicated to the unknown soldier in Gondomar.", "category": "historical", "coords": [-8.528807, 41.159717]}, {"name": "Bombeiro Voluntário", "text": "A monument in Gondomar honoring voluntary firefighters.", "category": "historical", "coords": [-8.52947, 41.13618]}, {"name": "Rancho Gondomar", "text": "A cultural attraction in Gondomar associated with local traditions.", "category": "landmark", "coords": [-8.527238, 41.142773]}, {"name": "Igreja Matriz de Gondomar (São Cosme)", "text": "The baroque main church of Gondomar is dedicated to Saints Cosmas and Damian.", "category": "religious", "coords": [-8.532723, 41.135202]}, {"name": "Câmara Municipal de Gondomar", "text": "The seat of the local government of Gondomar located in a prominent building.", "category": "historical", "coords": [-8.536515, 41.14402]}, {"name": "Igreja do Divino Salvador de Fânzeres", "text": "The parish church of Fânzeres is an important religious center of the town.", "category": "religious", "coords": [-8.526894, 41.166421]}]},
+    id: "portugal-gondomar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Municipal da Filigrana de Gondomar",
+                  "text": "Dieses Museum in Gondomar widmet sich der traditionellen Goldschmiedekunst der Filigranarbeit.",
+                  "category": "museum",
+                  "coords": [
+                        -8.55769,
+                        41.125754
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Gondomar",
+                  "text": "Ein modernes städtisches Auditorium in Gondomar für kulturelle Veranstaltungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.533148,
+                        41.137071
+                  ]
+            },
+            {
+                  "name": "Museu Mineiro de São Pedro da Cova",
+                  "text": "Das Bergbaumuseum dokumentiert die Industriegeschichte von São Pedro da Cova.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509721,
+                        41.162684
+                  ]
+            },
+            {
+                  "name": "Lugar do Desenho",
+                  "text": "Ein Kunstmuseum in Gondomar, das Ausstellungen zeitgenössischer Zeichnungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.562823,
+                        41.126804
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho de Avintes",
+                  "text": "Direkt am Ufer des Douro gelegen, lädt dieser beliebte Flussstrand in Avintes bei Gondomar zu abwechslungsreichen Freizeitaktivitäten ein. Die lebhafte Umgebung zieht Einheimische an, die das Wasser und die Sonne Portugals genießen möchten. Vor allem in den Sommermonaten empfiehlt es sich, zeitig vor Ort zu sein.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.556594,
+                        41.121505
+                  ]
+            },
+            {
+                  "name": "Monte Crasto",
+                  "text": "Eine markante Erhebung in Gondomar, die einen weiten Blick über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.536566,
+                        41.141841
+                  ]
+            },
+            {
+                  "name": "Monumento em Homenagem ao Ourives",
+                  "text": "Ein Denkmal in Gondomar zu Ehren der lokalen Goldschmiede-Tradition.",
+                  "category": "historical",
+                  "coords": [
+                        -8.535837,
+                        41.136529
+                  ]
+            },
+            {
+                  "name": "Soldado Desconhecido",
+                  "text": "Ein Denkmal für den unbekannten Soldaten in Gondomar.",
+                  "category": "historical",
+                  "coords": [
+                        -8.528807,
+                        41.159717
+                  ]
+            },
+            {
+                  "name": "Bombeiro Voluntário",
+                  "text": "Ein Denkmal in Gondomar zu Ehren der freiwilligen Feuerwehrleute.",
+                  "category": "historical",
+                  "coords": [
+                        -8.52947,
+                        41.13618
+                  ]
+            },
+            {
+                  "name": "Rancho Gondomar",
+                  "text": "Eine kulturelle Attraktion in Gondomar, die mit lokalen Traditionen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.527238,
+                        41.142773
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Gondomar (São Cosme)",
+                  "text": "Die barocke Hauptkirche von Gondomar ist den Heiligen Cosmas und Damian geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        -8.532723,
+                        41.135202
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Gondomar",
+                  "text": "Der Sitz der Stadtverwaltung von Gondomar in einem markanten Gebäude.",
+                  "category": "historical",
+                  "coords": [
+                        -8.536515,
+                        41.14402
+                  ]
+            },
+            {
+                  "name": "Igreja do Divino Salvador de Fânzeres",
+                  "text": "Die Gemeindekirche von Fânzeres ist ein wichtiges religiöses Zentrum des Ortes.",
+                  "category": "religious",
+                  "coords": [
+                        -8.526894,
+                        41.166421
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de São Cosme Gondomar",
+                  "text": "Öffentliche Schwimmbäder in Gondomar, ideal für Familienspaß und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        -8.540744,
+                        41.136823
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de São Pedro da Cova",
+                  "text": "Städtische Schwimmbäder in São Pedro da Cova, die der lokalen Bevölkerung dienen.",
+                  "category": "family",
+                  "coords": [
+                        -8.504048,
+                        41.160022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Municipal da Filigrana de Gondomar",
+                  "text": "Ez a gondomari múzeum a hagyományos filigrán aranyművességnek szentelt kiállításnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -8.55769,
+                        41.125754
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Gondomar",
+                  "text": "Gondomar modern városi auditóriuma kulturális eseményeknek és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.533148,
+                        41.137071
+                  ]
+            },
+            {
+                  "name": "Museu Mineiro de São Pedro da Cova",
+                  "text": "A bányászati múzeum São Pedro da Cova ipari történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509721,
+                        41.162684
+                  ]
+            },
+            {
+                  "name": "Lugar do Desenho",
+                  "text": "Művészeti múzeum Gondomarban, amely kortárs rajzokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.562823,
+                        41.126804
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho de Avintes",
+                  "text": "A közvetlenül a Douro folyó partján fekvő népszerű folyami strand Avintesben, Gondomar közelében számos szabadidős tevékenységet kínál. Az élettel teli környezet vonzza a helyieket, akik a vízben pihenve élvezik a portugál napsütést. Különösen a nyári hónapokban javasolt a korai érkezés.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.556594,
+                        41.121505
+                  ]
+            },
+            {
+                  "name": "Monte Crasto",
+                  "text": "Gondomar egyik jellegzetes magaslata, ahonnan szép kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -8.536566,
+                        41.141841
+                  ]
+            },
+            {
+                  "name": "Monumento em Homenagem ao Ourives",
+                  "text": "Emlékmű Gondomarban a helyi aranyműves hagyományok tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -8.535837,
+                        41.136529
+                  ]
+            },
+            {
+                  "name": "Soldado Desconhecido",
+                  "text": "Az ismeretlen katona emlékműve Gondomar városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.528807,
+                        41.159717
+                  ]
+            },
+            {
+                  "name": "Bombeiro Voluntário",
+                  "text": "Emlékmű Gondomarban az önkéntes tűzoltók tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -8.52947,
+                        41.13618
+                  ]
+            },
+            {
+                  "name": "Rancho Gondomar",
+                  "text": "Kulturális látnivaló Gondomarban, amely a helyi hagyományokhoz kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.527238,
+                        41.142773
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Gondomar (São Cosme)",
+                  "text": "Gondomar barokk főtemploma, amelyet Szent Kozma és Damján tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.532723,
+                        41.135202
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Gondomar",
+                  "text": "Gondomar város önkormányzatának székhelye egy jellegzetes épületben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.536515,
+                        41.14402
+                  ]
+            },
+            {
+                  "name": "Igreja do Divino Salvador de Fânzeres",
+                  "text": "Fânzeres plébániatemploma a település fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        -8.526894,
+                        41.166421
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de São Cosme Gondomar",
+                  "text": "Nyilvános úszómedencék Gondomarban, amelyek ideálisak a családi szórakozáshoz és a testmozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.540744,
+                        41.136823
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de São Pedro da Cova",
+                  "text": "Városi úszómedencék São Pedro da Cova területén, a helyi közösség szolgálatában.",
+                  "category": "family",
+                  "coords": [
+                        -8.504048,
+                        41.160022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Municipal da Filigrana de Gondomar",
+                  "text": "Acest muzeu din Gondomar este dedicat artei tradiționale a filigranului în aur.",
+                  "category": "museum",
+                  "coords": [
+                        -8.55769,
+                        41.125754
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Gondomar",
+                  "text": "Un auditoriu municipal modern în Gondomar, utilizat pentru evenimente culturale și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.533148,
+                        41.137071
+                  ]
+            },
+            {
+                  "name": "Museu Mineiro de São Pedro da Cova",
+                  "text": "Muzeul mineritului documentează istoria industrială din São Pedro da Cova.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509721,
+                        41.162684
+                  ]
+            },
+            {
+                  "name": "Lugar do Desenho",
+                  "text": "Un muzeu de artă din Gondomar care prezintă expoziții de desen contemporan.",
+                  "category": "museum",
+                  "coords": [
+                        -8.562823,
+                        41.126804
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho de Avintes",
+                  "text": "Situată direct pe malul râului Douro, această plajă fluvială populară din Avintes, lângă Gondomar, atrage prin activitățile sale de agrement. Atmosfera plină de viață adună localnicii care doresc să se relaxeze în apă și să se bucure de soarele portughez. În special în lunile de vară, este recomandat să ajungeți devreme.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.556594,
+                        41.121505
+                  ]
+            },
+            {
+                  "name": "Monte Crasto",
+                  "text": "O colină proeminentă din Gondomar care oferă o vedere panoramică asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -8.536566,
+                        41.141841
+                  ]
+            },
+            {
+                  "name": "Monumento em Homenagem ao Ourives",
+                  "text": "Un monument în Gondomar ridicat în onoarea tradiției locale a aurarilor.",
+                  "category": "historical",
+                  "coords": [
+                        -8.535837,
+                        41.136529
+                  ]
+            },
+            {
+                  "name": "Soldado Desconhecido",
+                  "text": "Un monument dedicat soldatului necunoscut în Gondomar.",
+                  "category": "historical",
+                  "coords": [
+                        -8.528807,
+                        41.159717
+                  ]
+            },
+            {
+                  "name": "Bombeiro Voluntário",
+                  "text": "Un monument în Gondomar dedicat pompierilor voluntari.",
+                  "category": "historical",
+                  "coords": [
+                        -8.52947,
+                        41.13618
+                  ]
+            },
+            {
+                  "name": "Rancho Gondomar",
+                  "text": "O atracție culturală din Gondomar legată de tradițiile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.527238,
+                        41.142773
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Gondomar (São Cosme)",
+                  "text": "Biserica principală barocă din Gondomar este dedicată Sfinților Cosma și Damian.",
+                  "category": "religious",
+                  "coords": [
+                        -8.532723,
+                        41.135202
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Gondomar",
+                  "text": "Sediul administrației locale din Gondomar, situat într-o clădire proeminentă.",
+                  "category": "historical",
+                  "coords": [
+                        -8.536515,
+                        41.14402
+                  ]
+            },
+            {
+                  "name": "Igreja do Divino Salvador de Fânzeres",
+                  "text": "Biserica parohială din Fânzeres este un centru religios important al localității.",
+                  "category": "religious",
+                  "coords": [
+                        -8.526894,
+                        41.166421
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de São Cosme Gondomar",
+                  "text": "Piscine publice în Gondomar, ideale pentru distracție în familie și exerciții fizice.",
+                  "category": "family",
+                  "coords": [
+                        -8.540744,
+                        41.136823
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de São Pedro da Cova",
+                  "text": "Piscine municipale în São Pedro da Cova, deservind comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        -8.504048,
+                        41.160022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Municipal da Filigrana de Gondomar",
+                  "text": "This museum in Gondomar is dedicated to the traditional goldsmith art of filigree.",
+                  "category": "museum",
+                  "coords": [
+                        -8.55769,
+                        41.125754
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Gondomar",
+                  "text": "A modern municipal auditorium in Gondomar used for cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.533148,
+                        41.137071
+                  ]
+            },
+            {
+                  "name": "Museu Mineiro de São Pedro da Cova",
+                  "text": "The mining museum documents the industrial history of São Pedro da Cova.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509721,
+                        41.162684
+                  ]
+            },
+            {
+                  "name": "Lugar do Desenho",
+                  "text": "An art museum in Gondomar showcasing contemporary drawing exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -8.562823,
+                        41.126804
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho de Avintes",
+                  "text": "Situated directly on the banks of the Douro, this popular river beach in Avintes near Gondomar invites visitors to enjoy various leisure activities. The lively setting attracts locals who want to relax in the water and soak up the Portuguese sun. Especially during the summer months, arriving early is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.556594,
+                        41.121505
+                  ]
+            },
+            {
+                  "name": "Monte Crasto",
+                  "text": "A prominent hill in Gondomar offering panoramic views over the region.",
+                  "category": "natural",
+                  "coords": [
+                        -8.536566,
+                        41.141841
+                  ]
+            },
+            {
+                  "name": "Monumento em Homenagem ao Ourives",
+                  "text": "A monument in Gondomar honoring the local goldsmithing tradition.",
+                  "category": "historical",
+                  "coords": [
+                        -8.535837,
+                        41.136529
+                  ]
+            },
+            {
+                  "name": "Soldado Desconhecido",
+                  "text": "A monument dedicated to the unknown soldier in Gondomar.",
+                  "category": "historical",
+                  "coords": [
+                        -8.528807,
+                        41.159717
+                  ]
+            },
+            {
+                  "name": "Bombeiro Voluntário",
+                  "text": "A monument in Gondomar honoring voluntary firefighters.",
+                  "category": "historical",
+                  "coords": [
+                        -8.52947,
+                        41.13618
+                  ]
+            },
+            {
+                  "name": "Rancho Gondomar",
+                  "text": "A cultural attraction in Gondomar associated with local traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.527238,
+                        41.142773
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Gondomar (São Cosme)",
+                  "text": "The baroque main church of Gondomar is dedicated to Saints Cosmas and Damian.",
+                  "category": "religious",
+                  "coords": [
+                        -8.532723,
+                        41.135202
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Gondomar",
+                  "text": "The seat of the local government of Gondomar located in a prominent building.",
+                  "category": "historical",
+                  "coords": [
+                        -8.536515,
+                        41.14402
+                  ]
+            },
+            {
+                  "name": "Igreja do Divino Salvador de Fânzeres",
+                  "text": "The parish church of Fânzeres is an important religious center of the town.",
+                  "category": "religious",
+                  "coords": [
+                        -8.526894,
+                        41.166421
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de São Cosme Gondomar",
+                  "text": "Public swimming pools in Gondomar, ideal for family fun and exercise.",
+                  "category": "family",
+                  "coords": [
+                        -8.540744,
+                        41.136823
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de São Pedro da Cova",
+                  "text": "Municipal swimming pools in São Pedro da Cova serving the local community.",
+                  "category": "family",
+                  "coords": [
+                        -8.504048,
+                        41.160022
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Gondomar", hu: "Gondomar", ro: "Gondomar", en: "Gondomar" },
@@ -7116,6 +17277,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.285563,
                         41.207083
                   ]
+            },
+            {
+                  "name": "Piscina Verde",
+                  "text": "Ein Schwimmbad in Penafiel, das Erfrischung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.324421,
+                        41.209153
+                  ]
+            },
+            {
+                  "name": "Lago do Galeão",
+                  "text": "Eine Schwimmeinrichtung in Penafiel für Erholungssuchende.",
+                  "category": "family",
+                  "coords": [
+                        -8.279215,
+                        41.199681
+                  ]
             }
       ],
       "hu": [
@@ -7225,6 +17404,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.285563,
                         41.207083
+                  ]
+            },
+            {
+                  "name": "Piscina Verde",
+                  "text": "Úszómedence Penafiel városában, amely szabadtéri felfrissülést kínál.",
+                  "category": "family",
+                  "coords": [
+                        -8.324421,
+                        41.209153
+                  ]
+            },
+            {
+                  "name": "Lago do Galeão",
+                  "text": "Úszóhely Penafiel városában a kikapcsolódni vágyóknak.",
+                  "category": "family",
+                  "coords": [
+                        -8.279215,
+                        41.199681
                   ]
             }
       ],
@@ -7336,6 +17533,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.285563,
                         41.207083
                   ]
+            },
+            {
+                  "name": "Piscina Verde",
+                  "text": "O piscină în Penafiel care oferă răcorire în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -8.324421,
+                        41.209153
+                  ]
+            },
+            {
+                  "name": "Lago do Galeão",
+                  "text": "O facilitate de înot în Penafiel pentru cei care caută recreere.",
+                  "category": "family",
+                  "coords": [
+                        -8.279215,
+                        41.199681
+                  ]
             }
       ],
       "en": [
@@ -7446,6 +17661,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.285563,
                         41.207083
                   ]
+            },
+            {
+                  "name": "Piscina Verde",
+                  "text": "A swimming pool in Penafiel offering outdoor refreshment.",
+                  "category": "family",
+                  "coords": [
+                        -8.324421,
+                        41.209153
+                  ]
+            },
+            {
+                  "name": "Lago do Galeão",
+                  "text": "A swimming facility in Penafiel for those seeking recreation.",
+                  "category": "family",
+                  "coords": [
+                        -8.279215,
+                        41.199681
+                  ]
             }
       ]
 },
@@ -7548,6 +17781,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.549379,
                         41.33559
                   ]
+            },
+            {
+                  "name": "Health Club Complexo Tropical",
+                  "text": "Das Health Club Complexo Tropical in Trofa bietet ein Schwimmbad für Wellness und Fitness.",
+                  "category": "family",
+                  "coords": [
+                        -8.55797,
+                        41.341836
+                  ]
             }
       ],
       "hu": [
@@ -7603,6 +17845,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.549379,
                         41.33559
+                  ]
+            },
+            {
+                  "name": "Health Club Complexo Tropical",
+                  "text": "A trofai Health Club Complexo Tropical úszómedencét kínál wellness és fitnesz céljára.",
+                  "category": "family",
+                  "coords": [
+                        -8.55797,
+                        41.341836
                   ]
             }
       ],
@@ -7660,6 +17911,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.549379,
                         41.33559
                   ]
+            },
+            {
+                  "name": "Health Club Complexo Tropical",
+                  "text": "Health Club Complexo Tropical din Trofa oferă o piscină pentru wellness și fitness.",
+                  "category": "family",
+                  "coords": [
+                        -8.55797,
+                        41.341836
+                  ]
             }
       ],
       "en": [
@@ -7715,6 +17975,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.549379,
                         41.33559
+                  ]
+            },
+            {
+                  "name": "Health Club Complexo Tropical",
+                  "text": "The Health Club Complexo Tropical in Trofa offers a swimming pool for wellness and fitness.",
+                  "category": "family",
+                  "coords": [
+                        -8.55797,
+                        41.341836
                   ]
             }
       ]
@@ -7818,6 +18087,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.57312,
                         41.210354
                   ]
+            },
+            {
+                  "name": "Candy Fun Park",
+                  "text": "Themenpark in Ermesinde mit spielerischen Attraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -8.545066,
+                        41.199209
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Águas Santas",
+                  "text": "Öffentliches Schwimmbad in Ermesinde für sportliche Aktivitäten und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        -8.563787,
+                        41.204028
+                  ]
             }
       ],
       "hu": [
@@ -7873,6 +18160,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.57312,
                         41.210354
+                  ]
+            },
+            {
+                  "name": "Candy Fun Park",
+                  "text": "Vidámpark Ermesinde területén, játékos látnivalókkal a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.545066,
+                        41.199209
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Águas Santas",
+                  "text": "Nyilvános úszómedence Ermesinde területén sportoláshoz és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        -8.563787,
+                        41.204028
                   ]
             }
       ],
@@ -7930,6 +18235,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.57312,
                         41.210354
                   ]
+            },
+            {
+                  "name": "Candy Fun Park",
+                  "text": "Parc tematic în Ermesinde cu atracții ludice pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -8.545066,
+                        41.199209
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Águas Santas",
+                  "text": "Piscină publică în Ermesinde pentru activități sportive și timp liber.",
+                  "category": "family",
+                  "coords": [
+                        -8.563787,
+                        41.204028
+                  ]
             }
       ],
       "en": [
@@ -7985,6 +18308,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.57312,
                         41.210354
+                  ]
+            },
+            {
+                  "name": "Candy Fun Park",
+                  "text": "Theme park in Ermesinde with playful attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        -8.545066,
+                        41.199209
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Águas Santas",
+                  "text": "Public swimming pool in Ermesinde for sports activities and leisure.",
+                  "category": "family",
+                  "coords": [
+                        -8.563787,
+                        41.204028
                   ]
             }
       ]
@@ -8078,7 +18419,916 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-valenca-cities-v2.webp",
   },
   {
-    id: "portugal-caminha-cities-v2", "sights": {"de": [{"name": "Povoado do Alto do Couto da Pena", "text": "Diese archäologische Stätte in Caminha bewahrt die Überreste einer alten lokalen Siedlung.", "category": "historical", "coords": [-8.835155, 41.866373]}, {"name": "Praia do Muíño", "text": "Wo der Minho in den Atlantik mündet, offenbart sich dieser malerische Strand von Caminha. Die besondere Lage am Flussdelta verspricht idyllische Spaziergänge und entspannte Momente am Wasser. Um das Farbenspiel am Himmel voll auszukosten, lohnt sich ein Besuch am späten Nachmittag.", "category": "recreational", "coords": [-8.868549, 41.872873]}, {"name": "Praia da Armona", "text": "Charakteristisch für diesen Küstenabschnitt in Caminha ist seine unberührte, natürliche Umgebung. Dieser schöne Strand lädt Reisende zum Sonnenbaden und zum Lauschen der portugiesischen Meereswellen ein. Ein windgeschütztes Plätzchen lässt sich am besten bei einem morgendlichen Spaziergang ergattern.", "category": "recreational", "coords": [-8.856023, 41.882528]}, {"name": "Castro de Sa", "text": "Castro de Sa ist eine alte Wallburg, die historische Beweise für die frühe Besiedlung in Caminha liefert.", "category": "historical", "coords": [-8.862149, 41.888608]}, {"name": "Praia da Lamiña", "text": "Wer abseits des Trubels Entspannung sucht, wird an diesem ruhigen lokalen Strand in Caminha fündig. Die entspannte Szenerie ist wunderbar geeignet, um die Seele beim Baden oder einem stillen Strandspaziergang baumeln zu lassen. Packen Sie sich ein gutes Buch ein und genießen Sie die friedliche Stimmung am Vormittag.", "category": "recreational", "coords": [-8.86241, 41.87711]}, {"name": "Pedras Ruivas", "text": "Pedras Ruivas ist ein Küstenabschnitt in Caminha, der für seine markante felsige Strandlandschaft bekannt ist.", "category": "recreational", "coords": [-8.82488, 41.890947]}, {"name": "Praia Fluvial da Junqueira", "text": "Eine herrliche Süßwasser-Alternative zur Küste stellt dieser Erholungsort am Flussufer von Caminha dar. Unter der Sonne Portugals können sich Gäste hier herrlich erfrischen und das familiäre Ambiente genießen. Am besten besucht man den Strand in der warmen Jahreszeit, um vollends ins kühle Nass einzutauchen.", "category": "recreational", "coords": [-8.814389, 41.872302]}, {"name": "ZEPA Esteiro do Miño", "text": "Dieses Naturschutzgebiet in Caminha ist ein Schutzgebiet, das sich auf den Erhalt des lokalen Ökosystems der Minho-Mündung konzentriert.", "category": "natural", "coords": [-8.766156, 41.944552]}, {"name": "Praia de Caminha", "text": "Als wichtigster Küstenabschnitt der Stadt fängt dieser Strand das maritime Herz von Caminha ein. Der weitläufige Ort ist ein Anziehungspunkt für Sonnenanbeter und Wasserratten, die den Atlantik lieben. Während der Sommermonate lohnt sich eine frühe Ankunft, um den Tag entspannt am Meer zu beginnen.", "category": "recreational", "coords": [-8.864006, 41.864049]}, {"name": "Casa dos Pitas", "text": "Das Casa dos Pitas ist ein historisches Haus in Caminha, das für seine architektonischen Details bekannt ist.", "category": "landmark", "coords": [-8.838055, 41.875383]}, {"name": "Miradoiro da Xunqueira", "text": "Der Miradoiro da Xunqueira bietet einen Panoramablick auf die umliegenden Landschaften von Caminha.", "category": "natural", "coords": [-8.839714, 41.906763]}, {"name": "Miradouro da Fraga", "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die Region Caminha und ihre natürlichen Gegebenheiten.", "category": "natural", "coords": [-8.843375, 41.863497]}, {"name": "Miradouro do Gorito", "text": "Der Miradouro do Gorito ist ein malerischer Ort in Caminha, der für die Beobachtung der lokalen Landschaft vorgesehen ist.", "category": "natural", "coords": [-8.807369, 41.895754]}, {"name": "Cine Teatro Valadares", "text": "Dies sind die Überreste des historischen Gebäudes des Cine Teatro Valadares in Caminha.", "category": "historical", "coords": [-8.837933, 41.878441]}, {"name": "Convento de Santo António", "text": "Dieses ehemalige Kloster in Caminha dient als Gotteshaus und historisches religiöses Denkmal.", "category": "religious", "coords": [-8.838922, 41.873014]}, {"name": "Igreja Velha", "text": "Die „Alte Kirche“ von Caminha ist ein antikes lokales religiöses Bauwerk.", "category": "religious", "coords": [-8.836952, 41.871049]}, {"name": "Igreja de Santa Clara", "text": "Diese der Heiligen Klara gewidmete Kirche ist ein traditionelles Gotteshaus in Caminha.", "category": "religious", "coords": [-8.841474, 41.871823]}, {"name": "Igrexa de Santa Isabel de Camposancos", "text": "Diese Kirche im Viertel Camposancos von Caminha ist der Heiligen Elisabeth gewidmet.", "category": "religious", "coords": [-8.863235, 41.885361]}, {"name": "Entidade Local Menor de Camposancos", "text": "Dieses Gebäude dient als Verwaltungssitz der lokalen Teilgemeinde Camposancos in Caminha.", "category": "historical", "coords": [-8.864856, 41.885632]}, {"name": "Capela de San Xosé da Pasaxe", "text": "Die Kapelle des Heiligen Josef von Pasaxe ist eine kleine religiöse Stätte in der Gegend von Caminha.", "category": "religious", "coords": [-8.850917, 41.889187]}, {"name": "Capela de Nosa Señora da Graza da Pasaxe", "text": "Diese Kapelle in Caminha ist Unserer Lieben Frau der Gnade gewidmet und dient der lokalen Gemeinschaft.", "category": "religious", "coords": [-8.852075, 41.888204]}, {"name": "Câmara Municipal de Caminha", "text": "Die Câmara Municipal ist das Rathaus und das wichtigste Verwaltungsgebäude von Caminha.", "category": "historical", "coords": [-8.838504, 41.876473]}, {"name": "Presa da Cheira", "text": "Die Presa da Cheira ist ein kleiner See in der malerischen Umgebung von Caminha.", "category": "natural", "coords": [-8.827343, 41.935195]}, {"name": "Roda", "text": "Roda ist ein einfacher Spielbereich für Kinder in Caminha.", "category": "family", "coords": [-8.835545, 41.876986]}], "hu": [{"name": "Povoado do Alto do Couto da Pena", "text": "Ez a caminhai régészeti lelőhely egy ősi helyi település maradványait őrzi.", "category": "historical", "coords": [-8.835155, 41.866373]}, {"name": "Praia do Muíño", "text": "Ahol a Minho folyó az Atlanti-óceánba torkollik, ott tárul elénk Caminha festői strandja. A folyótorkolat különleges elhelyezkedése idilli sétákat és pihentető pillanatokat ígér a vízparton. Az égbolt lenyűgöző színeinek megcsodálásához érdemes késő délután idelátogatni.", "category": "recreational", "coords": [-8.868549, 41.872873]}, {"name": "Praia da Armona", "text": "Ennek a Caminha környéki partszakasznak a jellegzetessége az érintetlen, természetes környezet. Ez a gyönyörű tengerparti strand napozásra és a nyugtató portugál hullámok hallgatására csábítja az utazókat. A szélvédett helyek megtalálásához a legbiztosabb egy békés reggeli séta.", "category": "recreational", "coords": [-8.856023, 41.882528]}, {"name": "Castro de Sa", "text": "A Castro de Sa egy ősi domberődhelyszín, amely Caminha korai lakottságának történelmi bizonyítékaival szolgál.", "category": "historical", "coords": [-8.862149, 41.888608]}, {"name": "Praia da Lamiña", "text": "Aki a nyüzsgéstől távol keres kikapcsolódást, az ezen a csendes helyi strandon, Caminhában biztosan megtalálja. A nyugodt táj csodálatosan alkalmas a pihenésre, akár egy úszás, akár egy csendes tengerparti séta formájában. Hozzon magával egy jó könyvet, és élvezze a békés délelőtti hangulatot.", "category": "recreational", "coords": [-8.86241, 41.87711]}, {"name": "Pedras Ruivas", "text": "A Pedras Ruivas egy tengerparti terület Caminhában, amely jellegzetes sziklás strandjáról ismert.", "category": "recreational", "coords": [-8.82488, 41.890947]}, {"name": "Praia Fluvial da Junqueira", "text": "Ez a Caminha folyóparti pihenőhelye csodálatos édesvízi alternatívát kínál a közeli tengerparttal szemben. A portugál nap alatt a vendégek felfrissülhetnek és élvezhetik a barátságos hangulatot. A legjobb a meleg évszakban idelátogatni, hogy teljesen elmerülhessen a hűsítő habokban.", "category": "recreational", "coords": [-8.814389, 41.872302]}, {"name": "ZEPA Esteiro do Miño", "text": "Ez a caminhai természetvédelmi terület egy védett övezet, amely a Minho-torkolat helyi ökoszisztémájának megőrzésére összpontosít.", "category": "natural", "coords": [-8.766156, 41.944552]}, {"name": "Praia de Caminha", "text": "A város legfőbb tengerparti szakaszaként ez a strand igazán megragadja Caminha tengeri szívét. A tágas partszakasz vonzza a napozni vágyókat és a vízimádókat, akik kedvelik az Atlanti-óceánt. A nyári hónapokban a korai érkezés tökéletes módja annak, hogy lazán induljon a nap a tenger mellett.", "category": "recreational", "coords": [-8.864006, 41.864049]}, {"name": "Casa dos Pitas", "text": "A Casa dos Pitas egy történelmi ház Caminhában, amely építészeti részleteiről ismert.", "category": "landmark", "coords": [-8.838055, 41.875383]}, {"name": "Miradoiro da Xunqueira", "text": "A Miradoiro da Xunqueira panorámás kilátást nyújt Caminha környező tájaira.", "category": "natural", "coords": [-8.839714, 41.906763]}, {"name": "Miradouro da Fraga", "text": "Ez a kilátóhely emelt szintű rálátást biztosít Caminha régiójára és természeti adottságaira.", "category": "natural", "coords": [-8.843375, 41.863497]}, {"name": "Miradouro do Gorito", "text": "A Miradouro do Gorito egy festői hely Caminhában, amelyet a helyi táj megfigyelésére jelöltek ki.", "category": "natural", "coords": [-8.807369, 41.895754]}, {"name": "Cine Teatro Valadares", "text": "Ez a caminhai történelmi Cine Teatro Valadares épületének maradványai.", "category": "historical", "coords": [-8.837933, 41.878441]}, {"name": "Convento de Santo António", "text": "Ez a korábbi kolostor Caminhában templomként és történelmi vallási helyszínként szolgál.", "category": "religious", "coords": [-8.838922, 41.873014]}, {"name": "Igreja Velha", "text": "Caminha „Öreg temploma” egy ősi helyi vallási építmény.", "category": "religious", "coords": [-8.836952, 41.871049]}, {"name": "Igreja de Santa Clara", "text": "Ezt a Szent Klárának szentelt templomot Caminhában hagyományos vallási helyszínként tartják számon.", "category": "religious", "coords": [-8.841474, 41.871823]}, {"name": "Igrexa de Santa Isabel de Camposancos", "text": "Ez a templom Caminha Camposancos negyedében található, és Szent Erzsébet tiszteletére szentelték.", "category": "religious", "coords": [-8.863235, 41.885361]}, {"name": "Entidade Local Menor de Camposancos", "text": "Ez az épület Caminha Camposancos nevű kisebb közigazgatási egységének székhelye.", "category": "historical", "coords": [-8.864856, 41.885632]}, {"name": "Capela de San Xosé da Pasaxe", "text": "A Szent József-kápolna Pasaxe-ban egy kis vallási helyszín Caminha környékén.", "category": "religious", "coords": [-8.850917, 41.889187]}, {"name": "Capela de Nosa Señora da Graza da Pasaxe", "text": "Ez a caminhai kápolna a Kegyelmes Miasszonyunknak van szentelve, és a helyi közösséget szolgálja.", "category": "religious", "coords": [-8.852075, 41.888204]}, {"name": "Câmara Municipal de Caminha", "text": "A Câmara Municipal Caminha városháza és fő közigazgatási épülete.", "category": "historical", "coords": [-8.838504, 41.876473]}, {"name": "Presa da Cheira", "text": "A Presa da Cheira egy kis tó Caminha festői környezetében.", "category": "natural", "coords": [-8.827343, 41.935195]}, {"name": "Roda", "text": "A Roda egy egyszerű játszótér gyerekeknek Caminhában.", "category": "family", "coords": [-8.835545, 41.876986]}], "ro": [{"name": "Povoado do Alto do Couto da Pena", "text": "Acest sit arheologic din Caminha păstrează rămășițele unei vechi așezări locale.", "category": "historical", "coords": [-8.835155, 41.866373]}, {"name": "Praia do Muíño", "text": "Acolo unde râul Minho se varsă în Oceanul Atlantic, această plajă pitorească din Caminha își dezvăluie farmecul. Locația deosebită din delta râului promite plimbări idilice și momente relaxante la malul apei. Pentru a admira culorile cerului, o vizită după-amiaza târziu este foarte recomandată.", "category": "recreational", "coords": [-8.868549, 41.872873]}, {"name": "Praia da Armona", "text": "Caracteristic acestui tronson de coastă din Caminha este mediul său natural și nealterat. Această plajă frumoasă invită călătorii să se bronzeze și să asculte valurile relaxante ale oceanului. Cel mai bun mod de a găsi un loc adăpostit este o plimbare matinală.", "category": "recreational", "coords": [-8.856023, 41.882528]}, {"name": "Castro de Sa", "text": "Castro de Sa este un sit antic de cetate care oferă dovezi istorice ale locuirii timpurii în Caminha.", "category": "historical", "coords": [-8.862149, 41.888608]}, {"name": "Praia da Lamiña", "text": "Cei care caută relaxare departe de agitație o vor găsi pe această plajă locală liniștită din Caminha. Peisajul senin este minunat pentru a vă relaxa înotând sau făcând o plimbare tăcută de-a lungul țărmului. Luați o carte bună și bucurați-vă de atmosfera pașnică a dimineții.", "category": "recreational", "coords": [-8.86241, 41.87711]}, {"name": "Pedras Ruivas", "text": "Pedras Ruivas este o zonă de coastă din Caminha, recunoscută pentru peisajul său distinctiv de plajă stâncoasă.", "category": "recreational", "coords": [-8.82488, 41.890947]}, {"name": "Praia Fluvial da Junqueira", "text": "Această zonă de recreere pe malul râului din Caminha oferă o alternativă încântătoare de apă dulce la coasta din apropiere. Sub soarele portughez, oaspeții se pot răcori și se pot bucura de ambianța prietenoasă. Cel mai bine este să vizitați plaja în sezonul cald pentru a vă scufunda pe deplin în apa rece.", "category": "recreational", "coords": [-8.814389, 41.872302]}, {"name": "ZEPA Esteiro do Miño", "text": "Această rezervație naturală din Caminha este o zonă protejată axată pe conservarea ecosistemului local al estuarului Minho.", "category": "natural", "coords": [-8.766156, 41.944552]}, {"name": "Praia de Caminha", "text": "Fiind principala zonă de coastă a orașului, această plajă surprinde cu adevărat inima maritimă a orașului Caminha. Întinderea spațioasă este un magnet pentru iubitorii de soare și de apă care apreciază Oceanul Atlantic. O sosire matinală în timpul lunilor de vară este o modalitate excelentă de a începe o zi relaxantă la malul mării.", "category": "recreational", "coords": [-8.864006, 41.864049]}, {"name": "Casa dos Pitas", "text": "Casa dos Pitas este o casă istorică din Caminha, cunoscută pentru detaliile sale arhitecturale.", "category": "landmark", "coords": [-8.838055, 41.875383]}, {"name": "Miradoiro da Xunqueira", "text": "Miradoiro da Xunqueira oferă vederi panoramice asupra peisajelor înconjurătoare din Caminha.", "category": "natural", "coords": [-8.839714, 41.906763]}, {"name": "Miradouro da Fraga", "text": "Acest punct de belvedere oferă vederi de la înălțime asupra regiunii Caminha și a caracteristicilor sale naturale.", "category": "natural", "coords": [-8.843375, 41.863497]}, {"name": "Miradouro do Gorito", "text": "Miradouro do Gorito este un loc pitoresc din Caminha desemnat pentru observarea peisajului local.", "category": "natural", "coords": [-8.807369, 41.895754]}, {"name": "Cine Teatro Valadares", "text": "Acestea sunt rămășițele clădirii istorice Cine Teatro Valadares din Caminha.", "category": "historical", "coords": [-8.837933, 41.878441]}, {"name": "Convento de Santo António", "text": "Această fostă mănăstire din Caminha servește ca lăcaș de cult și sit religios istoric.", "category": "religious", "coords": [-8.838922, 41.873014]}, {"name": "Igreja Velha", "text": "„Biserica Veche” din Caminha este o veche structură religioasă locală.", "category": "religious", "coords": [-8.836952, 41.871049]}, {"name": "Igreja de Santa Clara", "text": "Dedicată Sfintei Clara, această biserică este un lăcaș de cult tradițional situat în Caminha.", "category": "religious", "coords": [-8.841474, 41.871823]}, {"name": "Igrexa de Santa Isabel de Camposancos", "text": "Această biserică din zona Camposancos din Caminha este dedicată Sfintei Elisabeta.", "category": "religious", "coords": [-8.863235, 41.885361]}, {"name": "Entidade Local Menor de Camposancos", "text": "Această clădire servește ca sediu administrativ pentru entitatea locală minoră din Camposancos, Caminha.", "category": "historical", "coords": [-8.864856, 41.885632]}, {"name": "Capela de San Xosé da Pasaxe", "text": "Capela Sfântul Iosif din Pasaxe este un mic sit religios situat în zona Caminha.", "category": "religious", "coords": [-8.850917, 41.889187]}, {"name": "Capela de Nosa Señora da Graza da Pasaxe", "text": "Această chapelă din Caminha este dedicată Maicii Domnului a Harului și deservește comunitatea locală.", "category": "religious", "coords": [-8.852075, 41.888204]}, {"name": "Câmara Municipal de Caminha", "text": "Câmara Municipal este primăria și principala clădire administrativă din Caminha.", "category": "historical", "coords": [-8.838504, 41.876473]}, {"name": "Presa da Cheira", "text": "Presa da Cheira este un lac mic în împrejurimile pitorești ale Caminhei.", "category": "natural", "coords": [-8.827343, 41.935195]}, {"name": "Roda", "text": "Roda este o zonă simplă de joacă pentru copii în Caminha.", "category": "family", "coords": [-8.835545, 41.876986]}], "en": [{"name": "Povoado do Alto do Couto da Pena", "text": "This archaeological site in Caminha preserves the remains of an ancient local settlement.", "category": "historical", "coords": [-8.835155, 41.866373]}, {"name": "Praia do Muíño", "text": "Where the Minho River meets the Atlantic, this picturesque beach in Caminha reveals its charm. The unique location at the river delta promises idyllic walks and relaxing moments by the water. To fully appreciate the colors of the sky, a late afternoon visit is highly rewarding.", "category": "recreational", "coords": [-8.868549, 41.872873]}, {"name": "Praia da Armona", "text": "Characteristic of this stretch of coast in Caminha is its unspoiled, natural environment. This beautiful coastal beach invites travelers to sunbathe and listen to the soothing Portuguese waves. The best way to secure a sheltered spot is by arriving during a peaceful morning walk.", "category": "recreational", "coords": [-8.856023, 41.882528]}, {"name": "Castro de Sa", "text": "Castro de Sa is an ancient hillfort site providing historical evidence of early habitation in Caminha.", "category": "historical", "coords": [-8.862149, 41.888608]}, {"name": "Praia da Lamiña", "text": "Those seeking relaxation away from the crowds will find it at this quiet local beach in Caminha. The tranquil scenery is wonderfully suited for unwinding while swimming or taking a silent walk along the shore. Bring a good book and enjoy the peaceful morning atmosphere.", "category": "recreational", "coords": [-8.86241, 41.87711]}, {"name": "Pedras Ruivas", "text": "Pedras Ruivas is a coastal area in Caminha recognized for its distinctive rocky beach landscape.", "category": "recreational", "coords": [-8.82488, 41.890947]}, {"name": "Praia Fluvial da Junqueira", "text": "This riverside recreation area in Caminha presents a delightful freshwater alternative to the nearby coast. Under the Portuguese sun, guests can refresh themselves and enjoy the friendly, familiar ambiance. It is best visited during the warm season for a perfect plunge into the cool water.", "category": "recreational", "coords": [-8.814389, 41.872302]}, {"name": "ZEPA Esteiro do Miño", "text": "This nature reserve in Caminha is a protected area focused on preserving the local ecosystem of the Minho estuary.", "category": "natural", "coords": [-8.766156, 41.944552]}, {"name": "Praia de Caminha", "text": "As the town's primary coastal spot, this beach truly captures the maritime heart of Caminha. The spacious stretch is a magnet for sunbathers and water lovers who appreciate the Atlantic. Arriving early during the summer months is a great way to start a relaxing day by the sea.", "category": "recreational", "coords": [-8.864006, 41.864049]}, {"name": "Casa dos Pitas", "text": "Casa dos Pitas is a historic house in Caminha known for its architectural details.", "category": "landmark", "coords": [-8.838055, 41.875383]}, {"name": "Miradoiro da Xunqueira", "text": "The Miradoiro da Xunqueira offers panoramic views of the surrounding landscapes in Caminha.", "category": "natural", "coords": [-8.839714, 41.906763]}, {"name": "Miradouro da Fraga", "text": "This viewpoint provides elevated vistas of the Caminha region and its natural features.", "category": "natural", "coords": [-8.843375, 41.863497]}, {"name": "Miradouro do Gorito", "text": "The Miradouro do Gorito is a scenic spot in Caminha designated for observing the local scenery.", "category": "natural", "coords": [-8.807369, 41.895754]}, {"name": "Cine Teatro Valadares", "text": "These are the remains of the historic Valadares Cinema-Theater building in Caminha.", "category": "historical", "coords": [-8.837933, 41.878441]}, {"name": "Convento de Santo António", "text": "This former convent in Caminha serves as a place of worship and historical religious site.", "category": "religious", "coords": [-8.838922, 41.873014]}, {"name": "Igreja Velha", "text": "The \"Old Church\" of Caminha is an ancient local religious structure.", "category": "religious", "coords": [-8.836952, 41.871049]}, {"name": "Igreja de Santa Clara", "text": "Dedicated to Saint Clare, this church is a traditional place of worship located in Caminha.", "category": "religious", "coords": [-8.841474, 41.871823]}, {"name": "Igrexa de Santa Isabel de Camposancos", "text": "This church in the Camposancos area of Caminha is dedicated to Saint Elizabeth.", "category": "religious", "coords": [-8.863235, 41.885361]}, {"name": "Entidade Local Menor de Camposancos", "text": "This building serves as the administrative seat for the local minor entity of Camposancos in Caminha.", "category": "historical", "coords": [-8.864856, 41.885632]}, {"name": "Capela de San Xosé da Pasaxe", "text": "The Chapel of Saint Joseph of Pasaxe is a small religious site located in the Caminha area.", "category": "religious", "coords": [-8.850917, 41.889187]}, {"name": "Capela de Nosa Señora da Graza da Pasaxe", "text": "This chapel in Caminha is dedicated to Our Lady of Grace and serves the local community.", "category": "religious", "coords": [-8.852075, 41.888204]}, {"name": "Câmara Municipal de Caminha", "text": "The Câmara Municipal is the town hall and principal administrative building of Caminha.", "category": "historical", "coords": [-8.838504, 41.876473]}, {"name": "Presa da Cheira", "text": "Presa da Cheira is a small lake in the picturesque surroundings of Caminha.", "category": "natural", "coords": [-8.827343, 41.935195]}, {"name": "Roda", "text": "Roda is a simple play area for children in Caminha.", "category": "family", "coords": [-8.835545, 41.876986]}]},
+    id: "portugal-caminha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Povoado do Alto do Couto da Pena",
+                  "text": "Diese archäologische Stätte in Caminha bewahrt die Überreste einer alten lokalen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -8.835155,
+                        41.866373
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Wo der Minho in den Atlantik mündet, offenbart sich dieser malerische Strand von Caminha. Die besondere Lage am Flussdelta verspricht idyllische Spaziergänge und entspannte Momente am Wasser. Um das Farbenspiel am Himmel voll auszukosten, lohnt sich ein Besuch am späten Nachmittag.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Charakteristisch für diesen Küstenabschnitt in Caminha ist seine unberührte, natürliche Umgebung. Dieser schöne Strand lädt Reisende zum Sonnenbaden und zum Lauschen der portugiesischen Meereswellen ein. Ein windgeschütztes Plätzchen lässt sich am besten bei einem morgendlichen Spaziergang ergattern.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            },
+            {
+                  "name": "Castro de Sa",
+                  "text": "Castro de Sa ist eine alte Wallburg, die historische Beweise für die frühe Besiedlung in Caminha liefert.",
+                  "category": "historical",
+                  "coords": [
+                        -8.862149,
+                        41.888608
+                  ]
+            },
+            {
+                  "name": "Praia da Lamiña",
+                  "text": "Wer abseits des Trubels Entspannung sucht, wird an diesem ruhigen lokalen Strand in Caminha fündig. Die entspannte Szenerie ist wunderbar geeignet, um die Seele beim Baden oder einem stillen Strandspaziergang baumeln zu lassen. Packen Sie sich ein gutes Buch ein und genießen Sie die friedliche Stimmung am Vormittag.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86241,
+                        41.87711
+                  ]
+            },
+            {
+                  "name": "Pedras Ruivas",
+                  "text": "Pedras Ruivas ist ein Küstenabschnitt in Caminha, der für seine markante felsige Strandlandschaft bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.82488,
+                        41.890947
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Junqueira",
+                  "text": "Eine herrliche Süßwasser-Alternative zur Küste stellt dieser Erholungsort am Flussufer von Caminha dar. Unter der Sonne Portugals können sich Gäste hier herrlich erfrischen und das familiäre Ambiente genießen. Am besten besucht man den Strand in der warmen Jahreszeit, um vollends ins kühle Nass einzutauchen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.814389,
+                        41.872302
+                  ]
+            },
+            {
+                  "name": "ZEPA Esteiro do Miño",
+                  "text": "Dieses Naturschutzgebiet in Caminha ist ein Schutzgebiet, das sich auf den Erhalt des lokalen Ökosystems der Minho-Mündung konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        -8.766156,
+                        41.944552
+                  ]
+            },
+            {
+                  "name": "Praia de Caminha",
+                  "text": "Als wichtigster Küstenabschnitt der Stadt fängt dieser Strand das maritime Herz von Caminha ein. Der weitläufige Ort ist ein Anziehungspunkt für Sonnenanbeter und Wasserratten, die den Atlantik lieben. Während der Sommermonate lohnt sich eine frühe Ankunft, um den Tag entspannt am Meer zu beginnen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864006,
+                        41.864049
+                  ]
+            },
+            {
+                  "name": "Casa dos Pitas",
+                  "text": "Das Casa dos Pitas ist ein historisches Haus in Caminha, das für seine architektonischen Details bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.838055,
+                        41.875383
+                  ]
+            },
+            {
+                  "name": "Miradoiro da Xunqueira",
+                  "text": "Der Miradoiro da Xunqueira bietet einen Panoramablick auf die umliegenden Landschaften von Caminha.",
+                  "category": "natural",
+                  "coords": [
+                        -8.839714,
+                        41.906763
+                  ]
+            },
+            {
+                  "name": "Miradouro da Fraga",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die Region Caminha und ihre natürlichen Gegebenheiten.",
+                  "category": "natural",
+                  "coords": [
+                        -8.843375,
+                        41.863497
+                  ]
+            },
+            {
+                  "name": "Miradouro do Gorito",
+                  "text": "Der Miradouro do Gorito ist ein malerischer Ort in Caminha, der für die Beobachtung der lokalen Landschaft vorgesehen ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.807369,
+                        41.895754
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Valadares",
+                  "text": "Dies sind die Überreste des historischen Gebäudes des Cine Teatro Valadares in Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.837933,
+                        41.878441
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "Dieses ehemalige Kloster in Caminha dient als Gotteshaus und historisches religiöses Denkmal.",
+                  "category": "religious",
+                  "coords": [
+                        -8.838922,
+                        41.873014
+                  ]
+            },
+            {
+                  "name": "Igreja Velha",
+                  "text": "Die „Alte Kirche“ von Caminha ist ein antikes lokales religiöses Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        -8.836952,
+                        41.871049
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Clara",
+                  "text": "Diese der Heiligen Klara gewidmete Kirche ist ein traditionelles Gotteshaus in Caminha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.841474,
+                        41.871823
+                  ]
+            },
+            {
+                  "name": "Igrexa de Santa Isabel de Camposancos",
+                  "text": "Diese Kirche im Viertel Camposancos von Caminha ist der Heiligen Elisabeth gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -8.863235,
+                        41.885361
+                  ]
+            },
+            {
+                  "name": "Entidade Local Menor de Camposancos",
+                  "text": "Dieses Gebäude dient als Verwaltungssitz der lokalen Teilgemeinde Camposancos in Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.864856,
+                        41.885632
+                  ]
+            },
+            {
+                  "name": "Capela de San Xosé da Pasaxe",
+                  "text": "Die Kapelle des Heiligen Josef von Pasaxe ist eine kleine religiöse Stätte in der Gegend von Caminha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.850917,
+                        41.889187
+                  ]
+            },
+            {
+                  "name": "Capela de Nosa Señora da Graza da Pasaxe",
+                  "text": "Diese Kapelle in Caminha ist Unserer Lieben Frau der Gnade gewidmet und dient der lokalen Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -8.852075,
+                        41.888204
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Caminha",
+                  "text": "Die Câmara Municipal ist das Rathaus und das wichtigste Verwaltungsgebäude von Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.838504,
+                        41.876473
+                  ]
+            },
+            {
+                  "name": "Presa da Cheira",
+                  "text": "Die Presa da Cheira ist ein kleiner See in der malerischen Umgebung von Caminha.",
+                  "category": "natural",
+                  "coords": [
+                        -8.827343,
+                        41.935195
+                  ]
+            },
+            {
+                  "name": "Roda",
+                  "text": "Roda ist ein einfacher Spielbereich für Kinder in Caminha.",
+                  "category": "family",
+                  "coords": [
+                        -8.835545,
+                        41.876986
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Dieses Schwimmbad in Caminha steht Besuchern für sportliche Betätigung zur Verfügung.",
+                  "category": "family",
+                  "coords": [
+                        -8.819852,
+                        41.892946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Povoado do Alto do Couto da Pena",
+                  "text": "Ez a caminhai régészeti lelőhely egy ősi helyi település maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.835155,
+                        41.866373
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Ahol a Minho folyó az Atlanti-óceánba torkollik, ott tárul elénk Caminha festői strandja. A folyótorkolat különleges elhelyezkedése idilli sétákat és pihentető pillanatokat ígér a vízparton. Az égbolt lenyűgöző színeinek megcsodálásához érdemes késő délután idelátogatni.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Ennek a Caminha környéki partszakasznak a jellegzetessége az érintetlen, természetes környezet. Ez a gyönyörű tengerparti strand napozásra és a nyugtató portugál hullámok hallgatására csábítja az utazókat. A szélvédett helyek megtalálásához a legbiztosabb egy békés reggeli séta.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            },
+            {
+                  "name": "Castro de Sa",
+                  "text": "A Castro de Sa egy ősi domberődhelyszín, amely Caminha korai lakottságának történelmi bizonyítékaival szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -8.862149,
+                        41.888608
+                  ]
+            },
+            {
+                  "name": "Praia da Lamiña",
+                  "text": "Aki a nyüzsgéstől távol keres kikapcsolódást, az ezen a csendes helyi strandon, Caminhában biztosan megtalálja. A nyugodt táj csodálatosan alkalmas a pihenésre, akár egy úszás, akár egy csendes tengerparti séta formájában. Hozzon magával egy jó könyvet, és élvezze a békés délelőtti hangulatot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86241,
+                        41.87711
+                  ]
+            },
+            {
+                  "name": "Pedras Ruivas",
+                  "text": "A Pedras Ruivas egy tengerparti terület Caminhában, amely jellegzetes sziklás strandjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.82488,
+                        41.890947
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Junqueira",
+                  "text": "Ez a Caminha folyóparti pihenőhelye csodálatos édesvízi alternatívát kínál a közeli tengerparttal szemben. A portugál nap alatt a vendégek felfrissülhetnek és élvezhetik a barátságos hangulatot. A legjobb a meleg évszakban idelátogatni, hogy teljesen elmerülhessen a hűsítő habokban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.814389,
+                        41.872302
+                  ]
+            },
+            {
+                  "name": "ZEPA Esteiro do Miño",
+                  "text": "Ez a caminhai természetvédelmi terület egy védett övezet, amely a Minho-torkolat helyi ökoszisztémájának megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        -8.766156,
+                        41.944552
+                  ]
+            },
+            {
+                  "name": "Praia de Caminha",
+                  "text": "A város legfőbb tengerparti szakaszaként ez a strand igazán megragadja Caminha tengeri szívét. A tágas partszakasz vonzza a napozni vágyókat és a vízimádókat, akik kedvelik az Atlanti-óceánt. A nyári hónapokban a korai érkezés tökéletes módja annak, hogy lazán induljon a nap a tenger mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864006,
+                        41.864049
+                  ]
+            },
+            {
+                  "name": "Casa dos Pitas",
+                  "text": "A Casa dos Pitas egy történelmi ház Caminhában, amely építészeti részleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.838055,
+                        41.875383
+                  ]
+            },
+            {
+                  "name": "Miradoiro da Xunqueira",
+                  "text": "A Miradoiro da Xunqueira panorámás kilátást nyújt Caminha környező tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.839714,
+                        41.906763
+                  ]
+            },
+            {
+                  "name": "Miradouro da Fraga",
+                  "text": "Ez a kilátóhely emelt szintű rálátást biztosít Caminha régiójára és természeti adottságaira.",
+                  "category": "natural",
+                  "coords": [
+                        -8.843375,
+                        41.863497
+                  ]
+            },
+            {
+                  "name": "Miradouro do Gorito",
+                  "text": "A Miradouro do Gorito egy festői hely Caminhában, amelyet a helyi táj megfigyelésére jelöltek ki.",
+                  "category": "natural",
+                  "coords": [
+                        -8.807369,
+                        41.895754
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Valadares",
+                  "text": "Ez a caminhai történelmi Cine Teatro Valadares épületének maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -8.837933,
+                        41.878441
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "Ez a korábbi kolostor Caminhában templomként és történelmi vallási helyszínként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -8.838922,
+                        41.873014
+                  ]
+            },
+            {
+                  "name": "Igreja Velha",
+                  "text": "Caminha „Öreg temploma” egy ősi helyi vallási építmény.",
+                  "category": "religious",
+                  "coords": [
+                        -8.836952,
+                        41.871049
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Clara",
+                  "text": "Ezt a Szent Klárának szentelt templomot Caminhában hagyományos vallási helyszínként tartják számon.",
+                  "category": "religious",
+                  "coords": [
+                        -8.841474,
+                        41.871823
+                  ]
+            },
+            {
+                  "name": "Igrexa de Santa Isabel de Camposancos",
+                  "text": "Ez a templom Caminha Camposancos negyedében található, és Szent Erzsébet tiszteletére szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -8.863235,
+                        41.885361
+                  ]
+            },
+            {
+                  "name": "Entidade Local Menor de Camposancos",
+                  "text": "Ez az épület Caminha Camposancos nevű kisebb közigazgatási egységének székhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -8.864856,
+                        41.885632
+                  ]
+            },
+            {
+                  "name": "Capela de San Xosé da Pasaxe",
+                  "text": "A Szent József-kápolna Pasaxe-ban egy kis vallási helyszín Caminha környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -8.850917,
+                        41.889187
+                  ]
+            },
+            {
+                  "name": "Capela de Nosa Señora da Graza da Pasaxe",
+                  "text": "Ez a caminhai kápolna a Kegyelmes Miasszonyunknak van szentelve, és a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -8.852075,
+                        41.888204
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Caminha",
+                  "text": "A Câmara Municipal Caminha városháza és fő közigazgatási épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -8.838504,
+                        41.876473
+                  ]
+            },
+            {
+                  "name": "Presa da Cheira",
+                  "text": "A Presa da Cheira egy kis tó Caminha festői környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.827343,
+                        41.935195
+                  ]
+            },
+            {
+                  "name": "Roda",
+                  "text": "A Roda egy egyszerű játszótér gyerekeknek Caminhában.",
+                  "category": "family",
+                  "coords": [
+                        -8.835545,
+                        41.876986
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Ez a caminhai úszómedence sportolási lehetőséget biztosít a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.819852,
+                        41.892946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Povoado do Alto do Couto da Pena",
+                  "text": "Acest sit arheologic din Caminha păstrează rămășițele unei vechi așezări locale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.835155,
+                        41.866373
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Acolo unde râul Minho se varsă în Oceanul Atlantic, această plajă pitorească din Caminha își dezvăluie farmecul. Locația deosebită din delta râului promite plimbări idilice și momente relaxante la malul apei. Pentru a admira culorile cerului, o vizită după-amiaza târziu este foarte recomandată.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Caracteristic acestui tronson de coastă din Caminha este mediul său natural și nealterat. Această plajă frumoasă invită călătorii să se bronzeze și să asculte valurile relaxante ale oceanului. Cel mai bun mod de a găsi un loc adăpostit este o plimbare matinală.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            },
+            {
+                  "name": "Castro de Sa",
+                  "text": "Castro de Sa este un sit antic de cetate care oferă dovezi istorice ale locuirii timpurii în Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.862149,
+                        41.888608
+                  ]
+            },
+            {
+                  "name": "Praia da Lamiña",
+                  "text": "Cei care caută relaxare departe de agitație o vor găsi pe această plajă locală liniștită din Caminha. Peisajul senin este minunat pentru a vă relaxa înotând sau făcând o plimbare tăcută de-a lungul țărmului. Luați o carte bună și bucurați-vă de atmosfera pașnică a dimineții.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86241,
+                        41.87711
+                  ]
+            },
+            {
+                  "name": "Pedras Ruivas",
+                  "text": "Pedras Ruivas este o zonă de coastă din Caminha, recunoscută pentru peisajul său distinctiv de plajă stâncoasă.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.82488,
+                        41.890947
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Junqueira",
+                  "text": "Această zonă de recreere pe malul râului din Caminha oferă o alternativă încântătoare de apă dulce la coasta din apropiere. Sub soarele portughez, oaspeții se pot răcori și se pot bucura de ambianța prietenoasă. Cel mai bine este să vizitați plaja în sezonul cald pentru a vă scufunda pe deplin în apa rece.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.814389,
+                        41.872302
+                  ]
+            },
+            {
+                  "name": "ZEPA Esteiro do Miño",
+                  "text": "Această rezervație naturală din Caminha este o zonă protejată axată pe conservarea ecosistemului local al estuarului Minho.",
+                  "category": "natural",
+                  "coords": [
+                        -8.766156,
+                        41.944552
+                  ]
+            },
+            {
+                  "name": "Praia de Caminha",
+                  "text": "Fiind principala zonă de coastă a orașului, această plajă surprinde cu adevărat inima maritimă a orașului Caminha. Întinderea spațioasă este un magnet pentru iubitorii de soare și de apă care apreciază Oceanul Atlantic. O sosire matinală în timpul lunilor de vară este o modalitate excelentă de a începe o zi relaxantă la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864006,
+                        41.864049
+                  ]
+            },
+            {
+                  "name": "Casa dos Pitas",
+                  "text": "Casa dos Pitas este o casă istorică din Caminha, cunoscută pentru detaliile sale arhitecturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.838055,
+                        41.875383
+                  ]
+            },
+            {
+                  "name": "Miradoiro da Xunqueira",
+                  "text": "Miradoiro da Xunqueira oferă vederi panoramice asupra peisajelor înconjurătoare din Caminha.",
+                  "category": "natural",
+                  "coords": [
+                        -8.839714,
+                        41.906763
+                  ]
+            },
+            {
+                  "name": "Miradouro da Fraga",
+                  "text": "Acest punct de belvedere oferă vederi de la înălțime asupra regiunii Caminha și a caracteristicilor sale naturale.",
+                  "category": "natural",
+                  "coords": [
+                        -8.843375,
+                        41.863497
+                  ]
+            },
+            {
+                  "name": "Miradouro do Gorito",
+                  "text": "Miradouro do Gorito este un loc pitoresc din Caminha desemnat pentru observarea peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        -8.807369,
+                        41.895754
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Valadares",
+                  "text": "Acestea sunt rămășițele clădirii istorice Cine Teatro Valadares din Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.837933,
+                        41.878441
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "Această fostă mănăstire din Caminha servește ca lăcaș de cult și sit religios istoric.",
+                  "category": "religious",
+                  "coords": [
+                        -8.838922,
+                        41.873014
+                  ]
+            },
+            {
+                  "name": "Igreja Velha",
+                  "text": "„Biserica Veche” din Caminha este o veche structură religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        -8.836952,
+                        41.871049
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Clara",
+                  "text": "Dedicată Sfintei Clara, această biserică este un lăcaș de cult tradițional situat în Caminha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.841474,
+                        41.871823
+                  ]
+            },
+            {
+                  "name": "Igrexa de Santa Isabel de Camposancos",
+                  "text": "Această biserică din zona Camposancos din Caminha este dedicată Sfintei Elisabeta.",
+                  "category": "religious",
+                  "coords": [
+                        -8.863235,
+                        41.885361
+                  ]
+            },
+            {
+                  "name": "Entidade Local Menor de Camposancos",
+                  "text": "Această clădire servește ca sediu administrativ pentru entitatea locală minoră din Camposancos, Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.864856,
+                        41.885632
+                  ]
+            },
+            {
+                  "name": "Capela de San Xosé da Pasaxe",
+                  "text": "Capela Sfântul Iosif din Pasaxe este un mic sit religios situat în zona Caminha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.850917,
+                        41.889187
+                  ]
+            },
+            {
+                  "name": "Capela de Nosa Señora da Graza da Pasaxe",
+                  "text": "Această chapelă din Caminha este dedicată Maicii Domnului a Harului și deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -8.852075,
+                        41.888204
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Caminha",
+                  "text": "Câmara Municipal este primăria și principala clădire administrativă din Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.838504,
+                        41.876473
+                  ]
+            },
+            {
+                  "name": "Presa da Cheira",
+                  "text": "Presa da Cheira este un lac mic în împrejurimile pitorești ale Caminhei.",
+                  "category": "natural",
+                  "coords": [
+                        -8.827343,
+                        41.935195
+                  ]
+            },
+            {
+                  "name": "Roda",
+                  "text": "Roda este o zonă simplă de joacă pentru copii în Caminha.",
+                  "category": "family",
+                  "coords": [
+                        -8.835545,
+                        41.876986
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Această piscină din Caminha este disponibilă vizitatorilor pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        -8.819852,
+                        41.892946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Povoado do Alto do Couto da Pena",
+                  "text": "This archaeological site in Caminha preserves the remains of an ancient local settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.835155,
+                        41.866373
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Where the Minho River meets the Atlantic, this picturesque beach in Caminha reveals its charm. The unique location at the river delta promises idyllic walks and relaxing moments by the water. To fully appreciate the colors of the sky, a late afternoon visit is highly rewarding.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Characteristic of this stretch of coast in Caminha is its unspoiled, natural environment. This beautiful coastal beach invites travelers to sunbathe and listen to the soothing Portuguese waves. The best way to secure a sheltered spot is by arriving during a peaceful morning walk.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            },
+            {
+                  "name": "Castro de Sa",
+                  "text": "Castro de Sa is an ancient hillfort site providing historical evidence of early habitation in Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.862149,
+                        41.888608
+                  ]
+            },
+            {
+                  "name": "Praia da Lamiña",
+                  "text": "Those seeking relaxation away from the crowds will find it at this quiet local beach in Caminha. The tranquil scenery is wonderfully suited for unwinding while swimming or taking a silent walk along the shore. Bring a good book and enjoy the peaceful morning atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.86241,
+                        41.87711
+                  ]
+            },
+            {
+                  "name": "Pedras Ruivas",
+                  "text": "Pedras Ruivas is a coastal area in Caminha recognized for its distinctive rocky beach landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.82488,
+                        41.890947
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Junqueira",
+                  "text": "This riverside recreation area in Caminha presents a delightful freshwater alternative to the nearby coast. Under the Portuguese sun, guests can refresh themselves and enjoy the friendly, familiar ambiance. It is best visited during the warm season for a perfect plunge into the cool water.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.814389,
+                        41.872302
+                  ]
+            },
+            {
+                  "name": "ZEPA Esteiro do Miño",
+                  "text": "This nature reserve in Caminha is a protected area focused on preserving the local ecosystem of the Minho estuary.",
+                  "category": "natural",
+                  "coords": [
+                        -8.766156,
+                        41.944552
+                  ]
+            },
+            {
+                  "name": "Praia de Caminha",
+                  "text": "As the town's primary coastal spot, this beach truly captures the maritime heart of Caminha. The spacious stretch is a magnet for sunbathers and water lovers who appreciate the Atlantic. Arriving early during the summer months is a great way to start a relaxing day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.864006,
+                        41.864049
+                  ]
+            },
+            {
+                  "name": "Casa dos Pitas",
+                  "text": "Casa dos Pitas is a historic house in Caminha known for its architectural details.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.838055,
+                        41.875383
+                  ]
+            },
+            {
+                  "name": "Miradoiro da Xunqueira",
+                  "text": "The Miradoiro da Xunqueira offers panoramic views of the surrounding landscapes in Caminha.",
+                  "category": "natural",
+                  "coords": [
+                        -8.839714,
+                        41.906763
+                  ]
+            },
+            {
+                  "name": "Miradouro da Fraga",
+                  "text": "This viewpoint provides elevated vistas of the Caminha region and its natural features.",
+                  "category": "natural",
+                  "coords": [
+                        -8.843375,
+                        41.863497
+                  ]
+            },
+            {
+                  "name": "Miradouro do Gorito",
+                  "text": "The Miradouro do Gorito is a scenic spot in Caminha designated for observing the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -8.807369,
+                        41.895754
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Valadares",
+                  "text": "These are the remains of the historic Valadares Cinema-Theater building in Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.837933,
+                        41.878441
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "This former convent in Caminha serves as a place of worship and historical religious site.",
+                  "category": "religious",
+                  "coords": [
+                        -8.838922,
+                        41.873014
+                  ]
+            },
+            {
+                  "name": "Igreja Velha",
+                  "text": "The \"Old Church\" of Caminha is an ancient local religious structure.",
+                  "category": "religious",
+                  "coords": [
+                        -8.836952,
+                        41.871049
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Clara",
+                  "text": "Dedicated to Saint Clare, this church is a traditional place of worship located in Caminha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.841474,
+                        41.871823
+                  ]
+            },
+            {
+                  "name": "Igrexa de Santa Isabel de Camposancos",
+                  "text": "This church in the Camposancos area of Caminha is dedicated to Saint Elizabeth.",
+                  "category": "religious",
+                  "coords": [
+                        -8.863235,
+                        41.885361
+                  ]
+            },
+            {
+                  "name": "Entidade Local Menor de Camposancos",
+                  "text": "This building serves as the administrative seat for the local minor entity of Camposancos in Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.864856,
+                        41.885632
+                  ]
+            },
+            {
+                  "name": "Capela de San Xosé da Pasaxe",
+                  "text": "The Chapel of Saint Joseph of Pasaxe is a small religious site located in the Caminha area.",
+                  "category": "religious",
+                  "coords": [
+                        -8.850917,
+                        41.889187
+                  ]
+            },
+            {
+                  "name": "Capela de Nosa Señora da Graza da Pasaxe",
+                  "text": "This chapel in Caminha is dedicated to Our Lady of Grace and serves the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -8.852075,
+                        41.888204
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Caminha",
+                  "text": "The Câmara Municipal is the town hall and principal administrative building of Caminha.",
+                  "category": "historical",
+                  "coords": [
+                        -8.838504,
+                        41.876473
+                  ]
+            },
+            {
+                  "name": "Presa da Cheira",
+                  "text": "Presa da Cheira is a small lake in the picturesque surroundings of Caminha.",
+                  "category": "natural",
+                  "coords": [
+                        -8.827343,
+                        41.935195
+                  ]
+            },
+            {
+                  "name": "Roda",
+                  "text": "Roda is a simple play area for children in Caminha.",
+                  "category": "family",
+                  "coords": [
+                        -8.835545,
+                        41.876986
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "This swimming pool in Caminha is available to visitors for sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        -8.819852,
+                        41.892946
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Caminha", hu: "Caminha", ro: "Caminha", en: "Caminha" },
@@ -8421,6 +19671,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.491148,
                         40.887552
                   ]
+            },
+            {
+                  "name": "Praia Fluvial da Mamoa",
+                  "text": "Ein Flussstrand in Sao Joao Da Madeira zum Schwimmen in der Natur.",
+                  "category": "family",
+                  "coords": [
+                        -8.467191,
+                        40.928287
+                  ]
             }
       ],
       "hu": [
@@ -8557,6 +19816,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.491148,
                         40.887552
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Mamoa",
+                  "text": "Folyami strand Sao Joao Da Madeira városában természeti környezetben való úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.467191,
+                        40.928287
                   ]
             }
       ],
@@ -8695,6 +19963,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.491148,
                         40.887552
                   ]
+            },
+            {
+                  "name": "Praia Fluvial da Mamoa",
+                  "text": "O plajă fluvială în Sao Joao Da Madeira pentru înot în natură.",
+                  "category": "family",
+                  "coords": [
+                        -8.467191,
+                        40.928287
+                  ]
             }
       ],
       "en": [
@@ -8832,6 +20109,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.491148,
                         40.887552
                   ]
+            },
+            {
+                  "name": "Praia Fluvial da Mamoa",
+                  "text": "A river beach in Sao Joao Da Madeira for swimming in nature.",
+                  "category": "family",
+                  "coords": [
+                        -8.467191,
+                        40.928287
+                  ]
             }
       ]
 },
@@ -8898,6 +20184,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.488021,
                         40.85346
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Die städtischen Schwimmbäder in Oliveira De Azemeis sind ein Ort für Freizeit und Sport.",
+                  "category": "family",
+                  "coords": [
+                        -8.485381,
+                        40.832443
+                  ]
             }
       ],
       "hu": [
@@ -8917,6 +20212,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.488021,
                         40.85346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Az Oliveira De Azemeis-i városi úszómedencék a szabadidő és a sport helyszínei.",
+                  "category": "family",
+                  "coords": [
+                        -8.485381,
+                        40.832443
                   ]
             }
       ],
@@ -8938,6 +20242,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.488021,
                         40.85346
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Piscinile municipale din Oliveira De Azemeis sunt un loc pentru recreere și sport.",
+                  "category": "family",
+                  "coords": [
+                        -8.485381,
+                        40.832443
+                  ]
             }
       ],
       "en": [
@@ -8957,6 +20270,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.488021,
                         40.85346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "The municipal swimming pools in Oliveira De Azemeis are a place for leisure and sports.",
+                  "category": "family",
+                  "coords": [
+                        -8.485381,
+                        40.832443
                   ]
             }
       ]
@@ -9123,6 +20445,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.543339,
                         40.926985
                   ]
+            },
+            {
+                  "name": "Piscina do Cavaco (desativada)",
+                  "text": "Ehemaliger Schwimmbadstandort in Santa Maria da Feira, jetzt als lokaler Ort bekannt.",
+                  "category": "family",
+                  "coords": [
+                        -8.529851,
+                        40.943079
+                  ]
             }
       ],
       "hu": [
@@ -9241,6 +20572,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.543339,
                         40.926985
+                  ]
+            },
+            {
+                  "name": "Piscina do Cavaco (desativada)",
+                  "text": "Egykori úszómedence-helyszín Santa Maria da Feira városában, ma helyi pontként ismert.",
+                  "category": "family",
+                  "coords": [
+                        -8.529851,
+                        40.943079
                   ]
             }
       ],
@@ -9361,6 +20701,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.543339,
                         40.926985
                   ]
+            },
+            {
+                  "name": "Piscina do Cavaco (desativada)",
+                  "text": "Fost sit al unei piscine din Santa Maria da Feira, cunoscut acum ca punct local.",
+                  "category": "family",
+                  "coords": [
+                        -8.529851,
+                        40.943079
+                  ]
             }
       ],
       "en": [
@@ -9480,6 +20829,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.543339,
                         40.926985
                   ]
+            },
+            {
+                  "name": "Piscina do Cavaco (desativada)",
+                  "text": "Former swimming pool site in Santa Maria da Feira, now known as a local spot.",
+                  "category": "family",
+                  "coords": [
+                        -8.529851,
+                        40.943079
+                  ]
             }
       ]
 },
@@ -9527,7 +20885,268 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-feira-cities-v2.webp",
   },
   {
-    id: "portugal-murtosa-cities-v2", "sights": {"de": [{"name": "Praia do Bico", "text": "Eingebettet in eine sanfte Lagunenlandschaft, verzaubert dieser ruhige Strand in Murtosa durch seine Nähe zur Vogelwelt. Sportliche Besucher schätzen die hervorragenden Bedingungen auf dem Wasser, während Erholungssuchende einfach den weiten Blick genießen. Um die Natur ungestört zu beobachten, sind die ruhigen Morgenstunden am schönsten.", "category": "recreational", "coords": [-8.65014, 40.729606]}, {"name": "Comur - Museu Municipal", "text": "Dieses in einer ehemaligen Konservenfabrik untergebrachte Museum erkundet die Geschichte der lokalen Fischverarbeitungsindustrie.", "category": "museum", "coords": [-8.647407, 40.750258]}, {"name": "Baloiço Cais da Cambeia", "text": "Eine malerische Holzschaukel am Ufer mit friedlichem Blick auf die Ria de Aveiro.", "category": "landmark", "coords": [-8.627372, 40.733371]}, {"name": "Ao emigrante murtoseiro cidadão do mundo", "text": "Ein Denkmal für die Menschen aus Murtosa, die in die ganze Welt ausgewandert sind.", "category": "historical", "coords": [-8.64679, 40.744665]}, {"name": "Câmara Municipal de Murtosa", "text": "Der Sitz der lokalen Regierung, der die Verwaltung der Gemeinde Murtosa leitet.", "category": "historical", "coords": [-8.650623, 40.749916]}, {"name": "Minigolfe Murtosa", "text": "Das Minigolfe Murtosa bietet ein unterhaltsames Sporterlebnis für Besucher aller Altersgruppen in Murtosa.", "category": "family", "coords": [-8.644415, 40.746346]}], "hu": [{"name": "Praia do Bico", "text": "A szelíd lagúna tájba simuló, csendes murtosai strand a madárvilág közelségével varázsolja el a látogatókat. Az aktív vendégek értékelik a kiváló vízisport-lehetőségeket, míg a pihenni vágyók a tágas kilátásban gyönyörködhetnek. A zavartalan természetmegfigyeléshez a csendes reggeli órák a legalkalmasabbak.", "category": "recreational", "coords": [-8.65014, 40.729606]}, {"name": "Comur - Museu Municipal", "text": "Egy egykori konzervgyárban kialakított múzeum, amely a helyi halfeldolgozó ipar történetét mutatja be.", "category": "museum", "coords": [-8.647407, 40.750258]}, {"name": "Baloiço Cais da Cambeia", "text": "Festői fahinta a vízparton, ahonnan nyugodt kilátás nyílik a Ria de Aveiro lagúnára.", "category": "landmark", "coords": [-8.627372, 40.733371]}, {"name": "Ao emigrante murtoseiro cidadão do mundo", "text": "Emlékmű a Murtosából a világ minden tájára kivándorolt emberek tiszteletére.", "category": "historical", "coords": [-8.64679, 40.744665]}, {"name": "Câmara Municipal de Murtosa", "text": "A helyi önkormányzat székhelye, amely Murtosa község közigazgatásáért felel.", "category": "historical", "coords": [-8.650623, 40.749916]}, {"name": "Minigolfe Murtosa", "text": "A Minigolfe Murtosa szórakoztató sportélményt kínál minden korosztály számára Murtosában.", "category": "family", "coords": [-8.644415, 40.746346]}], "ro": [{"name": "Praia do Bico", "text": "Amplasată într-un peisaj blând de lagună, această plajă liniștită din Murtosa încântă vizitatorii prin proximitatea sa de păsările sălbatice. Oaspeții activi apreciază condițiile excelente pentru sporturile nautice, în timp ce persoanele care caută relaxare se bucură pur și simplu de priveliștile vaste. Orele liniștite ale dimineții sunt cel mai bun moment pentru observarea netulburată a naturii.", "category": "recreational", "coords": [-8.65014, 40.729606]}, {"name": "Comur - Museu Municipal", "text": "Găzduit într-o fostă fabrică de conserve, acest muzeu explorează istoria industriei locale de prelucrare a peștelui.", "category": "museum", "coords": [-8.647407, 40.750258]}, {"name": "Baloiço Cais da Cambeia", "text": "Un leagăn pitoresc de lemn situat la marginea apei, oferind priveliști liniștite asupra Ria de Aveiro.", "category": "landmark", "coords": [-8.627372, 40.733371]}, {"name": "Ao emigrante murtoseiro cidadão do mundo", "text": "Un monument dedicat locuitorilor din Murtosa care au emigrat în întreaga lume.", "category": "historical", "coords": [-8.64679, 40.744665]}, {"name": "Câmara Municipal de Murtosa", "text": "Sediul administrației locale care supraveghează administrarea municipiului Murtosa.", "category": "historical", "coords": [-8.650623, 40.749916]}, {"name": "Minigolfe Murtosa", "text": "Minigolfe Murtosa oferă o experiență sportivă distractivă pentru vizitatorii de toate vârstele din Murtosa.", "category": "family", "coords": [-8.644415, 40.746346]}], "en": [{"name": "Praia do Bico", "text": "Nestled in a gentle lagoon landscape, this quiet beach in Murtosa enchants visitors with its proximity to local birdlife. Active guests appreciate the excellent conditions for water sports, while those seeking relaxation simply enjoy the expansive views. The quiet morning hours are the most beautiful time for undisturbed nature observation.", "category": "recreational", "coords": [-8.65014, 40.729606]}, {"name": "Comur muséum", "text": "Housed in a former cannery, this museum explores the history of the local fish processing industry.", "category": "museum", "coords": [-8.647407, 40.750258]}, {"name": "Baloiço Cais da Cambeia", "text": "A scenic wooden swing located at the water's edge, offering peaceful views of the Ria de Aveiro.", "category": "landmark", "coords": [-8.627372, 40.733371]}, {"name": "Ao emigrante murtoseiro cidadão do mundo", "text": "A monument dedicated to the people of Murtosa who emigrated across the globe.", "category": "historical", "coords": [-8.64679, 40.744665]}, {"name": "Câmara Municipal de Murtosa", "text": "The seat of local government overseeing the administration of the Murtosa municipality.", "category": "historical", "coords": [-8.650623, 40.749916]}, {"name": "Minigolfe Murtosa", "text": "Minigolfe Murtosa offers a fun sporting experience for visitors of all ages in Murtosa.", "category": "family", "coords": [-8.644415, 40.746346]}]},
+    id: "portugal-murtosa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Bico",
+                  "text": "Eingebettet in eine sanfte Lagunenlandschaft, verzaubert dieser ruhige Strand in Murtosa durch seine Nähe zur Vogelwelt. Sportliche Besucher schätzen die hervorragenden Bedingungen auf dem Wasser, während Erholungssuchende einfach den weiten Blick genießen. Um die Natur ungestört zu beobachten, sind die ruhigen Morgenstunden am schönsten.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.65014,
+                        40.729606
+                  ]
+            },
+            {
+                  "name": "Comur - Museu Municipal",
+                  "text": "Dieses in einer ehemaligen Konservenfabrik untergebrachte Museum erkundet die Geschichte der lokalen Fischverarbeitungsindustrie.",
+                  "category": "museum",
+                  "coords": [
+                        -8.647407,
+                        40.750258
+                  ]
+            },
+            {
+                  "name": "Baloiço Cais da Cambeia",
+                  "text": "Eine malerische Holzschaukel am Ufer mit friedlichem Blick auf die Ria de Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.627372,
+                        40.733371
+                  ]
+            },
+            {
+                  "name": "Ao emigrante murtoseiro cidadão do mundo",
+                  "text": "Ein Denkmal für die Menschen aus Murtosa, die in die ganze Welt ausgewandert sind.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64679,
+                        40.744665
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Murtosa",
+                  "text": "Der Sitz der lokalen Regierung, der die Verwaltung der Gemeinde Murtosa leitet.",
+                  "category": "historical",
+                  "coords": [
+                        -8.650623,
+                        40.749916
+                  ]
+            },
+            {
+                  "name": "Minigolfe Murtosa",
+                  "text": "Das Minigolfe Murtosa bietet ein unterhaltsames Sporterlebnis für Besucher aller Altersgruppen in Murtosa.",
+                  "category": "family",
+                  "coords": [
+                        -8.644415,
+                        40.746346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais da Murtosa",
+                  "text": "Städtische Schwimmbäder in Murtosa für die sportliche Erholung.",
+                  "category": "family",
+                  "coords": [
+                        -8.645427,
+                        40.746428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Bico",
+                  "text": "A szelíd lagúna tájba simuló, csendes murtosai strand a madárvilág közelségével varázsolja el a látogatókat. Az aktív vendégek értékelik a kiváló vízisport-lehetőségeket, míg a pihenni vágyók a tágas kilátásban gyönyörködhetnek. A zavartalan természetmegfigyeléshez a csendes reggeli órák a legalkalmasabbak.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.65014,
+                        40.729606
+                  ]
+            },
+            {
+                  "name": "Comur - Museu Municipal",
+                  "text": "Egy egykori konzervgyárban kialakított múzeum, amely a helyi halfeldolgozó ipar történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.647407,
+                        40.750258
+                  ]
+            },
+            {
+                  "name": "Baloiço Cais da Cambeia",
+                  "text": "Festői fahinta a vízparton, ahonnan nyugodt kilátás nyílik a Ria de Aveiro lagúnára.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.627372,
+                        40.733371
+                  ]
+            },
+            {
+                  "name": "Ao emigrante murtoseiro cidadão do mundo",
+                  "text": "Emlékmű a Murtosából a világ minden tájára kivándorolt emberek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64679,
+                        40.744665
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Murtosa",
+                  "text": "A helyi önkormányzat székhelye, amely Murtosa község közigazgatásáért felel.",
+                  "category": "historical",
+                  "coords": [
+                        -8.650623,
+                        40.749916
+                  ]
+            },
+            {
+                  "name": "Minigolfe Murtosa",
+                  "text": "A Minigolfe Murtosa szórakoztató sportélményt kínál minden korosztály számára Murtosában.",
+                  "category": "family",
+                  "coords": [
+                        -8.644415,
+                        40.746346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais da Murtosa",
+                  "text": "Városi úszómedencék Murtosa területén a sportos kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -8.645427,
+                        40.746428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Bico",
+                  "text": "Amplasată într-un peisaj blând de lagună, această plajă liniștită din Murtosa încântă vizitatorii prin proximitatea sa de păsările sălbatice. Oaspeții activi apreciază condițiile excelente pentru sporturile nautice, în timp ce persoanele care caută relaxare se bucură pur și simplu de priveliștile vaste. Orele liniștite ale dimineții sunt cel mai bun moment pentru observarea netulburată a naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.65014,
+                        40.729606
+                  ]
+            },
+            {
+                  "name": "Comur - Museu Municipal",
+                  "text": "Găzduit într-o fostă fabrică de conserve, acest muzeu explorează istoria industriei locale de prelucrare a peștelui.",
+                  "category": "museum",
+                  "coords": [
+                        -8.647407,
+                        40.750258
+                  ]
+            },
+            {
+                  "name": "Baloiço Cais da Cambeia",
+                  "text": "Un leagăn pitoresc de lemn situat la marginea apei, oferind priveliști liniștite asupra Ria de Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.627372,
+                        40.733371
+                  ]
+            },
+            {
+                  "name": "Ao emigrante murtoseiro cidadão do mundo",
+                  "text": "Un monument dedicat locuitorilor din Murtosa care au emigrat în întreaga lume.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64679,
+                        40.744665
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Murtosa",
+                  "text": "Sediul administrației locale care supraveghează administrarea municipiului Murtosa.",
+                  "category": "historical",
+                  "coords": [
+                        -8.650623,
+                        40.749916
+                  ]
+            },
+            {
+                  "name": "Minigolfe Murtosa",
+                  "text": "Minigolfe Murtosa oferă o experiență sportivă distractivă pentru vizitatorii de toate vârstele din Murtosa.",
+                  "category": "family",
+                  "coords": [
+                        -8.644415,
+                        40.746346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais da Murtosa",
+                  "text": "Piscine municipale în Murtosa pentru recreere sportivă.",
+                  "category": "family",
+                  "coords": [
+                        -8.645427,
+                        40.746428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Bico",
+                  "text": "Nestled in a gentle lagoon landscape, this quiet beach in Murtosa enchants visitors with its proximity to local birdlife. Active guests appreciate the excellent conditions for water sports, while those seeking relaxation simply enjoy the expansive views. The quiet morning hours are the most beautiful time for undisturbed nature observation.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.65014,
+                        40.729606
+                  ]
+            },
+            {
+                  "name": "Comur muséum",
+                  "text": "Housed in a former cannery, this museum explores the history of the local fish processing industry.",
+                  "category": "museum",
+                  "coords": [
+                        -8.647407,
+                        40.750258
+                  ]
+            },
+            {
+                  "name": "Baloiço Cais da Cambeia",
+                  "text": "A scenic wooden swing located at the water's edge, offering peaceful views of the Ria de Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.627372,
+                        40.733371
+                  ]
+            },
+            {
+                  "name": "Ao emigrante murtoseiro cidadão do mundo",
+                  "text": "A monument dedicated to the people of Murtosa who emigrated across the globe.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64679,
+                        40.744665
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Murtosa",
+                  "text": "The seat of local government overseeing the administration of the Murtosa municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -8.650623,
+                        40.749916
+                  ]
+            },
+            {
+                  "name": "Minigolfe Murtosa",
+                  "text": "Minigolfe Murtosa offers a fun sporting experience for visitors of all ages in Murtosa.",
+                  "category": "family",
+                  "coords": [
+                        -8.644415,
+                        40.746346
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais da Murtosa",
+                  "text": "Municipal swimming pools in Murtosa for sports recreation.",
+                  "category": "family",
+                  "coords": [
+                        -8.645427,
+                        40.746428
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Murtosa", hu: "Murtosa", ro: "Murtosa", en: "Murtosa" },
@@ -10221,6 +21840,24 @@ export const portugalCitiesV2: POI[] = [
                         -7.77696,
                         41.112756
                   ]
+            },
+            {
+                  "name": "Piscina Interior de Tarouca",
+                  "text": "Das Hallenbad in Tarouca ermöglicht das Schwimmen unabhängig von der Wetterlage.",
+                  "category": "family",
+                  "coords": [
+                        -7.779273,
+                        41.015106
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Dieses Schwimmbad in Tarouca bietet Einrichtungen für lokale Wassersportfreunde.",
+                  "category": "family",
+                  "coords": [
+                        -7.771813,
+                        41.025034
+                  ]
             }
       ],
       "hu": [
@@ -10249,6 +21886,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.77696,
                         41.112756
+                  ]
+            },
+            {
+                  "name": "Piscina Interior de Tarouca",
+                  "text": "A taroucai fedett uszoda az időjárástól függetlenül teszi lehetővé az úszást.",
+                  "category": "family",
+                  "coords": [
+                        -7.779273,
+                        41.015106
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Ez a taroucai úszómedence létesítményeket kínál a helyi vízisportok kedvelőinek.",
+                  "category": "family",
+                  "coords": [
+                        -7.771813,
+                        41.025034
                   ]
             }
       ],
@@ -10279,6 +21934,24 @@ export const portugalCitiesV2: POI[] = [
                         -7.77696,
                         41.112756
                   ]
+            },
+            {
+                  "name": "Piscina Interior de Tarouca",
+                  "text": "Piscina interioară din Tarouca permite înotul indiferent de condițiile meteorologice.",
+                  "category": "family",
+                  "coords": [
+                        -7.779273,
+                        41.015106
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "Această piscină din Tarouca oferă facilități pentru pasionații locali de sporturi nautice.",
+                  "category": "family",
+                  "coords": [
+                        -7.771813,
+                        41.025034
+                  ]
             }
       ],
       "en": [
@@ -10307,6 +21980,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.77696,
                         41.112756
+                  ]
+            },
+            {
+                  "name": "Piscina Interior de Tarouca",
+                  "text": "The indoor swimming pool in Tarouca allows swimming regardless of the weather conditions.",
+                  "category": "family",
+                  "coords": [
+                        -7.779273,
+                        41.015106
+                  ]
+            },
+            {
+                  "name": "Piscina",
+                  "text": "This swimming pool in Tarouca offers facilities for local water sports enthusiasts.",
+                  "category": "family",
+                  "coords": [
+                        -7.771813,
+                        41.025034
                   ]
             }
       ]
@@ -11013,6 +22704,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.497592,
                         40.134222
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais Descobertas",
+                  "text": "Städtische Freibäder in Fundão, perfekt zur Abkühlung während der Sommermonate.",
+                  "category": "family",
+                  "coords": [
+                        -7.502476,
+                        40.133565
+                  ]
             }
       ],
       "hu": [
@@ -11050,6 +22750,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.497592,
                         40.134222
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais Descobertas",
+                  "text": "Városi szabadtéri medencék Fundão területén, amelyek tökéletesek a hűsölésre a nyári hónapokban.",
+                  "category": "family",
+                  "coords": [
+                        -7.502476,
+                        40.133565
                   ]
             }
       ],
@@ -11089,6 +22798,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.497592,
                         40.134222
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais Descobertas",
+                  "text": "Piscine municipale în aer liber în Fundão, perfecte pentru răcorire în lunile de vară.",
+                  "category": "family",
+                  "coords": [
+                        -7.502476,
+                        40.133565
+                  ]
             }
       ],
       "en": [
@@ -11126,6 +22844,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.497592,
                         40.134222
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais Descobertas",
+                  "text": "Municipal outdoor pools in Fundão, perfect for cooling off during the summer months.",
+                  "category": "family",
+                  "coords": [
+                        -7.502476,
+                        40.133565
                   ]
             }
       ]
@@ -11265,6 +22992,24 @@ export const portugalCitiesV2: POI[] = [
                         -7.167702,
                         40.167754
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Die städtischen Schwimmbäder in Penamacor dienen der aktiven Erholung der Bürger.",
+                  "category": "family",
+                  "coords": [
+                        -7.177093,
+                        40.170169
+                  ]
+            },
+            {
+                  "name": "Piscinas Cobertas de Penamacor",
+                  "text": "Die Hallenbäder von Penamacor bieten überdachte Schwimmgelegenheiten.",
+                  "category": "family",
+                  "coords": [
+                        -7.17351,
+                        40.165245
+                  ]
             }
       ],
       "hu": [
@@ -11311,6 +23056,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.167702,
                         40.167754
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "A penamacori városi úszómedencék a polgárok aktív kikapcsolódását szolgálják.",
+                  "category": "family",
+                  "coords": [
+                        -7.177093,
+                        40.170169
+                  ]
+            },
+            {
+                  "name": "Piscinas Cobertas de Penamacor",
+                  "text": "Penamacor fedett uszodái fedett úszási lehetőségeket biztosítanak.",
+                  "category": "family",
+                  "coords": [
+                        -7.17351,
+                        40.165245
                   ]
             }
       ],
@@ -11359,6 +23122,24 @@ export const portugalCitiesV2: POI[] = [
                         -7.167702,
                         40.167754
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Piscinile municipale din Penamacor servesc recreerii active a cetățenilor.",
+                  "category": "family",
+                  "coords": [
+                        -7.177093,
+                        40.170169
+                  ]
+            },
+            {
+                  "name": "Piscinas Cobertas de Penamacor",
+                  "text": "Piscinile acoperite din Penamacor oferă posibilități de înot în interior.",
+                  "category": "family",
+                  "coords": [
+                        -7.17351,
+                        40.165245
+                  ]
             }
       ],
       "en": [
@@ -11405,6 +23186,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.167702,
                         40.167754
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "The municipal swimming pools in Penamacor serve for the active recreation of citizens.",
+                  "category": "family",
+                  "coords": [
+                        -7.177093,
+                        40.170169
+                  ]
+            },
+            {
+                  "name": "Piscinas Cobertas de Penamacor",
+                  "text": "The covered pools of Penamacor provide indoor swimming opportunities.",
+                  "category": "family",
+                  "coords": [
+                        -7.17351,
+                        40.165245
                   ]
             }
       ]
@@ -11922,6 +23721,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.060328,
                         40.771779
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Das städtische Schwimmbad in Pinhel bietet Platz für Training und Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        -7.064955,
+                        40.772578
+                  ]
             }
       ],
       "hu": [
@@ -11995,6 +23803,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.060328,
                         40.771779
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "A pinheli városi úszómedence helyet biztosít az edzéshez és a szabadidős szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.064955,
+                        40.772578
                   ]
             }
       ],
@@ -12070,6 +23887,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.060328,
                         40.771779
                   ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "Piscina municipală din Pinhel oferă spațiu pentru antrenament și distracție în timpul liber.",
+                  "category": "family",
+                  "coords": [
+                        -7.064955,
+                        40.772578
+                  ]
             }
       ],
       "en": [
@@ -12143,6 +23969,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.060328,
                         40.771779
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal",
+                  "text": "The municipal swimming pool in Pinhel offers space for training and leisure fun.",
+                  "category": "family",
+                  "coords": [
+                        -7.064955,
+                        40.772578
                   ]
             }
       ]
@@ -12273,6 +24108,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.345402,
                         40.778229
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Trancoso",
+                  "text": "Schwimmbadkomplex in Trancoso, der Einrichtungen für Wassersport und Entspannung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.356716,
+                        40.771119
+                  ]
             }
       ],
       "hu": [
@@ -12355,6 +24199,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.345402,
                         40.778229
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Trancoso",
+                  "text": "Úszómedence-komplexum Trancosóban, amely vízi sportokhoz és kikapcsolódáshoz kínál létesítményeket.",
+                  "category": "family",
+                  "coords": [
+                        -7.356716,
+                        40.771119
                   ]
             }
       ],
@@ -12439,6 +24292,15 @@ export const portugalCitiesV2: POI[] = [
                         -7.345402,
                         40.778229
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Trancoso",
+                  "text": "Complex de piscine în Trancoso, oferind facilități pentru sporturi nautice și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -7.356716,
+                        40.771119
+                  ]
             }
       ],
       "en": [
@@ -12521,6 +24383,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.345402,
                         40.778229
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Trancoso",
+                  "text": "Swimming pool complex in Trancoso offering facilities for water sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -7.356716,
+                        40.771119
                   ]
             }
       ]
@@ -12614,7 +24485,412 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-meda-cities-v2.webp",
   },
   {
-    id: "portugal-f-de-espada-cities-v2", "sights": {"de": [{"name": "Praia Fluvial de Congida", "text": "Tief im Douro-Tal versteckt sich dieser wunderschöne Flussstrand bei Freixo de Espada à Cinta. Hier verbinden sich pure Erholung in der Natur und abwechslungsreiche Freizeitaktivitäten am ruhigen Wasser. Um die Stille der Landschaft zu genießen, sind Besuche außerhalb der Spitzenzeiten empfehlenswert.", "category": "recreational", "coords": [-6.77977, 41.075536]}, {"name": "Freixo Duarte d'Armas", "text": "Eine lokale Sehenswürdigkeit, benannt nach dem berühmten Kartografen Duarte d'Armas.", "category": "landmark", "coords": [-6.805028, 41.09241]}, {"name": "Baloiço Congida", "text": "Eine malerische Schaukel mit weitem Blick über den Fluss Douro bei Congida.", "category": "landmark", "coords": [-6.780001, 41.077914]}, {"name": "Paseo en Barco por el Duero Internacional", "text": "Bootstouren auf dem internationalen Abschnitt des Douro-Flusses durch tiefe Schluchten.", "category": "landmark", "coords": [-6.737881, 41.131997]}, {"name": "Câmara Municipal de Freixo de Espada à Cinta", "text": "Das Verwaltungsgebäude der Stadtverwaltung von Freixo de Espada à Cinta.", "category": "historical", "coords": [-6.808172, 41.089649]}, {"name": "Igreja da Misericórdia de Freixo de Espada à Cinta", "text": "Ein religiöses Bauwerk der Misericórdia-Bruderschaft in Freixo de Espada à Cinta.", "category": "religious", "coords": [-6.806073, 41.092381]}, {"name": "Capela da Senhora dos Remédios", "text": "Eine Kapelle, die der Muttergottes der Heilmittel gewidmet ist, ein lokaler Andachtsort.", "category": "religious", "coords": [-6.81213, 41.093672]}, {"name": "Albufeira do Pocinho", "text": "Die Albufeira do Pocinho ist ein großer See in Freixo De Espada A Cinta.", "category": "natural", "coords": [-6.959387, 41.071995]}, {"name": "Albufeira da Ferradosa", "text": "Der See Albufeira da Ferradosa liegt in der Region Freixo De Espada A Cinta.", "category": "natural", "coords": [-6.837129, 41.128888]}, {"name": "Embalse de Saucelle", "text": "Embalse de Saucelle ist ein Stausee an der Grenze bei Freixo De Espada A Cinta.", "category": "natural", "coords": [-6.746327, 41.126679]}], "hu": [{"name": "Praia Fluvial de Congida", "text": "A Douro-völgy mélyén megbúvó gyönyörű folyami strand Freixo de Espada à Cinta közelében egy igazi gyöngyszem. A természetben való tiszta pihenést és a nyugodt víz melletti változatos szabadidős tevékenységeket ötvözi. A táj nyugalmának maradéktalan élvezetéhez érdemes a csúcsidőn kívül érkezni.", "category": "recreational", "coords": [-6.77977, 41.075536]}, {"name": "Freixo Duarte d'Armas", "text": "A híres térképészről, Duarte d'Armasról elnevezett helyi látnivaló.", "category": "landmark", "coords": [-6.805028, 41.09241]}, {"name": "Baloiço Congida", "text": "Guerlai kilátást nyújtó hinta a Duero folyóra Congida közelében.", "category": "landmark", "coords": [-6.780001, 41.077914]}, {"name": "Paseo en Barco por el Duero Internacional", "text": "Hajókirándulások a Duero folyó nemzetközi szakaszán, mély szurdokokon keresztül.", "category": "landmark", "coords": [-6.737881, 41.131997]}, {"name": "Câmara Municipal de Freixo de Espada à Cinta", "text": "Freixo de Espada à Cinta önkormányzatának közigazgatási épülete.", "category": "historical", "coords": [-6.808172, 41.089649]}, {"name": "Igreja da Misericórdia de Freixo de Espada à Cinta", "text": "A Misericórdia testvériség vallási épülete Freixo de Espada à Cintában.", "category": "religious", "coords": [-6.806073, 41.092381]}, {"name": "Capela da Senhora dos Remédios", "text": "Az Orvosló Boldogasszonynak szentelt kápolna, helyi áhítati helyszín.", "category": "religious", "coords": [-6.81213, 41.093672]}, {"name": "Albufeira do Pocinho", "text": "Az Albufeira do Pocinho egy nagy tó Freixo De Espada A Cinta területén.", "category": "natural", "coords": [-6.959387, 41.071995]}, {"name": "Albufeira da Ferradosa", "text": "Az Albufeira da Ferradosa tó Freixo De Espada A Cinta régiójában található.", "category": "natural", "coords": [-6.837129, 41.128888]}, {"name": "Embalse de Saucelle", "text": "Az Embalse de Saucelle egy víztározó a határ mentén, Freixo De Espada A Cinta közelében.", "category": "natural", "coords": [-6.746327, 41.126679]}], "ro": [{"name": "Praia Fluvial de Congida", "text": "Ascunsă adânc în valea râului Douro, această frumoasă plajă fluvială de lângă Freixo de Espada à Cinta este o adevărată bijuterie. Combină perfect relaxarea pură în natură cu diverse activități de agrement pe apele calme. Vizitarea în afara orelor de vârf este foarte recomandată pentru a aprecia pe deplin liniștea peisajului.", "category": "recreational", "coords": [-6.77977, 41.075536]}, {"name": "Freixo Duarte d'Armas", "text": "O atracție locală numită după celebrul cartograf Duarte d'Armas.", "category": "landmark", "coords": [-6.805028, 41.09241]}, {"name": "Baloiço Congida", "text": "Un leagăn pitoresc care oferă vederi largi asupra râului Douro la Congida.", "category": "landmark", "coords": [-6.780001, 41.077914]}, {"name": "Paseo en Barco por el Duero Internacional", "text": "Plimbări cu barca pe secțiunea internațională a râului Douro, prin defileuri adânci.", "category": "landmark", "coords": [-6.737881, 41.131997]}, {"name": "Câmara Municipal de Freixo de Espada à Cinta", "text": "Clădirea administrativă a primăriei din Freixo de Espada à Cinta.", "category": "historical", "coords": [-6.808172, 41.089649]}, {"name": "Igreja da Misericórdia de Freixo de Espada à Cinta", "text": "Un edificiu religios al frăției Misericórdia din Freixo de Espada à Cinta.", "category": "religious", "coords": [-6.806073, 41.092381]}, {"name": "Capela da Senhora dos Remédios", "text": "O capelă dedicată Maicii Domnului a Remediilor, un loc de devoțiune locală.", "category": "religious", "coords": [-6.81213, 41.093672]}, {"name": "Albufeira do Pocinho", "text": "Albufeira do Pocinho este un lac mare în Freixo De Espada A Cinta.", "category": "natural", "coords": [-6.959387, 41.071995]}, {"name": "Albufeira da Ferradosa", "text": "Lacul Albufeira da Ferradosa este situat în regiunea Freixo De Espada A Cinta.", "category": "natural", "coords": [-6.837129, 41.128888]}, {"name": "Embalse de Saucelle", "text": "Embalse de Saucelle este un lac de acumulare la graniță, lângă Freixo De Espada A Cinta.", "category": "natural", "coords": [-6.746327, 41.126679]}], "en": [{"name": "Praia Fluvial de Congida", "text": "Hidden deep within the Douro Valley, this beautiful river beach near Freixo de Espada à Cinta is a true gem. It perfectly combines pure relaxation in nature with varied leisure activities by the calm water. Visiting outside of peak hours is highly recommended to fully appreciate the tranquility of the landscape.", "category": "recreational", "coords": [-6.77977, 41.075536]}, {"name": "Freixo Duarte d'Armas", "text": "A local attraction named after the famous cartographer Duarte d'Armas.", "category": "landmark", "coords": [-6.805028, 41.09241]}, {"name": "Baloiço Congida", "text": "A scenic swing offering wide views over the Douro River at Congida.", "category": "landmark", "coords": [-6.780001, 41.077914]}, {"name": "Paseo en Barco por el Duero Internacional", "text": "Boat tours on the international section of the Douro River through deep gorges.", "category": "landmark", "coords": [-6.737881, 41.131997]}, {"name": "Câmara Municipal de Freixo de Espada à Cinta", "text": "The administrative building of the Freixo de Espada à Cinta town council.", "category": "historical", "coords": [-6.808172, 41.089649]}, {"name": "Igreja da Misericórdia de Freixo de Espada à Cinta", "text": "A religious edifice of the Misericórdia brotherhood in Freixo de Espada à Cinta.", "category": "religious", "coords": [-6.806073, 41.092381]}, {"name": "Capela da Senhora dos Remédios", "text": "A chapel dedicated to Our Lady of Remedies, a local place of devotion.", "category": "religious", "coords": [-6.81213, 41.093672]}, {"name": "Albufeira do Pocinho", "text": "Albufeira do Pocinho is a large lake in Freixo De Espada A Cinta.", "category": "natural", "coords": [-6.959387, 41.071995]}, {"name": "Albufeira da Ferradosa", "text": "The lake Albufeira da Ferradosa is located in the Freixo De Espada A Cinta region.", "category": "natural", "coords": [-6.837129, 41.128888]}, {"name": "Embalse de Saucelle", "text": "Embalse de Saucelle is a reservoir on the border near Freixo De Espada A Cinta.", "category": "natural", "coords": [-6.746327, 41.126679]}]},
+    id: "portugal-f-de-espada-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Fluvial de Congida",
+                  "text": "Tief im Douro-Tal versteckt sich dieser wunderschöne Flussstrand bei Freixo de Espada à Cinta. Hier verbinden sich pure Erholung in der Natur und abwechslungsreiche Freizeitaktivitäten am ruhigen Wasser. Um die Stille der Landschaft zu genießen, sind Besuche außerhalb der Spitzenzeiten empfehlenswert.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.77977,
+                        41.075536
+                  ]
+            },
+            {
+                  "name": "Freixo Duarte d'Armas",
+                  "text": "Eine lokale Sehenswürdigkeit, benannt nach dem berühmten Kartografen Duarte d'Armas.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.805028,
+                        41.09241
+                  ]
+            },
+            {
+                  "name": "Baloiço Congida",
+                  "text": "Eine malerische Schaukel mit weitem Blick über den Fluss Douro bei Congida.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.780001,
+                        41.077914
+                  ]
+            },
+            {
+                  "name": "Paseo en Barco por el Duero Internacional",
+                  "text": "Bootstouren auf dem internationalen Abschnitt des Douro-Flusses durch tiefe Schluchten.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.737881,
+                        41.131997
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Freixo de Espada à Cinta",
+                  "text": "Das Verwaltungsgebäude der Stadtverwaltung von Freixo de Espada à Cinta.",
+                  "category": "historical",
+                  "coords": [
+                        -6.808172,
+                        41.089649
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia de Freixo de Espada à Cinta",
+                  "text": "Ein religiöses Bauwerk der Misericórdia-Bruderschaft in Freixo de Espada à Cinta.",
+                  "category": "religious",
+                  "coords": [
+                        -6.806073,
+                        41.092381
+                  ]
+            },
+            {
+                  "name": "Capela da Senhora dos Remédios",
+                  "text": "Eine Kapelle, die der Muttergottes der Heilmittel gewidmet ist, ein lokaler Andachtsort.",
+                  "category": "religious",
+                  "coords": [
+                        -6.81213,
+                        41.093672
+                  ]
+            },
+            {
+                  "name": "Albufeira do Pocinho",
+                  "text": "Die Albufeira do Pocinho ist ein großer See in Freixo De Espada A Cinta.",
+                  "category": "natural",
+                  "coords": [
+                        -6.959387,
+                        41.071995
+                  ]
+            },
+            {
+                  "name": "Albufeira da Ferradosa",
+                  "text": "Der See Albufeira da Ferradosa liegt in der Region Freixo De Espada A Cinta.",
+                  "category": "natural",
+                  "coords": [
+                        -6.837129,
+                        41.128888
+                  ]
+            },
+            {
+                  "name": "Embalse de Saucelle",
+                  "text": "Embalse de Saucelle ist ein Stausee an der Grenze bei Freixo De Espada A Cinta.",
+                  "category": "natural",
+                  "coords": [
+                        -6.746327,
+                        41.126679
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Die städtischen Schwimmbäder in Freixo De Espada A Cinta sind ein beliebtes Freizeitziel.",
+                  "category": "family",
+                  "coords": [
+                        -6.813063,
+                        41.09467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Fluvial de Congida",
+                  "text": "A Douro-völgy mélyén megbúvó gyönyörű folyami strand Freixo de Espada à Cinta közelében egy igazi gyöngyszem. A természetben való tiszta pihenést és a nyugodt víz melletti változatos szabadidős tevékenységeket ötvözi. A táj nyugalmának maradéktalan élvezetéhez érdemes a csúcsidőn kívül érkezni.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.77977,
+                        41.075536
+                  ]
+            },
+            {
+                  "name": "Freixo Duarte d'Armas",
+                  "text": "A híres térképészről, Duarte d'Armasról elnevezett helyi látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.805028,
+                        41.09241
+                  ]
+            },
+            {
+                  "name": "Baloiço Congida",
+                  "text": "Guerlai kilátást nyújtó hinta a Duero folyóra Congida közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.780001,
+                        41.077914
+                  ]
+            },
+            {
+                  "name": "Paseo en Barco por el Duero Internacional",
+                  "text": "Hajókirándulások a Duero folyó nemzetközi szakaszán, mély szurdokokon keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.737881,
+                        41.131997
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Freixo de Espada à Cinta",
+                  "text": "Freixo de Espada à Cinta önkormányzatának közigazgatási épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -6.808172,
+                        41.089649
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia de Freixo de Espada à Cinta",
+                  "text": "A Misericórdia testvériség vallási épülete Freixo de Espada à Cintában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.806073,
+                        41.092381
+                  ]
+            },
+            {
+                  "name": "Capela da Senhora dos Remédios",
+                  "text": "Az Orvosló Boldogasszonynak szentelt kápolna, helyi áhítati helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        -6.81213,
+                        41.093672
+                  ]
+            },
+            {
+                  "name": "Albufeira do Pocinho",
+                  "text": "Az Albufeira do Pocinho egy nagy tó Freixo De Espada A Cinta területén.",
+                  "category": "natural",
+                  "coords": [
+                        -6.959387,
+                        41.071995
+                  ]
+            },
+            {
+                  "name": "Albufeira da Ferradosa",
+                  "text": "Az Albufeira da Ferradosa tó Freixo De Espada A Cinta régiójában található.",
+                  "category": "natural",
+                  "coords": [
+                        -6.837129,
+                        41.128888
+                  ]
+            },
+            {
+                  "name": "Embalse de Saucelle",
+                  "text": "Az Embalse de Saucelle egy víztározó a határ mentén, Freixo De Espada A Cinta közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -6.746327,
+                        41.126679
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "A Freixo De Espada A Cinta-i városi úszómedencék népszerű szabadidős célpontok.",
+                  "category": "family",
+                  "coords": [
+                        -6.813063,
+                        41.09467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Fluvial de Congida",
+                  "text": "Ascunsă adânc în valea râului Douro, această frumoasă plajă fluvială de lângă Freixo de Espada à Cinta este o adevărată bijuterie. Combină perfect relaxarea pură în natură cu diverse activități de agrement pe apele calme. Vizitarea în afara orelor de vârf este foarte recomandată pentru a aprecia pe deplin liniștea peisajului.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.77977,
+                        41.075536
+                  ]
+            },
+            {
+                  "name": "Freixo Duarte d'Armas",
+                  "text": "O atracție locală numită după celebrul cartograf Duarte d'Armas.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.805028,
+                        41.09241
+                  ]
+            },
+            {
+                  "name": "Baloiço Congida",
+                  "text": "Un leagăn pitoresc care oferă vederi largi asupra râului Douro la Congida.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.780001,
+                        41.077914
+                  ]
+            },
+            {
+                  "name": "Paseo en Barco por el Duero Internacional",
+                  "text": "Plimbări cu barca pe secțiunea internațională a râului Douro, prin defileuri adânci.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.737881,
+                        41.131997
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Freixo de Espada à Cinta",
+                  "text": "Clădirea administrativă a primăriei din Freixo de Espada à Cinta.",
+                  "category": "historical",
+                  "coords": [
+                        -6.808172,
+                        41.089649
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia de Freixo de Espada à Cinta",
+                  "text": "Un edificiu religios al frăției Misericórdia din Freixo de Espada à Cinta.",
+                  "category": "religious",
+                  "coords": [
+                        -6.806073,
+                        41.092381
+                  ]
+            },
+            {
+                  "name": "Capela da Senhora dos Remédios",
+                  "text": "O capelă dedicată Maicii Domnului a Remediilor, un loc de devoțiune locală.",
+                  "category": "religious",
+                  "coords": [
+                        -6.81213,
+                        41.093672
+                  ]
+            },
+            {
+                  "name": "Albufeira do Pocinho",
+                  "text": "Albufeira do Pocinho este un lac mare în Freixo De Espada A Cinta.",
+                  "category": "natural",
+                  "coords": [
+                        -6.959387,
+                        41.071995
+                  ]
+            },
+            {
+                  "name": "Albufeira da Ferradosa",
+                  "text": "Lacul Albufeira da Ferradosa este situat în regiunea Freixo De Espada A Cinta.",
+                  "category": "natural",
+                  "coords": [
+                        -6.837129,
+                        41.128888
+                  ]
+            },
+            {
+                  "name": "Embalse de Saucelle",
+                  "text": "Embalse de Saucelle este un lac de acumulare la graniță, lângă Freixo De Espada A Cinta.",
+                  "category": "natural",
+                  "coords": [
+                        -6.746327,
+                        41.126679
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Piscinile municipale din Freixo De Espada A Cinta sunt o destinație populară de agrement.",
+                  "category": "family",
+                  "coords": [
+                        -6.813063,
+                        41.09467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Fluvial de Congida",
+                  "text": "Hidden deep within the Douro Valley, this beautiful river beach near Freixo de Espada à Cinta is a true gem. It perfectly combines pure relaxation in nature with varied leisure activities by the calm water. Visiting outside of peak hours is highly recommended to fully appreciate the tranquility of the landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.77977,
+                        41.075536
+                  ]
+            },
+            {
+                  "name": "Freixo Duarte d'Armas",
+                  "text": "A local attraction named after the famous cartographer Duarte d'Armas.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.805028,
+                        41.09241
+                  ]
+            },
+            {
+                  "name": "Baloiço Congida",
+                  "text": "A scenic swing offering wide views over the Douro River at Congida.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.780001,
+                        41.077914
+                  ]
+            },
+            {
+                  "name": "Paseo en Barco por el Duero Internacional",
+                  "text": "Boat tours on the international section of the Douro River through deep gorges.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.737881,
+                        41.131997
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Freixo de Espada à Cinta",
+                  "text": "The administrative building of the Freixo de Espada à Cinta town council.",
+                  "category": "historical",
+                  "coords": [
+                        -6.808172,
+                        41.089649
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia de Freixo de Espada à Cinta",
+                  "text": "A religious edifice of the Misericórdia brotherhood in Freixo de Espada à Cinta.",
+                  "category": "religious",
+                  "coords": [
+                        -6.806073,
+                        41.092381
+                  ]
+            },
+            {
+                  "name": "Capela da Senhora dos Remédios",
+                  "text": "A chapel dedicated to Our Lady of Remedies, a local place of devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -6.81213,
+                        41.093672
+                  ]
+            },
+            {
+                  "name": "Albufeira do Pocinho",
+                  "text": "Albufeira do Pocinho is a large lake in Freixo De Espada A Cinta.",
+                  "category": "natural",
+                  "coords": [
+                        -6.959387,
+                        41.071995
+                  ]
+            },
+            {
+                  "name": "Albufeira da Ferradosa",
+                  "text": "The lake Albufeira da Ferradosa is located in the Freixo De Espada A Cinta region.",
+                  "category": "natural",
+                  "coords": [
+                        -6.837129,
+                        41.128888
+                  ]
+            },
+            {
+                  "name": "Embalse de Saucelle",
+                  "text": "Embalse de Saucelle is a reservoir on the border near Freixo De Espada A Cinta.",
+                  "category": "natural",
+                  "coords": [
+                        -6.746327,
+                        41.126679
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "The municipal swimming pools in Freixo De Espada A Cinta are a popular leisure destination.",
+                  "category": "family",
+                  "coords": [
+                        -6.813063,
+                        41.09467
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Freixo de Espada à Cinta", hu: "Freixo de Espada à Cinta", ro: "Freixo de Espada à Cinta", en: "Freixo de Espada à Cinta" },
@@ -12659,7 +24935,448 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-f-de-espada-cities-v2.webp",
   },
   {
-    id: "portugal-mogadouro-cities-v2", "sights": {"de": [{"name": "Castelo de Mogadouro", "text": "Überreste einer mittelalterlichen Burg, die Mogadouro überragt.", "category": "castle", "coords": [-6.720319, 41.338266]}, {"name": "Sala Museu de Arqueologia de Mogadouro", "text": "Ein Museum, das archäologische Funde der Region Mogadouro ausstellt.", "category": "museum", "coords": [-6.715924, 41.340506]}, {"name": "Casa das Artes e Ofícios", "text": "Ein Museum und Kulturzentrum für lokales Handwerk in Mogadouro.", "category": "museum", "coords": [-6.713127, 41.3414]}, {"name": "Figueira", "text": "Ein markanter Berggipfel in der Nähe von Mogadouro.", "category": "natural", "coords": [-6.732529, 41.317307]}, {"name": "Rotunda do lagar", "text": "Ein gestalteter Kreisverkehr mit einem traditionellen Pressenthema.", "category": "landmark", "coords": [-6.713743, 41.357488]}, {"name": "Menina a ler", "text": "Eine Skulptur in Mogadouro, die ein lesendes Mädchen darstellt.", "category": "landmark", "coords": [-6.711483, 41.342087]}, {"name": "Serra de Figueira", "text": "Die Serra de Figueira in Mogadouro dient als atemberaubender natürlicher Aussichtspunkt in Portugal. Besucher, die sich in diese Höhen begeben, werden mit einem weiten Blick über die wunderschöne umliegende Landschaft belohnt.", "category": "natural", "coords": [-6.731036, 41.317661]}, {"name": "Baloiço de São Cristovão III", "text": "Eine Panorama-Schaukel mit Blick auf die Umgebung von Mogadouro.", "category": "landmark", "coords": [-6.734556, 41.316306]}, {"name": "Porta da Frágua", "text": "Ein natürlicher See in Mogadouro, ideal für Beobachtungen der lokalen Flora und Fauna.", "category": "natural", "coords": [-6.687754, 41.334089]}, {"name": "Albufeira de Bastelo", "text": "Dieser See in Mogadouro bietet eine friedliche Kulisse für Naturliebhaber.", "category": "natural", "coords": [-6.666234, 41.389871]}], "hu": [{"name": "Castelo de Mogadouro", "text": "Mogadouro fölé magasodó középkori vár maradványai.", "category": "castle", "coords": [-6.720319, 41.338266]}, {"name": "Sala Museu de Arqueologia de Mogadouro", "text": "Múzeum, amely Mogadouro régiójának régészeti leleteit mutatja be.", "category": "museum", "coords": [-6.715924, 41.340506]}, {"name": "Casa das Artes e Ofícios", "text": "A helyi kézművesség múzeuma és kulturális központja Mogadouro-ban.", "category": "museum", "coords": [-6.713127, 41.3414]}, {"name": "Figueira", "text": "Egy jellegzetes hegycsúcs Mogadouro közelében.", "category": "natural", "coords": [-6.732529, 41.317307]}, {"name": "Rotunda do lagar", "text": "Hagyományos prés-tematikájú, kialakított körforgalom.", "category": "landmark", "coords": [-6.713743, 41.357488]}, {"name": "Menina a ler", "text": "Egy olvasó lányt ábrázoló szobor Mogadouro-ban.", "category": "landmark", "coords": [-6.711483, 41.342087]}, {"name": "Serra de Figueira", "text": "A Mogadouróban található Serra de Figueira egy lélegzetelállító természetes kilátóhely Portugáliában. Az ebbe a magasságba merészkedő látogatókat a gyönyörű környező vidékre nyíló lenyűgöző panoráma jutalmazza.", "category": "natural", "coords": [-6.731036, 41.317661]}, {"name": "Baloiço de São Cristovão III", "text": "Panorámás hinta, kilátással Mogadouro környékére.", "category": "landmark", "coords": [-6.734556, 41.316306]}, {"name": "Porta da Frágua", "text": "Természetes tó Mogadouro területén, ideális a helyi növény- és állatvilág megfigyelésére.", "category": "natural", "coords": [-6.687754, 41.334089]}, {"name": "Albufeira de Bastelo", "text": "Ez a Mogadouro területén található tó békés környezetet nyújt a természet kedvelőinek.", "category": "natural", "coords": [-6.666234, 41.389871]}], "ro": [{"name": "Castelo de Mogadouro", "text": "Vestigiile unui castel medieval care domină Mogadouro.", "category": "castle", "coords": [-6.720319, 41.338266]}, {"name": "Sala Museu de Arqueologia de Mogadouro", "text": "Un muzeu care expune descoperiri arheologice din regiunea Mogadouro.", "category": "museum", "coords": [-6.715924, 41.340506]}, {"name": "Casa das Artes e Ofícios", "text": "Un muzeu și centru cultural pentru meșteșugurile locale din Mogadouro.", "category": "museum", "coords": [-6.713127, 41.3414]}, {"name": "Figueira", "text": "Un vârf montan proeminent în apropiere de Mogadouro.", "category": "natural", "coords": [-6.732529, 41.317307]}, {"name": "Rotunda do lagar", "text": "Un sens giratoriu decorat cu o tematică tradițională a presei.", "category": "landmark", "coords": [-6.713743, 41.357488]}, {"name": "Menina a ler", "text": "O sculptură în Mogadouro înfățișând o fată care citește.", "category": "landmark", "coords": [-6.711483, 41.342087]}, {"name": "Serra de Figueira", "text": "Situată în Mogadouro, Serra de Figueira servește drept un punct de belvedere natural uluitor în Portugalia. Vizitatorii care se aventurează la această altitudine sunt răsplătiți cu vederi ample asupra peisajului frumos din jur.", "category": "natural", "coords": [-6.731036, 41.317661]}, {"name": "Baloiço de São Cristovão III", "text": "Un leagăn panoramic cu vedere spre împrejurimile orașului Mogadouro.", "category": "landmark", "coords": [-6.734556, 41.316306]}, {"name": "Porta da Frágua", "text": "Un lac natural în Mogadouro, ideal pentru observarea florei și faunei locale.", "category": "natural", "coords": [-6.687754, 41.334089]}, {"name": "Albufeira de Bastelo", "text": "Acest lac din Mogadouro oferă un cadru liniștit pentru iubitorii de natură.", "category": "natural", "coords": [-6.666234, 41.389871]}], "en": [{"name": "Castelo de Mogadouro", "text": "Remains of a medieval castle overlooking Mogadouro.", "category": "castle", "coords": [-6.720319, 41.338266]}, {"name": "Sala Museu de Arqueologia de Mogadouro", "text": "A museum exhibiting archaeological finds from the Mogadouro region.", "category": "museum", "coords": [-6.715924, 41.340506]}, {"name": "Casa das Artes e Ofícios", "text": "A museum and cultural center for local crafts in Mogadouro.", "category": "museum", "coords": [-6.713127, 41.3414]}, {"name": "Figueira", "text": "A prominent mountain peak near Mogadouro.", "category": "natural", "coords": [-6.732529, 41.317307]}, {"name": "Rotunda do lagar", "text": "A landscaped roundabout with a traditional press theme.", "category": "landmark", "coords": [-6.713743, 41.357488]}, {"name": "Menina a ler", "text": "A sculpture in Mogadouro depicting a girl reading.", "category": "landmark", "coords": [-6.711483, 41.342087]}, {"name": "Serra de Figueira", "text": "Located in Mogadouro, the Serra de Figueira serves as a breathtaking natural viewpoint in Portugal. Visitors venturing to this elevation are rewarded with expansive views stretching over the beautiful surrounding landscape.", "category": "natural", "coords": [-6.731036, 41.317661]}, {"name": "Baloiço de São Cristovão III", "text": "A panoramic swing overlooking the Mogadouro surroundings.", "category": "landmark", "coords": [-6.734556, 41.316306]}, {"name": "Porta da Frágua", "text": "A natural lake in Mogadouro, ideal for observing local flora and fauna.", "category": "natural", "coords": [-6.687754, 41.334089]}, {"name": "Albufeira de Bastelo", "text": "This lake in Mogadouro provides a peaceful backdrop for nature lovers.", "category": "natural", "coords": [-6.666234, 41.389871]}]},
+    id: "portugal-mogadouro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castelo de Mogadouro",
+                  "text": "Überreste einer mittelalterlichen Burg, die Mogadouro überragt.",
+                  "category": "castle",
+                  "coords": [
+                        -6.720319,
+                        41.338266
+                  ]
+            },
+            {
+                  "name": "Sala Museu de Arqueologia de Mogadouro",
+                  "text": "Ein Museum, das archäologische Funde der Region Mogadouro ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.715924,
+                        41.340506
+                  ]
+            },
+            {
+                  "name": "Casa das Artes e Ofícios",
+                  "text": "Ein Museum und Kulturzentrum für lokales Handwerk in Mogadouro.",
+                  "category": "museum",
+                  "coords": [
+                        -6.713127,
+                        41.3414
+                  ]
+            },
+            {
+                  "name": "Figueira",
+                  "text": "Ein markanter Berggipfel in der Nähe von Mogadouro.",
+                  "category": "natural",
+                  "coords": [
+                        -6.732529,
+                        41.317307
+                  ]
+            },
+            {
+                  "name": "Rotunda do lagar",
+                  "text": "Ein gestalteter Kreisverkehr mit einem traditionellen Pressenthema.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.713743,
+                        41.357488
+                  ]
+            },
+            {
+                  "name": "Menina a ler",
+                  "text": "Eine Skulptur in Mogadouro, die ein lesendes Mädchen darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.711483,
+                        41.342087
+                  ]
+            },
+            {
+                  "name": "Serra de Figueira",
+                  "text": "Die Serra de Figueira in Mogadouro dient als atemberaubender natürlicher Aussichtspunkt in Portugal. Besucher, die sich in diese Höhen begeben, werden mit einem weiten Blick über die wunderschöne umliegende Landschaft belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        -6.731036,
+                        41.317661
+                  ]
+            },
+            {
+                  "name": "Baloiço de São Cristovão III",
+                  "text": "Eine Panorama-Schaukel mit Blick auf die Umgebung von Mogadouro.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.734556,
+                        41.316306
+                  ]
+            },
+            {
+                  "name": "Porta da Frágua",
+                  "text": "Ein natürlicher See in Mogadouro, ideal für Beobachtungen der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -6.687754,
+                        41.334089
+                  ]
+            },
+            {
+                  "name": "Albufeira de Bastelo",
+                  "text": "Dieser See in Mogadouro bietet eine friedliche Kulisse für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        -6.666234,
+                        41.389871
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Mogadouro",
+                  "text": "Städtisches Schwimmbad in Mogadouro für den Freizeitgebrauch durch Anwohner und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        -6.718221,
+                        41.334197
+                  ]
+            },
+            {
+                  "name": "Piscina Coberta",
+                  "text": "Hallenbad in Mogadouro, das das ganze Jahr über Schwimmen ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        -6.718461,
+                        41.335645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelo de Mogadouro",
+                  "text": "Mogadouro fölé magasodó középkori vár maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        -6.720319,
+                        41.338266
+                  ]
+            },
+            {
+                  "name": "Sala Museu de Arqueologia de Mogadouro",
+                  "text": "Múzeum, amely Mogadouro régiójának régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.715924,
+                        41.340506
+                  ]
+            },
+            {
+                  "name": "Casa das Artes e Ofícios",
+                  "text": "A helyi kézművesség múzeuma és kulturális központja Mogadouro-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.713127,
+                        41.3414
+                  ]
+            },
+            {
+                  "name": "Figueira",
+                  "text": "Egy jellegzetes hegycsúcs Mogadouro közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -6.732529,
+                        41.317307
+                  ]
+            },
+            {
+                  "name": "Rotunda do lagar",
+                  "text": "Hagyományos prés-tematikájú, kialakított körforgalom.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.713743,
+                        41.357488
+                  ]
+            },
+            {
+                  "name": "Menina a ler",
+                  "text": "Egy olvasó lányt ábrázoló szobor Mogadouro-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.711483,
+                        41.342087
+                  ]
+            },
+            {
+                  "name": "Serra de Figueira",
+                  "text": "A Mogadouróban található Serra de Figueira egy lélegzetelállító természetes kilátóhely Portugáliában. Az ebbe a magasságba merészkedő látogatókat a gyönyörű környező vidékre nyíló lenyűgöző panoráma jutalmazza.",
+                  "category": "natural",
+                  "coords": [
+                        -6.731036,
+                        41.317661
+                  ]
+            },
+            {
+                  "name": "Baloiço de São Cristovão III",
+                  "text": "Panorámás hinta, kilátással Mogadouro környékére.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.734556,
+                        41.316306
+                  ]
+            },
+            {
+                  "name": "Porta da Frágua",
+                  "text": "Természetes tó Mogadouro területén, ideális a helyi növény- és állatvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -6.687754,
+                        41.334089
+                  ]
+            },
+            {
+                  "name": "Albufeira de Bastelo",
+                  "text": "Ez a Mogadouro területén található tó békés környezetet nyújt a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        -6.666234,
+                        41.389871
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Mogadouro",
+                  "text": "Városi úszómedence Mogadouro területén lakosok és látogatók szabadidős használatára.",
+                  "category": "family",
+                  "coords": [
+                        -6.718221,
+                        41.334197
+                  ]
+            },
+            {
+                  "name": "Piscina Coberta",
+                  "text": "Fedett uszoda Mogadouro területén, amely egész évben lehetővé teszi az úszást.",
+                  "category": "family",
+                  "coords": [
+                        -6.718461,
+                        41.335645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelo de Mogadouro",
+                  "text": "Vestigiile unui castel medieval care domină Mogadouro.",
+                  "category": "castle",
+                  "coords": [
+                        -6.720319,
+                        41.338266
+                  ]
+            },
+            {
+                  "name": "Sala Museu de Arqueologia de Mogadouro",
+                  "text": "Un muzeu care expune descoperiri arheologice din regiunea Mogadouro.",
+                  "category": "museum",
+                  "coords": [
+                        -6.715924,
+                        41.340506
+                  ]
+            },
+            {
+                  "name": "Casa das Artes e Ofícios",
+                  "text": "Un muzeu și centru cultural pentru meșteșugurile locale din Mogadouro.",
+                  "category": "museum",
+                  "coords": [
+                        -6.713127,
+                        41.3414
+                  ]
+            },
+            {
+                  "name": "Figueira",
+                  "text": "Un vârf montan proeminent în apropiere de Mogadouro.",
+                  "category": "natural",
+                  "coords": [
+                        -6.732529,
+                        41.317307
+                  ]
+            },
+            {
+                  "name": "Rotunda do lagar",
+                  "text": "Un sens giratoriu decorat cu o tematică tradițională a presei.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.713743,
+                        41.357488
+                  ]
+            },
+            {
+                  "name": "Menina a ler",
+                  "text": "O sculptură în Mogadouro înfățișând o fată care citește.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.711483,
+                        41.342087
+                  ]
+            },
+            {
+                  "name": "Serra de Figueira",
+                  "text": "Situată în Mogadouro, Serra de Figueira servește drept un punct de belvedere natural uluitor în Portugalia. Vizitatorii care se aventurează la această altitudine sunt răsplătiți cu vederi ample asupra peisajului frumos din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -6.731036,
+                        41.317661
+                  ]
+            },
+            {
+                  "name": "Baloiço de São Cristovão III",
+                  "text": "Un leagăn panoramic cu vedere spre împrejurimile orașului Mogadouro.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.734556,
+                        41.316306
+                  ]
+            },
+            {
+                  "name": "Porta da Frágua",
+                  "text": "Un lac natural în Mogadouro, ideal pentru observarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        -6.687754,
+                        41.334089
+                  ]
+            },
+            {
+                  "name": "Albufeira de Bastelo",
+                  "text": "Acest lac din Mogadouro oferă un cadru liniștit pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -6.666234,
+                        41.389871
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Mogadouro",
+                  "text": "Piscină municipală în Mogadouro pentru uz recreativ de către rezidenți și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        -6.718221,
+                        41.334197
+                  ]
+            },
+            {
+                  "name": "Piscina Coberta",
+                  "text": "Piscină acoperită în Mogadouro, permițând înotul pe tot parcursul anului.",
+                  "category": "family",
+                  "coords": [
+                        -6.718461,
+                        41.335645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelo de Mogadouro",
+                  "text": "Remains of a medieval castle overlooking Mogadouro.",
+                  "category": "castle",
+                  "coords": [
+                        -6.720319,
+                        41.338266
+                  ]
+            },
+            {
+                  "name": "Sala Museu de Arqueologia de Mogadouro",
+                  "text": "A museum exhibiting archaeological finds from the Mogadouro region.",
+                  "category": "museum",
+                  "coords": [
+                        -6.715924,
+                        41.340506
+                  ]
+            },
+            {
+                  "name": "Casa das Artes e Ofícios",
+                  "text": "A museum and cultural center for local crafts in Mogadouro.",
+                  "category": "museum",
+                  "coords": [
+                        -6.713127,
+                        41.3414
+                  ]
+            },
+            {
+                  "name": "Figueira",
+                  "text": "A prominent mountain peak near Mogadouro.",
+                  "category": "natural",
+                  "coords": [
+                        -6.732529,
+                        41.317307
+                  ]
+            },
+            {
+                  "name": "Rotunda do lagar",
+                  "text": "A landscaped roundabout with a traditional press theme.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.713743,
+                        41.357488
+                  ]
+            },
+            {
+                  "name": "Menina a ler",
+                  "text": "A sculpture in Mogadouro depicting a girl reading.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.711483,
+                        41.342087
+                  ]
+            },
+            {
+                  "name": "Serra de Figueira",
+                  "text": "Located in Mogadouro, the Serra de Figueira serves as a breathtaking natural viewpoint in Portugal. Visitors venturing to this elevation are rewarded with expansive views stretching over the beautiful surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -6.731036,
+                        41.317661
+                  ]
+            },
+            {
+                  "name": "Baloiço de São Cristovão III",
+                  "text": "A panoramic swing overlooking the Mogadouro surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.734556,
+                        41.316306
+                  ]
+            },
+            {
+                  "name": "Porta da Frágua",
+                  "text": "A natural lake in Mogadouro, ideal for observing local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -6.687754,
+                        41.334089
+                  ]
+            },
+            {
+                  "name": "Albufeira de Bastelo",
+                  "text": "This lake in Mogadouro provides a peaceful backdrop for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -6.666234,
+                        41.389871
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Mogadouro",
+                  "text": "Municipal swimming pool in Mogadouro for leisure use by residents and visitors.",
+                  "category": "family",
+                  "coords": [
+                        -6.718221,
+                        41.334197
+                  ]
+            },
+            {
+                  "name": "Piscina Coberta",
+                  "text": "Indoor swimming pool in Mogadouro allowing for year-round swimming.",
+                  "category": "family",
+                  "coords": [
+                        -6.718461,
+                        41.335645
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Mogadouro", hu: "Mogadouro", ro: "Mogadouro", en: "Mogadouro" },
@@ -13083,6 +25800,24 @@ export const portugalCitiesV2: POI[] = [
                         -7.327847,
                         41.259551
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Carrazeda de Ansiães",
+                  "text": "Städtische Schwimmbäder in Carrazeda de Ansiães für Sport und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        -7.305514,
+                        41.245284
+                  ]
+            },
+            {
+                  "name": "Piscinas municipais descobertas",
+                  "text": "Öffentliche Freibäder in Carrazeda de Ansiães, ideal für sommerliche Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        -7.280775,
+                        41.23046
+                  ]
             }
       ],
       "hu": [
@@ -13147,6 +25882,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.327847,
                         41.259551
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Carrazeda de Ansiães",
+                  "text": "Városi úszómedencék Carrazeda de Ansiães területén sportoláshoz és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.305514,
+                        41.245284
+                  ]
+            },
+            {
+                  "name": "Piscinas municipais descobertas",
+                  "text": "Nyilvános szabadtéri medencék Carrazeda de Ansiães területén, ideálisak a nyári szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -7.280775,
+                        41.23046
                   ]
             }
       ],
@@ -13213,6 +25966,24 @@ export const portugalCitiesV2: POI[] = [
                         -7.327847,
                         41.259551
                   ]
+            },
+            {
+                  "name": "Piscinas Municipais de Carrazeda de Ansiães",
+                  "text": "Piscine municipale în Carrazeda de Ansiães pentru sport și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -7.305514,
+                        41.245284
+                  ]
+            },
+            {
+                  "name": "Piscinas municipais descobertas",
+                  "text": "Piscine municipale în aer liber în Carrazeda de Ansiães, ideale pentru activități recreative de vară.",
+                  "category": "family",
+                  "coords": [
+                        -7.280775,
+                        41.23046
+                  ]
             }
       ],
       "en": [
@@ -13277,6 +26048,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.327847,
                         41.259551
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais de Carrazeda de Ansiães",
+                  "text": "Municipal swimming pools in Carrazeda de Ansiães for sport and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -7.305514,
+                        41.245284
+                  ]
+            },
+            {
+                  "name": "Piscinas municipais descobertas",
+                  "text": "Public outdoor pools in Carrazeda de Ansiães, ideal for summer recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        -7.280775,
+                        41.23046
                   ]
             }
       ]
@@ -13407,6 +26196,15 @@ export const portugalCitiesV2: POI[] = [
                         -6.948974,
                         41.827929
                   ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponte da Ranca",
+                  "text": "Ein öffentlicher Badeplatz in Vinhais für eine Abkühlung im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        -6.99697,
+                        41.81017
+                  ]
             }
       ],
       "hu": [
@@ -13489,6 +26287,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -6.948974,
                         41.827929
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponte da Ranca",
+                  "text": "Nyilvános fürdőhely Vinhais városában egy nyári hűsöléshez.",
+                  "category": "family",
+                  "coords": [
+                        -6.99697,
+                        41.81017
                   ]
             }
       ],
@@ -13573,6 +26380,15 @@ export const portugalCitiesV2: POI[] = [
                         -6.948974,
                         41.827929
                   ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponte da Ranca",
+                  "text": "Un loc public de scăldat în Vinhais pentru o răcorire de vară.",
+                  "category": "family",
+                  "coords": [
+                        -6.99697,
+                        41.81017
+                  ]
             }
       ],
       "en": [
@@ -13655,6 +26471,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -6.948974,
                         41.827929
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial da Ponte da Ranca",
+                  "text": "A public bath in Vinhais for a summer cool down.",
+                  "category": "family",
+                  "coords": [
+                        -6.99697,
+                        41.81017
                   ]
             }
       ]
@@ -14271,6 +27096,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.393407,
                         40.059135
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Penela",
+                  "text": "Das städtische Schwimmbad von Penela für Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        -8.38556,
+                        40.025241
+                  ]
+            },
+            {
+                  "name": "Presa das Bicas",
+                  "text": "Ein Bereich zum Schwimmen in Penela in natürlicher Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        -8.377068,
+                        40.029742
+                  ]
             }
       ],
       "hu": [
@@ -14335,6 +27178,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.393407,
                         40.059135
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Penela",
+                  "text": "Penela városi úszómedencéje szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -8.38556,
+                        40.025241
+                  ]
+            },
+            {
+                  "name": "Presa das Bicas",
+                  "text": "Úszásra alkalmas terület Penela városában, természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        -8.377068,
+                        40.029742
                   ]
             }
       ],
@@ -14401,6 +27262,24 @@ export const portugalCitiesV2: POI[] = [
                         -8.393407,
                         40.059135
                   ]
+            },
+            {
+                  "name": "Piscina Municipal de Penela",
+                  "text": "Piscina municipală din Penela pentru activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        -8.38556,
+                        40.025241
+                  ]
+            },
+            {
+                  "name": "Presa das Bicas",
+                  "text": "O zonă pentru înot în Penela într-un cadru natural.",
+                  "category": "family",
+                  "coords": [
+                        -8.377068,
+                        40.029742
+                  ]
             }
       ],
       "en": [
@@ -14465,6 +27344,24 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.393407,
                         40.059135
+                  ]
+            },
+            {
+                  "name": "Piscina Municipal de Penela",
+                  "text": "The municipal swimming pool of Penela for leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        -8.38556,
+                        40.025241
+                  ]
+            },
+            {
+                  "name": "Presa das Bicas",
+                  "text": "An area for swimming in Penela in a natural setting.",
+                  "category": "family",
+                  "coords": [
+                        -8.377068,
+                        40.029742
                   ]
             }
       ]
@@ -14873,7 +27770,52 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-soure-cities-v2.webp",
   },
   {
-    id: "portugal-tavira-dist-cities-v2",
+    id: "portugal-tavira-dist-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caramelo Beach",
+                  "text": "Dieses Strandresort in Vila Real De Santo Antonio bietet Zugang zum Meer und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        -7.42241,
+                        37.173589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caramelo Beach",
+                  "text": "Ez a Vila Real De Santo Antonio-i tengerparti üdülőhely hozzáférést biztosít a tengerhez és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        -7.42241,
+                        37.173589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caramelo Beach",
+                  "text": "Această stațiune de plajă din Vila Real De Santo Antonio oferă acces la mare și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -7.42241,
+                        37.173589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caramelo Beach",
+                  "text": "This beach resort in Vila Real De Santo Antonio offers access to the sea and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -7.42241,
+                        37.173589
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Vila Real de Santo António", hu: "Vila Real de Santo António", ro: "Vila Real de Santo António", en: "Vila Real de Santo António" },
@@ -14918,7 +27860,844 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-tavira-dist-cities-v2.webp",
   },
   {
-    id: "portugal-olhao-cities-v2", "sights": {"de": [{"name": "Quinta de Marim 1", "text": "Überreste einer römischen Villa mit Mosaiken in der Nähe von Olhão.", "category": "historical", "coords": [-7.812196, 37.033511]}, {"name": "Villa romana da Quinta de Marim", "text": "Eine archäologische Ausgrabungsstätte einer römischen Villa in Olhão.", "category": "historical", "coords": [-7.813882, 37.04081]}, {"name": "Ponte de Marim", "text": "Eine antike Brücke, die Teil des römischen Erbes von Marim ist.", "category": "historical", "coords": [-7.811054, 37.043529]}, {"name": "Museu Municipal de Olhão", "text": "Ein Museum, das der Geschichte und Kultur von Olhão gewidmet ist.", "category": "museum", "coords": [-7.841026, 37.025981]}, {"name": "Auditório Municipal de Olhão", "text": "Das städtische Auditorium von Olhão für kulturelle Veranstaltungen.", "category": "cultural", "coords": [-7.837141, 37.02729]}, {"name": "Salinas do Coquenão", "text": "Eine historische archäologische Stätte ehemaliger Salinen in Olhão.", "category": "historical", "coords": [-7.824695, 37.029286]}, {"name": "Praia da Armona-Mar", "text": "Auf der sonnenverwöhnten Insel Armona gelegen, blickt dieser weiche Sandstrand in Olhão direkt auf die Weiten des Atlantiks. Das Inselflair zieht Besucher an, die fernab des Festlandes ausgiebig sonnenbaden oder im Meer schwimmen möchten. Denken Sie an ausreichend Sonnenschutz, um den Tag am Strand vollends auszukosten.", "category": "recreational", "coords": [-7.7922, 37.018157]}, {"name": "Praia da Armona-Ria", "text": "Mit einem traumhaften Ausblick auf die Ria Formosa bietet dieser Strand auf der Insel Armona eine herrliche Kulisse in Olhão. Das ruhigere Wasser auf dieser Seite der Insel macht den Ort zu einem entspannten Treffpunkt für Familien und Spaziergänger. Eine Fahrt mit der Fähre lohnt sich besonders früh am Tag.", "category": "recreational", "coords": [-7.804726, 37.02345]}, {"name": "Casa João Lúcio", "text": "Ein markantes Chalet und Museum im Naturpark Ria Formosa.", "category": "museum", "coords": [-7.817066, 37.035992]}, {"name": "Ponte Velha de Quelfes", "text": "Eine alte Brücke in Quelfes mit römischen Ursprüngen.", "category": "historical", "coords": [-7.829932, 37.055074]}, {"name": "Barco Bom Sucesso", "text": "Eine Nachbildung des Bootes, das 1808 von Olhão nach Brasilien segelte.", "category": "landmark", "coords": [-7.840967, 37.023131]}, {"name": "Sabino Boat Tours", "text": "Ein Anbieter für Bootstouren in den Gewässern von Olhão.", "category": "landmark", "coords": [-7.837497, 37.023707]}, {"name": "Atelier ZEA", "text": "Das Atelier ZEA ist ein dynamisches Kulturzentrum für zeitgenössische Kunst und Kreativität in Olhão, Portugal. Gäste, die dieses künstlerische Zentrum besuchen, können sich auf moderne Ausdrucksformen und lokale Kunstwerke freuen.", "category": "cultural", "coords": [-7.83884, 37.024574]}, {"name": "Associação Cultural Re-Criativa República 14", "text": "Ein lokaler Kulturverein und Veranstaltungsort in Olhão.", "category": "cultural", "coords": [-7.839935, 37.026795]}, {"name": "Câmara Municipal de Olhão", "text": "Das Rathausgebäude der Gemeinde Olhão.", "category": "historical", "coords": [-7.841736, 37.024887]}, {"name": "Moinho Novo do Marim", "text": "Eine historische Gezeitenmühle im Naturpark Ria Formosa.", "category": "landmark", "coords": [-7.815264, 37.030353]}, {"name": "Torre de Marim", "text": "Ein historischer Wachturm in der Gegend von Marim.", "category": "landmark", "coords": [-7.812077, 37.038969]}, {"name": "Ria Formosa", "text": "Ein bekanntes Gewässer in Olhão, das für seine natürliche Schönheit geschätzt wird.", "category": "natural", "coords": [-7.783467, 37.062263]}, {"name": "Parque infantil dos Pinheiros de Marim", "text": "Ein schöner Spielplatz in Olhão, der Kindern sicheren Raum zum Spielen bietet.", "category": "family", "coords": [-7.81904, 37.038112]}, {"name": "Jardim Pescadora Olhanense", "text": "Dieser Spielplatz in Olhão liegt in einer Gartenanlage und ist ideal für Familien.", "category": "family", "coords": [-7.842901, 37.023437]}], "hu": [{"name": "Quinta de Marim 1", "text": "Római villa maradványai mozaikokkal Olhão közelében.", "category": "historical", "coords": [-7.812196, 37.033511]}, {"name": "Villa romana da Quinta de Marim", "text": "Egy római villa régészeti lelőhelye Olhãóban.", "category": "historical", "coords": [-7.813882, 37.04081]}, {"name": "Ponte de Marim", "text": "Egy ősi híd, amely a marimi római örökség része.", "category": "historical", "coords": [-7.811054, 37.043529]}, {"name": "Museu Municipal de Olhão", "text": "Olhão történelmét és kultúráját bemutató múzeum.", "category": "museum", "coords": [-7.841026, 37.025981]}, {"name": "Auditório Municipal de Olhão", "text": "Olhão városi auditóriuma kulturális események számára.", "category": "cultural", "coords": [-7.837141, 37.02729]}, {"name": "Salinas do Coquenão", "text": "Eykori sólepárlók történelmi régészeti lelőhelye Olhãóban.", "category": "historical", "coords": [-7.824695, 37.029286]}, {"name": "Praia da Armona-Mar", "text": "Az Olhão-hoz tartozó, napsütötte Armona szigetén fekvő finom homokos strand közvetlenül a végtelen Atlanti-óceánra néz. A szigeti hangulat vonzza azokat a látogatókat, akik a szárazföldtől távol szeretnének napozni vagy a tengerben úszni. A tökéletes tengerparti naphoz ne felejtsen el bőséges napvédőt hozni.", "category": "recreational", "coords": [-7.7922, 37.018157]}, {"name": "Praia da Armona-Ria", "text": "A Ria Formosa-ra nyíló álomszép kilátással ez az Armona szigeti strand csodálatos kulisszát kínál Olhão-ban. A sziget ezen oldalán található nyugodtabb vizek laza találkozóhellyé teszik a családok és a sétálni vágyók számára. A korai kompozás különösen kellemessé teszi az utazást.", "category": "recreational", "coords": [-7.804726, 37.02345]}, {"name": "Casa João Lúcio", "text": "Egy jellegzetes villa és múzeum a Ria Formosa natúrparkban.", "category": "museum", "coords": [-7.817066, 37.035992]}, {"name": "Ponte Velha de Quelfes", "text": "Egy régi híd Quelfesben, római eredettel.", "category": "historical", "coords": [-7.829932, 37.055074]}, {"name": "Barco Bom Sucesso", "text": "Az 1808-ban Brazíliába vitorlázó hajó másolata Olhãóban.", "category": "landmark", "coords": [-7.840967, 37.023131]}, {"name": "Sabino Boat Tours", "text": "Hajókirándulásokat kínáló szolgáltató Olhão vizein.", "category": "landmark", "coords": [-7.837497, 37.023707]}, {"name": "Atelier ZEA", "text": "Az Atelier ZEA egy dinamikus kulturális központ a kortárs művészet és a kreativitás számára a portugáliai Olhaóban. Az ebbe a művészeti csomópontba látogató vendégek modern kifejezésmódokat és helyi alkotásokat ismerhetnek meg.", "category": "cultural", "coords": [-7.83884, 37.024574]}, {"name": "Associação Cultural Re-Criativa República 14", "text": "Helyi kulturális egyesület és rendezvényhelyszín Olhãóban.", "category": "cultural", "coords": [-7.839935, 37.026795]}, {"name": "Câmara Municipal de Olhão", "text": "Olhão község városházájának épülete.", "category": "historical", "coords": [-7.841736, 37.024887]}, {"name": "Moinho Novo do Marim", "text": "Történelmi árapálymalom a Ria Formosa natúrparkban.", "category": "landmark", "coords": [-7.815264, 37.030353]}, {"name": "Torre de Marim", "text": "Egy történelmi őrtorony Marim környékén.", "category": "landmark", "coords": [-7.812077, 37.038969]}, {"name": "Ria Formosa", "text": "Olhão jól ismert vize, amelyet természetes szépségéért kedvelnek.", "category": "natural", "coords": [-7.783467, 37.062263]}, {"name": "Parque infantil dos Pinheiros de Marim", "text": "Szép játszótér Olhão városában, amely biztonságos teret nyújt a gyerekeknek a játékhoz.", "category": "family", "coords": [-7.81904, 37.038112]}, {"name": "Jardim Pescadora Olhanense", "text": "Ez az olhãoi játszótér egy kertben található, és ideális családok számára.", "category": "family", "coords": [-7.842901, 37.023437]}], "ro": [{"name": "Quinta de Marim 1", "text": "Rămășițele unei vile romane cu mozaicuri lângă Olhão.", "category": "historical", "coords": [-7.812196, 37.033511]}, {"name": "Villa romana da Quinta de Marim", "text": "Un sit arheologic al unei vile romane în Olhão.", "category": "historical", "coords": [-7.813882, 37.04081]}, {"name": "Ponte de Marim", "text": "Un pod antic, parte a moștenirii romane din Marim.", "category": "historical", "coords": [-7.811054, 37.043529]}, {"name": "Museu Municipal de Olhão", "text": "Un muzeu dedicat istoriei și culturii orașului Olhão.", "category": "museum", "coords": [-7.841026, 37.025981]}, {"name": "Auditório Municipal de Olhão", "text": "Auditoriul municipal din Olhão pentru evenimente culturale.", "category": "cultural", "coords": [-7.837141, 37.02729]}, {"name": "Salinas do Coquenão", "text": "Un sit arheologic istoric al fostelor saline din Olhão.", "category": "historical", "coords": [-7.824695, 37.029286]}, {"name": "Praia da Armona-Mar", "text": "Situată pe insula însorită Armona din Olhão, această plajă cu nisip fin privește direct către vastul Ocean Atlantic. Atmosfera insulară atrage vizitatorii care doresc să facă plajă sau să înoate în ocean, departe de continent. Nu uitați să aduceți suficientă protecție solară pentru a vă bucura din plin de ziua la plajă.", "category": "recreational", "coords": [-7.7922, 37.018157]}, {"name": "Praia da Armona-Ria", "text": "Oferind o priveliște de vis asupra Ria Formosa, această plajă de pe insula Armona oferă un cadru magnific în Olhão. Apele mai calme de pe această parte a insulei o fac un punct de întâlnire relaxat pentru familii și plimbăreți. O călătorie cu feribotul dis-de-dimineață este deosebit de plăcută.", "category": "recreational", "coords": [-7.804726, 37.02345]}, {"name": "Casa João Lúcio", "text": "O vilă distinctivă și muzeu în Parcul Natural Ria Formosa.", "category": "museum", "coords": [-7.817066, 37.035992]}, {"name": "Ponte Velha de Quelfes", "text": "Un pod vechi în Quelfes, de origine romană.", "category": "historical", "coords": [-7.829932, 37.055074]}, {"name": "Barco Bom Sucesso", "text": "O replică a navei care a navigat de la Olhão în Brazilia în 1808.", "category": "landmark", "coords": [-7.840967, 37.023131]}, {"name": "Sabino Boat Tours", "text": "Un furnizor de tururi cu barca în apele din Olhão.", "category": "landmark", "coords": [-7.837497, 37.023707]}, {"name": "Atelier ZEA", "text": "Atelier ZEA este un centru cultural dinamic pentru arta contemporană și creativitate situat în Olhao, Portugalia. Oaspeții care vizitează acest hub artistic se pot aștepta să descopere expresii moderne și lucrări de artă locale.", "category": "cultural", "coords": [-7.83884, 37.024574]}, {"name": "Associação Cultural Re-Criativa República 14", "text": "O asociație culturală locală și loc de desfășurare în Olhão.", "category": "cultural", "coords": [-7.839935, 37.026795]}, {"name": "Câmara Municipal de Olhão", "text": "Clădirea primăriei municipiului Olhão.", "category": "historical", "coords": [-7.841736, 37.024887]}, {"name": "Moinho Novo do Marim", "text": "O moară de maree istorică în Parcul Natural Ria Formosa.", "category": "landmark", "coords": [-7.815264, 37.030353]}, {"name": "Torre de Marim", "text": "Un turn de veghe istoric în zona Marim.", "category": "landmark", "coords": [-7.812077, 37.038969]}, {"name": "Ria Formosa", "text": "O zonă acvatică cunoscută în Olhão, apreciată pentru frumusețea sa naturală.", "category": "natural", "coords": [-7.783467, 37.062263]}, {"name": "Parque infantil dos Pinheiros de Marim", "text": "Un loc de joacă frumos în Olhão, care oferă copiilor un spațiu sigur pentru joacă.", "category": "family", "coords": [-7.81904, 37.038112]}, {"name": "Jardim Pescadora Olhanense", "text": "Acest loc de joacă din Olhão este situat într-o grădină și este ideal pentru familii.", "category": "family", "coords": [-7.842901, 37.023437]}], "en": [{"name": "Quinta de Marim 1", "text": "Remains of a Roman villa with mosaics near Olhão.", "category": "historical", "coords": [-7.812196, 37.033511]}, {"name": "Villa romana da Quinta de Marim", "text": "An archaeological site of a Roman villa in Olhão.", "category": "historical", "coords": [-7.813882, 37.04081]}, {"name": "Ponte de Marim", "text": "An ancient bridge, part of the Roman heritage of Marim.", "category": "historical", "coords": [-7.811054, 37.043529]}, {"name": "Museu Municipal de Olhão", "text": "A museum dedicated to the history and culture of Olhão.", "category": "museum", "coords": [-7.841026, 37.025981]}, {"name": "Auditório Municipal de Olhão", "text": "The municipal auditorium of Olhão for cultural events.", "category": "cultural", "coords": [-7.837141, 37.02729]}, {"name": "Salinas do Coquenão", "text": "A historical archaeological site of former salt pans in Olhão.", "category": "historical", "coords": [-7.824695, 37.029286]}, {"name": "Praia da Armona-Mar", "text": "Located on the sun-drenched island of Armona in Olhão, this soft sandy beach looks out directly over the vast Atlantic. The island flair attracts visitors who want to sunbathe extensively or swim in the ocean, far from the mainland. Remember to bring plenty of sun protection to fully enjoy your beach day.", "category": "recreational", "coords": [-7.7922, 37.018157]}, {"name": "Praia da Armona-Ria", "text": "Offering a dreamlike view of the Ria Formosa, this beach on Armona Island provides a magnificent backdrop in Olhão. The calmer waters on this side of the island make it a relaxed meeting point for families and walkers. Taking the ferry early in the day makes for a particularly enjoyable trip.", "category": "recreational", "coords": [-7.804726, 37.02345]}, {"name": "Casa João Lúcio", "text": "A distinctive chalet and museum in the Ria Formosa Natural Park.", "category": "museum", "coords": [-7.817066, 37.035992]}, {"name": "Ponte Velha de Quelfes", "text": "An old bridge in Quelfes with Roman origins.", "category": "historical", "coords": [-7.829932, 37.055074]}, {"name": "Barco Bom Sucesso", "text": "A replica of the boat that sailed from Olhão to Brazil in 1808.", "category": "landmark", "coords": [-7.840967, 37.023131]}, {"name": "Sabino Boat Tours", "text": "A provider of boat tours in the waters of Olhão.", "category": "landmark", "coords": [-7.837497, 37.023707]}, {"name": "Atelier ZEA", "text": "Atelier ZEA is a dynamic cultural center for contemporary art and creativity based in Olhao, Portugal. Guests visiting this artistic hub can look forward to experiencing modern expressions and local artistic works.", "category": "cultural", "coords": [-7.83884, 37.024574]}, {"name": "Associação Cultural Re-Criativa República 14", "text": "A local cultural association and venue in Olhão.", "category": "cultural", "coords": [-7.839935, 37.026795]}, {"name": "Câmara Municipal de Olhão", "text": "The town hall building of the Olhão municipality.", "category": "historical", "coords": [-7.841736, 37.024887]}, {"name": "Moinho Novo do Marim", "text": "A historical tide mill in the Ria Formosa Natural Park.", "category": "landmark", "coords": [-7.815264, 37.030353]}, {"name": "Torre de Marim", "text": "A historical watchtower in the Marim area.", "category": "landmark", "coords": [-7.812077, 37.038969]}, {"name": "Ria Formosa", "text": "A well-known body of water in Olhão, valued for its natural beauty.", "category": "natural", "coords": [-7.783467, 37.062263]}, {"name": "Parque infantil dos Pinheiros de Marim", "text": "A lovely playground in Olhão providing a safe space for children to play.", "category": "family", "coords": [-7.81904, 37.038112]}, {"name": "Jardim Pescadora Olhanense", "text": "This playground in Olhão is located within a garden area and is ideal for families.", "category": "family", "coords": [-7.842901, 37.023437]}]},
+    id: "portugal-olhao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quinta de Marim 1",
+                  "text": "Überreste einer römischen Villa mit Mosaiken in der Nähe von Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.812196,
+                        37.033511
+                  ]
+            },
+            {
+                  "name": "Villa romana da Quinta de Marim",
+                  "text": "Eine archäologische Ausgrabungsstätte einer römischen Villa in Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.813882,
+                        37.04081
+                  ]
+            },
+            {
+                  "name": "Ponte de Marim",
+                  "text": "Eine antike Brücke, die Teil des römischen Erbes von Marim ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.811054,
+                        37.043529
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Olhão",
+                  "text": "Ein Museum, das der Geschichte und Kultur von Olhão gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.841026,
+                        37.025981
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Olhão",
+                  "text": "Das städtische Auditorium von Olhão für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.837141,
+                        37.02729
+                  ]
+            },
+            {
+                  "name": "Salinas do Coquenão",
+                  "text": "Eine historische archäologische Stätte ehemaliger Salinen in Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.824695,
+                        37.029286
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Mar",
+                  "text": "Auf der sonnenverwöhnten Insel Armona gelegen, blickt dieser weiche Sandstrand in Olhão direkt auf die Weiten des Atlantiks. Das Inselflair zieht Besucher an, die fernab des Festlandes ausgiebig sonnenbaden oder im Meer schwimmen möchten. Denken Sie an ausreichend Sonnenschutz, um den Tag am Strand vollends auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.7922,
+                        37.018157
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Ria",
+                  "text": "Mit einem traumhaften Ausblick auf die Ria Formosa bietet dieser Strand auf der Insel Armona eine herrliche Kulisse in Olhão. Das ruhigere Wasser auf dieser Seite der Insel macht den Ort zu einem entspannten Treffpunkt für Familien und Spaziergänger. Eine Fahrt mit der Fähre lohnt sich besonders früh am Tag.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.804726,
+                        37.02345
+                  ]
+            },
+            {
+                  "name": "Casa João Lúcio",
+                  "text": "Ein markantes Chalet und Museum im Naturpark Ria Formosa.",
+                  "category": "museum",
+                  "coords": [
+                        -7.817066,
+                        37.035992
+                  ]
+            },
+            {
+                  "name": "Ponte Velha de Quelfes",
+                  "text": "Eine alte Brücke in Quelfes mit römischen Ursprüngen.",
+                  "category": "historical",
+                  "coords": [
+                        -7.829932,
+                        37.055074
+                  ]
+            },
+            {
+                  "name": "Barco Bom Sucesso",
+                  "text": "Eine Nachbildung des Bootes, das 1808 von Olhão nach Brasilien segelte.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.840967,
+                        37.023131
+                  ]
+            },
+            {
+                  "name": "Sabino Boat Tours",
+                  "text": "Ein Anbieter für Bootstouren in den Gewässern von Olhão.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.837497,
+                        37.023707
+                  ]
+            },
+            {
+                  "name": "Atelier ZEA",
+                  "text": "Das Atelier ZEA ist ein dynamisches Kulturzentrum für zeitgenössische Kunst und Kreativität in Olhão, Portugal. Gäste, die dieses künstlerische Zentrum besuchen, können sich auf moderne Ausdrucksformen und lokale Kunstwerke freuen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.83884,
+                        37.024574
+                  ]
+            },
+            {
+                  "name": "Associação Cultural Re-Criativa República 14",
+                  "text": "Ein lokaler Kulturverein und Veranstaltungsort in Olhão.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.839935,
+                        37.026795
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Olhão",
+                  "text": "Das Rathausgebäude der Gemeinde Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.841736,
+                        37.024887
+                  ]
+            },
+            {
+                  "name": "Moinho Novo do Marim",
+                  "text": "Eine historische Gezeitenmühle im Naturpark Ria Formosa.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.815264,
+                        37.030353
+                  ]
+            },
+            {
+                  "name": "Torre de Marim",
+                  "text": "Ein historischer Wachturm in der Gegend von Marim.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.812077,
+                        37.038969
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "Ein bekanntes Gewässer in Olhão, das für seine natürliche Schönheit geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
+            },
+            {
+                  "name": "Parque infantil dos Pinheiros de Marim",
+                  "text": "Ein schöner Spielplatz in Olhão, der Kindern sicheren Raum zum Spielen bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.81904,
+                        37.038112
+                  ]
+            },
+            {
+                  "name": "Jardim Pescadora Olhanense",
+                  "text": "Dieser Spielplatz in Olhão liegt in einer Gartenanlage und ist ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        -7.842901,
+                        37.023437
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Städtische Schwimmbäder in Olhão, die der Gemeinde Platz für Wassersport bieten.",
+                  "category": "family",
+                  "coords": [
+                        -7.850433,
+                        37.028894
+                  ]
+            },
+            {
+                  "name": "Mar Moto",
+                  "text": "Öffentliche Badeanstalt in Olhão, die einen traditionellen Raum zur Entspannung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -7.867359,
+                        37.023408
+                  ]
+            },
+            {
+                  "name": "LEA Armona",
+                  "text": "Strandresort in Olhão mit Einrichtungen für einen angenehmen Aufenthalt am Meer.",
+                  "category": "family",
+                  "coords": [
+                        -7.795883,
+                        37.018107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quinta de Marim 1",
+                  "text": "Római villa maradványai mozaikokkal Olhão közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.812196,
+                        37.033511
+                  ]
+            },
+            {
+                  "name": "Villa romana da Quinta de Marim",
+                  "text": "Egy római villa régészeti lelőhelye Olhãóban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.813882,
+                        37.04081
+                  ]
+            },
+            {
+                  "name": "Ponte de Marim",
+                  "text": "Egy ősi híd, amely a marimi római örökség része.",
+                  "category": "historical",
+                  "coords": [
+                        -7.811054,
+                        37.043529
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Olhão",
+                  "text": "Olhão történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -7.841026,
+                        37.025981
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Olhão",
+                  "text": "Olhão városi auditóriuma kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.837141,
+                        37.02729
+                  ]
+            },
+            {
+                  "name": "Salinas do Coquenão",
+                  "text": "Eykori sólepárlók történelmi régészeti lelőhelye Olhãóban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.824695,
+                        37.029286
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Mar",
+                  "text": "Az Olhão-hoz tartozó, napsütötte Armona szigetén fekvő finom homokos strand közvetlenül a végtelen Atlanti-óceánra néz. A szigeti hangulat vonzza azokat a látogatókat, akik a szárazföldtől távol szeretnének napozni vagy a tengerben úszni. A tökéletes tengerparti naphoz ne felejtsen el bőséges napvédőt hozni.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.7922,
+                        37.018157
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Ria",
+                  "text": "A Ria Formosa-ra nyíló álomszép kilátással ez az Armona szigeti strand csodálatos kulisszát kínál Olhão-ban. A sziget ezen oldalán található nyugodtabb vizek laza találkozóhellyé teszik a családok és a sétálni vágyók számára. A korai kompozás különösen kellemessé teszi az utazást.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.804726,
+                        37.02345
+                  ]
+            },
+            {
+                  "name": "Casa João Lúcio",
+                  "text": "Egy jellegzetes villa és múzeum a Ria Formosa natúrparkban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.817066,
+                        37.035992
+                  ]
+            },
+            {
+                  "name": "Ponte Velha de Quelfes",
+                  "text": "Egy régi híd Quelfesben, római eredettel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.829932,
+                        37.055074
+                  ]
+            },
+            {
+                  "name": "Barco Bom Sucesso",
+                  "text": "Az 1808-ban Brazíliába vitorlázó hajó másolata Olhãóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.840967,
+                        37.023131
+                  ]
+            },
+            {
+                  "name": "Sabino Boat Tours",
+                  "text": "Hajókirándulásokat kínáló szolgáltató Olhão vizein.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.837497,
+                        37.023707
+                  ]
+            },
+            {
+                  "name": "Atelier ZEA",
+                  "text": "Az Atelier ZEA egy dinamikus kulturális központ a kortárs művészet és a kreativitás számára a portugáliai Olhaóban. Az ebbe a művészeti csomópontba látogató vendégek modern kifejezésmódokat és helyi alkotásokat ismerhetnek meg.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.83884,
+                        37.024574
+                  ]
+            },
+            {
+                  "name": "Associação Cultural Re-Criativa República 14",
+                  "text": "Helyi kulturális egyesület és rendezvényhelyszín Olhãóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.839935,
+                        37.026795
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Olhão",
+                  "text": "Olhão község városházájának épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -7.841736,
+                        37.024887
+                  ]
+            },
+            {
+                  "name": "Moinho Novo do Marim",
+                  "text": "Történelmi árapálymalom a Ria Formosa natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.815264,
+                        37.030353
+                  ]
+            },
+            {
+                  "name": "Torre de Marim",
+                  "text": "Egy történelmi őrtorony Marim környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.812077,
+                        37.038969
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "Olhão jól ismert vize, amelyet természetes szépségéért kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
+            },
+            {
+                  "name": "Parque infantil dos Pinheiros de Marim",
+                  "text": "Szép játszótér Olhão városában, amely biztonságos teret nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.81904,
+                        37.038112
+                  ]
+            },
+            {
+                  "name": "Jardim Pescadora Olhanense",
+                  "text": "Ez az olhãoi játszótér egy kertben található, és ideális családok számára.",
+                  "category": "family",
+                  "coords": [
+                        -7.842901,
+                        37.023437
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Városi úszómedencék Olhão területén, amelyek vízi sportolási lehetőséget biztosítanak a közösségnek.",
+                  "category": "family",
+                  "coords": [
+                        -7.850433,
+                        37.028894
+                  ]
+            },
+            {
+                  "name": "Mar Moto",
+                  "text": "Nyilvános fürdő Olhão területén, amely hagyományos helyet kínál a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        -7.867359,
+                        37.023408
+                  ]
+            },
+            {
+                  "name": "LEA Armona",
+                  "text": "Tengerparti üdülőhely Olhão területén, amely létesítményeket kínál a kellemes tengerparti időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        -7.795883,
+                        37.018107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quinta de Marim 1",
+                  "text": "Rămășițele unei vile romane cu mozaicuri lângă Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.812196,
+                        37.033511
+                  ]
+            },
+            {
+                  "name": "Villa romana da Quinta de Marim",
+                  "text": "Un sit arheologic al unei vile romane în Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.813882,
+                        37.04081
+                  ]
+            },
+            {
+                  "name": "Ponte de Marim",
+                  "text": "Un pod antic, parte a moștenirii romane din Marim.",
+                  "category": "historical",
+                  "coords": [
+                        -7.811054,
+                        37.043529
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Olhão",
+                  "text": "Un muzeu dedicat istoriei și culturii orașului Olhão.",
+                  "category": "museum",
+                  "coords": [
+                        -7.841026,
+                        37.025981
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Olhão",
+                  "text": "Auditoriul municipal din Olhão pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.837141,
+                        37.02729
+                  ]
+            },
+            {
+                  "name": "Salinas do Coquenão",
+                  "text": "Un sit arheologic istoric al fostelor saline din Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.824695,
+                        37.029286
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Mar",
+                  "text": "Situată pe insula însorită Armona din Olhão, această plajă cu nisip fin privește direct către vastul Ocean Atlantic. Atmosfera insulară atrage vizitatorii care doresc să facă plajă sau să înoate în ocean, departe de continent. Nu uitați să aduceți suficientă protecție solară pentru a vă bucura din plin de ziua la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.7922,
+                        37.018157
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Ria",
+                  "text": "Oferind o priveliște de vis asupra Ria Formosa, această plajă de pe insula Armona oferă un cadru magnific în Olhão. Apele mai calme de pe această parte a insulei o fac un punct de întâlnire relaxat pentru familii și plimbăreți. O călătorie cu feribotul dis-de-dimineață este deosebit de plăcută.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.804726,
+                        37.02345
+                  ]
+            },
+            {
+                  "name": "Casa João Lúcio",
+                  "text": "O vilă distinctivă și muzeu în Parcul Natural Ria Formosa.",
+                  "category": "museum",
+                  "coords": [
+                        -7.817066,
+                        37.035992
+                  ]
+            },
+            {
+                  "name": "Ponte Velha de Quelfes",
+                  "text": "Un pod vechi în Quelfes, de origine romană.",
+                  "category": "historical",
+                  "coords": [
+                        -7.829932,
+                        37.055074
+                  ]
+            },
+            {
+                  "name": "Barco Bom Sucesso",
+                  "text": "O replică a navei care a navigat de la Olhão în Brazilia în 1808.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.840967,
+                        37.023131
+                  ]
+            },
+            {
+                  "name": "Sabino Boat Tours",
+                  "text": "Un furnizor de tururi cu barca în apele din Olhão.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.837497,
+                        37.023707
+                  ]
+            },
+            {
+                  "name": "Atelier ZEA",
+                  "text": "Atelier ZEA este un centru cultural dinamic pentru arta contemporană și creativitate situat în Olhao, Portugalia. Oaspeții care vizitează acest hub artistic se pot aștepta să descopere expresii moderne și lucrări de artă locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.83884,
+                        37.024574
+                  ]
+            },
+            {
+                  "name": "Associação Cultural Re-Criativa República 14",
+                  "text": "O asociație culturală locală și loc de desfășurare în Olhão.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.839935,
+                        37.026795
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Olhão",
+                  "text": "Clădirea primăriei municipiului Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.841736,
+                        37.024887
+                  ]
+            },
+            {
+                  "name": "Moinho Novo do Marim",
+                  "text": "O moară de maree istorică în Parcul Natural Ria Formosa.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.815264,
+                        37.030353
+                  ]
+            },
+            {
+                  "name": "Torre de Marim",
+                  "text": "Un turn de veghe istoric în zona Marim.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.812077,
+                        37.038969
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "O zonă acvatică cunoscută în Olhão, apreciată pentru frumusețea sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
+            },
+            {
+                  "name": "Parque infantil dos Pinheiros de Marim",
+                  "text": "Un loc de joacă frumos în Olhão, care oferă copiilor un spațiu sigur pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        -7.81904,
+                        37.038112
+                  ]
+            },
+            {
+                  "name": "Jardim Pescadora Olhanense",
+                  "text": "Acest loc de joacă din Olhão este situat într-o grădină și este ideal pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        -7.842901,
+                        37.023437
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Piscine municipale în Olhão, oferind comunității spațiu pentru sporturi nautice.",
+                  "category": "family",
+                  "coords": [
+                        -7.850433,
+                        37.028894
+                  ]
+            },
+            {
+                  "name": "Mar Moto",
+                  "text": "Instalație publică de scăldat în Olhão, oferind un spațiu tradițional pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        -7.867359,
+                        37.023408
+                  ]
+            },
+            {
+                  "name": "LEA Armona",
+                  "text": "Stațiune de plajă în Olhão, oferind facilități pentru un sejur plăcut la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        -7.795883,
+                        37.018107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quinta de Marim 1",
+                  "text": "Remains of a Roman villa with mosaics near Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.812196,
+                        37.033511
+                  ]
+            },
+            {
+                  "name": "Villa romana da Quinta de Marim",
+                  "text": "An archaeological site of a Roman villa in Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.813882,
+                        37.04081
+                  ]
+            },
+            {
+                  "name": "Ponte de Marim",
+                  "text": "An ancient bridge, part of the Roman heritage of Marim.",
+                  "category": "historical",
+                  "coords": [
+                        -7.811054,
+                        37.043529
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Olhão",
+                  "text": "A museum dedicated to the history and culture of Olhão.",
+                  "category": "museum",
+                  "coords": [
+                        -7.841026,
+                        37.025981
+                  ]
+            },
+            {
+                  "name": "Auditório Municipal de Olhão",
+                  "text": "The municipal auditorium of Olhão for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.837141,
+                        37.02729
+                  ]
+            },
+            {
+                  "name": "Salinas do Coquenão",
+                  "text": "A historical archaeological site of former salt pans in Olhão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.824695,
+                        37.029286
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Mar",
+                  "text": "Located on the sun-drenched island of Armona in Olhão, this soft sandy beach looks out directly over the vast Atlantic. The island flair attracts visitors who want to sunbathe extensively or swim in the ocean, far from the mainland. Remember to bring plenty of sun protection to fully enjoy your beach day.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.7922,
+                        37.018157
+                  ]
+            },
+            {
+                  "name": "Praia da Armona-Ria",
+                  "text": "Offering a dreamlike view of the Ria Formosa, this beach on Armona Island provides a magnificent backdrop in Olhão. The calmer waters on this side of the island make it a relaxed meeting point for families and walkers. Taking the ferry early in the day makes for a particularly enjoyable trip.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.804726,
+                        37.02345
+                  ]
+            },
+            {
+                  "name": "Casa João Lúcio",
+                  "text": "A distinctive chalet and museum in the Ria Formosa Natural Park.",
+                  "category": "museum",
+                  "coords": [
+                        -7.817066,
+                        37.035992
+                  ]
+            },
+            {
+                  "name": "Ponte Velha de Quelfes",
+                  "text": "An old bridge in Quelfes with Roman origins.",
+                  "category": "historical",
+                  "coords": [
+                        -7.829932,
+                        37.055074
+                  ]
+            },
+            {
+                  "name": "Barco Bom Sucesso",
+                  "text": "A replica of the boat that sailed from Olhão to Brazil in 1808.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.840967,
+                        37.023131
+                  ]
+            },
+            {
+                  "name": "Sabino Boat Tours",
+                  "text": "A provider of boat tours in the waters of Olhão.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.837497,
+                        37.023707
+                  ]
+            },
+            {
+                  "name": "Atelier ZEA",
+                  "text": "Atelier ZEA is a dynamic cultural center for contemporary art and creativity based in Olhao, Portugal. Guests visiting this artistic hub can look forward to experiencing modern expressions and local artistic works.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.83884,
+                        37.024574
+                  ]
+            },
+            {
+                  "name": "Associação Cultural Re-Criativa República 14",
+                  "text": "A local cultural association and venue in Olhão.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.839935,
+                        37.026795
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Olhão",
+                  "text": "The town hall building of the Olhão municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -7.841736,
+                        37.024887
+                  ]
+            },
+            {
+                  "name": "Moinho Novo do Marim",
+                  "text": "A historical tide mill in the Ria Formosa Natural Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.815264,
+                        37.030353
+                  ]
+            },
+            {
+                  "name": "Torre de Marim",
+                  "text": "A historical watchtower in the Marim area.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.812077,
+                        37.038969
+                  ]
+            },
+            {
+                  "name": "Ria Formosa",
+                  "text": "A well-known body of water in Olhão, valued for its natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        -7.783467,
+                        37.062263
+                  ]
+            },
+            {
+                  "name": "Parque infantil dos Pinheiros de Marim",
+                  "text": "A lovely playground in Olhão providing a safe space for children to play.",
+                  "category": "family",
+                  "coords": [
+                        -7.81904,
+                        37.038112
+                  ]
+            },
+            {
+                  "name": "Jardim Pescadora Olhanense",
+                  "text": "This playground in Olhão is located within a garden area and is ideal for families.",
+                  "category": "family",
+                  "coords": [
+                        -7.842901,
+                        37.023437
+                  ]
+            },
+            {
+                  "name": "Piscinas Municipais",
+                  "text": "Municipal swimming pools in Olhão providing space for water sports for the community.",
+                  "category": "family",
+                  "coords": [
+                        -7.850433,
+                        37.028894
+                  ]
+            },
+            {
+                  "name": "Mar Moto",
+                  "text": "Public bathing facility in Olhão offering a traditional space for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        -7.867359,
+                        37.023408
+                  ]
+            },
+            {
+                  "name": "LEA Armona",
+                  "text": "Beach resort in Olhão providing facilities for a pleasant seaside stay.",
+                  "category": "family",
+                  "coords": [
+                        -7.795883,
+                        37.018107
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Olhão", hu: "Olhao", ro: "Olhao", en: "Olhão" },

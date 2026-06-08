@@ -745,6 +745,60 @@ export const swedenRegions: POI[] = [
                         18.045576,
                         59.324361
                   ]
+            },
+            {
+                  "name": "L&L Natural wellness",
+                  "text": "Eine entspannende Wellness- und Spa-Einrichtung in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.090859,
+                        59.303595
+                  ]
+            },
+            {
+                  "name": "Vattenhuset",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.045804,
+                        59.349843
+                  ]
+            },
+            {
+                  "name": "Motalaparkens plaskdamm",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.093555,
+                        59.353385
+                  ]
+            },
+            {
+                  "name": "Gröna Lund",
+                  "text": "Ein tolles Ziel für Familienspaß und Unterhaltung in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.096407,
+                        59.323308
+                  ]
+            },
+            {
+                  "name": "Tessinparkens plaskdamm",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.095925,
+                        59.343755
+                  ]
+            },
+            {
+                  "name": "Eriksdalsbadet",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.072063,
+                        59.304763
+                  ]
             }
       ],
       "hu": [
@@ -1448,6 +1502,60 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.045576,
                         59.324361
+                  ]
+            },
+            {
+                  "name": "L&L Natural wellness",
+                  "text": "Pihentető wellness- és gyógyfürdő szolgáltatás Stockholm városában.",
+                  "category": "family",
+                  "coords": [
+                        18.090859,
+                        59.303595
+                  ]
+            },
+            {
+                  "name": "Vattenhuset",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Stockholm városában.",
+                  "category": "family",
+                  "coords": [
+                        18.045804,
+                        59.349843
+                  ]
+            },
+            {
+                  "name": "Motalaparkens plaskdamm",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Stockholm városában.",
+                  "category": "family",
+                  "coords": [
+                        18.093555,
+                        59.353385
+                  ]
+            },
+            {
+                  "name": "Gröna Lund",
+                  "text": "Nagyszerű úti cél a családi szórakozáshoz és kikapcsolódáshoz Stockholm területén.",
+                  "category": "family",
+                  "coords": [
+                        18.096407,
+                        59.323308
+                  ]
+            },
+            {
+                  "name": "Tessinparkens plaskdamm",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Stockholm városában.",
+                  "category": "family",
+                  "coords": [
+                        18.095925,
+                        59.343755
+                  ]
+            },
+            {
+                  "name": "Eriksdalsbadet",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Stockholm városában.",
+                  "category": "family",
+                  "coords": [
+                        18.072063,
+                        59.304763
                   ]
             }
       ],
@@ -2153,6 +2261,60 @@ export const swedenRegions: POI[] = [
                         18.045576,
                         59.324361
                   ]
+            },
+            {
+                  "name": "L&L Natural wellness",
+                  "text": "O facilitate relaxantă de wellness și spa situată în Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.090859,
+                        59.303595
+                  ]
+            },
+            {
+                  "name": "Vattenhuset",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.045804,
+                        59.349843
+                  ]
+            },
+            {
+                  "name": "Motalaparkens plaskdamm",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.093555,
+                        59.353385
+                  ]
+            },
+            {
+                  "name": "Gröna Lund",
+                  "text": "O destinație excelentă pentru distracție în familie și divertisment în Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.096407,
+                        59.323308
+                  ]
+            },
+            {
+                  "name": "Tessinparkens plaskdamm",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.095925,
+                        59.343755
+                  ]
+            },
+            {
+                  "name": "Eriksdalsbadet",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.072063,
+                        59.304763
+                  ]
             }
       ],
       "en": [
@@ -2857,6 +3019,60 @@ export const swedenRegions: POI[] = [
                         18.045576,
                         59.324361
                   ]
+            },
+            {
+                  "name": "L&L Natural wellness",
+                  "text": "A relaxing wellness and spa facility located in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.090859,
+                        59.303595
+                  ]
+            },
+            {
+                  "name": "Vattenhuset",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.045804,
+                        59.349843
+                  ]
+            },
+            {
+                  "name": "Motalaparkens plaskdamm",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.093555,
+                        59.353385
+                  ]
+            },
+            {
+                  "name": "Gröna Lund",
+                  "text": "A great destination for family fun and entertainment in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.096407,
+                        59.323308
+                  ]
+            },
+            {
+                  "name": "Tessinparkens plaskdamm",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.095925,
+                        59.343755
+                  ]
+            },
+            {
+                  "name": "Eriksdalsbadet",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Stockholm.",
+                  "category": "family",
+                  "coords": [
+                        18.072063,
+                        59.304763
+                  ]
             }
       ]
 },
@@ -3398,6 +3614,42 @@ export const swedenRegions: POI[] = [
                         11.990553,
                         57.696501
                   ]
+            },
+            {
+                  "name": "Hagabadet",
+                  "text": "Ein historisches öffentliches Bad in Göteborg mit verschiedenen Becken und Wellness-Einrichtungen.",
+                  "category": "family",
+                  "coords": [
+                        11.956294,
+                        57.699556
+                  ]
+            },
+            {
+                  "name": "Hagabadet Älvstranden",
+                  "text": "Eine Spa- und Wellness-Einrichtung in Göteborg, die Behandlungen und Entspannung am Ufer bietet.",
+                  "category": "family",
+                  "coords": [
+                        11.927058,
+                        57.709154
+                  ]
+            },
+            {
+                  "name": "Djurgårdarna",
+                  "text": "Eine familienfreundliche Tierattraktion in Göteborg, bei der Besucher verschiedene Arten beobachten können.",
+                  "category": "family",
+                  "coords": [
+                        11.940153,
+                        57.686486
+                  ]
+            },
+            {
+                  "name": "Fågelhuset",
+                  "text": "Ein spezialisiertes Vogelhaus in Göteborg mit einer Vielzahl von Vogelarten, die Besucher sehen können.",
+                  "category": "family",
+                  "coords": [
+                        11.936392,
+                        57.684844
+                  ]
             }
       ],
       "hu": [
@@ -3876,6 +4128,42 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         11.990553,
                         57.696501
+                  ]
+            },
+            {
+                  "name": "Hagabadet",
+                  "text": "Göteborgi történelmi nyilvános fürdő különféle medencékkel és wellness-szolgáltatásokkal.",
+                  "category": "family",
+                  "coords": [
+                        11.956294,
+                        57.699556
+                  ]
+            },
+            {
+                  "name": "Hagabadet Älvstranden",
+                  "text": "Göteborgi spa és wellness létesítmény, amely kezeléseket és pihenést kínál a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        11.927058,
+                        57.709154
+                  ]
+            },
+            {
+                  "name": "Djurgårdarna",
+                  "text": "Családbarát állatos látványosság Göteborgban, ahol a látogatók különféle fajokat figyelhetnek meg.",
+                  "category": "family",
+                  "coords": [
+                        11.940153,
+                        57.686486
+                  ]
+            },
+            {
+                  "name": "Fågelhuset",
+                  "text": "Göteborgi speciális madárház, ahol különféle madárfajokat láthatnak a látogatók.",
+                  "category": "family",
+                  "coords": [
+                        11.936392,
+                        57.684844
                   ]
             }
       ],
@@ -4356,6 +4644,42 @@ export const swedenRegions: POI[] = [
                         11.990553,
                         57.696501
                   ]
+            },
+            {
+                  "name": "Hagabadet",
+                  "text": "O baie publică istorică în Göteborg, care oferă diverse piscine și facilități de wellness.",
+                  "category": "family",
+                  "coords": [
+                        11.956294,
+                        57.699556
+                  ]
+            },
+            {
+                  "name": "Hagabadet Älvstranden",
+                  "text": "O facilitate de spa și wellness în Göteborg, care oferă tratamente și relaxare pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        11.927058,
+                        57.709154
+                  ]
+            },
+            {
+                  "name": "Djurgårdarna",
+                  "text": "O atracție cu animale pentru familii în Göteborg, unde vizitatorii pot observa diverse specii.",
+                  "category": "family",
+                  "coords": [
+                        11.940153,
+                        57.686486
+                  ]
+            },
+            {
+                  "name": "Fågelhuset",
+                  "text": "O casă specializată pentru păsări în Göteborg, care prezintă o varietate de specii aviare pentru vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        11.936392,
+                        57.684844
+                  ]
             }
       ],
       "en": [
@@ -4835,6 +5159,42 @@ export const swedenRegions: POI[] = [
                         11.990553,
                         57.696501
                   ]
+            },
+            {
+                  "name": "Hagabadet",
+                  "text": "A historic public bath in Gothenburg offering various pools and wellness facilities.",
+                  "category": "family",
+                  "coords": [
+                        11.956294,
+                        57.699556
+                  ]
+            },
+            {
+                  "name": "Hagabadet Älvstranden",
+                  "text": "A spa and wellness facility in Gothenburg providing treatments and relaxation by the waterfront.",
+                  "category": "family",
+                  "coords": [
+                        11.927058,
+                        57.709154
+                  ]
+            },
+            {
+                  "name": "Djurgårdarna",
+                  "text": "A family-friendly animal attraction in Gothenburg where visitors can observe various species.",
+                  "category": "family",
+                  "coords": [
+                        11.940153,
+                        57.686486
+                  ]
+            },
+            {
+                  "name": "Fågelhuset",
+                  "text": "A specialized bird house in Gothenburg featuring a variety of avian species for visitors to see.",
+                  "category": "family",
+                  "coords": [
+                        11.936392,
+                        57.684844
+                  ]
             }
       ]
 },
@@ -4901,7 +5261,2860 @@ export const swedenRegions: POI[] = [
     image: "/geo-images/sweden/gothenburg.webp",
   },
   {
-    id: "city-malmo", "sights": {"de": [{"name": "Oscar Olsson-museet", "text": "Ein Museum in Malmö, das der Volkshochschulbewegung gewidmet ist.", "category": "museum", "coords": [13.010343, 55.582754]}, {"name": "Teknikens och sjöfartens hus", "text": "Ein Technik- und Seefahrtsmuseum in Malmö.", "category": "museum", "coords": [12.982778, 55.604833]}, {"name": "Länsresidenset Malmö", "text": "Ein historisches Residenzgebäude in Malmö.", "category": "castle", "coords": [13.001007, 55.60692]}, {"name": "Ebbas hus", "text": "Ein kleines Museum, das das Leben in einem historischen Stadthaus zeigt.", "category": "museum", "coords": [13.005777, 55.605371]}, {"name": "Människan och Pegasus", "text": "Ein bekanntes Denkmal des Bildhauers Carl Milles in Malmö.", "category": "historical", "coords": [12.987098, 55.601106]}, {"name": "Malmö Live Konserthus", "text": "Ein moderner Konzert- und Veranstaltungskomplex in Malmö.", "category": "cultural", "coords": [12.993645, 55.607352]}, {"name": "Malmö Opera", "text": "Das Opernhaus von Malmö, bekannt für seine moderne Architektur.", "category": "cultural", "coords": [12.995702, 55.596122]}, {"name": "Malmö konsthall", "text": "Einer der größten Ausstellungsorte für zeitgenössische Kunst in Europa.", "category": "cultural", "coords": [12.99924, 55.59527]}, {"name": "Sankt Petri kyrka", "text": "Die älteste Kirche in Malmö, erbaut im Backsteingotik-Stil.", "category": "religious", "coords": [13.003318, 55.606936]}, {"name": "Sankt Johannes kyrka", "text": "Eine markante Jugendstilkirche in Malmö.", "category": "religious", "coords": [13.00175, 55.594199]}, {"name": "Malmö synagoga", "text": "Ein architektonisch bedeutendes jüdisches Gotteshaus in Malmö.", "category": "religious", "coords": [13.010823, 55.599534]}, {"name": "Heliga Trefaldighetskyrkan", "text": "Eine moderne christliche Kirche im Stadtteil Erikslust.", "category": "religious", "coords": [13.005633, 55.578094]}, {"name": "Sankta Maria kyrka", "text": "Eine lutherische Kirche im Stadtteil Rosengård.", "category": "religious", "coords": [13.01216, 55.588475]}, {"name": "Sankt Matteus kyrka", "text": "Ein religiöses Gebäude und eine Kirchengemeinde in Malmö.", "category": "religious", "coords": [13.021336, 55.589021]}, {"name": "Fiskehoddorna", "text": "Traditionelle Fischerhütten, die heute als Fischmarkt dienen.", "category": "landmark", "coords": [12.983794, 55.605212]}, {"name": "Klaffbron", "text": "Eine historische Klappbrücke im Hafen von Malmö.", "category": "landmark", "coords": [12.993716, 55.612593]}, {"name": "Universitetsbron", "text": "Eine markante Brücke, die das Universitätsviertel verbindet.", "category": "landmark", "coords": [12.996274, 55.612316]}, {"name": "Pildammspark", "text": "Ein großer Stadtpark in Malmö mit Teichen und Waldgebieten.", "category": "park", "coords": [12.992064, 55.590623]}, {"name": "Rörsjöparken", "text": "Ein zentraler Park in Malmö, bekannt für seine Grünflächen.", "category": "park", "coords": [13.017778, 55.605077]}, {"name": "Schlosspark", "text": "Ein weitläufiger Park direkt neben der Burg Malmöhus.", "category": "park", "coords": [12.988699, 55.601464]}, {"name": "Gerlachs park", "text": "Eine öffentliche Grünanlage im Osten von Malmö.", "category": "park", "coords": [13.032087, 55.608594]}, {"name": "Garnisonsplanteringen", "text": "Ein kleiner Park mit historischem Hintergrund in Malmö.", "category": "park", "coords": [13.034062, 55.608401]}, {"name": "Simhallsbadet", "text": "Ein öffentliches Schwimmbad und Wasserpark in Malmö.", "category": "family", "coords": [12.992406, 55.599216]}, {"name": "Teatermuseet", "text": "Ein Museum, das der Geschichte des Theaters in Malmö gewidmet ist.", "category": "museum", "coords": [13.002747, 55.60594]}, {"name": "Victoriateatern", "text": "Ein historisches Kino und Theater im Zentrum von Malmö.", "category": "cultural", "coords": [13.00124, 55.599199]}, {"name": "Palladium", "text": "Ein bekannter Veranstaltungsort für Konzerte und Filme.", "category": "cultural", "coords": [13.001061, 55.6041]}, {"name": "Helgeandskyrkan", "text": "Ein christliches Gotteshaus in der Stadt Malmö.", "category": "religious", "coords": [12.986127, 55.596806]}, {"name": "Sankt Pauli kyrka", "text": "Eine markante rote Backsteinkirche in Malmö.", "category": "religious", "coords": [13.014382, 55.603017]}, {"name": "Sankt Andreas kyrka", "text": "Ein religiöses Gebäude und Gebetsort in Malmö.", "category": "religious", "coords": [12.971279, 55.599213]}, {"name": "Tyska kyrkan", "text": "Eine Kirche in Malmö, die historisch mit der deutschen Gemeinde verbunden ist.", "category": "religious", "coords": [12.963147, 55.596043]}, {"name": "Kirsebergs kyrka", "text": "Eine lokale Kirche im Stadtteil Kirseberg.", "category": "religious", "coords": [13.041322, 55.608853]}, {"name": "Immanuelskyrkan", "text": "Ein Gotteshaus der Immanuel-Gemeinde in Malmö.", "category": "religious", "coords": [12.986865, 55.593891]}, {"name": "Det Skandinaviska Wakf i Sverige", "text": "Ein islamisches Gemeindezentrum und Gebetsort in Malmö.", "category": "religious", "coords": [13.039684, 55.594263]}, {"name": "Malmö vågbrytarbank", "text": "Ein Leuchtturm, der die Hafeneinfahrt von Malmö markiert.", "category": "landmark", "coords": [12.976219, 55.624896]}, {"name": "Slottsmöllan", "text": "Eine historische Windmühle in der Nähe der Burg Malmöhus.", "category": "landmark", "coords": [12.986052, 55.603086]}, {"name": "Petribron", "text": "Eine Fußgängerbrücke in der Stadt Malmö.", "category": "landmark", "coords": [13.002026, 55.608479]}, {"name": "Älvsborgsbron", "text": "Eine Brückenkonstruktion in Malmö.", "category": "landmark", "coords": [12.996093, 55.607306]}, {"name": "Folkets park", "text": "Einer der ältesten Vergnügungsparks Schwedens.", "category": "park", "coords": [13.013807, 55.59348]}, {"name": "Jesusparken", "text": "Ein kleiner lokaler Park, informell als Jesusparken bekannt.", "category": "park", "coords": [13.015232, 55.590411]}, {"name": "Scaniaparken", "text": "Ein moderner Küstenpark mit Blick auf den Öresund.", "category": "park", "coords": [12.976788, 55.617678]}, {"name": "Cronheimsparken", "text": "Eine städtische Grünanlage in Malmö.", "category": "park", "coords": [13.045258, 55.590017]}, {"name": "Rönneholmsparken", "text": "Ein Park in einem Wohngebiet von Malmö.", "category": "park", "coords": [12.975995, 55.594949]}, {"name": "Ribersborgsstranden", "text": "Ein beliebter Sandstrand mit Badehäusern in Malmö.", "category": "recreational", "coords": [12.960453, 55.602398]}, {"name": "Malmö Museer Slottsholmen", "text": "Der Hauptteil der Museen von Malmö in der historischen Burg.", "category": "museum", "coords": [12.986984, 55.604751]}, {"name": "Form Design Center", "text": "Ein Zentrum für Architektur und Design in einem historischen Speicher.", "category": "museum", "coords": [12.999206, 55.604503]}, {"name": "Monopoly Fanclub Sweden", "text": "Ein kleines Museum für Fans des Brettspiels Monopoly.", "category": "museum", "coords": [12.983748, 55.589777]}, {"name": "Brandmuséet", "text": "Mitten in Malmö empfängt das Brandmuséet seine Besucher mit spannenden Einblicken in die Vergangenheit. Dieses schwedische Museum widmet sich voll und ganz der historischen Entwicklung der lokalen Feuerwehr. Gäste können historische Ausrüstungsgegenstände besichtigen und mehr über die Brandbekämpfung der Stadt erfahren.", "category": "museum", "coords": [13.008836, 55.602402]}, {"name": "Moderna Museet", "text": "Ein Zweig des schwedischen Nationalmuseums für moderne Kunst.", "category": "museum", "coords": [13.009567, 55.604632]}, {"name": "Disgusting Food Museum", "text": "Ein Museum, das ungewöhnliche und ekelerregende Speisen aus aller Welt ausstellt.", "category": "museum", "coords": [13.00131, 55.600897]}, {"name": "Molekyl Gallery", "text": "Wer sich für moderne Ausdrucksformen interessiert, sollte die Molekyl Gallery in Malmö aufsuchen. Diese schwedische Galerie fungiert als Ausstellungsort für zeitgenössische Kunst. Die Besucher erwarten hier abwechslungsreiche künstlerische Werke und inspirierende Präsentationen.", "category": "museum", "coords": [13.023898, 55.595394]}, {"name": "Arkana", "text": "Ein Kunstraum in Malmö, der Ausstellungen zeitgenössischer Kunst zeigt.", "category": "museum", "coords": [13.008339, 55.593075]}, {"name": "Galleri Ann-Katrin Braf", "text": "Eine Galerie in Malmö, die auf Kunst und Design spezialisiert ist.", "category": "museum", "coords": [12.989845, 55.595586]}, {"name": "Galleri Lohme", "text": "Eine moderne Kunstgalerie in Malmö, die Werke schwedischer und internationaler Künstler ausstellt.", "category": "museum", "coords": [12.993424, 55.597857]}, {"name": "Ateljéföreningen Sulfur", "text": "Ein Atelierverein in Malmö, der lokale Kunst und Kreativität fördert.", "category": "museum", "coords": [13.031216, 55.598506]}, {"name": "Alta Art Space", "text": "Ein unabhängiger Kunstraum in Malmö für zeitgenössische Kunstpraktiken.", "category": "museum", "coords": [13.034825, 55.599537]}, {"name": "FRANK", "text": "Ein interdisziplinärer Kunstraum in Malmö für Ausstellungen und Veranstaltungen.", "category": "museum", "coords": [13.00777, 55.589029]}, {"name": "Oljesjön", "text": "Oljesjön ist ein ruhiges Gewässer in Malmoe, das zu einem kurzen Spaziergang im Park einlädt.", "category": "natural", "coords": [13.017362, 55.631287]}, {"name": "Organiska dammen", "text": "Organiska dammen ist ein naturnaher Teich in Malmoe, ideal für Beobachtungen der Tierwelt.", "category": "natural", "coords": [13.072577, 55.655611]}, {"name": "Sege damm", "text": "Sege damm ist ein kleiner See in Malmoe, der eine friedliche Grünfläche für Besucher bietet.", "category": "natural", "coords": [13.045125, 55.626546]}, {"name": "Nya Svandammen", "text": "Nya Svandammen ist ein idyllischer Teich in Malmoe, perfekt für eine entspannte Pause im Freien.", "category": "natural", "coords": [13.072547, 55.653575]}, {"name": "Stora dammen", "text": "Stora dammen ist ein markanter See in Malmoe, ideal für einen erholsamen Spaziergang im Park.", "category": "natural", "coords": [12.995423, 55.589546]}, {"name": "Teaterlekplatsen", "text": "Teaterlekplatsen ist ein fantasievoller Spielplatz in Malmoe, auf dem Kinder in kreative Welten eintauchen können.", "category": "family", "coords": [12.994437, 55.593619]}, {"name": "VR Malmö", "text": "VR Malmö bietet spannende Virtual-Reality-Erlebnisse für einen unterhaltsamen Familienausflug.", "category": "family", "coords": [13.003253, 55.604349]}, {"name": "Spielplatz Norra", "text": "Spielplatz Norra ist ein schöner Ort in Malmoe für Kinder zum Spielen und Austoben an der frischen Luft.", "category": "family", "coords": [13.005407, 55.596001]}, {"name": "Sagolekplatsen", "text": "Sagolekplatsen ist ein märchenhafter Spielplatz in Malmoe, der die Fantasie der Kinder anregt.", "category": "family", "coords": [12.99199, 55.600365]}, {"name": "Sollekplatsen", "text": "Sollekplatsen ist ein sonniger Spielplatz in Malmoe, ideal für Kinder zum Klettern und Spielen.", "category": "family", "coords": [12.980087, 55.615161]}, {"name": "Spirallekplatsen", "text": "Spirallekplatsen ist ein origineller Spielplatz in Malmoe mit vielen Möglichkeiten zum Entdecken.", "category": "family", "coords": [12.998142, 55.595714]}, {"name": "Fiskelekplatsen", "text": "Fiskelekplatsen ist ein thematischer Spielplatz in Malmoe, der Kindern spielerisch das Thema Fischen näherbringt.", "category": "family", "coords": [13.011169, 55.590408]}, {"name": "Djurlekplatsen", "text": "Djurlekplatsen ist ein beliebter Spielplatz in Malmoe, auf dem Kinder in einer tierreichen Umgebung spielen können.", "category": "family", "coords": [13.04847, 55.610159]}, {"name": "Rörelselekplatsen", "text": "Rörelselekplatsen ist ein Spielplatz in Malmoe, der Kinder zu viel Bewegung und Aktivität motiviert.", "category": "family", "coords": [13.023146, 55.589032]}, {"name": "Göingeplan lekplatsen", "text": "Göingeplan lekplatsen ist ein toller Ort in Malmoe für Kinder zum Spielen und Spaßhaben.", "category": "family", "coords": [13.018166, 55.590324]}, {"name": "Spindellekplatsen", "text": "Spindellekplatsen ist ein spannender Spielplatz in Malmoe mit interessanten Klettermöglichkeiten.", "category": "family", "coords": [12.987604, 55.591742]}, {"name": "Skogslekplatsen", "text": "Skogslekplatsen ist ein naturnaher Spielplatz in Malmoe, der eine waldähnliche Spielumgebung bietet.", "category": "family", "coords": [12.975302, 55.595852]}, {"name": "Torekovsplans Lekplats", "text": "Torekovsplans Lekplats ist ein schöner Spielplatz in Malmoe, ideal für kleine Entdecker zum Spielen.", "category": "family", "coords": [13.022535, 55.592553]}, {"name": "Ribban Green Golf", "text": "Ribban Green Golf bietet eine großartige Minigolf-Erfahrung in Malmoe für die ganze Familie.", "category": "family", "coords": [12.960745, 55.600047]}, {"name": "Leklunden", "text": "Leklunden ist ein Spielplatz in Malmoe, der Spaß für Familien und Kinder bietet.", "category": "family", "coords": [13.001266, 55.583718]}], "hu": [{"name": "Oscar Olsson-museet", "text": "A népfőiskolai mozgalomnak szentelt múzeum Malmőben.", "category": "museum", "coords": [13.010343, 55.582754]}, {"name": "Teknikens och sjöfartens hus", "text": "Műszaki és tengerészeti múzeum Malmőben.", "category": "museum", "coords": [12.982778, 55.604833]}, {"name": "Länsresidenset Malmö", "text": "Történelmi rezidenciaépület Malmőben.", "category": "castle", "coords": [13.001007, 55.60692]}, {"name": "Ebbas hus", "text": "Egy kis múzeum, amely az életet mutatja be egy történelmi városi házban.", "category": "museum", "coords": [13.005777, 55.605371]}, {"name": "Människan och Pegasus", "text": "Carl Milles szobrászművész jól ismert emlékműve Malmőben.", "category": "historical", "coords": [12.987098, 55.601106]}, {"name": "Malmö Live Konserthus", "text": "Modern koncert- és rendezvénykomplexum Malmőben.", "category": "cultural", "coords": [12.993645, 55.607352]}, {"name": "Malmö Opera", "text": "Malmői operaház, amely modern építészetéről ismert.", "category": "cultural", "coords": [12.995702, 55.596122]}, {"name": "Malmö konsthall", "text": "Európa egyik legnagyobb kortárs művészeti kiállítóhelye.", "category": "cultural", "coords": [12.99924, 55.59527]}, {"name": "Sankt Petri kyrka", "text": "Malmö legrégebbi temploma, tégla-gótikus stílusban épült.", "category": "religious", "coords": [13.003318, 55.606936]}, {"name": "Sankt Johannes kyrka", "text": "Jellegzetes szecessziós templom Malmőben.", "category": "religious", "coords": [13.00175, 55.594199]}, {"name": "Malmö synagoga", "text": "Építészetileg jelentős zsidó imaház Malmőben.", "category": "religious", "coords": [13.010823, 55.599534]}, {"name": "Heliga Trefaldighetskyrkan", "text": "Modern keresztény templom Erikslust negyedben.", "category": "religious", "coords": [13.005633, 55.578094]}, {"name": "Sankta Maria kyrka", "text": "Evangélikus templom Rosengård negyedben.", "category": "religious", "coords": [13.01216, 55.588475]}, {"name": "Sankt Matteus kyrka", "text": "Vallási épület és egyházközség Malmőben.", "category": "religious", "coords": [13.021336, 55.589021]}, {"name": "Fiskehoddorna", "text": "Hagyományos halászkunyhók, amelyek ma halkpiacként szolgálnak.", "category": "landmark", "coords": [12.983794, 55.605212]}, {"name": "Klaffbron", "text": "Történelmi felnyitható híd Malmö kikötőjében.", "category": "landmark", "coords": [12.993716, 55.612593]}, {"name": "Universitetsbron", "text": "Jellegzetes híd, amely az egyetemi negyedet köti össze.", "category": "landmark", "coords": [12.996274, 55.612316]}, {"name": "Pildammsparken", "text": "Nagy városi park Malmőben tavakkal és erdős területekkel.", "category": "park", "coords": [12.992064, 55.590623]}, {"name": "Rörsjöparken", "text": "Központi park Malmőben, amely zöldfelületeiről ismert.", "category": "park", "coords": [13.017778, 55.605077]}, {"name": "Slottsparken", "text": "Kiterjedt park közvetlenül a Malmöhus vár mellett.", "category": "park", "coords": [12.988699, 55.601464]}, {"name": "Gerlachs park", "text": "Nyilvános zöldterület Malmö keleti részén.", "category": "park", "coords": [13.032087, 55.608594]}, {"name": "Garnisonsplanteringen", "text": "Történelmi hátterű kis park Malmőben.", "category": "park", "coords": [13.034062, 55.608401]}, {"name": "Simhallsbadet", "text": "Nyilvános uszoda és vízipark Malmőben.", "category": "family", "coords": [12.992406, 55.599216]}, {"name": "Teatermuseet", "text": "A malmői színházművészet történetének szentelt múzeum.", "category": "museum", "coords": [13.002747, 55.60594]}, {"name": "Victoriateatern", "text": "Történelmi mozi és színház Malmö központjában.", "category": "cultural", "coords": [13.00124, 55.599199]}, {"name": "Palladium", "text": "Ismert koncertek és filmek helyszíne.", "category": "cultural", "coords": [13.001061, 55.6041]}, {"name": "Helgeandskyrkan", "text": "Keresztény imaház Malmőben.", "category": "religious", "coords": [12.986127, 55.596806]}, {"name": "Sankt Pauli kyrka", "text": "Jellegzetes vörös téglás templom Malmőben.", "category": "religious", "coords": [13.014382, 55.603017]}, {"name": "Sankt Andreas kyrka", "text": "Vallási épület és imádkozóhely Malmőben.", "category": "religious", "coords": [12.971279, 55.599213]}, {"name": "Tyska kyrkan", "text": "Történelmileg a német közösséghez kötődő templom Malmőben.", "category": "religious", "coords": [12.963147, 55.596043]}, {"name": "Kirsebergs kyrka", "text": "Helyi templom Kirseberg negyedben.", "category": "religious", "coords": [13.041322, 55.608853]}, {"name": "Immanuelskyrkan", "text": "Az Immánuel gyülekezet imaháza Malmőben.", "category": "religious", "coords": [12.986865, 55.593891]}, {"name": "Det Skandinaviska Wakf i Sverige", "text": "Iszlám közösségi központ és imaház Malmőben.", "category": "religious", "coords": [13.039684, 55.594263]}, {"name": "Malmö vågbrytarbank", "text": "A malmői kikötő bejáratát jelző világítótorony.", "category": "landmark", "coords": [12.976219, 55.624896]}, {"name": "Slottsmöllan", "text": "Történelmi szélmalom a Malmöhus vár közelében.", "category": "landmark", "coords": [12.986052, 55.603086]}, {"name": "Petribron", "text": "Gyalogoshíd Malmőben.", "category": "landmark", "coords": [13.002026, 55.608479]}, {"name": "Älvsborgsbron", "text": "Hídszerkezet Malmőben.", "category": "landmark", "coords": [12.996093, 55.607306]}, {"name": "Folkets park", "text": "Svédország egyik legrégebbi vidámparkja.", "category": "park", "coords": [13.013807, 55.59348]}, {"name": "Jesusparken", "text": "Kicsi helyi park, amelyet informálisan Jesusparken néven ismernek.", "category": "park", "coords": [13.015232, 55.590411]}, {"name": "Scaniaparken", "text": "Modern tengerparti park kilátással az Öresundre.", "category": "park", "coords": [12.976788, 55.617678]}, {"name": "Cronheimsparken", "text": "Városi zöldterület Malmőben.", "category": "park", "coords": [13.045258, 55.590017]}, {"name": "Rönneholmsparken", "text": "Park Malmö egyik lakóövezetében.", "category": "park", "coords": [12.975995, 55.594949]}, {"name": "Ribersborgsstranden", "text": "Népszerű homokos strand fürdőházakkal Malmőben.", "category": "recreational", "coords": [12.960453, 55.602398]}, {"name": "Malmö Museer Slottsholmen", "text": "A malmői múzeumok fő része a történelmi várban.", "category": "museum", "coords": [12.986984, 55.604751]}, {"name": "Form Design Center", "text": "Építészeti és design központ egy történelmi raktárban.", "category": "museum", "coords": [12.999206, 55.604503]}, {"name": "Monopoly Fanclub Sweden", "text": "Egy kis múzeum a Monopoly társasjáték kedvelőinek.", "category": "museum", "coords": [12.983748, 55.589777]}, {"name": "Brandmuséet", "text": "A Brandmuséet egy különleges múzeum a svédországi Malmö városában. Az intézmény a helyi tűzoltóság izgalmas történetét mutatja be a látogatóknak. Az érdeklődők régi tűzoltó felszereléseket és a tűzoltás múltjához kapcsolódó emlékeket tekinthetnek meg.", "category": "museum", "coords": [13.008836, 55.602402]}, {"name": "Moderna Museet", "text": "A svéd nemzeti modern művészeti múzeum egyik ága.", "category": "museum", "coords": [13.009567, 55.604632]}, {"name": "Disgusting Food Museum", "text": "Szokatlan és gusztustalan ételeket bemutató múzeum a világ minden tájáról.", "category": "museum", "coords": [13.00131, 55.600897]}, {"name": "Molekyl Gallery", "text": "A Molekyl Gallery egy modern galéria, amely a svédországi Malmöben várja a művészetkedvelőket. Ez a kortárs művészeti tér különféle alkotásokat és modern vizuális projekteket mutat be. A látogatók változatos kiállításokon keresztül ismerkedhetnek meg az aktuális művészeti trendekkel.", "category": "museum", "coords": [13.023898, 55.595394]}, {"name": "Arkana", "text": "Művészeti tér Malmőben, ahol kortárs kiállításokat rendeznek.", "category": "museum", "coords": [13.008339, 55.593075]}, {"name": "Galleri Ann-Katrin Braf", "text": "Művészeti és design galéria Malmőben.", "category": "museum", "coords": [12.989845, 55.595586]}, {"name": "Galleri Lohme", "text": "Modern művészeti galéria Malmőben, amely svéd és nemzetközi művészek munkáit mutatja be.", "category": "museum", "coords": [12.993424, 55.597857]}, {"name": "Ateljéföreningen Sulfur", "text": "Műtermi egyesület Malmőben, amely a helyi művészetet és kreativitást támogatja.", "category": "museum", "coords": [13.031216, 55.598506]}, {"name": "Alta Art Space", "text": "Független művészeti tér Malmőben a kortárs művészeti gyakorlatok számára.", "category": "museum", "coords": [13.034825, 55.599537]}, {"name": "FRANK", "text": "Interdiszciplináris művészeti tér Malmőben kiállítások és események számára.", "category": "museum", "coords": [13.00777, 55.589029]}, {"name": "Oljesjön", "text": "Az Oljesjön egy nyugodt vízfelület Malmoe városában, amely egy rövid parki sétára hívogat.", "category": "natural", "coords": [13.017362, 55.631287]}, {"name": "Organiska dammen", "text": "Az Organiska dammen egy természetközeli tó Malmoe területén, amely ideális az élővilág megfigyeléséhez.", "category": "natural", "coords": [13.072577, 55.655611]}, {"name": "Sege damm", "text": "A Sege damm egy kis tó Malmoe városában, amely békés zöldterületet kínál a látogatóknak.", "category": "natural", "coords": [13.045125, 55.626546]}, {"name": "Nya Svandammen", "text": "A Nya Svandammen egy idilli tó Malmoe területén, amely tökéletes egy pihentető szabadtéri szünethez.", "category": "natural", "coords": [13.072547, 55.653575]}, {"name": "Stora dammen", "text": "A Stora dammen egy jellegzetes tó Malmoe városában, amely ideális egy pihentető parki sétához.", "category": "natural", "coords": [12.995423, 55.589546]}, {"name": "Teaterlekplatsen", "text": "A Teaterlekplatsen egy ötletes játszótér Malmoe városában, ahol a gyerekek kreatív játékokat játszhatnak.", "category": "family", "coords": [12.994437, 55.593619]}, {"name": "VR Malmö", "text": "A VR Malmö izgalmas virtuális valóság élményeket kínál egy szórakoztató családi kiránduláshoz.", "category": "family", "coords": [13.003253, 55.604349]}, {"name": "Spielplatz Norra", "text": "A Spielplatz Norra egy remek hely Malmoe városában a gyerekeknek a szabadtéri játékhoz.", "category": "family", "coords": [13.005407, 55.596001]}, {"name": "Sagolekplatsen", "text": "A Sagolekplatsen egy mesebeli játszótér Malmoe városában, amely megmozgatja a gyerekek képzeletét.", "category": "family", "coords": [12.99199, 55.600365]}, {"name": "Sollekplatsen", "text": "A Sollekplatsen egy napfényes játszótér Malmoe területén, amely ideális mászásra és játékra.", "category": "family", "coords": [12.980087, 55.615161]}, {"name": "Spirallekplatsen", "text": "A Spirallekplatsen egy eredeti játszótér Malmoe városában, amely sok felfedeznivalót kínál.", "category": "family", "coords": [12.998142, 55.595714]}, {"name": "Fiskelekplatsen", "text": "A Fiskelekplatsen egy tematikus játszótér Malmoe területén, amely a horgászat világát idézi meg.", "category": "family", "coords": [13.011169, 55.590408]}, {"name": "Djurlekplatsen", "text": "A Djurlekplatsen egy népszerű játszótér Malmoe városában, ahol a gyerekek állatos környezetben játszhatnak.", "category": "family", "coords": [13.04847, 55.610159]}, {"name": "Rörelselekplatsen", "text": "A Rörelselekplatsen egy játszótér Malmoe területén, amely mozgásra és aktivitásra ösztönzi a gyerekeket.", "category": "family", "coords": [13.023146, 55.589032]}, {"name": "Göingeplan lekplatsen", "text": "A Göingeplan lekplatsen egy nagyszerű hely Malmoe városában a gyerekek számára a játékhoz.", "category": "family", "coords": [13.018166, 55.590324]}, {"name": "Spindellekplatsen", "text": "A Spindellekplatsen egy izgalmas játszótér Malmoe területén, érdekes mászási lehetőségekkel.", "category": "family", "coords": [12.987604, 55.591742]}, {"name": "Skogslekplatsen", "text": "A Skogslekplatsen egy természetközeli játszótér Malmoe városában, erdei hangulatú játéktérrel.", "category": "family", "coords": [12.975302, 55.595852]}, {"name": "Torekovsplans Lekplats", "text": "A Torekovsplans Lekplats egy kedves játszótér Malmoe városában, amely ideális a gyerekeknek.", "category": "family", "coords": [13.022535, 55.592553]}, {"name": "Ribban Green Golf", "text": "A Ribban Green Golf nagyszerű minigolf-élményt kínál Malmoe városában az egész családnak.", "category": "family", "coords": [12.960745, 55.600047]}, {"name": "Leklunden", "text": "A Leklunden egy játszótér Malmoe városában, amely szórakozást kínál a családoknak és a gyermekeknek.", "category": "family", "coords": [13.001266, 55.583718]}], "ro": [{"name": "Oscar Olsson-museet", "text": "Un muzeu din Malmö dedicat mișcării educației populare.", "category": "museum", "coords": [13.010343, 55.582754]}, {"name": "Teknikens och sjöfartens hus", "text": "Un muzeu al tehnicii și maritim din Malmö.", "category": "museum", "coords": [12.982778, 55.604833]}, {"name": "Länsresidenset Malmö", "text": "O clădire istorică de reședință din Malmö.", "category": "castle", "coords": [13.001007, 55.60692]}, {"name": "Ebbas hus", "text": "Un mic muzeu care prezintă viața într-o casă istorică de oraș.", "category": "museum", "coords": [13.005777, 55.605371]}, {"name": "Människan och Pegasus", "text": "Un monument cunoscut al sculptorului Carl Milles din Malmö.", "category": "historical", "coords": [12.987098, 55.601106]}, {"name": "Malmö Live Konserthus", "text": "Un complex modern de concerte și evenimente din Malmö.", "category": "cultural", "coords": [12.993645, 55.607352]}, {"name": "Malmö Opera", "text": "Opera din Malmö, cunoscută pentru arhitectura sa modernă.", "category": "cultural", "coords": [12.995702, 55.596122]}, {"name": "Malmö konsthall", "text": "Unul dintre cele mai mari spații de expoziție pentru artă contemporană din Europa.", "category": "cultural", "coords": [12.99924, 55.59527]}, {"name": "Sankt Petri kyrka", "text": "Cea mai veche biserică din Malmö, construită în stil gotic din cărămidă.", "category": "religious", "coords": [13.003318, 55.606936]}, {"name": "Sankt Johannes kyrka", "text": "O biserică proeminentă în stil Jugendstil din Malmö.", "category": "religious", "coords": [13.00175, 55.594199]}, {"name": "Malmö synagoga", "text": "Un lăcaș de cult evreiesc semnificativ din punct de vedere arhitectural în Malmö.", "category": "religious", "coords": [13.010823, 55.599534]}, {"name": "Heliga Trefaldighetskyrkan", "text": "O biserică creștină modernă în cartierul Erikslust.", "category": "religious", "coords": [13.005633, 55.578094]}, {"name": "Sankta Maria kyrka", "text": "O biserică luterană în cartierul Rosengård.", "category": "religious", "coords": [13.01216, 55.588475]}, {"name": "Sankt Matteus kyrka", "text": "O clădire religioasă și parohie în Malmö.", "category": "religious", "coords": [13.021336, 55.589021]}, {"name": "Fiskehoddorna", "text": "Colibe tradiționale de pescari care servesc astăzi drept piață de pește.", "category": "landmark", "coords": [12.983794, 55.605212]}, {"name": "Klaffbron", "text": "Un pod basculant istoric în portul Malmö.", "category": "landmark", "coords": [12.993716, 55.612593]}, {"name": "Universitetsbron", "text": "Un pod proeminent care conectează zona universitară.", "category": "landmark", "coords": [12.996274, 55.612316]}, {"name": "Pildammsparken", "text": "Un parc orășenesc mare din Malmö, cu iazuri și zone împădurite.", "category": "park", "coords": [12.992064, 55.590623]}, {"name": "Rörsjöparken", "text": "Un parc central din Malmö, cunoscut pentru spațiile sale verzi.", "category": "park", "coords": [13.017778, 55.605077]}, {"name": "Slottsparken", "text": "Un parc vast situat chiar lângă castelul Malmöhus.", "category": "park", "coords": [12.988699, 55.601464]}, {"name": "Gerlachs park", "text": "O zonă verde publică în estul orașului Malmö.", "category": "park", "coords": [13.032087, 55.608594]}, {"name": "Garnisonsplanteringen", "text": "Un parc mic cu fundal istoric din Malmö.", "category": "park", "coords": [13.034062, 55.608401]}, {"name": "Simhallsbadet", "text": "O piscină publică și parc acvatic în Malmö.", "category": "family", "coords": [12.992406, 55.599216]}, {"name": "Teatermuseet", "text": "Un muzeu dedicat istoriei teatrului din Malmö.", "category": "museum", "coords": [13.002747, 55.60594]}, {"name": "Victoriateatern", "text": "Un cinematograf și teatru istoric din centrul orașului Malmö.", "category": "cultural", "coords": [13.00124, 55.599199]}, {"name": "Palladium", "text": "O locație cunoscută pentru concerte și filme.", "category": "cultural", "coords": [13.001061, 55.6041]}, {"name": "Helgeandskyrkan", "text": "Un lăcaș de cult creștin din orașul Malmö.", "category": "religious", "coords": [12.986127, 55.596806]}, {"name": "Sankt Pauli kyrka", "text": "O biserică proeminentă din cărămidă roșie din Malmö.", "category": "religious", "coords": [13.014382, 55.603017]}, {"name": "Sankt Andreas kyrka", "text": "O clădire religioasă și loc de rugăciune în Malmö.", "category": "religious", "coords": [12.971279, 55.599213]}, {"name": "Tyska kyrkan", "text": "O biserică din Malmö legată istoric de comunitatea germană.", "category": "religious", "coords": [12.963147, 55.596043]}, {"name": "Kirsebergs kyrka", "text": "O biserică locală în cartierul Kirseberg.", "category": "religious", "coords": [13.041322, 55.608853]}, {"name": "Immanuelskyrkan", "text": "Un lăcaș de cult al comunității Immanuel din Malmö.", "category": "religious", "coords": [12.986865, 55.593891]}, {"name": "Det Skandinaviska Wakf i Sverige", "text": "Un centru comunitar islamic și loc de rugăciune în Malmö.", "category": "religious", "coords": [13.039684, 55.594263]}, {"name": "Malmö vågbrytarbank", "text": "Un far care marchează intrarea în portul Malmö.", "category": "landmark", "coords": [12.976219, 55.624896]}, {"name": "Slottsmöllan", "text": "O moară de vânt istorică situată lângă castelul Malmöhus.", "category": "landmark", "coords": [12.986052, 55.603086]}, {"name": "Petribron", "text": "Un pod pietonal în orașul Malmö.", "category": "landmark", "coords": [13.002026, 55.608479]}, {"name": "Älvsborgsbron", "text": "O structură de pod în Malmö.", "category": "landmark", "coords": [12.996093, 55.607306]}, {"name": "Folkets park", "text": "Unul dintre cele mai vechi parcuri de distracții din Suedia.", "category": "park", "coords": [13.013807, 55.59348]}, {"name": "Jesusparken", "text": "Un parc local mic, cunoscut informal sub numele de Jesusparken.", "category": "park", "coords": [13.015232, 55.590411]}, {"name": "Scaniaparken", "text": "Un parc de coastă modern cu vedere la Öresund.", "category": "park", "coords": [12.976788, 55.617678]}, {"name": "Cronheimsparken", "text": "O zonă verde urbană în Malmö.", "category": "park", "coords": [13.045258, 55.590017]}, {"name": "Rönneholmsparken", "text": "Un parc într-o zonă rezidențială din Malmö.", "category": "park", "coords": [12.975995, 55.594949]}, {"name": "Ribersborgsstranden", "text": "O plajă de nisip populară cu cabine de baie în Malmö.", "category": "recreational", "coords": [12.960453, 55.602398]}, {"name": "Malmö Museer Slottsholmen", "text": "Partea principală a muzeelor din Malmö situată în castelul istoric.", "category": "museum", "coords": [12.986984, 55.604751]}, {"name": "Form Design Center", "text": "Un centru pentru arhitectură și design într-un depozit istoric.", "category": "museum", "coords": [12.999206, 55.604503]}, {"name": "Monopoly Fanclub Sweden", "text": "Un mic muzeu pentru fanii jocului de societate Monopoly.", "category": "museum", "coords": [12.983748, 55.589777]}, {"name": "Brandmuséet", "text": "Brandmuséet este un muzeu interesant situat în orașul suedez Malmö. Aici, vizitatorilor li se prezintă istoria captivantă a serviciului de pompieri din localitate. Cei care îi trec pragul vor putea vedea echipamente vechi și vor afla cum a evoluat combaterea incendiilor în oraș.", "category": "museum", "coords": [13.008836, 55.602402]}, {"name": "Moderna Museet", "text": "O filială a muzeului național suedez de artă modernă.", "category": "museum", "coords": [13.009567, 55.604632]}, {"name": "Disgusting Food Museum", "text": "Un muzeu care expune mâncăruri neobișnuite și dezgustătoare din întreaga lume.", "category": "museum", "coords": [13.00131, 55.600897]}, {"name": "Molekyl Gallery", "text": "Molekyl Gallery reprezintă un spațiu expozițional dedicat artei contemporane din Malmö, Suedia. Această galerie găzduiește și prezintă publicului o multitudine de lucrări artistice moderne. Vizitatorii vor avea parte de expoziții variate, menite să evidențieze tendințele actuale din lumea artei.", "category": "museum", "coords": [13.023898, 55.595394]}, {"name": "Arkana", "text": "Un spațiu de artă din Malmö care găzduiește expoziții de artă contemporană.", "category": "museum", "coords": [13.008339, 55.593075]}, {"name": "Galleri Ann-Katrin Braf", "text": "O galerie din Malmö specializată în artă și design.", "category": "museum", "coords": [12.989845, 55.595586]}, {"name": "Galleri Lohme", "text": "O galerie de artă modernă din Malmö care expune lucrări ale artiștilor suedezi și internaționali.", "category": "museum", "coords": [12.993424, 55.597857]}, {"name": "Ateljéföreningen Sulfur", "text": "O asociație de ateliere din Malmö care promovează arta și creativitatea locală.", "category": "museum", "coords": [13.031216, 55.598506]}, {"name": "Alta Art Space", "text": "Un spațiu de artă independent din Malmö pentru practici artistice contemporane.", "category": "museum", "coords": [13.034825, 55.599537]}, {"name": "FRANK", "text": "Un spațiu de artă interdisciplinar din Malmö pentru expoziții și evenimente.", "category": "museum", "coords": [13.00777, 55.589029]}, {"name": "Oljesjön", "text": "Oljesjön este o zonă de apă liniștită în Malmoe, care invită la o scurtă plimbare în parc.", "category": "natural", "coords": [13.017362, 55.631287]}, {"name": "Organiska dammen", "text": "Organiska dammen este un iaz natural în Malmoe, ideal pentru observarea faunei.", "category": "natural", "coords": [13.072577, 55.655611]}, {"name": "Sege damm", "text": "Sege damm este un lac mic în Malmoe, care oferă un spațiu verde liniștit vizitatorilor.", "category": "natural", "coords": [13.045125, 55.626546]}, {"name": "Nya Svandammen", "text": "Nya Svandammen este un iaz idilic în Malmoe, perfect pentru o pauză relaxantă în aer liber.", "category": "natural", "coords": [13.072547, 55.653575]}, {"name": "Stora dammen", "text": "Stora dammen este un lac remarcabil în Malmoe, ideal pentru o plimbare relaxantă în parc.", "category": "natural", "coords": [12.995423, 55.589546]}, {"name": "Teaterlekplatsen", "text": "Teaterlekplatsen este un loc de joacă plin de imaginație în Malmoe, unde copiii pot intra în lumi creative.", "category": "family", "coords": [12.994437, 55.593619]}, {"name": "VR Malmö", "text": "VR Malmö oferă experiențe palpitante de realitate virtuală pentru o ieșire distractivă în familie.", "category": "family", "coords": [13.003253, 55.604349]}, {"name": "Spielplatz Norra", "text": "Spielplatz Norra este un loc frumos în Malmoe unde copiii se pot juca și alerga în aer liber.", "category": "family", "coords": [13.005407, 55.596001]}, {"name": "Sagolekplatsen", "text": "Sagolekplatsen este un loc de joacă de basm în Malmoe, care stimulează imaginația copiilor.", "category": "family", "coords": [12.99199, 55.600365]}, {"name": "Sollekplatsen", "text": "Sollekplatsen este un loc de joacă însorit în Malmoe, ideal pentru copii să se cațere și să se joace.", "category": "family", "coords": [12.980087, 55.615161]}, {"name": "Spirallekplatsen", "text": "Spirallekplatsen este un loc de joacă original în Malmoe, cu multe oportunități de explorare.", "category": "family", "coords": [12.998142, 55.595714]}, {"name": "Fiskelekplatsen", "text": "Fiskelekplatsen este un loc de joacă tematic în Malmoe, care introduce copiii în lumea pescuitului.", "category": "family", "coords": [13.011169, 55.590408]}, {"name": "Djurlekplatsen", "text": "Djurlekplatsen este un loc de joacă popular în Malmoe, unde copiii se pot juca într-un cadru cu tematică animală.", "category": "family", "coords": [13.04847, 55.610159]}, {"name": "Rörelselekplatsen", "text": "Rörelselekplatsen este un loc de joacă în Malmoe care motivează copiii la multă mișcare și activitate.", "category": "family", "coords": [13.023146, 55.589032]}, {"name": "Göingeplan lekplatsen", "text": "Göingeplan lekplatsen este un loc minunat în Malmoe unde copiii se pot juca și distra.", "category": "family", "coords": [13.018166, 55.590324]}, {"name": "Spindellekplatsen", "text": "Spindellekplatsen este un loc de joacă palpitant în Malmoe, cu posibilități interesante de cățărare.", "category": "family", "coords": [12.987604, 55.591742]}, {"name": "Skogslekplatsen", "text": "Skogslekplatsen este un loc de joacă natural în Malmoe, oferind un mediu de joacă asemănător pădurii.", "category": "family", "coords": [12.975302, 55.595852]}, {"name": "Torekovsplans Lekplats", "text": "Torekovsplans Lekplats este un loc de joacă frumos în Malmoe, ideal pentru micii exploratori.", "category": "family", "coords": [13.022535, 55.592553]}, {"name": "Ribban Green Golf", "text": "Ribban Green Golf oferă o experiență excelentă de minigolf în Malmoe pentru întreaga familie.", "category": "family", "coords": [12.960745, 55.600047]}, {"name": "Leklunden", "text": "Leklunden este un teren de joacă în Malmoe, oferind distracție pentru familii și copii.", "category": "family", "coords": [13.001266, 55.583718]}], "en": [{"name": "Oscar Olsson-museet", "text": "A museum in Malmö dedicated to the folk high school movement.", "category": "museum", "coords": [13.010343, 55.582754]}, {"name": "Teknikens och sjöfartens hus", "text": "A science and maritime museum located in Malmö.", "category": "museum", "coords": [12.982778, 55.604833]}, {"name": "Länsresidenset Malmö", "text": "A historic residence building in Malmö.", "category": "castle", "coords": [13.001007, 55.60692]}, {"name": "Ebbas hus", "text": "A small museum showcasing life in a historic town house.", "category": "museum", "coords": [13.005777, 55.605371]}, {"name": "Människan och Pegasus", "text": "A well-known monument by sculptor Carl Milles in Malmö.", "category": "historical", "coords": [12.987098, 55.601106]}, {"name": "Malmö Live Konserthus", "text": "A modern concert and event complex in Malmö.", "category": "cultural", "coords": [12.993645, 55.607352]}, {"name": "Malmö Opera", "text": "Malmö's opera house, known for its modern architecture.", "category": "cultural", "coords": [12.995702, 55.596122]}, {"name": "Malmö konsthall", "text": "One of Europe's largest exhibition spaces for contemporary art.", "category": "cultural", "coords": [12.99924, 55.59527]}, {"name": "Sankt Petri kyrka", "text": "The oldest church in Malmö, built in Brick Gothic style.", "category": "religious", "coords": [13.003318, 55.606936]}, {"name": "Sankt Johannes kyrka", "text": "A prominent Art Nouveau church in Malmö.", "category": "religious", "coords": [13.00175, 55.594199]}, {"name": "Malmö synagoga", "text": "An architecturally significant Jewish place of worship in Malmö.", "category": "religious", "coords": [13.010823, 55.599534]}, {"name": "Heliga Trefaldighetskyrkan", "text": "A modern Christian church in the Erikslust district.", "category": "religious", "coords": [13.005633, 55.578094]}, {"name": "Sankta Maria kyrka", "text": "A Lutheran church in the Rosengård district.", "category": "religious", "coords": [13.01216, 55.588475]}, {"name": "Sankt Matteus kyrka", "text": "A religious building and parish in Malmö.", "category": "religious", "coords": [13.021336, 55.589021]}, {"name": "Fiskehoddorna", "text": "Traditional fisherman's huts that now serve as a fish market.", "category": "landmark", "coords": [12.983794, 55.605212]}, {"name": "Klaffbron", "text": "A historic bascule bridge in the port of Malmö.", "category": "landmark", "coords": [12.993716, 55.612593]}, {"name": "Universitetsbron", "text": "A prominent bridge connecting the university area.", "category": "landmark", "coords": [12.996274, 55.612316]}, {"name": "Pildammsparken", "text": "A large city park in Malmö featuring ponds and wooded areas.", "category": "park", "coords": [12.992064, 55.590623]}, {"name": "Rörsjöparken", "text": "A central park in Malmö known for its green spaces.", "category": "park", "coords": [13.017778, 55.605077]}, {"name": "Slottsparken", "text": "A spacious park located right next to Malmöhus Castle.", "category": "park", "coords": [12.988699, 55.601464]}, {"name": "Gerlachs park", "text": "A public green space in the eastern part of Malmö.", "category": "park", "coords": [13.032087, 55.608594]}, {"name": "Garnisonsplanteringen", "text": "A small park with a historical background in Malmö.", "category": "park", "coords": [13.034062, 55.608401]}, {"name": "Simhallsbadet", "text": "A public swimming pool and water park in Malmö.", "category": "family", "coords": [12.992406, 55.599216]}, {"name": "Teatermuseet", "text": "A museum dedicated to the history of theatre in Malmö.", "category": "museum", "coords": [13.002747, 55.60594]}, {"name": "Victoriateatern", "text": "A historic cinema and theatre in central Malmö.", "category": "cultural", "coords": [13.00124, 55.599199]}, {"name": "Palladium", "text": "A well-known venue for concerts and films.", "category": "cultural", "coords": [13.001061, 55.6041]}, {"name": "Helgeandskyrkan", "text": "A Christian place of worship in the city of Malmö.", "category": "religious", "coords": [12.986127, 55.596806]}, {"name": "Sankt Pauli kyrka", "text": "A prominent red brick church in Malmö.", "category": "religious", "coords": [13.014382, 55.603017]}, {"name": "Sankt Andreas kyrka", "text": "A religious building and place of prayer in Malmö.", "category": "religious", "coords": [12.971279, 55.599213]}, {"name": "Tyska kyrkan", "text": "A church in Malmö historically linked to the German community.", "category": "religious", "coords": [12.963147, 55.596043]}, {"name": "Kirsebergs kyrka", "text": "A local church in the Kirseberg district.", "category": "religious", "coords": [13.041322, 55.608853]}, {"name": "Immanuelskyrkan", "text": "A place of worship for the Immanuel congregation in Malmö.", "category": "religious", "coords": [12.986865, 55.593891]}, {"name": "The Scandinavian Wakf in Sweden", "text": "An Islamic community centre and place of prayer in Malmö.", "category": "religious", "coords": [13.039684, 55.594263]}, {"name": "Malmö vågbrytarbank", "text": "A lighthouse marking the entrance to Malmö harbor.", "category": "landmark", "coords": [12.976219, 55.624896]}, {"name": "Slottsmöllan", "text": "A historic windmill located near Malmöhus Castle.", "category": "landmark", "coords": [12.986052, 55.603086]}, {"name": "Petribron", "text": "A pedestrian bridge in the city of Malmö.", "category": "landmark", "coords": [13.002026, 55.608479]}, {"name": "Älvsborgsbron", "text": "A bridge structure located in Malmö.", "category": "landmark", "coords": [12.996093, 55.607306]}, {"name": "Folkets park", "text": "One of the oldest amusement parks in Sweden.", "category": "park", "coords": [13.013807, 55.59348]}, {"name": "Jesusparken", "text": "A small local park informally known as Jesusparken.", "category": "park", "coords": [13.015232, 55.590411]}, {"name": "Scaniaparken", "text": "A modern coastal park with views over the Öresund.", "category": "park", "coords": [12.976788, 55.617678]}, {"name": "Cronheimsparken", "text": "An urban green space in Malmö.", "category": "park", "coords": [13.045258, 55.590017]}, {"name": "Rönneholmsparken", "text": "A park located in a residential area of Malmö.", "category": "park", "coords": [12.975995, 55.594949]}, {"name": "Ribersborg Beach", "text": "A popular sandy beach with bathhouses in Malmö.", "category": "recreational", "coords": [12.960453, 55.602398]}, {"name": "Malmö Museer Slottsholmen", "text": "The main part of Malmö's museums located in the historic castle.", "category": "museum", "coords": [12.986984, 55.604751]}, {"name": "Form Design Center", "text": "A centre for architecture and design in a historic warehouse.", "category": "museum", "coords": [12.999206, 55.604503]}, {"name": "Monopoly Fanclub Sweden", "text": "A small museum for fans of the Monopoly board game.", "category": "museum", "coords": [12.983748, 55.589777]}, {"name": "Brandmuséet", "text": "Brandmuséet is a specialized museum located within the Swedish city of Malmoe. This institution offers a thorough look at the history of the local fire department. Guests exploring the exhibits will discover antique firefighting equipment and learn about the city's historical emergency responses.", "category": "museum", "coords": [13.008836, 55.602402]}, {"name": "Moderna Museet", "text": "A branch of the Swedish national museum for modern art.", "category": "museum", "coords": [13.009567, 55.604632]}, {"name": "Disgusting Food Museum", "text": "A museum exhibiting unusual and disgusting foods from around the world.", "category": "museum", "coords": [13.00131, 55.600897]}, {"name": "Molekyl Gallery", "text": "Molekyl Gallery operates as a vibrant contemporary art space in Malmoe, Sweden. Acting as a modern museum or gallery, it presents various artistic works to the public. Art enthusiasts visiting this location can expect to encounter diverse and thought-provoking contemporary exhibitions.", "category": "museum", "coords": [13.023898, 55.595394]}, {"name": "Arkana", "text": "An art space in Malmö featuring contemporary art exhibitions.", "category": "museum", "coords": [13.008339, 55.593075]}, {"name": "Galleri Ann-Katrin Braf", "text": "A gallery in Malmö specializing in art and design.", "category": "museum", "coords": [12.989845, 55.595586]}, {"name": "Galleri Lohme", "text": "A modern art gallery in Malmö exhibiting works by Swedish and international artists.", "category": "museum", "coords": [12.993424, 55.597857]}, {"name": "Ateljéföreningen Sulfur", "text": "A studio association in Malmö promoting local art and creativity.", "category": "museum", "coords": [13.031216, 55.598506]}, {"name": "Alta Art Space", "text": "An independent art space in Malmö for contemporary art practices.", "category": "museum", "coords": [13.034825, 55.599537]}, {"name": "FRANK", "text": "An interdisciplinary art space in Malmö for exhibitions and events.", "category": "museum", "coords": [13.00777, 55.589029]}, {"name": "Oljesjön", "text": "Oljesjön is a quiet body of water in Malmoe, inviting visitors for a short walk in the park.", "category": "natural", "coords": [13.017362, 55.631287]}, {"name": "Organiska dammen", "text": "Organiska dammen is a natural pond in Malmoe, perfect for observing local wildlife.", "category": "natural", "coords": [13.072577, 55.655611]}, {"name": "Sege damm", "text": "Sege damm is a small lake in Malmoe, providing a peaceful green space for visitors.", "category": "natural", "coords": [13.045125, 55.626546]}, {"name": "Nya Svandammen", "text": "Nya Svandammen is an idyllic pond in Malmoe, perfect for a relaxing outdoor break.", "category": "natural", "coords": [13.072547, 55.653575]}, {"name": "Stora dammen", "text": "Stora dammen is a prominent lake in Malmoe, perfect for a relaxing stroll through the park.", "category": "natural", "coords": [12.995423, 55.589546]}, {"name": "Teaterlekplatsen", "text": "Teaterlekplatsen is an imaginative playground in Malmoe where children can enjoy creative play.", "category": "family", "coords": [12.994437, 55.593619]}, {"name": "VR Malmö", "text": "VR Malmö offers exciting virtual reality experiences for an entertaining family outing.", "category": "family", "coords": [13.003253, 55.604349]}, {"name": "Spielplatz Norra", "text": "Spielplatz Norra is a nice spot in Malmoe for children to play and enjoy the fresh air.", "category": "family", "coords": [13.005407, 55.596001]}, {"name": "Sagolekplatsen", "text": "Sagolekplatsen is a fairytale-themed playground in Malmoe that sparks children's imaginations.", "category": "family", "coords": [12.99199, 55.600365]}, {"name": "Sollekplatsen", "text": "Sollekplatsen is a sunny playground in Malmoe, ideal for children to climb and play.", "category": "family", "coords": [12.980087, 55.615161]}, {"name": "Spirallekplatsen", "text": "Spirallekplatsen is an original playground in Malmoe with plenty of features to explore.", "category": "family", "coords": [12.998142, 55.595714]}, {"name": "Fiskelekplatsen", "text": "Fiskelekplatsen is a themed playground in Malmoe that brings a fishing-inspired world to life for kids.", "category": "family", "coords": [13.011169, 55.590408]}, {"name": "Djurlekplatsen", "text": "Djurlekplatsen is a popular playground in Malmoe where children can play in an animal-themed setting.", "category": "family", "coords": [13.04847, 55.610159]}, {"name": "Rörelselekplatsen", "text": "Rörelselekplatsen is a playground in Malmoe designed to encourage movement and physical activity.", "category": "family", "coords": [13.023146, 55.589032]}, {"name": "Göingeplan lekplatsen", "text": "Göingeplan lekplatsen is a great spot in Malmoe for children to play and have fun outdoors.", "category": "family", "coords": [13.018166, 55.590324]}, {"name": "Spindellekplatsen", "text": "Spindellekplatsen is an exciting playground in Malmoe featuring interesting climbing structures.", "category": "family", "coords": [12.987604, 55.591742]}, {"name": "Skogslekplatsen", "text": "Skogslekplatsen is a nature-inspired playground in Malmoe providing a forest-like environment for play.", "category": "family", "coords": [12.975302, 55.595852]}, {"name": "Torekovsplans Lekplats", "text": "Torekovsplans Lekplats is a lovely playground in Malmoe, ideal for children to play and explore.", "category": "family", "coords": [13.022535, 55.592553]}, {"name": "Ribban Green Golf", "text": "Ribban Green Golf provides a great miniature golf experience in Malmoe for the entire family.", "category": "family", "coords": [12.960745, 55.600047]}, {"name": "Leklunden", "text": "Leklunden is a playground in Malmoe, offering fun for families and children.", "category": "family", "coords": [13.001266, 55.583718]}]},
+    id: "city-malmo", "sights": {
+      "de": [
+            {
+                  "name": "Oscar Olsson-museet",
+                  "text": "Ein Museum in Malmö, das der Volkshochschulbewegung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.010343,
+                        55.582754
+                  ]
+            },
+            {
+                  "name": "Teknikens och sjöfartens hus",
+                  "text": "Ein Technik- und Seefahrtsmuseum in Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        12.982778,
+                        55.604833
+                  ]
+            },
+            {
+                  "name": "Länsresidenset Malmö",
+                  "text": "Ein historisches Residenzgebäude in Malmö.",
+                  "category": "castle",
+                  "coords": [
+                        13.001007,
+                        55.60692
+                  ]
+            },
+            {
+                  "name": "Ebbas hus",
+                  "text": "Ein kleines Museum, das das Leben in einem historischen Stadthaus zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.005777,
+                        55.605371
+                  ]
+            },
+            {
+                  "name": "Människan och Pegasus",
+                  "text": "Ein bekanntes Denkmal des Bildhauers Carl Milles in Malmö.",
+                  "category": "historical",
+                  "coords": [
+                        12.987098,
+                        55.601106
+                  ]
+            },
+            {
+                  "name": "Malmö Live Konserthus",
+                  "text": "Ein moderner Konzert- und Veranstaltungskomplex in Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        12.993645,
+                        55.607352
+                  ]
+            },
+            {
+                  "name": "Malmö Opera",
+                  "text": "Das Opernhaus von Malmö, bekannt für seine moderne Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        12.995702,
+                        55.596122
+                  ]
+            },
+            {
+                  "name": "Malmö konsthall",
+                  "text": "Einer der größten Ausstellungsorte für zeitgenössische Kunst in Europa.",
+                  "category": "cultural",
+                  "coords": [
+                        12.99924,
+                        55.59527
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Die älteste Kirche in Malmö, erbaut im Backsteingotik-Stil.",
+                  "category": "religious",
+                  "coords": [
+                        13.003318,
+                        55.606936
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Eine markante Jugendstilkirche in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.00175,
+                        55.594199
+                  ]
+            },
+            {
+                  "name": "Malmö synagoga",
+                  "text": "Ein architektonisch bedeutendes jüdisches Gotteshaus in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.010823,
+                        55.599534
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "Eine moderne christliche Kirche im Stadtteil Erikslust.",
+                  "category": "religious",
+                  "coords": [
+                        13.005633,
+                        55.578094
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "Eine lutherische Kirche im Stadtteil Rosengård.",
+                  "category": "religious",
+                  "coords": [
+                        13.01216,
+                        55.588475
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "Ein religiöses Gebäude und eine Kirchengemeinde in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.021336,
+                        55.589021
+                  ]
+            },
+            {
+                  "name": "Fiskehoddorna",
+                  "text": "Traditionelle Fischerhütten, die heute als Fischmarkt dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983794,
+                        55.605212
+                  ]
+            },
+            {
+                  "name": "Klaffbron",
+                  "text": "Eine historische Klappbrücke im Hafen von Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.993716,
+                        55.612593
+                  ]
+            },
+            {
+                  "name": "Universitetsbron",
+                  "text": "Eine markante Brücke, die das Universitätsviertel verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996274,
+                        55.612316
+                  ]
+            },
+            {
+                  "name": "Pildammspark",
+                  "text": "Ein großer Stadtpark in Malmö mit Teichen und Waldgebieten.",
+                  "category": "park",
+                  "coords": [
+                        12.992064,
+                        55.590623
+                  ]
+            },
+            {
+                  "name": "Rörsjöparken",
+                  "text": "Ein zentraler Park in Malmö, bekannt für seine Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        13.017778,
+                        55.605077
+                  ]
+            },
+            {
+                  "name": "Schlosspark",
+                  "text": "Ein weitläufiger Park direkt neben der Burg Malmöhus.",
+                  "category": "park",
+                  "coords": [
+                        12.988699,
+                        55.601464
+                  ]
+            },
+            {
+                  "name": "Gerlachs park",
+                  "text": "Eine öffentliche Grünanlage im Osten von Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.032087,
+                        55.608594
+                  ]
+            },
+            {
+                  "name": "Garnisonsplanteringen",
+                  "text": "Ein kleiner Park mit historischem Hintergrund in Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.034062,
+                        55.608401
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "Ein öffentliches Schwimmbad und Wasserpark in Malmö.",
+                  "category": "family",
+                  "coords": [
+                        12.992406,
+                        55.599216
+                  ]
+            },
+            {
+                  "name": "Teatermuseet",
+                  "text": "Ein Museum, das der Geschichte des Theaters in Malmö gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.002747,
+                        55.60594
+                  ]
+            },
+            {
+                  "name": "Victoriateatern",
+                  "text": "Ein historisches Kino und Theater im Zentrum von Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        13.00124,
+                        55.599199
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "Ein bekannter Veranstaltungsort für Konzerte und Filme.",
+                  "category": "cultural",
+                  "coords": [
+                        13.001061,
+                        55.6041
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "Ein christliches Gotteshaus in der Stadt Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986127,
+                        55.596806
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Eine markante rote Backsteinkirche in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.014382,
+                        55.603017
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "Ein religiöses Gebäude und Gebetsort in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.971279,
+                        55.599213
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "Eine Kirche in Malmö, die historisch mit der deutschen Gemeinde verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.963147,
+                        55.596043
+                  ]
+            },
+            {
+                  "name": "Kirsebergs kyrka",
+                  "text": "Eine lokale Kirche im Stadtteil Kirseberg.",
+                  "category": "religious",
+                  "coords": [
+                        13.041322,
+                        55.608853
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "Ein Gotteshaus der Immanuel-Gemeinde in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986865,
+                        55.593891
+                  ]
+            },
+            {
+                  "name": "Det Skandinaviska Wakf i Sverige",
+                  "text": "Ein islamisches Gemeindezentrum und Gebetsort in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.039684,
+                        55.594263
+                  ]
+            },
+            {
+                  "name": "Malmö vågbrytarbank",
+                  "text": "Ein Leuchtturm, der die Hafeneinfahrt von Malmö markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.976219,
+                        55.624896
+                  ]
+            },
+            {
+                  "name": "Slottsmöllan",
+                  "text": "Eine historische Windmühle in der Nähe der Burg Malmöhus.",
+                  "category": "landmark",
+                  "coords": [
+                        12.986052,
+                        55.603086
+                  ]
+            },
+            {
+                  "name": "Petribron",
+                  "text": "Eine Fußgängerbrücke in der Stadt Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002026,
+                        55.608479
+                  ]
+            },
+            {
+                  "name": "Älvsborgsbron",
+                  "text": "Eine Brückenkonstruktion in Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996093,
+                        55.607306
+                  ]
+            },
+            {
+                  "name": "Folkets park",
+                  "text": "Einer der ältesten Vergnügungsparks Schwedens.",
+                  "category": "park",
+                  "coords": [
+                        13.013807,
+                        55.59348
+                  ]
+            },
+            {
+                  "name": "Jesusparken",
+                  "text": "Ein kleiner lokaler Park, informell als Jesusparken bekannt.",
+                  "category": "park",
+                  "coords": [
+                        13.015232,
+                        55.590411
+                  ]
+            },
+            {
+                  "name": "Scaniaparken",
+                  "text": "Ein moderner Küstenpark mit Blick auf den Öresund.",
+                  "category": "park",
+                  "coords": [
+                        12.976788,
+                        55.617678
+                  ]
+            },
+            {
+                  "name": "Cronheimsparken",
+                  "text": "Eine städtische Grünanlage in Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.045258,
+                        55.590017
+                  ]
+            },
+            {
+                  "name": "Rönneholmsparken",
+                  "text": "Ein Park in einem Wohngebiet von Malmö.",
+                  "category": "park",
+                  "coords": [
+                        12.975995,
+                        55.594949
+                  ]
+            },
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "Ein beliebter Sandstrand mit Badehäusern in Malmö.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            },
+            {
+                  "name": "Malmö Museer Slottsholmen",
+                  "text": "Der Hauptteil der Museen von Malmö in der historischen Burg.",
+                  "category": "museum",
+                  "coords": [
+                        12.986984,
+                        55.604751
+                  ]
+            },
+            {
+                  "name": "Form Design Center",
+                  "text": "Ein Zentrum für Architektur und Design in einem historischen Speicher.",
+                  "category": "museum",
+                  "coords": [
+                        12.999206,
+                        55.604503
+                  ]
+            },
+            {
+                  "name": "Monopoly Fanclub Sweden",
+                  "text": "Ein kleines Museum für Fans des Brettspiels Monopoly.",
+                  "category": "museum",
+                  "coords": [
+                        12.983748,
+                        55.589777
+                  ]
+            },
+            {
+                  "name": "Brandmuséet",
+                  "text": "Mitten in Malmö empfängt das Brandmuséet seine Besucher mit spannenden Einblicken in die Vergangenheit. Dieses schwedische Museum widmet sich voll und ganz der historischen Entwicklung der lokalen Feuerwehr. Gäste können historische Ausrüstungsgegenstände besichtigen und mehr über die Brandbekämpfung der Stadt erfahren.",
+                  "category": "museum",
+                  "coords": [
+                        13.008836,
+                        55.602402
+                  ]
+            },
+            {
+                  "name": "Moderna Museet",
+                  "text": "Ein Zweig des schwedischen Nationalmuseums für moderne Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        13.009567,
+                        55.604632
+                  ]
+            },
+            {
+                  "name": "Disgusting Food Museum",
+                  "text": "Ein Museum, das ungewöhnliche und ekelerregende Speisen aus aller Welt ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.00131,
+                        55.600897
+                  ]
+            },
+            {
+                  "name": "Molekyl Gallery",
+                  "text": "Wer sich für moderne Ausdrucksformen interessiert, sollte die Molekyl Gallery in Malmö aufsuchen. Diese schwedische Galerie fungiert als Ausstellungsort für zeitgenössische Kunst. Die Besucher erwarten hier abwechslungsreiche künstlerische Werke und inspirierende Präsentationen.",
+                  "category": "museum",
+                  "coords": [
+                        13.023898,
+                        55.595394
+                  ]
+            },
+            {
+                  "name": "Arkana",
+                  "text": "Ein Kunstraum in Malmö, der Ausstellungen zeitgenössischer Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.008339,
+                        55.593075
+                  ]
+            },
+            {
+                  "name": "Galleri Ann-Katrin Braf",
+                  "text": "Eine Galerie in Malmö, die auf Kunst und Design spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.989845,
+                        55.595586
+                  ]
+            },
+            {
+                  "name": "Galleri Lohme",
+                  "text": "Eine moderne Kunstgalerie in Malmö, die Werke schwedischer und internationaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.993424,
+                        55.597857
+                  ]
+            },
+            {
+                  "name": "Ateljéföreningen Sulfur",
+                  "text": "Ein Atelierverein in Malmö, der lokale Kunst und Kreativität fördert.",
+                  "category": "museum",
+                  "coords": [
+                        13.031216,
+                        55.598506
+                  ]
+            },
+            {
+                  "name": "Alta Art Space",
+                  "text": "Ein unabhängiger Kunstraum in Malmö für zeitgenössische Kunstpraktiken.",
+                  "category": "museum",
+                  "coords": [
+                        13.034825,
+                        55.599537
+                  ]
+            },
+            {
+                  "name": "FRANK",
+                  "text": "Ein interdisziplinärer Kunstraum in Malmö für Ausstellungen und Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        13.00777,
+                        55.589029
+                  ]
+            },
+            {
+                  "name": "Oljesjön",
+                  "text": "Oljesjön ist ein ruhiges Gewässer in Malmoe, das zu einem kurzen Spaziergang im Park einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        13.017362,
+                        55.631287
+                  ]
+            },
+            {
+                  "name": "Organiska dammen",
+                  "text": "Organiska dammen ist ein naturnaher Teich in Malmoe, ideal für Beobachtungen der Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        13.072577,
+                        55.655611
+                  ]
+            },
+            {
+                  "name": "Sege damm",
+                  "text": "Sege damm ist ein kleiner See in Malmoe, der eine friedliche Grünfläche für Besucher bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.045125,
+                        55.626546
+                  ]
+            },
+            {
+                  "name": "Nya Svandammen",
+                  "text": "Nya Svandammen ist ein idyllischer Teich in Malmoe, perfekt für eine entspannte Pause im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        13.072547,
+                        55.653575
+                  ]
+            },
+            {
+                  "name": "Stora dammen",
+                  "text": "Stora dammen ist ein markanter See in Malmoe, ideal für einen erholsamen Spaziergang im Park.",
+                  "category": "natural",
+                  "coords": [
+                        12.995423,
+                        55.589546
+                  ]
+            },
+            {
+                  "name": "Teaterlekplatsen",
+                  "text": "Teaterlekplatsen ist ein fantasievoller Spielplatz in Malmoe, auf dem Kinder in kreative Welten eintauchen können.",
+                  "category": "family",
+                  "coords": [
+                        12.994437,
+                        55.593619
+                  ]
+            },
+            {
+                  "name": "VR Malmö",
+                  "text": "VR Malmö bietet spannende Virtual-Reality-Erlebnisse für einen unterhaltsamen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        13.003253,
+                        55.604349
+                  ]
+            },
+            {
+                  "name": "Spielplatz Norra",
+                  "text": "Spielplatz Norra ist ein schöner Ort in Malmoe für Kinder zum Spielen und Austoben an der frischen Luft.",
+                  "category": "family",
+                  "coords": [
+                        13.005407,
+                        55.596001
+                  ]
+            },
+            {
+                  "name": "Sagolekplatsen",
+                  "text": "Sagolekplatsen ist ein märchenhafter Spielplatz in Malmoe, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        12.99199,
+                        55.600365
+                  ]
+            },
+            {
+                  "name": "Sollekplatsen",
+                  "text": "Sollekplatsen ist ein sonniger Spielplatz in Malmoe, ideal für Kinder zum Klettern und Spielen.",
+                  "category": "family",
+                  "coords": [
+                        12.980087,
+                        55.615161
+                  ]
+            },
+            {
+                  "name": "Spirallekplatsen",
+                  "text": "Spirallekplatsen ist ein origineller Spielplatz in Malmoe mit vielen Möglichkeiten zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        12.998142,
+                        55.595714
+                  ]
+            },
+            {
+                  "name": "Fiskelekplatsen",
+                  "text": "Fiskelekplatsen ist ein thematischer Spielplatz in Malmoe, der Kindern spielerisch das Thema Fischen näherbringt.",
+                  "category": "family",
+                  "coords": [
+                        13.011169,
+                        55.590408
+                  ]
+            },
+            {
+                  "name": "Djurlekplatsen",
+                  "text": "Djurlekplatsen ist ein beliebter Spielplatz in Malmoe, auf dem Kinder in einer tierreichen Umgebung spielen können.",
+                  "category": "family",
+                  "coords": [
+                        13.04847,
+                        55.610159
+                  ]
+            },
+            {
+                  "name": "Rörelselekplatsen",
+                  "text": "Rörelselekplatsen ist ein Spielplatz in Malmoe, der Kinder zu viel Bewegung und Aktivität motiviert.",
+                  "category": "family",
+                  "coords": [
+                        13.023146,
+                        55.589032
+                  ]
+            },
+            {
+                  "name": "Göingeplan lekplatsen",
+                  "text": "Göingeplan lekplatsen ist ein toller Ort in Malmoe für Kinder zum Spielen und Spaßhaben.",
+                  "category": "family",
+                  "coords": [
+                        13.018166,
+                        55.590324
+                  ]
+            },
+            {
+                  "name": "Spindellekplatsen",
+                  "text": "Spindellekplatsen ist ein spannender Spielplatz in Malmoe mit interessanten Klettermöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        12.987604,
+                        55.591742
+                  ]
+            },
+            {
+                  "name": "Skogslekplatsen",
+                  "text": "Skogslekplatsen ist ein naturnaher Spielplatz in Malmoe, der eine waldähnliche Spielumgebung bietet.",
+                  "category": "family",
+                  "coords": [
+                        12.975302,
+                        55.595852
+                  ]
+            },
+            {
+                  "name": "Torekovsplans Lekplats",
+                  "text": "Torekovsplans Lekplats ist ein schöner Spielplatz in Malmoe, ideal für kleine Entdecker zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        13.022535,
+                        55.592553
+                  ]
+            },
+            {
+                  "name": "Ribban Green Golf",
+                  "text": "Ribban Green Golf bietet eine großartige Minigolf-Erfahrung in Malmoe für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        12.960745,
+                        55.600047
+                  ]
+            },
+            {
+                  "name": "Leklunden",
+                  "text": "Leklunden ist ein Spielplatz in Malmoe, der Spaß für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.001266,
+                        55.583718
+                  ]
+            },
+            {
+                  "name": "Prison Island",
+                  "text": "Diese familienfreundliche Attraktion in Malmoe bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        13.02004,
+                        55.60688
+                  ]
+            },
+            {
+                  "name": "Reptilcenter",
+                  "text": "Diese familienfreundliche Attraktion in Malmoe bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        13.013222,
+                        55.594418
+                  ]
+            },
+            {
+                  "name": "Naturum Öresund",
+                  "text": "Diese familienfreundliche Attraktion in Malmoe bietet verschiedene Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        12.947465,
+                        55.598178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oscar Olsson-museet",
+                  "text": "A népfőiskolai mozgalomnak szentelt múzeum Malmőben.",
+                  "category": "museum",
+                  "coords": [
+                        13.010343,
+                        55.582754
+                  ]
+            },
+            {
+                  "name": "Teknikens och sjöfartens hus",
+                  "text": "Műszaki és tengerészeti múzeum Malmőben.",
+                  "category": "museum",
+                  "coords": [
+                        12.982778,
+                        55.604833
+                  ]
+            },
+            {
+                  "name": "Länsresidenset Malmö",
+                  "text": "Történelmi rezidenciaépület Malmőben.",
+                  "category": "castle",
+                  "coords": [
+                        13.001007,
+                        55.60692
+                  ]
+            },
+            {
+                  "name": "Ebbas hus",
+                  "text": "Egy kis múzeum, amely az életet mutatja be egy történelmi városi házban.",
+                  "category": "museum",
+                  "coords": [
+                        13.005777,
+                        55.605371
+                  ]
+            },
+            {
+                  "name": "Människan och Pegasus",
+                  "text": "Carl Milles szobrászművész jól ismert emlékműve Malmőben.",
+                  "category": "historical",
+                  "coords": [
+                        12.987098,
+                        55.601106
+                  ]
+            },
+            {
+                  "name": "Malmö Live Konserthus",
+                  "text": "Modern koncert- és rendezvénykomplexum Malmőben.",
+                  "category": "cultural",
+                  "coords": [
+                        12.993645,
+                        55.607352
+                  ]
+            },
+            {
+                  "name": "Malmö Opera",
+                  "text": "Malmői operaház, amely modern építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        12.995702,
+                        55.596122
+                  ]
+            },
+            {
+                  "name": "Malmö konsthall",
+                  "text": "Európa egyik legnagyobb kortárs művészeti kiállítóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        12.99924,
+                        55.59527
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Malmö legrégebbi temploma, tégla-gótikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        13.003318,
+                        55.606936
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Jellegzetes szecessziós templom Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.00175,
+                        55.594199
+                  ]
+            },
+            {
+                  "name": "Malmö synagoga",
+                  "text": "Építészetileg jelentős zsidó imaház Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.010823,
+                        55.599534
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "Modern keresztény templom Erikslust negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        13.005633,
+                        55.578094
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "Evangélikus templom Rosengård negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        13.01216,
+                        55.588475
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "Vallási épület és egyházközség Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.021336,
+                        55.589021
+                  ]
+            },
+            {
+                  "name": "Fiskehoddorna",
+                  "text": "Hagyományos halászkunyhók, amelyek ma halkpiacként szolgálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983794,
+                        55.605212
+                  ]
+            },
+            {
+                  "name": "Klaffbron",
+                  "text": "Történelmi felnyitható híd Malmö kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.993716,
+                        55.612593
+                  ]
+            },
+            {
+                  "name": "Universitetsbron",
+                  "text": "Jellegzetes híd, amely az egyetemi negyedet köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996274,
+                        55.612316
+                  ]
+            },
+            {
+                  "name": "Pildammsparken",
+                  "text": "Nagy városi park Malmőben tavakkal és erdős területekkel.",
+                  "category": "park",
+                  "coords": [
+                        12.992064,
+                        55.590623
+                  ]
+            },
+            {
+                  "name": "Rörsjöparken",
+                  "text": "Központi park Malmőben, amely zöldfelületeiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        13.017778,
+                        55.605077
+                  ]
+            },
+            {
+                  "name": "Slottsparken",
+                  "text": "Kiterjedt park közvetlenül a Malmöhus vár mellett.",
+                  "category": "park",
+                  "coords": [
+                        12.988699,
+                        55.601464
+                  ]
+            },
+            {
+                  "name": "Gerlachs park",
+                  "text": "Nyilvános zöldterület Malmö keleti részén.",
+                  "category": "park",
+                  "coords": [
+                        13.032087,
+                        55.608594
+                  ]
+            },
+            {
+                  "name": "Garnisonsplanteringen",
+                  "text": "Történelmi hátterű kis park Malmőben.",
+                  "category": "park",
+                  "coords": [
+                        13.034062,
+                        55.608401
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "Nyilvános uszoda és vízipark Malmőben.",
+                  "category": "family",
+                  "coords": [
+                        12.992406,
+                        55.599216
+                  ]
+            },
+            {
+                  "name": "Teatermuseet",
+                  "text": "A malmői színházművészet történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.002747,
+                        55.60594
+                  ]
+            },
+            {
+                  "name": "Victoriateatern",
+                  "text": "Történelmi mozi és színház Malmö központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.00124,
+                        55.599199
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "Ismert koncertek és filmek helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        13.001061,
+                        55.6041
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "Keresztény imaház Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        12.986127,
+                        55.596806
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Jellegzetes vörös téglás templom Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.014382,
+                        55.603017
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "Vallási épület és imádkozóhely Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        12.971279,
+                        55.599213
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "Történelmileg a német közösséghez kötődő templom Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        12.963147,
+                        55.596043
+                  ]
+            },
+            {
+                  "name": "Kirsebergs kyrka",
+                  "text": "Helyi templom Kirseberg negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        13.041322,
+                        55.608853
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "Az Immánuel gyülekezet imaháza Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        12.986865,
+                        55.593891
+                  ]
+            },
+            {
+                  "name": "Det Skandinaviska Wakf i Sverige",
+                  "text": "Iszlám közösségi központ és imaház Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.039684,
+                        55.594263
+                  ]
+            },
+            {
+                  "name": "Malmö vågbrytarbank",
+                  "text": "A malmői kikötő bejáratát jelző világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        12.976219,
+                        55.624896
+                  ]
+            },
+            {
+                  "name": "Slottsmöllan",
+                  "text": "Történelmi szélmalom a Malmöhus vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.986052,
+                        55.603086
+                  ]
+            },
+            {
+                  "name": "Petribron",
+                  "text": "Gyalogoshíd Malmőben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002026,
+                        55.608479
+                  ]
+            },
+            {
+                  "name": "Älvsborgsbron",
+                  "text": "Hídszerkezet Malmőben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996093,
+                        55.607306
+                  ]
+            },
+            {
+                  "name": "Folkets park",
+                  "text": "Svédország egyik legrégebbi vidámparkja.",
+                  "category": "park",
+                  "coords": [
+                        13.013807,
+                        55.59348
+                  ]
+            },
+            {
+                  "name": "Jesusparken",
+                  "text": "Kicsi helyi park, amelyet informálisan Jesusparken néven ismernek.",
+                  "category": "park",
+                  "coords": [
+                        13.015232,
+                        55.590411
+                  ]
+            },
+            {
+                  "name": "Scaniaparken",
+                  "text": "Modern tengerparti park kilátással az Öresundre.",
+                  "category": "park",
+                  "coords": [
+                        12.976788,
+                        55.617678
+                  ]
+            },
+            {
+                  "name": "Cronheimsparken",
+                  "text": "Városi zöldterület Malmőben.",
+                  "category": "park",
+                  "coords": [
+                        13.045258,
+                        55.590017
+                  ]
+            },
+            {
+                  "name": "Rönneholmsparken",
+                  "text": "Park Malmö egyik lakóövezetében.",
+                  "category": "park",
+                  "coords": [
+                        12.975995,
+                        55.594949
+                  ]
+            },
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "Népszerű homokos strand fürdőházakkal Malmőben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            },
+            {
+                  "name": "Malmö Museer Slottsholmen",
+                  "text": "A malmői múzeumok fő része a történelmi várban.",
+                  "category": "museum",
+                  "coords": [
+                        12.986984,
+                        55.604751
+                  ]
+            },
+            {
+                  "name": "Form Design Center",
+                  "text": "Építészeti és design központ egy történelmi raktárban.",
+                  "category": "museum",
+                  "coords": [
+                        12.999206,
+                        55.604503
+                  ]
+            },
+            {
+                  "name": "Monopoly Fanclub Sweden",
+                  "text": "Egy kis múzeum a Monopoly társasjáték kedvelőinek.",
+                  "category": "museum",
+                  "coords": [
+                        12.983748,
+                        55.589777
+                  ]
+            },
+            {
+                  "name": "Brandmuséet",
+                  "text": "A Brandmuséet egy különleges múzeum a svédországi Malmö városában. Az intézmény a helyi tűzoltóság izgalmas történetét mutatja be a látogatóknak. Az érdeklődők régi tűzoltó felszereléseket és a tűzoltás múltjához kapcsolódó emlékeket tekinthetnek meg.",
+                  "category": "museum",
+                  "coords": [
+                        13.008836,
+                        55.602402
+                  ]
+            },
+            {
+                  "name": "Moderna Museet",
+                  "text": "A svéd nemzeti modern művészeti múzeum egyik ága.",
+                  "category": "museum",
+                  "coords": [
+                        13.009567,
+                        55.604632
+                  ]
+            },
+            {
+                  "name": "Disgusting Food Museum",
+                  "text": "Szokatlan és gusztustalan ételeket bemutató múzeum a világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        13.00131,
+                        55.600897
+                  ]
+            },
+            {
+                  "name": "Molekyl Gallery",
+                  "text": "A Molekyl Gallery egy modern galéria, amely a svédországi Malmöben várja a művészetkedvelőket. Ez a kortárs művészeti tér különféle alkotásokat és modern vizuális projekteket mutat be. A látogatók változatos kiállításokon keresztül ismerkedhetnek meg az aktuális művészeti trendekkel.",
+                  "category": "museum",
+                  "coords": [
+                        13.023898,
+                        55.595394
+                  ]
+            },
+            {
+                  "name": "Arkana",
+                  "text": "Művészeti tér Malmőben, ahol kortárs kiállításokat rendeznek.",
+                  "category": "museum",
+                  "coords": [
+                        13.008339,
+                        55.593075
+                  ]
+            },
+            {
+                  "name": "Galleri Ann-Katrin Braf",
+                  "text": "Művészeti és design galéria Malmőben.",
+                  "category": "museum",
+                  "coords": [
+                        12.989845,
+                        55.595586
+                  ]
+            },
+            {
+                  "name": "Galleri Lohme",
+                  "text": "Modern művészeti galéria Malmőben, amely svéd és nemzetközi művészek munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.993424,
+                        55.597857
+                  ]
+            },
+            {
+                  "name": "Ateljéföreningen Sulfur",
+                  "text": "Műtermi egyesület Malmőben, amely a helyi művészetet és kreativitást támogatja.",
+                  "category": "museum",
+                  "coords": [
+                        13.031216,
+                        55.598506
+                  ]
+            },
+            {
+                  "name": "Alta Art Space",
+                  "text": "Független művészeti tér Malmőben a kortárs művészeti gyakorlatok számára.",
+                  "category": "museum",
+                  "coords": [
+                        13.034825,
+                        55.599537
+                  ]
+            },
+            {
+                  "name": "FRANK",
+                  "text": "Interdiszciplináris művészeti tér Malmőben kiállítások és események számára.",
+                  "category": "museum",
+                  "coords": [
+                        13.00777,
+                        55.589029
+                  ]
+            },
+            {
+                  "name": "Oljesjön",
+                  "text": "Az Oljesjön egy nyugodt vízfelület Malmoe városában, amely egy rövid parki sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        13.017362,
+                        55.631287
+                  ]
+            },
+            {
+                  "name": "Organiska dammen",
+                  "text": "Az Organiska dammen egy természetközeli tó Malmoe területén, amely ideális az élővilág megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.072577,
+                        55.655611
+                  ]
+            },
+            {
+                  "name": "Sege damm",
+                  "text": "A Sege damm egy kis tó Malmoe városában, amely békés zöldterületet kínál a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        13.045125,
+                        55.626546
+                  ]
+            },
+            {
+                  "name": "Nya Svandammen",
+                  "text": "A Nya Svandammen egy idilli tó Malmoe területén, amely tökéletes egy pihentető szabadtéri szünethez.",
+                  "category": "natural",
+                  "coords": [
+                        13.072547,
+                        55.653575
+                  ]
+            },
+            {
+                  "name": "Stora dammen",
+                  "text": "A Stora dammen egy jellegzetes tó Malmoe városában, amely ideális egy pihentető parki sétához.",
+                  "category": "natural",
+                  "coords": [
+                        12.995423,
+                        55.589546
+                  ]
+            },
+            {
+                  "name": "Teaterlekplatsen",
+                  "text": "A Teaterlekplatsen egy ötletes játszótér Malmoe városában, ahol a gyerekek kreatív játékokat játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        12.994437,
+                        55.593619
+                  ]
+            },
+            {
+                  "name": "VR Malmö",
+                  "text": "A VR Malmö izgalmas virtuális valóság élményeket kínál egy szórakoztató családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.003253,
+                        55.604349
+                  ]
+            },
+            {
+                  "name": "Spielplatz Norra",
+                  "text": "A Spielplatz Norra egy remek hely Malmoe városában a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.005407,
+                        55.596001
+                  ]
+            },
+            {
+                  "name": "Sagolekplatsen",
+                  "text": "A Sagolekplatsen egy mesebeli játszótér Malmoe városában, amely megmozgatja a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        12.99199,
+                        55.600365
+                  ]
+            },
+            {
+                  "name": "Sollekplatsen",
+                  "text": "A Sollekplatsen egy napfényes játszótér Malmoe területén, amely ideális mászásra és játékra.",
+                  "category": "family",
+                  "coords": [
+                        12.980087,
+                        55.615161
+                  ]
+            },
+            {
+                  "name": "Spirallekplatsen",
+                  "text": "A Spirallekplatsen egy eredeti játszótér Malmoe városában, amely sok felfedeznivalót kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.998142,
+                        55.595714
+                  ]
+            },
+            {
+                  "name": "Fiskelekplatsen",
+                  "text": "A Fiskelekplatsen egy tematikus játszótér Malmoe területén, amely a horgászat világát idézi meg.",
+                  "category": "family",
+                  "coords": [
+                        13.011169,
+                        55.590408
+                  ]
+            },
+            {
+                  "name": "Djurlekplatsen",
+                  "text": "A Djurlekplatsen egy népszerű játszótér Malmoe városában, ahol a gyerekek állatos környezetben játszhatnak.",
+                  "category": "family",
+                  "coords": [
+                        13.04847,
+                        55.610159
+                  ]
+            },
+            {
+                  "name": "Rörelselekplatsen",
+                  "text": "A Rörelselekplatsen egy játszótér Malmoe területén, amely mozgásra és aktivitásra ösztönzi a gyerekeket.",
+                  "category": "family",
+                  "coords": [
+                        13.023146,
+                        55.589032
+                  ]
+            },
+            {
+                  "name": "Göingeplan lekplatsen",
+                  "text": "A Göingeplan lekplatsen egy nagyszerű hely Malmoe városában a gyerekek számára a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        13.018166,
+                        55.590324
+                  ]
+            },
+            {
+                  "name": "Spindellekplatsen",
+                  "text": "A Spindellekplatsen egy izgalmas játszótér Malmoe területén, érdekes mászási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        12.987604,
+                        55.591742
+                  ]
+            },
+            {
+                  "name": "Skogslekplatsen",
+                  "text": "A Skogslekplatsen egy természetközeli játszótér Malmoe városában, erdei hangulatú játéktérrel.",
+                  "category": "family",
+                  "coords": [
+                        12.975302,
+                        55.595852
+                  ]
+            },
+            {
+                  "name": "Torekovsplans Lekplats",
+                  "text": "A Torekovsplans Lekplats egy kedves játszótér Malmoe városában, amely ideális a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.022535,
+                        55.592553
+                  ]
+            },
+            {
+                  "name": "Ribban Green Golf",
+                  "text": "A Ribban Green Golf nagyszerű minigolf-élményt kínál Malmoe városában az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        12.960745,
+                        55.600047
+                  ]
+            },
+            {
+                  "name": "Leklunden",
+                  "text": "A Leklunden egy játszótér Malmoe városában, amely szórakozást kínál a családoknak és a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        13.001266,
+                        55.583718
+                  ]
+            },
+            {
+                  "name": "Prison Island",
+                  "text": "Ez a családbarát látványosság Malmoe városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        13.02004,
+                        55.60688
+                  ]
+            },
+            {
+                  "name": "Reptilcenter",
+                  "text": "Ez a családbarát látványosság Malmoe városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        13.013222,
+                        55.594418
+                  ]
+            },
+            {
+                  "name": "Naturum Öresund",
+                  "text": "Ez a családbarát látványosság Malmoe városában különféle tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        12.947465,
+                        55.598178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oscar Olsson-museet",
+                  "text": "Un muzeu din Malmö dedicat mișcării educației populare.",
+                  "category": "museum",
+                  "coords": [
+                        13.010343,
+                        55.582754
+                  ]
+            },
+            {
+                  "name": "Teknikens och sjöfartens hus",
+                  "text": "Un muzeu al tehnicii și maritim din Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        12.982778,
+                        55.604833
+                  ]
+            },
+            {
+                  "name": "Länsresidenset Malmö",
+                  "text": "O clădire istorică de reședință din Malmö.",
+                  "category": "castle",
+                  "coords": [
+                        13.001007,
+                        55.60692
+                  ]
+            },
+            {
+                  "name": "Ebbas hus",
+                  "text": "Un mic muzeu care prezintă viața într-o casă istorică de oraș.",
+                  "category": "museum",
+                  "coords": [
+                        13.005777,
+                        55.605371
+                  ]
+            },
+            {
+                  "name": "Människan och Pegasus",
+                  "text": "Un monument cunoscut al sculptorului Carl Milles din Malmö.",
+                  "category": "historical",
+                  "coords": [
+                        12.987098,
+                        55.601106
+                  ]
+            },
+            {
+                  "name": "Malmö Live Konserthus",
+                  "text": "Un complex modern de concerte și evenimente din Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        12.993645,
+                        55.607352
+                  ]
+            },
+            {
+                  "name": "Malmö Opera",
+                  "text": "Opera din Malmö, cunoscută pentru arhitectura sa modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        12.995702,
+                        55.596122
+                  ]
+            },
+            {
+                  "name": "Malmö konsthall",
+                  "text": "Unul dintre cele mai mari spații de expoziție pentru artă contemporană din Europa.",
+                  "category": "cultural",
+                  "coords": [
+                        12.99924,
+                        55.59527
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Cea mai veche biserică din Malmö, construită în stil gotic din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        13.003318,
+                        55.606936
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "O biserică proeminentă în stil Jugendstil din Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.00175,
+                        55.594199
+                  ]
+            },
+            {
+                  "name": "Malmö synagoga",
+                  "text": "Un lăcaș de cult evreiesc semnificativ din punct de vedere arhitectural în Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.010823,
+                        55.599534
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "O biserică creștină modernă în cartierul Erikslust.",
+                  "category": "religious",
+                  "coords": [
+                        13.005633,
+                        55.578094
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "O biserică luterană în cartierul Rosengård.",
+                  "category": "religious",
+                  "coords": [
+                        13.01216,
+                        55.588475
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "O clădire religioasă și parohie în Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.021336,
+                        55.589021
+                  ]
+            },
+            {
+                  "name": "Fiskehoddorna",
+                  "text": "Colibe tradiționale de pescari care servesc astăzi drept piață de pește.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983794,
+                        55.605212
+                  ]
+            },
+            {
+                  "name": "Klaffbron",
+                  "text": "Un pod basculant istoric în portul Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.993716,
+                        55.612593
+                  ]
+            },
+            {
+                  "name": "Universitetsbron",
+                  "text": "Un pod proeminent care conectează zona universitară.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996274,
+                        55.612316
+                  ]
+            },
+            {
+                  "name": "Pildammsparken",
+                  "text": "Un parc orășenesc mare din Malmö, cu iazuri și zone împădurite.",
+                  "category": "park",
+                  "coords": [
+                        12.992064,
+                        55.590623
+                  ]
+            },
+            {
+                  "name": "Rörsjöparken",
+                  "text": "Un parc central din Malmö, cunoscut pentru spațiile sale verzi.",
+                  "category": "park",
+                  "coords": [
+                        13.017778,
+                        55.605077
+                  ]
+            },
+            {
+                  "name": "Slottsparken",
+                  "text": "Un parc vast situat chiar lângă castelul Malmöhus.",
+                  "category": "park",
+                  "coords": [
+                        12.988699,
+                        55.601464
+                  ]
+            },
+            {
+                  "name": "Gerlachs park",
+                  "text": "O zonă verde publică în estul orașului Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.032087,
+                        55.608594
+                  ]
+            },
+            {
+                  "name": "Garnisonsplanteringen",
+                  "text": "Un parc mic cu fundal istoric din Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.034062,
+                        55.608401
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "O piscină publică și parc acvatic în Malmö.",
+                  "category": "family",
+                  "coords": [
+                        12.992406,
+                        55.599216
+                  ]
+            },
+            {
+                  "name": "Teatermuseet",
+                  "text": "Un muzeu dedicat istoriei teatrului din Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        13.002747,
+                        55.60594
+                  ]
+            },
+            {
+                  "name": "Victoriateatern",
+                  "text": "Un cinematograf și teatru istoric din centrul orașului Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        13.00124,
+                        55.599199
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "O locație cunoscută pentru concerte și filme.",
+                  "category": "cultural",
+                  "coords": [
+                        13.001061,
+                        55.6041
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "Un lăcaș de cult creștin din orașul Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986127,
+                        55.596806
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "O biserică proeminentă din cărămidă roșie din Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.014382,
+                        55.603017
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "O clădire religioasă și loc de rugăciune în Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.971279,
+                        55.599213
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "O biserică din Malmö legată istoric de comunitatea germană.",
+                  "category": "religious",
+                  "coords": [
+                        12.963147,
+                        55.596043
+                  ]
+            },
+            {
+                  "name": "Kirsebergs kyrka",
+                  "text": "O biserică locală în cartierul Kirseberg.",
+                  "category": "religious",
+                  "coords": [
+                        13.041322,
+                        55.608853
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "Un lăcaș de cult al comunității Immanuel din Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986865,
+                        55.593891
+                  ]
+            },
+            {
+                  "name": "Det Skandinaviska Wakf i Sverige",
+                  "text": "Un centru comunitar islamic și loc de rugăciune în Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.039684,
+                        55.594263
+                  ]
+            },
+            {
+                  "name": "Malmö vågbrytarbank",
+                  "text": "Un far care marchează intrarea în portul Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.976219,
+                        55.624896
+                  ]
+            },
+            {
+                  "name": "Slottsmöllan",
+                  "text": "O moară de vânt istorică situată lângă castelul Malmöhus.",
+                  "category": "landmark",
+                  "coords": [
+                        12.986052,
+                        55.603086
+                  ]
+            },
+            {
+                  "name": "Petribron",
+                  "text": "Un pod pietonal în orașul Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002026,
+                        55.608479
+                  ]
+            },
+            {
+                  "name": "Älvsborgsbron",
+                  "text": "O structură de pod în Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996093,
+                        55.607306
+                  ]
+            },
+            {
+                  "name": "Folkets park",
+                  "text": "Unul dintre cele mai vechi parcuri de distracții din Suedia.",
+                  "category": "park",
+                  "coords": [
+                        13.013807,
+                        55.59348
+                  ]
+            },
+            {
+                  "name": "Jesusparken",
+                  "text": "Un parc local mic, cunoscut informal sub numele de Jesusparken.",
+                  "category": "park",
+                  "coords": [
+                        13.015232,
+                        55.590411
+                  ]
+            },
+            {
+                  "name": "Scaniaparken",
+                  "text": "Un parc de coastă modern cu vedere la Öresund.",
+                  "category": "park",
+                  "coords": [
+                        12.976788,
+                        55.617678
+                  ]
+            },
+            {
+                  "name": "Cronheimsparken",
+                  "text": "O zonă verde urbană în Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.045258,
+                        55.590017
+                  ]
+            },
+            {
+                  "name": "Rönneholmsparken",
+                  "text": "Un parc într-o zonă rezidențială din Malmö.",
+                  "category": "park",
+                  "coords": [
+                        12.975995,
+                        55.594949
+                  ]
+            },
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "O plajă de nisip populară cu cabine de baie în Malmö.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            },
+            {
+                  "name": "Malmö Museer Slottsholmen",
+                  "text": "Partea principală a muzeelor din Malmö situată în castelul istoric.",
+                  "category": "museum",
+                  "coords": [
+                        12.986984,
+                        55.604751
+                  ]
+            },
+            {
+                  "name": "Form Design Center",
+                  "text": "Un centru pentru arhitectură și design într-un depozit istoric.",
+                  "category": "museum",
+                  "coords": [
+                        12.999206,
+                        55.604503
+                  ]
+            },
+            {
+                  "name": "Monopoly Fanclub Sweden",
+                  "text": "Un mic muzeu pentru fanii jocului de societate Monopoly.",
+                  "category": "museum",
+                  "coords": [
+                        12.983748,
+                        55.589777
+                  ]
+            },
+            {
+                  "name": "Brandmuséet",
+                  "text": "Brandmuséet este un muzeu interesant situat în orașul suedez Malmö. Aici, vizitatorilor li se prezintă istoria captivantă a serviciului de pompieri din localitate. Cei care îi trec pragul vor putea vedea echipamente vechi și vor afla cum a evoluat combaterea incendiilor în oraș.",
+                  "category": "museum",
+                  "coords": [
+                        13.008836,
+                        55.602402
+                  ]
+            },
+            {
+                  "name": "Moderna Museet",
+                  "text": "O filială a muzeului național suedez de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        13.009567,
+                        55.604632
+                  ]
+            },
+            {
+                  "name": "Disgusting Food Museum",
+                  "text": "Un muzeu care expune mâncăruri neobișnuite și dezgustătoare din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        13.00131,
+                        55.600897
+                  ]
+            },
+            {
+                  "name": "Molekyl Gallery",
+                  "text": "Molekyl Gallery reprezintă un spațiu expozițional dedicat artei contemporane din Malmö, Suedia. Această galerie găzduiește și prezintă publicului o multitudine de lucrări artistice moderne. Vizitatorii vor avea parte de expoziții variate, menite să evidențieze tendințele actuale din lumea artei.",
+                  "category": "museum",
+                  "coords": [
+                        13.023898,
+                        55.595394
+                  ]
+            },
+            {
+                  "name": "Arkana",
+                  "text": "Un spațiu de artă din Malmö care găzduiește expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        13.008339,
+                        55.593075
+                  ]
+            },
+            {
+                  "name": "Galleri Ann-Katrin Braf",
+                  "text": "O galerie din Malmö specializată în artă și design.",
+                  "category": "museum",
+                  "coords": [
+                        12.989845,
+                        55.595586
+                  ]
+            },
+            {
+                  "name": "Galleri Lohme",
+                  "text": "O galerie de artă modernă din Malmö care expune lucrări ale artiștilor suedezi și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        12.993424,
+                        55.597857
+                  ]
+            },
+            {
+                  "name": "Ateljéföreningen Sulfur",
+                  "text": "O asociație de ateliere din Malmö care promovează arta și creativitatea locală.",
+                  "category": "museum",
+                  "coords": [
+                        13.031216,
+                        55.598506
+                  ]
+            },
+            {
+                  "name": "Alta Art Space",
+                  "text": "Un spațiu de artă independent din Malmö pentru practici artistice contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        13.034825,
+                        55.599537
+                  ]
+            },
+            {
+                  "name": "FRANK",
+                  "text": "Un spațiu de artă interdisciplinar din Malmö pentru expoziții și evenimente.",
+                  "category": "museum",
+                  "coords": [
+                        13.00777,
+                        55.589029
+                  ]
+            },
+            {
+                  "name": "Oljesjön",
+                  "text": "Oljesjön este o zonă de apă liniștită în Malmoe, care invită la o scurtă plimbare în parc.",
+                  "category": "natural",
+                  "coords": [
+                        13.017362,
+                        55.631287
+                  ]
+            },
+            {
+                  "name": "Organiska dammen",
+                  "text": "Organiska dammen este un iaz natural în Malmoe, ideal pentru observarea faunei.",
+                  "category": "natural",
+                  "coords": [
+                        13.072577,
+                        55.655611
+                  ]
+            },
+            {
+                  "name": "Sege damm",
+                  "text": "Sege damm este un lac mic în Malmoe, care oferă un spațiu verde liniștit vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        13.045125,
+                        55.626546
+                  ]
+            },
+            {
+                  "name": "Nya Svandammen",
+                  "text": "Nya Svandammen este un iaz idilic în Malmoe, perfect pentru o pauză relaxantă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        13.072547,
+                        55.653575
+                  ]
+            },
+            {
+                  "name": "Stora dammen",
+                  "text": "Stora dammen este un lac remarcabil în Malmoe, ideal pentru o plimbare relaxantă în parc.",
+                  "category": "natural",
+                  "coords": [
+                        12.995423,
+                        55.589546
+                  ]
+            },
+            {
+                  "name": "Teaterlekplatsen",
+                  "text": "Teaterlekplatsen este un loc de joacă plin de imaginație în Malmoe, unde copiii pot intra în lumi creative.",
+                  "category": "family",
+                  "coords": [
+                        12.994437,
+                        55.593619
+                  ]
+            },
+            {
+                  "name": "VR Malmö",
+                  "text": "VR Malmö oferă experiențe palpitante de realitate virtuală pentru o ieșire distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        13.003253,
+                        55.604349
+                  ]
+            },
+            {
+                  "name": "Spielplatz Norra",
+                  "text": "Spielplatz Norra este un loc frumos în Malmoe unde copiii se pot juca și alerga în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        13.005407,
+                        55.596001
+                  ]
+            },
+            {
+                  "name": "Sagolekplatsen",
+                  "text": "Sagolekplatsen este un loc de joacă de basm în Malmoe, care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        12.99199,
+                        55.600365
+                  ]
+            },
+            {
+                  "name": "Sollekplatsen",
+                  "text": "Sollekplatsen este un loc de joacă însorit în Malmoe, ideal pentru copii să se cațere și să se joace.",
+                  "category": "family",
+                  "coords": [
+                        12.980087,
+                        55.615161
+                  ]
+            },
+            {
+                  "name": "Spirallekplatsen",
+                  "text": "Spirallekplatsen este un loc de joacă original în Malmoe, cu multe oportunități de explorare.",
+                  "category": "family",
+                  "coords": [
+                        12.998142,
+                        55.595714
+                  ]
+            },
+            {
+                  "name": "Fiskelekplatsen",
+                  "text": "Fiskelekplatsen este un loc de joacă tematic în Malmoe, care introduce copiii în lumea pescuitului.",
+                  "category": "family",
+                  "coords": [
+                        13.011169,
+                        55.590408
+                  ]
+            },
+            {
+                  "name": "Djurlekplatsen",
+                  "text": "Djurlekplatsen este un loc de joacă popular în Malmoe, unde copiii se pot juca într-un cadru cu tematică animală.",
+                  "category": "family",
+                  "coords": [
+                        13.04847,
+                        55.610159
+                  ]
+            },
+            {
+                  "name": "Rörelselekplatsen",
+                  "text": "Rörelselekplatsen este un loc de joacă în Malmoe care motivează copiii la multă mișcare și activitate.",
+                  "category": "family",
+                  "coords": [
+                        13.023146,
+                        55.589032
+                  ]
+            },
+            {
+                  "name": "Göingeplan lekplatsen",
+                  "text": "Göingeplan lekplatsen este un loc minunat în Malmoe unde copiii se pot juca și distra.",
+                  "category": "family",
+                  "coords": [
+                        13.018166,
+                        55.590324
+                  ]
+            },
+            {
+                  "name": "Spindellekplatsen",
+                  "text": "Spindellekplatsen este un loc de joacă palpitant în Malmoe, cu posibilități interesante de cățărare.",
+                  "category": "family",
+                  "coords": [
+                        12.987604,
+                        55.591742
+                  ]
+            },
+            {
+                  "name": "Skogslekplatsen",
+                  "text": "Skogslekplatsen este un loc de joacă natural în Malmoe, oferind un mediu de joacă asemănător pădurii.",
+                  "category": "family",
+                  "coords": [
+                        12.975302,
+                        55.595852
+                  ]
+            },
+            {
+                  "name": "Torekovsplans Lekplats",
+                  "text": "Torekovsplans Lekplats este un loc de joacă frumos în Malmoe, ideal pentru micii exploratori.",
+                  "category": "family",
+                  "coords": [
+                        13.022535,
+                        55.592553
+                  ]
+            },
+            {
+                  "name": "Ribban Green Golf",
+                  "text": "Ribban Green Golf oferă o experiență excelentă de minigolf în Malmoe pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        12.960745,
+                        55.600047
+                  ]
+            },
+            {
+                  "name": "Leklunden",
+                  "text": "Leklunden este un teren de joacă în Malmoe, oferind distracție pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        13.001266,
+                        55.583718
+                  ]
+            },
+            {
+                  "name": "Prison Island",
+                  "text": "Această atracție de familie din Malmoe oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        13.02004,
+                        55.60688
+                  ]
+            },
+            {
+                  "name": "Reptilcenter",
+                  "text": "Această atracție de familie din Malmoe oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        13.013222,
+                        55.594418
+                  ]
+            },
+            {
+                  "name": "Naturum Öresund",
+                  "text": "Această atracție de familie din Malmoe oferă diverse activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        12.947465,
+                        55.598178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oscar Olsson-museet",
+                  "text": "A museum in Malmö dedicated to the folk high school movement.",
+                  "category": "museum",
+                  "coords": [
+                        13.010343,
+                        55.582754
+                  ]
+            },
+            {
+                  "name": "Teknikens och sjöfartens hus",
+                  "text": "A science and maritime museum located in Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        12.982778,
+                        55.604833
+                  ]
+            },
+            {
+                  "name": "Länsresidenset Malmö",
+                  "text": "A historic residence building in Malmö.",
+                  "category": "castle",
+                  "coords": [
+                        13.001007,
+                        55.60692
+                  ]
+            },
+            {
+                  "name": "Ebbas hus",
+                  "text": "A small museum showcasing life in a historic town house.",
+                  "category": "museum",
+                  "coords": [
+                        13.005777,
+                        55.605371
+                  ]
+            },
+            {
+                  "name": "Människan och Pegasus",
+                  "text": "A well-known monument by sculptor Carl Milles in Malmö.",
+                  "category": "historical",
+                  "coords": [
+                        12.987098,
+                        55.601106
+                  ]
+            },
+            {
+                  "name": "Malmö Live Konserthus",
+                  "text": "A modern concert and event complex in Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        12.993645,
+                        55.607352
+                  ]
+            },
+            {
+                  "name": "Malmö Opera",
+                  "text": "Malmö's opera house, known for its modern architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        12.995702,
+                        55.596122
+                  ]
+            },
+            {
+                  "name": "Malmö konsthall",
+                  "text": "One of Europe's largest exhibition spaces for contemporary art.",
+                  "category": "cultural",
+                  "coords": [
+                        12.99924,
+                        55.59527
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "The oldest church in Malmö, built in Brick Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        13.003318,
+                        55.606936
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "A prominent Art Nouveau church in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.00175,
+                        55.594199
+                  ]
+            },
+            {
+                  "name": "Malmö synagoga",
+                  "text": "An architecturally significant Jewish place of worship in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.010823,
+                        55.599534
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "A modern Christian church in the Erikslust district.",
+                  "category": "religious",
+                  "coords": [
+                        13.005633,
+                        55.578094
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "A Lutheran church in the Rosengård district.",
+                  "category": "religious",
+                  "coords": [
+                        13.01216,
+                        55.588475
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "A religious building and parish in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.021336,
+                        55.589021
+                  ]
+            },
+            {
+                  "name": "Fiskehoddorna",
+                  "text": "Traditional fisherman's huts that now serve as a fish market.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983794,
+                        55.605212
+                  ]
+            },
+            {
+                  "name": "Klaffbron",
+                  "text": "A historic bascule bridge in the port of Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.993716,
+                        55.612593
+                  ]
+            },
+            {
+                  "name": "Universitetsbron",
+                  "text": "A prominent bridge connecting the university area.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996274,
+                        55.612316
+                  ]
+            },
+            {
+                  "name": "Pildammsparken",
+                  "text": "A large city park in Malmö featuring ponds and wooded areas.",
+                  "category": "park",
+                  "coords": [
+                        12.992064,
+                        55.590623
+                  ]
+            },
+            {
+                  "name": "Rörsjöparken",
+                  "text": "A central park in Malmö known for its green spaces.",
+                  "category": "park",
+                  "coords": [
+                        13.017778,
+                        55.605077
+                  ]
+            },
+            {
+                  "name": "Slottsparken",
+                  "text": "A spacious park located right next to Malmöhus Castle.",
+                  "category": "park",
+                  "coords": [
+                        12.988699,
+                        55.601464
+                  ]
+            },
+            {
+                  "name": "Gerlachs park",
+                  "text": "A public green space in the eastern part of Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.032087,
+                        55.608594
+                  ]
+            },
+            {
+                  "name": "Garnisonsplanteringen",
+                  "text": "A small park with a historical background in Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.034062,
+                        55.608401
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "A public swimming pool and water park in Malmö.",
+                  "category": "family",
+                  "coords": [
+                        12.992406,
+                        55.599216
+                  ]
+            },
+            {
+                  "name": "Teatermuseet",
+                  "text": "A museum dedicated to the history of theatre in Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        13.002747,
+                        55.60594
+                  ]
+            },
+            {
+                  "name": "Victoriateatern",
+                  "text": "A historic cinema and theatre in central Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        13.00124,
+                        55.599199
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "A well-known venue for concerts and films.",
+                  "category": "cultural",
+                  "coords": [
+                        13.001061,
+                        55.6041
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "A Christian place of worship in the city of Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986127,
+                        55.596806
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "A prominent red brick church in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.014382,
+                        55.603017
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "A religious building and place of prayer in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.971279,
+                        55.599213
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "A church in Malmö historically linked to the German community.",
+                  "category": "religious",
+                  "coords": [
+                        12.963147,
+                        55.596043
+                  ]
+            },
+            {
+                  "name": "Kirsebergs kyrka",
+                  "text": "A local church in the Kirseberg district.",
+                  "category": "religious",
+                  "coords": [
+                        13.041322,
+                        55.608853
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "A place of worship for the Immanuel congregation in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986865,
+                        55.593891
+                  ]
+            },
+            {
+                  "name": "The Scandinavian Wakf in Sweden",
+                  "text": "An Islamic community centre and place of prayer in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.039684,
+                        55.594263
+                  ]
+            },
+            {
+                  "name": "Malmö vågbrytarbank",
+                  "text": "A lighthouse marking the entrance to Malmö harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        12.976219,
+                        55.624896
+                  ]
+            },
+            {
+                  "name": "Slottsmöllan",
+                  "text": "A historic windmill located near Malmöhus Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        12.986052,
+                        55.603086
+                  ]
+            },
+            {
+                  "name": "Petribron",
+                  "text": "A pedestrian bridge in the city of Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002026,
+                        55.608479
+                  ]
+            },
+            {
+                  "name": "Älvsborgsbron",
+                  "text": "A bridge structure located in Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996093,
+                        55.607306
+                  ]
+            },
+            {
+                  "name": "Folkets park",
+                  "text": "One of the oldest amusement parks in Sweden.",
+                  "category": "park",
+                  "coords": [
+                        13.013807,
+                        55.59348
+                  ]
+            },
+            {
+                  "name": "Jesusparken",
+                  "text": "A small local park informally known as Jesusparken.",
+                  "category": "park",
+                  "coords": [
+                        13.015232,
+                        55.590411
+                  ]
+            },
+            {
+                  "name": "Scaniaparken",
+                  "text": "A modern coastal park with views over the Öresund.",
+                  "category": "park",
+                  "coords": [
+                        12.976788,
+                        55.617678
+                  ]
+            },
+            {
+                  "name": "Cronheimsparken",
+                  "text": "An urban green space in Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.045258,
+                        55.590017
+                  ]
+            },
+            {
+                  "name": "Rönneholmsparken",
+                  "text": "A park located in a residential area of Malmö.",
+                  "category": "park",
+                  "coords": [
+                        12.975995,
+                        55.594949
+                  ]
+            },
+            {
+                  "name": "Ribersborg Beach",
+                  "text": "A popular sandy beach with bathhouses in Malmö.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            },
+            {
+                  "name": "Malmö Museer Slottsholmen",
+                  "text": "The main part of Malmö's museums located in the historic castle.",
+                  "category": "museum",
+                  "coords": [
+                        12.986984,
+                        55.604751
+                  ]
+            },
+            {
+                  "name": "Form Design Center",
+                  "text": "A centre for architecture and design in a historic warehouse.",
+                  "category": "museum",
+                  "coords": [
+                        12.999206,
+                        55.604503
+                  ]
+            },
+            {
+                  "name": "Monopoly Fanclub Sweden",
+                  "text": "A small museum for fans of the Monopoly board game.",
+                  "category": "museum",
+                  "coords": [
+                        12.983748,
+                        55.589777
+                  ]
+            },
+            {
+                  "name": "Brandmuséet",
+                  "text": "Brandmuséet is a specialized museum located within the Swedish city of Malmoe. This institution offers a thorough look at the history of the local fire department. Guests exploring the exhibits will discover antique firefighting equipment and learn about the city's historical emergency responses.",
+                  "category": "museum",
+                  "coords": [
+                        13.008836,
+                        55.602402
+                  ]
+            },
+            {
+                  "name": "Moderna Museet",
+                  "text": "A branch of the Swedish national museum for modern art.",
+                  "category": "museum",
+                  "coords": [
+                        13.009567,
+                        55.604632
+                  ]
+            },
+            {
+                  "name": "Disgusting Food Museum",
+                  "text": "A museum exhibiting unusual and disgusting foods from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        13.00131,
+                        55.600897
+                  ]
+            },
+            {
+                  "name": "Molekyl Gallery",
+                  "text": "Molekyl Gallery operates as a vibrant contemporary art space in Malmoe, Sweden. Acting as a modern museum or gallery, it presents various artistic works to the public. Art enthusiasts visiting this location can expect to encounter diverse and thought-provoking contemporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        13.023898,
+                        55.595394
+                  ]
+            },
+            {
+                  "name": "Arkana",
+                  "text": "An art space in Malmö featuring contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        13.008339,
+                        55.593075
+                  ]
+            },
+            {
+                  "name": "Galleri Ann-Katrin Braf",
+                  "text": "A gallery in Malmö specializing in art and design.",
+                  "category": "museum",
+                  "coords": [
+                        12.989845,
+                        55.595586
+                  ]
+            },
+            {
+                  "name": "Galleri Lohme",
+                  "text": "A modern art gallery in Malmö exhibiting works by Swedish and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        12.993424,
+                        55.597857
+                  ]
+            },
+            {
+                  "name": "Ateljéföreningen Sulfur",
+                  "text": "A studio association in Malmö promoting local art and creativity.",
+                  "category": "museum",
+                  "coords": [
+                        13.031216,
+                        55.598506
+                  ]
+            },
+            {
+                  "name": "Alta Art Space",
+                  "text": "An independent art space in Malmö for contemporary art practices.",
+                  "category": "museum",
+                  "coords": [
+                        13.034825,
+                        55.599537
+                  ]
+            },
+            {
+                  "name": "FRANK",
+                  "text": "An interdisciplinary art space in Malmö for exhibitions and events.",
+                  "category": "museum",
+                  "coords": [
+                        13.00777,
+                        55.589029
+                  ]
+            },
+            {
+                  "name": "Oljesjön",
+                  "text": "Oljesjön is a quiet body of water in Malmoe, inviting visitors for a short walk in the park.",
+                  "category": "natural",
+                  "coords": [
+                        13.017362,
+                        55.631287
+                  ]
+            },
+            {
+                  "name": "Organiska dammen",
+                  "text": "Organiska dammen is a natural pond in Malmoe, perfect for observing local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        13.072577,
+                        55.655611
+                  ]
+            },
+            {
+                  "name": "Sege damm",
+                  "text": "Sege damm is a small lake in Malmoe, providing a peaceful green space for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        13.045125,
+                        55.626546
+                  ]
+            },
+            {
+                  "name": "Nya Svandammen",
+                  "text": "Nya Svandammen is an idyllic pond in Malmoe, perfect for a relaxing outdoor break.",
+                  "category": "natural",
+                  "coords": [
+                        13.072547,
+                        55.653575
+                  ]
+            },
+            {
+                  "name": "Stora dammen",
+                  "text": "Stora dammen is a prominent lake in Malmoe, perfect for a relaxing stroll through the park.",
+                  "category": "natural",
+                  "coords": [
+                        12.995423,
+                        55.589546
+                  ]
+            },
+            {
+                  "name": "Teaterlekplatsen",
+                  "text": "Teaterlekplatsen is an imaginative playground in Malmoe where children can enjoy creative play.",
+                  "category": "family",
+                  "coords": [
+                        12.994437,
+                        55.593619
+                  ]
+            },
+            {
+                  "name": "VR Malmö",
+                  "text": "VR Malmö offers exciting virtual reality experiences for an entertaining family outing.",
+                  "category": "family",
+                  "coords": [
+                        13.003253,
+                        55.604349
+                  ]
+            },
+            {
+                  "name": "Spielplatz Norra",
+                  "text": "Spielplatz Norra is a nice spot in Malmoe for children to play and enjoy the fresh air.",
+                  "category": "family",
+                  "coords": [
+                        13.005407,
+                        55.596001
+                  ]
+            },
+            {
+                  "name": "Sagolekplatsen",
+                  "text": "Sagolekplatsen is a fairytale-themed playground in Malmoe that sparks children's imaginations.",
+                  "category": "family",
+                  "coords": [
+                        12.99199,
+                        55.600365
+                  ]
+            },
+            {
+                  "name": "Sollekplatsen",
+                  "text": "Sollekplatsen is a sunny playground in Malmoe, ideal for children to climb and play.",
+                  "category": "family",
+                  "coords": [
+                        12.980087,
+                        55.615161
+                  ]
+            },
+            {
+                  "name": "Spirallekplatsen",
+                  "text": "Spirallekplatsen is an original playground in Malmoe with plenty of features to explore.",
+                  "category": "family",
+                  "coords": [
+                        12.998142,
+                        55.595714
+                  ]
+            },
+            {
+                  "name": "Fiskelekplatsen",
+                  "text": "Fiskelekplatsen is a themed playground in Malmoe that brings a fishing-inspired world to life for kids.",
+                  "category": "family",
+                  "coords": [
+                        13.011169,
+                        55.590408
+                  ]
+            },
+            {
+                  "name": "Djurlekplatsen",
+                  "text": "Djurlekplatsen is a popular playground in Malmoe where children can play in an animal-themed setting.",
+                  "category": "family",
+                  "coords": [
+                        13.04847,
+                        55.610159
+                  ]
+            },
+            {
+                  "name": "Rörelselekplatsen",
+                  "text": "Rörelselekplatsen is a playground in Malmoe designed to encourage movement and physical activity.",
+                  "category": "family",
+                  "coords": [
+                        13.023146,
+                        55.589032
+                  ]
+            },
+            {
+                  "name": "Göingeplan lekplatsen",
+                  "text": "Göingeplan lekplatsen is a great spot in Malmoe for children to play and have fun outdoors.",
+                  "category": "family",
+                  "coords": [
+                        13.018166,
+                        55.590324
+                  ]
+            },
+            {
+                  "name": "Spindellekplatsen",
+                  "text": "Spindellekplatsen is an exciting playground in Malmoe featuring interesting climbing structures.",
+                  "category": "family",
+                  "coords": [
+                        12.987604,
+                        55.591742
+                  ]
+            },
+            {
+                  "name": "Skogslekplatsen",
+                  "text": "Skogslekplatsen is a nature-inspired playground in Malmoe providing a forest-like environment for play.",
+                  "category": "family",
+                  "coords": [
+                        12.975302,
+                        55.595852
+                  ]
+            },
+            {
+                  "name": "Torekovsplans Lekplats",
+                  "text": "Torekovsplans Lekplats is a lovely playground in Malmoe, ideal for children to play and explore.",
+                  "category": "family",
+                  "coords": [
+                        13.022535,
+                        55.592553
+                  ]
+            },
+            {
+                  "name": "Ribban Green Golf",
+                  "text": "Ribban Green Golf provides a great miniature golf experience in Malmoe for the entire family.",
+                  "category": "family",
+                  "coords": [
+                        12.960745,
+                        55.600047
+                  ]
+            },
+            {
+                  "name": "Leklunden",
+                  "text": "Leklunden is a playground in Malmoe, offering fun for families and children.",
+                  "category": "family",
+                  "coords": [
+                        13.001266,
+                        55.583718
+                  ]
+            },
+            {
+                  "name": "Prison Island",
+                  "text": "This family-friendly attraction in Malmoe offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        13.02004,
+                        55.60688
+                  ]
+            },
+            {
+                  "name": "Reptilcenter",
+                  "text": "This family-friendly attraction in Malmoe offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        13.013222,
+                        55.594418
+                  ]
+            },
+            {
+                  "name": "Naturum Öresund",
+                  "text": "This family-friendly attraction in Malmoe offers various activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        12.947465,
+                        55.598178
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [13.0038, 55.6050],
@@ -5629,6 +8842,24 @@ export const swedenRegions: POI[] = [
                         17.685983,
                         59.864615
                   ]
+            },
+            {
+                  "name": "Leo's Lekland",
+                  "text": "Ein tolles Ziel für Familienspaß und Unterhaltung in Uppsala.",
+                  "category": "family",
+                  "coords": [
+                        17.695291,
+                        59.845124
+                  ]
+            },
+            {
+                  "name": "Fyrishov",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Uppsala.",
+                  "category": "family",
+                  "coords": [
+                        17.622284,
+                        59.870751
+                  ]
             }
       ],
       "hu": [
@@ -6296,6 +9527,24 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         17.685983,
                         59.864615
+                  ]
+            },
+            {
+                  "name": "Leo's Lekland",
+                  "text": "Nagyszerű úti cél a családi szórakozáshoz és kikapcsolódáshoz Uppsala területén.",
+                  "category": "family",
+                  "coords": [
+                        17.695291,
+                        59.845124
+                  ]
+            },
+            {
+                  "name": "Fyrishov",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Uppsala városában.",
+                  "category": "family",
+                  "coords": [
+                        17.622284,
+                        59.870751
                   ]
             }
       ],
@@ -6965,6 +10214,24 @@ export const swedenRegions: POI[] = [
                         17.685983,
                         59.864615
                   ]
+            },
+            {
+                  "name": "Leo's Lekland",
+                  "text": "O destinație excelentă pentru distracție în familie și divertisment în Uppsala.",
+                  "category": "family",
+                  "coords": [
+                        17.695291,
+                        59.845124
+                  ]
+            },
+            {
+                  "name": "Fyrishov",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Uppsala.",
+                  "category": "family",
+                  "coords": [
+                        17.622284,
+                        59.870751
+                  ]
             }
       ],
       "en": [
@@ -7632,6 +10899,24 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         17.685983,
                         59.864615
+                  ]
+            },
+            {
+                  "name": "Leo's Lekland",
+                  "text": "A great destination for family fun and entertainment in Uppsala.",
+                  "category": "family",
+                  "coords": [
+                        17.695291,
+                        59.845124
+                  ]
+            },
+            {
+                  "name": "Fyrishov",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Uppsala.",
+                  "category": "family",
+                  "coords": [
+                        17.622284,
+                        59.870751
                   ]
             }
       ]
@@ -12625,6 +15910,24 @@ export const swedenCities: POI[] = [
                         15.632774,
                         58.412889
                   ]
+            },
+            {
+                  "name": "Johannelunds lek- och plaskdamm",
+                  "text": "Ein Spiel- und Planschbecken in Linköping, das für die Unterhaltung von Kindern und zum Abkühlen konzipiert ist.",
+                  "category": "family",
+                  "coords": [
+                        15.664362,
+                        58.395537
+                  ]
+            },
+            {
+                  "name": "Glyttingebadet",
+                  "text": "Ein Freiluft-Wasserpark in Linköping, der Becken und lustige Wasseraktivitäten für den Sommer bietet.",
+                  "category": "family",
+                  "coords": [
+                        15.564619,
+                        58.422846
+                  ]
             }
       ],
       "hu": [
@@ -13166,6 +16469,24 @@ export const swedenCities: POI[] = [
                   "coords": [
                         15.632774,
                         58.412889
+                  ]
+            },
+            {
+                  "name": "Johannelunds lek- och plaskdamm",
+                  "text": "Linköpingi játék- és pancsolómedence, amelyet gyermekek szórakoztatására és hűsölésére terveztek.",
+                  "category": "family",
+                  "coords": [
+                        15.664362,
+                        58.395537
+                  ]
+            },
+            {
+                  "name": "Glyttingebadet",
+                  "text": "Linköpingi szabadtéri élményfürdő medencékkel és szórakoztató vízi tevékenységekkel a nyárra.",
+                  "category": "family",
+                  "coords": [
+                        15.564619,
+                        58.422846
                   ]
             }
       ],
@@ -13709,6 +17030,24 @@ export const swedenCities: POI[] = [
                         15.632774,
                         58.412889
                   ]
+            },
+            {
+                  "name": "Johannelunds lek- och plaskdamm",
+                  "text": "O piscină de joacă și pentru copii în Linköping, concepută pentru divertismentul celor mici și răcorire.",
+                  "category": "family",
+                  "coords": [
+                        15.664362,
+                        58.395537
+                  ]
+            },
+            {
+                  "name": "Glyttingebadet",
+                  "text": "Un parc acvatic în aer liber în Linköping, care oferă piscine și activități acvatice distractive pentru vară.",
+                  "category": "family",
+                  "coords": [
+                        15.564619,
+                        58.422846
+                  ]
             }
       ],
       "en": [
@@ -14250,6 +17589,24 @@ export const swedenCities: POI[] = [
                   "coords": [
                         15.632774,
                         58.412889
+                  ]
+            },
+            {
+                  "name": "Johannelunds lek- och plaskdamm",
+                  "text": "A play and paddling pool in Linköping designed for children's entertainment and cooling off.",
+                  "category": "family",
+                  "coords": [
+                        15.664362,
+                        58.395537
+                  ]
+            },
+            {
+                  "name": "Glyttingebadet",
+                  "text": "An outdoor water park in Linköping providing pools and fun water activities for the summer.",
+                  "category": "family",
+                  "coords": [
+                        15.564619,
+                        58.422846
                   ]
             }
       ]
@@ -15634,6 +18991,15 @@ export const swedenCities: POI[] = [
                         15.193248,
                         59.29043
                   ]
+            },
+            {
+                  "name": "Barnpool \"plaskis\"",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Oerebro.",
+                  "category": "family",
+                  "coords": [
+                        15.186378,
+                        59.282258
+                  ]
             }
       ],
       "hu": [
@@ -15815,6 +19181,15 @@ export const swedenCities: POI[] = [
                   "coords": [
                         15.193248,
                         59.29043
+                  ]
+            },
+            {
+                  "name": "Barnpool \"plaskis\"",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Oerebro városában.",
+                  "category": "family",
+                  "coords": [
+                        15.186378,
+                        59.282258
                   ]
             }
       ],
@@ -15998,6 +19373,15 @@ export const swedenCities: POI[] = [
                         15.193248,
                         59.29043
                   ]
+            },
+            {
+                  "name": "Barnpool \"plaskis\"",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Oerebro.",
+                  "category": "family",
+                  "coords": [
+                        15.186378,
+                        59.282258
+                  ]
             }
       ],
       "en": [
@@ -16179,6 +19563,15 @@ export const swedenCities: POI[] = [
                   "coords": [
                         15.193248,
                         59.29043
+                  ]
+            },
+            {
+                  "name": "Barnpool \"plaskis\"",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Oerebro.",
+                  "category": "family",
+                  "coords": [
+                        15.186378,
+                        59.282258
                   ]
             }
       ]
@@ -16429,6 +19822,15 @@ export const swedenCities: POI[] = [
                         12.859952,
                         56.674215
                   ]
+            },
+            {
+                  "name": "Halmstad Arena Bad",
+                  "text": "Eine moderne Schwimmeinrichtung in Halmstad mit vielfältigen Becken für Training und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        12.885885,
+                        56.674106
+                  ]
             }
       ],
       "hu": [
@@ -16619,6 +20021,15 @@ export const swedenCities: POI[] = [
                   "coords": [
                         12.859952,
                         56.674215
+                  ]
+            },
+            {
+                  "name": "Halmstad Arena Bad",
+                  "text": "Halmstadi modern úszólétesítmény különféle medencékkel edzéshez és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        12.885885,
+                        56.674106
                   ]
             }
       ],
@@ -16811,6 +20222,15 @@ export const swedenCities: POI[] = [
                         12.859952,
                         56.674215
                   ]
+            },
+            {
+                  "name": "Halmstad Arena Bad",
+                  "text": "O facilitate modernă de înot în Halmstad, cu diverse piscine pentru antrenament și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        12.885885,
+                        56.674106
+                  ]
             }
       ],
       "en": [
@@ -17002,6 +20422,15 @@ export const swedenCities: POI[] = [
                         12.859952,
                         56.674215
                   ]
+            },
+            {
+                  "name": "Halmstad Arena Bad",
+                  "text": "A modern swimming facility in Halmstad featuring diverse pools for training and leisure.",
+                  "category": "family",
+                  "coords": [
+                        12.885885,
+                        56.674106
+                  ]
             }
       ]
 },
@@ -17061,7 +20490,2068 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/halmstad.webp",
   },
   {
-    id: "city-sundsvall", "sights": {"de": [{"name": "Fläsian", "text": "Strand in der Nähe von Sundsvall.", "category": "recreational", "coords": [17.371847, 62.361097]}, {"name": "Sidsjö strand", "text": "Beliebt bei Jung und Alt, lädt der Sidsjö Strand in Sundsvall zu erfrischenden Bademomenten in Schweden ein. Seine einladende Ausstrahlung macht ihn zu einem lebendigen Treffpunkt für Familien und Einheimische an sonnigen Tagen. Das Gelände ist ideal für ausgiebiges Plantschen und entspanntes Liegen auf dem Rasen oder Sand. Besonders in den schwedischen Sommermonaten sollte man etwas Zeit für einen langen Nachmittag einplanen.", "category": "recreational", "coords": [17.277867, 62.370221]}, {"name": "Abborrviken", "text": "Abborrviken ist eine Badestelle bei Sundsvall.", "category": "recreational", "coords": [17.274899, 62.374834]}, {"name": "Sundsvalls museum", "text": "Ein Stadtmuseum im Kulturmagasinet, das die Geschichte und Kunst der Region Sundsvall präsentiert.", "category": "museum", "coords": [17.312615, 62.391663]}, {"name": "Sundsvalls teater", "text": "Ein prächtiges historisches Theatergebäude in Sundsvall, das Ende des 19. Jahrhunderts erbaut wurde.", "category": "cultural", "coords": [17.307883, 62.388561]}, {"name": "Hantverks- & sjöfartsmuseum", "text": "Ein Museum, das der Handwerks- und Seefahrtsgeschichte der Region Sundsvall gewidmet ist.", "category": "museum", "coords": [17.296366, 62.399249]}, {"name": "Skönsbergs Folkets Hus", "text": "Ein Kultur- und Versammlungsort in Skönsberg, der Theateraufführungen und lokale Veranstaltungen beherbergt.", "category": "cultural", "coords": [17.341332, 62.401252]}, {"name": "Himlabadet", "text": "Ein modernes Erlebnisbad in Sundsvall mit verschiedenen Becken und Wellnessbereichen.", "category": "family", "coords": [17.288959, 62.394264]}, {"name": "Konsertteatern", "text": "Ein Theater in Sundsvall, das hauptsächlich für Konzerte und Bühnenaufführungen genutzt wird.", "category": "cultural", "coords": [17.309012, 62.388505]}, {"name": "Hög 9", "text": "Eine archäologische Fundstätte in Sundsvall mit Überresten alter Grabhügel.", "category": "historical", "coords": [17.259079, 62.400694]}, {"name": "Hög 5", "text": "Ein kleinerer Grabhügel in Sundsvall, der als archäologisches Denkmal geschützt ist.", "category": "historical", "coords": [17.259991, 62.401073]}, {"name": "Storhög 2", "text": "Einer der bedeutenden großen Grabhügel im archäologischen Gebiet von Sundsvall.", "category": "historical", "coords": [17.257602, 62.401485]}, {"name": "Storhög 1", "text": "Der erste der großen Grabhügel in Sundsvall, die eine wichtige archäologische Stätte bilden.", "category": "historical", "coords": [17.25651, 62.401757]}, {"name": "Vängåvan", "text": "Ein Park im Zentrum von Sundsvall, bekannt für seinen kunstvollen Brunnen.", "category": "park", "coords": [17.309384, 62.390494]}, {"name": "Stadshusparken", "text": "Ein gepflegter Park neben dem Rathaus von Sundsvall.", "category": "park", "coords": [17.306311, 62.389753]}, {"name": "Hedbergska parken", "text": "Ein Park in Sundsvall, der nach der Familie Hedberg benannt ist und zur Erholung einlädt.", "category": "park", "coords": [17.303655, 62.390549]}, {"name": "Badhusparken", "text": "Ein öffentlicher Park in Sundsvall, der sich in der Nähe des ehemaligen Badehauses befindet.", "category": "park", "coords": [17.296662, 62.393142]}, {"name": "Norra Berget", "text": "Ein Aussichtspunkt und Naherholungsgebiet auf einem Hügel in Sundsvall mit einem Freilichtmuseum.", "category": "natural", "coords": [17.294374, 62.398397]}, {"name": "Pipeline Sundsvalls Musikforum", "text": "Ein bekanntes Kulturzentrum und Musikforum für Live-Auftritte in Sundsvall.", "category": "cultural", "coords": [17.31311, 62.389843]}, {"name": "Minnesstenen från storstrejken i Sundsvall 1879", "text": "Ein Denkmal zur Erinnerung an den großen Streik der Sägewerksarbeiter in Sundsvall im Jahr 1879.", "category": "historical", "coords": [17.346941, 62.382968]}, {"name": "I fredens tjänst", "text": "Ein Denkmal in Sundsvall, das dem Frieden und der internationalen Zusammenarbeit gewidmet ist.", "category": "historical", "coords": [17.306701, 62.387225]}, {"name": "Skönsmons gravkapell", "text": "Eine kleine Kapelle auf dem Friedhof von Skönsmon in Sundsvall.", "category": "religious", "coords": [17.3487, 62.379487]}, {"name": "Elimkyrkan", "text": "Eine Freikirche in Sundsvall, die zur schwedischen Allianzmission gehört.", "category": "religious", "coords": [17.306068, 62.388391]}, {"name": "Betlehemskyrkan", "text": "Eine christliche Kirche in Sundsvall, die als Ort der Anbetung und Gemeinschaft dient.", "category": "religious", "coords": [17.304038, 62.388971]}, {"name": "Granloholms kyrka", "text": "Eine moderne Kirche im Stadtteil Granloholm in Sundsvall.", "category": "religious", "coords": [17.26929, 62.41097]}, {"name": "Skönsmons kyrka", "text": "Eine markante Kirche im Stadtteil Skönsmon, bekannt für ihre Architektur.", "category": "religious", "coords": [17.3563, 62.378841]}, {"name": "Lutherska kapellet", "text": "Eine kleine lutherische Kapelle in Sundsvall für Gottesdienste und Zeremonien.", "category": "religious", "coords": [17.312915, 62.38839]}, {"name": "Birgittakyrkan", "text": "Eine katholische Kirche in Sundsvall, die nach der heiligen Birgitta benannt ist.", "category": "religious", "coords": [17.346403, 62.400324]}, {"name": "Byns gravkapell", "text": "Eine Friedhofskapelle in Sundsvall, die für Trauerfeiern genutzt wird.", "category": "religious", "coords": [17.330883, 62.410302]}, {"name": "Brokyrkan", "text": "Eine lokale Kirche in Sundsvall, die eine christliche Glaubensgemeinschaft beherbergt.", "category": "religious", "coords": [17.34367, 62.397977]}, {"name": "Nacksta S:t Olofs kyrka", "text": "Eine schwedische Kirche im Stadtteil Nacksta in Sundsvall.", "category": "religious", "coords": [17.271719, 62.389164]}, {"name": "Sundsvalls Gustav Adolfs kapell", "text": "Eine Friedhofskapelle in der schwedischen Stadt Sundsvall.", "category": "religious", "coords": [17.272719, 62.396871]}, {"name": "Sundsvallsbron", "text": "Eine beeindruckende Autobahnbrücke, die die Bucht von Sundsvall überspannt.", "category": "landmark", "coords": [17.343189, 62.389068]}, {"name": "Östtjärnen", "text": "Östtjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.262211, 62.32987]}, {"name": "Vintertjärnen", "text": "Vintertjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.233786, 62.347469]}, {"name": "Sticksjön", "text": "Sticksjön ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.271861, 62.414393]}, {"name": "Gärdetjärnen", "text": "Gärdetjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.361637, 62.412047]}, {"name": "Bünsowska tjärn", "text": "Bünsowska tjärn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.295327, 62.391181]}, {"name": "Bergsåkerstjärnen", "text": "Bergsåkerstjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.225863, 62.411269]}, {"name": "Norrfjärden", "text": "Norrfjärden ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.230138, 62.406765]}, {"name": "Prästtjärnen", "text": "Prästtjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.216326, 62.409633]}, {"name": "Sidsjödammen", "text": "Sidsjödammen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.28154, 62.379264]}, {"name": "Hulitjärn", "text": "Hulitjärn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.244116, 62.432609]}, {"name": "Ottsjön", "text": "Ottsjön ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.240047, 62.442524]}, {"name": "Mårtenstjärn", "text": "Mårtenstjärn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.260758, 62.379861]}, {"name": "Sidsjön", "text": "Sidsjön ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.276823, 62.373361]}, {"name": "Svarttjärnen", "text": "Svarttjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.331083, 62.347662]}, {"name": "Öråkerstjärnen", "text": "Öråkerstjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.282403, 62.455362]}, {"name": "Sommartjärnen", "text": "Sommartjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.241472, 62.339145]}, {"name": "S:t Olovs hamn", "text": "S:t Olovs hamn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.212857, 62.401472]}, {"name": "Selångersfjärden", "text": "Selångersfjärden ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.220908, 62.403537]}, {"name": "Sundsvallsfjärden", "text": "Sundsvallsfjärden ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.346191, 62.387813]}, {"name": "Draget", "text": "Draget ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.401147, 62.362649]}, {"name": "Sundsvallsbukten", "text": "Sundsvallsbukten ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.590048, 62.337967]}, {"name": "Prästviken", "text": "Prästviken ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.", "category": "natural", "coords": [17.216697, 62.406828]}, {"name": "JumpYard", "text": "JumpYard ist ein Trampolinpark in Sundsvall, der aktiven Spaß für Familien bietet.", "category": "family", "coords": [17.283039, 62.396449]}], "hu": [{"name": "Fläsian", "text": "Part Sundsvall közelében.", "category": "recreational", "coords": [17.371847, 62.361097]}, {"name": "Sidsjö strand", "text": "A fiatalok és idősek körében egyaránt népszerű svédországi Sidsjö strand frissítő fürdőzésre hívogat Sundsvallban. Hívogató kisugárzása miatt élénk találkozóhelye a családoknak és a helyieknek a napsütéses napokon. A terület ideális egy kiadós pancsolásra, valamint a füvön vagy a homokon történő pihenésre. Különösen a svéd nyári hónapokban érdemes némi időt szánni egy hosszú délutánra.", "category": "recreational", "coords": [17.277867, 62.370221]}, {"name": "Abborrviken", "text": "Abborrviken egy strandfürdő Sundsvall közelében.", "category": "recreational", "coords": [17.274899, 62.374834]}, {"name": "Sundsvalls museum", "text": "Városi múzeum a Kulturmagasinetben, amely Sundsvall régiójának történelmét és művészetét mutatja be.", "category": "museum", "coords": [17.312615, 62.391663]}, {"name": "Sundsvalls teater", "text": "Pompás történelmi színházépület Sundsvallban, amely a 19. század végén épült.", "category": "cultural", "coords": [17.307883, 62.388561]}, {"name": "Hantverks- & sjöfartsmuseum", "text": "Múzeum, amelyet Sundsvall régiójának kézműves és tengerészeti történelmének szenteltek.", "category": "museum", "coords": [17.296366, 62.399249]}, {"name": "Skönsbergs Folkets Hus", "text": "Kulturális és találkozóhely Skönsbergben, amely színházi előadásoknak és helyi eseményeknek ad otthont.", "category": "cultural", "coords": [17.341332, 62.401252]}, {"name": "Himlabadet", "text": "Modern élményfürdő Sundsvallban, különböző medencékkel és wellness-részlegekkel.", "category": "family", "coords": [17.288959, 62.394264]}, {"name": "Konsertteatern", "text": "Sundsvalli színház, amelyet főként koncertekre és színpadi előadásokra használnak.", "category": "cultural", "coords": [17.309012, 62.388505]}, {"name": "Hög 9", "text": "Régészeti lelőhely Sundsvallban, ősi sírhalmok maradványaival.", "category": "historical", "coords": [17.259079, 62.400694]}, {"name": "Hög 5", "text": "Kisebb sírhalom Sundsvallban, amely régészeti műemlékként védett.", "category": "historical", "coords": [17.259991, 62.401073]}, {"name": "Storhög 2", "text": "A sundsvalli régészeti terület egyik jelentős nagy sírhalma.", "category": "historical", "coords": [17.257602, 62.401485]}, {"name": "Storhög 1", "text": "Az első a sundsvalli nagy sírhalmok közül, amelyek fontos régészeti lelőhelyet alkotnak.", "category": "historical", "coords": [17.25651, 62.401757]}, {"name": "Vängåvan", "text": "Park Sundsvall központjában, amely díszes szökőkútjáról ismert.", "category": "park", "coords": [17.309384, 62.390494]}, {"name": "Stadshusparken", "text": "Gondozott park a sundsvalli városháza mellett.", "category": "park", "coords": [17.306311, 62.389753]}, {"name": "Hedbergska parken", "text": "Sundsvalli park, amelyet a Hedberg családról neveztek el, és pihenésre hív.", "category": "park", "coords": [17.303655, 62.390549]}, {"name": "Badhusparken", "text": "Nyilvános park Sundsvallban, az egykori fürdőház közelében.", "category": "park", "coords": [17.296662, 62.393142]}, {"name": "Norra Berget", "text": "Kilátópont és szabadidős terület egy sundsvalli dombon, szabadtéri múzeummal.", "category": "natural", "coords": [17.294374, 62.398397]}, {"name": "Pipeline Sundsvalls Musikforum", "text": "Ismert kulturális központ és zenei fórum élő fellépésekhez Sundsvallban.", "category": "cultural", "coords": [17.31311, 62.389843]}, {"name": "Minnesstenen från storstrejken i Sundsvall 1879", "text": "Emlékmű az 1879-es nagy sundsvalli fűrészüzemi sztrájk emlékére.", "category": "historical", "coords": [17.346941, 62.382968]}, {"name": "I fredens tjänst", "text": "Sundsvalli emlékmű, amelyet a békének és a nemzetközi együttműködésnek szenteltek.", "category": "historical", "coords": [17.306701, 62.387225]}, {"name": "Skönsmons gravkapell", "text": "Kisméretű kápolna a sundsvalli Skönsmon temetőben.", "category": "religious", "coords": [17.3487, 62.379487]}, {"name": "Elimkyrkan", "text": "Szabadtemplom Sundsvallban, amely a Svéd Szövetségi Misszióhoz tartozik.", "category": "religious", "coords": [17.306068, 62.388391]}, {"name": "Betlehemskyrkan", "text": "Keresztény templom Sundsvallban, amely istentiszteleti és közösségi helyként szolgál.", "category": "religious", "coords": [17.304038, 62.388971]}, {"name": "Granloholms kyrka", "text": "Modern templom Sundsvall Granloholm negyedében.", "category": "religious", "coords": [17.26929, 62.41097]}, {"name": "Skönsmons kyrka", "text": "Jellegzetes templom Skönsmon negyedében, amely építészetéről ismert.", "category": "religious", "coords": [17.3563, 62.378841]}, {"name": "Lutherska kapellet", "text": "Kisméretű lutheránus kápolna Sundsvallban istentiszteletek és szertartások számára.", "category": "religious", "coords": [17.312915, 62.38839]}, {"name": "Birgittakyrkan", "text": "Sundsvalli katolikus templom, amelyet Szent Birgittáról neveztek el.", "category": "religious", "coords": [17.346403, 62.400324]}, {"name": "Byns gravkapell", "text": "Temetői kápolna Sundsvallban, amelyet gyászszertartásokra használnak.", "category": "religious", "coords": [17.330883, 62.410302]}, {"name": "Brokyrkan", "text": "Helyi templom Sundsvallban, amely egy keresztény hitéletnek ad otthont.", "category": "religious", "coords": [17.34367, 62.397977]}, {"name": "Nacksta S:t Olofs kyrka", "text": "Evangélikus templom Sundsvall Nacksta városrészében.", "category": "religious", "coords": [17.271719, 62.389164]}, {"name": "Sundsvalls Gustav Adolfs kapell", "text": "Temetőkápolna a svédországi Sundsvall városában.", "category": "religious", "coords": [17.272719, 62.396871]}, {"name": "Sundsvallsbron", "text": "Lenyűgöző autópályahíd, amely átíveli a Sundsvall-öblöt.", "category": "landmark", "coords": [17.343189, 62.389068]}, {"name": "Östtjärnen", "text": "A Östtjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.262211, 62.32987]}, {"name": "Vintertjärnen", "text": "A Vintertjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.233786, 62.347469]}, {"name": "Sticksjön", "text": "A Sticksjön egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.271861, 62.414393]}, {"name": "Gärdetjärnen", "text": "A Gärdetjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.361637, 62.412047]}, {"name": "Bünsowska tjärn", "text": "A Bünsowska tjärn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.295327, 62.391181]}, {"name": "Bergsåkerstjärnen", "text": "A Bergsåkerstjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.225863, 62.411269]}, {"name": "Norrfjärden", "text": "A Norrfjärden egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.230138, 62.406765]}, {"name": "Prästtjärnen", "text": "A Prästtjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.216326, 62.409633]}, {"name": "Sidsjödammen", "text": "A Sidsjödammen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.28154, 62.379264]}, {"name": "Hulitjärn", "text": "A Hulitjärn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.244116, 62.432609]}, {"name": "Ottsjön", "text": "A Ottsjön egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.240047, 62.442524]}, {"name": "Mårtenstjärn", "text": "A Mårtenstjärn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.260758, 62.379861]}, {"name": "Sidsjön", "text": "A Sidsjön egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.276823, 62.373361]}, {"name": "Svarttjärnen", "text": "A Svarttjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.331083, 62.347662]}, {"name": "Öråkerstjärnen", "text": "A Öråkerstjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.282403, 62.455362]}, {"name": "Sommartjärnen", "text": "A Sommartjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.241472, 62.339145]}, {"name": "S:t Olovs hamn", "text": "A S:t Olovs hamn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.212857, 62.401472]}, {"name": "Selångersfjärden", "text": "A Selångersfjärden egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.220908, 62.403537]}, {"name": "Sundsvallsfjärden", "text": "A Sundsvallsfjärden egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.346191, 62.387813]}, {"name": "Draget", "text": "A Draget egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.401147, 62.362649]}, {"name": "Sundsvallsbukten", "text": "A Sundsvallsbukten egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.590048, 62.337967]}, {"name": "Prästviken", "text": "A Prästviken egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.", "category": "natural", "coords": [17.216697, 62.406828]}, {"name": "JumpYard", "text": "A JumpYard egy trambulinpark Sundsvall városában, amely aktív szórakozást kínál a családoknak.", "category": "family", "coords": [17.283039, 62.396449]}], "ro": [{"name": "Fläsian", "text": "Plajă în apropiere de Sundsvall.", "category": "recreational", "coords": [17.371847, 62.361097]}, {"name": "Sidsjö strand", "text": "Populară printre tineri și vârstnici deopotrivă, Sidsjö Strand din Sundsvall vă invită la momente răcoritoare de înot în Suedia. Carisma sa primitoare o face un loc de întâlnire plin de viață pentru familii și localnici în zilele însorite. Zona este ideală pentru bălăceală și pentru a vă întinde relaxat pe iarbă sau pe nisip. Mai ales în lunile de vară suedeze, ar trebui să vă rezervați timp pentru o după-amiază lungă.", "category": "recreational", "coords": [17.277867, 62.370221]}, {"name": "Abborrviken", "text": "Abborrviken este o zonă de plajă lângă Sundsvall.", "category": "recreational", "coords": [17.274899, 62.374834]}, {"name": "Sundsvalls museum", "text": "Un muzeu al orașului în Kulturmagasinet, care prezintă istoria și arta regiunii Sundsvall.", "category": "museum", "coords": [17.312615, 62.391663]}, {"name": "Sundsvalls teater", "text": "O clădire istorică splendidă a teatrului din Sundsvall, construită la sfârșitul secolului al XIX-lea.", "category": "cultural", "coords": [17.307883, 62.388561]}, {"name": "Hantverks- & sjöfartsmuseum", "text": "Un muzeu dedicat istoriei meșteșugurilor și navigației din regiunea Sundsvall.", "category": "museum", "coords": [17.296366, 62.399249]}, {"name": "Skönsbergs Folkets Hus", "text": "Un loc cultural și de întâlnire în Skönsberg, care găzduiește spectacole de teatru și evenimente locale.", "category": "cultural", "coords": [17.341332, 62.401252]}, {"name": "Himlabadet", "text": "Un parc acvatic modern în Sundsvall, cu diverse bazine și zone de wellness.", "category": "family", "coords": [17.288959, 62.394264]}, {"name": "Konsertteatern", "text": "Un teatru în Sundsvall folosit în principal pentru concerte și spectacole de scenă.", "category": "cultural", "coords": [17.309012, 62.388505]}, {"name": "Hög 9", "text": "Un sit arheologic în Sundsvall, cu rămășițe ale unor vechi tumuli.", "category": "historical", "coords": [17.259079, 62.400694]}, {"name": "Hög 5", "text": "Un tumul mai mic în Sundsvall, protejat ca monument arheologic.", "category": "historical", "coords": [17.259991, 62.401073]}, {"name": "Storhög 2", "text": "Unul dintre tumulii mari semnificativi din zona arheologică a orașului Sundsvall.", "category": "historical", "coords": [17.257602, 62.401485]}, {"name": "Storhög 1", "text": "Primul dintre marii tumuli din Sundsvall, care formează un sit arheologic important.", "category": "historical", "coords": [17.25651, 62.401757]}, {"name": "Vängåvan", "text": "Un parc în centrul orașului Sundsvall, cunoscut pentru fântâna sa elaborată.", "category": "park", "coords": [17.309384, 62.390494]}, {"name": "Stadshusparken", "text": "Un parc bine întreținut lângă primăria din Sundsvall.", "category": "park", "coords": [17.306311, 62.389753]}, {"name": "Hedbergska parken", "text": "Un parc din Sundsvall, numit după familia Hedberg, care invită la relaxare.", "category": "park", "coords": [17.303655, 62.390549]}, {"name": "Badhusparken", "text": "Un parc public în Sundsvall, situat în apropierea fostei băi publice.", "category": "park", "coords": [17.296662, 62.393142]}, {"name": "Norra Berget", "text": "Un punct de belvedere și zonă de recreere pe un deal din Sundsvall, cu un muzeu în aer liber.", "category": "natural", "coords": [17.294374, 62.398397]}, {"name": "Pipeline Sundsvalls Musikforum", "text": "Un centru cultural și forum muzical cunoscut pentru spectacole live în Sundsvall.", "category": "cultural", "coords": [17.31311, 62.389843]}, {"name": "Minnesstenen från storstrejken i Sundsvall 1879", "text": "Un monument care comemorează marea grevă a lucrătorilor de la gater din Sundsvall din 1879.", "category": "historical", "coords": [17.346941, 62.382968]}, {"name": "I fredens tjänst", "text": "Un monument în Sundsvall dedicat păcii și cooperării internaționale.", "category": "historical", "coords": [17.306701, 62.387225]}, {"name": "Skönsmons gravkapell", "text": "O mică capelă în cimitirul Skönsmon din Sundsvall.", "category": "religious", "coords": [17.3487, 62.379487]}, {"name": "Elimkyrkan", "text": "O biserică liberă din Sundsvall, aparținând Misiunii Alianței Suedeze.", "category": "religious", "coords": [17.306068, 62.388391]}, {"name": "Betlehemskyrkan", "text": "O biserică creștină din Sundsvall, care servește ca loc de închinare și comunitate.", "category": "religious", "coords": [17.304038, 62.388971]}, {"name": "Granloholms kyrka", "text": "O biserică modernă în districtul Granloholm din Sundsvall.", "category": "religious", "coords": [17.26929, 62.41097]}, {"name": "Skönsmons kyrka", "text": "O biserică distinctivă din districtul Skönsmon, cunoscută pentru arhitectura sa.", "category": "religious", "coords": [17.3563, 62.378841]}, {"name": "Lutherska kapellet", "text": "O mică capelă luterană în Sundsvall pentru slujbe și ceremonii.", "category": "religious", "coords": [17.312915, 62.38839]}, {"name": "Birgittakyrkan", "text": "O biserică catolică din Sundsvall, numită după Sfânta Birgitta.", "category": "religious", "coords": [17.346403, 62.400324]}, {"name": "Byns gravkapell", "text": "O capelă de cimitir din Sundsvall, folosită pentru ceremonii funerare.", "category": "religious", "coords": [17.330883, 62.410302]}, {"name": "Brokyrkan", "text": "O biserică locală din Sundsvall, care găzduiește o comunitate de credință creștină.", "category": "religious", "coords": [17.34367, 62.397977]}, {"name": "Nacksta S:t Olofs kyrka", "text": "O biserică suedeză situată în cartierul Nacksta din Sundsvall.", "category": "religious", "coords": [17.271719, 62.389164]}, {"name": "Sundsvalls Gustav Adolfs kapell", "text": "O capelă de cimitir în orașul suedez Sundsvall.", "category": "religious", "coords": [17.272719, 62.396871]}, {"name": "Sundsvallsbron", "text": "Un pod de autostradă impresionant care traversează golful Sundsvall.", "category": "landmark", "coords": [17.343189, 62.389068]}, {"name": "Östtjärnen", "text": "Östtjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.262211, 62.32987]}, {"name": "Vintertjärnen", "text": "Vintertjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.233786, 62.347469]}, {"name": "Sticksjön", "text": "Sticksjön este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.271861, 62.414393]}, {"name": "Gärdetjärnen", "text": "Gärdetjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.361637, 62.412047]}, {"name": "Bünsowska tjärn", "text": "Bünsowska tjärn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.295327, 62.391181]}, {"name": "Bergsåkerstjärnen", "text": "Bergsåkerstjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.225863, 62.411269]}, {"name": "Norrfjärden", "text": "Norrfjärden este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.230138, 62.406765]}, {"name": "Prästtjärnen", "text": "Prästtjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.216326, 62.409633]}, {"name": "Sidsjödammen", "text": "Sidsjödammen este un lac în Sundsvall, ideal für plimbări și relaxare în natură.", "category": "natural", "coords": [17.28154, 62.379264]}, {"name": "Hulitjärn", "text": "Hulitjärn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.244116, 62.432609]}, {"name": "Ottsjön", "text": "Ottsjön este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.240047, 62.442524]}, {"name": "Mårtenstjärn", "text": "Mårtenstjärn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.260758, 62.379861]}, {"name": "Sidsjön", "text": "Sidsjön este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.276823, 62.373361]}, {"name": "Svarttjärnen", "text": "Svarttjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.331083, 62.347662]}, {"name": "Öråkerstjärnen", "text": "Öråkerstjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.282403, 62.455362]}, {"name": "Sommartjärnen", "text": "Sommartjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.241472, 62.339145]}, {"name": "S:t Olovs hamn", "text": "S:t Olovs hamn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.212857, 62.401472]}, {"name": "Selångersfjärden", "text": "Selångersfjärden este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.220908, 62.403537]}, {"name": "Sundsvallsfjärden", "text": "Sundsvallsfjärden este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.346191, 62.387813]}, {"name": "Draget", "text": "Draget este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.401147, 62.362649]}, {"name": "Sundsvallsbukten", "text": "Sundsvallsbukten este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.590048, 62.337967]}, {"name": "Prästviken", "text": "Prästviken este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.", "category": "natural", "coords": [17.216697, 62.406828]}, {"name": "JumpYard", "text": "JumpYard este un parc de trambuline în Sundsvall, oferind distracție activă pentru familii.", "category": "family", "coords": [17.283039, 62.396449]}], "en": [{"name": "Fläsian", "text": "Beach near Sundsvall.", "category": "recreational", "coords": [17.371847, 62.361097]}, {"name": "Sidsjö strand", "text": "Popular with young and old alike, Sidsjö Strand in Sundsvall invites you to refreshing swimming moments in Sweden. Its inviting charisma makes it a lively meeting place for families and locals on sunny days. The area is ideal for extensive splashing and relaxing on the grass or sand. Especially in the Swedish summer months, you should schedule some time for a long afternoon.", "category": "recreational", "coords": [17.277867, 62.370221]}, {"name": "Abborrviken", "text": "Abborrviken is a swimming area near Sundsvall.", "category": "recreational", "coords": [17.274899, 62.374834]}, {"name": "Sundsvalls museum", "text": "A city museum located in Kulturmagasinet, showcasing the history and art of the Sundsvall region.", "category": "museum", "coords": [17.312615, 62.391663]}, {"name": "Sundsvalls teater", "text": "A magnificent historical theatre building in Sundsvall, built in the late 19th century.", "category": "cultural", "coords": [17.307883, 62.388561]}, {"name": "Hantverks- & sjöfartsmuseum", "text": "A museum dedicated to the craft and maritime history of the Sundsvall region.", "category": "museum", "coords": [17.296366, 62.399249]}, {"name": "Skönsbergs Folkets Hus", "text": "A cultural and meeting venue in Skönsberg hosting theatre performances and local events.", "category": "cultural", "coords": [17.341332, 62.401252]}, {"name": "Himlabadet", "text": "A modern water park in Sundsvall featuring various pools and wellness areas.", "category": "family", "coords": [17.288959, 62.394264]}, {"name": "Konsertteatern", "text": "A theatre in Sundsvall primarily used for concerts and stage performances.", "category": "cultural", "coords": [17.309012, 62.388505]}, {"name": "Hög 9", "text": "An archaeological site in Sundsvall featuring remains of ancient burial mounds.", "category": "historical", "coords": [17.259079, 62.400694]}, {"name": "Hög 5", "text": "A smaller burial mound in Sundsvall protected as an archaeological monument.", "category": "historical", "coords": [17.259991, 62.401073]}, {"name": "Storhög 2", "text": "One of the significant large burial mounds in the archaeological area of Sundsvall.", "category": "historical", "coords": [17.257602, 62.401485]}, {"name": "Storhög 1", "text": "The first of the large burial mounds in Sundsvall, forming an important archaeological site.", "category": "historical", "coords": [17.25651, 62.401757]}, {"name": "Vängåvan", "text": "A park in central Sundsvall known for its ornate fountain.", "category": "park", "coords": [17.309384, 62.390494]}, {"name": "Stadshusparken", "text": "A well-maintained park located next to the Sundsvall City Hall.", "category": "park", "coords": [17.306311, 62.389753]}, {"name": "Hedbergska parken", "text": "A park in Sundsvall named after the Hedberg family, inviting relaxation.", "category": "park", "coords": [17.303655, 62.390549]}, {"name": "Badhusparken", "text": "A public park in Sundsvall located near the former bathhouse.", "category": "park", "coords": [17.296662, 62.393142]}, {"name": "Norra Berget", "text": "A viewpoint and recreational area on a hill in Sundsvall featuring an open-air museum.", "category": "natural", "coords": [17.294374, 62.398397]}, {"name": "Pipeline Sundsvalls Musikforum", "text": "A well-known arts centre and music forum for live performances in Sundsvall.", "category": "cultural", "coords": [17.31311, 62.389843]}, {"name": "Minnesstenen från storstrejken i Sundsvall 1879", "text": "A monument commemorating the great sawmill strike in Sundsvall in 1879.", "category": "historical", "coords": [17.346941, 62.382968]}, {"name": "I fredens tjänst", "text": "A monument in Sundsvall dedicated to peace and international cooperation.", "category": "historical", "coords": [17.306701, 62.387225]}, {"name": "Skönsmons gravkapell", "text": "A small chapel located in the Skönsmon cemetery in Sundsvall.", "category": "religious", "coords": [17.3487, 62.379487]}, {"name": "Elimkyrkan", "text": "A free church in Sundsvall belonging to the Swedish Alliance Mission.", "category": "religious", "coords": [17.306068, 62.388391]}, {"name": "Betlehemskyrkan", "text": "A Christian church in Sundsvall serving as a place of worship and community.", "category": "religious", "coords": [17.304038, 62.388971]}, {"name": "Granloholms kyrka", "text": "A modern church located in the Granloholm district of Sundsvall.", "category": "religious", "coords": [17.26929, 62.41097]}, {"name": "Skönsmons kyrka", "text": "A distinctive church in the Skönsmon district, known for its architecture.", "category": "religious", "coords": [17.3563, 62.378841]}, {"name": "Lutherska kapellet", "text": "A small Lutheran chapel in Sundsvall used for services and ceremonies.", "category": "religious", "coords": [17.312915, 62.38839]}, {"name": "Birgittakyrkan", "text": "A Catholic church in Sundsvall named after Saint Birgitta.", "category": "religious", "coords": [17.346403, 62.400324]}, {"name": "Byns gravkapell", "text": "A cemetery chapel in Sundsvall used for funeral services.", "category": "religious", "coords": [17.330883, 62.410302]}, {"name": "Brokyrkan", "text": "A local church in Sundsvall hosting a Christian faith community.", "category": "religious", "coords": [17.34367, 62.397977]}, {"name": "Nacksta S:t Olofs kyrka", "text": "A Swedish church located in the Nacksta district of Sundsvall.", "category": "religious", "coords": [17.271719, 62.389164]}, {"name": "Sundsvalls Gustav Adolfs kapell", "text": "A cemetery chapel in the Swedish city of Sundsvall.", "category": "religious", "coords": [17.272719, 62.396871]}, {"name": "Sundsvallsbron", "text": "An impressive motorway bridge spanning the Sundsvall bay.", "category": "landmark", "coords": [17.343189, 62.389068]}, {"name": "Östtjärnen", "text": "Östtjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.262211, 62.32987]}, {"name": "Vintertjärnen", "text": "Vintertjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.233786, 62.347469]}, {"name": "Sticksjön", "text": "Sticksjön is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.271861, 62.414393]}, {"name": "Gärdetjärnen", "text": "Gärdetjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.361637, 62.412047]}, {"name": "Bünsowska tjärn", "text": "Bünsowska tjärn is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.295327, 62.391181]}, {"name": "Bergsåkerstjärnen", "text": "Bergsåkerstjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.225863, 62.411269]}, {"name": "Norrfjärden", "text": "Norrfjärden is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.230138, 62.406765]}, {"name": "Prästtjärnen", "text": "Prästtjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.216326, 62.409633]}, {"name": "Sidsjödammen", "text": "Sidsjödammen is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.28154, 62.379264]}, {"name": "Hulitjärn", "text": "Hulitjärn is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.244116, 62.432609]}, {"name": "Ottsjön", "text": "Ottsjön is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.240047, 62.442524]}, {"name": "Mårtenstjärn", "text": "Mårtenstjärn is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.260758, 62.379861]}, {"name": "Sidsjön", "text": "Sidsjön is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.276823, 62.373361]}, {"name": "Svarttjärnen", "text": "Svarttjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.331083, 62.347662]}, {"name": "Öråkerstjärnen", "text": "Öråkerstjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.282403, 62.455362]}, {"name": "Sommartjärnen", "text": "Sommartjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.241472, 62.339145]}, {"name": "S:t Olovs hamn", "text": "S:t Olovs hamn is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.212857, 62.401472]}, {"name": "Selångersfjärden", "text": "Selångersfjärden is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.220908, 62.403537]}, {"name": "Sundsvallsfjärden", "text": "Sundsvallsfjärden is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.346191, 62.387813]}, {"name": "Draget", "text": "Draget is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.401147, 62.362649]}, {"name": "Sundsvallsbukten", "text": "Sundsvallsbukten is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.590048, 62.337967]}, {"name": "Prästviken", "text": "Prästviken is a lake in Sundsvall, ideal for walking and enjoying the scenery.", "category": "natural", "coords": [17.216697, 62.406828]}, {"name": "JumpYard", "text": "JumpYard is a trampoline park in Sundsvall, offering active fun for families.", "category": "family", "coords": [17.283039, 62.396449]}]},
+    id: "city-sundsvall", "sights": {
+      "de": [
+            {
+                  "name": "Fläsian",
+                  "text": "Strand in der Nähe von Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.371847,
+                        62.361097
+                  ]
+            },
+            {
+                  "name": "Sidsjö strand",
+                  "text": "Beliebt bei Jung und Alt, lädt der Sidsjö Strand in Sundsvall zu erfrischenden Bademomenten in Schweden ein. Seine einladende Ausstrahlung macht ihn zu einem lebendigen Treffpunkt für Familien und Einheimische an sonnigen Tagen. Das Gelände ist ideal für ausgiebiges Plantschen und entspanntes Liegen auf dem Rasen oder Sand. Besonders in den schwedischen Sommermonaten sollte man etwas Zeit für einen langen Nachmittag einplanen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277867,
+                        62.370221
+                  ]
+            },
+            {
+                  "name": "Abborrviken",
+                  "text": "Abborrviken ist eine Badestelle bei Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.274899,
+                        62.374834
+                  ]
+            },
+            {
+                  "name": "Sundsvalls museum",
+                  "text": "Ein Stadtmuseum im Kulturmagasinet, das die Geschichte und Kunst der Region Sundsvall präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.312615,
+                        62.391663
+                  ]
+            },
+            {
+                  "name": "Sundsvalls teater",
+                  "text": "Ein prächtiges historisches Theatergebäude in Sundsvall, das Ende des 19. Jahrhunderts erbaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        17.307883,
+                        62.388561
+                  ]
+            },
+            {
+                  "name": "Hantverks- & sjöfartsmuseum",
+                  "text": "Ein Museum, das der Handwerks- und Seefahrtsgeschichte der Region Sundsvall gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.296366,
+                        62.399249
+                  ]
+            },
+            {
+                  "name": "Skönsbergs Folkets Hus",
+                  "text": "Ein Kultur- und Versammlungsort in Skönsberg, der Theateraufführungen und lokale Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.341332,
+                        62.401252
+                  ]
+            },
+            {
+                  "name": "Himlabadet",
+                  "text": "Ein modernes Erlebnisbad in Sundsvall mit verschiedenen Becken und Wellnessbereichen.",
+                  "category": "family",
+                  "coords": [
+                        17.288959,
+                        62.394264
+                  ]
+            },
+            {
+                  "name": "Konsertteatern",
+                  "text": "Ein Theater in Sundsvall, das hauptsächlich für Konzerte und Bühnenaufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        17.309012,
+                        62.388505
+                  ]
+            },
+            {
+                  "name": "Hög 9",
+                  "text": "Eine archäologische Fundstätte in Sundsvall mit Überresten alter Grabhügel.",
+                  "category": "historical",
+                  "coords": [
+                        17.259079,
+                        62.400694
+                  ]
+            },
+            {
+                  "name": "Hög 5",
+                  "text": "Ein kleinerer Grabhügel in Sundsvall, der als archäologisches Denkmal geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.259991,
+                        62.401073
+                  ]
+            },
+            {
+                  "name": "Storhög 2",
+                  "text": "Einer der bedeutenden großen Grabhügel im archäologischen Gebiet von Sundsvall.",
+                  "category": "historical",
+                  "coords": [
+                        17.257602,
+                        62.401485
+                  ]
+            },
+            {
+                  "name": "Storhög 1",
+                  "text": "Der erste der großen Grabhügel in Sundsvall, die eine wichtige archäologische Stätte bilden.",
+                  "category": "historical",
+                  "coords": [
+                        17.25651,
+                        62.401757
+                  ]
+            },
+            {
+                  "name": "Vängåvan",
+                  "text": "Ein Park im Zentrum von Sundsvall, bekannt für seinen kunstvollen Brunnen.",
+                  "category": "park",
+                  "coords": [
+                        17.309384,
+                        62.390494
+                  ]
+            },
+            {
+                  "name": "Stadshusparken",
+                  "text": "Ein gepflegter Park neben dem Rathaus von Sundsvall.",
+                  "category": "park",
+                  "coords": [
+                        17.306311,
+                        62.389753
+                  ]
+            },
+            {
+                  "name": "Hedbergska parken",
+                  "text": "Ein Park in Sundsvall, der nach der Familie Hedberg benannt ist und zur Erholung einlädt.",
+                  "category": "park",
+                  "coords": [
+                        17.303655,
+                        62.390549
+                  ]
+            },
+            {
+                  "name": "Badhusparken",
+                  "text": "Ein öffentlicher Park in Sundsvall, der sich in der Nähe des ehemaligen Badehauses befindet.",
+                  "category": "park",
+                  "coords": [
+                        17.296662,
+                        62.393142
+                  ]
+            },
+            {
+                  "name": "Norra Berget",
+                  "text": "Ein Aussichtspunkt und Naherholungsgebiet auf einem Hügel in Sundsvall mit einem Freilichtmuseum.",
+                  "category": "natural",
+                  "coords": [
+                        17.294374,
+                        62.398397
+                  ]
+            },
+            {
+                  "name": "Pipeline Sundsvalls Musikforum",
+                  "text": "Ein bekanntes Kulturzentrum und Musikforum für Live-Auftritte in Sundsvall.",
+                  "category": "cultural",
+                  "coords": [
+                        17.31311,
+                        62.389843
+                  ]
+            },
+            {
+                  "name": "Minnesstenen från storstrejken i Sundsvall 1879",
+                  "text": "Ein Denkmal zur Erinnerung an den großen Streik der Sägewerksarbeiter in Sundsvall im Jahr 1879.",
+                  "category": "historical",
+                  "coords": [
+                        17.346941,
+                        62.382968
+                  ]
+            },
+            {
+                  "name": "I fredens tjänst",
+                  "text": "Ein Denkmal in Sundsvall, das dem Frieden und der internationalen Zusammenarbeit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.306701,
+                        62.387225
+                  ]
+            },
+            {
+                  "name": "Skönsmons gravkapell",
+                  "text": "Eine kleine Kapelle auf dem Friedhof von Skönsmon in Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.3487,
+                        62.379487
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "Eine Freikirche in Sundsvall, die zur schwedischen Allianzmission gehört.",
+                  "category": "religious",
+                  "coords": [
+                        17.306068,
+                        62.388391
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "Eine christliche Kirche in Sundsvall, die als Ort der Anbetung und Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.304038,
+                        62.388971
+                  ]
+            },
+            {
+                  "name": "Granloholms kyrka",
+                  "text": "Eine moderne Kirche im Stadtteil Granloholm in Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.26929,
+                        62.41097
+                  ]
+            },
+            {
+                  "name": "Skönsmons kyrka",
+                  "text": "Eine markante Kirche im Stadtteil Skönsmon, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        17.3563,
+                        62.378841
+                  ]
+            },
+            {
+                  "name": "Lutherska kapellet",
+                  "text": "Eine kleine lutherische Kapelle in Sundsvall für Gottesdienste und Zeremonien.",
+                  "category": "religious",
+                  "coords": [
+                        17.312915,
+                        62.38839
+                  ]
+            },
+            {
+                  "name": "Birgittakyrkan",
+                  "text": "Eine katholische Kirche in Sundsvall, die nach der heiligen Birgitta benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.346403,
+                        62.400324
+                  ]
+            },
+            {
+                  "name": "Byns gravkapell",
+                  "text": "Eine Friedhofskapelle in Sundsvall, die für Trauerfeiern genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        17.330883,
+                        62.410302
+                  ]
+            },
+            {
+                  "name": "Brokyrkan",
+                  "text": "Eine lokale Kirche in Sundsvall, die eine christliche Glaubensgemeinschaft beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        17.34367,
+                        62.397977
+                  ]
+            },
+            {
+                  "name": "Nacksta S:t Olofs kyrka",
+                  "text": "Eine schwedische Kirche im Stadtteil Nacksta in Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.271719,
+                        62.389164
+                  ]
+            },
+            {
+                  "name": "Sundsvalls Gustav Adolfs kapell",
+                  "text": "Eine Friedhofskapelle in der schwedischen Stadt Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.272719,
+                        62.396871
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbron",
+                  "text": "Eine beeindruckende Autobahnbrücke, die die Bucht von Sundsvall überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.343189,
+                        62.389068
+                  ]
+            },
+            {
+                  "name": "Östtjärnen",
+                  "text": "Östtjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.262211,
+                        62.32987
+                  ]
+            },
+            {
+                  "name": "Vintertjärnen",
+                  "text": "Vintertjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.233786,
+                        62.347469
+                  ]
+            },
+            {
+                  "name": "Sticksjön",
+                  "text": "Sticksjön ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.271861,
+                        62.414393
+                  ]
+            },
+            {
+                  "name": "Gärdetjärnen",
+                  "text": "Gärdetjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.361637,
+                        62.412047
+                  ]
+            },
+            {
+                  "name": "Bünsowska tjärn",
+                  "text": "Bünsowska tjärn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.295327,
+                        62.391181
+                  ]
+            },
+            {
+                  "name": "Bergsåkerstjärnen",
+                  "text": "Bergsåkerstjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.225863,
+                        62.411269
+                  ]
+            },
+            {
+                  "name": "Norrfjärden",
+                  "text": "Norrfjärden ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.230138,
+                        62.406765
+                  ]
+            },
+            {
+                  "name": "Prästtjärnen",
+                  "text": "Prästtjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.216326,
+                        62.409633
+                  ]
+            },
+            {
+                  "name": "Sidsjödammen",
+                  "text": "Sidsjödammen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.28154,
+                        62.379264
+                  ]
+            },
+            {
+                  "name": "Hulitjärn",
+                  "text": "Hulitjärn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.244116,
+                        62.432609
+                  ]
+            },
+            {
+                  "name": "Ottsjön",
+                  "text": "Ottsjön ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.240047,
+                        62.442524
+                  ]
+            },
+            {
+                  "name": "Mårtenstjärn",
+                  "text": "Mårtenstjärn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.260758,
+                        62.379861
+                  ]
+            },
+            {
+                  "name": "Sidsjön",
+                  "text": "Sidsjön ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.276823,
+                        62.373361
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "Svarttjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.331083,
+                        62.347662
+                  ]
+            },
+            {
+                  "name": "Öråkerstjärnen",
+                  "text": "Öråkerstjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.282403,
+                        62.455362
+                  ]
+            },
+            {
+                  "name": "Sommartjärnen",
+                  "text": "Sommartjärnen ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.241472,
+                        62.339145
+                  ]
+            },
+            {
+                  "name": "S:t Olovs hamn",
+                  "text": "S:t Olovs hamn ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.212857,
+                        62.401472
+                  ]
+            },
+            {
+                  "name": "Selångersfjärden",
+                  "text": "Selångersfjärden ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.220908,
+                        62.403537
+                  ]
+            },
+            {
+                  "name": "Sundsvallsfjärden",
+                  "text": "Sundsvallsfjärden ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.346191,
+                        62.387813
+                  ]
+            },
+            {
+                  "name": "Draget",
+                  "text": "Draget ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.401147,
+                        62.362649
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbukten",
+                  "text": "Sundsvallsbukten ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.590048,
+                        62.337967
+                  ]
+            },
+            {
+                  "name": "Prästviken",
+                  "text": "Prästviken ist ein See in Sundsvall, ideal zum Spazierengehen und Genießen der Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.216697,
+                        62.406828
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "JumpYard ist ein Trampolinpark in Sundsvall, der aktiven Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        17.283039,
+                        62.396449
+                  ]
+            },
+            {
+                  "name": "Kubenbadet",
+                  "text": "Ein öffentliches Bad in Sundsvall mit Einrichtungen zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        17.35324,
+                        62.373742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fläsian",
+                  "text": "Part Sundsvall közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.371847,
+                        62.361097
+                  ]
+            },
+            {
+                  "name": "Sidsjö strand",
+                  "text": "A fiatalok és idősek körében egyaránt népszerű svédországi Sidsjö strand frissítő fürdőzésre hívogat Sundsvallban. Hívogató kisugárzása miatt élénk találkozóhelye a családoknak és a helyieknek a napsütéses napokon. A terület ideális egy kiadós pancsolásra, valamint a füvön vagy a homokon történő pihenésre. Különösen a svéd nyári hónapokban érdemes némi időt szánni egy hosszú délutánra.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277867,
+                        62.370221
+                  ]
+            },
+            {
+                  "name": "Abborrviken",
+                  "text": "Abborrviken egy strandfürdő Sundsvall közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.274899,
+                        62.374834
+                  ]
+            },
+            {
+                  "name": "Sundsvalls museum",
+                  "text": "Városi múzeum a Kulturmagasinetben, amely Sundsvall régiójának történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.312615,
+                        62.391663
+                  ]
+            },
+            {
+                  "name": "Sundsvalls teater",
+                  "text": "Pompás történelmi színházépület Sundsvallban, amely a 19. század végén épült.",
+                  "category": "cultural",
+                  "coords": [
+                        17.307883,
+                        62.388561
+                  ]
+            },
+            {
+                  "name": "Hantverks- & sjöfartsmuseum",
+                  "text": "Múzeum, amelyet Sundsvall régiójának kézműves és tengerészeti történelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        17.296366,
+                        62.399249
+                  ]
+            },
+            {
+                  "name": "Skönsbergs Folkets Hus",
+                  "text": "Kulturális és találkozóhely Skönsbergben, amely színházi előadásoknak és helyi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.341332,
+                        62.401252
+                  ]
+            },
+            {
+                  "name": "Himlabadet",
+                  "text": "Modern élményfürdő Sundsvallban, különböző medencékkel és wellness-részlegekkel.",
+                  "category": "family",
+                  "coords": [
+                        17.288959,
+                        62.394264
+                  ]
+            },
+            {
+                  "name": "Konsertteatern",
+                  "text": "Sundsvalli színház, amelyet főként koncertekre és színpadi előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        17.309012,
+                        62.388505
+                  ]
+            },
+            {
+                  "name": "Hög 9",
+                  "text": "Régészeti lelőhely Sundsvallban, ősi sírhalmok maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        17.259079,
+                        62.400694
+                  ]
+            },
+            {
+                  "name": "Hög 5",
+                  "text": "Kisebb sírhalom Sundsvallban, amely régészeti műemlékként védett.",
+                  "category": "historical",
+                  "coords": [
+                        17.259991,
+                        62.401073
+                  ]
+            },
+            {
+                  "name": "Storhög 2",
+                  "text": "A sundsvalli régészeti terület egyik jelentős nagy sírhalma.",
+                  "category": "historical",
+                  "coords": [
+                        17.257602,
+                        62.401485
+                  ]
+            },
+            {
+                  "name": "Storhög 1",
+                  "text": "Az első a sundsvalli nagy sírhalmok közül, amelyek fontos régészeti lelőhelyet alkotnak.",
+                  "category": "historical",
+                  "coords": [
+                        17.25651,
+                        62.401757
+                  ]
+            },
+            {
+                  "name": "Vängåvan",
+                  "text": "Park Sundsvall központjában, amely díszes szökőkútjáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        17.309384,
+                        62.390494
+                  ]
+            },
+            {
+                  "name": "Stadshusparken",
+                  "text": "Gondozott park a sundsvalli városháza mellett.",
+                  "category": "park",
+                  "coords": [
+                        17.306311,
+                        62.389753
+                  ]
+            },
+            {
+                  "name": "Hedbergska parken",
+                  "text": "Sundsvalli park, amelyet a Hedberg családról neveztek el, és pihenésre hív.",
+                  "category": "park",
+                  "coords": [
+                        17.303655,
+                        62.390549
+                  ]
+            },
+            {
+                  "name": "Badhusparken",
+                  "text": "Nyilvános park Sundsvallban, az egykori fürdőház közelében.",
+                  "category": "park",
+                  "coords": [
+                        17.296662,
+                        62.393142
+                  ]
+            },
+            {
+                  "name": "Norra Berget",
+                  "text": "Kilátópont és szabadidős terület egy sundsvalli dombon, szabadtéri múzeummal.",
+                  "category": "natural",
+                  "coords": [
+                        17.294374,
+                        62.398397
+                  ]
+            },
+            {
+                  "name": "Pipeline Sundsvalls Musikforum",
+                  "text": "Ismert kulturális központ és zenei fórum élő fellépésekhez Sundsvallban.",
+                  "category": "cultural",
+                  "coords": [
+                        17.31311,
+                        62.389843
+                  ]
+            },
+            {
+                  "name": "Minnesstenen från storstrejken i Sundsvall 1879",
+                  "text": "Emlékmű az 1879-es nagy sundsvalli fűrészüzemi sztrájk emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        17.346941,
+                        62.382968
+                  ]
+            },
+            {
+                  "name": "I fredens tjänst",
+                  "text": "Sundsvalli emlékmű, amelyet a békének és a nemzetközi együttműködésnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        17.306701,
+                        62.387225
+                  ]
+            },
+            {
+                  "name": "Skönsmons gravkapell",
+                  "text": "Kisméretű kápolna a sundsvalli Skönsmon temetőben.",
+                  "category": "religious",
+                  "coords": [
+                        17.3487,
+                        62.379487
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "Szabadtemplom Sundsvallban, amely a Svéd Szövetségi Misszióhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        17.306068,
+                        62.388391
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "Keresztény templom Sundsvallban, amely istentiszteleti és közösségi helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        17.304038,
+                        62.388971
+                  ]
+            },
+            {
+                  "name": "Granloholms kyrka",
+                  "text": "Modern templom Sundsvall Granloholm negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.26929,
+                        62.41097
+                  ]
+            },
+            {
+                  "name": "Skönsmons kyrka",
+                  "text": "Jellegzetes templom Skönsmon negyedében, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        17.3563,
+                        62.378841
+                  ]
+            },
+            {
+                  "name": "Lutherska kapellet",
+                  "text": "Kisméretű lutheránus kápolna Sundsvallban istentiszteletek és szertartások számára.",
+                  "category": "religious",
+                  "coords": [
+                        17.312915,
+                        62.38839
+                  ]
+            },
+            {
+                  "name": "Birgittakyrkan",
+                  "text": "Sundsvalli katolikus templom, amelyet Szent Birgittáról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        17.346403,
+                        62.400324
+                  ]
+            },
+            {
+                  "name": "Byns gravkapell",
+                  "text": "Temetői kápolna Sundsvallban, amelyet gyászszertartásokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        17.330883,
+                        62.410302
+                  ]
+            },
+            {
+                  "name": "Brokyrkan",
+                  "text": "Helyi templom Sundsvallban, amely egy keresztény hitéletnek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        17.34367,
+                        62.397977
+                  ]
+            },
+            {
+                  "name": "Nacksta S:t Olofs kyrka",
+                  "text": "Evangélikus templom Sundsvall Nacksta városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        17.271719,
+                        62.389164
+                  ]
+            },
+            {
+                  "name": "Sundsvalls Gustav Adolfs kapell",
+                  "text": "Temetőkápolna a svédországi Sundsvall városában.",
+                  "category": "religious",
+                  "coords": [
+                        17.272719,
+                        62.396871
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbron",
+                  "text": "Lenyűgöző autópályahíd, amely átíveli a Sundsvall-öblöt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.343189,
+                        62.389068
+                  ]
+            },
+            {
+                  "name": "Östtjärnen",
+                  "text": "A Östtjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.262211,
+                        62.32987
+                  ]
+            },
+            {
+                  "name": "Vintertjärnen",
+                  "text": "A Vintertjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.233786,
+                        62.347469
+                  ]
+            },
+            {
+                  "name": "Sticksjön",
+                  "text": "A Sticksjön egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.271861,
+                        62.414393
+                  ]
+            },
+            {
+                  "name": "Gärdetjärnen",
+                  "text": "A Gärdetjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.361637,
+                        62.412047
+                  ]
+            },
+            {
+                  "name": "Bünsowska tjärn",
+                  "text": "A Bünsowska tjärn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.295327,
+                        62.391181
+                  ]
+            },
+            {
+                  "name": "Bergsåkerstjärnen",
+                  "text": "A Bergsåkerstjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.225863,
+                        62.411269
+                  ]
+            },
+            {
+                  "name": "Norrfjärden",
+                  "text": "A Norrfjärden egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.230138,
+                        62.406765
+                  ]
+            },
+            {
+                  "name": "Prästtjärnen",
+                  "text": "A Prästtjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.216326,
+                        62.409633
+                  ]
+            },
+            {
+                  "name": "Sidsjödammen",
+                  "text": "A Sidsjödammen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.28154,
+                        62.379264
+                  ]
+            },
+            {
+                  "name": "Hulitjärn",
+                  "text": "A Hulitjärn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.244116,
+                        62.432609
+                  ]
+            },
+            {
+                  "name": "Ottsjön",
+                  "text": "A Ottsjön egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.240047,
+                        62.442524
+                  ]
+            },
+            {
+                  "name": "Mårtenstjärn",
+                  "text": "A Mårtenstjärn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.260758,
+                        62.379861
+                  ]
+            },
+            {
+                  "name": "Sidsjön",
+                  "text": "A Sidsjön egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.276823,
+                        62.373361
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "A Svarttjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.331083,
+                        62.347662
+                  ]
+            },
+            {
+                  "name": "Öråkerstjärnen",
+                  "text": "A Öråkerstjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.282403,
+                        62.455362
+                  ]
+            },
+            {
+                  "name": "Sommartjärnen",
+                  "text": "A Sommartjärnen egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.241472,
+                        62.339145
+                  ]
+            },
+            {
+                  "name": "S:t Olovs hamn",
+                  "text": "A S:t Olovs hamn egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.212857,
+                        62.401472
+                  ]
+            },
+            {
+                  "name": "Selångersfjärden",
+                  "text": "A Selångersfjärden egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.220908,
+                        62.403537
+                  ]
+            },
+            {
+                  "name": "Sundsvallsfjärden",
+                  "text": "A Sundsvallsfjärden egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.346191,
+                        62.387813
+                  ]
+            },
+            {
+                  "name": "Draget",
+                  "text": "A Draget egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.401147,
+                        62.362649
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbukten",
+                  "text": "A Sundsvallsbukten egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.590048,
+                        62.337967
+                  ]
+            },
+            {
+                  "name": "Prästviken",
+                  "text": "A Prästviken egy tó Sundsvall városában, amely ideális sétáláshoz és a táj élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.216697,
+                        62.406828
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "A JumpYard egy trambulinpark Sundsvall városában, amely aktív szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        17.283039,
+                        62.396449
+                  ]
+            },
+            {
+                  "name": "Kubenbadet",
+                  "text": "Sundsvall közfürdője, amely úszási és relaxációs lehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        17.35324,
+                        62.373742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fläsian",
+                  "text": "Plajă în apropiere de Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.371847,
+                        62.361097
+                  ]
+            },
+            {
+                  "name": "Sidsjö strand",
+                  "text": "Populară printre tineri și vârstnici deopotrivă, Sidsjö Strand din Sundsvall vă invită la momente răcoritoare de înot în Suedia. Carisma sa primitoare o face un loc de întâlnire plin de viață pentru familii și localnici în zilele însorite. Zona este ideală pentru bălăceală și pentru a vă întinde relaxat pe iarbă sau pe nisip. Mai ales în lunile de vară suedeze, ar trebui să vă rezervați timp pentru o după-amiază lungă.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277867,
+                        62.370221
+                  ]
+            },
+            {
+                  "name": "Abborrviken",
+                  "text": "Abborrviken este o zonă de plajă lângă Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.274899,
+                        62.374834
+                  ]
+            },
+            {
+                  "name": "Sundsvalls museum",
+                  "text": "Un muzeu al orașului în Kulturmagasinet, care prezintă istoria și arta regiunii Sundsvall.",
+                  "category": "museum",
+                  "coords": [
+                        17.312615,
+                        62.391663
+                  ]
+            },
+            {
+                  "name": "Sundsvalls teater",
+                  "text": "O clădire istorică splendidă a teatrului din Sundsvall, construită la sfârșitul secolului al XIX-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        17.307883,
+                        62.388561
+                  ]
+            },
+            {
+                  "name": "Hantverks- & sjöfartsmuseum",
+                  "text": "Un muzeu dedicat istoriei meșteșugurilor și navigației din regiunea Sundsvall.",
+                  "category": "museum",
+                  "coords": [
+                        17.296366,
+                        62.399249
+                  ]
+            },
+            {
+                  "name": "Skönsbergs Folkets Hus",
+                  "text": "Un loc cultural și de întâlnire în Skönsberg, care găzduiește spectacole de teatru și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.341332,
+                        62.401252
+                  ]
+            },
+            {
+                  "name": "Himlabadet",
+                  "text": "Un parc acvatic modern în Sundsvall, cu diverse bazine și zone de wellness.",
+                  "category": "family",
+                  "coords": [
+                        17.288959,
+                        62.394264
+                  ]
+            },
+            {
+                  "name": "Konsertteatern",
+                  "text": "Un teatru în Sundsvall folosit în principal pentru concerte și spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        17.309012,
+                        62.388505
+                  ]
+            },
+            {
+                  "name": "Hög 9",
+                  "text": "Un sit arheologic în Sundsvall, cu rămășițe ale unor vechi tumuli.",
+                  "category": "historical",
+                  "coords": [
+                        17.259079,
+                        62.400694
+                  ]
+            },
+            {
+                  "name": "Hög 5",
+                  "text": "Un tumul mai mic în Sundsvall, protejat ca monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        17.259991,
+                        62.401073
+                  ]
+            },
+            {
+                  "name": "Storhög 2",
+                  "text": "Unul dintre tumulii mari semnificativi din zona arheologică a orașului Sundsvall.",
+                  "category": "historical",
+                  "coords": [
+                        17.257602,
+                        62.401485
+                  ]
+            },
+            {
+                  "name": "Storhög 1",
+                  "text": "Primul dintre marii tumuli din Sundsvall, care formează un sit arheologic important.",
+                  "category": "historical",
+                  "coords": [
+                        17.25651,
+                        62.401757
+                  ]
+            },
+            {
+                  "name": "Vängåvan",
+                  "text": "Un parc în centrul orașului Sundsvall, cunoscut pentru fântâna sa elaborată.",
+                  "category": "park",
+                  "coords": [
+                        17.309384,
+                        62.390494
+                  ]
+            },
+            {
+                  "name": "Stadshusparken",
+                  "text": "Un parc bine întreținut lângă primăria din Sundsvall.",
+                  "category": "park",
+                  "coords": [
+                        17.306311,
+                        62.389753
+                  ]
+            },
+            {
+                  "name": "Hedbergska parken",
+                  "text": "Un parc din Sundsvall, numit după familia Hedberg, care invită la relaxare.",
+                  "category": "park",
+                  "coords": [
+                        17.303655,
+                        62.390549
+                  ]
+            },
+            {
+                  "name": "Badhusparken",
+                  "text": "Un parc public în Sundsvall, situat în apropierea fostei băi publice.",
+                  "category": "park",
+                  "coords": [
+                        17.296662,
+                        62.393142
+                  ]
+            },
+            {
+                  "name": "Norra Berget",
+                  "text": "Un punct de belvedere și zonă de recreere pe un deal din Sundsvall, cu un muzeu în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.294374,
+                        62.398397
+                  ]
+            },
+            {
+                  "name": "Pipeline Sundsvalls Musikforum",
+                  "text": "Un centru cultural și forum muzical cunoscut pentru spectacole live în Sundsvall.",
+                  "category": "cultural",
+                  "coords": [
+                        17.31311,
+                        62.389843
+                  ]
+            },
+            {
+                  "name": "Minnesstenen från storstrejken i Sundsvall 1879",
+                  "text": "Un monument care comemorează marea grevă a lucrătorilor de la gater din Sundsvall din 1879.",
+                  "category": "historical",
+                  "coords": [
+                        17.346941,
+                        62.382968
+                  ]
+            },
+            {
+                  "name": "I fredens tjänst",
+                  "text": "Un monument în Sundsvall dedicat păcii și cooperării internaționale.",
+                  "category": "historical",
+                  "coords": [
+                        17.306701,
+                        62.387225
+                  ]
+            },
+            {
+                  "name": "Skönsmons gravkapell",
+                  "text": "O mică capelă în cimitirul Skönsmon din Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.3487,
+                        62.379487
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "O biserică liberă din Sundsvall, aparținând Misiunii Alianței Suedeze.",
+                  "category": "religious",
+                  "coords": [
+                        17.306068,
+                        62.388391
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "O biserică creștină din Sundsvall, care servește ca loc de închinare și comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        17.304038,
+                        62.388971
+                  ]
+            },
+            {
+                  "name": "Granloholms kyrka",
+                  "text": "O biserică modernă în districtul Granloholm din Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.26929,
+                        62.41097
+                  ]
+            },
+            {
+                  "name": "Skönsmons kyrka",
+                  "text": "O biserică distinctivă din districtul Skönsmon, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        17.3563,
+                        62.378841
+                  ]
+            },
+            {
+                  "name": "Lutherska kapellet",
+                  "text": "O mică capelă luterană în Sundsvall pentru slujbe și ceremonii.",
+                  "category": "religious",
+                  "coords": [
+                        17.312915,
+                        62.38839
+                  ]
+            },
+            {
+                  "name": "Birgittakyrkan",
+                  "text": "O biserică catolică din Sundsvall, numită după Sfânta Birgitta.",
+                  "category": "religious",
+                  "coords": [
+                        17.346403,
+                        62.400324
+                  ]
+            },
+            {
+                  "name": "Byns gravkapell",
+                  "text": "O capelă de cimitir din Sundsvall, folosită pentru ceremonii funerare.",
+                  "category": "religious",
+                  "coords": [
+                        17.330883,
+                        62.410302
+                  ]
+            },
+            {
+                  "name": "Brokyrkan",
+                  "text": "O biserică locală din Sundsvall, care găzduiește o comunitate de credință creștină.",
+                  "category": "religious",
+                  "coords": [
+                        17.34367,
+                        62.397977
+                  ]
+            },
+            {
+                  "name": "Nacksta S:t Olofs kyrka",
+                  "text": "O biserică suedeză situată în cartierul Nacksta din Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.271719,
+                        62.389164
+                  ]
+            },
+            {
+                  "name": "Sundsvalls Gustav Adolfs kapell",
+                  "text": "O capelă de cimitir în orașul suedez Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.272719,
+                        62.396871
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbron",
+                  "text": "Un pod de autostradă impresionant care traversează golful Sundsvall.",
+                  "category": "landmark",
+                  "coords": [
+                        17.343189,
+                        62.389068
+                  ]
+            },
+            {
+                  "name": "Östtjärnen",
+                  "text": "Östtjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.262211,
+                        62.32987
+                  ]
+            },
+            {
+                  "name": "Vintertjärnen",
+                  "text": "Vintertjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.233786,
+                        62.347469
+                  ]
+            },
+            {
+                  "name": "Sticksjön",
+                  "text": "Sticksjön este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.271861,
+                        62.414393
+                  ]
+            },
+            {
+                  "name": "Gärdetjärnen",
+                  "text": "Gärdetjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.361637,
+                        62.412047
+                  ]
+            },
+            {
+                  "name": "Bünsowska tjärn",
+                  "text": "Bünsowska tjärn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.295327,
+                        62.391181
+                  ]
+            },
+            {
+                  "name": "Bergsåkerstjärnen",
+                  "text": "Bergsåkerstjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.225863,
+                        62.411269
+                  ]
+            },
+            {
+                  "name": "Norrfjärden",
+                  "text": "Norrfjärden este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.230138,
+                        62.406765
+                  ]
+            },
+            {
+                  "name": "Prästtjärnen",
+                  "text": "Prästtjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.216326,
+                        62.409633
+                  ]
+            },
+            {
+                  "name": "Sidsjödammen",
+                  "text": "Sidsjödammen este un lac în Sundsvall, ideal für plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.28154,
+                        62.379264
+                  ]
+            },
+            {
+                  "name": "Hulitjärn",
+                  "text": "Hulitjärn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.244116,
+                        62.432609
+                  ]
+            },
+            {
+                  "name": "Ottsjön",
+                  "text": "Ottsjön este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.240047,
+                        62.442524
+                  ]
+            },
+            {
+                  "name": "Mårtenstjärn",
+                  "text": "Mårtenstjärn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.260758,
+                        62.379861
+                  ]
+            },
+            {
+                  "name": "Sidsjön",
+                  "text": "Sidsjön este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.276823,
+                        62.373361
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "Svarttjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.331083,
+                        62.347662
+                  ]
+            },
+            {
+                  "name": "Öråkerstjärnen",
+                  "text": "Öråkerstjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.282403,
+                        62.455362
+                  ]
+            },
+            {
+                  "name": "Sommartjärnen",
+                  "text": "Sommartjärnen este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.241472,
+                        62.339145
+                  ]
+            },
+            {
+                  "name": "S:t Olovs hamn",
+                  "text": "S:t Olovs hamn este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.212857,
+                        62.401472
+                  ]
+            },
+            {
+                  "name": "Selångersfjärden",
+                  "text": "Selångersfjärden este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.220908,
+                        62.403537
+                  ]
+            },
+            {
+                  "name": "Sundsvallsfjärden",
+                  "text": "Sundsvallsfjärden este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.346191,
+                        62.387813
+                  ]
+            },
+            {
+                  "name": "Draget",
+                  "text": "Draget este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.401147,
+                        62.362649
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbukten",
+                  "text": "Sundsvallsbukten este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.590048,
+                        62.337967
+                  ]
+            },
+            {
+                  "name": "Prästviken",
+                  "text": "Prästviken este un lac în Sundsvall, ideal pentru plimbări și relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.216697,
+                        62.406828
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "JumpYard este un parc de trambuline în Sundsvall, oferind distracție activă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.283039,
+                        62.396449
+                  ]
+            },
+            {
+                  "name": "Kubenbadet",
+                  "text": "O baie publică în Sundsvall care oferă facilități pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.35324,
+                        62.373742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fläsian",
+                  "text": "Beach near Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.371847,
+                        62.361097
+                  ]
+            },
+            {
+                  "name": "Sidsjö strand",
+                  "text": "Popular with young and old alike, Sidsjö Strand in Sundsvall invites you to refreshing swimming moments in Sweden. Its inviting charisma makes it a lively meeting place for families and locals on sunny days. The area is ideal for extensive splashing and relaxing on the grass or sand. Especially in the Swedish summer months, you should schedule some time for a long afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277867,
+                        62.370221
+                  ]
+            },
+            {
+                  "name": "Abborrviken",
+                  "text": "Abborrviken is a swimming area near Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.274899,
+                        62.374834
+                  ]
+            },
+            {
+                  "name": "Sundsvalls museum",
+                  "text": "A city museum located in Kulturmagasinet, showcasing the history and art of the Sundsvall region.",
+                  "category": "museum",
+                  "coords": [
+                        17.312615,
+                        62.391663
+                  ]
+            },
+            {
+                  "name": "Sundsvalls teater",
+                  "text": "A magnificent historical theatre building in Sundsvall, built in the late 19th century.",
+                  "category": "cultural",
+                  "coords": [
+                        17.307883,
+                        62.388561
+                  ]
+            },
+            {
+                  "name": "Hantverks- & sjöfartsmuseum",
+                  "text": "A museum dedicated to the craft and maritime history of the Sundsvall region.",
+                  "category": "museum",
+                  "coords": [
+                        17.296366,
+                        62.399249
+                  ]
+            },
+            {
+                  "name": "Skönsbergs Folkets Hus",
+                  "text": "A cultural and meeting venue in Skönsberg hosting theatre performances and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        17.341332,
+                        62.401252
+                  ]
+            },
+            {
+                  "name": "Himlabadet",
+                  "text": "A modern water park in Sundsvall featuring various pools and wellness areas.",
+                  "category": "family",
+                  "coords": [
+                        17.288959,
+                        62.394264
+                  ]
+            },
+            {
+                  "name": "Konsertteatern",
+                  "text": "A theatre in Sundsvall primarily used for concerts and stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        17.309012,
+                        62.388505
+                  ]
+            },
+            {
+                  "name": "Hög 9",
+                  "text": "An archaeological site in Sundsvall featuring remains of ancient burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        17.259079,
+                        62.400694
+                  ]
+            },
+            {
+                  "name": "Hög 5",
+                  "text": "A smaller burial mound in Sundsvall protected as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        17.259991,
+                        62.401073
+                  ]
+            },
+            {
+                  "name": "Storhög 2",
+                  "text": "One of the significant large burial mounds in the archaeological area of Sundsvall.",
+                  "category": "historical",
+                  "coords": [
+                        17.257602,
+                        62.401485
+                  ]
+            },
+            {
+                  "name": "Storhög 1",
+                  "text": "The first of the large burial mounds in Sundsvall, forming an important archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        17.25651,
+                        62.401757
+                  ]
+            },
+            {
+                  "name": "Vängåvan",
+                  "text": "A park in central Sundsvall known for its ornate fountain.",
+                  "category": "park",
+                  "coords": [
+                        17.309384,
+                        62.390494
+                  ]
+            },
+            {
+                  "name": "Stadshusparken",
+                  "text": "A well-maintained park located next to the Sundsvall City Hall.",
+                  "category": "park",
+                  "coords": [
+                        17.306311,
+                        62.389753
+                  ]
+            },
+            {
+                  "name": "Hedbergska parken",
+                  "text": "A park in Sundsvall named after the Hedberg family, inviting relaxation.",
+                  "category": "park",
+                  "coords": [
+                        17.303655,
+                        62.390549
+                  ]
+            },
+            {
+                  "name": "Badhusparken",
+                  "text": "A public park in Sundsvall located near the former bathhouse.",
+                  "category": "park",
+                  "coords": [
+                        17.296662,
+                        62.393142
+                  ]
+            },
+            {
+                  "name": "Norra Berget",
+                  "text": "A viewpoint and recreational area on a hill in Sundsvall featuring an open-air museum.",
+                  "category": "natural",
+                  "coords": [
+                        17.294374,
+                        62.398397
+                  ]
+            },
+            {
+                  "name": "Pipeline Sundsvalls Musikforum",
+                  "text": "A well-known arts centre and music forum for live performances in Sundsvall.",
+                  "category": "cultural",
+                  "coords": [
+                        17.31311,
+                        62.389843
+                  ]
+            },
+            {
+                  "name": "Minnesstenen från storstrejken i Sundsvall 1879",
+                  "text": "A monument commemorating the great sawmill strike in Sundsvall in 1879.",
+                  "category": "historical",
+                  "coords": [
+                        17.346941,
+                        62.382968
+                  ]
+            },
+            {
+                  "name": "I fredens tjänst",
+                  "text": "A monument in Sundsvall dedicated to peace and international cooperation.",
+                  "category": "historical",
+                  "coords": [
+                        17.306701,
+                        62.387225
+                  ]
+            },
+            {
+                  "name": "Skönsmons gravkapell",
+                  "text": "A small chapel located in the Skönsmon cemetery in Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.3487,
+                        62.379487
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "A free church in Sundsvall belonging to the Swedish Alliance Mission.",
+                  "category": "religious",
+                  "coords": [
+                        17.306068,
+                        62.388391
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "A Christian church in Sundsvall serving as a place of worship and community.",
+                  "category": "religious",
+                  "coords": [
+                        17.304038,
+                        62.388971
+                  ]
+            },
+            {
+                  "name": "Granloholms kyrka",
+                  "text": "A modern church located in the Granloholm district of Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.26929,
+                        62.41097
+                  ]
+            },
+            {
+                  "name": "Skönsmons kyrka",
+                  "text": "A distinctive church in the Skönsmon district, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        17.3563,
+                        62.378841
+                  ]
+            },
+            {
+                  "name": "Lutherska kapellet",
+                  "text": "A small Lutheran chapel in Sundsvall used for services and ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        17.312915,
+                        62.38839
+                  ]
+            },
+            {
+                  "name": "Birgittakyrkan",
+                  "text": "A Catholic church in Sundsvall named after Saint Birgitta.",
+                  "category": "religious",
+                  "coords": [
+                        17.346403,
+                        62.400324
+                  ]
+            },
+            {
+                  "name": "Byns gravkapell",
+                  "text": "A cemetery chapel in Sundsvall used for funeral services.",
+                  "category": "religious",
+                  "coords": [
+                        17.330883,
+                        62.410302
+                  ]
+            },
+            {
+                  "name": "Brokyrkan",
+                  "text": "A local church in Sundsvall hosting a Christian faith community.",
+                  "category": "religious",
+                  "coords": [
+                        17.34367,
+                        62.397977
+                  ]
+            },
+            {
+                  "name": "Nacksta S:t Olofs kyrka",
+                  "text": "A Swedish church located in the Nacksta district of Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.271719,
+                        62.389164
+                  ]
+            },
+            {
+                  "name": "Sundsvalls Gustav Adolfs kapell",
+                  "text": "A cemetery chapel in the Swedish city of Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.272719,
+                        62.396871
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbron",
+                  "text": "An impressive motorway bridge spanning the Sundsvall bay.",
+                  "category": "landmark",
+                  "coords": [
+                        17.343189,
+                        62.389068
+                  ]
+            },
+            {
+                  "name": "Östtjärnen",
+                  "text": "Östtjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.262211,
+                        62.32987
+                  ]
+            },
+            {
+                  "name": "Vintertjärnen",
+                  "text": "Vintertjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.233786,
+                        62.347469
+                  ]
+            },
+            {
+                  "name": "Sticksjön",
+                  "text": "Sticksjön is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.271861,
+                        62.414393
+                  ]
+            },
+            {
+                  "name": "Gärdetjärnen",
+                  "text": "Gärdetjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.361637,
+                        62.412047
+                  ]
+            },
+            {
+                  "name": "Bünsowska tjärn",
+                  "text": "Bünsowska tjärn is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.295327,
+                        62.391181
+                  ]
+            },
+            {
+                  "name": "Bergsåkerstjärnen",
+                  "text": "Bergsåkerstjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.225863,
+                        62.411269
+                  ]
+            },
+            {
+                  "name": "Norrfjärden",
+                  "text": "Norrfjärden is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.230138,
+                        62.406765
+                  ]
+            },
+            {
+                  "name": "Prästtjärnen",
+                  "text": "Prästtjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.216326,
+                        62.409633
+                  ]
+            },
+            {
+                  "name": "Sidsjödammen",
+                  "text": "Sidsjödammen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.28154,
+                        62.379264
+                  ]
+            },
+            {
+                  "name": "Hulitjärn",
+                  "text": "Hulitjärn is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.244116,
+                        62.432609
+                  ]
+            },
+            {
+                  "name": "Ottsjön",
+                  "text": "Ottsjön is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.240047,
+                        62.442524
+                  ]
+            },
+            {
+                  "name": "Mårtenstjärn",
+                  "text": "Mårtenstjärn is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.260758,
+                        62.379861
+                  ]
+            },
+            {
+                  "name": "Sidsjön",
+                  "text": "Sidsjön is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.276823,
+                        62.373361
+                  ]
+            },
+            {
+                  "name": "Svarttjärnen",
+                  "text": "Svarttjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.331083,
+                        62.347662
+                  ]
+            },
+            {
+                  "name": "Öråkerstjärnen",
+                  "text": "Öråkerstjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.282403,
+                        62.455362
+                  ]
+            },
+            {
+                  "name": "Sommartjärnen",
+                  "text": "Sommartjärnen is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.241472,
+                        62.339145
+                  ]
+            },
+            {
+                  "name": "S:t Olovs hamn",
+                  "text": "S:t Olovs hamn is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.212857,
+                        62.401472
+                  ]
+            },
+            {
+                  "name": "Selångersfjärden",
+                  "text": "Selångersfjärden is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.220908,
+                        62.403537
+                  ]
+            },
+            {
+                  "name": "Sundsvallsfjärden",
+                  "text": "Sundsvallsfjärden is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.346191,
+                        62.387813
+                  ]
+            },
+            {
+                  "name": "Draget",
+                  "text": "Draget is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.401147,
+                        62.362649
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbukten",
+                  "text": "Sundsvallsbukten is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.590048,
+                        62.337967
+                  ]
+            },
+            {
+                  "name": "Prästviken",
+                  "text": "Prästviken is a lake in Sundsvall, ideal for walking and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.216697,
+                        62.406828
+                  ]
+            },
+            {
+                  "name": "JumpYard",
+                  "text": "JumpYard is a trampoline park in Sundsvall, offering active fun for families.",
+                  "category": "family",
+                  "coords": [
+                        17.283039,
+                        62.396449
+                  ]
+            },
+            {
+                  "name": "Kubenbadet",
+                  "text": "A public bath in Sundsvall providing facilities for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        17.35324,
+                        62.373742
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [17.3069, 62.3908],
@@ -17470,6 +22960,15 @@ export const swedenCities: POI[] = [
                         22.197803,
                         65.576089
                   ]
+            },
+            {
+                  "name": "Pontusbadet",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Lulea.",
+                  "category": "family",
+                  "coords": [
+                        22.149242,
+                        65.588867
+                  ]
             }
       ],
       "hu": [
@@ -17822,6 +23321,15 @@ export const swedenCities: POI[] = [
                   "coords": [
                         22.197803,
                         65.576089
+                  ]
+            },
+            {
+                  "name": "Pontusbadet",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Lulea városában.",
+                  "category": "family",
+                  "coords": [
+                        22.149242,
+                        65.588867
                   ]
             }
       ],
@@ -18176,6 +23684,15 @@ export const swedenCities: POI[] = [
                         22.197803,
                         65.576089
                   ]
+            },
+            {
+                  "name": "Pontusbadet",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Lulea.",
+                  "category": "family",
+                  "coords": [
+                        22.149242,
+                        65.588867
+                  ]
             }
       ],
       "en": [
@@ -18528,6 +24045,15 @@ export const swedenCities: POI[] = [
                   "coords": [
                         22.197803,
                         65.576089
+                  ]
+            },
+            {
+                  "name": "Pontusbadet",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Lulea.",
+                  "category": "family",
+                  "coords": [
+                        22.149242,
+                        65.588867
                   ]
             }
       ]
@@ -20059,6 +25585,15 @@ export const swedenCities: POI[] = [
                         14.128242,
                         57.784206
                   ]
+            },
+            {
+                  "name": "Rosenlundsbadet",
+                  "text": "Dieser Wasserpark in Joenkoeping bietet verschiedene Becken und Freizeitaktivitäten für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        14.229199,
+                        57.7862
+                  ]
             }
       ],
       "hu": [
@@ -20276,6 +25811,15 @@ export const swedenCities: POI[] = [
                   "coords": [
                         14.128242,
                         57.784206
+                  ]
+            },
+            {
+                  "name": "Rosenlundsbadet",
+                  "text": "Ez a Joenkoeping városában található vízipark különféle medencékkel és szórakoztató programokkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        14.229199,
+                        57.7862
                   ]
             }
       ],
@@ -20495,6 +26039,15 @@ export const swedenCities: POI[] = [
                         14.128242,
                         57.784206
                   ]
+            },
+            {
+                  "name": "Rosenlundsbadet",
+                  "text": "Acest parc acvatic din Joenkoeping oferă diverse piscine și activități distractive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        14.229199,
+                        57.7862
+                  ]
             }
       ],
       "en": [
@@ -20712,6 +26265,15 @@ export const swedenCities: POI[] = [
                   "coords": [
                         14.128242,
                         57.784206
+                  ]
+            },
+            {
+                  "name": "Rosenlundsbadet",
+                  "text": "This water park in Joenkoeping offers various pools and fun activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        14.229199,
+                        57.7862
                   ]
             }
       ]

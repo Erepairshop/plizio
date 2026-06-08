@@ -518,6 +518,15 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.488297,
                         46.066168
                   ]
+            },
+            {
+                  "name": "Momento",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Ljubljana.",
+                  "category": "family",
+                  "coords": [
+                        14.489427,
+                        46.034912
+                  ]
             }
       ],
       "hu": [
@@ -1032,6 +1041,15 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         14.488297,
                         46.066168
+                  ]
+            },
+            {
+                  "name": "Momento",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Ljubljana városában.",
+                  "category": "family",
+                  "coords": [
+                        14.489427,
+                        46.034912
                   ]
             }
       ],
@@ -1548,6 +1566,15 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.488297,
                         46.066168
                   ]
+            },
+            {
+                  "name": "Momento",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Ljubljana.",
+                  "category": "family",
+                  "coords": [
+                        14.489427,
+                        46.034912
+                  ]
             }
       ],
       "en": [
@@ -2063,6 +2090,15 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.488297,
                         46.066168
                   ]
+            },
+            {
+                  "name": "Momento",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Ljubljana.",
+                  "category": "family",
+                  "coords": [
+                        14.489427,
+                        46.034912
+                  ]
             }
       ]
 },
@@ -2104,7 +2140,1420 @@ export const poiExtraSloveniaCities: POI[] = [
       fr: ["Le Pont des Dragons a été achevé en 1901 et est orné de quatre statues de dragons.", "Le marché central, également conçu par Plečnik, s'étend le long de la rivière.", "Le château de Ljubljana a été reconstruit au XVe siècle et est accessible par un funiculaire.", "La ville a une superficie d'environ 163,8 kilomètres carrés.", "Ljubljana a été nommée Capitale verte de l'Europe en 2016.", "L'université de Ljubljana, fondée en 1919, est la plus ancienne et la plus grande du pays."],
     }, image: "/poi-images/city-ljubljana-extra.webp"},
   {
-    id: "city-maribor-extra", "sights": {"de": [{"name": "Kiosk K67", "text": "Ein ikonischer modularer Kiosk aus dem ehemaligen Jugoslawien, der in Maribor ausgestellt wird.", "category": "museum", "coords": [15.64173, 46.558656]}, {"name": "Akvarij - terarij Maribor", "text": "Ein Aquarium und Terrarium in Maribor, das eine Vielzahl von Fischen und Reptilien zeigt.", "category": "family", "coords": [15.649563, 46.564788]}, {"name": "Muzej narodne osvoboditve Maribor", "text": "Dieses Museum in Maribor befasst sich mit der Geschichte der nationalen Befreiungsbewegung.", "category": "museum", "coords": [15.64789, 46.562784]}, {"name": "Sinagoga Maribor", "text": "Eine der ältesten erhaltenen Synagogen Europas, die heute als Kulturzentrum in Maribor dient.", "category": "museum", "coords": [15.647645, 46.556785]}, {"name": "Dvorec Betnava", "text": "Ein barockes Schloss am Stadtrand von Maribor.", "category": "castle", "coords": [15.639859, 46.528511]}, {"name": "Slovensko narodno gledališče Maribor", "text": "Das Slowenische Nationaltheater in Maribor ist die größte Kulturinstitution des Landes.", "category": "cultural", "coords": [15.643949, 46.559842]}, {"name": "Pokrajinski muzej", "text": "Das Regionalmuseum von Maribor zeigt Exponate zur lokalen Geschichte und Kultur.", "category": "museum", "coords": [15.648543, 46.560437]}, {"name": "Medieval wall ruins", "text": "Überreste der mittelalterlichen Stadtmauer von Maribor.", "category": "historical", "coords": [15.642594, 46.560687]}, {"name": "Vojaški muzej Slovenske Vojske", "text": "Das Militärmuseum der slowenischen Streitkräfte befindet sich in Maribor.", "category": "museum", "coords": [15.630949, 46.547889]}, {"name": "Radijski muzej Radio City", "text": "Ein Museum in Maribor, das sich mit der Geschichte des Radios befasst.", "category": "museum", "coords": [15.646743, 46.561104]}, {"name": "Trafika - Muzej za enega", "text": "Ein winziges Museum in einem ehemaligen Kiosk in Maribor.", "category": "museum", "coords": [15.645695, 46.554679]}, {"name": "Lutkovno gledališče Maribor", "text": "Das Puppentheater von Maribor bietet Aufführungen für Kinder und Erwachsene.", "category": "cultural", "coords": [15.642068, 46.556969]}, {"name": "Pyramiedenkogel", "text": "Ein beliebter Aussichtspunkt auf einem Hügel in Maribor, wo einst die Stadtburg stand.", "category": "natural", "coords": [15.652333, 46.568083]}, {"name": "Narodni Dom", "text": "Ein bedeutendes Kultur- und Veranstaltungszentrum im Herzen von Maribor.", "category": "cultural", "coords": [15.64949, 46.557582]}, {"name": "Samotni bor", "text": "Ein markanter Punkt mit Aussicht in der Nähe von Maribor.", "category": "natural", "coords": [15.635272, 46.577061]}, {"name": "Kalvarienberg", "text": "Ein Hügel in Maribor mit einem Kreuzweg und herrlicher Aussicht auf die Stadt.", "category": "natural", "coords": [15.639712, 46.569077]}, {"name": "Älteste Weinrebe", "text": "Die älteste produktive Weinrebe der Welt wächst im Zentrum von Maribor.", "category": "landmark", "coords": [15.644234, 46.55672]}, {"name": "General Maister", "text": "Dieses Denkmal in Maribor ehrt den slowenischen General und Dichter Rudolf Maister.", "category": "historical", "coords": [15.64872, 46.561681]}, {"name": "Mestni park", "text": "Der Stadtpark von Maribor ist eine grüne Oase mit Teichen und Wanderwegen.", "category": "park", "coords": [15.646683, 46.568292]}, {"name": "Jožefov studenec", "text": "Eine historische Quelle oder ein Brunnen in Maribor.", "category": "landmark", "coords": [15.631315, 46.557455]}, {"name": "Razgledišče Pri sedmih hrastih", "text": "Ein Aussichtspunkt in Maribor, bekannt als „Bei den sieben Eichen“.", "category": "natural", "coords": [15.642823, 46.568646]}, {"name": "VIM1", "text": "Ein Aussichtspunkt in Maribor mit Blick auf die Stadt.", "category": "natural", "coords": [15.683964, 46.556923]}, {"name": "UGM Studio", "text": "Ein Ausstellungsraum der Kunstgalerie Maribor für zeitgenössische Kunstprojekte.", "category": "museum", "coords": [15.648597, 46.559229]}, {"name": "artKIT", "text": "Ein experimenteller Kunstraum und eine Galerie im Zentrum von Maribor.", "category": "museum", "coords": [15.6454, 46.55782]}, {"name": "Galerija ArtB", "text": "Eine Kunstgalerie in Maribor, die lokale und internationale Kunst präsentiert.", "category": "museum", "coords": [15.64561, 46.553738]}, {"name": "Spomenik talcem padlim ob zori svobode aprila 1945", "text": "Ein Denkmal in Maribor für die Geiseln, die im April 1945 gefallen sind.", "category": "historical", "coords": [15.62289, 46.539735]}, {"name": "Galerija K18", "text": "Ein zeitgenössischer Kunstraum und eine Galerie in Maribor.", "category": "museum", "coords": [15.642713, 46.557982]}, {"name": "Obeležje v spomin na osamosvojitev Slovenije", "text": "Mitten in Maribor erinnert das Obeležje v spomin na osamosvojitev Slovenije an ein wichtiges historisches Ereignis. Dieses Denkmal ist gezielt der Unabhängigkeit Sloweniens gewidmet und lädt zur Reflexion ein.", "category": "historical", "coords": [15.665202, 46.56665]}, {"name": "Doprsni spomenik", "text": "Eine Büste, die an eine bedeutende Persönlichkeit in Maribor erinnert.", "category": "historical", "coords": [15.623894, 46.56483]}, {"name": "Spomenik Narodnemu Heroju Slavku Šlandru", "text": "Denkmal für den Nationalhelden Slavko Šlander in Maribor.", "category": "historical", "coords": [15.637862, 46.539873]}, {"name": "Weinkeller VINAG", "text": "Einer der größten und ältesten klassischen Weinkeller Europas befindet sich in Maribor.", "category": "landmark", "coords": [15.649826, 46.560994]}, {"name": "Stolna cerkev sv. Janeza Krstnika", "text": "Die Kathedrale des Heiligen Johannes des Täufers ist der Sitz der Diözese Maribor.", "category": "religious", "coords": [15.64502, 46.559129]}, {"name": "Evangeličanska cerkev", "text": "Eine evangelische Kirche in Maribor.", "category": "religious", "coords": [15.644026, 46.561475]}, {"name": "Kapela", "text": "Eine kleine Kapelle für Gottesdienste in Maribor.", "category": "religious", "coords": [15.665007, 46.549314]}, {"name": "Kapela sv. Ane", "text": "Eine barocke Kapelle zu Ehren der Heiligen Anna in Maribor.", "category": "religious", "coords": [15.638704, 46.577949]}, {"name": "Lokomotiva JŽ 151-001", "text": "Eine historische Dampflokomotive, die als Denkmal in Maribor ausgestellt ist.", "category": "landmark", "coords": [15.657186, 46.561879]}, {"name": "Lokomotiva 62-019", "text": "Eine alte Lokomotive, die als technisches Denkmal in Maribor besichtigt werden kann.", "category": "landmark", "coords": [15.624447, 46.553284]}], "hu": [{"name": "Kiosk K67", "text": "Ikonikus jugoszláv moduláris kioszk, amelyet Mariborban állítottak ki.", "category": "museum", "coords": [15.64173, 46.558656]}, {"name": "Akvarij - terarij Maribor", "text": "Akvárium és terrárium Mariborban, ahol különféle halakat és hüllőket mutatnak be.", "category": "family", "coords": [15.649563, 46.564788]}, {"name": "Muzej narodne osvoboditve Maribor", "text": "Ez a maribori múzeum a nemzeti felszabadító mozgalom történetével foglalkozik.", "category": "museum", "coords": [15.64789, 46.562784]}, {"name": "Maribori Zsinagóga", "text": "Európa egyik legrégebbi fennmaradt zsinagógája, amely ma kulturális központként működik Mariborban.", "category": "museum", "coords": [15.647645, 46.556785]}, {"name": "Dvorec Betnava", "text": "Barokk kastély Maribor szélén.", "category": "castle", "coords": [15.639859, 46.528511]}, {"name": "Nemzeti Színház", "text": "A Maribori Szlovén Nemzeti Színház az ország legnagyobb kulturális intézménye.", "category": "cultural", "coords": [15.643949, 46.559842]}, {"name": "Helyi múzeum", "text": "A Maribori Regionális Múzeum a helyi történelem és kultúra emlékeit mutatja be.", "category": "museum", "coords": [15.648543, 46.560437]}, {"name": "Medieval wall ruins", "text": "Maribor középkori városfalának maradványai.", "category": "historical", "coords": [15.642594, 46.560687]}, {"name": "Vojaški muzej Slovenske Vojske", "text": "A szlovén fegyveres erők katonai múzeuma Mariborban található.", "category": "museum", "coords": [15.630949, 46.547889]}, {"name": "Radijski muzej Radio City", "text": "Maribori múzeum, amely a rádiózás történetével foglalkozik.", "category": "museum", "coords": [15.646743, 46.561104]}, {"name": "Trafika - Muzej za enega", "text": "Apró múzeum egy egykori kioszkban Mariborban.", "category": "museum", "coords": [15.645695, 46.554679]}, {"name": "Lutkovno gledališče Maribor", "text": "A Maribori Bábszínház előadásokat kínál gyerekeknek és felnőtteknek egyaránt.", "category": "cultural", "coords": [15.642068, 46.556969]}, {"name": "Piramida", "text": "Népszerű kilátóhely egy dombon Mariborban, ahol egykor a város vára állt.", "category": "natural", "coords": [15.652333, 46.568083]}, {"name": "Narodni Dom", "text": "Jelentős kulturális és rendezvényközpont Maribor szívében.", "category": "cultural", "coords": [15.64949, 46.557582]}, {"name": "Samotni bor", "text": "Jellegzetes kilátópont Maribor közelében.", "category": "natural", "coords": [15.635272, 46.577061]}, {"name": "Kálvária-domb", "text": "Domb Mariborban keresztúttal és kiváló kilátással a városra.", "category": "natural", "coords": [15.639712, 46.569077]}, {"name": "Öreg szőlőtőke", "text": "A világ legidősebb termő szőlőtőkéje Maribor központjában található.", "category": "landmark", "coords": [15.644234, 46.55672]}, {"name": "General Maister", "text": "Ez a maribori emlékmű Rudolf Maister szlovén tábornok és költő előtt tiszteleg.", "category": "historical", "coords": [15.64872, 46.561681]}, {"name": "Mestni park", "text": "A maribori városi park egy zöld oázis tavakkal és sétautakkal.", "category": "park", "coords": [15.646683, 46.568292]}, {"name": "Jožefov studenec", "text": "Történelmi forrás vagy kút Mariborban.", "category": "landmark", "coords": [15.631315, 46.557455]}, {"name": "Razgledišče Pri sedmih hrastih", "text": "Kilátóhely Mariborban, az „A hét tölgynél” néven ismert területen.", "category": "natural", "coords": [15.642823, 46.568646]}, {"name": "VIM1", "text": "Kilátóhely Mariborban, ahonnan rálátni a városra.", "category": "natural", "coords": [15.683964, 46.556923]}, {"name": "UGM Studio", "text": "A Maribori Művészeti Galéria kiállítótere kortárs művészeti projektek számára.", "category": "museum", "coords": [15.648597, 46.559229]}, {"name": "artKIT", "text": "Kísérleti művészeti tér és galéria Maribor központjában.", "category": "museum", "coords": [15.6454, 46.55782]}, {"name": "Galerija ArtB", "text": "Művészeti galéria Mariborban, amely helyi és nemzetközi műveket mutat be.", "category": "museum", "coords": [15.64561, 46.553738]}, {"name": "Spomenik talcem padlim ob zori svobode aprila 1945", "text": "Maribori emlékmű az 1945 áprilisában kivégzett túszok emlékére.", "category": "historical", "coords": [15.62289, 46.539735]}, {"name": "Galerija K18", "text": "Kortárs művészeti tér és galéria Mariborban.", "category": "museum", "coords": [15.642713, 46.557982]}, {"name": "Obeležje v spomin na osamosvojitev Slovenije", "text": "Maribor szívében az Obeležje v spomin na osamosvojitev Slovenije egy fontos történelmi eseménynek állít emléket. Ezt az emlékművet kifejezetten Szlovénia függetlenségének szentelték, és elmélkedésre hívja a látogatókat.", "category": "historical", "coords": [15.665202, 46.56665]}, {"name": "Doprsni spomenik", "text": "Egy jelentős személyiség emlékére állított mellszobor Mariborban.", "category": "historical", "coords": [15.623894, 46.56483]}, {"name": "Spomenik Narodnemu Heroju Slavku Šlandru", "text": "Slavko Šlander népi hős emlékműve Mariborban.", "category": "historical", "coords": [15.637862, 46.539873]}, {"name": "Vinska klet VINAG", "text": "A világ egyik legnagyobb és legrégebbi klasszikus borospincéje Mariborban található.", "category": "landmark", "coords": [15.649826, 46.560994]}, {"name": "Keresztelő Szent János-székesegyház", "text": "A Keresztelő Szent János-székesegyház a Maribori egyházmegye központja.", "category": "religious", "coords": [15.64502, 46.559129]}, {"name": "Evangeličanska cerkev", "text": "Evangélikus templom Mariborban.", "category": "religious", "coords": [15.644026, 46.561475]}, {"name": "Kapela", "text": "Kis kápolna Mariborban.", "category": "religious", "coords": [15.665007, 46.549314]}, {"name": "Kapela sv. Ane", "text": "Szent Anna tiszteletére szentelt barokk kápolna Mariborban.", "category": "religious", "coords": [15.638704, 46.577949]}, {"name": "Lokomotiva JŽ 151-001", "text": "Történelmi gőzmozdony, amelyet emlékműként állítottak ki Mariborban.", "category": "landmark", "coords": [15.657186, 46.561879]}, {"name": "Lokomotiva 62-019", "text": "Régi mozdony, amely technikai műemlékként látható Mariborban.", "category": "landmark", "coords": [15.624447, 46.553284]}], "ro": [{"name": "Kiosk K67", "text": "Un chioșc modular iugoslav iconic, expus în Maribor.", "category": "museum", "coords": [15.64173, 46.558656]}, {"name": "Akvarij - terarij Maribor", "text": "Un acvariu și terariu din Maribor care prezintă o varietate de pești și reptile.", "category": "family", "coords": [15.649563, 46.564788]}, {"name": "Muzej narodne osvoboditve Maribor", "text": "Acest muzeu din Maribor este dedicat istoriei mișcării de eliberare națională.", "category": "museum", "coords": [15.64789, 46.562784]}, {"name": "Sinagoga Maribor", "text": "Una dintre cele mai vechi sinagogi conservate din Europa, servind acum ca centru cultural în Maribor.", "category": "museum", "coords": [15.647645, 46.556785]}, {"name": "Dvorec Betnava", "text": "Un castel baroc situat la periferia orașului Maribor.", "category": "castle", "coords": [15.639859, 46.528511]}, {"name": "Slovensko narodno gledališče Maribor", "text": "Teatrul Național Sloven din Maribor este cea mai mare instituție culturală din țară.", "category": "cultural", "coords": [15.643949, 46.559842]}, {"name": "Pokrajinski muzej", "text": "Muzeul Regional din Maribor expune obiecte legate de istoria și cultura locală.", "category": "museum", "coords": [15.648543, 46.560437]}, {"name": "Medieval wall ruins", "text": "Rămășițele zidurilor medievale ale orașului Maribor.", "category": "historical", "coords": [15.642594, 46.560687]}, {"name": "Vojaški muzej Slovenske Vojske", "text": "Muzeul Militar al Forțelor Armate Slovene este situat în Maribor.", "category": "museum", "coords": [15.630949, 46.547889]}, {"name": "Radijski muzej Radio City", "text": "Un muzeu din Maribor dedicat istoriei radioului.", "category": "museum", "coords": [15.646743, 46.561104]}, {"name": "Trafika - Muzej za enega", "text": "Un muzeu minuscul situat într-un fost chioșc din Maribor.", "category": "museum", "coords": [15.645695, 46.554679]}, {"name": "Lutkovno gledališče Maribor", "text": "Teatrul de Păpuși din Maribor oferă spectacole pentru copii și adulți.", "category": "cultural", "coords": [15.642068, 46.556969]}, {"name": "Piramida", "text": "Un punct de belvedere popular pe un deal din Maribor, unde se afla odinioară castelul orașului.", "category": "natural", "coords": [15.652333, 46.568083]}, {"name": "Narodni Dom", "text": "Un important centru cultural și de evenimente în inima orașului Maribor.", "category": "cultural", "coords": [15.64949, 46.557582]}, {"name": "Samotni bor", "text": "Un punct de observație distinctiv lângă Maribor.", "category": "natural", "coords": [15.635272, 46.577061]}, {"name": "Kalvarija", "text": "Un deal din Maribor cu o cale a crucii și o vedere excelentă asupra orașului.", "category": "natural", "coords": [15.639712, 46.569077]}, {"name": "Stara trta", "text": "Cea mai veche viță-de-vie productivă din lume crește în centrul orașului Maribor.", "category": "landmark", "coords": [15.644234, 46.55672]}, {"name": "General Maister", "text": "Acest monument din Maribor îl onorează pe generalul și poetul sloven Rudolf Maister.", "category": "historical", "coords": [15.64872, 46.561681]}, {"name": "Mestni park", "text": "Parcul orașului Maribor este o oază de verdeață cu iazuri și alei.", "category": "park", "coords": [15.646683, 46.568292]}, {"name": "Jožefov studenec", "text": "O sursă istorică de apă sau o fântână în Maribor.", "category": "landmark", "coords": [15.631315, 46.557455]}, {"name": "Razgledišče Pri sedmih hrastih", "text": "Un punct de belvedere în Maribor, cunoscut sub numele de „La cei șapte stejari”.", "category": "natural", "coords": [15.642823, 46.568646]}, {"name": "VIM1", "text": "Un punct de belvedere în Maribor cu vedere spre oraș.", "category": "natural", "coords": [15.683964, 46.556923]}, {"name": "UGM Studio", "text": "Un spațiu expozițional al Galeriei de Artă din Maribor pentru proiecte de artă contemporană.", "category": "museum", "coords": [15.648597, 46.559229]}, {"name": "artKIT", "text": "Un spațiu de artă experimental și galerie în centrul orașului Maribor.", "category": "museum", "coords": [15.6454, 46.55782]}, {"name": "Galerija ArtB", "text": "O galerie de artă din Maribor care prezintă lucrări locale și internaționale.", "category": "museum", "coords": [15.64561, 46.553738]}, {"name": "Spomenik talcem padlim ob zori svobode aprila 1945", "text": "Un monument în Maribor dedicat ostaticilor căzuți în aprilie 1945.", "category": "historical", "coords": [15.62289, 46.539735]}, {"name": "Galerija K18", "text": "Un spațiu de artă contemporană și galerie în Maribor.", "category": "museum", "coords": [15.642713, 46.557982]}, {"name": "Obeležje v spomin na osamosvojitev Slovenije", "text": "În centrul orașului Maribor, Obeležje v spomin na osamosvojitev Slovenije comemorează un eveniment istoric important. Acest monument este dedicat în mod specific independenței Sloveniei și invită la reflecție.", "category": "historical", "coords": [15.665202, 46.56665]}, {"name": "Doprsni spomenik", "text": "Un bust care comemorează o personalitate importantă în Maribor.", "category": "historical", "coords": [15.623894, 46.56483]}, {"name": "Spomenik Narodnemu Heroju Slavku Šlandru", "text": "Monument dedicat eroului național Slavko Šlander în Maribor.", "category": "historical", "coords": [15.637862, 46.539873]}, {"name": "Vinska klet VINAG", "text": "Una dintre cele mai mari și vechi crame clasice din Europa este situată în Maribor.", "category": "landmark", "coords": [15.649826, 46.560994]}, {"name": "Stolna cerkev sv. Janeza Krstnika", "text": "Catedrala Sfântul Ioan Botezătorul este sediul eparhiei din Maribor.", "category": "religious", "coords": [15.64502, 46.559129]}, {"name": "Evangeličanska cerkev", "text": "O biserică evanghelică din Maribor.", "category": "religious", "coords": [15.644026, 46.561475]}, {"name": "Kapela", "text": "O mică capelă pentru cult în Maribor.", "category": "religious", "coords": [15.665007, 46.549314]}, {"name": "Kapela sv. Ane", "text": "O capelă barocă dedicată Sfintei Ana în Maribor.", "category": "religious", "coords": [15.638704, 46.577949]}, {"name": "Lokomotiva JŽ 151-001", "text": "O locomotivă istorică cu abur, expusă ca monument în Maribor.", "category": "landmark", "coords": [15.657186, 46.561879]}, {"name": "Lokomotiva 62-019", "text": "O locomotivă veche care poate fi văzută ca monument tehnic în Maribor.", "category": "landmark", "coords": [15.624447, 46.553284]}], "en": [{"name": "Kiosk K67", "text": "An iconic Yugoslav modular kiosk design exhibited in Maribor.", "category": "museum", "coords": [15.64173, 46.558656]}, {"name": "Akvarij - terarij Maribor", "text": "An aquarium and terrarium in Maribor featuring a variety of fish and reptiles.", "category": "family", "coords": [15.649563, 46.564788]}, {"name": "Muzej narodne osvoboditve Maribor", "text": "This museum in Maribor documents the history of the national liberation movement.", "category": "museum", "coords": [15.64789, 46.562784]}, {"name": "Maribor Synagogue", "text": "One of the oldest preserved synagogues in Europe, now serving as a cultural center in Maribor.", "category": "museum", "coords": [15.647645, 46.556785]}, {"name": "Dvorec Betnava", "text": "A Baroque castle located on the outskirts of Maribor.", "category": "castle", "coords": [15.639859, 46.528511]}, {"name": "Slovensko narodno gledališče Maribor", "text": "The Slovene National Theatre Maribor is the largest cultural and arts institution in the country.", "category": "cultural", "coords": [15.643949, 46.559842]}, {"name": "Regional museum", "text": "The Regional Museum of Maribor displays exhibits related to local history and culture.", "category": "museum", "coords": [15.648543, 46.560437]}, {"name": "Medieval wall ruins", "text": "Remains of the medieval city walls in Maribor.", "category": "historical", "coords": [15.642594, 46.560687]}, {"name": "Vojaški muzej Slovenske Vojske", "text": "The Military Museum of the Slovenian Armed Forces is located in Maribor.", "category": "museum", "coords": [15.630949, 46.547889]}, {"name": "Radijski muzej Radio City", "text": "A museum in Maribor focusing on the history of radio broadcasting.", "category": "museum", "coords": [15.646743, 46.561104]}, {"name": "Trafika - museum for one", "text": "A tiny museum housed in a former kiosk in Maribor.", "category": "museum", "coords": [15.645695, 46.554679]}, {"name": "Lutkovno gledališče Maribor", "text": "The Maribor Puppet Theatre offers performances for both children and adults.", "category": "cultural", "coords": [15.642068, 46.556969]}, {"name": "Piramida", "text": "A popular viewpoint on a hill in Maribor, located at the site of the former city castle.", "category": "natural", "coords": [15.652333, 46.568083]}, {"name": "Narodni Dom", "text": "A significant cultural and event center located in the heart of Maribor.", "category": "cultural", "coords": [15.64949, 46.557582]}, {"name": "Samotni bor", "text": "A distinctive viewpoint near Maribor.", "category": "natural", "coords": [15.635272, 46.577061]}, {"name": "Kalvarija", "text": "A hill in Maribor featuring a way of the cross and great views of the city.", "category": "natural", "coords": [15.639712, 46.569077]}, {"name": "Old Vine", "text": "The oldest productive grape vine in the world is located in the center of Maribor.", "category": "landmark", "coords": [15.644234, 46.55672]}, {"name": "General Maister", "text": "This monument in Maribor honors the Slovenian general and poet Rudolf Maister.", "category": "historical", "coords": [15.64872, 46.561681]}, {"name": "Mestni park", "text": "The city park of Maribor is a green oasis featuring ponds and walking paths.", "category": "park", "coords": [15.646683, 46.568292]}, {"name": "Jožefov studenec", "text": "A historical spring or fountain in Maribor.", "category": "landmark", "coords": [15.631315, 46.557455]}, {"name": "Razgledišče Pri sedmih hrastih", "text": "A viewpoint in Maribor known as \"By the Seven Oaks.\"", "category": "natural", "coords": [15.642823, 46.568646]}, {"name": "VIM1", "text": "A viewpoint in Maribor offering views of the city.", "category": "natural", "coords": [15.683964, 46.556923]}, {"name": "UGM Studio", "text": "An exhibition space of the Maribor Art Gallery dedicated to contemporary art projects.", "category": "museum", "coords": [15.648597, 46.559229]}, {"name": "artKIT", "text": "An experimental art space and gallery in the center of Maribor.", "category": "museum", "coords": [15.6454, 46.55782]}, {"name": "Galerija ArtB", "text": "An art gallery in Maribor showcasing local and international art.", "category": "museum", "coords": [15.64561, 46.553738]}, {"name": "Spomenik talcem padlim ob zori svobode aprila 1945", "text": "A monument in Maribor dedicated to the hostages who fell in April 1945.", "category": "historical", "coords": [15.62289, 46.539735]}, {"name": "Galerija K18", "text": "A contemporary art space and gallery in Maribor.", "category": "museum", "coords": [15.642713, 46.557982]}, {"name": "Obeležje v spomin na osamosvojitev Slovenije", "text": "Situated in Maribor, the Obeležje v spomin na osamosvojitev Slovenije stands as a reminder of an important historical event. This monument is specifically dedicated to the independence of Slovenia and invites reflection.", "category": "historical", "coords": [15.665202, 46.56665]}, {"name": "Doprsni spomenik", "text": "A bust memorializing a significant figure in Maribor.", "category": "historical", "coords": [15.623894, 46.56483]}, {"name": "Spomenik Narodnemu Heroju Slavku Šlandru", "text": "Monument dedicated to the national hero Slavko Šlander in Maribor.", "category": "historical", "coords": [15.637862, 46.539873]}, {"name": "Wine Cellar VINAG", "text": "One of the largest and oldest classic wine cellars in Europe is located in Maribor.", "category": "landmark", "coords": [15.649826, 46.560994]}, {"name": "Cathedral of St. John the Baptist", "text": "The Cathedral of St. John the Baptist is the seat of the Maribor diocese.", "category": "religious", "coords": [15.64502, 46.559129]}, {"name": "Evangeličanska cerkev", "text": "An Evangelical church in Maribor.", "category": "religious", "coords": [15.644026, 46.561475]}, {"name": "Kapela", "text": "A small chapel for worship in Maribor.", "category": "religious", "coords": [15.665007, 46.549314]}, {"name": "Kapela sv. Ane", "text": "A Baroque chapel dedicated to Saint Anne in Maribor.", "category": "religious", "coords": [15.638704, 46.577949]}, {"name": "Lokomotiva JŽ 151-001", "text": "A historical steam locomotive exhibited as a monument in Maribor.", "category": "landmark", "coords": [15.657186, 46.561879]}, {"name": "Lokomotiva 62-019", "text": "An old locomotive on display as a technical monument in Maribor.", "category": "landmark", "coords": [15.624447, 46.553284]}]},
+    id: "city-maribor-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kiosk K67",
+                  "text": "Ein ikonischer modularer Kiosk aus dem ehemaligen Jugoslawien, der in Maribor ausgestellt wird.",
+                  "category": "museum",
+                  "coords": [
+                        15.64173,
+                        46.558656
+                  ]
+            },
+            {
+                  "name": "Akvarij - terarij Maribor",
+                  "text": "Ein Aquarium und Terrarium in Maribor, das eine Vielzahl von Fischen und Reptilien zeigt.",
+                  "category": "family",
+                  "coords": [
+                        15.649563,
+                        46.564788
+                  ]
+            },
+            {
+                  "name": "Muzej narodne osvoboditve Maribor",
+                  "text": "Dieses Museum in Maribor befasst sich mit der Geschichte der nationalen Befreiungsbewegung.",
+                  "category": "museum",
+                  "coords": [
+                        15.64789,
+                        46.562784
+                  ]
+            },
+            {
+                  "name": "Sinagoga Maribor",
+                  "text": "Eine der ältesten erhaltenen Synagogen Europas, die heute als Kulturzentrum in Maribor dient.",
+                  "category": "museum",
+                  "coords": [
+                        15.647645,
+                        46.556785
+                  ]
+            },
+            {
+                  "name": "Dvorec Betnava",
+                  "text": "Ein barockes Schloss am Stadtrand von Maribor.",
+                  "category": "castle",
+                  "coords": [
+                        15.639859,
+                        46.528511
+                  ]
+            },
+            {
+                  "name": "Slovensko narodno gledališče Maribor",
+                  "text": "Das Slowenische Nationaltheater in Maribor ist die größte Kulturinstitution des Landes.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643949,
+                        46.559842
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej",
+                  "text": "Das Regionalmuseum von Maribor zeigt Exponate zur lokalen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        15.648543,
+                        46.560437
+                  ]
+            },
+            {
+                  "name": "Medieval wall ruins",
+                  "text": "Überreste der mittelalterlichen Stadtmauer von Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.642594,
+                        46.560687
+                  ]
+            },
+            {
+                  "name": "Vojaški muzej Slovenske Vojske",
+                  "text": "Das Militärmuseum der slowenischen Streitkräfte befindet sich in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.630949,
+                        46.547889
+                  ]
+            },
+            {
+                  "name": "Radijski muzej Radio City",
+                  "text": "Ein Museum in Maribor, das sich mit der Geschichte des Radios befasst.",
+                  "category": "museum",
+                  "coords": [
+                        15.646743,
+                        46.561104
+                  ]
+            },
+            {
+                  "name": "Trafika - Muzej za enega",
+                  "text": "Ein winziges Museum in einem ehemaligen Kiosk in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.645695,
+                        46.554679
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Maribor",
+                  "text": "Das Puppentheater von Maribor bietet Aufführungen für Kinder und Erwachsene.",
+                  "category": "cultural",
+                  "coords": [
+                        15.642068,
+                        46.556969
+                  ]
+            },
+            {
+                  "name": "Pyramiedenkogel",
+                  "text": "Ein beliebter Aussichtspunkt auf einem Hügel in Maribor, wo einst die Stadtburg stand.",
+                  "category": "natural",
+                  "coords": [
+                        15.652333,
+                        46.568083
+                  ]
+            },
+            {
+                  "name": "Narodni Dom",
+                  "text": "Ein bedeutendes Kultur- und Veranstaltungszentrum im Herzen von Maribor.",
+                  "category": "cultural",
+                  "coords": [
+                        15.64949,
+                        46.557582
+                  ]
+            },
+            {
+                  "name": "Samotni bor",
+                  "text": "Ein markanter Punkt mit Aussicht in der Nähe von Maribor.",
+                  "category": "natural",
+                  "coords": [
+                        15.635272,
+                        46.577061
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Ein Hügel in Maribor mit einem Kreuzweg und herrlicher Aussicht auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        15.639712,
+                        46.569077
+                  ]
+            },
+            {
+                  "name": "Älteste Weinrebe",
+                  "text": "Die älteste produktive Weinrebe der Welt wächst im Zentrum von Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.644234,
+                        46.55672
+                  ]
+            },
+            {
+                  "name": "General Maister",
+                  "text": "Dieses Denkmal in Maribor ehrt den slowenischen General und Dichter Rudolf Maister.",
+                  "category": "historical",
+                  "coords": [
+                        15.64872,
+                        46.561681
+                  ]
+            },
+            {
+                  "name": "Mestni park",
+                  "text": "Der Stadtpark von Maribor ist eine grüne Oase mit Teichen und Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        15.646683,
+                        46.568292
+                  ]
+            },
+            {
+                  "name": "Jožefov studenec",
+                  "text": "Eine historische Quelle oder ein Brunnen in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631315,
+                        46.557455
+                  ]
+            },
+            {
+                  "name": "Razgledišče Pri sedmih hrastih",
+                  "text": "Ein Aussichtspunkt in Maribor, bekannt als „Bei den sieben Eichen“.",
+                  "category": "natural",
+                  "coords": [
+                        15.642823,
+                        46.568646
+                  ]
+            },
+            {
+                  "name": "VIM1",
+                  "text": "Ein Aussichtspunkt in Maribor mit Blick auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        15.683964,
+                        46.556923
+                  ]
+            },
+            {
+                  "name": "UGM Studio",
+                  "text": "Ein Ausstellungsraum der Kunstgalerie Maribor für zeitgenössische Kunstprojekte.",
+                  "category": "museum",
+                  "coords": [
+                        15.648597,
+                        46.559229
+                  ]
+            },
+            {
+                  "name": "artKIT",
+                  "text": "Ein experimenteller Kunstraum und eine Galerie im Zentrum von Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.6454,
+                        46.55782
+                  ]
+            },
+            {
+                  "name": "Galerija ArtB",
+                  "text": "Eine Kunstgalerie in Maribor, die lokale und internationale Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.64561,
+                        46.553738
+                  ]
+            },
+            {
+                  "name": "Spomenik talcem padlim ob zori svobode aprila 1945",
+                  "text": "Ein Denkmal in Maribor für die Geiseln, die im April 1945 gefallen sind.",
+                  "category": "historical",
+                  "coords": [
+                        15.62289,
+                        46.539735
+                  ]
+            },
+            {
+                  "name": "Galerija K18",
+                  "text": "Ein zeitgenössischer Kunstraum und eine Galerie in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.642713,
+                        46.557982
+                  ]
+            },
+            {
+                  "name": "Obeležje v spomin na osamosvojitev Slovenije",
+                  "text": "Mitten in Maribor erinnert das Obeležje v spomin na osamosvojitev Slovenije an ein wichtiges historisches Ereignis. Dieses Denkmal ist gezielt der Unabhängigkeit Sloweniens gewidmet und lädt zur Reflexion ein.",
+                  "category": "historical",
+                  "coords": [
+                        15.665202,
+                        46.56665
+                  ]
+            },
+            {
+                  "name": "Doprsni spomenik",
+                  "text": "Eine Büste, die an eine bedeutende Persönlichkeit in Maribor erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        15.623894,
+                        46.56483
+                  ]
+            },
+            {
+                  "name": "Spomenik Narodnemu Heroju Slavku Šlandru",
+                  "text": "Denkmal für den Nationalhelden Slavko Šlander in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.637862,
+                        46.539873
+                  ]
+            },
+            {
+                  "name": "Weinkeller VINAG",
+                  "text": "Einer der größten und ältesten klassischen Weinkeller Europas befindet sich in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.649826,
+                        46.560994
+                  ]
+            },
+            {
+                  "name": "Stolna cerkev sv. Janeza Krstnika",
+                  "text": "Die Kathedrale des Heiligen Johannes des Täufers ist der Sitz der Diözese Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.64502,
+                        46.559129
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "Eine evangelische Kirche in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.644026,
+                        46.561475
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "Eine kleine Kapelle für Gottesdienste in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.665007,
+                        46.549314
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Ane",
+                  "text": "Eine barocke Kapelle zu Ehren der Heiligen Anna in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.638704,
+                        46.577949
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 151-001",
+                  "text": "Eine historische Dampflokomotive, die als Denkmal in Maribor ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.657186,
+                        46.561879
+                  ]
+            },
+            {
+                  "name": "Lokomotiva 62-019",
+                  "text": "Eine alte Lokomotive, die als technisches Denkmal in Maribor besichtigt werden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        15.624447,
+                        46.553284
+                  ]
+            },
+            {
+                  "name": "Kopališče Mariborski Otok",
+                  "text": "Ein beliebter Freibadbereich auf einer Insel in der Drau in Maribor.",
+                  "category": "family",
+                  "coords": [
+                        15.612747,
+                        46.567285
+                  ]
+            },
+            {
+                  "name": "archery",
+                  "text": "Ein Aquarium in Maribor, in dem Besucher verschiedene Wasserarten in einer familiären Umgebung erkunden können.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiosk K67",
+                  "text": "Ikonikus jugoszláv moduláris kioszk, amelyet Mariborban állítottak ki.",
+                  "category": "museum",
+                  "coords": [
+                        15.64173,
+                        46.558656
+                  ]
+            },
+            {
+                  "name": "Akvarij - terarij Maribor",
+                  "text": "Akvárium és terrárium Mariborban, ahol különféle halakat és hüllőket mutatnak be.",
+                  "category": "family",
+                  "coords": [
+                        15.649563,
+                        46.564788
+                  ]
+            },
+            {
+                  "name": "Muzej narodne osvoboditve Maribor",
+                  "text": "Ez a maribori múzeum a nemzeti felszabadító mozgalom történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        15.64789,
+                        46.562784
+                  ]
+            },
+            {
+                  "name": "Maribori Zsinagóga",
+                  "text": "Európa egyik legrégebbi fennmaradt zsinagógája, amely ma kulturális központként működik Mariborban.",
+                  "category": "museum",
+                  "coords": [
+                        15.647645,
+                        46.556785
+                  ]
+            },
+            {
+                  "name": "Dvorec Betnava",
+                  "text": "Barokk kastély Maribor szélén.",
+                  "category": "castle",
+                  "coords": [
+                        15.639859,
+                        46.528511
+                  ]
+            },
+            {
+                  "name": "Nemzeti Színház",
+                  "text": "A Maribori Szlovén Nemzeti Színház az ország legnagyobb kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643949,
+                        46.559842
+                  ]
+            },
+            {
+                  "name": "Helyi múzeum",
+                  "text": "A Maribori Regionális Múzeum a helyi történelem és kultúra emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.648543,
+                        46.560437
+                  ]
+            },
+            {
+                  "name": "Medieval wall ruins",
+                  "text": "Maribor középkori városfalának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        15.642594,
+                        46.560687
+                  ]
+            },
+            {
+                  "name": "Vojaški muzej Slovenske Vojske",
+                  "text": "A szlovén fegyveres erők katonai múzeuma Mariborban található.",
+                  "category": "museum",
+                  "coords": [
+                        15.630949,
+                        46.547889
+                  ]
+            },
+            {
+                  "name": "Radijski muzej Radio City",
+                  "text": "Maribori múzeum, amely a rádiózás történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        15.646743,
+                        46.561104
+                  ]
+            },
+            {
+                  "name": "Trafika - Muzej za enega",
+                  "text": "Apró múzeum egy egykori kioszkban Mariborban.",
+                  "category": "museum",
+                  "coords": [
+                        15.645695,
+                        46.554679
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Maribor",
+                  "text": "A Maribori Bábszínház előadásokat kínál gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.642068,
+                        46.556969
+                  ]
+            },
+            {
+                  "name": "Piramida",
+                  "text": "Népszerű kilátóhely egy dombon Mariborban, ahol egykor a város vára állt.",
+                  "category": "natural",
+                  "coords": [
+                        15.652333,
+                        46.568083
+                  ]
+            },
+            {
+                  "name": "Narodni Dom",
+                  "text": "Jelentős kulturális és rendezvényközpont Maribor szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        15.64949,
+                        46.557582
+                  ]
+            },
+            {
+                  "name": "Samotni bor",
+                  "text": "Jellegzetes kilátópont Maribor közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.635272,
+                        46.577061
+                  ]
+            },
+            {
+                  "name": "Kálvária-domb",
+                  "text": "Domb Mariborban keresztúttal és kiváló kilátással a városra.",
+                  "category": "natural",
+                  "coords": [
+                        15.639712,
+                        46.569077
+                  ]
+            },
+            {
+                  "name": "Öreg szőlőtőke",
+                  "text": "A világ legidősebb termő szőlőtőkéje Maribor központjában található.",
+                  "category": "landmark",
+                  "coords": [
+                        15.644234,
+                        46.55672
+                  ]
+            },
+            {
+                  "name": "General Maister",
+                  "text": "Ez a maribori emlékmű Rudolf Maister szlovén tábornok és költő előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        15.64872,
+                        46.561681
+                  ]
+            },
+            {
+                  "name": "Mestni park",
+                  "text": "A maribori városi park egy zöld oázis tavakkal és sétautakkal.",
+                  "category": "park",
+                  "coords": [
+                        15.646683,
+                        46.568292
+                  ]
+            },
+            {
+                  "name": "Jožefov studenec",
+                  "text": "Történelmi forrás vagy kút Mariborban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631315,
+                        46.557455
+                  ]
+            },
+            {
+                  "name": "Razgledišče Pri sedmih hrastih",
+                  "text": "Kilátóhely Mariborban, az „A hét tölgynél” néven ismert területen.",
+                  "category": "natural",
+                  "coords": [
+                        15.642823,
+                        46.568646
+                  ]
+            },
+            {
+                  "name": "VIM1",
+                  "text": "Kilátóhely Mariborban, ahonnan rálátni a városra.",
+                  "category": "natural",
+                  "coords": [
+                        15.683964,
+                        46.556923
+                  ]
+            },
+            {
+                  "name": "UGM Studio",
+                  "text": "A Maribori Művészeti Galéria kiállítótere kortárs művészeti projektek számára.",
+                  "category": "museum",
+                  "coords": [
+                        15.648597,
+                        46.559229
+                  ]
+            },
+            {
+                  "name": "artKIT",
+                  "text": "Kísérleti művészeti tér és galéria Maribor központjában.",
+                  "category": "museum",
+                  "coords": [
+                        15.6454,
+                        46.55782
+                  ]
+            },
+            {
+                  "name": "Galerija ArtB",
+                  "text": "Művészeti galéria Mariborban, amely helyi és nemzetközi műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.64561,
+                        46.553738
+                  ]
+            },
+            {
+                  "name": "Spomenik talcem padlim ob zori svobode aprila 1945",
+                  "text": "Maribori emlékmű az 1945 áprilisában kivégzett túszok emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        15.62289,
+                        46.539735
+                  ]
+            },
+            {
+                  "name": "Galerija K18",
+                  "text": "Kortárs művészeti tér és galéria Mariborban.",
+                  "category": "museum",
+                  "coords": [
+                        15.642713,
+                        46.557982
+                  ]
+            },
+            {
+                  "name": "Obeležje v spomin na osamosvojitev Slovenije",
+                  "text": "Maribor szívében az Obeležje v spomin na osamosvojitev Slovenije egy fontos történelmi eseménynek állít emléket. Ezt az emlékművet kifejezetten Szlovénia függetlenségének szentelték, és elmélkedésre hívja a látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        15.665202,
+                        46.56665
+                  ]
+            },
+            {
+                  "name": "Doprsni spomenik",
+                  "text": "Egy jelentős személyiség emlékére állított mellszobor Mariborban.",
+                  "category": "historical",
+                  "coords": [
+                        15.623894,
+                        46.56483
+                  ]
+            },
+            {
+                  "name": "Spomenik Narodnemu Heroju Slavku Šlandru",
+                  "text": "Slavko Šlander népi hős emlékműve Mariborban.",
+                  "category": "historical",
+                  "coords": [
+                        15.637862,
+                        46.539873
+                  ]
+            },
+            {
+                  "name": "Vinska klet VINAG",
+                  "text": "A világ egyik legnagyobb és legrégebbi klasszikus borospincéje Mariborban található.",
+                  "category": "landmark",
+                  "coords": [
+                        15.649826,
+                        46.560994
+                  ]
+            },
+            {
+                  "name": "Keresztelő Szent János-székesegyház",
+                  "text": "A Keresztelő Szent János-székesegyház a Maribori egyházmegye központja.",
+                  "category": "religious",
+                  "coords": [
+                        15.64502,
+                        46.559129
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "Evangélikus templom Mariborban.",
+                  "category": "religious",
+                  "coords": [
+                        15.644026,
+                        46.561475
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "Kis kápolna Mariborban.",
+                  "category": "religious",
+                  "coords": [
+                        15.665007,
+                        46.549314
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Ane",
+                  "text": "Szent Anna tiszteletére szentelt barokk kápolna Mariborban.",
+                  "category": "religious",
+                  "coords": [
+                        15.638704,
+                        46.577949
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 151-001",
+                  "text": "Történelmi gőzmozdony, amelyet emlékműként állítottak ki Mariborban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.657186,
+                        46.561879
+                  ]
+            },
+            {
+                  "name": "Lokomotiva 62-019",
+                  "text": "Régi mozdony, amely technikai műemlékként látható Mariborban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.624447,
+                        46.553284
+                  ]
+            },
+            {
+                  "name": "Kopališče Mariborski Otok",
+                  "text": "Népszerű szabadtéri úszóhely Mariborban, a Dráva folyó egyik szigetén.",
+                  "category": "family",
+                  "coords": [
+                        15.612747,
+                        46.567285
+                  ]
+            },
+            {
+                  "name": "archery",
+                  "text": "Maribori akvárium, ahol a látogatók különféle vízi fajokat fedezhetnek fel családi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiosk K67",
+                  "text": "Un chioșc modular iugoslav iconic, expus în Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.64173,
+                        46.558656
+                  ]
+            },
+            {
+                  "name": "Akvarij - terarij Maribor",
+                  "text": "Un acvariu și terariu din Maribor care prezintă o varietate de pești și reptile.",
+                  "category": "family",
+                  "coords": [
+                        15.649563,
+                        46.564788
+                  ]
+            },
+            {
+                  "name": "Muzej narodne osvoboditve Maribor",
+                  "text": "Acest muzeu din Maribor este dedicat istoriei mișcării de eliberare națională.",
+                  "category": "museum",
+                  "coords": [
+                        15.64789,
+                        46.562784
+                  ]
+            },
+            {
+                  "name": "Sinagoga Maribor",
+                  "text": "Una dintre cele mai vechi sinagogi conservate din Europa, servind acum ca centru cultural în Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.647645,
+                        46.556785
+                  ]
+            },
+            {
+                  "name": "Dvorec Betnava",
+                  "text": "Un castel baroc situat la periferia orașului Maribor.",
+                  "category": "castle",
+                  "coords": [
+                        15.639859,
+                        46.528511
+                  ]
+            },
+            {
+                  "name": "Slovensko narodno gledališče Maribor",
+                  "text": "Teatrul Național Sloven din Maribor este cea mai mare instituție culturală din țară.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643949,
+                        46.559842
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej",
+                  "text": "Muzeul Regional din Maribor expune obiecte legate de istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.648543,
+                        46.560437
+                  ]
+            },
+            {
+                  "name": "Medieval wall ruins",
+                  "text": "Rămășițele zidurilor medievale ale orașului Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.642594,
+                        46.560687
+                  ]
+            },
+            {
+                  "name": "Vojaški muzej Slovenske Vojske",
+                  "text": "Muzeul Militar al Forțelor Armate Slovene este situat în Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.630949,
+                        46.547889
+                  ]
+            },
+            {
+                  "name": "Radijski muzej Radio City",
+                  "text": "Un muzeu din Maribor dedicat istoriei radioului.",
+                  "category": "museum",
+                  "coords": [
+                        15.646743,
+                        46.561104
+                  ]
+            },
+            {
+                  "name": "Trafika - Muzej za enega",
+                  "text": "Un muzeu minuscul situat într-un fost chioșc din Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.645695,
+                        46.554679
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Maribor",
+                  "text": "Teatrul de Păpuși din Maribor oferă spectacole pentru copii și adulți.",
+                  "category": "cultural",
+                  "coords": [
+                        15.642068,
+                        46.556969
+                  ]
+            },
+            {
+                  "name": "Piramida",
+                  "text": "Un punct de belvedere popular pe un deal din Maribor, unde se afla odinioară castelul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        15.652333,
+                        46.568083
+                  ]
+            },
+            {
+                  "name": "Narodni Dom",
+                  "text": "Un important centru cultural și de evenimente în inima orașului Maribor.",
+                  "category": "cultural",
+                  "coords": [
+                        15.64949,
+                        46.557582
+                  ]
+            },
+            {
+                  "name": "Samotni bor",
+                  "text": "Un punct de observație distinctiv lângă Maribor.",
+                  "category": "natural",
+                  "coords": [
+                        15.635272,
+                        46.577061
+                  ]
+            },
+            {
+                  "name": "Kalvarija",
+                  "text": "Un deal din Maribor cu o cale a crucii și o vedere excelentă asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        15.639712,
+                        46.569077
+                  ]
+            },
+            {
+                  "name": "Stara trta",
+                  "text": "Cea mai veche viță-de-vie productivă din lume crește în centrul orașului Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.644234,
+                        46.55672
+                  ]
+            },
+            {
+                  "name": "General Maister",
+                  "text": "Acest monument din Maribor îl onorează pe generalul și poetul sloven Rudolf Maister.",
+                  "category": "historical",
+                  "coords": [
+                        15.64872,
+                        46.561681
+                  ]
+            },
+            {
+                  "name": "Mestni park",
+                  "text": "Parcul orașului Maribor este o oază de verdeață cu iazuri și alei.",
+                  "category": "park",
+                  "coords": [
+                        15.646683,
+                        46.568292
+                  ]
+            },
+            {
+                  "name": "Jožefov studenec",
+                  "text": "O sursă istorică de apă sau o fântână în Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631315,
+                        46.557455
+                  ]
+            },
+            {
+                  "name": "Razgledišče Pri sedmih hrastih",
+                  "text": "Un punct de belvedere în Maribor, cunoscut sub numele de „La cei șapte stejari”.",
+                  "category": "natural",
+                  "coords": [
+                        15.642823,
+                        46.568646
+                  ]
+            },
+            {
+                  "name": "VIM1",
+                  "text": "Un punct de belvedere în Maribor cu vedere spre oraș.",
+                  "category": "natural",
+                  "coords": [
+                        15.683964,
+                        46.556923
+                  ]
+            },
+            {
+                  "name": "UGM Studio",
+                  "text": "Un spațiu expozițional al Galeriei de Artă din Maribor pentru proiecte de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        15.648597,
+                        46.559229
+                  ]
+            },
+            {
+                  "name": "artKIT",
+                  "text": "Un spațiu de artă experimental și galerie în centrul orașului Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.6454,
+                        46.55782
+                  ]
+            },
+            {
+                  "name": "Galerija ArtB",
+                  "text": "O galerie de artă din Maribor care prezintă lucrări locale și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        15.64561,
+                        46.553738
+                  ]
+            },
+            {
+                  "name": "Spomenik talcem padlim ob zori svobode aprila 1945",
+                  "text": "Un monument în Maribor dedicat ostaticilor căzuți în aprilie 1945.",
+                  "category": "historical",
+                  "coords": [
+                        15.62289,
+                        46.539735
+                  ]
+            },
+            {
+                  "name": "Galerija K18",
+                  "text": "Un spațiu de artă contemporană și galerie în Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.642713,
+                        46.557982
+                  ]
+            },
+            {
+                  "name": "Obeležje v spomin na osamosvojitev Slovenije",
+                  "text": "În centrul orașului Maribor, Obeležje v spomin na osamosvojitev Slovenije comemorează un eveniment istoric important. Acest monument este dedicat în mod specific independenței Sloveniei și invită la reflecție.",
+                  "category": "historical",
+                  "coords": [
+                        15.665202,
+                        46.56665
+                  ]
+            },
+            {
+                  "name": "Doprsni spomenik",
+                  "text": "Un bust care comemorează o personalitate importantă în Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.623894,
+                        46.56483
+                  ]
+            },
+            {
+                  "name": "Spomenik Narodnemu Heroju Slavku Šlandru",
+                  "text": "Monument dedicat eroului național Slavko Šlander în Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.637862,
+                        46.539873
+                  ]
+            },
+            {
+                  "name": "Vinska klet VINAG",
+                  "text": "Una dintre cele mai mari și vechi crame clasice din Europa este situată în Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.649826,
+                        46.560994
+                  ]
+            },
+            {
+                  "name": "Stolna cerkev sv. Janeza Krstnika",
+                  "text": "Catedrala Sfântul Ioan Botezătorul este sediul eparhiei din Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.64502,
+                        46.559129
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "O biserică evanghelică din Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.644026,
+                        46.561475
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "O mică capelă pentru cult în Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.665007,
+                        46.549314
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Ane",
+                  "text": "O capelă barocă dedicată Sfintei Ana în Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.638704,
+                        46.577949
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 151-001",
+                  "text": "O locomotivă istorică cu abur, expusă ca monument în Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.657186,
+                        46.561879
+                  ]
+            },
+            {
+                  "name": "Lokomotiva 62-019",
+                  "text": "O locomotivă veche care poate fi văzută ca monument tehnic în Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.624447,
+                        46.553284
+                  ]
+            },
+            {
+                  "name": "Kopališče Mariborski Otok",
+                  "text": "O zonă populară de înot în aer liber situată pe o insulă de pe râul Drava în Maribor.",
+                  "category": "family",
+                  "coords": [
+                        15.612747,
+                        46.567285
+                  ]
+            },
+            {
+                  "name": "archery",
+                  "text": "Un acvariu în Maribor unde vizitatorii pot explora diverse specii acvatice într-un cadru familial.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiosk K67",
+                  "text": "An iconic Yugoslav modular kiosk design exhibited in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.64173,
+                        46.558656
+                  ]
+            },
+            {
+                  "name": "Akvarij - terarij Maribor",
+                  "text": "An aquarium and terrarium in Maribor featuring a variety of fish and reptiles.",
+                  "category": "family",
+                  "coords": [
+                        15.649563,
+                        46.564788
+                  ]
+            },
+            {
+                  "name": "Muzej narodne osvoboditve Maribor",
+                  "text": "This museum in Maribor documents the history of the national liberation movement.",
+                  "category": "museum",
+                  "coords": [
+                        15.64789,
+                        46.562784
+                  ]
+            },
+            {
+                  "name": "Maribor Synagogue",
+                  "text": "One of the oldest preserved synagogues in Europe, now serving as a cultural center in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.647645,
+                        46.556785
+                  ]
+            },
+            {
+                  "name": "Dvorec Betnava",
+                  "text": "A Baroque castle located on the outskirts of Maribor.",
+                  "category": "castle",
+                  "coords": [
+                        15.639859,
+                        46.528511
+                  ]
+            },
+            {
+                  "name": "Slovensko narodno gledališče Maribor",
+                  "text": "The Slovene National Theatre Maribor is the largest cultural and arts institution in the country.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643949,
+                        46.559842
+                  ]
+            },
+            {
+                  "name": "Regional museum",
+                  "text": "The Regional Museum of Maribor displays exhibits related to local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        15.648543,
+                        46.560437
+                  ]
+            },
+            {
+                  "name": "Medieval wall ruins",
+                  "text": "Remains of the medieval city walls in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.642594,
+                        46.560687
+                  ]
+            },
+            {
+                  "name": "Vojaški muzej Slovenske Vojske",
+                  "text": "The Military Museum of the Slovenian Armed Forces is located in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.630949,
+                        46.547889
+                  ]
+            },
+            {
+                  "name": "Radijski muzej Radio City",
+                  "text": "A museum in Maribor focusing on the history of radio broadcasting.",
+                  "category": "museum",
+                  "coords": [
+                        15.646743,
+                        46.561104
+                  ]
+            },
+            {
+                  "name": "Trafika - museum for one",
+                  "text": "A tiny museum housed in a former kiosk in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.645695,
+                        46.554679
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Maribor",
+                  "text": "The Maribor Puppet Theatre offers performances for both children and adults.",
+                  "category": "cultural",
+                  "coords": [
+                        15.642068,
+                        46.556969
+                  ]
+            },
+            {
+                  "name": "Piramida",
+                  "text": "A popular viewpoint on a hill in Maribor, located at the site of the former city castle.",
+                  "category": "natural",
+                  "coords": [
+                        15.652333,
+                        46.568083
+                  ]
+            },
+            {
+                  "name": "Narodni Dom",
+                  "text": "A significant cultural and event center located in the heart of Maribor.",
+                  "category": "cultural",
+                  "coords": [
+                        15.64949,
+                        46.557582
+                  ]
+            },
+            {
+                  "name": "Samotni bor",
+                  "text": "A distinctive viewpoint near Maribor.",
+                  "category": "natural",
+                  "coords": [
+                        15.635272,
+                        46.577061
+                  ]
+            },
+            {
+                  "name": "Kalvarija",
+                  "text": "A hill in Maribor featuring a way of the cross and great views of the city.",
+                  "category": "natural",
+                  "coords": [
+                        15.639712,
+                        46.569077
+                  ]
+            },
+            {
+                  "name": "Old Vine",
+                  "text": "The oldest productive grape vine in the world is located in the center of Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.644234,
+                        46.55672
+                  ]
+            },
+            {
+                  "name": "General Maister",
+                  "text": "This monument in Maribor honors the Slovenian general and poet Rudolf Maister.",
+                  "category": "historical",
+                  "coords": [
+                        15.64872,
+                        46.561681
+                  ]
+            },
+            {
+                  "name": "Mestni park",
+                  "text": "The city park of Maribor is a green oasis featuring ponds and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        15.646683,
+                        46.568292
+                  ]
+            },
+            {
+                  "name": "Jožefov studenec",
+                  "text": "A historical spring or fountain in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631315,
+                        46.557455
+                  ]
+            },
+            {
+                  "name": "Razgledišče Pri sedmih hrastih",
+                  "text": "A viewpoint in Maribor known as \"By the Seven Oaks.\"",
+                  "category": "natural",
+                  "coords": [
+                        15.642823,
+                        46.568646
+                  ]
+            },
+            {
+                  "name": "VIM1",
+                  "text": "A viewpoint in Maribor offering views of the city.",
+                  "category": "natural",
+                  "coords": [
+                        15.683964,
+                        46.556923
+                  ]
+            },
+            {
+                  "name": "UGM Studio",
+                  "text": "An exhibition space of the Maribor Art Gallery dedicated to contemporary art projects.",
+                  "category": "museum",
+                  "coords": [
+                        15.648597,
+                        46.559229
+                  ]
+            },
+            {
+                  "name": "artKIT",
+                  "text": "An experimental art space and gallery in the center of Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.6454,
+                        46.55782
+                  ]
+            },
+            {
+                  "name": "Galerija ArtB",
+                  "text": "An art gallery in Maribor showcasing local and international art.",
+                  "category": "museum",
+                  "coords": [
+                        15.64561,
+                        46.553738
+                  ]
+            },
+            {
+                  "name": "Spomenik talcem padlim ob zori svobode aprila 1945",
+                  "text": "A monument in Maribor dedicated to the hostages who fell in April 1945.",
+                  "category": "historical",
+                  "coords": [
+                        15.62289,
+                        46.539735
+                  ]
+            },
+            {
+                  "name": "Galerija K18",
+                  "text": "A contemporary art space and gallery in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.642713,
+                        46.557982
+                  ]
+            },
+            {
+                  "name": "Obeležje v spomin na osamosvojitev Slovenije",
+                  "text": "Situated in Maribor, the Obeležje v spomin na osamosvojitev Slovenije stands as a reminder of an important historical event. This monument is specifically dedicated to the independence of Slovenia and invites reflection.",
+                  "category": "historical",
+                  "coords": [
+                        15.665202,
+                        46.56665
+                  ]
+            },
+            {
+                  "name": "Doprsni spomenik",
+                  "text": "A bust memorializing a significant figure in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.623894,
+                        46.56483
+                  ]
+            },
+            {
+                  "name": "Spomenik Narodnemu Heroju Slavku Šlandru",
+                  "text": "Monument dedicated to the national hero Slavko Šlander in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.637862,
+                        46.539873
+                  ]
+            },
+            {
+                  "name": "Wine Cellar VINAG",
+                  "text": "One of the largest and oldest classic wine cellars in Europe is located in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.649826,
+                        46.560994
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. John the Baptist",
+                  "text": "The Cathedral of St. John the Baptist is the seat of the Maribor diocese.",
+                  "category": "religious",
+                  "coords": [
+                        15.64502,
+                        46.559129
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "An Evangelical church in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.644026,
+                        46.561475
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "A small chapel for worship in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.665007,
+                        46.549314
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Ane",
+                  "text": "A Baroque chapel dedicated to Saint Anne in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.638704,
+                        46.577949
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 151-001",
+                  "text": "A historical steam locomotive exhibited as a monument in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.657186,
+                        46.561879
+                  ]
+            },
+            {
+                  "name": "Lokomotiva 62-019",
+                  "text": "An old locomotive on display as a technical monument in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.624447,
+                        46.553284
+                  ]
+            },
+            {
+                  "name": "Kopališče Mariborski Otok",
+                  "text": "A popular outdoor swimming area located on an island in the Drava River in Maribor.",
+                  "category": "family",
+                  "coords": [
+                        15.612747,
+                        46.567285
+                  ]
+            },
+            {
+                  "name": "archery",
+                  "text": "An aquarium in Maribor where visitors can explore various aquatic species in a family setting.",
+                  "category": "family",
+                  "coords": [
+                        15.671623,
+                        46.525453
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "si-maribor",
     coords: [15.6459, 46.5547],
@@ -2948,6 +4397,15 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.356133,
                         46.236331
                   ]
+            },
+            {
+                  "name": "Kosorep",
+                  "text": "Genießen Sie einen tollen Tag mit Schwimmen und Wasseraktivitäten mit der Familie in Kranj.",
+                  "category": "family",
+                  "coords": [
+                        14.376087,
+                        46.255252
+                  ]
             }
       ],
       "hu": [
@@ -3093,6 +4551,15 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         14.356133,
                         46.236331
+                  ]
+            },
+            {
+                  "name": "Kosorep",
+                  "text": "Élvezze a vidám úszást és a vízi programokat a családdal Kranj városában.",
+                  "category": "family",
+                  "coords": [
+                        14.376087,
+                        46.255252
                   ]
             }
       ],
@@ -3240,6 +4707,15 @@ export const poiExtraSloveniaCities: POI[] = [
                         14.356133,
                         46.236331
                   ]
+            },
+            {
+                  "name": "Kosorep",
+                  "text": "Bucurați-vă de o zi plină de înot și activități acvatice cu familia în Kranj.",
+                  "category": "family",
+                  "coords": [
+                        14.376087,
+                        46.255252
+                  ]
             }
       ],
       "en": [
@@ -3385,6 +4861,15 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         14.356133,
                         46.236331
+                  ]
+            },
+            {
+                  "name": "Kosorep",
+                  "text": "Enjoy a fun day of swimming and water activities with the family in Kranj.",
+                  "category": "family",
+                  "coords": [
+                        14.376087,
+                        46.255252
                   ]
             }
       ]
@@ -3608,6 +5093,42 @@ export const poiExtraSloveniaCities: POI[] = [
                         13.726848,
                         45.545107
                   ]
+            },
+            {
+                  "name": "Aquapark Žusterna",
+                  "text": "Ein Wasserpark in Koper mit Innen- und Außenbecken für ganzjährigen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        13.708889,
+                        45.545926
+                  ]
+            },
+            {
+                  "name": "Plaža Valdoltra / Spiaggia Valdoltra",
+                  "text": "Ein Küstenstrandbad in Koper, das Platz zum Schwimmen und zur Entspannung am Meer bietet.",
+                  "category": "family",
+                  "coords": [
+                        13.724903,
+                        45.580767
+                  ]
+            },
+            {
+                  "name": "Jumpy Land",
+                  "text": "Ein Indoor-Vergnügungspark in Koper mit Trampolinen und Aktivitäten für energiegeladenen Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        13.736217,
+                        45.576541
+                  ]
+            },
+            {
+                  "name": "Bazen Žusterna / Piscina Giusterna",
+                  "text": "Ein öffentliches Schwimmbad in Koper mit Einrichtungen für Sport und Erholung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        13.710586,
+                        45.546495
+                  ]
             }
       ],
       "hu": [
@@ -3789,6 +5310,42 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.726848,
                         45.545107
+                  ]
+            },
+            {
+                  "name": "Aquapark Žusterna",
+                  "text": "Koperi aquapark fedett és szabadtéri medencékkel az egész éves családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.708889,
+                        45.545926
+                  ]
+            },
+            {
+                  "name": "Plaža Valdoltra / Spiaggia Valdoltra",
+                  "text": "Tengerparti üdülőhely Koperben, amely helyet biztosít az úszáshoz és a tengerparti pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        13.724903,
+                        45.580767
+                  ]
+            },
+            {
+                  "name": "Jumpy Land",
+                  "text": "Koperi fedett vidámpark ugrálóasztalokkal és tevékenységekkel az aktív családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        13.736217,
+                        45.576541
+                  ]
+            },
+            {
+                  "name": "Bazen Žusterna / Piscina Giusterna",
+                  "text": "Koperi nyilvános úszómedence, amely edzési és vízi kikapcsolódási lehetőségeket biztosít.",
+                  "category": "family",
+                  "coords": [
+                        13.710586,
+                        45.546495
                   ]
             }
       ],
@@ -3972,6 +5529,42 @@ export const poiExtraSloveniaCities: POI[] = [
                         13.726848,
                         45.545107
                   ]
+            },
+            {
+                  "name": "Aquapark Žusterna",
+                  "text": "Un parc acvatic în Koper, cu piscine interioare și exterioare pentru distracție în familie pe tot parcursul anului.",
+                  "category": "family",
+                  "coords": [
+                        13.708889,
+                        45.545926
+                  ]
+            },
+            {
+                  "name": "Plaža Valdoltra / Spiaggia Valdoltra",
+                  "text": "O stațiune balneară de pe coastă în Koper, care oferă spațiu pentru înot și relaxare la malul mării.",
+                  "category": "family",
+                  "coords": [
+                        13.724903,
+                        45.580767
+                  ]
+            },
+            {
+                  "name": "Jumpy Land",
+                  "text": "Un parc de distracții interior în Koper, cu trambuline și activități pentru distracție energică în familie.",
+                  "category": "family",
+                  "coords": [
+                        13.736217,
+                        45.576541
+                  ]
+            },
+            {
+                  "name": "Bazen Žusterna / Piscina Giusterna",
+                  "text": "O piscină publică în Koper, care oferă facilități pentru exerciții fizice și recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        13.710586,
+                        45.546495
+                  ]
             }
       ],
       "en": [
@@ -4153,6 +5746,42 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.726848,
                         45.545107
+                  ]
+            },
+            {
+                  "name": "Aquapark Žusterna",
+                  "text": "A water park in Koper featuring indoor and outdoor pools for year-round family fun.",
+                  "category": "family",
+                  "coords": [
+                        13.708889,
+                        45.545926
+                  ]
+            },
+            {
+                  "name": "Plaža Valdoltra / Spiaggia Valdoltra",
+                  "text": "A coastal beach resort in Koper offering space for swimming and seaside relaxation.",
+                  "category": "family",
+                  "coords": [
+                        13.724903,
+                        45.580767
+                  ]
+            },
+            {
+                  "name": "Jumpy Land",
+                  "text": "An indoor amusement park in Koper featuring trampolines and activities for energetic family fun.",
+                  "category": "family",
+                  "coords": [
+                        13.736217,
+                        45.576541
+                  ]
+            },
+            {
+                  "name": "Bazen Žusterna / Piscina Giusterna",
+                  "text": "A public swimming pool in Koper providing facilities for exercise and water recreation.",
+                  "category": "family",
+                  "coords": [
+                        13.710586,
+                        45.546495
                   ]
             }
       ]

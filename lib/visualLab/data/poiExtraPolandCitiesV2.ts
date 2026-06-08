@@ -3069,6 +3069,87 @@ export const polandCitiesV2: POI[] = [
                         19.942131,
                         50.043676
                   ]
+            },
+            {
+                  "name": "Basen KS Korona",
+                  "text": "Ein Schwimmbad in Krakow für sportliche Aktivitäten und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        19.946839,
+                        50.042966
+                  ]
+            },
+            {
+                  "name": "YMCA",
+                  "text": "Ein Schwimmbad in Krakow, das Schwimmkurse und Familienspaß anbietet.",
+                  "category": "family",
+                  "coords": [
+                        19.937612,
+                        50.067372
+                  ]
+            },
+            {
+                  "name": "Lemon Fitness - basen",
+                  "text": "Ein Schwimmbad in Krakow, ideal für Fitness und Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        19.937494,
+                        50.043666
+                  ]
+            },
+            {
+                  "name": "Hype Park",
+                  "text": "Ein Freizeitpark in Krakow mit moderner Unterhaltung für junge Besucher.",
+                  "category": "family",
+                  "coords": [
+                        19.942433,
+                        50.077972
+                  ]
+            },
+            {
+                  "name": "Park wodny",
+                  "text": "Ein Wasserpark in Krakow mit vielen Rutschen für ein Familienabenteuer.",
+                  "category": "family",
+                  "coords": [
+                        19.982833,
+                        50.088893
+                  ]
+            },
+            {
+                  "name": "Ogród Doświadczeń im. Stanisława Lema",
+                  "text": "Ein Freizeitpark in Krakow, der Wissenschaft und Spiel für Kinder verbindet.",
+                  "category": "family",
+                  "coords": [
+                        19.996594,
+                        50.068167
+                  ]
+            },
+            {
+                  "name": "Centrum Sportu i Rekreacji UKEN",
+                  "text": "Ein Schwimmbad in Krakow für sportliche Betätigung und Schwimmübungen.",
+                  "category": "family",
+                  "coords": [
+                        19.920768,
+                        50.061622
+                  ]
+            },
+            {
+                  "name": "Wioski Świata - Park Edukacji Globalnej",
+                  "text": "Ein Freizeitpark in Krakow, der kulturelle Bildung auf spielerische Weise vermittelt.",
+                  "category": "family",
+                  "coords": [
+                        19.910975,
+                        50.048422
+                  ]
+            },
+            {
+                  "name": "Muzeum Lotnictwa Polskiego",
+                  "text": "Ein Freizeitpark in Krakow, der sich der Geschichte der Luftfahrt widmet.",
+                  "category": "family",
+                  "coords": [
+                        19.990557,
+                        50.078848
+                  ]
             }
       ],
       "hu": [
@@ -3691,6 +3772,87 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.942131,
                         50.043676
+                  ]
+            },
+            {
+                  "name": "Basen KS Korona",
+                  "text": "Egy úszómedence Krakkó városában sportoláshoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        19.946839,
+                        50.042966
+                  ]
+            },
+            {
+                  "name": "YMCA",
+                  "text": "Egy úszómedence Krakkó városában, amely úszásoktatást és családi szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        19.937612,
+                        50.067372
+                  ]
+            },
+            {
+                  "name": "Lemon Fitness - basen",
+                  "text": "Egy úszómedence Krakkó városában, ideális fitneszhez és szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        19.937494,
+                        50.043666
+                  ]
+            },
+            {
+                  "name": "Hype Park",
+                  "text": "Egy vidámpark Krakkó városában modern szórakozással a fiatal látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        19.942433,
+                        50.077972
+                  ]
+            },
+            {
+                  "name": "Park wodny",
+                  "text": "Egy aquapark Krakkó városában sok csúszdával a családi kalandhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.982833,
+                        50.088893
+                  ]
+            },
+            {
+                  "name": "Ogród Doświadczeń im. Stanisława Lema",
+                  "text": "Egy vidámpark Krakkó városában, amely ötvözi a tudományt és a játékot a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        19.996594,
+                        50.068167
+                  ]
+            },
+            {
+                  "name": "Centrum Sportu i Rekreacji UKEN",
+                  "text": "Egy úszómedence Krakkó városában sportoláshoz és úszógyakorlatokhoz.",
+                  "category": "family",
+                  "coords": [
+                        19.920768,
+                        50.061622
+                  ]
+            },
+            {
+                  "name": "Wioski Świata - Park Edukacji Globalnej",
+                  "text": "Egy vidámpark Krakkó városában, amely játékos formában nyújt kulturális oktatást.",
+                  "category": "family",
+                  "coords": [
+                        19.910975,
+                        50.048422
+                  ]
+            },
+            {
+                  "name": "Muzeum Lotnictwa Polskiego",
+                  "text": "Egy vidámpark Krakkó városában, amelyet a repülés történetének szenteltek.",
+                  "category": "family",
+                  "coords": [
+                        19.990557,
+                        50.078848
                   ]
             }
       ],
@@ -4315,6 +4477,87 @@ export const polandCitiesV2: POI[] = [
                         19.942131,
                         50.043676
                   ]
+            },
+            {
+                  "name": "Basen KS Korona",
+                  "text": "O piscină în Cracovia pentru activități sportive și recreere.",
+                  "category": "family",
+                  "coords": [
+                        19.946839,
+                        50.042966
+                  ]
+            },
+            {
+                  "name": "YMCA",
+                  "text": "O piscină în Cracovia care oferă cursuri de înot și distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.937612,
+                        50.067372
+                  ]
+            },
+            {
+                  "name": "Lemon Fitness - basen",
+                  "text": "O piscină în Cracovia, ideală pentru fitness și petrecerea timpului liber.",
+                  "category": "family",
+                  "coords": [
+                        19.937494,
+                        50.043666
+                  ]
+            },
+            {
+                  "name": "Hype Park",
+                  "text": "Un parc tematic în Cracovia cu divertisment modern pentru tinerii vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        19.942433,
+                        50.077972
+                  ]
+            },
+            {
+                  "name": "Park wodny",
+                  "text": "Un parc acvatic în Cracovia cu multe tobogane pentru o aventură în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.982833,
+                        50.088893
+                  ]
+            },
+            {
+                  "name": "Ogród Doświadczeń im. Stanisława Lema",
+                  "text": "Un parc tematic în Cracovia care îmbină știința și jocul pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        19.996594,
+                        50.068167
+                  ]
+            },
+            {
+                  "name": "Centrum Sportu i Rekreacji UKEN",
+                  "text": "O piscină în Cracovia pentru activități sportive și exerciții de înot.",
+                  "category": "family",
+                  "coords": [
+                        19.920768,
+                        50.061622
+                  ]
+            },
+            {
+                  "name": "Wioski Świata - Park Edukacji Globalnej",
+                  "text": "Un parc tematic în Cracovia care oferă educație culturală într-un mod ludic.",
+                  "category": "family",
+                  "coords": [
+                        19.910975,
+                        50.048422
+                  ]
+            },
+            {
+                  "name": "Muzeum Lotnictwa Polskiego",
+                  "text": "Un parc tematic în Cracovia dedicat istoriei aviației.",
+                  "category": "family",
+                  "coords": [
+                        19.990557,
+                        50.078848
+                  ]
             }
       ],
       "en": [
@@ -4938,6 +5181,87 @@ export const polandCitiesV2: POI[] = [
                         19.942131,
                         50.043676
                   ]
+            },
+            {
+                  "name": "Basen KS Korona",
+                  "text": "A swimming pool in Krakow for sporting activities and recreation.",
+                  "category": "family",
+                  "coords": [
+                        19.946839,
+                        50.042966
+                  ]
+            },
+            {
+                  "name": "YMCA",
+                  "text": "A swimming pool in Krakow offering swimming lessons and family fun.",
+                  "category": "family",
+                  "coords": [
+                        19.937612,
+                        50.067372
+                  ]
+            },
+            {
+                  "name": "Lemon Fitness - basen",
+                  "text": "A swimming pool in Krakow ideal for fitness and leisure.",
+                  "category": "family",
+                  "coords": [
+                        19.937494,
+                        50.043666
+                  ]
+            },
+            {
+                  "name": "Hype Park",
+                  "text": "A theme park in Krakow with modern entertainment for young visitors.",
+                  "category": "family",
+                  "coords": [
+                        19.942433,
+                        50.077972
+                  ]
+            },
+            {
+                  "name": "Park wodny",
+                  "text": "A water park in Krakow with many slides for a family adventure.",
+                  "category": "family",
+                  "coords": [
+                        19.982833,
+                        50.088893
+                  ]
+            },
+            {
+                  "name": "Ogród Doświadczeń im. Stanisława Lema",
+                  "text": "A theme park in Krakow combining science and play for children.",
+                  "category": "family",
+                  "coords": [
+                        19.996594,
+                        50.068167
+                  ]
+            },
+            {
+                  "name": "Centrum Sportu i Rekreacji UKEN",
+                  "text": "A swimming pool in Krakow for sporting activities and swimming practice.",
+                  "category": "family",
+                  "coords": [
+                        19.920768,
+                        50.061622
+                  ]
+            },
+            {
+                  "name": "Wioski Świata - Park Edukacji Globalnej",
+                  "text": "A theme park in Krakow providing cultural education in a playful way.",
+                  "category": "family",
+                  "coords": [
+                        19.910975,
+                        50.048422
+                  ]
+            },
+            {
+                  "name": "Muzeum Lotnictwa Polskiego",
+                  "text": "A theme park in Krakow dedicated to the history of aviation.",
+                  "category": "family",
+                  "coords": [
+                        19.990557,
+                        50.078848
+                  ]
             }
       ]
 },
@@ -5436,6 +5760,69 @@ export const polandCitiesV2: POI[] = [
                         19.473911,
                         51.753091
                   ]
+            },
+            {
+                  "name": "Sala Zabaw „Smocza Jama”",
+                  "text": "Sala Zabaw „Smocza Jama” in Lodz bietet ein unterhaltsames Erlebnis für Familien und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        19.480373,
+                        51.741153
+                  ]
+            },
+            {
+                  "name": "Pływalnia Centrum Sportu UŁ",
+                  "text": "Genießen Sie ein erfrischendes Bad im University of Lodz Swimming pool in Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.49282,
+                        51.780901
+                  ]
+            },
+            {
+                  "name": "HopaLupa",
+                  "text": "HopaLupa in Lodz bietet ein unterhaltsames Erlebnis für Familien und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        19.449018,
+                        51.749958
+                  ]
+            },
+            {
+                  "name": "Orientarium ZOO Łódź",
+                  "text": "Besuchen Sie die Tiere im Orientarium ZOO Łódź in Lodz, ein tolles Ziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.412345,
+                        51.760983
+                  ]
+            },
+            {
+                  "name": "MOSIR",
+                  "text": "Genießen Sie ein erfrischendes Bad im MOSIR in Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.469426,
+                        51.789097
+                  ]
+            },
+            {
+                  "name": "Anilana",
+                  "text": "Genießen Sie ein erfrischendes Bad im Anilana in Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.512151,
+                        51.760939
+                  ]
+            },
+            {
+                  "name": "Aquapark Fala",
+                  "text": "Genießen Sie ein erfrischendes Bad im Aquapark Fala in Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.421138,
+                        51.764213
+                  ]
             }
       ],
       "hu": [
@@ -5887,6 +6274,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.473911,
                         51.753091
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw „Smocza Jama”",
+                  "text": "A Sala Zabaw „Smocza Jama” Lodz városában szórakoztató élményt kínál a családok és a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        19.480373,
+                        51.741153
+                  ]
+            },
+            {
+                  "name": "Pływalnia Centrum Sportu UŁ",
+                  "text": "Élvezze a frissítő úszást a University of Lodz Swimming pool helyszínén Lodz városában.",
+                  "category": "family",
+                  "coords": [
+                        19.49282,
+                        51.780901
+                  ]
+            },
+            {
+                  "name": "HopaLupa",
+                  "text": "A HopaLupa Lodz városában szórakoztató élményt kínál a családok és a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        19.449018,
+                        51.749958
+                  ]
+            },
+            {
+                  "name": "Orientarium ZOO Łódź",
+                  "text": "Látogassa meg az állatokat a Orientarium ZOO Łódź területén Lodz városában, amely remek úti cél családoknak.",
+                  "category": "family",
+                  "coords": [
+                        19.412345,
+                        51.760983
+                  ]
+            },
+            {
+                  "name": "MOSIR",
+                  "text": "Élvezze a frissítő úszást a MOSIR helyszínén Lodz városában.",
+                  "category": "family",
+                  "coords": [
+                        19.469426,
+                        51.789097
+                  ]
+            },
+            {
+                  "name": "Anilana",
+                  "text": "Élvezze a frissítő úszást a Anilana helyszínén Lodz városában.",
+                  "category": "family",
+                  "coords": [
+                        19.512151,
+                        51.760939
+                  ]
+            },
+            {
+                  "name": "Aquapark Fala",
+                  "text": "Élvezze a frissítő úszást a Aquapark Fala helyszínén Lodz városában.",
+                  "category": "family",
+                  "coords": [
+                        19.421138,
+                        51.764213
                   ]
             }
       ],
@@ -6340,6 +6790,69 @@ export const polandCitiesV2: POI[] = [
                         19.473911,
                         51.753091
                   ]
+            },
+            {
+                  "name": "Sala Zabaw „Smocza Jama”",
+                  "text": "Sala Zabaw „Smocza Jama” din Lodz oferă o experiență plină de distracție pentru familii și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        19.480373,
+                        51.741153
+                  ]
+            },
+            {
+                  "name": "Pływalnia Centrum Sportu UŁ",
+                  "text": "Bucurați-vă de o baie răcoritoare la University of Lodz Swimming pool în Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.49282,
+                        51.780901
+                  ]
+            },
+            {
+                  "name": "HopaLupa",
+                  "text": "HopaLupa din Lodz oferă o experiență plină de distracție pentru familii și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        19.449018,
+                        51.749958
+                  ]
+            },
+            {
+                  "name": "Orientarium ZOO Łódź",
+                  "text": "Vizitați animalele de la Orientarium ZOO Łódź din Lodz, o destinație excelentă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.412345,
+                        51.760983
+                  ]
+            },
+            {
+                  "name": "MOSIR",
+                  "text": "Bucurați-vă de o baie răcoritoare la MOSIR în Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.469426,
+                        51.789097
+                  ]
+            },
+            {
+                  "name": "Anilana",
+                  "text": "Bucurați-vă de o baie răcoritoare la Anilana în Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.512151,
+                        51.760939
+                  ]
+            },
+            {
+                  "name": "Aquapark Fala",
+                  "text": "Bucurați-vă de o baie răcoritoare la Aquapark Fala în Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.421138,
+                        51.764213
+                  ]
             }
       ],
       "en": [
@@ -6791,6 +7304,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.473911,
                         51.753091
+                  ]
+            },
+            {
+                  "name": "Sala Zabaw „Smocza Jama”",
+                  "text": "Sala Zabaw „Smocza Jama” in Lodz offers a fun-filled experience for families and visitors.",
+                  "category": "family",
+                  "coords": [
+                        19.480373,
+                        51.741153
+                  ]
+            },
+            {
+                  "name": "University of Lodz Swimming pool",
+                  "text": "Enjoy a refreshing swim at University of Lodz Swimming pool in Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.49282,
+                        51.780901
+                  ]
+            },
+            {
+                  "name": "HopaLupa",
+                  "text": "HopaLupa in Lodz offers a fun-filled experience for families and visitors.",
+                  "category": "family",
+                  "coords": [
+                        19.449018,
+                        51.749958
+                  ]
+            },
+            {
+                  "name": "Orientarium ZOO Łódź",
+                  "text": "Visit the animals at Orientarium ZOO Łódź in Lodz, a great destination for families.",
+                  "category": "family",
+                  "coords": [
+                        19.412345,
+                        51.760983
+                  ]
+            },
+            {
+                  "name": "MOSIR",
+                  "text": "Enjoy a refreshing swim at MOSIR in Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.469426,
+                        51.789097
+                  ]
+            },
+            {
+                  "name": "Anilana",
+                  "text": "Enjoy a refreshing swim at Anilana in Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.512151,
+                        51.760939
+                  ]
+            },
+            {
+                  "name": "Aquapark Fala",
+                  "text": "Enjoy a refreshing swim at Aquapark Fala in Lodz.",
+                  "category": "family",
+                  "coords": [
+                        19.421138,
+                        51.764213
                   ]
             }
       ]
@@ -7416,6 +7992,42 @@ export const polandCitiesV2: POI[] = [
                         17.025164,
                         51.103353
                   ]
+            },
+            {
+                  "name": "Zoo Team",
+                  "text": "Dieser Zoo in Breslau ermöglicht es Familien, verschiedene Tierarten in einer freundlichen Umgebung zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        17.042768,
+                        51.118643
+                  ]
+            },
+            {
+                  "name": "Venomous Art",
+                  "text": "Dieser spezialisierte Zoo in Breslau bietet einen interessanten und lehrreichen Besuch für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        17.026558,
+                        51.111497
+                  ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "Dieses Hallenbad in Breslau bietet Familien das ganze Jahr über Schwimmgelegenheiten.",
+                  "category": "family",
+                  "coords": [
+                        17.022854,
+                        51.093355
+                  ]
+            },
+            {
+                  "name": "Aquapark Wrocław",
+                  "text": "Dieser große Wasserpark in Breslau bietet zahlreiche Becken und Rutschen für die Familienunterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        17.032087,
+                        51.090505
+                  ]
             }
       ],
       "hu": [
@@ -7993,6 +8605,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.025164,
                         51.103353
+                  ]
+            },
+            {
+                  "name": "Zoo Team",
+                  "text": "Ez a wrocławi állatkert lehetővé teszi a családok számára a különféle állatfajok felfedezését barátságos környezetben.",
+                  "category": "family",
+                  "coords": [
+                        17.042768,
+                        51.118643
+                  ]
+            },
+            {
+                  "name": "Venomous Art",
+                  "text": "Ez a különleges wrocławi állatkert érdekes és tanulságos látogatást kínál az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        17.026558,
+                        51.111497
+                  ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "Ez a wrocławi fedett uszoda egész évben úszási lehetőséget biztosít a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.022854,
+                        51.093355
+                  ]
+            },
+            {
+                  "name": "Aquapark Wrocław",
+                  "text": "Ez a hatalmas wrocławi vízipark számos medencével és csúszdával várja a szórakozni vágyó családokat.",
+                  "category": "family",
+                  "coords": [
+                        17.032087,
+                        51.090505
                   ]
             }
       ],
@@ -8572,6 +9220,42 @@ export const polandCitiesV2: POI[] = [
                         17.025164,
                         51.103353
                   ]
+            },
+            {
+                  "name": "Zoo Team",
+                  "text": "Această grădină zoologică din Wrocław permite familiilor să descopere diverse specii de animale într-un cadru prietenos.",
+                  "category": "family",
+                  "coords": [
+                        17.042768,
+                        51.118643
+                  ]
+            },
+            {
+                  "name": "Venomous Art",
+                  "text": "Această grădină zoologică specializată din Wrocław oferă o vizită interesantă și educativă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        17.026558,
+                        51.111497
+                  ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "Această piscină interioară din Wrocław oferă oportunități de înot pe tot parcursul anului pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.022854,
+                        51.093355
+                  ]
+            },
+            {
+                  "name": "Aquapark Wrocław",
+                  "text": "Acest mare parc acvatic din Wrocław are numeroase piscine și tobogane pentru divertismentul în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.032087,
+                        51.090505
+                  ]
             }
       ],
       "en": [
@@ -9150,6 +9834,42 @@ export const polandCitiesV2: POI[] = [
                         17.025164,
                         51.103353
                   ]
+            },
+            {
+                  "name": "Zoo Team",
+                  "text": "This zoo in Wrocław allows families to discover various animal species in a friendly setting.",
+                  "category": "family",
+                  "coords": [
+                        17.042768,
+                        51.118643
+                  ]
+            },
+            {
+                  "name": "Venomous Art",
+                  "text": "This specialized zoo in Wrocław provides an interesting and educational visit for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        17.026558,
+                        51.111497
+                  ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "This indoor swimming pool in Wrocław offers year-round swimming opportunities for families.",
+                  "category": "family",
+                  "coords": [
+                        17.022854,
+                        51.093355
+                  ]
+            },
+            {
+                  "name": "Aquapark Wrocław",
+                  "text": "This large water park in Wrocław features numerous pools and slides for family entertainment.",
+                  "category": "family",
+                  "coords": [
+                        17.032087,
+                        51.090505
+                  ]
             }
       ]
 },
@@ -9387,6 +10107,78 @@ export const polandCitiesV2: POI[] = [
                         16.899821,
                         52.422853
                   ]
+            },
+            {
+                  "name": "Karuzela",
+                  "text": "Ein Freizeitpark in Poznan mit klassischen Karussells und Spaß für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        16.979657,
+                        52.400148
+                  ]
+            },
+            {
+                  "name": "Little Blue swim school",
+                  "text": "Ein Schwimmbad in Poznan, spezialisiert auf Schwimmunterricht für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        16.924928,
+                        52.395984
+                  ]
+            },
+            {
+                  "name": "Basen Rataje",
+                  "text": "Ein Schwimmbad in Poznan für regelmäßiges Training und Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        16.943933,
+                        52.392855
+                  ]
+            },
+            {
+                  "name": "Stare Zoo",
+                  "text": "Ein Zoo in Poznan, der Familien die Möglichkeit bietet, Tiere hautnah zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        16.904891,
+                        52.408133
+                  ]
+            },
+            {
+                  "name": "Termy Maltańskie",
+                  "text": "Ein Wasserpark in Poznan mit Thermalbecken und Rutschen für jedermann.",
+                  "category": "family",
+                  "coords": [
+                        16.973706,
+                        52.405067
+                  ]
+            },
+            {
+                  "name": "Szkoła Małego Kierowcy",
+                  "text": "Ein Freizeitpark in Poznan, in dem Kinder spielerisch das Autofahren lernen können.",
+                  "category": "family",
+                  "coords": [
+                        16.980687,
+                        52.399796
+                  ]
+            },
+            {
+                  "name": "Pływalnia Letnia w Parku Kasprowicza",
+                  "text": "Ein Wasserpark in Poznan für sommerliches Badevergnügen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        16.89051,
+                        52.394814
+                  ]
+            },
+            {
+                  "name": "kąpielisko Malta",
+                  "text": "Ein Badeplatz in Poznan, ideal zum Schwimmen und für Freizeitaktivitäten am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        16.97474,
+                        52.400413
+                  ]
             }
       ],
       "hu": [
@@ -9577,6 +10369,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.899821,
                         52.422853
+                  ]
+            },
+            {
+                  "name": "Karuzela",
+                  "text": "Egy vidámpark Poznan városában klasszikus körhintákkal és szórakozással a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        16.979657,
+                        52.400148
+                  ]
+            },
+            {
+                  "name": "Little Blue swim school",
+                  "text": "Egy úszómedence Poznan városában, amely gyermekúsztatásra szakosodott.",
+                  "category": "family",
+                  "coords": [
+                        16.924928,
+                        52.395984
+                  ]
+            },
+            {
+                  "name": "Basen Rataje",
+                  "text": "Egy úszómedence Poznan városában rendszeres edzéshez és családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.943933,
+                        52.392855
+                  ]
+            },
+            {
+                  "name": "Stare Zoo",
+                  "text": "Egy állatkert Poznan városában, amely lehetőséget ad a családoknak az állatok közeli megismerésére.",
+                  "category": "family",
+                  "coords": [
+                        16.904891,
+                        52.408133
+                  ]
+            },
+            {
+                  "name": "Termy Maltańskie",
+                  "text": "Egy aquapark Poznan városában termálmedencékkel és csúszdákkal mindenki számára.",
+                  "category": "family",
+                  "coords": [
+                        16.973706,
+                        52.405067
+                  ]
+            },
+            {
+                  "name": "Szkoła Małego Kierowcy",
+                  "text": "Egy vidámpark Poznan városában, ahol a gyerekek játékosan tanulhatnak meg vezetni.",
+                  "category": "family",
+                  "coords": [
+                        16.980687,
+                        52.399796
+                  ]
+            },
+            {
+                  "name": "Pływalnia Letnia w Parku Kasprowicza",
+                  "text": "Egy aquapark Poznan városában a nyári szabadtéri fürdőzéshez.",
+                  "category": "family",
+                  "coords": [
+                        16.89051,
+                        52.394814
+                  ]
+            },
+            {
+                  "name": "kąpielisko Malta",
+                  "text": "Egy fürdőhely Poznan városában, ideális úszáshoz és vízi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        16.97474,
+                        52.400413
                   ]
             }
       ],
@@ -9769,6 +10633,78 @@ export const polandCitiesV2: POI[] = [
                         16.899821,
                         52.422853
                   ]
+            },
+            {
+                  "name": "Karuzela",
+                  "text": "Un parc tematic în Poznan cu carusele clasice și distracție pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.979657,
+                        52.400148
+                  ]
+            },
+            {
+                  "name": "Little Blue swim school",
+                  "text": "O piscină în Poznan specializată în lecții de înot pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        16.924928,
+                        52.395984
+                  ]
+            },
+            {
+                  "name": "Basen Rataje",
+                  "text": "O piscină în Poznan pentru antrenamente regulate și înot în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.943933,
+                        52.392855
+                  ]
+            },
+            {
+                  "name": "Stare Zoo",
+                  "text": "O grădină zoologică în Poznan care oferă familiilor ocazia de a vedea animalele de aproape.",
+                  "category": "family",
+                  "coords": [
+                        16.904891,
+                        52.408133
+                  ]
+            },
+            {
+                  "name": "Termy Maltańskie",
+                  "text": "Un parc acvatic în Poznan cu bazine termale și tobogane pentru toată lumea.",
+                  "category": "family",
+                  "coords": [
+                        16.973706,
+                        52.405067
+                  ]
+            },
+            {
+                  "name": "Szkoła Małego Kierowcy",
+                  "text": "Un parc tematic în Poznan unde copiii pot învăța să conducă într-un mod ludic.",
+                  "category": "family",
+                  "coords": [
+                        16.980687,
+                        52.399796
+                  ]
+            },
+            {
+                  "name": "Pływalnia Letnia w Parku Kasprowicza",
+                  "text": "Un parc acvatic în Poznan pentru plăcerea scăldatului în aer liber pe timp de vară.",
+                  "category": "family",
+                  "coords": [
+                        16.89051,
+                        52.394814
+                  ]
+            },
+            {
+                  "name": "kąpielisko Malta",
+                  "text": "O zonă de scăldat în Poznan, ideală pentru înot și activități recreative la apă.",
+                  "category": "family",
+                  "coords": [
+                        16.97474,
+                        52.400413
+                  ]
             }
       ],
       "en": [
@@ -9959,6 +10895,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.899821,
                         52.422853
+                  ]
+            },
+            {
+                  "name": "Karuzela",
+                  "text": "A theme park in Poznan with classic carousels and fun for children.",
+                  "category": "family",
+                  "coords": [
+                        16.979657,
+                        52.400148
+                  ]
+            },
+            {
+                  "name": "Little Blue swim school",
+                  "text": "A swimming pool in Poznan specializing in swim lessons for children.",
+                  "category": "family",
+                  "coords": [
+                        16.924928,
+                        52.395984
+                  ]
+            },
+            {
+                  "name": "Basen Rataje",
+                  "text": "A swimming pool in Poznan for regular training and family swimming.",
+                  "category": "family",
+                  "coords": [
+                        16.943933,
+                        52.392855
+                  ]
+            },
+            {
+                  "name": "Stare Zoo",
+                  "text": "A zoo in Poznan offering families the chance to see animals up close.",
+                  "category": "family",
+                  "coords": [
+                        16.904891,
+                        52.408133
+                  ]
+            },
+            {
+                  "name": "Termy Maltańskie",
+                  "text": "A water park in Poznan with thermal pools and slides for everyone.",
+                  "category": "family",
+                  "coords": [
+                        16.973706,
+                        52.405067
+                  ]
+            },
+            {
+                  "name": "Szkoła Małego Kierowcy",
+                  "text": "A theme park in Poznan where children can learn to drive in a playful way.",
+                  "category": "family",
+                  "coords": [
+                        16.980687,
+                        52.399796
+                  ]
+            },
+            {
+                  "name": "Pływalnia Letnia w Parku Kasprowicza",
+                  "text": "A water park in Poznan for summer outdoor bathing fun.",
+                  "category": "family",
+                  "coords": [
+                        16.89051,
+                        52.394814
+                  ]
+            },
+            {
+                  "name": "Malta swimming area",
+                  "text": "A swimming area in Poznan ideal for swimming and leisure activities by the water.",
+                  "category": "family",
+                  "coords": [
+                        16.97474,
+                        52.400413
                   ]
             }
       ]
@@ -10395,6 +11403,33 @@ export const polandCitiesV2: POI[] = [
                         18.632584,
                         54.361524
                   ]
+            },
+            {
+                  "name": "Pływalnia Chełm",
+                  "text": "Genießen Sie ein erfrischendes Bad im Pływalnia Chełm in Gdansk.",
+                  "category": "family",
+                  "coords": [
+                        18.621084,
+                        54.339811
+                  ]
+            },
+            {
+                  "name": "One Harmony",
+                  "text": "Genießen Sie ein erfrischendes Bad im One Harmony in Gdansk.",
+                  "category": "family",
+                  "coords": [
+                        18.656967,
+                        54.343885
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Genießen Sie ein erfrischendes Bad im Basen in Gdansk.",
+                  "category": "family",
+                  "coords": [
+                        18.631644,
+                        54.370217
+                  ]
             }
       ],
       "hu": [
@@ -10783,6 +11818,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.632584,
                         54.361524
+                  ]
+            },
+            {
+                  "name": "Pływalnia Chełm",
+                  "text": "Élvezze a frissítő úszást a Pływalnia Chełm helyszínén Gdansk városában.",
+                  "category": "family",
+                  "coords": [
+                        18.621084,
+                        54.339811
+                  ]
+            },
+            {
+                  "name": "One Harmony",
+                  "text": "Élvezze a frissítő úszást a One Harmony helyszínén Gdansk városában.",
+                  "category": "family",
+                  "coords": [
+                        18.656967,
+                        54.343885
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Élvezze a frissítő úszást a Basen helyszínén Gdansk városában.",
+                  "category": "family",
+                  "coords": [
+                        18.631644,
+                        54.370217
                   ]
             }
       ],
@@ -11173,6 +12235,33 @@ export const polandCitiesV2: POI[] = [
                         18.632584,
                         54.361524
                   ]
+            },
+            {
+                  "name": "Pływalnia Chełm",
+                  "text": "Bucurați-vă de o baie răcoritoare la Pływalnia Chełm în Gdansk.",
+                  "category": "family",
+                  "coords": [
+                        18.621084,
+                        54.339811
+                  ]
+            },
+            {
+                  "name": "One Harmony",
+                  "text": "Bucurați-vă de o baie răcoritoare la One Harmony în Gdansk.",
+                  "category": "family",
+                  "coords": [
+                        18.656967,
+                        54.343885
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Bucurați-vă de o baie răcoritoare la Basen în Gdansk.",
+                  "category": "family",
+                  "coords": [
+                        18.631644,
+                        54.370217
+                  ]
             }
       ],
       "en": [
@@ -11561,6 +12650,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.632584,
                         54.361524
+                  ]
+            },
+            {
+                  "name": "Pływalnia Chełm",
+                  "text": "Enjoy a refreshing swim at Pływalnia Chełm in Gdansk.",
+                  "category": "family",
+                  "coords": [
+                        18.621084,
+                        54.339811
+                  ]
+            },
+            {
+                  "name": "One Harmony",
+                  "text": "Enjoy a refreshing swim at One Harmony in Gdansk.",
+                  "category": "family",
+                  "coords": [
+                        18.656967,
+                        54.343885
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Enjoy a refreshing swim at Basen in Gdansk.",
+                  "category": "family",
+                  "coords": [
+                        18.631644,
+                        54.370217
                   ]
             }
       ]
@@ -12051,6 +13167,60 @@ export const polandCitiesV2: POI[] = [
                         14.513663,
                         53.418361
                   ]
+            },
+            {
+                  "name": "Floating Arena",
+                  "text": "Dieses moderne Schwimmbad in Stettin ist ein idealer Ort für Familienerholung und Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        14.548902,
+                        53.43837
+                  ]
+            },
+            {
+                  "name": "Reefguard",
+                  "text": "Dieses Aquarium in Stettin zeigt faszinierende Wasserbewohner für Besucher jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        14.542975,
+                        53.44297
+                  ]
+            },
+            {
+                  "name": "Powerland",
+                  "text": "Dieser Freizeitpark in Stettin bietet aufregende Fahrgeschäfte und Aktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        14.540523,
+                        53.451538
+                  ]
+            },
+            {
+                  "name": "Holiday Park Szczecin",
+                  "text": "Dieser Park in Stettin bietet eine unterhaltsame Atmosphäre für Familienausflüge und Unterhaltung.",
+                  "category": "family",
+                  "coords": [
+                        14.570424,
+                        53.426615
+                  ]
+            },
+            {
+                  "name": "Kids Arena",
+                  "text": "Dieser familienfreundliche Freizeitpark in Stettin ist speziell für das Spielen und Vergnügen von Kindern konzipiert.",
+                  "category": "family",
+                  "coords": [
+                        14.553619,
+                        53.442654
+                  ]
+            },
+            {
+                  "name": "Aquapark \"Fabryka Wody\"",
+                  "text": "Dieser Wasserpark in Stettin bietet eine Vielzahl von Wasserattraktionen für einen unterhaltsamen Familientag.",
+                  "category": "family",
+                  "coords": [
+                        14.5676,
+                        53.444181
+                  ]
             }
       ],
       "hu": [
@@ -12493,6 +13663,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         14.513663,
                         53.418361
+                  ]
+            },
+            {
+                  "name": "Floating Arena",
+                  "text": "Ez a modern szczecini úszómedence ideális hely a családi kikapcsolódáshoz és úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.548902,
+                        53.43837
+                  ]
+            },
+            {
+                  "name": "Reefguard",
+                  "text": "Ez a szczecini akvárium lenyűgöző vízi élővilágot mutat be minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        14.542975,
+                        53.44297
+                  ]
+            },
+            {
+                  "name": "Powerland",
+                  "text": "Ez a szczecini vidámpark izgalmas játékokat és tevékenységeket kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        14.540523,
+                        53.451538
+                  ]
+            },
+            {
+                  "name": "Holiday Park Szczecin",
+                  "text": "Ez a szczecini park vidám hangulatot biztosít a családi kirándulásokhoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        14.570424,
+                        53.426615
+                  ]
+            },
+            {
+                  "name": "Kids Arena",
+                  "text": "Ezt a szczecini családbarát vidámparkot kifejezetten a gyermekek játékára és szórakozására tervezték.",
+                  "category": "family",
+                  "coords": [
+                        14.553619,
+                        53.442654
+                  ]
+            },
+            {
+                  "name": "Aquapark \"Fabryka Wody\"",
+                  "text": "Ez a szczecini vízipark változatos vízi attrakciókat kínál egy vidám családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        14.5676,
+                        53.444181
                   ]
             }
       ],
@@ -12937,6 +14161,60 @@ export const polandCitiesV2: POI[] = [
                         14.513663,
                         53.418361
                   ]
+            },
+            {
+                  "name": "Floating Arena",
+                  "text": "Această piscină modernă din Szczecin este un loc ideal pentru recreere în familie și înot.",
+                  "category": "family",
+                  "coords": [
+                        14.548902,
+                        53.43837
+                  ]
+            },
+            {
+                  "name": "Reefguard",
+                  "text": "Acest acvariu din Szczecin prezintă viața acvatică fascinantă pentru vizitatorii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        14.542975,
+                        53.44297
+                  ]
+            },
+            {
+                  "name": "Powerland",
+                  "text": "Acest parc tematic din Szczecin oferă atracții și activități interesante de care familiile se pot bucura.",
+                  "category": "family",
+                  "coords": [
+                        14.540523,
+                        53.451538
+                  ]
+            },
+            {
+                  "name": "Holiday Park Szczecin",
+                  "text": "Acest parc din Szczecin oferă o atmosferă plină de distracție pentru ieșirile în familie și divertisment.",
+                  "category": "family",
+                  "coords": [
+                        14.570424,
+                        53.426615
+                  ]
+            },
+            {
+                  "name": "Kids Arena",
+                  "text": "Acest parc tematic pentru familii din Szczecin este conceput special pentru joaca și plăcerea copiilor.",
+                  "category": "family",
+                  "coords": [
+                        14.553619,
+                        53.442654
+                  ]
+            },
+            {
+                  "name": "Aquapark \"Fabryka Wody\"",
+                  "text": "Acest parc acvatic din Szczecin oferă o varietate de atracții acvatice pentru o zi distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        14.5676,
+                        53.444181
+                  ]
             }
       ],
       "en": [
@@ -13380,6 +14658,60 @@ export const polandCitiesV2: POI[] = [
                         14.513663,
                         53.418361
                   ]
+            },
+            {
+                  "name": "Floating Arena",
+                  "text": "This modern swimming pool in Szczecin is an ideal place for family recreation and swimming.",
+                  "category": "family",
+                  "coords": [
+                        14.548902,
+                        53.43837
+                  ]
+            },
+            {
+                  "name": "Reefguard",
+                  "text": "This aquarium in Szczecin showcases fascinating aquatic life for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        14.542975,
+                        53.44297
+                  ]
+            },
+            {
+                  "name": "Powerland",
+                  "text": "This theme park in Szczecin offers exciting rides and activities for families to enjoy.",
+                  "category": "family",
+                  "coords": [
+                        14.540523,
+                        53.451538
+                  ]
+            },
+            {
+                  "name": "Holiday Park Szczecin",
+                  "text": "This park in Szczecin provides a fun-filled atmosphere for family outings and entertainment.",
+                  "category": "family",
+                  "coords": [
+                        14.570424,
+                        53.426615
+                  ]
+            },
+            {
+                  "name": "Kids Arena",
+                  "text": "This family-friendly theme park in Szczecin is designed specifically for children's play and enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        14.553619,
+                        53.442654
+                  ]
+            },
+            {
+                  "name": "Aquapark \"Fabryka Wody\"",
+                  "text": "This water park in Szczecin offers a variety of aquatic attractions for a fun family day.",
+                  "category": "family",
+                  "coords": [
+                        14.5676,
+                        53.444181
+                  ]
             }
       ]
 },
@@ -13491,6 +14823,78 @@ export const polandCitiesV2: POI[] = [
                         17.971933,
                         53.115923
                   ]
+            },
+            {
+                  "name": "Park 17 - park trampolin",
+                  "text": "Ein Freizeitpark in Bydgoszcz mit Trampolinen für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        18.018264,
+                        53.133984
+                  ]
+            },
+            {
+                  "name": "Perła",
+                  "text": "Ein Schwimmbad in Bydgoszcz für Schwimmtraining und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        18.034322,
+                        53.111137
+                  ]
+            },
+            {
+                  "name": "Bryza",
+                  "text": "Ein Schwimmbad in Bydgoszcz, das Erfrischung und Spaß für Familien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.000211,
+                        53.110723
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "Ein Freizeitpark in Bydgoszcz mit verschiedenen Fahrgeschäften für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        18.024551,
+                        53.153344
+                  ]
+            },
+            {
+                  "name": "Zaginiony Świat",
+                  "text": "Ein Freizeitpark in Bydgoszcz mit thematischen Attraktionen für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.027591,
+                        53.153447
+                  ]
+            },
+            {
+                  "name": "Pływalnia \"Czwórka\"",
+                  "text": "Ein Schwimmbad in Bydgoszcz für den täglichen Schwimmspaß.",
+                  "category": "family",
+                  "coords": [
+                        17.967226,
+                        53.120368
+                  ]
+            },
+            {
+                  "name": "Basen Neptun",
+                  "text": "Ein Schwimmbad in Bydgoszcz mit Einrichtungen für Sport und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        18.045779,
+                        53.121566
+                  ]
+            },
+            {
+                  "name": "Astoria",
+                  "text": "Ein Schwimmbad in Bydgoszcz für Schwimmer aller Leistungsstufen.",
+                  "category": "family",
+                  "coords": [
+                        17.99306,
+                        53.130898
+                  ]
             }
       ],
       "hu": [
@@ -13555,6 +14959,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.971933,
                         53.115923
+                  ]
+            },
+            {
+                  "name": "Park 17 - park trampolin",
+                  "text": "Egy vidámpark Bydgoszcz városában trambulinfelülettel az aktív családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.018264,
+                        53.133984
+                  ]
+            },
+            {
+                  "name": "Perła",
+                  "text": "Egy úszómedence Bydgoszcz városában úszóedzéshez és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        18.034322,
+                        53.111137
+                  ]
+            },
+            {
+                  "name": "Bryza",
+                  "text": "Egy úszómedence Bydgoszcz városában, amely felfrissülést és szórakozást nyújt a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.000211,
+                        53.110723
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "Egy vidámpark Bydgoszcz városában különböző játékokkal a gyerekek számára.",
+                  "category": "family",
+                  "coords": [
+                        18.024551,
+                        53.153344
+                  ]
+            },
+            {
+                  "name": "Zaginiony Świat",
+                  "text": "Egy vidámpark Bydgoszcz városában tematikus látnivalókkal az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        18.027591,
+                        53.153447
+                  ]
+            },
+            {
+                  "name": "Pływalnia \"Czwórka\"",
+                  "text": "Egy úszómedence Bydgoszcz városában a napi úszás öröméért.",
+                  "category": "family",
+                  "coords": [
+                        17.967226,
+                        53.120368
+                  ]
+            },
+            {
+                  "name": "Basen Neptun",
+                  "text": "Egy úszómedence Bydgoszcz városában sport- és szabadidős létesítményekkel.",
+                  "category": "family",
+                  "coords": [
+                        18.045779,
+                        53.121566
+                  ]
+            },
+            {
+                  "name": "Astoria",
+                  "text": "Egy úszómedence Bydgoszcz városában minden szinten lévő úszók számára.",
+                  "category": "family",
+                  "coords": [
+                        17.99306,
+                        53.130898
                   ]
             }
       ],
@@ -13621,6 +15097,78 @@ export const polandCitiesV2: POI[] = [
                         17.971933,
                         53.115923
                   ]
+            },
+            {
+                  "name": "Park 17 - park trampolin",
+                  "text": "Un parc tematic în Bydgoszcz cu trambuline pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.018264,
+                        53.133984
+                  ]
+            },
+            {
+                  "name": "Perła",
+                  "text": "O piscină în Bydgoszcz pentru antrenamente de înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        18.034322,
+                        53.111137
+                  ]
+            },
+            {
+                  "name": "Bryza",
+                  "text": "O piscină în Bydgoszcz care oferă răcorire și distracție pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.000211,
+                        53.110723
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "Un parc tematic în Bydgoszcz cu diverse carusele pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        18.024551,
+                        53.153344
+                  ]
+            },
+            {
+                  "name": "Zaginiony Świat",
+                  "text": "Un parc tematic în Bydgoszcz cu atracții tematice pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.027591,
+                        53.153447
+                  ]
+            },
+            {
+                  "name": "Pływalnia \"Czwórka\"",
+                  "text": "O piscină în Bydgoszcz pentru plăcerea zilnică a înotului.",
+                  "category": "family",
+                  "coords": [
+                        17.967226,
+                        53.120368
+                  ]
+            },
+            {
+                  "name": "Basen Neptun",
+                  "text": "O piscină în Bydgoszcz cu facilități pentru sport și timp liber.",
+                  "category": "family",
+                  "coords": [
+                        18.045779,
+                        53.121566
+                  ]
+            },
+            {
+                  "name": "Astoria",
+                  "text": "O piscină în Bydgoszcz pentru înotători de toate nivelurile.",
+                  "category": "family",
+                  "coords": [
+                        17.99306,
+                        53.130898
+                  ]
             }
       ],
       "en": [
@@ -13685,6 +15233,78 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.971933,
                         53.115923
+                  ]
+            },
+            {
+                  "name": "Park 17 - park trampolin",
+                  "text": "A theme park in Bydgoszcz with trampolines for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        18.018264,
+                        53.133984
+                  ]
+            },
+            {
+                  "name": "Perła",
+                  "text": "A swimming pool in Bydgoszcz for swim training and recreation.",
+                  "category": "family",
+                  "coords": [
+                        18.034322,
+                        53.111137
+                  ]
+            },
+            {
+                  "name": "Bryza",
+                  "text": "A swimming pool in Bydgoszcz offering refreshment and fun for families.",
+                  "category": "family",
+                  "coords": [
+                        18.000211,
+                        53.110723
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "A theme park in Bydgoszcz with various rides for children.",
+                  "category": "family",
+                  "coords": [
+                        18.024551,
+                        53.153344
+                  ]
+            },
+            {
+                  "name": "Zaginiony Świat",
+                  "text": "A theme park in Bydgoszcz with themed attractions for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.027591,
+                        53.153447
+                  ]
+            },
+            {
+                  "name": "Pływalnia \"Czwórka\"",
+                  "text": "A swimming pool in Bydgoszcz for daily swimming enjoyment.",
+                  "category": "family",
+                  "coords": [
+                        17.967226,
+                        53.120368
+                  ]
+            },
+            {
+                  "name": "Basen Neptun",
+                  "text": "A swimming pool in Bydgoszcz with facilities for sport and leisure.",
+                  "category": "family",
+                  "coords": [
+                        18.045779,
+                        53.121566
+                  ]
+            },
+            {
+                  "name": "Astoria",
+                  "text": "A swimming pool in Bydgoszcz for swimmers of all levels.",
+                  "category": "family",
+                  "coords": [
+                        17.99306,
+                        53.130898
                   ]
             }
       ]
@@ -14220,6 +15840,24 @@ export const polandCitiesV2: POI[] = [
                         22.574093,
                         51.258262
                   ]
+            },
+            {
+                  "name": "Strefa H2O",
+                  "text": "Genießen Sie ein erfrischendes Bad im Strefa H2O in Lublin.",
+                  "category": "family",
+                  "coords": [
+                        22.56759,
+                        51.237436
+                  ]
+            },
+            {
+                  "name": "Centrum Sportowo-Rekreacyjne Łabędzia",
+                  "text": "Genießen Sie ein erfrischendes Bad im Centrum Sportowo-Rekreacyjne Łabędzia in Lublin.",
+                  "category": "family",
+                  "coords": [
+                        22.595427,
+                        51.23175
+                  ]
             }
       ],
       "hu": [
@@ -14707,6 +16345,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.574093,
                         51.258262
+                  ]
+            },
+            {
+                  "name": "Strefa H2O",
+                  "text": "Élvezze a frissítő úszást a Strefa H2O helyszínén Lublin városában.",
+                  "category": "family",
+                  "coords": [
+                        22.56759,
+                        51.237436
+                  ]
+            },
+            {
+                  "name": "Centrum Sportowo-Rekreacyjne Łabędzia",
+                  "text": "Élvezze a frissítő úszást a Centrum Sportowo-Rekreacyjne Łabędzia helyszínén Lublin városában.",
+                  "category": "family",
+                  "coords": [
+                        22.595427,
+                        51.23175
                   ]
             }
       ],
@@ -15196,6 +16852,24 @@ export const polandCitiesV2: POI[] = [
                         22.574093,
                         51.258262
                   ]
+            },
+            {
+                  "name": "Strefa H2O",
+                  "text": "Bucurați-vă de o baie răcoritoare la Strefa H2O în Lublin.",
+                  "category": "family",
+                  "coords": [
+                        22.56759,
+                        51.237436
+                  ]
+            },
+            {
+                  "name": "Centrum Sportowo-Rekreacyjne Łabędzia",
+                  "text": "Bucurați-vă de o baie răcoritoare la Centrum Sportowo-Rekreacyjne Łabędzia în Lublin.",
+                  "category": "family",
+                  "coords": [
+                        22.595427,
+                        51.23175
+                  ]
             }
       ],
       "en": [
@@ -15683,6 +17357,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.574093,
                         51.258262
+                  ]
+            },
+            {
+                  "name": "Strefa H2O",
+                  "text": "Enjoy a refreshing swim at Strefa H2O in Lublin.",
+                  "category": "family",
+                  "coords": [
+                        22.56759,
+                        51.237436
+                  ]
+            },
+            {
+                  "name": "Centrum Sportowo-Rekreacyjne Łabędzia",
+                  "text": "Enjoy a refreshing swim at Centrum Sportowo-Rekreacyjne Łabędzia in Lublin.",
+                  "category": "family",
+                  "coords": [
+                        22.595427,
+                        51.23175
                   ]
             }
       ]
@@ -17873,7 +19565,196 @@ export const polandCitiesV2: POI[] = [
       fr: ["Plus grande ville de la voïvodie de Podlachie", "Proche de la frontière avec la Biélorussie et la Lituanie", "Entourée de parcs nationaux, connue comme le 'poumon vert de la Pologne'", "Le palais Branicki est surnommé le 'Versailles polonais'", "Lieu de naissance de Ludwik Zamenhof, l'inventeur de l'espéranto", "Historiquement une ville multiculturelle et multireligieuse", "La cathédrale orthodoxe Saint-Nicolas est un monument majeur", "Siège de l'Université de médecine de Białystok", "La ville compte une importante minorité tatare à proximité", "Lieu du festival de musique électronique Up To Date", "L'Opéra et la Philharmonie de Podlachie est un centre culturel moderne", "Le parc national de Białowieża, qui abrite des bisons, est à proximité"],
     }, image: "/poi-images/poland-bialystok-cities-v2.webp"},
   {
-    id: "poland-katowice-cities-v2",
+    id: "poland-katowice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "Dieses Papageienhaus in Kattowitz bietet Familien die Möglichkeit, farbenfrohe Vögel aus der Nähe zu erleben.",
+                  "category": "family",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Katowice Basen Bugla",
+                  "text": "Ein öffentliches Freibad in Kattowitz mit Wasserbecken und Liegewiesen für die Sommererholung.",
+                  "category": "family",
+                  "coords": [
+                        18.993718,
+                        50.253159
+                  ]
+            },
+            {
+                  "name": "Schlesischer Tierpark",
+                  "text": "Der Schlesische Zoologische Garten in Kattowitz beherbergt eine große Vielfalt an Tieren in weitläufigen Gehegen.",
+                  "category": "family",
+                  "coords": [
+                        18.994016,
+                        50.282158
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "Ein Wasserpark in Kattowitz, der verschiedene Schwimmbecken und Rutschen für Familienspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
+            },
+            {
+                  "name": "Legendia Schlesischer Vergnügungspark",
+                  "text": "Ein großer Freizeitpark in Kattowitz mit zahlreichen Fahrgeschäften und Attraktionen für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "Ez a katowicei papagájház lehetőséget nyújt a családoknak a színes madarak közeli megtekintésére.",
+                  "category": "family",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Katowice Basen Bugla",
+                  "text": "Katowicei nyilvános szabadtéri úszómedence vizesblokkokkal és pihenőhelyekkel a nyári kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.993718,
+                        50.253159
+                  ]
+            },
+            {
+                  "name": "Śląski Ogród Zoologiczny",
+                  "text": "A katowicei Sziléziai Állatkert állatok széles választékának ad otthont tágas kifutókban.",
+                  "category": "family",
+                  "coords": [
+                        18.994016,
+                        50.282158
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "Katowicei vízi park, amely különféle medencéket és csúszdákat kínál a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
+            },
+            {
+                  "name": "Legendia Śląskie Wesołe Miasteczko",
+                  "text": "Nagy vidámpark Katowicében, számos játékkal és látnivalóval minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "Această casă de papagali din Katowice oferă familiilor șansa de a vedea păsări colorate de aproape.",
+                  "category": "family",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Katowice Basen Bugla",
+                  "text": "O piscină publică în aer liber din Katowice, cu bazine și zone de relaxare pentru recreerea de vară.",
+                  "category": "family",
+                  "coords": [
+                        18.993718,
+                        50.253159
+                  ]
+            },
+            {
+                  "name": "Śląski Ogród Zoologiczny",
+                  "text": "Grădina Zoologică Sileziană din Katowice găzduiește o mare varietate de animale în incinte spațioase.",
+                  "category": "family",
+                  "coords": [
+                        18.994016,
+                        50.282158
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "Un parc acvatic din Katowice care oferă diverse piscine și tobogane pentru distracția în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
+            },
+            {
+                  "name": "Legendia Śląskie Wesołe Miasteczko",
+                  "text": "Un parc tematic mare din Katowice, cu numeroase atracții și divertisment pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "This parrot house in Katowice offers families a chance to see and interact with colorful birds up close.",
+                  "category": "family",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Katowice Basen Bugla",
+                  "text": "A public outdoor swimming pool in Katowice featuring pools and lawn areas for summer recreation.",
+                  "category": "family",
+                  "coords": [
+                        18.993718,
+                        50.253159
+                  ]
+            },
+            {
+                  "name": "Śląski Ogród Zoologiczny",
+                  "text": "The Silesian Zoological Garden in Katowice houses a wide variety of animals in spacious enclosures.",
+                  "category": "family",
+                  "coords": [
+                        18.994016,
+                        50.282158
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "A water park in Katowice offering various swimming pools and slides for family fun.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
+            },
+            {
+                  "name": "Legendia Śląskie Wesołe Miasteczko",
+                  "text": "A large theme park in Katowice featuring numerous rides and attractions for all age groups.",
+                  "category": "family",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Kattowitz", hu: "Katowice", ro: "Katowice", en: "Katowice"},
@@ -18360,6 +20241,42 @@ export const polandCitiesV2: POI[] = [
                         18.502745,
                         54.526786
                   ]
+            },
+            {
+                  "name": "Pływalnia Kryta Uniwersytetu Morskiego w Gdyni",
+                  "text": "Genießen Sie ein erfrischendes Bad im Pływalnia Kryta Uniwersytetu Morskiego w Gdyni in Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.555352,
+                        54.518353
+                  ]
+            },
+            {
+                  "name": "Basen kryty Marynarki Wojennej",
+                  "text": "Genießen Sie ein erfrischendes Bad im Basen kryty Marynarki Wojennej in Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.542036,
+                        54.541339
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Genießen Sie ein erfrischendes Bad im Basen in Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.509642,
+                        54.49411
+                  ]
+            },
+            {
+                  "name": "Pływalnia Akademii Marynarki Wojennej",
+                  "text": "Genießen Sie ein erfrischendes Bad im Pływalnia Akademii Marynarki Wojennej in Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.542657,
+                        54.544431
+                  ]
             }
       ],
       "hu": [
@@ -18802,6 +20719,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.502745,
                         54.526786
+                  ]
+            },
+            {
+                  "name": "Pływalnia Kryta Uniwersytetu Morskiego w Gdyni",
+                  "text": "Élvezze a frissítő úszást a Pływalnia Kryta Uniwersytetu Morskiego w Gdyni helyszínén Gdynia városában.",
+                  "category": "family",
+                  "coords": [
+                        18.555352,
+                        54.518353
+                  ]
+            },
+            {
+                  "name": "Basen kryty Marynarki Wojennej",
+                  "text": "Élvezze a frissítő úszást a Basen kryty Marynarki Wojennej helyszínén Gdynia városában.",
+                  "category": "family",
+                  "coords": [
+                        18.542036,
+                        54.541339
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Élvezze a frissítő úszást a Basen helyszínén Gdynia városában.",
+                  "category": "family",
+                  "coords": [
+                        18.509642,
+                        54.49411
+                  ]
+            },
+            {
+                  "name": "Pływalnia Akademii Marynarki Wojennej",
+                  "text": "Élvezze a frissítő úszást a Pływalnia Akademii Marynarki Wojennej helyszínén Gdynia városában.",
+                  "category": "family",
+                  "coords": [
+                        18.542657,
+                        54.544431
                   ]
             }
       ],
@@ -19246,6 +21199,42 @@ export const polandCitiesV2: POI[] = [
                         18.502745,
                         54.526786
                   ]
+            },
+            {
+                  "name": "Pływalnia Kryta Uniwersytetu Morskiego w Gdyni",
+                  "text": "Bucurați-vă de o baie răcoritoare la Pływalnia Kryta Uniwersytetu Morskiego w Gdyni în Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.555352,
+                        54.518353
+                  ]
+            },
+            {
+                  "name": "Basen kryty Marynarki Wojennej",
+                  "text": "Bucurați-vă de o baie răcoritoare la Basen kryty Marynarki Wojennej în Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.542036,
+                        54.541339
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Bucurați-vă de o baie răcoritoare la Basen în Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.509642,
+                        54.49411
+                  ]
+            },
+            {
+                  "name": "Pływalnia Akademii Marynarki Wojennej",
+                  "text": "Bucurați-vă de o baie răcoritoare la Pływalnia Akademii Marynarki Wojennej în Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.542657,
+                        54.544431
+                  ]
             }
       ],
       "en": [
@@ -19689,6 +21678,42 @@ export const polandCitiesV2: POI[] = [
                         18.502745,
                         54.526786
                   ]
+            },
+            {
+                  "name": "Pływalnia Kryta Uniwersytetu Morskiego w Gdyni",
+                  "text": "Enjoy a refreshing swim at Pływalnia Kryta Uniwersytetu Morskiego w Gdyni in Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.555352,
+                        54.518353
+                  ]
+            },
+            {
+                  "name": "Basen kryty Marynarki Wojennej",
+                  "text": "Enjoy a refreshing swim at Basen kryty Marynarki Wojennej in Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.542036,
+                        54.541339
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Enjoy a refreshing swim at Basen in Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.509642,
+                        54.49411
+                  ]
+            },
+            {
+                  "name": "Pływalnia Akademii Marynarki Wojennej",
+                  "text": "Enjoy a refreshing swim at Pływalnia Akademii Marynarki Wojennej in Gdynia.",
+                  "category": "family",
+                  "coords": [
+                        18.542657,
+                        54.544431
+                  ]
             }
       ]
 },
@@ -19755,6 +21780,24 @@ export const polandCitiesV2: POI[] = [
                         19.124549,
                         50.823935
                   ]
+            },
+            {
+                  "name": "Kąpielisko",
+                  "text": "Dieser Badebereich in Tschenstochau ist ein großartiger Ort für Familien, um sich im Freien zu entspannen und zu schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        19.07198,
+                        50.810725
+                  ]
+            },
+            {
+                  "name": "Park Wodny Częstochowa",
+                  "text": "Diese Attraktion in Tschenstochau bietet unterhaltsame Wasseraktivitäten für Besucher jeden Alters.",
+                  "category": "family",
+                  "coords": [
+                        19.12005,
+                        50.826388
+                  ]
             }
       ],
       "hu": [
@@ -19774,6 +21817,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.124549,
                         50.823935
+                  ]
+            },
+            {
+                  "name": "Kąpielisko",
+                  "text": "Ez a częstochowai fürdőhely remek hely a családok számára a szabadtéri pihenéshez és úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.07198,
+                        50.810725
+                  ]
+            },
+            {
+                  "name": "Park Wodny Częstochowa",
+                  "text": "Ez a częstochowai látványosság szórakoztató vízi tevékenységeket kínál minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        19.12005,
+                        50.826388
                   ]
             }
       ],
@@ -19795,6 +21856,24 @@ export const polandCitiesV2: POI[] = [
                         19.124549,
                         50.823935
                   ]
+            },
+            {
+                  "name": "Kąpielisko",
+                  "text": "Această zonă de înot din Częstochowa este un loc minunat pentru familii să se relaxeze și să înoate în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        19.07198,
+                        50.810725
+                  ]
+            },
+            {
+                  "name": "Park Wodny Częstochowa",
+                  "text": "Această atracție din Częstochowa oferă activități acvatice distractive pentru vizitatorii de toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        19.12005,
+                        50.826388
+                  ]
             }
       ],
       "en": [
@@ -19814,6 +21893,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.124549,
                         50.823935
+                  ]
+            },
+            {
+                  "name": "Kąpielisko",
+                  "text": "This swimming area in Częstochowa is a great place for families to relax and swim outdoors.",
+                  "category": "family",
+                  "coords": [
+                        19.07198,
+                        50.810725
+                  ]
+            },
+            {
+                  "name": "Park Wodny Częstochowa",
+                  "text": "This attraction in Częstochowa offers fun water-based activities for visitors of all ages.",
+                  "category": "family",
+                  "coords": [
+                        19.12005,
+                        50.826388
                   ]
             }
       ]
@@ -19862,7 +21959,1816 @@ export const polandCitiesV2: POI[] = [
       fr: ["Capitale spirituelle de la Pologne avec le monastère de Jasna Góra", "La Vierge Noire est l'icône la plus vénérée du pays", "Située dans le Jura de Cracovie-Częstochowa", "Visitée chaque année par plus de 4 millions de pèlerins", "L'avenue de la Sainte-Vierge-Marie relie la vieille ville au monastère", "Possède une longue tradition dans l'industrie métallurgique et textile"],
     }, image: "/poi-images/poland-czestochowa-cities-v2.webp"},
   {
-    id: "poland-radom-cities-v2", "sights": {"de": [{"name": "Kąpielisko Borki", "text": "Badeplatz Borki in Radom.", "category": "recreational", "coords": [21.117845, 51.392829]}, {"name": "Muzeum im. Jacka Malczewskiego", "text": "Museum für Kunst und Geschichte in Radom.", "category": "museum", "coords": [21.142147, 51.402617]}, {"name": "Zamek królewski", "text": "Historisches Schloss in Radom.", "category": "castle", "coords": [21.144058, 51.401769]}, {"name": "Pałac Karschów", "text": "Historisches Palais in Radom.", "category": "castle", "coords": [21.152417, 51.400898]}, {"name": "Pałacyk Towarzystwa Kredytowego Ziemskiego", "text": "Das prachtvolle Gebäude Pałacyk Towarzystwa Kredytowego Ziemskiego ist ein historisches Schloss im polnischen Radom. Die eindrucksvolle Architektur zieht sofort die Blicke von Kulturinteressierten auf sich. Besucher erwartet ein charmantes Zeugnis der vergangenen Stadtgeschichte.", "category": "castle", "coords": [21.15434, 51.401635]}, {"name": "Pałacyk Balińskich-Hemplów", "text": "Wer Radom besucht, sollte das historische Schloss Pałacyk Balińskich-Hemplów nicht übersehen. Dieses Bauwerk aus Polen repräsentiert die noble Vergangenheit der Stadt. Die Fassade und das Anwesen lassen Gäste in die faszinierende Historie von Radom eintauchen.", "category": "castle", "coords": [21.156046, 51.400548]}, {"name": "Willa Kulczyckiego", "text": "Historische Villa in Radom.", "category": "castle", "coords": [21.153486, 51.399066]}, {"name": "Gmach Komisji Województwa Sandomierskiego", "text": "Das historische Gmach Komisji Województwa Sandomierskiego ist ein markantes Bauwerk in Radom. Besucher dieser polnischen Stadt können die imposante Architektur dieses ehemaligen Verwaltungsgebäudes bewundern. Es dient als bedeutendes lokales Wahrzeichen und spiegelt das regionale Erbe wider.", "category": "castle", "coords": [21.157991, 51.401209]}, {"name": "Pomnik Pomordowanych Pracowników Fabryki Broni w Radomiu", "text": "Denkmal in Radom.", "category": "historical", "coords": [21.147935, 51.389347]}, {"name": "Mauzoleum Dionizego Czachowskiego", "text": "Mausoleum in Radom.", "category": "historical", "coords": [21.149914, 51.405384]}, {"name": "Pomnik 72 Pułku Piechoty w Radomiu", "text": "Denkmal in Radom.", "category": "historical", "coords": [21.151668, 51.405943]}, {"name": "Ośrodek Kultury i Sztuki \"Resursa Obywatelska\"", "text": "Kulturzentrum in Radom.", "category": "cultural", "coords": [21.150403, 51.404262]}, {"name": "Mazowieckie Centrum Sztuki Współczesnej 'Elektrownia'", "text": "Zentrum für zeitgenössische Kunst in Radom.", "category": "cultural", "coords": [21.149747, 51.398051]}, {"name": "Bazylika Świętego Kazimierza Królewicza", "text": "Basilika in Radom.", "category": "religious", "coords": [21.124574, 51.404271]}, {"name": "Kościół pw. Trójcy Przenajświętszej", "text": "Kościół pw. Trójcy Przenajświętszej ist ein sakrales Bauwerk in der Stadt Radom. Diese polnische Kirche bietet einen ruhigen Ort für Kontemplation und spirituelle Reflexion. Gäste können den friedlichen Innenraum erkunden und ihre Rolle in der lokalen Gemeinde würdigen.", "category": "religious", "coords": [21.14725, 51.402963]}, {"name": "Kościół pw. Świętej Rodziny", "text": "Das in Polen gelegene Kościół pw. Świętej Rodziny dient als aktives Gotteshaus innerhalb von Radom. Die Kirche heißt sowohl Gemeindemitglieder als auch Reisende willkommen, die einen Moment der Ruhe suchen. Ihre Struktur bleibt ein wichtiger Teil der religiösen Landschaft der Stadt.", "category": "religious", "coords": [21.160801, 51.403357]}, {"name": "Kościół pw. Najświętszego Serca Jezusa", "text": "Die dem Heiligsten Herzen gewidmete Kościół pw. Najświętszego Serca Jezusa ist eine bemerkenswerte Kirche in Radom. Besucher werden beim Betreten von einer Atmosphäre der Ehrfurcht und Hingabe empfangen. Sie steht als Zeugnis für den beständigen Glauben der lokalen polnischen Gemeinde.", "category": "religious", "coords": [21.17551, 51.387445]}, {"name": "Kościół pw. Chrystusa Nauczyciela", "text": "Das in der lebhaften Stadt Radom gelegene Kościół pw. Chrystusa Nauczyciela fungiert als Zentrum des religiösen Lebens. Dieses Heiligtum lädt Durchreisende in Polen ein, seine friedliche Umgebung zu erleben. Besucher können das unverwechselbare kirchliche Design der Region beobachten.", "category": "religious", "coords": [21.144655, 51.394601]}, {"name": "Kościół pw. Królowej Apostołów", "text": "Die Kościół pw. Królowej Apostołów ist eine einladende religiöse Stätte in Radom, Polen. Die Erkundung dieser Kirche ermöglicht es Besuchern, sich von den belebten Straßen der Stadt zurückzuziehen. Sie bietet einen bedeutungsvollen Rahmen für Gebet und Gemeindezusammenkünfte.", "category": "religious", "coords": [21.15062, 51.379633]}, {"name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej", "text": "Diese historische Kirche ist ein integraler Bestandteil von Radom. Die Kościół pw. Świętej Katarzyny Aleksandryjskiej steht stolz als religiöses Denkmal in Polen. Jeder, der sich für heilige Räume interessiert, wird ihre Präsenz als inspirierend und beruhigend empfinden.", "category": "religious", "coords": [21.147595, 51.401521]}, {"name": "Kościół pw. Matki Bożej Częstochowskiej", "text": "Die Kościół pw. Matki Bożej Częstochowskiej repräsentiert ein starkes spirituelles Erbe und ist ein Gotteshaus in Radom. Die polnische Gemeinde versammelt sich hier, um ihre religiösen Traditionen zu pflegen. Sie bietet einen ruhigen Zufluchtsort für jeden, der das umliegende städtische Gebiet besucht.", "category": "religious", "coords": [21.132517, 51.410945]}, {"name": "Kościół pw. Świętej Teresy od Dzieciątka Jezus", "text": "Die Kościół pw. Świętej Teresy od Dzieciątka Jezus verleiht Radom einen ruhigen Charme und fungiert als engagierte Kirche. Reisende durch diesen Teil Polens halten hier oft inne, um die ruhige Atmosphäre zu genießen. Das Heiligtum dient seiner Gemeinde mit regelmäßigen Gottesdiensten und einem Raum für privates Gebet.", "category": "religious", "coords": [21.12878, 51.388868]}, {"name": "Katedra Opieki Najświętszej Maryi Panny", "text": "Katedrale in Radom.", "category": "religious", "coords": [21.156333, 51.397049]}, {"name": "Kościół Ewangelicko-Augsburski", "text": "Die Kościół Ewangelicko-Augsburski unterstreicht die religiöse Vielfalt innerhalb von Radom. Diese evangelische Kirche bietet ein besonderes spirituelles Umfeld im Herzen Polens. Besucher können die Traditionen der lokalen protestantischen Gemeinde erkunden und die ruhige Umgebung auf sich wirken lassen.", "category": "religious", "coords": [21.145372, 51.403214]}, {"name": "Dom Jacka Malczewskiego", "text": "Als bedeutendes historisches Wahrzeichen anerkannt, befindet sich das Dom Jacka Malczewskiego in Radom. Diese polnische Stätte bietet einen Einblick in die regionale Kultur und das Erbe. Touristen machen oft Halt, um das Äußere dieses gut erhaltenen Gebäudes zu betrachten.", "category": "landmark", "coords": [21.14869, 51.403282]}, {"name": "Dom Esterki", "text": "Das Dom Esterki ist ein faszinierendes historisches Wahrzeichen in den Straßen von Radom. Bei der Durchreise durch diese polnische Stadt können Touristen leicht die traditionelle Architektur des Gebäudes erkennen. Es bleibt ein stolzes Symbol der lokalen Geschichte und historischer Ereignisse.", "category": "landmark", "coords": [21.142046, 51.403566]}, {"name": "Wieża ciśnień na Glinicach 1927", "text": "Industriedenkmal in Radom.", "category": "landmark", "coords": [21.173591, 51.387632]}, {"name": "Nowy Ratusz", "text": "Repräsentatives Rathaus in Radom.", "category": "landmark", "coords": [21.143124, 51.403358]}, {"name": "Kościół pw. Świętego Wacława", "text": "Historische Kirche in Radom.", "category": "landmark", "coords": [21.135843, 51.400895]}, {"name": "Park im. Tadeusza Kościuszki", "text": "Grüne Erholungsfläche im Zentrum von Radom.", "category": "park", "coords": [21.158722, 51.398823]}, {"name": "Kościół pw. Świętego Rafała Kalinowskiego", "text": "Eingebettet in die Stadt Radom ist die Kościół pw. Świętego Rafała Kalinowskiego eine angesehene religiöse Einrichtung. Dieses Gotteshaus trägt zum spirituellen Leben Polens bei. Es heißt Menschen aus allen Gesellschaftsschichten zu stillem Nachdenken und Hingabe willkommen.", "category": "religious", "coords": [21.161006, 51.383156]}, {"name": "Kościół pw. Matki Bożej Miłosierdzia", "text": "Die in Radom gelegene Kościół pw. Matki Bożej Miłosierdzia fungiert als Pfeiler für die lokalen Gläubigen. Besucher können die harmonische Umgebung im Inneren dieser polnischen Kirche entdecken. Es ist ein ausgezeichneter Halt für jeden, der eine Erfahrung des religiösen Erbes sucht.", "category": "religious", "coords": [21.161, 51.407376]}, {"name": "Kościół pw. Matki Bożej Królowej Świata", "text": "Die Kościół pw. Matki Bożej Królowej Świata bereichert das religiöse Gefüge von Radom. Diese Kirche steht als Anker des Glaubens in diesem Teil Polens. Die Erkundung ihres Geländes bietet eine friedliche Pause während einer Stadtbesichtigung.", "category": "religious", "coords": [21.17299, 51.40455]}, {"name": "Kościół pw. Świętej Urszuli Ledóchowskiej", "text": "Die einladenden Türen der Kościół pw. Świętej Urszuli Ledóchowskiej stehen in der Stadt Radom offen. Diese polnische religiöse Stätte bewahrt die heiligen Traditionen ihrer Schutzpatrone. Sie dient als ruhiges Heiligtum für Gläubige und neugierige Gäste gleichermaßen.", "category": "religious", "coords": [21.181011, 51.392167]}, {"name": "Kościół pw. Chrystusa Króla", "text": "Die Kościół pw. Chrystusa Króla ist ein bemerkenswertes Gotteshaus in Radom, Polen. Menschen versammeln sich in dieser Kirche, um ihren Glauben in einer ruhigen Umgebung zu feiern. Ihre Präsenz verleiht dem örtlichen Viertel einen besonderen spirituellen Charakter.", "category": "religious", "coords": [21.180532, 51.414788]}, {"name": "Kościół pw. Świętego Piotra Apostoła", "text": "Im Herzen von Radom repräsentiert die Kościół pw. Świętego Piotra Apostoła die lokale Religionsgemeinschaft. Besucher auf einer Tour durch Polen können in dieser engagierten Kirche spirituellen Trost finden. Das Gebäude ist ein gut gepflegtes Zeugnis christlicher Hingabe.", "category": "religious", "coords": [21.173638, 51.418478]}, {"name": "Kościół pw. Świętej Jadwigi Królowej", "text": "Diese der verehrten Königin Jadwiga gewidmete Kirche bietet einen spirituellen Zufluchtsort in Radom. Die Kościół pw. Świętej Jadwigi Królowej ist ein einladender Halt für religiöse Beobachtungen in Polen. Ihre Architektur und die ruhige Atmosphäre geben Besuchern Raum zum Nachdenken.", "category": "religious", "coords": [21.165487, 51.421767]}, {"name": "Kościół pw. Świętego Krzyża", "text": "Die auf das Heilige Kreuz ausgerichtete Kościół pw. Świętego Krzyża ist ein markantes religiöses Gebäude in Radom. Gläubige und Besucher in Polen schätzen häufig das ruhige Ambiente dieser Kirche. Sie ist ein wichtiger Versammlungsort für regelmäßige Gottesdienste und Gebete.", "category": "religious", "coords": [21.109779, 51.390494]}, {"name": "Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny", "text": "Die Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny spiegelt tiefe Ehrfurcht wider und dient den Gläubigen in Radom. Diese polnische Kirche bietet einen heiligen Rückzugsort vom geschäftigen Stadtleben. Sie zeichnet sich durch ihre ruhigen Räume aus, die inneren Frieden inspirieren.", "category": "religious", "coords": [21.104125, 51.404636]}, {"name": "Kościół pw. Zesłania Ducha Świętego", "text": "Diese der Herabkunft des Heiligen Geistes gewidmete Kirche ist von großer Bedeutung in Radom. Die Kościół pw. Zesłania Ducha Świętego unterstützt die lokale polnische Bevölkerung mit kontinuierlicher spiritueller Führung. Gäste können ihre täglichen religiösen Praktiken respektvoll beobachten.", "category": "religious", "coords": [21.124543, 51.41638]}, {"name": "Kościół pw. Matki Bożej Bolesnej", "text": "Die Kościół pw. Matki Bożej Bolesnej steht als kontemplative religiöse Stätte in Radom, Polen. Bekannt für ihre feierliche Atmosphäre, lädt die Kirche zu tiefer Reflexion ein. Vorbeikommende Touristen können ihre unaufdringliche spirituelle Präsenz leicht schätzen.", "category": "religious", "coords": [21.151107, 51.414758]}, {"name": "Karszówka", "text": "Historisches Anwesen in Radom.", "category": "castle", "coords": [21.135932, 51.397349]}, {"name": "Centrum Wsi Mleczków", "text": "Ein ruhiger See in Radom, der sich für entspannte Spaziergänge in der Natur eignet.", "category": "natural", "coords": [21.056232, 51.428418]}, {"name": "Polder Zalewowy na Potoku Północnym", "text": "Ein lokales Gewässer in Radom, das eine schöne Kulisse für Spaziergänger bietet.", "category": "natural", "coords": [21.182413, 51.405776]}, {"name": "Kraina Marzeń", "text": "Ein Spielbereich für Kinder in Radom, der zum Entdecken und Spielen einlädt.", "category": "family", "coords": [21.135352, 51.395897]}, {"name": "Trampoliny", "text": "Ein Bereich mit Trampolinen in Radom, der aktiven Spaß für Kinder bietet.", "category": "family", "coords": [21.114273, 51.393804]}], "hu": [{"name": "Kąpielisko Borki", "text": "Borki fürdőhely Radomban.", "category": "recreational", "coords": [21.117845, 51.392829]}, {"name": "Muzeum im. Jacka Malczewskiego", "text": "Művészeti és történeti múzeum Radomban.", "category": "museum", "coords": [21.142147, 51.402617]}, {"name": "Zamek królewski", "text": "Történelmi kastély Radomban.", "category": "castle", "coords": [21.144058, 51.401769]}, {"name": "Pałac Karschów", "text": "Történelmi palota Radomban.", "category": "castle", "coords": [21.152417, 51.400898]}, {"name": "Pałacyk Towarzystwa Kredytowego Ziemskiego", "text": "A pompás Pałacyk Towarzystwa Kredytowego Ziemskiego épület egy történelmi kastély a lengyelországi Radomban. A lenyűgöző építészet azonnal vonzza a kultúra iránt érdeklődők tekintetét. A látogatókat a város múltbeli történelmének bájos tanúja várja.", "category": "castle", "coords": [21.15434, 51.401635]}, {"name": "Pałacyk Balińskich-Hemplów", "text": "Aki Radomba látogat, ne hagyja figyelmen kívül a történelmi Pałacyk Balińskich-Hemplów kastélyt. Ez a lengyelországi épület a város nemes múltját képviseli. A homlokzat és a birtok révén a vendégek elmerülhetnek Radom lenyűgöző történelmében.", "category": "castle", "coords": [21.156046, 51.400548]}, {"name": "Willa Kulczyckiego", "text": "Történelmi villa Radomban.", "category": "castle", "coords": [21.153486, 51.399066]}, {"name": "Gmach Komisji Województwa Sandomierskiego", "text": "A történelmi Gmach Komisji Województwa Sandomierskiego egy lenyűgöző építészeti látványosság Radom városában. A lengyel városba látogatók megcsodálhatják ennek az egykori közigazgatási épületnek a nagyszerű külsejét. Jelentős helyi nevezetességként szolgál, amely a régió örökségét tükrözi.", "category": "castle", "coords": [21.157991, 51.401209]}, {"name": "Pomnik Pomordowanych Pracowników Fabryki Broni w Radomiu", "text": "Emlékmű Radomban.", "category": "historical", "coords": [21.147935, 51.389347]}, {"name": "Mauzoleum Dionizego Czachowskiego", "text": "Mauzóleum Radomban.", "category": "historical", "coords": [21.149914, 51.405384]}, {"name": "Pomnik 72 Pułku Piechoty w Radomiu", "text": "Emlékmű Radomban.", "category": "historical", "coords": [21.151668, 51.405943]}, {"name": "Ośrodek Kultury i Sztuki \"Resursa Obywatelska\"", "text": "Kulturális központ Radomban.", "category": "cultural", "coords": [21.150403, 51.404262]}, {"name": "Mazowieckie Centrum Sztuki Współczesnej 'Elektrownia'", "text": "Kortárs művészeti központ Radomban.", "category": "cultural", "coords": [21.149747, 51.398051]}, {"name": "Bazylika Świętego Kazimierza Królewicza", "text": "Bazilika Radomban.", "category": "religious", "coords": [21.124574, 51.404271]}, {"name": "Kościół pw. Trójcy Przenajświętszej", "text": "A Kościół pw. Trójcy Przenajświętszej egy vallási szentély Radom városában. Ez a lengyel templom csendes teret kínál az elmélkedésre és a spirituális elmélyülésre. A vendégek felfedezhetik békés belső terét és megismerhetik a helyi közösségben betöltött szerepét.", "category": "religious", "coords": [21.14725, 51.402963]}, {"name": "Kościół pw. Świętej Rodziny", "text": "A Lengyelországban található Kościół pw. Świętej Rodziny aktív istentiszteleti helyként szolgál Radomon belül. A templom egyaránt várja a plébánia tagjait és az utazókat, akik egy pillanatnyi békére vágynak. Az épület a város vallási tájképének fontos része marad.", "category": "religious", "coords": [21.160801, 51.403357]}, {"name": "Kościół pw. Najświętszego Serca Jezusa", "text": "A Szent Szívnek szentelt Kościół pw. Najświętszego Serca Jezusa egy figyelemre méltó templom Radomban. A belépő látogatókat a tisztelet és az áhítat atmoszférája fogadja. A helyi lengyel közösség kitartó hitének bizonyítékaként áll.", "category": "religious", "coords": [21.17551, 51.387445]}, {"name": "Kościół pw. Chrystusa Nauczyciela", "text": "A nyüzsgő Radom városában található Kościół pw. Chrystusa Nauczyciela a vallási élet központjaként működik. Ez a szentély meghívja a Lengyelországon áthaladókat, hogy megtapasztalják nyugodt környezetét. A résztvevők megfigyelhetik a régióra jellemző sajátos egyházi kialakítást.", "category": "religious", "coords": [21.144655, 51.394601]}, {"name": "Kościół pw. Królowej Apostołów", "text": "A Kościół pw. Królowej Apostołów egy hívogató vallási helyszín, amely a lengyelországi Radomban épült. Ennek a templomnak a felfedezése lehetővé teszi a látogatók számára, hogy eltávolodjanak a nyüzsgő városi utcáktól. Sokatmondó helyszínt biztosít az imádkozáshoz és a közösségi összejövetelekhez.", "category": "religious", "coords": [21.15062, 51.379633]}, {"name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej", "text": "Ez a történelmi templom Radom szerves része. A Kościół pw. Świętej Katarzyny Aleksandryjskiej büszkén áll vallási műemlékként Lengyelországban. A szent terek iránt érdeklődők inspirálónak és nyugtatónak fogják találni a jelenlétét.", "category": "religious", "coords": [21.147595, 51.401521]}, {"name": "Kościół pw. Matki Bożej Częstochowskiej", "text": "Az erős spirituális örökséget képviselő Kościół pw. Matki Bożej Częstochowskiej egy istentiszteleti hely Radomban. A lengyel közösség itt gyűlik össze vallási hagyományaik ápolása céljából. Nyugodt menedéket nyújt mindazoknak, akik a környező városi területre látogatnak.", "category": "religious", "coords": [21.132517, 51.410945]}, {"name": "Kościół pw. Świętej Teresy od Dzieciątka Jezus", "text": "A Radomnak csendes bájt kölcsönző Kościół pw. Świętej Teresy od Dzieciątka Jezus egy dedikált templomként működik. A Lengyelország ezen részén átutazók gyakran megállnak itt, hogy élvezzék a nyugodt légkört. A szentély rendszeres istentiszteletekkel és magánimára alkalmas térrel szolgálja gyülekezetét.", "category": "religious", "coords": [21.12878, 51.388868]}, {"name": "Katedra Opieki Najświętszej Maryi Panny", "text": "Katedrális Radomban.", "category": "religious", "coords": [21.156333, 51.397049]}, {"name": "Kościół Ewangelicko-Augsburski", "text": "A Kościół Ewangelicko-Augsburski rávilágít Radom vallási sokszínűségére. Ez az evangélikus templom különleges spirituális környezetet biztosít Lengyelország szívében. A látogatók felfedezhetik a helyi protestáns közösség hagyományait, miközben elmerülnek a nyugodt környezetben.", "category": "religious", "coords": [21.145372, 51.403214]}, {"name": "Dom Jacka Malczewskiego", "text": "A fontos történelmi nevezetességként elismert Dom Jacka Malczewskiego Radomban található. Ez a lengyel helyszín bepillantást enged a regionális kultúrába és örökségbe. A turisták gyakran megállnak, hogy megtekintsék ennek a jól karbantartott épületnek a külsejét.", "category": "landmark", "coords": [21.14869, 51.403282]}, {"name": "Dom Esterki", "text": "A Dom Esterki egy lenyűgöző történelmi nevezetesség, amely Radom utcáin található. A lengyel városon áthaladva a városnézők könnyen észrevehetik az épület hagyományos építészetét. A helyi történelem és a történelmi események büszke szimbóluma marad.", "category": "landmark", "coords": [21.142046, 51.403566]}, {"name": "Wieża ciśnień na Glinicach 1927", "text": "Ipari műemlék Radomban.", "category": "landmark", "coords": [21.173591, 51.387632]}, {"name": "Nowy Ratusz", "text": "Reprezentatív városháza Radomban.", "category": "landmark", "coords": [21.143124, 51.403358]}, {"name": "Kościół pw. Świętego Wacława", "text": "Történelmi templom Radomban.", "category": "landmark", "coords": [21.135843, 51.400895]}, {"name": "Park im. Tadeusza Kościuszki", "text": "Zöld pihenőhely Radom központjában.", "category": "park", "coords": [21.158722, 51.398823]}, {"name": "Kościół pw. Świętego Rafała Kalinowskiego", "text": "A Radom városában megbújó Kościół pw. Świętego Rafała Kalinowskiego egy elismert vallási intézmény. Ez az istentiszteleti hely hozzájárul Lengyelország spirituális életéhez. Az élet minden területéről érkező embereket szívesen látja csendes gondolkodásra és áhítatra.", "category": "religious", "coords": [21.161006, 51.383156]}, {"name": "Kościół pw. Matki Bożej Miłosierdzia", "text": "A Radomban található Kościół pw. Matki Bożej Miłosierdzia a helyi hívők támaszaként szolgál. A látogatók felfedezhetik e lengyel templom belső harmonikus környezetét. Kiváló megálló mindazok számára, akik a vallási örökséget szeretnék megtapasztalni.", "category": "religious", "coords": [21.161, 51.407376]}, {"name": "Kościół pw. Matki Bożej Królowej Świata", "text": "A Kościół pw. Matki Bożej Królowej Świata gazdagítja Radom vallási szövetét. Ez a templom a hit horgonyaként áll Lengyelország ezen részén. Területének felfedezése békés közjátékot nyújt egy városnézés során.", "category": "religious", "coords": [21.17299, 51.40455]}, {"name": "Kościół pw. Świętej Urszuli Ledóchowskiej", "text": "A Kościół pw. Świętej Urszuli Ledóchowskiej hívogató kapui nyitva állnak Radom városában. Ez a lengyel vallási helyszín őrzi védőszentjeinek szent hagyományait. Békés szentélyként szolgál a hívők és az érdeklődő vendégek számára egyaránt.", "category": "religious", "coords": [21.181011, 51.392167]}, {"name": "Kościół pw. Chrystusa Króla", "text": "A Kościół pw. Chrystusa Króla egy jelentős istentiszteleti hely, amely a lengyelországi Radomban található. Az emberek összegyűlnek ebben a templomban, hogy csendes környezetben ünnepeljék hitüket. Jelenléte különleges spirituális karaktert kölcsönöz a helyi környéknek.", "category": "religious", "coords": [21.180532, 51.414788]}, {"name": "Kościół pw. Świętego Piotra Apostoła", "text": "Radom szívében a Kościół pw. Świętego Piotra Apostoła képviseli a helyi vallási közösséget. A Lengyelországban turnézó látogatók spirituális vigaszra lelhetnek ebben a dedikált templomban. Az épület a keresztény áhítat jól karbantartott bizonyítéka.", "category": "religious", "coords": [21.173638, 51.418478]}, {"name": "Kościół pw. Świętej Jadwigi Królowej", "text": "A tisztelt Hedvig királynőnek szentelt templom spirituális menedéket nyújt Radomban. A Kościół pw. Świętej Jadwigi Królowej hívogató megálló a vallási megfigyeléshez Lengyelországban. Építészete és nyugodt légköre teret enged a látogatóknak az elmélkedésre.", "category": "religious", "coords": [21.165487, 51.421767]}, {"name": "Kościół pw. Świętego Krzyża", "text": "A Szent Keresztre összpontosító Kościół pw. Świętego Krzyża egy kiemelkedő vallási épület Radomban. A lengyelországi hívők és látogatók gyakran értékelik a templom nyugodt hangulatát. Rendszeres istentiszteletek és imák fontos találkozóhelyeként szolgál.", "category": "religious", "coords": [21.109779, 51.390494]}, {"name": "Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny", "text": "A mélységes tiszteletet tükröző Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny a radomi híveket szolgálja. Ez a lengyel templom szent menedéket kínál a nyüzsgő városi elől. Csendes terei határozzák meg, amelyek belső békét inspirálnak.", "category": "religious", "coords": [21.104125, 51.404636]}, {"name": "Kościół pw. Zesłania Ducha Świętego", "text": "A Szentlélek eljövetelének szentelt templom nagy jelentőséggel bír Radomban. A Kościół pw. Zesłania Ducha Świętego folyamatos spirituális útmutatással támogatja a helyi lengyel lakosságot. A vendégek tiszteletteljesen megfigyelhetik a mindennapi vallási gyakorlatait.", "category": "religious", "coords": [21.124543, 51.41638]}, {"name": "Kościół pw. Matki Bożej Bolesnej", "text": "A Kościół pw. Matki Bożej Bolesnej egy kontemplatív vallási helyszínként áll a lengyelországi Radomban. Az ünnepélyes légköréről ismert templom mély elmélkedésre hív. Az elhaladó városnézők könnyen értékelhetik visszafogott spirituális jelenlétét.", "category": "religious", "coords": [21.151107, 51.414758]}, {"name": "Karszówka", "text": "Történelmi ingatlan Radomban.", "category": "castle", "coords": [21.135932, 51.397349]}, {"name": "Centrum Wsi Mleczków", "text": "Nyugodt tó Radom területén, amely alkalmas pihentető természetjárásra.", "category": "natural", "coords": [21.056232, 51.428418]}, {"name": "Polder Zalewowy na Potoku Północnym", "text": "Helyi vízfelület Radomban, amely szép környezetet biztosít a sétálóknak.", "category": "natural", "coords": [21.182413, 51.405776]}, {"name": "Kraina Marzeń", "text": "Gyermekjátszóhely Radomban, amely felfedezésre és játékra ösztönöz.", "category": "family", "coords": [21.135352, 51.395897]}, {"name": "Trampoliny", "text": "Trambulinos terület Radomban, amely aktív szórakozást kínál a gyerekeknek.", "category": "family", "coords": [21.114273, 51.393804]}], "ro": [{"name": "Kąpielisko Borki", "text": "Zona de scăldat Borki în Radom.", "category": "recreational", "coords": [21.117845, 51.392829]}, {"name": "Muzeum im. Jacka Malczewskiego", "text": "Muzeu de artă și istorie în Radom.", "category": "museum", "coords": [21.142147, 51.402617]}, {"name": "Zamek królewski", "text": "Castel istoric în Radom.", "category": "castle", "coords": [21.144058, 51.401769]}, {"name": "Pałac Karschów", "text": "Palat istoric în Radom.", "category": "castle", "coords": [21.152417, 51.400898]}, {"name": "Pałacyk Towarzystwa Kredytowego Ziemskiego", "text": "Magnifica clădire Pałacyk Towarzystwa Kredytowego Ziemskiego este un castel istoric din Radom, Polonia. Arhitectura impresionantă atrage imediat atenția celor interesați de cultură. Oaspeții sunt așteptați de o mărturie fermecătoare a istoriei trecute a orașului.", "category": "castle", "coords": [21.15434, 51.401635]}, {"name": "Pałacyk Balińskich-Hemplów", "text": "Cine vizitează Radom nu ar trebui să treacă cu vederea castelul istoric Pałacyk Balińskich-Hemplów. Această clădire din Polonia reprezintă trecutul nobil al orașului. Fațada și proprietatea permit oaspeților să se cufunde în istoria fascinantă a orașului Radom.", "category": "castle", "coords": [21.156046, 51.400548]}, {"name": "Willa Kulczyckiego", "text": "Vilă istorică în Radom.", "category": "castle", "coords": [21.153486, 51.399066]}, {"name": "Gmach Komisji Województwa Sandomierskiego", "text": "Istoricul Gmach Komisji Województwa Sandomierskiego reprezintă un element arhitectural impresionant în Radom. Vizitatorii acestui oraș polonez pot admira exteriorul grandios al acestei foste clădiri administrative. Slujind ca un reper proeminent, clădirea reflectă patrimoniul regional.", "category": "castle", "coords": [21.157991, 51.401209]}, {"name": "Pomnik Pomordowanych Pracowników Fabryki Broni w Radomiu", "text": "Monument în Radom.", "category": "historical", "coords": [21.147935, 51.389347]}, {"name": "Mauzoleum Dionizego Czachowskiego", "text": "Mausoleu în Radom.", "category": "historical", "coords": [21.149914, 51.405384]}, {"name": "Pomnik 72 Pułku Piechoty w Radomiu", "text": "Monument în Radom.", "category": "historical", "coords": [21.151668, 51.405943]}, {"name": "Ośrodek Kultury i Sztuki \"Resursa Obywatelska\"", "text": "Centru cultural în Radom.", "category": "cultural", "coords": [21.150403, 51.404262]}, {"name": "Mazowieckie Centrum Sztuki Współczesnej 'Elektrownia'", "text": "Centru de artă contemporană în Radom.", "category": "cultural", "coords": [21.149747, 51.398051]}, {"name": "Bazylika Świętego Kazimierza Królewicza", "text": "Basilica în Radom.", "category": "religious", "coords": [21.124574, 51.404271]}, {"name": "Kościół pw. Trójcy Przenajświętszej", "text": "Kościół pw. Trójcy Przenajświętszej este un sanctuar religios situat în orașul Radom. Această biserică poloneză oferă un spațiu liniștit pentru contemplare și reflecție spirituală. Oaspeții pot explora interiorul său pașnic și pot aprecia rolul ei în comunitatea locală.", "category": "religious", "coords": [21.14725, 51.402963]}, {"name": "Kościół pw. Świętej Rodziny", "text": "Situată în Polonia, Kościół pw. Świętej Rodziny servește ca lăcaș de cult activ în Radom. Biserica primește atât enoriașii, cât și călătorii care caută un moment de liniște. Structura sa rămâne o parte importantă a peisajului religios al orașului.", "category": "religious", "coords": [21.160801, 51.403357]}, {"name": "Kościół pw. Najświętszego Serca Jezusa", "text": "Dedicată Inimii Sacre, Kościół pw. Najświętszego Serca Jezusa este o biserică notabilă aflată în Radom. Vizitatorii sunt întâmpinați de o atmosferă de reverență și devotament la intrare. Ea reprezintă o mărturie a credinței de neclintit a comunității poloneze locale.", "category": "religious", "coords": [21.17551, 51.387445]}, {"name": "Kościół pw. Chrystusa Nauczyciela", "text": "Situată în orașul vibrant Radom, Kościół pw. Chrystusa Nauczyciela funcționează ca un centru al vieții religioase. Acest sanctuar invită trecătorii prin Polonia să experimenteze mediul său senin. Participanții pot observa designul ecleziastic distinctiv al regiunii.", "category": "religious", "coords": [21.144655, 51.394601]}, {"name": "Kościół pw. Królowej Apostołów", "text": "Kościół pw. Królowej Apostołów este un sit religios primitor din Radom, Polonia. Explorarea acestei biserici permite vizitatorilor să se îndepărteze de străzile aglomerate ale orașului. Aceasta oferă un cadru plin de sens pentru rugăciune și adunări comunitare.", "category": "religious", "coords": [21.15062, 51.379633]}, {"name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej", "text": "Această biserică istorică este o parte integrantă a orașului Radom. Kościół pw. Świętej Katarzyny Aleksandryjskiej se înalță cu mândrie ca un monument religios în Polonia. Oricine este interesat de spațiile sacre va găsi prezența ei inspiratoare și liniștită.", "category": "religious", "coords": [21.147595, 51.401521]}, {"name": "Kościół pw. Matki Bożej Częstochowskiej", "text": "Reprezentând o moștenire spirituală puternică, Kościół pw. Matki Bożej Częstochowskiej este un lăcaș de cult în Radom. Comunitatea poloneză se adună aici pentru a-și păstra tradițiile religioase. Aceasta oferă un refugiu calm pentru toți cei care vizitează zona urbană înconjurătoare.", "category": "religious", "coords": [21.132517, 51.410945]}, {"name": "Kościół pw. Świętej Teresy od Dzieciątka Jezus", "text": "Aducând un farmec liniștit orașului Radom, Kościół pw. Świętej Teresy od Dzieciątka Jezus funcționează ca o biserică dedicată. Călătorii prin această parte a Poloniei se opresc adesea aici pentru a aprecia atmosfera sa calmă. Sanctuarul își servește congregația cu slujbe regulate și un spațiu pentru rugăciunea privată.", "category": "religious", "coords": [21.12878, 51.388868]}, {"name": "Katedra Opieki Najświętszej Maryi Panny", "text": "Catedrală în Radom.", "category": "religious", "coords": [21.156333, 51.397049]}, {"name": "Kościół Ewangelicko-Augsburski", "text": "Kościół Ewangelicko-Augsburski evidențiază diversitatea religioasă din Radom. Această biserică evanghelică oferă un cadru spiritual distinct în inima Poloniei. Vizitatorii pot explora tradițiile comunității protestante locale în timp ce se bucură de împrejurimile senine.", "category": "religious", "coords": [21.145372, 51.403214]}, {"name": "Dom Jacka Malczewskiego", "text": "Recunoscut ca un reper istoric important, Dom Jacka Malczewskiego este situat în Radom. Acest sit polonez oferă o privire asupra culturii și patrimoniului regional. Turiștii se opresc frecvent pentru a vedea exteriorul acestei clădiri bine conservate.", "category": "landmark", "coords": [21.14869, 51.403282]}, {"name": "Dom Esterki", "text": "Dom Esterki este un reper istoric fascinant aflat pe străzile din Radom. Trecând prin acest oraș polonez, turiștii pot observa cu ușurință arhitectura tradițională a clădirii. Rămâne un simbol mândru al istoriei locale și al evenimentelor istorice.", "category": "landmark", "coords": [21.142046, 51.403566]}, {"name": "Wieża ciśnień na Glinicach 1927", "text": "Monument industrial în Radom.", "category": "landmark", "coords": [21.173591, 51.387632]}, {"name": "Nowy Ratusz", "text": "Primărie reprezentativă în Radom.", "category": "landmark", "coords": [21.143124, 51.403358]}, {"name": "Kościół pw. Świętego Wacława", "text": "Biserică istorică în Radom.", "category": "landmark", "coords": [21.135843, 51.400895]}, {"name": "Park im. Tadeusza Kościuszki", "text": "Spațiu verde de relaxare în centrul orașului Radom.", "category": "park", "coords": [21.158722, 51.398823]}, {"name": "Kościół pw. Świętego Rafała Kalinowskiego", "text": "Amplasată în orașul Radom, Kościół pw. Świętego Rafała Kalinowskiego este o instituție religioasă respectată. Acest lăcaș de cult contribuie la viața spirituală a Poloniei. Primește oameni din toate categoriile sociale pentru gândire tăcută și devotament.", "category": "religious", "coords": [21.161006, 51.383156]}, {"name": "Kościół pw. Matki Bożej Miłosierdzia", "text": "Aflată în Radom, Kościół pw. Matki Bożej Miłosierdzia acționează ca un stâlp pentru credincioșii locali. Vizitatorii pot descoperi mediul armonios din interiorul acestei biserici poloneze. Este o oprire excelentă pentru oricine caută o experiență a patrimoniului religios.", "category": "religious", "coords": [21.161, 51.407376]}, {"name": "Kościół pw. Matki Bożej Królowej Świata", "text": "Kościół pw. Matki Bożej Królowej Świata îmbogățește țesutul religios din Radom. Această biserică reprezintă o ancoră a credinței în această parte a Poloniei. Explorarea curții sale oferă un interludiu liniștit în timpul unui tur de oraș.", "category": "religious", "coords": [21.17299, 51.40455]}, {"name": "Kościół pw. Świętej Urszuli Ledóchowskiej", "text": "Ușile primitoare ale Kościół pw. Świętej Urszuli Ledóchowskiej sunt deschise în orașul Radom. Acest sit religios polonez păstrează tradițiile sacre ale patronilor săi. Acesta acționează ca un sanctuar senin pentru credincioși și oaspeți curioși deopotrivă.", "category": "religious", "coords": [21.181011, 51.392167]}, {"name": "Kościół pw. Chrystusa Króla", "text": "Kościół pw. Chrystusa Króla este un lăcaș de cult remarcabil situat în Radom, Polonia. Oamenii se adună la această biserică pentru a-și sărbători credința într-un mediu liniștit. Prezența sa adaugă un caracter spiritual distinct cartierului local.", "category": "religious", "coords": [21.180532, 51.414788]}, {"name": "Kościół pw. Świętego Piotra Apostoła", "text": "În inima orașului Radom, Kościół pw. Świętego Piotra Apostoła reprezintă comunitatea religioasă locală. Vizitatorii care fac turul Poloniei pot găsi consolare spirituală în interiorul acestei biserici dedicate. Clădirea este o mărturie bine întreținută a devotamentului creștin.", "category": "religious", "coords": [21.173638, 51.418478]}, {"name": "Kościół pw. Świętej Jadwigi Królowej", "text": "Dedicată stimatei Regine Jadwiga, această biserică oferă un refugiu spiritual în Radom. Kościół pw. Świętej Jadwigi Królowej este o oprire primitoare pentru observația religioasă în Polonia. Arhitectura sa și atmosfera senină oferă vizitatorilor spațiu de reflecție.", "category": "religious", "coords": [21.165487, 51.421767]}, {"name": "Kościół pw. Świętego Krzyża", "text": "Concentrându-se pe Sfânta Cruce, Kościół pw. Świętego Krzyża este o clădire religioasă proeminentă în Radom. Credincioșii și vizitatorii din Polonia apreciază frecvent ambianța calmă a acestei biserici. Este un loc de adunare vital pentru slujbe regulate și rugăciune.", "category": "religious", "coords": [21.109779, 51.390494]}, {"name": "Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny", "text": "Reflectând o reverență profundă, Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny îi slujește pe credincioșii din Radom. Această biserică poloneză oferă un refugiu sacru din viața aglomerată a orașului. Se definește prin spațiile sale liniștite care inspiră pace interioară.", "category": "religious", "coords": [21.104125, 51.404636]}, {"name": "Kościół pw. Zesłania Ducha Świętego", "text": "Dedicată Pogorârii Sfântului Duh, această biserică are o mare importanță în Radom. Kościół pw. Zesłania Ducha Świętego sprijină populația poloneză locală cu îndrumare spirituală continuă. Oaspeții pot observa cu respect practicile sale religioase zilnice.", "category": "religious", "coords": [21.124543, 51.41638]}, {"name": "Kościół pw. Matki Bożej Bolesnej", "text": "Kościół pw. Matki Bożej Bolesnej reprezintă un sit religios contemplativ în Radom, Polonia. Cunoscută pentru atmosfera sa solemnă, biserica invită la o reflecție profundă. Turiștii aflați în trecere pot aprecia cu ușurință prezența sa spirituală discretă.", "category": "religious", "coords": [21.151107, 51.414758]}, {"name": "Karszówka", "text": "Proprietate istorică în Radom.", "category": "castle", "coords": [21.135932, 51.397349]}, {"name": "Centrum Wsi Mleczków", "text": "Un lac liniștit în Radom, potrivit pentru plimbări relaxante în natură.", "category": "natural", "coords": [21.056232, 51.428418]}, {"name": "Polder Zalewowy na Potoku Północnym", "text": "O zonă cu apă locală în Radom, care oferă un cadru frumos pentru plimbări.", "category": "natural", "coords": [21.182413, 51.405776]}, {"name": "Kraina Marzeń", "text": "O zonă de joacă pentru copii în Radom, care invită la explorare și joacă.", "category": "family", "coords": [21.135352, 51.395897]}, {"name": "Trampoliny", "text": "O zonă cu trambuline în Radom, care oferă distracție activă pentru copii.", "category": "family", "coords": [21.114273, 51.393804]}], "en": [{"name": "Kąpielisko Borki", "text": "Bathing area Borki in Radom.", "category": "recreational", "coords": [21.117845, 51.392829]}, {"name": "Muzeum im. Jacka Malczewskiego", "text": "Museum of art and history in Radom.", "category": "museum", "coords": [21.142147, 51.402617]}, {"name": "Zamek królewski", "text": "Historic castle in Radom.", "category": "castle", "coords": [21.144058, 51.401769]}, {"name": "Pałac Karschów", "text": "Historic palace in Radom.", "category": "castle", "coords": [21.152417, 51.400898]}, {"name": "Pałacyk Towarzystwa Kredytowego Ziemskiego", "text": "The magnificent building Pałacyk Towarzystwa Kredytowego Ziemskiego is a historical castle in Radom, Poland. The impressive architecture immediately catches the eye of those interested in culture. Visitors can expect a charming testament to the city's past history.", "category": "castle", "coords": [21.15434, 51.401635]}, {"name": "Pałacyk Balińskich-Hemplów", "text": "Anyone visiting Radom should not overlook the historical castle Pałacyk Balińskich-Hemplów. This building from Poland represents the noble past of the city. The facade and the estate allow guests to immerse themselves in the fascinating history of Radom.", "category": "castle", "coords": [21.156046, 51.400548]}, {"name": "Willa Kulczyckiego", "text": "Historic villa in Radom.", "category": "castle", "coords": [21.153486, 51.399066]}, {"name": "Gmach Komisji Województwa Sandomierskiego", "text": "The historic Gmach Komisji Województwa Sandomierskiego stands as an impressive architectural feature in Radom. Visitors to this Polish city can admire the grand exterior of this former administrative building. It serves as a prominent landmark reflecting the region's heritage.", "category": "castle", "coords": [21.157991, 51.401209]}, {"name": "Pomnik Pomordowanych Pracowników Fabryki Broni w Radomiu", "text": "Monument in Radom.", "category": "historical", "coords": [21.147935, 51.389347]}, {"name": "Mauzoleum Dionizego Czachowskiego", "text": "Mausoleum in Radom.", "category": "historical", "coords": [21.149914, 51.405384]}, {"name": "Pomnik 72 Pułku Piechoty w Radomiu", "text": "Monument in Radom.", "category": "historical", "coords": [21.151668, 51.405943]}, {"name": "Ośrodek Kultury i Sztuki \"Resursa Obywatelska\"", "text": "Cultural centre in Radom.", "category": "cultural", "coords": [21.150403, 51.404262]}, {"name": "Mazowieckie Centrum Sztuki Współczesnej 'Elektrownia'", "text": "Centre for contemporary art in Radom.", "category": "cultural", "coords": [21.149747, 51.398051]}, {"name": "Bazylika Świętego Kazimierza Królewicza", "text": "Basilica in Radom.", "category": "religious", "coords": [21.124574, 51.404271]}, {"name": "Kościół pw. Trójcy Przenajświętszej", "text": "Kościół pw. Trójcy Przenajświętszej is a religious sanctuary situated in the city of Radom. This Polish church offers a quiet space for contemplation and spiritual reflection. Guests can explore its peaceful interior and appreciate its role in the local community.", "category": "religious", "coords": [21.14725, 51.402963]}, {"name": "Kościół pw. Świętej Rodziny", "text": "Situated in Poland, Kościół pw. Świętej Rodziny serves as an active place of worship within Radom. The church welcomes both parishioners and travelers looking for a moment of peace. Its structure remains an important part of the city's religious landscape.", "category": "religious", "coords": [21.160801, 51.403357]}, {"name": "Kościół pw. Najświętszego Serca Jezusa", "text": "Dedicated to the Sacred Heart, Kościół pw. Najświętszego Serca Jezusa is a notable church found in Radom. Visitors are greeted by an atmosphere of reverence and devotion upon entering. It stands as a testament to the enduring faith of the local Polish community.", "category": "religious", "coords": [21.17551, 51.387445]}, {"name": "Kościół pw. Chrystusa Nauczyciela", "text": "Located in the vibrant city of Radom, Kościół pw. Chrystusa Nauczyciela operates as a center for religious life. This sanctuary invites those passing through Poland to experience its serene environment. Attendees can observe the distinct ecclesiastical design native to the region.", "category": "religious", "coords": [21.144655, 51.394601]}, {"name": "Kościół pw. Królowej Apostołów", "text": "Kościół pw. Królowej Apostołów is a welcoming religious site established in Radom, Poland. Exploring this church allows visitors to step away from the bustling city streets. It provides a meaningful setting for prayer and community gathering.", "category": "religious", "coords": [21.15062, 51.379633]}, {"name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej", "text": "This historic church is an integral part of Radom. Kościół pw. Świętej Katarzyny Aleksandryjskiej stands proudly as a religious monument in Poland. Anyone interested in sacred spaces will find its presence inspiring and tranquil.", "category": "religious", "coords": [21.147595, 51.401521]}, {"name": "Kościół pw. Matki Bożej Częstochowskiej", "text": "Representing a strong spiritual heritage, Kościół pw. Matki Bożej Częstochowskiej is a place of worship in Radom. The Polish community gathers here to maintain their religious traditions. It offers a calm refuge for anyone visiting the surrounding urban area.", "category": "religious", "coords": [21.132517, 51.410945]}, {"name": "Kościół pw. Świętej Teresy od Dzieciątka Jezus", "text": "Bringing quiet charm to Radom, Kościół pw. Świętej Teresy od Dzieciątka Jezus operates as a dedicated church. Travelers through this part of Poland often pause here to appreciate its calm atmosphere. The sanctuary serves its congregation with regular services and a space for private prayer.", "category": "religious", "coords": [21.12878, 51.388868]}, {"name": "Katedra Opieki Najświętszej Maryi Panny", "text": "Cathedral in Radom.", "category": "religious", "coords": [21.156333, 51.397049]}, {"name": "Kościół Ewangelicko-Augsburski", "text": "The Kościół Ewangelicko-Augsburski highlights the religious diversity within Radom. This Evangelical church provides a distinct spiritual setting in the heart of Poland. Visitors can explore the traditions of the local Protestant community while taking in the serene surroundings.", "category": "religious", "coords": [21.145372, 51.403214]}, {"name": "Dom Jacka Malczewskiego", "text": "Recognized as an important historic landmark, Dom Jacka Malczewskiego is situated in Radom. This Polish site offers a glimpse into the regional culture and heritage. Tourists frequently stop by to view the exterior of this well-preserved building.", "category": "landmark", "coords": [21.14869, 51.403282]}, {"name": "Dom Esterki", "text": "Dom Esterki is a fascinating historic landmark found on the streets of Radom. Passing through this Polish city, sightseers can easily spot the traditional architecture of the building. It remains a proud symbol of the local history and historical events.", "category": "landmark", "coords": [21.142046, 51.403566]}, {"name": "Wieża ciśnień na Glinicach 1927", "text": "Industrial landmark in Radom.", "category": "landmark", "coords": [21.173591, 51.387632]}, {"name": "Nowy Ratusz", "text": "Representative city hall in Radom.", "category": "landmark", "coords": [21.143124, 51.403358]}, {"name": "Kościół pw. Świętego Wacława", "text": "Historic church in Radom.", "category": "landmark", "coords": [21.135843, 51.400895]}, {"name": "Park im. Tadeusza Kościuszki", "text": "Green recreation area in the center of Radom.", "category": "park", "coords": [21.158722, 51.398823]}, {"name": "Kościół pw. Świętego Rafała Kalinowskiego", "text": "Nestled in the city of Radom, Kościół pw. Świętego Rafała Kalinowskiego is a respected religious institution. This place of worship contributes to the spiritual life of Poland. It welcomes people from all walks of life for silent thought and devotion.", "category": "religious", "coords": [21.161006, 51.383156]}, {"name": "Kościół pw. Matki Bożej Miłosierdzia", "text": "Found in Radom, Kościół pw. Matki Bożej Miłosierdzia acts as a pillar for the local faithful. Visitors can discover the harmonious environment inside this Polish church. It is an excellent stop for anyone seeking an experience of religious heritage.", "category": "religious", "coords": [21.161, 51.407376]}, {"name": "Kościół pw. Matki Bożej Królowej Świata", "text": "Kościół pw. Matki Bożej Królowej Świata enriches the religious fabric of Radom. This church stands as an anchor of faith in this part of Poland. Exploring its grounds provides a peaceful interlude during a city tour.", "category": "religious", "coords": [21.17299, 51.40455]}, {"name": "Kościół pw. Świętej Urszuli Ledóchowskiej", "text": "The welcoming doors of Kościół pw. Świętej Urszuli Ledóchowskiej are open in the city of Radom. This Polish religious site maintains the sacred traditions of its patrons. It acts as a serene sanctuary for believers and curious guests alike.", "category": "religious", "coords": [21.181011, 51.392167]}, {"name": "Kościół pw. Chrystusa Króla", "text": "Kościół pw. Chrystusa Króla is a notable place of worship located in Radom, Poland. People gather at this church to celebrate their faith in a quiet environment. Its presence adds distinct spiritual character to the local neighborhood.", "category": "religious", "coords": [21.180532, 51.414788]}, {"name": "Kościół pw. Świętego Piotra Apostoła", "text": "In the heart of Radom, Kościół pw. Świętego Piotra Apostoła represents the local religious community. Visitors touring Poland can find spiritual solace inside this dedicated church. The building is a well-maintained testament to Christian devotion.", "category": "religious", "coords": [21.173638, 51.418478]}, {"name": "Kościół pw. Świętej Jadwigi Królowej", "text": "Dedicated to the esteemed Queen Jadwiga, this church provides a spiritual haven in Radom. Kościół pw. Świętej Jadwigi Królowej is an inviting stop for religious observation in Poland. Its architecture and serene atmosphere give visitors space to reflect.", "category": "religious", "coords": [21.165487, 51.421767]}, {"name": "Kościół pw. Świętego Krzyża", "text": "Focusing on the Holy Cross, Kościół pw. Świętego Krzyża is a prominent religious building in Radom. Believers and visitors in Poland frequently appreciate the calm ambiance of this church. It stands as a vital gathering place for regular services and prayer.", "category": "religious", "coords": [21.109779, 51.390494]}, {"name": "Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny", "text": "Reflecting profound reverence, Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny serves the faithful in Radom. This Polish church offers a sacred retreat from the busy city life. It is defined by its quiet spaces that inspire inner peace.", "category": "religious", "coords": [21.104125, 51.404636]}, {"name": "Kościół pw. Zesłania Ducha Świętego", "text": "Dedicated to the Descent of the Holy Spirit, this church holds great importance in Radom. Kościół pw. Zesłania Ducha Świętego supports the local Polish population with ongoing spiritual guidance. Guests can respectfully observe its daily religious practices.", "category": "religious", "coords": [21.124543, 51.41638]}, {"name": "Kościół pw. Matki Bożej Bolesnej", "text": "Kościół pw. Matki Bożej Bolesnej stands as a contemplative religious site in Radom, Poland. Known for its solemn atmosphere, the church invites deep reflection. Passing sightseers can easily appreciate its understated spiritual presence.", "category": "religious", "coords": [21.151107, 51.414758]}, {"name": "Karszówka", "text": "Historic estate in Radom.", "category": "castle", "coords": [21.135932, 51.397349]}, {"name": "Centrum Wsi Mleczków", "text": "A quiet lake in Radom suitable for relaxing walks in nature.", "category": "natural", "coords": [21.056232, 51.428418]}, {"name": "Polder Zalewowy na Potoku Północnym", "text": "A local water area in Radom providing a nice backdrop for walkers.", "category": "natural", "coords": [21.182413, 51.405776]}, {"name": "Kraina Marzeń", "text": "A play area for children in Radom that encourages exploration and play.", "category": "family", "coords": [21.135352, 51.395897]}, {"name": "Trampoliny", "text": "An area with trampolines in Radom offering active fun for children.", "category": "family", "coords": [21.114273, 51.393804]}]},
+    id: "poland-radom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Borki",
+                  "text": "Badeplatz Borki in Radom.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117845,
+                        51.392829
+                  ]
+            },
+            {
+                  "name": "Muzeum im. Jacka Malczewskiego",
+                  "text": "Museum für Kunst und Geschichte in Radom.",
+                  "category": "museum",
+                  "coords": [
+                        21.142147,
+                        51.402617
+                  ]
+            },
+            {
+                  "name": "Zamek królewski",
+                  "text": "Historisches Schloss in Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.144058,
+                        51.401769
+                  ]
+            },
+            {
+                  "name": "Pałac Karschów",
+                  "text": "Historisches Palais in Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.152417,
+                        51.400898
+                  ]
+            },
+            {
+                  "name": "Pałacyk Towarzystwa Kredytowego Ziemskiego",
+                  "text": "Das prachtvolle Gebäude Pałacyk Towarzystwa Kredytowego Ziemskiego ist ein historisches Schloss im polnischen Radom. Die eindrucksvolle Architektur zieht sofort die Blicke von Kulturinteressierten auf sich. Besucher erwartet ein charmantes Zeugnis der vergangenen Stadtgeschichte.",
+                  "category": "castle",
+                  "coords": [
+                        21.15434,
+                        51.401635
+                  ]
+            },
+            {
+                  "name": "Pałacyk Balińskich-Hemplów",
+                  "text": "Wer Radom besucht, sollte das historische Schloss Pałacyk Balińskich-Hemplów nicht übersehen. Dieses Bauwerk aus Polen repräsentiert die noble Vergangenheit der Stadt. Die Fassade und das Anwesen lassen Gäste in die faszinierende Historie von Radom eintauchen.",
+                  "category": "castle",
+                  "coords": [
+                        21.156046,
+                        51.400548
+                  ]
+            },
+            {
+                  "name": "Willa Kulczyckiego",
+                  "text": "Historische Villa in Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.153486,
+                        51.399066
+                  ]
+            },
+            {
+                  "name": "Gmach Komisji Województwa Sandomierskiego",
+                  "text": "Das historische Gmach Komisji Województwa Sandomierskiego ist ein markantes Bauwerk in Radom. Besucher dieser polnischen Stadt können die imposante Architektur dieses ehemaligen Verwaltungsgebäudes bewundern. Es dient als bedeutendes lokales Wahrzeichen und spiegelt das regionale Erbe wider.",
+                  "category": "castle",
+                  "coords": [
+                        21.157991,
+                        51.401209
+                  ]
+            },
+            {
+                  "name": "Pomnik Pomordowanych Pracowników Fabryki Broni w Radomiu",
+                  "text": "Denkmal in Radom.",
+                  "category": "historical",
+                  "coords": [
+                        21.147935,
+                        51.389347
+                  ]
+            },
+            {
+                  "name": "Mauzoleum Dionizego Czachowskiego",
+                  "text": "Mausoleum in Radom.",
+                  "category": "historical",
+                  "coords": [
+                        21.149914,
+                        51.405384
+                  ]
+            },
+            {
+                  "name": "Pomnik 72 Pułku Piechoty w Radomiu",
+                  "text": "Denkmal in Radom.",
+                  "category": "historical",
+                  "coords": [
+                        21.151668,
+                        51.405943
+                  ]
+            },
+            {
+                  "name": "Ośrodek Kultury i Sztuki \"Resursa Obywatelska\"",
+                  "text": "Kulturzentrum in Radom.",
+                  "category": "cultural",
+                  "coords": [
+                        21.150403,
+                        51.404262
+                  ]
+            },
+            {
+                  "name": "Mazowieckie Centrum Sztuki Współczesnej 'Elektrownia'",
+                  "text": "Zentrum für zeitgenössische Kunst in Radom.",
+                  "category": "cultural",
+                  "coords": [
+                        21.149747,
+                        51.398051
+                  ]
+            },
+            {
+                  "name": "Bazylika Świętego Kazimierza Królewicza",
+                  "text": "Basilika in Radom.",
+                  "category": "religious",
+                  "coords": [
+                        21.124574,
+                        51.404271
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Przenajświętszej",
+                  "text": "Kościół pw. Trójcy Przenajświętszej ist ein sakrales Bauwerk in der Stadt Radom. Diese polnische Kirche bietet einen ruhigen Ort für Kontemplation und spirituelle Reflexion. Gäste können den friedlichen Innenraum erkunden und ihre Rolle in der lokalen Gemeinde würdigen.",
+                  "category": "religious",
+                  "coords": [
+                        21.14725,
+                        51.402963
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Rodziny",
+                  "text": "Das in Polen gelegene Kościół pw. Świętej Rodziny dient als aktives Gotteshaus innerhalb von Radom. Die Kirche heißt sowohl Gemeindemitglieder als auch Reisende willkommen, die einen Moment der Ruhe suchen. Ihre Struktur bleibt ein wichtiger Teil der religiösen Landschaft der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        21.160801,
+                        51.403357
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Jezusa",
+                  "text": "Die dem Heiligsten Herzen gewidmete Kościół pw. Najświętszego Serca Jezusa ist eine bemerkenswerte Kirche in Radom. Besucher werden beim Betreten von einer Atmosphäre der Ehrfurcht und Hingabe empfangen. Sie steht als Zeugnis für den beständigen Glauben der lokalen polnischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        21.17551,
+                        51.387445
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Nauczyciela",
+                  "text": "Das in der lebhaften Stadt Radom gelegene Kościół pw. Chrystusa Nauczyciela fungiert als Zentrum des religiösen Lebens. Dieses Heiligtum lädt Durchreisende in Polen ein, seine friedliche Umgebung zu erleben. Besucher können das unverwechselbare kirchliche Design der Region beobachten.",
+                  "category": "religious",
+                  "coords": [
+                        21.144655,
+                        51.394601
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Królowej Apostołów",
+                  "text": "Die Kościół pw. Królowej Apostołów ist eine einladende religiöse Stätte in Radom, Polen. Die Erkundung dieser Kirche ermöglicht es Besuchern, sich von den belebten Straßen der Stadt zurückzuziehen. Sie bietet einen bedeutungsvollen Rahmen für Gebet und Gemeindezusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        21.15062,
+                        51.379633
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "Diese historische Kirche ist ein integraler Bestandteil von Radom. Die Kościół pw. Świętej Katarzyny Aleksandryjskiej steht stolz als religiöses Denkmal in Polen. Jeder, der sich für heilige Räume interessiert, wird ihre Präsenz als inspirierend und beruhigend empfinden.",
+                  "category": "religious",
+                  "coords": [
+                        21.147595,
+                        51.401521
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Częstochowskiej",
+                  "text": "Die Kościół pw. Matki Bożej Częstochowskiej repräsentiert ein starkes spirituelles Erbe und ist ein Gotteshaus in Radom. Die polnische Gemeinde versammelt sich hier, um ihre religiösen Traditionen zu pflegen. Sie bietet einen ruhigen Zufluchtsort für jeden, der das umliegende städtische Gebiet besucht.",
+                  "category": "religious",
+                  "coords": [
+                        21.132517,
+                        51.410945
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Teresy od Dzieciątka Jezus",
+                  "text": "Die Kościół pw. Świętej Teresy od Dzieciątka Jezus verleiht Radom einen ruhigen Charme und fungiert als engagierte Kirche. Reisende durch diesen Teil Polens halten hier oft inne, um die ruhige Atmosphäre zu genießen. Das Heiligtum dient seiner Gemeinde mit regelmäßigen Gottesdiensten und einem Raum für privates Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        21.12878,
+                        51.388868
+                  ]
+            },
+            {
+                  "name": "Katedra Opieki Najświętszej Maryi Panny",
+                  "text": "Katedrale in Radom.",
+                  "category": "religious",
+                  "coords": [
+                        21.156333,
+                        51.397049
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "Die Kościół Ewangelicko-Augsburski unterstreicht die religiöse Vielfalt innerhalb von Radom. Diese evangelische Kirche bietet ein besonderes spirituelles Umfeld im Herzen Polens. Besucher können die Traditionen der lokalen protestantischen Gemeinde erkunden und die ruhige Umgebung auf sich wirken lassen.",
+                  "category": "religious",
+                  "coords": [
+                        21.145372,
+                        51.403214
+                  ]
+            },
+            {
+                  "name": "Dom Jacka Malczewskiego",
+                  "text": "Als bedeutendes historisches Wahrzeichen anerkannt, befindet sich das Dom Jacka Malczewskiego in Radom. Diese polnische Stätte bietet einen Einblick in die regionale Kultur und das Erbe. Touristen machen oft Halt, um das Äußere dieses gut erhaltenen Gebäudes zu betrachten.",
+                  "category": "landmark",
+                  "coords": [
+                        21.14869,
+                        51.403282
+                  ]
+            },
+            {
+                  "name": "Dom Esterki",
+                  "text": "Das Dom Esterki ist ein faszinierendes historisches Wahrzeichen in den Straßen von Radom. Bei der Durchreise durch diese polnische Stadt können Touristen leicht die traditionelle Architektur des Gebäudes erkennen. Es bleibt ein stolzes Symbol der lokalen Geschichte und historischer Ereignisse.",
+                  "category": "landmark",
+                  "coords": [
+                        21.142046,
+                        51.403566
+                  ]
+            },
+            {
+                  "name": "Wieża ciśnień na Glinicach 1927",
+                  "text": "Industriedenkmal in Radom.",
+                  "category": "landmark",
+                  "coords": [
+                        21.173591,
+                        51.387632
+                  ]
+            },
+            {
+                  "name": "Nowy Ratusz",
+                  "text": "Repräsentatives Rathaus in Radom.",
+                  "category": "landmark",
+                  "coords": [
+                        21.143124,
+                        51.403358
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wacława",
+                  "text": "Historische Kirche in Radom.",
+                  "category": "landmark",
+                  "coords": [
+                        21.135843,
+                        51.400895
+                  ]
+            },
+            {
+                  "name": "Park im. Tadeusza Kościuszki",
+                  "text": "Grüne Erholungsfläche im Zentrum von Radom.",
+                  "category": "park",
+                  "coords": [
+                        21.158722,
+                        51.398823
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Rafała Kalinowskiego",
+                  "text": "Eingebettet in die Stadt Radom ist die Kościół pw. Świętego Rafała Kalinowskiego eine angesehene religiöse Einrichtung. Dieses Gotteshaus trägt zum spirituellen Leben Polens bei. Es heißt Menschen aus allen Gesellschaftsschichten zu stillem Nachdenken und Hingabe willkommen.",
+                  "category": "religious",
+                  "coords": [
+                        21.161006,
+                        51.383156
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Miłosierdzia",
+                  "text": "Die in Radom gelegene Kościół pw. Matki Bożej Miłosierdzia fungiert als Pfeiler für die lokalen Gläubigen. Besucher können die harmonische Umgebung im Inneren dieser polnischen Kirche entdecken. Es ist ein ausgezeichneter Halt für jeden, der eine Erfahrung des religiösen Erbes sucht.",
+                  "category": "religious",
+                  "coords": [
+                        21.161,
+                        51.407376
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Świata",
+                  "text": "Die Kościół pw. Matki Bożej Królowej Świata bereichert das religiöse Gefüge von Radom. Diese Kirche steht als Anker des Glaubens in diesem Teil Polens. Die Erkundung ihres Geländes bietet eine friedliche Pause während einer Stadtbesichtigung.",
+                  "category": "religious",
+                  "coords": [
+                        21.17299,
+                        51.40455
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Urszuli Ledóchowskiej",
+                  "text": "Die einladenden Türen der Kościół pw. Świętej Urszuli Ledóchowskiej stehen in der Stadt Radom offen. Diese polnische religiöse Stätte bewahrt die heiligen Traditionen ihrer Schutzpatrone. Sie dient als ruhiges Heiligtum für Gläubige und neugierige Gäste gleichermaßen.",
+                  "category": "religious",
+                  "coords": [
+                        21.181011,
+                        51.392167
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla",
+                  "text": "Die Kościół pw. Chrystusa Króla ist ein bemerkenswertes Gotteshaus in Radom, Polen. Menschen versammeln sich in dieser Kirche, um ihren Glauben in einer ruhigen Umgebung zu feiern. Ihre Präsenz verleiht dem örtlichen Viertel einen besonderen spirituellen Charakter.",
+                  "category": "religious",
+                  "coords": [
+                        21.180532,
+                        51.414788
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Piotra Apostoła",
+                  "text": "Im Herzen von Radom repräsentiert die Kościół pw. Świętego Piotra Apostoła die lokale Religionsgemeinschaft. Besucher auf einer Tour durch Polen können in dieser engagierten Kirche spirituellen Trost finden. Das Gebäude ist ein gut gepflegtes Zeugnis christlicher Hingabe.",
+                  "category": "religious",
+                  "coords": [
+                        21.173638,
+                        51.418478
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "Diese der verehrten Königin Jadwiga gewidmete Kirche bietet einen spirituellen Zufluchtsort in Radom. Die Kościół pw. Świętej Jadwigi Królowej ist ein einladender Halt für religiöse Beobachtungen in Polen. Ihre Architektur und die ruhige Atmosphäre geben Besuchern Raum zum Nachdenken.",
+                  "category": "religious",
+                  "coords": [
+                        21.165487,
+                        51.421767
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "Die auf das Heilige Kreuz ausgerichtete Kościół pw. Świętego Krzyża ist ein markantes religiöses Gebäude in Radom. Gläubige und Besucher in Polen schätzen häufig das ruhige Ambiente dieser Kirche. Sie ist ein wichtiger Versammlungsort für regelmäßige Gottesdienste und Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        21.109779,
+                        51.390494
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny",
+                  "text": "Die Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny spiegelt tiefe Ehrfurcht wider und dient den Gläubigen in Radom. Diese polnische Kirche bietet einen heiligen Rückzugsort vom geschäftigen Stadtleben. Sie zeichnet sich durch ihre ruhigen Räume aus, die inneren Frieden inspirieren.",
+                  "category": "religious",
+                  "coords": [
+                        21.104125,
+                        51.404636
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zesłania Ducha Świętego",
+                  "text": "Diese der Herabkunft des Heiligen Geistes gewidmete Kirche ist von großer Bedeutung in Radom. Die Kościół pw. Zesłania Ducha Świętego unterstützt die lokale polnische Bevölkerung mit kontinuierlicher spiritueller Führung. Gäste können ihre täglichen religiösen Praktiken respektvoll beobachten.",
+                  "category": "religious",
+                  "coords": [
+                        21.124543,
+                        51.41638
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Bolesnej",
+                  "text": "Die Kościół pw. Matki Bożej Bolesnej steht als kontemplative religiöse Stätte in Radom, Polen. Bekannt für ihre feierliche Atmosphäre, lädt die Kirche zu tiefer Reflexion ein. Vorbeikommende Touristen können ihre unaufdringliche spirituelle Präsenz leicht schätzen.",
+                  "category": "religious",
+                  "coords": [
+                        21.151107,
+                        51.414758
+                  ]
+            },
+            {
+                  "name": "Karszówka",
+                  "text": "Historisches Anwesen in Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.135932,
+                        51.397349
+                  ]
+            },
+            {
+                  "name": "Centrum Wsi Mleczków",
+                  "text": "Ein ruhiger See in Radom, der sich für entspannte Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        21.056232,
+                        51.428418
+                  ]
+            },
+            {
+                  "name": "Polder Zalewowy na Potoku Północnym",
+                  "text": "Ein lokales Gewässer in Radom, das eine schöne Kulisse für Spaziergänger bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.182413,
+                        51.405776
+                  ]
+            },
+            {
+                  "name": "Kraina Marzeń",
+                  "text": "Ein Spielbereich für Kinder in Radom, der zum Entdecken und Spielen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        21.135352,
+                        51.395897
+                  ]
+            },
+            {
+                  "name": "Trampoliny",
+                  "text": "Ein Bereich mit Trampolinen in Radom, der aktiven Spaß für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.114273,
+                        51.393804
+                  ]
+            },
+            {
+                  "name": "MOSiR Basen Delfin",
+                  "text": "Ein lokales Hallenbad in Radom, das Möglichkeiten für Schwimmtraining und Freizeitgestaltung bietet.",
+                  "category": "family",
+                  "coords": [
+                        21.158329,
+                        51.431283
+                  ]
+            },
+            {
+                  "name": "Aqua Aerobic",
+                  "text": "Diese Schwimmeinrichtung in Radom bietet Wasserbecken für Fitness und sportliche Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        21.165094,
+                        51.405772
+                  ]
+            },
+            {
+                  "name": "Wojskowy Ośrodek Szkolenia Sportowego „Delta”",
+                  "text": "Ein Sportzentrum in Radom mit Schwimmbecken, das für Training und Erholung genutzt wird.",
+                  "category": "family",
+                  "coords": [
+                        21.199108,
+                        51.39607
+                  ]
+            },
+            {
+                  "name": "Aquapark Neptun",
+                  "text": "Ein Aquapark in Radom mit verschiedenen Wasserattraktionen und Becken für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        21.172008,
+                        51.376174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Borki",
+                  "text": "Borki fürdőhely Radomban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117845,
+                        51.392829
+                  ]
+            },
+            {
+                  "name": "Muzeum im. Jacka Malczewskiego",
+                  "text": "Művészeti és történeti múzeum Radomban.",
+                  "category": "museum",
+                  "coords": [
+                        21.142147,
+                        51.402617
+                  ]
+            },
+            {
+                  "name": "Zamek królewski",
+                  "text": "Történelmi kastély Radomban.",
+                  "category": "castle",
+                  "coords": [
+                        21.144058,
+                        51.401769
+                  ]
+            },
+            {
+                  "name": "Pałac Karschów",
+                  "text": "Történelmi palota Radomban.",
+                  "category": "castle",
+                  "coords": [
+                        21.152417,
+                        51.400898
+                  ]
+            },
+            {
+                  "name": "Pałacyk Towarzystwa Kredytowego Ziemskiego",
+                  "text": "A pompás Pałacyk Towarzystwa Kredytowego Ziemskiego épület egy történelmi kastély a lengyelországi Radomban. A lenyűgöző építészet azonnal vonzza a kultúra iránt érdeklődők tekintetét. A látogatókat a város múltbeli történelmének bájos tanúja várja.",
+                  "category": "castle",
+                  "coords": [
+                        21.15434,
+                        51.401635
+                  ]
+            },
+            {
+                  "name": "Pałacyk Balińskich-Hemplów",
+                  "text": "Aki Radomba látogat, ne hagyja figyelmen kívül a történelmi Pałacyk Balińskich-Hemplów kastélyt. Ez a lengyelországi épület a város nemes múltját képviseli. A homlokzat és a birtok révén a vendégek elmerülhetnek Radom lenyűgöző történelmében.",
+                  "category": "castle",
+                  "coords": [
+                        21.156046,
+                        51.400548
+                  ]
+            },
+            {
+                  "name": "Willa Kulczyckiego",
+                  "text": "Történelmi villa Radomban.",
+                  "category": "castle",
+                  "coords": [
+                        21.153486,
+                        51.399066
+                  ]
+            },
+            {
+                  "name": "Gmach Komisji Województwa Sandomierskiego",
+                  "text": "A történelmi Gmach Komisji Województwa Sandomierskiego egy lenyűgöző építészeti látványosság Radom városában. A lengyel városba látogatók megcsodálhatják ennek az egykori közigazgatási épületnek a nagyszerű külsejét. Jelentős helyi nevezetességként szolgál, amely a régió örökségét tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        21.157991,
+                        51.401209
+                  ]
+            },
+            {
+                  "name": "Pomnik Pomordowanych Pracowników Fabryki Broni w Radomiu",
+                  "text": "Emlékmű Radomban.",
+                  "category": "historical",
+                  "coords": [
+                        21.147935,
+                        51.389347
+                  ]
+            },
+            {
+                  "name": "Mauzoleum Dionizego Czachowskiego",
+                  "text": "Mauzóleum Radomban.",
+                  "category": "historical",
+                  "coords": [
+                        21.149914,
+                        51.405384
+                  ]
+            },
+            {
+                  "name": "Pomnik 72 Pułku Piechoty w Radomiu",
+                  "text": "Emlékmű Radomban.",
+                  "category": "historical",
+                  "coords": [
+                        21.151668,
+                        51.405943
+                  ]
+            },
+            {
+                  "name": "Ośrodek Kultury i Sztuki \"Resursa Obywatelska\"",
+                  "text": "Kulturális központ Radomban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.150403,
+                        51.404262
+                  ]
+            },
+            {
+                  "name": "Mazowieckie Centrum Sztuki Współczesnej 'Elektrownia'",
+                  "text": "Kortárs művészeti központ Radomban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.149747,
+                        51.398051
+                  ]
+            },
+            {
+                  "name": "Bazylika Świętego Kazimierza Królewicza",
+                  "text": "Bazilika Radomban.",
+                  "category": "religious",
+                  "coords": [
+                        21.124574,
+                        51.404271
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Przenajświętszej",
+                  "text": "A Kościół pw. Trójcy Przenajświętszej egy vallási szentély Radom városában. Ez a lengyel templom csendes teret kínál az elmélkedésre és a spirituális elmélyülésre. A vendégek felfedezhetik békés belső terét és megismerhetik a helyi közösségben betöltött szerepét.",
+                  "category": "religious",
+                  "coords": [
+                        21.14725,
+                        51.402963
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Rodziny",
+                  "text": "A Lengyelországban található Kościół pw. Świętej Rodziny aktív istentiszteleti helyként szolgál Radomon belül. A templom egyaránt várja a plébánia tagjait és az utazókat, akik egy pillanatnyi békére vágynak. Az épület a város vallási tájképének fontos része marad.",
+                  "category": "religious",
+                  "coords": [
+                        21.160801,
+                        51.403357
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Jezusa",
+                  "text": "A Szent Szívnek szentelt Kościół pw. Najświętszego Serca Jezusa egy figyelemre méltó templom Radomban. A belépő látogatókat a tisztelet és az áhítat atmoszférája fogadja. A helyi lengyel közösség kitartó hitének bizonyítékaként áll.",
+                  "category": "religious",
+                  "coords": [
+                        21.17551,
+                        51.387445
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Nauczyciela",
+                  "text": "A nyüzsgő Radom városában található Kościół pw. Chrystusa Nauczyciela a vallási élet központjaként működik. Ez a szentély meghívja a Lengyelországon áthaladókat, hogy megtapasztalják nyugodt környezetét. A résztvevők megfigyelhetik a régióra jellemző sajátos egyházi kialakítást.",
+                  "category": "religious",
+                  "coords": [
+                        21.144655,
+                        51.394601
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Królowej Apostołów",
+                  "text": "A Kościół pw. Królowej Apostołów egy hívogató vallási helyszín, amely a lengyelországi Radomban épült. Ennek a templomnak a felfedezése lehetővé teszi a látogatók számára, hogy eltávolodjanak a nyüzsgő városi utcáktól. Sokatmondó helyszínt biztosít az imádkozáshoz és a közösségi összejövetelekhez.",
+                  "category": "religious",
+                  "coords": [
+                        21.15062,
+                        51.379633
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "Ez a történelmi templom Radom szerves része. A Kościół pw. Świętej Katarzyny Aleksandryjskiej büszkén áll vallási műemlékként Lengyelországban. A szent terek iránt érdeklődők inspirálónak és nyugtatónak fogják találni a jelenlétét.",
+                  "category": "religious",
+                  "coords": [
+                        21.147595,
+                        51.401521
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Częstochowskiej",
+                  "text": "Az erős spirituális örökséget képviselő Kościół pw. Matki Bożej Częstochowskiej egy istentiszteleti hely Radomban. A lengyel közösség itt gyűlik össze vallási hagyományaik ápolása céljából. Nyugodt menedéket nyújt mindazoknak, akik a környező városi területre látogatnak.",
+                  "category": "religious",
+                  "coords": [
+                        21.132517,
+                        51.410945
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Teresy od Dzieciątka Jezus",
+                  "text": "A Radomnak csendes bájt kölcsönző Kościół pw. Świętej Teresy od Dzieciątka Jezus egy dedikált templomként működik. A Lengyelország ezen részén átutazók gyakran megállnak itt, hogy élvezzék a nyugodt légkört. A szentély rendszeres istentiszteletekkel és magánimára alkalmas térrel szolgálja gyülekezetét.",
+                  "category": "religious",
+                  "coords": [
+                        21.12878,
+                        51.388868
+                  ]
+            },
+            {
+                  "name": "Katedra Opieki Najświętszej Maryi Panny",
+                  "text": "Katedrális Radomban.",
+                  "category": "religious",
+                  "coords": [
+                        21.156333,
+                        51.397049
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "A Kościół Ewangelicko-Augsburski rávilágít Radom vallási sokszínűségére. Ez az evangélikus templom különleges spirituális környezetet biztosít Lengyelország szívében. A látogatók felfedezhetik a helyi protestáns közösség hagyományait, miközben elmerülnek a nyugodt környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        21.145372,
+                        51.403214
+                  ]
+            },
+            {
+                  "name": "Dom Jacka Malczewskiego",
+                  "text": "A fontos történelmi nevezetességként elismert Dom Jacka Malczewskiego Radomban található. Ez a lengyel helyszín bepillantást enged a regionális kultúrába és örökségbe. A turisták gyakran megállnak, hogy megtekintsék ennek a jól karbantartott épületnek a külsejét.",
+                  "category": "landmark",
+                  "coords": [
+                        21.14869,
+                        51.403282
+                  ]
+            },
+            {
+                  "name": "Dom Esterki",
+                  "text": "A Dom Esterki egy lenyűgöző történelmi nevezetesség, amely Radom utcáin található. A lengyel városon áthaladva a városnézők könnyen észrevehetik az épület hagyományos építészetét. A helyi történelem és a történelmi események büszke szimbóluma marad.",
+                  "category": "landmark",
+                  "coords": [
+                        21.142046,
+                        51.403566
+                  ]
+            },
+            {
+                  "name": "Wieża ciśnień na Glinicach 1927",
+                  "text": "Ipari műemlék Radomban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.173591,
+                        51.387632
+                  ]
+            },
+            {
+                  "name": "Nowy Ratusz",
+                  "text": "Reprezentatív városháza Radomban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.143124,
+                        51.403358
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wacława",
+                  "text": "Történelmi templom Radomban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.135843,
+                        51.400895
+                  ]
+            },
+            {
+                  "name": "Park im. Tadeusza Kościuszki",
+                  "text": "Zöld pihenőhely Radom központjában.",
+                  "category": "park",
+                  "coords": [
+                        21.158722,
+                        51.398823
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Rafała Kalinowskiego",
+                  "text": "A Radom városában megbújó Kościół pw. Świętego Rafała Kalinowskiego egy elismert vallási intézmény. Ez az istentiszteleti hely hozzájárul Lengyelország spirituális életéhez. Az élet minden területéről érkező embereket szívesen látja csendes gondolkodásra és áhítatra.",
+                  "category": "religious",
+                  "coords": [
+                        21.161006,
+                        51.383156
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Miłosierdzia",
+                  "text": "A Radomban található Kościół pw. Matki Bożej Miłosierdzia a helyi hívők támaszaként szolgál. A látogatók felfedezhetik e lengyel templom belső harmonikus környezetét. Kiváló megálló mindazok számára, akik a vallási örökséget szeretnék megtapasztalni.",
+                  "category": "religious",
+                  "coords": [
+                        21.161,
+                        51.407376
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Świata",
+                  "text": "A Kościół pw. Matki Bożej Królowej Świata gazdagítja Radom vallási szövetét. Ez a templom a hit horgonyaként áll Lengyelország ezen részén. Területének felfedezése békés közjátékot nyújt egy városnézés során.",
+                  "category": "religious",
+                  "coords": [
+                        21.17299,
+                        51.40455
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Urszuli Ledóchowskiej",
+                  "text": "A Kościół pw. Świętej Urszuli Ledóchowskiej hívogató kapui nyitva állnak Radom városában. Ez a lengyel vallási helyszín őrzi védőszentjeinek szent hagyományait. Békés szentélyként szolgál a hívők és az érdeklődő vendégek számára egyaránt.",
+                  "category": "religious",
+                  "coords": [
+                        21.181011,
+                        51.392167
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla",
+                  "text": "A Kościół pw. Chrystusa Króla egy jelentős istentiszteleti hely, amely a lengyelországi Radomban található. Az emberek összegyűlnek ebben a templomban, hogy csendes környezetben ünnepeljék hitüket. Jelenléte különleges spirituális karaktert kölcsönöz a helyi környéknek.",
+                  "category": "religious",
+                  "coords": [
+                        21.180532,
+                        51.414788
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Piotra Apostoła",
+                  "text": "Radom szívében a Kościół pw. Świętego Piotra Apostoła képviseli a helyi vallási közösséget. A Lengyelországban turnézó látogatók spirituális vigaszra lelhetnek ebben a dedikált templomban. Az épület a keresztény áhítat jól karbantartott bizonyítéka.",
+                  "category": "religious",
+                  "coords": [
+                        21.173638,
+                        51.418478
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "A tisztelt Hedvig királynőnek szentelt templom spirituális menedéket nyújt Radomban. A Kościół pw. Świętej Jadwigi Królowej hívogató megálló a vallási megfigyeléshez Lengyelországban. Építészete és nyugodt légköre teret enged a látogatóknak az elmélkedésre.",
+                  "category": "religious",
+                  "coords": [
+                        21.165487,
+                        51.421767
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "A Szent Keresztre összpontosító Kościół pw. Świętego Krzyża egy kiemelkedő vallási épület Radomban. A lengyelországi hívők és látogatók gyakran értékelik a templom nyugodt hangulatát. Rendszeres istentiszteletek és imák fontos találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        21.109779,
+                        51.390494
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny",
+                  "text": "A mélységes tiszteletet tükröző Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny a radomi híveket szolgálja. Ez a lengyel templom szent menedéket kínál a nyüzsgő városi elől. Csendes terei határozzák meg, amelyek belső békét inspirálnak.",
+                  "category": "religious",
+                  "coords": [
+                        21.104125,
+                        51.404636
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zesłania Ducha Świętego",
+                  "text": "A Szentlélek eljövetelének szentelt templom nagy jelentőséggel bír Radomban. A Kościół pw. Zesłania Ducha Świętego folyamatos spirituális útmutatással támogatja a helyi lengyel lakosságot. A vendégek tiszteletteljesen megfigyelhetik a mindennapi vallási gyakorlatait.",
+                  "category": "religious",
+                  "coords": [
+                        21.124543,
+                        51.41638
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Bolesnej",
+                  "text": "A Kościół pw. Matki Bożej Bolesnej egy kontemplatív vallási helyszínként áll a lengyelországi Radomban. Az ünnepélyes légköréről ismert templom mély elmélkedésre hív. Az elhaladó városnézők könnyen értékelhetik visszafogott spirituális jelenlétét.",
+                  "category": "religious",
+                  "coords": [
+                        21.151107,
+                        51.414758
+                  ]
+            },
+            {
+                  "name": "Karszówka",
+                  "text": "Történelmi ingatlan Radomban.",
+                  "category": "castle",
+                  "coords": [
+                        21.135932,
+                        51.397349
+                  ]
+            },
+            {
+                  "name": "Centrum Wsi Mleczków",
+                  "text": "Nyugodt tó Radom területén, amely alkalmas pihentető természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        21.056232,
+                        51.428418
+                  ]
+            },
+            {
+                  "name": "Polder Zalewowy na Potoku Północnym",
+                  "text": "Helyi vízfelület Radomban, amely szép környezetet biztosít a sétálóknak.",
+                  "category": "natural",
+                  "coords": [
+                        21.182413,
+                        51.405776
+                  ]
+            },
+            {
+                  "name": "Kraina Marzeń",
+                  "text": "Gyermekjátszóhely Radomban, amely felfedezésre és játékra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        21.135352,
+                        51.395897
+                  ]
+            },
+            {
+                  "name": "Trampoliny",
+                  "text": "Trambulinos terület Radomban, amely aktív szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        21.114273,
+                        51.393804
+                  ]
+            },
+            {
+                  "name": "MOSiR Basen Delfin",
+                  "text": "Helyi fedett uszoda Radomban, amely úszóedzésekre és szabadidős tevékenységekre kínál lehetőséget.",
+                  "category": "family",
+                  "coords": [
+                        21.158329,
+                        51.431283
+                  ]
+            },
+            {
+                  "name": "Aqua Aerobic",
+                  "text": "Ez a radomi úszólétesítmény medencéket kínál fitneszhez és sporttevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        21.165094,
+                        51.405772
+                  ]
+            },
+            {
+                  "name": "Wojskowy Ośrodek Szkolenia Sportowego „Delta”",
+                  "text": "Radomi sportközpont úszómedencével, amelyet edzésre és kikapcsolódásra használnak.",
+                  "category": "family",
+                  "coords": [
+                        21.199108,
+                        51.39607
+                  ]
+            },
+            {
+                  "name": "Aquapark Neptun",
+                  "text": "Radomi aquapark különféle vízi élményekkel és medencékkel az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        21.172008,
+                        51.376174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Borki",
+                  "text": "Zona de scăldat Borki în Radom.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117845,
+                        51.392829
+                  ]
+            },
+            {
+                  "name": "Muzeum im. Jacka Malczewskiego",
+                  "text": "Muzeu de artă și istorie în Radom.",
+                  "category": "museum",
+                  "coords": [
+                        21.142147,
+                        51.402617
+                  ]
+            },
+            {
+                  "name": "Zamek królewski",
+                  "text": "Castel istoric în Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.144058,
+                        51.401769
+                  ]
+            },
+            {
+                  "name": "Pałac Karschów",
+                  "text": "Palat istoric în Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.152417,
+                        51.400898
+                  ]
+            },
+            {
+                  "name": "Pałacyk Towarzystwa Kredytowego Ziemskiego",
+                  "text": "Magnifica clădire Pałacyk Towarzystwa Kredytowego Ziemskiego este un castel istoric din Radom, Polonia. Arhitectura impresionantă atrage imediat atenția celor interesați de cultură. Oaspeții sunt așteptați de o mărturie fermecătoare a istoriei trecute a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        21.15434,
+                        51.401635
+                  ]
+            },
+            {
+                  "name": "Pałacyk Balińskich-Hemplów",
+                  "text": "Cine vizitează Radom nu ar trebui să treacă cu vederea castelul istoric Pałacyk Balińskich-Hemplów. Această clădire din Polonia reprezintă trecutul nobil al orașului. Fațada și proprietatea permit oaspeților să se cufunde în istoria fascinantă a orașului Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.156046,
+                        51.400548
+                  ]
+            },
+            {
+                  "name": "Willa Kulczyckiego",
+                  "text": "Vilă istorică în Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.153486,
+                        51.399066
+                  ]
+            },
+            {
+                  "name": "Gmach Komisji Województwa Sandomierskiego",
+                  "text": "Istoricul Gmach Komisji Województwa Sandomierskiego reprezintă un element arhitectural impresionant în Radom. Vizitatorii acestui oraș polonez pot admira exteriorul grandios al acestei foste clădiri administrative. Slujind ca un reper proeminent, clădirea reflectă patrimoniul regional.",
+                  "category": "castle",
+                  "coords": [
+                        21.157991,
+                        51.401209
+                  ]
+            },
+            {
+                  "name": "Pomnik Pomordowanych Pracowników Fabryki Broni w Radomiu",
+                  "text": "Monument în Radom.",
+                  "category": "historical",
+                  "coords": [
+                        21.147935,
+                        51.389347
+                  ]
+            },
+            {
+                  "name": "Mauzoleum Dionizego Czachowskiego",
+                  "text": "Mausoleu în Radom.",
+                  "category": "historical",
+                  "coords": [
+                        21.149914,
+                        51.405384
+                  ]
+            },
+            {
+                  "name": "Pomnik 72 Pułku Piechoty w Radomiu",
+                  "text": "Monument în Radom.",
+                  "category": "historical",
+                  "coords": [
+                        21.151668,
+                        51.405943
+                  ]
+            },
+            {
+                  "name": "Ośrodek Kultury i Sztuki \"Resursa Obywatelska\"",
+                  "text": "Centru cultural în Radom.",
+                  "category": "cultural",
+                  "coords": [
+                        21.150403,
+                        51.404262
+                  ]
+            },
+            {
+                  "name": "Mazowieckie Centrum Sztuki Współczesnej 'Elektrownia'",
+                  "text": "Centru de artă contemporană în Radom.",
+                  "category": "cultural",
+                  "coords": [
+                        21.149747,
+                        51.398051
+                  ]
+            },
+            {
+                  "name": "Bazylika Świętego Kazimierza Królewicza",
+                  "text": "Basilica în Radom.",
+                  "category": "religious",
+                  "coords": [
+                        21.124574,
+                        51.404271
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Przenajświętszej",
+                  "text": "Kościół pw. Trójcy Przenajświętszej este un sanctuar religios situat în orașul Radom. Această biserică poloneză oferă un spațiu liniștit pentru contemplare și reflecție spirituală. Oaspeții pot explora interiorul său pașnic și pot aprecia rolul ei în comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        21.14725,
+                        51.402963
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Rodziny",
+                  "text": "Situată în Polonia, Kościół pw. Świętej Rodziny servește ca lăcaș de cult activ în Radom. Biserica primește atât enoriașii, cât și călătorii care caută un moment de liniște. Structura sa rămâne o parte importantă a peisajului religios al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        21.160801,
+                        51.403357
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Jezusa",
+                  "text": "Dedicată Inimii Sacre, Kościół pw. Najświętszego Serca Jezusa este o biserică notabilă aflată în Radom. Vizitatorii sunt întâmpinați de o atmosferă de reverență și devotament la intrare. Ea reprezintă o mărturie a credinței de neclintit a comunității poloneze locale.",
+                  "category": "religious",
+                  "coords": [
+                        21.17551,
+                        51.387445
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Nauczyciela",
+                  "text": "Situată în orașul vibrant Radom, Kościół pw. Chrystusa Nauczyciela funcționează ca un centru al vieții religioase. Acest sanctuar invită trecătorii prin Polonia să experimenteze mediul său senin. Participanții pot observa designul ecleziastic distinctiv al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        21.144655,
+                        51.394601
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Królowej Apostołów",
+                  "text": "Kościół pw. Królowej Apostołów este un sit religios primitor din Radom, Polonia. Explorarea acestei biserici permite vizitatorilor să se îndepărteze de străzile aglomerate ale orașului. Aceasta oferă un cadru plin de sens pentru rugăciune și adunări comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        21.15062,
+                        51.379633
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "Această biserică istorică este o parte integrantă a orașului Radom. Kościół pw. Świętej Katarzyny Aleksandryjskiej se înalță cu mândrie ca un monument religios în Polonia. Oricine este interesat de spațiile sacre va găsi prezența ei inspiratoare și liniștită.",
+                  "category": "religious",
+                  "coords": [
+                        21.147595,
+                        51.401521
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Częstochowskiej",
+                  "text": "Reprezentând o moștenire spirituală puternică, Kościół pw. Matki Bożej Częstochowskiej este un lăcaș de cult în Radom. Comunitatea poloneză se adună aici pentru a-și păstra tradițiile religioase. Aceasta oferă un refugiu calm pentru toți cei care vizitează zona urbană înconjurătoare.",
+                  "category": "religious",
+                  "coords": [
+                        21.132517,
+                        51.410945
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Teresy od Dzieciątka Jezus",
+                  "text": "Aducând un farmec liniștit orașului Radom, Kościół pw. Świętej Teresy od Dzieciątka Jezus funcționează ca o biserică dedicată. Călătorii prin această parte a Poloniei se opresc adesea aici pentru a aprecia atmosfera sa calmă. Sanctuarul își servește congregația cu slujbe regulate și un spațiu pentru rugăciunea privată.",
+                  "category": "religious",
+                  "coords": [
+                        21.12878,
+                        51.388868
+                  ]
+            },
+            {
+                  "name": "Katedra Opieki Najświętszej Maryi Panny",
+                  "text": "Catedrală în Radom.",
+                  "category": "religious",
+                  "coords": [
+                        21.156333,
+                        51.397049
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "Kościół Ewangelicko-Augsburski evidențiază diversitatea religioasă din Radom. Această biserică evanghelică oferă un cadru spiritual distinct în inima Poloniei. Vizitatorii pot explora tradițiile comunității protestante locale în timp ce se bucură de împrejurimile senine.",
+                  "category": "religious",
+                  "coords": [
+                        21.145372,
+                        51.403214
+                  ]
+            },
+            {
+                  "name": "Dom Jacka Malczewskiego",
+                  "text": "Recunoscut ca un reper istoric important, Dom Jacka Malczewskiego este situat în Radom. Acest sit polonez oferă o privire asupra culturii și patrimoniului regional. Turiștii se opresc frecvent pentru a vedea exteriorul acestei clădiri bine conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        21.14869,
+                        51.403282
+                  ]
+            },
+            {
+                  "name": "Dom Esterki",
+                  "text": "Dom Esterki este un reper istoric fascinant aflat pe străzile din Radom. Trecând prin acest oraș polonez, turiștii pot observa cu ușurință arhitectura tradițională a clădirii. Rămâne un simbol mândru al istoriei locale și al evenimentelor istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        21.142046,
+                        51.403566
+                  ]
+            },
+            {
+                  "name": "Wieża ciśnień na Glinicach 1927",
+                  "text": "Monument industrial în Radom.",
+                  "category": "landmark",
+                  "coords": [
+                        21.173591,
+                        51.387632
+                  ]
+            },
+            {
+                  "name": "Nowy Ratusz",
+                  "text": "Primărie reprezentativă în Radom.",
+                  "category": "landmark",
+                  "coords": [
+                        21.143124,
+                        51.403358
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wacława",
+                  "text": "Biserică istorică în Radom.",
+                  "category": "landmark",
+                  "coords": [
+                        21.135843,
+                        51.400895
+                  ]
+            },
+            {
+                  "name": "Park im. Tadeusza Kościuszki",
+                  "text": "Spațiu verde de relaxare în centrul orașului Radom.",
+                  "category": "park",
+                  "coords": [
+                        21.158722,
+                        51.398823
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Rafała Kalinowskiego",
+                  "text": "Amplasată în orașul Radom, Kościół pw. Świętego Rafała Kalinowskiego este o instituție religioasă respectată. Acest lăcaș de cult contribuie la viața spirituală a Poloniei. Primește oameni din toate categoriile sociale pentru gândire tăcută și devotament.",
+                  "category": "religious",
+                  "coords": [
+                        21.161006,
+                        51.383156
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Miłosierdzia",
+                  "text": "Aflată în Radom, Kościół pw. Matki Bożej Miłosierdzia acționează ca un stâlp pentru credincioșii locali. Vizitatorii pot descoperi mediul armonios din interiorul acestei biserici poloneze. Este o oprire excelentă pentru oricine caută o experiență a patrimoniului religios.",
+                  "category": "religious",
+                  "coords": [
+                        21.161,
+                        51.407376
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Świata",
+                  "text": "Kościół pw. Matki Bożej Królowej Świata îmbogățește țesutul religios din Radom. Această biserică reprezintă o ancoră a credinței în această parte a Poloniei. Explorarea curții sale oferă un interludiu liniștit în timpul unui tur de oraș.",
+                  "category": "religious",
+                  "coords": [
+                        21.17299,
+                        51.40455
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Urszuli Ledóchowskiej",
+                  "text": "Ușile primitoare ale Kościół pw. Świętej Urszuli Ledóchowskiej sunt deschise în orașul Radom. Acest sit religios polonez păstrează tradițiile sacre ale patronilor săi. Acesta acționează ca un sanctuar senin pentru credincioși și oaspeți curioși deopotrivă.",
+                  "category": "religious",
+                  "coords": [
+                        21.181011,
+                        51.392167
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla",
+                  "text": "Kościół pw. Chrystusa Króla este un lăcaș de cult remarcabil situat în Radom, Polonia. Oamenii se adună la această biserică pentru a-și sărbători credința într-un mediu liniștit. Prezența sa adaugă un caracter spiritual distinct cartierului local.",
+                  "category": "religious",
+                  "coords": [
+                        21.180532,
+                        51.414788
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Piotra Apostoła",
+                  "text": "În inima orașului Radom, Kościół pw. Świętego Piotra Apostoła reprezintă comunitatea religioasă locală. Vizitatorii care fac turul Poloniei pot găsi consolare spirituală în interiorul acestei biserici dedicate. Clădirea este o mărturie bine întreținută a devotamentului creștin.",
+                  "category": "religious",
+                  "coords": [
+                        21.173638,
+                        51.418478
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "Dedicată stimatei Regine Jadwiga, această biserică oferă un refugiu spiritual în Radom. Kościół pw. Świętej Jadwigi Królowej este o oprire primitoare pentru observația religioasă în Polonia. Arhitectura sa și atmosfera senină oferă vizitatorilor spațiu de reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        21.165487,
+                        51.421767
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "Concentrându-se pe Sfânta Cruce, Kościół pw. Świętego Krzyża este o clădire religioasă proeminentă în Radom. Credincioșii și vizitatorii din Polonia apreciază frecvent ambianța calmă a acestei biserici. Este un loc de adunare vital pentru slujbe regulate și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        21.109779,
+                        51.390494
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny",
+                  "text": "Reflectând o reverență profundă, Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny îi slujește pe credincioșii din Radom. Această biserică poloneză oferă un refugiu sacru din viața aglomerată a orașului. Se definește prin spațiile sale liniștite care inspiră pace interioară.",
+                  "category": "religious",
+                  "coords": [
+                        21.104125,
+                        51.404636
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zesłania Ducha Świętego",
+                  "text": "Dedicată Pogorârii Sfântului Duh, această biserică are o mare importanță în Radom. Kościół pw. Zesłania Ducha Świętego sprijină populația poloneză locală cu îndrumare spirituală continuă. Oaspeții pot observa cu respect practicile sale religioase zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        21.124543,
+                        51.41638
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Bolesnej",
+                  "text": "Kościół pw. Matki Bożej Bolesnej reprezintă un sit religios contemplativ în Radom, Polonia. Cunoscută pentru atmosfera sa solemnă, biserica invită la o reflecție profundă. Turiștii aflați în trecere pot aprecia cu ușurință prezența sa spirituală discretă.",
+                  "category": "religious",
+                  "coords": [
+                        21.151107,
+                        51.414758
+                  ]
+            },
+            {
+                  "name": "Karszówka",
+                  "text": "Proprietate istorică în Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.135932,
+                        51.397349
+                  ]
+            },
+            {
+                  "name": "Centrum Wsi Mleczków",
+                  "text": "Un lac liniștit în Radom, potrivit pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        21.056232,
+                        51.428418
+                  ]
+            },
+            {
+                  "name": "Polder Zalewowy na Potoku Północnym",
+                  "text": "O zonă cu apă locală în Radom, care oferă un cadru frumos pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        21.182413,
+                        51.405776
+                  ]
+            },
+            {
+                  "name": "Kraina Marzeń",
+                  "text": "O zonă de joacă pentru copii în Radom, care invită la explorare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        21.135352,
+                        51.395897
+                  ]
+            },
+            {
+                  "name": "Trampoliny",
+                  "text": "O zonă cu trambuline în Radom, care oferă distracție activă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.114273,
+                        51.393804
+                  ]
+            },
+            {
+                  "name": "MOSiR Basen Delfin",
+                  "text": "O piscină interioară locală din Radom, care oferă facilități pentru antrenament de înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        21.158329,
+                        51.431283
+                  ]
+            },
+            {
+                  "name": "Aqua Aerobic",
+                  "text": "Această unitate de înot din Radom oferă bazine pentru fitness și activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        21.165094,
+                        51.405772
+                  ]
+            },
+            {
+                  "name": "Wojskowy Ośrodek Szkolenia Sportowego „Delta”",
+                  "text": "Un centru sportiv din Radom cu piscină, utilizat pentru antrenament și recreere.",
+                  "category": "family",
+                  "coords": [
+                        21.199108,
+                        51.39607
+                  ]
+            },
+            {
+                  "name": "Aquapark Neptun",
+                  "text": "Un aquapark în Radom cu diverse atracții acvatice și bazine pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        21.172008,
+                        51.376174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Borki",
+                  "text": "Bathing area Borki in Radom.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117845,
+                        51.392829
+                  ]
+            },
+            {
+                  "name": "Muzeum im. Jacka Malczewskiego",
+                  "text": "Museum of art and history in Radom.",
+                  "category": "museum",
+                  "coords": [
+                        21.142147,
+                        51.402617
+                  ]
+            },
+            {
+                  "name": "Zamek królewski",
+                  "text": "Historic castle in Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.144058,
+                        51.401769
+                  ]
+            },
+            {
+                  "name": "Pałac Karschów",
+                  "text": "Historic palace in Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.152417,
+                        51.400898
+                  ]
+            },
+            {
+                  "name": "Pałacyk Towarzystwa Kredytowego Ziemskiego",
+                  "text": "The magnificent building Pałacyk Towarzystwa Kredytowego Ziemskiego is a historical castle in Radom, Poland. The impressive architecture immediately catches the eye of those interested in culture. Visitors can expect a charming testament to the city's past history.",
+                  "category": "castle",
+                  "coords": [
+                        21.15434,
+                        51.401635
+                  ]
+            },
+            {
+                  "name": "Pałacyk Balińskich-Hemplów",
+                  "text": "Anyone visiting Radom should not overlook the historical castle Pałacyk Balińskich-Hemplów. This building from Poland represents the noble past of the city. The facade and the estate allow guests to immerse themselves in the fascinating history of Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.156046,
+                        51.400548
+                  ]
+            },
+            {
+                  "name": "Willa Kulczyckiego",
+                  "text": "Historic villa in Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.153486,
+                        51.399066
+                  ]
+            },
+            {
+                  "name": "Gmach Komisji Województwa Sandomierskiego",
+                  "text": "The historic Gmach Komisji Województwa Sandomierskiego stands as an impressive architectural feature in Radom. Visitors to this Polish city can admire the grand exterior of this former administrative building. It serves as a prominent landmark reflecting the region's heritage.",
+                  "category": "castle",
+                  "coords": [
+                        21.157991,
+                        51.401209
+                  ]
+            },
+            {
+                  "name": "Pomnik Pomordowanych Pracowników Fabryki Broni w Radomiu",
+                  "text": "Monument in Radom.",
+                  "category": "historical",
+                  "coords": [
+                        21.147935,
+                        51.389347
+                  ]
+            },
+            {
+                  "name": "Mauzoleum Dionizego Czachowskiego",
+                  "text": "Mausoleum in Radom.",
+                  "category": "historical",
+                  "coords": [
+                        21.149914,
+                        51.405384
+                  ]
+            },
+            {
+                  "name": "Pomnik 72 Pułku Piechoty w Radomiu",
+                  "text": "Monument in Radom.",
+                  "category": "historical",
+                  "coords": [
+                        21.151668,
+                        51.405943
+                  ]
+            },
+            {
+                  "name": "Ośrodek Kultury i Sztuki \"Resursa Obywatelska\"",
+                  "text": "Cultural centre in Radom.",
+                  "category": "cultural",
+                  "coords": [
+                        21.150403,
+                        51.404262
+                  ]
+            },
+            {
+                  "name": "Mazowieckie Centrum Sztuki Współczesnej 'Elektrownia'",
+                  "text": "Centre for contemporary art in Radom.",
+                  "category": "cultural",
+                  "coords": [
+                        21.149747,
+                        51.398051
+                  ]
+            },
+            {
+                  "name": "Bazylika Świętego Kazimierza Królewicza",
+                  "text": "Basilica in Radom.",
+                  "category": "religious",
+                  "coords": [
+                        21.124574,
+                        51.404271
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Przenajświętszej",
+                  "text": "Kościół pw. Trójcy Przenajświętszej is a religious sanctuary situated in the city of Radom. This Polish church offers a quiet space for contemplation and spiritual reflection. Guests can explore its peaceful interior and appreciate its role in the local community.",
+                  "category": "religious",
+                  "coords": [
+                        21.14725,
+                        51.402963
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Rodziny",
+                  "text": "Situated in Poland, Kościół pw. Świętej Rodziny serves as an active place of worship within Radom. The church welcomes both parishioners and travelers looking for a moment of peace. Its structure remains an important part of the city's religious landscape.",
+                  "category": "religious",
+                  "coords": [
+                        21.160801,
+                        51.403357
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Jezusa",
+                  "text": "Dedicated to the Sacred Heart, Kościół pw. Najświętszego Serca Jezusa is a notable church found in Radom. Visitors are greeted by an atmosphere of reverence and devotion upon entering. It stands as a testament to the enduring faith of the local Polish community.",
+                  "category": "religious",
+                  "coords": [
+                        21.17551,
+                        51.387445
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Nauczyciela",
+                  "text": "Located in the vibrant city of Radom, Kościół pw. Chrystusa Nauczyciela operates as a center for religious life. This sanctuary invites those passing through Poland to experience its serene environment. Attendees can observe the distinct ecclesiastical design native to the region.",
+                  "category": "religious",
+                  "coords": [
+                        21.144655,
+                        51.394601
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Królowej Apostołów",
+                  "text": "Kościół pw. Królowej Apostołów is a welcoming religious site established in Radom, Poland. Exploring this church allows visitors to step away from the bustling city streets. It provides a meaningful setting for prayer and community gathering.",
+                  "category": "religious",
+                  "coords": [
+                        21.15062,
+                        51.379633
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "This historic church is an integral part of Radom. Kościół pw. Świętej Katarzyny Aleksandryjskiej stands proudly as a religious monument in Poland. Anyone interested in sacred spaces will find its presence inspiring and tranquil.",
+                  "category": "religious",
+                  "coords": [
+                        21.147595,
+                        51.401521
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Częstochowskiej",
+                  "text": "Representing a strong spiritual heritage, Kościół pw. Matki Bożej Częstochowskiej is a place of worship in Radom. The Polish community gathers here to maintain their religious traditions. It offers a calm refuge for anyone visiting the surrounding urban area.",
+                  "category": "religious",
+                  "coords": [
+                        21.132517,
+                        51.410945
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Teresy od Dzieciątka Jezus",
+                  "text": "Bringing quiet charm to Radom, Kościół pw. Świętej Teresy od Dzieciątka Jezus operates as a dedicated church. Travelers through this part of Poland often pause here to appreciate its calm atmosphere. The sanctuary serves its congregation with regular services and a space for private prayer.",
+                  "category": "religious",
+                  "coords": [
+                        21.12878,
+                        51.388868
+                  ]
+            },
+            {
+                  "name": "Katedra Opieki Najświętszej Maryi Panny",
+                  "text": "Cathedral in Radom.",
+                  "category": "religious",
+                  "coords": [
+                        21.156333,
+                        51.397049
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "The Kościół Ewangelicko-Augsburski highlights the religious diversity within Radom. This Evangelical church provides a distinct spiritual setting in the heart of Poland. Visitors can explore the traditions of the local Protestant community while taking in the serene surroundings.",
+                  "category": "religious",
+                  "coords": [
+                        21.145372,
+                        51.403214
+                  ]
+            },
+            {
+                  "name": "Dom Jacka Malczewskiego",
+                  "text": "Recognized as an important historic landmark, Dom Jacka Malczewskiego is situated in Radom. This Polish site offers a glimpse into the regional culture and heritage. Tourists frequently stop by to view the exterior of this well-preserved building.",
+                  "category": "landmark",
+                  "coords": [
+                        21.14869,
+                        51.403282
+                  ]
+            },
+            {
+                  "name": "Dom Esterki",
+                  "text": "Dom Esterki is a fascinating historic landmark found on the streets of Radom. Passing through this Polish city, sightseers can easily spot the traditional architecture of the building. It remains a proud symbol of the local history and historical events.",
+                  "category": "landmark",
+                  "coords": [
+                        21.142046,
+                        51.403566
+                  ]
+            },
+            {
+                  "name": "Wieża ciśnień na Glinicach 1927",
+                  "text": "Industrial landmark in Radom.",
+                  "category": "landmark",
+                  "coords": [
+                        21.173591,
+                        51.387632
+                  ]
+            },
+            {
+                  "name": "Nowy Ratusz",
+                  "text": "Representative city hall in Radom.",
+                  "category": "landmark",
+                  "coords": [
+                        21.143124,
+                        51.403358
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wacława",
+                  "text": "Historic church in Radom.",
+                  "category": "landmark",
+                  "coords": [
+                        21.135843,
+                        51.400895
+                  ]
+            },
+            {
+                  "name": "Park im. Tadeusza Kościuszki",
+                  "text": "Green recreation area in the center of Radom.",
+                  "category": "park",
+                  "coords": [
+                        21.158722,
+                        51.398823
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Rafała Kalinowskiego",
+                  "text": "Nestled in the city of Radom, Kościół pw. Świętego Rafała Kalinowskiego is a respected religious institution. This place of worship contributes to the spiritual life of Poland. It welcomes people from all walks of life for silent thought and devotion.",
+                  "category": "religious",
+                  "coords": [
+                        21.161006,
+                        51.383156
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Miłosierdzia",
+                  "text": "Found in Radom, Kościół pw. Matki Bożej Miłosierdzia acts as a pillar for the local faithful. Visitors can discover the harmonious environment inside this Polish church. It is an excellent stop for anyone seeking an experience of religious heritage.",
+                  "category": "religious",
+                  "coords": [
+                        21.161,
+                        51.407376
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Świata",
+                  "text": "Kościół pw. Matki Bożej Królowej Świata enriches the religious fabric of Radom. This church stands as an anchor of faith in this part of Poland. Exploring its grounds provides a peaceful interlude during a city tour.",
+                  "category": "religious",
+                  "coords": [
+                        21.17299,
+                        51.40455
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Urszuli Ledóchowskiej",
+                  "text": "The welcoming doors of Kościół pw. Świętej Urszuli Ledóchowskiej are open in the city of Radom. This Polish religious site maintains the sacred traditions of its patrons. It acts as a serene sanctuary for believers and curious guests alike.",
+                  "category": "religious",
+                  "coords": [
+                        21.181011,
+                        51.392167
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla",
+                  "text": "Kościół pw. Chrystusa Króla is a notable place of worship located in Radom, Poland. People gather at this church to celebrate their faith in a quiet environment. Its presence adds distinct spiritual character to the local neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        21.180532,
+                        51.414788
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Piotra Apostoła",
+                  "text": "In the heart of Radom, Kościół pw. Świętego Piotra Apostoła represents the local religious community. Visitors touring Poland can find spiritual solace inside this dedicated church. The building is a well-maintained testament to Christian devotion.",
+                  "category": "religious",
+                  "coords": [
+                        21.173638,
+                        51.418478
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "Dedicated to the esteemed Queen Jadwiga, this church provides a spiritual haven in Radom. Kościół pw. Świętej Jadwigi Królowej is an inviting stop for religious observation in Poland. Its architecture and serene atmosphere give visitors space to reflect.",
+                  "category": "religious",
+                  "coords": [
+                        21.165487,
+                        51.421767
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "Focusing on the Holy Cross, Kościół pw. Świętego Krzyża is a prominent religious building in Radom. Believers and visitors in Poland frequently appreciate the calm ambiance of this church. It stands as a vital gathering place for regular services and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        21.109779,
+                        51.390494
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny",
+                  "text": "Reflecting profound reverence, Kościół pw. Bożego Macierzyństwa Najświętszej Maryi Panny serves the faithful in Radom. This Polish church offers a sacred retreat from the busy city life. It is defined by its quiet spaces that inspire inner peace.",
+                  "category": "religious",
+                  "coords": [
+                        21.104125,
+                        51.404636
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zesłania Ducha Świętego",
+                  "text": "Dedicated to the Descent of the Holy Spirit, this church holds great importance in Radom. Kościół pw. Zesłania Ducha Świętego supports the local Polish population with ongoing spiritual guidance. Guests can respectfully observe its daily religious practices.",
+                  "category": "religious",
+                  "coords": [
+                        21.124543,
+                        51.41638
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Bolesnej",
+                  "text": "Kościół pw. Matki Bożej Bolesnej stands as a contemplative religious site in Radom, Poland. Known for its solemn atmosphere, the church invites deep reflection. Passing sightseers can easily appreciate its understated spiritual presence.",
+                  "category": "religious",
+                  "coords": [
+                        21.151107,
+                        51.414758
+                  ]
+            },
+            {
+                  "name": "Karszówka",
+                  "text": "Historic estate in Radom.",
+                  "category": "castle",
+                  "coords": [
+                        21.135932,
+                        51.397349
+                  ]
+            },
+            {
+                  "name": "Centrum Wsi Mleczków",
+                  "text": "A quiet lake in Radom suitable for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.056232,
+                        51.428418
+                  ]
+            },
+            {
+                  "name": "Polder Zalewowy na Potoku Północnym",
+                  "text": "A local water area in Radom providing a nice backdrop for walkers.",
+                  "category": "natural",
+                  "coords": [
+                        21.182413,
+                        51.405776
+                  ]
+            },
+            {
+                  "name": "Kraina Marzeń",
+                  "text": "A play area for children in Radom that encourages exploration and play.",
+                  "category": "family",
+                  "coords": [
+                        21.135352,
+                        51.395897
+                  ]
+            },
+            {
+                  "name": "Trampoliny",
+                  "text": "An area with trampolines in Radom offering active fun for children.",
+                  "category": "family",
+                  "coords": [
+                        21.114273,
+                        51.393804
+                  ]
+            },
+            {
+                  "name": "MOSiR Basen Delfin",
+                  "text": "A local indoor swimming pool in Radom providing facilities for swimming training and leisure.",
+                  "category": "family",
+                  "coords": [
+                        21.158329,
+                        51.431283
+                  ]
+            },
+            {
+                  "name": "Aqua Aerobic",
+                  "text": "This swimming facility in Radom offers pools for fitness and aquatic sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        21.165094,
+                        51.405772
+                  ]
+            },
+            {
+                  "name": "Wojskowy Ośrodek Szkolenia Sportowego „Delta”",
+                  "text": "A sports center in Radom with a swimming pool used for training and recreation.",
+                  "category": "family",
+                  "coords": [
+                        21.199108,
+                        51.39607
+                  ]
+            },
+            {
+                  "name": "Aquapark Neptun",
+                  "text": "An aquapark in Radom featuring various water attractions and pools for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        21.172008,
+                        51.376174
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Radom", hu: "Radom", ro: "Radom", en: "Radom"},
@@ -19971,6 +23877,51 @@ export const polandCitiesV2: POI[] = [
                         19.096554,
                         50.307246
                   ]
+            },
+            {
+                  "name": "Wake Zone Stawiki",
+                  "text": "Genießen Sie ein erfrischendes Bad im Wake Zone Stawiki in Sosnowiec.",
+                  "category": "family",
+                  "coords": [
+                        19.111222,
+                        50.273926
+                  ]
+            },
+            {
+                  "name": "ŻeromPark",
+                  "text": "Genießen Sie ein erfrischendes Bad im ŻeromPark in Sosnowiec.",
+                  "category": "family",
+                  "coords": [
+                        19.133988,
+                        50.285667
+                  ]
+            },
+            {
+                  "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
+                  "text": "Zespół Parków Krajobrazowych Województwa Śląskiego in Sosnowiec bietet ein unterhaltsames Erlebnis für Familien und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        19.131554,
+                        50.312789
+                  ]
+            },
+            {
+                  "name": "Centrum Rozrywki Sosnowiec",
+                  "text": "Centrum Rozrywki Sosnowiec in Sosnowiec bietet ein unterhaltsames Erlebnis für Familien und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        19.148933,
+                        50.281571
+                  ]
+            },
+            {
+                  "name": "Hubertus Wake&Fun",
+                  "text": "Dieses Strandbad in Sosnowiec bietet Freizeit- und Wasseraktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.123954,
+                        50.263869
+                  ]
             }
       ],
       "hu": [
@@ -20035,6 +23986,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.096554,
                         50.307246
+                  ]
+            },
+            {
+                  "name": "Wake Zone Stawiki",
+                  "text": "Élvezze a frissítő úszást a Wake Zone Stawiki helyszínén Sosnowiec városában.",
+                  "category": "family",
+                  "coords": [
+                        19.111222,
+                        50.273926
+                  ]
+            },
+            {
+                  "name": "ŻeromPark",
+                  "text": "Élvezze a frissítő úszást a ŻeromPark helyszínén Sosnowiec városában.",
+                  "category": "family",
+                  "coords": [
+                        19.133988,
+                        50.285667
+                  ]
+            },
+            {
+                  "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
+                  "text": "A Zespół Parków Krajobrazowych Województwa Śląskiego Sosnowiec városában szórakoztató élményt kínál a családok és a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        19.131554,
+                        50.312789
+                  ]
+            },
+            {
+                  "name": "Centrum Rozrywki Sosnowiec",
+                  "text": "A Centrum Rozrywki Sosnowiec Sosnowiec városában szórakoztató élményt kínál a családok és a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        19.148933,
+                        50.281571
+                  ]
+            },
+            {
+                  "name": "Hubertus Wake&Fun",
+                  "text": "Ez a Sosnowiecben található strandüdülő kikapcsolódást és vízi tevékenységeket kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        19.123954,
+                        50.263869
                   ]
             }
       ],
@@ -20101,6 +24097,51 @@ export const polandCitiesV2: POI[] = [
                         19.096554,
                         50.307246
                   ]
+            },
+            {
+                  "name": "Wake Zone Stawiki",
+                  "text": "Bucurați-vă de o baie răcoritoare la Wake Zone Stawiki în Sosnowiec.",
+                  "category": "family",
+                  "coords": [
+                        19.111222,
+                        50.273926
+                  ]
+            },
+            {
+                  "name": "ŻeromPark",
+                  "text": "Bucurați-vă de o baie răcoritoare la ŻeromPark în Sosnowiec.",
+                  "category": "family",
+                  "coords": [
+                        19.133988,
+                        50.285667
+                  ]
+            },
+            {
+                  "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
+                  "text": "Zespół Parków Krajobrazowych Województwa Śląskiego din Sosnowiec oferă o experiență plină de distracție pentru familii și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        19.131554,
+                        50.312789
+                  ]
+            },
+            {
+                  "name": "Centrum Rozrywki Sosnowiec",
+                  "text": "Centrum Rozrywki Sosnowiec din Sosnowiec oferă o experiență plină de distracție pentru familii și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        19.148933,
+                        50.281571
+                  ]
+            },
+            {
+                  "name": "Hubertus Wake&Fun",
+                  "text": "Această stațiune de plajă din Sosnowiec oferă activități de agrement și de apă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.123954,
+                        50.263869
+                  ]
             }
       ],
       "en": [
@@ -20165,6 +24206,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.096554,
                         50.307246
+                  ]
+            },
+            {
+                  "name": "Wake Zone Stawiki",
+                  "text": "Enjoy a refreshing swim at Wake Zone Stawiki in Sosnowiec.",
+                  "category": "family",
+                  "coords": [
+                        19.111222,
+                        50.273926
+                  ]
+            },
+            {
+                  "name": "ŻeromPark",
+                  "text": "Enjoy a refreshing swim at ŻeromPark in Sosnowiec.",
+                  "category": "family",
+                  "coords": [
+                        19.133988,
+                        50.285667
+                  ]
+            },
+            {
+                  "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
+                  "text": "Zespół Parków Krajobrazowych Województwa Śląskiego in Sosnowiec offers a fun-filled experience for families and visitors.",
+                  "category": "family",
+                  "coords": [
+                        19.131554,
+                        50.312789
+                  ]
+            },
+            {
+                  "name": "Centrum Rozrywki Sosnowiec",
+                  "text": "Centrum Rozrywki Sosnowiec in Sosnowiec offers a fun-filled experience for families and visitors.",
+                  "category": "family",
+                  "coords": [
+                        19.148933,
+                        50.281571
+                  ]
+            },
+            {
+                  "name": "Hubertus Wake&Fun",
+                  "text": "This beach resort in Sosnowiec offers leisure and water activities for families.",
+                  "category": "family",
+                  "coords": [
+                        19.123954,
+                        50.263869
                   ]
             }
       ]
@@ -20277,6 +24363,24 @@ export const polandCitiesV2: POI[] = [
                         18.62924,
                         53.030501
                   ]
+            },
+            {
+                  "name": "Zoobotanischer Garten",
+                  "text": "Dieser Zoo und botanische Garten in Thorn ist ein idealer Ort für familiäres Lernen und Naturerkundungen.",
+                  "category": "family",
+                  "coords": [
+                        18.590644,
+                        53.008954
+                  ]
+            },
+            {
+                  "name": "Dawny brodzik Ogrodu Jordanowskiego",
+                  "text": "Dieser ehemalige Planschbeckenbereich in Thorn bietet Raum für Familienerholung und Wasserspaß.",
+                  "category": "family",
+                  "coords": [
+                        18.5828,
+                        53.020283
+                  ]
             }
       ],
       "hu": [
@@ -20341,6 +24445,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.62924,
                         53.030501
+                  ]
+            },
+            {
+                  "name": "Ogród Zoobotaniczny w Toruniu",
+                  "text": "Ez a toruńi állat- és botanikus kert ideális hely a családi tanuláshoz és a természet felfedezéséhez.",
+                  "category": "family",
+                  "coords": [
+                        18.590644,
+                        53.008954
+                  ]
+            },
+            {
+                  "name": "Dawny brodzik Ogrodu Jordanowskiego",
+                  "text": "Ez a volt toruńi pancsolómedence terület helyet biztosít a családi kikapcsolódáshoz és a vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.5828,
+                        53.020283
                   ]
             }
       ],
@@ -20407,6 +24529,24 @@ export const polandCitiesV2: POI[] = [
                         18.62924,
                         53.030501
                   ]
+            },
+            {
+                  "name": "Ogród Zoobotaniczny w Toruniu",
+                  "text": "Această grădină zoologică și botanică din Toruń este un loc ideal pentru învățarea în familie și explorarea naturii.",
+                  "category": "family",
+                  "coords": [
+                        18.590644,
+                        53.008954
+                  ]
+            },
+            {
+                  "name": "Dawny brodzik Ogrodu Jordanowskiego",
+                  "text": "Această fostă zonă de piscină pentru copii din Toruń oferă un spațiu pentru recreere în familie și distracție în apă.",
+                  "category": "family",
+                  "coords": [
+                        18.5828,
+                        53.020283
+                  ]
             }
       ],
       "en": [
@@ -20471,6 +24611,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.62924,
                         53.030501
+                  ]
+            },
+            {
+                  "name": "Ogród Zoobotaniczny w Toruniu",
+                  "text": "This zoo and botanical garden in Toruń is an ideal spot for family learning and nature exploration.",
+                  "category": "family",
+                  "coords": [
+                        18.590644,
+                        53.008954
+                  ]
+            },
+            {
+                  "name": "Dawny brodzik Ogrodu Jordanowskiego",
+                  "text": "This former paddling pool area in Toruń offers a space for family recreation and water fun.",
+                  "category": "family",
+                  "coords": [
+                        18.5828,
+                        53.020283
                   ]
             }
       ]
@@ -20637,6 +24795,24 @@ export const polandCitiesV2: POI[] = [
                         20.601599,
                         50.854855
                   ]
+            },
+            {
+                  "name": "Basen Odkryty",
+                  "text": "Ein öffentliches Freibad in Kielce, das in den Sommermonaten zum Schwimmen und Sonnenbaden einlädt.",
+                  "category": "family",
+                  "coords": [
+                        20.652793,
+                        50.862411
+                  ]
+            },
+            {
+                  "name": "Baseny Tropikalne",
+                  "text": "Ein Hallenbadkomplex in Kielce mit tropischem Ambiente und verschiedenen Entspannungsbecken.",
+                  "category": "family",
+                  "coords": [
+                        20.608234,
+                        50.854189
+                  ]
             }
       ],
       "hu": [
@@ -20755,6 +24931,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.601599,
                         50.854855
+                  ]
+            },
+            {
+                  "name": "Basen Odkryty",
+                  "text": "Nyilvános szabadtéri úszómedence Kielcében, amely nyáron úszásra és napozásra hívogat.",
+                  "category": "family",
+                  "coords": [
+                        20.652793,
+                        50.862411
+                  ]
+            },
+            {
+                  "name": "Baseny Tropikalne",
+                  "text": "Fedett medencekomplexum Kielcében trópusi hangulattal és különféle élménymedencékkel.",
+                  "category": "family",
+                  "coords": [
+                        20.608234,
+                        50.854189
                   ]
             }
       ],
@@ -20875,6 +25069,24 @@ export const polandCitiesV2: POI[] = [
                         20.601599,
                         50.854855
                   ]
+            },
+            {
+                  "name": "Basen Odkryty",
+                  "text": "O piscină publică în aer liber din Kielce, deschisă pentru înot și plajă în timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        20.652793,
+                        50.862411
+                  ]
+            },
+            {
+                  "name": "Baseny Tropikalne",
+                  "text": "Un complex de piscine interioare din Kielce cu atmosferă tropicală și diverse bazine de relaxare.",
+                  "category": "family",
+                  "coords": [
+                        20.608234,
+                        50.854189
+                  ]
             }
       ],
       "en": [
@@ -20994,6 +25206,24 @@ export const polandCitiesV2: POI[] = [
                         20.601599,
                         50.854855
                   ]
+            },
+            {
+                  "name": "Basen Odkryty",
+                  "text": "A public outdoor swimming pool in Kielce open for swimming and sunbathing during summer months.",
+                  "category": "family",
+                  "coords": [
+                        20.652793,
+                        50.862411
+                  ]
+            },
+            {
+                  "name": "Baseny Tropikalne",
+                  "text": "An indoor pool complex in Kielce with a tropical atmosphere and various relaxation pools.",
+                  "category": "family",
+                  "coords": [
+                        20.608234,
+                        50.854189
+                  ]
             }
       ]
 },
@@ -21087,6 +25317,24 @@ export const polandCitiesV2: POI[] = [
                         21.977473,
                         50.051602
                   ]
+            },
+            {
+                  "name": "Papugarnia",
+                  "text": "Dieser Zoo in Rzeszow beherbergt Papageien und bietet ein familienfreundliches Erlebnis.",
+                  "category": "family",
+                  "coords": [
+                        21.997108,
+                        50.042416
+                  ]
+            },
+            {
+                  "name": "Magiczna Polana",
+                  "text": "Dieser Freizeitpark in Rzeszow bietet verschiedene Attraktionen und Unterhaltung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        22.038367,
+                        50.045187
+                  ]
             }
       ],
       "hu": [
@@ -21133,6 +25381,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.977473,
                         50.051602
+                  ]
+            },
+            {
+                  "name": "Papugarnia",
+                  "text": "Ez a rzeszówi állatkert papagájokat mutat be, és családbarát élményt nyújt.",
+                  "category": "family",
+                  "coords": [
+                        21.997108,
+                        50.042416
+                  ]
+            },
+            {
+                  "name": "Magiczna Polana",
+                  "text": "Ez a rzeszówi vidámpark különféle látnivalókat és szórakozást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        22.038367,
+                        50.045187
                   ]
             }
       ],
@@ -21181,6 +25447,24 @@ export const polandCitiesV2: POI[] = [
                         21.977473,
                         50.051602
                   ]
+            },
+            {
+                  "name": "Papugarnia",
+                  "text": "Această grădină zoologică din Rzeszow găzduiește papagali și oferă o experiență potrivită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        21.997108,
+                        50.042416
+                  ]
+            },
+            {
+                  "name": "Magiczna Polana",
+                  "text": "Acest parc tematic din Rzeszow oferă diverse atracții și divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        22.038367,
+                        50.045187
+                  ]
             }
       ],
       "en": [
@@ -21227,6 +25511,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.977473,
                         50.051602
+                  ]
+            },
+            {
+                  "name": "Papugarnia",
+                  "text": "This zoo in Rzeszow features parrots and provides a family-friendly experience.",
+                  "category": "family",
+                  "coords": [
+                        21.997108,
+                        50.042416
+                  ]
+            },
+            {
+                  "name": "Magiczna Polana",
+                  "text": "This theme park in Rzeszow offers various attractions and entertainment for families.",
+                  "category": "family",
+                  "coords": [
+                        22.038367,
+                        50.045187
                   ]
             }
       ]
@@ -21277,7 +25579,124 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-gliwice-cities-v2",
+    id: "poland-gliwice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akwarium",
+                  "text": "Dieses Aquarium in Gleiwitz zeigt verschiedene Fischarten und ist ein wunderbares Ausflugsziel für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.669259,
+                        50.301534
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Leśne",
+                  "text": "Diese Schwimmbadanlage in Gleiwitz bietet einen angenehmen Rahmen für Familienschwimmen und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        18.651873,
+                        50.328492
+                  ]
+            },
+            {
+                  "name": "Olimpijczyk",
+                  "text": "Dieses Schwimmbad in Gleiwitz bietet moderne Einrichtungen für Familienspaß und Bewegung.",
+                  "category": "family",
+                  "coords": [
+                        18.649267,
+                        50.328004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akwarium",
+                  "text": "Ez a gliwicei akvárium különféle halfajokat mutat be, és csodálatos látogatást ígér a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.669259,
+                        50.301534
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Leśne",
+                  "text": "Ez a gliwicei úszómedence kellemes környezetet biztosít a családi úszáshoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        18.651873,
+                        50.328492
+                  ]
+            },
+            {
+                  "name": "Olimpijczyk",
+                  "text": "Ez a gliwicei úszómedence modern létesítményeket kínál a családi szórakozáshoz és edzéshez egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        18.649267,
+                        50.328004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akwarium",
+                  "text": "Acest acvariu din Gliwice prezintă diverse specii de pești și este o vizită minunată pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.669259,
+                        50.301534
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Leśne",
+                  "text": "Această facilitate cu piscină din Gliwice oferă un cadru plăcut pentru înotul în familie și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.651873,
+                        50.328492
+                  ]
+            },
+            {
+                  "name": "Olimpijczyk",
+                  "text": "Această piscină din Gliwice oferă facilități moderne atât pentru distracția în familie, cât și pentru exerciții fizice.",
+                  "category": "family",
+                  "coords": [
+                        18.649267,
+                        50.328004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akwarium",
+                  "text": "This aquarium in Gliwice features various fish species and is a wonderful visit for families.",
+                  "category": "family",
+                  "coords": [
+                        18.669259,
+                        50.301534
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Leśne",
+                  "text": "This swimming pool facility in Gliwice offers a pleasant setting for family swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        18.651873,
+                        50.328492
+                  ]
+            },
+            {
+                  "name": "Olimpijczyk",
+                  "text": "This swimming pool in Gliwice provides modern facilities for both family fun and exercise.",
+                  "category": "family",
+                  "coords": [
+                        18.649267,
+                        50.328004
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Gleiwitz", hu: "Gliwice", ro: "Gliwice", en: "Gliwice"},
@@ -21640,6 +26059,24 @@ export const polandCitiesV2: POI[] = [
                         18.746814,
                         50.261162
                   ]
+            },
+            {
+                  "name": "Kąpielisko Leśne",
+                  "text": "Ein Erholungsgebiet in Zabrze mit Außenbecken und Wasserattraktionen inmitten grüner Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        18.742001,
+                        50.322601
+                  ]
+            },
+            {
+                  "name": "Miejski Zakład Kąpielowy",
+                  "text": "Eine historische städtische Badeanstalt in Zabrze, die heute für den öffentlichen Schwimmsport genutzt wird.",
+                  "category": "family",
+                  "coords": [
+                        18.787413,
+                        50.302072
+                  ]
             }
       ],
       "hu": [
@@ -21956,6 +26393,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.746814,
                         50.261162
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Leśne",
+                  "text": "Zabrzei üdülőterület szabadtéri medencékkel és vízi játékokkal, zöld környezetben.",
+                  "category": "family",
+                  "coords": [
+                        18.742001,
+                        50.322601
+                  ]
+            },
+            {
+                  "name": "Miejski Zakład Kąpielowy",
+                  "text": "Történelmi városi fürdőház Zabrzében, amelyet ma nyilvános úszósportra használnak.",
+                  "category": "family",
+                  "coords": [
+                        18.787413,
+                        50.302072
                   ]
             }
       ],
@@ -22274,6 +26729,24 @@ export const polandCitiesV2: POI[] = [
                         18.746814,
                         50.261162
                   ]
+            },
+            {
+                  "name": "Kąpielisko Leśne",
+                  "text": "O zonă de recreere în Zabrze cu piscine exterioare și atracții acvatice într-un cadru verde.",
+                  "category": "family",
+                  "coords": [
+                        18.742001,
+                        50.322601
+                  ]
+            },
+            {
+                  "name": "Miejski Zakład Kąpielowy",
+                  "text": "O baie municipală istorică din Zabrze, utilizată astăzi pentru sporturi nautice publice.",
+                  "category": "family",
+                  "coords": [
+                        18.787413,
+                        50.302072
+                  ]
             }
       ],
       "en": [
@@ -22590,6 +27063,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.746814,
                         50.261162
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Leśne",
+                  "text": "A recreation area in Zabrze with outdoor pools and water attractions set in green surroundings.",
+                  "category": "family",
+                  "coords": [
+                        18.742001,
+                        50.322601
+                  ]
+            },
+            {
+                  "name": "Miejski Zakład Kąpielowy",
+                  "text": "A historic municipal bathhouse in Zabrze currently used for public swimming sports.",
+                  "category": "family",
+                  "coords": [
+                        18.787413,
+                        50.302072
                   ]
             }
       ]
@@ -24623,6 +29114,24 @@ export const polandCitiesV2: POI[] = [
                         19.049256,
                         49.802363
                   ]
+            },
+            {
+                  "name": "Pływalnia \"Panorama\"",
+                  "text": "Dieser Badebereich in Bielitz-Biala ist ein beliebter Ort für die Familienerholung in den wärmeren Monaten.",
+                  "category": "family",
+                  "coords": [
+                        19.029715,
+                        49.81858
+                  ]
+            },
+            {
+                  "name": "Pływalnia AQUA",
+                  "text": "Dieses Schwimmbad in Bielitz-Biala bietet verschiedene Wasseraktivitäten für einen tollen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        19.082362,
+                        49.807791
+                  ]
             }
       ],
       "hu": [
@@ -25002,6 +29511,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.049256,
                         49.802363
+                  ]
+            },
+            {
+                  "name": "Pływalnia \"Panorama\"",
+                  "text": "Ez a bielsko-białai fürdőhely népszerű hely a családi kikapcsolódásra a melegebb hónapokban.",
+                  "category": "family",
+                  "coords": [
+                        19.029715,
+                        49.81858
+                  ]
+            },
+            {
+                  "name": "Pływalnia AQUA",
+                  "text": "Ez a bielsko-białai úszómedence különféle vízi tevékenységeket kínál egy nagyszerű családi naphoz.",
+                  "category": "family",
+                  "coords": [
+                        19.082362,
+                        49.807791
                   ]
             }
       ],
@@ -25383,6 +29910,24 @@ export const polandCitiesV2: POI[] = [
                         19.049256,
                         49.802363
                   ]
+            },
+            {
+                  "name": "Pływalnia \"Panorama\"",
+                  "text": "Această zonă de înot din Bielsko-Biała este un loc popular pentru recreerea în familie în lunile mai calde.",
+                  "category": "family",
+                  "coords": [
+                        19.029715,
+                        49.81858
+                  ]
+            },
+            {
+                  "name": "Pływalnia AQUA",
+                  "text": "Această piscină din Bielsko-Biała oferă diverse activități acvatice pentru o zi minunată în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.082362,
+                        49.807791
+                  ]
             }
       ],
       "en": [
@@ -25763,6 +30308,24 @@ export const polandCitiesV2: POI[] = [
                         19.049256,
                         49.802363
                   ]
+            },
+            {
+                  "name": "Pływalnia \"Panorama\"",
+                  "text": "This swimming area in Bielsko-Biała is a popular spot for family recreation during the warmer months.",
+                  "category": "family",
+                  "coords": [
+                        19.029715,
+                        49.81858
+                  ]
+            },
+            {
+                  "name": "Pływalnia AQUA",
+                  "text": "This swimming pool in Bielsko-Biała offers various aquatic activities for a great family day out.",
+                  "category": "family",
+                  "coords": [
+                        19.082362,
+                        49.807791
+                  ]
             }
       ]
 },
@@ -25894,6 +30457,15 @@ export const polandCitiesV2: POI[] = [
                         18.9024,
                         50.341635
                   ]
+            },
+            {
+                  "name": "Centrum Działalności Podwodnej",
+                  "text": "Ein spezialisiertes Wasserzentrum in Bytom, das sich auf Tauchen und Unterwasseraktivitäten konzentriert.",
+                  "category": "family",
+                  "coords": [
+                        18.936628,
+                        50.336617
+                  ]
             }
       ],
       "hu": [
@@ -25976,6 +30548,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.9024,
                         50.341635
+                  ]
+            },
+            {
+                  "name": "Centrum Działalności Podwodnej",
+                  "text": "Speciális vízi központ Bytomban, amely a búvárkodásra és a víz alatti tevékenységekre összpontosít.",
+                  "category": "family",
+                  "coords": [
+                        18.936628,
+                        50.336617
                   ]
             }
       ],
@@ -26060,6 +30641,15 @@ export const polandCitiesV2: POI[] = [
                         18.9024,
                         50.341635
                   ]
+            },
+            {
+                  "name": "Centrum Działalności Podwodnej",
+                  "text": "Un centru acvatic specializat din Bytom, axat pe scufundări și activități subacvatice.",
+                  "category": "family",
+                  "coords": [
+                        18.936628,
+                        50.336617
+                  ]
             }
       ],
       "en": [
@@ -26142,6 +30732,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.9024,
                         50.341635
+                  ]
+            },
+            {
+                  "name": "Centrum Działalności Podwodnej",
+                  "text": "A specialized water center in Bytom focused on diving and underwater activities.",
+                  "category": "family",
+                  "coords": [
+                        18.936628,
+                        50.336617
                   ]
             }
       ]
@@ -27851,6 +32450,24 @@ export const polandCitiesV2: POI[] = [
                         18.548008,
                         50.11052
                   ]
+            },
+            {
+                  "name": "Fundacja Elektrownia Rybnik - Basen",
+                  "text": "Dieses Schwimmbad in Rybnik bietet Familien Raum für Schwimmen und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        18.520236,
+                        50.129122
+                  ]
+            },
+            {
+                  "name": "MOSiR YNTKA Pływalnia Kryta",
+                  "text": "Dieses Hallenbad in Rybnik bietet eine komfortable Umgebung für das ganzjährige Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        18.551322,
+                        50.096654
+                  ]
             }
       ],
       "hu": [
@@ -28086,6 +32703,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.548008,
                         50.11052
+                  ]
+            },
+            {
+                  "name": "Fundacja Elektrownia Rybnik - Basen",
+                  "text": "Ez a rybniki úszómedence helyet biztosít a családoknak az úszáshoz és a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.520236,
+                        50.129122
+                  ]
+            },
+            {
+                  "name": "MOSiR YNTKA Pływalnia Kryta",
+                  "text": "Ez a rybniki fedett uszoda kényelmes környezetet biztosít az egész éves családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.551322,
+                        50.096654
                   ]
             }
       ],
@@ -28323,6 +32958,24 @@ export const polandCitiesV2: POI[] = [
                         18.548008,
                         50.11052
                   ]
+            },
+            {
+                  "name": "Fundacja Elektrownia Rybnik - Basen",
+                  "text": "Această piscină din Rybnik oferă un spațiu pentru ca familiile să se bucure de înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        18.520236,
+                        50.129122
+                  ]
+            },
+            {
+                  "name": "MOSiR YNTKA Pływalnia Kryta",
+                  "text": "Această piscină interioară din Rybnik oferă un mediu confortabil pentru înotul în familie pe tot parcursul anului.",
+                  "category": "family",
+                  "coords": [
+                        18.551322,
+                        50.096654
+                  ]
             }
       ],
       "en": [
@@ -28559,6 +33212,24 @@ export const polandCitiesV2: POI[] = [
                         18.548008,
                         50.11052
                   ]
+            },
+            {
+                  "name": "Fundacja Elektrownia Rybnik - Basen",
+                  "text": "This swimming pool in Rybnik provides a space for families to enjoy swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        18.520236,
+                        50.129122
+                  ]
+            },
+            {
+                  "name": "MOSiR YNTKA Pływalnia Kryta",
+                  "text": "This indoor swimming pool in Rybnik offers a comfortable environment for year-round family swimming.",
+                  "category": "family",
+                  "coords": [
+                        18.551322,
+                        50.096654
+                  ]
             }
       ]
 },
@@ -28608,7 +33279,1456 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-ruda-slaska-cities-v2", "sights": {"de": [{"name": "Średniowieczny Gródek z XIII w.", "text": "Mittelalterliche Festungsanlage in Ruda Slaska.", "category": "fortress", "coords": [18.89121, 50.260565]}, {"name": "Izba Muzealna - Ciężki Schron Bojowy nr 33", "text": "Museum in einem historischen Bunker in Ruda Slaska.", "category": "museum", "coords": [18.851696, 50.278126]}, {"name": "Amfiteatr", "text": "Amphitheater in Ruda Slaska.", "category": "cultural", "coords": [18.836266, 50.2753]}, {"name": "Amfiteatr Rudzki", "text": "Amphitheater in Ruda Slaska.", "category": "cultural", "coords": [18.866697, 50.28059]}, {"name": "Aquadrom", "text": "Wasserpark-Attraktion in Ruda Slaska.", "category": "landmark", "coords": [18.843988, 50.241545]}, {"name": "Figura Świętego Jana Nepomucena", "text": "Denkmal des Heiligen Johannes Nepomuk in Ruda Slaska.", "category": "landmark", "coords": [18.837841, 50.243826]}, {"name": "Dom Kultury w Rudzie Śląskiej", "text": "Kulturzentrum in Ruda Slaska.", "category": "cultural", "coords": [18.83255, 50.268237]}, {"name": "Aleja zasłużonych w Rudzie Śląskiej", "text": "Lokale Sehenswürdigkeit in Ruda Slaska.", "category": "landmark", "coords": [18.860086, 50.27326]}, {"name": "Opuszczony Szpital Miejski", "text": "Verlassenes Krankenhaus in Ruda Slaska.", "category": "landmark", "coords": [18.862614, 50.271315]}, {"name": "Stary Halembski Młyn", "text": "Historische Mühle in Ruda Slaska.", "category": "landmark", "coords": [18.831856, 50.242517]}, {"name": "Centrum Sztuki Niezależnej SAMI", "text": "Kunstzentrum in Ruda Slaska.", "category": "cultural", "coords": [18.825633, 50.243981]}, {"name": "OWŚ", "text": "Lokale Attraktion in Ruda Slaska.", "category": "landmark", "coords": [18.884151, 50.263002]}, {"name": "Zrewitalizowana Hałda Pocynkowa", "text": "Revitalisierte Abraumhalde in Ruda Slaska.", "category": "landmark", "coords": [18.87752, 50.280886]}, {"name": "Pałacyk Donnersmarcków", "text": "Historisches Herrenhaus in Ruda Slaska.", "category": "historical", "coords": [18.840402, 50.242381]}, {"name": "OWŚ nr 44 (Bunkier Szatana)", "text": "Der historische Bunker, bekannt als OWŚ nr 44 (Bunkier Szatana), stellt ein einzigartiges Wahrzeichen in Ruda Slaska dar. Besucher, die diese polnische Stadt erkunden, können die starken Überreste dieser Verteidigungsstruktur besichtigen. Es bietet einen authentischen Einblick in die Militärgeschichte der Region.", "category": "landmark", "coords": [18.867931, 50.250784]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31", "text": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31 ist ein wichtiges historisches Wahrzeichen in Ruda Slaska. Dieser polnische Kampfbunker diente zu seiner Zeit als entscheidender Verteidigungspunkt. Geschichtsinteressierte können sein robustes Äußeres erkunden und mehr über seinen strategischen Zweck erfahren.", "category": "landmark", "coords": [18.848034, 50.281094]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35", "text": "Der historische Schutzbunker OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35 ist ein markantes Wahrzeichen in Ruda Slaska. Besucher können hier die Überreste militärischer Verteidigungsanlagen Polens erkunden. Dieses steinerne Relikt bietet einen authentischen Einblick in die regionale Festungsgeschichte.", "category": "landmark", "coords": [18.851798, 50.268191]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30", "text": "Als Teil der militärischen Geschichte von Ruda Slaska lädt der Bunker OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30 zur Besichtigung ein. Diese historische Verteidigungsanlage veranschaulicht die Befestigungslinien in Polen. Ein Spaziergang um das Wahrzeichen vermittelt Eindrücke vergangener Epochen.", "category": "landmark", "coords": [18.850882, 50.283532]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Artyleryjski nr 32", "text": "Historischer Artilleriebunker in Ruda Slaska.", "category": "landmark", "coords": [18.847885, 50.279811]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34", "text": "Ein weiteres Relikt der polnischen Verteidigungsarchitektur in Ruda Slaska ist der OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34. Dieser historische Panzerabwehrbunker dient heute als stummes Zeugnis der Vergangenheit. Interessierte Gäste können die massiven Strukturen des Wahrzeichens aus der Nähe betrachten.", "category": "landmark", "coords": [18.847871, 50.272277]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 146", "text": "Historische Befestigungsanlage in Ruda Slaska.", "category": "landmark", "coords": [18.850183, 50.270143]}, {"name": "Budynek Nadszybowy - Szyb Andrzej - 1870 r.", "text": "Historisches Bergbaugebäude in Ruda Slaska.", "category": "landmark", "coords": [18.872866, 50.272192]}, {"name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 144", "text": "Historische Befestigungsanlage in Ruda Slaska.", "category": "landmark", "coords": [18.866319, 50.262245]}, {"name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 145", "text": "Historische Befestigungsanlage in Ruda Slaska.", "category": "landmark", "coords": [18.863661, 50.263806]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Polowy Piechoty", "text": "Historische Feldbefestigung in Ruda Slaska.", "category": "landmark", "coords": [18.857235, 50.264816]}, {"name": "Ogród Sensoryczny", "text": "Sensorischer Garten in Ruda Slaska.", "category": "landmark", "coords": [18.852761, 50.271684]}, {"name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego", "text": "Katholische Kirche in Ruda Slaska.", "category": "religious", "coords": [18.864475, 50.267876]}, {"name": "Kościół Ewangelicko-Augsburski Odkupiciela", "text": "Evangelische Kirche in Ruda Slaska.", "category": "religious", "coords": [18.86309, 50.273285]}, {"name": "Kościół świętego Andrzeja Boboli", "text": "Religiöser Ort in Ruda Slaska.", "category": "religious", "coords": [18.861289, 50.259048]}, {"name": "Kościół par. pw. św. Marii Magdaleny", "text": "Katholische Kirche in Ruda Slaska.", "category": "religious", "coords": [18.834813, 50.268293]}, {"name": "Bagier", "text": "Ein ruhiger See in Ruda Śląska, der sich gut für kurze Spaziergänge eignet.", "category": "natural", "coords": [18.792309, 50.284431]}, {"name": "Staw Smrodlok", "text": "Ein lokales Gewässer in Ruda Śląska, das einen Ausblick ins Grüne bietet.", "category": "natural", "coords": [18.883245, 50.306994]}, {"name": "Staw Glombik", "text": "Ein kleiner Teich in Ruda Śląska, ideal für eine kleine Auszeit im Freien.", "category": "natural", "coords": [18.885549, 50.307381]}, {"name": "Port Letni sztolni Królowa Luiza", "text": "Ein Wasserbereich in Ruda Śląska mit Bezug zur Industriegeschichte der Region.", "category": "natural", "coords": [18.783267, 50.30839]}, {"name": "Jezioro Farskie", "text": "Ein naturnaher See in Ruda Śląska, der Ruhe und Entspannung bietet.", "category": "natural", "coords": [18.746814, 50.261162]}, {"name": "Baśniogród", "text": "Ein thematischer Spielplatz in Ruda Śląska, der die Fantasie der Kinder anregt.", "category": "family", "coords": [18.865516, 50.274008]}, {"name": "Safari", "text": "Ein Spielplatz in Ruda Śląska mit verschiedenen Geräten für aktives Spielen.", "category": "family", "coords": [18.887094, 50.268806]}, {"name": "Piaskownica", "text": "Ein klassischer Spielbereich mit Sandkasten in Ruda Śląska für junge Familien.", "category": "family", "coords": [18.891524, 50.265803]}], "hu": [{"name": "Średniowieczny Gródek z XIII w.", "text": "Középkori erődítmény Ruda Slaskában.", "category": "fortress", "coords": [18.89121, 50.260565]}, {"name": "Izba Muzealna - Ciężki Schron Bojowy nr 33", "text": "Múzeum egy történelmi bunkerben Ruda Slaskában.", "category": "museum", "coords": [18.851696, 50.278126]}, {"name": "Amfiteatr", "text": "Amfiteátrum Ruda Slaskában.", "category": "cultural", "coords": [18.836266, 50.2753]}, {"name": "Amfiteatr Rudzki", "text": "Amfiteátrum Ruda Slaskában.", "category": "cultural", "coords": [18.866697, 50.28059]}, {"name": "Aquadrom", "text": "Élményfürdő Ruda Slaskában.", "category": "landmark", "coords": [18.843988, 50.241545]}, {"name": "Figura Świętego Jana Nepomucena", "text": "Szent János Nepomuki-szobor Ruda Slaskában.", "category": "landmark", "coords": [18.837841, 50.243826]}, {"name": "Dom Kultury w Rudzie Śląskiej", "text": "Kulturális központ Ruda Slaskában.", "category": "cultural", "coords": [18.83255, 50.268237]}, {"name": "Aleja zasłużonych w Rudzie Śląskiej", "text": "Helyi látnivaló Ruda Slaskában.", "category": "landmark", "coords": [18.860086, 50.27326]}, {"name": "Opuszczony Szpital Miejski", "text": "Elhagyatott kórház Ruda Slaskában.", "category": "landmark", "coords": [18.862614, 50.271315]}, {"name": "Stary Halembski Młyn", "text": "Történelmi malom Ruda Slaskában.", "category": "landmark", "coords": [18.831856, 50.242517]}, {"name": "Centrum Sztuki Niezależnej SAMI", "text": "Művészeti központ Ruda Slaskában.", "category": "cultural", "coords": [18.825633, 50.243981]}, {"name": "OWŚ", "text": "Helyi látnivaló Ruda Slaskában.", "category": "landmark", "coords": [18.884151, 50.263002]}, {"name": "Zrewitalizowana Hałda Pocynkowa", "text": "Revitalizált meddőhányó Ruda Slaskában.", "category": "landmark", "coords": [18.87752, 50.280886]}, {"name": "Pałacyk Donnersmarcków", "text": "Történelmi kastélyépület Ruda Slaskában.", "category": "historical", "coords": [18.840402, 50.242381]}, {"name": "OWŚ nr 44 (Bunkier Szatana)", "text": "Az OWŚ nr 44 (Bunkier Szatana) néven ismert történelmi bunker egyedülálló nevezetességet képvisel Ruda Slaska városában. A lengyel várost felfedező látogatók megtekinthetik e védelmi építmény erős maradványait. Hiteles bepillantást nyújt a régió hadtörténetébe.", "category": "landmark", "coords": [18.867931, 50.250784]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31", "text": "Az OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31 egy fontos történelmi nevezetesség, amely Ruda Slaskában található. Ez a lengyel harci bunker a maga idejében kritikus védelmi pontként szolgált. A történelem szerelmesei felfedezhetik robusztus külsejét, és megismerhetik stratégiai célját.", "category": "landmark", "coords": [18.848034, 50.281094]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35", "text": "Az OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35 egy történelmi óvóhely, amely Ruda Slaska városában található. A látogatók ezen a lengyelországi helyszínen egy régi katonai védelmi vonal masszív maradványait tekinthetik meg. Ez a nevezetesség bepillantást enged a régió erődítményeinek múltjába.", "category": "landmark", "coords": [18.851798, 50.268191]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30", "text": "A Ruda Slaska-i katonai történelem részeként az OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30 bunker felfedezésre vár. Ez a történelmi lengyelországi védelmi építmény a régi erődítményeket szemlélteti. A nevezetesség körüli séta felidézi a letűnt korszakok hangulatát.", "category": "landmark", "coords": [18.850882, 50.283532]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Artyleryjski nr 32", "text": "Történelmi tüzérségi bunker Ruda Slaskában.", "category": "landmark", "coords": [18.847885, 50.279811]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34", "text": "A lengyel védelmi építészet egy másik ruda slaskai emléke az OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34. Ez a történelmi páncéltörő óvóhely ma a múlt csendes tanújaként szolgál az érdeklődők számára. A látogatók közelről is megfigyelhetik a nevezetesség masszív szerkezetét.", "category": "landmark", "coords": [18.847871, 50.272277]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 146", "text": "Történelmi erődítmény Ruda Slaskában.", "category": "landmark", "coords": [18.850183, 50.270143]}, {"name": "Budynek Nadszybowy - Szyb Andrzej - 1870 r.", "text": "Történelmi bányászati épület Ruda Slaskában.", "category": "landmark", "coords": [18.872866, 50.272192]}, {"name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 144", "text": "Történelmi erődítmény Ruda Slaskában.", "category": "landmark", "coords": [18.866319, 50.262245]}, {"name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 145", "text": "Történelmi erődítmény Ruda Slaskában.", "category": "landmark", "coords": [18.863661, 50.263806]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Polowy Piechoty", "text": "Történelmi tábori erődítmény Ruda Slaskában.", "category": "landmark", "coords": [18.857235, 50.264816]}, {"name": "Ogród Sensoryczny", "text": "Szenzoros kert Ruda Slaskában.", "category": "landmark", "coords": [18.852761, 50.271684]}, {"name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego", "text": "Katolikus templom Ruda Slaskában.", "category": "religious", "coords": [18.864475, 50.267876]}, {"name": "Kościół Ewangelicko-Augsburski Odkupiciela", "text": "Evangélikus templom Ruda Slaskában.", "category": "religious", "coords": [18.86309, 50.273285]}, {"name": "Kościół świętego Andrzeja Boboli", "text": "Vallási hely Ruda Slaskában.", "category": "religious", "coords": [18.861289, 50.259048]}, {"name": "Kościół par. pw. św. Marii Magdaleny", "text": "Katolikus templom Ruda Slaskában.", "category": "religious", "coords": [18.834813, 50.268293]}, {"name": "Bagier", "text": "Csendes tó Ruda Śląskában, amely alkalmas rövid sétákra.", "category": "natural", "coords": [18.792309, 50.284431]}, {"name": "Staw Smrodlok", "text": "Helyi vízfelület Ruda Śląskában, amely kilátást nyújt a zöldbe.", "category": "natural", "coords": [18.883245, 50.306994]}, {"name": "Staw Glombik", "text": "Kisméretű tó Ruda Śląskában, ideális egy kis szabadtéri pihenőre.", "category": "natural", "coords": [18.885549, 50.307381]}, {"name": "Port Letni sztolni Królowa Luiza", "text": "Vizes terület Ruda Śląskában, amely a régió ipari múltjához kapcsolódik.", "category": "natural", "coords": [18.783267, 50.30839]}, {"name": "Jezioro Farskie", "text": "Természetközeli tó Ruda Śląskában, amely nyugalmat és kikapcsolódást nyújt.", "category": "natural", "coords": [18.746814, 50.261162]}, {"name": "Baśniogród", "text": "Tematikus játszótér Ruda Śląskában, amely megmozgatja a gyerekek képzeletét.", "category": "family", "coords": [18.865516, 50.274008]}, {"name": "Safari", "text": "Játszótér Ruda Śląskában különféle eszközökkel az aktív játékhoz.", "category": "family", "coords": [18.887094, 50.268806]}, {"name": "Piaskownica", "text": "Klasszikus játszórész homokozóval Ruda Śląskában fiatal családoknak.", "category": "family", "coords": [18.891524, 50.265803]}], "ro": [{"name": "Średniowieczny Gródek z XIII w.", "text": "Fortificație medievală în Ruda Slaska.", "category": "fortress", "coords": [18.89121, 50.260565]}, {"name": "Izba Muzealna - Ciężki Schron Bojowy nr 33", "text": "Muzeu într-un buncăr istoric în Ruda Slaska.", "category": "museum", "coords": [18.851696, 50.278126]}, {"name": "Amfiteatr", "text": "Amfiteatru în Ruda Slaska.", "category": "cultural", "coords": [18.836266, 50.2753]}, {"name": "Amfiteatr Rudzki", "text": "Amfiteatru în Ruda Slaska.", "category": "cultural", "coords": [18.866697, 50.28059]}, {"name": "Aquadrom", "text": "Parc acvatic în Ruda Slaska.", "category": "landmark", "coords": [18.843988, 50.241545]}, {"name": "Figura Świętego Jana Nepomucena", "text": "Statuie a Sfântului Ioan Nepomuk în Ruda Slaska.", "category": "landmark", "coords": [18.837841, 50.243826]}, {"name": "Dom Kultury w Rudzie Śląskiej", "text": "Centru cultural în Ruda Slaska.", "category": "cultural", "coords": [18.83255, 50.268237]}, {"name": "Aleja zasłużonych w Rudzie Śląskiej", "text": "Obiectiv turistic local în Ruda Slaska.", "category": "landmark", "coords": [18.860086, 50.27326]}, {"name": "Opuszczony Szpital Miejski", "text": "Spital abandonat în Ruda Slaska.", "category": "landmark", "coords": [18.862614, 50.271315]}, {"name": "Stary Halembski Młyn", "text": "Moară istorică în Ruda Slaska.", "category": "landmark", "coords": [18.831856, 50.242517]}, {"name": "Centrum Sztuki Niezależnej SAMI", "text": "Centru de artă în Ruda Slaska.", "category": "cultural", "coords": [18.825633, 50.243981]}, {"name": "OWŚ", "text": "Obiectiv turistic local în Ruda Slaska.", "category": "landmark", "coords": [18.884151, 50.263002]}, {"name": "Zrewitalizowana Hałda Pocynkowa", "text": "Halda de steril revitalizată în Ruda Slaska.", "category": "landmark", "coords": [18.87752, 50.280886]}, {"name": "Pałacyk Donnersmarcków", "text": "Conac istoric în Ruda Slaska.", "category": "historical", "coords": [18.840402, 50.242381]}, {"name": "OWŚ nr 44 (Bunkier Szatana)", "text": "Buncărul istoric cunoscut sub numele de OWŚ nr 44 (Bunkier Szatana) reprezintă un reper unic în Ruda Slaska. Vizitatorii care explorează acest oraș polonez pot vedea rămășițele puternice ale acestei structuri defensive. Acesta oferă o privire autentică asupra istoriei militare a regiunii.", "category": "landmark", "coords": [18.867931, 50.250784]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31", "text": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31 este un reper istoric important situat în Ruda Slaska. Acest buncăr de luptă polonez a servit ca un punct defensiv critic la vremea sa. Pasionații de istorie pot explora exteriorul său robust și pot afla despre scopul său strategic.", "category": "landmark", "coords": [18.848034, 50.281094]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35", "text": "Buncărul istoric OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35 este un punct de reper important în Ruda Slaska. Vizitatorii pot explora aici rămășițele vechilor fortificații militare din Polonia. Această relicvă de piatră oferă o perspectivă asupra istoriei apărării regionale.", "category": "landmark", "coords": [18.851798, 50.268191]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30", "text": "Făcând parte din istoria militară a orașului Ruda Slaska, buncărul OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30 atrage vizitatorii pasionați de trecut. Această structură defensivă ilustrează vechile linii de fortificație din Polonia. O plimbare în jurul acestui reper istoric dezvăluie aspecte ale epocilor trecute.", "category": "landmark", "coords": [18.850882, 50.283532]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Artyleryjski nr 32", "text": "Buncăr de artilerie istoric în Ruda Slaska.", "category": "landmark", "coords": [18.847885, 50.279811]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34", "text": "O altă relicvă a arhitecturii de apărare poloneze din Ruda Slaska este OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34. Acest buncăr istoric antitanc servește astăzi ca o mărturie tăcută a trecutului pentru oaspeții curioși. Cei interesați pot observa îndeaproape structurile masive ale acestui punct de reper.", "category": "landmark", "coords": [18.847871, 50.272277]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 146", "text": "Fortificație istorică în Ruda Slaska.", "category": "landmark", "coords": [18.850183, 50.270143]}, {"name": "Budynek Nadszybowy - Szyb Andrzej - 1870 r.", "text": "Clădire minieră istorică în Ruda Slaska.", "category": "landmark", "coords": [18.872866, 50.272192]}, {"name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 144", "text": "Fortificație istorică în Ruda Slaska.", "category": "landmark", "coords": [18.866319, 50.262245]}, {"name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 145", "text": "Fortificație istorică în Ruda Slaska.", "category": "landmark", "coords": [18.863661, 50.263806]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Polowy Piechoty", "text": "Fortificație de campanie istorică în Ruda Slaska.", "category": "landmark", "coords": [18.857235, 50.264816]}, {"name": "Ogród Sensoryczny", "text": "Grădină senzorială în Ruda Slaska.", "category": "landmark", "coords": [18.852761, 50.271684]}, {"name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego", "text": "Biserică catolică în Ruda Slaska.", "category": "religious", "coords": [18.864475, 50.267876]}, {"name": "Kościół Ewangelicko-Augsburski Odkupiciela", "text": "Biserică evanghelică în Ruda Slaska.", "category": "religious", "coords": [18.86309, 50.273285]}, {"name": "Kościół świętego Andrzeja Boboli", "text": "Lăcaș de cult în Ruda Slaska.", "category": "religious", "coords": [18.861289, 50.259048]}, {"name": "Kościół par. pw. św. Marii Magdaleny", "text": "Biserică catolică în Ruda Slaska.", "category": "religious", "coords": [18.834813, 50.268293]}, {"name": "Bagier", "text": "Un lac liniștit în Ruda Śląska, potrivit pentru plimbări scurte.", "category": "natural", "coords": [18.792309, 50.284431]}, {"name": "Staw Smrodlok", "text": "O zonă cu apă locală în Ruda Śląska, care oferă o vedere spre natură.", "category": "natural", "coords": [18.883245, 50.306994]}, {"name": "Staw Glombik", "text": "Un iaz mic în Ruda Śląska, ideal pentru o scurtă pauză în aer liber.", "category": "natural", "coords": [18.885549, 50.307381]}, {"name": "Port Letni sztolni Królowa Luiza", "text": "O zonă cu apă în Ruda Śląska, legată de istoria industrială a regiunii.", "category": "natural", "coords": [18.783267, 50.30839]}, {"name": "Jezioro Farskie", "text": "Un lac aproape de natură în Ruda Śląska, care oferă liniște și relaxare.", "category": "natural", "coords": [18.746814, 50.261162]}, {"name": "Baśniogród", "text": "Un loc de joacă tematic în Ruda Śląska, care stimulează imaginația copiilor.", "category": "family", "coords": [18.865516, 50.274008]}, {"name": "Safari", "text": "Un loc de joacă în Ruda Śląska cu diverse echipamente pentru joacă activă.", "category": "family", "coords": [18.887094, 50.268806]}, {"name": "Piaskownica", "text": "O zonă de joacă clasică cu nisipar în Ruda Śląska pentru familiile tinere.", "category": "family", "coords": [18.891524, 50.265803]}], "en": [{"name": "Średniowieczny Gródek z XIII w.", "text": "Medieval fortification in Ruda Slaska.", "category": "fortress", "coords": [18.89121, 50.260565]}, {"name": "Izba Muzealna - Ciężki Schron Bojowy nr 33", "text": "Museum in a historic bunker in Ruda Slaska.", "category": "museum", "coords": [18.851696, 50.278126]}, {"name": "Amfiteatr", "text": "Amphitheatre in Ruda Slaska.", "category": "cultural", "coords": [18.836266, 50.2753]}, {"name": "Amfiteatr Rudzki", "text": "Amphitheatre in Ruda Slaska.", "category": "cultural", "coords": [18.866697, 50.28059]}, {"name": "Aquadrom", "text": "Water park attraction in Ruda Slaska.", "category": "landmark", "coords": [18.843988, 50.241545]}, {"name": "Figura Świętego Jana Nepomucena", "text": "Statue of St. John of Nepomuk in Ruda Slaska.", "category": "landmark", "coords": [18.837841, 50.243826]}, {"name": "Dom Kultury w Rudzie Śląskiej", "text": "Arts centre in Ruda Slaska.", "category": "cultural", "coords": [18.83255, 50.268237]}, {"name": "Aleja zasłużonych w Rudzie Śląskiej", "text": "Local landmark in Ruda Slaska.", "category": "landmark", "coords": [18.860086, 50.27326]}, {"name": "Opuszczony Szpital Miejski", "text": "Abandoned hospital in Ruda Slaska.", "category": "landmark", "coords": [18.862614, 50.271315]}, {"name": "Stary Halembski Młyn", "text": "Historic mill in Ruda Slaska.", "category": "landmark", "coords": [18.831856, 50.242517]}, {"name": "Centrum Sztuki Niezależnej SAMI", "text": "Arts centre in Ruda Slaska.", "category": "cultural", "coords": [18.825633, 50.243981]}, {"name": "OWŚ", "text": "Local attraction in Ruda Slaska.", "category": "landmark", "coords": [18.884151, 50.263002]}, {"name": "Zrewitalizowana Hałda Pocynkowa", "text": "Revitalized slag heap in Ruda Slaska.", "category": "landmark", "coords": [18.87752, 50.280886]}, {"name": "Pałacyk Donnersmarcków", "text": "Historic manor in Ruda Slaska.", "category": "historical", "coords": [18.840402, 50.242381]}, {"name": "OWŚ nr 44 (Bunkier Szatana)", "text": "The historic bunker known as OWŚ nr 44 (Bunkier Szatana) represents a unique landmark in Ruda Slaska. Visitors exploring this Polish city can view the strong remnants of this defensive structure. It provides an authentic glimpse into the region's military history.", "category": "landmark", "coords": [18.867931, 50.250784]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31", "text": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31 is an important historical landmark situated in Ruda Slaska. This Polish combat bunker served as a critical defensive point in its time. History enthusiasts can explore its robust exterior and learn about its strategic purpose.", "category": "landmark", "coords": [18.848034, 50.281094]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35", "text": "The historic bunker OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35 stands as a prominent landmark in Ruda Slaska. Visitors to this Polish site can examine the remains of past military fortifications. This stone relic offers an authentic glimpse into the region's defensive history.", "category": "landmark", "coords": [18.851798, 50.268191]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30", "text": "As part of the military history of Ruda Slaska, the OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30 bunker invites exploration. This historical defensive structure illustrates the old fortification lines across Poland. A walk around the landmark conveys impressions of bygone eras.", "category": "landmark", "coords": [18.850882, 50.283532]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Artyleryjski nr 32", "text": "Historic artillery pillbox in Ruda Slaska.", "category": "landmark", "coords": [18.847885, 50.279811]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34", "text": "Another relic of Polish defense architecture in Ruda Slaska is the OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34. This historic anti-tank bunker serves today as a silent witness to the past for curious guests. Visitors can closely observe the massive structures of this landmark.", "category": "landmark", "coords": [18.847871, 50.272277]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 146", "text": "Historic fortification in Ruda Slaska.", "category": "landmark", "coords": [18.850183, 50.270143]}, {"name": "Budynek Nadszybowy - Szyb Andrzej - 1870 r.", "text": "Historic mining building in Ruda Slaska.", "category": "landmark", "coords": [18.872866, 50.272192]}, {"name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 144", "text": "Historic fortification in Ruda Slaska.", "category": "landmark", "coords": [18.866319, 50.262245]}, {"name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 145", "text": "Historic fortification in Ruda Slaska.", "category": "landmark", "coords": [18.863661, 50.263806]}, {"name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Polowy Piechoty", "text": "Historic field fortification in Ruda Slaska.", "category": "landmark", "coords": [18.857235, 50.264816]}, {"name": "Ogród Sensoryczny", "text": "Sensory garden in Ruda Slaska.", "category": "landmark", "coords": [18.852761, 50.271684]}, {"name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego", "text": "Catholic church in Ruda Slaska.", "category": "religious", "coords": [18.864475, 50.267876]}, {"name": "Kościół Ewangelicko-Augsburski Odkupiciela", "text": "Protestant church in Ruda Slaska.", "category": "religious", "coords": [18.86309, 50.273285]}, {"name": "Kościół świętego Andrzeja Boboli", "text": "Place of worship in Ruda Slaska.", "category": "religious", "coords": [18.861289, 50.259048]}, {"name": "Kościół par. pw. św. Marii Magdaleny", "text": "Catholic church in Ruda Slaska.", "category": "religious", "coords": [18.834813, 50.268293]}, {"name": "Bagier", "text": "A quiet lake in Ruda Śląska suitable for short walks.", "category": "natural", "coords": [18.792309, 50.284431]}, {"name": "Staw Smrodlok", "text": "A local body of water in Ruda Śląska offering a view of the greenery.", "category": "natural", "coords": [18.883245, 50.306994]}, {"name": "Staw Glombik", "text": "A small pond in Ruda Śląska, ideal for a short break outdoors.", "category": "natural", "coords": [18.885549, 50.307381]}, {"name": "Port Letni sztolni Królowa Luiza", "text": "A water area in Ruda Śląska related to the region's industrial history.", "category": "natural", "coords": [18.783267, 50.30839]}, {"name": "Jezioro Farskie", "text": "A natural lake in Ruda Śląska offering peace and relaxation.", "category": "natural", "coords": [18.746814, 50.261162]}, {"name": "Baśniogród", "text": "A themed playground in Ruda Śląska that sparks children's imagination.", "category": "family", "coords": [18.865516, 50.274008]}, {"name": "Safari", "text": "A playground in Ruda Śląska with various equipment for active play.", "category": "family", "coords": [18.887094, 50.268806]}, {"name": "Piaskownica", "text": "A classic play area with a sandbox in Ruda Śląska for young families.", "category": "family", "coords": [18.891524, 50.265803]}]},
+    id: "poland-ruda-slaska-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Średniowieczny Gródek z XIII w.",
+                  "text": "Mittelalterliche Festungsanlage in Ruda Slaska.",
+                  "category": "fortress",
+                  "coords": [
+                        18.89121,
+                        50.260565
+                  ]
+            },
+            {
+                  "name": "Izba Muzealna - Ciężki Schron Bojowy nr 33",
+                  "text": "Museum in einem historischen Bunker in Ruda Slaska.",
+                  "category": "museum",
+                  "coords": [
+                        18.851696,
+                        50.278126
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amphitheater in Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.836266,
+                        50.2753
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Rudzki",
+                  "text": "Amphitheater in Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.866697,
+                        50.28059
+                  ]
+            },
+            {
+                  "name": "Aquadrom",
+                  "text": "Wasserpark-Attraktion in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.843988,
+                        50.241545
+                  ]
+            },
+            {
+                  "name": "Figura Świętego Jana Nepomucena",
+                  "text": "Denkmal des Heiligen Johannes Nepomuk in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.837841,
+                        50.243826
+                  ]
+            },
+            {
+                  "name": "Dom Kultury w Rudzie Śląskiej",
+                  "text": "Kulturzentrum in Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.83255,
+                        50.268237
+                  ]
+            },
+            {
+                  "name": "Aleja zasłużonych w Rudzie Śląskiej",
+                  "text": "Lokale Sehenswürdigkeit in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.860086,
+                        50.27326
+                  ]
+            },
+            {
+                  "name": "Opuszczony Szpital Miejski",
+                  "text": "Verlassenes Krankenhaus in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.862614,
+                        50.271315
+                  ]
+            },
+            {
+                  "name": "Stary Halembski Młyn",
+                  "text": "Historische Mühle in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.831856,
+                        50.242517
+                  ]
+            },
+            {
+                  "name": "Centrum Sztuki Niezależnej SAMI",
+                  "text": "Kunstzentrum in Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.825633,
+                        50.243981
+                  ]
+            },
+            {
+                  "name": "OWŚ",
+                  "text": "Lokale Attraktion in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.884151,
+                        50.263002
+                  ]
+            },
+            {
+                  "name": "Zrewitalizowana Hałda Pocynkowa",
+                  "text": "Revitalisierte Abraumhalde in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.87752,
+                        50.280886
+                  ]
+            },
+            {
+                  "name": "Pałacyk Donnersmarcków",
+                  "text": "Historisches Herrenhaus in Ruda Slaska.",
+                  "category": "historical",
+                  "coords": [
+                        18.840402,
+                        50.242381
+                  ]
+            },
+            {
+                  "name": "OWŚ nr 44 (Bunkier Szatana)",
+                  "text": "Der historische Bunker, bekannt als OWŚ nr 44 (Bunkier Szatana), stellt ein einzigartiges Wahrzeichen in Ruda Slaska dar. Besucher, die diese polnische Stadt erkunden, können die starken Überreste dieser Verteidigungsstruktur besichtigen. Es bietet einen authentischen Einblick in die Militärgeschichte der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        18.867931,
+                        50.250784
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31",
+                  "text": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31 ist ein wichtiges historisches Wahrzeichen in Ruda Slaska. Dieser polnische Kampfbunker diente zu seiner Zeit als entscheidender Verteidigungspunkt. Geschichtsinteressierte können sein robustes Äußeres erkunden und mehr über seinen strategischen Zweck erfahren.",
+                  "category": "landmark",
+                  "coords": [
+                        18.848034,
+                        50.281094
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35",
+                  "text": "Der historische Schutzbunker OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35 ist ein markantes Wahrzeichen in Ruda Slaska. Besucher können hier die Überreste militärischer Verteidigungsanlagen Polens erkunden. Dieses steinerne Relikt bietet einen authentischen Einblick in die regionale Festungsgeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        18.851798,
+                        50.268191
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30",
+                  "text": "Als Teil der militärischen Geschichte von Ruda Slaska lädt der Bunker OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30 zur Besichtigung ein. Diese historische Verteidigungsanlage veranschaulicht die Befestigungslinien in Polen. Ein Spaziergang um das Wahrzeichen vermittelt Eindrücke vergangener Epochen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.850882,
+                        50.283532
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Artyleryjski nr 32",
+                  "text": "Historischer Artilleriebunker in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.847885,
+                        50.279811
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34",
+                  "text": "Ein weiteres Relikt der polnischen Verteidigungsarchitektur in Ruda Slaska ist der OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34. Dieser historische Panzerabwehrbunker dient heute als stummes Zeugnis der Vergangenheit. Interessierte Gäste können die massiven Strukturen des Wahrzeichens aus der Nähe betrachten.",
+                  "category": "landmark",
+                  "coords": [
+                        18.847871,
+                        50.272277
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 146",
+                  "text": "Historische Befestigungsanlage in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.850183,
+                        50.270143
+                  ]
+            },
+            {
+                  "name": "Budynek Nadszybowy - Szyb Andrzej - 1870 r.",
+                  "text": "Historisches Bergbaugebäude in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.872866,
+                        50.272192
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 144",
+                  "text": "Historische Befestigungsanlage in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.866319,
+                        50.262245
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 145",
+                  "text": "Historische Befestigungsanlage in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.863661,
+                        50.263806
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Polowy Piechoty",
+                  "text": "Historische Feldbefestigung in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.857235,
+                        50.264816
+                  ]
+            },
+            {
+                  "name": "Ogród Sensoryczny",
+                  "text": "Sensorischer Garten in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.852761,
+                        50.271684
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego",
+                  "text": "Katholische Kirche in Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.864475,
+                        50.267876
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski Odkupiciela",
+                  "text": "Evangelische Kirche in Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.86309,
+                        50.273285
+                  ]
+            },
+            {
+                  "name": "Kościół świętego Andrzeja Boboli",
+                  "text": "Religiöser Ort in Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.861289,
+                        50.259048
+                  ]
+            },
+            {
+                  "name": "Kościół par. pw. św. Marii Magdaleny",
+                  "text": "Katholische Kirche in Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.834813,
+                        50.268293
+                  ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "Ein ruhiger See in Ruda Śląska, der sich gut für kurze Spaziergänge eignet.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Ein lokales Gewässer in Ruda Śląska, das einen Ausblick ins Grüne bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Ein kleiner Teich in Ruda Śląska, ideal für eine kleine Auszeit im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Port Letni sztolni Królowa Luiza",
+                  "text": "Ein Wasserbereich in Ruda Śląska mit Bezug zur Industriegeschichte der Region.",
+                  "category": "natural",
+                  "coords": [
+                        18.783267,
+                        50.30839
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "Ein naturnaher See in Ruda Śląska, der Ruhe und Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
+            },
+            {
+                  "name": "Baśniogród",
+                  "text": "Ein thematischer Spielplatz in Ruda Śląska, der die Fantasie der Kinder anregt.",
+                  "category": "family",
+                  "coords": [
+                        18.865516,
+                        50.274008
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Ein Spielplatz in Ruda Śląska mit verschiedenen Geräten für aktives Spielen.",
+                  "category": "family",
+                  "coords": [
+                        18.887094,
+                        50.268806
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "Ein klassischer Spielbereich mit Sandkasten in Ruda Śląska für junge Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.891524,
+                        50.265803
+                  ]
+            },
+            {
+                  "name": "Basen kryty MOSIR",
+                  "text": "Ein städtisches Hallenbad in Ruda Śląska für regelmäßiges Schwimmtraining und aktive Erholung.",
+                  "category": "family",
+                  "coords": [
+                        18.909952,
+                        50.252374
+                  ]
+            },
+            {
+                  "name": "Alpaka Farm",
+                  "text": "Ein Bauernhof in Ruda Śląska, auf dem Familien Alpakas sehen und mehr über diese Tiere erfahren können.",
+                  "category": "family",
+                  "coords": [
+                        18.90622,
+                        50.252107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Średniowieczny Gródek z XIII w.",
+                  "text": "Középkori erődítmény Ruda Slaskában.",
+                  "category": "fortress",
+                  "coords": [
+                        18.89121,
+                        50.260565
+                  ]
+            },
+            {
+                  "name": "Izba Muzealna - Ciężki Schron Bojowy nr 33",
+                  "text": "Múzeum egy történelmi bunkerben Ruda Slaskában.",
+                  "category": "museum",
+                  "coords": [
+                        18.851696,
+                        50.278126
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteátrum Ruda Slaskában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.836266,
+                        50.2753
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Rudzki",
+                  "text": "Amfiteátrum Ruda Slaskában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.866697,
+                        50.28059
+                  ]
+            },
+            {
+                  "name": "Aquadrom",
+                  "text": "Élményfürdő Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.843988,
+                        50.241545
+                  ]
+            },
+            {
+                  "name": "Figura Świętego Jana Nepomucena",
+                  "text": "Szent János Nepomuki-szobor Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.837841,
+                        50.243826
+                  ]
+            },
+            {
+                  "name": "Dom Kultury w Rudzie Śląskiej",
+                  "text": "Kulturális központ Ruda Slaskában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.83255,
+                        50.268237
+                  ]
+            },
+            {
+                  "name": "Aleja zasłużonych w Rudzie Śląskiej",
+                  "text": "Helyi látnivaló Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.860086,
+                        50.27326
+                  ]
+            },
+            {
+                  "name": "Opuszczony Szpital Miejski",
+                  "text": "Elhagyatott kórház Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.862614,
+                        50.271315
+                  ]
+            },
+            {
+                  "name": "Stary Halembski Młyn",
+                  "text": "Történelmi malom Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.831856,
+                        50.242517
+                  ]
+            },
+            {
+                  "name": "Centrum Sztuki Niezależnej SAMI",
+                  "text": "Művészeti központ Ruda Slaskában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.825633,
+                        50.243981
+                  ]
+            },
+            {
+                  "name": "OWŚ",
+                  "text": "Helyi látnivaló Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.884151,
+                        50.263002
+                  ]
+            },
+            {
+                  "name": "Zrewitalizowana Hałda Pocynkowa",
+                  "text": "Revitalizált meddőhányó Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.87752,
+                        50.280886
+                  ]
+            },
+            {
+                  "name": "Pałacyk Donnersmarcków",
+                  "text": "Történelmi kastélyépület Ruda Slaskában.",
+                  "category": "historical",
+                  "coords": [
+                        18.840402,
+                        50.242381
+                  ]
+            },
+            {
+                  "name": "OWŚ nr 44 (Bunkier Szatana)",
+                  "text": "Az OWŚ nr 44 (Bunkier Szatana) néven ismert történelmi bunker egyedülálló nevezetességet képvisel Ruda Slaska városában. A lengyel várost felfedező látogatók megtekinthetik e védelmi építmény erős maradványait. Hiteles bepillantást nyújt a régió hadtörténetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        18.867931,
+                        50.250784
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31",
+                  "text": "Az OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31 egy fontos történelmi nevezetesség, amely Ruda Slaskában található. Ez a lengyel harci bunker a maga idejében kritikus védelmi pontként szolgált. A történelem szerelmesei felfedezhetik robusztus külsejét, és megismerhetik stratégiai célját.",
+                  "category": "landmark",
+                  "coords": [
+                        18.848034,
+                        50.281094
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35",
+                  "text": "Az OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35 egy történelmi óvóhely, amely Ruda Slaska városában található. A látogatók ezen a lengyelországi helyszínen egy régi katonai védelmi vonal masszív maradványait tekinthetik meg. Ez a nevezetesség bepillantást enged a régió erődítményeinek múltjába.",
+                  "category": "landmark",
+                  "coords": [
+                        18.851798,
+                        50.268191
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30",
+                  "text": "A Ruda Slaska-i katonai történelem részeként az OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30 bunker felfedezésre vár. Ez a történelmi lengyelországi védelmi építmény a régi erődítményeket szemlélteti. A nevezetesség körüli séta felidézi a letűnt korszakok hangulatát.",
+                  "category": "landmark",
+                  "coords": [
+                        18.850882,
+                        50.283532
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Artyleryjski nr 32",
+                  "text": "Történelmi tüzérségi bunker Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.847885,
+                        50.279811
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34",
+                  "text": "A lengyel védelmi építészet egy másik ruda slaskai emléke az OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34. Ez a történelmi páncéltörő óvóhely ma a múlt csendes tanújaként szolgál az érdeklődők számára. A látogatók közelről is megfigyelhetik a nevezetesség masszív szerkezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        18.847871,
+                        50.272277
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 146",
+                  "text": "Történelmi erődítmény Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.850183,
+                        50.270143
+                  ]
+            },
+            {
+                  "name": "Budynek Nadszybowy - Szyb Andrzej - 1870 r.",
+                  "text": "Történelmi bányászati épület Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.872866,
+                        50.272192
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 144",
+                  "text": "Történelmi erődítmény Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.866319,
+                        50.262245
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 145",
+                  "text": "Történelmi erődítmény Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.863661,
+                        50.263806
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Polowy Piechoty",
+                  "text": "Történelmi tábori erődítmény Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.857235,
+                        50.264816
+                  ]
+            },
+            {
+                  "name": "Ogród Sensoryczny",
+                  "text": "Szenzoros kert Ruda Slaskában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.852761,
+                        50.271684
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego",
+                  "text": "Katolikus templom Ruda Slaskában.",
+                  "category": "religious",
+                  "coords": [
+                        18.864475,
+                        50.267876
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski Odkupiciela",
+                  "text": "Evangélikus templom Ruda Slaskában.",
+                  "category": "religious",
+                  "coords": [
+                        18.86309,
+                        50.273285
+                  ]
+            },
+            {
+                  "name": "Kościół świętego Andrzeja Boboli",
+                  "text": "Vallási hely Ruda Slaskában.",
+                  "category": "religious",
+                  "coords": [
+                        18.861289,
+                        50.259048
+                  ]
+            },
+            {
+                  "name": "Kościół par. pw. św. Marii Magdaleny",
+                  "text": "Katolikus templom Ruda Slaskában.",
+                  "category": "religious",
+                  "coords": [
+                        18.834813,
+                        50.268293
+                  ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "Csendes tó Ruda Śląskában, amely alkalmas rövid sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "Helyi vízfelület Ruda Śląskában, amely kilátást nyújt a zöldbe.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Kisméretű tó Ruda Śląskában, ideális egy kis szabadtéri pihenőre.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Port Letni sztolni Królowa Luiza",
+                  "text": "Vizes terület Ruda Śląskában, amely a régió ipari múltjához kapcsolódik.",
+                  "category": "natural",
+                  "coords": [
+                        18.783267,
+                        50.30839
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "Természetközeli tó Ruda Śląskában, amely nyugalmat és kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
+            },
+            {
+                  "name": "Baśniogród",
+                  "text": "Tematikus játszótér Ruda Śląskában, amely megmozgatja a gyerekek képzeletét.",
+                  "category": "family",
+                  "coords": [
+                        18.865516,
+                        50.274008
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Játszótér Ruda Śląskában különféle eszközökkel az aktív játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.887094,
+                        50.268806
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "Klasszikus játszórész homokozóval Ruda Śląskában fiatal családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.891524,
+                        50.265803
+                  ]
+            },
+            {
+                  "name": "Basen kryty MOSIR",
+                  "text": "Városi fedett uszoda Ruda Śląskában rendszeres úszóedzésekhez és aktív pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        18.909952,
+                        50.252374
+                  ]
+            },
+            {
+                  "name": "Alpaka Farm",
+                  "text": "Farm Ruda Śląskában, ahol a családok alpakákat láthatnak és többet megtudhatnak róluk.",
+                  "category": "family",
+                  "coords": [
+                        18.90622,
+                        50.252107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Średniowieczny Gródek z XIII w.",
+                  "text": "Fortificație medievală în Ruda Slaska.",
+                  "category": "fortress",
+                  "coords": [
+                        18.89121,
+                        50.260565
+                  ]
+            },
+            {
+                  "name": "Izba Muzealna - Ciężki Schron Bojowy nr 33",
+                  "text": "Muzeu într-un buncăr istoric în Ruda Slaska.",
+                  "category": "museum",
+                  "coords": [
+                        18.851696,
+                        50.278126
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteatru în Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.836266,
+                        50.2753
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Rudzki",
+                  "text": "Amfiteatru în Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.866697,
+                        50.28059
+                  ]
+            },
+            {
+                  "name": "Aquadrom",
+                  "text": "Parc acvatic în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.843988,
+                        50.241545
+                  ]
+            },
+            {
+                  "name": "Figura Świętego Jana Nepomucena",
+                  "text": "Statuie a Sfântului Ioan Nepomuk în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.837841,
+                        50.243826
+                  ]
+            },
+            {
+                  "name": "Dom Kultury w Rudzie Śląskiej",
+                  "text": "Centru cultural în Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.83255,
+                        50.268237
+                  ]
+            },
+            {
+                  "name": "Aleja zasłużonych w Rudzie Śląskiej",
+                  "text": "Obiectiv turistic local în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.860086,
+                        50.27326
+                  ]
+            },
+            {
+                  "name": "Opuszczony Szpital Miejski",
+                  "text": "Spital abandonat în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.862614,
+                        50.271315
+                  ]
+            },
+            {
+                  "name": "Stary Halembski Młyn",
+                  "text": "Moară istorică în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.831856,
+                        50.242517
+                  ]
+            },
+            {
+                  "name": "Centrum Sztuki Niezależnej SAMI",
+                  "text": "Centru de artă în Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.825633,
+                        50.243981
+                  ]
+            },
+            {
+                  "name": "OWŚ",
+                  "text": "Obiectiv turistic local în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.884151,
+                        50.263002
+                  ]
+            },
+            {
+                  "name": "Zrewitalizowana Hałda Pocynkowa",
+                  "text": "Halda de steril revitalizată în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.87752,
+                        50.280886
+                  ]
+            },
+            {
+                  "name": "Pałacyk Donnersmarcków",
+                  "text": "Conac istoric în Ruda Slaska.",
+                  "category": "historical",
+                  "coords": [
+                        18.840402,
+                        50.242381
+                  ]
+            },
+            {
+                  "name": "OWŚ nr 44 (Bunkier Szatana)",
+                  "text": "Buncărul istoric cunoscut sub numele de OWŚ nr 44 (Bunkier Szatana) reprezintă un reper unic în Ruda Slaska. Vizitatorii care explorează acest oraș polonez pot vedea rămășițele puternice ale acestei structuri defensive. Acesta oferă o privire autentică asupra istoriei militare a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.867931,
+                        50.250784
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31",
+                  "text": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31 este un reper istoric important situat în Ruda Slaska. Acest buncăr de luptă polonez a servit ca un punct defensiv critic la vremea sa. Pasionații de istorie pot explora exteriorul său robust și pot afla despre scopul său strategic.",
+                  "category": "landmark",
+                  "coords": [
+                        18.848034,
+                        50.281094
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35",
+                  "text": "Buncărul istoric OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35 este un punct de reper important în Ruda Slaska. Vizitatorii pot explora aici rămășițele vechilor fortificații militare din Polonia. Această relicvă de piatră oferă o perspectivă asupra istoriei apărării regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        18.851798,
+                        50.268191
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30",
+                  "text": "Făcând parte din istoria militară a orașului Ruda Slaska, buncărul OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30 atrage vizitatorii pasionați de trecut. Această structură defensivă ilustrează vechile linii de fortificație din Polonia. O plimbare în jurul acestui reper istoric dezvăluie aspecte ale epocilor trecute.",
+                  "category": "landmark",
+                  "coords": [
+                        18.850882,
+                        50.283532
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Artyleryjski nr 32",
+                  "text": "Buncăr de artilerie istoric în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.847885,
+                        50.279811
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34",
+                  "text": "O altă relicvă a arhitecturii de apărare poloneze din Ruda Slaska este OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34. Acest buncăr istoric antitanc servește astăzi ca o mărturie tăcută a trecutului pentru oaspeții curioși. Cei interesați pot observa îndeaproape structurile masive ale acestui punct de reper.",
+                  "category": "landmark",
+                  "coords": [
+                        18.847871,
+                        50.272277
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 146",
+                  "text": "Fortificație istorică în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.850183,
+                        50.270143
+                  ]
+            },
+            {
+                  "name": "Budynek Nadszybowy - Szyb Andrzej - 1870 r.",
+                  "text": "Clădire minieră istorică în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.872866,
+                        50.272192
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 144",
+                  "text": "Fortificație istorică în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.866319,
+                        50.262245
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 145",
+                  "text": "Fortificație istorică în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.863661,
+                        50.263806
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Polowy Piechoty",
+                  "text": "Fortificație de campanie istorică în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.857235,
+                        50.264816
+                  ]
+            },
+            {
+                  "name": "Ogród Sensoryczny",
+                  "text": "Grădină senzorială în Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.852761,
+                        50.271684
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego",
+                  "text": "Biserică catolică în Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.864475,
+                        50.267876
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski Odkupiciela",
+                  "text": "Biserică evanghelică în Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.86309,
+                        50.273285
+                  ]
+            },
+            {
+                  "name": "Kościół świętego Andrzeja Boboli",
+                  "text": "Lăcaș de cult în Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.861289,
+                        50.259048
+                  ]
+            },
+            {
+                  "name": "Kościół par. pw. św. Marii Magdaleny",
+                  "text": "Biserică catolică în Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.834813,
+                        50.268293
+                  ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "Un lac liniștit în Ruda Śląska, potrivit pentru plimbări scurte.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "O zonă cu apă locală în Ruda Śląska, care oferă o vedere spre natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "Un iaz mic în Ruda Śląska, ideal pentru o scurtă pauză în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Port Letni sztolni Królowa Luiza",
+                  "text": "O zonă cu apă în Ruda Śląska, legată de istoria industrială a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        18.783267,
+                        50.30839
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "Un lac aproape de natură în Ruda Śląska, care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
+            },
+            {
+                  "name": "Baśniogród",
+                  "text": "Un loc de joacă tematic în Ruda Śląska, care stimulează imaginația copiilor.",
+                  "category": "family",
+                  "coords": [
+                        18.865516,
+                        50.274008
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Un loc de joacă în Ruda Śląska cu diverse echipamente pentru joacă activă.",
+                  "category": "family",
+                  "coords": [
+                        18.887094,
+                        50.268806
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "O zonă de joacă clasică cu nisipar în Ruda Śląska pentru familiile tinere.",
+                  "category": "family",
+                  "coords": [
+                        18.891524,
+                        50.265803
+                  ]
+            },
+            {
+                  "name": "Basen kryty MOSIR",
+                  "text": "O piscină interioară municipală din Ruda Śląska pentru antrenament de înot și recreere activă.",
+                  "category": "family",
+                  "coords": [
+                        18.909952,
+                        50.252374
+                  ]
+            },
+            {
+                  "name": "Alpaka Farm",
+                  "text": "O fermă în Ruda Śląska unde familiile pot vedea alpaca și pot afla mai multe despre aceste animale.",
+                  "category": "family",
+                  "coords": [
+                        18.90622,
+                        50.252107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Średniowieczny Gródek z XIII w.",
+                  "text": "Medieval fortification in Ruda Slaska.",
+                  "category": "fortress",
+                  "coords": [
+                        18.89121,
+                        50.260565
+                  ]
+            },
+            {
+                  "name": "Izba Muzealna - Ciężki Schron Bojowy nr 33",
+                  "text": "Museum in a historic bunker in Ruda Slaska.",
+                  "category": "museum",
+                  "coords": [
+                        18.851696,
+                        50.278126
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amphitheatre in Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.836266,
+                        50.2753
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Rudzki",
+                  "text": "Amphitheatre in Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.866697,
+                        50.28059
+                  ]
+            },
+            {
+                  "name": "Aquadrom",
+                  "text": "Water park attraction in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.843988,
+                        50.241545
+                  ]
+            },
+            {
+                  "name": "Figura Świętego Jana Nepomucena",
+                  "text": "Statue of St. John of Nepomuk in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.837841,
+                        50.243826
+                  ]
+            },
+            {
+                  "name": "Dom Kultury w Rudzie Śląskiej",
+                  "text": "Arts centre in Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.83255,
+                        50.268237
+                  ]
+            },
+            {
+                  "name": "Aleja zasłużonych w Rudzie Śląskiej",
+                  "text": "Local landmark in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.860086,
+                        50.27326
+                  ]
+            },
+            {
+                  "name": "Opuszczony Szpital Miejski",
+                  "text": "Abandoned hospital in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.862614,
+                        50.271315
+                  ]
+            },
+            {
+                  "name": "Stary Halembski Młyn",
+                  "text": "Historic mill in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.831856,
+                        50.242517
+                  ]
+            },
+            {
+                  "name": "Centrum Sztuki Niezależnej SAMI",
+                  "text": "Arts centre in Ruda Slaska.",
+                  "category": "cultural",
+                  "coords": [
+                        18.825633,
+                        50.243981
+                  ]
+            },
+            {
+                  "name": "OWŚ",
+                  "text": "Local attraction in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.884151,
+                        50.263002
+                  ]
+            },
+            {
+                  "name": "Zrewitalizowana Hałda Pocynkowa",
+                  "text": "Revitalized slag heap in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.87752,
+                        50.280886
+                  ]
+            },
+            {
+                  "name": "Pałacyk Donnersmarcków",
+                  "text": "Historic manor in Ruda Slaska.",
+                  "category": "historical",
+                  "coords": [
+                        18.840402,
+                        50.242381
+                  ]
+            },
+            {
+                  "name": "OWŚ nr 44 (Bunkier Szatana)",
+                  "text": "The historic bunker known as OWŚ nr 44 (Bunkier Szatana) represents a unique landmark in Ruda Slaska. Visitors exploring this Polish city can view the strong remnants of this defensive structure. It provides an authentic glimpse into the region's military history.",
+                  "category": "landmark",
+                  "coords": [
+                        18.867931,
+                        50.250784
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31",
+                  "text": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy Ppanc nr 31 is an important historical landmark situated in Ruda Slaska. This Polish combat bunker served as a critical defensive point in its time. History enthusiasts can explore its robust exterior and learn about its strategic purpose.",
+                  "category": "landmark",
+                  "coords": [
+                        18.848034,
+                        50.281094
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35",
+                  "text": "The historic bunker OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 35 stands as a prominent landmark in Ruda Slaska. Visitors to this Polish site can examine the remains of past military fortifications. This stone relic offers an authentic glimpse into the region's defensive history.",
+                  "category": "landmark",
+                  "coords": [
+                        18.851798,
+                        50.268191
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30",
+                  "text": "As part of the military history of Ruda Slaska, the OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy nr 30 bunker invites exploration. This historical defensive structure illustrates the old fortification lines across Poland. A walk around the landmark conveys impressions of bygone eras.",
+                  "category": "landmark",
+                  "coords": [
+                        18.850882,
+                        50.283532
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Artyleryjski nr 32",
+                  "text": "Historic artillery pillbox in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.847885,
+                        50.279811
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34",
+                  "text": "Another relic of Polish defense architecture in Ruda Slaska is the OWŚ Punkt Oporu \"Nowa Wieś\" Schron Bojowy PPanc. nr 34. This historic anti-tank bunker serves today as a silent witness to the past for curious guests. Visitors can closely observe the massive structures of this landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        18.847871,
+                        50.272277
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 146",
+                  "text": "Historic fortification in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.850183,
+                        50.270143
+                  ]
+            },
+            {
+                  "name": "Budynek Nadszybowy - Szyb Andrzej - 1870 r.",
+                  "text": "Historic mining building in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.872866,
+                        50.272192
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 144",
+                  "text": "Historic fortification in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.866319,
+                        50.262245
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu\"Nowa Wieś\" Schron Pozorny-Uzbrojony nr 145",
+                  "text": "Historic fortification in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.863661,
+                        50.263806
+                  ]
+            },
+            {
+                  "name": "OWŚ Punkt Oporu \"Nowa Wieś\" Schron Polowy Piechoty",
+                  "text": "Historic field fortification in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.857235,
+                        50.264816
+                  ]
+            },
+            {
+                  "name": "Ogród Sensoryczny",
+                  "text": "Sensory garden in Ruda Slaska.",
+                  "category": "landmark",
+                  "coords": [
+                        18.852761,
+                        50.271684
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wawrzyńca i Świętego Antoniego",
+                  "text": "Catholic church in Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.864475,
+                        50.267876
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski Odkupiciela",
+                  "text": "Protestant church in Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.86309,
+                        50.273285
+                  ]
+            },
+            {
+                  "name": "Kościół świętego Andrzeja Boboli",
+                  "text": "Place of worship in Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.861289,
+                        50.259048
+                  ]
+            },
+            {
+                  "name": "Kościół par. pw. św. Marii Magdaleny",
+                  "text": "Catholic church in Ruda Slaska.",
+                  "category": "religious",
+                  "coords": [
+                        18.834813,
+                        50.268293
+                  ]
+            },
+            {
+                  "name": "Bagier",
+                  "text": "A quiet lake in Ruda Śląska suitable for short walks.",
+                  "category": "natural",
+                  "coords": [
+                        18.792309,
+                        50.284431
+                  ]
+            },
+            {
+                  "name": "Staw Smrodlok",
+                  "text": "A local body of water in Ruda Śląska offering a view of the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        18.883245,
+                        50.306994
+                  ]
+            },
+            {
+                  "name": "Staw Glombik",
+                  "text": "A small pond in Ruda Śląska, ideal for a short break outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.885549,
+                        50.307381
+                  ]
+            },
+            {
+                  "name": "Port Letni sztolni Królowa Luiza",
+                  "text": "A water area in Ruda Śląska related to the region's industrial history.",
+                  "category": "natural",
+                  "coords": [
+                        18.783267,
+                        50.30839
+                  ]
+            },
+            {
+                  "name": "Jezioro Farskie",
+                  "text": "A natural lake in Ruda Śląska offering peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.746814,
+                        50.261162
+                  ]
+            },
+            {
+                  "name": "Baśniogród",
+                  "text": "A themed playground in Ruda Śląska that sparks children's imagination.",
+                  "category": "family",
+                  "coords": [
+                        18.865516,
+                        50.274008
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "A playground in Ruda Śląska with various equipment for active play.",
+                  "category": "family",
+                  "coords": [
+                        18.887094,
+                        50.268806
+                  ]
+            },
+            {
+                  "name": "Piaskownica",
+                  "text": "A classic play area with a sandbox in Ruda Śląska for young families.",
+                  "category": "family",
+                  "coords": [
+                        18.891524,
+                        50.265803
+                  ]
+            },
+            {
+                  "name": "Basen kryty MOSIR",
+                  "text": "A municipal indoor swimming pool in Ruda Śląska for regular swimming training and active rest.",
+                  "category": "family",
+                  "coords": [
+                        18.909952,
+                        50.252374
+                  ]
+            },
+            {
+                  "name": "Alpaka Farm",
+                  "text": "A farm in Ruda Śląska where families can see alpacas and learn more about these animals.",
+                  "category": "family",
+                  "coords": [
+                        18.90622,
+                        50.252107
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Ruda Slaska", hu: "Ruda Śląska", ro: "Ruda Śląska", en: "Ruda Śląska"},
@@ -29007,6 +35127,33 @@ export const polandCitiesV2: POI[] = [
                         17.930546,
                         50.681616
                   ]
+            },
+            {
+                  "name": "Centrum Rozrywki Kubatura",
+                  "text": "Dieses Unterhaltungszentrum in Opole bietet verschiedene Attraktionen für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        17.9418,
+                        50.681776
+                  ]
+            },
+            {
+                  "name": "Kryta pływalnia Wodna Nuta",
+                  "text": "Dieses Hallenbad in Opole bietet Einrichtungen für Familien, um Schwimmen und Wasseraktivitäten zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        17.904232,
+                        50.65152
+                  ]
+            },
+            {
+                  "name": "Miasteczko Strażackie CH Karolinka",
+                  "text": "Dieser Themenpark in Opole bietet Attraktionen zum Thema Feuerwehr für Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.882279,
+                        50.680474
+                  ]
             }
       ],
       "hu": [
@@ -29359,6 +35506,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.930546,
                         50.681616
+                  ]
+            },
+            {
+                  "name": "Centrum Rozrywki Kubatura",
+                  "text": "Ez az opolei szórakoztató központ különféle látnivalókat kínál egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        17.9418,
+                        50.681776
+                  ]
+            },
+            {
+                  "name": "Kryta pływalnia Wodna Nuta",
+                  "text": "Ez az opolei fedett uszoda lehetőséget kínál a családoknak az úszásra és vízi tevékenységekre.",
+                  "category": "family",
+                  "coords": [
+                        17.904232,
+                        50.65152
+                  ]
+            },
+            {
+                  "name": "Miasteczko Strażackie CH Karolinka",
+                  "text": "Ez az opolei vidámpark tűzoltó témájú látnivalókat kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.882279,
+                        50.680474
                   ]
             }
       ],
@@ -29713,6 +35887,33 @@ export const polandCitiesV2: POI[] = [
                         17.930546,
                         50.681616
                   ]
+            },
+            {
+                  "name": "Centrum Rozrywki Kubatura",
+                  "text": "Acest centru de divertisment din Opole oferă diverse atracții pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.9418,
+                        50.681776
+                  ]
+            },
+            {
+                  "name": "Kryta pływalnia Wodna Nuta",
+                  "text": "Această piscină interioară din Opole oferă facilități pentru familii pentru a se bucura de înot și activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        17.904232,
+                        50.65152
+                  ]
+            },
+            {
+                  "name": "Miasteczko Strażackie CH Karolinka",
+                  "text": "Acest parc tematic din Opole oferă atracții cu tematică de pompieri pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.882279,
+                        50.680474
+                  ]
             }
       ],
       "en": [
@@ -30066,6 +36267,33 @@ export const polandCitiesV2: POI[] = [
                         17.930546,
                         50.681616
                   ]
+            },
+            {
+                  "name": "Centrum Rozrywki Kubatura",
+                  "text": "This entertainment center in Opole provides various attractions for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        17.9418,
+                        50.681776
+                  ]
+            },
+            {
+                  "name": "Kryta pływalnia Wodna Nuta",
+                  "text": "This indoor swimming pool in Opole offers facilities for families to enjoy swimming and water activities.",
+                  "category": "family",
+                  "coords": [
+                        17.904232,
+                        50.65152
+                  ]
+            },
+            {
+                  "name": "Miasteczko Strażackie CH Karolinka",
+                  "text": "This theme park in Opole offers fire-themed attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        17.882279,
+                        50.680474
+                  ]
             }
       ]
 },
@@ -30350,6 +36578,24 @@ export const polandCitiesV2: POI[] = [
                         18.998999,
                         50.114871
                   ]
+            },
+            {
+                  "name": "Kryta Pływalnia MOSiR Tychy",
+                  "text": "Dieses Hallenbad in Tichau ist ein lokaler Favorit für Familienfreizeit und Wassergymnastik.",
+                  "category": "family",
+                  "coords": [
+                        18.992793,
+                        50.121587
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Dieser Wasserspielplatz in Tichau ist eine unterhaltsame und sichere Umgebung, in der Kinder das Wasserspiel genießen können.",
+                  "category": "family",
+                  "coords": [
+                        18.993508,
+                        50.088295
+                  ]
             }
       ],
       "hu": [
@@ -30585,6 +36831,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.998999,
                         50.114871
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia MOSiR Tychy",
+                  "text": "Ez a tychyi fedett uszoda a helyiek kedvence a családi szabadidő és a vízi edzés számára.",
+                  "category": "family",
+                  "coords": [
+                        18.992793,
+                        50.121587
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Ez a tychyi vízi játszótér vidám és biztonságos környezet a gyerekek számára a vízi játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        18.993508,
+                        50.088295
                   ]
             }
       ],
@@ -30822,6 +37086,24 @@ export const polandCitiesV2: POI[] = [
                         18.998999,
                         50.114871
                   ]
+            },
+            {
+                  "name": "Kryta Pływalnia MOSiR Tychy",
+                  "text": "Această piscină interioară din Tychy este una dintre preferatele localnicilor pentru petrecerea timpului liber în familie și exerciții în apă.",
+                  "category": "family",
+                  "coords": [
+                        18.992793,
+                        50.121587
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Acest loc de joacă cu apă din Tychy este un mediu distractiv și sigur pentru ca copiii să se bucure de joaca în apă.",
+                  "category": "family",
+                  "coords": [
+                        18.993508,
+                        50.088295
+                  ]
             }
       ],
       "en": [
@@ -31057,6 +37339,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.998999,
                         50.114871
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia MOSiR Tychy",
+                  "text": "This indoor swimming pool in Tychy is a local favorite for family leisure and water exercise.",
+                  "category": "family",
+                  "coords": [
+                        18.992793,
+                        50.121587
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "This water playground in Tychy is a fun and safe environment for children to enjoy water play.",
+                  "category": "family",
+                  "coords": [
+                        18.993508,
+                        50.088295
                   ]
             }
       ]
@@ -31522,6 +37822,15 @@ export const polandCitiesV2: POI[] = [
                         15.206193,
                         52.726501
                   ]
+            },
+            {
+                  "name": "Basen pływacki olimpijski",
+                  "text": "Ein Schwimmbad in Gorzów Wielkopolski mit olympischen Maßen für sportliche Wettkämpfe und Training.",
+                  "category": "family",
+                  "coords": [
+                        15.217807,
+                        52.744462
+                  ]
             }
       ],
       "hu": [
@@ -31937,6 +38246,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.206193,
                         52.726501
+                  ]
+            },
+            {
+                  "name": "Basen pływacki olimpijski",
+                  "text": "Olimpiai méretű úszómedence Gorzów Wielkopolskiban sportversenyekhez és edzésekhez.",
+                  "category": "family",
+                  "coords": [
+                        15.217807,
+                        52.744462
                   ]
             }
       ],
@@ -32354,6 +38672,15 @@ export const polandCitiesV2: POI[] = [
                         15.206193,
                         52.726501
                   ]
+            },
+            {
+                  "name": "Basen pływacki olimpijski",
+                  "text": "O piscină de dimensiuni olimpice în Gorzów Wielkopolski pentru competiții sportive și antrenament.",
+                  "category": "family",
+                  "coords": [
+                        15.217807,
+                        52.744462
+                  ]
             }
       ],
       "en": [
@@ -32769,6 +39096,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         15.206193,
                         52.726501
+                  ]
+            },
+            {
+                  "name": "Basen pływacki olimpijski",
+                  "text": "A swimming pool in Gorzów Wielkopolski with Olympic dimensions for sports competitions and training.",
+                  "category": "family",
+                  "coords": [
+                        15.217807,
+                        52.744462
                   ]
             }
       ]
@@ -34307,6 +40643,24 @@ export const polandCitiesV2: POI[] = [
                         19.432745,
                         52.595094
                   ]
+            },
+            {
+                  "name": "Pływalnia Miejska Podolanka",
+                  "text": "Dieses städtische Schwimmbad in Plozk bietet großartige Einrichtungen für Familienerholung und Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        19.751734,
+                        52.534235
+                  ]
+            },
+            {
+                  "name": "Jagiellonka",
+                  "text": "Dieses Schwimmbad in Plozk bietet einen bequemen Ort für Familien, um Wasseraktivitäten zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        19.698037,
+                        52.545254
+                  ]
             }
       ],
       "hu": [
@@ -34551,6 +40905,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.432745,
                         52.595094
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska Podolanka",
+                  "text": "Ez a płocki városi uszoda remek létesítményeket kínál a családi kikapcsolódáshoz és úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.751734,
+                        52.534235
+                  ]
+            },
+            {
+                  "name": "Jagiellonka",
+                  "text": "Ez a płocki úszómedence kényelmes helyszínt biztosít a családok számára a vízi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        19.698037,
+                        52.545254
                   ]
             }
       ],
@@ -34797,6 +41169,24 @@ export const polandCitiesV2: POI[] = [
                         19.432745,
                         52.595094
                   ]
+            },
+            {
+                  "name": "Pływalnia Miejska Podolanka",
+                  "text": "Această piscină municipală din Płock oferă facilități excelente pentru recreere în familie și înot.",
+                  "category": "family",
+                  "coords": [
+                        19.751734,
+                        52.534235
+                  ]
+            },
+            {
+                  "name": "Jagiellonka",
+                  "text": "Această piscină din Płock oferă o locație convenabilă pentru ca familiile să se bucure de activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        19.698037,
+                        52.545254
+                  ]
             }
       ],
       "en": [
@@ -35041,6 +41431,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.432745,
                         52.595094
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska Podolanka",
+                  "text": "This municipal swimming pool in Płock offers great facilities for family recreation and swimming.",
+                  "category": "family",
+                  "coords": [
+                        19.751734,
+                        52.534235
+                  ]
+            },
+            {
+                  "name": "Jagiellonka",
+                  "text": "This swimming pool in Płock provides a convenient location for families to enjoy water activities.",
+                  "category": "family",
+                  "coords": [
+                        19.698037,
+                        52.545254
                   ]
             }
       ]
@@ -38455,6 +44863,15 @@ export const polandCitiesV2: POI[] = [
                         21.004719,
                         50.034932
                   ]
+            },
+            {
+                  "name": "Pływalnia Letnia ZKS Unia Tarnow",
+                  "text": "Ein Freibad in Tarnów, das in der Sommersaison für Badegäste und Familien geöffnet ist.",
+                  "category": "family",
+                  "coords": [
+                        20.932262,
+                        50.00966
+                  ]
             }
       ],
       "hu": [
@@ -38843,6 +45260,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.004719,
                         50.034932
+                  ]
+            },
+            {
+                  "name": "Pływalnia Letnia ZKS Unia Tarnow",
+                  "text": "Szabadtéri uszoda Tarnówban, amely a nyári szezonban várja a fürdőzőket és családokat.",
+                  "category": "family",
+                  "coords": [
+                        20.932262,
+                        50.00966
                   ]
             }
       ],
@@ -39233,6 +45659,15 @@ export const polandCitiesV2: POI[] = [
                         21.004719,
                         50.034932
                   ]
+            },
+            {
+                  "name": "Pływalnia Letnia ZKS Unia Tarnow",
+                  "text": "O piscină în aer liber din Tarnów, deschisă în sezonul de vară pentru înotători și familii.",
+                  "category": "family",
+                  "coords": [
+                        20.932262,
+                        50.00966
+                  ]
             }
       ],
       "en": [
@@ -39621,6 +46056,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.004719,
                         50.034932
+                  ]
+            },
+            {
+                  "name": "Pływalnia Letnia ZKS Unia Tarnow",
+                  "text": "An outdoor swimming pool in Tarnów open during the summer season for bathers and families.",
+                  "category": "family",
+                  "coords": [
+                        20.932262,
+                        50.00966
                   ]
             }
       ]
@@ -42403,6 +48847,15 @@ export const polandCitiesV2: POI[] = [
                         18.07133,
                         51.759588
                   ]
+            },
+            {
+                  "name": "Kaliski Park Wodny",
+                  "text": "Ein Wasserpark in Kalisz mit verschiedenen Becken, Strömungskanal und Rutschen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.101984,
+                        51.756169
+                  ]
             }
       ],
       "hu": [
@@ -42431,6 +48884,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.07133,
                         51.759588
+                  ]
+            },
+            {
+                  "name": "Kaliski Park Wodny",
+                  "text": "Vízi park Kaliszban különféle medencékkel, sodrófolyosóval és csúszdákkal családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.101984,
+                        51.756169
                   ]
             }
       ],
@@ -42461,6 +48923,15 @@ export const polandCitiesV2: POI[] = [
                         18.07133,
                         51.759588
                   ]
+            },
+            {
+                  "name": "Kaliski Park Wodny",
+                  "text": "Un parc acvatic în Kalisz cu diverse bazine, canal cu curent și tobogane pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.101984,
+                        51.756169
+                  ]
             }
       ],
       "en": [
@@ -42489,6 +48960,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.07133,
                         51.759588
+                  ]
+            },
+            {
+                  "name": "Kaliski Park Wodny",
+                  "text": "A water park in Kalisz featuring various pools, a lazy river, and slides for families.",
+                  "category": "family",
+                  "coords": [
+                        18.101984,
+                        51.756169
                   ]
             }
       ]
@@ -42567,6 +49047,24 @@ export const polandCitiesV2: POI[] = [
                         16.175645,
                         51.206302
                   ]
+            },
+            {
+                  "name": "Kormoran",
+                  "text": "Dieser Wasserpark in Legnica bietet verschiedene wasserbasierte Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.152127,
+                        51.215367
+                  ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "Dieses Schwimmbad in Legnica ist ein idealer Ort für Familienschwimmaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        16.183652,
+                        51.208596
+                  ]
             }
       ],
       "hu": [
@@ -42595,6 +49093,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.175645,
                         51.206302
+                  ]
+            },
+            {
+                  "name": "Kormoran",
+                  "text": "Ez a legnicai vízipark különféle vízi látnivalókat kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        16.152127,
+                        51.215367
+                  ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "Ez a legnicai uszoda ideális hely a családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.183652,
+                        51.208596
                   ]
             }
       ],
@@ -42625,6 +49141,24 @@ export const polandCitiesV2: POI[] = [
                         16.175645,
                         51.206302
                   ]
+            },
+            {
+                  "name": "Kormoran",
+                  "text": "Acest parc acvatic din Legnica oferă diverse atracții pe bază de apă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        16.152127,
+                        51.215367
+                  ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "Această piscină din Legnica este un loc ideal pentru activități de înot în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.183652,
+                        51.208596
+                  ]
             }
       ],
       "en": [
@@ -42653,6 +49187,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.175645,
                         51.206302
+                  ]
+            },
+            {
+                  "name": "Kormoran",
+                  "text": "This water park in Legnica offers various water-based attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        16.152127,
+                        51.215367
+                  ]
+            },
+            {
+                  "name": "Delfinek",
+                  "text": "This swimming pool in Legnica is an ideal spot for family swimming activities.",
+                  "category": "family",
+                  "coords": [
+                        16.183652,
+                        51.208596
                   ]
             }
       ]
@@ -43037,6 +49589,15 @@ export const polandCitiesV2: POI[] = [
                         18.766272,
                         53.488146
                   ]
+            },
+            {
+                  "name": "Basen Delfinek - Strzemyk",
+                  "text": "Dieses Schwimmbad in Graudenz ist eine großartige Einrichtung für Familien, um Schwimmen und Spiel zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        18.727571,
+                        53.463969
+                  ]
             }
       ],
       "hu": [
@@ -43371,6 +49932,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.766272,
                         53.488146
+                  ]
+            },
+            {
+                  "name": "Basen Delfinek - Strzemyk",
+                  "text": "Ez a grudziądzi úszómedence remek lehetőség a családoknak az úszásra és a játékra.",
+                  "category": "family",
+                  "coords": [
+                        18.727571,
+                        53.463969
                   ]
             }
       ],
@@ -43707,6 +50277,15 @@ export const polandCitiesV2: POI[] = [
                         18.766272,
                         53.488146
                   ]
+            },
+            {
+                  "name": "Basen Delfinek - Strzemyk",
+                  "text": "Această piscină din Grudziądz este o facilitate excelentă pentru ca familiile să se bucure de înot și joacă.",
+                  "category": "family",
+                  "coords": [
+                        18.727571,
+                        53.463969
+                  ]
             }
       ],
       "en": [
@@ -44041,6 +50620,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.766272,
                         53.488146
+                  ]
+            },
+            {
+                  "name": "Basen Delfinek - Strzemyk",
+                  "text": "This swimming pool in Grudziądz is a great facility for families to enjoy swimming and play.",
+                  "category": "family",
+                  "coords": [
+                        18.727571,
+                        53.463969
                   ]
             }
       ]
@@ -46202,6 +52790,15 @@ export const polandCitiesV2: POI[] = [
                         18.561049,
                         49.988283
                   ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "Dieses Schwimmbad in Jastrzębie-Zdrój bietet eine angenehme Umgebung für die Wassererholung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        18.596111,
+                        49.956049
+                  ]
             }
       ],
       "hu": [
@@ -46221,6 +52818,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.561049,
                         49.988283
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "Ez a jastrzębie-zdróji úszómedence kellemes környezetet biztosít a családi vízi kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.596111,
+                        49.956049
                   ]
             }
       ],
@@ -46242,6 +52848,15 @@ export const polandCitiesV2: POI[] = [
                         18.561049,
                         49.988283
                   ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "Această piscină din Jastrzębie-Zdrój oferă un mediu plăcut pentru recreerea acvatică în familie.",
+                  "category": "family",
+                  "coords": [
+                        18.596111,
+                        49.956049
+                  ]
             }
       ],
       "en": [
@@ -46261,6 +52876,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.561049,
                         49.988283
+                  ]
+            },
+            {
+                  "name": "Laguna",
+                  "text": "This swimming pool in Jastrzębie-Zdrój offers a pleasant environment for family water recreation.",
+                  "category": "family",
+                  "coords": [
+                        18.596111,
+                        49.956049
                   ]
             }
       ]
@@ -46311,7 +52935,1240 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-nowy-sacz-cities-v2", "sights": {"de": [{"name": "Miasteczko Galicyjskie w Nowym Sączu", "text": "Galizisches Städtchen bei Neu Sandez.", "category": "family", "coords": [20.738771, 49.621217]}, {"name": "Sądecki Park Etnograficzny", "text": "Freilichtmuseum Sądecki in Neu Sandez.", "category": "family", "coords": [20.736141, 49.617379]}, {"name": "Baszta Kowalska", "text": "Kowalska-Turm in Neu Sandez.", "category": "castle", "coords": [20.68961, 49.628625]}, {"name": "Małopolskie Centrum Kultury \"Sokół\"", "text": "Kulturzentrum Sokół in Neu Sandez.", "category": "cultural", "coords": [20.694809, 49.622285]}, {"name": "Galeria Marii Ritter w Nowym Sączu", "text": "Maria-Ritter-Galerie in Neu Sandez.", "category": "museum", "coords": [20.691978, 49.624414]}, {"name": "Bajkoland", "text": "Freizeitpark Bajkoland in Neu Sandez.", "category": "family", "coords": [20.706619, 49.62395]}, {"name": "Muzeum Ziemi Sądeckiej", "text": "Museum des Sądecki-Landes in Neu Sandez.", "category": "museum", "coords": [20.694809, 49.617701]}, {"name": "Amfiteatr leśny", "text": "Wald-Amphitheater in Neu Sandez.", "category": "cultural", "coords": [20.737383, 49.617074]}, {"name": "Amfiteatr w Parku Strzeleckim", "text": "Amphitheater im Park Strzelecki in Neu Sandez.", "category": "cultural", "coords": [20.686398, 49.619247]}, {"name": "Ruiny Zamku Królewskiego w Nowym Sączu", "text": "Ruinen der königlichen Burg in Neu Sandez.", "category": "historical", "coords": [20.688595, 49.628464]}, {"name": "Pomnik Solidarności", "text": "Solidarność-Denkmal in Neu Sandez.", "category": "historical", "coords": [20.715726, 49.617672]}, {"name": "Popiersie Stanisława Małachowskiego", "text": "Ein Denkmal in Neu Sandez.", "category": "historical", "coords": [20.690755, 49.627058]}, {"name": "Pomnik mjr.Henryka Sucharskiego", "text": "Ein Denkmal für Major Henryk Sucharski in Neu Sandez.", "category": "historical", "coords": [20.718685, 49.626658]}, {"name": "Ruiny Starego Ratusza", "text": "Ruinen des alten Rathauses in Neu Sandez.", "category": "historical", "coords": [20.690974, 49.625305]}, {"name": "Kościół ewangelicki ze Stadeł", "text": "Eine Sehenswürdigkeit in Neu Sandez.", "category": "landmark", "coords": [20.738125, 49.619953]}, {"name": "Kaplica Niepokalanego Poczęcia NMP", "text": "Eine Kapelle in Neu Sandez.", "category": "religious", "coords": [20.695676, 49.615821]}, {"name": "Kościół pw. św. Kazimierza", "text": "Die religiöse Stätte Kościół pw. św. Kazimierza bereichert das Stadtbild von Neu Sandez (Nowy Sacz). Diese polnische Kirche bietet Besuchern einen Ort der Ruhe und der spirituellen Besinnung. Gäste können die sakrale Atmosphäre des Gebäudes bei einem Besuch auf sich wirken lassen.", "category": "religious", "coords": [20.693874, 49.622283]}, {"name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu", "text": "Eine historische Basilika in Neu Sandez.", "category": "religious", "coords": [20.693355, 49.625094]}, {"name": "Kościół pw. Świętego Krzyża w Nowym Sączu", "text": "Die dem Heiligen Kreuz gewidmete Kościół pw. Świętego Krzyża w Nowym Sączu ist ein markantes Kirchengebäude in Polen. Reisende in Neu Sandez können die kirchliche Präsenz dieses Ortes in der Gemeinde schätzen lernen. Sie dient den Gläubigen der Region als aktives Zentrum des Gebets.", "category": "religious", "coords": [20.674117, 49.627942]}, {"name": "Kościół św. Heleny w Nowym Sączu", "text": "Im Herzen der Stadt befindet sich die Kościół św. Heleny w Nowym Sączu, eine friedliche religiöse Destination in Polen. Diese Kirche lädt alle ein, die lokale spirituelle Tradition in Neu Sandez kennenzulernen. Das Gebäude steht symbolisch für die andauernde Hingabe der örtlichen Gemeinde.", "category": "religious", "coords": [20.681311, 49.628355]}, {"name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu", "text": "Ein historisches Gebäude in Neu Sandez.", "category": "landmark", "coords": [20.688843, 49.62623]}, {"name": "Kościół Najświętszej Maryi Panny Częstochowskiej w Nowym Sączu-Zabełczu", "text": "Im Stadtteil Zabełcze von Neu Sandez liegt die Kościół Najświętszej Maryi Panny Częstochowskiej, eine bedeutende Stätte des Gebets. Besucher dieser polnischen Kirche erwartet eine einladende Atmosphäre, die der Jungfrau Maria gewidmet ist. Das religiöse Bauwerk fungiert als spiritueller Pfeiler für die lokale Bevölkerung.", "category": "religious", "coords": [20.69154, 49.648048]}, {"name": "Kościół Matki Bożej Niepokalanej w Nowym Sączu", "text": "Die Kościół Matki Bożej Niepokalanej w Nowym Sączu prägt ihre Heimatstadt mit einer starken religiösen Präsenz. Reisende in Neu Sandez (Polen) können diese Kirche betreten, um einen Moment der stillen Einkehr zu erleben. Das Bauwerk repräsentiert den lokalen Glauben und die Verehrung der Unbefleckten Mutter.", "category": "religious", "coords": [20.7151, 49.61594]}, {"name": "Kościół pw. Najświętszego Serca Pana Jezusa", "text": "Die dem Heiligsten Herzen Jesu geweihte Kościół pw. Najświętszego Serca Pana Jezusa ist ein wichtiges religiöses Wahrzeichen in Neu Sandez. Diese Kirche bietet Einheimischen und Reisenden in Polen einen friedlichen Zufluchtsort. Gäste können ihre zentrale Rolle im täglichen spirituellen Leben der Stadt beobachten.", "category": "religious", "coords": [20.700204, 49.609033]}, {"name": "Kościół Adwentystów Dnia Siódmego", "text": "Ein Gotteshaus in Neu Sandez.", "category": "religious", "coords": [20.707116, 49.633126]}, {"name": "Urząd Gminy w Chełmcu", "text": "Das Rathaus der Gemeinde Chełmiec bei Neu Sandez.", "category": "historical", "coords": [20.666817, 49.629863]}, {"name": "Kościół pw. Świętego Jana Pawła II", "text": "Benannt nach dem beliebten Papst, ist die Kościół pw. Świętego Jana Pawła II eine modernere Gebetsstätte in Neu Sandez (Nowy Sacz). Besucher dieser polnischen Stadt können das spirituelle Erbe entdecken, das in dieser Kirche gefeiert wird. Die religiöse Einrichtung dient den Gläubigen als wichtiger lokaler Treffpunkt.", "category": "religious", "coords": [20.715439, 49.630808]}, {"name": "Kościół pw. Ducha Świętego", "text": "Die Kościół pw. Ducha Świętego steht als Zeugnis des aktiven religiösen Lebens in Neu Sandez. Diese dem Heiligen Geist gewidmete Kirche in Polen lädt Gäste zur persönlichen Reflexion ein. Das Kirchengebäude bereichert die vielfältige kirchliche Landschaft der gesamten Stadt.", "category": "religious", "coords": [20.692102, 49.626477]}, {"name": "Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej", "text": "Zu Ehren der Unbefleckten Empfängnis ist die Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej eine zentrale Kirche in Neu Sandez (Nowy Sacz). Wer durch Polen reist, hält hier oft inne, um das friedliche religiöse Ambiente zu genießen. Sie fungiert als spiritueller Rückzugsort inmitten der städtischen Umgebung.", "category": "religious", "coords": [20.713343, 49.61472]}, {"name": "TKt48-177", "text": "Eine historische Lokomotive in Neu Sandez.", "category": "landmark", "coords": [20.701671, 49.606734]}, {"name": "Ogród sensoryczny", "text": "Ein sensorischer Garten in Nowy Sącz, der die Sinne von Kindern auf spielerische Weise fördert.", "category": "family", "coords": [20.737328, 49.621233]}, {"name": "Szachy", "text": "Ein Spielplatz in Nowy Sącz mit einem Schachthema, ideal für kleine Strategen.", "category": "family", "coords": [20.709617, 49.61412]}], "hu": [{"name": "Miasteczko Galicyjskie w Nowym Sączu", "text": "Galíciai kisváros Neu Sandez közelében.", "category": "family", "coords": [20.738771, 49.621217]}, {"name": "Sądecki Park Etnograficzny", "text": "Sądecki szabadtéri múzeum Neu Sandezben.", "category": "family", "coords": [20.736141, 49.617379]}, {"name": "Baszta Kowalska", "text": "Kowalska-torony Neu Sandezben.", "category": "castle", "coords": [20.68961, 49.628625]}, {"name": "Małopolskie Centrum Kultury \"Sokół\"", "text": "Sokół kulturális központ Neu Sandezben.", "category": "cultural", "coords": [20.694809, 49.622285]}, {"name": "Galeria Marii Ritter w Nowym Sączu", "text": "Maria Ritter-galéria Neu Sandezben.", "category": "museum", "coords": [20.691978, 49.624414]}, {"name": "Bajkoland", "text": "Bajkoland élménypark Neu Sandezben.", "category": "family", "coords": [20.706619, 49.62395]}, {"name": "Muzeum Ziemi Sądeckiej", "text": "Sądecki régió múzeuma Neu Sandezben.", "category": "museum", "coords": [20.694809, 49.617701]}, {"name": "Amfiteatr leśny", "text": "Erdei amfiteátrum Neu Sandezben.", "category": "cultural", "coords": [20.737383, 49.617074]}, {"name": "Amfiteatr w Parku Strzeleckim", "text": "Amfiteátrum a Strzelecki-parkban, Neu Sandezben.", "category": "cultural", "coords": [20.686398, 49.619247]}, {"name": "Ruiny Zamku Królewskiego w Nowym Sączu", "text": "A királyi vár romjai Neu Sandezben.", "category": "historical", "coords": [20.688595, 49.628464]}, {"name": "Pomnik Solidarności", "text": "Szolidaritás-emlékmű Neu Sandezben.", "category": "historical", "coords": [20.715726, 49.617672]}, {"name": "Popiersie Stanisława Małachowskiego", "text": "Emlékmű Neu Sandezben.", "category": "historical", "coords": [20.690755, 49.627058]}, {"name": "Pomnik mjr.Henryka Sucharskiego", "text": "Henryk Sucharski őrnagy emlékműve Neu Sandezben.", "category": "historical", "coords": [20.718685, 49.626658]}, {"name": "Ruiny Starego Ratusza", "text": "A régi városháza romjai Neu Sandezben.", "category": "historical", "coords": [20.690974, 49.625305]}, {"name": "Kościół ewangelicki ze Stadeł", "text": "Látnivaló Neu Sandezben.", "category": "landmark", "coords": [20.738125, 49.619953]}, {"name": "Kaplica Niepokalanego Poczęcia NMP", "text": "Kápolna Neu Sandezben.", "category": "religious", "coords": [20.695676, 49.615821]}, {"name": "Kościół pw. św. Kazimierza", "text": "A Kościół pw. św. Kazimierza nevű vallási helyszín Nowy Sacz városképét gazdagítja. Ez a lengyelországi templom a nyugalom és a spirituális elmélkedés helyszínét kínálja a látogatóknak. A vendégek a látogatás során átadhatják magukat az épület szakrális atmoszférájának.", "category": "religious", "coords": [20.693874, 49.622283]}, {"name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu", "text": "Történelmi bazilika Neu Sandezben.", "category": "religious", "coords": [20.693355, 49.625094]}, {"name": "Kościół pw. Świętego Krzyża w Nowym Sączu", "text": "A Szent Keresztnek szentelt Kościół pw. Świętego Krzyża w Nowym Sączu egy jelentős egyházi épület Lengyelországban. A Nowy Saczba látogatók értékelhetik e hely vallási jelenlétét a közösségben. A régió hívői számára az imádság aktív központjaként szolgál.", "category": "religious", "coords": [20.674117, 49.627942]}, {"name": "Kościół św. Heleny w Nowym Sączu", "text": "A város szívében található a Kościół św. Heleny w Nowym Sączu, egy békés vallási célpont Lengyelországban. Ez a templom mindenkit meghív, aki meg szeretné ismerni a helyi spirituális hagyományokat Nowy Saczban. Az épület a helyi közösség folyamatos odaadását szimbolizálja.", "category": "religious", "coords": [20.681311, 49.628355]}, {"name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu", "text": "Történelmi épület Neu Sandezben.", "category": "landmark", "coords": [20.688843, 49.62623]}, {"name": "Kościół Najświętszej Maryi Panny Częstochowskiej w Nowym Sączu-Zabełczu", "text": "Nowy Sacz Zabełcze negyedében található a Kościół Najświętszej Maryi Panny Częstochowskiej, amely az imádság jelentős helyszíne. Ennek a lengyelországi templomnak a látogatóit Szűz Máriának szentelt, hívogató légkör fogadja. A vallási építmény a helyi lakosság spirituális pilléreként működik.", "category": "religious", "coords": [20.69154, 49.648048]}, {"name": "Kościół Matki Bożej Niepokalanej w Nowym Sączu", "text": "A Kościół Matki Bożej Niepokalanej w Nowym Sączu erős vallási jelenléttel határozza meg szülővárosát. A Nowy Saczba (Lengyelország) látogató utazók beléphetnek ebbe a templomba, hogy átéljék a csendes elmélyülés pillanatait. Az építmény a helyi hitet és a Szeplőtelen Anya tiszteletét képviseli.", "category": "religious", "coords": [20.7151, 49.61594]}, {"name": "Kościół pw. Najświętszego Serca Pana Jezusa", "text": "A Jézus Szent Szívének szentelt Kościół pw. Najświętszego Serca Pana Jezusa egy fontos vallási nevezetesség Nowy Saczban. Ez a templom békés menedéket kínál a helyieknek és a Lengyelországba utazóknak egyaránt. A vendégek megfigyelhetik a város mindennapi spirituális életében betöltött központi szerepét.", "category": "religious", "coords": [20.700204, 49.609033]}, {"name": "Kościół Adwentystów Dnia Siódmego", "text": "Imaház Neu Sandezben.", "category": "religious", "coords": [20.707116, 49.633126]}, {"name": "Urząd Gminy w Chełmcu", "text": "Chełmiec község városházája Neu Sandez közelében.", "category": "historical", "coords": [20.666817, 49.629863]}, {"name": "Kościół pw. Świętego Jana Pawła II", "text": "A szeretett pápáról elnevezett Kościół pw. Świętego Jana Pawła II egy újabb imádkozóhely Nowy Sacz városában. Ennek a lengyel városnak a látogatói felfedezhetik a templomban ünnepelt spirituális örökséget. A vallási intézmény a hívők fontos helyi találkozóhelyeként szolgál.", "category": "religious", "coords": [20.715439, 49.630808]}, {"name": "Kościół pw. Ducha Świętego", "text": "A Kościół pw. Ducha Świętego az aktív vallási élet tanújaként áll Nowy Saczban. Ez a Szentléleknek szentelt lengyelországi templom személyes elmélkedésre hívja a vendégeket. A templomépület gazdagítja az egész város sokszínű egyházi tájképét.", "category": "religious", "coords": [20.692102, 49.626477]}, {"name": "Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej", "text": "A Szeplőtelen Fogantatás tiszteletére emelt Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej egy központi templom Nowy Saczban. A Lengyelországon átutazók gyakran megállnak itt, hogy élvezzék a békés vallási hangulatot. Ez a hely egy spirituális menedékként működik a városi környezetben.", "category": "religious", "coords": [20.713343, 49.61472]}, {"name": "TKt48-177", "text": "Történelmi mozdony Neu Sandezben.", "category": "landmark", "coords": [20.701671, 49.606734]}, {"name": "Ogród sensoryczny", "text": "Egy szenzoros kert Nowy Sączban, amely játékos módon fejleszti a gyermekek érzékszerveit.", "category": "family", "coords": [20.737328, 49.621233]}, {"name": "Szachy", "text": "Egy sakk tematikájú játszótér Nowy Sączban, amely ideális a kis stratégák számára.", "category": "family", "coords": [20.709617, 49.61412]}], "ro": [{"name": "Miasteczko Galicyjskie w Nowym Sączu", "text": "Micuțul oraș galițian lângă Neu Sandez.", "category": "family", "coords": [20.738771, 49.621217]}, {"name": "Sądecki Park Etnograficzny", "text": "Muzeul în aer liber Sądecki din Neu Sandez.", "category": "family", "coords": [20.736141, 49.617379]}, {"name": "Baszta Kowalska", "text": "Turnul Kowalska din Neu Sandez.", "category": "castle", "coords": [20.68961, 49.628625]}, {"name": "Małopolskie Centrum Kultury \"Sokół\"", "text": "Centrul cultural Sokół din Neu Sandez.", "category": "cultural", "coords": [20.694809, 49.622285]}, {"name": "Galeria Marii Ritter w Nowym Sączu", "text": "Galeria Maria Ritter din Neu Sandez.", "category": "museum", "coords": [20.691978, 49.624414]}, {"name": "Bajkoland", "text": "Parcul de distracții Bajkoland din Neu Sandez.", "category": "family", "coords": [20.706619, 49.62395]}, {"name": "Muzeum Ziemi Sądeckiej", "text": "Muzeul Ținutului Sądecki din Neu Sandez.", "category": "museum", "coords": [20.694809, 49.617701]}, {"name": "Amfiteatr leśny", "text": "Amfiteatru forestier din Neu Sandez.", "category": "cultural", "coords": [20.737383, 49.617074]}, {"name": "Amfiteatr w Parku Strzeleckim", "text": "Amfiteatru în Parcul Strzelecki din Neu Sandez.", "category": "cultural", "coords": [20.686398, 49.619247]}, {"name": "Ruiny Zamku Królewskiego w Nowym Sączu", "text": "Ruinele castelului regal din Neu Sandez.", "category": "historical", "coords": [20.688595, 49.628464]}, {"name": "Pomnik Solidarności", "text": "Monumentul Solidarității din Neu Sandez.", "category": "historical", "coords": [20.715726, 49.617672]}, {"name": "Popiersie Stanisława Małachowskiego", "text": "Un monument în Neu Sandez.", "category": "historical", "coords": [20.690755, 49.627058]}, {"name": "Pomnik mjr.Henryka Sucharskiego", "text": "Un monument al maiorului Henryk Sucharski în Neu Sandez.", "category": "historical", "coords": [20.718685, 49.626658]}, {"name": "Ruiny Starego Ratusza", "text": "Ruinele vechii primării din Neu Sandez.", "category": "historical", "coords": [20.690974, 49.625305]}, {"name": "Kościół ewangelicki ze Stadeł", "text": "O atracție turistică în Neu Sandez.", "category": "landmark", "coords": [20.738125, 49.619953]}, {"name": "Kaplica Niepokalanego Poczęcia NMP", "text": "O capelă în Neu Sandez.", "category": "religious", "coords": [20.695676, 49.615821]}, {"name": "Kościół pw. św. Kazimierza", "text": "Lăcașul de cult Kościół pw. św. Kazimierza îmbogățește peisajul urban din Nowy Sacz. Această biserică poloneză oferă vizitatorilor un loc de liniște și reflecție spirituală. Oaspeții se pot bucura de atmosfera sacră a clădirii în timpul vizitei lor.", "category": "religious", "coords": [20.693874, 49.622283]}, {"name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu", "text": "O bazilică istorică în Neu Sandez.", "category": "religious", "coords": [20.693355, 49.625094]}, {"name": "Kościół pw. Świętego Krzyża w Nowym Sączu", "text": "Dedicată Sfintei Cruci, Kościół pw. Świętego Krzyża w Nowym Sączu este o clădire bisericească remarcabilă din Polonia. Călătorii din Nowy Sacz pot aprecia prezența ecleziastică a acestui loc în comunitate. Aceasta servește drept centru activ de rugăciune pentru credincioșii din regiune.", "category": "religious", "coords": [20.674117, 49.627942]}, {"name": "Kościół św. Heleny w Nowym Sączu", "text": "Situată în inima orașului, Kościół św. Heleny w Nowym Sączu este o destinație religioasă pașnică din Polonia. Această biserică invită pe toți cei care doresc să cunoască tradițiile spirituale locale din Nowy Sacz. Clădirea simbolizează devotamentul continuu al comunității locale.", "category": "religious", "coords": [20.681311, 49.628355]}, {"name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu", "text": "O clădire istorică în Neu Sandez.", "category": "landmark", "coords": [20.688843, 49.62623]}, {"name": "Kościół Najświętszej Maryi Panny Częstochowskiej w Nowym Sączu-Zabełczu", "text": "În cartierul Zabełcze din Nowy Sacz se află Kościół Najświętszej Maryi Panny Częstochowskiej, un loc important de rugăciune. Vizitatorii acestei biserici din Polonia sunt întâmpinați de o atmosferă primitoare, dedicată Fecioarei Maria. Edificiul religios funcționează ca un pilon spiritual pentru populația locală.", "category": "religious", "coords": [20.69154, 49.648048]}, {"name": "Kościół Matki Bożej Niepokalanej w Nowym Sączu", "text": "Kościół Matki Bożej Niepokalanej w Nowym Sączu își marchează orașul natal printr-o puternică prezență religioasă. Călătorii din Nowy Sacz (Polonia) pot păși în această biserică pentru a experimenta un moment de meditație tăcută. Structura reprezintă credința locală și venerarea Mamei Imaculate.", "category": "religious", "coords": [20.7151, 49.61594]}, {"name": "Kościół pw. Najświętszego Serca Pana Jezusa", "text": "Dedicată Preasfintei Inimi a lui Isus, Kościół pw. Najświętszego Serca Pana Jezusa este un important punct de reper religios în Nowy Sacz. Această biserică oferă un refugiu pașnic pentru localnici și pentru călătorii din Polonia. Oaspeții pot observa rolul său central în viața spirituală cotidiană a orașului.", "category": "religious", "coords": [20.700204, 49.609033]}, {"name": "Kościół Adwentystów Dnia Siódmego", "text": "Un lăcaș de cult în Neu Sandez.", "category": "religious", "coords": [20.707116, 49.633126]}, {"name": "Urząd Gminy w Chełmcu", "text": "Primăria comunei Chełmiec lângă Neu Sandez.", "category": "historical", "coords": [20.666817, 49.629863]}, {"name": "Kościół pw. Świętego Jana Pawła II", "text": "Numită după iubitul papă, Kościół pw. Świętego Jana Pawła II este un loc de rugăciune din Nowy Sacz. Vizitatorii acestui oraș polonez pot descoperi moștenirea spirituală celebrată în această biserică. Instituția religioasă servește ca un important punct de întâlnire local pentru credincioși.", "category": "religious", "coords": [20.715439, 49.630808]}, {"name": "Kościół pw. Ducha Świętego", "text": "Kościół pw. Ducha Świętego stă ca o mărturie a vieții religioase active din Nowy Sacz. Această biserică din Polonia, dedicată Sfântului Duh, invită oaspeții la reflecție personală. Clădirea bisericii îmbogățește peisajul ecleziastic divers al întregului oraș.", "category": "religious", "coords": [20.692102, 49.626477]}, {"name": "Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej", "text": "În onoarea Imaculatei Concepții, Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej este o biserică centrală în Nowy Sacz. Cei care călătoresc prin Polonia se opresc adesea aici pentru a se bucura de ambianța religioasă pașnică. Ea funcționează ca un refugiu spiritual în mijlocul mediului urban.", "category": "religious", "coords": [20.713343, 49.61472]}, {"name": "TKt48-177", "text": "O locomotivă istorică în Neu Sandez.", "category": "landmark", "coords": [20.701671, 49.606734]}, {"name": "Ogród sensoryczny", "text": "O grădină senzorială în Nowy Sącz care stimulează simțurile copiilor într-un mod ludic.", "category": "family", "coords": [20.737328, 49.621233]}, {"name": "Szachy", "text": "Un loc de joacă cu tematică de șah în Nowy Sącz, ideal pentru micii strategi.", "category": "family", "coords": [20.709617, 49.61412]}], "en": [{"name": "Miasteczko Galicyjskie w Nowym Sączu", "text": "Galician town near Neu Sandez.", "category": "family", "coords": [20.738771, 49.621217]}, {"name": "Sądecki Park Etnograficzny", "text": "Sądecki open-air museum in Neu Sandez.", "category": "family", "coords": [20.736141, 49.617379]}, {"name": "Baszta Kowalska", "text": "Kowalska Tower in Neu Sandez.", "category": "castle", "coords": [20.68961, 49.628625]}, {"name": "Małopolskie Centrum Kultury \"Sokół\"", "text": "Sokół cultural center in Neu Sandez.", "category": "cultural", "coords": [20.694809, 49.622285]}, {"name": "Galeria Marii Ritter w Nowym Sączu", "text": "Maria Ritter Gallery in Neu Sandez.", "category": "museum", "coords": [20.691978, 49.624414]}, {"name": "Bajkoland", "text": "Bajkoland amusement park in Neu Sandez.", "category": "family", "coords": [20.706619, 49.62395]}, {"name": "Muzeum Ziemi Sądeckiej", "text": "Museum of the Sądecki region in Neu Sandez.", "category": "museum", "coords": [20.694809, 49.617701]}, {"name": "Amfiteatr leśny", "text": "Forest amphitheatre in Neu Sandez.", "category": "cultural", "coords": [20.737383, 49.617074]}, {"name": "Amfiteatr w Parku Strzeleckim", "text": "Amphitheatre in Strzelecki Park in Neu Sandez.", "category": "cultural", "coords": [20.686398, 49.619247]}, {"name": "Ruiny Zamku Królewskiego w Nowym Sączu", "text": "Ruins of the royal castle in Neu Sandez.", "category": "historical", "coords": [20.688595, 49.628464]}, {"name": "Pomnik Solidarności", "text": "Solidarity monument in Neu Sandez.", "category": "historical", "coords": [20.715726, 49.617672]}, {"name": "Popiersie Stanisława Małachowskiego", "text": "A monument in Neu Sandez.", "category": "historical", "coords": [20.690755, 49.627058]}, {"name": "Pomnik mjr.Henryka Sucharskiego", "text": "A monument to Major Henryk Sucharski in Neu Sandez.", "category": "historical", "coords": [20.718685, 49.626658]}, {"name": "Ruiny Starego Ratusza", "text": "Ruins of the old town hall in Neu Sandez.", "category": "historical", "coords": [20.690974, 49.625305]}, {"name": "Kościół ewangelicki ze Stadeł", "text": "An attraction in Neu Sandez.", "category": "landmark", "coords": [20.738125, 49.619953]}, {"name": "Kaplica Niepokalanego Poczęcia NMP", "text": "A chapel in Neu Sandez.", "category": "religious", "coords": [20.695676, 49.615821]}, {"name": "Kościół pw. św. Kazimierza", "text": "The religious site Kościół pw. św. Kazimierza enriches the cityscape of Nowy Sacz. This Polish church offers visitors a place of peace and spiritual reflection. Guests can absorb the sacred atmosphere of the building during their visit.", "category": "religious", "coords": [20.693874, 49.622283]}, {"name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu", "text": "A historic basilica in Neu Sandez.", "category": "religious", "coords": [20.693355, 49.625094]}, {"name": "Kościół pw. Świętego Krzyża w Nowym Sączu", "text": "Dedicated to the Holy Cross, the Kościół pw. Świętego Krzyża w Nowym Sączu is a notable religious building in Poland. Visitors to Nowy Sacz can appreciate the ecclesiastical presence of this site within the community. It serves as an active center of prayer for the faithful of the region.", "category": "religious", "coords": [20.674117, 49.627942]}, {"name": "Kościół św. Heleny w Nowym Sączu", "text": "Situated in the city, the Kościół św. Heleny w Nowym Sączu functions as a serene religious destination in Poland. This church welcomes everyone who wishes to learn about the local spiritual traditions in Nowy Sacz. The building stands as a symbol of the enduring devotion of the local community.", "category": "religious", "coords": [20.681311, 49.628355]}, {"name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu", "text": "A historic building in Neu Sandez.", "category": "landmark", "coords": [20.688843, 49.62623]}, {"name": "Kościół Najświętszej Maryi Panny Częstochowskiej w Nowym Sączu-Zabełczu", "text": "Located in the Zabełcze district of Nowy Sacz, the Kościół Najświętszej Maryi Panny Częstochowskiej is a significant place of prayer. Visitors exploring this Polish church are met with a welcoming atmosphere dedicated to the Virgin Mary. The religious structure functions as a spiritual pillar for the local population.", "category": "religious", "coords": [20.69154, 49.648048]}, {"name": "Kościół Matki Bożej Niepokalanej w Nowym Sączu", "text": "The Kościół Matki Bożej Niepokalanej w Nowym Sączu graces its hometown with a strong religious presence. Travelers in Nowy Sacz, Poland, can step inside this church to experience a moment of quiet contemplation. The structure represents local faith and dedication to the Immaculate Mother.", "category": "religious", "coords": [20.7151, 49.61594]}, {"name": "Kościół pw. Najświętszego Serca Pana Jezusa", "text": "Dedicated to the Sacred Heart of Jesus, the Kościół pw. Najświętszego Serca Pana Jezusa is an important religious landmark in Nowy Sacz. This church provides a peaceful sanctuary for locals and travelers in Poland alike. Guests can observe its central role in the daily spiritual life of the city.", "category": "religious", "coords": [20.700204, 49.609033]}, {"name": "Kościół Adwentystów Dnia Siódmego", "text": "A place of worship in Neu Sandez.", "category": "religious", "coords": [20.707116, 49.633126]}, {"name": "Urząd Gminy w Chełmcu", "text": "The town hall of Chełmiec commune near Neu Sandez.", "category": "historical", "coords": [20.666817, 49.629863]}, {"name": "Kościół pw. Świętego Jana Pawła II", "text": "Named after the beloved Pope, the Kościół pw. Świętego Jana Pawła II is a modern place of worship in Nowy Sacz. Visitors to this Polish city can discover the spiritual legacy celebrated within this church. The religious institution serves as an important local gathering point for the faithful.", "category": "religious", "coords": [20.715439, 49.630808]}, {"name": "Kościół pw. Ducha Świętego", "text": "The Kościół pw. Ducha Świętego stands as a testament to the active religious life in Nowy Sacz. Dedicated to the Holy Spirit, this church in Poland invites guests for personal reflection. The building enriches the diverse ecclesiastical landscape of the entire city.", "category": "religious", "coords": [20.692102, 49.626477]}, {"name": "Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej", "text": "Honoring the Immaculate Conception, the Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej is a key church in Nowy Sacz. Travelers passing through Poland often pause here to enjoy the peaceful religious ambiance. It acts as a spiritual retreat amidst the urban environment.", "category": "religious", "coords": [20.713343, 49.61472]}, {"name": "TKt48-177", "text": "A historic locomotive in Neu Sandez.", "category": "landmark", "coords": [20.701671, 49.606734]}, {"name": "Ogród sensoryczny", "text": "A sensory garden in Nowy Sącz that promotes children's senses in a playful way.", "category": "family", "coords": [20.737328, 49.621233]}, {"name": "Szachy", "text": "A playground in Nowy Sącz with a chess theme, ideal for little strategists.", "category": "family", "coords": [20.709617, 49.61412]}]},
+    id: "poland-nowy-sacz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miasteczko Galicyjskie w Nowym Sączu",
+                  "text": "Galizisches Städtchen bei Neu Sandez.",
+                  "category": "family",
+                  "coords": [
+                        20.738771,
+                        49.621217
+                  ]
+            },
+            {
+                  "name": "Sądecki Park Etnograficzny",
+                  "text": "Freilichtmuseum Sądecki in Neu Sandez.",
+                  "category": "family",
+                  "coords": [
+                        20.736141,
+                        49.617379
+                  ]
+            },
+            {
+                  "name": "Baszta Kowalska",
+                  "text": "Kowalska-Turm in Neu Sandez.",
+                  "category": "castle",
+                  "coords": [
+                        20.68961,
+                        49.628625
+                  ]
+            },
+            {
+                  "name": "Małopolskie Centrum Kultury \"Sokół\"",
+                  "text": "Kulturzentrum Sokół in Neu Sandez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.694809,
+                        49.622285
+                  ]
+            },
+            {
+                  "name": "Galeria Marii Ritter w Nowym Sączu",
+                  "text": "Maria-Ritter-Galerie in Neu Sandez.",
+                  "category": "museum",
+                  "coords": [
+                        20.691978,
+                        49.624414
+                  ]
+            },
+            {
+                  "name": "Bajkoland",
+                  "text": "Freizeitpark Bajkoland in Neu Sandez.",
+                  "category": "family",
+                  "coords": [
+                        20.706619,
+                        49.62395
+                  ]
+            },
+            {
+                  "name": "Muzeum Ziemi Sądeckiej",
+                  "text": "Museum des Sądecki-Landes in Neu Sandez.",
+                  "category": "museum",
+                  "coords": [
+                        20.694809,
+                        49.617701
+                  ]
+            },
+            {
+                  "name": "Amfiteatr leśny",
+                  "text": "Wald-Amphitheater in Neu Sandez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.737383,
+                        49.617074
+                  ]
+            },
+            {
+                  "name": "Amfiteatr w Parku Strzeleckim",
+                  "text": "Amphitheater im Park Strzelecki in Neu Sandez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.686398,
+                        49.619247
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Królewskiego w Nowym Sączu",
+                  "text": "Ruinen der königlichen Burg in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.688595,
+                        49.628464
+                  ]
+            },
+            {
+                  "name": "Pomnik Solidarności",
+                  "text": "Solidarność-Denkmal in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.715726,
+                        49.617672
+                  ]
+            },
+            {
+                  "name": "Popiersie Stanisława Małachowskiego",
+                  "text": "Ein Denkmal in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.690755,
+                        49.627058
+                  ]
+            },
+            {
+                  "name": "Pomnik mjr.Henryka Sucharskiego",
+                  "text": "Ein Denkmal für Major Henryk Sucharski in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.718685,
+                        49.626658
+                  ]
+            },
+            {
+                  "name": "Ruiny Starego Ratusza",
+                  "text": "Ruinen des alten Rathauses in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.690974,
+                        49.625305
+                  ]
+            },
+            {
+                  "name": "Kościół ewangelicki ze Stadeł",
+                  "text": "Eine Sehenswürdigkeit in Neu Sandez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.738125,
+                        49.619953
+                  ]
+            },
+            {
+                  "name": "Kaplica Niepokalanego Poczęcia NMP",
+                  "text": "Eine Kapelle in Neu Sandez.",
+                  "category": "religious",
+                  "coords": [
+                        20.695676,
+                        49.615821
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Kazimierza",
+                  "text": "Die religiöse Stätte Kościół pw. św. Kazimierza bereichert das Stadtbild von Neu Sandez (Nowy Sacz). Diese polnische Kirche bietet Besuchern einen Ort der Ruhe und der spirituellen Besinnung. Gäste können die sakrale Atmosphäre des Gebäudes bei einem Besuch auf sich wirken lassen.",
+                  "category": "religious",
+                  "coords": [
+                        20.693874,
+                        49.622283
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu",
+                  "text": "Eine historische Basilika in Neu Sandez.",
+                  "category": "religious",
+                  "coords": [
+                        20.693355,
+                        49.625094
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża w Nowym Sączu",
+                  "text": "Die dem Heiligen Kreuz gewidmete Kościół pw. Świętego Krzyża w Nowym Sączu ist ein markantes Kirchengebäude in Polen. Reisende in Neu Sandez können die kirchliche Präsenz dieses Ortes in der Gemeinde schätzen lernen. Sie dient den Gläubigen der Region als aktives Zentrum des Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        20.674117,
+                        49.627942
+                  ]
+            },
+            {
+                  "name": "Kościół św. Heleny w Nowym Sączu",
+                  "text": "Im Herzen der Stadt befindet sich die Kościół św. Heleny w Nowym Sączu, eine friedliche religiöse Destination in Polen. Diese Kirche lädt alle ein, die lokale spirituelle Tradition in Neu Sandez kennenzulernen. Das Gebäude steht symbolisch für die andauernde Hingabe der örtlichen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        20.681311,
+                        49.628355
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu",
+                  "text": "Ein historisches Gebäude in Neu Sandez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.688843,
+                        49.62623
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszej Maryi Panny Częstochowskiej w Nowym Sączu-Zabełczu",
+                  "text": "Im Stadtteil Zabełcze von Neu Sandez liegt die Kościół Najświętszej Maryi Panny Częstochowskiej, eine bedeutende Stätte des Gebets. Besucher dieser polnischen Kirche erwartet eine einladende Atmosphäre, die der Jungfrau Maria gewidmet ist. Das religiöse Bauwerk fungiert als spiritueller Pfeiler für die lokale Bevölkerung.",
+                  "category": "religious",
+                  "coords": [
+                        20.69154,
+                        49.648048
+                  ]
+            },
+            {
+                  "name": "Kościół Matki Bożej Niepokalanej w Nowym Sączu",
+                  "text": "Die Kościół Matki Bożej Niepokalanej w Nowym Sączu prägt ihre Heimatstadt mit einer starken religiösen Präsenz. Reisende in Neu Sandez (Polen) können diese Kirche betreten, um einen Moment der stillen Einkehr zu erleben. Das Bauwerk repräsentiert den lokalen Glauben und die Verehrung der Unbefleckten Mutter.",
+                  "category": "religious",
+                  "coords": [
+                        20.7151,
+                        49.61594
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Die dem Heiligsten Herzen Jesu geweihte Kościół pw. Najświętszego Serca Pana Jezusa ist ein wichtiges religiöses Wahrzeichen in Neu Sandez. Diese Kirche bietet Einheimischen und Reisenden in Polen einen friedlichen Zufluchtsort. Gäste können ihre zentrale Rolle im täglichen spirituellen Leben der Stadt beobachten.",
+                  "category": "religious",
+                  "coords": [
+                        20.700204,
+                        49.609033
+                  ]
+            },
+            {
+                  "name": "Kościół Adwentystów Dnia Siódmego",
+                  "text": "Ein Gotteshaus in Neu Sandez.",
+                  "category": "religious",
+                  "coords": [
+                        20.707116,
+                        49.633126
+                  ]
+            },
+            {
+                  "name": "Urząd Gminy w Chełmcu",
+                  "text": "Das Rathaus der Gemeinde Chełmiec bei Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.666817,
+                        49.629863
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Pawła II",
+                  "text": "Benannt nach dem beliebten Papst, ist die Kościół pw. Świętego Jana Pawła II eine modernere Gebetsstätte in Neu Sandez (Nowy Sacz). Besucher dieser polnischen Stadt können das spirituelle Erbe entdecken, das in dieser Kirche gefeiert wird. Die religiöse Einrichtung dient den Gläubigen als wichtiger lokaler Treffpunkt.",
+                  "category": "religious",
+                  "coords": [
+                        20.715439,
+                        49.630808
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "Die Kościół pw. Ducha Świętego steht als Zeugnis des aktiven religiösen Lebens in Neu Sandez. Diese dem Heiligen Geist gewidmete Kirche in Polen lädt Gäste zur persönlichen Reflexion ein. Das Kirchengebäude bereichert die vielfältige kirchliche Landschaft der gesamten Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.692102,
+                        49.626477
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej",
+                  "text": "Zu Ehren der Unbefleckten Empfängnis ist die Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej eine zentrale Kirche in Neu Sandez (Nowy Sacz). Wer durch Polen reist, hält hier oft inne, um das friedliche religiöse Ambiente zu genießen. Sie fungiert als spiritueller Rückzugsort inmitten der städtischen Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        20.713343,
+                        49.61472
+                  ]
+            },
+            {
+                  "name": "TKt48-177",
+                  "text": "Eine historische Lokomotive in Neu Sandez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.701671,
+                        49.606734
+                  ]
+            },
+            {
+                  "name": "Ogród sensoryczny",
+                  "text": "Ein sensorischer Garten in Nowy Sącz, der die Sinne von Kindern auf spielerische Weise fördert.",
+                  "category": "family",
+                  "coords": [
+                        20.737328,
+                        49.621233
+                  ]
+            },
+            {
+                  "name": "Szachy",
+                  "text": "Ein Spielplatz in Nowy Sącz mit einem Schachthema, ideal für kleine Strategen.",
+                  "category": "family",
+                  "coords": [
+                        20.709617,
+                        49.61412
+                  ]
+            },
+            {
+                  "name": "Fun Park Nowy Sącz",
+                  "text": "Ein Vergnügungspark in Nowy Sącz, der vielfältige Aktivitäten und Attraktionen für Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.691999,
+                        49.649115
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Ein Wasserspielplatz in Nowy Sącz, der Kindern im Sommer eine kühle Erfrischung und Spielspaß bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.712704,
+                        49.620074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miasteczko Galicyjskie w Nowym Sączu",
+                  "text": "Galíciai kisváros Neu Sandez közelében.",
+                  "category": "family",
+                  "coords": [
+                        20.738771,
+                        49.621217
+                  ]
+            },
+            {
+                  "name": "Sądecki Park Etnograficzny",
+                  "text": "Sądecki szabadtéri múzeum Neu Sandezben.",
+                  "category": "family",
+                  "coords": [
+                        20.736141,
+                        49.617379
+                  ]
+            },
+            {
+                  "name": "Baszta Kowalska",
+                  "text": "Kowalska-torony Neu Sandezben.",
+                  "category": "castle",
+                  "coords": [
+                        20.68961,
+                        49.628625
+                  ]
+            },
+            {
+                  "name": "Małopolskie Centrum Kultury \"Sokół\"",
+                  "text": "Sokół kulturális központ Neu Sandezben.",
+                  "category": "cultural",
+                  "coords": [
+                        20.694809,
+                        49.622285
+                  ]
+            },
+            {
+                  "name": "Galeria Marii Ritter w Nowym Sączu",
+                  "text": "Maria Ritter-galéria Neu Sandezben.",
+                  "category": "museum",
+                  "coords": [
+                        20.691978,
+                        49.624414
+                  ]
+            },
+            {
+                  "name": "Bajkoland",
+                  "text": "Bajkoland élménypark Neu Sandezben.",
+                  "category": "family",
+                  "coords": [
+                        20.706619,
+                        49.62395
+                  ]
+            },
+            {
+                  "name": "Muzeum Ziemi Sądeckiej",
+                  "text": "Sądecki régió múzeuma Neu Sandezben.",
+                  "category": "museum",
+                  "coords": [
+                        20.694809,
+                        49.617701
+                  ]
+            },
+            {
+                  "name": "Amfiteatr leśny",
+                  "text": "Erdei amfiteátrum Neu Sandezben.",
+                  "category": "cultural",
+                  "coords": [
+                        20.737383,
+                        49.617074
+                  ]
+            },
+            {
+                  "name": "Amfiteatr w Parku Strzeleckim",
+                  "text": "Amfiteátrum a Strzelecki-parkban, Neu Sandezben.",
+                  "category": "cultural",
+                  "coords": [
+                        20.686398,
+                        49.619247
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Królewskiego w Nowym Sączu",
+                  "text": "A királyi vár romjai Neu Sandezben.",
+                  "category": "historical",
+                  "coords": [
+                        20.688595,
+                        49.628464
+                  ]
+            },
+            {
+                  "name": "Pomnik Solidarności",
+                  "text": "Szolidaritás-emlékmű Neu Sandezben.",
+                  "category": "historical",
+                  "coords": [
+                        20.715726,
+                        49.617672
+                  ]
+            },
+            {
+                  "name": "Popiersie Stanisława Małachowskiego",
+                  "text": "Emlékmű Neu Sandezben.",
+                  "category": "historical",
+                  "coords": [
+                        20.690755,
+                        49.627058
+                  ]
+            },
+            {
+                  "name": "Pomnik mjr.Henryka Sucharskiego",
+                  "text": "Henryk Sucharski őrnagy emlékműve Neu Sandezben.",
+                  "category": "historical",
+                  "coords": [
+                        20.718685,
+                        49.626658
+                  ]
+            },
+            {
+                  "name": "Ruiny Starego Ratusza",
+                  "text": "A régi városháza romjai Neu Sandezben.",
+                  "category": "historical",
+                  "coords": [
+                        20.690974,
+                        49.625305
+                  ]
+            },
+            {
+                  "name": "Kościół ewangelicki ze Stadeł",
+                  "text": "Látnivaló Neu Sandezben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.738125,
+                        49.619953
+                  ]
+            },
+            {
+                  "name": "Kaplica Niepokalanego Poczęcia NMP",
+                  "text": "Kápolna Neu Sandezben.",
+                  "category": "religious",
+                  "coords": [
+                        20.695676,
+                        49.615821
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Kazimierza",
+                  "text": "A Kościół pw. św. Kazimierza nevű vallási helyszín Nowy Sacz városképét gazdagítja. Ez a lengyelországi templom a nyugalom és a spirituális elmélkedés helyszínét kínálja a látogatóknak. A vendégek a látogatás során átadhatják magukat az épület szakrális atmoszférájának.",
+                  "category": "religious",
+                  "coords": [
+                        20.693874,
+                        49.622283
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu",
+                  "text": "Történelmi bazilika Neu Sandezben.",
+                  "category": "religious",
+                  "coords": [
+                        20.693355,
+                        49.625094
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża w Nowym Sączu",
+                  "text": "A Szent Keresztnek szentelt Kościół pw. Świętego Krzyża w Nowym Sączu egy jelentős egyházi épület Lengyelországban. A Nowy Saczba látogatók értékelhetik e hely vallási jelenlétét a közösségben. A régió hívői számára az imádság aktív központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        20.674117,
+                        49.627942
+                  ]
+            },
+            {
+                  "name": "Kościół św. Heleny w Nowym Sączu",
+                  "text": "A város szívében található a Kościół św. Heleny w Nowym Sączu, egy békés vallási célpont Lengyelországban. Ez a templom mindenkit meghív, aki meg szeretné ismerni a helyi spirituális hagyományokat Nowy Saczban. Az épület a helyi közösség folyamatos odaadását szimbolizálja.",
+                  "category": "religious",
+                  "coords": [
+                        20.681311,
+                        49.628355
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu",
+                  "text": "Történelmi épület Neu Sandezben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.688843,
+                        49.62623
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszej Maryi Panny Częstochowskiej w Nowym Sączu-Zabełczu",
+                  "text": "Nowy Sacz Zabełcze negyedében található a Kościół Najświętszej Maryi Panny Częstochowskiej, amely az imádság jelentős helyszíne. Ennek a lengyelországi templomnak a látogatóit Szűz Máriának szentelt, hívogató légkör fogadja. A vallási építmény a helyi lakosság spirituális pilléreként működik.",
+                  "category": "religious",
+                  "coords": [
+                        20.69154,
+                        49.648048
+                  ]
+            },
+            {
+                  "name": "Kościół Matki Bożej Niepokalanej w Nowym Sączu",
+                  "text": "A Kościół Matki Bożej Niepokalanej w Nowym Sączu erős vallási jelenléttel határozza meg szülővárosát. A Nowy Saczba (Lengyelország) látogató utazók beléphetnek ebbe a templomba, hogy átéljék a csendes elmélyülés pillanatait. Az építmény a helyi hitet és a Szeplőtelen Anya tiszteletét képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        20.7151,
+                        49.61594
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "A Jézus Szent Szívének szentelt Kościół pw. Najświętszego Serca Pana Jezusa egy fontos vallási nevezetesség Nowy Saczban. Ez a templom békés menedéket kínál a helyieknek és a Lengyelországba utazóknak egyaránt. A vendégek megfigyelhetik a város mindennapi spirituális életében betöltött központi szerepét.",
+                  "category": "religious",
+                  "coords": [
+                        20.700204,
+                        49.609033
+                  ]
+            },
+            {
+                  "name": "Kościół Adwentystów Dnia Siódmego",
+                  "text": "Imaház Neu Sandezben.",
+                  "category": "religious",
+                  "coords": [
+                        20.707116,
+                        49.633126
+                  ]
+            },
+            {
+                  "name": "Urząd Gminy w Chełmcu",
+                  "text": "Chełmiec község városházája Neu Sandez közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.666817,
+                        49.629863
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Pawła II",
+                  "text": "A szeretett pápáról elnevezett Kościół pw. Świętego Jana Pawła II egy újabb imádkozóhely Nowy Sacz városában. Ennek a lengyel városnak a látogatói felfedezhetik a templomban ünnepelt spirituális örökséget. A vallási intézmény a hívők fontos helyi találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        20.715439,
+                        49.630808
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "A Kościół pw. Ducha Świętego az aktív vallási élet tanújaként áll Nowy Saczban. Ez a Szentléleknek szentelt lengyelországi templom személyes elmélkedésre hívja a vendégeket. A templomépület gazdagítja az egész város sokszínű egyházi tájképét.",
+                  "category": "religious",
+                  "coords": [
+                        20.692102,
+                        49.626477
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej",
+                  "text": "A Szeplőtelen Fogantatás tiszteletére emelt Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej egy központi templom Nowy Saczban. A Lengyelországon átutazók gyakran megállnak itt, hogy élvezzék a békés vallási hangulatot. Ez a hely egy spirituális menedékként működik a városi környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        20.713343,
+                        49.61472
+                  ]
+            },
+            {
+                  "name": "TKt48-177",
+                  "text": "Történelmi mozdony Neu Sandezben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.701671,
+                        49.606734
+                  ]
+            },
+            {
+                  "name": "Ogród sensoryczny",
+                  "text": "Egy szenzoros kert Nowy Sączban, amely játékos módon fejleszti a gyermekek érzékszerveit.",
+                  "category": "family",
+                  "coords": [
+                        20.737328,
+                        49.621233
+                  ]
+            },
+            {
+                  "name": "Szachy",
+                  "text": "Egy sakk tematikájú játszótér Nowy Sączban, amely ideális a kis stratégák számára.",
+                  "category": "family",
+                  "coords": [
+                        20.709617,
+                        49.61412
+                  ]
+            },
+            {
+                  "name": "Fun Park Nowy Sącz",
+                  "text": "Vidámpark Újszandecben (Nowy Sącz), amely változatos tevékenységeket és látnivalókat kínál.",
+                  "category": "family",
+                  "coords": [
+                        20.691999,
+                        49.649115
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Vízi játszótér Újszandecben (Nowy Sącz), amely hűsítő szórakozást nyújt a gyerekeknek nyáron.",
+                  "category": "family",
+                  "coords": [
+                        20.712704,
+                        49.620074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miasteczko Galicyjskie w Nowym Sączu",
+                  "text": "Micuțul oraș galițian lângă Neu Sandez.",
+                  "category": "family",
+                  "coords": [
+                        20.738771,
+                        49.621217
+                  ]
+            },
+            {
+                  "name": "Sądecki Park Etnograficzny",
+                  "text": "Muzeul în aer liber Sądecki din Neu Sandez.",
+                  "category": "family",
+                  "coords": [
+                        20.736141,
+                        49.617379
+                  ]
+            },
+            {
+                  "name": "Baszta Kowalska",
+                  "text": "Turnul Kowalska din Neu Sandez.",
+                  "category": "castle",
+                  "coords": [
+                        20.68961,
+                        49.628625
+                  ]
+            },
+            {
+                  "name": "Małopolskie Centrum Kultury \"Sokół\"",
+                  "text": "Centrul cultural Sokół din Neu Sandez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.694809,
+                        49.622285
+                  ]
+            },
+            {
+                  "name": "Galeria Marii Ritter w Nowym Sączu",
+                  "text": "Galeria Maria Ritter din Neu Sandez.",
+                  "category": "museum",
+                  "coords": [
+                        20.691978,
+                        49.624414
+                  ]
+            },
+            {
+                  "name": "Bajkoland",
+                  "text": "Parcul de distracții Bajkoland din Neu Sandez.",
+                  "category": "family",
+                  "coords": [
+                        20.706619,
+                        49.62395
+                  ]
+            },
+            {
+                  "name": "Muzeum Ziemi Sądeckiej",
+                  "text": "Muzeul Ținutului Sądecki din Neu Sandez.",
+                  "category": "museum",
+                  "coords": [
+                        20.694809,
+                        49.617701
+                  ]
+            },
+            {
+                  "name": "Amfiteatr leśny",
+                  "text": "Amfiteatru forestier din Neu Sandez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.737383,
+                        49.617074
+                  ]
+            },
+            {
+                  "name": "Amfiteatr w Parku Strzeleckim",
+                  "text": "Amfiteatru în Parcul Strzelecki din Neu Sandez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.686398,
+                        49.619247
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Królewskiego w Nowym Sączu",
+                  "text": "Ruinele castelului regal din Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.688595,
+                        49.628464
+                  ]
+            },
+            {
+                  "name": "Pomnik Solidarności",
+                  "text": "Monumentul Solidarității din Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.715726,
+                        49.617672
+                  ]
+            },
+            {
+                  "name": "Popiersie Stanisława Małachowskiego",
+                  "text": "Un monument în Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.690755,
+                        49.627058
+                  ]
+            },
+            {
+                  "name": "Pomnik mjr.Henryka Sucharskiego",
+                  "text": "Un monument al maiorului Henryk Sucharski în Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.718685,
+                        49.626658
+                  ]
+            },
+            {
+                  "name": "Ruiny Starego Ratusza",
+                  "text": "Ruinele vechii primării din Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.690974,
+                        49.625305
+                  ]
+            },
+            {
+                  "name": "Kościół ewangelicki ze Stadeł",
+                  "text": "O atracție turistică în Neu Sandez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.738125,
+                        49.619953
+                  ]
+            },
+            {
+                  "name": "Kaplica Niepokalanego Poczęcia NMP",
+                  "text": "O capelă în Neu Sandez.",
+                  "category": "religious",
+                  "coords": [
+                        20.695676,
+                        49.615821
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Kazimierza",
+                  "text": "Lăcașul de cult Kościół pw. św. Kazimierza îmbogățește peisajul urban din Nowy Sacz. Această biserică poloneză oferă vizitatorilor un loc de liniște și reflecție spirituală. Oaspeții se pot bucura de atmosfera sacră a clădirii în timpul vizitei lor.",
+                  "category": "religious",
+                  "coords": [
+                        20.693874,
+                        49.622283
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu",
+                  "text": "O bazilică istorică în Neu Sandez.",
+                  "category": "religious",
+                  "coords": [
+                        20.693355,
+                        49.625094
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża w Nowym Sączu",
+                  "text": "Dedicată Sfintei Cruci, Kościół pw. Świętego Krzyża w Nowym Sączu este o clădire bisericească remarcabilă din Polonia. Călătorii din Nowy Sacz pot aprecia prezența ecleziastică a acestui loc în comunitate. Aceasta servește drept centru activ de rugăciune pentru credincioșii din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        20.674117,
+                        49.627942
+                  ]
+            },
+            {
+                  "name": "Kościół św. Heleny w Nowym Sączu",
+                  "text": "Situată în inima orașului, Kościół św. Heleny w Nowym Sączu este o destinație religioasă pașnică din Polonia. Această biserică invită pe toți cei care doresc să cunoască tradițiile spirituale locale din Nowy Sacz. Clădirea simbolizează devotamentul continuu al comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        20.681311,
+                        49.628355
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu",
+                  "text": "O clădire istorică în Neu Sandez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.688843,
+                        49.62623
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszej Maryi Panny Częstochowskiej w Nowym Sączu-Zabełczu",
+                  "text": "În cartierul Zabełcze din Nowy Sacz se află Kościół Najświętszej Maryi Panny Częstochowskiej, un loc important de rugăciune. Vizitatorii acestei biserici din Polonia sunt întâmpinați de o atmosferă primitoare, dedicată Fecioarei Maria. Edificiul religios funcționează ca un pilon spiritual pentru populația locală.",
+                  "category": "religious",
+                  "coords": [
+                        20.69154,
+                        49.648048
+                  ]
+            },
+            {
+                  "name": "Kościół Matki Bożej Niepokalanej w Nowym Sączu",
+                  "text": "Kościół Matki Bożej Niepokalanej w Nowym Sączu își marchează orașul natal printr-o puternică prezență religioasă. Călătorii din Nowy Sacz (Polonia) pot păși în această biserică pentru a experimenta un moment de meditație tăcută. Structura reprezintă credința locală și venerarea Mamei Imaculate.",
+                  "category": "religious",
+                  "coords": [
+                        20.7151,
+                        49.61594
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Dedicată Preasfintei Inimi a lui Isus, Kościół pw. Najświętszego Serca Pana Jezusa este un important punct de reper religios în Nowy Sacz. Această biserică oferă un refugiu pașnic pentru localnici și pentru călătorii din Polonia. Oaspeții pot observa rolul său central în viața spirituală cotidiană a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        20.700204,
+                        49.609033
+                  ]
+            },
+            {
+                  "name": "Kościół Adwentystów Dnia Siódmego",
+                  "text": "Un lăcaș de cult în Neu Sandez.",
+                  "category": "religious",
+                  "coords": [
+                        20.707116,
+                        49.633126
+                  ]
+            },
+            {
+                  "name": "Urząd Gminy w Chełmcu",
+                  "text": "Primăria comunei Chełmiec lângă Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.666817,
+                        49.629863
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Pawła II",
+                  "text": "Numită după iubitul papă, Kościół pw. Świętego Jana Pawła II este un loc de rugăciune din Nowy Sacz. Vizitatorii acestui oraș polonez pot descoperi moștenirea spirituală celebrată în această biserică. Instituția religioasă servește ca un important punct de întâlnire local pentru credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        20.715439,
+                        49.630808
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "Kościół pw. Ducha Świętego stă ca o mărturie a vieții religioase active din Nowy Sacz. Această biserică din Polonia, dedicată Sfântului Duh, invită oaspeții la reflecție personală. Clădirea bisericii îmbogățește peisajul ecleziastic divers al întregului oraș.",
+                  "category": "religious",
+                  "coords": [
+                        20.692102,
+                        49.626477
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej",
+                  "text": "În onoarea Imaculatei Concepții, Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej este o biserică centrală în Nowy Sacz. Cei care călătoresc prin Polonia se opresc adesea aici pentru a se bucura de ambianța religioasă pașnică. Ea funcționează ca un refugiu spiritual în mijlocul mediului urban.",
+                  "category": "religious",
+                  "coords": [
+                        20.713343,
+                        49.61472
+                  ]
+            },
+            {
+                  "name": "TKt48-177",
+                  "text": "O locomotivă istorică în Neu Sandez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.701671,
+                        49.606734
+                  ]
+            },
+            {
+                  "name": "Ogród sensoryczny",
+                  "text": "O grădină senzorială în Nowy Sącz care stimulează simțurile copiilor într-un mod ludic.",
+                  "category": "family",
+                  "coords": [
+                        20.737328,
+                        49.621233
+                  ]
+            },
+            {
+                  "name": "Szachy",
+                  "text": "Un loc de joacă cu tematică de șah în Nowy Sącz, ideal pentru micii strategi.",
+                  "category": "family",
+                  "coords": [
+                        20.709617,
+                        49.61412
+                  ]
+            },
+            {
+                  "name": "Fun Park Nowy Sącz",
+                  "text": "Un parc de distracții în Nowy Sącz care oferă diverse activități și atracții pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        20.691999,
+                        49.649115
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Un loc de joacă cu apă în Nowy Sącz, care oferă copiilor răcorire și distracție în timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        20.712704,
+                        49.620074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miasteczko Galicyjskie w Nowym Sączu",
+                  "text": "Galician town near Neu Sandez.",
+                  "category": "family",
+                  "coords": [
+                        20.738771,
+                        49.621217
+                  ]
+            },
+            {
+                  "name": "Sądecki Park Etnograficzny",
+                  "text": "Sądecki open-air museum in Neu Sandez.",
+                  "category": "family",
+                  "coords": [
+                        20.736141,
+                        49.617379
+                  ]
+            },
+            {
+                  "name": "Baszta Kowalska",
+                  "text": "Kowalska Tower in Neu Sandez.",
+                  "category": "castle",
+                  "coords": [
+                        20.68961,
+                        49.628625
+                  ]
+            },
+            {
+                  "name": "Małopolskie Centrum Kultury \"Sokół\"",
+                  "text": "Sokół cultural center in Neu Sandez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.694809,
+                        49.622285
+                  ]
+            },
+            {
+                  "name": "Galeria Marii Ritter w Nowym Sączu",
+                  "text": "Maria Ritter Gallery in Neu Sandez.",
+                  "category": "museum",
+                  "coords": [
+                        20.691978,
+                        49.624414
+                  ]
+            },
+            {
+                  "name": "Bajkoland",
+                  "text": "Bajkoland amusement park in Neu Sandez.",
+                  "category": "family",
+                  "coords": [
+                        20.706619,
+                        49.62395
+                  ]
+            },
+            {
+                  "name": "Muzeum Ziemi Sądeckiej",
+                  "text": "Museum of the Sądecki region in Neu Sandez.",
+                  "category": "museum",
+                  "coords": [
+                        20.694809,
+                        49.617701
+                  ]
+            },
+            {
+                  "name": "Amfiteatr leśny",
+                  "text": "Forest amphitheatre in Neu Sandez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.737383,
+                        49.617074
+                  ]
+            },
+            {
+                  "name": "Amfiteatr w Parku Strzeleckim",
+                  "text": "Amphitheatre in Strzelecki Park in Neu Sandez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.686398,
+                        49.619247
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Królewskiego w Nowym Sączu",
+                  "text": "Ruins of the royal castle in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.688595,
+                        49.628464
+                  ]
+            },
+            {
+                  "name": "Pomnik Solidarności",
+                  "text": "Solidarity monument in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.715726,
+                        49.617672
+                  ]
+            },
+            {
+                  "name": "Popiersie Stanisława Małachowskiego",
+                  "text": "A monument in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.690755,
+                        49.627058
+                  ]
+            },
+            {
+                  "name": "Pomnik mjr.Henryka Sucharskiego",
+                  "text": "A monument to Major Henryk Sucharski in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.718685,
+                        49.626658
+                  ]
+            },
+            {
+                  "name": "Ruiny Starego Ratusza",
+                  "text": "Ruins of the old town hall in Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.690974,
+                        49.625305
+                  ]
+            },
+            {
+                  "name": "Kościół ewangelicki ze Stadeł",
+                  "text": "An attraction in Neu Sandez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.738125,
+                        49.619953
+                  ]
+            },
+            {
+                  "name": "Kaplica Niepokalanego Poczęcia NMP",
+                  "text": "A chapel in Neu Sandez.",
+                  "category": "religious",
+                  "coords": [
+                        20.695676,
+                        49.615821
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Kazimierza",
+                  "text": "The religious site Kościół pw. św. Kazimierza enriches the cityscape of Nowy Sacz. This Polish church offers visitors a place of peace and spiritual reflection. Guests can absorb the sacred atmosphere of the building during their visit.",
+                  "category": "religious",
+                  "coords": [
+                        20.693874,
+                        49.622283
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Małgorzaty w Nowym Sączu",
+                  "text": "A historic basilica in Neu Sandez.",
+                  "category": "religious",
+                  "coords": [
+                        20.693355,
+                        49.625094
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża w Nowym Sączu",
+                  "text": "Dedicated to the Holy Cross, the Kościół pw. Świętego Krzyża w Nowym Sączu is a notable religious building in Poland. Visitors to Nowy Sacz can appreciate the ecclesiastical presence of this site within the community. It serves as an active center of prayer for the faithful of the region.",
+                  "category": "religious",
+                  "coords": [
+                        20.674117,
+                        49.627942
+                  ]
+            },
+            {
+                  "name": "Kościół św. Heleny w Nowym Sączu",
+                  "text": "Situated in the city, the Kościół św. Heleny w Nowym Sączu functions as a serene religious destination in Poland. This church welcomes everyone who wishes to learn about the local spiritual traditions in Nowy Sacz. The building stands as a symbol of the enduring devotion of the local community.",
+                  "category": "religious",
+                  "coords": [
+                        20.681311,
+                        49.628355
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski Przemienienia Pańskiego w Nowym Sączu",
+                  "text": "A historic building in Neu Sandez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.688843,
+                        49.62623
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszej Maryi Panny Częstochowskiej w Nowym Sączu-Zabełczu",
+                  "text": "Located in the Zabełcze district of Nowy Sacz, the Kościół Najświętszej Maryi Panny Częstochowskiej is a significant place of prayer. Visitors exploring this Polish church are met with a welcoming atmosphere dedicated to the Virgin Mary. The religious structure functions as a spiritual pillar for the local population.",
+                  "category": "religious",
+                  "coords": [
+                        20.69154,
+                        49.648048
+                  ]
+            },
+            {
+                  "name": "Kościół Matki Bożej Niepokalanej w Nowym Sączu",
+                  "text": "The Kościół Matki Bożej Niepokalanej w Nowym Sączu graces its hometown with a strong religious presence. Travelers in Nowy Sacz, Poland, can step inside this church to experience a moment of quiet contemplation. The structure represents local faith and dedication to the Immaculate Mother.",
+                  "category": "religious",
+                  "coords": [
+                        20.7151,
+                        49.61594
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Dedicated to the Sacred Heart of Jesus, the Kościół pw. Najświętszego Serca Pana Jezusa is an important religious landmark in Nowy Sacz. This church provides a peaceful sanctuary for locals and travelers in Poland alike. Guests can observe its central role in the daily spiritual life of the city.",
+                  "category": "religious",
+                  "coords": [
+                        20.700204,
+                        49.609033
+                  ]
+            },
+            {
+                  "name": "Kościół Adwentystów Dnia Siódmego",
+                  "text": "A place of worship in Neu Sandez.",
+                  "category": "religious",
+                  "coords": [
+                        20.707116,
+                        49.633126
+                  ]
+            },
+            {
+                  "name": "Urząd Gminy w Chełmcu",
+                  "text": "The town hall of Chełmiec commune near Neu Sandez.",
+                  "category": "historical",
+                  "coords": [
+                        20.666817,
+                        49.629863
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Pawła II",
+                  "text": "Named after the beloved Pope, the Kościół pw. Świętego Jana Pawła II is a modern place of worship in Nowy Sacz. Visitors to this Polish city can discover the spiritual legacy celebrated within this church. The religious institution serves as an important local gathering point for the faithful.",
+                  "category": "religious",
+                  "coords": [
+                        20.715439,
+                        49.630808
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "The Kościół pw. Ducha Świętego stands as a testament to the active religious life in Nowy Sacz. Dedicated to the Holy Spirit, this church in Poland invites guests for personal reflection. The building enriches the diverse ecclesiastical landscape of the entire city.",
+                  "category": "religious",
+                  "coords": [
+                        20.692102,
+                        49.626477
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej",
+                  "text": "Honoring the Immaculate Conception, the Kościół pw. Najświętszej Maryi Panny Niepokalanie Poczętej is a key church in Nowy Sacz. Travelers passing through Poland often pause here to enjoy the peaceful religious ambiance. It acts as a spiritual retreat amidst the urban environment.",
+                  "category": "religious",
+                  "coords": [
+                        20.713343,
+                        49.61472
+                  ]
+            },
+            {
+                  "name": "TKt48-177",
+                  "text": "A historic locomotive in Neu Sandez.",
+                  "category": "landmark",
+                  "coords": [
+                        20.701671,
+                        49.606734
+                  ]
+            },
+            {
+                  "name": "Ogród sensoryczny",
+                  "text": "A sensory garden in Nowy Sącz that promotes children's senses in a playful way.",
+                  "category": "family",
+                  "coords": [
+                        20.737328,
+                        49.621233
+                  ]
+            },
+            {
+                  "name": "Szachy",
+                  "text": "A playground in Nowy Sącz with a chess theme, ideal for little strategists.",
+                  "category": "family",
+                  "coords": [
+                        20.709617,
+                        49.61412
+                  ]
+            },
+            {
+                  "name": "Fun Park Nowy Sącz",
+                  "text": "An amusement park in Nowy Sącz offering diverse activities and attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        20.691999,
+                        49.649115
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "A water playground in Nowy Sącz offering children cool refreshment and fun during summer.",
+                  "category": "family",
+                  "coords": [
+                        20.712704,
+                        49.620074
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Neu Sandez", hu: "Nowy Sącz", ro: "Nowy Sącz", en: "Nowy Sącz"},
@@ -46368,6 +54225,42 @@ export const polandCitiesV2: POI[] = [
                         22.234185,
                         52.162847
                   ]
+            },
+            {
+                  "name": "Basen PG4 Siedlce",
+                  "text": "Dieses Schwimmbad in Siedlce bietet einen Ort für Familien, um Schwimmen zu üben.",
+                  "category": "family",
+                  "coords": [
+                        22.244382,
+                        52.160905
+                  ]
+            },
+            {
+                  "name": "Młynek",
+                  "text": "Dieser Vergnügungsbereich in Siedlce bietet Unterhaltungsmöglichkeiten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        22.265264,
+                        52.189685
+                  ]
+            },
+            {
+                  "name": "Park Wodny Siedlce",
+                  "text": "Dieser Wasserpark in Siedlce bietet Pools und Rutschen für einen unterhaltsamen Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        22.296363,
+                        52.178696
+                  ]
+            },
+            {
+                  "name": "Park Przygody",
+                  "text": "Dieser Abenteuerpark in Siedlce bietet verschiedene Outdoor-Aktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        22.251904,
+                        52.153812
+                  ]
             }
       ],
       "hu": [
@@ -46378,6 +54271,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.234185,
                         52.162847
+                  ]
+            },
+            {
+                  "name": "Basen PG4 Siedlce",
+                  "text": "Ez a siedlcei uszoda helyet kínál a családoknak az úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.244382,
+                        52.160905
+                  ]
+            },
+            {
+                  "name": "Młynek",
+                  "text": "Ez a siedlcei szórakozóhely szórakozási lehetőségeket kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        22.265264,
+                        52.189685
+                  ]
+            },
+            {
+                  "name": "Park Wodny Siedlce",
+                  "text": "Ez a siedlcei vízipark medencéket és csúszdákat kínál a szórakoztató családi látogatáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.296363,
+                        52.178696
+                  ]
+            },
+            {
+                  "name": "Park Przygody",
+                  "text": "Ez a siedlcei kalandpark különféle szabadtéri tevékenységeket kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        22.251904,
+                        52.153812
                   ]
             }
       ],
@@ -46390,6 +54319,42 @@ export const polandCitiesV2: POI[] = [
                         22.234185,
                         52.162847
                   ]
+            },
+            {
+                  "name": "Basen PG4 Siedlce",
+                  "text": "Această piscină din Siedlce oferă un loc pentru familii pentru a practica înotul.",
+                  "category": "family",
+                  "coords": [
+                        22.244382,
+                        52.160905
+                  ]
+            },
+            {
+                  "name": "Młynek",
+                  "text": "Această zonă de divertisment din Siedlce oferă opțiuni de divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        22.265264,
+                        52.189685
+                  ]
+            },
+            {
+                  "name": "Park Wodny Siedlce",
+                  "text": "Acest parc acvatic din Siedlce oferă piscine și tobogane pentru o vizită distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        22.296363,
+                        52.178696
+                  ]
+            },
+            {
+                  "name": "Park Przygody",
+                  "text": "Acest parc de aventură din Siedlce oferă diverse activități în aer liber pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        22.251904,
+                        52.153812
+                  ]
             }
       ],
       "en": [
@@ -46400,6 +54365,42 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.234185,
                         52.162847
+                  ]
+            },
+            {
+                  "name": "Basen PG4 Siedlce",
+                  "text": "This swimming pool in Siedlce offers a place for families to practice swimming.",
+                  "category": "family",
+                  "coords": [
+                        22.244382,
+                        52.160905
+                  ]
+            },
+            {
+                  "name": "Młynek",
+                  "text": "This amusement area in Siedlce provides entertainment options for families.",
+                  "category": "family",
+                  "coords": [
+                        22.265264,
+                        52.189685
+                  ]
+            },
+            {
+                  "name": "Park Wodny Siedlce",
+                  "text": "This water park in Siedlce features pools and slides for a fun family visit.",
+                  "category": "family",
+                  "coords": [
+                        22.296363,
+                        52.178696
+                  ]
+            },
+            {
+                  "name": "Park Przygody",
+                  "text": "This adventure park in Siedlce offers various outdoor activities for families.",
+                  "category": "family",
+                  "coords": [
+                        22.251904,
+                        52.153812
                   ]
             }
       ]
@@ -46694,6 +54695,15 @@ export const polandCitiesV2: POI[] = [
                         19.120121,
                         50.250746
                   ]
+            },
+            {
+                  "name": "Kołowrotka",
+                  "text": "Dieser Freizeitpark in Myslowitz bietet verschiedene Unterhaltungsmöglichkeiten für einen unterhaltsamen Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        19.124855,
+                        50.270837
+                  ]
             }
       ],
       "hu": [
@@ -46938,6 +54948,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.120121,
                         50.250746
+                  ]
+            },
+            {
+                  "name": "Kołowrotka",
+                  "text": "Ez a mysłowicei vidámpark különféle szórakozási lehetőségekkel várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        19.124855,
+                        50.270837
                   ]
             }
       ],
@@ -47184,6 +55203,15 @@ export const polandCitiesV2: POI[] = [
                         19.120121,
                         50.250746
                   ]
+            },
+            {
+                  "name": "Kołowrotka",
+                  "text": "Acest parc tematic din Mysłowice oferă diverse opțiuni de divertisment pentru o vizită distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.124855,
+                        50.270837
+                  ]
             }
       ],
       "en": [
@@ -47428,6 +55456,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.120121,
                         50.250746
+                  ]
+            },
+            {
+                  "name": "Kołowrotka",
+                  "text": "This theme park in Mysłowice provides various entertainment options for a fun family visit.",
+                  "category": "family",
+                  "coords": [
+                        19.124855,
+                        50.270837
                   ]
             }
       ]
@@ -48969,7 +57006,808 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-inowroclaw-cities-v2", "sights": {"de": [{"name": "Muzeum im. Jana Kasprowicza", "text": "Ein Museum in Inowrocław (Hohensalza).", "category": "museum", "coords": [18.251321, 52.795178]}, {"name": "Tężnia solankowa im. Jana Oseta", "text": "Historische Gradierwerke in Inowrocław (Hohensalza).", "category": "landmark", "coords": [18.233494, 52.793946]}, {"name": "Pomnik św. Wojciecha", "text": "Das Pomnik św. Wojciecha ist ein historisches Denkmal in der Stadt Inowrocław (Hohensalza). Diese Gedenkstätte in Polen zollt der bedeutenden religiösen Figur des heiligen Adalbert Tribut. Besucher können das strukturierte Bauwerk betrachten, während sie die lokalen Denkmäler der Stadt erkunden.", "category": "historical", "coords": [18.26231, 52.799908]}, {"name": "Mur miejski", "text": "Überreste der Stadtmauer in Inowrocław (Hohensalza).", "category": "historical", "coords": [18.260468, 52.797332]}, {"name": "Jan Kasprowicz", "text": "Dieses historische Denkmal ehrt den Schriftsteller Jan Kasprowicz und schmückt die Straßen von Inowrocław (Hohensalza). Gäste, die Polen besuchen, können diese Würdigung des lokalen literarischen Erbes schätzen. Die Gedenkstätte bietet einen kulturellen Anlaufpunkt im Herzen der Stadt.", "category": "historical", "coords": [18.254335, 52.796746]}, {"name": "Pomnik Martyrologii", "text": "Das Pomnik Martyrologii in Inowrocław (Hohensalza) dient als düsteres historisches Denkmal, das an vergangenes Leid erinnert. Besucher dieser polnischen Stadt können an der Gedenkstätte innehalten, um ihren Respekt zu zollen und über historische Ereignisse nachzudenken. Es ist ein bedeutsamer Ort des Gedenkens für die Gemeinde.", "category": "historical", "coords": [18.262814, 52.789237]}, {"name": "Pomnik Obrońców Inowrocławia", "text": "Zu Ehren der Verteidiger der Stadt ist das Pomnik Obrońców Inowrocławia ein eindrucksvolles historisches Denkmal in Hohensalza. Diese Gedenkstätte in Polen erinnert die Besucher an die Tapferkeit derer, die die Region beschützten. Es steht stolz als Symbol für die lokale Widerstandskraft in Inowrocław.", "category": "historical", "coords": [18.252551, 52.797465]}, {"name": "Królowa Jadwiga", "text": "Das Denkmal Królowa Jadwiga in Inowrocław (Hohensalza) erinnert an die verehrte polnische Königin. Reisende können diese historische Hommage besuchen, um sich mit der königlichen Vergangenheit Polens zu verbinden. Die Gedenkstätte bereichert das bürgerliche Landschaftsbild durch ihre historische Bedeutung.", "category": "historical", "coords": [18.259684, 52.794864]}, {"name": "popiersie Królowej Jadwigi", "text": "Eine Büste in Inowrocław (Hohensalza).", "category": "historical", "coords": [18.248028, 52.797744]}, {"name": "Edmund", "text": "Eine Sehenswürdigkeit in Inowrocław (Hohensalza).", "category": "landmark", "coords": [18.238186, 52.792249]}, {"name": "Pomnik z okazji 100-lecia PCK", "text": "Das Pomnik z okazji 100-lecia PCK in Inowrocław (Hohensalza) feiert ein Jahrhundert des Polnischen Roten Kreuzes und ist ein bemerkenswertes Denkmal. Besucher können die humanitäre Geschichte anerkennen, der dieses polnische Wahrzeichen gewidmet ist. Es markiert einen bedeutenden Meilenstein in den lokalen wohltätigen Bemühungen.", "category": "historical", "coords": [18.261645, 52.781202]}, {"name": "Palmiarnia", "text": "Eine Sehenswürdigkeit in Inowrocław (Hohensalza).", "category": "landmark", "coords": [18.236826, 52.792173]}, {"name": "Galeria pod parasolkami", "text": "Eine Galerie in Inowrocław (Hohensalza).", "category": "museum", "coords": [18.238882, 52.793859]}, {"name": "Kościół pw. św. Mikołaja", "text": "Die Kościół pw. św. Mikołaja ist eine aktive religiöse Einrichtung in Inowrocław (Hohensalza). Diese polnische Kirche bietet Besuchern eine Umgebung für stilles Gebet und spirituelle Reflexion. Sie gilt als steinernes Zeugnis der lokalen Verehrung des heiligen Nikolaus.", "category": "religious", "coords": [18.25883, 52.793725]}, {"name": "Kościół pw. Św. Królowej Jadwigi", "text": "Die der Königin Jadwiga gewidmete Kościół pw. Św. Królowej Jadwigi ist eine einladende religiöse Stätte in Inowrocław (Hohensalza). Gäste in Polen können diese Kirche erkunden, um die Verbindung von nationalem Erbe und Glauben zu erleben. Das Heiligtum bietet einen friedlichen Rückzugsort abseits des städtischen Trubels.", "category": "religious", "coords": [18.239134, 52.782615]}, {"name": "Kościół pw. Imienia Najświętszej Maryi Panny", "text": "Eine historische Kirche in Inowrocław (Hohensalza).", "category": "religious", "coords": [18.263688, 52.80004]}, {"name": "Kościół pw. Chrystusa Miłosiernego", "text": "Die Kościół pw. Chrystusa Miłosiernego ist ein spirituelles Zentrum der Stadt Inowrocław. Diese Kirche in Polen lädt Gläubige und Besucher gleichermaßen zur Besinnung ein. Wer durch Hohensalza spaziert, kann hier eine ruhige Pause einlegen.", "category": "religious", "coords": [18.248737, 52.773517]}, {"name": "Kościół pw. Świętego Józefa", "text": "Eine historische Kirche in Inowrocław (Hohensalza).", "category": "religious", "coords": [18.244151, 52.796368]}, {"name": "Kościół pw. Świętego Ducha", "text": "Mitten im polnischen Inowrocław befindet sich die Kościół pw. Świętego Ducha. Dieses religiöse Gebäude prägt als Kirche das städtische Bild von Hohensalza. Besucher können die sakrale Atmosphäre des Ortes auf sich wirken lassen.", "category": "religious", "coords": [18.275637, 52.791354]}, {"name": "Kościół Zwiastowania Najświętszej Maryi Pannie", "text": "Eine historische Kirche in Inowrocław (Hohensalza).", "category": "religious", "coords": [18.260433, 52.800176]}, {"name": "Jezioro Szarlej", "text": "Ein ruhiger See in Inowrocław, der zu entspannten Momenten am Wasser einlädt.", "category": "natural", "coords": [18.307738, 52.723982]}], "hu": [{"name": "Muzeum im. Jana Kasprowicza", "text": "Múzeum Inowrocławban (Hohensalza).", "category": "museum", "coords": [18.251321, 52.795178]}, {"name": "Tężnia solankowa im. Jana Oseta", "text": "Történelmi sófújó tornyok Inowrocławban (Hohensalza).", "category": "landmark", "coords": [18.233494, 52.793946]}, {"name": "Pomnik św. Wojciecha", "text": "A Pomnik św. Wojciecha egy történelmi emlékmű Inowrocław városában. Ez a lengyelországi emlékhely Szent Adalbert, a jelentős vallási személyiség előtt tiszteleg. A látogatók megtekinthetik az építményt, miközben felfedezik a város helyi emlékműveit.", "category": "historical", "coords": [18.26231, 52.799908]}, {"name": "Mur miejski", "text": "A városfal maradványai Inowrocławban (Hohensalza).", "category": "historical", "coords": [18.260468, 52.797332]}, {"name": "Jan Kasprowicz", "text": "Ez a történelmi emlékmű Jan Kasprowicz írót tiszteli, és Inowrocław utcáit díszíti. A Lengyelországba látogató vendégek értékelhetik a helyi irodalmi örökség ezen elismerését. Az emlékhely kulturális fókuszpontot kínál a város szívében.", "category": "historical", "coords": [18.254335, 52.796746]}, {"name": "Pomnik Martyrologii", "text": "Az inowrocławi Pomnik Martyrologii komor történelmi emlékműként szolgál, amely a múltbéli szenvedésekre emlékeztet. Ennek a lengyel városnak a látogatói megállhatnak az emlékhelynél, hogy tiszteletüket tegyék és elgondolkodjanak a történelmi eseményeken. Ez a közösség számára a megemlékezés fontos helyszíne.", "category": "historical", "coords": [18.262814, 52.789237]}, {"name": "Pomnik Obrońców Inowrocławia", "text": "A város védőinek tiszteletére emelt Pomnik Obrońców Inowrocławia egy lenyűgöző történelmi emlékmű Inowrocławban. Ez a lengyelországi emlékhely azoknak a bátorságára emlékezteti a látogatókat, akik megvédték a régiót. Büszkén áll a helyi ellenálló képesség szimbólumaként Inowrocławban.", "category": "historical", "coords": [18.252551, 52.797465]}, {"name": "Królowa Jadwiga", "text": "Az inowrocławi Królowa Jadwiga emlékmű a tisztelt lengyel királynőnek állít emléket. Az utazók meglátogathatják ezt a történelmi tiszteletadást, hogy kapcsolatba kerüljenek Lengyelország királyi múltjával. Az emlékhely történelmi jelentőségével gazdagítja a városi tájképet.", "category": "historical", "coords": [18.259684, 52.794864]}, {"name": "popiersie Królowej Jadwigi", "text": "Mellszobor Inowrocławban (Hohensalza).", "category": "historical", "coords": [18.248028, 52.797744]}, {"name": "Edmund", "text": "Látnivaló Inowrocławban (Hohensalza).", "category": "landmark", "coords": [18.238186, 52.792249]}, {"name": "Pomnik z okazji 100-lecia PCK", "text": "A Lengyel Vöröskereszt egy évszázadát ünneplő Pomnik z okazji 100-lecia PCK egy figyelemre méltó emlékmű Inowrocławban. A látogatók elismerhetik azt a humanitárius történelmet, amelynek ez a lengyel nevezetesség emléket állít. Jelentős mérföldkövet jelent a helyi karitatív erőfeszítésekben.", "category": "historical", "coords": [18.261645, 52.781202]}, {"name": "Palmiarnia", "text": "Látnivaló Inowrocławban (Hohensalza).", "category": "landmark", "coords": [18.236826, 52.792173]}, {"name": "Galeria pod parasolkami", "text": "Galéria Inowrocławban (Hohensalza).", "category": "museum", "coords": [18.238882, 52.793859]}, {"name": "Kościół pw. św. Mikołaja", "text": "A Kościół pw. św. Mikołaja egy aktív vallási intézmény Inowrocławban. Ez a lengyelországi templom csendes imádkozásra és spirituális elmélkedésre alkalmas környezetet biztosít a látogatóknak. A Szent Miklós iránti helyi tisztelet kőből épült tanújaként tartják számon.", "category": "religious", "coords": [18.25883, 52.793725]}, {"name": "Kościół pw. Św. Królowej Jadwigi", "text": "A Jadwiga királynőnek szentelt Kościół pw. Św. Królowej Jadwigi egy hívogató vallási helyszín Inowrocławban. A Lengyelországban tartózkodó vendégek felfedezhetik ezt a templomot, hogy megtapasztalják a nemzeti örökség és a hit kapcsolatát. A szentély békés menedéket nyújt a városi nyüzsgéstől távol.", "category": "religious", "coords": [18.239134, 52.782615]}, {"name": "Kościół pw. Imienia Najświętszej Maryi Panny", "text": "Történelmi templom Inowrocławban (Hohensalza).", "category": "religious", "coords": [18.263688, 52.80004]}, {"name": "Kościół pw. Chrystusa Miłosiernego", "text": "A Kościół pw. Chrystusa Miłosiernego a lengyelországi Inowrocław városának egyik jelentős vallási helyszíne. A templom csendes teret biztosít az imádkozni és elmélyülni vágyóknak. A Hohensalza néven is ismert település látogatói itt nyugodt pillanatokat tölthetnek el.", "category": "religious", "coords": [18.248737, 52.773517]}, {"name": "Kościół pw. Świętego Józefa", "text": "Történelmi templom Inowrocławban (Hohensalza).", "category": "religious", "coords": [18.244151, 52.796368]}, {"name": "Kościół pw. Świętego Ducha", "text": "A Kościół pw. Świętego Ducha egy vallási épület a lengyelországi Inowrocław szívében. Ez a templom hozzájárul Hohensalza városképéhez és spirituális életéhez. Az ide betérő utazók megtapasztalhatják a hely szakrális nyugalmát.", "category": "religious", "coords": [18.275637, 52.791354]}, {"name": "Kościół Zwiastowania Najświętszej Maryi Pannie", "text": "Történelmi templom Inowrocławban (Hohensalza).", "category": "religious", "coords": [18.260433, 52.800176]}, {"name": "Jezioro Szarlej", "text": "Egy nyugodt tó Inowrocławban, amely pihentető pillanatokra hív a víz partján.", "category": "natural", "coords": [18.307738, 52.723982]}], "ro": [{"name": "Muzeum im. Jana Kasprowicza", "text": "Un muzeu în Inowrocław (Hohensalza).", "category": "museum", "coords": [18.251321, 52.795178]}, {"name": "Tężnia solankowa im. Jana Oseta", "text": "Turnuri de gradare istorice în Inowrocław (Hohensalza).", "category": "landmark", "coords": [18.233494, 52.793946]}, {"name": "Pomnik św. Wojciecha", "text": "Pomnik św. Wojciecha este un monument istoric din orașul Inowrocław. Acest memorial din Polonia aduce un omagiu figurii religioase importante a Sfântului Adalbert. Vizitatorii pot contempla structura în timp ce explorează monumentele locale ale orașului.", "category": "historical", "coords": [18.26231, 52.799908]}, {"name": "Mur miejski", "text": "Rămășițele zidului orașului în Inowrocław (Hohensalza).", "category": "historical", "coords": [18.260468, 52.797332]}, {"name": "Jan Kasprowicz", "text": "Acest monument istoric îl onorează pe scriitorul Jan Kasprowicz și decorează străzile din Inowrocław. Oaspeții care vizitează Polonia pot aprecia acest omagiu adus moștenirii literare locale. Memorialul oferă un punct de atracție culturală în inima orașului.", "category": "historical", "coords": [18.254335, 52.796746]}, {"name": "Pomnik Martyrologii", "text": "Pomnik Martyrologii din Inowrocław servește ca un monument istoric sumbru, care amintește de suferințele trecute. Vizitatorii acestui oraș polonez se pot opri la memorial pentru a-și prezenta respectul și a reflecta asupra evenimentelor istorice. Este un loc semnificativ de comemorare pentru comunitate.", "category": "historical", "coords": [18.262814, 52.789237]}, {"name": "Pomnik Obrońców Inowrocławia", "text": "În onoarea apărătorilor orașului, Pomnik Obrońców Inowrocławia este un monument istoric impresionant în Inowrocław. Acest memorial din Polonia le amintește vizitatorilor de curajul celor care au protejat regiunea. Stă mândru ca simbol al rezilienței locale în Inowrocław.", "category": "historical", "coords": [18.252551, 52.797465]}, {"name": "Królowa Jadwiga", "text": "Monumentul Królowa Jadwiga din Inowrocław comemorează venerata regină poloneză. Călătorii pot vizita acest omagiu istoric pentru a se conecta cu trecutul regal al Poloniei. Memorialul îmbogățește peisajul civic prin semnificația sa istorică.", "category": "historical", "coords": [18.259684, 52.794864]}, {"name": "popiersie Królowej Jadwigi", "text": "Un bust în Inowrocław (Hohensalza).", "category": "historical", "coords": [18.248028, 52.797744]}, {"name": "Edmund", "text": "O atracție în Inowrocław (Hohensalza).", "category": "landmark", "coords": [18.238186, 52.792249]}, {"name": "Pomnik z okazji 100-lecia PCK", "text": "Sărbătorind un secol de la înființarea Crucii Roșii Poloneze, Pomnik z okazji 100-lecia PCK este un monument remarcabil în Inowrocław. Vizitatorii pot recunoaște istoria umanitară comemorată de acest reper polonez. Marchează o etapă semnificativă în eforturile caritabile locale.", "category": "historical", "coords": [18.261645, 52.781202]}, {"name": "Palmiarnia", "text": "O atracție în Inowrocław (Hohensalza).", "category": "landmark", "coords": [18.236826, 52.792173]}, {"name": "Galeria pod parasolkami", "text": "O galerie în Inowrocław (Hohensalza).", "category": "museum", "coords": [18.238882, 52.793859]}, {"name": "Kościół pw. św. Mikołaja", "text": "Kościół pw. św. Mikołaja este o instituție religioasă activă în Inowrocław. Această biserică poloneză oferă vizitatorilor un mediu pentru rugăciune tăcută și reflecție spirituală. Este considerată o mărturie de piatră a venerării locale a Sfântului Nicolae.", "category": "religious", "coords": [18.25883, 52.793725]}, {"name": "Kościół pw. Św. Królowej Jadwigi", "text": "Dedicată Reginei Jadwiga, Kościół pw. Św. Królowej Jadwigi este un loc religios primitor în Inowrocław. Oaspeții din Polonia pot explora această biserică pentru a experimenta legătura dintre moștenirea națională și credință. Sanctuarul oferă un refugiu liniștit departe de agitația orașului.", "category": "religious", "coords": [18.239134, 52.782615]}, {"name": "Kościół pw. Imienia Najświętszej Maryi Panny", "text": "O biserică istorică în Inowrocław (Hohensalza).", "category": "religious", "coords": [18.263688, 52.80004]}, {"name": "Kościół pw. Chrystusa Miłosiernego", "text": "Biserica Kościół pw. Chrystusa Miłosiernego reprezintă un loc important de rugăciune din Inowrocław. Acest lăcaș de cult oferă un refugiu pașnic vizitatorilor care explorează orașul polonez. Trecătorii se pot opri aici pentru un moment de liniște spirituală.", "category": "religious", "coords": [18.248737, 52.773517]}, {"name": "Kościół pw. Świętego Józefa", "text": "O biserică istorică în Inowrocław (Hohensalza).", "category": "religious", "coords": [18.244151, 52.796368]}, {"name": "Kościół pw. Świętego Ducha", "text": "Kościół pw. Świętego Ducha este o biserică situată în orașul polonez Inowrocław. Acest monument religios îmbogățește peisajul local din Hohensalza și oferă un spațiu dedicat contemplației. Cei care o vizitează pot simți atmosfera calmă a lăcașului.", "category": "religious", "coords": [18.275637, 52.791354]}, {"name": "Kościół Zwiastowania Najświętszej Maryi Pannie", "text": "O biserică istorică în Inowrocław (Hohensalza).", "category": "religious", "coords": [18.260433, 52.800176]}, {"name": "Jezioro Szarlej", "text": "Un lac liniștit în Inowrocław care invită la momente de relaxare lângă apă.", "category": "natural", "coords": [18.307738, 52.723982]}], "en": [{"name": "Muzeum im. Jana Kasprowicza", "text": "A museum in Inowrocław (Hohensalza).", "category": "museum", "coords": [18.251321, 52.795178]}, {"name": "Graduation towers", "text": "Historic graduation towers in Inowrocław (Hohensalza).", "category": "landmark", "coords": [18.233494, 52.793946]}, {"name": "Pomnik św. Wojciecha", "text": "The Pomnik św. Wojciecha is a historical monument located in the city of Inowroclaw. This memorial in Poland pays tribute to the significant religious figure of Saint Adalbert. Visitors can view the structured landmark while exploring the city's local monuments.", "category": "historical", "coords": [18.26231, 52.799908]}, {"name": "Mur miejski", "text": "Remains of the city wall in Inowrocław (Hohensalza).", "category": "historical", "coords": [18.260468, 52.797332]}, {"name": "Jan Kasprowicz", "text": "Dedicated to the writer Jan Kasprowicz, this historical monument graces the streets of Inowroclaw. Guests visiting Poland can appreciate this tribute to the local literary heritage. The memorial provides a cultural focal point in the heart of the city.", "category": "historical", "coords": [18.254335, 52.796746]}, {"name": "Pomnik Martyrologii", "text": "The Pomnik Martyrologii in Inowroclaw serves as a somber historical monument reflecting on past suffering. Visitors to this Polish city can pause at the memorial to pay their respects and ponder historical events. It is a significant site of remembrance for the community.", "category": "historical", "coords": [18.262814, 52.789237]}, {"name": "Pomnik Obrońców Inowrocławia", "text": "Honoring the city's defenders, the Pomnik Obrońców Inowrocławia is a striking historical monument in Inowroclaw. This memorial in Poland reminds visitors of the bravery of those who protected the region. It stands proudly as a symbol of local resilience in the city.", "category": "historical", "coords": [18.252551, 52.797465]}, {"name": "Królowa Jadwiga", "text": "The Królowa Jadwiga monument in Inowroclaw commemorates the revered Polish queen. Travelers can visit this historical tribute to connect with Poland's royal past. The memorial enhances the civic landscape through its historical significance.", "category": "historical", "coords": [18.259684, 52.794864]}, {"name": "popiersie Królowej Jadwigi", "text": "A bust in Inowrocław (Hohensalza).", "category": "historical", "coords": [18.248028, 52.797744]}, {"name": "Edmund", "text": "An attraction in Inowrocław (Hohensalza).", "category": "landmark", "coords": [18.238186, 52.792249]}, {"name": "Pomnik z okazji 100-lecia PCK", "text": "Celebrating a century of the Polish Red Cross, the Pomnik z okazji 100-lecia PCK is a notable monument in Inowroclaw. Visitors can recognize the humanitarian history commemorated by this Polish landmark. It marks a significant milestone in local charitable efforts.", "category": "historical", "coords": [18.261645, 52.781202]}, {"name": "Palmiarnia", "text": "An attraction in Inowrocław (Hohensalza).", "category": "landmark", "coords": [18.236826, 52.792173]}, {"name": "Galeria pod parasolkami", "text": "A gallery in Inowrocław (Hohensalza).", "category": "museum", "coords": [18.238882, 52.793859]}, {"name": "Kościół pw. św. Mikołaja", "text": "The Kościół pw. św. Mikołaja is an active religious institution situated in Inowroclaw. This Polish church offers visitors an environment for quiet prayer and spiritual reflection. It stands as a stone testament to the local devotion to Saint Nicholas.", "category": "religious", "coords": [18.25883, 52.793725]}, {"name": "Kościół pw. Św. Królowej Jadwigi", "text": "Dedicated to Queen Jadwiga, the Kościół pw. Św. Królowej Jadwigi is a welcoming religious site in Inowroclaw. Guests in Poland can explore this church to experience the intersection of national heritage and faith. The sanctuary provides a peaceful retreat away from the urban bustle.", "category": "religious", "coords": [18.239134, 52.782615]}, {"name": "Kościół pw. Imienia Najświętszej Maryi Panny", "text": "A historic church in Inowrocław (Hohensalza).", "category": "religious", "coords": [18.263688, 52.80004]}, {"name": "Kościół pw. Chrystusa Miłosiernego", "text": "The Kościół pw. Chrystusa Miłosiernego is a significant religious site located in Inowrocław, Poland. This church provides a peaceful environment for quiet reflection and prayer. Visitors exploring the city can stop by to appreciate its spiritual atmosphere.", "category": "religious", "coords": [18.248737, 52.773517]}, {"name": "Kościół pw. Świętego Józefa", "text": "A historic church in Inowrocław (Hohensalza).", "category": "religious", "coords": [18.244151, 52.796368]}, {"name": "Kościół pw. Świętego Ducha", "text": "Located in the Polish city of Inowrocław, Kościół pw. Świętego Ducha is a notable religious establishment. This church contributes to the urban landscape of the area historically known as Hohensalza. Travelers visiting the region can experience its calm and sacred setting.", "category": "religious", "coords": [18.275637, 52.791354]}, {"name": "Kościół Zwiastowania Najświętszej Maryi Pannie", "text": "A historic church in Inowrocław (Hohensalza).", "category": "religious", "coords": [18.260433, 52.800176]}, {"name": "Jezioro Szarlej", "text": "A peaceful lake in Inowrocław inviting relaxed moments by the water.", "category": "natural", "coords": [18.307738, 52.723982]}]},
+    id: "poland-inowroclaw-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum im. Jana Kasprowicza",
+                  "text": "Ein Museum in Inowrocław (Hohensalza).",
+                  "category": "museum",
+                  "coords": [
+                        18.251321,
+                        52.795178
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa im. Jana Oseta",
+                  "text": "Historische Gradierwerke in Inowrocław (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.233494,
+                        52.793946
+                  ]
+            },
+            {
+                  "name": "Pomnik św. Wojciecha",
+                  "text": "Das Pomnik św. Wojciecha ist ein historisches Denkmal in der Stadt Inowrocław (Hohensalza). Diese Gedenkstätte in Polen zollt der bedeutenden religiösen Figur des heiligen Adalbert Tribut. Besucher können das strukturierte Bauwerk betrachten, während sie die lokalen Denkmäler der Stadt erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        18.26231,
+                        52.799908
+                  ]
+            },
+            {
+                  "name": "Mur miejski",
+                  "text": "Überreste der Stadtmauer in Inowrocław (Hohensalza).",
+                  "category": "historical",
+                  "coords": [
+                        18.260468,
+                        52.797332
+                  ]
+            },
+            {
+                  "name": "Jan Kasprowicz",
+                  "text": "Dieses historische Denkmal ehrt den Schriftsteller Jan Kasprowicz und schmückt die Straßen von Inowrocław (Hohensalza). Gäste, die Polen besuchen, können diese Würdigung des lokalen literarischen Erbes schätzen. Die Gedenkstätte bietet einen kulturellen Anlaufpunkt im Herzen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        18.254335,
+                        52.796746
+                  ]
+            },
+            {
+                  "name": "Pomnik Martyrologii",
+                  "text": "Das Pomnik Martyrologii in Inowrocław (Hohensalza) dient als düsteres historisches Denkmal, das an vergangenes Leid erinnert. Besucher dieser polnischen Stadt können an der Gedenkstätte innehalten, um ihren Respekt zu zollen und über historische Ereignisse nachzudenken. Es ist ein bedeutsamer Ort des Gedenkens für die Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        18.262814,
+                        52.789237
+                  ]
+            },
+            {
+                  "name": "Pomnik Obrońców Inowrocławia",
+                  "text": "Zu Ehren der Verteidiger der Stadt ist das Pomnik Obrońców Inowrocławia ein eindrucksvolles historisches Denkmal in Hohensalza. Diese Gedenkstätte in Polen erinnert die Besucher an die Tapferkeit derer, die die Region beschützten. Es steht stolz als Symbol für die lokale Widerstandskraft in Inowrocław.",
+                  "category": "historical",
+                  "coords": [
+                        18.252551,
+                        52.797465
+                  ]
+            },
+            {
+                  "name": "Królowa Jadwiga",
+                  "text": "Das Denkmal Królowa Jadwiga in Inowrocław (Hohensalza) erinnert an die verehrte polnische Königin. Reisende können diese historische Hommage besuchen, um sich mit der königlichen Vergangenheit Polens zu verbinden. Die Gedenkstätte bereichert das bürgerliche Landschaftsbild durch ihre historische Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        18.259684,
+                        52.794864
+                  ]
+            },
+            {
+                  "name": "popiersie Królowej Jadwigi",
+                  "text": "Eine Büste in Inowrocław (Hohensalza).",
+                  "category": "historical",
+                  "coords": [
+                        18.248028,
+                        52.797744
+                  ]
+            },
+            {
+                  "name": "Edmund",
+                  "text": "Eine Sehenswürdigkeit in Inowrocław (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.238186,
+                        52.792249
+                  ]
+            },
+            {
+                  "name": "Pomnik z okazji 100-lecia PCK",
+                  "text": "Das Pomnik z okazji 100-lecia PCK in Inowrocław (Hohensalza) feiert ein Jahrhundert des Polnischen Roten Kreuzes und ist ein bemerkenswertes Denkmal. Besucher können die humanitäre Geschichte anerkennen, der dieses polnische Wahrzeichen gewidmet ist. Es markiert einen bedeutenden Meilenstein in den lokalen wohltätigen Bemühungen.",
+                  "category": "historical",
+                  "coords": [
+                        18.261645,
+                        52.781202
+                  ]
+            },
+            {
+                  "name": "Palmiarnia",
+                  "text": "Eine Sehenswürdigkeit in Inowrocław (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.236826,
+                        52.792173
+                  ]
+            },
+            {
+                  "name": "Galeria pod parasolkami",
+                  "text": "Eine Galerie in Inowrocław (Hohensalza).",
+                  "category": "museum",
+                  "coords": [
+                        18.238882,
+                        52.793859
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Mikołaja",
+                  "text": "Die Kościół pw. św. Mikołaja ist eine aktive religiöse Einrichtung in Inowrocław (Hohensalza). Diese polnische Kirche bietet Besuchern eine Umgebung für stilles Gebet und spirituelle Reflexion. Sie gilt als steinernes Zeugnis der lokalen Verehrung des heiligen Nikolaus.",
+                  "category": "religious",
+                  "coords": [
+                        18.25883,
+                        52.793725
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Św. Królowej Jadwigi",
+                  "text": "Die der Königin Jadwiga gewidmete Kościół pw. Św. Królowej Jadwigi ist eine einladende religiöse Stätte in Inowrocław (Hohensalza). Gäste in Polen können diese Kirche erkunden, um die Verbindung von nationalem Erbe und Glauben zu erleben. Das Heiligtum bietet einen friedlichen Rückzugsort abseits des städtischen Trubels.",
+                  "category": "religious",
+                  "coords": [
+                        18.239134,
+                        52.782615
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Imienia Najświętszej Maryi Panny",
+                  "text": "Eine historische Kirche in Inowrocław (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.263688,
+                        52.80004
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Miłosiernego",
+                  "text": "Die Kościół pw. Chrystusa Miłosiernego ist ein spirituelles Zentrum der Stadt Inowrocław. Diese Kirche in Polen lädt Gläubige und Besucher gleichermaßen zur Besinnung ein. Wer durch Hohensalza spaziert, kann hier eine ruhige Pause einlegen.",
+                  "category": "religious",
+                  "coords": [
+                        18.248737,
+                        52.773517
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa",
+                  "text": "Eine historische Kirche in Inowrocław (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.244151,
+                        52.796368
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Ducha",
+                  "text": "Mitten im polnischen Inowrocław befindet sich die Kościół pw. Świętego Ducha. Dieses religiöse Gebäude prägt als Kirche das städtische Bild von Hohensalza. Besucher können die sakrale Atmosphäre des Ortes auf sich wirken lassen.",
+                  "category": "religious",
+                  "coords": [
+                        18.275637,
+                        52.791354
+                  ]
+            },
+            {
+                  "name": "Kościół Zwiastowania Najświętszej Maryi Pannie",
+                  "text": "Eine historische Kirche in Inowrocław (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.260433,
+                        52.800176
+                  ]
+            },
+            {
+                  "name": "Jezioro Szarlej",
+                  "text": "Ein ruhiger See in Inowrocław, der zu entspannten Momenten am Wasser einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        18.307738,
+                        52.723982
+                  ]
+            },
+            {
+                  "name": "Inowrocławska Terma",
+                  "text": "Ein Thermalbad in Inowrocław, das für sein gesundheitsförderndes Salzwasser bekannt ist.",
+                  "category": "family",
+                  "coords": [
+                        18.245296,
+                        52.79265
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum im. Jana Kasprowicza",
+                  "text": "Múzeum Inowrocławban (Hohensalza).",
+                  "category": "museum",
+                  "coords": [
+                        18.251321,
+                        52.795178
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa im. Jana Oseta",
+                  "text": "Történelmi sófújó tornyok Inowrocławban (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.233494,
+                        52.793946
+                  ]
+            },
+            {
+                  "name": "Pomnik św. Wojciecha",
+                  "text": "A Pomnik św. Wojciecha egy történelmi emlékmű Inowrocław városában. Ez a lengyelországi emlékhely Szent Adalbert, a jelentős vallási személyiség előtt tiszteleg. A látogatók megtekinthetik az építményt, miközben felfedezik a város helyi emlékműveit.",
+                  "category": "historical",
+                  "coords": [
+                        18.26231,
+                        52.799908
+                  ]
+            },
+            {
+                  "name": "Mur miejski",
+                  "text": "A városfal maradványai Inowrocławban (Hohensalza).",
+                  "category": "historical",
+                  "coords": [
+                        18.260468,
+                        52.797332
+                  ]
+            },
+            {
+                  "name": "Jan Kasprowicz",
+                  "text": "Ez a történelmi emlékmű Jan Kasprowicz írót tiszteli, és Inowrocław utcáit díszíti. A Lengyelországba látogató vendégek értékelhetik a helyi irodalmi örökség ezen elismerését. Az emlékhely kulturális fókuszpontot kínál a város szívében.",
+                  "category": "historical",
+                  "coords": [
+                        18.254335,
+                        52.796746
+                  ]
+            },
+            {
+                  "name": "Pomnik Martyrologii",
+                  "text": "Az inowrocławi Pomnik Martyrologii komor történelmi emlékműként szolgál, amely a múltbéli szenvedésekre emlékeztet. Ennek a lengyel városnak a látogatói megállhatnak az emlékhelynél, hogy tiszteletüket tegyék és elgondolkodjanak a történelmi eseményeken. Ez a közösség számára a megemlékezés fontos helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        18.262814,
+                        52.789237
+                  ]
+            },
+            {
+                  "name": "Pomnik Obrońców Inowrocławia",
+                  "text": "A város védőinek tiszteletére emelt Pomnik Obrońców Inowrocławia egy lenyűgöző történelmi emlékmű Inowrocławban. Ez a lengyelországi emlékhely azoknak a bátorságára emlékezteti a látogatókat, akik megvédték a régiót. Büszkén áll a helyi ellenálló képesség szimbólumaként Inowrocławban.",
+                  "category": "historical",
+                  "coords": [
+                        18.252551,
+                        52.797465
+                  ]
+            },
+            {
+                  "name": "Królowa Jadwiga",
+                  "text": "Az inowrocławi Królowa Jadwiga emlékmű a tisztelt lengyel királynőnek állít emléket. Az utazók meglátogathatják ezt a történelmi tiszteletadást, hogy kapcsolatba kerüljenek Lengyelország királyi múltjával. Az emlékhely történelmi jelentőségével gazdagítja a városi tájképet.",
+                  "category": "historical",
+                  "coords": [
+                        18.259684,
+                        52.794864
+                  ]
+            },
+            {
+                  "name": "popiersie Królowej Jadwigi",
+                  "text": "Mellszobor Inowrocławban (Hohensalza).",
+                  "category": "historical",
+                  "coords": [
+                        18.248028,
+                        52.797744
+                  ]
+            },
+            {
+                  "name": "Edmund",
+                  "text": "Látnivaló Inowrocławban (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.238186,
+                        52.792249
+                  ]
+            },
+            {
+                  "name": "Pomnik z okazji 100-lecia PCK",
+                  "text": "A Lengyel Vöröskereszt egy évszázadát ünneplő Pomnik z okazji 100-lecia PCK egy figyelemre méltó emlékmű Inowrocławban. A látogatók elismerhetik azt a humanitárius történelmet, amelynek ez a lengyel nevezetesség emléket állít. Jelentős mérföldkövet jelent a helyi karitatív erőfeszítésekben.",
+                  "category": "historical",
+                  "coords": [
+                        18.261645,
+                        52.781202
+                  ]
+            },
+            {
+                  "name": "Palmiarnia",
+                  "text": "Látnivaló Inowrocławban (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.236826,
+                        52.792173
+                  ]
+            },
+            {
+                  "name": "Galeria pod parasolkami",
+                  "text": "Galéria Inowrocławban (Hohensalza).",
+                  "category": "museum",
+                  "coords": [
+                        18.238882,
+                        52.793859
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Mikołaja",
+                  "text": "A Kościół pw. św. Mikołaja egy aktív vallási intézmény Inowrocławban. Ez a lengyelországi templom csendes imádkozásra és spirituális elmélkedésre alkalmas környezetet biztosít a látogatóknak. A Szent Miklós iránti helyi tisztelet kőből épült tanújaként tartják számon.",
+                  "category": "religious",
+                  "coords": [
+                        18.25883,
+                        52.793725
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Św. Królowej Jadwigi",
+                  "text": "A Jadwiga királynőnek szentelt Kościół pw. Św. Królowej Jadwigi egy hívogató vallási helyszín Inowrocławban. A Lengyelországban tartózkodó vendégek felfedezhetik ezt a templomot, hogy megtapasztalják a nemzeti örökség és a hit kapcsolatát. A szentély békés menedéket nyújt a városi nyüzsgéstől távol.",
+                  "category": "religious",
+                  "coords": [
+                        18.239134,
+                        52.782615
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Imienia Najświętszej Maryi Panny",
+                  "text": "Történelmi templom Inowrocławban (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.263688,
+                        52.80004
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Miłosiernego",
+                  "text": "A Kościół pw. Chrystusa Miłosiernego a lengyelországi Inowrocław városának egyik jelentős vallási helyszíne. A templom csendes teret biztosít az imádkozni és elmélyülni vágyóknak. A Hohensalza néven is ismert település látogatói itt nyugodt pillanatokat tölthetnek el.",
+                  "category": "religious",
+                  "coords": [
+                        18.248737,
+                        52.773517
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa",
+                  "text": "Történelmi templom Inowrocławban (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.244151,
+                        52.796368
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Ducha",
+                  "text": "A Kościół pw. Świętego Ducha egy vallási épület a lengyelországi Inowrocław szívében. Ez a templom hozzájárul Hohensalza városképéhez és spirituális életéhez. Az ide betérő utazók megtapasztalhatják a hely szakrális nyugalmát.",
+                  "category": "religious",
+                  "coords": [
+                        18.275637,
+                        52.791354
+                  ]
+            },
+            {
+                  "name": "Kościół Zwiastowania Najświętszej Maryi Pannie",
+                  "text": "Történelmi templom Inowrocławban (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.260433,
+                        52.800176
+                  ]
+            },
+            {
+                  "name": "Jezioro Szarlej",
+                  "text": "Egy nyugodt tó Inowrocławban, amely pihentető pillanatokra hív a víz partján.",
+                  "category": "natural",
+                  "coords": [
+                        18.307738,
+                        52.723982
+                  ]
+            },
+            {
+                  "name": "Inowrocławska Terma",
+                  "text": "Termálfürdő Inowrocławban, amely egészségmegőrző sós vizéről ismert.",
+                  "category": "family",
+                  "coords": [
+                        18.245296,
+                        52.79265
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum im. Jana Kasprowicza",
+                  "text": "Un muzeu în Inowrocław (Hohensalza).",
+                  "category": "museum",
+                  "coords": [
+                        18.251321,
+                        52.795178
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa im. Jana Oseta",
+                  "text": "Turnuri de gradare istorice în Inowrocław (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.233494,
+                        52.793946
+                  ]
+            },
+            {
+                  "name": "Pomnik św. Wojciecha",
+                  "text": "Pomnik św. Wojciecha este un monument istoric din orașul Inowrocław. Acest memorial din Polonia aduce un omagiu figurii religioase importante a Sfântului Adalbert. Vizitatorii pot contempla structura în timp ce explorează monumentele locale ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        18.26231,
+                        52.799908
+                  ]
+            },
+            {
+                  "name": "Mur miejski",
+                  "text": "Rămășițele zidului orașului în Inowrocław (Hohensalza).",
+                  "category": "historical",
+                  "coords": [
+                        18.260468,
+                        52.797332
+                  ]
+            },
+            {
+                  "name": "Jan Kasprowicz",
+                  "text": "Acest monument istoric îl onorează pe scriitorul Jan Kasprowicz și decorează străzile din Inowrocław. Oaspeții care vizitează Polonia pot aprecia acest omagiu adus moștenirii literare locale. Memorialul oferă un punct de atracție culturală în inima orașului.",
+                  "category": "historical",
+                  "coords": [
+                        18.254335,
+                        52.796746
+                  ]
+            },
+            {
+                  "name": "Pomnik Martyrologii",
+                  "text": "Pomnik Martyrologii din Inowrocław servește ca un monument istoric sumbru, care amintește de suferințele trecute. Vizitatorii acestui oraș polonez se pot opri la memorial pentru a-și prezenta respectul și a reflecta asupra evenimentelor istorice. Este un loc semnificativ de comemorare pentru comunitate.",
+                  "category": "historical",
+                  "coords": [
+                        18.262814,
+                        52.789237
+                  ]
+            },
+            {
+                  "name": "Pomnik Obrońców Inowrocławia",
+                  "text": "În onoarea apărătorilor orașului, Pomnik Obrońców Inowrocławia este un monument istoric impresionant în Inowrocław. Acest memorial din Polonia le amintește vizitatorilor de curajul celor care au protejat regiunea. Stă mândru ca simbol al rezilienței locale în Inowrocław.",
+                  "category": "historical",
+                  "coords": [
+                        18.252551,
+                        52.797465
+                  ]
+            },
+            {
+                  "name": "Królowa Jadwiga",
+                  "text": "Monumentul Królowa Jadwiga din Inowrocław comemorează venerata regină poloneză. Călătorii pot vizita acest omagiu istoric pentru a se conecta cu trecutul regal al Poloniei. Memorialul îmbogățește peisajul civic prin semnificația sa istorică.",
+                  "category": "historical",
+                  "coords": [
+                        18.259684,
+                        52.794864
+                  ]
+            },
+            {
+                  "name": "popiersie Królowej Jadwigi",
+                  "text": "Un bust în Inowrocław (Hohensalza).",
+                  "category": "historical",
+                  "coords": [
+                        18.248028,
+                        52.797744
+                  ]
+            },
+            {
+                  "name": "Edmund",
+                  "text": "O atracție în Inowrocław (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.238186,
+                        52.792249
+                  ]
+            },
+            {
+                  "name": "Pomnik z okazji 100-lecia PCK",
+                  "text": "Sărbătorind un secol de la înființarea Crucii Roșii Poloneze, Pomnik z okazji 100-lecia PCK este un monument remarcabil în Inowrocław. Vizitatorii pot recunoaște istoria umanitară comemorată de acest reper polonez. Marchează o etapă semnificativă în eforturile caritabile locale.",
+                  "category": "historical",
+                  "coords": [
+                        18.261645,
+                        52.781202
+                  ]
+            },
+            {
+                  "name": "Palmiarnia",
+                  "text": "O atracție în Inowrocław (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.236826,
+                        52.792173
+                  ]
+            },
+            {
+                  "name": "Galeria pod parasolkami",
+                  "text": "O galerie în Inowrocław (Hohensalza).",
+                  "category": "museum",
+                  "coords": [
+                        18.238882,
+                        52.793859
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Mikołaja",
+                  "text": "Kościół pw. św. Mikołaja este o instituție religioasă activă în Inowrocław. Această biserică poloneză oferă vizitatorilor un mediu pentru rugăciune tăcută și reflecție spirituală. Este considerată o mărturie de piatră a venerării locale a Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        18.25883,
+                        52.793725
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Św. Królowej Jadwigi",
+                  "text": "Dedicată Reginei Jadwiga, Kościół pw. Św. Królowej Jadwigi este un loc religios primitor în Inowrocław. Oaspeții din Polonia pot explora această biserică pentru a experimenta legătura dintre moștenirea națională și credință. Sanctuarul oferă un refugiu liniștit departe de agitația orașului.",
+                  "category": "religious",
+                  "coords": [
+                        18.239134,
+                        52.782615
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Imienia Najświętszej Maryi Panny",
+                  "text": "O biserică istorică în Inowrocław (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.263688,
+                        52.80004
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Miłosiernego",
+                  "text": "Biserica Kościół pw. Chrystusa Miłosiernego reprezintă un loc important de rugăciune din Inowrocław. Acest lăcaș de cult oferă un refugiu pașnic vizitatorilor care explorează orașul polonez. Trecătorii se pot opri aici pentru un moment de liniște spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        18.248737,
+                        52.773517
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa",
+                  "text": "O biserică istorică în Inowrocław (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.244151,
+                        52.796368
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Ducha",
+                  "text": "Kościół pw. Świętego Ducha este o biserică situată în orașul polonez Inowrocław. Acest monument religios îmbogățește peisajul local din Hohensalza și oferă un spațiu dedicat contemplației. Cei care o vizitează pot simți atmosfera calmă a lăcașului.",
+                  "category": "religious",
+                  "coords": [
+                        18.275637,
+                        52.791354
+                  ]
+            },
+            {
+                  "name": "Kościół Zwiastowania Najświętszej Maryi Pannie",
+                  "text": "O biserică istorică în Inowrocław (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.260433,
+                        52.800176
+                  ]
+            },
+            {
+                  "name": "Jezioro Szarlej",
+                  "text": "Un lac liniștit în Inowrocław care invită la momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.307738,
+                        52.723982
+                  ]
+            },
+            {
+                  "name": "Inowrocławska Terma",
+                  "text": "O baie termală în Inowrocław, cunoscută pentru apa sărată benefică sănătății.",
+                  "category": "family",
+                  "coords": [
+                        18.245296,
+                        52.79265
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum im. Jana Kasprowicza",
+                  "text": "A museum in Inowrocław (Hohensalza).",
+                  "category": "museum",
+                  "coords": [
+                        18.251321,
+                        52.795178
+                  ]
+            },
+            {
+                  "name": "Graduation towers",
+                  "text": "Historic graduation towers in Inowrocław (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.233494,
+                        52.793946
+                  ]
+            },
+            {
+                  "name": "Pomnik św. Wojciecha",
+                  "text": "The Pomnik św. Wojciecha is a historical monument located in the city of Inowroclaw. This memorial in Poland pays tribute to the significant religious figure of Saint Adalbert. Visitors can view the structured landmark while exploring the city's local monuments.",
+                  "category": "historical",
+                  "coords": [
+                        18.26231,
+                        52.799908
+                  ]
+            },
+            {
+                  "name": "Mur miejski",
+                  "text": "Remains of the city wall in Inowrocław (Hohensalza).",
+                  "category": "historical",
+                  "coords": [
+                        18.260468,
+                        52.797332
+                  ]
+            },
+            {
+                  "name": "Jan Kasprowicz",
+                  "text": "Dedicated to the writer Jan Kasprowicz, this historical monument graces the streets of Inowroclaw. Guests visiting Poland can appreciate this tribute to the local literary heritage. The memorial provides a cultural focal point in the heart of the city.",
+                  "category": "historical",
+                  "coords": [
+                        18.254335,
+                        52.796746
+                  ]
+            },
+            {
+                  "name": "Pomnik Martyrologii",
+                  "text": "The Pomnik Martyrologii in Inowroclaw serves as a somber historical monument reflecting on past suffering. Visitors to this Polish city can pause at the memorial to pay their respects and ponder historical events. It is a significant site of remembrance for the community.",
+                  "category": "historical",
+                  "coords": [
+                        18.262814,
+                        52.789237
+                  ]
+            },
+            {
+                  "name": "Pomnik Obrońców Inowrocławia",
+                  "text": "Honoring the city's defenders, the Pomnik Obrońców Inowrocławia is a striking historical monument in Inowroclaw. This memorial in Poland reminds visitors of the bravery of those who protected the region. It stands proudly as a symbol of local resilience in the city.",
+                  "category": "historical",
+                  "coords": [
+                        18.252551,
+                        52.797465
+                  ]
+            },
+            {
+                  "name": "Królowa Jadwiga",
+                  "text": "The Królowa Jadwiga monument in Inowroclaw commemorates the revered Polish queen. Travelers can visit this historical tribute to connect with Poland's royal past. The memorial enhances the civic landscape through its historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        18.259684,
+                        52.794864
+                  ]
+            },
+            {
+                  "name": "popiersie Królowej Jadwigi",
+                  "text": "A bust in Inowrocław (Hohensalza).",
+                  "category": "historical",
+                  "coords": [
+                        18.248028,
+                        52.797744
+                  ]
+            },
+            {
+                  "name": "Edmund",
+                  "text": "An attraction in Inowrocław (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.238186,
+                        52.792249
+                  ]
+            },
+            {
+                  "name": "Pomnik z okazji 100-lecia PCK",
+                  "text": "Celebrating a century of the Polish Red Cross, the Pomnik z okazji 100-lecia PCK is a notable monument in Inowroclaw. Visitors can recognize the humanitarian history commemorated by this Polish landmark. It marks a significant milestone in local charitable efforts.",
+                  "category": "historical",
+                  "coords": [
+                        18.261645,
+                        52.781202
+                  ]
+            },
+            {
+                  "name": "Palmiarnia",
+                  "text": "An attraction in Inowrocław (Hohensalza).",
+                  "category": "landmark",
+                  "coords": [
+                        18.236826,
+                        52.792173
+                  ]
+            },
+            {
+                  "name": "Galeria pod parasolkami",
+                  "text": "A gallery in Inowrocław (Hohensalza).",
+                  "category": "museum",
+                  "coords": [
+                        18.238882,
+                        52.793859
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Mikołaja",
+                  "text": "The Kościół pw. św. Mikołaja is an active religious institution situated in Inowroclaw. This Polish church offers visitors an environment for quiet prayer and spiritual reflection. It stands as a stone testament to the local devotion to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        18.25883,
+                        52.793725
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Św. Królowej Jadwigi",
+                  "text": "Dedicated to Queen Jadwiga, the Kościół pw. Św. Królowej Jadwigi is a welcoming religious site in Inowroclaw. Guests in Poland can explore this church to experience the intersection of national heritage and faith. The sanctuary provides a peaceful retreat away from the urban bustle.",
+                  "category": "religious",
+                  "coords": [
+                        18.239134,
+                        52.782615
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Imienia Najświętszej Maryi Panny",
+                  "text": "A historic church in Inowrocław (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.263688,
+                        52.80004
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Miłosiernego",
+                  "text": "The Kościół pw. Chrystusa Miłosiernego is a significant religious site located in Inowrocław, Poland. This church provides a peaceful environment for quiet reflection and prayer. Visitors exploring the city can stop by to appreciate its spiritual atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        18.248737,
+                        52.773517
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa",
+                  "text": "A historic church in Inowrocław (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.244151,
+                        52.796368
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Ducha",
+                  "text": "Located in the Polish city of Inowrocław, Kościół pw. Świętego Ducha is a notable religious establishment. This church contributes to the urban landscape of the area historically known as Hohensalza. Travelers visiting the region can experience its calm and sacred setting.",
+                  "category": "religious",
+                  "coords": [
+                        18.275637,
+                        52.791354
+                  ]
+            },
+            {
+                  "name": "Kościół Zwiastowania Najświętszej Maryi Pannie",
+                  "text": "A historic church in Inowrocław (Hohensalza).",
+                  "category": "religious",
+                  "coords": [
+                        18.260433,
+                        52.800176
+                  ]
+            },
+            {
+                  "name": "Jezioro Szarlej",
+                  "text": "A peaceful lake in Inowrocław inviting relaxed moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.307738,
+                        52.723982
+                  ]
+            },
+            {
+                  "name": "Inowrocławska Terma",
+                  "text": "A thermal bath in Inowrocław known for its health-promoting salt water.",
+                  "category": "family",
+                  "coords": [
+                        18.245296,
+                        52.79265
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Hohensalza", hu: "Inowrocław", ro: "Inowrocław", en: "Inowrocław"},
@@ -49206,6 +58044,33 @@ export const polandCitiesV2: POI[] = [
                         16.194809,
                         51.402195
                   ]
+            },
+            {
+                  "name": "Basen \"Siódemka\"",
+                  "text": "Dieses Schwimmbad in Lubin ist ein geeigneter Ort für Familienschwimmen.",
+                  "category": "family",
+                  "coords": [
+                        16.205799,
+                        51.391374
+                  ]
+            },
+            {
+                  "name": "Dawny kompleks basenów Małomice",
+                  "text": "Dieser ehemalige Schwimmbadkomplex in Lubin bot einst Freizeiteinrichtungen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        16.216053,
+                        51.423466
+                  ]
+            },
+            {
+                  "name": "Baseny pływackie",
+                  "text": "Diese Schwimmbäder in Lubin bieten Raum für Familien, um Wasseraktivitäten zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        16.196353,
+                        51.392233
+                  ]
             }
       ],
       "hu": [
@@ -49396,6 +58261,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.194809,
                         51.402195
+                  ]
+            },
+            {
+                  "name": "Basen \"Siódemka\"",
+                  "text": "Ez a lubini uszoda alkalmas hely a családi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.205799,
+                        51.391374
+                  ]
+            },
+            {
+                  "name": "Dawny kompleks basenów Małomice",
+                  "text": "Ez a korábbi lubini uszodakomplexum egykor kikapcsolódási lehetőséget kínált a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        16.216053,
+                        51.423466
+                  ]
+            },
+            {
+                  "name": "Baseny pływackie",
+                  "text": "Ezek a lubini úszómedencék helyet biztosítanak a családoknak a vízi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        16.196353,
+                        51.392233
                   ]
             }
       ],
@@ -49588,6 +58480,33 @@ export const polandCitiesV2: POI[] = [
                         16.194809,
                         51.402195
                   ]
+            },
+            {
+                  "name": "Basen \"Siódemka\"",
+                  "text": "Această piscină din Lubin este o locație potrivită pentru înotul în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.205799,
+                        51.391374
+                  ]
+            },
+            {
+                  "name": "Dawny kompleks basenów Małomice",
+                  "text": "Acest fost complex de piscine din Lubin oferea odinioară facilități de recreere pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        16.216053,
+                        51.423466
+                  ]
+            },
+            {
+                  "name": "Baseny pływackie",
+                  "text": "Aceste piscine din Lubin oferă spațiu pentru familii pentru a se bucura de activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        16.196353,
+                        51.392233
+                  ]
             }
       ],
       "en": [
@@ -49778,6 +58697,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.194809,
                         51.402195
+                  ]
+            },
+            {
+                  "name": "Basen \"Siódemka\"",
+                  "text": "This swimming pool in Lubin is a suitable location for family swimming.",
+                  "category": "family",
+                  "coords": [
+                        16.205799,
+                        51.391374
+                  ]
+            },
+            {
+                  "name": "Dawny kompleks basenów Małomice",
+                  "text": "This former swimming pool complex in Lubin once offered recreational facilities for families.",
+                  "category": "family",
+                  "coords": [
+                        16.216053,
+                        51.423466
+                  ]
+            },
+            {
+                  "name": "Baseny pływackie",
+                  "text": "These swimming pools in Lubin provide space for families to enjoy water activities.",
+                  "category": "family",
+                  "coords": [
+                        16.196353,
+                        51.392233
                   ]
             }
       ]
@@ -50758,6 +59704,15 @@ export const polandCitiesV2: POI[] = [
                         22.933083,
                         54.118008
                   ]
+            },
+            {
+                  "name": "Pływalnia OSiR",
+                  "text": "Ein öffentliches Hallenbad in Suwałki für sportliches Schwimmen und Freizeitaktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        22.926838,
+                        54.092353
+                  ]
             }
       ],
       "hu": [
@@ -50912,6 +59867,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.933083,
                         54.118008
+                  ]
+            },
+            {
+                  "name": "Pływalnia OSiR",
+                  "text": "Nyilvános fedett uszoda Suwałkiban sportúszáshoz és szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        22.926838,
+                        54.092353
                   ]
             }
       ],
@@ -51068,6 +60032,15 @@ export const polandCitiesV2: POI[] = [
                         22.933083,
                         54.118008
                   ]
+            },
+            {
+                  "name": "Pływalnia OSiR",
+                  "text": "O piscină interioară publică în Suwałki pentru înot sportiv și activități de agrement.",
+                  "category": "family",
+                  "coords": [
+                        22.926838,
+                        54.092353
+                  ]
             }
       ],
       "en": [
@@ -51222,6 +60195,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.933083,
                         54.118008
+                  ]
+            },
+            {
+                  "name": "Pływalnia OSiR",
+                  "text": "A public indoor swimming pool in Suwałki for sports swimming and leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        22.926838,
+                        54.092353
                   ]
             }
       ]
@@ -52372,7 +61354,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-gniezno-cities-v2",
+    id: "poland-gniezno-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odkryte baseny letnie",
+                  "text": "Diese Sommerfreibäder in Gnesen bieten einen erfrischenden und unterhaltsamen Raum für Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.614565,
+                        52.544795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odkryte baseny letnie",
+                  "text": "Ezek a gnieznói szabadtéri nyári medencék frissítő és vidám helyszínt biztosítanak a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        17.614565,
+                        52.544795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odkryte baseny letnie",
+                  "text": "Aceste piscine de vară în aer liber din Gniezno oferă un spațiu răcoritor și distractiv pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.614565,
+                        52.544795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odkryte baseny letnie",
+                  "text": "These outdoor summer pools in Gniezno offer a refreshing and fun space for families.",
+                  "category": "family",
+                  "coords": [
+                        17.614565,
+                        52.544795
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Gnesen", hu: "Gniezno", ro: "Gniezno", en: "Gniezno"},
@@ -52419,7 +61446,160 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-ostrowiec-swietokrzyski-cities-v2",
+    id: "poland-ostrowiec-swietokrzyski-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fikoland",
+                  "text": "Ein Indoor-Spielzentrum in Ostrowiec Świętokrzyski mit verschiedenen Attraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        21.397642,
+                        50.944279
+                  ]
+            },
+            {
+                  "name": "Mały Robinson",
+                  "text": "Ein Ort für Kinderunterhaltung in Ostrowiec Świętokrzyski, der aktives Spielen ermöglicht.",
+                  "category": "family",
+                  "coords": [
+                        21.388322,
+                        50.933965
+                  ]
+            },
+            {
+                  "name": "Laser Space",
+                  "text": "Ein modernes Freizeitzentrum in Ostrowiec Świętokrzyski mit Fokus auf Laser-Spiele.",
+                  "category": "family",
+                  "coords": [
+                        21.395089,
+                        50.932495
+                  ]
+            },
+            {
+                  "name": "Fiku Miku",
+                  "text": "Ein Spielbereich für Kinder in Ostrowiec Świętokrzyski mit bunten Klettergerüsten und Rutschen.",
+                  "category": "family",
+                  "coords": [
+                        21.391274,
+                        50.946653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fikoland",
+                  "text": "Fedett játszóközpont Ostrowiec Świętokrzyskiban különféle látnivalókkal gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        21.397642,
+                        50.944279
+                  ]
+            },
+            {
+                  "name": "Mały Robinson",
+                  "text": "Gyermekszórakoztató központ Ostrowiec Świętokrzyskiban, amely aktív játékot tesz lehetővé.",
+                  "category": "family",
+                  "coords": [
+                        21.388322,
+                        50.933965
+                  ]
+            },
+            {
+                  "name": "Laser Space",
+                  "text": "Modern szabadidős központ Ostrowiec Świętokrzyskiban, középpontban a lézerjátékokkal.",
+                  "category": "family",
+                  "coords": [
+                        21.395089,
+                        50.932495
+                  ]
+            },
+            {
+                  "name": "Fiku Miku",
+                  "text": "Gyermekjátszóhely Ostrowiec Świętokrzyskiban színes mászókákkal és csúszdákkal.",
+                  "category": "family",
+                  "coords": [
+                        21.391274,
+                        50.946653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fikoland",
+                  "text": "Un centru de joacă interior în Ostrowiec Świętokrzyski cu diverse atracții pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        21.397642,
+                        50.944279
+                  ]
+            },
+            {
+                  "name": "Mały Robinson",
+                  "text": "Un loc de divertisment pentru copii în Ostrowiec Świętokrzyski, care permite jocul activ.",
+                  "category": "family",
+                  "coords": [
+                        21.388322,
+                        50.933965
+                  ]
+            },
+            {
+                  "name": "Laser Space",
+                  "text": "Un centru de agrement modern în Ostrowiec Świętokrzyski, axat pe jocuri cu laser.",
+                  "category": "family",
+                  "coords": [
+                        21.395089,
+                        50.932495
+                  ]
+            },
+            {
+                  "name": "Fiku Miku",
+                  "text": "O zonă de joacă pentru copii în Ostrowiec Świętokrzyski cu structuri de cățărat și tobogane colorate.",
+                  "category": "family",
+                  "coords": [
+                        21.391274,
+                        50.946653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fikoland",
+                  "text": "An indoor play center in Ostrowiec Świętokrzyski with various attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        21.397642,
+                        50.944279
+                  ]
+            },
+            {
+                  "name": "Mały Robinson",
+                  "text": "A venue for children's entertainment in Ostrowiec Świętokrzyski allowing for active play.",
+                  "category": "family",
+                  "coords": [
+                        21.388322,
+                        50.933965
+                  ]
+            },
+            {
+                  "name": "Laser Space",
+                  "text": "A modern leisure center in Ostrowiec Świętokrzyski focused on laser games.",
+                  "category": "family",
+                  "coords": [
+                        21.395089,
+                        50.932495
+                  ]
+            },
+            {
+                  "name": "Fiku Miku",
+                  "text": "A play area for children in Ostrowiec Świętokrzyski with colorful climbing frames and slides.",
+                  "category": "family",
+                  "coords": [
+                        21.391274,
+                        50.946653
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Ostrowiec Swietokrzyski", hu: "Ostrowiec Świętokrzyski", ro: "Ostrowiec Świętokrzyski", en: "Ostrowiec Świętokrzyski"},
@@ -52782,6 +61962,51 @@ export const polandCitiesV2: POI[] = [
                         19.006783,
                         50.290616
                   ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "Dieser Wasserpark in der Region Siemianowice Slaskie bietet Pools und Freizeit für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
+            },
+            {
+                  "name": "Basen pływacki",
+                  "text": "Dieses Schwimmbad in Siemianowice Slaskie ist ein Ort für Familien zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        19.0656,
+                        50.313402
+                  ]
+            },
+            {
+                  "name": "Legendia Schlesischer Vergnügungspark",
+                  "text": "Dieser Themenpark in der Region Siemianowice Slaskie bietet zahlreiche Fahrgeschäfte und Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            },
+            {
+                  "name": "Basen Pszczelnik",
+                  "text": "Dieses Schwimmbad in Siemianowice Slaskie bietet Freizeitschwimmen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        19.044104,
+                        50.3115
+                  ]
+            },
+            {
+                  "name": "Górnośląski Park Etnograficzny w Chorzowie",
+                  "text": "Dieses Freilichtmuseum bei Siemianowice Slaskie zeigt historische Gebäude, die Familien erkunden können.",
+                  "category": "family",
+                  "coords": [
+                        18.97304,
+                        50.294019
+                  ]
             }
       ],
       "hu": [
@@ -53098,6 +62323,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.006783,
                         50.290616
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "Ez a Siemianowice Śląskie környéki vízipark medencéket és kikapcsolódást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
+            },
+            {
+                  "name": "Basen pływacki",
+                  "text": "Ez a Siemianowice Śląskie-i uszoda helyet kínál a családoknak az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        19.0656,
+                        50.313402
+                  ]
+            },
+            {
+                  "name": "Legendia Śląskie Wesołe Miasteczko",
+                  "text": "Ez a Siemianowice Śląskie régióban található vidámpark számos játékot és látnivalót kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            },
+            {
+                  "name": "Basen Pszczelnik",
+                  "text": "Ez a Siemianowice Śląskie-i uszoda szabadidős úszást kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        19.044104,
+                        50.3115
+                  ]
+            },
+            {
+                  "name": "Górnośląski Park Etnograficzny w Chorzowie",
+                  "text": "Ez a Siemianowice Śląskie közeli szabadtéri múzeum történelmi épületeket mutat be a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        18.97304,
+                        50.294019
                   ]
             }
       ],
@@ -53416,6 +62686,51 @@ export const polandCitiesV2: POI[] = [
                         19.006783,
                         50.290616
                   ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "Acest parc acvatic din zona Siemianowice Slaskie oferă piscine și agrement pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
+            },
+            {
+                  "name": "Basen pływacki",
+                  "text": "Această piscină din Siemianowice Slaskie este un loc unde familiile pot înota și se pot relaxa.",
+                  "category": "family",
+                  "coords": [
+                        19.0656,
+                        50.313402
+                  ]
+            },
+            {
+                  "name": "Legendia Śląskie Wesołe Miasteczko",
+                  "text": "Acest parc tematic din regiunea Siemianowice Slaskie oferă numeroase atracții și divertisment pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            },
+            {
+                  "name": "Basen Pszczelnik",
+                  "text": "Această piscină din Siemianowice Slaskie oferă înot recreativ pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        19.044104,
+                        50.3115
+                  ]
+            },
+            {
+                  "name": "Górnośląski Park Etnograficzny w Chorzowie",
+                  "text": "Acest muzeu în aer liber de lângă Siemianowice Slaskie prezintă clădiri istorice pe care familiile le pot explora.",
+                  "category": "family",
+                  "coords": [
+                        18.97304,
+                        50.294019
+                  ]
             }
       ],
       "en": [
@@ -53732,6 +63047,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.006783,
                         50.290616
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "This water park in the Siemianowice Slaskie area provides pools and leisure for families.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
+            },
+            {
+                  "name": "Basen pływacki",
+                  "text": "This swimming pool in Siemianowice Slaskie is a place for families to swim and relax.",
+                  "category": "family",
+                  "coords": [
+                        19.0656,
+                        50.313402
+                  ]
+            },
+            {
+                  "name": "Legendia Śląskie Wesołe Miasteczko",
+                  "text": "This theme park in the Siemianowice Slaskie region offers numerous rides and attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            },
+            {
+                  "name": "Basen Pszczelnik",
+                  "text": "This swimming pool in Siemianowice Slaskie offers recreational swimming for families.",
+                  "category": "family",
+                  "coords": [
+                        19.044104,
+                        50.3115
+                  ]
+            },
+            {
+                  "name": "Górnośląski Park Etnograficzny w Chorzowie",
+                  "text": "This open-air museum near Siemianowice Slaskie features historic buildings for families to explore.",
+                  "category": "family",
+                  "coords": [
+                        18.97304,
+                        50.294019
                   ]
             }
       ]
@@ -55171,6 +64531,15 @@ export const polandCitiesV2: POI[] = [
                         19.318878,
                         51.653625
                   ]
+            },
+            {
+                  "name": "Pływalnia",
+                  "text": "Ein städtisches Schwimmbad in Pabianice, das Becken für Training und Erholung bietet.",
+                  "category": "family",
+                  "coords": [
+                        19.357722,
+                        51.656954
+                  ]
             }
       ],
       "hu": [
@@ -55388,6 +64757,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.318878,
                         51.653625
+                  ]
+            },
+            {
+                  "name": "Pływalnia",
+                  "text": "Városi uszoda Pabianiceben, amely edző- és élménymedencéket kínál.",
+                  "category": "family",
+                  "coords": [
+                        19.357722,
+                        51.656954
                   ]
             }
       ],
@@ -55607,6 +64985,15 @@ export const polandCitiesV2: POI[] = [
                         19.318878,
                         51.653625
                   ]
+            },
+            {
+                  "name": "Pływalnia",
+                  "text": "O piscină municipală în Pabianice care oferă bazine pentru antrenament și recreere.",
+                  "category": "family",
+                  "coords": [
+                        19.357722,
+                        51.656954
+                  ]
             }
       ],
       "en": [
@@ -55824,6 +65211,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.318878,
                         51.653625
+                  ]
+            },
+            {
+                  "name": "Pływalnia",
+                  "text": "A municipal swimming pool in Pabianice providing pools for training and recreation.",
+                  "category": "family",
+                  "coords": [
+                        19.357722,
+                        51.656954
                   ]
             }
       ]
@@ -56217,6 +65613,15 @@ export const polandCitiesV2: POI[] = [
                         23.238983,
                         50.716166
                   ]
+            },
+            {
+                  "name": "Kryta pływalnia OSiR",
+                  "text": "Dieses Hallenbad in Zamosc ist eine großartige Einrichtung für die Familienerholung.",
+                  "category": "family",
+                  "coords": [
+                        23.283148,
+                        50.719535
+                  ]
             }
       ],
       "hu": [
@@ -56560,6 +65965,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         23.238983,
                         50.716166
+                  ]
+            },
+            {
+                  "name": "Kryta pływalnia OSiR",
+                  "text": "Ez a zamośći fedett uszoda nagyszerű lehetőség a családi kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        23.283148,
+                        50.719535
                   ]
             }
       ],
@@ -56905,6 +66319,15 @@ export const polandCitiesV2: POI[] = [
                         23.238983,
                         50.716166
                   ]
+            },
+            {
+                  "name": "Kryta pływalnia OSiR",
+                  "text": "Această piscină interioară din Zamosc este o facilitate excelentă pentru recreerea în familie.",
+                  "category": "family",
+                  "coords": [
+                        23.283148,
+                        50.719535
+                  ]
             }
       ],
       "en": [
@@ -57249,6 +66672,15 @@ export const polandCitiesV2: POI[] = [
                         23.238983,
                         50.716166
                   ]
+            },
+            {
+                  "name": "Kryta pływalnia OSiR",
+                  "text": "This indoor swimming pool in Zamosc is a great facility for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        23.283148,
+                        50.719535
+                  ]
             }
       ]
 },
@@ -57569,6 +67001,24 @@ export const polandCitiesV2: POI[] = [
                         22.046918,
                         53.158687
                   ]
+            },
+            {
+                  "name": "Pływalnia Miejska nr 2",
+                  "text": "Dieses städtische Schwimmbad in Lomza ist ein großartiger Ort für Familienschwimmen und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        22.070705,
+                        53.166673
+                  ]
+            },
+            {
+                  "name": "Pływalnia miejska nr 1",
+                  "text": "Dieses lokale Schwimmbad in Lomza bietet barrierefreie Einrichtungen für Familien, die das Wasser genießen möchten.",
+                  "category": "family",
+                  "coords": [
+                        22.07253,
+                        53.157623
+                  ]
             }
       ],
       "hu": [
@@ -57840,6 +67290,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.046918,
                         53.158687
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska nr 2",
+                  "text": "Ez a łomżai városi uszoda remek helyszín a családi úszáshoz és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        22.070705,
+                        53.166673
+                  ]
+            },
+            {
+                  "name": "Pływalnia miejska nr 1",
+                  "text": "Ez a helyi łomżai uszoda akadálymentes létesítményeket kínál a vízi kikapcsolódást kedvelő családoknak.",
+                  "category": "family",
+                  "coords": [
+                        22.07253,
+                        53.157623
                   ]
             }
       ],
@@ -58113,6 +67581,24 @@ export const polandCitiesV2: POI[] = [
                         22.046918,
                         53.158687
                   ]
+            },
+            {
+                  "name": "Pływalnia Miejska nr 2",
+                  "text": "Această piscină municipală din Łomża oferă un loc minunat pentru înot în familie și recreere.",
+                  "category": "family",
+                  "coords": [
+                        22.070705,
+                        53.166673
+                  ]
+            },
+            {
+                  "name": "Pływalnia miejska nr 1",
+                  "text": "Această piscină locală din Łomża oferă facilități accesibile pentru ca familiile să se bucure de apă.",
+                  "category": "family",
+                  "coords": [
+                        22.07253,
+                        53.157623
+                  ]
             }
       ],
       "en": [
@@ -58384,6 +67870,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         22.046918,
                         53.158687
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska nr 2",
+                  "text": "This municipal swimming pool in Łomża provides a great place for family swimming and recreation.",
+                  "category": "family",
+                  "coords": [
+                        22.070705,
+                        53.166673
+                  ]
+            },
+            {
+                  "name": "Pływalnia miejska nr 1",
+                  "text": "This local swimming pool in Łomża offers accessible facilities for families to enjoy the water.",
+                  "category": "family",
+                  "coords": [
+                        22.07253,
+                        53.157623
                   ]
             }
       ]
@@ -58678,6 +68182,15 @@ export const polandCitiesV2: POI[] = [
                         23.495283,
                         51.140999
                   ]
+            },
+            {
+                  "name": "Basen odkryty",
+                  "text": "Ein öffentliches Außenbecken in Chełm, das in der Sommerzeit zur Erfrischung einlädt.",
+                  "category": "family",
+                  "coords": [
+                        23.50883,
+                        51.135554
+                  ]
             }
       ],
       "hu": [
@@ -58922,6 +68435,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         23.495283,
                         51.140999
+                  ]
+            },
+            {
+                  "name": "Basen odkryty",
+                  "text": "Nyilvános szabadtéri medence Chełmben, amely nyáron hűsítő kikapcsolódást nyújt.",
+                  "category": "family",
+                  "coords": [
+                        23.50883,
+                        51.135554
                   ]
             }
       ],
@@ -59168,6 +68690,15 @@ export const polandCitiesV2: POI[] = [
                         23.495283,
                         51.140999
                   ]
+            },
+            {
+                  "name": "Basen odkryty",
+                  "text": "O piscină exterioară publică în Chełm, care invită la răcorire în timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        23.50883,
+                        51.135554
+                  ]
             }
       ],
       "en": [
@@ -59412,6 +68943,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         23.495283,
                         51.140999
+                  ]
+            },
+            {
+                  "name": "Basen odkryty",
+                  "text": "A public outdoor pool in Chełm open for refreshment during the summer season.",
+                  "category": "family",
+                  "coords": [
+                        23.50883,
+                        51.135554
                   ]
             }
       ]
@@ -60202,7 +69742,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-stalowa-wola-cities-v2",
+    id: "poland-stalowa-wola-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Dieser Wasserspielplatz in Stalowa Wola ist ein herrlicher und sicherer Bereich, in dem Kinder spielen können.",
+                  "category": "family",
+                  "coords": [
+                        22.060576,
+                        50.564196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Ez a stalowa wolai vízi játszótér elragadó és biztonságos hely a gyerekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        22.060576,
+                        50.564196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Acest loc de joacă cu apă din Stalowa Wola este o zonă încântătoare și sigură în care copiii se pot juca.",
+                  "category": "family",
+                  "coords": [
+                        22.060576,
+                        50.564196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "This water playground in Stalowa Wola is a delightful and safe area for children to play in.",
+                  "category": "family",
+                  "coords": [
+                        22.060576,
+                        50.564196
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Stahlwille", hu: "Stalowa Wola", ro: "Stalowa Wola", en: "Stalowa Wola"},
@@ -60249,7 +69834,124 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-przemysl-cities-v2",
+    id: "poland-przemysl-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Ein Wasserspielbereich in Przemyśl, der speziell für den sommerlichen Spielspaß von Kindern entworfen wurde.",
+                  "category": "family",
+                  "coords": [
+                        22.755535,
+                        49.778979
+                  ]
+            },
+            {
+                  "name": "Basen w hotelu Gloria",
+                  "text": "Ein Schwimmbad in einem Hotel in Przemyśl, das auch für externe Gäste zur Verfügung steht.",
+                  "category": "family",
+                  "coords": [
+                        22.79663,
+                        49.787148
+                  ]
+            },
+            {
+                  "name": "Basen Miejski POSiR",
+                  "text": "Ein städtisches Schwimmbad in Przemyśl für sportliche Aktivitäten und Schwimmkurse.",
+                  "category": "family",
+                  "coords": [
+                        22.774438,
+                        49.788812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Vízi játszótér Przemyślben, amelyet kifejezetten a gyermekek nyári szórakozására terveztek.",
+                  "category": "family",
+                  "coords": [
+                        22.755535,
+                        49.778979
+                  ]
+            },
+            {
+                  "name": "Basen w hotelu Gloria",
+                  "text": "Przemyśli szálloda úszómedencéje, amely külsős vendégek számára is elérhető.",
+                  "category": "family",
+                  "coords": [
+                        22.79663,
+                        49.787148
+                  ]
+            },
+            {
+                  "name": "Basen Miejski POSiR",
+                  "text": "Városi uszoda Przemyślben sporttevékenységekhez és úszótanfolyamokhoz.",
+                  "category": "family",
+                  "coords": [
+                        22.774438,
+                        49.788812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "O zonă de joacă cu apă în Przemyśl, concepută special pentru distracția de vară a copiilor.",
+                  "category": "family",
+                  "coords": [
+                        22.755535,
+                        49.778979
+                  ]
+            },
+            {
+                  "name": "Basen w hotelu Gloria",
+                  "text": "O piscină dintr-un hotel din Przemyśl, care este disponibilă și pentru oaspeții externi.",
+                  "category": "family",
+                  "coords": [
+                        22.79663,
+                        49.787148
+                  ]
+            },
+            {
+                  "name": "Basen Miejski POSiR",
+                  "text": "O piscină municipală în Przemyśl pentru activități sportive și cursuri de înot.",
+                  "category": "family",
+                  "coords": [
+                        22.774438,
+                        49.788812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "A water play area in Przemyśl designed specifically for children's summer fun.",
+                  "category": "family",
+                  "coords": [
+                        22.755535,
+                        49.778979
+                  ]
+            },
+            {
+                  "name": "Basen w hotelu Gloria",
+                  "text": "A swimming pool located in a hotel in Przemyśl available for external guests as well.",
+                  "category": "family",
+                  "coords": [
+                        22.79663,
+                        49.787148
+                  ]
+            },
+            {
+                  "name": "Basen Miejski POSiR",
+                  "text": "A municipal swimming pool in Przemyśl for sporting activities and swimming lessons.",
+                  "category": "family",
+                  "coords": [
+                        22.774438,
+                        49.788812
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Przemysl", hu: "Przemyśl", ro: "Przemyśl", en: "Przemyśl"},
@@ -60884,6 +70586,33 @@ export const polandCitiesV2: POI[] = [
                         21.42444,
                         50.28239
                   ]
+            },
+            {
+                  "name": "Pływalnia Rekreacyjna \"Smoczka\"",
+                  "text": "Dieser Freizeit-Wasserpark in Mielec bietet verschiedene Wasserattraktionen für einen unterhaltsamen Familienbesuch.",
+                  "category": "family",
+                  "coords": [
+                        21.461189,
+                        50.289708
+                  ]
+            },
+            {
+                  "name": "basen główny",
+                  "text": "Dieses Hauptschwimmbad in Mielec ist eine ideale Einrichtung für Familien, um gemeinsam Sport zu treiben und zu schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        21.43369,
+                        50.300523
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Dieser Wasserspielplatz in Mielec bietet einen unterhaltsamen und ansprechenden Raum für Wasseraktivitäten von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        21.432642,
+                        50.300387
+                  ]
             }
       ],
       "hu": [
@@ -61020,6 +70749,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.42444,
                         50.28239
+                  ]
+            },
+            {
+                  "name": "Pływalnia Rekreacyjna \"Smoczka\"",
+                  "text": "Ez a mieleci szabadidős vízipark különféle vízi attrakciókkal várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        21.461189,
+                        50.289708
+                  ]
+            },
+            {
+                  "name": "basen główny",
+                  "text": "Ez a mieleci fő úszómedence ideális helyszín a családok közös sportolásához és úszásához.",
+                  "category": "family",
+                  "coords": [
+                        21.43369,
+                        50.300523
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Ez a mieleci vízi játszótér szórakoztató és vonzó helyszínt biztosít a gyerekek vízi tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        21.432642,
+                        50.300387
                   ]
             }
       ],
@@ -61158,6 +70914,33 @@ export const polandCitiesV2: POI[] = [
                         21.42444,
                         50.28239
                   ]
+            },
+            {
+                  "name": "Pływalnia Rekreacyjna \"Smoczka\"",
+                  "text": "Acest parc acvatic recreativ din Mielec oferă diverse atracții acvatice pentru o vizită distractivă în familie.",
+                  "category": "family",
+                  "coords": [
+                        21.461189,
+                        50.289708
+                  ]
+            },
+            {
+                  "name": "basen główny",
+                  "text": "Această piscină principală din Mielec este o facilitate ideală pentru ca familiile să facă sport și să înoate împreună.",
+                  "category": "family",
+                  "coords": [
+                        21.43369,
+                        50.300523
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "Acest loc de joacă cu apă din Mielec oferă un spațiu distractiv și antrenant pentru activitățile acvatice ale copiilor.",
+                  "category": "family",
+                  "coords": [
+                        21.432642,
+                        50.300387
+                  ]
             }
       ],
       "en": [
@@ -61294,6 +71077,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.42444,
                         50.28239
+                  ]
+            },
+            {
+                  "name": "Pływalnia Rekreacyjna \"Smoczka\"",
+                  "text": "This recreational water park in Mielec offers various water attractions for a fun family visit.",
+                  "category": "family",
+                  "coords": [
+                        21.461189,
+                        50.289708
+                  ]
+            },
+            {
+                  "name": "basen główny",
+                  "text": "This main swimming pool in Mielec is an ideal facility for families to exercise and swim together.",
+                  "category": "family",
+                  "coords": [
+                        21.43369,
+                        50.300523
+                  ]
+            },
+            {
+                  "name": "Wodny Plac Zabaw",
+                  "text": "This water playground in Mielec provides a fun and engaging space for children's water activities.",
+                  "category": "family",
+                  "coords": [
+                        21.432642,
+                        50.300387
                   ]
             }
       ]
@@ -61923,6 +71733,15 @@ export const polandCitiesV2: POI[] = [
                         19.360762,
                         51.352443
                   ]
+            },
+            {
+                  "name": "Pływalnia Sport Hotel",
+                  "text": "Dieses Schwimmbad in Belchatow bietet einen Ort für Freizeit und Bewegung der Familie.",
+                  "category": "family",
+                  "coords": [
+                        19.384446,
+                        51.364132
+                  ]
             }
       ],
       "hu": [
@@ -61942,6 +71761,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.360762,
                         51.352443
+                  ]
+            },
+            {
+                  "name": "Pływalnia Sport Hotel",
+                  "text": "Ez a bełchatówi uszoda helyet kínál a családi kikapcsolódáshoz és testmozgáshoz.",
+                  "category": "family",
+                  "coords": [
+                        19.384446,
+                        51.364132
                   ]
             }
       ],
@@ -61963,6 +71791,15 @@ export const polandCitiesV2: POI[] = [
                         19.360762,
                         51.352443
                   ]
+            },
+            {
+                  "name": "Pływalnia Sport Hotel",
+                  "text": "Această piscină din Belchatow oferă un loc pentru petrecerea timpului liber și exerciții fizice în familie.",
+                  "category": "family",
+                  "coords": [
+                        19.384446,
+                        51.364132
+                  ]
             }
       ],
       "en": [
@@ -61982,6 +71819,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.360762,
                         51.352443
+                  ]
+            },
+            {
+                  "name": "Pływalnia Sport Hotel",
+                  "text": "This swimming pool in Belchatow offers a place for family leisure and exercise.",
+                  "category": "family",
+                  "coords": [
+                        19.384446,
+                        51.364132
                   ]
             }
       ]
@@ -62330,6 +72176,15 @@ export const polandCitiesV2: POI[] = [
                         16.464789,
                         50.844895
                   ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "Dieses Hallenbad in Schweidnitz bietet das ganze Jahr über Raum für Familienschwimmen und Spaß.",
+                  "category": "family",
+                  "coords": [
+                        16.496115,
+                        50.841838
+                  ]
             }
       ],
       "hu": [
@@ -62628,6 +72483,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.464789,
                         50.844895
+                  ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "Ez a świdnicai fedett uszoda egész évben helyet biztosít a családi úszáshoz és szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.496115,
+                        50.841838
                   ]
             }
       ],
@@ -62928,6 +72792,15 @@ export const polandCitiesV2: POI[] = [
                         16.464789,
                         50.844895
                   ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "Această piscină interioară din Świdnica oferă un spațiu pe tot parcursul anului pentru înotul în familie și distracție.",
+                  "category": "family",
+                  "coords": [
+                        16.496115,
+                        50.841838
+                  ]
             }
       ],
       "en": [
@@ -63226,6 +73099,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.464789,
                         50.844895
+                  ]
+            },
+            {
+                  "name": "Basen kryty",
+                  "text": "This indoor swimming pool in Świdnica provides a year-round space for family swimming and fun.",
+                  "category": "family",
+                  "coords": [
+                        16.496115,
+                        50.841838
                   ]
             }
       ]
@@ -65134,6 +75016,24 @@ export const polandCitiesV2: POI[] = [
                         18.986995,
                         50.379271
                   ]
+            },
+            {
+                  "name": "Kąpielisko otwarte „Księża Góra”",
+                  "text": "Dieser Freibadbereich in Deutsch Piekar ist ein perfekter Ort für die Familienerholung im Sommer.",
+                  "category": "family",
+                  "coords": [
+                        18.915738,
+                        50.397995
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Dieser Wasserspielplatz in Deutsch Piekar bietet eine unterhaltsame und sichere Umgebung, in der Kinder spielen können.",
+                  "category": "family",
+                  "coords": [
+                        18.956598,
+                        50.397941
+                  ]
             }
       ],
       "hu": [
@@ -65261,6 +75161,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.986995,
                         50.379271
+                  ]
+            },
+            {
+                  "name": "Kąpielisko otwarte „Księża Góra”",
+                  "text": "Ez a piekary śląskie-i szabadtéri fürdőhely tökéletes helyszín a nyári családi pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        18.915738,
+                        50.397995
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Ez a piekary śląskie-i vízi játszótér vidám és biztonságos környezetet kínál a gyerekek játékához.",
+                  "category": "family",
+                  "coords": [
+                        18.956598,
+                        50.397941
                   ]
             }
       ],
@@ -65390,6 +75308,24 @@ export const polandCitiesV2: POI[] = [
                         18.986995,
                         50.379271
                   ]
+            },
+            {
+                  "name": "Kąpielisko otwarte „Księża Góra”",
+                  "text": "Această zonă de înot în aer liber din Piekary Śląskie este un loc perfect pentru relaxarea în familie în timpul verii.",
+                  "category": "family",
+                  "coords": [
+                        18.915738,
+                        50.397995
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "Acest loc de joacă cu apă din Piekary Śląskie oferă un mediu distractiv și sigur pentru ca copiii să se joace.",
+                  "category": "family",
+                  "coords": [
+                        18.956598,
+                        50.397941
+                  ]
             }
       ],
       "en": [
@@ -65517,6 +75453,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.986995,
                         50.379271
+                  ]
+            },
+            {
+                  "name": "Kąpielisko otwarte „Księża Góra”",
+                  "text": "This outdoor swimming area in Piekary Śląskie is a perfect spot for family relaxation during summer.",
+                  "category": "family",
+                  "coords": [
+                        18.915738,
+                        50.397995
+                  ]
+            },
+            {
+                  "name": "Wodny plac zabaw",
+                  "text": "This water playground in Piekary Śląskie offers a fun and safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        18.956598,
+                        50.397941
                   ]
             }
       ]
@@ -65856,6 +75810,33 @@ export const polandCitiesV2: POI[] = [
                         18.229849,
                         50.093313
                   ]
+            },
+            {
+                  "name": "Basen Obora",
+                  "text": "Ein öffentliches Freibad in Racibórz, das Schwimm- und Erholungsmöglichkeiten im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.262262,
+                        50.09427
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Ein kleiner Zoo in Racibórz, in dem Familien einheimische Tierarten beobachten können.",
+                  "category": "family",
+                  "coords": [
+                        18.265711,
+                        50.09892
+                  ]
+            },
+            {
+                  "name": "Gród Średniowieczny - Stowarzyszenie Drengowie znad Górnej Odry",
+                  "text": "Ein historisch nachempfundener Ort in Racibórz, der mittelalterliche Traditionen und Bauten zeigt.",
+                  "category": "family",
+                  "coords": [
+                        18.262845,
+                        50.095816
+                  ]
             }
       ],
       "hu": [
@@ -66145,6 +76126,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.229849,
                         50.093313
+                  ]
+            },
+            {
+                  "name": "Basen Obora",
+                  "text": "Nyilvános szabadtéri úszómedence Racibórzban, amely úszási és pihenési lehetőséget kínál.",
+                  "category": "family",
+                  "coords": [
+                        18.262262,
+                        50.09427
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Kisméretű állatkert Racibórzban, ahol a családok hazai állatfajokat figyelhetnek meg.",
+                  "category": "family",
+                  "coords": [
+                        18.265711,
+                        50.09892
+                  ]
+            },
+            {
+                  "name": "Gród Średniowieczny - Stowarzyszenie Drengowie znad Górnej Odry",
+                  "text": "Történelmi hangulatú hely Racibórzban, amely középkori hagyományokat és épületeket mutat be.",
+                  "category": "family",
+                  "coords": [
+                        18.262845,
+                        50.095816
                   ]
             }
       ],
@@ -66436,6 +76444,33 @@ export const polandCitiesV2: POI[] = [
                         18.229849,
                         50.093313
                   ]
+            },
+            {
+                  "name": "Basen Obora",
+                  "text": "O piscină publică în aer liber în Racibórz, care oferă facilități de înot și recreere.",
+                  "category": "family",
+                  "coords": [
+                        18.262262,
+                        50.09427
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "O grădină zoologică mică în Racibórz, unde familiile pot observa specii de animale autohtone.",
+                  "category": "family",
+                  "coords": [
+                        18.265711,
+                        50.09892
+                  ]
+            },
+            {
+                  "name": "Gród Średniowieczny - Stowarzyszenie Drengowie znad Górnej Odry",
+                  "text": "Un loc cu specific istoric în Racibórz, care prezintă tradiții și construcții medievale.",
+                  "category": "family",
+                  "coords": [
+                        18.262845,
+                        50.095816
+                  ]
             }
       ],
       "en": [
@@ -66725,6 +76760,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.229849,
                         50.093313
+                  ]
+            },
+            {
+                  "name": "Basen Obora",
+                  "text": "A public outdoor swimming pool in Racibórz providing swimming and recreation facilities.",
+                  "category": "family",
+                  "coords": [
+                        18.262262,
+                        50.09427
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "A small zoo in Racibórz where families can observe domestic animal species.",
+                  "category": "family",
+                  "coords": [
+                        18.265711,
+                        50.09892
+                  ]
+            },
+            {
+                  "name": "Gród Średniowieczny - Stowarzyszenie Drengowie znad Górnej Odry",
+                  "text": "A historically inspired site in Racibórz showcasing medieval traditions and buildings.",
+                  "category": "family",
+                  "coords": [
+                        18.262845,
+                        50.095816
                   ]
             }
       ]
@@ -67950,6 +78012,15 @@ export const polandCitiesV2: POI[] = [
                         18.84916,
                         50.425803
                   ]
+            },
+            {
+                  "name": "Przytulisko",
+                  "text": "Ein kleiner Tierpark in Tarnowskie Góry, der sich der Pflege von Tieren widmet.",
+                  "category": "family",
+                  "coords": [
+                        18.812946,
+                        50.466721
+                  ]
             }
       ],
       "hu": [
@@ -68149,6 +78220,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.84916,
                         50.425803
+                  ]
+            },
+            {
+                  "name": "Przytulisko",
+                  "text": "Kisméretű állatpark Tarnowskie Góryban, amely állatok gondozásával foglalkozik.",
+                  "category": "family",
+                  "coords": [
+                        18.812946,
+                        50.466721
                   ]
             }
       ],
@@ -68350,6 +78430,15 @@ export const polandCitiesV2: POI[] = [
                         18.84916,
                         50.425803
                   ]
+            },
+            {
+                  "name": "Przytulisko",
+                  "text": "Un mic parc zoologic în Tarnowskie Góry, dedicat îngrijirii animalelor.",
+                  "category": "family",
+                  "coords": [
+                        18.812946,
+                        50.466721
+                  ]
             }
       ],
       "en": [
@@ -68549,6 +78638,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.84916,
                         50.425803
+                  ]
+            },
+            {
+                  "name": "Przytulisko",
+                  "text": "A small animal park in Tarnowskie Góry dedicated to the care of animals.",
+                  "category": "family",
+                  "coords": [
+                        18.812946,
+                        50.466721
                   ]
             }
       ]
@@ -70583,7 +80681,340 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-nowy-targ-cities-v2", "sights": {"de": [{"name": "Muzeum Podhalańskie im. Czesława Pajerskiego", "text": "Museum in Neumarkt.", "category": "museum", "coords": [20.031078, 49.482118]}, {"name": "Muzeum Drukarstwa w Nowym Targu", "text": "Museum in Neumarkt.", "category": "museum", "coords": [20.032363, 49.48241]}, {"name": "Wieża Wodna", "text": "Museum in Neumarkt.", "category": "museum", "coords": [20.015098, 49.47407]}, {"name": "Czarnotówka", "text": "Gipfel in Neumarkt.", "category": "natural", "coords": [20.064756, 49.50058]}, {"name": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu", "text": "Die Kościół pw. Matki Bożej Anielskiej w Nowym Targu ist ein Ort des Glaubens im polnischen Neumarkt. Sie dient der lokalen Gemeinde als Kirche für Gottesdienste und Zusammenkünfte. Ein Besuch vermittelt einen Eindruck des religiösen Lebens in dieser Stadt.", "category": "religious", "coords": [20.052837, 49.504635]}, {"name": "Kościół pw. Świętego Brata Alberta w Nowym Targu", "text": "In Nowy Targ bietet die Kościół pw. Świętego Brata Alberta w Nowym Targu einen Raum für spirituelle Einkehr. Diese Kirche ist fest im polnischen Neumarkt verwurzelt. Besucher erwartet ein authentisches sakrales Gebäude der Region.", "category": "religious", "coords": [20.00517, 49.493767]}, {"name": "Kościół św. Jadwigi Królowej w Nowym Targu", "text": "Als sakraler Bau bereichert die Kościół św. Jadwigi Królowej w Nowym Targu das Stadtbild von Neumarkt. Diese polnische Kirche ist dem Gedenken und der Andacht gewidmet. Interessierte Gäste können die ruhige Umgebung des Gotteshauses erkunden.", "category": "religious", "coords": [20.010604, 49.473215]}, {"name": "Kościół pw. Świętego Jana Pawła II w Nowym Targu", "text": "Die Kościół pw. Świętego Jana Pawła II w Nowym Targu ist eine markante Kirche im Herzen von Polen. In der Stadt Neumarkt gelegen, dient sie den Einheimischen als Ort der Begegnung und des Gebets. Reisende können hier in eine besinnliche Atmosphäre eintauchen.", "category": "religious", "coords": [20.025717, 49.467309]}], "hu": [{"name": "Muzeum Podhalańskie im. Czesława Pajerskiego", "text": "Múzeum Neumarktban.", "category": "museum", "coords": [20.031078, 49.482118]}, {"name": "Muzeum Drukarstwa w Nowym Targu", "text": "Múzeum Neumarktban.", "category": "museum", "coords": [20.032363, 49.48241]}, {"name": "Wieża Wodna", "text": "Múzeum Neumarktban.", "category": "museum", "coords": [20.015098, 49.47407]}, {"name": "Czarnotówka", "text": "Hegycsúcs Neumarktban.", "category": "natural", "coords": [20.064756, 49.50058]}, {"name": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu", "text": "A Kościół pw. Matki Bożej Anielskiej w Nowym Targu a lengyelországi Neumarkt egyik vallási találkozóhelye. Ez a templom a helyi hívők közösségi életének fontos része. A városba érkezők itt bepillantást nyerhetnek a helyi hitéletbe.", "category": "religious", "coords": [20.052837, 49.504635]}, {"name": "Kościół pw. Świętego Brata Alberta w Nowym Targu", "text": "A Nowy Targ-ban található Kościół pw. Świętego Brata Alberta w Nowym Targu egy nyugodt vallási színtér. Ez a templom a lengyel Neumarkt mindennapjainak szerves részét képezi. A látogatókat egy autentikus helyi szakrális tér várja.", "category": "religious", "coords": [20.00517, 49.493767]}, {"name": "Kościół św. Jadwigi Królowej w Nowym Targu", "text": "A Kościół św. Jadwigi Królowej w Nowym Targu vallási épületként gazdagítja Neumarkt városképét. Ezt a lengyel templomot az emlékezésnek és a tiszteletadásnak szentelték. Az érdeklődő vendégek nyugodt környezetben fedezhetik fel a szentélyt.", "category": "religious", "coords": [20.010604, 49.473215]}, {"name": "Kościół pw. Świętego Jana Pawła II w Nowym Targu", "text": "A Kościół pw. Świętego Jana Pawła II w Nowym Targu egy jellegzetes templom Lengyelország szívében. A Neumarkt néven is ismert városban található épület a helyiek számára a találkozás és az imádság helye. Az utazók itt elmélyült, békés légkörben pihenhetnek meg.", "category": "religious", "coords": [20.025717, 49.467309]}], "ro": [{"name": "Muzeum Podhalańskie im. Czesława Pajerskiego", "text": "Muzeu în Neumarkt.", "category": "museum", "coords": [20.031078, 49.482118]}, {"name": "Muzeum Drukarstwa w Nowym Targu", "text": "Muzeu în Neumarkt.", "category": "museum", "coords": [20.032363, 49.48241]}, {"name": "Wieża Wodna", "text": "Muzeu în Neumarkt.", "category": "museum", "coords": [20.015098, 49.47407]}, {"name": "Czarnotówka", "text": "Vârf montan în Neumarkt.", "category": "natural", "coords": [20.064756, 49.50058]}, {"name": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu", "text": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu este o biserică din localitatea poloneză Nowy Targ. Lăcașul de cult deservește comunitatea din Neumarkt, oferind un loc pentru slujbe și reflecție. Vizitatorii pot descoperi aici latura spirituală a orașului.", "category": "religious", "coords": [20.052837, 49.504635]}, {"name": "Kościół pw. Świętego Brata Alberta w Nowym Targu", "text": "În orașul Nowy Targ, biserica Kościół pw. Świętego Brata Alberta w Nowym Targu oferă un spațiu pentru reculegere spirituală. Această clădire religioasă este bine ancorată în comunitatea poloneză din Neumarkt. Cei prezenți pot vizita un lăcaș de cult autentic al regiunii.", "category": "religious", "coords": [20.00517, 49.493767]}, {"name": "Kościół św. Jadwigi Królowej w Nowym Targu", "text": "Fiind un edificiu sacru, Kościół św. Jadwigi Królowej w Nowym Targu îmbogățește peisajul urban din Neumarkt. Această biserică din Polonia este dedicată rugăciunii și devoțiunii. Oaspeții interesați pot explora mediul pașnic al acestui lăcaș de cult.", "category": "religious", "coords": [20.010604, 49.473215]}, {"name": "Kościół pw. Świętego Jana Pawła II w Nowym Targu", "text": "Kościół pw. Świętego Jana Pawła II w Nowym Targu este o biserică reprezentativă situată în Polonia. Aflată în orașul Neumarkt, clădirea religioasă servește localnicilor ca loc de rugăciune și întâlnire. Călătorii se pot bucura aici de o atmosferă profund contemplativă.", "category": "religious", "coords": [20.025717, 49.467309]}], "en": [{"name": "Muzeum Podhalańskie im. Czesława Pajerskiego", "text": "Museum in Neumarkt.", "category": "museum", "coords": [20.031078, 49.482118]}, {"name": "Muzeum Drukarstwa w Nowym Targu", "text": "Museum in Neumarkt.", "category": "museum", "coords": [20.032363, 49.48241]}, {"name": "Wieża Wodna", "text": "Museum in Neumarkt.", "category": "museum", "coords": [20.015098, 49.47407]}, {"name": "Czarnotówka", "text": "Peak in Neumarkt.", "category": "natural", "coords": [20.064756, 49.50058]}, {"name": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu", "text": "The Kościół pw. Matki Bożej Anielskiej w Nowym Targu serves as a place of worship in Nowy Targ, Poland. Operating as a church in the area also known as Neumarkt, it supports the religious community. Guests to the city will find it a serene spot for reflection.", "category": "religious", "coords": [20.052837, 49.504635]}, {"name": "Kościół pw. Świętego Brata Alberta w Nowym Targu", "text": "Set in Nowy Targ, the Kościół pw. Świętego Brata Alberta w Nowym Targu offers a space for spiritual contemplation. This church is an integral part of the local religious landscape in the Polish city of Neumarkt. Visitors can expect an authentic regional place of worship.", "category": "religious", "coords": [20.00517, 49.493767]}, {"name": "Kościół św. Jadwigi Królowej w Nowym Targu", "text": "As a sacred structure, the Kościół św. Jadwigi Królowej w Nowym Targu enriches the cityscape of Neumarkt. This Polish church is dedicated to worship and reverence within the local community. Interested guests can explore the tranquil surroundings of the religious site.", "category": "religious", "coords": [20.010604, 49.473215]}, {"name": "Kościół pw. Świętego Jana Pawła II w Nowym Targu", "text": "The Kościół pw. Świętego Jana Pawła II w Nowym Targu is a notable church located in Poland. Situated in the city of Neumarkt, it serves locals as a venue for prayer and community gathering. Travelers can immerse themselves in a contemplative atmosphere here.", "category": "religious", "coords": [20.025717, 49.467309]}]},
+    id: "poland-nowy-targ-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Podhalańskie im. Czesława Pajerskiego",
+                  "text": "Museum in Neumarkt.",
+                  "category": "museum",
+                  "coords": [
+                        20.031078,
+                        49.482118
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa w Nowym Targu",
+                  "text": "Museum in Neumarkt.",
+                  "category": "museum",
+                  "coords": [
+                        20.032363,
+                        49.48241
+                  ]
+            },
+            {
+                  "name": "Wieża Wodna",
+                  "text": "Museum in Neumarkt.",
+                  "category": "museum",
+                  "coords": [
+                        20.015098,
+                        49.47407
+                  ]
+            },
+            {
+                  "name": "Czarnotówka",
+                  "text": "Gipfel in Neumarkt.",
+                  "category": "natural",
+                  "coords": [
+                        20.064756,
+                        49.50058
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu",
+                  "text": "Die Kościół pw. Matki Bożej Anielskiej w Nowym Targu ist ein Ort des Glaubens im polnischen Neumarkt. Sie dient der lokalen Gemeinde als Kirche für Gottesdienste und Zusammenkünfte. Ein Besuch vermittelt einen Eindruck des religiösen Lebens in dieser Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.052837,
+                        49.504635
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Brata Alberta w Nowym Targu",
+                  "text": "In Nowy Targ bietet die Kościół pw. Świętego Brata Alberta w Nowym Targu einen Raum für spirituelle Einkehr. Diese Kirche ist fest im polnischen Neumarkt verwurzelt. Besucher erwartet ein authentisches sakrales Gebäude der Region.",
+                  "category": "religious",
+                  "coords": [
+                        20.00517,
+                        49.493767
+                  ]
+            },
+            {
+                  "name": "Kościół św. Jadwigi Królowej w Nowym Targu",
+                  "text": "Als sakraler Bau bereichert die Kościół św. Jadwigi Królowej w Nowym Targu das Stadtbild von Neumarkt. Diese polnische Kirche ist dem Gedenken und der Andacht gewidmet. Interessierte Gäste können die ruhige Umgebung des Gotteshauses erkunden.",
+                  "category": "religious",
+                  "coords": [
+                        20.010604,
+                        49.473215
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Pawła II w Nowym Targu",
+                  "text": "Die Kościół pw. Świętego Jana Pawła II w Nowym Targu ist eine markante Kirche im Herzen von Polen. In der Stadt Neumarkt gelegen, dient sie den Einheimischen als Ort der Begegnung und des Gebets. Reisende können hier in eine besinnliche Atmosphäre eintauchen.",
+                  "category": "religious",
+                  "coords": [
+                        20.025717,
+                        49.467309
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska",
+                  "text": "Ein öffentliches Hallenbad in Nowy Targ, das Möglichkeiten für den Schwimmsport bietet.",
+                  "category": "family",
+                  "coords": [
+                        20.032387,
+                        49.472189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Podhalańskie im. Czesława Pajerskiego",
+                  "text": "Múzeum Neumarktban.",
+                  "category": "museum",
+                  "coords": [
+                        20.031078,
+                        49.482118
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa w Nowym Targu",
+                  "text": "Múzeum Neumarktban.",
+                  "category": "museum",
+                  "coords": [
+                        20.032363,
+                        49.48241
+                  ]
+            },
+            {
+                  "name": "Wieża Wodna",
+                  "text": "Múzeum Neumarktban.",
+                  "category": "museum",
+                  "coords": [
+                        20.015098,
+                        49.47407
+                  ]
+            },
+            {
+                  "name": "Czarnotówka",
+                  "text": "Hegycsúcs Neumarktban.",
+                  "category": "natural",
+                  "coords": [
+                        20.064756,
+                        49.50058
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu",
+                  "text": "A Kościół pw. Matki Bożej Anielskiej w Nowym Targu a lengyelországi Neumarkt egyik vallási találkozóhelye. Ez a templom a helyi hívők közösségi életének fontos része. A városba érkezők itt bepillantást nyerhetnek a helyi hitéletbe.",
+                  "category": "religious",
+                  "coords": [
+                        20.052837,
+                        49.504635
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Brata Alberta w Nowym Targu",
+                  "text": "A Nowy Targ-ban található Kościół pw. Świętego Brata Alberta w Nowym Targu egy nyugodt vallási színtér. Ez a templom a lengyel Neumarkt mindennapjainak szerves részét képezi. A látogatókat egy autentikus helyi szakrális tér várja.",
+                  "category": "religious",
+                  "coords": [
+                        20.00517,
+                        49.493767
+                  ]
+            },
+            {
+                  "name": "Kościół św. Jadwigi Królowej w Nowym Targu",
+                  "text": "A Kościół św. Jadwigi Królowej w Nowym Targu vallási épületként gazdagítja Neumarkt városképét. Ezt a lengyel templomot az emlékezésnek és a tiszteletadásnak szentelték. Az érdeklődő vendégek nyugodt környezetben fedezhetik fel a szentélyt.",
+                  "category": "religious",
+                  "coords": [
+                        20.010604,
+                        49.473215
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Pawła II w Nowym Targu",
+                  "text": "A Kościół pw. Świętego Jana Pawła II w Nowym Targu egy jellegzetes templom Lengyelország szívében. A Neumarkt néven is ismert városban található épület a helyiek számára a találkozás és az imádság helye. Az utazók itt elmélyült, békés légkörben pihenhetnek meg.",
+                  "category": "religious",
+                  "coords": [
+                        20.025717,
+                        49.467309
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska",
+                  "text": "Nyilvános fedett uszoda Nowy Targban, amely úszási lehetőségeket biztosít.",
+                  "category": "family",
+                  "coords": [
+                        20.032387,
+                        49.472189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Podhalańskie im. Czesława Pajerskiego",
+                  "text": "Muzeu în Neumarkt.",
+                  "category": "museum",
+                  "coords": [
+                        20.031078,
+                        49.482118
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa w Nowym Targu",
+                  "text": "Muzeu în Neumarkt.",
+                  "category": "museum",
+                  "coords": [
+                        20.032363,
+                        49.48241
+                  ]
+            },
+            {
+                  "name": "Wieża Wodna",
+                  "text": "Muzeu în Neumarkt.",
+                  "category": "museum",
+                  "coords": [
+                        20.015098,
+                        49.47407
+                  ]
+            },
+            {
+                  "name": "Czarnotówka",
+                  "text": "Vârf montan în Neumarkt.",
+                  "category": "natural",
+                  "coords": [
+                        20.064756,
+                        49.50058
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu",
+                  "text": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu este o biserică din localitatea poloneză Nowy Targ. Lăcașul de cult deservește comunitatea din Neumarkt, oferind un loc pentru slujbe și reflecție. Vizitatorii pot descoperi aici latura spirituală a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        20.052837,
+                        49.504635
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Brata Alberta w Nowym Targu",
+                  "text": "În orașul Nowy Targ, biserica Kościół pw. Świętego Brata Alberta w Nowym Targu oferă un spațiu pentru reculegere spirituală. Această clădire religioasă este bine ancorată în comunitatea poloneză din Neumarkt. Cei prezenți pot vizita un lăcaș de cult autentic al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        20.00517,
+                        49.493767
+                  ]
+            },
+            {
+                  "name": "Kościół św. Jadwigi Królowej w Nowym Targu",
+                  "text": "Fiind un edificiu sacru, Kościół św. Jadwigi Królowej w Nowym Targu îmbogățește peisajul urban din Neumarkt. Această biserică din Polonia este dedicată rugăciunii și devoțiunii. Oaspeții interesați pot explora mediul pașnic al acestui lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        20.010604,
+                        49.473215
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Pawła II w Nowym Targu",
+                  "text": "Kościół pw. Świętego Jana Pawła II w Nowym Targu este o biserică reprezentativă situată în Polonia. Aflată în orașul Neumarkt, clădirea religioasă servește localnicilor ca loc de rugăciune și întâlnire. Călătorii se pot bucura aici de o atmosferă profund contemplativă.",
+                  "category": "religious",
+                  "coords": [
+                        20.025717,
+                        49.467309
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska",
+                  "text": "O piscină interioară publică în Nowy Targ, care oferă facilități pentru sporturi nautice.",
+                  "category": "family",
+                  "coords": [
+                        20.032387,
+                        49.472189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Podhalańskie im. Czesława Pajerskiego",
+                  "text": "Museum in Neumarkt.",
+                  "category": "museum",
+                  "coords": [
+                        20.031078,
+                        49.482118
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa w Nowym Targu",
+                  "text": "Museum in Neumarkt.",
+                  "category": "museum",
+                  "coords": [
+                        20.032363,
+                        49.48241
+                  ]
+            },
+            {
+                  "name": "Wieża Wodna",
+                  "text": "Museum in Neumarkt.",
+                  "category": "museum",
+                  "coords": [
+                        20.015098,
+                        49.47407
+                  ]
+            },
+            {
+                  "name": "Czarnotówka",
+                  "text": "Peak in Neumarkt.",
+                  "category": "natural",
+                  "coords": [
+                        20.064756,
+                        49.50058
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Anielskiej w Nowym Targu",
+                  "text": "The Kościół pw. Matki Bożej Anielskiej w Nowym Targu serves as a place of worship in Nowy Targ, Poland. Operating as a church in the area also known as Neumarkt, it supports the religious community. Guests to the city will find it a serene spot for reflection.",
+                  "category": "religious",
+                  "coords": [
+                        20.052837,
+                        49.504635
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Brata Alberta w Nowym Targu",
+                  "text": "Set in Nowy Targ, the Kościół pw. Świętego Brata Alberta w Nowym Targu offers a space for spiritual contemplation. This church is an integral part of the local religious landscape in the Polish city of Neumarkt. Visitors can expect an authentic regional place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        20.00517,
+                        49.493767
+                  ]
+            },
+            {
+                  "name": "Kościół św. Jadwigi Królowej w Nowym Targu",
+                  "text": "As a sacred structure, the Kościół św. Jadwigi Królowej w Nowym Targu enriches the cityscape of Neumarkt. This Polish church is dedicated to worship and reverence within the local community. Interested guests can explore the tranquil surroundings of the religious site.",
+                  "category": "religious",
+                  "coords": [
+                        20.010604,
+                        49.473215
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Pawła II w Nowym Targu",
+                  "text": "The Kościół pw. Świętego Jana Pawła II w Nowym Targu is a notable church located in Poland. Situated in the city of Neumarkt, it serves locals as a venue for prayer and community gathering. Travelers can immerse themselves in a contemplative atmosphere here.",
+                  "category": "religious",
+                  "coords": [
+                        20.025717,
+                        49.467309
+                  ]
+            },
+            {
+                  "name": "Pływalnia Miejska",
+                  "text": "A public indoor swimming pool in Nowy Targ providing facilities for swimming sports.",
+                  "category": "family",
+                  "coords": [
+                        20.032387,
+                        49.472189
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Neumarkt", hu: "Nowy Targ", ro: "Nowy Targ", en: "Nowy Targ"},
@@ -71733,6 +82164,15 @@ export const polandCitiesV2: POI[] = [
                         18.620194,
                         49.739135
                   ]
+            },
+            {
+                  "name": "Učebna plavání při ZŠ Pod Zvonek",
+                  "text": "Eine Schwimmeinrichtung in Cieszyn, die Kurse und Training für Schulkinder anbietet.",
+                  "category": "family",
+                  "coords": [
+                        18.616466,
+                        49.730896
+                  ]
             }
       ],
       "hu": [
@@ -71752,6 +82192,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.620194,
                         49.739135
+                  ]
+            },
+            {
+                  "name": "Učebna plavání při ZŠ Pod Zvonek",
+                  "text": "Cieszyni úszólétesítmény, amely tanfolyamokat és edzéseket kínál iskolásoknak.",
+                  "category": "family",
+                  "coords": [
+                        18.616466,
+                        49.730896
                   ]
             }
       ],
@@ -71773,6 +82222,15 @@ export const polandCitiesV2: POI[] = [
                         18.620194,
                         49.739135
                   ]
+            },
+            {
+                  "name": "Učebna plavání při ZŠ Pod Zvonek",
+                  "text": "O unitate de înot din Cieszyn, care oferă cursuri și antrenamente pentru școlari.",
+                  "category": "family",
+                  "coords": [
+                        18.616466,
+                        49.730896
+                  ]
             }
       ],
       "en": [
@@ -71792,6 +82250,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.620194,
                         49.739135
+                  ]
+            },
+            {
+                  "name": "Učebna plavání při ZŠ Pod Zvonek",
+                  "text": "A swimming facility in Cieszyn offering courses and training for schoolchildren.",
+                  "category": "family",
+                  "coords": [
+                        18.616466,
+                        49.730896
                   ]
             }
       ]
@@ -71861,6 +82328,24 @@ export const polandCitiesV2: POI[] = [
                         20.450383,
                         49.964309
                   ]
+            },
+            {
+                  "name": "Park Rodzinny \"Uzbornia\"",
+                  "text": "Dieser Familienpark in Bochnia bietet verschiedene Outdoor-Aktivitäten und Spielbereiche.",
+                  "category": "family",
+                  "coords": [
+                        20.428519,
+                        49.962856
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia",
+                  "text": "Dieses Hallenbad in Bochnia ist ideal für Familien, um das ganze Jahr über schwimmen zu gehen.",
+                  "category": "family",
+                  "coords": [
+                        20.43376,
+                        49.976472
+                  ]
             }
       ],
       "hu": [
@@ -71880,6 +82365,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.450383,
                         49.964309
+                  ]
+            },
+            {
+                  "name": "Park Rodzinny \"Uzbornia\"",
+                  "text": "Ez a bochniai családi park különféle szabadtéri tevékenységeket és játszótereket kínál.",
+                  "category": "family",
+                  "coords": [
+                        20.428519,
+                        49.962856
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia",
+                  "text": "Ez a bochniai fedett uszoda ideális a családok számára az egész éves úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        20.43376,
+                        49.976472
                   ]
             }
       ],
@@ -71901,6 +82404,24 @@ export const polandCitiesV2: POI[] = [
                         20.450383,
                         49.964309
                   ]
+            },
+            {
+                  "name": "Park Rodzinny \"Uzbornia\"",
+                  "text": "Acest parc familial din Bochnia oferă diverse activități în aer liber și zone de joacă.",
+                  "category": "family",
+                  "coords": [
+                        20.428519,
+                        49.962856
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia",
+                  "text": "Această piscină interioară din Bochnia este ideală pentru ca familiile să se bucure de înot tot timpul anului.",
+                  "category": "family",
+                  "coords": [
+                        20.43376,
+                        49.976472
+                  ]
             }
       ],
       "en": [
@@ -71920,6 +82441,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.450383,
                         49.964309
+                  ]
+            },
+            {
+                  "name": "Park Rodzinny \"Uzbornia\"",
+                  "text": "This family park in Bochnia provides various outdoor activities and play areas.",
+                  "category": "family",
+                  "coords": [
+                        20.428519,
+                        49.962856
+                  ]
+            },
+            {
+                  "name": "Kryta Pływalnia",
+                  "text": "This indoor swimming pool in Bochnia is ideal for families to enjoy swimming year-round.",
+                  "category": "family",
+                  "coords": [
+                        20.43376,
+                        49.976472
                   ]
             }
       ]
@@ -73487,6 +84026,15 @@ export const polandCitiesV2: POI[] = [
                         18.936983,
                         53.720373
                   ]
+            },
+            {
+                  "name": "Mini Zoo Kwidzyn",
+                  "text": "Dieser Mini-Zoo in Kwidzyn ist ein charmantes Ziel für einen Familienausflug mit kleinen Tieren.",
+                  "category": "family",
+                  "coords": [
+                        18.956763,
+                        53.70905
+                  ]
             }
       ],
       "hu": [
@@ -73596,6 +84144,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.936983,
                         53.720373
+                  ]
+            },
+            {
+                  "name": "Mini Zoo Kwidzyn",
+                  "text": "Ez a kwidzyni mini állatkert bájos célpont egy családi kiránduláshoz kisállatokkal.",
+                  "category": "family",
+                  "coords": [
+                        18.956763,
+                        53.70905
                   ]
             }
       ],
@@ -73707,6 +84264,15 @@ export const polandCitiesV2: POI[] = [
                         18.936983,
                         53.720373
                   ]
+            },
+            {
+                  "name": "Mini Zoo Kwidzyn",
+                  "text": "Această mini grădină zoologică din Kwidzyn este o destinație fermecătoare pentru o ieșire în familie cu animale mici.",
+                  "category": "family",
+                  "coords": [
+                        18.956763,
+                        53.70905
+                  ]
             }
       ],
       "en": [
@@ -73816,6 +84382,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.936983,
                         53.720373
+                  ]
+            },
+            {
+                  "name": "Mini Zoo Kwidzyn",
+                  "text": "This mini zoo in Kwidzyn is a charming destination for a family outing with small animals.",
+                  "category": "family",
+                  "coords": [
+                        18.956763,
+                        53.70905
                   ]
             }
       ]
@@ -74976,6 +85551,24 @@ export const polandCitiesV2: POI[] = [
                         21.754859,
                         49.684425
                   ]
+            },
+            {
+                  "name": "ParkMani",
+                  "text": "Ein Erholungspark in Krosno mit verschiedenen Aktivitäten für Kinder und Erwachsene.",
+                  "category": "family",
+                  "coords": [
+                        21.726593,
+                        49.7072
+                  ]
+            },
+            {
+                  "name": "basen rekreacyjno-sportowy",
+                  "text": "Ein Schwimmbad in Krosno, das sich für Sport und Erholung eignet.",
+                  "category": "family",
+                  "coords": [
+                        21.780223,
+                        49.692649
+                  ]
             }
       ],
       "hu": [
@@ -75238,6 +85831,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.754859,
                         49.684425
+                  ]
+            },
+            {
+                  "name": "ParkMani",
+                  "text": "Szórakoztató park Krosnóban, különféle tevékenységekkel gyerekeknek és felnőtteknek.",
+                  "category": "family",
+                  "coords": [
+                        21.726593,
+                        49.7072
+                  ]
+            },
+            {
+                  "name": "basen rekreacyjno-sportowy",
+                  "text": "Úszómedence Krosnóban, amely alkalmas sportolásra és kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        21.780223,
+                        49.692649
                   ]
             }
       ],
@@ -75502,6 +86113,24 @@ export const polandCitiesV2: POI[] = [
                         21.754859,
                         49.684425
                   ]
+            },
+            {
+                  "name": "ParkMani",
+                  "text": "Un parc de distracții în Krosno cu diverse activități pentru copii și adulți.",
+                  "category": "family",
+                  "coords": [
+                        21.726593,
+                        49.7072
+                  ]
+            },
+            {
+                  "name": "basen rekreacyjno-sportowy",
+                  "text": "O piscină în Krosno potrivită pentru sport și recreere.",
+                  "category": "family",
+                  "coords": [
+                        21.780223,
+                        49.692649
+                  ]
             }
       ],
       "en": [
@@ -75764,6 +86393,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.754859,
                         49.684425
+                  ]
+            },
+            {
+                  "name": "ParkMani",
+                  "text": "A theme park in Krosno with various activities for children and adults.",
+                  "category": "family",
+                  "coords": [
+                        21.726593,
+                        49.7072
+                  ]
+            },
+            {
+                  "name": "basen rekreacyjno-sportowy",
+                  "text": "A swimming pool in Krosno suitable for sports and recreation.",
+                  "category": "family",
+                  "coords": [
+                        21.780223,
+                        49.692649
                   ]
             }
       ]
@@ -76184,6 +86831,15 @@ export const polandCitiesV2: POI[] = [
                         17.346809,
                         50.488656
                   ]
+            },
+            {
+                  "name": "AKWA Marina Nysa",
+                  "text": "Dieses Strandbad in Nysa bietet Wassersport und Freizeitaktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.283489,
+                        50.473833
+                  ]
             }
       ],
       "hu": [
@@ -76554,6 +87210,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.346809,
                         50.488656
+                  ]
+            },
+            {
+                  "name": "AKWA Marina Nysa",
+                  "text": "Ez a nysai strandüdülő vízi sportokat és szabadidős tevékenységeket kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.283489,
+                        50.473833
                   ]
             }
       ],
@@ -76926,6 +87591,15 @@ export const polandCitiesV2: POI[] = [
                         17.346809,
                         50.488656
                   ]
+            },
+            {
+                  "name": "AKWA Marina Nysa",
+                  "text": "Această stațiune de plajă din Nysa oferă sporturi nautice și activități de agrement pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.283489,
+                        50.473833
+                  ]
             }
       ],
       "en": [
@@ -77296,6 +87970,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.346809,
                         50.488656
+                  ]
+            },
+            {
+                  "name": "AKWA Marina Nysa",
+                  "text": "This beach resort in Nysa offers water sports and leisure activities for families.",
+                  "category": "family",
+                  "coords": [
+                        17.283489,
+                        50.473833
                   ]
             }
       ]
@@ -79130,7 +89813,1780 @@ export const polandCitiesV2: POI[] = [
   }
 ,
   {
-    id: "poland-sopot-cities-v2", "sights": {"de": [{"name": "Plaża strzeżona \"Jelitkowo\"", "text": "Überwachter Strand Jelitkowo in Sopot.", "category": "recreational", "coords": [18.59785, 54.426354]}, {"name": "Plaża strzeżona \"Klipper Jelitkowo\"", "text": "Überwachter Strand Klipper Jelitkowo in Sopot.", "category": "recreational", "coords": [18.602277, 54.423966]}, {"name": "Wejście 5", "text": "Strandzugang Nr. 5 in Sopot.", "category": "recreational", "coords": [18.561487, 54.458536]}, {"name": "Plaża dla psów", "text": "Hundestrand in Sopot.", "category": "recreational", "coords": [18.562522, 54.466979]}, {"name": "Łęg nad Swelinią", "text": "Naturschutzgebiet entlang des Swelinia-Baches in Sopot.", "category": "natural", "coords": [18.533881, 54.462308]}, {"name": "Rezerwat Przyrody Zajęcze Wzgórze", "text": "Naturschutzgebiet Hasenberg (Zajęcze Wzgórze) in Sopot.", "category": "natural", "coords": [18.551575, 54.434351]}, {"name": "Zoologischer Garten Danzig", "text": "Beliebter Zoo in der Nähe von Sopot/Gdańsk.", "category": "family", "coords": [18.533058, 54.414454]}, {"name": "Skansen Archeologiczny Grodzisko - Oddział Muzeum Archeologicznego w Gdańsku", "text": "Archäologisches Freilichtmuseum (Grodzisko) in Sopot.", "category": "museum", "coords": [18.560646, 54.451972]}, {"name": "Teatr Atelier im. Agnieszki Osieckiej", "text": "Theater in Sopot.", "category": "cultural", "coords": [18.568277, 54.448549]}, {"name": "Muszla koncertowa", "text": "Konzertmuschel in Sopot.", "category": "cultural", "coords": [18.569171, 54.446202]}, {"name": "Teatr Wybrzeże - Scena Kameralna im. Joanny Bogackiej", "text": "Kammertheaterbühne in Sopot.", "category": "cultural", "coords": [18.565604, 54.44334]}, {"name": "Burgwall", "text": "Archäologische Fundstätte in Sopot.", "category": "historical", "coords": [18.559392, 54.452047]}, {"name": "Teatr Boto", "text": "Theater in Sopot.", "category": "cultural", "coords": [18.567806, 54.44395]}, {"name": "Kolejowy Odjazd", "text": "Freizeitpark in Sopot.", "category": "family", "coords": [18.56638, 54.432929]}, {"name": "Adventure Park", "text": "Abenteuerpark in Sopot.", "category": "family", "coords": [18.551453, 54.466174]}, {"name": "Aquapark Sopot", "text": "Wasserpark in Sopot.", "category": "family", "coords": [18.557677, 54.459903]}, {"name": "Jar Swelini", "text": "Das Naturreservat Jar Swelini bietet eine naturnahe Auszeit in der polnischen Stadt Sopot. Diese malerische Umgebung lädt zu erholsamen Spaziergängen ein. Besucher können hier die unberührte Natur abseits des Trubels genießen.", "category": "natural", "coords": [18.557535, 54.464062]}, {"name": "Konwaliowe Wzgórze", "text": "Konwaliowe Wzgórze ist ein idyllisches Naturreservat, das sich in Sopot befindet. Naturfreunde können die landschaftliche Schönheit dieser polnischen Oase entdecken. Ein Ausflug hierher verspricht Ruhe und Erholung im Grünen.", "category": "natural", "coords": [18.54279, 54.441195]}, {"name": "Kokoryczowe Zbocze", "text": "Mit seiner artenreichen Umgebung ist das Kokoryczowe Zbocze ein beliebtes Naturreservat in Sopot. Das Areal in Polen eignet sich ideal für Naturbeobachtungen und kleine Wanderungen. Wer Erholung sucht, wird an diesem ruhigen Fleckchen fündig.", "category": "natural", "coords": [18.562302, 54.445183]}, {"name": "Cisowe Zbocze", "text": "Das Gebiet Cisowe Zbocze ist als geschütztes Naturreservat Teil der grünen Lunge von Sopot. In dieser polnischen Naturlandschaft können Wanderer frische Luft tanken. Die unberührte Atmosphäre zeichnet dieses besondere Ausflugsziel aus.", "category": "natural", "coords": [18.559546, 54.457515]}, {"name": "Polska Filharmonia Kameralna Sopot", "text": "Kammermusik-Philharmonie in Sopot.", "category": "cultural", "coords": [18.5462, 54.445167]}, {"name": "Muzeum Sopotu", "text": "Museum zur Stadtgeschichte von Sopot.", "category": "museum", "coords": [18.576072, 54.439938]}, {"name": "Augustusberg", "text": "Der Augustusberg fungiert als herrlicher Aussichtspunkt im polnischen Sopot. Von hier aus eröffnet sich den Besuchern ein beeindruckender Blick über die Landschaft. Es ist der perfekte Ort, um das Panorama der Region in Ruhe zu genießen.", "category": "natural", "coords": [18.551487, 54.452299]}, {"name": "Wzgórze Królowej Marysieńki", "text": "Berg in Sopot.", "category": "natural", "coords": [18.545584, 54.436866]}, {"name": "Kaiserstuhl", "text": "Hoch über der Stadt bietet der Kaiserstuhl in Sopot eine wunderbare Aussicht. Dieser natürliche Aussichtspunkt in Polen belohnt den Aufstieg mit weiten Blicken. Touristen schätzen die landschaftliche Weite, die man von diesem Ort aus erlebt.", "category": "natural", "coords": [18.551342, 54.448063]}, {"name": "Großer Seesteg", "text": "Wahrzeichen von Sopot, einer der längsten Holzstege Europas.", "category": "landmark", "coords": [18.575261, 54.447384]}, {"name": "Skwer im. księdza Otto Bowiena", "text": "Park in Sopot.", "category": "park", "coords": [18.570933, 54.444291]}, {"name": "Krzywy Domek", "text": "Markantes Gebäude in Sopot, bekannt für seine geschwungene Architektur.", "category": "landmark", "coords": [18.566611, 54.444338]}, {"name": "Schützenhohe", "text": "Die Schützenhohe ist ein bekannter Aussichtspunkt, der Sopot von oben zeigt. Wer diesen Naturort in Polen aufsucht, kann die Umgebung aus einer neuen Perspektive betrachten. Die Plattform lädt zum Verweilen und Fotografieren ein.", "category": "natural", "coords": [18.549229, 54.444786]}, {"name": "Großer Gaisberg", "text": "Ein grandioses Panorama erwartet die Gäste am Großen Gaisberg in Sopot. Dieser natürliche Aussichtspunkt gehört zu den schönen Zielen der polnischen Stadt. Besucher sollten ihre Kamera bereithalten, um die weitreichende Sicht festzuhalten.", "category": "natural", "coords": [18.546298, 54.434787]}, {"name": "Eliesenhöhe", "text": "Von der Eliesenhöhe aus lässt sich die Landschaft rund um Sopot hervorragend überblicken. Als malerischer Aussichtspunkt in Polen zieht er Erholungssuchende an. Ein Aufenthalt hier kombiniert Naturgenuss mit visueller Weite.", "category": "natural", "coords": [18.540626, 54.443144]}, {"name": "Oddział Reumatologiczny", "text": "Das Gebäude Oddział Reumatologiczny ist eine bemerkenswerte Attraktion in Sopot. Interessierte können an diesem Ort ein Stück der lokalen Infrastruktur Polens entdecken. Es reiht sich in die vielfältigen Wahrzeichen der Stadt ein.", "category": "landmark", "coords": [18.569635, 54.444758]}, {"name": "Przystań rybacka", "text": "Fischerhafen in Sopot.", "category": "landmark", "coords": [18.579611, 54.437448]}, {"name": "Geburtshaus Klaus Kinski", "text": "Das Geburtshaus Klaus Kinski stellt eine besondere Attraktion im polnischen Sopot dar. Als historisches Wahrzeichen erinnert es an das Leben und Wirken bekannter Persönlichkeiten. Ein Stopp an dieser Stätte bringt Besuchern die kulturelle Geschichte der Stadt näher.", "category": "landmark", "coords": [18.563354, 54.441614]}, {"name": "Plac Rybaków", "text": "Der Plac Rybaków ist ein zentraler Treffpunkt und eine beliebte Attraktion in Sopot. Dieser Platz in Polen vermittelt das lebendige Flair der städtischen Umgebung. Ein Spaziergang über dieses Wahrzeichen gehört zu jedem Besuch dazu.", "category": "landmark", "coords": [18.578515, 54.435743]}, {"name": "Łazienki Południowe", "text": "Als architektonisches Highlight präsentieren sich die Łazienki Południowe in Sopot. Diese Attraktion fügt sich harmonisch in das polnische Stadtbild ein. Wer sich für markante Wahrzeichen interessiert, sollte diesen Ort nicht verpassen.", "category": "landmark", "coords": [18.573374, 54.443287]}, {"name": "Muzeum figur woskowych", "text": "Wachsfigurenkabinett in Sopot.", "category": "museum", "coords": [18.567908, 54.445433]}, {"name": "Goyki 3 Art Inkubator", "text": "Kunstzentrum in Sopot.", "category": "cultural", "coords": [18.559898, 54.448775]}, {"name": "Monciak", "text": "Beliebte Einkaufsstraße in Sopot.", "category": "landmark", "coords": [18.564394, 54.443406]}, {"name": "Esperantoplatz", "text": "Der Esperantoplatz ist eine einladende Attraktion inmitten der Stadt Sopot. Auf diesem polnischen Wahrzeichen spürt man die urbane Dynamik des Ortens. Besucher nutzen den Platz oft als Startpunkt für weitere Erkundungen.", "category": "landmark", "coords": [18.543797, 54.430381]}, {"name": "Altana burmistrza Johannesa Kollatha", "text": "Die Altana burmistrza Johannesa Kollatha bereichert als charmante Attraktion das Stadtgebiet von Sopot. Dieser Pavillon in Polen steht als markantes Wahrzeichen für Erholung und Tradition. Bei einem Rundgang durch die Stadt lädt er zu einer kurzen Rast ein.", "category": "landmark", "coords": [18.56065, 54.463656]}, {"name": "Kościół Chrześcijan Baptystów w Sopocie", "text": "Baptistenkirche in Sopot.", "category": "religious", "coords": [18.568649, 54.441716]}, {"name": "Die Waldoper", "text": "Bekannter Veranstaltungsort in Sopot, bekannt für seine Akustik.", "category": "landmark", "coords": [18.544414, 54.444657]}, {"name": "Kościół pw. Matki Bożej Fatimskiej", "text": "Die Kościół pw. Matki Bożej Fatimskiej ist eine bedeutende Kirche in der Stadt Sopot. Für das polnische Gemeindeleben spielt dieses religiöse Bauwerk eine wichtige Rolle. Besucher finden hier einen friedvollen Raum zur Besinnung vor.", "category": "religious", "coords": [18.574621, 54.41991]}, {"name": "Kościół pw. Świętego Michała Archanioła", "text": "In Sopot öffnet die Kościół pw. Świętego Michała Archanioła ihre Türen für Gläubige und Gäste. Als polnische Kirche vermittelt sie einen tiefen spirituellen Eindruck. Die Architektur und die ruhige Lage machen sie zu einem Ort der Stille.", "category": "religious", "coords": [18.567492, 54.435495]}, {"name": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza", "text": "Die Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza ist ein religiöses Zentrum in Sopot. Diese Kirche in Polen bietet einen Rückzugsort inmitten der Stadt. Wer Ruhe sucht, ist in diesen sakralen Räumlichkeiten genau richtig.", "category": "religious", "coords": [18.56569, 54.440446]}, {"name": "Kościół pw. Najświętszego Serca Pana Jezusa", "text": "Abgerundet wird das religiöse Leben in Sopot durch die Kościół pw. Najświętszego Serca Pana Jezusa. Die Kirche ist ein fester Bestandteil der polnischen Gemeinde. Reisende können hier an der andächtigen Atmosphäre teilhaben.", "category": "religious", "coords": [18.544979, 54.451497]}], "hu": [{"name": "Plaża strzeżona \"Jelitkowo\"", "text": "Jelitkowo őrzött strand Sopotban.", "category": "recreational", "coords": [18.59785, 54.426354]}, {"name": "Plaża strzeżona \"Klipper Jelitkowo\"", "text": "Klipper Jelitkowo őrzött strand Sopotban.", "category": "recreational", "coords": [18.602277, 54.423966]}, {"name": "Wejście 5", "text": "5. strandbejárat Sopotban.", "category": "recreational", "coords": [18.561487, 54.458536]}, {"name": "Plaża dla psów", "text": "Kutyastrand Sopotban.", "category": "recreational", "coords": [18.562522, 54.466979]}, {"name": "Łęg nad Swelinią", "text": "Természetvédelmi terület a Swelinia-patak mentén, Sopotban.", "category": "natural", "coords": [18.533881, 54.462308]}, {"name": "Rezerwat Przyrody Zajęcze Wzgórze", "text": "Zajęcze Wzgórze természetvédelmi terület Sopotban.", "category": "natural", "coords": [18.551575, 54.434351]}, {"name": "Gdański Ogród Zoologiczny", "text": "Népszerű állatkert Sopot/Gdańsk közelében.", "category": "family", "coords": [18.533058, 54.414454]}, {"name": "Skansen Archeologiczny Grodzisko - Oddział Muzeum Archeologicznego w Gdańsku", "text": "Régészeti skanzen (Grodzisko) Sopotban.", "category": "museum", "coords": [18.560646, 54.451972]}, {"name": "Teatr Atelier im. Agnieszki Osieckiej", "text": "Színház Sopotban.", "category": "cultural", "coords": [18.568277, 54.448549]}, {"name": "Muszla koncertowa", "text": "Koncertkagyló Sopotban.", "category": "cultural", "coords": [18.569171, 54.446202]}, {"name": "Teatr Wybrzeże - Scena Kameralna im. Joanny Bogackiej", "text": "Kamaraszínházi színpad Sopotban.", "category": "cultural", "coords": [18.565604, 54.44334]}, {"name": "Grodzisko", "text": "Régészeti lelőhely Sopotban.", "category": "historical", "coords": [18.559392, 54.452047]}, {"name": "Teatr Boto", "text": "Színház Sopotban.", "category": "cultural", "coords": [18.567806, 54.44395]}, {"name": "Kolejowy Odjazd", "text": "Vidámpark Sopotban.", "category": "family", "coords": [18.56638, 54.432929]}, {"name": "Adventure Park", "text": "Kalandpark Sopotban.", "category": "family", "coords": [18.551453, 54.466174]}, {"name": "Aquapark Sopot", "text": "Vízipark Sopotban.", "category": "family", "coords": [18.557677, 54.459903]}, {"name": "Jar Swelini", "text": "A Jar Swelini természetvédelmi terület egy zöld oázis a lengyelországi Sopot városában. Ez a festői környezet pihentető sétákra invitálja a természetkedvelőket. A látogatók a városi nyüzsgéstől távol élvezhetik az érintetlen természetet.", "category": "natural", "coords": [18.557535, 54.464062]}, {"name": "Konwaliowe Wzgórze", "text": "A Konwaliowe Wzgórze egy idillikus természetvédelmi terület Sopotban. A természet szerelmesei felfedezhetik e lengyel zöldövezet egyedülálló tájképi szépségét. Egy ide tett kirándulás nyugalmat és kikapcsolódást ígér a szabadban.", "category": "natural", "coords": [18.54279, 54.441195]}, {"name": "Kokoryczowe Zbocze", "text": "A Kokoryczowe Zbocze egy kedvelt természetvédelmi terület Sopotban, amely gazdag természeti környezettel büszkélkedhet. A lengyelországi rezervátum ideális helyszín természetjáráshoz és rövid túrákhoz. A kikapcsolódásra vágyók biztosan megtalálják a számításukat ezen a csendes helyen.", "category": "natural", "coords": [18.562302, 54.445183]}, {"name": "Cisowe Zbocze", "text": "A Cisowe Zbocze egy védett természetvédelmi terület, amely Sopot zöld tüdejének része. Ebben a lengyelországi természeti környezetben a túrázók friss levegőt szívhatnak. Ezt a különleges kirándulóhelyet az érintetlen atmoszféra teszi igazán vonzóvá.", "category": "natural", "coords": [18.559546, 54.457515]}, {"name": "Polska Filharmonia Kameralna Sopot", "text": "Kamarazenekari filharmónia Sopotban.", "category": "cultural", "coords": [18.5462, 54.445167]}, {"name": "Muzeum Sopotu", "text": "Sopot történetét bemutató múzeum.", "category": "museum", "coords": [18.576072, 54.439938]}, {"name": "Wzgórze Augusty", "text": "Az Augustusberg egy csodálatos kilátópont a lengyelországi Sopot városában. Innen lenyűgöző kilátás nyílik a környező tájra. Tökéletes helyszín arra, hogy a látogatók nyugodtan megcsodálják a régió panorámáját.", "category": "natural", "coords": [18.551487, 54.452299]}, {"name": "Wzgórze Królowej Marysieńki", "text": "Hegy Sopotban.", "category": "natural", "coords": [18.545584, 54.436866]}, {"name": "Lisie Wzgórze", "text": "A város fölé magasodó Kaiserstuhl Sopotban gyönyörű kilátást biztosít a látogatóknak. Ez a lengyelországi természetes kilátópont széles távlatokkal jutalmazza a hegymászókat. A turisták nagyra értékelik a helyszínről eléjük táruló hatalmas térséget.", "category": "natural", "coords": [18.551342, 54.448063]}, {"name": "Molo w Sopocie", "text": "Sopot nevezetessége, Európa egyik leghosszabb fa mólója.", "category": "landmark", "coords": [18.575261, 54.447384]}, {"name": "Skwer im. księdza Otto Bowiena", "text": "Park Sopotban.", "category": "park", "coords": [18.570933, 54.444291]}, {"name": "Krzywy Domek", "text": "Sopot jellegzetes épülete, amely görbe építészetéről ismert.", "category": "landmark", "coords": [18.566611, 54.444338]}, {"name": "Strażnica", "text": "A Schützenhohe egy ismert kilátópont, ahonnan fentről csodálható meg Sopot. Aki felkeresi ezt a lengyelországi természeti helyszínt, új perspektívából láthatja a környéket. A platform hosszabb időzésre és fényképezésre is kiválóan alkalmas.", "category": "natural", "coords": [18.549229, 54.444786]}, {"name": "Glinna Góra", "text": "Grandiózus panoráma várja a vendégeket a sopoti Großer Gaisberg magaslatán. Ez a természetes kilátópont a lengyel város egyik különösen szép úti célja. A látogatóknak érdemes előkészíteniük a fényképezőgépüket a messzire nyúló kilátás megörökítéséhez.", "category": "natural", "coords": [18.546298, 54.434787]}, {"name": "Łysa Góra", "text": "Az Eliesenhöhe tökéletes rálátást biztosít a Sopot körüli tájra. Festői lengyelországi kilátópontként vonzza a pihenni vágyókat. Egy itteni tartózkodás a természet élvezetét ötvözi a lenyűgöző vizuális térélménnyel.", "category": "natural", "coords": [18.540626, 54.443144]}, {"name": "Oddział Reumatologiczny", "text": "Az Oddział Reumatologiczny épülete egy figyelemre méltó látványosság Sopotban. Az érdeklődők ezen a helyen felfedezhetik Lengyelország helyi infrastruktúrájának egy szeletét. Ez az épület a város változatos nevezetességeinek sorát gyarapítja.", "category": "landmark", "coords": [18.569635, 54.444758]}, {"name": "Przystań rybacka", "text": "Halászkikötő Sopotban.", "category": "landmark", "coords": [18.579611, 54.437448]}, {"name": "Dom Klausa Kinskiego", "text": "A Geburtshaus Klaus Kinski egy különleges látványosság a lengyelországi Sopotban. Történelmi nevezetességként híres személyiségek életére és munkásságára emlékeztet. Egy megálló ezen a helyen közelebb hozza a látogatókhoz a város kulturális múltját.", "category": "landmark", "coords": [18.563354, 54.441614]}, {"name": "Plac Rybaków", "text": "A Plac Rybaków egy központi találkozóhely és kedvelt látványosság Sopotban. Ez a lengyelországi tér a városi környezet nyüzsgő hangulatát árasztja. A téren tett séta elengedhetetlen része egy helyi városnézésnek.", "category": "landmark", "coords": [18.578515, 54.435743]}, {"name": "Łazienki Południowe", "text": "A Łazienki Południowe igazi építészeti fénypontként jelenik meg Sopotban. Ez a látványosság harmonikusan illeszkedik a lengyel városképbe. Aki érdeklődik a jellegzetes helyi nevezetességek iránt, semmiképp se hagyja ki ezt a helyet.", "category": "landmark", "coords": [18.573374, 54.443287]}, {"name": "Muzeum figur woskowych", "text": "Viaszmúzeum Sopotban.", "category": "museum", "coords": [18.567908, 54.445433]}, {"name": "Goyki 3 Art Inkubator", "text": "Művészeti központ Sopotban.", "category": "cultural", "coords": [18.559898, 54.448775]}, {"name": "Monciak", "text": "Népszerű bevásárlóutca Sopotban.", "category": "landmark", "coords": [18.564394, 54.443406]}, {"name": "Polanka Esperantystów", "text": "Az Esperantoplatz egy hívogató látványosság Sopot belvárosában. Ezen a lengyel nevezetességen jól érzékelhető a hely urbánus dinamikája. A látogatók gyakran használják ezt a teret további városi felfedezéseik kiindulópontjaként.", "category": "landmark", "coords": [18.543797, 54.430381]}, {"name": "Altana burmistrza Johannesa Kollatha", "text": "Az Altana burmistrza Johannesa Kollatha egy bájos látványosság, amely Sopot városát gazdagítja. Ez a lengyelországi pavilon a pihenés és a hagyomány jellegzetes szimbóluma. Egy városi séta során a helyszín egy rövid, kellemes megpihenésre csábít.", "category": "landmark", "coords": [18.56065, 54.463656]}, {"name": "Kościół Chrześcijan Baptystów w Sopocie", "text": "Baptista templom Sopotban.", "category": "religious", "coords": [18.568649, 54.441716]}, {"name": "Opera Leśna", "text": "Sopot jól ismert helyszíne, amely akusztikájáról híres.", "category": "landmark", "coords": [18.544414, 54.444657]}, {"name": "Kościół pw. Matki Bożej Fatimskiej", "text": "A Kościół pw. Matki Bożej Fatimskiej egy jelentős templom Sopot városában. Ez a vallási épület fontos szerepet játszik a lengyel közösségi életben. A betérőket egy békés, elmélyülésre alkalmas tér fogadja.", "category": "religious", "coords": [18.574621, 54.41991]}, {"name": "Kościół pw. Świętego Michała Archanioła", "text": "Sopotban a Kościół pw. Świętego Michała Archanioła nyitja meg kapuit a hívők és a vendégek előtt. Lengyel templomként mély spirituális benyomást tesz a látogatókra. Építészete és csendes elhelyezkedése a nyugalom szigetévé varázsolja.", "category": "religious", "coords": [18.567492, 54.435495]}, {"name": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza", "text": "A Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza egy vallási központ Sopotban. Ez a lengyelországi templom igazi menedéket nyújt a város forgatagában. Aki békességre vágyik, a legjobb helyen jár ezekben a szakrális terekben.", "category": "religious", "coords": [18.56569, 54.440446]}, {"name": "Kościół pw. Najświętszego Serca Pana Jezusa", "text": "Sopot vallási életét a Kościół pw. Najświętszego Serca Pana Jezusa teszi teljessé. A templom a lengyel közösség egyik meghatározó alapköve. Az utazók itt megtapasztalhatják a hely áhítatos és meghitt atmoszféráját.", "category": "religious", "coords": [18.544979, 54.451497]}], "ro": [{"name": "Plaża strzeżona \"Jelitkowo\"", "text": "Plajă supravegheată Jelitkowo în Sopot.", "category": "recreational", "coords": [18.59785, 54.426354]}, {"name": "Plaża strzeżona \"Klipper Jelitkowo\"", "text": "Plajă supravegheată Klipper Jelitkowo în Sopot.", "category": "recreational", "coords": [18.602277, 54.423966]}, {"name": "Wejście 5", "text": "Intrarea pe plajă nr. 5 în Sopot.", "category": "recreational", "coords": [18.561487, 54.458536]}, {"name": "Plaża dla psów", "text": "Plajă pentru câini în Sopot.", "category": "recreational", "coords": [18.562522, 54.466979]}, {"name": "Łęg nad Swelinią", "text": "Rezervație naturală de-a lungul pârâului Swelinia în Sopot.", "category": "natural", "coords": [18.533881, 54.462308]}, {"name": "Rezerwat Przyrody Zajęcze Wzgórze", "text": "Rezervația naturală Zajęcze Wzgórze în Sopot.", "category": "natural", "coords": [18.551575, 54.434351]}, {"name": "Gdański Ogród Zoologiczny", "text": "Grădină zoologică populară în apropiere de Sopot/Gdańsk.", "category": "family", "coords": [18.533058, 54.414454]}, {"name": "Skansen Archeologiczny Grodzisko - Oddział Muzeum Archeologicznego w Gdańsku", "text": "Muzeu arheologic în aer liber (Grodzisko) în Sopot.", "category": "museum", "coords": [18.560646, 54.451972]}, {"name": "Teatr Atelier im. Agnieszki Osieckiej", "text": "Teatru în Sopot.", "category": "cultural", "coords": [18.568277, 54.448549]}, {"name": "Muszla koncertowa", "text": "Concert shell în Sopot.", "category": "cultural", "coords": [18.569171, 54.446202]}, {"name": "Teatr Wybrzeże - Scena Kameralna im. Joanny Bogackiej", "text": "Scenă de teatru de cameră în Sopot.", "category": "cultural", "coords": [18.565604, 54.44334]}, {"name": "Grodzisko", "text": "Situl arheologic în Sopot.", "category": "historical", "coords": [18.559392, 54.452047]}, {"name": "Teatr Boto", "text": "Teatru în Sopot.", "category": "cultural", "coords": [18.567806, 54.44395]}, {"name": "Kolejowy Odjazd", "text": "Parc de distracții în Sopot.", "category": "family", "coords": [18.56638, 54.432929]}, {"name": "Adventure Park", "text": "Parc de aventură în Sopot.", "category": "family", "coords": [18.551453, 54.466174]}, {"name": "Aquapark Sopot", "text": "Parc acvatic în Sopot.", "category": "family", "coords": [18.557677, 54.459903]}, {"name": "Jar Swelini", "text": "Rezervația naturală Jar Swelini oferă o evadare în mijlocul naturii în orașul polonez Sopot. Acest mediu pitoresc invită la plimbări relaxante pe parcursul zilei. Vizitatorii se pot bucura aici de frumusețea naturală nealterată, departe de agitație.", "category": "natural", "coords": [18.557535, 54.464062]}, {"name": "Konwaliowe Wzgórze", "text": "Konwaliowe Wzgórze este o rezervație naturală idilică situată în orașul Sopot. Iubitorii de natură pot descoperi frumusețea peisagistică a acestei oaze din Polonia. O excursie în această zonă promite liniște și o relaxare profundă în aer liber.", "category": "natural", "coords": [18.54279, 54.441195]}, {"name": "Kokoryczowe Zbocze", "text": "Datorită mediului său natural bogat, Kokoryczowe Zbocze este o rezervație apreciată din Sopot. Acest areal din Polonia este ideal pentru observarea naturii și drumeții scurte. Cei aflați în căutarea relaxării vor aprecia liniștea acestui spațiu verde.", "category": "natural", "coords": [18.562302, 54.445183]}, {"name": "Cisowe Zbocze", "text": "Zona Cisowe Zbocze este o rezervație naturală protejată ce funcționează ca un plămân verde pentru Sopot. Drumeții se pot bucura de aer curat în acest peisaj natural din Polonia. Atmosfera nealterată definește cu adevărat această destinație de vizitat.", "category": "natural", "coords": [18.559546, 54.457515]}, {"name": "Polska Filharmonia Kameralna Sopot", "text": "Filarmonică de cameră în Sopot.", "category": "cultural", "coords": [18.5462, 54.445167]}, {"name": "Muzeum Sopotu", "text": "Muzeu dedicat istoriei orașului Sopot.", "category": "museum", "coords": [18.576072, 54.439938]}, {"name": "Wzgórze Augusty", "text": "Augustusberg funcționează ca un punct de belvedere minunat în orașul polonez Sopot. De aici, vizitatorilor li se deschide o priveliște impresionantă asupra peisajului înconjurător. Este locul perfect pentru a admira în liniște panorama regiunii.", "category": "natural", "coords": [18.551487, 54.452299]}, {"name": "Wzgórze Królowej Marysieńki", "text": "Vârf muntos în Sopot.", "category": "natural", "coords": [18.545584, 54.436866]}, {"name": "Lisie Wzgórze", "text": "Înălțându-se deasupra orașului, Kaiserstuhl din Sopot oferă o perspectivă minunată. Acest punct de observație natural din Polonia răsplătește efortul urcării cu priveliști ample. Turiștii apreciază vastitatea peisajului ce poate fi admirat din acest loc.", "category": "natural", "coords": [18.551342, 54.448063]}, {"name": "Molo w Sopocie", "text": "Reper al orașului Sopot, unul dintre cele mai lungi diguri de lemn din Europa.", "category": "landmark", "coords": [18.575261, 54.447384]}, {"name": "Skwer im. księdza Otto Bowiena", "text": "Parc în Sopot.", "category": "park", "coords": [18.570933, 54.444291]}, {"name": "Krzywy Domek", "text": "Clădire distinctivă în Sopot, cunoscută pentru arhitectura sa curbată.", "category": "landmark", "coords": [18.566611, 54.444338]}, {"name": "Strażnica", "text": "Schützenhohe este un punct de belvedere cunoscut care prezintă orașul Sopot de sus. Cei care vizitează acest loc natural din Polonia pot privi împrejurimile dintr-o nouă perspectivă. Platforma invită oaspeții să zăbovească și să facă fotografii.", "category": "natural", "coords": [18.549229, 54.444786]}, {"name": "Glinna Góra", "text": "O panoramă grandioasă îi așteaptă pe oaspeți la Großer Gaisberg din Sopot. Acest punct de observație natural se numără printre cele mai frumoase destinații din orașul polonez. Vizitatorii ar trebui să aibă aparatul foto pregătit pentru a surprinde vederea extinsă.", "category": "natural", "coords": [18.546298, 54.434787]}, {"name": "Łysa Góra", "text": "De pe Eliesenhöhe, peisajul din jurul orașului Sopot poate fi admirat excelent. Ca punct de belvedere pitoresc în Polonia, acesta atrage numeroși căutători de relaxare. O ședere aici combină bucuria naturii cu o priveliște vizuală deosebită.", "category": "natural", "coords": [18.540626, 54.443144]}, {"name": "Oddział Reumatologiczny", "text": "Clădirea Oddział Reumatologiczny este o atracție remarcabilă în Sopot. Cei interesați pot descoperi aici o parte din infrastructura locală a Poloniei. Aceasta se înscrie în rândul monumentelor și reperelor diverse ale orașului.", "category": "landmark", "coords": [18.569635, 54.444758]}, {"name": "Przystań rybacka", "text": "Port pescăresc în Sopot.", "category": "landmark", "coords": [18.579611, 54.437448]}, {"name": "Dom Klausa Kinskiego", "text": "Casa natală Geburtshaus Klaus Kinski reprezintă o atracție deosebită în orașul polonez Sopot. Ca reper istoric, amintește de viața și activitatea unor personalități cunoscute. O oprire în acest loc aduce vizitatorii mai aproape de istoria culturală a orașului.", "category": "landmark", "coords": [18.563354, 54.441614]}, {"name": "Plac Rybaków", "text": "Plac Rybaków este un punct central de întâlnire și o atracție populară în Sopot. Această piață din Polonia transmite farmecul vibrant al mediului urban. O plimbare prin acest loc emblematic este obligatorie pentru orice vizitator.", "category": "landmark", "coords": [18.578515, 54.435743]}, {"name": "Łazienki Południowe", "text": "Łazienki Południowe se prezintă ca o adevărată atracție arhitecturală în Sopot. Această zonă se integrează armonios în peisajul urban polonez. Cei pasionați de puncte de reper distinctive nu ar trebui să rateze acest obiectiv.", "category": "landmark", "coords": [18.573374, 54.443287]}, {"name": "Muzeum figur woskowych", "text": "Muzeu al figurilor de ceară în Sopot.", "category": "museum", "coords": [18.567908, 54.445433]}, {"name": "Goyki 3 Art Inkubator", "text": "Centru de artă în Sopot.", "category": "cultural", "coords": [18.559898, 54.448775]}, {"name": "Monciak", "text": "Stradă comercială populară în Sopot.", "category": "landmark", "coords": [18.564394, 54.443406]}, {"name": "Polanka Esperantystów", "text": "Esperantoplatz este o atracție primitoare situată chiar în mijlocul orașului Sopot. La acest reper din Polonia se poate simți cu ușurință dinamica urbană a locului. Vizitatorii folosesc adesea piața ca punct de plecare pentru explorări suplimentare.", "category": "landmark", "coords": [18.543797, 54.430381]}, {"name": "Altana burmistrza Johannesa Kollatha", "text": "Altana burmistrza Johannesa Kollatha îmbogățește orașul Sopot fiind o atracție fermecătoare. Acest pavilion din Polonia este un simbol marcant pentru relaxare și tradiție. În timpul unui tur al orașului, acesta invită la o scurtă și plăcută pauză.", "category": "landmark", "coords": [18.56065, 54.463656]}, {"name": "Kościół Chrześcijan Baptystów w Sopocie", "text": "Biserică baptistă în Sopot.", "category": "religious", "coords": [18.568649, 54.441716]}, {"name": "Opera Leśna", "text": "Locație binecunoscută în Sopot, celebră pentru acustica sa.", "category": "landmark", "coords": [18.544414, 54.444657]}, {"name": "Kościół pw. Matki Bożej Fatimskiej", "text": "Kościół pw. Matki Bożej Fatimskiej este o biserică importantă din orașul Sopot. Pentru viața comunității poloneze, această clădire religioasă joacă un rol esențial. Vizitatorii găsesc aici un spațiu liniștit, perfect pentru reculegere.", "category": "religious", "coords": [18.574621, 54.41991]}, {"name": "Kościół pw. Świętego Michała Archanioła", "text": "În Sopot, Kościół pw. Świętego Michała Archanioła își deschide porțile pentru credincioși și oaspeți. Fiind o biserică din Polonia, ea oferă o impresie spirituală profundă. Arhitectura și locația sa liniștită o transformă într-un loc de pace.", "category": "religious", "coords": [18.567492, 54.435495]}, {"name": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza", "text": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza este un centru religios situat în Sopot. Această biserică din Polonia oferă un loc de retragere chiar în mijlocul orașului. Cei care caută liniștea se află exact unde trebuie în aceste încăperi sacre.", "category": "religious", "coords": [18.56569, 54.440446]}, {"name": "Kościół pw. Najświętszego Serca Pana Jezusa", "text": "Viața religioasă din Sopot este completată de prezența bisericii Kościół pw. Najświętszego Serca Pana Jezusa. Lăcașul de cult este o parte integrantă a comunității poloneze de aici. Călătorii pot lua parte la atmosfera plină de devoțiune a locului.", "category": "religious", "coords": [18.544979, 54.451497]}], "en": [{"name": "Plaża strzeżona \"Jelitkowo\"", "text": "Lifeguarded beach Jelitkowo in Sopot.", "category": "recreational", "coords": [18.59785, 54.426354]}, {"name": "Plaża strzeżona \"Klipper Jelitkowo\"", "text": "Lifeguarded beach Klipper Jelitkowo in Sopot.", "category": "recreational", "coords": [18.602277, 54.423966]}, {"name": "Wejście 5", "text": "Beach entrance No. 5 in Sopot.", "category": "recreational", "coords": [18.561487, 54.458536]}, {"name": "Plaża dla psów", "text": "Dog beach in Sopot.", "category": "recreational", "coords": [18.562522, 54.466979]}, {"name": "Swelinia's Riparian", "text": "Nature reserve along the Swelinia stream in Sopot.", "category": "natural", "coords": [18.533881, 54.462308]}, {"name": "Rezerwat Przyrody Zajęcze Wzgórze", "text": "Zajęcze Wzgórze nature reserve in Sopot.", "category": "natural", "coords": [18.551575, 54.434351]}, {"name": "Gdański Ogród Zoologiczny", "text": "Popular zoo near Sopot/Gdańsk.", "category": "family", "coords": [18.533058, 54.414454]}, {"name": "Skansen Archeologiczny Grodzisko - Oddział Muzeum Archeologicznego w Gdańsku", "text": "Archaeological open-air museum (Grodzisko) in Sopot.", "category": "museum", "coords": [18.560646, 54.451972]}, {"name": "Teatr Atelier im. Agnieszki Osieckiej", "text": "Theatre in Sopot.", "category": "cultural", "coords": [18.568277, 54.448549]}, {"name": "Muszla koncertowa", "text": "Concert shell in Sopot.", "category": "cultural", "coords": [18.569171, 54.446202]}, {"name": "Teatr Wybrzeże - Scena Kameralna im. Joanny Bogackiej", "text": "Chamber theatre stage in Sopot.", "category": "cultural", "coords": [18.565604, 54.44334]}, {"name": "Grodzisko", "text": "Archaeological site in Sopot.", "category": "historical", "coords": [18.559392, 54.452047]}, {"name": "Boto Theater", "text": "Theatre in Sopot.", "category": "cultural", "coords": [18.567806, 54.44395]}, {"name": "Kolejowy Odjazd", "text": "Theme park in Sopot.", "category": "family", "coords": [18.56638, 54.432929]}, {"name": "Adventure Park", "text": "Adventure park in Sopot.", "category": "family", "coords": [18.551453, 54.466174]}, {"name": "Aquapark Sopot", "text": "Water park in Sopot.", "category": "family", "coords": [18.557677, 54.459903]}, {"name": "Jar Swelini", "text": "The Jar Swelini nature reserve provides a natural retreat within the Polish city of Sopot. This picturesque environment invites visitors to take relaxing walks outdoors. Guests can enjoy the unspoiled nature away from the bustling city life here.", "category": "natural", "coords": [18.557535, 54.464062]}, {"name": "Konwaliowe Wzgórze", "text": "Konwaliowe Wzgórze is an idyllic nature reserve located in the city of Sopot. Nature lovers can discover the scenic beauty of this Polish green oasis. An excursion to this site promises tranquility and relaxation in the great outdoors.", "category": "natural", "coords": [18.54279, 54.441195]}, {"name": "Kokoryczowe Zbocze", "text": "Featuring a diverse natural environment, Kokoryczowe Zbocze is a popular nature reserve in Sopot. This area in Poland is ideal for nature observations and short hikes. Those seeking a peaceful retreat will find exactly what they need in this quiet spot.", "category": "natural", "coords": [18.562302, 54.445183]}, {"name": "Cisowe Zbocze", "text": "The area of Cisowe Zbocze is a protected nature reserve acting as a green lung for Sopot. Hikers can breathe in fresh air while exploring this natural Polish landscape. The unspoiled atmosphere is the defining characteristic of this special destination.", "category": "natural", "coords": [18.559546, 54.457515]}, {"name": "Polska Filharmonia Kameralna Sopot", "text": "Chamber philharmonic in Sopot.", "category": "cultural", "coords": [18.5462, 54.445167]}, {"name": "Muzeum Sopotu", "text": "Museum dedicated to the history of Sopot.", "category": "museum", "coords": [18.576072, 54.439938]}, {"name": "Wzgórze Augusty", "text": "Augustusberg functions as a wonderful viewpoint located in the Polish city of Sopot. From here, visitors are treated to an impressive view across the surrounding landscape. It is the perfect spot to quietly take in the regional panorama.", "category": "natural", "coords": [18.551487, 54.452299]}, {"name": "Wzgórze Królowej Marysieńki", "text": "Peak in Sopot.", "category": "natural", "coords": [18.545584, 54.436866]}, {"name": "Lisie Wzgórze", "text": "High above the city, Kaiserstuhl provides a wonderful view in Sopot. This natural viewpoint in Poland rewards those who make the climb with expansive vistas. Tourists appreciate the vast landscapes that can be seen from this elevated location.", "category": "natural", "coords": [18.551342, 54.448063]}, {"name": "Sopot Pier", "text": "Landmark of Sopot, one of the longest wooden piers in Europe.", "category": "landmark", "coords": [18.575261, 54.447384]}, {"name": "Skwer im. księdza Otto Bowiena", "text": "Park in Sopot.", "category": "park", "coords": [18.570933, 54.444291]}, {"name": "Krzywy Domek", "text": "Distinctive building in Sopot, known for its curved architecture.", "category": "landmark", "coords": [18.566611, 54.444338]}, {"name": "Strażnica", "text": "Schützenhohe is a well-known viewpoint showcasing Sopot from above. Anyone visiting this natural spot in Poland can view the surroundings from a new perspective. The platform invites guests to linger and capture scenic photographs.", "category": "natural", "coords": [18.549229, 54.444786]}, {"name": "Glinna Góra", "text": "A grandiose panorama awaits guests at Großer Gaisberg in Sopot. This natural viewpoint is among the most beautiful destinations within the Polish city. Visitors should have their cameras ready to capture the far-reaching sights.", "category": "natural", "coords": [18.546298, 54.434787]}, {"name": "Łysa Góra", "text": "From Eliesenhöhe, the landscape surrounding Sopot can be excellently surveyed. As a picturesque viewpoint in Poland, it attracts those looking for relaxation. Spending time here combines the enjoyment of nature with a broad visual expanse.", "category": "natural", "coords": [18.540626, 54.443144]}, {"name": "Oddział Reumatologiczny", "text": "The Oddział Reumatologiczny building stands out as a noteworthy attraction in Sopot. Interested visitors can discover a piece of Poland's local infrastructure at this location. It is part of the diverse range of landmarks found within the city.", "category": "landmark", "coords": [18.569635, 54.444758]}, {"name": "Przystań rybacka", "text": "Fishing harbor in Sopot.", "category": "landmark", "coords": [18.579611, 54.437448]}, {"name": "Dom Klausa Kinskiego", "text": "The Geburtshaus Klaus Kinski represents a special attraction in the Polish city of Sopot. As a historic landmark, it commemorates the lives of well-known figures. Stopping at this site brings visitors closer to the cultural history of the city.", "category": "landmark", "coords": [18.563354, 54.441614]}, {"name": "Plac Rybaków", "text": "Plac Rybaków is a central meeting point and a popular attraction in Sopot. This square in Poland conveys the vibrant flair of the surrounding urban environment. Strolling across this landmark is a must for any visitor to the city.", "category": "landmark", "coords": [18.578515, 54.435743]}, {"name": "Łazienki Południowe", "text": "The Łazienki Południowe presents itself as an architectural highlight in Sopot. This attraction blends harmoniously into the Polish cityscape. Anyone interested in distinctive local landmarks should not miss visiting this location.", "category": "landmark", "coords": [18.573374, 54.443287]}, {"name": "Muzeum figur woskowych", "text": "Wax museum in Sopot.", "category": "museum", "coords": [18.567908, 54.445433]}, {"name": "Goyki 3 Art Inkubator", "text": "Arts center in Sopot.", "category": "cultural", "coords": [18.559898, 54.448775]}, {"name": "Monciak Street", "text": "Popular shopping street in Sopot.", "category": "landmark", "coords": [18.564394, 54.443406]}, {"name": "Polanka Esperantystów", "text": "Esperantoplatz is a welcoming attraction right in the middle of the city of Sopot. One can easily feel the urban dynamics of the location at this Polish landmark. Visitors often use the square as a starting point for further city explorations.", "category": "landmark", "coords": [18.543797, 54.430381]}, {"name": "Altana burmistrza Johannesa Kollatha", "text": "The Altana burmistrza Johannesa Kollatha enriches the city of Sopot as a charming attraction. This pavilion in Poland stands as a striking landmark of relaxation and tradition. During a walking tour of the city, it invites visitors to take a brief rest.", "category": "landmark", "coords": [18.56065, 54.463656]}, {"name": "Kościół Chrześcijan Baptystów w Sopocie", "text": "Baptist church in Sopot.", "category": "religious", "coords": [18.568649, 54.441716]}, {"name": "Forest Opera", "text": "Well-known venue in Sopot, famous for its acoustics.", "category": "landmark", "coords": [18.544414, 54.444657]}, {"name": "Kościół pw. Matki Bożej Fatimskiej", "text": "The Kościół pw. Matki Bożej Fatimskiej is an important church in the city of Sopot. For the Polish community, this religious building plays an essential role. Visitors will find a peaceful space suitable for quiet contemplation here.", "category": "religious", "coords": [18.574621, 54.41991]}, {"name": "Kościół pw. Świętego Michała Archanioła", "text": "In Sopot, the Kościół pw. Świętego Michała Archanioła opens its doors to both the faithful and guests. As a Polish church, it imparts a deep spiritual impression. Its architecture and quiet location make it a true sanctuary of silence.", "category": "religious", "coords": [18.567492, 54.435495]}, {"name": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza", "text": "The Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza is a religious center located in Sopot. This church in Poland offers a peaceful retreat right in the midst of the city. Those seeking tranquility will feel perfectly at home in these sacred spaces.", "category": "religious", "coords": [18.56569, 54.440446]}, {"name": "Kościół pw. Najświętszego Serca Pana Jezusa", "text": "Religious life in Sopot is completed by the presence of Kościół pw. Najświętszego Serca Pana Jezusa. The church stands as an integral part of the Polish community there. Travelers can come here to share in the devout and intimate atmosphere.", "category": "religious", "coords": [18.544979, 54.451497]}]},
+    id: "poland-sopot-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża strzeżona \"Jelitkowo\"",
+                  "text": "Überwachter Strand Jelitkowo in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.59785,
+                        54.426354
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Klipper Jelitkowo\"",
+                  "text": "Überwachter Strand Klipper Jelitkowo in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.602277,
+                        54.423966
+                  ]
+            },
+            {
+                  "name": "Wejście 5",
+                  "text": "Strandzugang Nr. 5 in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.561487,
+                        54.458536
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Hundestrand in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.562522,
+                        54.466979
+                  ]
+            },
+            {
+                  "name": "Łęg nad Swelinią",
+                  "text": "Naturschutzgebiet entlang des Swelinia-Baches in Sopot.",
+                  "category": "natural",
+                  "coords": [
+                        18.533881,
+                        54.462308
+                  ]
+            },
+            {
+                  "name": "Rezerwat Przyrody Zajęcze Wzgórze",
+                  "text": "Naturschutzgebiet Hasenberg (Zajęcze Wzgórze) in Sopot.",
+                  "category": "natural",
+                  "coords": [
+                        18.551575,
+                        54.434351
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten Danzig",
+                  "text": "Beliebter Zoo in der Nähe von Sopot/Gdańsk.",
+                  "category": "family",
+                  "coords": [
+                        18.533058,
+                        54.414454
+                  ]
+            },
+            {
+                  "name": "Skansen Archeologiczny Grodzisko - Oddział Muzeum Archeologicznego w Gdańsku",
+                  "text": "Archäologisches Freilichtmuseum (Grodzisko) in Sopot.",
+                  "category": "museum",
+                  "coords": [
+                        18.560646,
+                        54.451972
+                  ]
+            },
+            {
+                  "name": "Teatr Atelier im. Agnieszki Osieckiej",
+                  "text": "Theater in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.568277,
+                        54.448549
+                  ]
+            },
+            {
+                  "name": "Muszla koncertowa",
+                  "text": "Konzertmuschel in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.569171,
+                        54.446202
+                  ]
+            },
+            {
+                  "name": "Teatr Wybrzeże - Scena Kameralna im. Joanny Bogackiej",
+                  "text": "Kammertheaterbühne in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.565604,
+                        54.44334
+                  ]
+            },
+            {
+                  "name": "Burgwall",
+                  "text": "Archäologische Fundstätte in Sopot.",
+                  "category": "historical",
+                  "coords": [
+                        18.559392,
+                        54.452047
+                  ]
+            },
+            {
+                  "name": "Teatr Boto",
+                  "text": "Theater in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.567806,
+                        54.44395
+                  ]
+            },
+            {
+                  "name": "Kolejowy Odjazd",
+                  "text": "Freizeitpark in Sopot.",
+                  "category": "family",
+                  "coords": [
+                        18.56638,
+                        54.432929
+                  ]
+            },
+            {
+                  "name": "Adventure Park",
+                  "text": "Abenteuerpark in Sopot.",
+                  "category": "family",
+                  "coords": [
+                        18.551453,
+                        54.466174
+                  ]
+            },
+            {
+                  "name": "Aquapark Sopot",
+                  "text": "Wasserpark in Sopot.",
+                  "category": "family",
+                  "coords": [
+                        18.557677,
+                        54.459903
+                  ]
+            },
+            {
+                  "name": "Jar Swelini",
+                  "text": "Das Naturreservat Jar Swelini bietet eine naturnahe Auszeit in der polnischen Stadt Sopot. Diese malerische Umgebung lädt zu erholsamen Spaziergängen ein. Besucher können hier die unberührte Natur abseits des Trubels genießen.",
+                  "category": "natural",
+                  "coords": [
+                        18.557535,
+                        54.464062
+                  ]
+            },
+            {
+                  "name": "Konwaliowe Wzgórze",
+                  "text": "Konwaliowe Wzgórze ist ein idyllisches Naturreservat, das sich in Sopot befindet. Naturfreunde können die landschaftliche Schönheit dieser polnischen Oase entdecken. Ein Ausflug hierher verspricht Ruhe und Erholung im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        18.54279,
+                        54.441195
+                  ]
+            },
+            {
+                  "name": "Kokoryczowe Zbocze",
+                  "text": "Mit seiner artenreichen Umgebung ist das Kokoryczowe Zbocze ein beliebtes Naturreservat in Sopot. Das Areal in Polen eignet sich ideal für Naturbeobachtungen und kleine Wanderungen. Wer Erholung sucht, wird an diesem ruhigen Fleckchen fündig.",
+                  "category": "natural",
+                  "coords": [
+                        18.562302,
+                        54.445183
+                  ]
+            },
+            {
+                  "name": "Cisowe Zbocze",
+                  "text": "Das Gebiet Cisowe Zbocze ist als geschütztes Naturreservat Teil der grünen Lunge von Sopot. In dieser polnischen Naturlandschaft können Wanderer frische Luft tanken. Die unberührte Atmosphäre zeichnet dieses besondere Ausflugsziel aus.",
+                  "category": "natural",
+                  "coords": [
+                        18.559546,
+                        54.457515
+                  ]
+            },
+            {
+                  "name": "Polska Filharmonia Kameralna Sopot",
+                  "text": "Kammermusik-Philharmonie in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.5462,
+                        54.445167
+                  ]
+            },
+            {
+                  "name": "Muzeum Sopotu",
+                  "text": "Museum zur Stadtgeschichte von Sopot.",
+                  "category": "museum",
+                  "coords": [
+                        18.576072,
+                        54.439938
+                  ]
+            },
+            {
+                  "name": "Augustusberg",
+                  "text": "Der Augustusberg fungiert als herrlicher Aussichtspunkt im polnischen Sopot. Von hier aus eröffnet sich den Besuchern ein beeindruckender Blick über die Landschaft. Es ist der perfekte Ort, um das Panorama der Region in Ruhe zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        18.551487,
+                        54.452299
+                  ]
+            },
+            {
+                  "name": "Wzgórze Królowej Marysieńki",
+                  "text": "Berg in Sopot.",
+                  "category": "natural",
+                  "coords": [
+                        18.545584,
+                        54.436866
+                  ]
+            },
+            {
+                  "name": "Kaiserstuhl",
+                  "text": "Hoch über der Stadt bietet der Kaiserstuhl in Sopot eine wunderbare Aussicht. Dieser natürliche Aussichtspunkt in Polen belohnt den Aufstieg mit weiten Blicken. Touristen schätzen die landschaftliche Weite, die man von diesem Ort aus erlebt.",
+                  "category": "natural",
+                  "coords": [
+                        18.551342,
+                        54.448063
+                  ]
+            },
+            {
+                  "name": "Großer Seesteg",
+                  "text": "Wahrzeichen von Sopot, einer der längsten Holzstege Europas.",
+                  "category": "landmark",
+                  "coords": [
+                        18.575261,
+                        54.447384
+                  ]
+            },
+            {
+                  "name": "Skwer im. księdza Otto Bowiena",
+                  "text": "Park in Sopot.",
+                  "category": "park",
+                  "coords": [
+                        18.570933,
+                        54.444291
+                  ]
+            },
+            {
+                  "name": "Krzywy Domek",
+                  "text": "Markantes Gebäude in Sopot, bekannt für seine geschwungene Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        18.566611,
+                        54.444338
+                  ]
+            },
+            {
+                  "name": "Schützenhohe",
+                  "text": "Die Schützenhohe ist ein bekannter Aussichtspunkt, der Sopot von oben zeigt. Wer diesen Naturort in Polen aufsucht, kann die Umgebung aus einer neuen Perspektive betrachten. Die Plattform lädt zum Verweilen und Fotografieren ein.",
+                  "category": "natural",
+                  "coords": [
+                        18.549229,
+                        54.444786
+                  ]
+            },
+            {
+                  "name": "Großer Gaisberg",
+                  "text": "Ein grandioses Panorama erwartet die Gäste am Großen Gaisberg in Sopot. Dieser natürliche Aussichtspunkt gehört zu den schönen Zielen der polnischen Stadt. Besucher sollten ihre Kamera bereithalten, um die weitreichende Sicht festzuhalten.",
+                  "category": "natural",
+                  "coords": [
+                        18.546298,
+                        54.434787
+                  ]
+            },
+            {
+                  "name": "Eliesenhöhe",
+                  "text": "Von der Eliesenhöhe aus lässt sich die Landschaft rund um Sopot hervorragend überblicken. Als malerischer Aussichtspunkt in Polen zieht er Erholungssuchende an. Ein Aufenthalt hier kombiniert Naturgenuss mit visueller Weite.",
+                  "category": "natural",
+                  "coords": [
+                        18.540626,
+                        54.443144
+                  ]
+            },
+            {
+                  "name": "Oddział Reumatologiczny",
+                  "text": "Das Gebäude Oddział Reumatologiczny ist eine bemerkenswerte Attraktion in Sopot. Interessierte können an diesem Ort ein Stück der lokalen Infrastruktur Polens entdecken. Es reiht sich in die vielfältigen Wahrzeichen der Stadt ein.",
+                  "category": "landmark",
+                  "coords": [
+                        18.569635,
+                        54.444758
+                  ]
+            },
+            {
+                  "name": "Przystań rybacka",
+                  "text": "Fischerhafen in Sopot.",
+                  "category": "landmark",
+                  "coords": [
+                        18.579611,
+                        54.437448
+                  ]
+            },
+            {
+                  "name": "Geburtshaus Klaus Kinski",
+                  "text": "Das Geburtshaus Klaus Kinski stellt eine besondere Attraktion im polnischen Sopot dar. Als historisches Wahrzeichen erinnert es an das Leben und Wirken bekannter Persönlichkeiten. Ein Stopp an dieser Stätte bringt Besuchern die kulturelle Geschichte der Stadt näher.",
+                  "category": "landmark",
+                  "coords": [
+                        18.563354,
+                        54.441614
+                  ]
+            },
+            {
+                  "name": "Plac Rybaków",
+                  "text": "Der Plac Rybaków ist ein zentraler Treffpunkt und eine beliebte Attraktion in Sopot. Dieser Platz in Polen vermittelt das lebendige Flair der städtischen Umgebung. Ein Spaziergang über dieses Wahrzeichen gehört zu jedem Besuch dazu.",
+                  "category": "landmark",
+                  "coords": [
+                        18.578515,
+                        54.435743
+                  ]
+            },
+            {
+                  "name": "Łazienki Południowe",
+                  "text": "Als architektonisches Highlight präsentieren sich die Łazienki Południowe in Sopot. Diese Attraktion fügt sich harmonisch in das polnische Stadtbild ein. Wer sich für markante Wahrzeichen interessiert, sollte diesen Ort nicht verpassen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.573374,
+                        54.443287
+                  ]
+            },
+            {
+                  "name": "Muzeum figur woskowych",
+                  "text": "Wachsfigurenkabinett in Sopot.",
+                  "category": "museum",
+                  "coords": [
+                        18.567908,
+                        54.445433
+                  ]
+            },
+            {
+                  "name": "Goyki 3 Art Inkubator",
+                  "text": "Kunstzentrum in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.559898,
+                        54.448775
+                  ]
+            },
+            {
+                  "name": "Monciak",
+                  "text": "Beliebte Einkaufsstraße in Sopot.",
+                  "category": "landmark",
+                  "coords": [
+                        18.564394,
+                        54.443406
+                  ]
+            },
+            {
+                  "name": "Esperantoplatz",
+                  "text": "Der Esperantoplatz ist eine einladende Attraktion inmitten der Stadt Sopot. Auf diesem polnischen Wahrzeichen spürt man die urbane Dynamik des Ortens. Besucher nutzen den Platz oft als Startpunkt für weitere Erkundungen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.543797,
+                        54.430381
+                  ]
+            },
+            {
+                  "name": "Altana burmistrza Johannesa Kollatha",
+                  "text": "Die Altana burmistrza Johannesa Kollatha bereichert als charmante Attraktion das Stadtgebiet von Sopot. Dieser Pavillon in Polen steht als markantes Wahrzeichen für Erholung und Tradition. Bei einem Rundgang durch die Stadt lädt er zu einer kurzen Rast ein.",
+                  "category": "landmark",
+                  "coords": [
+                        18.56065,
+                        54.463656
+                  ]
+            },
+            {
+                  "name": "Kościół Chrześcijan Baptystów w Sopocie",
+                  "text": "Baptistenkirche in Sopot.",
+                  "category": "religious",
+                  "coords": [
+                        18.568649,
+                        54.441716
+                  ]
+            },
+            {
+                  "name": "Die Waldoper",
+                  "text": "Bekannter Veranstaltungsort in Sopot, bekannt für seine Akustik.",
+                  "category": "landmark",
+                  "coords": [
+                        18.544414,
+                        54.444657
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Fatimskiej",
+                  "text": "Die Kościół pw. Matki Bożej Fatimskiej ist eine bedeutende Kirche in der Stadt Sopot. Für das polnische Gemeindeleben spielt dieses religiöse Bauwerk eine wichtige Rolle. Besucher finden hier einen friedvollen Raum zur Besinnung vor.",
+                  "category": "religious",
+                  "coords": [
+                        18.574621,
+                        54.41991
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "In Sopot öffnet die Kościół pw. Świętego Michała Archanioła ihre Türen für Gläubige und Gäste. Als polnische Kirche vermittelt sie einen tiefen spirituellen Eindruck. Die Architektur und die ruhige Lage machen sie zu einem Ort der Stille.",
+                  "category": "religious",
+                  "coords": [
+                        18.567492,
+                        54.435495
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza",
+                  "text": "Die Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza ist ein religiöses Zentrum in Sopot. Diese Kirche in Polen bietet einen Rückzugsort inmitten der Stadt. Wer Ruhe sucht, ist in diesen sakralen Räumlichkeiten genau richtig.",
+                  "category": "religious",
+                  "coords": [
+                        18.56569,
+                        54.440446
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Abgerundet wird das religiöse Leben in Sopot durch die Kościół pw. Najświętszego Serca Pana Jezusa. Die Kirche ist ein fester Bestandteil der polnischen Gemeinde. Reisende können hier an der andächtigen Atmosphäre teilhaben.",
+                  "category": "religious",
+                  "coords": [
+                        18.544979,
+                        54.451497
+                  ]
+            },
+            {
+                  "name": "Beauty Derm Instytut Centrum SPA i Fitness",
+                  "text": "Ein Wellnesszentrum in City Sopot mit Möglichkeiten zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        18.597123,
+                        54.422529
+                  ]
+            },
+            {
+                  "name": "Park dinozaurów",
+                  "text": "Ein Themenpark in City Sopot, der Spaß für die ganze Familie bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.527792,
+                        54.415926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża strzeżona \"Jelitkowo\"",
+                  "text": "Jelitkowo őrzött strand Sopotban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.59785,
+                        54.426354
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Klipper Jelitkowo\"",
+                  "text": "Klipper Jelitkowo őrzött strand Sopotban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.602277,
+                        54.423966
+                  ]
+            },
+            {
+                  "name": "Wejście 5",
+                  "text": "5. strandbejárat Sopotban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.561487,
+                        54.458536
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Kutyastrand Sopotban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.562522,
+                        54.466979
+                  ]
+            },
+            {
+                  "name": "Łęg nad Swelinią",
+                  "text": "Természetvédelmi terület a Swelinia-patak mentén, Sopotban.",
+                  "category": "natural",
+                  "coords": [
+                        18.533881,
+                        54.462308
+                  ]
+            },
+            {
+                  "name": "Rezerwat Przyrody Zajęcze Wzgórze",
+                  "text": "Zajęcze Wzgórze természetvédelmi terület Sopotban.",
+                  "category": "natural",
+                  "coords": [
+                        18.551575,
+                        54.434351
+                  ]
+            },
+            {
+                  "name": "Gdański Ogród Zoologiczny",
+                  "text": "Népszerű állatkert Sopot/Gdańsk közelében.",
+                  "category": "family",
+                  "coords": [
+                        18.533058,
+                        54.414454
+                  ]
+            },
+            {
+                  "name": "Skansen Archeologiczny Grodzisko - Oddział Muzeum Archeologicznego w Gdańsku",
+                  "text": "Régészeti skanzen (Grodzisko) Sopotban.",
+                  "category": "museum",
+                  "coords": [
+                        18.560646,
+                        54.451972
+                  ]
+            },
+            {
+                  "name": "Teatr Atelier im. Agnieszki Osieckiej",
+                  "text": "Színház Sopotban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.568277,
+                        54.448549
+                  ]
+            },
+            {
+                  "name": "Muszla koncertowa",
+                  "text": "Koncertkagyló Sopotban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.569171,
+                        54.446202
+                  ]
+            },
+            {
+                  "name": "Teatr Wybrzeże - Scena Kameralna im. Joanny Bogackiej",
+                  "text": "Kamaraszínházi színpad Sopotban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.565604,
+                        54.44334
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Régészeti lelőhely Sopotban.",
+                  "category": "historical",
+                  "coords": [
+                        18.559392,
+                        54.452047
+                  ]
+            },
+            {
+                  "name": "Teatr Boto",
+                  "text": "Színház Sopotban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.567806,
+                        54.44395
+                  ]
+            },
+            {
+                  "name": "Kolejowy Odjazd",
+                  "text": "Vidámpark Sopotban.",
+                  "category": "family",
+                  "coords": [
+                        18.56638,
+                        54.432929
+                  ]
+            },
+            {
+                  "name": "Adventure Park",
+                  "text": "Kalandpark Sopotban.",
+                  "category": "family",
+                  "coords": [
+                        18.551453,
+                        54.466174
+                  ]
+            },
+            {
+                  "name": "Aquapark Sopot",
+                  "text": "Vízipark Sopotban.",
+                  "category": "family",
+                  "coords": [
+                        18.557677,
+                        54.459903
+                  ]
+            },
+            {
+                  "name": "Jar Swelini",
+                  "text": "A Jar Swelini természetvédelmi terület egy zöld oázis a lengyelországi Sopot városában. Ez a festői környezet pihentető sétákra invitálja a természetkedvelőket. A látogatók a városi nyüzsgéstől távol élvezhetik az érintetlen természetet.",
+                  "category": "natural",
+                  "coords": [
+                        18.557535,
+                        54.464062
+                  ]
+            },
+            {
+                  "name": "Konwaliowe Wzgórze",
+                  "text": "A Konwaliowe Wzgórze egy idillikus természetvédelmi terület Sopotban. A természet szerelmesei felfedezhetik e lengyel zöldövezet egyedülálló tájképi szépségét. Egy ide tett kirándulás nyugalmat és kikapcsolódást ígér a szabadban.",
+                  "category": "natural",
+                  "coords": [
+                        18.54279,
+                        54.441195
+                  ]
+            },
+            {
+                  "name": "Kokoryczowe Zbocze",
+                  "text": "A Kokoryczowe Zbocze egy kedvelt természetvédelmi terület Sopotban, amely gazdag természeti környezettel büszkélkedhet. A lengyelországi rezervátum ideális helyszín természetjáráshoz és rövid túrákhoz. A kikapcsolódásra vágyók biztosan megtalálják a számításukat ezen a csendes helyen.",
+                  "category": "natural",
+                  "coords": [
+                        18.562302,
+                        54.445183
+                  ]
+            },
+            {
+                  "name": "Cisowe Zbocze",
+                  "text": "A Cisowe Zbocze egy védett természetvédelmi terület, amely Sopot zöld tüdejének része. Ebben a lengyelországi természeti környezetben a túrázók friss levegőt szívhatnak. Ezt a különleges kirándulóhelyet az érintetlen atmoszféra teszi igazán vonzóvá.",
+                  "category": "natural",
+                  "coords": [
+                        18.559546,
+                        54.457515
+                  ]
+            },
+            {
+                  "name": "Polska Filharmonia Kameralna Sopot",
+                  "text": "Kamarazenekari filharmónia Sopotban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.5462,
+                        54.445167
+                  ]
+            },
+            {
+                  "name": "Muzeum Sopotu",
+                  "text": "Sopot történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.576072,
+                        54.439938
+                  ]
+            },
+            {
+                  "name": "Wzgórze Augusty",
+                  "text": "Az Augustusberg egy csodálatos kilátópont a lengyelországi Sopot városában. Innen lenyűgöző kilátás nyílik a környező tájra. Tökéletes helyszín arra, hogy a látogatók nyugodtan megcsodálják a régió panorámáját.",
+                  "category": "natural",
+                  "coords": [
+                        18.551487,
+                        54.452299
+                  ]
+            },
+            {
+                  "name": "Wzgórze Królowej Marysieńki",
+                  "text": "Hegy Sopotban.",
+                  "category": "natural",
+                  "coords": [
+                        18.545584,
+                        54.436866
+                  ]
+            },
+            {
+                  "name": "Lisie Wzgórze",
+                  "text": "A város fölé magasodó Kaiserstuhl Sopotban gyönyörű kilátást biztosít a látogatóknak. Ez a lengyelországi természetes kilátópont széles távlatokkal jutalmazza a hegymászókat. A turisták nagyra értékelik a helyszínről eléjük táruló hatalmas térséget.",
+                  "category": "natural",
+                  "coords": [
+                        18.551342,
+                        54.448063
+                  ]
+            },
+            {
+                  "name": "Molo w Sopocie",
+                  "text": "Sopot nevezetessége, Európa egyik leghosszabb fa mólója.",
+                  "category": "landmark",
+                  "coords": [
+                        18.575261,
+                        54.447384
+                  ]
+            },
+            {
+                  "name": "Skwer im. księdza Otto Bowiena",
+                  "text": "Park Sopotban.",
+                  "category": "park",
+                  "coords": [
+                        18.570933,
+                        54.444291
+                  ]
+            },
+            {
+                  "name": "Krzywy Domek",
+                  "text": "Sopot jellegzetes épülete, amely görbe építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.566611,
+                        54.444338
+                  ]
+            },
+            {
+                  "name": "Strażnica",
+                  "text": "A Schützenhohe egy ismert kilátópont, ahonnan fentről csodálható meg Sopot. Aki felkeresi ezt a lengyelországi természeti helyszínt, új perspektívából láthatja a környéket. A platform hosszabb időzésre és fényképezésre is kiválóan alkalmas.",
+                  "category": "natural",
+                  "coords": [
+                        18.549229,
+                        54.444786
+                  ]
+            },
+            {
+                  "name": "Glinna Góra",
+                  "text": "Grandiózus panoráma várja a vendégeket a sopoti Großer Gaisberg magaslatán. Ez a természetes kilátópont a lengyel város egyik különösen szép úti célja. A látogatóknak érdemes előkészíteniük a fényképezőgépüket a messzire nyúló kilátás megörökítéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        18.546298,
+                        54.434787
+                  ]
+            },
+            {
+                  "name": "Łysa Góra",
+                  "text": "Az Eliesenhöhe tökéletes rálátást biztosít a Sopot körüli tájra. Festői lengyelországi kilátópontként vonzza a pihenni vágyókat. Egy itteni tartózkodás a természet élvezetét ötvözi a lenyűgöző vizuális térélménnyel.",
+                  "category": "natural",
+                  "coords": [
+                        18.540626,
+                        54.443144
+                  ]
+            },
+            {
+                  "name": "Oddział Reumatologiczny",
+                  "text": "Az Oddział Reumatologiczny épülete egy figyelemre méltó látványosság Sopotban. Az érdeklődők ezen a helyen felfedezhetik Lengyelország helyi infrastruktúrájának egy szeletét. Ez az épület a város változatos nevezetességeinek sorát gyarapítja.",
+                  "category": "landmark",
+                  "coords": [
+                        18.569635,
+                        54.444758
+                  ]
+            },
+            {
+                  "name": "Przystań rybacka",
+                  "text": "Halászkikötő Sopotban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.579611,
+                        54.437448
+                  ]
+            },
+            {
+                  "name": "Dom Klausa Kinskiego",
+                  "text": "A Geburtshaus Klaus Kinski egy különleges látványosság a lengyelországi Sopotban. Történelmi nevezetességként híres személyiségek életére és munkásságára emlékeztet. Egy megálló ezen a helyen közelebb hozza a látogatókhoz a város kulturális múltját.",
+                  "category": "landmark",
+                  "coords": [
+                        18.563354,
+                        54.441614
+                  ]
+            },
+            {
+                  "name": "Plac Rybaków",
+                  "text": "A Plac Rybaków egy központi találkozóhely és kedvelt látványosság Sopotban. Ez a lengyelországi tér a városi környezet nyüzsgő hangulatát árasztja. A téren tett séta elengedhetetlen része egy helyi városnézésnek.",
+                  "category": "landmark",
+                  "coords": [
+                        18.578515,
+                        54.435743
+                  ]
+            },
+            {
+                  "name": "Łazienki Południowe",
+                  "text": "A Łazienki Południowe igazi építészeti fénypontként jelenik meg Sopotban. Ez a látványosság harmonikusan illeszkedik a lengyel városképbe. Aki érdeklődik a jellegzetes helyi nevezetességek iránt, semmiképp se hagyja ki ezt a helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.573374,
+                        54.443287
+                  ]
+            },
+            {
+                  "name": "Muzeum figur woskowych",
+                  "text": "Viaszmúzeum Sopotban.",
+                  "category": "museum",
+                  "coords": [
+                        18.567908,
+                        54.445433
+                  ]
+            },
+            {
+                  "name": "Goyki 3 Art Inkubator",
+                  "text": "Művészeti központ Sopotban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.559898,
+                        54.448775
+                  ]
+            },
+            {
+                  "name": "Monciak",
+                  "text": "Népszerű bevásárlóutca Sopotban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.564394,
+                        54.443406
+                  ]
+            },
+            {
+                  "name": "Polanka Esperantystów",
+                  "text": "Az Esperantoplatz egy hívogató látványosság Sopot belvárosában. Ezen a lengyel nevezetességen jól érzékelhető a hely urbánus dinamikája. A látogatók gyakran használják ezt a teret további városi felfedezéseik kiindulópontjaként.",
+                  "category": "landmark",
+                  "coords": [
+                        18.543797,
+                        54.430381
+                  ]
+            },
+            {
+                  "name": "Altana burmistrza Johannesa Kollatha",
+                  "text": "Az Altana burmistrza Johannesa Kollatha egy bájos látványosság, amely Sopot városát gazdagítja. Ez a lengyelországi pavilon a pihenés és a hagyomány jellegzetes szimbóluma. Egy városi séta során a helyszín egy rövid, kellemes megpihenésre csábít.",
+                  "category": "landmark",
+                  "coords": [
+                        18.56065,
+                        54.463656
+                  ]
+            },
+            {
+                  "name": "Kościół Chrześcijan Baptystów w Sopocie",
+                  "text": "Baptista templom Sopotban.",
+                  "category": "religious",
+                  "coords": [
+                        18.568649,
+                        54.441716
+                  ]
+            },
+            {
+                  "name": "Opera Leśna",
+                  "text": "Sopot jól ismert helyszíne, amely akusztikájáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        18.544414,
+                        54.444657
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Fatimskiej",
+                  "text": "A Kościół pw. Matki Bożej Fatimskiej egy jelentős templom Sopot városában. Ez a vallási épület fontos szerepet játszik a lengyel közösségi életben. A betérőket egy békés, elmélyülésre alkalmas tér fogadja.",
+                  "category": "religious",
+                  "coords": [
+                        18.574621,
+                        54.41991
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "Sopotban a Kościół pw. Świętego Michała Archanioła nyitja meg kapuit a hívők és a vendégek előtt. Lengyel templomként mély spirituális benyomást tesz a látogatókra. Építészete és csendes elhelyezkedése a nyugalom szigetévé varázsolja.",
+                  "category": "religious",
+                  "coords": [
+                        18.567492,
+                        54.435495
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza",
+                  "text": "A Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza egy vallási központ Sopotban. Ez a lengyelországi templom igazi menedéket nyújt a város forgatagában. Aki békességre vágyik, a legjobb helyen jár ezekben a szakrális terekben.",
+                  "category": "religious",
+                  "coords": [
+                        18.56569,
+                        54.440446
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Sopot vallási életét a Kościół pw. Najświętszego Serca Pana Jezusa teszi teljessé. A templom a lengyel közösség egyik meghatározó alapköve. Az utazók itt megtapasztalhatják a hely áhítatos és meghitt atmoszféráját.",
+                  "category": "religious",
+                  "coords": [
+                        18.544979,
+                        54.451497
+                  ]
+            },
+            {
+                  "name": "Beauty Derm Instytut Centrum SPA i Fitness",
+                  "text": "Wellnessközpont City Sopot területén, úszási és pihenési lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        18.597123,
+                        54.422529
+                  ]
+            },
+            {
+                  "name": "Park dinozaurów",
+                  "text": "Tematikus park City Sopot területén, amely szórakozást nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        18.527792,
+                        54.415926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża strzeżona \"Jelitkowo\"",
+                  "text": "Plajă supravegheată Jelitkowo în Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.59785,
+                        54.426354
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Klipper Jelitkowo\"",
+                  "text": "Plajă supravegheată Klipper Jelitkowo în Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.602277,
+                        54.423966
+                  ]
+            },
+            {
+                  "name": "Wejście 5",
+                  "text": "Intrarea pe plajă nr. 5 în Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.561487,
+                        54.458536
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Plajă pentru câini în Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.562522,
+                        54.466979
+                  ]
+            },
+            {
+                  "name": "Łęg nad Swelinią",
+                  "text": "Rezervație naturală de-a lungul pârâului Swelinia în Sopot.",
+                  "category": "natural",
+                  "coords": [
+                        18.533881,
+                        54.462308
+                  ]
+            },
+            {
+                  "name": "Rezerwat Przyrody Zajęcze Wzgórze",
+                  "text": "Rezervația naturală Zajęcze Wzgórze în Sopot.",
+                  "category": "natural",
+                  "coords": [
+                        18.551575,
+                        54.434351
+                  ]
+            },
+            {
+                  "name": "Gdański Ogród Zoologiczny",
+                  "text": "Grădină zoologică populară în apropiere de Sopot/Gdańsk.",
+                  "category": "family",
+                  "coords": [
+                        18.533058,
+                        54.414454
+                  ]
+            },
+            {
+                  "name": "Skansen Archeologiczny Grodzisko - Oddział Muzeum Archeologicznego w Gdańsku",
+                  "text": "Muzeu arheologic în aer liber (Grodzisko) în Sopot.",
+                  "category": "museum",
+                  "coords": [
+                        18.560646,
+                        54.451972
+                  ]
+            },
+            {
+                  "name": "Teatr Atelier im. Agnieszki Osieckiej",
+                  "text": "Teatru în Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.568277,
+                        54.448549
+                  ]
+            },
+            {
+                  "name": "Muszla koncertowa",
+                  "text": "Concert shell în Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.569171,
+                        54.446202
+                  ]
+            },
+            {
+                  "name": "Teatr Wybrzeże - Scena Kameralna im. Joanny Bogackiej",
+                  "text": "Scenă de teatru de cameră în Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.565604,
+                        54.44334
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Situl arheologic în Sopot.",
+                  "category": "historical",
+                  "coords": [
+                        18.559392,
+                        54.452047
+                  ]
+            },
+            {
+                  "name": "Teatr Boto",
+                  "text": "Teatru în Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.567806,
+                        54.44395
+                  ]
+            },
+            {
+                  "name": "Kolejowy Odjazd",
+                  "text": "Parc de distracții în Sopot.",
+                  "category": "family",
+                  "coords": [
+                        18.56638,
+                        54.432929
+                  ]
+            },
+            {
+                  "name": "Adventure Park",
+                  "text": "Parc de aventură în Sopot.",
+                  "category": "family",
+                  "coords": [
+                        18.551453,
+                        54.466174
+                  ]
+            },
+            {
+                  "name": "Aquapark Sopot",
+                  "text": "Parc acvatic în Sopot.",
+                  "category": "family",
+                  "coords": [
+                        18.557677,
+                        54.459903
+                  ]
+            },
+            {
+                  "name": "Jar Swelini",
+                  "text": "Rezervația naturală Jar Swelini oferă o evadare în mijlocul naturii în orașul polonez Sopot. Acest mediu pitoresc invită la plimbări relaxante pe parcursul zilei. Vizitatorii se pot bucura aici de frumusețea naturală nealterată, departe de agitație.",
+                  "category": "natural",
+                  "coords": [
+                        18.557535,
+                        54.464062
+                  ]
+            },
+            {
+                  "name": "Konwaliowe Wzgórze",
+                  "text": "Konwaliowe Wzgórze este o rezervație naturală idilică situată în orașul Sopot. Iubitorii de natură pot descoperi frumusețea peisagistică a acestei oaze din Polonia. O excursie în această zonă promite liniște și o relaxare profundă în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.54279,
+                        54.441195
+                  ]
+            },
+            {
+                  "name": "Kokoryczowe Zbocze",
+                  "text": "Datorită mediului său natural bogat, Kokoryczowe Zbocze este o rezervație apreciată din Sopot. Acest areal din Polonia este ideal pentru observarea naturii și drumeții scurte. Cei aflați în căutarea relaxării vor aprecia liniștea acestui spațiu verde.",
+                  "category": "natural",
+                  "coords": [
+                        18.562302,
+                        54.445183
+                  ]
+            },
+            {
+                  "name": "Cisowe Zbocze",
+                  "text": "Zona Cisowe Zbocze este o rezervație naturală protejată ce funcționează ca un plămân verde pentru Sopot. Drumeții se pot bucura de aer curat în acest peisaj natural din Polonia. Atmosfera nealterată definește cu adevărat această destinație de vizitat.",
+                  "category": "natural",
+                  "coords": [
+                        18.559546,
+                        54.457515
+                  ]
+            },
+            {
+                  "name": "Polska Filharmonia Kameralna Sopot",
+                  "text": "Filarmonică de cameră în Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.5462,
+                        54.445167
+                  ]
+            },
+            {
+                  "name": "Muzeum Sopotu",
+                  "text": "Muzeu dedicat istoriei orașului Sopot.",
+                  "category": "museum",
+                  "coords": [
+                        18.576072,
+                        54.439938
+                  ]
+            },
+            {
+                  "name": "Wzgórze Augusty",
+                  "text": "Augustusberg funcționează ca un punct de belvedere minunat în orașul polonez Sopot. De aici, vizitatorilor li se deschide o priveliște impresionantă asupra peisajului înconjurător. Este locul perfect pentru a admira în liniște panorama regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        18.551487,
+                        54.452299
+                  ]
+            },
+            {
+                  "name": "Wzgórze Królowej Marysieńki",
+                  "text": "Vârf muntos în Sopot.",
+                  "category": "natural",
+                  "coords": [
+                        18.545584,
+                        54.436866
+                  ]
+            },
+            {
+                  "name": "Lisie Wzgórze",
+                  "text": "Înălțându-se deasupra orașului, Kaiserstuhl din Sopot oferă o perspectivă minunată. Acest punct de observație natural din Polonia răsplătește efortul urcării cu priveliști ample. Turiștii apreciază vastitatea peisajului ce poate fi admirat din acest loc.",
+                  "category": "natural",
+                  "coords": [
+                        18.551342,
+                        54.448063
+                  ]
+            },
+            {
+                  "name": "Molo w Sopocie",
+                  "text": "Reper al orașului Sopot, unul dintre cele mai lungi diguri de lemn din Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        18.575261,
+                        54.447384
+                  ]
+            },
+            {
+                  "name": "Skwer im. księdza Otto Bowiena",
+                  "text": "Parc în Sopot.",
+                  "category": "park",
+                  "coords": [
+                        18.570933,
+                        54.444291
+                  ]
+            },
+            {
+                  "name": "Krzywy Domek",
+                  "text": "Clădire distinctivă în Sopot, cunoscută pentru arhitectura sa curbată.",
+                  "category": "landmark",
+                  "coords": [
+                        18.566611,
+                        54.444338
+                  ]
+            },
+            {
+                  "name": "Strażnica",
+                  "text": "Schützenhohe este un punct de belvedere cunoscut care prezintă orașul Sopot de sus. Cei care vizitează acest loc natural din Polonia pot privi împrejurimile dintr-o nouă perspectivă. Platforma invită oaspeții să zăbovească și să facă fotografii.",
+                  "category": "natural",
+                  "coords": [
+                        18.549229,
+                        54.444786
+                  ]
+            },
+            {
+                  "name": "Glinna Góra",
+                  "text": "O panoramă grandioasă îi așteaptă pe oaspeți la Großer Gaisberg din Sopot. Acest punct de observație natural se numără printre cele mai frumoase destinații din orașul polonez. Vizitatorii ar trebui să aibă aparatul foto pregătit pentru a surprinde vederea extinsă.",
+                  "category": "natural",
+                  "coords": [
+                        18.546298,
+                        54.434787
+                  ]
+            },
+            {
+                  "name": "Łysa Góra",
+                  "text": "De pe Eliesenhöhe, peisajul din jurul orașului Sopot poate fi admirat excelent. Ca punct de belvedere pitoresc în Polonia, acesta atrage numeroși căutători de relaxare. O ședere aici combină bucuria naturii cu o priveliște vizuală deosebită.",
+                  "category": "natural",
+                  "coords": [
+                        18.540626,
+                        54.443144
+                  ]
+            },
+            {
+                  "name": "Oddział Reumatologiczny",
+                  "text": "Clădirea Oddział Reumatologiczny este o atracție remarcabilă în Sopot. Cei interesați pot descoperi aici o parte din infrastructura locală a Poloniei. Aceasta se înscrie în rândul monumentelor și reperelor diverse ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        18.569635,
+                        54.444758
+                  ]
+            },
+            {
+                  "name": "Przystań rybacka",
+                  "text": "Port pescăresc în Sopot.",
+                  "category": "landmark",
+                  "coords": [
+                        18.579611,
+                        54.437448
+                  ]
+            },
+            {
+                  "name": "Dom Klausa Kinskiego",
+                  "text": "Casa natală Geburtshaus Klaus Kinski reprezintă o atracție deosebită în orașul polonez Sopot. Ca reper istoric, amintește de viața și activitatea unor personalități cunoscute. O oprire în acest loc aduce vizitatorii mai aproape de istoria culturală a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        18.563354,
+                        54.441614
+                  ]
+            },
+            {
+                  "name": "Plac Rybaków",
+                  "text": "Plac Rybaków este un punct central de întâlnire și o atracție populară în Sopot. Această piață din Polonia transmite farmecul vibrant al mediului urban. O plimbare prin acest loc emblematic este obligatorie pentru orice vizitator.",
+                  "category": "landmark",
+                  "coords": [
+                        18.578515,
+                        54.435743
+                  ]
+            },
+            {
+                  "name": "Łazienki Południowe",
+                  "text": "Łazienki Południowe se prezintă ca o adevărată atracție arhitecturală în Sopot. Această zonă se integrează armonios în peisajul urban polonez. Cei pasionați de puncte de reper distinctive nu ar trebui să rateze acest obiectiv.",
+                  "category": "landmark",
+                  "coords": [
+                        18.573374,
+                        54.443287
+                  ]
+            },
+            {
+                  "name": "Muzeum figur woskowych",
+                  "text": "Muzeu al figurilor de ceară în Sopot.",
+                  "category": "museum",
+                  "coords": [
+                        18.567908,
+                        54.445433
+                  ]
+            },
+            {
+                  "name": "Goyki 3 Art Inkubator",
+                  "text": "Centru de artă în Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.559898,
+                        54.448775
+                  ]
+            },
+            {
+                  "name": "Monciak",
+                  "text": "Stradă comercială populară în Sopot.",
+                  "category": "landmark",
+                  "coords": [
+                        18.564394,
+                        54.443406
+                  ]
+            },
+            {
+                  "name": "Polanka Esperantystów",
+                  "text": "Esperantoplatz este o atracție primitoare situată chiar în mijlocul orașului Sopot. La acest reper din Polonia se poate simți cu ușurință dinamica urbană a locului. Vizitatorii folosesc adesea piața ca punct de plecare pentru explorări suplimentare.",
+                  "category": "landmark",
+                  "coords": [
+                        18.543797,
+                        54.430381
+                  ]
+            },
+            {
+                  "name": "Altana burmistrza Johannesa Kollatha",
+                  "text": "Altana burmistrza Johannesa Kollatha îmbogățește orașul Sopot fiind o atracție fermecătoare. Acest pavilion din Polonia este un simbol marcant pentru relaxare și tradiție. În timpul unui tur al orașului, acesta invită la o scurtă și plăcută pauză.",
+                  "category": "landmark",
+                  "coords": [
+                        18.56065,
+                        54.463656
+                  ]
+            },
+            {
+                  "name": "Kościół Chrześcijan Baptystów w Sopocie",
+                  "text": "Biserică baptistă în Sopot.",
+                  "category": "religious",
+                  "coords": [
+                        18.568649,
+                        54.441716
+                  ]
+            },
+            {
+                  "name": "Opera Leśna",
+                  "text": "Locație binecunoscută în Sopot, celebră pentru acustica sa.",
+                  "category": "landmark",
+                  "coords": [
+                        18.544414,
+                        54.444657
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Fatimskiej",
+                  "text": "Kościół pw. Matki Bożej Fatimskiej este o biserică importantă din orașul Sopot. Pentru viața comunității poloneze, această clădire religioasă joacă un rol esențial. Vizitatorii găsesc aici un spațiu liniștit, perfect pentru reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        18.574621,
+                        54.41991
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "În Sopot, Kościół pw. Świętego Michała Archanioła își deschide porțile pentru credincioși și oaspeți. Fiind o biserică din Polonia, ea oferă o impresie spirituală profundă. Arhitectura și locația sa liniștită o transformă într-un loc de pace.",
+                  "category": "religious",
+                  "coords": [
+                        18.567492,
+                        54.435495
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza",
+                  "text": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza este un centru religios situat în Sopot. Această biserică din Polonia oferă un loc de retragere chiar în mijlocul orașului. Cei care caută liniștea se află exact unde trebuie în aceste încăperi sacre.",
+                  "category": "religious",
+                  "coords": [
+                        18.56569,
+                        54.440446
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Viața religioasă din Sopot este completată de prezența bisericii Kościół pw. Najświętszego Serca Pana Jezusa. Lăcașul de cult este o parte integrantă a comunității poloneze de aici. Călătorii pot lua parte la atmosfera plină de devoțiune a locului.",
+                  "category": "religious",
+                  "coords": [
+                        18.544979,
+                        54.451497
+                  ]
+            },
+            {
+                  "name": "Beauty Derm Instytut Centrum SPA i Fitness",
+                  "text": "Un centru de fitness și SPA în City Sopot cu facilități pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.597123,
+                        54.422529
+                  ]
+            },
+            {
+                  "name": "Park dinozaurów",
+                  "text": "Un parc tematic în City Sopot care oferă distracție pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        18.527792,
+                        54.415926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża strzeżona \"Jelitkowo\"",
+                  "text": "Lifeguarded beach Jelitkowo in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.59785,
+                        54.426354
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Klipper Jelitkowo\"",
+                  "text": "Lifeguarded beach Klipper Jelitkowo in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.602277,
+                        54.423966
+                  ]
+            },
+            {
+                  "name": "Wejście 5",
+                  "text": "Beach entrance No. 5 in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.561487,
+                        54.458536
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Dog beach in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.562522,
+                        54.466979
+                  ]
+            },
+            {
+                  "name": "Swelinia's Riparian",
+                  "text": "Nature reserve along the Swelinia stream in Sopot.",
+                  "category": "natural",
+                  "coords": [
+                        18.533881,
+                        54.462308
+                  ]
+            },
+            {
+                  "name": "Rezerwat Przyrody Zajęcze Wzgórze",
+                  "text": "Zajęcze Wzgórze nature reserve in Sopot.",
+                  "category": "natural",
+                  "coords": [
+                        18.551575,
+                        54.434351
+                  ]
+            },
+            {
+                  "name": "Gdański Ogród Zoologiczny",
+                  "text": "Popular zoo near Sopot/Gdańsk.",
+                  "category": "family",
+                  "coords": [
+                        18.533058,
+                        54.414454
+                  ]
+            },
+            {
+                  "name": "Skansen Archeologiczny Grodzisko - Oddział Muzeum Archeologicznego w Gdańsku",
+                  "text": "Archaeological open-air museum (Grodzisko) in Sopot.",
+                  "category": "museum",
+                  "coords": [
+                        18.560646,
+                        54.451972
+                  ]
+            },
+            {
+                  "name": "Teatr Atelier im. Agnieszki Osieckiej",
+                  "text": "Theatre in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.568277,
+                        54.448549
+                  ]
+            },
+            {
+                  "name": "Muszla koncertowa",
+                  "text": "Concert shell in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.569171,
+                        54.446202
+                  ]
+            },
+            {
+                  "name": "Teatr Wybrzeże - Scena Kameralna im. Joanny Bogackiej",
+                  "text": "Chamber theatre stage in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.565604,
+                        54.44334
+                  ]
+            },
+            {
+                  "name": "Grodzisko",
+                  "text": "Archaeological site in Sopot.",
+                  "category": "historical",
+                  "coords": [
+                        18.559392,
+                        54.452047
+                  ]
+            },
+            {
+                  "name": "Boto Theater",
+                  "text": "Theatre in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.567806,
+                        54.44395
+                  ]
+            },
+            {
+                  "name": "Kolejowy Odjazd",
+                  "text": "Theme park in Sopot.",
+                  "category": "family",
+                  "coords": [
+                        18.56638,
+                        54.432929
+                  ]
+            },
+            {
+                  "name": "Adventure Park",
+                  "text": "Adventure park in Sopot.",
+                  "category": "family",
+                  "coords": [
+                        18.551453,
+                        54.466174
+                  ]
+            },
+            {
+                  "name": "Aquapark Sopot",
+                  "text": "Water park in Sopot.",
+                  "category": "family",
+                  "coords": [
+                        18.557677,
+                        54.459903
+                  ]
+            },
+            {
+                  "name": "Jar Swelini",
+                  "text": "The Jar Swelini nature reserve provides a natural retreat within the Polish city of Sopot. This picturesque environment invites visitors to take relaxing walks outdoors. Guests can enjoy the unspoiled nature away from the bustling city life here.",
+                  "category": "natural",
+                  "coords": [
+                        18.557535,
+                        54.464062
+                  ]
+            },
+            {
+                  "name": "Konwaliowe Wzgórze",
+                  "text": "Konwaliowe Wzgórze is an idyllic nature reserve located in the city of Sopot. Nature lovers can discover the scenic beauty of this Polish green oasis. An excursion to this site promises tranquility and relaxation in the great outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        18.54279,
+                        54.441195
+                  ]
+            },
+            {
+                  "name": "Kokoryczowe Zbocze",
+                  "text": "Featuring a diverse natural environment, Kokoryczowe Zbocze is a popular nature reserve in Sopot. This area in Poland is ideal for nature observations and short hikes. Those seeking a peaceful retreat will find exactly what they need in this quiet spot.",
+                  "category": "natural",
+                  "coords": [
+                        18.562302,
+                        54.445183
+                  ]
+            },
+            {
+                  "name": "Cisowe Zbocze",
+                  "text": "The area of Cisowe Zbocze is a protected nature reserve acting as a green lung for Sopot. Hikers can breathe in fresh air while exploring this natural Polish landscape. The unspoiled atmosphere is the defining characteristic of this special destination.",
+                  "category": "natural",
+                  "coords": [
+                        18.559546,
+                        54.457515
+                  ]
+            },
+            {
+                  "name": "Polska Filharmonia Kameralna Sopot",
+                  "text": "Chamber philharmonic in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.5462,
+                        54.445167
+                  ]
+            },
+            {
+                  "name": "Muzeum Sopotu",
+                  "text": "Museum dedicated to the history of Sopot.",
+                  "category": "museum",
+                  "coords": [
+                        18.576072,
+                        54.439938
+                  ]
+            },
+            {
+                  "name": "Wzgórze Augusty",
+                  "text": "Augustusberg functions as a wonderful viewpoint located in the Polish city of Sopot. From here, visitors are treated to an impressive view across the surrounding landscape. It is the perfect spot to quietly take in the regional panorama.",
+                  "category": "natural",
+                  "coords": [
+                        18.551487,
+                        54.452299
+                  ]
+            },
+            {
+                  "name": "Wzgórze Królowej Marysieńki",
+                  "text": "Peak in Sopot.",
+                  "category": "natural",
+                  "coords": [
+                        18.545584,
+                        54.436866
+                  ]
+            },
+            {
+                  "name": "Lisie Wzgórze",
+                  "text": "High above the city, Kaiserstuhl provides a wonderful view in Sopot. This natural viewpoint in Poland rewards those who make the climb with expansive vistas. Tourists appreciate the vast landscapes that can be seen from this elevated location.",
+                  "category": "natural",
+                  "coords": [
+                        18.551342,
+                        54.448063
+                  ]
+            },
+            {
+                  "name": "Sopot Pier",
+                  "text": "Landmark of Sopot, one of the longest wooden piers in Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        18.575261,
+                        54.447384
+                  ]
+            },
+            {
+                  "name": "Skwer im. księdza Otto Bowiena",
+                  "text": "Park in Sopot.",
+                  "category": "park",
+                  "coords": [
+                        18.570933,
+                        54.444291
+                  ]
+            },
+            {
+                  "name": "Krzywy Domek",
+                  "text": "Distinctive building in Sopot, known for its curved architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        18.566611,
+                        54.444338
+                  ]
+            },
+            {
+                  "name": "Strażnica",
+                  "text": "Schützenhohe is a well-known viewpoint showcasing Sopot from above. Anyone visiting this natural spot in Poland can view the surroundings from a new perspective. The platform invites guests to linger and capture scenic photographs.",
+                  "category": "natural",
+                  "coords": [
+                        18.549229,
+                        54.444786
+                  ]
+            },
+            {
+                  "name": "Glinna Góra",
+                  "text": "A grandiose panorama awaits guests at Großer Gaisberg in Sopot. This natural viewpoint is among the most beautiful destinations within the Polish city. Visitors should have their cameras ready to capture the far-reaching sights.",
+                  "category": "natural",
+                  "coords": [
+                        18.546298,
+                        54.434787
+                  ]
+            },
+            {
+                  "name": "Łysa Góra",
+                  "text": "From Eliesenhöhe, the landscape surrounding Sopot can be excellently surveyed. As a picturesque viewpoint in Poland, it attracts those looking for relaxation. Spending time here combines the enjoyment of nature with a broad visual expanse.",
+                  "category": "natural",
+                  "coords": [
+                        18.540626,
+                        54.443144
+                  ]
+            },
+            {
+                  "name": "Oddział Reumatologiczny",
+                  "text": "The Oddział Reumatologiczny building stands out as a noteworthy attraction in Sopot. Interested visitors can discover a piece of Poland's local infrastructure at this location. It is part of the diverse range of landmarks found within the city.",
+                  "category": "landmark",
+                  "coords": [
+                        18.569635,
+                        54.444758
+                  ]
+            },
+            {
+                  "name": "Przystań rybacka",
+                  "text": "Fishing harbor in Sopot.",
+                  "category": "landmark",
+                  "coords": [
+                        18.579611,
+                        54.437448
+                  ]
+            },
+            {
+                  "name": "Dom Klausa Kinskiego",
+                  "text": "The Geburtshaus Klaus Kinski represents a special attraction in the Polish city of Sopot. As a historic landmark, it commemorates the lives of well-known figures. Stopping at this site brings visitors closer to the cultural history of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        18.563354,
+                        54.441614
+                  ]
+            },
+            {
+                  "name": "Plac Rybaków",
+                  "text": "Plac Rybaków is a central meeting point and a popular attraction in Sopot. This square in Poland conveys the vibrant flair of the surrounding urban environment. Strolling across this landmark is a must for any visitor to the city.",
+                  "category": "landmark",
+                  "coords": [
+                        18.578515,
+                        54.435743
+                  ]
+            },
+            {
+                  "name": "Łazienki Południowe",
+                  "text": "The Łazienki Południowe presents itself as an architectural highlight in Sopot. This attraction blends harmoniously into the Polish cityscape. Anyone interested in distinctive local landmarks should not miss visiting this location.",
+                  "category": "landmark",
+                  "coords": [
+                        18.573374,
+                        54.443287
+                  ]
+            },
+            {
+                  "name": "Muzeum figur woskowych",
+                  "text": "Wax museum in Sopot.",
+                  "category": "museum",
+                  "coords": [
+                        18.567908,
+                        54.445433
+                  ]
+            },
+            {
+                  "name": "Goyki 3 Art Inkubator",
+                  "text": "Arts center in Sopot.",
+                  "category": "cultural",
+                  "coords": [
+                        18.559898,
+                        54.448775
+                  ]
+            },
+            {
+                  "name": "Monciak Street",
+                  "text": "Popular shopping street in Sopot.",
+                  "category": "landmark",
+                  "coords": [
+                        18.564394,
+                        54.443406
+                  ]
+            },
+            {
+                  "name": "Polanka Esperantystów",
+                  "text": "Esperantoplatz is a welcoming attraction right in the middle of the city of Sopot. One can easily feel the urban dynamics of the location at this Polish landmark. Visitors often use the square as a starting point for further city explorations.",
+                  "category": "landmark",
+                  "coords": [
+                        18.543797,
+                        54.430381
+                  ]
+            },
+            {
+                  "name": "Altana burmistrza Johannesa Kollatha",
+                  "text": "The Altana burmistrza Johannesa Kollatha enriches the city of Sopot as a charming attraction. This pavilion in Poland stands as a striking landmark of relaxation and tradition. During a walking tour of the city, it invites visitors to take a brief rest.",
+                  "category": "landmark",
+                  "coords": [
+                        18.56065,
+                        54.463656
+                  ]
+            },
+            {
+                  "name": "Kościół Chrześcijan Baptystów w Sopocie",
+                  "text": "Baptist church in Sopot.",
+                  "category": "religious",
+                  "coords": [
+                        18.568649,
+                        54.441716
+                  ]
+            },
+            {
+                  "name": "Forest Opera",
+                  "text": "Well-known venue in Sopot, famous for its acoustics.",
+                  "category": "landmark",
+                  "coords": [
+                        18.544414,
+                        54.444657
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Fatimskiej",
+                  "text": "The Kościół pw. Matki Bożej Fatimskiej is an important church in the city of Sopot. For the Polish community, this religious building plays an essential role. Visitors will find a peaceful space suitable for quiet contemplation here.",
+                  "category": "religious",
+                  "coords": [
+                        18.574621,
+                        54.41991
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "In Sopot, the Kościół pw. Świętego Michała Archanioła opens its doors to both the faithful and guests. As a Polish church, it imparts a deep spiritual impression. Its architecture and quiet location make it a true sanctuary of silence.",
+                  "category": "religious",
+                  "coords": [
+                        18.567492,
+                        54.435495
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza",
+                  "text": "The Kościół pw. Najświętszej Maryi Panny Wniebowziętej – Gwiazda Morza is a religious center located in Sopot. This church in Poland offers a peaceful retreat right in the midst of the city. Those seeking tranquility will feel perfectly at home in these sacred spaces.",
+                  "category": "religious",
+                  "coords": [
+                        18.56569,
+                        54.440446
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Religious life in Sopot is completed by the presence of Kościół pw. Najświętszego Serca Pana Jezusa. The church stands as an integral part of the Polish community there. Travelers can come here to share in the devout and intimate atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        18.544979,
+                        54.451497
+                  ]
+            },
+            {
+                  "name": "Beauty Derm Instytut Centrum SPA i Fitness",
+                  "text": "A spa and fitness center in City Sopot with swimming and relaxation facilities.",
+                  "category": "family",
+                  "coords": [
+                        18.597123,
+                        54.422529
+                  ]
+            },
+            {
+                  "name": "Park dinozaurów",
+                  "text": "A theme park in City Sopot offering fun for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        18.527792,
+                        54.415926
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL",
     name: { de: "Sopot", hu: "Sopot", ro: "Sopot", en: "Sopot" },
@@ -79194,6 +91650,15 @@ export const polandCitiesV2: POI[] = [
                         21.732708,
                         50.685373
                   ]
+            },
+            {
+                  "name": "Basen Błękitna Fala",
+                  "text": "Dieser Wasserpark in Sandomierz bietet eine unterhaltsame Umgebung für Familienwasseraktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        21.729127,
+                        50.686746
+                  ]
             }
       ],
       "hu": [
@@ -79213,6 +91678,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.732708,
                         50.685373
+                  ]
+            },
+            {
+                  "name": "Basen Błękitna Fala",
+                  "text": "Ez a sandomierzi vízipark szórakoztató környezetet biztosít a családi vízi tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        21.729127,
+                        50.686746
                   ]
             }
       ],
@@ -79234,6 +91708,15 @@ export const polandCitiesV2: POI[] = [
                         21.732708,
                         50.685373
                   ]
+            },
+            {
+                  "name": "Basen Błękitna Fala",
+                  "text": "Acest parc acvatic din Sandomierz oferă un mediu distractiv pentru activități acvatice în familie.",
+                  "category": "family",
+                  "coords": [
+                        21.729127,
+                        50.686746
+                  ]
             }
       ],
       "en": [
@@ -79253,6 +91736,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.732708,
                         50.685373
+                  ]
+            },
+            {
+                  "name": "Basen Błękitna Fala",
+                  "text": "This water park in Sandomierz provides a fun environment for family water activities.",
+                  "category": "family",
+                  "coords": [
+                        21.729127,
+                        50.686746
                   ]
             }
       ]
@@ -79491,6 +91983,15 @@ export const polandCitiesV2: POI[] = [
                         23.137428,
                         52.030475
                   ]
+            },
+            {
+                  "name": "Pływalnia",
+                  "text": "Öffentliches Schwimmbad in Biała Podlaska, das Platz für Wasseraktivitäten bietet.",
+                  "category": "family",
+                  "coords": [
+                        23.105031,
+                        52.035578
+                  ]
             }
       ],
       "hu": [
@@ -79681,6 +92182,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         23.137428,
                         52.030475
+                  ]
+            },
+            {
+                  "name": "Pływalnia",
+                  "text": "Nyilvános úszómedence Biała Podlaska területén, amely vízi tevékenységekhez kínál helyszínt.",
+                  "category": "family",
+                  "coords": [
+                        23.105031,
+                        52.035578
                   ]
             }
       ],
@@ -79873,6 +92383,15 @@ export const polandCitiesV2: POI[] = [
                         23.137428,
                         52.030475
                   ]
+            },
+            {
+                  "name": "Pływalnia",
+                  "text": "Piscină publică în Biala Podlaska, oferind spațiu pentru activități acvatice.",
+                  "category": "family",
+                  "coords": [
+                        23.105031,
+                        52.035578
+                  ]
             }
       ],
       "en": [
@@ -80063,6 +92582,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         23.137428,
                         52.030475
+                  ]
+            },
+            {
+                  "name": "Pływalnia",
+                  "text": "Public swimming pool in Biala Podlaska offering space for water activities.",
+                  "category": "family",
+                  "coords": [
+                        23.105031,
+                        52.035578
                   ]
             }
       ]
@@ -80561,7 +93089,52 @@ export const polandCitiesV2: POI[] = [
     image: "/poi-images/poland-chojnice-cities-v2.webp",
   },
   {
-    id: "poland-zary-cities-v2",
+    id: "poland-zary-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Basen Wodnik",
+                  "text": "Dieser Wasserpark in Zary bietet verschiedene Pools und Attraktionen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.121349,
+                        51.642491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Basen Wodnik",
+                  "text": "Ez a żary-i vízipark különféle medencéket és látnivalókat kínál a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        15.121349,
+                        51.642491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Basen Wodnik",
+                  "text": "Acest parc acvatic din Zary oferă diverse piscine și atracții pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        15.121349,
+                        51.642491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basen Wodnik",
+                  "text": "This water park in Zary offers various pools and attractions for families.",
+                  "category": "family",
+                  "coords": [
+                        15.121349,
+                        51.642491
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL",
     name: { de: "Żary", hu: "Żary", ro: "Żary", en: "Żary" },
@@ -81129,6 +93702,15 @@ export const polandCitiesV2: POI[] = [
                         20.982474,
                         53.563327
                   ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Ein lokales Schwimmbad in Szczytno für sportliche Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        21.015643,
+                        53.563825
+                  ]
             }
       ],
       "hu": [
@@ -81202,6 +93784,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.982474,
                         53.563327
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "Helyi úszómedence Szczytno városában sportolási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        21.015643,
+                        53.563825
                   ]
             }
       ],
@@ -81277,6 +93868,15 @@ export const polandCitiesV2: POI[] = [
                         20.982474,
                         53.563327
                   ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "O piscină locală în Szczytno pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        21.015643,
+                        53.563825
+                  ]
             }
       ],
       "en": [
@@ -81350,6 +93950,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.982474,
                         53.563327
+                  ]
+            },
+            {
+                  "name": "Basen",
+                  "text": "A local swimming pool in Szczytno for sports activities.",
+                  "category": "family",
+                  "coords": [
+                        21.015643,
+                        53.563825
                   ]
             }
       ]

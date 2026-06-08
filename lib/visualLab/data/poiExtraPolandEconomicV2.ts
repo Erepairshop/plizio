@@ -2122,6 +2122,33 @@ export const polandEconomicV2: POI[] = [
                         18.98982,
                         50.276396
                   ]
+            },
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "Dieses Papageienhaus in Katowice bietet ein einzigartiges Familienerlebnis im Umgang mit bunten Vögeln.",
+                  "category": "family",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Katowice Basen Bugla",
+                  "text": "Dieses Schwimmbad in Katowice ist ein beliebter Ort für Familien, um sich abzukühlen und zu schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        18.993718,
+                        50.253159
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "Dieser Wasserpark in der Region Katowice bietet familienfreundliche Pools und Rutschen.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
             }
       ],
       "hu": [
@@ -2663,6 +2690,33 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         18.98982,
                         50.276396
+                  ]
+            },
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "Ez a katowicei papagájház egyedülálló családi élményt kínál a színes madarakkal való találkozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Katowice Basen Bugla",
+                  "text": "Ez a katowicei uszoda népszerű hely a családok számára a hűsölésre és az úszásra.",
+                  "category": "family",
+                  "coords": [
+                        18.993718,
+                        50.253159
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "Ez a Katowice környéki vízipark családbarát medencéket és csúszdákat kínál.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
                   ]
             }
       ],
@@ -3206,6 +3260,33 @@ export const polandEconomicV2: POI[] = [
                         18.98982,
                         50.276396
                   ]
+            },
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "Această casă a papagalilor din Katowice oferă o experiență unică în familie, interacționând cu păsări colorate.",
+                  "category": "family",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Katowice Basen Bugla",
+                  "text": "Această piscină din Katowice este un loc popular pentru familii pentru a se răcori și a înota.",
+                  "category": "family",
+                  "coords": [
+                        18.993718,
+                        50.253159
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "Acest parc acvatic din zona Katowice oferă piscine și tobogane potrivite pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
+                  ]
             }
       ],
       "en": [
@@ -3747,6 +3828,33 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         18.98982,
                         50.276396
+                  ]
+            },
+            {
+                  "name": "Papugarnia Carmen",
+                  "text": "This parrot house in Katowice offers a unique family experience interacting with colorful birds.",
+                  "category": "family",
+                  "coords": [
+                        18.969939,
+                        50.267433
+                  ]
+            },
+            {
+                  "name": "Katowice Basen Bugla",
+                  "text": "This swimming pool in Katowice is a popular spot for families to cool off and swim.",
+                  "category": "family",
+                  "coords": [
+                        18.993718,
+                        50.253159
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Fala",
+                  "text": "This water park in the Katowice area offers family-friendly pools and slides.",
+                  "category": "family",
+                  "coords": [
+                        18.986024,
+                        50.285828
                   ]
             }
       ]

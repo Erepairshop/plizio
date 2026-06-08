@@ -8414,6 +8414,231 @@ export const franceCities: POI[] = [
                         7.76588,
                         48.561223
                   ]
+            },
+            {
+                  "name": "Mineralogie-Museum",
+                  "text": "Das Musée de Minéralogie in Straßburg beherbergt eine bedeutende Sammlung von Kristallen und Gesteinen der Universität. Es befindet sich im historischen Universitätsviertel und zeigt seltene Mineralien aus aller Welt.",
+                  "category": "museum",
+                  "coords": [
+                        7.762773,
+                        48.583475
+                  ]
+            },
+            {
+                  "name": "Museum für Seismologie und Erdmagnetismus",
+                  "text": "Das Musée de Sismologie et de Magnétisme Terrestre in Straßburg widmet sich der Erforschung der Erdbeben und des Erdmagnetismus. Es ist in einer ehemaligen Forschungsstation untergebracht und zeigt historische Instrumente.",
+                  "category": "museum",
+                  "coords": [
+                        7.765642,
+                        48.583919
+                  ]
+            },
+            {
+                  "name": "TJP Centre Dramatique National d'Alsace",
+                  "text": "Das TJP Centre Dramatique National d'Alsace in Straßburg ist ein bedeutendes Theater für zeitgenössische Kunstformen. Es ist besonders für seine Produktionen im Bereich des Objekt- und Figurentheaters bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        7.761286,
+                        48.580606
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Chouc'routerie",
+                  "text": "Das Théâtre de la Chouc'routerie ist eine beliebte Bühne in Straßburg, die in einer ehemaligen Sauerkrautfabrik untergebracht ist. Es bietet ein abwechslungsreiches Programm mit Kabarett und Stücken in elsässischer Sprache.",
+                  "category": "cultural",
+                  "coords": [
+                        7.744847,
+                        48.577983
+                  ]
+            },
+            {
+                  "name": "Cloitre Saint-Pierre-le-Jeune",
+                  "text": "Der Kreuzgang von Saint-Pierre-le-Jeune in Straßburg gehört zu einer der ältesten Kirchen der Stadt. Er besticht durch seine romanischen Säulen und bietet eine Oase der Ruhe im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        7.746401,
+                        48.585812
+                  ]
+            },
+            {
+                  "name": "Theater",
+                  "text": "Das Théâtre National de Strasbourg (TNS) ist das einzige Nationaltheater Frankreichs außerhalb von Paris. Es ist in einem prächtigen historischen Gebäude untergebracht und beherbergt auch eine Schauspielschule.",
+                  "category": "cultural",
+                  "coords": [
+                        7.755361,
+                        48.586366
+                  ]
+            },
+            {
+                  "name": "Union des Églises protestantes d'Alsace et de Lorraine",
+                  "text": "Die Union des Églises protestantes d'Alsace et de Lorraine ist eine wichtige religiöse Institution mit Sitz in Straßburg. Sie vertritt die protestantische Tradition der Region und verwaltet zahlreiche historische Gotteshäuser.",
+                  "category": "religious",
+                  "coords": [
+                        7.746926,
+                        48.579007
+                  ]
+            },
+            {
+                  "name": "Stephanskapelle",
+                  "text": "Die Église Saint-Étienne in Straßburg ist eine historische Kirche, die sich heute auf dem Gelände eines gleichnamigen Kollegs befindet. Sie weist bedeutende romanische und gotische Bauelemente auf.",
+                  "category": "religious",
+                  "coords": [
+                        7.755854,
+                        48.583451
+                  ]
+            },
+            {
+                  "name": "Friedenssynagoge",
+                  "text": "Die Synagogue de la Paix ist das religiöse Zentrum der jüdischen Gemeinde in Straßburg. Sie wurde nach dem Zweiten Weltkrieg in moderner Architektur erbaut und ist ein Symbol für Frieden und Versöhnung.",
+                  "category": "religious",
+                  "coords": [
+                        7.756663,
+                        48.590252
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "Die Église Catholique Saint-Jean-Baptiste in Straßburg wurde nach ihrer Zerstörung im Krieg in einem modernen Stil wieder aufgebaut. Sie bewahrt dennoch einen Geist der Tradition im Stadtviertel Quai Saint-Jean.",
+                  "category": "religious",
+                  "coords": [
+                        7.740089,
+                        48.584387
+                  ]
+            },
+            {
+                  "name": "Nikolaikirche",
+                  "text": "Die Saint-Nicolas' Church in Straßburg ist eine schlichte protestantische Kirche mit einer reichen Geschichte. Hier predigte einst Johannes Calvin während seines Aufenthalts in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.748501,
+                        48.578359
+                  ]
+            },
+            {
+                  "name": "Aurelienkirche",
+                  "text": "Die Église protestante Sainte-Aurélie ist eines der ältesten protestantischen Gotteshäuser in Straßburg. Die Kirche zeichnet sich durch ihre barocke Innenausstattung und ihre Bedeutung während der Reformation aus.",
+                  "category": "religious",
+                  "coords": [
+                        7.733272,
+                        48.581415
+                  ]
+            },
+            {
+                  "name": "Garnisonskirche St. Mauritius",
+                  "text": "Die Église Saint-Maurice in Straßburg ist eine beeindruckende neugotische Kirche im ehemaligen deutschen Viertel (Neustadt). Sie wurde ursprünglich für die dort stationierten Soldaten errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        7.770346,
+                        48.584691
+                  ]
+            },
+            {
+                  "name": "Église Saint-Urbain",
+                  "text": "Die Église Saint-Urbain ist eine moderne katholische Kirche im Straßburger Stadtteil Neudorf. Ihre markante Betonarchitektur macht sie zu einem interessanten Beispiel sakralen Bauens aus der Mitte des 20. Jahrhunderts.",
+                  "category": "religious",
+                  "coords": [
+                        7.769153,
+                        48.568478
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc",
+                  "text": "Die Église Sainte-Jeanne d'Arc befindet sich im Viertel Port du Rhin in Straßburg. Sie ist eine moderne Kirche, die den Einwohnern dieses Grenzbezirks als Ort des Gebets dient.",
+                  "category": "religious",
+                  "coords": [
+                        7.794649,
+                        48.571833
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Rencontre de Strasbourg",
+                  "text": "Die Chapelle de la Rencontre in Straßburg ist eine kleine Kapelle, die zur Besinnung im städtischen Umfeld einlädt. Sie ist Teil der ökumenischen Vielfalt in der elsässischen Metropole.",
+                  "category": "religious",
+                  "coords": [
+                        7.795727,
+                        48.57233
+                  ]
+            },
+            {
+                  "name": "Große Straßburger Moschee",
+                  "text": "Die Straßburger Moschee ist ein bedeutendes religiöses Gebäude mit moderner Architektur von Paolo Portoghesi. Sie bietet der muslimischen Gemeinschaft Platz für Gebet und Begegnung.",
+                  "category": "religious",
+                  "coords": [
+                        7.737158,
+                        48.573176
+                  ]
+            },
+            {
+                  "name": "Allerheiligenkirche",
+                  "text": "Die russisch-orthodoxe Allerheiligenkirche in Straßburg besticht durch ihre traditionelle Architektur mit weißen Wänden und goldenen Kuppeln. Sie liegt idyllisch am Ufer der Ill in der Nähe der europäischen Institutionen.",
+                  "category": "religious",
+                  "coords": [
+                        7.786792,
+                        48.59035
+                  ]
+            },
+            {
+                  "name": "Altstadt",
+                  "text": "Die Grande Île ist das historische Zentrum von Straßburg und gehört zum UNESCO-Weltkulturerbe. Sie beherbergt das Straßburger Münster und zahlreiche mittelalterliche Fachwerkhäuser in malerischen Gassen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.747696,
+                        48.582935
+                  ]
+            },
+            {
+                  "name": "Europabrücke",
+                  "text": "Diese Brücke überquert den Rhein und verbindet Straßburg mit der deutschen Stadt Kehl. Sie dient als wichtiges symbolisches und praktisches Bindeglied zwischen beiden Nationen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.802037,
+                        48.573759
+                  ]
+            },
+            {
+                  "name": "Lieu d'Europe",
+                  "text": "Dieses Museum in Straßburg widmet sich der europäischen Geschichte und den Institutionen der Stadt. Es bietet Besuchern Einblicke in die Rolle Straßburgs als europäische Hauptstadt.",
+                  "category": "museum",
+                  "coords": [
+                        7.777696,
+                        48.597241
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Der Botanische Garten der Universität Straßburg beherbergt eine beeindruckende Vielfalt an Pflanzenarten aus aller Welt. Er bietet eine ruhige grüne Oase im Herzen der Stadt für erholsame Spaziergänge.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767462,
+                        48.583626
+                  ]
+            },
+            {
+                  "name": "Le Vaisseau",
+                  "text": "Dieses Wissenschaftszentrum in Straßburg richtet sich speziell an Kinder und Jugendliche, um Technik spielerisch zu entdecken. Es bietet zahlreiche interaktive Stationen zu Themen wie Mathematik, Physik und Biologie.",
+                  "category": "museum",
+                  "coords": [
+                        7.772157,
+                        48.57289
+                  ]
+            },
+            {
+                  "name": "Monument Lezay-Marnésia",
+                  "text": "Dieses Denkmal in Straßburg ehrt Adrien de Lezay-Marnésia für seine Verdienste in der Region. Es befindet sich an einem markanten Ort und ist ein Zeugnis der lokalen Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        7.753368,
+                        48.585897
+                  ]
+            },
+            {
+                  "name": "Hôtel de Neuwiller",
+                  "text": "Dieses historische Herrenhaus in Straßburg ist ein bemerkenswertes Beispiel für die lokale Architektur vergangener Jahrhunderte. Es trägt zum architektonischen Erbe des Stadtviertels bei und ist von der Straße aus zu bewundern.",
+                  "category": "historical",
+                  "coords": [
+                        7.742058,
+                        48.584391
+                  ]
             }
       ],
       "hu": [
@@ -8613,6 +8838,231 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.76588,
                         48.561223
+                  ]
+            },
+            {
+                  "name": "Musée de Minéralogie",
+                  "text": "A strasbourgi Ásványtani Múzeum az egyetem jelentős kristály- és kőzetgyűjteményének ad otthont. A történelmi egyetemi negyedben található, és a világ minden tájáról származó ritka ásványokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.762773,
+                        48.583475
+                  ]
+            },
+            {
+                  "name": "Musée de Sismologie et de Magnétisme Terrestre",
+                  "text": "A strasbourgi Szeizmológiai és Földmágnességi Múzeum a földrengések és a földmágnesség kutatásának szentelt hely. Egy egykori kutatóállomáson kapott helyet, és történelmi műszereket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.765642,
+                        48.583919
+                  ]
+            },
+            {
+                  "name": "TJP Centre Dramatique National d'Alsace",
+                  "text": "A strasbourgi TJP Centre Dramatique National d'Alsace a kortárs művészeti formák egyik jelentős színháza. Különösen a tárgy- és bábfilm területén készült produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.761286,
+                        48.580606
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Chouc'routerie",
+                  "text": "A Théâtre de la Chouc'routerie egy népszerű strasbourgi színpad, amely egy egykori savanyúkáposzta-gyárban található. Változatos programot kínál kabaréval és elzászi nyelvű darabokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        7.744847,
+                        48.577983
+                  ]
+            },
+            {
+                  "name": "Cloitre Saint-Pierre-le-Jeune",
+                  "text": "A strasbourgi Saint-Pierre-le-Jeune kolostorkeringője a város egyik legrégebbi templomához tartozik. Román stílusú oszlopaival nyűgöz le, és a nyugalom oázisát kínálja a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        7.746401,
+                        48.585812
+                  ]
+            },
+            {
+                  "name": "Théâtre National de Strasbourg",
+                  "text": "A Théâtre National de Strasbourg (TNS) az egyetlen Párizson kívüli nemzeti színház Franciaországban. Egy pompás történelmi épületben található, és egy színművészeti iskolának is otthont ad.",
+                  "category": "cultural",
+                  "coords": [
+                        7.755361,
+                        48.586366
+                  ]
+            },
+            {
+                  "name": "Union des Églises protestantes d'Alsace et de Lorraine",
+                  "text": "Az Union des Églises protestantes d'Alsace et de Lorraine egy fontos vallási intézmény, amelynek székhelye Strasbourgban van. A régió protestáns hagyományait képviseli, és számos történelmi templomot kezel.",
+                  "category": "religious",
+                  "coords": [
+                        7.746926,
+                        48.579007
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "A strasbourgi Église Saint-Étienne egy történelmi templom, amely ma az azonos nevű kollégium területén található. Jelentős román és gótikus építészeti elemekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        7.755854,
+                        48.583451
+                  ]
+            },
+            {
+                  "name": "Synagogue de la Paix",
+                  "text": "A Synagogue de la Paix a strasbourgi zsidó közösség vallási központja. A második világháború után épült modern stílusban, a béke és a megbékélés szimbóluma.",
+                  "category": "religious",
+                  "coords": [
+                        7.756663,
+                        48.590252
+                  ]
+            },
+            {
+                  "name": "Église Catholique Saint-Jean-Baptiste",
+                  "text": "A strasbourgi Église Catholique Saint-Jean-Baptiste a háborús pusztítás után modern stílusban épült újjá. Mindazonáltal megőrzi a hagyomány szellemét a Quai Saint-Jean negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        7.740089,
+                        48.584387
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "A strasbourgi Szent Miklós-templom egy egyszerű protestáns templom, gazdag történelemmel. Egykor Kálvin János is prédikált itt a városban való tartózkodása idején.",
+                  "category": "religious",
+                  "coords": [
+                        7.748501,
+                        48.578359
+                  ]
+            },
+            {
+                  "name": "Église protestante Sainte-Aurélie",
+                  "text": "Az Église protestante Sainte-Aurélie Strasbourg egyik legrégebbi protestáns temploma. A templomot barokk belső tere és a reformáció idején betöltött jelentősége jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        7.733272,
+                        48.581415
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice",
+                  "text": "A strasbourgi Szent Móric-templom egy lenyűgöző neogótikus templom az egykori német negyedben (Neustadt). Eredetileg az ott állomásozó katonák számára épült.",
+                  "category": "religious",
+                  "coords": [
+                        7.770346,
+                        48.584691
+                  ]
+            },
+            {
+                  "name": "Église Saint-Urbain",
+                  "text": "Az Église Saint-Urbain egy modern katolikus templom Strasbourg Neudorf negyedében. Jellegzetes betonépítészete a 20. század közepi szakrális építészet érdekes példájává teszi.",
+                  "category": "religious",
+                  "coords": [
+                        7.769153,
+                        48.568478
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc",
+                  "text": "Az Église Sainte-Jeanne d'Arc Strasbourg Port du Rhin negyedében található. Ez egy modern templom, amely a határ menti kerület lakóinak imádságos helyéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        7.794649,
+                        48.571833
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Rencontre de Strasbourg",
+                  "text": "A strasbourgi Chapelle de la Rencontre egy kis kápolna, amely elcsendesedésre hív a városi környezetben. Része az elzászi metropolisz ökumenikus sokszínűségének.",
+                  "category": "religious",
+                  "coords": [
+                        7.795727,
+                        48.57233
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Strasbourg",
+                  "text": "A strasbourgi mecset egy jelentős vallási épület, Paolo Portoghesi modern építészetével. Helyet biztosít a muszlim közösségnek az imádságra és a találkozásra.",
+                  "category": "religious",
+                  "coords": [
+                        7.737158,
+                        48.573176
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de tous les saints de Strasbourg",
+                  "text": "A strasbourgi orosz ortodox Mindenszentek-templom fehér falaival és arany kupoláival nyűgöz le. Idilli helyen, az Ill partján található, az európai intézmények közelében.",
+                  "category": "religious",
+                  "coords": [
+                        7.786792,
+                        48.59035
+                  ]
+            },
+            {
+                  "name": "Grande Île",
+                  "text": "A Grande Île Strasbourg történelmi központja, amely az UNESCO Világörökség része. Itt található a strasbourgi székesegyház és számos középkori fagerendás ház festői utcákban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.747696,
+                        48.582935
+                  ]
+            },
+            {
+                  "name": "Pont de l'Europe - Europabrücke",
+                  "text": "Ez a híd a Rajnán ível át, összekötve Strasbourgot a németországi Kehl városával. Fontos szimbolikus és gyakorlati kapocsként szolgál a két nemzet között.",
+                  "category": "landmark",
+                  "coords": [
+                        7.802037,
+                        48.573759
+                  ]
+            },
+            {
+                  "name": "Lieu d'Europe",
+                  "text": "Ez a strasbourgi múzeum az európai történelemnek és a város intézményeinek szentelt helyszín. Betekintést nyújt a látogatóknak Strasbourg európai fővárosi szerepébe.",
+                  "category": "museum",
+                  "coords": [
+                        7.777696,
+                        48.597241
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "A Strasbourgi Egyetem botanikus kertje a világ minden tájáról származó növényfajok lenyűgöző választékának ad otthont. A város szívében található nyugodt, zöld oázis kellemes sétákra hívja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767462,
+                        48.583626
+                  ]
+            },
+            {
+                  "name": "Le Vaisseau",
+                  "text": "Ez a strasbourgi tudományos központ kifejezetten gyerekeknek és fiataloknak szól, hogy játékosan fedezzék fel a technikát. Számos interaktív állomást kínál olyan témákban, mint a matematika, a fizika és a biológia.",
+                  "category": "museum",
+                  "coords": [
+                        7.772157,
+                        48.57289
+                  ]
+            },
+            {
+                  "name": "Monument Lezay-Marnésia",
+                  "text": "Ez a strasbourgi emlékmű Adrien de Lezay-Marnésia előtt tiszteleg a régióért tett szolgálataiért. Egy jellegzetes helyen található, és a helyi történelem egyik fontos tanúja.",
+                  "category": "historical",
+                  "coords": [
+                        7.753368,
+                        48.585897
+                  ]
+            },
+            {
+                  "name": "Hôtel de Neuwiller",
+                  "text": "Ez a történelmi nemesi kúria Strasbourgban a múlt századok helyi építészetének figyelemre méltó példája. Hozzájárul a városnegyed építészeti örökségéhez, és az utcáról is megcsodálható.",
+                  "category": "historical",
+                  "coords": [
+                        7.742058,
+                        48.584391
                   ]
             }
       ],
@@ -8814,6 +9264,231 @@ export const franceCities: POI[] = [
                         7.76588,
                         48.561223
                   ]
+            },
+            {
+                  "name": "Musée de Minéralogie",
+                  "text": "Muzeul de Mineralogie din Strasbourg găzduiește o colecție importantă de cristale și roci a universității. Se află în cartierul universitar istoric și expune minerale rare din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        7.762773,
+                        48.583475
+                  ]
+            },
+            {
+                  "name": "Musée de Sismologie et de Magnétisme Terrestre",
+                  "text": "Muzeul de Sismologie și Magnetism Terestru din Strasbourg este dedicat studiului cutremurelor și magnetismului terestru. Este găzduit într-o fostă stație de cercetare și expune instrumente istorice.",
+                  "category": "museum",
+                  "coords": [
+                        7.765642,
+                        48.583919
+                  ]
+            },
+            {
+                  "name": "TJP Centre Dramatique National d'Alsace",
+                  "text": "TJP Centre Dramatique National d'Alsace din Strasbourg este un teatru important pentru formele de artă contemporană. Este cunoscut în special pentru producțiile sale în domeniul teatrului de obiecte și marionete.",
+                  "category": "cultural",
+                  "coords": [
+                        7.761286,
+                        48.580606
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Chouc'routerie",
+                  "text": "Théâtre de la Chouc'routerie este o scenă populară din Strasbourg, situată într-o fostă fabrică de varză murată. Oferă un program variat, cu cabaret și piese în limba alsaciană.",
+                  "category": "cultural",
+                  "coords": [
+                        7.744847,
+                        48.577983
+                  ]
+            },
+            {
+                  "name": "Cloitre Saint-Pierre-le-Jeune",
+                  "text": "Cloastrul Saint-Pierre-le-Jeune din Strasbourg aparține uneia dintre cele mai vechi biserici din oraș. Impresionează prin coloanele sale romanice și oferă o oază de liniște în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        7.746401,
+                        48.585812
+                  ]
+            },
+            {
+                  "name": "Théâtre National de Strasbourg",
+                  "text": "Théâtre National de Strasbourg (TNS) este singurul teatru național din Franța situat în afara Parisului. Este găzduit într-o clădire istorică magnifică și include, de asemenea, o școală de actorie.",
+                  "category": "cultural",
+                  "coords": [
+                        7.755361,
+                        48.586366
+                  ]
+            },
+            {
+                  "name": "Union des Églises protestantes d'Alsace et de Lorraine",
+                  "text": "Union des Églises protestantes d'Alsace et de Lorraine este o instituție religioasă importantă cu sediul în Strasbourg. Reprezintă tradiția protestantă a regiunii și administrează numeroase lăcașuri de cult istorice.",
+                  "category": "religious",
+                  "coords": [
+                        7.746926,
+                        48.579007
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Biserica Saint-Étienne din Strasbourg este o biserică istorică, situată astăzi în incinta unui colegiu cu același nume. Prezintă elemente arhitecturale romanice și gotice importante.",
+                  "category": "religious",
+                  "coords": [
+                        7.755854,
+                        48.583451
+                  ]
+            },
+            {
+                  "name": "Synagogue de la Paix",
+                  "text": "Sinagoga Păcii este centrul religios al comunității evreiești din Strasbourg. A fost construită după cel de-al Doilea Război Mondial într-o arhitectură modernă și este un simbol al păcii și reconcilierii.",
+                  "category": "religious",
+                  "coords": [
+                        7.756663,
+                        48.590252
+                  ]
+            },
+            {
+                  "name": "Église Catholique Saint-Jean-Baptiste",
+                  "text": "Biserica Catolică Saint-Jean-Baptiste din Strasbourg a fost reconstruită într-un stil modern după distrugerea sa în război. Cu toate acestea, păstrează un spirit al tradiției în cartierul Quai Saint-Jean.",
+                  "category": "religious",
+                  "coords": [
+                        7.740089,
+                        48.584387
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Biserica Saint-Nicolas din Strasbourg este o biserică protestantă simplă, cu o istorie bogată. Aici a predicat cândva Jean Calvin în timpul șederii sale în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        7.748501,
+                        48.578359
+                  ]
+            },
+            {
+                  "name": "Église protestante Sainte-Aurélie",
+                  "text": "Biserica protestantă Sainte-Aurélie este unul dintre cele mai vechi lăcașuri de cult protestante din Strasbourg. Biserica se remarcă prin interiorul său baroc și prin importanța sa în timpul Reformei.",
+                  "category": "religious",
+                  "coords": [
+                        7.733272,
+                        48.581415
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice",
+                  "text": "Biserica Saint-Maurice din Strasbourg este o biserică neogotică impresionantă din fostul cartier german (Neustadt). A fost construită inițial pentru soldații staționați acolo.",
+                  "category": "religious",
+                  "coords": [
+                        7.770346,
+                        48.584691
+                  ]
+            },
+            {
+                  "name": "Église Saint-Urbain",
+                  "text": "Biserica Saint-Urbain este o biserică catolică modernă din cartierul Neudorf din Strasbourg. Arhitectura sa distinctivă din beton o face un exemplu interesant de construcție sacră de la mijlocul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        7.769153,
+                        48.568478
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc",
+                  "text": "Biserica Sainte-Jeanne d'Arc se află în cartierul Port du Rhin din Strasbourg. Este o biserică modernă care servește ca loc de rugăciune pentru locuitorii acestui district de frontieră.",
+                  "category": "religious",
+                  "coords": [
+                        7.794649,
+                        48.571833
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Rencontre de Strasbourg",
+                  "text": "Chapelle de la Rencontre din Strasbourg este o mică capelă care invită la meditație în mediul urban. Face parte din diversitatea ecumenică a metropolei alsaciene.",
+                  "category": "religious",
+                  "coords": [
+                        7.795727,
+                        48.57233
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Strasbourg",
+                  "text": "Moscheea din Strasbourg este o clădire religioasă importantă, cu o arhitectură modernă semnată de Paolo Portoghesi. Oferă comunității musulmane un spațiu pentru rugăciune și întâlnire.",
+                  "category": "religious",
+                  "coords": [
+                        7.737158,
+                        48.573176
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de tous les saints de Strasbourg",
+                  "text": "Biserica Ortodoxă Tuturor Sfinților din Strasbourg impresionează prin arhitectura sa tradițională cu ziduri albe și cupole aurii. Este situată idilic pe malul râului Ill, în apropierea instituțiilor europene.",
+                  "category": "religious",
+                  "coords": [
+                        7.786792,
+                        48.59035
+                  ]
+            },
+            {
+                  "name": "Grande Île",
+                  "text": "Grande Île este centrul istoric al Strasbourgului și face parte din Patrimoniul Mondial UNESCO. Găzduiește Catedrala din Strasbourg și numeroase case medievale cu structură de lemn în străduțe pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        7.747696,
+                        48.582935
+                  ]
+            },
+            {
+                  "name": "Pont de l'Europe - Europabrücke",
+                  "text": "Acest pod traversează Rinul, conectând Strasbourg de orașul german Kehl. Servește ca o legătură simbolică și practică importantă între cele două națiuni.",
+                  "category": "landmark",
+                  "coords": [
+                        7.802037,
+                        48.573759
+                  ]
+            },
+            {
+                  "name": "Lieu d'Europe",
+                  "text": "Acest muzeu din Strasbourg este dedicat istoriei europene și instituțiilor orașului. Oferă vizitatorilor perspective asupra rolului orașului Strasbourg ca capitală europeană.",
+                  "category": "museum",
+                  "coords": [
+                        7.777696,
+                        48.597241
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "Grădina Botanică a Universității din Strasbourg găzduiește o varietate impresionantă de specii de plante din întreaga lume. Oferă o oază verde liniștită în inima orașului pentru plimbări relaxante.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767462,
+                        48.583626
+                  ]
+            },
+            {
+                  "name": "Le Vaisseau",
+                  "text": "Acest centru științific din Strasbourg se adresează în special copiilor și tinerilor pentru a descoperi tehnologia prin joc. Oferă numeroase stații interactive pe teme precum matematica, fizica și biologia.",
+                  "category": "museum",
+                  "coords": [
+                        7.772157,
+                        48.57289
+                  ]
+            },
+            {
+                  "name": "Monument Lezay-Marnésia",
+                  "text": "Acest monument din Strasbourg îl onorează pe Adrien de Lezay-Marnésia pentru serviciile sale aduse regiunii. Este situat într-un loc proeminent și reprezintă o mărturie a istoriei locale.",
+                  "category": "historical",
+                  "coords": [
+                        7.753368,
+                        48.585897
+                  ]
+            },
+            {
+                  "name": "Hôtel de Neuwiller",
+                  "text": "Acest conac istoric din Strasbourg este un exemplu remarcabil de arhitectură locală din secolele trecute. Contribuie la moștenirea arhitecturală a cartierului și poate fi admirat de pe stradă.",
+                  "category": "historical",
+                  "coords": [
+                        7.742058,
+                        48.584391
+                  ]
             }
       ],
       "en": [
@@ -9013,6 +9688,231 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.76588,
                         48.561223
+                  ]
+            },
+            {
+                  "name": "Musée de Minéralogie",
+                  "text": "The Mineralogy Museum in Strasbourg houses an important university collection of crystals and rocks. Located in the historic university district, it displays rare minerals from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        7.762773,
+                        48.583475
+                  ]
+            },
+            {
+                  "name": "Musée de Sismologie et de Magnétisme Terrestre",
+                  "text": "The Museum of Seismology and Terrestrial Magnetism in Strasbourg is dedicated to the study of earthquakes and Earth's magnetism. It is housed in a former research station and displays historic instruments.",
+                  "category": "museum",
+                  "coords": [
+                        7.765642,
+                        48.583919
+                  ]
+            },
+            {
+                  "name": "TJP Centre Dramatique National d'Alsace",
+                  "text": "The TJP Centre Dramatique National d'Alsace in Strasbourg is a significant theater for contemporary art forms. It is especially known for its productions in the field of object and puppet theater.",
+                  "category": "cultural",
+                  "coords": [
+                        7.761286,
+                        48.580606
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Chouc'routerie",
+                  "text": "The Théâtre de la Chouc'routerie is a popular stage in Strasbourg housed in a former sauerkraut factory. It offers a diverse program including cabaret and plays in the Alsatian language.",
+                  "category": "cultural",
+                  "coords": [
+                        7.744847,
+                        48.577983
+                  ]
+            },
+            {
+                  "name": "Cloitre Saint-Pierre-le-Jeune",
+                  "text": "The cloister of Saint-Pierre-le-Jeune in Strasbourg belongs to one of the oldest churches in the city. It features Romanesque columns and offers an oasis of calm in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        7.746401,
+                        48.585812
+                  ]
+            },
+            {
+                  "name": "Théâtre National de Strasbourg",
+                  "text": "The Théâtre National de Strasbourg (TNS) is the only national theater in France located outside of Paris. It is housed in a magnificent historic building and also hosts a drama school.",
+                  "category": "cultural",
+                  "coords": [
+                        7.755361,
+                        48.586366
+                  ]
+            },
+            {
+                  "name": "Union des Églises protestantes d'Alsace et de Lorraine",
+                  "text": "The Union of Protestant Churches of Alsace and Lorraine is a major religious institution based in Strasbourg. It represents the region's Protestant tradition and manages numerous historic places of worship.",
+                  "category": "religious",
+                  "coords": [
+                        7.746926,
+                        48.579007
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "The Église Saint-Étienne in Strasbourg is a historic church now located within the grounds of a college of the same name. It features significant Romanesque and Gothic architectural elements.",
+                  "category": "religious",
+                  "coords": [
+                        7.755854,
+                        48.583451
+                  ]
+            },
+            {
+                  "name": "Synagogue de la Paix",
+                  "text": "The Synagogue de la Paix is the religious center of the Jewish community in Strasbourg. Built after World War II in modern architecture, it is a symbol of peace and reconciliation.",
+                  "category": "religious",
+                  "coords": [
+                        7.756663,
+                        48.590252
+                  ]
+            },
+            {
+                  "name": "Église Catholique Saint-Jean-Baptiste",
+                  "text": "The Catholic Church of Saint-Jean-Baptiste in Strasbourg was rebuilt in a modern style after its destruction during the war. It still maintains a spirit of tradition in the Quai Saint-Jean district.",
+                  "category": "religious",
+                  "coords": [
+                        7.740089,
+                        48.584387
+                  ]
+            },
+            {
+                  "name": "Saint-Nicolas' Church",
+                  "text": "Saint-Nicolas' Church in Strasbourg is a simple Protestant church with a rich history. John Calvin once preached here during his stay in the city.",
+                  "category": "religious",
+                  "coords": [
+                        7.748501,
+                        48.578359
+                  ]
+            },
+            {
+                  "name": "Église protestante Sainte-Aurélie",
+                  "text": "The Protestant Church of Sainte-Aurélie is one of the oldest Protestant places of worship in Strasbourg. The church is noted for its Baroque interior and its significance during the Reformation.",
+                  "category": "religious",
+                  "coords": [
+                        7.733272,
+                        48.581415
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice",
+                  "text": "The Église Saint-Maurice in Strasbourg is an impressive Neo-Gothic church in the former German quarter (Neustadt). It was originally built for the soldiers stationed there.",
+                  "category": "religious",
+                  "coords": [
+                        7.770346,
+                        48.584691
+                  ]
+            },
+            {
+                  "name": "Église Saint-Urbain",
+                  "text": "The Église Saint-Urbain is a modern Catholic church in the Neudorf district of Strasbourg. Its distinctive concrete architecture makes it an interesting example of mid-20th-century sacred building.",
+                  "category": "religious",
+                  "coords": [
+                        7.769153,
+                        48.568478
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc",
+                  "text": "The Église Sainte-Jeanne d'Arc is located in the Port du Rhin district of Strasbourg. It is a modern church serving as a place of prayer for the residents of this border district.",
+                  "category": "religious",
+                  "coords": [
+                        7.794649,
+                        48.571833
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Rencontre de Strasbourg",
+                  "text": "The Chapelle de la Rencontre in Strasbourg is a small chapel inviting reflection within the urban environment. It is part of the ecumenical diversity in the Alsatian metropolis.",
+                  "category": "religious",
+                  "coords": [
+                        7.795727,
+                        48.57233
+                  ]
+            },
+            {
+                  "name": "Strasbourg Mosque",
+                  "text": "The Strasbourg Mosque is a significant religious building featuring modern architecture by Paolo Portoghesi. It provides space for the Muslim community for prayer and gathering.",
+                  "category": "religious",
+                  "coords": [
+                        7.737158,
+                        48.573176
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de tous les saints de Strasbourg",
+                  "text": "The Russian Orthodox All Saints Church in Strasbourg impresses with its traditional architecture featuring white walls and golden domes. It is idyllically located on the banks of the Ill, near the European institutions.",
+                  "category": "religious",
+                  "coords": [
+                        7.786792,
+                        48.59035
+                  ]
+            },
+            {
+                  "name": "Grande Île",
+                  "text": "The Grande Île is the historic center of Strasbourg and a UNESCO World Heritage site. It hosts the Strasbourg Cathedral and numerous medieval half-timbered houses in picturesque alleys.",
+                  "category": "landmark",
+                  "coords": [
+                        7.747696,
+                        48.582935
+                  ]
+            },
+            {
+                  "name": "Pont de l'Europe - Europabrücke",
+                  "text": "This bridge spans the Rhine, connecting Strasbourg with the German city of Kehl. It serves as an important symbolic and practical link between the two nations.",
+                  "category": "landmark",
+                  "coords": [
+                        7.802037,
+                        48.573759
+                  ]
+            },
+            {
+                  "name": "Lieu d'Europe",
+                  "text": "This museum in Strasbourg is dedicated to European history and the city's institutions. It offers visitors insights into Strasbourg's role as a European capital.",
+                  "category": "museum",
+                  "coords": [
+                        7.777696,
+                        48.597241
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique",
+                  "text": "The Botanical Garden of the University of Strasbourg houses an impressive variety of plant species from around the world. It offers a peaceful green oasis in the heart of the city for relaxing walks.",
+                  "category": "landmark",
+                  "coords": [
+                        7.767462,
+                        48.583626
+                  ]
+            },
+            {
+                  "name": "Le Vaisseau",
+                  "text": "This science center in Strasbourg is specifically aimed at children and young people to discover technology through play. It offers numerous interactive stations on topics such as mathematics, physics, and biology.",
+                  "category": "museum",
+                  "coords": [
+                        7.772157,
+                        48.57289
+                  ]
+            },
+            {
+                  "name": "Monument Lezay-Marnésia",
+                  "text": "This monument in Strasbourg honors Adrien de Lezay-Marnésia for his services to the region. It is located in a prominent spot and stands as a testament to local history.",
+                  "category": "historical",
+                  "coords": [
+                        7.753368,
+                        48.585897
+                  ]
+            },
+            {
+                  "name": "Hôtel de Neuwiller",
+                  "text": "This historic manor house in Strasbourg is a remarkable example of local architecture from past centuries. It contributes to the architectural heritage of the neighborhood and can be admired from the street.",
+                  "category": "historical",
+                  "coords": [
+                        7.742058,
+                        48.584391
                   ]
             }
       ],
@@ -10085,6 +10985,78 @@ export const franceCities: POI[] = [
                         -1.511234,
                         48.60112
                   ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "Musée Maritime ist ein Museum in Le Mont Saint Michel. Die Einrichtung zeigt Sammlungen zur lokalen Geschichte oder Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -1.509991,
+                        48.635437
+                  ]
+            },
+            {
+                  "name": "Ancien Château Tombelaine",
+                  "text": "Ancien Château Tombelaine ist eine archäologische Stätte in Le Mont Saint Michel. Die Stätte enthält bedeutende Überreste aus historischen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        -1.512465,
+                        48.660186
+                  ]
+            },
+            {
+                  "name": "Jardins Sainte-Catherine",
+                  "text": "Jardins Sainte-Catherine ist ein Garten in Le Mont Saint Michel. Der Raum zeichnet sich durch gepflegte Pflanzenwelt und eine ruhige Atmosphäre aus.",
+                  "category": "park",
+                  "coords": [
+                        -1.511065,
+                        48.635503
+                  ]
+            },
+            {
+                  "name": "Mont-Saint-Michel, village",
+                  "text": "Mont-Saint-Michel, village ist ein Aussichtspunkt in Le Mont Saint Michel. Der Standort bietet einen malerischen Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -1.512288,
+                        48.617647
+                  ]
+            },
+            {
+                  "name": "Tour",
+                  "text": "Tour ist eine Ruine in Le Mont Saint Michel. Diese Überreste bieten einen Einblick in das architektonische Erbe der Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        -1.513479,
+                        48.659837
+                  ]
+            },
+            {
+                  "name": "Méandres du Mont Saint Michel",
+                  "text": "Méandres du Mont Saint Michel ist eine Sehenswürdigkeit in Le Mont Saint Michel. Es ist ein beliebter Ort für Besucher, die diesen Teil der Stadt erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.492716,
+                        48.618866
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aubert",
+                  "text": "Chapelle Saint-Aubert ist eine Kultstätte in Le Mont Saint Michel. Dieses religiöse Gebäude dient als Ort des Gebets und der lokalen Traditionen.",
+                  "category": "religious",
+                  "coords": [
+                        -1.51323,
+                        48.636501
+                  ]
+            },
+            {
+                  "name": "Tour du Nord",
+                  "text": "Tour du Nord ist ein Turm in Le Mont Saint Michel. Dieses vertikale Bauwerk ist ein markantes Element der lokalen Skyline.",
+                  "category": "tower",
+                  "coords": [
+                        -1.510443,
+                        48.636797
+                  ]
             }
       ],
       "hu": [
@@ -10095,6 +11067,78 @@ export const franceCities: POI[] = [
                   "coords": [
                         -1.511234,
                         48.60112
+                  ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "A Musée Maritime egy múzeum Le Mont Saint Michel városában. Az intézmény a helyi történelemhez vagy művészethez kapcsolódó gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -1.509991,
+                        48.635437
+                  ]
+            },
+            {
+                  "name": "Ancien Château Tombelaine",
+                  "text": "A Ancien Château Tombelaine egy régészeti lelőhely Le Mont Saint Michel városában. A terület történelmi korszakokból származó jelentős maradványokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        -1.512465,
+                        48.660186
+                  ]
+            },
+            {
+                  "name": "Jardins Sainte-Catherine",
+                  "text": "A Jardins Sainte-Catherine egy kert Le Mont Saint Michel városában. A terület gondozott növényvilággal és nyugodt környezettel várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        -1.511065,
+                        48.635503
+                  ]
+            },
+            {
+                  "name": "Mont-Saint-Michel, village",
+                  "text": "A Mont-Saint-Michel, village egy kilátópont Le Mont Saint Michel városában. A helyszín festői kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -1.512288,
+                        48.617647
+                  ]
+            },
+            {
+                  "name": "Tour",
+                  "text": "A Tour egy rom Le Mont Saint Michel városában. Ezek a maradványok betekintést nyújtanak a környék építészeti örökségébe.",
+                  "category": "historical",
+                  "coords": [
+                        -1.513479,
+                        48.659837
+                  ]
+            },
+            {
+                  "name": "Méandres du Mont Saint Michel",
+                  "text": "A Méandres du Mont Saint Michel egy látványosság Le Mont Saint Michel városában. Népszerű helyszín a város ezen részét felfedező látogatók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.492716,
+                        48.618866
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aubert",
+                  "text": "A Chapelle Saint-Aubert egy templom Le Mont Saint Michel városában. Ez a vallási épület az imádság és a helyi hagyományok helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -1.51323,
+                        48.636501
+                  ]
+            },
+            {
+                  "name": "Tour du Nord",
+                  "text": "A Tour du Nord egy torony Le Mont Saint Michel városában. Ez a függőleges építmény a helyi látkép jellegzetes eleme.",
+                  "category": "tower",
+                  "coords": [
+                        -1.510443,
+                        48.636797
                   ]
             }
       ],
@@ -10107,6 +11151,78 @@ export const franceCities: POI[] = [
                         -1.511234,
                         48.60112
                   ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "Musée Maritime este un muzeu situat în Le Mont Saint Michel. Instituția expune colecții legate de istoria sau arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        -1.509991,
+                        48.635437
+                  ]
+            },
+            {
+                  "name": "Ancien Château Tombelaine",
+                  "text": "Ancien Château Tombelaine este un sit arheologic situat în Le Mont Saint Michel. Situl conține rămășițe semnificative din perioade istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -1.512465,
+                        48.660186
+                  ]
+            },
+            {
+                  "name": "Jardins Sainte-Catherine",
+                  "text": "Jardins Sainte-Catherine este un grădină situat în Le Mont Saint Michel. Spațiul prezintă o floră îngrijită și o atmosferă linișlită.",
+                  "category": "park",
+                  "coords": [
+                        -1.511065,
+                        48.635503
+                  ]
+            },
+            {
+                  "name": "Mont-Saint-Michel, village",
+                  "text": "Mont-Saint-Michel, village este un punct de belvedere situat în Le Mont Saint Michel. Locația oferă o perspectivă pitorească asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -1.512288,
+                        48.617647
+                  ]
+            },
+            {
+                  "name": "Tour",
+                  "text": "Tour sunt ruine situate în Le Mont Saint Michel. Aceste vestigii oferă o privire asupra moștenirii arhitecturale a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        -1.513479,
+                        48.659837
+                  ]
+            },
+            {
+                  "name": "Méandres du Mont Saint Michel",
+                  "text": "Méandres du Mont Saint Michel este un atracție situat în Le Mont Saint Michel. Este un loc popular pentru vizitatorii care explorează această parte a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.492716,
+                        48.618866
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aubert",
+                  "text": "Chapelle Saint-Aubert este un lăcaș de cult situat în Le Mont Saint Michel. Această clădire religioasă servește ca loc de rugăciune și tradiții locale.",
+                  "category": "religious",
+                  "coords": [
+                        -1.51323,
+                        48.636501
+                  ]
+            },
+            {
+                  "name": "Tour du Nord",
+                  "text": "Tour du Nord este un turn situat în Le Mont Saint Michel. Această structură verticală este un element distinctiv al orizontului local.",
+                  "category": "tower",
+                  "coords": [
+                        -1.510443,
+                        48.636797
+                  ]
             }
       ],
       "en": [
@@ -10117,6 +11233,78 @@ export const franceCities: POI[] = [
                   "coords": [
                         -1.511234,
                         48.60112
+                  ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "Musée Maritime is a museum located in Le Mont Saint Michel. The facility displays collections related to the local history or art.",
+                  "category": "museum",
+                  "coords": [
+                        -1.509991,
+                        48.635437
+                  ]
+            },
+            {
+                  "name": "Ancien Château Tombelaine",
+                  "text": "Ancien Château Tombelaine is a archaeological site located in Le Mont Saint Michel. The site contains significant remnants from historical periods.",
+                  "category": "historical",
+                  "coords": [
+                        -1.512465,
+                        48.660186
+                  ]
+            },
+            {
+                  "name": "Jardins Sainte-Catherine",
+                  "text": "Jardins Sainte-Catherine is a garden located in Le Mont Saint Michel. The space features curated plant life and a tranquil atmosphere.",
+                  "category": "park",
+                  "coords": [
+                        -1.511065,
+                        48.635503
+                  ]
+            },
+            {
+                  "name": "Mont-Saint-Michel, village",
+                  "text": "Mont-Saint-Michel, village is a viewpoint located in Le Mont Saint Michel. The location provides a scenic perspective of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -1.512288,
+                        48.617647
+                  ]
+            },
+            {
+                  "name": "Tour",
+                  "text": "Tour is a ruins located in Le Mont Saint Michel. These remains offer a glimpse into the architectural heritage of the area.",
+                  "category": "historical",
+                  "coords": [
+                        -1.513479,
+                        48.659837
+                  ]
+            },
+            {
+                  "name": "Méandres du Mont Saint Michel",
+                  "text": "Méandres du Mont Saint Michel is a attraction located in Le Mont Saint Michel. It is a popular site for visitors exploring this part of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.492716,
+                        48.618866
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aubert",
+                  "text": "Chapelle Saint-Aubert is a place of worship located in Le Mont Saint Michel. This small chapel is perched on a rock at the foot of the abbey.",
+                  "category": "religious",
+                  "coords": [
+                        -1.51323,
+                        48.636501
+                  ]
+            },
+            {
+                  "name": "Tour du Nord",
+                  "text": "Tour du Nord is a tower located in Le Mont Saint Michel. This vertical structure is a distinct element of the local skyline.",
+                  "category": "tower",
+                  "coords": [
+                        -1.510443,
+                        48.636797
                   ]
             }
       ]
@@ -10430,6 +11618,213 @@ export const franceCities: POI[] = [
                         7.052268,
                         43.550537
                   ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Die Église Sainte-Catherine befindet sich in Le Cannet bei Cannes. Das sakrale Bauwerk ist ein geschütztes historisches Denkmal der Region.",
+                  "category": "religious",
+                  "coords": [
+                        7.01731,
+                        43.573205
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-des-Anges du Cannet",
+                  "text": "Diese Kapelle in Le Cannet ist für ihre historische Bedeutung und Architektur bekannt. Sie ist ein fester Bestandteil des religiösen Erbes von Cannes.",
+                  "category": "religious",
+                  "coords": [
+                        7.013894,
+                        43.573871
+                  ]
+            },
+            {
+                  "name": "Tour des Danys",
+                  "text": "Die Tour des Danys ist ein historischer Turm in Le Cannet. Das Bauwerk gilt als eines der ältesten Gebäude der Gemeinde und ist ein lokales Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.021164,
+                        43.574241
+                  ]
+            },
+            {
+                  "name": "Chapelle Bellini",
+                  "text": "Die Chapelle Bellini war einst eine Kapelle und beherbergt heute das Museum des Malers Emmanuel Bellini. Es stellt zahlreiche Werke des Künstlers aus.",
+                  "category": "museum",
+                  "coords": [
+                        7.032374,
+                        43.560392
+                  ]
+            },
+            {
+                  "name": "Musée Bonnard",
+                  "text": "Das Musée Bonnard in Le Cannet ist dem Werk des Malers Pierre Bonnard gewidmet. Es ist das weltweit erste Museum, das ausschließlich diesem Künstler gilt.",
+                  "category": "museum",
+                  "coords": [
+                        7.019931,
+                        43.576481
+                  ]
+            },
+            {
+                  "name": "Espace Miramar",
+                  "text": "Der Espace Miramar ist ein Kultur- und Veranstaltungszentrum direkt an der Croisette in Cannes. Hier finden häufig Filmvorführungen und Kunstausstellungen statt.",
+                  "category": "cultural",
+                  "coords": [
+                        7.029102,
+                        43.549028
+                  ]
+            },
+            {
+                  "name": "Théâtre Alexandre III",
+                  "text": "Das Théâtre Alexandre III ist ein charmantes Theaterhaus in Cannes. Es bietet Platz für verschiedene kulturelle Darbietungen wie Konzerte und Theaterstücke.",
+                  "category": "cultural",
+                  "coords": [
+                        7.036912,
+                        43.546586
+                  ]
+            },
+            {
+                  "name": "La Licorne",
+                  "text": "La Licorne ist ein Theater in Cannes, das besonders für sein abwechslungsreiches Programm bekannt ist. Es ist ein wichtiger Treffpunkt für Kunstliebhaber in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.981224,
+                        43.549139
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Sauveur",
+                  "text": "Diese Kapelle ist ein ruhiger Ort der Andacht im Herzen von Cannes. Das Gebäude zeichnet sich durch seine schlichte und einladende Architektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        7.021446,
+                        43.576352
+                  ]
+            },
+            {
+                  "name": "Église Protestante Libre",
+                  "text": "Die Freie Protestantische Kirche in Cannes bietet Raum für Gottesdienste und Gemeinschaft. Das Bauwerk ist Teil der religiösen Vielfalt der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.007825,
+                        43.550104
+                  ]
+            },
+            {
+                  "name": "Église Orthodoxe Russe Saint-Michel-Archange",
+                  "text": "Diese russisch-orthodoxe Kirche in Cannes ist für ihre blauen Zwiebeltürme bekannt. Sie wurde im 19. Jahrhundert für die russische Gemeinde erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        7.039683,
+                        43.546196
+                  ]
+            },
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "Die Saint George’s Church ist eine anglikanische Kirche in Cannes. Sie wurde zum Gedenken an den Duke of Albany errichtet und ist ein bedeutendes Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        7.040852,
+                        43.551557
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Pins",
+                  "text": "Die Église Notre-Dame-des-Pins liegt in einem ruhigen Viertel von Cannes. Die Kirche besticht durch ihre Lage inmitten von Pinienbäumen.",
+                  "category": "religious",
+                  "coords": [
+                        7.038138,
+                        43.546167
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur du Prado",
+                  "text": "Diese dem Heiligsten Herzen Jesu gewidmete Kirche befindet sich im Stadtteil Prado. Sie ist ein wichtiger Anlaufpunkt für die katholische Gemeinde in Cannes.",
+                  "category": "religious",
+                  "coords": [
+                        7.024376,
+                        43.558091
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Die Église Saint-Paul ist ein sakrales Bauwerk in Cannes. Die Kirche bietet eine besinnliche Atmosphäre für Gottesdienste und persönliche Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        7.021499,
+                        43.562214
+                  ]
+            },
+            {
+                  "name": "Église du Christ-Roi",
+                  "text": "Die Christkönigskirche ist ein modernes religiöses Gebäude in Cannes. Sie dient der lokalen Bevölkerung als Ort für christliche Feiern und Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        7.016325,
+                        43.563601
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Die Église Saint-Joseph ist eine katholische Kirche in Cannes. Sie ist ein fester Bestandteil des religiösen und architektonischen Stadtbildes.",
+                  "category": "religious",
+                  "coords": [
+                        7.007252,
+                        43.557105
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Die Église Saint-Charles ist ein religiöses Denkmal in Cannes. Die Kirche lädt Besucher dazu ein, die spirituelle Seite der Stadt am Mittelmeer zu entdecken.",
+                  "category": "religious",
+                  "coords": [
+                        7.006153,
+                        43.56912
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Antoine",
+                  "text": "Diese dem heiligen Antonius gewidmete Kapelle ist ein friedvoller Ort in Cannes. Sie wird oft von Gläubigen für stille Momente der Einkehr aufgesucht.",
+                  "category": "religious",
+                  "coords": [
+                        7.045998,
+                        43.564516
+                  ]
+            },
+            {
+                  "name": "Observatoire de Super-Cannes",
+                  "text": "Der Aussichtsturm von Super-Cannes bietet einen Panoramablick über die Bucht von Cannes und die Lérins-Inseln. Er befindet sich auf einem der Hügel oberhalb der Stadt.",
+                  "category": "tower",
+                  "coords": [
+                        7.04459,
+                        43.557533
+                  ]
+            },
+            {
+                  "name": "Parc du Paradou",
+                  "text": "Der Parc du Paradou ist ein geschütztes Naturgebiet in Cannes. Er bietet Wanderwege und eine vielfältige mediterrane Flora für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        7.056141,
+                        43.558206
+                  ]
+            },
+            {
+                  "name": "Les jardins de la Roseraie",
+                  "text": "Diese Rosengärten sind eine grüne Oase in der Nähe der Croisette in Cannes. Besucher können hier eine Vielzahl von Blumen in einer gepflegten Parkanlage bewundern.",
+                  "category": "park",
+                  "coords": [
+                        7.033535,
+                        43.544686
+                  ]
+            },
+            {
+                  "name": "Promenade de la Croisette",
+                  "text": "Die Promenade de la Croisette ist der berühmteste Boulevard in Cannes. Entlang der Bucht bietet sie Gärten, Luxushotels und einen weiten Blick auf das Meer.",
+                  "category": "park",
+                  "coords": [
+                        7.034583,
+                        43.541526
+                  ]
             }
       ],
       "hu": [
@@ -10630,6 +12025,213 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.052268,
                         43.550537
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Az Église Sainte-Catherine Le Cannet-ben, Cannes mellett található. A szakrális épület a régió védett történelmi műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        7.01731,
+                        43.573205
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-des-Anges du Cannet",
+                  "text": "Ez a Le Cannet-i kápolna történelmi jelentőségéről és építészetéről ismert. Cannes vallási örökségének szerves részét képezi.",
+                  "category": "religious",
+                  "coords": [
+                        7.013894,
+                        43.573871
+                  ]
+            },
+            {
+                  "name": "Tour des Danys",
+                  "text": "A Tour des Danys egy történelmi torony Le Cannet-ben. Az építmény a település egyik legrégebbi épületének számít és helyi jelkép.",
+                  "category": "landmark",
+                  "coords": [
+                        7.021164,
+                        43.574241
+                  ]
+            },
+            {
+                  "name": "Chapelle Bellini",
+                  "text": "A Chapelle Bellini egykor kápolna volt, ma pedig Emmanuel Bellini festőművész múzeumának ad otthont. A művész számos alkotását mutatják be itt.",
+                  "category": "museum",
+                  "coords": [
+                        7.032374,
+                        43.560392
+                  ]
+            },
+            {
+                  "name": "Musée Bonnard",
+                  "text": "A Le Cannet-ben található Musée Bonnard Pierre Bonnard festőművész munkásságának szentelték. Ez a világ első múzeuma, amely kizárólag ennek a művésznek a műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.019931,
+                        43.576481
+                  ]
+            },
+            {
+                  "name": "Espace Miramar",
+                  "text": "Az Espace Miramar egy kulturális és rendezvényközpont a cannes-i Croisette sétányon. Gyakran tartanak itt filmvetítéseket és művészeti kiállításokat.",
+                  "category": "cultural",
+                  "coords": [
+                        7.029102,
+                        43.549028
+                  ]
+            },
+            {
+                  "name": "Théâtre Alexandre III",
+                  "text": "A Théâtre Alexandre III egy bájos színházépület Cannes-ban. Különböző kulturális előadásoknak, például koncerteknek és színdaraboknak ad helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.036912,
+                        43.546586
+                  ]
+            },
+            {
+                  "name": "La Licorne",
+                  "text": "A La Licorne egy cannes-i színház, amely különösen változatos programjáról ismert. A város művészetkedvelőinek fontos találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        6.981224,
+                        43.549139
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Sauveur",
+                  "text": "Ez a kápolna a nyugodt áhítat helyszíne Cannes szívében. Az épületet egyszerű és hívogató építészet jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        7.021446,
+                        43.576352
+                  ]
+            },
+            {
+                  "name": "Église Protestante Libre",
+                  "text": "A cannes-i Szabad Protestáns Templom istentiszteleteknek és közösségi alkalmaknak ad helyet. Az épület a város vallási sokszínűségének része.",
+                  "category": "religious",
+                  "coords": [
+                        7.007825,
+                        43.550104
+                  ]
+            },
+            {
+                  "name": "Église Orthodoxe Russe Saint-Michel-Archange",
+                  "text": "Ez a cannes-i orosz ortodox templom kék hagymakupoláiról ismert. A 19. században épült az orosz közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.039683,
+                        43.546196
+                  ]
+            },
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "A Saint George’s Church egy anglikán templom Cannes-ban. Albany hercegének emlékére épült, és jelentős építészeti alkotás.",
+                  "category": "religious",
+                  "coords": [
+                        7.040852,
+                        43.551557
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Pins",
+                  "text": "Az Église Notre-Dame-des-Pins Cannes egyik nyugodt negyedében található. A templom a fenyőfák közötti elhelyezkedésével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        7.038138,
+                        43.546167
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur du Prado",
+                  "text": "Ez a Jézus Szent Szívének szentelt templom a Prado negyedben található. A cannes-i katolikus közösség egyik fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        7.024376,
+                        43.558091
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Az Église Saint-Paul egy szakrális épület Cannes-ban. A templom meghitt légkört biztosít az istentiszteletekhez és a személyes imákhoz.",
+                  "category": "religious",
+                  "coords": [
+                        7.021499,
+                        43.562214
+                  ]
+            },
+            {
+                  "name": "Église du Christ-Roi",
+                  "text": "A Krisztus Király templom egy modern vallási épület Cannes-ban. A helyi lakosság számára keresztény ünnepségek és áhítat helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        7.016325,
+                        43.563601
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Az Église Saint-Joseph egy katolikus templom Cannes-ban. Szerves részét képezi a város vallási és építészeti képének.",
+                  "category": "religious",
+                  "coords": [
+                        7.007252,
+                        43.557105
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Az Église Saint-Charles egy vallási műemlék Cannes-ban. A templom arra invitálja a látogatókat, hogy ismerjék meg a földközi-tengeri város spirituális oldalát.",
+                  "category": "religious",
+                  "coords": [
+                        7.006153,
+                        43.56912
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Antoine",
+                  "text": "Ez a Szent Antalnak szentelt kápolna békés helyszín Cannes-ban. A hívők gyakran keresik fel csendes elmélyülés céljából.",
+                  "category": "religious",
+                  "coords": [
+                        7.045998,
+                        43.564516
+                  ]
+            },
+            {
+                  "name": "Observatoire de Super-Cannes",
+                  "text": "A Super-Cannes kilátótorony panorámás kilátást nyújt a cannes-i öbölre és a Lérins-szigetekre. A város feletti egyik dombon található.",
+                  "category": "tower",
+                  "coords": [
+                        7.04459,
+                        43.557533
+                  ]
+            },
+            {
+                  "name": "Parc du Paradou",
+                  "text": "A Parc du Paradou egy védett természeti terület Cannes-ban. Túraútvonalakat és változatos mediterrán flórát kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        7.056141,
+                        43.558206
+                  ]
+            },
+            {
+                  "name": "Les jardins de la Roseraie",
+                  "text": "Ezek a rózsakertek zöld oázist jelentenek a cannes-i Croisette sétány közelében. A látogatók számos virágfajtát csodálhatnak meg a gondozott parkban.",
+                  "category": "park",
+                  "coords": [
+                        7.033535,
+                        43.544686
+                  ]
+            },
+            {
+                  "name": "Promenade de la Croisette",
+                  "text": "A Promenade de la Croisette Cannes leghíresebb sugárútja. Az öböl mentén kertek, luxusszállodák és tágas tengeri kilátás várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        7.034583,
+                        43.541526
                   ]
             }
       ],
@@ -10832,6 +12434,213 @@ export const franceCities: POI[] = [
                         7.052268,
                         43.550537
                   ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Biserica Sainte-Catherine se află în Le Cannet, lângă Cannes. Edificiul religios este un monument istoric protejat al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        7.01731,
+                        43.573205
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-des-Anges du Cannet",
+                  "text": "Această capelă din Le Cannet este cunoscută pentru importanța sa istorică și arhitectură. Face parte integrantă din patrimoniul religios din Cannes.",
+                  "category": "religious",
+                  "coords": [
+                        7.013894,
+                        43.573871
+                  ]
+            },
+            {
+                  "name": "Tour des Danys",
+                  "text": "Tour des Danys este un turn istoric situat în Le Cannet. Structura este considerată una dintre cele mai vechi clădiri din comună și este un punct de reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        7.021164,
+                        43.574241
+                  ]
+            },
+            {
+                  "name": "Chapelle Bellini",
+                  "text": "Chapelle Bellini a fost odinioară o capelă, iar astăzi găzduiește muzeul pictorului Emmanuel Bellini. Acesta expune numeroase lucrări ale artistului.",
+                  "category": "museum",
+                  "coords": [
+                        7.032374,
+                        43.560392
+                  ]
+            },
+            {
+                  "name": "Musée Bonnard",
+                  "text": "Muzeul Bonnard din Le Cannet este dedicat operei pictorului Pierre Bonnard. Este primul muzeu din lume consacrat exclusiv acestui artist.",
+                  "category": "museum",
+                  "coords": [
+                        7.019931,
+                        43.576481
+                  ]
+            },
+            {
+                  "name": "Espace Miramar",
+                  "text": "Espace Miramar este un centru cultural și de evenimente situat chiar pe Croisette în Cannes. Aici au loc frecvent proiecții de filme și expoziții de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        7.029102,
+                        43.549028
+                  ]
+            },
+            {
+                  "name": "Théâtre Alexandre III",
+                  "text": "Théâtre Alexandre III este o sală de teatru fermecătoare situată în Cannes. Aceasta găzduiește diverse spectacole culturale, cum ar fi concerte și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        7.036912,
+                        43.546586
+                  ]
+            },
+            {
+                  "name": "La Licorne",
+                  "text": "La Licorne este un teatru din Cannes, cunoscut în special pentru programul său variat. Este un loc de întâlnire important pentru iubitorii de artă din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        6.981224,
+                        43.549139
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Sauveur",
+                  "text": "Această capelă este un loc liniștit de rugăciune în inima orașului Cannes. Clădirea se remarcă prin arhitectura sa simplă și primitoare.",
+                  "category": "religious",
+                  "coords": [
+                        7.021446,
+                        43.576352
+                  ]
+            },
+            {
+                  "name": "Église Protestante Libre",
+                  "text": "Biserica Protestantă Liberă din Cannes oferă spațiu pentru slujbe și activități comunitare. Edificiul face parte din diversitatea religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        7.007825,
+                        43.550104
+                  ]
+            },
+            {
+                  "name": "Église Orthodoxe Russe Saint-Michel-Archange",
+                  "text": "Această biserică ortodoxă rusă din Cannes este cunoscută pentru cupolele sale albastre în formă de ceapă. A fost construită în secolul al XIX-lea pentru comunitatea rusă.",
+                  "category": "religious",
+                  "coords": [
+                        7.039683,
+                        43.546196
+                  ]
+            },
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "Biserica Saint George este o biserică anglicană situată în Cannes. A fost construită în memoria Ducelui de Albany și este un edificiu important.",
+                  "category": "religious",
+                  "coords": [
+                        7.040852,
+                        43.551557
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Pins",
+                  "text": "Biserica Notre-Dame-des-Pins este situată într-un cartier liniștit din Cannes. Lăcașul de cult impresionează prin amplasarea sa printre pini.",
+                  "category": "religious",
+                  "coords": [
+                        7.038138,
+                        43.546167
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur du Prado",
+                  "text": "Această biserică dedicată Preasfintei Inimi a lui Isus se află în cartierul Prado. Este un punct important pentru comunitatea catolică din Cannes.",
+                  "category": "religious",
+                  "coords": [
+                        7.024376,
+                        43.558091
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Biserica Saint-Paul este un edificiu religios situat în Cannes. Lăcașul de cult oferă o atmosferă meditativă pentru slujbe și rugăciuni personale.",
+                  "category": "religious",
+                  "coords": [
+                        7.021499,
+                        43.562214
+                  ]
+            },
+            {
+                  "name": "Église du Christ-Roi",
+                  "text": "Biserica Cristos Rege este o clădire religioasă modernă din Cannes. Aceasta servește populației locale ca loc pentru celebrări creștine și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        7.016325,
+                        43.563601
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Biserica Saint-Joseph este o biserică catolică situată în Cannes. Aceasta face parte integrantă din peisajul religios și arhitectural al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        7.007252,
+                        43.557105
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Biserica Saint-Charles este un monument religios din Cannes. Lăcașul de cult invită vizitatorii să descopere latura spirituală a orașului de la Marea Mediterană.",
+                  "category": "religious",
+                  "coords": [
+                        7.006153,
+                        43.56912
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Antoine",
+                  "text": "Această capelă dedicată Sfântului Anton este un loc liniștit din Cannes. Este adesea frecventată de credincioși pentru momente de liniște și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        7.045998,
+                        43.564516
+                  ]
+            },
+            {
+                  "name": "Observatoire de Super-Cannes",
+                  "text": "Turnul de observație din Super-Cannes oferă o vedere panoramică asupra golfului Cannes și a insulelor Lérins. Acesta se află pe unul dintre dealurile de deasupra orașului.",
+                  "category": "tower",
+                  "coords": [
+                        7.04459,
+                        43.557533
+                  ]
+            },
+            {
+                  "name": "Parc du Paradou",
+                  "text": "Parc du Paradou este o arie naturală protejată situată în Cannes. Acesta oferă trasee de drumeție și o floră mediteraneană diversă pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        7.056141,
+                        43.558206
+                  ]
+            },
+            {
+                  "name": "Les jardins de la Roseraie",
+                  "text": "Aceste grădini de trandafiri sunt o oază de verdeață lângă Croisette din Cannes. Vizitatorii pot admira o varietate de flori într-un parc bine întreținut.",
+                  "category": "park",
+                  "coords": [
+                        7.033535,
+                        43.544686
+                  ]
+            },
+            {
+                  "name": "Promenade de la Croisette",
+                  "text": "Promenade de la Croisette este cel mai faimos bulevard din Cannes. De-a lungul golfului, acesta oferă grădini, hoteluri de lux și o vedere largă spre mare.",
+                  "category": "park",
+                  "coords": [
+                        7.034583,
+                        43.541526
+                  ]
             }
       ],
       "en": [
@@ -11032,6 +12841,213 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.052268,
                         43.550537
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "The Église Sainte-Catherine is located in Le Cannet, near Cannes. The religious building is a protected historic monument in the region.",
+                  "category": "religious",
+                  "coords": [
+                        7.01731,
+                        43.573205
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-des-Anges du Cannet",
+                  "text": "This chapel in Le Cannet is known for its historical significance and architecture. It is an integral part of the religious heritage of Cannes.",
+                  "category": "religious",
+                  "coords": [
+                        7.013894,
+                        43.573871
+                  ]
+            },
+            {
+                  "name": "Tour des Danys",
+                  "text": "The Tour des Danys is a historic tower in Le Cannet. The structure is considered one of the oldest buildings in the community and is a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        7.021164,
+                        43.574241
+                  ]
+            },
+            {
+                  "name": "Chapelle Bellini",
+                  "text": "The Chapelle Bellini was once a chapel and now houses the museum of painter Emmanuel Bellini. It exhibits many of the artist's works.",
+                  "category": "museum",
+                  "coords": [
+                        7.032374,
+                        43.560392
+                  ]
+            },
+            {
+                  "name": "Musée Bonnard",
+                  "text": "The Musée Bonnard in Le Cannet is dedicated to the work of painter Pierre Bonnard. It is the first museum in the world devoted entirely to this artist.",
+                  "category": "museum",
+                  "coords": [
+                        7.019931,
+                        43.576481
+                  ]
+            },
+            {
+                  "name": "Espace Miramar",
+                  "text": "Espace Miramar is a cultural and events center located right on the Croisette in Cannes. It frequently hosts film screenings and art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        7.029102,
+                        43.549028
+                  ]
+            },
+            {
+                  "name": "Théâtre Alexandre III",
+                  "text": "The Théâtre Alexandre III is a charming theatre venue in Cannes. It hosts various cultural performances, including concerts and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        7.036912,
+                        43.546586
+                  ]
+            },
+            {
+                  "name": "La Licorne",
+                  "text": "La Licorne is a theatre in Cannes especially known for its diverse programming. It is an important meeting place for art lovers in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        6.981224,
+                        43.549139
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Sauveur",
+                  "text": "This chapel is a quiet place of worship in the heart of Cannes. The building is characterized by its simple and welcoming architecture.",
+                  "category": "religious",
+                  "coords": [
+                        7.021446,
+                        43.576352
+                  ]
+            },
+            {
+                  "name": "Église Protestante Libre",
+                  "text": "The Free Protestant Church in Cannes provides a space for worship and community. The building is part of the city's religious diversity.",
+                  "category": "religious",
+                  "coords": [
+                        7.007825,
+                        43.550104
+                  ]
+            },
+            {
+                  "name": "Église Orthodoxe Russe Saint-Michel-Archange",
+                  "text": "This Russian Orthodox church in Cannes is known for its blue onion domes. It was built in the 19th century to serve the Russian community.",
+                  "category": "religious",
+                  "coords": [
+                        7.039683,
+                        43.546196
+                  ]
+            },
+            {
+                  "name": "Saint George’s Church",
+                  "text": "Saint George’s Church is an Anglican church in Cannes. It was built in memory of the Duke of Albany and stands as a significant building.",
+                  "category": "religious",
+                  "coords": [
+                        7.040852,
+                        43.551557
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Pins",
+                  "text": "The Église Notre-Dame-des-Pins is located in a quiet neighborhood of Cannes. The church is notable for its setting among pine trees.",
+                  "category": "religious",
+                  "coords": [
+                        7.038138,
+                        43.546167
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur du Prado",
+                  "text": "This church dedicated to the Sacred Heart of Jesus is located in the Prado district. It is an important site for the Catholic community in Cannes.",
+                  "category": "religious",
+                  "coords": [
+                        7.024376,
+                        43.558091
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "The Église Saint-Paul is a religious building in Cannes. The church offers a reflective atmosphere for services and personal prayers.",
+                  "category": "religious",
+                  "coords": [
+                        7.021499,
+                        43.562214
+                  ]
+            },
+            {
+                  "name": "Église du Christ-Roi",
+                  "text": "The Church of Christ the King is a modern religious building in Cannes. It serves the local population as a place for Christian celebrations and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        7.016325,
+                        43.563601
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "The Église Saint-Joseph is a Catholic church in Cannes. It is a well-established part of the city's religious and architectural landscape.",
+                  "category": "religious",
+                  "coords": [
+                        7.007252,
+                        43.557105
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "The Église Saint-Charles is a religious monument in Cannes. The church invites visitors to explore the spiritual side of this Mediterranean city.",
+                  "category": "religious",
+                  "coords": [
+                        7.006153,
+                        43.56912
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Antoine",
+                  "text": "This chapel dedicated to Saint Anthony is a peaceful site in Cannes. It is often visited by worshippers for quiet moments of reflection.",
+                  "category": "religious",
+                  "coords": [
+                        7.045998,
+                        43.564516
+                  ]
+            },
+            {
+                  "name": "Observatoire de Super-Cannes",
+                  "text": "The Super-Cannes observation tower offers panoramic views over the Bay of Cannes and the Lérins Islands. It is located on one of the hills above the city.",
+                  "category": "tower",
+                  "coords": [
+                        7.04459,
+                        43.557533
+                  ]
+            },
+            {
+                  "name": "Parc du Paradou",
+                  "text": "The Parc du Paradou is a protected natural area in Cannes. It offers hiking trails and a diverse Mediterranean flora for nature enthusiasts.",
+                  "category": "natural",
+                  "coords": [
+                        7.056141,
+                        43.558206
+                  ]
+            },
+            {
+                  "name": "Les jardins de la Roseraie",
+                  "text": "These rose gardens are a green oasis near the Croisette in Cannes. Visitors can admire a variety of flowers in a well-maintained park setting.",
+                  "category": "park",
+                  "coords": [
+                        7.033535,
+                        43.544686
+                  ]
+            },
+            {
+                  "name": "Promenade de la Croisette",
+                  "text": "The Promenade de la Croisette is the most famous boulevard in Cannes. Along the bay, it offers gardens, luxury hotels, and expansive views of the sea.",
+                  "category": "park",
+                  "coords": [
+                        7.034583,
+                        43.541526
                   ]
             }
       ],

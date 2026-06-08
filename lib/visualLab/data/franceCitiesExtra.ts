@@ -249,6 +249,231 @@ const citySeeds: CitySeed[] = [
                         -1.691529,
                         48.090464
                   ]
+            },
+            {
+                  "name": "Hôtel de Chalain",
+                  "text": "Das Grand hôtel de Chalain ist ein prachtvolles historisches Gebäude in Rennes. Es ist ein bedeutendes Beispiel für die aristokratische Architektur des 18. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        -1.676314,
+                        48.111978
+                  ]
+            },
+            {
+                  "name": "Hôtel de Courcy",
+                  "text": "Das Hôtel de Courcy in Rennes ist ein elegantes Stadthaus aus dem 19. Jahrhundert. Heute beherbergt es den Sitz des Regionalrats der Bretagne.",
+                  "category": "historical",
+                  "coords": [
+                        -1.673278,
+                        48.11288
+                  ]
+            },
+            {
+                  "name": "Théâtre national de Bretagne",
+                  "text": "Das Théâtre national de Bretagne in Rennes ist ein bedeutendes Kulturzentrum in Frankreich. Es bietet ein anspruchsvolles Programm aus Theater, Tanz und Film.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.672511,
+                        48.107933
+                  ]
+            },
+            {
+                  "name": "Théâtre du Vieux Saint-Étienne",
+                  "text": "Dieses Theater in Rennes ist in den Mauern einer ehemaligen Kirche untergebracht. Die außergewöhnliche Architektur bietet einen einzigartigen Rahmen für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.683876,
+                        48.115655
+                  ]
+            },
+            {
+                  "name": "La Criée centre d'art contemporain",
+                  "text": "La Criée ist ein Zentrum für zeitgenössische Kunst in Rennes, das in einer ehemaligen Markthalle untergebracht ist. Es präsentiert innovative Ausstellungen moderner Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.679632,
+                        48.108094
+                  ]
+            },
+            {
+                  "name": "Le Liberté",
+                  "text": "Le Liberté ist ein bedeutendes Veranstaltungszentrum im Herzen von Rennes. Es beherbergt Konzerte, Sportevents und kulturelle Shows in einem modernen Rahmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.676854,
+                        48.106862
+                  ]
+            },
+            {
+                  "name": "Centre chorégraphique national de Rennes et de Bretagne",
+                  "text": "Dieses nationale Choreografiezentrum in Rennes widmet sich dem zeitgenössischen Tanz. Es ist ein wichtiger Ort für künstlerisches Schaffen und Aufführungen in der Bretagne.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.675802,
+                        48.114584
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse-de-l'Enfant-Jésus",
+                  "text": "Diese Kirche in Rennes ist für ihre markante Architektur aus der Zwischenkriegszeit bekannt. Besucher können die künstlerische Innengestaltung dieses religiösen Bauwerks bewundern.",
+                  "category": "religious",
+                  "coords": [
+                        -1.667373,
+                        48.095166
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hélier",
+                  "text": "Die Kirche Saint-Hélier ist ein historisches Sakralbauwerk im Osten von Rennes. Sie dient der lokalen Gemeinde als Ort der Besinnung und des Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        -1.661143,
+                        48.102987
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Die Kirche Saint-Étienne in Rennes war ursprünglich Teil eines Klosters und besticht durch ihre klassische Fassade. Das Gebäude ist ein bedeutendes Zeugnis der religiösen Geschichte der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.686408,
+                        48.11286
+                  ]
+            },
+            {
+                  "name": "Église Saint-Germain",
+                  "text": "Saint-Germain ist eine spätgotische Kirche im Zentrum von Rennes nahe der Vilaine. Sie ist bekannt für ihre prächtigen Glasmalereien und die historische Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.676699,
+                        48.111064
+                  ]
+            },
+            {
+                  "name": "Viaduc de la Poterie",
+                  "text": "Das Viadukt von La Poterie ist ein architektonisch interessantes Brückenbauwerk für die Metro von Rennes. Es bietet einen weiten Blick über das südliche Stadtgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.645569,
+                        48.087184
+                  ]
+            },
+            {
+                  "name": "Viaduc de Pontchaillou",
+                  "text": "Dieses Viadukt führt die Metrolinie über das Tal in der Nähe des Krankenhauses Pontchaillou. Es ist ein markantes Beispiel für die moderne Verkehrsinfrastruktur der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.695656,
+                        48.121296
+                  ]
+            },
+            {
+                  "name": "Parc de Bréquigny",
+                  "text": "Der Parc de Bréquigny ist eine weitläufige Grünanlage im Süden von Rennes. Er bietet Spazierwege, Spielbereiche und einen malerischen Teich zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        -1.68631,
+                        48.082172
+                  ]
+            },
+            {
+                  "name": "Parc des Tanneurs",
+                  "text": "Der Parc des Tanneurs liegt am Ufer der Vilaine und besticht durch seine natürliche Schönheit. Es ist ein ruhiger Ort für Spaziergänge unter alten Bäumen.",
+                  "category": "park",
+                  "coords": [
+                        -1.678701,
+                        48.120128
+                  ]
+            },
+            {
+                  "name": "Parc Hamelin Oberthür",
+                  "text": "Der Parc Oberthür ist ein prächtiger Landschaftspark in Rennes mit einer Vielfalt an seltenen Pflanzen. Er lädt Besucher zu entspannten Stunden in einer eleganten Gartenanlage ein.",
+                  "category": "park",
+                  "coords": [
+                        -1.659727,
+                        48.112696
+                  ]
+            },
+            {
+                  "name": "Square de la Motte",
+                  "text": "Der Square de la Motte ist eine öffentliche Gartenanlage auf einer historischen Anhöhe in Rennes. Die gepflegten Wege und Statuen machen ihn zu einem charmanten Ziel für Fußgänger.",
+                  "category": "park",
+                  "coords": [
+                        -1.674379,
+                        48.112952
+                  ]
+            },
+            {
+                  "name": "Parc de Villejean",
+                  "text": "Dieser Park im Stadtteil Villejean bietet den Bewohnern von Rennes weite Rasenflächen und Sportmöglichkeiten. Er ist ein beliebter Treffpunkt für Studenten und Familien.",
+                  "category": "park",
+                  "coords": [
+                        -1.721393,
+                        48.122468
+                  ]
+            },
+            {
+                  "name": "Plages de Baud",
+                  "text": "Die Plages de Baud sind ein modern gestalteter Park am Flussufer der Vilaine in Rennes. Das Areal bietet Erholungsflächen, Terrassen und einen direkten Zugang zum Wasser.",
+                  "category": "park",
+                  "coords": [
+                        -1.650305,
+                        48.109062
+                  ]
+            },
+            {
+                  "name": "Parc de Beauregard-Quincé",
+                  "text": "Der Parc de Beauregard-Quincé ist eine zeitgenössische Grünanlage mit Kunstinstallationen im Norden von Rennes. Er verbindet moderne Stadtplanung mit großzügigen Naturräumen.",
+                  "category": "park",
+                  "coords": [
+                        -1.702776,
+                        48.135713
+                  ]
+            },
+            {
+                  "name": "Musée des Transmissions",
+                  "text": "Das Musée des Transmissions in Rennes widmet sich der Geschichte der Militärkommunikation. Besucher erfahren hier Wissenswertes über technische Entwicklungen und Funktechnik.",
+                  "category": "museum",
+                  "coords": [
+                        -1.626676,
+                        48.122146
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Parcheminerie",
+                  "text": "Das Théâtre de la Parcheminerie ist ein intimer Veranstaltungsort in einer ehemaligen Pergamentfabrik in Rennes. Es bietet ein vielfältiges Programm zeitgenössischer Bühnenkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.681088,
+                        48.109023
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "Die Kirche Saint-Luc ist ein moderner Sakralbau im Westen von Rennes. Sie dient als religiöser Treffpunkt für die Bewohner des umliegenden Stadtteils.",
+                  "category": "religious",
+                  "coords": [
+                        -1.707551,
+                        48.118808
+                  ]
+            },
+            {
+                  "name": "Église réformée de Rennes",
+                  "text": "Die Église réformée de Rennes ist ein protestantischer Tempel im Stadtzentrum. Das schlichte Bauwerk ist ein Ort für Gottesdienste und Gemeindearbeit.",
+                  "category": "religious",
+                  "coords": [
+                        -1.678635,
+                        48.107762
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Die Kirche Saint-Laurent befindet sich im Norden von Rennes und ist ein klassisches Beispiel lokaler Sakralarchitektur. Sie ist ein wichtiger Teil des sozialen Lebens im Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        -1.656432,
+                        48.138828
+                  ]
             }
       ],
       "hu": [
@@ -455,6 +680,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.691529,
                         48.090464
+                  ]
+            },
+            {
+                  "name": "Hôtel de Chalain",
+                  "text": "A Grand hôtel de Chalain egy pompás történelmi épület Rennes-ben. A 18. századi arisztokrata építészet egyik jelentős példája.",
+                  "category": "historical",
+                  "coords": [
+                        -1.676314,
+                        48.111978
+                  ]
+            },
+            {
+                  "name": "Hôtel de Courcy",
+                  "text": "A rennes-i Hôtel de Courcy egy elegáns, 19. századi városi kúria. Ma Bretagne regionális tanácsának székhelye található benne.",
+                  "category": "historical",
+                  "coords": [
+                        -1.673278,
+                        48.11288
+                  ]
+            },
+            {
+                  "name": "Théâtre national de Bretagne",
+                  "text": "A rennes-i Théâtre national de Bretagne Franciaország egyik jelentős kulturális központja. Igényes színházi, táncos és filmes programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.672511,
+                        48.107933
+                  ]
+            },
+            {
+                  "name": "Théâtre du Vieux Saint-Étienne",
+                  "text": "Ez a rennes-i színház egy egykori templom falaiban kapott helyet. A különleges építészet egyedi keretet biztosít az előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.683876,
+                        48.115655
+                  ]
+            },
+            {
+                  "name": "La Criée centre d'art contemporain",
+                  "text": "A La Criée egy kortárs művészeti központ Rennes-ben, amely egy egykori vásárcsarnokban működik. Modern művészek innovatív kiállításait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.679632,
+                        48.108094
+                  ]
+            },
+            {
+                  "name": "Le Liberté",
+                  "text": "A Le Liberté Rennes szívében található jelentős rendezvényközpont. Koncerteknek, sporteseményeknek és kulturális előadásoknak ad otthont modern környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.676854,
+                        48.106862
+                  ]
+            },
+            {
+                  "name": "Centre chorégraphique national de Rennes et de Bretagne",
+                  "text": "Ez a rennes-i nemzeti koreográfiai központ a kortárs táncnak szentelt intézmény. A művészeti alkotás és az előadások fontos helyszíne Bretagne-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.675802,
+                        48.114584
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse-de-l'Enfant-Jésus",
+                  "text": "Ez a rennes-i templom a két világháború közötti időszak jellegzetes építészetéről ismert. A látogatók megcsodálhatják az egyházi épület művészi belső kialakítását.",
+                  "category": "religious",
+                  "coords": [
+                        -1.667373,
+                        48.095166
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hélier",
+                  "text": "A Saint-Hélier templom egy történelmi egyházi épület Rennes keleti részén. A helyi közösség számára az elmélkedés és az imádság helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -1.661143,
+                        48.102987
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "A rennes-i Saint-Étienne templom eredetileg egy kolostor része volt, és klasszikus homlokzatával hívja fel magára a figyelmet. Az épület a város vallástörténetének jelentős emléke.",
+                  "category": "religious",
+                  "coords": [
+                        -1.686408,
+                        48.11286
+                  ]
+            },
+            {
+                  "name": "Église Saint-Germain",
+                  "text": "A Saint-Germain egy késő gótikus templom Rennes központjában, a Vilaine folyó közelében. Pompás üvegablakairól és történelmi hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.676699,
+                        48.111064
+                  ]
+            },
+            {
+                  "name": "Viaduc de la Poterie",
+                  "text": "A La Poterie viadukt a rennes-i metró építészetileg érdekes hídja. Széles kilátást nyújt a város déli területeire.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.645569,
+                        48.087184
+                  ]
+            },
+            {
+                  "name": "Viaduc de Pontchaillou",
+                  "text": "Ez a viadukt a metróvonalat vezeti át a völgy felett a Pontchaillou kórház közelében. A város modern közlekedési infrastruktúrájának jellegzetes példája.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.695656,
+                        48.121296
+                  ]
+            },
+            {
+                  "name": "Parc de Bréquigny",
+                  "text": "A Parc de Bréquigny egy kiterjedt zöldterület Rennes déli részén. Sétautakat, játszótereket és egy festői tavat kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        -1.68631,
+                        48.082172
+                  ]
+            },
+            {
+                  "name": "Parc des Tanneurs",
+                  "text": "A Parc des Tanneurs a Vilaine folyó partján fekszik, és természeti szépségével hódít. Nyugodt hely a sétákhoz az öreg fák árnyékában.",
+                  "category": "park",
+                  "coords": [
+                        -1.678701,
+                        48.120128
+                  ]
+            },
+            {
+                  "name": "Parc Hamelin Oberthür",
+                  "text": "A Parc Oberthür egy pompás tájképi kert Rennes-ben, ritka növények sokaságával. Elegáns környezetben várja a látogatókat a kikapcsolódásra.",
+                  "category": "park",
+                  "coords": [
+                        -1.659727,
+                        48.112696
+                  ]
+            },
+            {
+                  "name": "Square de la Motte",
+                  "text": "A Square de la Motte egy nyilvános kert egy történelmi dombon Rennes-ben. Gondozott útjai és szobrai bájos célponttá teszik a gyalogosok számára.",
+                  "category": "park",
+                  "coords": [
+                        -1.674379,
+                        48.112952
+                  ]
+            },
+            {
+                  "name": "Parc de Villejean",
+                  "text": "Ez a Villejean negyedben található park tágas gyeppel és sportolási lehetőségekkel várja a rennes-ieket. A diákok és családok kedvelt találkozóhelye.",
+                  "category": "park",
+                  "coords": [
+                        -1.721393,
+                        48.122468
+                  ]
+            },
+            {
+                  "name": "Plages de Baud",
+                  "text": "A Plages de Baud egy modern kialakítású park a Vilaine folyó partján Rennes-ben. A terület pihenőhelyeket, teraszokat és közvetlen vízparti kapcsolatot kínál.",
+                  "category": "park",
+                  "coords": [
+                        -1.650305,
+                        48.109062
+                  ]
+            },
+            {
+                  "name": "Parc de Beauregard-Quincé",
+                  "text": "A Parc de Beauregard-Quincé egy kortárs zöldterület művészeti alkotásokkal Rennes északi részén. A modern várostervezést ötvözi a tágas természeti terekkel.",
+                  "category": "park",
+                  "coords": [
+                        -1.702776,
+                        48.135713
+                  ]
+            },
+            {
+                  "name": "Musée des Transmissions",
+                  "text": "A rennes-i Musée des Transmissions a katonai hírközlés történetének szentelt múzeum. A látogatók technikai fejlesztésekről és a rádiótechnikáról tanulhatnak itt.",
+                  "category": "museum",
+                  "coords": [
+                        -1.626676,
+                        48.122146
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Parcheminerie",
+                  "text": "A Théâtre de la Parcheminerie egy bensőséges hangulatú színház egy egykori pergamenkészítő műhelyben Rennes-ben. A kortárs színművészet változatos programjait kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.681088,
+                        48.109023
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "A Saint-Luc templom egy modern egyházi épület Rennes nyugati részén. Vallási találkozóhelyként szolgál a környező negyed lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        -1.707551,
+                        48.118808
+                  ]
+            },
+            {
+                  "name": "Église réformée de Rennes",
+                  "text": "A rennes-i Église réformée egy protestáns templom a városközpontban. Az egyszerű épület istentiszteletek és közösségi munka helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -1.678635,
+                        48.107762
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "A Saint-Laurent templom Rennes északi részén található, és a helyi egyházi építészet klasszikus példája. A negyed társadalmi életének fontos része.",
+                  "category": "religious",
+                  "coords": [
+                        -1.656432,
+                        48.138828
                   ]
             }
       ],
@@ -663,6 +1113,231 @@ const citySeeds: CitySeed[] = [
                         -1.691529,
                         48.090464
                   ]
+            },
+            {
+                  "name": "Hôtel de Chalain",
+                  "text": "Grand hôtel de Chalain este o clădire istorică impunătoare din Rennes. Este un exemplu semnificativ al arhitecturii aristocratice din secolul al XVIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -1.676314,
+                        48.111978
+                  ]
+            },
+            {
+                  "name": "Hôtel de Courcy",
+                  "text": "Hôtel de Courcy din Rennes este o reședință privată elegantă din secolul al XIX-lea. Astăzi găzduiește sediul Consiliului Regional al Bretaniei.",
+                  "category": "historical",
+                  "coords": [
+                        -1.673278,
+                        48.11288
+                  ]
+            },
+            {
+                  "name": "Théâtre national de Bretagne",
+                  "text": "Teatrul Național al Bretaniei din Rennes este un centru cultural important din Franța. Acesta propune un program sofisticat de teatru, dans și cinema.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.672511,
+                        48.107933
+                  ]
+            },
+            {
+                  "name": "Théâtre du Vieux Saint-Étienne",
+                  "text": "Acest teatru din Rennes este găzduit în zidurile unei foste biserici. Arhitectura neobișnuită oferă un cadru unic pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.683876,
+                        48.115655
+                  ]
+            },
+            {
+                  "name": "La Criée centre d'art contemporain",
+                  "text": "La Criée este un centru de artă contemporană din Rennes, găzduit într-o fostă hală. Acesta prezintă expoziții inovatoare ale artiștilor moderni.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.679632,
+                        48.108094
+                  ]
+            },
+            {
+                  "name": "Le Liberté",
+                  "text": "Le Liberté este un centru de evenimente important situat în inima orașului Rennes. Găzduiește concerte, evenimente sportive și spectacole culturale într-un cadru modern.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.676854,
+                        48.106862
+                  ]
+            },
+            {
+                  "name": "Centre chorégraphique national de Rennes et de Bretagne",
+                  "text": "Acest centru coregrafic național din Rennes este o instituție dedicată dansului contemporan. Este un loc important pentru creația artistică și spectacole în Bretania.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.675802,
+                        48.114584
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse-de-l'Enfant-Jésus",
+                  "text": "Această biserică din Rennes este cunoscută pentru arhitectura sa distinctivă din perioada interbelică. Vizitatorii pot admira designul interior artistic al acestui lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        -1.667373,
+                        48.095166
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hélier",
+                  "text": "Biserica Saint-Hélier este un edificiu religios istoric situat în partea de est a orașului Rennes. Servește comunității locale ca loc de reculegere și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -1.661143,
+                        48.102987
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Biserica Saint-Étienne din Rennes a fost inițial parte a unei mănăstiri și impresionează prin fațada sa clasică. Clădirea este o mărturie importantă a istoriei religioase a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -1.686408,
+                        48.11286
+                  ]
+            },
+            {
+                  "name": "Église Saint-Germain",
+                  "text": "Saint-Germain este o biserică în stil gotic târziu situată în centrul orașului Rennes, lângă râul Vilaine. Este cunoscută pentru vitraliile sale splendide și atmosfera istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.676699,
+                        48.111064
+                  ]
+            },
+            {
+                  "name": "Viaduc de la Poterie",
+                  "text": "Viaductul La Poterie este o structură de pod interesantă din punct de vedere arhitectural pentru metroul din Rennes. Oferă o vedere amplă asupra zonei de sud a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.645569,
+                        48.087184
+                  ]
+            },
+            {
+                  "name": "Viaduc de Pontchaillou",
+                  "text": "Acest viaduct traversează valea în apropierea spitalului Pontchaillou pentru linia de metrou. Este un exemplu proeminent al infrastructurii moderne de transport a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.695656,
+                        48.121296
+                  ]
+            },
+            {
+                  "name": "Parc de Bréquigny",
+                  "text": "Parcul Bréquigny este un spațiu verde vast situat în sudul orașului Rennes. Oferă alei de promenadă, locuri de joacă și un iaz pitoresc pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        -1.68631,
+                        48.082172
+                  ]
+            },
+            {
+                  "name": "Parc des Tanneurs",
+                  "text": "Parcul Tanneurs este situat pe malul râului Vilaine și impresionează prin frumusețea sa naturală. Este un loc liniștit pentru plimbări sub arbori bătrâni.",
+                  "category": "park",
+                  "coords": [
+                        -1.678701,
+                        48.120128
+                  ]
+            },
+            {
+                  "name": "Parc Hamelin Oberthür",
+                  "text": "Parcul Oberthür este o grădină peisagistică splendidă din Rennes, cu o varietate de plante rare. Invită vizitatorii la relaxare într-un cadru de grădină elegant.",
+                  "category": "park",
+                  "coords": [
+                        -1.659727,
+                        48.112696
+                  ]
+            },
+            {
+                  "name": "Square de la Motte",
+                  "text": "Square de la Motte este o grădină publică situată pe o colină istorică din Rennes. Aleile bine întreținute și statuile îl fac o destinație fermecătoare pentru pietoni.",
+                  "category": "park",
+                  "coords": [
+                        -1.674379,
+                        48.112952
+                  ]
+            },
+            {
+                  "name": "Parc de Villejean",
+                  "text": "Acest parc din cartierul Villejean oferă locuitorilor din Rennes peluze largi și facilități sportive. Este un loc de întâlnire popular pentru studenți și familii.",
+                  "category": "park",
+                  "coords": [
+                        -1.721393,
+                        48.122468
+                  ]
+            },
+            {
+                  "name": "Plages de Baud",
+                  "text": "Plages de Baud este un parc modern amenajat pe malul râului Vilaine în Rennes. Zona oferă spații de recreere, terase și acces direct la apă.",
+                  "category": "park",
+                  "coords": [
+                        -1.650305,
+                        48.109062
+                  ]
+            },
+            {
+                  "name": "Parc de Beauregard-Quincé",
+                  "text": "Parcul Beauregard-Quincé este un spațiu verde contemporan cu instalații de artă, situat în nordul orașului Rennes. Combină urbanismul modern cu spații naturale generoase.",
+                  "category": "park",
+                  "coords": [
+                        -1.702776,
+                        48.135713
+                  ]
+            },
+            {
+                  "name": "Musée des Transmissions",
+                  "text": "Muzeul Transmisiunilor din Rennes este dedicat istoriei comunicațiilor militare. Vizitatorii pot învăța aici despre evoluțiile tehnice și tehnologia radio.",
+                  "category": "museum",
+                  "coords": [
+                        -1.626676,
+                        48.122146
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Parcheminerie",
+                  "text": "Teatrul Parcheminerie este o sală de spectacole intimă situată într-o fostă fabrică de pergament din Rennes. Oferă un program diversificat de artă scenică contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.681088,
+                        48.109023
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "Biserica Saint-Luc este un edificiu religios modern situat în vestul orașului Rennes. Servește ca punct de întâlnire religios pentru locuitorii din cartierul înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        -1.707551,
+                        48.118808
+                  ]
+            },
+            {
+                  "name": "Église réformée de Rennes",
+                  "text": "Biserica Reformată din Rennes este un templu protestant situat în centrul orașului. Clădirea simplă este un loc pentru slujbe religioase și activități comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        -1.678635,
+                        48.107762
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Biserica Saint-Laurent este situată în nordul orașului Rennes și este un exemplu clasic de arhitectură religioasă locală. Este o parte importantă a vieții sociale din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        -1.656432,
+                        48.138828
+                  ]
             }
       ],
       "en": [
@@ -869,6 +1544,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.691529,
                         48.090464
+                  ]
+            },
+            {
+                  "name": "Hôtel de Chalain",
+                  "text": "The Grand hôtel de Chalain is a magnificent historic building in Rennes. It is a significant example of 18th-century aristocratic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -1.676314,
+                        48.111978
+                  ]
+            },
+            {
+                  "name": "Hôtel de Courcy",
+                  "text": "The Hôtel de Courcy in Rennes is an elegant 19th-century mansion. Today, it serves as the headquarters for the Regional Council of Brittany.",
+                  "category": "historical",
+                  "coords": [
+                        -1.673278,
+                        48.11288
+                  ]
+            },
+            {
+                  "name": "Théâtre national de Bretagne",
+                  "text": "The National Theatre of Brittany in Rennes is a major cultural center in France. It offers a sophisticated program of theatre, dance, and film.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.672511,
+                        48.107933
+                  ]
+            },
+            {
+                  "name": "Théâtre du Vieux Saint-Étienne",
+                  "text": "This theatre in Rennes is housed within the walls of a former church. The unusual architecture provides a unique setting for performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.683876,
+                        48.115655
+                  ]
+            },
+            {
+                  "name": "La Criée centre d'art contemporain",
+                  "text": "La Criée is a contemporary art center in Rennes housed in a former market hall. It presents innovative exhibitions by modern artists.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.679632,
+                        48.108094
+                  ]
+            },
+            {
+                  "name": "Le Liberté",
+                  "text": "Le Liberté is a major events center located in the heart of Rennes. It hosts concerts, sporting events, and cultural shows in a modern setting.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.676854,
+                        48.106862
+                  ]
+            },
+            {
+                  "name": "Centre chorégraphique national de Rennes et de Bretagne",
+                  "text": "This national choreographic center in Rennes is an institution dedicated to contemporary dance. It is an important venue for artistic creation and performances in Brittany.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.675802,
+                        48.114584
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse-de-l'Enfant-Jésus",
+                  "text": "This church in Rennes is known for its distinctive architecture from the interwar period. Visitors can admire the artistic interior design of this religious building.",
+                  "category": "religious",
+                  "coords": [
+                        -1.667373,
+                        48.095166
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hélier",
+                  "text": "Saint-Hélier Church is a historic religious building located in the eastern part of Rennes. It serves the local community as a place for reflection and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -1.661143,
+                        48.102987
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Saint-Étienne Church in Rennes was originally part of a convent and features a classical facade. The building is an important witness to the city's religious history.",
+                  "category": "religious",
+                  "coords": [
+                        -1.686408,
+                        48.11286
+                  ]
+            },
+            {
+                  "name": "Église Saint-Germain",
+                  "text": "Saint-Germain is a late Gothic church located in the center of Rennes near the Vilaine river. It is known for its splendid stained glass windows and historic atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.676699,
+                        48.111064
+                  ]
+            },
+            {
+                  "name": "Viaduc de la Poterie",
+                  "text": "The La Poterie viaduct is an architecturally interesting bridge structure for the Rennes metro. It offers a broad view over the southern part of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.645569,
+                        48.087184
+                  ]
+            },
+            {
+                  "name": "Viaduc de Pontchaillou",
+                  "text": "This viaduct carries the metro line across the valley near the Pontchaillou hospital. It is a prominent example of the city's modern transportation infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.695656,
+                        48.121296
+                  ]
+            },
+            {
+                  "name": "Parc de Bréquigny",
+                  "text": "Parc de Bréquigny is a vast green space in the south of Rennes. It features walking paths, play areas, and a scenic pond for recreation.",
+                  "category": "park",
+                  "coords": [
+                        -1.68631,
+                        48.082172
+                  ]
+            },
+            {
+                  "name": "Parc des Tanneurs",
+                  "text": "Parc des Tanneurs is located on the banks of the Vilaine river and stands out for its natural beauty. It is a quiet spot for walks under ancient trees.",
+                  "category": "park",
+                  "coords": [
+                        -1.678701,
+                        48.120128
+                  ]
+            },
+            {
+                  "name": "Parc Hamelin Oberthür",
+                  "text": "Parc Oberthür is a magnificent landscaped park in Rennes featuring a variety of rare plants. It invites visitors to relax in an elegant garden setting.",
+                  "category": "park",
+                  "coords": [
+                        -1.659727,
+                        48.112696
+                  ]
+            },
+            {
+                  "name": "Square de la Motte",
+                  "text": "Square de la Motte is a public garden located on a historic mound in Rennes. Its well-kept paths and statues make it a charming destination for pedestrians.",
+                  "category": "park",
+                  "coords": [
+                        -1.674379,
+                        48.112952
+                  ]
+            },
+            {
+                  "name": "Parc de Villejean",
+                  "text": "This park in the Villejean district offers Rennes residents large lawns and sports facilities. It is a popular meeting spot for students and families.",
+                  "category": "park",
+                  "coords": [
+                        -1.721393,
+                        48.122468
+                  ]
+            },
+            {
+                  "name": "Plages de Baud",
+                  "text": "Plages de Baud is a modernly designed park on the banks of the Vilaine river in Rennes. The area offers recreational spaces, terraces, and direct access to the water.",
+                  "category": "park",
+                  "coords": [
+                        -1.650305,
+                        48.109062
+                  ]
+            },
+            {
+                  "name": "Parc de Beauregard-Quincé",
+                  "text": "Parc de Beauregard-Quincé is a contemporary green space with art installations in the north of Rennes. It combines modern urban planning with generous natural areas.",
+                  "category": "park",
+                  "coords": [
+                        -1.702776,
+                        48.135713
+                  ]
+            },
+            {
+                  "name": "Musée des Transmissions",
+                  "text": "The Musée des Transmissions in Rennes is dedicated to the history of military communications. Visitors can learn about technical developments and radio technology here.",
+                  "category": "museum",
+                  "coords": [
+                        -1.626676,
+                        48.122146
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Parcheminerie",
+                  "text": "The Théâtre de la Parcheminerie is an intimate venue located in a former parchment factory in Rennes. It offers a diverse program of contemporary performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.681088,
+                        48.109023
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "Saint-Luc Church is a modern religious building in the west of Rennes. It serves as a religious gathering place for residents of the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -1.707551,
+                        48.118808
+                  ]
+            },
+            {
+                  "name": "Église réformée de Rennes",
+                  "text": "The Reformed Church of Rennes is a Protestant temple located in the city center. The simple building is a place for worship services and community work.",
+                  "category": "religious",
+                  "coords": [
+                        -1.678635,
+                        48.107762
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Saint-Laurent Church is located in the north of Rennes and is a classic example of local religious architecture. It is an important part of social life in the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -1.656432,
+                        48.138828
                   ]
             }
       ],
@@ -1848,6 +2748,231 @@ const citySeeds: CitySeed[] = [
                         4.373914,
                         43.838388
                   ]
+            },
+            {
+                  "name": "Château Fadaise",
+                  "text": "Das Château Fadaise ist ein elegantes historisches Stadtpalais in Nîmes. Das Gebäude ist für seine architektonischen Details und seinen privaten Charme bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        4.355646,
+                        43.83589
+                  ]
+            },
+            {
+                  "name": "Fontaine Pradier",
+                  "text": "Die Fontaine Pradier ist ein monumentaler Brunnen auf der Esplanade in Nîmes. Die kunstvollen Skulpturen repräsentieren Allegorien der Stadt und ihrer Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        4.362356,
+                        43.83491
+                  ]
+            },
+            {
+                  "name": "Grand Temple des Dominicains",
+                  "text": "Der Grand Temple in Nîmes ist ein bedeutendes protestantisches Gotteshaus im Stadtzentrum. Er beeindruckt durch seine neoklassizistische Architektur und seine historische Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        4.362947,
+                        43.838866
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Die Kirche Saint-Charles war ursprünglich Teil einer Jesuitenanlage und besticht durch ihr barockes Erbe. Besucher können die feine Innenausstattung dieses Sakralbaus bewundern.",
+                  "category": "religious",
+                  "coords": [
+                        4.359797,
+                        43.840909
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Eugénie",
+                  "text": "Die Chapelle Sainte-Eugénie ist eines der ältesten religiösen Gebäude in Nîmes. Die kleine Kapelle ist ein ruhiges Zeugnis der romanischen Architektur in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        4.359237,
+                        43.837952
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cézaire",
+                  "text": "Diese Kirche befindet sich im Viertel Saint-Cézaire von Nîmes. Sie bewahrt den Charme eines dörflichen Sakralbaus innerhalb des Stadtgebiets.",
+                  "category": "religious",
+                  "coords": [
+                        4.327671,
+                        43.816913
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Suffrage et Saint-Dominique",
+                  "text": "Diese moderne Kirche in Nîmes zeichnet sich durch ihre schlichte und zeitgenössische Architektur aus. Sie dient als lebendiges Zentrum für die örtliche katholische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        4.385412,
+                        43.841953
+                  ]
+            },
+            {
+                  "name": "Les Jardins de la Fontaine",
+                  "text": "Die Jardins de la Fontaine in Nîmes sind eine der ersten öffentlichen Parkanlagen Europas. Sie wurden im 18. Jahrhundert um antike römische Ruinen herum angelegt.",
+                  "category": "park",
+                  "coords": [
+                        4.349985,
+                        43.841345
+                  ]
+            },
+            {
+                  "name": "Square Antonin",
+                  "text": "Der Square Antonin ist eine charmante Grünanlage im Zentrum von Nîmes. Er ist bekannt für seine Statue des römischen Kaisers Antoninus Pius.",
+                  "category": "park",
+                  "coords": [
+                        4.355526,
+                        43.839436
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Das Musée des Beaux-Arts von Nîmes beherbergt eine bedeutende Sammlung europäischer Malerei. Ein Highlight ist ein großes römisches Mosaik, das im Gebäude ausgestellt ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.360579,
+                        43.831941
+                  ]
+            },
+            {
+                  "name": "Odéon",
+                  "text": "Das Odéon in Nîmes ist ein kultureller Ort, der für Theateraufführungen und Konzerte genutzt wird. Es bietet ein abwechslungsreiches Programm in einer einladenden Atmosphäre.",
+                  "category": "cultural",
+                  "coords": [
+                        4.36522,
+                        43.839355
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "Die Kirche Saint-Luc ist ein lokaler Sakralbau in Nîmes. Sie dient der Gemeinde als Ort des Gebets und ist Teil der religiösen Vielfalt der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        4.362831,
+                        43.845904
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc et Sainte-Dominique",
+                  "text": "Dieses religiöse Zentrum in Nîmes vereint verschiedene spirituelle Funktionen unter einem Dach. Es ist ein moderner Treffpunkt für die Gläubigen des Stadtviertels.",
+                  "category": "religious",
+                  "coords": [
+                        4.379548,
+                        43.841474
+                  ]
+            },
+            {
+                  "name": "Temple de l'Oratoire",
+                  "text": "Der Temple de l'Oratoire ist ein historisches Gebäude in Nîmes, das heute als protestantisches Gotteshaus dient. Er besticht durch seine schlichte Eleganz und seine zentrale Lage.",
+                  "category": "religious",
+                  "coords": [
+                        4.355774,
+                        43.833808
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Louis",
+                  "text": "Die Chapelle Saint-Louis in Nîmes ist eine ehemalige Krankenhauskapelle mit reicher Geschichte. Sie wird heute oft für kulturelle Veranstaltungen und Ausstellungen genutzt.",
+                  "category": "religious",
+                  "coords": [
+                        4.360097,
+                        43.843912
+                  ]
+            },
+            {
+                  "name": "Petit temple de Nîmes",
+                  "text": "Der Petit Temple ist ein bescheidenes, aber bedeutendes protestantisches Kirchengebäude in Nîmes. Er ist ein wichtiger Teil der hugenottischen Tradition der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        4.35651,
+                        43.839153
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Madeleine et Sainte-Rita",
+                  "text": "Diese kleine Kapelle in Nîmes ist den Heiligen Magdalena und Rita gewidmet. Sie bietet einen intimen Rahmen für Gebet und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        4.34215,
+                        43.85299
+                  ]
+            },
+            {
+                  "name": "Mosquée Lumiere et Piété",
+                  "text": "Die Moschee Lumiere et Piété ist ein religiöser Ort für die muslimische Gemeinschaft in Nîmes. Sie fördert den interkulturellen Dialog und die spirituelle Praxis.",
+                  "category": "religious",
+                  "coords": [
+                        4.332054,
+                        43.829802
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Enfants",
+                  "text": "Diese Kirche in Nîmes hat eine besondere spirituelle Ausrichtung und dient der lokalen Pfarrei. Die Architektur spiegelt die kirchlichen Bautraditionen der Region wider.",
+                  "category": "religious",
+                  "coords": [
+                        4.375035,
+                        43.830569
+                  ]
+            },
+            {
+                  "name": "Église des Salles",
+                  "text": "Die Église des Salles ist ein sakrales Gebäude, das in das Stadtviertel von Nîmes integriert ist. Sie bietet Raum für Gottesdienste und gemeinschaftliche Aktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        4.355551,
+                        43.830957
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Dieses protestantische Gotteshaus in Nîmes ist ein Ort der Versammlung für die lokale Gemeinde. Die schlichte Gestaltung unterstreicht die reformierte Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        4.376885,
+                        43.840412
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Die Kirche Saint-Vincent-de-Paul ist ein katholischer Sakralbau im Herzen eines Wohngebiets in Nîmes. Sie ist dem heiligen Vinzenz von Paul gewidmet und ein Ort der Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        4.375758,
+                        43.850445
+                  ]
+            },
+            {
+                  "name": "Église de Bethléem",
+                  "text": "Die Église de Bethléem in Nîmes zeichnet sich durch ihre moderne Architektur aus. Sie bietet eine zeitgemäße Umgebung für religiöse Feiern und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        4.361523,
+                        43.825504
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-du-Salut",
+                  "text": "Notre-Dame-du-Salut ist eine katholische Kirche in Nîmes, die für ihre Seelsorge bekannt ist. Das Gebäude dient als spiritueller Ankerpunkt für die umliegende Bevölkerung.",
+                  "category": "religious",
+                  "coords": [
+                        4.397704,
+                        43.855771
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Claire",
+                  "text": "Diese Kapelle in Nîmes ist der heiligen Klara gewidmet und ist ein Ort der Ruhe. Besucher schätzen die schlichte Atmosphäre dieses kleinen religiösen Bauwerks.",
+                  "category": "religious",
+                  "coords": [
+                        4.382261,
+                        43.840586
+                  ]
             }
       ],
       "hu": [
@@ -1988,6 +3113,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.373914,
                         43.838388
+                  ]
+            },
+            {
+                  "name": "Château Fadaise",
+                  "text": "A Château Fadaise egy elegáns történelmi városi palota Nîmes-ben. Az épület építészeti részleteiről és privát bájáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        4.355646,
+                        43.83589
+                  ]
+            },
+            {
+                  "name": "Fontaine Pradier",
+                  "text": "A Fontaine Pradier egy monumentális szökőkút a nîmes-i Esplanade-on. A művészi szobrok a várost és történelmét jelképező allegóriákat ábrázolnak.",
+                  "category": "historical",
+                  "coords": [
+                        4.362356,
+                        43.83491
+                  ]
+            },
+            {
+                  "name": "Grand Temple des Dominicains",
+                  "text": "A nîmes-i Grand Temple egy jelentős protestáns templom a városközpontban. Neoklasszicista építészetével és történelmi jelentőségével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        4.362947,
+                        43.838866
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "A Saint-Charles templom eredetileg egy jezsuita épületegyüttes része volt, és barokk örökségével tűnik ki. A látogatók megcsodálhatják az egyházi épület finom belső berendezését.",
+                  "category": "religious",
+                  "coords": [
+                        4.359797,
+                        43.840909
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Eugénie",
+                  "text": "A Chapelle Sainte-Eugénie Nîmes egyik legrégebbi egyházi épülete. A kis kápolna a város román stílusú építészetének csendes emléke.",
+                  "category": "religious",
+                  "coords": [
+                        4.359237,
+                        43.837952
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cézaire",
+                  "text": "Ez a templom Nîmes Saint-Cézaire negyedében található. Megőrzi egy falusi egyházi épület báját a város területén belül.",
+                  "category": "religious",
+                  "coords": [
+                        4.327671,
+                        43.816913
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Suffrage et Saint-Dominique",
+                  "text": "Ez a modern nîmes-i templom egyszerű és kortárs építészetével tűnik ki. Élénk központként szolgál a helyi katolikus közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        4.385412,
+                        43.841953
+                  ]
+            },
+            {
+                  "name": "Les Jardins de la Fontaine",
+                  "text": "A nîmes-i Jardins de la Fontaine Európa egyik első nyilvános parkja. A 18. században alakították ki ókori római romok köré.",
+                  "category": "park",
+                  "coords": [
+                        4.349985,
+                        43.841345
+                  ]
+            },
+            {
+                  "name": "Square Antonin",
+                  "text": "A Square Antonin egy bájos zöldterület Nîmes központjában. Antoninus Pius római császár szobráról ismert.",
+                  "category": "park",
+                  "coords": [
+                        4.355526,
+                        43.839436
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "A nîmes-i Musée des Beaux-Arts az európai festészet jelentős gyűjteményének ad otthont. Egyik fénypontja az épületben kiállított hatalmas római mozaik.",
+                  "category": "museum",
+                  "coords": [
+                        4.360579,
+                        43.831941
+                  ]
+            },
+            {
+                  "name": "Odéon",
+                  "text": "A nîmes-i Odéon egy kulturális helyszín, amelyet színházi előadásokra és koncertekre használnak. Változatos programokat kínál hívogató légkörben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.36522,
+                        43.839355
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "A Saint-Luc templom egy helyi egyházi épület Nîmes-ben. Az imádság helyszíneként szolgál a közösség számára, és a város vallási sokszínűségének része.",
+                  "category": "religious",
+                  "coords": [
+                        4.362831,
+                        43.845904
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc et Sainte-Dominique",
+                  "text": "Ez a nîmes-i vallási központ különböző spirituális funkciókat egyesít egy fedél alatt. Modern találkozóhely a városnegyed hívői számára.",
+                  "category": "religious",
+                  "coords": [
+                        4.379548,
+                        43.841474
+                  ]
+            },
+            {
+                  "name": "Temple de l'Oratoire",
+                  "text": "A Temple de l'Oratoire egy történelmi épület Nîmes-ben, amely ma protestáns templomként működik. Egyszerű eleganciájával és központi elhelyezkedésével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        4.355774,
+                        43.833808
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Louis",
+                  "text": "A nîmes-i Chapelle Saint-Louis egy gazdag múltú egykori kórházkápolna. Ma gyakran használják kulturális eseményekre és kiállításokra.",
+                  "category": "religious",
+                  "coords": [
+                        4.360097,
+                        43.843912
+                  ]
+            },
+            {
+                  "name": "Petit temple de Nîmes",
+                  "text": "A Petit Temple egy szerény, de jelentős protestáns templomépület Nîmes-ben. A város hugenotta hagyományainak fontos része.",
+                  "category": "religious",
+                  "coords": [
+                        4.35651,
+                        43.839153
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Madeleine et Sainte-Rita",
+                  "text": "Ez a kis nîmes-i kápolna Szent Magdolnának és Szent Ritának van szentelve. Bensőséges keretet nyújt az imádsághoz és az elmélkedéshez.",
+                  "category": "religious",
+                  "coords": [
+                        4.34215,
+                        43.85299
+                  ]
+            },
+            {
+                  "name": "Mosquée Lumiere et Piété",
+                  "text": "A Lumiere et Piété mecset Nîmes muszlim közösségének vallási helyszíne. Elősegíti az interkulturális párbeszédet és a spirituális gyakorlatot.",
+                  "category": "religious",
+                  "coords": [
+                        4.332054,
+                        43.829802
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Enfants",
+                  "text": "Ez a nîmes-i templom különleges spirituális irányultsággal rendelkezik, és a helyi plébániát szolgálja. Építészete a régió egyházi építészeti hagyományait tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        4.375035,
+                        43.830569
+                  ]
+            },
+            {
+                  "name": "Église des Salles",
+                  "text": "Az Église des Salles egy szakrális épület Nîmes egyik negyedében. Istentiszteleteknek és közösségi tevékenységeknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        4.355551,
+                        43.830957
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ez a nîmes-i protestáns templom a helyi közösség gyülekezőhelye. Az egyszerű kialakítás hangsúlyozza a református hagyományokat.",
+                  "category": "religious",
+                  "coords": [
+                        4.376885,
+                        43.840412
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "A Saint-Vincent-de-Paul templom egy katolikus egyházi épület Nîmes egyik lakónegyedének szívében. Páli Szent Vincének van szentelve, és az áhítat helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        4.375758,
+                        43.850445
+                  ]
+            },
+            {
+                  "name": "Église de Bethléem",
+                  "text": "A nîmes-i Église de Bethléem modern építészetével tűnik ki. Kortárs környezetet biztosít a vallási ünnepségekhez és az elmélkedéshez.",
+                  "category": "religious",
+                  "coords": [
+                        4.361523,
+                        43.825504
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-du-Salut",
+                  "text": "A nîmes-i Notre-Dame-du-Salut egy katolikus templom, amely lelkipásztori munkájáról ismert. Az épület spirituális horgonyként szolgál a környező lakosság számára.",
+                  "category": "religious",
+                  "coords": [
+                        4.397704,
+                        43.855771
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Claire",
+                  "text": "Ez a nîmes-i kápolna Szent Klárának van szentelve, és a nyugalom helyszíne. A látogatók értékelik e kis vallási épület egyszerű hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        4.382261,
+                        43.840586
                   ]
             }
       ],
@@ -2130,6 +3480,231 @@ const citySeeds: CitySeed[] = [
                         4.373914,
                         43.838388
                   ]
+            },
+            {
+                  "name": "Château Fadaise",
+                  "text": "Château Fadaise este un palat urban istoric și elegant din Nîmes. Clădirea este cunoscută pentru detaliile sale arhitecturale și farmecul său privat.",
+                  "category": "castle",
+                  "coords": [
+                        4.355646,
+                        43.83589
+                  ]
+            },
+            {
+                  "name": "Fontaine Pradier",
+                  "text": "Fontaine Pradier este o fântână monumentală situată pe esplanada din Nîmes. Sculpturile elaborate reprezintă alegorii ale orașului și ale istoriei sale.",
+                  "category": "historical",
+                  "coords": [
+                        4.362356,
+                        43.83491
+                  ]
+            },
+            {
+                  "name": "Grand Temple des Dominicains",
+                  "text": "Marele Templu din Nîmes este un lăcaș de cult protestant important situat în centrul orașului. Impresionează prin arhitectura sa neoclasică și semnificația istorică.",
+                  "category": "religious",
+                  "coords": [
+                        4.362947,
+                        43.838866
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Biserica Saint-Charles a fost inițial parte a unui ansamblu iezuit și se remarcă prin moștenirea sa barocă. Vizitatorii pot admira interiorul rafinat al acestui lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        4.359797,
+                        43.840909
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Eugénie",
+                  "text": "Capela Sainte-Eugénie este una dintre cele mai vechi clădiri religioase din Nîmes. Mica capelă este o mărturie liniștită a arhitecturii romanice din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        4.359237,
+                        43.837952
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cézaire",
+                  "text": "Această biserică este situată în cartierul Saint-Cézaire din Nîmes. Păstrează farmecul unui lăcaș de cult sătesc în interiorul zonei urbane.",
+                  "category": "religious",
+                  "coords": [
+                        4.327671,
+                        43.816913
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Suffrage et Saint-Dominique",
+                  "text": "Această biserică modernă din Nîmes se distinge prin arhitectura sa simplă și contemporană. Servește ca centru viu pentru comunitatea catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        4.385412,
+                        43.841953
+                  ]
+            },
+            {
+                  "name": "Les Jardins de la Fontaine",
+                  "text": "Grădinile Fontaine din Nîmes sunt unul dintre primele parcuri publice din Europa. Au fost amenajate în secolul al XVIII-lea în jurul unor ruine romane antice.",
+                  "category": "park",
+                  "coords": [
+                        4.349985,
+                        43.841345
+                  ]
+            },
+            {
+                  "name": "Square Antonin",
+                  "text": "Square Antonin este un spațiu verde fermecător situat în centrul orașului Nîmes. Este cunoscut pentru statuia împăratului roman Antoninus Pius.",
+                  "category": "park",
+                  "coords": [
+                        4.355526,
+                        43.839436
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Muzeul de Arte Frumoase din Nîmes adăpostește o colecție importantă de pictură europeană. Un punct de atracție este un mare mozaic roman expus în clădire.",
+                  "category": "museum",
+                  "coords": [
+                        4.360579,
+                        43.831941
+                  ]
+            },
+            {
+                  "name": "Odéon",
+                  "text": "Odéon din Nîmes este un spațiu cultural utilizat pentru spectacole de teatru și concerte. Oferă un program variat într-o atmosferă primitoare.",
+                  "category": "cultural",
+                  "coords": [
+                        4.36522,
+                        43.839355
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "Biserica Saint-Luc este un lăcaș de cult local din Nîmes. Servește comunității ca loc de rugăciune și face parte din diversitatea religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        4.362831,
+                        43.845904
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc et Sainte-Dominique",
+                  "text": "Acest centru religios din Nîmes reunește diferite funcții spirituale sub același acoperiș. Este un punct de întâlnire modern pentru credincioșii din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        4.379548,
+                        43.841474
+                  ]
+            },
+            {
+                  "name": "Temple de l'Oratoire",
+                  "text": "Temple de l'Oratoire este o clădire istorică din Nîmes care servește astăzi ca lăcaș de cult protestant. Se remarcă prin eleganța sa sobră și locația centrală.",
+                  "category": "religious",
+                  "coords": [
+                        4.355774,
+                        43.833808
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Louis",
+                  "text": "Capela Saint-Louis din Nîmes este o fostă capelă de spital cu o istorie bogată. Astăzi este adesea utilizată pentru evenimente culturale și expoziții.",
+                  "category": "religious",
+                  "coords": [
+                        4.360097,
+                        43.843912
+                  ]
+            },
+            {
+                  "name": "Petit temple de Nîmes",
+                  "text": "Petit Temple este o clădire de biserică protestantă modestă, dar semnificativă, din Nîmes. Este o parte importantă a tradiției hughenote a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        4.35651,
+                        43.839153
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Madeleine et Sainte-Rita",
+                  "text": "Această mică capelă din Nîmes este dedicată Sfintelor Magdalena și Rita. Oferă un cadru intim pentru rugăciune și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        4.34215,
+                        43.85299
+                  ]
+            },
+            {
+                  "name": "Mosquée Lumiere et Piété",
+                  "text": "Moscheea Lumiere et Piété este un lăcaș de cult pentru comunitatea musulmană din Nîmes. Promovează dialogul intercultural și practica spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        4.332054,
+                        43.829802
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Enfants",
+                  "text": "Această biserică din Nîmes are o orientare spirituală deosebită și servește parohiei locale. Arhitectura reflectă tradițiile construcțiilor bisericești din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        4.375035,
+                        43.830569
+                  ]
+            },
+            {
+                  "name": "Église des Salles",
+                  "text": "Biserica des Salles este un edificiu sacru integrat în cartierul din Nîmes. Oferă spațiu pentru slujbe religioase și activități comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        4.355551,
+                        43.830957
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Acest lăcaș de cult protestant din Nîmes este un loc de adunare pentru comunitatea locală. Designul simplu subliniază tradiția reformată.",
+                  "category": "religious",
+                  "coords": [
+                        4.376885,
+                        43.840412
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Biserica Saint-Vincent-de-Paul este un lăcaș de cult catolic situat în inima unei zone rezidențiale din Nîmes. Este dedicată Sfântului Vincențiu de Paul și este un loc de devoțiune.",
+                  "category": "religious",
+                  "coords": [
+                        4.375758,
+                        43.850445
+                  ]
+            },
+            {
+                  "name": "Église de Bethléem",
+                  "text": "Biserica Bethléem din Nîmes se remarcă prin arhitectura sa modernă. Oferă un cadru contemporan pentru celebrări religioase și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        4.361523,
+                        43.825504
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-du-Salut",
+                  "text": "Notre-Dame-du-Salut este o biserică catolică din Nîmes, cunoscută pentru asistența sa spirituală. Clădirea servește ca punct de sprijin spiritual pentru populația din jur.",
+                  "category": "religious",
+                  "coords": [
+                        4.397704,
+                        43.855771
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Claire",
+                  "text": "Această capelă din Nîmes este dedicată Sfintei Clara și este un loc de liniște. Vizitatorii apreciază atmosfera sobră a acestui mic edificiu religios.",
+                  "category": "religious",
+                  "coords": [
+                        4.382261,
+                        43.840586
+                  ]
             }
       ],
       "en": [
@@ -2270,6 +3845,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.373914,
                         43.838388
+                  ]
+            },
+            {
+                  "name": "Château Fadaise",
+                  "text": "Château Fadaise is an elegant historic private mansion in Nîmes. The building is known for its architectural details and private charm.",
+                  "category": "castle",
+                  "coords": [
+                        4.355646,
+                        43.83589
+                  ]
+            },
+            {
+                  "name": "Fontaine Pradier",
+                  "text": "Fontaine Pradier is a monumental fountain located on the esplanade in Nîmes. The elaborate sculptures represent allegories of the city and its history.",
+                  "category": "historical",
+                  "coords": [
+                        4.362356,
+                        43.83491
+                  ]
+            },
+            {
+                  "name": "Grand Temple des Dominicains",
+                  "text": "The Grand Temple in Nîmes is a major Protestant place of worship in the city center. It impresses with its neoclassical architecture and historical significance.",
+                  "category": "religious",
+                  "coords": [
+                        4.362947,
+                        43.838866
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Saint-Charles Church was originally part of a Jesuit complex and stands out for its Baroque heritage. Visitors can admire the fine interior of this religious building.",
+                  "category": "religious",
+                  "coords": [
+                        4.359797,
+                        43.840909
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Eugénie",
+                  "text": "Chapelle Sainte-Eugénie is one of the oldest religious buildings in Nîmes. The small chapel is a quiet witness to Romanesque architecture in the city.",
+                  "category": "religious",
+                  "coords": [
+                        4.359237,
+                        43.837952
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cézaire",
+                  "text": "This church is located in the Saint-Cézaire district of Nîmes. It preserves the charm of a village religious building within the urban area.",
+                  "category": "religious",
+                  "coords": [
+                        4.327671,
+                        43.816913
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Suffrage et Saint-Dominique",
+                  "text": "This modern church in Nîmes is distinguished by its simple and contemporary architecture. It serves as a lively center for the local Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        4.385412,
+                        43.841953
+                  ]
+            },
+            {
+                  "name": "Les Jardins de la Fontaine",
+                  "text": "The Jardins de la Fontaine in Nîmes are one of Europe's first public parks. They were designed in the 18th century around ancient Roman ruins.",
+                  "category": "park",
+                  "coords": [
+                        4.349985,
+                        43.841345
+                  ]
+            },
+            {
+                  "name": "Square Antonin",
+                  "text": "Square Antonin is a charming green space in the center of Nîmes. It is known for its statue of the Roman Emperor Antoninus Pius.",
+                  "category": "park",
+                  "coords": [
+                        4.355526,
+                        43.839436
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "The Musée des Beaux-Arts in Nîmes houses an important collection of European paintings. A highlight is a large Roman mosaic exhibited within the building.",
+                  "category": "museum",
+                  "coords": [
+                        4.360579,
+                        43.831941
+                  ]
+            },
+            {
+                  "name": "Odéon",
+                  "text": "The Odéon in Nîmes is a cultural venue used for theater performances and concerts. It offers a varied program in an inviting atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        4.36522,
+                        43.839355
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "Saint-Luc Church is a local religious building in Nîmes. It serves the community as a place of prayer and is part of the city's religious diversity.",
+                  "category": "religious",
+                  "coords": [
+                        4.362831,
+                        43.845904
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Jeanne d'Arc et Sainte-Dominique",
+                  "text": "This religious center in Nîmes combines various spiritual functions under one roof. It is a modern meeting point for the faithful of the district.",
+                  "category": "religious",
+                  "coords": [
+                        4.379548,
+                        43.841474
+                  ]
+            },
+            {
+                  "name": "Temple de l'Oratoire",
+                  "text": "The Temple de l'Oratoire is a historic building in Nîmes that now serves as a Protestant place of worship. It stands out for its simple elegance and central location.",
+                  "category": "religious",
+                  "coords": [
+                        4.355774,
+                        43.833808
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Louis",
+                  "text": "Chapelle Saint-Louis in Nîmes is a former hospital chapel with a rich history. It is now often used for cultural events and exhibitions.",
+                  "category": "religious",
+                  "coords": [
+                        4.360097,
+                        43.843912
+                  ]
+            },
+            {
+                  "name": "Petit temple de Nîmes",
+                  "text": "The Petit Temple is a modest but significant Protestant church building in Nîmes. It is an important part of the city's Huguenot tradition.",
+                  "category": "religious",
+                  "coords": [
+                        4.35651,
+                        43.839153
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Madeleine et Sainte-Rita",
+                  "text": "This small chapel in Nîmes is dedicated to Saints Mary Magdalene and Rita. It offers an intimate setting for prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        4.34215,
+                        43.85299
+                  ]
+            },
+            {
+                  "name": "Mosquée Lumiere et Piété",
+                  "text": "The Lumiere et Piété Mosque is a religious site for the Muslim community in Nîmes. It promotes intercultural dialogue and spiritual practice.",
+                  "category": "religious",
+                  "coords": [
+                        4.332054,
+                        43.829802
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Enfants",
+                  "text": "This church in Nîmes has a special spiritual focus and serves the local parish. Its architecture reflects the religious building traditions of the region.",
+                  "category": "religious",
+                  "coords": [
+                        4.375035,
+                        43.830569
+                  ]
+            },
+            {
+                  "name": "Église des Salles",
+                  "text": "The Église des Salles is a sacred building integrated into its Nîmes neighborhood. It provides space for worship services and community activities.",
+                  "category": "religious",
+                  "coords": [
+                        4.355551,
+                        43.830957
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "This Protestant place of worship in Nîmes is a gathering spot for the local community. The simple design emphasizes the Reformed tradition.",
+                  "category": "religious",
+                  "coords": [
+                        4.376885,
+                        43.840412
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Saint-Vincent-de-Paul Church is a Catholic religious building in the heart of a residential area in Nîmes. It is dedicated to Saint Vincent de Paul and is a place of devotion.",
+                  "category": "religious",
+                  "coords": [
+                        4.375758,
+                        43.850445
+                  ]
+            },
+            {
+                  "name": "Église de Bethléem",
+                  "text": "The Église de Bethléem in Nîmes is distinguished by its modern architecture. It provides a contemporary setting for religious celebrations and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        4.361523,
+                        43.825504
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-du-Salut",
+                  "text": "Notre-Dame-du-Salut is a Catholic church in Nîmes known for its pastoral care. The building serves as a spiritual anchor for the surrounding population.",
+                  "category": "religious",
+                  "coords": [
+                        4.397704,
+                        43.855771
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Claire",
+                  "text": "This chapel in Nîmes is dedicated to Saint Clare and is a place of tranquility. Visitors appreciate the simple atmosphere of this small religious building.",
+                  "category": "religious",
+                  "coords": [
+                        4.382261,
+                        43.840586
                   ]
             }
       ],
@@ -2533,6 +4333,231 @@ const citySeeds: CitySeed[] = [
                         -4.491125,
                         48.380278
                   ]
+            },
+            {
+                  "name": "Musée national de la Marine",
+                  "text": "Dieses Museum in Brest befindet sich in einer historischen Festung und dokumentiert die maritime Geschichte Frankreichs. Besucher können hier Schiffsmodelle, Waffen und maritime Artefakte entdecken.",
+                  "category": "museum",
+                  "coords": [
+                        -4.492364,
+                        48.381272
+                  ]
+            },
+            {
+                  "name": "Fort du Questel",
+                  "text": "Diese gut erhaltene Festungsanlage aus dem 18. Jahrhundert bietet Einblicke in die militärische Architektur jener Zeit. Besucher können die Gräben und unterirdischen Gänge auf dem Gelände erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        -4.533577,
+                        48.400605
+                  ]
+            },
+            {
+                  "name": "La Carène",
+                  "text": "Dieses moderne Konzerthaus in Brest ist ein wichtiger Veranstaltungsort für zeitgenössische Musik und Kultur. Es bietet eine vielfältige Auswahl an Konzerten und verfügt über eine beeindruckende Akustik.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.481948,
+                        48.384794
+                  ]
+            },
+            {
+                  "name": "Passerelle Centre d'art contemporain",
+                  "text": "Dieses Zentrum für zeitgenössische Kunst in Brest präsentiert wechselnde Ausstellungen moderner Werke. Es fördert den Austausch zwischen Künstlern und der Öffentlichkeit in einem industriell geprägten Ambiente.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.479293,
+                        48.397696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Diese Kirche in Brest zeichnet sich durch ihre markante Architektur aus und ist ein wichtiger religiöser Ort im Stadtviertel. Das Innere bietet eine Atmosphäre der Stille und beeindruckende sakrale Kunst.",
+                  "category": "religious",
+                  "coords": [
+                        -4.480326,
+                        48.395291
+                  ]
+            },
+            {
+                  "name": "Abeille Bourbon",
+                  "text": "Dieser berühmte Hochsee-Bergungsschlepper ist im Hafen von Brest stationiert und kann oft von der Kaikante aus bewundert werden. Er ist ein Symbol für den Schutz der Meere und die maritime Sicherheit vor der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.48149,
+                        48.381628
+                  ]
+            },
+            {
+                  "name": "La Recouvrance",
+                  "text": "Dieses traditionelle Segelschiff ist ein Nachbau eines Schoners aus dem 19. Jahrhundert und liegt oft im Hafen von Brest. Besucher können es bei Ausfahrten erleben oder die elegante Bauweise aus der Nähe betrachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.486667,
+                        48.380295
+                  ]
+            },
+            {
+                  "name": "Canot de l'Empereur",
+                  "text": "Dieses prunkvolle Zeremonialboot wurde einst für Napoleon genutzt und ist heute in Brest ausgestellt. Es ist ein außergewöhnliches Zeugnis maritimer Handwerkskunst und historischer Eleganz.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.497932,
+                        48.389938
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Diese große Arena in Brest ist ein bedeutendes Zentrum für Sportveranstaltungen und Konzerte in der Region. Sie bietet Platz für tausende Zuschauer und verfügt über eine moderne Ausstattung für diverse Events.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.519861,
+                        48.387443
+                  ]
+            },
+            {
+                  "name": "Vallon du Stangalar",
+                  "text": "Dieser weitläufige Park in Brest bietet ruhige Wanderwege entlang eines Flusstals. Er beherbergt zudem einen Botanischen Garten mit einer beeindruckenden Sammlung seltener Pflanzen.",
+                  "category": "park",
+                  "coords": [
+                        -4.446671,
+                        48.405557
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Blanc",
+                  "text": "Dieser beliebte Sandstrand in Brest lädt zum Spazierengehen und zu verschiedenen Wassersportaktivitäten ein. Er bietet einen weiten Blick auf die Bucht und ist ein geschätzter Erholungsort für Einheimische und Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.428597,
+                        48.396636
+                  ]
+            },
+            {
+                  "name": "Le Fourneau",
+                  "text": "Dieses Theater in Brest ist bekannt für seine Produktionen im Bereich der Straßenkunst und des Zirkus. Es dient als kreativer Ort für Künstler und bietet regelmäßig Vorführungen im Freien oder in seinen Räumlichkeiten an.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.487093,
+                        48.382337
+                  ]
+            },
+            {
+                  "name": "Square Jean-Baptiste Mathon",
+                  "text": "Diese Gartenanlage in Brest bietet eine ruhige Atmosphäre inmitten der Stadtlandschaft. Mit ihren gepflegten Wegen und Sitzgelegenheiten ist sie ein idealer Ort für eine kurze Auszeit im Freien.",
+                  "category": "park",
+                  "coords": [
+                        -4.486539,
+                        48.39011
+                  ]
+            },
+            {
+                  "name": "Le Comœdia",
+                  "text": "Diese Kunstgalerie in Brest befindet sich in einem historisch bedeutsamen Gebäude und präsentiert zeitgenössische Werke. Besucher können hier eine Vielzahl von Gemälden und Skulpturen in einem eleganten Rahmen bewundern.",
+                  "category": "museum",
+                  "coords": [
+                        -4.488297,
+                        48.38531
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Guénolé de Brest",
+                  "text": "Diese Ruinen einer Kapelle in Brest zeugen von der langen religiösen Geschichte der Region. Besucher können die verbliebenen Mauerreste in einer ruhigen Umgebung besichtigen.",
+                  "category": "historical",
+                  "coords": [
+                        -4.523704,
+                        48.406844
+                  ]
+            },
+            {
+                  "name": "Le Quartz",
+                  "text": "Dieses bedeutende Theater und Kulturzentrum in Brest bietet ein breites Programm von Schauspiel bis Tanz. Es ist ein zentraler Treffpunkt für Kunstliebhaber und verfügt über moderne Aufführungsräume.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.485331,
+                        48.389128
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Bouguen",
+                  "text": "Diese Kirche in Brest dient als Ort der Andacht und Ruhe für die lokale Gemeinde. Das Gebäude ist ein charakteristisches Beispiel für die sakrale Architektur im Stadtteil Bouguen.",
+                  "category": "religious",
+                  "coords": [
+                        -4.504487,
+                        48.402747
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Kerinou",
+                  "text": "Dieses Gotteshaus in Brest ist ein wichtiger Fixpunkt im religiösen Leben des Stadtviertels Kerinou. Besucher können die schlichte Schönheit des Innenraums und die friedliche Atmosphäre genießen.",
+                  "category": "religious",
+                  "coords": [
+                        -4.489352,
+                        48.403474
+                  ]
+            },
+            {
+                  "name": "Église de Lambézellec",
+                  "text": "Die Kirche von Lambézellec ist ein markantes religiöses Bauwerk in diesem historischen Teil von Brest. Sie prägt mit ihrem Turm das Stadtbild und lädt zur Besichtigung ihrer sakralen Kunst ein.",
+                  "category": "religious",
+                  "coords": [
+                        -4.492773,
+                        48.416276
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Diese katholische Kirche in Brest bietet einen Raum für Gebet und Besinnung im Stadtzentrum. Ihre Architektur fügt sich harmonisch in die umliegende Bebauung ein.",
+                  "category": "religious",
+                  "coords": [
+                        -4.465677,
+                        48.40532
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marc",
+                  "text": "Die Kirche Saint-Marc ist ein wichtiges religiöses Zentrum in Brest. Das Gebäude zeichnet sich durch seine klaren Linien und die einladende Atmosphäre für Gläubige und Besucher aus.",
+                  "category": "religious",
+                  "coords": [
+                        -4.45415,
+                        48.399099
+                  ]
+            },
+            {
+                  "name": "Église Saint-François du Guelmeur",
+                  "text": "Dieses Gotteshaus im Stadtteil Guelmeur ist ein zentraler Ort für die Gemeinde in Brest. Es bietet eine ruhige Umgebung für Gottesdienste und persönliche Einkehr.",
+                  "category": "religious",
+                  "coords": [
+                        -4.463024,
+                        48.392275
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Die Kirche Saint-Michel in Brest besticht durch ihre Architektur und ihre Lage im Stadtgefüge. Im Inneren finden Besucher kunstvolle Details und einen Ort der Stille.",
+                  "category": "religious",
+                  "coords": [
+                        -4.479844,
+                        48.39148
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "Diese Kirche in Brest ist ein Ort der Begegnung und des Glaubens für die Einwohner des Viertels. Das Gebäude repräsentiert die sakrale Baukunst der Moderne in dieser Region.",
+                  "category": "religious",
+                  "coords": [
+                        -4.483755,
+                        48.401872
+                  ]
+            },
+            {
+                  "name": "Halles Saint-Louis",
+                  "text": "Diese Markthallen in Brest bieten eine reiche Auswahl an frischen regionalen Produkten und Spezialitäten. Besucher können hier in die lokale Atmosphäre eintauchen und kulinarische Köstlichkeiten entdecken.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.489455,
+                        48.389535
+                  ]
             }
       ],
       "hu": [
@@ -2702,6 +4727,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.491125,
                         48.380278
+                  ]
+            },
+            {
+                  "name": "Musée national de la Marine",
+                  "text": "Ez a bresti múzeum egy történelmi erődben található, és Franciaország tengerészeti történelmét dokumentálja. A látogatók hajómodelleket, fegyvereket és tengerészeti leleteket fedezhetnek fel itt.",
+                  "category": "museum",
+                  "coords": [
+                        -4.492364,
+                        48.381272
+                  ]
+            },
+            {
+                  "name": "Fort du Questel",
+                  "text": "Ez a jó állapotban fennmaradt 18. századi erődítmény betekintést nyújt a kor katonai építészetébe. A látogatók felfedezhetik a várárkokat és a föld alatti járatokat a területen.",
+                  "category": "historical",
+                  "coords": [
+                        -4.533577,
+                        48.400605
+                  ]
+            },
+            {
+                  "name": "La Carène",
+                  "text": "Ez a modern bresti koncertterem a kortárs zene és kultúra egyik fontos helyszíne. Koncertek széles választékát kínálja, és lenyűgöző akusztikával rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.481948,
+                        48.384794
+                  ]
+            },
+            {
+                  "name": "Passerelle Centre d'art contemporain",
+                  "text": "Ez a bresti kortárs művészeti központ modern alkotásokból álló, időszaki kiállításokat mutat be. Ipari környezetben ösztönzi a művészek és a közönség közötti párbeszédet.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.479293,
+                        48.397696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Ez a bresti templom jellegzetes építészetével tűnik ki, és a városnegyed fontos vallási helyszíne. Belső tere a nyugalom hangulatát és lenyűgöző szakrális művészetet kínál.",
+                  "category": "religious",
+                  "coords": [
+                        -4.480326,
+                        48.395291
+                  ]
+            },
+            {
+                  "name": "Abeille Bourbon",
+                  "text": "Ez a híres nyílt tengeri mentőhajó Brest kikötőjében állomásozik, és gyakran megcsodálható a rakpartról. A tengerek védelmének és a partmenti tengeri biztonságnak a szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.48149,
+                        48.381628
+                  ]
+            },
+            {
+                  "name": "La Recouvrance",
+                  "text": "Ez a hagyományos vitorláshajó egy 19. századi szkúner másolata, amely gyakran Brest kikötőjében horgonyoz. A látogatók részt vehetnek vele kihajózásokon, vagy közelről is megcsodálhatják elegáns szerkezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.486667,
+                        48.380295
+                  ]
+            },
+            {
+                  "name": "Canot de l'Empereur",
+                  "text": "Ezt a pompás díszhajót egykor Napóleon használta, ma pedig Brestben látható. A tengeri kézművesség és a történelmi elegancia rendkívüli tanúbizonysága.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.497932,
+                        48.389938
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Ez a nagy bresti aréna a régió jelentős sporteseményeinek és koncertjeinek központja. Több ezer néző befogadására alkalmas, és modern felszereléssel rendelkezik a különböző rendezvényekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.519861,
+                        48.387443
+                  ]
+            },
+            {
+                  "name": "Vallon du Stangalar",
+                  "text": "Ez a kiterjedt bresti park csendes túraútvonalakat kínál egy folyóvölgy mentén. Emellett egy botanikus kertnek is otthont ad, ahol ritka növények lenyűgöző gyűjteménye található.",
+                  "category": "park",
+                  "coords": [
+                        -4.446671,
+                        48.405557
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Blanc",
+                  "text": "Ez a népszerű homokos tengerpart Brestben sétálásra és különféle vízi sportokra hívogat. Széles kilátást nyújt az öbölre, és kedvelt pihenőhely a helyiek és a látogatók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.428597,
+                        48.396636
+                  ]
+            },
+            {
+                  "name": "Le Fourneau",
+                  "text": "Ez a bresti színház az utcai művészetek és a cirkusz területén készült produkcióiról ismert. Alkotóműhelyként szolgál a művészek számára, és rendszeresen tart előadásokat a szabadban vagy saját termeiben.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.487093,
+                        48.382337
+                  ]
+            },
+            {
+                  "name": "Square Jean-Baptiste Mathon",
+                  "text": "Ez a bresti park csendes hangulatot áraszt a városi környezet közepén. Gondozott útjaival és ülőalkalmatosságaival ideális hely egy rövid szabadtéri pihenőhöz.",
+                  "category": "park",
+                  "coords": [
+                        -4.486539,
+                        48.39011
+                  ]
+            },
+            {
+                  "name": "Le Comœdia",
+                  "text": "Ez a bresti művészeti galéria egy történelmileg jelentős épületben található, és kortárs alkotásokat mutat be. A látogatók festmények és szobrok sokaságát csodálhatják meg elegáns környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        -4.488297,
+                        48.38531
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Guénolé de Brest",
+                  "text": "Ezek a bresti kápolnaromok a régió hosszú vallási történelméről tanúskodnak. A látogatók csendes környezetben tekinthetik meg a megmaradt falmaradványokat.",
+                  "category": "historical",
+                  "coords": [
+                        -4.523704,
+                        48.406844
+                  ]
+            },
+            {
+                  "name": "Le Quartz",
+                  "text": "Ez a jelentős bresti színház és kulturális központ széles programkínálatot nyújt a drámától a táncig. A művészetkedvelők központi találkozóhelye, amely modern előadótermekkel rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.485331,
+                        48.389128
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Bouguen",
+                  "text": "Ez a bresti templom áhítat és nyugalom helyszíneként szolgál a helyi közösség számára. Az épület a Bouguen negyed szakrális építészetének jellegzetes példája.",
+                  "category": "religious",
+                  "coords": [
+                        -4.504487,
+                        48.402747
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Kerinou",
+                  "text": "Ez a bresti templom a Kerinou negyed vallási életének fontos tartópillére. A látogatók élvezhetik a belső tér egyszerű szépségét és a békés hangulatot.",
+                  "category": "religious",
+                  "coords": [
+                        -4.489352,
+                        48.403474
+                  ]
+            },
+            {
+                  "name": "Église de Lambézellec",
+                  "text": "Lambézellec temploma jellegzetes vallási épület Brest ezen történelmi részén. Tornyával meghatározza a városképet, és hívogatja a látogatókat szakrális művészetének megtekintésére.",
+                  "category": "religious",
+                  "coords": [
+                        -4.492773,
+                        48.416276
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Ez a bresti katolikus templom imádságra és elmélkedésre kínál helyet a városközpontban. Építészete harmonikusan illeszkedik a környező épületekhez.",
+                  "category": "religious",
+                  "coords": [
+                        -4.465677,
+                        48.40532
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marc",
+                  "text": "A Saint-Marc templom Brest fontos vallási központja. Az épületet letisztult vonalvezetése és a hívők, valamint látogatók számára nyújtott barátságos légköre jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        -4.45415,
+                        48.399099
+                  ]
+            },
+            {
+                  "name": "Église Saint-François du Guelmeur",
+                  "text": "Ez a Guelmeur negyedben található templom a bresti közösség egyik központi helyszíne. Csendes környezetet biztosít az istentiszteletekhez és a személyes elmélyüléshez.",
+                  "category": "religious",
+                  "coords": [
+                        -4.463024,
+                        48.392275
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "A bresti Saint-Michel templom lenyűgözi a látogatókat építészetével és városi elhelyezkedésével. Odabent művészi részleteket és a csend szigetét találják a látogatók.",
+                  "category": "religious",
+                  "coords": [
+                        -4.479844,
+                        48.39148
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "Ez a bresti templom a környék lakói számára a találkozás és a hit helyszíne. Az épület a modern szakrális építészetet képviseli ebben a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -4.483755,
+                        48.401872
+                  ]
+            },
+            {
+                  "name": "Halles Saint-Louis",
+                  "text": "Ezek a bresti vásárcsarnokok friss regionális termékek és specialitások gazdag választékát kínálják. A látogatók itt elmerülhetnek a helyi hangulatban, és kulináris finomságokat fedezhetnek fel.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.489455,
+                        48.389535
                   ]
             }
       ],
@@ -2873,6 +5123,231 @@ const citySeeds: CitySeed[] = [
                         -4.491125,
                         48.380278
                   ]
+            },
+            {
+                  "name": "Musée national de la Marine",
+                  "text": "Acest muzeu din Brest este situat într-o cetate istorică și documentează istoria maritimă a Franței. Vizitatorii pot descoperi aici modele de nave, arme și artefacte maritime.",
+                  "category": "museum",
+                  "coords": [
+                        -4.492364,
+                        48.381272
+                  ]
+            },
+            {
+                  "name": "Fort du Questel",
+                  "text": "Această fortificație bine conservată din secolul al XVIII-lea oferă perspective asupra arhitecturii militare a acelei epoci. Vizitatorii pot explora șanțurile și pasajele subterane de pe teren.",
+                  "category": "historical",
+                  "coords": [
+                        -4.533577,
+                        48.400605
+                  ]
+            },
+            {
+                  "name": "La Carène",
+                  "text": "Această sală modernă de concerte din Brest este un loc important pentru muzica și cultura contemporană. Oferă o selecție diversă de concerte și are o acustică impresionantă.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.481948,
+                        48.384794
+                  ]
+            },
+            {
+                  "name": "Passerelle Centre d'art contemporain",
+                  "text": "Acest centru de artă contemporană din Brest prezintă expoziții temporare de lucrări moderne. Promovează schimbul între artiști și public într-un cadru cu caracter industrial.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.479293,
+                        48.397696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Această biserică din Brest se remarcă prin arhitectura sa distinctivă și este un loc religios important în cartier. Interiorul oferă o atmosferă de liniște și artă sacră impresionantă.",
+                  "category": "religious",
+                  "coords": [
+                        -4.480326,
+                        48.395291
+                  ]
+            },
+            {
+                  "name": "Abeille Bourbon",
+                  "text": "Acest faimos remorcher de salvare oceanică este staționat în portul Brest și poate fi adesea admirat de pe chei. Este un simbol al protecției mărilor și al siguranței maritime în largul coastenlor.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.48149,
+                        48.381628
+                  ]
+            },
+            {
+                  "name": "La Recouvrance",
+                  "text": "Această navă tradițională cu pânze este o replică a unei goelete din secolul al XIX-lea și se află adesea în portul Brest. Vizitatorii o pot experimenta în timpul croazierelor sau pot admira de aproape construcția sa elegantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.486667,
+                        48.380295
+                  ]
+            },
+            {
+                  "name": "Canot de l'Empereur",
+                  "text": "Această barcă ceremonială somptuoasă a fost folosită cândva pentru Napoleon și este expusă astăzi la Brest. Este o mărturie excepțională a măiestriei maritime și a eleganței istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.497932,
+                        48.389938
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "Această arenă mare din Brest este un centru important pentru evenimente sportive și concerte din regiune. Are o capacitate de mii de spectatori și dispune de facilități moderne pentru diverse evenimente.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.519861,
+                        48.387443
+                  ]
+            },
+            {
+                  "name": "Vallon du Stangalar",
+                  "text": "Acest parc întins din Brest oferă trasee de drumeție liniștite de-a lungul unei văi de râu. De asemenea, găzduiește o grădină botanică cu o colecție impresionantă de plante rare.",
+                  "category": "park",
+                  "coords": [
+                        -4.446671,
+                        48.405557
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Blanc",
+                  "text": "Această plajă populară cu nisip din Brest invită la plimbări și la diverse activități de sporturi nautice. Oferă o vedere largă asupra golfului și este un loc de relaxare apreciat pentru localnici și vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.428597,
+                        48.396636
+                  ]
+            },
+            {
+                  "name": "Le Fourneau",
+                  "text": "Acest teatru din Brest este cunoscut pentru producțiile sale în domeniul artei stradale și al circului. Servește ca spațiu creativ pentru artiști și oferă în mod regulat spectacole în aer liber sau în incinta sa.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.487093,
+                        48.382337
+                  ]
+            },
+            {
+                  "name": "Square Jean-Baptiste Mathon",
+                  "text": "Această grădină din Brest oferă o atmosferă liniștită în mijlocul peisajului urban. Cu aleile sale îngrijite și zonele de relaxare, este un loc ideal pentru o scurtă pauză în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        -4.486539,
+                        48.39011
+                  ]
+            },
+            {
+                  "name": "Le Comœdia",
+                  "text": "Această galerie de artă din Brest este situată într-o clădire cu semnificație istorică și prezintă lucrări contemporane. Vizitatorii pot admira aici o varietate de picturi și sculpturi într-un cadru elegant.",
+                  "category": "museum",
+                  "coords": [
+                        -4.488297,
+                        48.38531
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Guénolé de Brest",
+                  "text": "Aceste ruine ale unei capele din Brest stau mărturie pentru istoria religioasă lungă a regiunii. Vizitatorii pot vedea resturile de ziduri rămase într-un cadru liniștit.",
+                  "category": "historical",
+                  "coords": [
+                        -4.523704,
+                        48.406844
+                  ]
+            },
+            {
+                  "name": "Le Quartz",
+                  "text": "Acest teatru și centru cultural important din Brest oferă un program variat, de la piese de teatru la dans. Este un loc de întâlnire central pentru iubitorii de artă și dispune de spații moderne de spectacol.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.485331,
+                        48.389128
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Bouguen",
+                  "text": "Această biserică din Brest servește ca loc de rugăciune și liniște pentru comunitatea locală. Clădirea este un exemplu caracteristic de arhitectură sacră din cartierul Bouguen.",
+                  "category": "religious",
+                  "coords": [
+                        -4.504487,
+                        48.402747
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Kerinou",
+                  "text": "Acest lăcaș de cult din Brest este un punct de referință important în viața religioasă a cartierului Kerinou. Vizitatorii se pot bucura de frumusețea simplă a interiorului și de atmosfera pașnică.",
+                  "category": "religious",
+                  "coords": [
+                        -4.489352,
+                        48.403474
+                  ]
+            },
+            {
+                  "name": "Église de Lambézellec",
+                  "text": "Biserica din Lambézellec este un edificiu religios proeminent în această parte istorică a orașului Brest. Turnul său marchează peisajul urban și invită la vizitarea artei sale sacre.",
+                  "category": "religious",
+                  "coords": [
+                        -4.492773,
+                        48.416276
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Această biserică catolică din Brest oferă un spațiu pentru rugăciune și reflecție în centrul orașului. Arhitectura sa se integrează armonios în clădirile învecinate.",
+                  "category": "religious",
+                  "coords": [
+                        -4.465677,
+                        48.40532
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marc",
+                  "text": "Biserica Saint-Marc este un centru religios important din Brest. Clădirea se caracterizează prin liniile sale curate și atmosfera primitoare pentru credincioși și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        -4.45415,
+                        48.399099
+                  ]
+            },
+            {
+                  "name": "Église Saint-François du Guelmeur",
+                  "text": "Acest lăcaș de cult din cartierul Guelmeur este un loc central pentru comunitatea din Brest. Oferă un mediu liniștit pentru slujbe religioase și reflecție personală.",
+                  "category": "religious",
+                  "coords": [
+                        -4.463024,
+                        48.392275
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Biserica Saint-Michel din Brest impresionează prin arhitectura sa și amplasarea în structura orașului. În interior, vizitatorii găsesc detalii artistice și un loc de liniște.",
+                  "category": "religious",
+                  "coords": [
+                        -4.479844,
+                        48.39148
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "Această biserică din Brest este un loc de întâlnire și de credință pentru locuitorii cartierului. Clădirea reprezintă arhitectura sacră modernă din această regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -4.483755,
+                        48.401872
+                  ]
+            },
+            {
+                  "name": "Halles Saint-Louis",
+                  "text": "Aceste hale din Brest oferă o selecție bogată de produse regionale proaspete și specialități. Vizitatorii se pot cufunda în atmosfera locală și pot descoperi delicii culinare.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.489455,
+                        48.389535
+                  ]
             }
       ],
       "en": [
@@ -3042,6 +5517,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.491125,
                         48.380278
+                  ]
+            },
+            {
+                  "name": "Musée national de la Marine",
+                  "text": "Located in a historic fortress, this museum in Brest documents the maritime history of France. Visitors can discover ship models, weapons, and maritime artifacts here.",
+                  "category": "museum",
+                  "coords": [
+                        -4.492364,
+                        48.381272
+                  ]
+            },
+            {
+                  "name": "Fort du Questel",
+                  "text": "This well-preserved 18th-century fortification offers insights into the military architecture of that era. Visitors can explore the moats and underground passages on the site.",
+                  "category": "historical",
+                  "coords": [
+                        -4.533577,
+                        48.400605
+                  ]
+            },
+            {
+                  "name": "La Carène",
+                  "text": "This modern concert venue in Brest is an important location for contemporary music and culture. It offers a diverse selection of concerts and features impressive acoustics.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.481948,
+                        48.384794
+                  ]
+            },
+            {
+                  "name": "Passerelle Centre d'art contemporain",
+                  "text": "This contemporary art center in Brest presents rotating exhibitions of modern works. It encourages exchange between artists and the public in an industrially themed setting.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.479293,
+                        48.397696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "This church in Brest is characterized by its distinctive architecture and is an important religious site in the neighborhood. The interior offers an atmosphere of silence and impressive sacred art.",
+                  "category": "religious",
+                  "coords": [
+                        -4.480326,
+                        48.395291
+                  ]
+            },
+            {
+                  "name": "Abeille Bourbon",
+                  "text": "This famous ocean-going salvage tug is stationed in the port of Brest and can often be admired from the quayside. It is a symbol of marine protection and maritime safety off the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.48149,
+                        48.381628
+                  ]
+            },
+            {
+                  "name": "La Recouvrance",
+                  "text": "This traditional sailing vessel is a replica of a 19th-century schooner and is often moored in the port of Brest. Visitors can experience it during outings or admire its elegant construction up close.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.486667,
+                        48.380295
+                  ]
+            },
+            {
+                  "name": "Canot de l'Empereur",
+                  "text": "This magnificent ceremonial boat was once used for Napoleon and is now on display in Brest. It is an exceptional testament to maritime craftsmanship and historical elegance.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.497932,
+                        48.389938
+                  ]
+            },
+            {
+                  "name": "Arena",
+                  "text": "This large arena in Brest is a major center for sporting events and concerts in the region. It accommodates thousands of spectators and features modern facilities for various events.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.519861,
+                        48.387443
+                  ]
+            },
+            {
+                  "name": "Vallon du Stangalar",
+                  "text": "This expansive park in Brest offers peaceful hiking trails along a river valley. It also houses a botanical garden with an impressive collection of rare plants.",
+                  "category": "park",
+                  "coords": [
+                        -4.446671,
+                        48.405557
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Blanc",
+                  "text": "This popular sandy beach in Brest is perfect for walking and various water sports activities. It offers a wide view of the bay and is a cherished recreational spot for locals and visitors alike.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.428597,
+                        48.396636
+                  ]
+            },
+            {
+                  "name": "Le Fourneau",
+                  "text": "This theatre in Brest is known for its street art and circus productions. It serves as a creative space for artists and regularly hosts performances outdoors or within its premises.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.487093,
+                        48.382337
+                  ]
+            },
+            {
+                  "name": "Square Jean-Baptiste Mathon",
+                  "text": "This garden in Brest offers a peaceful atmosphere amidst the urban landscape. With its well-kept paths and seating areas, it is an ideal spot for a short break outdoors.",
+                  "category": "park",
+                  "coords": [
+                        -4.486539,
+                        48.39011
+                  ]
+            },
+            {
+                  "name": "Le Comœdia",
+                  "text": "This art gallery in Brest is located in a historically significant building and presents contemporary works. Visitors can admire a variety of paintings and sculptures here in an elegant setting.",
+                  "category": "museum",
+                  "coords": [
+                        -4.488297,
+                        48.38531
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Guénolé de Brest",
+                  "text": "These chapel ruins in Brest testify to the long religious history of the region. Visitors can view the remaining wall fragments in a peaceful setting.",
+                  "category": "historical",
+                  "coords": [
+                        -4.523704,
+                        48.406844
+                  ]
+            },
+            {
+                  "name": "Le Quartz",
+                  "text": "This major theatre and cultural center in Brest offers a broad program ranging from drama to dance. It is a central meeting point for art lovers and features modern performance spaces.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.485331,
+                        48.389128
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Bouguen",
+                  "text": "This church in Brest serves as a place of devotion and peace for the local community. The building is a characteristic example of sacred architecture in the Bouguen district.",
+                  "category": "religious",
+                  "coords": [
+                        -4.504487,
+                        48.402747
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Kerinou",
+                  "text": "This place of worship in Brest is an important fixture in the religious life of the Kerinou district. Visitors can enjoy the simple beauty of the interior and the peaceful atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        -4.489352,
+                        48.403474
+                  ]
+            },
+            {
+                  "name": "Église de Lambézellec",
+                  "text": "The church of Lambézellec is a prominent religious building in this historic part of Brest. Its tower marks the cityscape and invites visitors to view its sacred art.",
+                  "category": "religious",
+                  "coords": [
+                        -4.492773,
+                        48.416276
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "This Catholic church in Brest provides a space for prayer and reflection in the city center. Its architecture blends harmoniously with the surrounding buildings.",
+                  "category": "religious",
+                  "coords": [
+                        -4.465677,
+                        48.40532
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marc",
+                  "text": "The Saint-Marc church is an important religious center in Brest. The building is characterized by its clean lines and welcoming atmosphere for worshippers and visitors alike.",
+                  "category": "religious",
+                  "coords": [
+                        -4.45415,
+                        48.399099
+                  ]
+            },
+            {
+                  "name": "Église Saint-François du Guelmeur",
+                  "text": "This place of worship in the Guelmeur district is a central location for the community in Brest. It offers a quiet environment for services and personal reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -4.463024,
+                        48.392275
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "The Saint-Michel church in Brest impresses with its architecture and its position within the urban fabric. Inside, visitors find artistic details and a place of silence.",
+                  "category": "religious",
+                  "coords": [
+                        -4.479844,
+                        48.39148
+                  ]
+            },
+            {
+                  "name": "Église Saint-Luc",
+                  "text": "This church in Brest is a place of gathering and faith for the neighborhood's residents. The building represents modern sacred architecture in this region.\",\"fr\":\"Cette église de Brest est un lieu de rencontre et de foi pour les habitants du quartier. Le bâtiment représente l'architecture sacrée moderne de cette région.",
+                  "category": "religious",
+                  "coords": [
+                        -4.483755,
+                        48.401872
+                  ]
+            },
+            {
+                  "name": "Halles Saint-Louis",
+                  "text": "These market halls in Brest offer a rich selection of fresh regional products and specialties. Visitors can immerse themselves in the local atmosphere and discover culinary delights here.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.489455,
+                        48.389535
                   ]
             }
       ],
@@ -4601,6 +7301,231 @@ const citySeeds: CitySeed[] = [
                         2.29546,
                         49.8884
                   ]
+            },
+            {
+                  "name": "Église Saint-Maurice d'Amiens",
+                  "text": "Die Kirche Saint-Maurice in Amiens ist ein gotisches Bauwerk, das das historische Viertel prägt. Sie beherbergt wertvolle religiöse Kunstwerke und ist ein bedeutendes lokales Erbe.",
+                  "category": "religious",
+                  "coords": [
+                        2.288173,
+                        49.903687
+                  ]
+            },
+            {
+                  "name": "Église Saint-Remi",
+                  "text": "Diese Kirche in Amiens ist für ihre barocke Ausstattung und die feinen Holzschnitzereien bekannt. Sie war früher Teil eines Franziskanerklosters und ist ein Ort großer Stille.",
+                  "category": "religious",
+                  "coords": [
+                        2.296518,
+                        49.891942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Acheul",
+                  "text": "Saint-Acheul ist eine geschichtsträchtige Kirche in Amiens, die auf einem antiken christlichen Friedhof errichtet wurde. Die Architektur zeigt verschiedene historische Bauphasen.",
+                  "category": "religious",
+                  "coords": [
+                        2.324683,
+                        49.883167
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Die Kirche Sainte-Anne in Amiens besticht durch ihre neugotische Architektur aus dem 19. Jahrhundert. Ihre hohen Türme sind ein markanter Orientierungspunkt in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        2.307827,
+                        49.887422
+                  ]
+            },
+            {
+                  "name": "Square Saint-Denis",
+                  "text": "Der Square Saint-Denis ist ein gepflegter öffentlicher Garten in der Nähe des Stadtzentrums von Amiens. Er bietet Erholungssuchenden Bänke unter alten Bäumen und Statuen lokaler Berühmtheiten.",
+                  "category": "park",
+                  "coords": [
+                        2.303246,
+                        49.891128
+                  ]
+            },
+            {
+                  "name": "Parc de l'Evêché",
+                  "text": "Der Parc de l'Évêché liegt direkt im Schatten der berühmten Kathedrale von Amiens. Dieser ruhige Garten bietet einen einzigartigen Blick auf die gotische Architektur des Doms.",
+                  "category": "park",
+                  "coords": [
+                        2.303405,
+                        49.894761
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des Soeurs Grises",
+                  "text": "Die Überreste des Klosters der Grauen Schwestern sind ein historisches Denkmal in Amiens. Die Ruinen erzählen von der mittelalterlichen Klostergeschichte der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        2.294206,
+                        49.896929
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville d'Amiens",
+                  "text": "Das Rathaus von Amiens ist ein imposantes Gebäude aus dem 18. Jahrhundert mit einer klassizistischen Fassade. Es ist der Sitz der lokalen Verwaltung und ein Symbol bürgerlicher Macht.",
+                  "category": "historical",
+                  "coords": [
+                        2.295706,
+                        49.894111
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Die Maison de la Culture in Amiens ist ein bedeutendes Zentrum für zeitgenössische Kunst und Aufführungen. Sie bietet ein vielfältiges Programm von Theater bis Tanz.",
+                  "category": "cultural",
+                  "coords": [
+                        2.291676,
+                        49.894087
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Vincent-de-Paul",
+                  "text": "Diese Kapelle in Amiens ist dem heiligen Vinzenz von Paul gewidmet. Sie dient als Ort der Andacht und Besinnung für die Gläubigen der Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        2.312427,
+                        49.888238
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Kirche Saint-Martin ist ein markanter Sakralbau in Amiens mit charakteristischer regionaler Architektur. Sie bildet den spirituellen Mittelpunkt ihres Stadtviertels.",
+                  "category": "religious",
+                  "coords": [
+                        2.300401,
+                        49.88509
+                  ]
+            },
+            {
+                  "name": "Couvent de Soeurs du Sacré-Coeur",
+                  "text": "Dieses ehemalige Kloster in Amiens blickt auf eine lange religiöse Tradition zurück. Es beherbergt eine Kapelle, die für ihre friedliche Atmosphäre geschätzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        2.305813,
+                        49.893197
+                  ]
+            },
+            {
+                  "name": "Église Saint-Roch",
+                  "text": "Die Kirche Saint-Roch befindet sich in einem nach ihr benannten Viertel von Amiens. Das Gebäude ist ein wichtiger Treffpunkt für die lokale katholische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        2.281223,
+                        49.89624
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse de l'Enfant-Jésus",
+                  "text": "Diese Kirche in Amiens ist der heiligen Theresia vom Kinde Jesus gewidmet. Sie zeichnet sich durch ihre schlichte Gestaltung aus, die zum Gebet einlädt.",
+                  "category": "religious",
+                  "coords": [
+                        2.30508,
+                        49.91093
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Die Kirche Saint-Jacques ist eines der historischen Wahrzeichen von Amiens. Ihre Architektur vereint verschiedene Stilelemente aus mehreren Jahrhunderten Stadtgeschichte.",
+                  "category": "religious",
+                  "coords": [
+                        2.2915,
+                        49.895764
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Die Église Saint-Pierre ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.306008,
+                        49.902875
+                  ]
+            },
+            {
+                  "name": "Église Saint-Firmin",
+                  "text": "Die Église Saint-Firmin ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.278217,
+                        49.901815
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "Die Église Sainte-Marie-Madeleine ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.258173,
+                        49.89385
+                  ]
+            },
+            {
+                  "name": "Chapelle des Ursulines",
+                  "text": "Die Chapelle des Ursulines ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.300032,
+                        49.889999
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Philomène",
+                  "text": "Die Chapelle Sainte-Philomène ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.3053,
+                        49.894447
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Sainte-Famille",
+                  "text": "Die Chapelle de la Sainte-Famille ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.308264,
+                        49.889227
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Die Église du Sacré-Cœur ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.312216,
+                        49.893091
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Die Église Saint-Jean-Baptiste ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.2643,
+                        49.887671
+                  ]
+            },
+            {
+                  "name": "Église du Cœur-Immaculé-de-Marie",
+                  "text": "Die Église du Cœur-Immaculé-de-Marie ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.329611,
+                        49.874944
+                  ]
+            },
+            {
+                  "name": "Église du Carmel",
+                  "text": "Die Église du Carmel ist eine bedeutende Gebetsstätte in Amiens. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.305252,
+                        49.865144
+                  ]
             }
       ],
       "hu": [
@@ -4742,6 +7667,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.29546,
                         49.8884
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice d'Amiens",
+                  "text": "Az amiens-i Saint-Maurice templom egy gótikus épület, amely meghatározza a történelmi negyedet. Értékes vallási műalkotásoknak ad otthont, és jelentős helyi örökség.",
+                  "category": "religious",
+                  "coords": [
+                        2.288173,
+                        49.903687
+                  ]
+            },
+            {
+                  "name": "Église Saint-Remi",
+                  "text": "Ez az amiens-i templom barokk berendezéséről és finom fafaragásairól ismert. Korábban egy ferences kolostor része volt, és a nagy csend helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        2.296518,
+                        49.891942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Acheul",
+                  "text": "A Saint-Acheul egy nagy múltú templom Amiens-ben, amely egy ókori keresztény temetőre épült. Az építészet különböző történelmi építési szakaszokat mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        2.324683,
+                        49.883167
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Az amiens-i Sainte-Anne templom 19. századi neogótikus építészetével tűnik ki. Magas tornyai jellegzetes tájékozódási pontok a városban.",
+                  "category": "religious",
+                  "coords": [
+                        2.307827,
+                        49.887422
+                  ]
+            },
+            {
+                  "name": "Square Saint-Denis",
+                  "text": "A Square Saint-Denis egy gondozott nyilvános kert Amiens városközpontjának közelében. A pihenni vágyókat padok várják az öreg fák alatt és helyi hírességek szobrai között.",
+                  "category": "park",
+                  "coords": [
+                        2.303246,
+                        49.891128
+                  ]
+            },
+            {
+                  "name": "Parc de l'Evêché",
+                  "text": "A Parc de l'Évêché közvetlenül a híres amiens-i székesegyház árnyékában fekszik. Ez a nyugodt kert egyedülálló kilátást nyújt a dóm gótikus építészetére.",
+                  "category": "park",
+                  "coords": [
+                        2.303405,
+                        49.894761
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des Soeurs Grises",
+                  "text": "A Szürke Nővérek kolostorának maradványai történelmi műemlék Amiens-ben. A romok a város középkori kolostortörténetéről mesélnek.",
+                  "category": "historical",
+                  "coords": [
+                        2.294206,
+                        49.896929
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville d'Amiens",
+                  "text": "Az amiens-i városháza egy impozáns 18. századi épület klasszicista homlokzattal. A helyi közigazgatás székhelye és a polgári hatalom szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        2.295706,
+                        49.894111
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Az amiens-i Maison de la Culture a kortárs művészetek és előadások jelentős központja. Változatos programokat kínál a színháztól a táncig.",
+                  "category": "cultural",
+                  "coords": [
+                        2.291676,
+                        49.894087
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Vincent-de-Paul",
+                  "text": "Ez az amiens-i kápolna Páli Szent Vincének van szentelve. Az áhítat és az elmélkedés helyszíneként szolgál a környék hívői számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.312427,
+                        49.888238
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A Saint-Martin templom egy jellegzetes egyházi épület Amiens-ben, karakteres regionális építészettel. Városrészének spirituális központját alkotja.",
+                  "category": "religious",
+                  "coords": [
+                        2.300401,
+                        49.88509
+                  ]
+            },
+            {
+                  "name": "Couvent de Soeurs du Sacré-Coeur",
+                  "text": "Ez az egykori amiens-i kolostor hosszú vallási hagyományra tekint vissza. Egy kápolnának ad otthont, amelyet békés hangulatáért kedvelnek.",
+                  "category": "religious",
+                  "coords": [
+                        2.305813,
+                        49.893197
+                  ]
+            },
+            {
+                  "name": "Église Saint-Roch",
+                  "text": "A Saint-Roch templom Amiens róla elnevezett negyedében található. Az épület a helyi katolikus közösség fontos találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        2.281223,
+                        49.89624
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse de l'Enfant-Jésus",
+                  "text": "Ez az amiens-i templom a Gyermek Jézusról nevezett Szent Teréznek van szentelve. Egyszerű kialakítása imádságra hívja a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        2.30508,
+                        49.91093
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "A Saint-Jacques templom Amiens egyik történelmi jelképe. Építészete a város történetének több évszázadából származó különböző stíluselemeket ötvöz.",
+                  "category": "religious",
+                  "coords": [
+                        2.2915,
+                        49.895764
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "A Église Saint-Pierre egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.306008,
+                        49.902875
+                  ]
+            },
+            {
+                  "name": "Église Saint-Firmin",
+                  "text": "A Église Saint-Firmin egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.278217,
+                        49.901815
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "A Église Sainte-Marie-Madeleine egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.258173,
+                        49.89385
+                  ]
+            },
+            {
+                  "name": "Chapelle des Ursulines",
+                  "text": "A Chapelle des Ursulines egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.300032,
+                        49.889999
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Philomène",
+                  "text": "A Chapelle Sainte-Philomène egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.3053,
+                        49.894447
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Sainte-Famille",
+                  "text": "A Chapelle de la Sainte-Famille egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.308264,
+                        49.889227
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "A Église du Sacré-Cœur egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.312216,
+                        49.893091
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "A Église Saint-Jean-Baptiste egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.2643,
+                        49.887671
+                  ]
+            },
+            {
+                  "name": "Église du Cœur-Immaculé-de-Marie",
+                  "text": "A Église du Cœur-Immaculé-de-Marie egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.329611,
+                        49.874944
+                  ]
+            },
+            {
+                  "name": "Église du Carmel",
+                  "text": "A Église du Carmel egy jelentős vallási helyszín Amiens területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.305252,
+                        49.865144
                   ]
             }
       ],
@@ -4885,6 +8035,231 @@ const citySeeds: CitySeed[] = [
                         2.29546,
                         49.8884
                   ]
+            },
+            {
+                  "name": "Église Saint-Maurice d'Amiens",
+                  "text": "Biserica Saint-Maurice din Amiens este un edificiu gotic care marchează cartierul istoric. Adăpostește opere de artă religioasă valoroase și este o moștenire locală importantă.",
+                  "category": "religious",
+                  "coords": [
+                        2.288173,
+                        49.903687
+                  ]
+            },
+            {
+                  "name": "Église Saint-Remi",
+                  "text": "Această biserică din Amiens este cunoscută pentru decorul său baroc și sculpturile fine în lemn. A fost anterior parte a unei mănăstiri franciscane și este un loc de mare liniște.",
+                  "category": "religious",
+                  "coords": [
+                        2.296518,
+                        49.891942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Acheul",
+                  "text": "Saint-Acheul este o biserică încărcată de istorie din Amiens, construită pe un antic cimitir creștin. Arhitectura prezintă diferite faze istorice de construcție.",
+                  "category": "religious",
+                  "coords": [
+                        2.324683,
+                        49.883167
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Biserica Sainte-Anne din Amiens impresionează prin arhitectura sa neogotică din secolul al XIX-lea. Turnurile sale înalte sunt un punct de reper proeminent în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        2.307827,
+                        49.887422
+                  ]
+            },
+            {
+                  "name": "Square Saint-Denis",
+                  "text": "Square Saint-Denis este o grădină publică bine întreținută, situată lângă centrul orașului Amiens. Oferă bănci sub arbori bătrâni și statui ale unor celebrități locale pentru cei care caută relaxare.",
+                  "category": "park",
+                  "coords": [
+                        2.303246,
+                        49.891128
+                  ]
+            },
+            {
+                  "name": "Parc de l'Evêché",
+                  "text": "Parcul de l'Évêché este situat chiar în umbra faimoasei catedrale din Amiens. Această grădină liniștită oferă o vedere unică asupra arhitecturii gotice a domului.",
+                  "category": "park",
+                  "coords": [
+                        2.303405,
+                        49.894761
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des Soeurs Grises",
+                  "text": "Rămășițele mănăstirii Surorilor Gri sunt un monument istoric din Amiens. Ruinele povestesc despre istoria monastică medievală a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        2.294206,
+                        49.896929
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville d'Amiens",
+                  "text": "Primăria din Amiens este o clădire impunătoare din secolul al XVIII-lea, cu o fațadă clasicistă. Este sediul administrației locale și un simbol al puterii civice.",
+                  "category": "historical",
+                  "coords": [
+                        2.295706,
+                        49.894111
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Casa Culturii din Amiens este un centru important pentru arta contemporană și spectacole. Oferă un program diversificat, de la teatru până la dans.",
+                  "category": "cultural",
+                  "coords": [
+                        2.291676,
+                        49.894087
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Vincent-de-Paul",
+                  "text": "Această capelă din Amiens este dedicată Sfântului Vincențiu de Paul. Servește ca loc de devoțiune și reculegere pentru credincioșii din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        2.312427,
+                        49.888238
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Biserica Saint-Martin este un lăcaș de cult proeminent din Amiens, cu o arhitectură regională caracteristică. Formează centrul spiritual al cartierului său.",
+                  "category": "religious",
+                  "coords": [
+                        2.300401,
+                        49.88509
+                  ]
+            },
+            {
+                  "name": "Couvent de Soeurs du Sacré-Coeur",
+                  "text": "Această fostă mănăstire din Amiens are o lungă tradiție religioasă. Adăpostește o capelă apreciată pentru atmosfera sa pașnică.",
+                  "category": "religious",
+                  "coords": [
+                        2.305813,
+                        49.893197
+                  ]
+            },
+            {
+                  "name": "Église Saint-Roch",
+                  "text": "Biserica Saint-Roch este situată într-un cartier din Amiens care îi poartă numele. Clădirea este un punct de întâlnire important pentru comunitatea catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        2.281223,
+                        49.89624
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse de l'Enfant-Jésus",
+                  "text": "Această biserică din Amiens este dedicată Sfintei Tereza a Pruncului Isus. Se distinge prin designul său simplu, care invită la rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        2.30508,
+                        49.91093
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Biserica Saint-Jacques este unul dintre punctele de reper istorice din Amiens. Arhitectura sa îmbină diferite elemente stilistice din mai multe secole de istorie a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        2.2915,
+                        49.895764
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Biserica Église Saint-Pierre este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.306008,
+                        49.902875
+                  ]
+            },
+            {
+                  "name": "Église Saint-Firmin",
+                  "text": "Biserica Église Saint-Firmin este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.278217,
+                        49.901815
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "Biserica Église Sainte-Marie-Madeleine este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.258173,
+                        49.89385
+                  ]
+            },
+            {
+                  "name": "Chapelle des Ursulines",
+                  "text": "Biserica Chapelle des Ursulines este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.300032,
+                        49.889999
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Philomène",
+                  "text": "Biserica Chapelle Sainte-Philomène este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.3053,
+                        49.894447
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Sainte-Famille",
+                  "text": "Biserica Chapelle de la Sainte-Famille este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.308264,
+                        49.889227
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Biserica Église du Sacré-Cœur este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.312216,
+                        49.893091
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Biserica Église Saint-Jean-Baptiste este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.2643,
+                        49.887671
+                  ]
+            },
+            {
+                  "name": "Église du Cœur-Immaculé-de-Marie",
+                  "text": "Biserica Église du Cœur-Immaculé-de-Marie este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.329611,
+                        49.874944
+                  ]
+            },
+            {
+                  "name": "Église du Carmel",
+                  "text": "Biserica Église du Carmel este un lăcaș de cult notabil situat în Amiens. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.305252,
+                        49.865144
+                  ]
             }
       ],
       "en": [
@@ -5026,6 +8401,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.29546,
                         49.8884
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice d'Amiens",
+                  "text": "Saint-Maurice Church in Amiens is a Gothic building that characterizes the historic district. It houses valuable religious artworks and is a significant local heritage site.",
+                  "category": "religious",
+                  "coords": [
+                        2.288173,
+                        49.903687
+                  ]
+            },
+            {
+                  "name": "Église Saint-Remi",
+                  "text": "This church in Amiens is known for its Baroque decor and fine wood carvings. It was formerly part of a Franciscan monastery and is a place of great silence.",
+                  "category": "religious",
+                  "coords": [
+                        2.296518,
+                        49.891942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Acheul",
+                  "text": "Saint-Acheul is a history-rich church in Amiens built on an ancient Christian cemetery. The architecture displays various historical construction phases.",
+                  "category": "religious",
+                  "coords": [
+                        2.324683,
+                        49.883167
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Sainte-Anne Church in Amiens impresses with its 19th-century Neo-Gothic architecture. Its tall towers are a prominent landmark in the city.",
+                  "category": "religious",
+                  "coords": [
+                        2.307827,
+                        49.887422
+                  ]
+            },
+            {
+                  "name": "Square Saint-Denis",
+                  "text": "Square Saint-Denis is a well-kept public garden near Amiens city center. It offers benches under old trees and statues of local celebrities for those seeking relaxation.",
+                  "category": "park",
+                  "coords": [
+                        2.303246,
+                        49.891128
+                  ]
+            },
+            {
+                  "name": "Parc de l'Evêché",
+                  "text": "Parc de l'Evêché is located right in the shadow of the famous Amiens Cathedral. This peaceful garden offers a unique view of the cathedral's Gothic architecture.",
+                  "category": "park",
+                  "coords": [
+                        2.303405,
+                        49.894761
+                  ]
+            },
+            {
+                  "name": "Ancien couvent des Soeurs Grises",
+                  "text": "The remains of the Convent of the Grey Sisters are a historical monument in Amiens. The ruins tell of the city's medieval monastic history.",
+                  "category": "historical",
+                  "coords": [
+                        2.294206,
+                        49.896929
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville d'Amiens",
+                  "text": "Amiens City Hall is an imposing 18th-century building with a neoclassical facade. It is the seat of local administration and a symbol of civic power.",
+                  "category": "historical",
+                  "coords": [
+                        2.295706,
+                        49.894111
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "The Maison de la Culture in Amiens is an important center for contemporary art and performances. It offers a diverse program ranging from theater to dance.",
+                  "category": "cultural",
+                  "coords": [
+                        2.291676,
+                        49.894087
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Vincent-de-Paul",
+                  "text": "This chapel in Amiens is dedicated to Saint Vincent de Paul. It serves as a place of devotion and reflection for the local faithful.",
+                  "category": "religious",
+                  "coords": [
+                        2.312427,
+                        49.888238
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Saint-Martin Church is a prominent religious building in Amiens with characteristic regional architecture. It forms the spiritual center of its neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        2.300401,
+                        49.88509
+                  ]
+            },
+            {
+                  "name": "Couvent de Soeurs du Sacré-Coeur",
+                  "text": "This former convent in Amiens has a long religious tradition. It houses a chapel valued for its peaceful atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        2.305813,
+                        49.893197
+                  ]
+            },
+            {
+                  "name": "Église Saint-Roch",
+                  "text": "Saint-Roch Church is located in a neighborhood of Amiens named after it. The building is an important meeting point for the local Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        2.281223,
+                        49.89624
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse de l'Enfant-Jésus",
+                  "text": "This church in Amiens is dedicated to Saint Thérèse of the Child Jesus. It is characterized by its simple design, which invites prayer.",
+                  "category": "religious",
+                  "coords": [
+                        2.30508,
+                        49.91093
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jacques",
+                  "text": "Saint-Jacques Church is one of the historic landmarks of Amiens. Its architecture combines various stylistic elements from several centuries of city history.",
+                  "category": "religious",
+                  "coords": [
+                        2.2915,
+                        49.895764
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "The Église Saint-Pierre is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.306008,
+                        49.902875
+                  ]
+            },
+            {
+                  "name": "Église Saint-Firmin",
+                  "text": "The Église Saint-Firmin is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.278217,
+                        49.901815
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "The Église Sainte-Marie-Madeleine is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.258173,
+                        49.89385
+                  ]
+            },
+            {
+                  "name": "Chapelle des Ursulines",
+                  "text": "The Chapelle des Ursulines is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.300032,
+                        49.889999
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Philomène",
+                  "text": "The Chapelle Sainte-Philomène is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.3053,
+                        49.894447
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Sainte-Famille",
+                  "text": "The Chapelle de la Sainte-Famille is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.308264,
+                        49.889227
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "The Église du Sacré-Cœur is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.312216,
+                        49.893091
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "The Église Saint-Jean-Baptiste is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.2643,
+                        49.887671
+                  ]
+            },
+            {
+                  "name": "Église du Cœur-Immaculé-de-Marie",
+                  "text": "The Église du Cœur-Immaculé-de-Marie is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.329611,
+                        49.874944
+                  ]
+            },
+            {
+                  "name": "Église du Carmel",
+                  "text": "The Église du Carmel is a notable place of worship located in Amiens. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.305252,
+                        49.865144
                   ]
             }
       ],
@@ -10418,6 +14018,231 @@ const citySeeds: CitySeed[] = [
                         7.352023,
                         47.737158
                   ]
+            },
+            {
+                  "name": "Tour du Bollwerk",
+                  "text": "Der Tour du Bollwerk ist ein historischer Wehrturm der mittelalterlichen Befestigungsanlagen von Mulhouse. Er ist ein symbolisches Wahrzeichen der alten Geschichte der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        7.342083,
+                        47.748562
+                  ]
+            },
+            {
+                  "name": "Mulhouse",
+                  "text": "Das Hôtel de Ville de Mulhouse ist das Verwaltungszentrum und Rathaus von Mulhouse. Es ist ein wichtiges öffentliches Gebäude, in dem sich die lokalen Gemeindedienste befinden.",
+                  "category": "historical",
+                  "coords": [
+                        7.336034,
+                        47.750493
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Der Temple Saint-Étienne ist eine bedeutende protestantische Kirche und ein Wahrzeichen von Mulhouse. Er ist bekannt für seine hohe Turmspitze und seine zentrale Lage in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.336484,
+                        47.743742
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Die Synagogue ist eine historische jüdische Gebetsstätte in Mulhouse. Sie ist ein wichtiges kulturelles und religiöses Monument für die Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        7.333854,
+                        47.745082
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean",
+                  "text": "Die Chapelle Saint-Jean ist ein historisches religiöses Gebäude in Mulhouse. Sie ist eine der ältesten Stätten der Stadt und beherbergt heute verschiedene kulturelle Veranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        7.331762,
+                        47.74572
+                  ]
+            },
+            {
+                  "name": "Sainte-Jeanne d'Arc",
+                  "text": "Die Sainte-Jeanne d'Arc ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.341793,
+                        47.758878
+                  ]
+            },
+            {
+                  "name": "Mairie d'Illzach",
+                  "text": "Das Mairie d'Illzach ist das Verwaltungszentrum und Rathaus von Mulhouse. Es ist ein wichtiges öffentliches Gebäude, in dem sich die lokalen Gemeindedienste befinden.",
+                  "category": "historical",
+                  "coords": [
+                        7.346636,
+                        47.781622
+                  ]
+            },
+            {
+                  "name": "Mairie de Brunstatt-Didenheim",
+                  "text": "Das Mairie de Brunstatt-Didenheim ist das Verwaltungszentrum und Rathaus von Mulhouse. Es ist ein wichtiges öffentliches Gebäude, in dem sich die lokalen Gemeindedienste befinden.",
+                  "category": "historical",
+                  "coords": [
+                        7.317146,
+                        47.721051
+                  ]
+            },
+            {
+                  "name": "Mairie de Riedisheim",
+                  "text": "Das Mairie de Riedisheim ist das Verwaltungszentrum und Rathaus von Mulhouse. Es ist ein wichtiges öffentliches Gebäude, in dem sich die lokalen Gemeindedienste befinden.",
+                  "category": "historical",
+                  "coords": [
+                        7.368527,
+                        47.749235
+                  ]
+            },
+            {
+                  "name": "La Filature",
+                  "text": "Das La Filature ist ein bedeutender kultureller Ort für darstellende Künste in Mulhouse. Es beherbergt das ganze Jahr über verschiedene Aufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.34927,
+                        47.753625
+                  ]
+            },
+            {
+                  "name": "Église Saint-Fridolin",
+                  "text": "Die Église Saint-Fridolin ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.330276,
+                        47.755014
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Paul",
+                  "text": "Die Temple Saint-Paul ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.332737,
+                        47.755829
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre-et-Paul",
+                  "text": "Die Église Saints-Pierre-et-Paul ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.322332,
+                        47.745002
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Luc",
+                  "text": "Die Chapelle Saint-Luc ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.301365,
+                        47.733486
+                  ]
+            },
+            {
+                  "name": "Église Saint-Barthélémy",
+                  "text": "Die Église Saint-Barthélémy ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.313152,
+                        47.743888
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Marc",
+                  "text": "Die Temple Saint-Marc ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.314199,
+                        47.772036
+                  ]
+            },
+            {
+                  "name": "Église Saint-Bernard",
+                  "text": "Die Église Saint-Bernard ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.359621,
+                        47.769967
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Die Église Saint-Jean-Baptiste ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.350765,
+                        47.780748
+                  ]
+            },
+            {
+                  "name": "Temple protestant",
+                  "text": "Die Temple protestant ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.347785,
+                        47.780505
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Martin",
+                  "text": "Die Temple Saint-Martin ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.339113,
+                        47.752749
+                  ]
+            },
+            {
+                  "name": "Église évangélique Thabor",
+                  "text": "Die Église évangélique Thabor ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.340527,
+                        47.753955
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "Die Église Saint-Antoine ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.321772,
+                        47.770094
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Claire",
+                  "text": "Die Chapelle Sainte-Claire ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.328927,
+                        47.770922
+                  ]
+            },
+            {
+                  "name": "Église Porte Ouverte Chrétienne",
+                  "text": "Die Église Porte Ouverte Chrétienne ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.327839,
+                        47.770353
+                  ]
+            },
+            {
+                  "name": "Église Saint-François d'Assise",
+                  "text": "Die Église Saint-François d'Assise ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.310818,
+                        47.73488
+                  ]
             }
       ],
       "hu": [
@@ -10632,6 +14457,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.352023,
                         47.737158
+                  ]
+            },
+            {
+                  "name": "Tour du Bollwerk",
+                  "text": "A Tour du Bollwerk egy történelmi védőtorony Mulhouse középkori erődítményeiből. A város ősi történelmének szimbolikus nevezetessége marad.",
+                  "category": "castle",
+                  "coords": [
+                        7.342083,
+                        47.748562
+                  ]
+            },
+            {
+                  "name": "Mulhouse",
+                  "text": "A Hôtel de Ville de Mulhouse Mulhouse közigazgatási központja és városháza. Ez egy kulcsfontosságú középület, ahol a helyi önkormányzati szolgáltatások találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        7.336034,
+                        47.750493
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "A Temple Saint-Étienne Mulhouse egyik legfontosabb protestáns temploma és jelképe. Magas tornyáról és központi elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.336484,
+                        47.743742
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "A Synagogue egy történelmi zsidó vallási helyszín Mulhouse városában. Fontos kulturális és vallási műemlékként áll a közösség szolgálatában.",
+                  "category": "religious",
+                  "coords": [
+                        7.333854,
+                        47.745082
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean",
+                  "text": "A Chapelle Saint-Jean egy történelmi vallási épület Mulhouse-ban. A város egyik legrégebbi helyszíne, amely ma különféle kulturális eseményeknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        7.331762,
+                        47.74572
+                  ]
+            },
+            {
+                  "name": "Sainte-Jeanne d'Arc",
+                  "text": "A Sainte-Jeanne d'Arc egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.341793,
+                        47.758878
+                  ]
+            },
+            {
+                  "name": "Mairie d'Illzach",
+                  "text": "A Mairie d'Illzach Mulhouse közigazgatási központja és városháza. Ez egy kulcsfontosságú középület, ahol a helyi önkormányzati szolgáltatások találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        7.346636,
+                        47.781622
+                  ]
+            },
+            {
+                  "name": "Mairie de Brunstatt-Didenheim",
+                  "text": "A Mairie de Brunstatt-Didenheim Mulhouse közigazgatási központja és városháza. Ez egy kulcsfontosságú középület, ahol a helyi önkormányzati szolgáltatások találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        7.317146,
+                        47.721051
+                  ]
+            },
+            {
+                  "name": "Mairie de Riedisheim",
+                  "text": "A Mairie de Riedisheim Mulhouse közigazgatási központja és városháza. Ez egy kulcsfontosságú középület, ahol a helyi önkormányzati szolgáltatások találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        7.368527,
+                        47.749235
+                  ]
+            },
+            {
+                  "name": "La Filature",
+                  "text": "A La Filature az előadó-művészetek kiemelkedő kulturális helyszíne Mulhouse városában. Egész évben különféle előadásoknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        7.34927,
+                        47.753625
+                  ]
+            },
+            {
+                  "name": "Église Saint-Fridolin",
+                  "text": "A Église Saint-Fridolin egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.330276,
+                        47.755014
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Paul",
+                  "text": "A Temple Saint-Paul egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.332737,
+                        47.755829
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre-et-Paul",
+                  "text": "A Église Saints-Pierre-et-Paul egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.322332,
+                        47.745002
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Luc",
+                  "text": "A Chapelle Saint-Luc egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.301365,
+                        47.733486
+                  ]
+            },
+            {
+                  "name": "Église Saint-Barthélémy",
+                  "text": "A Église Saint-Barthélémy egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.313152,
+                        47.743888
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Marc",
+                  "text": "A Temple Saint-Marc egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.314199,
+                        47.772036
+                  ]
+            },
+            {
+                  "name": "Église Saint-Bernard",
+                  "text": "A Église Saint-Bernard egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.359621,
+                        47.769967
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "A Église Saint-Jean-Baptiste egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.350765,
+                        47.780748
+                  ]
+            },
+            {
+                  "name": "Temple protestant",
+                  "text": "A Temple protestant egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.347785,
+                        47.780505
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Martin",
+                  "text": "A Temple Saint-Martin egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.339113,
+                        47.752749
+                  ]
+            },
+            {
+                  "name": "Église évangélique Thabor",
+                  "text": "A Église évangélique Thabor egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.340527,
+                        47.753955
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "A Église Saint-Antoine egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.321772,
+                        47.770094
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Claire",
+                  "text": "A Chapelle Sainte-Claire egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.328927,
+                        47.770922
+                  ]
+            },
+            {
+                  "name": "Église Porte Ouverte Chrétienne",
+                  "text": "A Église Porte Ouverte Chrétienne egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.327839,
+                        47.770353
+                  ]
+            },
+            {
+                  "name": "Église Saint-François d'Assise",
+                  "text": "A Église Saint-François d'Assise egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.310818,
+                        47.73488
                   ]
             }
       ],
@@ -10848,6 +14898,231 @@ const citySeeds: CitySeed[] = [
                         7.352023,
                         47.737158
                   ]
+            },
+            {
+                  "name": "Tour du Bollwerk",
+                  "text": "Tour du Bollwerk este un turn defensiv istoric din fortificațiile medievale ale orașului Mulhouse. Acesta rămâne un punct de reper simbolic al istoriei vechi a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        7.342083,
+                        47.748562
+                  ]
+            },
+            {
+                  "name": "Mulhouse",
+                  "text": "Primăria Hôtel de Ville de Mulhouse este centrul administrativ al orașului Mulhouse. Este o clădire publică cheie unde se află serviciile municipale locale.",
+                  "category": "historical",
+                  "coords": [
+                        7.336034,
+                        47.750493
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Temple Saint-Étienne este o biserică protestantă majoră și un simbol al orașului Mulhouse. Este renumită pentru turla sa înaltă și locația centrală.",
+                  "category": "religious",
+                  "coords": [
+                        7.336484,
+                        47.743742
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Sinagoga Synagogue este un lăcaș de cult evreiesc istoric din Mulhouse. Aceasta reprezintă un monument cultural și religios important pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        7.333854,
+                        47.745082
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean",
+                  "text": "Chapelle Saint-Jean este un edificiu religios istoric din Mulhouse. Este unul dintre cele mai vechi situri ale orașului și găzduiește acum diverse evenimente culturale.",
+                  "category": "religious",
+                  "coords": [
+                        7.331762,
+                        47.74572
+                  ]
+            },
+            {
+                  "name": "Sainte-Jeanne d'Arc",
+                  "text": "Biserica Sainte-Jeanne d'Arc este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.341793,
+                        47.758878
+                  ]
+            },
+            {
+                  "name": "Mairie d'Illzach",
+                  "text": "Primăria Mairie d'Illzach este centrul administrativ al orașului Mulhouse. Este o clădire publică cheie unde se află serviciile municipale locale.",
+                  "category": "historical",
+                  "coords": [
+                        7.346636,
+                        47.781622
+                  ]
+            },
+            {
+                  "name": "Mairie de Brunstatt-Didenheim",
+                  "text": "Primăria Mairie de Brunstatt-Didenheim este centrul administrativ al orașului Mulhouse. Este o clădire publică cheie unde se află serviciile municipale locale.",
+                  "category": "historical",
+                  "coords": [
+                        7.317146,
+                        47.721051
+                  ]
+            },
+            {
+                  "name": "Mairie de Riedisheim",
+                  "text": "Primăria Mairie de Riedisheim este centrul administrativ al orașului Mulhouse. Este o clădire publică cheie unde se află serviciile municipale locale.",
+                  "category": "historical",
+                  "coords": [
+                        7.368527,
+                        47.749235
+                  ]
+            },
+            {
+                  "name": "La Filature",
+                  "text": "La Filature este un loc cultural proeminent pentru artele spectacolului din Mulhouse. Acesta găzduiește o varietate de spectacole și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        7.34927,
+                        47.753625
+                  ]
+            },
+            {
+                  "name": "Église Saint-Fridolin",
+                  "text": "Biserica Église Saint-Fridolin este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.330276,
+                        47.755014
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Paul",
+                  "text": "Biserica Temple Saint-Paul este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.332737,
+                        47.755829
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre-et-Paul",
+                  "text": "Biserica Église Saints-Pierre-et-Paul este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.322332,
+                        47.745002
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Luc",
+                  "text": "Biserica Chapelle Saint-Luc este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.301365,
+                        47.733486
+                  ]
+            },
+            {
+                  "name": "Église Saint-Barthélémy",
+                  "text": "Biserica Église Saint-Barthélémy este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.313152,
+                        47.743888
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Marc",
+                  "text": "Biserica Temple Saint-Marc este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.314199,
+                        47.772036
+                  ]
+            },
+            {
+                  "name": "Église Saint-Bernard",
+                  "text": "Biserica Église Saint-Bernard este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.359621,
+                        47.769967
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Biserica Église Saint-Jean-Baptiste este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.350765,
+                        47.780748
+                  ]
+            },
+            {
+                  "name": "Temple protestant",
+                  "text": "Biserica Temple protestant este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.347785,
+                        47.780505
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Martin",
+                  "text": "Biserica Temple Saint-Martin este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.339113,
+                        47.752749
+                  ]
+            },
+            {
+                  "name": "Église évangélique Thabor",
+                  "text": "Biserica Église évangélique Thabor este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.340527,
+                        47.753955
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "Biserica Église Saint-Antoine este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.321772,
+                        47.770094
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Claire",
+                  "text": "Biserica Chapelle Sainte-Claire este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.328927,
+                        47.770922
+                  ]
+            },
+            {
+                  "name": "Église Porte Ouverte Chrétienne",
+                  "text": "Biserica Église Porte Ouverte Chrétienne este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.327839,
+                        47.770353
+                  ]
+            },
+            {
+                  "name": "Église Saint-François d'Assise",
+                  "text": "Biserica Église Saint-François d'Assise este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.310818,
+                        47.73488
+                  ]
             }
       ],
       "en": [
@@ -11062,6 +15337,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.352023,
                         47.737158
+                  ]
+            },
+            {
+                  "name": "Tour du Bollwerk",
+                  "text": "The Tour du Bollwerk is a historic defensive tower from the medieval fortifications of Mulhouse. It remains a symbolic landmark of the city's ancient history.",
+                  "category": "castle",
+                  "coords": [
+                        7.342083,
+                        47.748562
+                  ]
+            },
+            {
+                  "name": "Mulhouse",
+                  "text": "The Hôtel de Ville de Mulhouse is the administrative center and town hall of Mulhouse. It is a key public building where local municipal services are located.",
+                  "category": "historical",
+                  "coords": [
+                        7.336034,
+                        47.750493
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "The Temple Saint-Étienne is a major Protestant church and a landmark of Mulhouse. It is famous for its tall spire and central location in the city.",
+                  "category": "religious",
+                  "coords": [
+                        7.336484,
+                        47.743742
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "The Synagogue is a historic Jewish place of worship in Mulhouse. It stands as an important cultural and religious monument for the community.",
+                  "category": "religious",
+                  "coords": [
+                        7.333854,
+                        47.745082
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean",
+                  "text": "The Chapelle Saint-Jean is a historic religious building in Mulhouse. It is one of the city's oldest sites and now hosts various cultural events.",
+                  "category": "religious",
+                  "coords": [
+                        7.331762,
+                        47.74572
+                  ]
+            },
+            {
+                  "name": "Sainte-Jeanne d'Arc",
+                  "text": "The Sainte-Jeanne d'Arc is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.341793,
+                        47.758878
+                  ]
+            },
+            {
+                  "name": "Mairie d'Illzach",
+                  "text": "The Mairie d'Illzach is the administrative center and town hall of Mulhouse. It is a key public building where local municipal services are located.",
+                  "category": "historical",
+                  "coords": [
+                        7.346636,
+                        47.781622
+                  ]
+            },
+            {
+                  "name": "Mairie de Brunstatt-Didenheim",
+                  "text": "The Mairie de Brunstatt-Didenheim is the administrative center and town hall of Mulhouse. It is a key public building where local municipal services are located.",
+                  "category": "historical",
+                  "coords": [
+                        7.317146,
+                        47.721051
+                  ]
+            },
+            {
+                  "name": "Mairie de Riedisheim",
+                  "text": "The Mairie de Riedisheim is the administrative center and town hall of Mulhouse. It is a key public building where local municipal services are located.",
+                  "category": "historical",
+                  "coords": [
+                        7.368527,
+                        47.749235
+                  ]
+            },
+            {
+                  "name": "La Filature",
+                  "text": "The La Filature is a prominent cultural venue for performing arts in Mulhouse. It hosts a variety of shows and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        7.34927,
+                        47.753625
+                  ]
+            },
+            {
+                  "name": "Église Saint-Fridolin",
+                  "text": "The Église Saint-Fridolin is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.330276,
+                        47.755014
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Paul",
+                  "text": "The Temple Saint-Paul is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.332737,
+                        47.755829
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre-et-Paul",
+                  "text": "The Église Saints-Pierre-et-Paul is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.322332,
+                        47.745002
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Luc",
+                  "text": "The Chapelle Saint-Luc is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.301365,
+                        47.733486
+                  ]
+            },
+            {
+                  "name": "Église Saint-Barthélémy",
+                  "text": "The Église Saint-Barthélémy is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.313152,
+                        47.743888
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Marc",
+                  "text": "The Temple Saint-Marc is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.314199,
+                        47.772036
+                  ]
+            },
+            {
+                  "name": "Église Saint-Bernard",
+                  "text": "The Église Saint-Bernard is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.359621,
+                        47.769967
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "The Église Saint-Jean-Baptiste is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.350765,
+                        47.780748
+                  ]
+            },
+            {
+                  "name": "Temple protestant",
+                  "text": "The Temple protestant is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.347785,
+                        47.780505
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Martin",
+                  "text": "The Temple Saint-Martin is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.339113,
+                        47.752749
+                  ]
+            },
+            {
+                  "name": "Église évangélique Thabor",
+                  "text": "The Église évangélique Thabor is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.340527,
+                        47.753955
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "The Église Saint-Antoine is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.321772,
+                        47.770094
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Claire",
+                  "text": "The Chapelle Sainte-Claire is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.328927,
+                        47.770922
+                  ]
+            },
+            {
+                  "name": "Église Porte Ouverte Chrétienne",
+                  "text": "The Église Porte Ouverte Chrétienne is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.327839,
+                        47.770353
+                  ]
+            },
+            {
+                  "name": "Église Saint-François d'Assise",
+                  "text": "The Église Saint-François d'Assise is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.310818,
+                        47.73488
                   ]
             }
       ],
@@ -11415,6 +15915,231 @@ const citySeeds: CitySeed[] = [
                         -0.388339,
                         49.166356
                   ]
+            },
+            {
+                  "name": "Manoir du Pont-Créon",
+                  "text": "Dieses historische Herrenhaus in Caen ist ein geschütztes Baudenkmal aus dem 15. und 16. Jahrhundert. Es repräsentiert die spätgotische und Renaissance-Architektur der Normandie.",
+                  "category": "castle",
+                  "coords": [
+                        -0.379432,
+                        49.175163
+                  ]
+            },
+            {
+                  "name": "Plan de Rome",
+                  "text": "Dieses Museum in Caen zeigt ein beeindruckendes historisches Modell des antiken Roms im 4. Jahrhundert. Besucher können die detaillierte Nachbildung der Stadtstruktur und ihrer Monumente studieren.",
+                  "category": "museum",
+                  "coords": [
+                        -0.365837,
+                        49.191457
+                  ]
+            },
+            {
+                  "name": "Musée d'initiation à la Nature",
+                  "text": "Dieses Museum in Caen widmet sich der Flora und Fauna der Region und bietet pädagogische Ausstellungen. Es befindet sich in einem historischen Gebäude und ist ideal für Familien, die mehr über die Natur erfahren möchten.",
+                  "category": "museum",
+                  "coords": [
+                        -0.373344,
+                        49.180145
+                  ]
+            },
+            {
+                  "name": "Hôtel Daumesnil",
+                  "text": "Dieses prächtige Stadtpalais aus dem 17. Jahrhundert ist ein bedeutendes Beispiel der klassischen Architektur in Caen. Es zeichnet sich durch seine elegante Fassade und seine Lage im historischen Zentrum aus.",
+                  "category": "historical",
+                  "coords": [
+                        -0.363687,
+                        49.180642
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Diese Ruinen einer ehemaligen Kirche in der Nähe von Caen zeugen von der wechselvollen Geschichte der Region. Die verbliebenen baulichen Überreste bieten einen Einblick in die einstige sakrale Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        -0.408786,
+                        49.167685
+                  ]
+            },
+            {
+                  "name": "Manoir du Vaubenard",
+                  "text": "Dieses historische Herrenhaus ist ein bemerkenswertes Bauwerk der normannischen Renaissance in Caen. Es verfügt über charakteristische architektonische Details und ist Teil des lokalen Kulturerbes.",
+                  "category": "historical",
+                  "coords": [
+                        -0.34527,
+                        49.187859
+                  ]
+            },
+            {
+                  "name": "Hôtel Lebourguignon-Duperré",
+                  "text": "Dieses elegante Herrenhaus in Caen ist ein Zeugnis des bürgerlichen Wohlstands vergangener Epochen. Die Fassade des Gebäudes zeigt feine dekorative Elemente der lokalen Baukunst.",
+                  "category": "historical",
+                  "coords": [
+                        -0.365571,
+                        49.18404
+                  ]
+            },
+            {
+                  "name": "Hôtel de Banville",
+                  "text": "Dieses denkmalgeschützte Herrenhaus in Caen besticht durch seine klassische Architektur und seine historische Bedeutung. Es ist ein typisches Beispiel für den Bau von Stadtpalais in der Normandie.",
+                  "category": "historical",
+                  "coords": [
+                        -0.36484,
+                        49.181428
+                  ]
+            },
+            {
+                  "name": "Église Saint-Gilles",
+                  "text": "Diese Ruinen einer mittelalterlichen Kirche in Caen befinden sich in der Nähe der Abbaye aux Dames. Die erhaltenen Mauern vermitteln einen Eindruck von der ursprünglichen Größe des Gotteshauses.",
+                  "category": "historical",
+                  "coords": [
+                        -0.35473,
+                        49.186611
+                  ]
+            },
+            {
+                  "name": "Restes de l'église Saint-Martin",
+                  "text": "Die Überreste dieser historischen Kirche im Zentrum von Caen zeugen von den Zerstörungen im Zweiten Weltkrieg. Heute dienen sie als mahnendes Denkmal und Ort der Stille im städtischen Raum.",
+                  "category": "historical",
+                  "coords": [
+                        -0.371682,
+                        49.183445
+                  ]
+            },
+            {
+                  "name": "Hôtel du Grand-Cerf",
+                  "text": "Dieses historische Gebäude in Caen war einst ein bekanntes Gasthaus und ist ein schönes Beispiel für die lokale Architektur. Es bewahrt den Charme vergangener Jahrhunderte und ist ein wichtiger Teil des Stadtbildes.",
+                  "category": "historical",
+                  "coords": [
+                        -0.368738,
+                        49.183743
+                  ]
+            },
+            {
+                  "name": "Hôtel de Blangy",
+                  "text": "Dieses Herrenhaus in Caen ist ein geschütztes historisches Bauwerk mit einer eleganten Fassade. Es repräsentiert die Wohnkultur des Adels in der Normandie während des 18. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        -0.358169,
+                        49.182161
+                  ]
+            },
+            {
+                  "name": "Monastère des Bénédictines",
+                  "text": "Dieses ehemalige Kloster in Caen war einst die Heimat einer benediktinischen Gemeinschaft. Die Gebäude sind ein bedeutendes Beispiel für die klösterliche Architektur des 17. Jahrhunderts in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -0.374471,
+                        49.210328
+                  ]
+            },
+            {
+                  "name": "Le Cargö",
+                  "text": "Dieses moderne Konzerthaus in Caen ist ein wichtiger Ort für aktuelle Musik und kulturelle Veranstaltungen. Es bietet zwei Säle und Studios für Proben und Aufnahmen von Künstlern.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.347263,
+                        49.181091
+                  ]
+            },
+            {
+                  "name": "Abbaye d'Ardenne",
+                  "text": "Diese ehemalige Abtei in der Nähe von Caen ist für ihre historische Bedeutung und ihre gotische Architektur bekannt. Heute beherbergt sie ein Zentrum für die Erhaltung zeitgenössischer Archive.",
+                  "category": "religious",
+                  "coords": [
+                        -0.413237,
+                        49.196019
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vigor",
+                  "text": "Diese Kirche in der Nähe von Caen ist ein charmantes Beispiel für die lokale sakrale Architektur. Sie dient der Gemeinde als Ort des Gebets und ist von einem friedlichen Friedhof umgeben.",
+                  "category": "religious",
+                  "coords": [
+                        -0.386279,
+                        49.160182
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Gloriette",
+                  "text": "Diese barocke Kirche aus dem 17. Jahrhundert in Caen ist für ihren kunstvollen Altar und ihre Akustik bekannt. Sie wurde einst von der jesuitischen Gemeinschaft erbaut und prägt das Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        -0.366692,
+                        49.180625
+                  ]
+            },
+            {
+                  "name": "Église du Vieux Saint-Sauveur",
+                  "text": "Diese ehemalige Kirche in Caen ist eines der ältesten religiösen Gebäude der Stadt und wird heute für kulturelle Zwecke genutzt. Sie vereint verschiedene Baustile von der Romanik bis zur Renaissance.",
+                  "category": "religious",
+                  "coords": [
+                        -0.367783,
+                        49.183379
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Paix",
+                  "text": "Diese kleine historische Kapelle in Caen ist ein geschütztes Denkmal von großer Schlichtheit. Sie erinnert an die lange Geschichte der religiösen Gebäude in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -0.342958,
+                        49.175469
+                  ]
+            },
+            {
+                  "name": "Collégiale du Saint-Sépulcre",
+                  "text": "Dieses historische Kirchengebäude in Caen besticht durch seine gotische Architektur und seine ruhige Atmosphäre. Es ist ein wichtiger Teil des religiösen Erbes der Stadt und lädt zur Besichtigung ein.",
+                  "category": "religious",
+                  "coords": [
+                        -0.358911,
+                        49.186501
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel-de-Vaucelles",
+                  "text": "Diese markante Kirche im Stadtteil Vaucelles verbindet romanische und gotische Bauelemente. Ihr charakteristischer Turm prägt die Silhouette des Viertels südlich der Orne.",
+                  "category": "religious",
+                  "coords": [
+                        -0.355209,
+                        49.173947
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Diese Kirche in Caen ist für ihre auffällige Neigung bekannt, die durch den weichen Untergrund verursacht wurde. Trotz ihrer Schieflage beherbergt sie beeindruckende architektonische Details aus der Renaissance.",
+                  "category": "religious",
+                  "coords": [
+                        -0.357629,
+                        49.180587
+                  ]
+            },
+            {
+                  "name": "Église Saint-Julien",
+                  "text": "Diese moderne Kirche in Caen wurde nach dem Zweiten Weltkrieg als Ersatz für ein zerstörtes Gebäude errichtet. Ihre markante Architektur aus Beton und Glas ist ein bedeutendes Beispiel der Nachkriegsmoderne.",
+                  "category": "religious",
+                  "coords": [
+                        -0.368868,
+                        49.189547
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-des-Champs",
+                  "text": "Diese romanische Kirche in Caen ist für ihre architektonische Reinheit und ihre historischen Türme bekannt. Sie gilt als eines der besterhaltenen Beispiele normannischer Baukunst des 11. Jahrhunderts.",
+                  "category": "religious",
+                  "coords": [
+                        -0.375016,
+                        49.183844
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ouen",
+                  "text": "Diese Kirche in Caen ist ein wichtiges religiöses Denkmal mit einer langen Geschichte. Sie zeichnet sich durch ihre schlichte Architektur aus und dient der Gemeinde als ruhiger Ort der Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        -0.376667,
+                        49.177169
+                  ]
             }
       ],
       "hu": [
@@ -11674,6 +16399,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.388339,
                         49.166356
+                  ]
+            },
+            {
+                  "name": "Manoir du Pont-Créon",
+                  "text": "Ez a történelmi caeni nemesi kúria a 15. és 16. századból származó, védett műemlék. Normandia késő gótikus és reneszánsz építészetét képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        -0.379432,
+                        49.175163
+                  ]
+            },
+            {
+                  "name": "Plan de Rome",
+                  "text": "Ez a caeni múzeum az ókori Róma lenyűgöző, 4. századi történelmi makettjét mutatja be. A látogatók tanulmányozhatják a városszerkezet és az emlékművek részletes rekonstrukcióját.",
+                  "category": "museum",
+                  "coords": [
+                        -0.365837,
+                        49.191457
+                  ]
+            },
+            {
+                  "name": "Musée d'initiation à la Nature",
+                  "text": "Ez a caeni múzeum a régió növény- és állatvilágának szentelt, és pedagógiai jellegű kiállításokat kínál. Egy történelmi épületben található, és ideális választás a természetről többet tudni akaró családoknak.",
+                  "category": "museum",
+                  "coords": [
+                        -0.373344,
+                        49.180145
+                  ]
+            },
+            {
+                  "name": "Hôtel Daumesnil",
+                  "text": "Ez a pompás 17. századi városi palota a klasszikus építészet jelentős példája Caenben. Elegáns homlokzata és a történelmi központban való elhelyezkedése jellemzi.",
+                  "category": "historical",
+                  "coords": [
+                        -0.363687,
+                        49.180642
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Ezek az egykori templomromok Caen közelében a régió mozgalmas történelméről tanúskodnak. A megmaradt építészeti maradványok betekintést nyújtanak az egykori szakrális építészetbe.",
+                  "category": "historical",
+                  "coords": [
+                        -0.408786,
+                        49.167685
+                  ]
+            },
+            {
+                  "name": "Manoir du Vaubenard",
+                  "text": "Ez a történelmi nemesi kúria a normandiai reneszánsz figyelemre méltó épülete Caenben. Jellegzetes építészeti részletekkel rendelkezik, és a helyi kulturális örökség része.",
+                  "category": "historical",
+                  "coords": [
+                        -0.34527,
+                        49.187859
+                  ]
+            },
+            {
+                  "name": "Hôtel Lebourguignon-Duperré",
+                  "text": "Ez az elegáns caeni nemesi kúria a múlt korszakok polgári jólétének tanúbizonysága. Az épület homlokzata a helyi építőművészet finom dekoratív elemeit mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -0.365571,
+                        49.18404
+                  ]
+            },
+            {
+                  "name": "Hôtel de Banville",
+                  "text": "Ez a műemlékvédelem alatt álló caeni nemesi kúria klasszikus építészetével és történelmi jelentőségével tűnik ki. Tipikus példája a normandiai városi palotaépítészetnek.",
+                  "category": "historical",
+                  "coords": [
+                        -0.36484,
+                        49.181428
+                  ]
+            },
+            {
+                  "name": "Église Saint-Gilles",
+                  "text": "Ezek a középkori templomromok Caenben, az Abbaye aux Dames közelében találhatók. A megmaradt falak képet adnak a templom eredeti méreteiről.",
+                  "category": "historical",
+                  "coords": [
+                        -0.35473,
+                        49.186611
+                  ]
+            },
+            {
+                  "name": "Restes de l'église Saint-Martin",
+                  "text": "E történelmi templom maradványai Caen központjában a második világháború pusztításairól tanúskodnak. Ma figyelmeztető emlékműként és a csend helyszíneként szolgálnak a városi térben.",
+                  "category": "historical",
+                  "coords": [
+                        -0.371682,
+                        49.183445
+                  ]
+            },
+            {
+                  "name": "Hôtel du Grand-Cerf",
+                  "text": "Ez a történelmi épület Caenben egykor ismert fogadó volt, és a helyi építészet szép példája. Megőrzi a múlt századok báját, és a városkép fontos része.",
+                  "category": "historical",
+                  "coords": [
+                        -0.368738,
+                        49.183743
+                  ]
+            },
+            {
+                  "name": "Hôtel de Blangy",
+                  "text": "Ez a caeni nemesi kúria egy védett történelmi épület, elegáns homlokzattal. A 18. századi normandiai nemesi lakáskultúrát képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        -0.358169,
+                        49.182161
+                  ]
+            },
+            {
+                  "name": "Monastère des Bénédictines",
+                  "text": "Ez az egykori caeni kolostor egykor egy bencés közösség otthona volt. Az épületek a város 17. századi kolostori építészetének jelentős példái.",
+                  "category": "religious",
+                  "coords": [
+                        -0.374471,
+                        49.210328
+                  ]
+            },
+            {
+                  "name": "Le Cargö",
+                  "text": "Ez a modern caeni koncertterem a mai zene és kulturális események fontos helyszíne. Két termet és stúdiókat kínál a művészek próbáihoz és felvételeihez.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.347263,
+                        49.181091
+                  ]
+            },
+            {
+                  "name": "Abbaye d'Ardenne",
+                  "text": "Ez a Caen közelében található egykori apátság történelmi jelentőségéről és gótikus építészetéről ismert. Ma a kortárs archívumok megőrzésének központjának ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -0.413237,
+                        49.196019
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vigor",
+                  "text": "Ez a Caen közelében található templom a helyi szakrális építészet bájos példája. A közösség számára az imádság helyszíneként szolgál, és egy békés temető veszi körül.",
+                  "category": "religious",
+                  "coords": [
+                        -0.386279,
+                        49.160182
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Gloriette",
+                  "text": "Ez a 17. századi barokk templom Caenben művészi oltáráról és akusztikájáról ismert. Egykor a jezsuita közösség építette, és meghatározza a városközpontot.",
+                  "category": "religious",
+                  "coords": [
+                        -0.366692,
+                        49.180625
+                  ]
+            },
+            {
+                  "name": "Église du Vieux Saint-Sauveur",
+                  "text": "Ez az egykori caeni templom a város egyik legrégebbi vallási épülete, amelyet ma kulturális célokra használnak. Különböző építészeti stílusokat ötvöz a romántól a reneszánszig.",
+                  "category": "religious",
+                  "coords": [
+                        -0.367783,
+                        49.183379
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Paix",
+                  "text": "Ez a kis történelmi kápolna Caenben egy nagy egyszerűségű, védett műemlék. A város vallási épületeinek hosszú történelmére emlékeztet.",
+                  "category": "religious",
+                  "coords": [
+                        -0.342958,
+                        49.175469
+                  ]
+            },
+            {
+                  "name": "Collégiale du Saint-Sépulcre",
+                  "text": "Ez a történelmi templomépület Caenben gótikus építészetével és nyugodt hangulatával nyűgözi le a látogatókat. A város vallási örökségének fontos része, amely látogatásra hívogat.",
+                  "category": "religious",
+                  "coords": [
+                        -0.358911,
+                        49.186501
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel-de-Vaucelles",
+                  "text": "Ez a Vaucelles negyedben található jellegzetes templom a román és a gótikus építészeti elemeket ötvözi. Karakteres tornya meghatározza a negyed sziluettjét az Orne folyótól délre.",
+                  "category": "religious",
+                  "coords": [
+                        -0.355209,
+                        49.173947
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Ez a caeni templom a puha talaj okozta szembetűnő dőléséről ismert. Ferdültsége ellenére lenyűgöző reneszánsz építészeti részleteket rejt.",
+                  "category": "religious",
+                  "coords": [
+                        -0.357629,
+                        49.180587
+                  ]
+            },
+            {
+                  "name": "Église Saint-Julien",
+                  "text": "Ez a modern caeni templom a második világháború után épült egy elpusztult épület helyén. Jellegzetes beton- és üvegszerkezete a háború utáni modernizmus jelentős példája.",
+                  "category": "religious",
+                  "coords": [
+                        -0.368868,
+                        49.189547
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-des-Champs",
+                  "text": "Ez a caeni román stílusú templom építészeti tisztaságáról és történelmi tornyairól ismert. A 11. századi normann építőművészet egyik legjobb állapotban fennmaradt példájának tekintik.",
+                  "category": "religious",
+                  "coords": [
+                        -0.375016,
+                        49.183844
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ouen",
+                  "text": "Ez a caeni templom hosszú történelemmel rendelkező, fontos vallási műemlék. Egyszerű építészete jellemzi, és a közösség számára az áhítat csendes helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -0.376667,
+                        49.177169
                   ]
             }
       ],
@@ -11935,6 +16885,231 @@ const citySeeds: CitySeed[] = [
                         -0.388339,
                         49.166356
                   ]
+            },
+            {
+                  "name": "Manoir du Pont-Créon",
+                  "text": "Acest conac istoric din Caen este un monument istoric protejat din secolele XV și XVI. Reprezintă arhitectura gotică târzie și renascentistă din Normandia.",
+                  "category": "castle",
+                  "coords": [
+                        -0.379432,
+                        49.175163
+                  ]
+            },
+            {
+                  "name": "Plan de Rome",
+                  "text": "Acest muzeu din Caen expune o machetă istorică impresionantă a Romei antice din secolul al IV-lea. Vizitatorii pot studia reconstrucția detaliată a structurii orașului și a monumentelor sale.",
+                  "category": "museum",
+                  "coords": [
+                        -0.365837,
+                        49.191457
+                  ]
+            },
+            {
+                  "name": "Musée d'initiation à la Nature",
+                  "text": "Acest muzeu din Caen este dedicat florei și faunei regiunii și oferă expoziții educaționale. Este situat într-o clădire istorică și este ideal pentru familiile care doresc să afle mai multe despre natură.",
+                  "category": "museum",
+                  "coords": [
+                        -0.373344,
+                        49.180145
+                  ]
+            },
+            {
+                  "name": "Hôtel Daumesnil",
+                  "text": "Acest conac somptuos din secolul al XVII-lea este un exemplu semnificativ de arhitectură clasică din Caen. Se remarcă prin fațada sa elegantă și amplasarea în centrul istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -0.363687,
+                        49.180642
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Aceste ruine ale unei foste biserici de lângă Caen stau mărturie pentru istoria zbuciumată a regiunii. Resturile structurale rămase oferă o perspectivă asupra arhitecturii sacre de odinioară.",
+                  "category": "historical",
+                  "coords": [
+                        -0.408786,
+                        49.167685
+                  ]
+            },
+            {
+                  "name": "Manoir du Vaubenard",
+                  "text": "Acest conac istoric este o clădire remarcabilă a Renașterii normande din Caen. Dispune de detalii arhitecturale caracteristice și face parte din moștenirea culturală locală.",
+                  "category": "historical",
+                  "coords": [
+                        -0.34527,
+                        49.187859
+                  ]
+            },
+            {
+                  "name": "Hôtel Lebourguignon-Duperré",
+                  "text": "Acest conac elegant din Caen este o mărturie a prosperității burgheze din epocile trecute. Fațada clădirii prezintă elemente decorative fine ale arhitecturii locale.",
+                  "category": "historical",
+                  "coords": [
+                        -0.365571,
+                        49.18404
+                  ]
+            },
+            {
+                  "name": "Hôtel de Banville",
+                  "text": "Acest conac protejat din Caen impresionează prin arhitectura sa clasică și semnificația sa istorică. Este un exemplu tipic de construcție a unui palat urban în Normandia.",
+                  "category": "historical",
+                  "coords": [
+                        -0.36484,
+                        49.181428
+                  ]
+            },
+            {
+                  "name": "Église Saint-Gilles",
+                  "text": "Aceste ruine ale unei biserici medievale din Caen sunt situate lângă Abbaye aux Dames. Zidurile păstrate oferă o imagine a dimensiunii originale a lăcașului de cult.",
+                  "category": "historical",
+                  "coords": [
+                        -0.35473,
+                        49.186611
+                  ]
+            },
+            {
+                  "name": "Restes de l'église Saint-Martin",
+                  "text": "Rămășițele acestei biserici istorice din centrul orașului Caen stau mărturie pentru distrugerile din al Doilea Război Mondial. Astăzi servesc ca un monument de avertizare și loc de liniște în spațiul urban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.371682,
+                        49.183445
+                  ]
+            },
+            {
+                  "name": "Hôtel du Grand-Cerf",
+                  "text": "Această clădire istorică din Caen a fost cândva un han cunoscut și este un exemplu frumos de arhitectură locală. Păstrează farmecul secolelor trecute și este o parte importantă a peisajului urban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.368738,
+                        49.183743
+                  ]
+            },
+            {
+                  "name": "Hôtel de Blangy",
+                  "text": "Acest conac din Caen este o clădire istorică protejată, cu o fațadă elegantă. Reprezintă cultura rezidențială a nobilimii din Normandia în timpul secolului al XVIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -0.358169,
+                        49.182161
+                  ]
+            },
+            {
+                  "name": "Monastère des Bénédictines",
+                  "text": "Această fostă mănăstire din Caen a fost cândva casa unei comunități benedictine. Clădirile sunt un exemplu semnificativ de arhitectură monahală din secolul al XVII-lea din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        -0.374471,
+                        49.210328
+                  ]
+            },
+            {
+                  "name": "Le Cargö",
+                  "text": "Această sală de concerte modernă din Caen este un loc important pentru muzica actuală și evenimentele culturale. Oferă două săli și studiouri pentru repetiții și înregistrări ale artiștilor.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.347263,
+                        49.181091
+                  ]
+            },
+            {
+                  "name": "Abbaye d'Ardenne",
+                  "text": "Această fostă abație de lângă Caen este cunoscută pentru semnificația sa istorică și arhitectura gotică. Astăzi găzduiește un centru pentru conservarea arhivelor contemporane.",
+                  "category": "religious",
+                  "coords": [
+                        -0.413237,
+                        49.196019
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vigor",
+                  "text": "Această biserică de lângă Caen este un exemplu fermecător de arhitectură sacră locală. Servește comunitatea ca loc de rugăciune și este înconjurată de un cimitir liniștit.",
+                  "category": "religious",
+                  "coords": [
+                        -0.386279,
+                        49.160182
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Gloriette",
+                  "text": "Această biserică barocă din secolul al XVII-lea din Caen este cunoscută pentru altarul său artistic și acustică. A fost construită cândva de comunitatea iezuită și marchează centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -0.366692,
+                        49.180625
+                  ]
+            },
+            {
+                  "name": "Église du Vieux Saint-Sauveur",
+                  "text": "Această fostă biserică din Caen este una dintre cele mai vechi clădiri religioase din oraș și este folosită astăzi în scopuri culturale. Combină diverse stiluri arhitecturale, de la romanic la renaștere.",
+                  "category": "religious",
+                  "coords": [
+                        -0.367783,
+                        49.183379
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Paix",
+                  "text": "Această mică chapelă istorică din Caen este un monument protejat de o mare simplitate. Amintește de istoria lungă a clădirilor religioase din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        -0.342958,
+                        49.175469
+                  ]
+            },
+            {
+                  "name": "Collégiale du Saint-Sépulcre",
+                  "text": "Această clădire istorică a bisericii din Caen impresionează prin arhitectura sa gotică și atmosfera liniștită. Este o parte importantă a moștenirii religioase a orașului și invită la vizitare.",
+                  "category": "religious",
+                  "coords": [
+                        -0.358911,
+                        49.186501
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel-de-Vaucelles",
+                  "text": "Această biserică proeminentă din cartierul Vaucelles îmbină elemente arhitecturale romanice și gotice. Turnul său caracteristic marchează silueta cartierului aflat la sud de Orne.",
+                  "category": "religious",
+                  "coords": [
+                        -0.355209,
+                        49.173947
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Această biserică din Caen este cunoscută pentru înclinarea sa izbitoare, cauzată de solul moale. În ciuda înclinării sale, găzduiește detalii arhitecturale impresionante din perioada Renașterii.",
+                  "category": "religious",
+                  "coords": [
+                        -0.357629,
+                        49.180587
+                  ]
+            },
+            {
+                  "name": "Église Saint-Julien",
+                  "text": "Această biserică modernă din Caen a fost construită după al Doilea Război Mondial pentru a înlocui o clădire distrusă. Arhitectura sa distinctivă din beton și sticlă este un exemplu semnificativ al modernismului postbelic.",
+                  "category": "religious",
+                  "coords": [
+                        -0.368868,
+                        49.189547
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-des-Champs",
+                  "text": "Această biserică romanică din Caen este cunoscută pentru puritatea sa arhitecturală și turnurile sale istorice. Este considerată unul dintre cele mai bine conservate exemple de arhitectură normandă din secolul al XI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -0.375016,
+                        49.183844
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ouen",
+                  "text": "Această biserică din Caen este un monument religios important cu o istorie lungă. Se caracterizează prin arhitectura sa simplă și servește comunitatea ca loc liniștit de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -0.376667,
+                        49.177169
+                  ]
             }
       ],
       "en": [
@@ -12194,6 +17369,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.388339,
                         49.166356
+                  ]
+            },
+            {
+                  "name": "Manoir du Pont-Créon",
+                  "text": "This historic manor house in Caen is a protected monument from the 15th and 16th centuries. It represents the Late Gothic and Renaissance architecture of Normandy.",
+                  "category": "castle",
+                  "coords": [
+                        -0.379432,
+                        49.175163
+                  ]
+            },
+            {
+                  "name": "Plan de Rome",
+                  "text": "This museum in Caen displays an impressive historic model of ancient Rome in the 4th century. Visitors can study the detailed reconstruction of the city's structure and its monuments.",
+                  "category": "museum",
+                  "coords": [
+                        -0.365837,
+                        49.191457
+                  ]
+            },
+            {
+                  "name": "Musée d'initiation à la Nature",
+                  "text": "This museum in Caen is dedicated to the region's flora and fauna, offering educational exhibitions. It is located in a historic building and is ideal for families wanting to learn more about nature.",
+                  "category": "museum",
+                  "coords": [
+                        -0.373344,
+                        49.180145
+                  ]
+            },
+            {
+                  "name": "Hôtel Daumesnil",
+                  "text": "This magnificent 17th-century private mansion is a significant example of classical architecture in Caen. It is distinguished by its elegant facade and its location in the historic center.",
+                  "category": "historical",
+                  "coords": [
+                        -0.363687,
+                        49.180642
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "These ruins of a former church near Caen testify to the region's varied history. The remaining structural fragments offer an insight into the former sacred architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -0.408786,
+                        49.167685
+                  ]
+            },
+            {
+                  "name": "Manoir du Vaubenard",
+                  "text": "This historic manor is a remarkable building of the Norman Renaissance in Caen. It features characteristic architectural details and is part of the local cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -0.34527,
+                        49.187859
+                  ]
+            },
+            {
+                  "name": "Hôtel Lebourguignon-Duperré",
+                  "text": "This elegant manor in Caen is a testament to the bourgeois prosperity of past eras. The building's facade displays fine decorative elements of local craftsmanship.",
+                  "category": "historical",
+                  "coords": [
+                        -0.365571,
+                        49.18404
+                  ]
+            },
+            {
+                  "name": "Hôtel de Banville",
+                  "text": "This listed manor in Caen impresses with its classical architecture and historical significance. It is a typical example of urban mansion construction in Normandy.",
+                  "category": "historical",
+                  "coords": [
+                        -0.36484,
+                        49.181428
+                  ]
+            },
+            {
+                  "name": "Église Saint-Gilles",
+                  "text": "These ruins of a medieval church in Caen are located near the Abbaye aux Dames. The preserved walls give an impression of the original size of the place of worship.",
+                  "category": "historical",
+                  "coords": [
+                        -0.35473,
+                        49.186611
+                  ]
+            },
+            {
+                  "name": "Restes de l'église Saint-Martin",
+                  "text": "The remains of this historic church in the center of Caen bear witness to the destruction during World War II. Today, they serve as a poignant memorial and a place of silence within the urban space.",
+                  "category": "historical",
+                  "coords": [
+                        -0.371682,
+                        49.183445
+                  ]
+            },
+            {
+                  "name": "Hôtel du Grand-Cerf",
+                  "text": "This historic building in Caen was once a well-known inn and is a fine example of local architecture. It preserves the charm of past centuries and is an important part of the cityscape.",
+                  "category": "historical",
+                  "coords": [
+                        -0.368738,
+                        49.183743
+                  ]
+            },
+            {
+                  "name": "Hôtel de Blangy",
+                  "text": "This manor house in Caen is a protected historic building with an elegant facade. It represents the residential culture of the nobility in Normandy during the 18th century.",
+                  "category": "historical",
+                  "coords": [
+                        -0.358169,
+                        49.182161
+                  ]
+            },
+            {
+                  "name": "Monastère des Bénédictines",
+                  "text": "This former monastery in Caen was once home to a Benedictine community. The buildings are a significant example of 17th-century monastic architecture in the city.",
+                  "category": "religious",
+                  "coords": [
+                        -0.374471,
+                        49.210328
+                  ]
+            },
+            {
+                  "name": "Le Cargö",
+                  "text": "This modern concert venue in Caen is an important site for contemporary music and cultural events. It features two halls and studios for artist rehearsals and recordings.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.347263,
+                        49.181091
+                  ]
+            },
+            {
+                  "name": "Abbaye d'Ardenne",
+                  "text": "This former abbey near Caen is known for its historical significance and Gothic architecture. Today, it houses a center for the preservation of contemporary archives.",
+                  "category": "religious",
+                  "coords": [
+                        -0.413237,
+                        49.196019
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vigor",
+                  "text": "This church near Caen is a charming example of local sacred architecture. It serves the community as a place of prayer and is surrounded by a peaceful cemetery.",
+                  "category": "religious",
+                  "coords": [
+                        -0.386279,
+                        49.160182
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de la Gloriette",
+                  "text": "This 17th-century Baroque church in Caen is known for its ornate altar and acoustics. It was once built by the Jesuit community and defines the city center.",
+                  "category": "religious",
+                  "coords": [
+                        -0.366692,
+                        49.180625
+                  ]
+            },
+            {
+                  "name": "Église du Vieux Saint-Sauveur",
+                  "text": "This former church in Caen is one of the city's oldest religious buildings and is now used for cultural purposes. It combines various architectural styles from Romanesque to Renaissance.",
+                  "category": "religious",
+                  "coords": [
+                        -0.367783,
+                        49.183379
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Paix",
+                  "text": "This small historic chapel in Caen is a protected monument of great simplicity. It recalls the long history of religious buildings in the city.",
+                  "category": "religious",
+                  "coords": [
+                        -0.342958,
+                        49.175469
+                  ]
+            },
+            {
+                  "name": "Collégiale du Saint-Sépulcre",
+                  "text": "This historic church building in Caen impresses with its Gothic architecture and peaceful atmosphere. It is an important part of the city's religious heritage and invites visitors to explore it.",
+                  "category": "religious",
+                  "coords": [
+                        -0.358911,
+                        49.186501
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel-de-Vaucelles",
+                  "text": "This prominent church in the Vaucelles district combines Romanesque and Gothic architectural elements. Its characteristic tower shapes the silhouette of the neighborhood south of the Orne.",
+                  "category": "religious",
+                  "coords": [
+                        -0.355209,
+                        49.173947
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "This church in Caen is known for its striking lean caused by soft ground. Despite its tilt, it houses impressive Renaissance architectural details.",
+                  "category": "religious",
+                  "coords": [
+                        -0.357629,
+                        49.180587
+                  ]
+            },
+            {
+                  "name": "Église Saint-Julien",
+                  "text": "This modern church in Caen was built after World War II to replace a destroyed building. Its distinctive concrete and glass architecture is a significant example of post-war modernism.",
+                  "category": "religious",
+                  "coords": [
+                        -0.368868,
+                        49.189547
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-des-Champs",
+                  "text": "This Romanesque church in Caen is known for its architectural purity and historic towers. It is considered one of the best-preserved examples of 11th-century Norman architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -0.375016,
+                        49.183844
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ouen",
+                  "text": "This church in Caen is an important religious monument with a long history. It is characterized by its simple architecture and serves the community as a peaceful place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        -0.376667,
+                        49.177169
                   ]
             }
       ],
@@ -14864,6 +20264,222 @@ const citySeeds: CitySeed[] = [
                         2.191299,
                         48.960673
                   ]
+            },
+            {
+                  "name": "Allée couverte des Déserts",
+                  "text": "Die Allée couverte des Déserts ist ein prähistorisches Megalithgrab in Argenteuil. Es ist eine bemerkenswerte archäologische Stätte, die von der alten menschlichen Besiedlung der Region zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        2.282716,
+                        48.952246
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "Die Église Sainte-Marie-Madeleine ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.296704,
+                        48.93341
+                  ]
+            },
+            {
+                  "name": "Mosquée Al Ihsan d'Argenteuil",
+                  "text": "Die Mosquée Al Ihsan d'Argenteuil ist eine bedeutende islamische Gebetsstätte in Argenteuil. Sie dient als architektonisches und spirituelles Zentrum für die lokale muslimische Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        2.234815,
+                        48.952204
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Étienne-Saint-Henri",
+                  "text": "Die Chapelle Saint-Étienne-Saint-Henri ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.261798,
+                        48.930006
+                  ]
+            },
+            {
+                  "name": "Moulin à vent dit Moulin Trouillet",
+                  "text": "Die Moulin à vent dit Moulin Trouillet ist eine historische Windmühle in der Gegend von Argenteuil. Sie erinnert an die traditionellen ländlichen Aktivitäten der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        2.242546,
+                        48.96868
+                  ]
+            },
+            {
+                  "name": "La coulée verte",
+                  "text": "Der La coulée verte ist eine öffentliche Grünfläche, die einen natürlichen Ort zur Entspannung in Argenteuil bietet. Er ist ein beliebter Punkt für Aktivitäten im Freien und Spaziergänge.",
+                  "category": "park",
+                  "coords": [
+                        2.259897,
+                        48.918159
+                  ]
+            },
+            {
+                  "name": "Square Edgar Quinet",
+                  "text": "Der Square Edgar Quinet ist eine öffentliche Grünfläche, die einen natürlichen Ort zur Entspannung in Argenteuil bietet. Er ist ein beliebter Punkt für Aktivitäten im Freien und Spaziergänge.",
+                  "category": "park",
+                  "coords": [
+                        2.247523,
+                        48.923957
+                  ]
+            },
+            {
+                  "name": "Musée Sauvage",
+                  "text": "Das Musée Sauvage ist eine kulturelle Einrichtung in Argenteuil, die sich der Bewahrung des lokalen Erbes widmet. Es bietet Besuchern Einblicke in die künstlerischen oder historischen Aspekte der Gegend.",
+                  "category": "museum",
+                  "coords": [
+                        2.257096,
+                        48.944126
+                  ]
+            },
+            {
+                  "name": "Château du Maréchal de Catinat",
+                  "text": "Das Château du Maréchal de Catinat ist ein historisches Schloss in Argenteuil. Es spiegelt das architektonische Erbe und die historische Bedeutung der Region wider.",
+                  "category": "castle",
+                  "coords": [
+                        2.28445,
+                        48.971156
+                  ]
+            },
+            {
+                  "name": "L'Avant-Seine - Théâtre de Colombes",
+                  "text": "Das L'Avant-Seine - Théâtre de Colombes ist ein bedeutender kultureller Ort für darstellende Künste in Argenteuil. Es beherbergt das ganze Jahr über verschiedene Aufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.251031,
+                        48.924482
+                  ]
+            },
+            {
+                  "name": "Centre Cyrano-de-Bergerac",
+                  "text": "Das Centre Cyrano-de-Bergerac ist ein bedeutender kultureller Ort für darstellende Künste in Argenteuil. Es beherbergt das ganze Jahr über verschiedene Aufführungen und künstlerische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.257046,
+                        48.971051
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Agnettes",
+                  "text": "Die Église Notre-Dame des Agnettes ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.291332,
+                        48.926
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-Saint-Paul",
+                  "text": "Die Église Saint-Pierre-Saint-Paul ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.254731,
+                        48.968755
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "Die Chapelle Saint-Christophe ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.268289,
+                        48.971216
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Missions",
+                  "text": "Die Église Notre-Dame-des-Missions ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.297742,
+                        48.960913
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Bernadette",
+                  "text": "Die Chapelle Sainte-Bernadette ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.21323,
+                        48.941644
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ferdinand",
+                  "text": "Die Église Saint-Ferdinand ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.286033,
+                        48.954834
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Geneviève",
+                  "text": "Die Église Sainte-Geneviève ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.261694,
+                        48.953717
+                  ]
+            },
+            {
+                  "name": "Église évangélique luthérienne",
+                  "text": "Die Église évangélique luthérienne ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.281295,
+                        48.95483
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Marie-Vianney",
+                  "text": "Die Église Saint-Jean-Marie-Vianney ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.236141,
+                        48.957465
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-de-la-Route",
+                  "text": "Die Chapelle Notre-Dame-de-la-Route ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.274713,
+                        48.932306
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Die Église Saint-Joseph ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.279117,
+                        48.924367
+                  ]
+            },
+            {
+                  "name": "Oratoire du Val-Notre-Dame",
+                  "text": "Die Oratoire du Val-Notre-Dame ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.20657,
+                        48.937469
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Église Saint-Martin ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        2.215468,
+                        48.92676
+                  ]
             }
       ],
       "hu": [
@@ -15194,6 +20810,222 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.191299,
                         48.960673
+                  ]
+            },
+            {
+                  "name": "Allée couverte des Déserts",
+                  "text": "Az Allée couverte des Déserts egy őskori megalitikus sír Argenteuil területén. Figyelemre méltó régészeti lelőhely, amely a környék ősi emberi jelenlétéről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        2.282716,
+                        48.952246
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "A Église Sainte-Marie-Madeleine egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.296704,
+                        48.93341
+                  ]
+            },
+            {
+                  "name": "Mosquée Al Ihsan d'Argenteuil",
+                  "text": "A Mosquée Al Ihsan d'Argenteuil egy jelentős iszlám vallási helyszín Argenteuil városában. Építészeti és spirituális központként szolgál a helyi muszlim közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.234815,
+                        48.952204
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Étienne-Saint-Henri",
+                  "text": "A Chapelle Saint-Étienne-Saint-Henri egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.261798,
+                        48.930006
+                  ]
+            },
+            {
+                  "name": "Moulin à vent dit Moulin Trouillet",
+                  "text": "A Moulin à vent dit Moulin Trouillet egy történelmi szélmalom Argenteuil környékén. A régió hagyományos vidéki tevékenységeinek emlékét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        2.242546,
+                        48.96868
+                  ]
+            },
+            {
+                  "name": "La coulée verte",
+                  "text": "A La coulée verte egy nyilvános zöldterület, amely természetes helyszínt biztosít a kikapcsolódáshoz Argenteuil városában. Népszerű hely a szabadtéri tevékenységekhez és sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        2.259897,
+                        48.918159
+                  ]
+            },
+            {
+                  "name": "Square Edgar Quinet",
+                  "text": "A Square Edgar Quinet egy nyilvános zöldterület, amely természetes helyszínt biztosít a kikapcsolódáshoz Argenteuil városában. Népszerű hely a szabadtéri tevékenységekhez és sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        2.247523,
+                        48.923957
+                  ]
+            },
+            {
+                  "name": "Musée Sauvage",
+                  "text": "A Musée Sauvage egy kulturális intézmény Argenteuil városában, amely a helyi örökség megőrzésének szentelt. Betekintést nyújt a látogatóknak a terület művészeti vagy történelmi vonatkozásaiba.",
+                  "category": "museum",
+                  "coords": [
+                        2.257096,
+                        48.944126
+                  ]
+            },
+            {
+                  "name": "Château du Maréchal de Catinat",
+                  "text": "A Château du Maréchal de Catinat egy történelmi kastély Argenteuil területén. Tükrözi a régió építészeti örökségét és történelmi jelentőségét.",
+                  "category": "castle",
+                  "coords": [
+                        2.28445,
+                        48.971156
+                  ]
+            },
+            {
+                  "name": "L'Avant-Seine - Théâtre de Colombes",
+                  "text": "A L'Avant-Seine - Théâtre de Colombes az előadó-művészetek kiemelkedő kulturális helyszíne Argenteuil városában. Egész évben különféle előadásoknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        2.251031,
+                        48.924482
+                  ]
+            },
+            {
+                  "name": "Centre Cyrano-de-Bergerac",
+                  "text": "A Centre Cyrano-de-Bergerac az előadó-művészetek kiemelkedő kulturális helyszíne Argenteuil városában. Egész évben különféle előadásoknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        2.257046,
+                        48.971051
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Agnettes",
+                  "text": "A Église Notre-Dame des Agnettes egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.291332,
+                        48.926
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-Saint-Paul",
+                  "text": "A Église Saint-Pierre-Saint-Paul egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.254731,
+                        48.968755
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "A Chapelle Saint-Christophe egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.268289,
+                        48.971216
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Missions",
+                  "text": "A Église Notre-Dame-des-Missions egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.297742,
+                        48.960913
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Bernadette",
+                  "text": "A Chapelle Sainte-Bernadette egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.21323,
+                        48.941644
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ferdinand",
+                  "text": "A Église Saint-Ferdinand egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.286033,
+                        48.954834
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Geneviève",
+                  "text": "A Église Sainte-Geneviève egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.261694,
+                        48.953717
+                  ]
+            },
+            {
+                  "name": "Église évangélique luthérienne",
+                  "text": "A Église évangélique luthérienne egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.281295,
+                        48.95483
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Marie-Vianney",
+                  "text": "A Église Saint-Jean-Marie-Vianney egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.236141,
+                        48.957465
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-de-la-Route",
+                  "text": "A Chapelle Notre-Dame-de-la-Route egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.274713,
+                        48.932306
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "A Église Saint-Joseph egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.279117,
+                        48.924367
+                  ]
+            },
+            {
+                  "name": "Oratoire du Val-Notre-Dame",
+                  "text": "A Oratoire du Val-Notre-Dame egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.20657,
+                        48.937469
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A Église Saint-Martin egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.215468,
+                        48.92676
                   ]
             }
       ],
@@ -15526,6 +21358,222 @@ const citySeeds: CitySeed[] = [
                         2.191299,
                         48.960673
                   ]
+            },
+            {
+                  "name": "Allée couverte des Déserts",
+                  "text": "Allée couverte des Déserts este un mormânt megalitic preistoric situat în Argenteuil. Este un sit arheologic remarcabil care atestă ocuparea umană antică a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        2.282716,
+                        48.952246
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "Biserica Église Sainte-Marie-Madeleine este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.296704,
+                        48.93341
+                  ]
+            },
+            {
+                  "name": "Mosquée Al Ihsan d'Argenteuil",
+                  "text": "Moscheea Mosquée Al Ihsan d'Argenteuil este un lăcaș de cult islamic semnificativ din Argenteuil. Aceasta servește ca centru arhitectural și spiritual pentru comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        2.234815,
+                        48.952204
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Étienne-Saint-Henri",
+                  "text": "Biserica Chapelle Saint-Étienne-Saint-Henri este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.261798,
+                        48.930006
+                  ]
+            },
+            {
+                  "name": "Moulin à vent dit Moulin Trouillet",
+                  "text": "Moara Moulin à vent dit Moulin Trouillet este o moară de vânt istorică situată în zona Argenteuil. Aceasta amintește de activitățile rurale tradiționale din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        2.242546,
+                        48.96868
+                  ]
+            },
+            {
+                  "name": "La coulée verte",
+                  "text": "Parcul La coulée verte este un spațiu verde public care oferă o zonă naturală de relaxare în Argenteuil. Este un loc popular pentru activități în aer liber și plimbări locale.",
+                  "category": "park",
+                  "coords": [
+                        2.259897,
+                        48.918159
+                  ]
+            },
+            {
+                  "name": "Square Edgar Quinet",
+                  "text": "Parcul Square Edgar Quinet este un spațiu verde public care oferă o zonă naturală de relaxare în Argenteuil. Este un loc popular pentru activități în aer liber și plimbări locale.",
+                  "category": "park",
+                  "coords": [
+                        2.247523,
+                        48.923957
+                  ]
+            },
+            {
+                  "name": "Musée Sauvage",
+                  "text": "Muzeul Musée Sauvage este o instituție culturală din Argenteuil dedicată păstrării patrimoniului local. Acesta oferă vizitatorilor o perspectivă asupra aspectelor artistice sau istorice ale zonei.",
+                  "category": "museum",
+                  "coords": [
+                        2.257096,
+                        48.944126
+                  ]
+            },
+            {
+                  "name": "Château du Maréchal de Catinat",
+                  "text": "Castelul Château du Maréchal de Catinat este o fortăreață istorică situată în Argenteuil. Acesta reflectă moștenirea arhitecturală și semnificația istorică a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        2.28445,
+                        48.971156
+                  ]
+            },
+            {
+                  "name": "L'Avant-Seine - Théâtre de Colombes",
+                  "text": "L'Avant-Seine - Théâtre de Colombes este un loc cultural proeminent pentru artele spectacolului din Argenteuil. Acesta găzduiește o varietate de spectacole și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        2.251031,
+                        48.924482
+                  ]
+            },
+            {
+                  "name": "Centre Cyrano-de-Bergerac",
+                  "text": "Centre Cyrano-de-Bergerac este un loc cultural proeminent pentru artele spectacolului din Argenteuil. Acesta găzduiește o varietate de spectacole și evenimente artistice pe tot parcursul anului.",
+                  "category": "cultural",
+                  "coords": [
+                        2.257046,
+                        48.971051
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Agnettes",
+                  "text": "Biserica Église Notre-Dame des Agnettes este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.291332,
+                        48.926
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-Saint-Paul",
+                  "text": "Biserica Église Saint-Pierre-Saint-Paul este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.254731,
+                        48.968755
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "Biserica Chapelle Saint-Christophe este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.268289,
+                        48.971216
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Missions",
+                  "text": "Biserica Église Notre-Dame-des-Missions este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.297742,
+                        48.960913
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Bernadette",
+                  "text": "Biserica Chapelle Sainte-Bernadette este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.21323,
+                        48.941644
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ferdinand",
+                  "text": "Biserica Église Saint-Ferdinand este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.286033,
+                        48.954834
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Geneviève",
+                  "text": "Biserica Église Sainte-Geneviève este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.261694,
+                        48.953717
+                  ]
+            },
+            {
+                  "name": "Église évangélique luthérienne",
+                  "text": "Biserica Église évangélique luthérienne este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.281295,
+                        48.95483
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Marie-Vianney",
+                  "text": "Biserica Église Saint-Jean-Marie-Vianney este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.236141,
+                        48.957465
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-de-la-Route",
+                  "text": "Biserica Chapelle Notre-Dame-de-la-Route este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.274713,
+                        48.932306
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Biserica Église Saint-Joseph este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.279117,
+                        48.924367
+                  ]
+            },
+            {
+                  "name": "Oratoire du Val-Notre-Dame",
+                  "text": "Biserica Oratoire du Val-Notre-Dame este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.20657,
+                        48.937469
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Biserica Église Saint-Martin este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        2.215468,
+                        48.92676
+                  ]
             }
       ],
       "en": [
@@ -15856,6 +21904,222 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.191299,
                         48.960673
+                  ]
+            },
+            {
+                  "name": "Allée couverte des Déserts",
+                  "text": "The Allée couverte des Déserts is a prehistoric megalithic tomb located in Argenteuil. It is a remarkable archaeological site testifying to the ancient human occupation of the area.",
+                  "category": "historical",
+                  "coords": [
+                        2.282716,
+                        48.952246
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie-Madeleine",
+                  "text": "The Église Sainte-Marie-Madeleine is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.296704,
+                        48.93341
+                  ]
+            },
+            {
+                  "name": "Mosquée Al Ihsan d'Argenteuil",
+                  "text": "The Mosquée Al Ihsan d'Argenteuil is a significant Islamic place of worship in Argenteuil. It serves as an architectural and spiritual center for the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        2.234815,
+                        48.952204
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Étienne-Saint-Henri",
+                  "text": "The Chapelle Saint-Étienne-Saint-Henri is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.261798,
+                        48.930006
+                  ]
+            },
+            {
+                  "name": "Moulin à vent dit Moulin Trouillet",
+                  "text": "The Moulin à vent dit Moulin Trouillet is a historic windmill located in the Argenteuil area. It stands as a reminder of the traditional rural activities of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        2.242546,
+                        48.96868
+                  ]
+            },
+            {
+                  "name": "La coulée verte",
+                  "text": "The La coulée verte is a public green space providing a natural area for relaxation in Argenteuil. It is a popular spot for outdoor activities and local strolls.",
+                  "category": "park",
+                  "coords": [
+                        2.259897,
+                        48.918159
+                  ]
+            },
+            {
+                  "name": "Square Edgar Quinet",
+                  "text": "The Square Edgar Quinet is a public green space providing a natural area for relaxation in Argenteuil. It is a popular spot for outdoor activities and local strolls.",
+                  "category": "park",
+                  "coords": [
+                        2.247523,
+                        48.923957
+                  ]
+            },
+            {
+                  "name": "Musée Sauvage",
+                  "text": "The Musée Sauvage is a cultural institution in Argenteuil dedicated to preserving local heritage. It offers visitors an insight into the artistic or historical aspects of the area.",
+                  "category": "museum",
+                  "coords": [
+                        2.257096,
+                        48.944126
+                  ]
+            },
+            {
+                  "name": "Château du Maréchal de Catinat",
+                  "text": "The Château du Maréchal de Catinat is a historic castle located in Argenteuil. It reflects the architectural heritage and historical significance of the region.",
+                  "category": "castle",
+                  "coords": [
+                        2.28445,
+                        48.971156
+                  ]
+            },
+            {
+                  "name": "L'Avant-Seine - Théâtre de Colombes",
+                  "text": "The L'Avant-Seine - Théâtre de Colombes is a prominent cultural venue for performing arts in Argenteuil. It hosts a variety of shows and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        2.251031,
+                        48.924482
+                  ]
+            },
+            {
+                  "name": "Centre Cyrano-de-Bergerac",
+                  "text": "The Centre Cyrano-de-Bergerac is a prominent cultural venue for performing arts in Argenteuil. It hosts a variety of shows and artistic events throughout the year.",
+                  "category": "cultural",
+                  "coords": [
+                        2.257046,
+                        48.971051
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Agnettes",
+                  "text": "The Église Notre-Dame des Agnettes is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.291332,
+                        48.926
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-Saint-Paul",
+                  "text": "The Église Saint-Pierre-Saint-Paul is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.254731,
+                        48.968755
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "The Chapelle Saint-Christophe is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.268289,
+                        48.971216
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-des-Missions",
+                  "text": "The Église Notre-Dame-des-Missions is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.297742,
+                        48.960913
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Bernadette",
+                  "text": "The Chapelle Sainte-Bernadette is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.21323,
+                        48.941644
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ferdinand",
+                  "text": "The Église Saint-Ferdinand is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.286033,
+                        48.954834
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Geneviève",
+                  "text": "The Église Sainte-Geneviève is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.261694,
+                        48.953717
+                  ]
+            },
+            {
+                  "name": "Église évangélique luthérienne",
+                  "text": "The Église évangélique luthérienne is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.281295,
+                        48.95483
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Marie-Vianney",
+                  "text": "The Église Saint-Jean-Marie-Vianney is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.236141,
+                        48.957465
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-de-la-Route",
+                  "text": "The Chapelle Notre-Dame-de-la-Route is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.274713,
+                        48.932306
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "The Église Saint-Joseph is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.279117,
+                        48.924367
+                  ]
+            },
+            {
+                  "name": "Oratoire du Val-Notre-Dame",
+                  "text": "The Oratoire du Val-Notre-Dame is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.20657,
+                        48.937469
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "The Église Saint-Martin is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        2.215468,
+                        48.92676
                   ]
             }
       ],
@@ -20286,6 +26550,231 @@ const citySeeds: CitySeed[] = [
                         -1.161187,
                         46.157494
                   ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Das Musée des Beaux-Arts in La Rochelle ist in einem ehemaligen Bischofspalast untergebracht. Es präsentiert eine beeindruckende Sammlung europäischer Malerei vom 15. bis zum 20. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        -1.151581,
+                        46.16211
+                  ]
+            },
+            {
+                  "name": "Porte Royale",
+                  "text": "Die Porte Royale war einst der prachtvolle Haupteingang zur befestigten Stadt La Rochelle. Das im 18. Jahrhundert errichtete Tor ist ein bedeutendes Beispiel der Verteidigungsarchitektur.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.143124,
+                        46.162247
+                  ]
+            },
+            {
+                  "name": "La Coursive",
+                  "text": "La Coursive ist ein bedeutendes Kulturzentrum und Nationaltheater in La Rochelle. Es befindet sich in einem historischen Gebäude, das früher als Kloster und Fischmarkt diente.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.155167,
+                        46.156825
+                  ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "Das Musée Maritime in La Rochelle bietet einen faszinierenden Einblick in die Seefahrtsgeschichte der Region. Besucher können am Hafen verschiedene historische Schiffe besichtigen und betreten.",
+                  "category": "museum",
+                  "coords": [
+                        -1.150695,
+                        46.150602
+                  ]
+            },
+            {
+                  "name": "Musée Rochelais d'Histoire Protestante",
+                  "text": "Dieses Museum widmet sich der protestantischen Geschichte von La Rochelle und der umliegenden Region. Es befindet sich im Stadtzentrum und zeigt die religiöse Entwicklung über die Jahrhunderte auf.",
+                  "category": "museum",
+                  "coords": [
+                        -1.149996,
+                        46.159489
+                  ]
+            },
+            {
+                  "name": "Le Bunker de La Rochelle",
+                  "text": "Le Bunker de La Rochelle ist ein ehemaliger deutscher Bunker aus dem Zweiten Weltkrieg, der heute als Museum dient. Die Ausstellung dokumentiert die Geschichte der Stadt während der Besatzungszeit.",
+                  "category": "museum",
+                  "coords": [
+                        -1.14909,
+                        46.161004
+                  ]
+            },
+            {
+                  "name": "Mairie de Puilboreau",
+                  "text": "Das Rathaus von Puilboreau ist das administrative Zentrum dieser Gemeinde in der Nähe von La Rochelle. Das Gebäude dient als wichtiger Anlaufpunkt für lokale Angelegenheiten und Bürgerdienste.",
+                  "category": "historical",
+                  "coords": [
+                        -1.119128,
+                        46.187888
+                  ]
+            },
+            {
+                  "name": "Mairie de Lagord",
+                  "text": "Das Rathaus von Lagord verwaltet die kommunalen Angelegenheiten dieses nördlich von La Rochelle gelegenen Ortes. Es ist ein zentrales Gebäude für die Verwaltung und die Bewohner der Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        -1.153311,
+                        46.190763
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "Die Kirche Saint-Louis ist ein bedeutendes religiöses Bauwerk in der Stadt La Rochelle. Sie dient der örtlichen Gemeinde als Ort für Gottesdienste und stille Einkehr.",
+                  "category": "religious",
+                  "coords": [
+                        -1.117652,
+                        46.185604
+                  ]
+            },
+            {
+                  "name": "Prieuré Notre-Dame-de-l'Assomption",
+                  "text": "Das Prieuré Notre-Dame-de-l'Assomption ist ein historisches religiöses Anwesen in La Rochelle. Es zeugt von der langen kirchlichen Tradition und Geschichte der Hafenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.15158,
+                        46.189847
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cybard",
+                  "text": "Die Kirche Saint-Cybard ist ein fester Bestandteil des religiösen Erbes von La Rochelle. Das Bauwerk bietet einen Raum für Gebete und ist ein lokales architektonisches Zeugnis.",
+                  "category": "religious",
+                  "coords": [
+                        -1.108217,
+                        46.151907
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Die im Viertel Saint-Nicolas gelegene Kirche Saint-Nicolas ist ein markanter Ort des Glaubens in La Rochelle. Ihre Architektur fügt sich charakteristisch in das Stadtbild des Hafenviertels ein.",
+                  "category": "religious",
+                  "coords": [
+                        -1.144281,
+                        46.148448
+                  ]
+            },
+            {
+                  "name": "Église Saint-André et Sainte-Jeanne-d'Arc de Fétilly",
+                  "text": "Diese Kirche ist den Heiligen Andreas und Johanna von Orléans gewidmet und befindet sich im Viertel Fétilly. Sie dient als wichtiges religiöses Zentrum für die Bewohner dieses Teils von La Rochelle.",
+                  "category": "religious",
+                  "coords": [
+                        -1.155695,
+                        46.171715
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Die Kirche Saint-Pierre ist ein traditionsreiches Gotteshaus in der Stadt La Rochelle. Besucher finden hier einen Ort der Ruhe und können die religiöse Atmosphäre des Gebäudes erleben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.200276,
+                        46.16534
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Die Kirche Notre-Dame in La Rochelle ist ein markantes religiöses Denkmal der Stadt. Sie spiegelt die historische Bedeutung des katholischen Glaubens in dieser Küstenregion wider.",
+                  "category": "religious",
+                  "coords": [
+                        -1.146119,
+                        46.163685
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Die Herz-Jesu-Kirche (Église du Sacré-Cœur) ist ein Ort der Andacht für die Gläubigen in La Rochelle. Das Gebäude ist ein fester Bestandteil der kirchlichen Landschaft der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.171006,
+                        46.160125
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Die Kirche Saint-Paul dient der Gemeinde von La Rochelle als Ort für religiöse Versammlungen. Ihre Architektur trägt zur Vielfalt der sakralen Bauten in der Stadt bei.",
+                  "category": "religious",
+                  "coords": [
+                        -1.176925,
+                        46.170198
+                  ]
+            },
+            {
+                  "name": "Chapelle Jean-Baptiste Souzy",
+                  "text": "Die Kapelle Jean-Baptiste Souzy erinnert an die Märtyrer der Pontons von Rochefort. Sie ist ein bedeutender Gedenkort für die religiöse Geschichte von La Rochelle.",
+                  "category": "religious",
+                  "coords": [
+                        -1.156744,
+                        46.140033
+                  ]
+            },
+            {
+                  "name": "Tourelle Richelieu",
+                  "text": "Die Tourelle Richelieu ist ein kleiner Leuchtturm, der die Hafeneinfahrt von La Rochelle markiert. Er dient als wichtiges Navigationszeichen für die Schifffahrt vor der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.172417,
+                        46.148257
+                  ]
+            },
+            {
+                  "name": "Jardin des Plantes",
+                  "text": "Der Jardin des Plantes ist eine grüne Oase im Herzen von La Rochelle. Er beherbergt eine Vielfalt an Pflanzenarten und bietet Besuchern einen ruhigen Ort zum Entspannen.",
+                  "category": "park",
+                  "coords": [
+                        -1.150117,
+                        46.164925
+                  ]
+            },
+            {
+                  "name": "Plage des Minimes",
+                  "text": "Die Plage des Minimes ist der größte Sandstrand von La Rochelle und liegt in der Nähe des gleichnamigen Yachthafens. Er ist ein beliebter Ort zum Schwimmen, Sonnenbaden und für Wassersportaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.171143,
+                        46.140857
+                  ]
+            },
+            {
+                  "name": "La Galerie",
+                  "text": "La Galerie ist ein Ausstellungsraum in La Rochelle, der verschiedene Formen der zeitgenössischen Kunst präsentiert. Sie bietet lokalen und regionalen Künstlern eine Plattform für ihre Werke.",
+                  "category": "museum",
+                  "coords": [
+                        -1.150013,
+                        46.162583
+                  ]
+            },
+            {
+                  "name": "Rumeur des ages",
+                  "text": "Rumeur des Ages ist eine Kunstgalerie in La Rochelle, die sich der Förderung kultureller und künstlerischer Projekte widmet. Die Galerie zeigt wechselnde Ausstellungen in einer inspirierenden Atmosphäre.",
+                  "category": "museum",
+                  "coords": [
+                        -1.152614,
+                        46.159768
+                  ]
+            },
+            {
+                  "name": "Porte Maubec",
+                  "text": "Die Porte Maubec ist ein historisches Stadttor in La Rochelle, das heute als Raum für Ausstellungen und kulturelle Veranstaltungen genutzt wird. Das Gebäude verbindet eindrucksvoll alte Architektur mit moderner Nutzung.",
+                  "category": "museum",
+                  "coords": [
+                        -1.146254,
+                        46.159108
+                  ]
+            },
+            {
+                  "name": "Tour Carrée",
+                  "text": "Die Tour Carrée ist ein markanter Wehrturm, der einst Teil der Befestigungsanlagen von La Rochelle war. Er steht als Zeugnis der militärischen Vergangenheit und der Verteidigungsstrategien der Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.193429,
+                        46.150334
+                  ]
             }
       ],
       "hu": [
@@ -20426,6 +26915,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.161187,
                         46.157494
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "A La Rochelle-i Szépművészeti Múzeum egy egykori püspöki palotában található. A gyűjtemény az európai festészet remekműveit mutatja be a 15. századtól a 20. századig.",
+                  "category": "museum",
+                  "coords": [
+                        -1.151581,
+                        46.16211
+                  ]
+            },
+            {
+                  "name": "Porte Royale",
+                  "text": "A Porte Royale egykor La Rochelle erődített városának díszes főbejárata volt. A 18. században épült kapu a védelmi építészet jelentős emléke.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.143124,
+                        46.162247
+                  ]
+            },
+            {
+                  "name": "La Coursive",
+                  "text": "A La Coursive La Rochelle jelentős kulturális központja és nemzeti színháza. Az intézmény egy történelmi épületben található, amely korábban kolostorként és halpiacként működött.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.155167,
+                        46.156825
+                  ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "A La Rochelle-i Tengerészeti Múzeum lenyűgöző betekintést nyújt a régió tengerészeti történelmébe. A látogatók különböző történelmi hajókat tekinthetnek meg és járhatnak be a kikötőben.",
+                  "category": "museum",
+                  "coords": [
+                        -1.150695,
+                        46.150602
+                  ]
+            },
+            {
+                  "name": "Musée Rochelais d'Histoire Protestante",
+                  "text": "Ez a múzeum La Rochelle és a környező régió protestáns történelmének szentelt. A városközpontban található intézmény a vallási fejlődést mutatja be az évszázadok során.",
+                  "category": "museum",
+                  "coords": [
+                        -1.149996,
+                        46.159489
+                  ]
+            },
+            {
+                  "name": "Le Bunker de La Rochelle",
+                  "text": "A Le Bunker de La Rochelle egy egykori német bunker a második világháborúból, amely ma múzeumként működik. A kiállítás a város megszállás alatti történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -1.14909,
+                        46.161004
+                  ]
+            },
+            {
+                  "name": "Mairie de Puilboreau",
+                  "text": "Puilboreau városháza a La Rochelle melletti település adminisztratív központja. Az épület a helyi ügyek és az állampolgári szolgáltatások fontos helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        -1.119128,
+                        46.187888
+                  ]
+            },
+            {
+                  "name": "Mairie de Lagord",
+                  "text": "Lagord városháza a La Rochelle-től északra fekvő település önkormányzati ügyeit intézi. Az épület a közigazgatás és a helyi lakosok számára egyaránt központi jelentőségű.",
+                  "category": "historical",
+                  "coords": [
+                        -1.153311,
+                        46.190763
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "A Saint-Louis-templom La Rochelle városának egyik jelentős vallási épülete. A helyi közösség számára az istentiszteletek és a csendes elvonulás helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -1.117652,
+                        46.185604
+                  ]
+            },
+            {
+                  "name": "Prieuré Notre-Dame-de-l'Assomption",
+                  "text": "A Prieuré Notre-Dame-de-l'Assomption egy történelmi vallási épületegyüttes La Rochelle-ben. Az épület a kikötőváros hosszú egyházi hagyományairól és történelméről tanúskodik.",
+                  "category": "religious",
+                  "coords": [
+                        -1.15158,
+                        46.189847
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cybard",
+                  "text": "A Saint-Cybard-templom La Rochelle vallási örökségének szerves része. Az épület helyszínt biztosít az imádságnak, és a helyi építészet egyik fontos emléke.",
+                  "category": "religious",
+                  "coords": [
+                        -1.108217,
+                        46.151907
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "A Saint-Nicolas negyedben található Saint-Nicolas-templom a hit egyik meghatározó helyszíne La Rochelle-ben. Építészete jellegzetesen illeszkedik a kikötői negyed városképébe.",
+                  "category": "religious",
+                  "coords": [
+                        -1.144281,
+                        46.148448
+                  ]
+            },
+            {
+                  "name": "Église Saint-André et Sainte-Jeanne-d'Arc de Fétilly",
+                  "text": "Ez a templom Szent Andrásnak és Szent Johannának szentelt, és Fétilly negyedében található. Fontos vallási központként szolgál La Rochelle ezen részének lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        -1.155695,
+                        46.171715
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "A Saint-Pierre-templom egy hagyományokban gazdag istentiszteleti hely La Rochelle városában. A látogatók itt nyugalomra lelhetnek, és átélhetik az épület vallási hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        -1.200276,
+                        46.16534
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "A La Rochelle-i Notre-Dame-templom a város egyik meghatározó vallási műemléke. Az épület a katolikus hit történelmi jelentőségét tükrözi ebben a tengerparti régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -1.146119,
+                        46.163685
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "A Szent Szív-templom (Sacré-Cœur) az áhítat helyszíne a La Rochelle-i hívők számára. Az épület a város egyházi tájképének szerves része.",
+                  "category": "religious",
+                  "coords": [
+                        -1.171006,
+                        46.160125
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "A Saint-Paul-templom vallási összejövetelek helyszíneként szolgál a La Rochelle-i közösség számára. Építészete hozzájárul a város szakrális épületeinek sokszínűségéhez.",
+                  "category": "religious",
+                  "coords": [
+                        -1.176925,
+                        46.170198
+                  ]
+            },
+            {
+                  "name": "Chapelle Jean-Baptiste Souzy",
+                  "text": "A Jean-Baptiste Souzy-kápolna a rochefort-i hajóbörtönök mártírjainak állít emléket. Fontos emlékhely La Rochelle vallástörténete szempontjából.",
+                  "category": "religious",
+                  "coords": [
+                        -1.156744,
+                        46.140033
+                  ]
+            },
+            {
+                  "name": "Tourelle Richelieu",
+                  "text": "A Tourelle Richelieu egy kis világítótorony, amely La Rochelle kikötőbejáratát jelzi. Fontos navigációs jelzésként szolgál a part menti hajózás számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.172417,
+                        46.148257
+                  ]
+            },
+            {
+                  "name": "Jardin des Plantes",
+                  "text": "A Jardin des Plantes egy zöld oázis La Rochelle szívében. Számos növényfajnak ad otthont, és nyugodt helyet kínál a látogatóknak a kikötőben.",
+                  "category": "park",
+                  "coords": [
+                        -1.150117,
+                        46.164925
+                  ]
+            },
+            {
+                  "name": "Plage des Minimes",
+                  "text": "A Plage des Minimes La Rochelle legnagyobb homokos strandja, amely a hasonló nevű jachtkikötő közelében található. Kedvelt hely az úszásra, napozásra és a vízi sportok kedvelői számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.171143,
+                        46.140857
+                  ]
+            },
+            {
+                  "name": "La Galerie",
+                  "text": "A La Galerie egy kiállítóhely La Rochelle-ben, amely a kortárs művészet különböző formáit mutatja be. Platformot biztosít a helyi és regionális művészek számára alkotásaik bemutatására.",
+                  "category": "museum",
+                  "coords": [
+                        -1.150013,
+                        46.162583
+                  ]
+            },
+            {
+                  "name": "Rumeur des ages",
+                  "text": "A Rumeur des Ages egy művészeti galéria La Rochelle-ben, amely kulturális és művészeti projektek népszerűsítésével foglalkozik. A galéria változatos kiállításokat mutat be inspiráló környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        -1.152614,
+                        46.159768
+                  ]
+            },
+            {
+                  "name": "Porte Maubec",
+                  "text": "A Porte Maubec egy történelmi városkapu La Rochelle-ben, amelyet ma kiállítások és kulturális események helyszíneként használnak. Az épület lenyűgöző módon ötvözi a régi építészetet a modern funkciókkal.",
+                  "category": "museum",
+                  "coords": [
+                        -1.146254,
+                        46.159108
+                  ]
+            },
+            {
+                  "name": "Tour Carrée",
+                  "text": "A Tour Carrée egy jellegzetes védőtorony, amely egykor La Rochelle erődrendszerének része volt. A város katonai múltjának és védelmi stratégiáinak tanújeleként áll.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.193429,
+                        46.150334
                   ]
             }
       ],
@@ -20568,6 +27282,231 @@ const citySeeds: CitySeed[] = [
                         -1.161187,
                         46.157494
                   ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Muzeul de Arte Frumoase din La Rochelle este găzduit într-un fost palat episcopal. Acesta prezintă o colecție impresionantă de pictură europeană din secolul al XV-lea până în secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -1.151581,
+                        46.16211
+                  ]
+            },
+            {
+                  "name": "Porte Royale",
+                  "text": "Porte Royale a fost odinioară poarta principală monumentală a orașului fortificat La Rochelle. Construită în secolul al XVIII-lea, poarta este un exemplu important de arhitectură defensivă.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.143124,
+                        46.162247
+                  ]
+            },
+            {
+                  "name": "La Coursive",
+                  "text": "La Coursive este un centru cultural important și teatru național situat în La Rochelle. Acesta se află într-o clădire istorică ce a servit anterior ca mănăstire și piață de pește.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.155167,
+                        46.156825
+                  ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "Muzeul Maritim din La Rochelle oferă o perspectivă fascinantă asupra istoriei maritime a regiunii. Vizitatorii pot vedea și explora diverse nave istorice ancorate în port.",
+                  "category": "museum",
+                  "coords": [
+                        -1.150695,
+                        46.150602
+                  ]
+            },
+            {
+                  "name": "Musée Rochelais d'Histoire Protestante",
+                  "text": "Acest muzeu este dedicat istoriei protestante din La Rochelle și din regiunea înconjurătoare. Situat în centrul orașului, acesta prezintă evoluția religioasă de-a lungul secolelor.",
+                  "category": "museum",
+                  "coords": [
+                        -1.149996,
+                        46.159489
+                  ]
+            },
+            {
+                  "name": "Le Bunker de La Rochelle",
+                  "text": "Buncărul din La Rochelle este un fost buncăr german din al Doilea Război Mondial, transformat astăzi în muzeu. Expoziția documentează istoria orașului în timpul perioadei de ocupație.",
+                  "category": "museum",
+                  "coords": [
+                        -1.14909,
+                        46.161004
+                  ]
+            },
+            {
+                  "name": "Mairie de Puilboreau",
+                  "text": "Primăria din Puilboreau este centrul administrativ al acestei comune situate lângă La Rochelle. Clădirea servește ca punct important pentru afacerile locale și serviciile cetățenești.",
+                  "category": "historical",
+                  "coords": [
+                        -1.119128,
+                        46.187888
+                  ]
+            },
+            {
+                  "name": "Mairie de Lagord",
+                  "text": "Primăria din Lagord gestionează afacerile comunale ale acestei localități situate la nord de La Rochelle. Este o clădire centrală pentru administrație și pentru locuitorii comunității.",
+                  "category": "historical",
+                  "coords": [
+                        -1.153311,
+                        46.190763
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "Biserica Saint-Louis este un edificiu religios important din orașul La Rochelle. Aceasta servește comunității locale ca loc pentru slujbe și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        -1.117652,
+                        46.185604
+                  ]
+            },
+            {
+                  "name": "Prieuré Notre-Dame-de-l'Assomption",
+                  "text": "Prioratul Notre-Dame-de-l'Assomption este o proprietate religioasă istorică din La Rochelle. Acesta stă mărturie pentru lunga tradiție ecleziastică și istoria orașului portuar.",
+                  "category": "religious",
+                  "coords": [
+                        -1.15158,
+                        46.189847
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cybard",
+                  "text": "Biserica Saint-Cybard este o parte integrantă a moștenirii religioase din La Rochelle. Edificiul oferă un spațiu pentru rugăciune și este o mărturie arhitecturală locală.",
+                  "category": "religious",
+                  "coords": [
+                        -1.108217,
+                        46.151907
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Situată în cartierul Saint-Nicolas, biserica Saint-Nicolas este un loc de credință marcant în La Rochelle. Arhitectura sa se integrează caracteristic în peisajul urban al cartierului portuar.",
+                  "category": "religious",
+                  "coords": [
+                        -1.144281,
+                        46.148448
+                  ]
+            },
+            {
+                  "name": "Église Saint-André et Sainte-Jeanne-d'Arc de Fétilly",
+                  "text": "Această biserică este dedicată Sfinților Andrei și Ioana d'Arc și se află în cartierul Fétilly. Servește ca centru religios important pentru locuitorii din această parte a orașului La Rochelle.",
+                  "category": "religious",
+                  "coords": [
+                        -1.155695,
+                        46.171715
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Biserica Saint-Pierre este un lăcaș de cult cu o lungă tradiție în orașul La Rochelle. Vizitatorii găsesc aici un loc de liniște și pot experimenta atmosfera religioasă a clădirii.",
+                  "category": "religious",
+                  "coords": [
+                        -1.200276,
+                        46.16534
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Biserica Notre-Dame din La Rochelle este un monument religios marcant al orașului. Aceasta reflectă importanța istorică a credinței catolice în această regiune de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        -1.146119,
+                        46.163685
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Biserica Sacré-Cœur este un loc de devoțiune pentru credincioșii din La Rochelle. Clădirea este o parte integrantă a peisajului ecleziastic al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -1.171006,
+                        46.160125
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Biserica Saint-Paul servește comunității din La Rochelle ca loc pentru adunări religioase. Arhitectura sa contribuie la diversitatea edificiilor sacre din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        -1.176925,
+                        46.170198
+                  ]
+            },
+            {
+                  "name": "Chapelle Jean-Baptiste Souzy",
+                  "text": "Capela Jean-Baptiste Souzy onorează memoria martirilor de pe pontoanele din Rochefort. Este un loc de comemorare important pentru istoria religioasă a orașului La Rochelle.",
+                  "category": "religious",
+                  "coords": [
+                        -1.156744,
+                        46.140033
+                  ]
+            },
+            {
+                  "name": "Tourelle Richelieu",
+                  "text": "Tourelle Richelieu este un far mic care marchează intrarea în portul La Rochelle. Acesta servește ca semn de navigație important pentru traficul maritim de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.172417,
+                        46.148257
+                  ]
+            },
+            {
+                  "name": "Jardin des Plantes",
+                  "text": "Grădina Botanică (Jardin des Plantes) este o oază de verdeață în inima orașului La Rochelle. Aceasta găzduiește o varietate de specii de plante și oferă vizitatorilor un loc liniștit pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        -1.150117,
+                        46.164925
+                  ]
+            },
+            {
+                  "name": "Plage des Minimes",
+                  "text": "Plaja Minimes este cea mai mare plajă cu nisip din La Rochelle, situată lângă portul de agrement cu același nume. Este un loc popular pentru înot, plajă și activități sportive nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.171143,
+                        46.140857
+                  ]
+            },
+            {
+                  "name": "La Galerie",
+                  "text": "La Galerie este un spațiu expozițional din La Rochelle care prezintă diverse forme de artă contemporană. Aceasta oferă artiștilor locali și regionali o platformă pentru lucrările lor.",
+                  "category": "museum",
+                  "coords": [
+                        -1.150013,
+                        46.162583
+                  ]
+            },
+            {
+                  "name": "Rumeur des ages",
+                  "text": "Rumeur des Ages este o galerie de artă din La Rochelle dedicată promovării proiectelor culturale și artistice. Galeria prezintă expoziții temporare într-o atmosferă plină de inspirație.",
+                  "category": "museum",
+                  "coords": [
+                        -1.152614,
+                        46.159768
+                  ]
+            },
+            {
+                  "name": "Porte Maubec",
+                  "text": "Porte Maubec este o poartă istorică a orașului La Rochelle, folosită astăzi ca spațiu pentru expoziții și evenimente culturale. Clădirea îmbină armonios arhitectura veche cu utilizarea modernă.",
+                  "category": "museum",
+                  "coords": [
+                        -1.146254,
+                        46.159108
+                  ]
+            },
+            {
+                  "name": "Tour Carrée",
+                  "text": "Tour Carrée este un turn de apărare marcant care a făcut odinioară parte din fortificațiile orașului La Rochelle. Acesta stă ca mărturie a trecutului militar și a strategiilor de apărare ale orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.193429,
+                        46.150334
+                  ]
             }
       ],
       "en": [
@@ -20708,6 +27647,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.161187,
                         46.157494
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "The Musée des Beaux-Arts in La Rochelle is housed in a former episcopal palace. It features an impressive collection of European paintings ranging from the 15th to the 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        -1.151581,
+                        46.16211
+                  ]
+            },
+            {
+                  "name": "Porte Royale",
+                  "text": "The Porte Royale was once the main ceremonial entrance to the fortified city of La Rochelle. Built in the 18th century, the gate is a significant example of defensive architecture.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.143124,
+                        46.162247
+                  ]
+            },
+            {
+                  "name": "La Coursive",
+                  "text": "La Coursive is a major cultural center and national theatre located in La Rochelle. It is housed in a historic building that formerly served as a convent and a fish market.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.155167,
+                        46.156825
+                  ]
+            },
+            {
+                  "name": "Musée Maritime",
+                  "text": "The Maritime Museum in La Rochelle offers a fascinating look into the region's seafaring history. Visitors can explore various historical ships docked in the harbor.",
+                  "category": "museum",
+                  "coords": [
+                        -1.150695,
+                        46.150602
+                  ]
+            },
+            {
+                  "name": "Musée Rochelais d'Histoire Protestante",
+                  "text": "This museum is dedicated to the Protestant history of La Rochelle and the surrounding region. Located in the city center, it traces the religious history through the centuries.",
+                  "category": "museum",
+                  "coords": [
+                        -1.149996,
+                        46.159489
+                  ]
+            },
+            {
+                  "name": "Le Bunker de La Rochelle",
+                  "text": "The Bunker of La Rochelle is a former German bunker from World War II that now serves as a museum. The exhibition documents the city's history during the period of occupation.",
+                  "category": "museum",
+                  "coords": [
+                        -1.14909,
+                        46.161004
+                  ]
+            },
+            {
+                  "name": "Mairie de Puilboreau",
+                  "text": "The town hall of Puilboreau is the administrative center for this commune near La Rochelle. The building serves as an important point for local affairs and citizen services.",
+                  "category": "historical",
+                  "coords": [
+                        -1.119128,
+                        46.187888
+                  ]
+            },
+            {
+                  "name": "Mairie de Lagord",
+                  "text": "The town hall of Lagord manages the municipal affairs of this town located north of La Rochelle. It is a central building for the administration and the residents of the community.",
+                  "category": "historical",
+                  "coords": [
+                        -1.153311,
+                        46.190763
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "The Church of Saint-Louis is a significant religious building in the city of La Rochelle. It serves the local community as a place for worship and quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -1.117652,
+                        46.185604
+                  ]
+            },
+            {
+                  "name": "Prieuré Notre-Dame-de-l'Assomption",
+                  "text": "The Prieuré Notre-Dame-de-l'Assomption is a historic religious property in La Rochelle. It bears witness to the long ecclesiastical tradition and history of the port city.",
+                  "category": "religious",
+                  "coords": [
+                        -1.15158,
+                        46.189847
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cybard",
+                  "text": "The Church of Saint-Cybard is an integral part of the religious heritage of La Rochelle. The building provides a space for prayer and stands as a local architectural witness.",
+                  "category": "religious",
+                  "coords": [
+                        -1.108217,
+                        46.151907
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Located in the Saint-Nicolas district, the Church of Saint-Nicolas is a prominent place of faith in La Rochelle. Its architecture fits characteristically into the cityscape of the harbor district.",
+                  "category": "religious",
+                  "coords": [
+                        -1.144281,
+                        46.148448
+                  ]
+            },
+            {
+                  "name": "Église Saint-André et Sainte-Jeanne-d'Arc de Fétilly",
+                  "text": "This church is dedicated to Saint Andrew and Saint Joan of Arc and is located in the Fétilly district. It serves as an important religious center for the residents of this part of La Rochelle.",
+                  "category": "religious",
+                  "coords": [
+                        -1.155695,
+                        46.171715
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "The Church of Saint-Pierre is a traditional place of worship in the city of La Rochelle. Visitors can find a place of peace here and experience the religious atmosphere of the building.",
+                  "category": "religious",
+                  "coords": [
+                        -1.200276,
+                        46.16534
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "The Church of Notre-Dame in La Rochelle is a prominent religious monument in the city. It reflects the historical significance of the Catholic faith in this coastal region.",
+                  "category": "religious",
+                  "coords": [
+                        -1.146119,
+                        46.163685
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "The Church of the Sacred Heart (Sacré-Cœur) is a place of devotion for the faithful in La Rochelle. The building is an integral part of the city's ecclesiastical landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -1.171006,
+                        46.160125
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "The Church of Saint-Paul serves the community of La Rochelle as a place for religious gatherings. Its architecture contributes to the variety of sacred buildings in the city.",
+                  "category": "religious",
+                  "coords": [
+                        -1.176925,
+                        46.170198
+                  ]
+            },
+            {
+                  "name": "Chapelle Jean-Baptiste Souzy",
+                  "text": "The Chapel of Jean-Baptiste Souzy commemorates the martyrs of the hulks of Rochefort. It is an important place of remembrance for the religious history of La Rochelle.",
+                  "category": "religious",
+                  "coords": [
+                        -1.156744,
+                        46.140033
+                  ]
+            },
+            {
+                  "name": "Tourelle Richelieu",
+                  "text": "The Tourelle Richelieu is a small lighthouse marking the entrance to the harbor of La Rochelle. It serves as an important navigational aid for shipping off the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.172417,
+                        46.148257
+                  ]
+            },
+            {
+                  "name": "Jardin des Plantes",
+                  "text": "The Jardin des Plantes is a green oasis in the heart of La Rochelle. It houses a variety of plant species and offers visitors a peaceful place to relax.",
+                  "category": "park",
+                  "coords": [
+                        -1.150117,
+                        46.164925
+                  ]
+            },
+            {
+                  "name": "Plage des Minimes",
+                  "text": "The Plage des Minimes is the largest sandy beach in La Rochelle, located near the marina of the same name. It is a popular spot for swimming, sunbathing, and water sports activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.171143,
+                        46.140857
+                  ]
+            },
+            {
+                  "name": "La Galerie",
+                  "text": "La Galerie is an exhibition space in La Rochelle presenting various forms of contemporary art. It provides a platform for local and regional artists to showcase their work.",
+                  "category": "museum",
+                  "coords": [
+                        -1.150013,
+                        46.162583
+                  ]
+            },
+            {
+                  "name": "Rumeur des ages",
+                  "text": "Rumeur des Ages is an art gallery in La Rochelle dedicated to promoting cultural and artistic projects. The gallery hosts rotating exhibitions in an inspiring atmosphere.",
+                  "category": "museum",
+                  "coords": [
+                        -1.152614,
+                        46.159768
+                  ]
+            },
+            {
+                  "name": "Porte Maubec",
+                  "text": "The Porte Maubec is a historic city gate in La Rochelle that is now used as a space for exhibitions and cultural events. The building impressively combines ancient architecture with modern usage.",
+                  "category": "museum",
+                  "coords": [
+                        -1.146254,
+                        46.159108
+                  ]
+            },
+            {
+                  "name": "Tour Carrée",
+                  "text": "The Tour Carrée is a prominent defensive tower that was once part of La Rochelle's fortifications. It stands as a witness to the city's military past and defensive strategies.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.193429,
+                        46.150334
                   ]
             }
       ],
@@ -22836,6 +30000,222 @@ const citySeeds: CitySeed[] = [
                         0.328095,
                         46.558689
                   ]
+            },
+            {
+                  "name": "Musée Rupert de Chièvres",
+                  "text": "Das Musée Rupert-de-Chièvres in Poitiers befindet sich in einem prächtigen Herrenhaus aus dem 19. Jahrhundert. Es beherbergt eine bedeutende Sammlung von Kunstgegenständen und Gemälden vom Mittelalter bis zur Renaissance.",
+                  "category": "museum",
+                  "coords": [
+                        0.338418,
+                        46.58074
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame la Grande",
+                  "text": "Die Kirche Notre-Dame la Grande in Poitiers ist weltberühmt für ihre reich verzierte romanische Fassade. Sie gilt als eines der bedeutendsten Meisterwerke der mittelalterlichen Architektur in Frankreich.",
+                  "category": "religious",
+                  "coords": [
+                        0.344062,
+                        46.583228
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-l'Évangéliste",
+                  "text": "Die Kirche Saint-Jean de Montierneuf in Poitiers war ursprünglich Teil einer bedeutenden Benediktinerabtei. Das Bauwerk beeindruckt durch seine harmonische Verbindung von romanischen und gotischen Stilelementen.",
+                  "category": "religious",
+                  "coords": [
+                        0.345361,
+                        46.589263
+                  ]
+            },
+            {
+                  "name": "Vestiges des Thermes Publics Gallo-romains",
+                  "text": "Die Überreste der öffentlichen gallo-römischen Thermen in Poitiers geben Aufschluss über die antike Stadtplanung. Besucher können hier die Grundmauern und die komplexe Struktur der ehemaligen Badeanlage besichtigen.",
+                  "category": "historical",
+                  "coords": [
+                        0.344178,
+                        46.58822
+                  ]
+            },
+            {
+                  "name": "Abbaye Sainte-Croix",
+                  "text": "Die Ruinen der Abbaye Sainte-Croix zeugen von einer der ältesten Klostergründungen in Poitiers. Die erhaltenen Strukturen vermitteln einen Eindruck von der einstigen Größe und Bedeutung der Abtei.",
+                  "category": "historical",
+                  "coords": [
+                        0.349797,
+                        46.57924
+                  ]
+            },
+            {
+                  "name": "Mairie de Saint-Benoît",
+                  "text": "Das Rathaus von Saint-Benoît ist das Verwaltungszentrum dieser südlich von Poitiers gelegenen Gemeinde. Es ist ein zentraler Anlaufpunkt für die Bürger und repräsentiert die lokale Verwaltung.",
+                  "category": "historical",
+                  "coords": [
+                        0.340138,
+                        46.549548
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville",
+                  "text": "Das prachtvolle Rathaus von Poitiers dominiert den zentralen Platz der Stadt. Das im 19. Jahrhundert errichtete Gebäude ist ein herausragendes Beispiel für die repräsentative Architektur jener Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        0.352986,
+                        46.598232
+                  ]
+            },
+            {
+                  "name": "La Hune",
+                  "text": "La Hune ist eine moderne Veranstaltungshalle in der Nähe von Poitiers, die für Konzerte und Theateraufführungen genutzt wird. Sie bietet einen vielseitigen Raum für das kulturelle Leben der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343498,
+                        46.55855
+                  ]
+            },
+            {
+                  "name": "Ancienne Chapelle - Auditorium Saint-Germain",
+                  "text": "Das Auditorium Saint-Germain ist ein Kulturzentrum, das in einer ehemaligen Kapelle in Poitiers eingerichtet wurde. Es dient heute als besonderer Ort für Konzerte und künstlerische Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343614,
+                        46.587011
+                  ]
+            },
+            {
+                  "name": "La Croix de Beaulieu",
+                  "text": "La Croix de Beaulieu ist ein religiöses Denkmal in einem der Stadtviertel von Poitiers. Es ist ein Ort der Besinnung und zeugt von der lokalen Frömmigkeit.",
+                  "category": "religious",
+                  "coords": [
+                        0.382881,
+                        46.575242
+                  ]
+            },
+            {
+                  "name": "Église Saint-Savin (ancienne)",
+                  "text": "Die ehemalige Kirche Saint-Savin in Poitiers ist ein historisches sakrales Gebäude der Stadt. Heute erinnert das Bauwerk an die reiche religiöse Architekturgeschichte des Ortes.",
+                  "category": "religious",
+                  "coords": [
+                        0.347989,
+                        46.581495
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philippe-et-Saint-Jacques",
+                  "text": "Die Kirche Saint-Philippe-et-Saint-Jacques dient der Gemeinde in Poitiers als religiöser Treffpunkt. Sie ist ein typisches Beispiel für die lokale Kirchenarchitektur und bietet Raum für Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        0.36226,
+                        46.612507
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
+                  "text": "Die orthodoxe Kirche der Trinité-Saint-Hilaire in Poitiers ist ein Zentrum für den orthodoxen Glauben in der Region. Das Gebäude spiegelt die religiöse Vielfalt der Stadt wider.",
+                  "category": "religious",
+                  "coords": [
+                        0.323458,
+                        46.569599
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyprien",
+                  "text": "Die Kirche Saint-Cyprien ist ein fester Bestandteil des religiösen Lebens in Poitiers. Sie dient den Bewohnern des Viertels als Ort für Ruhe und spirituelle Zusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        0.343693,
+                        46.567714
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Annonciation",
+                  "text": "Die Kirche Notre-Dame de l'Annonciation ist ein wichtiges Gotteshaus für die katholische Gemeinde in Poitiers. Das Gebäude ist ein Ort der Andacht und der kirchlichen Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        0.35276,
+                        46.59678
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marc",
+                  "text": "Die Markuskirche (Saint-Marc) in Poitiers bietet der lokalen Bevölkerung einen Ort für Gottesdienste und Gemeinschaft. Ihre Architektur ist ein Zeugnis der modernen Kirchenentwicklung in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        0.305947,
+                        46.577301
+                  ]
+            },
+            {
+                  "name": "Église abbatiale Saint-André",
+                  "text": "Die Abteikirche Saint-André ist ein historisches Bauwerk in Poitiers, das einst Teil eines Klosters war. Heute dient sie der Gemeinde als Ort für Gebete und ist ein bedeutendes religiöses Erbe.",
+                  "category": "religious",
+                  "coords": [
+                        0.341321,
+                        46.549367
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse - Sainte-Jeanne-d'Arc",
+                  "text": "Diese Kirche ist den Heiligen Thérèse und Johanna von Orléans gewidmet und steht in Poitiers. Sie ist ein spiritueller Anlaufpunkt für die Gläubigen und ein Ort der kirchlichen Versammlung.",
+                  "category": "religious",
+                  "coords": [
+                        0.33174,
+                        46.591626
+                  ]
+            },
+            {
+                  "name": "Église de la Résurrection",
+                  "text": "Die Auferstehungskirche (Église de la Résurrection) in Poitiers ist ein moderner Ort des Glaubens. Sie dient der lokalen Gemeinde für Gottesdienste und feierliche Anlässe.",
+                  "category": "religious",
+                  "coords": [
+                        0.365949,
+                        46.587441
+                  ]
+            },
+            {
+                  "name": "La Providence",
+                  "text": "La Providence ist eine religiöse Einrichtung oder Kapelle in Poitiers, die dem Gebet und der Besinnung gewidmet ist. Sie ist Teil des vielfältigen sakralen Angebots der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        0.341573,
+                        46.584769
+                  ]
+            },
+            {
+                  "name": "Chapelle du Sacré-Coeur",
+                  "text": "Die Herz-Jesu-Kapelle (Chapelle du Sacré-Coeur) bietet einen intimen Rahmen für stille Gebete in Poitiers. Sie ist ein geschätzter Ort der Andacht innerhalb der katholischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        0.34841,
+                        46.585287
+                  ]
+            },
+            {
+                  "name": "Chapelle de La Grand'Maison",
+                  "text": "Die Chapelle de La Grand'Maison ist ein religiöses Gebäude in Poitiers mit einer besonderen Geschichte. Sie dient der Gemeinde als Ort der Einkehr und ist ein Teil des städtischen Erbes.",
+                  "category": "religious",
+                  "coords": [
+                        0.335371,
+                        46.579853
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Kirche Saint-Martin ist ein traditionsreiches Gotteshaus in Poitiers. Sie bietet einen Raum für Gottesdienste und ist ein wichtiger Bezugspunkt für die Gläubigen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        0.318207,
+                        46.566529
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Die Kirche Saint-Paul in Poitiers ist ein Ort der religiösen Versammlung für die lokale Bevölkerung. Das Bauwerk fügt sich in die sakrale Architekturlandschaft der Region ein.",
+                  "category": "religious",
+                  "coords": [
+                        0.360447,
+                        46.572413
+                  ]
             }
       ],
       "hu": [
@@ -23148,6 +30528,222 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.328095,
                         46.558689
+                  ]
+            },
+            {
+                  "name": "Musée Rupert de Chièvres",
+                  "text": "A Poitiers-ben található Musée Rupert-de-Chièvres egy pompás 19. századi udvarházban kapott helyet. Az intézmény jelentős műtárgy- és festménygyűjteményt őriz a középkortól a reneszánszig.",
+                  "category": "museum",
+                  "coords": [
+                        0.338418,
+                        46.58074
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame la Grande",
+                  "text": "A poitiers-i Notre-Dame la Grande templom világszerte híres gazdagon díszített román kori homlokzatáról. A középkori francia építészet egyik legjelentősebb remekműveként tartják számon.",
+                  "category": "religious",
+                  "coords": [
+                        0.344062,
+                        46.583228
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-l'Évangéliste",
+                  "text": "A poitiers-i Saint-Jean de Montierneuf templom eredetileg egy jelentős bencés apátság része volt. Az épület a román és gótikus stílusjegyek harmonikus ötvözetével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        0.345361,
+                        46.589263
+                  ]
+            },
+            {
+                  "name": "Vestiges des Thermes Publics Gallo-romains",
+                  "text": "A poitiers-i nyilvános gall-római termálfürdők maradványai betekintést nyújtanak az ókori várostervezésbe. A látogatók itt megtekinthetik az egykori fürdőkomplexum alapfalait és összetett szerkezetét.",
+                  "category": "historical",
+                  "coords": [
+                        0.344178,
+                        46.58822
+                  ]
+            },
+            {
+                  "name": "Abbaye Sainte-Croix",
+                  "text": "Az Abbaye Sainte-Croix romjai Poitiers egyik legrégebbi kolostoralapításának tanújelei. A fennmaradt struktúrák érzékeltetik az apátság egykori nagyságát és jelentőségét.",
+                  "category": "historical",
+                  "coords": [
+                        0.349797,
+                        46.57924
+                  ]
+            },
+            {
+                  "name": "Mairie de Saint-Benoît",
+                  "text": "Saint-Benoît városháza a Poitiers-től délre fekvő település adminisztratív központja. Az épület a polgárok központi ügyintézési helyszíne és a helyi önkormányzat jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        0.340138,
+                        46.549548
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville",
+                  "text": "Poitiers pompás városházája uralja a város központi terét. A 19. században épült ingatlan a korszak reprezentatív építészetének kiemelkedő példája.",
+                  "category": "historical",
+                  "coords": [
+                        0.352986,
+                        46.598232
+                  ]
+            },
+            {
+                  "name": "La Hune",
+                  "text": "A La Hune egy modern rendezvényközpont Poitiers közelében, amelyet koncertekre és színházi előadásokra használnak. Sokoldalú teret biztosít a régió kulturális élete számára.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343498,
+                        46.55855
+                  ]
+            },
+            {
+                  "name": "Ancienne Chapelle - Auditorium Saint-Germain",
+                  "text": "Az Auditorium Saint-Germain egy kulturális központ, amelyet egy egykori kápolnában alakítottak ki Poitiers-ben. Ma különleges helyszínként szolgál koncertek és művészeti előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343614,
+                        46.587011
+                  ]
+            },
+            {
+                  "name": "La Croix de Beaulieu",
+                  "text": "A La Croix de Beaulieu egy vallási műemlék Poitiers egyik városnegyedében. Az áhítat helyszíne, amely a helyi hitéletről tanúskodik.",
+                  "category": "religious",
+                  "coords": [
+                        0.382881,
+                        46.575242
+                  ]
+            },
+            {
+                  "name": "Église Saint-Savin (ancienne)",
+                  "text": "A poitiers-i egykori Saint-Savin-templom a város egyik történelmi szakrális épülete. Az épület ma a település gazdag vallási építészettörténetére emlékeztet.",
+                  "category": "religious",
+                  "coords": [
+                        0.347989,
+                        46.581495
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philippe-et-Saint-Jacques",
+                  "text": "A Saint-Philippe-et-Saint-Jacques-templom vallási találkozóhelyként szolgál a poitiers-i közösség számára. A helyi templomépítészet tipikus példája, amely helyszínt biztosít az istentiszteleteknek.",
+                  "category": "religious",
+                  "coords": [
+                        0.36226,
+                        46.612507
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
+                  "text": "A poitiers-i Trinité-Saint-Hilaire ortodox templom a régió ortodox hitéletének központja. Az épület a város vallási sokszínűségét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        0.323458,
+                        46.569599
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyprien",
+                  "text": "A Saint-Cyprien-templom a poitiers-i vallási élet szerves része. A környék lakói számára a nyugalom és a spirituális összejövetelek helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        0.343693,
+                        46.567714
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Annonciation",
+                  "text": "A Notre-Dame de l'Annonciation-templom fontos istentiszteleti hely a poitiers-i katolikus közösség számára. Az épület az áhítat és az egyházi hagyományok helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        0.35276,
+                        46.59678
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marc",
+                  "text": "A poitiers-i Márk-templom (Saint-Marc) az istentiszteletek és a közösségi élet helyszínét biztosítja a helyi lakosok számára. Építészete a város modern templomfejlődésének tanújele.",
+                  "category": "religious",
+                  "coords": [
+                        0.305947,
+                        46.577301
+                  ]
+            },
+            {
+                  "name": "Église abbatiale Saint-André",
+                  "text": "A Saint-André apátsági templom egy történelmi épület Poitiers-ben, amely egykor egy kolostor része volt. Ma a közösség imádságainak helyszíne és jelentős vallási örökség.",
+                  "category": "religious",
+                  "coords": [
+                        0.341321,
+                        46.549367
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse - Sainte-Jeanne-d'Arc",
+                  "text": "Ez a templom Szent Teréznek és Szent Johannának szentelt, és Poitiers-ben található. A hívők spirituális központja és az egyházi összejövetelek helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        0.33174,
+                        46.591626
+                  ]
+            },
+            {
+                  "name": "Église de la Résurrection",
+                  "text": "A Feltámadás-templom (Église de la Résurrection) egy modern hitéleti helyszín Poitiers-ben. Az épület az istentiszteletek és ünnepi alkalmak lebonyolítására szolgál a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        0.365949,
+                        46.587441
+                  ]
+            },
+            {
+                  "name": "La Providence",
+                  "text": "A La Providence egy vallási intézmény vagy kápolna Poitiers-ben, amelyet az imádságnak és az áhítatnak szenteltek. Része a város sokszínű szakrális kínálatának.",
+                  "category": "religious",
+                  "coords": [
+                        0.341573,
+                        46.584769
+                  ]
+            },
+            {
+                  "name": "Chapelle du Sacré-Coeur",
+                  "text": "A Szent Szív-kápolna (Chapelle du Sacré-Coeur) meghitt környezetet biztosít a csendes imádságokhoz Poitiers-ben. A katolikus közösség kedvelt áhítati helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        0.34841,
+                        46.585287
+                  ]
+            },
+            {
+                  "name": "Chapelle de La Grand'Maison",
+                  "text": "A Chapelle de La Grand'Maison egy különleges történetű vallási épület Poitiers-ben. Az áhítat helyszíneként szolgál a közösség számára, és a városi örökség része.",
+                  "category": "religious",
+                  "coords": [
+                        0.335371,
+                        46.579853
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A Saint-Martin-templom egy hagyományokban gazdag istentiszteleti hely Poitiers-ben. Helyszínt biztosít a szertartásoknak, és fontos viszonyítási pont a város hívői számára.",
+                  "category": "religious",
+                  "coords": [
+                        0.318207,
+                        46.566529
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "A poitiers-i Saint-Paul-templom a helyi lakosság vallási összejöveteleinek helyszíne. Az épület szervesen illeszkedik a régió szakrális építészeti tájképébe.",
+                  "category": "religious",
+                  "coords": [
+                        0.360447,
+                        46.572413
                   ]
             }
       ],
@@ -23462,6 +31058,222 @@ const citySeeds: CitySeed[] = [
                         0.328095,
                         46.558689
                   ]
+            },
+            {
+                  "name": "Musée Rupert de Chièvres",
+                  "text": "Muzeul Rupert-de-Chièvres din Poitiers este situat într-un conac magnific din secolul al XIX-lea. Acesta adăpostește o colecție importantă de obiecte de artă și picturi din Evul Mediu până în perioada Renașterii.",
+                  "category": "museum",
+                  "coords": [
+                        0.338418,
+                        46.58074
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame la Grande",
+                  "text": "Biserica Notre-Dame la Grande din Poitiers este renumită în întreaga lume pentru fațada sa romanică bogat decorată. Este considerată una dintre cele mai importante capodopere ale arhitecturii medievale din Franța.",
+                  "category": "religious",
+                  "coords": [
+                        0.344062,
+                        46.583228
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-l'Évangéliste",
+                  "text": "Biserica Saint-Jean de Montierneuf din Poitiers a făcut inițial parte dintr-o importantă abație benedictină. Edificiul impresionează prin îmbinarea armonioasă a elementelor de stil romanic și gotic.",
+                  "category": "religious",
+                  "coords": [
+                        0.345361,
+                        46.589263
+                  ]
+            },
+            {
+                  "name": "Vestiges des Thermes Publics Gallo-romains",
+                  "text": "Vestigiile termelor publice galo-romane din Poitiers oferă informații despre planificarea urbană antică. Vizitatorii pot vedea aici fundațiile și structura complexă a fostului complex balnear.",
+                  "category": "historical",
+                  "coords": [
+                        0.344178,
+                        46.58822
+                  ]
+            },
+            {
+                  "name": "Abbaye Sainte-Croix",
+                  "text": "Ruinele Abației Sainte-Croix stau mărturie pentru una dintre cele mai vechi fundații monahale din Poitiers. Structurile păstrate oferă o impresie despre mărimea și importanța de odinioară a abației.",
+                  "category": "historical",
+                  "coords": [
+                        0.349797,
+                        46.57924
+                  ]
+            },
+            {
+                  "name": "Mairie de Saint-Benoît",
+                  "text": "Primăria din Saint-Benoît este centrul administrativ al acestei comune situate la sud de Poitiers. Reprezintă un punct central de contact pentru cetățeni și sediul administrației locale.",
+                  "category": "historical",
+                  "coords": [
+                        0.340138,
+                        46.549548
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville",
+                  "text": "Primăria impunătoare din Poitiers domină piața centrală a orașului. Construită în secolul al XIX-lea, clădirea este un exemplu remarcabil de arhitectură reprezentativă a acelei epoci.",
+                  "category": "historical",
+                  "coords": [
+                        0.352986,
+                        46.598232
+                  ]
+            },
+            {
+                  "name": "La Hune",
+                  "text": "La Hune este o sală de evenimente modernă situată lângă Poitiers, utilizată pentru concerte și spectacole de teatru. Aceasta oferă un spațiu versatil pentru viața culturală a regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343498,
+                        46.55855
+                  ]
+            },
+            {
+                  "name": "Ancienne Chapelle - Auditorium Saint-Germain",
+                  "text": "Auditorium Saint-Germain este un centru cultural amenajat într-o fostă chapelă din Poitiers. Astăzi, servește ca loc special pentru concerte și spectacole artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343614,
+                        46.587011
+                  ]
+            },
+            {
+                  "name": "La Croix de Beaulieu",
+                  "text": "La Croix de Beaulieu este un monument religios situat într-unul dintre cartierele orașului Poitiers. Este un loc de reculegere și o mărturie a evlaviei locale.",
+                  "category": "religious",
+                  "coords": [
+                        0.382881,
+                        46.575242
+                  ]
+            },
+            {
+                  "name": "Église Saint-Savin (ancienne)",
+                  "text": "Fosta biserică Saint-Savin din Poitiers este o clădire istorică sacră a orașului. Astăzi, edificiul amintește de bogata istorie a arhitecturii religioase a localității.",
+                  "category": "religious",
+                  "coords": [
+                        0.347989,
+                        46.581495
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philippe-et-Saint-Jacques",
+                  "text": "Biserica Saint-Philippe-et-Saint-Jacques servește comunității din Poitiers ca loc de întâlnire religioasă. Este un exemplu tipic de arhitectură bisericească locală și oferă spațiu pentru slujbe.",
+                  "category": "religious",
+                  "coords": [
+                        0.36226,
+                        46.612507
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
+                  "text": "Biserica ortodoxă Trinité-Saint-Hilaire din Poitiers este un centru pentru credința ortodoxă din regiune. Clădirea reflectă diversitatea religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        0.323458,
+                        46.569599
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyprien",
+                  "text": "Biserica Saint-Cyprien este o parte integrantă a vieții religioase din Poitiers. Aceasta servește locuitorilor din cartier ca loc de liniște și pentru adunări spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        0.343693,
+                        46.567714
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Annonciation",
+                  "text": "Biserica Notre-Dame de l'Annonciation este un lăcaș de cult important pentru comunitatea catolică din Poitiers. Clădirea este un loc de devoțiune și de tradiție ecleziastică.",
+                  "category": "religious",
+                  "coords": [
+                        0.35276,
+                        46.59678
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marc",
+                  "text": "Biserica Sfântul Marcu (Saint-Marc) din Poitiers oferă populației locale un loc pentru slujbe și comunitate. Arhitectura sa este o mărturie a dezvoltării moderne a bisericilor din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        0.305947,
+                        46.577301
+                  ]
+            },
+            {
+                  "name": "Église abbatiale Saint-André",
+                  "text": "Biserica abațială Saint-André este un edificiu istoric din Poitiers care a făcut odinioară parte dintr-o mănăstire. Astăzi, servește comunității ca loc de rugăciune și este o moștenire religioasă importantă.",
+                  "category": "religious",
+                  "coords": [
+                        0.341321,
+                        46.549367
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse - Sainte-Jeanne-d'Arc",
+                  "text": "Această biserică este dedicată Sfintelor Tereza și Ioana d'Arc și se află în Poitiers. Este un punct de contact spiritual pentru credincioși și un loc de adunare bisericească.",
+                  "category": "religious",
+                  "coords": [
+                        0.33174,
+                        46.591626
+                  ]
+            },
+            {
+                  "name": "Église de la Résurrection",
+                  "text": "Biserica Învierii (Église de la Résurrection) din Poitiers este un loc de credință modern. Servește comunității locale pentru slujbe și ocazii ceremoniale.",
+                  "category": "religious",
+                  "coords": [
+                        0.365949,
+                        46.587441
+                  ]
+            },
+            {
+                  "name": "La Providence",
+                  "text": "La Providence este o instituție religioasă sau capelă din Poitiers, dedicată rugăciunii și reculegerii. Face parte din oferta diversă de edificii sacre a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        0.341573,
+                        46.584769
+                  ]
+            },
+            {
+                  "name": "Chapelle du Sacré-Coeur",
+                  "text": "Capela Sacré-Coeur oferă un cadru intim pentru rugăciuni silențioase în Poitiers. Este un loc de devoțiune apreciat în cadrul comunității catolice.",
+                  "category": "religious",
+                  "coords": [
+                        0.34841,
+                        46.585287
+                  ]
+            },
+            {
+                  "name": "Chapelle de La Grand'Maison",
+                  "text": "Capela La Grand'Maison este o clădire religioasă din Poitiers cu o istorie aparte. Servește comunității ca loc de reculegere și face parte din moștenirea urbană.",
+                  "category": "religious",
+                  "coords": [
+                        0.335371,
+                        46.579853
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Biserica Saint-Martin este un lăcaș de cult cu o lungă tradiție în Poitiers. Aceasta oferă un spațiu pentru slujbe și este un punct de referință important pentru credincioșii din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        0.318207,
+                        46.566529
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Biserica Saint-Paul din Poitiers este un loc de adunare religioasă pentru populația locală. Edificiul se integrează în peisajul arhitectural sacru al regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        0.360447,
+                        46.572413
+                  ]
             }
       ],
       "en": [
@@ -23774,6 +31586,222 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.328095,
                         46.558689
+                  ]
+            },
+            {
+                  "name": "Musée Rupert de Chièvres",
+                  "text": "The Musée Rupert-de-Chièvres in Poitiers is located in a magnificent 19th-century mansion. It houses a significant collection of art objects and paintings ranging from the Middle Ages to the Renaissance.",
+                  "category": "museum",
+                  "coords": [
+                        0.338418,
+                        46.58074
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame la Grande",
+                  "text": "The Church of Notre-Dame la Grande in Poitiers is world-famous for its richly decorated Romanesque facade. It is considered one of the most significant masterpieces of medieval architecture in France.",
+                  "category": "religious",
+                  "coords": [
+                        0.344062,
+                        46.583228
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-l'Évangéliste",
+                  "text": "The Church of Saint-Jean de Montierneuf in Poitiers was originally part of a significant Benedictine abbey. The building impresses with its harmonious combination of Romanesque and Gothic architectural elements.",
+                  "category": "religious",
+                  "coords": [
+                        0.345361,
+                        46.589263
+                  ]
+            },
+            {
+                  "name": "Vestiges des Thermes Publics Gallo-romains",
+                  "text": "The remains of the public Gallo-Roman baths in Poitiers provide insight into ancient urban planning. Visitors can see the foundations and the complex structure of the former bathing complex.",
+                  "category": "historical",
+                  "coords": [
+                        0.344178,
+                        46.58822
+                  ]
+            },
+            {
+                  "name": "Abbaye Sainte-Croix",
+                  "text": "The ruins of the Abbaye Sainte-Croix bear witness to one of the oldest monastic foundations in Poitiers. The preserved structures give an impression of the former size and significance of the abbey.",
+                  "category": "historical",
+                  "coords": [
+                        0.349797,
+                        46.57924
+                  ]
+            },
+            {
+                  "name": "Mairie de Saint-Benoît",
+                  "text": "The town hall of Saint-Benoît is the administrative center for this commune located south of Poitiers. It is a central point for citizens and represents the local administration.",
+                  "category": "historical",
+                  "coords": [
+                        0.340138,
+                        46.549548
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville",
+                  "text": "The grand town hall of Poitiers dominates the city's central square. Built in the 19th century, the building is an outstanding example of the representative architecture of that period.",
+                  "category": "historical",
+                  "coords": [
+                        0.352986,
+                        46.598232
+                  ]
+            },
+            {
+                  "name": "La Hune",
+                  "text": "La Hune is a modern event hall near Poitiers used for concerts and theatrical performances. It provides a versatile space for the cultural life of the region.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343498,
+                        46.55855
+                  ]
+            },
+            {
+                  "name": "Ancienne Chapelle - Auditorium Saint-Germain",
+                  "text": "The Auditorium Saint-Germain is a cultural center housed in a former chapel in Poitiers. It now serves as a unique venue for concerts and artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        0.343614,
+                        46.587011
+                  ]
+            },
+            {
+                  "name": "La Croix de Beaulieu",
+                  "text": "The Cross of Beaulieu (La Croix de Beaulieu) is a religious monument in one of the districts of Poitiers. It is a place of reflection and bears witness to local devotion.",
+                  "category": "religious",
+                  "coords": [
+                        0.382881,
+                        46.575242
+                  ]
+            },
+            {
+                  "name": "Église Saint-Savin (ancienne)",
+                  "text": "The former Church of Saint-Savin in Poitiers is a historic sacred building in the city. Today, the structure commemorates the rich religious architectural history of the location.",
+                  "category": "religious",
+                  "coords": [
+                        0.347989,
+                        46.581495
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philippe-et-Saint-Jacques",
+                  "text": "The Church of Saint-Philippe-et-Saint-Jacques serves the community in Poitiers as a religious meeting place. It is a typical example of local church architecture and provides space for services.",
+                  "category": "religious",
+                  "coords": [
+                        0.36226,
+                        46.612507
+                  ]
+            },
+            {
+                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
+                  "text": "The Orthodox Church of the Trinity and Saint Hilary in Poitiers is a center for the Orthodox faith in the region. The building reflects the religious diversity of the city.",
+                  "category": "religious",
+                  "coords": [
+                        0.323458,
+                        46.569599
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyprien",
+                  "text": "The Church of Saint-Cyprien is an integral part of religious life in Poitiers. It serves the residents of the neighborhood as a place for peace and spiritual gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        0.343693,
+                        46.567714
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Annonciation",
+                  "text": "The Church of Notre-Dame de l'Annonciation is an important place of worship for the Catholic community in Poitiers. The building is a site of devotion and ecclesiastical tradition.",
+                  "category": "religious",
+                  "coords": [
+                        0.35276,
+                        46.59678
+                  ]
+            },
+            {
+                  "name": "Église Saint-Marc",
+                  "text": "The Church of Saint Mark (Saint-Marc) in Poitiers provides the local population with a place for worship and community. Its architecture is a testament to modern church development in the city.",
+                  "category": "religious",
+                  "coords": [
+                        0.305947,
+                        46.577301
+                  ]
+            },
+            {
+                  "name": "Église abbatiale Saint-André",
+                  "text": "The Abbey Church of Saint Andrew is a historic building in Poitiers that was once part of a monastery. Today, it serves the community as a place for prayer and is a significant religious heritage.",
+                  "category": "religious",
+                  "coords": [
+                        0.341321,
+                        46.549367
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse - Sainte-Jeanne-d'Arc",
+                  "text": "This church is dedicated to Saint Thérèse and Saint Joan of Arc and is located in Poitiers. It is a spiritual point of contact for the faithful and a place for church assembly.",
+                  "category": "religious",
+                  "coords": [
+                        0.33174,
+                        46.591626
+                  ]
+            },
+            {
+                  "name": "Église de la Résurrection",
+                  "text": "The Church of the Resurrection in Poitiers is a modern place of faith. It serves the local community for services and ceremonial occasions.",
+                  "category": "religious",
+                  "coords": [
+                        0.365949,
+                        46.587441
+                  ]
+            },
+            {
+                  "name": "La Providence",
+                  "text": "La Providence is a religious institution or chapel in Poitiers dedicated to prayer and reflection. It is part of the city's diverse sacred landscape.",
+                  "category": "religious",
+                  "coords": [
+                        0.341573,
+                        46.584769
+                  ]
+            },
+            {
+                  "name": "Chapelle du Sacré-Coeur",
+                  "text": "The Chapel of the Sacred Heart (Chapelle du Sacré-Coeur) offers an intimate setting for quiet prayer in Poitiers. It is a valued place of devotion within the Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        0.34841,
+                        46.585287
+                  ]
+            },
+            {
+                  "name": "Chapelle de La Grand'Maison",
+                  "text": "The Chapel of La Grand'Maison is a religious building in Poitiers with a unique history. It serves the community as a place for reflection and is part of the urban heritage.",
+                  "category": "religious",
+                  "coords": [
+                        0.335371,
+                        46.579853
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "The Church of Saint-Martin is a traditional place of worship in Poitiers. It provides a space for services and is an important reference point for the city's faithful.",
+                  "category": "religious",
+                  "coords": [
+                        0.318207,
+                        46.566529
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "The Church of Saint-Paul in Poitiers is a place of religious gathering for the local population. The building fits into the sacred architectural landscape of the region.",
+                  "category": "religious",
+                  "coords": [
+                        0.360447,
+                        46.572413
                   ]
             }
       ],
@@ -25582,6 +33610,231 @@ const citySeeds: CitySeed[] = [
                         -4.098135,
                         47.977265
                   ]
+            },
+            {
+                  "name": "Théâtre Max Jacob",
+                  "text": "Das Théâtre Max-Jacob in Quimper ist nach dem berühmten, in der Stadt geborenen Dichter benannt. Das historische Gebäude bietet einen prachtvollen Rahmen für vielfältige kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.097734,
+                        47.994732
+                  ]
+            },
+            {
+                  "name": "Chapelle de Ty Mamm Doué",
+                  "text": "Die Kapelle Ty Mamm Doué in Quimper ist ein bedeutendes Beispiel für die bretonische Sakralarchitektur des 16. Jahrhunderts. Sie ist bekannt für ihre reiche Innenausstattung und dient als lokaler Wallfahrtsort.",
+                  "category": "religious",
+                  "coords": [
+                        -4.098099,
+                        48.020544
+                  ]
+            },
+            {
+                  "name": "Manoir de Coatbily",
+                  "text": "Das Manoir de Coatbily ist ein historisches Herrenhaus in der Umgebung von Quimper. Es repräsentiert die traditionelle Architektur der Bretagne und zeugt vom ländlichen Adelserbe der Region.",
+                  "category": "castle",
+                  "coords": [
+                        -4.08395,
+                        48.025886
+                  ]
+            },
+            {
+                  "name": "Manoir de Keramaner",
+                  "text": "Das Manoir de Keramaner ist ein prächtiges Beispiel für den bretonischen Landadelssitz in der Nähe von Quimper. Das Bauwerk spiegelt die reiche Geschichte und die architektonischen Traditionen des Finistère wider.",
+                  "category": "castle",
+                  "coords": [
+                        -4.095045,
+                        48.023913
+                  ]
+            },
+            {
+                  "name": "Ancien Grand séminaire et sa chapelle",
+                  "text": "Das ehemalige Priesterseminar und seine Kapelle bilden einen markanten Monumentalkomplex in Quimper. Die Gebäude sind Zeugen der religiösen Bildungsgeschichte und prägen das Stadtbild durch ihre Größe.",
+                  "category": "historical",
+                  "coords": [
+                        -4.095803,
+                        47.996755
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Laurent",
+                  "text": "Die Kapelle Saint-Laurent in Quimper ist ein bescheidenes sakrales Bauwerk von historischem Wert. Sie dient der lokalen Gemeinschaft als Ort der Andacht und Ruhe.",
+                  "category": "religious",
+                  "coords": [
+                        -4.091681,
+                        47.986854
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Die Kirche Sainte-Thérèse ist ein modernes religiöses Bauwerk in der Stadt Quimper. Sie bietet der Gemeinde einen zeitgemäßen Raum für Gottesdienste und gemeinschaftliche Aktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        -4.091931,
+                        47.992984
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre et Saint-Paul",
+                  "text": "Die Kirche Saint-Pierre et Saint-Paul ist ein zentrales Gotteshaus für die Gläubigen in Quimper. Die Architektur des Gebäudes ist ein wichtiger Teil des sakralen Erbes der Region.",
+                  "category": "religious",
+                  "coords": [
+                        -4.117437,
+                        48.004062
+                  ]
+            },
+            {
+                  "name": "Église Saint-Alor",
+                  "text": "Die Kirche Saint-Alor ist ein traditionsreiches religiöses Bauwerk in Quimper. Sie dient als Ort der Besinnung und ist eng mit der lokalen Geschichte der Pfarrei verbunden.",
+                  "category": "religious",
+                  "coords": [
+                        -4.069953,
+                        47.983484
+                  ]
+            },
+            {
+                  "name": "Église de la Trinité",
+                  "text": "Die Dreifaltigkeitskirche (Église de la Trinité) in Quimper bietet einen Raum für Gebete und kirchliche Zeremonien. Ihre Architektur trägt zur Vielfalt der sakralen Bauten in der Stadt bei.",
+                  "category": "religious",
+                  "coords": [
+                        -4.096311,
+                        48.003769
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Pierre",
+                  "text": "Diese Kapelle ist eine Gebetsstätte in Quimper. Sie bietet einen ruhigen Ort der Besinnung und ist von historischem Interesse für die Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -4.074341,
+                        48.004108
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Claire",
+                  "text": "Diese Kirche ist eine lokale Gebetsstätte in der Stadt Quimper. Sie dient als spiritueller Anlaufpunkt für Bewohner und Besucher gleichermaßen.",
+                  "category": "religious",
+                  "coords": [
+                        -4.130377,
+                        47.988999
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Conogan",
+                  "text": "Diese in Quimper gelegene Kapelle ist dem Heiligen Conogan gewidmet und dient als Gebetsstätte. Die Stätte spiegelt das religiöse Erbe dieser bretonischen Stadt wider.",
+                  "category": "religious",
+                  "coords": [
+                        -4.123359,
+                        48.010311
+                  ]
+            },
+            {
+                  "name": "Manoir du Cleuyou",
+                  "text": "Das Manoir du Cleuyou ist ein historisches, schlossähnliches Herrenhaus in Quimper. Es ist ein Beispiel für das lokale architektonische Erbe in der Region Bretagne.",
+                  "category": "castle",
+                  "coords": [
+                        -4.06344,
+                        47.99444
+                  ]
+            },
+            {
+                  "name": "Manoir du Loc'h",
+                  "text": "Dieses Schloss ist ein architektonisches Denkmal in der Stadt Quimper. Es repräsentiert die historische Bedeutung von Herrenhäusern in der Umgebung.",
+                  "category": "castle",
+                  "coords": [
+                        -4.08559,
+                        48.013273
+                  ]
+            },
+            {
+                  "name": "Château de Keraval",
+                  "text": "Das Château de Keraval ist eine bemerkenswerte Schlossanlage in Quimper. Besucher können die traditionelle Bauweise und den Platz in der bretonischen Geschichte würdigen.",
+                  "category": "castle",
+                  "coords": [
+                        -4.120909,
+                        47.964236
+                  ]
+            },
+            {
+                  "name": "Vieux Manoir du Quinquis",
+                  "text": "Dieses alte Herrenhaus ist ein Gebäude im Schlossstil in der Gemeinde Quimper. Es ist ein Zeugnis der regionalen Geschichte und der klassischen Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        -4.055625,
+                        47.974604
+                  ]
+            },
+            {
+                  "name": "Manoir de Poulguinan",
+                  "text": "Das Manoir de Poulguinan ist ein Schloss in Quimper, das zum historischen Stadtbild beiträgt. Es zeigt den charakteristischen Herrenhausstil der Region.",
+                  "category": "castle",
+                  "coords": [
+                        -4.11354,
+                        47.983492
+                  ]
+            },
+            {
+                  "name": "Manoir des Salles",
+                  "text": "Dieses Herrenhaus in Quimper ist als Schloss eingestuft und weist lokale architektonische Elemente auf. Es ist Teil der vielfältigen historischen Stätten der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        -4.113346,
+                        48.003524
+                  ]
+            },
+            {
+                  "name": "Manoir du Parc",
+                  "text": "Das Manoir du Parc ist ein Schlossgebäude in Quimper. Es ist ein interessanter Ort für alle, die das architektonische Erbe der Bretagne erkunden.",
+                  "category": "castle",
+                  "coords": [
+                        -4.106414,
+                        48.002011
+                  ]
+            },
+            {
+                  "name": "Manoir de Créac'h Al Lan",
+                  "text": "Dieses Schloss ist ein historisches Herrenhaus in der Stadt Quimper. Es ergänzt die reiche Sammlung mittelalterlicher und nachmittelalterlicher Anwesen in der Gegend.",
+                  "category": "castle",
+                  "coords": [
+                        -4.098505,
+                        48.000709
+                  ]
+            },
+            {
+                  "name": "Manoir de Stang-Bihan",
+                  "text": "Das in Quimper gelegene Manoir de Stang-Bihan ist ein Schloss, das die Geschichte des lokalen Adels repräsentiert. Seine Struktur ist charakteristisch für die Herrenhäuser in der Bretagne.",
+                  "category": "castle",
+                  "coords": [
+                        -4.108029,
+                        48.007565
+                  ]
+            },
+            {
+                  "name": "Atelier le chien rouge",
+                  "text": "Das Atelier le chien rouge ist eine Kunstgalerie in der Stadt Quimper. Es bietet Raum für die Betrachtung verschiedener künstlerischer Werke und kultureller Ausdrucksformen.",
+                  "category": "museum",
+                  "coords": [
+                        -4.100937,
+                        47.99586
+                  ]
+            },
+            {
+                  "name": "Dolmen de Stang Youenn",
+                  "text": "Der Dolmen de Stang Youenn ist eine prähistorische archäologische Stätte in Quimper. Diese megalithische Struktur bietet einen Einblick in die antike Geschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -4.05544,
+                        47.979456
+                  ]
+            },
+            {
+                  "name": "Manoir de Missirien",
+                  "text": "Dieses Herrenhaus ist ein bedeutender historischer Wohnsitz in Quimper. Es spiegelt den lokalen Baustil und das häusliche Leben der Vergangenheit wider.",
+                  "category": "historical",
+                  "coords": [
+                        -4.095929,
+                        48.006543
+                  ]
             }
       ],
       "hu": [
@@ -25751,6 +34004,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.098135,
                         47.977265
+                  ]
+            },
+            {
+                  "name": "Théâtre Max Jacob",
+                  "text": "A Quimperben található Max-Jacob Színház a város híres szülöttéről, a költő Max Jacobról kapta a nevét. A történelmi épület pompás környezetet biztosít a változatos kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.097734,
+                        47.994732
+                  ]
+            },
+            {
+                  "name": "Chapelle de Ty Mamm Doué",
+                  "text": "A quimperi Ty Mamm Doué kápolna a 16. századi breton szakrális építészet egyik jelentős példája. Gazdag belső díszítéséről ismert, és helyi zarándokhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -4.098099,
+                        48.020544
+                  ]
+            },
+            {
+                  "name": "Manoir de Coatbily",
+                  "text": "A Manoir de Coatbily egy történelmi udvarház Quimper környékén. A hagyományos breton építészetet képviseli, és a régió vidéki nemesi örökségéről tanúskodik.",
+                  "category": "castle",
+                  "coords": [
+                        -4.08395,
+                        48.025886
+                  ]
+            },
+            {
+                  "name": "Manoir de Keramaner",
+                  "text": "A Manoir de Keramaner a Quimper melletti breton nemesi kúriák egyik pompás példája. Az épület tükrözi Finistère gazdag történelmét és építészeti hagyományait.",
+                  "category": "castle",
+                  "coords": [
+                        -4.095045,
+                        48.023913
+                  ]
+            },
+            {
+                  "name": "Ancien Grand séminaire et sa chapelle",
+                  "text": "Az egykori papi szeminárium és kápolnája Quimper egyik meghatározó műemléki együttese. Az épületek a vallási oktatástörténet tanúi, és méretükkel meghatározzák a városképet.",
+                  "category": "historical",
+                  "coords": [
+                        -4.095803,
+                        47.996755
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Laurent",
+                  "text": "A quimperi Saint-Laurent-kápolna egy történelmi értékkel bíró, szerény szakrális épület. A helyi közösség számára az áhítat és a nyugalom helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -4.091681,
+                        47.986854
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "A Sainte-Thérèse-templom egy modern vallási épület Quimper városában. Korszerű teret biztosít a közösség számára az istentiszteletekhez és közösségi tevékenységekhez.",
+                  "category": "religious",
+                  "coords": [
+                        -4.091931,
+                        47.992984
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre et Saint-Paul",
+                  "text": "A Saint-Pierre et Saint-Paul-templom a quimperi hívők egyik központi istentiszteleti helye. Az épület építészete a régió szakrális örökségének fontos része.",
+                  "category": "religious",
+                  "coords": [
+                        -4.117437,
+                        48.004062
+                  ]
+            },
+            {
+                  "name": "Église Saint-Alor",
+                  "text": "A Saint-Alor-templom egy hagyományokban gazdag vallási épület Quimperben. Az áhítat helyszíne, amely szorosan kötődik a plébánia helyi történelméhez.",
+                  "category": "religious",
+                  "coords": [
+                        -4.069953,
+                        47.983484
+                  ]
+            },
+            {
+                  "name": "Église de la Trinité",
+                  "text": "A quimperi Szentháromság-templom (Église de la Trinité) helyszínt biztosít az imádságoknak és egyházi szertartásoknak. Építészete hozzájárul a város szakrális épületeinek sokszínűségéhez.",
+                  "category": "religious",
+                  "coords": [
+                        -4.096311,
+                        48.003769
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Pierre",
+                  "text": "Ez a kápolna egy vallási helyszín Quimper városában. Csendes helyet kínál az elmélyülésre és történelmi jelentőséggel bír.",
+                  "category": "religious",
+                  "coords": [
+                        -4.074341,
+                        48.004108
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Claire",
+                  "text": "Ez a templom egy helyi vallási helyszín Quimper városában. Lelki támaszt nyújt a lakosok és a látogatók számára egyaránt.",
+                  "category": "religious",
+                  "coords": [
+                        -4.130377,
+                        47.988999
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Conogan",
+                  "text": "Ez a Quimperben található kápolna Szent Conogannak van szentelve és vallási helyszínként működik. A helyszín tükrözi a breton város vallási örökségét.",
+                  "category": "religious",
+                  "coords": [
+                        -4.123359,
+                        48.010311
+                  ]
+            },
+            {
+                  "name": "Manoir du Cleuyou",
+                  "text": "A Manoir du Cleuyou egy történelmi, kastélyszerű udvarház Quimperben. A Bretagne régió helyi építészeti örökségének egyik példája.",
+                  "category": "castle",
+                  "coords": [
+                        -4.06344,
+                        47.99444
+                  ]
+            },
+            {
+                  "name": "Manoir du Loc'h",
+                  "text": "Ez a kastély egy építészeti látnivaló Quimper városában. A környékbeli udvarházak történelmi jelentőségét képviseli.",
+                  "category": "castle",
+                  "coords": [
+                        -4.08559,
+                        48.013273
+                  ]
+            },
+            {
+                  "name": "Château de Keraval",
+                  "text": "A Château de Keraval egy figyelemre méltó kastélyépület Quimperben. A látogatók megcsodálhatják hagyományos kialakítását és helyét a breton történelemben.",
+                  "category": "castle",
+                  "coords": [
+                        -4.120909,
+                        47.964236
+                  ]
+            },
+            {
+                  "name": "Vieux Manoir du Quinquis",
+                  "text": "Ez a régi udvarház egy kastélystílusú épület Quimper városában. A regionális történelem és a klasszikus építészet bizonyítékaként áll.",
+                  "category": "castle",
+                  "coords": [
+                        -4.055625,
+                        47.974604
+                  ]
+            },
+            {
+                  "name": "Manoir de Poulguinan",
+                  "text": "A Manoir de Poulguinan egy kastély Quimperben, amely hozzájárul a város történelmi tájképéhez. A régió jellegzetes udvarházi stílusát mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        -4.11354,
+                        47.983492
+                  ]
+            },
+            {
+                  "name": "Manoir des Salles",
+                  "text": "Ez a Quimperben található udvarház kastélyként van besorolva, és helyi építészeti elemeket mutat be. A város változatos történelmi helyszíneinek része.",
+                  "category": "castle",
+                  "coords": [
+                        -4.113346,
+                        48.003524
+                  ]
+            },
+            {
+                  "name": "Manoir du Parc",
+                  "text": "A Manoir du Parc egy kastélyépület Quimperben. Érdekes helyszín marad azok számára, akik Bretagne építészeti örökségét fedezik fel.",
+                  "category": "castle",
+                  "coords": [
+                        -4.106414,
+                        48.002011
+                  ]
+            },
+            {
+                  "name": "Manoir de Créac'h Al Lan",
+                  "text": "Ez a kastély egy történelmi udvarház Quimper városában. Gyarapítja a környék középkori és középkor utáni birtokainak gazdag gyűjteményét.",
+                  "category": "castle",
+                  "coords": [
+                        -4.098505,
+                        48.000709
+                  ]
+            },
+            {
+                  "name": "Manoir de Stang-Bihan",
+                  "text": "A Quimperben található Manoir de Stang-Bihan egy kastély, amely a helyi nemesség történelmét képviseli. Szerkezete jellemző a Bretagne-ban található udvarházakra.",
+                  "category": "castle",
+                  "coords": [
+                        -4.108029,
+                        48.007565
+                  ]
+            },
+            {
+                  "name": "Atelier le chien rouge",
+                  "text": "Az Atelier le chien rouge egy művészeti galéria Quimper városában. Teret biztosít különféle művészeti alkotások és kulturális kifejezésmódok megtekintéséhez.",
+                  "category": "museum",
+                  "coords": [
+                        -4.100937,
+                        47.99586
+                  ]
+            },
+            {
+                  "name": "Dolmen de Stang Youenn",
+                  "text": "A Dolmen de Stang Youenn egy őskori régészeti lelőhely Quimperben. Ez a megalitikus építmény betekintést nyújt a régió ősi történelmébe.",
+                  "category": "historical",
+                  "coords": [
+                        -4.05544,
+                        47.979456
+                  ]
+            },
+            {
+                  "name": "Manoir de Missirien",
+                  "text": "Ez az udvarház egy jelentős történelmi lakóépület Quimperben. Tükrözi a helyi építészeti stílust és a múltbeli mindennapi életet.",
+                  "category": "historical",
+                  "coords": [
+                        -4.095929,
+                        48.006543
                   ]
             }
       ],
@@ -25922,6 +34400,231 @@ const citySeeds: CitySeed[] = [
                         -4.098135,
                         47.977265
                   ]
+            },
+            {
+                  "name": "Théâtre Max Jacob",
+                  "text": "Teatrul Max-Jacob din Quimper poartă numele celebrului poet născut în acest oraș. Clădirea istorică oferă un cadru magnific pentru diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.097734,
+                        47.994732
+                  ]
+            },
+            {
+                  "name": "Chapelle de Ty Mamm Doué",
+                  "text": "Capela Ty Mamm Doué din Quimper este un exemplu important de arhitectură sacră bretonă din secolul al XVI-lea. Este cunoscută pentru interiorul său bogat decorat și servește ca loc de pelerinaj local.",
+                  "category": "religious",
+                  "coords": [
+                        -4.098099,
+                        48.020544
+                  ]
+            },
+            {
+                  "name": "Manoir de Coatbily",
+                  "text": "Conacul Coatbily (Manoir de Coatbily) este o reședință istorică situată în împrejurimile orașului Quimper. Acesta reprezintă arhitectura tradițională a Bretaniei și stă mărturie pentru moștenirea nobiliară rurală a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        -4.08395,
+                        48.025886
+                  ]
+            },
+            {
+                  "name": "Manoir de Keramaner",
+                  "text": "Conacul Keramaner (Manoir de Keramaner) este un exemplu magnific de reședință nobiliară bretonă de lângă Quimper. Edificiul reflectă istoria bogată și tradițiile arhitecturale din Finistère.",
+                  "category": "castle",
+                  "coords": [
+                        -4.095045,
+                        48.023913
+                  ]
+            },
+            {
+                  "name": "Ancien Grand séminaire et sa chapelle",
+                  "text": "Fostul seminar teologic și capela sa formează un complex monumental marcant în Quimper. Clădirile sunt martore ale istoriei educației religioase și marchează peisajul urban prin dimensiunile lor.",
+                  "category": "historical",
+                  "coords": [
+                        -4.095803,
+                        47.996755
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Laurent",
+                  "text": "Capela Saint-Laurent din Quimper este un edificiu sacru modest, cu valoare istorică. Aceasta servește comunității locale ca loc de devoțiune și liniște.",
+                  "category": "religious",
+                  "coords": [
+                        -4.091681,
+                        47.986854
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Biserica Sainte-Thérèse este un edificiu religios modern din orașul Quimper. Aceasta oferă comunității un spațiu contemporan pentru slujbe și activități comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        -4.091931,
+                        47.992984
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre et Saint-Paul",
+                  "text": "Biserica Sfinții Petru și Pavel (Saint-Pierre et Saint-Paul) este un lăcaș de cult central pentru credincioșii din Quimper. Arhitectura clădirii este o parte importantă a moștenirii sacre a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        -4.117437,
+                        48.004062
+                  ]
+            },
+            {
+                  "name": "Église Saint-Alor",
+                  "text": "Biserica Saint-Alor este un edificiu religios cu o lungă tradiție în Quimper. Aceasta servește ca loc de reculegere și este strâns legată de istoria locală a parohiei.",
+                  "category": "religious",
+                  "coords": [
+                        -4.069953,
+                        47.983484
+                  ]
+            },
+            {
+                  "name": "Église de la Trinité",
+                  "text": "Biserica Treimii (Église de la Trinité) din Quimper oferă un spațiu pentru rugăciune și ceremonii religioase. Arhitectura sa contribuie la diversitatea edificiilor sacre din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        -4.096311,
+                        48.003769
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Pierre",
+                  "text": "Această capelă este un lăcaș de cult situat în Quimper. Oferă un spațiu liniștit pentru reflecție și interes istoric în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        -4.074341,
+                        48.004108
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Claire",
+                  "text": "Această biserică este un lăcaș de cult local situat în orașul Quimper. Servește ca un punct de reper spiritual atât pentru rezidenți, cât și pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        -4.130377,
+                        47.988999
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Conogan",
+                  "text": "Situată în Quimper, această capelă este dedicată Sfântului Conogan și funcționează ca lăcaș de cult. Situl reflectă moștenirea religioasă a acestui oraș breton.",
+                  "category": "religious",
+                  "coords": [
+                        -4.123359,
+                        48.010311
+                  ]
+            },
+            {
+                  "name": "Manoir du Cleuyou",
+                  "text": "Manoir du Cleuyou este un conac istoric asemănător unui castel, situat în Quimper. Este un exemplu al moștenirii arhitecturale locale din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        -4.06344,
+                        47.99444
+                  ]
+            },
+            {
+                  "name": "Manoir du Loc'h",
+                  "text": "Acest castel este un punct de reper arhitectural situat în orașul Quimper. Reprezintă importanța istorică a conacelor din zona înconjurătoare.",
+                  "category": "castle",
+                  "coords": [
+                        -4.08559,
+                        48.013273
+                  ]
+            },
+            {
+                  "name": "Château de Keraval",
+                  "text": "Château de Keraval este o structură de castel notabilă găsită în Quimper. Vizitatorii pot aprecia designul său tradițional și locul său în istoria bretonă.",
+                  "category": "castle",
+                  "coords": [
+                        -4.120909,
+                        47.964236
+                  ]
+            },
+            {
+                  "name": "Vieux Manoir du Quinquis",
+                  "text": "Acest conac vechi este o clădire în stil castel situată în orașul Quimper. Este o mărturie a istoriei regionale și a arhitecturii clasice.",
+                  "category": "castle",
+                  "coords": [
+                        -4.055625,
+                        47.974604
+                  ]
+            },
+            {
+                  "name": "Manoir de Poulguinan",
+                  "text": "Manoir de Poulguinan este un castel situat în Quimper, contribuind la peisajul istoric al orașului. Acesta prezintă stilul distinctiv al conacelor din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        -4.11354,
+                        47.983492
+                  ]
+            },
+            {
+                  "name": "Manoir des Salles",
+                  "text": "Situat în Quimper, acest conac este categorisit ca un castel și prezintă elemente arhitecturale locale. Face parte din siturile istorice ale orașului.",
+                  "category": "castle",
+                  "coords": [
+                        -4.113346,
+                        48.003524
+                  ]
+            },
+            {
+                  "name": "Manoir du Parc",
+                  "text": "Manoir du Parc este o clădire de castel situată în Quimper. Rămâne un sit interesant pentru cei care explorează moștenirea arhitecturală a Bretaniei.",
+                  "category": "castle",
+                  "coords": [
+                        -4.106414,
+                        48.002011
+                  ]
+            },
+            {
+                  "name": "Manoir de Créac'h Al Lan",
+                  "text": "Acest castel este un conac istoric situat în orașul Quimper. Se adaugă la bogata colecție de domenii medievale și post-medievale din zonă.",
+                  "category": "castle",
+                  "coords": [
+                        -4.098505,
+                        48.000709
+                  ]
+            },
+            {
+                  "name": "Manoir de Stang-Bihan",
+                  "text": "Situat în Quimper, Manoir de Stang-Bihan este un castel care reprezintă istoria nobilimii locale. Structura sa este caracteristică conacelor găsite în Bretania.",
+                  "category": "castle",
+                  "coords": [
+                        -4.108029,
+                        48.007565
+                  ]
+            },
+            {
+                  "name": "Atelier le chien rouge",
+                  "text": "Atelier le chien rouge este o galerie de artă situată în orașul Quimper. Oferă un spațiu pentru vizionarea diverselor lucrări artistice și expresii culturale.",
+                  "category": "museum",
+                  "coords": [
+                        -4.100937,
+                        47.99586
+                  ]
+            },
+            {
+                  "name": "Dolmen de Stang Youenn",
+                  "text": "Dolmen de Stang Youenn este un sit arheologic preistoric situat în Quimper. Această structură megalitică oferă o privire în istoria antică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -4.05544,
+                        47.979456
+                  ]
+            },
+            {
+                  "name": "Manoir de Missirien",
+                  "text": "Acest conac este o reședință istorică semnificativă situată în Quimper. Reflectă stilul arhitectural local și viața domestică din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        -4.095929,
+                        48.006543
+                  ]
             }
       ],
       "en": [
@@ -26091,6 +34794,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.098135,
                         47.977265
+                  ]
+            },
+            {
+                  "name": "Théâtre Max Jacob",
+                  "text": "The Max Jacob Theatre in Quimper is named after the famous poet born in the city. The historic building provides a magnificent setting for diverse cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.097734,
+                        47.994732
+                  ]
+            },
+            {
+                  "name": "Chapelle de Ty Mamm Doué",
+                  "text": "The Chapel of Ty Mamm Doué in Quimper is a significant example of 16th-century Breton sacred architecture. It is known for its rich interior and serves as a local place of pilgrimage.",
+                  "category": "religious",
+                  "coords": [
+                        -4.098099,
+                        48.020544
+                  ]
+            },
+            {
+                  "name": "Manoir de Coatbily",
+                  "text": "The Manoir de Coatbily is a historic manor house located in the surroundings of Quimper. It represents the traditional architecture of Brittany and bears witness to the region's rural noble heritage.",
+                  "category": "castle",
+                  "coords": [
+                        -4.08395,
+                        48.025886
+                  ]
+            },
+            {
+                  "name": "Manoir de Keramaner",
+                  "text": "The Manoir de Keramaner is a magnificent example of a Breton noble country seat near Quimper. The building reflects the rich history and architectural traditions of Finistère.",
+                  "category": "castle",
+                  "coords": [
+                        -4.095045,
+                        48.023913
+                  ]
+            },
+            {
+                  "name": "Ancien Grand séminaire et sa chapelle",
+                  "text": "The former major seminary and its chapel form a prominent monumental complex in Quimper. The buildings are witnesses to the history of religious education and mark the cityscape with their size.",
+                  "category": "historical",
+                  "coords": [
+                        -4.095803,
+                        47.996755
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Laurent",
+                  "text": "The Chapel of Saint-Laurent in Quimper is a modest sacred building of historical value. It serves the local community as a place for devotion and peace.",
+                  "category": "religious",
+                  "coords": [
+                        -4.091681,
+                        47.986854
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "The Church of Sainte-Thérèse is a modern religious building in the city of Quimper. It provides the community with a contemporary space for services and communal activities.",
+                  "category": "religious",
+                  "coords": [
+                        -4.091931,
+                        47.992984
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre et Saint-Paul",
+                  "text": "The Church of Saint Peter and Saint Paul is a central place of worship for the faithful in Quimper. The building's architecture is an important part of the region's sacred heritage.",
+                  "category": "religious",
+                  "coords": [
+                        -4.117437,
+                        48.004062
+                  ]
+            },
+            {
+                  "name": "Église Saint-Alor",
+                  "text": "The Church of Saint-Alor is a traditional religious building in Quimper. It serves as a place for reflection and is closely linked to the local history of the parish.",
+                  "category": "religious",
+                  "coords": [
+                        -4.069953,
+                        47.983484
+                  ]
+            },
+            {
+                  "name": "Église de la Trinité",
+                  "text": "The Church of the Trinity (Église de la Trinité) in Quimper provides a space for prayer and religious ceremonies. Its architecture contributes to the diversity of sacred buildings in the city.",
+                  "category": "religious",
+                  "coords": [
+                        -4.096311,
+                        48.003769
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Pierre",
+                  "text": "This chapel is a place of worship located in Quimper. It offers a quiet space for reflection and historical interest in the city.",
+                  "category": "religious",
+                  "coords": [
+                        -4.074341,
+                        48.004108
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Claire",
+                  "text": "This church is a local place of worship situated in the city of Quimper. It serves as a spiritual landmark for residents and visitors alike.",
+                  "category": "religious",
+                  "coords": [
+                        -4.130377,
+                        47.988999
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Conogan",
+                  "text": "Located in Quimper, this chapel is dedicated to Saint Conogan and functions as a place of worship. The site reflects the religious heritage of this Breton city.",
+                  "category": "religious",
+                  "coords": [
+                        -4.123359,
+                        48.010311
+                  ]
+            },
+            {
+                  "name": "Manoir du Cleuyou",
+                  "text": "The Manoir du Cleuyou is a historic castle-like manor house situated in Quimper. It is an example of the local architectural heritage in the Brittany region.",
+                  "category": "castle",
+                  "coords": [
+                        -4.06344,
+                        47.99444
+                  ]
+            },
+            {
+                  "name": "Manoir du Loc'h",
+                  "text": "This castle is an architectural landmark located in the city of Quimper. It represents the historical importance of manors in the surrounding area.",
+                  "category": "castle",
+                  "coords": [
+                        -4.08559,
+                        48.013273
+                  ]
+            },
+            {
+                  "name": "Château de Keraval",
+                  "text": "The Château de Keraval is a notable castle structure found in Quimper. Visitors can appreciate its traditional design and its place in Breton history.",
+                  "category": "castle",
+                  "coords": [
+                        -4.120909,
+                        47.964236
+                  ]
+            },
+            {
+                  "name": "Vieux Manoir du Quinquis",
+                  "text": "This old manor is a castle-style building located within the municipality of Quimper. It stands as a testament to the regional history and classic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -4.055625,
+                        47.974604
+                  ]
+            },
+            {
+                  "name": "Manoir de Poulguinan",
+                  "text": "The Manoir de Poulguinan is a castle located in Quimper, contributing to the city's historical landscape. It showcases the distinctive manor house style of the region.",
+                  "category": "castle",
+                  "coords": [
+                        -4.11354,
+                        47.983492
+                  ]
+            },
+            {
+                  "name": "Manoir des Salles",
+                  "text": "Situated in Quimper, this manor house is categorized as a castle and features local architectural elements. It is part of the diverse historical sites found in the city.",
+                  "category": "castle",
+                  "coords": [
+                        -4.113346,
+                        48.003524
+                  ]
+            },
+            {
+                  "name": "Manoir du Parc",
+                  "text": "The Manoir du Parc is a castle building located in Quimper. It remains an interesting site for those exploring the architectural heritage of Brittany.",
+                  "category": "castle",
+                  "coords": [
+                        -4.106414,
+                        48.002011
+                  ]
+            },
+            {
+                  "name": "Manoir de Créac'h Al Lan",
+                  "text": "This castle is a historical manor house situated in the city of Quimper. It adds to the rich collection of medieval and post-medieval estates in the area.",
+                  "category": "castle",
+                  "coords": [
+                        -4.098505,
+                        48.000709
+                  ]
+            },
+            {
+                  "name": "Manoir de Stang-Bihan",
+                  "text": "Located in Quimper, the Manoir de Stang-Bihan is a castle that represents local nobility's history. Its structure is characteristic of the manor houses found in Brittany.",
+                  "category": "castle",
+                  "coords": [
+                        -4.108029,
+                        48.007565
+                  ]
+            },
+            {
+                  "name": "Atelier le chien rouge",
+                  "text": "Atelier le chien rouge is an art gallery located in the city of Quimper. It provides a space for viewing various artistic works and cultural expressions.",
+                  "category": "museum",
+                  "coords": [
+                        -4.100937,
+                        47.99586
+                  ]
+            },
+            {
+                  "name": "Dolmen de Stang Youenn",
+                  "text": "The Dolmen de Stang Youenn is a prehistoric archaeological site located in Quimper. This megalithic structure offers a glimpse into the ancient history of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -4.05544,
+                        47.979456
+                  ]
+            },
+            {
+                  "name": "Manoir de Missirien",
+                  "text": "This manor house is a significant historical residence located in Quimper. It reflects the local architectural style and the domestic life of the past.",
+                  "category": "historical",
+                  "coords": [
+                        -4.095929,
+                        48.006543
                   ]
             }
       ],
@@ -28792,6 +37720,231 @@ const citySeeds: CitySeed[] = [
                         2.394277,
                         47.094365
                   ]
+            },
+            {
+                  "name": "Muséum d'Histoire Naturelle",
+                  "text": "Das Naturhistorische Museum von Bourges präsentiert vielfältige Sammlungen aus den Bereichen Biologie und Geologie. Es ist eine wichtige Bildungs- und Wissenschaftseinrichtung der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        2.394335,
+                        47.078423
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Das Maison de la Culture in Bourges ist ein wichtiges Kunstzentrum, in dem verschiedene Aufführungen und Ausstellungen stattfinden. Es war eines der ersten seiner Art in Frankreich.",
+                  "category": "cultural",
+                  "coords": [
+                        2.398702,
+                        47.077208
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-le-Guillard",
+                  "text": "Diese gotische Kirche in Bourges ist ein eingetragenes historisches Denkmal und eine Gebetsstätte. Sie weist interessante architektonische Details und religiöse Kunst auf.",
+                  "category": "religious",
+                  "coords": [
+                        2.392993,
+                        47.082277
+                  ]
+            },
+            {
+                  "name": "Château de Chappe",
+                  "text": "Das Schloss Chappe ist ein befestigtes Bauwerk in Bourges. Es dient als Erinnerung an die historische Verteidigungsarchitektur in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        2.424171,
+                        47.089608
+                  ]
+            },
+            {
+                  "name": "Manoir du Beugnon",
+                  "text": "Dieses Herrenhaus in Bourges ist ein schönes Beispiel für traditionelle Wohnarchitektur. Es verleiht der Wohnlandschaft der Stadt einen Hauch von historischem Charme.",
+                  "category": "historical",
+                  "coords": [
+                        2.390972,
+                        47.071295
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville de Bourges",
+                  "text": "Das Rathaus von Bourges ist das Verwaltungszentrum der Gemeinde und ein wichtiges öffentliches Gebäude. Es befindet sich im Herzen der Stadt für bürgerschaftliche Aktivitäten.",
+                  "category": "historical",
+                  "coords": [
+                        2.398899,
+                        47.080512
+                  ]
+            },
+            {
+                  "name": "Crypte gallo-romaine de Sainte-Blandine",
+                  "text": "Diese gallorömische Krypta ist eine antike Gebetsstätte in Bourges. Sie bietet einen einzigartigen Einblick in die frühe Religionsgeschichte und Archäologie der Stätte.",
+                  "category": "religious",
+                  "coords": [
+                        2.403263,
+                        47.0779
+                  ]
+            },
+            {
+                  "name": "Halle au Blé",
+                  "text": "Die Halle au Blé ist ein historischer Marktplatz in Bourges, der traditionell für den Getreidehandel genutzt wurde. Heute ist sie ein bemerkenswertes Bauwerk, das die Handelsgeschichte der Stadt repräsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        2.389969,
+                        47.083292
+                  ]
+            },
+            {
+                  "name": "Église Saint-Henri",
+                  "text": "Diese Kirche ist eine geweihte Gebetsstätte, die der Gemeinde in Bourges dient. Sie ist Teil der lokalen religiösen Landschaft und weist einen traditionellen Baustil auf.",
+                  "category": "religious",
+                  "coords": [
+                        2.383584,
+                        47.075492
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Die Kirche Notre-Dame ist eine bedeutende Kirche und Gebetsstätte in Bourges. Sie hat für die Einwohner der Stadt einen hohen spirituellen und historischen Wert.",
+                  "category": "religious",
+                  "coords": [
+                        2.393729,
+                        47.086891
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Diese in Bourges gelegene Kirche dient als Gebetsstätte für die örtliche Gemeinde. Sie trägt zur architektonischen Vielfalt der religiösen Gebäude der Stadt bei.",
+                  "category": "religious",
+                  "coords": [
+                        2.405498,
+                        47.103983
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Barbe",
+                  "text": "Diese Kapelle in Bourges ist der Heiligen Barbara gewidmet und dient als Gebetsstätte. Sie bietet einen Ort für Gebet und Besinnung im städtischen Umfeld.",
+                  "category": "religious",
+                  "coords": [
+                        2.420809,
+                        47.083219
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Die Herz-Jesu-Kirche ist eine religiöse Stätte und Gebetsstätte in Bourges. Sie weist ein markantes Design auf, das aus der Architektur der Stadt herausragt.",
+                  "category": "religious",
+                  "coords": [
+                        2.407945,
+                        47.07351
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Diese Kirche in Bourges dient als lokale Gebetsstätte. Sie ist ein fester Bestandteil der spirituellen Gemeinschaft und des baulichen Erbes der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        2.415716,
+                        47.100431
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Die Karmeliterkirche ist eine historische Gebetsstätte in Bourges. Sie spiegelt die religiösen Traditionen und den Baustil des Karmeliterordens wider.",
+                  "category": "religious",
+                  "coords": [
+                        2.392345,
+                        47.083764
+                  ]
+            },
+            {
+                  "name": "Château de Lazenay",
+                  "text": "Das Château de Lazenay ist ein schlossähnliches Gebäude in der Stadt Bourges. Es ist für seine historische Bedeutung und seine Rolle im lokalen Landschaftsbild bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        2.404857,
+                        47.05314
+                  ]
+            },
+            {
+                  "name": "Musée du Train et des Équipages Militaires",
+                  "text": "Dieses Museum in Bourges konzentriert sich auf die Geschichte des militärischen Transport- und Nachschubwesens. Es zeigt Fahrzeuge, Uniformen und Ausrüstung der Streitkräfte.",
+                  "category": "museum",
+                  "coords": [
+                        2.415026,
+                        47.069598
+                  ]
+            },
+            {
+                  "name": "Galerie d'Art Laramée",
+                  "text": "Die Galerie d'Art Laramée ist eine Galerie für zeitgenössische Kunst in Bourges. Sie zeigt eine Vielzahl von Werken lokaler und nationaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        2.39699,
+                        47.085027
+                  ]
+            },
+            {
+                  "name": "La Soupe aux Choux",
+                  "text": "La Soupe aux Choux ist eine Theaterstätte in Bourges, die für verschiedene Aufführungen bekannt ist. Sie bietet Raum für lokale Kulturveranstaltungen und darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        2.398496,
+                        47.086169
+                  ]
+            },
+            {
+                  "name": "Auditorium Corinne Dadat.",
+                  "text": "Dieses Auditorium in Bourges ist ein Theaterraum, der kulturellen Darbietungen gewidmet ist. Es dient als moderner Ort für Musik, Tanz und Theaterproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.395999,
+                        47.075955
+                  ]
+            },
+            {
+                  "name": "Le 22 d'Auron",
+                  "text": "Le 22 d'Auron ist ein vielseitiger Veranstaltungsort und Theater in Bourges. Es finden hier verschiedenste Veranstaltungen statt, von Konzerten bis hin zu Theaterstücken.",
+                  "category": "cultural",
+                  "coords": [
+                        2.395201,
+                        47.077356
+                  ]
+            },
+            {
+                  "name": "Le Nadir",
+                  "text": "Le Nadir ist ein Kulturort in Bourges mit Schwerpunkt auf zeitgenössischer Musik und Theateraufführungen. Er ist ein aktiver Teil der Kunstszene der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        2.382409,
+                        47.076316
+                  ]
+            },
+            {
+                  "name": "Le Hublot",
+                  "text": "Le Hublot ist ein Theater und Kulturraum in Bourges, der die lokale Kreativität fördert. Es bietet eine Plattform für experimentelle und traditionelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.404097,
+                        47.105641
+                  ]
+            },
+            {
+                  "name": "École De Cirque Le Nez Dans Les Étoiles",
+                  "text": "Diese Zirkusschule und Theaterstätte in Bourges bietet Ausbildung und Aufführungen in der Zirkuskunst an. Es ist eine einzigartige Kultureinrichtung, die mit der Gemeinde in Kontakt steht.",
+                  "category": "cultural",
+                  "coords": [
+                        2.396534,
+                        47.074586
+                  ]
+            },
+            {
+                  "name": "Marais Boisé du Val d’Auron",
+                  "text": "Das Marais Boisé du Val d'Auron ist eine Naturattraktion in Bourges mit bewaldeten Feuchtgebieten. Es ist ein beliebter Ort für Naturspaziergänge und Vogelbeobachtungen in der Nähe der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.408795,
+                        47.047881
+                  ]
             }
       ],
       "hu": [
@@ -28943,6 +38096,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.394277,
                         47.094365
+                  ]
+            },
+            {
+                  "name": "Muséum d'Histoire Naturelle",
+                  "text": "A Bourges-i Természettudományi Múzeum a biológiával és a geológiával kapcsolatos változatos gyűjteményeket mutat be. A város fontos oktatási és tudományos intézménye.",
+                  "category": "museum",
+                  "coords": [
+                        2.394335,
+                        47.078423
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "A Bourges-i Maison de la Culture egy jelentős művészeti központ, amely különféle előadásoknak és kiállításoknak ad otthont. Ez volt az egyik első ilyen jellegű intézmény Franciaországban.",
+                  "category": "cultural",
+                  "coords": [
+                        2.398702,
+                        47.077208
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-le-Guillard",
+                  "text": "Ez a gótikus templom Bourges-ban bejegyzett történelmi műemlék és vallási helyszín. Érdekes építészeti részletekkel és vallási művészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        2.392993,
+                        47.082277
+                  ]
+            },
+            {
+                  "name": "Château de Chappe",
+                  "text": "A Chappe-kastély egy erődített építmény Bourges-ban. A régió történelmi védelmi építészetének emlékeztetőjeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        2.424171,
+                        47.089608
+                  ]
+            },
+            {
+                  "name": "Manoir du Beugnon",
+                  "text": "Ez a Bourges-i udvarház a hagyományos lakóépítészet szép példája. Történelmi bájt kölcsönöz a város lakókörnyezetének.",
+                  "category": "historical",
+                  "coords": [
+                        2.390972,
+                        47.071295
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville de Bourges",
+                  "text": "A Bourges-i városháza a település közigazgatási központja és fontos középület. A város szívében található a polgári tevékenységek számára.",
+                  "category": "historical",
+                  "coords": [
+                        2.398899,
+                        47.080512
+                  ]
+            },
+            {
+                  "name": "Crypte gallo-romaine de Sainte-Blandine",
+                  "text": "Ez a gall-római kripta egy ősi vallási helyszín Bourges-ban. Egyedülálló betekintést nyújt a helyszín korai vallástörténetébe és régészetébe.",
+                  "category": "religious",
+                  "coords": [
+                        2.403263,
+                        47.0779
+                  ]
+            },
+            {
+                  "name": "Halle au Blé",
+                  "text": "A Halle au Blé egy történelmi piactér Bourges-ban, amelyet hagyományosan gabonakereskedelemre használtak. Ma is figyelemre méltó építmény, amely a város kereskedelmi múltját jelképezi.",
+                  "category": "cultural",
+                  "coords": [
+                        2.389969,
+                        47.083292
+                  ]
+            },
+            {
+                  "name": "Église Saint-Henri",
+                  "text": "Ez a templom egy vallási helyszín, amely a Bourges-i közösséget szolgálja. A helyi vallási tájkép része, és hagyományos építészeti kialakítással rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        2.383584,
+                        47.075492
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "A Notre-Dame templom Bourges egyik kiemelkedő temploma és vallási helyszíne. Jelentős lelki és történelmi értékkel bír a város lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.393729,
+                        47.086891
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Ez a Bourges-ban található templom a helyi egyházközség vallási helyszíneként működik. Hozzájárul a város vallási épületeinek építészeti sokszínűségéhez.",
+                  "category": "religious",
+                  "coords": [
+                        2.405498,
+                        47.103983
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Barbe",
+                  "text": "Ez a kápolna egy Szent Borbálának szentelt vallási helyszín Bourges-ban. Imádkozási és elmélkedési lehetőséget biztosít a városi környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        2.420809,
+                        47.083219
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "A Szent Szív templom egy vallási helyszín Bourges-ban. Jellegzetes kialakítással rendelkezik, amely kiemelkedik a város építészetéből.",
+                  "category": "religious",
+                  "coords": [
+                        2.407945,
+                        47.07351
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Ez a Bourges-i templom helyi vallási helyszínként szolgál. A szellemi közösség és a város épített örökségének szerves része.",
+                  "category": "religious",
+                  "coords": [
+                        2.415716,
+                        47.100431
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "A Karmelita templom egy történelmi vallási helyszín Bourges-ban. A karmelita rend vallási hagyományait és építészeti stílusát tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        2.392345,
+                        47.083764
+                  ]
+            },
+            {
+                  "name": "Château de Lazenay",
+                  "text": "A Château de Lazenay egy kastélyszerű épület Bourges városában. Történelmi jelentőségéről és a helyi tájban betöltött szerepéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        2.404857,
+                        47.05314
+                  ]
+            },
+            {
+                  "name": "Musée du Train et des Équipages Militaires",
+                  "text": "Ez a Bourges-i múzeum a katonai szállítás és a vonatcsapatok történetére összpontosít. A fegyveres erők által használt járműveket, egyenruhákat és felszereléseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        2.415026,
+                        47.069598
+                  ]
+            },
+            {
+                  "name": "Galerie d'Art Laramée",
+                  "text": "A Galerie d'Art Laramée egy kortárs művészeti galéria Bourges-ban. Helyi és országos művészek különféle alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        2.39699,
+                        47.085027
+                  ]
+            },
+            {
+                  "name": "La Soupe aux Choux",
+                  "text": "A La Soupe aux Choux egy színházi helyszín Bourges-ban, amely különféle előadásoknak ad otthont. Teret biztosít a helyi kulturális eseményeknek és a színművészetnek.",
+                  "category": "cultural",
+                  "coords": [
+                        2.398496,
+                        47.086169
+                  ]
+            },
+            {
+                  "name": "Auditorium Corinne Dadat.",
+                  "text": "Ez a Bourges-i auditórium egy kulturális előadásoknak szentelt színházi tér. Modern helyszínként szolgál zenei, táncos és színházi produkciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        2.395999,
+                        47.075955
+                  ]
+            },
+            {
+                  "name": "Le 22 d'Auron",
+                  "text": "A Le 22 d'Auron egy sokoldalú előadótér és színház Bourges-ban. Rendezvények széles skálájának ad otthont a koncertektől a színházi darabokig.",
+                  "category": "cultural",
+                  "coords": [
+                        2.395201,
+                        47.077356
+                  ]
+            },
+            {
+                  "name": "Le Nadir",
+                  "text": "A Le Nadir egy kulturális helyszín Bourges-ban, amely a kortárs zenére és színházi előadásokra összpontosít. A város művészeti életének aktív része.",
+                  "category": "cultural",
+                  "coords": [
+                        2.382409,
+                        47.076316
+                  ]
+            },
+            {
+                  "name": "Le Hublot",
+                  "text": "A Le Hublot egy színház és kulturális tér Bourges-ban, amely a helyi kreativitást népszerűsíti. Platformot biztosít kísérleti és hagyományos előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        2.404097,
+                        47.105641
+                  ]
+            },
+            {
+                  "name": "École De Cirque Le Nez Dans Les Étoiles",
+                  "text": "Ez a Bourges-i cirkusziskola és színházi tér képzéseket és előadásokat kínál a cirkuszművészet területén. Egyedülálló kulturális intézmény, amely kapcsolatban áll a közösséggel.",
+                  "category": "cultural",
+                  "coords": [
+                        2.396534,
+                        47.074586
+                  ]
+            },
+            {
+                  "name": "Marais Boisé du Val d’Auron",
+                  "text": "A Marais Boisé du Val d’Auron egy természeti látnivaló Bourges-ban, fás mocsarakkal. Kedvelt hely a természetjárás és a madármegfigyelés számára a város közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        2.408795,
+                        47.047881
                   ]
             }
       ],
@@ -29096,6 +38474,231 @@ const citySeeds: CitySeed[] = [
                         2.394277,
                         47.094365
                   ]
+            },
+            {
+                  "name": "Muséum d'Histoire Naturelle",
+                  "text": "Muzeul de Istorie Naturală din Bourges prezintă colecții diverse legate de biologie și geologie. Este o instituție educațională și științifică cheie în oraș.",
+                  "category": "museum",
+                  "coords": [
+                        2.394335,
+                        47.078423
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Maison de la Culture din Bourges este un centru de artă major care găzduiește diverse spectacole și expoziții. A fost unul dintre primele de acest gen înființate în Franța.",
+                  "category": "cultural",
+                  "coords": [
+                        2.398702,
+                        47.077208
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-le-Guillard",
+                  "text": "Această biserică gotică din Bourges este un monument istoric înregistrat și un lăcaș de cult. Prezintă detalii arhitecturale și artă religioasă interesante.",
+                  "category": "religious",
+                  "coords": [
+                        2.392993,
+                        47.082277
+                  ]
+            },
+            {
+                  "name": "Château de Chappe",
+                  "text": "Castelul Chappe este o structură fortificată situată în Bourges. Servește ca un memento al arhitecturii defensive istorice din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        2.424171,
+                        47.089608
+                  ]
+            },
+            {
+                  "name": "Manoir du Beugnon",
+                  "text": "Acest conac din Bourges este un exemplu elocvent de arhitectură domestică tradițională. Adaugă o notă de farmec istoric peisajului rezidențial al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        2.390972,
+                        47.071295
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville de Bourges",
+                  "text": "Primăria din Bourges este centrul administrativ al municipiului și o clădire publică importantă. Este situată în inima orașului pentru activități civice.",
+                  "category": "historical",
+                  "coords": [
+                        2.398899,
+                        47.080512
+                  ]
+            },
+            {
+                  "name": "Crypte gallo-romaine de Sainte-Blandine",
+                  "text": "Această criptă galo-romană este un vechi lăcaș de cult situat în Bourges. Oferă o privire unică asupra istoriei religioase timpurii și a arheologiei sitului.",
+                  "category": "religious",
+                  "coords": [
+                        2.403263,
+                        47.0779
+                  ]
+            },
+            {
+                  "name": "Halle au Blé",
+                  "text": "Halle au Blé este o piață istorică din Bourges, utilizată tradițional pentru comerțul cu cereale. Astăzi rămâne o structură notabilă care reprezintă istoria comercială a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        2.389969,
+                        47.083292
+                  ]
+            },
+            {
+                  "name": "Église Saint-Henri",
+                  "text": "Această biserică este un lăcaș de cult dedicat comunității din Bourges. Face parte din peisajul religios local și prezintă un design arhitectural tradițional.",
+                  "category": "religious",
+                  "coords": [
+                        2.383584,
+                        47.075492
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Biserica Notre-Dame este o biserică proeminentă și un lăcaș de cult din Bourges. Deține o valoare spirituală și istorică semnificativă pentru locuitorii orașului.",
+                  "category": "religious",
+                  "coords": [
+                        2.393729,
+                        47.086891
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Situată în Bourges, această biserică funcționează ca lăcaș de cult pentru parohia locală. Contribuie la diversitatea arhitecturală a clădirilor religioase din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        2.405498,
+                        47.103983
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Barbe",
+                  "text": "Această capelă este un lăcaș de cult din Bourges dedicat Sfintei Barbara. Oferă un sit pentru rugăciune și reflecție în mediul urban.",
+                  "category": "religious",
+                  "coords": [
+                        2.420809,
+                        47.083219
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Biserica Sacré-Cœur este un sit religios și un lăcaș de cult în Bourges. Prezintă un design distinctiv care iese în evidență în arhitectura orașului.",
+                  "category": "religious",
+                  "coords": [
+                        2.407945,
+                        47.07351
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Această biserică din Bourges servește ca lăcaș de cult local. Este o parte integrantă a comunității spirituale și a patrimoniului construit al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        2.415716,
+                        47.100431
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Biserica Carmeliților este un lăcaș de cult istoric situat în Bourges. Reflectă tradițiile religioase și stilul arhitectural al ordinului carmelit.",
+                  "category": "religious",
+                  "coords": [
+                        2.392345,
+                        47.083764
+                  ]
+            },
+            {
+                  "name": "Château de Lazenay",
+                  "text": "Château de Lazenay este o clădire asemănătoare unui castel situată în orașul Bourges. Este recunoscut pentru semnificația sa istorică și rolul său în peisajul local.",
+                  "category": "castle",
+                  "coords": [
+                        2.404857,
+                        47.05314
+                  ]
+            },
+            {
+                  "name": "Musée du Train et des Équipages Militaires",
+                  "text": "Acest muzeu din Bourges se concentrează pe istoria trenului și a echipajelor militare. Expune vehicule, uniforme și echipamente folosite de forțele armate.",
+                  "category": "museum",
+                  "coords": [
+                        2.415026,
+                        47.069598
+                  ]
+            },
+            {
+                  "name": "Galerie d'Art Laramée",
+                  "text": "Galerie d'Art Laramée este o galerie de artă contemporană situată în Bourges. Expune o varietate de lucrări ale artiștilor locali și naționali.",
+                  "category": "museum",
+                  "coords": [
+                        2.39699,
+                        47.085027
+                  ]
+            },
+            {
+                  "name": "La Soupe aux Choux",
+                  "text": "La Soupe aux Choux este un teatru din Bourges cunoscut pentru găzduirea diverselor spectacole. Oferă un spațiu pentru evenimente culturale locale și arte dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        2.398496,
+                        47.086169
+                  ]
+            },
+            {
+                  "name": "Auditorium Corinne Dadat.",
+                  "text": "Acest auditorium din Bourges este un spațiu teatral dedicat spectacolelor culturale. Servește ca locație modernă pentru muzică, dans și producții teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.395999,
+                        47.075955
+                  ]
+            },
+            {
+                  "name": "Le 22 d'Auron",
+                  "text": "Le 22 d'Auron este un spațiu de spectacol versatil și un teatru situat în Bourges. Găzduiește o gamă largă de evenimente, de la concerte la piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        2.395201,
+                        47.077356
+                  ]
+            },
+            {
+                  "name": "Le Nadir",
+                  "text": "Le Nadir este un loc cultural din Bourges care se concentrează pe muzică contemporană și spectacole de teatru. Este o parte activă a scenei artistice a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        2.382409,
+                        47.076316
+                  ]
+            },
+            {
+                  "name": "Le Hublot",
+                  "text": "Le Hublot este un teatru și un spațiu cultural din Bourges care promovează creativitatea locală. Oferă o platformă pentru spectacole experimentale și tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.404097,
+                        47.105641
+                  ]
+            },
+            {
+                  "name": "École De Cirque Le Nez Dans Les Étoiles",
+                  "text": "Această școală de circ și spațiu teatral din Bourges oferă instruire și spectacole în artele circului. Este o instituție culturală unică ce interacționează cu comunitatea.",
+                  "category": "cultural",
+                  "coords": [
+                        2.396534,
+                        47.074586
+                  ]
+            },
+            {
+                  "name": "Marais Boisé du Val d’Auron",
+                  "text": "Marais Boisé du Val d’Auron este o atracție naturală din Bourges, prezentând zone umede împădurite. Este un loc popular pentru plimbări în natură și observarea păsărilor în apropierea orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        2.408795,
+                        47.047881
+                  ]
             }
       ],
       "en": [
@@ -29247,6 +38850,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.394277,
                         47.094365
+                  ]
+            },
+            {
+                  "name": "Muséum d'Histoire Naturelle",
+                  "text": "The Natural History Museum of Bourges presents diverse collections related to biology and geology. It is a key educational and scientific institution in the city.",
+                  "category": "museum",
+                  "coords": [
+                        2.394335,
+                        47.078423
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "The Maison de la Culture in Bourges is a major arts centre hosting various performances and exhibitions. It was one of the first of its kind established in France.",
+                  "category": "cultural",
+                  "coords": [
+                        2.398702,
+                        47.077208
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre-le-Guillard",
+                  "text": "This Gothic church in Bourges is a registered historical monument and a place of worship. It features interesting architectural details and religious art.",
+                  "category": "religious",
+                  "coords": [
+                        2.392993,
+                        47.082277
+                  ]
+            },
+            {
+                  "name": "Castle of Chappe",
+                  "text": "The Castle of Chappe is a fortified structure located in Bourges. It serves as a reminder of the historical defensive architecture in the region.",
+                  "category": "castle",
+                  "coords": [
+                        2.424171,
+                        47.089608
+                  ]
+            },
+            {
+                  "name": "Manoir du Beugnon",
+                  "text": "This manor house in Bourges is a fine example of traditional domestic architecture. It adds a touch of historical charm to the city's residential landscape.",
+                  "category": "historical",
+                  "coords": [
+                        2.390972,
+                        47.071295
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville de Bourges",
+                  "text": "The Bourges City Hall is the administrative centre of the municipality and an important public building. It is located in the heart of the city for civic activities.",
+                  "category": "historical",
+                  "coords": [
+                        2.398899,
+                        47.080512
+                  ]
+            },
+            {
+                  "name": "Crypte gallo-romaine de Sainte-Blandine",
+                  "text": "This Gallo-Roman crypt is an ancient place of worship located in Bourges. It offers a unique look into the early religious history and archaeology of the site.",
+                  "category": "religious",
+                  "coords": [
+                        2.403263,
+                        47.0779
+                  ]
+            },
+            {
+                  "name": "Halle au Blé",
+                  "text": "The Halle au Blé is a historic marketplace in Bourges, traditionally used for grain trade. Today it remains a notable structure representing the city's commercial history.",
+                  "category": "cultural",
+                  "coords": [
+                        2.389969,
+                        47.083292
+                  ]
+            },
+            {
+                  "name": "Église Saint-Henri",
+                  "text": "This church is a dedicated place of worship serving the community in Bourges. It is part of the local religious landscape and features traditional architectural design.",
+                  "category": "religious",
+                  "coords": [
+                        2.383584,
+                        47.075492
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Église Notre-Dame is a prominent church and place of worship in Bourges. It holds significant spiritual and historical value for the city's inhabitants.",
+                  "category": "religious",
+                  "coords": [
+                        2.393729,
+                        47.086891
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Located in Bourges, this church functions as a place of worship for the local parish. It contributes to the architectural diversity of the city's religious buildings.",
+                  "category": "religious",
+                  "coords": [
+                        2.405498,
+                        47.103983
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Barbe",
+                  "text": "This chapel is a place of worship in Bourges dedicated to Saint Barbara. It provides a site for prayer and reflection within the urban environment.",
+                  "category": "religious",
+                  "coords": [
+                        2.420809,
+                        47.083219
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "The Church of the Sacred Heart is a religious site and place of worship in Bourges. It features a distinctive design that stands out in the city's architecture.",
+                  "category": "religious",
+                  "coords": [
+                        2.407945,
+                        47.07351
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "This church in Bourges serves as a local place of worship. It is an integral part of the spiritual community and the city's built heritage.",
+                  "category": "religious",
+                  "coords": [
+                        2.415716,
+                        47.100431
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "The Church of the Carmelites is a historic place of worship situated in Bourges. It reflects the religious traditions and architectural style of the Carmelite order.",
+                  "category": "religious",
+                  "coords": [
+                        2.392345,
+                        47.083764
+                  ]
+            },
+            {
+                  "name": "Château de Lazenay",
+                  "text": "The Château de Lazenay is a castle-like building located in the city of Bourges. It is recognized for its historical significance and its role in the local landscape.",
+                  "category": "castle",
+                  "coords": [
+                        2.404857,
+                        47.05314
+                  ]
+            },
+            {
+                  "name": "Musée du Train et des Équipages Militaires",
+                  "text": "This museum in Bourges focuses on the history of military transport and supply trains. It showcases vehicles, uniforms, and equipment used by the armed forces.",
+                  "category": "museum",
+                  "coords": [
+                        2.415026,
+                        47.069598
+                  ]
+            },
+            {
+                  "name": "Galerie d'Art Laramée",
+                  "text": "Galerie d'Art Laramée is a contemporary art gallery located in Bourges. It displays a variety of works by local and national artists.",
+                  "category": "museum",
+                  "coords": [
+                        2.39699,
+                        47.085027
+                  ]
+            },
+            {
+                  "name": "La Soupe aux Choux",
+                  "text": "La Soupe aux Choux is a theatre venue in Bourges known for hosting various performances. it provides a space for local cultural events and dramatic arts.",
+                  "category": "cultural",
+                  "coords": [
+                        2.398496,
+                        47.086169
+                  ]
+            },
+            {
+                  "name": "Auditorium Corinne Dadat.",
+                  "text": "This auditorium in Bourges is a theatre space dedicated to cultural performances. It serves as a modern venue for music, dance, and theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        2.395999,
+                        47.075955
+                  ]
+            },
+            {
+                  "name": "Le 22 d'Auron",
+                  "text": "Le 22 d'Auron is a versatile performance space and theatre located in Bourges. It hosts a wide range of events from concerts to theatre plays.",
+                  "category": "cultural",
+                  "coords": [
+                        2.395201,
+                        47.077356
+                  ]
+            },
+            {
+                  "name": "Le Nadir",
+                  "text": "Le Nadir is a cultural venue in Bourges focusing on contemporary music and theatre performances. It is an active part of the city's artistic scene.",
+                  "category": "cultural",
+                  "coords": [
+                        2.382409,
+                        47.076316
+                  ]
+            },
+            {
+                  "name": "Le Hublot",
+                  "text": "Le Hublot is a theatre and cultural space in Bourges that promotes local creativity. It provides a platform for experimental and traditional performances.",
+                  "category": "cultural",
+                  "coords": [
+                        2.404097,
+                        47.105641
+                  ]
+            },
+            {
+                  "name": "École De Cirque Le Nez Dans Les Étoiles",
+                  "text": "This circus school and theatre space in Bourges offers training and performances in circus arts. It is a unique cultural institution that engages with the community.",
+                  "category": "cultural",
+                  "coords": [
+                        2.396534,
+                        47.074586
+                  ]
+            },
+            {
+                  "name": "Marais Boisé du Val d’Auron",
+                  "text": "The Marais Boisé du Val d’Auron is a natural attraction in Bourges featuring wooded wetlands. It is a popular spot for nature walks and birdwatching near the city.",
+                  "category": "landmark",
+                  "coords": [
+                        2.408795,
+                        47.047881
                   ]
             }
       ],
@@ -31296,6 +41124,96 @@ const citySeeds: CitySeed[] = [
                         1.366873,
                         44.01329
                   ]
+            },
+            {
+                  "name": "Musée de la Résistance et du Combattant",
+                  "text": "Dieses Museum in Montauban dokumentiert den Widerstand und das Leben während des Zweiten Weltkriegs. Es präsentiert persönliche Gegenstände, Dokumente und Fotos von lokalen Widerstandskämpfern.",
+                  "category": "museum",
+                  "coords": [
+                        1.369058,
+                        44.012935
+                  ]
+            },
+            {
+                  "name": "Hospice",
+                  "text": "Dieses historische Denkmal in Montauban erinnert an die ehemalige Funktion als Ort der Pflege und Hilfeleistung. Das Gebäude ist ein bemerkenswertes Beispiel für die soziale Architektur früherer Jahrhunderte.",
+                  "category": "historical",
+                  "coords": [
+                        1.351002,
+                        44.022067
+                  ]
+            },
+            {
+                  "name": "Monument aux morts de l'USM Sapiac",
+                  "text": "Dieses Denkmal in Montauban ehrt die Mitglieder des örtlichen Rugbyclubs USM Sapiac, die in den Weltkriegen fielen. Es ist ein wichtiger Ort des Gedenkens für den Sportverein und die Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        1.352829,
+                        44.010477
+                  ]
+            },
+            {
+                  "name": "Eurythmie",
+                  "text": "Eurythmie ist ein modernes Kulturzentrum in Montauban, das regelmäßig Konzerte und Veranstaltungen ausrichtet. Es dient als wichtiger Treffpunkt für Kunst- und Musikliebhaber in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        1.36144,
+                        44.024094
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité-de-Notre-Dame",
+                  "text": "Diese katholische Kirche in Montauban ist der Geburt der Jungfrau Maria gewidmet. Besucher können hier die traditionelle religiöse Architektur und die ruhige Atmosphäre der Stadt erleben.",
+                  "category": "religious",
+                  "coords": [
+                        1.321103,
+                        44.018743
+                  ]
+            },
+            {
+                  "name": "Marché Couvert Embarcadère",
+                  "text": "Der Marché Couvert Embarcadère ist eine lebendige Markthalle in Montauban, die lokale Produkte anbietet. Hier finden Besucher frische Lebensmittel und regionale Spezialitäten in einem authentischen Ambiente.",
+                  "category": "cultural",
+                  "coords": [
+                        1.344904,
+                        44.016453
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Die Kirche Sainte-Thérèse ist ein bedeutendes religiöses Gebäude im Stadtgebiet von Montauban. Sie bietet einen Ort der Besinnung und beeindruckt durch ihre sakrale Gestaltung.",
+                  "category": "religious",
+                  "coords": [
+                        1.372596,
+                        44.008727
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Paix",
+                  "text": "Die Kirche Notre-Dame-de-la-Paix in Montauban dient als Treffpunkt für die lokale Kirchengemeinde. Das Bauwerk ist ein Beispiel für die sakrale Architektur des 20. Jahrhunderts in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        1.368879,
+                        44.020328
+                  ]
+            },
+            {
+                  "name": "Église Réformée Évangélique",
+                  "text": "Diese evangelisch-reformierte Kirche in Montauban spiegelt die protestantische Geschichte der Stadt wider. Sie ist ein schlichter Ort des Gebets und steht Besuchern während der Gottesdienste offen.",
+                  "category": "religious",
+                  "coords": [
+                        1.350613,
+                        44.019847
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Die Kirche Saint-Jean in Montauban ist ein traditionelles Gotteshaus mit einer einladenden Atmosphäre. Das Gebäude fügt sich harmonisch in das Stadtbild ein und lädt zur inneren Einkehr ein.",
+                  "category": "religious",
+                  "coords": [
+                        1.354529,
+                        44.021793
+                  ]
             }
       ],
       "hu": [
@@ -31457,6 +41375,96 @@ const citySeeds: CitySeed[] = [
                         1.366873,
                         44.01329
                   ]
+            },
+            {
+                  "name": "Musée de la Résistance et du Combattant",
+                  "text": "Ez a montaubani múzeum az ellenállást és a második világháború alatti életet dokumentálja. Helyi ellenállók személyes tárgyait, dokumentumait és fotóit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.369058,
+                        44.012935
+                  ]
+            },
+            {
+                  "name": "Hospice",
+                  "text": "Ez a montaubani történelmi emlékmű az egykori ápolási és segélynyújtó funkcióra emlékeztet. Az épület a korábbi évszázadok szociális építészetének figyelemre méltó példája.",
+                  "category": "historical",
+                  "coords": [
+                        1.351002,
+                        44.022067
+                  ]
+            },
+            {
+                  "name": "Monument aux morts de l'USM Sapiac",
+                  "text": "Ez a montaubani emlékmű az USM Sapiac helyi rögbiklub azon tagjai előtt tiszteleg, akik a világháborúkban estek el. Fontos emlékhely a sportegyesület és a város számára.",
+                  "category": "historical",
+                  "coords": [
+                        1.352829,
+                        44.010477
+                  ]
+            },
+            {
+                  "name": "Eurythmie",
+                  "text": "Az Eurythmie egy modern kulturális központ Montaubanban, amely rendszeresen ad otthont koncerteknek és eseményeknek. A város művészeti és zenei életének egyik fontos találkozóhelyeként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        1.36144,
+                        44.024094
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité-de-Notre-Dame",
+                  "text": "Ez a montaubani katolikus templom Szűz Mária születésének tiszteletére épült. A látogatók megtekinthetik a hagyományos vallási építészetet és átélhetik a város nyugodt légkörét.",
+                  "category": "religious",
+                  "coords": [
+                        1.321103,
+                        44.018743
+                  ]
+            },
+            {
+                  "name": "Marché Couvert Embarcadère",
+                  "text": "A Marché Couvert Embarcadère egy pezsgő fedett piac Montaubanban, ahol helyi termékeket kínálnak. A látogatók friss élelmiszereket és regionális különlegességeket találnak itt autentikus környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        1.344904,
+                        44.016453
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "A Sainte-Thérèse templom Montauban városának egyik jelentős vallási épülete. A nyugalom helyszíne, amely szakrális kialakításával nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        1.372596,
+                        44.008727
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Paix",
+                  "text": "A montaubani Notre-Dame-de-la-Paix templom a helyi egyházközség találkozóhelyeként szolgál. Az épület a régió 20. századi szakrális építészetének egyik példája.",
+                  "category": "religious",
+                  "coords": [
+                        1.368879,
+                        44.020328
+                  ]
+            },
+            {
+                  "name": "Église Réformée Évangélique",
+                  "text": "Ez a montaubani református templom a város protestáns történelmét tükrözi. Az imádság szerény helyszíne, amely az istentiszteletek idején nyitva áll a látogatók előtt.",
+                  "category": "religious",
+                  "coords": [
+                        1.350613,
+                        44.019847
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "A montaubani Saint-Jean templom egy hagyományos istenháza, barátságos légkörrel. Az épület harmonikusan illeszkedik a városképbe, és belső elcsendesedésre hívja a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        1.354529,
+                        44.021793
+                  ]
             }
       ],
       "ro": [
@@ -31617,6 +41625,96 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.366873,
                         44.01329
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance et du Combattant",
+                  "text": "Această rezistență muzeu din Montauban documentează rezistența și viața în timpul celui de-al Doilea Război Mondial. Prezintă obiecte personale, documente și fotografii ale luptătorilor locali din rezistență.",
+                  "category": "museum",
+                  "coords": [
+                        1.369058,
+                        44.012935
+                  ]
+            },
+            {
+                  "name": "Hospice",
+                  "text": "Acest monument istoric din Montauban amintește de fosta funcție de loc de îngrijire și asistență. Clădirea este un exemplu remarcabil de arhitectură socială din secolele trecute.",
+                  "category": "historical",
+                  "coords": [
+                        1.351002,
+                        44.022067
+                  ]
+            },
+            {
+                  "name": "Monument aux morts de l'USM Sapiac",
+                  "text": "Acest monument din Montauban îi onorează pe membrii clubului local de rugby USM Sapiac care au căzut în războaiele mondiale. Este un loc important de comemorare pentru clubul sportiv și oraș.",
+                  "category": "historical",
+                  "coords": [
+                        1.352829,
+                        44.010477
+                  ]
+            },
+            {
+                  "name": "Eurythmie",
+                  "text": "Eurythmie este un centru cultural modern din Montauban, care găzduiește regulat concerte și evenimente. Servește ca un punct de întâlnire important pentru iubitorii de artă și muzică din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        1.36144,
+                        44.024094
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité-de-Notre-Dame",
+                  "text": "Această biserică catolică din Montauban este dedicată Nașterii Maicii Domnului. Vizitatorii pot experimenta aici arhitectura religioasă tradițională și atmosfera liniștită a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        1.321103,
+                        44.018743
+                  ]
+            },
+            {
+                  "name": "Marché Couvert Embarcadère",
+                  "text": "Marché Couvert Embarcadère este o piață acoperită plină de viață din Montauban, care oferă produse locale. Vizitatorii pot găsi aici alimente proaspete și specialități regionale într-un ambient autentic.",
+                  "category": "cultural",
+                  "coords": [
+                        1.344904,
+                        44.016453
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Biserica Sainte-Thérèse este o clădire religioasă semnificativă din zona urbană a orașului Montauban. Oferă un loc de reculegere și impresionează prin designul său sacru.",
+                  "category": "religious",
+                  "coords": [
+                        1.372596,
+                        44.008727
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Paix",
+                  "text": "Biserica Notre-Dame-de-la-Paix din Montauban servește ca punct de întâlnire pentru comunitatea locală. Edificiul este un exemplu de arhitectură sacră din secolul al XX-lea în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        1.368879,
+                        44.020328
+                  ]
+            },
+            {
+                  "name": "Église Réformée Évangélique",
+                  "text": "Această biserică reformată evanghelică din Montauban reflectă istoria protestantă a orașului. Este un loc simplu de rugăciune și este deschisă vizitatorilor în timpul serviciilor religioase.",
+                  "category": "religious",
+                  "coords": [
+                        1.350613,
+                        44.019847
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Biserica Saint-Jean din Montauban este un lăcaș de cult tradițional, cu o atmosferă primitoare. Clădirea se integrează armonios în peisajul urban și invită la meditație.",
+                  "category": "religious",
+                  "coords": [
+                        1.354529,
+                        44.021793
                   ]
             }
       ],
@@ -31788,6 +41886,96 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.366873,
                         44.01329
+                  ]
+            },
+            {
+                  "name": "Musée de la Résistance et du Combattant",
+                  "text": "This museum in Montauban documents the resistance and life during World War II. It presents personal items, documents, and photos of local resistance fighters.",
+                  "category": "museum",
+                  "coords": [
+                        1.369058,
+                        44.012935
+                  ]
+            },
+            {
+                  "name": "Hospice",
+                  "text": "This historic monument in Montauban recalls its former function as a place of care and assistance. The building is a remarkable example of social architecture from previous centuries.",
+                  "category": "historical",
+                  "coords": [
+                        1.351002,
+                        44.022067
+                  ]
+            },
+            {
+                  "name": "Monument aux morts de l'USM Sapiac",
+                  "text": "This monument in Montauban honors the members of the local USM Sapiac rugby club who fell in the world wars. It is an important place of remembrance for the sports club and the city.",
+                  "category": "historical",
+                  "coords": [
+                        1.352829,
+                        44.010477
+                  ]
+            },
+            {
+                  "name": "Eurythmie",
+                  "text": "Eurythmie is a modern arts centre in Montauban that regularly hosts concerts and various events. It serves as an important gathering place for art and music enthusiasts in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        1.36144,
+                        44.024094
+                  ]
+            },
+            {
+                  "name": "Église de la Nativité-de-Notre-Dame",
+                  "text": "This Catholic church in Montauban is dedicated to the Nativity of the Virgin Mary. Visitors can experience the traditional religious architecture and the calm atmosphere of the city here.",
+                  "category": "religious",
+                  "coords": [
+                        1.321103,
+                        44.018743
+                  ]
+            },
+            {
+                  "name": "Marché Couvert Embarcadère",
+                  "text": "The Marché Couvert Embarcadère is a lively covered market in Montauban offering local products. Visitors can find fresh food and regional specialties here in an authentic setting.",
+                  "category": "cultural",
+                  "coords": [
+                        1.344904,
+                        44.016453
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "The Sainte-Thérèse Church is a significant religious building in the urban area of Montauban. It offers a place for reflection and impresses with its sacred design.",
+                  "category": "religious",
+                  "coords": [
+                        1.372596,
+                        44.008727
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Paix",
+                  "text": "The church of Notre-Dame-de-la-Paix in Montauban serves as a meeting place for the local parish. The building is an example of 20th-century sacred architecture in the region.",
+                  "category": "religious",
+                  "coords": [
+                        1.368879,
+                        44.020328
+                  ]
+            },
+            {
+                  "name": "Église Réformée Évangélique",
+                  "text": "This Reformed Evangelical church in Montauban reflects the Protestant history of the city. It is a simple place of prayer and is open to visitors during services.",
+                  "category": "religious",
+                  "coords": [
+                        1.350613,
+                        44.019847
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "The Saint-Jean Church in Montauban is a traditional place of worship with a welcoming atmosphere. The building blends harmoniously into the cityscape and invites quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        1.354529,
+                        44.021793
                   ]
             }
       ],
@@ -32948,7 +43136,1710 @@ const citySeeds: CitySeed[] = [
       fr: ["Narbonne a été fondée en 118 av. J.-C. sous le nom de Narbo Martius.", "La construction de la cathédrale a débuté en 1272, mais n'a jamais été achevée pour des raisons défensives.", "Le canal de la Robine est un embranchement de 32 kilomètres du canal du Midi.", "La Via Domitia n'a été redécouverte qu'en 1997 lors de travaux sur la place de l'Hôtel de Ville.", "L'Horreum est un entrepôt romain souterrain datant du Ier siècle av. J.-C.", "Narbonne était au Moyen Âge un centre majeur de l'exégèse et de la culture juive."],
     },
     image: "/poi-images/narbonne.webp",
-    "sights": {"de": [{"name": "Cathédrale Saint-Just-et-Saint-Pasteur", "text": "Diese unvollendete gotische Kathedrale aus dem 13. Jahrhundert beeindruckt durch eines der höchsten Kirchenschiffe Frankreichs.", "category": "religious", "confidence": "high", "coords": [3.003889, 43.184722]}, {"name": "Palais des Archevêques", "text": "Der monumentale Erzbischofspalast beherbergt heute das Rathaus sowie bedeutende Kunst- und Archäologiemuseen der Stadt Narbonne.", "category": "historical", "confidence": "high", "coords": [3.00374, 43.1842]}, {"name": "Horreum Romain", "text": "Einzigartige unterirdische Lagerräume aus der Römerzeit, die einen faszinierenden Einblick in das antike Handelszentrum bieten.", "category": "museum", "confidence": "high", "coords": [3.004627, 43.185779]}, {"name": "Les Halles de Narbonne", "text": "Diese prachtvolle schmiedeeiserne Markthalle aus dem Jahr 1901 gilt als einer der schönsten überdachten Märkte ganz Frankreichs.", "category": "culinary", "confidence": "high", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "Der zum UNESCO-Welterbe gehörende Kanal durchquert das Stadtzentrum und lädt zu entspannten Spaziergängen am Wasserufer ein.", "category": "recreational", "confidence": "high", "coords": [2.960833, 43.245]}, {"name": "Via Domitia", "text": "Überreste der ersten römischen Straße in Gallien, die direkt vor dem Rathaus auf dem Place de l'Hôtel de Ville freigelegt wurden.", "category": "historical", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Basilique Saint-Paul", "text": "Eine bedeutende frühgotische Basilika, die auf einer antiken christlichen Nekropole errichtet wurde und berühmte Kapitelle besitzt.", "category": "religious", "confidence": "high", "coords": [2.99931, 43.1816]}, {"name": "Narbo Via Museum", "text": "Ein modernes, von Norman Foster entworfenes Museum, das die reiche römische Geschichte der antiken Metropole Narbo Martius präsentiert.", "category": "museum", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Abbaye de Fontfroide", "text": "Eine prachtvolle ehemalige Zisterzienserabtei, bekannt für ihren gut erhaltenen Kreuzgang und Rosengarten.", "category": "monastic", "confidence": "high", "coords": [2.898336, 43.127372]}, {"name": "Pont des Marchands", "text": "Eine seltene mittelalterliche Brücke, die mit Häusern bebaut ist und den Canal de la Robine überquert.", "category": "historical", "confidence": "high", "coords": [3.003693, 43.183201]}, {"name": "Maison Natale de Charles Trenet", "text": "Das Geburtshaus des berühmten Sängers, heute ein Museum, das seinem Leben und Werk gewidmet ist.", "category": "cultural", "confidence": "high", "coords": [2.996542, 43.183884]}, {"name": "Donjon Gilles Aycelin", "text": "Ein massiver Wehrturm aus dem 13. Jahrhundert, der einen Panoramablick über Narbonne bietet.", "category": "fortress", "confidence": "high", "coords": [3.00389, 43.183808]}, {"name": "Notre-Dame de Lamourguier", "text": "Eine ehemalige gotische Kirche, die heute eine beeindruckende Sammlung römischer Steindenkmäler beherbergt.", "category": "museum", "confidence": "high", "coords": [3.00414, 43.18098]}, {"name": "Narbonne-Plage", "text": "Narbonne-Plage erstreckt sich weitläufig entlang des Mittelmeers und ist ein herrliches Ziel an der französischen Küste. Dieses ausgedehnte Sandufer lädt Besucher ein, sich aufregenden Wassersportarten hinzugeben oder einfach in einer entspannenden Atmosphäre die Seele baumeln zu lassen. Die lebendige Umgebung bietet ausreichend Platz für aktive Urlauber und Ruhesuchende gleichermaßen. Das Erkunden dieses Strandes in den hellen Sommermonaten verspricht einen unvergesslichen mediterranen Kurzurlaub.", "category": "recreational", "confidence": "high", "coords": [3.003611, 43.184722]}, {"name": "Massif de la Clape", "text": "Ein geschütztes Kalksteingebirge zwischen Stadt und Meer, bekannt für seine Wanderwege und Weinberge.", "category": "natural", "confidence": "high", "coords": [3.1, 43.1583]}, {"name": "Place de l'Hôtel de Ville", "text": "Der zentrale Platz der Stadt, auf dem Reste der antiken Via Domitia direkt vor dem Rathaus sichtbar sind.", "category": "civic", "confidence": "high", "coords": [3.004385, 43.183777]}, {"name": "Musée d'Art et d'Histoire", "text": "Im Erzbischofspalast gelegen, zeigt es bedeutende Sammlungen von Gemälden und dekorativer Kunst.", "category": "museum", "confidence": "high", "coords": [3.00382, 43.1837]}, {"name": "Eglise Saint-Sébastien", "text": "Eine charmante gotische Kirche aus dem 15. Jahrhundert mit einem eleganten Glockenturm im Stadtzentrum.", "category": "religious", "confidence": "high", "coords": [3.006884, 43.185983]}, {"name": "Bassin", "text": "Ein See in Narbonne, ideal für eine entspannte Zeit am Wasser.", "category": "natural", "coords": [2.973265, 43.215753]}, {"name": "B3 - CERS", "text": "Ein See in Narbonne, der die natürliche Landschaft bereichert.", "category": "natural", "coords": [2.984079, 43.210595]}, {"name": "Étang de Bages", "text": "Ein großer See bei Narbonne, bekannt für seine weite Wasserfläche.", "category": "natural", "coords": [2.999547, 43.109492]}], "hu": [{"name": "Szent Jusztusz és Szent Pasztor székesegyház", "text": "Ez a befejezetlen gótikus katedrális lenyűgöző méretű kórussal rendelkezik, amely az egyik legmagasabb egész Franciaországban.", "category": "religious", "confidence": "high", "coords": [3.003889, 43.184722]}, {"name": "Érseki palota", "text": "A monumentális épületegyüttes ma a városházának és múzeumoknak ad otthont, bemutatva Narbonne középkori hatalmát.", "category": "historical", "confidence": "high", "coords": [3.00374, 43.1842]}, {"name": "Római Horreum", "text": "Föld alatti folyosórendszer a római korból, amely egykor raktárként szolgált a város ókori kereskedelmi központjában.", "category": "museum", "confidence": "high", "coords": [3.004627, 43.185779]}, {"name": "Les Halles vásárcsarnok", "text": "A város híres, 1901-ben épült fedett piaca, ahol a régió legkiválóbb gasztronómiai termékeit és borait kóstolhatjuk meg.", "category": "culinary", "confidence": "high", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "Az UNESCO Világörökség részét képező csatorna partján platánsorok alatt sétálhatunk Narbonne történelmi központjában.", "category": "recreational", "confidence": "high", "coords": [2.960833, 43.245]}, {"name": "Via Domitia maradványok", "text": "Az ókori Galliát átszelő első római út feltárt szakasza közvetlenül a városháza előtti téren tekinthető meg.", "category": "historical", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Szent Pál-bazilika", "text": "A 12. századi bazilika egyike Dél-Franciaország legkorábbi gótikus épületeinek, egy ősi keresztény temető helyén épült.", "category": "religious", "confidence": "high", "coords": [2.99931, 43.1816]}, {"name": "Narbo Via múzeum", "text": "Új, ultramodern régészeti múzeum, amely Narbonne római kori örökségét és lenyűgöző kőfaragványait mutatja be.", "category": "museum", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Abbaye de Fontfroide", "text": "Pompás egykori ciszterci apátság, amely jól megőrzött keringőjéről és rózsakertjéről híres.", "category": "monastic", "confidence": "high", "coords": [2.898336, 43.127372]}, {"name": "Pont des Marchands", "text": "Ritka középkori híd, amelyre házak épültek, és a Canal de la Robine csatorna felett ível át.", "category": "historical", "confidence": "high", "coords": [3.003693, 43.183201]}, {"name": "Maison Natale de Charles Trenet", "text": "A híres énekes szülőháza, amely ma az életét és munkásságát bemutató múzeumként működik.", "category": "cultural", "confidence": "high", "coords": [2.996542, 43.183884]}, {"name": "Donjon Gilles Aycelin", "text": "Masszív, 13. századi védőtorony, ahonnan panorámás kilátás nyílik Narbonne-ra és környékére.", "category": "fortress", "confidence": "high", "coords": [3.00389, 43.183808]}, {"name": "Notre-Dame de Lamourguier", "text": "Egykori gótikus templom, amely ma római kori kőemlékek lenyűgöző gyűjteményének ad otthont.", "category": "museum", "confidence": "high", "coords": [3.00414, 43.18098]}, {"name": "Narbonne-Plage", "text": "A Földközi-tenger mentén szélesen elterülő Narbonne-Plage egy csodálatos úti cél a francia tengerparton. Ez a kiterjedt homokos part meghívja a látogatókat az izgalmas vízi sportok kipróbálására, vagy egyszerűen csak a pihentető légkörben való feltöltődésre. Az élettel teli környezet bőséges teret biztosít mind az aktív nyaralóknak, mind a tiszta kikapcsolódásra vágyóknak. Ennek a strandnak a felfedezése a világos nyári hónapokban igazán emlékezetes mediterrán kiruccanást ígér.", "category": "recreational", "confidence": "high", "coords": [3.003611, 43.184722]}, {"name": "Massif de la Clape", "text": "Védett mészkőhegység a város és a tenger között, túraútvonalairól és szőlőültetvényeiről ismert.", "category": "natural", "confidence": "high", "coords": [3.1, 43.1583]}, {"name": "Place de l'Hôtel de Ville", "text": "A város központi tere, ahol az ókori Via Domitia maradványai közvetlenül a városháza előtt láthatók.", "category": "civic", "confidence": "high", "coords": [3.004385, 43.183777]}, {"name": "Musée d'Art et d'Histoire", "text": "Az érseki palotában található múzeum, amely jelentős festmény- és díszítőművészeti gyűjteménnyel bír.", "category": "museum", "confidence": "high", "coords": [3.00382, 43.1837]}, {"name": "Eglise Saint-Sébastien", "text": "Bájos, 15. századi gótikus templom elegáns harangtoronnyal, Narbonne történelmi belvárosában.", "category": "religious", "confidence": "high", "coords": [3.006884, 43.185983]}, {"name": "Bassin", "text": "Egy tó Narbonne-ban, ideális a vízparti pihenéshez.", "category": "natural", "coords": [2.973265, 43.215753]}, {"name": "B3 - CERS", "text": "Egy tó Narbonne-ban, amely gazdagítja a természeti tájat.", "category": "natural", "coords": [2.984079, 43.210595]}, {"name": "Étang de Bages", "text": "Egy nagy tó Narbonne közelében, amely tágas vízfelületéről ismert.", "category": "natural", "coords": [2.999547, 43.109492]}], "ro": [{"name": "Catedrala Saint-Just-et-Saint-Pasteur", "text": "O capodoperă a goticului narbonez, faimoasă pentru corul său imens, rămasă neterminată din motive defensive în secolul XIV.", "category": "religious", "confidence": "high", "coords": [3.003889, 43.184722]}, {"name": "Palatul Arhiepiscopal", "text": "Un complex arhitectural impresionant care îmbină stilurile gotic și clasic, găzduind primăria și muzeul de artă al orașului.", "category": "historical", "confidence": "high", "coords": [3.00374, 43.1842]}, {"name": "Horreum Roman", "text": "Galerii subterane unice din secolul I î.Hr., folosite ca depozite în perioada în care Narbonne era o colonie romană prosperă.", "category": "museum", "confidence": "high", "coords": [3.004627, 43.185779]}, {"name": "Les Halles de Narbonne", "text": "Piața acoperită în stil Baltard, construită la începutul secolului XX, este inima gastronomică vibrantă a orașului Narbonne.", "category": "culinary", "confidence": "high", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "Inclus în patrimoniul UNESCO, acest canal pitoresc traversează orașul și oferă trasee superbe pentru plimbări pe sub platani.", "category": "recreational", "confidence": "high", "coords": [2.960833, 43.245]}, {"name": "Via Domitia", "text": "Vestigii ale primei rute romane construite în Galia, vizibile chiar în centrul Place de l'Hôtel de Ville din Narbonne.", "category": "historical", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Bazilica Saint-Paul", "text": "O biserică remarcabilă construită pe locul unei necropole romane, fiind unul dintre primele exemple de gotic din sudul Franței.", "category": "religious", "confidence": "high", "coords": [2.99931, 43.1816]}, {"name": "Muzeul Narbo Via", "text": "Un muzeu de arheologie spectaculos care expune mii de blocuri de piatră sculptate și obiecte din perioada romană a orașului.", "category": "museum", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Abbaye de Fontfroide", "text": "O fostă abație cisterciană magnifică, renumită pentru claustrul său bine conservat și grădina de trandafiri.", "category": "monastic", "confidence": "high", "coords": [2.898336, 43.127372]}, {"name": "Pont des Marchands", "text": "Un pod medieval rar, mărginit de case, care traversează canalul de la Robine în centrul orașului.", "category": "historical", "confidence": "high", "coords": [3.003693, 43.183201]}, {"name": "Maison Natale de Charles Trenet", "text": "Casa natală a faimosului cântăreț, astăzi un muzeu dedicat vieții și operei sale muzicale.", "category": "cultural", "confidence": "high", "coords": [2.996542, 43.183884]}, {"name": "Donjon Gilles Aycelin", "text": "Un turn defensiv masiv din secolul al XIII-lea, oferind vederi panoramice asupra orașului Narbonne.", "category": "fortress", "confidence": "high", "coords": [3.00389, 43.183808]}, {"name": "Notre-Dame de Lamourguier", "text": "O fostă biserică gotică care găzduiește acum o colecție impresionantă de monumente romane din piatră.", "category": "museum", "confidence": "high", "coords": [3.00414, 43.18098]}, {"name": "Narbonne-Plage", "text": "Întinzându-se larg de-a lungul Mării Mediterane, Narbonne-Plage este o destinație magnifică pe coasta franceză. Acest țărm vast de nisip invită vizitatorii să se bucure de sporturi nautice palpitante sau pur și simplu să se relaxeze într-o atmosferă calmă. Decorul vibrant asigură spațiu din plin atât pentru turiștii activi, cât și pentru cei care caută o relaxare totală. Explorarea acestei plaje în timpul lunilor luminoase de vară promite o evadare mediteraneană cu adevărat memorabilă.", "category": "recreational", "confidence": "high", "coords": [3.003611, 43.184722]}, {"name": "Massif de la Clape", "text": "Un masiv calcaros protejat între oraș și mare, cunoscut pentru traseele sale de drumeție și podgorii.", "category": "natural", "confidence": "high", "coords": [3.1, 43.1583]}, {"name": "Place de l'Hôtel de Ville", "text": "Piața centrală a orașului unde resturile anticei Via Domitia sunt vizibile chiar în fața primăriei.", "category": "civic", "confidence": "high", "coords": [3.004385, 43.183777]}, {"name": "Musée d'Art et d'Histoire", "text": "Situat în Palatul Arhiepiscopal, expune colecții semnificative de picturi și arte decorative.", "category": "museum", "confidence": "high", "coords": [3.00382, 43.1837]}, {"name": "Eglise Saint-Sébastien", "text": "O biserică gotică fermecătoare din secolul al XV-lea, cu un turn elegant cu clopot în centrul vechi.", "category": "religious", "confidence": "high", "coords": [3.006884, 43.185983]}, {"name": "Bassin", "text": "Un lac în Narbonne, ideal pentru un timp relaxant pe malul apei.", "category": "natural", "coords": [2.973265, 43.215753]}, {"name": "B3 - CERS", "text": "Un lac în Narbonne care îmbogățește peisajul natural.", "category": "natural", "coords": [2.984079, 43.210595]}, {"name": "Étang de Bages", "text": "Un lac mare lângă Narbonne, cunoscut pentru suprafața sa vastă de apă.", "category": "natural", "coords": [2.999547, 43.109492]}], "en": [{"name": "Saint-Just and Saint-Pasteur Cathedral", "text": "An ambitious 13th-century Gothic cathedral, famous for its towering choir which remains one of the highest in France.", "category": "religious", "confidence": "high", "coords": [3.003889, 43.184722]}, {"name": "Archbishops' Palace", "text": "A grand complex featuring the Old and New Palaces, now housing the Town Hall and fine arts and archaeology museums.", "category": "historical", "confidence": "high", "coords": [3.00374, 43.1842]}, {"name": "Roman Horreum", "text": "Ancient underground galleries dating back to the 1st century BC, originally used as a grain warehouse during Roman rule.", "category": "museum", "confidence": "high", "coords": [3.004627, 43.185779]}, {"name": "Les Halles de Narbonne", "text": "A stunning iron-framed covered market built in 1901, renowned as one of the best and most beautiful food markets in France.", "category": "culinary", "confidence": "high", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "A UNESCO World Heritage site that flows through the heart of Narbonne, lined with scenic paths and pleasure boats.", "category": "recreational", "confidence": "high", "coords": [2.960833, 43.245]}, {"name": "Via Domitia", "text": "An excavated section of the first Roman road in Gaul, discovered in 1997 in the center of the City Hall square.", "category": "historical", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Basilica of Saint Paul", "text": "A beautiful Romanesque-Gothic church built over an early Christian cemetery, featuring a famous 'frog' stoup in its interior.", "category": "religious", "confidence": "high", "coords": [2.99931, 43.1816]}, {"name": "Narbo Via Museum", "text": "A world-class archaeological museum designed by Norman Foster, showcasing the city's prestigious Roman past.", "category": "museum", "confidence": "high", "coords": [3.004218, 43.183767]}, {"name": "Abbaye de Fontfroide", "text": "A magnificent former Cistercian abbey, famous for its well-preserved cloister and rose garden.", "category": "monastic", "confidence": "high", "coords": [2.898336, 43.127372]}, {"name": "Pont des Marchands", "text": "A rare medieval bridge lined with houses, spanning the Canal de la Robine in the city center.", "category": "historical", "confidence": "high", "coords": [3.003693, 43.183201]}, {"name": "Maison Natale de Charles Trenet", "text": "The birthplace of the famous singer, now a museum dedicated to his life and musical work.", "category": "cultural", "confidence": "high", "coords": [2.996542, 43.183884]}, {"name": "Donjon Gilles Aycelin", "text": "A massive 13th-century defensive tower offering panoramic views over Narbonne and its surroundings.", "category": "fortress", "confidence": "high", "coords": [3.00389, 43.183808]}, {"name": "Notre-Dame de Lamourguier", "text": "A former Gothic church that now houses an impressive collection of Roman stone monuments.", "category": "museum", "confidence": "high", "coords": [3.00414, 43.18098]}, {"name": "Narbonne-Plage", "text": "Stretching broadly along the Mediterranean Sea, Narbonne-Plage is a magnificent destination on the French coast. This expansive sandy shore invites visitors to indulge in thrilling water sports or simply unwind in a relaxing atmosphere. The vibrant setting ensures plenty of space for both active vacationers and those seeking pure relaxation. Exploring this beach during the bright summer months promises a truly memorable Mediterranean getaway.", "category": "recreational", "confidence": "high", "coords": [3.003611, 43.184722]}, {"name": "Massif de la Clape", "text": "A protected limestone massif between city and sea, known for its hiking trails and vineyards.", "category": "natural", "confidence": "high", "coords": [3.1, 43.1583]}, {"name": "Place de l'Hôtel de Ville", "text": "The city's central square where remains of the ancient Via Domitia are visible right in front of the town hall.", "category": "civic", "confidence": "high", "coords": [3.004385, 43.183777]}, {"name": "Musée d'Art et d'Histoire", "text": "Located in the Archbishop's Palace, it displays significant collections of paintings and decorative arts.", "category": "museum", "confidence": "high", "coords": [3.00382, 43.1837]}, {"name": "Eglise Saint-Sébastien", "text": "A charming 15th-century Gothic church with an elegant bell tower in the historic city center.", "category": "religious", "confidence": "high", "coords": [3.006884, 43.185983]}, {"name": "Bassin", "text": "A lake in Narbonne, ideal for a relaxed time by the water.", "category": "natural", "coords": [2.973265, 43.215753]}, {"name": "B3 - CERS", "text": "A lake in Narbonne that enriches the natural landscape.", "category": "natural", "coords": [2.984079, 43.210595]}, {"name": "Étang de Bages", "text": "A large lake near Narbonne, known for its wide expanse of water.", "category": "natural", "coords": [2.999547, 43.109492]}], "fr": [{"name": "Cathédrale Saint-Just-et-Saint-Pasteur", "text": "Cette cathédrale gothique inachevée du XIIIe siècle se distingue par l'une des voûtes les plus hautes de France.", "category": "religious", "coords": [3.003889, 43.184722]}, {"name": "Palais des Archevêques", "text": "Cet ancien palais épiscopal monumental abrite aujourd'hui l'hôtel de ville ainsi que des musées d'art et d'archéologie.", "category": "historical", "coords": [3.00374, 43.1842]}, {"name": "Horreum Romain", "text": "Des entrepôts souterrains uniques datant de l'époque romaine, offrant un aperçu fascinant du commerce antique.", "category": "museum", "coords": [3.004627, 43.185779]}, {"name": "Les Halles de Narbonne", "text": "Splendide halle de style Baltard datant de 1901, considérée comme l'un des plus beaux marchés couverts de France.", "category": "culinary", "coords": [3.0051, 43.18116]}, {"name": "Canal de la Robine", "text": "Classé au patrimoine mondial de l'UNESCO, ce canal traverse le centre-ville et invite à la promenade le long de ses quais.", "category": "recreational", "coords": [2.960833, 43.245]}, {"name": "Via Domitia", "text": "Vestiges de la première voie romaine en Gaule, découverts et mis en valeur face à l'hôtel de ville.", "category": "historical", "coords": [3.004218, 43.183767]}, {"name": "Basilique Saint-Paul", "text": "Importante basilique protogothique bâtie sur une nécropole paléochrétienne, célèbre pour ses chapiteaux sculptés.", "category": "religious", "coords": [2.99931, 43.1816]}, {"name": "Narbo Via Museum", "text": "Musée moderne conçu par Norman Foster, présentant la riche histoire romaine de l'antique cité de Narbo Martius.", "category": "museum", "coords": [3.004218, 43.183767]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Saint-Just-et-Saint-Pasteur",
+                  "text": "Diese unvollendete gotische Kathedrale aus dem 13. Jahrhundert beeindruckt durch eines der höchsten Kirchenschiffe Frankreichs.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.003889,
+                        43.184722
+                  ]
+            },
+            {
+                  "name": "Palais des Archevêques",
+                  "text": "Der monumentale Erzbischofspalast beherbergt heute das Rathaus sowie bedeutende Kunst- und Archäologiemuseen der Stadt Narbonne.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.00374,
+                        43.1842
+                  ]
+            },
+            {
+                  "name": "Horreum Romain",
+                  "text": "Einzigartige unterirdische Lagerräume aus der Römerzeit, die einen faszinierenden Einblick in das antike Handelszentrum bieten.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.004627,
+                        43.185779
+                  ]
+            },
+            {
+                  "name": "Les Halles de Narbonne",
+                  "text": "Diese prachtvolle schmiedeeiserne Markthalle aus dem Jahr 1901 gilt als einer der schönsten überdachten Märkte ganz Frankreichs.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        3.0051,
+                        43.18116
+                  ]
+            },
+            {
+                  "name": "Canal de la Robine",
+                  "text": "Der zum UNESCO-Welterbe gehörende Kanal durchquert das Stadtzentrum und lädt zu entspannten Spaziergängen am Wasserufer ein.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        2.960833,
+                        43.245
+                  ]
+            },
+            {
+                  "name": "Via Domitia",
+                  "text": "Überreste der ersten römischen Straße in Gallien, die direkt vor dem Rathaus auf dem Place de l'Hôtel de Ville freigelegt wurden.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Paul",
+                  "text": "Eine bedeutende frühgotische Basilika, die auf einer antiken christlichen Nekropole errichtet wurde und berühmte Kapitelle besitzt.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        2.99931,
+                        43.1816
+                  ]
+            },
+            {
+                  "name": "Narbo Via Museum",
+                  "text": "Ein modernes, von Norman Foster entworfenes Museum, das die reiche römische Geschichte der antiken Metropole Narbo Martius präsentiert.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            },
+            {
+                  "name": "Abbaye de Fontfroide",
+                  "text": "Eine prachtvolle ehemalige Zisterzienserabtei, bekannt für ihren gut erhaltenen Kreuzgang und Rosengarten.",
+                  "category": "monastic",
+                  "confidence": "high",
+                  "coords": [
+                        2.898336,
+                        43.127372
+                  ]
+            },
+            {
+                  "name": "Pont des Marchands",
+                  "text": "Eine seltene mittelalterliche Brücke, die mit Häusern bebaut ist und den Canal de la Robine überquert.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.003693,
+                        43.183201
+                  ]
+            },
+            {
+                  "name": "Maison Natale de Charles Trenet",
+                  "text": "Das Geburtshaus des berühmten Sängers, heute ein Museum, das seinem Leben und Werk gewidmet ist.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.996542,
+                        43.183884
+                  ]
+            },
+            {
+                  "name": "Donjon Gilles Aycelin",
+                  "text": "Ein massiver Wehrturm aus dem 13. Jahrhundert, der einen Panoramablick über Narbonne bietet.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        3.00389,
+                        43.183808
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Lamourguier",
+                  "text": "Eine ehemalige gotische Kirche, die heute eine beeindruckende Sammlung römischer Steindenkmäler beherbergt.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.00414,
+                        43.18098
+                  ]
+            },
+            {
+                  "name": "Narbonne-Plage",
+                  "text": "Narbonne-Plage erstreckt sich weitläufig entlang des Mittelmeers und ist ein herrliches Ziel an der französischen Küste. Dieses ausgedehnte Sandufer lädt Besucher ein, sich aufregenden Wassersportarten hinzugeben oder einfach in einer entspannenden Atmosphäre die Seele baumeln zu lassen. Die lebendige Umgebung bietet ausreichend Platz für aktive Urlauber und Ruhesuchende gleichermaßen. Das Erkunden dieses Strandes in den hellen Sommermonaten verspricht einen unvergesslichen mediterranen Kurzurlaub.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.003611,
+                        43.184722
+                  ]
+            },
+            {
+                  "name": "Massif de la Clape",
+                  "text": "Ein geschütztes Kalksteingebirge zwischen Stadt und Meer, bekannt für seine Wanderwege und Weinberge.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.1,
+                        43.1583
+                  ]
+            },
+            {
+                  "name": "Place de l'Hôtel de Ville",
+                  "text": "Der zentrale Platz der Stadt, auf dem Reste der antiken Via Domitia direkt vor dem Rathaus sichtbar sind.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.004385,
+                        43.183777
+                  ]
+            },
+            {
+                  "name": "Musée d'Art et d'Histoire",
+                  "text": "Im Erzbischofspalast gelegen, zeigt es bedeutende Sammlungen von Gemälden und dekorativer Kunst.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.00382,
+                        43.1837
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Sébastien",
+                  "text": "Eine charmante gotische Kirche aus dem 15. Jahrhundert mit einem eleganten Glockenturm im Stadtzentrum.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.006884,
+                        43.185983
+                  ]
+            },
+            {
+                  "name": "Bassin",
+                  "text": "Ein See in Narbonne, ideal für eine entspannte Zeit am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        2.973265,
+                        43.215753
+                  ]
+            },
+            {
+                  "name": "B3 - CERS",
+                  "text": "Ein See in Narbonne, der die natürliche Landschaft bereichert.",
+                  "category": "natural",
+                  "coords": [
+                        2.984079,
+                        43.210595
+                  ]
+            },
+            {
+                  "name": "Étang de Bages",
+                  "text": "Ein großer See bei Narbonne, bekannt für seine weite Wasserfläche.",
+                  "category": "natural",
+                  "coords": [
+                        2.999547,
+                        43.109492
+                  ]
+            },
+            {
+                  "name": "Vestiges archéologiques du Clos de la Lombarde",
+                  "text": "Diese archäologische Stätte in Narbonne bewahrt die Überreste antiker römischer Häuser und Werkstätten. Sie bietet bedeutende Einblicke in das römische Stadtleben in der Provinz Narbonensis.",
+                  "category": "historical",
+                  "coords": [
+                        3.010241,
+                        43.189981
+                  ]
+            },
+            {
+                  "name": "Narbo Via",
+                  "text": "Narbo Via ist ein bedeutendes archäologisches Museum in Narbonne, das der römischen Geschichte der Stadt gewidmet ist. Es zeigt eine beeindruckende Sammlung antiker Steine und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        3.01892,
+                        43.178889
+                  ]
+            },
+            {
+                  "name": "Musée du téléphone",
+                  "text": "Das Telefonmuseum in Narbonne zeigt die Entwicklung der Telekommunikationsgeräte. Besucher können eine historische Sammlung von Telefonen aus verschiedenen Epochen erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        3.004061,
+                        43.187487
+                  ]
+            },
+            {
+                  "name": "Théâtre Scène Nationale",
+                  "text": "Das Théâtre Scène Nationale in Narbonne ist ein erstklassiger Veranstaltungsort für verschiedene darstellende Künste. Es finden hier hochwertige Theaterstücke, Tanzaufführungen und Musikkonzerte statt.",
+                  "category": "cultural",
+                  "coords": [
+                        3.014801,
+                        43.179868
+                  ]
+            },
+            {
+                  "name": "Square Thérèse Léon Blum",
+                  "text": "Dieser öffentliche Platz und Park in Narbonne bietet eine Grünfläche zur Entspannung in der Stadt. Er ist ein friedlicher Ort für Einwohner und Touristen, um das Freie zu genießen.",
+                  "category": "park",
+                  "coords": [
+                        3.00807,
+                        43.18757
+                  ]
+            },
+            {
+                  "name": "Parc de la Campane",
+                  "text": "Der Parc de la Campane ist ein malerischer Park in Narbonne mit landschaftlich gestalteten Gärten. Er bietet eine Flucht in die Natur und Freizeitmöglichkeiten innerhalb der Gemeinde.",
+                  "category": "park",
+                  "coords": [
+                        2.965043,
+                        43.187873
+                  ]
+            },
+            {
+                  "name": "Jardin des Vicomtes",
+                  "text": "Der Jardin des Vicomtes ist eine historische Gartenanlage in der Stadt Narbonne. Er ist ein idealer Ort für einen ruhigen Spaziergang und zur Bewunderung der lokalen Flora.",
+                  "category": "park",
+                  "coords": [
+                        3.003312,
+                        43.185983
+                  ]
+            },
+            {
+                  "name": "Lutin Park",
+                  "text": "Lutin Park ist eine Freizeitattraktion in Narbonne, die für die Unterhaltung der Familie konzipiert wurde. Er bietet verschiedene Aktivitäten und Spielbereiche für Kinder und Erwachsene.",
+                  "category": "landmark",
+                  "coords": [
+                        3.007031,
+                        43.181736
+                  ]
+            },
+            {
+                  "name": "Ruine des Fours à Chaux",
+                  "text": "Diese Ruinen ehemaliger Kalköfen sind ein industrielles Erbe in Narbonne. Sie repräsentieren die Geschichte der traditionellen Baustoffproduktion in der Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        2.975856,
+                        43.170811
+                  ]
+            },
+            {
+                  "name": "Porte d'Espagne",
+                  "text": "Die Porte d'Espagne ist ein historisches Wahrzeichen und eine Attraktion in Narbonne. Sie markiert eine Stelle der ehemaligen Stadtbefestigung und ist ein Anziehungspunkt für Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        3.000243,
+                        43.183156
+                  ]
+            },
+            {
+                  "name": "Bagatelle",
+                  "text": "Bagatelle bezieht sich auf archäologische Ruinen in der Nähe von Narbonne. Diese Überreste tragen zum Verständnis der historischen Siedlungsmuster der Region bei.",
+                  "category": "historical",
+                  "coords": [
+                        2.973281,
+                        43.17106
+                  ]
+            },
+            {
+                  "name": "OT Narbonne",
+                  "text": "Dieser Ort in Narbonne dient als Aussichtspunkt über die Stadt und ihre Umgebung. Er ist ein großartiger Ort zum Fotografieren und um das Panorama zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        3.002243,
+                        43.18412
+                  ]
+            },
+            {
+                  "name": "Ancien télégraphe de Montredon",
+                  "text": "Diese Ruinen sind die Überreste einer alten optischen Telegrafenstation von Chappe in Narbonne. Es ist ein interessanter Ort für alle, die sich für die Geschichte der Kommunikation interessieren.",
+                  "category": "historical",
+                  "coords": [
+                        2.957123,
+                        43.183164
+                  ]
+            },
+            {
+                  "name": "La Grèce",
+                  "text": "La Grèce bezieht sich auf historische Ruinen in der Gegend von Narbonne. Diese baulichen Überreste bieten eine physische Verbindung zur vergangenen Entwicklung des Gebiets.",
+                  "category": "historical",
+                  "coords": [
+                        2.969248,
+                        43.166053
+                  ]
+            },
+            {
+                  "name": "Église Saint-Bonaventure",
+                  "text": "Diese Kirche ist eine lokale Gebetsstätte in Narbonne, die dem Heiligen Bonaventura gewidmet ist. Sie weist eine typische religiöse Architektur auf und dient der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        2.99492,
+                        43.18546
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Saint-Pierre",
+                  "text": "Die Kirche Saint-Jean-Saint-Pierre ist ein religiöses Gebäude und eine Gebetsstätte in Narbonne. Sie ist Teil des pfarrlichen Netzwerks der Stadt und lädt zum Gebet ein.",
+                  "category": "religious",
+                  "coords": [
+                        2.979722,
+                        43.184459
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Grâces",
+                  "text": "Diese auch als Kapelle der Weißen Büßer bekannte Stätte in Narbonne ist eine bemerkenswerte Gebetsstätte. Sie ist für ihre historische Bruderschaft und ihr künstlerisches Inneres bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        3.002816,
+                        43.181007
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Thérèse",
+                  "text": "Diese kleine Kapelle in Narbonne ist der Heiligen Thérèse gewidmet und dient als Gebetsstätte. Sie bietet einen ruhigen und intimen Rahmen für religiöse Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        3.016563,
+                        43.195016
+                  ]
+            },
+            {
+                  "name": "Temple de Narbonne",
+                  "text": "Der Temple de Narbonne ist eine Gebetsstätte für die örtliche protestantische Gemeinde. Er weist ein schlichtes und elegantes Design auf, das für reformierte Sakralbauten charakteristisch ist.",
+                  "category": "religious",
+                  "coords": [
+                        3.00675,
+                        43.189217
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Bernadette",
+                  "text": "Diese moderne Kirche in Narbonne dient als Gebetsstätte, die der Heiligen Bernadette gewidmet ist. Sie dient den spirituellen Bedürfnissen des Viertels und der Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        3.016185,
+                        43.183897
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Champs",
+                  "text": "Diese Kultstätte befindet sich in der Stadt Narbonne. Sie bietet einen ruhigen Ort für Besinnung und lokale Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        3.011319,
+                        43.188423
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Die Église des Carmes ist eine historische Kirche in Narbonne. Besucher können ihre traditionelle Architektur bewundern, während sie das Stadtzentrum erkunden.",
+                  "category": "religious",
+                  "coords": [
+                        3.000234,
+                        43.184263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szent Jusztusz és Szent Pasztor székesegyház",
+                  "text": "Ez a befejezetlen gótikus katedrális lenyűgöző méretű kórussal rendelkezik, amely az egyik legmagasabb egész Franciaországban.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.003889,
+                        43.184722
+                  ]
+            },
+            {
+                  "name": "Érseki palota",
+                  "text": "A monumentális épületegyüttes ma a városházának és múzeumoknak ad otthont, bemutatva Narbonne középkori hatalmát.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.00374,
+                        43.1842
+                  ]
+            },
+            {
+                  "name": "Római Horreum",
+                  "text": "Föld alatti folyosórendszer a római korból, amely egykor raktárként szolgált a város ókori kereskedelmi központjában.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.004627,
+                        43.185779
+                  ]
+            },
+            {
+                  "name": "Les Halles vásárcsarnok",
+                  "text": "A város híres, 1901-ben épült fedett piaca, ahol a régió legkiválóbb gasztronómiai termékeit és borait kóstolhatjuk meg.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        3.0051,
+                        43.18116
+                  ]
+            },
+            {
+                  "name": "Canal de la Robine",
+                  "text": "Az UNESCO Világörökség részét képező csatorna partján platánsorok alatt sétálhatunk Narbonne történelmi központjában.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        2.960833,
+                        43.245
+                  ]
+            },
+            {
+                  "name": "Via Domitia maradványok",
+                  "text": "Az ókori Galliát átszelő első római út feltárt szakasza közvetlenül a városháza előtti téren tekinthető meg.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            },
+            {
+                  "name": "Szent Pál-bazilika",
+                  "text": "A 12. századi bazilika egyike Dél-Franciaország legkorábbi gótikus épületeinek, egy ősi keresztény temető helyén épült.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        2.99931,
+                        43.1816
+                  ]
+            },
+            {
+                  "name": "Narbo Via múzeum",
+                  "text": "Új, ultramodern régészeti múzeum, amely Narbonne római kori örökségét és lenyűgöző kőfaragványait mutatja be.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            },
+            {
+                  "name": "Abbaye de Fontfroide",
+                  "text": "Pompás egykori ciszterci apátság, amely jól megőrzött keringőjéről és rózsakertjéről híres.",
+                  "category": "monastic",
+                  "confidence": "high",
+                  "coords": [
+                        2.898336,
+                        43.127372
+                  ]
+            },
+            {
+                  "name": "Pont des Marchands",
+                  "text": "Ritka középkori híd, amelyre házak épültek, és a Canal de la Robine csatorna felett ível át.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.003693,
+                        43.183201
+                  ]
+            },
+            {
+                  "name": "Maison Natale de Charles Trenet",
+                  "text": "A híres énekes szülőháza, amely ma az életét és munkásságát bemutató múzeumként működik.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.996542,
+                        43.183884
+                  ]
+            },
+            {
+                  "name": "Donjon Gilles Aycelin",
+                  "text": "Masszív, 13. századi védőtorony, ahonnan panorámás kilátás nyílik Narbonne-ra és környékére.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        3.00389,
+                        43.183808
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Lamourguier",
+                  "text": "Egykori gótikus templom, amely ma római kori kőemlékek lenyűgöző gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.00414,
+                        43.18098
+                  ]
+            },
+            {
+                  "name": "Narbonne-Plage",
+                  "text": "A Földközi-tenger mentén szélesen elterülő Narbonne-Plage egy csodálatos úti cél a francia tengerparton. Ez a kiterjedt homokos part meghívja a látogatókat az izgalmas vízi sportok kipróbálására, vagy egyszerűen csak a pihentető légkörben való feltöltődésre. Az élettel teli környezet bőséges teret biztosít mind az aktív nyaralóknak, mind a tiszta kikapcsolódásra vágyóknak. Ennek a strandnak a felfedezése a világos nyári hónapokban igazán emlékezetes mediterrán kiruccanást ígér.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.003611,
+                        43.184722
+                  ]
+            },
+            {
+                  "name": "Massif de la Clape",
+                  "text": "Védett mészkőhegység a város és a tenger között, túraútvonalairól és szőlőültetvényeiről ismert.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.1,
+                        43.1583
+                  ]
+            },
+            {
+                  "name": "Place de l'Hôtel de Ville",
+                  "text": "A város központi tere, ahol az ókori Via Domitia maradványai közvetlenül a városháza előtt láthatók.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.004385,
+                        43.183777
+                  ]
+            },
+            {
+                  "name": "Musée d'Art et d'Histoire",
+                  "text": "Az érseki palotában található múzeum, amely jelentős festmény- és díszítőművészeti gyűjteménnyel bír.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.00382,
+                        43.1837
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Sébastien",
+                  "text": "Bájos, 15. századi gótikus templom elegáns harangtoronnyal, Narbonne történelmi belvárosában.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.006884,
+                        43.185983
+                  ]
+            },
+            {
+                  "name": "Bassin",
+                  "text": "Egy tó Narbonne-ban, ideális a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        2.973265,
+                        43.215753
+                  ]
+            },
+            {
+                  "name": "B3 - CERS",
+                  "text": "Egy tó Narbonne-ban, amely gazdagítja a természeti tájat.",
+                  "category": "natural",
+                  "coords": [
+                        2.984079,
+                        43.210595
+                  ]
+            },
+            {
+                  "name": "Étang de Bages",
+                  "text": "Egy nagy tó Narbonne közelében, amely tágas vízfelületéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        2.999547,
+                        43.109492
+                  ]
+            },
+            {
+                  "name": "Vestiges archéologiques du Clos de la Lombarde",
+                  "text": "Ez a Narbonne-i régészeti lelőhely ókori római házak és műhelyek maradványait őrzi. Jelentős betekintést nyújt a Narbonensis tartomány római városi életébe.",
+                  "category": "historical",
+                  "coords": [
+                        3.010241,
+                        43.189981
+                  ]
+            },
+            {
+                  "name": "Narbo Via",
+                  "text": "A Narbo Via egy jelentős régészeti múzeum Narbonne-ban, amelyet a város római kori történelmének szenteltek. Ókori kövek és műtárgyak lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.01892,
+                        43.178889
+                  ]
+            },
+            {
+                  "name": "Musée du téléphone",
+                  "text": "A Narbonne-i Telefonmúzeum a távközlési eszközök fejlődését mutatja be. A látogatók különböző korszakokból származó telefonok történelmi gyűjteményét fedezhetik fel.",
+                  "category": "museum",
+                  "coords": [
+                        3.004061,
+                        43.187487
+                  ]
+            },
+            {
+                  "name": "Théâtre Scène Nationale",
+                  "text": "A Narbonne-i Théâtre Scène Nationale a különféle előadóművészetek elsőrangú helyszíne. Kiváló minőségű színdaraboknak, táncelőadásoknak és zenei koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        3.014801,
+                        43.179868
+                  ]
+            },
+            {
+                  "name": "Square Thérèse Léon Blum",
+                  "text": "Ez a Narbonne-i nyilvános tér és park zöldövezetet kínál a pihenéshez a városban. Békés hely a lakosok és a turisták számára a szabadban való kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        3.00807,
+                        43.18757
+                  ]
+            },
+            {
+                  "name": "Parc de la Campane",
+                  "text": "A Parc de la Campane egy festői park Narbonne-ban, parkosított kertekkel. Természetközeli kikapcsolódást és szabadidős lehetőségeket kínál a településen belül.",
+                  "category": "park",
+                  "coords": [
+                        2.965043,
+                        43.187873
+                  ]
+            },
+            {
+                  "name": "Jardin des Vicomtes",
+                  "text": "A Jardin des Vicomtes egy történelmi kert Narbonne városában. Ideális hely egy csendes sétához és a helyi flóra megcsodálásához.",
+                  "category": "park",
+                  "coords": [
+                        3.003312,
+                        43.185983
+                  ]
+            },
+            {
+                  "name": "Lutin Park",
+                  "text": "A Lutin Park egy szabadidős látványosság Narbonne-ban, amelyet családi szórakozásra terveztek. Különféle tevékenységeket és játszótereket kínál gyermekek és felnőttek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        3.007031,
+                        43.181736
+                  ]
+            },
+            {
+                  "name": "Ruine des Fours à Chaux",
+                  "text": "Ezek az egykori mészégetők romjai Narbonne ipari örökségének részei. A hagyományos építőanyag-gyártás történetét képviselik a környéken.",
+                  "category": "historical",
+                  "coords": [
+                        2.975856,
+                        43.170811
+                  ]
+            },
+            {
+                  "name": "Porte d'Espagne",
+                  "text": "A Porte d'Espagne egy történelmi látnivaló Narbonne-ban. Az egykori városi erődítmények helyét jelzi, és érdekes pont a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        3.000243,
+                        43.183156
+                  ]
+            },
+            {
+                  "name": "Bagatelle",
+                  "text": "A Bagatelle régészeti romokra utal Narbonne környékén. Ezek a maradványok hozzájárulnak a régió történelmi településszerkezetének megértéséhez.",
+                  "category": "historical",
+                  "coords": [
+                        2.973281,
+                        43.17106
+                  ]
+            },
+            {
+                  "name": "OT Narbonne",
+                  "text": "Ez a Narbonne-i helyszín festői kilátópontként szolgál a városra és környékére. Kiváló hely fotózáshoz és a panoráma élvezetéhez.",
+                  "category": "natural",
+                  "coords": [
+                        3.002243,
+                        43.18412
+                  ]
+            },
+            {
+                  "name": "Ancien télégraphe de Montredon",
+                  "text": "Ezek a romok egy régi Chappe-féle optikai távíróállomás maradványai Narbonne-ban. Érdekes helyszín a hírközlés története iránt érdeklődők számára.",
+                  "category": "historical",
+                  "coords": [
+                        2.957123,
+                        43.183164
+                  ]
+            },
+            {
+                  "name": "La Grèce",
+                  "text": "A La Grèce történelmi romokra utal Narbonne környékén. Ezek az építészeti maradványok fizikai kapcsolatot jelentenek a helyi terület múltbeli fejlődésével.",
+                  "category": "historical",
+                  "coords": [
+                        2.969248,
+                        43.166053
+                  ]
+            },
+            {
+                  "name": "Église Saint-Bonaventure",
+                  "text": "Ez a templom egy Szent Bonaventúrának szentelt helyi vallási helyszín Narbonne-ban. Tipikus egyházi építészettel rendelkezik, és a közösség lelki igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        2.99492,
+                        43.18546
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Saint-Pierre",
+                  "text": "A Saint-Jean-Saint-Pierre templom egy vallási épület és vallási helyszín Narbonne-ban. A város plébániai hálózatának része, és imádságra várja a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        2.979722,
+                        43.184459
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Grâces",
+                  "text": "A fehér bűnbánók kápolnájaként is ismert helyszín Narbonne-ban egy figyelemre méltó vallási hely. Történelmi testvériségéről és művészi belső teréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        3.002816,
+                        43.181007
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Thérèse",
+                  "text": "Ez a kis kápolna egy Szent Teréznek szentelt vallási helyszín Narbonne-ban. Csendes és meghitt környezetet biztosít a vallási áhítathoz.",
+                  "category": "religious",
+                  "coords": [
+                        3.016563,
+                        43.195016
+                  ]
+            },
+            {
+                  "name": "Temple de Narbonne",
+                  "text": "A Narbonne-i templom a helyi protestáns közösség vallási helyszíne. Egyszerű és elegáns kialakítással rendelkezik, amely jellemző a református vallási épületekre.",
+                  "category": "religious",
+                  "coords": [
+                        3.00675,
+                        43.189217
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Bernadette",
+                  "text": "Ez a modern Narbonne-i templom Szent Bernadettnek szentelt vallási helyszínként működik. A helyi környék és a látogatók lelki igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        3.016185,
+                        43.183897
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Champs",
+                  "text": "Ez az istentiszteleti hely Narbonne városában található. Csendes teret kínál az elmélkedéshez és a helyi vallási szertatásokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        3.011319,
+                        43.188423
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Az Église des Carmes egy történelmi templom Narbonne-ban. A látogatók megcsodálhatják hagyományos építészetét, miközben felfedezik a városközpontot.",
+                  "category": "religious",
+                  "coords": [
+                        3.000234,
+                        43.184263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Saint-Just-et-Saint-Pasteur",
+                  "text": "O capodoperă a goticului narbonez, faimoasă pentru corul său imens, rămasă neterminată din motive defensive în secolul XIV.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.003889,
+                        43.184722
+                  ]
+            },
+            {
+                  "name": "Palatul Arhiepiscopal",
+                  "text": "Un complex arhitectural impresionant care îmbină stilurile gotic și clasic, găzduind primăria și muzeul de artă al orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.00374,
+                        43.1842
+                  ]
+            },
+            {
+                  "name": "Horreum Roman",
+                  "text": "Galerii subterane unice din secolul I î.Hr., folosite ca depozite în perioada în care Narbonne era o colonie romană prosperă.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.004627,
+                        43.185779
+                  ]
+            },
+            {
+                  "name": "Les Halles de Narbonne",
+                  "text": "Piața acoperită în stil Baltard, construită la începutul secolului XX, este inima gastronomică vibrantă a orașului Narbonne.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        3.0051,
+                        43.18116
+                  ]
+            },
+            {
+                  "name": "Canal de la Robine",
+                  "text": "Inclus în patrimoniul UNESCO, acest canal pitoresc traversează orașul și oferă trasee superbe pentru plimbări pe sub platani.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        2.960833,
+                        43.245
+                  ]
+            },
+            {
+                  "name": "Via Domitia",
+                  "text": "Vestigii ale primei rute romane construite în Galia, vizibile chiar în centrul Place de l'Hôtel de Ville din Narbonne.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            },
+            {
+                  "name": "Bazilica Saint-Paul",
+                  "text": "O biserică remarcabilă construită pe locul unei necropole romane, fiind unul dintre primele exemple de gotic din sudul Franței.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        2.99931,
+                        43.1816
+                  ]
+            },
+            {
+                  "name": "Muzeul Narbo Via",
+                  "text": "Un muzeu de arheologie spectaculos care expune mii de blocuri de piatră sculptate și obiecte din perioada romană a orașului.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            },
+            {
+                  "name": "Abbaye de Fontfroide",
+                  "text": "O fostă abație cisterciană magnifică, renumită pentru claustrul său bine conservat și grădina de trandafiri.",
+                  "category": "monastic",
+                  "confidence": "high",
+                  "coords": [
+                        2.898336,
+                        43.127372
+                  ]
+            },
+            {
+                  "name": "Pont des Marchands",
+                  "text": "Un pod medieval rar, mărginit de case, care traversează canalul de la Robine în centrul orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.003693,
+                        43.183201
+                  ]
+            },
+            {
+                  "name": "Maison Natale de Charles Trenet",
+                  "text": "Casa natală a faimosului cântăreț, astăzi un muzeu dedicat vieții și operei sale muzicale.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.996542,
+                        43.183884
+                  ]
+            },
+            {
+                  "name": "Donjon Gilles Aycelin",
+                  "text": "Un turn defensiv masiv din secolul al XIII-lea, oferind vederi panoramice asupra orașului Narbonne.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        3.00389,
+                        43.183808
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Lamourguier",
+                  "text": "O fostă biserică gotică care găzduiește acum o colecție impresionantă de monumente romane din piatră.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.00414,
+                        43.18098
+                  ]
+            },
+            {
+                  "name": "Narbonne-Plage",
+                  "text": "Întinzându-se larg de-a lungul Mării Mediterane, Narbonne-Plage este o destinație magnifică pe coasta franceză. Acest țărm vast de nisip invită vizitatorii să se bucure de sporturi nautice palpitante sau pur și simplu să se relaxeze într-o atmosferă calmă. Decorul vibrant asigură spațiu din plin atât pentru turiștii activi, cât și pentru cei care caută o relaxare totală. Explorarea acestei plaje în timpul lunilor luminoase de vară promite o evadare mediteraneană cu adevărat memorabilă.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.003611,
+                        43.184722
+                  ]
+            },
+            {
+                  "name": "Massif de la Clape",
+                  "text": "Un masiv calcaros protejat între oraș și mare, cunoscut pentru traseele sale de drumeție și podgorii.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.1,
+                        43.1583
+                  ]
+            },
+            {
+                  "name": "Place de l'Hôtel de Ville",
+                  "text": "Piața centrală a orașului unde resturile anticei Via Domitia sunt vizibile chiar în fața primăriei.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.004385,
+                        43.183777
+                  ]
+            },
+            {
+                  "name": "Musée d'Art et d'Histoire",
+                  "text": "Situat în Palatul Arhiepiscopal, expune colecții semnificative de picturi și arte decorative.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.00382,
+                        43.1837
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Sébastien",
+                  "text": "O biserică gotică fermecătoare din secolul al XV-lea, cu un turn elegant cu clopot în centrul vechi.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.006884,
+                        43.185983
+                  ]
+            },
+            {
+                  "name": "Bassin",
+                  "text": "Un lac în Narbonne, ideal pentru un timp relaxant pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        2.973265,
+                        43.215753
+                  ]
+            },
+            {
+                  "name": "B3 - CERS",
+                  "text": "Un lac în Narbonne care îmbogățește peisajul natural.",
+                  "category": "natural",
+                  "coords": [
+                        2.984079,
+                        43.210595
+                  ]
+            },
+            {
+                  "name": "Étang de Bages",
+                  "text": "Un lac mare lângă Narbonne, cunoscut pentru suprafața sa vastă de apă.",
+                  "category": "natural",
+                  "coords": [
+                        2.999547,
+                        43.109492
+                  ]
+            },
+            {
+                  "name": "Vestiges archéologiques du Clos de la Lombarde",
+                  "text": "Acest sit arheologic din Narbonne păstrează resturile unor case și ateliere romane antice. Oferă informații semnificative despre viața urbană romană din Narbonensis.",
+                  "category": "historical",
+                  "coords": [
+                        3.010241,
+                        43.189981
+                  ]
+            },
+            {
+                  "name": "Narbo Via",
+                  "text": "Narbo Via este un muzeu arheologic major din Narbonne dedicat istoriei romane a orașului. Prezintă o colecție impresionantă de pietre și artefacte antice.",
+                  "category": "museum",
+                  "coords": [
+                        3.01892,
+                        43.178889
+                  ]
+            },
+            {
+                  "name": "Musée du téléphone",
+                  "text": "Muzeul Telefonului din Narbonne prezintă evoluția dispozitivelor de telecomunicații. Vizitatorii pot explora o colecție istorică de telefoane din diferite epoci.",
+                  "category": "museum",
+                  "coords": [
+                        3.004061,
+                        43.187487
+                  ]
+            },
+            {
+                  "name": "Théâtre Scène Nationale",
+                  "text": "Théâtre Scène Nationale din Narbonne este o locație de top pentru diverse arte ale spectacolului. Găzduiește piese de teatru, spectacole de dans și concerte muzicale de înaltă calitate.",
+                  "category": "cultural",
+                  "coords": [
+                        3.014801,
+                        43.179868
+                  ]
+            },
+            {
+                  "name": "Square Thérèse Léon Blum",
+                  "text": "Această piață publică și parc din Narbonne oferă un spațiu verde pentru relaxare în oraș. Este un loc liniștit pentru rezidenți și turiști de a se bucura de aer liber.",
+                  "category": "park",
+                  "coords": [
+                        3.00807,
+                        43.18757
+                  ]
+            },
+            {
+                  "name": "Parc de la Campane",
+                  "text": "Parcul Campane este un parc pitoresc situat în Narbonne, prezentând grădini amenajate. Oferă o evadare în natură și oportunități de petrecere a timpului liber în cadrul municipalității.",
+                  "category": "park",
+                  "coords": [
+                        2.965043,
+                        43.187873
+                  ]
+            },
+            {
+                  "name": "Jardin des Vicomtes",
+                  "text": "Jardin des Vicomtes este o grădină istorică găsită în orașul Narbonne. Este un loc ideal pentru o plimbare liniștită și pentru a admira flora locală.",
+                  "category": "park",
+                  "coords": [
+                        3.003312,
+                        43.185983
+                  ]
+            },
+            {
+                  "name": "Lutin Park",
+                  "text": "Lutin Park este o atracție recreativă din Narbonne concepută pentru divertismentul familiei. Oferă diverse activități și zone de joacă pentru copii și adulți.",
+                  "category": "landmark",
+                  "coords": [
+                        3.007031,
+                        43.181736
+                  ]
+            },
+            {
+                  "name": "Ruine des Fours à Chaux",
+                  "text": "Aceste ruine ale fostelor cuptoare de var sunt un sit al patrimoniului industrial situat în Narbonne. Ele reprezintă istoria producției tradiționale de materiale de construcții din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        2.975856,
+                        43.170811
+                  ]
+            },
+            {
+                  "name": "Porte d'Espagne",
+                  "text": "Porte d'Espagne este un punct de reper istoric și o atracție din Narbonne. Marchează locul fostelor fortificații ale orașului și servește ca punct de interes pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        3.000243,
+                        43.183156
+                  ]
+            },
+            {
+                  "name": "Bagatelle",
+                  "text": "Bagatelle se referă la ruinele arheologice găsite în vecinătatea orașului Narbonne. Aceste rămășițe contribuie la înțelegerea tiparelor istorice de așezare din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        2.973281,
+                        43.17106
+                  ]
+            },
+            {
+                  "name": "OT Narbonne",
+                  "text": "Această locație din Narbonne servește ca punct de belvedere asupra orașului și împrejurimilor sale. Este un loc minunat pentru a face fotografii și pentru a te bucura de peisajul panoramic.",
+                  "category": "natural",
+                  "coords": [
+                        3.002243,
+                        43.18412
+                  ]
+            },
+            {
+                  "name": "Ancien télégraphe de Montredon",
+                  "text": "Aceste ruine sunt rămășițele unei vechi stații de telegraf optic Chappe din Narbonne. Este un sit interesant pentru cei curioși de istoria comunicațiilor.",
+                  "category": "historical",
+                  "coords": [
+                        2.957123,
+                        43.183164
+                  ]
+            },
+            {
+                  "name": "La Grèce",
+                  "text": "La Grèce se referă la ruinele istorice situate în zona Narbonne. Aceste rămășițe structurale oferă o legătură fizică cu dezvoltarea trecută a teritoriului local.",
+                  "category": "historical",
+                  "coords": [
+                        2.969248,
+                        43.166053
+                  ]
+            },
+            {
+                  "name": "Église Saint-Bonaventure",
+                  "text": "Această biserică este un lăcaș de cult local din Narbonne dedicat Sfântului Bonaventura. Prezintă o arhitectură religioasă tipică și deservește nevoile spirituale ale comunității.",
+                  "category": "religious",
+                  "coords": [
+                        2.99492,
+                        43.18546
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Saint-Pierre",
+                  "text": "Biserica Saint-Jean-Saint-Pierre este o clădire religioasă și un lăcaș de cult situat în Narbonne. Face parte din rețeaua parohială a orașului și primește vizitatori pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        2.979722,
+                        43.184459
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Grâces",
+                  "text": "Cunoscută și sub numele de Capela Penitentenților Albi, acest sit din Narbonne este un lăcaș de cult notabil. Este recunoscut pentru frăția sa istorică și interiorul său artistic.",
+                  "category": "religious",
+                  "coords": [
+                        3.002816,
+                        43.181007
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Thérèse",
+                  "text": "Această mică capelă este un lăcaș de cult din Narbonne dedicat Sfintei Tereza. Oferă un cadru liniștit și intim pentru devoțiunea religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        3.016563,
+                        43.195016
+                  ]
+            },
+            {
+                  "name": "Temple de Narbonne",
+                  "text": "Templul din Narbonne este un lăcaș de cult pentru comunitatea protestantă locală. Prezintă un design simplu și elegant, caracteristic clădirilor religioase reformate.",
+                  "category": "religious",
+                  "coords": [
+                        3.00675,
+                        43.189217
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Bernadette",
+                  "text": "Această biserică modernă din Narbonne funcționează ca lăcaș de cult dedicat Sfintei Bernadette. Deservește nevoile spirituale ale cartierului local și ale vizitatorilor.",
+                  "category": "religious",
+                  "coords": [
+                        3.016185,
+                        43.183897
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Champs",
+                  "text": "Acest lăcaș de cult este situat în orașul Narbonne. Oferă un spațiu liniștit pentru reflecție și servicii religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        3.011319,
+                        43.188423
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Église des Carmes este o biserică istorică situată în Narbonne. Vizitatorii pot admira arhitectura sa tradițională în timp ce explorează centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        3.000234,
+                        43.184263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Just and Saint-Pasteur Cathedral",
+                  "text": "An ambitious 13th-century Gothic cathedral, famous for its towering choir which remains one of the highest in France.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.003889,
+                        43.184722
+                  ]
+            },
+            {
+                  "name": "Archbishops' Palace",
+                  "text": "A grand complex featuring the Old and New Palaces, now housing the Town Hall and fine arts and archaeology museums.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.00374,
+                        43.1842
+                  ]
+            },
+            {
+                  "name": "Roman Horreum",
+                  "text": "Ancient underground galleries dating back to the 1st century BC, originally used as a grain warehouse during Roman rule.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.004627,
+                        43.185779
+                  ]
+            },
+            {
+                  "name": "Les Halles de Narbonne",
+                  "text": "A stunning iron-framed covered market built in 1901, renowned as one of the best and most beautiful food markets in France.",
+                  "category": "culinary",
+                  "confidence": "high",
+                  "coords": [
+                        3.0051,
+                        43.18116
+                  ]
+            },
+            {
+                  "name": "Canal de la Robine",
+                  "text": "A UNESCO World Heritage site that flows through the heart of Narbonne, lined with scenic paths and pleasure boats.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        2.960833,
+                        43.245
+                  ]
+            },
+            {
+                  "name": "Via Domitia",
+                  "text": "An excavated section of the first Roman road in Gaul, discovered in 1997 in the center of the City Hall square.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            },
+            {
+                  "name": "Basilica of Saint Paul",
+                  "text": "A beautiful Romanesque-Gothic church built over an early Christian cemetery, featuring a famous 'frog' stoup in its interior.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        2.99931,
+                        43.1816
+                  ]
+            },
+            {
+                  "name": "Narbo Via Museum",
+                  "text": "A world-class archaeological museum designed by Norman Foster, showcasing the city's prestigious Roman past.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            },
+            {
+                  "name": "Abbaye de Fontfroide",
+                  "text": "A magnificent former Cistercian abbey, famous for its well-preserved cloister and rose garden.",
+                  "category": "monastic",
+                  "confidence": "high",
+                  "coords": [
+                        2.898336,
+                        43.127372
+                  ]
+            },
+            {
+                  "name": "Pont des Marchands",
+                  "text": "A rare medieval bridge lined with houses, spanning the Canal de la Robine in the city center.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        3.003693,
+                        43.183201
+                  ]
+            },
+            {
+                  "name": "Maison Natale de Charles Trenet",
+                  "text": "The birthplace of the famous singer, now a museum dedicated to his life and musical work.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        2.996542,
+                        43.183884
+                  ]
+            },
+            {
+                  "name": "Donjon Gilles Aycelin",
+                  "text": "A massive 13th-century defensive tower offering panoramic views over Narbonne and its surroundings.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        3.00389,
+                        43.183808
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Lamourguier",
+                  "text": "A former Gothic church that now houses an impressive collection of Roman stone monuments.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.00414,
+                        43.18098
+                  ]
+            },
+            {
+                  "name": "Narbonne-Plage",
+                  "text": "Stretching broadly along the Mediterranean Sea, Narbonne-Plage is a magnificent destination on the French coast. This expansive sandy shore invites visitors to indulge in thrilling water sports or simply unwind in a relaxing atmosphere. The vibrant setting ensures plenty of space for both active vacationers and those seeking pure relaxation. Exploring this beach during the bright summer months promises a truly memorable Mediterranean getaway.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        3.003611,
+                        43.184722
+                  ]
+            },
+            {
+                  "name": "Massif de la Clape",
+                  "text": "A protected limestone massif between city and sea, known for its hiking trails and vineyards.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        3.1,
+                        43.1583
+                  ]
+            },
+            {
+                  "name": "Place de l'Hôtel de Ville",
+                  "text": "The city's central square where remains of the ancient Via Domitia are visible right in front of the town hall.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        3.004385,
+                        43.183777
+                  ]
+            },
+            {
+                  "name": "Musée d'Art et d'Histoire",
+                  "text": "Located in the Archbishop's Palace, it displays significant collections of paintings and decorative arts.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        3.00382,
+                        43.1837
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Sébastien",
+                  "text": "A charming 15th-century Gothic church with an elegant bell tower in the historic city center.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        3.006884,
+                        43.185983
+                  ]
+            },
+            {
+                  "name": "Bassin",
+                  "text": "A lake in Narbonne, ideal for a relaxed time by the water.",
+                  "category": "natural",
+                  "coords": [
+                        2.973265,
+                        43.215753
+                  ]
+            },
+            {
+                  "name": "B3 - CERS",
+                  "text": "A lake in Narbonne that enriches the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        2.984079,
+                        43.210595
+                  ]
+            },
+            {
+                  "name": "Étang de Bages",
+                  "text": "A large lake near Narbonne, known for its wide expanse of water.",
+                  "category": "natural",
+                  "coords": [
+                        2.999547,
+                        43.109492
+                  ]
+            },
+            {
+                  "name": "Vestiges archéologiques du Clos de la Lombarde",
+                  "text": "This archaeological site in Narbonne preserves the remains of ancient Roman houses and workshops. It provides significant insights into Roman urban life in Narbonensis.",
+                  "category": "historical",
+                  "coords": [
+                        3.010241,
+                        43.189981
+                  ]
+            },
+            {
+                  "name": "Narbo Via",
+                  "text": "Narbo Via is a major archaeological museum in Narbonne dedicated to the Roman history of the city. It features an impressive collection of ancient stones and artefacts.",
+                  "category": "museum",
+                  "coords": [
+                        3.01892,
+                        43.178889
+                  ]
+            },
+            {
+                  "name": "Musée du téléphone",
+                  "text": "The Telephone Museum in Narbonne showcases the evolution of telecommunication devices. Visitors can explore a historical collection of phones from different eras.",
+                  "category": "museum",
+                  "coords": [
+                        3.004061,
+                        43.187487
+                  ]
+            },
+            {
+                  "name": "Théâtre Scène Nationale",
+                  "text": "The Théâtre Scène Nationale in Narbonne is a premier venue for diverse performing arts. It hosts high-quality plays, dance performances, and musical concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        3.014801,
+                        43.179868
+                  ]
+            },
+            {
+                  "name": "Square Thérèse Léon Blum",
+                  "text": "This public square and park in Narbonne offers a green space for relaxation in the city. It is a peaceful spot for residents and tourists to enjoy outdoors.",
+                  "category": "park",
+                  "coords": [
+                        3.00807,
+                        43.18757
+                  ]
+            },
+            {
+                  "name": "Parc de la Campane",
+                  "text": "Parc de la Campane is a scenic park located in Narbonne, featuring landscaped gardens. It provides a natural escape and leisure opportunities within the municipality.",
+                  "category": "park",
+                  "coords": [
+                        2.965043,
+                        43.187873
+                  ]
+            },
+            {
+                  "name": "Jardin des Vicomtes",
+                  "text": "The Jardin des Vicomtes is a historic garden area found in the city of Narbonne. It is an ideal place for a quiet stroll and admiring the local flora.",
+                  "category": "park",
+                  "coords": [
+                        3.003312,
+                        43.185983
+                  ]
+            },
+            {
+                  "name": "Lutin Park",
+                  "text": "Lutin Park is a recreational attraction in Narbonne designed for family entertainment. It offers various activities and play areas for children and adults.",
+                  "category": "landmark",
+                  "coords": [
+                        3.007031,
+                        43.181736
+                  ]
+            },
+            {
+                  "name": "Ruine des Fours à Chaux",
+                  "text": "These ruins of former lime kilns are an industrial heritage site located in Narbonne. They represent the history of traditional building material production in the area.",
+                  "category": "historical",
+                  "coords": [
+                        2.975856,
+                        43.170811
+                  ]
+            },
+            {
+                  "name": "Porte d'Espagne",
+                  "text": "The Porte d'Espagne is a historical landmark and attraction in Narbonne. It marks a site of former city fortifications and serves as a point of interest for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        3.000243,
+                        43.183156
+                  ]
+            },
+            {
+                  "name": "Bagatelle",
+                  "text": "Bagatelle refers to the archaeological ruins found in the vicinity of Narbonne. These remains contribute to the understanding of the historical settlement patterns of the region.",
+                  "category": "historical",
+                  "coords": [
+                        2.973281,
+                        43.17106
+                  ]
+            },
+            {
+                  "name": "OT Narbonne",
+                  "text": "This location in Narbonne serves as a scenic viewpoint over the city and its surroundings. It is a great spot for taking photos and enjoying the panoramic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        3.002243,
+                        43.18412
+                  ]
+            },
+            {
+                  "name": "Ancien télégraphe de Montredon",
+                  "text": "These ruins are the remains of an old Chappe optical telegraph station in Narbonne. It is an interesting site for those curious about the history of communications.",
+                  "category": "historical",
+                  "coords": [
+                        2.957123,
+                        43.183164
+                  ]
+            },
+            {
+                  "name": "La Grèce",
+                  "text": "La Grèce refers to historical ruins located in the Narbonne area. These structural remains offer a physical link to the past development of the local territory.",
+                  "category": "historical",
+                  "coords": [
+                        2.969248,
+                        43.166053
+                  ]
+            },
+            {
+                  "name": "Église Saint-Bonaventure",
+                  "text": "This church is a local place of worship in Narbonne dedicated to Saint Bonaventure. It features typical religious architecture and serves the spiritual needs of the community.",
+                  "category": "religious",
+                  "coords": [
+                        2.99492,
+                        43.18546
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Saint-Pierre",
+                  "text": "Église Saint-Jean-Saint-Pierre is a religious building and place of worship located in Narbonne. It is part of the city's parish network and welcomes visitors for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        2.979722,
+                        43.184459
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Grâces",
+                  "text": "Also known as the Chapel of the White Penitents, this site in Narbonne is a notable place of worship. It is recognized for its historical brotherhood and artistic interior.",
+                  "category": "religious",
+                  "coords": [
+                        3.002816,
+                        43.181007
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Thérèse",
+                  "text": "This small chapel is a place of worship in Narbonne dedicated to Saint Thérèse. It provides a quiet and intimate setting for religious devotion.",
+                  "category": "religious",
+                  "coords": [
+                        3.016563,
+                        43.195016
+                  ]
+            },
+            {
+                  "name": "Temple de Narbonne",
+                  "text": "The Temple of Narbonne is a place of worship for the local Protestant community. It features a simple and elegant design characteristic of reformed religious buildings.",
+                  "category": "religious",
+                  "coords": [
+                        3.00675,
+                        43.189217
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Bernadette",
+                  "text": "This modern church in Narbonne functions as a place of worship dedicated to Saint Bernadette. It serves the spiritual needs of the local neighborhood and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        3.016185,
+                        43.183897
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Champs",
+                  "text": "This place of worship is located in the city of Narbonne. It offers a quiet space for reflection and local religious services.",
+                  "category": "religious",
+                  "coords": [
+                        3.011319,
+                        43.188423
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "The Église des Carmes is a historic church situated in Narbonne. Visitors can admire its traditional architecture while exploring the city center.",
+                  "category": "religious",
+                  "coords": [
+                        3.000234,
+                        43.184263
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Cathédrale Saint-Just-et-Saint-Pasteur",
+                  "text": "Cette cathédrale gothique inachevée du XIIIe siècle se distingue par l'une des voûtes les plus hautes de France.",
+                  "category": "religious",
+                  "coords": [
+                        3.003889,
+                        43.184722
+                  ]
+            },
+            {
+                  "name": "Palais des Archevêques",
+                  "text": "Cet ancien palais épiscopal monumental abrite aujourd'hui l'hôtel de ville ainsi que des musées d'art et d'archéologie.",
+                  "category": "historical",
+                  "coords": [
+                        3.00374,
+                        43.1842
+                  ]
+            },
+            {
+                  "name": "Horreum Romain",
+                  "text": "Des entrepôts souterrains uniques datant de l'époque romaine, offrant un aperçu fascinant du commerce antique.",
+                  "category": "museum",
+                  "coords": [
+                        3.004627,
+                        43.185779
+                  ]
+            },
+            {
+                  "name": "Les Halles de Narbonne",
+                  "text": "Splendide halle de style Baltard datant de 1901, considérée comme l'un des plus beaux marchés couverts de France.",
+                  "category": "culinary",
+                  "coords": [
+                        3.0051,
+                        43.18116
+                  ]
+            },
+            {
+                  "name": "Canal de la Robine",
+                  "text": "Classé au patrimoine mondial de l'UNESCO, ce canal traverse le centre-ville et invite à la promenade le long de ses quais.",
+                  "category": "recreational",
+                  "coords": [
+                        2.960833,
+                        43.245
+                  ]
+            },
+            {
+                  "name": "Via Domitia",
+                  "text": "Vestiges de la première voie romaine en Gaule, découverts et mis en valeur face à l'hôtel de ville.",
+                  "category": "historical",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Paul",
+                  "text": "Importante basilique protogothique bâtie sur une nécropole paléochrétienne, célèbre pour ses chapiteaux sculptés.",
+                  "category": "religious",
+                  "coords": [
+                        2.99931,
+                        43.1816
+                  ]
+            },
+            {
+                  "name": "Narbo Via Museum",
+                  "text": "Musée moderne conçu par Norman Foster, présentant la riche histoire romaine de l'antique cité de Narbo Martius.",
+                  "category": "museum",
+                  "coords": [
+                        3.004218,
+                        43.183767
+                  ]
+            }
+      ]
+}
   },
   {
     id: "sete", population: 45337,
@@ -37809,6 +49700,231 @@ const citySeeds: CitySeed[] = [
                         7.369499,
                         48.09649
                   ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "Die Synagoge von Colmar wurde im 19. Jahrhundert im neoromanischen Stil erbaut. Sie ist ein bedeutendes Denkmal des jüdischen Erbes im Elsass und steht unter Denkmalschutz.",
+                  "category": "religious",
+                  "coords": [
+                        7.362501,
+                        48.076977
+                  ]
+            },
+            {
+                  "name": "Freiheitsstatue",
+                  "text": "Diese Freiheitsstatue in Colmar ist eine Replik des berühmten Werks von Auguste Bartholdi, der in dieser Stadt geboren wurde. Das Monument steht an einem der nördlichen Stadteingänge und begrüßt die Besucher.",
+                  "category": "historical",
+                  "coords": [
+                        7.363633,
+                        48.108406
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Die Kirche Saint-Joseph in Colmar ist ein markantes Bauwerk aus dem späten 19. Jahrhundert. Ihre Architektur zeichnet sich durch rötlichen Sandstein aus, der typisch für die Region ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.346924,
+                        48.081755
+                  ]
+            },
+            {
+                  "name": "Kapelle",
+                  "text": "Die Chapelle CDRS befindet sich auf dem Gelände des örtlichen Gesundheitszentrums in Colmar. Sie bietet Patienten und Besuchern einen ruhigen Ort für Gebet und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        7.339131,
+                        48.086668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "Die Kirche Saint-Antoine in Colmar ist Teil eines historischen Ensembles im Stadtviertel. Sie ist für ihre schlichte Schönheit und ihre Rolle im religiösen Leben der Stadt bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        7.369173,
+                        48.078595
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent de Paul",
+                  "text": "Die Kirche Saint-Vincent de Paul in Colmar ist ein modernes katholisches Gotteshaus. Es dient der örtlichen Gemeinde als Ort der Versammlung und des Gottesdienstes.",
+                  "category": "religious",
+                  "coords": [
+                        7.331432,
+                        48.087889
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Diese Kirche Saint-Jean in Colmar ist ein fester Bestandteil der sakralen Landschaft der Stadt. Besucher schätzen die Architektur und die friedliche Atmosphäre im Inneren des Gebäudes.",
+                  "category": "religious",
+                  "coords": [
+                        7.332413,
+                        48.074419
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Die Kirche Saint-Paul ist ein weiteres wichtiges religiöses Denkmal im Stadtgebiet von Colmar. Sie ist ein Ort der Andacht und spiegelt die Vielfalt der kirchlichen Architektur wider.",
+                  "category": "religious",
+                  "coords": [
+                        7.330589,
+                        48.076968
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie",
+                  "text": "Die Kirche Sainte-Marie ist ein bekanntes religiöses Zentrum in Colmar. Das Bauwerk beeindruckt durch seine Gestaltung und ist ein fester Anlaufpunkt für Gläubige in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        7.337526,
+                        48.068836
+                  ]
+            },
+            {
+                  "name": "Chapelle de l'Assomption",
+                  "text": "Die Kapelle der Himmelfahrt in Colmar ist ein ruhiger Ort des Gebets. Ihre Architektur und die sakrale Kunst im Inneren laden zur Besinnung in einer geschichtsträchtigen Umgebung ein.",
+                  "category": "religious",
+                  "coords": [
+                        7.352963,
+                        48.067185
+                  ]
+            },
+            {
+                  "name": "Église Saint-François d'Assise",
+                  "text": "Die Kirche Saint-François d'Assise ist ein modernes katholisches Kirchengebäude in Colmar. Sie ist dem heiligen Franz von Assisi gewidmet und zeichnet sich durch eine schlichte Bauweise aus.",
+                  "category": "religious",
+                  "coords": [
+                        7.348269,
+                        48.066157
+                  ]
+            },
+            {
+                  "name": "Église de Jésus-Christ des saints des derniers jours",
+                  "text": "Dieses Gebäude gehört zur Kirche Jesu Christi der Heiligen der Letzten Tage in Colmar. Es dient als Versammlungsort für die Mitglieder dieser Glaubensgemeinschaft in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.324577,
+                        48.07629
+                  ]
+            },
+            {
+                  "name": "Église Néo-Apostolique",
+                  "text": "Die Neuapostolische Kirche in Colmar bietet einen Raum für Gottesdienste und Gemeinschaft. Das Gebäude ist ein Beispiel für die religiöse Vielfalt in der Architektur der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.37187,
+                        48.086357
+                  ]
+            },
+            {
+                  "name": "Église Évangélique Méthodiste",
+                  "text": "Die Evangelisch-methodistische Kirche in Colmar ist ein Ort der Begegnung und des Gebets für die protestantische Gemeinde. Sie liegt im Stadtzentrum und ist leicht zugänglich für Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.364572,
+                        48.07851
+                  ]
+            },
+            {
+                  "name": "St.-Josephs-Kapelle",
+                  "text": "Die Kapelle Saint-Joseph ist ein bescheidenes sakrales Bauwerk in Colmar. Sie bietet einen intimen Rahmen für religiöse Feiern und Momente der Stille.",
+                  "category": "religious",
+                  "coords": [
+                        7.360232,
+                        48.061363
+                  ]
+            },
+            {
+                  "name": "Église protestante Saint-Marc",
+                  "text": "Die protestantische Kirche Saint-Marc in Colmar ist ein historisches Gebäude der reformierten Gemeinde. Sie zeichnet sich durch ihre Architektur aus und ist ein wichtiger kultureller Punkt in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.332229,
+                        48.082802
+                  ]
+            },
+            {
+                  "name": "Chapelle Herzog",
+                  "text": "Die Herzog-Kapelle in Colmar ist ein kleines sakrales Juwel mit einer besonderen Atmosphäre. Sie ist oft Teil lokaler Rundgänge und beeindruckt durch ihre detailreiche Gestaltung.",
+                  "category": "religious",
+                  "coords": [
+                        7.3194,
+                        48.084901
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Dieses religiöse Gebäude in Colmar dient als Versammlungsort für protestantische Gläubige. Das schlichte Design fördert eine konzentrierte Atmosphäre für Gottesdienste und Meditation.",
+                  "category": "religious",
+                  "coords": [
+                        7.393613,
+                        48.081362
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "Die Kirche Notre-Dame de l'Assomption ist ein bedeutendes katholisches Bauwerk in Colmar. Sie ist für ihre religiöse Bedeutung und ihre architektonische Präsenz im Stadtbild bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        7.396551,
+                        48.080317
+                  ]
+            },
+            {
+                  "name": "Église de Dieu",
+                  "text": "Die Kirche Gottes in Colmar ist eine christliche Gemeinde mit einem modernen Versammlungsraum. Sie bietet regelmäßige Gottesdienste und Gemeinschaftsaktivitäten für ihre Mitglieder an.",
+                  "category": "religious",
+                  "coords": [
+                        7.365587,
+                        48.087798
+                  ]
+            },
+            {
+                  "name": "Parc Saint-François-Xavier",
+                  "text": "Der Park Saint-François-Xavier ist eine grüne Oase im Herzen von Colmar. Er bietet schattige Wege und Rasenflächen, die ideal für einen entspannten Spaziergang im Freien sind.",
+                  "category": "park",
+                  "coords": [
+                        7.362601,
+                        48.072418
+                  ]
+            },
+            {
+                  "name": "Musée d'Histoire Naturelle et d'Éthnographie",
+                  "text": "Dieses Museum in Colmar widmet sich der Naturgeschichte und Ethnographie der Region. Besucher können hier Sammlungen zur lokalen Flora, Fauna und zu außereuropäischen Kulturen entdecken.",
+                  "category": "museum",
+                  "coords": [
+                        7.358779,
+                        48.07364
+                  ]
+            },
+            {
+                  "name": "Château Kiener",
+                  "text": "Das Château Kiener ist ein elegantes Herrenhaus in Colmar, das von einem schönen Garten umgeben ist. Es ist ein Beispiel für die bürgerliche Architektur der Stadt und dient heute verschiedenen Zwecken.",
+                  "category": "castle",
+                  "coords": [
+                        7.349938,
+                        48.066601
+                  ]
+            },
+            {
+                  "name": "Musée des Usines Municipales",
+                  "text": "Das Musée des Usines Municipales beleuchtet die Industriegeschichte von Colmar. Es befindet sich in einem ehemaligen Fabrikgebäude und zeigt technische Exponate aus vergangenen Zeiten.",
+                  "category": "museum",
+                  "coords": [
+                        7.370109,
+                        48.055876
+                  ]
+            },
+            {
+                  "name": "Espace d'Art Contemporain André Malraux",
+                  "text": "Dieses Zentrum für zeitgenössische Kunst in Colmar zeigt wechselnde Ausstellungen moderner Künstler. Es ist ein wichtiger Ort für den kulturellen Austausch und die Förderung aktueller Kunstströmungen.",
+                  "category": "museum",
+                  "coords": [
+                        7.359354,
+                        48.079186
+                  ]
             }
       ],
       "hu": [
@@ -37939,6 +50055,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.369499,
                         48.09649
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "A colmari zsinagóga a 19. században épült neoromán stílusban. Elzász zsidó örökségének egyik jelentős műemléke, amely hivatalos védettséget élvez.",
+                  "category": "religious",
+                  "coords": [
+                        7.362501,
+                        48.076977
+                  ]
+            },
+            {
+                  "name": "Statue de la Liberté",
+                  "text": "Ez a colmari Szabadság-szobor a város szülöttje, Auguste Bartholdi híres alkotásának másolata. Az emlékmű a város egyik északi bejáratánál áll, és köszönti az érkezőket.",
+                  "category": "historical",
+                  "coords": [
+                        7.363633,
+                        48.108406
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "A colmari Saint-Joseph templom a 19. század végének egyik jellegzetes építménye. Építészetét a régióra jellemző vörös homokkő használata határozza meg.",
+                  "category": "religious",
+                  "coords": [
+                        7.346924,
+                        48.081755
+                  ]
+            },
+            {
+                  "name": "Chapelle CDRS",
+                  "text": "A Chapelle CDRS a colmari helyi egészségügyi központ területén található. A betegek és látogatók számára biztosít csendes helyet az imádsághoz és elmélkedéshez.",
+                  "category": "religious",
+                  "coords": [
+                        7.339131,
+                        48.086668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "A colmari Saint-Antoine templom a városnegyed egyik történelmi együttesének része. Egyszerű szépségéről és a város vallási életében betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.369173,
+                        48.078595
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent de Paul",
+                  "text": "A colmari Saint-Vincent de Paul templom egy modern katolikus istenháza. A helyi közösség számára a gyülekezés és az istentiszteletek helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        7.331432,
+                        48.087889
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Ez a colmari Saint-Jean templom a város szakrális tájképének szerves része. A látogatók értékelik az építészetét és az épület belsejében uralkodó békés hangulatot.",
+                  "category": "religious",
+                  "coords": [
+                        7.332413,
+                        48.074419
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "A Saint-Paul templom Colmar városának egy másik fontos vallási műemléke. Az áhítat helyszíne, amely az egyházi építészet sokszínűségét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        7.330589,
+                        48.076968
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie",
+                  "text": "A Sainte-Marie templom Colmar egyik ismert vallási központja. Az épület kialakításával nyűgözi le a látogatókat, és a környék hívőinek egyik állandó találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        7.337526,
+                        48.068836
+                  ]
+            },
+            {
+                  "name": "Chapelle de l'Assomption",
+                  "text": "A colmari Mennybemenetel kápolna az imádság csendes helyszíne. Építészete és a belső szakrális művészet elmélyülésre hívja a látogatókat a történelmi környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        7.352963,
+                        48.067185
+                  ]
+            },
+            {
+                  "name": "Église Saint-François d'Assise",
+                  "text": "A Saint-François d'Assise templom egy modern katolikus egyházi épület Colmarban. Assisi Szent Ferencnek szentelték, és egyszerű építési stílusa jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        7.348269,
+                        48.066157
+                  ]
+            },
+            {
+                  "name": "Église de Jésus-Christ des saints des derniers jours",
+                  "text": "Ez az épület Az Utolsó Napi Szentek Jézus Krisztus Egyházához tartozik Colmarban. A város e hívő közösségének tagjai számára szolgál gyülekezési helyül.",
+                  "category": "religious",
+                  "coords": [
+                        7.324577,
+                        48.07629
+                  ]
+            },
+            {
+                  "name": "Église Néo-Apostolique",
+                  "text": "A colmari Új Apostoli Templom az istentiszteletek és a közösségi élet számára biztosít helyet. Az épület a város építészeti és vallási sokszínűségének egyik példája.",
+                  "category": "religious",
+                  "coords": [
+                        7.37187,
+                        48.086357
+                  ]
+            },
+            {
+                  "name": "Église Évangélique Méthodiste",
+                  "text": "A colmari Evangélikus-Metodista Templom a protestáns közösség találkozási és imádsági helye. A városközpontban található, így könnyen elérhető a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.364572,
+                        48.07851
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Joseph",
+                  "text": "A Saint-Joseph kápolna egy szerény szakrális építmény Colmarban. Bensőséges keretet biztosít a vallási szertartásokhoz és a csendes pillanatokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        7.360232,
+                        48.061363
+                  ]
+            },
+            {
+                  "name": "Église protestante Saint-Marc",
+                  "text": "A colmari Saint-Marc protestáns templom a református közösség történelmi épülete. Építészete jellegzetes, és a város egyik fontos kulturális pontjaként tartják számon.",
+                  "category": "religious",
+                  "coords": [
+                        7.332229,
+                        48.082802
+                  ]
+            },
+            {
+                  "name": "Chapelle Herzog",
+                  "text": "A colmari Herzog-kápolna egy kis szakrális ékszerdoboz, különleges hangulattal. Gyakran része a helyi városnéző körutaknak, és részletgazdag kialakításával nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        7.3194,
+                        48.084901
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ez a colmari vallási épület a protestáns hívők gyülekezési helyeként szolgál. Egyszerű kialakítása elősegíti az istentiszteletek és a meditáció elmélyült hangulatát.",
+                  "category": "religious",
+                  "coords": [
+                        7.393613,
+                        48.081362
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "A Notre-Dame de l'Assomption templom Colmar egyik jelentős katolikus építménye. Vallási jelentőségéről és a városképben betöltött építészeti szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.396551,
+                        48.080317
+                  ]
+            },
+            {
+                  "name": "Église de Dieu",
+                  "text": "A colmari Église de Dieu egy keresztény közösség, modern gyülekezeti teremmel. Rendszeres istentiszteleteket és közösségi tevékenységeket kínál tagjai számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.365587,
+                        48.087798
+                  ]
+            },
+            {
+                  "name": "Parc Saint-François-Xavier",
+                  "text": "A Saint-François-Xavier park egy zöld oázis Colmar szívében. Árnyas ösvényeket és gyepfelületeket kínál, amelyek ideálisak egy pihentető szabadtéri sétához.",
+                  "category": "park",
+                  "coords": [
+                        7.362601,
+                        48.072418
+                  ]
+            },
+            {
+                  "name": "Musée d'Histoire Naturelle et d'Éthnographie",
+                  "text": "Ez a colmari múzeum a régió természetrajzával és néprajzával foglalkozik. A látogatók a helyi növény- és állatvilágot, valamint Európán kívüli kultúrákat bemutató gyűjteményeket fedezhetnek fel.",
+                  "category": "museum",
+                  "coords": [
+                        7.358779,
+                        48.07364
+                  ]
+            },
+            {
+                  "name": "Château Kiener",
+                  "text": "A Château Kiener egy elegáns úrilak Colmarban, amelyet gyönyörű kert vesz körül. A város polgári építészetének egyik példája, amely ma különféle célokat szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        7.349938,
+                        48.066601
+                  ]
+            },
+            {
+                  "name": "Musée des Usines Municipales",
+                  "text": "A Musée des Usines Municipales Colmar ipartörténetét mutatja be. Egy egykori gyárépületben található, és múltbéli műszaki kiállítási tárgyakat vonultat fel.",
+                  "category": "museum",
+                  "coords": [
+                        7.370109,
+                        48.055876
+                  ]
+            },
+            {
+                  "name": "Espace d'Art Contemporain André Malraux",
+                  "text": "Ez a colmari kortárs művészeti központ modern művészek időszaki kiállításainak ad otthont. A kulturális csere és a jelenlegi művészeti irányzatok népszerűsítésének fontos helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        7.359354,
+                        48.079186
                   ]
             }
       ],
@@ -38081,6 +50422,231 @@ const citySeeds: CitySeed[] = [
                         7.369499,
                         48.09649
                   ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Sinagoga din Colmar a fost construită în secolul al XIX-lea în stil neoromanic. Este un monument important al moștenirii evreiești din Alsacia și este protejată prin lege.",
+                  "category": "religious",
+                  "coords": [
+                        7.362501,
+                        48.076977
+                  ]
+            },
+            {
+                  "name": "Statue de la Liberté",
+                  "text": "Această Statuie a Libertății din Colmar este o replică a celebrei lucrări a lui Auguste Bartholdi, născut în acest oraș. Monumentul se află la una dintre intrările de nord ale orașului și întâmpină vizitatorii.",
+                  "category": "historical",
+                  "coords": [
+                        7.363633,
+                        48.108406
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Biserica Saint-Joseph din Colmar este un edificiu marcant de la sfârșitul secolului al XIX-lea. Arhitectura sa se remarcă prin gresia roșiatică, specifică acestei regiuni.",
+                  "category": "religious",
+                  "coords": [
+                        7.346924,
+                        48.081755
+                  ]
+            },
+            {
+                  "name": "Chapelle CDRS",
+                  "text": "Chapelle CDRS este situată în incinta centrului local de sănătate din Colmar. Oferă pacienților și vizitatorilor un loc liniștit pentru rugăciune și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        7.339131,
+                        48.086668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "Biserica Saint-Antoine din Colmar face parte dintr-un ansamblu istoric din cartierul orașului. Este cunoscută pentru frumusețea sa simplă și pentru rolul său în viața religioasă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        7.369173,
+                        48.078595
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent de Paul",
+                  "text": "Biserica Saint-Vincent de Paul din Colmar este un lăcaș de cult catolic modern. Servește comunității locale ca loc de adunare și pentru slujbe religioase.",
+                  "category": "religious",
+                  "coords": [
+                        7.331432,
+                        48.087889
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "Această biserică Saint-Jean din Colmar este o parte integrantă a peisajului sacru al orașului. Vizitatorii apreciază arhitectura și atmosfera pașnică din interiorul clădirii.",
+                  "category": "religious",
+                  "coords": [
+                        7.332413,
+                        48.074419
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Biserica Saint-Paul este un alt monument religios important din zona urbană a orașului Colmar. Este un loc de devoțiune și reflectă diversitatea arhitecturii ecleziastice.",
+                  "category": "religious",
+                  "coords": [
+                        7.330589,
+                        48.076968
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie",
+                  "text": "Biserica Sainte-Marie este un centru religios cunoscut din Colmar. Edificiul impresionează prin designul său și este un punct de referință pentru credincioșii din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        7.337526,
+                        48.068836
+                  ]
+            },
+            {
+                  "name": "Chapelle de l'Assomption",
+                  "text": "Capela Adormirii Maicii Domnului din Colmar este un loc liniștit de rugăciune. Arhitectura sa și arta sacră din interior invită la meditație într-un cadru plin de istorie.",
+                  "category": "religious",
+                  "coords": [
+                        7.352963,
+                        48.067185
+                  ]
+            },
+            {
+                  "name": "Église Saint-François d'Assise",
+                  "text": "Biserica Saint-François d'Assise este o clădire catolică modernă din Colmar. Este dedicată Sfântului Francisc din Assisi și se remarcă printr-o construcție sobră.",
+                  "category": "religious",
+                  "coords": [
+                        7.348269,
+                        48.066157
+                  ]
+            },
+            {
+                  "name": "Église de Jésus-Christ des saints des derniers jours",
+                  "text": "Această clădire aparține Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Colmar. Servește ca loc de întâlnire pentru membrii acestei comunități religioase din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        7.324577,
+                        48.07629
+                  ]
+            },
+            {
+                  "name": "Église Néo-Apostolique",
+                  "text": "Biserica Nouapostolică din Colmar oferă un spațiu pentru slujbe religioase și comunitate. Clădirea este un exemplu al diversității religioase în arhitectura orașului.",
+                  "category": "religious",
+                  "coords": [
+                        7.37187,
+                        48.086357
+                  ]
+            },
+            {
+                  "name": "Église Évangélique Méthodiste",
+                  "text": "Biserica Evanghelică Metodistă din Colmar este un loc de întâlnire și rugăciune pentru comunitatea protestantă. Este situată în centrul orașului și este ușor accesibilă vizitatorilor.",
+                  "category": "religious",
+                  "coords": [
+                        7.364572,
+                        48.07851
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Joseph",
+                  "text": "Capela Saint-Joseph este un edificiu sacru modest din Colmar. Oferă un cadru intim pentru celebrări religioase și momente de liniște.",
+                  "category": "religious",
+                  "coords": [
+                        7.360232,
+                        48.061363
+                  ]
+            },
+            {
+                  "name": "Église protestante Saint-Marc",
+                  "text": "Biserica protestantă Saint-Marc din Colmar este o clădire istorică a comunității reformate. Se remarcă prin arhitectura sa și este un punct cultural important în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        7.332229,
+                        48.082802
+                  ]
+            },
+            {
+                  "name": "Chapelle Herzog",
+                  "text": "Capela Herzog din Colmar este o mică bijuterie sacră cu o atmosferă deosebită. Face adesea parte din tururile locale și impresionează prin detaliile sale ornamentale.",
+                  "category": "religious",
+                  "coords": [
+                        7.3194,
+                        48.084901
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Această clădire religioasă din Colmar servește ca loc de întâlnire pentru credincioșii protestanți. Designul simplu favorizează o atmosferă concentrată pentru slujbe și meditație.",
+                  "category": "religious",
+                  "coords": [
+                        7.393613,
+                        48.081362
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "Biserica Notre-Dame de l'Assomption este o clădire catolică semnificativă din Colmar. Este cunoscută pentru importanța sa religioasă și pentru prezența sa arhitecturală în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        7.396551,
+                        48.080317
+                  ]
+            },
+            {
+                  "name": "Église de Dieu",
+                  "text": "Biserica lui Dumnezeu din Colmar este o comunitate creștină cu o sală de adunare modernă. Oferă slujbe religioase regulate și activități comunitare pentru membrii săi.",
+                  "category": "religious",
+                  "coords": [
+                        7.365587,
+                        48.087798
+                  ]
+            },
+            {
+                  "name": "Parc Saint-François-Xavier",
+                  "text": "Parcul Saint-François-Xavier este o oază de verdeață în inima orașului Colmar. Oferă alei umbrite și peluze, ideale pentru o plimbare relaxantă în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        7.362601,
+                        48.072418
+                  ]
+            },
+            {
+                  "name": "Musée d'Histoire Naturelle et d'Éthnographie",
+                  "text": "Acest muzeu din Colmar este dedicat istoriei naturale și etnografiei regiunii. Vizitatorii pot descoperi aici colecții despre flora și fauna locală, precum și despre culturi extra-europene.",
+                  "category": "museum",
+                  "coords": [
+                        7.358779,
+                        48.07364
+                  ]
+            },
+            {
+                  "name": "Château Kiener",
+                  "text": "Château Kiener este un conac elegant din Colmar, înconjurat de o grădină frumoasă. Este un exemplu de arhitectură burgheză a orașului și servește astăzi diverselor scopuri.",
+                  "category": "castle",
+                  "coords": [
+                        7.349938,
+                        48.066601
+                  ]
+            },
+            {
+                  "name": "Musée des Usines Municipales",
+                  "text": "Muzeul Uzinelor Municipale pune în lumină istoria industrială a orașului Colmar. Este situat într-o fostă clădire de fabrică și expune obiecte tehnice din vremurile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        7.370109,
+                        48.055876
+                  ]
+            },
+            {
+                  "name": "Espace d'Art Contemporain André Malraux",
+                  "text": "Acest centru de artă contemporană din Colmar prezintă expoziții temporare ale artiștilor moderni. Este un loc important pentru schimbul cultural și promovarea curentelor artistice actuale.",
+                  "category": "museum",
+                  "coords": [
+                        7.359354,
+                        48.079186
+                  ]
             }
       ],
       "en": [
@@ -38221,6 +50787,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.369499,
                         48.09649
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "The Colmar Synagogue was built in the 19th century in the Neo-Romanesque style. It is a significant monument of Jewish heritage in Alsace and is officially protected.",
+                  "category": "religious",
+                  "coords": [
+                        7.362501,
+                        48.076977
+                  ]
+            },
+            {
+                  "name": "Statue of Liberty",
+                  "text": "This Statue of Liberty in Colmar is a replica of the famous work by Auguste Bartholdi, who was born in this city. The monument stands at one of the northern entrances to the city to welcome visitors.",
+                  "category": "historical",
+                  "coords": [
+                        7.363633,
+                        48.108406
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "The Saint-Joseph Church in Colmar is a striking building from the late 19th century. Its architecture is characterized by the reddish sandstone typical of the region.",
+                  "category": "religious",
+                  "coords": [
+                        7.346924,
+                        48.081755
+                  ]
+            },
+            {
+                  "name": "Chapelle CDRS",
+                  "text": "The Chapelle CDRS is located on the grounds of the local health centre in Colmar. It provides patients and visitors with a quiet place for prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        7.339131,
+                        48.086668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "The Saint-Antoine Church in Colmar is part of a historical ensemble in the city district. It is known for its simple beauty and its role in the religious life of the city.",
+                  "category": "religious",
+                  "coords": [
+                        7.369173,
+                        48.078595
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent de Paul",
+                  "text": "The Saint-Vincent de Paul Church in Colmar is a modern Catholic place of worship. It serves the local community as a place for gathering and religious services.",
+                  "category": "religious",
+                  "coords": [
+                        7.331432,
+                        48.087889
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean",
+                  "text": "This Saint-Jean Church in Colmar is an integral part of the city's sacred landscape. Visitors appreciate the architecture and the peaceful atmosphere inside the building.",
+                  "category": "religious",
+                  "coords": [
+                        7.332413,
+                        48.074419
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "The Saint-Paul Church is another important religious monument in the urban area of Colmar. It is a place of devotion and reflects the diversity of ecclesiastical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        7.330589,
+                        48.076968
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marie",
+                  "text": "The Sainte-Marie Church is a well-known religious centre in Colmar. The building impresses with its design and is a steady point of reference for believers in the region.",
+                  "category": "religious",
+                  "coords": [
+                        7.337526,
+                        48.068836
+                  ]
+            },
+            {
+                  "name": "Chapelle de l'Assomption",
+                  "text": "The Chapel of the Assumption in Colmar is a quiet place of prayer. Its architecture and the sacred art inside invite reflection in a historically rich setting.",
+                  "category": "religious",
+                  "coords": [
+                        7.352963,
+                        48.067185
+                  ]
+            },
+            {
+                  "name": "Église Saint-François d'Assise",
+                  "text": "The Saint-François d'Assise Church is a modern Catholic church building in Colmar. Dedicated to Saint Francis of Assisi, it is characterized by its simple construction style.",
+                  "category": "religious",
+                  "coords": [
+                        7.348269,
+                        48.066157
+                  ]
+            },
+            {
+                  "name": "Église de Jésus-Christ des saints des derniers jours",
+                  "text": "This building belongs to the Church of Jesus Christ of Latter-day Saints in Colmar. It serves as a meeting place for members of this faith community in the city.",
+                  "category": "religious",
+                  "coords": [
+                        7.324577,
+                        48.07629
+                  ]
+            },
+            {
+                  "name": "Église Néo-Apostolique",
+                  "text": "The New Apostolic Church in Colmar provides a space for services and community. The building is an example of the religious diversity in the city's architecture.",
+                  "category": "religious",
+                  "coords": [
+                        7.37187,
+                        48.086357
+                  ]
+            },
+            {
+                  "name": "Église Évangélique Méthodiste",
+                  "text": "The Evangelical Methodist Church in Colmar is a place of meeting and prayer for the Protestant community. It is located in the city centre and is easily accessible to visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.364572,
+                        48.07851
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Joseph",
+                  "text": "The Saint-Joseph Chapel is a modest sacred building in Colmar. It provides an intimate setting for religious celebrations and moments of silence.",
+                  "category": "religious",
+                  "coords": [
+                        7.360232,
+                        48.061363
+                  ]
+            },
+            {
+                  "name": "Église protestante Saint-Marc",
+                  "text": "The Protestant church of Saint-Marc in Colmar is a historic building of the Reformed community. It is distinguished by its architecture and is an important cultural spot in the city.",
+                  "category": "religious",
+                  "coords": [
+                        7.332229,
+                        48.082802
+                  ]
+            },
+            {
+                  "name": "Chapelle Herzog",
+                  "text": "The Herzog Chapel in Colmar is a small sacred jewel with a special atmosphere. It is often part of local walking tours and impresses with its detailed design.",
+                  "category": "religious",
+                  "coords": [
+                        7.3194,
+                        48.084901
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "This religious building in Colmar serves as a meeting place for Protestant believers. Its simple design promotes a focused atmosphere for services and meditation.",
+                  "category": "religious",
+                  "coords": [
+                        7.393613,
+                        48.081362
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "The church of Notre-Dame de l'Assomption is a significant Catholic building in Colmar. It is known for its religious importance and its architectural presence in the cityscape.",
+                  "category": "religious",
+                  "coords": [
+                        7.396551,
+                        48.080317
+                  ]
+            },
+            {
+                  "name": "Église de Dieu",
+                  "text": "The Church of God in Colmar is a Christian community with a modern assembly room. It offers regular services and community activities for its members.",
+                  "category": "religious",
+                  "coords": [
+                        7.365587,
+                        48.087798
+                  ]
+            },
+            {
+                  "name": "Parc Saint-François-Xavier",
+                  "text": "The Saint-François-Xavier Park is a green oasis in the heart of Colmar. It offers shaded paths and lawns that are ideal for a relaxing outdoor stroll.",
+                  "category": "park",
+                  "coords": [
+                        7.362601,
+                        48.072418
+                  ]
+            },
+            {
+                  "name": "Musée d'Histoire Naturelle et d'Éthnographie",
+                  "text": "This museum in Colmar is dedicated to the natural history and ethnography of the region. Visitors can discover collections of local flora, fauna, and non-European cultures here.",
+                  "category": "museum",
+                  "coords": [
+                        7.358779,
+                        48.07364
+                  ]
+            },
+            {
+                  "name": "Château Kiener",
+                  "text": "Château Kiener is an elegant manor house in Colmar surrounded by a beautiful garden. It is an example of the city's bourgeois architecture and now serves various purposes.",
+                  "category": "castle",
+                  "coords": [
+                        7.349938,
+                        48.066601
+                  ]
+            },
+            {
+                  "name": "Musée des Usines Municipales",
+                  "text": "The Musée des Usines Municipales highlights the industrial history of Colmar. It is located in a former factory building and displays technical exhibits from past times.",
+                  "category": "museum",
+                  "coords": [
+                        7.370109,
+                        48.055876
+                  ]
+            },
+            {
+                  "name": "Espace d'Art Contemporain André Malraux",
+                  "text": "This contemporary art centre in Colmar hosts rotating exhibitions of modern artists. It is an important venue for cultural exchange and the promotion of current art trends.",
+                  "category": "museum",
+                  "coords": [
+                        7.359354,
+                        48.079186
                   ]
             }
       ],
@@ -40152,6 +52943,231 @@ const citySeeds: CitySeed[] = [
                         -1.674282,
                         49.605747
                   ]
+            },
+            {
+                  "name": "Abbaye Notre-Dame-du-Voeu",
+                  "text": "Diese ehemalige Abtei in Cherbourg wurde im 12. Jahrhundert gegründet und besteht heute als bedeutende Ruine. Sie ist ein historisches Denkmal, das das mittelalterliche religiöse Erbe der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -1.641278,
+                        49.647189
+                  ]
+            },
+            {
+                  "name": "Parc Botanique de la Roche Fauconnière",
+                  "text": "Dieser botanische Garten in Cherbourg ist bekannt für seine Sammlung seltener und exotischer Pflanzen. Er bietet Naturliebhabern eine friedliche Grünfläche zum Erkunden.",
+                  "category": "park",
+                  "coords": [
+                        -1.621789,
+                        49.624994
+                  ]
+            },
+            {
+                  "name": "Manoir de la Fieffe",
+                  "text": "Das Manoir de la Fieffe ist ein historisches Schloss in Cherbourg En Cotentin. Dieses elegante Gebäude zeigt die traditionelle lokale Architektur und Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        -1.587629,
+                        49.619057
+                  ]
+            },
+            {
+                  "name": "Fort des Couplets",
+                  "text": "Das Fort des Couplets ist eine Verteidigungsanlage in Cherbourg En Cotentin. Es ist ein Zeugnis der maritimen Militärgeschichte der Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.663957,
+                        49.650663
+                  ]
+            },
+            {
+                  "name": "Redoute du Tôt",
+                  "text": "Dieses Fort in Cherbourg En Cotentin war Teil des Küstenverteidigungssystems. Es bietet einen Einblick in die strategischen Befestigungen der Vergangenheit.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.661735,
+                        49.64104
+                  ]
+            },
+            {
+                  "name": "Mairie déléguée de Tourlaville",
+                  "text": "Dieses Rathaus dient als Verwaltungszentrum im Gebiet von Cherbourg En Cotentin. Das Gebäude ist ein bemerkenswertes lokales Wahrzeichen für Bewohner und Besucher.",
+                  "category": "historical",
+                  "coords": [
+                        -1.579589,
+                        49.640496
+                  ]
+            },
+            {
+                  "name": "Le Vox",
+                  "text": "Le Vox ist ein Kunstzentrum in Cherbourg En Cotentin, in dem verschiedene kulturelle Veranstaltungen stattfinden. Es ist ein wichtiger Ort für gesellschaftliches Engagement und künstlerischen Ausdruck.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.617461,
+                        49.630691
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Roule",
+                  "text": "Notre-Dame du Roule ist eine Kultstätte in Cherbourg En Cotentin. Sie dient den spirituellen Bedürfnissen der örtlichen Gemeinschaft in einer ruhigen Umgebung.",
+                  "category": "religious",
+                  "coords": [
+                        -1.617455,
+                        49.628812
+                  ]
+            },
+            {
+                  "name": "Église Saint-Clément",
+                  "text": "Diese Kultstätte befindet sich in der Stadt Cherbourg En Cotentin. Sie ist ein traditioneller Ort für Gottesdienste und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        -1.613099,
+                        49.638999
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Travail",
+                  "text": "Diese Kultstätte in Cherbourg En Cotentin bietet einen Raum für Gebete. Sie ist Teil der lokalen religiösen Landschaft der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.586172,
+                        49.648873
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Die Église Saint-Joseph ist eine religiöse Stätte in Cherbourg En Cotentin. Sie bietet regelmäßige Gottesdienste und eine einladende Umgebung für Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        -1.599992,
+                        49.641229
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Diese Kultstätte ist ein zentrales Element des religiösen Lebens in Cherbourg En Cotentin. Sie wird für Gemeindeversammlungen und spirituelle Feiern genutzt.",
+                  "category": "religious",
+                  "coords": [
+                        -1.651327,
+                        49.645696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Die Église Saint-Michel ist eine lokale Kultstätte in Cherbourg En Cotentin. Sie bietet eine friedliche Atmosphäre für diejenigen, die ruhige Besinnung suchen.",
+                  "category": "religious",
+                  "coords": [
+                        -1.601196,
+                        49.613453
+                  ]
+            },
+            {
+                  "name": "Montagne du Roule",
+                  "text": "Die Montagne du Roule ist ein markanter Gipfel, der Cherbourg En Cotentin überragt. Sie bietet einen Panoramablick auf die Stadt und den umliegenden Hafen.",
+                  "category": "natural",
+                  "coords": [
+                        -1.612976,
+                        49.62844
+                  ]
+            },
+            {
+                  "name": "Batterie du Roule",
+                  "text": "Dieses Museum in Cherbourg En Cotentin befindet sich in historischen militärischen Befestigungsanlagen. Es zeigt Artefakte zur Verteidigung der Stadt und zur lokalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -1.614845,
+                        49.630465
+                  ]
+            },
+            {
+                  "name": "Galerie Margaux Tangre",
+                  "text": "Die Galerie Margaux Tangre ist eine Kunstgalerie in Cherbourg En Cotentin. Sie zeigt Werke verschiedener Künstler und trägt zur lokalen Kunstszene bei.",
+                  "category": "museum",
+                  "coords": [
+                        -1.624782,
+                        49.639254
+                  ]
+            },
+            {
+                  "name": "Les galets d'Urville",
+                  "text": "Diese Galerie in Cherbourg En Cotentin zeigt kreative Werke und künstlerische Installationen. Sie ist ein Ziel für alle, die zeitgenössische lokale Kunst entdecken möchten.",
+                  "category": "museum",
+                  "coords": [
+                        -1.622095,
+                        49.640148
+                  ]
+            },
+            {
+                  "name": "Fort Neuf (disparu)",
+                  "text": "Das Fort Neuf war eine Befestigungsanlage in Cherbourg En Cotentin, die heute nicht mehr existiert. Seine Geschichte bleibt ein wichtiger Teil der militärischen Vergangenheit der Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660318,
+                        49.622875
+                  ]
+            },
+            {
+                  "name": "Redoute des Fourches (disparue)",
+                  "text": "Dieses ehemalige Fort in Cherbourg En Cotentin ist aus dem modernen Landschaftsbild verschwunden. Es spielte einst eine Rolle im Verteidigungsnetz der Region.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.65034,
+                        49.635655
+                  ]
+            },
+            {
+                  "name": "Batterie des Couplets neuve",
+                  "text": "Dieses Fort in Cherbourg En Cotentin ist Teil des umfangreichen militärischen Erbes der Stadt. Es zeigt den Baustil historischer Küstenbatterien.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660216,
+                        49.654122
+                  ]
+            },
+            {
+                  "name": "Fort des Flamands",
+                  "text": "Das Fort des Flamands ist eine historische Befestigungsanlage in Cherbourg En Cotentin. Es bleibt ein bedeutendes Wahrzeichen, das die maritime Verteidigungsgeschichte der Region repräsentiert.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.594761,
+                        49.65163
+                  ]
+            },
+            {
+                  "name": "Bastion X - batterie de 100 mm TR",
+                  "text": "Dieses Fort in Cherbourg En Cotentin ist eine Stätte von militärhistorischem Interesse. Es zeigt Bestandteile der ehemaligen Verteidigungsartilleriesysteme der Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.627609,
+                        49.648973
+                  ]
+            },
+            {
+                  "name": "Fort du Homet",
+                  "text": "Das Fort du Homet ist eine Verteidigungsanlage im Hafengebiet von Cherbourg En Cotentin. Es spielte eine strategische Rolle beim Schutz des maritimen Zugangs der Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.632746,
+                        49.65845
+                  ]
+            },
+            {
+                  "name": "Batterie Sainte-Anne",
+                  "text": "Dieses Fort ist Teil der historischen Küstenverteidigung in Cherbourg En Cotentin. Es bietet Einblicke in die militärische Ingenieurskunst zum Schutz des Hafens.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660028,
+                        49.657172
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Butte",
+                  "text": "Das Théâtre de la Butte ist ein kultureller Veranstaltungsort in Cherbourg En Cotentin. Es beherbergt eine Vielzahl von Aufführungen und trägt zur lebendigen lokalen Kunstszene bei.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.64135,
+                        49.625996
+                  ]
             }
       ],
       "hu": [
@@ -40302,6 +53318,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.674282,
                         49.605747
+                  ]
+            },
+            {
+                  "name": "Abbaye Notre-Dame-du-Voeu",
+                  "text": "Ezt a cherbourgi egykori apátságot a 12. században alapították, ma jelentős romként áll. Történelmi műemlék, amely a régió középkori vallási örökségét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -1.641278,
+                        49.647189
+                  ]
+            },
+            {
+                  "name": "Parc Botanique de la Roche Fauconnière",
+                  "text": "Ez a cherbourgi botanikus kert ritka és egzotikus növénygyűjteményéről ismert. Nyugodt zöldterületet biztosít a természetkedvelők számára a felfedezéshez.",
+                  "category": "park",
+                  "coords": [
+                        -1.621789,
+                        49.624994
+                  ]
+            },
+            {
+                  "name": "Manoir de la Fieffe",
+                  "text": "A Manoir de la Fieffe egy történelmi kastély Cherbourg En Cotentinben. Ez az elegáns épület bemutatja a hagyományos helyi építészetet és történelmet.",
+                  "category": "castle",
+                  "coords": [
+                        -1.587629,
+                        49.619057
+                  ]
+            },
+            {
+                  "name": "Fort des Couplets",
+                  "text": "A Fort des Couplets egy védelmi építmény Cherbourg En Cotentinben. A város tengeri hadtörténetének bizonyítékaként áll.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.663957,
+                        49.650663
+                  ]
+            },
+            {
+                  "name": "Redoute du Tôt",
+                  "text": "Ez a cherbourgi erőd a partmenti védelmi rendszer része volt. Bepillantást nyújt a múlt stratégiai erődítményeibe.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.661735,
+                        49.64104
+                  ]
+            },
+            {
+                  "name": "Mairie déléguée de Tourlaville",
+                  "text": "Ez a városháza adminisztratív központként szolgál Cherbourg En Cotentin területén. Az épület nevezetes helyi tájékozódási pont a lakosok és a látogatók számára.",
+                  "category": "historical",
+                  "coords": [
+                        -1.579589,
+                        49.640496
+                  ]
+            },
+            {
+                  "name": "Le Vox",
+                  "text": "A Le Vox egy művészeti központ Cherbourg En Cotentinben, amely különféle kulturális eseményeknek ad otthont. A közösségi szerepvállalás és a művészi önkifejezés kulcsfontosságú helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.617461,
+                        49.630691
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Roule",
+                  "text": "A Notre-Dame du Roule egy istentiszteleti hely Cherbourg En Cotentinben. A helyi közösség spirituális igényeit szolgálja nyugodt környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.617455,
+                        49.628812
+                  ]
+            },
+            {
+                  "name": "Église Saint-Clément",
+                  "text": "Ez az istentiszteleti hely Cherbourg En Cotentin városában található. A vallási szertatások és az elmélkedés hagyományos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -1.613099,
+                        49.638999
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Travail",
+                  "text": "Ez a Cherbourg En Cotentinben található istentiszteleti hely teret biztosít az imádságnak. A város helyi vallási tájképének része.",
+                  "category": "religious",
+                  "coords": [
+                        -1.586172,
+                        49.648873
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Az Église Saint-Joseph egy vallási helyszín Cherbourg En Cotentinben. Rendszeres istentiszteleteket és barátságos környezetet kínál a látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        -1.599992,
+                        49.641229
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Ez az istentiszteleti hely a vallási élet központi eleme Cherbourg En Cotentinben. Közösségi összejövetelekre és spirituális szertartásokra használják.",
+                  "category": "religious",
+                  "coords": [
+                        -1.651327,
+                        49.645696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Az Église Saint-Michel egy helyi istentiszteleti hely Cherbourg En Cotentinben. Békés légkört biztosít azok számára, akik csendes elmélkedésre vágynak.",
+                  "category": "religious",
+                  "coords": [
+                        -1.601196,
+                        49.613453
+                  ]
+            },
+            {
+                  "name": "Montagne du Roule",
+                  "text": "A Montagne du Roule egy kiemelkedő csúcs, amely Cherbourg En Cotentinre néz. Panorámás kilátást nyújt a városra és a környező kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        -1.612976,
+                        49.62844
+                  ]
+            },
+            {
+                  "name": "Batterie du Roule",
+                  "text": "Ez a cherbourgi múzeum történelmi katonai erődítményekben található. A város védelmével és a helyi történelemmel kapcsolatos tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -1.614845,
+                        49.630465
+                  ]
+            },
+            {
+                  "name": "Galerie Margaux Tangre",
+                  "text": "A Galerie Margaux Tangre egy művészeti galéria Cherbourg En Cotentinben. Különféle művészek alkotásait mutatja be, és hozzájárul a helyi művészeti élethez.",
+                  "category": "museum",
+                  "coords": [
+                        -1.624782,
+                        49.639254
+                  ]
+            },
+            {
+                  "name": "Les galets d'Urville",
+                  "text": "Ez a cherbourgi galéria kreatív alkotásokat és művészeti installációkat mutat be. Úti cél azok számára, akik érdeklődnek a kortárs helyi művészet felfedezése iránt.",
+                  "category": "museum",
+                  "coords": [
+                        -1.622095,
+                        49.640148
+                  ]
+            },
+            {
+                  "name": "Fort Neuf (disparu)",
+                  "text": "A Fort Neuf egy erődítmény volt Cherbourg En Cotentinben, amely ma már nem létezik. Története továbbra is fontos része a város katonai múltjának.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660318,
+                        49.622875
+                  ]
+            },
+            {
+                  "name": "Redoute des Fourches (disparue)",
+                  "text": "Ez a cherbourgi egykori erőd eltűnt a modern tájról. Valamikor szerepet játszott a régió védelmi hálózatában.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.65034,
+                        49.635655
+                  ]
+            },
+            {
+                  "name": "Batterie des Couplets neuve",
+                  "text": "Ez a cherbourgi erőd a város kiterjedt katonai örökségének része. Bemutatja a történelmi partmenti ütegek építészeti stílusát.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660216,
+                        49.654122
+                  ]
+            },
+            {
+                  "name": "Fort des Flamands",
+                  "text": "A Fort des Flamands egy történelmi erődítmény Cherbourg En Cotentinben. Továbbra is jelentős tájékozódási pont, amely a terület tengeri védelmi történelmét képviseli.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.594761,
+                        49.65163
+                  ]
+            },
+            {
+                  "name": "Bastion X - batterie de 100 mm TR",
+                  "text": "Ez a cherbourgi erőd katonai történelmi jelentőségű helyszín. A város egykori védelmi tüzérségi rendszereinek elemeit mutatja be.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.627609,
+                        49.648973
+                  ]
+            },
+            {
+                  "name": "Fort du Homet",
+                  "text": "A Fort du Homet egy védelmi építmény Cherbourg En Cotentin kikötői területén. Stratégiai szerepet játszott a város tengeri megközelítésének védelmében.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.632746,
+                        49.65845
+                  ]
+            },
+            {
+                  "name": "Batterie Sainte-Anne",
+                  "text": "Ez az erőd a cherbourgi történelmi partmenti védelem része. Betekintést nyújt a kikötő védelmére használt haditechnikába.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660028,
+                        49.657172
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Butte",
+                  "text": "A Théâtre de la Butte egy kulturális helyszín Cherbourg En Cotentinben. Különféle előadásoknak ad otthont, hozzájárulva a város élénk helyi művészeti életéhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.64135,
+                        49.625996
                   ]
             }
       ],
@@ -40454,6 +53695,231 @@ const citySeeds: CitySeed[] = [
                         -1.674282,
                         49.605747
                   ]
+            },
+            {
+                  "name": "Abbaye Notre-Dame-du-Voeu",
+                  "text": "Această fostă abație din Cherbourg a fost fondată în secolul al XII-lea și acum se prezintă sub formă de ruine semnificative. Este un monument istoric care reflectă moștenirea religioasă medievală a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -1.641278,
+                        49.647189
+                  ]
+            },
+            {
+                  "name": "Parc Botanique de la Roche Fauconnière",
+                  "text": "Această grădină botanică din Cherbourg este cunoscută pentru colecția sa de plante rare și exotice. Oferă un spațiu verde liniștit pe care pasionații de natură îl pot explora.",
+                  "category": "park",
+                  "coords": [
+                        -1.621789,
+                        49.624994
+                  ]
+            },
+            {
+                  "name": "Manoir de la Fieffe",
+                  "text": "Manoir de la Fieffe este un castel istoric situat în Cherbourg En Cotentin. Această clădire elegantă prezintă arhitectura și istoria locală tradițională.",
+                  "category": "castle",
+                  "coords": [
+                        -1.587629,
+                        49.619057
+                  ]
+            },
+            {
+                  "name": "Fort des Couplets",
+                  "text": "Fort des Couplets este o structură defensivă situată în Cherbourg En Cotentin. Este o mărturie a istoriei militare maritime a orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.663957,
+                        49.650663
+                  ]
+            },
+            {
+                  "name": "Redoute du Tôt",
+                  "text": "Acest fort din Cherbourg En Cotentin a făcut parte din sistemul de apărare de coastă. Oferă o privire asupra fortificațiilor strategice din trecut.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.661735,
+                        49.64104
+                  ]
+            },
+            {
+                  "name": "Mairie déléguée de Tourlaville",
+                  "text": "Această primărie delegată servește ca centru administrativ în zona Cherbourg En Cotentin. Clădirea este un punct de reper local notabil pentru rezidenți și vizitatori.",
+                  "category": "historical",
+                  "coords": [
+                        -1.579589,
+                        49.640496
+                  ]
+            },
+            {
+                  "name": "Le Vox",
+                  "text": "Le Vox este un centru de artă din Cherbourg En Cotentin care găzduiește diverse evenimente culturale. Este un loc cheie pentru implicarea comunității și exprimarea artistică.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.617461,
+                        49.630691
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Roule",
+                  "text": "Notre-Dame du Roule este un lăcaș de cult situat în Cherbourg En Cotentin. Acesta servește nevoile spirituale ale comunității locale într-un cadru liniștit.",
+                  "category": "religious",
+                  "coords": [
+                        -1.617455,
+                        49.628812
+                  ]
+            },
+            {
+                  "name": "Église Saint-Clément",
+                  "text": "Acest lăcaș de cult este situat în orașul Cherbourg En Cotentin. Este un site tradițional pentru servicii religioase și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        -1.613099,
+                        49.638999
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Travail",
+                  "text": "Situat în Cherbourg En Cotentin, acest lăcaș de cult oferă un spațiu pentru rugăciune. Face parte din peisajul religios local al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -1.586172,
+                        49.648873
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Église Saint-Joseph este un sit religios din Cherbourg En Cotentin. Oferă servicii regulate și un mediu primitor pentru vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        -1.599992,
+                        49.641229
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Acest lăcaș de cult este un element central al vieții religioase din Cherbourg En Cotentin. Este folosit pentru adunări comunitare și ceremonii spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        -1.651327,
+                        49.645696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Église Saint-Michel este un lăcaș de cult local din Cherbourg En Cotentin. Oferă o atmosferă liniștită pentru cei care caută o reflecție tăcută.",
+                  "category": "religious",
+                  "coords": [
+                        -1.601196,
+                        49.613453
+                  ]
+            },
+            {
+                  "name": "Montagne du Roule",
+                  "text": "Montagne du Roule este un vârf proeminent care domină Cherbourg En Cotentin. Oferă vedere panoramică asupra orașului și a portului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -1.612976,
+                        49.62844
+                  ]
+            },
+            {
+                  "name": "Batterie du Roule",
+                  "text": "Acest muzeu din Cherbourg En Cotentin este situat în cadrul fortificațiilor militare istorice. Expune artefacte legate de apărarea orașului și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -1.614845,
+                        49.630465
+                  ]
+            },
+            {
+                  "name": "Galerie Margaux Tangre",
+                  "text": "Galerie Margaux Tangre este o galerie de artă situată în Cherbourg En Cotentin. Prezintă lucrări ale diverșilor artiști și contribuie la scena artistică locală.",
+                  "category": "museum",
+                  "coords": [
+                        -1.624782,
+                        49.639254
+                  ]
+            },
+            {
+                  "name": "Les galets d'Urville",
+                  "text": "Această galerie din Cherbourg En Cotentin expune lucrări creative și instalații artistice. Este o destinație pentru cei interesați să exploreze arta locală contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -1.622095,
+                        49.640148
+                  ]
+            },
+            {
+                  "name": "Fort Neuf (disparu)",
+                  "text": "Fort Neuf a fost o fortificație din Cherbourg En Cotentin care nu mai există astăzi. Istoria sa rămâne o parte importantă a trecutului militar al orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660318,
+                        49.622875
+                  ]
+            },
+            {
+                  "name": "Redoute des Fourches (disparue)",
+                  "text": "Acest fost fort din Cherbourg En Cotentin a dispărut din peisajul modern. Acesta a jucat odată un rol în rețeaua defensivă a regiunii.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.65034,
+                        49.635655
+                  ]
+            },
+            {
+                  "name": "Batterie des Couplets neuve",
+                  "text": "Acest fort din Cherbourg En Cotentin face parte din patrimoniul militar extins al orașului. Prezintă stilul arhitectural al bateriilor de coastă istorice.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660216,
+                        49.654122
+                  ]
+            },
+            {
+                  "name": "Fort des Flamands",
+                  "text": "Fort des Flamands este o fortificație istorică situată în Cherbourg En Cotentin. Rămâne un punct de reper semnificativ care reprezintă istoria apărării maritime a zonei.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.594761,
+                        49.65163
+                  ]
+            },
+            {
+                  "name": "Bastion X - batterie de 100 mm TR",
+                  "text": "Acest fort din Cherbourg En Cotentin este un sit de interes istoric militar. Prezintă componente ale fostelor sisteme de artilerie defensivă ale orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.627609,
+                        49.648973
+                  ]
+            },
+            {
+                  "name": "Fort du Homet",
+                  "text": "Fort du Homet este o structură defensivă situată în zona portuară a orașului Cherbourg En Cotentin. A jucat un rol strategic în protejarea accesului maritim al orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.632746,
+                        49.65845
+                  ]
+            },
+            {
+                  "name": "Batterie Sainte-Anne",
+                  "text": "Acest fort face parte din sistemul istoric de apărare de coastă din Cherbourg En Cotentin. Oferă informații despre ingineria militară utilizată pentru a proteja portul.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660028,
+                        49.657172
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Butte",
+                  "text": "Théâtre de la Butte este un loc cultural din Cherbourg En Cotentin. Găzduiește o varietate de spectacole, contribuind la scena artistică locală vibrantă.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.64135,
+                        49.625996
+                  ]
             }
       ],
       "en": [
@@ -40604,6 +54070,231 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.674282,
                         49.605747
+                  ]
+            },
+            {
+                  "name": "Abbaye Notre-Dame-du-Voeu",
+                  "text": "This former abbey in Cherbourg was founded in the 12th century and now stands as significant ruins. It is a historical monument that reflects the region's medieval religious heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -1.641278,
+                        49.647189
+                  ]
+            },
+            {
+                  "name": "Parc Botanique de la Roche Fauconnière",
+                  "text": "This botanical garden in Cherbourg is known for its collection of rare and exotic plants. It provides a peaceful green space for nature enthusiasts to explore.",
+                  "category": "park",
+                  "coords": [
+                        -1.621789,
+                        49.624994
+                  ]
+            },
+            {
+                  "name": "Manoir de la Fieffe",
+                  "text": "The Manoir de la Fieffe is a historic castle located in Cherbourg En Cotentin. This elegant building showcases traditional local architecture and history.",
+                  "category": "castle",
+                  "coords": [
+                        -1.587629,
+                        49.619057
+                  ]
+            },
+            {
+                  "name": "Fort des Couplets",
+                  "text": "Fort des Couplets is a defensive structure situated in Cherbourg En Cotentin. It stands as a testament to the city's maritime military history.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.663957,
+                        49.650663
+                  ]
+            },
+            {
+                  "name": "Redoute du Tôt",
+                  "text": "This fort in Cherbourg En Cotentin was part of the coastal defense system. It offers a glimpse into the strategic fortifications of the past.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.661735,
+                        49.64104
+                  ]
+            },
+            {
+                  "name": "Mairie déléguée de Tourlaville",
+                  "text": "This town hall serves as an administrative center in the Cherbourg En Cotentin area. The building is a notable local landmark for residents and visitors.",
+                  "category": "historical",
+                  "coords": [
+                        -1.579589,
+                        49.640496
+                  ]
+            },
+            {
+                  "name": "Le Vox",
+                  "text": "Le Vox is an arts center in Cherbourg En Cotentin that hosts various cultural events. It is a key venue for community engagement and artistic expression.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.617461,
+                        49.630691
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Roule",
+                  "text": "Notre-Dame du Roule is a place of worship located in Cherbourg En Cotentin. It serves the spiritual needs of the local community in a quiet setting.",
+                  "category": "religious",
+                  "coords": [
+                        -1.617455,
+                        49.628812
+                  ]
+            },
+            {
+                  "name": "Église Saint-Clément",
+                  "text": "This place of worship is situated in the city of Cherbourg En Cotentin. It is a traditional site for religious services and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -1.613099,
+                        49.638999
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Travail",
+                  "text": "Located in Cherbourg En Cotentin, this place of worship provides a space for prayer. It is part of the city's local religious landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -1.586172,
+                        49.648873
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Église Saint-Joseph is a religious site in Cherbourg En Cotentin. It offers regular services and a welcoming environment for visitors.",
+                  "category": "religious",
+                  "coords": [
+                        -1.599992,
+                        49.641229
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "This place of worship is a central feature of religious life in Cherbourg En Cotentin. It is used for community gatherings and spiritual observances.",
+                  "category": "religious",
+                  "coords": [
+                        -1.651327,
+                        49.645696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Église Saint-Michel is a local place of worship in Cherbourg En Cotentin. It provides a peaceful atmosphere for those seeking quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -1.601196,
+                        49.613453
+                  ]
+            },
+            {
+                  "name": "Montagne du Roule",
+                  "text": "Montagne du Roule is a prominent peak that overlooks Cherbourg En Cotentin. It offers panoramic views of the city and the surrounding harbor.",
+                  "category": "natural",
+                  "coords": [
+                        -1.612976,
+                        49.62844
+                  ]
+            },
+            {
+                  "name": "Batterie du Roule",
+                  "text": "This museum in Cherbourg En Cotentin is located within historic military fortifications. It showcases artifacts related to the city's defense and local history.",
+                  "category": "museum",
+                  "coords": [
+                        -1.614845,
+                        49.630465
+                  ]
+            },
+            {
+                  "name": "Galerie Margaux Tangre",
+                  "text": "Galerie Margaux Tangre is an art gallery located in Cherbourg En Cotentin. It features works from various artists and contributes to the local art scene.",
+                  "category": "museum",
+                  "coords": [
+                        -1.624782,
+                        49.639254
+                  ]
+            },
+            {
+                  "name": "Les galets d'Urville",
+                  "text": "This gallery in Cherbourg En Cotentin displays creative works and artistic installations. It is a destination for those interested in exploring contemporary local art.",
+                  "category": "museum",
+                  "coords": [
+                        -1.622095,
+                        49.640148
+                  ]
+            },
+            {
+                  "name": "Fort Neuf (disparu)",
+                  "text": "Fort Neuf was a fortification in Cherbourg En Cotentin that no longer exists today. Its history remains an important part of the city's military past.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660318,
+                        49.622875
+                  ]
+            },
+            {
+                  "name": "Redoute des Fourches (disparue)",
+                  "text": "This former fort in Cherbourg En Cotentin has disappeared from the modern landscape. It once played a role in the defensive network of the region.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.65034,
+                        49.635655
+                  ]
+            },
+            {
+                  "name": "Batterie des Couplets neuve",
+                  "text": "This fort in Cherbourg En Cotentin is part of the city's extensive military heritage. It showcases the architectural style of historic coastal batteries.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660216,
+                        49.654122
+                  ]
+            },
+            {
+                  "name": "Fort des Flamands",
+                  "text": "Fort des Flamands is a historical fortification located in Cherbourg En Cotentin. It remains a significant landmark representing the area's maritime defense history.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.594761,
+                        49.65163
+                  ]
+            },
+            {
+                  "name": "Bastion X - batterie de 100 mm TR",
+                  "text": "This fort in Cherbourg En Cotentin is a site of military historical interest. It features components of the city's former defensive artillery systems.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.627609,
+                        49.648973
+                  ]
+            },
+            {
+                  "name": "Fort du Homet",
+                  "text": "Fort du Homet is a defensive structure located within the port area of Cherbourg En Cotentin. It played a strategic role in protecting the city's maritime access.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.632746,
+                        49.65845
+                  ]
+            },
+            {
+                  "name": "Batterie Sainte-Anne",
+                  "text": "This fort is part of the historic coastal defenses in Cherbourg En Cotentin. It offers insights into the military engineering used to safeguard the harbor.",
+                  "category": "fortress",
+                  "coords": [
+                        -1.660028,
+                        49.657172
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Butte",
+                  "text": "Théâtre de la Butte is a cultural venue in Cherbourg En Cotentin. It hosts a variety of performances, contributing to the city's vibrant local arts scene.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.64135,
+                        49.625996
                   ]
             }
       ],

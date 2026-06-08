@@ -1551,7 +1551,52 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-gorgascura-cities-v2.webp",
   },
   {
-    id: "sanmarino-ca-berloni-cities-v2",
+    id: "sanmarino-ca-berloni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Ca Berloni.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Ca Berloni településen.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "O destinație plină de distracție pentru familii și copii în Ca Berloni.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "A fun-filled destination for families and children in Ca Berloni.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Cà Berloni", hu: "Cà Berloni", ro: "Cà Berloni", en: "Cà Berloni" },
@@ -1596,7 +1641,52 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-ca-berloni-cities-v2.webp",
   },
   {
-    id: "sanmarino-ca-chiaro-cities-v2",
+    id: "sanmarino-ca-chiaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marino Adventures in Ca Chiaro ist ein Kletter- und Erlebnispark für Familien.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "A Ca Chiaro-i San Marino Adventures egy kalandpark családok számára.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marino Adventures din Ca Chiaro este un parc de aventură pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marino Adventures in Ca Chiaro is an adventure park for families.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Cà Chiaro", hu: "Cà Chiaro", ro: "Cà Chiaro", en: "Cà Chiaro" },
@@ -2496,7 +2586,52 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-caladino-cities-v2.webp",
   },
   {
-    id: "sanmarino-canepa-cities-v2",
+    id: "sanmarino-canepa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "In Canepa bietet San Marino Adventures spannende Aktivitäten in den Bäumen an.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Canepa területén a San Marino Adventures izgalmas erdei kalandokat kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "În Canepa, San Marino Adventures oferă activități captivante în copaci.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "In Canepa, San Marino Adventures offers exciting activities in the trees.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Canepa", hu: "Canepa", ro: "Canepa", en: "Canepa" },
@@ -2586,7 +2721,52 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-casole-cities-v2.webp",
   },
   {
-    id: "sanmarino-castellaro-cities-v2",
+    id: "sanmarino-castellaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Castellaro.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Castellaro településen.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "O destinație plină de distracție pentru familii și copii în Castellaro.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "A fun-filled destination for families and children in Castellaro.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Castellaro", hu: "Castellaro", ro: "Castellaro", en: "Castellaro" },
@@ -2776,6 +2956,15 @@ export const sanmarinoCitiesV2: POI[] = [
                         12.447424,
                         43.940522
                   ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marino Adventures in Cerbaiola ist ein Ziel für aktive Freizeitgestaltung im Freien.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
             }
       ],
       "hu": [
@@ -2921,6 +3110,15 @@ export const sanmarinoCitiesV2: POI[] = [
                   "coords": [
                         12.447424,
                         43.940522
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "A cerbaiolai San Marino Adventures az aktív szabadtéri kikapcsolódás helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
                   ]
             }
       ],
@@ -3068,6 +3266,15 @@ export const sanmarinoCitiesV2: POI[] = [
                         12.447424,
                         43.940522
                   ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marino Adventures din Cerbaiola este o destinație pentru recreere activă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
             }
       ],
       "en": [
@@ -3213,6 +3420,15 @@ export const sanmarinoCitiesV2: POI[] = [
                   "coords": [
                         12.447424,
                         43.940522
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marino Adventures in Cerbaiola is a destination for active outdoor recreation.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
                   ]
             }
       ]
@@ -4296,7 +4512,52 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-gualdicciolo-di-sotto-cities-v2.webp",
   },
   {
-    id: "sanmarino-montalbo-cities-v2",
+    id: "sanmarino-montalbo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "In Montalbo bietet der Erlebnispark San Marino Adventures verschiedene Parcours an.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Montalbo területén a San Marino Adventures kalandpark különféle pályákat kínál.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "În Montalbo, parcul de aventură San Marino Adventures oferă diverse trasee.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "In Montalbo, the San Marino Adventures adventure park offers various courses.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Montalbo", hu: "Montalbo", ro: "Montalbo", en: "Montalbo" },
@@ -4341,7 +4602,52 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-montalbo-cities-v2.webp",
   },
   {
-    id: "sanmarino-montegiardino-di-sopra-cities-v2",
+    id: "sanmarino-montegiardino-di-sopra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein Abenteuerpark im Freien in Montegiardino Di Sopra mit Kletterparcours und Aktivitäten für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Szabadtéri kalandpark Montegiardino Di Sopra területén, mászópályákkal és tevékenységekkel minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Un parc de aventură în aer liber din Montegiardino Di Sopra, cu trasee de cățărare și activități pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "An outdoor adventure park in Montegiardino Di Sopra with climbing courses and activities for all ages.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Montegiardino di Sopra", hu: "Montegiardino di Sopra", ro: "Montegiardino di Sopra", en: "Montegiardino di Sopra" },
@@ -4386,7 +4692,52 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-montegiardino-di-sopra-cities-v2.webp",
   },
   {
-    id: "sanmarino-montegiardino-di-sotto-cities-v2",
+    id: "sanmarino-montegiardino-di-sotto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Montegiardino Di Sotto.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Montegiardino Di Sotto településen.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "O destinație plină de distracție pentru familii și copii în Montegiardino Di Sotto.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Marino Adventures",
+                  "text": "A fun-filled destination for families and children in Montegiardino Di Sotto.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Montegiardino di Sotto", hu: "Montegiardino di Sotto", ro: "Montegiardino di Sotto", en: "Montegiardino di Sotto" },
@@ -5287,6 +5638,15 @@ export const sanmarinoCitiesV2: POI[] = [
                         12.447424,
                         43.940522
                   ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein unterhaltsames Ziel für Familien und Kinder in Poggio Casalino.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
             }
       ],
       "hu": [
@@ -5432,6 +5792,15 @@ export const sanmarinoCitiesV2: POI[] = [
                   "coords": [
                         12.447424,
                         43.940522
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Szórakoztató úti cél családok és gyermekek számára Poggio Casalino településen.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
                   ]
             }
       ],
@@ -5579,6 +5948,15 @@ export const sanmarinoCitiesV2: POI[] = [
                         12.447424,
                         43.940522
                   ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "O destinație plină de distracție pentru familii și copii în Poggio Casalino.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
             }
       ],
       "en": [
@@ -5725,6 +6103,15 @@ export const sanmarinoCitiesV2: POI[] = [
                         12.447424,
                         43.940522
                   ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "A fun-filled destination for families and children in Poggio Casalino.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
             }
       ]
 },
@@ -5772,7 +6159,628 @@ export const sanmarinoCitiesV2: POI[] = [
     image: "/poi-images/sanmarino-poggio-casalino-cities-v2.webp",
   },
   {
-    id: "sanmarino-poggio-chiurano-cities-v2", "sights": {"de": [{"name": "Museo Armi Moderne", "text": "Ein Museum, das eine umfangreiche Sammlung moderner Waffen aus verschiedenen Epochen zeigt.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Museo delle Armi Antiche", "text": "Ein Museum in der Festung La Cesta, das historische Rüstungen und Waffen präsentiert.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "Eine Ausstellung historischer Folterinstrumente und ihrer grausamen Geschichte.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Castello della Guaita", "text": "Die älteste und bekannteste der drei Festungen auf dem Monte Titano.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "Der kleinste der drei Türme von San Marino, der früher als Gefängnis diente.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "Museo d'Arte Contemporanea di San Marino", "text": "Eine Galerie, die moderne und zeitgenössische Kunstwerke lokaler und internationaler Künstler ausstellt.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte San Cristoforo", "text": "Ein Berg in San Marino, der zur Hügellandschaft des Staates gehört.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Ein markanter Berggipfel in der Republik San Marino.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Als Teil des Apennins in der Nähe von Poggio Chiurano ist der Monte della Mandra ein bekannter Naturgipfel in San Marino. Dieser Berg bietet Wanderern die Möglichkeit, die abwechslungsreiche Topografie des Landes zu entdecken.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Ein Berg in San Marino, bekannt als Ort historischer Auseinandersetzungen im Zweiten Weltkrieg.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "Eine ungewöhnliche Kunstinstallation in Poggio Chiurano, die ein Panzer aus Knete darstellt.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Die Überreste einer mittelalterlichen Befestigungsanlage in Poggio Chiurano.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "Ein Denkmal in Poggio Chiurano, das die Form eines Pferdes darstellt.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Ein historischer elektrischer Triebwagen, der an die Eisenbahngeschichte der Region erinnert.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Ein modernes Veranstaltungs- und Kongresszentrum in Poggio Chiurano.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "Eine Wallfahrtskirche in Poggio Chiurano, die als Ort der religiösen Andacht dient.", "category": "religious", "coords": [12.447424, 43.940522]}], "hu": [{"name": "Museo Armi Moderne", "text": "Múzeum, amely különböző korszakokból származó modern fegyverek gazdag gyűjteményét mutatja be.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Museo delle Armi Antiche", "text": "A La Cesta erődben található múzeum, amely történelmi páncélokat és fegyvereket mutat be.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "Történelmi kínzóeszközök és azok kegyetlen történetének kiállítása.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Castello della Guaita", "text": "A legrégebbi és legismertebb a Monte Titano három erődítménye közül.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "San Marino három tornya közül a legkisebb, amely korábban börtönként szolgált.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "Museo d'Arte Contemporanea di San Marino", "text": "Galéria, amely helyi és nemzetközi művészek modern és kortárs alkotásait mutatja be.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte San Cristoforo", "text": "Egy hegy San Marinóban, amely az ország dombos tájaihoz tartozik.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Egy jellegzetes hegycsúcs San Marino Köztársaságban.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "A Poggio Chiurano melletti Appenninek részeként a Monte della Mandra egy figyelemre méltó természeti csúcs San Marinóban. Ez a hegy lehetőséget kínál a túrázóknak, hogy felfedezzék az ország változatos domborzatát.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Egy hegy San Marinóban, amely a második világháborús harcok helyszíneként ismert.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "Egy különleges művészeti installáció Poggio Chiuranóban, amely egy gyurmából készült tankot ábrázol.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Egy középkori erődítmény maradványai Poggio Chiuranóban.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "Egy ló alakú emlékmű Poggio Chiuranóban.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Egy történelmi elektromos motorkocsi, amely a régió vasúti múltját idézi.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Egy modern rendezvény- és kongresszusi központ Poggio Chiuranóban.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "Poggio Chiurano-i zarándoktemplom, amely a vallási áhítat helyszíne.", "category": "religious", "coords": [12.447424, 43.940522]}], "ro": [{"name": "Museo Armi Moderne", "text": "Un muzeu care expune o colecție vastă de arme moderne din diferite epoci.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Museo delle Armi Antiche", "text": "Un muzeu situat în fortăreața La Cesta, care prezintă armuri și arme istorice.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "O expoziție de instrumente de tortură istorice și istoria lor sumbră.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Castello della Guaita", "text": "Cea mai veche și mai cunoscută dintre cele trei fortărețe de pe Monte Titano.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "Cel mai mic dintre cele trei turnuri din San Marino, care a servit în trecut ca închisoare.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "Museo d'Arte Contemporanea di San Marino", "text": "O galerie care expune opere de artă modernă și contemporană ale artiștilor locali și internaționali.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte San Cristoforo", "text": "Un munte din San Marino, care face parte din relieful deluros al statului.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "Un vârf montan proeminent situat în Republica San Marino.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "Ca parte a Apeninilor din apropiere de Poggio Chiurano, Monte della Mandra este un vârf natural important din San Marino. Acest munte oferă drumeților șansa de a descoperi topografia diversă a țării.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "Un munte din San Marino, cunoscut ca loc de desfășurare a luptelor din al Doilea Război Mondial.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Serbatoio da plastilina", "text": "O instalație artistică neobișnuită din Poggio Chiurano, reprezentând un tanc din plastilină.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "Rămășițele unei mici fortificații medievale situate în Poggio Chiurano.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "Un monument din Poggio Chiurano care reprezintă figura unui cal.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "Un vagon electric istoric care amintește de istoria feroviară a regiunii.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "Un centru modern de evenimente și congrese situat în Poggio Chiurano.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "Un sanctuar din Poggio Chiurano care servește ca loc de pelerinaj și rugăciune.", "category": "religious", "coords": [12.447424, 43.940522]}], "en": [{"name": "Museo Armi Moderne", "text": "A museum exhibiting an extensive collection of modern weapons from various eras.", "category": "museum", "coords": [12.446959, 43.936655]}, {"name": "Sammarinese Museum of Ancient Arms", "text": "A museum located in La Cesta fortress, displaying historic armor and weapons.", "category": "museum", "coords": [12.451417, 43.932533]}, {"name": "Museo della Tortura", "text": "An exhibition of historical torture instruments and their grim history.", "category": "museum", "coords": [12.446905, 43.935249]}, {"name": "Guaita Castle", "text": "The oldest and most famous of the three fortresses on Monte Titano.", "category": "castle", "coords": [12.449286, 43.935224]}, {"name": "Torre del Montale", "text": "The smallest of the three towers of San Marino, which formerly served as a prison.", "category": "castle", "coords": [12.452474, 43.92999]}, {"name": "National Gallery of Modern and Contemporary Art", "text": "A gallery exhibiting modern and contemporary artworks by local and international artists.", "category": "museum", "coords": [12.445734, 43.937153]}, {"name": "Monte San Cristoforo", "text": "A mountain in San Marino, belonging to the hilly landscape of the state.", "category": "natural", "coords": [12.463921, 43.907142]}, {"name": "Monte Carlo", "text": "A prominent mountain peak located in the Republic of San Marino.", "category": "natural", "coords": [12.455609, 43.914876]}, {"name": "Monte della Mandra", "text": "As part of the Apennines near Poggio Chiurano, Monte della Mandra is a notable natural peak in San Marino. This mountain offers hikers a chance to discover the country's diverse topography.", "category": "natural", "coords": [12.472098, 43.919408]}, {"name": "Monte Pulito", "text": "A mountain in San Marino, known as a site of historical battles during World War II.", "category": "natural", "coords": [12.490298, 43.931233]}, {"name": "Tank from plasticine", "text": "An unusual art installation in Poggio Chiurano representing a tank made from plasticine.", "category": "landmark", "coords": [12.450535, 43.933568]}, {"name": "Rovine di un fortilizio medievale", "text": "The remains of a small medieval fortification located in Poggio Chiurano.", "category": "historical", "coords": [12.4478, 43.911381]}, {"name": "Cavallo", "text": "A monument in Poggio Chiurano representing the figure of a horse.", "category": "historical", "coords": [12.448703, 43.931899]}, {"name": "L’elettromotrice \"AB-03\"", "text": "A historic electric railcar that recalls the railway history of the region.", "category": "landmark", "coords": [12.45034, 43.930147]}, {"name": "Kursaal Sala Congressi", "text": "A modern events and congress center located in Poggio Chiurano.", "category": "cultural", "coords": [12.452055, 43.928347]}, {"name": "Santuario della Beata Vergine della Consolazione", "text": "A sanctuary in Poggio Chiurano that serves as a place of religious devotion and pilgrimage.", "category": "religious", "coords": [12.447424, 43.940522]}]},
+    id: "sanmarino-poggio-chiurano-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Ein Museum, das eine umfangreiche Sammlung moderner Waffen aus verschiedenen Epochen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Ein Museum in der Festung La Cesta, das historische Rüstungen und Waffen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Eine Ausstellung historischer Folterinstrumente und ihrer grausamen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Die älteste und bekannteste der drei Festungen auf dem Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Der kleinste der drei Türme von San Marino, der früher als Gefängnis diente.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Eine Galerie, die moderne und zeitgenössische Kunstwerke lokaler und internationaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Ein Berg in San Marino, der zur Hügellandschaft des Staates gehört.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Ein markanter Berggipfel in der Republik San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Als Teil des Apennins in der Nähe von Poggio Chiurano ist der Monte della Mandra ein bekannter Naturgipfel in San Marino. Dieser Berg bietet Wanderern die Möglichkeit, die abwechslungsreiche Topografie des Landes zu entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Ein Berg in San Marino, bekannt als Ort historischer Auseinandersetzungen im Zweiten Weltkrieg.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Eine ungewöhnliche Kunstinstallation in Poggio Chiurano, die ein Panzer aus Knete darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Die Überreste einer mittelalterlichen Befestigungsanlage in Poggio Chiurano.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Ein Denkmal in Poggio Chiurano, das die Form eines Pferdes darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Ein historischer elektrischer Triebwagen, der an die Eisenbahngeschichte der Region erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Ein modernes Veranstaltungs- und Kongresszentrum in Poggio Chiurano.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Eine Wallfahrtskirche in Poggio Chiurano, die als Ort der religiösen Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Poggio Chiurano ist einer der Standorte für den Erlebnispark San Marino Adventures.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Múzeum, amely különböző korszakokból származó modern fegyverek gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "A La Cesta erődben található múzeum, amely történelmi páncélokat és fegyvereket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Történelmi kínzóeszközök és azok kegyetlen történetének kiállítása.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "A legrégebbi és legismertebb a Monte Titano három erődítménye közül.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "San Marino három tornya közül a legkisebb, amely korábban börtönként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Galéria, amely helyi és nemzetközi művészek modern és kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Egy hegy San Marinóban, amely az ország dombos tájaihoz tartozik.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Egy jellegzetes hegycsúcs San Marino Köztársaságban.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "A Poggio Chiurano melletti Appenninek részeként a Monte della Mandra egy figyelemre méltó természeti csúcs San Marinóban. Ez a hegy lehetőséget kínál a túrázóknak, hogy felfedezzék az ország változatos domborzatát.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Egy hegy San Marinóban, amely a második világháborús harcok helyszíneként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Egy különleges művészeti installáció Poggio Chiuranóban, amely egy gyurmából készült tankot ábrázol.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Egy középkori erődítmény maradványai Poggio Chiuranóban.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Egy ló alakú emlékmű Poggio Chiuranóban.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Egy történelmi elektromos motorkocsi, amely a régió vasúti múltját idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Egy modern rendezvény- és kongresszusi központ Poggio Chiuranóban.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Poggio Chiurano-i zarándoktemplom, amely a vallási áhítat helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Poggio Chiurano a San Marino Adventures kalandpark egyik helyszíne.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Un muzeu care expune o colecție vastă de arme moderne din diferite epoci.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Un muzeu situat în fortăreața La Cesta, care prezintă armuri și arme istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "O expoziție de instrumente de tortură istorice și istoria lor sumbră.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Cea mai veche și mai cunoscută dintre cele trei fortărețe de pe Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Cel mai mic dintre cele trei turnuri din San Marino, care a servit în trecut ca închisoare.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "O galerie care expune opere de artă modernă și contemporană ale artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "Un munte din San Marino, care face parte din relieful deluros al statului.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "Un vârf montan proeminent situat în Republica San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "Ca parte a Apeninilor din apropiere de Poggio Chiurano, Monte della Mandra este un vârf natural important din San Marino. Acest munte oferă drumeților șansa de a descoperi topografia diversă a țării.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "Un munte din San Marino, cunoscut ca loc de desfășurare a luptelor din al Doilea Război Mondial.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "O instalație artistică neobișnuită din Poggio Chiurano, reprezentând un tanc din plastilină.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "Rămășițele unei mici fortificații medievale situate în Poggio Chiurano.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Un monument din Poggio Chiurano care reprezintă figura unui cal.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Un vagon electric istoric care amintește de istoria feroviară a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Un centru modern de evenimente și congrese situat în Poggio Chiurano.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Un sanctuar din Poggio Chiurano care servește ca loc de pelerinaj și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Poggio Chiurano este una dintre locațiile pentru parcul de aventură San Marino Adventures.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "A museum exhibiting an extensive collection of modern weapons from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Sammarinese Museum of Ancient Arms",
+                  "text": "A museum located in La Cesta fortress, displaying historic armor and weapons.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "An exhibition of historical torture instruments and their grim history.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Guaita Castle",
+                  "text": "The oldest and most famous of the three fortresses on Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "The smallest of the three towers of San Marino, which formerly served as a prison.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "National Gallery of Modern and Contemporary Art",
+                  "text": "A gallery exhibiting modern and contemporary artworks by local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Monte San Cristoforo",
+                  "text": "A mountain in San Marino, belonging to the hilly landscape of the state.",
+                  "category": "natural",
+                  "coords": [
+                        12.463921,
+                        43.907142
+                  ]
+            },
+            {
+                  "name": "Monte Carlo",
+                  "text": "A prominent mountain peak located in the Republic of San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.455609,
+                        43.914876
+                  ]
+            },
+            {
+                  "name": "Monte della Mandra",
+                  "text": "As part of the Apennines near Poggio Chiurano, Monte della Mandra is a notable natural peak in San Marino. This mountain offers hikers a chance to discover the country's diverse topography.",
+                  "category": "natural",
+                  "coords": [
+                        12.472098,
+                        43.919408
+                  ]
+            },
+            {
+                  "name": "Monte Pulito",
+                  "text": "A mountain in San Marino, known as a site of historical battles during World War II.",
+                  "category": "natural",
+                  "coords": [
+                        12.490298,
+                        43.931233
+                  ]
+            },
+            {
+                  "name": "Tank from plasticine",
+                  "text": "An unusual art installation in Poggio Chiurano representing a tank made from plasticine.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Rovine di un fortilizio medievale",
+                  "text": "The remains of a small medieval fortification located in Poggio Chiurano.",
+                  "category": "historical",
+                  "coords": [
+                        12.4478,
+                        43.911381
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "A monument in Poggio Chiurano representing the figure of a horse.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "A historic electric railcar that recalls the railway history of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "A modern events and congress center located in Poggio Chiurano.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "A sanctuary in Poggio Chiurano that serves as a place of religious devotion and pilgrimage.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Poggio Chiurano is one of the locations for the San Marino Adventures adventure park.",
+                  "category": "family",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM",
     name: { de: "Poggio Chiurano", hu: "Poggio Chiurano", ro: "Poggio Chiurano", en: "Poggio Chiurano" },

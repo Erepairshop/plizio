@@ -429,6 +429,33 @@ export const bosniaPois: POI[] = [
                         18.382638,
                         43.852599
                   ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Das Amman Spa & Hammam in Sarajevo bietet traditionelle öffentliche Badeeinrichtungen zur Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "Bentbaša in Sarajevo verfügt über ein Schwimmbad für sportliche Aktivitäten und Erholung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Sunnyland in Sarajevo ist ein Freizeitpark, der verschiedene Attraktionen für Kinder und Erwachsene bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
+                  ]
             }
       ],
       "hu": [
@@ -817,6 +844,33 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.382638,
                         43.852599
+                  ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "A szarajevói Amman Spa & Hammam hagyományos nyilvános fürdőzési lehetőséget kínál a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "A szarajevói Bentbaša úszómedencével várja a sportolni és kikapcsolódni vágyókat a vízparton.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "A szarajevói Sunnyland egy vidámpark, amely különféle attrakciókat kínál gyermekeknek és felnőtteknek egyaránt.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
                   ]
             }
       ],
@@ -1207,6 +1261,33 @@ export const bosniaPois: POI[] = [
                         18.382638,
                         43.852599
                   ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Amman Spa & Hammam din Sarajevo oferă facilități tradiționale de baie publică pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "Bentbaša din Sarajevo dispune de o piscină pentru activități sportive și recreere pe malul apei.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Sunnyland din Sarajevo este un parc tematic care oferă diverse atracții pentru copii și adulți.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
+                  ]
             }
       ],
       "en": [
@@ -1596,6 +1677,33 @@ export const bosniaPois: POI[] = [
                         18.382638,
                         43.852599
                   ]
+            },
+            {
+                  "name": "Amman Spa & Hammam",
+                  "text": "Amman Spa & Hammam in Sarajevo offers traditional public bathing facilities for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        18.432205,
+                        43.858674
+                  ]
+            },
+            {
+                  "name": "Bentbaša",
+                  "text": "Bentbaša in Sarajevo features a swimming pool for sporting activities and recreation by the water.",
+                  "category": "family",
+                  "coords": [
+                        18.437798,
+                        43.85963
+                  ]
+            },
+            {
+                  "name": "Sunnyland",
+                  "text": "Sunnyland in Sarajevo is a theme park offering various attractions for both children and adults.",
+                  "category": "family",
+                  "coords": [
+                        18.414327,
+                        43.842291
+                  ]
             }
       ]
 },
@@ -1633,7 +1741,160 @@ export const bosniaPois: POI[] = [
     image: "/poi-images/ba-sarajevo.webp",
   },
   {
-    id: "ba-banjaluka",
+    id: "ba-banjaluka", "sights": {
+      "de": [
+            {
+                  "name": "Abacija",
+                  "text": "Abacija in Banja Luka ist ein Strandresort für die Erholung von Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Freizeitbad Aquana",
+                  "text": "Der Vodeni park \"Akvana\" in Banja Luka bietet Wasseraktivitäten für Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Vručica",
+                  "text": "Vručica in Banja Luka ist ein Wasserpark mit Schwimmbecken für Familien.",
+                  "category": "family",
+                  "coords": [
+                        17.158857,
+                        44.749165
+                  ]
+            },
+            {
+                  "name": "Terme Banja Luka",
+                  "text": "Die Terme Banja Luka bieten Wasserattraktionen für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        17.157442,
+                        44.74762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abacija",
+                  "text": "A banja lukai Abacija egy tengerparti üdülőhely a családok kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Akvana\"",
+                  "text": "A banja lukai Vodeni park \"Akvana\" vízi tevékenységeket kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Vručica",
+                  "text": "A banja lukai Vručica egy vízipark úszómedencékkel a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.158857,
+                        44.749165
+                  ]
+            },
+            {
+                  "name": "Terme Banja Luka",
+                  "text": "A Terme Banja Luka vízi látványosságokat kínál családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        17.157442,
+                        44.74762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abacija",
+                  "text": "Abacija din Banja Luka este o stațiune la plajă pentru recreerea familiilor.",
+                  "category": "family",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Akvana\"",
+                  "text": "Vodeni park \"Akvana\" din Banja Luka oferă activități acvatice pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Vručica",
+                  "text": "Vručica din Banja Luka este un parc acvatic cu bazine pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        17.158857,
+                        44.749165
+                  ]
+            },
+            {
+                  "name": "Terme Banja Luka",
+                  "text": "Terme Banja Luka oferă atracții acvatice pentru excursii în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.157442,
+                        44.74762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abacija",
+                  "text": "Abacija in Banja Luka is a beach resort for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Akvana\"",
+                  "text": "Vodeni park \"Akvana\" in Banja Luka offers water activities for families.",
+                  "category": "family",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Vručica",
+                  "text": "Vručica in Banja Luka is a water park with pools for families.",
+                  "category": "family",
+                  "coords": [
+                        17.158857,
+                        44.749165
+                  ]
+            },
+            {
+                  "name": "Terme Banja Luka",
+                  "text": "Terme Banja Luka offers water attractions for family outings.",
+                  "category": "family",
+                  "coords": [
+                        17.157442,
+                        44.74762
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Banja Luka", hu: "Banja Luka", ro: "Banja Luka", en: "Banja Luka" },
     description: {
@@ -1666,7 +1927,1852 @@ export const bosniaPois: POI[] = [
       fr: ["Deuxième ville de Bosnie-Herzégovine", "Capitale et siège du gouvernement de la République serbe de Bosnie", "Située sur les rives de la rivière Vrbas", "Siège de la forteresse de Kastel avec des fondations romaines", "La reconstruction de la mosquée Ferhadija s'est achevée en 2016", "Réputée pour le 'Dajak', une barque étroite traditionnelle"],
     }, image: "/poi-images/ba-banjaluka.webp"},
   {
-    id: "ba-mostar", "sights": {"de": [{"name": "Muzej Stari most", "text": "Museum über die Geschichte der berühmten Brücke von Mostar.", "category": "museum", "coords": [17.8156, 43.337244]}, {"name": "Cimska bazilika", "text": "Archäologische Stätte mit Überresten einer frühchristlichen Basilika.", "category": "historical", "coords": [17.774887, 43.353875]}, {"name": "Koski Mehmed Pašina džamija", "text": "Historische Moschee mit Blick auf die Alte Brücke.", "category": "museum", "coords": [17.814788, 43.338677]}, {"name": "Biskupska palača Mostar", "text": "Bedeutendes administratives und architektonisches Wahrzeichen in Mostar.", "category": "castle", "coords": [17.797235, 43.339394]}, {"name": "Kroatisches Nationaltheater in Mostar", "text": "Wichtiger kultureller Veranstaltungsort für dramatische Kunst in Mostar.", "category": "cultural", "coords": [17.807058, 43.344396]}, {"name": "Biskupska rezidencija u Vukodolu", "text": "Historische Residenz des katholischen Bischofs in Mostar.", "category": "castle", "coords": [17.794353, 43.331797]}, {"name": "Ottoman house", "text": "Traditionelles Haus, das den Lebensstil der osmanischen Zeit zeigt.", "category": "museum", "coords": [17.81308, 43.340566]}, {"name": "Muzej Hercegovine Mostar", "text": "Museum zur Bewahrung der regionalen Geschichte der Herzegowina.", "category": "museum", "coords": [17.816045, 43.339017]}, {"name": "Muslibegovića kuća", "text": "Gut erhaltenes Haus einer adligen osmanischen Familie aus dem 18. Jahrhundert.", "category": "museum", "coords": [17.816164, 43.341797]}, {"name": "Mostarski teatar mladih - MTM", "text": "Modernes Theater mit Schwerpunkt auf darstellender Kunst für Jugendliche.", "category": "cultural", "coords": [17.811155, 43.343758]}, {"name": "Kajtazova kuća", "text": "Authentisches osmanisches Wohnhaus und Museum.", "category": "museum", "coords": [17.818348, 43.33586]}, {"name": "Lutkarsko kazalište Mostar", "text": "Theater, das auf Puppenspiele für Kinder spezialisiert ist.", "category": "cultural", "coords": [17.802139, 43.342789]}, {"name": "Centar za Kulturu Mostar", "text": "Veranstaltungsort für verschiedene kulturelle Ereignisse und Ausstellungen.", "category": "cultural", "coords": [17.810984, 43.338832]}, {"name": "Narodno pozorište Mostar", "text": "Professionelles Theaterensemble, das in Mostar auftritt.", "category": "cultural", "coords": [17.815374, 43.340148]}, {"name": "Pozorište lutaka", "text": "Puppentheater mit Unterhaltung für alle Altersgruppen.", "category": "cultural", "coords": [17.817252, 43.340863]}, {"name": "Plaža Pehlivanuša Cernica MOSTAR", "text": "Direkt am Ufer der Neretva gelegen, bietet dieser Strandbereich in Mostar eine willkommene Erfrischung. Das Rauschen des Flusses sorgt für ein naturverbundenes Flair mitten in der bosnischen Stadt. Besucher können am Wasser entspannen, am Flusslauf spazieren gehen oder einfach die Aussicht genießen. An heißen Sommertagen ist dies ein wunderbarer städtischer Zufluchtsort.", "category": "recreational", "coords": [17.812071, 43.339321]}, {"name": "Plaža Pijesak", "text": "Dieser kleine Sandstrand schmiegt sich malerisch an den Flusslauf in Mostar, Bosnien. Besonders bei Einheimischen geschätzt, versprüht der Ort eine intime und sehr authentische Atmosphäre. Ein erfrischendes Bad im kühlen Nass oder ein entspanntes Picknick im Sand gehören hier zum Programm. Packen Sie Ihr Handtuch ein und mischen Sie sich an einem sonnigen Nachmittag unter die Leute.", "category": "recreational", "coords": [17.811023, 43.349844]}, {"name": "The Hub of Fine Arts", "text": "Galerie, die eine Sammlung moderner und klassischer Kunst ausstellt.", "category": "cultural", "coords": [17.80402, 43.345879]}, {"name": "Park Zrinjevac", "text": "Großer Stadtpark, der Grünflächen und Erholung bietet.", "category": "park", "coords": [17.804513, 43.343108]}, {"name": "Milleniumskreuz", "text": "Großes Kreuz auf dem Berg Hum mit Blick über die Stadt.", "category": "historical", "coords": [17.806978, 43.329504]}, {"name": "Bunker", "text": "Historische Ruinen einer Verteidigungsstruktur in Mostar.", "category": "historical", "coords": [17.809303, 43.322894]}, {"name": "Bazeni za vodu", "text": "Überreste alter Wasserbecken oder Reservoirs.", "category": "historical", "coords": [17.805337, 43.328909]}, {"name": "Mali kuk", "text": "Aussichtspunkt mit Panoramablick auf die Umgebung.", "category": "natural", "coords": [17.818958, 43.349655]}, {"name": "Mostarski Zvonik Mira", "text": "Hoher Glockenturm, der einen Panoramablick auf Mostar bietet.", "category": "landmark", "coords": [17.808698, 43.337856]}, {"name": "Partizansko groblje", "text": "Monumentaler Friedhof zum Gedenken an die Partisansoldaten.", "category": "landmark", "coords": [17.796267, 43.340983]}, {"name": "#Vihovići", "text": "Landschaftlich reizvolles Gebiet um einen ehemaligen Minensee bei Mostar.", "category": "landmark", "coords": [17.792725, 43.3524]}, {"name": "I ❤️ MOSTAR", "text": "Beliebter Fotopunkt mit dem farbenfrohen Schriftzug der Stadt.", "category": "landmark", "coords": [17.830264, 43.349751]}, {"name": "zgrada 17", "text": "Aussichtspunkt mit weitem Blick über die Stadt Mostar.", "category": "natural", "coords": [17.799302, 43.351291]}, {"name": "Spomenik magarcu", "text": "Denkmal zu Ehren des Esels als traditionelles Arbeitstier.", "category": "historical", "coords": [17.801987, 43.349746]}, {"name": "Sniper Tower", "text": "Ruine eines Hochhauses, das während des Krieges als strategischer Punkt diente.", "category": "historical", "coords": [17.806018, 43.344174]}, {"name": "Derviš-paše Bajezidagića džamija", "text": "Historische Moschee und bedeutendes religiöses Denkmal in Mostar.", "category": "religious", "coords": [17.80837, 43.336745]}, {"name": "Roznamedži Ibrahim-efendije džamija", "text": "Traditionelle Moschee im Herzen der Altstadt von Mostar.", "category": "religious", "coords": [17.812823, 43.34222]}, {"name": "Ćose Jahja-hodžina džamija", "text": "Historisches islamisches Gotteshaus im Stadtviertel Mostar.", "category": "religious", "coords": [17.81207, 43.344136]}, {"name": "Hadži Memijina džamija", "text": "Traditionelle lokale Moschee, die der lokalen Gemeinschaft dient.", "category": "religious", "coords": [17.810376, 43.340112]}, {"name": "Saborna crkva Svete Trojice", "text": "Große orthodoxe Kathedrale, die nach der Zerstörung im Krieg wiederaufgebaut wurde.", "category": "religious", "coords": [17.818667, 43.339122]}, {"name": "Ali-Bega Lafe džamija", "text": "Historische Moschee mit traditioneller osmanischer Architektur.", "category": "religious", "coords": [17.802911, 43.337891]}, {"name": "Lučki most", "text": "Historische Brücke über den Fluss Neretva im Stadtzentrum.", "category": "landmark", "coords": [17.816227, 43.335246]}, {"name": "Carinski most", "text": "Wichtige Brückenverbindung über die Neretva in Mostar.", "category": "landmark", "coords": [17.810675, 43.348212]}, {"name": "Kop jezero", "text": "Ein See in der Nähe von Mostar, ideal für einen Spaziergang in der Natur.", "category": "natural", "coords": [17.796706, 43.358797]}, {"name": "Nizvodna akumulacija", "text": "Ein lokales Gewässer in Mostar mit ruhiger Atmosphäre.", "category": "natural", "coords": [17.757505, 43.306976]}, {"name": "Uzvodna akumulacija", "text": "Ein See in Mostar, der sich für die Beobachtung der Landschaft eignet.", "category": "natural", "coords": [17.731908, 43.320446]}, {"name": "Vodna komora", "text": "Ein kleiner See in Mostar in natürlicher Umgebung.", "category": "natural", "coords": [17.789331, 43.299917]}, {"name": "Donji kompezacijski bazen", "text": "Ein Wasserbecken in Mostar, das zum Verweilen in der Natur einlädt.", "category": "natural", "coords": [17.795765, 43.298116]}, {"name": "Dječji Centar Funland", "text": "Ein Indoor-Spielzentrum in Mostar für aktiven Familienspaß.", "category": "family", "coords": [17.792157, 43.355269]}, {"name": "Igraonica \"Nedođija\"", "text": "Ein fantasievoll gestalteter Spielbereich für Kinder in Mostar.", "category": "family", "coords": [17.823718, 43.326127]}, {"name": "Jungle", "text": "Ein Spielplatz in Mostar, der zum Entdecken und Bewegen einlädt.", "category": "family", "coords": [17.804766, 43.348689]}, {"name": "Poligon", "text": "Ein Übungsplatz für Kinder in Mostar mit verschiedenen Spielgeräten.", "category": "family", "coords": [17.807633, 43.35651]}, {"name": "Igralište", "text": "Ein klassischer Spielplatz in Mostar für die lokale Bevölkerung.", "category": "family", "coords": [17.815501, 43.343175]}, {"name": "Vatikan", "text": "Ein Treffpunkt mit Spielmöglichkeiten für Kinder in Mostar.", "category": "family", "coords": [17.800434, 43.338246]}], "hu": [{"name": "Muzej Stari most", "text": "Múzeum, amely Mostar híres hídjának történetét mutatja be.", "category": "museum", "coords": [17.8156, 43.337244]}, {"name": "Cimska bazilika", "text": "Régészeti lelőhely egy kora keresztény bazilika maradványaival.", "category": "historical", "coords": [17.774887, 43.353875]}, {"name": "Koski Mehmed Pašina džamija", "text": "Történelmi mecset, ahonnan kilátás nyílik az Öreg hídra.", "category": "museum", "coords": [17.814788, 43.338677]}, {"name": "Biskupska palača Mostar", "text": "Jelentős adminisztratív és építészeti nevezetesség Mostarban.", "category": "castle", "coords": [17.797235, 43.339394]}, {"name": "Hrvatsko narodno kazalište Mostar", "text": "Fontos kulturális helyszín a színművészet számára Mostarban.", "category": "cultural", "coords": [17.807058, 43.344396]}, {"name": "Biskupska rezidencija u Vukodolu", "text": "A katolikus püspök történelmi rezidenciája Mostarban.", "category": "castle", "coords": [17.794353, 43.331797]}, {"name": "Ottoman house", "text": "Hagyományos ház, amely az oszmán kori életmódot mutatja be.", "category": "museum", "coords": [17.81308, 43.340566]}, {"name": "Muzej Hercegovine Mostar", "text": "Hercegovina regionális történelmét őrző múzeum.", "category": "museum", "coords": [17.816045, 43.339017]}, {"name": "Muslibegovića kuća", "text": "Egy nemesi oszmán család jól megőrzött 18. századi háza.", "category": "museum", "coords": [17.816164, 43.341797]}, {"name": "Mostarski teatar mladih - MTM", "text": "Modern színház, amely a fiatalok előadó-művészetére összpontosít.", "category": "cultural", "coords": [17.811155, 43.343758]}, {"name": "Kajtazova kuća", "text": "Hiteles oszmán lakóház és múzeum.", "category": "museum", "coords": [17.818348, 43.33586]}, {"name": "Lutkarsko kazalište Mostar", "text": "Gyermekeknek szóló bábelőadásokra szakosodott színház.", "category": "cultural", "coords": [17.802139, 43.342789]}, {"name": "Centar za Kulturu Mostar", "text": "Különféle kulturális események és kiállítások helyszíne.", "category": "cultural", "coords": [17.810984, 43.338832]}, {"name": "Narodno pozorište Mostar", "text": "Mostarban fellépő professzionális színházi társulat.", "category": "cultural", "coords": [17.815374, 43.340148]}, {"name": "Pozorište lutaka", "text": "Bábszínház, amely minden korosztály számára kínál szórakozást.", "category": "cultural", "coords": [17.817252, 43.340863]}, {"name": "Plaža Pehlivanuša Cernica MOSTAR", "text": "Közvetlenül a Neretva partján található ez a mostari strandrész, amely szívesen látott felfrissülést kínál. A folyó csobogása természetközeli hangulatot teremt a bosnyák város közepén. A látogatók pihenhetnek a vízparton, sétálhatnak a folyómeder mentén, vagy egyszerűen csak élvezhetik a kilátást. Forró nyári napokon ez egy csodálatos városi menedék.", "category": "recreational", "coords": [17.812071, 43.339321]}, {"name": "Plaža Pijesak", "text": "Ez a kis homokos strand festőien simul a folyómederhez a boszniai Mostarban. Különösen a helyiek körében kedvelt, így a hely meghitt és nagyon autentikus hangulatot áraszt. Egy frissítő fürdőzés a hűs vízben vagy egy pihentető piknik a homokban itt a program része. Csomagolja be a törölközőjét, és vegyüljön el az emberek között egy napsütéses délutánon.", "category": "recreational", "coords": [17.811023, 43.349844]}, {"name": "The Hub of Fine Arts", "text": "Modern és klasszikus művészeti gyűjteményt bemutató galéria.", "category": "cultural", "coords": [17.80402, 43.345879]}, {"name": "Park Zrinjevac", "text": "Nagy városi park, amely zöldterületet és kikapcsolódást kínál.", "category": "park", "coords": [17.804513, 43.343108]}, {"name": "Millenniumi kereszt", "text": "Hatalmas kereszt a Hum-hegyen, amely a városra néz.", "category": "historical", "coords": [17.806978, 43.329504]}, {"name": "Bunker", "text": "Egy védelmi építmény történelmi romjai Mostarban.", "category": "historical", "coords": [17.809303, 43.322894]}, {"name": "Bazeni za vodu", "text": "Régi víztározók vagy medencék maradványai.", "category": "historical", "coords": [17.805337, 43.328909]}, {"name": "Mali kuk", "text": "Kilátópont, amely panorámás kilátást nyújt a környékre.", "category": "natural", "coords": [17.818958, 43.349655]}, {"name": "Mostari béke harangtornya", "text": "Magas harangtorony, amely panorámás kilátást nyújt Mostarra.", "category": "landmark", "coords": [17.808698, 43.337856]}, {"name": "Partizansko groblje", "text": "A partizán katonák emlékének szentelt monumentális temető.", "category": "landmark", "coords": [17.796267, 43.340983]}, {"name": "#Vihovići", "text": "Festői terület egy egykori bányató körül Mostar közelében.", "category": "landmark", "coords": [17.792725, 43.3524]}, {"name": "I ❤️ MOSTAR", "text": "Népszerű fotópont a város színes feliratával.", "category": "landmark", "coords": [17.830264, 43.349751]}, {"name": "zgrada 17", "text": "Kilátópont, ahonnan széles kilátás nyílik Mostar városára.", "category": "natural", "coords": [17.799302, 43.351291]}, {"name": "Spomenik magarcu", "text": "A szamár mint hagyományos munkásállat előtt tisztelgő emlékmű.", "category": "historical", "coords": [17.801987, 43.349746]}, {"name": "Sniper Tower", "text": "Egy magas épület romjai, amely a háború alatt stratégiai pontként szolgált.", "category": "historical", "coords": [17.806018, 43.344174]}, {"name": "Derviš-paše Bajezidagića džamija", "text": "Történelmi mecset és jelentős vallási műemlék Mostarban.", "category": "religious", "coords": [17.80837, 43.336745]}, {"name": "Roznamedži Ibrahim-efendije džamija", "text": "Hagyományos mecset Mostar óvárosának szívében.", "category": "religious", "coords": [17.812823, 43.34222]}, {"name": "Ćose Jahja-hodžina džamija", "text": "Történelmi iszlám imaház Mostar városrészében.", "category": "religious", "coords": [17.81207, 43.344136]}, {"name": "Hadži Memijina džamija", "text": "Hagyományos helyi mecset, amely a helyi közösséget szolgálja.", "category": "religious", "coords": [17.810376, 43.340112]}, {"name": "Saborna crkva Svete Trojice", "text": "Nagy ortodox székesegyház, amelyet a háborús pusztítás után újjáépítettek.", "category": "religious", "coords": [17.818667, 43.339122]}, {"name": "Ali-Bega Lafe džamija", "text": "Történelmi mecset hagyományos oszmán építészettel.", "category": "religious", "coords": [17.802911, 43.337891]}, {"name": "Lučki most", "text": "Történelmi híd a Neretva folyó felett a városközpontban.", "category": "landmark", "coords": [17.816227, 43.335246]}, {"name": "Carinski most", "text": "Fontos hídösszeköttetés a Neretva felett Mostarban.", "category": "landmark", "coords": [17.810675, 43.348212]}, {"name": "Kop jezero", "text": "Mostar közeli tó, amely ideális természeti sétákhoz.", "category": "natural", "coords": [17.796706, 43.358797]}, {"name": "Nizvodna akumulacija", "text": "Helyi vízfelület Mostarban, nyugodt környezetben.", "category": "natural", "coords": [17.757505, 43.306976]}, {"name": "Uzvodna akumulacija", "text": "Tó Mostarban, amely alkalmas a táj megfigyelésére.", "category": "natural", "coords": [17.731908, 43.320446]}, {"name": "Vodna komora", "text": "Kisméretű tó Mostarban, természetes környezetben.", "category": "natural", "coords": [17.789331, 43.299917]}, {"name": "Donji kompezacijski bazen", "text": "Vízgyűjtő medence Mostarban, amely pihenésre hív a természetben.", "category": "natural", "coords": [17.795765, 43.298116]}, {"name": "Dječji Centar Funland", "text": "Beltéri játszóközpont Mostarban az aktív családi szórakozásért.", "category": "family", "coords": [17.792157, 43.355269]}, {"name": "Igraonica \"Nedođija\"", "text": "Mókásan kialakított játszóhely gyermekeknek Mostarban.", "category": "family", "coords": [17.823718, 43.326127]}, {"name": "Jungle", "text": "Játszótér Mostarban, amely felfedezésre és mozgásra ösztönöz.", "category": "family", "coords": [17.804766, 43.348689]}, {"name": "Poligon", "text": "Gyakorlópálya gyerekeknek Mostarban különféle játékokkal.", "category": "family", "coords": [17.807633, 43.35651]}, {"name": "Igralište", "text": "Hagyományos játszótér Mostarban a helyi családok számára.", "category": "family", "coords": [17.815501, 43.343175]}, {"name": "Vatikan", "text": "Találkozóhely játéklehetőségekkel gyerekeknek Mostarban.", "category": "family", "coords": [17.800434, 43.338246]}], "ro": [{"name": "Muzej Stari most", "text": "Muzeu care detaliază istoria celebrului pod din Mostar.", "category": "museum", "coords": [17.8156, 43.337244]}, {"name": "Cimska bazilika", "text": "Sit arheologic ce cuprinde vestigiile unei bazilici timpurii creștine.", "category": "historical", "coords": [17.774887, 43.353875]}, {"name": "Koski Mehmed Pašina džamija", "text": "Moschee istorică ce oferă vedere spre Podul Vechi.", "category": "museum", "coords": [17.814788, 43.338677]}, {"name": "Biskupska palača Mostar", "text": "Reper administrativ și arhitectural semnificativ din Mostar.", "category": "castle", "coords": [17.797235, 43.339394]}, {"name": "Hrvatsko narodno kazalište Mostar", "text": "Loc cultural important pentru artele dramatice în Mostar.", "category": "cultural", "coords": [17.807058, 43.344396]}, {"name": "Biskupska rezidencija u Vukodolu", "text": "Reședința istorică a episcopului catolic din Mostar.", "category": "castle", "coords": [17.794353, 43.331797]}, {"name": "Ottoman house", "text": "Casă tradițională care prezintă stilul de viață din epoca otomană.", "category": "museum", "coords": [17.81308, 43.340566]}, {"name": "Muzej Hercegovine Mostar", "text": "Muzeu care conservă istoria regională a Herțegovinei.", "category": "museum", "coords": [17.816045, 43.339017]}, {"name": "Muslibegovića kuća", "text": "Casă bine conservată din secolul al XVIII-lea a unei familii nobile otomane.", "category": "museum", "coords": [17.816164, 43.341797]}, {"name": "Mostarski teatar mladih - MTM", "text": "Teatru modern axat pe artele spectacolului pentru tineri.", "category": "cultural", "coords": [17.811155, 43.343758]}, {"name": "Kajtazova kuća", "text": "Casă rezidențială otomană autentică și muzeu.", "category": "museum", "coords": [17.818348, 43.33586]}, {"name": "Lutkarsko kazalište Mostar", "text": "Teatru specializat în spectacole de păpuși pentru copii.", "category": "cultural", "coords": [17.802139, 43.342789]}, {"name": "Centar za Kulturu Mostar", "text": "Spațiu pentru diverse evenimente culturale și expoziții.", "category": "cultural", "coords": [17.810984, 43.338832]}, {"name": "Narodno pozorište Mostar", "text": "Companie de teatru profesionistă care activează în Mostar.", "category": "cultural", "coords": [17.815374, 43.340148]}, {"name": "Pozorište lutaka", "text": "Teatru de păpuși care oferă divertisment pentru toate vârstele.", "category": "cultural", "coords": [17.817252, 43.340863]}, {"name": "Plaža Pehlivanuša Cernica MOSTAR", "text": "Situată chiar pe malul râului Neretva, această zonă de plajă din Mostar oferă o răcorire binevenită. Murmurul râului creează un aer natural chiar în mijlocul orașului bosniac. Vizitatorii se pot relaxa lângă apă, se pot plimba de-a lungul râului sau pur și simplu pot savura priveliștea. În zilele fierbinți de vară, acesta este un refugiu urban minunat.", "category": "recreational", "coords": [17.812071, 43.339321]}, {"name": "Plaža Pijesak", "text": "Această mică plajă cu nisip se cuibărește pitoresc de-a lungul cursului râului din Mostar, Bosnia. Apreciat în special de localnici, locul emană o atmosferă intimă și foarte autentică. O baie revigorantă în apa răcoroasă sau un picnic relaxant pe nisip fac parte din programul de aici. Împachetați un prosop și amestecați-vă printre oameni într-o după-amiază însorită.", "category": "recreational", "coords": [17.811023, 43.349844]}, {"name": "The Hub of Fine Arts", "text": "Galerie care expune o colecție de artă modernă și clasică.", "category": "cultural", "coords": [17.80402, 43.345879]}, {"name": "Park Zrinjevac", "text": "Parc urban mare care oferă spații verzi și recreere.", "category": "park", "coords": [17.804513, 43.343108]}, {"name": "Milenijski križ", "text": "Cruce de mari dimensiuni pe muntele Hum, cu vedere spre oraș.", "category": "historical", "coords": [17.806978, 43.329504]}, {"name": "Bunker", "text": "Ruine istorice ale unei structuri defensive din Mostar.", "category": "historical", "coords": [17.809303, 43.322894]}, {"name": "Bazeni za vodu", "text": "Rămășițele unor vechi bazine de apă sau rezervoare.", "category": "historical", "coords": [17.805337, 43.328909]}, {"name": "Mali kuk", "text": "Punct de observație care oferă o vedere panoramică asupra zonei.", "category": "natural", "coords": [17.818958, 43.349655]}, {"name": "Mostarski Zvonik Mira", "text": "Turn cu clopot înalt care oferă vederi panoramice asupra orașului Mostar.", "category": "landmark", "coords": [17.808698, 43.337856]}, {"name": "Partizansko groblje", "text": "Cimitir monumental dedicat soldaților partizani.", "category": "landmark", "coords": [17.796267, 43.340983]}, {"name": "#Vihovići", "text": "Zonă pitorească în jurul unui fost lac minier lângă Mostar.", "category": "landmark", "coords": [17.792725, 43.3524]}, {"name": "I ❤️ MOSTAR", "text": "Punct de fotografiere popular cu inscripția colorată a orașului.", "category": "landmark", "coords": [17.830264, 43.349751]}, {"name": "zgrada 17", "text": "Punct de observație care oferă o vedere panoramică asupra orașului Mostar.", "category": "natural", "coords": [17.799302, 43.351291]}, {"name": "Spomenik magarcu", "text": "Monument dedicat măgarului ca animal tradițional de povară.", "category": "historical", "coords": [17.801987, 43.349746]}, {"name": "Sniper Tower", "text": "Ruinele unei clădiri înalte care a servit ca punct strategic în timpul războiului.", "category": "historical", "coords": [17.806018, 43.344174]}, {"name": "Derviš-paše Bajezidagića džamija", "text": "Moschee istorică și monument religios important în Mostar.", "category": "religious", "coords": [17.80837, 43.336745]}, {"name": "Roznamedži Ibrahim-efendije džamija", "text": "Moschee tradițională în inima centrului istoric din Mostar.", "category": "religious", "coords": [17.812823, 43.34222]}, {"name": "Ćose Jahja-hodžina džamija", "text": "Lăcaș de cult islamic istoric în cartierul Mostar.", "category": "religious", "coords": [17.81207, 43.344136]}, {"name": "Hadži Memijina džamija", "text": "Moschee locală tradițională care servește comunitatea locală.", "category": "religious", "coords": [17.810376, 43.340112]}, {"name": "Saborna crkva Svete Trojice", "text": "Catedrală ortodoxă mare, reconstruită după distrugerea sa în timpul războiului.", "category": "religious", "coords": [17.818667, 43.339122]}, {"name": "Ali-Bega Lafe džamija", "text": "Moschee istorică cu arhitectură otomană tradițională.", "category": "religious", "coords": [17.802911, 43.337891]}, {"name": "Lučki most", "text": "Pod istoric peste râul Neretva în centrul orașului.", "category": "landmark", "coords": [17.816227, 43.335246]}, {"name": "Carinski most", "text": "Pod important de legătură peste râul Neretva în Mostar.", "category": "landmark", "coords": [17.810675, 43.348212]}, {"name": "Kop jezero", "text": "Un lac lângă Mostar, ideal pentru o plimbare în natură.", "category": "natural", "coords": [17.796706, 43.358797]}, {"name": "Nizvodna akumulacija", "text": "O acumulare de apă locală în Mostar, cu o atmosferă liniștită.", "category": "natural", "coords": [17.757505, 43.306976]}, {"name": "Uzvodna akumulacija", "text": "Un lac în Mostar, potrivit pentru admirarea peisajului.", "category": "natural", "coords": [17.731908, 43.320446]}, {"name": "Vodna komora", "text": "Un mic lac în Mostar, într-un cadru natural.", "category": "natural", "coords": [17.789331, 43.299917]}, {"name": "Donji kompezacijski bazen", "text": "Un bazin de apă în Mostar care invită la relaxare în natură.", "category": "natural", "coords": [17.795765, 43.298116]}, {"name": "Dječji Centar Funland", "text": "Un centru de joacă interior în Mostar pentru distracție activă în familie.", "category": "family", "coords": [17.792157, 43.355269]}, {"name": "Igraonica \"Nedođija\"", "text": "O zonă de joacă creativă pentru copii în Mostar.", "category": "family", "coords": [17.823718, 43.326127]}, {"name": "Jungle", "text": "Un teren de joacă în Mostar care invită la explorare și mișcare.", "category": "family", "coords": [17.804766, 43.348689]}, {"name": "Poligon", "text": "Un poligon pentru copii în Mostar cu diverse echipamente de joacă.", "category": "family", "coords": [17.807633, 43.35651]}, {"name": "Igralište", "text": "Un teren de joacă clasic în Mostar pentru comunitatea locală.", "category": "family", "coords": [17.815501, 43.343175]}, {"name": "Vatikan", "text": "Un punct de întâlnire cu facilități de joacă pentru copii în Mostar.", "category": "family", "coords": [17.800434, 43.338246]}], "en": [{"name": "Old bridge Museum", "text": "Museum detailing the history of Mostar's famous bridge.", "category": "museum", "coords": [17.8156, 43.337244]}, {"name": "Cim Early Christian Basilica", "text": "Archaeological site featuring remains of an early Christian basilica.", "category": "historical", "coords": [17.774887, 43.353875]}, {"name": "Koski Mehmed Pasha Mosque", "text": "Historic mosque offering views of the Old Bridge.", "category": "museum", "coords": [17.814788, 43.338677]}, {"name": "Bishop's Ordinariate", "text": "Significant administrative and architectural landmark in Mostar.", "category": "castle", "coords": [17.797235, 43.339394]}, {"name": "Croatian National Theatre in Mostar", "text": "Important cultural venue for dramatic arts in Mostar.", "category": "cultural", "coords": [17.807058, 43.344396]}, {"name": "Biskupska rezidencija u Vukodolu", "text": "Historical residence of the Catholic bishop in Mostar.", "category": "castle", "coords": [17.794353, 43.331797]}, {"name": "Ottoman house", "text": "Traditional house showcasing Ottoman-era lifestyle.", "category": "museum", "coords": [17.81308, 43.340566]}, {"name": "Muzej Hercegovine Mostar", "text": "Museum preserving the regional history of Herzegovina.", "category": "museum", "coords": [17.816045, 43.339017]}, {"name": "Muslibegovic House", "text": "Well-preserved 18th-century house of a noble Ottoman family.", "category": "museum", "coords": [17.816164, 43.341797]}, {"name": "Mostarski teatar mladih - MTM", "text": "Modern theatre focused on youth performing arts.", "category": "cultural", "coords": [17.811155, 43.343758]}, {"name": "Kajtaz House", "text": "Authentic Ottoman residential house and museum.", "category": "museum", "coords": [17.818348, 43.33586]}, {"name": "Lutkarsko kazalište Mostar", "text": "Theatre specializing in puppet shows for children.", "category": "cultural", "coords": [17.802139, 43.342789]}, {"name": "Centar za Kulturu Mostar", "text": "Venue for various cultural events and exhibitions.", "category": "cultural", "coords": [17.810984, 43.338832]}, {"name": "National Theatre Mostar", "text": "Professional theatre company performing in Mostar.", "category": "cultural", "coords": [17.815374, 43.340148]}, {"name": "Pozorište lutaka", "text": "Puppet theatre providing entertainment for all ages.", "category": "cultural", "coords": [17.817252, 43.340863]}, {"name": "Plaža Pehlivanuša Cernica MOSTAR", "text": "Situated right on the banks of the Neretva, this beach area in Mostar offers welcome refreshment. The rushing of the river provides a nature-connected flair right in the middle of the Bosnian city. Visitors can relax by the water, walk along the river course, or simply enjoy the view. On hot summer days, this is a wonderful urban refuge.", "category": "recreational", "coords": [17.812071, 43.339321]}, {"name": "Plaža Pijesak", "text": "This small sandy beach nestles picturesquely along the river course in Mostar, Bosnia. Particularly appreciated by locals, the spot exudes an intimate and very authentic atmosphere. A refreshing dip in the cool water or a relaxing picnic in the sand is part of the experience here. Pack your towel and mingle with the crowd on a sunny afternoon.", "category": "recreational", "coords": [17.811023, 43.349844]}, {"name": "The Hub of Fine Arts", "text": "Gallery showcasing a collection of modern and classic art.", "category": "cultural", "coords": [17.80402, 43.345879]}, {"name": "Park Zrinjevac", "text": "Large city park providing green space and recreation.", "category": "park", "coords": [17.804513, 43.343108]}, {"name": "Millennium cross", "text": "Large cross on Mount Hum overlooking the city.", "category": "historical", "coords": [17.806978, 43.329504]}, {"name": "Bunker", "text": "Historical ruins of a defensive structure in Mostar.", "category": "historical", "coords": [17.809303, 43.322894]}, {"name": "Bazeni za vodu", "text": "Remains of old water basins or reservoirs.", "category": "historical", "coords": [17.805337, 43.328909]}, {"name": "Mali kuk", "text": "Vantage point offering a panoramic view of the area.", "category": "natural", "coords": [17.818958, 43.349655]}, {"name": "Mostar Peace Bell Tower", "text": "Tall bell tower offering panoramic views of Mostar.", "category": "landmark", "coords": [17.808698, 43.337856]}, {"name": "Partisans memorial cementery", "text": "Monumental cemetery dedicated to partisan soldiers.", "category": "landmark", "coords": [17.796267, 43.340983]}, {"name": "#Vihovići", "text": "Scenic area around a former mine lake near Mostar.", "category": "landmark", "coords": [17.792725, 43.3524]}, {"name": "I ❤️ MOSTAR", "text": "Popular photo spot featuring the city's colorful sign.", "category": "landmark", "coords": [17.830264, 43.349751]}, {"name": "zgrada 17", "text": "Viewpoint offering a wide view over the city of Mostar.", "category": "natural", "coords": [17.799302, 43.351291]}, {"name": "Spomenik magarcu", "text": "Monument dedicated to the donkey as a traditional working animal.", "category": "historical", "coords": [17.801987, 43.349746]}, {"name": "Sniper Tower", "text": "Ruins of a high-rise building that served as a strategic point during the war.", "category": "historical", "coords": [17.806018, 43.344174]}, {"name": "Dobrotvor Bagazidagic Dervish Pasha Mosque", "text": "Historic mosque and significant religious monument in Mostar.", "category": "religious", "coords": [17.80837, 43.336745]}, {"name": "Roznamedži Ibrahimefendije Mosque", "text": "Traditional mosque in the heart of Mostar's old town.", "category": "religious", "coords": [17.812823, 43.34222]}, {"name": "Ćose Jahja-hodžina džamija", "text": "Historic Islamic place of worship in the Mostar district.", "category": "religious", "coords": [17.81207, 43.344136]}, {"name": "Hadži Memijina džamija", "text": "Traditional local mosque serving the local community.", "category": "religious", "coords": [17.810376, 43.340112]}, {"name": "Saborna crkva Svete Trojice", "text": "Large Orthodox cathedral rebuilt after its destruction during the war.", "category": "religious", "coords": [17.818667, 43.339122]}, {"name": "Ali-Bega Lafe džamija", "text": "Historic mosque featuring traditional Ottoman architecture.", "category": "religious", "coords": [17.802911, 43.337891]}, {"name": "Lučki most", "text": "Historic bridge over the Neretva river in the city center.", "category": "landmark", "coords": [17.816227, 43.335246]}, {"name": "Carinski most", "text": "Important bridge connection over the Neretva in Mostar.", "category": "landmark", "coords": [17.810675, 43.348212]}, {"name": "Kop jezero", "text": "A lake near Mostar, ideal for a walk in nature.", "category": "natural", "coords": [17.796706, 43.358797]}, {"name": "Nizvodna akumulacija", "text": "A local water body in Mostar with a calm atmosphere.", "category": "natural", "coords": [17.757505, 43.306976]}, {"name": "Uzvodna akumulacija", "text": "A lake in Mostar suitable for viewing the scenery.", "category": "natural", "coords": [17.731908, 43.320446]}, {"name": "Vodna komora", "text": "A small lake in Mostar set in a natural environment.", "category": "natural", "coords": [17.789331, 43.299917]}, {"name": "Donji kompezacijski bazen", "text": "A water basin in Mostar that invites relaxation in nature.", "category": "natural", "coords": [17.795765, 43.298116]}, {"name": "Dječji Centar Funland", "text": "An indoor play center in Mostar for active family fun.", "category": "family", "coords": [17.792157, 43.355269]}, {"name": "Igraonica \"Nedođija\"", "text": "An imaginatively designed play area for children in Mostar.", "category": "family", "coords": [17.823718, 43.326127]}, {"name": "Jungle", "text": "A playground in Mostar that invites exploration and movement.", "category": "family", "coords": [17.804766, 43.348689]}, {"name": "Poligon", "text": "A practice area for children in Mostar with various play equipment.", "category": "family", "coords": [17.807633, 43.35651]}, {"name": "Igralište", "text": "A classic playground in Mostar for the local community.", "category": "family", "coords": [17.815501, 43.343175]}, {"name": "Vatikan", "text": "A meeting point with play facilities for children in Mostar.", "category": "family", "coords": [17.800434, 43.338246]}]},
+    id: "ba-mostar", "sights": {
+      "de": [
+            {
+                  "name": "Muzej Stari most",
+                  "text": "Museum über die Geschichte der berühmten Brücke von Mostar.",
+                  "category": "museum",
+                  "coords": [
+                        17.8156,
+                        43.337244
+                  ]
+            },
+            {
+                  "name": "Cimska bazilika",
+                  "text": "Archäologische Stätte mit Überresten einer frühchristlichen Basilika.",
+                  "category": "historical",
+                  "coords": [
+                        17.774887,
+                        43.353875
+                  ]
+            },
+            {
+                  "name": "Koski Mehmed Pašina džamija",
+                  "text": "Historische Moschee mit Blick auf die Alte Brücke.",
+                  "category": "museum",
+                  "coords": [
+                        17.814788,
+                        43.338677
+                  ]
+            },
+            {
+                  "name": "Biskupska palača Mostar",
+                  "text": "Bedeutendes administratives und architektonisches Wahrzeichen in Mostar.",
+                  "category": "castle",
+                  "coords": [
+                        17.797235,
+                        43.339394
+                  ]
+            },
+            {
+                  "name": "Kroatisches Nationaltheater in Mostar",
+                  "text": "Wichtiger kultureller Veranstaltungsort für dramatische Kunst in Mostar.",
+                  "category": "cultural",
+                  "coords": [
+                        17.807058,
+                        43.344396
+                  ]
+            },
+            {
+                  "name": "Biskupska rezidencija u Vukodolu",
+                  "text": "Historische Residenz des katholischen Bischofs in Mostar.",
+                  "category": "castle",
+                  "coords": [
+                        17.794353,
+                        43.331797
+                  ]
+            },
+            {
+                  "name": "Ottoman house",
+                  "text": "Traditionelles Haus, das den Lebensstil der osmanischen Zeit zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.81308,
+                        43.340566
+                  ]
+            },
+            {
+                  "name": "Muzej Hercegovine Mostar",
+                  "text": "Museum zur Bewahrung der regionalen Geschichte der Herzegowina.",
+                  "category": "museum",
+                  "coords": [
+                        17.816045,
+                        43.339017
+                  ]
+            },
+            {
+                  "name": "Muslibegovića kuća",
+                  "text": "Gut erhaltenes Haus einer adligen osmanischen Familie aus dem 18. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        17.816164,
+                        43.341797
+                  ]
+            },
+            {
+                  "name": "Mostarski teatar mladih - MTM",
+                  "text": "Modernes Theater mit Schwerpunkt auf darstellender Kunst für Jugendliche.",
+                  "category": "cultural",
+                  "coords": [
+                        17.811155,
+                        43.343758
+                  ]
+            },
+            {
+                  "name": "Kajtazova kuća",
+                  "text": "Authentisches osmanisches Wohnhaus und Museum.",
+                  "category": "museum",
+                  "coords": [
+                        17.818348,
+                        43.33586
+                  ]
+            },
+            {
+                  "name": "Lutkarsko kazalište Mostar",
+                  "text": "Theater, das auf Puppenspiele für Kinder spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        17.802139,
+                        43.342789
+                  ]
+            },
+            {
+                  "name": "Centar za Kulturu Mostar",
+                  "text": "Veranstaltungsort für verschiedene kulturelle Ereignisse und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.810984,
+                        43.338832
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Mostar",
+                  "text": "Professionelles Theaterensemble, das in Mostar auftritt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.815374,
+                        43.340148
+                  ]
+            },
+            {
+                  "name": "Pozorište lutaka",
+                  "text": "Puppentheater mit Unterhaltung für alle Altersgruppen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.817252,
+                        43.340863
+                  ]
+            },
+            {
+                  "name": "Plaža Pehlivanuša Cernica MOSTAR",
+                  "text": "Direkt am Ufer der Neretva gelegen, bietet dieser Strandbereich in Mostar eine willkommene Erfrischung. Das Rauschen des Flusses sorgt für ein naturverbundenes Flair mitten in der bosnischen Stadt. Besucher können am Wasser entspannen, am Flusslauf spazieren gehen oder einfach die Aussicht genießen. An heißen Sommertagen ist dies ein wunderbarer städtischer Zufluchtsort.",
+                  "category": "recreational",
+                  "coords": [
+                        17.812071,
+                        43.339321
+                  ]
+            },
+            {
+                  "name": "Plaža Pijesak",
+                  "text": "Dieser kleine Sandstrand schmiegt sich malerisch an den Flusslauf in Mostar, Bosnien. Besonders bei Einheimischen geschätzt, versprüht der Ort eine intime und sehr authentische Atmosphäre. Ein erfrischendes Bad im kühlen Nass oder ein entspanntes Picknick im Sand gehören hier zum Programm. Packen Sie Ihr Handtuch ein und mischen Sie sich an einem sonnigen Nachmittag unter die Leute.",
+                  "category": "recreational",
+                  "coords": [
+                        17.811023,
+                        43.349844
+                  ]
+            },
+            {
+                  "name": "The Hub of Fine Arts",
+                  "text": "Galerie, die eine Sammlung moderner und klassischer Kunst ausstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.80402,
+                        43.345879
+                  ]
+            },
+            {
+                  "name": "Park Zrinjevac",
+                  "text": "Großer Stadtpark, der Grünflächen und Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        17.804513,
+                        43.343108
+                  ]
+            },
+            {
+                  "name": "Milleniumskreuz",
+                  "text": "Großes Kreuz auf dem Berg Hum mit Blick über die Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        17.806978,
+                        43.329504
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Historische Ruinen einer Verteidigungsstruktur in Mostar.",
+                  "category": "historical",
+                  "coords": [
+                        17.809303,
+                        43.322894
+                  ]
+            },
+            {
+                  "name": "Bazeni za vodu",
+                  "text": "Überreste alter Wasserbecken oder Reservoirs.",
+                  "category": "historical",
+                  "coords": [
+                        17.805337,
+                        43.328909
+                  ]
+            },
+            {
+                  "name": "Mali kuk",
+                  "text": "Aussichtspunkt mit Panoramablick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        17.818958,
+                        43.349655
+                  ]
+            },
+            {
+                  "name": "Mostarski Zvonik Mira",
+                  "text": "Hoher Glockenturm, der einen Panoramablick auf Mostar bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.808698,
+                        43.337856
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje",
+                  "text": "Monumentaler Friedhof zum Gedenken an die Partisansoldaten.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796267,
+                        43.340983
+                  ]
+            },
+            {
+                  "name": "#Vihovići",
+                  "text": "Landschaftlich reizvolles Gebiet um einen ehemaligen Minensee bei Mostar.",
+                  "category": "landmark",
+                  "coords": [
+                        17.792725,
+                        43.3524
+                  ]
+            },
+            {
+                  "name": "I ❤️ MOSTAR",
+                  "text": "Beliebter Fotopunkt mit dem farbenfrohen Schriftzug der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.830264,
+                        43.349751
+                  ]
+            },
+            {
+                  "name": "zgrada 17",
+                  "text": "Aussichtspunkt mit weitem Blick über die Stadt Mostar.",
+                  "category": "natural",
+                  "coords": [
+                        17.799302,
+                        43.351291
+                  ]
+            },
+            {
+                  "name": "Spomenik magarcu",
+                  "text": "Denkmal zu Ehren des Esels als traditionelles Arbeitstier.",
+                  "category": "historical",
+                  "coords": [
+                        17.801987,
+                        43.349746
+                  ]
+            },
+            {
+                  "name": "Sniper Tower",
+                  "text": "Ruine eines Hochhauses, das während des Krieges als strategischer Punkt diente.",
+                  "category": "historical",
+                  "coords": [
+                        17.806018,
+                        43.344174
+                  ]
+            },
+            {
+                  "name": "Derviš-paše Bajezidagića džamija",
+                  "text": "Historische Moschee und bedeutendes religiöses Denkmal in Mostar.",
+                  "category": "religious",
+                  "coords": [
+                        17.80837,
+                        43.336745
+                  ]
+            },
+            {
+                  "name": "Roznamedži Ibrahim-efendije džamija",
+                  "text": "Traditionelle Moschee im Herzen der Altstadt von Mostar.",
+                  "category": "religious",
+                  "coords": [
+                        17.812823,
+                        43.34222
+                  ]
+            },
+            {
+                  "name": "Ćose Jahja-hodžina džamija",
+                  "text": "Historisches islamisches Gotteshaus im Stadtviertel Mostar.",
+                  "category": "religious",
+                  "coords": [
+                        17.81207,
+                        43.344136
+                  ]
+            },
+            {
+                  "name": "Hadži Memijina džamija",
+                  "text": "Traditionelle lokale Moschee, die der lokalen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.810376,
+                        43.340112
+                  ]
+            },
+            {
+                  "name": "Saborna crkva Svete Trojice",
+                  "text": "Große orthodoxe Kathedrale, die nach der Zerstörung im Krieg wiederaufgebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        17.818667,
+                        43.339122
+                  ]
+            },
+            {
+                  "name": "Ali-Bega Lafe džamija",
+                  "text": "Historische Moschee mit traditioneller osmanischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        17.802911,
+                        43.337891
+                  ]
+            },
+            {
+                  "name": "Lučki most",
+                  "text": "Historische Brücke über den Fluss Neretva im Stadtzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        17.816227,
+                        43.335246
+                  ]
+            },
+            {
+                  "name": "Carinski most",
+                  "text": "Wichtige Brückenverbindung über die Neretva in Mostar.",
+                  "category": "landmark",
+                  "coords": [
+                        17.810675,
+                        43.348212
+                  ]
+            },
+            {
+                  "name": "Kop jezero",
+                  "text": "Ein See in der Nähe von Mostar, ideal für einen Spaziergang in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.796706,
+                        43.358797
+                  ]
+            },
+            {
+                  "name": "Nizvodna akumulacija",
+                  "text": "Ein lokales Gewässer in Mostar mit ruhiger Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        17.757505,
+                        43.306976
+                  ]
+            },
+            {
+                  "name": "Uzvodna akumulacija",
+                  "text": "Ein See in Mostar, der sich für die Beobachtung der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        17.731908,
+                        43.320446
+                  ]
+            },
+            {
+                  "name": "Vodna komora",
+                  "text": "Ein kleiner See in Mostar in natürlicher Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        17.789331,
+                        43.299917
+                  ]
+            },
+            {
+                  "name": "Donji kompezacijski bazen",
+                  "text": "Ein Wasserbecken in Mostar, das zum Verweilen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        17.795765,
+                        43.298116
+                  ]
+            },
+            {
+                  "name": "Dječji Centar Funland",
+                  "text": "Ein Indoor-Spielzentrum in Mostar für aktiven Familienspaß.",
+                  "category": "family",
+                  "coords": [
+                        17.792157,
+                        43.355269
+                  ]
+            },
+            {
+                  "name": "Igraonica \"Nedođija\"",
+                  "text": "Ein fantasievoll gestalteter Spielbereich für Kinder in Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.823718,
+                        43.326127
+                  ]
+            },
+            {
+                  "name": "Jungle",
+                  "text": "Ein Spielplatz in Mostar, der zum Entdecken und Bewegen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        17.804766,
+                        43.348689
+                  ]
+            },
+            {
+                  "name": "Poligon",
+                  "text": "Ein Übungsplatz für Kinder in Mostar mit verschiedenen Spielgeräten.",
+                  "category": "family",
+                  "coords": [
+                        17.807633,
+                        43.35651
+                  ]
+            },
+            {
+                  "name": "Igralište",
+                  "text": "Ein klassischer Spielplatz in Mostar für die lokale Bevölkerung.",
+                  "category": "family",
+                  "coords": [
+                        17.815501,
+                        43.343175
+                  ]
+            },
+            {
+                  "name": "Vatikan",
+                  "text": "Ein Treffpunkt mit Spielmöglichkeiten für Kinder in Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.800434,
+                        43.338246
+                  ]
+            },
+            {
+                  "name": "City spa",
+                  "text": "Ein Schwimmbad in Mostar für Sport und Erholung.",
+                  "category": "family",
+                  "coords": [
+                        17.809664,
+                        43.348466
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Ein städtisches Schwimmbad in Mostar für sportliche Aktivitäten.",
+                  "category": "family",
+                  "coords": [
+                        17.809503,
+                        43.349996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej Stari most",
+                  "text": "Múzeum, amely Mostar híres hídjának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.8156,
+                        43.337244
+                  ]
+            },
+            {
+                  "name": "Cimska bazilika",
+                  "text": "Régészeti lelőhely egy kora keresztény bazilika maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        17.774887,
+                        43.353875
+                  ]
+            },
+            {
+                  "name": "Koski Mehmed Pašina džamija",
+                  "text": "Történelmi mecset, ahonnan kilátás nyílik az Öreg hídra.",
+                  "category": "museum",
+                  "coords": [
+                        17.814788,
+                        43.338677
+                  ]
+            },
+            {
+                  "name": "Biskupska palača Mostar",
+                  "text": "Jelentős adminisztratív és építészeti nevezetesség Mostarban.",
+                  "category": "castle",
+                  "coords": [
+                        17.797235,
+                        43.339394
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište Mostar",
+                  "text": "Fontos kulturális helyszín a színművészet számára Mostarban.",
+                  "category": "cultural",
+                  "coords": [
+                        17.807058,
+                        43.344396
+                  ]
+            },
+            {
+                  "name": "Biskupska rezidencija u Vukodolu",
+                  "text": "A katolikus püspök történelmi rezidenciája Mostarban.",
+                  "category": "castle",
+                  "coords": [
+                        17.794353,
+                        43.331797
+                  ]
+            },
+            {
+                  "name": "Ottoman house",
+                  "text": "Hagyományos ház, amely az oszmán kori életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.81308,
+                        43.340566
+                  ]
+            },
+            {
+                  "name": "Muzej Hercegovine Mostar",
+                  "text": "Hercegovina regionális történelmét őrző múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.816045,
+                        43.339017
+                  ]
+            },
+            {
+                  "name": "Muslibegovića kuća",
+                  "text": "Egy nemesi oszmán család jól megőrzött 18. századi háza.",
+                  "category": "museum",
+                  "coords": [
+                        17.816164,
+                        43.341797
+                  ]
+            },
+            {
+                  "name": "Mostarski teatar mladih - MTM",
+                  "text": "Modern színház, amely a fiatalok előadó-művészetére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        17.811155,
+                        43.343758
+                  ]
+            },
+            {
+                  "name": "Kajtazova kuća",
+                  "text": "Hiteles oszmán lakóház és múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.818348,
+                        43.33586
+                  ]
+            },
+            {
+                  "name": "Lutkarsko kazalište Mostar",
+                  "text": "Gyermekeknek szóló bábelőadásokra szakosodott színház.",
+                  "category": "cultural",
+                  "coords": [
+                        17.802139,
+                        43.342789
+                  ]
+            },
+            {
+                  "name": "Centar za Kulturu Mostar",
+                  "text": "Különféle kulturális események és kiállítások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        17.810984,
+                        43.338832
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Mostar",
+                  "text": "Mostarban fellépő professzionális színházi társulat.",
+                  "category": "cultural",
+                  "coords": [
+                        17.815374,
+                        43.340148
+                  ]
+            },
+            {
+                  "name": "Pozorište lutaka",
+                  "text": "Bábszínház, amely minden korosztály számára kínál szórakozást.",
+                  "category": "cultural",
+                  "coords": [
+                        17.817252,
+                        43.340863
+                  ]
+            },
+            {
+                  "name": "Plaža Pehlivanuša Cernica MOSTAR",
+                  "text": "Közvetlenül a Neretva partján található ez a mostari strandrész, amely szívesen látott felfrissülést kínál. A folyó csobogása természetközeli hangulatot teremt a bosnyák város közepén. A látogatók pihenhetnek a vízparton, sétálhatnak a folyómeder mentén, vagy egyszerűen csak élvezhetik a kilátást. Forró nyári napokon ez egy csodálatos városi menedék.",
+                  "category": "recreational",
+                  "coords": [
+                        17.812071,
+                        43.339321
+                  ]
+            },
+            {
+                  "name": "Plaža Pijesak",
+                  "text": "Ez a kis homokos strand festőien simul a folyómederhez a boszniai Mostarban. Különösen a helyiek körében kedvelt, így a hely meghitt és nagyon autentikus hangulatot áraszt. Egy frissítő fürdőzés a hűs vízben vagy egy pihentető piknik a homokban itt a program része. Csomagolja be a törölközőjét, és vegyüljön el az emberek között egy napsütéses délutánon.",
+                  "category": "recreational",
+                  "coords": [
+                        17.811023,
+                        43.349844
+                  ]
+            },
+            {
+                  "name": "The Hub of Fine Arts",
+                  "text": "Modern és klasszikus művészeti gyűjteményt bemutató galéria.",
+                  "category": "cultural",
+                  "coords": [
+                        17.80402,
+                        43.345879
+                  ]
+            },
+            {
+                  "name": "Park Zrinjevac",
+                  "text": "Nagy városi park, amely zöldterületet és kikapcsolódást kínál.",
+                  "category": "park",
+                  "coords": [
+                        17.804513,
+                        43.343108
+                  ]
+            },
+            {
+                  "name": "Millenniumi kereszt",
+                  "text": "Hatalmas kereszt a Hum-hegyen, amely a városra néz.",
+                  "category": "historical",
+                  "coords": [
+                        17.806978,
+                        43.329504
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Egy védelmi építmény történelmi romjai Mostarban.",
+                  "category": "historical",
+                  "coords": [
+                        17.809303,
+                        43.322894
+                  ]
+            },
+            {
+                  "name": "Bazeni za vodu",
+                  "text": "Régi víztározók vagy medencék maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        17.805337,
+                        43.328909
+                  ]
+            },
+            {
+                  "name": "Mali kuk",
+                  "text": "Kilátópont, amely panorámás kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        17.818958,
+                        43.349655
+                  ]
+            },
+            {
+                  "name": "Mostari béke harangtornya",
+                  "text": "Magas harangtorony, amely panorámás kilátást nyújt Mostarra.",
+                  "category": "landmark",
+                  "coords": [
+                        17.808698,
+                        43.337856
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje",
+                  "text": "A partizán katonák emlékének szentelt monumentális temető.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796267,
+                        43.340983
+                  ]
+            },
+            {
+                  "name": "#Vihovići",
+                  "text": "Festői terület egy egykori bányató körül Mostar közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.792725,
+                        43.3524
+                  ]
+            },
+            {
+                  "name": "I ❤️ MOSTAR",
+                  "text": "Népszerű fotópont a város színes feliratával.",
+                  "category": "landmark",
+                  "coords": [
+                        17.830264,
+                        43.349751
+                  ]
+            },
+            {
+                  "name": "zgrada 17",
+                  "text": "Kilátópont, ahonnan széles kilátás nyílik Mostar városára.",
+                  "category": "natural",
+                  "coords": [
+                        17.799302,
+                        43.351291
+                  ]
+            },
+            {
+                  "name": "Spomenik magarcu",
+                  "text": "A szamár mint hagyományos munkásállat előtt tisztelgő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        17.801987,
+                        43.349746
+                  ]
+            },
+            {
+                  "name": "Sniper Tower",
+                  "text": "Egy magas épület romjai, amely a háború alatt stratégiai pontként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        17.806018,
+                        43.344174
+                  ]
+            },
+            {
+                  "name": "Derviš-paše Bajezidagića džamija",
+                  "text": "Történelmi mecset és jelentős vallási műemlék Mostarban.",
+                  "category": "religious",
+                  "coords": [
+                        17.80837,
+                        43.336745
+                  ]
+            },
+            {
+                  "name": "Roznamedži Ibrahim-efendije džamija",
+                  "text": "Hagyományos mecset Mostar óvárosának szívében.",
+                  "category": "religious",
+                  "coords": [
+                        17.812823,
+                        43.34222
+                  ]
+            },
+            {
+                  "name": "Ćose Jahja-hodžina džamija",
+                  "text": "Történelmi iszlám imaház Mostar városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        17.81207,
+                        43.344136
+                  ]
+            },
+            {
+                  "name": "Hadži Memijina džamija",
+                  "text": "Hagyományos helyi mecset, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        17.810376,
+                        43.340112
+                  ]
+            },
+            {
+                  "name": "Saborna crkva Svete Trojice",
+                  "text": "Nagy ortodox székesegyház, amelyet a háborús pusztítás után újjáépítettek.",
+                  "category": "religious",
+                  "coords": [
+                        17.818667,
+                        43.339122
+                  ]
+            },
+            {
+                  "name": "Ali-Bega Lafe džamija",
+                  "text": "Történelmi mecset hagyományos oszmán építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        17.802911,
+                        43.337891
+                  ]
+            },
+            {
+                  "name": "Lučki most",
+                  "text": "Történelmi híd a Neretva folyó felett a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.816227,
+                        43.335246
+                  ]
+            },
+            {
+                  "name": "Carinski most",
+                  "text": "Fontos hídösszeköttetés a Neretva felett Mostarban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.810675,
+                        43.348212
+                  ]
+            },
+            {
+                  "name": "Kop jezero",
+                  "text": "Mostar közeli tó, amely ideális természeti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.796706,
+                        43.358797
+                  ]
+            },
+            {
+                  "name": "Nizvodna akumulacija",
+                  "text": "Helyi vízfelület Mostarban, nyugodt környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.757505,
+                        43.306976
+                  ]
+            },
+            {
+                  "name": "Uzvodna akumulacija",
+                  "text": "Tó Mostarban, amely alkalmas a táj megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        17.731908,
+                        43.320446
+                  ]
+            },
+            {
+                  "name": "Vodna komora",
+                  "text": "Kisméretű tó Mostarban, természetes környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.789331,
+                        43.299917
+                  ]
+            },
+            {
+                  "name": "Donji kompezacijski bazen",
+                  "text": "Vízgyűjtő medence Mostarban, amely pihenésre hív a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        17.795765,
+                        43.298116
+                  ]
+            },
+            {
+                  "name": "Dječji Centar Funland",
+                  "text": "Beltéri játszóközpont Mostarban az aktív családi szórakozásért.",
+                  "category": "family",
+                  "coords": [
+                        17.792157,
+                        43.355269
+                  ]
+            },
+            {
+                  "name": "Igraonica \"Nedođija\"",
+                  "text": "Mókásan kialakított játszóhely gyermekeknek Mostarban.",
+                  "category": "family",
+                  "coords": [
+                        17.823718,
+                        43.326127
+                  ]
+            },
+            {
+                  "name": "Jungle",
+                  "text": "Játszótér Mostarban, amely felfedezésre és mozgásra ösztönöz.",
+                  "category": "family",
+                  "coords": [
+                        17.804766,
+                        43.348689
+                  ]
+            },
+            {
+                  "name": "Poligon",
+                  "text": "Gyakorlópálya gyerekeknek Mostarban különféle játékokkal.",
+                  "category": "family",
+                  "coords": [
+                        17.807633,
+                        43.35651
+                  ]
+            },
+            {
+                  "name": "Igralište",
+                  "text": "Hagyományos játszótér Mostarban a helyi családok számára.",
+                  "category": "family",
+                  "coords": [
+                        17.815501,
+                        43.343175
+                  ]
+            },
+            {
+                  "name": "Vatikan",
+                  "text": "Találkozóhely játéklehetőségekkel gyerekeknek Mostarban.",
+                  "category": "family",
+                  "coords": [
+                        17.800434,
+                        43.338246
+                  ]
+            },
+            {
+                  "name": "City spa",
+                  "text": "Úszómedence Mostarban sportoláshoz és pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        17.809664,
+                        43.348466
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "Városi úszómedence Mostarban sporttevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        17.809503,
+                        43.349996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej Stari most",
+                  "text": "Muzeu care detaliază istoria celebrului pod din Mostar.",
+                  "category": "museum",
+                  "coords": [
+                        17.8156,
+                        43.337244
+                  ]
+            },
+            {
+                  "name": "Cimska bazilika",
+                  "text": "Sit arheologic ce cuprinde vestigiile unei bazilici timpurii creștine.",
+                  "category": "historical",
+                  "coords": [
+                        17.774887,
+                        43.353875
+                  ]
+            },
+            {
+                  "name": "Koski Mehmed Pašina džamija",
+                  "text": "Moschee istorică ce oferă vedere spre Podul Vechi.",
+                  "category": "museum",
+                  "coords": [
+                        17.814788,
+                        43.338677
+                  ]
+            },
+            {
+                  "name": "Biskupska palača Mostar",
+                  "text": "Reper administrativ și arhitectural semnificativ din Mostar.",
+                  "category": "castle",
+                  "coords": [
+                        17.797235,
+                        43.339394
+                  ]
+            },
+            {
+                  "name": "Hrvatsko narodno kazalište Mostar",
+                  "text": "Loc cultural important pentru artele dramatice în Mostar.",
+                  "category": "cultural",
+                  "coords": [
+                        17.807058,
+                        43.344396
+                  ]
+            },
+            {
+                  "name": "Biskupska rezidencija u Vukodolu",
+                  "text": "Reședința istorică a episcopului catolic din Mostar.",
+                  "category": "castle",
+                  "coords": [
+                        17.794353,
+                        43.331797
+                  ]
+            },
+            {
+                  "name": "Ottoman house",
+                  "text": "Casă tradițională care prezintă stilul de viață din epoca otomană.",
+                  "category": "museum",
+                  "coords": [
+                        17.81308,
+                        43.340566
+                  ]
+            },
+            {
+                  "name": "Muzej Hercegovine Mostar",
+                  "text": "Muzeu care conservă istoria regională a Herțegovinei.",
+                  "category": "museum",
+                  "coords": [
+                        17.816045,
+                        43.339017
+                  ]
+            },
+            {
+                  "name": "Muslibegovića kuća",
+                  "text": "Casă bine conservată din secolul al XVIII-lea a unei familii nobile otomane.",
+                  "category": "museum",
+                  "coords": [
+                        17.816164,
+                        43.341797
+                  ]
+            },
+            {
+                  "name": "Mostarski teatar mladih - MTM",
+                  "text": "Teatru modern axat pe artele spectacolului pentru tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        17.811155,
+                        43.343758
+                  ]
+            },
+            {
+                  "name": "Kajtazova kuća",
+                  "text": "Casă rezidențială otomană autentică și muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        17.818348,
+                        43.33586
+                  ]
+            },
+            {
+                  "name": "Lutkarsko kazalište Mostar",
+                  "text": "Teatru specializat în spectacole de păpuși pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        17.802139,
+                        43.342789
+                  ]
+            },
+            {
+                  "name": "Centar za Kulturu Mostar",
+                  "text": "Spațiu pentru diverse evenimente culturale și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        17.810984,
+                        43.338832
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Mostar",
+                  "text": "Companie de teatru profesionistă care activează în Mostar.",
+                  "category": "cultural",
+                  "coords": [
+                        17.815374,
+                        43.340148
+                  ]
+            },
+            {
+                  "name": "Pozorište lutaka",
+                  "text": "Teatru de păpuși care oferă divertisment pentru toate vârstele.",
+                  "category": "cultural",
+                  "coords": [
+                        17.817252,
+                        43.340863
+                  ]
+            },
+            {
+                  "name": "Plaža Pehlivanuša Cernica MOSTAR",
+                  "text": "Situată chiar pe malul râului Neretva, această zonă de plajă din Mostar oferă o răcorire binevenită. Murmurul râului creează un aer natural chiar în mijlocul orașului bosniac. Vizitatorii se pot relaxa lângă apă, se pot plimba de-a lungul râului sau pur și simplu pot savura priveliștea. În zilele fierbinți de vară, acesta este un refugiu urban minunat.",
+                  "category": "recreational",
+                  "coords": [
+                        17.812071,
+                        43.339321
+                  ]
+            },
+            {
+                  "name": "Plaža Pijesak",
+                  "text": "Această mică plajă cu nisip se cuibărește pitoresc de-a lungul cursului râului din Mostar, Bosnia. Apreciat în special de localnici, locul emană o atmosferă intimă și foarte autentică. O baie revigorantă în apa răcoroasă sau un picnic relaxant pe nisip fac parte din programul de aici. Împachetați un prosop și amestecați-vă printre oameni într-o după-amiază însorită.",
+                  "category": "recreational",
+                  "coords": [
+                        17.811023,
+                        43.349844
+                  ]
+            },
+            {
+                  "name": "The Hub of Fine Arts",
+                  "text": "Galerie care expune o colecție de artă modernă și clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        17.80402,
+                        43.345879
+                  ]
+            },
+            {
+                  "name": "Park Zrinjevac",
+                  "text": "Parc urban mare care oferă spații verzi și recreere.",
+                  "category": "park",
+                  "coords": [
+                        17.804513,
+                        43.343108
+                  ]
+            },
+            {
+                  "name": "Milenijski križ",
+                  "text": "Cruce de mari dimensiuni pe muntele Hum, cu vedere spre oraș.",
+                  "category": "historical",
+                  "coords": [
+                        17.806978,
+                        43.329504
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Ruine istorice ale unei structuri defensive din Mostar.",
+                  "category": "historical",
+                  "coords": [
+                        17.809303,
+                        43.322894
+                  ]
+            },
+            {
+                  "name": "Bazeni za vodu",
+                  "text": "Rămășițele unor vechi bazine de apă sau rezervoare.",
+                  "category": "historical",
+                  "coords": [
+                        17.805337,
+                        43.328909
+                  ]
+            },
+            {
+                  "name": "Mali kuk",
+                  "text": "Punct de observație care oferă o vedere panoramică asupra zonei.",
+                  "category": "natural",
+                  "coords": [
+                        17.818958,
+                        43.349655
+                  ]
+            },
+            {
+                  "name": "Mostarski Zvonik Mira",
+                  "text": "Turn cu clopot înalt care oferă vederi panoramice asupra orașului Mostar.",
+                  "category": "landmark",
+                  "coords": [
+                        17.808698,
+                        43.337856
+                  ]
+            },
+            {
+                  "name": "Partizansko groblje",
+                  "text": "Cimitir monumental dedicat soldaților partizani.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796267,
+                        43.340983
+                  ]
+            },
+            {
+                  "name": "#Vihovići",
+                  "text": "Zonă pitorească în jurul unui fost lac minier lângă Mostar.",
+                  "category": "landmark",
+                  "coords": [
+                        17.792725,
+                        43.3524
+                  ]
+            },
+            {
+                  "name": "I ❤️ MOSTAR",
+                  "text": "Punct de fotografiere popular cu inscripția colorată a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        17.830264,
+                        43.349751
+                  ]
+            },
+            {
+                  "name": "zgrada 17",
+                  "text": "Punct de observație care oferă o vedere panoramică asupra orașului Mostar.",
+                  "category": "natural",
+                  "coords": [
+                        17.799302,
+                        43.351291
+                  ]
+            },
+            {
+                  "name": "Spomenik magarcu",
+                  "text": "Monument dedicat măgarului ca animal tradițional de povară.",
+                  "category": "historical",
+                  "coords": [
+                        17.801987,
+                        43.349746
+                  ]
+            },
+            {
+                  "name": "Sniper Tower",
+                  "text": "Ruinele unei clădiri înalte care a servit ca punct strategic în timpul războiului.",
+                  "category": "historical",
+                  "coords": [
+                        17.806018,
+                        43.344174
+                  ]
+            },
+            {
+                  "name": "Derviš-paše Bajezidagića džamija",
+                  "text": "Moschee istorică și monument religios important în Mostar.",
+                  "category": "religious",
+                  "coords": [
+                        17.80837,
+                        43.336745
+                  ]
+            },
+            {
+                  "name": "Roznamedži Ibrahim-efendije džamija",
+                  "text": "Moschee tradițională în inima centrului istoric din Mostar.",
+                  "category": "religious",
+                  "coords": [
+                        17.812823,
+                        43.34222
+                  ]
+            },
+            {
+                  "name": "Ćose Jahja-hodžina džamija",
+                  "text": "Lăcaș de cult islamic istoric în cartierul Mostar.",
+                  "category": "religious",
+                  "coords": [
+                        17.81207,
+                        43.344136
+                  ]
+            },
+            {
+                  "name": "Hadži Memijina džamija",
+                  "text": "Moschee locală tradițională care servește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        17.810376,
+                        43.340112
+                  ]
+            },
+            {
+                  "name": "Saborna crkva Svete Trojice",
+                  "text": "Catedrală ortodoxă mare, reconstruită după distrugerea sa în timpul războiului.",
+                  "category": "religious",
+                  "coords": [
+                        17.818667,
+                        43.339122
+                  ]
+            },
+            {
+                  "name": "Ali-Bega Lafe džamija",
+                  "text": "Moschee istorică cu arhitectură otomană tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        17.802911,
+                        43.337891
+                  ]
+            },
+            {
+                  "name": "Lučki most",
+                  "text": "Pod istoric peste râul Neretva în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        17.816227,
+                        43.335246
+                  ]
+            },
+            {
+                  "name": "Carinski most",
+                  "text": "Pod important de legătură peste râul Neretva în Mostar.",
+                  "category": "landmark",
+                  "coords": [
+                        17.810675,
+                        43.348212
+                  ]
+            },
+            {
+                  "name": "Kop jezero",
+                  "text": "Un lac lângă Mostar, ideal pentru o plimbare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.796706,
+                        43.358797
+                  ]
+            },
+            {
+                  "name": "Nizvodna akumulacija",
+                  "text": "O acumulare de apă locală în Mostar, cu o atmosferă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        17.757505,
+                        43.306976
+                  ]
+            },
+            {
+                  "name": "Uzvodna akumulacija",
+                  "text": "Un lac în Mostar, potrivit pentru admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        17.731908,
+                        43.320446
+                  ]
+            },
+            {
+                  "name": "Vodna komora",
+                  "text": "Un mic lac în Mostar, într-un cadru natural.",
+                  "category": "natural",
+                  "coords": [
+                        17.789331,
+                        43.299917
+                  ]
+            },
+            {
+                  "name": "Donji kompezacijski bazen",
+                  "text": "Un bazin de apă în Mostar care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.795765,
+                        43.298116
+                  ]
+            },
+            {
+                  "name": "Dječji Centar Funland",
+                  "text": "Un centru de joacă interior în Mostar pentru distracție activă în familie.",
+                  "category": "family",
+                  "coords": [
+                        17.792157,
+                        43.355269
+                  ]
+            },
+            {
+                  "name": "Igraonica \"Nedođija\"",
+                  "text": "O zonă de joacă creativă pentru copii în Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.823718,
+                        43.326127
+                  ]
+            },
+            {
+                  "name": "Jungle",
+                  "text": "Un teren de joacă în Mostar care invită la explorare și mișcare.",
+                  "category": "family",
+                  "coords": [
+                        17.804766,
+                        43.348689
+                  ]
+            },
+            {
+                  "name": "Poligon",
+                  "text": "Un poligon pentru copii în Mostar cu diverse echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        17.807633,
+                        43.35651
+                  ]
+            },
+            {
+                  "name": "Igralište",
+                  "text": "Un teren de joacă clasic în Mostar pentru comunitatea locală.",
+                  "category": "family",
+                  "coords": [
+                        17.815501,
+                        43.343175
+                  ]
+            },
+            {
+                  "name": "Vatikan",
+                  "text": "Un punct de întâlnire cu facilități de joacă pentru copii în Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.800434,
+                        43.338246
+                  ]
+            },
+            {
+                  "name": "City spa",
+                  "text": "O piscină în Mostar pentru sport și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        17.809664,
+                        43.348466
+                  ]
+            },
+            {
+                  "name": "Gradski bazen",
+                  "text": "O piscină municipală în Mostar pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        17.809503,
+                        43.349996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old bridge Museum",
+                  "text": "Museum detailing the history of Mostar's famous bridge.",
+                  "category": "museum",
+                  "coords": [
+                        17.8156,
+                        43.337244
+                  ]
+            },
+            {
+                  "name": "Cim Early Christian Basilica",
+                  "text": "Archaeological site featuring remains of an early Christian basilica.",
+                  "category": "historical",
+                  "coords": [
+                        17.774887,
+                        43.353875
+                  ]
+            },
+            {
+                  "name": "Koski Mehmed Pasha Mosque",
+                  "text": "Historic mosque offering views of the Old Bridge.",
+                  "category": "museum",
+                  "coords": [
+                        17.814788,
+                        43.338677
+                  ]
+            },
+            {
+                  "name": "Bishop's Ordinariate",
+                  "text": "Significant administrative and architectural landmark in Mostar.",
+                  "category": "castle",
+                  "coords": [
+                        17.797235,
+                        43.339394
+                  ]
+            },
+            {
+                  "name": "Croatian National Theatre in Mostar",
+                  "text": "Important cultural venue for dramatic arts in Mostar.",
+                  "category": "cultural",
+                  "coords": [
+                        17.807058,
+                        43.344396
+                  ]
+            },
+            {
+                  "name": "Biskupska rezidencija u Vukodolu",
+                  "text": "Historical residence of the Catholic bishop in Mostar.",
+                  "category": "castle",
+                  "coords": [
+                        17.794353,
+                        43.331797
+                  ]
+            },
+            {
+                  "name": "Ottoman house",
+                  "text": "Traditional house showcasing Ottoman-era lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        17.81308,
+                        43.340566
+                  ]
+            },
+            {
+                  "name": "Muzej Hercegovine Mostar",
+                  "text": "Museum preserving the regional history of Herzegovina.",
+                  "category": "museum",
+                  "coords": [
+                        17.816045,
+                        43.339017
+                  ]
+            },
+            {
+                  "name": "Muslibegovic House",
+                  "text": "Well-preserved 18th-century house of a noble Ottoman family.",
+                  "category": "museum",
+                  "coords": [
+                        17.816164,
+                        43.341797
+                  ]
+            },
+            {
+                  "name": "Mostarski teatar mladih - MTM",
+                  "text": "Modern theatre focused on youth performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        17.811155,
+                        43.343758
+                  ]
+            },
+            {
+                  "name": "Kajtaz House",
+                  "text": "Authentic Ottoman residential house and museum.",
+                  "category": "museum",
+                  "coords": [
+                        17.818348,
+                        43.33586
+                  ]
+            },
+            {
+                  "name": "Lutkarsko kazalište Mostar",
+                  "text": "Theatre specializing in puppet shows for children.",
+                  "category": "cultural",
+                  "coords": [
+                        17.802139,
+                        43.342789
+                  ]
+            },
+            {
+                  "name": "Centar za Kulturu Mostar",
+                  "text": "Venue for various cultural events and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        17.810984,
+                        43.338832
+                  ]
+            },
+            {
+                  "name": "National Theatre Mostar",
+                  "text": "Professional theatre company performing in Mostar.",
+                  "category": "cultural",
+                  "coords": [
+                        17.815374,
+                        43.340148
+                  ]
+            },
+            {
+                  "name": "Pozorište lutaka",
+                  "text": "Puppet theatre providing entertainment for all ages.",
+                  "category": "cultural",
+                  "coords": [
+                        17.817252,
+                        43.340863
+                  ]
+            },
+            {
+                  "name": "Plaža Pehlivanuša Cernica MOSTAR",
+                  "text": "Situated right on the banks of the Neretva, this beach area in Mostar offers welcome refreshment. The rushing of the river provides a nature-connected flair right in the middle of the Bosnian city. Visitors can relax by the water, walk along the river course, or simply enjoy the view. On hot summer days, this is a wonderful urban refuge.",
+                  "category": "recreational",
+                  "coords": [
+                        17.812071,
+                        43.339321
+                  ]
+            },
+            {
+                  "name": "Plaža Pijesak",
+                  "text": "This small sandy beach nestles picturesquely along the river course in Mostar, Bosnia. Particularly appreciated by locals, the spot exudes an intimate and very authentic atmosphere. A refreshing dip in the cool water or a relaxing picnic in the sand is part of the experience here. Pack your towel and mingle with the crowd on a sunny afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        17.811023,
+                        43.349844
+                  ]
+            },
+            {
+                  "name": "The Hub of Fine Arts",
+                  "text": "Gallery showcasing a collection of modern and classic art.",
+                  "category": "cultural",
+                  "coords": [
+                        17.80402,
+                        43.345879
+                  ]
+            },
+            {
+                  "name": "Park Zrinjevac",
+                  "text": "Large city park providing green space and recreation.",
+                  "category": "park",
+                  "coords": [
+                        17.804513,
+                        43.343108
+                  ]
+            },
+            {
+                  "name": "Millennium cross",
+                  "text": "Large cross on Mount Hum overlooking the city.",
+                  "category": "historical",
+                  "coords": [
+                        17.806978,
+                        43.329504
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Historical ruins of a defensive structure in Mostar.",
+                  "category": "historical",
+                  "coords": [
+                        17.809303,
+                        43.322894
+                  ]
+            },
+            {
+                  "name": "Bazeni za vodu",
+                  "text": "Remains of old water basins or reservoirs.",
+                  "category": "historical",
+                  "coords": [
+                        17.805337,
+                        43.328909
+                  ]
+            },
+            {
+                  "name": "Mali kuk",
+                  "text": "Vantage point offering a panoramic view of the area.",
+                  "category": "natural",
+                  "coords": [
+                        17.818958,
+                        43.349655
+                  ]
+            },
+            {
+                  "name": "Mostar Peace Bell Tower",
+                  "text": "Tall bell tower offering panoramic views of Mostar.",
+                  "category": "landmark",
+                  "coords": [
+                        17.808698,
+                        43.337856
+                  ]
+            },
+            {
+                  "name": "Partisans memorial cementery",
+                  "text": "Monumental cemetery dedicated to partisan soldiers.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796267,
+                        43.340983
+                  ]
+            },
+            {
+                  "name": "#Vihovići",
+                  "text": "Scenic area around a former mine lake near Mostar.",
+                  "category": "landmark",
+                  "coords": [
+                        17.792725,
+                        43.3524
+                  ]
+            },
+            {
+                  "name": "I ❤️ MOSTAR",
+                  "text": "Popular photo spot featuring the city's colorful sign.",
+                  "category": "landmark",
+                  "coords": [
+                        17.830264,
+                        43.349751
+                  ]
+            },
+            {
+                  "name": "zgrada 17",
+                  "text": "Viewpoint offering a wide view over the city of Mostar.",
+                  "category": "natural",
+                  "coords": [
+                        17.799302,
+                        43.351291
+                  ]
+            },
+            {
+                  "name": "Spomenik magarcu",
+                  "text": "Monument dedicated to the donkey as a traditional working animal.",
+                  "category": "historical",
+                  "coords": [
+                        17.801987,
+                        43.349746
+                  ]
+            },
+            {
+                  "name": "Sniper Tower",
+                  "text": "Ruins of a high-rise building that served as a strategic point during the war.",
+                  "category": "historical",
+                  "coords": [
+                        17.806018,
+                        43.344174
+                  ]
+            },
+            {
+                  "name": "Dobrotvor Bagazidagic Dervish Pasha Mosque",
+                  "text": "Historic mosque and significant religious monument in Mostar.",
+                  "category": "religious",
+                  "coords": [
+                        17.80837,
+                        43.336745
+                  ]
+            },
+            {
+                  "name": "Roznamedži Ibrahimefendije Mosque",
+                  "text": "Traditional mosque in the heart of Mostar's old town.",
+                  "category": "religious",
+                  "coords": [
+                        17.812823,
+                        43.34222
+                  ]
+            },
+            {
+                  "name": "Ćose Jahja-hodžina džamija",
+                  "text": "Historic Islamic place of worship in the Mostar district.",
+                  "category": "religious",
+                  "coords": [
+                        17.81207,
+                        43.344136
+                  ]
+            },
+            {
+                  "name": "Hadži Memijina džamija",
+                  "text": "Traditional local mosque serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        17.810376,
+                        43.340112
+                  ]
+            },
+            {
+                  "name": "Saborna crkva Svete Trojice",
+                  "text": "Large Orthodox cathedral rebuilt after its destruction during the war.",
+                  "category": "religious",
+                  "coords": [
+                        17.818667,
+                        43.339122
+                  ]
+            },
+            {
+                  "name": "Ali-Bega Lafe džamija",
+                  "text": "Historic mosque featuring traditional Ottoman architecture.",
+                  "category": "religious",
+                  "coords": [
+                        17.802911,
+                        43.337891
+                  ]
+            },
+            {
+                  "name": "Lučki most",
+                  "text": "Historic bridge over the Neretva river in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        17.816227,
+                        43.335246
+                  ]
+            },
+            {
+                  "name": "Carinski most",
+                  "text": "Important bridge connection over the Neretva in Mostar.",
+                  "category": "landmark",
+                  "coords": [
+                        17.810675,
+                        43.348212
+                  ]
+            },
+            {
+                  "name": "Kop jezero",
+                  "text": "A lake near Mostar, ideal for a walk in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.796706,
+                        43.358797
+                  ]
+            },
+            {
+                  "name": "Nizvodna akumulacija",
+                  "text": "A local water body in Mostar with a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        17.757505,
+                        43.306976
+                  ]
+            },
+            {
+                  "name": "Uzvodna akumulacija",
+                  "text": "A lake in Mostar suitable for viewing the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        17.731908,
+                        43.320446
+                  ]
+            },
+            {
+                  "name": "Vodna komora",
+                  "text": "A small lake in Mostar set in a natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        17.789331,
+                        43.299917
+                  ]
+            },
+            {
+                  "name": "Donji kompezacijski bazen",
+                  "text": "A water basin in Mostar that invites relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.795765,
+                        43.298116
+                  ]
+            },
+            {
+                  "name": "Dječji Centar Funland",
+                  "text": "An indoor play center in Mostar for active family fun.",
+                  "category": "family",
+                  "coords": [
+                        17.792157,
+                        43.355269
+                  ]
+            },
+            {
+                  "name": "Igraonica \"Nedođija\"",
+                  "text": "An imaginatively designed play area for children in Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.823718,
+                        43.326127
+                  ]
+            },
+            {
+                  "name": "Jungle",
+                  "text": "A playground in Mostar that invites exploration and movement.",
+                  "category": "family",
+                  "coords": [
+                        17.804766,
+                        43.348689
+                  ]
+            },
+            {
+                  "name": "Poligon",
+                  "text": "A practice area for children in Mostar with various play equipment.",
+                  "category": "family",
+                  "coords": [
+                        17.807633,
+                        43.35651
+                  ]
+            },
+            {
+                  "name": "Igralište",
+                  "text": "A classic playground in Mostar for the local community.",
+                  "category": "family",
+                  "coords": [
+                        17.815501,
+                        43.343175
+                  ]
+            },
+            {
+                  "name": "Vatikan",
+                  "text": "A meeting point with play facilities for children in Mostar.",
+                  "category": "family",
+                  "coords": [
+                        17.800434,
+                        43.338246
+                  ]
+            },
+            {
+                  "name": "City spa",
+                  "text": "A swimming pool in Mostar for sports and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        17.809664,
+                        43.348466
+                  ]
+            },
+            {
+                  "name": "City Pool",
+                  "text": "A city pool in Mostar for sports activities.",
+                  "category": "family",
+                  "coords": [
+                        17.809503,
+                        43.349996
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Mostar", hu: "Mostar", ro: "Mostar", en: "Mostar" },
     description: {
@@ -2118,7 +4224,376 @@ export const bosniaPois: POI[] = [
     },
   },
   {
-    id: "ba-bihac", "sights": {"de": [{"name": "Plaža Jotani", "text": "Am Ufer des klaren Flusses Una lädt dieser beliebte lokale Strand in Bihać zum Verweilen ein. Man spürt sofort die entspannte, bodenständige Stimmung der bosnischen Flussgemeinschaft. Erholungssuchende erfreuen sich am sanften Flussbaden, dem Sonnen auf den natürlichen Uferflächen und den beruhigenden Naturgeräuschen. Ein fantastisches Ziel, um die warmen Stunden des Tages entspannt im Freien zu verbringen.", "category": "recreational", "coords": [15.849065, 44.826713]}, {"name": "Kapetanova kula", "text": "Mittelalterlicher Turm, der heute ein Museum zur Stadtgeschichte beherbergt.", "category": "castle", "coords": [15.87039, 44.814014]}, {"name": "Muzej USK", "text": "Regionalmuseum, das die Geschichte und Kultur der Region Bihać zeigt.", "category": "museum", "coords": [15.86809, 44.812727]}, {"name": "Bazeni \"Veni vidi\"", "text": "Öffentlicher Wasserpark mit Schwimmbecken zur Erholung.", "category": "family", "coords": [15.876064, 44.807493]}, {"name": "Bravice", "text": "Naturbelassener Badeplatz am Ufer der Una in Bihać.", "category": "recreational", "coords": [15.870418, 44.821426]}, {"name": "Garavice-Gedenkpark für die Opfer des Faschismus", "text": "Gedenkstätte für die Opfer des Zweiten Weltkriegs in einer Parkanlage.", "category": "park", "coords": [15.840718, 44.823022]}, {"name": "Djevojka sa Une", "text": "Bekannte Skulptur einer Frau am Ufer des Flusses Una.", "category": "historical", "coords": [15.872103, 44.814276]}, {"name": "Partizansko obilježje", "text": "Denkmal zur Erinnerung an die Partisanenkämpfer der Region.", "category": "historical", "coords": [15.870601, 44.812534]}, {"name": "Vidikovac Glavica", "text": "Aussichtspunkt mit weitem Panorama über die Stadt und das Umland.", "category": "natural", "coords": [15.87625, 44.804449]}], "hu": [{"name": "Plaža Jotani", "text": "A tiszta vizű Una folyó partján fekvő népszerű helyi strand Bihaćban maradásra csábít. Azonnal érezhető a bosnyák folyóparti közösség nyugodt, földhözragadt hangulata. A pihenni vágyók élvezhetik a lágy folyami fürdőzést, a napozást a természetes part menti területeken és a megnyugtató természetes hangokat. Fantasztikus úti cél, hogy a nap meleg óráit lazán a szabadban töltsük.", "category": "recreational", "coords": [15.849065, 44.826713]}, {"name": "Kapetanova kula", "text": "Középkori torony, amely ma várostörténeti múzeumnak ad otthont.", "category": "castle", "coords": [15.87039, 44.814014]}, {"name": "Muzej USK", "text": "Regionális múzeum, amely a bihácsi régió történelmét és kultúráját mutatja be.", "category": "museum", "coords": [15.86809, 44.812727]}, {"name": "Bazeni \"Veni vidi\"", "text": "Nyilvános vízi park úszómedencékkel a kikapcsolódáshoz.", "category": "family", "coords": [15.876064, 44.807493]}, {"name": "Bravice", "text": "Természetes fürdőhely az Una partján Bihácsban.", "category": "recreational", "coords": [15.870418, 44.821426]}, {"name": "Spomen-park Garavice", "text": "A második világháború áldozatainak emlékhelye egy parkban.", "category": "park", "coords": [15.840718, 44.823022]}, {"name": "Djevojka sa Une", "text": "Egy nőt ábrázoló ismert szobor az Una folyó partján.", "category": "historical", "coords": [15.872103, 44.814276]}, {"name": "Partizansko obilježje", "text": "A régió partizánharcosainak emlékére állított emlékmű.", "category": "historical", "coords": [15.870601, 44.812534]}, {"name": "Vidikovac Glavica", "text": "Kilátópont széles panorámával a városra és a környékre.", "category": "natural", "coords": [15.87625, 44.804449]}], "ro": [{"name": "Plaža Jotani", "text": "Pe malul râului limpede Una, această plajă locală populară din Bihać te invită să zăbovești. Poți simți imediat atmosfera relaxată și ancorată în realitate a comunității bosniace de pe râu. Cei ce caută recreere se bucură de băi blânde în râu, plajă pe malurile naturale și de sunetele liniștitoare ale naturii. O destinație fantastică pentru a petrece orele calde ale zilei relaxat în aer liber.", "category": "recreational", "coords": [15.849065, 44.826713]}, {"name": "Kapetanova kula", "text": "Turn medieval care găzduiește astăzi un muzeu de istorie a orașului.", "category": "castle", "coords": [15.87039, 44.814014]}, {"name": "Muzej USK", "text": "Muzeu regional care prezintă istoria și cultura regiunii Bihać.", "category": "museum", "coords": [15.86809, 44.812727]}, {"name": "Bazeni \"Veni vidi\"", "text": "Parc acvatic public cu piscine pentru recreere.", "category": "family", "coords": [15.876064, 44.807493]}, {"name": "Bravice", "text": "Zonă de scăldat naturală pe malul râului Una din Bihać.", "category": "recreational", "coords": [15.870418, 44.821426]}, {"name": "Spomen-park Garavice", "text": "Memorial dedicat victimelor celui de-al Doilea Război Mondial într-un parc.", "category": "park", "coords": [15.840718, 44.823022]}, {"name": "Djevojka sa Une", "text": "Cunoscută sculptură a unei femei pe malul râului Una.", "category": "historical", "coords": [15.872103, 44.814276]}, {"name": "Partizansko obilježje", "text": "Monument ridicat în memoria luptătorilor partizani din regiune.", "category": "historical", "coords": [15.870601, 44.812534]}, {"name": "Vidikovac Glavica", "text": "Punct de observație cu o panoramă largă asupra orașului și împrejurimilor.", "category": "natural", "coords": [15.87625, 44.804449]}], "en": [{"name": "Plaža Jotani", "text": "On the banks of the clear Una River, this popular local beach in Bihac invites you to linger. You can immediately feel the relaxed, down-to-earth mood of the Bosnian river community. Those seeking recreation enjoy gentle river swimming, sunbathing on the natural banks, and the soothing sounds of nature. A fantastic destination to spend the warm hours of the day relaxed outdoors.", "category": "recreational", "coords": [15.849065, 44.826713]}, {"name": "Kapetanova kula", "text": "Medieval tower that now houses a museum of city history.", "category": "castle", "coords": [15.87039, 44.814014]}, {"name": "Muzej USK", "text": "Regional museum showcasing the history and culture of the Bihać region.", "category": "museum", "coords": [15.86809, 44.812727]}, {"name": "Bazeni \"Veni vidi\"", "text": "Public water park with swimming pools for recreation.", "category": "family", "coords": [15.876064, 44.807493]}, {"name": "Bravice", "text": "Natural bathing spot on the banks of the Una in Bihać.", "category": "recreational", "coords": [15.870418, 44.821426]}, {"name": "Garavice Memorial park", "text": "Memorial site for the victims of WWII located in a park setting.", "category": "park", "coords": [15.840718, 44.823022]}, {"name": "Djevojka sa Une", "text": "Well-known sculpture of a woman on the banks of the Una river.", "category": "historical", "coords": [15.872103, 44.814276]}, {"name": "Partizansko obilježje", "text": "Monument commemorating the partisan fighters of the region.", "category": "historical", "coords": [15.870601, 44.812534]}, {"name": "Vidikovac Glavica", "text": "Viewpoint with a wide panorama over the city and surroundings.", "category": "natural", "coords": [15.87625, 44.804449]}]},
+    id: "ba-bihac", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Jotani",
+                  "text": "Am Ufer des klaren Flusses Una lädt dieser beliebte lokale Strand in Bihać zum Verweilen ein. Man spürt sofort die entspannte, bodenständige Stimmung der bosnischen Flussgemeinschaft. Erholungssuchende erfreuen sich am sanften Flussbaden, dem Sonnen auf den natürlichen Uferflächen und den beruhigenden Naturgeräuschen. Ein fantastisches Ziel, um die warmen Stunden des Tages entspannt im Freien zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.849065,
+                        44.826713
+                  ]
+            },
+            {
+                  "name": "Kapetanova kula",
+                  "text": "Mittelalterlicher Turm, der heute ein Museum zur Stadtgeschichte beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        15.87039,
+                        44.814014
+                  ]
+            },
+            {
+                  "name": "Muzej USK",
+                  "text": "Regionalmuseum, das die Geschichte und Kultur der Region Bihać zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.86809,
+                        44.812727
+                  ]
+            },
+            {
+                  "name": "Bazeni \"Veni vidi\"",
+                  "text": "Öffentlicher Wasserpark mit Schwimmbecken zur Erholung.",
+                  "category": "family",
+                  "coords": [
+                        15.876064,
+                        44.807493
+                  ]
+            },
+            {
+                  "name": "Bravice",
+                  "text": "Naturbelassener Badeplatz am Ufer der Una in Bihać.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870418,
+                        44.821426
+                  ]
+            },
+            {
+                  "name": "Garavice-Gedenkpark für die Opfer des Faschismus",
+                  "text": "Gedenkstätte für die Opfer des Zweiten Weltkriegs in einer Parkanlage.",
+                  "category": "park",
+                  "coords": [
+                        15.840718,
+                        44.823022
+                  ]
+            },
+            {
+                  "name": "Djevojka sa Une",
+                  "text": "Bekannte Skulptur einer Frau am Ufer des Flusses Una.",
+                  "category": "historical",
+                  "coords": [
+                        15.872103,
+                        44.814276
+                  ]
+            },
+            {
+                  "name": "Partizansko obilježje",
+                  "text": "Denkmal zur Erinnerung an die Partisanenkämpfer der Region.",
+                  "category": "historical",
+                  "coords": [
+                        15.870601,
+                        44.812534
+                  ]
+            },
+            {
+                  "name": "Vidikovac Glavica",
+                  "text": "Aussichtspunkt mit weitem Panorama über die Stadt und das Umland.",
+                  "category": "natural",
+                  "coords": [
+                        15.87625,
+                        44.804449
+                  ]
+            },
+            {
+                  "name": "Bazen Vedro Polje",
+                  "text": "Ein Schwimmbad in Bihać für Erholung und Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        15.825043,
+                        44.802401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Jotani",
+                  "text": "A tiszta vizű Una folyó partján fekvő népszerű helyi strand Bihaćban maradásra csábít. Azonnal érezhető a bosnyák folyóparti közösség nyugodt, földhözragadt hangulata. A pihenni vágyók élvezhetik a lágy folyami fürdőzést, a napozást a természetes part menti területeken és a megnyugtató természetes hangokat. Fantasztikus úti cél, hogy a nap meleg óráit lazán a szabadban töltsük.",
+                  "category": "recreational",
+                  "coords": [
+                        15.849065,
+                        44.826713
+                  ]
+            },
+            {
+                  "name": "Kapetanova kula",
+                  "text": "Középkori torony, amely ma várostörténeti múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        15.87039,
+                        44.814014
+                  ]
+            },
+            {
+                  "name": "Muzej USK",
+                  "text": "Regionális múzeum, amely a bihácsi régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.86809,
+                        44.812727
+                  ]
+            },
+            {
+                  "name": "Bazeni \"Veni vidi\"",
+                  "text": "Nyilvános vízi park úszómedencékkel a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.876064,
+                        44.807493
+                  ]
+            },
+            {
+                  "name": "Bravice",
+                  "text": "Természetes fürdőhely az Una partján Bihácsban.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870418,
+                        44.821426
+                  ]
+            },
+            {
+                  "name": "Spomen-park Garavice",
+                  "text": "A második világháború áldozatainak emlékhelye egy parkban.",
+                  "category": "park",
+                  "coords": [
+                        15.840718,
+                        44.823022
+                  ]
+            },
+            {
+                  "name": "Djevojka sa Une",
+                  "text": "Egy nőt ábrázoló ismert szobor az Una folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        15.872103,
+                        44.814276
+                  ]
+            },
+            {
+                  "name": "Partizansko obilježje",
+                  "text": "A régió partizánharcosainak emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        15.870601,
+                        44.812534
+                  ]
+            },
+            {
+                  "name": "Vidikovac Glavica",
+                  "text": "Kilátópont széles panorámával a városra és a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        15.87625,
+                        44.804449
+                  ]
+            },
+            {
+                  "name": "Bazen Vedro Polje",
+                  "text": "Úszómedence Bihácson pihenéshez és szabadidős szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.825043,
+                        44.802401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Jotani",
+                  "text": "Pe malul râului limpede Una, această plajă locală populară din Bihać te invită să zăbovești. Poți simți imediat atmosfera relaxată și ancorată în realitate a comunității bosniace de pe râu. Cei ce caută recreere se bucură de băi blânde în râu, plajă pe malurile naturale și de sunetele liniștitoare ale naturii. O destinație fantastică pentru a petrece orele calde ale zilei relaxat în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        15.849065,
+                        44.826713
+                  ]
+            },
+            {
+                  "name": "Kapetanova kula",
+                  "text": "Turn medieval care găzduiește astăzi un muzeu de istorie a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        15.87039,
+                        44.814014
+                  ]
+            },
+            {
+                  "name": "Muzej USK",
+                  "text": "Muzeu regional care prezintă istoria și cultura regiunii Bihać.",
+                  "category": "museum",
+                  "coords": [
+                        15.86809,
+                        44.812727
+                  ]
+            },
+            {
+                  "name": "Bazeni \"Veni vidi\"",
+                  "text": "Parc acvatic public cu piscine pentru recreere.",
+                  "category": "family",
+                  "coords": [
+                        15.876064,
+                        44.807493
+                  ]
+            },
+            {
+                  "name": "Bravice",
+                  "text": "Zonă de scăldat naturală pe malul râului Una din Bihać.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870418,
+                        44.821426
+                  ]
+            },
+            {
+                  "name": "Spomen-park Garavice",
+                  "text": "Memorial dedicat victimelor celui de-al Doilea Război Mondial într-un parc.",
+                  "category": "park",
+                  "coords": [
+                        15.840718,
+                        44.823022
+                  ]
+            },
+            {
+                  "name": "Djevojka sa Une",
+                  "text": "Cunoscută sculptură a unei femei pe malul râului Una.",
+                  "category": "historical",
+                  "coords": [
+                        15.872103,
+                        44.814276
+                  ]
+            },
+            {
+                  "name": "Partizansko obilježje",
+                  "text": "Monument ridicat în memoria luptătorilor partizani din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        15.870601,
+                        44.812534
+                  ]
+            },
+            {
+                  "name": "Vidikovac Glavica",
+                  "text": "Punct de observație cu o panoramă largă asupra orașului și împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.87625,
+                        44.804449
+                  ]
+            },
+            {
+                  "name": "Bazen Vedro Polje",
+                  "text": "O piscină în Bihać pentru relaxare și distracție.",
+                  "category": "family",
+                  "coords": [
+                        15.825043,
+                        44.802401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Jotani",
+                  "text": "On the banks of the clear Una River, this popular local beach in Bihac invites you to linger. You can immediately feel the relaxed, down-to-earth mood of the Bosnian river community. Those seeking recreation enjoy gentle river swimming, sunbathing on the natural banks, and the soothing sounds of nature. A fantastic destination to spend the warm hours of the day relaxed outdoors.",
+                  "category": "recreational",
+                  "coords": [
+                        15.849065,
+                        44.826713
+                  ]
+            },
+            {
+                  "name": "Kapetanova kula",
+                  "text": "Medieval tower that now houses a museum of city history.",
+                  "category": "castle",
+                  "coords": [
+                        15.87039,
+                        44.814014
+                  ]
+            },
+            {
+                  "name": "Muzej USK",
+                  "text": "Regional museum showcasing the history and culture of the Bihać region.",
+                  "category": "museum",
+                  "coords": [
+                        15.86809,
+                        44.812727
+                  ]
+            },
+            {
+                  "name": "Bazeni \"Veni vidi\"",
+                  "text": "Public water park with swimming pools for recreation.",
+                  "category": "family",
+                  "coords": [
+                        15.876064,
+                        44.807493
+                  ]
+            },
+            {
+                  "name": "Bravice",
+                  "text": "Natural bathing spot on the banks of the Una in Bihać.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870418,
+                        44.821426
+                  ]
+            },
+            {
+                  "name": "Garavice Memorial park",
+                  "text": "Memorial site for the victims of WWII located in a park setting.",
+                  "category": "park",
+                  "coords": [
+                        15.840718,
+                        44.823022
+                  ]
+            },
+            {
+                  "name": "Djevojka sa Une",
+                  "text": "Well-known sculpture of a woman on the banks of the Una river.",
+                  "category": "historical",
+                  "coords": [
+                        15.872103,
+                        44.814276
+                  ]
+            },
+            {
+                  "name": "Partizansko obilježje",
+                  "text": "Monument commemorating the partisan fighters of the region.",
+                  "category": "historical",
+                  "coords": [
+                        15.870601,
+                        44.812534
+                  ]
+            },
+            {
+                  "name": "Vidikovac Glavica",
+                  "text": "Viewpoint with a wide panorama over the city and surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.87625,
+                        44.804449
+                  ]
+            },
+            {
+                  "name": "Bazen Vedro Polje",
+                  "text": "A swimming pool in Bihać for relaxation and leisure fun.",
+                  "category": "family",
+                  "coords": [
+                        15.825043,
+                        44.802401
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Bihać", hu: "Bihać", ro: "Bihać", en: "Bihać" },
     description: {
@@ -2840,7 +5315,916 @@ export const bosniaPois: POI[] = [
       fr: ["Fondation du parc naturel le 30 avril 1995", "Le lac Blidinje est situé à 1184 mètres d'altitude", "La nécropole de Dugo Polje appartient au patrimoine mondial de l'UNESCO", "La superficie totale du parc est d'environ 358 km²", "Le point culminant, Pločno, atteint 2228 mètres", "Zone protégée pour le rare pin de Bosnie (Pinus heldreichii)"],
     }, image: "/poi-images/ba-blidinje.webp"},
   {
-    id: "ba-trebinje", "sights": {"de": [{"name": "Muzej Hercegovine", "text": "Das Muzej Hercegovine ist ein bedeutendes Museum in Trebinje.", "category": "museum", "coords": [18.347382, 42.711297]}, {"name": "Tvrđava Kličanj", "text": "Tvrđava Kličanj ist eine Burg in der Stadt Trebinje.", "category": "castle", "coords": [18.315203, 42.72086]}, {"name": "Tvrđava Petrina", "text": "Fort Petrina ist eine Burg in der Stadt Trebinje.", "category": "castle", "coords": [18.357404, 42.692676]}, {"name": "Tvrđava Kučino Brdo", "text": "Tvrđava Kučino Brdo ist eine Burganlage in Trebinje.", "category": "castle", "coords": [18.349662, 42.686159]}, {"name": "Tvrđava Gumac", "text": "Fortress Gumac ist eine Burg in der Stadt Trebinje.", "category": "castle", "coords": [18.324929, 42.693627]}, {"name": "Dolap", "text": "Die Noria in Trebinje ist ein traditionelles Wasserrad, das als bekannte lokale Attraktion dient.", "category": "landmark", "coords": [18.312711, 42.707272]}, {"name": "Maltezovo kolo", "text": "Maltese's wheel ist eine bekannte Wasserrad-Attraktion in Trebinje.", "category": "landmark", "coords": [18.350447, 42.714598]}, {"name": "Hercegovačka Gračanica", "text": "Hercegovačka Gračanica ist eine bekannte Attraktion und ein Kloster in Trebinje.", "category": "landmark", "coords": [18.360013, 42.710737]}, {"name": "Spomenik žrtvama fašizma u II Svijetskom ratu", "text": "Das Denkmal für die Opfer des Faschismus im Zweiten Weltkrieg ist eine Attraktion in Trebinje.", "category": "landmark", "coords": [18.343756, 42.70933]}, {"name": "Vidikovac sa staklenom stazom", "text": "Видиковац са стакленом стазом ist ein Aussichtspunkt in Trebinje.", "category": "natural", "coords": [18.34905, 42.692472]}, {"name": "Kamene oči", "text": "Stone eyes ist eine lokale Attraktion in der Stadt Trebinje.", "category": "landmark", "coords": [18.341197, 42.686184]}, {"name": "Matulića pećina", "text": "Matulića pećina ist eine Attraktion in Trebinje.", "category": "landmark", "coords": [18.361488, 42.692099]}, {"name": "Pridvoračka Jama", "text": "Pridvoračka Jama ist ein Denkmal in der Stadt Trebinje.", "category": "historical", "coords": [18.333966, 42.693762]}, {"name": "Arslanagića most", "text": "Die Arslanagić-Brücke ist eine Attraktion in Trebinje.", "category": "landmark", "coords": [18.354009, 42.714654]}, {"name": "Umjetnička galerija Bokić", "text": "Die Art gallery Bokić ist eine Galerie in Trebinje.", "category": "museum", "coords": [18.346777, 42.713152]}, {"name": "Brankovića Kula", "text": "Brankovića Kula ist eine Attraktion in Trebinje.", "category": "landmark", "coords": [18.362346, 42.703016]}, {"name": "Dolap (ruševine)", "text": "Noria (ruins) umfasst die bekannten Überreste einer traditionellen Wassermühle in Trebinje.", "category": "landmark", "coords": [18.34239, 42.704029]}, {"name": "Saborni hram Svetog Preobraženja Gospodnjeg", "text": "Die Church of the Transfiguration ist ein bedeutendes orthodoxes Gotteshaus in Trebinje.", "category": "religious", "coords": [18.345506, 42.709365]}, {"name": "Osman Pašina Džamija", "text": "Die Osman Pasha Moschee ist ein wichtiges Gotteshaus in Trebinje.", "category": "religious", "coords": [18.34647, 42.710702]}, {"name": "katedrala rođenja Blažene Djevice Marije", "text": "Die Cathedral of the Birth of Mary ist ein bekanntes katholisches Gotteshaus in Trebinje.", "category": "religious", "coords": [18.345108, 42.710901]}, {"name": "Crkva svetog Arhanđela", "text": "Die Church of St. Archangel ist ein Gotteshaus in der Stadt Trebinje.", "category": "religious", "coords": [18.339407, 42.714535]}, {"name": "Uskotračna parna lokomotiva JŽ 83-056", "text": "Uskotračna parna lokomotiva JŽ 83-056 ist eine Schmalspurlokomotive in Trebinje.", "category": "landmark", "coords": [18.349746, 42.706816]}, {"name": "Trebinjsko jezero", "text": "Der Trebinjsko jezero ist ein See in Trebinje, der für seine malerische Aussicht und entspannte Atmosphäre bekannt ist.", "category": "natural", "coords": [18.431168, 42.70371]}, {"name": "Lokva", "text": "Lokva ist ein See in Trebinje, der eine einfache und ruhige Umgebung für einen Spaziergang bietet.", "category": "natural", "coords": [18.417486, 42.708044]}], "hu": [{"name": "Muzej Hercegovine", "text": "A Muzej Hercegovine egy jelentős múzeum Trebinjében.", "category": "museum", "coords": [18.347382, 42.711297]}, {"name": "Tvrđava Kličanj", "text": "A Tvrđava Kličanj egy vár Trebinje városában.", "category": "castle", "coords": [18.315203, 42.72086]}, {"name": "Tvrđava Petrina", "text": "A Fort Petrina egy vár Trebinje városában.", "category": "castle", "coords": [18.357404, 42.692676]}, {"name": "Tvrđava Kučino Brdo", "text": "A Tvrđava Kučino Brdo egy várépítmény Trebinjében.", "category": "castle", "coords": [18.349662, 42.686159]}, {"name": "Tvrđava Gumac", "text": "A Fortress Gumac egy vár Trebinje városában.", "category": "castle", "coords": [18.324929, 42.693627]}, {"name": "Dolap", "text": "A trebinjei Noria egy hagyományos vízikerék, amely ismert látványosságként szolgál.", "category": "landmark", "coords": [18.312711, 42.707272]}, {"name": "Maltezovo kolo", "text": "A Maltese's wheel egy ismert vízikerék látványosság Trebinjében.", "category": "landmark", "coords": [18.350447, 42.714598]}, {"name": "Hercegovačka Gračanica", "text": "A Hercegovačka Gračanica egy ismert látványosság és kolostor Trebinjében.", "category": "landmark", "coords": [18.360013, 42.710737]}, {"name": "Spomenik žrtvama fašizma u II Svijetskom ratu", "text": "A második világháború fasiszta áldozatainak emlékműve egy látványosság Trebinjében.", "category": "landmark", "coords": [18.343756, 42.70933]}, {"name": "Vidikovac sa staklenom stazom", "text": "A Видиковац са стакленом стазом egy kilátó Trebinjében.", "category": "natural", "coords": [18.34905, 42.692472]}, {"name": "Kamene oči", "text": "A Stone eyes egy helyi látványosság Trebinje városában.", "category": "landmark", "coords": [18.341197, 42.686184]}, {"name": "Matulića pećina", "text": "A Matulića pećina egy látványosság Trebinjében.", "category": "landmark", "coords": [18.361488, 42.692099]}, {"name": "Pridvoračka Jama", "text": "A Pridvoračka Jama egy emlékmű Trebinje városában.", "category": "historical", "coords": [18.333966, 42.693762]}, {"name": "Arslanagića most", "text": "Az Arslanagić híd egy látványosság Trebinjében.", "category": "landmark", "coords": [18.354009, 42.714654]}, {"name": "Umjetnička galerija Bokić", "text": "Az Art gallery Bokić egy galéria Trebinjében.", "category": "museum", "coords": [18.346777, 42.713152]}, {"name": "Brankovića Kula", "text": "A Brankovića Kula egy látványosság Trebinjében.", "category": "landmark", "coords": [18.362346, 42.703016]}, {"name": "Dolap (ruševine)", "text": "A Noria (ruins) egy hagyományos vízimalom ismert romjait mutatja be Trebinjében.", "category": "landmark", "coords": [18.34239, 42.704029]}, {"name": "Saborni hram Svetog Preobraženja Gospodnjeg", "text": "A Church of the Transfiguration egy jelentős ortodox istentiszteleti hely Trebinjében.", "category": "religious", "coords": [18.345506, 42.709365]}, {"name": "Osman Pašina Džamija", "text": "Az Osman Pasha mecset egy fontos istentiszteleti hely Trebinjében.", "category": "religious", "coords": [18.34647, 42.710702]}, {"name": "katedrala rođenja Blažene Djevice Marije", "text": "A Cathedral of the Birth of Mary egy ismert katolikus istentiszteleti hely Trebinjében.", "category": "religious", "coords": [18.345108, 42.710901]}, {"name": "Crkva svetog Arhanđela", "text": "A Church of St. Archangel egy istentiszteleti hely Trebinje városában.", "category": "religious", "coords": [18.339407, 42.714535]}, {"name": "Uskotračna parna lokomotiva JŽ 83-056", "text": "Az Uskotračna parna lokomotiva JŽ 83-056 egy mozdony Trebinjében.", "category": "landmark", "coords": [18.349746, 42.706816]}, {"name": "Trebinjsko jezero", "text": "A Trebinjsko jezero egy tó Trebinjében, amely festői kilátásáról és pihentető légköréről ismert.", "category": "natural", "coords": [18.431168, 42.70371]}, {"name": "Lokva", "text": "A Lokva egy tó Trebinjében, amely egyszerű és nyugodt környezetet kínál egy sétához.", "category": "natural", "coords": [18.417486, 42.708044]}], "ro": [{"name": "Muzej Hercegovine", "text": "Muzej Hercegovine este un muzeu notabil situat în Trebinje.", "category": "museum", "coords": [18.347382, 42.711297]}, {"name": "Tvrđava Kličanj", "text": "Tvrđava Kličanj este un castel situat în orașul Trebinje.", "category": "castle", "coords": [18.315203, 42.72086]}, {"name": "Tvrđava Petrina", "text": "Fort Petrina este un castel situat în orașul Trebinje.", "category": "castle", "coords": [18.357404, 42.692676]}, {"name": "Tvrđava Kučino Brdo", "text": "Tvrđava Kučino Brdo este o structură tip castel aflată în Trebinje.", "category": "castle", "coords": [18.349662, 42.686159]}, {"name": "Tvrđava Gumac", "text": "Fortress Gumac este un castel din orașul Trebinje.", "category": "castle", "coords": [18.324929, 42.693627]}, {"name": "Dolap", "text": "Noria din Trebinje este o roată de apă tradițională recunoscută ca atracție locală.", "category": "landmark", "coords": [18.312711, 42.707272]}, {"name": "Maltezovo kolo", "text": "Maltese's wheel este o atracție notabilă de tip roată de apă situată în Trebinje.", "category": "landmark", "coords": [18.350447, 42.714598]}, {"name": "Hercegovačka Gračanica", "text": "Hercegovačka Gračanica este o atracție renumită și o mănăstire în Trebinje.", "category": "landmark", "coords": [18.360013, 42.710737]}, {"name": "Spomenik žrtvama fašizma u II Svijetskom ratu", "text": "Monumentul dedicat victimelor fascismului din al Doilea Război Mondial este o atracție turistică în Trebinje.", "category": "landmark", "coords": [18.343756, 42.70933]}, {"name": "Vidikovac sa staklenom stazom", "text": "Видиковац са стакленом стазом este un punct de belvedere situat în Trebinje.", "category": "natural", "coords": [18.34905, 42.692472]}, {"name": "Kamene oči", "text": "Stone eyes este o atracție locală care se găsește în orașul Trebinje.", "category": "landmark", "coords": [18.341197, 42.686184]}, {"name": "Matulića pećina", "text": "Matulića pećina este o atracție situată în Trebinje.", "category": "landmark", "coords": [18.361488, 42.692099]}, {"name": "Pridvoračka Jama", "text": "Pridvoračka Jama este un monument situat în orașul Trebinje.", "category": "historical", "coords": [18.333966, 42.693762]}, {"name": "Arslanagića most", "text": "Podul Arslanagić este o atracție din Trebinje.", "category": "landmark", "coords": [18.354009, 42.714654]}, {"name": "Umjetnička galerija Bokić", "text": "Art gallery Bokić este o galerie situată în Trebinje.", "category": "museum", "coords": [18.346777, 42.713152]}, {"name": "Brankovića Kula", "text": "Brankovića Kula este o atracție din Trebinje.", "category": "landmark", "coords": [18.362346, 42.703016]}, {"name": "Dolap (ruševine)", "text": "Noria (ruins) reprezintă rămășițele recunoscute ale unei mori de apă din Trebinje.", "category": "landmark", "coords": [18.34239, 42.704029]}, {"name": "Saborni hram Svetog Preobraženja Gospodnjeg", "text": "Church of the Transfiguration este un lăcaș de cult remarcabil situat în Trebinje.", "category": "religious", "coords": [18.345506, 42.709365]}, {"name": "Osman Pašina Džamija", "text": "Moscheea Osman Pasha este un lăcaș de cult important din Trebinje.", "category": "religious", "coords": [18.34647, 42.710702]}, {"name": "katedrala rođenja Blažene Djevice Marije", "text": "Cathedral of the Birth of Mary este un lăcaș de cult catolic recunoscut în Trebinje.", "category": "religious", "coords": [18.345108, 42.710901]}, {"name": "Crkva svetog Arhanđela", "text": "Church of St. Archangel este un lăcaș de cult situat în orașul Trebinje.", "category": "religious", "coords": [18.339407, 42.714535]}, {"name": "Uskotračna parna lokomotiva JŽ 83-056", "text": "Uskotračna parna lokomotiva JŽ 83-056 este o locomotivă expusă în Trebinje.", "category": "landmark", "coords": [18.349746, 42.706816]}, {"name": "Trebinjsko jezero", "text": "Trebinjsko jezero este un lac în Trebinje, cunoscut pentru priveliștile sale pitorești și atmosfera relaxantă.", "category": "natural", "coords": [18.431168, 42.70371]}, {"name": "Lokva", "text": "Lokva este un lac în Trebinje, oferind un cadru simplu și calm pentru o plimbare.", "category": "natural", "coords": [18.417486, 42.708044]}], "en": [{"name": "Muzej Hercegovine", "text": "Muzej Hercegovine is a notable museum located in Trebinje.", "category": "museum", "coords": [18.347382, 42.711297]}, {"name": "Tvrđava Kličanj", "text": "Tvrđava Kličanj is a castle structure located in Trebinje.", "category": "castle", "coords": [18.315203, 42.72086]}, {"name": "Fort Petrina", "text": "Fort Petrina is a castle located in the city of Trebinje.", "category": "castle", "coords": [18.357404, 42.692676]}, {"name": "Tvrđava Kučino Brdo", "text": "Tvrđava Kučino Brdo is a castle structure situated in Trebinje.", "category": "castle", "coords": [18.349662, 42.686159]}, {"name": "Fortress Gumac", "text": "Fortress Gumac is a local castle found in the city of Trebinje.", "category": "castle", "coords": [18.324929, 42.693627]}, {"name": "Noria", "text": "The Noria in Trebinje is a traditional water wheel functioning as a well-known local attraction.", "category": "landmark", "coords": [18.312711, 42.707272]}, {"name": "Maltese's wheel", "text": "Maltese's wheel is a notable water wheel attraction situated in Trebinje.", "category": "landmark", "coords": [18.350447, 42.714598]}, {"name": "Hercegovačka Gračanica", "text": "Hercegovačka Gračanica is a prominent monastery and landmark attraction in Trebinje.", "category": "landmark", "coords": [18.360013, 42.710737]}, {"name": "Monument to the victims of fascism in World War II", "text": "The Monument to the victims of fascism in World War II is an attraction and memorial in Trebinje.", "category": "landmark", "coords": [18.343756, 42.70933]}, {"name": "Vidikovac sa staklenom stazom", "text": "Видиковац са стакленом стазом is a viewpoint situated in Trebinje.", "category": "natural", "coords": [18.34905, 42.692472]}, {"name": "Stone eyes", "text": "Stone eyes is a local attraction found in the city of Trebinje.", "category": "landmark", "coords": [18.341197, 42.686184]}, {"name": "Matulića pećina", "text": "Matulića pećina is an attraction located in Trebinje.", "category": "landmark", "coords": [18.361488, 42.692099]}, {"name": "Pridvoračka Jama", "text": "Pridvoračka Jama is a monument located in the city of Trebinje.", "category": "historical", "coords": [18.333966, 42.693762]}, {"name": "Arslanagić Bridge", "text": "Arslanagić Bridge is an attraction crossing the river in Trebinje.", "category": "landmark", "coords": [18.354009, 42.714654]}, {"name": "Art gallery Bokić", "text": "Art gallery Bokić is a local gallery located in Trebinje.", "category": "museum", "coords": [18.346777, 42.713152]}, {"name": "Brankovića Kula", "text": "Brankovića Kula is an attraction in Trebinje.", "category": "landmark", "coords": [18.362346, 42.703016]}, {"name": "Noria (ruins)", "text": "Noria (ruins) features the recognized remains of a traditional watermill in Trebinje.", "category": "landmark", "coords": [18.34239, 42.704029]}, {"name": "Church of the Transfiguration", "text": "The Church of the Transfiguration is a notable Orthodox place of worship located in Trebinje.", "category": "religious", "coords": [18.345506, 42.709365]}, {"name": "Osman Pasha Mosque", "text": "The Osman Pasha Mosque is an important Islamic place of worship situated in Trebinje.", "category": "religious", "coords": [18.34647, 42.710702]}, {"name": "Cathedral of the Birth of Mary", "text": "The Cathedral of the Birth of Mary is a well-known Catholic place of worship in Trebinje.", "category": "religious", "coords": [18.345108, 42.710901]}, {"name": "Church of St. Archangel", "text": "The Church of St. Archangel is a place of worship located in the city of Trebinje.", "category": "religious", "coords": [18.339407, 42.714535]}, {"name": "Uskotračna parna lokomotiva JŽ 83-056", "text": "Uskotračna parna lokomotiva JŽ 83-056 is a narrow-gauge locomotive on display in Trebinje.", "category": "landmark", "coords": [18.349746, 42.706816]}, {"name": "Trebinjsko jezero", "text": "Trebinjsko jezero is a lake in Trebinje, known for its scenic views and relaxing atmosphere.", "category": "natural", "coords": [18.431168, 42.70371]}, {"name": "Lokva", "text": "Lokva is a lake in Trebinje, offering a simple and calm setting for a walk.", "category": "natural", "coords": [18.417486, 42.708044]}]},
+    id: "ba-trebinje", "sights": {
+      "de": [
+            {
+                  "name": "Muzej Hercegovine",
+                  "text": "Das Muzej Hercegovine ist ein bedeutendes Museum in Trebinje.",
+                  "category": "museum",
+                  "coords": [
+                        18.347382,
+                        42.711297
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kličanj",
+                  "text": "Tvrđava Kličanj ist eine Burg in der Stadt Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.315203,
+                        42.72086
+                  ]
+            },
+            {
+                  "name": "Tvrđava Petrina",
+                  "text": "Fort Petrina ist eine Burg in der Stadt Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.357404,
+                        42.692676
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kučino Brdo",
+                  "text": "Tvrđava Kučino Brdo ist eine Burganlage in Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.349662,
+                        42.686159
+                  ]
+            },
+            {
+                  "name": "Tvrđava Gumac",
+                  "text": "Fortress Gumac ist eine Burg in der Stadt Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.324929,
+                        42.693627
+                  ]
+            },
+            {
+                  "name": "Dolap",
+                  "text": "Die Noria in Trebinje ist ein traditionelles Wasserrad, das als bekannte lokale Attraktion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        18.312711,
+                        42.707272
+                  ]
+            },
+            {
+                  "name": "Maltezovo kolo",
+                  "text": "Maltese's wheel ist eine bekannte Wasserrad-Attraktion in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.350447,
+                        42.714598
+                  ]
+            },
+            {
+                  "name": "Hercegovačka Gračanica",
+                  "text": "Hercegovačka Gračanica ist eine bekannte Attraktion und ein Kloster in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.360013,
+                        42.710737
+                  ]
+            },
+            {
+                  "name": "Spomenik žrtvama fašizma u II Svijetskom ratu",
+                  "text": "Das Denkmal für die Opfer des Faschismus im Zweiten Weltkrieg ist eine Attraktion in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.343756,
+                        42.70933
+                  ]
+            },
+            {
+                  "name": "Vidikovac sa staklenom stazom",
+                  "text": "Видиковац са стакленом стазом ist ein Aussichtspunkt in Trebinje.",
+                  "category": "natural",
+                  "coords": [
+                        18.34905,
+                        42.692472
+                  ]
+            },
+            {
+                  "name": "Kamene oči",
+                  "text": "Stone eyes ist eine lokale Attraktion in der Stadt Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.341197,
+                        42.686184
+                  ]
+            },
+            {
+                  "name": "Matulića pećina",
+                  "text": "Matulića pećina ist eine Attraktion in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.361488,
+                        42.692099
+                  ]
+            },
+            {
+                  "name": "Pridvoračka Jama",
+                  "text": "Pridvoračka Jama ist ein Denkmal in der Stadt Trebinje.",
+                  "category": "historical",
+                  "coords": [
+                        18.333966,
+                        42.693762
+                  ]
+            },
+            {
+                  "name": "Arslanagića most",
+                  "text": "Die Arslanagić-Brücke ist eine Attraktion in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.354009,
+                        42.714654
+                  ]
+            },
+            {
+                  "name": "Umjetnička galerija Bokić",
+                  "text": "Die Art gallery Bokić ist eine Galerie in Trebinje.",
+                  "category": "museum",
+                  "coords": [
+                        18.346777,
+                        42.713152
+                  ]
+            },
+            {
+                  "name": "Brankovića Kula",
+                  "text": "Brankovića Kula ist eine Attraktion in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.362346,
+                        42.703016
+                  ]
+            },
+            {
+                  "name": "Dolap (ruševine)",
+                  "text": "Noria (ruins) umfasst die bekannten Überreste einer traditionellen Wassermühle in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.34239,
+                        42.704029
+                  ]
+            },
+            {
+                  "name": "Saborni hram Svetog Preobraženja Gospodnjeg",
+                  "text": "Die Church of the Transfiguration ist ein bedeutendes orthodoxes Gotteshaus in Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.345506,
+                        42.709365
+                  ]
+            },
+            {
+                  "name": "Osman Pašina Džamija",
+                  "text": "Die Osman Pasha Moschee ist ein wichtiges Gotteshaus in Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.34647,
+                        42.710702
+                  ]
+            },
+            {
+                  "name": "katedrala rođenja Blažene Djevice Marije",
+                  "text": "Die Cathedral of the Birth of Mary ist ein bekanntes katholisches Gotteshaus in Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.345108,
+                        42.710901
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Arhanđela",
+                  "text": "Die Church of St. Archangel ist ein Gotteshaus in der Stadt Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.339407,
+                        42.714535
+                  ]
+            },
+            {
+                  "name": "Uskotračna parna lokomotiva JŽ 83-056",
+                  "text": "Uskotračna parna lokomotiva JŽ 83-056 ist eine Schmalspurlokomotive in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.349746,
+                        42.706816
+                  ]
+            },
+            {
+                  "name": "Trebinjsko jezero",
+                  "text": "Der Trebinjsko jezero ist ein See in Trebinje, der für seine malerische Aussicht und entspannte Atmosphäre bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.431168,
+                        42.70371
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "Lokva ist ein See in Trebinje, der eine einfache und ruhige Umgebung für einen Spaziergang bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.417486,
+                        42.708044
+                  ]
+            },
+            {
+                  "name": "Olimpijski bazen Banje",
+                  "text": "Das Olimpijski bazen Banje in Trebinje bietet eine professionelle Schwimmanlage für sportliche Betätigung.",
+                  "category": "family",
+                  "coords": [
+                        18.348686,
+                        42.714117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej Hercegovine",
+                  "text": "A Muzej Hercegovine egy jelentős múzeum Trebinjében.",
+                  "category": "museum",
+                  "coords": [
+                        18.347382,
+                        42.711297
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kličanj",
+                  "text": "A Tvrđava Kličanj egy vár Trebinje városában.",
+                  "category": "castle",
+                  "coords": [
+                        18.315203,
+                        42.72086
+                  ]
+            },
+            {
+                  "name": "Tvrđava Petrina",
+                  "text": "A Fort Petrina egy vár Trebinje városában.",
+                  "category": "castle",
+                  "coords": [
+                        18.357404,
+                        42.692676
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kučino Brdo",
+                  "text": "A Tvrđava Kučino Brdo egy várépítmény Trebinjében.",
+                  "category": "castle",
+                  "coords": [
+                        18.349662,
+                        42.686159
+                  ]
+            },
+            {
+                  "name": "Tvrđava Gumac",
+                  "text": "A Fortress Gumac egy vár Trebinje városában.",
+                  "category": "castle",
+                  "coords": [
+                        18.324929,
+                        42.693627
+                  ]
+            },
+            {
+                  "name": "Dolap",
+                  "text": "A trebinjei Noria egy hagyományos vízikerék, amely ismert látványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.312711,
+                        42.707272
+                  ]
+            },
+            {
+                  "name": "Maltezovo kolo",
+                  "text": "A Maltese's wheel egy ismert vízikerék látványosság Trebinjében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.350447,
+                        42.714598
+                  ]
+            },
+            {
+                  "name": "Hercegovačka Gračanica",
+                  "text": "A Hercegovačka Gračanica egy ismert látványosság és kolostor Trebinjében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.360013,
+                        42.710737
+                  ]
+            },
+            {
+                  "name": "Spomenik žrtvama fašizma u II Svijetskom ratu",
+                  "text": "A második világháború fasiszta áldozatainak emlékműve egy látványosság Trebinjében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.343756,
+                        42.70933
+                  ]
+            },
+            {
+                  "name": "Vidikovac sa staklenom stazom",
+                  "text": "A Видиковац са стакленом стазом egy kilátó Trebinjében.",
+                  "category": "natural",
+                  "coords": [
+                        18.34905,
+                        42.692472
+                  ]
+            },
+            {
+                  "name": "Kamene oči",
+                  "text": "A Stone eyes egy helyi látványosság Trebinje városában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.341197,
+                        42.686184
+                  ]
+            },
+            {
+                  "name": "Matulića pećina",
+                  "text": "A Matulića pećina egy látványosság Trebinjében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.361488,
+                        42.692099
+                  ]
+            },
+            {
+                  "name": "Pridvoračka Jama",
+                  "text": "A Pridvoračka Jama egy emlékmű Trebinje városában.",
+                  "category": "historical",
+                  "coords": [
+                        18.333966,
+                        42.693762
+                  ]
+            },
+            {
+                  "name": "Arslanagića most",
+                  "text": "Az Arslanagić híd egy látványosság Trebinjében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.354009,
+                        42.714654
+                  ]
+            },
+            {
+                  "name": "Umjetnička galerija Bokić",
+                  "text": "Az Art gallery Bokić egy galéria Trebinjében.",
+                  "category": "museum",
+                  "coords": [
+                        18.346777,
+                        42.713152
+                  ]
+            },
+            {
+                  "name": "Brankovića Kula",
+                  "text": "A Brankovića Kula egy látványosság Trebinjében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.362346,
+                        42.703016
+                  ]
+            },
+            {
+                  "name": "Dolap (ruševine)",
+                  "text": "A Noria (ruins) egy hagyományos vízimalom ismert romjait mutatja be Trebinjében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.34239,
+                        42.704029
+                  ]
+            },
+            {
+                  "name": "Saborni hram Svetog Preobraženja Gospodnjeg",
+                  "text": "A Church of the Transfiguration egy jelentős ortodox istentiszteleti hely Trebinjében.",
+                  "category": "religious",
+                  "coords": [
+                        18.345506,
+                        42.709365
+                  ]
+            },
+            {
+                  "name": "Osman Pašina Džamija",
+                  "text": "Az Osman Pasha mecset egy fontos istentiszteleti hely Trebinjében.",
+                  "category": "religious",
+                  "coords": [
+                        18.34647,
+                        42.710702
+                  ]
+            },
+            {
+                  "name": "katedrala rođenja Blažene Djevice Marije",
+                  "text": "A Cathedral of the Birth of Mary egy ismert katolikus istentiszteleti hely Trebinjében.",
+                  "category": "religious",
+                  "coords": [
+                        18.345108,
+                        42.710901
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Arhanđela",
+                  "text": "A Church of St. Archangel egy istentiszteleti hely Trebinje városában.",
+                  "category": "religious",
+                  "coords": [
+                        18.339407,
+                        42.714535
+                  ]
+            },
+            {
+                  "name": "Uskotračna parna lokomotiva JŽ 83-056",
+                  "text": "Az Uskotračna parna lokomotiva JŽ 83-056 egy mozdony Trebinjében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.349746,
+                        42.706816
+                  ]
+            },
+            {
+                  "name": "Trebinjsko jezero",
+                  "text": "A Trebinjsko jezero egy tó Trebinjében, amely festői kilátásáról és pihentető légköréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.431168,
+                        42.70371
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "A Lokva egy tó Trebinjében, amely egyszerű és nyugodt környezetet kínál egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.417486,
+                        42.708044
+                  ]
+            },
+            {
+                  "name": "Olimpijski bazen Banje",
+                  "text": "A trebinjei Olimpijski bazen Banje professzionális úszólétesítményt kínál a sportolni vágyóknak.",
+                  "category": "family",
+                  "coords": [
+                        18.348686,
+                        42.714117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej Hercegovine",
+                  "text": "Muzej Hercegovine este un muzeu notabil situat în Trebinje.",
+                  "category": "museum",
+                  "coords": [
+                        18.347382,
+                        42.711297
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kličanj",
+                  "text": "Tvrđava Kličanj este un castel situat în orașul Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.315203,
+                        42.72086
+                  ]
+            },
+            {
+                  "name": "Tvrđava Petrina",
+                  "text": "Fort Petrina este un castel situat în orașul Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.357404,
+                        42.692676
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kučino Brdo",
+                  "text": "Tvrđava Kučino Brdo este o structură tip castel aflată în Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.349662,
+                        42.686159
+                  ]
+            },
+            {
+                  "name": "Tvrđava Gumac",
+                  "text": "Fortress Gumac este un castel din orașul Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.324929,
+                        42.693627
+                  ]
+            },
+            {
+                  "name": "Dolap",
+                  "text": "Noria din Trebinje este o roată de apă tradițională recunoscută ca atracție locală.",
+                  "category": "landmark",
+                  "coords": [
+                        18.312711,
+                        42.707272
+                  ]
+            },
+            {
+                  "name": "Maltezovo kolo",
+                  "text": "Maltese's wheel este o atracție notabilă de tip roată de apă situată în Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.350447,
+                        42.714598
+                  ]
+            },
+            {
+                  "name": "Hercegovačka Gračanica",
+                  "text": "Hercegovačka Gračanica este o atracție renumită și o mănăstire în Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.360013,
+                        42.710737
+                  ]
+            },
+            {
+                  "name": "Spomenik žrtvama fašizma u II Svijetskom ratu",
+                  "text": "Monumentul dedicat victimelor fascismului din al Doilea Război Mondial este o atracție turistică în Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.343756,
+                        42.70933
+                  ]
+            },
+            {
+                  "name": "Vidikovac sa staklenom stazom",
+                  "text": "Видиковац са стакленом стазом este un punct de belvedere situat în Trebinje.",
+                  "category": "natural",
+                  "coords": [
+                        18.34905,
+                        42.692472
+                  ]
+            },
+            {
+                  "name": "Kamene oči",
+                  "text": "Stone eyes este o atracție locală care se găsește în orașul Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.341197,
+                        42.686184
+                  ]
+            },
+            {
+                  "name": "Matulića pećina",
+                  "text": "Matulića pećina este o atracție situată în Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.361488,
+                        42.692099
+                  ]
+            },
+            {
+                  "name": "Pridvoračka Jama",
+                  "text": "Pridvoračka Jama este un monument situat în orașul Trebinje.",
+                  "category": "historical",
+                  "coords": [
+                        18.333966,
+                        42.693762
+                  ]
+            },
+            {
+                  "name": "Arslanagića most",
+                  "text": "Podul Arslanagić este o atracție din Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.354009,
+                        42.714654
+                  ]
+            },
+            {
+                  "name": "Umjetnička galerija Bokić",
+                  "text": "Art gallery Bokić este o galerie situată în Trebinje.",
+                  "category": "museum",
+                  "coords": [
+                        18.346777,
+                        42.713152
+                  ]
+            },
+            {
+                  "name": "Brankovića Kula",
+                  "text": "Brankovića Kula este o atracție din Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.362346,
+                        42.703016
+                  ]
+            },
+            {
+                  "name": "Dolap (ruševine)",
+                  "text": "Noria (ruins) reprezintă rămășițele recunoscute ale unei mori de apă din Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.34239,
+                        42.704029
+                  ]
+            },
+            {
+                  "name": "Saborni hram Svetog Preobraženja Gospodnjeg",
+                  "text": "Church of the Transfiguration este un lăcaș de cult remarcabil situat în Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.345506,
+                        42.709365
+                  ]
+            },
+            {
+                  "name": "Osman Pašina Džamija",
+                  "text": "Moscheea Osman Pasha este un lăcaș de cult important din Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.34647,
+                        42.710702
+                  ]
+            },
+            {
+                  "name": "katedrala rođenja Blažene Djevice Marije",
+                  "text": "Cathedral of the Birth of Mary este un lăcaș de cult catolic recunoscut în Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.345108,
+                        42.710901
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Arhanđela",
+                  "text": "Church of St. Archangel este un lăcaș de cult situat în orașul Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.339407,
+                        42.714535
+                  ]
+            },
+            {
+                  "name": "Uskotračna parna lokomotiva JŽ 83-056",
+                  "text": "Uskotračna parna lokomotiva JŽ 83-056 este o locomotivă expusă în Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.349746,
+                        42.706816
+                  ]
+            },
+            {
+                  "name": "Trebinjsko jezero",
+                  "text": "Trebinjsko jezero este un lac în Trebinje, cunoscut pentru priveliștile sale pitorești și atmosfera relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        18.431168,
+                        42.70371
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "Lokva este un lac în Trebinje, oferind un cadru simplu și calm pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        18.417486,
+                        42.708044
+                  ]
+            },
+            {
+                  "name": "Olimpijski bazen Banje",
+                  "text": "Olimpijski bazen Banje din Trebinje oferă o facilitate de înot profesională pentru activități sportive.",
+                  "category": "family",
+                  "coords": [
+                        18.348686,
+                        42.714117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej Hercegovine",
+                  "text": "Muzej Hercegovine is a notable museum located in Trebinje.",
+                  "category": "museum",
+                  "coords": [
+                        18.347382,
+                        42.711297
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kličanj",
+                  "text": "Tvrđava Kličanj is a castle structure located in Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.315203,
+                        42.72086
+                  ]
+            },
+            {
+                  "name": "Fort Petrina",
+                  "text": "Fort Petrina is a castle located in the city of Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.357404,
+                        42.692676
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kučino Brdo",
+                  "text": "Tvrđava Kučino Brdo is a castle structure situated in Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.349662,
+                        42.686159
+                  ]
+            },
+            {
+                  "name": "Fortress Gumac",
+                  "text": "Fortress Gumac is a local castle found in the city of Trebinje.",
+                  "category": "castle",
+                  "coords": [
+                        18.324929,
+                        42.693627
+                  ]
+            },
+            {
+                  "name": "Noria",
+                  "text": "The Noria in Trebinje is a traditional water wheel functioning as a well-known local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        18.312711,
+                        42.707272
+                  ]
+            },
+            {
+                  "name": "Maltese's wheel",
+                  "text": "Maltese's wheel is a notable water wheel attraction situated in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.350447,
+                        42.714598
+                  ]
+            },
+            {
+                  "name": "Hercegovačka Gračanica",
+                  "text": "Hercegovačka Gračanica is a prominent monastery and landmark attraction in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.360013,
+                        42.710737
+                  ]
+            },
+            {
+                  "name": "Monument to the victims of fascism in World War II",
+                  "text": "The Monument to the victims of fascism in World War II is an attraction and memorial in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.343756,
+                        42.70933
+                  ]
+            },
+            {
+                  "name": "Vidikovac sa staklenom stazom",
+                  "text": "Видиковац са стакленом стазом is a viewpoint situated in Trebinje.",
+                  "category": "natural",
+                  "coords": [
+                        18.34905,
+                        42.692472
+                  ]
+            },
+            {
+                  "name": "Stone eyes",
+                  "text": "Stone eyes is a local attraction found in the city of Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.341197,
+                        42.686184
+                  ]
+            },
+            {
+                  "name": "Matulića pećina",
+                  "text": "Matulića pećina is an attraction located in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.361488,
+                        42.692099
+                  ]
+            },
+            {
+                  "name": "Pridvoračka Jama",
+                  "text": "Pridvoračka Jama is a monument located in the city of Trebinje.",
+                  "category": "historical",
+                  "coords": [
+                        18.333966,
+                        42.693762
+                  ]
+            },
+            {
+                  "name": "Arslanagić Bridge",
+                  "text": "Arslanagić Bridge is an attraction crossing the river in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.354009,
+                        42.714654
+                  ]
+            },
+            {
+                  "name": "Art gallery Bokić",
+                  "text": "Art gallery Bokić is a local gallery located in Trebinje.",
+                  "category": "museum",
+                  "coords": [
+                        18.346777,
+                        42.713152
+                  ]
+            },
+            {
+                  "name": "Brankovića Kula",
+                  "text": "Brankovića Kula is an attraction in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.362346,
+                        42.703016
+                  ]
+            },
+            {
+                  "name": "Noria (ruins)",
+                  "text": "Noria (ruins) features the recognized remains of a traditional watermill in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.34239,
+                        42.704029
+                  ]
+            },
+            {
+                  "name": "Church of the Transfiguration",
+                  "text": "The Church of the Transfiguration is a notable Orthodox place of worship located in Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.345506,
+                        42.709365
+                  ]
+            },
+            {
+                  "name": "Osman Pasha Mosque",
+                  "text": "The Osman Pasha Mosque is an important Islamic place of worship situated in Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.34647,
+                        42.710702
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Birth of Mary",
+                  "text": "The Cathedral of the Birth of Mary is a well-known Catholic place of worship in Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.345108,
+                        42.710901
+                  ]
+            },
+            {
+                  "name": "Church of St. Archangel",
+                  "text": "The Church of St. Archangel is a place of worship located in the city of Trebinje.",
+                  "category": "religious",
+                  "coords": [
+                        18.339407,
+                        42.714535
+                  ]
+            },
+            {
+                  "name": "Uskotračna parna lokomotiva JŽ 83-056",
+                  "text": "Uskotračna parna lokomotiva JŽ 83-056 is a narrow-gauge locomotive on display in Trebinje.",
+                  "category": "landmark",
+                  "coords": [
+                        18.349746,
+                        42.706816
+                  ]
+            },
+            {
+                  "name": "Trebinjsko jezero",
+                  "text": "Trebinjsko jezero is a lake in Trebinje, known for its scenic views and relaxing atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        18.431168,
+                        42.70371
+                  ]
+            },
+            {
+                  "name": "Lokva",
+                  "text": "Lokva is a lake in Trebinje, offering a simple and calm setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.417486,
+                        42.708044
+                  ]
+            },
+            {
+                  "name": "Olimpijski bazen Banje",
+                  "text": "Olimpijski bazen Banje in Trebinje offers a professional swimming facility for sporting activities.",
+                  "category": "family",
+                  "coords": [
+                        18.348686,
+                        42.714117
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Trebinje", hu: "Trebinje", ro: "Trebinje", en: "Trebinje" },
     description: {
@@ -3210,6 +6594,15 @@ export const bosniaPois: POI[] = [
                         16.70197,
                         44.982636
                   ]
+            },
+            {
+                  "name": "Aqua Planet",
+                  "text": "Ein Schwimmbad in Prijedor für Wassersport und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        16.705704,
+                        44.983926
+                  ]
             }
       ],
       "hu": [
@@ -3229,6 +6622,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         16.70197,
                         44.982636
+                  ]
+            },
+            {
+                  "name": "Aqua Planet",
+                  "text": "Úszómedence Prijedorban vízi sporthoz és szabadidőhöz.",
+                  "category": "family",
+                  "coords": [
+                        16.705704,
+                        44.983926
                   ]
             }
       ],
@@ -3250,6 +6652,15 @@ export const bosniaPois: POI[] = [
                         16.70197,
                         44.982636
                   ]
+            },
+            {
+                  "name": "Aqua Planet",
+                  "text": "O piscină în Prijedor pentru sporturi nautice și timp liber.",
+                  "category": "family",
+                  "coords": [
+                        16.705704,
+                        44.983926
+                  ]
             }
       ],
       "en": [
@@ -3269,6 +6680,15 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         16.70197,
                         44.982636
+                  ]
+            },
+            {
+                  "name": "Aqua Planet",
+                  "text": "A swimming pool in Prijedor for water sports and leisure.",
+                  "category": "family",
+                  "coords": [
+                        16.705704,
+                        44.983926
                   ]
             }
       ]

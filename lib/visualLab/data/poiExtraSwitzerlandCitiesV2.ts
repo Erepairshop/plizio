@@ -3,7 +3,1456 @@ import { POI } from './poi';
 export const switzerlandCitiesV2: POI[] = [
 
   {
-    id: "switzerland-la-chaux-de-fonds-cities-v2", "sights": {"de": [{"name": "Anciens abattoirs", "text": "Ein ehemaliger Schlachthofkomplex, der heute als Zentrum für zeitgenössische Kunst dient.", "category": "cultural", "coords": [6.814863, 47.091357]}, {"name": "Synagogue de La Chaux-de-Fonds", "text": "Eine historische Synagoge in La Chaux-de-Fonds, erbaut in einem markanten byzantinischen Stil.", "category": "religious", "coords": [6.824336, 47.100751]}, {"name": "La Maison Blanche", "text": "Das erste von Le Corbusier für seine Eltern entworfene Haus, auch bekannt als Villa Jeanneret-Perret.", "category": "landmark", "coords": [6.815673, 47.106234]}, {"name": "Villa Fallet", "text": "Ein frühes Wohnhaus von Le Corbusier, das den regionalen „Style Sapin“ repräsentiert.", "category": "landmark", "coords": [6.816701, 47.105075]}, {"name": "Villa Turque", "text": "Auch als Villa Schwob bekannt, ist dies eine bedeutende frühe moderne Villa, die von Le Corbusier entworfen wurde.", "category": "landmark", "coords": [6.817022, 47.09958]}, {"name": "Bois du Petit-Château", "text": "Ein städtischer Zoo und Park in La Chaux-de-Fonds mit Schwerpunkt auf lokaler und regionaler Tierwelt.", "category": "family", "coords": [6.822296, 47.105579]}, {"name": "Musée paysan et artisanal", "text": "Ein Museum, das dem traditionellen bäuerlichen Leben und Handwerk der Neuenburger Berge gewidmet ist.", "category": "museum", "coords": [6.813044, 47.089485]}, {"name": "Musée d'histoire", "text": "Ein Museum in La Chaux-de-Fonds, das die lokale Geschichte und Entwicklung der Stadt nachzeichnet.", "category": "museum", "coords": [6.830601, 47.100653]}, {"name": "Musée des Beaux-Arts", "text": "Ein Kunstmuseum in La Chaux-de-Fonds mit einer bedeutenden Sammlung schweizerischer und internationaler Kunst.", "category": "museum", "coords": [6.829352, 47.100457]}, {"name": "L'Heure bleue", "text": "Ein neoklassizistisches Theater in La Chaux-de-Fonds, bekannt für seine Akustik und Aufführungen.", "category": "cultural", "coords": [6.828927, 47.101796]}, {"name": "Théâtre des Abeilles", "text": "Ein lokales Theater in La Chaux-de-Fonds, in dem verschiedene Bühnenproduktionen und kulturelle Veranstaltungen stattfinden.", "category": "cultural", "coords": [6.820288, 47.100365]}, {"name": "Grand Temple", "text": "Eine bedeutende protestantische Kirche im Zentrum von La Chaux-de-Fonds.", "category": "religious", "coords": [6.833083, 47.104139]}, {"name": "Temple Farel", "text": "Ein Gotteshaus in La Chaux-de-Fonds, das für religiöse Dienste genutzt wird.", "category": "religious", "coords": [6.827047, 47.105577]}, {"name": "Saint-Jean", "text": "Ein religiöses Gebäude in La Chaux-de-Fonds für gemeinschaftliche Gottesdienste und Veranstaltungen.", "category": "religious", "coords": [6.822931, 47.092037]}, {"name": "Notre-Dame de la Paix", "text": "Ein Gotteshaus in La Chaux-de-Fonds, das spirituelle Dienste anbietet.", "category": "religious", "coords": [6.821622, 47.094943]}, {"name": "Villa Jaquemet", "text": "Eine bemerkenswerte Villa in La Chaux-de-Fonds, die regionale Architekturstile zeigt.", "category": "landmark", "coords": [6.815692, 47.105033]}, {"name": "Gros Crêt", "text": "Naturbegeisterte finden in der Nähe von La Chaux-de-Fonds den Berggipfel Gros Crêt. Von dieser natürlichen Erhebung in der Schweiz haben Besucher einen wunderbaren Blick auf die faszinierende Juralandschaft.", "category": "natural", "coords": [6.800199, 47.109042]}, {"name": "Muzoo", "text": "Ein Museum in La Chaux-de-Fonds, das Teil des Zoos und Naturkundekomplexes ist.", "category": "museum", "coords": [6.823629, 47.105449]}, {"name": "Musée des civilisations de l'Islam", "text": "Ein Museum, das den vielfältigen Kulturen und Zivilisationen der islamischen Welt gewidmet ist.", "category": "museum", "coords": [6.820705, 47.097001]}, {"name": "La Demoiselle", "text": "Eine Kunstgalerie in La Chaux-de-Fonds mit Werken zeitgenössischer Künstler.", "category": "museum", "coords": [6.83214, 47.104574]}, {"name": "Ancien tunnel ferroviaire désaffecté", "text": "Die Überreste eines alten, stillgelegten Eisenbahntunnels in La Chaux-de-Fonds.", "category": "historical", "coords": [6.868908, 47.097502]}, {"name": "La Turlutaine", "text": "Ein kleines Theater und Puppenhaus in La Chaux-de-Fonds mit kreativen Aufführungen.", "category": "cultural", "coords": [6.82596, 47.106106]}, {"name": "Zap Théâtre", "text": "Ein lokaler Aufführungsort in La Chaux-de-Fonds für Theater- und Comedy-Shows.", "category": "cultural", "coords": [6.819404, 47.099016]}, {"name": "Temple Allemand", "text": "Ein Kultur- und Theaterort in einem ehemaligen deutschen Tempel in La Chaux-de-Fonds.", "category": "cultural", "coords": [6.828507, 47.106562]}, {"name": "Atelier Grand Cargo", "text": "Ein lokales Theater in La Chaux-de-Fonds, das verschiedene Aufführungen präsentiert.", "category": "cultural", "coords": [6.8392, 47.105747]}, {"name": "Cosmo Table & Bar", "text": "Ein Veranstaltungsort für Theater und Gastronomie in La Chaux-de-Fonds.", "category": "cultural", "coords": [6.822788, 47.098784]}, {"name": "Théâtre populaire romand", "text": "Ein bedeutendes Regionaltheater in La Chaux-de-Fonds mit einem vielfältigen Programm.", "category": "cultural", "coords": [6.830006, 47.097808]}, {"name": "La Coquille", "text": "Ein Zentrum für kulturelle Aktivitäten und Kunst in La Chaux-de-Fonds.", "category": "cultural", "coords": [6.830083, 47.10552]}, {"name": "La Locomotive", "text": "Ein lebhaftes Kulturzentrum in La Chaux-de-Fonds für verschiedene künstlerische Ausdrucksformen.", "category": "cultural", "coords": [6.819916, 47.094572]}, {"name": "Rothirsch", "text": "Rotwild ist eine der heimischen Tierarten, die man in diesem Park in La Chaux-de-Fonds sehen kann.", "category": "landmark", "coords": [6.821273, 47.105664]}, {"name": "Lac de Moron", "text": "Ein beeindruckender Grenzsee bei La Chaux-de-Fonds mit schöner Aussicht.", "category": "natural", "coords": [6.730716, 47.094312]}, {"name": "Lac de Biaufond", "text": "Ein ruhiger See in der Nähe von La Chaux-de-Fonds, ideal für Spaziergänge.", "category": "natural", "coords": [6.849436, 47.168646]}, {"name": "La Sombaille", "text": "Ein gepflegter Spielplatz in La Chaux-de-Fonds für kleine Kinder.", "category": "family", "coords": [6.826467, 47.113212]}, {"name": "Fun Magic", "text": "Ein unterhaltsamer Minigolfplatz in La Chaux-de-Fonds für die ganze Familie.", "category": "family", "coords": [6.801439, 47.088152]}, {"name": "Place des Jeux des Forges", "text": "Ein gut ausgestatteter Spielplatz in La Chaux-de-Fonds zum Toben.", "category": "family", "coords": [6.806148, 47.091662]}, {"name": "Place des Lilas", "text": "Ein freundlicher Spielplatz in La Chaux-de-Fonds in grüner Umgebung.", "category": "family", "coords": [6.830772, 47.104479]}, {"name": "Jardin Henriette Grandjean", "text": "Ein ruhiger Spielbereich in La Chaux-de-Fonds, ideal für Familien.", "category": "family", "coords": [6.823525, 47.104312]}, {"name": "Parc de l'Ouest", "text": "Ein öffentlicher Spielplatz in La Chaux-de-Fonds mit Platz zum Spielen.", "category": "family", "coords": [6.826623, 47.102724]}, {"name": "Parc du Paddock", "text": "Ein schöner Ort für Kinder in La Chaux-de-Fonds zum Spielen im Freien.", "category": "family", "coords": [6.816964, 47.090701]}], "hu": [{"name": "Anciens abattoirs", "text": "Egykori vágóhíd-komplexum, amely ma kortárs művészeti központként működik.", "category": "cultural", "coords": [6.814863, 47.091357]}, {"name": "Synagogue de La Chaux-de-Fonds", "text": "Történelmi zsinagóga La Chaux-de-Fonds-ban, jellegzetes bizánci stílusban épült.", "category": "religious", "coords": [6.824336, 47.100751]}, {"name": "La Maison Blanche", "text": "Le Corbusier első, szülei számára tervezett háza, más néven Villa Jeanneret-Perret.", "category": "landmark", "coords": [6.815673, 47.106234]}, {"name": "Villa Fallet", "text": "Le Corbusier korai lakóháza, amely a regionális „fenyő stílust” (Style Sapin) képviseli.", "category": "landmark", "coords": [6.816701, 47.105075]}, {"name": "Villa Turque", "text": "A Villa Schwob néven is ismert épület Le Corbusier egyik jelentős korai modern villája.", "category": "landmark", "coords": [6.817022, 47.09958]}, {"name": "Bois du Petit-Château", "text": "Városi állatkert és park La Chaux-de-Fonds-ban, amely a helyi és regionális vadvilágra összpontosít.", "category": "family", "coords": [6.822296, 47.105579]}, {"name": "Musée paysan et artisanal", "text": "A Neuchâtel-hegység hagyományos paraszti életét és kézművességét bemutató múzeum.", "category": "museum", "coords": [6.813044, 47.089485]}, {"name": "Musée d'histoire", "text": "Helytörténeti múzeum La Chaux-de-Fonds-ban, amely a város fejlődését mutatja be.", "category": "museum", "coords": [6.830601, 47.100653]}, {"name": "Musée des Beaux-Arts", "text": "Szépművészeti múzeum La Chaux-de-Fonds-ban, jelentős svájci és nemzetközi művészeti gyűjteménnyel.", "category": "museum", "coords": [6.829352, 47.100457]}, {"name": "L'Heure bleue", "text": "Neoklasszicista színház La Chaux-de-Fonds-ban, amely akusztikájáról és előadásairól ismert.", "category": "cultural", "coords": [6.828927, 47.101796]}, {"name": "Théâtre des Abeilles", "text": "Helyi színház La Chaux-de-Fonds-ban, amely különféle produkcióknak és eseményeknek ad otthont.", "category": "cultural", "coords": [6.820288, 47.100365]}, {"name": "Grand Temple", "text": "Jelentős protestáns templom La Chaux-de-Fonds központjában.", "category": "religious", "coords": [6.833083, 47.104139]}, {"name": "Temple Farel", "text": "Vallási szertartásoknak helyet adó templom La Chaux-de-Fonds-ban.", "category": "religious", "coords": [6.827047, 47.105577]}, {"name": "Saint-Jean", "text": "Vallási épület La Chaux-de-Fonds-ban, közösségi szertartások és események helyszíne.", "category": "religious", "coords": [6.822931, 47.092037]}, {"name": "Notre-Dame de la Paix", "text": "Vallási szolgáltatásokat nyújtó templom La Chaux-de-Fonds-ban.", "category": "religious", "coords": [6.821622, 47.094943]}, {"name": "Villa Jaquemet", "text": "Figyelemre méltó villa La Chaux-de-Fonds-ban, amely a helyi építészeti stílusokat mutatja be.", "category": "landmark", "coords": [6.815692, 47.105033]}, {"name": "Gros Crêt", "text": "A természetkedvelők La Chaux-de-Fonds közelében találják a Gros Crêt hegycsúcsot. Erről a svájci természeti magaslatról a látogatóknak csodálatos kilátásuk nyílik a lenyűgöző Jura-vidékre.", "category": "natural", "coords": [6.800199, 47.109042]}, {"name": "Muzoo", "text": "Múzeum La Chaux-de-Fonds-ban, amely az állatkert és a természettudományi komplexum része.", "category": "museum", "coords": [6.823629, 47.105449]}, {"name": "Musée des civilisations de l'Islam", "text": "Az iszlám világ sokszínű kultúráinak és civilizációinak szentelt múzeum.", "category": "museum", "coords": [6.820705, 47.097001]}, {"name": "La Demoiselle", "text": "Művészeti galéria La Chaux-de-Fonds-ban, amely kortárs alkotók munkáit mutatja be.", "category": "museum", "coords": [6.83214, 47.104574]}, {"name": "Ancien tunnel ferroviaire désaffecté", "text": "Egy régi, használaton kívüli vasúti alagút maradványai La Chaux-de-Fonds-ban.", "category": "historical", "coords": [6.868908, 47.097502]}, {"name": "La Turlutaine", "text": "Kisméretű színház és bábszínház La Chaux-de-Fonds-ban, kreatív előadásokkal.", "category": "cultural", "coords": [6.82596, 47.106106]}, {"name": "Zap Théâtre", "text": "Helyi előadótér La Chaux-de-Fonds-ban, amely színházi és komédiai előadásoknak ad otthont.", "category": "cultural", "coords": [6.819404, 47.099016]}, {"name": "Temple Allemand", "text": "Kulturális és színházi helyszín egy egykori német templom épületében La Chaux-de-Fonds-ban.", "category": "cultural", "coords": [6.828507, 47.106562]}, {"name": "Atelier Grand Cargo", "text": "Egy helyi színház La Chaux-de-Fonds-ban, amely különféle előadásoknak ad otthont.", "category": "cultural", "coords": [6.8392, 47.105747]}, {"name": "Cosmo Table & Bar", "text": "Színházi előadásoknak és vendéglátásnak helyet adó helyszín La Chaux-de-Fonds-ban.", "category": "cultural", "coords": [6.822788, 47.098784]}, {"name": "Théâtre populaire romand", "text": "La Chaux-de-Fonds jelentős regionális színháza, amely változatos programokat kínál.", "category": "cultural", "coords": [6.830006, 47.097808]}, {"name": "La Coquille", "text": "Kulturális tevékenységeknek és művészeteknek helyet adó központ La Chaux-de-Fonds-ban.", "category": "cultural", "coords": [6.830083, 47.10552]}, {"name": "La Locomotive", "text": "Egy élénk kulturális központ La Chaux-de-Fonds-ban a különféle művészeti ágak számára.", "category": "cultural", "coords": [6.819916, 47.094572]}, {"name": "Cerf élaphes", "text": "A gímszarvas az egyik őshonos állatfaj, amely látható ebben a La Chaux-de-Fonds-i parkban.", "category": "landmark", "coords": [6.821273, 47.105664]}, {"name": "Lac de Moron", "text": "Lenyűgöző határtó La Chaux-de-Fonds közelében, szép kilátással.", "category": "natural", "coords": [6.730716, 47.094312]}, {"name": "Lac de Biaufond", "text": "Csendes tó La Chaux-de-Fonds közelében, ideális sétákhoz.", "category": "natural", "coords": [6.849436, 47.168646]}, {"name": "La Sombaille", "text": "Gondozott játszótér La Chaux-de-Fonds területén kisgyermekeknek.", "category": "family", "coords": [6.826467, 47.113212]}, {"name": "Fun Magic", "text": "Szórakoztató minigolfpálya La Chaux-de-Fonds városában az egész családnak.", "category": "family", "coords": [6.801439, 47.088152]}, {"name": "Place des Jeux des Forges", "text": "Jól felszerelt játszótér La Chaux-de-Fonds területén a hancúrozáshoz.", "category": "family", "coords": [6.806148, 47.091662]}, {"name": "Place des Lilas", "text": "Barátságos játszótér La Chaux-de-Fonds területén, zöld környezetben.", "category": "family", "coords": [6.830772, 47.104479]}, {"name": "Jardin Henriette Grandjean", "text": "Csendes játszóterület La Chaux-de-Fonds-ban, ideális családoknak.", "category": "family", "coords": [6.823525, 47.104312]}, {"name": "Parc de l'Ouest", "text": "Nyilvános játszótér La Chaux-de-Fonds-ban, tágas helyet kínálva a játékhoz.", "category": "family", "coords": [6.826623, 47.102724]}, {"name": "Parc du Paddock", "text": "Szép hely gyerekeknek La Chaux-de-Fonds területén a szabadtéri játékhoz.", "category": "family", "coords": [6.816964, 47.090701]}], "ro": [{"name": "Anciens abattoirs", "text": "Un fost complex industrial de abatoare care servește acum ca centru de artă contemporană.", "category": "cultural", "coords": [6.814863, 47.091357]}, {"name": "Synagogue de La Chaux-de-Fonds", "text": "O sinagogă istorică din La Chaux-de-Fonds, construită într-un stil bizantin distinctiv.", "category": "religious", "coords": [6.824336, 47.100751]}, {"name": "La Maison Blanche", "text": "Prima casă proiectată de Le Corbusier pentru părinții săi, cunoscută și sub numele de Villa Jeanneret-Perret.", "category": "landmark", "coords": [6.815673, 47.106234]}, {"name": "Villa Fallet", "text": "O lucrare rezidențială timpurie a lui Le Corbusier, care prezintă stilul regional „Style Sapin”.", "category": "landmark", "coords": [6.816701, 47.105075]}, {"name": "Villa Turque", "text": "Cunoscută și sub numele de Villa Schwob, aceasta este o vilă modernistă timpurie semnificativă proiectată de Le Corbusier.", "category": "landmark", "coords": [6.817022, 47.09958]}, {"name": "Bois du Petit-Château", "text": "O grădină zoologică municipală și un parc din La Chaux-de-Fonds axate pe fauna locală și regională.", "category": "family", "coords": [6.822296, 47.105579]}, {"name": "Musée paysan et artisanal", "text": "Un muzeu dedicat vieții rurale tradiționale și meșteșugurilor din munții Neuchâtel.", "category": "museum", "coords": [6.813044, 47.089485]}, {"name": "Musée d'histoire", "text": "Un muzeu din La Chaux-de-Fonds care urmărește istoria locală și dezvoltarea orașului.", "category": "museum", "coords": [6.830601, 47.100653]}, {"name": "Musée des Beaux-Arts", "text": "Un muzeu de artă din La Chaux-de-Fonds care deține o colecție semnificativă de artă elvețiană și internațională.", "category": "museum", "coords": [6.829352, 47.100457]}, {"name": "L'Heure bleue", "text": "Un teatru neoclasic din La Chaux-de-Fonds, cunoscut pentru acustica și spectacolele sale.", "category": "cultural", "coords": [6.828927, 47.101796]}, {"name": "Théâtre des Abeilles", "text": "Un teatru local din La Chaux-de-Fonds care găzduiește diverse producții scenice și evenimente culturale.", "category": "cultural", "coords": [6.820288, 47.100365]}, {"name": "Grand Temple", "text": "O biserică protestantă proeminentă situată în centrul orașului La Chaux-de-Fonds.", "category": "religious", "coords": [6.833083, 47.104139]}, {"name": "Temple Farel", "text": "Un lăcaș de cult din La Chaux-de-Fonds dedicat serviciilor religioase.", "category": "religious", "coords": [6.827047, 47.105577]}, {"name": "Saint-Jean", "text": "O clădire religioasă din La Chaux-de-Fonds folosită pentru slujbe și evenimente comunitare.", "category": "religious", "coords": [6.822931, 47.092037]}, {"name": "Notre-Dame de la Paix", "text": "Un lăcaș de cult din La Chaux-de-Fonds care oferă servicii spirituale.", "category": "religious", "coords": [6.821622, 47.094943]}, {"name": "Villa Jaquemet", "text": "O vilă notabilă din La Chaux-de-Fonds care prezintă stiluri arhitecturale regionale.", "category": "landmark", "coords": [6.815692, 47.105033]}, {"name": "Gros Crêt", "text": "Pasionații de natură vor găsi vârful montan Gros Crêt în apropiere de La Chaux-de-Fonds. De pe această înălțime naturală din Elveția, vizitatorii au o vedere minunată asupra fascinantului peisaj din Jura.", "category": "natural", "coords": [6.800199, 47.109042]}, {"name": "Muzoo", "text": "Un muzeu din La Chaux-de-Fonds, parte a complexului zoologic și de istorie naturală.", "category": "museum", "coords": [6.823629, 47.105449]}, {"name": "Musée des civilisations de l'Islam", "text": "Un muzeu dedicat diverselor culturi și civilizații ale lumii islamice.", "category": "museum", "coords": [6.820705, 47.097001]}, {"name": "La Demoiselle", "text": "O galerie de artă din La Chaux-de-Fonds care expune lucrări ale artiștilor contemporani.", "category": "museum", "coords": [6.83214, 47.104574]}, {"name": "Ancien tunnel ferroviaire désaffecté", "text": "Vestigiile unui vechi tunel feroviar dezafectat din La Chaux-de-Fonds.", "category": "historical", "coords": [6.868908, 47.097502]}, {"name": "La Turlutaine", "text": "Un mic teatru și casă de păpuși din La Chaux-de-Fonds care oferă spectacole creative.", "category": "cultural", "coords": [6.82596, 47.106106]}, {"name": "Zap Théâtre", "text": "Un spațiu local de spectacole din La Chaux-de-Fonds care găzduiește piese de teatru și spectacole de comedie.", "category": "cultural", "coords": [6.819404, 47.099016]}, {"name": "Temple Allemand", "text": "Un loc cultural și teatral găzduit într-un fost templu german din La Chaux-de-Fonds.", "category": "cultural", "coords": [6.828507, 47.106562]}, {"name": "Atelier Grand Cargo", "text": "Un teatru local din La Chaux-de-Fonds care găzduiește diverse spectacole.", "category": "cultural", "coords": [6.8392, 47.105747]}, {"name": "Cosmo Table & Bar", "text": "Un loc de desfășurare pentru teatru și gastronomie în La Chaux-de-Fonds.", "category": "cultural", "coords": [6.822788, 47.098784]}, {"name": "Théâtre populaire romand", "text": "Un teatru regional important din La Chaux-de-Fonds, cu un program diversificat.", "category": "cultural", "coords": [6.830006, 47.097808]}, {"name": "La Coquille", "text": "Un centru pentru activități culturale și artă în La Chaux-de-Fonds.", "category": "cultural", "coords": [6.830083, 47.10552]}, {"name": "La Locomotive", "text": "Un centru cultural plin de viață în La Chaux-de-Fonds pentru diverse forme de exprimare artistică.", "category": "cultural", "coords": [6.819916, 47.094572]}, {"name": "Cerf élaphes", "text": "Cerbul comun este una dintre speciile autohtone care pot fi văzute în acest parc din La Chaux-de-Fonds.", "category": "landmark", "coords": [6.821273, 47.105664]}, {"name": "Lac de Moron", "text": "Un lac de frontieră impresionant lângă La Chaux-de-Fonds, cu vederi frumoase.", "category": "natural", "coords": [6.730716, 47.094312]}, {"name": "Lac de Biaufond", "text": "Un lac liniștit lângă La Chaux-de-Fonds, ideal pentru plimbări.", "category": "natural", "coords": [6.849436, 47.168646]}, {"name": "La Sombaille", "text": "Un teren de joacă bine întreținut în La Chaux-de-Fonds pentru copiii mici.", "category": "family", "coords": [6.826467, 47.113212]}, {"name": "Fun Magic", "text": "Un teren de minigolf distractiv în La Chaux-de-Fonds pentru întreaga familie.", "category": "family", "coords": [6.801439, 47.088152]}, {"name": "Place des Jeux des Forges", "text": "Un teren de joacă bine echipat în La Chaux-de-Fonds pentru joacă.", "category": "family", "coords": [6.806148, 47.091662]}, {"name": "Place des Lilas", "text": "Un teren de joacă prietenos în La Chaux-de-Fonds, într-un mediu verde.", "category": "family", "coords": [6.830772, 47.104479]}, {"name": "Jardin Henriette Grandjean", "text": "O zonă de joacă liniștită în La Chaux-de-Fonds, ideală pentru familii.", "category": "family", "coords": [6.823525, 47.104312]}, {"name": "Parc de l'Ouest", "text": "Un teren de joacă public în La Chaux-de-Fonds cu spațiu pentru joacă.", "category": "family", "coords": [6.826623, 47.102724]}, {"name": "Parc du Paddock", "text": "Un loc frumos pentru copii în La Chaux-de-Fonds pentru joacă în aer liber.", "category": "family", "coords": [6.816964, 47.090701]}], "en": [{"name": "Anciens abattoirs", "text": "A former industrial slaughterhouse complex now serving as a contemporary arts center.", "category": "cultural", "coords": [6.814863, 47.091357]}, {"name": "Synagogue de La Chaux-de-Fonds", "text": "A historical synagogue in La Chaux-de-Fonds built in a distinctive Byzantine style.", "category": "religious", "coords": [6.824336, 47.100751]}, {"name": "La Maison Blanche", "text": "The first house designed by Le Corbusier for his parents, also known as Villa Jeanneret-Perret.", "category": "landmark", "coords": [6.815673, 47.106234]}, {"name": "Villa Fallet", "text": "An early residential work by Le Corbusier, showcasing the regional \"Style Sapin.\"", "category": "landmark", "coords": [6.816701, 47.105075]}, {"name": "Villa Turque", "text": "Also known as Villa Schwob, this is a significant early modern villa designed by Le Corbusier.", "category": "landmark", "coords": [6.817022, 47.09958]}, {"name": "Bois du Petit-Château", "text": "A municipal zoo and park in La Chaux-de-Fonds focusing on local and regional wildlife.", "category": "family", "coords": [6.822296, 47.105579]}, {"name": "Musée paysan et artisanal", "text": "A museum dedicated to the traditional rural life and handicrafts of the Neuchâtel mountains.", "category": "museum", "coords": [6.813044, 47.089485]}, {"name": "Musée d'histoire", "text": "A museum in La Chaux-de-Fonds tracing the local history and development of the city.", "category": "museum", "coords": [6.830601, 47.100653]}, {"name": "Musée des Beaux-Arts", "text": "An art museum in La Chaux-de-Fonds featuring a significant collection of Swiss and international art.", "category": "museum", "coords": [6.829352, 47.100457]}, {"name": "L'Heure bleue", "text": "A neoclassical theater in La Chaux-de-Fonds known for its acoustics and performances.", "category": "cultural", "coords": [6.828927, 47.101796]}, {"name": "Théâtre des Abeilles", "text": "A local theater in La Chaux-de-Fonds hosting various stage productions and cultural events.", "category": "cultural", "coords": [6.820288, 47.100365]}, {"name": "Grand Temple", "text": "A prominent Protestant church in the center of La Chaux-de-Fonds.", "category": "religious", "coords": [6.833083, 47.104139]}, {"name": "Temple Farel", "text": "A place of worship in La Chaux-de-Fonds dedicated to religious services.", "category": "religious", "coords": [6.827047, 47.105577]}, {"name": "Saint-Jean", "text": "A religious building in La Chaux-de-Fonds used for community worship and events.", "category": "religious", "coords": [6.822931, 47.092037]}, {"name": "Notre-Dame de la Paix", "text": "A place of worship in La Chaux-de-Fonds providing spiritual services.", "category": "religious", "coords": [6.821622, 47.094943]}, {"name": "Villa Jaquemet", "text": "A notable villa in La Chaux-de-Fonds showcasing regional architectural styles.", "category": "landmark", "coords": [6.815692, 47.105033]}, {"name": "Gros Crêt", "text": "Nature enthusiasts will find the Gros Crêt mountain peak near La Chaux-de-Fonds. From this natural elevation in Switzerland, visitors have a wonderful view of the fascinating Jura landscape.", "category": "natural", "coords": [6.800199, 47.109042]}, {"name": "Muzoo", "text": "A museum in La Chaux-de-Fonds part of the zoo and natural history complex.", "category": "museum", "coords": [6.823629, 47.105449]}, {"name": "Musée des civilisations de l'Islam", "text": "A museum dedicated to the diverse cultures and civilizations of the Islamic world.", "category": "museum", "coords": [6.820705, 47.097001]}, {"name": "La Demoiselle", "text": "An art gallery in La Chaux-de-Fonds showcasing works by contemporary artists.", "category": "museum", "coords": [6.83214, 47.104574]}, {"name": "Ancien tunnel ferroviaire désaffecté", "text": "The remains of an old, disused railway tunnel in La Chaux-de-Fonds.", "category": "historical", "coords": [6.868908, 47.097502]}, {"name": "La Turlutaine", "text": "A small theater and puppet house in La Chaux-de-Fonds offering creative performances.", "category": "cultural", "coords": [6.82596, 47.106106]}, {"name": "Zap Théâtre", "text": "A local performance space in La Chaux-de-Fonds hosting theater and comedy shows.", "category": "cultural", "coords": [6.819404, 47.099016]}, {"name": "Temple Allemand", "text": "A cultural and theatrical venue housed in a former German temple in La Chaux-de-Fonds.", "category": "cultural", "coords": [6.828507, 47.106562]}, {"name": "Atelier Grand Cargo", "text": "A local theatre in La Chaux-de-Fonds hosting various performances.", "category": "cultural", "coords": [6.8392, 47.105747]}, {"name": "Cosmo Table & Bar", "text": "A venue for theatre and dining in La Chaux-de-Fonds.", "category": "cultural", "coords": [6.822788, 47.098784]}, {"name": "Théâtre populaire romand", "text": "A significant regional theatre in La Chaux-de-Fonds offering a diverse program.", "category": "cultural", "coords": [6.830006, 47.097808]}, {"name": "La Coquille", "text": "A center for cultural activities and art in La Chaux-de-Fonds.", "category": "cultural", "coords": [6.830083, 47.10552]}, {"name": "La Locomotive", "text": "A lively cultural center in La Chaux-de-Fonds for various artistic expressions.", "category": "cultural", "coords": [6.819916, 47.094572]}, {"name": "Cerf élaphes", "text": "Red deer is one of the native species that can be seen in this park in La Chaux-de-Fonds.", "category": "landmark", "coords": [6.821273, 47.105664]}, {"name": "Lac de Moron", "text": "An impressive border lake near La Chaux-de-Fonds with beautiful views.", "category": "natural", "coords": [6.730716, 47.094312]}, {"name": "Lake Biaufond", "text": "A quiet lake near La Chaux-de-Fonds, ideal for walks.", "category": "natural", "coords": [6.849436, 47.168646]}, {"name": "La Sombaille", "text": "A well-maintained playground in La Chaux-de-Fonds for small children.", "category": "family", "coords": [6.826467, 47.113212]}, {"name": "Fun Magic", "text": "A fun miniature golf course in La Chaux-de-Fonds for the whole family.", "category": "family", "coords": [6.801439, 47.088152]}, {"name": "Place des Jeux des Forges", "text": "A well-equipped playground in La Chaux-de-Fonds for active play.", "category": "family", "coords": [6.806148, 47.091662]}, {"name": "Place des Lilas", "text": "A friendly playground in La Chaux-de-Fonds in green surroundings.", "category": "family", "coords": [6.830772, 47.104479]}, {"name": "Jardin Henriette Grandjean", "text": "A peaceful play area in La Chaux-de-Fonds, ideal for families.", "category": "family", "coords": [6.823525, 47.104312]}, {"name": "Parc de l'Ouest", "text": "A public playground in La Chaux-de-Fonds with room for play.", "category": "family", "coords": [6.826623, 47.102724]}, {"name": "Parc du Paddock", "text": "A nice spot for children in La Chaux-de-Fonds to play outdoors.", "category": "family", "coords": [6.816964, 47.090701]}]},
+    id: "switzerland-la-chaux-de-fonds-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anciens abattoirs",
+                  "text": "Ein ehemaliger Schlachthofkomplex, der heute als Zentrum für zeitgenössische Kunst dient.",
+                  "category": "cultural",
+                  "coords": [
+                        6.814863,
+                        47.091357
+                  ]
+            },
+            {
+                  "name": "Synagogue de La Chaux-de-Fonds",
+                  "text": "Eine historische Synagoge in La Chaux-de-Fonds, erbaut in einem markanten byzantinischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        6.824336,
+                        47.100751
+                  ]
+            },
+            {
+                  "name": "La Maison Blanche",
+                  "text": "Das erste von Le Corbusier für seine Eltern entworfene Haus, auch bekannt als Villa Jeanneret-Perret.",
+                  "category": "landmark",
+                  "coords": [
+                        6.815673,
+                        47.106234
+                  ]
+            },
+            {
+                  "name": "Villa Fallet",
+                  "text": "Ein frühes Wohnhaus von Le Corbusier, das den regionalen „Style Sapin“ repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.816701,
+                        47.105075
+                  ]
+            },
+            {
+                  "name": "Villa Turque",
+                  "text": "Auch als Villa Schwob bekannt, ist dies eine bedeutende frühe moderne Villa, die von Le Corbusier entworfen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.817022,
+                        47.09958
+                  ]
+            },
+            {
+                  "name": "Bois du Petit-Château",
+                  "text": "Ein städtischer Zoo und Park in La Chaux-de-Fonds mit Schwerpunkt auf lokaler und regionaler Tierwelt.",
+                  "category": "family",
+                  "coords": [
+                        6.822296,
+                        47.105579
+                  ]
+            },
+            {
+                  "name": "Musée paysan et artisanal",
+                  "text": "Ein Museum, das dem traditionellen bäuerlichen Leben und Handwerk der Neuenburger Berge gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.813044,
+                        47.089485
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire",
+                  "text": "Ein Museum in La Chaux-de-Fonds, das die lokale Geschichte und Entwicklung der Stadt nachzeichnet.",
+                  "category": "museum",
+                  "coords": [
+                        6.830601,
+                        47.100653
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Ein Kunstmuseum in La Chaux-de-Fonds mit einer bedeutenden Sammlung schweizerischer und internationaler Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        6.829352,
+                        47.100457
+                  ]
+            },
+            {
+                  "name": "L'Heure bleue",
+                  "text": "Ein neoklassizistisches Theater in La Chaux-de-Fonds, bekannt für seine Akustik und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.828927,
+                        47.101796
+                  ]
+            },
+            {
+                  "name": "Théâtre des Abeilles",
+                  "text": "Ein lokales Theater in La Chaux-de-Fonds, in dem verschiedene Bühnenproduktionen und kulturelle Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        6.820288,
+                        47.100365
+                  ]
+            },
+            {
+                  "name": "Grand Temple",
+                  "text": "Eine bedeutende protestantische Kirche im Zentrum von La Chaux-de-Fonds.",
+                  "category": "religious",
+                  "coords": [
+                        6.833083,
+                        47.104139
+                  ]
+            },
+            {
+                  "name": "Temple Farel",
+                  "text": "Ein Gotteshaus in La Chaux-de-Fonds, das für religiöse Dienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        6.827047,
+                        47.105577
+                  ]
+            },
+            {
+                  "name": "Saint-Jean",
+                  "text": "Ein religiöses Gebäude in La Chaux-de-Fonds für gemeinschaftliche Gottesdienste und Veranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        6.822931,
+                        47.092037
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Paix",
+                  "text": "Ein Gotteshaus in La Chaux-de-Fonds, das spirituelle Dienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        6.821622,
+                        47.094943
+                  ]
+            },
+            {
+                  "name": "Villa Jaquemet",
+                  "text": "Eine bemerkenswerte Villa in La Chaux-de-Fonds, die regionale Architekturstile zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.815692,
+                        47.105033
+                  ]
+            },
+            {
+                  "name": "Gros Crêt",
+                  "text": "Naturbegeisterte finden in der Nähe von La Chaux-de-Fonds den Berggipfel Gros Crêt. Von dieser natürlichen Erhebung in der Schweiz haben Besucher einen wunderbaren Blick auf die faszinierende Juralandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.800199,
+                        47.109042
+                  ]
+            },
+            {
+                  "name": "Muzoo",
+                  "text": "Ein Museum in La Chaux-de-Fonds, das Teil des Zoos und Naturkundekomplexes ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.823629,
+                        47.105449
+                  ]
+            },
+            {
+                  "name": "Musée des civilisations de l'Islam",
+                  "text": "Ein Museum, das den vielfältigen Kulturen und Zivilisationen der islamischen Welt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.820705,
+                        47.097001
+                  ]
+            },
+            {
+                  "name": "La Demoiselle",
+                  "text": "Eine Kunstgalerie in La Chaux-de-Fonds mit Werken zeitgenössischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        6.83214,
+                        47.104574
+                  ]
+            },
+            {
+                  "name": "Ancien tunnel ferroviaire désaffecté",
+                  "text": "Die Überreste eines alten, stillgelegten Eisenbahntunnels in La Chaux-de-Fonds.",
+                  "category": "historical",
+                  "coords": [
+                        6.868908,
+                        47.097502
+                  ]
+            },
+            {
+                  "name": "La Turlutaine",
+                  "text": "Ein kleines Theater und Puppenhaus in La Chaux-de-Fonds mit kreativen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.82596,
+                        47.106106
+                  ]
+            },
+            {
+                  "name": "Zap Théâtre",
+                  "text": "Ein lokaler Aufführungsort in La Chaux-de-Fonds für Theater- und Comedy-Shows.",
+                  "category": "cultural",
+                  "coords": [
+                        6.819404,
+                        47.099016
+                  ]
+            },
+            {
+                  "name": "Temple Allemand",
+                  "text": "Ein Kultur- und Theaterort in einem ehemaligen deutschen Tempel in La Chaux-de-Fonds.",
+                  "category": "cultural",
+                  "coords": [
+                        6.828507,
+                        47.106562
+                  ]
+            },
+            {
+                  "name": "Atelier Grand Cargo",
+                  "text": "Ein lokales Theater in La Chaux-de-Fonds, das verschiedene Aufführungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        6.8392,
+                        47.105747
+                  ]
+            },
+            {
+                  "name": "Cosmo Table & Bar",
+                  "text": "Ein Veranstaltungsort für Theater und Gastronomie in La Chaux-de-Fonds.",
+                  "category": "cultural",
+                  "coords": [
+                        6.822788,
+                        47.098784
+                  ]
+            },
+            {
+                  "name": "Théâtre populaire romand",
+                  "text": "Ein bedeutendes Regionaltheater in La Chaux-de-Fonds mit einem vielfältigen Programm.",
+                  "category": "cultural",
+                  "coords": [
+                        6.830006,
+                        47.097808
+                  ]
+            },
+            {
+                  "name": "La Coquille",
+                  "text": "Ein Zentrum für kulturelle Aktivitäten und Kunst in La Chaux-de-Fonds.",
+                  "category": "cultural",
+                  "coords": [
+                        6.830083,
+                        47.10552
+                  ]
+            },
+            {
+                  "name": "La Locomotive",
+                  "text": "Ein lebhaftes Kulturzentrum in La Chaux-de-Fonds für verschiedene künstlerische Ausdrucksformen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.819916,
+                        47.094572
+                  ]
+            },
+            {
+                  "name": "Rothirsch",
+                  "text": "Rotwild ist eine der heimischen Tierarten, die man in diesem Park in La Chaux-de-Fonds sehen kann.",
+                  "category": "landmark",
+                  "coords": [
+                        6.821273,
+                        47.105664
+                  ]
+            },
+            {
+                  "name": "Lac de Moron",
+                  "text": "Ein beeindruckender Grenzsee bei La Chaux-de-Fonds mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        6.730716,
+                        47.094312
+                  ]
+            },
+            {
+                  "name": "Lac de Biaufond",
+                  "text": "Ein ruhiger See in der Nähe von La Chaux-de-Fonds, ideal für Spaziergänge.",
+                  "category": "natural",
+                  "coords": [
+                        6.849436,
+                        47.168646
+                  ]
+            },
+            {
+                  "name": "La Sombaille",
+                  "text": "Ein gepflegter Spielplatz in La Chaux-de-Fonds für kleine Kinder.",
+                  "category": "family",
+                  "coords": [
+                        6.826467,
+                        47.113212
+                  ]
+            },
+            {
+                  "name": "Fun Magic",
+                  "text": "Ein unterhaltsamer Minigolfplatz in La Chaux-de-Fonds für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        6.801439,
+                        47.088152
+                  ]
+            },
+            {
+                  "name": "Place des Jeux des Forges",
+                  "text": "Ein gut ausgestatteter Spielplatz in La Chaux-de-Fonds zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        6.806148,
+                        47.091662
+                  ]
+            },
+            {
+                  "name": "Place des Lilas",
+                  "text": "Ein freundlicher Spielplatz in La Chaux-de-Fonds in grüner Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        6.830772,
+                        47.104479
+                  ]
+            },
+            {
+                  "name": "Jardin Henriette Grandjean",
+                  "text": "Ein ruhiger Spielbereich in La Chaux-de-Fonds, ideal für Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.823525,
+                        47.104312
+                  ]
+            },
+            {
+                  "name": "Parc de l'Ouest",
+                  "text": "Ein öffentlicher Spielplatz in La Chaux-de-Fonds mit Platz zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        6.826623,
+                        47.102724
+                  ]
+            },
+            {
+                  "name": "Parc du Paddock",
+                  "text": "Ein schöner Ort für Kinder in La Chaux-de-Fonds zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        6.816964,
+                        47.090701
+                  ]
+            },
+            {
+                  "name": "Fabrikgarten Spillmann",
+                  "text": "Der Jardin de la Fabrique Spillmann ist eine Gartenanlage in La Chaux-de-Fonds. Er lädt zu einem ruhigen Spaziergang im Freien ein.",
+                  "category": "park",
+                  "coords": [
+                        6.827292,
+                        47.10675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anciens abattoirs",
+                  "text": "Egykori vágóhíd-komplexum, amely ma kortárs művészeti központként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        6.814863,
+                        47.091357
+                  ]
+            },
+            {
+                  "name": "Synagogue de La Chaux-de-Fonds",
+                  "text": "Történelmi zsinagóga La Chaux-de-Fonds-ban, jellegzetes bizánci stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        6.824336,
+                        47.100751
+                  ]
+            },
+            {
+                  "name": "La Maison Blanche",
+                  "text": "Le Corbusier első, szülei számára tervezett háza, más néven Villa Jeanneret-Perret.",
+                  "category": "landmark",
+                  "coords": [
+                        6.815673,
+                        47.106234
+                  ]
+            },
+            {
+                  "name": "Villa Fallet",
+                  "text": "Le Corbusier korai lakóháza, amely a regionális „fenyő stílust” (Style Sapin) képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        6.816701,
+                        47.105075
+                  ]
+            },
+            {
+                  "name": "Villa Turque",
+                  "text": "A Villa Schwob néven is ismert épület Le Corbusier egyik jelentős korai modern villája.",
+                  "category": "landmark",
+                  "coords": [
+                        6.817022,
+                        47.09958
+                  ]
+            },
+            {
+                  "name": "Bois du Petit-Château",
+                  "text": "Városi állatkert és park La Chaux-de-Fonds-ban, amely a helyi és regionális vadvilágra összpontosít.",
+                  "category": "family",
+                  "coords": [
+                        6.822296,
+                        47.105579
+                  ]
+            },
+            {
+                  "name": "Musée paysan et artisanal",
+                  "text": "A Neuchâtel-hegység hagyományos paraszti életét és kézművességét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        6.813044,
+                        47.089485
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire",
+                  "text": "Helytörténeti múzeum La Chaux-de-Fonds-ban, amely a város fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.830601,
+                        47.100653
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Szépművészeti múzeum La Chaux-de-Fonds-ban, jelentős svájci és nemzetközi művészeti gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        6.829352,
+                        47.100457
+                  ]
+            },
+            {
+                  "name": "L'Heure bleue",
+                  "text": "Neoklasszicista színház La Chaux-de-Fonds-ban, amely akusztikájáról és előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        6.828927,
+                        47.101796
+                  ]
+            },
+            {
+                  "name": "Théâtre des Abeilles",
+                  "text": "Helyi színház La Chaux-de-Fonds-ban, amely különféle produkcióknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.820288,
+                        47.100365
+                  ]
+            },
+            {
+                  "name": "Grand Temple",
+                  "text": "Jelentős protestáns templom La Chaux-de-Fonds központjában.",
+                  "category": "religious",
+                  "coords": [
+                        6.833083,
+                        47.104139
+                  ]
+            },
+            {
+                  "name": "Temple Farel",
+                  "text": "Vallási szertartásoknak helyet adó templom La Chaux-de-Fonds-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.827047,
+                        47.105577
+                  ]
+            },
+            {
+                  "name": "Saint-Jean",
+                  "text": "Vallási épület La Chaux-de-Fonds-ban, közösségi szertartások és események helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        6.822931,
+                        47.092037
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Paix",
+                  "text": "Vallási szolgáltatásokat nyújtó templom La Chaux-de-Fonds-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.821622,
+                        47.094943
+                  ]
+            },
+            {
+                  "name": "Villa Jaquemet",
+                  "text": "Figyelemre méltó villa La Chaux-de-Fonds-ban, amely a helyi építészeti stílusokat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        6.815692,
+                        47.105033
+                  ]
+            },
+            {
+                  "name": "Gros Crêt",
+                  "text": "A természetkedvelők La Chaux-de-Fonds közelében találják a Gros Crêt hegycsúcsot. Erről a svájci természeti magaslatról a látogatóknak csodálatos kilátásuk nyílik a lenyűgöző Jura-vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        6.800199,
+                        47.109042
+                  ]
+            },
+            {
+                  "name": "Muzoo",
+                  "text": "Múzeum La Chaux-de-Fonds-ban, amely az állatkert és a természettudományi komplexum része.",
+                  "category": "museum",
+                  "coords": [
+                        6.823629,
+                        47.105449
+                  ]
+            },
+            {
+                  "name": "Musée des civilisations de l'Islam",
+                  "text": "Az iszlám világ sokszínű kultúráinak és civilizációinak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        6.820705,
+                        47.097001
+                  ]
+            },
+            {
+                  "name": "La Demoiselle",
+                  "text": "Művészeti galéria La Chaux-de-Fonds-ban, amely kortárs alkotók munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.83214,
+                        47.104574
+                  ]
+            },
+            {
+                  "name": "Ancien tunnel ferroviaire désaffecté",
+                  "text": "Egy régi, használaton kívüli vasúti alagút maradványai La Chaux-de-Fonds-ban.",
+                  "category": "historical",
+                  "coords": [
+                        6.868908,
+                        47.097502
+                  ]
+            },
+            {
+                  "name": "La Turlutaine",
+                  "text": "Kisméretű színház és bábszínház La Chaux-de-Fonds-ban, kreatív előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        6.82596,
+                        47.106106
+                  ]
+            },
+            {
+                  "name": "Zap Théâtre",
+                  "text": "Helyi előadótér La Chaux-de-Fonds-ban, amely színházi és komédiai előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.819404,
+                        47.099016
+                  ]
+            },
+            {
+                  "name": "Temple Allemand",
+                  "text": "Kulturális és színházi helyszín egy egykori német templom épületében La Chaux-de-Fonds-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.828507,
+                        47.106562
+                  ]
+            },
+            {
+                  "name": "Atelier Grand Cargo",
+                  "text": "Egy helyi színház La Chaux-de-Fonds-ban, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.8392,
+                        47.105747
+                  ]
+            },
+            {
+                  "name": "Cosmo Table & Bar",
+                  "text": "Színházi előadásoknak és vendéglátásnak helyet adó helyszín La Chaux-de-Fonds-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.822788,
+                        47.098784
+                  ]
+            },
+            {
+                  "name": "Théâtre populaire romand",
+                  "text": "La Chaux-de-Fonds jelentős regionális színháza, amely változatos programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        6.830006,
+                        47.097808
+                  ]
+            },
+            {
+                  "name": "La Coquille",
+                  "text": "Kulturális tevékenységeknek és művészeteknek helyet adó központ La Chaux-de-Fonds-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.830083,
+                        47.10552
+                  ]
+            },
+            {
+                  "name": "La Locomotive",
+                  "text": "Egy élénk kulturális központ La Chaux-de-Fonds-ban a különféle művészeti ágak számára.",
+                  "category": "cultural",
+                  "coords": [
+                        6.819916,
+                        47.094572
+                  ]
+            },
+            {
+                  "name": "Cerf élaphes",
+                  "text": "A gímszarvas az egyik őshonos állatfaj, amely látható ebben a La Chaux-de-Fonds-i parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.821273,
+                        47.105664
+                  ]
+            },
+            {
+                  "name": "Lac de Moron",
+                  "text": "Lenyűgöző határtó La Chaux-de-Fonds közelében, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        6.730716,
+                        47.094312
+                  ]
+            },
+            {
+                  "name": "Lac de Biaufond",
+                  "text": "Csendes tó La Chaux-de-Fonds közelében, ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        6.849436,
+                        47.168646
+                  ]
+            },
+            {
+                  "name": "La Sombaille",
+                  "text": "Gondozott játszótér La Chaux-de-Fonds területén kisgyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        6.826467,
+                        47.113212
+                  ]
+            },
+            {
+                  "name": "Fun Magic",
+                  "text": "Szórakoztató minigolfpálya La Chaux-de-Fonds városában az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        6.801439,
+                        47.088152
+                  ]
+            },
+            {
+                  "name": "Place des Jeux des Forges",
+                  "text": "Jól felszerelt játszótér La Chaux-de-Fonds területén a hancúrozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        6.806148,
+                        47.091662
+                  ]
+            },
+            {
+                  "name": "Place des Lilas",
+                  "text": "Barátságos játszótér La Chaux-de-Fonds területén, zöld környezetben.",
+                  "category": "family",
+                  "coords": [
+                        6.830772,
+                        47.104479
+                  ]
+            },
+            {
+                  "name": "Jardin Henriette Grandjean",
+                  "text": "Csendes játszóterület La Chaux-de-Fonds-ban, ideális családoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.823525,
+                        47.104312
+                  ]
+            },
+            {
+                  "name": "Parc de l'Ouest",
+                  "text": "Nyilvános játszótér La Chaux-de-Fonds-ban, tágas helyet kínálva a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.826623,
+                        47.102724
+                  ]
+            },
+            {
+                  "name": "Parc du Paddock",
+                  "text": "Szép hely gyerekeknek La Chaux-de-Fonds területén a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        6.816964,
+                        47.090701
+                  ]
+            },
+            {
+                  "name": "Jardin de la Fabrique Spillmann",
+                  "text": "A Jardin de la Fabrique Spillmann egy kert La Chaux-de-Fonds városában. Kellemes helyszín egy nyugodt szabadtéri sétához.",
+                  "category": "park",
+                  "coords": [
+                        6.827292,
+                        47.10675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anciens abattoirs",
+                  "text": "Un fost complex industrial de abatoare care servește acum ca centru de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        6.814863,
+                        47.091357
+                  ]
+            },
+            {
+                  "name": "Synagogue de La Chaux-de-Fonds",
+                  "text": "O sinagogă istorică din La Chaux-de-Fonds, construită într-un stil bizantin distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        6.824336,
+                        47.100751
+                  ]
+            },
+            {
+                  "name": "La Maison Blanche",
+                  "text": "Prima casă proiectată de Le Corbusier pentru părinții săi, cunoscută și sub numele de Villa Jeanneret-Perret.",
+                  "category": "landmark",
+                  "coords": [
+                        6.815673,
+                        47.106234
+                  ]
+            },
+            {
+                  "name": "Villa Fallet",
+                  "text": "O lucrare rezidențială timpurie a lui Le Corbusier, care prezintă stilul regional „Style Sapin”.",
+                  "category": "landmark",
+                  "coords": [
+                        6.816701,
+                        47.105075
+                  ]
+            },
+            {
+                  "name": "Villa Turque",
+                  "text": "Cunoscută și sub numele de Villa Schwob, aceasta este o vilă modernistă timpurie semnificativă proiectată de Le Corbusier.",
+                  "category": "landmark",
+                  "coords": [
+                        6.817022,
+                        47.09958
+                  ]
+            },
+            {
+                  "name": "Bois du Petit-Château",
+                  "text": "O grădină zoologică municipală și un parc din La Chaux-de-Fonds axate pe fauna locală și regională.",
+                  "category": "family",
+                  "coords": [
+                        6.822296,
+                        47.105579
+                  ]
+            },
+            {
+                  "name": "Musée paysan et artisanal",
+                  "text": "Un muzeu dedicat vieții rurale tradiționale și meșteșugurilor din munții Neuchâtel.",
+                  "category": "museum",
+                  "coords": [
+                        6.813044,
+                        47.089485
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire",
+                  "text": "Un muzeu din La Chaux-de-Fonds care urmărește istoria locală și dezvoltarea orașului.",
+                  "category": "museum",
+                  "coords": [
+                        6.830601,
+                        47.100653
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Un muzeu de artă din La Chaux-de-Fonds care deține o colecție semnificativă de artă elvețiană și internațională.",
+                  "category": "museum",
+                  "coords": [
+                        6.829352,
+                        47.100457
+                  ]
+            },
+            {
+                  "name": "L'Heure bleue",
+                  "text": "Un teatru neoclasic din La Chaux-de-Fonds, cunoscut pentru acustica și spectacolele sale.",
+                  "category": "cultural",
+                  "coords": [
+                        6.828927,
+                        47.101796
+                  ]
+            },
+            {
+                  "name": "Théâtre des Abeilles",
+                  "text": "Un teatru local din La Chaux-de-Fonds care găzduiește diverse producții scenice și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        6.820288,
+                        47.100365
+                  ]
+            },
+            {
+                  "name": "Grand Temple",
+                  "text": "O biserică protestantă proeminentă situată în centrul orașului La Chaux-de-Fonds.",
+                  "category": "religious",
+                  "coords": [
+                        6.833083,
+                        47.104139
+                  ]
+            },
+            {
+                  "name": "Temple Farel",
+                  "text": "Un lăcaș de cult din La Chaux-de-Fonds dedicat serviciilor religioase.",
+                  "category": "religious",
+                  "coords": [
+                        6.827047,
+                        47.105577
+                  ]
+            },
+            {
+                  "name": "Saint-Jean",
+                  "text": "O clădire religioasă din La Chaux-de-Fonds folosită pentru slujbe și evenimente comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        6.822931,
+                        47.092037
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Paix",
+                  "text": "Un lăcaș de cult din La Chaux-de-Fonds care oferă servicii spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        6.821622,
+                        47.094943
+                  ]
+            },
+            {
+                  "name": "Villa Jaquemet",
+                  "text": "O vilă notabilă din La Chaux-de-Fonds care prezintă stiluri arhitecturale regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        6.815692,
+                        47.105033
+                  ]
+            },
+            {
+                  "name": "Gros Crêt",
+                  "text": "Pasionații de natură vor găsi vârful montan Gros Crêt în apropiere de La Chaux-de-Fonds. De pe această înălțime naturală din Elveția, vizitatorii au o vedere minunată asupra fascinantului peisaj din Jura.",
+                  "category": "natural",
+                  "coords": [
+                        6.800199,
+                        47.109042
+                  ]
+            },
+            {
+                  "name": "Muzoo",
+                  "text": "Un muzeu din La Chaux-de-Fonds, parte a complexului zoologic și de istorie naturală.",
+                  "category": "museum",
+                  "coords": [
+                        6.823629,
+                        47.105449
+                  ]
+            },
+            {
+                  "name": "Musée des civilisations de l'Islam",
+                  "text": "Un muzeu dedicat diverselor culturi și civilizații ale lumii islamice.",
+                  "category": "museum",
+                  "coords": [
+                        6.820705,
+                        47.097001
+                  ]
+            },
+            {
+                  "name": "La Demoiselle",
+                  "text": "O galerie de artă din La Chaux-de-Fonds care expune lucrări ale artiștilor contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        6.83214,
+                        47.104574
+                  ]
+            },
+            {
+                  "name": "Ancien tunnel ferroviaire désaffecté",
+                  "text": "Vestigiile unui vechi tunel feroviar dezafectat din La Chaux-de-Fonds.",
+                  "category": "historical",
+                  "coords": [
+                        6.868908,
+                        47.097502
+                  ]
+            },
+            {
+                  "name": "La Turlutaine",
+                  "text": "Un mic teatru și casă de păpuși din La Chaux-de-Fonds care oferă spectacole creative.",
+                  "category": "cultural",
+                  "coords": [
+                        6.82596,
+                        47.106106
+                  ]
+            },
+            {
+                  "name": "Zap Théâtre",
+                  "text": "Un spațiu local de spectacole din La Chaux-de-Fonds care găzduiește piese de teatru și spectacole de comedie.",
+                  "category": "cultural",
+                  "coords": [
+                        6.819404,
+                        47.099016
+                  ]
+            },
+            {
+                  "name": "Temple Allemand",
+                  "text": "Un loc cultural și teatral găzduit într-un fost templu german din La Chaux-de-Fonds.",
+                  "category": "cultural",
+                  "coords": [
+                        6.828507,
+                        47.106562
+                  ]
+            },
+            {
+                  "name": "Atelier Grand Cargo",
+                  "text": "Un teatru local din La Chaux-de-Fonds care găzduiește diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        6.8392,
+                        47.105747
+                  ]
+            },
+            {
+                  "name": "Cosmo Table & Bar",
+                  "text": "Un loc de desfășurare pentru teatru și gastronomie în La Chaux-de-Fonds.",
+                  "category": "cultural",
+                  "coords": [
+                        6.822788,
+                        47.098784
+                  ]
+            },
+            {
+                  "name": "Théâtre populaire romand",
+                  "text": "Un teatru regional important din La Chaux-de-Fonds, cu un program diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        6.830006,
+                        47.097808
+                  ]
+            },
+            {
+                  "name": "La Coquille",
+                  "text": "Un centru pentru activități culturale și artă în La Chaux-de-Fonds.",
+                  "category": "cultural",
+                  "coords": [
+                        6.830083,
+                        47.10552
+                  ]
+            },
+            {
+                  "name": "La Locomotive",
+                  "text": "Un centru cultural plin de viață în La Chaux-de-Fonds pentru diverse forme de exprimare artistică.",
+                  "category": "cultural",
+                  "coords": [
+                        6.819916,
+                        47.094572
+                  ]
+            },
+            {
+                  "name": "Cerf élaphes",
+                  "text": "Cerbul comun este una dintre speciile autohtone care pot fi văzute în acest parc din La Chaux-de-Fonds.",
+                  "category": "landmark",
+                  "coords": [
+                        6.821273,
+                        47.105664
+                  ]
+            },
+            {
+                  "name": "Lac de Moron",
+                  "text": "Un lac de frontieră impresionant lângă La Chaux-de-Fonds, cu vederi frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        6.730716,
+                        47.094312
+                  ]
+            },
+            {
+                  "name": "Lac de Biaufond",
+                  "text": "Un lac liniștit lângă La Chaux-de-Fonds, ideal pentru plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        6.849436,
+                        47.168646
+                  ]
+            },
+            {
+                  "name": "La Sombaille",
+                  "text": "Un teren de joacă bine întreținut în La Chaux-de-Fonds pentru copiii mici.",
+                  "category": "family",
+                  "coords": [
+                        6.826467,
+                        47.113212
+                  ]
+            },
+            {
+                  "name": "Fun Magic",
+                  "text": "Un teren de minigolf distractiv în La Chaux-de-Fonds pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        6.801439,
+                        47.088152
+                  ]
+            },
+            {
+                  "name": "Place des Jeux des Forges",
+                  "text": "Un teren de joacă bine echipat în La Chaux-de-Fonds pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.806148,
+                        47.091662
+                  ]
+            },
+            {
+                  "name": "Place des Lilas",
+                  "text": "Un teren de joacă prietenos în La Chaux-de-Fonds, într-un mediu verde.",
+                  "category": "family",
+                  "coords": [
+                        6.830772,
+                        47.104479
+                  ]
+            },
+            {
+                  "name": "Jardin Henriette Grandjean",
+                  "text": "O zonă de joacă liniștită în La Chaux-de-Fonds, ideală pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.823525,
+                        47.104312
+                  ]
+            },
+            {
+                  "name": "Parc de l'Ouest",
+                  "text": "Un teren de joacă public în La Chaux-de-Fonds cu spațiu pentru joacă.",
+                  "category": "family",
+                  "coords": [
+                        6.826623,
+                        47.102724
+                  ]
+            },
+            {
+                  "name": "Parc du Paddock",
+                  "text": "Un loc frumos pentru copii în La Chaux-de-Fonds pentru joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        6.816964,
+                        47.090701
+                  ]
+            },
+            {
+                  "name": "Jardin de la Fabrique Spillmann",
+                  "text": "Jardin de la Fabrique Spillmann este o grădină în La Chaux-de-Fonds. Este un loc plăcut pentru o plimbare liniștită în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        6.827292,
+                        47.10675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anciens abattoirs",
+                  "text": "A former industrial slaughterhouse complex now serving as a contemporary arts center.",
+                  "category": "cultural",
+                  "coords": [
+                        6.814863,
+                        47.091357
+                  ]
+            },
+            {
+                  "name": "Synagogue de La Chaux-de-Fonds",
+                  "text": "A historical synagogue in La Chaux-de-Fonds built in a distinctive Byzantine style.",
+                  "category": "religious",
+                  "coords": [
+                        6.824336,
+                        47.100751
+                  ]
+            },
+            {
+                  "name": "La Maison Blanche",
+                  "text": "The first house designed by Le Corbusier for his parents, also known as Villa Jeanneret-Perret.",
+                  "category": "landmark",
+                  "coords": [
+                        6.815673,
+                        47.106234
+                  ]
+            },
+            {
+                  "name": "Villa Fallet",
+                  "text": "An early residential work by Le Corbusier, showcasing the regional \"Style Sapin.\"",
+                  "category": "landmark",
+                  "coords": [
+                        6.816701,
+                        47.105075
+                  ]
+            },
+            {
+                  "name": "Villa Turque",
+                  "text": "Also known as Villa Schwob, this is a significant early modern villa designed by Le Corbusier.",
+                  "category": "landmark",
+                  "coords": [
+                        6.817022,
+                        47.09958
+                  ]
+            },
+            {
+                  "name": "Bois du Petit-Château",
+                  "text": "A municipal zoo and park in La Chaux-de-Fonds focusing on local and regional wildlife.",
+                  "category": "family",
+                  "coords": [
+                        6.822296,
+                        47.105579
+                  ]
+            },
+            {
+                  "name": "Musée paysan et artisanal",
+                  "text": "A museum dedicated to the traditional rural life and handicrafts of the Neuchâtel mountains.",
+                  "category": "museum",
+                  "coords": [
+                        6.813044,
+                        47.089485
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire",
+                  "text": "A museum in La Chaux-de-Fonds tracing the local history and development of the city.",
+                  "category": "museum",
+                  "coords": [
+                        6.830601,
+                        47.100653
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "An art museum in La Chaux-de-Fonds featuring a significant collection of Swiss and international art.",
+                  "category": "museum",
+                  "coords": [
+                        6.829352,
+                        47.100457
+                  ]
+            },
+            {
+                  "name": "L'Heure bleue",
+                  "text": "A neoclassical theater in La Chaux-de-Fonds known for its acoustics and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.828927,
+                        47.101796
+                  ]
+            },
+            {
+                  "name": "Théâtre des Abeilles",
+                  "text": "A local theater in La Chaux-de-Fonds hosting various stage productions and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        6.820288,
+                        47.100365
+                  ]
+            },
+            {
+                  "name": "Grand Temple",
+                  "text": "A prominent Protestant church in the center of La Chaux-de-Fonds.",
+                  "category": "religious",
+                  "coords": [
+                        6.833083,
+                        47.104139
+                  ]
+            },
+            {
+                  "name": "Temple Farel",
+                  "text": "A place of worship in La Chaux-de-Fonds dedicated to religious services.",
+                  "category": "religious",
+                  "coords": [
+                        6.827047,
+                        47.105577
+                  ]
+            },
+            {
+                  "name": "Saint-Jean",
+                  "text": "A religious building in La Chaux-de-Fonds used for community worship and events.",
+                  "category": "religious",
+                  "coords": [
+                        6.822931,
+                        47.092037
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Paix",
+                  "text": "A place of worship in La Chaux-de-Fonds providing spiritual services.",
+                  "category": "religious",
+                  "coords": [
+                        6.821622,
+                        47.094943
+                  ]
+            },
+            {
+                  "name": "Villa Jaquemet",
+                  "text": "A notable villa in La Chaux-de-Fonds showcasing regional architectural styles.",
+                  "category": "landmark",
+                  "coords": [
+                        6.815692,
+                        47.105033
+                  ]
+            },
+            {
+                  "name": "Gros Crêt",
+                  "text": "Nature enthusiasts will find the Gros Crêt mountain peak near La Chaux-de-Fonds. From this natural elevation in Switzerland, visitors have a wonderful view of the fascinating Jura landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.800199,
+                        47.109042
+                  ]
+            },
+            {
+                  "name": "Muzoo",
+                  "text": "A museum in La Chaux-de-Fonds part of the zoo and natural history complex.",
+                  "category": "museum",
+                  "coords": [
+                        6.823629,
+                        47.105449
+                  ]
+            },
+            {
+                  "name": "Musée des civilisations de l'Islam",
+                  "text": "A museum dedicated to the diverse cultures and civilizations of the Islamic world.",
+                  "category": "museum",
+                  "coords": [
+                        6.820705,
+                        47.097001
+                  ]
+            },
+            {
+                  "name": "La Demoiselle",
+                  "text": "An art gallery in La Chaux-de-Fonds showcasing works by contemporary artists.",
+                  "category": "museum",
+                  "coords": [
+                        6.83214,
+                        47.104574
+                  ]
+            },
+            {
+                  "name": "Ancien tunnel ferroviaire désaffecté",
+                  "text": "The remains of an old, disused railway tunnel in La Chaux-de-Fonds.",
+                  "category": "historical",
+                  "coords": [
+                        6.868908,
+                        47.097502
+                  ]
+            },
+            {
+                  "name": "La Turlutaine",
+                  "text": "A small theater and puppet house in La Chaux-de-Fonds offering creative performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.82596,
+                        47.106106
+                  ]
+            },
+            {
+                  "name": "Zap Théâtre",
+                  "text": "A local performance space in La Chaux-de-Fonds hosting theater and comedy shows.",
+                  "category": "cultural",
+                  "coords": [
+                        6.819404,
+                        47.099016
+                  ]
+            },
+            {
+                  "name": "Temple Allemand",
+                  "text": "A cultural and theatrical venue housed in a former German temple in La Chaux-de-Fonds.",
+                  "category": "cultural",
+                  "coords": [
+                        6.828507,
+                        47.106562
+                  ]
+            },
+            {
+                  "name": "Atelier Grand Cargo",
+                  "text": "A local theatre in La Chaux-de-Fonds hosting various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.8392,
+                        47.105747
+                  ]
+            },
+            {
+                  "name": "Cosmo Table & Bar",
+                  "text": "A venue for theatre and dining in La Chaux-de-Fonds.",
+                  "category": "cultural",
+                  "coords": [
+                        6.822788,
+                        47.098784
+                  ]
+            },
+            {
+                  "name": "Théâtre populaire romand",
+                  "text": "A significant regional theatre in La Chaux-de-Fonds offering a diverse program.",
+                  "category": "cultural",
+                  "coords": [
+                        6.830006,
+                        47.097808
+                  ]
+            },
+            {
+                  "name": "La Coquille",
+                  "text": "A center for cultural activities and art in La Chaux-de-Fonds.",
+                  "category": "cultural",
+                  "coords": [
+                        6.830083,
+                        47.10552
+                  ]
+            },
+            {
+                  "name": "La Locomotive",
+                  "text": "A lively cultural center in La Chaux-de-Fonds for various artistic expressions.",
+                  "category": "cultural",
+                  "coords": [
+                        6.819916,
+                        47.094572
+                  ]
+            },
+            {
+                  "name": "Cerf élaphes",
+                  "text": "Red deer is one of the native species that can be seen in this park in La Chaux-de-Fonds.",
+                  "category": "landmark",
+                  "coords": [
+                        6.821273,
+                        47.105664
+                  ]
+            },
+            {
+                  "name": "Lac de Moron",
+                  "text": "An impressive border lake near La Chaux-de-Fonds with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        6.730716,
+                        47.094312
+                  ]
+            },
+            {
+                  "name": "Lake Biaufond",
+                  "text": "A quiet lake near La Chaux-de-Fonds, ideal for walks.",
+                  "category": "natural",
+                  "coords": [
+                        6.849436,
+                        47.168646
+                  ]
+            },
+            {
+                  "name": "La Sombaille",
+                  "text": "A well-maintained playground in La Chaux-de-Fonds for small children.",
+                  "category": "family",
+                  "coords": [
+                        6.826467,
+                        47.113212
+                  ]
+            },
+            {
+                  "name": "Fun Magic",
+                  "text": "A fun miniature golf course in La Chaux-de-Fonds for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        6.801439,
+                        47.088152
+                  ]
+            },
+            {
+                  "name": "Place des Jeux des Forges",
+                  "text": "A well-equipped playground in La Chaux-de-Fonds for active play.",
+                  "category": "family",
+                  "coords": [
+                        6.806148,
+                        47.091662
+                  ]
+            },
+            {
+                  "name": "Place des Lilas",
+                  "text": "A friendly playground in La Chaux-de-Fonds in green surroundings.",
+                  "category": "family",
+                  "coords": [
+                        6.830772,
+                        47.104479
+                  ]
+            },
+            {
+                  "name": "Jardin Henriette Grandjean",
+                  "text": "A peaceful play area in La Chaux-de-Fonds, ideal for families.",
+                  "category": "family",
+                  "coords": [
+                        6.823525,
+                        47.104312
+                  ]
+            },
+            {
+                  "name": "Parc de l'Ouest",
+                  "text": "A public playground in La Chaux-de-Fonds with room for play.",
+                  "category": "family",
+                  "coords": [
+                        6.826623,
+                        47.102724
+                  ]
+            },
+            {
+                  "name": "Parc du Paddock",
+                  "text": "A nice spot for children in La Chaux-de-Fonds to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        6.816964,
+                        47.090701
+                  ]
+            },
+            {
+                  "name": "Jardin de la Fabrique Spillmann",
+                  "text": "Jardin de la Fabrique Spillmann is a garden in La Chaux-de-Fonds. It invites visitors for a peaceful outdoor stroll.",
+                  "category": "park",
+                  "coords": [
+                        6.827292,
+                        47.10675
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CH",
     name: { de: "La Chaux-de-Fonds", hu: "La Chaux-de-Fonds", ro: "La Chaux-de-Fonds", en: "La Chaux-de-Fonds" },
@@ -23755,6 +25204,15 @@ export const switzerlandCitiesV2: POI[] = [
                         7.049256,
                         46.624181
                   ]
+            },
+            {
+                  "name": "CO2",
+                  "text": "Das CO2 ist ein modernes Theater in Bulle, das für verschiedene kulturelle Aufführungen und Veranstaltungen genutzt wird. Es bietet eine Bühne für Konzerte, Theaterstücke und lokale Events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.06061,
+                        46.605798
+                  ]
             }
       ],
       "hu": [
@@ -23891,6 +25349,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         7.049256,
                         46.624181
+                  ]
+            },
+            {
+                  "name": "CO2",
+                  "text": "A CO2 egy modern színház Bulle városában, amely különféle kulturális előadásoknak és rendezvényeknek ad otthont. Koncertek, színdarabok és helyi események számára kínál helyszínt.",
+                  "category": "cultural",
+                  "coords": [
+                        7.06061,
+                        46.605798
                   ]
             }
       ],
@@ -24029,6 +25496,15 @@ export const switzerlandCitiesV2: POI[] = [
                         7.049256,
                         46.624181
                   ]
+            },
+            {
+                  "name": "CO2",
+                  "text": "CO2 este un teatru modern din Bulle, utilizat pentru diverse spectacole și evenimente culturale. Oferă o scenă pentru concerte, piese de teatru și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.06061,
+                        46.605798
+                  ]
             }
       ],
       "en": [
@@ -24165,6 +25641,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         7.049256,
                         46.624181
+                  ]
+            },
+            {
+                  "name": "CO2",
+                  "text": "CO2 is a modern theatre in Bulle used for various cultural performances and events. It provides a venue for concerts, plays, and local community events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.06061,
+                        46.605798
                   ]
             }
       ]
@@ -27265,6 +28750,15 @@ export const switzerlandCitiesV2: POI[] = [
                         7.560357,
                         47.52138
                   ]
+            },
+            {
+                  "name": "Heimatmuseum des Schwarzbubenlandes",
+                  "text": "Das Heimatmuseum des Schwarzbubenlandes in Reinach zeigt interessante Ausstellungen zur lokalen Geschichte und Kultur. Die Sammlung bietet Besuchern einen vertieften Einblick in fachspezifische Themen.",
+                  "category": "museum",
+                  "coords": [
+                        7.616451,
+                        47.478648
+                  ]
             }
       ],
       "hu": [
@@ -27572,6 +29066,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         7.560357,
                         47.52138
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum des Schwarzbubenlandes",
+                  "text": "A Reinach területén működő Heimatmuseum des Schwarzbubenlandes érdekes kiállításokat mutat be a helyi történelemről und kultúráról. A gyűjtemény mélyebb betekintést nyújt a látogatóknak a speciális témákba.",
+                  "category": "museum",
+                  "coords": [
+                        7.616451,
+                        47.478648
                   ]
             }
       ],
@@ -27881,6 +29384,15 @@ export const switzerlandCitiesV2: POI[] = [
                         7.560357,
                         47.52138
                   ]
+            },
+            {
+                  "name": "Heimatmuseum des Schwarzbubenlandes",
+                  "text": "Heimatmuseum des Schwarzbubenlandes din Reinach prezintă expoziții interesante despre istoria și cultura locală. Colecția oferă vizitatorilor o perspectivă aprofundată asupra unor teme specifice.",
+                  "category": "museum",
+                  "coords": [
+                        7.616451,
+                        47.478648
+                  ]
             }
       ],
       "en": [
@@ -28188,6 +29700,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         7.560357,
                         47.52138
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum des Schwarzbubenlandes",
+                  "text": "The Heimatmuseum des Schwarzbubenlandes in Reinach presents interesting exhibitions on local history and culture. The collection offers visitors a deeper insight into specialized topics.",
+                  "category": "museum",
+                  "coords": [
+                        7.616451,
+                        47.478648
                   ]
             }
       ]
@@ -33646,6 +35167,15 @@ export const switzerlandCitiesV2: POI[] = [
                         7.595512,
                         47.530953
                   ]
+            },
+            {
+                  "name": "KUSPO Münchenstein",
+                  "text": "Das KUSPO Münchenstein in Muttenz ist ein vielseitiges Sport- und Kulturzentrum. Es bietet moderne Anlagen für sportliche Aktivitäten sowie Räumlichkeiten für gesellschaftliche Anlässe und Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.616632,
+                        47.520427
+                  ]
             }
       ],
       "hu": [
@@ -33971,6 +35501,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         7.595512,
                         47.530953
+                  ]
+            },
+            {
+                  "name": "KUSPO Münchenstein",
+                  "text": "A muttenzi KUSPO Münchenstein egy sokoldalú sport- és kulturális központ. Modern létesítményeket kínál sporttevékenységekhez, valamint helyiségeket társadalmi eseményekhez és rendezvényekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        7.616632,
+                        47.520427
                   ]
             }
       ],
@@ -34298,6 +35837,15 @@ export const switzerlandCitiesV2: POI[] = [
                         7.595512,
                         47.530953
                   ]
+            },
+            {
+                  "name": "KUSPO Münchenstein",
+                  "text": "KUSPO Münchenstein din Muttenz este un centru sportiv și cultural versatil. Oferă facilități moderne pentru activități sportive, precum și spații pentru evenimente sociale și manifestări.",
+                  "category": "landmark",
+                  "coords": [
+                        7.616632,
+                        47.520427
+                  ]
             }
       ],
       "en": [
@@ -34623,6 +36171,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         7.595512,
                         47.530953
+                  ]
+            },
+            {
+                  "name": "KUSPO Münchenstein",
+                  "text": "The KUSPO Münchenstein in Muttenz is a versatile sports and cultural center. It offers modern facilities for sporting activities as well as rooms for social occasions and events.",
+                  "category": "landmark",
+                  "coords": [
+                        7.616632,
+                        47.520427
                   ]
             }
       ]
@@ -37425,7 +38982,2356 @@ export const switzerlandCitiesV2: POI[] = [
     image: "/poi-images/switzerland-herisau-cities-v2.webp",
   },
   {
-    id: "switzerland-kreuzlingen-cities-v2", "sights": {"de": [{"name": "Schloss Ebersberg", "text": "Ein historisches Schloss im Thurgau, ehemals eine mittelalterliche Festung.", "category": "castle", "coords": [9.154067, 47.642882]}, {"name": "Städtische Wessenberg Galerie", "text": "Eine städtische Kunstgalerie in Konstanz, die regionale und moderne Kunst zeigt.", "category": "museum", "coords": [9.175074, 47.663305]}, {"name": "Bodensee-Naturmuseum", "text": "Ein Museum zur Naturgeschichte und Ökologie des Bodensees.", "category": "museum", "coords": [9.180583, 47.657108]}, {"name": "Konventbau des ehemaligen Benediktinerklosters Petershausen", "text": "Ein ehemaliges Benediktinerkloster in Konstanz, das heute Kulturinstitute beherbergt.", "category": "museum", "coords": [9.178877, 47.668187]}, {"name": "Schloss Brunnegg", "text": "Ein neugotisches Schlossgebäude in Kreuzlingen, umgeben von einem Park.", "category": "castle", "coords": [9.152155, 47.64681]}, {"name": "Schloss Römerburg", "text": "Ein historisches Herrenhaus in Kreuzlingen mit markanten architektonischen Merkmalen.", "category": "castle", "coords": [9.181522, 47.641075]}, {"name": "Schloss Seeburg", "text": "Ein malerisches Schloss am Bodenseeufer im Seeburgpark.", "category": "castle", "coords": [9.186659, 47.649526]}, {"name": "Schloss Liebburg", "text": "Ein historisches Schloss im Thurgau, bekannt für seinen spätgotischen Stil.", "category": "castle", "coords": [9.202418, 47.625454]}, {"name": "Theater Konstanz", "text": "Deutschlands ältestes durchgehend bespieltes Theater im Herzen von Konstanz.", "category": "cultural", "coords": [9.177177, 47.663918]}, {"name": "St. Gebhardskirche", "text": "Eine katholische Pfarrkirche im Konstanzer Stadtteil Petershausen.", "category": "religious", "coords": [9.18321, 47.6708]}, {"name": "Lutherkirche", "text": "Eine evangelische Kirche in Konstanz, die für ihre moderne Glasmalerei bekannt ist.", "category": "religious", "coords": [9.171308, 47.661448]}, {"name": "Dreifaltigkeitskirche", "text": "Eine ehemalige Augustiner-Chorherrenstiftskirche mit bedeutender Innenausstattung.", "category": "religious", "coords": [9.174919, 47.658779]}, {"name": "Schottenkapelle", "text": "Eine kleine historische Kapelle, die dem heiligen Jakobus gewidmet ist.", "category": "religious", "coords": [9.173279, 47.666266]}, {"name": "Triumphbogen / Laubebrunnen", "text": "Ein moderner Brunnen von Peter Lenk, der humorvoll die Stadtgeschichte darstellt.", "category": "landmark", "coords": [9.172803, 47.66304]}, {"name": "BSB Konstanz", "text": "Die Bodensee-Schiffsbetriebe bieten Ausflugsfahrten auf dem gesamten See an.", "category": "landmark", "coords": [9.178268, 47.660199]}, {"name": "Alte Rheinbrücke", "text": "Die zentrale Brücke in Konstanz, die den Seerhein überspannt.", "category": "landmark", "coords": [9.178624, 47.666258]}, {"name": "Fahrradbrücke", "text": "Eine reine Brücke für Radfahrer und Fußgänger über den Seerhein.", "category": "landmark", "coords": [9.174029, 47.668247]}, {"name": "Schänzlebrücke", "text": "Eine bedeutende Straßenbrücke über den Rhein in Konstanz.", "category": "landmark", "coords": [9.162925, 47.669859]}, {"name": "Seeburgturm", "text": "Ein Aussichtsturm im Seeburgpark mit weitem Blick über den Bodensee.", "category": "natural", "coords": [9.18535, 47.652676]}, {"name": "Herosépark", "text": "Ein weitläufiger öffentlicher Park am Rheinufer in Konstanz.", "category": "park", "coords": [9.173696, 47.669639]}, {"name": "Hus-Museum Konstanz", "text": "Ein Museum im Wohnhaus des tschechischen Reformators Jan Hus.", "category": "museum", "coords": [9.170944, 47.658897]}, {"name": "Rosgartenmuseum", "text": "Ein Museum für Kunst und Kulturgeschichte der Bodenseeregion.", "category": "museum", "coords": [9.174765, 47.65979]}, {"name": "Schloss Girsberg", "text": "Ein historisches Schloss in Kreuzlingen, das heute privat genutzt wird.", "category": "castle", "coords": [9.150255, 47.645492]}, {"name": "Schloss Rosenegg", "text": "Ein Schlossgebäude, das heute das Museum Rosenegg beherbergt.", "category": "castle", "coords": [9.172018, 47.644271]}, {"name": "Schloss Bernegg", "text": "Ein markantes Schlossgut in der Nähe von Kreuzlingen.", "category": "castle", "coords": [9.159021, 47.64412]}, {"name": "Evangelische Kirche Kreuzlingen", "text": "Die evangelische Stadtkirche von Kreuzlingen.", "category": "religious", "coords": [9.173013, 47.644672]}, {"name": "Sankt Stefan", "text": "Eine bedeutende katholische Kirche in der Region Kreuzlingen.", "category": "religious", "coords": [9.16074, 47.646926]}, {"name": "Sankt Ulrich", "text": "Ein historischer Sakralbau in Kreuzlingen.", "category": "religious", "coords": [9.178657, 47.645771]}, {"name": "Wallfahrtskapelle Heiligkreuz", "text": "Eine traditionsreiche Kapelle, die Ziel von Wallfahrten ist.", "category": "religious", "coords": [9.156512, 47.637474]}, {"name": "Evangelische Kirche St. Peter", "text": "Eine evangelische Kirche in Kreuzlingen, dem heiligen Peter gewidmet.", "category": "religious", "coords": [9.195046, 47.640637]}, {"name": "Rheintorturm", "text": "Ein markanter mittelalterlicher Turm, der einst den Rheinübergang sicherte.", "category": "landmark", "coords": [9.17741, 47.666007]}, {"name": "Seemuseum", "text": "Ein Museum in Kreuzlingen, das sich der Schifffahrt und Fischerei widmet.", "category": "museum", "coords": [9.18908, 47.648819]}, {"name": "Dorfmuseum Bottighofen", "text": "Ein kleines Museum, das das dörfliche Leben früherer Zeiten zeigt.", "category": "museum", "coords": [9.212708, 47.640684]}, {"name": "Galerie Ernst", "text": "Die in Kreuzlingen gelegene Galerie Ernst ist ein bemerkenswerter Ort für Liebhaber zeitgenössischer Kunst. Diese Schweizer Galerie führt Besucher in ihren Räumen an eine Vielzahl moderner künstlerischer Ausdrucksformen heran. Gäste erwartet ein inspirierendes kulturelles Erlebnis, das sich auf zeitgenössische Ästhetik konzentriert.", "category": "museum", "coords": [9.174041, 47.657004]}, {"name": "Leica Galerie", "text": "Eine Galerie, die sich auf hochwertige Fotografie spezialisiert hat.", "category": "museum", "coords": [9.174708, 47.664596]}, {"name": "Walentowski Galerien", "text": "Eine Galerie mit einem breiten Angebot an moderner Kunst.", "category": "museum", "coords": [9.174244, 47.661401]}, {"name": "Kunstraum Kreuzlingen", "text": "Ein Ausstellungsort für moderne Kunst und Kulturprojekte.", "category": "museum", "coords": [9.175284, 47.651161]}, {"name": "Wehranlage Schlossbüel", "text": "Eine historische Wehranlage mit archäologischer Bedeutung.", "category": "historical", "coords": [9.152186, 47.63796]}, {"name": "Südwestdeutsche Philharmonie Konstanz", "text": "Ein renommiertes Orchester mit Sitz in Konstanz.", "category": "cultural", "coords": [9.177755, 47.66168]}, {"name": "See-Burgtheater", "text": "Ein Sommertheater am Ufer des Bodensees.", "category": "cultural", "coords": [9.188764, 47.649949]}, {"name": "Junges Theater Konstanz", "text": "Eine Sparte des Theaters Konstanz für ein junges Publikum.", "category": "cultural", "coords": [9.177877, 47.658152]}, {"name": "Kulturetage", "text": "Ein Zentrum für verschiedene kulturelle Veranstaltungen.", "category": "cultural", "coords": [9.172593, 47.660731]}, {"name": "Solgenia", "text": "Ein innovatives Projekt oder Gebäude in der Region.", "category": "landmark", "coords": [9.171518, 47.668412]}, {"name": "Riesenrad am See", "text": "Ein Riesenrad am Hafen, das im Sommer Panoramablicke bietet.", "category": "landmark", "coords": [9.17824, 47.656443]}, {"name": "Mühlweiher", "text": "Der Mühlweiher in Kreuzlingen ist ein ruhiges Gewässer, das zum Entspannen einlädt.", "category": "natural", "coords": [9.155826, 47.709688]}, {"name": "Undere Bommerweiher", "text": "Der Undere Bommerweiher bei Kreuzlingen ist Teil eines idyllischen Naturschutzgebiets.", "category": "natural", "coords": [9.149812, 47.617305]}, {"name": "Bruckgraben", "text": "Der Bruckgraben in Kreuzlingen ist ein lokales Gewässer in einer naturnahen Umgebung.", "category": "natural", "coords": [9.091518, 47.686893]}, {"name": "Obere Bommerweiher", "text": "Der Obere Bommerweiher bei Kreuzlingen bietet eine ruhige Atmosphäre zur Naturbeobachtung.", "category": "natural", "coords": [9.157578, 47.618685]}, {"name": "Bodensee", "text": "Der Bodensee bei Kreuzlingen bietet vielfältige Möglichkeiten für Wassersport und Erholung.", "category": "natural", "coords": [9.30627, 47.647787]}, {"name": "Fusion Arena Virtual Reality Center Kreuzlingen", "text": "Das Fusion Arena Virtual Reality Center in Kreuzlingen bietet moderne VR-Erlebnisse für Familien.", "category": "family", "coords": [9.172235, 47.650811]}, {"name": "Georg-Elser-Platz", "text": "Der Georg-Elser-Platz in Kreuzlingen bietet einen Bereich zum Spielen und Verweilen. Er ist ein beliebter Treffpunkt für Familien.", "category": "family", "coords": [9.178424, 47.669837]}, {"name": "Spielplatz Spielburgpark", "text": "Der Spielplatz Spielburgpark in Kreuzlingen lädt Kinder zu abwechslungsreichem Spielen ein. Ein schönes Ziel für einen Nachmittag mit der Familie.", "category": "family", "coords": [9.181987, 47.650284]}, {"name": "Spielplatz Europapark", "text": "Der Spielplatz Europapark in Kreuzlingen bietet vielfältige Spielgeräte für Kinder. Ein toller Ort für Freizeitaktivitäten mit der Familie.", "category": "family", "coords": [9.163782, 47.668567]}, {"name": "Gütlespielplatz", "text": "Der Gütlespielplatz in Kreuzlingen ist ein schöner Bereich für Kinder im Freien. Er ist ein beliebter Ort für einen kurzen Familienaufenthalt.", "category": "family", "coords": [9.168668, 47.661586]}, {"name": "Thermalbad Egelsee", "text": "Dieses öffentliche Bad in Kreuzlingen bietet warme Thermalbecken zur Entspannung.", "category": "family", "coords": [9.176786, 47.645533]}, {"name": "Bodensee-Therme Konstanz", "text": "Dieses Schwimmbad in Kreuzlingen liegt direkt am Bodensee und bietet moderne Becken.", "category": "family", "coords": [9.208959, 47.664522]}, {"name": "Strandbad Horn", "text": "Dieses Strandbad in Kreuzlingen ist in eine weitläufige Parkanlage am See eingebettet.", "category": "family", "coords": [9.214678, 47.666807]}, {"name": "Bodensee-Therme Konstsanz", "text": "Dieser Badebereich in Kreuzlingen bietet Zugang zum See und Erholung am Wasser.", "category": "family", "coords": [9.210856, 47.664048]}, {"name": "Nichtschwimmerbecken", "text": "Dieses spezielle Schwimmbecken in Kreuzlingen ist für Anfänger und Nichtschwimmer gedacht.", "category": "family", "coords": [9.210249, 47.66523]}, {"name": "Tierpark Kreuzlingen", "text": "Dieser Tierpark in Kreuzlingen beheimatet verschiedene heimische Tierarten.", "category": "family", "coords": [9.185224, 47.650517]}, {"name": "Rheinstrandbad", "text": "Dieser Badeplatz in Kreuzlingen bietet Möglichkeiten zum Schwimmen im Rhein.", "category": "family", "coords": [9.175637, 47.668232]}, {"name": "Piazza Cisternino", "text": "Dieser Themenpark in Kreuzlingen bietet Platz für Spiel und Begegnung für Familien.", "category": "family", "coords": [9.174507, 47.649365]}, {"name": "Seerheinbad Tägerwilen", "text": "Dieses Strandbad in Kreuzlingen liegt direkt am Seerhein und lädt zum Baden ein.", "category": "family", "coords": [9.144115, 47.663722]}, {"name": "Badeplatz Bommerweiher", "text": "Dieser Weiher in Kreuzlingen bietet eine natürliche Umgebung für eine Abkühlung im Wasser.", "category": "family", "coords": [9.147243, 47.616549]}], "hu": [{"name": "Schloss Ebersberg", "text": "Történelmi kastély Thurgau régióban, korábban középkori erődítmény.", "category": "castle", "coords": [9.154067, 47.642882]}, {"name": "Städtische Wessenberg Galerie", "text": "Konstanz városi művészeti galériája, amely regionális és modern művészetet mutat be.", "category": "museum", "coords": [9.175074, 47.663305]}, {"name": "Bodensee-Naturmuseum", "text": "A Bódeni-tó természetrajzának és ökológiájának szentelt múzeum.", "category": "museum", "coords": [9.180583, 47.657108]}, {"name": "Konventbau des ehemaligen Benediktinerklosters Petershausen", "text": "Egykori bencés kolostor Konstanzban, amely ma kulturális intézményeknek ad otthont.", "category": "museum", "coords": [9.178877, 47.668187]}, {"name": "Schloss Brunnegg", "text": "Neogótikus kastélyépület Kreuzlingenben, parkkal körülvéve.", "category": "castle", "coords": [9.152155, 47.64681]}, {"name": "Schloss Römerburg", "text": "Történelmi kúria Kreuzlingenben, jellegzetes építészeti vonásokkal.", "category": "castle", "coords": [9.181522, 47.641075]}, {"name": "Schloss Seeburg", "text": "Festői kastély a Bódeni-tó partján, a Seeburgparkban.", "category": "castle", "coords": [9.186659, 47.649526]}, {"name": "Schloss Liebburg", "text": "Történelmi kastély Thurgau régióban, amely késő gótikus stílusáról ismert.", "category": "castle", "coords": [9.202418, 47.625454]}, {"name": "Theater Konstanz", "text": "Németország legrégebbi, folyamatosan működő színháza Konstanz szívében.", "category": "cultural", "coords": [9.177177, 47.663918]}, {"name": "St. Gebhardskirche", "text": "Katolikus plébániatemplom Konstanz Petershausen negyedében.", "category": "religious", "coords": [9.18321, 47.6708]}, {"name": "Lutherkirche", "text": "Evangélikus templom Konstanzban, amely modern üvegfestményeiről ismert.", "category": "religious", "coords": [9.171308, 47.661448]}, {"name": "Dreifaltigkeitskirche", "text": "Egykori ágostonos kanonokrendi templom jelentős belső díszítéssel.", "category": "religious", "coords": [9.174919, 47.658779]}, {"name": "Schottenkapelle", "text": "Szent Jakabnak szentelt kisméretű történelmi kápolna.", "category": "religious", "coords": [9.173279, 47.666266]}, {"name": "Triumphbogen / Laubebrunnen", "text": "Peter Lenk modern szökőkútja, amely humorosan mutatja be a város történelmét.", "category": "landmark", "coords": [9.172803, 47.66304]}, {"name": "BSB Konstanz", "text": "A Bodensee-Schiffsbetriebe sétahajózási lehetőségeket kínál az egész tavon.", "category": "landmark", "coords": [9.178268, 47.660199]}, {"name": "Alte Rheinbrücke", "text": "Központi híd Konstanzban, amely a Seerhein felett ível át.", "category": "landmark", "coords": [9.178624, 47.666258]}, {"name": "Fahrradbrücke", "text": "Kerékpárosok és gyalogosok számára fenntartott híd a Seerhein felett.", "category": "landmark", "coords": [9.174029, 47.668247]}, {"name": "Schänzlebrücke", "text": "Jelentős közúti híd a Rajna felett Konstanzban.", "category": "landmark", "coords": [9.162925, 47.669859]}, {"name": "Seeburgturm", "text": "Kilátótorony a Seeburgparkban, széles kilátással a Bodeni-tóra.", "category": "natural", "coords": [9.18535, 47.652676]}, {"name": "Herosépark", "text": "Kiterjedt nyilvános park a Rajna partján Konstanzban.", "category": "park", "coords": [9.173696, 47.669639]}, {"name": "Hus-Haus", "text": "Múzeum Jan Hus cseh reformátor egykori lakóházában.", "category": "museum", "coords": [9.170944, 47.658897]}, {"name": "Rosgartenmuseum", "text": "A Bodeni-tó régiójának művészeti és kultúrtörténeti múzeuma.", "category": "museum", "coords": [9.174765, 47.65979]}, {"name": "Schloss Girsberg", "text": "Történelmi kastély Kreuzlingenben, amely ma magántulajdonban van.", "category": "castle", "coords": [9.150255, 47.645492]}, {"name": "Schloss Rosenegg", "text": "Kastélyépület, amely ma a Rosenegg Múzeumnak ad otthont.", "category": "castle", "coords": [9.172018, 47.644271]}, {"name": "Schloss Bernegg", "text": "Jellegzetes kastélybirtok Kreuzlingen közelében.", "category": "castle", "coords": [9.159021, 47.64412]}, {"name": "Evangelische Kirche Kreuzlingen", "text": "Kreuzlingen evangélikus városi temploma.", "category": "religious", "coords": [9.173013, 47.644672]}, {"name": "Sankt Stefan", "text": "Jelentős katolikus templom Kreuzlingen régiójában.", "category": "religious", "coords": [9.16074, 47.646926]}, {"name": "Sankt Ulrich", "text": "Történelmi egyházi épület Kreuzlingenben.", "category": "religious", "coords": [9.178657, 47.645771]}, {"name": "Wallfahrtskapelle Heiligkreuz", "text": "Hagyományőrző kápolna, amely zarándoklatok célpontja.", "category": "religious", "coords": [9.156512, 47.637474]}, {"name": "Evangelische Kirche St. Peter", "text": "Szent Péternek szentelt evangélikus templom Kreuzlingenben.", "category": "religious", "coords": [9.195046, 47.640637]}, {"name": "Rheintorturm", "text": "Jellegzetes középkori torony, amely egykor a rajnai átkelőt biztosította.", "category": "landmark", "coords": [9.17741, 47.666007]}, {"name": "Seemuseum", "text": "A hajózásnak és a halászatnak szentelt múzeum Kreuzlingenben.", "category": "museum", "coords": [9.18908, 47.648819]}, {"name": "Dorfmuseum Bottighofen", "text": "Kisméretű múzeum, amely a régi idők falusi életét mutatja be.", "category": "museum", "coords": [9.212708, 47.640684]}, {"name": "Galerie Ernst", "text": "A Kreuzlingen városában található Galerie Ernst a kortárs művészet kedvelőinek egyik jelentős találkozóhelye. Ez a svájci galéria a modern művészeti kifejezésmódok széles skálájával ismerteti meg látogatóit a falai között. A vendégek a kortárs esztétikára fókuszáló, inspiráló kulturális élményre számíthatnak.", "category": "museum", "coords": [9.174041, 47.657004]}, {"name": "Leica Galerie", "text": "Kiváló minőségű fotográfiára szakosodott galéria.", "category": "museum", "coords": [9.174708, 47.664596]}, {"name": "Walentowski Galerien", "text": "Galéria a modern művészet széles kínálatával.", "category": "museum", "coords": [9.174244, 47.661401]}, {"name": "Kunstraum Kreuzlingen", "text": "Modern művészeti kiállítások és kulturális projektek helyszíne.", "category": "museum", "coords": [9.175284, 47.651161]}, {"name": "Wehranlage Schlossbüel", "text": "Történelmi erődítmény régészeti jelentőséggel.", "category": "historical", "coords": [9.152186, 47.63796]}, {"name": "Südwestdeutsche Philharmonie Konstanz", "text": "Konstanzi székhelyű neves zenekar.", "category": "cultural", "coords": [9.177755, 47.66168]}, {"name": "See-Burgtheater", "text": "Nyári színház a Bodeni-tó partján.", "category": "cultural", "coords": [9.188764, 47.649949]}, {"name": "Junges Theater Konstanz", "text": "A konstanzi színház fiatal közönségnek szóló tagozata.", "category": "cultural", "coords": [9.177877, 47.658152]}, {"name": "Kulturetage", "text": "Különböző kulturális rendezvények központja.", "category": "cultural", "coords": [9.172593, 47.660731]}, {"name": "Solgenia", "text": "Innovatív projekt vagy épület a régióban.", "category": "landmark", "coords": [9.171518, 47.668412]}, {"name": "Riesenrad am See", "text": "Óriáskerék a kikötőben, amely nyáron panorámás kilátást nyújt.", "category": "landmark", "coords": [9.17824, 47.656443]}, {"name": "Mühlweiher", "text": "A kreuzlingeni Mühlweiher egy csendes tó, amely kikapcsolódásra hívogat.", "category": "natural", "coords": [9.155826, 47.709688]}, {"name": "Undere Bommerweiher", "text": "A Kreuzlingen közeli Undere Bommerweiher egy idilli természetvédelmi terület része.", "category": "natural", "coords": [9.149812, 47.617305]}, {"name": "Bruckgraben", "text": "A kreuzlingeni Bruckgraben egy helyi vízfelület természeti környezetben.", "category": "natural", "coords": [9.091518, 47.686893]}, {"name": "Obere Bommerweiher", "text": "A Kreuzlingen közeli Obere Bommerweiher nyugodt környezetet biztosít a természet megfigyeléséhez.", "category": "natural", "coords": [9.157578, 47.618685]}, {"name": "Bodensee", "text": "A Kreuzlingennél található Bódeni-tó változatos lehetőségeket kínál a vízi sportokhoz és a pihenéshez.", "category": "natural", "coords": [9.30627, 47.647787]}, {"name": "Fusion Arena Virtual Reality Center Kreuzlingen", "text": "A kreuzlingeni Fusion Arena Virtual Reality Center modern VR-élményeket kínál családoknak.", "category": "family", "coords": [9.172235, 47.650811]}, {"name": "Georg-Elser-Platz", "text": "A kreuzlingeni Georg-Elser-Platz játékra és pihenésre alkalmas területet biztosít. Népszerű találkozóhely a családok számára.", "category": "family", "coords": [9.178424, 47.669837]}, {"name": "Spielplatz Spielburgpark", "text": "A Kreuzlingenben található Spielplatz Spielburgpark változatos játékra hívja a gyerekeket. Remek célpont egy családi délutánhoz.", "category": "family", "coords": [9.181987, 47.650284]}, {"name": "Spielplatz Europapark", "text": "A Kreuzlingenben lévő Spielplatz Europapark sokoldalú játékokat kínál a gyerekeknek. Nagyszerű hely a családi szabadidős tevékenységekhez.", "category": "family", "coords": [9.163782, 47.668567]}, {"name": "Gütlespielplatz", "text": "A kreuzlingeni Gütlespielplatz egy szép szabadtéri terület a gyerekeknek. Kedvelt helyszín a családok rövid kikapcsolódásához.", "category": "family", "coords": [9.168668, 47.661586]}, {"name": "Thermalbad Egelsee", "text": "Ez a kreuzlingeni nyilvános fürdő meleg termálmedencéket kínál a kikapcsolódáshoz.", "category": "family", "coords": [9.176786, 47.645533]}, {"name": "Bodensee-Therme Konstanz", "text": "Ez a kreuzlingeni uszoda közvetlenül a Bódeni-tó partján található, és modern medencéket kínál.", "category": "family", "coords": [9.208959, 47.664522]}, {"name": "Strandbad Horn", "text": "Ez a kreuzlingeni strand egy tágas vízparti parkban található.", "category": "family", "coords": [9.214678, 47.666807]}, {"name": "Bodensee-Therme Konstsanz", "text": "Ez a kreuzlingeni fürdőhely hozzáférést biztosít a tóhoz és pihenést a víznél.", "category": "family", "coords": [9.210856, 47.664048]}, {"name": "Nichtschwimmerbecken", "text": "Ez a speciális kreuzlingeni medence kezdőknek és úszni nem tudóknak készült.", "category": "family", "coords": [9.210249, 47.66523]}, {"name": "Tierpark Kreuzlingen", "text": "Ez a kreuzlingeni vadaspark különféle őshonos állatfajoknak ad otthont.", "category": "family", "coords": [9.185224, 47.650517]}, {"name": "Rheinstrandbad", "text": "Ez a kreuzlingeni fürdőhely úszási lehetőséget kínál a Rajnában.", "category": "family", "coords": [9.175637, 47.668232]}, {"name": "Piazza Cisternino", "text": "Ez a kreuzlingeni tematikus park játékra és találkozásra kínál helyet a családoknak.", "category": "family", "coords": [9.174507, 47.649365]}, {"name": "Seerheinbad Tägerwilen", "text": "Ez a kreuzlingeni strand közvetlenül a Seerhein partján fekszik és fürdőzésre csábít.", "category": "family", "coords": [9.144115, 47.663722]}, {"name": "Badeplatz Bommerweiher", "text": "Ez a kreuzlingeni tó természetes környezetet kínál a vízi felfrissüléshez.", "category": "family", "coords": [9.147243, 47.616549]}], "ro": [{"name": "Schloss Ebersberg", "text": "Un castel istoric în regiunea Thurgau, fostă fortăreață medievală.", "category": "castle", "coords": [9.154067, 47.642882]}, {"name": "Städtische Wessenberg Galerie", "text": "O galerie municipală de artă din Konstanz care expune artă regională și modernă.", "category": "museum", "coords": [9.175074, 47.663305]}, {"name": "Bodensee-Naturmuseum", "text": "Un muzeu dedicat istoriei naturale și ecologiei lacului Constance.", "category": "museum", "coords": [9.180583, 47.657108]}, {"name": "Konventbau des ehemaligen Benediktinerklosters Petershausen", "text": "O fostă mănăstire benedictină din Konstanz, care adăpostește acum instituții culturale.", "category": "museum", "coords": [9.178877, 47.668187]}, {"name": "Schloss Brunnegg", "text": "O clădire de castel neogotic din Kreuzlingen, înconjurată de un parc.", "category": "castle", "coords": [9.152155, 47.64681]}, {"name": "Schloss Römerburg", "text": "Un conac istoric din Kreuzlingen cu trăsături arhitecturale distinctive.", "category": "castle", "coords": [9.181522, 47.641075]}, {"name": "Schloss Seeburg", "text": "Un castel pitoresc pe malul lacului Constance, în cadrul Seeburgpark.", "category": "castle", "coords": [9.186659, 47.649526]}, {"name": "Schloss Liebburg", "text": "Un castel istoric în regiunea Thurgau, cunoscut pentru stilul său gotic târziu.", "category": "castle", "coords": [9.202418, 47.625454]}, {"name": "Theater Konstanz", "text": "Cel mai vechi teatru cu funcționare continuă din Germania, situat în inima orașului Konstanz.", "category": "cultural", "coords": [9.177177, 47.663918]}, {"name": "St. Gebhardskirche", "text": "O biserică parohială catolică în cartierul Petershausen din Konstanz.", "category": "religious", "coords": [9.18321, 47.6708]}, {"name": "Lutherkirche", "text": "O biserică evanghelică din Konstanz, cunoscută pentru vitraliile sale moderne.", "category": "religious", "coords": [9.171308, 47.661448]}, {"name": "Dreifaltigkeitskirche", "text": "O fostă biserică a mănăstirii Augustinilor cu decorațiuni interioare importante.", "category": "religious", "coords": [9.174919, 47.658779]}, {"name": "Schottenkapelle", "text": "O mică capelă istorică dedicată Sfântului Iacob.", "category": "religious", "coords": [9.173279, 47.666266]}, {"name": "Triumphbogen / Laubebrunnen", "text": "O fântână modernă de Peter Lenk, care prezintă cu umor istoria orașului.", "category": "landmark", "coords": [9.172803, 47.66304]}, {"name": "BSB Konstanz", "text": "Compania de navigație de pe Lacul Constanța oferă excursii pe întregul lac.", "category": "landmark", "coords": [9.178268, 47.660199]}, {"name": "Alte Rheinbrücke", "text": "Podul central din Konstanz care traversează Seerhein.", "category": "landmark", "coords": [9.178624, 47.666258]}, {"name": "Fahrradbrücke", "text": "Un pod exclusiv pentru bicicliști și pietoni peste Seerhein.", "category": "landmark", "coords": [9.174029, 47.668247]}, {"name": "Schänzlebrücke", "text": "Un pod rutier important peste Rin în Konstanz.", "category": "landmark", "coords": [9.162925, 47.669859]}, {"name": "Seeburgturm", "text": "Un turn de observare în Seeburgpark, cu o vedere panoramică asupra Lacului Constanța.", "category": "natural", "coords": [9.18535, 47.652676]}, {"name": "Herosépark", "text": "Un parc public vast pe malul Rinului în Konstanz.", "category": "park", "coords": [9.173696, 47.669639]}, {"name": "Hus-Haus", "text": "Un muzeu situat în casa reformatorului ceh Jan Hus.", "category": "museum", "coords": [9.170944, 47.658897]}, {"name": "Rosgartenmuseum", "text": "Un muzeu de artă și istorie culturală a regiunii Lacului Constanța.", "category": "museum", "coords": [9.174765, 47.65979]}, {"name": "Schloss Girsberg", "text": "Un castel istoric din Kreuzlingen, utilizat astăzi în scop privat.", "category": "castle", "coords": [9.150255, 47.645492]}, {"name": "Schloss Rosenegg", "text": "O clădire de castel care găzduiește astăzi Muzeul Rosenegg.", "category": "castle", "coords": [9.172018, 47.644271]}, {"name": "Schloss Bernegg", "text": "O proprietate de castel distinctivă în apropiere de Kreuzlingen.", "category": "castle", "coords": [9.159021, 47.64412]}, {"name": "Evangelische Kirche Kreuzlingen", "text": "Biserica evanghelică din orașul Kreuzlingen.", "category": "religious", "coords": [9.173013, 47.644672]}, {"name": "Sankt Stefan", "text": "O biserică catolică importantă din regiunea Kreuzlingen.", "category": "religious", "coords": [9.16074, 47.646926]}, {"name": "Sankt Ulrich", "text": "Un edificiu religios istoric din Kreuzlingen.", "category": "religious", "coords": [9.178657, 47.645771]}, {"name": "Wallfahrtskapelle Heiligkreuz", "text": "O capelă bogată în tradiții, care este o destinație de pelerinaj.", "category": "religious", "coords": [9.156512, 47.637474]}, {"name": "Evangelische Kirche St. Peter", "text": "O biserică evanghelică din Kreuzlingen, dedicată Sfântului Petru.", "category": "religious", "coords": [9.195046, 47.640637]}, {"name": "Rheintorturm", "text": "Un turn medieval distinctiv care asigura odinioară trecerea peste Rin.", "category": "landmark", "coords": [9.17741, 47.666007]}, {"name": "Seemuseum", "text": "Un muzeu din Kreuzlingen dedicat navigației și pescuitului.", "category": "museum", "coords": [9.18908, 47.648819]}, {"name": "Dorfmuseum Bottighofen", "text": "Un mic muzeu care prezintă viața rurală din vremurile trecute.", "category": "museum", "coords": [9.212708, 47.640684]}, {"name": "Galerie Ernst", "text": "Situată în Kreuzlingen, Galerie Ernst acționează ca un loc de întâlnire remarcabil pentru pasionații de artă contemporană. Această galerie elvețiană prezintă vizitatorilor o varietate de expresii artistice moderne între pereții săi. Oaspeții pot anticipa o experiență culturală plină de inspirație, axată pe estetica contemporană.", "category": "museum", "coords": [9.174041, 47.657004]}, {"name": "Leica Galerie", "text": "O galerie specializată în fotografie de înaltă calitate.", "category": "museum", "coords": [9.174708, 47.664596]}, {"name": "Walentowski Galerien", "text": "O galerie cu o ofertă largă de artă modernă.", "category": "museum", "coords": [9.174244, 47.661401]}, {"name": "Kunstraum Kreuzlingen", "text": "Un spațiu expozițional pentru artă modernă și proiecte culturale.", "category": "museum", "coords": [9.175284, 47.651161]}, {"name": "Wehranlage Schlossbüel", "text": "O fortificație istorică cu importanță arheologică.", "category": "historical", "coords": [9.152186, 47.63796]}, {"name": "Südwestdeutsche Philharmonie Konstanz", "text": "O orchestră renumită cu sediul în Konstanz.", "category": "cultural", "coords": [9.177755, 47.66168]}, {"name": "See-Burgtheater", "text": "Un teatru de vară pe malul Lacului Constanța.", "category": "cultural", "coords": [9.188764, 47.649949]}, {"name": "Junges Theater Konstanz", "text": "O secțiune a teatrului din Konstanz pentru publicul tânăr.", "category": "cultural", "coords": [9.177877, 47.658152]}, {"name": "Kulturetage", "text": "Un centru pentru diverse evenimente culturale.", "category": "cultural", "coords": [9.172593, 47.660731]}, {"name": "Solgenia", "text": "Un proiect sau o clădire inovatoare în regiune.", "category": "landmark", "coords": [9.171518, 47.668412]}, {"name": "Riesenrad am See", "text": "O roată panoramică în port, care oferă vederi panoramice în timpul verii.", "category": "landmark", "coords": [9.17824, 47.656443]}, {"name": "Mühlweiher", "text": "Mühlweiher din Kreuzlingen este un iaz liniștit care invită la relaxare.", "category": "natural", "coords": [9.155826, 47.709688]}, {"name": "Undere Bommerweiher", "text": "Undere Bommerweiher de lângă Kreuzlingen face parte dintr-o rezervație naturală idilică.", "category": "natural", "coords": [9.149812, 47.617305]}, {"name": "Bruckgraben", "text": "Bruckgraben din Kreuzlingen este un corp de apă local într-un mediu natural.", "category": "natural", "coords": [9.091518, 47.686893]}, {"name": "Obere Bommerweiher", "text": "Obere Bommerweiher de lângă Kreuzlingen oferă o atmosferă liniștită pentru observarea naturii.", "category": "natural", "coords": [9.157578, 47.618685]}, {"name": "Bodensee", "text": "Lacul Constance de lângă Kreuzlingen oferă diverse posibilități pentru sporturi nautice și recreere.", "category": "natural", "coords": [9.30627, 47.647787]}, {"name": "Fusion Arena Virtual Reality Center Kreuzlingen", "text": "Fusion Arena Virtual Reality Center din Kreuzlingen oferă experiențe VR moderne pentru familii.", "category": "family", "coords": [9.172235, 47.650811]}, {"name": "Georg-Elser-Platz", "text": "Georg-Elser-Platz din Kreuzlingen oferă o zonă pentru joacă și relaxare. Este un loc de întâlnire popular pentru familii.", "category": "family", "coords": [9.178424, 47.669837]}, {"name": "Spielplatz Spielburgpark", "text": "Locul de joacă Spielburgpark din Kreuzlingen invită copiii la activități variate. O destinație frumoasă pentru o după-amiază în familie.", "category": "family", "coords": [9.181987, 47.650284]}, {"name": "Spielplatz Europapark", "text": "Locul de joacă Europapark din Kreuzlingen oferă echipamente variate pentru copii. Un loc minunat pentru activități de familie.", "category": "family", "coords": [9.163782, 47.668567]}, {"name": "Gütlespielplatz", "text": "Gütlespielplatz din Kreuzlingen este o zonă frumoasă în aer liber pentru copii. Este un loc popular pentru scurte ieșiri în familie.", "category": "family", "coords": [9.168668, 47.661586]}, {"name": "Thermalbad Egelsee", "text": "Această baie publică din Kreuzlingen oferă bazine termale calde pentru relaxare.", "category": "family", "coords": [9.176786, 47.645533]}, {"name": "Bodensee-Therme Konstanz", "text": "Această piscină din Kreuzlingen este situată chiar pe malul lacului Constanța și oferă bazine moderne.", "category": "family", "coords": [9.208959, 47.664522]}, {"name": "Strandbad Horn", "text": "Această plajă din Kreuzlingen este situată într-un parc vast de pe malul lacului.", "category": "family", "coords": [9.214678, 47.666807]}, {"name": "Bodensee-Therme Konstsanz", "text": "Această zonă de înot din Kreuzlingen oferă acces la lac și recreere lângă apă.", "category": "family", "coords": [9.210856, 47.664048]}, {"name": "Nichtschwimmerbecken", "text": "Această piscină specială din Kreuzlingen este destinată începătorilor și celor care nu știu să înoate.", "category": "family", "coords": [9.210249, 47.66523]}, {"name": "Tierpark Kreuzlingen", "text": "Acest parc de animale din Kreuzlingen găzduiește diverse specii de animale native.", "category": "family", "coords": [9.185224, 47.650517]}, {"name": "Rheinstrandbad", "text": "Acest loc de scăldat din Kreuzlingen oferă oportunități de înot în Rin.", "category": "family", "coords": [9.175637, 47.668232]}, {"name": "Piazza Cisternino", "text": "Acest parc tematic din Kreuzlingen oferă spațiu pentru joacă și socializare pentru familii.", "category": "family", "coords": [9.174507, 47.649365]}, {"name": "Seerheinbad Tägerwilen", "text": "Această stațiune de plajă din Kreuzlingen este situată chiar pe Seerhein și invită la scăldat.", "category": "family", "coords": [9.144115, 47.663722]}, {"name": "Badeplatz Bommerweiher", "text": "Acest iaz din Kreuzlingen oferă un cadru natural pentru o răcorire în apă.", "category": "family", "coords": [9.147243, 47.616549]}], "en": [{"name": "Schloss Ebersberg", "text": "A historic castle in the Thurgau region, formerly a medieval fortress.", "category": "castle", "coords": [9.154067, 47.642882]}, {"name": "Städtische Wessenberg Galerie", "text": "A municipal art gallery in Constance showcasing regional and modern art.", "category": "museum", "coords": [9.175074, 47.663305]}, {"name": "Bodensee-Naturmuseum", "text": "A museum dedicated to the natural history and ecology of Lake Constance.", "category": "museum", "coords": [9.180583, 47.657108]}, {"name": "Petershausen Abbey", "text": "A former Benedictine monastery in Constance, now housing cultural institutions.", "category": "museum", "coords": [9.178877, 47.668187]}, {"name": "Schloss Brunnegg", "text": "A Neo-Gothic castle building in Kreuzlingen surrounded by a park.", "category": "castle", "coords": [9.152155, 47.64681]}, {"name": "Schloss Römerburg", "text": "A historic manor house in Kreuzlingen with distinctive architectural features.", "category": "castle", "coords": [9.181522, 47.641075]}, {"name": "Schloss Seeburg", "text": "A picturesque castle on the shores of Lake Constance within Seeburgpark.", "category": "castle", "coords": [9.186659, 47.649526]}, {"name": "Schloss Liebburg", "text": "A historic castle in the Thurgau region known for its late Gothic style.", "category": "castle", "coords": [9.202418, 47.625454]}, {"name": "Theater Konstanz", "text": "Germany's oldest continuously operating theatre, located in the heart of Constance.", "category": "cultural", "coords": [9.177177, 47.663918]}, {"name": "St. Gebhardskirche", "text": "A Catholic parish church located in the Petershausen district of Konstanz.", "category": "religious", "coords": [9.18321, 47.6708]}, {"name": "Lutherkirche", "text": "An Evangelical church in Konstanz known for its modern stained glass art.", "category": "religious", "coords": [9.171308, 47.661448]}, {"name": "Dreifaltigkeitskirche", "text": "A former Augustinian monastery church featuring significant interior decorations.", "category": "religious", "coords": [9.174919, 47.658779]}, {"name": "Schottenkapelle", "text": "A small historical chapel dedicated to Saint James.", "category": "religious", "coords": [9.173279, 47.666266]}, {"name": "Triumphbogen / Laubebrunnen", "text": "A modern fountain by Peter Lenk that humorously depicts the city's history.", "category": "landmark", "coords": [9.172803, 47.66304]}, {"name": "BSB Konstanz", "text": "The Lake Constance ship operations offer excursion trips across the entire lake.", "category": "landmark", "coords": [9.178268, 47.660199]}, {"name": "Alte Rheinbrücke", "text": "The central bridge in Konstanz spanning the Seerhein river.", "category": "landmark", "coords": [9.178624, 47.666258]}, {"name": "Fahrradbrücke", "text": "A bridge exclusively for cyclists and pedestrians over the Seerhein.", "category": "landmark", "coords": [9.174029, 47.668247]}, {"name": "Schänzlebrücke", "text": "A major road bridge over the Rhine in Konstanz.", "category": "landmark", "coords": [9.162925, 47.669859]}, {"name": "Seeburgturm", "text": "An observation tower in Seeburgpark with wide views over Lake Constance.", "category": "natural", "coords": [9.18535, 47.652676]}, {"name": "Herosépark", "text": "An extensive public park on the banks of the Rhine in Konstanz.", "category": "park", "coords": [9.173696, 47.669639]}, {"name": "Hus-Haus", "text": "A museum located in the former residence of the Czech reformer Jan Hus.", "category": "museum", "coords": [9.170944, 47.658897]}, {"name": "Rosgartenmuseum", "text": "A museum for the art and cultural history of the Lake Constance region.", "category": "museum", "coords": [9.174765, 47.65979]}, {"name": "Schloss Girsberg", "text": "A historical castle in Kreuzlingen, now used for private purposes.", "category": "castle", "coords": [9.150255, 47.645492]}, {"name": "Schloss Rosenegg", "text": "A castle building that now houses the Rosenegg Museum.", "category": "castle", "coords": [9.172018, 47.644271]}, {"name": "Schloss Bernegg", "text": "A striking castle estate near Kreuzlingen.", "category": "castle", "coords": [9.159021, 47.64412]}, {"name": "Evangelische Kirche Kreuzlingen", "text": "The Evangelical city church of Kreuzlingen.", "category": "religious", "coords": [9.173013, 47.644672]}, {"name": "Sankt Stefan", "text": "A significant Catholic church in the Kreuzlingen region.", "category": "religious", "coords": [9.16074, 47.646926]}, {"name": "Sankt Ulrich", "text": "A historical sacred building in Kreuzlingen.", "category": "religious", "coords": [9.178657, 47.645771]}, {"name": "Wallfahrtskapelle Heiligkreuz", "text": "A traditional chapel that is a destination for pilgrimages.", "category": "religious", "coords": [9.156512, 47.637474]}, {"name": "Evangelische Kirche St. Peter", "text": "An Evangelical church in Kreuzlingen dedicated to Saint Peter.", "category": "religious", "coords": [9.195046, 47.640637]}, {"name": "Rheintorturm", "text": "A prominent medieval tower that once protected the Rhine crossing.", "category": "landmark", "coords": [9.17741, 47.666007]}, {"name": "Seemuseum", "text": "A museum in Kreuzlingen dedicated to shipping and fishing.", "category": "museum", "coords": [9.18908, 47.648819]}, {"name": "Dorfmuseum Bottighofen", "text": "A small museum showcasing village life from earlier times.", "category": "museum", "coords": [9.212708, 47.640684]}, {"name": "Galerie Ernst", "text": "Situated in Kreuzlingen, Galerie Ernst acts as a notable venue for contemporary art enthusiasts. This Swiss gallery introduces visitors to a variety of modern artistic expressions within its walls. Guests can anticipate an inspiring cultural experience focused on contemporary aesthetics.", "category": "museum", "coords": [9.174041, 47.657004]}, {"name": "Leica Galerie", "text": "A gallery specializing in high-quality photography.", "category": "museum", "coords": [9.174708, 47.664596]}, {"name": "Walentowski Galerien", "text": "A gallery with a wide range of modern art.", "category": "museum", "coords": [9.174244, 47.661401]}, {"name": "Kunstraum Kreuzlingen", "text": "An exhibition space for modern art and cultural projects.", "category": "museum", "coords": [9.175284, 47.651161]}, {"name": "Wehranlage Schlossbüel", "text": "A historical fortification of archaeological significance.", "category": "historical", "coords": [9.152186, 47.63796]}, {"name": "Südwestdeutsche Philharmonie Konstanz", "text": "A renowned orchestra based in Konstanz.", "category": "cultural", "coords": [9.177755, 47.66168]}, {"name": "See-Burgtheater", "text": "A summer theatre on the shores of Lake Constance.", "category": "cultural", "coords": [9.188764, 47.649949]}, {"name": "Junges Theater Konstanz", "text": "A department of the Constance Theatre for a young audience.", "category": "cultural", "coords": [9.177877, 47.658152]}, {"name": "Kulturetage", "text": "A center for various cultural events.", "category": "cultural", "coords": [9.172593, 47.660731]}, {"name": "Solgenia", "text": "An innovative project or building in the region.", "category": "landmark", "coords": [9.171518, 47.668412]}, {"name": "Riesenrad am See", "text": "A Ferris wheel at the harbor offering panoramic views during summer.", "category": "landmark", "coords": [9.17824, 47.656443]}, {"name": "Mühlweiher", "text": "The Mühlweiher in Kreuzlingen is a peaceful pond that invites visitors to relax.", "category": "natural", "coords": [9.155826, 47.709688]}, {"name": "Undere Bommerweiher", "text": "The Undere Bommerweiher near Kreuzlingen is part of an idyllic nature reserve.", "category": "natural", "coords": [9.149812, 47.617305]}, {"name": "Bruckgraben", "text": "The Bruckgraben in Kreuzlingen is a local body of water in a natural setting.", "category": "natural", "coords": [9.091518, 47.686893]}, {"name": "Obere Bommerweiher", "text": "The Obere Bommerweiher near Kreuzlingen offers a peaceful atmosphere for nature observation.", "category": "natural", "coords": [9.157578, 47.618685]}, {"name": "Lake Constance", "text": "Lake Constance near Kreuzlingen offers various opportunities for water sports and recreation.", "category": "natural", "coords": [9.30627, 47.647787]}, {"name": "Fusion Arena Virtual Reality Center Kreuzlingen", "text": "Fusion Arena Virtual Reality Center in Kreuzlingen offers modern VR experiences for families.", "category": "family", "coords": [9.172235, 47.650811]}, {"name": "Georg-Elser-Platz", "text": "The Georg-Elser-Platz in Kreuzlingen provides an area for playing and relaxing. It is a popular meeting point for families.", "category": "family", "coords": [9.178424, 47.669837]}, {"name": "Spielplatz Spielburgpark", "text": "The Spielplatz Spielburgpark in Kreuzlingen invites children to enjoy varied play. A lovely destination for an afternoon with the family.", "category": "family", "coords": [9.181987, 47.650284]}, {"name": "Spielplatz Europapark", "text": "The Spielplatz Europapark in Kreuzlingen offers diverse play equipment for children. A great spot for family leisure activities.", "category": "family", "coords": [9.163782, 47.668567]}, {"name": "Gütlespielplatz", "text": "The Gütlespielplatz in Kreuzlingen is a nice outdoor area for children. It is a popular spot for a short family visit.", "category": "family", "coords": [9.168668, 47.661586]}, {"name": "Thermalbad Egelsee", "text": "This public bath in Kreuzlingen offers warm thermal pools for relaxation.", "category": "family", "coords": [9.176786, 47.645533]}, {"name": "Bodensee-Therme Konstanz", "text": "This swimming pool in Kreuzlingen is located directly on Lake Constance and offers modern pools.", "category": "family", "coords": [9.208959, 47.664522]}, {"name": "Strandbad Horn", "text": "This lakeside beach in Kreuzlingen is set within a spacious park by the lake.", "category": "family", "coords": [9.214678, 47.666807]}, {"name": "Bodensee-Therme Konstsanz", "text": "This swimming area in Kreuzlingen offers lake access and recreation by the water.", "category": "family", "coords": [9.210856, 47.664048]}, {"name": "Nichtschwimmerbecken", "text": "This special swimming pool in Kreuzlingen is intended for beginners and non-swimmers.", "category": "family", "coords": [9.210249, 47.66523]}, {"name": "Tierpark Kreuzlingen", "text": "This animal park in Kreuzlingen is home to various native animal species.", "category": "family", "coords": [9.185224, 47.650517]}, {"name": "Rheinstrandbad", "text": "This swimming spot in Kreuzlingen offers opportunities for swimming in the Rhine.", "category": "family", "coords": [9.175637, 47.668232]}, {"name": "Piazza Cisternino", "text": "This theme park in Kreuzlingen provides space for play and gathering for families.", "category": "family", "coords": [9.174507, 47.649365]}, {"name": "Seerheinbad Tägerwilen", "text": "This beach resort in Kreuzlingen is located directly on the Seerhein and invites visitors to bathe.", "category": "family", "coords": [9.144115, 47.663722]}, {"name": "Badeplatz Bommerweiher", "text": "This pond in Kreuzlingen offers a natural setting for cooling off in the water.", "category": "family", "coords": [9.147243, 47.616549]}]},
+    id: "switzerland-kreuzlingen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Ebersberg",
+                  "text": "Ein historisches Schloss im Thurgau, ehemals eine mittelalterliche Festung.",
+                  "category": "castle",
+                  "coords": [
+                        9.154067,
+                        47.642882
+                  ]
+            },
+            {
+                  "name": "Städtische Wessenberg Galerie",
+                  "text": "Eine städtische Kunstgalerie in Konstanz, die regionale und moderne Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.175074,
+                        47.663305
+                  ]
+            },
+            {
+                  "name": "Bodensee-Naturmuseum",
+                  "text": "Ein Museum zur Naturgeschichte und Ökologie des Bodensees.",
+                  "category": "museum",
+                  "coords": [
+                        9.180583,
+                        47.657108
+                  ]
+            },
+            {
+                  "name": "Konventbau des ehemaligen Benediktinerklosters Petershausen",
+                  "text": "Ein ehemaliges Benediktinerkloster in Konstanz, das heute Kulturinstitute beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        9.178877,
+                        47.668187
+                  ]
+            },
+            {
+                  "name": "Schloss Brunnegg",
+                  "text": "Ein neugotisches Schlossgebäude in Kreuzlingen, umgeben von einem Park.",
+                  "category": "castle",
+                  "coords": [
+                        9.152155,
+                        47.64681
+                  ]
+            },
+            {
+                  "name": "Schloss Römerburg",
+                  "text": "Ein historisches Herrenhaus in Kreuzlingen mit markanten architektonischen Merkmalen.",
+                  "category": "castle",
+                  "coords": [
+                        9.181522,
+                        47.641075
+                  ]
+            },
+            {
+                  "name": "Schloss Seeburg",
+                  "text": "Ein malerisches Schloss am Bodenseeufer im Seeburgpark.",
+                  "category": "castle",
+                  "coords": [
+                        9.186659,
+                        47.649526
+                  ]
+            },
+            {
+                  "name": "Schloss Liebburg",
+                  "text": "Ein historisches Schloss im Thurgau, bekannt für seinen spätgotischen Stil.",
+                  "category": "castle",
+                  "coords": [
+                        9.202418,
+                        47.625454
+                  ]
+            },
+            {
+                  "name": "Theater Konstanz",
+                  "text": "Deutschlands ältestes durchgehend bespieltes Theater im Herzen von Konstanz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177177,
+                        47.663918
+                  ]
+            },
+            {
+                  "name": "St. Gebhardskirche",
+                  "text": "Eine katholische Pfarrkirche im Konstanzer Stadtteil Petershausen.",
+                  "category": "religious",
+                  "coords": [
+                        9.18321,
+                        47.6708
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Eine evangelische Kirche in Konstanz, die für ihre moderne Glasmalerei bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.171308,
+                        47.661448
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitskirche",
+                  "text": "Eine ehemalige Augustiner-Chorherrenstiftskirche mit bedeutender Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        9.174919,
+                        47.658779
+                  ]
+            },
+            {
+                  "name": "Schottenkapelle",
+                  "text": "Eine kleine historische Kapelle, die dem heiligen Jakobus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.173279,
+                        47.666266
+                  ]
+            },
+            {
+                  "name": "Triumphbogen / Laubebrunnen",
+                  "text": "Ein moderner Brunnen von Peter Lenk, der humorvoll die Stadtgeschichte darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.172803,
+                        47.66304
+                  ]
+            },
+            {
+                  "name": "BSB Konstanz",
+                  "text": "Die Bodensee-Schiffsbetriebe bieten Ausflugsfahrten auf dem gesamten See an.",
+                  "category": "landmark",
+                  "coords": [
+                        9.178268,
+                        47.660199
+                  ]
+            },
+            {
+                  "name": "Alte Rheinbrücke",
+                  "text": "Die zentrale Brücke in Konstanz, die den Seerhein überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.178624,
+                        47.666258
+                  ]
+            },
+            {
+                  "name": "Fahrradbrücke",
+                  "text": "Eine reine Brücke für Radfahrer und Fußgänger über den Seerhein.",
+                  "category": "landmark",
+                  "coords": [
+                        9.174029,
+                        47.668247
+                  ]
+            },
+            {
+                  "name": "Schänzlebrücke",
+                  "text": "Eine bedeutende Straßenbrücke über den Rhein in Konstanz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.162925,
+                        47.669859
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Ein Aussichtsturm im Seeburgpark mit weitem Blick über den Bodensee.",
+                  "category": "natural",
+                  "coords": [
+                        9.18535,
+                        47.652676
+                  ]
+            },
+            {
+                  "name": "Herosépark",
+                  "text": "Ein weitläufiger öffentlicher Park am Rheinufer in Konstanz.",
+                  "category": "park",
+                  "coords": [
+                        9.173696,
+                        47.669639
+                  ]
+            },
+            {
+                  "name": "Hus-Museum Konstanz",
+                  "text": "Ein Museum im Wohnhaus des tschechischen Reformators Jan Hus.",
+                  "category": "museum",
+                  "coords": [
+                        9.170944,
+                        47.658897
+                  ]
+            },
+            {
+                  "name": "Rosgartenmuseum",
+                  "text": "Ein Museum für Kunst und Kulturgeschichte der Bodenseeregion.",
+                  "category": "museum",
+                  "coords": [
+                        9.174765,
+                        47.65979
+                  ]
+            },
+            {
+                  "name": "Schloss Girsberg",
+                  "text": "Ein historisches Schloss in Kreuzlingen, das heute privat genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        9.150255,
+                        47.645492
+                  ]
+            },
+            {
+                  "name": "Schloss Rosenegg",
+                  "text": "Ein Schlossgebäude, das heute das Museum Rosenegg beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        9.172018,
+                        47.644271
+                  ]
+            },
+            {
+                  "name": "Schloss Bernegg",
+                  "text": "Ein markantes Schlossgut in der Nähe von Kreuzlingen.",
+                  "category": "castle",
+                  "coords": [
+                        9.159021,
+                        47.64412
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche Kreuzlingen",
+                  "text": "Die evangelische Stadtkirche von Kreuzlingen.",
+                  "category": "religious",
+                  "coords": [
+                        9.173013,
+                        47.644672
+                  ]
+            },
+            {
+                  "name": "Sankt Stefan",
+                  "text": "Eine bedeutende katholische Kirche in der Region Kreuzlingen.",
+                  "category": "religious",
+                  "coords": [
+                        9.16074,
+                        47.646926
+                  ]
+            },
+            {
+                  "name": "Sankt Ulrich",
+                  "text": "Ein historischer Sakralbau in Kreuzlingen.",
+                  "category": "religious",
+                  "coords": [
+                        9.178657,
+                        47.645771
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskapelle Heiligkreuz",
+                  "text": "Eine traditionsreiche Kapelle, die Ziel von Wallfahrten ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.156512,
+                        47.637474
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche St. Peter",
+                  "text": "Eine evangelische Kirche in Kreuzlingen, dem heiligen Peter gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        9.195046,
+                        47.640637
+                  ]
+            },
+            {
+                  "name": "Rheintorturm",
+                  "text": "Ein markanter mittelalterlicher Turm, der einst den Rheinübergang sicherte.",
+                  "category": "landmark",
+                  "coords": [
+                        9.17741,
+                        47.666007
+                  ]
+            },
+            {
+                  "name": "Seemuseum",
+                  "text": "Ein Museum in Kreuzlingen, das sich der Schifffahrt und Fischerei widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.18908,
+                        47.648819
+                  ]
+            },
+            {
+                  "name": "Dorfmuseum Bottighofen",
+                  "text": "Ein kleines Museum, das das dörfliche Leben früherer Zeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.212708,
+                        47.640684
+                  ]
+            },
+            {
+                  "name": "Galerie Ernst",
+                  "text": "Die in Kreuzlingen gelegene Galerie Ernst ist ein bemerkenswerter Ort für Liebhaber zeitgenössischer Kunst. Diese Schweizer Galerie führt Besucher in ihren Räumen an eine Vielzahl moderner künstlerischer Ausdrucksformen heran. Gäste erwartet ein inspirierendes kulturelles Erlebnis, das sich auf zeitgenössische Ästhetik konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        9.174041,
+                        47.657004
+                  ]
+            },
+            {
+                  "name": "Leica Galerie",
+                  "text": "Eine Galerie, die sich auf hochwertige Fotografie spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        9.174708,
+                        47.664596
+                  ]
+            },
+            {
+                  "name": "Walentowski Galerien",
+                  "text": "Eine Galerie mit einem breiten Angebot an moderner Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        9.174244,
+                        47.661401
+                  ]
+            },
+            {
+                  "name": "Kunstraum Kreuzlingen",
+                  "text": "Ein Ausstellungsort für moderne Kunst und Kulturprojekte.",
+                  "category": "museum",
+                  "coords": [
+                        9.175284,
+                        47.651161
+                  ]
+            },
+            {
+                  "name": "Wehranlage Schlossbüel",
+                  "text": "Eine historische Wehranlage mit archäologischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        9.152186,
+                        47.63796
+                  ]
+            },
+            {
+                  "name": "Südwestdeutsche Philharmonie Konstanz",
+                  "text": "Ein renommiertes Orchester mit Sitz in Konstanz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177755,
+                        47.66168
+                  ]
+            },
+            {
+                  "name": "See-Burgtheater",
+                  "text": "Ein Sommertheater am Ufer des Bodensees.",
+                  "category": "cultural",
+                  "coords": [
+                        9.188764,
+                        47.649949
+                  ]
+            },
+            {
+                  "name": "Junges Theater Konstanz",
+                  "text": "Eine Sparte des Theaters Konstanz für ein junges Publikum.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177877,
+                        47.658152
+                  ]
+            },
+            {
+                  "name": "Kulturetage",
+                  "text": "Ein Zentrum für verschiedene kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.172593,
+                        47.660731
+                  ]
+            },
+            {
+                  "name": "Solgenia",
+                  "text": "Ein innovatives Projekt oder Gebäude in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.171518,
+                        47.668412
+                  ]
+            },
+            {
+                  "name": "Riesenrad am See",
+                  "text": "Ein Riesenrad am Hafen, das im Sommer Panoramablicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.17824,
+                        47.656443
+                  ]
+            },
+            {
+                  "name": "Mühlweiher",
+                  "text": "Der Mühlweiher in Kreuzlingen ist ein ruhiges Gewässer, das zum Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.155826,
+                        47.709688
+                  ]
+            },
+            {
+                  "name": "Undere Bommerweiher",
+                  "text": "Der Undere Bommerweiher bei Kreuzlingen ist Teil eines idyllischen Naturschutzgebiets.",
+                  "category": "natural",
+                  "coords": [
+                        9.149812,
+                        47.617305
+                  ]
+            },
+            {
+                  "name": "Bruckgraben",
+                  "text": "Der Bruckgraben in Kreuzlingen ist ein lokales Gewässer in einer naturnahen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        9.091518,
+                        47.686893
+                  ]
+            },
+            {
+                  "name": "Obere Bommerweiher",
+                  "text": "Der Obere Bommerweiher bei Kreuzlingen bietet eine ruhige Atmosphäre zur Naturbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        9.157578,
+                        47.618685
+                  ]
+            },
+            {
+                  "name": "Bodensee",
+                  "text": "Der Bodensee bei Kreuzlingen bietet vielfältige Möglichkeiten für Wassersport und Erholung.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Fusion Arena Virtual Reality Center Kreuzlingen",
+                  "text": "Das Fusion Arena Virtual Reality Center in Kreuzlingen bietet moderne VR-Erlebnisse für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.172235,
+                        47.650811
+                  ]
+            },
+            {
+                  "name": "Georg-Elser-Platz",
+                  "text": "Der Georg-Elser-Platz in Kreuzlingen bietet einen Bereich zum Spielen und Verweilen. Er ist ein beliebter Treffpunkt für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.178424,
+                        47.669837
+                  ]
+            },
+            {
+                  "name": "Spielplatz Spielburgpark",
+                  "text": "Der Spielplatz Spielburgpark in Kreuzlingen lädt Kinder zu abwechslungsreichem Spielen ein. Ein schönes Ziel für einen Nachmittag mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.181987,
+                        47.650284
+                  ]
+            },
+            {
+                  "name": "Spielplatz Europapark",
+                  "text": "Der Spielplatz Europapark in Kreuzlingen bietet vielfältige Spielgeräte für Kinder. Ein toller Ort für Freizeitaktivitäten mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        9.163782,
+                        47.668567
+                  ]
+            },
+            {
+                  "name": "Gütlespielplatz",
+                  "text": "Der Gütlespielplatz in Kreuzlingen ist ein schöner Bereich für Kinder im Freien. Er ist ein beliebter Ort für einen kurzen Familienaufenthalt.",
+                  "category": "family",
+                  "coords": [
+                        9.168668,
+                        47.661586
+                  ]
+            },
+            {
+                  "name": "Thermalbad Egelsee",
+                  "text": "Dieses öffentliche Bad in Kreuzlingen bietet warme Thermalbecken zur Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        9.176786,
+                        47.645533
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstanz",
+                  "text": "Dieses Schwimmbad in Kreuzlingen liegt direkt am Bodensee und bietet moderne Becken.",
+                  "category": "family",
+                  "coords": [
+                        9.208959,
+                        47.664522
+                  ]
+            },
+            {
+                  "name": "Strandbad Horn",
+                  "text": "Dieses Strandbad in Kreuzlingen ist in eine weitläufige Parkanlage am See eingebettet.",
+                  "category": "family",
+                  "coords": [
+                        9.214678,
+                        47.666807
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstsanz",
+                  "text": "Dieser Badebereich in Kreuzlingen bietet Zugang zum See und Erholung am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.210856,
+                        47.664048
+                  ]
+            },
+            {
+                  "name": "Nichtschwimmerbecken",
+                  "text": "Dieses spezielle Schwimmbecken in Kreuzlingen ist für Anfänger und Nichtschwimmer gedacht.",
+                  "category": "family",
+                  "coords": [
+                        9.210249,
+                        47.66523
+                  ]
+            },
+            {
+                  "name": "Tierpark Kreuzlingen",
+                  "text": "Dieser Tierpark in Kreuzlingen beheimatet verschiedene heimische Tierarten.",
+                  "category": "family",
+                  "coords": [
+                        9.185224,
+                        47.650517
+                  ]
+            },
+            {
+                  "name": "Rheinstrandbad",
+                  "text": "Dieser Badeplatz in Kreuzlingen bietet Möglichkeiten zum Schwimmen im Rhein.",
+                  "category": "family",
+                  "coords": [
+                        9.175637,
+                        47.668232
+                  ]
+            },
+            {
+                  "name": "Piazza Cisternino",
+                  "text": "Dieser Themenpark in Kreuzlingen bietet Platz für Spiel und Begegnung für Familien.",
+                  "category": "family",
+                  "coords": [
+                        9.174507,
+                        47.649365
+                  ]
+            },
+            {
+                  "name": "Seerheinbad Tägerwilen",
+                  "text": "Dieses Strandbad in Kreuzlingen liegt direkt am Seerhein und lädt zum Baden ein.",
+                  "category": "family",
+                  "coords": [
+                        9.144115,
+                        47.663722
+                  ]
+            },
+            {
+                  "name": "Badeplatz Bommerweiher",
+                  "text": "Dieser Weiher in Kreuzlingen bietet eine natürliche Umgebung für eine Abkühlung im Wasser.",
+                  "category": "family",
+                  "coords": [
+                        9.147243,
+                        47.616549
+                  ]
+            },
+            {
+                  "name": "K 9",
+                  "text": "Das K 9 in Konstanz ist ein Kulturzentrum, das in einer ehemaligen Kirche untergebracht ist. Es bietet eine Bühne für Kabarett, Musik und alternatives Theater nahe Kreuzlingen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.171467,
+                        47.659909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Ebersberg",
+                  "text": "Történelmi kastély Thurgau régióban, korábban középkori erődítmény.",
+                  "category": "castle",
+                  "coords": [
+                        9.154067,
+                        47.642882
+                  ]
+            },
+            {
+                  "name": "Städtische Wessenberg Galerie",
+                  "text": "Konstanz városi művészeti galériája, amely regionális és modern művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.175074,
+                        47.663305
+                  ]
+            },
+            {
+                  "name": "Bodensee-Naturmuseum",
+                  "text": "A Bódeni-tó természetrajzának és ökológiájának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.180583,
+                        47.657108
+                  ]
+            },
+            {
+                  "name": "Konventbau des ehemaligen Benediktinerklosters Petershausen",
+                  "text": "Egykori bencés kolostor Konstanzban, amely ma kulturális intézményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        9.178877,
+                        47.668187
+                  ]
+            },
+            {
+                  "name": "Schloss Brunnegg",
+                  "text": "Neogótikus kastélyépület Kreuzlingenben, parkkal körülvéve.",
+                  "category": "castle",
+                  "coords": [
+                        9.152155,
+                        47.64681
+                  ]
+            },
+            {
+                  "name": "Schloss Römerburg",
+                  "text": "Történelmi kúria Kreuzlingenben, jellegzetes építészeti vonásokkal.",
+                  "category": "castle",
+                  "coords": [
+                        9.181522,
+                        47.641075
+                  ]
+            },
+            {
+                  "name": "Schloss Seeburg",
+                  "text": "Festői kastély a Bódeni-tó partján, a Seeburgparkban.",
+                  "category": "castle",
+                  "coords": [
+                        9.186659,
+                        47.649526
+                  ]
+            },
+            {
+                  "name": "Schloss Liebburg",
+                  "text": "Történelmi kastély Thurgau régióban, amely késő gótikus stílusáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        9.202418,
+                        47.625454
+                  ]
+            },
+            {
+                  "name": "Theater Konstanz",
+                  "text": "Németország legrégebbi, folyamatosan működő színháza Konstanz szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177177,
+                        47.663918
+                  ]
+            },
+            {
+                  "name": "St. Gebhardskirche",
+                  "text": "Katolikus plébániatemplom Konstanz Petershausen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        9.18321,
+                        47.6708
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Evangélikus templom Konstanzban, amely modern üvegfestményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        9.171308,
+                        47.661448
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitskirche",
+                  "text": "Egykori ágostonos kanonokrendi templom jelentős belső díszítéssel.",
+                  "category": "religious",
+                  "coords": [
+                        9.174919,
+                        47.658779
+                  ]
+            },
+            {
+                  "name": "Schottenkapelle",
+                  "text": "Szent Jakabnak szentelt kisméretű történelmi kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        9.173279,
+                        47.666266
+                  ]
+            },
+            {
+                  "name": "Triumphbogen / Laubebrunnen",
+                  "text": "Peter Lenk modern szökőkútja, amely humorosan mutatja be a város történelmét.",
+                  "category": "landmark",
+                  "coords": [
+                        9.172803,
+                        47.66304
+                  ]
+            },
+            {
+                  "name": "BSB Konstanz",
+                  "text": "A Bodensee-Schiffsbetriebe sétahajózási lehetőségeket kínál az egész tavon.",
+                  "category": "landmark",
+                  "coords": [
+                        9.178268,
+                        47.660199
+                  ]
+            },
+            {
+                  "name": "Alte Rheinbrücke",
+                  "text": "Központi híd Konstanzban, amely a Seerhein felett ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        9.178624,
+                        47.666258
+                  ]
+            },
+            {
+                  "name": "Fahrradbrücke",
+                  "text": "Kerékpárosok és gyalogosok számára fenntartott híd a Seerhein felett.",
+                  "category": "landmark",
+                  "coords": [
+                        9.174029,
+                        47.668247
+                  ]
+            },
+            {
+                  "name": "Schänzlebrücke",
+                  "text": "Jelentős közúti híd a Rajna felett Konstanzban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.162925,
+                        47.669859
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Kilátótorony a Seeburgparkban, széles kilátással a Bodeni-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        9.18535,
+                        47.652676
+                  ]
+            },
+            {
+                  "name": "Herosépark",
+                  "text": "Kiterjedt nyilvános park a Rajna partján Konstanzban.",
+                  "category": "park",
+                  "coords": [
+                        9.173696,
+                        47.669639
+                  ]
+            },
+            {
+                  "name": "Hus-Haus",
+                  "text": "Múzeum Jan Hus cseh reformátor egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        9.170944,
+                        47.658897
+                  ]
+            },
+            {
+                  "name": "Rosgartenmuseum",
+                  "text": "A Bodeni-tó régiójának művészeti és kultúrtörténeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        9.174765,
+                        47.65979
+                  ]
+            },
+            {
+                  "name": "Schloss Girsberg",
+                  "text": "Történelmi kastély Kreuzlingenben, amely ma magántulajdonban van.",
+                  "category": "castle",
+                  "coords": [
+                        9.150255,
+                        47.645492
+                  ]
+            },
+            {
+                  "name": "Schloss Rosenegg",
+                  "text": "Kastélyépület, amely ma a Rosenegg Múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        9.172018,
+                        47.644271
+                  ]
+            },
+            {
+                  "name": "Schloss Bernegg",
+                  "text": "Jellegzetes kastélybirtok Kreuzlingen közelében.",
+                  "category": "castle",
+                  "coords": [
+                        9.159021,
+                        47.64412
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche Kreuzlingen",
+                  "text": "Kreuzlingen evangélikus városi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        9.173013,
+                        47.644672
+                  ]
+            },
+            {
+                  "name": "Sankt Stefan",
+                  "text": "Jelentős katolikus templom Kreuzlingen régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        9.16074,
+                        47.646926
+                  ]
+            },
+            {
+                  "name": "Sankt Ulrich",
+                  "text": "Történelmi egyházi épület Kreuzlingenben.",
+                  "category": "religious",
+                  "coords": [
+                        9.178657,
+                        47.645771
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskapelle Heiligkreuz",
+                  "text": "Hagyományőrző kápolna, amely zarándoklatok célpontja.",
+                  "category": "religious",
+                  "coords": [
+                        9.156512,
+                        47.637474
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche St. Peter",
+                  "text": "Szent Péternek szentelt evangélikus templom Kreuzlingenben.",
+                  "category": "religious",
+                  "coords": [
+                        9.195046,
+                        47.640637
+                  ]
+            },
+            {
+                  "name": "Rheintorturm",
+                  "text": "Jellegzetes középkori torony, amely egykor a rajnai átkelőt biztosította.",
+                  "category": "landmark",
+                  "coords": [
+                        9.17741,
+                        47.666007
+                  ]
+            },
+            {
+                  "name": "Seemuseum",
+                  "text": "A hajózásnak és a halászatnak szentelt múzeum Kreuzlingenben.",
+                  "category": "museum",
+                  "coords": [
+                        9.18908,
+                        47.648819
+                  ]
+            },
+            {
+                  "name": "Dorfmuseum Bottighofen",
+                  "text": "Kisméretű múzeum, amely a régi idők falusi életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.212708,
+                        47.640684
+                  ]
+            },
+            {
+                  "name": "Galerie Ernst",
+                  "text": "A Kreuzlingen városában található Galerie Ernst a kortárs művészet kedvelőinek egyik jelentős találkozóhelye. Ez a svájci galéria a modern művészeti kifejezésmódok széles skálájával ismerteti meg látogatóit a falai között. A vendégek a kortárs esztétikára fókuszáló, inspiráló kulturális élményre számíthatnak.",
+                  "category": "museum",
+                  "coords": [
+                        9.174041,
+                        47.657004
+                  ]
+            },
+            {
+                  "name": "Leica Galerie",
+                  "text": "Kiváló minőségű fotográfiára szakosodott galéria.",
+                  "category": "museum",
+                  "coords": [
+                        9.174708,
+                        47.664596
+                  ]
+            },
+            {
+                  "name": "Walentowski Galerien",
+                  "text": "Galéria a modern művészet széles kínálatával.",
+                  "category": "museum",
+                  "coords": [
+                        9.174244,
+                        47.661401
+                  ]
+            },
+            {
+                  "name": "Kunstraum Kreuzlingen",
+                  "text": "Modern művészeti kiállítások és kulturális projektek helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        9.175284,
+                        47.651161
+                  ]
+            },
+            {
+                  "name": "Wehranlage Schlossbüel",
+                  "text": "Történelmi erődítmény régészeti jelentőséggel.",
+                  "category": "historical",
+                  "coords": [
+                        9.152186,
+                        47.63796
+                  ]
+            },
+            {
+                  "name": "Südwestdeutsche Philharmonie Konstanz",
+                  "text": "Konstanzi székhelyű neves zenekar.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177755,
+                        47.66168
+                  ]
+            },
+            {
+                  "name": "See-Burgtheater",
+                  "text": "Nyári színház a Bodeni-tó partján.",
+                  "category": "cultural",
+                  "coords": [
+                        9.188764,
+                        47.649949
+                  ]
+            },
+            {
+                  "name": "Junges Theater Konstanz",
+                  "text": "A konstanzi színház fiatal közönségnek szóló tagozata.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177877,
+                        47.658152
+                  ]
+            },
+            {
+                  "name": "Kulturetage",
+                  "text": "Különböző kulturális rendezvények központja.",
+                  "category": "cultural",
+                  "coords": [
+                        9.172593,
+                        47.660731
+                  ]
+            },
+            {
+                  "name": "Solgenia",
+                  "text": "Innovatív projekt vagy épület a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        9.171518,
+                        47.668412
+                  ]
+            },
+            {
+                  "name": "Riesenrad am See",
+                  "text": "Óriáskerék a kikötőben, amely nyáron panorámás kilátást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.17824,
+                        47.656443
+                  ]
+            },
+            {
+                  "name": "Mühlweiher",
+                  "text": "A kreuzlingeni Mühlweiher egy csendes tó, amely kikapcsolódásra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        9.155826,
+                        47.709688
+                  ]
+            },
+            {
+                  "name": "Undere Bommerweiher",
+                  "text": "A Kreuzlingen közeli Undere Bommerweiher egy idilli természetvédelmi terület része.",
+                  "category": "natural",
+                  "coords": [
+                        9.149812,
+                        47.617305
+                  ]
+            },
+            {
+                  "name": "Bruckgraben",
+                  "text": "A kreuzlingeni Bruckgraben egy helyi vízfelület természeti környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        9.091518,
+                        47.686893
+                  ]
+            },
+            {
+                  "name": "Obere Bommerweiher",
+                  "text": "A Kreuzlingen közeli Obere Bommerweiher nyugodt környezetet biztosít a természet megfigyeléséhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.157578,
+                        47.618685
+                  ]
+            },
+            {
+                  "name": "Bodensee",
+                  "text": "A Kreuzlingennél található Bódeni-tó változatos lehetőségeket kínál a vízi sportokhoz és a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Fusion Arena Virtual Reality Center Kreuzlingen",
+                  "text": "A kreuzlingeni Fusion Arena Virtual Reality Center modern VR-élményeket kínál családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.172235,
+                        47.650811
+                  ]
+            },
+            {
+                  "name": "Georg-Elser-Platz",
+                  "text": "A kreuzlingeni Georg-Elser-Platz játékra és pihenésre alkalmas területet biztosít. Népszerű találkozóhely a családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.178424,
+                        47.669837
+                  ]
+            },
+            {
+                  "name": "Spielplatz Spielburgpark",
+                  "text": "A Kreuzlingenben található Spielplatz Spielburgpark változatos játékra hívja a gyerekeket. Remek célpont egy családi délutánhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.181987,
+                        47.650284
+                  ]
+            },
+            {
+                  "name": "Spielplatz Europapark",
+                  "text": "A Kreuzlingenben lévő Spielplatz Europapark sokoldalú játékokat kínál a gyerekeknek. Nagyszerű hely a családi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        9.163782,
+                        47.668567
+                  ]
+            },
+            {
+                  "name": "Gütlespielplatz",
+                  "text": "A kreuzlingeni Gütlespielplatz egy szép szabadtéri terület a gyerekeknek. Kedvelt helyszín a családok rövid kikapcsolódásához.",
+                  "category": "family",
+                  "coords": [
+                        9.168668,
+                        47.661586
+                  ]
+            },
+            {
+                  "name": "Thermalbad Egelsee",
+                  "text": "Ez a kreuzlingeni nyilvános fürdő meleg termálmedencéket kínál a kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.176786,
+                        47.645533
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstanz",
+                  "text": "Ez a kreuzlingeni uszoda közvetlenül a Bódeni-tó partján található, és modern medencéket kínál.",
+                  "category": "family",
+                  "coords": [
+                        9.208959,
+                        47.664522
+                  ]
+            },
+            {
+                  "name": "Strandbad Horn",
+                  "text": "Ez a kreuzlingeni strand egy tágas vízparti parkban található.",
+                  "category": "family",
+                  "coords": [
+                        9.214678,
+                        47.666807
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstsanz",
+                  "text": "Ez a kreuzlingeni fürdőhely hozzáférést biztosít a tóhoz és pihenést a víznél.",
+                  "category": "family",
+                  "coords": [
+                        9.210856,
+                        47.664048
+                  ]
+            },
+            {
+                  "name": "Nichtschwimmerbecken",
+                  "text": "Ez a speciális kreuzlingeni medence kezdőknek és úszni nem tudóknak készült.",
+                  "category": "family",
+                  "coords": [
+                        9.210249,
+                        47.66523
+                  ]
+            },
+            {
+                  "name": "Tierpark Kreuzlingen",
+                  "text": "Ez a kreuzlingeni vadaspark különféle őshonos állatfajoknak ad otthont.",
+                  "category": "family",
+                  "coords": [
+                        9.185224,
+                        47.650517
+                  ]
+            },
+            {
+                  "name": "Rheinstrandbad",
+                  "text": "Ez a kreuzlingeni fürdőhely úszási lehetőséget kínál a Rajnában.",
+                  "category": "family",
+                  "coords": [
+                        9.175637,
+                        47.668232
+                  ]
+            },
+            {
+                  "name": "Piazza Cisternino",
+                  "text": "Ez a kreuzlingeni tematikus park játékra és találkozásra kínál helyet a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.174507,
+                        47.649365
+                  ]
+            },
+            {
+                  "name": "Seerheinbad Tägerwilen",
+                  "text": "Ez a kreuzlingeni strand közvetlenül a Seerhein partján fekszik és fürdőzésre csábít.",
+                  "category": "family",
+                  "coords": [
+                        9.144115,
+                        47.663722
+                  ]
+            },
+            {
+                  "name": "Badeplatz Bommerweiher",
+                  "text": "Ez a kreuzlingeni tó természetes környezetet kínál a vízi felfrissüléshez.",
+                  "category": "family",
+                  "coords": [
+                        9.147243,
+                        47.616549
+                  ]
+            },
+            {
+                  "name": "K 9",
+                  "text": "A konstanz-i K 9 egy kulturális központ, amely egy egykori templomban kapott helyet. Kabaré, zene és alternatív színház számára biztosít színpadot Kreuzlingen közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.171467,
+                        47.659909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Ebersberg",
+                  "text": "Un castel istoric în regiunea Thurgau, fostă fortăreață medievală.",
+                  "category": "castle",
+                  "coords": [
+                        9.154067,
+                        47.642882
+                  ]
+            },
+            {
+                  "name": "Städtische Wessenberg Galerie",
+                  "text": "O galerie municipală de artă din Konstanz care expune artă regională și modernă.",
+                  "category": "museum",
+                  "coords": [
+                        9.175074,
+                        47.663305
+                  ]
+            },
+            {
+                  "name": "Bodensee-Naturmuseum",
+                  "text": "Un muzeu dedicat istoriei naturale și ecologiei lacului Constance.",
+                  "category": "museum",
+                  "coords": [
+                        9.180583,
+                        47.657108
+                  ]
+            },
+            {
+                  "name": "Konventbau des ehemaligen Benediktinerklosters Petershausen",
+                  "text": "O fostă mănăstire benedictină din Konstanz, care adăpostește acum instituții culturale.",
+                  "category": "museum",
+                  "coords": [
+                        9.178877,
+                        47.668187
+                  ]
+            },
+            {
+                  "name": "Schloss Brunnegg",
+                  "text": "O clădire de castel neogotic din Kreuzlingen, înconjurată de un parc.",
+                  "category": "castle",
+                  "coords": [
+                        9.152155,
+                        47.64681
+                  ]
+            },
+            {
+                  "name": "Schloss Römerburg",
+                  "text": "Un conac istoric din Kreuzlingen cu trăsături arhitecturale distinctive.",
+                  "category": "castle",
+                  "coords": [
+                        9.181522,
+                        47.641075
+                  ]
+            },
+            {
+                  "name": "Schloss Seeburg",
+                  "text": "Un castel pitoresc pe malul lacului Constance, în cadrul Seeburgpark.",
+                  "category": "castle",
+                  "coords": [
+                        9.186659,
+                        47.649526
+                  ]
+            },
+            {
+                  "name": "Schloss Liebburg",
+                  "text": "Un castel istoric în regiunea Thurgau, cunoscut pentru stilul său gotic târziu.",
+                  "category": "castle",
+                  "coords": [
+                        9.202418,
+                        47.625454
+                  ]
+            },
+            {
+                  "name": "Theater Konstanz",
+                  "text": "Cel mai vechi teatru cu funcționare continuă din Germania, situat în inima orașului Konstanz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177177,
+                        47.663918
+                  ]
+            },
+            {
+                  "name": "St. Gebhardskirche",
+                  "text": "O biserică parohială catolică în cartierul Petershausen din Konstanz.",
+                  "category": "religious",
+                  "coords": [
+                        9.18321,
+                        47.6708
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "O biserică evanghelică din Konstanz, cunoscută pentru vitraliile sale moderne.",
+                  "category": "religious",
+                  "coords": [
+                        9.171308,
+                        47.661448
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitskirche",
+                  "text": "O fostă biserică a mănăstirii Augustinilor cu decorațiuni interioare importante.",
+                  "category": "religious",
+                  "coords": [
+                        9.174919,
+                        47.658779
+                  ]
+            },
+            {
+                  "name": "Schottenkapelle",
+                  "text": "O mică capelă istorică dedicată Sfântului Iacob.",
+                  "category": "religious",
+                  "coords": [
+                        9.173279,
+                        47.666266
+                  ]
+            },
+            {
+                  "name": "Triumphbogen / Laubebrunnen",
+                  "text": "O fântână modernă de Peter Lenk, care prezintă cu umor istoria orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        9.172803,
+                        47.66304
+                  ]
+            },
+            {
+                  "name": "BSB Konstanz",
+                  "text": "Compania de navigație de pe Lacul Constanța oferă excursii pe întregul lac.",
+                  "category": "landmark",
+                  "coords": [
+                        9.178268,
+                        47.660199
+                  ]
+            },
+            {
+                  "name": "Alte Rheinbrücke",
+                  "text": "Podul central din Konstanz care traversează Seerhein.",
+                  "category": "landmark",
+                  "coords": [
+                        9.178624,
+                        47.666258
+                  ]
+            },
+            {
+                  "name": "Fahrradbrücke",
+                  "text": "Un pod exclusiv pentru bicicliști și pietoni peste Seerhein.",
+                  "category": "landmark",
+                  "coords": [
+                        9.174029,
+                        47.668247
+                  ]
+            },
+            {
+                  "name": "Schänzlebrücke",
+                  "text": "Un pod rutier important peste Rin în Konstanz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.162925,
+                        47.669859
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Un turn de observare în Seeburgpark, cu o vedere panoramică asupra Lacului Constanța.",
+                  "category": "natural",
+                  "coords": [
+                        9.18535,
+                        47.652676
+                  ]
+            },
+            {
+                  "name": "Herosépark",
+                  "text": "Un parc public vast pe malul Rinului în Konstanz.",
+                  "category": "park",
+                  "coords": [
+                        9.173696,
+                        47.669639
+                  ]
+            },
+            {
+                  "name": "Hus-Haus",
+                  "text": "Un muzeu situat în casa reformatorului ceh Jan Hus.",
+                  "category": "museum",
+                  "coords": [
+                        9.170944,
+                        47.658897
+                  ]
+            },
+            {
+                  "name": "Rosgartenmuseum",
+                  "text": "Un muzeu de artă și istorie culturală a regiunii Lacului Constanța.",
+                  "category": "museum",
+                  "coords": [
+                        9.174765,
+                        47.65979
+                  ]
+            },
+            {
+                  "name": "Schloss Girsberg",
+                  "text": "Un castel istoric din Kreuzlingen, utilizat astăzi în scop privat.",
+                  "category": "castle",
+                  "coords": [
+                        9.150255,
+                        47.645492
+                  ]
+            },
+            {
+                  "name": "Schloss Rosenegg",
+                  "text": "O clădire de castel care găzduiește astăzi Muzeul Rosenegg.",
+                  "category": "castle",
+                  "coords": [
+                        9.172018,
+                        47.644271
+                  ]
+            },
+            {
+                  "name": "Schloss Bernegg",
+                  "text": "O proprietate de castel distinctivă în apropiere de Kreuzlingen.",
+                  "category": "castle",
+                  "coords": [
+                        9.159021,
+                        47.64412
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche Kreuzlingen",
+                  "text": "Biserica evanghelică din orașul Kreuzlingen.",
+                  "category": "religious",
+                  "coords": [
+                        9.173013,
+                        47.644672
+                  ]
+            },
+            {
+                  "name": "Sankt Stefan",
+                  "text": "O biserică catolică importantă din regiunea Kreuzlingen.",
+                  "category": "religious",
+                  "coords": [
+                        9.16074,
+                        47.646926
+                  ]
+            },
+            {
+                  "name": "Sankt Ulrich",
+                  "text": "Un edificiu religios istoric din Kreuzlingen.",
+                  "category": "religious",
+                  "coords": [
+                        9.178657,
+                        47.645771
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskapelle Heiligkreuz",
+                  "text": "O capelă bogată în tradiții, care este o destinație de pelerinaj.",
+                  "category": "religious",
+                  "coords": [
+                        9.156512,
+                        47.637474
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche St. Peter",
+                  "text": "O biserică evanghelică din Kreuzlingen, dedicată Sfântului Petru.",
+                  "category": "religious",
+                  "coords": [
+                        9.195046,
+                        47.640637
+                  ]
+            },
+            {
+                  "name": "Rheintorturm",
+                  "text": "Un turn medieval distinctiv care asigura odinioară trecerea peste Rin.",
+                  "category": "landmark",
+                  "coords": [
+                        9.17741,
+                        47.666007
+                  ]
+            },
+            {
+                  "name": "Seemuseum",
+                  "text": "Un muzeu din Kreuzlingen dedicat navigației și pescuitului.",
+                  "category": "museum",
+                  "coords": [
+                        9.18908,
+                        47.648819
+                  ]
+            },
+            {
+                  "name": "Dorfmuseum Bottighofen",
+                  "text": "Un mic muzeu care prezintă viața rurală din vremurile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        9.212708,
+                        47.640684
+                  ]
+            },
+            {
+                  "name": "Galerie Ernst",
+                  "text": "Situată în Kreuzlingen, Galerie Ernst acționează ca un loc de întâlnire remarcabil pentru pasionații de artă contemporană. Această galerie elvețiană prezintă vizitatorilor o varietate de expresii artistice moderne între pereții săi. Oaspeții pot anticipa o experiență culturală plină de inspirație, axată pe estetica contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        9.174041,
+                        47.657004
+                  ]
+            },
+            {
+                  "name": "Leica Galerie",
+                  "text": "O galerie specializată în fotografie de înaltă calitate.",
+                  "category": "museum",
+                  "coords": [
+                        9.174708,
+                        47.664596
+                  ]
+            },
+            {
+                  "name": "Walentowski Galerien",
+                  "text": "O galerie cu o ofertă largă de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        9.174244,
+                        47.661401
+                  ]
+            },
+            {
+                  "name": "Kunstraum Kreuzlingen",
+                  "text": "Un spațiu expozițional pentru artă modernă și proiecte culturale.",
+                  "category": "museum",
+                  "coords": [
+                        9.175284,
+                        47.651161
+                  ]
+            },
+            {
+                  "name": "Wehranlage Schlossbüel",
+                  "text": "O fortificație istorică cu importanță arheologică.",
+                  "category": "historical",
+                  "coords": [
+                        9.152186,
+                        47.63796
+                  ]
+            },
+            {
+                  "name": "Südwestdeutsche Philharmonie Konstanz",
+                  "text": "O orchestră renumită cu sediul în Konstanz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177755,
+                        47.66168
+                  ]
+            },
+            {
+                  "name": "See-Burgtheater",
+                  "text": "Un teatru de vară pe malul Lacului Constanța.",
+                  "category": "cultural",
+                  "coords": [
+                        9.188764,
+                        47.649949
+                  ]
+            },
+            {
+                  "name": "Junges Theater Konstanz",
+                  "text": "O secțiune a teatrului din Konstanz pentru publicul tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177877,
+                        47.658152
+                  ]
+            },
+            {
+                  "name": "Kulturetage",
+                  "text": "Un centru pentru diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        9.172593,
+                        47.660731
+                  ]
+            },
+            {
+                  "name": "Solgenia",
+                  "text": "Un proiect sau o clădire inovatoare în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        9.171518,
+                        47.668412
+                  ]
+            },
+            {
+                  "name": "Riesenrad am See",
+                  "text": "O roată panoramică în port, care oferă vederi panoramice în timpul verii.",
+                  "category": "landmark",
+                  "coords": [
+                        9.17824,
+                        47.656443
+                  ]
+            },
+            {
+                  "name": "Mühlweiher",
+                  "text": "Mühlweiher din Kreuzlingen este un iaz liniștit care invită la relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.155826,
+                        47.709688
+                  ]
+            },
+            {
+                  "name": "Undere Bommerweiher",
+                  "text": "Undere Bommerweiher de lângă Kreuzlingen face parte dintr-o rezervație naturală idilică.",
+                  "category": "natural",
+                  "coords": [
+                        9.149812,
+                        47.617305
+                  ]
+            },
+            {
+                  "name": "Bruckgraben",
+                  "text": "Bruckgraben din Kreuzlingen este un corp de apă local într-un mediu natural.",
+                  "category": "natural",
+                  "coords": [
+                        9.091518,
+                        47.686893
+                  ]
+            },
+            {
+                  "name": "Obere Bommerweiher",
+                  "text": "Obere Bommerweiher de lângă Kreuzlingen oferă o atmosferă liniștită pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        9.157578,
+                        47.618685
+                  ]
+            },
+            {
+                  "name": "Bodensee",
+                  "text": "Lacul Constance de lângă Kreuzlingen oferă diverse posibilități pentru sporturi nautice și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Fusion Arena Virtual Reality Center Kreuzlingen",
+                  "text": "Fusion Arena Virtual Reality Center din Kreuzlingen oferă experiențe VR moderne pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.172235,
+                        47.650811
+                  ]
+            },
+            {
+                  "name": "Georg-Elser-Platz",
+                  "text": "Georg-Elser-Platz din Kreuzlingen oferă o zonă pentru joacă și relaxare. Este un loc de întâlnire popular pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.178424,
+                        47.669837
+                  ]
+            },
+            {
+                  "name": "Spielplatz Spielburgpark",
+                  "text": "Locul de joacă Spielburgpark din Kreuzlingen invită copiii la activități variate. O destinație frumoasă pentru o după-amiază în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.181987,
+                        47.650284
+                  ]
+            },
+            {
+                  "name": "Spielplatz Europapark",
+                  "text": "Locul de joacă Europapark din Kreuzlingen oferă echipamente variate pentru copii. Un loc minunat pentru activități de familie.",
+                  "category": "family",
+                  "coords": [
+                        9.163782,
+                        47.668567
+                  ]
+            },
+            {
+                  "name": "Gütlespielplatz",
+                  "text": "Gütlespielplatz din Kreuzlingen este o zonă frumoasă în aer liber pentru copii. Este un loc popular pentru scurte ieșiri în familie.",
+                  "category": "family",
+                  "coords": [
+                        9.168668,
+                        47.661586
+                  ]
+            },
+            {
+                  "name": "Thermalbad Egelsee",
+                  "text": "Această baie publică din Kreuzlingen oferă bazine termale calde pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        9.176786,
+                        47.645533
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstanz",
+                  "text": "Această piscină din Kreuzlingen este situată chiar pe malul lacului Constanța și oferă bazine moderne.",
+                  "category": "family",
+                  "coords": [
+                        9.208959,
+                        47.664522
+                  ]
+            },
+            {
+                  "name": "Strandbad Horn",
+                  "text": "Această plajă din Kreuzlingen este situată într-un parc vast de pe malul lacului.",
+                  "category": "family",
+                  "coords": [
+                        9.214678,
+                        47.666807
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstsanz",
+                  "text": "Această zonă de înot din Kreuzlingen oferă acces la lac și recreere lângă apă.",
+                  "category": "family",
+                  "coords": [
+                        9.210856,
+                        47.664048
+                  ]
+            },
+            {
+                  "name": "Nichtschwimmerbecken",
+                  "text": "Această piscină specială din Kreuzlingen este destinată începătorilor și celor care nu știu să înoate.",
+                  "category": "family",
+                  "coords": [
+                        9.210249,
+                        47.66523
+                  ]
+            },
+            {
+                  "name": "Tierpark Kreuzlingen",
+                  "text": "Acest parc de animale din Kreuzlingen găzduiește diverse specii de animale native.",
+                  "category": "family",
+                  "coords": [
+                        9.185224,
+                        47.650517
+                  ]
+            },
+            {
+                  "name": "Rheinstrandbad",
+                  "text": "Acest loc de scăldat din Kreuzlingen oferă oportunități de înot în Rin.",
+                  "category": "family",
+                  "coords": [
+                        9.175637,
+                        47.668232
+                  ]
+            },
+            {
+                  "name": "Piazza Cisternino",
+                  "text": "Acest parc tematic din Kreuzlingen oferă spațiu pentru joacă și socializare pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        9.174507,
+                        47.649365
+                  ]
+            },
+            {
+                  "name": "Seerheinbad Tägerwilen",
+                  "text": "Această stațiune de plajă din Kreuzlingen este situată chiar pe Seerhein și invită la scăldat.",
+                  "category": "family",
+                  "coords": [
+                        9.144115,
+                        47.663722
+                  ]
+            },
+            {
+                  "name": "Badeplatz Bommerweiher",
+                  "text": "Acest iaz din Kreuzlingen oferă un cadru natural pentru o răcorire în apă.",
+                  "category": "family",
+                  "coords": [
+                        9.147243,
+                        47.616549
+                  ]
+            },
+            {
+                  "name": "K 9",
+                  "text": "K 9 din Konstanz este un centru cultural găzduit într-o fostă biserică. Acesta oferă o scenă pentru cabaret, muzică și teatru alternativ, în apropiere de Kreuzlingen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.171467,
+                        47.659909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Ebersberg",
+                  "text": "A historic castle in the Thurgau region, formerly a medieval fortress.",
+                  "category": "castle",
+                  "coords": [
+                        9.154067,
+                        47.642882
+                  ]
+            },
+            {
+                  "name": "Städtische Wessenberg Galerie",
+                  "text": "A municipal art gallery in Constance showcasing regional and modern art.",
+                  "category": "museum",
+                  "coords": [
+                        9.175074,
+                        47.663305
+                  ]
+            },
+            {
+                  "name": "Bodensee-Naturmuseum",
+                  "text": "A museum dedicated to the natural history and ecology of Lake Constance.",
+                  "category": "museum",
+                  "coords": [
+                        9.180583,
+                        47.657108
+                  ]
+            },
+            {
+                  "name": "Petershausen Abbey",
+                  "text": "A former Benedictine monastery in Constance, now housing cultural institutions.",
+                  "category": "museum",
+                  "coords": [
+                        9.178877,
+                        47.668187
+                  ]
+            },
+            {
+                  "name": "Schloss Brunnegg",
+                  "text": "A Neo-Gothic castle building in Kreuzlingen surrounded by a park.",
+                  "category": "castle",
+                  "coords": [
+                        9.152155,
+                        47.64681
+                  ]
+            },
+            {
+                  "name": "Schloss Römerburg",
+                  "text": "A historic manor house in Kreuzlingen with distinctive architectural features.",
+                  "category": "castle",
+                  "coords": [
+                        9.181522,
+                        47.641075
+                  ]
+            },
+            {
+                  "name": "Schloss Seeburg",
+                  "text": "A picturesque castle on the shores of Lake Constance within Seeburgpark.",
+                  "category": "castle",
+                  "coords": [
+                        9.186659,
+                        47.649526
+                  ]
+            },
+            {
+                  "name": "Schloss Liebburg",
+                  "text": "A historic castle in the Thurgau region known for its late Gothic style.",
+                  "category": "castle",
+                  "coords": [
+                        9.202418,
+                        47.625454
+                  ]
+            },
+            {
+                  "name": "Theater Konstanz",
+                  "text": "Germany's oldest continuously operating theatre, located in the heart of Constance.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177177,
+                        47.663918
+                  ]
+            },
+            {
+                  "name": "St. Gebhardskirche",
+                  "text": "A Catholic parish church located in the Petershausen district of Konstanz.",
+                  "category": "religious",
+                  "coords": [
+                        9.18321,
+                        47.6708
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "An Evangelical church in Konstanz known for its modern stained glass art.",
+                  "category": "religious",
+                  "coords": [
+                        9.171308,
+                        47.661448
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitskirche",
+                  "text": "A former Augustinian monastery church featuring significant interior decorations.",
+                  "category": "religious",
+                  "coords": [
+                        9.174919,
+                        47.658779
+                  ]
+            },
+            {
+                  "name": "Schottenkapelle",
+                  "text": "A small historical chapel dedicated to Saint James.",
+                  "category": "religious",
+                  "coords": [
+                        9.173279,
+                        47.666266
+                  ]
+            },
+            {
+                  "name": "Triumphbogen / Laubebrunnen",
+                  "text": "A modern fountain by Peter Lenk that humorously depicts the city's history.",
+                  "category": "landmark",
+                  "coords": [
+                        9.172803,
+                        47.66304
+                  ]
+            },
+            {
+                  "name": "BSB Konstanz",
+                  "text": "The Lake Constance ship operations offer excursion trips across the entire lake.",
+                  "category": "landmark",
+                  "coords": [
+                        9.178268,
+                        47.660199
+                  ]
+            },
+            {
+                  "name": "Alte Rheinbrücke",
+                  "text": "The central bridge in Konstanz spanning the Seerhein river.",
+                  "category": "landmark",
+                  "coords": [
+                        9.178624,
+                        47.666258
+                  ]
+            },
+            {
+                  "name": "Fahrradbrücke",
+                  "text": "A bridge exclusively for cyclists and pedestrians over the Seerhein.",
+                  "category": "landmark",
+                  "coords": [
+                        9.174029,
+                        47.668247
+                  ]
+            },
+            {
+                  "name": "Schänzlebrücke",
+                  "text": "A major road bridge over the Rhine in Konstanz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.162925,
+                        47.669859
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "An observation tower in Seeburgpark with wide views over Lake Constance.",
+                  "category": "natural",
+                  "coords": [
+                        9.18535,
+                        47.652676
+                  ]
+            },
+            {
+                  "name": "Herosépark",
+                  "text": "An extensive public park on the banks of the Rhine in Konstanz.",
+                  "category": "park",
+                  "coords": [
+                        9.173696,
+                        47.669639
+                  ]
+            },
+            {
+                  "name": "Hus-Haus",
+                  "text": "A museum located in the former residence of the Czech reformer Jan Hus.",
+                  "category": "museum",
+                  "coords": [
+                        9.170944,
+                        47.658897
+                  ]
+            },
+            {
+                  "name": "Rosgartenmuseum",
+                  "text": "A museum for the art and cultural history of the Lake Constance region.",
+                  "category": "museum",
+                  "coords": [
+                        9.174765,
+                        47.65979
+                  ]
+            },
+            {
+                  "name": "Schloss Girsberg",
+                  "text": "A historical castle in Kreuzlingen, now used for private purposes.",
+                  "category": "castle",
+                  "coords": [
+                        9.150255,
+                        47.645492
+                  ]
+            },
+            {
+                  "name": "Schloss Rosenegg",
+                  "text": "A castle building that now houses the Rosenegg Museum.",
+                  "category": "castle",
+                  "coords": [
+                        9.172018,
+                        47.644271
+                  ]
+            },
+            {
+                  "name": "Schloss Bernegg",
+                  "text": "A striking castle estate near Kreuzlingen.",
+                  "category": "castle",
+                  "coords": [
+                        9.159021,
+                        47.64412
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche Kreuzlingen",
+                  "text": "The Evangelical city church of Kreuzlingen.",
+                  "category": "religious",
+                  "coords": [
+                        9.173013,
+                        47.644672
+                  ]
+            },
+            {
+                  "name": "Sankt Stefan",
+                  "text": "A significant Catholic church in the Kreuzlingen region.",
+                  "category": "religious",
+                  "coords": [
+                        9.16074,
+                        47.646926
+                  ]
+            },
+            {
+                  "name": "Sankt Ulrich",
+                  "text": "A historical sacred building in Kreuzlingen.",
+                  "category": "religious",
+                  "coords": [
+                        9.178657,
+                        47.645771
+                  ]
+            },
+            {
+                  "name": "Wallfahrtskapelle Heiligkreuz",
+                  "text": "A traditional chapel that is a destination for pilgrimages.",
+                  "category": "religious",
+                  "coords": [
+                        9.156512,
+                        47.637474
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche St. Peter",
+                  "text": "An Evangelical church in Kreuzlingen dedicated to Saint Peter.",
+                  "category": "religious",
+                  "coords": [
+                        9.195046,
+                        47.640637
+                  ]
+            },
+            {
+                  "name": "Rheintorturm",
+                  "text": "A prominent medieval tower that once protected the Rhine crossing.",
+                  "category": "landmark",
+                  "coords": [
+                        9.17741,
+                        47.666007
+                  ]
+            },
+            {
+                  "name": "Seemuseum",
+                  "text": "A museum in Kreuzlingen dedicated to shipping and fishing.",
+                  "category": "museum",
+                  "coords": [
+                        9.18908,
+                        47.648819
+                  ]
+            },
+            {
+                  "name": "Dorfmuseum Bottighofen",
+                  "text": "A small museum showcasing village life from earlier times.",
+                  "category": "museum",
+                  "coords": [
+                        9.212708,
+                        47.640684
+                  ]
+            },
+            {
+                  "name": "Galerie Ernst",
+                  "text": "Situated in Kreuzlingen, Galerie Ernst acts as a notable venue for contemporary art enthusiasts. This Swiss gallery introduces visitors to a variety of modern artistic expressions within its walls. Guests can anticipate an inspiring cultural experience focused on contemporary aesthetics.",
+                  "category": "museum",
+                  "coords": [
+                        9.174041,
+                        47.657004
+                  ]
+            },
+            {
+                  "name": "Leica Galerie",
+                  "text": "A gallery specializing in high-quality photography.",
+                  "category": "museum",
+                  "coords": [
+                        9.174708,
+                        47.664596
+                  ]
+            },
+            {
+                  "name": "Walentowski Galerien",
+                  "text": "A gallery with a wide range of modern art.",
+                  "category": "museum",
+                  "coords": [
+                        9.174244,
+                        47.661401
+                  ]
+            },
+            {
+                  "name": "Kunstraum Kreuzlingen",
+                  "text": "An exhibition space for modern art and cultural projects.",
+                  "category": "museum",
+                  "coords": [
+                        9.175284,
+                        47.651161
+                  ]
+            },
+            {
+                  "name": "Wehranlage Schlossbüel",
+                  "text": "A historical fortification of archaeological significance.",
+                  "category": "historical",
+                  "coords": [
+                        9.152186,
+                        47.63796
+                  ]
+            },
+            {
+                  "name": "Südwestdeutsche Philharmonie Konstanz",
+                  "text": "A renowned orchestra based in Konstanz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177755,
+                        47.66168
+                  ]
+            },
+            {
+                  "name": "See-Burgtheater",
+                  "text": "A summer theatre on the shores of Lake Constance.",
+                  "category": "cultural",
+                  "coords": [
+                        9.188764,
+                        47.649949
+                  ]
+            },
+            {
+                  "name": "Junges Theater Konstanz",
+                  "text": "A department of the Constance Theatre for a young audience.",
+                  "category": "cultural",
+                  "coords": [
+                        9.177877,
+                        47.658152
+                  ]
+            },
+            {
+                  "name": "Kulturetage",
+                  "text": "A center for various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        9.172593,
+                        47.660731
+                  ]
+            },
+            {
+                  "name": "Solgenia",
+                  "text": "An innovative project or building in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.171518,
+                        47.668412
+                  ]
+            },
+            {
+                  "name": "Riesenrad am See",
+                  "text": "A Ferris wheel at the harbor offering panoramic views during summer.",
+                  "category": "landmark",
+                  "coords": [
+                        9.17824,
+                        47.656443
+                  ]
+            },
+            {
+                  "name": "Mühlweiher",
+                  "text": "The Mühlweiher in Kreuzlingen is a peaceful pond that invites visitors to relax.",
+                  "category": "natural",
+                  "coords": [
+                        9.155826,
+                        47.709688
+                  ]
+            },
+            {
+                  "name": "Undere Bommerweiher",
+                  "text": "The Undere Bommerweiher near Kreuzlingen is part of an idyllic nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        9.149812,
+                        47.617305
+                  ]
+            },
+            {
+                  "name": "Bruckgraben",
+                  "text": "The Bruckgraben in Kreuzlingen is a local body of water in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        9.091518,
+                        47.686893
+                  ]
+            },
+            {
+                  "name": "Obere Bommerweiher",
+                  "text": "The Obere Bommerweiher near Kreuzlingen offers a peaceful atmosphere for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        9.157578,
+                        47.618685
+                  ]
+            },
+            {
+                  "name": "Lake Constance",
+                  "text": "Lake Constance near Kreuzlingen offers various opportunities for water sports and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Fusion Arena Virtual Reality Center Kreuzlingen",
+                  "text": "Fusion Arena Virtual Reality Center in Kreuzlingen offers modern VR experiences for families.",
+                  "category": "family",
+                  "coords": [
+                        9.172235,
+                        47.650811
+                  ]
+            },
+            {
+                  "name": "Georg-Elser-Platz",
+                  "text": "The Georg-Elser-Platz in Kreuzlingen provides an area for playing and relaxing. It is a popular meeting point for families.",
+                  "category": "family",
+                  "coords": [
+                        9.178424,
+                        47.669837
+                  ]
+            },
+            {
+                  "name": "Spielplatz Spielburgpark",
+                  "text": "The Spielplatz Spielburgpark in Kreuzlingen invites children to enjoy varied play. A lovely destination for an afternoon with the family.",
+                  "category": "family",
+                  "coords": [
+                        9.181987,
+                        47.650284
+                  ]
+            },
+            {
+                  "name": "Spielplatz Europapark",
+                  "text": "The Spielplatz Europapark in Kreuzlingen offers diverse play equipment for children. A great spot for family leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        9.163782,
+                        47.668567
+                  ]
+            },
+            {
+                  "name": "Gütlespielplatz",
+                  "text": "The Gütlespielplatz in Kreuzlingen is a nice outdoor area for children. It is a popular spot for a short family visit.",
+                  "category": "family",
+                  "coords": [
+                        9.168668,
+                        47.661586
+                  ]
+            },
+            {
+                  "name": "Thermalbad Egelsee",
+                  "text": "This public bath in Kreuzlingen offers warm thermal pools for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        9.176786,
+                        47.645533
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstanz",
+                  "text": "This swimming pool in Kreuzlingen is located directly on Lake Constance and offers modern pools.",
+                  "category": "family",
+                  "coords": [
+                        9.208959,
+                        47.664522
+                  ]
+            },
+            {
+                  "name": "Strandbad Horn",
+                  "text": "This lakeside beach in Kreuzlingen is set within a spacious park by the lake.",
+                  "category": "family",
+                  "coords": [
+                        9.214678,
+                        47.666807
+                  ]
+            },
+            {
+                  "name": "Bodensee-Therme Konstsanz",
+                  "text": "This swimming area in Kreuzlingen offers lake access and recreation by the water.",
+                  "category": "family",
+                  "coords": [
+                        9.210856,
+                        47.664048
+                  ]
+            },
+            {
+                  "name": "Nichtschwimmerbecken",
+                  "text": "This special swimming pool in Kreuzlingen is intended for beginners and non-swimmers.",
+                  "category": "family",
+                  "coords": [
+                        9.210249,
+                        47.66523
+                  ]
+            },
+            {
+                  "name": "Tierpark Kreuzlingen",
+                  "text": "This animal park in Kreuzlingen is home to various native animal species.",
+                  "category": "family",
+                  "coords": [
+                        9.185224,
+                        47.650517
+                  ]
+            },
+            {
+                  "name": "Rheinstrandbad",
+                  "text": "This swimming spot in Kreuzlingen offers opportunities for swimming in the Rhine.",
+                  "category": "family",
+                  "coords": [
+                        9.175637,
+                        47.668232
+                  ]
+            },
+            {
+                  "name": "Piazza Cisternino",
+                  "text": "This theme park in Kreuzlingen provides space for play and gathering for families.",
+                  "category": "family",
+                  "coords": [
+                        9.174507,
+                        47.649365
+                  ]
+            },
+            {
+                  "name": "Seerheinbad Tägerwilen",
+                  "text": "This beach resort in Kreuzlingen is located directly on the Seerhein and invites visitors to bathe.",
+                  "category": "family",
+                  "coords": [
+                        9.144115,
+                        47.663722
+                  ]
+            },
+            {
+                  "name": "Badeplatz Bommerweiher",
+                  "text": "This pond in Kreuzlingen offers a natural setting for cooling off in the water.",
+                  "category": "family",
+                  "coords": [
+                        9.147243,
+                        47.616549
+                  ]
+            },
+            {
+                  "name": "K 9",
+                  "text": "The K 9 in Constance is a cultural center housed in a former church. It provides a stage for cabaret, music, and alternative theater near Kreuzlingen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.171467,
+                        47.659909
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CH",
     name: { de: "Kreuzlingen", hu: "Kreuzlingen", ro: "Kreuzlingen", en: "Kreuzlingen" },
@@ -43799,6 +47705,15 @@ export const switzerlandCitiesV2: POI[] = [
                         9.018837,
                         46.19664
                   ]
+            },
+            {
+                  "name": "Museo della Memoria",
+                  "text": "Das Museo della Memoria in Bellinzona befasst sich mit der Bewahrung der regionalen Geschichte und persönlichen Lebensgeschichten. Es dient als Dokumentationszentrum für die kulturelle Identität des Tessins.",
+                  "category": "museum",
+                  "coords": [
+                        9.017311,
+                        46.180603
+                  ]
             }
       ],
       "hu": [
@@ -44124,6 +48039,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         9.018837,
                         46.19664
+                  ]
+            },
+            {
+                  "name": "Museo della Memoria",
+                  "text": "A bellinzonai Museo della Memoria a regionális történelem és a személyes élettörténetek megőrzésével foglalkozik. Dokumentációs központként szolgál Ticino kulturális identitása számára.",
+                  "category": "museum",
+                  "coords": [
+                        9.017311,
+                        46.180603
                   ]
             }
       ],
@@ -44451,6 +48375,15 @@ export const switzerlandCitiesV2: POI[] = [
                         9.018837,
                         46.19664
                   ]
+            },
+            {
+                  "name": "Museo della Memoria",
+                  "text": "Museo della Memoria din Bellinzona se ocupă cu păstrarea istoriei regionale și a poveștilor de viață personale. Acesta servește ca centru de documentare pentru identitatea culturală a cantonului Ticino.",
+                  "category": "museum",
+                  "coords": [
+                        9.017311,
+                        46.180603
+                  ]
             }
       ],
       "en": [
@@ -44776,6 +48709,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         9.018837,
                         46.19664
+                  ]
+            },
+            {
+                  "name": "Museo della Memoria",
+                  "text": "The Museo della Memoria in Bellinzona is dedicated to preserving regional history and personal life stories. It serves as a documentation center for the cultural identity of Ticino.",
+                  "category": "museum",
+                  "coords": [
+                        9.017311,
+                        46.180603
                   ]
             }
       ]
@@ -51854,6 +55796,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.621713,
                         47.030835
                   ]
+            },
+            {
+                  "name": "Kulturturm",
+                  "text": "Der Kulturturm in Schwyz ist ein markantes Bauwerk, das für kulturelle Zwecke und Installationen genutzt wird. Besucher können hier moderne Architektur im historischen Kontext der Stadt erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.630334,
+                        47.019489
+                  ]
             }
       ],
       "hu": [
@@ -52098,6 +56049,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.621713,
                         47.030835
+                  ]
+            },
+            {
+                  "name": "Kulturturm",
+                  "text": "A schwyzi Kulturturm egy jellegzetes építmény, amelyet kulturális célokra és installációk számára használnak. A látogatók itt a modern építészetet élvezhetik a város történelmi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.630334,
+                        47.019489
                   ]
             }
       ],
@@ -52344,6 +56304,15 @@ export const switzerlandCitiesV2: POI[] = [
                         8.621713,
                         47.030835
                   ]
+            },
+            {
+                  "name": "Kulturturm",
+                  "text": "Kulturturm din Schwyz este o structură distinctivă utilizată pentru scopuri culturale și instalații. Vizitatorii pot experimenta aici arhitectura modernă în contextul istoric al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        8.630334,
+                        47.019489
+                  ]
             }
       ],
       "en": [
@@ -52588,6 +56557,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         8.621713,
                         47.030835
+                  ]
+            },
+            {
+                  "name": "Kulturturm",
+                  "text": "The Kulturturm in Schwyz is a striking structure used for cultural purposes and installations. Visitors can experience modern architecture within the city's historical context.",
+                  "category": "landmark",
+                  "coords": [
+                        8.630334,
+                        47.019489
                   ]
             }
       ]
@@ -58289,6 +62267,15 @@ export const switzerlandCitiesV2: POI[] = [
                         6.849436,
                         47.168646
                   ]
+            },
+            {
+                  "name": "Roche de l'Aigle",
+                  "text": "Roche de l'Aigle ist ein Aussichtspunkt auf dem Mont Soleil, der für seinen weiten Blick und die oft beobachtbaren Greifvögel bekannt ist. Wanderer finden hier einen markanten Platz, um die Größe der Natur zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        6.873153,
+                        47.171785
+                  ]
             }
       ],
       "hu": [
@@ -58362,6 +62349,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         6.849436,
                         47.168646
+                  ]
+            },
+            {
+                  "name": "Roche de l'Aigle",
+                  "text": "A Roche de l'Aigle egy kilátópont a Mont Soleil-en, amely széles kilátásáról és a gyakran látható ragadozómadarakról ismert. A túrázók itt egy jellegzetes helyet találnak a természet nagyságának megtapasztalására.",
+                  "category": "natural",
+                  "coords": [
+                        6.873153,
+                        47.171785
                   ]
             }
       ],
@@ -58437,6 +62433,15 @@ export const switzerlandCitiesV2: POI[] = [
                         6.849436,
                         47.168646
                   ]
+            },
+            {
+                  "name": "Roche de l'Aigle",
+                  "text": "Roche de l'Aigle este un punct de belvedere pe Mont Soleil, cunoscut pentru vederea sa largă și păsările de pradă care pot fi observate adesea. Drumeții găsesc aici un loc marcant pentru a experimenta măreția naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.873153,
+                        47.171785
+                  ]
             }
       ],
       "en": [
@@ -58510,6 +62515,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         6.849436,
                         47.168646
+                  ]
+            },
+            {
+                  "name": "Roche de l'Aigle",
+                  "text": "Roche de l'Aigle is a viewpoint on Mont Soleil known for its wide view and the birds of prey that can often be observed. Hikers will find this a striking spot to experience the grandeur of nature.",
+                  "category": "natural",
+                  "coords": [
+                        6.873153,
+                        47.171785
                   ]
             }
       ]
@@ -60358,7 +64372,628 @@ export const switzerlandCitiesV2: POI[] = [
     image: "/poi-images/switzerland-la-chaux-v2-cities-v2.webp",
   },
   {
-    id: "switzerland-bulle-v2-cities-v2", "sights": {"de": [{"name": "Greyerzer Museum", "text": "Ein Museum in Bulle, das das kulturelle Erbe der Greyerz-Region bewahrt.", "category": "museum", "coords": [7.058529, 46.61671]}, {"name": "Goya Onda (planned)", "text": "Ein geplanter Wasserpark und Surfanlage in Bulle-La Tour.", "category": "family", "coords": [7.093715, 46.623777]}, {"name": "Morlon Beach", "text": "Eingebettet in die idyllische Landschaft um Bulle, bietet Morlon Beach ein wunderschönes Strandbad-Erlebnis am Lac de la Gruyère. Besucher schätzen das ruhige Umfeld, das zum Entspannen fernab städtischer Hektik einlädt. Das Ufer eignet sich bestens für erfrischende Badegänge und entspannte Nachmittage auf der Decke. Für einen optimalen Tagesausflug ist es ratsam, Badesachen und ausreichend Sonnencreme einzupacken.", "category": "recreational", "coords": [7.095639, 46.626621]}, {"name": "Le Gruyérien", "text": "Eine lokale Sehenswürdigkeit oder Attraktion in Bulle.", "category": "landmark", "coords": [7.056955, 46.617751]}, {"name": "Centre Culturel Ebullition", "text": "Ein alternatives Kulturzentrum in Bulle für Konzerte und Kunst.", "category": "cultural", "coords": [7.054366, 46.616106]}, {"name": "pétanque Bulle club", "text": "Ein lokaler Sportverein und Platz für Pétanque-Begeisterte in Bulle.", "category": "landmark", "coords": [7.063534, 46.630119]}, {"name": "Pfarrkirche Saint-Joseph", "text": "Die katholische Pfarrkirche Saint-Joseph in Bulle.", "category": "religious", "coords": [7.066382, 46.609155]}, {"name": "Paroisse de Vuadens", "text": "Das religiöse Zentrum der Pfarrei Vuadens bei Bulle.", "category": "religious", "coords": [7.019063, 46.616336]}, {"name": "Eglise Saint-Michel", "text": "Eine dem Erzengel Michael gewidmete Kirche in der Region Bulle.", "category": "religious", "coords": [7.061361, 46.641539]}, {"name": "Chapelle Ste-Anne Riaz", "text": "Eine Kapelle, die der Heiligen Anna gewidmet ist, in Riaz bei Bulle.", "category": "religious", "coords": [7.051967, 46.641241]}, {"name": "Eglise Morlon", "text": "Die Dorfkirche der Gemeinde Morlon in der Nähe von Bulle.", "category": "religious", "coords": [7.08786, 46.627963]}, {"name": "Temple réformeé", "text": "Das Gotteshaus der reformierten Gemeinde in Bulle.", "category": "religious", "coords": [7.058477, 46.614309]}, {"name": "Lac de Montsalvens", "text": "Der Lac de Montsalvens liegt bei Bulle La Tour und ist für seine Staumauer bekannt.", "category": "natural", "coords": [7.146805, 46.615405]}, {"name": "Greyerzersee", "text": "Der Lac de la Gruyère ist ein großer Stausee bei Bulle La Tour in schöner Landschaft.", "category": "natural", "coords": [7.099376, 46.6648]}, {"name": "Fun Planet", "text": "Fun Planet in Bulle La Tour bietet Indoor-Unterhaltung und Spiele für die ganze Familie.", "category": "family", "coords": [7.036793, 46.614758]}, {"name": "Place Pauvre-Jacques", "text": "Ein öffentlicher Spielplatz in Bulle La Tour, der Kindern einen Ort zum Toben bietet.", "category": "family", "coords": [7.049256, 46.624181]}], "hu": [{"name": "Musée Gruérien", "text": "Múzeum Bulle-ban, amely a Gruyère-vidék kulturális örökségét őrzi.", "category": "museum", "coords": [7.058529, 46.61671]}, {"name": "Goya Onda (planned)", "text": "Tervezett vízipark és szörfpálya Bulle-La Tourban.", "category": "family", "coords": [7.093715, 46.623777]}, {"name": "Morlon Beach", "text": "A Bulle körüli idilli tájba simuló Morlon Beach gyönyörű strandélményt kínál a Lac de la Gruyère partján. A látogatók értékelik a nyugodt környezetet, amely a városi rohanástól távol nyújt tökéletes kikapcsolódást. A part kiválóan alkalmas frissítő fürdőzésre és egy takarón heverészős, lusta délután eltöltésére. Egy optimális egynapos kiránduláshoz ajánlott fürdőruhát és elegendő naptejet csomagolni.", "category": "recreational", "coords": [7.095639, 46.626621]}, {"name": "Le Gruyérien", "text": "Helyi látványosság vagy attrakció Bulle-ban.", "category": "landmark", "coords": [7.056955, 46.617751]}, {"name": "Centre Culturel Ebullition", "text": "Alternatív kulturális központ Bulle-ban koncertek és művészetek számára.", "category": "cultural", "coords": [7.054366, 46.616106]}, {"name": "pétanque Bulle club", "text": "Helyi sportklub és pálya a pétanque kedvelőinek Bulle-ban.", "category": "landmark", "coords": [7.063534, 46.630119]}, {"name": "Église paroissiale Saint-Joseph", "text": "A Szent József katolikus plébániatemplom Bulle-ban.", "category": "religious", "coords": [7.066382, 46.609155]}, {"name": "Paroisse de Vuadens", "text": "Vuadens plébánia vallási központja Bulle közelében.", "category": "religious", "coords": [7.019063, 46.616336]}, {"name": "Eglise Saint-Michel", "text": "Szent Mihály arkangyalnak szentelt templom Bulle régiójában.", "category": "religious", "coords": [7.061361, 46.641539]}, {"name": "Chapelle Ste-Anne Riaz", "text": "Szent Annának szentelt kápolna Riazban, Bulle közelében.", "category": "religious", "coords": [7.051967, 46.641241]}, {"name": "Eglise Morlon", "text": "Morlon község falusi temploma Bulle közelében.", "category": "religious", "coords": [7.08786, 46.627963]}, {"name": "Temple réformeé", "text": "A református közösség temploma Bulle-ban.", "category": "religious", "coords": [7.058477, 46.614309]}, {"name": "Lac de Montsalvens", "text": "A Lac de Montsalvens Bulle La Tour közelében található, és gátjáról ismert.", "category": "natural", "coords": [7.146805, 46.615405]}, {"name": "Lac de la Gruyère", "text": "A Lac de la Gruyère egy nagy víztározó Bulle La Tour közelében, szép táji környezetben.", "category": "natural", "coords": [7.099376, 46.6648]}, {"name": "Fun Planet", "text": "A Fun Planet Bulle La Tourban beltéri szórakozást és játékokat kínál az egész családnak.", "category": "family", "coords": [7.036793, 46.614758]}, {"name": "Place Pauvre-Jacques", "text": "Nyilvános játszótér Bulle La Tourban, amely helyet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [7.049256, 46.624181]}], "ro": [{"name": "Musée Gruérien", "text": "Un muzeu din Bulle care conservă moștenirea culturală a regiunii Gruyère.", "category": "museum", "coords": [7.058529, 46.61671]}, {"name": "Goya Onda (planned)", "text": "Un parc acvatic și facilitate de surf planificate în Bulle-La Tour.", "category": "family", "coords": [7.093715, 46.623777]}, {"name": "Morlon Beach", "text": "Cuibărit în peisajul idilic din jurul localității Bulle, Morlon Beach oferă o experiență superbă de plajă pe Lac de la Gruyère. Vizitatorii apreciază mediul pașnic, ce îi cheamă să se relaxeze departe de agitația urbană. Țărmul este ideal pentru băi reconfortante și după-amiezi leneșe petrecute pe pătură. Pentru o excursie reușită de o zi, se recomandă să aveți la voi costumul de baie și protecție solară.", "category": "recreational", "coords": [7.095639, 46.626621]}, {"name": "Le Gruyérien", "text": "O atracție locală sau punct de interes în Bulle.", "category": "landmark", "coords": [7.056955, 46.617751]}, {"name": "Centre Culturel Ebullition", "text": "Un centru cultural alternativ în Bulle pentru concerte și artă.", "category": "cultural", "coords": [7.054366, 46.616106]}, {"name": "pétanque Bulle club", "text": "Un club sportiv local și teren pentru pasionații de pétanque în Bulle.", "category": "landmark", "coords": [7.063534, 46.630119]}, {"name": "Église paroissiale Saint-Joseph", "text": "Biserica parohială catolică Saint-Joseph din Bulle.", "category": "religious", "coords": [7.066382, 46.609155]}, {"name": "Paroisse de Vuadens", "text": "Centrul religios al parohiei Vuadens, lângă Bulle.", "category": "religious", "coords": [7.019063, 46.616336]}, {"name": "Eglise Saint-Michel", "text": "O biserică dedicată Sfântului Arhanghel Mihail în regiunea Bulle.", "category": "religious", "coords": [7.061361, 46.641539]}, {"name": "Chapelle Ste-Anne Riaz", "text": "O capelă dedicată Sfintei Ana în Riaz, lângă Bulle.", "category": "religious", "coords": [7.051967, 46.641241]}, {"name": "Eglise Morlon", "text": "Biserica din satul Morlon, situată lângă Bulle.", "category": "religious", "coords": [7.08786, 46.627963]}, {"name": "Temple réformeé", "text": "Lăcașul de cult al comunității reformate din Bulle.", "category": "religious", "coords": [7.058477, 46.614309]}, {"name": "Lac de Montsalvens", "text": "Lac de Montsalvens se află lângă Bulle La Tour și este cunoscut pentru barajul său.", "category": "natural", "coords": [7.146805, 46.615405]}, {"name": "Lac de la Gruyère", "text": "Lac de la Gruyère este un lac de acumulare mare lângă Bulle La Tour, într-un peisaj frumos.", "category": "natural", "coords": [7.099376, 46.6648]}, {"name": "Fun Planet", "text": "Fun Planet din Bulle La Tour oferă divertisment interior și jocuri pentru întreaga familie.", "category": "family", "coords": [7.036793, 46.614758]}, {"name": "Place Pauvre-Jacques", "text": "Un loc de joacă public în Bulle La Tour, care oferă copiilor un spațiu de recreere.", "category": "family", "coords": [7.049256, 46.624181]}], "en": [{"name": "Musée Gruérien", "text": "A museum in Bulle that preserves the cultural heritage of the Gruyère region.", "category": "museum", "coords": [7.058529, 46.61671]}, {"name": "Goya Onda (planned)", "text": "A planned water park and surfing facility in Bulle-La Tour.", "category": "family", "coords": [7.093715, 46.623777]}, {"name": "Morlon Beach", "text": "Nestled in the idyllic landscape around Bulle, Morlon Beach provides a beautiful bathing experience on the Lac de la Gruyère. Visitors appreciate the serene environment that invites relaxation far away from urban hustle. The shoreline is exceptionally suited for refreshing swims and leisurely afternoons lounging on a blanket. Packing swimwear and plenty of sunscreen is a great idea to make the most of your day trip here.", "category": "recreational", "coords": [7.095639, 46.626621]}, {"name": "Le Gruyérien", "text": "A local sight or attraction in Bulle.", "category": "landmark", "coords": [7.056955, 46.617751]}, {"name": "Centre Culturel Ebullition", "text": "An alternative cultural center in Bulle for concerts and arts.", "category": "cultural", "coords": [7.054366, 46.616106]}, {"name": "pétanque Bulle club", "text": "A local sports club and court for pétanque enthusiasts in Bulle.", "category": "landmark", "coords": [7.063534, 46.630119]}, {"name": "Église paroissiale Saint-Joseph", "text": "The Catholic parish church of Saint-Joseph in Bulle.", "category": "religious", "coords": [7.066382, 46.609155]}, {"name": "Paroisse de Vuadens", "text": "The religious center of the Vuadens parish near Bulle.", "category": "religious", "coords": [7.019063, 46.616336]}, {"name": "Eglise Saint-Michel", "text": "A church dedicated to Saint Michael the Archangel in the Bulle region.", "category": "religious", "coords": [7.061361, 46.641539]}, {"name": "Chapelle Ste-Anne Riaz", "text": "A chapel dedicated to Saint Anne in Riaz near Bulle.", "category": "religious", "coords": [7.051967, 46.641241]}, {"name": "Eglise Morlon", "text": "The village church of the municipality of Morlon near Bulle.", "category": "religious", "coords": [7.08786, 46.627963]}, {"name": "Temple réformeé", "text": "The place of worship for the reformed community in Bulle.", "category": "religious", "coords": [7.058477, 46.614309]}, {"name": "Lac de Montsalvens", "text": "Lac de Montsalvens is located near Bulle La Tour and is known for its dam.", "category": "natural", "coords": [7.146805, 46.615405]}, {"name": "Lac de la Gruyère", "text": "Lac de la Gruyère is a large reservoir near Bulle La Tour in a beautiful landscape.", "category": "natural", "coords": [7.099376, 46.6648]}, {"name": "Fun Planet", "text": "Fun Planet in Bulle La Tour offers indoor entertainment and games for the whole family.", "category": "family", "coords": [7.036793, 46.614758]}, {"name": "Place Pauvre-Jacques", "text": "A public playground in Bulle La Tour providing a place for children to play.", "category": "family", "coords": [7.049256, 46.624181]}]},
+    id: "switzerland-bulle-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Greyerzer Museum",
+                  "text": "Ein Museum in Bulle, das das kulturelle Erbe der Greyerz-Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        7.058529,
+                        46.61671
+                  ]
+            },
+            {
+                  "name": "Goya Onda (planned)",
+                  "text": "Ein geplanter Wasserpark und Surfanlage in Bulle-La Tour.",
+                  "category": "family",
+                  "coords": [
+                        7.093715,
+                        46.623777
+                  ]
+            },
+            {
+                  "name": "Morlon Beach",
+                  "text": "Eingebettet in die idyllische Landschaft um Bulle, bietet Morlon Beach ein wunderschönes Strandbad-Erlebnis am Lac de la Gruyère. Besucher schätzen das ruhige Umfeld, das zum Entspannen fernab städtischer Hektik einlädt. Das Ufer eignet sich bestens für erfrischende Badegänge und entspannte Nachmittage auf der Decke. Für einen optimalen Tagesausflug ist es ratsam, Badesachen und ausreichend Sonnencreme einzupacken.",
+                  "category": "recreational",
+                  "coords": [
+                        7.095639,
+                        46.626621
+                  ]
+            },
+            {
+                  "name": "Le Gruyérien",
+                  "text": "Eine lokale Sehenswürdigkeit oder Attraktion in Bulle.",
+                  "category": "landmark",
+                  "coords": [
+                        7.056955,
+                        46.617751
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ebullition",
+                  "text": "Ein alternatives Kulturzentrum in Bulle für Konzerte und Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        7.054366,
+                        46.616106
+                  ]
+            },
+            {
+                  "name": "pétanque Bulle club",
+                  "text": "Ein lokaler Sportverein und Platz für Pétanque-Begeisterte in Bulle.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063534,
+                        46.630119
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Saint-Joseph",
+                  "text": "Die katholische Pfarrkirche Saint-Joseph in Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.066382,
+                        46.609155
+                  ]
+            },
+            {
+                  "name": "Paroisse de Vuadens",
+                  "text": "Das religiöse Zentrum der Pfarrei Vuadens bei Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.019063,
+                        46.616336
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Michel",
+                  "text": "Eine dem Erzengel Michael gewidmete Kirche in der Region Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.061361,
+                        46.641539
+                  ]
+            },
+            {
+                  "name": "Chapelle Ste-Anne Riaz",
+                  "text": "Eine Kapelle, die der Heiligen Anna gewidmet ist, in Riaz bei Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.051967,
+                        46.641241
+                  ]
+            },
+            {
+                  "name": "Eglise Morlon",
+                  "text": "Die Dorfkirche der Gemeinde Morlon in der Nähe von Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.08786,
+                        46.627963
+                  ]
+            },
+            {
+                  "name": "Temple réformeé",
+                  "text": "Das Gotteshaus der reformierten Gemeinde in Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.058477,
+                        46.614309
+                  ]
+            },
+            {
+                  "name": "Lac de Montsalvens",
+                  "text": "Der Lac de Montsalvens liegt bei Bulle La Tour und ist für seine Staumauer bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        7.146805,
+                        46.615405
+                  ]
+            },
+            {
+                  "name": "Greyerzersee",
+                  "text": "Der Lac de la Gruyère ist ein großer Stausee bei Bulle La Tour in schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        7.099376,
+                        46.6648
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Fun Planet in Bulle La Tour bietet Indoor-Unterhaltung und Spiele für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        7.036793,
+                        46.614758
+                  ]
+            },
+            {
+                  "name": "Place Pauvre-Jacques",
+                  "text": "Ein öffentlicher Spielplatz in Bulle La Tour, der Kindern einen Ort zum Toben bietet.",
+                  "category": "family",
+                  "coords": [
+                        7.049256,
+                        46.624181
+                  ]
+            },
+            {
+                  "name": "CO2",
+                  "text": "CO2 ist ein zeitgenössischer Theatersaal in Bulle, der für eine Vielzahl von kulturellen Aufführungen genutzt wird. Er bietet ein abwechslungsreiches Programm von Konzerten bis hin zu dramatischen Stücken.",
+                  "category": "cultural",
+                  "coords": [
+                        7.06061,
+                        46.605798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Gruérien",
+                  "text": "Múzeum Bulle-ban, amely a Gruyère-vidék kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        7.058529,
+                        46.61671
+                  ]
+            },
+            {
+                  "name": "Goya Onda (planned)",
+                  "text": "Tervezett vízipark és szörfpálya Bulle-La Tourban.",
+                  "category": "family",
+                  "coords": [
+                        7.093715,
+                        46.623777
+                  ]
+            },
+            {
+                  "name": "Morlon Beach",
+                  "text": "A Bulle körüli idilli tájba simuló Morlon Beach gyönyörű strandélményt kínál a Lac de la Gruyère partján. A látogatók értékelik a nyugodt környezetet, amely a városi rohanástól távol nyújt tökéletes kikapcsolódást. A part kiválóan alkalmas frissítő fürdőzésre és egy takarón heverészős, lusta délután eltöltésére. Egy optimális egynapos kiránduláshoz ajánlott fürdőruhát és elegendő naptejet csomagolni.",
+                  "category": "recreational",
+                  "coords": [
+                        7.095639,
+                        46.626621
+                  ]
+            },
+            {
+                  "name": "Le Gruyérien",
+                  "text": "Helyi látványosság vagy attrakció Bulle-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.056955,
+                        46.617751
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ebullition",
+                  "text": "Alternatív kulturális központ Bulle-ban koncertek és művészetek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.054366,
+                        46.616106
+                  ]
+            },
+            {
+                  "name": "pétanque Bulle club",
+                  "text": "Helyi sportklub és pálya a pétanque kedvelőinek Bulle-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063534,
+                        46.630119
+                  ]
+            },
+            {
+                  "name": "Église paroissiale Saint-Joseph",
+                  "text": "A Szent József katolikus plébániatemplom Bulle-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.066382,
+                        46.609155
+                  ]
+            },
+            {
+                  "name": "Paroisse de Vuadens",
+                  "text": "Vuadens plébánia vallási központja Bulle közelében.",
+                  "category": "religious",
+                  "coords": [
+                        7.019063,
+                        46.616336
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Michel",
+                  "text": "Szent Mihály arkangyalnak szentelt templom Bulle régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        7.061361,
+                        46.641539
+                  ]
+            },
+            {
+                  "name": "Chapelle Ste-Anne Riaz",
+                  "text": "Szent Annának szentelt kápolna Riazban, Bulle közelében.",
+                  "category": "religious",
+                  "coords": [
+                        7.051967,
+                        46.641241
+                  ]
+            },
+            {
+                  "name": "Eglise Morlon",
+                  "text": "Morlon község falusi temploma Bulle közelében.",
+                  "category": "religious",
+                  "coords": [
+                        7.08786,
+                        46.627963
+                  ]
+            },
+            {
+                  "name": "Temple réformeé",
+                  "text": "A református közösség temploma Bulle-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.058477,
+                        46.614309
+                  ]
+            },
+            {
+                  "name": "Lac de Montsalvens",
+                  "text": "A Lac de Montsalvens Bulle La Tour közelében található, és gátjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.146805,
+                        46.615405
+                  ]
+            },
+            {
+                  "name": "Lac de la Gruyère",
+                  "text": "A Lac de la Gruyère egy nagy víztározó Bulle La Tour közelében, szép táji környezetben.",
+                  "category": "natural",
+                  "coords": [
+                        7.099376,
+                        46.6648
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "A Fun Planet Bulle La Tourban beltéri szórakozást és játékokat kínál az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        7.036793,
+                        46.614758
+                  ]
+            },
+            {
+                  "name": "Place Pauvre-Jacques",
+                  "text": "Nyilvános játszótér Bulle La Tourban, amely helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        7.049256,
+                        46.624181
+                  ]
+            },
+            {
+                  "name": "CO2",
+                  "text": "A CO2 egy kortárs színházterem Bulle-ban, amelyet számos kulturális előadásra használnak. Változatos programot kínál a koncertektől kezdve a drámai darabokig.",
+                  "category": "cultural",
+                  "coords": [
+                        7.06061,
+                        46.605798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Gruérien",
+                  "text": "Un muzeu din Bulle care conservă moștenirea culturală a regiunii Gruyère.",
+                  "category": "museum",
+                  "coords": [
+                        7.058529,
+                        46.61671
+                  ]
+            },
+            {
+                  "name": "Goya Onda (planned)",
+                  "text": "Un parc acvatic și facilitate de surf planificate în Bulle-La Tour.",
+                  "category": "family",
+                  "coords": [
+                        7.093715,
+                        46.623777
+                  ]
+            },
+            {
+                  "name": "Morlon Beach",
+                  "text": "Cuibărit în peisajul idilic din jurul localității Bulle, Morlon Beach oferă o experiență superbă de plajă pe Lac de la Gruyère. Vizitatorii apreciază mediul pașnic, ce îi cheamă să se relaxeze departe de agitația urbană. Țărmul este ideal pentru băi reconfortante și după-amiezi leneșe petrecute pe pătură. Pentru o excursie reușită de o zi, se recomandă să aveți la voi costumul de baie și protecție solară.",
+                  "category": "recreational",
+                  "coords": [
+                        7.095639,
+                        46.626621
+                  ]
+            },
+            {
+                  "name": "Le Gruyérien",
+                  "text": "O atracție locală sau punct de interes în Bulle.",
+                  "category": "landmark",
+                  "coords": [
+                        7.056955,
+                        46.617751
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ebullition",
+                  "text": "Un centru cultural alternativ în Bulle pentru concerte și artă.",
+                  "category": "cultural",
+                  "coords": [
+                        7.054366,
+                        46.616106
+                  ]
+            },
+            {
+                  "name": "pétanque Bulle club",
+                  "text": "Un club sportiv local și teren pentru pasionații de pétanque în Bulle.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063534,
+                        46.630119
+                  ]
+            },
+            {
+                  "name": "Église paroissiale Saint-Joseph",
+                  "text": "Biserica parohială catolică Saint-Joseph din Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.066382,
+                        46.609155
+                  ]
+            },
+            {
+                  "name": "Paroisse de Vuadens",
+                  "text": "Centrul religios al parohiei Vuadens, lângă Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.019063,
+                        46.616336
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Michel",
+                  "text": "O biserică dedicată Sfântului Arhanghel Mihail în regiunea Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.061361,
+                        46.641539
+                  ]
+            },
+            {
+                  "name": "Chapelle Ste-Anne Riaz",
+                  "text": "O capelă dedicată Sfintei Ana în Riaz, lângă Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.051967,
+                        46.641241
+                  ]
+            },
+            {
+                  "name": "Eglise Morlon",
+                  "text": "Biserica din satul Morlon, situată lângă Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.08786,
+                        46.627963
+                  ]
+            },
+            {
+                  "name": "Temple réformeé",
+                  "text": "Lăcașul de cult al comunității reformate din Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.058477,
+                        46.614309
+                  ]
+            },
+            {
+                  "name": "Lac de Montsalvens",
+                  "text": "Lac de Montsalvens se află lângă Bulle La Tour și este cunoscut pentru barajul său.",
+                  "category": "natural",
+                  "coords": [
+                        7.146805,
+                        46.615405
+                  ]
+            },
+            {
+                  "name": "Lac de la Gruyère",
+                  "text": "Lac de la Gruyère este un lac de acumulare mare lângă Bulle La Tour, într-un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        7.099376,
+                        46.6648
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Fun Planet din Bulle La Tour oferă divertisment interior și jocuri pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        7.036793,
+                        46.614758
+                  ]
+            },
+            {
+                  "name": "Place Pauvre-Jacques",
+                  "text": "Un loc de joacă public în Bulle La Tour, care oferă copiilor un spațiu de recreere.",
+                  "category": "family",
+                  "coords": [
+                        7.049256,
+                        46.624181
+                  ]
+            },
+            {
+                  "name": "CO2",
+                  "text": "CO2 este o sală de teatru contemporană din Bulle, utilizată pentru o varietate de spectacole culturale. Oferă un program diversificat, de la concerte la piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        7.06061,
+                        46.605798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Gruérien",
+                  "text": "A museum in Bulle that preserves the cultural heritage of the Gruyère region.",
+                  "category": "museum",
+                  "coords": [
+                        7.058529,
+                        46.61671
+                  ]
+            },
+            {
+                  "name": "Goya Onda (planned)",
+                  "text": "A planned water park and surfing facility in Bulle-La Tour.",
+                  "category": "family",
+                  "coords": [
+                        7.093715,
+                        46.623777
+                  ]
+            },
+            {
+                  "name": "Morlon Beach",
+                  "text": "Nestled in the idyllic landscape around Bulle, Morlon Beach provides a beautiful bathing experience on the Lac de la Gruyère. Visitors appreciate the serene environment that invites relaxation far away from urban hustle. The shoreline is exceptionally suited for refreshing swims and leisurely afternoons lounging on a blanket. Packing swimwear and plenty of sunscreen is a great idea to make the most of your day trip here.",
+                  "category": "recreational",
+                  "coords": [
+                        7.095639,
+                        46.626621
+                  ]
+            },
+            {
+                  "name": "Le Gruyérien",
+                  "text": "A local sight or attraction in Bulle.",
+                  "category": "landmark",
+                  "coords": [
+                        7.056955,
+                        46.617751
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ebullition",
+                  "text": "An alternative cultural center in Bulle for concerts and arts.",
+                  "category": "cultural",
+                  "coords": [
+                        7.054366,
+                        46.616106
+                  ]
+            },
+            {
+                  "name": "pétanque Bulle club",
+                  "text": "A local sports club and court for pétanque enthusiasts in Bulle.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063534,
+                        46.630119
+                  ]
+            },
+            {
+                  "name": "Église paroissiale Saint-Joseph",
+                  "text": "The Catholic parish church of Saint-Joseph in Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.066382,
+                        46.609155
+                  ]
+            },
+            {
+                  "name": "Paroisse de Vuadens",
+                  "text": "The religious center of the Vuadens parish near Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.019063,
+                        46.616336
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Michel",
+                  "text": "A church dedicated to Saint Michael the Archangel in the Bulle region.",
+                  "category": "religious",
+                  "coords": [
+                        7.061361,
+                        46.641539
+                  ]
+            },
+            {
+                  "name": "Chapelle Ste-Anne Riaz",
+                  "text": "A chapel dedicated to Saint Anne in Riaz near Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.051967,
+                        46.641241
+                  ]
+            },
+            {
+                  "name": "Eglise Morlon",
+                  "text": "The village church of the municipality of Morlon near Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.08786,
+                        46.627963
+                  ]
+            },
+            {
+                  "name": "Temple réformeé",
+                  "text": "The place of worship for the reformed community in Bulle.",
+                  "category": "religious",
+                  "coords": [
+                        7.058477,
+                        46.614309
+                  ]
+            },
+            {
+                  "name": "Lac de Montsalvens",
+                  "text": "Lac de Montsalvens is located near Bulle La Tour and is known for its dam.",
+                  "category": "natural",
+                  "coords": [
+                        7.146805,
+                        46.615405
+                  ]
+            },
+            {
+                  "name": "Lac de la Gruyère",
+                  "text": "Lac de la Gruyère is a large reservoir near Bulle La Tour in a beautiful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.099376,
+                        46.6648
+                  ]
+            },
+            {
+                  "name": "Fun Planet",
+                  "text": "Fun Planet in Bulle La Tour offers indoor entertainment and games for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        7.036793,
+                        46.614758
+                  ]
+            },
+            {
+                  "name": "Place Pauvre-Jacques",
+                  "text": "A public playground in Bulle La Tour providing a place for children to play.",
+                  "category": "family",
+                  "coords": [
+                        7.049256,
+                        46.624181
+                  ]
+            },
+            {
+                  "name": "CO2",
+                  "text": "CO2 is a contemporary theater hall in Bulle used for a variety of cultural performances. It offers a diverse program ranging from concerts to dramatic plays.",
+                  "category": "cultural",
+                  "coords": [
+                        7.06061,
+                        46.605798
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CH",
     name: { de: "Bulle-La Tour", hu: "Bulle-La Tour", ro: "Bulle-La Tour", en: "Bulle-La Tour" },
@@ -65462,6 +70097,15 @@ export const switzerlandCitiesV2: POI[] = [
                         6.212514,
                         46.173174
                   ]
+            },
+            {
+                  "name": "SEP",
+                  "text": "Die Galerie SEP befindet sich in Troinex. Sie bietet eine Plattform für die Präsentation vielfältiger visueller Künste in der Region.",
+                  "category": "museum",
+                  "coords": [
+                        6.142146,
+                        46.184001
+                  ]
             }
       ],
       "hu": [
@@ -65868,6 +70512,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         6.212514,
                         46.173174
+                  ]
+            },
+            {
+                  "name": "SEP",
+                  "text": "A SEP galéria Troinex területén található. Platformot biztosít a régió változatos vizuális művészeteinek bemutatására.",
+                  "category": "museum",
+                  "coords": [
+                        6.142146,
+                        46.184001
                   ]
             }
       ],
@@ -66276,6 +70929,15 @@ export const switzerlandCitiesV2: POI[] = [
                         6.212514,
                         46.173174
                   ]
+            },
+            {
+                  "name": "SEP",
+                  "text": "Galeria SEP este situată în Troinex. Aceasta oferă o platformă pentru prezentarea diverselor arte vizuale din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        6.142146,
+                        46.184001
+                  ]
             }
       ],
       "en": [
@@ -66682,6 +71344,15 @@ export const switzerlandCitiesV2: POI[] = [
                   "coords": [
                         6.212514,
                         46.173174
+                  ]
+            },
+            {
+                  "name": "SEP",
+                  "text": "The SEP gallery is located in Troinex. It provides a platform for showcasing diverse visual arts in the region.",
+                  "category": "museum",
+                  "coords": [
+                        6.142146,
+                        46.184001
                   ]
             }
       ]
